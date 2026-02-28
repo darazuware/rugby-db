@@ -1,0 +1,210 @@
+{
+  "浦安D-Rocks": {
+    "id": "100",
+    "color": "#002B6D",
+    "name_en": "Urayasu D-Rocks",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 56
+  },
+  "埼玉パナソニックワイルドナイツ": {
+    "id": "102",
+    "color": "#0055A5",
+    "name_en": "Saitama Panasonic Wild Knights",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 55
+  },
+  "静岡ブルーレヴズ": {
+    "id": "98",
+    "color": "#0057A7",
+    "name_en": "Shizuoka Blue Revs",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 57
+  },
+  "東芝ブレイブルーパス東京": {
+    "id": "103",
+    "color": "#D6001C",
+    "name_en": "Toshiba Brave Lupus Tokyo",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 52
+  },
+  "三菱重工相模原ダイナボアーズ": {
+    "id": "106",
+    "color": "#005F2F",
+    "name_en": "Mitsubishi Heavy Industries Sagamihara Dynaboars",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 56
+  },
+  "横浜キヤノンイーグルス": {
+    "id": "107",
+    "color": "#DA0028",
+    "name_en": "Yokohama Canon Eagles",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 54
+  },
+  "クボタスピアーズ船橋・東京ベイ": {
+    "id": "97",
+    "color": "#F47920",
+    "name_en": "Kubota Spears Funabashi Tokyo-Bay",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 60
+  },
+  "コベルコ神戸スティーラーズ": {
+    "id": "101",
+    "color": "#D7001E",
+    "name_en": "Kobelco Kobe Steelers",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 54
+  },
+  "東京サントリーサンゴリアス": {
+    "id": "99",
+    "color": "#FFD400",
+    "name_en": "Tokyo Suntory Sungoliath",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 58
+  },
+  "トヨタヴェルブリッツ": {
+    "id": "104",
+    "color": "#005632",
+    "name_en": "Toyota Verblitz",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 59
+  },
+  "三重ホンダヒート": {
+    "id": "105",
+    "color": "#E60012",
+    "name_en": "Mie Honda Heat",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 58
+  },
+  "リコーブラックラムズ東京": {
+    "id": "108",
+    "color": "#000000",
+    "name_en": "Ricoh Black Rams Tokyo",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 56
+  },
+  "NECグリーンロケッツ東葛": {
+    "id": "109",
+    "color": "#00965E",
+    "name_en": "NEC Green Rockets Tokatsu",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 47
+  },
+  "九州電力キューデンヴォルテクス": {
+    "id": "110",
+    "color": "#D7001E",
+    "name_en": "Kyushu Electric Power Kyuden Voltex",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 54
+  },
+  "清水建設江東ブルーシャークス": {
+    "id": "111",
+    "color": "#00479d",
+    "name_en": "Shimizu Koto Blue Sharks",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 60
+  },
+  "豊田自動織機シャトルズ愛知": {
+    "id": "112",
+    "color": "#003b71",
+    "name_en": "Toyota Industries Shuttles Aichi",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 54
+  },
+  "日本製鉄釜石シーウェイブス": {
+    "id": "113",
+    "color": "#D7001E",
+    "name_en": "Nippon Steel Kamaishi Seawaves",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 45
+  },
+  "花園近鉄ライナーズ": {
+    "id": "114",
+    "color": "#76232F",
+    "name_en": "Hanazono Kintetsu Liners",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 58
+  },
+  "日野レッドドルフィンズ": {
+    "id": "115",
+    "color": "#D7001E",
+    "name_en": "Hino Red Dolphins",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 48
+  },
+  "レッドハリケーンズ大阪": {
+    "id": "116",
+    "color": "#D7001E",
+    "name_en": "Red Hurricanes Osaka",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 60
+  },
+  "クリタウォーターガッシュ昭島": {
+    "id": "117",
+    "color": "#005CAA",
+    "name_en": "Kurita Water Gush Akishima",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 55
+  },
+  "狭山セコムラガッツ": {
+    "id": "118",
+    "color": "#D7001E",
+    "name_en": "Sayama Secom Rugguts",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 60
+  },
+  "中国電力レッドレグリオンズ": {
+    "id": "119",
+    "color": "#D7001E",
+    "name_en": "Chugoku Electric Power Red Regulions",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 41
+  },
+  "マツダスカイアクティブズ広島": {
+    "id": "120",
+    "color": "#00479d",
+    "name_en": "Mazda Skyactivs Hiroshima",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 50
+  },
+  "ヤクルトレビンズ戸田": {
+    "id": "121",
+    "color": "#003b71",
+    "name_en": "Yakult Levins Toda",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 49
+  },
+  "ルリーロ福岡": {
+    "id": "122",
+    "color": "#CBB57B",
+    "name_en": "LeRIRO Fukuoka",
+    "logo": "https://league-one.s3.ap-northeast-1.amazonaws.com/image/site_info/16991_1200x630_68636b5fa7b86.png",
+    "socials": {},
+    "player_count": 70
+  }
+}

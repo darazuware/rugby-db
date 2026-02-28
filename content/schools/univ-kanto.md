@@ -1,0 +1,13 @@
+---
+{
+  "title": "関東学院大学",
+  "layout": "school",
+  "slug": "univ-kanto",
+  "type": "大学",
+  "previous_names": []
+}
+---
+
+# 関東学院大学
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/ryuji-abe_lo_484496.html">阿部 竜二</a></td><td>WTB</td><td>27歳</td><td>日本製鉄釜石シーウェイブス</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/shodai-osada_lo_484510.html">長田 将大</a></td><td>PR</td><td>28歳</td><td>日本製鉄釜石シーウェイブス</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/asahi-uchikawa_lo_483543.html">内川 朝陽</a></td><td>FL</td><td>24歳</td><td>NECグリーンロケッツ東葛</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/tomohito-miyakawa_lo_484065.html">宮川 智海</a></td><td>LO</td><td>32歳</td><td>埼玉パナソニックワイルドナイツ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/keita-inagaki_lo_484071.html">稲垣 啓太</a></td><td>PR</td><td>36歳</td><td>埼玉パナソニックワイルドナイツ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/iori-suzuki_lo_484646.html">鈴木 伊織</a></td><td>No8</td><td>29歳</td><td>マツダスカイアクティブズ広島</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/yusuke-aramaki_lo_484913.html">荒牧 佑輔</a></td><td>FB</td><td>38歳</td><td>ルリーロ福岡</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/kanta-hattori_lo_484578.html">服部 莞太</a></td><td>SH</td><td>24歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/moeki-fukushi_lo_484580.html">福士 萌起</a></td><td>WTB</td><td>27歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/yujiro-yano_lo_484604.html">矢野 裕二郎</a></td><td>LO</td><td>25歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/joichiro-iwashita_lo_485913.html">岩下 丈一郎</a></td><td>CTB</td><td>30歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/kai-yamasaki_lo_483803.html">山崎 魁</a></td><td>LO</td><td>27歳</td><td>クリタウォーターガッシュ昭島</td></tr><tr class="player-row" data-school-norm="関東学院大学"><td><a href="../../player/shinpei-suganuma_lo_483809.html">菅沼 神兵</a></td><td>SO</td><td>34歳</td><td>クリタウォーターガッシュ昭島</td></tr></tbody></table></div>

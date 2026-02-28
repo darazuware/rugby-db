@@ -1,0 +1,1226 @@
+[
+  {
+    "id":1,
+    "name":"Team 1",
+    "name_ja":"埼玉ワイルドナイツ",
+    "league_id":1,
+    "stadium":"Stadium 1",
+    "founded_year":1995,
+    "url":"https:\/\/all.rugby\/team\/team-1"
+  },
+  {
+    "id":2,
+    "name":"Team 2",
+    "name_ja":"東京サンゴリアス",
+    "league_id":1,
+    "stadium":"Stadium 2",
+    "founded_year":2015,
+    "url":"https:\/\/all.rugby\/team\/team-2"
+  },
+  {
+    "id":3,
+    "name":"Team 3",
+    "name_ja":"横浜キヤノンイーグルス",
+    "league_id":1,
+    "stadium":"Stadium 3",
+    "founded_year":1975,
+    "url":"https:\/\/all.rugby\/team\/team-3"
+  },
+  {
+    "id":4,
+    "name":"Team 4",
+    "name_ja":"東芝ブレイブルーパス東京",
+    "league_id":1,
+    "stadium":"Stadium 4",
+    "founded_year":1990,
+    "url":"https:\/\/all.rugby\/team\/team-4"
+  },
+  {
+    "id":5,
+    "name":"Team 5",
+    "name_ja":"クボタスピアーズ船橋・東京ベイ",
+    "league_id":1,
+    "stadium":"Stadium 5",
+    "founded_year":1975,
+    "url":"https:\/\/all.rugby\/team\/team-5"
+  },
+  {
+    "id":6,
+    "name":"Team 6",
+    "name_ja":"静岡ブルーレヴズ",
+    "league_id":1,
+    "stadium":"Stadium 6",
+    "founded_year":1974,
+    "url":"https:\/\/all.rugby\/team\/team-6"
+  },
+  {
+    "id":7,
+    "name":"Team 7",
+    "name_ja":"トヨタヴェルブリッツ",
+    "league_id":1,
+    "stadium":"Stadium 7",
+    "founded_year":2016,
+    "url":"https:\/\/all.rugby\/team\/team-7"
+  },
+  {
+    "id":8,
+    "name":"Team 8",
+    "name_ja":"三重ホンダヒート",
+    "league_id":1,
+    "stadium":"Stadium 8",
+    "founded_year":1950,
+    "url":"https:\/\/all.rugby\/team\/team-8"
+  },
+  {
+    "id":9,
+    "name":"Team 9",
+    "name_ja":"コベルコ神戸スティーラーズ",
+    "league_id":1,
+    "stadium":"Stadium 9",
+    "founded_year":1970,
+    "url":"https:\/\/all.rugby\/team\/team-9"
+  },
+  {
+    "id":10,
+    "name":"Team 10",
+    "name_ja":"花園近鉄ライナーズ",
+    "league_id":1,
+    "stadium":"Stadium 10",
+    "founded_year":1950,
+    "url":"https:\/\/all.rugby\/team\/team-10"
+  },
+  {
+    "id":11,
+    "name":"Team 11",
+    "name_ja":"NTTドコモレッドハリケーンズ大阪",
+    "league_id":1,
+    "stadium":"Stadium 11",
+    "founded_year":1962,
+    "url":"https:\/\/all.rugby\/team\/team-11"
+  },
+  {
+    "id":12,
+    "name":"Team 12",
+    "name_ja":"宗像サニックスブルース",
+    "league_id":1,
+    "stadium":"Stadium 12",
+    "founded_year":1986,
+    "url":"https:\/\/all.rugby\/team\/team-12"
+  },
+  {
+    "id":13,
+    "name":"Team 1",
+    "name_ja":"埼玉ワイルドナイツ",
+    "league_id":2,
+    "stadium":"Stadium 1",
+    "founded_year":2018,
+    "url":"https:\/\/all.rugby\/team\/team-1"
+  },
+  {
+    "id":14,
+    "name":"Team 2",
+    "name_ja":"東京サンゴリアス",
+    "league_id":2,
+    "stadium":"Stadium 2",
+    "founded_year":2013,
+    "url":"https:\/\/all.rugby\/team\/team-2"
+  },
+  {
+    "id":15,
+    "name":"Team 3",
+    "name_ja":"横浜キヤノンイーグルス",
+    "league_id":2,
+    "stadium":"Stadium 3",
+    "founded_year":1982,
+    "url":"https:\/\/all.rugby\/team\/team-3"
+  },
+  {
+    "id":16,
+    "name":"Team 4",
+    "name_ja":"東芝ブレイブルーパス東京",
+    "league_id":2,
+    "stadium":"Stadium 4",
+    "founded_year":1994,
+    "url":"https:\/\/all.rugby\/team\/team-4"
+  },
+  {
+    "id":17,
+    "name":"Team 5",
+    "name_ja":"クボタスピアーズ船橋・東京ベイ",
+    "league_id":2,
+    "stadium":"Stadium 5",
+    "founded_year":1986,
+    "url":"https:\/\/all.rugby\/team\/team-5"
+  },
+  {
+    "id":18,
+    "name":"Team 6",
+    "name_ja":"静岡ブルーレヴズ",
+    "league_id":2,
+    "stadium":"Stadium 6",
+    "founded_year":1980,
+    "url":"https:\/\/all.rugby\/team\/team-6"
+  },
+  {
+    "id":19,
+    "name":"Team 7",
+    "name_ja":"トヨタヴェルブリッツ",
+    "league_id":2,
+    "stadium":"Stadium 7",
+    "founded_year":1994,
+    "url":"https:\/\/all.rugby\/team\/team-7"
+  },
+  {
+    "id":20,
+    "name":"Team 8",
+    "name_ja":"三重ホンダヒート",
+    "league_id":2,
+    "stadium":"Stadium 8",
+    "founded_year":2005,
+    "url":"https:\/\/all.rugby\/team\/team-8"
+  },
+  {
+    "id":21,
+    "name":"Team 9",
+    "name_ja":"コベルコ神戸スティーラーズ",
+    "league_id":2,
+    "stadium":"Stadium 9",
+    "founded_year":2000,
+    "url":"https:\/\/all.rugby\/team\/team-9"
+  },
+  {
+    "id":22,
+    "name":"Team 10",
+    "name_ja":"花園近鉄ライナーズ",
+    "league_id":2,
+    "stadium":"Stadium 10",
+    "founded_year":1964,
+    "url":"https:\/\/all.rugby\/team\/team-10"
+  },
+  {
+    "id":23,
+    "name":"Team 1",
+    "name_ja":"埼玉ワイルドナイツ",
+    "league_id":3,
+    "stadium":"Stadium 1",
+    "founded_year":2016,
+    "url":"https:\/\/all.rugby\/team\/team-1"
+  },
+  {
+    "id":24,
+    "name":"Team 2",
+    "name_ja":"東京サンゴリアス",
+    "league_id":3,
+    "stadium":"Stadium 2",
+    "founded_year":1990,
+    "url":"https:\/\/all.rugby\/team\/team-2"
+  },
+  {
+    "id":25,
+    "name":"Team 3",
+    "name_ja":"横浜キヤノンイーグルス",
+    "league_id":3,
+    "stadium":"Stadium 3",
+    "founded_year":1972,
+    "url":"https:\/\/all.rugby\/team\/team-3"
+  },
+  {
+    "id":26,
+    "name":"Team 4",
+    "name_ja":"東芝ブレイブルーパス東京",
+    "league_id":3,
+    "stadium":"Stadium 4",
+    "founded_year":1956,
+    "url":"https:\/\/all.rugby\/team\/team-4"
+  },
+  {
+    "id":27,
+    "name":"Team 5",
+    "name_ja":"クボタスピアーズ船橋・東京ベイ",
+    "league_id":3,
+    "stadium":"Stadium 5",
+    "founded_year":1954,
+    "url":"https:\/\/all.rugby\/team\/team-5"
+  },
+  {
+    "id":28,
+    "name":"Team 6",
+    "name_ja":"静岡ブルーレヴズ",
+    "league_id":3,
+    "stadium":"Stadium 6",
+    "founded_year":1977,
+    "url":"https:\/\/all.rugby\/team\/team-6"
+  },
+  {
+    "id":29,
+    "name":"Team 7",
+    "name_ja":"トヨタヴェルブリッツ",
+    "league_id":3,
+    "stadium":"Stadium 7",
+    "founded_year":1978,
+    "url":"https:\/\/all.rugby\/team\/team-7"
+  },
+  {
+    "id":30,
+    "name":"Team 8",
+    "name_ja":"三重ホンダヒート",
+    "league_id":3,
+    "stadium":"Stadium 8",
+    "founded_year":1967,
+    "url":"https:\/\/all.rugby\/team\/team-8"
+  },
+  {
+    "id":31,
+    "name":"Team 1 League 4",
+    "name_ja":"チーム1",
+    "league_id":4,
+    "stadium":"Stadium 1",
+    "founded_year":1987,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-4"
+  },
+  {
+    "id":32,
+    "name":"Team 2 League 4",
+    "name_ja":"チーム2",
+    "league_id":4,
+    "stadium":"Stadium 2",
+    "founded_year":1963,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-4"
+  },
+  {
+    "id":33,
+    "name":"Team 3 League 4",
+    "name_ja":"チーム3",
+    "league_id":4,
+    "stadium":"Stadium 3",
+    "founded_year":2014,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-4"
+  },
+  {
+    "id":34,
+    "name":"Team 4 League 4",
+    "name_ja":"チーム4",
+    "league_id":4,
+    "stadium":"Stadium 4",
+    "founded_year":1985,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-4"
+  },
+  {
+    "id":35,
+    "name":"Team 5 League 4",
+    "name_ja":"チーム5",
+    "league_id":4,
+    "stadium":"Stadium 5",
+    "founded_year":1960,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-4"
+  },
+  {
+    "id":36,
+    "name":"Team 6 League 4",
+    "name_ja":"チーム6",
+    "league_id":4,
+    "stadium":"Stadium 6",
+    "founded_year":1957,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-4"
+  },
+  {
+    "id":37,
+    "name":"Team 1 League 5",
+    "name_ja":"チーム1",
+    "league_id":5,
+    "stadium":"Stadium 1",
+    "founded_year":1983,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-5"
+  },
+  {
+    "id":38,
+    "name":"Team 2 League 5",
+    "name_ja":"チーム2",
+    "league_id":5,
+    "stadium":"Stadium 2",
+    "founded_year":1963,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-5"
+  },
+  {
+    "id":39,
+    "name":"Team 3 League 5",
+    "name_ja":"チーム3",
+    "league_id":5,
+    "stadium":"Stadium 3",
+    "founded_year":1959,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-5"
+  },
+  {
+    "id":40,
+    "name":"Team 4 League 5",
+    "name_ja":"チーム4",
+    "league_id":5,
+    "stadium":"Stadium 4",
+    "founded_year":1978,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-5"
+  },
+  {
+    "id":41,
+    "name":"Team 5 League 5",
+    "name_ja":"チーム5",
+    "league_id":5,
+    "stadium":"Stadium 5",
+    "founded_year":2009,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-5"
+  },
+  {
+    "id":42,
+    "name":"Team 6 League 5",
+    "name_ja":"チーム6",
+    "league_id":5,
+    "stadium":"Stadium 6",
+    "founded_year":2017,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-5"
+  },
+  {
+    "id":43,
+    "name":"Team 7 League 5",
+    "name_ja":"チーム7",
+    "league_id":5,
+    "stadium":"Stadium 7",
+    "founded_year":1998,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-5"
+  },
+  {
+    "id":44,
+    "name":"Team 8 League 5",
+    "name_ja":"チーム8",
+    "league_id":5,
+    "stadium":"Stadium 8",
+    "founded_year":2014,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-5"
+  },
+  {
+    "id":45,
+    "name":"Team 9 League 5",
+    "name_ja":"チーム9",
+    "league_id":5,
+    "stadium":"Stadium 9",
+    "founded_year":2010,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-5"
+  },
+  {
+    "id":46,
+    "name":"Team 10 League 5",
+    "name_ja":"チーム10",
+    "league_id":5,
+    "stadium":"Stadium 10",
+    "founded_year":1981,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-5"
+  },
+  {
+    "id":47,
+    "name":"Team 1 League 6",
+    "name_ja":"チーム1",
+    "league_id":6,
+    "stadium":"Stadium 1",
+    "founded_year":1971,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-6"
+  },
+  {
+    "id":48,
+    "name":"Team 2 League 6",
+    "name_ja":"チーム2",
+    "league_id":6,
+    "stadium":"Stadium 2",
+    "founded_year":1955,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-6"
+  },
+  {
+    "id":49,
+    "name":"Team 3 League 6",
+    "name_ja":"チーム3",
+    "league_id":6,
+    "stadium":"Stadium 3",
+    "founded_year":1980,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-6"
+  },
+  {
+    "id":50,
+    "name":"Team 4 League 6",
+    "name_ja":"チーム4",
+    "league_id":6,
+    "stadium":"Stadium 4",
+    "founded_year":1972,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-6"
+  },
+  {
+    "id":51,
+    "name":"Team 5 League 6",
+    "name_ja":"チーム5",
+    "league_id":6,
+    "stadium":"Stadium 5",
+    "founded_year":1978,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-6"
+  },
+  {
+    "id":52,
+    "name":"Team 6 League 6",
+    "name_ja":"チーム6",
+    "league_id":6,
+    "stadium":"Stadium 6",
+    "founded_year":1964,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-6"
+  },
+  {
+    "id":53,
+    "name":"Team 7 League 6",
+    "name_ja":"チーム7",
+    "league_id":6,
+    "stadium":"Stadium 7",
+    "founded_year":1965,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-6"
+  },
+  {
+    "id":54,
+    "name":"Team 8 League 6",
+    "name_ja":"チーム8",
+    "league_id":6,
+    "stadium":"Stadium 8",
+    "founded_year":2011,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-6"
+  },
+  {
+    "id":55,
+    "name":"Team 9 League 6",
+    "name_ja":"チーム9",
+    "league_id":6,
+    "stadium":"Stadium 9",
+    "founded_year":1967,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-6"
+  },
+  {
+    "id":56,
+    "name":"Team 10 League 6",
+    "name_ja":"チーム10",
+    "league_id":6,
+    "stadium":"Stadium 10",
+    "founded_year":1996,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-6"
+  },
+  {
+    "id":57,
+    "name":"Team 11 League 6",
+    "name_ja":"チーム11",
+    "league_id":6,
+    "stadium":"Stadium 11",
+    "founded_year":1956,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-6"
+  },
+  {
+    "id":58,
+    "name":"Team 12 League 6",
+    "name_ja":"チーム12",
+    "league_id":6,
+    "stadium":"Stadium 12",
+    "founded_year":1971,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-6"
+  },
+  {
+    "id":59,
+    "name":"Team 13 League 6",
+    "name_ja":"チーム13",
+    "league_id":6,
+    "stadium":"Stadium 13",
+    "founded_year":1994,
+    "url":"https:\/\/all.rugby\/team\/team-13-league-6"
+  },
+  {
+    "id":60,
+    "name":"Team 14 League 6",
+    "name_ja":"チーム14",
+    "league_id":6,
+    "stadium":"Stadium 14",
+    "founded_year":1971,
+    "url":"https:\/\/all.rugby\/team\/team-14-league-6"
+  },
+  {
+    "id":61,
+    "name":"Team 1 League 7",
+    "name_ja":"チーム1",
+    "league_id":7,
+    "stadium":"Stadium 1",
+    "founded_year":1973,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-7"
+  },
+  {
+    "id":62,
+    "name":"Team 2 League 7",
+    "name_ja":"チーム2",
+    "league_id":7,
+    "stadium":"Stadium 2",
+    "founded_year":1990,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-7"
+  },
+  {
+    "id":63,
+    "name":"Team 3 League 7",
+    "name_ja":"チーム3",
+    "league_id":7,
+    "stadium":"Stadium 3",
+    "founded_year":2020,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-7"
+  },
+  {
+    "id":64,
+    "name":"Team 4 League 7",
+    "name_ja":"チーム4",
+    "league_id":7,
+    "stadium":"Stadium 4",
+    "founded_year":1960,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-7"
+  },
+  {
+    "id":65,
+    "name":"Team 5 League 7",
+    "name_ja":"チーム5",
+    "league_id":7,
+    "stadium":"Stadium 5",
+    "founded_year":1976,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-7"
+  },
+  {
+    "id":66,
+    "name":"Team 6 League 7",
+    "name_ja":"チーム6",
+    "league_id":7,
+    "stadium":"Stadium 6",
+    "founded_year":1988,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-7"
+  },
+  {
+    "id":67,
+    "name":"Team 7 League 7",
+    "name_ja":"チーム7",
+    "league_id":7,
+    "stadium":"Stadium 7",
+    "founded_year":1964,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-7"
+  },
+  {
+    "id":68,
+    "name":"Team 8 League 7",
+    "name_ja":"チーム8",
+    "league_id":7,
+    "stadium":"Stadium 8",
+    "founded_year":1975,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-7"
+  },
+  {
+    "id":69,
+    "name":"Team 9 League 7",
+    "name_ja":"チーム9",
+    "league_id":7,
+    "stadium":"Stadium 9",
+    "founded_year":1951,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-7"
+  },
+  {
+    "id":70,
+    "name":"Team 10 League 7",
+    "name_ja":"チーム10",
+    "league_id":7,
+    "stadium":"Stadium 10",
+    "founded_year":1963,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-7"
+  },
+  {
+    "id":71,
+    "name":"Team 11 League 7",
+    "name_ja":"チーム11",
+    "league_id":7,
+    "stadium":"Stadium 11",
+    "founded_year":2007,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-7"
+  },
+  {
+    "id":72,
+    "name":"Team 12 League 7",
+    "name_ja":"チーム12",
+    "league_id":7,
+    "stadium":"Stadium 12",
+    "founded_year":1979,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-7"
+  },
+  {
+    "id":73,
+    "name":"Team 13 League 7",
+    "name_ja":"チーム13",
+    "league_id":7,
+    "stadium":"Stadium 13",
+    "founded_year":2007,
+    "url":"https:\/\/all.rugby\/team\/team-13-league-7"
+  },
+  {
+    "id":74,
+    "name":"Team 14 League 7",
+    "name_ja":"チーム14",
+    "league_id":7,
+    "stadium":"Stadium 14",
+    "founded_year":1972,
+    "url":"https:\/\/all.rugby\/team\/team-14-league-7"
+  },
+  {
+    "id":75,
+    "name":"Team 15 League 7",
+    "name_ja":"チーム15",
+    "league_id":7,
+    "stadium":"Stadium 15",
+    "founded_year":1953,
+    "url":"https:\/\/all.rugby\/team\/team-15-league-7"
+  },
+  {
+    "id":76,
+    "name":"Team 16 League 7",
+    "name_ja":"チーム16",
+    "league_id":7,
+    "stadium":"Stadium 16",
+    "founded_year":1993,
+    "url":"https:\/\/all.rugby\/team\/team-16-league-7"
+  },
+  {
+    "id":77,
+    "name":"Team 1 League 8",
+    "name_ja":"チーム1",
+    "league_id":8,
+    "stadium":"Stadium 1",
+    "founded_year":1964,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-8"
+  },
+  {
+    "id":78,
+    "name":"Team 2 League 8",
+    "name_ja":"チーム2",
+    "league_id":8,
+    "stadium":"Stadium 2",
+    "founded_year":1968,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-8"
+  },
+  {
+    "id":79,
+    "name":"Team 3 League 8",
+    "name_ja":"チーム3",
+    "league_id":8,
+    "stadium":"Stadium 3",
+    "founded_year":2004,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-8"
+  },
+  {
+    "id":80,
+    "name":"Team 4 League 8",
+    "name_ja":"チーム4",
+    "league_id":8,
+    "stadium":"Stadium 4",
+    "founded_year":1974,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-8"
+  },
+  {
+    "id":81,
+    "name":"Team 5 League 8",
+    "name_ja":"チーム5",
+    "league_id":8,
+    "stadium":"Stadium 5",
+    "founded_year":1989,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-8"
+  },
+  {
+    "id":82,
+    "name":"Team 6 League 8",
+    "name_ja":"チーム6",
+    "league_id":8,
+    "stadium":"Stadium 6",
+    "founded_year":1972,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-8"
+  },
+  {
+    "id":83,
+    "name":"Team 7 League 8",
+    "name_ja":"チーム7",
+    "league_id":8,
+    "stadium":"Stadium 7",
+    "founded_year":1979,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-8"
+  },
+  {
+    "id":84,
+    "name":"Team 8 League 8",
+    "name_ja":"チーム8",
+    "league_id":8,
+    "stadium":"Stadium 8",
+    "founded_year":1962,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-8"
+  },
+  {
+    "id":85,
+    "name":"Team 9 League 8",
+    "name_ja":"チーム9",
+    "league_id":8,
+    "stadium":"Stadium 9",
+    "founded_year":1963,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-8"
+  },
+  {
+    "id":86,
+    "name":"Team 10 League 8",
+    "name_ja":"チーム10",
+    "league_id":8,
+    "stadium":"Stadium 10",
+    "founded_year":1961,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-8"
+  },
+  {
+    "id":87,
+    "name":"Team 11 League 8",
+    "name_ja":"チーム11",
+    "league_id":8,
+    "stadium":"Stadium 11",
+    "founded_year":1963,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-8"
+  },
+  {
+    "id":88,
+    "name":"Team 12 League 8",
+    "name_ja":"チーム12",
+    "league_id":8,
+    "stadium":"Stadium 12",
+    "founded_year":1971,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-8"
+  },
+  {
+    "id":89,
+    "name":"Team 13 League 8",
+    "name_ja":"チーム13",
+    "league_id":8,
+    "stadium":"Stadium 13",
+    "founded_year":1974,
+    "url":"https:\/\/all.rugby\/team\/team-13-league-8"
+  },
+  {
+    "id":90,
+    "name":"Team 14 League 8",
+    "name_ja":"チーム14",
+    "league_id":8,
+    "stadium":"Stadium 14",
+    "founded_year":1965,
+    "url":"https:\/\/all.rugby\/team\/team-14-league-8"
+  },
+  {
+    "id":91,
+    "name":"Team 15 League 8",
+    "name_ja":"チーム15",
+    "league_id":8,
+    "stadium":"Stadium 15",
+    "founded_year":2012,
+    "url":"https:\/\/all.rugby\/team\/team-15-league-8"
+  },
+  {
+    "id":92,
+    "name":"Team 16 League 8",
+    "name_ja":"チーム16",
+    "league_id":8,
+    "stadium":"Stadium 16",
+    "founded_year":1996,
+    "url":"https:\/\/all.rugby\/team\/team-16-league-8"
+  },
+  {
+    "id":93,
+    "name":"Team 1 League 9",
+    "name_ja":"チーム1",
+    "league_id":9,
+    "stadium":"Stadium 1",
+    "founded_year":2000,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-9"
+  },
+  {
+    "id":94,
+    "name":"Team 2 League 9",
+    "name_ja":"チーム2",
+    "league_id":9,
+    "stadium":"Stadium 2",
+    "founded_year":2011,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-9"
+  },
+  {
+    "id":95,
+    "name":"Team 3 League 9",
+    "name_ja":"チーム3",
+    "league_id":9,
+    "stadium":"Stadium 3",
+    "founded_year":1983,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-9"
+  },
+  {
+    "id":96,
+    "name":"Team 4 League 9",
+    "name_ja":"チーム4",
+    "league_id":9,
+    "stadium":"Stadium 4",
+    "founded_year":1991,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-9"
+  },
+  {
+    "id":97,
+    "name":"Team 5 League 9",
+    "name_ja":"チーム5",
+    "league_id":9,
+    "stadium":"Stadium 5",
+    "founded_year":1956,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-9"
+  },
+  {
+    "id":98,
+    "name":"Team 6 League 9",
+    "name_ja":"チーム6",
+    "league_id":9,
+    "stadium":"Stadium 6",
+    "founded_year":1952,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-9"
+  },
+  {
+    "id":99,
+    "name":"Team 7 League 9",
+    "name_ja":"チーム7",
+    "league_id":9,
+    "stadium":"Stadium 7",
+    "founded_year":1966,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-9"
+  },
+  {
+    "id":100,
+    "name":"Team 8 League 9",
+    "name_ja":"チーム8",
+    "league_id":9,
+    "stadium":"Stadium 8",
+    "founded_year":1961,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-9"
+  },
+  {
+    "id":101,
+    "name":"Team 9 League 9",
+    "name_ja":"チーム9",
+    "league_id":9,
+    "stadium":"Stadium 9",
+    "founded_year":2008,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-9"
+  },
+  {
+    "id":102,
+    "name":"Team 10 League 9",
+    "name_ja":"チーム10",
+    "league_id":9,
+    "stadium":"Stadium 10",
+    "founded_year":2010,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-9"
+  },
+  {
+    "id":103,
+    "name":"Team 11 League 9",
+    "name_ja":"チーム11",
+    "league_id":9,
+    "stadium":"Stadium 11",
+    "founded_year":2014,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-9"
+  },
+  {
+    "id":104,
+    "name":"Team 12 League 9",
+    "name_ja":"チーム12",
+    "league_id":9,
+    "stadium":"Stadium 12",
+    "founded_year":1953,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-9"
+  },
+  {
+    "id":105,
+    "name":"Team 1 League 10",
+    "name_ja":"チーム1",
+    "league_id":10,
+    "stadium":"Stadium 1",
+    "founded_year":1976,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-10"
+  },
+  {
+    "id":106,
+    "name":"Team 2 League 10",
+    "name_ja":"チーム2",
+    "league_id":10,
+    "stadium":"Stadium 2",
+    "founded_year":1989,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-10"
+  },
+  {
+    "id":107,
+    "name":"Team 3 League 10",
+    "name_ja":"チーム3",
+    "league_id":10,
+    "stadium":"Stadium 3",
+    "founded_year":2020,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-10"
+  },
+  {
+    "id":108,
+    "name":"Team 4 League 10",
+    "name_ja":"チーム4",
+    "league_id":10,
+    "stadium":"Stadium 4",
+    "founded_year":1962,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-10"
+  },
+  {
+    "id":109,
+    "name":"Team 1 League 11",
+    "name_ja":"チーム1",
+    "league_id":11,
+    "stadium":"Stadium 1",
+    "founded_year":1950,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-11"
+  },
+  {
+    "id":110,
+    "name":"Team 2 League 11",
+    "name_ja":"チーム2",
+    "league_id":11,
+    "stadium":"Stadium 2",
+    "founded_year":1952,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-11"
+  },
+  {
+    "id":111,
+    "name":"Team 3 League 11",
+    "name_ja":"チーム3",
+    "league_id":11,
+    "stadium":"Stadium 3",
+    "founded_year":1970,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-11"
+  },
+  {
+    "id":112,
+    "name":"Team 4 League 11",
+    "name_ja":"チーム4",
+    "league_id":11,
+    "stadium":"Stadium 4",
+    "founded_year":2020,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-11"
+  },
+  {
+    "id":113,
+    "name":"Team 5 League 11",
+    "name_ja":"チーム5",
+    "league_id":11,
+    "stadium":"Stadium 5",
+    "founded_year":2005,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-11"
+  },
+  {
+    "id":114,
+    "name":"Team 6 League 11",
+    "name_ja":"チーム6",
+    "league_id":11,
+    "stadium":"Stadium 6",
+    "founded_year":1978,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-11"
+  },
+  {
+    "id":115,
+    "name":"Team 7 League 11",
+    "name_ja":"チーム7",
+    "league_id":11,
+    "stadium":"Stadium 7",
+    "founded_year":1954,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-11"
+  },
+  {
+    "id":116,
+    "name":"Team 8 League 11",
+    "name_ja":"チーム8",
+    "league_id":11,
+    "stadium":"Stadium 8",
+    "founded_year":1989,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-11"
+  },
+  {
+    "id":117,
+    "name":"Team 9 League 11",
+    "name_ja":"チーム9",
+    "league_id":11,
+    "stadium":"Stadium 9",
+    "founded_year":1968,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-11"
+  },
+  {
+    "id":118,
+    "name":"Team 10 League 11",
+    "name_ja":"チーム10",
+    "league_id":11,
+    "stadium":"Stadium 10",
+    "founded_year":2013,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-11"
+  },
+  {
+    "id":119,
+    "name":"Team 11 League 11",
+    "name_ja":"チーム11",
+    "league_id":11,
+    "stadium":"Stadium 11",
+    "founded_year":2010,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-11"
+  },
+  {
+    "id":120,
+    "name":"Team 12 League 11",
+    "name_ja":"チーム12",
+    "league_id":11,
+    "stadium":"Stadium 12",
+    "founded_year":2012,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-11"
+  },
+  {
+    "id":121,
+    "name":"Team 13 League 11",
+    "name_ja":"チーム13",
+    "league_id":11,
+    "stadium":"Stadium 13",
+    "founded_year":1955,
+    "url":"https:\/\/all.rugby\/team\/team-13-league-11"
+  },
+  {
+    "id":122,
+    "name":"Team 14 League 11",
+    "name_ja":"チーム14",
+    "league_id":11,
+    "stadium":"Stadium 14",
+    "founded_year":2013,
+    "url":"https:\/\/all.rugby\/team\/team-14-league-11"
+  },
+  {
+    "id":123,
+    "name":"Team 1 League 12",
+    "name_ja":"チーム1",
+    "league_id":12,
+    "stadium":"Stadium 1",
+    "founded_year":1988,
+    "url":"https:\/\/all.rugby\/team\/team-1-league-12"
+  },
+  {
+    "id":124,
+    "name":"Team 2 League 12",
+    "name_ja":"チーム2",
+    "league_id":12,
+    "stadium":"Stadium 2",
+    "founded_year":2000,
+    "url":"https:\/\/all.rugby\/team\/team-2-league-12"
+  },
+  {
+    "id":125,
+    "name":"Team 3 League 12",
+    "name_ja":"チーム3",
+    "league_id":12,
+    "stadium":"Stadium 3",
+    "founded_year":1987,
+    "url":"https:\/\/all.rugby\/team\/team-3-league-12"
+  },
+  {
+    "id":126,
+    "name":"Team 4 League 12",
+    "name_ja":"チーム4",
+    "league_id":12,
+    "stadium":"Stadium 4",
+    "founded_year":1985,
+    "url":"https:\/\/all.rugby\/team\/team-4-league-12"
+  },
+  {
+    "id":127,
+    "name":"Team 5 League 12",
+    "name_ja":"チーム5",
+    "league_id":12,
+    "stadium":"Stadium 5",
+    "founded_year":1960,
+    "url":"https:\/\/all.rugby\/team\/team-5-league-12"
+  },
+  {
+    "id":128,
+    "name":"Team 6 League 12",
+    "name_ja":"チーム6",
+    "league_id":12,
+    "stadium":"Stadium 6",
+    "founded_year":2019,
+    "url":"https:\/\/all.rugby\/team\/team-6-league-12"
+  },
+  {
+    "id":129,
+    "name":"Team 7 League 12",
+    "name_ja":"チーム7",
+    "league_id":12,
+    "stadium":"Stadium 7",
+    "founded_year":2014,
+    "url":"https:\/\/all.rugby\/team\/team-7-league-12"
+  },
+  {
+    "id":130,
+    "name":"Team 8 League 12",
+    "name_ja":"チーム8",
+    "league_id":12,
+    "stadium":"Stadium 8",
+    "founded_year":1956,
+    "url":"https:\/\/all.rugby\/team\/team-8-league-12"
+  },
+  {
+    "id":131,
+    "name":"Team 9 League 12",
+    "name_ja":"チーム9",
+    "league_id":12,
+    "stadium":"Stadium 9",
+    "founded_year":1957,
+    "url":"https:\/\/all.rugby\/team\/team-9-league-12"
+  },
+  {
+    "id":132,
+    "name":"Team 10 League 12",
+    "name_ja":"チーム10",
+    "league_id":12,
+    "stadium":"Stadium 10",
+    "founded_year":1958,
+    "url":"https:\/\/all.rugby\/team\/team-10-league-12"
+  },
+  {
+    "id":133,
+    "name":"Team 11 League 12",
+    "name_ja":"チーム11",
+    "league_id":12,
+    "stadium":"Stadium 11",
+    "founded_year":1960,
+    "url":"https:\/\/all.rugby\/team\/team-11-league-12"
+  },
+  {
+    "id":134,
+    "name":"Team 12 League 12",
+    "name_ja":"チーム12",
+    "league_id":12,
+    "stadium":"Stadium 12",
+    "founded_year":2004,
+    "url":"https:\/\/all.rugby\/team\/team-12-league-12"
+  },
+  {
+    "id":135,
+    "name":"Team 13 League 12",
+    "name_ja":"チーム13",
+    "league_id":12,
+    "stadium":"Stadium 13",
+    "founded_year":2001,
+    "url":"https:\/\/all.rugby\/team\/team-13-league-12"
+  },
+  {
+    "id":136,
+    "name":"Team 14 League 12",
+    "name_ja":"チーム14",
+    "league_id":12,
+    "stadium":"Stadium 14",
+    "founded_year":1952,
+    "url":"https:\/\/all.rugby\/team\/team-14-league-12"
+  }
+]

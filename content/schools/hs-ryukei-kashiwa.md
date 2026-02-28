@@ -1,0 +1,13 @@
+---
+{
+  "title": "流経大柏高校",
+  "layout": "school",
+  "slug": "hs-ryukei-kashiwa",
+  "type": "高校",
+  "previous_names": []
+}
+---
+
+# 流経大柏高校
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/shuma-kanayama_lo_483715.html">金山 修真</a></td><td>LO</td><td>32歳</td><td>九州電力キューデンヴォルテクス</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/daigo-doi_lo_484413.html">土居 大吾</a></td><td>CTB</td><td>26歳</td><td>豊田自動織機シャトルズ愛知</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/ryosuke-kataoka_lo_484556.html">片岡 涼亮</a></td><td>WTB</td><td>29歳</td><td>花園近鉄ライナーズ</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/ren-toma_lo_484669.html">當眞 蓮</a></td><td>HO</td><td>24歳</td><td>三重ホンダヒート</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/tsubasa-arai_lo_484056.html">新井 翼</a></td><td>WTB</td><td>29歳</td><td>埼玉パナソニックワイルドナイツ</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/keisuke-nakamoto_lo_484637.html">中本 圭介</a></td><td>FB</td><td>34歳</td><td>マツダスカイアクティブズ広島</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/ryotaro-asami_lo_484761.html">浅見 亮太郎</a></td><td>CTB</td><td>24歳</td><td>ヤクルトレビンズ戸田</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/yuuki-kouno_lo_484937.html">河野 友希</a></td><td>FB</td><td>30歳</td><td>ルリーロ福岡</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/daichi-nagayama_lo_484941.html">永山 大地</a></td><td>WTB</td><td>26歳</td><td>ルリーロ福岡</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/kenta-iemura_lo_484162.html">家村 健太</a></td><td>SO</td><td>25歳</td><td>静岡ブルーレヴズ</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/ryuto-yagisawa_lo_484164.html">八木澤 龍翔</a></td><td>HO</td><td>26歳</td><td>静岡ブルーレヴズ</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/shogo-yanagita_lo_483795.html">柳田 翔吾</a></td><td>CTB</td><td>26歳</td><td>クリタウォーターガッシュ昭島</td></tr><tr class="player-row" data-school-norm="流経大柏高校"><td><a href="../../player/kentaro-sugimori_lo_483807.html">杉森 健太郎</a></td><td>WTB</td><td>33歳</td><td>クリタウォーターガッシュ昭島</td></tr></tbody></table></div>

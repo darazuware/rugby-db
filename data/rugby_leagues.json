@@ -1,0 +1,110 @@
+[
+  {
+    "id":1,
+    "name":"Japan Rugby League One Division 1",
+    "name_ja":"リーグワン Division 1",
+    "country":"日本",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/japan-rugby-league-one-division-1"
+  },
+  {
+    "id":2,
+    "name":"Japan Rugby League One Division 2",
+    "name_ja":"リーグワン Division 2",
+    "country":"日本",
+    "level":2,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/japan-rugby-league-one-division-2"
+  },
+  {
+    "id":3,
+    "name":"Japan Rugby League One Division 3",
+    "name_ja":"リーグワン Division 3",
+    "country":"日本",
+    "level":3,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/japan-rugby-league-one-division-3"
+  },
+  {
+    "id":4,
+    "name":"Six Nations Championship",
+    "name_ja":"シックスネーションズ",
+    "country":"ヨーロッパ",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/six-nations-championship"
+  },
+  {
+    "id":5,
+    "name":"Premiership Rugby",
+    "name_ja":"プレミアシップ",
+    "country":"イングランド",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/premiership-rugby"
+  },
+  {
+    "id":6,
+    "name":"TOP 14",
+    "name_ja":"TOP14",
+    "country":"フランス",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/top-14"
+  },
+  {
+    "id":7,
+    "name":"Pro D2",
+    "name_ja":"プロD2",
+    "country":"フランス",
+    "level":2,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/pro-d2"
+  },
+  {
+    "id":8,
+    "name":"United Rugby Championship",
+    "name_ja":"URC",
+    "country":"ヨーロッパ",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/united-rugby-championship"
+  },
+  {
+    "id":9,
+    "name":"Super Rugby Pacific",
+    "name_ja":"スーパーラグビー",
+    "country":"太平洋",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/super-rugby-pacific"
+  },
+  {
+    "id":10,
+    "name":"Rugby Championship",
+    "name_ja":"ラグビーチャンピオンシップ",
+    "country":"南半球",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/rugby-championship"
+  },
+  {
+    "id":11,
+    "name":"Currie Cup",
+    "name_ja":"カリーカップ",
+    "country":"南アフリカ",
+    "level":1,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/currie-cup"
+  },
+  {
+    "id":12,
+    "name":"Mitre 10 Cup",
+    "name_ja":"マイター10カップ",
+    "country":"ニュージーランド",
+    "level":2,
+    "season":"2024",
+    "url":"https:\/\/all.rugby\/league\/mitre-10-cup"
+  }
+]

@@ -1,0 +1,98 @@
+{
+    "クボタスピアーズ船橋・東京ベイ": {
+        "primary": "#e95506",
+        "secondary": "#00a8a9"
+    },
+    "東京サントリーサンゴリアス": {
+        "primary": "#fff100",
+        "secondary": "#171717"
+    },
+    "埼玉パナソニックワイルドナイツ": {
+        "primary": "#0461dd",
+        "secondary": "#f9f9f6"
+    },
+    "東芝ブレイブルーパス東京": {
+        "primary": "#b70202",
+        "secondary": "#151e27"
+    },
+    "横浜キヤノンイーグルス": {
+        "primary": "#d10318",
+        "secondary": "#151e27"
+    },
+    "トヨタヴェルブリッツ": {
+        "primary": "#1b5000",
+        "secondary": "#f8b111"
+    },
+    "静岡ブルーレヴズ": {
+        "primary": "#003da2",
+        "secondary": "#007aff"
+    },
+    "コベルコ神戸スティーラーズ": {
+        "primary": "#cb0f1e",
+        "secondary": "#fefefe"
+    },
+    "三重ホンダヒート": {
+        "primary": "#1a0101",
+        "secondary": "#c5001b"
+    },
+    "浦安D-Rocks": {
+        "primary": "#183561",
+        "secondary": "#fff100"
+    },
+    "三菱重工相模原ダイナボアーズ": {
+        "primary": "#232323",
+        "secondary": "#5cb744"
+    },
+    "リコーブラックラムズ東京": {
+        "primary": "#2b2724",
+        "secondary": "#fefefe"
+    },
+    "NECグリーンロケッツ東葛": {
+        "primary": "#1b5000",
+        "secondary": "#7bab07"
+    },
+    "九州電力キューデンヴォルテクス": {
+        "primary": "#d30000",
+        "secondary": "#ffffff"
+    },
+    "マツダスカイアクティブズ広島": {
+        "primary": "#0067b8",
+        "secondary": "#ffffff"
+    },
+    "中国電力レッドレグリオンズ": {
+        "primary": "#d30000",
+        "secondary": "#000000"
+    },
+    "日野レッドドルフィンズ": {
+        "primary": "#e60012",
+        "secondary": "#ffffff"
+    },
+    "清水建設江東ブルーシャークス": {
+        "primary": "#0055a5",
+        "secondary": "#ffffff"
+    },
+    "豊田自動織機シャトルズ愛知": {
+        "primary": "#006298",
+        "secondary": "#ffffff"
+    },
+    "クリタウォーターガッシュ昭島": {
+        "primary": "#e60012",
+        "secondary": "#000000"
+    },
+    "ヤクルトレビンズ戸田": {
+        "primary": "#003a70",
+        "secondary": "#e60012"
+    },
+    "狭山セコムラガッツ": {
+        "primary": "#e60012",
+        "secondary": "#000000"
+    },
+    "ルリーロ福岡": {
+        "primary": "#ff6600",
+        "secondary": "#000000"
+    },
+    "default": {
+        "primary": "#333333",
+        "secondary": "#ffffff"
+    }
+}

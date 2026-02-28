@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>リコーブラックラムズ東京 | RugbyPick</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #f5f7f9;
+            color: #484848;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .header-container {
+            background-color: #0097B2;
+            padding: 15px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .site-title {
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .nav-container {
+            background-color: #0097B2;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+        .nav-menu {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            gap: 30px;
+            list-style: none;
+        }
+        .nav-menu a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 12px 0;
+            display: block;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .team-header {
+            background: linear-gradient(135deg, #E60012 0%, #333 100%);
+            color: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .team-name {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .division-tag {
+            display: inline-block;
+            background-color: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: 700;
+        }
+        .profile-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .profile-card {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .profile-label {
+            font-size: 13px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        .profile-value {
+            font-size: 18px;
+            font-weight: 700;
+            color: #333;
+        }
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #333;
+            margin: 40px 0 20px;
+            padding-left: 15px;
+            border-left: 5px solid #E60012;
+        }
+        .roster-table {
+            width: 100%;
+            background: #ffffff;
+            border-collapse: collapse;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .roster-table th {
+            background-color: #f8f9fa;
+            text-align: left;
+            padding: 15px;
+            font-size: 14px;
+            color: #888;
+            border-bottom: 2px solid #eee;
+        }
+        .roster-table td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        .roster-table tr:hover {
+            background-color: #fdfdfd;
+        }
+        .roster-table a {
+            color: #0097B2;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        .pos-tag {
+            display: inline-block;
+            background-color: #e9ecef;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 700;
+            color: #495057;
+        }
+        .official-link {
+            color: #E60012;
+            text-decoration: none;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <header class="header-container">
+        <div class="header-content">
+            <a href="../../../../../../index.html" class="site-title"><img src="../../../../../../logo.png" alt="RugbyPick" style="height:40px; vertical-align:middle;"></a>
+        </div>
+    </header>
+    <nav class="nav-container">
+        <ul class="nav-menu">
+            <li><a href="../../../../../../index.html">ホーム</a></li>
+            <li><a href="../../../../../../pages/leagues.html">リーグ一覧</a></li>
+            <li><a href="../../../../../../pages/teams.html">チーム一覧</a></li>
+            <li><a href="../../../../../../pages/players.html">選手一覧</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div class="team-header">
+            <div class="division-tag">Division 1</div>
+            <div class="team-name">リコーブラックラムズ東京</div>
+        </div>
+
+        <div class="profile-grid">
+            <div class="profile-card">
+                <div class="profile-label">運営母体 / 法人名</div>
+                <div class="profile-value">株式会社リコー</div>
+            </div>
+            <div class="profile-card">
+                <div class="profile-label">ホストエリア</div>
+                <div class="profile-value">東京都、世田谷区</div>
+            </div>
+            <div class="profile-card">
+                <div class="profile-label">練習グラウンド</div>
+                <div class="profile-value">東京都世田谷区宇奈根1−5−1</div>
+            </div>
+            <div class="profile-card">
+                <div class="profile-label">公式サイト</div>
+                <div class="profile-value">
+                    <a href="https://blackrams-tokyo.com/" class="official-link" target="_blank">
+                        リコーブラックラムズ東京 公式サイト ↗
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="section-title">選手名簿 (Roster)</h2>
+        
+        <table class="roster-table">
+            <thead>
+                <tr>
+                    <th>選手名</th>
+                    <th>ポジション</th>
+                    <th>出身校</th>
+                    <th>代表歴</th>
+                </tr>
+            </thead>
+            <tbody>
+        
+                <tr>
+                    <td><a href="kota_mitake_lo_484863.html">三竹 康太</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>立命館大学</td>
+                    <td>U23('16)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="paddy_ryan_lo_484868.html">パディー ・ライアン</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>シドニー大学</td>
+                    <td>オーストラリア代表(3)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="kosei_nakamura_lo_484870.html">中村 公星</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>明治大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="shohei_oyama_lo_484876.html">大山 祥平</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>慶應義塾大学</td>
+                    <td>U20,U23('18)、XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yuichiro_taniguchi_lo_484883.html">谷口 祐一郎</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>天理大学</td>
+                    <td>U20,U23('18)、XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="daigo_sasagawa_lo_484890.html">笹川 大五</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>明治大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="taichi_chiba_lo_484897.html">千葉 太一</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>早稲田大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="kazuma_nishi_lo_484899.html">西 和磨</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>帝京大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="taishi_tsumura_lo_484907.html">津村 大志</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>帝京大学</td>
+                    <td>XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="samuel_waqabaca_lo_484909.html">サミュエラ ・ワカヴァカ</a></td>
+                    <td><span class="pos-tag">PR</span></td>
+                    <td>グレゴリー大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="tomoya_adachi_lo_484856.html">足立 友哉</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="soonhong_lee_lo_484860.html">李 淳弘</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>京都産業大学</td>
+                    <td>XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="ko_sato_lo_484877.html">佐藤 康</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>天理大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="hinata_takei_lo_484889.html">武井 日向</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>明治大学</td>
+                    <td>U20('17)、U23('17,'18)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="masashi_onishi_lo_484894.html">大西 将史</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>帝京大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="shin_ouchi_lo_484903.html">大内 真</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="nic_souchon_lo_485147.html">ニック ・スーチョン</a></td>
+                    <td><span class="pos-tag">HO</span></td>
+                    <td>リンカーン大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="felix_kalapu_lo_484857.html">フィリックス ・カラプ</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yusuke_kishi_lo_484859.html">岸 佑融</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>日本体育大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="michael_allardice_lo_484864.html">マイケル ・アラダイス</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>カンタベリー大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="josh_goodhue_lo_484875.html">ジョシュ ・グッドヒュー</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>リンカーン大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="shu_yamamoto_lo_484878.html">山本 秀</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>近畿大学</td>
+                    <td>高校('17)、U20('19)、XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="harrison_fox_lo_484879.html">ハリソン ・フォックス</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="talau_samurai_fakatava_lo_484891.html">ファカタヴァ タラウ侍</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="pohiva_yamato_lotoahea_lo_484893.html">ロトアヘア ポヒヴァ大和</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>埼玉工業大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="reijiro_yamamoto_lo_484905.html">山本 嶺二郎</a></td>
+                    <td><span class="pos-tag">LO</span></td>
+                    <td>明治大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="liam_gill_lo_484867.html">リアム ・ギル</a></td>
+                    <td><span class="pos-tag">FL</span></td>
+                    <td>-</td>
+                    <td>オーストラリア代表(15)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="brodi_mccurran_lo_484874.html">マクカラン ブロディ</a></td>
+                    <td><span class="pos-tag">FL</span></td>
+                    <td>帝京大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="tj_perenara_lo_484865.html">TJ ・ペレナラ</a></td>
+                    <td><span class="pos-tag">SH</span></td>
+                    <td>-</td>
+                    <td>NZ代表(89)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="takanobu_minami_lo_484881.html">南 昂伸</a></td>
+                    <td><span class="pos-tag">SH</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="toshiya_takahashi_lo_484896.html">高橋 敏也</a></td>
+                    <td><span class="pos-tag">SH</span></td>
+                    <td>青山学院大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="seima_inaba_lo_484908.html">稲葉 聖馬</a></td>
+                    <td><span class="pos-tag">SH</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="ichigo_nakakusu_lo_484871.html">中楠 一期</a></td>
+                    <td><span class="pos-tag">SO</span></td>
+                    <td>慶應義塾大学</td>
+                    <td>高校('18)、XV('25)、日本代表(3)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="kohei_horigome_lo_484898.html">堀米 航平</a></td>
+                    <td><span class="pos-tag">SO</span></td>
+                    <td>明治大学</td>
+                    <td>高校('13)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="kotaro_ito_lo_484904.html">伊藤 耕太郎</a></td>
+                    <td><span class="pos-tag">SO</span></td>
+                    <td>明治大学</td>
+                    <td>XV('25)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="rameka_poihipi_lo_484858.html">ラメカ ・ポイヒピ</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="taichi_kugino_lo_484861.html">久木野 太一</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>帝京大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="pj_latu_lo_484866.html">PJ ・ラトゥ</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="takumi_aoki_lo_484872.html">青木 拓己</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="siope_tavo_lo_484873.html">シオペ ・タヴォ</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yuki_ikeda_lo_484880.html">池田 悠希</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>東海大学</td>
+                    <td>U23('17)、日本代表(2)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="daisuke_nishikawa_lo_484887.html">西川 大輔</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>中京大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yuta_kurihara_lo_484888.html">栗原 由太</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>慶應義塾大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="ryohei_isoda_lo_484895.html">礒田 凌平</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>立命館大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="larzlo_sword_lo_484902.html">ラズロー ・ソード</a></td>
+                    <td><span class="pos-tag">CTB</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yuta_akihama_lo_484862.html">秋濱 悠太</a></td>
+                    <td><span class="pos-tag">WTB</span></td>
+                    <td>明治大学</td>
+                    <td>XV('24)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="yoshiyuki_koga_lo_484882.html">古賀 由教</a></td>
+                    <td><span class="pos-tag">WTB</span></td>
+                    <td>早稲田大学</td>
+                    <td>U20('18)、セブンズ日本(17)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="tomoya_yamamura_lo_484886.html">山村 知也</a></td>
+                    <td><span class="pos-tag">WTB</span></td>
+                    <td>明治大学</td>
+                    <td>U20('16)、U23('18)、セブンズ日本(2)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="tomu_takamoto_lo_484906.html">高本 とむ</a></td>
+                    <td><span class="pos-tag">WTB</span></td>
+                    <td>帝京大学</td>
+                    <td>XV('25)、セブンズ日本(2)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="isaac_lucas_lo_484884.html">アイザック ・ルーカス</a></td>
+                    <td><span class="pos-tag">FB</span></td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="taira_main_lo_484885.html">メイン 平</a></td>
+                    <td><span class="pos-tag">FB</span></td>
+                    <td>-</td>
+                    <td>高校('18)、XV('25)、日本代表(1)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="shogo_yamamura_lo_484869.html">山村 勝悟</a></td>
+                    <td><span class="pos-tag">No8</span></td>
+                    <td>天理大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="amato_fakatava_lo_484892.html">ファカタヴァ アマト</a></td>
+                    <td><span class="pos-tag">No8</span></td>
+                    <td>大東文化大学</td>
+                    <td>-</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="shuhei_matsuhashi_lo_484900.html">松橋 周平</a></td>
+                    <td><span class="pos-tag">No8</span></td>
+                    <td>明治大学</td>
+                    <td>日本代表(8)</td>
+                </tr>
+            
+                <tr>
+                    <td><a href="otoya_kihara_lo_484901.html">木原 音弥</a></td>
+                    <td><span class="pos-tag">No8</span></td>
+                    <td>同志社大学</td>
+                    <td>高校('17)</td>
+                </tr>
+            </tbody></table>
+    </div>
+</body>
+</html>

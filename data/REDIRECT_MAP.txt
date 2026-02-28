@@ -1,0 +1,26 @@
+# Rugby Website Redirect Map (Old Path -> New Path)
+# 404 Prevention after URL Structure Refresh
+
+# Indices
+/leagues.html -> /pages/leagues.html
+/teams.html -> /pages/teams.html
+/players.html -> /pages/players.html
+
+# Players (Flat Structure)
+/players/*.html -> /player/*.html
+
+# Leagues & Teams (Legacy Categories)
+/category/domestic/leagueone/ -> /leagues/leagueone/
+/category/domestic/leagueone/*/* -> /teams/leagueone/*/*/
+
+# News (Legacy Categories)
+/category/domestic/leagueone/news/ -> /news/domestic/leagueone/news/
+/category/domestic/high-school/ -> /news/domestic/high-school/
+/category/domestic/university/ -> /news/domestic/university/
+/category/arekore/watch-guide/ -> /news/arekore/watch-guide/
+
+# Attributes (Root Level Consolidation)
+/ages/ -> /ages/
+/heights/ -> /heights/
+/positions/ -> /positions/
+/schools/ -> /schools/

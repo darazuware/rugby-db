@@ -1,0 +1,13 @@
+---
+{
+  "title": "立正大学",
+  "layout": "school",
+  "slug": "univ-rissho",
+  "type": "大学",
+  "previous_names": []
+}
+---
+
+# 立正大学
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/jui-nakamori_lo_484211.html">中森 樹生</a></td><td>PR</td><td>24歳</td><td>清水建設江東ブルーシャークス</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/usa-baleilautoka_lo_484230.html">ウサ ・バレイラウトカ</a></td><td>PR</td><td>30歳</td><td>清水建設江東ブルーシャークス</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/sora-roland-alaiasa_lo_484399.html">アライアサ 空ローランド</a></td><td>FB</td><td>31歳</td><td>豊田自動織機シャトルズ愛知</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/ryuta-nakamori_lo_484735.html">中森 隆太</a></td><td>SH</td><td>26歳</td><td>三菱重工相模原ダイナボアーズ</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/juan-wilson_lo_484029.html">ユアン ・ウィルソン</a></td><td>FL</td><td>25歳</td><td>埼玉パナソニックワイルドナイツ</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/tye-nash_lo_484656.html">タイ ・ナッシュ</a></td><td>LO</td><td>30歳</td><td>マツダスカイアクティブズ広島</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/masatoshi-doi_lo_484804.html">土井 將聖</a></td><td>WTB</td><td>29歳</td><td>ヤクルトレビンズ戸田</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/taiga-mihara_lo_484955.html">三原 大河</a></td><td>SH</td><td>25歳</td><td>ルリーロ福岡</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/taichi-yoshizawa_lo_484996.html">吉澤 太一</a></td><td>FB</td><td>35歳</td><td>レッドハリケーンズ大阪</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/motoki-kaneko_lo_484097.html">金子 元紀</a></td><td>PR</td><td>25歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/minato-jinnouchi_lo_484098.html">陣内 源斗</a></td><td>HO</td><td>25歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/shogo-murakami_lo_484114.html">村上 翔梧</a></td><td>PR</td><td>30歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="立正大学"><td><a href="../../player/pierich-siebert_lo_484307.html">ピエリッチ ・シーバート</a></td><td>FL</td><td>25歳</td><td>東京サントリーサンゴリアス</td></tr></tbody></table></div>

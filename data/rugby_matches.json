@@ -1,0 +1,6802 @@
+[
+  {
+    "id":1,
+    "date":"2024-03-27",
+    "home_team_id":5,
+    "away_team_id":11,
+    "home_score":12,
+    "away_score":43,
+    "venue":"Stadium 1",
+    "league_id":1
+  },
+  {
+    "id":2,
+    "date":"2024-10-04",
+    "home_team_id":11,
+    "away_team_id":4,
+    "home_score":12,
+    "away_score":15,
+    "venue":"Stadium 2",
+    "league_id":1
+  },
+  {
+    "id":3,
+    "date":"2024-08-21",
+    "home_team_id":8,
+    "away_team_id":12,
+    "home_score":25,
+    "away_score":50,
+    "venue":"Stadium 3",
+    "league_id":1
+  },
+  {
+    "id":4,
+    "date":"2024-12-16",
+    "home_team_id":10,
+    "away_team_id":2,
+    "home_score":45,
+    "away_score":23,
+    "venue":"Stadium 4",
+    "league_id":1
+  },
+  {
+    "id":5,
+    "date":"2024-07-04",
+    "home_team_id":11,
+    "away_team_id":2,
+    "home_score":14,
+    "away_score":42,
+    "venue":"Stadium 5",
+    "league_id":1
+  },
+  {
+    "id":6,
+    "date":"2024-02-15",
+    "home_team_id":1,
+    "away_team_id":8,
+    "home_score":40,
+    "away_score":35,
+    "venue":"Stadium 6",
+    "league_id":1
+  },
+  {
+    "id":7,
+    "date":"2024-10-26",
+    "home_team_id":4,
+    "away_team_id":2,
+    "home_score":46,
+    "away_score":11,
+    "venue":"Stadium 7",
+    "league_id":1
+  },
+  {
+    "id":8,
+    "date":"2024-05-04",
+    "home_team_id":1,
+    "away_team_id":5,
+    "home_score":43,
+    "away_score":24,
+    "venue":"Stadium 8",
+    "league_id":1
+  },
+  {
+    "id":9,
+    "date":"2024-05-05",
+    "home_team_id":5,
+    "away_team_id":9,
+    "home_score":29,
+    "away_score":39,
+    "venue":"Stadium 9",
+    "league_id":1
+  },
+  {
+    "id":10,
+    "date":"2024-12-23",
+    "home_team_id":10,
+    "away_team_id":6,
+    "home_score":49,
+    "away_score":47,
+    "venue":"Stadium 10",
+    "league_id":1
+  },
+  {
+    "id":11,
+    "date":"2024-12-26",
+    "home_team_id":4,
+    "away_team_id":5,
+    "home_score":49,
+    "away_score":0,
+    "venue":"Stadium 11",
+    "league_id":1
+  },
+  {
+    "id":12,
+    "date":"2024-02-01",
+    "home_team_id":1,
+    "away_team_id":6,
+    "home_score":48,
+    "away_score":11,
+    "venue":"Stadium 12",
+    "league_id":1
+  },
+  {
+    "id":13,
+    "date":"2024-10-04",
+    "home_team_id":2,
+    "away_team_id":9,
+    "home_score":9,
+    "away_score":15,
+    "venue":"Stadium 13",
+    "league_id":1
+  },
+  {
+    "id":14,
+    "date":"2024-12-22",
+    "home_team_id":5,
+    "away_team_id":4,
+    "home_score":8,
+    "away_score":41,
+    "venue":"Stadium 14",
+    "league_id":1
+  },
+  {
+    "id":15,
+    "date":"2024-10-11",
+    "home_team_id":7,
+    "away_team_id":12,
+    "home_score":26,
+    "away_score":48,
+    "venue":"Stadium 15",
+    "league_id":1
+  },
+  {
+    "id":16,
+    "date":"2024-08-16",
+    "home_team_id":10,
+    "away_team_id":2,
+    "home_score":30,
+    "away_score":46,
+    "venue":"Stadium 16",
+    "league_id":1
+  },
+  {
+    "id":17,
+    "date":"2024-08-02",
+    "home_team_id":12,
+    "away_team_id":2,
+    "home_score":25,
+    "away_score":24,
+    "venue":"Stadium 17",
+    "league_id":1
+  },
+  {
+    "id":18,
+    "date":"2024-08-19",
+    "home_team_id":1,
+    "away_team_id":11,
+    "home_score":32,
+    "away_score":43,
+    "venue":"Stadium 18",
+    "league_id":1
+  },
+  {
+    "id":19,
+    "date":"2024-12-18",
+    "home_team_id":1,
+    "away_team_id":9,
+    "home_score":38,
+    "away_score":20,
+    "venue":"Stadium 19",
+    "league_id":1
+  },
+  {
+    "id":20,
+    "date":"2024-09-26",
+    "home_team_id":6,
+    "away_team_id":9,
+    "home_score":38,
+    "away_score":12,
+    "venue":"Stadium 20",
+    "league_id":1
+  },
+  {
+    "id":21,
+    "date":"2024-07-14",
+    "home_team_id":11,
+    "away_team_id":12,
+    "home_score":20,
+    "away_score":22,
+    "venue":"Stadium 21",
+    "league_id":1
+  },
+  {
+    "id":22,
+    "date":"2024-11-17",
+    "home_team_id":11,
+    "away_team_id":10,
+    "home_score":39,
+    "away_score":23,
+    "venue":"Stadium 22",
+    "league_id":1
+  },
+  {
+    "id":23,
+    "date":"2024-04-03",
+    "home_team_id":4,
+    "away_team_id":7,
+    "home_score":14,
+    "away_score":32,
+    "venue":"Stadium 23",
+    "league_id":1
+  },
+  {
+    "id":24,
+    "date":"2024-07-22",
+    "home_team_id":2,
+    "away_team_id":4,
+    "home_score":19,
+    "away_score":13,
+    "venue":"Stadium 24",
+    "league_id":1
+  },
+  {
+    "id":25,
+    "date":"2024-05-12",
+    "home_team_id":2,
+    "away_team_id":12,
+    "home_score":42,
+    "away_score":38,
+    "venue":"Stadium 25",
+    "league_id":1
+  },
+  {
+    "id":26,
+    "date":"2024-03-21",
+    "home_team_id":5,
+    "away_team_id":2,
+    "home_score":0,
+    "away_score":8,
+    "venue":"Stadium 26",
+    "league_id":1
+  },
+  {
+    "id":27,
+    "date":"2024-05-12",
+    "home_team_id":9,
+    "away_team_id":12,
+    "home_score":27,
+    "away_score":8,
+    "venue":"Stadium 27",
+    "league_id":1
+  },
+  {
+    "id":28,
+    "date":"2024-04-27",
+    "home_team_id":8,
+    "away_team_id":5,
+    "home_score":36,
+    "away_score":39,
+    "venue":"Stadium 28",
+    "league_id":1
+  },
+  {
+    "id":29,
+    "date":"2024-02-13",
+    "home_team_id":10,
+    "away_team_id":3,
+    "home_score":12,
+    "away_score":34,
+    "venue":"Stadium 29",
+    "league_id":1
+  },
+  {
+    "id":30,
+    "date":"2024-11-03",
+    "home_team_id":6,
+    "away_team_id":7,
+    "home_score":44,
+    "away_score":14,
+    "venue":"Stadium 30",
+    "league_id":1
+  },
+  {
+    "id":31,
+    "date":"2024-11-05",
+    "home_team_id":6,
+    "away_team_id":10,
+    "home_score":14,
+    "away_score":39,
+    "venue":"Stadium 31",
+    "league_id":1
+  },
+  {
+    "id":32,
+    "date":"2024-02-12",
+    "home_team_id":1,
+    "away_team_id":7,
+    "home_score":39,
+    "away_score":41,
+    "venue":"Stadium 32",
+    "league_id":1
+  },
+  {
+    "id":33,
+    "date":"2024-01-08",
+    "home_team_id":10,
+    "away_team_id":12,
+    "home_score":28,
+    "away_score":16,
+    "venue":"Stadium 33",
+    "league_id":1
+  },
+  {
+    "id":34,
+    "date":"2024-03-08",
+    "home_team_id":4,
+    "away_team_id":1,
+    "home_score":24,
+    "away_score":4,
+    "venue":"Stadium 34",
+    "league_id":1
+  },
+  {
+    "id":35,
+    "date":"2024-10-24",
+    "home_team_id":7,
+    "away_team_id":1,
+    "home_score":39,
+    "away_score":47,
+    "venue":"Stadium 35",
+    "league_id":1
+  },
+  {
+    "id":36,
+    "date":"2024-04-14",
+    "home_team_id":10,
+    "away_team_id":7,
+    "home_score":28,
+    "away_score":44,
+    "venue":"Stadium 36",
+    "league_id":1
+  },
+  {
+    "id":37,
+    "date":"2024-03-22",
+    "home_team_id":2,
+    "away_team_id":1,
+    "home_score":40,
+    "away_score":8,
+    "venue":"Stadium 37",
+    "league_id":1
+  },
+  {
+    "id":38,
+    "date":"2024-11-04",
+    "home_team_id":5,
+    "away_team_id":9,
+    "home_score":2,
+    "away_score":41,
+    "venue":"Stadium 38",
+    "league_id":1
+  },
+  {
+    "id":39,
+    "date":"2024-04-14",
+    "home_team_id":12,
+    "away_team_id":1,
+    "home_score":6,
+    "away_score":34,
+    "venue":"Stadium 39",
+    "league_id":1
+  },
+  {
+    "id":40,
+    "date":"2024-04-28",
+    "home_team_id":6,
+    "away_team_id":2,
+    "home_score":29,
+    "away_score":23,
+    "venue":"Stadium 40",
+    "league_id":1
+  },
+  {
+    "id":41,
+    "date":"2024-03-21",
+    "home_team_id":2,
+    "away_team_id":4,
+    "home_score":2,
+    "away_score":19,
+    "venue":"Stadium 41",
+    "league_id":1
+  },
+  {
+    "id":42,
+    "date":"2024-07-22",
+    "home_team_id":2,
+    "away_team_id":10,
+    "home_score":50,
+    "away_score":21,
+    "venue":"Stadium 42",
+    "league_id":1
+  },
+  {
+    "id":43,
+    "date":"2024-02-08",
+    "home_team_id":11,
+    "away_team_id":9,
+    "home_score":45,
+    "away_score":45,
+    "venue":"Stadium 43",
+    "league_id":1
+  },
+  {
+    "id":44,
+    "date":"2024-03-04",
+    "home_team_id":4,
+    "away_team_id":10,
+    "home_score":1,
+    "away_score":13,
+    "venue":"Stadium 44",
+    "league_id":1
+  },
+  {
+    "id":45,
+    "date":"2024-03-02",
+    "home_team_id":7,
+    "away_team_id":9,
+    "home_score":36,
+    "away_score":8,
+    "venue":"Stadium 45",
+    "league_id":1
+  },
+  {
+    "id":46,
+    "date":"2024-06-23",
+    "home_team_id":10,
+    "away_team_id":11,
+    "home_score":24,
+    "away_score":7,
+    "venue":"Stadium 46",
+    "league_id":1
+  },
+  {
+    "id":47,
+    "date":"2024-05-05",
+    "home_team_id":11,
+    "away_team_id":2,
+    "home_score":5,
+    "away_score":21,
+    "venue":"Stadium 47",
+    "league_id":1
+  },
+  {
+    "id":48,
+    "date":"2024-05-11",
+    "home_team_id":10,
+    "away_team_id":4,
+    "home_score":26,
+    "away_score":14,
+    "venue":"Stadium 48",
+    "league_id":1
+  },
+  {
+    "id":49,
+    "date":"2024-10-21",
+    "home_team_id":2,
+    "away_team_id":7,
+    "home_score":49,
+    "away_score":44,
+    "venue":"Stadium 49",
+    "league_id":1
+  },
+  {
+    "id":50,
+    "date":"2024-04-04",
+    "home_team_id":9,
+    "away_team_id":11,
+    "home_score":31,
+    "away_score":38,
+    "venue":"Stadium 50",
+    "league_id":1
+  },
+  {
+    "id":51,
+    "date":"2024-03-13",
+    "home_team_id":3,
+    "away_team_id":1,
+    "home_score":40,
+    "away_score":15,
+    "venue":"Stadium 51",
+    "league_id":1
+  },
+  {
+    "id":52,
+    "date":"2024-04-11",
+    "home_team_id":4,
+    "away_team_id":2,
+    "home_score":13,
+    "away_score":10,
+    "venue":"Stadium 52",
+    "league_id":1
+  },
+  {
+    "id":53,
+    "date":"2024-09-04",
+    "home_team_id":12,
+    "away_team_id":6,
+    "home_score":24,
+    "away_score":47,
+    "venue":"Stadium 53",
+    "league_id":1
+  },
+  {
+    "id":54,
+    "date":"2024-11-12",
+    "home_team_id":8,
+    "away_team_id":10,
+    "home_score":31,
+    "away_score":10,
+    "venue":"Stadium 54",
+    "league_id":1
+  },
+  {
+    "id":55,
+    "date":"2024-11-19",
+    "home_team_id":5,
+    "away_team_id":9,
+    "home_score":5,
+    "away_score":49,
+    "venue":"Stadium 55",
+    "league_id":1
+  },
+  {
+    "id":56,
+    "date":"2024-10-24",
+    "home_team_id":1,
+    "away_team_id":12,
+    "home_score":41,
+    "away_score":45,
+    "venue":"Stadium 56",
+    "league_id":1
+  },
+  {
+    "id":57,
+    "date":"2024-05-02",
+    "home_team_id":12,
+    "away_team_id":11,
+    "home_score":13,
+    "away_score":48,
+    "venue":"Stadium 57",
+    "league_id":1
+  },
+  {
+    "id":58,
+    "date":"2024-06-13",
+    "home_team_id":9,
+    "away_team_id":5,
+    "home_score":40,
+    "away_score":19,
+    "venue":"Stadium 58",
+    "league_id":1
+  },
+  {
+    "id":59,
+    "date":"2024-05-11",
+    "home_team_id":1,
+    "away_team_id":11,
+    "home_score":44,
+    "away_score":12,
+    "venue":"Stadium 59",
+    "league_id":1
+  },
+  {
+    "id":60,
+    "date":"2024-08-25",
+    "home_team_id":11,
+    "away_team_id":2,
+    "home_score":33,
+    "away_score":36,
+    "venue":"Stadium 60",
+    "league_id":1
+  },
+  {
+    "id":61,
+    "date":"2024-05-13",
+    "home_team_id":20,
+    "away_team_id":14,
+    "home_score":6,
+    "away_score":23,
+    "venue":"Stadium 1",
+    "league_id":2
+  },
+  {
+    "id":62,
+    "date":"2024-10-21",
+    "home_team_id":18,
+    "away_team_id":17,
+    "home_score":9,
+    "away_score":32,
+    "venue":"Stadium 2",
+    "league_id":2
+  },
+  {
+    "id":63,
+    "date":"2024-02-28",
+    "home_team_id":14,
+    "away_team_id":15,
+    "home_score":16,
+    "away_score":20,
+    "venue":"Stadium 3",
+    "league_id":2
+  },
+  {
+    "id":64,
+    "date":"2024-08-26",
+    "home_team_id":14,
+    "away_team_id":21,
+    "home_score":15,
+    "away_score":8,
+    "venue":"Stadium 4",
+    "league_id":2
+  },
+  {
+    "id":65,
+    "date":"2024-02-22",
+    "home_team_id":13,
+    "away_team_id":17,
+    "home_score":37,
+    "away_score":34,
+    "venue":"Stadium 5",
+    "league_id":2
+  },
+  {
+    "id":66,
+    "date":"2024-09-12",
+    "home_team_id":15,
+    "away_team_id":22,
+    "home_score":18,
+    "away_score":33,
+    "venue":"Stadium 6",
+    "league_id":2
+  },
+  {
+    "id":67,
+    "date":"2024-10-03",
+    "home_team_id":21,
+    "away_team_id":13,
+    "home_score":20,
+    "away_score":21,
+    "venue":"Stadium 7",
+    "league_id":2
+  },
+  {
+    "id":68,
+    "date":"2024-02-22",
+    "home_team_id":15,
+    "away_team_id":14,
+    "home_score":28,
+    "away_score":20,
+    "venue":"Stadium 8",
+    "league_id":2
+  },
+  {
+    "id":69,
+    "date":"2024-08-11",
+    "home_team_id":20,
+    "away_team_id":21,
+    "home_score":13,
+    "away_score":37,
+    "venue":"Stadium 9",
+    "league_id":2
+  },
+  {
+    "id":70,
+    "date":"2024-05-14",
+    "home_team_id":20,
+    "away_team_id":16,
+    "home_score":14,
+    "away_score":48,
+    "venue":"Stadium 10",
+    "league_id":2
+  },
+  {
+    "id":71,
+    "date":"2024-09-13",
+    "home_team_id":20,
+    "away_team_id":13,
+    "home_score":14,
+    "away_score":26,
+    "venue":"Stadium 11",
+    "league_id":2
+  },
+  {
+    "id":72,
+    "date":"2024-04-14",
+    "home_team_id":17,
+    "away_team_id":14,
+    "home_score":26,
+    "away_score":48,
+    "venue":"Stadium 12",
+    "league_id":2
+  },
+  {
+    "id":73,
+    "date":"2024-07-01",
+    "home_team_id":17,
+    "away_team_id":15,
+    "home_score":5,
+    "away_score":48,
+    "venue":"Stadium 13",
+    "league_id":2
+  },
+  {
+    "id":74,
+    "date":"2024-02-06",
+    "home_team_id":16,
+    "away_team_id":20,
+    "home_score":49,
+    "away_score":17,
+    "venue":"Stadium 14",
+    "league_id":2
+  },
+  {
+    "id":75,
+    "date":"2024-08-01",
+    "home_team_id":18,
+    "away_team_id":14,
+    "home_score":31,
+    "away_score":50,
+    "venue":"Stadium 15",
+    "league_id":2
+  },
+  {
+    "id":76,
+    "date":"2024-02-07",
+    "home_team_id":16,
+    "away_team_id":22,
+    "home_score":27,
+    "away_score":42,
+    "venue":"Stadium 16",
+    "league_id":2
+  },
+  {
+    "id":77,
+    "date":"2024-12-14",
+    "home_team_id":21,
+    "away_team_id":16,
+    "home_score":32,
+    "away_score":24,
+    "venue":"Stadium 17",
+    "league_id":2
+  },
+  {
+    "id":78,
+    "date":"2024-09-26",
+    "home_team_id":18,
+    "away_team_id":19,
+    "home_score":9,
+    "away_score":13,
+    "venue":"Stadium 18",
+    "league_id":2
+  },
+  {
+    "id":79,
+    "date":"2024-11-05",
+    "home_team_id":17,
+    "away_team_id":18,
+    "home_score":41,
+    "away_score":2,
+    "venue":"Stadium 19",
+    "league_id":2
+  },
+  {
+    "id":80,
+    "date":"2024-09-21",
+    "home_team_id":15,
+    "away_team_id":13,
+    "home_score":50,
+    "away_score":43,
+    "venue":"Stadium 20",
+    "league_id":2
+  },
+  {
+    "id":81,
+    "date":"2024-03-20",
+    "home_team_id":21,
+    "away_team_id":17,
+    "home_score":36,
+    "away_score":0,
+    "venue":"Stadium 21",
+    "league_id":2
+  },
+  {
+    "id":82,
+    "date":"2024-10-18",
+    "home_team_id":18,
+    "away_team_id":20,
+    "home_score":50,
+    "away_score":41,
+    "venue":"Stadium 22",
+    "league_id":2
+  },
+  {
+    "id":83,
+    "date":"2024-02-17",
+    "home_team_id":13,
+    "away_team_id":19,
+    "home_score":22,
+    "away_score":28,
+    "venue":"Stadium 23",
+    "league_id":2
+  },
+  {
+    "id":84,
+    "date":"2024-11-24",
+    "home_team_id":16,
+    "away_team_id":14,
+    "home_score":18,
+    "away_score":4,
+    "venue":"Stadium 24",
+    "league_id":2
+  },
+  {
+    "id":85,
+    "date":"2024-01-25",
+    "home_team_id":15,
+    "away_team_id":18,
+    "home_score":28,
+    "away_score":13,
+    "venue":"Stadium 25",
+    "league_id":2
+  },
+  {
+    "id":86,
+    "date":"2024-12-14",
+    "home_team_id":21,
+    "away_team_id":20,
+    "home_score":15,
+    "away_score":49,
+    "venue":"Stadium 26",
+    "league_id":2
+  },
+  {
+    "id":87,
+    "date":"2024-12-12",
+    "home_team_id":14,
+    "away_team_id":20,
+    "home_score":0,
+    "away_score":39,
+    "venue":"Stadium 27",
+    "league_id":2
+  },
+  {
+    "id":88,
+    "date":"2024-02-03",
+    "home_team_id":15,
+    "away_team_id":18,
+    "home_score":35,
+    "away_score":14,
+    "venue":"Stadium 28",
+    "league_id":2
+  },
+  {
+    "id":89,
+    "date":"2024-04-28",
+    "home_team_id":22,
+    "away_team_id":20,
+    "home_score":34,
+    "away_score":9,
+    "venue":"Stadium 29",
+    "league_id":2
+  },
+  {
+    "id":90,
+    "date":"2024-02-25",
+    "home_team_id":18,
+    "away_team_id":17,
+    "home_score":18,
+    "away_score":14,
+    "venue":"Stadium 30",
+    "league_id":2
+  },
+  {
+    "id":91,
+    "date":"2024-12-19",
+    "home_team_id":15,
+    "away_team_id":17,
+    "home_score":41,
+    "away_score":36,
+    "venue":"Stadium 31",
+    "league_id":2
+  },
+  {
+    "id":92,
+    "date":"2024-02-15",
+    "home_team_id":21,
+    "away_team_id":16,
+    "home_score":16,
+    "away_score":23,
+    "venue":"Stadium 32",
+    "league_id":2
+  },
+  {
+    "id":93,
+    "date":"2024-06-19",
+    "home_team_id":18,
+    "away_team_id":17,
+    "home_score":44,
+    "away_score":43,
+    "venue":"Stadium 33",
+    "league_id":2
+  },
+  {
+    "id":94,
+    "date":"2024-01-27",
+    "home_team_id":18,
+    "away_team_id":19,
+    "home_score":19,
+    "away_score":34,
+    "venue":"Stadium 34",
+    "league_id":2
+  },
+  {
+    "id":95,
+    "date":"2024-06-16",
+    "home_team_id":21,
+    "away_team_id":20,
+    "home_score":47,
+    "away_score":32,
+    "venue":"Stadium 35",
+    "league_id":2
+  },
+  {
+    "id":96,
+    "date":"2024-10-06",
+    "home_team_id":20,
+    "away_team_id":21,
+    "home_score":34,
+    "away_score":47,
+    "venue":"Stadium 36",
+    "league_id":2
+  },
+  {
+    "id":97,
+    "date":"2024-07-26",
+    "home_team_id":18,
+    "away_team_id":20,
+    "home_score":48,
+    "away_score":45,
+    "venue":"Stadium 37",
+    "league_id":2
+  },
+  {
+    "id":98,
+    "date":"2024-01-09",
+    "home_team_id":21,
+    "away_team_id":13,
+    "home_score":38,
+    "away_score":13,
+    "venue":"Stadium 38",
+    "league_id":2
+  },
+  {
+    "id":99,
+    "date":"2024-07-04",
+    "home_team_id":16,
+    "away_team_id":22,
+    "home_score":0,
+    "away_score":41,
+    "venue":"Stadium 39",
+    "league_id":2
+  },
+  {
+    "id":100,
+    "date":"2024-09-10",
+    "home_team_id":19,
+    "away_team_id":13,
+    "home_score":12,
+    "away_score":42,
+    "venue":"Stadium 40",
+    "league_id":2
+  },
+  {
+    "id":101,
+    "date":"2024-10-10",
+    "home_team_id":18,
+    "away_team_id":16,
+    "home_score":33,
+    "away_score":19,
+    "venue":"Stadium 41",
+    "league_id":2
+  },
+  {
+    "id":102,
+    "date":"2024-04-25",
+    "home_team_id":17,
+    "away_team_id":14,
+    "home_score":22,
+    "away_score":30,
+    "venue":"Stadium 42",
+    "league_id":2
+  },
+  {
+    "id":103,
+    "date":"2024-03-06",
+    "home_team_id":14,
+    "away_team_id":13,
+    "home_score":26,
+    "away_score":12,
+    "venue":"Stadium 43",
+    "league_id":2
+  },
+  {
+    "id":104,
+    "date":"2024-07-05",
+    "home_team_id":20,
+    "away_team_id":19,
+    "home_score":34,
+    "away_score":37,
+    "venue":"Stadium 44",
+    "league_id":2
+  },
+  {
+    "id":105,
+    "date":"2024-09-13",
+    "home_team_id":18,
+    "away_team_id":14,
+    "home_score":4,
+    "away_score":3,
+    "venue":"Stadium 45",
+    "league_id":2
+  },
+  {
+    "id":106,
+    "date":"2024-10-07",
+    "home_team_id":19,
+    "away_team_id":20,
+    "home_score":23,
+    "away_score":32,
+    "venue":"Stadium 46",
+    "league_id":2
+  },
+  {
+    "id":107,
+    "date":"2024-05-19",
+    "home_team_id":19,
+    "away_team_id":18,
+    "home_score":5,
+    "away_score":16,
+    "venue":"Stadium 47",
+    "league_id":2
+  },
+  {
+    "id":108,
+    "date":"2024-09-03",
+    "home_team_id":18,
+    "away_team_id":19,
+    "home_score":8,
+    "away_score":49,
+    "venue":"Stadium 48",
+    "league_id":2
+  },
+  {
+    "id":109,
+    "date":"2024-03-22",
+    "home_team_id":13,
+    "away_team_id":18,
+    "home_score":41,
+    "away_score":28,
+    "venue":"Stadium 49",
+    "league_id":2
+  },
+  {
+    "id":110,
+    "date":"2024-06-19",
+    "home_team_id":20,
+    "away_team_id":16,
+    "home_score":38,
+    "away_score":40,
+    "venue":"Stadium 50",
+    "league_id":2
+  },
+  {
+    "id":111,
+    "date":"2024-06-27",
+    "home_team_id":24,
+    "away_team_id":30,
+    "home_score":31,
+    "away_score":33,
+    "venue":"Stadium 1",
+    "league_id":3
+  },
+  {
+    "id":112,
+    "date":"2024-04-12",
+    "home_team_id":23,
+    "away_team_id":28,
+    "home_score":26,
+    "away_score":9,
+    "venue":"Stadium 2",
+    "league_id":3
+  },
+  {
+    "id":113,
+    "date":"2024-05-01",
+    "home_team_id":29,
+    "away_team_id":27,
+    "home_score":43,
+    "away_score":48,
+    "venue":"Stadium 3",
+    "league_id":3
+  },
+  {
+    "id":114,
+    "date":"2024-03-14",
+    "home_team_id":29,
+    "away_team_id":25,
+    "home_score":33,
+    "away_score":25,
+    "venue":"Stadium 4",
+    "league_id":3
+  },
+  {
+    "id":115,
+    "date":"2024-06-20",
+    "home_team_id":26,
+    "away_team_id":30,
+    "home_score":39,
+    "away_score":44,
+    "venue":"Stadium 5",
+    "league_id":3
+  },
+  {
+    "id":116,
+    "date":"2024-04-18",
+    "home_team_id":26,
+    "away_team_id":27,
+    "home_score":46,
+    "away_score":17,
+    "venue":"Stadium 6",
+    "league_id":3
+  },
+  {
+    "id":117,
+    "date":"2024-05-07",
+    "home_team_id":30,
+    "away_team_id":29,
+    "home_score":18,
+    "away_score":48,
+    "venue":"Stadium 7",
+    "league_id":3
+  },
+  {
+    "id":118,
+    "date":"2024-03-10",
+    "home_team_id":28,
+    "away_team_id":27,
+    "home_score":5,
+    "away_score":30,
+    "venue":"Stadium 8",
+    "league_id":3
+  },
+  {
+    "id":119,
+    "date":"2024-02-21",
+    "home_team_id":30,
+    "away_team_id":28,
+    "home_score":18,
+    "away_score":17,
+    "venue":"Stadium 9",
+    "league_id":3
+  },
+  {
+    "id":120,
+    "date":"2024-02-13",
+    "home_team_id":28,
+    "away_team_id":26,
+    "home_score":32,
+    "away_score":36,
+    "venue":"Stadium 10",
+    "league_id":3
+  },
+  {
+    "id":121,
+    "date":"2024-07-17",
+    "home_team_id":25,
+    "away_team_id":27,
+    "home_score":10,
+    "away_score":9,
+    "venue":"Stadium 11",
+    "league_id":3
+  },
+  {
+    "id":122,
+    "date":"2024-07-07",
+    "home_team_id":29,
+    "away_team_id":27,
+    "home_score":28,
+    "away_score":31,
+    "venue":"Stadium 12",
+    "league_id":3
+  },
+  {
+    "id":123,
+    "date":"2024-08-21",
+    "home_team_id":26,
+    "away_team_id":29,
+    "home_score":4,
+    "away_score":12,
+    "venue":"Stadium 13",
+    "league_id":3
+  },
+  {
+    "id":124,
+    "date":"2024-11-04",
+    "home_team_id":23,
+    "away_team_id":28,
+    "home_score":47,
+    "away_score":21,
+    "venue":"Stadium 14",
+    "league_id":3
+  },
+  {
+    "id":125,
+    "date":"2024-07-23",
+    "home_team_id":28,
+    "away_team_id":26,
+    "home_score":0,
+    "away_score":9,
+    "venue":"Stadium 15",
+    "league_id":3
+  },
+  {
+    "id":126,
+    "date":"2024-11-24",
+    "home_team_id":24,
+    "away_team_id":30,
+    "home_score":14,
+    "away_score":38,
+    "venue":"Stadium 16",
+    "league_id":3
+  },
+  {
+    "id":127,
+    "date":"2024-05-06",
+    "home_team_id":26,
+    "away_team_id":24,
+    "home_score":5,
+    "away_score":12,
+    "venue":"Stadium 17",
+    "league_id":3
+  },
+  {
+    "id":128,
+    "date":"2024-08-16",
+    "home_team_id":28,
+    "away_team_id":29,
+    "home_score":38,
+    "away_score":27,
+    "venue":"Stadium 18",
+    "league_id":3
+  },
+  {
+    "id":129,
+    "date":"2024-06-05",
+    "home_team_id":27,
+    "away_team_id":28,
+    "home_score":49,
+    "away_score":39,
+    "venue":"Stadium 19",
+    "league_id":3
+  },
+  {
+    "id":130,
+    "date":"2024-02-08",
+    "home_team_id":23,
+    "away_team_id":25,
+    "home_score":12,
+    "away_score":11,
+    "venue":"Stadium 20",
+    "league_id":3
+  },
+  {
+    "id":131,
+    "date":"2024-08-01",
+    "home_team_id":24,
+    "away_team_id":27,
+    "home_score":33,
+    "away_score":37,
+    "venue":"Stadium 21",
+    "league_id":3
+  },
+  {
+    "id":132,
+    "date":"2024-08-06",
+    "home_team_id":30,
+    "away_team_id":26,
+    "home_score":50,
+    "away_score":20,
+    "venue":"Stadium 22",
+    "league_id":3
+  },
+  {
+    "id":133,
+    "date":"2024-12-04",
+    "home_team_id":23,
+    "away_team_id":27,
+    "home_score":6,
+    "away_score":45,
+    "venue":"Stadium 23",
+    "league_id":3
+  },
+  {
+    "id":134,
+    "date":"2024-07-16",
+    "home_team_id":30,
+    "away_team_id":23,
+    "home_score":43,
+    "away_score":42,
+    "venue":"Stadium 24",
+    "league_id":3
+  },
+  {
+    "id":135,
+    "date":"2024-12-20",
+    "home_team_id":29,
+    "away_team_id":27,
+    "home_score":33,
+    "away_score":2,
+    "venue":"Stadium 25",
+    "league_id":3
+  },
+  {
+    "id":136,
+    "date":"2024-05-02",
+    "home_team_id":30,
+    "away_team_id":25,
+    "home_score":39,
+    "away_score":32,
+    "venue":"Stadium 26",
+    "league_id":3
+  },
+  {
+    "id":137,
+    "date":"2024-12-06",
+    "home_team_id":24,
+    "away_team_id":27,
+    "home_score":10,
+    "away_score":41,
+    "venue":"Stadium 27",
+    "league_id":3
+  },
+  {
+    "id":138,
+    "date":"2024-09-16",
+    "home_team_id":24,
+    "away_team_id":25,
+    "home_score":40,
+    "away_score":27,
+    "venue":"Stadium 28",
+    "league_id":3
+  },
+  {
+    "id":139,
+    "date":"2024-10-15",
+    "home_team_id":30,
+    "away_team_id":26,
+    "home_score":48,
+    "away_score":41,
+    "venue":"Stadium 29",
+    "league_id":3
+  },
+  {
+    "id":140,
+    "date":"2024-08-18",
+    "home_team_id":29,
+    "away_team_id":27,
+    "home_score":49,
+    "away_score":11,
+    "venue":"Stadium 30",
+    "league_id":3
+  },
+  {
+    "id":141,
+    "date":"2024-10-28",
+    "home_team_id":26,
+    "away_team_id":29,
+    "home_score":39,
+    "away_score":28,
+    "venue":"Stadium 31",
+    "league_id":3
+  },
+  {
+    "id":142,
+    "date":"2024-07-16",
+    "home_team_id":25,
+    "away_team_id":24,
+    "home_score":23,
+    "away_score":50,
+    "venue":"Stadium 32",
+    "league_id":3
+  },
+  {
+    "id":143,
+    "date":"2024-02-14",
+    "home_team_id":25,
+    "away_team_id":30,
+    "home_score":22,
+    "away_score":9,
+    "venue":"Stadium 33",
+    "league_id":3
+  },
+  {
+    "id":144,
+    "date":"2024-06-14",
+    "home_team_id":29,
+    "away_team_id":25,
+    "home_score":15,
+    "away_score":35,
+    "venue":"Stadium 34",
+    "league_id":3
+  },
+  {
+    "id":145,
+    "date":"2024-07-08",
+    "home_team_id":28,
+    "away_team_id":30,
+    "home_score":32,
+    "away_score":11,
+    "venue":"Stadium 35",
+    "league_id":3
+  },
+  {
+    "id":146,
+    "date":"2024-12-15",
+    "home_team_id":23,
+    "away_team_id":25,
+    "home_score":43,
+    "away_score":10,
+    "venue":"Stadium 36",
+    "league_id":3
+  },
+  {
+    "id":147,
+    "date":"2024-04-09",
+    "home_team_id":27,
+    "away_team_id":28,
+    "home_score":30,
+    "away_score":27,
+    "venue":"Stadium 37",
+    "league_id":3
+  },
+  {
+    "id":148,
+    "date":"2024-03-21",
+    "home_team_id":25,
+    "away_team_id":28,
+    "home_score":29,
+    "away_score":50,
+    "venue":"Stadium 38",
+    "league_id":3
+  },
+  {
+    "id":149,
+    "date":"2024-09-16",
+    "home_team_id":24,
+    "away_team_id":26,
+    "home_score":35,
+    "away_score":42,
+    "venue":"Stadium 39",
+    "league_id":3
+  },
+  {
+    "id":150,
+    "date":"2024-09-24",
+    "home_team_id":25,
+    "away_team_id":26,
+    "home_score":12,
+    "away_score":31,
+    "venue":"Stadium 40",
+    "league_id":3
+  },
+  {
+    "id":151,
+    "date":"2024-04-22",
+    "home_team_id":35,
+    "away_team_id":32,
+    "home_score":47,
+    "away_score":41,
+    "venue":"Stadium 1",
+    "league_id":4
+  },
+  {
+    "id":152,
+    "date":"2024-05-16",
+    "home_team_id":31,
+    "away_team_id":36,
+    "home_score":5,
+    "away_score":48,
+    "venue":"Stadium 2",
+    "league_id":4
+  },
+  {
+    "id":153,
+    "date":"2024-04-05",
+    "home_team_id":34,
+    "away_team_id":36,
+    "home_score":0,
+    "away_score":7,
+    "venue":"Stadium 3",
+    "league_id":4
+  },
+  {
+    "id":154,
+    "date":"2024-07-10",
+    "home_team_id":36,
+    "away_team_id":34,
+    "home_score":40,
+    "away_score":15,
+    "venue":"Stadium 4",
+    "league_id":4
+  },
+  {
+    "id":155,
+    "date":"2024-05-12",
+    "home_team_id":35,
+    "away_team_id":32,
+    "home_score":18,
+    "away_score":47,
+    "venue":"Stadium 5",
+    "league_id":4
+  },
+  {
+    "id":156,
+    "date":"2024-12-04",
+    "home_team_id":35,
+    "away_team_id":36,
+    "home_score":36,
+    "away_score":6,
+    "venue":"Stadium 6",
+    "league_id":4
+  },
+  {
+    "id":157,
+    "date":"2024-06-09",
+    "home_team_id":31,
+    "away_team_id":36,
+    "home_score":37,
+    "away_score":40,
+    "venue":"Stadium 7",
+    "league_id":4
+  },
+  {
+    "id":158,
+    "date":"2024-03-27",
+    "home_team_id":31,
+    "away_team_id":32,
+    "home_score":49,
+    "away_score":33,
+    "venue":"Stadium 8",
+    "league_id":4
+  },
+  {
+    "id":159,
+    "date":"2024-04-20",
+    "home_team_id":34,
+    "away_team_id":36,
+    "home_score":5,
+    "away_score":24,
+    "venue":"Stadium 9",
+    "league_id":4
+  },
+  {
+    "id":160,
+    "date":"2024-06-27",
+    "home_team_id":35,
+    "away_team_id":33,
+    "home_score":40,
+    "away_score":7,
+    "venue":"Stadium 10",
+    "league_id":4
+  },
+  {
+    "id":161,
+    "date":"2024-11-25",
+    "home_team_id":35,
+    "away_team_id":36,
+    "home_score":48,
+    "away_score":14,
+    "venue":"Stadium 11",
+    "league_id":4
+  },
+  {
+    "id":162,
+    "date":"2024-09-08",
+    "home_team_id":32,
+    "away_team_id":34,
+    "home_score":25,
+    "away_score":33,
+    "venue":"Stadium 12",
+    "league_id":4
+  },
+  {
+    "id":163,
+    "date":"2024-06-26",
+    "home_team_id":36,
+    "away_team_id":33,
+    "home_score":15,
+    "away_score":8,
+    "venue":"Stadium 13",
+    "league_id":4
+  },
+  {
+    "id":164,
+    "date":"2024-06-26",
+    "home_team_id":36,
+    "away_team_id":34,
+    "home_score":43,
+    "away_score":37,
+    "venue":"Stadium 14",
+    "league_id":4
+  },
+  {
+    "id":165,
+    "date":"2024-01-10",
+    "home_team_id":35,
+    "away_team_id":33,
+    "home_score":22,
+    "away_score":24,
+    "venue":"Stadium 15",
+    "league_id":4
+  },
+  {
+    "id":166,
+    "date":"2024-10-25",
+    "home_team_id":35,
+    "away_team_id":31,
+    "home_score":32,
+    "away_score":34,
+    "venue":"Stadium 16",
+    "league_id":4
+  },
+  {
+    "id":167,
+    "date":"2024-07-05",
+    "home_team_id":36,
+    "away_team_id":33,
+    "home_score":23,
+    "away_score":21,
+    "venue":"Stadium 17",
+    "league_id":4
+  },
+  {
+    "id":168,
+    "date":"2024-07-10",
+    "home_team_id":34,
+    "away_team_id":35,
+    "home_score":8,
+    "away_score":45,
+    "venue":"Stadium 18",
+    "league_id":4
+  },
+  {
+    "id":169,
+    "date":"2024-01-16",
+    "home_team_id":34,
+    "away_team_id":36,
+    "home_score":36,
+    "away_score":13,
+    "venue":"Stadium 19",
+    "league_id":4
+  },
+  {
+    "id":170,
+    "date":"2024-07-15",
+    "home_team_id":33,
+    "away_team_id":36,
+    "home_score":50,
+    "away_score":18,
+    "venue":"Stadium 20",
+    "league_id":4
+  },
+  {
+    "id":171,
+    "date":"2024-04-01",
+    "home_team_id":34,
+    "away_team_id":35,
+    "home_score":23,
+    "away_score":13,
+    "venue":"Stadium 21",
+    "league_id":4
+  },
+  {
+    "id":172,
+    "date":"2024-09-06",
+    "home_team_id":31,
+    "away_team_id":35,
+    "home_score":48,
+    "away_score":20,
+    "venue":"Stadium 22",
+    "league_id":4
+  },
+  {
+    "id":173,
+    "date":"2024-02-17",
+    "home_team_id":36,
+    "away_team_id":33,
+    "home_score":24,
+    "away_score":49,
+    "venue":"Stadium 23",
+    "league_id":4
+  },
+  {
+    "id":174,
+    "date":"2024-01-26",
+    "home_team_id":36,
+    "away_team_id":34,
+    "home_score":35,
+    "away_score":4,
+    "venue":"Stadium 24",
+    "league_id":4
+  },
+  {
+    "id":175,
+    "date":"2024-10-23",
+    "home_team_id":35,
+    "away_team_id":33,
+    "home_score":50,
+    "away_score":35,
+    "venue":"Stadium 25",
+    "league_id":4
+  },
+  {
+    "id":176,
+    "date":"2024-09-28",
+    "home_team_id":31,
+    "away_team_id":35,
+    "home_score":35,
+    "away_score":13,
+    "venue":"Stadium 26",
+    "league_id":4
+  },
+  {
+    "id":177,
+    "date":"2024-10-19",
+    "home_team_id":34,
+    "away_team_id":35,
+    "home_score":14,
+    "away_score":20,
+    "venue":"Stadium 27",
+    "league_id":4
+  },
+  {
+    "id":178,
+    "date":"2024-06-14",
+    "home_team_id":32,
+    "away_team_id":35,
+    "home_score":21,
+    "away_score":33,
+    "venue":"Stadium 28",
+    "league_id":4
+  },
+  {
+    "id":179,
+    "date":"2024-05-03",
+    "home_team_id":31,
+    "away_team_id":32,
+    "home_score":35,
+    "away_score":15,
+    "venue":"Stadium 29",
+    "league_id":4
+  },
+  {
+    "id":180,
+    "date":"2024-12-17",
+    "home_team_id":36,
+    "away_team_id":34,
+    "home_score":31,
+    "away_score":0,
+    "venue":"Stadium 30",
+    "league_id":4
+  },
+  {
+    "id":181,
+    "date":"2024-11-10",
+    "home_team_id":39,
+    "away_team_id":41,
+    "home_score":48,
+    "away_score":8,
+    "venue":"Stadium 1",
+    "league_id":5
+  },
+  {
+    "id":182,
+    "date":"2024-07-05",
+    "home_team_id":37,
+    "away_team_id":41,
+    "home_score":35,
+    "away_score":35,
+    "venue":"Stadium 2",
+    "league_id":5
+  },
+  {
+    "id":183,
+    "date":"2024-10-23",
+    "home_team_id":38,
+    "away_team_id":44,
+    "home_score":7,
+    "away_score":18,
+    "venue":"Stadium 3",
+    "league_id":5
+  },
+  {
+    "id":184,
+    "date":"2024-07-19",
+    "home_team_id":37,
+    "away_team_id":40,
+    "home_score":27,
+    "away_score":17,
+    "venue":"Stadium 4",
+    "league_id":5
+  },
+  {
+    "id":185,
+    "date":"2024-10-11",
+    "home_team_id":40,
+    "away_team_id":45,
+    "home_score":46,
+    "away_score":19,
+    "venue":"Stadium 5",
+    "league_id":5
+  },
+  {
+    "id":186,
+    "date":"2024-09-11",
+    "home_team_id":38,
+    "away_team_id":42,
+    "home_score":6,
+    "away_score":39,
+    "venue":"Stadium 6",
+    "league_id":5
+  },
+  {
+    "id":187,
+    "date":"2024-04-20",
+    "home_team_id":38,
+    "away_team_id":37,
+    "home_score":11,
+    "away_score":37,
+    "venue":"Stadium 7",
+    "league_id":5
+  },
+  {
+    "id":188,
+    "date":"2024-07-27",
+    "home_team_id":43,
+    "away_team_id":40,
+    "home_score":13,
+    "away_score":27,
+    "venue":"Stadium 8",
+    "league_id":5
+  },
+  {
+    "id":189,
+    "date":"2024-03-07",
+    "home_team_id":45,
+    "away_team_id":44,
+    "home_score":11,
+    "away_score":26,
+    "venue":"Stadium 9",
+    "league_id":5
+  },
+  {
+    "id":190,
+    "date":"2024-07-09",
+    "home_team_id":45,
+    "away_team_id":46,
+    "home_score":23,
+    "away_score":44,
+    "venue":"Stadium 10",
+    "league_id":5
+  },
+  {
+    "id":191,
+    "date":"2024-11-12",
+    "home_team_id":43,
+    "away_team_id":41,
+    "home_score":15,
+    "away_score":42,
+    "venue":"Stadium 11",
+    "league_id":5
+  },
+  {
+    "id":192,
+    "date":"2024-04-15",
+    "home_team_id":41,
+    "away_team_id":39,
+    "home_score":7,
+    "away_score":22,
+    "venue":"Stadium 12",
+    "league_id":5
+  },
+  {
+    "id":193,
+    "date":"2024-07-05",
+    "home_team_id":43,
+    "away_team_id":37,
+    "home_score":45,
+    "away_score":5,
+    "venue":"Stadium 13",
+    "league_id":5
+  },
+  {
+    "id":194,
+    "date":"2024-01-03",
+    "home_team_id":42,
+    "away_team_id":37,
+    "home_score":22,
+    "away_score":6,
+    "venue":"Stadium 14",
+    "league_id":5
+  },
+  {
+    "id":195,
+    "date":"2024-08-16",
+    "home_team_id":39,
+    "away_team_id":44,
+    "home_score":14,
+    "away_score":45,
+    "venue":"Stadium 15",
+    "league_id":5
+  },
+  {
+    "id":196,
+    "date":"2024-03-12",
+    "home_team_id":44,
+    "away_team_id":41,
+    "home_score":30,
+    "away_score":1,
+    "venue":"Stadium 16",
+    "league_id":5
+  },
+  {
+    "id":197,
+    "date":"2024-10-03",
+    "home_team_id":42,
+    "away_team_id":46,
+    "home_score":35,
+    "away_score":28,
+    "venue":"Stadium 17",
+    "league_id":5
+  },
+  {
+    "id":198,
+    "date":"2024-02-10",
+    "home_team_id":37,
+    "away_team_id":39,
+    "home_score":6,
+    "away_score":44,
+    "venue":"Stadium 18",
+    "league_id":5
+  },
+  {
+    "id":199,
+    "date":"2024-07-25",
+    "home_team_id":37,
+    "away_team_id":46,
+    "home_score":47,
+    "away_score":8,
+    "venue":"Stadium 19",
+    "league_id":5
+  },
+  {
+    "id":200,
+    "date":"2024-07-26",
+    "home_team_id":42,
+    "away_team_id":46,
+    "home_score":50,
+    "away_score":9,
+    "venue":"Stadium 20",
+    "league_id":5
+  },
+  {
+    "id":201,
+    "date":"2024-07-08",
+    "home_team_id":42,
+    "away_team_id":37,
+    "home_score":40,
+    "away_score":24,
+    "venue":"Stadium 21",
+    "league_id":5
+  },
+  {
+    "id":202,
+    "date":"2024-09-20",
+    "home_team_id":40,
+    "away_team_id":37,
+    "home_score":29,
+    "away_score":19,
+    "venue":"Stadium 22",
+    "league_id":5
+  },
+  {
+    "id":203,
+    "date":"2024-12-20",
+    "home_team_id":44,
+    "away_team_id":46,
+    "home_score":1,
+    "away_score":14,
+    "venue":"Stadium 23",
+    "league_id":5
+  },
+  {
+    "id":204,
+    "date":"2024-09-24",
+    "home_team_id":43,
+    "away_team_id":38,
+    "home_score":39,
+    "away_score":27,
+    "venue":"Stadium 24",
+    "league_id":5
+  },
+  {
+    "id":205,
+    "date":"2024-12-24",
+    "home_team_id":42,
+    "away_team_id":39,
+    "home_score":1,
+    "away_score":14,
+    "venue":"Stadium 25",
+    "league_id":5
+  },
+  {
+    "id":206,
+    "date":"2024-07-18",
+    "home_team_id":38,
+    "away_team_id":42,
+    "home_score":2,
+    "away_score":33,
+    "venue":"Stadium 26",
+    "league_id":5
+  },
+  {
+    "id":207,
+    "date":"2024-10-26",
+    "home_team_id":40,
+    "away_team_id":46,
+    "home_score":27,
+    "away_score":28,
+    "venue":"Stadium 27",
+    "league_id":5
+  },
+  {
+    "id":208,
+    "date":"2024-10-17",
+    "home_team_id":43,
+    "away_team_id":40,
+    "home_score":33,
+    "away_score":8,
+    "venue":"Stadium 28",
+    "league_id":5
+  },
+  {
+    "id":209,
+    "date":"2024-07-26",
+    "home_team_id":45,
+    "away_team_id":46,
+    "home_score":24,
+    "away_score":24,
+    "venue":"Stadium 29",
+    "league_id":5
+  },
+  {
+    "id":210,
+    "date":"2024-06-16",
+    "home_team_id":46,
+    "away_team_id":44,
+    "home_score":5,
+    "away_score":28,
+    "venue":"Stadium 30",
+    "league_id":5
+  },
+  {
+    "id":211,
+    "date":"2024-02-02",
+    "home_team_id":40,
+    "away_team_id":37,
+    "home_score":38,
+    "away_score":33,
+    "venue":"Stadium 31",
+    "league_id":5
+  },
+  {
+    "id":212,
+    "date":"2024-10-22",
+    "home_team_id":41,
+    "away_team_id":42,
+    "home_score":23,
+    "away_score":7,
+    "venue":"Stadium 32",
+    "league_id":5
+  },
+  {
+    "id":213,
+    "date":"2024-11-13",
+    "home_team_id":45,
+    "away_team_id":44,
+    "home_score":10,
+    "away_score":49,
+    "venue":"Stadium 33",
+    "league_id":5
+  },
+  {
+    "id":214,
+    "date":"2024-02-11",
+    "home_team_id":39,
+    "away_team_id":43,
+    "home_score":17,
+    "away_score":50,
+    "venue":"Stadium 34",
+    "league_id":5
+  },
+  {
+    "id":215,
+    "date":"2024-03-11",
+    "home_team_id":42,
+    "away_team_id":39,
+    "home_score":37,
+    "away_score":21,
+    "venue":"Stadium 35",
+    "league_id":5
+  },
+  {
+    "id":216,
+    "date":"2024-10-16",
+    "home_team_id":44,
+    "away_team_id":38,
+    "home_score":39,
+    "away_score":4,
+    "venue":"Stadium 36",
+    "league_id":5
+  },
+  {
+    "id":217,
+    "date":"2024-08-26",
+    "home_team_id":38,
+    "away_team_id":43,
+    "home_score":0,
+    "away_score":9,
+    "venue":"Stadium 37",
+    "league_id":5
+  },
+  {
+    "id":218,
+    "date":"2024-05-16",
+    "home_team_id":42,
+    "away_team_id":45,
+    "home_score":22,
+    "away_score":38,
+    "venue":"Stadium 38",
+    "league_id":5
+  },
+  {
+    "id":219,
+    "date":"2024-02-15",
+    "home_team_id":37,
+    "away_team_id":42,
+    "home_score":2,
+    "away_score":21,
+    "venue":"Stadium 39",
+    "league_id":5
+  },
+  {
+    "id":220,
+    "date":"2024-08-07",
+    "home_team_id":40,
+    "away_team_id":44,
+    "home_score":6,
+    "away_score":1,
+    "venue":"Stadium 40",
+    "league_id":5
+  },
+  {
+    "id":221,
+    "date":"2024-01-26",
+    "home_team_id":46,
+    "away_team_id":38,
+    "home_score":16,
+    "away_score":17,
+    "venue":"Stadium 41",
+    "league_id":5
+  },
+  {
+    "id":222,
+    "date":"2024-05-11",
+    "home_team_id":46,
+    "away_team_id":44,
+    "home_score":37,
+    "away_score":29,
+    "venue":"Stadium 42",
+    "league_id":5
+  },
+  {
+    "id":223,
+    "date":"2024-03-05",
+    "home_team_id":45,
+    "away_team_id":43,
+    "home_score":26,
+    "away_score":2,
+    "venue":"Stadium 43",
+    "league_id":5
+  },
+  {
+    "id":224,
+    "date":"2024-11-13",
+    "home_team_id":37,
+    "away_team_id":39,
+    "home_score":28,
+    "away_score":10,
+    "venue":"Stadium 44",
+    "league_id":5
+  },
+  {
+    "id":225,
+    "date":"2024-09-14",
+    "home_team_id":40,
+    "away_team_id":38,
+    "home_score":2,
+    "away_score":25,
+    "venue":"Stadium 45",
+    "league_id":5
+  },
+  {
+    "id":226,
+    "date":"2024-03-11",
+    "home_team_id":44,
+    "away_team_id":43,
+    "home_score":16,
+    "away_score":20,
+    "venue":"Stadium 46",
+    "league_id":5
+  },
+  {
+    "id":227,
+    "date":"2024-02-16",
+    "home_team_id":37,
+    "away_team_id":44,
+    "home_score":37,
+    "away_score":15,
+    "venue":"Stadium 47",
+    "league_id":5
+  },
+  {
+    "id":228,
+    "date":"2024-03-16",
+    "home_team_id":42,
+    "away_team_id":38,
+    "home_score":23,
+    "away_score":11,
+    "venue":"Stadium 48",
+    "league_id":5
+  },
+  {
+    "id":229,
+    "date":"2024-06-27",
+    "home_team_id":39,
+    "away_team_id":41,
+    "home_score":30,
+    "away_score":25,
+    "venue":"Stadium 49",
+    "league_id":5
+  },
+  {
+    "id":230,
+    "date":"2024-01-09",
+    "home_team_id":42,
+    "away_team_id":38,
+    "home_score":10,
+    "away_score":7,
+    "venue":"Stadium 50",
+    "league_id":5
+  },
+  {
+    "id":231,
+    "date":"2024-03-06",
+    "home_team_id":55,
+    "away_team_id":52,
+    "home_score":47,
+    "away_score":38,
+    "venue":"Stadium 1",
+    "league_id":6
+  },
+  {
+    "id":232,
+    "date":"2024-08-20",
+    "home_team_id":49,
+    "away_team_id":47,
+    "home_score":1,
+    "away_score":35,
+    "venue":"Stadium 2",
+    "league_id":6
+  },
+  {
+    "id":233,
+    "date":"2024-04-20",
+    "home_team_id":54,
+    "away_team_id":53,
+    "home_score":18,
+    "away_score":15,
+    "venue":"Stadium 3",
+    "league_id":6
+  },
+  {
+    "id":234,
+    "date":"2024-11-02",
+    "home_team_id":56,
+    "away_team_id":57,
+    "home_score":49,
+    "away_score":40,
+    "venue":"Stadium 4",
+    "league_id":6
+  },
+  {
+    "id":235,
+    "date":"2024-12-01",
+    "home_team_id":58,
+    "away_team_id":47,
+    "home_score":10,
+    "away_score":34,
+    "venue":"Stadium 5",
+    "league_id":6
+  },
+  {
+    "id":236,
+    "date":"2024-07-06",
+    "home_team_id":57,
+    "away_team_id":52,
+    "home_score":14,
+    "away_score":34,
+    "venue":"Stadium 6",
+    "league_id":6
+  },
+  {
+    "id":237,
+    "date":"2024-03-24",
+    "home_team_id":57,
+    "away_team_id":55,
+    "home_score":1,
+    "away_score":36,
+    "venue":"Stadium 7",
+    "league_id":6
+  },
+  {
+    "id":238,
+    "date":"2024-02-08",
+    "home_team_id":60,
+    "away_team_id":50,
+    "home_score":36,
+    "away_score":17,
+    "venue":"Stadium 8",
+    "league_id":6
+  },
+  {
+    "id":239,
+    "date":"2024-11-02",
+    "home_team_id":53,
+    "away_team_id":51,
+    "home_score":22,
+    "away_score":0,
+    "venue":"Stadium 9",
+    "league_id":6
+  },
+  {
+    "id":240,
+    "date":"2024-06-13",
+    "home_team_id":56,
+    "away_team_id":47,
+    "home_score":41,
+    "away_score":41,
+    "venue":"Stadium 10",
+    "league_id":6
+  },
+  {
+    "id":241,
+    "date":"2024-03-23",
+    "home_team_id":47,
+    "away_team_id":53,
+    "home_score":40,
+    "away_score":38,
+    "venue":"Stadium 11",
+    "league_id":6
+  },
+  {
+    "id":242,
+    "date":"2024-04-16",
+    "home_team_id":55,
+    "away_team_id":56,
+    "home_score":22,
+    "away_score":9,
+    "venue":"Stadium 12",
+    "league_id":6
+  },
+  {
+    "id":243,
+    "date":"2024-02-22",
+    "home_team_id":47,
+    "away_team_id":52,
+    "home_score":39,
+    "away_score":19,
+    "venue":"Stadium 13",
+    "league_id":6
+  },
+  {
+    "id":244,
+    "date":"2024-03-17",
+    "home_team_id":60,
+    "away_team_id":52,
+    "home_score":11,
+    "away_score":34,
+    "venue":"Stadium 14",
+    "league_id":6
+  },
+  {
+    "id":245,
+    "date":"2024-11-21",
+    "home_team_id":58,
+    "away_team_id":56,
+    "home_score":17,
+    "away_score":23,
+    "venue":"Stadium 15",
+    "league_id":6
+  },
+  {
+    "id":246,
+    "date":"2024-02-05",
+    "home_team_id":49,
+    "away_team_id":55,
+    "home_score":21,
+    "away_score":17,
+    "venue":"Stadium 16",
+    "league_id":6
+  },
+  {
+    "id":247,
+    "date":"2024-04-08",
+    "home_team_id":49,
+    "away_team_id":52,
+    "home_score":28,
+    "away_score":32,
+    "venue":"Stadium 17",
+    "league_id":6
+  },
+  {
+    "id":248,
+    "date":"2024-10-14",
+    "home_team_id":48,
+    "away_team_id":55,
+    "home_score":21,
+    "away_score":36,
+    "venue":"Stadium 18",
+    "league_id":6
+  },
+  {
+    "id":249,
+    "date":"2024-05-24",
+    "home_team_id":51,
+    "away_team_id":52,
+    "home_score":2,
+    "away_score":17,
+    "venue":"Stadium 19",
+    "league_id":6
+  },
+  {
+    "id":250,
+    "date":"2024-05-13",
+    "home_team_id":56,
+    "away_team_id":53,
+    "home_score":0,
+    "away_score":18,
+    "venue":"Stadium 20",
+    "league_id":6
+  },
+  {
+    "id":251,
+    "date":"2024-01-24",
+    "home_team_id":59,
+    "away_team_id":51,
+    "home_score":27,
+    "away_score":37,
+    "venue":"Stadium 21",
+    "league_id":6
+  },
+  {
+    "id":252,
+    "date":"2024-09-03",
+    "home_team_id":54,
+    "away_team_id":53,
+    "home_score":46,
+    "away_score":0,
+    "venue":"Stadium 22",
+    "league_id":6
+  },
+  {
+    "id":253,
+    "date":"2024-05-10",
+    "home_team_id":59,
+    "away_team_id":58,
+    "home_score":18,
+    "away_score":44,
+    "venue":"Stadium 23",
+    "league_id":6
+  },
+  {
+    "id":254,
+    "date":"2024-11-02",
+    "home_team_id":56,
+    "away_team_id":57,
+    "home_score":3,
+    "away_score":33,
+    "venue":"Stadium 24",
+    "league_id":6
+  },
+  {
+    "id":255,
+    "date":"2024-11-21",
+    "home_team_id":57,
+    "away_team_id":54,
+    "home_score":33,
+    "away_score":1,
+    "venue":"Stadium 25",
+    "league_id":6
+  },
+  {
+    "id":256,
+    "date":"2024-10-10",
+    "home_team_id":50,
+    "away_team_id":54,
+    "home_score":2,
+    "away_score":28,
+    "venue":"Stadium 26",
+    "league_id":6
+  },
+  {
+    "id":257,
+    "date":"2024-01-19",
+    "home_team_id":56,
+    "away_team_id":60,
+    "home_score":40,
+    "away_score":22,
+    "venue":"Stadium 27",
+    "league_id":6
+  },
+  {
+    "id":258,
+    "date":"2024-08-07",
+    "home_team_id":49,
+    "away_team_id":56,
+    "home_score":19,
+    "away_score":3,
+    "venue":"Stadium 28",
+    "league_id":6
+  },
+  {
+    "id":259,
+    "date":"2024-12-21",
+    "home_team_id":52,
+    "away_team_id":57,
+    "home_score":27,
+    "away_score":42,
+    "venue":"Stadium 29",
+    "league_id":6
+  },
+  {
+    "id":260,
+    "date":"2024-11-17",
+    "home_team_id":48,
+    "away_team_id":54,
+    "home_score":31,
+    "away_score":9,
+    "venue":"Stadium 30",
+    "league_id":6
+  },
+  {
+    "id":261,
+    "date":"2024-02-19",
+    "home_team_id":49,
+    "away_team_id":48,
+    "home_score":43,
+    "away_score":41,
+    "venue":"Stadium 31",
+    "league_id":6
+  },
+  {
+    "id":262,
+    "date":"2024-08-03",
+    "home_team_id":50,
+    "away_team_id":52,
+    "home_score":2,
+    "away_score":15,
+    "venue":"Stadium 32",
+    "league_id":6
+  },
+  {
+    "id":263,
+    "date":"2024-08-21",
+    "home_team_id":51,
+    "away_team_id":55,
+    "home_score":41,
+    "away_score":29,
+    "venue":"Stadium 33",
+    "league_id":6
+  },
+  {
+    "id":264,
+    "date":"2024-06-09",
+    "home_team_id":55,
+    "away_team_id":51,
+    "home_score":12,
+    "away_score":16,
+    "venue":"Stadium 34",
+    "league_id":6
+  },
+  {
+    "id":265,
+    "date":"2024-02-12",
+    "home_team_id":53,
+    "away_team_id":59,
+    "home_score":42,
+    "away_score":30,
+    "venue":"Stadium 35",
+    "league_id":6
+  },
+  {
+    "id":266,
+    "date":"2024-11-02",
+    "home_team_id":51,
+    "away_team_id":53,
+    "home_score":45,
+    "away_score":27,
+    "venue":"Stadium 36",
+    "league_id":6
+  },
+  {
+    "id":267,
+    "date":"2024-11-17",
+    "home_team_id":50,
+    "away_team_id":52,
+    "home_score":17,
+    "away_score":16,
+    "venue":"Stadium 37",
+    "league_id":6
+  },
+  {
+    "id":268,
+    "date":"2024-04-05",
+    "home_team_id":50,
+    "away_team_id":53,
+    "home_score":19,
+    "away_score":28,
+    "venue":"Stadium 38",
+    "league_id":6
+  },
+  {
+    "id":269,
+    "date":"2024-07-13",
+    "home_team_id":58,
+    "away_team_id":57,
+    "home_score":6,
+    "away_score":1,
+    "venue":"Stadium 39",
+    "league_id":6
+  },
+  {
+    "id":270,
+    "date":"2024-01-22",
+    "home_team_id":56,
+    "away_team_id":49,
+    "home_score":11,
+    "away_score":15,
+    "venue":"Stadium 40",
+    "league_id":6
+  },
+  {
+    "id":271,
+    "date":"2024-01-07",
+    "home_team_id":49,
+    "away_team_id":51,
+    "home_score":36,
+    "away_score":34,
+    "venue":"Stadium 41",
+    "league_id":6
+  },
+  {
+    "id":272,
+    "date":"2024-11-16",
+    "home_team_id":51,
+    "away_team_id":57,
+    "home_score":47,
+    "away_score":3,
+    "venue":"Stadium 42",
+    "league_id":6
+  },
+  {
+    "id":273,
+    "date":"2024-01-17",
+    "home_team_id":54,
+    "away_team_id":52,
+    "home_score":27,
+    "away_score":49,
+    "venue":"Stadium 43",
+    "league_id":6
+  },
+  {
+    "id":274,
+    "date":"2024-11-28",
+    "home_team_id":56,
+    "away_team_id":53,
+    "home_score":0,
+    "away_score":9,
+    "venue":"Stadium 44",
+    "league_id":6
+  },
+  {
+    "id":275,
+    "date":"2024-03-03",
+    "home_team_id":48,
+    "away_team_id":52,
+    "home_score":27,
+    "away_score":38,
+    "venue":"Stadium 45",
+    "league_id":6
+  },
+  {
+    "id":276,
+    "date":"2024-08-25",
+    "home_team_id":54,
+    "away_team_id":52,
+    "home_score":38,
+    "away_score":14,
+    "venue":"Stadium 46",
+    "league_id":6
+  },
+  {
+    "id":277,
+    "date":"2024-01-05",
+    "home_team_id":56,
+    "away_team_id":48,
+    "home_score":49,
+    "away_score":34,
+    "venue":"Stadium 47",
+    "league_id":6
+  },
+  {
+    "id":278,
+    "date":"2024-05-22",
+    "home_team_id":57,
+    "away_team_id":58,
+    "home_score":39,
+    "away_score":14,
+    "venue":"Stadium 48",
+    "league_id":6
+  },
+  {
+    "id":279,
+    "date":"2024-03-10",
+    "home_team_id":51,
+    "away_team_id":52,
+    "home_score":12,
+    "away_score":23,
+    "venue":"Stadium 49",
+    "league_id":6
+  },
+  {
+    "id":280,
+    "date":"2024-04-12",
+    "home_team_id":59,
+    "away_team_id":55,
+    "home_score":47,
+    "away_score":34,
+    "venue":"Stadium 50",
+    "league_id":6
+  },
+  {
+    "id":281,
+    "date":"2024-06-27",
+    "home_team_id":51,
+    "away_team_id":53,
+    "home_score":35,
+    "away_score":37,
+    "venue":"Stadium 51",
+    "league_id":6
+  },
+  {
+    "id":282,
+    "date":"2024-07-12",
+    "home_team_id":49,
+    "away_team_id":59,
+    "home_score":42,
+    "away_score":24,
+    "venue":"Stadium 52",
+    "league_id":6
+  },
+  {
+    "id":283,
+    "date":"2024-10-02",
+    "home_team_id":56,
+    "away_team_id":55,
+    "home_score":38,
+    "away_score":25,
+    "venue":"Stadium 53",
+    "league_id":6
+  },
+  {
+    "id":284,
+    "date":"2024-02-22",
+    "home_team_id":57,
+    "away_team_id":60,
+    "home_score":26,
+    "away_score":30,
+    "venue":"Stadium 54",
+    "league_id":6
+  },
+  {
+    "id":285,
+    "date":"2024-09-07",
+    "home_team_id":51,
+    "away_team_id":49,
+    "home_score":35,
+    "away_score":45,
+    "venue":"Stadium 55",
+    "league_id":6
+  },
+  {
+    "id":286,
+    "date":"2024-12-05",
+    "home_team_id":60,
+    "away_team_id":52,
+    "home_score":11,
+    "away_score":8,
+    "venue":"Stadium 56",
+    "league_id":6
+  },
+  {
+    "id":287,
+    "date":"2024-10-08",
+    "home_team_id":49,
+    "away_team_id":53,
+    "home_score":15,
+    "away_score":44,
+    "venue":"Stadium 57",
+    "league_id":6
+  },
+  {
+    "id":288,
+    "date":"2024-02-18",
+    "home_team_id":57,
+    "away_team_id":49,
+    "home_score":8,
+    "away_score":43,
+    "venue":"Stadium 58",
+    "league_id":6
+  },
+  {
+    "id":289,
+    "date":"2024-10-06",
+    "home_team_id":57,
+    "away_team_id":60,
+    "home_score":42,
+    "away_score":50,
+    "venue":"Stadium 59",
+    "league_id":6
+  },
+  {
+    "id":290,
+    "date":"2024-03-23",
+    "home_team_id":51,
+    "away_team_id":54,
+    "home_score":9,
+    "away_score":21,
+    "venue":"Stadium 60",
+    "league_id":6
+  },
+  {
+    "id":291,
+    "date":"2024-03-05",
+    "home_team_id":48,
+    "away_team_id":51,
+    "home_score":30,
+    "away_score":24,
+    "venue":"Stadium 61",
+    "league_id":6
+  },
+  {
+    "id":292,
+    "date":"2024-03-10",
+    "home_team_id":56,
+    "away_team_id":58,
+    "home_score":18,
+    "away_score":49,
+    "venue":"Stadium 62",
+    "league_id":6
+  },
+  {
+    "id":293,
+    "date":"2024-12-26",
+    "home_team_id":49,
+    "away_team_id":51,
+    "home_score":48,
+    "away_score":28,
+    "venue":"Stadium 63",
+    "league_id":6
+  },
+  {
+    "id":294,
+    "date":"2024-08-09",
+    "home_team_id":53,
+    "away_team_id":52,
+    "home_score":46,
+    "away_score":15,
+    "venue":"Stadium 64",
+    "league_id":6
+  },
+  {
+    "id":295,
+    "date":"2024-12-16",
+    "home_team_id":54,
+    "away_team_id":48,
+    "home_score":8,
+    "away_score":6,
+    "venue":"Stadium 65",
+    "league_id":6
+  },
+  {
+    "id":296,
+    "date":"2024-02-06",
+    "home_team_id":60,
+    "away_team_id":52,
+    "home_score":48,
+    "away_score":2,
+    "venue":"Stadium 66",
+    "league_id":6
+  },
+  {
+    "id":297,
+    "date":"2024-09-24",
+    "home_team_id":58,
+    "away_team_id":47,
+    "home_score":8,
+    "away_score":34,
+    "venue":"Stadium 67",
+    "league_id":6
+  },
+  {
+    "id":298,
+    "date":"2024-09-21",
+    "home_team_id":48,
+    "away_team_id":55,
+    "home_score":5,
+    "away_score":47,
+    "venue":"Stadium 68",
+    "league_id":6
+  },
+  {
+    "id":299,
+    "date":"2024-06-22",
+    "home_team_id":50,
+    "away_team_id":54,
+    "home_score":32,
+    "away_score":11,
+    "venue":"Stadium 69",
+    "league_id":6
+  },
+  {
+    "id":300,
+    "date":"2024-10-09",
+    "home_team_id":59,
+    "away_team_id":49,
+    "home_score":41,
+    "away_score":2,
+    "venue":"Stadium 70",
+    "league_id":6
+  },
+  {
+    "id":301,
+    "date":"2024-04-08",
+    "home_team_id":61,
+    "away_team_id":76,
+    "home_score":1,
+    "away_score":31,
+    "venue":"Stadium 1",
+    "league_id":7
+  },
+  {
+    "id":302,
+    "date":"2024-12-12",
+    "home_team_id":65,
+    "away_team_id":63,
+    "home_score":43,
+    "away_score":6,
+    "venue":"Stadium 2",
+    "league_id":7
+  },
+  {
+    "id":303,
+    "date":"2024-03-07",
+    "home_team_id":65,
+    "away_team_id":63,
+    "home_score":34,
+    "away_score":7,
+    "venue":"Stadium 3",
+    "league_id":7
+  },
+  {
+    "id":304,
+    "date":"2024-11-28",
+    "home_team_id":64,
+    "away_team_id":71,
+    "home_score":11,
+    "away_score":11,
+    "venue":"Stadium 4",
+    "league_id":7
+  },
+  {
+    "id":305,
+    "date":"2024-01-01",
+    "home_team_id":74,
+    "away_team_id":76,
+    "home_score":47,
+    "away_score":20,
+    "venue":"Stadium 5",
+    "league_id":7
+  },
+  {
+    "id":306,
+    "date":"2024-06-11",
+    "home_team_id":63,
+    "away_team_id":61,
+    "home_score":1,
+    "away_score":11,
+    "venue":"Stadium 6",
+    "league_id":7
+  },
+  {
+    "id":307,
+    "date":"2024-11-14",
+    "home_team_id":70,
+    "away_team_id":76,
+    "home_score":26,
+    "away_score":29,
+    "venue":"Stadium 7",
+    "league_id":7
+  },
+  {
+    "id":308,
+    "date":"2024-07-19",
+    "home_team_id":72,
+    "away_team_id":61,
+    "home_score":27,
+    "away_score":12,
+    "venue":"Stadium 8",
+    "league_id":7
+  },
+  {
+    "id":309,
+    "date":"2024-07-14",
+    "home_team_id":71,
+    "away_team_id":76,
+    "home_score":31,
+    "away_score":39,
+    "venue":"Stadium 9",
+    "league_id":7
+  },
+  {
+    "id":310,
+    "date":"2024-09-04",
+    "home_team_id":65,
+    "away_team_id":66,
+    "home_score":29,
+    "away_score":38,
+    "venue":"Stadium 10",
+    "league_id":7
+  },
+  {
+    "id":311,
+    "date":"2024-02-23",
+    "home_team_id":68,
+    "away_team_id":61,
+    "home_score":41,
+    "away_score":31,
+    "venue":"Stadium 11",
+    "league_id":7
+  },
+  {
+    "id":312,
+    "date":"2024-07-05",
+    "home_team_id":73,
+    "away_team_id":72,
+    "home_score":6,
+    "away_score":19,
+    "venue":"Stadium 12",
+    "league_id":7
+  },
+  {
+    "id":313,
+    "date":"2024-01-23",
+    "home_team_id":68,
+    "away_team_id":62,
+    "home_score":46,
+    "away_score":3,
+    "venue":"Stadium 13",
+    "league_id":7
+  },
+  {
+    "id":314,
+    "date":"2024-03-05",
+    "home_team_id":68,
+    "away_team_id":69,
+    "home_score":20,
+    "away_score":34,
+    "venue":"Stadium 14",
+    "league_id":7
+  },
+  {
+    "id":315,
+    "date":"2024-03-27",
+    "home_team_id":66,
+    "away_team_id":72,
+    "home_score":6,
+    "away_score":26,
+    "venue":"Stadium 15",
+    "league_id":7
+  },
+  {
+    "id":316,
+    "date":"2024-07-05",
+    "home_team_id":61,
+    "away_team_id":75,
+    "home_score":2,
+    "away_score":32,
+    "venue":"Stadium 16",
+    "league_id":7
+  },
+  {
+    "id":317,
+    "date":"2024-05-14",
+    "home_team_id":69,
+    "away_team_id":71,
+    "home_score":34,
+    "away_score":40,
+    "venue":"Stadium 17",
+    "league_id":7
+  },
+  {
+    "id":318,
+    "date":"2024-10-25",
+    "home_team_id":64,
+    "away_team_id":62,
+    "home_score":19,
+    "away_score":38,
+    "venue":"Stadium 18",
+    "league_id":7
+  },
+  {
+    "id":319,
+    "date":"2024-01-04",
+    "home_team_id":74,
+    "away_team_id":64,
+    "home_score":46,
+    "away_score":23,
+    "venue":"Stadium 19",
+    "league_id":7
+  },
+  {
+    "id":320,
+    "date":"2024-08-07",
+    "home_team_id":68,
+    "away_team_id":64,
+    "home_score":39,
+    "away_score":50,
+    "venue":"Stadium 20",
+    "league_id":7
+  },
+  {
+    "id":321,
+    "date":"2024-05-08",
+    "home_team_id":68,
+    "away_team_id":69,
+    "home_score":49,
+    "away_score":38,
+    "venue":"Stadium 21",
+    "league_id":7
+  },
+  {
+    "id":322,
+    "date":"2024-05-24",
+    "home_team_id":61,
+    "away_team_id":72,
+    "home_score":10,
+    "away_score":10,
+    "venue":"Stadium 22",
+    "league_id":7
+  },
+  {
+    "id":323,
+    "date":"2024-07-27",
+    "home_team_id":62,
+    "away_team_id":64,
+    "home_score":33,
+    "away_score":16,
+    "venue":"Stadium 23",
+    "league_id":7
+  },
+  {
+    "id":324,
+    "date":"2024-08-08",
+    "home_team_id":76,
+    "away_team_id":66,
+    "home_score":10,
+    "away_score":33,
+    "venue":"Stadium 24",
+    "league_id":7
+  },
+  {
+    "id":325,
+    "date":"2024-06-18",
+    "home_team_id":63,
+    "away_team_id":62,
+    "home_score":19,
+    "away_score":2,
+    "venue":"Stadium 25",
+    "league_id":7
+  },
+  {
+    "id":326,
+    "date":"2024-10-08",
+    "home_team_id":74,
+    "away_team_id":66,
+    "home_score":25,
+    "away_score":50,
+    "venue":"Stadium 26",
+    "league_id":7
+  },
+  {
+    "id":327,
+    "date":"2024-02-19",
+    "home_team_id":66,
+    "away_team_id":63,
+    "home_score":4,
+    "away_score":27,
+    "venue":"Stadium 27",
+    "league_id":7
+  },
+  {
+    "id":328,
+    "date":"2024-08-14",
+    "home_team_id":65,
+    "away_team_id":76,
+    "home_score":8,
+    "away_score":33,
+    "venue":"Stadium 28",
+    "league_id":7
+  },
+  {
+    "id":329,
+    "date":"2024-12-26",
+    "home_team_id":65,
+    "away_team_id":67,
+    "home_score":24,
+    "away_score":22,
+    "venue":"Stadium 29",
+    "league_id":7
+  },
+  {
+    "id":330,
+    "date":"2024-07-02",
+    "home_team_id":63,
+    "away_team_id":61,
+    "home_score":34,
+    "away_score":22,
+    "venue":"Stadium 30",
+    "league_id":7
+  },
+  {
+    "id":331,
+    "date":"2024-03-09",
+    "home_team_id":75,
+    "away_team_id":64,
+    "home_score":3,
+    "away_score":46,
+    "venue":"Stadium 31",
+    "league_id":7
+  },
+  {
+    "id":332,
+    "date":"2024-09-18",
+    "home_team_id":72,
+    "away_team_id":64,
+    "home_score":30,
+    "away_score":17,
+    "venue":"Stadium 32",
+    "league_id":7
+  },
+  {
+    "id":333,
+    "date":"2024-09-17",
+    "home_team_id":68,
+    "away_team_id":62,
+    "home_score":15,
+    "away_score":37,
+    "venue":"Stadium 33",
+    "league_id":7
+  },
+  {
+    "id":334,
+    "date":"2024-05-28",
+    "home_team_id":62,
+    "away_team_id":67,
+    "home_score":26,
+    "away_score":21,
+    "venue":"Stadium 34",
+    "league_id":7
+  },
+  {
+    "id":335,
+    "date":"2024-04-14",
+    "home_team_id":68,
+    "away_team_id":63,
+    "home_score":35,
+    "away_score":24,
+    "venue":"Stadium 35",
+    "league_id":7
+  },
+  {
+    "id":336,
+    "date":"2024-06-27",
+    "home_team_id":62,
+    "away_team_id":65,
+    "home_score":10,
+    "away_score":30,
+    "venue":"Stadium 36",
+    "league_id":7
+  },
+  {
+    "id":337,
+    "date":"2024-06-17",
+    "home_team_id":63,
+    "away_team_id":69,
+    "home_score":17,
+    "away_score":29,
+    "venue":"Stadium 37",
+    "league_id":7
+  },
+  {
+    "id":338,
+    "date":"2024-08-13",
+    "home_team_id":66,
+    "away_team_id":74,
+    "home_score":12,
+    "away_score":49,
+    "venue":"Stadium 38",
+    "league_id":7
+  },
+  {
+    "id":339,
+    "date":"2024-06-12",
+    "home_team_id":61,
+    "away_team_id":66,
+    "home_score":27,
+    "away_score":9,
+    "venue":"Stadium 39",
+    "league_id":7
+  },
+  {
+    "id":340,
+    "date":"2024-04-10",
+    "home_team_id":72,
+    "away_team_id":73,
+    "home_score":20,
+    "away_score":3,
+    "venue":"Stadium 40",
+    "league_id":7
+  },
+  {
+    "id":341,
+    "date":"2024-12-04",
+    "home_team_id":61,
+    "away_team_id":76,
+    "home_score":40,
+    "away_score":23,
+    "venue":"Stadium 41",
+    "league_id":7
+  },
+  {
+    "id":342,
+    "date":"2024-01-07",
+    "home_team_id":69,
+    "away_team_id":68,
+    "home_score":25,
+    "away_score":38,
+    "venue":"Stadium 42",
+    "league_id":7
+  },
+  {
+    "id":343,
+    "date":"2024-02-15",
+    "home_team_id":68,
+    "away_team_id":67,
+    "home_score":22,
+    "away_score":38,
+    "venue":"Stadium 43",
+    "league_id":7
+  },
+  {
+    "id":344,
+    "date":"2024-04-13",
+    "home_team_id":75,
+    "away_team_id":61,
+    "home_score":48,
+    "away_score":12,
+    "venue":"Stadium 44",
+    "league_id":7
+  },
+  {
+    "id":345,
+    "date":"2024-12-16",
+    "home_team_id":76,
+    "away_team_id":75,
+    "home_score":31,
+    "away_score":13,
+    "venue":"Stadium 45",
+    "league_id":7
+  },
+  {
+    "id":346,
+    "date":"2024-06-17",
+    "home_team_id":66,
+    "away_team_id":65,
+    "home_score":33,
+    "away_score":46,
+    "venue":"Stadium 46",
+    "league_id":7
+  },
+  {
+    "id":347,
+    "date":"2024-09-06",
+    "home_team_id":66,
+    "away_team_id":76,
+    "home_score":29,
+    "away_score":20,
+    "venue":"Stadium 47",
+    "league_id":7
+  },
+  {
+    "id":348,
+    "date":"2024-03-20",
+    "home_team_id":69,
+    "away_team_id":70,
+    "home_score":46,
+    "away_score":30,
+    "venue":"Stadium 48",
+    "league_id":7
+  },
+  {
+    "id":349,
+    "date":"2024-08-11",
+    "home_team_id":65,
+    "away_team_id":70,
+    "home_score":49,
+    "away_score":0,
+    "venue":"Stadium 49",
+    "league_id":7
+  },
+  {
+    "id":350,
+    "date":"2024-12-26",
+    "home_team_id":64,
+    "away_team_id":76,
+    "home_score":18,
+    "away_score":46,
+    "venue":"Stadium 50",
+    "league_id":7
+  },
+  {
+    "id":351,
+    "date":"2024-02-03",
+    "home_team_id":71,
+    "away_team_id":68,
+    "home_score":47,
+    "away_score":11,
+    "venue":"Stadium 51",
+    "league_id":7
+  },
+  {
+    "id":352,
+    "date":"2024-09-21",
+    "home_team_id":61,
+    "away_team_id":75,
+    "home_score":36,
+    "away_score":22,
+    "venue":"Stadium 52",
+    "league_id":7
+  },
+  {
+    "id":353,
+    "date":"2024-09-01",
+    "home_team_id":64,
+    "away_team_id":68,
+    "home_score":10,
+    "away_score":40,
+    "venue":"Stadium 53",
+    "league_id":7
+  },
+  {
+    "id":354,
+    "date":"2024-06-28",
+    "home_team_id":71,
+    "away_team_id":76,
+    "home_score":15,
+    "away_score":16,
+    "venue":"Stadium 54",
+    "league_id":7
+  },
+  {
+    "id":355,
+    "date":"2024-06-02",
+    "home_team_id":69,
+    "away_team_id":66,
+    "home_score":17,
+    "away_score":39,
+    "venue":"Stadium 55",
+    "league_id":7
+  },
+  {
+    "id":356,
+    "date":"2024-03-24",
+    "home_team_id":62,
+    "away_team_id":63,
+    "home_score":16,
+    "away_score":11,
+    "venue":"Stadium 56",
+    "league_id":7
+  },
+  {
+    "id":357,
+    "date":"2024-09-03",
+    "home_team_id":67,
+    "away_team_id":62,
+    "home_score":33,
+    "away_score":16,
+    "venue":"Stadium 57",
+    "league_id":7
+  },
+  {
+    "id":358,
+    "date":"2024-05-04",
+    "home_team_id":63,
+    "away_team_id":73,
+    "home_score":28,
+    "away_score":27,
+    "venue":"Stadium 58",
+    "league_id":7
+  },
+  {
+    "id":359,
+    "date":"2024-06-09",
+    "home_team_id":76,
+    "away_team_id":75,
+    "home_score":30,
+    "away_score":20,
+    "venue":"Stadium 59",
+    "league_id":7
+  },
+  {
+    "id":360,
+    "date":"2024-06-28",
+    "home_team_id":67,
+    "away_team_id":64,
+    "home_score":40,
+    "away_score":39,
+    "venue":"Stadium 60",
+    "league_id":7
+  },
+  {
+    "id":361,
+    "date":"2024-12-14",
+    "home_team_id":70,
+    "away_team_id":66,
+    "home_score":30,
+    "away_score":19,
+    "venue":"Stadium 61",
+    "league_id":7
+  },
+  {
+    "id":362,
+    "date":"2024-02-21",
+    "home_team_id":74,
+    "away_team_id":73,
+    "home_score":29,
+    "away_score":13,
+    "venue":"Stadium 62",
+    "league_id":7
+  },
+  {
+    "id":363,
+    "date":"2024-08-06",
+    "home_team_id":73,
+    "away_team_id":69,
+    "home_score":23,
+    "away_score":48,
+    "venue":"Stadium 63",
+    "league_id":7
+  },
+  {
+    "id":364,
+    "date":"2024-03-05",
+    "home_team_id":75,
+    "away_team_id":65,
+    "home_score":26,
+    "away_score":33,
+    "venue":"Stadium 64",
+    "league_id":7
+  },
+  {
+    "id":365,
+    "date":"2024-12-24",
+    "home_team_id":69,
+    "away_team_id":74,
+    "home_score":38,
+    "away_score":35,
+    "venue":"Stadium 65",
+    "league_id":7
+  },
+  {
+    "id":366,
+    "date":"2024-02-08",
+    "home_team_id":75,
+    "away_team_id":74,
+    "home_score":43,
+    "away_score":13,
+    "venue":"Stadium 66",
+    "league_id":7
+  },
+  {
+    "id":367,
+    "date":"2024-09-07",
+    "home_team_id":68,
+    "away_team_id":69,
+    "home_score":36,
+    "away_score":15,
+    "venue":"Stadium 67",
+    "league_id":7
+  },
+  {
+    "id":368,
+    "date":"2024-08-03",
+    "home_team_id":66,
+    "away_team_id":62,
+    "home_score":14,
+    "away_score":47,
+    "venue":"Stadium 68",
+    "league_id":7
+  },
+  {
+    "id":369,
+    "date":"2024-03-19",
+    "home_team_id":64,
+    "away_team_id":73,
+    "home_score":45,
+    "away_score":27,
+    "venue":"Stadium 69",
+    "league_id":7
+  },
+  {
+    "id":370,
+    "date":"2024-07-26",
+    "home_team_id":68,
+    "away_team_id":66,
+    "home_score":21,
+    "away_score":4,
+    "venue":"Stadium 70",
+    "league_id":7
+  },
+  {
+    "id":371,
+    "date":"2024-02-12",
+    "home_team_id":74,
+    "away_team_id":73,
+    "home_score":35,
+    "away_score":37,
+    "venue":"Stadium 71",
+    "league_id":7
+  },
+  {
+    "id":372,
+    "date":"2024-07-11",
+    "home_team_id":72,
+    "away_team_id":76,
+    "home_score":15,
+    "away_score":26,
+    "venue":"Stadium 72",
+    "league_id":7
+  },
+  {
+    "id":373,
+    "date":"2024-10-04",
+    "home_team_id":71,
+    "away_team_id":76,
+    "home_score":21,
+    "away_score":13,
+    "venue":"Stadium 73",
+    "league_id":7
+  },
+  {
+    "id":374,
+    "date":"2024-09-20",
+    "home_team_id":65,
+    "away_team_id":74,
+    "home_score":40,
+    "away_score":26,
+    "venue":"Stadium 74",
+    "league_id":7
+  },
+  {
+    "id":375,
+    "date":"2024-02-17",
+    "home_team_id":75,
+    "away_team_id":76,
+    "home_score":48,
+    "away_score":9,
+    "venue":"Stadium 75",
+    "league_id":7
+  },
+  {
+    "id":376,
+    "date":"2024-08-13",
+    "home_team_id":75,
+    "away_team_id":61,
+    "home_score":40,
+    "away_score":40,
+    "venue":"Stadium 76",
+    "league_id":7
+  },
+  {
+    "id":377,
+    "date":"2024-07-13",
+    "home_team_id":72,
+    "away_team_id":65,
+    "home_score":38,
+    "away_score":6,
+    "venue":"Stadium 77",
+    "league_id":7
+  },
+  {
+    "id":378,
+    "date":"2024-08-25",
+    "home_team_id":75,
+    "away_team_id":71,
+    "home_score":42,
+    "away_score":10,
+    "venue":"Stadium 78",
+    "league_id":7
+  },
+  {
+    "id":379,
+    "date":"2024-06-17",
+    "home_team_id":63,
+    "away_team_id":66,
+    "home_score":10,
+    "away_score":15,
+    "venue":"Stadium 79",
+    "league_id":7
+  },
+  {
+    "id":380,
+    "date":"2024-07-15",
+    "home_team_id":64,
+    "away_team_id":67,
+    "home_score":26,
+    "away_score":25,
+    "venue":"Stadium 80",
+    "league_id":7
+  },
+  {
+    "id":381,
+    "date":"2024-10-21",
+    "home_team_id":86,
+    "away_team_id":91,
+    "home_score":26,
+    "away_score":25,
+    "venue":"Stadium 1",
+    "league_id":8
+  },
+  {
+    "id":382,
+    "date":"2024-09-10",
+    "home_team_id":90,
+    "away_team_id":86,
+    "home_score":7,
+    "away_score":7,
+    "venue":"Stadium 2",
+    "league_id":8
+  },
+  {
+    "id":383,
+    "date":"2024-11-24",
+    "home_team_id":83,
+    "away_team_id":84,
+    "home_score":39,
+    "away_score":47,
+    "venue":"Stadium 3",
+    "league_id":8
+  },
+  {
+    "id":384,
+    "date":"2024-06-16",
+    "home_team_id":86,
+    "away_team_id":78,
+    "home_score":30,
+    "away_score":6,
+    "venue":"Stadium 4",
+    "league_id":8
+  },
+  {
+    "id":385,
+    "date":"2024-09-01",
+    "home_team_id":91,
+    "away_team_id":79,
+    "home_score":25,
+    "away_score":48,
+    "venue":"Stadium 5",
+    "league_id":8
+  },
+  {
+    "id":386,
+    "date":"2024-09-19",
+    "home_team_id":89,
+    "away_team_id":79,
+    "home_score":23,
+    "away_score":33,
+    "venue":"Stadium 6",
+    "league_id":8
+  },
+  {
+    "id":387,
+    "date":"2024-03-20",
+    "home_team_id":85,
+    "away_team_id":80,
+    "home_score":2,
+    "away_score":13,
+    "venue":"Stadium 7",
+    "league_id":8
+  },
+  {
+    "id":388,
+    "date":"2024-12-18",
+    "home_team_id":92,
+    "away_team_id":77,
+    "home_score":17,
+    "away_score":8,
+    "venue":"Stadium 8",
+    "league_id":8
+  },
+  {
+    "id":389,
+    "date":"2024-07-18",
+    "home_team_id":81,
+    "away_team_id":86,
+    "home_score":20,
+    "away_score":25,
+    "venue":"Stadium 9",
+    "league_id":8
+  },
+  {
+    "id":390,
+    "date":"2024-02-26",
+    "home_team_id":78,
+    "away_team_id":90,
+    "home_score":7,
+    "away_score":11,
+    "venue":"Stadium 10",
+    "league_id":8
+  },
+  {
+    "id":391,
+    "date":"2024-09-27",
+    "home_team_id":79,
+    "away_team_id":83,
+    "home_score":17,
+    "away_score":8,
+    "venue":"Stadium 11",
+    "league_id":8
+  },
+  {
+    "id":392,
+    "date":"2024-06-19",
+    "home_team_id":84,
+    "away_team_id":80,
+    "home_score":34,
+    "away_score":44,
+    "venue":"Stadium 12",
+    "league_id":8
+  },
+  {
+    "id":393,
+    "date":"2024-05-03",
+    "home_team_id":78,
+    "away_team_id":81,
+    "home_score":4,
+    "away_score":2,
+    "venue":"Stadium 13",
+    "league_id":8
+  },
+  {
+    "id":394,
+    "date":"2024-09-20",
+    "home_team_id":86,
+    "away_team_id":84,
+    "home_score":12,
+    "away_score":29,
+    "venue":"Stadium 14",
+    "league_id":8
+  },
+  {
+    "id":395,
+    "date":"2024-01-26",
+    "home_team_id":85,
+    "away_team_id":78,
+    "home_score":14,
+    "away_score":30,
+    "venue":"Stadium 15",
+    "league_id":8
+  },
+  {
+    "id":396,
+    "date":"2024-04-04",
+    "home_team_id":81,
+    "away_team_id":84,
+    "home_score":2,
+    "away_score":44,
+    "venue":"Stadium 16",
+    "league_id":8
+  },
+  {
+    "id":397,
+    "date":"2024-11-04",
+    "home_team_id":83,
+    "away_team_id":87,
+    "home_score":30,
+    "away_score":48,
+    "venue":"Stadium 17",
+    "league_id":8
+  },
+  {
+    "id":398,
+    "date":"2024-04-17",
+    "home_team_id":82,
+    "away_team_id":90,
+    "home_score":2,
+    "away_score":27,
+    "venue":"Stadium 18",
+    "league_id":8
+  },
+  {
+    "id":399,
+    "date":"2024-04-24",
+    "home_team_id":87,
+    "away_team_id":90,
+    "home_score":23,
+    "away_score":49,
+    "venue":"Stadium 19",
+    "league_id":8
+  },
+  {
+    "id":400,
+    "date":"2024-11-12",
+    "home_team_id":89,
+    "away_team_id":80,
+    "home_score":5,
+    "away_score":31,
+    "venue":"Stadium 20",
+    "league_id":8
+  },
+  {
+    "id":401,
+    "date":"2024-01-17",
+    "home_team_id":86,
+    "away_team_id":88,
+    "home_score":9,
+    "away_score":20,
+    "venue":"Stadium 21",
+    "league_id":8
+  },
+  {
+    "id":402,
+    "date":"2024-09-10",
+    "home_team_id":87,
+    "away_team_id":88,
+    "home_score":35,
+    "away_score":36,
+    "venue":"Stadium 22",
+    "league_id":8
+  },
+  {
+    "id":403,
+    "date":"2024-04-01",
+    "home_team_id":88,
+    "away_team_id":78,
+    "home_score":9,
+    "away_score":9,
+    "venue":"Stadium 23",
+    "league_id":8
+  },
+  {
+    "id":404,
+    "date":"2024-01-26",
+    "home_team_id":84,
+    "away_team_id":82,
+    "home_score":5,
+    "away_score":25,
+    "venue":"Stadium 24",
+    "league_id":8
+  },
+  {
+    "id":405,
+    "date":"2024-12-27",
+    "home_team_id":90,
+    "away_team_id":87,
+    "home_score":7,
+    "away_score":35,
+    "venue":"Stadium 25",
+    "league_id":8
+  },
+  {
+    "id":406,
+    "date":"2024-06-26",
+    "home_team_id":87,
+    "away_team_id":79,
+    "home_score":3,
+    "away_score":41,
+    "venue":"Stadium 26",
+    "league_id":8
+  },
+  {
+    "id":407,
+    "date":"2024-07-25",
+    "home_team_id":78,
+    "away_team_id":89,
+    "home_score":22,
+    "away_score":38,
+    "venue":"Stadium 27",
+    "league_id":8
+  },
+  {
+    "id":408,
+    "date":"2024-12-21",
+    "home_team_id":90,
+    "away_team_id":82,
+    "home_score":10,
+    "away_score":17,
+    "venue":"Stadium 28",
+    "league_id":8
+  },
+  {
+    "id":409,
+    "date":"2024-12-05",
+    "home_team_id":86,
+    "away_team_id":91,
+    "home_score":40,
+    "away_score":41,
+    "venue":"Stadium 29",
+    "league_id":8
+  },
+  {
+    "id":410,
+    "date":"2024-01-24",
+    "home_team_id":80,
+    "away_team_id":85,
+    "home_score":2,
+    "away_score":44,
+    "venue":"Stadium 30",
+    "league_id":8
+  },
+  {
+    "id":411,
+    "date":"2024-11-17",
+    "home_team_id":78,
+    "away_team_id":82,
+    "home_score":30,
+    "away_score":15,
+    "venue":"Stadium 31",
+    "league_id":8
+  },
+  {
+    "id":412,
+    "date":"2024-06-10",
+    "home_team_id":90,
+    "away_team_id":82,
+    "home_score":17,
+    "away_score":20,
+    "venue":"Stadium 32",
+    "league_id":8
+  },
+  {
+    "id":413,
+    "date":"2024-07-06",
+    "home_team_id":80,
+    "away_team_id":86,
+    "home_score":15,
+    "away_score":38,
+    "venue":"Stadium 33",
+    "league_id":8
+  },
+  {
+    "id":414,
+    "date":"2024-05-19",
+    "home_team_id":81,
+    "away_team_id":92,
+    "home_score":34,
+    "away_score":25,
+    "venue":"Stadium 34",
+    "league_id":8
+  },
+  {
+    "id":415,
+    "date":"2024-05-08",
+    "home_team_id":87,
+    "away_team_id":81,
+    "home_score":38,
+    "away_score":43,
+    "venue":"Stadium 35",
+    "league_id":8
+  },
+  {
+    "id":416,
+    "date":"2024-05-17",
+    "home_team_id":82,
+    "away_team_id":89,
+    "home_score":27,
+    "away_score":8,
+    "venue":"Stadium 36",
+    "league_id":8
+  },
+  {
+    "id":417,
+    "date":"2024-06-04",
+    "home_team_id":91,
+    "away_team_id":81,
+    "home_score":4,
+    "away_score":24,
+    "venue":"Stadium 37",
+    "league_id":8
+  },
+  {
+    "id":418,
+    "date":"2024-10-06",
+    "home_team_id":86,
+    "away_team_id":84,
+    "home_score":44,
+    "away_score":14,
+    "venue":"Stadium 38",
+    "league_id":8
+  },
+  {
+    "id":419,
+    "date":"2024-11-11",
+    "home_team_id":79,
+    "away_team_id":92,
+    "home_score":27,
+    "away_score":43,
+    "venue":"Stadium 39",
+    "league_id":8
+  },
+  {
+    "id":420,
+    "date":"2024-07-15",
+    "home_team_id":86,
+    "away_team_id":84,
+    "home_score":29,
+    "away_score":32,
+    "venue":"Stadium 40",
+    "league_id":8
+  },
+  {
+    "id":421,
+    "date":"2024-02-16",
+    "home_team_id":85,
+    "away_team_id":86,
+    "home_score":32,
+    "away_score":50,
+    "venue":"Stadium 41",
+    "league_id":8
+  },
+  {
+    "id":422,
+    "date":"2024-03-04",
+    "home_team_id":83,
+    "away_team_id":90,
+    "home_score":14,
+    "away_score":10,
+    "venue":"Stadium 42",
+    "league_id":8
+  },
+  {
+    "id":423,
+    "date":"2024-03-26",
+    "home_team_id":85,
+    "away_team_id":89,
+    "home_score":2,
+    "away_score":50,
+    "venue":"Stadium 43",
+    "league_id":8
+  },
+  {
+    "id":424,
+    "date":"2024-04-24",
+    "home_team_id":90,
+    "away_team_id":80,
+    "home_score":44,
+    "away_score":12,
+    "venue":"Stadium 44",
+    "league_id":8
+  },
+  {
+    "id":425,
+    "date":"2024-08-22",
+    "home_team_id":88,
+    "away_team_id":85,
+    "home_score":32,
+    "away_score":7,
+    "venue":"Stadium 45",
+    "league_id":8
+  },
+  {
+    "id":426,
+    "date":"2024-03-22",
+    "home_team_id":77,
+    "away_team_id":81,
+    "home_score":35,
+    "away_score":30,
+    "venue":"Stadium 46",
+    "league_id":8
+  },
+  {
+    "id":427,
+    "date":"2024-01-28",
+    "home_team_id":81,
+    "away_team_id":77,
+    "home_score":18,
+    "away_score":22,
+    "venue":"Stadium 47",
+    "league_id":8
+  },
+  {
+    "id":428,
+    "date":"2024-07-08",
+    "home_team_id":92,
+    "away_team_id":89,
+    "home_score":38,
+    "away_score":20,
+    "venue":"Stadium 48",
+    "league_id":8
+  },
+  {
+    "id":429,
+    "date":"2024-01-17",
+    "home_team_id":83,
+    "away_team_id":80,
+    "home_score":16,
+    "away_score":11,
+    "venue":"Stadium 49",
+    "league_id":8
+  },
+  {
+    "id":430,
+    "date":"2024-11-21",
+    "home_team_id":78,
+    "away_team_id":92,
+    "home_score":27,
+    "away_score":37,
+    "venue":"Stadium 50",
+    "league_id":8
+  },
+  {
+    "id":431,
+    "date":"2024-07-28",
+    "home_team_id":83,
+    "away_team_id":77,
+    "home_score":39,
+    "away_score":4,
+    "venue":"Stadium 51",
+    "league_id":8
+  },
+  {
+    "id":432,
+    "date":"2024-03-25",
+    "home_team_id":84,
+    "away_team_id":78,
+    "home_score":32,
+    "away_score":23,
+    "venue":"Stadium 52",
+    "league_id":8
+  },
+  {
+    "id":433,
+    "date":"2024-03-06",
+    "home_team_id":92,
+    "away_team_id":81,
+    "home_score":30,
+    "away_score":22,
+    "venue":"Stadium 53",
+    "league_id":8
+  },
+  {
+    "id":434,
+    "date":"2024-12-18",
+    "home_team_id":83,
+    "away_team_id":90,
+    "home_score":0,
+    "away_score":16,
+    "venue":"Stadium 54",
+    "league_id":8
+  },
+  {
+    "id":435,
+    "date":"2024-02-02",
+    "home_team_id":85,
+    "away_team_id":77,
+    "home_score":5,
+    "away_score":10,
+    "venue":"Stadium 55",
+    "league_id":8
+  },
+  {
+    "id":436,
+    "date":"2024-06-01",
+    "home_team_id":82,
+    "away_team_id":77,
+    "home_score":6,
+    "away_score":20,
+    "venue":"Stadium 56",
+    "league_id":8
+  },
+  {
+    "id":437,
+    "date":"2024-08-03",
+    "home_team_id":85,
+    "away_team_id":84,
+    "home_score":35,
+    "away_score":48,
+    "venue":"Stadium 57",
+    "league_id":8
+  },
+  {
+    "id":438,
+    "date":"2024-11-25",
+    "home_team_id":80,
+    "away_team_id":92,
+    "home_score":33,
+    "away_score":34,
+    "venue":"Stadium 58",
+    "league_id":8
+  },
+  {
+    "id":439,
+    "date":"2024-04-09",
+    "home_team_id":87,
+    "away_team_id":83,
+    "home_score":7,
+    "away_score":15,
+    "venue":"Stadium 59",
+    "league_id":8
+  },
+  {
+    "id":440,
+    "date":"2024-07-13",
+    "home_team_id":90,
+    "away_team_id":88,
+    "home_score":36,
+    "away_score":21,
+    "venue":"Stadium 60",
+    "league_id":8
+  },
+  {
+    "id":441,
+    "date":"2024-12-23",
+    "home_team_id":82,
+    "away_team_id":79,
+    "home_score":22,
+    "away_score":8,
+    "venue":"Stadium 61",
+    "league_id":8
+  },
+  {
+    "id":442,
+    "date":"2024-12-22",
+    "home_team_id":80,
+    "away_team_id":77,
+    "home_score":21,
+    "away_score":26,
+    "venue":"Stadium 62",
+    "league_id":8
+  },
+  {
+    "id":443,
+    "date":"2024-05-06",
+    "home_team_id":80,
+    "away_team_id":77,
+    "home_score":41,
+    "away_score":33,
+    "venue":"Stadium 63",
+    "league_id":8
+  },
+  {
+    "id":444,
+    "date":"2024-06-08",
+    "home_team_id":89,
+    "away_team_id":81,
+    "home_score":44,
+    "away_score":43,
+    "venue":"Stadium 64",
+    "league_id":8
+  },
+  {
+    "id":445,
+    "date":"2024-09-13",
+    "home_team_id":91,
+    "away_team_id":86,
+    "home_score":37,
+    "away_score":38,
+    "venue":"Stadium 65",
+    "league_id":8
+  },
+  {
+    "id":446,
+    "date":"2024-03-22",
+    "home_team_id":77,
+    "away_team_id":91,
+    "home_score":17,
+    "away_score":1,
+    "venue":"Stadium 66",
+    "league_id":8
+  },
+  {
+    "id":447,
+    "date":"2024-03-24",
+    "home_team_id":82,
+    "away_team_id":87,
+    "home_score":27,
+    "away_score":30,
+    "venue":"Stadium 67",
+    "league_id":8
+  },
+  {
+    "id":448,
+    "date":"2024-05-12",
+    "home_team_id":83,
+    "away_team_id":80,
+    "home_score":26,
+    "away_score":10,
+    "venue":"Stadium 68",
+    "league_id":8
+  },
+  {
+    "id":449,
+    "date":"2024-09-28",
+    "home_team_id":83,
+    "away_team_id":85,
+    "home_score":12,
+    "away_score":1,
+    "venue":"Stadium 69",
+    "league_id":8
+  },
+  {
+    "id":450,
+    "date":"2024-11-26",
+    "home_team_id":91,
+    "away_team_id":77,
+    "home_score":16,
+    "away_score":24,
+    "venue":"Stadium 70",
+    "league_id":8
+  },
+  {
+    "id":451,
+    "date":"2024-11-24",
+    "home_team_id":90,
+    "away_team_id":77,
+    "home_score":5,
+    "away_score":3,
+    "venue":"Stadium 71",
+    "league_id":8
+  },
+  {
+    "id":452,
+    "date":"2024-03-19",
+    "home_team_id":83,
+    "away_team_id":85,
+    "home_score":34,
+    "away_score":22,
+    "venue":"Stadium 72",
+    "league_id":8
+  },
+  {
+    "id":453,
+    "date":"2024-06-18",
+    "home_team_id":86,
+    "away_team_id":84,
+    "home_score":29,
+    "away_score":1,
+    "venue":"Stadium 73",
+    "league_id":8
+  },
+  {
+    "id":454,
+    "date":"2024-06-06",
+    "home_team_id":84,
+    "away_team_id":85,
+    "home_score":32,
+    "away_score":48,
+    "venue":"Stadium 74",
+    "league_id":8
+  },
+  {
+    "id":455,
+    "date":"2024-10-22",
+    "home_team_id":80,
+    "away_team_id":85,
+    "home_score":14,
+    "away_score":3,
+    "venue":"Stadium 75",
+    "league_id":8
+  },
+  {
+    "id":456,
+    "date":"2024-09-02",
+    "home_team_id":90,
+    "away_team_id":77,
+    "home_score":45,
+    "away_score":19,
+    "venue":"Stadium 76",
+    "league_id":8
+  },
+  {
+    "id":457,
+    "date":"2024-04-24",
+    "home_team_id":81,
+    "away_team_id":87,
+    "home_score":36,
+    "away_score":48,
+    "venue":"Stadium 77",
+    "league_id":8
+  },
+  {
+    "id":458,
+    "date":"2024-05-14",
+    "home_team_id":88,
+    "away_team_id":91,
+    "home_score":25,
+    "away_score":20,
+    "venue":"Stadium 78",
+    "league_id":8
+  },
+  {
+    "id":459,
+    "date":"2024-05-10",
+    "home_team_id":87,
+    "away_team_id":91,
+    "home_score":18,
+    "away_score":31,
+    "venue":"Stadium 79",
+    "league_id":8
+  },
+  {
+    "id":460,
+    "date":"2024-01-08",
+    "home_team_id":81,
+    "away_team_id":82,
+    "home_score":2,
+    "away_score":37,
+    "venue":"Stadium 80",
+    "league_id":8
+  },
+  {
+    "id":461,
+    "date":"2024-05-23",
+    "home_team_id":104,
+    "away_team_id":100,
+    "home_score":20,
+    "away_score":21,
+    "venue":"Stadium 1",
+    "league_id":9
+  },
+  {
+    "id":462,
+    "date":"2024-06-12",
+    "home_team_id":104,
+    "away_team_id":102,
+    "home_score":44,
+    "away_score":40,
+    "venue":"Stadium 2",
+    "league_id":9
+  },
+  {
+    "id":463,
+    "date":"2024-01-27",
+    "home_team_id":101,
+    "away_team_id":103,
+    "home_score":44,
+    "away_score":26,
+    "venue":"Stadium 3",
+    "league_id":9
+  },
+  {
+    "id":464,
+    "date":"2024-11-28",
+    "home_team_id":96,
+    "away_team_id":93,
+    "home_score":28,
+    "away_score":29,
+    "venue":"Stadium 4",
+    "league_id":9
+  },
+  {
+    "id":465,
+    "date":"2024-05-12",
+    "home_team_id":97,
+    "away_team_id":104,
+    "home_score":11,
+    "away_score":33,
+    "venue":"Stadium 5",
+    "league_id":9
+  },
+  {
+    "id":466,
+    "date":"2024-03-16",
+    "home_team_id":95,
+    "away_team_id":101,
+    "home_score":48,
+    "away_score":11,
+    "venue":"Stadium 6",
+    "league_id":9
+  },
+  {
+    "id":467,
+    "date":"2024-07-03",
+    "home_team_id":99,
+    "away_team_id":95,
+    "home_score":10,
+    "away_score":42,
+    "venue":"Stadium 7",
+    "league_id":9
+  },
+  {
+    "id":468,
+    "date":"2024-12-16",
+    "home_team_id":102,
+    "away_team_id":101,
+    "home_score":4,
+    "away_score":18,
+    "venue":"Stadium 8",
+    "league_id":9
+  },
+  {
+    "id":469,
+    "date":"2024-06-05",
+    "home_team_id":104,
+    "away_team_id":103,
+    "home_score":4,
+    "away_score":31,
+    "venue":"Stadium 9",
+    "league_id":9
+  },
+  {
+    "id":470,
+    "date":"2024-03-13",
+    "home_team_id":96,
+    "away_team_id":103,
+    "home_score":39,
+    "away_score":38,
+    "venue":"Stadium 10",
+    "league_id":9
+  },
+  {
+    "id":471,
+    "date":"2024-06-22",
+    "home_team_id":95,
+    "away_team_id":102,
+    "home_score":11,
+    "away_score":22,
+    "venue":"Stadium 11",
+    "league_id":9
+  },
+  {
+    "id":472,
+    "date":"2024-03-16",
+    "home_team_id":98,
+    "away_team_id":94,
+    "home_score":45,
+    "away_score":10,
+    "venue":"Stadium 12",
+    "league_id":9
+  },
+  {
+    "id":473,
+    "date":"2024-02-09",
+    "home_team_id":95,
+    "away_team_id":100,
+    "home_score":12,
+    "away_score":9,
+    "venue":"Stadium 13",
+    "league_id":9
+  },
+  {
+    "id":474,
+    "date":"2024-01-10",
+    "home_team_id":94,
+    "away_team_id":96,
+    "home_score":36,
+    "away_score":7,
+    "venue":"Stadium 14",
+    "league_id":9
+  },
+  {
+    "id":475,
+    "date":"2024-07-15",
+    "home_team_id":103,
+    "away_team_id":102,
+    "home_score":42,
+    "away_score":35,
+    "venue":"Stadium 15",
+    "league_id":9
+  },
+  {
+    "id":476,
+    "date":"2024-06-18",
+    "home_team_id":95,
+    "away_team_id":100,
+    "home_score":39,
+    "away_score":48,
+    "venue":"Stadium 16",
+    "league_id":9
+  },
+  {
+    "id":477,
+    "date":"2024-03-26",
+    "home_team_id":98,
+    "away_team_id":102,
+    "home_score":9,
+    "away_score":9,
+    "venue":"Stadium 17",
+    "league_id":9
+  },
+  {
+    "id":478,
+    "date":"2024-11-26",
+    "home_team_id":103,
+    "away_team_id":104,
+    "home_score":26,
+    "away_score":25,
+    "venue":"Stadium 18",
+    "league_id":9
+  },
+  {
+    "id":479,
+    "date":"2024-11-15",
+    "home_team_id":101,
+    "away_team_id":93,
+    "home_score":12,
+    "away_score":43,
+    "venue":"Stadium 19",
+    "league_id":9
+  },
+  {
+    "id":480,
+    "date":"2024-02-12",
+    "home_team_id":94,
+    "away_team_id":99,
+    "home_score":40,
+    "away_score":42,
+    "venue":"Stadium 20",
+    "league_id":9
+  },
+  {
+    "id":481,
+    "date":"2024-11-13",
+    "home_team_id":95,
+    "away_team_id":96,
+    "home_score":18,
+    "away_score":27,
+    "venue":"Stadium 21",
+    "league_id":9
+  },
+  {
+    "id":482,
+    "date":"2024-03-12",
+    "home_team_id":99,
+    "away_team_id":104,
+    "home_score":40,
+    "away_score":30,
+    "venue":"Stadium 22",
+    "league_id":9
+  },
+  {
+    "id":483,
+    "date":"2024-05-16",
+    "home_team_id":96,
+    "away_team_id":101,
+    "home_score":40,
+    "away_score":15,
+    "venue":"Stadium 23",
+    "league_id":9
+  },
+  {
+    "id":484,
+    "date":"2024-12-05",
+    "home_team_id":101,
+    "away_team_id":102,
+    "home_score":30,
+    "away_score":26,
+    "venue":"Stadium 24",
+    "league_id":9
+  },
+  {
+    "id":485,
+    "date":"2024-07-23",
+    "home_team_id":99,
+    "away_team_id":103,
+    "home_score":0,
+    "away_score":20,
+    "venue":"Stadium 25",
+    "league_id":9
+  },
+  {
+    "id":486,
+    "date":"2024-08-14",
+    "home_team_id":102,
+    "away_team_id":97,
+    "home_score":48,
+    "away_score":1,
+    "venue":"Stadium 26",
+    "league_id":9
+  },
+  {
+    "id":487,
+    "date":"2024-04-05",
+    "home_team_id":103,
+    "away_team_id":101,
+    "home_score":49,
+    "away_score":28,
+    "venue":"Stadium 27",
+    "league_id":9
+  },
+  {
+    "id":488,
+    "date":"2024-12-12",
+    "home_team_id":96,
+    "away_team_id":97,
+    "home_score":6,
+    "away_score":16,
+    "venue":"Stadium 28",
+    "league_id":9
+  },
+  {
+    "id":489,
+    "date":"2024-11-04",
+    "home_team_id":99,
+    "away_team_id":98,
+    "home_score":15,
+    "away_score":19,
+    "venue":"Stadium 29",
+    "league_id":9
+  },
+  {
+    "id":490,
+    "date":"2024-08-12",
+    "home_team_id":96,
+    "away_team_id":98,
+    "home_score":3,
+    "away_score":4,
+    "venue":"Stadium 30",
+    "league_id":9
+  },
+  {
+    "id":491,
+    "date":"2024-02-20",
+    "home_team_id":99,
+    "away_team_id":96,
+    "home_score":28,
+    "away_score":26,
+    "venue":"Stadium 31",
+    "league_id":9
+  },
+  {
+    "id":492,
+    "date":"2024-04-20",
+    "home_team_id":94,
+    "away_team_id":93,
+    "home_score":16,
+    "away_score":48,
+    "venue":"Stadium 32",
+    "league_id":9
+  },
+  {
+    "id":493,
+    "date":"2024-09-12",
+    "home_team_id":98,
+    "away_team_id":94,
+    "home_score":15,
+    "away_score":26,
+    "venue":"Stadium 33",
+    "league_id":9
+  },
+  {
+    "id":494,
+    "date":"2024-05-06",
+    "home_team_id":102,
+    "away_team_id":99,
+    "home_score":24,
+    "away_score":42,
+    "venue":"Stadium 34",
+    "league_id":9
+  },
+  {
+    "id":495,
+    "date":"2024-01-03",
+    "home_team_id":102,
+    "away_team_id":104,
+    "home_score":5,
+    "away_score":11,
+    "venue":"Stadium 35",
+    "league_id":9
+  },
+  {
+    "id":496,
+    "date":"2024-12-06",
+    "home_team_id":99,
+    "away_team_id":95,
+    "home_score":30,
+    "away_score":13,
+    "venue":"Stadium 36",
+    "league_id":9
+  },
+  {
+    "id":497,
+    "date":"2024-02-06",
+    "home_team_id":97,
+    "away_team_id":94,
+    "home_score":11,
+    "away_score":28,
+    "venue":"Stadium 37",
+    "league_id":9
+  },
+  {
+    "id":498,
+    "date":"2024-10-23",
+    "home_team_id":93,
+    "away_team_id":98,
+    "home_score":42,
+    "away_score":8,
+    "venue":"Stadium 38",
+    "league_id":9
+  },
+  {
+    "id":499,
+    "date":"2024-05-03",
+    "home_team_id":99,
+    "away_team_id":100,
+    "home_score":33,
+    "away_score":5,
+    "venue":"Stadium 39",
+    "league_id":9
+  },
+  {
+    "id":500,
+    "date":"2024-07-27",
+    "home_team_id":99,
+    "away_team_id":94,
+    "home_score":12,
+    "away_score":40,
+    "venue":"Stadium 40",
+    "league_id":9
+  },
+  {
+    "id":501,
+    "date":"2024-06-10",
+    "home_team_id":93,
+    "away_team_id":100,
+    "home_score":26,
+    "away_score":49,
+    "venue":"Stadium 41",
+    "league_id":9
+  },
+  {
+    "id":502,
+    "date":"2024-03-11",
+    "home_team_id":95,
+    "away_team_id":98,
+    "home_score":30,
+    "away_score":48,
+    "venue":"Stadium 42",
+    "league_id":9
+  },
+  {
+    "id":503,
+    "date":"2024-11-21",
+    "home_team_id":96,
+    "away_team_id":101,
+    "home_score":19,
+    "away_score":44,
+    "venue":"Stadium 43",
+    "league_id":9
+  },
+  {
+    "id":504,
+    "date":"2024-11-04",
+    "home_team_id":100,
+    "away_team_id":102,
+    "home_score":17,
+    "away_score":45,
+    "venue":"Stadium 44",
+    "league_id":9
+  },
+  {
+    "id":505,
+    "date":"2024-01-11",
+    "home_team_id":97,
+    "away_team_id":103,
+    "home_score":9,
+    "away_score":45,
+    "venue":"Stadium 45",
+    "league_id":9
+  },
+  {
+    "id":506,
+    "date":"2024-11-28",
+    "home_team_id":98,
+    "away_team_id":102,
+    "home_score":35,
+    "away_score":24,
+    "venue":"Stadium 46",
+    "league_id":9
+  },
+  {
+    "id":507,
+    "date":"2024-03-17",
+    "home_team_id":93,
+    "away_team_id":100,
+    "home_score":14,
+    "away_score":11,
+    "venue":"Stadium 47",
+    "league_id":9
+  },
+  {
+    "id":508,
+    "date":"2024-02-14",
+    "home_team_id":104,
+    "away_team_id":100,
+    "home_score":30,
+    "away_score":38,
+    "venue":"Stadium 48",
+    "league_id":9
+  },
+  {
+    "id":509,
+    "date":"2024-04-07",
+    "home_team_id":98,
+    "away_team_id":97,
+    "home_score":18,
+    "away_score":45,
+    "venue":"Stadium 49",
+    "league_id":9
+  },
+  {
+    "id":510,
+    "date":"2024-07-28",
+    "home_team_id":99,
+    "away_team_id":93,
+    "home_score":8,
+    "away_score":27,
+    "venue":"Stadium 50",
+    "league_id":9
+  },
+  {
+    "id":511,
+    "date":"2024-01-08",
+    "home_team_id":98,
+    "away_team_id":93,
+    "home_score":12,
+    "away_score":35,
+    "venue":"Stadium 51",
+    "league_id":9
+  },
+  {
+    "id":512,
+    "date":"2024-07-17",
+    "home_team_id":97,
+    "away_team_id":100,
+    "home_score":10,
+    "away_score":2,
+    "venue":"Stadium 52",
+    "league_id":9
+  },
+  {
+    "id":513,
+    "date":"2024-06-26",
+    "home_team_id":95,
+    "away_team_id":96,
+    "home_score":49,
+    "away_score":6,
+    "venue":"Stadium 53",
+    "league_id":9
+  },
+  {
+    "id":514,
+    "date":"2024-06-22",
+    "home_team_id":96,
+    "away_team_id":98,
+    "home_score":11,
+    "away_score":40,
+    "venue":"Stadium 54",
+    "league_id":9
+  },
+  {
+    "id":515,
+    "date":"2024-11-11",
+    "home_team_id":98,
+    "away_team_id":95,
+    "home_score":40,
+    "away_score":25,
+    "venue":"Stadium 55",
+    "league_id":9
+  },
+  {
+    "id":516,
+    "date":"2024-11-25",
+    "home_team_id":100,
+    "away_team_id":103,
+    "home_score":28,
+    "away_score":3,
+    "venue":"Stadium 56",
+    "league_id":9
+  },
+  {
+    "id":517,
+    "date":"2024-11-26",
+    "home_team_id":98,
+    "away_team_id":104,
+    "home_score":38,
+    "away_score":0,
+    "venue":"Stadium 57",
+    "league_id":9
+  },
+  {
+    "id":518,
+    "date":"2024-12-08",
+    "home_team_id":100,
+    "away_team_id":97,
+    "home_score":23,
+    "away_score":37,
+    "venue":"Stadium 58",
+    "league_id":9
+  },
+  {
+    "id":519,
+    "date":"2024-10-01",
+    "home_team_id":99,
+    "away_team_id":102,
+    "home_score":2,
+    "away_score":42,
+    "venue":"Stadium 59",
+    "league_id":9
+  },
+  {
+    "id":520,
+    "date":"2024-06-07",
+    "home_team_id":96,
+    "away_team_id":101,
+    "home_score":28,
+    "away_score":1,
+    "venue":"Stadium 60",
+    "league_id":9
+  },
+  {
+    "id":521,
+    "date":"2024-05-13",
+    "home_team_id":105,
+    "away_team_id":108,
+    "home_score":39,
+    "away_score":45,
+    "venue":"Stadium 1",
+    "league_id":10
+  },
+  {
+    "id":522,
+    "date":"2024-07-24",
+    "home_team_id":108,
+    "away_team_id":105,
+    "home_score":11,
+    "away_score":6,
+    "venue":"Stadium 2",
+    "league_id":10
+  },
+  {
+    "id":523,
+    "date":"2024-07-10",
+    "home_team_id":105,
+    "away_team_id":107,
+    "home_score":39,
+    "away_score":31,
+    "venue":"Stadium 3",
+    "league_id":10
+  },
+  {
+    "id":524,
+    "date":"2024-05-10",
+    "home_team_id":106,
+    "away_team_id":105,
+    "home_score":6,
+    "away_score":49,
+    "venue":"Stadium 4",
+    "league_id":10
+  },
+  {
+    "id":525,
+    "date":"2024-09-23",
+    "home_team_id":106,
+    "away_team_id":107,
+    "home_score":10,
+    "away_score":21,
+    "venue":"Stadium 5",
+    "league_id":10
+  },
+  {
+    "id":526,
+    "date":"2024-07-19",
+    "home_team_id":106,
+    "away_team_id":105,
+    "home_score":33,
+    "away_score":26,
+    "venue":"Stadium 6",
+    "league_id":10
+  },
+  {
+    "id":527,
+    "date":"2024-01-09",
+    "home_team_id":107,
+    "away_team_id":106,
+    "home_score":38,
+    "away_score":16,
+    "venue":"Stadium 7",
+    "league_id":10
+  },
+  {
+    "id":528,
+    "date":"2024-10-04",
+    "home_team_id":106,
+    "away_team_id":108,
+    "home_score":5,
+    "away_score":9,
+    "venue":"Stadium 8",
+    "league_id":10
+  },
+  {
+    "id":529,
+    "date":"2024-04-22",
+    "home_team_id":107,
+    "away_team_id":106,
+    "home_score":31,
+    "away_score":29,
+    "venue":"Stadium 9",
+    "league_id":10
+  },
+  {
+    "id":530,
+    "date":"2024-08-16",
+    "home_team_id":105,
+    "away_team_id":108,
+    "home_score":0,
+    "away_score":48,
+    "venue":"Stadium 10",
+    "league_id":10
+  },
+  {
+    "id":531,
+    "date":"2024-11-12",
+    "home_team_id":106,
+    "away_team_id":105,
+    "home_score":42,
+    "away_score":50,
+    "venue":"Stadium 11",
+    "league_id":10
+  },
+  {
+    "id":532,
+    "date":"2024-09-21",
+    "home_team_id":108,
+    "away_team_id":106,
+    "home_score":45,
+    "away_score":50,
+    "venue":"Stadium 12",
+    "league_id":10
+  },
+  {
+    "id":533,
+    "date":"2024-02-28",
+    "home_team_id":105,
+    "away_team_id":106,
+    "home_score":13,
+    "away_score":6,
+    "venue":"Stadium 13",
+    "league_id":10
+  },
+  {
+    "id":534,
+    "date":"2024-10-22",
+    "home_team_id":107,
+    "away_team_id":106,
+    "home_score":14,
+    "away_score":34,
+    "venue":"Stadium 14",
+    "league_id":10
+  },
+  {
+    "id":535,
+    "date":"2024-07-12",
+    "home_team_id":106,
+    "away_team_id":108,
+    "home_score":25,
+    "away_score":42,
+    "venue":"Stadium 15",
+    "league_id":10
+  },
+  {
+    "id":536,
+    "date":"2024-04-23",
+    "home_team_id":107,
+    "away_team_id":105,
+    "home_score":11,
+    "away_score":43,
+    "venue":"Stadium 16",
+    "league_id":10
+  },
+  {
+    "id":537,
+    "date":"2024-05-01",
+    "home_team_id":106,
+    "away_team_id":105,
+    "home_score":18,
+    "away_score":18,
+    "venue":"Stadium 17",
+    "league_id":10
+  },
+  {
+    "id":538,
+    "date":"2024-08-21",
+    "home_team_id":108,
+    "away_team_id":105,
+    "home_score":32,
+    "away_score":6,
+    "venue":"Stadium 18",
+    "league_id":10
+  },
+  {
+    "id":539,
+    "date":"2024-05-14",
+    "home_team_id":105,
+    "away_team_id":107,
+    "home_score":31,
+    "away_score":45,
+    "venue":"Stadium 19",
+    "league_id":10
+  },
+  {
+    "id":540,
+    "date":"2024-10-13",
+    "home_team_id":108,
+    "away_team_id":107,
+    "home_score":2,
+    "away_score":22,
+    "venue":"Stadium 20",
+    "league_id":10
+  },
+  {
+    "id":541,
+    "date":"2024-07-17",
+    "home_team_id":120,
+    "away_team_id":118,
+    "home_score":28,
+    "away_score":36,
+    "venue":"Stadium 1",
+    "league_id":11
+  },
+  {
+    "id":542,
+    "date":"2024-07-03",
+    "home_team_id":120,
+    "away_team_id":111,
+    "home_score":25,
+    "away_score":44,
+    "venue":"Stadium 2",
+    "league_id":11
+  },
+  {
+    "id":543,
+    "date":"2024-02-14",
+    "home_team_id":122,
+    "away_team_id":118,
+    "home_score":19,
+    "away_score":41,
+    "venue":"Stadium 3",
+    "league_id":11
+  },
+  {
+    "id":544,
+    "date":"2024-12-28",
+    "home_team_id":121,
+    "away_team_id":115,
+    "home_score":24,
+    "away_score":33,
+    "venue":"Stadium 4",
+    "league_id":11
+  },
+  {
+    "id":545,
+    "date":"2024-06-03",
+    "home_team_id":109,
+    "away_team_id":114,
+    "home_score":38,
+    "away_score":38,
+    "venue":"Stadium 5",
+    "league_id":11
+  },
+  {
+    "id":546,
+    "date":"2024-08-21",
+    "home_team_id":111,
+    "away_team_id":115,
+    "home_score":50,
+    "away_score":27,
+    "venue":"Stadium 6",
+    "league_id":11
+  },
+  {
+    "id":547,
+    "date":"2024-08-18",
+    "home_team_id":119,
+    "away_team_id":122,
+    "home_score":11,
+    "away_score":31,
+    "venue":"Stadium 7",
+    "league_id":11
+  },
+  {
+    "id":548,
+    "date":"2024-08-18",
+    "home_team_id":114,
+    "away_team_id":117,
+    "home_score":10,
+    "away_score":21,
+    "venue":"Stadium 8",
+    "league_id":11
+  },
+  {
+    "id":549,
+    "date":"2024-02-17",
+    "home_team_id":113,
+    "away_team_id":118,
+    "home_score":42,
+    "away_score":30,
+    "venue":"Stadium 9",
+    "league_id":11
+  },
+  {
+    "id":550,
+    "date":"2024-09-10",
+    "home_team_id":119,
+    "away_team_id":110,
+    "home_score":19,
+    "away_score":12,
+    "venue":"Stadium 10",
+    "league_id":11
+  },
+  {
+    "id":551,
+    "date":"2024-12-01",
+    "home_team_id":111,
+    "away_team_id":120,
+    "home_score":50,
+    "away_score":43,
+    "venue":"Stadium 11",
+    "league_id":11
+  },
+  {
+    "id":552,
+    "date":"2024-10-16",
+    "home_team_id":117,
+    "away_team_id":118,
+    "home_score":47,
+    "away_score":20,
+    "venue":"Stadium 12",
+    "league_id":11
+  },
+  {
+    "id":553,
+    "date":"2024-08-20",
+    "home_team_id":118,
+    "away_team_id":114,
+    "home_score":29,
+    "away_score":36,
+    "venue":"Stadium 13",
+    "league_id":11
+  },
+  {
+    "id":554,
+    "date":"2024-07-27",
+    "home_team_id":114,
+    "away_team_id":111,
+    "home_score":35,
+    "away_score":48,
+    "venue":"Stadium 14",
+    "league_id":11
+  },
+  {
+    "id":555,
+    "date":"2024-03-16",
+    "home_team_id":122,
+    "away_team_id":113,
+    "home_score":45,
+    "away_score":4,
+    "venue":"Stadium 15",
+    "league_id":11
+  },
+  {
+    "id":556,
+    "date":"2024-04-09",
+    "home_team_id":121,
+    "away_team_id":110,
+    "home_score":36,
+    "away_score":35,
+    "venue":"Stadium 16",
+    "league_id":11
+  },
+  {
+    "id":557,
+    "date":"2024-07-09",
+    "home_team_id":116,
+    "away_team_id":111,
+    "home_score":37,
+    "away_score":14,
+    "venue":"Stadium 17",
+    "league_id":11
+  },
+  {
+    "id":558,
+    "date":"2024-02-28",
+    "home_team_id":119,
+    "away_team_id":109,
+    "home_score":22,
+    "away_score":45,
+    "venue":"Stadium 18",
+    "league_id":11
+  },
+  {
+    "id":559,
+    "date":"2024-01-15",
+    "home_team_id":109,
+    "away_team_id":119,
+    "home_score":41,
+    "away_score":42,
+    "venue":"Stadium 19",
+    "league_id":11
+  },
+  {
+    "id":560,
+    "date":"2024-06-04",
+    "home_team_id":121,
+    "away_team_id":120,
+    "home_score":44,
+    "away_score":0,
+    "venue":"Stadium 20",
+    "league_id":11
+  },
+  {
+    "id":561,
+    "date":"2024-08-09",
+    "home_team_id":110,
+    "away_team_id":121,
+    "home_score":41,
+    "away_score":34,
+    "venue":"Stadium 21",
+    "league_id":11
+  },
+  {
+    "id":562,
+    "date":"2024-02-22",
+    "home_team_id":112,
+    "away_team_id":118,
+    "home_score":16,
+    "away_score":20,
+    "venue":"Stadium 22",
+    "league_id":11
+  },
+  {
+    "id":563,
+    "date":"2024-10-01",
+    "home_team_id":118,
+    "away_team_id":113,
+    "home_score":40,
+    "away_score":35,
+    "venue":"Stadium 23",
+    "league_id":11
+  },
+  {
+    "id":564,
+    "date":"2024-08-07",
+    "home_team_id":112,
+    "away_team_id":110,
+    "home_score":50,
+    "away_score":12,
+    "venue":"Stadium 24",
+    "league_id":11
+  },
+  {
+    "id":565,
+    "date":"2024-01-12",
+    "home_team_id":112,
+    "away_team_id":110,
+    "home_score":50,
+    "away_score":0,
+    "venue":"Stadium 25",
+    "league_id":11
+  },
+  {
+    "id":566,
+    "date":"2024-04-21",
+    "home_team_id":122,
+    "away_team_id":118,
+    "home_score":12,
+    "away_score":5,
+    "venue":"Stadium 26",
+    "league_id":11
+  },
+  {
+    "id":567,
+    "date":"2024-04-19",
+    "home_team_id":122,
+    "away_team_id":115,
+    "home_score":38,
+    "away_score":23,
+    "venue":"Stadium 27",
+    "league_id":11
+  },
+  {
+    "id":568,
+    "date":"2024-07-01",
+    "home_team_id":111,
+    "away_team_id":113,
+    "home_score":5,
+    "away_score":38,
+    "venue":"Stadium 28",
+    "league_id":11
+  },
+  {
+    "id":569,
+    "date":"2024-01-06",
+    "home_team_id":115,
+    "away_team_id":117,
+    "home_score":17,
+    "away_score":4,
+    "venue":"Stadium 29",
+    "league_id":11
+  },
+  {
+    "id":570,
+    "date":"2024-05-24",
+    "home_team_id":113,
+    "away_team_id":120,
+    "home_score":5,
+    "away_score":36,
+    "venue":"Stadium 30",
+    "league_id":11
+  },
+  {
+    "id":571,
+    "date":"2024-04-06",
+    "home_team_id":115,
+    "away_team_id":109,
+    "home_score":4,
+    "away_score":46,
+    "venue":"Stadium 31",
+    "league_id":11
+  },
+  {
+    "id":572,
+    "date":"2024-07-18",
+    "home_team_id":110,
+    "away_team_id":111,
+    "home_score":35,
+    "away_score":23,
+    "venue":"Stadium 32",
+    "league_id":11
+  },
+  {
+    "id":573,
+    "date":"2024-12-09",
+    "home_team_id":117,
+    "away_team_id":113,
+    "home_score":50,
+    "away_score":41,
+    "venue":"Stadium 33",
+    "league_id":11
+  },
+  {
+    "id":574,
+    "date":"2024-12-12",
+    "home_team_id":117,
+    "away_team_id":114,
+    "home_score":40,
+    "away_score":10,
+    "venue":"Stadium 34",
+    "league_id":11
+  },
+  {
+    "id":575,
+    "date":"2024-01-16",
+    "home_team_id":109,
+    "away_team_id":115,
+    "home_score":26,
+    "away_score":38,
+    "venue":"Stadium 35",
+    "league_id":11
+  },
+  {
+    "id":576,
+    "date":"2024-07-06",
+    "home_team_id":120,
+    "away_team_id":115,
+    "home_score":19,
+    "away_score":43,
+    "venue":"Stadium 36",
+    "league_id":11
+  },
+  {
+    "id":577,
+    "date":"2024-02-26",
+    "home_team_id":113,
+    "away_team_id":115,
+    "home_score":13,
+    "away_score":46,
+    "venue":"Stadium 37",
+    "league_id":11
+  },
+  {
+    "id":578,
+    "date":"2024-05-18",
+    "home_team_id":119,
+    "away_team_id":111,
+    "home_score":23,
+    "away_score":37,
+    "venue":"Stadium 38",
+    "league_id":11
+  },
+  {
+    "id":579,
+    "date":"2024-04-15",
+    "home_team_id":117,
+    "away_team_id":110,
+    "home_score":31,
+    "away_score":29,
+    "venue":"Stadium 39",
+    "league_id":11
+  },
+  {
+    "id":580,
+    "date":"2024-04-21",
+    "home_team_id":122,
+    "away_team_id":117,
+    "home_score":7,
+    "away_score":7,
+    "venue":"Stadium 40",
+    "league_id":11
+  },
+  {
+    "id":581,
+    "date":"2024-10-16",
+    "home_team_id":114,
+    "away_team_id":111,
+    "home_score":27,
+    "away_score":26,
+    "venue":"Stadium 41",
+    "league_id":11
+  },
+  {
+    "id":582,
+    "date":"2024-05-20",
+    "home_team_id":122,
+    "away_team_id":117,
+    "home_score":42,
+    "away_score":38,
+    "venue":"Stadium 42",
+    "league_id":11
+  },
+  {
+    "id":583,
+    "date":"2024-12-27",
+    "home_team_id":116,
+    "away_team_id":117,
+    "home_score":15,
+    "away_score":0,
+    "venue":"Stadium 43",
+    "league_id":11
+  },
+  {
+    "id":584,
+    "date":"2024-02-28",
+    "home_team_id":120,
+    "away_team_id":119,
+    "home_score":39,
+    "away_score":37,
+    "venue":"Stadium 44",
+    "league_id":11
+  },
+  {
+    "id":585,
+    "date":"2024-12-06",
+    "home_team_id":121,
+    "away_team_id":120,
+    "home_score":31,
+    "away_score":35,
+    "venue":"Stadium 45",
+    "league_id":11
+  },
+  {
+    "id":586,
+    "date":"2024-09-20",
+    "home_team_id":122,
+    "away_team_id":114,
+    "home_score":30,
+    "away_score":26,
+    "venue":"Stadium 46",
+    "league_id":11
+  },
+  {
+    "id":587,
+    "date":"2024-10-08",
+    "home_team_id":109,
+    "away_team_id":114,
+    "home_score":14,
+    "away_score":35,
+    "venue":"Stadium 47",
+    "league_id":11
+  },
+  {
+    "id":588,
+    "date":"2024-05-09",
+    "home_team_id":118,
+    "away_team_id":116,
+    "home_score":37,
+    "away_score":45,
+    "venue":"Stadium 48",
+    "league_id":11
+  },
+  {
+    "id":589,
+    "date":"2024-12-06",
+    "home_team_id":120,
+    "away_team_id":122,
+    "home_score":22,
+    "away_score":16,
+    "venue":"Stadium 49",
+    "league_id":11
+  },
+  {
+    "id":590,
+    "date":"2024-05-28",
+    "home_team_id":111,
+    "away_team_id":119,
+    "home_score":33,
+    "away_score":37,
+    "venue":"Stadium 50",
+    "league_id":11
+  },
+  {
+    "id":591,
+    "date":"2024-05-02",
+    "home_team_id":117,
+    "away_team_id":114,
+    "home_score":29,
+    "away_score":9,
+    "venue":"Stadium 51",
+    "league_id":11
+  },
+  {
+    "id":592,
+    "date":"2024-05-01",
+    "home_team_id":109,
+    "away_team_id":116,
+    "home_score":23,
+    "away_score":40,
+    "venue":"Stadium 52",
+    "league_id":11
+  },
+  {
+    "id":593,
+    "date":"2024-05-07",
+    "home_team_id":115,
+    "away_team_id":114,
+    "home_score":42,
+    "away_score":23,
+    "venue":"Stadium 53",
+    "league_id":11
+  },
+  {
+    "id":594,
+    "date":"2024-05-14",
+    "home_team_id":112,
+    "away_team_id":117,
+    "home_score":41,
+    "away_score":7,
+    "venue":"Stadium 54",
+    "league_id":11
+  },
+  {
+    "id":595,
+    "date":"2024-03-06",
+    "home_team_id":120,
+    "away_team_id":112,
+    "home_score":5,
+    "away_score":12,
+    "venue":"Stadium 55",
+    "league_id":11
+  },
+  {
+    "id":596,
+    "date":"2024-05-16",
+    "home_team_id":122,
+    "away_team_id":109,
+    "home_score":45,
+    "away_score":30,
+    "venue":"Stadium 56",
+    "league_id":11
+  },
+  {
+    "id":597,
+    "date":"2024-05-08",
+    "home_team_id":122,
+    "away_team_id":109,
+    "home_score":42,
+    "away_score":32,
+    "venue":"Stadium 57",
+    "league_id":11
+  },
+  {
+    "id":598,
+    "date":"2024-11-02",
+    "home_team_id":109,
+    "away_team_id":113,
+    "home_score":7,
+    "away_score":35,
+    "venue":"Stadium 58",
+    "league_id":11
+  },
+  {
+    "id":599,
+    "date":"2024-03-01",
+    "home_team_id":117,
+    "away_team_id":109,
+    "home_score":24,
+    "away_score":21,
+    "venue":"Stadium 59",
+    "league_id":11
+  },
+  {
+    "id":600,
+    "date":"2024-06-22",
+    "home_team_id":117,
+    "away_team_id":119,
+    "home_score":9,
+    "away_score":47,
+    "venue":"Stadium 60",
+    "league_id":11
+  },
+  {
+    "id":601,
+    "date":"2024-09-20",
+    "home_team_id":112,
+    "away_team_id":113,
+    "home_score":1,
+    "away_score":42,
+    "venue":"Stadium 61",
+    "league_id":11
+  },
+  {
+    "id":602,
+    "date":"2024-02-27",
+    "home_team_id":114,
+    "away_team_id":118,
+    "home_score":36,
+    "away_score":25,
+    "venue":"Stadium 62",
+    "league_id":11
+  },
+  {
+    "id":603,
+    "date":"2024-07-11",
+    "home_team_id":122,
+    "away_team_id":111,
+    "home_score":32,
+    "away_score":11,
+    "venue":"Stadium 63",
+    "league_id":11
+  },
+  {
+    "id":604,
+    "date":"2024-08-13",
+    "home_team_id":118,
+    "away_team_id":120,
+    "home_score":40,
+    "away_score":2,
+    "venue":"Stadium 64",
+    "league_id":11
+  },
+  {
+    "id":605,
+    "date":"2024-01-22",
+    "home_team_id":111,
+    "away_team_id":121,
+    "home_score":45,
+    "away_score":17,
+    "venue":"Stadium 65",
+    "league_id":11
+  },
+  {
+    "id":606,
+    "date":"2024-01-26",
+    "home_team_id":121,
+    "away_team_id":115,
+    "home_score":21,
+    "away_score":49,
+    "venue":"Stadium 66",
+    "league_id":11
+  },
+  {
+    "id":607,
+    "date":"2024-10-22",
+    "home_team_id":118,
+    "away_team_id":116,
+    "home_score":35,
+    "away_score":6,
+    "venue":"Stadium 67",
+    "league_id":11
+  },
+  {
+    "id":608,
+    "date":"2024-04-04",
+    "home_team_id":115,
+    "away_team_id":122,
+    "home_score":39,
+    "away_score":48,
+    "venue":"Stadium 68",
+    "league_id":11
+  },
+  {
+    "id":609,
+    "date":"2024-01-15",
+    "home_team_id":115,
+    "away_team_id":122,
+    "home_score":41,
+    "away_score":47,
+    "venue":"Stadium 69",
+    "league_id":11
+  },
+  {
+    "id":610,
+    "date":"2024-09-16",
+    "home_team_id":121,
+    "away_team_id":122,
+    "home_score":29,
+    "away_score":34,
+    "venue":"Stadium 70",
+    "league_id":11
+  },
+  {
+    "id":611,
+    "date":"2024-07-06",
+    "home_team_id":135,
+    "away_team_id":128,
+    "home_score":13,
+    "away_score":1,
+    "venue":"Stadium 1",
+    "league_id":12
+  },
+  {
+    "id":612,
+    "date":"2024-07-28",
+    "home_team_id":129,
+    "away_team_id":130,
+    "home_score":43,
+    "away_score":39,
+    "venue":"Stadium 2",
+    "league_id":12
+  },
+  {
+    "id":613,
+    "date":"2024-07-23",
+    "home_team_id":128,
+    "away_team_id":129,
+    "home_score":43,
+    "away_score":19,
+    "venue":"Stadium 3",
+    "league_id":12
+  },
+  {
+    "id":614,
+    "date":"2024-09-05",
+    "home_team_id":128,
+    "away_team_id":127,
+    "home_score":45,
+    "away_score":42,
+    "venue":"Stadium 4",
+    "league_id":12
+  },
+  {
+    "id":615,
+    "date":"2024-05-15",
+    "home_team_id":128,
+    "away_team_id":134,
+    "home_score":4,
+    "away_score":49,
+    "venue":"Stadium 5",
+    "league_id":12
+  },
+  {
+    "id":616,
+    "date":"2024-12-25",
+    "home_team_id":128,
+    "away_team_id":130,
+    "home_score":7,
+    "away_score":32,
+    "venue":"Stadium 6",
+    "league_id":12
+  },
+  {
+    "id":617,
+    "date":"2024-06-26",
+    "home_team_id":133,
+    "away_team_id":125,
+    "home_score":47,
+    "away_score":3,
+    "venue":"Stadium 7",
+    "league_id":12
+  },
+  {
+    "id":618,
+    "date":"2024-06-19",
+    "home_team_id":123,
+    "away_team_id":124,
+    "home_score":37,
+    "away_score":44,
+    "venue":"Stadium 8",
+    "league_id":12
+  },
+  {
+    "id":619,
+    "date":"2024-03-06",
+    "home_team_id":124,
+    "away_team_id":130,
+    "home_score":18,
+    "away_score":48,
+    "venue":"Stadium 9",
+    "league_id":12
+  },
+  {
+    "id":620,
+    "date":"2024-05-05",
+    "home_team_id":127,
+    "away_team_id":130,
+    "home_score":24,
+    "away_score":12,
+    "venue":"Stadium 10",
+    "league_id":12
+  },
+  {
+    "id":621,
+    "date":"2024-03-21",
+    "home_team_id":127,
+    "away_team_id":123,
+    "home_score":5,
+    "away_score":19,
+    "venue":"Stadium 11",
+    "league_id":12
+  },
+  {
+    "id":622,
+    "date":"2024-05-27",
+    "home_team_id":124,
+    "away_team_id":131,
+    "home_score":4,
+    "away_score":32,
+    "venue":"Stadium 12",
+    "league_id":12
+  },
+  {
+    "id":623,
+    "date":"2024-09-07",
+    "home_team_id":126,
+    "away_team_id":123,
+    "home_score":13,
+    "away_score":15,
+    "venue":"Stadium 13",
+    "league_id":12
+  },
+  {
+    "id":624,
+    "date":"2024-04-13",
+    "home_team_id":127,
+    "away_team_id":129,
+    "home_score":28,
+    "away_score":5,
+    "venue":"Stadium 14",
+    "league_id":12
+  },
+  {
+    "id":625,
+    "date":"2024-10-08",
+    "home_team_id":129,
+    "away_team_id":133,
+    "home_score":19,
+    "away_score":5,
+    "venue":"Stadium 15",
+    "league_id":12
+  },
+  {
+    "id":626,
+    "date":"2024-05-23",
+    "home_team_id":131,
+    "away_team_id":132,
+    "home_score":27,
+    "away_score":2,
+    "venue":"Stadium 16",
+    "league_id":12
+  },
+  {
+    "id":627,
+    "date":"2024-12-17",
+    "home_team_id":123,
+    "away_team_id":128,
+    "home_score":29,
+    "away_score":37,
+    "venue":"Stadium 17",
+    "league_id":12
+  },
+  {
+    "id":628,
+    "date":"2024-04-08",
+    "home_team_id":135,
+    "away_team_id":131,
+    "home_score":13,
+    "away_score":34,
+    "venue":"Stadium 18",
+    "league_id":12
+  },
+  {
+    "id":629,
+    "date":"2024-07-28",
+    "home_team_id":131,
+    "away_team_id":130,
+    "home_score":20,
+    "away_score":44,
+    "venue":"Stadium 19",
+    "league_id":12
+  },
+  {
+    "id":630,
+    "date":"2024-01-02",
+    "home_team_id":132,
+    "away_team_id":133,
+    "home_score":47,
+    "away_score":35,
+    "venue":"Stadium 20",
+    "league_id":12
+  },
+  {
+    "id":631,
+    "date":"2024-11-26",
+    "home_team_id":131,
+    "away_team_id":126,
+    "home_score":10,
+    "away_score":11,
+    "venue":"Stadium 21",
+    "league_id":12
+  },
+  {
+    "id":632,
+    "date":"2024-01-27",
+    "home_team_id":123,
+    "away_team_id":136,
+    "home_score":23,
+    "away_score":13,
+    "venue":"Stadium 22",
+    "league_id":12
+  },
+  {
+    "id":633,
+    "date":"2024-02-08",
+    "home_team_id":136,
+    "away_team_id":131,
+    "home_score":23,
+    "away_score":5,
+    "venue":"Stadium 23",
+    "league_id":12
+  },
+  {
+    "id":634,
+    "date":"2024-06-06",
+    "home_team_id":128,
+    "away_team_id":125,
+    "home_score":5,
+    "away_score":49,
+    "venue":"Stadium 24",
+    "league_id":12
+  },
+  {
+    "id":635,
+    "date":"2024-01-23",
+    "home_team_id":126,
+    "away_team_id":128,
+    "home_score":24,
+    "away_score":32,
+    "venue":"Stadium 25",
+    "league_id":12
+  },
+  {
+    "id":636,
+    "date":"2024-12-20",
+    "home_team_id":127,
+    "away_team_id":134,
+    "home_score":46,
+    "away_score":4,
+    "venue":"Stadium 26",
+    "league_id":12
+  },
+  {
+    "id":637,
+    "date":"2024-04-05",
+    "home_team_id":124,
+    "away_team_id":123,
+    "home_score":19,
+    "away_score":42,
+    "venue":"Stadium 27",
+    "league_id":12
+  },
+  {
+    "id":638,
+    "date":"2024-12-12",
+    "home_team_id":127,
+    "away_team_id":123,
+    "home_score":3,
+    "away_score":35,
+    "venue":"Stadium 28",
+    "league_id":12
+  },
+  {
+    "id":639,
+    "date":"2024-04-24",
+    "home_team_id":135,
+    "away_team_id":126,
+    "home_score":9,
+    "away_score":32,
+    "venue":"Stadium 29",
+    "league_id":12
+  },
+  {
+    "id":640,
+    "date":"2024-09-02",
+    "home_team_id":123,
+    "away_team_id":136,
+    "home_score":10,
+    "away_score":10,
+    "venue":"Stadium 30",
+    "league_id":12
+  },
+  {
+    "id":641,
+    "date":"2024-05-14",
+    "home_team_id":127,
+    "away_team_id":123,
+    "home_score":25,
+    "away_score":26,
+    "venue":"Stadium 31",
+    "league_id":12
+  },
+  {
+    "id":642,
+    "date":"2024-06-13",
+    "home_team_id":130,
+    "away_team_id":128,
+    "home_score":2,
+    "away_score":18,
+    "venue":"Stadium 32",
+    "league_id":12
+  },
+  {
+    "id":643,
+    "date":"2024-07-08",
+    "home_team_id":130,
+    "away_team_id":127,
+    "home_score":13,
+    "away_score":2,
+    "venue":"Stadium 33",
+    "league_id":12
+  },
+  {
+    "id":644,
+    "date":"2024-12-24",
+    "home_team_id":136,
+    "away_team_id":130,
+    "home_score":24,
+    "away_score":14,
+    "venue":"Stadium 34",
+    "league_id":12
+  },
+  {
+    "id":645,
+    "date":"2024-02-05",
+    "home_team_id":133,
+    "away_team_id":128,
+    "home_score":26,
+    "away_score":19,
+    "venue":"Stadium 35",
+    "league_id":12
+  },
+  {
+    "id":646,
+    "date":"2024-12-16",
+    "home_team_id":136,
+    "away_team_id":124,
+    "home_score":23,
+    "away_score":22,
+    "venue":"Stadium 36",
+    "league_id":12
+  },
+  {
+    "id":647,
+    "date":"2024-02-11",
+    "home_team_id":135,
+    "away_team_id":133,
+    "home_score":23,
+    "away_score":47,
+    "venue":"Stadium 37",
+    "league_id":12
+  },
+  {
+    "id":648,
+    "date":"2024-08-01",
+    "home_team_id":134,
+    "away_team_id":123,
+    "home_score":24,
+    "away_score":28,
+    "venue":"Stadium 38",
+    "league_id":12
+  },
+  {
+    "id":649,
+    "date":"2024-08-10",
+    "home_team_id":129,
+    "away_team_id":133,
+    "home_score":11,
+    "away_score":6,
+    "venue":"Stadium 39",
+    "league_id":12
+  },
+  {
+    "id":650,
+    "date":"2024-10-18",
+    "home_team_id":130,
+    "away_team_id":124,
+    "home_score":19,
+    "away_score":12,
+    "venue":"Stadium 40",
+    "league_id":12
+  },
+  {
+    "id":651,
+    "date":"2024-04-06",
+    "home_team_id":128,
+    "away_team_id":124,
+    "home_score":43,
+    "away_score":34,
+    "venue":"Stadium 41",
+    "league_id":12
+  },
+  {
+    "id":652,
+    "date":"2024-06-22",
+    "home_team_id":129,
+    "away_team_id":132,
+    "home_score":31,
+    "away_score":14,
+    "venue":"Stadium 42",
+    "league_id":12
+  },
+  {
+    "id":653,
+    "date":"2024-06-06",
+    "home_team_id":135,
+    "away_team_id":124,
+    "home_score":9,
+    "away_score":1,
+    "venue":"Stadium 43",
+    "league_id":12
+  },
+  {
+    "id":654,
+    "date":"2024-08-01",
+    "home_team_id":130,
+    "away_team_id":132,
+    "home_score":3,
+    "away_score":9,
+    "venue":"Stadium 44",
+    "league_id":12
+  },
+  {
+    "id":655,
+    "date":"2024-07-20",
+    "home_team_id":125,
+    "away_team_id":133,
+    "home_score":38,
+    "away_score":34,
+    "venue":"Stadium 45",
+    "league_id":12
+  },
+  {
+    "id":656,
+    "date":"2024-04-01",
+    "home_team_id":128,
+    "away_team_id":130,
+    "home_score":25,
+    "away_score":33,
+    "venue":"Stadium 46",
+    "league_id":12
+  },
+  {
+    "id":657,
+    "date":"2024-09-03",
+    "home_team_id":126,
+    "away_team_id":136,
+    "home_score":14,
+    "away_score":4,
+    "venue":"Stadium 47",
+    "league_id":12
+  },
+  {
+    "id":658,
+    "date":"2024-08-15",
+    "home_team_id":132,
+    "away_team_id":127,
+    "home_score":0,
+    "away_score":47,
+    "venue":"Stadium 48",
+    "league_id":12
+  },
+  {
+    "id":659,
+    "date":"2024-12-22",
+    "home_team_id":128,
+    "away_team_id":123,
+    "home_score":37,
+    "away_score":45,
+    "venue":"Stadium 49",
+    "league_id":12
+  },
+  {
+    "id":660,
+    "date":"2024-03-20",
+    "home_team_id":124,
+    "away_team_id":136,
+    "home_score":28,
+    "away_score":21,
+    "venue":"Stadium 50",
+    "league_id":12
+  },
+  {
+    "id":661,
+    "date":"2024-09-02",
+    "home_team_id":128,
+    "away_team_id":135,
+    "home_score":42,
+    "away_score":48,
+    "venue":"Stadium 51",
+    "league_id":12
+  },
+  {
+    "id":662,
+    "date":"2024-06-17",
+    "home_team_id":127,
+    "away_team_id":134,
+    "home_score":42,
+    "away_score":45,
+    "venue":"Stadium 52",
+    "league_id":12
+  },
+  {
+    "id":663,
+    "date":"2024-03-25",
+    "home_team_id":127,
+    "away_team_id":133,
+    "home_score":41,
+    "away_score":5,
+    "venue":"Stadium 53",
+    "league_id":12
+  },
+  {
+    "id":664,
+    "date":"2024-10-09",
+    "home_team_id":124,
+    "away_team_id":125,
+    "home_score":13,
+    "away_score":3,
+    "venue":"Stadium 54",
+    "league_id":12
+  },
+  {
+    "id":665,
+    "date":"2024-09-19",
+    "home_team_id":130,
+    "away_team_id":135,
+    "home_score":10,
+    "away_score":23,
+    "venue":"Stadium 55",
+    "league_id":12
+  },
+  {
+    "id":666,
+    "date":"2024-06-20",
+    "home_team_id":127,
+    "away_team_id":134,
+    "home_score":22,
+    "away_score":33,
+    "venue":"Stadium 56",
+    "league_id":12
+  },
+  {
+    "id":667,
+    "date":"2024-02-17",
+    "home_team_id":132,
+    "away_team_id":131,
+    "home_score":16,
+    "away_score":17,
+    "venue":"Stadium 57",
+    "league_id":12
+  },
+  {
+    "id":668,
+    "date":"2024-05-13",
+    "home_team_id":126,
+    "away_team_id":125,
+    "home_score":13,
+    "away_score":22,
+    "venue":"Stadium 58",
+    "league_id":12
+  },
+  {
+    "id":669,
+    "date":"2024-12-25",
+    "home_team_id":123,
+    "away_team_id":134,
+    "home_score":8,
+    "away_score":17,
+    "venue":"Stadium 59",
+    "league_id":12
+  },
+  {
+    "id":670,
+    "date":"2024-04-13",
+    "home_team_id":132,
+    "away_team_id":129,
+    "home_score":35,
+    "away_score":40,
+    "venue":"Stadium 60",
+    "league_id":12
+  },
+  {
+    "id":671,
+    "date":"2024-08-28",
+    "home_team_id":123,
+    "away_team_id":124,
+    "home_score":25,
+    "away_score":3,
+    "venue":"Stadium 61",
+    "league_id":12
+  },
+  {
+    "id":672,
+    "date":"2024-08-03",
+    "home_team_id":131,
+    "away_team_id":130,
+    "home_score":27,
+    "away_score":44,
+    "venue":"Stadium 62",
+    "league_id":12
+  },
+  {
+    "id":673,
+    "date":"2024-07-28",
+    "home_team_id":131,
+    "away_team_id":135,
+    "home_score":27,
+    "away_score":28,
+    "venue":"Stadium 63",
+    "league_id":12
+  },
+  {
+    "id":674,
+    "date":"2024-10-17",
+    "home_team_id":128,
+    "away_team_id":123,
+    "home_score":17,
+    "away_score":38,
+    "venue":"Stadium 64",
+    "league_id":12
+  },
+  {
+    "id":675,
+    "date":"2024-09-11",
+    "home_team_id":123,
+    "away_team_id":127,
+    "home_score":16,
+    "away_score":39,
+    "venue":"Stadium 65",
+    "league_id":12
+  },
+  {
+    "id":676,
+    "date":"2024-03-17",
+    "home_team_id":136,
+    "away_team_id":131,
+    "home_score":10,
+    "away_score":8,
+    "venue":"Stadium 66",
+    "league_id":12
+  },
+  {
+    "id":677,
+    "date":"2024-04-13",
+    "home_team_id":129,
+    "away_team_id":130,
+    "home_score":21,
+    "away_score":42,
+    "venue":"Stadium 67",
+    "league_id":12
+  },
+  {
+    "id":678,
+    "date":"2024-09-20",
+    "home_team_id":133,
+    "away_team_id":128,
+    "home_score":44,
+    "away_score":48,
+    "venue":"Stadium 68",
+    "league_id":12
+  },
+  {
+    "id":679,
+    "date":"2024-06-02",
+    "home_team_id":125,
+    "away_team_id":126,
+    "home_score":34,
+    "away_score":14,
+    "venue":"Stadium 69",
+    "league_id":12
+  },
+  {
+    "id":680,
+    "date":"2024-12-21",
+    "home_team_id":130,
+    "away_team_id":131,
+    "home_score":8,
+    "away_score":6,
+    "venue":"Stadium 70",
+    "league_id":12
+  }
+]

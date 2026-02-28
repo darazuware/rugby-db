@@ -1,0 +1,86 @@
+{
+  "League One": {
+    "primary": "#E60012",
+    "secondary": "#000000",
+    "accent": "#CCCCCC",
+    "text_light": "#FFFFFF",
+    "description": "Japan Rugby League One - Red, Black, Gray, White"
+  },
+  "Super Rugby Pacific": {
+    "primary": "#0066CC",
+    "secondary": "#00BFFF",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Super Rugby - Blue, Light Blue, White"
+  },
+  "Top 14": {
+    "primary": "#000000",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "French Top 14 - Black, Gold, White"
+  },
+  "Premiership Rugby": {
+    "primary": "#FF6600",
+    "secondary": "#000000",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Premiership Rugby - Dark Orange, Black, White"
+  },
+  "United Rugby Championship": {
+    "primary": "#003366",
+    "secondary": "#00BFFF",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "URC - Navy Blue, Light Blue, White"
+  },
+  "Currie Cup": {
+    "primary": "#006633",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Currie Cup - Green, Gold, White"
+  },
+  "Major League Rugby": {
+    "primary": "#002D72",
+    "secondary": "#DC143C",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "MLR - Navy Blue, Red, White"
+  },
+  "Super Rugby Americas": {
+    "primary": "#C8102E",
+    "secondary": "#012169",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Super Rugby Americas - Red, Navy, White"
+  },
+  "Bunnings NPC": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#CCCCCC",
+    "text_light": "#FFFFFF",
+    "description": "NZ Provincial Championship - Black, White, Silver"
+  },
+  "Shute Shield": {
+    "primary": "#0051A5",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Shute Shield - Blue, Gold, White"
+  },
+  "Hospital Cup": {
+    "primary": "#8B0000",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF",
+    "text_light": "#FFFFFF",
+    "description": "Hospital Cup - Maroon, Gold, White"
+  },
+  "Pro D2": {
+    "primary": "#1E3A8A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700",
+    "text_light": "#FFFFFF",
+    "description": "French Pro D2 - Navy Blue, White, Gold"
+  }
+}

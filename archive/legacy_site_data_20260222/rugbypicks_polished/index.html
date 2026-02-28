@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RugbyPick | 世界のラグビーを日本語で</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Noto Sans JP', sans-serif; background-color: #f5f7f9; color: #484848; line-height: 1.6; }
+        .header-container { background-color: #0097B2; padding: 15px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .header-content { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        .site-title { color: #ffffff; font-size: 24px; font-weight: 700; text-decoration: none; }
+        .nav-container { background-color: #0097B2; border-top: 1px solid rgba(255,255,255,0.2); }
+        .nav-menu { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; gap: 30px; list-style: none; }
+        .nav-menu a { color: #ffffff; text-decoration: none; font-size: 14px; padding: 12px 0; display: block; }
+        .container { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+        .section-title { font-size: 28px; font-weight: 700; color: #333; margin-bottom: 30px; padding-bottom: 10px; border-bottom: 3px solid #0097B2; }
+        .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+        .item-card { background: #fff; padding: 20px; border-radius: 10px; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.05); transition: transform 0.2s; border: 1px solid #eee; display: block; }
+        .item-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        .item-name { font-size: 18px; font-weight: 700; color: #333; margin-bottom: 5px; }
+        .item-meta { font-size: 13px; color: #888; }
+        .hero { background: linear-gradient(135deg, #0097B2 0%, #003366 100%); color: #fff; padding: 80px 40px; text-align: center; border-radius: 12px; margin-bottom: 40px; }
+        .hero h1 { font-size: 42px; margin-bottom: 20px; }
+        .hero p { font-size: 20px; opacity: 0.9; }
+    </style>
+
+</head>
+<body>
+    <header class="header-container">
+        <div class="header-content">
+            <a href="index.html" class="site-title"><img src="logo.png" alt="RugbyPick" style="height:40px; vertical-align:middle;"></a>
+        </div>
+    </header>
+    <nav class="nav-container">
+        <ul class="nav-menu">
+            <li><a href="index.html">ホーム</a></li>
+            <li><a href="pages/leagues.html">リーグ一覧</a></li>
+            <li><a href="pages/teams.html">チーム一覧</a></li>
+            <li><a href="pages/players.html">選手一覧</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="hero">
+            <h1>RugbyPick</h1>
+            <p>世界のラグビーを、日本語で。</p>
+        </div>
+        
+        <h2 class="section-title">最新記事 (News)</h2>
+        <div class="card-grid" style="margin-bottom: 50px;">
+             <a href="pages/category/domestic/leagueone/news/index.html" class="item-card">
+                <div class="item-name">リーグワンニュース</div>
+                <div class="item-meta">League One News</div>
+            </a>
+            <a href="pages/category/domestic/high-school/index.html" class="item-card">
+                <div class="item-name">高校ラグビー</div>
+                <div class="item-meta">High School Rugby</div>
+            </a>
+            <a href="pages/category/domestic/university/index.html" class="item-card">
+                <div class="item-name">大学ラグビー</div>
+                <div class="item-meta">University Rugby</div>
+            </a>
+            <a href="pages/category/arekore/watch-guide/index.html" class="item-card">
+                <div class="item-name">観戦ガイド</div>
+                <div class="item-meta">Watch Guide</div>
+            </a>
+        </div>
+
+        <h2 class="section-title">データベース (Database)</h2>
+        <div class="card-grid">
+            <a href="pages/leagues.html" class="item-card">
+                <div class="item-name">リーグ一覧</div>
+                <div class="item-meta">Leagues</div>
+            </a>
+            <a href="pages/teams.html" class="item-card">
+                <div class="item-name">チーム一覧</div>
+                <div class="item-meta">Teams</div>
+            </a>
+            <a href="pages/players.html" class="item-card">
+                <div class="item-name">選手一覧</div>
+                <div class="item-meta">Players</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

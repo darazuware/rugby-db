@@ -1,0 +1,13 @@
+---
+{
+  "title": "秋田工業高校",
+  "layout": "school",
+  "slug": "hs-akitakogyo",
+  "type": "高校",
+  "previous_names": []
+}
+---
+
+# 秋田工業高校
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/shinya-nara_lo_484250.html">奈良 真弥</a></td><td>PR</td><td>25歳</td><td>清水建設江東ブルーシャークス</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/seta-naivaluwaqa_lo_484414.html">ナイバルワガ セタ</a></td><td>LO</td><td>25歳</td><td>豊田自動織機シャトルズ愛知</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/taichi-takahashi_lo_484513.html">高橋 泰地</a></td><td>FL</td><td>27歳</td><td>日本製鉄釜石シーウェイブス</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/riku-takahashi_lo_484520.html">高橋 璃玖</a></td><td>PR</td><td>25歳</td><td>日本製鉄釜石シーウェイブス</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/yu-saruta_lo_484834.html">猿田 湧</a></td><td>FB</td><td>28歳</td><td>横浜キヤノンイーグルス</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/shunya-hamano_lo_483537.html">濱野 隼也</a></td><td>HO</td><td>27歳</td><td>NECグリーンロケッツ東葛</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/kaisei-umeda_lo_483484.html">梅田 海星</a></td><td>PR</td><td>24歳</td><td>浦安D-Rocks</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/tomohito-miyakawa_lo_484065.html">宮川 智海</a></td><td>LO</td><td>32歳</td><td>埼玉パナソニックワイルドナイツ</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/shogo-miura_lo_484471.html">三浦 昌悟</a></td><td>PR</td><td>31歳</td><td>トヨタヴェルブリッツ</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/keita-doi_lo_484582.html">土肥 恵太</a></td><td>SO</td><td>26歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/shosuke-funaki_lo_484587.html">船木 頌介</a></td><td>PR</td><td>30歳</td><td>日野レッドドルフィンズ</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/ryosei-kojima_lo_484995.html">小島 燎成</a></td><td>PR</td><td>27歳</td><td>レッドハリケーンズ大阪</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/tomasi-naibaruwaga_lo_484084.html">ナイバルワガ トマシ</a></td><td>WTB</td><td>24歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="秋田工業高校"><td><a href="../../player/kento-mizutani_lo_484126.html">水谷 健人</a></td><td>FL</td><td>29歳</td><td>狭山セコムラガッツ</td></tr></tbody></table></div>

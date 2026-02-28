@@ -1,0 +1,49 @@
+
+import urllib.request
+import urllib.parse
+import ssl
+import re
+
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+def search_player_debug(first_name, last_name, label):
+    url = "https://www.itsrugby.co.uk/playersearchlist.html"
+    data = urllib.parse.urlencode({
+        'name': last_name,
+        'fname': first_name
+    }).encode('utf-8')
+    
+    print(f"--- Search: {label} ({first_name} {last_name}) ---")
+    req = urllib.request.Request(
+        url, 
+        data=data,
+        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    )
+    
+    try:
+        with urllib.request.urlopen(req, context=ctx) as response:
+            content = response.read().decode('utf-8', errors='ignore')
+            links = re.findall(r'href="(player_\d+\.html)"', content)
+            unique_links = list(set(links))
+            print(f"  Found {len(unique_links)} links: {unique_links}")
+            
+            # Save debug if 0 links
+            if len(unique_links) == 0:
+                with open(f"debug_manaaki_{label.replace(' ', '_')}.html", "w") as f:
+                    f.write(content)
+                print("  Saved HTML for inspection.")
+
+    except Exception as e:
+        print(f"  Error: {e}")
+
+def main():
+    search_player_debug("Manaaki", "Selby-Rickit", "Full Name")
+    search_player_debug("", "Selby-Rickit", "Surname Only")
+    search_player_debug("Manaaki", "Selby Rickit", "Space in Surname")
+    search_player_debug("", "Selby Rickit", "Space Surname Only")
+    search_player_debug("", "Selby", "Partial Surname")
+
+if __name__ == "__main__":
+    main()

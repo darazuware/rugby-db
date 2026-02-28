@@ -1,0 +1,13 @@
+---
+{
+  "title": "筑紫高校",
+  "layout": "school",
+  "slug": "hs-chikushikoukou",
+  "type": "高校",
+  "previous_names": []
+}
+---
+
+# 筑紫高校
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/kanta-fujita_lo_483684.html">藤田 幹太</a></td><td>HO</td><td>23歳</td><td>九州電力キューデンヴォルテクス</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/goki-saito_lo_483711.html">齊藤 剛希</a></td><td>WTB</td><td>33歳</td><td>九州電力キューデンヴォルテクス</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/suguru-hidaka_lo_484242.html">日高 駿</a></td><td>LO</td><td>36歳</td><td>清水建設江東ブルーシャークス</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/yushi-inoue_lo_484545.html">井上 優士</a></td><td>PR</td><td>26歳</td><td>花園近鉄ライナーズ</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/tomoki-minami_lo_484821.html">南 友紀</a></td><td>PR</td><td>33歳</td><td>横浜キヤノンイーグルス</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/junichiro-matsushita_lo_483521.html">松下 潤一郎</a></td><td>HO</td><td>25歳</td><td>浦安D-Rocks</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/shota-kasai_lo_484623.html">葛西 翔太</a></td><td>PR</td><td>25歳</td><td>マツダスカイアクティブズ広島</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/hiroyuki-yamasaki_lo_483764.html">山崎 洋之</a></td><td>WTB</td><td>28歳</td><td>クボタスピアーズ船橋・東京ベイ</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/naoaki-horibe_lo_483778.html">堀部 直壮</a></td><td>LO</td><td>29歳</td><td>クボタスピアーズ船橋・東京ベイ</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/eishin-kuwano_lo_484180.html">桑野 詠真</a></td><td>LO</td><td>32歳</td><td>静岡ブルーレヴズ</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/takeshi-hino_lo_484184.html">日野 剛志</a></td><td>HO</td><td>36歳</td><td>静岡ブルーレヴズ</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/kaoru-tsuruta_lo_485003.html">鶴田 馨</a></td><td>CTB</td><td>31歳</td><td>レッドハリケーンズ大阪</td></tr><tr class="player-row" data-school-norm="筑紫高校"><td><a href="../../player/haruya-nakasu_lo_484107.html">中洲 晴陽</a></td><td>CTB</td><td>26歳</td><td>狭山セコムラガッツ</td></tr></tbody></table></div>

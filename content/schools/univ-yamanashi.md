@@ -1,0 +1,13 @@
+---
+{
+  "title": "山梨学院大学",
+  "layout": "school",
+  "slug": "univ-yamanashi",
+  "type": "大学",
+  "previous_names": []
+}
+---
+
+# 山梨学院大学
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/sosiceni-tokoqio_lo_484216.html">トコキオ ソシセニ</a></td><td>No8</td><td>33歳</td><td>清水建設江東ブルーシャークス</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/sebastian-boshoff_lo_484405.html">セバスチャン ・ボショフ</a></td><td>CTB</td><td>24歳</td><td>豊田自動織機シャトルズ愛知</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/daiki-kon_lo_484519.html">今 大輝</a></td><td>FB</td><td>25歳</td><td>日本製鉄釜石シーウェイブス</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/wihongi-connor_lo_484707.html">コナー ・ウィホンギ</a></td><td>LO</td><td>29歳</td><td>三重ホンダヒート</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/dj-kashima_lo_484734.html">加島 DJ</a></td><td>WTB</td><td>25歳</td><td>三菱重工相模原ダイナボアーズ</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/timote-tavalea_lo_483533.html">ティモテ ・タヴァレア</a></td><td>FL</td><td>28歳</td><td>NECグリーンロケッツ東葛</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/teruya-goto_lo_483562.html">後藤 輝也</a></td><td>WTB</td><td>35歳</td><td>NECグリーンロケッツ東葛</td></tr><tr class="player-row" data-school-norm="nan"><td><a href="../../player/caleb-cavubati_lo_483492.html">ケレブ ・カヴバティ</a></td><td>WTB</td><td>26歳</td><td>浦安D-Rocks</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/daishi-kojima_lo_483526.html">小嶋 大士</a></td><td>No8</td><td>25歳</td><td>浦安D-Rocks</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/timothy-lafaele_lo_483952.html">ラファエレ ティモシー</a></td><td>CTB</td><td>35歳</td><td>コベルコ神戸スティーラーズ</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/rikiya-oishi_lo_484777.html">大石 力也</a></td><td>FL</td><td>33歳</td><td>ヤクルトレビンズ戸田</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/sota-saito_lo_484802.html">齋藤 聡汰</a></td><td>SO</td><td>26歳</td><td>ヤクルトレビンズ戸田</td></tr><tr class="player-row" data-school-norm="山梨学院大学"><td><a href="../../player/kazuki-ikemura_lo_484096.html">池村 冬紀</a></td><td>CTB</td><td>24歳</td><td>狭山セコムラガッツ</td></tr></tbody></table></div>

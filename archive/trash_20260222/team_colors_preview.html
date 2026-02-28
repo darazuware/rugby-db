@@ -1,0 +1,884 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>チームカラー確認</title>
+    <style>
+        body {
+            font-family: 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .team-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .team-name {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .team-url {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        .color-palette {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .color-box {
+            width: 80px;
+            height: 80px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+            padding: 5px;
+            font-size: 11px;
+            color: white;
+            text-shadow: 0 0 3px rgba(0,0,0,0.5);
+        }
+        .primary-label, .secondary-label {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 10px;
+            margin-left: 10px;
+        }
+        .primary-label {
+            background: #e60012;
+            color: white;
+        }
+        .secondary-label {
+            background: #0066cc;
+            color: white;
+        }
+        .edit-section {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+        .edit-input {
+            width: 100px;
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎨 チームカラー確認ページ</h1>
+    <p style="text-align: center; color: #666;">
+        各チームのカラーを確認し、必要に応じて修正してください。<br>
+        Primary（メイン）とSecondary（サブ）を選択してください。
+    </p>
+
+    <div class="team-card">
+        <div class="team-name">クボタスピアーズ船橋・東京ベイ</div>
+        <div class="team-url">https://www.kubota-spears.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #007aff;">
+                #007aff<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #448cbc;">
+                #448cbc<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #fadfde;">
+                #fadfde
+            </div>
+
+            <div class="color-box" style="background-color: #00a8a9;">
+                #00a8a9
+            </div>
+
+            <div class="color-box" style="background-color: #e95506;">
+                #e95506
+            </div>
+
+            <div class="color-box" style="background-color: #666666;">
+                #666666
+            </div>
+
+            <div class="color-box" style="background-color: #eb5e1e;">
+                #eb5e1e
+            </div>
+
+            <div class="color-box" style="background-color: #471f99;">
+                #471f99
+            </div>
+
+            <div class="color-box" style="background-color: #dedede;">
+                #dedede
+            </div>
+
+            <div class="color-box" style="background-color: #125152;">
+                #125152
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#007aff" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#448cbc" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">東京サントリーサンゴリアス</div>
+        <div class="team-url">https://www.suntory.co.jp/culture-sports/sungoliath/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #7bab07;">
+                #7bab07<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #a9a9a9;">
+                #a9a9a9<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #868686;">
+                #868686
+            </div>
+
+            <div class="color-box" style="background-color: #929292;">
+                #929292
+            </div>
+
+            <div class="color-box" style="background-color: #404040;">
+                #404040
+            </div>
+
+            <div class="color-box" style="background-color: #fefefe;">
+                #fefefe
+            </div>
+
+            <div class="color-box" style="background-color: #5c5c5c;">
+                #5c5c5c
+            </div>
+
+            <div class="color-box" style="background-color: #393939;">
+                #393939
+            </div>
+
+            <div class="color-box" style="background-color: #8d8d8d;">
+                #8d8d8d
+            </div>
+
+            <div class="color-box" style="background-color: #e3e3e3;">
+                #e3e3e3
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#7bab07" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#a9a9a9" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">埼玉パナソニックワイルドナイツ</div>
+        <div class="team-url">https://panasonic.co.jp/sports/rugby/</div>
+        <div class="color-palette">
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">東芝ブレイブルーパス東京</div>
+        <div class="team-url">https://www.bravelupus.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #50bebf;">
+                #50bebf<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #f5f5f6;">
+                #f5f5f6<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #011835;">
+                #011835
+            </div>
+
+            <div class="color-box" style="background-color: #404040;">
+                #404040
+            </div>
+
+            <div class="color-box" style="background-color: #707070;">
+                #707070
+            </div>
+
+            <div class="color-box" style="background-color: #382110;">
+                #382110
+            </div>
+
+            <div class="color-box" style="background-color: #0461dd;">
+                #0461dd
+            </div>
+
+            <div class="color-box" style="background-color: #24292d;">
+                #24292d
+            </div>
+
+            <div class="color-box" style="background-color: #cbcbcb;">
+                #cbcbcb
+            </div>
+
+            <div class="color-box" style="background-color: #2aabee;">
+                #2aabee
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#50bebf" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#f5f5f6" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">横浜キヤノンイーグルス</div>
+        <div class="team-url">https://www.canon-eagles.jp/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #007aff;">
+                #007aff<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #800000;">
+                #800000<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #8b8989;">
+                #8b8989
+            </div>
+
+            <div class="color-box" style="background-color: #8c8c8c;">
+                #8c8c8c
+            </div>
+
+            <div class="color-box" style="background-color: #b70202;">
+                #b70202
+            </div>
+
+            <div class="color-box" style="background-color: #8b8987;">
+                #8b8987
+            </div>
+
+            <div class="color-box" style="background-color: #fefefe;">
+                #fefefe
+            </div>
+
+            <div class="color-box" style="background-color: #737170;">
+                #737170
+            </div>
+
+            <div class="color-box" style="background-color: #f3f3f3;">
+                #f3f3f3
+            </div>
+
+            <div class="color-box" style="background-color: #930000;">
+                #930000
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#007aff" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#800000" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">トヨタヴェルブリッツ</div>
+        <div class="team-url">https://sports.gazoo.com/verblitz/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #272727;">
+                #272727<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #151e27;">
+                #151e27<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #09220e;">
+                #09220e
+            </div>
+
+            <div class="color-box" style="background-color: #711d2a;">
+                #711d2a
+            </div>
+
+            <div class="color-box" style="background-color: #1a252f;">
+                #1a252f
+            </div>
+
+            <div class="color-box" style="background-color: #6dbf9c;">
+                #6dbf9c
+            </div>
+
+            <div class="color-box" style="background-color: #8e8e8e;">
+                #8e8e8e
+            </div>
+
+            <div class="color-box" style="background-color: #f8b111;">
+                #f8b111
+            </div>
+
+            <div class="color-box" style="background-color: #6f2500;">
+                #6f2500
+            </div>
+
+            <div class="color-box" style="background-color: #1b5000;">
+                #1b5000
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#272727" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#151e27" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">静岡ブルーレヴズ</div>
+        <div class="team-url">https://www.shizuoka-bluerevs.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #007aff;">
+                #007aff<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #003da2;">
+                #003da2<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #a9a9a9;">
+                #a9a9a9
+            </div>
+
+            <div class="color-box" style="background-color: #171717;">
+                #171717
+            </div>
+
+            <div class="color-box" style="background-color: #005fa2;">
+                #005fa2
+            </div>
+
+            <div class="color-box" style="background-color: #4b4949;">
+                #4b4949
+            </div>
+
+            <div class="color-box" style="background-color: #757575;">
+                #757575
+            </div>
+
+            <div class="color-box" style="background-color: #f3f3f3;">
+                #f3f3f3
+            </div>
+
+            <div class="color-box" style="background-color: #8d8d8d;">
+                #8d8d8d
+            </div>
+
+            <div class="color-box" style="background-color: #d10318;">
+                #d10318
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#007aff" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#003da2" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">コベルコ神戸スティーラーズ</div>
+        <div class="team-url">https://www.kobelcosteelers.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #183561;">
+                #183561<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #ffebe9;">
+                #ffebe9<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #737373;">
+                #737373
+            </div>
+
+            <div class="color-box" style="background-color: #0d63ac;">
+                #0d63ac
+            </div>
+
+            <div class="color-box" style="background-color: #232323;">
+                #232323
+            </div>
+
+            <div class="color-box" style="background-color: #f9f9f6;">
+                #f9f9f6
+            </div>
+
+            <div class="color-box" style="background-color: #1877f2;">
+                #1877f2
+            </div>
+
+            <div class="color-box" style="background-color: #9c7141;">
+                #9c7141
+            </div>
+
+            <div class="color-box" style="background-color: #ebc7b5;">
+                #ebc7b5
+            </div>
+
+            <div class="color-box" style="background-color: #fff100;">
+                #fff100
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#183561" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#ffebe9" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">花園近鉄ライナーズ</div>
+        <div class="team-url">https://www.kintetsu-liners.com/</div>
+        <div class="color-palette">
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">三重ホンダヒート</div>
+        <div class="team-url">https://www.honda-heat.jp/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #007aff;">
+                #007aff<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #de623e;">
+                #de623e<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #0173bc;">
+                #0173bc
+            </div>
+
+            <div class="color-box" style="background-color: #c5001b;">
+                #c5001b
+            </div>
+
+            <div class="color-box" style="background-color: #a80017;">
+                #a80017
+            </div>
+
+            <div class="color-box" style="background-color: #d6c460;">
+                #d6c460
+            </div>
+
+            <div class="color-box" style="background-color: #dbbb6a;">
+                #dbbb6a
+            </div>
+
+            <div class="color-box" style="background-color: #1a0101;">
+                #1a0101
+            </div>
+
+            <div class="color-box" style="background-color: #fff9eb;">
+                #fff9eb
+            </div>
+
+            <div class="color-box" style="background-color: #9f9f9f;">
+                #9f9f9f
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#007aff" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#de623e" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">日野レッドドルフィンズ</div>
+        <div class="team-url">https://hino-reddolphins.com/</div>
+        <div class="color-palette">
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">九州電力キューデンヴォルテクス</div>
+        <div class="team-url">https://www.kyuden.co.jp/kyuden-vortex/</div>
+        <div class="color-palette">
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Stade Toulousain</div>
+        <div class="team-url">https://www.stadetoulousain.fr/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #161616;">
+                #161616<span class="primary-label">Primary</span>
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#161616" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Stade Rochelais</div>
+        <div class="team-url">https://www.staderochelais.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #faf2cc;">
+                #faf2cc<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #f7ecb5;">
+                #f7ecb5<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #d6d6d6;">
+                #d6d6d6
+            </div>
+
+            <div class="color-box" style="background-color: #8c2e0b;">
+                #8c2e0b
+            </div>
+
+            <div class="color-box" style="background-color: #433d3d;">
+                #433d3d
+            </div>
+
+            <div class="color-box" style="background-color: #282828;">
+                #282828
+            </div>
+
+            <div class="color-box" style="background-color: #c19600;">
+                #c19600
+            </div>
+
+            <div class="color-box" style="background-color: #737373;">
+                #737373
+            </div>
+
+            <div class="color-box" style="background-color: #93bf22;">
+                #93bf22
+            </div>
+
+            <div class="color-box" style="background-color: #5cb744;">
+                #5cb744
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#faf2cc" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#f7ecb5" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Union Bordeaux Bègles</div>
+        <div class="team-url">https://www.ubbrugby.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #3c4858;">
+                #3c4858<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #e89ba6;">
+                #e89ba6<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #0076c9;">
+                #0076c9
+            </div>
+
+            <div class="color-box" style="background-color: #b78a2f;">
+                #b78a2f
+            </div>
+
+            <div class="color-box" style="background-color: #343f4e;">
+                #343f4e
+            </div>
+
+            <div class="color-box" style="background-color: #ffd68d;">
+                #ffd68d
+            </div>
+
+            <div class="color-box" style="background-color: #360818;">
+                #360818
+            </div>
+
+            <div class="color-box" style="background-color: #cfcfcf;">
+                #cfcfcf
+            </div>
+
+            <div class="color-box" style="background-color: #d1d1d1;">
+                #d1d1d1
+            </div>
+
+            <div class="color-box" style="background-color: #b22222;">
+                #b22222
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#3c4858" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#e89ba6" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">ASM Clermont Auvergne</div>
+        <div class="team-url">https://www.asm-rugby.com/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #323539;">
+                #323539<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #bfe2e9;">
+                #bfe2e9<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #6c757d;">
+                #6c757d
+            </div>
+
+            <div class="color-box" style="background-color: #6610f2;">
+                #6610f2
+            </div>
+
+            <div class="color-box" style="background-color: #3dd5f3;">
+                #3dd5f3
+            </div>
+
+            <div class="color-box" style="background-color: #1877f2;">
+                #1877f2
+            </div>
+
+            <div class="color-box" style="background-color: #dde0e3;">
+                #dde0e3
+            </div>
+
+            <div class="color-box" style="background-color: #0f5132;">
+                #0f5132
+            </div>
+
+            <div class="color-box" style="background-color: #fefefe;">
+                #fefefe
+            </div>
+
+            <div class="color-box" style="background-color: #7b61ff;">
+                #7b61ff
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#323539" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#bfe2e9" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Blues</div>
+        <div class="team-url">https://www.blues.rugby/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #d6d6d6;">
+                #d6d6d6<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #f92672;">
+                #f92672<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #797979;">
+                #797979
+            </div>
+
+            <div class="color-box" style="background-color: #737373;">
+                #737373
+            </div>
+
+            <div class="color-box" style="background-color: #a9a9a9;">
+                #a9a9a9
+            </div>
+
+            <div class="color-box" style="background-color: #a6e22e;">
+                #a6e22e
+            </div>
+
+            <div class="color-box" style="background-color: #3e3e3e;">
+                #3e3e3e
+            </div>
+
+            <div class="color-box" style="background-color: #1b295b;">
+                #1b295b
+            </div>
+
+            <div class="color-box" style="background-color: #f0523d;">
+                #f0523d
+            </div>
+
+            <div class="color-box" style="background-color: #dcdfe5;">
+                #dcdfe5
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#d6d6d6" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#f92672" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Crusaders</div>
+        <div class="team-url">https://crusaders.co.nz/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #cb0f1e;">
+                #cb0f1e<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #404040;">
+                #404040<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #5c5c5c;">
+                #5c5c5c
+            </div>
+
+            <div class="color-box" style="background-color: #0078a8;">
+                #0078a8
+            </div>
+
+            <div class="color-box" style="background-color: #c05621;">
+                #c05621
+            </div>
+
+            <div class="color-box" style="background-color: #7b341e;">
+                #7b341e
+            </div>
+
+            <div class="color-box" style="background-color: #7d101a;">
+                #7d101a
+            </div>
+
+            <div class="color-box" style="background-color: #4a5568;">
+                #4a5568
+            </div>
+
+            <div class="color-box" style="background-color: #94c1d4;">
+                #94c1d4
+            </div>
+
+            <div class="color-box" style="background-color: #ff4e00;">
+                #ff4e00
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#cb0f1e" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#404040" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+    <div class="team-card">
+        <div class="team-name">Chiefs</div>
+        <div class="team-url">https://www.chiefs.co.nz/</div>
+        <div class="color-palette">
+
+            <div class="color-box" style="background-color: #2b2724;">
+                #2b2724<span class="primary-label">Primary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #3498db;">
+                #3498db<span class="secondary-label">Secondary</span>
+            </div>
+
+            <div class="color-box" style="background-color: #523f6d;">
+                #523f6d
+            </div>
+
+            <div class="color-box" style="background-color: #011835;">
+                #011835
+            </div>
+
+            <div class="color-box" style="background-color: #f04040;">
+                #f04040
+            </div>
+
+            <div class="color-box" style="background-color: #314475;">
+                #314475
+            </div>
+
+            <div class="color-box" style="background-color: #fffce5;">
+                #fffce5
+            </div>
+
+            <div class="color-box" style="background-color: #07526c;">
+                #07526c
+            </div>
+
+            <div class="color-box" style="background-color: #f35160;">
+                #f35160
+            </div>
+
+            <div class="color-box" style="background-color: #fff9f9;">
+                #fff9f9
+            </div>
+
+        </div>
+        <div class="edit-section">
+            <label>Primary: <input type="text" class="edit-input" value="#2b2724" placeholder="#e95506"></label>
+            <label style="margin-left: 20px;">Secondary: <input type="text" class="edit-input" value="#3498db" placeholder="#12aaab"></label>
+        </div>
+    </div>
+
+</body>
+</html>

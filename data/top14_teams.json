@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Stade Toulousain",
+        "name_ja": "トゥールーズ",
+        "slug": "toulouse",
+        "url": "https://all.rugby/club/toulouse/squad"
+    },
+    {
+        "name": "Bordeaux Bègles",
+        "name_ja": "ボルドー・ベグル",
+        "slug": "bordeaux",
+        "url": "https://all.rugby/club/bordeaux/squad"
+    },
+    {
+        "name": "Stade Français Paris",
+        "name_ja": "スタッド・フランセ",
+        "slug": "paris",
+        "url": "https://all.rugby/club/paris/squad"
+    },
+    {
+        "name": "RC Toulon",
+        "name_ja": "トゥーロン",
+        "slug": "toulon",
+        "url": "https://all.rugby/club/toulon/squad"
+    },
+    {
+        "name": "Stade Rochelais",
+        "name_ja": "ラ・ロシェル",
+        "slug": "la-rochelle",
+        "url": "https://all.rugby/club/la-rochelle/squad"
+    },
+    {
+        "name": "Racing 92",
+        "name_ja": "ラシン92",
+        "slug": "racing-92",
+        "url": "https://all.rugby/club/racing-92/squad"
+    },
+    {
+        "name": "Lyon OU",
+        "name_ja": "リヨン",
+        "slug": "lyon",
+        "url": "https://all.rugby/club/lyon/squad"
+    },
+    {
+        "name": "Castres Olympique",
+        "name_ja": "カストル",
+        "slug": "castres",
+        "url": "https://all.rugby/club/castres/squad"
+    },
+    {
+        "name": "Section Paloise",
+        "name_ja": "ポー",
+        "slug": "pau",
+        "url": "https://all.rugby/club/pau/squad"
+    },
+    {
+        "name": "USA Perpignan",
+        "name_ja": "ペルピニャン",
+        "slug": "perpignan",
+        "url": "https://all.rugby/club/perpignan/squad"
+    },
+    {
+        "name": "Aviron Bayonnais",
+        "name_ja": "バイヨンヌ",
+        "slug": "bayonne",
+        "url": "https://all.rugby/club/bayonne/squad"
+    },
+    {
+        "name": "ASM Clermont Auvergne",
+        "name_ja": "クレルモン",
+        "slug": "clermont",
+        "url": "https://all.rugby/club/clermont/squad"
+    },
+    {
+        "name": "Montpellier Hérault Rugby",
+        "name_ja": "モンペリエ",
+        "slug": "montpellier",
+        "url": "https://all.rugby/club/montpellier/squad"
+    },
+    {
+        "name": "RC Vannes",
+        "name_ja": "ヴァンヌ",
+        "slug": "vannes",
+        "url": "https://all.rugby/club/vannes/squad"
+    }
+]

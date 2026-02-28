@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>東海大学 出身選手一覧 | RugbyPick</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #f5f7f9;
+            color: #484848;
+            line-height: 1.6;
+        }
+        .header-container {
+            background-color: #0097B2;
+            padding: 15px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .site-title {
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .nav-container {
+            background-color: #0097B2;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+        .nav-menu {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            gap: 30px;
+            list-style: none;
+        }
+        .nav-menu a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 12px 0;
+            display: block;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .school-header {
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border-top: 5px solid #0097B2;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .school-name {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .school-type {
+            font-size: 14px;
+            color: #666;
+            background: #eee;
+            padding: 4px 12px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ddd;
+        }
+        .players-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .player-card {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: transform 0.2s;
+            border: 1px solid #efefef;
+        }
+        .player-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+            border-color: #0097B2;
+        }
+        .player-pos {
+            background: #f0f4f8;
+            color: #0097B2;
+            font-weight: 700;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+            min-width: 50px;
+            text-align: center;
+        }
+        .player-name {
+            font-weight: 700;
+            font-size: 16px;
+            color: #333;
+        }
+        .player-team {
+            font-size: 13px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header class="header-container">
+        <div class="header-content">
+            <a href="../../index.html" class="site-title"><img src="../logo.png" alt="RugbyPick" style="height:40px; vertical-align:middle;"></a>
+        </div>
+    </header>
+    <nav class="nav-container">
+        <ul class="nav-menu">
+            <li><a href="../../index.html">ホーム</a></li>
+            <li><a href="../leagues.html">リーグ一覧</a></li>
+            <li><a href="../teams.html">チーム一覧</a></li>
+            <li><a href="../players.html">選手一覧</a></li>
+            <li><a href="../category/domestic/leagueone/index.html">リーグワン</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div class="school-header">
+            <div class="school-name">東海大学</div>
+            <span class="school-type">大学</span>
+            <div style="margin-top: 15px; font-weight: 700; color: #0097B2;">
+                登録OB選手: 74名
+            </div>
+        </div>
+
+        <h2 class="section-title">出身選手一覧</h2>
+        <div class="players-grid">
+            
+        <a href="../category/domestic/leagueone/leagueone-div2/toyota-shokki-shuttles-aichi/kazushi_murata_lo_484403.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">村田 和志</div>
+                <div class="player-team">豊田自動織機シャトルズ愛知</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/toyota-shokki-shuttles-aichi/siale_otuhouma_lo_484404.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">シアレ ・オトゥホウマ</div>
+                <div class="player-team">豊田自動織機シャトルズ愛知</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/yuma_nakagawa_lo_484526.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">中川 湧眞</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/mie-honda-heat/ryutaro_nakayama_lo_484670.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">中山 竜太朗</div>
+                <div class="player-team">三重ホンダヒート</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/yuta_okamura_lo_484347.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">岡村 優太</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kubota-spears-funabashi-tokyo-bay/towa_kondo_lo_483733.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">近藤 翔耶</div>
+                <div class="player-team">クボタスピアーズ船橋・東京ベイ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/secom-rugguts/daichi_inami_lo_484086.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">伊波 大地</div>
+                <div class="player-team">狭山セコムラガッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/secom-rugguts/yuga_kawase_lo_484088.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">川瀬 悠河</div>
+                <div class="player-team">狭山セコムラガッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/yokohama-canon-eagles/yuragi_muto_lo_484854.html" class="player-card">
+            <div class="player-pos">SO</div>
+            <div class="player-info">
+                <div class="player-name">武藤 ゆらぎ</div>
+                <div class="player-team">横浜キヤノンイーグルス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/nec-green-rockets-tokatsu/kosuke_shimoe_lo_483536.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">下江 康輔</div>
+                <div class="player-team">NECグリーンロケッツ東葛</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/urayasu-d-rocks/kentaro_nanimatsu_lo_483522.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">何松 健太郎</div>
+                <div class="player-team">浦安D-Rocks</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/saitama-panasonic-wildknights/yoshiaki_taniguchi_lo_484080.html" class="player-card">
+            <div class="player-pos">FB</div>
+            <div class="player-info">
+                <div class="player-name">谷口 宜顕</div>
+                <div class="player-team">埼玉パナソニックワイルドナイツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hino-reddolphins/kousei_tamaki_lo_485389.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">玉木 皓盛</div>
+                <div class="player-team">日野レッドドルフィンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/yoji_shiina_lo_483828.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">椎名 耀二</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/yushi_inoue_lo_484545.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">井上 優士</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/afu_ofeina_lo_484388.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">アフ ・オフィナ</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/shizuoka-bluerevs/shunsuke_ito_lo_484161.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">伊藤 峻祐</div>
+                <div class="player-team">静岡ブルーレヴズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hino-reddolphins/shoei_ijima_lo_485378.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">井島 彰英</div>
+                <div class="player-team">日野レッドドルフィンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/rintaro_maruyama_lo_484536.html" class="player-card">
+            <div class="player-pos">SO</div>
+            <div class="player-info">
+                <div class="player-name">丸山 凜太朗</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/takahiro_hayashi_lo_484547.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">林 隆広</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/mie-honda-heat/katsuyuki_hoshino_lo_484692.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">星野 克之</div>
+                <div class="player-team">三重ホンダヒート</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/yokohama-canon-eagles/kaito_doichi_lo_484807.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">土一 海人</div>
+                <div class="player-team">横浜キヤノンイーグルス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/sho_maeda_lo_483948.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">前田 翔</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/sena_kimura_lo_484355.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">木村 星南</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toyota-verblitz/ryusei_koike_lo_484458.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">小池 隆成</div>
+                <div class="player-team">トヨタヴェルブリッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/leriro-fukuoka/shunya_kato_lo_484912.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">加藤 舜也</div>
+                <div class="player-team">ルリーロ福岡</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/shizuoka-bluerevs/richard_goh_jones_lo_484167.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">ジョーンズ リチャード剛</div>
+                <div class="player-team">静岡ブルーレヴズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hino-reddolphins/yuto_tokuda_lo_484586.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">徳田 悠人</div>
+                <div class="player-team">日野レッドドルフィンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/daiki_yokota_lo_483800.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">横田 大輝</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/kei_takusagawa_lo_483805.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">田草川 恵</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/secom-rugguts/kanta_noguchi_lo_484125.html" class="player-card">
+            <div class="player-pos">FB</div>
+            <div class="player-info">
+                <div class="player-name">野口 幹太</div>
+                <div class="player-team">狭山セコムラガッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/tomoya_nakamura_lo_484562.html" class="player-card">
+            <div class="player-pos">SH</div>
+            <div class="player-info">
+                <div class="player-name">中村 友哉</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/mie-honda-heat/ikuma_yamada_lo_484684.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">山田 生真</div>
+                <div class="player-team">三重ホンダヒート</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/mitsubishi-sagamihara-dynaboars/takumi_sugiura_lo_484747.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">杉浦 拓実</div>
+                <div class="player-team">三菱重工相模原ダイナボアーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/yokohama-canon-eagles/lekima_nasamila_lo_484852.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">レキマ ・ナサミラ</div>
+                <div class="player-team">横浜キヤノンイーグルス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/waisake_raratubua_lo_483968.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">ワイサケ ・ララトゥブア</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hino-reddolphins/noah_tovio_lo_484589.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">ノア ・トビオ</div>
+                <div class="player-team">日野レッドドルフィンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/yuta_sugiyama_lo_483806.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">杉山 祐太</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/kota_nakamura_lo_483814.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">中村 匡汰</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/akihide_onogi_lo_484557.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">小野木 晃英</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/hayato_yokoi_lo_484563.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">横井 隼</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/yokohama-canon-eagles/kazufumi_yamasuga_lo_484833.html" class="player-card">
+            <div class="player-pos">SH</div>
+            <div class="player-info">
+                <div class="player-name">山菅 一史</div>
+                <div class="player-team">横浜キヤノンイーグルス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/taichi_mano_lo_484364.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">眞野 泰地</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/yakult-levins/daichi_kono_lo_484786.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">河野 大地</div>
+                <div class="player-team">ヤクルトレビンズ戸田</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/tokyo-suntory-sungoliath/kan_nakano_lo_484335.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">中野 幹</div>
+                <div class="player-team">東京サントリーサンゴリアス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/kyushu-electric-kyuden-voltex/keito_honda_lo_483701.html" class="player-card">
+            <div class="player-pos">FB</div>
+            <div class="player-info">
+                <div class="player-name">本田 佳人</div>
+                <div class="player-team">九州電力キューデンヴォルテクス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/kamaishi-seawaves/naoki_ouno_lo_484505.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">王野 尚希</div>
+                <div class="player-team">日本製鉄釜石シーウェイブス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toyota-verblitz/ryusei_kato_lo_484467.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">加藤 竜聖</div>
+                <div class="player-team">トヨタヴェルブリッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/secom-rugguts/kanaru_takahashi_lo_484134.html" class="player-card">
+            <div class="player-pos">SH</div>
+            <div class="player-info">
+                <div class="player-name">高橋 香成</div>
+                <div class="player-team">狭山セコムラガッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/toyota-shokki-shuttles-aichi/takuya_tsushida_lo_484433.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">津志田 卓哉</div>
+                <div class="player-team">豊田自動織機シャトルズ愛知</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/ricoh-blackrams-tokyo/yuki_ikeda_lo_484880.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">池田 悠希</div>
+                <div class="player-team">リコーブラックラムズ東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/urayasu-d-rocks/norifumi_hashimoto_lo_483485.html" class="player-card">
+            <div class="player-pos">SH</div>
+            <div class="player-info">
+                <div class="player-name">橋本 法史</div>
+                <div class="player-team">浦安D-Rocks</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/ataata_moeakiola_lo_483950.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">アタアタ ・モエアキオラ</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/saitama-panasonic-wildknights/ryuji_noguchi_lo_484062.html" class="player-card">
+            <div class="player-pos">FB</div>
+            <div class="player-info">
+                <div class="player-name">野口 竜司</div>
+                <div class="player-team">埼玉パナソニックワイルドナイツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toyota-verblitz/shogo_miura_lo_484471.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">三浦 昌悟</div>
+                <div class="player-team">トヨタヴェルブリッツ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/chugoku-electric-red-regulions/seiya_kitajima_lo_484284.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">北島 聖也</div>
+                <div class="player-team">中国電力レッドレグリオンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/tokyo-suntory-sungoliath/tevita_tatafu_lo_484297.html" class="player-card">
+            <div class="player-pos">No8</div>
+            <div class="player-info">
+                <div class="player-name">テビタ ・タタフ</div>
+                <div class="player-team">東京サントリーサンゴリアス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/toyota-shokki-shuttles-aichi/atsushi_yumoto_lo_484419.html" class="player-card">
+            <div class="player-pos">SH</div>
+            <div class="player-info">
+                <div class="player-name">湯本 睦</div>
+                <div class="player-team">豊田自動織機シャトルズ愛知</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/takayuki_watanabe_lo_483965.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">渡邉 隆之</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/kurita-watergush-akishima/hiroki_kawase_lo_483812.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">川瀬 大輝</div>
+                <div class="player-team">クリタウォーターガッシュ昭島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/kamaishi-seawaves/osukalloyd_murata_lo_484492.html" class="player-card">
+            <div class="player-pos">CTB</div>
+            <div class="player-info">
+                <div class="player-name">村田 オスカロイド</div>
+                <div class="player-team">日本製鉄釜石シーウェイブス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/shohei_hirano_lo_484529.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">平野 翔平</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hanazono-kintetsu-liners/daisuke_noguchi_lo_484560.html" class="player-card">
+            <div class="player-pos">SO</div>
+            <div class="player-info">
+                <div class="player-name">野口 大輔</div>
+                <div class="player-team">花園近鉄ライナーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/urayasu-d-rocks/kai_ishii_lo_483508.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">石井 魁</div>
+                <div class="player-team">浦安D-Rocks</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/hikaru_hashimoto_lo_483958.html" class="player-card">
+            <div class="player-pos">FL</div>
+            <div class="player-info">
+                <div class="player-name">橋本 皓</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/kobelco-kobe-steelers/takuya_kitade_lo_483946.html" class="player-card">
+            <div class="player-pos">HO</div>
+            <div class="player-info">
+                <div class="player-name">北出 卓也</div>
+                <div class="player-team">コベルコ神戸スティーラーズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/kamaishi-seawaves/dallas_tatana_lo_484494.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">タタナ ダラス</div>
+                <div class="player-team">日本製鉄釜石シーウェイブス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/kamaishi-seawaves/kodai_ono_lo_484500.html" class="player-card">
+            <div class="player-pos">WTB</div>
+            <div class="player-info">
+                <div class="player-name">小野 航大</div>
+                <div class="player-team">日本製鉄釜石シーウェイブス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div3/mazda-skyactivs-hiroshima/tomonori_koyanagi_lo_484655.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">小ヤナギ</div>
+                <div class="player-team">マツダスカイアクティブズ広島</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div2/hino-reddolphins/makoto_tsuchiya_lo_484596.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">土屋 眞</div>
+                <div class="player-team">日野レッドドルフィンズ</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/yokohama-canon-eagles/ryuta_yasui_lo_484839.html" class="player-card">
+            <div class="player-pos">LO</div>
+            <div class="player-info">
+                <div class="player-name">安井 龍太</div>
+                <div class="player-team">横浜キヤノンイーグルス</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/michael_leitch_lo_484358.html" class="player-card">
+            <div class="player-pos">No8</div>
+            <div class="player-info">
+                <div class="player-name">リーチ マイケル</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/shohei_toyoshima_lo_484361.html" class="player-card">
+            <div class="player-pos">FB</div>
+            <div class="player-info">
+                <div class="player-name">豊島 翔平</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        <a href="../category/domestic/leagueone/leagueone-div1/toshiba-brave-lupus-tokyo/masataka_mikami_lo_484377.html" class="player-card">
+            <div class="player-pos">PR</div>
+            <div class="player-info">
+                <div class="player-name">三上 正貴</div>
+                <div class="player-team">東芝ブレイブルーパス東京</div>
+            </div>
+        </a>
+        
+        </div>
+    </div>
+</body>
+</html>

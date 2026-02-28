@@ -1,0 +1,310 @@
+[
+  {
+    "league": "League One",
+    "name": "クボタスピアーズ船橋・東京ベイ",
+    "url": "https://www.kubota-spears.com/",
+    "colors": [
+      "#007aff",
+      "#448cbc",
+      "#fadfde",
+      "#00a8a9",
+      "#e95506",
+      "#666666",
+      "#eb5e1e",
+      "#471f99",
+      "#dedede",
+      "#125152"
+    ],
+    "primary": "#007aff",
+    "secondary": "#448cbc"
+  },
+  {
+    "league": "League One",
+    "name": "東京サントリーサンゴリアス",
+    "url": "https://www.suntory.co.jp/culture-sports/sungoliath/",
+    "colors": [
+      "#7bab07",
+      "#a9a9a9",
+      "#868686",
+      "#929292",
+      "#404040",
+      "#fefefe",
+      "#5c5c5c",
+      "#393939",
+      "#8d8d8d",
+      "#e3e3e3"
+    ],
+    "primary": "#7bab07",
+    "secondary": "#a9a9a9"
+  },
+  {
+    "league": "League One",
+    "name": "埼玉パナソニックワイルドナイツ",
+    "url": "https://panasonic.co.jp/sports/rugby/",
+    "colors": [],
+    "primary": null,
+    "secondary": null
+  },
+  {
+    "league": "League One",
+    "name": "東芝ブレイブルーパス東京",
+    "url": "https://www.bravelupus.com/",
+    "colors": [
+      "#50bebf",
+      "#f5f5f6",
+      "#011835",
+      "#404040",
+      "#707070",
+      "#382110",
+      "#0461dd",
+      "#24292d",
+      "#cbcbcb",
+      "#2aabee"
+    ],
+    "primary": "#50bebf",
+    "secondary": "#f5f5f6"
+  },
+  {
+    "league": "League One",
+    "name": "横浜キヤノンイーグルス",
+    "url": "https://www.canon-eagles.jp/",
+    "colors": [
+      "#007aff",
+      "#800000",
+      "#8b8989",
+      "#8c8c8c",
+      "#b70202",
+      "#8b8987",
+      "#fefefe",
+      "#737170",
+      "#f3f3f3",
+      "#930000"
+    ],
+    "primary": "#007aff",
+    "secondary": "#800000"
+  },
+  {
+    "league": "League One",
+    "name": "トヨタヴェルブリッツ",
+    "url": "https://sports.gazoo.com/verblitz/",
+    "colors": [
+      "#272727",
+      "#151e27",
+      "#09220e",
+      "#711d2a",
+      "#1a252f",
+      "#6dbf9c",
+      "#8e8e8e",
+      "#f8b111",
+      "#6f2500",
+      "#1b5000"
+    ],
+    "primary": "#272727",
+    "secondary": "#151e27"
+  },
+  {
+    "league": "League One",
+    "name": "静岡ブルーレヴズ",
+    "url": "https://www.shizuoka-bluerevs.com/",
+    "colors": [
+      "#007aff",
+      "#003da2",
+      "#a9a9a9",
+      "#171717",
+      "#005fa2",
+      "#4b4949",
+      "#757575",
+      "#f3f3f3",
+      "#8d8d8d",
+      "#d10318"
+    ],
+    "primary": "#007aff",
+    "secondary": "#003da2"
+  },
+  {
+    "league": "League One",
+    "name": "コベルコ神戸スティーラーズ",
+    "url": "https://www.kobelcosteelers.com/",
+    "colors": [
+      "#183561",
+      "#ffebe9",
+      "#737373",
+      "#0d63ac",
+      "#232323",
+      "#f9f9f6",
+      "#1877f2",
+      "#9c7141",
+      "#ebc7b5",
+      "#fff100"
+    ],
+    "primary": "#183561",
+    "secondary": "#ffebe9"
+  },
+  {
+    "league": "League One",
+    "name": "花園近鉄ライナーズ",
+    "url": "https://www.kintetsu-liners.com/",
+    "colors": [],
+    "primary": null,
+    "secondary": null
+  },
+  {
+    "league": "League One",
+    "name": "三重ホンダヒート",
+    "url": "https://www.honda-heat.jp/",
+    "colors": [
+      "#007aff",
+      "#de623e",
+      "#0173bc",
+      "#c5001b",
+      "#a80017",
+      "#d6c460",
+      "#dbbb6a",
+      "#1a0101",
+      "#fff9eb",
+      "#9f9f9f"
+    ],
+    "primary": "#007aff",
+    "secondary": "#de623e"
+  },
+  {
+    "league": "League One",
+    "name": "日野レッドドルフィンズ",
+    "url": "https://hino-reddolphins.com/",
+    "colors": [],
+    "primary": null,
+    "secondary": null
+  },
+  {
+    "league": "League One",
+    "name": "九州電力キューデンヴォルテクス",
+    "url": "https://www.kyuden.co.jp/kyuden-vortex/",
+    "colors": [],
+    "primary": null,
+    "secondary": null
+  },
+  {
+    "league": "Top 14",
+    "name": "Stade Toulousain",
+    "url": "https://www.stadetoulousain.fr/",
+    "colors": [
+      "#161616"
+    ],
+    "primary": "#161616",
+    "secondary": null
+  },
+  {
+    "league": "Top 14",
+    "name": "Stade Rochelais",
+    "url": "https://www.staderochelais.com/",
+    "colors": [
+      "#faf2cc",
+      "#f7ecb5",
+      "#d6d6d6",
+      "#8c2e0b",
+      "#433d3d",
+      "#282828",
+      "#c19600",
+      "#737373",
+      "#93bf22",
+      "#5cb744"
+    ],
+    "primary": "#faf2cc",
+    "secondary": "#f7ecb5"
+  },
+  {
+    "league": "Top 14",
+    "name": "Union Bordeaux Bègles",
+    "url": "https://www.ubbrugby.com/",
+    "colors": [
+      "#3c4858",
+      "#e89ba6",
+      "#0076c9",
+      "#b78a2f",
+      "#343f4e",
+      "#ffd68d",
+      "#360818",
+      "#cfcfcf",
+      "#d1d1d1",
+      "#b22222"
+    ],
+    "primary": "#3c4858",
+    "secondary": "#e89ba6"
+  },
+  {
+    "league": "Top 14",
+    "name": "ASM Clermont Auvergne",
+    "url": "https://www.asm-rugby.com/",
+    "colors": [
+      "#323539",
+      "#bfe2e9",
+      "#6c757d",
+      "#6610f2",
+      "#3dd5f3",
+      "#1877f2",
+      "#dde0e3",
+      "#0f5132",
+      "#fefefe",
+      "#7b61ff"
+    ],
+    "primary": "#323539",
+    "secondary": "#bfe2e9"
+  },
+  {
+    "league": "Super Rugby",
+    "name": "Blues",
+    "url": "https://www.blues.rugby/",
+    "colors": [
+      "#d6d6d6",
+      "#f92672",
+      "#797979",
+      "#737373",
+      "#a9a9a9",
+      "#a6e22e",
+      "#3e3e3e",
+      "#1b295b",
+      "#f0523d",
+      "#dcdfe5"
+    ],
+    "primary": "#d6d6d6",
+    "secondary": "#f92672"
+  },
+  {
+    "league": "Super Rugby",
+    "name": "Crusaders",
+    "url": "https://crusaders.co.nz/",
+    "colors": [
+      "#cb0f1e",
+      "#404040",
+      "#5c5c5c",
+      "#0078a8",
+      "#c05621",
+      "#7b341e",
+      "#7d101a",
+      "#4a5568",
+      "#94c1d4",
+      "#ff4e00"
+    ],
+    "primary": "#cb0f1e",
+    "secondary": "#404040"
+  },
+  {
+    "league": "Super Rugby",
+    "name": "Chiefs",
+    "url": "https://www.chiefs.co.nz/",
+    "colors": [
+      "#2b2724",
+      "#3498db",
+      "#523f6d",
+      "#011835",
+      "#f04040",
+      "#314475",
+      "#fffce5",
+      "#07526c",
+      "#f35160",
+      "#fff9f9"
+    ],
+    "primary": "#2b2724",
+    "secondary": "#3498db"
+  }
+]

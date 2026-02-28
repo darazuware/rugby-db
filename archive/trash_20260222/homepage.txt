@@ -1,0 +1,863 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GBs"><head><script>var __ezHttpConsent={setByCat:function(src,tagType,attributes,category,force,customSetScriptFn=null){var setScript=function(){if(force||window.ezTcfConsent[category]){if(typeof customSetScriptFn==='function'){customSetScriptFn();}else{var scriptElement=document.createElement(tagType);scriptElement.src=src;attributes.forEach(function(attr){for(var key in attr){if(attr.hasOwnProperty(key)){scriptElement.setAttribute(key,attr[key]);}}});var firstScript=document.getElementsByTagName(tagType)[0];firstScript.parentNode.insertBefore(scriptElement,firstScript);}}};if(force||(window.ezTcfConsent&&window.ezTcfConsent.loaded)){setScript();}else if(typeof getEzConsentData==="function"){getEzConsentData().then(function(ezTcfConsent){if(ezTcfConsent&&ezTcfConsent.loaded){setScript();}else{console.error("cannot get ez consent data");force=true;setScript();}});}else{force=true;setScript();console.error("getEzConsentData is not a function");}},};</script>
+<script>var ezTcfConsent=window.ezTcfConsent?window.ezTcfConsent:{loaded:false,store_info:false,develop_and_improve_services:false,measure_ad_performance:false,measure_content_performance:false,select_basic_ads:false,create_ad_profile:false,select_personalized_ads:false,create_content_profile:false,select_personalized_content:false,understand_audiences:false,use_limited_data_to_select_content:false,};function getEzConsentData(){return new Promise(function(resolve){document.addEventListener("ezConsentEvent",function(event){var ezTcfConsent=event.detail.ezTcfConsent;resolve(ezTcfConsent);});});}</script>
+<script>if(typeof _setEzCookies!=='function'){function _setEzCookies(ezConsentData){var cookies=window.ezCookieQueue;for(var i=0;i<cookies.length;i++){var cookie=cookies[i];if(ezConsentData&&ezConsentData.loaded&&ezConsentData[cookie.tcfCategory]){document.cookie=cookie.name+"="+cookie.value;}}}}
+window.ezCookieQueue=window.ezCookieQueue||[];if(typeof addEzCookies!=='function'){function addEzCookies(arr){window.ezCookieQueue=[...window.ezCookieQueue,...arr];}}
+addEzCookies([{name:"ezopvc_131455",value:"1; Path=/; Domain=itsrugby.co.uk; Expires=Sat, 14 Feb 2026 15:20:45 UTC",tcfCategory:"understand_audiences",isEzoic:"true",},{name:"ezoab_131455",value:"mod333; Path=/; Domain=itsrugby.co.uk; Max-Age=7200",tcfCategory:"store_info",isEzoic:"true",},{name:"active_template::131455",value:"pub_site.1771080645; Path=/; Domain=itsrugby.co.uk; Expires=Mon, 16 Feb 2026 14:50:45 UTC",tcfCategory:"store_info",isEzoic:"true",},{name:"ezoadgid_131455",value:"-1; Path=/; Domain=itsrugby.co.uk; Max-Age=1800",tcfCategory:"understand_audiences",isEzoic:"true",},{name:"ezosuibasgeneris-1",value:"ef8f028e-ae56-4736-5051-38db2d51d6ab; Path=/; Domain=itsrugby.co.uk; Expires=Sun, 14 Feb 2027 14:50:45 UTC; Secure; SameSite=None",tcfCategory:"understand_audiences",isEzoic:"true",}]);if(window.ezTcfConsent&&window.ezTcfConsent.loaded){_setEzCookies(window.ezTcfConsent);}else if(typeof getEzConsentData==="function"){getEzConsentData().then(function(ezTcfConsent){if(ezTcfConsent&&ezTcfConsent.loaded){_setEzCookies(window.ezTcfConsent);}else{console.error("cannot get ez consent data");_setEzCookies(window.ezTcfConsent);}});}else{console.error("getEzConsentData is not a function");_setEzCookies(window.ezTcfConsent);}</script><script type="text/javascript" data-ezscrex='false' data-cfasync='false'>window._ezaq = Object.assign({"edge_cache_status":31,"edge_response_time":2723,"url":"https://www.itsrugby.co.uk/"}, typeof window._ezaq !== "undefined" ? window._ezaq : {});</script><script type="text/javascript" data-ezscrex='false' data-cfasync='false'>window._ezaq = Object.assign({"ab_test_id":"mod333"}, typeof window._ezaq !== "undefined" ? window._ezaq : {});window.__ez=window.__ez||{};window.__ez.tf={"NewBanger":"lazyload"};</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=false;__ez.queue=__ez.queue||function(){var e=0,i=0,t=[],n=!1,o=[],r=[],s=!0,a=function(e,i,n,o,r,s,a){var l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,d=this;this.name=e,this.funcName=i,this.parameters=null===n?null:w(n)?n:[n],this.isBlock=o,this.blockedBy=r,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.fWindow=l,this.isTimeDelay=!1,this.process=function(){f("... func = "+e),d.isInitialized=!0,d.isComplete=!0,f("... func.apply: "+e);var i=d.funcName.split("."),n=null,o=this.fWindow||window;i.length>3||(n=3===i.length?o[i[0]][i[1]][i[2]]:2===i.length?o[i[0]][i[1]]:o[d.funcName]),null!=n&&n.apply(null,this.parameters),!0===d.deleteWhenComplete&&delete t[e],!0===d.isBlock&&(f("----- F'D: "+d.name),m())}},l=function(e,i,t,n,o,r,s){var a=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,l=this;this.name=e,this.path=i,this.async=o,this.defer=r,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.fWindow=a,this.isTimeDelay=!1,this.isPath=function(e){return"/"===e[0]&&"/"!==e[1]},this.getSrc=function(e){return void 0!==window.__ezScriptHost&&this.isPath(e)&&"banger.js"!==this.name?window.__ezScriptHost+e:e},this.process=function(){l.isInitialized=!0,f("... file = "+e);var i=this.fWindow?this.fWindow.document:document,t=i.createElement("script");t.src=this.getSrc(this.path),!0===o?t.async=!0:!0===r&&(t.defer=!0),t.onerror=function(){var e={url:window.location.href,name:l.name,path:l.path,user_agent:window.navigator.userAgent};"undefined"!=typeof _ezaq&&(e.pageview_id=_ezaq.page_view_id);var i=encodeURIComponent(JSON.stringify(e)),t=new XMLHttpRequest;t.open("GET","//g.ezoic.net/ezqlog?d="+i,!0),t.send(),f("----- ERR'D: "+l.name),l.isError=!0,!0===l.isBlock&&m()},t.onreadystatechange=t.onload=function(){var e=t.readyState;f("----- F'D: "+l.name),e&&!/loaded|complete/.test(e)||(l.isComplete=!0,!0===l.isBlock&&m())},i.getElementsByTagName("head")[0].appendChild(t)}},d=function(e,i){this.name=e,this.path="",this.async=!1,this.defer=!1,this.isBlock=!1,this.blockedBy=[],this.isInitialized=!0,this.isError=!1,this.isComplete=i,this.proceedIfError=!1,this.isTimeDelay=!1,this.process=function(){}};function c(e,i,n,s,a,d,c,u,f){var m=new l(e,i,n,s,a,d,c,f);!0===u?o[e]=m:r[e]=m,t[e]=m,h(m)}function h(e){!0!==u(e)&&0!=s&&e.process()}function u(e){if(!0===e.isTimeDelay&&!1===n)return f(e.name+" blocked = TIME DELAY!"),!0;if(w(e.blockedBy))for(var i=0;i<e.blockedBy.length;i++){var o=e.blockedBy[i];if(!1===t.hasOwnProperty(o))return f(e.name+" blocked = "+o),!0;if(!0===e.proceedIfError&&!0===t[o].isError)return!1;if(!1===t[o].isComplete)return f(e.name+" blocked = "+o),!0}return!1}function f(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function m(){++e>200||(f("let's go"),p(o),p(r))}function p(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||u(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?f(t.name+": error"):!0===t.isComplete?f(t.name+": complete already"):!0===t.isInitialized&&f(t.name+": initialized already"):t.process()}}function w(e){return"[object Array]"==Object.prototype.toString.call(e)}return window.addEventListener("load",(function(){setTimeout((function(){n=!0,f("TDELAY -----"),m()}),5e3)}),!1),{addFile:c,addFileOnce:function(e,i,n,o,r,s,a,l,d){t[e]||c(e,i,n,o,r,s,a,l,d)},addDelayFile:function(e,i){var n=new l(e,i,!1,[],!1,!1,!0);n.isTimeDelay=!0,f(e+" ...  FILE! TDELAY"),r[e]=n,t[e]=n,h(n)},addFunc:function(e,n,s,l,d,c,u,f,m,p){!0===c&&(e=e+"_"+i++);var w=new a(e,n,s,l,d,u,f,p);!0===m?o[e]=w:r[e]=w,t[e]=w,h(w)},addDelayFunc:function(e,i,n){var o=new a(e,i,n,!1,[],!0,!0);o.isTimeDelay=!0,f(e+" ...  FUNCTION! TDELAY"),r[e]=o,t[e]=o,h(o)},items:t,processAll:m,setallowLoad:function(e){s=e},markLoaded:function(e){if(e&&0!==e.length){if(e in t){var i=t[e];!0===i.isComplete?f(i.name+" "+e+": error loaded duplicate"):(i.isComplete=!0,i.isInitialized=!0)}else t[e]=new d(e,!0);f("markLoaded dummyfile: "+t[e].name)}},logWhatsBlocked:function(){for(var e in t)!1!==t.hasOwnProperty(e)&&u(t[e])}}}();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot=__ez.dot||{};__ez.queue.addFileOnce('/detroitchicago/boise.js', '/detroitchicago/boise.js?gcb=195-0&cb=5', true, [], true, false, true, false);__ez.queue.addFileOnce('/parsonsmaize/abilene.js', '/parsonsmaize/abilene.js?gcb=195-0&cb=e80eca0cdb', true, [], true, false, true, false);__ez.queue.addFileOnce('/parsonsmaize/mulvane.js', '/parsonsmaize/mulvane.js?gcb=195-0&cb=e75e48eec0', true, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFileOnce('/detroitchicago/birmingham.js', '/detroitchicago/birmingham.js?gcb=195-0&cb=539c47377c', true, ['/parsonsmaize/abilene.js'], true, false, true, false);</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">window._ezaq = Object.assign({"ad_cache_level":1,"adpicker_placement_cnt":0,"ai_placeholder_cache_level":2,"ai_placeholder_placement_cnt":1,"domain":"itsrugby.co.uk","domain_id":131455,"ezcache_level":1,"ezcache_skip_code":7,"has_bad_image":0,"has_bad_words":0,"is_sitespeed":0,"lt_cache_level":0,"response_size":97178,"response_size_orig":88471,"response_time_orig":2673,"template_id":134,"url":"https://www.itsrugby.co.uk/","word_count":1209,"worst_bad_word_level":0}, typeof window._ezaq !== "undefined" ? window._ezaq : {});__ez.queue.markLoaded('ezaqBaseReady');</script>
+<link rel='preload' as='script' href='//securepubads.g.doubleclick.net/tag/js/gpt.js'>
+<link rel='preload' as='script' href='//go.ezodn.com/hb/dall.js?cb=195-0-145'>
+<script type="text/javascript">(function(){function storageAvailable(type){var storage;try{storage=window[type];var x='__storage_test__';storage.setItem(x,x);storage.removeItem(x);return true;}
+catch(e){return e instanceof DOMException&&(e.code===22||e.code===1014||e.name==='QuotaExceededError'||e.name==='NS_ERROR_DOM_QUOTA_REACHED')&&(storage&&storage.length!==0);}}
+function remove_ama_config(){if(storageAvailable('localStorage')){localStorage.removeItem("google_ama_config");}}
+remove_ama_config()})()</script>
+<script type="text/javascript">var ezoicTestActive = true</script>
+<script type='text/javascript' data-ezscrex='false' data-cfasync='false'>
+window.ezAnalyticsStatic = true;
+
+function analyticsAddScript(script) {
+	var ezDynamic = document.createElement('script');
+	ezDynamic.type = 'text/javascript';
+	ezDynamic.innerHTML = script;
+	document.head.appendChild(ezDynamic);
+}
+function getCookiesWithPrefix() {
+    var allCookies = document.cookie.split(';');
+    var cookiesWithPrefix = {};
+
+    for (var i = 0; i < allCookies.length; i++) {
+        var cookie = allCookies[i].trim();
+
+        for (var j = 0; j < arguments.length; j++) {
+            var prefix = arguments[j];
+            if (cookie.indexOf(prefix) === 0) {
+                var cookieParts = cookie.split('=');
+                var cookieName = cookieParts[0];
+                var cookieValue = cookieParts.slice(1).join('=');
+                cookiesWithPrefix[cookieName] = decodeURIComponent(cookieValue);
+                break; // Once matched, no need to check other prefixes
+            }
+        }
+    }
+
+    return cookiesWithPrefix;
+}
+function productAnalytics() {
+	var d = {"pr":[6,3,1],"aop":{"2":0,"21":0,"4":134},"omd5":"80e28c544c75b2ef5360cfdb6697167d"};
+	d.u = _ezaq.url;
+	d.p = _ezaq.page_view_id;
+	d.v = _ezaq.visit_uuid;
+	d.ab = _ezaq.ab_test_id;
+	d.e = JSON.stringify(_ezaq);
+	d.ref = document.referrer;
+	d.c = getCookiesWithPrefix('active_template', 'ez', 'lp_');
+	if(typeof ez_utmParams !== 'undefined') {
+		d.utm = ez_utmParams;
+	}
+	d.qs = window.location.search;
+
+	var dataText = JSON.stringify(d);
+	var xhr = new XMLHttpRequest();
+	xhr.open('POST','/ezais/analytics?cb=1', true);
+	xhr.onload = function () {
+		if (xhr.status!=200) {
+            return;
+		}
+
+        if(document.readyState !== 'loading') {
+            analyticsAddScript(xhr.response);
+            return;
+        }
+
+        var eventFunc = function() {
+            if(document.readyState === 'loading') {
+                return;
+            }
+            document.removeEventListener('readystatechange', eventFunc, false);
+            analyticsAddScript(xhr.response);
+        };
+
+        document.addEventListener('readystatechange', eventFunc, false);
+	};
+	xhr.setRequestHeader('Content-Type','text/plain');
+	xhr.send(dataText);
+}
+__ez.queue.addFunc("productAnalytics", "productAnalytics", null, true, ['ezaqBaseReady'], false, false, false, true);
+</script><script type="text/javascript" data-ezscrex="false" data-cfasync="false" async="">
+function productEzoicAds() {
+if(window.ezDisableAds === true) {
+	return;
+}
+window.google_reactive_ads_global_state = {
+                adCount: {},
+                floatingAdsStacking: { maxZIndexListeners: [], maxZIndexRestrictions: {}, nextRestrictionId: 0 },
+                messageValidationEnabled: false,
+                reactiveTypeDisabledByPublisher: {},
+                reactiveTypeEnabledInAsfe: {},
+                sideRailAvailableSpace: [],
+                sideRailOverlappableElements: [],
+                stateForType: {},
+                tagSpecificState: {},
+                wasPlaTagProcessed: true,
+                wasReactiveAdConfigReceived: { 1: true, 2: true, 8: true },
+                wasReactiveAdVisible: {},
+                wasReactiveTagRequestSent: true,
+                description: "Can't disable auto ads programmatically on the page, so here we are!"
+            };
+var d = {"ab":"","km":{},"pv":"","vu":"88acd8ca-f7bd-499f-6dea-d16ce5bdc1d2","r":{"r":[{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-250x250-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-300x250-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-320x100-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-300x50v2-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-320x50-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-336x280-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-320x100v2-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-468x60-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-728x90-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-970x250-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-300x250x3-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-702-bottom_of_page-970x90-702-nonexxxnonexxxxxxezmaxscaleval100 ","s":702},{"p":" ezoic_pub_ad_placeholder-100-bottom_floating-970x90-100-nonexxxnonexxxxxxezmaxscaleval100 ","s":100,"h":90,"w":970,"r":true},{"p":" ezoic_pub_ad_placeholder-138-edge-160x600-138-nonexxxnonexxxxxxezmaxscaleval100 ","s":138}],"a":{"100":true,"12":true,"138":true,"6":true,"702":true},"g":-1,"l":{"0":42,"1":3,"2":2,"3":1,"4":-1,"5":-1},"m":{"0":3,"1":3,"2":2,"3":1,"4":-1,"5":-1},"v":0,"ve":false,"hr":false,"sa":false},"cr":"","tid":134,"tn":"pub_site","url":"","wc":1209,"ff":1,"dhh":""};
+d.ab = _ezaq.ab_test_id;
+d.pv = _ezaq.page_view_id;
+d.vu = _ezaq.visit_uuid;
+d.url = window.location.href;
+var dynamicAddScript = function(script) {
+	if(window.ezFinishedStatic === true) {
+		console.error("attempted to load dynamic script again");
+		return;
+	}
+	var errorMessages = [];
+	function errorHandler(event) {
+	  var errorObj = event.error;
+	  if (errorObj && errorObj.stack && errorObj.stack.indexOf('dynamicAddScript') !== -1) {
+		var errorMessage = {
+		  Message: event.message,
+		  LineNo: event.lineno,
+		  ColumnNo: event.colno,
+		  Stack: errorObj.stack
+		};
+		errorMessages.push(errorMessage);
+	  }
+
+	  if (typeof window.onerror === 'function') {
+		window.onerror.apply(this, arguments);
+	  }
+	}
+ 	window.addEventListener('error', errorHandler);
+
+	var ezDynamic = document.createElement('script');
+	ezDynamic.type = 'text/javascript';
+	ezDynamic.innerHTML = script;
+	document.head.appendChild(ezDynamic);
+
+	window.removeEventListener('error', errorHandler);
+	if (window.ezFinishedStatic !== true || typeof window.ezstaticerrors !== 'undefined') {
+		d.Script = script;
+		d.ErrorMessages = JSON.stringify(errorMessages);
+		d.ErrorStaticMessages = window.ezstaticerrors || '';
+		var dataTxt = JSON.stringify(d);
+		if (dataTxt.length > 0) {
+			var logXHR = new XMLHttpRequest();
+			logXHR.open('POST','/ezais/log?cb=1', true);
+			logXHR.setRequestHeader('Content-Type','application/json');
+			logXHR.send(dataTxt);
+		}
+	}
+};
+var dataText = JSON.stringify(d);
+if (dataText.length > 0) {
+	var startTime = Date.now() - __ez.stms;
+
+	var xhr = new XMLHttpRequest();
+	xhr.open('POST','/ezais/dynamic?cb=1', true);
+	xhr.onload = function () {
+		if (xhr.status!=200) {
+            return;
+		}
+
+        if(document.readyState !== 'loading') {
+            dynamicAddScript(xhr.response);
+            return;
+        }
+
+        var eventFunc = function() {
+            if(document.readyState === 'loading') {
+                return;
+            }
+            document.removeEventListener('readystatechange', eventFunc, false);
+            dynamicAddScript(xhr.response);
+        };
+
+        document.addEventListener('readystatechange', eventFunc, false);
+	};
+	xhr.setRequestHeader('Content-Type','text/plain');
+	xhr.send(dataText);
+}
+}
+
+function callDynamicAfterConsent() {
+	if (window.__tcfapi) {
+		window.__tcfapi("addEventListener", 2, function (tcdata, success) {
+			if (success) {
+				if(tcdata.gdprApplies == true) {
+					if(tcdata.eventStatus === "useractioncomplete" || tcdata.eventStatus === "tcloaded") {
+						__ez.queue.addFunc("productEzoicAds", "productEzoicAds", null, true, ['ezaqReady'], false, false, false, true);
+					}
+				} else {
+					__ez.queue.addFunc("productEzoicAds", "productEzoicAds", null, true, ['ezaqReady'], false, false, false, true);
+				}
+			}
+		});
+	} else {
+		__ez.queue.addFunc("productEzoicAds", "productEzoicAds", null, true, ['ezaqReady'], false, false, false, true);
+	}
+}
+
+
+if (window.__tcfapi) {
+	callDynamicAfterConsent();
+} else {
+	if (typeof window.ezCMPQueue !== "undefined") {
+		window.ezCMPQueue.push(callDynamicAfterConsent);
+	} else {
+		__ez.queue.addFunc("productEzoicAds", "productEzoicAds", null, true, ['ezaqReady'], false, false, false, true);
+	}
+}
+</script><base href="https://www.itsrugby.co.uk/"/>
+
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
+    <meta name="title" content="Rugby on Itsrugby.co.uk : Everything on Premiership, Magners League, English/Welsh Cup, 6 Nations, Heineken Cup - It&#39;s rugby"/>
+    <title>Rugby on Itsrugby.co.uk : Everything on Premiership, Magners League, English/Welsh Cup, 6 Nations, Heineken Cup - It&#39;s rugby</title>
+    
+<meta name="impact-site-verification" value="036f16f8-f15f-4d32-99cb-7d4b67e7514e"/>
+
+  <!--<meta name="keywords" CONTENT="rugby,result,aviva, premiership,stat,statistics, championship,national,itsrugby.co.uk,calendar" />-->
+  <meta content="https://www.itsrugby.co.uk" name="Identifier-URL"/>
+  <meta content="en-GB" name="language"/>
+  <meta name="Classification" content="rugby , results, statistics, standing"/>
+  <meta name="revisit-after" content="1 days"/>
+  <meta name="Author" content="SARL It&#39;s rugby"/>
+  <meta name="Identifier-URL" content="https://www.itsrugby.co.uk"/>
+  
+<meta name="apple-itunes-app" content="app-id=432282206"/>
+<meta name="Copyright" content="SARL It&#39;s rugby"/>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<meta name="referrer" content="origin"/>
+<meta http-equiv="Pragma" content="private"/>
+<meta http-equiv="Cache-Control" content="max-age=60"/>
+<meta name="apple-itunes-app" content="app-id=432282206"/>
+<!--<meta http-equiv="refresh" content="300">-->
+<meta name="verify-v1" content="SYKor22B6WKbd9vug5qsYRJVlZ/N4eohJJ6Wk8TeAxE="/>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"/>
+
+<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css"/>
+
+<link rel="stylesheet" href="https://www.itsrugby.fr/css/teststylev10.css?time=1771080643&amp;aaa=ccc" type="text/css"/>
+<link rel="stylesheet" href="https://www.itsrugby.fr/css/allv2.css?time=1771080643&amp;aaa=ccc" type="text/css"/>
+<link rel="stylesheet" href="https://www.itsrugby.fr/css/itsv3.css?time=1771080643&amp;aaa=ccc" type="text/css"/>
+<link rel="stylesheet" href="https://www.itsrugby.fr/css/sublimeskinz.css?time=1771080643&amp;aaa=ccc" type="text/css"/>
+
+  <link rel="stylesheet" id="dashicons-css" href="//wp2.itsrugby.fr/wp-includes/css/dashicons.min.css?ver=6.0.1" media="all"/>
+<link rel="stylesheet" id="admin-bar-css" href="//wp2.itsrugby.fr/wp-includes/css/admin-bar.min.css?ver=6.0.1" media="all"/>
+<style id="wp-block-site-logo-inline-css">
+.wp-block-site-logo{line-height:0}.wp-block-site-logo a{display:inline-block}.wp-block-site-logo.is-default-size img{width:120px;height:auto}.wp-block-site-logo a,.wp-block-site-logo img{border-radius:inherit}.wp-block-site-logo.aligncenter{margin-left:auto;margin-right:auto;text-align:center}.wp-block-site-logo.is-style-rounded{border-radius:9999px}
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}
+:where(.wp-block-group.has-background){padding:1.25em 2.375em}
+</style>
+<style id="wp-block-template-part-inline-css">
+.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id="wp-block-post-title-inline-css">
+.wp-block-post-title{word-break:break-word}.wp-block-post-title a{display:inline-block}
+</style>
+<style id="wp-block-post-featured-image-inline-css">
+.wp-block-post-featured-image{margin-left:0;margin-right:0}.wp-block-post-featured-image a{display:block}.wp-block-post-featured-image img{max-width:100%;width:100%;height:auto;vertical-align:bottom}.wp-block-post-featured-image.alignfull img,.wp-block-post-featured-image.alignwide img{width:100%}
+</style>
+<style id="wp-block-separator-inline-css">
+@charset "UTF-8";.wp-block-separator{border-top:1px solid;border-bottom:1px solid}.wp-block-separator.is-style-dots{background:none!important;border:none;text-align:center;line-height:1;height:auto}.wp-block-separator.is-style-dots:before{content:"···";color:currentColor;font-size:1.5em;letter-spacing:2em;padding-left:2em;font-family:serif}
+.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}
+</style>
+<style id="wp-block-post-author-inline-css">
+.wp-block-post-author{display:flex;flex-wrap:wrap}.wp-block-post-author__byline{width:100%;margin-top:0;margin-bottom:0;font-size:.5em}.wp-block-post-author__avatar{margin-right:1em}.wp-block-post-author__bio{margin-bottom:.7em;font-size:.7em}.wp-block-post-author__content{flex-grow:1;flex-basis:0}.wp-block-post-author__name{margin:0}
+</style>
+<style id="wp-block-post-terms-inline-css">
+.wp-block-post-terms__separator{white-space:pre-wrap}
+</style>
+<style id="wp-block-post-comments-inline-css">
+.wp-block-post-comments .alignleft{float:left}.wp-block-post-comments .alignright{float:right}.wp-block-post-comments .navigation:after{content:"";display:table;clear:both}.wp-block-post-comments .commentlist{clear:both;list-style:none;margin:0;padding:0}.wp-block-post-comments .commentlist .comment{min-height:2.25em;padding-left:3.25em}.wp-block-post-comments .commentlist .comment p{font-size:1em;line-height:1.8;margin:1em 0}.wp-block-post-comments .commentlist .children{list-style:none;margin:0;padding:0}.wp-block-post-comments .comment-author{line-height:1.5}.wp-block-post-comments .comment-author .avatar{border-radius:1.5em;display:block;float:left;height:2.5em;margin-top:.5em;margin-right:.75em;width:2.5em}.wp-block-post-comments .comment-author cite{font-style:normal}.wp-block-post-comments .comment-meta{font-size:.875em;line-height:1.5}.wp-block-post-comments .comment-meta b{font-weight:400}.wp-block-post-comments .comment-meta .comment-awaiting-moderation{margin-top:1em;margin-bottom:1em;display:block}.wp-block-post-comments .comment-body .commentmetadata{font-size:.875em}.wp-block-post-comments .comment-form-author label,.wp-block-post-comments .comment-form-comment label,.wp-block-post-comments .comment-form-email label,.wp-block-post-comments .comment-form-url label{display:block;margin-bottom:.25em}.wp-block-post-comments .comment-form input:not([type=submit]):not([type=checkbox]),.wp-block-post-comments .comment-form textarea{display:block;box-sizing:border-box;width:100%}.wp-block-post-comments .comment-form-cookies-consent{display:flex;gap:.25em}.wp-block-post-comments .comment-form-cookies-consent #wp-comment-cookies-consent{margin-top:.35em}.wp-block-post-comments .comment-reply-title{margin-bottom:0}.wp-block-post-comments .comment-reply-title :where(small){font-size:var(--wp--preset--font-size--medium,smaller);margin-left:.5em}.wp-block-post-comments .reply{font-size:.875em;margin-bottom:1.4em}.wp-block-post-comments input:not([type=submit]),.wp-block-post-comments textarea{border:1px solid #949494;font-size:1em;font-family:inherit}.wp-block-post-comments input:not([type=submit]):not([type=checkbox]),.wp-block-post-comments textarea{padding:calc(.667em + 2px)}.wp-block-post-comments input[type=submit]{border:none}
+</style>
+<style id="wp-block-buttons-inline-css">
+.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-button.aligncenter{text-align:center}
+</style>
+<style id="wp-block-button-inline-css">
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;cursor:pointer;display:inline-block;font-size:1.125em;padding:calc(.667em + 2px) calc(1.333em + 2px);text-align:center;text-decoration:none;word-break:break-word;box-sizing:border-box}.wp-block-button__link:active,.wp-block-button__link:focus,.wp-block-button__link:hover,.wp-block-button__link:visited{color:#fff}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*0.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*0.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*0.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{width:100%;flex-basis:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}.is-style-outline>:where(.wp-block-button__link),:where(.wp-block-button__link).is-style-outline{border:2px solid;padding:.667em 1.333em}.is-style-outline>.wp-block-button__link:not(.has-text-color),.wp-block-button__link.is-style-outline:not(.has-text-color){color:currentColor}.is-style-outline>.wp-block-button__link:not(.has-background),.wp-block-button__link.is-style-outline:not(.has-background){background-color:transparent}
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color),html :where([style*=border-width]){border-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--foreground: #000000;--wp--preset--color--background: #ffffff;--wp--preset--color--primary: #1a4548;--wp--preset--color--secondary: #ffe2c7;--wp--preset--color--tertiary: #F6F6F6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--vertical-secondary-to-tertiary: linear-gradient(to bottom,var(--wp--preset--color--secondary) 0%,var(--wp--preset--color--tertiary) 100%);--wp--preset--gradient--vertical-secondary-to-background: linear-gradient(to bottom,var(--wp--preset--color--secondary) 0%,var(--wp--preset--color--background) 100%);--wp--preset--gradient--vertical-tertiary-to-background: linear-gradient(to bottom,var(--wp--preset--color--tertiary) 0%,var(--wp--preset--color--background) 100%);--wp--preset--gradient--diagonal-primary-to-foreground: linear-gradient(to bottom right,var(--wp--preset--color--primary) 0%,var(--wp--preset--color--foreground) 100%);--wp--preset--gradient--diagonal-secondary-to-background: linear-gradient(to bottom right,var(--wp--preset--color--secondary) 50%,var(--wp--preset--color--background) 50%);--wp--preset--gradient--diagonal-background-to-secondary: linear-gradient(to bottom right,var(--wp--preset--color--background) 50%,var(--wp--preset--color--secondary) 50%);--wp--preset--gradient--diagonal-tertiary-to-background: linear-gradient(to bottom right,var(--wp--preset--color--tertiary) 50%,var(--wp--preset--color--background) 50%);--wp--preset--gradient--diagonal-background-to-tertiary: linear-gradient(to bottom right,var(--wp--preset--color--background) 50%,var(--wp--preset--color--tertiary) 50%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--duotone--foreground-and-background: url('#wp-duotone-foreground-and-background');--wp--preset--duotone--foreground-and-secondary: url('#wp-duotone-foreground-and-secondary');--wp--preset--duotone--foreground-and-tertiary: url('#wp-duotone-foreground-and-tertiary');--wp--preset--duotone--primary-and-background: url('#wp-duotone-primary-and-background');--wp--preset--duotone--primary-and-secondary: url('#wp-duotone-primary-and-secondary');--wp--preset--duotone--primary-and-tertiary: url('#wp-duotone-primary-and-tertiary');--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--font-family--system-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;--wp--preset--font-family--source-serif-pro: "Source Serif Pro", serif;--wp--custom--spacing--small: max(1.25rem, 5vw);--wp--custom--spacing--medium: clamp(2rem, 8vw, calc(4 * var(--wp--style--block-gap)));--wp--custom--spacing--large: clamp(4rem, 10vw, 8rem);--wp--custom--spacing--outer: var(--wp--custom--spacing--small, 1.25rem);--wp--custom--typography--font-size--huge: clamp(2.25rem, 4vw, 2.75rem);--wp--custom--typography--font-size--gigantic: clamp(2.75rem, 6vw, 3.25rem);--wp--custom--typography--font-size--colossal: clamp(3.25rem, 8vw, 6.25rem);--wp--custom--typography--line-height--tiny: 1.15;--wp--custom--typography--line-height--small: 1.2;--wp--custom--typography--line-height--medium: 1.4;--wp--custom--typography--line-height--normal: 1.6;}body { margin: 0; }body{background-color: var(--wp--preset--color--background);color: var(--wp--preset--color--foreground);font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);line-height: var(--wp--custom--typography--line-height--normal);--wp--style--block-gap: 1.5rem;}.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: var( --wp--style--block-gap ); }h1{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--colossal);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h2{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--small);}h3{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--huge);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h4{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--preset--font-size--x-large);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h5{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-weight: 700;line-height: var(--wp--custom--typography--line-height--normal);text-transform: uppercase;}h6{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-weight: 400;line-height: var(--wp--custom--typography--line-height--normal);text-transform: uppercase;}a{color: var(--wp--preset--color--foreground);}.wp-block-button__link{background-color: var(--wp--preset--color--primary);border-radius: 0;color: var(--wp--preset--color--background);font-size: var(--wp--preset--font-size--medium);}.wp-block-post-title{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}.wp-block-post-comments{padding-top: var(--wp--custom--spacing--small);}.wp-block-pullquote{border-width: 1px 0;}.wp-block-query-title{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--small);}.wp-block-quote{border-width: 1px;}.wp-block-site-title{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-style: italic;font-weight: normal;line-height: var(--wp--custom--typography--line-height--normal);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-color{color: var(--wp--preset--color--foreground) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-tertiary-color{color: var(--wp--preset--color--tertiary) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-background-color{background-color: var(--wp--preset--color--foreground) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-background-color{background-color: var(--wp--preset--color--tertiary) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-border-color{border-color: var(--wp--preset--color--foreground) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-border-color{border-color: var(--wp--preset--color--tertiary) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-vertical-secondary-to-tertiary-gradient-background{background: var(--wp--preset--gradient--vertical-secondary-to-tertiary) !important;}.has-vertical-secondary-to-background-gradient-background{background: var(--wp--preset--gradient--vertical-secondary-to-background) !important;}.has-vertical-tertiary-to-background-gradient-background{background: var(--wp--preset--gradient--vertical-tertiary-to-background) !important;}.has-diagonal-primary-to-foreground-gradient-background{background: var(--wp--preset--gradient--diagonal-primary-to-foreground) !important;}.has-diagonal-secondary-to-background-gradient-background{background: var(--wp--preset--gradient--diagonal-secondary-to-background) !important;}.has-diagonal-background-to-secondary-gradient-background{background: var(--wp--preset--gradient--diagonal-background-to-secondary) !important;}.has-diagonal-tertiary-to-background-gradient-background{background: var(--wp--preset--gradient--diagonal-tertiary-to-background) !important;}.has-diagonal-background-to-tertiary-gradient-background{background: var(--wp--preset--gradient--diagonal-background-to-tertiary) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}.has-source-serif-pro-font-family{font-family: var(--wp--preset--font-family--source-serif-pro) !important;}
+</style>
+<style id="wp-webfonts-inline-css">
+@font-face{font-family:"Source Serif Pro";font-style:normal;font-weight:200 900;font-display:fallback;src:local("Source Serif Pro"), url('/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:italic;font-weight:200 900;font-display:fallback;src:local("Source Serif Pro"), url('/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2') format('woff2');font-stretch:normal;}
+</style>
+<link rel="stylesheet" id="twentytwentytwo-style-css" href="//wp2.itsrugby.fr/wp-content/themes/twentytwentytwo/style.css?ver=1.2" media="all"/>
+
+<script language="javascript" type="text/javascript" src="/js/all20110218101415.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+
+function hideAndShowSubscription() {
+  var x = document.getElementById("subscriptionInfo");
+  x.style.display = "none";
+  document.cookie = "GAME_CLOSE=yes";
+}
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-81988-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JZN4621KVD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JZN4621KVD');
+</script>
+
+<style>
+.hrefNoirV2 {font-family:Tahoma;font-size:11px;color:#000; text-decoration: underline;}
+</style>
+
+<script type='text/javascript'>
+var ezoTemplate = 'pub_site';
+var ezouid = '1';
+var ezoFormfactor = '1';
+</script><script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 131455;
+var ezdomain = 'itsrugby.co.uk';
+var ezoicSearchable = 1;
+</script>
+<script async data-ezscrex="false" data-cfasync="false" src="//www.humix.com/video.js"></script>
+<script type='text/javascript' style='display:none;' async>if (typeof window.__ez !== 'undefined' && window.__ez?.queue?.addFileOnce) {window.__ez.queue.addFileOnce('identity', 'https://go.ezodn.com/detroitchicago/indy.js?cb=95&gcb=0', true, [], true, false, false, true);} </script>
+<link rel='canonical' href='https://www.itsrugby.co.uk/' /></head>
+<body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+
+<div style="max-width: 1140px; margin: 0 auto; border-style: solid; border-width: 2px; border-color: #000; margin-top: 10px; margin-bottom: 20px;">
+<!-- ****************************************************************************************************************** -->
+<!-- Logo + Langues + Boutons -->
+<!-- ****************************************************************************************************************** -->
+
+<div>
+
+  <div class="container-fluid p-1">
+  <div class="row">
+
+    <div class="col-6" style="text-align: middle;">
+      <a href="http://www.itsrugby.fr" border="0"><img border="0" src="//www.itsrugby.fr/img/lang_fr.png" width="21" height="15"/></a> 
+      <a href="//www.itsrugby.co.uk"><img src="//www.itsrugby.fr/img/lang_uk.png" width="21" height="15"/></a> 
+      <a href="http://www.itsrugby.es"><img src="//www.itsrugby.fr/img/lang_es.png" width="21" height="15"/></a>
+    </div>
+
+    <div class="col-6" style="text-align: right;">
+              <!--
+        <a class="btn btn-danger .d-none .d-sm-block" href="/subscriptions.html" role="button">Subscriptions</a>
+        -->
+        <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#connectModal" role="button">Login</a>
+            </div>
+
+  </div>
+  </div>
+
+</div>
+
+<!-- ****************************************************************************************************************** -->
+<!-- Ouest France -->
+<!-- ****************************************************************************************************************** -->
+
+<!-- visible que en sm -->
+<div class="d-md-none">
+
+  <div class="container-fluid p-1">
+  <div class="row">
+
+    <div class="col-12">
+
+      <center>
+      <a style="text-decoration: none;" href="/">
+                      <span style="color: #000; font-size: 1.5rem;">
+                        <img src="//www.itsrugby.fr/img/itsrugby_ruck_logo.png?aaaa=cccc" width="30" height="30" border="0"/>
+                      </span>
+        </a>
+        </center>
+    </div>
+
+  </div>
+  </div>
+
+</div>
+
+<!-- visible autre que en sm -->
+<div class="d-none d-md-block">
+
+  <div class="container-fluid p-1">
+  <div class="row">
+
+    <div class="col-12">
+
+      <center>
+      <a style="text-decoration: none;" href="/">
+                      <span style="color: #000; font-size: 2.2rem;">
+                        <img src="//www.itsrugby.fr/img/itsrugby_ruck_logo.png?aaaa=dddddd" width="120" height="120" border="0"/>
+                      </span>
+        </a>
+        </center>
+    </div>
+
+  </div>
+  </div>
+
+</div>
+
+<!-- ****************************************************************************************************************** -->
+<!-- Subscription modal -->
+<!-- ****************************************************************************************************************** -->
+
+<div class="modal fade" id="subscriptionModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">NEW</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div style="font-size: 14px; margin-top: 5px;">
+        It&#39;s rugby, 1st performance statistics site for professional and amateur rugby players.        It&#39;s Rugby in figures: 1 million page views/month, more than 50,000 player files, national and international coverage in all categories        </div>
+        <div style="font-size: 14px; margin-top: 5px;">
+        <ul>
+        <li>Access to player statistics for the current year with totals by club, by competition, overall</li>
+        <li>If you are a player, real-time update of your data</li>
+        <li>Access to the news of the 50,000 players</li>
+        <li>Access to player statistics from previous years</li>
+        <li>Access to the &#39;My CV&#39; section for all players</li>
+        <li>Visualization of schedules and rankings of all players</li>
+        <li>If you are a gamer, inserting video links</li>
+        </ul>
+        </div>
+
+        <div class="d-grid">
+          <a class="btn btn-primary" href="/subscriptions.html" role="button">I subscribe</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ****************************************************************************************************************** -->
+<!-- contact modal -->
+<!-- ****************************************************************************************************************** -->
+
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Contact</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div style="font-size: 19px; margin-top: 40px; margin-bottom: 40px;">Please write to us at contact[@]itsrugby.fr</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ****************************************************************************************************************** -->
+<!-- Identification modal -->
+<!-- ****************************************************************************************************************** -->
+
+<div class="modal fade" id="connectModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Identification</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+
+        <form method="POST" action="https://www.itsrugby.co.uk/connect.php" method="post">
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control" name="login" placeholder="Username"/>
+            <label for="floatingInput">Username</label>
+          </div>
+          <div class="form-floating mb-3">
+            <input type="password" class="form-control" name="password" placeholder="Password"/>
+            <label for="floatingPassword">Password</label>
+          </div>
+
+          <div class="d-grid">
+            <button class="btn btn-primary btn-login text-uppercase fw-bold" type="submit">To log in</button>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ****************************************************************************************************************** -->
+<!-- modal jeux concours -->
+<!-- ****************************************************************************************************************** -->
+
+<!--
+<div class="modal fade" id="concoursModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-body">
+          <center>
+            <a href="https://www.itsrugby.fr/news-itsrugby-article-1894.html">
+            <img src="https://www.itsrugby.fr/img/concours_itsrugby2.png" width="250" height="250" />
+            </a>
+          </center>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+-->
+
+<!-- ****************************************************************************************************************** -->
+<!-- NavBar -->
+<!-- ****************************************************************************************************************** -->
+
+<div class="col-12 text-center container-fluid">
+<div class="row">
+
+  <div class="col col-2" style="background-color: #1c3d34">
+    <a class="btn" data-bs-toggle="offcanvas" href="#offcanvasMenu" role="button" aria-controls="offcanvasMenu">
+      <img src="//www.itsrugby.fr/img/menu_burger.png?aaa=aaa" width="28" height="28"/>
+    </a>
+  </div>
+
+  <a role="button" style="padding-top: 10px; padding-bottom: 10px;" class="col col-4 hrefButton" href="/results.html">Match Center</a>
+  <a role="button" style="padding-top: 10px; padding-bottom: 10px;" class="col col-3 hrefButton" href="/competitions.html">Tournaments</a>
+  <a role="button" style="padding-top: 10px; padding-bottom: 10px;" class="col col-3 hrefButton" href="/playersearch.html">Players</a>
+
+  
+</div>
+</div>
+
+<!-- ****************************************************************************************************************** -->
+<!-- Menu burger -->
+<!-- ****************************************************************************************************************** -->
+
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasMenu" aria-labelledby="offcanvasMenuLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasMenuLabel">Menu</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+
+        <div class="col" style="padding-left:10px;padding-right:10px;">
+          <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">FRANCE</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-top14.html" class="hrefNews col-12 border p-2 justify-content">Top 14</a><a href="/rugby-prod2.html" class="hrefNews col-12 border p-2 justify-content">Pro D2</a><a href="/rugby-nationale.html" class="hrefNews col-12 border p-2 justify-content">Nationale</a><a href="/rugby-nationale2.html" class="hrefNews col-12 border p-2 justify-content">Nationale 2</a><a href="/rugby-federale1.html" class="hrefNews col-12 border p-2 justify-content">Federale 1</a><a href="/rugby-federale2.html" class="hrefNews col-12 border p-2 justify-content">Federale 2</a><a href="/rugby-federale3.html" class="hrefNews col-12 border p-2 justify-content">Federale 3</a><a href="/rugby-espoir.html" class="hrefNews col-12 border p-2 justify-content">Espoirs</a><a href="/rugby-espoiraccession.html" class="hrefNews col-12 border p-2 justify-content">Espoirs Accession</a><a href="/rugby-espoirsnationaux.html" class="hrefNews col-12 border p-2 justify-content">Espoirs Nationaux</a><a href="/rugby-espoirsfederaux.html" class="hrefNews col-12 border p-2 justify-content">Espoirs Federaux</a><a href="/rugby-.html" class="hrefNews col-12 border p-2 justify-content"></a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">EUROPE</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-ercchampionscup.html" class="hrefNews col-12 border p-2 justify-content">ER Champions Cup</a><a href="/rugby-ercchallengecup.html" class="hrefNews col-12 border p-2 justify-content">ER Challenge Cup</a><a href="/rugby-.html" class="hrefNews col-12 border p-2 justify-content"></a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">UK / IRLAND</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-englandpremiership.html" class="hrefNews col-12 border p-2 justify-content">Guinness Premiership</a><a href="/rugby-unitedrugbychampionship.html" class="hrefNews col-12 border p-2 justify-content">United rugby championship</a><a href="/rugby-englandchampionship.html" class="hrefNews col-12 border p-2 justify-content">England Championship</a><a href="/rugby-premiershuprugbycup.html" class="hrefNews col-12 border p-2 justify-content">Premiership Rugby Cup</a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">SOUTHERN HEMISPHERE</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-superrugby.html" class="hrefNews col-12 border p-2 justify-content">Super Rugby</a><a href="/rugby-curriecup.html" class="hrefNews col-12 border p-2 justify-content">Currie Cup</a><a href="/rugby-npc.html" class="hrefNews col-12 border p-2 justify-content">NPC</a><a href="/rugby-urbatop12.html" class="hrefNews col-12 border p-2 justify-content">URBA Top 12</a><a href="/rugby-superrugbyamercias.html" class="hrefNews col-12 border p-2 justify-content">Super Rugby Americas</a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">RUGBY LEAGUE</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-nrl.html" class="hrefNews col-12 border p-2 justify-content">NRL</a><a href="/rugby-superleague.html" class="hrefNews col-12 border p-2 justify-content">Super League</a><a href="/rugby-rugbyleaguechampionship.html" class="hrefNews col-12 border p-2 justify-content">KP Championship</a><a href="/rugby-stateoforigin.html" class="hrefNews col-12 border p-2 justify-content">State Of Origin</a><a href="/rugby-elitefrancexiii.html" class="hrefNews col-12 border p-2 justify-content">Elite France XIII</a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">INTERNATIONAL</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-worldcup.html" class="hrefNews col-12 border p-2 justify-content">World Cup</a><a href="/rugby-nations6.html" class="hrefNews col-12 border p-2 justify-content">6 Nations</a><a href="/rugby-rugbychampionship.html" class="hrefNews col-12 border p-2 justify-content">Rugby Championship</a><a href="/rugby-test.html" class="hrefNews col-12 border p-2 justify-content">Tests</a><a href="/rugby-rugbyeuropechampionship.html" class="hrefNews col-12 border p-2 justify-content">RE Championship</a><a href="/rugby-rugbyeuropetrophy.html" class="hrefNews col-12 border p-2 justify-content">RE Trophy</a><a href="/rugby-nations6under20.html" class="hrefNews col-12 border p-2 justify-content">6 nations U20</a><a href="/rugby-worldcupunder20.html" class="hrefNews col-12 border p-2 justify-content">Junior WC</a><a href="/rugby-tropherugbyjuniormondial.html" class="hrefNews col-12 border p-2 justify-content">World Junior Trophy</a><a href="/rugby-pacificnationscup.html" class="hrefNews col-12 border p-2 justify-content">Pacific Nations Cup</a><a href="/rugby-seveneuropeseriescroatia.html" class="hrefNews col-12 border p-2 justify-content">Rugby Europe 7 Grand Prix Series</a><a href="/rugby-olympicgamesparis2024.html" class="hrefNews col-12 border p-2 justify-content">OG 7s</a><a href="/rugby-olympicgamesparis2024women.html" class="hrefNews col-12 border p-2 justify-content">OG 7s Wom</a><a href="/rugby-u20rugbychampionship.html" class="hrefNews col-12 border p-2 justify-content">U20 Rugby Championship</a>
+        </div>
+      </div>
+            <table class="table table-bordered">
+      <thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;">OTHERS</th></tr></thead>
+      </table>
+
+      <div class="container-fluid">
+        <div class="row">
+
+          <a href="/rugby-japan.html" class="hrefNews col-12 border p-2 justify-content">Japan League One D1</a><a href="/rugby-japand2.html" class="hrefNews col-12 border p-2 justify-content">Japan League One D2</a><a href="/rugby-japand3.html" class="hrefNews col-12 border p-2 justify-content">Japan League One D3</a><a href="/rugby-italy.html" class="hrefNews col-12 border p-2 justify-content">Serie A Elite Italy</a><a href="/rugby-spain.html" class="hrefNews col-12 border p-2 justify-content">Spain</a><a href="/rugby-majorleaguerugby.html" class="hrefNews col-12 border p-2 justify-content">Major League Rugby</a><a href="/rugby-.html" class="hrefNews col-12 border p-2 justify-content"></a>
+        </div>
+      </div>
+          </div>
+
+  </div>
+</div>
+
+<div align="center">
+  <p>
+    Comme vous avez pu le remarquer, le site a déjà changé de couleurs et de logo.<br/>
+    itsrugby.fr a rejoint il y a quelques mois le projet <strong>Ruck Zone</strong> :
+    un projet simple, construire un média qui raconte le rugby plutôt que de simplement le commenter.
+  </p>
+
+  <p>
+    itsrugby.fr entame aujourd’hui une refonte complète : nouveau design,
+    nouveau système d’abonnement.<br/>
+    <strong>Surtout, l’arrivée d’une rédaction rugby à part entière.</strong>
+  </p>
+
+  <p>
+    itsrugby.fr en 2026, c’est toujours de la data, mais aussi du média :
+    de l’actualité, des enquêtes, des portraits et de l’histoire autour des femmes
+    et des hommes qui font ce sport.
+  </p>
+
+  <p>
+    Merci pour votre patience et, en attendant, n’hésitez pas à nous rejoindre sur Instagram :
+    <br/><br/>
+    👉 <a href="https://www.instagram.com/its_rugbyfr" target="_blank">
+      <strong>@its_rugbyfr</strong>
+    </a>
+  </p>
+</div>
+
+<table class="table itsFont"><tbody><tr><th class="hourNews" style="width: 12%">Jeudi 05 Fevrier</th><th class="hourNews" style="width: 6%">06:27</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/arret-cardiaque-pourquoi-le-rugby-et-le-sport-en-general-ne-le-voient-pas-toujours-venir/" target="_blank">Arrêt cardiaque : pourquoi le rugby et le sport en général ne le voient pas toujours venir</a></th></tr><tr><th class="hourNews" style="width: 12%">Vendredi 30 Janvier</th><th class="hourNews" style="width: 6%">15:06</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/le-magicien-virimi-vakatawa-revient-sur-les-pelouses-et-defie-son-coeur/" target="_blank">Le magicien Virimi Vakatawa revient sur les pelouses et défie son cœur</a></th></tr><tr><th class="hourNews" style="width: 12%">Vendredi 30 Janvier</th><th class="hourNews" style="width: 6%">15:13</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/mercato-coup-de-tonnerre-a-toulon-rabah-slimani-en-approche/" target="_blank">Mercato : coup de tonnerre à Toulon, Rabah Slimani en approche</a></th></tr><tr><th class="hourNews" style="width: 12%">Jeudi 29 Janvier</th><th class="hourNews" style="width: 6%">15:45</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/2026-is-the-new-2016-tendance-analyse/" target="_blank">« 2026 is the new 2016 » : Le rugby français a-t-il vraiment envie de remonter le temps ?</a></th></tr><tr><th class="hourNews" style="width: 12%">Jeudi 29 Janvier</th><th class="hourNews" style="width: 6%">15:12</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/itineraire-joel-gate-rugby-pays-de-la-loire/" target="_blank">Itinéraire d’un Joël Gâté : Une vie au service du jeu</a></th></tr><tr><th class="hourNews" style="width: 12%">Jeudi 29 Janvier</th><th class="hourNews" style="width: 6%">14:56</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/futur-retour-au-pays-pour-zack-henry-qui-sengage-avec-newcastle/" target="_blank">Futur retour au pays pour Zack Henry, qui s’engage avec Newcastle</a></th></tr><tr><th class="hourNews" style="width: 12%">Jeudi 29 Janvier</th><th class="hourNews" style="width: 6%">11:52</th><th><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 80%"><a class="hrefNews" href="https://ruck-zone.fr/on-sait-ou-se-jouera-la-finale-de-nationale-en-mai/" target="_blank">On sait où se jouera la finale de Nationale en mai</a></th></tr></tbody></table>
+
+
+<!-- Ezoic - top_of_page - top_of_page -->
+<span id="ezoic-pub-ad-placeholder-165"></span>
+<!-- End Ezoic - top_of_page - top_of_page -->
+<div width="100%" style="background-color: #FFF; padding-top: 20px; padding-bottom: 20px;">
+
+  <div class="container-fluid">
+    <div class="row">
+
+          <div class="d-none d-md-block col-md">
+      <table class="table table-bordered">
+      <thead><tr><th scope="col" id="background1">UK / IRELAND</th></tr></thead>
+      <tbody>
+      <tr><td id="background2"><a href="rugby-englandpremiership.html" class="hrefNews">Guinness Premiership</a></td></tr><tr><td id="background2"><a href="rugby-unitedrugbychampionship.html" class="hrefNews">United rugby championship</a></td></tr><tr><td id="background2"><a href="rugby-englandchampionship.html" class="hrefNews">England Championship</a></td></tr><tr><td id="background2"><a href="rugby-premiershuprugbycup.html" class="hrefNews">Premiership Rugby Cup</a></td></tr><tr><td id="background2"><a href="rugby-.html" class="hrefNews"></a></td></tr>      </tbody>
+      </table>
+      </div>
+            <div class="d-none d-md-block col-md">
+      <table class="table table-bordered">
+      <thead><tr><th scope="col" id="background1">OTHERS</th></tr></thead>
+      <tbody>
+      <tr><td id="background2"><a href="rugby-top14.html" class="hrefNews">Top 14</a></td></tr><tr><td id="background2"><a href="rugby-prod2.html" class="hrefNews">Pro D2</a></td></tr><tr><td id="background2"><a href="rugby-ercchampionscup.html" class="hrefNews">ER Champions Cup</a></td></tr><tr><td id="background2"><a href="rugby-ercchallengecup.html" class="hrefNews">ER Challenge Cup</a></td></tr><tr><td id="background2"><a href="rugby-superrugby.html" class="hrefNews">Super Rugby</a></td></tr>      </tbody>
+      </table>
+      </div>
+            <div class="d-none d-md-block col-md">
+      <table class="table table-bordered">
+      <thead><tr><th scope="col" id="background1">INTERNATIONAL</th></tr></thead>
+      <tbody>
+      <tr><td id="background2"><a href="rugby-nations6.html" class="hrefNews">6 Nations</a></td></tr><tr><td id="background2"><a href="rugby-rugbychampionship.html" class="hrefNews">Rugby Championship</a></td></tr><tr><td id="background2"><a href="rugby-test.html" class="hrefNews">Tests</a></td></tr><tr><td id="background2"><a href="rugby-olympicgamesparis2024.html" class="hrefNews">OG 7s</a></td></tr><tr><td id="background2"><a href="rugby-olympicgamesparis2024women.html" class="hrefNews">OG 7s Wom</a></td></tr>      </tbody>
+      </table>
+      </div>
+            <div class="d-none d-md-block col-md">
+      <table class="table table-bordered">
+      <thead><tr><th scope="col" id="background1">RUGBY LEAGUE</th></tr></thead>
+      <tbody>
+      <tr><td id="background2"><a href="rugby-nrl.html" class="hrefNews">NRL</a></td></tr><tr><td id="background2"><a href="rugby-superleague.html" class="hrefNews">Super League</a></td></tr><tr><td id="background2"><a href="rugby-rugbyleaguechampionship.html" class="hrefNews">KP Championship</a></td></tr><tr><td id="background2"><a href="rugby-stateoforigin.html" class="hrefNews">State Of Origin</a></td></tr><tr><td id="background2"><a href="rugby-elitefrancexiii.html" class="hrefNews">Elite France XIII</a></td></tr>      </tbody>
+      </table>
+      </div>
+          </div>
+  </div>
+
+  
+<div class="container-fluid">
+  <div class="row">
+
+     <div class="col-md-8 col-sm-12">
+
+     <div class="col-12"><p class="itsTopTitle itsFont">News rugby : </p></div><p style="padding: 10px;">        <a class="btn hrefButtonSelected" href="index.html" role="button">Rugby websites</a>
+        </p><div style="padding: 10px; font-size: 19px;">Click on the logo to have all the news from this source</div>    <table class="table itsFont">
+    <thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Saturday 14 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">11:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/xv-de-france-la-liste-des-42-pour-litalie" target="_blank">XV de France – La liste des 42 pour l’Italie</a></th></tr><tr><th class="hourNews" style="width: 6%">10:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/xv-de-france-la-semaine-des-bleus-avant-le-pays-de-galles-en-video" target="_blank">XV de France – La semaine des Bleus avant le Pays de Galles en VIDÉO</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Friday 13 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">20:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/pays-de-galles-france-moins-20-ans-confirmer-la-tendance" target="_blank">Pays de Galles – France moins 20 ans : Confirmer la tendance</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Thursday 12 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">11:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-la-composition-pour-le-pays-de-galles" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : La composition pour le Pays de Galles</a></th></tr><tr><th class="hourNews" style="width: 6%">11:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/tournoi-des-six-nations-2026-la-composition-pour-le-pays-de-galles" target="_blank">Tournoi des Six Nations 2026 : La composition pour le Pays de Galles</a></th></tr><tr><th class="hourNews" style="width: 6%">00:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/la-federation-a-missions-montesson-chatou-le-don-de-soins" target="_blank">Fédération à missions  : Montesson Chatou, le don de soins</a></th></tr><tr><th class="hourNews" style="width: 6%">00:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/xv-de-france-une-envie-de-rugby" target="_blank">XV de France  : Une envie de rugby</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Wednesday 11 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-preparer-linvisible-pour-maitriser-lessentiel" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : Préparer l’invisible pour maîtriser l’essentiel</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/etre-acteur/fidelisation-et-attractivite-les-bons-chiffres-de-la-feminisation" target="_blank">Fidélisation et attractivité : Les bons chiffres de la féminisation</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/rugby-amateur-federale-1-poser-les-enjeux" target="_blank">Rugby Amateur : Fédérale 1, poser les enjeux</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Tuesday 10 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">08:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/au-coeur-du-jeu/colloque-des-conseillers-techniques-trois-jours-pour-renforcer-les-competences-manageriales" target="_blank">Colloque des conseillers techniques : trois jours pour renforcer les compétences managériales</a></th></tr><tr><th class="hourNews" style="width: 6%">08:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/feuille-de-match-dematerialisee-des-ecoles-de-rugby-le-webinaire-disponible" target="_blank">Feuille de match dématérialisée des Écoles de Rugby : le webinaire disponible</a></th></tr><tr><th class="hourNews" style="width: 6%">08:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/equipes-de-france/france-7-les-poules-pour-vancouver" target="_blank">France 7  : Les poules pour Vancouver</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Monday 09 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">12:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/equipes-de-france/svns-2025-2026-le-point-apres-la-4eme-etape" target="_blank">SVNS 2025-2026 : Le point après la 4ème étape</a></th></tr><tr><th class="hourNews" style="width: 6%">12:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/generations-bleues-la-liste-des-joueurs-et-joueuses-retenus-pour-le-stage-elite-jeunes-2" target="_blank">Générations Bleues : La liste des joueurs et joueuses retenus pour le Stage Élite Jeunes</a></th></tr><tr><th class="hourNews" style="width: 6%">12:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/generations-bleues-frejus-au-coeur-des-elites-jeunes-2026" target="_blank">Générations Bleues : Fréjus au cœur des Élites Jeunes 2026</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-le-groupe-pour-le-pays-de-galles" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : Le groupe pour le Pays de Galles</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Sunday 08 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">12:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/france-irlande-moins-20-ans-le-match-des-bleus" target="_blank">France – Irlande moins 20 ans : Le match des Bleus</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Saturday 07 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">23:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/au-coeur-du-jeu/in-extenso-supersevens-le-titre-pour-bordeaux-et-lyon" target="_blank">In Extenso Supersevens  : le titre pour Bordeaux et Lyon</a></th></tr><tr><th class="hourNews" style="width: 6%">23:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/france-irlande-moins-20-ans-50-21" target="_blank">France – Irlande moins 20 ans : 50-21</a></th></tr><tr><th class="hourNews" style="width: 6%">16:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-7-masculin/france-7-masculin-svns-etape-4-perth" target="_blank">France 7 masculin : SVNS – Étape 4 Perth</a></th></tr><tr><th class="hourNews" style="width: 6%">15:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-7-feminin/france-7-feminin-svns-etape-4-perth" target="_blank">France 7 féminin : SVNS – Étape 4 Perth</a></th></tr><tr><th class="hourNews" style="width: 6%">13:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/xv-de-france-la-liste-des-42-pour-le-pays-de-galles" target="_blank">XV de France – La liste des 42 pour le Pays de Galles</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Friday 06 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">22:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/france-irlande-moins-20-ans-un-premier-test-revelateur" target="_blank">France – Irlande moins 20 ans : Un premier test révélateur</a></th></tr><tr><th class="hourNews" style="width: 6%">15:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/france-irlande-la-semaine-des-bleus-en-photos" target="_blank">France – Irlande  : La semaine des Bleus en photos</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/france-irlande-moins-20-ans-la-fete-autour-du-match" target="_blank">France – Irlande moins 20 ans : La fête autour du match</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/au-coeur-du-jeu/in-extenso-supersevens" target="_blank">In Extenso Supersevens</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/thomas-ramos-la-justesse-comme-ligne-de-vie" target="_blank">Thomas Ramos, la justesse comme ligne de vie</a></th></tr><tr><th class="hourNews" style="width: 6%">02:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/france-irlande-le-match-des-bleus" target="_blank">France – Irlande : Le match des Bleus</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Thursday 05 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">23:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/france-irlande-36-14" target="_blank">France – Irlande : 36-14</a></th></tr><tr><th class="hourNews" style="width: 6%">17:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france-feminin/xv-de-france-feminin-le-groupe-pour-le-stage-de-preparation" target="_blank">XV de France féminin : Le groupe pour le stage de préparation</a></th></tr><tr><th class="hourNews" style="width: 6%">12:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/jean-marc-lhermet-aligner-performance-sante-des-joueurs-et-interet-collectif" target="_blank">Jean-Marc Lhermet  : « Aligner performance, santé des joueurs et intérêt collectif »</a></th></tr><tr><th class="hourNews" style="width: 6%">12:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/equipes-de-france/equipes-de-france-7-direction-perth" target="_blank">Équipes de France 7  : Direction Perth</a></th></tr><tr><th class="hourNews" style="width: 6%">11:03</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-la-composition-pour-lirlande" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : La composition pour l’Irlande</a></th></tr><tr><th class="hourNews" style="width: 6%">06:27</th><th class="logoNews" style="width: 2%"><a href="news-ruckzone.html"><img src="https://www.itsrugby.fr/img/news/ruckzone.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://ruck-zone.fr/arret-cardiaque-pourquoi-le-rugby-et-le-sport-en-general-ne-le-voient-pas-toujours-venir/" target="_blank">Arrêt cardiaque : pourquoi le rugby et le sport en général ne le voient pas toujours venir</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Wednesday 04 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">21:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/federation/la-convention-ffr-lnr-officiellement-adoptee-une-victoire-majeure-pour-le-rugby-francais" target="_blank">Convention FFR / LNR officiellement adoptée : Une victoire majeure pour le rugby français !</a></th></tr><tr><th class="hourNews" style="width: 6%">19:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/xv-de-france-la-semaine-des-bleus-avant-lirlande-en-video" target="_blank">XV de France : La semaine des Bleus avant l’Irlande en VIDEO</a></th></tr><tr><th class="hourNews" style="width: 6%">16:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/france-irlande-prendre-leire" target="_blank">France – Irlande : Prendre l’Eire !</a></th></tr><tr><th class="hourNews" style="width: 6%">09:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-transmission-en-bleu-majeur" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : Transmission en Bleu majeur</a></th></tr><tr><th class="hourNews" style="width: 6%">09:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/equipes-de-france/bordeaux-capitale-mondiale-du-rugby-a-7" target="_blank">Bordeaux, capitale mondiale du rugby à 7</a></th></tr><tr><th class="hourNews" style="width: 6%">09:43</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/france-irlande-la-fete-autour-du-match-3" target="_blank">France – Irlande : La fête autour du match</a></th></tr></tbody><thead><tr><th scope="col" colspan="3" style="background-color: #1c3d34; color: #FFF;">Tuesday 03 February</th></tr></thead><tbody><tr><th class="hourNews" style="width: 6%">15:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-7-masculin/france-7-masculin-le-groupe-pour-perth-2" target="_blank">France 7 masculin : Le groupe pour Perth</a></th></tr><tr><th class="hourNews" style="width: 6%">15:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-7-feminin/france-7-feminin-le-groupe-pour-perth-2" target="_blank">France 7 féminin : Le groupe pour Perth</a></th></tr><tr><th class="hourNews" style="width: 6%">11:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/xv-de-france/tournoi-des-six-nations-2026-la-composition-pour-lirlande" target="_blank">Tournoi des Six Nations 2026 : La composition pour l’Irlande</a></th></tr><tr><th class="hourNews" style="width: 6%">09:23</th><th class="logoNews" style="width: 2%"><a href="news-ffr.html"><img src="https://www.itsrugby.fr/img/news/ffr.png?aaa=aaa"/></a></th><th class="linkNews" style="width: 92%"><a rel="nofollow noopener" class="hrefNews" href="https://www.ffr.fr/actualites/france-moins-20-ans/tournoi-des-six-nations-moins-20-ans-2026-albuisson-lage-nest-quun-numero" target="_blank">Tournoi des Six Nations moins 20 ans 2026 : Albuisson, l’âge n’est qu’un numéro</a></th></tr></tbody></table></div><div class="col-sd-12 col-md-4">
+<!--
+  <div style="padding-top: 10px; padding-bottom: 10px;">
+    <a class="btn hrefButton" target="_blank" href="https://apps.apple.com/fr/app/its-rugby/id432282206" role="button">It's rugby Application Iphone</a>
+  </div>
+-->
+
+  <p class="itsTopTitle itsFont" id="background1">Mutations 2025/2026</p>
+
+  <table class="table">
+  <tbody>
+          <tr><td style="background-color: #f6f3ec"><a class="hrefNews" href="mutation-englandpremiership.html">Guinness Premiership</a></td></tr><tr><td style="background-color: #f6f3ec"><a class="hrefNews" href="mutation-englandchampionship.html">England Championship</a></td></tr><tr><td style="background-color: #f6f3ec"><a class="hrefNews" href="mutation-unitedrugbychampionship.html">United rugby championship</a></td></tr><tr><td style="background-color: #f6f3ec"><a class="hrefNews" href="mutation-top14.html">Top 14</a></td></tr>  </tbody>
+  </table>
+
+  <p class="itsTopTitle itsFont" id="background1">Next games : </p>
+
+  <table class="table"><thead><tr><th scope="col" style="background-color: #1c3d34; color: #FFF;" colspan="2">14/02/2026</th></tr><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">Uk / Irland</th></tr></thead><tbody><tr><td id="background2">Premiership Rugby Cup</td><td id="background2">4</td></tr><tr><td id="background2">England Championship</td><td id="background2">7</td></tr></tbody></table><table class="table"><thead><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">France</th></tr></thead><tbody><tr><td id="background2">Espoirs Nationaux</td><td id="background2">4</td></tr><tr><td id="background2">Nationale 2</td><td id="background2">4</td></tr><tr><td id="background2">Top 14</td><td id="background2">7</td></tr><tr><td id="background2">Nationale</td><td id="background2">2</td></tr></tbody></table><table class="table"><thead><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">Southern hemisphere</th></tr></thead><tbody><tr><td id="background2">Super Rugby</td><td id="background2">3</td></tr></tbody></table><table class="table"><thead><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">International</th></tr></thead><tbody><tr><td id="background2">6 Nations</td><td id="background2">2</td></tr><tr><td id="background2">6 nations U20</td><td id="background2">1</td></tr></tbody></table><table class="table"><thead><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">Rugby League</th></tr></thead><tbody><tr><td id="background2">Super League</td><td id="background2">3</td></tr><tr><td id="background2">Elite France XIII</td><td id="background2">5</td></tr></tbody></table><table class="table"><thead><tr><th scope="col" style="background-color: #b1c7bf;" colspan="2">Others</th></tr></thead><tbody><tr><td id="background2">Japan League One D1</td><td id="background2">5</td></tr><tr><td id="background2">Serie A Elite Italy</td><td id="background2">5</td></tr></tbody></table>    <p><a class="btn hrefButton" href="results.html" role="button">List of games</a></p>
+
+<p></p><p class="itsTopTitle itsFont">Rugby websites</p>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/bbc.png?aaa=aaa"/>   <a class="hrefNews" href="news-bbc.html">BBC</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/rugbypass.png?aaa=aaa"/>   <a class="hrefNews" href="news-rugbypass.html">Rugbypass</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/skysports.png?aaa=aaa"/>   <a class="hrefNews" href="news-skysports.html">Skysports</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/planetrugby.png?aaa=aaa"/>   <a class="hrefNews" href="news-planetrugby.html">Planet Rugby</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/ruck.png?aaa=aaa"/>   <a class="hrefNews" href="news-ruck.html">Ruck</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/rugbydump.png?aaa=aaa"/>   <a class="hrefNews" href="news-rugbydump.html">Rugby Dump</a></span><br/>    <span></span>
+    <span style="margin-right: 20px;"><img src="https://www.itsrugby.fr/img/news/rugby365uk.png?aaa=aaa"/>   <a class="hrefNews" href="news-rugby365uk.html">Rugby 365</a></span><br/><p></p>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<span id="ezoic-pub-ad-placeholder-702" data-method="ai-placeholders" class="ezoic-autoinsert-ad"></span><span data-ez-ph-id="702"></span><div style="background-color: #E8E8E8;" class="container-fluid">
+<div class="row">
+  <div class="col">
+    <p class="itsfontsize">Its rugby</p>
+    <ul style="list-style-type: none;">
+      <li class="itsfontsize2"><a href="/mentions-legales.html">Mentions légales</a></li>
+      <li class="itsfontsize2"><a href="/cgu.html">CGU</a></li>
+      <li class="itsfontsize2"><a href="/cgv.html">CGV</a></li>
+      <li class="itsfontsize2"><a href="/politique-confidentialite.html">Politique confidentialité</a></li>
+      <li class="itsfontsize2"><a href="/cookies.html">Cookies</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <p class="itsfontsize"></p>
+    <ul style="list-style-type: none;">
+      <li>
+        <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#contactModal" role="button">Contact</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col">
+    <p class="itsfontsize">Suivez nous</p>
+    <ul style="list-style-type: none;">
+      <li class="itsfontsize2"><a href="https://www.facebook.com/Its-rugby-64666619492/" target="_blank">Facebook</a></li>
+      <li class="itsfontsize2"><a href="https://bsky.app/profile/itsrugbyfr.bsky.social" target="_blank">BlueSky</a></li>
+      <li class="itsfontsize2"><a href="https://www.instagram.com/itsrugby_official" target="_blank">Instagram</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+<div style="background-color: #1c3d34;" class="container-fluid">
+<div class="row">
+<div style="text-align: left; margin: 10px;" valign="top" height="20">
+
+    <font id="blanc_bold">Copyright 2004-2026 Benoit Capallere</font>
+
+</div>
+</div>
+</div>
+
+<!--
+<div class="d-md-none d-sm-block col-sm-12 text-center">
+<footer class="fixed-bottom">
+</footer
+</div>
+-->
+
+</div>
+
+<script src="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"></script>
+
+
+<script type="text/javascript">
+var _nAdzq=_nAdzq||[];(function(){
+_nAdzq.push(["setIds","36304bb698cd2ffa"]);
+var e="https://notifpush.com/scripts/";
+var t=document.createElement("script");
+t.type="text/javascript";
+t.defer=true;
+t.async=true;
+t.src=e+"nadz-sdk.js";
+var s=document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(t,s)})();
+</script>
+
+
+
+
+
+<!--[selectrongo:done]--><span id="ezoic-pub-ad-placeholder-100"></span><span data-ez-ph-id="100" style="box-sizing:content-box;display:inline-block;max-width:100% !important;line-height:0px;padding:0;float:none !important;min-width:0px;min-height:0px;"></span><div id="ez-sidebar-wall-left" class="ez-sidebar-wall" style="left: 0px;">
+	<div class="ez-sidebar-wall-ad">
+		<span id="ezoic-pub-ad-placeholder-138"></span><span data-ez-ph-id="138"></span>
+		<span class="ez-rail-close" id="ez-rail-close-left" style="top: -21px; left: 0; display: none;" onclick="__ez_close_rail(this.parentElement.parentElement.id)">x</span>
+	</div>
+</div><script>!function(){function t(t,r){var n="undefined"!=typeof Symbol&&t[Symbol.iterator]||t["@@iterator"];if(!n){if(Array.isArray(t)||(n=function(t,r){if(t){if("string"==typeof t)return e(t,r);var n=Object.prototype.toString.call(t).slice(8,-1);return"Object"===n&&t.constructor&&(n=t.constructor.name),"Map"===n||"Set"===n?Array.from(t):"Arguments"===n||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)?e(t,r):void 0}}(t))||r&&t&&"number"==typeof t.length){n&&(t=n);var a=0,o=function(){};return{s:o,n:function(){return a>=t.length?{done:!0}:{done:!1,value:t[a++]}},e:function(t){throw t},f:o}}throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}var i,u=!0,s=!1;return{s:function(){n=n.call(t)},n:function(){var t=n.next();return u=t.done,t},e:function(t){s=!0,i=t},f:function(){try{u||null==n.return||n.return()}finally{if(s)throw i}}}}function e(t,e){(null==e||e>t.length)&&(e=t.length);for(var r=0,n=new Array(e);r<e;r++)n[r]=t[r];return n}!function(){var e=function(t){var e=getComputedStyle(t);if(-1===parseInt(e.bottom,10)){var r=t.offsetHeight||300;t.style.bottom=-r+"px"}};function r(){return document.querySelector('ins[data-anchor-shown="true"][data-anchor-status="displayed"]')}function n(t){var e=t.querySelector("iframe");e&&requestAnimationFrame((function(){var r=parseFloat(getComputedStyle(e).height);isNaN(r)||t.style.setProperty("height","".concat(r+5,"px"),"important")}))}function a(t){t.style.setProperty("width","100%","important"),t.style.maxWidth="none"}function o(t){var e=t.querySelector("iframe");e&&(e.style.setProperty("display","block","important"),e.style.setProperty("margin","0 auto","important"));var r=t.querySelector("[id$='__container__']");r&&r.style.setProperty("display","contents","important")}new MutationObserver((function(r){var n,a=t(r);try{for(a.s();!(n=a.n()).done;){var o=n.value;if("attributes"===o.type){var i=o.target;i.matches("[data-anchor-status]")&&("data-anchor-status"===o.attributeName&&"dismissed"===i.getAttribute("data-anchor-status")&&e(i),"style"===o.attributeName&&"dismissed"===i.getAttribute("data-anchor-status")&&e(i))}}}catch(t){a.e(t)}finally{a.f()}})).observe(document.documentElement,{subtree:!0,attributes:!0,attributeFilter:["style","data-anchor-status"]});var i=new WeakSet;function u(e){e&&(i.has(e)||(i.add(e),new MutationObserver((function(r){var i,u=t(r);try{for(u.s();!(i=u.n()).done;){var s=i.value;"style"===s.attributeName?(n(e),a(e),o(e)):"attributes"===s.type&&"data-google-query-id"===s.attributeName&&o(e)}}catch(t){u.e(t)}finally{u.f()}})).observe(e,{attributes:!0,attributeFilter:["style","data-google-query-id"]})))}!function(){var t=r();if(t)return n(t),a(t),o(t),void u(t);var e=new MutationObserver((function(){var t=r();t&&(n(t),a(t),o(t),u(t),e.disconnect())}));e.observe(document.body,{attributes:!0,subtree:!0,childList:!0})}()}()}();</script><script data-cfasync="false">function _emitEzConsentEvent(){var customEvent=new CustomEvent("ezConsentEvent",{detail:{ezTcfConsent:window.ezTcfConsent},bubbles:true,cancelable:true,});document.dispatchEvent(customEvent);}
+(function(window,document){function _setAllEzConsentTrue(){window.ezTcfConsent.loaded=true;window.ezTcfConsent.store_info=true;window.ezTcfConsent.develop_and_improve_services=true;window.ezTcfConsent.measure_ad_performance=true;window.ezTcfConsent.measure_content_performance=true;window.ezTcfConsent.select_basic_ads=true;window.ezTcfConsent.create_ad_profile=true;window.ezTcfConsent.select_personalized_ads=true;window.ezTcfConsent.create_content_profile=true;window.ezTcfConsent.select_personalized_content=true;window.ezTcfConsent.understand_audiences=true;window.ezTcfConsent.use_limited_data_to_select_content=true;window.ezTcfConsent.select_personalized_content=true;}
+function _clearEzConsentCookie(){document.cookie="ezCMPCookieConsent=tcf2;Domain=.itsrugby.co.uk;Path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT";}
+_clearEzConsentCookie();if(typeof window.__tcfapi!=="undefined"){window.ezgconsent=false;var amazonHasRun=false;function _ezAllowed(tcdata,purpose){return(tcdata.purpose.consents[purpose]||tcdata.purpose.legitimateInterests[purpose]);}
+function _handleConsentDecision(tcdata){window.ezTcfConsent.loaded=true;if(!tcdata.vendor.consents["347"]&&!tcdata.vendor.legitimateInterests["347"]){window._emitEzConsentEvent();return;}
+window.ezTcfConsent.store_info=_ezAllowed(tcdata,"1");window.ezTcfConsent.develop_and_improve_services=_ezAllowed(tcdata,"10");window.ezTcfConsent.measure_content_performance=_ezAllowed(tcdata,"8");window.ezTcfConsent.select_basic_ads=_ezAllowed(tcdata,"2");window.ezTcfConsent.create_ad_profile=_ezAllowed(tcdata,"3");window.ezTcfConsent.select_personalized_ads=_ezAllowed(tcdata,"4");window.ezTcfConsent.create_content_profile=_ezAllowed(tcdata,"5");window.ezTcfConsent.measure_ad_performance=_ezAllowed(tcdata,"7");window.ezTcfConsent.use_limited_data_to_select_content=_ezAllowed(tcdata,"11");window.ezTcfConsent.select_personalized_content=_ezAllowed(tcdata,"6");window.ezTcfConsent.understand_audiences=_ezAllowed(tcdata,"9");window._emitEzConsentEvent();}
+function _handleGoogleConsentV2(tcdata){if(!tcdata||!tcdata.purpose||!tcdata.purpose.consents){return;}
+var googConsentV2={};if(tcdata.purpose.consents[1]){googConsentV2.ad_storage='granted';googConsentV2.analytics_storage='granted';}
+if(tcdata.purpose.consents[3]&&tcdata.purpose.consents[4]){googConsentV2.ad_personalization='granted';}
+if(tcdata.purpose.consents[1]&&tcdata.purpose.consents[7]){googConsentV2.ad_user_data='granted';}
+if(googConsentV2.analytics_storage=='denied'){gtag('set','url_passthrough',true);}
+gtag('consent','update',googConsentV2);}
+__tcfapi("addEventListener",2,function(tcdata,success){if(!success||!tcdata){window._emitEzConsentEvent();return;}
+if(!tcdata.gdprApplies){_setAllEzConsentTrue();window._emitEzConsentEvent();return;}
+if(tcdata.eventStatus==="useractioncomplete"||tcdata.eventStatus==="tcloaded"){if(typeof gtag!='undefined'){_handleGoogleConsentV2(tcdata);}
+_handleConsentDecision(tcdata);if(tcdata.purpose.consents["1"]===true&&tcdata.vendor.consents["755"]!==false){window.ezgconsent=true;(adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=0;}
+if(window.__ezconsent){__ezconsent.setEzoicConsentSettings(ezConsentCategories);}
+__tcfapi("removeEventListener",2,function(success){return null;},tcdata.listenerId);if(!(tcdata.purpose.consents["1"]===true&&_ezAllowed(tcdata,"2")&&_ezAllowed(tcdata,"3")&&_ezAllowed(tcdata,"4"))){if(typeof __ez=="object"&&typeof __ez.bit=="object"&&typeof window["_ezaq"]=="object"&&typeof window["_ezaq"]["page_view_id"]=="string"){__ez.bit.Add(window["_ezaq"]["page_view_id"],[new __ezDotData("non_personalized_ads",true),]);}}}});}else{_setAllEzConsentTrue();window._emitEzConsentEvent();}})(window,document);</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"edc67d3dee804430ae6b743161abb667","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body></html>

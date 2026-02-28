@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Team | United Rugby Championship | RugbyPick</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #ffffff;
+            color: #484848;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .header-container {
+            background-color: #003366;
+            padding: 15px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .site-title {
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .team-header {
+            background: linear-gradient(135deg, #003366 0%, #00BFFF 100%);
+            color: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+        }
+        .team-name {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #003366;
+            margin: 40px 0 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #003366;
+        }
+        .player-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .player-card {
+            background: #f8f8f8;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #003366;
+        }
+        .player-card a {
+            color: #003366;
+            text-decoration: none;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <header class="header-container">
+        <div class="header-content">
+            <a href="../../index.html" class="site-title">RugbyPick</a>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="team-header">
+            <div class="team-name">サンプルチーム</div>
+            <div>League: United Rugby Championship</div>
+        </div>
+
+        <h2 class="section-title">所属選手</h2>
+        <div class="player-grid">
+            <div class="player-card">
+                <a href="#">選手A (FW)</a>
+            </div>
+            <div class="player-card">
+                <a href="#">選手B (BK)</a>
+            </div>
+            <div class="player-card">
+                <a href="#">選手C (FW)</a>
+            </div>
+        </div>
+
+        <p style="margin-top: 40px; text-align: center; color: #888;">
+            League: United Rugby Championship<br>
+            Colors: #003366 / #00BFFF
+        </p>
+    </div>
+</body>
+</html>

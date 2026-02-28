@@ -1,0 +1,13 @@
+---
+{
+  "title": "拓殖大学",
+  "layout": "school",
+  "slug": "univ-takushoku",
+  "type": "大学",
+  "previous_names": []
+}
+---
+
+# 拓殖大学
+
+<div class="players-table-container"><table class="roster-table" id="rosterTable"><thead><tr><th>選手名</th><th>POS</th><th>年齢</th><th>チーム</th></tr></thead><tbody id="players-grid"><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/viliame-suwawa_lo_484438.html">ヴィリアミ ・スワワ</a></td><td>CTB</td><td>28歳</td><td>豊田自動織機シャトルズ愛知</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/patrick-stehlin_lo_484559.html">ステイリン パトリック</a></td><td>CTB</td><td>34歳</td><td>花園近鉄ライナーズ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/aseri-masivou_lo_484665.html">アセリ ・マシヴォウ</a></td><td>No8</td><td>29歳</td><td>三重ホンダヒート</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/sione-lavemai_lo_484812.html">シオネ ・ラベマイ</a></td><td>FL</td><td>32歳</td><td>横浜キヤノンイーグルス</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/uwe-helu_lo_483488.html">ヘル ウヴェ</a></td><td>LO</td><td>36歳</td><td>浦安D-Rocks</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/jiwon-gu_lo_483964.html">具 智元</a></td><td>PR</td><td>32歳</td><td>コベルコ神戸スティーラーズ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/yusyo-narita_lo_484974.html">成田 悠祥</a></td><td>PR</td><td>25歳</td><td>ルリーロ福岡</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/david-van-zeeland_lo_483745.html">デーヴィッド ・ヴァンジーランド</a></td><td>LO</td><td>26歳</td><td>クボタスピアーズ船橋・東京ベイ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/izi-sword_lo_483782.html">イジ— ・ソード</a></td><td>PR</td><td>25歳</td><td>クボタスピアーズ船橋・東京ベイ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/kazuhiro-kawata_lo_484186.html">河田 和大</a></td><td>PR</td><td>30歳</td><td>静岡ブルーレヴズ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/yushi-okuda_lo_484124.html">奥田 勇志</a></td><td>WTB</td><td>25歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/tatsuya-hayashi_lo_484127.html">林 辰哉</a></td><td>CTB</td><td>26歳</td><td>狭山セコムラガッツ</td></tr><tr class="player-row" data-school-norm="拓殖大学"><td><a href="../../player/quinton-mahina_lo_484301.html">クイントン ・マヒナ</a></td><td>CTB</td><td>27歳</td><td>東京サントリーサンゴリアス</td></tr></tbody></table></div>
