@@ -1,0 +1,30 @@
+---
+title: "ハーシェル-ヤンキース"
+name_en: "Herschel JANTJIES"
+position: "SH"
+team: "バイヨンヌ"
+height: "167"
+weight: "77"
+birth_date: "1996.04.22"
+age: 29
+high_school: ""
+university: ""
+caps: "South Africa"
+league_one_caps: "0"
+country: "South Africa"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "top14"
+joined_year: 2025
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- スカーレッツ (2017 - 2017)
+- DHLストーマーズ (2017 - 2017)
+- スカーレッツ (2018 - 2018)
+- DHLストーマーズ (2018 - 2025)
+- Aviron Bayonnais (2025 - 2026)

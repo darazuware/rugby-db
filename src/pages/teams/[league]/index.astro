@@ -1,0 +1,197 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import StandingsTable from "../../../components/StandingsTable";
+import TeamList from "../../../components/TeamList";
+import PlayerList from "../../../components/PlayerList";
+import { getCollection } from "astro:content";
+import teamsData from "../../../../data/teams.json";
+import standingsData from "../../../../data/standings.json";
+import teamNamesJp from "../../../../data/team_names_jp.json";
+import { getTeamSlug } from "../../../utils/team_utils";
+
+export async function getStaticPaths() {
+    return [
+        {
+            params: { league: "league-one" },
+            props: { leagueName: "League One" },
+        },
+        {
+            params: { league: "super-rugby" },
+            props: { leagueName: "Super Rugby" },
+        },
+        { params: { league: "top14" }, props: { leagueName: "Top 14" } },
+        { params: { league: "urc" }, props: { leagueName: "URC" } },
+    ];
+}
+
+const { league } = Astro.params;
+const { leagueName } = Astro.props;
+
+// チーム情報のマッピングを取得する共通関数
+const getTeamMapping = (teamName: string) => {
+    const leagueMapping = (teamNamesJp as any)[league || ""] || {};
+    // 1. 正式名で直接検索
+    if (leagueMapping[teamName]) return leagueMapping[teamName];
+    // 2. エイリアス、日本語名、または短縮日本語名で全体検索
+    for (const formalName in leagueMapping) {
+        const data = leagueMapping[formalName];
+        const shortJp = data.jp.includes("（")
+            ? data.jp.split("（")[0]
+            : data.jp;
+        if (
+            data.jp === teamName ||
+            shortJp === teamName ||
+            (data.aliases && data.aliases.includes(teamName)) ||
+            formalName.includes(teamName) ||
+            teamName.includes(formalName)
+        ) {
+            return data;
+        }
+    }
+    return null;
+};
+
+const filteredTeams = (teamsData as any[])
+    .filter((t: any) => t.league === league)
+    .map((t: any) => {
+        const mapping = getTeamMapping(t.team_name);
+        return {
+            ...t,
+            slug: t.slug || getTeamSlug(t.team_name),
+            team_name_jp: t.team_name_jp || mapping?.jp || t.team_name,
+            flag: t.flag || mapping?.flag || "",
+            legal_entity: t.legal_entity || mapping?.country || "",
+        };
+    });
+
+// 当該リーグの順位データと試合結果を取得
+const leagueData = (standingsData as any)[league as keyof typeof standingsData];
+const isTop14 = league === "top14";
+const isURC = league === "urc";
+
+const rawStandings = isTop14 ? leagueData?.standings || [] : leagueData || [];
+const results = isTop14 ? leagueData?.results || [] : [];
+
+const standings = rawStandings.map((s: any) => {
+    const mapping = getTeamMapping(s.team_name);
+    return {
+        ...s,
+        display_name:
+            s.display_name || mapping?.jp || s.team_name_jp || s.team_name,
+        flag: s.flag || mapping?.flag || "",
+    };
+});
+
+const allPlayers = await getCollection("players");
+
+// ページタイトル用の装飾文字
+const leagueTitle = leagueName.toUpperCase();
+---
+
+<Layout
+    title={`${leagueName} チーム一覧・最新順位・選手名鑑 | RUGBY PICKS`}
+    description={`${leagueName}（${leagueTitle}）の最新順位、全所属クラブのチーム情報、および登録選手のロースター・スタッツ検索。公式にはない高度なフィルタリング機能を備えたデータベース。`}
+>
+    <main class="bg-gray-50 min-h-screen py-12 px-4">
+        <div class="max-w-7xl mx-auto">
+            <header class="mb-12">
+                <nav
+                    class="flex items-center gap-2 text-xs font-black text-gray-400 uppercase tracking-widest mb-4"
+                >
+                    <a
+                        href="/teams"
+                        class="hover:text-yellow-500 transition-colors"
+                        >Team List</a
+                    >
+                    <span>/</span>
+                    <span class="text-gray-900">{leagueName}</span>
+                </nav>
+                <h1
+                    class="text-4xl font-black text-gray-900 tracking-tighter italic mb-4 uppercase"
+                >
+                    {leagueTitle}<span class="text-yellow-400"> TEAMS</span>
+                    <span class="not-italic ml-4 text-2xl"
+                        >{leagueName} チーム一覧</span
+                    >
+                </h1>
+                <p
+                    class="text-gray-500 font-bold italic border-l-4 border-yellow-400 pl-4"
+                >
+                    {leagueName} の最新順位{
+                        !isURC && "と所属チーム・ロースター情報"
+                    }
+                </p>
+            </header>
+
+            <div
+                class={isURC
+                    ? "max-w-4xl mx-auto"
+                    : "grid grid-cols-1 xl:grid-cols-12 gap-12"}
+            >
+                {/* 順位表 */}
+                <div class={isURC ? "w-full" : "xl:col-span-4 lg:col-span-1"}>
+                    <div class="sticky top-24">
+                        <StandingsTable
+                            leagueId={league || ""}
+                            standings={standings}
+                            results={results}
+                        />
+                        <div
+                            class="mt-4 p-4 bg-yellow-50 rounded-2xl border border-yellow-100 italic text-[11px] font-bold text-yellow-800"
+                        >
+                            ※ 順位データは毎週定期的に自動更新されます。
+                        </div>
+                    </div>
+                </div>
+
+                {/* チーム一覧 (URC以外) */}
+                {
+                    !isURC && (
+                        <div class="xl:col-span-8 lg:col-span-1">
+                            <div class="flex items-center gap-4 mb-8">
+                                <h2 class="text-2xl font-black text-gray-900 uppercase tracking-tight italic">
+                                    All{" "}
+                                    <span class="text-yellow-500">Clubs</span>
+                                </h2>
+                                <div class="flex-grow h-px bg-gray-200" />
+                            </div>
+                            <TeamList
+                                client:load
+                                initialTeams={filteredTeams}
+                                leagueContext={league}
+                            />
+                        </div>
+                    )
+                }
+            </div>
+
+            {/* 選手一覧セクション (URC以外) */}
+            {
+                !isURC && (
+                    <div class="mt-20 border-t border-gray-200 pt-16">
+                        <header class="mb-12">
+                            <div class="flex items-center gap-4 mb-4">
+                                <h2 class="text-3xl font-black text-gray-900 uppercase tracking-tighter italic">
+                                    Squad{" "}
+                                    <span class="text-yellow-500">Search</span>
+                                </h2>
+                                <div class="flex-grow h-px bg-gray-200" />
+                            </div>
+                            <p class="text-gray-500 font-bold italic border-l-4 border-yellow-400 pl-4">
+                                {leagueName}{" "}
+                                に登録されている全選手から、スペック検索・ソートが可能です。
+                            </p>
+                        </header>
+                        <div class="bg-white rounded-3xl p-2 shadow-sm border border-gray-100">
+                            <PlayerList
+                                client:load
+                                initialPlayers={allPlayers as any}
+                                leagueContext={league}
+                            />
+                        </div>
+                    </div>
+                )
+            }
+        </div>
+    </main>
+</Layout>

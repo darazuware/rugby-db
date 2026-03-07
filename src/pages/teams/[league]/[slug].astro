@@ -1,0 +1,345 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import srTeams from "../../../../data/super_rugby_teams.json";
+import t14Teams from "../../../../data/top14_teams_detailed.json";
+import urcTeams from "../../../../data/urc_teams.json";
+import TeamPlayerList from "../../../components/TeamPlayerList";
+import teamNamesJp from "../../../../data/team_names_jp.json";
+import teamsData from "../../../../data/teams.json";
+import { getTeamSlug } from "../../../utils/team_utils";
+
+export async function getStaticPaths() {
+    return teamsData.map((team: any) => ({
+        params: {
+            league: team.league,
+            slug: team.slug,
+        },
+        props: {
+            team: team,
+            league: team.league,
+        },
+    }));
+}
+
+const { team, league } = Astro.props;
+
+// チーム情報のマッピングを取得する共通関数
+const getTeamMapping = (teamName: string) => {
+    const leagueMapping = (teamNamesJp as any)[league || ""] || {};
+    // 1. 正式名で直接検索
+    if (leagueMapping[teamName]) return leagueMapping[teamName];
+    // 2. エイリアス、日本語名、または短縮日本語名で全体検索
+    for (const formalName in leagueMapping) {
+        const data = leagueMapping[formalName];
+        const shortJp = data.jp.includes("（")
+            ? data.jp.split("（")[0]
+            : data.jp;
+        if (
+            data.jp === teamName ||
+            shortJp === teamName ||
+            (data.aliases && data.aliases.includes(teamName)) ||
+            formalName.includes(teamName) ||
+            teamName.includes(formalName)
+        ) {
+            return data;
+        }
+    }
+    return null;
+};
+
+// 日本語名・旗の取得
+const mapping = getTeamMapping(team.team_name);
+const teamNameDisplay = mapping?.jp || team.team_name;
+const teamFlag = mapping?.flag || "";
+
+const TEAM_EN_NAME_MAP: Record<string, string> = {
+    // ... Existing map remains for League One
+    静岡ブルーレヴズ: "SHIZUOKA BLUE REVS",
+    東京サントリーサンゴリアス: "TOKYO SUNTORY SUNGOLIATH",
+    "浦安D-Rocks": "URAYASU D-ROCKS",
+    コベルコ神戸スティーラーズ: "KOBELCO KOBE STEELERS",
+    埼玉パナソニックワイルドナイツ: "SAITAMA PANASONIC WILDKNIGHTS",
+    東芝ブレイブルーパス東京: "TOSHIBA BRAVE LUPUS TOKYO",
+    トヨタヴェルブリッツ: "TOYOTA VERBLITZ",
+    三重ホンダヒート: "MIE HONDA HEAT",
+    三菱重工相模原ダイナボアーズ: "MITSUBISHI SAGAMIHARA DYNABOARS",
+    横浜キヤノンイーグルス: "YOKOHAMA CANON EAGLES",
+    リコーブラックラムズ東京: "RICOH BLACKRAMS TOKYO",
+    NECグリーンロケッツ東葛: "NEC GREEN ROCKETS TOKATSU",
+    九州電力キューデンヴォルテクス: "KYUSHU ELECTRIC KYUDEN VOLTEX",
+    清水建設江東ブルーシャークス: "SHIMIZU KOTO BLUE SHARKS",
+    豊田自動織機シャトルズ愛知: "TOYOTA SHOKKI SHUTTLES AICHI",
+    日本製鉄釜石シーウェイブス: "KAMAISHI SEAWAVES",
+    花園近鉄ライナーズ: "HANAZONO KINTETSU LINERS",
+    日野レッドドルフィンズ: "HINO RED DOLPHINS",
+    レッドハリケーンズ大阪: "RED HURRICANES OSAKA",
+    クリタウォーターガッシュ昭島: "KURITA WATERGUSH AKISHIMA",
+    狭山セコムラガッツ: "SECOM RUGGUTS",
+    中国電力レッドレグリオンズ: "CHUGOKU ELECTRIC RED REGULIONS",
+    マツダスカイアクティブズ広島: "MAZDA SKYACTIVS HIROSHIMA",
+    ヤクルトレビンズ戸田: "YAKULT LEVINS TODA",
+    "クボタスピアーズ船橋・東京ベイ": "KUBOTA SPEARS FUNABASHI TOKYO BAY",
+    ルリーロ福岡: "LERIRO FUKUOKA",
+};
+
+const teamEnName =
+    team.team_en_name ||
+    TEAM_EN_NAME_MAP[team.team_name] ||
+    team.team_name.toUpperCase();
+
+const { slug: paramSlug } = Astro.params; // Rename to avoid conflict with team.slug
+const isLeagueOne = league === "league-one";
+// The 'team' prop is already available from getStaticPaths, so no need to find it again unless it's missing.
+// const team = Astro.props.team || teamsData.find((t: any) => t.slug === paramSlug);
+
+// 所属選手の取得
+const allPlayers = await getCollection("players");
+const teamPlayers = allPlayers
+    .filter((p: any) => {
+        const normalize = (s: any) =>
+            String(s || "")
+                .normalize("NFC")
+                .trim();
+        const pLeague = normalize(p.data.league);
+        const tLeague = normalize(league);
+
+        // 1. リーグ一致を確認 (プレイヤー側のリーグタグが空の場合は例外的に許可)
+        if (pLeague !== "" && pLeague !== tLeague) return false;
+
+        const pTeamRaw = p.data.team;
+        if (!pTeamRaw) return false;
+
+        const pTeam = normalize(pTeamRaw);
+        const tName = normalize(team.team_name);
+        const tEnName = normalize(team.team_en_name);
+        const tDisplay = normalize(teamNameDisplay);
+
+        // 2. 正規化後の完全一致 (日本語名、英語名、マッピング表示名)
+        if (pTeam === tName || pTeam === tEnName || pTeam === tDisplay)
+            return true;
+
+        // 3. 部分一致による補完（特に海外リーグの表記揺れ対応）
+        if (tName && (pTeam.includes(tName) || tName.includes(pTeam)))
+            return true;
+        if (
+            tEnName &&
+            tEnName.length > 5 &&
+            (pTeam.includes(tEnName) || tEnName.includes(pTeam))
+        )
+            return true;
+        if (tDisplay && (pTeam.includes(tDisplay) || tDisplay.includes(pTeam)))
+            return true;
+
+        return false;
+    })
+    .map((p: any) => ({
+        slug: p.slug,
+        data: p.data,
+    }));
+---
+
+<Layout
+    title={`${isLeagueOne ? teamNameDisplay : teamEnName} (${
+        isLeagueOne ? teamEnName : teamNameDisplay
+    }) | チーム詳細 | RUGBY PICKS`}
+>
+    <main class="bg-gray-50 min-h-screen py-12 px-4">
+        <div class="max-w-6xl mx-auto">
+            {/* チームヘッダー */}
+            <div
+                class="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 mb-12"
+            >
+                <div class="bg-gray-900 p-10 text-white relative">
+                    <div class="absolute top-0 right-0 p-10 opacity-10">
+                        <span
+                            class="text-7xl font-black italic break-all text-right block max-w-xl uppercase"
+                            >{teamEnName}</span
+                        >
+                    </div>
+                    <div class="relative z-10">
+                        <a
+                            href={`/teams/${league}`}
+                            class="inline-flex items-center text-yellow-400 font-bold mb-6 hover:translate-x-1 transition-transform"
+                        >
+                            ← {league.toUpperCase().replace("-", " ")} チーム一覧に戻る
+                        </a>
+                        <div
+                            class="text-sm font-black text-gray-400 uppercase tracking-[0.2em] mb-2"
+                        >
+                            {
+                                isLeagueOne
+                                    ? team.host_area
+                                    : mapping?.country || team.legal_entity
+                            }
+                        </div>
+                        {
+                            isLeagueOne ? (
+                                <>
+                                    <h1 class="text-5xl font-black mb-4 tracking-tighter flex items-center gap-4 flex-wrap">
+                                        {teamFlag && (
+                                            <span class="text-5xl">
+                                                {teamFlag}
+                                            </span>
+                                        )}
+                                        <span>{teamNameDisplay}</span>
+                                    </h1>
+                                    {teamEnName &&
+                                        teamEnName !== teamNameDisplay && (
+                                            <div class="text-2xl font-bold text-gray-400 mb-6 italic tracking-tight uppercase">
+                                                {teamEnName}
+                                            </div>
+                                        )}
+                                </>
+                            ) : (
+                                <>
+                                    <h1 class="text-6xl md:text-7xl font-black mb-2 tracking-tighter flex items-center gap-4 flex-wrap uppercase">
+                                        {teamFlag && (
+                                            <span class="text-5xl md:text-6xl">
+                                                {teamFlag}
+                                            </span>
+                                        )}
+                                        <span>{teamEnName}</span>
+                                    </h1>
+                                    {teamNameDisplay &&
+                                        teamNameDisplay !== teamEnName && (
+                                            <div class="text-2xl font-bold text-gray-400 mb-6 italic tracking-tight uppercase">
+                                                {teamNameDisplay}
+                                            </div>
+                                        )}
+                                </>
+                            )
+                        }
+                        <div class="flex gap-4">
+                            <span
+                                class="bg-yellow-400 text-black px-4 py-1 rounded-full font-black text-xs uppercase tracking-widest leading-none flex items-center"
+                                >{team.division}</span
+                            >
+                            <span
+                                class="bg-white/10 backdrop-blur-md px-4 py-1 rounded-full font-bold text-xs flex items-center"
+                                >{team.host_area}</span
+                            >
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-10">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                        <div class="space-y-8">
+                            <h2
+                                class="text-xl font-black border-l-4 border-yellow-400 pl-4"
+                            >
+                                TEAM INFORMATION
+                            </h2>
+                            <dl class="space-y-6">
+                                <div>
+                                    <dt
+                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                    >
+                                        運営法人
+                                    </dt>
+                                    <dd class="text-lg font-bold text-gray-900">
+                                        {team.legal_entity}
+                                    </dd>
+                                </div>
+                                <div>
+                                    <dt
+                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                    >
+                                        練習グラウンド
+                                    </dt>
+                                    <dd class="text-lg font-bold text-gray-900">
+                                        {team.practice_ground || "---"}
+                                    </dd>
+                                </div>
+                                <div>
+                                    <dt
+                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                    >
+                                        ホストエリア
+                                    </dt>
+                                    <dd class="text-lg font-bold text-gray-900">
+                                        {team.host_area}
+                                    </dd>
+                                </div>
+                                {
+                                    team.official_site && (
+                                        <div>
+                                            <dt class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1">
+                                                公式サイト
+                                            </dt>
+                                            <dd>
+                                                <a
+                                                    href={team.official_site}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    class="text-lg font-bold text-yellow-600 hover:text-black transition-colors underline underline-offset-4 decoration-2"
+                                                >
+                                                    {team.official_site.replace(
+                                                        /^https?:\/\//,
+                                                        ""
+                                                    )}{" "}
+                                                    ↗
+                                                </a>
+                                            </dd>
+                                        </div>
+                                    )
+                                }
+                            </dl>
+                        </div>
+
+                        <div
+                            class="bg-gray-50 rounded-2xl p-8 border border-gray-100 flex flex-col justify-center items-center text-center"
+                        >
+                            <div class="text-4xl font-black text-gray-900 mb-2">
+                                {teamPlayers.length}
+                            </div>
+                            <div
+                                class="text-xs font-black text-gray-400 uppercase tracking-widest"
+                            >
+                                Registered Players
+                            </div>
+                            <p
+                                class="text-sm text-gray-500 mt-4 leading-relaxed font-medium"
+                            >
+                                当サイトに登録されている {team.team_name} 所属の選手一覧です。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {/* 選手一覧 */}
+            <section>
+                <div class="flex items-center gap-4 mb-8">
+                    <h2
+                        class="text-2xl font-black text-gray-900 uppercase tracking-tight"
+                    >
+                        PLAYERS
+                    </h2>
+                    <div class="flex-grow h-px bg-gray-200"></div>
+                    <span
+                        class="text-xs font-black text-gray-400 uppercase tracking-widest"
+                        >{teamPlayers.length} 名</span
+                    >
+                </div>
+
+                {
+                    teamPlayers.length > 0 ? (
+                        <TeamPlayerList
+                            players={teamPlayers}
+                            isLeagueOne={isLeagueOne}
+                            client:load
+                        />
+                    ) : (
+                        <div class="bg-white rounded-3xl p-12 text-center border-2 border-dashed border-gray-100">
+                            <p class="text-gray-400 font-bold">
+                                現在、登録されている所属選手はいません。
+                            </p>
+                        </div>
+                    )
+                }
+            </section>
+        </div>
+    </main>
+</Layout>

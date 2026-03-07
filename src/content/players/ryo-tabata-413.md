@@ -1,0 +1,26 @@
+---
+title: "田畑 凌"
+name_en: "Ryo Tabata"
+position: "CTB"
+team: "横浜キヤノンイーグルス"
+height: "177"
+weight: "93"
+birth_date: "1996.07.05"
+age: 29
+high_school: "報徳学園高校"
+university: "京都産業大学"
+caps: ""
+league_one_caps: "19"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2022
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2026)

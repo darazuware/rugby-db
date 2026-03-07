@@ -1,0 +1,27 @@
+---
+title: "ミシナレ・エペニサ"
+name_en: "Misinale EPENISA"
+position: "PR"
+team: "ウェスタン・フォース"
+height: "195"
+weight: "128"
+birth_date: "2001.10.11"
+age: 24
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Manawatu Turbos (2023 - 2025)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)

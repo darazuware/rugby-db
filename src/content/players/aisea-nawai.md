@@ -1,0 +1,26 @@
+---
+title: "アイセア・ナワイ"
+name_en: "Aisea NAWAI"
+position: "Winger"
+team: "フィジアン・ドゥルア"
+height: ""
+weight: ""
+birth_date: "2005.."
+age: 21
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2023
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2026)

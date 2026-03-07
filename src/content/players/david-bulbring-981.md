@@ -1,0 +1,27 @@
+---
+title: "デーヴィッド ・ブルブリング"
+name_en: "David Bulbring"
+position: "LO"
+team: "クボタスピアーズ船橋・東京ベイ"
+height: "199"
+weight: "113"
+birth_date: "1989.09.12"
+age: 36
+high_school: "AlexanderRoadHighSchool（アレクサンダーロード高校）"
+university: "Universityofjohannesburg（ヨハ"
+caps: ""
+league_one_caps: "62"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2021
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- スカーレッツ (2015 - 2019)
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2026)

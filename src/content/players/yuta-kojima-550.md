@@ -1,0 +1,27 @@
+---
+title: "小島 佑太"
+name_en: "Yuta Kojima"
+position: "LO"
+team: "浦安D-Rocks"
+height: "188"
+weight: "110"
+birth_date: "1996.11.08"
+age: 29
+high_school: "洛北高校"
+university: "立命館大学"
+caps: ""
+league_one_caps: "23"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2022
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2026)

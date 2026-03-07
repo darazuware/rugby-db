@@ -1,0 +1,157 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const leagues = [
+    {
+        id: "league-one",
+        name: "LEAGUE ONE",
+        title_jp: "ジャパンラグビー リーグワン",
+        description:
+            "日本最高峰のプロリーグ。世界トップクラスの選手が続々と参戦し、急速にレベルアップを遂げている。",
+        color: "bg-[#E60012]",
+        accent: "text-[#E60012]",
+        border: "border-[#E60012]",
+        image: "https://league-one.jp/img/logo.png", // 仮
+        href: "/teams/league-one",
+        tag: "日本 / 国内リーグ",
+    },
+    {
+        id: "super-rugby",
+        name: "SUPER RUGBY PACIFIC",
+        title_jp: "スーパーラグビー・パシフィック",
+        description:
+            "ニュージーランド、オーストラリア、フィジー、サモアの強豪クラブが激突する、世界で最もエキサイティングなリーグ。",
+        color: "bg-[#0055A4]",
+        accent: "text-[#0055A4]",
+        border: "border-[#0055A4]",
+        image: "https://super.rugby/img/logo.png", // 仮
+        href: "/teams/super-rugby",
+        tag: "南半球 / ニュージーランド・オーストラリア他",
+    },
+    {
+        id: "top14",
+        name: "TOP 14",
+        title_jp: "トップ14",
+        description:
+            "フランスのプロリーグ。世界屈指の資金力を背景に、各国代表のエースが集結する世界最高峰のリーグの一つ。",
+        color: "bg-[#C5A059]",
+        accent: "text-[#C5A059]",
+        border: "border-[#C5A059]",
+        image: "https://top14.lnr.fr/img/logo.png", // 仮
+        href: "/teams/top14",
+        tag: "フランス / 欧州最高峰",
+    },
+    {
+        id: "urc",
+        name: "URC",
+        title_jp: "ユナイテッド・ラグビー・チャンピオンシップ",
+        description:
+            "アイルランド、ウェールズ、スコットランド、イタリア、南アフリカの5カ国からなる国際リーグ。",
+        color: "bg-[#003366]",
+        accent: "text-[#003366]",
+        border: "border-[#003366]",
+        image: "https://www.unitedrugby.com/img/logo.png", // 仮
+        href: "/teams/urc",
+        tag: "多国籍 / 欧州・南アフリカ",
+    },
+];
+---
+
+<Layout title="リーグ一覧 | RUGBY PICKS">
+    <main class="bg-gray-50 min-h-screen py-24 px-4">
+        <div class="max-w-7xl mx-auto">
+            <header class="text-center mb-24">
+                <span
+                    class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 uppercase tracking-widest italic"
+                >
+                    World Leagues
+                </span>
+                <h1
+                    class="text-6xl md:text-8xl font-black italic tracking-tighter mb-8 leading-none uppercase text-gray-900"
+                >
+                    EXPLORE<br /><span class="text-yellow-400">THE LEAGUES</span
+                    >
+                </h1>
+                <p
+                    class="text-xl text-gray-500 font-bold max-w-2xl mx-auto italic"
+                >
+                    世界各国の主要ラグビーリーグを網羅。各リーグの所属チーム、順位、選手情報をチェックできます。
+                </p>
+            </header>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                {
+                    leagues.map((league) => (
+                        <a
+                            href={league.href}
+                            class="group relative bg-white border border-gray-100 rounded-[3rem] p-12 overflow-hidden hover:shadow-2xl hover:-translate-y-2 transition-all"
+                        >
+                            <div
+                                class={`absolute top-0 right-0 w-32 h-32 translate-x-16 -translate-y-16 rotate-45 ${league.color} opacity-10 group-hover:opacity-100 transition-opacity`}
+                            />
+
+                            <div class="relative z-10 flex flex-col h-full">
+                                <span
+                                    class={`text-xs font-black uppercase tracking-widest mb-4 ${league.accent} group-hover:text-white transition-colors`}
+                                >
+                                    {league.tag}
+                                </span>
+
+                                <h2 class="text-4xl font-black italic tracking-tighter mb-2 uppercase group-hover:text-white transition-colors leading-none">
+                                    {league.name}
+                                </h2>
+                                <p class="text-lg font-bold text-gray-400 mb-8 group-hover:text-white/80 transition-colors">
+                                    {league.title_jp}
+                                </p>
+
+                                <p class="text-gray-600 font-medium leading-relaxed group-hover:text-white transition-colors mb-12 flex-grow">
+                                    {league.description}
+                                </p>
+
+                                <div class="flex items-center gap-4">
+                                    <span
+                                        class={`px-8 py-4 ${league.color} text-white font-black text-lg rounded-2xl group-hover:bg-white group-hover:text-gray-900 transition-all shadow-xl`}
+                                    >
+                                        チーム一覧へ
+                                    </span>
+                                    <div class="flex-grow h-px bg-gray-100 group-hover:bg-white/20 transition-colors" />
+                                </div>
+                            </div>
+
+                            {/* ホバー時のオーバーレイ背景 */}
+                            <div
+                                class={`absolute inset-0 ${league.color} -z-10 translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out`}
+                            />
+                        </a>
+                    ))
+                }
+            </div>
+
+            <section
+                class="mt-32 p-16 bg-gray-900 rounded-[4rem] text-center overflow-hidden relative"
+            >
+                <div
+                    class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
+                >
+                </div>
+                <div class="relative z-10">
+                    <h2
+                        class="text-4xl font-black text-white italic tracking-tighter mb-8"
+                    >
+                        ALL PLAYERS <span class="text-yellow-400">DATABASE</span
+                        >
+                    </h2>
+                    <p class="text-gray-400 font-bold mb-12 max-w-2xl mx-auto">
+                        リーグの垣根を超えて、全5,000名以上の選手から一括検索が可能です。
+                    </p>
+                    <a
+                        href="/players"
+                        class="inline-block px-12 py-5 bg-yellow-400 text-black font-black text-xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-2xl shadow-yellow-400/20"
+                    >
+                        選手名鑑（全体検索）へ
+                    </a>
+                </div>
+            </section>
+        </div>
+    </main>
+</Layout>

@@ -1,0 +1,27 @@
+---
+title: "繁松 哲大"
+name_en: "Tetta Shigematsu"
+position: "FL"
+team: "浦安D-Rocks"
+height: "178"
+weight: "94"
+birth_date: "1999.01.06"
+age: 27
+high_school: "札幌山の手高校"
+university: "明治大学"
+caps: ""
+league_one_caps: "31"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2022
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2026)

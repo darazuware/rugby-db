@@ -1,0 +1,27 @@
+---
+title: "トム・スプリング"
+name_en: "Tom SPRING"
+position: "WTB"
+team: "バイヨンヌ"
+height: "186"
+weight: "87"
+birth_date: "2002.09.26"
+age: 23
+high_school: ""
+university: ""
+caps: "France"
+league_one_caps: "0"
+country: "France"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "top14"
+joined_year: 2021
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- US Nafarroa (2008 - 2021)
+- Aviron Bayonnais (2021 - 2026)

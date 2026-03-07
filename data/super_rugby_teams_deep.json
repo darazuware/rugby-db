@@ -1,0 +1,90 @@
+{
+  "91": {
+    "team_id": "91",
+    "stadium": "FMG Stadium Waikato",
+    "based": "Hamilton",
+    "official_website": "https://chiefs.co.nz/team/gallagher-chiefs-squad/",
+    "players": [],
+    "team_name": "Chiefs"
+  },
+  "96": {
+    "team_id": "96",
+    "stadium": "Apollo Projects Stadium",
+    "based": "Christchurch",
+    "official_website": "https://crusaders.co.nz/team/crusaders2025/",
+    "players": [],
+    "team_name": "Crusaders"
+  },
+  "150": {
+    "team_id": "150",
+    "stadium": "GIO Stadium",
+    "based": "Canberra",
+    "official_website": "https://brumbies.rugby/teams/super-rugby",
+    "players": [],
+    "team_name": "ACT Brumbies"
+  },
+  "94": {
+    "team_id": "94",
+    "stadium": "Hnry Stadium",
+    "based": "Wellington",
+    "official_website": "https://www.hurricanes.co.nz/squad/2024-hurricanes",
+    "players": [],
+    "team_name": "Hurricanes"
+  },
+  "250": {
+    "team_id": "250",
+    "stadium": "Suncorp Stadium",
+    "based": "Brisbane",
+    "official_website": "https://reds.rugby/teams/reds-mens",
+    "players": [],
+    "team_name": "Queensland Reds"
+  },
+  "93": {
+    "team_id": "93",
+    "stadium": "Eden Park",
+    "based": "Auckland",
+    "official_website": "https://www.blues.rugby/blues-men-squad",
+    "players": [],
+    "team_name": "Blues"
+  },
+  "3600": {
+    "team_id": "3600",
+    "stadium": "North Harbour Stadium",
+    "based": "Auckland, NZ",
+    "official_website": "https://moanapasifika.co.nz/players/",
+    "players": [],
+    "team_name": "Moana Pasifika"
+  },
+  "200": {
+    "team_id": "200",
+    "stadium": "Allianz Stadium",
+    "based": "Sydney",
+    "official_website": "https://waratahs.rugby/teams/nsw-waratahs",
+    "players": [],
+    "team_name": "NSW Waratahs"
+  },
+  "73": {
+    "team_id": "73",
+    "stadium": "HBF Park",
+    "based": "Perth",
+    "official_website": "https://westernforce.rugby/teams/mens",
+    "players": [],
+    "team_name": "Western Force"
+  },
+  "441": {
+    "team_id": "441",
+    "stadium": "HFC Bank Stadium",
+    "based": "Fiji",
+    "official_website": "https://drua.rugby/teams/men/squad-list",
+    "players": [],
+    "team_name": "Fijian Drua"
+  },
+  "95": {
+    "team_id": "95",
+    "stadium": "Forsyth Barr Stadium",
+    "based": "Dunedin",
+    "official_website": "https://thehighlanders.co.nz/our-teams/highlanders-super-rugby/",
+    "players": [],
+    "team_name": "Highlanders"
+  }
+}

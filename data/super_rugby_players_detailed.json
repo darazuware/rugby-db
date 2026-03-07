@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ScottBarrett",
+    "url": "https://crusaders.co.nz/scott-barrett/",
+    "caps": 82,
+    "school": "Francis Douglas Memorial College",
+    "birth_date": null,
+    "age": null
+  },
+  {
+    "name": "GeorgeBell",
+    "url": "https://crusaders.co.nz/development/crusaders-academy/george-bell/",
+    "caps": null,
+    "school": null,
+    "birth_date": null,
+    "age": null
+  },
+  {
+    "name": "TobyBell",
+    "url": "https://crusaders.co.nz/toby-bell/",
+    "caps": null,
+    "school": null,
+    "birth_date": null,
+    "age": null
+  },
+  {
+    "name": "EthanBlackadder",
+    "url": "https://crusaders.co.nz/ethan-blackadder/",
+    "caps": 14,
+    "school": null,
+    "birth_date": null,
+    "age": null
+  },
+  {
+    "name": "GeorgeBower",
+    "url": "https://crusaders.co.nz/george-bower/",
+    "caps": 22,
+    "school": null,
+    "birth_date": null,
+    "age": null
+  }
+]

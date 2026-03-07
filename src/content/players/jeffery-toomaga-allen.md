@@ -1,0 +1,29 @@
+---
+title: "ジェフリー-トゥーマガ＝アレン"
+name_en: "Jeffery TOOMAGA-ALLEN"
+position: "PR"
+team: "クイーンズランド・レッズ"
+height: "192"
+weight: "125"
+birth_date: "1990.11.19"
+age: 35
+high_school: ""
+university: ""
+caps: "New Zealand"
+league_one_caps: "0"
+country: "New Zealand"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2023
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
+- Wasps (2019 - 2022)
+- アルスター・ラグビー (2022 - 2023)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2026)

@@ -1,0 +1,31 @@
+---
+title: "イソア-ナシラスィラ"
+name_en: "Isoa NASILASILA"
+position: "LO"
+team: "フィジアン・ドゥルア"
+height: "197"
+weight: "117"
+birth_date: "1999.09.13"
+age: 26
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2022
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Southern Districts (2019 - 2021)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2021)
+- North Harbour (2021 - 2021)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2022)
+- North Harbour (2022 - 2022)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)

@@ -1,0 +1,114 @@
+{
+  "glasgow": {
+    "slug": "glasgow",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Glasgow Warriors"
+  },
+  "leinster": {
+    "slug": "leinster",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Leinster Rugby"
+  },
+  "cardiff": {
+    "slug": "cardiff",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Cardiff Rugby"
+  },
+  "munster": {
+    "slug": "munster",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Munster Rugby"
+  },
+  "stormers": {
+    "slug": "stormers",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "DHL Stormers"
+  },
+  "ulster": {
+    "slug": "ulster",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Ulster Rugby"
+  },
+  "lions": {
+    "slug": "lions",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Fidelity SecureDrive Lions"
+  },
+  "bulls": {
+    "slug": "bulls",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Vodacom Bulls"
+  },
+  "ospreys": {
+    "slug": "ospreys",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Ospreys"
+  },
+  "connacht": {
+    "slug": "connacht",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Connacht Rugby"
+  },
+  "sharks": {
+    "slug": "sharks",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Hollywoodbets Sharks"
+  },
+  "edinburgh": {
+    "slug": "edinburgh",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Edinburgh Rugby"
+  },
+  "benetton": {
+    "slug": "benetton",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Benetton Rugby"
+  },
+  "dragons rfc": {
+    "slug": "dragons rfc",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Dragons RFC"
+  },
+  "scarlets": {
+    "slug": "scarlets",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Scarlets"
+  },
+  "zebre": {
+    "slug": "zebre",
+    "stadium": "",
+    "country": "",
+    "official_website": "",
+    "team_name": "Zebre Parma"
+  }
+}

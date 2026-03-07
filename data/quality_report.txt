@@ -1,0 +1,4 @@
+=== Site Quality Report ===
+Total Link Errors: 0
+
+Total Consistency Errors: 0

@@ -1,0 +1,31 @@
+---
+title: "トマス・ラヴァニーニ"
+name_en: "Tomás LAVANINI"
+position: "LO"
+team: "オタゴ・ハイランダーズ"
+height: "200"
+weight: "127"
+birth_date: "1993.01.22"
+age: 33
+high_school: ""
+university: ""
+caps: "Argentina"
+league_one_caps: "0"
+country: "Argentina"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [ラシン92](/teams/top14/racing-92) (2014 - 2015)
+- Jaguares (2015 - 2019)
+- Leicester Tigers (2019 - 2021)
+- [クレルモン](/teams/top14/clermont) (2021 - 2024)
+- [リヨン](/teams/top14/lyon-ou) (2024 - 2025)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2026)

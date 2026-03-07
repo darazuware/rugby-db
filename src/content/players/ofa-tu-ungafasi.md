@@ -1,0 +1,33 @@
+---
+title: "オファ・トゥンガファシ"
+name_en: "Ofa TU'UNGAFASI"
+position: "PR"
+team: "オークランド・ブルーズ"
+height: "195"
+weight: "125"
+birth_date: "1992.04.19"
+age: 33
+high_school: ""
+university: ""
+caps: "Tonga"
+league_one_caps: "0"
+country: "Tonga"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2022
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2019)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2019)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
+- Northland Taniwha (2021 - 2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
+- Northland Taniwha (2022 - 2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2026)

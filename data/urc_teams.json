@@ -1,0 +1,82 @@
+[
+  {
+    "team_name": "Bulls",
+    "slug": "bulls",
+    "league": "urc"
+  },
+  {
+    "team_name": "Cardiff",
+    "slug": "cardiff",
+    "league": "urc"
+  },
+  {
+    "team_name": "Connacht",
+    "slug": "connacht",
+    "league": "urc"
+  },
+  {
+    "team_name": "Dragons",
+    "slug": "dragons",
+    "league": "urc"
+  },
+  {
+    "team_name": "Edimbourg",
+    "slug": "edimbourg",
+    "league": "urc"
+  },
+  {
+    "team_name": "Glasgow",
+    "slug": "glasgow",
+    "league": "urc"
+  },
+  {
+    "team_name": "Leinster",
+    "slug": "leinster",
+    "league": "urc"
+  },
+  {
+    "team_name": "Lions",
+    "slug": "lions",
+    "league": "urc"
+  },
+  {
+    "team_name": "Munster",
+    "slug": "munster",
+    "league": "urc"
+  },
+  {
+    "team_name": "Ospreys",
+    "slug": "ospreys",
+    "league": "urc"
+  },
+  {
+    "team_name": "Scarlets",
+    "slug": "scarlets",
+    "league": "urc"
+  },
+  {
+    "team_name": "Sharks",
+    "slug": "sharks",
+    "league": "urc"
+  },
+  {
+    "team_name": "Stormers",
+    "slug": "stormers",
+    "league": "urc"
+  },
+  {
+    "team_name": "Trévise",
+    "slug": "trévise",
+    "league": "urc"
+  },
+  {
+    "team_name": "Ulster",
+    "slug": "ulster",
+    "league": "urc"
+  },
+  {
+    "team_name": "Zebre",
+    "slug": "zebre",
+    "league": "urc"
+  }
+]

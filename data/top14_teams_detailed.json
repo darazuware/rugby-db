@@ -1,0 +1,86 @@
+[
+  {
+    "team_name": "トゥールーズ",
+    "team_en_name": "Stade Toulousain",
+    "slug": "toulouse",
+    "league": "top14"
+  },
+  {
+    "team_name": "ボルドー・ベグル",
+    "team_en_name": "Bordeaux Bègles",
+    "slug": "bordeaux",
+    "league": "top14"
+  },
+  {
+    "team_name": "スタッド・フランセ",
+    "team_en_name": "Stade Français Paris",
+    "slug": "paris",
+    "league": "top14"
+  },
+  {
+    "team_name": "トゥーロン",
+    "team_en_name": "RC Toulon",
+    "slug": "toulon",
+    "league": "top14"
+  },
+  {
+    "team_name": "ラ・ロシェル",
+    "team_en_name": "Stade Rochelais",
+    "slug": "la-rochelle",
+    "league": "top14"
+  },
+  {
+    "team_name": "ラシン92",
+    "team_en_name": "Racing 92",
+    "slug": "racing-92",
+    "league": "top14"
+  },
+  {
+    "team_name": "リヨン",
+    "team_en_name": "Lyon OU",
+    "slug": "lyon",
+    "league": "top14"
+  },
+  {
+    "team_name": "カストル",
+    "team_en_name": "Castres Olympique",
+    "slug": "castres",
+    "league": "top14"
+  },
+  {
+    "team_name": "ポー",
+    "team_en_name": "Section Paloise",
+    "slug": "pau",
+    "league": "top14"
+  },
+  {
+    "team_name": "ペルピニャン",
+    "team_en_name": "USA Perpignan",
+    "slug": "perpignan",
+    "league": "top14"
+  },
+  {
+    "team_name": "バイヨンヌ",
+    "team_en_name": "Aviron Bayonnais",
+    "slug": "bayonne",
+    "league": "top14"
+  },
+  {
+    "team_name": "クレルモン",
+    "team_en_name": "ASM Clermont Auvergne",
+    "slug": "clermont",
+    "league": "top14"
+  },
+  {
+    "team_name": "モンペリエ",
+    "team_en_name": "Montpellier Hérault Rugby",
+    "slug": "montpellier",
+    "league": "top14"
+  },
+  {
+    "team_name": "ヴァンヌ",
+    "team_en_name": "RC Vannes",
+    "slug": "vannes",
+    "league": "top14"
+  }
+]

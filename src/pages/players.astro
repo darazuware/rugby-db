@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PlayerList from '../components/PlayerList';
+import { getCollection } from 'astro:content';
+
+const allPlayers = await getCollection('players');
+---
+
+<Layout title="ラグビー選手名鑑 | 爆速検索・ソート">
+	<main class="bg-gray-50 min-h-screen py-10">
+		<PlayerList initialPlayers={allPlayers} client:load />
+	</main>
+</Layout>

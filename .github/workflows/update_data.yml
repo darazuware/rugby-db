@@ -1,0 +1,40 @@
+name: Update Rugby Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # 毎週月曜日 00:00 UTC
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+          
+      - name: Scrape Standings
+        run: python3 scripts/scrape_standings.py
+        
+      - name: Deep Scrape Players (Stage 2)
+        run: python3 scripts/run_stage2_consolidation.py
+        
+      - name: Generate Site Content
+        run: |
+          # 必要に応じて generate_players.py 等を実行
+          # python3 scripts/update_site.sh
+          
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/*.json data/*.txt
+          git commit -m "Automated data update: $(date +'%Y-%m-%d')" || exit 0
+          git push

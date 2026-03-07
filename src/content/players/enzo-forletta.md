@@ -1,0 +1,28 @@
+---
+title: "エンゾ・フォルレッタ"
+name_en: "Enzo FORLETTA"
+position: "PR"
+team: "モンペリエ"
+height: "175"
+weight: "118"
+birth_date: "1994.06.15"
+age: 31
+high_school: ""
+university: ""
+caps: "France"
+league_one_caps: "0"
+country: "France"
+nationality: "Voir"
+category: "カテゴリーA"
+division: ""
+league: "top14"
+joined_year: 2020
+has_scores: true
+instagram: "https://www.instagram.com/enzoforletta/"
+twitter: "https://twitter.com/MHR_officiel"
+facebook: "https://www.facebook.com/enzo.forletta"
+---
+
+- Étoile Sportive Catalane (2009 - 2011)
+- Union Sportive Arlequins Perpignanais (2011 - 2020)
+- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2026)

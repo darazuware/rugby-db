@@ -1,0 +1,26 @@
+---
+title: "高井 迪郎"
+name_en: "Michiro Takai"
+position: "FL"
+team: "九州電力キューデンヴォルテクス"
+height: "187"
+weight: "99"
+birth_date: "1989.12.13"
+age: 36
+high_school: "大分舞鶴高校"
+university: "日本体育大学"
+caps: "U20('08)、セブンズ日本(1)"
+league_one_caps: "19"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2021
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - 2026)

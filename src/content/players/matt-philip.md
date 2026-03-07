@@ -1,0 +1,31 @@
+---
+title: "マット・フィリップ"
+name_en: "Matt PHILIP"
+position: "LO"
+team: "NSWワラタス（ワラターズ）"
+height: "199"
+weight: "115"
+birth_date: "1994.03.07"
+age: 32
+high_school: ""
+university: ""
+caps: "Australia"
+league_one_caps: "0"
+country: "Australia"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
+- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2017 - 2020)
+- Section Paloise Béarn Pyrénées (2020 - 2021)
+- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2021 - 2023)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - 2025)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)

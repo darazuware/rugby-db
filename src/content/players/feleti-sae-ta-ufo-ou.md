@@ -1,0 +1,31 @@
+---
+title: "フェレティ-サエ＝タウフォオウ"
+name_en: "Feleti SAE-TA'UFO'OU"
+position: "PR"
+team: "モアナ・パシフィカ"
+height: "190"
+weight: "112"
+birth_date: "2002.06.17"
+age: 23
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Manawatu Turbos (2022 - 2024)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
+- Manawatu Turbos (2024 - 2024)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2025)
+- Manawatu Turbos (2025 - 2025)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2026)

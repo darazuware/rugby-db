@@ -1,0 +1,596 @@
+[
+  {
+    "team_id": "93",
+    "team_name": "Blues",
+    "players": [
+      {
+        "name": "PITA AHKI",
+        "position": "MIDFIELDER"
+      },
+      {
+        "name": "BEN AKE",
+        "position": "PROP"
+      },
+      {
+        "name": "KADE BANKS",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "BEAUDEN BARRETT",
+        "position": "FIRST FIVE-EIGHTH"
+      },
+      {
+        "name": "JOSH BEEHRE",
+        "position": "LOCK"
+      },
+      {
+        "name": "JAMES CAMERON",
+        "position": "MIDFIELDER"
+      },
+      {
+        "name": "CAMERON CHRISTIE",
+        "position": "LOCK"
+      },
+      {
+        "name": "FINLAY CHRISTIE",
+        "position": "HALFBACK"
+      },
+      {
+        "name": "CHE CLARK",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "CALEB CLARKE",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "TRISTYN COOK",
+        "position": "LOCK"
+      },
+      {
+        "name": "SAM DARRY",
+        "position": "LOCK"
+      },
+      {
+        "name": "KURT EKLUND",
+        "position": "HOOKER"
+      },
+      {
+        "name": "COREY EVANS",
+        "position": "MIDFIELD"
+      },
+      {
+        "name": "TAUFA FUNAKI",
+        "position": "HALFBACK"
+      },
+      {
+        "name": "JOSHUA FUSITU'A",
+        "position": "PROP"
+      },
+      {
+        "name": "COLE FORBES",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "AJ LAM",
+        "position": "MIDFIELDER"
+      },
+      {
+        "name": "JORDAN LAY",
+        "position": "PROP"
+      },
+      {
+        "name": "LAGHLAN McWHANNELL",
+        "position": "LOCK"
+      },
+      {
+        "name": "JAMES MULLAN",
+        "position": "HOOKER"
+      },
+      {
+        "name": "SAM NOCK",
+        "position": "HALFBACK"
+      },
+      {
+        "name": "DALTON PAPALI'I",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "TERRELL PEITA",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "STEPHEN PEROFETA",
+        "position": "FIRST FIVE-EIGHTH"
+      },
+      {
+        "name": "MARCEL RENATA",
+        "position": "PROP"
+      },
+      {
+        "name": "ANTON SEGNER",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "RICO SIMPSON",
+        "position": "FIRST FIVE-EIGHTH"
+      },
+      {
+        "name": "BRADLEY SLATER",
+        "position": "HOOKER"
+      },
+      {
+        "name": "HOSKINS SOTUTU",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "PAYTON SPENCER",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "CAMERON SUAFOA",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "ZARN SULLIVAN",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "XAVI TAELE",
+        "position": "MIDFIELDER"
+      },
+      {
+        "name": "PATRICK TUIPULOTU",
+        "position": "LOCK"
+      },
+      {
+        "name": "OFA TU'UNGAFASI",
+        "position": "PROP"
+      },
+      {
+        "name": "CODEMERU VAI",
+        "position": "OUTSIDE BACK"
+      },
+      {
+        "name": "MALACHI WRAMPLING",
+        "position": "LOOSE FORWARD"
+      },
+      {
+        "name": "FLYN YATES",
+        "position": "PROP"
+      }
+    ]
+  },
+  {
+    "team_id": "150",
+    "team_name": "Brumbies",
+    "players": []
+  },
+  {
+    "team_id": "91",
+    "team_name": "Chiefs",
+    "players": []
+  },
+  {
+    "team_id": "96",
+    "team_name": "Crusaders",
+    "players": []
+  },
+  {
+    "team_id": "441",
+    "team_name": "Fijian Drua",
+    "players": []
+  },
+  {
+    "team_id": "95",
+    "team_name": "Highlanders",
+    "players": []
+  },
+  {
+    "team_id": "94",
+    "team_name": "Hurricanes",
+    "players": [
+      {
+        "name": "Tom AllenLockView profile",
+        "url": "/squad/player/tom-allen"
+      },
+      {
+        "name": "Asafo AumuaHookerView profile",
+        "url": "/squad/player/asafo-aumua"
+      },
+      {
+        "name": "Jordie BarrettFullbackView profile",
+        "url": "/squad/player/jordie-barrett"
+      },
+      {
+        "name": "Mosese BasonLoose forwardView profile",
+        "url": "/squad/player/mosese-bason"
+      },
+      {
+        "name": "Vernon BasonHookerView profile",
+        "url": "/squad/player/vernon-bason"
+      },
+      {
+        "name": "Brett CameronFirst five-eighthView profile",
+        "url": "/squad/player/brett-cameron"
+      },
+      {
+        "name": "Lucas CashmoreFirst five-eighthView profile",
+        "url": "/squad/player/lucas-cashmore"
+      },
+      {
+        "name": "Will ColeFirst five-eighth,FullbackView profile",
+        "url": "/squad/player/will-cole"
+      },
+      {
+        "name": "Warner DearnsLockView profile",
+        "url": "/squad/player/warner-dearns"
+      },
+      {
+        "name": "Caleb DelanyLockView profile",
+        "url": "/squad/player/caleb-delany"
+      },
+      {
+        "name": "Jacob DeveryHookerView profile",
+        "url": "/squad/player/jacob-devery"
+      },
+      {
+        "name": "Ereatara EnariHalfbackView profile",
+        "url": "/squad/player/ereatara-enari"
+      },
+      {
+        "name": "Taniela FilimoneOutside BackView profile",
+        "url": "/squad/player/taniela-filimone"
+      },
+      {
+        "name": "Fehi FineanganofoOutside BackView profile",
+        "url": "/squad/player/fehi-fineanganofo"
+      },
+      {
+        "name": "Cooper FlandersLoose forwardView profile",
+        "url": "/squad/player/cooper-flanders"
+      },
+      {
+        "name": "Devan FlandersLoose forwardView profile",
+        "url": "/squad/player/devan-flanders-1"
+      },
+      {
+        "name": "Harry GodfreyFirst five-eighth,FullbackView profile",
+        "url": "/squad/player/harry-godfrey"
+      },
+      {
+        "name": "Josh GrayOutside BackView profile",
+        "url": "/squad/player/josh-gray"
+      },
+      {
+        "name": "Callum HarkinFirst five-eighth,FullbackView profile",
+        "url": "/squad/player/callum-harkin"
+      },
+      {
+        "name": "Riley HigginsCentre,Midfield BackView profile",
+        "url": "/squad/player/riley-higgins"
+      },
+      {
+        "name": "Brayden IoseLoose forwardView profile",
+        "url": "/squad/player/brayden-iose-1"
+      },
+      {
+        "name": "Du'Plessis KirifiLoose forwardView profile",
+        "url": "/squad/player/duplessis-kirifi"
+      },
+      {
+        "name": "Peter LakaiLoose forwardView profile",
+        "url": "/squad/player/peter-lakai"
+      },
+      {
+        "name": "Siale LauakiPropView profile",
+        "url": "/squad/player/siale-lauaki"
+      },
+      {
+        "name": "Tyrel LomaxPropView profile",
+        "url": "/squad/player/tyrel-lomax"
+      },
+      {
+        "name": "Ruben LoveFirst five-eighth,FullbackView profile",
+        "url": "/squad/player/ruben-love"
+      },
+      {
+        "name": "Tevita MafileoPropView profile",
+        "url": "/squad/player/tevita-mafileo"
+      },
+      {
+        "name": "Joshua MoorbyOutside BackView profile",
+        "url": "/squad/player/joshua-moorby"
+      },
+      {
+        "name": "Kini NaholoWing,Outside BackView profile",
+        "url": "/squad/player/kini-naholo"
+      },
+      {
+        "name": "Xavier NumiaPropView profile",
+        "url": "/squad/player/xavier-numia"
+      },
+      {
+        "name": "Anaru Paenga-MorganMidfield BackView profile",
+        "url": "/squad/player/anaru-paenga-morgan"
+      },
+      {
+        "name": "Matolu PataiaLoose forwardView profile",
+        "url": "/squad/player/matolu-pataia"
+      },
+      {
+        "name": "Hugo PlummerLockView profile",
+        "url": "/squad/player/hugo-plummer"
+      },
+      {
+        "name": "Arese PolikoLoose forwardView profile",
+        "url": "/squad/player/arese-poliko"
+      },
+      {
+        "name": "Billy ProctorMidfield BackView profile",
+        "url": "/squad/player/billy-proctor"
+      },
+      {
+        "name": "Ngane PuniwaiOutside BackView profile",
+        "url": "/squad/player/ngane-puniwai"
+      },
+      {
+        "name": "Pouri Rakete-StonesPropView profile",
+        "url": "/squad/player/pouri-rakete-stones"
+      },
+      {
+        "name": "Cam RoigardHalfbackView profile",
+        "url": "/squad/player/cam-roigard"
+      },
+      {
+        "name": "Taine RoiriLockView profile",
+        "url": "/squad/player/taine-roiri"
+      },
+      {
+        "name": "Jone RovaMidfield BackView profile",
+        "url": "/squad/player/jone-rova"
+      },
+      {
+        "name": "Brad ShieldsLoose forwardView profile",
+        "url": "/squad/player/brad-shields"
+      },
+      {
+        "name": "Bailyn SullivanMidfield BackView profile",
+        "url": "/squad/player/bailyn-sullivan"
+      },
+      {
+        "name": "Tony TafaPropView profile",
+        "url": "/squad/player/tony-tafa"
+      },
+      {
+        "name": "Jai TamatiHalfbackView profile",
+        "url": "/squad/player/jai-tamaiti"
+      },
+      {
+        "name": "Josh TimuMidfield BackView profile",
+        "url": "/squad/player/josh-timu"
+      },
+      {
+        "name": "Pasilio TosiPropView profile",
+        "url": "/squad/player/pasilio-tosi"
+      },
+      {
+        "name": "Raymond TuputupuHookerView profile",
+        "url": "/squad/player/raymond-tuputupu"
+      },
+      {
+        "name": "Jordi ViljoenHalfbackView profile",
+        "url": "/squad/player/jordi-viljoen"
+      },
+      {
+        "name": "Isaia Walker-LeawereLockView profile",
+        "url": "/squad/player/isaia-walker-leawere"
+      },
+      {
+        "name": "Logan WallacePropView profile",
+        "url": "/squad/player/logan-wallace"
+      },
+      {
+        "name": "Drew WildOutside BackView profile",
+        "url": "/squad/player/drew-wild"
+      },
+      {
+        "name": "Denise AiolupoteaPropView profile",
+        "url": "/squad/player/denise-aiolupotea"
+      },
+      {
+        "name": "Shakira BakerView profile",
+        "url": "/squad/player/shakira-baker"
+      },
+      {
+        "name": "Raedeen BlakeView profile",
+        "url": "/squad/player/raedeen-blake"
+      },
+      {
+        "name": "Forne BurkinView profile",
+        "url": "/squad/player/forne-burkin"
+      },
+      {
+        "name": "Natalie DelamereView profile",
+        "url": "/squad/player/natalie-delamere"
+      },
+      {
+        "name": "Teilah FergusonMidfield BackView profile",
+        "url": "/squad/player/teilah-ferguson"
+      },
+      {
+        "name": "Te Rauoriwa GapperFirst five-eighthView profile",
+        "url": "/squad/player/terauoriwa-gapper"
+      },
+      {
+        "name": "Leilani HakiwaiMidfield BackView profile",
+        "url": "/squad/player/leilani-hakiwai"
+      },
+      {
+        "name": "Iritana HohaiaHalfbackView profile",
+        "url": "/squad/player/iritana-hohaia"
+      },
+      {
+        "name": "Harmony KautaiWingView profile",
+        "url": "/squad/player/harmony-kautai"
+      },
+      {
+        "name": "Elinor-Plum KingFlankerView profile",
+        "url": "/squad/player/elinor-plum-king"
+      },
+      {
+        "name": "Lavinia LeaView profile",
+        "url": "/squad/player/lavinia-lea"
+      },
+      {
+        "name": "Ayesha Leti-I'igaWingView profile",
+        "url": "/squad/player/ayesha-leti-iiga"
+      },
+      {
+        "name": "Paige LushHalfbackView profile",
+        "url": "/squad/player/paige-lush"
+      },
+      {
+        "name": "Olioli MuaView profile",
+        "url": "/squad/player/olioli-mua"
+      },
+      {
+        "name": "Angel MuluView profile",
+        "url": "/squad/player/angel-mulu"
+      },
+      {
+        "name": "Joanah Ngan-WooLockView profile",
+        "url": "/squad/player/joanah-ngan-woo"
+      },
+      {
+        "name": "Jackie Patea-FeretiLockView profile",
+        "url": "/squad/player/jackie-patea-fereti"
+      },
+      {
+        "name": "Nina PolettiView profile",
+        "url": "/squad/player/nina-poletti"
+      },
+      {
+        "name": "Layla SaeLoose forwardView profile",
+        "url": "/squad/player/layla-sae"
+      },
+      {
+        "name": "Rangimarie SturmeyWingView profile",
+        "url": "/squad/player/rangimarie-sturmey"
+      },
+      {
+        "name": "Kahurangi SturmeyLockView profile",
+        "url": "/squad/player/kahurangi-sturmey"
+      },
+      {
+        "name": "Monica TagoaiMidfield BackView profile",
+        "url": "/squad/player/monica-tagoai"
+      },
+      {
+        "name": "Payton TakimoanaView profile",
+        "url": "/squad/player/payton-takimoana"
+      },
+      {
+        "name": "Samantha TaylorLockView profile",
+        "url": "/squad/player/samantha-taylor"
+      },
+      {
+        "name": "Isabella WatermanFullbackView profile",
+        "url": "/squad/player/isabella-waterman"
+      }
+    ]
+  },
+  {
+    "team_id": "3600",
+    "team_name": "Moana Pasifika",
+    "players": [
+      {
+        "name": "Our Team",
+        "url": "https://moanapasifika.co.nz/players/"
+      },
+      {
+        "name": "Our Team",
+        "url": "https://moanapasifika.co.nz/players/"
+      },
+      {
+        "name": "DominicRopetiLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/dominic-ropeti/"
+      },
+      {
+        "name": "FaletoiPeniFirst Five",
+        "url": "https://moanapasifika.co.nz/player/faletoi-peni/"
+      },
+      {
+        "name": "GlenVaihuOutside Back",
+        "url": "https://moanapasifika.co.nz/player/glen-vaihu/"
+      },
+      {
+        "name": "IsraelLeotaOutside Back",
+        "url": "https://moanapasifika.co.nz/player/israel-leota/"
+      },
+      {
+        "name": "JacksonGarden-BachopFirst Five",
+        "url": "https://moanapasifika.co.nz/player/jackson-garden-bachop/"
+      },
+      {
+        "name": "MiracleFaiilagiLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/miracle-failagi/"
+      },
+      {
+        "name": "NikoJonesLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/niko-jones/"
+      },
+      {
+        "name": "OlaTauelangiLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/ola-tauelangi/"
+      },
+      {
+        "name": "PatrickPellegriniFirst Five",
+        "url": "https://moanapasifika.co.nz/player/patrick-pellegrini/"
+      },
+      {
+        "name": "SemisiPaeaLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/semisi-paea/"
+      },
+      {
+        "name": "SemisiTupou Ta'eiloaLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/solomon-alaimalo-2/"
+      },
+      {
+        "name": "SolomonAlaimaloOutside Back",
+        "url": "https://moanapasifika.co.nz/player/solomon-alaimalo/"
+      },
+      {
+        "name": "TevitaOfaOutside Back",
+        "url": "https://moanapasifika.co.nz/player/tevita-ofa/"
+      },
+      {
+        "name": "TunaTuitamaOutside Back",
+        "url": "https://moanapasifika.co.nz/player/tuna-tuitama/"
+      },
+      {
+        "name": "TupouAfungiaLoose Forward",
+        "url": "https://moanapasifika.co.nz/player/tupou-afungia/"
+      },
+      {
+        "name": "WilliamHaviliOutside Back",
+        "url": "https://moanapasifika.co.nz/player/william-havili/"
+      }
+    ]
+  },
+  {
+    "team_id": "200",
+    "team_name": "NSW Waratahs",
+    "players": []
+  },
+  {
+    "team_id": "250",
+    "team_name": "Queensland Reds",
+    "players": []
+  },
+  {
+    "team_id": "73",
+    "team_name": "Western Force",
+    "players": []
+  }
+]

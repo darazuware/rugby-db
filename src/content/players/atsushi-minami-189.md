@@ -1,0 +1,26 @@
+---
+title: "南 篤志"
+name_en: "Atsushi Minami"
+position: "SH"
+team: "日本製鉄釜石シーウェイブス"
+height: "173"
+weight: "85"
+birth_date: "1993.08.06"
+age: 32
+high_school: "清真学園高校"
+university: "慶應義塾大学"
+caps: ""
+league_one_caps: "43"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2021
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2021 - 2026)

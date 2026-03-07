@@ -1,0 +1,30 @@
+---
+title: "ライノ ・ピータース"
+name_en: "Ryno Pieterse"
+position: "LO"
+team: "花園近鉄ライナーズ"
+height: "197"
+weight: "114"
+birth_date: "1998.08.06"
+age: 27
+high_school: "ホエルスクール・ガルスフォンテン"
+university: ""
+caps: ""
+league_one_caps: "2"
+country: ""
+nationality: ""
+category: "カテゴリーB"
+division: ""
+league: "league-one"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- ヴォーダコム・ブルズ (2018 - 2019)
+- ヴォーダコム・ブルズ (2019 - 2020)
+- Castres Olympique (2020 - 2024)
+- FC Grenoble Rugby (2024 - 2025)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)

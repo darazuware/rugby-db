@@ -1,11 +1,158 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="RUGBYPICK | ラグビー選手名鑑データベース">
+	<main>
+		<section class="relative bg-black text-white py-32 overflow-hidden">
+			<div
+				class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
+			>
+			</div>
+			<div class="container mx-auto px-4 relative z-10 text-center">
+				<span
+					class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 animate-bounce"
+				>
+					NEW START: ASTRO + REACT
+				</span>
+				<h1
+					class="text-6xl md:text-8xl font-black italic tracking-tighter mb-8 leading-none"
+				>
+					EXPLORE THE<br /><span class="text-yellow-400"
+						>NEXT GEN</span
+					> DATABASE
+				</h1>
+				<p
+					class="text-xl md:text-2xl text-gray-400 font-bold mb-12 max-w-2xl mx-auto"
+				>
+					リーグワン所属選手を中心に、詳細なスタッツとキャリアを網羅した爆速・高機能な日本最大級のラグビー選手名鑑。
+				</p>
+				<div class="flex flex-wrap justify-center gap-6">
+					<a
+						href="/players"
+						class="px-10 py-5 bg-yellow-400 text-black font-black text-xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-2xl shadow-yellow-400/20"
+					>
+						選手名鑑を見る
+					</a>
+				</div>
+
+				<div
+					class="mt-16 grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto"
+				>
+					<a
+						href="/teams/league-one"
+						class="group p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-yellow-400 hover:border-yellow-400 transition-all text-left"
+					>
+						<span
+							class="block text-xs font-black text-yellow-400 group-hover:text-black mb-2 uppercase tracking-widest"
+							>国内リーグ</span
+						>
+						<h3
+							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+						>
+							LEAGUE ONE<br />
+							<span
+								class="text-sm not-italic group-hover:text-black"
+								>ジャパンラグビー リーグワン</span
+							>
+						</h3>
+					</a>
+					<a
+						href="/teams/super-rugby"
+						class="group p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-yellow-400 hover:border-yellow-400 transition-all text-left"
+					>
+						<span
+							class="block text-xs font-black text-yellow-400 group-hover:text-black mb-2 uppercase tracking-widest"
+							>南半球強豪クラブ</span
+						>
+						<h3
+							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+						>
+							SUPER RUGBY<br />
+							<span
+								class="text-sm not-italic group-hover:text-black"
+								>スーパーラグビー</span
+							>
+						</h3>
+					</a>
+					<a
+						href="/teams/top14"
+						class="group p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-yellow-400 hover:border-yellow-400 transition-all text-left"
+					>
+						<span
+							class="block text-xs font-black text-yellow-400 group-hover:text-black mb-2 uppercase tracking-widest"
+							>フランス プロリーグ</span
+						>
+						<h3
+							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+						>
+							TOP 14<br />
+							<span
+								class="text-sm not-italic group-hover:text-black"
+								>トップ14</span
+							>
+						</h3>
+					</a>
+
+					<a
+						href="/teams/urc"
+						class="group p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-yellow-400 hover:border-yellow-400 transition-all text-left"
+					>
+						<span
+							class="block text-xs font-black text-yellow-400 group-hover:text-black mb-2 uppercase tracking-widest"
+							>欧州・南アフリカ</span
+						>
+						<h3
+							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+						>
+							URC<br />
+							<span
+								class="text-sm not-italic group-hover:text-black"
+								>ユナイテッド・ラグビー・チャンピオンシップ</span
+							>
+						</h3>
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<section class="py-24 bg-white">
+			<div class="container mx-auto px-4 text-center">
+				<h2
+					class="text-4xl font-black mb-16 italic uppercase tracking-widest text-gray-900 underline decoration-yellow-400 decoration-8 underline-offset-8"
+				>
+					CORE FEATURES
+				</h2>
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+					<div
+						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
+					>
+						<div class="text-5xl mb-6">⚡️</div>
+						<h3 class="text-2xl font-black mb-4">爆速検索</h3>
+						<p class="text-gray-600 font-bold">
+							5,000人以上のデータを瞬時にフィルタリング。ストレスのない検索体験を提供します。
+						</p>
+					</div>
+					<div
+						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
+					>
+						<div class="text-5xl mb-6">📈</div>
+						<h3 class="text-2xl font-black mb-4">高度なソート</h3>
+						<p class="text-gray-600 font-bold">
+							年齢、身長、体重など、気になる項目で自由自在に並び替えが可能。
+						</p>
+					</div>
+					<div
+						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
+					>
+						<div class="text-5xl mb-6">🔍</div>
+						<h3 class="text-2xl font-black mb-4">SEO 最適化</h3>
+						<p class="text-gray-600 font-bold">
+							全員分の個別ページを自動生成。ロングテールな検索ニーズに完全対応。
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
 </Layout>

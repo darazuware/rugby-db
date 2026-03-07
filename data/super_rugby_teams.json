@@ -1,0 +1,57 @@
+[
+  {
+    "team_name": "Blues",
+    "slug": "blues",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Brumbies",
+    "slug": "brumbies",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Chiefs",
+    "slug": "chiefs",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Crusaders",
+    "slug": "crusaders",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Fijian Drua",
+    "slug": "fijian-drua",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Highlanders",
+    "slug": "highlanders",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Hurricanes",
+    "slug": "hurricanes",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Moana Pasifika",
+    "slug": "moana-pasifika",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Reds",
+    "slug": "reds",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Waratahs",
+    "slug": "waratahs",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "Western Force",
+    "slug": "western-force",
+    "league": "super-rugby"
+  }
+]

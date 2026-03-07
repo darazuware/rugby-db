@@ -1,0 +1,29 @@
+---
+title: "ピート・サム"
+name_en: "Pete SAMU"
+position: "Back row"
+team: "NSWワラタス（ワラターズ）"
+height: "185"
+weight: "102"
+birth_date: "1991.12.17"
+age: 34
+high_school: ""
+university: ""
+caps: "Australia"
+league_one_caps: "0"
+country: "Australia"
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "super-rugby"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2018)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2023)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2025)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)

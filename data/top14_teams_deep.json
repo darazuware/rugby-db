@@ -1,0 +1,86 @@
+{
+  "clermont": {
+    "team_name": "ASM Clermont",
+    "stadium": "Stade Marcel Michelin",
+    "official_website": "https://www.asm-rugby.com/",
+    "slug": "clermont"
+  },
+  "bayonne": {
+    "team_name": "Aviron Bayonnais",
+    "stadium": "Stade Jean Dauger",
+    "official_website": "http://www.abrugby.fr/",
+    "slug": "bayonne"
+  },
+  "castres": {
+    "team_name": "Castres Olympique",
+    "stadium": "Stade Pierre Fabre",
+    "official_website": "https://www.castres-olympique.com/",
+    "slug": "castres"
+  },
+  "lyon": {
+    "team_name": "LOU Rugby",
+    "stadium": "Matmut Stadium Gerland",
+    "official_website": "https://www.lourugby.fr/",
+    "slug": "lyon"
+  },
+  "montpellier": {
+    "team_name": "Montpellier Hérault Rugby",
+    "stadium": "Septeo Stadium",
+    "official_website": "https://www.mhrrugby.com/",
+    "slug": "montpellier"
+  },
+  "toulon": {
+    "team_name": "RC Toulon",
+    "stadium": "Stade Mayol",
+    "official_website": "https://www.rctoulon.com/",
+    "slug": "toulon"
+  },
+  "racing-92": {
+    "team_name": "Racing 92",
+    "stadium": "Paris La Défense Arena",
+    "official_website": "https://www.racing92.fr/",
+    "slug": "racing-92"
+  },
+  "pau": {
+    "team_name": "Section Paloise",
+    "stadium": "Stade du Hameau",
+    "official_website": "https://www.section-paloise.com/",
+    "slug": "pau"
+  },
+  "paris": {
+    "team_name": "Stade Français Paris",
+    "stadium": "Stade Jean Bouin",
+    "official_website": "https://www.stade.fr/",
+    "slug": "paris"
+  },
+  "la-rochelle": {
+    "team_name": "Stade Rochelais",
+    "stadium": "Stade Marcel Deflandre",
+    "official_website": "https://www.staderochelais.com/",
+    "slug": "la-rochelle"
+  },
+  "toulouse": {
+    "team_name": "Stade Toulousain",
+    "stadium": "Stade Ernest Wallon",
+    "official_website": "https://www.stadetoulousain.fr/",
+    "slug": "toulouse"
+  },
+  "perpignan": {
+    "team_name": "USA Perpignan",
+    "stadium": "Stade Aimé Giral",
+    "official_website": "http://fr.usap.fr/",
+    "slug": "perpignan"
+  },
+  "bordeaux-begles": {
+    "team_name": "Union Bordeaux-Bègles",
+    "stadium": "Stade Jacques Chaban Delmas",
+    "official_website": "http://www.ubbrugby.com/",
+    "slug": "bordeaux-begles"
+  },
+  "vannes": {
+    "team_name": "RC Vannes",
+    "stadium": "Stade de la Rabine",
+    "official_website": "https://www.rugbyclubvannes.bzh/",
+    "slug": "vannes"
+  }
+}

@@ -1,0 +1,27 @@
+---
+title: "當眞 蓮"
+name_en: "Ren Toma"
+position: "HO"
+team: "三重ホンダヒート"
+height: "176"
+weight: "100"
+birth_date: "2002.08.01"
+age: 23
+high_school: "流通経済大学付属柏高校"
+university: "帝京大学"
+caps: ""
+league_one_caps: "2"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: ""
+league: "league-one"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2024)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - 2026)
