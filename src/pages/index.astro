@@ -1,6 +1,32 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import AffiliateBanner from "../components/AffiliateBanner.astro";
+import StandingsWidget from "../components/StandingsWidget";
+import standingsData from "../../data/standings.json";
+
+const leagueStandings = [
+	{
+		id: "league-one",
+		name: "League One",
+		fullName: "JAPAN RUGBY LEAGUE ONE",
+		accentColor: "bg-[#E60012]",
+		teams: (standingsData["league-one"] || []).slice(0, 3),
+	},
+	{
+		id: "super-rugby",
+		name: "Super Rugby",
+		fullName: "SUPER RUGBY PACIFIC",
+		accentColor: "bg-[#0055A4]",
+		teams: ((standingsData["super-rugby"] as any[]) || []).slice(0, 3),
+	},
+	{
+		id: "top14",
+		name: "Top 14",
+		fullName: "TOP 14 FRANCE",
+		accentColor: "bg-[#C5A059]",
+		teams: ((standingsData["top14"] as any)?.standings || []).slice(0, 3),
+	},
+];
 ---
 
 <Layout title="RUGBYPICK | ラグビー選手名鑑データベース">
@@ -114,6 +140,15 @@ import AffiliateBanner from "../components/AffiliateBanner.astro";
 						</h3>
 					</a>
 				</div>
+			</div>
+		</section>
+
+		<section class="relative -mt-24 pb-20 z-20">
+			<div class="container mx-auto px-4 max-w-6xl">
+				<StandingsWidget
+					client:load
+					leagueStandings={leagueStandings}
+				/>
 			</div>
 		</section>
 
