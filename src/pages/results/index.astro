@@ -45,78 +45,82 @@ const allResults = Object.entries(resultsData)
                 }
             </div>
 
-            <!-- 戦績リスト -->
-            <div class="max-w-4xl mx-auto space-y-4">
-                {
-                    allResults.map((result) => (
-                        <div class="bg-gray-900/50 backdrop-blur-md border border-gray-800/50 rounded-2xl p-6 hover:border-yellow-400/30 transition-all group relative overflow-hidden">
-                            <div class="absolute top-0 right-0 p-2">
-                                <span
-                                    class={`text-[10px] font-black px-2 py-0.5 rounded uppercase ${
-                                        result.leagueId === "league-one"
-                                            ? "bg-red-600 text-white"
-                                            : result.leagueId === "super-rugby"
-                                            ? "bg-blue-600 text-white"
-                                            : result.leagueId === "top14"
-                                            ? "bg-yellow-600 text-black"
-                                            : "bg-navy-900 text-white"
-                                    }`}
-                                >
-                                    {result.leagueId}
-                                </span>
-                            </div>
+			<!-- 戦績リスト (リーグごとにグループ化) -->
+			<div class="max-w-4xl mx-auto space-y-16">
+				{leagues.map((league) => {
+					const leagueResults = (resultsData as any)[league.id] || [];
+					if (leagueResults.length === 0) return null;
 
-                            <div class="grid grid-cols-[1fr_auto_1fr] items-center gap-3 md:gap-6">
-                                <!-- Home Team -->
-                                <div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left">
-                                    <div class="md:block hidden">
-                                        <div class="text-[10px] text-gray-500 font-bold mb-1">
-                                            {result.date} • RD {result.round}
-                                        </div>
-                                    </div>
-                                    <div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row">
-                                        <span class="text-base md:text-xl font-black text-white leading-tight break-words max-w-[80px] md:max-w-none">
-                                            {result.home}
-                                        </span>
-                                        <span class="text-xl md:text-2xl shrink-0">
-                                            {result.home_flag}
-                                        </span>
-                                    </div>
-                                </div>
+					return (
+						<section>
+							<div class="flex items-center gap-4 mb-8">
+								<h2 class={`text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
+									league.id === 'league-one' ? 'bg-red-600 text-white' :
+									league.id === 'super-rugby' ? 'bg-blue-600 text-white' :
+									league.id === 'top14' ? 'bg-yellow-600 text-black' : 'bg-gray-800 text-white'
+								}`}>
+									{league.name.toUpperCase()}
+								</h2>
+								<div class="h-[2px] flex-1 bg-gradient-to-r from-gray-800 to-transparent"></div>
+							</div>
 
-                                <!-- Score -->
-                                <div class="flex flex-col items-center px-1 md:px-4">
-                                    <div class="text-2xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-3 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums">
-                                        {result.score}
-                                    </div>
-                                    {(result as any).note && (
-                                        <span class="text-[8px] md:text-[10px] text-yellow-400/70 font-bold mt-1 md:mt-2 uppercase tracking-tighter text-center">
-                                            {(result as any).note}
-                                        </span>
-                                    )}
-                                    <div class="md:hidden mt-1">
-                                        <div class="text-[8px] text-gray-500 font-black whitespace-nowrap">
-                                            {result.date}
-                                        </div>
-                                    </div>
-                                </div>
+							<div class="space-y-4">
+								{leagueResults.map((result: any) => (
+									<div class="bg-gray-900/50 backdrop-blur-md border border-gray-800/50 rounded-2xl p-4 md:p-6 hover:border-yellow-400/30 transition-all group relative overflow-hidden">
+										<div class="grid grid-cols-[1fr_auto_1fr] items-center gap-2 md:gap-6">
+											<!-- Home Team -->
+											<div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left overflow-hidden">
+												<div class="md:block hidden shrink-0">
+													<div class="text-[10px] text-gray-500 font-bold mb-1">
+														{result.date} • RD {result.round}
+													</div>
+												</div>
+												<div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row min-w-0 w-full justify-end md:justify-start">
+													<span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0">
+														{result.home}
+													</span>
+													<span class="text-lg md:text-2xl shrink-0">
+														{result.home_flag}
+													</span>
+												</div>
+											</div>
 
-                                <!-- Away Team -->
-                                <div class="flex flex-col md:flex-row items-center md:justify-end justify-start gap-2 md:gap-3 text-left md:text-right">
-                                    <div class="flex items-center gap-2 md:gap-3">
-                                        <span class="text-xl md:text-2xl shrink-0">
-                                            {result.away_flag}
-                                        </span>
-                                        <span class="text-base md:text-xl font-black text-white leading-tight break-words max-w-[80px] md:max-w-none">
-                                            {result.away}
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    ))
-                }
-            </div>
+											<!-- Score -->
+											<div class="flex flex-col items-center px-1 md:px-4 shrink-0">
+												<div class="text-xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-2 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums min-w-[70px] md:min-w-none text-center">
+													{result.score}
+												</div>
+												{(result as any).note && (
+													<span class="text-[8px] md:text-[10px] text-yellow-400/70 font-bold mt-1 md:mt-2 uppercase tracking-tighter text-center">
+														{(result as any).note}
+													</span>
+												)}
+												<div class="md:hidden mt-1">
+													<div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center">
+														{result.date} • RD {result.round}
+													</div>
+												</div>
+											</div>
+
+											<!-- Away Team -->
+											<div class="flex flex-col md:flex-row items-center md:justify-end justify-start gap-2 md:gap-3 text-left md:text-right overflow-hidden">
+												<div class="flex items-center gap-2 md:gap-3 min-w-0 w-full">
+													<span class="text-lg md:text-2xl shrink-0">
+														{result.away_flag}
+													</span>
+													<span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left">
+														{result.away}
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								))}
+							</div>
+						</section>
+					);
+				})}
+			</div>
 
             <div class="mt-20 text-center">
                 <p class="text-gray-600 text-sm italic">
