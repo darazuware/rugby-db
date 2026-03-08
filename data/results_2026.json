@@ -1,0 +1,317 @@
+{
+    "league-one": [
+        {
+            "round": 10,
+            "date": "2026-03-01",
+            "home": "三菱重工相模原ダイナボアーズ",
+            "away": "トヨタヴェルブリッツ",
+            "score": "29-31",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 10,
+            "date": "2026-03-01",
+            "home": "静岡ブルーレヴズ",
+            "away": "東京サントリーサンゴリアス",
+            "score": "24-57",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 10,
+            "date": "2026-03-01",
+            "home": "横浜キヤノンイーグルス",
+            "away": "クボタスピアーズ船橋・東京ベイ",
+            "score": "10-28",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 10,
+            "date": "2026-02-28",
+            "home": "東芝ブレイブルーパス東京",
+            "away": "リコーブラックラムズ東京",
+            "score": "14-33",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 10,
+            "date": "2026-02-28",
+            "home": "埼玉パナソニックワイルドナイツ",
+            "away": "三重ホンダヒート",
+            "score": "66-19",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 10,
+            "date": "2026-02-28",
+            "home": "浦安D-Rocks",
+            "away": "コベルコ神戸スティーラーズ",
+            "score": "19-78",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 7,
+            "date": "2026-03-07",
+            "home": "東京サントリーサンゴリアス",
+            "away": "三菱重工相模原ダイナボアーズ",
+            "score": "15-34",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵",
+            "note": "延期分"
+        },
+        {
+            "round": 9,
+            "date": "2026-02-22",
+            "home": "クボタスピアーズ",
+            "away": "埼玉ワイルドナイツ",
+            "score": "31-28",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 7,
+            "date": "2026-02-07",
+            "home": "コベルコ神戸スティーラーズ",
+            "away": "静岡ブルーレヴズ",
+            "score": "60-45",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 7,
+            "date": "2026-02-07",
+            "home": "横浜キヤノンイーグルス",
+            "away": "トヨタヴェルブリッツ",
+            "score": "20-14",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 6,
+            "date": "2026-01-24",
+            "home": "埼玉パナソニックワイルドナイツ",
+            "away": "東京サントリーサンゴリアス",
+            "score": "31-30",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        },
+        {
+            "round": 1,
+            "date": "2025-12-14",
+            "home": "東芝ブレイブルーパス東京",
+            "away": "埼玉パナソニックワイルドナイツ",
+            "score": "0-46",
+            "home_flag": "🇯🇵",
+            "away_flag": "🇯🇵"
+        }
+    ],
+    "super-rugby": [
+        {
+            "round": 4,
+            "date": "2026-03-07",
+            "home": "ACT Brumbies",
+            "away": "Queensland Reds",
+            "score": "31-34",
+            "home_flag": "🇦🇺",
+            "away_flag": "🇦🇺"
+        },
+        {
+            "round": 4,
+            "date": "2026-03-07",
+            "home": "Blues",
+            "away": "Crusaders Rugby",
+            "score": "29-13",
+            "home_flag": "🇳🇿",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 4,
+            "date": "2026-03-07",
+            "home": "Highlanders",
+            "away": "Western Force",
+            "score": "39-31",
+            "home_flag": "🇳🇿",
+            "away_flag": "🇦🇺"
+        },
+        {
+            "round": 4,
+            "date": "2026-03-06",
+            "home": "NSW Waratahs",
+            "away": "Hurricanes",
+            "score": "19-59",
+            "home_flag": "🇦🇺",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 4,
+            "date": "2026-03-05",
+            "home": "Chiefs Rugby Club",
+            "away": "Moana Pasifika",
+            "score": "57-24",
+            "home_flag": "🇳🇿",
+            "away_flag": "🏝️"
+        },
+        {
+            "round": 3,
+            "date": "2026-02-28",
+            "home": "ACT Brumbies",
+            "away": "Blues",
+            "score": "30-27",
+            "home_flag": "🇦🇺",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 3,
+            "date": "2026-02-28",
+            "home": "Chiefs Rugby Club",
+            "away": "Crusaders Rugby",
+            "score": "33-43",
+            "home_flag": "🇳🇿",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 3,
+            "date": "2026-02-27",
+            "home": "Queensland Reds",
+            "away": "Highlanders",
+            "score": "31-14",
+            "home_flag": "🇦🇺",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 3,
+            "date": "2026-02-27",
+            "home": "Fijian Drua",
+            "away": "Hurricanes",
+            "score": "25-20",
+            "home_flag": "🇫🇯",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 2,
+            "date": "2026-02-21",
+            "home": "Hurricanes",
+            "away": "Moana Pasifika",
+            "score": "52-10",
+            "home_flag": "🇳🇿",
+            "away_flag": "🏝️"
+        },
+        {
+            "round": 2,
+            "date": "2026-02-20",
+            "home": "Highlanders",
+            "away": "Chiefs Rugby Club",
+            "score": "23-26",
+            "home_flag": "🇳🇿",
+            "away_flag": "🇳🇿"
+        },
+        {
+            "round": 1,
+            "date": "2026-02-13",
+            "home": "Highlanders",
+            "away": "Crusaders Rugby",
+            "score": "25-23",
+            "home_flag": "🇳🇿",
+            "away_flag": "🇳🇿"
+        }
+    ],
+    "top14": [
+        {
+            "round": 18,
+            "date": "2026-03-01",
+            "home": "Section Paloise",
+            "away": "Bordeaux Begles",
+            "score": "39-17",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 18,
+            "date": "2026-02-28",
+            "home": "Castres Olympique",
+            "away": "Stade Rochelais",
+            "score": "26-31",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 18,
+            "date": "2026-02-28",
+            "home": "Lyon",
+            "away": "RC Toulonnais",
+            "score": "13-13",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 18,
+            "date": "2026-02-28",
+            "home": "Montpellier Hérault Rugby",
+            "away": "Racing 92",
+            "score": "41-17",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 18,
+            "date": "2026-03-07",
+            "home": "Stade Toulousain",
+            "away": "RC Toulonnais",
+            "score": "31-12",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 14,
+            "date": "2026-01-04",
+            "home": "Stade Rochelais",
+            "away": "RC Toulonnais",
+            "score": "66-0",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 14,
+            "date": "2026-01-03",
+            "home": "Bordeaux Begles",
+            "away": "Racing 92",
+            "score": "62-20",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        },
+        {
+            "round": 1,
+            "date": "2025-09-06",
+            "home": "ASM Clermont",
+            "away": "Stade Toulousain",
+            "score": "18-24",
+            "home_flag": "🇫🇷",
+            "away_flag": "🇫🇷"
+        }
+    ],
+    "urc": [
+        {
+            "round": 1,
+            "date": "2025-09-26",
+            "home": "Stormers",
+            "away": "Leinster",
+            "score": "35-0",
+            "home_flag": "🇿🇦",
+            "away_flag": "🇮🇪"
+        },
+        {
+            "round": 1,
+            "date": "2025-09-26",
+            "home": "Glasgow Warriors",
+            "away": "Sharks",
+            "score": "28-14",
+            "home_flag": "🏴\u0007\u0002\u0002\u0007\u0002\u0003\u0007\u0002\u0013\u0007\u0002\u0014\u0007\u0002\u007f",
+            "away_flag": "🇿🇦"
+        }
+    ]
+}
