@@ -75,7 +75,7 @@ const StandingsWidget: React.FC<Props> = ({ leagueStandings }) => {
                                     <div className="text-right ml-4">
                                         <span className="block text-[10px] font-black text-gray-500 uppercase leading-none mb-1">PTS</span>
                                         <span className="text-2xl font-black text-white italic tracking-tighter tabular-nums leading-none">
-                                            {team.points || '0'}
+                                            {team.points && team.points !== '0' ? team.points : '-'}
                                         </span>
                                     </div>
                                 </a>
