@@ -10,14 +10,20 @@ const leagueStandings = [
 		name: "League One",
 		fullName: "JAPAN RUGBY LEAGUE ONE",
 		accentColor: "bg-[#E60012]",
-		teams: (standingsData["league-one"] || []).slice(0, 3),
+		teams: ((standingsData["league-one"] as any)?.standings || []).slice(
+			0,
+			3
+		),
 	},
 	{
 		id: "super-rugby",
 		name: "Super Rugby",
 		fullName: "SUPER RUGBY PACIFIC",
 		accentColor: "bg-[#0055A4]",
-		teams: ((standingsData["super-rugby"] as any[]) || []).slice(0, 3),
+		teams: ((standingsData["super-rugby"] as any)?.standings || []).slice(
+			0,
+			3
+		),
 	},
 	{
 		id: "top14",
@@ -155,45 +161,6 @@ const leagueStandings = [
 		<section class="py-12 bg-gray-50">
 			<div class="container mx-auto px-4 max-w-5xl">
 				<AffiliateBanner />
-			</div>
-		</section>
-
-		<section class="py-24 bg-white">
-			<div class="container mx-auto px-4 text-center">
-				<h2
-					class="text-4xl font-black mb-16 italic uppercase tracking-widest text-gray-900 underline decoration-yellow-400 decoration-8 underline-offset-8"
-				>
-					CORE FEATURES
-				</h2>
-				<div class="grid grid-cols-1 md:grid-cols-3 gap-12">
-					<div
-						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
-					>
-						<div class="text-5xl mb-6">⚡️</div>
-						<h3 class="text-2xl font-black mb-4">爆速検索</h3>
-						<p class="text-gray-600 font-bold">
-							5,000人以上のデータを瞬時にフィルタリング。ストレスのない検索体験を提供します。
-						</p>
-					</div>
-					<div
-						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
-					>
-						<div class="text-5xl mb-6">📈</div>
-						<h3 class="text-2xl font-black mb-4">高度なソート</h3>
-						<p class="text-gray-600 font-bold">
-							年齢、身長、体重など、気になる項目で自由自在に並び替えが可能。
-						</p>
-					</div>
-					<div
-						class="p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-2xl transition-all"
-					>
-						<div class="text-5xl mb-6">🔍</div>
-						<h3 class="text-2xl font-black mb-4">SEO 最適化</h3>
-						<p class="text-gray-600 font-bold">
-							全員分の個別ページを自動生成。ロングテールな検索ニーズに完全対応。
-						</p>
-					</div>
-				</div>
 			</div>
 		</section>
 	</main>

@@ -70,8 +70,8 @@ const leagueData = (standingsData as any)[league as keyof typeof standingsData];
 const isTop14 = league === "top14";
 const isURC = league === "urc";
 
-const rawStandings = isTop14 ? leagueData?.standings || [] : leagueData || [];
-const results = isTop14 ? leagueData?.results || [] : [];
+const rawStandings = leagueData?.standings || [];
+const results = leagueData?.results || [];
 
 const standings = rawStandings.map((s: any) => {
     const mapping = getTeamMapping(s.team_name);

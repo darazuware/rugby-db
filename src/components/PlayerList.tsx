@@ -85,8 +85,16 @@ interface Props {
 }
 
 const POSITIONS = ['PR', 'HO', 'LO', 'FL', 'No8', 'SH', 'SO', 'WTB', 'CTB', 'FB'];
-const DIVISIONS = ['Division 1', 'Division 2', 'Division 3'];
-const CATEGORIES = ['カテゴリーA', 'カテゴリーB', 'カテゴリーC'];
+const DIVISIONS = [
+    { id: 'Division 1', name: 'Division 1' },
+    { id: 'Division 2', name: 'Division 2' },
+    { id: 'Division 3', name: 'Division 3' }
+];
+const CATEGORIES = [
+    { id: 'カテゴリーA', name: 'カテゴリーA' },
+    { id: 'カテゴリーB', name: 'カテゴリーB' },
+    { id: 'カテゴリーC', name: 'カテゴリーC' }
+];
 const LEAGUES = [
     { id: 'league-one', name: 'LEAGUE ONE' },
     { id: 'super-rugby', name: 'SUPER RUGBY' },
@@ -451,66 +459,63 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                         {/* 5. リーグワン限定オプション (Division, Category) */}
                         {isLeagueOneSelected && (
-                            <>
-                                {/* Division & Category Filter - Only for League One */}
-                                {(leagueContext === "league-one" || !leagueContext) && (
-                                    <div className="grid grid-cols-2 gap-4">
-                                        <div className="space-y-3">
-                                            <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
-                                                <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
-                                                Division
-                                            </label>
-                                            <div className="flex flex-wrap gap-2">
-                                                {DIVISIONS.map((div) => (
-                                                    <button
-                                                        key={div.id}
-                                                        onClick={() =>
-                                                            setSelectedDivisions((prev) =>
-                                                                prev.includes(div.id)
-                                                                    ? prev.filter((id) => id !== div.id)
-                                                                    : [...prev, div.id]
-                                                            )
-                                                        }
-                                                        className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
-                                                                ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                                : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
-                                                            }`}
-                                                    >
-                                                        {div.name}
-                                                    </button>
-                                                ))}
-                                            </div>
-                                        </div>
-
-                                        <div className="space-y-3">
-                                            <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
-                                                <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
-                                                Category
-                                            </label>
-                                            <div className="flex flex-wrap gap-2">
-                                                {CATEGORIES.map((cat) => (
-                                                    <button
-                                                        key={cat.id}
-                                                        onClick={() =>
-                                                            setSelectedCategories((prev) =>
-                                                                prev.includes(cat.id)
-                                                                    ? prev.filter((id) => id !== cat.id)
-                                                                    : [...prev, cat.id]
-                                                            )
-                                                        }
-                                                        className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
-                                                                ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                                : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
-                                                            }`}
-                                                    >
-                                                        {cat.name}
-                                                    </button>
-                                                ))}
-                                            </div>
+                            <div className="grid grid-cols-2 gap-4">
+                                <div className="grid grid-cols-2 gap-4">
+                                    <div className="space-y-3">
+                                        <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                            <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                                            Division
+                                        </label>
+                                        <div className="flex flex-wrap gap-2">
+                                            {DIVISIONS.map((div) => (
+                                                <button
+                                                    key={div.id}
+                                                    onClick={() =>
+                                                        setSelectedDivisions((prev) =>
+                                                            prev.includes(div.id)
+                                                                ? prev.filter((id) => id !== div.id)
+                                                                : [...prev, div.id]
+                                                        )
+                                                    }
+                                                    className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
+                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                        : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                        }`}
+                                                >
+                                                    {div.name}
+                                                </button>
+                                            ))}
                                         </div>
                                     </div>
-                                )}
-                            </>
+
+                                    <div className="space-y-3">
+                                        <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                            <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                                            Category
+                                        </label>
+                                        <div className="flex flex-wrap gap-2">
+                                            {CATEGORIES.map((cat) => (
+                                                <button
+                                                    key={cat.id}
+                                                    onClick={() =>
+                                                        setSelectedCategories((prev) =>
+                                                            prev.includes(cat.id)
+                                                                ? prev.filter((id) => id !== cat.id)
+                                                                : [...prev, cat.id]
+                                                        )
+                                                    }
+                                                    className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
+                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                        : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                        }`}
+                                                >
+                                                    {cat.name}
+                                                </button>
+                                            ))}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         )}
 
                         {/* 6. ソート */}
