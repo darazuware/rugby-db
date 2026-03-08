@@ -66,42 +66,49 @@ const allResults = Object.entries(resultsData)
                                 </span>
                             </div>
 
-                            <div class="flex flex-col md:flex-row items-center justify-between gap-6">
-                                <div class="text-center md:text-left">
-                                    <div class="text-xs text-gray-500 font-bold mb-1">
-                                        {result.date} • ROUND {result.round}
+                            <div class="grid grid-cols-[1fr_auto_1fr] items-center gap-3 md:gap-6">
+                                <!-- Home Team -->
+                                <div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left">
+                                    <div class="md:block hidden">
+                                        <div class="text-[10px] text-gray-500 font-bold mb-1">
+                                            {result.date} • RD {result.round}
+                                        </div>
                                     </div>
-                                    <div class="flex items-center gap-3">
-                                        <span class="text-2xl">
-                                            {result.home_flag}
-                                        </span>
-                                        <span class="text-xl font-black text-white whitespace-nowrap">
+                                    <div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row">
+                                        <span class="text-base md:text-xl font-black text-white leading-tight break-words max-w-[80px] md:max-w-none">
                                             {result.home}
+                                        </span>
+                                        <span class="text-xl md:text-2xl shrink-0">
+                                            {result.home_flag}
                                         </span>
                                     </div>
                                 </div>
 
-                                <div class="flex flex-col items-center">
-                                    <div class="text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-6 py-2 rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors">
+                                <!-- Score -->
+                                <div class="flex flex-col items-center px-1 md:px-4">
+                                    <div class="text-2xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-3 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums">
                                         {result.score}
                                     </div>
                                     {(result as any).note && (
-                                        <span class="text-[10px] text-yellow-400/70 font-bold mt-2 uppercase tracking-tighter">
+                                        <span class="text-[8px] md:text-[10px] text-yellow-400/70 font-bold mt-1 md:mt-2 uppercase tracking-tighter text-center">
                                             {(result as any).note}
                                         </span>
                                     )}
+                                    <div class="md:hidden mt-1">
+                                        <div class="text-[8px] text-gray-500 font-black whitespace-nowrap">
+                                            {result.date}
+                                        </div>
+                                    </div>
                                 </div>
 
-                                <div class="text-center md:text-right">
-                                    <div class="text-xs text-gray-500 font-bold mb-1 opacity-0 md:opacity-100">
-                                        &nbsp;
-                                    </div>
-                                    <div class="flex items-center justify-end gap-3 flex-row-reverse md:flex-row">
-                                        <span class="text-xl font-black text-white whitespace-nowrap">
-                                            {result.away}
-                                        </span>
-                                        <span class="text-2xl">
+                                <!-- Away Team -->
+                                <div class="flex flex-col md:flex-row items-center md:justify-end justify-start gap-2 md:gap-3 text-left md:text-right">
+                                    <div class="flex items-center gap-2 md:gap-3">
+                                        <span class="text-xl md:text-2xl shrink-0">
                                             {result.away_flag}
+                                        </span>
+                                        <span class="text-base md:text-xl font-black text-white leading-tight break-words max-w-[80px] md:max-w-none">
+                                            {result.away}
                                         </span>
                                     </div>
                                 </div>
