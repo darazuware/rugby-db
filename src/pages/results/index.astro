@@ -3,16 +3,24 @@ import Layout from "../../layouts/Layout.astro";
 import resultsData from "../../../data/results_2026.json";
 
 const leagues = [
-    { id: "league-one", name: "League One", label: "リーグワン" },
+    { id: "league-one-d1", name: "League One D1", label: "リーグワン D1", parentId: "league-one", division: "D1" },
+    { id: "league-one-d2", name: "League One D2", label: "リーグワン D2", parentId: "league-one", division: "D2" },
+    { id: "league-one-d3", name: "League One D3", label: "リーグワン D3", parentId: "league-one", division: "D3" },
     { id: "super-rugby", name: "Super Rugby", label: "スーパーラグビー" },
     { id: "top14", name: "Top 14", label: "TOP 14" },
     { id: "urc", name: "URC", label: "URC" },
 ];
 
-// データを整形して降順（最新順）に並べる
-const allResults = Object.entries(resultsData)
-    .flatMap(([leagueId, results]) => results.map((r) => ({ ...r, leagueId })))
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+// データを整形して最新順にする（JSON 側でも最新順だが、念のためここでもソート）
+const getLeagueResults = (league: any) => {
+    let results = [];
+    if (league.parentId === "league-one") {
+        results = (resultsData as any)["league-one"]?.filter((r: any) => r.division === league.division) || [];
+    } else {
+        results = (resultsData as any)[league.id] || [];
+    }
+    return results.sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime());
+};
 ---
 
 <Layout title="試合結果・戦績一覧 | RUGBY PICKS">
@@ -25,37 +33,37 @@ const allResults = Object.entries(resultsData)
                     MATCH <span class="text-yellow-400">RESULTS</span>
                 </h1>
                 <p class="text-gray-400 max-w-2xl mx-auto font-bold">
-                    2025-26シーズンの全試合結果。過去の激闘から最新のスコアまで網羅。
+                    2025-26シーズンの全試合結果。常に最新の試合を最上部に表示。
                 </p>
             </header>
 
-            <!-- フィルター (簡易実装) -->
-            <div class="flex flex-wrap justify-center gap-4 mb-12">
+            <!-- フィルター -->
+            <div class="flex flex-wrap justify-center gap-3 mb-12">
                 <button
-                    class="px-6 py-2 bg-yellow-400 text-black font-black italic rounded-full shadow-[0_0_20px_rgba(250,204,21,0.3)]"
+                    class="px-5 py-2 bg-yellow-400 text-black font-black italic rounded-xl shadow-[0_0_20px_rgba(250,204,21,0.3)] text-sm"
                 >
-                    ALL LEAGUES
+                    ALL
                 </button>
                 {
                     leagues.map((league) => (
-                        <button class="px-6 py-2 bg-gray-900 text-white font-bold rounded-full border border-gray-800 hover:border-yellow-400 transition-all">
+                        <button class="px-5 py-2 bg-gray-900 text-white font-bold rounded-xl border border-gray-800 hover:border-yellow-400 transition-all text-sm">
                             {league.label}
                         </button>
                     ))
                 }
             </div>
 
-			<!-- 戦績リスト (リーグごとにグループ化) -->
+			<!-- 戦績リスト (リーグ/Divisionごとにグループ化) -->
 			<div class="max-w-4xl mx-auto space-y-16">
 				{leagues.map((league) => {
-					const leagueResults = (resultsData as any)[league.id] || [];
+					const leagueResults = getLeagueResults(league);
 					if (leagueResults.length === 0) return null;
 
 					return (
 						<section>
 							<div class="flex items-center gap-4 mb-8">
-								<h2 class={`text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
-									league.id === 'league-one' ? 'bg-red-600 text-white' :
+								<h2 class={`text-xl md:text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
+									league.id.startsWith('league-one') ? 'bg-red-600 text-white' :
 									league.id === 'super-rugby' ? 'bg-blue-600 text-white' :
 									league.id === 'top14' ? 'bg-yellow-600 text-black' : 'bg-gray-800 text-white'
 								}`}>
@@ -71,7 +79,7 @@ const allResults = Object.entries(resultsData)
 											<!-- Home Team -->
 											<div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left overflow-hidden">
 												<div class="md:block hidden shrink-0">
-													<div class="text-[10px] text-gray-500 font-bold mb-1">
+													<div class="text-[10px] text-gray-500 font-bold mb-1 uppercase tracking-wider">
 														{result.date} • RD {result.round}
 													</div>
 												</div>
@@ -87,7 +95,7 @@ const allResults = Object.entries(resultsData)
 
 											<!-- Score -->
 											<div class="flex flex-col items-center px-1 md:px-4 shrink-0">
-												<div class="text-xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-2 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums min-w-[70px] md:min-w-none text-center">
+												<div class="text-xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-2 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums min-w-[70px] md:min-w-none text-center shadow-lg">
 													{result.score}
 												</div>
 												{(result as any).note && (
@@ -96,7 +104,7 @@ const allResults = Object.entries(resultsData)
 													</span>
 												)}
 												<div class="md:hidden mt-1">
-													<div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center">
+													<div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center uppercase tracking-tighter">
 														{result.date} • RD {result.round}
 													</div>
 												</div>
