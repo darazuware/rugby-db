@@ -232,19 +232,28 @@ const isLeagueOne =
               class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm"
-                  >代表キャップ数（リーグワン）</span
-                >
+                <span class="font-black text-gray-900 text-sm">
+                  {
+                    isLeagueOne
+                      ? "代表キャップ数（リーグワン）"
+                      : "代表キャップ数"
+                  }
+                </span>
                 <span
                   class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
-                  >TEST CAPS (LEAGUE ONE)</span
                 >
+                  {isLeagueOne ? "TEST CAPS (LEAGUE ONE)" : "TEST CAPS"}
+                </span>
               </div>
               <span class="font-black text-gray-900 text-lg tracking-tighter">
-                {entry.data.caps || "0"}<span
-                  class="text-xs text-gray-400 mx-1 ml-2"
-                  >({entry.data.league_one_caps || "0"})</span
-                >
+                {entry.data.caps || "0"}
+                {
+                  isLeagueOne && (
+                    <span class="text-xs text-gray-400 mx-1 ml-2">
+                      ({entry.data.league_one_caps || "0"})
+                    </span>
+                  )
+                }
               </span>
             </div>
           </div>

@@ -452,40 +452,64 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         {/* 5. リーグワン限定オプション (Division, Category) */}
                         {isLeagueOneSelected && (
                             <>
-                                <div className="col-span-1 md:col-span-2 lg:col-span-2">
-                                    <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">ディビジョン (LEAGUE ONE)</label>
-                                    <div className="flex flex-wrap gap-2">
-                                        {DIVISIONS.map(div => (
-                                            <button
-                                                key={div}
-                                                onClick={() => toggleFilter(setSelectedDivisions, div)}
-                                                className={`px-4 py-2 rounded-xl font-black text-sm text-left transition-all border-2 ${selectedDivisions.includes(div)
-                                                    ? `${theme.accent} ${theme.border} text-white scale-102 shadow-md ${theme.shadow}`
-                                                    : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
-                                                    }`}
-                                            >
-                                                {div}
-                                            </button>
-                                        ))}
+                                {/* Division & Category Filter - Only for League One */}
+                                {(leagueContext === "league-one" || !leagueContext) && (
+                                    <div className="grid grid-cols-2 gap-4">
+                                        <div className="space-y-3">
+                                            <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                                <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                                                Division
+                                            </label>
+                                            <div className="flex flex-wrap gap-2">
+                                                {DIVISIONS.map((div) => (
+                                                    <button
+                                                        key={div.id}
+                                                        onClick={() =>
+                                                            setSelectedDivisions((prev) =>
+                                                                prev.includes(div.id)
+                                                                    ? prev.filter((id) => id !== div.id)
+                                                                    : [...prev, div.id]
+                                                            )
+                                                        }
+                                                        className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
+                                                                ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                                : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                            }`}
+                                                    >
+                                                        {div.name}
+                                                    </button>
+                                                ))}
+                                            </div>
+                                        </div>
+
+                                        <div className="space-y-3">
+                                            <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                                <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
+                                                Category
+                                            </label>
+                                            <div className="flex flex-wrap gap-2">
+                                                {CATEGORIES.map((cat) => (
+                                                    <button
+                                                        key={cat.id}
+                                                        onClick={() =>
+                                                            setSelectedCategories((prev) =>
+                                                                prev.includes(cat.id)
+                                                                    ? prev.filter((id) => id !== cat.id)
+                                                                    : [...prev, cat.id]
+                                                            )
+                                                        }
+                                                        className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
+                                                                ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                                : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                            }`}
+                                                    >
+                                                        {cat.name}
+                                                    </button>
+                                                ))}
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div className="col-span-1 md:col-span-2 lg:col-span-2">
-                                    <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">カテゴリー (LEAGUE ONE)</label>
-                                    <div className="flex flex-wrap gap-2">
-                                        {CATEGORIES.map(cat => (
-                                            <button
-                                                key={cat}
-                                                onClick={() => toggleFilter(setSelectedCategories, cat)}
-                                                className={`px-4 py-2 rounded-xl font-black text-sm text-left transition-all border-2 ${selectedCategories.includes(cat)
-                                                    ? `${theme.accent} ${theme.border} text-white scale-102 shadow-md ${theme.shadow}`
-                                                    : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
-                                                    }`}
-                                            >
-                                                {cat}
-                                            </button>
-                                        ))}
-                                    </div>
-                                </div>
+                                )}
                             </>
                         )}
 
