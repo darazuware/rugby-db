@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import { getTeamSlug } from "../../utils/team_utils";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
 
 export async function getStaticPaths() {
   const players = await getCollection("players");
@@ -247,6 +248,11 @@ const isLeagueOne =
               </span>
             </div>
           </div>
+        </div>
+
+        {/* アフィリエイトセクション */}
+        <div class="mb-12 px-8">
+          <AffiliateBanner league={entry.data.league} />
         </div>
 
         <div

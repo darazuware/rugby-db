@@ -3,6 +3,7 @@ import Layout from "../../../layouts/Layout.astro";
 import StandingsTable from "../../../components/StandingsTable";
 import TeamList from "../../../components/TeamList";
 import PlayerList from "../../../components/PlayerList";
+import AffiliateBanner from "../../../components/AffiliateBanner.astro";
 import { getCollection } from "astro:content";
 import teamsData from "../../../../data/teams.json";
 import standingsData from "../../../../data/standings.json";
@@ -192,6 +193,10 @@ const leagueTitle = leagueName.toUpperCase();
                     </div>
                 )
             }
+
+            <div class="mt-20 max-w-4xl mx-auto">
+                <AffiliateBanner league={league} />
+            </div>
         </div>
     </main>
 </Layout>

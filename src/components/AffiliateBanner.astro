@@ -1,0 +1,130 @@
+---
+interface Props {
+    league?: string;
+    type?: "horizontal" | "card";
+}
+
+const { league, type = "horizontal" } = Astro.props;
+
+interface BannerInfo {
+    title: string;
+    subtitle: string;
+    description: string;
+    buttonText: string;
+    url: string;
+    color: string;
+    provider: string;
+}
+
+const getBannerInfo = (leagueId?: string): BannerInfo => {
+    switch (leagueId) {
+        case "super-rugby":
+            return {
+                title: "SUPER RUGBY PACIFIC",
+                subtitle: "WOWOW 独占生中継",
+                description:
+                    "世界最高峰の戦いを、日本で唯一の独占放送・配信で楽しむ。",
+                buttonText: "WOWOW で今すぐ視聴する",
+                url: "https://www.wowow.co.jp/sports/rugby/", // 本番のアフィリエイトリンクに書き換え可能
+                color: "from-[#0055A4] to-black",
+                provider: "WOWOW",
+            };
+        case "top14":
+            return {
+                title: "TOP 14 FRANCE",
+                subtitle: "DAZN で視聴可能",
+                description:
+                    "スター選手が集結するフランス・トップ14を、いつでもどこでも視聴。",
+                buttonText: "DAZN で今すぐ視聴する",
+                url: "https://www.dazn.com/", // 本番のアフィリエイトリンクに書き換え可能
+                color: "from-[#C5A059] to-black",
+                provider: "DAZN",
+            };
+        case "league-one":
+        default:
+            return {
+                title: "JAPAN RUGBY LEAGUE ONE",
+                subtitle: "J SPORTS / DAZN で放送・配信",
+                description:
+                    "熱狂の国内リーグ全試合をチェック。マルチアングルや見逃し配信も。",
+                buttonText: "視聴方法をチェックする",
+                url: "https://www.jsports.co.jp/rugby/league-one/", // 本番のアフィリエイトリンクに書き換え可能
+                color: "from-[#E60012] to-black",
+                provider: "J SPORTS / DAZN",
+            };
+    }
+};
+
+const banner = getBannerInfo(league);
+---
+
+<div
+    class={`relative overflow-hidden rounded-[2rem] bg-gradient-to-br ${
+        banner.color
+    } p-8 md:p-12 text-white shadow-2xl group border border-white/10 ${
+        type === "card" ? "aspect-square flex flex-col justify-end" : ""
+    }`}
+>
+    <div
+        class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
+    >
+    </div>
+
+    <div class="relative z-10">
+        <div class="flex items-center gap-3 mb-4">
+            <span
+                class="px-3 py-1 bg-yellow-400 text-black text-[10px] font-black uppercase tracking-widest rounded-full italic"
+            >
+                {banner.provider}
+            </span>
+            <div class="h-px flex-grow bg-white/20"></div>
+        </div>
+
+        <h3
+            class={`font-black italic tracking-tighter leading-none mb-2 ${
+                type === "card" ? "text-2xl" : "text-3xl md:text-5xl uppercase"
+            }`}
+        >
+            {banner.title}
+        </h3>
+        <p
+            class={`text-yellow-400 font-bold italic mb-4 ${
+                type === "card" ? "text-lg" : "text-xl md:text-2xl"
+            }`}
+        >
+            {banner.subtitle}
+        </p>
+
+        {
+            type !== "card" && (
+                <p class="text-gray-300 font-medium mb-8 max-w-xl text-sm md:text-base leading-relaxed">
+                    {banner.description}
+                </p>
+            )
+        }
+
+        <div class="flex items-center gap-6">
+            <a
+                href={banner.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block px-8 py-4 bg-white text-black font-black text-sm md:text-lg rounded-2xl hover:bg-yellow-400 hover:scale-105 transition-all shadow-xl shadow-black/20"
+            >
+                {banner.buttonText}
+            </a>
+            {
+                type !== "card" && (
+                    <span class="hidden md:inline-block text-xs font-bold text-gray-400 italic">
+                        ※ 放送・配信内容は予告なく変更される場合があります
+                    </span>
+                )
+            }
+        </div>
+    </div>
+
+    {/* 特殊な装飾用要素 */}
+    <div
+        class="absolute -bottom-12 -right-12 w-48 h-48 bg-white/5 rounded-full blur-3xl group-hover:bg-yellow-400/10 transition-colors"
+    >
+    </div>
+</div>
