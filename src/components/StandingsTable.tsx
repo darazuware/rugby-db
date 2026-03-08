@@ -155,9 +155,14 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings, results }) => {
                                 {hasDivisions ? (
                                     Object.keys(groups).sort().map(div => (
                                         <React.Fragment key={div}>
-                                            <tr className="bg-gray-50/80 border-y border-gray-200/30">
-                                                <td colSpan={8} className="px-3 py-1.5 text-[10px] font-black text-gray-400 uppercase tracking-widest bg-gray-100/20">
-                                                    {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
+                                            <tr className="bg-gray-100/80 border-y border-gray-200">
+                                                <td colSpan={8} className="px-4 py-2.5">
+                                                    <div className="flex items-center gap-2">
+                                                        <span className={`w-1.5 h-4 ${config.bg} rounded-full`}></span>
+                                                        <span className="text-[11px] font-black text-gray-900 uppercase tracking-[0.2em]">
+                                                            {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
+                                                        </span>
+                                                    </div>
                                                 </td>
                                             </tr>
                                             {renderRows(groups[div])}
