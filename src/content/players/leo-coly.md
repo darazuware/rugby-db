@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Biscarrosse Olympique Rugby (2012 - 2016)
 - Stade Montois Rugby Pro (2016 - 2022)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2022 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2022 - 2026)

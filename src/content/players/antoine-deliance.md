@@ -26,4 +26,4 @@ facebook: ""
 - XV Suranais (2009 - 2010)
 - RC Viriat (2013 - 2019)
 - Union Sportive Bressane Pays de l'Ain (2019 - 2022)
-- [リヨン](/teams/top14/lyon-ou) (2022 - 2026)
+- [リヨン](/teams/top14/lyon) (2022 - 2026)

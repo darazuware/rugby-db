@@ -28,6 +28,6 @@ facebook: ""
 - Soyaux-Angoulême XV Charente (2019 - 2023)
 - US Colomiers (2023 - 2025)
 - CA Brive Corrèze Limousin (2025 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2025)
+- [リヨン](/teams/top14/lyon) (2025 - 2025)
 - CA Brive Corrèze Limousin (2026 - 2026)
-- [リヨン](/teams/top14/lyon-ou) (2026 - 2026)
+- [リヨン](/teams/top14/lyon) (2026 - 2026)

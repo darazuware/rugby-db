@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2021)
 - グラスゴー・ウォリアーズ (2021 - 2023)
 - Oyonnax Rugby (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)

@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2016)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2016 - 2022)
 - [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2022 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)

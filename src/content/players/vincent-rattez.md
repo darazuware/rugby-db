@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [ラシン92](/teams/top14/racing-92) (2009 - 2011)
 - Racing Club Narbonnais (2011 - 2016)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2023)
-- [リヨン](/teams/top14/lyon-ou) (2023 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
+- [リヨン](/teams/top14/lyon) (2023 - 2026)

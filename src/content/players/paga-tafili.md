@@ -6,7 +6,7 @@ team: "ヴァンヌ"
 height: "182"
 weight: "130"
 birth_date: "1987.03.08"
-age: 38
+age: 39
 high_school: ""
 university: ""
 caps: ""

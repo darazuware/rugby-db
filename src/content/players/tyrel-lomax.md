@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2016 - 2017)
+- メルボルン・レベルズ (2016 - 2017)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2019)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2019)
 - Tasman Mako (2019 - 2019)

@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - Biarritz Olympique Pays Basque (2020 - 2021)
 - Union Sportive Bressane Pays de l'Ain (2021 - 2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- [リヨン](/teams/top14/lyon-ou) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - 2026)

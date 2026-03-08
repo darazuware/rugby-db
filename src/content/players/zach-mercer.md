@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Bath Rugby (2016 - 2021)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2021 - 2023)
+- [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
 - Gloucester Rugby (2023 - 2025)
 - [トゥーロン](/teams/top14/toulon) (2025 - 2026)

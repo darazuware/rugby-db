@@ -6,7 +6,7 @@ team: "九州電力キューデンヴォルテクス"
 height: "170"
 weight: "80"
 birth_date: "1999.03.08"
-age: 26
+age: 27
 high_school: "東筑高校"
 university: "東洋大学"
 caps: ""

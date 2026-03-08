@@ -25,6 +25,6 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Rugby Olympique de Grasse (2004 - 2015)
 - [トゥーロン](/teams/top14/toulon) (2015 - 2016)
-- [リヨン](/teams/top14/lyon-ou) (2016 - 2018)
+- [リヨン](/teams/top14/lyon) (2016 - 2018)
 - Sporting Union Agenais (2018 - 2020)
-- [リヨン](/teams/top14/lyon-ou) (2020 - 2026)
+- [リヨン](/teams/top14/lyon) (2020 - 2026)

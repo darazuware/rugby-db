@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - Aviron Bayonnais (2014 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2020)
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2020)
 - Aviron Bayonnais (2020 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2021 - 2021)
+- [モンペリエ](/teams/top14/montpellier) (2021 - 2021)
 - Aviron Bayonnais (2021 - 2021)
 - FC Grenoble Rugby (2021 - 2023)
 - Stado Tarbes Pyrénées Rugby (2023 - 2023)

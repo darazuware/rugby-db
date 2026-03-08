@@ -29,5 +29,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - France 7 (2020 - 2020)
 - [クレルモン](/teams/top14/clermont) (2021 - 2021)
 - France 7 (2021 - 2021)
-- [リヨン](/teams/top14/lyon-ou) (2021 - 2023)
+- [リヨン](/teams/top14/lyon) (2021 - 2023)
 - Union Sportive Arlequins Perpignanais (2023 - 2026)

@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - [トゥーロン](/teams/top14/toulon) (2013 - 2019)
-- [リヨン](/teams/top14/lyon-ou) (2019 - 2023)
+- [リヨン](/teams/top14/lyon) (2019 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2026)

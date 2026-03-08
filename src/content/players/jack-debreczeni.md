@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2013 - 2018)
+- メルボルン・レベルズ (2013 - 2018)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2018)
 - Northland Taniwha (2018 - 2018)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2019)

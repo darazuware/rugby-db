@@ -29,5 +29,5 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2021)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2022)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2022 - 2025)
+- [モンペリエ](/teams/top14/montpellier) (2022 - 2025)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)

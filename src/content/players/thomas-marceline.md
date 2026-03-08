@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rhodia Club Rugby (2011 - 2020)
-- [リヨン](/teams/top14/lyon-ou) (2020 - 2026)
+- [リヨン](/teams/top14/lyon) (2020 - 2026)

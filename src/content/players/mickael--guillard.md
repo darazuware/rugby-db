@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - RC Maurepas-Élancourt (2006 - 2009)
 - Union Rugby Centre 78 (2009 - 2017)
 - Rugby Club Massy Essonne (2017 - 2020)
-- [リヨン](/teams/top14/lyon-ou) (2020 - 2026)
+- [リヨン](/teams/top14/lyon) (2020 - 2026)

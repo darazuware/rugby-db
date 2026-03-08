@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2021 - 2023)
+- メルボルン・レベルズ (2021 - 2023)
 - Southland Stags (2023 - 2023)
 - Hunter Wildfires (2024 - 2025)
 - Southland Stags (2024 - 2024)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2024 - 2024)
+- メルボルン・レベルズ (2024 - 2024)
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - 2026)

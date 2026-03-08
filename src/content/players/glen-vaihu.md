@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2019 - 2024)
+- メルボルン・レベルズ (2019 - 2024)
 - AZ-COM Maruwa Momotaro's (2024 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2026)

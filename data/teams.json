@@ -210,68 +210,57 @@
   {
     "team_name": "オークランド・ブルーズ",
     "slug": "blues",
-    "league": "super-rugby",
-    "team_en_name": "Auckland Blues"
+    "league": "super-rugby"
   },
   {
     "team_name": "ACTブランビーズ",
     "slug": "act-brumbies",
-    "league": "super-rugby",
-    "team_en_name": "ACT Brumbies"
+    "league": "super-rugby"
   },
   {
     "team_name": "ワイカト・チーフス",
     "slug": "chiefs",
-    "league": "super-rugby",
-    "team_en_name": "Waikato Chiefs"
+    "league": "super-rugby"
   },
   {
     "team_name": "カンタベリー・クルセイダーズ",
     "slug": "crusaders",
-    "league": "super-rugby",
-    "team_en_name": "Canterbury Crusaders"
+    "league": "super-rugby"
   },
   {
     "team_name": "フィジアン・ドゥルア",
     "slug": "fijian-drua",
-    "league": "super-rugby",
-    "team_en_name": "Fijian Drua"
+    "league": "super-rugby"
   },
   {
     "team_name": "オタゴ・ハイランダーズ",
     "slug": "highlanders",
-    "league": "super-rugby",
-    "team_en_name": "Otago Highlanders"
+    "league": "super-rugby"
   },
   {
     "team_name": "ウェリントン・ハリケーンズ",
     "slug": "hurricanes",
-    "league": "super-rugby",
-    "team_en_name": "Wellington Hurricanes"
+    "league": "super-rugby"
   },
   {
     "team_name": "モアナ・パシフィカ",
     "slug": "moana-pasifika",
-    "league": "super-rugby",
-    "team_en_name": "Moana Pasifika"
+    "league": "super-rugby"
   },
   {
     "team_name": "クイーンズランド・レッズ",
     "slug": "queensland-reds",
-    "league": "super-rugby",
-    "team_en_name": "Queensland Reds"
+    "league": "super-rugby"
   },
   {
     "team_name": "NSWワラタス（ワラターズ）",
     "slug": "nsw-waratahs",
-    "league": "super-rugby",
-    "team_en_name": "NSW Waratahs"
+    "league": "super-rugby"
   },
   {
     "team_name": "ウェスタン・フォース",
     "slug": "western-force",
-    "league": "super-rugby",
-    "team_en_name": "Western Force"
+    "league": "super-rugby"
   },
   {
     "team_name": "トゥールーズ",

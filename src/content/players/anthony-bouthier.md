@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - RC Pouillon (2004 - 2011)
 - US Dax Rugby Landes (2011 - 2014)
 - [ヴァンヌ](/teams/top14/vannes) (2014 - 2019)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2019 - 2025)
+- [モンペリエ](/teams/top14/montpellier) (2019 - 2025)
 - [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)

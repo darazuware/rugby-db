@@ -25,5 +25,5 @@ facebook: ""
 
 - CSM Baia Mare (2019 - 2021)
 - Sunnybank Rugby (2021 - 2022)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2022 - 2024)
+- メルボルン・レベルズ (2022 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2026)

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Manawatu Turbos (2018 - 2021)
 - Racing Club Narbonnais (2021 - 2022)
-- [リヨン](/teams/top14/lyon-ou) (2022 - 2026)
+- [リヨン](/teams/top14/lyon) (2022 - 2026)

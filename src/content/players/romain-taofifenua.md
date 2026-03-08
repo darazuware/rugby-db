@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [クレルモン](/teams/top14/clermont) (2007 - 2008)
 - Union Sportive Arlequins Perpignanais (2008 - 2014)
 - [トゥーロン](/teams/top14/toulon) (2014 - 2021)
-- [リヨン](/teams/top14/lyon-ou) (2021 - 2024)
+- [リヨン](/teams/top14/lyon) (2021 - 2024)
 - [ラシン92](/teams/top14/racing-92) (2024 - 2026)

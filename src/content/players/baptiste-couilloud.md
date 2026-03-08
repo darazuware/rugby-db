@@ -23,4 +23,4 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [リヨン](/teams/top14/lyon-ou) (2004 - 2026)
+- [リヨン](/teams/top14/lyon) (2004 - 2026)

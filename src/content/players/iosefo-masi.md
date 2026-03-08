@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - North Queensland Cowboys (2021 - 2022)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - 2026)

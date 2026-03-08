@@ -26,6 +26,6 @@ facebook: ""
 - Bidart Union Club (2010 - 2019)
 - Biarritz Olympique Pays Basque (2019 - 2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2025)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2025)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2026 - 2026)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2026 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2026 - 2026)

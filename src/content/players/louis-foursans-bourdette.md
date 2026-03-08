@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rugby Club Nîmois (2010 - 2019)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2019 - 2024)
+- [モンペリエ](/teams/top14/montpellier) (2019 - 2024)
 - [スタッド・フランセ](/teams/top14/paris) (2024 - 2026)

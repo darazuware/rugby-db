@@ -55,6 +55,14 @@ for league, teams in TEAM_NAMES_JP.items():
         if "Chiefs" in en_name: slug = "chiefs"
         if "Blues" in en_name: slug = "blues"
         if "Ospreys" in en_name: slug = "ospreys"
+        if "Montpellier" in en_name: slug = "montpellier"
+        if "Lyon" in en_name: slug = "lyon"
+        if "Racing 92" in en_name: slug = "racing-92"
+        if "Stade Français" in en_name: slug = "paris"
+        if "Castres" in en_name: slug = "castres"
+        if "Perpignan" in en_name: slug = "perpignan"
+        if "Bayonne" in en_name: slug = "bayonne"
+        if "Vannes" in en_name: slug = "vannes"
         
         mapping_data = {"league": normalized_league, "slug": slug, "jp": data['jp'], "flag": data['flag'], "country": data['country']}
         TEAM_MAPPING[en_name] = mapping_data
@@ -81,7 +89,8 @@ def get_team_link(team_name):
     info = get_team_info(team_name)
     if info:
         # URC はリンクしない
-        if info.get('league') == 'urc':
+        # URC や Rebels (活動休止) はリンクしない
+        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
             return info.get('jp', team_name)
             
         display_name = info.get('jp', team_name)

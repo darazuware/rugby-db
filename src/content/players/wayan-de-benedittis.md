@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - FC Grenoble Rugby (2006 - 2019)
 - Castres Olympique (2019 - 2024)
-- [リヨン](/teams/top14/lyon-ou) (2024 - 2024)
+- [リヨン](/teams/top14/lyon) (2024 - 2024)
 - Castres Olympique (2025 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2025)
+- [リヨン](/teams/top14/lyon) (2025 - 2025)
 - [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)

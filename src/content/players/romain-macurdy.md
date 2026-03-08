@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Villeneuve-lès-Maguelone (2006 - 2011)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2011 - 2023)
+- [モンペリエ](/teams/top14/montpellier) (2011 - 2023)
 - Castres Olympique (2023 - 2026)

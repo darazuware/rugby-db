@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2015 - 2019)
+- メルボルン・レベルズ (2015 - 2019)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - 2026)

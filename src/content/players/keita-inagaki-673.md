@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2014 - 2015)
+- メルボルン・レベルズ (2014 - 2015)
 - Sunwolves (2015 - 2019)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - 2026)

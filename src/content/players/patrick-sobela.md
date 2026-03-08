@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Oyonnax Rugby (2011 - 2018)
-- [リヨン](/teams/top14/lyon-ou) (2018 - 2023)
+- [リヨン](/teams/top14/lyon) (2018 - 2023)
 - Union Sportive Arlequins Perpignanais (2023 - 2026)

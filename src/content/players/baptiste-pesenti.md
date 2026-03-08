@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - FC Saint-Claude Rugby (2005 - 2012)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2012 - 2016)
+- [モンペリエ](/teams/top14/montpellier) (2012 - 2016)
 - Section Paloise Béarn Pyrénées (2016 - 2021)
 - [ラシン92](/teams/top14/racing-92) (2021 - 2022)
 - [スタッド・フランセ](/teams/top14/paris) (2022 - 2026)

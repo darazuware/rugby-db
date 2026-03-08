@@ -26,7 +26,7 @@ facebook: ""
 - [トゥールーズ](/teams/top14/toulouse) (2011 - 2012)
 - ハリウッドベッツ・シャークス (2012 - 2013)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2014 - 2015)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2015 - 2016)
+- メルボルン・レベルズ (2015 - 2016)
 - Sunwolves (2016 - 2018)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2020)
 - [クレルモン](/teams/top14/clermont) (2020 - 2022)

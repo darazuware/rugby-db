@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2013 - 2014)
+- メルボルン・レベルズ (2013 - 2014)
 - Aviron Bayonnais (2014 - 2015)
 - Bay of Plenty Steamers (2015 - 2016)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2025)

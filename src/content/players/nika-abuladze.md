@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
 - Black Lion (2023 - 2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)

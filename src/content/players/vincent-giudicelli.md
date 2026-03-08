@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2004 - 2016)
-- [リヨン](/teams/top14/lyon-ou) (2016 - 2017)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2017 - 2023)
+- [モンペリエ](/teams/top14/montpellier) (2004 - 2016)
+- [リヨン](/teams/top14/lyon) (2016 - 2017)
+- [モンペリエ](/teams/top14/montpellier) (2017 - 2023)
 - Aviron Bayonnais (2023 - 2026)

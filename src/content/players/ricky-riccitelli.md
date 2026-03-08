@@ -37,4 +37,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - ヴォーダコム・ブルズ (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)

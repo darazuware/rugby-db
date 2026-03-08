@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Sporting Club Albigeois (2010 - 2017)
-- [リヨン](/teams/top14/lyon-ou) (2017 - 2019)
+- [リヨン](/teams/top14/lyon) (2017 - 2019)
 - Stade Montois Rugby Pro (2019 - 2020)
 - FC Grenoble Rugby (2020 - 2022)
 - Castres Olympique (2022 - 2025)

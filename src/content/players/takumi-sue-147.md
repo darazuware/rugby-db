@@ -6,7 +6,7 @@ team: "豊田自動織機シャトルズ愛知"
 height: "165"
 weight: "66"
 birth_date: "1998.03.08"
-age: 27
+age: 28
 high_school: "長崎北陽台高校"
 university: "帝京大学"
 caps: "U20,U23('17)"

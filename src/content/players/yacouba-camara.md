@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - AC Bobigny 93 (2006 - 2010)
 - Rugby Club Massy Essonne (2010 - 2013)
 - [トゥールーズ](/teams/top14/toulouse) (2013 - 2017)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2017 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2017 - 2026)

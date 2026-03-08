@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2015 - 2024)
+- メルボルン・レベルズ (2015 - 2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
 - Aviron Bayonnais (2025 - 2026)

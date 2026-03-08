@@ -25,5 +25,5 @@ facebook: ""
 
 - Club Sportif Nuiton (2010 - 2012)
 - Trois Ilets Rugby Club (2014 - 2019)
-- [リヨン](/teams/top14/lyon-ou) (2019 - 2023)
+- [リヨン](/teams/top14/lyon) (2019 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2026)

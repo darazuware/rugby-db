@@ -5,7 +5,7 @@ import re
 import requests
 
 # サーバーURL (npm run dev が起動している前提)
-BASE_URL = "http://localhost:4322"
+BASE_URL = "http://localhost:4323"
 
 def verify_links():
     # 1. チームデータの読み込み

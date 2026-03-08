@@ -23,7 +23,7 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- [リヨン](/teams/top14/lyon-ou) (2015 - 2018)
+- [リヨン](/teams/top14/lyon) (2015 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2023)
 - FC Grenoble Rugby (2023 - 2025)
 - [トゥーロン](/teams/top14/toulon) (2025 - 2025)

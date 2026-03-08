@@ -23,7 +23,7 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2017 - 2018)
+- メルボルン・レベルズ (2017 - 2018)
 - Southern Districts (2018 - 2019)
 - Utah Warriors (2019 - 2019)
 - Southern Districts (2019 - 2019)

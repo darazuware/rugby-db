@@ -6,7 +6,7 @@ team: "横浜キヤノンイーグルス"
 height: "189"
 weight: "110"
 birth_date: "1997.03.08"
-age: 28
+age: 29
 high_school: "トゥポウカレッジ"
 university: ""
 caps: "XV('25)、日本代表(5)"

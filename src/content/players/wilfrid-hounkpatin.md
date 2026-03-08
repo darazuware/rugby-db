@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Rugby Club Nîmois (2009 - 2010)
 - Provence Rugby (2010 - 2011)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2011 - 2013)
+- [モンペリエ](/teams/top14/montpellier) (2011 - 2013)
 - Racing Club Narbonnais (2013 - 2014)
 - Rouen Normandie Rugby (2014 - 2018)
 - Castres Olympique (2018 - 2024)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)

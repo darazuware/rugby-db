@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Chalon-sur-Saône (2010 - 2021)
-- [リヨン](/teams/top14/lyon-ou) (2021 - 2023)
+- [リヨン](/teams/top14/lyon) (2021 - 2023)
 - USON Nevers Rugby (2023 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - 2026)

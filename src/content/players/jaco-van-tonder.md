@@ -6,7 +6,7 @@ team: "ペルピニャン"
 height: "197"
 weight: "118"
 birth_date: "1998.03.08"
-age: 27
+age: 28
 high_school: ""
 university: ""
 caps: "South Africa"

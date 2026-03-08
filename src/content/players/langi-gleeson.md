@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Manly Marlins (2020 - 2021)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)

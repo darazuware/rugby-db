@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2019 - 2021)
+- メルボルン・レベルズ (2019 - 2021)
 - Northampton Saints (2021 - 2021)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2021)
 - Northampton Saints (2022 - 2022)

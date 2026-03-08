@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - RC du Mont-Dore (2018 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2023)
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
 - [ヴァンヌ](/teams/top14/vannes) (2023 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)

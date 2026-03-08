@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/enzo.forletta"
 
 - Étoile Sportive Catalane (2009 - 2011)
 - Union Sportive Arlequins Perpignanais (2011 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2026)

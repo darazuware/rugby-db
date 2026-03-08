@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2013 - 2017)
+- メルボルン・レベルズ (2013 - 2017)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - 2026)

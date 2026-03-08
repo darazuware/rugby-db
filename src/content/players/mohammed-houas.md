@@ -23,6 +23,6 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2008 - 2023)
+- [モンペリエ](/teams/top14/montpellier) (2008 - 2023)
 - Biarritz Olympique Pays Basque (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)

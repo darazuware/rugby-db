@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Lelo Saracens Tbilissi (2017 - 2018)
 - CA Brive Corrèze Limousin (2018 - 2023)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2023 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2023 - 2026)

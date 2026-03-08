@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - RCO Salagou Coeur d'Hérault (2006 - 2013)
 - Stade Piscenois (2013 - 2014)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2014 - 2017)
+- [モンペリエ](/teams/top14/montpellier) (2014 - 2017)
 - Stade Piscenois (2017 - 2019)
 - Association Sportive Béziers Hérault (2019 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - 2026)

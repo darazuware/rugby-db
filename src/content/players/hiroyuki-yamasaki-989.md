@@ -6,7 +6,7 @@ team: "クボタスピアーズ船橋・東京ベイ"
 height: "175"
 weight: "85"
 birth_date: "1998.03.08"
-age: 27
+age: 28
 high_school: "筑紫高校"
 university: "明治大学"
 caps: "U23('18)"

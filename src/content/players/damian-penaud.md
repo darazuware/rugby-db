@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [リヨン](/teams/top14/lyon-ou) (2006 - 2007)
+- [リヨン](/teams/top14/lyon) (2006 - 2007)
 - CA Brive Corrèze Limousin (2007 - 2008)
 - Malemort XV (2009 - 2010)
 - CA Brive Corrèze Limousin (2010 - 2014)

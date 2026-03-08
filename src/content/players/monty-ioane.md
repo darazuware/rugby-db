@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [スタッド・フランセ](/teams/top14/paris) (2013 - 2015)
 - Bay of Plenty Steamers (2015 - 2017)
 - ベネットン・ラグビー・トレヴィーゾ (2017 - 2022)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2022 - 2023)
-- [リヨン](/teams/top14/lyon-ou) (2023 - 2026)
+- メルボルン・レベルズ (2022 - 2023)
+- [リヨン](/teams/top14/lyon) (2023 - 2026)

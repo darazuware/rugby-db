@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2017 - 2018)
+- メルボルン・レベルズ (2017 - 2018)
 - Melbourne Rising (2018 - 2018)
 - Gordon Rugby Football Club (2018 - 2018)
 - Gordon Rugby Football Club (2019 - 2020)

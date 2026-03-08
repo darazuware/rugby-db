@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - オスプリーズ (2015 - 2025)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)

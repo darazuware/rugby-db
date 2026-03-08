@@ -23,10 +23,10 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- [リヨン](/teams/top14/lyon-ou) (2015 - 2018)
+- [リヨン](/teams/top14/lyon) (2015 - 2018)
 - Rugby Club Massy Essonne (2018 - 2018)
-- [リヨン](/teams/top14/lyon-ou) (2019 - 2019)
+- [リヨン](/teams/top14/lyon) (2019 - 2019)
 - Rugby Club Massy Essonne (2019 - 2019)
-- [リヨン](/teams/top14/lyon-ou) (2019 - 2020)
+- [リヨン](/teams/top14/lyon) (2019 - 2020)
 - FC Grenoble Rugby (2020 - 2023)
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)

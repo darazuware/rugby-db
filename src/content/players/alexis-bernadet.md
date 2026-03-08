@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [スタッド・フランセ](/teams/top14/paris) (2017 - 2019)
 - Avenir Castanéen Rugby XV (2019 - 2021)
 - Union Sportive Montalbanaise (2021 - 2024)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)

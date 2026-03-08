@@ -24,10 +24,10 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2017 - 2020)
+- メルボルン・レベルズ (2017 - 2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
-- [リヨン](/teams/top14/lyon-ou) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - 2026)

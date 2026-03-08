@@ -27,5 +27,5 @@ facebook: ""
 - Rugby Club Chartreuse Néron (2006 - 2009)
 - SO Voiron (2009 - 2012)
 - FC Grenoble Rugby (2012 - 2020)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2020 - 2022)
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2022)
 - Section Paloise Béarn Pyrénées (2022 - 2026)

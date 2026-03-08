@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2015 - 2023)
+- メルボルン・レベルズ (2015 - 2023)
 - Aviron Bayonnais (2023 - 2026)

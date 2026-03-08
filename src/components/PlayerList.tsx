@@ -90,8 +90,7 @@ const CATEGORIES = ['カテゴリーA', 'カテゴリーB', 'カテゴリーC'];
 const LEAGUES = [
     { id: 'league-one', name: 'LEAGUE ONE' },
     { id: 'super-rugby', name: 'SUPER RUGBY' },
-    { id: 'top14', name: 'TOP 14' },
-    { id: 'urc', name: 'URC' }
+    { id: 'top14', name: 'TOP 14' }
 ];
 
 const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
@@ -351,7 +350,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             case 'league-one': return 'bg-[#E60012]';
             case 'top14': return 'bg-[#C5A059]';
             case 'super-rugby': return 'bg-[#0055A4]';
-            case 'urc': return 'bg-[#003366]';
             default: return 'bg-[#E60012]';
         }
     };
@@ -362,7 +360,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             case 'league-one': return 'text-[#E60012]';
             case 'top14': return 'text-[#C5A059]';
             case 'super-rugby': return 'text-[#0055A4]';
-            case 'urc': return 'text-[#003366]';
             default: return 'text-[#E60012]';
         }
     };

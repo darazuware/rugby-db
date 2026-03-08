@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2021 - 2022)
+- メルボルン・レベルズ (2021 - 2022)
 - Endeavour Hills RUFC (2022 - 2023)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2026)

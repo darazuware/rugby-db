@@ -27,5 +27,5 @@ facebook: ""
 - [トゥールーズ](/teams/top14/toulouse) (2012 - 2020)
 - US Carcassonne (2020 - 2021)
 - [トゥールーズ](/teams/top14/toulouse) (2021 - 2023)
-- [リヨン](/teams/top14/lyon-ou) (2023 - 2025)
+- [リヨン](/teams/top14/lyon) (2023 - 2025)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2026)

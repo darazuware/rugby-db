@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - Aviron Bayonnais (2016 - 2016)
 - [クレルモン](/teams/top14/clermont) (2016 - 2020)
 - Oyonnax Rugby (2020 - 2024)
-- [リヨン](/teams/top14/lyon-ou) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - 2026)

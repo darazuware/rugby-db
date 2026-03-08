@@ -6,7 +6,7 @@ team: "クイーンズランド・レッズ"
 height: "183"
 weight: "94"
 birth_date: "1999.03.08"
-age: 26
+age: 27
 high_school: ""
 university: ""
 caps: ""

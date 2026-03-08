@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Racing Club Narbonnais (2005 - 2016)
-- [リヨン](/teams/top14/lyon-ou) (2016 - 2022)
+- [リヨン](/teams/top14/lyon) (2016 - 2022)
 - [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)

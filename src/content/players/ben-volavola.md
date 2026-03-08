@@ -25,7 +25,7 @@ facebook: ""
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2012 - 2014)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2016)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2016 - 2017)
+- メルボルン・レベルズ (2016 - 2017)
 - North Harbour (2017 - 2017)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2017)
 - North Harbour (2018 - 2018)

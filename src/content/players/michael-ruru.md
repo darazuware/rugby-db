@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2017 - 2019)
+- メルボルン・レベルズ (2017 - 2019)
 - Aviron Bayonnais (2019 - 2022)
 - [ヴァンヌ](/teams/top14/vannes) (2022 - 2022)
 - Aviron Bayonnais (2023 - 2023)

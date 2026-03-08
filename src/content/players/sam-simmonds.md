@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2023)
-- [モンペリエ](/teams/top14/montpellier-h-rault-rugby) (2023 - 2025)
-- [リヨン](/teams/top14/lyon-ou) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2023 - 2025)
+- [リヨン](/teams/top14/lyon) (2025 - 2026)

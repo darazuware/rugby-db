@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2023)
-- [メルボルン・レベルズ](/teams/super-rugby/melbourne-rebels) (2023 - 2024)
+- メルボルン・レベルズ (2023 - 2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
 - [ラシン92](/teams/top14/racing-92) (2025 - 2026)
