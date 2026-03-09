@@ -21,7 +21,8 @@
             "country": "ニュージーランド",
             "flag": "🇳🇿",
             "aliases": [
-                "Chiefs"
+                "Chiefs",
+                "Chiefs Rugby Club"
             ]
         },
         "Canterbury Crusaders": {
@@ -29,7 +30,8 @@
             "country": "ニュージーランド",
             "flag": "🇳🇿",
             "aliases": [
-                "Crusaders"
+                "Crusaders",
+                "Crusaders Rugby"
             ]
         },
         "Fijian Drua": {
@@ -274,7 +276,9 @@
             "flag": "🇫🇷",
             "aliases": [
                 "Bordeaux UBB",
-                "Bordeaux"
+                "Bordeaux",
+                "Bordeaux Begles",
+                "Begles"
             ]
         },
         "Lyon OU": {
@@ -323,6 +327,39 @@
                 "Montauban USM",
                 "Montauban",
                 "montauban"
+            ]
+        },
+        "Section Paloise": {
+            "jp": "ポー",
+            "country": "フランス",
+            "flag": "🇫🇷",
+            "aliases": [
+                "Pau",
+                "Section Paloise"
+            ]
+        },
+        "Castres Olympique": {
+            "jp": "カストル",
+            "country": "フランス",
+            "flag": "🇫🇷",
+            "aliases": [
+                "Castres"
+            ]
+        },
+        "Aviron Bayonnais": {
+            "jp": "バイヨンヌ",
+            "country": "フランス",
+            "flag": "🇫🇷",
+            "aliases": [
+                "Bayonne"
+            ]
+        },
+        "USA Perpignan": {
+            "jp": "ペルピニャン",
+            "country": "フランス",
+            "flag": "🇫🇷",
+            "aliases": [
+                "Perpignan"
             ]
         }
     },

@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import resultsData from "../../../data/results_2026.json";
+import teamNamesJp from "../../../data/team_names_jp.json";
 
 const leagues = [
     { id: "league-one-d1", name: "League One D1", label: "リーグワン D1", parentId: "league-one", division: "D1" },
@@ -11,17 +12,81 @@ const leagues = [
     { id: "urc", name: "URC", label: "URC" },
 ];
 
-// Round ごとにグルーピングする関数
-const groupByRound = (results: any[]) => {
-    const groups: { [key: number]: any[] } = {};
+// チーム名正規化関数 - より柔軟に
+const normalizeTeam = (leagueId: string, name: string) => {
+    if (!name) return { name: "Unknown", flag: null };
+    const leagueKey = leagueId.startsWith('league-one') ? 'league-one' : leagueId;
+    const leagueData = (teamNamesJp as any)[leagueKey] || {};
+    
+    // 1. 完全一致（キーまたは日本語名）
+    if (leagueData[name]) return { name: leagueData[name].jp, flag: leagueData[name].flag };
+    for (const [fullName, data] of Object.entries(leagueData)) {
+        if ((data as any).jp === name) return { name: (data as any).jp, flag: (data as any).flag };
+    }
+    
+    // 2. エイリアス検索（部分一致含む）
+    for (const [fullName, data] of Object.entries(leagueData)) {
+        const d = data as any;
+        if (d.aliases?.some((a: string) => a.toLowerCase() === name.toLowerCase()) || 
+            fullName.toLowerCase().includes(name.toLowerCase()) ||
+            name.toLowerCase().includes(fullName.toLowerCase())) {
+            return { name: d.jp, flag: d.flag };
+        }
+    }
+    
+    return { name, flag: null };
+};
+
+// Round ごとにグルーピングし、重複排除する関数
+const groupByRound = (leagueId: string, results: any[]) => {
+    const allMatches: any[] = [];
+    const seenMatches = new Map(); // Key: date-team1-team2
+
     results.forEach(r => {
-        const round = r.round || 0;
-        if (!groups[round]) groups[round] = [];
-        groups[round].push(r);
+        const normHome = normalizeTeam(leagueId, r.home);
+        const normAway = normalizeTeam(leagueId, r.away);
+        
+        // チーム名の順序を固定してキーを作成 (A vs B も B vs A も同一視)
+        const teams = [normHome.name, normAway.name].sort();
+        const matchKey = `${r.date}-${teams[0]}-${teams[1]}`;
+        
+        const enhancedResult = {
+            ...r,
+            home: normHome.name,
+            home_flag: normHome.flag || r.home_flag,
+            away: normAway.name,
+            away_flag: normAway.flag || r.away_flag,
+            round: r.round || 0
+        };
+
+        if (seenMatches.has(matchKey)) {
+            const existing = seenMatches.get(matchKey);
+            // round 情報がある方を優先、スコアが VS でない方を優先
+            const existingHasRound = existing.round > 0;
+            const currentHasRound = r.round > 0;
+            
+            if (!existingHasRound && currentHasRound) {
+                seenMatches.set(matchKey, enhancedResult);
+            } else if (existing.score === "VS" && r.score !== "VS") {
+                seenMatches.set(matchKey, enhancedResult);
+            }
+        } else {
+            seenMatches.set(matchKey, enhancedResult);
+        }
     });
+
+    const uniqueMatches = Array.from(seenMatches.values());
+    const groups: { [key: number]: any[] } = {};
+    
+    uniqueMatches.forEach(m => {
+        const round = m.round;
+        if (!groups[round]) groups[round] = [];
+        groups[round].push(m);
+    });
+
     return Object.keys(groups)
         .map(Number)
-        .sort((a, b) => b - a) // 降順（最新の節を上に）
+        .sort((a, b) => b - a)
         .map(round => ({
             round,
             matches: groups[round].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
@@ -35,7 +100,7 @@ const getLeagueResults = (league: any) => {
     } else {
         results = (resultsData as any)[league.id] || [];
     }
-    return groupByRound(results);
+    return groupByRound(league.id, results);
 };
 ---
 
@@ -205,7 +270,7 @@ const getLeagueResults = (league: any) => {
         // コンテンツの表示制御
         sections.forEach(section => {
             const sectLeague = section.getAttribute('data-league');
-            if (activeLeague === 'all' || sectLeague === activeLeague || (activeLeague.startsWith('league-one') && sectLeague?.startsWith('league-one'))) {
+            if (activeLeague === 'all' || sectLeague === activeLeague) {
                 (section as HTMLElement).style.display = 'block';
             } else {
                 (section as HTMLElement).style.display = 'none';
