@@ -73,7 +73,7 @@ const isURC = league === "urc";
 
 const rawStandings = leagueData?.standings || [];
 const fullResults = (resultsData as any)[league || ""] || [];
-const results = fullResults.slice(0, 10); // 最新10件を表示
+const results = fullResults.slice(0, 20); // 最新20件を表示（D1/D2/D3をカバーするため拡大）
 
 const standings = rawStandings.map((s: any) => {
     const mapping = getTeamMapping(s.team_name);
