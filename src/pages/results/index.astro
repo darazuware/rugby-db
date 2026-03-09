@@ -15,10 +15,22 @@ const leagues = [
 
 // チームのスラッグを取得するヘルパー
 const getTeamSlug = (leagueId: string, teamName: string) => {
+    if (!teamName) return null;
     const leagueKey = leagueId.startsWith('league-one') ? 'league-one' : leagueId;
-    const team = (teamsData as any).find((t: any) => 
-        t.league === leagueKey && t.team_name === teamName
+    const cleanName = teamName.trim();
+    
+    // 1. 完全一致
+    let team = (teamsData as any).find((t: any) => 
+        t.league === leagueKey && t.team_name === cleanName
     );
+    
+    // 2. 部分一致 (teams.json の名称が長い場合など)
+    if (!team) {
+        team = (teamsData as any).find((t: any) => 
+            t.league === leagueKey && (t.team_name.includes(cleanName) || cleanName.includes(t.team_name))
+        );
+    }
+    
     return team ? `/teams/${leagueKey}/${team.slug}` : null;
 };
 
@@ -27,39 +39,37 @@ const normalizeTeam = (leagueId: string, name: string) => {
     if (!name) return { name: "Unknown", flag: null };
     const leagueKey = leagueId.startsWith('league-one') ? 'league-one' : leagueId;
     const leagueData = (teamNamesJp as any)[leagueKey] || {};
+    const cleanInput = name.trim();
     
     // 1. 完全一致（キーまたは日本語名）
-    if (leagueData[name]) return { name: leagueData[name].jp, flag: leagueData[name].flag };
+    if (leagueData[cleanInput]) return { name: leagueData[cleanInput].jp, flag: leagueData[cleanInput].flag };
     for (const [fullName, data] of Object.entries(leagueData)) {
-        if ((data as any).jp === name) return { name: (data as any).jp, flag: (data as any).flag };
+        if ((data as any).jp === cleanInput) return { name: (data as any).jp, flag: (data as any).flag };
     }
     
     // 2. エイリアス検索（部分一致含む）
     for (const [fullName, data] of Object.entries(leagueData)) {
         const d = data as any;
-        if (d.aliases?.some((a: string) => a.toLowerCase().trim() === name.toLowerCase().trim()) || 
-            fullName.toLowerCase().trim().includes(name.toLowerCase().trim()) ||
-            name.toLowerCase().trim().includes(fullName.toLowerCase().trim())) {
+        const lowerInput = cleanInput.toLowerCase();
+        if (d.aliases?.some((a: string) => a.toLowerCase().trim() === lowerInput) || 
+            fullName.toLowerCase().trim().includes(lowerInput) ||
+            lowerInput.includes(fullName.toLowerCase().trim())) {
             return { name: d.jp, flag: d.flag };
         }
     }
     
-    return { name: name.trim(), flag: null };
+    return { name: cleanInput, flag: null };
 };
 
 // Round ごとにグルーピングし、重複排除する関数
 const groupByRound = (leagueId: string, results: any[]) => {
-    const seenMatches = new Map(); // Key: date-team1-team2
-
-    results.forEach(r => {
+    // 1. データの正規化と初期収集
+    const allEnhancedResults = results.map(r => {
         const normHome = normalizeTeam(leagueId, r.home);
         const normAway = normalizeTeam(leagueId, r.away);
-        
-        // チーム名の順序を固定してキーを作成 (A vs B も B vs A も同一視)
         const sortedTeams = [normHome.name, normAway.name].sort();
-        const matchKey = `${r.date.trim()}-${sortedTeams[0]}-${sortedTeams[1]}`;
         
-        const enhancedResult = {
+        return {
             ...r,
             home: normHome.name,
             home_flag: normHome.flag || r.home_flag,
@@ -67,29 +77,45 @@ const groupByRound = (leagueId: string, results: any[]) => {
             away: normAway.name,
             away_flag: normAway.flag || r.away_flag,
             away_link: getTeamSlug(leagueId, normAway.name),
-            round: r.round || 0
+            round: parseInt(r.round) || 0,
+            _sortedTeams: sortedTeams,
+            _dateObj: new Date(r.date)
         };
+    });
 
-        if (seenMatches.has(matchKey)) {
-            const existing = seenMatches.get(matchKey);
-            // round 情報があるレコードを優先して保持する
-            const existingHasRound = existing.round > 0;
-            const currentHasRound = enhancedResult.round > 0;
-            
-            if (!existingHasRound && currentHasRound) {
-                seenMatches.set(matchKey, enhancedResult);
-            } else if (existing.score === "VS" && enhancedResult.score !== "VS") {
-                // スコアが確定している方を優先
-                seenMatches.set(matchKey, enhancedResult);
-            }
-        } else {
-            seenMatches.set(matchKey, enhancedResult);
+    // 2. 重複排除 (チームペア + スコア + 近い日付)
+    const uniqueMatches: any[] = [];
+    
+    // Round情報があるものを優先して先に処理
+    const sortedForDedup = [...allEnhancedResults].sort((a, b) => (b.round > 0 ? 1 : 0) - (a.round > 0 ? 1 : 0));
+
+    sortedForDedup.forEach(current => {
+        const isDuplicate = uniqueMatches.find(existing => {
+            // 同一対戦カード
+            const sameTeams = existing._sortedTeams[0] === current._sortedTeams[0] && 
+                             existing._sortedTeams[1] === current._sortedTeams[1];
+            if (!sameTeams) return false;
+
+            // スコアが一致、または一方が未確定
+            const sameScore = existing.score === current.score || existing.score === "VS" || current.score === "VS";
+            if (!sameScore) return false;
+
+            // 日付が2日以内
+            const diffDays = Math.abs(existing._dateObj.getTime() - current._dateObj.getTime()) / (1000 * 60 * 60 * 24);
+            return diffDays <= 2;
+        });
+
+        if (!isDuplicate) {
+            uniqueMatches.push(current);
+        } else if (current.round > 0 && isDuplicate.round === 0) {
+            // 既存が Round なしで、現在が Round ありなら差し替え
+            const index = uniqueMatches.indexOf(isDuplicate);
+            uniqueMatches[index] = current;
         }
     });
 
-    const uniqueMatches = Array.from(seenMatches.values());
+    // 3. Round ごとのグループ化
     const groups: { [key: number]: any[] } = {};
-    
     uniqueMatches.forEach(m => {
         const round = m.round;
         if (!groups[round]) groups[round] = [];
@@ -101,7 +127,7 @@ const groupByRound = (leagueId: string, results: any[]) => {
         .sort((a, b) => b - a)
         .map(round => ({
             round,
-            matches: groups[round].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+            matches: groups[round].sort((a, b) => b._dateObj.getTime() - a._dateObj.getTime())
         }));
 };
 
