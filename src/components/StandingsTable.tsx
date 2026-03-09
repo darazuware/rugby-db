@@ -187,24 +187,32 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings, results }) => {
                         <span className="text-[9px] font-black text-white/50 uppercase tracking-widest bg-black/10 px-2 py-0.5 rounded-full">Matches</span>
                     </div>
                     <div className="p-4 space-y-3">
-                        {results.map((result, idx) => (
-                            <div key={idx} className="flex items-center justify-between p-3 bg-gray-50 rounded-2xl border border-gray-100 group hover:border-yellow-200 transition-colors">
-                                <div className="flex flex-col items-center flex-1 min-w-0">
-                                    <span className="text-base md:text-lg mb-0.5 shrink-0">{result.home_flag}</span>
-                                    <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.home}</span>
+                        {results.map((result, idx) => {
+                            const dateStr = result.date ? new Date(result.date).toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit' }) : '';
+                            return (
+                                <div key={idx} className="flex items-center justify-between p-3 bg-gray-50 rounded-2xl border border-gray-100 group hover:border-yellow-200 transition-colors">
+                                    <div className="flex flex-col items-center flex-1 min-w-0">
+                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.home_flag}</span>
+                                        <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.home}</span>
+                                    </div>
+                                    <div className="flex flex-col items-center px-2 shrink-0">
+                                        {dateStr && (
+                                            <span className="text-[7px] font-black text-gray-400 uppercase mb-0.5 tabular-nums">
+                                                {dateStr}
+                                            </span>
+                                        )}
+                                        {!dateStr && <span className="text-[8px] font-black text-gray-300 uppercase italic mb-0.5">VS</span>}
+                                        <span className="text-base md:text-xl font-black text-gray-900 tracking-tighter bg-white px-2 py-0.5 rounded-lg border border-gray-100 shadow-sm group-hover:bg-yellow-50 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
+                                            {result.score}
+                                        </span>
+                                    </div>
+                                    <div className="flex flex-col items-center flex-1 min-w-0">
+                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.away_flag}</span>
+                                        <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.away}</span>
+                                    </div>
                                 </div>
-                                <div className="flex flex-col items-center px-2 shrink-0">
-                                    <span className="text-[8px] font-black text-gray-300 uppercase italic mb-0.5">VS</span>
-                                    <span className="text-base md:text-xl font-black text-gray-900 tracking-tighter bg-white px-2 py-0.5 rounded-lg border border-gray-100 shadow-sm group-hover:bg-yellow-50 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
-                                        {result.score}
-                                    </span>
-                                </div>
-                                <div className="flex flex-col items-center flex-1 min-w-0">
-                                    <span className="text-base md:text-lg mb-0.5 shrink-0">{result.away_flag}</span>
-                                    <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.away}</span>
-                                </div>
-                            </div>
-                        ))}
+                            );
+                        })}
                     </div>
                 </div>
             )}

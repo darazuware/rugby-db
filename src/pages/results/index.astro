@@ -80,7 +80,7 @@ const getLeagueResults = (league: any) => {
 											<div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left overflow-hidden">
 												<div class="md:block hidden shrink-0">
 													<div class="text-[10px] text-gray-500 font-bold mb-1 uppercase tracking-wider">
-														{result.date} • RD {result.round}
+														{result.date.replace(/-/g, '/')} {result.round ? `• RD ${result.round}` : ''}
 													</div>
 												</div>
 												<div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row min-w-0 w-full justify-end md:justify-start">
@@ -105,7 +105,7 @@ const getLeagueResults = (league: any) => {
 												)}
 												<div class="md:hidden mt-1">
 													<div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center uppercase tracking-tighter">
-														{result.date} • RD {result.round}
+														{result.date.replace(/-/g, '/')} {result.round ? `• RD ${result.round}` : ''}
 													</div>
 												</div>
 											</div>
