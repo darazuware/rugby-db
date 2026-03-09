@@ -2,46 +2,6 @@
   "league-one": [
     {
       "division": "D3",
-      "date": "2026-03-08",
-      "round": 9,
-      "home": "ルリーロ福岡",
-      "away": "マツダスカイアクティブズ広島",
-      "score": "29-14",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-03-08",
-      "round": 8,
-      "home": "日本製鉄釜石シーウェイブス",
-      "away": "花園近鉄ライナーズ",
-      "score": "24-45",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-03-08",
-      "round": 8,
-      "home": "清水建設江東ブルーシャークス",
-      "away": "豊田自動織機シャトルズ愛知",
-      "score": "17-38",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D3",
-      "date": "2026-03-07",
-      "round": 9,
-      "home": "中国電力レッドレグリオンズ",
-      "away": "ヤクルトレビンズ戸田",
-      "score": "40-24",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D3",
       "date": "2026-03-07",
       "round": 9,
       "home": "ルリーロ福岡",
@@ -55,18 +15,8 @@
       "date": "2026-03-07",
       "round": 9,
       "home": "マツダスカイアクティブズ広島",
-      "away": "セコムラガッツ",
+      "away": "狭山セコムラガッツ",
       "score": "33-30",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-03-07",
-      "round": 8,
-      "home": "日野レッドドルフィンズ",
-      "away": "グリーンロケッツ東葛",
-      "score": "10-48",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵"
     },
@@ -77,6 +27,16 @@
       "home": "日本製鉄釜石シーウェイブス",
       "away": "花園近鉄ライナーズ",
       "score": "30-22",
+      "home_flag": "🇯🇵",
+      "away_flag": "🇯🇵"
+    },
+    {
+      "division": "D2",
+      "date": "2026-03-07",
+      "round": 8,
+      "home": "日野レッドドルフィンズ",
+      "away": "グリーンロケッツ東葛",
+      "score": "10-48",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵"
     },
@@ -207,46 +167,6 @@
       "home": "コベルコ神戸スティーラーズ",
       "away": "東芝ブレイブルーパス東京",
       "score": "24-31",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-02-22",
-      "round": 6,
-      "home": "日本製鉄釜石シーウェイブス",
-      "away": "レッドハリケーンズ大阪",
-      "score": "21-43",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-02-21",
-      "round": 6,
-      "home": "グリーンロケッツ東葛",
-      "away": "日野レッドドルフィンズ",
-      "score": "42-21",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-02-15",
-      "round": 6,
-      "home": "清水建設江東ブルーシャークス",
-      "away": "花園近鉄ライナーズ",
-      "score": "21-31",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵"
-    },
-    {
-      "division": "D2",
-      "date": "2026-02-14",
-      "round": 6,
-      "home": "九州電力キューデンヴォルテクス",
-      "away": "豊田自動織機シャトルズ愛知",
-      "score": "19-33",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵"
     }
