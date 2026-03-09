@@ -138,7 +138,7 @@ def format_markdown(player, slug):
         md += "- なし\n"
     
     md += "\n---\n"
-    md += "*この選手情報は RugbyPick のデータベースから自動生成されました。*\n"
+    md += "*この選手情報は RUGBY PICKS のデータベースから自動生成されました。*\n"
     
     return md
 

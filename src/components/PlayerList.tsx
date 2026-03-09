@@ -376,9 +376,27 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         <div className={`container mx-auto p-4 max-w-7xl ${leagueContext ? 'mt-0' : 'mt-8'}`}>
             <div className="mb-12 space-y-6">
                 {!leagueContext && (
-                    <h1 className="text-4xl font-black text-gray-900 tracking-tighter italic">
-                        RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
-                    </h1>
+                    <div className="flex justify-between items-center">
+                        <h1 className="text-4xl font-black text-gray-900 tracking-tighter italic">
+                            RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
+                        </h1>
+                        <button
+                            onClick={() => {
+                                setSearch('');
+                                setSelectedLeagues(leagueContext ? [leagueContext] : []);
+                                setSelectedPositions([]);
+                                setSelectedDivisions([]);
+                                setSelectedCategories([]);
+                                setSelectedTeams([]);
+                            }}
+                            className="px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-500 text-[10px] font-black uppercase tracking-widest rounded-xl transition-all flex items-center gap-2"
+                        >
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
+                                <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
+                            </svg>
+                            すべてのフィルタをリセット
+                        </button>
+                    </div>
                 )}
 
                 <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 space-y-8">
@@ -400,6 +418,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <div className="col-span-1 md:col-span-2 lg:col-span-4">
                                 <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">リーグ</label>
                                 <div className="flex flex-wrap gap-3">
+                                    <button
+                                        onClick={() => setSelectedLeagues([])}
+                                        className={`px-6 py-2.5 rounded-xl font-black text-sm transition-all border-2 ${selectedLeagues.length === 0
+                                            ? 'bg-gray-900 border-transparent text-white scale-105 shadow-lg'
+                                            : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                            }`}
+                                    >
+                                        ALL
+                                    </button>
                                     {LEAGUES.map(league => (
                                         <button
                                             key={league.id}
@@ -420,6 +447,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         <div className="col-span-1 md:col-span-2 lg:col-span-4">
                             <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">チーム（複数選択可）</label>
                             <div className="flex flex-wrap gap-2 max-h-48 overflow-y-auto p-4 bg-gray-50 rounded-2xl border border-gray-100">
+                                <button
+                                    onClick={() => setSelectedTeams([])}
+                                    className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedTeams.length === 0
+                                        ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
+                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                        }`}
+                                >
+                                    ALL
+                                </button>
                                 {VISIBLE_TEAMS.map(team => (
                                     <button
                                         key={team}
@@ -442,6 +478,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         <div className="col-span-1 md:col-span-2 lg:col-span-4">
                             <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">ポジション</label>
                             <div className="flex flex-wrap gap-2">
+                                <button
+                                    onClick={() => setSelectedPositions([])}
+                                    className={`px-3 py-1.5 rounded-xl font-black text-[11px] transition-all border-2 ${selectedPositions.length === 0
+                                        ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
+                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                        }`}
+                                >
+                                    ALL
+                                </button>
                                 {POSITIONS.map(pos => (
                                     <button
                                         key={pos}
@@ -467,6 +512,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             Division
                                         </label>
                                         <div className="flex flex-wrap gap-2">
+                                            <button
+                                                onClick={() => setSelectedDivisions([])}
+                                                className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.length === 0
+                                                    ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                    : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                    }`}
+                                            >
+                                                ALL
+                                            </button>
                                             {DIVISIONS.map((div) => (
                                                 <button
                                                     key={div.id}
@@ -494,6 +548,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             Category
                                         </label>
                                         <div className="flex flex-wrap gap-2">
+                                            <button
+                                                onClick={() => setSelectedCategories([])}
+                                                className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.length === 0
+                                                    ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                    : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                    }`}
+                                            >
+                                                ALL
+                                            </button>
                                             {CATEGORIES.map((cat) => (
                                                 <button
                                                     key={cat.id}

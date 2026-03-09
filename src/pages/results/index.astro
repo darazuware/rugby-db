@@ -38,15 +38,19 @@ const getLeagueResults = (league: any) => {
             </header>
 
             <!-- フィルター -->
-            <div class="flex flex-wrap justify-center gap-3 mb-12">
+            <div class="flex flex-wrap justify-center gap-3 mb-12" id="filter-container">
                 <button
-                    class="px-5 py-2 bg-yellow-400 text-black font-black italic rounded-xl shadow-[0_0_20px_rgba(250,204,21,0.3)] text-sm"
+                    class="filter-btn px-5 py-2 bg-yellow-400 text-black font-black italic rounded-xl shadow-[0_0_20px_rgba(250,204,21,0.3)] text-sm transition-all"
+                    data-league="all"
                 >
                     ALL
                 </button>
                 {
                     leagues.map((league) => (
-                        <button class="px-5 py-2 bg-gray-900 text-white font-bold rounded-xl border border-gray-800 hover:border-yellow-400 transition-all text-sm">
+                        <button 
+                            class="filter-btn px-5 py-2 bg-gray-900 text-white font-bold rounded-xl border border-gray-800 hover:border-yellow-400 transition-all text-sm"
+                            data-league={league.id}
+                        >
                             {league.label}
                         </button>
                     ))
@@ -54,13 +58,13 @@ const getLeagueResults = (league: any) => {
             </div>
 
 			<!-- 戦績リスト (リーグ/Divisionごとにグループ化) -->
-			<div class="max-w-4xl mx-auto space-y-16">
+			<div class="max-w-4xl mx-auto space-y-16" id="results-container">
 				{leagues.map((league) => {
 					const leagueResults = getLeagueResults(league);
 					if (leagueResults.length === 0) return null;
 
 					return (
-						<section>
+						<section data-league={league.id} class="league-section">
 							<div class="flex items-center gap-4 mb-8">
 								<h2 class={`text-xl md:text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
 									league.id.startsWith('league-one') ? 'bg-red-600 text-white' :
@@ -138,6 +142,46 @@ const getLeagueResults = (league: any) => {
         </div>
     </main>
 </Layout>
+
+<script>
+    const buttons = document.querySelectorAll('.filter-btn');
+    const sections = document.querySelectorAll('.league-section');
+    let activeLeague = 'all';
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            const league = button.getAttribute('data-league');
+            
+            // トグル処理: クリックされたのが現在のアクティブなリーグなら解除（ALLに戻す）
+            if (activeLeague === league && league !== 'all') {
+                activeLeague = 'all';
+            } else {
+                activeLeague = league || 'all';
+            }
+
+            // UIの更新
+            buttons.forEach(btn => {
+                if (btn.getAttribute('data-league') === activeLeague) {
+                    btn.classList.add('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
+                    btn.classList.remove('bg-gray-900', 'text-white', 'border-gray-800');
+                } else {
+                    btn.classList.remove('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
+                    btn.classList.add('bg-gray-900', 'text-white', 'border-gray-800');
+                }
+            });
+
+            // コンテンツの表示制御
+            sections.forEach(section => {
+                const sectLeague = section.getAttribute('data-league');
+                if (activeLeague === 'all' || sectLeague === activeLeague) {
+                    (section as HTMLElement).style.display = 'block';
+                } else {
+                    (section as HTMLElement).style.display = 'none';
+                }
+            });
+        });
+    });
+</script>
 
 <style>
     main {

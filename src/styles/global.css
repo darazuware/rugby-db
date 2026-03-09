@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+@theme {
+    --font-sans: "Inter", "ui-sans-serif", "system-ui", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-display: "Outfit", "sans-serif";
+}
+
+@layer base {
+
+    html,
+    body {
+        margin: 0;
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+}

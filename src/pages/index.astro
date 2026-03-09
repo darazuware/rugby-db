@@ -35,37 +35,57 @@ const leagueStandings = [
 ];
 ---
 
-<Layout title="RUGBYPICK | ラグビー選手名鑑データベース">
+<Layout
+	title="RUGBY PICKS | 世界のラグビーを日本語で爆速検索・名鑑データベース"
+>
 	<main>
-		<section class="relative bg-black text-white py-32 overflow-hidden">
+		<section
+			class="relative bg-black text-white py-32 md:py-48 overflow-hidden"
+		>
 			<div
 				class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
 			>
 			</div>
+			{/* 装飾用背景テキスト */}
+			<div
+				class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[12rem] md:text-[20rem] font-black font-display italic opacity-[0.03] select-none whitespace-nowrap pointer-events-none uppercase"
+			>
+				RUGBY PICKS
+			</div>
+
 			<div class="container mx-auto px-4 relative z-10 text-center">
 				<span
-					class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 animate-bounce"
+					class="inline-block px-5 py-1.5 bg-yellow-400 text-black font-black text-xs md:text-sm rounded-full mb-8 animate-pulse tracking-widest uppercase"
 				>
-					NEW START: ASTRO + REACT
+					NEXT GENERATION DATABASE
 				</span>
 				<h1
-					class="text-6xl md:text-8xl font-black italic tracking-tighter mb-8 leading-none"
+					class="text-6xl md:text-[9rem] font-black font-display italic mb-4 leading-none uppercase flex flex-col md:flex-row justify-center items-center md:gap-8"
 				>
-					EXPLORE THE<br /><span class="text-yellow-400"
-						>NEXT GEN</span
-					> DATABASE
+					<span>RUGBY</span>
+					<span
+						class="text-yellow-400 transition-all hover:brightness-110"
+						>PICKS</span
+					>
 				</h1>
 				<p
-					class="text-xl md:text-2xl text-gray-400 font-bold mb-12 max-w-2xl mx-auto"
+					class="text-lg md:text-2xl text-gray-400 font-bold mb-12 max-w-2xl mx-auto leading-relaxed"
 				>
-					リーグワン所属選手を中心に、詳細なスタッツとキャリアを網羅した爆速・高機能な日本最大級のラグビー選手名鑑。
+					世界中のラグビー選手情報を一瞬で引き出す。<br
+						class="hidden md:block"
+					/>
+					国内・海外全2,000名以上の選手を網羅した最強の名鑑サイト。
 				</p>
 				<div class="flex flex-wrap justify-center gap-6">
 					<a
 						href="/players"
-						class="px-10 py-5 bg-yellow-400 text-black font-black text-xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-2xl shadow-yellow-400/20"
+						class="px-12 py-6 bg-yellow-400 text-black font-black text-xl md:text-2xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-[0_20px_50px_rgba(250,204,21,0.3)] group flex items-center gap-3"
 					>
-						選手名鑑を見る
+						選手名鑑を検索する
+						<span
+							class="group-hover:translate-x-2 transition-transform"
+							>→</span
+						>
 					</a>
 				</div>
 
@@ -81,7 +101,7 @@ const leagueStandings = [
 							>国内リーグ</span
 						>
 						<h3
-							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+							class="text-2xl font-black font-display group-hover:text-black tracking-tighter italic"
 						>
 							LEAGUE ONE<br />
 							<span
@@ -99,7 +119,7 @@ const leagueStandings = [
 							>南半球強豪クラブ</span
 						>
 						<h3
-							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+							class="text-2xl font-black font-display group-hover:text-black tracking-tighter italic"
 						>
 							SUPER RUGBY<br />
 							<span
@@ -117,7 +137,7 @@ const leagueStandings = [
 							>フランス プロリーグ</span
 						>
 						<h3
-							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+							class="text-2xl font-black font-display group-hover:text-black tracking-tighter italic"
 						>
 							TOP 14<br />
 							<span
@@ -136,7 +156,7 @@ const leagueStandings = [
 							>欧州・南アフリカ</span
 						>
 						<h3
-							class="text-2xl font-black group-hover:text-black tracking-tighter italic"
+							class="text-2xl font-black font-display group-hover:text-black tracking-tighter italic"
 						>
 							URC<br />
 							<span
