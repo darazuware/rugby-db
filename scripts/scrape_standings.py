@@ -36,51 +36,38 @@ def scrape_top14_standings():
     try:
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
-        html = response.text
-        soup = BeautifulSoup(html, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
         
         standings = []
-        # 固定部分 (順位のみ)
-        rank_els = soup.select('.ranking-item__rank')
-        ranks = [re.sub(r'\D', '', "".join(el.stripped_strings)) for el in rank_els]
-        
-        # スクロール部分 (チーム名とデータ)
-        data_rows = soup.select('.table-line--ranking-scrollable')
-        
-        for i, row in enumerate(data_rows):
-            # チーム名とスタラグの抽出
-            link = row.select_one('a[href*="/club/"]')
-            raw_name = ""
-            team_slug = ""
-            if link:
-                raw_name = "".join(link.stripped_strings)
-                team_slug = link['href'].split('/')[-1]
+        # 新しいサイト構造に合わせたセレクター
+        table_lines = soup.select('.table-line')
+        for line in table_lines:
+            # 順位
+            rank_el = line.select_one('.table-line__rank')
+            if not rank_el: continue
+            rank = re.sub(r'\D', '', "".join(rank_el.stripped_strings))
             
-            if not raw_name: continue
-
-            # ランク
-            rank = ranks[i] if i < len(ranks) else str(i+1)
+            # チーム名とリンク
+            link = line.select_one('.table-line__cell-wrapper--club-name a')
+            if not link: continue
+            raw_name = "".join(link.stripped_strings)
+            team_slug = link['href'].split('/')[-1]
             
-            # 数値データの直接抽出 (正規表現で HTML 内のタグ周辺を狙う)
-            vals = row.select('.table-line__cell-wrapper--small')
-            stats = []
-            for val in vals:
-                txt = "".join(val.stripped_strings)
-                if not txt:
-                    # BeautifulSoup で見えない場合、生 HTML からこの div の中身を強引に抜く
-                    res = re.search(r'>\s*(-?\d+)\s*<', str(val))
-                    txt = res.group(1) if res else "0"
-                stats.append(txt)
-
-            if len(stats) < 9: continue
+            # 各種スタッツ (Played, Won, Drawn, Lost, Bonus, PtsM, PtsE, Diff, Pts)
+            # 統計セルを取得
+            stats_cells = line.select('.table-line__cell-wrapper--small')
+            if len(stats_cells) < 8: continue
             
-            # 公式順序: Pts, M, G, N, P, Bonus, PtsM, PtsE, Diff
-            points = stats[0]
-            played = stats[1]
-            won = stats[2]
-            drawn = stats[3]
-            lost = stats[4]
-            diff = stats[8]
+            # 構造: P, W, D, L, B, PM, PE, Diff, Pts (Ptsは別クラス)
+            played = "".join(stats_cells[0].stripped_strings)
+            won = "".join(stats_cells[1].stripped_strings)
+            drawn = "".join(stats_cells[2].stripped_strings)
+            lost = "".join(stats_cells[3].stripped_strings)
+            diff = "".join(stats_cells[7].stripped_strings)
+            
+            # Pts は専用のラッパーがある場合が多い
+            pts_el = line.select_one('.table-line__cell-wrapper--pts')
+            points = "".join(pts_el.stripped_strings) if pts_el else "0"
 
             jp_name, flag = get_team_info('top14', raw_name)
             
@@ -117,6 +104,7 @@ def scrape_top14_results():
 
 def scrape_urc_standings():
     url = "https://www.unitedrugby.com/graphql"
+    # seasonId 202501 (2025/26 season)
     params = { "operationName": "GetStandingData", "variables": json.dumps({"seasonId": 202501}), "extensions": json.dumps({ "persistedQuery": { "version": 1, "sha256Hash": "702a2903fbc5f7e05fb7004f6979f6c0e3a747ad1e62f8e0c0008beca15f34f3" } }) }
     headers = HEADERS.copy(); headers["Referer"] = "https://www.unitedrugby.com/"
     try:
@@ -133,7 +121,8 @@ def scrape_urc_standings():
 
 def scrape_super_rugby_standings():
     url = "https://omo.akamai.opta.net/auth/competition.php"
-    params = { "feed_type": "ru2", "competition": "205", "season_id": "2025", "user": "OW2017", "psw": "dXWg5gVZ", "jsoncallback": "callback" }
+    # season_id: 2026
+    params = { "feed_type": "ru2", "competition": "205", "season_id": "2026", "user": "OW2017", "psw": "dXWg5gVZ", "jsoncallback": "callback" }
     headers = HEADERS.copy(); headers.update({ "Referer": "https://super.rugby/", "Origin": "https://super.rugby/" })
     try:
         response = requests.get(url, params=params, headers=headers); text = response.text
@@ -164,13 +153,36 @@ def main():
     path = "data/standings.json"; cur = {}
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f: cur = json.load(f)
-    t14_s = scrape_top14_standings(); t14_r = scrape_top14_results(); lo_s = scrape_leagueone_standings(); urc_s = scrape_urc_standings(); sr_s = scrape_super_rugby_standings()
-    if len(lo_s) < 12: lo_s = cur.get("league-one", cur.get("leagueone", lo_s))
+    
+    lo_s = scrape_leagueone_standings()
+    t14_s = scrape_top14_standings(); t14_r = scrape_top14_results()
+    urc_s = scrape_urc_standings()
+    sr_s = scrape_super_rugby_standings()
+    
+    # 既存データのバックアップ (不完全な場合のフォールバック)
+    def get_old(league, key):
+        old = cur.get(league, {})
+        if isinstance(old, list): return old if key == "standings" else []
+        return old.get(key, [])
+
+    if len(lo_s) < 12: lo_s = get_old("league-one", "standings")
     if len(t14_s) < 14:
-        print(f"Warning: Top 14 incomplete ({len(t14_s)}). Keeping old."); old = cur.get("top14", {"standings": [], "results": []}); t14_s = old["standings"]; t14_r = old["results"]
-    if len(urc_s) < 16: urc_s = cur.get("urc", urc_s)
-    if len(sr_s) < 11: sr_s = cur.get("super-rugby", sr_s)
-    all_data = { "league-one": lo_s, "top14": { "standings": t14_s, "results": t14_r }, "urc": urc_s, "super-rugby": sr_s }
+        print(f"Warning: Top 14 incomplete ({len(t14_s)}). Keeping old.")
+        t14_s = get_old("top14", "standings")
+        t14_r = get_old("top14", "results")
+    if len(urc_s) < 16: urc_s = get_old("urc", "standings")
+    if len(sr_s) < 11: sr_s = get_old("super-rugby", "standings")
+    
+    # 全てのリーグの構造を統一 {"standings": [], "results": []}
+    # resultsData (results_2026.json) もあるが、StandingsTable の Props 互換性のためにこちらにも入れる
+    # URC / SR の最近の試合結果は results_2026.json から取得されるが、構造だけ定義しておく
+    all_data = {
+        "league-one": { "standings": lo_s, "results": get_old("league-one", "results") },
+        "top14": { "standings": t14_s, "results": t14_r },
+        "urc": { "standings": urc_s, "results": get_old("urc", "results") },
+        "super-rugby": { "standings": sr_s, "results": get_old("super-rugby", "results") }
+    }
+    
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f: json.dump(all_data, f, ensure_ascii=False, indent=2)
     print(f"Standings saved to {path}")

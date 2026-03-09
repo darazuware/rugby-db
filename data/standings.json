@@ -8,11 +8,12 @@
         "flag": "🇯🇵",
         "slug": "kubota-spears-funabashi-tokyo-bay",
         "played": "10",
-        "points": "44",
         "won": "9",
         "drawn": "0",
         "lost": "1",
-        "diff": "+200"
+        "diff": "+226",
+        "points": "44",
+        "division": "D1"
       },
       {
         "rank": "2",
@@ -21,50 +22,236 @@
         "flag": "🇯🇵",
         "slug": "kobelco-kobe-steelers",
         "played": "10",
-        "points": "42",
         "won": "9",
         "drawn": "0",
         "lost": "1",
-        "diff": "+180"
+        "diff": "+165",
+        "points": "42",
+        "division": "D1"
       },
       {
         "rank": "3",
-        "team_name": "埼玉パナソニックワイルドナイツ",
+        "team_name": "埼玉ワイルドナイツ",
         "display_name": "埼玉パナソニックワイルドナイツ",
         "flag": "🇯🇵",
         "slug": "saitama-panasonic-wild-knights",
         "played": "10",
-        "points": "41",
         "won": "9",
         "drawn": "0",
         "lost": "1",
-        "diff": "+210"
+        "diff": "+183",
+        "points": "41",
+        "division": "D1"
       },
       {
         "rank": "4",
-        "team_name": "東京サントリーサンゴリアス",
+        "team_name": "東京サンゴリアス",
         "display_name": "東京サントリーサンゴリアス",
         "flag": "🇯🇵",
         "slug": "tokyo-suntory-sungoliath",
         "played": "10",
-        "points": "31",
         "won": "6",
         "drawn": "0",
         "lost": "4",
-        "diff": "+20"
+        "diff": "+53",
+        "points": "31",
+        "division": "D1"
       },
       {
         "rank": "5",
-        "team_name": "リコーブラックラムズ東京",
+        "team_name": "ブラックラムズ東京",
         "display_name": "ブラックラムズ東京",
         "flag": "🇯🇵",
-        "slug": "ricoh-black-rams-tokyo",
+        "slug": "ブラックラムズ東京",
         "played": "10",
-        "points": "27",
         "won": "6",
         "drawn": "0",
         "lost": "4",
-        "diff": "-5"
+        "diff": "-5",
+        "points": "27",
+        "division": "D1"
+      },
+      {
+        "rank": "6",
+        "team_name": "東芝ブレイブルーパス東京",
+        "display_name": "東芝ブレイブルーパス東京",
+        "flag": "🇯🇵",
+        "slug": "toshiba-brave-lupus-tokyo",
+        "played": "10",
+        "won": "5",
+        "drawn": "0",
+        "lost": "5",
+        "diff": "-37",
+        "points": "25",
+        "division": "D1"
+      },
+      {
+        "rank": "7",
+        "team_name": "静岡ブルーレヴズ",
+        "display_name": "静岡ブルーレヴズ",
+        "flag": "🇯🇵",
+        "slug": "shizuoka-blue-revs",
+        "played": "10",
+        "won": "3",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-61",
+        "points": "16",
+        "division": "D1"
+      },
+      {
+        "rank": "8",
+        "team_name": "トヨタヴェルブリッツ",
+        "display_name": "トヨタヴェルブリッツ",
+        "flag": "🇯🇵",
+        "slug": "toyota-verblitz",
+        "played": "10",
+        "won": "3",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-67",
+        "points": "15",
+        "division": "D1"
+      },
+      {
+        "rank": "9",
+        "team_name": "三重ホンダヒート",
+        "display_name": "三重ホンダヒート",
+        "flag": "🇯🇵",
+        "slug": "mie-honda-heat",
+        "played": "10",
+        "won": "3",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-96",
+        "points": "15",
+        "division": "D1"
+      },
+      {
+        "rank": "10",
+        "team_name": "三菱重工相模原ダイナボアーズ",
+        "display_name": "三菱重工相模原ダイナボアーズ",
+        "flag": "🇯🇵",
+        "slug": "mitsubishi-sagamihara-dynaboars",
+        "played": "10",
+        "won": "3",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-60",
+        "points": "14",
+        "division": "D1"
+      },
+      {
+        "rank": "11",
+        "team_name": "浦安D-Rocks",
+        "display_name": "浦安D-Rocks",
+        "flag": "🇯🇵",
+        "slug": "urayasu-d-rocks",
+        "played": "10",
+        "won": "3",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-153",
+        "points": "12",
+        "division": "D1"
+      },
+      {
+        "rank": "12",
+        "team_name": "横浜キヤノンイーグルス",
+        "display_name": "横浜キヤノンイーグルス",
+        "flag": "🇯🇵",
+        "slug": "yokohama-canon-eagles",
+        "played": "10",
+        "won": "1",
+        "drawn": "0",
+        "lost": "9",
+        "diff": "-148",
+        "points": "7",
+        "division": "D1"
+      },
+      {
+        "rank": "1",
+        "team_name": "花園近鉄ライナーズ",
+        "display_name": "花園近鉄ライナーズ",
+        "flag": "🇯🇵",
+        "slug": "hanazono-kintetsu-liners",
+        "played": "7",
+        "won": "6",
+        "drawn": "0",
+        "lost": "1",
+        "diff": "+80",
+        "points": "26",
+        "division": "D2"
+      },
+      {
+        "rank": "2",
+        "team_name": "豊田自動織機シャトルズ愛知",
+        "display_name": "豊田自動織機シャトルズ愛知",
+        "flag": "🇯🇵",
+        "slug": "toyota-shuttles-aichi",
+        "played": "7",
+        "won": "5",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "+175",
+        "points": "25",
+        "division": "D2"
+      },
+      {
+        "rank": "3",
+        "team_name": "清水建設江東ブルーシャークス",
+        "display_name": "清水建設江東ブルーシャークス",
+        "flag": "🇯🇵",
+        "slug": "shimizu-koto-blue-sharks",
+        "played": "7",
+        "won": "5",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "-9",
+        "points": "22",
+        "division": "D2"
+      },
+      {
+        "rank": "4",
+        "team_name": "グリーンロケッツ東葛",
+        "display_name": "グリーンロケッツ東葛",
+        "flag": "🇯🇵",
+        "slug": "グリーンロケッツ東葛",
+        "played": "7",
+        "won": "4",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "+28",
+        "points": "19",
+        "division": "D2"
+      },
+      {
+        "rank": "1",
+        "team_name": "スカイアクティブズ広島",
+        "display_name": "スカイアクティブズ広島",
+        "flag": "🇯🇵",
+        "slug": "スカイアクティブズ広島",
+        "played": "9",
+        "won": "9",
+        "drawn": "0",
+        "lost": "0",
+        "diff": "+236",
+        "points": "42",
+        "division": "D3"
+      },
+      {
+        "rank": "2",
+        "team_name": "狭山セコムラガッツ",
+        "display_name": "狭山セコムラガッツ",
+        "flag": "🇯🇵",
+        "slug": "secom-rugguts",
+        "played": "9",
+        "won": "7",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "+246",
+        "points": "36",
+        "division": "D3"
       }
     ],
     "results": [
@@ -77,36 +264,20 @@
         "date": "2026-03-07"
       },
       {
-        "home": "リコーブラックラムズ東京",
-        "home_flag": "🇯🇵",
-        "away": "東芝ブレイブルーパス東京",
-        "away_flag": "🇯🇵",
-        "score": "33-14",
-        "date": "2025-03-01"
-      },
-      {
-        "home": "埼玉パナソニックワイルドナイツ",
-        "home_flag": "🇯🇵",
-        "away": "三重ホンダヒート",
-        "away_flag": "🇯🇵",
-        "score": "66-19",
-        "date": "2025-03-01"
-      },
-      {
-        "home": "浦安D-Rocks",
+        "home": "静岡ブルーレヴズ",
         "home_flag": "🇯🇵",
         "away": "コベルコ神戸スティーラーズ",
         "away_flag": "🇯🇵",
-        "score": "19-78",
-        "date": "2025-03-01"
+        "score": "45-60",
+        "date": "2026-03-07"
       },
       {
-        "home": "横浜キヤノンイーグルス",
+        "home": "スカイアクティブズ広島",
         "home_flag": "🇯🇵",
-        "away": "クボタスピアーズ",
+        "away": "中国電力レッドレグリオンズ",
         "away_flag": "🇯🇵",
-        "score": "10-28",
-        "date": "2025-03-01"
+        "score": "34-15",
+        "date": "2026-03-07"
       }
     ]
   },
@@ -122,7 +293,7 @@
         "won": "3",
         "drawn": "0",
         "lost": "1",
-        "diff": "+55",
+        "diff": "+58",
         "points": "15"
       },
       {
@@ -130,12 +301,12 @@
         "team_name": "Chiefs",
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
-        "slug": "chiefs",
+        "slug": "waikato-chiefs",
         "played": "4",
         "won": "3",
         "drawn": "0",
         "lost": "1",
-        "diff": "+40",
+        "diff": "+30",
         "points": "13"
       },
       {
@@ -143,7 +314,7 @@
         "team_name": "Hurricanes",
         "display_name": "ウェリントン・ハリケーンズ",
         "flag": "🇳🇿",
-        "slug": "hurricanes",
+        "slug": "wellington-hurricanes",
         "played": "3",
         "won": "2",
         "drawn": "0",
@@ -156,7 +327,7 @@
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
-        "slug": "blues",
+        "slug": "auckland-blues",
         "played": "4",
         "won": "2",
         "drawn": "0",
@@ -176,6 +347,45 @@
         "lost": "1",
         "diff": "+7",
         "points": "10"
+      },
+      {
+        "rank": "6",
+        "team_name": "Queensland Reds",
+        "display_name": "クイーンズランド・レッズ",
+        "flag": "🇦🇺",
+        "slug": "queensland-reds",
+        "played": "3",
+        "won": "2",
+        "drawn": "0",
+        "lost": "1",
+        "diff": "-4",
+        "points": "9"
+      },
+      {
+        "rank": "7",
+        "team_name": "Highlanders",
+        "display_name": "オタゴ・ハイランダーズ",
+        "flag": "🇳🇿",
+        "slug": "otago-highlanders",
+        "played": "4",
+        "won": "2",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "-10",
+        "points": "9"
+      },
+      {
+        "rank": "8",
+        "team_name": "Crusaders",
+        "display_name": "カンタベリー・クルセイダーズ",
+        "flag": "🇳🇿",
+        "slug": "canterbury-crusaders",
+        "played": "4",
+        "won": "1",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "-34",
+        "points": "5"
       }
     ],
     "results": [
@@ -204,7 +414,7 @@
         "date": "2026-03-07"
       },
       {
-        "home": "NSWワラタス",
+        "home": "NSWワラタス（ワラターズ）",
         "home_flag": "🇦🇺",
         "away": "ウェリントン・ハリケーンズ",
         "away_flag": "🇳🇿",
@@ -217,7 +427,7 @@
         "away": "モアナ・パシフィカ",
         "away_flag": "🏝️",
         "score": "57-24",
-        "date": "2026-03-05"
+        "date": "2026-03-06"
       }
     ]
   },
@@ -226,9 +436,9 @@
       {
         "rank": "1",
         "team_name": "Stade Toulousain",
-        "display_name": "スタッド・トゥールーザン",
+        "display_name": "トゥールーズ",
         "flag": "🇫🇷",
-        "slug": "toulouse",
+        "slug": "stade-toulousain",
         "played": "18",
         "won": "14",
         "drawn": "0",
@@ -239,9 +449,9 @@
       {
         "rank": "2",
         "team_name": "Section Paloise",
-        "display_name": "セクシオン・パロワーズ",
+        "display_name": "Section Paloise",
         "flag": "🇫🇷",
-        "slug": "pau",
+        "slug": "section-paloise",
         "played": "18",
         "won": "12",
         "drawn": "0",
@@ -254,28 +464,137 @@
         "team_name": "Montpellier Hérault Rugby",
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
-        "slug": "montpellier",
+        "slug": "montpellier-hérault-rugby",
         "played": "18",
         "won": "10",
         "drawn": "1",
         "lost": "7",
         "diff": "+171",
         "points": "53"
+      },
+      {
+        "rank": "4",
+        "team_name": "ASM Clermont Auvergne",
+        "display_name": "クレルモン",
+        "flag": "🇫🇷",
+        "slug": "asm-clermont-auvergne",
+        "played": "18",
+        "won": "11",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "+129",
+        "points": "51"
+      },
+      {
+        "rank": "5",
+        "team_name": "Union Bordeaux-Bègles",
+        "display_name": "ボルドー・ベグル",
+        "flag": "🇫🇷",
+        "slug": "union-bordeaux-bègles",
+        "played": "18",
+        "won": "10",
+        "drawn": "0",
+        "lost": "8",
+        "diff": "+108",
+        "points": "50"
+      },
+      {
+        "rank": "6",
+        "team_name": "Stade Français Paris",
+        "display_name": "スタッド・フランセ",
+        "flag": "🇫🇷",
+        "slug": "stade-français-paris",
+        "played": "18",
+        "won": "10",
+        "drawn": "0",
+        "lost": "8",
+        "diff": "+65",
+        "points": "49"
       }
     ],
     "results": [
       {
-        "home": "スタッド・トゥールーザン",
+        "home": "Section Paloise",
         "home_flag": "🇫🇷",
-        "away": "RCトゥーロン",
+        "away": "ボルドー・ベグル",
         "away_flag": "🇫🇷",
-        "score": "31-12",
-        "date": "2026-03-07"
+        "score": "39-17",
+        "date": "2026-03-01"
+      },
+      {
+        "home": "トゥールーズ",
+        "home_flag": "🇫🇷",
+        "away": "モントーバン",
+        "away_flag": "🇫🇷",
+        "score": "68-13",
+        "date": "2026-02-28"
       }
     ]
   },
   "urc": {
-    "standings": [],
-    "results": []
+    "standings": [
+      {
+        "rank": "1",
+        "team_name": "Glasgow Warriors",
+        "display_name": "グラスゴー・ウォリアーズ",
+        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "slug": "glasgow-warriors",
+        "played": "12",
+        "won": "9",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "+150",
+        "points": "45"
+      },
+      {
+        "rank": "2",
+        "team_name": "Leinster Rugby",
+        "display_name": "レンスター・ラグビー",
+        "flag": "🇮🇪",
+        "slug": "leinster-rugby",
+        "played": "12",
+        "won": "8",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "+66",
+        "points": "41"
+      },
+      {
+        "rank": "3",
+        "team_name": "Cardiff Rugby",
+        "display_name": "カーディフ・ラグビー",
+        "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "slug": "cardiff-rugby",
+        "played": "12",
+        "won": "8",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "+30",
+        "points": "40"
+      },
+      {
+        "rank": "4",
+        "team_name": "Munster Rugby",
+        "display_name": "マンスター・ラグビー",
+        "flag": "🇮🇪",
+        "slug": "munster-rugby",
+        "played": "12",
+        "won": "8",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "+23",
+        "points": "39"
+      }
+    ],
+    "results": [
+      {
+        "home": "ヴォーダコム・ブルズ",
+        "home_flag": "🇿🇦",
+        "away": "ハリウッドベッツ・シャークス",
+        "away_flag": "🇿🇦",
+        "score": "41-12",
+        "date": "2026-03-01"
+      }
+    ]
   }
 }
