@@ -2,15 +2,25 @@
 import Layout from "../../layouts/Layout.astro";
 import resultsData from "../../../data/results_2026.json";
 import teamNamesJp from "../../../data/team_names_jp.json";
+import teamsData from "../../../data/teams.json";
 
 const leagues = [
     { id: "league-one-d1", name: "League One D1", label: "リーグワン D1", parentId: "league-one", division: "D1" },
-    { id: "league-one-d2", name: "League One D2", label: "リーグワン D2", parentId: "league-one", division: "D2" },
+    { id: "league-one-d2", name: "League One D2", label: "リーグワン D2", parent_id: "league-one", division: "D2" },
     { id: "league-one-d3", name: "League One D3", label: "リーグワン D3", parentId: "league-one", division: "D3" },
     { id: "super-rugby", name: "Super Rugby", label: "スーパーラグビー" },
     { id: "top14", name: "Top 14", label: "TOP 14" },
     { id: "urc", name: "URC", label: "URC" },
 ];
+
+// チームのスラッグを取得するヘルパー
+const getTeamSlug = (leagueId: string, teamName: string) => {
+    const leagueKey = leagueId.startsWith('league-one') ? 'league-one' : leagueId;
+    const team = (teamsData as any).find((t: any) => 
+        t.league === leagueKey && t.team_name === teamName
+    );
+    return team ? `/teams/${leagueKey}/${team.slug}` : null;
+};
 
 // チーム名正規化関数 - より柔軟に
 const normalizeTeam = (leagueId: string, name: string) => {
@@ -27,19 +37,18 @@ const normalizeTeam = (leagueId: string, name: string) => {
     // 2. エイリアス検索（部分一致含む）
     for (const [fullName, data] of Object.entries(leagueData)) {
         const d = data as any;
-        if (d.aliases?.some((a: string) => a.toLowerCase() === name.toLowerCase()) || 
-            fullName.toLowerCase().includes(name.toLowerCase()) ||
-            name.toLowerCase().includes(fullName.toLowerCase())) {
+        if (d.aliases?.some((a: string) => a.toLowerCase().trim() === name.toLowerCase().trim()) || 
+            fullName.toLowerCase().trim().includes(name.toLowerCase().trim()) ||
+            name.toLowerCase().trim().includes(fullName.toLowerCase().trim())) {
             return { name: d.jp, flag: d.flag };
         }
     }
     
-    return { name, flag: null };
+    return { name: name.trim(), flag: null };
 };
 
 // Round ごとにグルーピングし、重複排除する関数
 const groupByRound = (leagueId: string, results: any[]) => {
-    const allMatches: any[] = [];
     const seenMatches = new Map(); // Key: date-team1-team2
 
     results.forEach(r => {
@@ -47,27 +56,30 @@ const groupByRound = (leagueId: string, results: any[]) => {
         const normAway = normalizeTeam(leagueId, r.away);
         
         // チーム名の順序を固定してキーを作成 (A vs B も B vs A も同一視)
-        const teams = [normHome.name, normAway.name].sort();
-        const matchKey = `${r.date}-${teams[0]}-${teams[1]}`;
+        const sortedTeams = [normHome.name, normAway.name].sort();
+        const matchKey = `${r.date.trim()}-${sortedTeams[0]}-${sortedTeams[1]}`;
         
         const enhancedResult = {
             ...r,
             home: normHome.name,
             home_flag: normHome.flag || r.home_flag,
+            home_link: getTeamSlug(leagueId, normHome.name),
             away: normAway.name,
             away_flag: normAway.flag || r.away_flag,
+            away_link: getTeamSlug(leagueId, normAway.name),
             round: r.round || 0
         };
 
         if (seenMatches.has(matchKey)) {
             const existing = seenMatches.get(matchKey);
-            // round 情報がある方を優先、スコアが VS でない方を優先
+            // round 情報があるレコードを優先して保持する
             const existingHasRound = existing.round > 0;
-            const currentHasRound = r.round > 0;
+            const currentHasRound = enhancedResult.round > 0;
             
             if (!existingHasRound && currentHasRound) {
                 seenMatches.set(matchKey, enhancedResult);
-            } else if (existing.score === "VS" && r.score !== "VS") {
+            } else if (existing.score === "VS" && enhancedResult.score !== "VS") {
+                // スコアが確定している方を優先
                 seenMatches.set(matchKey, enhancedResult);
             }
         } else {
@@ -178,9 +190,15 @@ const getLeagueResults = (league: any) => {
                                                                 </div>
                                                             </div>
                                                             <div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row min-w-0 w-full justify-end md:justify-start">
-                                                                <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0">
-                                                                    {result.home}
-                                                                </span>
+                                                                {result.home_link ? (
+                                                                    <a href={result.home_link} class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 hover:text-yellow-400 transition-colors">
+                                                                        {result.home}
+                                                                    </a>
+                                                                ) : (
+                                                                    <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0">
+                                                                        {result.home}
+                                                                    </span>
+                                                                )}
                                                                 <span class="text-lg md:text-2xl shrink-0">
                                                                     {result.home_flag}
                                                                 </span>
@@ -210,9 +228,15 @@ const getLeagueResults = (league: any) => {
                                                                 <span class="text-lg md:text-2xl shrink-0">
                                                                     {result.away_flag}
                                                                 </span>
-                                                                <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left">
-                                                                    {result.away}
-                                                                </span>
+                                                                {result.away_link ? (
+                                                                    <a href={result.away_link} class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left hover:text-yellow-400 transition-colors">
+                                                                        {result.away}
+                                                                    </a>
+                                                                ) : (
+                                                                    <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left">
+                                                                        {result.away}
+                                                                    </span>
+                                                                )}
                                                             </div>
                                                         </div>
                                                     </div>
