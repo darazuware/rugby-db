@@ -11,7 +11,23 @@ const leagues = [
     { id: "urc", name: "URC", label: "URC" },
 ];
 
-// データを整形して最新順にする（JSON 側でも最新順だが、念のためここでもソート）
+// Round ごとにグルーピングする関数
+const groupByRound = (results: any[]) => {
+    const groups: { [key: number]: any[] } = {};
+    results.forEach(r => {
+        const round = r.round || 0;
+        if (!groups[round]) groups[round] = [];
+        groups[round].push(r);
+    });
+    return Object.keys(groups)
+        .map(Number)
+        .sort((a, b) => b - a) // 降順（最新の節を上に）
+        .map(round => ({
+            round,
+            matches: groups[round].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+        }));
+};
+
 const getLeagueResults = (league: any) => {
     let results = [];
     if (league.parentId === "league-one") {
@@ -19,7 +35,7 @@ const getLeagueResults = (league: any) => {
     } else {
         results = (resultsData as any)[league.id] || [];
     }
-    return results.sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    return groupByRound(results);
 };
 ---
 
@@ -64,7 +80,7 @@ const getLeagueResults = (league: any) => {
 					if (leagueResults.length === 0) return null;
 
 					return (
-						<section data-league={league.id} class="league-section">
+						<section data-league={league.id} class="league-section mb-20 scroll-mt-24">
 							<div class="flex items-center gap-4 mb-8">
 								<h2 class={`text-xl md:text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
 									league.id.startsWith('league-one') ? 'bg-red-600 text-white' :
@@ -76,57 +92,69 @@ const getLeagueResults = (league: any) => {
 								<div class="h-[2px] flex-1 bg-gradient-to-r from-gray-800 to-transparent"></div>
 							</div>
 
-							<div class="space-y-4">
-								{leagueResults.map((result: any) => (
-									<div class="bg-gray-900/50 backdrop-blur-md border border-gray-800/50 rounded-2xl p-4 md:p-6 hover:border-yellow-400/30 transition-all group relative overflow-hidden">
-										<div class="grid grid-cols-[1fr_auto_1fr] items-center gap-2 md:gap-6">
-											<!-- Home Team -->
-											<div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left overflow-hidden">
-												<div class="md:block hidden shrink-0">
-													<div class="text-[10px] text-gray-500 font-bold mb-1 uppercase tracking-wider">
-														{result.date.replace(/-/g, '/')} {result.round ? `• RD ${result.round}` : ''}
-													</div>
-												</div>
-												<div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row min-w-0 w-full justify-end md:justify-start">
-													<span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0">
-														{result.home}
-													</span>
-													<span class="text-lg md:text-2xl shrink-0">
-														{result.home_flag}
-													</span>
-												</div>
-											</div>
+							<div class="space-y-12">
+								{leagueResults.map((group: any) => (
+                                    <div class="round-group">
+                                        <div class="flex items-center gap-3 mb-4">
+                                            <span class="text-yellow-400 font-black italic text-lg whitespace-nowrap">
+                                                {group.round > 0 ? `ROUND ${group.round}` : 'OTHER MATCHES'}
+                                            </span>
+                                            <div class="h-px flex-1 bg-gray-800/50"></div>
+                                        </div>
+                                        <div class="grid gap-4">
+                                            {group.matches.map((result: any) => (
+                                                <div class="bg-gray-900/50 backdrop-blur-md border border-gray-800/50 rounded-2xl p-4 md:p-6 hover:border-yellow-400/30 transition-all group relative overflow-hidden">
+                                                    <div class="grid grid-cols-[1fr_auto_1fr] items-center gap-2 md:gap-6">
+                                                        <!-- Home Team -->
+                                                        <div class="flex flex-col md:flex-row items-center md:justify-start justify-end gap-2 md:gap-3 text-right md:text-left overflow-hidden">
+                                                            <div class="md:block hidden shrink-0">
+                                                                <div class="text-[10px] text-gray-500 font-bold mb-1 uppercase tracking-wider">
+                                                                    {result.date.replace(/-/g, '/')}
+                                                                </div>
+                                                            </div>
+                                                            <div class="flex items-center gap-2 md:gap-3 flex-row-reverse md:flex-row min-w-0 w-full justify-end md:justify-start">
+                                                                <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0">
+                                                                    {result.home}
+                                                                </span>
+                                                                <span class="text-lg md:text-2xl shrink-0">
+                                                                    {result.home_flag}
+                                                                </span>
+                                                            </div>
+                                                        </div>
 
-											<!-- Score -->
-											<div class="flex flex-col items-center px-1 md:px-4 shrink-0">
-												<div class="text-xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-2 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums min-w-[70px] md:min-w-none text-center shadow-lg">
-													{result.score}
-												</div>
-												{(result as any).note && (
-													<span class="text-[8px] md:text-[10px] text-yellow-400/70 font-bold mt-1 md:mt-2 uppercase tracking-tighter text-center">
-														{(result as any).note}
-													</span>
-												)}
-												<div class="md:hidden mt-1">
-													<div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center uppercase tracking-tighter">
-														{result.date.replace(/-/g, '/')} {result.round ? `• RD ${result.round}` : ''}
-													</div>
-												</div>
-											</div>
+                                                        <!-- Score -->
+                                                        <div class="flex flex-col items-center px-1 md:px-4 shrink-0">
+                                                            <div class="text-xl md:text-4xl font-black text-yellow-400 italic tracking-widest bg-black px-2 py-1 md:px-6 md:py-2 rounded-lg md:rounded-xl border border-gray-800 group-hover:border-yellow-400/50 transition-colors tabular-nums min-w-[70px] md:min-w-none text-center shadow-lg">
+                                                                {result.score}
+                                                            </div>
+                                                            {(result as any).note && (
+                                                                <span class="text-[8px] md:text-[10px] text-yellow-400/70 font-bold mt-1 md:mt-2 uppercase tracking-tighter text-center">
+                                                                    {(result as any).note}
+                                                                </span>
+                                                            )}
+                                                            <div class="md:hidden mt-1">
+                                                                <div class="text-[8px] text-gray-500 font-black whitespace-nowrap text-center uppercase tracking-tighter">
+                                                                    {result.date.replace(/-/g, '/')}
+                                                                </div>
+                                                            </div>
+                                                        </div>
 
-											<!-- Away Team -->
-											<div class="flex flex-col md:flex-row items-center md:justify-end justify-start gap-2 md:gap-3 text-left md:text-right overflow-hidden">
-												<div class="flex items-center gap-2 md:gap-3 min-w-0 w-full">
-													<span class="text-lg md:text-2xl shrink-0">
-														{result.away_flag}
-													</span>
-													<span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left">
-														{result.away}
-													</span>
-												</div>
-											</div>
-										</div>
-									</div>
+                                                        <!-- Away Team -->
+                                                        <div class="flex flex-col md:flex-row items-center md:justify-end justify-start gap-2 md:gap-3 text-left md:text-right overflow-hidden">
+                                                            <div class="flex items-center gap-2 md:gap-3 min-w-0 w-full">
+                                                                <span class="text-lg md:text-2xl shrink-0">
+                                                                    {result.away_flag}
+                                                                </span>
+                                                                <span class="text-[10px] md:text-xl font-black text-white leading-tight truncate md:whitespace-nowrap flex-1 min-w-0 text-left">
+                                                                    {result.away}
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
 								))}
 							</div>
 						</section>
@@ -151,35 +179,60 @@ const getLeagueResults = (league: any) => {
     buttons.forEach(button => {
         button.addEventListener('click', () => {
             const league = button.getAttribute('data-league');
-            
-            // トグル処理: クリックされたのが現在のアクティブなリーグなら解除（ALLに戻す）
-            if (activeLeague === league && league !== 'all') {
-                activeLeague = 'all';
-            } else {
-                activeLeague = league || 'all';
-            }
-
-            // UIの更新
-            buttons.forEach(btn => {
-                if (btn.getAttribute('data-league') === activeLeague) {
-                    btn.classList.add('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
-                    btn.classList.remove('bg-gray-900', 'text-white', 'border-gray-800');
-                } else {
-                    btn.classList.remove('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
-                    btn.classList.add('bg-gray-900', 'text-white', 'border-gray-800');
-                }
-            });
-
-            // コンテンツの表示制御
-            sections.forEach(section => {
-                const sectLeague = section.getAttribute('data-league');
-                if (activeLeague === 'all' || sectLeague === activeLeague) {
-                    (section as HTMLElement).style.display = 'block';
-                } else {
-                    (section as HTMLElement).style.display = 'none';
-                }
-            });
+            updateFilter(league || 'all');
         });
+    });
+
+    function updateFilter(league: string) {
+        // トグル処理: クリックされたのが現在のアクティブなリーグなら解除（ALLに戻す）
+        if (activeLeague === league && league !== 'all') {
+            activeLeague = 'all';
+        } else {
+            activeLeague = league || 'all';
+        }
+
+        // UIの更新
+        buttons.forEach(btn => {
+            if (btn.getAttribute('data-league') === activeLeague) {
+                btn.classList.add('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
+                btn.classList.remove('bg-gray-900', 'text-white', 'border-gray-800');
+            } else {
+                btn.classList.remove('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
+                btn.classList.add('bg-gray-900', 'text-white', 'border-gray-800');
+            }
+        });
+
+        // コンテンツの表示制御
+        sections.forEach(section => {
+            const sectLeague = section.getAttribute('data-league');
+            if (activeLeague === 'all' || sectLeague === activeLeague || (activeLeague.startsWith('league-one') && sectLeague?.startsWith('league-one'))) {
+                (section as HTMLElement).style.display = 'block';
+            } else {
+                (section as HTMLElement).style.display = 'none';
+            }
+        });
+    }
+
+    // クエリパラメータによる初期フィルタ設定とスクロール
+    window.addEventListener('DOMContentLoaded', () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const leagueParam = urlParams.get('league');
+        
+        if (leagueParam) {
+            // league-one の場合は D1 をデフォルトにするなどの配慮
+            let targetLeague = leagueParam;
+            if (leagueParam === 'league-one') targetLeague = 'league-one-d1';
+
+            updateFilter(targetLeague);
+
+            // スクロール
+            const targetSection = document.querySelector(`section[data-league="${targetLeague}"]`);
+            if (targetSection) {
+                setTimeout(() => {
+                    targetSection.scrollIntoView({ behavior: 'smooth' });
+                }, 100);
+            }
+        }
     });
 </script>
 
