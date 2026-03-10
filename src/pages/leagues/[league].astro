@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import PlayerList from "../../components/PlayerList";
+import teamsData from "../../../data/teams.json";
 
 export async function getStaticPaths() {
     return [
@@ -24,14 +25,31 @@ if (!league) {
     return Astro.redirect("/404");
 }
 
-const leagueMap: Record<string, string> = {
-    "league-one": "league-one",
-    "super-rugby": "super-rugby",
-    top14: "top14",
-};
+const targetLeague = (league || "").toLowerCase().trim();
 
-const targetLeague = (leagueMap[league] || league).toLowerCase().trim();
-const allPlayers = await getCollection("players");
+// 全選手データの取得とディビジョン情報の補完
+const allPlayersRaw = await getCollection("players");
+const teamToDivision: Record<string, string> = {};
+(teamsData as any[]).forEach((t: any) => {
+    if (t.team_name && t.division) {
+        teamToDivision[t.team_name] = t.division;
+    }
+});
+
+// Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
+const initialPlayers = allPlayersRaw.map((p) => {
+    const division =
+        (p.data.team ? teamToDivision[p.data.team] : "") ||
+        p.data.division ||
+        "";
+    return {
+        slug: p.slug,
+        data: {
+            ...p.data,
+            division: division,
+        },
+    };
+});
 ---
 
 <Layout
@@ -40,6 +58,7 @@ const allPlayers = await getCollection("players");
         ?.replace("-", " ")
         .toUpperCase()} に登録されている全選手の身長、体重、年齢、ポジション別の検索・ソートが可能です。`}
 >
+    <!-- DEBUG: LEAGUES-PAGE-SYNCED-20260310-2345 -->
     <main class="bg-gray-50 min-h-screen pt-12">
         <div class="container mx-auto px-4 mb-8">
             <div
@@ -58,10 +77,12 @@ const allPlayers = await getCollection("players");
             </div>
         </div>
 
-        <PlayerList
-            client:load
-            initialPlayers={allPlayers as any}
-            leagueContext={targetLeague}
-        />
+        <div class="max-w-7xl mx-auto px-4">
+            <PlayerList
+                client:load
+                initialPlayers={initialPlayers as any}
+                leagueContext={targetLeague}
+            />
+        </div>
     </main>
 </Layout>

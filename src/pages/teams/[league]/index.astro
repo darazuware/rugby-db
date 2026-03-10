@@ -135,6 +135,7 @@ const leagueTitle = leagueName.toUpperCase();
                 <h1
                     class="text-4xl font-black text-gray-900 tracking-tighter italic mb-4 uppercase"
                 >
+                    <!-- {DEBUG_TAG} -->
                     {leagueTitle}<span class="text-yellow-400"> TEAMS</span>
                     <span class="not-italic ml-4 text-2xl"
                         >{leagueName} チーム一覧</span
@@ -148,27 +149,27 @@ const leagueTitle = leagueName.toUpperCase();
                     }
                 </p>
 
-                {/* モバイル用ジャンプボタン */}
+                {/* モバイル用ジャンプボタン - スクロール追従 */}
                 {
                     !isURC && (
-                        <div class="flex flex-wrap gap-2 mt-8 xl:hidden">
+                        <div class="sticky top-0 z-40 bg-gray-50/90 backdrop-blur-sm -mx-4 px-4 py-4 mb-0 border-b border-gray-100 flex flex-wrap gap-2 xl:hidden overflow-x-auto no-scrollbar">
                             <a
                                 href="#players"
-                                class="px-4 py-2 bg-yellow-400 text-black text-xs font-black rounded-full uppercase tracking-widest shadow-lg shadow-yellow-400/20 active:scale-95 transition-all"
+                                class="px-4 py-2 bg-yellow-400 text-black text-[10px] font-black rounded-full uppercase tracking-widest shadow-lg shadow-yellow-400/20 active:scale-95 transition-all whitespace-nowrap"
                             >
                                 選手検索
                             </a>
                             <a
                                 href="#standings"
-                                class="px-4 py-2 bg-gray-800 text-white text-xs font-black rounded-full uppercase tracking-widest active:scale-95 transition-all"
+                                class="px-4 py-2 bg-gray-800 text-white text-[10px] font-black rounded-full uppercase tracking-widest active:scale-95 transition-all whitespace-nowrap"
                             >
-                                順位表・試合結果
+                                順位表・結果
                             </a>
                             <a
                                 href="#teams"
-                                class="px-4 py-2 bg-gray-800 text-white text-xs font-black rounded-full uppercase tracking-widest active:scale-95 transition-all"
+                                class="px-4 py-2 bg-gray-800 text-white text-[10px] font-black rounded-full uppercase tracking-widest active:scale-95 transition-all whitespace-nowrap"
                             >
-                                チーム一覧
+                                クラブ一覧
                             </a>
                         </div>
                     )
