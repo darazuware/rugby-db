@@ -77,7 +77,7 @@ const initialPlayers = allPlayersRaw.map((p) => {
             </div>
         </div>
 
-        <div class="max-w-7xl mx-auto px-4">
+        <div id="players" class="max-w-7xl mx-auto px-4">
             <PlayerList
                 client:load
                 initialPlayers={initialPlayers as any}
@@ -85,4 +85,56 @@ const initialPlayers = allPlayersRaw.map((p) => {
             />
         </div>
     </main>
+
+    {/* 固定クイックナビゲーション (PC & スマホ) */}
+    <nav
+        class="fixed right-4 bottom-8 xl:right-8 xl:top-1/2 xl:-translate-y-1/2 z-50 flex flex-col gap-3 animate-in fade-in slide-in-from-right-4 duration-500"
+    >
+        {/* トップへ戻る */}
+        <a
+            href="#top"
+            class="w-12 h-12 md:w-14 md:h-14 bg-white/90 backdrop-blur-md border border-gray-200 rounded-2xl shadow-xl flex items-center justify-center text-gray-400 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
+            title="トップへ戻る"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-6 h-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="3"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                ><path d="m18 15-6-6-6 6"></path>
+            </svg>
+            <span
+                class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
+                >TOPへ戻る</span
+            >
+        </a>
+
+        {/* 選手検索へ */}
+        <a
+            href="#players"
+            class="w-12 h-12 md:w-14 md:h-14 bg-yellow-400 border border-yellow-500 rounded-2xl shadow-xl shadow-yellow-400/20 flex items-center justify-center text-black hover:scale-110 transition-all group"
+            title="選手検索"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-6 h-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="3"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                ><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"
+                ></path>
+            </svg>
+            <span
+                class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
+                >選手検索</span
+            >
+        </a>
+    </nav>
 </Layout>

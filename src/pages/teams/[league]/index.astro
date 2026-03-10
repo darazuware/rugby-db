@@ -266,4 +266,112 @@ const leagueTitle = leagueName.toUpperCase();
             </div>
         </div>
     </main>
+
+    {/* 固定クイックナビゲーション (PC & スマホ) */}
+    <nav
+        class="fixed right-4 bottom-8 xl:right-8 xl:top-1/2 xl:-translate-y-1/2 z-50 flex flex-col gap-3 animate-in fade-in slide-in-from-right-4 duration-500"
+    >
+        {/* トップへ戻る */}
+        <a
+            href="#top"
+            class="w-12 h-12 md:w-14 md:h-14 bg-white/90 backdrop-blur-md border border-gray-200 rounded-2xl shadow-xl flex items-center justify-center text-gray-400 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
+            title="トップへ戻る"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-6 h-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="3"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                ><path d="m18 15-6-6-6 6"></path>
+            </svg>
+            <span
+                class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
+                >TOPへ戻る</span
+            >
+        </a>
+
+        {
+            !isURC && (
+                <>
+                    {/* 選手検索へ */}
+                    <a
+                        href="#players"
+                        class="w-12 h-12 md:w-14 md:h-14 bg-yellow-400 border border-yellow-500 rounded-2xl shadow-xl shadow-yellow-400/20 flex items-center justify-center text-black hover:scale-110 transition-all group"
+                        title="選手検索"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            class="w-6 h-6"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="3"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                        >
+                            <circle cx="11" cy="11" r="8" />
+                            <path d="m21 21-4.3-4.3" />
+                        </svg>
+                        <span class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block">
+                            選手検索
+                        </span>
+                    </a>
+
+                    {/* 順位表へ */}
+                    <a
+                        href="#standings"
+                        class="w-12 h-12 md:w-14 md:h-14 bg-gray-900 border border-gray-800 rounded-2xl shadow-xl flex items-center justify-center text-white hover:border-yellow-400 transition-all group"
+                        title="順位表"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            class="w-6 h-6"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="3"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                        >
+                            <path d="M3 3v18h18" />
+                            <path d="M7 16l4-4 4 4 5-8" />
+                        </svg>
+                        <span class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block">
+                            順位・戦績
+                        </span>
+                    </a>
+
+                    {/* クラブ一覧へ */}
+                    <a
+                        href="#teams"
+                        class="w-12 h-12 md:w-14 md:h-14 bg-gray-900 border border-gray-800 rounded-2xl shadow-xl flex items-center justify-center text-white hover:border-yellow-400 transition-all group"
+                        title="クラブ一覧"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            class="w-6 h-6"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                        >
+                            <rect width="7" height="7" x="3" y="3" rx="1" />
+                            <rect width="7" height="7" x="14" y="3" rx="1" />
+                            <rect width="7" height="7" x="14" y="14" rx="1" />
+                            <rect width="7" height="7" x="3" y="14" rx="1" />
+                        </svg>
+                        <span class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block">
+                            クラブ一覧
+                        </span>
+                    </a>
+                </>
+            )
+        }
+    </nav>
 </Layout>
