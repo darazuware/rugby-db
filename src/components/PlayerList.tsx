@@ -257,13 +257,21 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         const d = params.get('division');
         const c = params.get('category');
         const t = params.get('team');
+        const l = params.get('league');
 
         if (p) setSelectedPositions(p.split(','));
         if (s) setSearch(decodeURIComponent(s));
         if (d) setSelectedDivisions(d.split(','));
         if (c) setSelectedCategories(c.split(','));
         if (t) setSelectedTeams(t.split(','));
-    }, []);
+
+        // leagueContext があればそれを優先、なければ URL パラメータ
+        if (leagueContext) {
+            setSelectedLeagues([leagueContext]);
+        } else if (l) {
+            setSelectedLeagues(l.split(','));
+        }
+    }, [leagueContext]);
 
     const filteredPlayers = useMemo(() => {
         let result = initialPlayers.filter((p) => {

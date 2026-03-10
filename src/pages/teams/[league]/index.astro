@@ -85,7 +85,27 @@ const standings = rawStandings.map((s: any) => {
     };
 });
 
-const allPlayers = await getCollection("players");
+// 全選手データの取得と補完
+const allPlayersRaw = await getCollection("players");
+const teamToDivision: Record<string, string> = {};
+(teamsData as any[]).forEach((t: any) => {
+    if (t.team_name && t.division) {
+        teamToDivision[t.team_name] = t.division;
+    }
+});
+
+const allPlayers = allPlayersRaw.map((p) => {
+    if (p.data.division) return p;
+    // 選手データにDivisionがない場合、チーム名から補完を試みる
+    const division = p.data.team ? teamToDivision[p.data.team] : "";
+    return {
+        ...p,
+        data: {
+            ...p.data,
+            division: division || p.data.division,
+        },
+    };
+});
 
 // ページタイトル用の装飾文字
 const leagueTitle = leagueName.toUpperCase();
@@ -227,7 +247,7 @@ const leagueTitle = leagueName.toUpperCase();
                                 <PlayerList
                                     client:load
                                     initialPlayers={allPlayers as any}
-                                    leagueContext={targetLeague}
+                                    leagueContext={league}
                                 />
                             </div>
                         </div>
