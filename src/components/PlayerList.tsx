@@ -602,9 +602,17 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <div className="flex flex-wrap gap-2">
                                 {(['age', 'height', 'weight', 'tries', 'matches', 'starts', 'minutes'] as const).map(key => {
                                     const isScoreSort = ['tries', 'matches', 'starts', 'minutes'].includes(key);
-                                    // Top 14 が選択されている、または Top 14 コンテキストの場合はスコア系ソートを隠す
-                                    const isTop14 = isTop14Selected || (leagueContext === 'top14') || selectedLeagues.includes('top14');
-                                    const showSort = (!isScoreSort || filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true")) && !(isScoreSort && isTop14);
+                                    // Top 14 が含まれているか、Top 14 のコンテキストであればスコア系ソートを隠す
+                                    const includesTop14 = selectedLeagues.includes('top14') || leagueContext === 'top14';
+                                    
+                                    let showSort = false;
+                                    if (isScoreSort) {
+                                        // スコア系項目の場合：Top 14 が含まれておらず、かつスコアデータを持つ選手が一人でもいる場合のみ表示
+                                        showSort = !includesTop14 && filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true");
+                                    } else {
+                                        // それ以外（年齢・身長・体重）は常に表示
+                                        showSort = true;
+                                    }
 
                                     if (!showSort) return null;
 
