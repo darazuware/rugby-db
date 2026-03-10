@@ -30,4 +30,4 @@ facebook: ""
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2023)
 - Manawatu Turbos (2021 - 2021)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - )

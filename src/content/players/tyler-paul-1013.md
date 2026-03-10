@@ -27,4 +27,4 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2017 - 2020)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2022)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - 2026)
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - )

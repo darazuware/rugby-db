@@ -28,4 +28,4 @@ facebook: ""
 - ヴォーダコム・ブルズ (2024 - 2024)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - 2025)
 - ヴォーダコム・ブルズ (2025 - 2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

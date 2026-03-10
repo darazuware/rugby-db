@@ -26,4 +26,4 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2022)
 - Northampton Saints (2022 - 2023)
 - メルボルン・レベルズ (2023 - 2024)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

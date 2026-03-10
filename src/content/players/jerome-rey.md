@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - CS Bourgoin Jallieu Rugby (2015 - 2017)
 - Stade Olympique Chambéry (2017 - 2019)
 - FC Grenoble Rugby (2019 - 2021)
-- [リヨン](/teams/top14/lyon) (2021 - 2026)
+- [リヨン](/teams/top14/lyon) (2021 - )

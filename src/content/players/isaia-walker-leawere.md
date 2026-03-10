@@ -39,4 +39,4 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2025)
 - Hawke's Bay Magpies (2025 - 2025)
 - North Harbour (2025 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

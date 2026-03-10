@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - Saint-Denis Union Sports Rugby (2012 - 2014)
 - CA Brive Corrèze Limousin (2014 - 2019)
 - [リヨン](/teams/top14/lyon) (2019 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2024 - )

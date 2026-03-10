@@ -25,4 +25,4 @@ facebook: ""
 
 - Maison-Laffitte Saint-Germain Poissy Rugby (2008 - 2010)
 - [ラシン92](/teams/top14/racing-92) (2010 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

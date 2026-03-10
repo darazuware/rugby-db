@@ -33,4 +33,4 @@ facebook: ""
 - Provence Rugby (2023 - 2023)
 - Club Atlético Peñarol (2023 - 2024)
 - Dogos XV (2024 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

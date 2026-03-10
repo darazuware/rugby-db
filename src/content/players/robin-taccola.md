@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Rueil Athlétic Club Rugby (2011 - 2014)
 - RC Suresnes (2014 - 2016)
-- [ヴァンヌ](/teams/top14/vannes) (2016 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2016 - )

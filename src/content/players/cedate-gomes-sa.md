@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Saint-Nazaire Rugby (2007 - 2011)
 - [ラシン92](/teams/top14/racing-92) (2011 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - )

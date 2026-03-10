@@ -36,4 +36,4 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
 - North Harbour (2024 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )

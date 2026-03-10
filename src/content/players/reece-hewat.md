@@ -25,4 +25,4 @@ facebook: ""
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2021)
-- Section Paloise Béarn Pyrénées (2021 - 2026)
+- [ポー](/teams/top14/pau) (2021 - )

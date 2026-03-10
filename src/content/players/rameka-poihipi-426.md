@@ -35,4 +35,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- BlackRams Tokyo (2025 - 2026)
+- BlackRams Tokyo (2025 - )

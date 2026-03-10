@@ -28,4 +28,4 @@ facebook: ""
 - Hunter Wildfires (2024 - 2025)
 - Southland Stags (2024 - 2024)
 - メルボルン・レベルズ (2024 - 2024)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )

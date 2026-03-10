@@ -30,4 +30,4 @@ facebook: ""
 - RC Haute Bresse (2014 - 2014)
 - Oyonnax Rugby (2014 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2025)
-- Section Paloise Béarn Pyrénées (2025 - 2026)
+- [ポー](/teams/top14/pau) (2025 - )

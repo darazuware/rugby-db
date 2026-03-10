@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2025 - 2026)
+- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2025 - )

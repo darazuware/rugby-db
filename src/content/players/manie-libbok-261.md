@@ -28,4 +28,4 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2020 - 2021)
 - ヴォーダコム・ブルズ (2020 - 2020)
 - DHLストーマーズ (2021 - 2025)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

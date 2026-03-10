@@ -26,5 +26,5 @@ facebook: ""
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2017)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2018)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2019 - 2019)
-- Castres Olympique (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [カストル](/teams/top14/castres) (2021 - 2024)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

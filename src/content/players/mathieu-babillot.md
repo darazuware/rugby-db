@@ -23,4 +23,4 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- Castres Olympique (2002 - 2026)
+- [カストル](/teams/top14/castres) (2002 - )

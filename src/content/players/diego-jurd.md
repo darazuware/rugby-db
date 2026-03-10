@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2011 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2011 - )

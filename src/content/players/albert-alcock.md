@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - West Harbour RFC (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

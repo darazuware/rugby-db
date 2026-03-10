@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )

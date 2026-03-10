@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )

@@ -29,4 +29,4 @@ facebook: ""
 - [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020 - 2020)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2023)
 - sans club (2023 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

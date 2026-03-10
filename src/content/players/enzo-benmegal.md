@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ラシン92](/teams/top14/racing-92) (2014 - 2023)
 - [ヴァンヌ](/teams/top14/vannes) (2023 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2024 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

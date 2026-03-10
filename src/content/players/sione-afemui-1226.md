@@ -25,4 +25,4 @@ facebook: ""
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
 - BlackRams Tokyo (2024 - 2025)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - 2026)
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - )

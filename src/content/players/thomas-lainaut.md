@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - Union Sportive Bressane Pays de l'Ain (2018 - 2019)
 - Rouen Normandie Rugby (2019 - 2021)
 - FC Grenoble Rugby (2021 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2025 - )

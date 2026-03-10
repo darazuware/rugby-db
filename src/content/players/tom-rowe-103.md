@@ -28,4 +28,4 @@ facebook: ""
 - [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2019 - 2019)
 - [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2020 - 2023)
 - Sunwolves (2020 - 2020)
-- ハリウッドベッツ・シャークス (2023 - 2026)
+- ハリウッドベッツ・シャークス (2023 - )

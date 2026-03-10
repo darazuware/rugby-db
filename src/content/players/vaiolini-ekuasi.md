@@ -31,4 +31,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - メルボルン・レベルズ (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

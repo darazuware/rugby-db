@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [モンペリエ](/teams/top14/montpellier) (2014 - 2017)
 - Stade Piscenois (2017 - 2019)
 - Association Sportive Béziers Hérault (2019 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - )

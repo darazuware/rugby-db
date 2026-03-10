@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [リヨン](/teams/top14/lyon) (2024 - 2025)
 - [ヴァンヌ](/teams/top14/vannes) (2025 - 2025)
 - [リヨン](/teams/top14/lyon) (2026 - 2026)
-- [ヴァンヌ](/teams/top14/vannes) (2026 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2026 - )

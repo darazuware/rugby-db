@@ -27,4 +27,4 @@ facebook: ""
 - ヴォーダコム・ブルズ (2020 - 2020)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
 - ヴォーダコム・ブルズ (2021 - 2021)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2022)
 - メルボルン・レベルズ (2022 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - 2026)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - )

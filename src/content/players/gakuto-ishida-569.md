@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2023)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - )

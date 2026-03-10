@@ -35,4 +35,4 @@ facebook: ""
 - Southland Stags (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2025)
 - Southland Stags (2025 - 2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

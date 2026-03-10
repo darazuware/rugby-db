@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - SC Mazamet (2004 - 2011)
 - [トゥールーズ](/teams/top14/toulouse) (2011 - 2016)
 - US Colomiers (2016 - 2017)
-- [トゥールーズ](/teams/top14/toulouse) (2017 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2017 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

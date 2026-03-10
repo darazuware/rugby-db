@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - UE Santboiana (2021 - 2023)
-- [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2023 - )

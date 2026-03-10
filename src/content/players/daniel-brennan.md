@@ -31,4 +31,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - CA Brive Corrèze Limousin (2020 - 2021)
 - [モンペリエ](/teams/top14/montpellier) (2021 - 2021)
 - CA Brive Corrèze Limousin (2021 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2024 - )

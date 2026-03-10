@@ -33,4 +33,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - Hawke's Bay Magpies (2024 - 2024)
 - Newcastle Knights (2024 - 2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

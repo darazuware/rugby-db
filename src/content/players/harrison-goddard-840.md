@@ -34,4 +34,4 @@ facebook: ""
 - Gordon Rugby Football Club (2022 - 2022)
 - LA Giltinis (2022 - 2022)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2025)
-- ハリウッドベッツ・シャークス (2025 - 2026)
+- ハリウッドベッツ・シャークス (2025 - )

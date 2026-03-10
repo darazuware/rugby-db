@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Southern Kings (2019 - 2020)
 - USON Nevers Rugby (2020 - 2024)
-- Castres Olympique (2024 - 2026)
+- [カストル](/teams/top14/castres) (2024 - )

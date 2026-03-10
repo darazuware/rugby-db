@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Izon (2007 - 2016)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - )

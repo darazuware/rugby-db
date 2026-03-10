@@ -30,4 +30,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

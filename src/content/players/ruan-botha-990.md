@@ -26,4 +26,4 @@ facebook: ""
 - DHLストーマーズ (2013 - 2015)
 - ハリウッドベッツ・シャークス (2015 - 2019)
 - London Irish (2019 - 2020)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2026)
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - )

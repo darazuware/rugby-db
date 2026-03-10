@@ -31,4 +31,4 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
 - Hawke's Bay Magpies (2022 - 2022)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2022)
-- ドラゴンズ・ラグビー (2024 - 2026)
+- ドラゴンズ・ラグビー (2024 - )

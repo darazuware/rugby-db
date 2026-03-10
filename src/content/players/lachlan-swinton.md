@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

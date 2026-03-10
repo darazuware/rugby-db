@@ -33,4 +33,4 @@ facebook: ""
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - 2023)
 - ハリウッドベッツ・シャークス (2024 - 2024)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

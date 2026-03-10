@@ -31,4 +31,4 @@ facebook: ""
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
 - Hawke's Bay Magpies (2021 - 2021)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - 2026)
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )

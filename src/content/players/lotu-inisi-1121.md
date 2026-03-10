@@ -33,4 +33,4 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
 - North Harbour (2024 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

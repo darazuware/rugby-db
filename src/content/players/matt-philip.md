@@ -25,7 +25,7 @@ facebook: ""
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
 - メルボルン・レベルズ (2017 - 2020)
-- Section Paloise Béarn Pyrénées (2020 - 2021)
+- [ポー](/teams/top14/pau) (2020 - 2021)
 - メルボルン・レベルズ (2021 - 2023)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2025)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

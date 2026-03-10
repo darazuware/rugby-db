@@ -36,4 +36,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2025)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2026 - 2026)
-- [スタッド・フランセ](/teams/top14/paris) (2026 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2026 - )

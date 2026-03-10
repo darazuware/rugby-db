@@ -28,4 +28,4 @@ facebook: ""
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2020 - 2024)
 - Sunwolves (2020 - 2020)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2020 - 2020)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - 2026)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - )

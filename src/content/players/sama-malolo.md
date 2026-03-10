@@ -37,4 +37,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
-- Union Sportive Arlequins Perpignanais (2025 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2025 - )

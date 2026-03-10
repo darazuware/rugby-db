@@ -25,5 +25,5 @@ facebook: ""
 
 - Pessac (2009 - 2012)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - 2019)
-- Aviron Bayonnais (2019 - 2020)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2020)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )

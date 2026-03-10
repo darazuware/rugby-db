@@ -24,9 +24,9 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - US Orthez Rugby (2008 - 2015)
-- Section Paloise Béarn Pyrénées (2015 - 2016)
+- [ポー](/teams/top14/pau) (2015 - 2016)
 - US Orthez Rugby (2016 - 2020)
 - Biarritz Olympique Pays Basque (2020 - 2021)
 - Union Sportive Bressane Pays de l'Ain (2021 - 2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - )

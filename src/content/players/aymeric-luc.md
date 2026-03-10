@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Boucau Tarnos Stade (2004 - 2009)
-- Aviron Bayonnais (2009 - 2021)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2021)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - 2026)
+- [ポー](/teams/top14/pau) (2024 - )

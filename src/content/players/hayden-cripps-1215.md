@@ -27,4 +27,4 @@ facebook: ""
 - Sunwolves (2016 - 2017)
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2017 - 2022)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
-- ハリウッドベッツ・シャークス (2024 - 2026)
+- ハリウッドベッツ・シャークス (2024 - )

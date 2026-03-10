@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Niort RC (2011 - 2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )

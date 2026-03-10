@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Avenir Aturin (2004 - 2013)
-- Section Paloise Béarn Pyrénées (2013 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2026)
+- [ポー](/teams/top14/pau) (2013 - 2018)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - )

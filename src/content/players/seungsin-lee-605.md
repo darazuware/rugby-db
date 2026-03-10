@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2020 - 2026)
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2020 - )

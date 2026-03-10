@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rugby Club Massy Essonne (2014 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

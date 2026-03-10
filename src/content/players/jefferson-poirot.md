@@ -25,4 +25,4 @@ facebook: ""
 
 - US Lalinde (2004 - 2008)
 - CA Brive Corrèze Limousin (2008 - 2012)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - )

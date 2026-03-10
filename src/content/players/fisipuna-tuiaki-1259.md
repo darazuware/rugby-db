@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2022 - 2023)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

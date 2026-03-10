@@ -34,4 +34,4 @@ facebook: ""
 - Sunwolves (2018 - 2018)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2025)
 - Sunwolves (2019 - 2019)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )

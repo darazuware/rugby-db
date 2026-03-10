@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Saracens (2012 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

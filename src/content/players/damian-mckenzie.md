@@ -32,4 +32,4 @@ facebook: ""
 - Waikato Mooloos (2021 - 2021)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2022)
 - Waikato Mooloos (2022 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - )

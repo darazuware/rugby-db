@@ -32,4 +32,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - Rouen Normandie Rugby (2020 - 2021)
 - Bristol Bears (2021 - 2022)
 - マンスター・ラグビー (2022 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2024 - )

@@ -27,4 +27,4 @@ facebook: ""
 - [クレルモン](/teams/top14/clermont) (2012 - 2014)
 - Biarritz Olympique Pays Basque (2014 - 2018)
 - [スタッド・フランセ](/teams/top14/paris) (2018 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [クレルモン](/teams/top14/clermont) (2024 - )

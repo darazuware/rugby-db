@@ -25,4 +25,4 @@ facebook: ""
 
 - RC des Vallons de la Tour (2007 - 2017)
 - CS Bourgoin Jallieu Rugby (2017 - 2020)
-- [スタッド・フランセ](/teams/top14/paris) (2020 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2020 - )

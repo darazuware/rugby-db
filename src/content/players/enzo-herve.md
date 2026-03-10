@@ -26,6 +26,6 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - RC Buguois (2004 - 2013)
 - CA Brive Corrèze Limousin (2013 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2023 - 2025)
-- Castres Olympique (2025 - 2025)
+- [カストル](/teams/top14/castres) (2025 - 2025)
 - [トゥーロン](/teams/top14/toulon) (2026 - 2026)
-- Castres Olympique (2026 - 2026)
+- [カストル](/teams/top14/castres) (2026 - )

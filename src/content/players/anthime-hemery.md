@@ -27,4 +27,4 @@ facebook: ""
 - [ラシン92](/teams/top14/racing-92) (2016 - 2023)
 - [クレルモン](/teams/top14/clermont) (2023 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2024 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [クレルモン](/teams/top14/clermont) (2024 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - COM Bagneux (2004 - 2006)
 - [トゥールーズ](/teams/top14/toulouse) (2006 - 2020)
-- [クレルモン](/teams/top14/clermont) (2020 - 2026)
+- [クレルモン](/teams/top14/clermont) (2020 - )

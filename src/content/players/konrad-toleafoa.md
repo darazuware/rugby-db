@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2026)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

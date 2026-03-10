@@ -26,4 +26,4 @@ facebook: ""
 - [リヨン](/teams/top14/lyon) (2016 - 2018)
 - USON Nevers Rugby (2018 - 2021)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2022)
-- Section Paloise Béarn Pyrénées (2022 - 2026)
+- [ポー](/teams/top14/pau) (2022 - )

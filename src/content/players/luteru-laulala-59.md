@@ -27,4 +27,4 @@ facebook: ""
 - Counties Manukau Steelers (2019 - 2021)
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

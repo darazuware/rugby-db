@@ -35,4 +35,4 @@ facebook: ""
 - Ealing Trailfinders (2022 - 2022)
 - Ealing Trailfinders (2023 - 2024)
 - Gloucester Rugby (2023 - 2023)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - 2026)
+- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )

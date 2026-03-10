@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - BlackRams Tokyo (2021 - 2025)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - 2026)
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - )

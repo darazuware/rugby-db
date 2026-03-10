@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [トゥーロン](/teams/top14/toulon) (2016 - 2019)
 - CA Brive Corrèze Limousin (2019 - 2021)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2022)
-- Aviron Bayonnais (2022 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

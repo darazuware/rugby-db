@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2023 - 2025)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

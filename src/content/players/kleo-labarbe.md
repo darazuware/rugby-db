@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Rugby Club de Saint-Médard en Jalles (2012 - 2023)
-- Aviron Bayonnais (2023 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - 2024)
+- [ラシン92](/teams/top14/racing-92) (2024 - )

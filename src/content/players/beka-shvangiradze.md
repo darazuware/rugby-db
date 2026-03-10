@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - RC Aia Kutaisi (2019 - 2020)
 - Stade Aurillacois Cantal Auvergne (2020 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - )

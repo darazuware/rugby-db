@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2022 - 2023)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - )

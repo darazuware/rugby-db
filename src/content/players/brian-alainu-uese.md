@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - グラスゴー・ウォリアーズ (2016 - 2018)
 - [トゥーロン](/teams/top14/toulon) (2018 - 2018)
 - グラスゴー・ウォリアーズ (2019 - 2019)
-- [トゥーロン](/teams/top14/toulon) (2019 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2019 - )

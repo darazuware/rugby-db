@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Southern Kings (2015 - 2016)
 - ハリウッドベッツ・シャークス (2016 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2022 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2022 - )

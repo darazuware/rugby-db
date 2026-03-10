@@ -27,5 +27,5 @@ facebook: ""
 - Southern Kings (2017 - 2020)
 - スカーレッツ (2020 - 2021)
 - Wasps (2021 - 2022)
-- Aviron Bayonnais (2022 - 2025)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )

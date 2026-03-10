@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ヴァンヌ](/teams/top14/vannes) (2018 - 2019)
 - CA Brive Corrèze Limousin (2019 - 2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

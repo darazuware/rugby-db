@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - 2026)
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )

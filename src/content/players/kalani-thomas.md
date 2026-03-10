@@ -27,4 +27,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
 - Wests Scarborough Rugby Union (2024 - 2025)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - 2026)
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - )

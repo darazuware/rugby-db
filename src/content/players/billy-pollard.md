@@ -28,4 +28,4 @@ facebook: ""
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2023)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2023)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2024)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

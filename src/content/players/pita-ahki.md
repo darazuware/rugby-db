@@ -30,4 +30,4 @@ facebook: ""
 - [トゥールーズ](/teams/top14/toulouse) (2018 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
 - [トゥールーズ](/teams/top14/toulouse) (2026 - 2026)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2026 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2026 - )

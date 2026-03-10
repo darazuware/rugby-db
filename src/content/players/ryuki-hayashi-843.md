@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - 2025)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )

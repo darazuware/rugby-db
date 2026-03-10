@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Harlequins (2023 - 2023)
 - London Scottish (2023 - 2023)
 - Harlequins (2023 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - )

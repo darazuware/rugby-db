@@ -27,4 +27,4 @@ facebook: ""
 - Sunwolves (2018 - 2019)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Biarritz Olympique Pays Basque (2012 - 2017)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2022 - )

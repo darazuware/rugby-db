@@ -34,4 +34,4 @@ facebook: ""
 - Tasman Mako (2022 - 2022)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023 - 2025)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - 2026)
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - )

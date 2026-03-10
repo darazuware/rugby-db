@@ -35,4 +35,4 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
 - Old Glory DC RFC (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2026)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

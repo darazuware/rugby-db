@@ -25,4 +25,4 @@ facebook: ""
 
 - Balma Olympique Rugby Club (2021 - 2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

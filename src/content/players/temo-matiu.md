@@ -25,4 +25,4 @@ facebook: ""
 
 - Pennes-Mirabeau Cadeneaux Rugby (2007 - 2008)
 - Biarritz Olympique Pays Basque (2011 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

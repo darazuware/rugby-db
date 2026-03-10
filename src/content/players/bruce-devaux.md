@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - [トゥーロン](/teams/top14/toulon) (2005 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

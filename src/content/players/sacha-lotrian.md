@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - US Millas (2007 - 2009)
-- Union Sportive Arlequins Perpignanais (2009 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2009 - 2024)
+- [クレルモン](/teams/top14/clermont) (2024 - )

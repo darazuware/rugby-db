@@ -29,4 +29,4 @@ facebook: ""
 - Rugby Calvisano (2020 - 2020)
 - ゼブレ・パルマ (2020 - 2021)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2023)
-- Aviron Bayonnais (2023 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

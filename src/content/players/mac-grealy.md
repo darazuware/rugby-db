@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

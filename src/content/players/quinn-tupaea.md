@@ -36,4 +36,4 @@ facebook: ""
 - Waikato Mooloos (2023 - 2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - Waikato Mooloos (2024 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

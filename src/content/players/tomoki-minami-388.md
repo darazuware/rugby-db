@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )

@@ -30,4 +30,4 @@ facebook: ""
 - Hawke's Bay Magpies (2022 - 2022)
 - Toronto Arrows (2022 - 2023)
 - Hawke's Bay Magpies (2023 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2026)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - Stade Aurillacois Cantal Auvergne (2024 - 2025)
 - [ラシン92](/teams/top14/racing-92) (2025 - 2025)
 - Stade Aurillacois Cantal Auvergne (2026 - 2026)
-- [ラシン92](/teams/top14/racing-92) (2026 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2026 - )

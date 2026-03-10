@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Queensland Country (2014 - 2016)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - 2026)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - )

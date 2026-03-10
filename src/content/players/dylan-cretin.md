@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - RC Annemasse (2004 - 2012)
-- [リヨン](/teams/top14/lyon) (2012 - 2026)
+- [リヨン](/teams/top14/lyon) (2012 - )

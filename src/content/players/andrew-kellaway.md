@@ -33,4 +33,4 @@ facebook: ""
 - メルボルン・レベルズ (2020 - 2020)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2021)
 - メルボルン・レベルズ (2021 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

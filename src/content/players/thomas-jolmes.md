@@ -30,4 +30,4 @@ facebook: ""
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2020)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2021)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - 2026)
+- [ポー](/teams/top14/pau) (2024 - )

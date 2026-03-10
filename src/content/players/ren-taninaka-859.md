@@ -6,7 +6,7 @@ team: "ヤクルトレビンズ戸田"
 height: "171"
 weight: "83"
 birth_date: "2002.03.11"
-age: 23
+age: 24
 high_school: "御所実業高校"
 university: "中京大学"
 caps: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - )

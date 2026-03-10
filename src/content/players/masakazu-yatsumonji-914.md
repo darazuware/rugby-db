@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

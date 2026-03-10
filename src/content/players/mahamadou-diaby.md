@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Oyonnax Rugby (2013 - 2014)
 - FC Grenoble Rugby (2014 - 2017)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2025)
-- Union Sportive Arlequins Perpignanais (2025 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2025 - )

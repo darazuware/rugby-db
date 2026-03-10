@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Ecole de Rugby du Pic Saint-Loup (2012 - 2019)
 - US Tyrosse (2021 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2022 - )

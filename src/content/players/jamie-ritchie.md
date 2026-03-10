@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - エディンバラ・ラグビー (2014 - 2025)
-- Union Sportive Arlequins Perpignanais (2025 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2025 - )

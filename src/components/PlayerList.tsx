@@ -361,6 +361,12 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         return selectedLeagues.length > 0 && selectedLeagues.every(check);
     }, [selectedLeagues, leagueContext]);
 
+    const isTop14Selected = useMemo(() => {
+        const check = (l: string) => l.toLowerCase() === 'top14';
+        if (leagueContext) return check(leagueContext);
+        return selectedLeagues.length > 0 && selectedLeagues.every(check);
+    }, [selectedLeagues, leagueContext]);
+
     const getLeagueColor = (league?: string) => {
         if (!league) return 'bg-[#E60012]';
         switch (league) {
@@ -595,9 +601,10 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <span className="text-xs font-black text-gray-400 uppercase tracking-widest">ソート順</span>
                             <div className="flex flex-wrap gap-2">
                                 {(['age', 'height', 'weight', 'tries', 'matches', 'starts', 'minutes'] as const).map(key => {
-                                    // スコアデータがないリーグのソートボタンを制限
                                     const isScoreSort = ['tries', 'matches', 'starts', 'minutes'].includes(key);
-                                    const showSort = !isScoreSort || filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true");
+                                    // Top 14 が選択されている場合は、スコア属性でのソートを非表示にする
+                                    const isTop14 = isTop14Selected || (leagueContext === 'top14');
+                                    const showSort = (!isScoreSort || filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true")) && !(isScoreSort && isTop14);
 
                                     if (!showSort) return null;
 
@@ -714,7 +721,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     )}
 
                                     {/* 実戦スタッツ (海外リーグ向け) */}
-                                    {(player.data.matches !== undefined || player.data.tries !== undefined) && (
+                                    {player.data.league !== 'top14' && (player.data.matches !== undefined || player.data.tries !== undefined) && (
                                         <div className="grid grid-cols-4 gap-2 py-3 px-4 bg-gray-50 rounded-2xl border border-gray-100 mb-2">
                                             <div className="flex flex-col items-center">
                                                 <span className="text-[10px] font-black text-gray-400 uppercase">Played</span>

@@ -37,4 +37,4 @@ facebook: ""
 - Northland Taniwha (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
 - Northland Taniwha (2025 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

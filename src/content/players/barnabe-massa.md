@@ -26,4 +26,4 @@ facebook: ""
 - US Véore XV (2010 - 2018)
 - Valence Romans Drôme Rugby (2018 - 2020)
 - FC Grenoble Rugby (2020 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [クレルモン](/teams/top14/clermont) (2024 - )

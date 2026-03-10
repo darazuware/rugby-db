@@ -27,4 +27,4 @@ facebook: ""
 - [クレルモン](/teams/top14/clermont) (2020 - 2023)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2023)
 - [クレルモン](/teams/top14/clermont) (2024 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

@@ -32,4 +32,4 @@ facebook: ""
 - Counties Manukau Steelers (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2025)
 - Counties Manukau Steelers (2025 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

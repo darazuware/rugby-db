@@ -38,4 +38,4 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
 - エミレーツ・ライオンズ (2024 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - 2026)
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )

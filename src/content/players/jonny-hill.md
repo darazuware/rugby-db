@@ -25,4 +25,4 @@ facebook: ""
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2022)
 - ハリウッドベッツ・シャークス (2022 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2025 - )

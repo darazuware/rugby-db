@@ -28,4 +28,4 @@ facebook: ""
 - RFC Los Angeles (2024 - 2025)
 - Manawatu Turbos (2024 - 2024)
 - New England Free Jacks (2024 - 2024)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - SO Voiron (2007 - 2015)
 - FC Grenoble Rugby (2015 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Section Paloise Béarn Pyrénées (2015 - 2022)
+- [ポー](/teams/top14/pau) (2015 - 2022)
 - [スタッド・フランセ](/teams/top14/paris) (2022 - 2024)
-- Aviron Bayonnais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

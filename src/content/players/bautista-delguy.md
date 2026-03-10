@@ -25,5 +25,5 @@ facebook: ""
 
 - Jaguares (2017 - 2020)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2021)
-- Union Sportive Arlequins Perpignanais (2021 - 2022)
-- [クレルモン](/teams/top14/clermont) (2022 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2021 - 2022)
+- [クレルモン](/teams/top14/clermont) (2022 - )

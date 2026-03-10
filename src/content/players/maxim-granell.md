@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Entente de la Têt (2010 - 2015)
-- Union Sportive Arlequins Perpignanais (2015 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2015 - )

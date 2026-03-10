@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - US Colomiers (2010 - 2025)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

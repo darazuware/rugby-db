@@ -43,4 +43,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Bay of Plenty Steamers (2024 - 2024)
 - San Diego Legion (2025 - 2025)
 - Bay of Plenty Steamers (2025 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

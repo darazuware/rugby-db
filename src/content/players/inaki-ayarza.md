@@ -23,6 +23,6 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- Aviron Bayonnais (2018 - 2021)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2021)
 - Soyaux-Angoulême XV Charente (2021 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

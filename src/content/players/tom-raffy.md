@@ -25,4 +25,4 @@ facebook: ""
 
 - Saint-Céré (2009 - 2018)
 - CA Brive Corrèze Limousin (2018 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

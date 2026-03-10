@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - FC Grenoble Rugby (2023 - 2025)
 - [トゥーロン](/teams/top14/toulon) (2025 - 2025)
 - FC Grenoble Rugby (2026 - 2026)
-- [トゥーロン](/teams/top14/toulon) (2026 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2026 - )

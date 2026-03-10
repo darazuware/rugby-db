@@ -28,4 +28,4 @@ facebook: ""
 - Manawatu Turbos (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
 - Manawatu Turbos (2024 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

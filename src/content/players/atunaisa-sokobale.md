@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- Castres Olympique (2023 - 2026)
+- [カストル](/teams/top14/castres) (2023 - )

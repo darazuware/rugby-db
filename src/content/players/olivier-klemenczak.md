@@ -26,4 +26,4 @@ facebook: ""
 - AS Soustons (2004 - 2011)
 - US Dax Rugby Landes (2011 - 2018)
 - [ラシン92](/teams/top14/racing-92) (2018 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - 2026)
+- [ポー](/teams/top14/pau) (2024 - )

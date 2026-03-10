@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - Avenir Bizanos (2009 - 2013)
 - CA Brive Corrèze Limousin (2013 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2025 - )

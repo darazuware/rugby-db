@@ -33,4 +33,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - San Diego Legion (2019 - 2020)
 - [トゥーロン](/teams/top14/toulon) (2020 - 2021)
 - San Diego Legion (2021 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2024 - )

@@ -26,4 +26,4 @@ facebook: ""
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2020 - 2021)
 - メルボルン・レベルズ (2021 - 2023)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2025)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Southland Stags (2021 - 2024)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - )

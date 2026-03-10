@@ -25,4 +25,4 @@ facebook: ""
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2021)
 - [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

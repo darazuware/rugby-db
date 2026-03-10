@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Section Lexovienne Rugby (2006 - 2017)
-- [ヴァンヌ](/teams/top14/vannes) (2017 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2017 - )

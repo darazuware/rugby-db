@@ -26,4 +26,4 @@ facebook: ""
 - Olympique Marcquois Rugby (2004 - 2007)
 - [トゥールーズ](/teams/top14/toulouse) (2007 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2023 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

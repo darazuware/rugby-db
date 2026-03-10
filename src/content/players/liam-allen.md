@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2022)
-- [リヨン](/teams/top14/lyon) (2022 - 2026)
+- [リヨン](/teams/top14/lyon) (2022 - )

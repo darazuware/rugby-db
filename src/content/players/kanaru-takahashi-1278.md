@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

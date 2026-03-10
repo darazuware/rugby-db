@@ -33,4 +33,4 @@ facebook: ""
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
 - Tasman Mako (2023 - 2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

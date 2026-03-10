@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Liceo Naval (2015 - 2016)
-- Section Paloise Béarn Pyrénées (2016 - 2025)
-- Aviron Bayonnais (2025 - 2026)
+- [ポー](/teams/top14/pau) (2016 - 2025)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

@@ -32,4 +32,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2026)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

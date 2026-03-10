@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2023)
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Kia Toa (2023 - 2024)
 - Northampton Saints (2024 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2025 - )

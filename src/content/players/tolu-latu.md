@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - [モンペリエ](/teams/top14/montpellier) (2023 - 2023)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2023)
 - [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Sor Agout XV (2011 - 2020)
-- Castres Olympique (2020 - 2026)
+- [カストル](/teams/top14/castres) (2020 - )

@@ -35,4 +35,4 @@ facebook: ""
 - エミレーツ・ライオンズ (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
 - エミレーツ・ライオンズ (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

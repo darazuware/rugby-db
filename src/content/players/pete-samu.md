@@ -26,4 +26,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2018)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

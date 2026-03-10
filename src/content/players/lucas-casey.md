@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2026)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

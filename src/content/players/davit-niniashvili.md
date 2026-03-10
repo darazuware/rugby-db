@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - Khvamli Rugby (2020 - 2021)
 - [リヨン](/teams/top14/lyon) (2021 - 2025)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

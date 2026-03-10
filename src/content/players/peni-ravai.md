@@ -28,4 +28,4 @@ facebook: ""
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2020)
 - [クレルモン](/teams/top14/clermont) (2020 - 2022)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

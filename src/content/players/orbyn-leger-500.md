@@ -32,4 +32,4 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2021 - 2024)
 - Counties Manukau Steelers (2021 - 2021)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

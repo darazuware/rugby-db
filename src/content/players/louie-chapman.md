@@ -29,4 +29,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
 - Tasman Mako (2023 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

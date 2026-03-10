@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Harlequins (2017 - 2025)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )

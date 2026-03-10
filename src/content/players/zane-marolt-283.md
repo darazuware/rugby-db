@@ -26,4 +26,4 @@ facebook: ""
 - Queanbeyan Whites (2020 - 2022)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
 - Queanbeyan Whites (2024 - 2025)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )

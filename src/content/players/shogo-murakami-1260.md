@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

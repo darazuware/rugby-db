@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Saint-Jo Ovalie (2012 - 2013)
 - Sporting Union Agenais (2016 - 2021)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - )

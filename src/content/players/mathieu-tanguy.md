@@ -25,6 +25,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
 - [トゥーロン](/teams/top14/toulon) (2022 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - 2023)
+- [ペルピニャン](/teams/top14/perpignan) (2023 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2024 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

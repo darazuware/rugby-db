@@ -27,4 +27,4 @@ facebook: ""
 - Eastern Suburbs RFC (2020 - 2021)
 - メルボルン・レベルズ (2021 - 2024)
 - San Diego Legion (2024 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

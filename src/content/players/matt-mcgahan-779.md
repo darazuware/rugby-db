@@ -29,4 +29,4 @@ facebook: ""
 - BlackRams Tokyo (2019 - 2024)
 - North Harbour (2019 - 2019)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2019)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - )

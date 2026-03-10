@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - ベネットン・ラグビー・トレヴィーゾ (2021 - 2025)
 - [トゥーロン](/teams/top14/toulon) (2025 - 2025)
 - ベネットン・ラグビー・トレヴィーゾ (2026 - 2026)
-- [トゥーロン](/teams/top14/toulon) (2026 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2026 - )

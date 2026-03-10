@@ -27,4 +27,4 @@ facebook: ""
 - Oyonnax Rugby (2016 - 2019)
 - [スタッド・フランセ](/teams/top14/paris) (2019 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

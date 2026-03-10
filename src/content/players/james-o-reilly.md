@@ -35,4 +35,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - エミレーツ・ライオンズ (2022 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
 - エミレーツ・ライオンズ (2024 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

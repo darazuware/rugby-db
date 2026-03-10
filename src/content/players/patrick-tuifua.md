@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Jeunesse Sports et Loisirs De Normandie (2013 - 2020)
 - Hawke's Bay Magpies (2022 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2025 - )

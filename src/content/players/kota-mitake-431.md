@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2025)
-- BlackRams Tokyo (2025 - 2026)
+- BlackRams Tokyo (2025 - )

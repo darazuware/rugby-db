@@ -26,4 +26,4 @@ facebook: ""
 - RC Rustavi Kharebi (2021 - 2022)
 - [クレルモン](/teams/top14/clermont) (2022 - 2024)
 - Biarritz Olympique Pays Basque (2024 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

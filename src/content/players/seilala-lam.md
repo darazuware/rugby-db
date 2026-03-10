@@ -25,7 +25,7 @@ facebook: ""
 
 - Canberra Vikings (2014 - 2015)
 - USON Nevers Rugby (2015 - 2017)
-- Union Sportive Arlequins Perpignanais (2017 - 2025)
+- [ペルピニャン](/teams/top14/perpignan) (2017 - 2025)
 - [クレルモン](/teams/top14/clermont) (2025 - 2025)
-- Union Sportive Arlequins Perpignanais (2026 - 2026)
-- [クレルモン](/teams/top14/clermont) (2026 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2026 - 2026)
+- [クレルモン](/teams/top14/clermont) (2026 - )

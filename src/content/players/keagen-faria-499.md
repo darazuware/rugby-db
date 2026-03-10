@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - 2024)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

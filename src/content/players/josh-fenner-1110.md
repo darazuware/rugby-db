@@ -27,4 +27,4 @@ facebook: ""
 - Wasps (2018 - 2020)
 - Hartpury RFC (2021 - 2022)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - 2026)
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )

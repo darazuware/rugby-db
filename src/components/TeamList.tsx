@@ -205,18 +205,14 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                         className="group block bg-white rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-1 transition-all border border-gray-100 relative overflow-hidden h-full flex flex-col"
                                     >
                                         <div className="relative z-20 flex-grow">
-                                            {team.host_area && (
-                                                <div className="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1 truncate">
-                                                    {team.host_area}
+
+                                            <h3 className="text-xl font-black text-gray-900 mb-2 group-hover:text-yellow-600 transition-colors leading-tight flex items-start flex-wrap gap-2">
+                                            {(team.flag || (team.league !== 'league-one' && team.legal_entity && team.legal_entity !== team.host_area)) && (
+                                                <div className="flex items-center gap-1.5 bg-gray-100 px-2 py-0.5 rounded-lg text-xs font-black text-gray-500 mb-1">
+                                                    {team.flag && <span className="text-base">{team.flag}</span>}
+                                                    {team.league !== 'league-one' && team.legal_entity && <span>{team.legal_entity}</span>}
                                                 </div>
                                             )}
-                                            <h3 className="text-xl font-black text-gray-900 mb-2 group-hover:text-yellow-600 transition-colors leading-tight flex items-start flex-wrap gap-2">
-                                                {(team.flag || (team.legal_entity && team.legal_entity !== team.host_area)) && (
-                                                    <div className="flex items-center gap-1.5 bg-gray-100 px-2 py-0.5 rounded-lg text-xs font-black text-gray-500 mb-1">
-                                                        {team.flag && <span className="text-base">{team.flag}</span>}
-                                                        {team.legal_entity && <span>{team.legal_entity}</span>}
-                                                    </div>
-                                                )}
                                                 <div className="w-full">
                                                     {team.league === 'league-one' ? (
                                                         team.team_name_jp || team.team_name

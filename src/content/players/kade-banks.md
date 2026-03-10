@@ -31,4 +31,4 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2025)
 - North Harbour (2025 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

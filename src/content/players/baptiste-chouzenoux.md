@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Aviron Bayonnais (2009 - 2017)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2017)
 - [ラシン92](/teams/top14/racing-92) (2017 - 2024)
-- Aviron Bayonnais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

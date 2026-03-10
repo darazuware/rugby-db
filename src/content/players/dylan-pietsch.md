@@ -26,4 +26,4 @@ facebook: ""
 - Randwick Rugby (2016 - 2020)
 - Aussie 7's (2020 - 2021)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

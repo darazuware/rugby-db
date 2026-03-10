@@ -33,4 +33,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - Northland Taniwha (2022 - 2022)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
 - Northland Taniwha (2023 - 2023)
-- Castres Olympique (2023 - 2026)
+- [カストル](/teams/top14/castres) (2023 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - Houston Sabercats (2021 - 2023)
 - Tokyo Gas Rugby Club (2024 - 2025)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - 2026)
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )

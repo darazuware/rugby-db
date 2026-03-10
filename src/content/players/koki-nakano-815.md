@@ -6,7 +6,7 @@ team: "マツダスカイアクティブズ広島"
 height: "180"
 weight: "105"
 birth_date: "2000.03.10"
-age: 25
+age: 26
 high_school: "大阪桐蔭高校"
 university: "帝京大学"
 caps: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2022 - 2026)
+- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2022 - )

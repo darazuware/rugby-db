@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2021 - 2023)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

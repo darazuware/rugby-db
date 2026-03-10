@@ -28,4 +28,4 @@ facebook: ""
 - North Harbour (2021 - 2021)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2022)
 - North Harbour (2022 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )

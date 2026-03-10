@@ -30,4 +30,4 @@ facebook: ""
 - Northampton Saints (2023 - 2025)
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - 2023)
 - Wasps (2023 - 2023)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

@@ -27,5 +27,5 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - U.S. Tours (2012 - 2014)
 - US Dax Rugby Landes (2014 - 2018)
 - US Carcassonne (2018 - 2022)
-- Aviron Bayonnais (2022 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
+- [スタッド・フランセ](/teams/top14/paris) (2024 - )

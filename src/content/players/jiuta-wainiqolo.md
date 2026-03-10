@@ -6,7 +6,7 @@ team: "リヨン"
 height: "187"
 weight: "97"
 birth_date: "1999.03.10"
-age: 26
+age: 27
 high_school: ""
 university: ""
 caps: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
 - FIDJI 7's (2020 - 2021)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - )

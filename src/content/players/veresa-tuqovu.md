@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2023)
 - Stade Montois Rugby Pro (2023 - 2024)
 - Oyonnax Rugby (2024 - 2025)
-- Castres Olympique (2025 - 2026)
+- [カストル](/teams/top14/castres) (2025 - )

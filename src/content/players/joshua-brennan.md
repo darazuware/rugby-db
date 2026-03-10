@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - [トゥールーズ](/teams/top14/toulouse) (2008 - 2012)
-- [トゥールーズ](/teams/top14/toulouse) (2012 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2012 - )

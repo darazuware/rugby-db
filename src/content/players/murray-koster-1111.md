@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ハリウッドベッツ・シャークス (2019 - 2024)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - 2026)
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )

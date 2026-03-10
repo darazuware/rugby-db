@@ -38,4 +38,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

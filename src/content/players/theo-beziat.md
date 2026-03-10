@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Racing Club Narbonnais (2004 - 2014)
 - Stado Tarbes Pyrénées Rugby (2014 - 2017)
 - Provence Rugby (2017 - 2020)
-- [ヴァンヌ](/teams/top14/vannes) (2020 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2020 - )

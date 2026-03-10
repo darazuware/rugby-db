@@ -37,4 +37,4 @@ facebook: ""
 - Utah Warriors (2024 - 2025)
 - Southland Stags (2024 - 2024)
 - Utah Warriors (2024 - 2024)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

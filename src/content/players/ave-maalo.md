@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [リヨン](/teams/top14/lyon) (2023 - 2026)
+- [リヨン](/teams/top14/lyon) (2023 - )

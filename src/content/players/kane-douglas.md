@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - レンスター・ラグビー (2014 - 2015)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2018)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

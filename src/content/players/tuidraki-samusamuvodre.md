@@ -25,4 +25,4 @@ facebook: ""
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2020)
 - New England Free Jacks (2020 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Pennes-Mirabeau Cadeneaux Rugby (2009 - 2016)
 - Provence Rugby (2016 - 2021)
-- Castres Olympique (2021 - 2026)
+- [カストル](/teams/top14/castres) (2021 - )

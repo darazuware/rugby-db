@@ -25,4 +25,4 @@ facebook: ""
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
 - ドラゴンズ・ラグビー (2019 - 2020)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - )

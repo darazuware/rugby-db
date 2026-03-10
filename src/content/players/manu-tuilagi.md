@@ -27,4 +27,4 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2019 - 2019)
 - Leicester Tigers (2020 - 2020)
 - ハリウッドベッツ・シャークス (2020 - 2024)
-- Aviron Bayonnais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

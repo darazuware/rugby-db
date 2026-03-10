@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2022 - 2025)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )

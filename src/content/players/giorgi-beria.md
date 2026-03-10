@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Stade Aurillacois Cantal Auvergne (2010 - 2016)
 - [クレルモン](/teams/top14/clermont) (2016 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

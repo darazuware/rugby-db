@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2024 - )

@@ -31,4 +31,4 @@ facebook: ""
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2025)
 - Leicester Tigers (2025 - 2025)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2026 - 2026)
-- Leicester Tigers (2026 - 2026)
+- Leicester Tigers (2026 - )

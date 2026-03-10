@@ -29,4 +29,4 @@ facebook: ""
 - [スタッド・フランセ](/teams/top14/paris) (2024 - 2024)
 - Nissa Rugby (2024 - 2024)
 - Ealing Trailfinders (2024 - 2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

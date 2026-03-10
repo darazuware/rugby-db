@@ -31,4 +31,4 @@ facebook: ""
 - Gordon Rugby Football Club (2019 - 2019)
 - LA Giltinis (2020 - 2021)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2025)
-- ハリウッドベッツ・シャークス (2025 - 2026)
+- ハリウッドベッツ・シャークス (2025 - )

@@ -26,4 +26,4 @@ facebook: ""
 - Royan Saujon Rugby (2009 - 2018)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2024)
 - Soyaux-Angoulême XV Charente (2024 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

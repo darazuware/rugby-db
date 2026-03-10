@@ -29,4 +29,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - メルボルン・レベルズ (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

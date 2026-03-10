@@ -39,4 +39,4 @@ facebook: ""
 - New England Free Jacks (2024 - 2024)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
 - Northland Taniwha (2025 - 2025)
-- New England Free Jacks (2025 - 2025)
+- New England Free Jacks (2025 - )

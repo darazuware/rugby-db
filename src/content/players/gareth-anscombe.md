@@ -28,4 +28,4 @@ facebook: ""
 - オスプリーズ (2019 - 2023)
 - sans club (2023 - 2024)
 - Gloucester Rugby (2024 - 2025)
-- Aviron Bayonnais (2025 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

@@ -6,7 +6,7 @@ team: "ヴァンヌ"
 height: "185"
 weight: "115"
 birth_date: "1999.03.10"
-age: 26
+age: 27
 high_school: ""
 university: ""
 caps: ""
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - FC Grenoble Rugby (2006 - 2019)
-- Castres Olympique (2019 - 2024)
+- [カストル](/teams/top14/castres) (2019 - 2024)
 - [リヨン](/teams/top14/lyon) (2024 - 2024)
-- Castres Olympique (2025 - 2025)
+- [カストル](/teams/top14/castres) (2025 - 2025)
 - [リヨン](/teams/top14/lyon) (2025 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

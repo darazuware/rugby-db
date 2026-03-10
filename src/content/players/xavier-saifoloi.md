@@ -28,4 +28,4 @@ facebook: ""
 - Waikato Mooloos (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2025)
 - Waikato Mooloos (2025 - 2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

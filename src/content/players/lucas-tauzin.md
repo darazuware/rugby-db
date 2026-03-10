@@ -26,4 +26,4 @@ facebook: ""
 - S A ST Séverin (2004 - 2012)
 - Stade Montois Rugby Pro (2012 - 2016)
 - [トゥールーズ](/teams/top14/toulouse) (2016 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [クレルモン](/teams/top14/clermont) (2024 - )

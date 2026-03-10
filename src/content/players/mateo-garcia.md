@@ -23,6 +23,6 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- Aviron Bayonnais (2016 - 2020)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2020)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2025 - )

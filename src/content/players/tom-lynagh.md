@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Harlequins (2019 - 2021)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - )

@@ -33,4 +33,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2024)
 - BlackRams Tokyo (2025 - 2025)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2025 - )

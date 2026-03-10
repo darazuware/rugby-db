@@ -27,4 +27,4 @@ facebook: ""
 - Rugby Club Massy Essonne (2014 - 2018)
 - [ラシン92](/teams/top14/racing-92) (2018 - 2021)
 - [ヴァンヌ](/teams/top14/vannes) (2021 - 2024)
-- Aviron Bayonnais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

@@ -27,4 +27,4 @@ facebook: ""
 - メルボルン・レベルズ (2019 - 2019)
 - Aussie 7's (2020 - 2020)
 - メルボルン・レベルズ (2020 - 2024)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

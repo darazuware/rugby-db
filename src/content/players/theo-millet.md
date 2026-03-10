@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - [スタッド・フランセ](/teams/top14/paris) (2014 - 2018)
 - Oyonnax Rugby (2018 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - )

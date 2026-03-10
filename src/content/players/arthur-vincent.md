@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - RC Mauguio Carnon Pays d'Or (2004 - 2013)
-- [モンペリエ](/teams/top14/montpellier) (2013 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2013 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - Saint-Jean d'Angély (2009 - 2012)
 - S.A Rochefort Rugby (2012 - 2013)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - )

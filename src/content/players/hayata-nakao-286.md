@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2021 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

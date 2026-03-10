@@ -25,4 +25,4 @@ facebook: ""
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2022)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2025)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023 - 2024)
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

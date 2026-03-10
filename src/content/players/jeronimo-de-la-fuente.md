@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Jaguares (2015 - 2020)
-- Union Sportive Arlequins Perpignanais (2020 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2020 - )

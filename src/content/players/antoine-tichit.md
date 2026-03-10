@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - Union Athlétique Gaillacoise (2004 - 2007)
 - Sporting Club Albigeois (2007 - 2008)
 - Oyonnax Rugby (2008 - 2015)
-- Castres Olympique (2015 - 2026)
+- [カストル](/teams/top14/castres) (2015 - )

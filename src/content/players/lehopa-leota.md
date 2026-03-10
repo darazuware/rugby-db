@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Brothers Rugby Club (2022 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2024 - )

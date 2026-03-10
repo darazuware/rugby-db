@@ -30,4 +30,4 @@ facebook: ""
 - FC Grenoble Rugby (2016 - 2017)
 - Bay of Plenty Steamers (2016 - 2016)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2025)
-- ハリウッドベッツ・シャークス (2025 - 2026)
+- ハリウッドベッツ・シャークス (2025 - )

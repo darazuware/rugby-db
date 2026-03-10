@@ -26,4 +26,4 @@ facebook: ""
 - SCO RC Angers (2002 - 2011)
 - Pôle Espoirs de Tours (2011 - 2014)
 - [トゥーロン](/teams/top14/toulon) (2014 - 2025)
-- Aviron Bayonnais (2025 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

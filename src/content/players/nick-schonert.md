@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2024)
 - ハリウッドベッツ・シャークス (2025 - 2025)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

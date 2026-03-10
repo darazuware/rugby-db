@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2022)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - )

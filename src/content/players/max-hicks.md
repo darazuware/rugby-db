@@ -32,4 +32,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Tasman Mako (2023 - 2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
 - Tasman Mako (2024 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

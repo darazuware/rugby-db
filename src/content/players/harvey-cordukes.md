@@ -25,4 +25,4 @@ facebook: ""
 
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2024)
 - Provence Rugby (2024 - 2025)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )

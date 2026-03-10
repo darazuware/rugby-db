@@ -36,4 +36,4 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
 - エミレーツ・ライオンズ (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

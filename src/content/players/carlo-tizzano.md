@@ -28,4 +28,4 @@ facebook: ""
 - Ealing Trailfinders (2022 - 2022)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2022)
 - Ealing Trailfinders (2023 - 2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

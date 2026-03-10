@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - RC Mende Lozère (2004 - 2013)
-- [クレルモン](/teams/top14/clermont) (2013 - 2026)
+- [クレルモン](/teams/top14/clermont) (2013 - )

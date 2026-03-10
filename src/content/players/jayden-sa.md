@@ -30,4 +30,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2025)
 - ヴォーダコム・ブルズ (2025 - 2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

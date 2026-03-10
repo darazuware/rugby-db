@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Union Rugby Club Dumbéa (2010 - 2012)
-- [トゥールーズ](/teams/top14/toulouse) (2012 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2012 - )

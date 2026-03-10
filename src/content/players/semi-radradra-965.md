@@ -30,4 +30,4 @@ facebook: ""
 - Bristol Bears (2020 - 2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2020)
 - [リヨン](/teams/top14/lyon) (2023 - 2025)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )

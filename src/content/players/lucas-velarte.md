@@ -23,4 +23,4 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- Union Sportive Arlequins Perpignanais (2004 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2004 - )

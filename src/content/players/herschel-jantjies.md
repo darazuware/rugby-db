@@ -27,4 +27,4 @@ facebook: ""
 - DHLストーマーズ (2017 - 2017)
 - スカーレッツ (2018 - 2018)
 - DHLストーマーズ (2018 - 2025)
-- Aviron Bayonnais (2025 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

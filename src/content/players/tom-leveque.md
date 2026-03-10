@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Mouguerre (2012 - 2020)
-- Aviron Bayonnais (2020 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - )

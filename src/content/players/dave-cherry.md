@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - エディンバラ・ラグビー (2018 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

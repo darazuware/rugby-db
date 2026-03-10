@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - Union Cognac-Saint-Jean d'Angély (2017 - 2019)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2019)
 - Union Cognac-Saint-Jean d'Angély (2020 - 2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

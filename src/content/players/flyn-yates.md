@@ -28,4 +28,4 @@ facebook: ""
 - Manawatu Turbos (2024 - 2024)
 - [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - 2024)
 - Manawatu Turbos (2024 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

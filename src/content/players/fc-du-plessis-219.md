@@ -25,4 +25,4 @@ facebook: ""
 
 - [トゥーロン](/teams/top14/toulon) (2019 - 2021)
 - ヴォーダコム・ブルズ (2022 - 2023)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

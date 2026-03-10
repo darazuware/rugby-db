@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2024)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - )

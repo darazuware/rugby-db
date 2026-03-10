@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2018)
-- [トゥールーズ](/teams/top14/toulouse) (2018 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2018 - )

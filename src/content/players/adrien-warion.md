@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [トゥーロン](/teams/top14/toulon) (2020 - 2020)
 - Provence Rugby (2021 - 2021)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

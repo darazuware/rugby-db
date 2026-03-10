@@ -28,4 +28,4 @@ facebook: ""
 - Central Cheetahs (2022 - 2024)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2024)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
-- Central Cheetahs (2025 - 2025)
+- Central Cheetahs (2025 - )

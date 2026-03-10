@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2013 - 2017)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2020)
-- Castres Olympique (2020 - 2026)
+- [カストル](/teams/top14/castres) (2020 - )

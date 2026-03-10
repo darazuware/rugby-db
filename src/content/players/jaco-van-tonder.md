@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - [クレルモン](/teams/top14/clermont) (2016 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2023 - )

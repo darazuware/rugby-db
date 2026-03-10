@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2023)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - )

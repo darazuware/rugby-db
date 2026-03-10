@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Houston Sabercats (2018 - 2019)
 - Club Atlético Peñarol (2019 - 2020)
-- Castres Olympique (2020 - 2026)
+- [カストル](/teams/top14/castres) (2020 - )

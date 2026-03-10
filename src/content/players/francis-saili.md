@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ラシン92](/teams/top14/racing-92) (2022 - 2022)
 - Biarritz Olympique Pays Basque (2023 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2023 - 2025)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - Sunwolves (2019 - 2020)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- Aviron Bayonnais (2019 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - )

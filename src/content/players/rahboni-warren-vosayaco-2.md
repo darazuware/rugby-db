@@ -30,4 +30,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
 - CA Brive Corrèze Limousin (2023 - 2025)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - 2026)
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )

@@ -32,4 +32,4 @@ facebook: ""
 - エミレーツ・ライオンズ (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2023)
 - アルスター・ラグビー (2024 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

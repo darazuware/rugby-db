@@ -25,5 +25,5 @@ facebook: ""
 
 - [クレルモン](/teams/top14/clermont) (2006 - 2014)
 - US Colomiers (2015 - 2020)
-- Castres Olympique (2020 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2026)
+- [カストル](/teams/top14/castres) (2020 - 2025)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

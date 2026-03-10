@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - West Harbour RFC (2022 - 2023)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2024)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2025)
-- Castres Olympique (2025 - 2026)
+- [カストル](/teams/top14/castres) (2025 - )

@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - [クレルモン](/teams/top14/clermont) (2015 - 2023)
-- Section Paloise Béarn Pyrénées (2023 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - 2026)
+- [ポー](/teams/top14/pau) (2023 - 2024)
+- [スタッド・フランセ](/teams/top14/paris) (2024 - )

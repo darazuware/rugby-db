@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - 2026)
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )

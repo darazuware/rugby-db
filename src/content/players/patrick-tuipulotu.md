@@ -33,4 +33,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

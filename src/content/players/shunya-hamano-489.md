@@ -6,7 +6,7 @@ team: "NECグリーンロケッツ東葛"
 height: "182"
 weight: "108"
 birth_date: "1999.03.11"
-age: 26
+age: 27
 high_school: "秋田工業高校"
 university: "法政大学"
 caps: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - 2025)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

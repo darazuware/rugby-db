@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Barracudas de Saint-Barthélémy (2008 - 2016)
 - RC du Levant (2016 - 2017)
-- [トゥーロン](/teams/top14/toulon) (2017 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2017 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - メルボルン・レベルズ (2018 - 2023)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2025)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )

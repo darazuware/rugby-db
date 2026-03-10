@@ -6,7 +6,7 @@ team: "ラ・ロシェル"
 height: "193"
 weight: "99"
 birth_date: "2001.03.10"
-age: 24
+age: 25
 high_school: ""
 university: ""
 caps: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2007 - 2009)
 - Rugby Club du Pays Muzillacais (2009 - 2013)
 - [ヴァンヌ](/teams/top14/vannes) (2013 - 2016)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - )

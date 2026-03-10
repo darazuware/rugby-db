@@ -6,7 +6,7 @@ team: "日野レッドドルフィンズ"
 height: "184"
 weight: "90"
 birth_date: "1999.03.11"
-age: 26
+age: 27
 high_school: "佐賀工業高校"
 university: "関東学院大学"
 caps: "U20('19)、セブンズ日本(28)"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - 2026)
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )

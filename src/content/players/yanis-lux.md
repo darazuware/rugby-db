@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Neuilly-sur-Marne (2012 - 2018)
 - RC Champs-sur-Marne Val Maubuée (2018 - 2020)
-- [スタッド・フランセ](/teams/top14/paris) (2020 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2020 - )

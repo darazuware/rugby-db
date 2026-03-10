@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - FC Grenoble Rugby (2014 - 2016)
 - Stade Olympique Chambéry (2016 - 2019)
 - US Carcassonne (2019 - 2022)
-- Castres Olympique (2022 - 2026)
+- [カストル](/teams/top14/castres) (2022 - )

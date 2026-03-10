@@ -26,4 +26,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2020)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2020 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2025)
-- BlackRams Tokyo (2025 - 2026)
+- BlackRams Tokyo (2025 - )

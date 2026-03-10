@@ -26,4 +26,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2015)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2019)
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2026)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - [リヨン](/teams/top14/lyon) (2005 - 2021)
 - Valence Romans Drôme Rugby (2021 - 2025)
-- Castres Olympique (2025 - 2026)
+- [カストル](/teams/top14/castres) (2025 - )

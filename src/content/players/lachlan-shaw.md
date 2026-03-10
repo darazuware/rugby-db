@@ -28,4 +28,4 @@ facebook: ""
 - Manawatu Turbos (2023 - 2023)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - Manawatu Turbos (2024 - 2024)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

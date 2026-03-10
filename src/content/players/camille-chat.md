@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [ラシン92](/teams/top14/racing-92) (2013 - 2024)
 - [リヨン](/teams/top14/lyon) (2024 - 2024)
 - [ラシン92](/teams/top14/racing-92) (2025 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - )

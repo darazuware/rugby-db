@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Biarritz Olympique Pays Basque (2022 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

@@ -31,4 +31,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

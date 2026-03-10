@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2026)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

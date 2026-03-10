@@ -39,4 +39,4 @@ facebook: ""
 - Bay of Plenty Steamers (2019 - 2019)
 - London Irish (2019 - 2019)
 - FC Grenoble Rugby (2022 - 2024)
-- ハリウッドベッツ・シャークス (2024 - 2026)
+- ハリウッドベッツ・シャークス (2024 - )

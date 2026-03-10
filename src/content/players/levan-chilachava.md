@@ -25,6 +25,6 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - [トゥーロン](/teams/top14/toulon) (2009 - 2018)
 - [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
-- Castres Olympique (2020 - 2020)
+- [カストル](/teams/top14/castres) (2020 - 2020)
 - [モンペリエ](/teams/top14/montpellier) (2021 - 2021)
-- Castres Olympique (2021 - 2026)
+- [カストル](/teams/top14/castres) (2021 - )

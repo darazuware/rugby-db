@@ -36,4 +36,4 @@ facebook: ""
 - Northland Taniwha (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2025)
 - Northland Taniwha (2025 - 2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

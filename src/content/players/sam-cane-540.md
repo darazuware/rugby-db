@@ -28,4 +28,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2023)
 - Bay of Plenty Steamers (2020 - 2020)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2026)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - )

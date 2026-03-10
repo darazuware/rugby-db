@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
 - [スタッド・フランセ](/teams/top14/paris) (2024 - 2024)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2025 - )

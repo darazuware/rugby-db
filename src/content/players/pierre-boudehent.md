@@ -33,4 +33,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2024)
 - [スタッド・フランセ](/teams/top14/paris) (2025 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

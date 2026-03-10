@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - USON Nevers Rugby (2021 - 2021)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2022)
 - USON Nevers Rugby (2022 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2022 - )

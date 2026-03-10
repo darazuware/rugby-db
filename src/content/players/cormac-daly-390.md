@@ -28,4 +28,4 @@ facebook: ""
 - コナート・ラグビー (2020 - 2021)
 - Randwick Rugby (2022 - 2023)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )

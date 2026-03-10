@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Stade Nantais (2004 - 2013)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2020)
-- Section Paloise Béarn Pyrénées (2020 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ポー](/teams/top14/pau) (2020 - 2025)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Rugby Club Nîmois (2009 - 2019)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

@@ -30,4 +30,4 @@ facebook: ""
 - [ヴァンヌ](/teams/top14/vannes) (2021 - 2021)
 - Stade Montois Rugby Pro (2021 - 2021)
 - FC Grenoble Rugby (2021 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - 2026)
+- [クレルモン](/teams/top14/clermont) (2025 - )

@@ -27,4 +27,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - 2026)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

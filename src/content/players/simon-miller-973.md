@@ -26,4 +26,4 @@ facebook: ""
 - Western Province (2020 - 2022)
 - DHLストーマーズ (2022 - 2023)
 - ハリウッドベッツ・シャークス (2023 - 2024)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )

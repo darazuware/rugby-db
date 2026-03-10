@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Saracens (2013 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - )

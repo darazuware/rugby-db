@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Lazio (2015 - 2016)
-- Union Sportive Arlequins Perpignanais (2016 - 2020)
+- [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
 - [ヴァンヌ](/teams/top14/vannes) (2020 - 2023)
 - ベネットン・ラグビー・トレヴィーゾ (2023 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2025 - )

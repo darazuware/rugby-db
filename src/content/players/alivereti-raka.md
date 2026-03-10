@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [クレルモン](/teams/top14/clermont) (2014 - 2026)
+- [クレルモン](/teams/top14/clermont) (2014 - )

@@ -38,4 +38,4 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2021)
 - メルボルン・レベルズ (2022 - 2022)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

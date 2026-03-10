@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Racing Club Narbonnais (2008 - 2009)
-- Union Sportive Arlequins Perpignanais (2009 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2009 - )

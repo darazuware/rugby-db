@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )

@@ -6,7 +6,7 @@ team: "モンペリエ"
 height: "185"
 weight: "127"
 birth_date: "1994.03.09"
-age: 31
+age: 32
 high_school: ""
 university: ""
 caps: "France"
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - [モンペリエ](/teams/top14/montpellier) (2008 - 2023)
 - Biarritz Olympique Pays Basque (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2024 - )

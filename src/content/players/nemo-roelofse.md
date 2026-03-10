@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Sporting Club Albigeois (2017 - 2017)
 - USON Nevers Rugby (2017 - 2021)
 - [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2023 - )

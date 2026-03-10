@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Royal Kituro Rugby Club (2013 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2022 - )

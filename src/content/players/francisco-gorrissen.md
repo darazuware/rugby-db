@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Belgrano Athletic Club (2020 - 2020)
 - Jaguares XV (2021 - 2021)
 - Belgrano Athletic Club (2021 - 2021)
-- [ヴァンヌ](/teams/top14/vannes) (2021 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2021 - )

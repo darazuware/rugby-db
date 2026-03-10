@@ -28,4 +28,4 @@ facebook: ""
 - Manawatu Turbos (2023 - 2023)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2024)
 - Manawatu Turbos (2024 - 2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

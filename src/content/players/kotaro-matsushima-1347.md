@@ -30,4 +30,4 @@ facebook: ""
 - Sunwolves (2016 - 2018)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2020)
 - [クレルモン](/teams/top14/clermont) (2020 - 2022)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2026)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - )

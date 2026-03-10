@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [モンペリエ](/teams/top14/montpellier) (2011 - 2013)
 - Racing Club Narbonnais (2013 - 2014)
 - Rouen Normandie Rugby (2014 - 2018)
-- Castres Olympique (2018 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
+- [カストル](/teams/top14/castres) (2018 - 2024)
+- [モンペリエ](/teams/top14/montpellier) (2024 - )

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023 - )

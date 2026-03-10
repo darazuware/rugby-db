@@ -25,4 +25,4 @@ facebook: ""
 
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2022 - 2024)
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

@@ -28,4 +28,4 @@ facebook: ""
 - Northland Taniwha (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2025)
 - Northland Taniwha (2025 - 2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2026)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

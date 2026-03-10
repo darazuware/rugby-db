@@ -30,6 +30,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2025 - 2025)
-- Union Sportive Arlequins Perpignanais (2025 - 2025)
+- [ペルピニャン](/teams/top14/perpignan) (2025 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2026 - 2026)
-- Union Sportive Arlequins Perpignanais (2026 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2026 - )

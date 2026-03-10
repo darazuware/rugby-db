@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2025 - 2026)
+- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2025 - )

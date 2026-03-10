@@ -36,4 +36,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - Bay of Plenty Steamers (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - )

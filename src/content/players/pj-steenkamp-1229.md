@@ -26,4 +26,4 @@ facebook: ""
 - エミレーツ・ライオンズ (2018 - 2022)
 - エミレーツ・ライオンズ (2022 - 2023)
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - 2025)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )

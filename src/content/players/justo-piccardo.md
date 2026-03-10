@@ -25,4 +25,4 @@ facebook: ""
 
 - San Isidro Club (2020 - 2024)
 - Pampas XV (2024 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - )

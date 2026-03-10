@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ヴァンヌ](/teams/top14/vannes) (2025 - 2025)
 - Stade Nantais (2025 - 2025)
 - Stade Nantais (2026 - 2026)
-- [ヴァンヌ](/teams/top14/vannes) (2026 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2026 - )

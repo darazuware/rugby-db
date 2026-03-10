@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Union Sportive Athlétique de Limoges (2013 - 2014)
 - [クレルモン](/teams/top14/clermont) (2014 - 2020)
 - [ラシン92](/teams/top14/racing-92) (2020 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - )

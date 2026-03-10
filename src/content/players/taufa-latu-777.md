@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2022 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

@@ -6,7 +6,7 @@ team: "日本製鉄釜石シーウェイブス"
 height: "175"
 weight: "105"
 birth_date: "1998.03.11"
-age: 27
+age: 28
 high_school: "御所実業高校"
 university: ""
 caps: "U20,U23('18)"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - 2026)
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )

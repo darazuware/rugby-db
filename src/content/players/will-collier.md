@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Harlequins (2013 - 2024)
-- Castres Olympique (2024 - 2026)
+- [カストル](/teams/top14/castres) (2024 - )

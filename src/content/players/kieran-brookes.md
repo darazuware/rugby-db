@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Northampton Saints (2015 - 2018)
 - Wasps (2018 - 2021)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2024 - )

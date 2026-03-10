@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Seyssins (2006 - 2010)
 - FC Grenoble Rugby (2010 - 2019)
-- [リヨン](/teams/top14/lyon) (2019 - 2026)
+- [リヨン](/teams/top14/lyon) (2019 - )

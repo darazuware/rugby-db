@@ -29,4 +29,4 @@ facebook: ""
 - アルスター・ラグビー (2022 - 2023)
 - コナート・ラグビー (2023 - 2024)
 - アルスター・ラグビー (2024 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

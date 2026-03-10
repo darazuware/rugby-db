@@ -28,4 +28,4 @@ facebook: ""
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2025)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )

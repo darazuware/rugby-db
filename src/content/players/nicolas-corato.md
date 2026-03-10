@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Rugby Club Auch (2014 - 2017)
-- Section Paloise Béarn Pyrénées (2017 - 2024)
-- Castres Olympique (2024 - 2026)
+- [ポー](/teams/top14/pau) (2017 - 2024)
+- [カストル](/teams/top14/castres) (2024 - )

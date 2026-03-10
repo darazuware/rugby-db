@@ -37,4 +37,4 @@ facebook: ""
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2022)
 - West Harbour RFC (2022 - 2022)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

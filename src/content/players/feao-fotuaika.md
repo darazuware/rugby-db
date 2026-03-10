@@ -28,4 +28,4 @@ facebook: ""
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - [リヨン](/teams/top14/lyon) (2025 - 2025)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

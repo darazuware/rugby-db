@@ -29,4 +29,4 @@ facebook: ""
 - [トゥールーズ](/teams/top14/toulouse) (2020 - 2022)
 - Biarritz Olympique Pays Basque (2022 - 2023)
 - [トゥールーズ](/teams/top14/toulouse) (2023 - 2024)
-- Aviron Bayonnais (2024 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

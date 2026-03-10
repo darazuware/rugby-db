@@ -29,4 +29,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

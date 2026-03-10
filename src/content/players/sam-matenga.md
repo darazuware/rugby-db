@@ -34,4 +34,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2025)
 - Tasman Mako (2025 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

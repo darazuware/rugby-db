@@ -30,4 +30,4 @@ facebook: ""
 - Jaguares (2017 - 2017)
 - [リヨン](/teams/top14/lyon) (2017 - 2017)
 - [トゥーロン](/teams/top14/toulon) (2017 - 2025)
-- Section Paloise Béarn Pyrénées (2025 - 2026)
+- [ポー](/teams/top14/pau) (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Fukuoka Institute of Technology (2024 - 2025)
-- LeRIRO Fukuoka (2025 - 2026)
+- LeRIRO Fukuoka (2025 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Aviron Bayonnais (2013 - 2019)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2013 - 2019)
 - [クレルモン](/teams/top14/clermont) (2019 - 2023)
-- Aviron Bayonnais (2023 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

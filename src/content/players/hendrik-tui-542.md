@@ -26,4 +26,4 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2017)
 - Sunwolves (2018 - 2019)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2019 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

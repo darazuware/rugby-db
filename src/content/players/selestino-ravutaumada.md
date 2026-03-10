@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - New Zealand Warriors (2019 - 2020)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2025 - )

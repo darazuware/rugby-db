@@ -27,4 +27,4 @@ facebook: ""
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2024)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2025)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - 2025)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )

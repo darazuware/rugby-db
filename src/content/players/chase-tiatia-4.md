@@ -37,4 +37,4 @@ facebook: ""
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
 - Hawke's Bay Magpies (2023 - 2023)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2023)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

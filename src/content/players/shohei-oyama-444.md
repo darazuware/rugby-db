@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2022)
-- BlackRams Tokyo (2023 - 2026)
+- BlackRams Tokyo (2023 - )

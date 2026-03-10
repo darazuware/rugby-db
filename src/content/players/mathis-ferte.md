@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - US Luzechoise (2008 - 2014)
 - Cahors (2014 - 2018)
 - CA Brive Corrèze Limousin (2018 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2025 - )

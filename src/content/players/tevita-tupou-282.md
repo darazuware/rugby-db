@@ -26,4 +26,4 @@ facebook: ""
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - 2019)
 - Sunwolves (2019 - 2020)
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2020 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - LeRIRO Fukuoka (2024 - 2025)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

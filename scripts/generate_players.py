@@ -61,9 +61,22 @@ def format_career_md(career_str, current_team, name_en=""):
     # 昇順（古い順）に並べ替える
     parsed_entries.sort(key=lambda x: x['year'])
     
+    # 学歴を除外したプロキャリアのみを抽出
+    pro_entries = []
+    for entry in parsed_entries:
+        p = entry['text']
+        match = re.search(r'^(.+?) \(([\d\s\?\*]+) - ([\d\s\?\*]*)\)$', p)
+        if not match:
+            match = re.search(r'^(.+?) \(([\d\s\?\*]+)\)$', p)
+        
+        team = match.group(1).strip() if match else p.strip()
+        if any(kw in team for kw in ["University", "College", "School", "小学校", "中学校", "高校", "大学", "学園"]):
+            continue
+        pro_entries.append(entry)
+
     lines = []
     seen_lines = set()
-    for entry in parsed_entries:
+    for i, entry in enumerate(pro_entries):
         p = entry['text']
         match = re.search(r'^(.+?) \(([\d\s\?\*]+) - ([\d\s\?\*]*)\)$', p)
         if not match:
@@ -74,25 +87,30 @@ def format_career_md(career_str, current_team, name_en=""):
             start_p = match.group(2).strip()
             end_p = match.group(3).strip() if len(match.groups()) > 2 else ""
             
-            # 学歴は除外
-            if any(kw in team for kw in ["University", "College", "School", "小学校", "中学校", "高校", "大学", "学園"]):
-                continue
-            
-            # チーム名のクリーンアップ（カッコ内を消す前にマッピングで引く）
+            # チーム名のリンク化
             linked_team = get_team_link(team)
             
-            period = start_p
-            if end_p:
+            # 現在所属しているチーム（プロキャリアにおける最後のエントリ）
+            is_current = (i == len(pro_entries) - 1)
+            
+            # 終了年が 2025 年以降、または未設定の場合は「現在進行形」とみなす
+            if is_current:
+                if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
+                    period = f"{start_p} - "
+                else:
+                    period = f"{start_p} - {end_p}"
+            elif end_p:
                 period = f"{start_p} - {end_p}"
             elif '-' in p:
                 period = f"{start_p} - "
+            else:
+                period = start_p
             
             line = f"- {linked_team} ({period})"
             if line not in seen_lines:
                 lines.append(line)
                 seen_lines.add(line)
         else:
-            # 形式外
             linked = get_team_link(p)
             line = f"- {linked}"
             if line not in seen_lines:

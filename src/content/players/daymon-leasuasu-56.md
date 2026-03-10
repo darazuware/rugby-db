@@ -25,4 +25,4 @@ facebook: ""
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
 - BlackRams Tokyo (2019 - 2022)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2022 - 2026)
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2022 - )

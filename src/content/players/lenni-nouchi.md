@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Association Sportive Béziers Hérault (2009 - 2011)
 - Servian-Boujan Rugby (2011 - 2014)
 - Association Sportive Béziers Hérault (2014 - 2021)
-- [モンペリエ](/teams/top14/montpellier) (2021 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2021 - )

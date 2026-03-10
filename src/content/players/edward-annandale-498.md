@@ -27,4 +27,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
 - [クレルモン](/teams/top14/clermont) (2023 - 2023)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

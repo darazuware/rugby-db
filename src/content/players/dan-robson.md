@@ -25,6 +25,6 @@ facebook: ""
 
 - Gloucester Rugby (2013 - 2015)
 - Wasps (2015 - 2022)
-- Section Paloise Béarn Pyrénées (2022 - 2022)
+- [ポー](/teams/top14/pau) (2022 - 2022)
 - Wasps (2023 - 2023)
-- Section Paloise Béarn Pyrénées (2023 - 2026)
+- [ポー](/teams/top14/pau) (2023 - )

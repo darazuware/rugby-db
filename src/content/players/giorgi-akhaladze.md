@@ -26,4 +26,4 @@ facebook: ""
 - RC Aia Kutaisi (2017 - 2018)
 - Rugby Club Massy Essonne (2018 - 2021)
 - Association Sportive Béziers Hérault (2021 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - 2026)
+- [クレルモン](/teams/top14/clermont) (2024 - )

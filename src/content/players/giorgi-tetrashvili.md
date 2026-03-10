@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Sporting Club Albigeois (2012 - 2014)
 - Sporting Union Agenais (2014 - 2021)
-- Union Sportive Arlequins Perpignanais (2021 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2021 - )

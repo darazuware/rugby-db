@@ -27,4 +27,4 @@ facebook: ""
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2020)
 - Seattle Seawolves (2020 - 2021)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2022 - 2026)
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2022 - )

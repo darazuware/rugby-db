@@ -31,4 +31,4 @@ facebook: ""
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2025)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - 2024)
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - 2026)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )

@@ -28,4 +28,4 @@ facebook: ""
 - Rouen Normandie Rugby (2021 - 2021)
 - ヴォーダコム・ブルズ (2022 - 2022)
 - Rouen Normandie Rugby (2022 - 2022)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - 2026)
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

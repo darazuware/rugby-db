@@ -27,4 +27,4 @@ facebook: ""
 - Central Cheetahs (2018 - 2020)
 - ハリウッドベッツ・シャークス (2020 - 2022)
 - グラスゴー・ウォリアーズ (2022 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

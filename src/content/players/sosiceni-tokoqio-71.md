@@ -25,4 +25,4 @@ facebook: ""
 
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2023)
 - [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2023 - 2024)
-- ハリウッドベッツ・シャークス (2024 - 2026)
+- ハリウッドベッツ・シャークス (2024 - )

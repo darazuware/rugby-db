@@ -31,4 +31,4 @@ facebook: ""
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2021)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

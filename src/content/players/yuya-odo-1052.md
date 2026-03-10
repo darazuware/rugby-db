@@ -6,7 +6,7 @@ team: "静岡ブルーレヴズ"
 height: "187"
 weight: "100"
 birth_date: "1990.03.09"
-age: 35
+age: 36
 high_school: "正智深谷高校"
 university: "立命館大学"
 caps: "日本代表(5)"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2019)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - )

@@ -28,4 +28,4 @@ facebook: ""
 - Leicester Tigers (2020 - 2020)
 - Coventry Rugby (2021 - 2021)
 - Leicester Tigers (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

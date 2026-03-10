@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Racing Club Narbonnais (2017 - 2018)
-- Union Sportive Arlequins Perpignanais (2018 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2018 - )

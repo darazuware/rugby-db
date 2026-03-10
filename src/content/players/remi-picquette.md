@@ -27,4 +27,4 @@ facebook: ""
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2017)
 - [ヴァンヌ](/teams/top14/vannes) (2017 - 2021)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - 2026)
+- [ポー](/teams/top14/pau) (2024 - )

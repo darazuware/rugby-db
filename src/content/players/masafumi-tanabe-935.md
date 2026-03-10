@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

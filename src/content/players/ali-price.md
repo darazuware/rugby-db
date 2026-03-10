@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - エディンバラ・ラグビー (2023 - 2023)
 - グラスゴー・ウォリアーズ (2024 - 2024)
 - エディンバラ・ラグビー (2024 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2025 - )

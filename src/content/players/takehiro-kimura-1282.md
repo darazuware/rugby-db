@@ -25,4 +25,4 @@ facebook: ""
 
 - [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
 - sans club (2024 - 2025)
-- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2025 - 2026)
+- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2025 - )

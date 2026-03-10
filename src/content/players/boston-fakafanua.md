@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

@@ -6,7 +6,7 @@ team: "三重ホンダヒート"
 height: "189"
 weight: "113"
 birth_date: "1997.03.09"
-age: 28
+age: 29
 high_school: "ケルストンボーイズ"
 university: "拓殖大学"
 caps: "セブンズ日本(3)"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )

@@ -28,4 +28,4 @@ facebook: ""
 - Northland Taniwha (2024 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2025)
 - Northland Taniwha (2025 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

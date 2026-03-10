@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Canberra Vikings (2018 - 2019)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - )

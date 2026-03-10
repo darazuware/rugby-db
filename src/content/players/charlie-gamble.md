@@ -28,4 +28,4 @@ facebook: ""
 - Northern Suburbs RFC (2020 - 2020)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2021)
 - Northern Suburbs RFC (2021 - 2021)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - )

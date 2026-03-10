@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - FIDJI 7's (2019 - 2020)
-- Castres Olympique (2020 - 2026)
+- [カストル](/teams/top14/castres) (2020 - )

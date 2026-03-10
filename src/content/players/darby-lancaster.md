@@ -26,4 +26,4 @@ facebook: ""
 - Aussie 7's (2021 - 2023)
 - メルボルン・レベルズ (2023 - 2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

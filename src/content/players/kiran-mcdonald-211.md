@@ -29,4 +29,4 @@ facebook: ""
 - Newcastle (2023 - 2025)
 - Wasps (2023 - 2023)
 - マンスター・ラグビー (2023 - 2023)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - 2026)
+- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2024 - )

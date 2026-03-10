@@ -25,4 +25,4 @@ facebook: ""
 
 - Sainte-Geneviève Sports Rugby (2012 - 2014)
 - Rugby Club Massy Essonne (2016 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2024 - )

@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Rugby Club du Pays Muzillacais (2007 - 2014)
-- [ヴァンヌ](/teams/top14/vannes) (2014 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2014 - )

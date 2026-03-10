@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2021 - 2022)
-- LeRIRO Fukuoka (2024 - 2026)
+- LeRIRO Fukuoka (2024 - )

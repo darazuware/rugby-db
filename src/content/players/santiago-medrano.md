@@ -32,4 +32,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [リヨン](/teams/top14/lyon) (2023 - 2023)
 - [リヨン](/teams/top14/lyon) (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2024 - )

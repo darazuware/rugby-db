@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - AC Boulogne-Billancourt (2004 - 2011)
-- [ラシン92](/teams/top14/racing-92) (2011 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2011 - )

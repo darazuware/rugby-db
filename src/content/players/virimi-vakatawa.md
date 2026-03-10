@@ -31,4 +31,4 @@ facebook: ""
 - sans club (2023 - 2023)
 - Bristol Bears (2023 - 2024)
 - sans club (2024 - 2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Provence Rugby (2023 - 2023)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - 2024)
 - Provence Rugby (2024 - 2025)
-- [トゥールーズ](/teams/top14/toulouse) (2025 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2025 - )

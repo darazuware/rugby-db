@@ -27,4 +27,4 @@ facebook: ""
 - Manawatu Turbos (2023 - 2023)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2024)
 - Manawatu Turbos (2024 - 2024)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2026)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

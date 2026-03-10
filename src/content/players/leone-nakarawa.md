@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - [ラシン92](/teams/top14/racing-92) (2020 - 2020)
 - グラスゴー・ウォリアーズ (2020 - 2021)
 - [トゥーロン](/teams/top14/toulon) (2021 - 2022)
-- Castres Olympique (2022 - 2026)
+- [カストル](/teams/top14/castres) (2022 - )

@@ -31,4 +31,4 @@ facebook: ""
 - Northampton Saints (2022 - 2025)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - 2025)
 - Northampton Saints (2026 - 2026)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - 2026)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - )

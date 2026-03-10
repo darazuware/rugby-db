@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - [ヴァンヌ](/teams/top14/vannes) (2009 - 2017)
 - [ラシン92](/teams/top14/racing-92) (2017 - 2025)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

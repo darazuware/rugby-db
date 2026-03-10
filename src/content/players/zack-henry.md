@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - Leicester Tigers (2019 - 2019)
 - USON Nevers Rugby (2020 - 2020)
 - Leicester Tigers (2020 - 2021)
-- Section Paloise Béarn Pyrénées (2021 - 2023)
-- [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)
+- [ポー](/teams/top14/pau) (2021 - 2023)
+- [スタッド・フランセ](/teams/top14/paris) (2023 - )

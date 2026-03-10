@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2026)
+- [リヨン](/teams/top14/lyon) (2024 - )

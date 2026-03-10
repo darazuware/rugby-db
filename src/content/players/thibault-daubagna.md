@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- Section Paloise Béarn Pyrénées (1999 - 2026)
+- [ポー](/teams/top14/pau) (1999 - )

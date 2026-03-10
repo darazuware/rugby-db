@@ -29,5 +29,5 @@ facebook: ""
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
 - エミレーツ・ライオンズ (2020 - 2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
-- Castres Olympique (2021 - 2023)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - 2026)
+- [カストル](/teams/top14/castres) (2021 - 2023)
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - )

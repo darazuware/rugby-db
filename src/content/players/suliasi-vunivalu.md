@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - Melbourne Storm (2015 - 2020)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

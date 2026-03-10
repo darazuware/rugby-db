@@ -32,4 +32,4 @@ facebook: ""
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2024)
 - ヴォーダコム・ブルズ (2022 - 2022)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2026)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )

@@ -29,4 +29,4 @@ facebook: ""
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2024)
 - North Harbour (2024 - 2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )

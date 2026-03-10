@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - [ヴァンヌ](/teams/top14/vannes) (2023 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2024 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2026)
+- [リヨン](/teams/top14/lyon) (2025 - )

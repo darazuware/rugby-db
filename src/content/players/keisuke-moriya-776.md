@@ -26,4 +26,4 @@ facebook: ""
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - 2019)
 - Sunwolves (2019 - 2020)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
