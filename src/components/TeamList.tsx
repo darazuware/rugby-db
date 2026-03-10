@@ -207,7 +207,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                         <div className="relative z-20 flex-grow">
 
                                             <h3 className="text-xl font-black text-gray-900 mb-2 group-hover:text-yellow-600 transition-colors leading-tight flex items-start flex-wrap gap-2">
-                                            {(team.flag || (team.league !== 'league-one' && team.legal_entity && team.legal_entity !== team.host_area)) && (
+                                            {(team.flag || (team.league !== 'league-one' && team.legal_entity)) && (
                                                 <div className="flex items-center gap-1.5 bg-gray-100 px-2 py-0.5 rounded-lg text-xs font-black text-gray-500 mb-1">
                                                     {team.flag && <span className="text-base">{team.flag}</span>}
                                                     {team.league !== 'league-one' && team.legal_entity && <span>{team.legal_entity}</span>}

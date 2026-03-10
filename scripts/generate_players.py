@@ -78,9 +78,10 @@ def format_career_md(career_str, current_team, name_en=""):
     seen_lines = set()
     for i, entry in enumerate(pro_entries):
         p = entry['text']
-        match = re.search(r'^(.+?) \(([\d\s\?\*]+) - ([\d\s\?\*]*)\)$', p)
+        # より柔軟な正規表現 (スペースなしや特殊記号に対応)
+        match = re.search(r'^(.+?)\s*\(([\d\s\?\*]+)\s*-\s*([\d\s\?\*]*)\)$', p)
         if not match:
-            match = re.search(r'^(.+?) \(([\d\s\?\*]+)\)$', p)
+            match = re.search(r'^(.+?)\s*\(([\d\s\?\*]+)\)$', p)
         
         if match:
             team = match.group(1).strip()
@@ -94,6 +95,7 @@ def format_career_md(career_str, current_team, name_en=""):
             is_current = (i == len(pro_entries) - 1)
             
             # 終了年が 2025 年以降、または未設定の場合は「現在進行形」とみなす
+            # また、元々の文字列にハイフンがあり、終了年が空の場合も現在進行形
             if is_current:
                 if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
                     period = f"{start_p} - "
@@ -101,7 +103,7 @@ def format_career_md(career_str, current_team, name_en=""):
                     period = f"{start_p} - {end_p}"
             elif end_p:
                 period = f"{start_p} - {end_p}"
-            elif '-' in p:
+            elif '-' in p or ' - ' in p:
                 period = f"{start_p} - "
             else:
                 period = start_p

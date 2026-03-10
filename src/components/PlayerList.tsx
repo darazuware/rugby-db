@@ -602,8 +602,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <div className="flex flex-wrap gap-2">
                                 {(['age', 'height', 'weight', 'tries', 'matches', 'starts', 'minutes'] as const).map(key => {
                                     const isScoreSort = ['tries', 'matches', 'starts', 'minutes'].includes(key);
-                                    // Top 14 が選択されている場合は、スコア属性でのソートを非表示にする
-                                    const isTop14 = isTop14Selected || (leagueContext === 'top14');
+                                    // Top 14 が選択されている、または Top 14 コンテキストの場合はスコア系ソートを隠す
+                                    const isTop14 = isTop14Selected || (leagueContext === 'top14') || selectedLeagues.includes('top14');
                                     const showSort = (!isScoreSort || filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true")) && !(isScoreSort && isTop14);
 
                                     if (!showSort) return null;
