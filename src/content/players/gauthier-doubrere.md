@@ -28,4 +28,4 @@ facebook: ""
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2018)
 - Biarritz Olympique Pays Basque (2018 - 2021)
 - Stade Montois Rugby Pro (2021 - 2022)
-- [カストル](/teams/top14/castres) (2022 - )
+- [カストル](/teams/top14/castres) (2022 - 2026)

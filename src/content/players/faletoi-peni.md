@@ -26,6 +26,6 @@ facebook: ""
 - Southland Stags (2023 - 2024)
 - New England Free Jacks (2024 - 2024)
 - Southland Stags (2024 - 2024)
-- New England Free Jacks (2025 - 2025)
-- Southland Stags (2025 - 2025)
+- New England Free Jacks (2025 - )
+- Southland Stags (2025 - )
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

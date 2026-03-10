@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2023 - )
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2023 - 2026)

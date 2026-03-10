@@ -26,6 +26,5 @@ facebook: ""
 - Manawatu Turbos (2020 - 2023)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2024)
 - Manawatu Turbos (2024 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2025)
-- Manawatu Turbos (2025 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- Manawatu Turbos (2025 - )

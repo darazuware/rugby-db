@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Salanque XV (2013 - 2022)
-- [ペルピニャン](/teams/top14/perpignan) (2022 - )
+- [ペルピニャン](/teams/top14/perpignan) (2022 - 2026)

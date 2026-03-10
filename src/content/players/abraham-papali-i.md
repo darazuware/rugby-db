@@ -32,4 +32,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - エミレーツ・ライオンズ (2020 - 2020)
 - コナート・ラグビー (2020 - 2022)
 - CA Brive Corrèze Limousin (2022 - 2023)
-- [カストル](/teams/top14/castres) (2023 - )
+- [カストル](/teams/top14/castres) (2023 - 2026)

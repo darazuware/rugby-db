@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Oyonnax Rugby (2011 - 2018)
 - [リヨン](/teams/top14/lyon) (2018 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)

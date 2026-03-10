@@ -27,4 +27,4 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2022)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - )
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2026)

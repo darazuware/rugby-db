@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2026)

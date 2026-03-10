@@ -28,4 +28,4 @@ facebook: ""
 - Malemort XV (2009 - 2010)
 - CA Brive Corrèze Limousin (2010 - 2014)
 - [クレルモン](/teams/top14/clermont) (2014 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)

@@ -34,6 +34,6 @@ facebook: ""
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - 2025)
 - ドラゴンズ・ラグビー (2025 - 2025)
 - スカーレッツ (2025 - 2025)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2026 - 2026)
-- ドラゴンズ・ラグビー (2026 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2026 - )
+- ドラゴンズ・ラグビー (2026 - )
 - スカーレッツ (2026 - )

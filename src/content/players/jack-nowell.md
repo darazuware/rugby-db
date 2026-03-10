@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2026)

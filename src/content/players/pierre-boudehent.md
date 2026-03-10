@@ -32,5 +32,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - 2025)
+- [スタッド・フランセ](/teams/top14/paris) (2025 - )
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

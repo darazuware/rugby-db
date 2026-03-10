@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Club Omnisports Gargenville (2007 - 2015)
 - Rugby Club Massy Essonne (2015 - 2020)
-- [リヨン](/teams/top14/lyon) (2020 - )
+- [リヨン](/teams/top14/lyon) (2020 - 2026)

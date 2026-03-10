@@ -29,5 +29,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Union Sportive Montalbanaise (2017 - 2022)
 - Biarritz Olympique Pays Basque (2022 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2024)
-- Biarritz Olympique Pays Basque (2025 - 2025)
+- Biarritz Olympique Pays Basque (2025 - )
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

@@ -34,6 +34,6 @@ facebook: ""
 - North Harbour (2024 - 2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
-- BlackRams Tokyo (2025 - 2026)
-- North Harbour (2025 - 2025)
+- BlackRams Tokyo (2025 - )
+- North Harbour (2025 - )
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

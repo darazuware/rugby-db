@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - AAS Sarcelles Rugby (2008 - 2014)
-- [ラシン92](/teams/top14/racing-92) (2014 - )
+- [ラシン92](/teams/top14/racing-92) (2014 - 2026)

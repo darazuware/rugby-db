@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Lombez Samatan (2004 - 2013)
-- [トゥールーズ](/teams/top14/toulouse) (2013 - )
+- [トゥールーズ](/teams/top14/toulouse) (2013 - 2026)

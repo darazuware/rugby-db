@@ -25,4 +25,4 @@ facebook: ""
 
 - Union Sportive Athlétique de Limoges (2012 - 2013)
 - US Colomiers (2013 - 2019)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - 2026)

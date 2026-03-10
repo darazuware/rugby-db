@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2015 - 2019)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2026)

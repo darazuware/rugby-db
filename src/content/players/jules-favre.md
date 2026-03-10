@@ -23,4 +23,4 @@ twitter: "https://www.twitter.com/jul83000_favre"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2026)

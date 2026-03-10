@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Stade Montois Rugby Pro (2021 - 2021)
 - [ペルピニャン](/teams/top14/perpignan) (2022 - 2022)
 - Stade Montois Rugby Pro (2022 - 2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- [ヴァンヌ](/teams/top14/vannes) (2022 - 2026)

@@ -26,5 +26,5 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2018 - 2022)
 - エミレーツ・ライオンズ (2022 - 2024)
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2024)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )
 - エミレーツ・ライオンズ (2025 - )

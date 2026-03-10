@@ -26,6 +26,5 @@ facebook: ""
 - Samoa 7's (2021 - 2022)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
 - Hawke's Bay Magpies (2024 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2025)
-- Hawke's Bay Magpies (2025 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- Hawke's Bay Magpies (2025 - )

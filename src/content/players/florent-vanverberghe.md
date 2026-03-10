@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - [トゥーロン](/teams/top14/toulon) (2006 - 2020)
-- [カストル](/teams/top14/castres) (2020 - )
+- [カストル](/teams/top14/castres) (2020 - 2026)

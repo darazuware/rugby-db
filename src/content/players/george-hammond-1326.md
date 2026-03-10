@@ -33,6 +33,6 @@ facebook: ""
 - London Scottish (2023 - 2023)
 - Harlequins (2023 - 2023)
 - London Scottish (2024 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - 2026)
-- London Scottish (2025 - 2025)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )
+- London Scottish (2025 - )
 - Harlequins (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Dax Rugby Landes (2014 - 2015)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2026)

@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2016)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2017)
 - Provence Rugby (2017 - 2020)
-- [ヴァンヌ](/teams/top14/vannes) (2020 - )
+- [ヴァンヌ](/teams/top14/vannes) (2020 - 2026)

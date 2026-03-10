@@ -25,4 +25,4 @@ facebook: ""
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2016)
 - Sunwolves (2018 - 2019)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2026)

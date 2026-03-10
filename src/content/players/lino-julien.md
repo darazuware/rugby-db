@@ -28,5 +28,5 @@ facebook: ""
 - USON Nevers Rugby (2021 - 2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2025)
 - Provence Rugby (2025 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2026 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2026 - )
 - Provence Rugby (2026 - )

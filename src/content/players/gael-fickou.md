@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [スタッド・フランセ](/teams/top14/paris) (2018 - 2020)
 - [ラシン92](/teams/top14/racing-92) (2020 - 2020)
 - [スタッド・フランセ](/teams/top14/paris) (2021 - 2021)
-- [ラシン92](/teams/top14/racing-92) (2021 - )
+- [ラシン92](/teams/top14/racing-92) (2021 - 2026)

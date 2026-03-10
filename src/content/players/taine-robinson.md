@@ -29,6 +29,5 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
 - Tasman Mako (2024 - 2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2025)
-- Tasman Mako (2025 - 2025)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- Tasman Mako (2025 - )

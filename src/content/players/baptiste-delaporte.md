@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Olympique Labruguière XV (2004 - 2010)
 - Sor Agout XV (2010 - 2011)
-- [カストル](/teams/top14/castres) (2011 - )
+- [カストル](/teams/top14/castres) (2011 - 2026)

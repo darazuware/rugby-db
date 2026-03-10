@@ -28,4 +28,4 @@ facebook: ""
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2017 - 2019)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2019)
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020 - 2020)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - )
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - 2026)

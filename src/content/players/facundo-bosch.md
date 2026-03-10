@@ -26,4 +26,4 @@ facebook: ""
 - Jaguares (2015 - 2017)
 - Sporting Union Agenais (2017 - 2019)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2026)

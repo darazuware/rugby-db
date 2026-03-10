@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Saint-Savin (2009 - 2014)
 - CS Bourgoin Jallieu Rugby (2014 - 2017)
-- [リヨン](/teams/top14/lyon) (2017 - )
+- [リヨン](/teams/top14/lyon) (2017 - 2026)

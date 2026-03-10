@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Parentis Sport Rugby (2004 - 2009)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2009 - 2019)
-- [トゥーロン](/teams/top14/toulon) (2019 - )
+- [トゥーロン](/teams/top14/toulon) (2019 - 2026)

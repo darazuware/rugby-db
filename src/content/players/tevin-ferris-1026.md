@@ -25,4 +25,4 @@ facebook: ""
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
 - Manly Marlins (2020 - 2021)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - )
+- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - 2026)

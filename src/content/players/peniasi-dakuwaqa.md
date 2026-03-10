@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Tupapa Maraerenga Panthers (2020 - 2021)
 - Club fidjien (2021 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- [スタッド・フランセ](/teams/top14/paris) (2022 - 2026)

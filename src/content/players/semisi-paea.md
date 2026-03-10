@@ -31,6 +31,5 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2023)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
 - Bay of Plenty Steamers (2024 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2025)
-- Bay of Plenty Steamers (2025 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- Bay of Plenty Steamers (2025 - )

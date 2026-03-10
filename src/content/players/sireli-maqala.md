@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - FIDJI 7's (2020 - 2021)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - 2026)

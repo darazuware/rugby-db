@@ -26,6 +26,6 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2023)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2023)
 - Bath Rugby (2023 - 2023)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2024)
 - Bath Rugby (2024 - 2024)

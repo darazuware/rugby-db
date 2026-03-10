@@ -25,4 +25,4 @@ facebook: ""
 
 - Avenir Valencien (2011 - 2018)
 - Sporting Union Agenais (2018 - 2021)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2026)

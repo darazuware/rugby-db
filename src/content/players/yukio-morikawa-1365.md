@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2015 - )
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2015 - 2026)

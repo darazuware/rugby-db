@@ -25,4 +25,4 @@ facebook: ""
 
 - ハリウッドベッツ・シャークス (2013 - 2015)
 - DHLストーマーズ (2015 - 2021)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - 2026)

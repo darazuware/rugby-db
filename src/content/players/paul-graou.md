@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Rugby Club Auch (2004 - 2017)
 - Union Sportive Montalbanaise (2017 - 2021)
 - Sporting Union Agenais (2021 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - )
+- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)

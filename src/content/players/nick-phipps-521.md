@@ -25,4 +25,4 @@ facebook: ""
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
 - London Irish (2019 - 2022)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2022 - )
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2022 - 2026)

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2015 - )
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2015 - 2026)

@@ -29,6 +29,6 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2025)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

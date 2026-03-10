@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sport Athlétique Mauléonais (2007 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2026)

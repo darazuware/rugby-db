@@ -34,6 +34,5 @@ facebook: ""
 - Counties Manukau Steelers (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
 - Counties Manukau Steelers (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2025)
-- Counties Manukau Steelers (2025 - 2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- Counties Manukau Steelers (2025 - )

@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2022)
 - [トゥーロン](/teams/top14/toulon) (2022 - 2023)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2026)

@@ -26,6 +26,5 @@ facebook: ""
 - Nadroga (2021 - 2022)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2024)
 - ヴォーダコム・ブルズ (2024 - 2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - 2025)
-- ヴォーダコム・ブルズ (2025 - 2025)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+- ヴォーダコム・ブルズ (2025 - )

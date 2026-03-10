@@ -25,4 +25,4 @@ facebook: ""
 
 - [ポー](/teams/top14/pau) (2016 - 2017)
 - Stade Aurillacois Cantal Auvergne (2017 - 2020)
-- [クレルモン](/teams/top14/clermont) (2020 - )
+- [クレルモン](/teams/top14/clermont) (2020 - 2026)

@@ -34,6 +34,6 @@ facebook: ""
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2023 - 2024)
 - Tasman Mako (2024 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2025)
-- Tasman Mako (2025 - 2025)
+- [トゥーロン](/teams/top14/toulon) (2025 - )
+- Tasman Mako (2025 - )
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

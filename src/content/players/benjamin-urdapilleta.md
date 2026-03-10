@@ -28,6 +28,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [カストル](/teams/top14/castres) (2015 - 2023)
 - [クレルモン](/teams/top14/clermont) (2023 - 2024)
 - Club Universitario de Buenos Aires (2024 - 2024)
-- [クレルモン](/teams/top14/clermont) (2025 - 2025)
-- Club Universitario de Buenos Aires (2025 - 2025)
+- [クレルモン](/teams/top14/clermont) (2025 - )
+- Club Universitario de Buenos Aires (2025 - )
 - [ペルピニャン](/teams/top14/perpignan) (2025 - )

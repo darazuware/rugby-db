@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [カストル](/teams/top14/castres) (2023 - )
+- [カストル](/teams/top14/castres) (2023 - 2026)

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013)
 - Biarritz Olympique Pays Basque (2013 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- [スタッド・フランセ](/teams/top14/paris) (2022 - 2026)

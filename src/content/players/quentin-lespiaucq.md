@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - Mugron (2004 - 2010)
 - US Dax Rugby Landes (2010 - 2015)
 - [ポー](/teams/top14/pau) (2015 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2026)

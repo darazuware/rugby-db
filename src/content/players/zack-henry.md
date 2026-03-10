@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - USON Nevers Rugby (2020 - 2020)
 - Leicester Tigers (2020 - 2021)
 - [ポー](/teams/top14/pau) (2021 - 2023)
-- [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)

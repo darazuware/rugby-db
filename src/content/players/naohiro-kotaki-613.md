@@ -25,4 +25,4 @@ facebook: ""
 
 - Sunwolves (2015 - 2017)
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2017 - 2021)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2026)

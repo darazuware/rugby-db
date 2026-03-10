@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2026)

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ハリウッドベッツ・シャークス (2019 - 2023)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2023 - )
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2023 - 2026)

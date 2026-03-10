@@ -38,6 +38,5 @@ facebook: ""
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - Waikato Mooloos (2024 - 2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - 2025)
-- Waikato Mooloos (2025 - 2025)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- Waikato Mooloos (2025 - )

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - )
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2026)

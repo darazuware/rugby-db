@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - AS Bages Villeneuve (2006 - 2012)
-- [ペルピニャン](/teams/top14/perpignan) (2013 - )
+- [ペルピニャン](/teams/top14/perpignan) (2013 - 2026)

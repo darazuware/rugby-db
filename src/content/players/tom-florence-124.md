@@ -37,6 +37,6 @@ facebook: ""
 - NOLA Gold (2023 - 2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
 - ヴォーダコム・ブルズ (2023 - 2023)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - 2026)
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - )
 - NOLA Gold (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)

@@ -32,4 +32,4 @@ facebook: ""
 - ヴォーダコム・ブルズ (2021 - 2021)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
 - ヴォーダコム・ブルズ (2022 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - )
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2026)

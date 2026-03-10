@@ -30,4 +30,4 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2023)
 - Hawke's Bay Magpies (2022 - 2022)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2023 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2023 - 2026)

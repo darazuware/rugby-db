@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2022 - )
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2022 - 2026)

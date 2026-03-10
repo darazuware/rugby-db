@@ -34,6 +34,6 @@ facebook: ""
 - エミレーツ・ライオンズ (2022 - 2022)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2022)
 - エミレーツ・ライオンズ (2023 - 2023)
-- BlackRams Tokyo (2024 - 2026)
+- BlackRams Tokyo (2024 - )
 - エミレーツ・ライオンズ (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)

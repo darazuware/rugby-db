@@ -27,4 +27,4 @@ facebook: ""
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2021)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2026)

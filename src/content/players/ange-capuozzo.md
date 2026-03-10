@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - US Deux Ponts Rugby (2005 - 2010)
 - FC Grenoble Rugby (2010 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - )
+- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)

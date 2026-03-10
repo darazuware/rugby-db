@@ -25,4 +25,4 @@ facebook: ""
 
 - Rugby Trévoux Châtillon (2010 - 2014)
 - Union Sportive Bressane Pays de l'Ain (2014 - 2021)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2026)

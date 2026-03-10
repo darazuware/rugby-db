@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Avenir Moissagais (2011 - 2016)
 - Sporting Union Agenais (2016 - 2018)
 - Avenir Valencien (2018 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - )
+- [トゥールーズ](/teams/top14/toulouse) (2022 - 2026)

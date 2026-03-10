@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - ASUB Rugby Waterloo (2005 - 2015)
 - Club Newman (2017 - 2018)
 - Wasps (2019 - 2020)
-- [トゥールーズ](/teams/top14/toulouse) (2020 - )
+- [トゥールーズ](/teams/top14/toulouse) (2020 - 2026)

@@ -31,4 +31,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - Sporting Union Agenais (2020 - 2020)
 - Jaguares (2020 - 2020)
 - Jaguares XV (2020 - 2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2026)

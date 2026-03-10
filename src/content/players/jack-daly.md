@@ -25,5 +25,5 @@ facebook: ""
 
 - マンスター・ラグビー (2017 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
-- マンスター・ラグビー (2025 - 2025)
+- マンスター・ラグビー (2025 - )
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

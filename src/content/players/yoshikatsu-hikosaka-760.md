@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2013 - )
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2013 - 2026)

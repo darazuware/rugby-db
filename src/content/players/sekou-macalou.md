@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - AAS Sarcelles Rugby (2005 - 2011)
 - Rugby Club Massy Essonne (2011 - 2015)
-- [スタッド・フランセ](/teams/top14/paris) (2015 - )
+- [スタッド・フランセ](/teams/top14/paris) (2015 - 2026)

@@ -30,6 +30,6 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2022)
 - Bay of Plenty Steamers (2023 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )
 - Bay of Plenty Steamers (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)

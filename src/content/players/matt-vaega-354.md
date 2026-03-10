@@ -25,4 +25,4 @@ facebook: ""
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
 - North Harbour (2016 - 2017)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2018 - )
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2018 - 2026)

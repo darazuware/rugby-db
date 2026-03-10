@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - Rugby Ovalie Lorient (2011 - 2020)
 - [ヴァンヌ](/teams/top14/vannes) (2020 - 2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2026)

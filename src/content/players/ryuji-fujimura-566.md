@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - )
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2026)

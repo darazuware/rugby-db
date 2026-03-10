@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rueil Athlétic Club Rugby (2013 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - )
+- [スタッド・フランセ](/teams/top14/paris) (2019 - 2026)

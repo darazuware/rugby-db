@@ -28,4 +28,4 @@ facebook: ""
 - Sunwolves (2018 - 2018)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2019 - 2022)
 - Sunwolves (2019 - 2019)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2026)

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Edmonton Rugby Union (2018 - 2019)
 - Racing Club Narbonnais (2019 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - )
+- [モンペリエ](/teams/top14/montpellier) (2020 - 2026)

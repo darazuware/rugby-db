@@ -91,12 +91,11 @@ def format_career_md(career_str, current_team, name_en=""):
             # チーム名のリンク化
             linked_team = get_team_link(team)
             
-            # 現在所属しているチーム（プロキャリアにおける最後のエントリ）
-            is_current = (i == len(pro_entries) - 1)
+            # 現在所属しているチームの判定（年度が最新で、かつ 2024 年以降）
+            is_newest_year = (entry['year'] == max(e['year'] for e in pro_entries))
             
-            # 終了年が 2025 年以降、または未設定の場合は「現在進行形」とみなす
-            # また、元々の文字列にハイフンがあり、終了年が空の場合も現在進行形
-            if is_current:
+            if is_newest_year and entry['year'] >= CURRENT_YEAR - 2:
+                # 最新年度のエントリかつ、終了年が空または意図的に設定されている（2025以降）
                 if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
                     period = f"{start_p} - "
                 else:

@@ -23,4 +23,4 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- [トゥールーズ](/teams/top14/toulouse) (2004 - )
+- [トゥールーズ](/teams/top14/toulouse) (2004 - 2026)

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2017)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - )
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - 2026)

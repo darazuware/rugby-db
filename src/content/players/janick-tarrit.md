@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - U.S. Tours (2013 - 2014)
 - Belleville RC (2014 - 2016)
 - USON Nevers Rugby (2016 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - )
+- [ラシン92](/teams/top14/racing-92) (2022 - 2026)

@@ -28,4 +28,4 @@ facebook: ""
 - Racing Le Plessis-Robinson (2012 - 2014)
 - AC Boulogne-Billancourt (2014 - 2016)
 - RC Aubergenville Elisabethville (2016 - 2019)
-- [ラシン92](/teams/top14/racing-92) (2019 - )
+- [ラシン92](/teams/top14/racing-92) (2019 - 2026)

@@ -31,6 +31,5 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - Bay of Plenty Steamers (2024 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
-- Bay of Plenty Steamers (2025 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- Bay of Plenty Steamers (2025 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ヴォーダコム・ブルズ (2013 - 2019)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2019 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2019 - 2026)

@@ -602,21 +602,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <div className="flex flex-wrap gap-2">
                                 {(['age', 'height', 'weight', 'tries', 'matches', 'starts', 'minutes'] as const).map(key => {
                                     const isScoreSort = ['tries', 'matches', 'starts', 'minutes'].includes(key);
-                                    // Top 14 の固定ページ、またはフィルタで Top 14 が明示的に選択されている場合に隠す
-                                    const isTop14Context = leagueContext === 'top14';
-                                    const isTop14Filtered = selectedLeagues.includes('top14');
-                                    const includesTop14 = isTop14Context || isTop14Filtered;
                                     
-                                    let showSort = false;
+                                    // Top 14 の固定ページ、またはフィルタで Top 14 が明示的に選択されている場合に隠す
+                                    const includesTop14 = (leagueContext === 'top14') || selectedLeagues.includes('top14');
+                                    
                                     if (isScoreSort) {
-                                        // スコア系項目の場合：Top 14 が含まれておらず、かつスコアデータを持つ選手が一人でもいる場合のみ表示
-                                        showSort = !includesTop14 && filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true");
-                                    } else {
-                                        // それ以外（年齢・身長・体重）は常に表示
-                                        showSort = true;
+                                        // スコア系項目：Top 14 が関与しておらず、かつスコアデータがある場合のみ表示
+                                        if (includesTop14) return null;
+                                        if (!filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true")) return null;
                                     }
-
-                                    if (!showSort) return null;
 
                                     return (
                                         <button

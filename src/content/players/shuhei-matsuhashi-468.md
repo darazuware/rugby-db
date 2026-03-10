@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2019)
-- BlackRams Tokyo (2019 - )
+- BlackRams Tokyo (2019 - 2026)

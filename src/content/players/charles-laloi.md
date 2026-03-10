@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - CA Périgueux Dordogne (2008 - 2018)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2021)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - )
+- [スタッド・フランセ](/teams/top14/paris) (2021 - 2026)

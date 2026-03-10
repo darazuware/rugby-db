@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Rugby Ouest Cotentin (2015 - 2017)
-- [ヴァンヌ](/teams/top14/vannes) (2017 - )
+- [ヴァンヌ](/teams/top14/vannes) (2017 - 2026)

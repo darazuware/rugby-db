@@ -27,4 +27,4 @@ facebook: ""
 - Waikato Mooloos (2019 - 2019)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
 - Waikato Mooloos (2020 - 2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - )
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2026)

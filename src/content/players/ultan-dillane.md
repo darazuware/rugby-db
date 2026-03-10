@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - コナート・ラグビー (2014 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2026)

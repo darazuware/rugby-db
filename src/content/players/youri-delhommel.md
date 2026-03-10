@@ -28,4 +28,4 @@ facebook: ""
 - [モンペリエ](/teams/top14/montpellier) (2018 - 2018)
 - Rugby Club Massy Essonne (2019 - 2019)
 - [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- [ポー](/teams/top14/pau) (2021 - 2026)

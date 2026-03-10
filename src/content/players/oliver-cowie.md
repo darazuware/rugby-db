@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Club du Golfe (2013 - 2020)
-- [トゥーロン](/teams/top14/toulon) (2020 - )
+- [トゥーロン](/teams/top14/toulon) (2020 - 2026)

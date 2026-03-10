@@ -25,4 +25,4 @@ facebook: ""
 
 - Sunwolves (2017 - 2019)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2019 - 2022)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2026)

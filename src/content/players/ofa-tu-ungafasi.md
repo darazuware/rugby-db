@@ -30,4 +30,4 @@ facebook: ""
 - Northland Taniwha (2021 - 2021)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
 - Northland Taniwha (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2026)

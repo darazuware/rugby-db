@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - Harlequins (2019 - 2019)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
 - Harlequins (2020 - 2023)
-- [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)

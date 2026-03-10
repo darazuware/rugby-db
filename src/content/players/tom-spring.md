@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Nafarroa (2008 - 2021)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - 2026)

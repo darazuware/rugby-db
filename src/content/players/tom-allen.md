@@ -26,6 +26,5 @@ facebook: ""
 - Hawke's Bay Magpies (2022 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

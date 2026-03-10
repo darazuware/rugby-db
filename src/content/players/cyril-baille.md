@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Cercle Amical Lannemezanais (2003 - 2009)
-- [トゥールーズ](/teams/top14/toulouse) (2009 - )
+- [トゥールーズ](/teams/top14/toulouse) (2009 - 2026)

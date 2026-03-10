@@ -35,6 +35,5 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

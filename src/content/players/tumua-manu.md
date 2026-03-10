@@ -28,4 +28,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2019)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
-- [ポー](/teams/top14/pau) (2020 - )
+- [ポー](/teams/top14/pau) (2020 - 2026)

@@ -26,5 +26,5 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2025)
 - ベネットン・ラグビー・トレヴィーゾ (2025 - 2025)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - 2025)
-- ベネットン・ラグビー・トレヴィーゾ (2026 - 2026)
+- ベネットン・ラグビー・トレヴィーゾ (2026 - )
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )

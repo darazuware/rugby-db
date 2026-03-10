@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2023)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - 2026)

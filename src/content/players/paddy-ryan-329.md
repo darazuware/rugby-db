@@ -34,6 +34,6 @@ facebook: ""
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2022)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2023)
-- BlackRams Tokyo (2024 - 2026)
+- BlackRams Tokyo (2024 - )
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2024)
 - BlackRams Tokyo (2024 - 2024)

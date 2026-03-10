@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Saint-Palais Amikuze (2009 - 2018)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2026)

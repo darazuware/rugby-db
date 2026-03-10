@@ -29,5 +29,5 @@ facebook: "https://www.facebook.com/staderochelais"
 - FC Grenoble Rugby (2020 - 2022)
 - [カストル](/teams/top14/castres) (2022 - 2025)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2025)
-- [カストル](/teams/top14/castres) (2026 - 2026)
+- [カストル](/teams/top14/castres) (2026 - )
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2026 - )

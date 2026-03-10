@@ -23,4 +23,4 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ペルピニャン](/teams/top14/perpignan) (2009 - )
+- [ペルピニャン](/teams/top14/perpignan) (2009 - 2026)

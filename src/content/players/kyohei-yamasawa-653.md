@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - )
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2026)

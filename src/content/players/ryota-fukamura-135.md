@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2021 - 2022)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - 2026)

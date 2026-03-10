@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Jaguares (2015 - 2020)
-- [ペルピニャン](/teams/top14/perpignan) (2020 - )
+- [ペルピニャン](/teams/top14/perpignan) (2020 - 2026)

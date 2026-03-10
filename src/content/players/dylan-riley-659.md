@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Brisbane City (2017 - 2018)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - )
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - 2026)

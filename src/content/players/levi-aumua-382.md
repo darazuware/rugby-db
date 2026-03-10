@@ -45,6 +45,6 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2023)
 - Tasman Mako (2024 - 2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
-- Tasman Mako (2025 - 2025)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )
+- Tasman Mako (2025 - )
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

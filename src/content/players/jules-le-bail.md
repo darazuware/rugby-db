@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2017)
 - [ヴァンヌ](/teams/top14/vannes) (2017 - 2020)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- [ヴァンヌ](/teams/top14/vannes) (2023 - 2026)

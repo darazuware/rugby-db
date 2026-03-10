@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - France 7 (2017 - 2018)
 - [ヴァンヌ](/teams/top14/vannes) (2018 - 2021)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2023)
-- [カストル](/teams/top14/castres) (2023 - )
+- [カストル](/teams/top14/castres) (2023 - 2026)

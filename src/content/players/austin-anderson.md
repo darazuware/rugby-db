@@ -28,6 +28,5 @@ facebook: ""
 - Waikato Mooloos (2023 - 2023)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - Waikato Mooloos (2024 - 2024)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - 2025)
-- Waikato Mooloos (2025 - 2025)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
+- Waikato Mooloos (2025 - )

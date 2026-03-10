@@ -26,4 +26,4 @@ facebook: ""
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2017)
 - メルボルン・レベルズ (2017 - 2019)
 - London Irish (2019 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)

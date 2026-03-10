@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - Union Sportive Bressane Pays de l'Ain (2021 - 2021)
 - [リヨン](/teams/top14/lyon) (2022 - 2022)
 - Union Sportive Bressane Pays de l'Ain (2022 - 2022)
-- [リヨン](/teams/top14/lyon) (2022 - )
+- [リヨン](/teams/top14/lyon) (2022 - 2026)

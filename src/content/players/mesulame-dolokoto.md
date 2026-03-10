@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - グラスゴー・ウォリアーズ (2019 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2026)

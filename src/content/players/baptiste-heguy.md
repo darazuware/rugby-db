@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2012 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2012 - 2026)

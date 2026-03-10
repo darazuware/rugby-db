@@ -25,4 +25,4 @@ facebook: ""
 
 - Southland Stags (2017 - 2020)
 - Counties Manukau Steelers (2020 - 2021)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - )
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - 2026)

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- BlackRams Tokyo (2022 - )
+- BlackRams Tokyo (2022 - 2026)

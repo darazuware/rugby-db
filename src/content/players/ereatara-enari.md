@@ -39,6 +39,5 @@ facebook: ""
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
 - Hawke's Bay Magpies (2024 - 2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - 2025)
-- Hawke's Bay Magpies (2025 - 2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- Hawke's Bay Magpies (2025 - )

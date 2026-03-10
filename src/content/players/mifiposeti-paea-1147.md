@@ -25,4 +25,4 @@ facebook: ""
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2011 - 2015)
 - Sunwolves (2015 - 2016)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2026)

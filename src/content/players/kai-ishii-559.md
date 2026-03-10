@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2017 - 2018)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2018 - )
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2018 - 2026)

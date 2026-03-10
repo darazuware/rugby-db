@@ -28,4 +28,4 @@ facebook: ""
 - Northampton Saints (2021 - 2021)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2021)
 - Northampton Saints (2022 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)

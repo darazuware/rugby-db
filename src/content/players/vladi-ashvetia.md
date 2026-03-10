@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rugby Club Massy Essonne (2011 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2023 - )
+- [ラシン92](/teams/top14/racing-92) (2023 - 2026)

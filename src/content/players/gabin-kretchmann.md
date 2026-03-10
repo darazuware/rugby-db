@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - JSI Elne (2011 - 2019)
-- [ペルピニャン](/teams/top14/perpignan) (2019 - )
+- [ペルピニャン](/teams/top14/perpignan) (2019 - 2026)

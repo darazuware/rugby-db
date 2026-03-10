@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2013 - 2019)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - )
+- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - 2026)

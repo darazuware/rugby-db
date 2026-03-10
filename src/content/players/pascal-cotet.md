@@ -28,4 +28,4 @@ facebook: ""
 - Oyonnax Rugby (2016 - 2017)
 - RC Aubenas Vals (2017 - 2018)
 - Racing Club Narbonnais (2018 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2026)

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - SCO RC Angers (2010 - 2014)
 - Stade Nantais (2014 - 2017)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2026)

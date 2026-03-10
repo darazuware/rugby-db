@@ -25,4 +25,4 @@ facebook: ""
 
 - Rugby Melun Combs Senart 77 (2008 - 2013)
 - Rugby Club Massy Essonne (2013 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - )
+- [スタッド・フランセ](/teams/top14/paris) (2019 - 2026)

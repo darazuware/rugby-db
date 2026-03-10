@@ -28,6 +28,5 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
 - Hawke's Bay Magpies (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - 2025)
-- Hawke's Bay Magpies (2025 - 2025)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- Hawke's Bay Magpies (2025 - )

@@ -31,5 +31,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2025 - 2025)
 - [ペルピニャン](/teams/top14/perpignan) (2025 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2026 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2026 - )
 - [ペルピニャン](/teams/top14/perpignan) (2026 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - Western Province (2018 - 2019)
 - DHLストーマーズ (2019 - 2022)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - )
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - 2026)

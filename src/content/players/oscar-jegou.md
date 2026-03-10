@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Oléron RC (2008 - 2009)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - 2026)

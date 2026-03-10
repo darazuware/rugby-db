@@ -30,4 +30,4 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)

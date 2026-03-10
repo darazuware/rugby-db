@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)

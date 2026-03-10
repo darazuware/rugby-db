@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2022 - )
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2022 - 2026)

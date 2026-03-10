@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - US Dax Rugby Landes (2006 - 2019)
-- [トゥールーズ](/teams/top14/toulouse) (2019 - )
+- [トゥールーズ](/teams/top14/toulouse) (2019 - 2026)

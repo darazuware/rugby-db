@@ -25,4 +25,4 @@ facebook: ""
 
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2022)
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - 2023)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - 2026)

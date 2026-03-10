@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2020)
 - [クレルモン](/teams/top14/clermont) (2021 - 2021)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
-- [ペルピニャン](/teams/top14/perpignan) (2022 - )
+- [ペルピニャン](/teams/top14/perpignan) (2022 - 2026)

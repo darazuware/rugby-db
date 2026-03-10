@@ -25,4 +25,4 @@ facebook: ""
 
 - エミレーツ・ライオンズ (2013 - 2017)
 - ハリウッドベッツ・シャークス (2017 - 2022)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2026)

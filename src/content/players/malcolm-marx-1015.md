@@ -25,4 +25,4 @@ facebook: ""
 
 - エミレーツ・ライオンズ (2013 - 2019)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2020)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2020 - )
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2020 - 2026)

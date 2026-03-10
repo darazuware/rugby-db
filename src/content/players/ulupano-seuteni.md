@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - [トゥーロン](/teams/top14/toulon) (2014 - 2016)
 - Oyonnax Rugby (2016 - 2018)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2026)

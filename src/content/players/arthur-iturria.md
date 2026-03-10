@@ -25,4 +25,4 @@ facebook: ""
 
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2011 - 2012)
 - [クレルモン](/teams/top14/clermont) (2012 - 2023)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - 2026)

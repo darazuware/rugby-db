@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)
