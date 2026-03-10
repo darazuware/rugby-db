@@ -33,7 +33,7 @@ const {
 			<div class="container mx-auto flex justify-between items-center">
 				<a
 					href="/"
-					class="flex flex-col leading-tight pr-2 flex-shrink-0"
+					class="mobile-logo flex flex-col leading-tight pr-2 flex-shrink-0"
 				>
 					<span
 						class="text-[16px] md:text-2xl font-black font-display italic text-white uppercase tracking-tighter"
@@ -45,21 +45,21 @@ const {
 					>
 				</a>
 				<div
-					class="flex-1 flex justify-end gap-3 md:gap-8 font-bold text-[10px] md:text-sm items-center"
+					class="mobile-nav-links flex-1 flex justify-end gap-3 md:gap-8 font-bold text-[10px] md:text-sm items-center"
 				>
 					<a
 						href="/leagues"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap"
+						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>リーグ一覧</a
 					>
 					<a
 						href="/players"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap"
+						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>選手名鑑</a
 					>
 					<a
 						href="/results"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap"
+						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>戦績</a
 					>
 				</div>
@@ -105,5 +105,25 @@ const {
 				</p>
 			</div>
 		</footer>
+		<style is:global>
+			/* モバイルナビゲーションの強制調整 */
+			@media (max-width: 767px) {
+				.mobile-logo {
+					display: flex !important;
+					flex-direction: column !important;
+					line-height: 1.1 !important;
+				}
+				.mobile-nav-links {
+					display: flex !important;
+					justify-content: flex-end !important;
+					gap: 0.75rem !important; /* gap-3 */
+					font-size: 10px !important;
+				}
+				.mobile-nav-links a {
+					white-space: nowrap !important;
+					flex-shrink: 0 !important;
+				}
+			}
+		</style>
 	</body>
 </html>
