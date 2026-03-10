@@ -309,7 +309,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             const pLeague = (p.data.league ?? '').toLowerCase();
             const matchLeague = selectedLeagues.length === 0 || selectedLeagues.some(l => l.toLowerCase() === pLeague);
 
-            const matchDivision = selectedDivisions.length === 0 || selectedDivisions.includes(p.data.division ?? '');
+            const pDivision = (p.data.division ?? '').toLowerCase();
+            const matchDivision = selectedDivisions.length === 0 || selectedDivisions.some(d => d.toLowerCase() === pDivision);
             const matchCategory = selectedCategories.length === 0 || selectedCategories.includes(p.data.category ?? '');
             const matchTeam = selectedTeams.length === 0 || (p.data.team && selectedTeams.includes(p.data.team));
 

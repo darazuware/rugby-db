@@ -86,6 +86,7 @@ const standings = rawStandings.map((s: any) => {
 });
 
 // 全選手データの取得と補完
+// 全選手データの取得と補完
 const allPlayersRaw = await getCollection("players");
 const teamToDivision: Record<string, string> = {};
 (teamsData as any[]).forEach((t: any) => {
@@ -94,15 +95,17 @@ const teamToDivision: Record<string, string> = {};
     }
 });
 
-const allPlayers = allPlayersRaw.map((p) => {
-    if (p.data.division) return p;
-    // 選手データにDivisionがない場合、チーム名から補完を試みる
-    const division = p.data.team ? teamToDivision[p.data.team] : "";
+// Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
+const initialPlayers = allPlayersRaw.map((p) => {
+    const division =
+        (p.data.team ? teamToDivision[p.data.team] : "") ||
+        p.data.division ||
+        "";
     return {
-        ...p,
+        slug: p.slug,
         data: {
             ...p.data,
-            division: division || p.data.division,
+            division: division,
         },
     };
 });
@@ -177,12 +180,47 @@ const leagueTitle = leagueName.toUpperCase();
                     ? "max-w-4xl mx-auto flex flex-col"
                     : "flex flex-col xl:grid xl:grid-cols-12 gap-12"}
             >
+                {
+                    /* 選手一覧セクション (URC以外) - モバイルでは物理的に一番上に配置 */
+                }
+                {
+                    !isURC && (
+                        <div
+                            id="players"
+                            class="xl:col-span-12 xl:order-3 mb-12 xl:mt-20 xl:border-t xl:border-gray-200 xl:pt-16"
+                        >
+                            <header class="mb-12">
+                                <div class="flex items-center gap-4 mb-4">
+                                    <h2 class="text-3xl font-black text-gray-900 uppercase tracking-tighter italic">
+                                        Squad{" "}
+                                        <span class="text-yellow-500">
+                                            Search
+                                        </span>
+                                    </h2>
+                                    <div class="flex-grow h-px bg-gray-200" />
+                                </div>
+                                <p class="text-gray-500 font-bold italic border-l-4 border-yellow-400 pl-4">
+                                    {leagueName}{" "}
+                                    に登録されている全選手から、スペック検索・ソートが可能です。
+                                </p>
+                            </header>
+                            <div class="bg-white rounded-3xl p-2 shadow-sm border border-gray-100">
+                                <PlayerList
+                                    client:load
+                                    initialPlayers={initialPlayers as any}
+                                    leagueContext={league}
+                                />
+                            </div>
+                        </div>
+                    )
+                }
+
                 {/* 順位表 */}
                 <div
                     id="standings"
                     class={isURC
-                        ? "w-full order-2 mt-12 md:mt-0"
-                        : "xl:col-span-4 lg:col-span-1 order-2 xl:order-1 mt-12 xl:mt-0"}
+                        ? "w-full mt-12 md:mt-0"
+                        : "xl:col-span-4 lg:col-span-1 xl:order-1 mt-12 xl:mt-0"}
                 >
                     <div class="sticky top-24">
                         <StandingsTable
@@ -203,7 +241,7 @@ const leagueTitle = leagueName.toUpperCase();
                     !isURC && (
                         <div
                             id="teams"
-                            class="xl:col-span-8 lg:col-span-1 order-3 xl:order-2"
+                            class="xl:col-span-8 lg:col-span-1 xl:order-2"
                         >
                             <div class="flex items-center gap-4 mb-8">
                                 <h2 class="text-2xl font-black text-gray-900 uppercase tracking-tight italic">
@@ -217,39 +255,6 @@ const leagueTitle = leagueName.toUpperCase();
                                 initialTeams={filteredTeams}
                                 leagueContext={league}
                             />
-                        </div>
-                    )
-                }
-
-                {/* 選手一覧セクション (URC以外) */}
-                {
-                    !isURC && (
-                        <div
-                            id="players"
-                            class="xl:col-span-12 order-1 xl:order-3 mb-12 xl:mt-20 xl:border-t xl:border-gray-200 xl:pt-16"
-                        >
-                            <header class="mb-12">
-                                <div class="flex items-center gap-4 mb-4">
-                                    <h2 class="text-3xl font-black text-gray-900 uppercase tracking-tighter italic">
-                                        Squad{" "}
-                                        <span class="text-yellow-500">
-                                            Search
-                                        </span>
-                                    </h2>
-                                    <div class="flex-grow h-px bg-gray-200" />
-                                </div>
-                                <p class="text-gray-500 font-bold italic border-l-4 border-yellow-400 pl-4">
-                                    {leagueName}{" "}
-                                    に登録されている全選手から、スペック検索・ソートが可能です。
-                                </p>
-                            </header>
-                            <div class="bg-white rounded-3xl p-2 shadow-sm border border-gray-100">
-                                <PlayerList
-                                    client:load
-                                    initialPlayers={allPlayers as any}
-                                    leagueContext={league}
-                                />
-                            </div>
                         </div>
                     )
                 }
