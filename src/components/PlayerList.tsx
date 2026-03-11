@@ -110,7 +110,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [selectedDivisions, setSelectedDivisions] = useState<string[]>([]);
     const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
     const [selectedTeams, setSelectedTeams] = useState<string[]>([]);
-    const [sortKey, setSortKey] = useState<'title' | 'age' | 'height' | 'weight' | 'tries' | 'matches' | 'starts' | 'minutes'>('title');
+    const [sortKey, setSortKey] = useState<'title' | 'age' | 'height' | 'weight'>('title');
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
 
     // リーグマッピングの生成
@@ -600,22 +600,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         <div className="col-span-1 md:col-span-2 lg:col-span-4 flex flex-wrap items-center gap-4 pt-4 border-t border-gray-50">
                             <span className="text-xs font-black text-gray-400 uppercase tracking-widest">ソート順</span>
                             <div className="flex flex-wrap gap-2">
-                                {(['age', 'height', 'weight', 'tries', 'matches', 'starts', 'minutes'] as const).map(key => {
-                                    const isScoreSort = ['tries', 'matches', 'starts', 'minutes'].includes(key);
-                                    
-                                    // Top 14 の固定ページ、またはフィルタで Top 14 が明示的に選択されている場合に隠す
-                                    const includesTop14 = (leagueContext === 'top14') || selectedLeagues.includes('top14');
-                                    
-                                    if (isScoreSort) {
-                                        // スコア系項目：Top 14 が関与している場合は絶対に表示しない
-                                        if (includesTop14) return null;
-                                        
-                                        // Top 14 が関与していない場合（League One 等）：
-                                        // 選手データにスコアが1件でもあるか、またはフィルタが空（全表示）なら表示する
-                                        const hasAnyScores = filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true");
-                                        if (!hasAnyScores && selectedLeagues.length > 0) return null;
-                                    }
-
+                                {(['age', 'height', 'weight'] as const).map(key => {
                                     return (
                                         <button
                                             key={key}
@@ -624,11 +609,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                 }`}
                                         >
                                             {key === 'age' ? '年齢' :
-                                                key === 'height' ? '身長' :
-                                                    key === 'weight' ? '体重' :
-                                                        key === 'tries' ? 'トライ' :
-                                                            key === 'matches' ? '試合数' :
-                                                                key === 'starts' ? '先発' : '分'} {sortKey === key && (sortOrder === 'asc' ? '↑' : '↓')}
+                                                key === 'height' ? '身長' : '体重'} {sortKey === key && (sortOrder === 'asc' ? '↑' : '↓')}
                                         </button>
                                     );
                                 })}
@@ -725,28 +706,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                 {FLAG_MAP[player.data.country || ''] || (player.data.caps.includes('日本') ? '🇯🇵' : '')}
                                             </span>
                                             {player.data.caps}
-                                        </div>
-                                    )}
-
-                                    {/* 実戦スタッツ (海外リーグ向け) */}
-                                    {player.data.league !== 'top14' && (player.data.matches !== undefined || player.data.tries !== undefined) && (
-                                        <div className="grid grid-cols-4 gap-2 py-3 px-4 bg-gray-50 rounded-2xl border border-gray-100 mb-2">
-                                            <div className="flex flex-col items-center">
-                                                <span className="text-[10px] font-black text-gray-400 uppercase">Played</span>
-                                                <span className="text-sm font-black text-gray-900">{player.data.matches || 0}</span>
-                                            </div>
-                                            <div className="flex flex-col items-center">
-                                                <span className="text-[10px] font-black text-gray-400 uppercase">Start</span>
-                                                <span className="text-sm font-black text-gray-900">{player.data.starts || 0}</span>
-                                            </div>
-                                            <div className="flex flex-col items-center">
-                                                <span className="text-[10px] font-black text-gray-400 uppercase">Tries</span>
-                                                <span className={`text-sm font-black ${(player.data.tries || 0) > 0 ? 'text-yellow-600' : 'text-gray-900'}`}>{player.data.tries || 0}</span>
-                                            </div>
-                                            <div className="flex flex-col items-center">
-                                                <span className="text-[10px] font-black text-gray-400 uppercase">Mins</span>
-                                                <span className="text-sm font-black text-gray-900">{player.data.minutes || 0}</span>
-                                            </div>
                                         </div>
                                     )}
                                 </div>
