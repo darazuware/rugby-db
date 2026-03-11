@@ -436,24 +436,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         <h1 className="text-4xl font-black text-gray-900 tracking-tighter italic">
                             RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
                         </h1>
-                        <div className="sticky top-20 z-40 self-end md:self-auto">
-                            <button
-                                onClick={() => {
-                                    setSearch('');
-                                    setSelectedLeagues(leagueContext ? [leagueContext] : []);
-                                    setSelectedPositions([]);
-                                    setSelectedDivisions([]);
-                                    setSelectedCategories([]);
-                                    setSelectedTeams([]);
-                                }}
-                                className="px-6 py-3 bg-white/80 backdrop-blur-md hover:bg-white text-gray-600 shadow-lg hover:shadow-xl border border-gray-100 text-[11px] font-black uppercase tracking-widest rounded-2xl transition-all flex items-center gap-2 group whitespace-nowrap"
-                            >
-                                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 group-hover:rotate-180 transition-transform duration-500" viewBox="0 0 20 20" fill="currentColor">
-                                    <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
-                                </svg>
-                                フィルタをリセット
-                            </button>
-                        </div>
                     </div>
                 )}
 
@@ -772,6 +754,42 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                     })}
                 </div>
             </div>
+
+            {/* フローティング・リセットボタン */}
+            {(() => {
+                const isFiltered = search !== '' || 
+                    (leagueContext ? selectedLeagues.length > 1 : selectedLeagues.length > 0) ||
+                    selectedPositions.length > 0 ||
+                    selectedDivisions.length > 0 ||
+                    selectedCategories.length > 0 ||
+                    selectedTeams.length > 0;
+
+                if (!isFiltered) return null;
+
+                return (
+                    <div className="fixed bottom-8 right-8 z-[100] animate-in fade-in slide-in-from-bottom-4 duration-300">
+                        <button
+                            onClick={() => {
+                                setSearch('');
+                                setSelectedLeagues(leagueContext ? [leagueContext] : []);
+                                setSelectedPositions([]);
+                                setSelectedDivisions([]);
+                                setSelectedCategories([]);
+                                setSelectedTeams([]);
+                                window.scrollTo({ top: 0, behavior: 'smooth' });
+                            }}
+                            className="flex items-center gap-3 px-6 py-4 bg-gray-900 text-white rounded-2xl shadow-2xl hover:bg-gray-800 hover:scale-110 active:scale-95 transition-all group"
+                        >
+                            <div className="bg-gray-800 p-1.5 rounded-lg group-hover:rotate-180 transition-transform duration-500">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
+                                </svg>
+                            </div>
+                            <span className="text-xs font-black uppercase tracking-widest">Reset Filter</span>
+                        </button>
+                    </div>
+                );
+            })()}
         </div>
     );
 };
