@@ -14,6 +14,7 @@ interface Player {
         caps: string;
         league_one_caps: string;
         category: string;
+        league: string;
         country?: string;
         division: string;
         high_school?: string;
@@ -200,7 +201,9 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                         {player.data.position}
                                     </span>
                                 </div>
-                                <span className="text-[9px] font-black text-gray-400 uppercase tracking-widest">{player.data.category}</span>
+                                {(player.data.league === 'league-one' || player.data.league === 'leagueone') && (
+                                    <span className="text-[9px] font-black text-gray-400 uppercase tracking-widest">{player.data.category}</span>
+                                )}
                             </div>
                             {(() => {
                                 const isItemLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
