@@ -367,50 +367,93 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         return selectedLeagues.length > 0 && selectedLeagues.every(check);
     }, [selectedLeagues, leagueContext]);
 
-    const getLeagueColor = (league?: string) => {
-        if (!league) return 'bg-[#E60012]';
-        switch (league) {
-            case 'league-one': return 'bg-[#E60012]';
-            case 'top14': return 'bg-[#C5A059]';
-            case 'super-rugby': return 'bg-[#0055A4]';
-            default: return 'bg-[#E60012]';
+    const getLeagueTheme = (league?: string) => {
+        const defaultTheme = {
+            accent: 'bg-yellow-400',
+            border: 'border-yellow-400',
+            text: 'text-yellow-400',
+            shadow: 'shadow-yellow-200',
+            focus: 'focus:border-yellow-400'
+        };
+
+        if (!league) return defaultTheme;
+        
+        const l = league.toLowerCase().replace(/[-_]/g, '');
+        if (l === 'leagueone' || l === 'japanrugbyleagueone') {
+            return {
+                accent: 'bg-[#E60012]',
+                border: 'border-[#E60012]',
+                text: 'text-[#E60012]',
+                shadow: 'shadow-[#E60012]/20',
+                focus: 'focus:border-[#E60012]'
+            };
         }
+        if (l === 'top14') {
+            return {
+                accent: 'bg-[#C5A059]',
+                border: 'border-[#C5A059]',
+                text: 'text-[#C5A059]',
+                shadow: 'shadow-[#C5A059]/20',
+                focus: 'focus:border-[#C5A059]'
+            };
+        }
+        if (l === 'superrugby') {
+            return {
+                accent: 'bg-[#0055A4]',
+                border: 'border-[#0055A4]',
+                text: 'text-[#0055A4]',
+                shadow: 'shadow-[#0055A4]/20',
+                focus: 'focus:border-[#0055A4]'
+            };
+        }
+        if (l === 'urc') {
+            return {
+                accent: 'bg-[#003366]',
+                border: 'border-[#003366]',
+                text: 'text-[#003366]',
+                shadow: 'shadow-[#003366]/20',
+                focus: 'focus:border-[#003366]'
+            };
+        }
+        return defaultTheme;
+    };
+
+    const getLeagueColor = (league?: string) => {
+        const theme = getLeagueTheme(league);
+        return theme.accent;
     };
 
     const getCategoryColor = (league?: string) => {
-        if (!league) return 'text-[#E60012]';
-        switch (league) {
-            case 'league-one': return 'text-[#E60012]';
-            case 'top14': return 'text-[#C5A059]';
-            case 'super-rugby': return 'text-[#0055A4]';
-            default: return 'text-[#E60012]';
-        }
+        const theme = getLeagueTheme(league);
+        return theme.text;
     };
 
     return (
         <div className={`container mx-auto p-4 max-w-7xl ${leagueContext ? 'mt-0' : 'mt-8'}`}>
             <div className="mb-12 space-y-6">
                 {!leagueContext && (
-                    <div className="flex justify-between items-center">
+                    <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
                         <h1 className="text-4xl font-black text-gray-900 tracking-tighter italic">
                             RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
                         </h1>
-                        <button
-                            onClick={() => {
-                                setSearch('');
-                                setSelectedLeagues(leagueContext ? [leagueContext] : []);
-                                setSelectedPositions([]);
-                                setSelectedDivisions([]);
-                                setSelectedCategories([]);
-                                setSelectedTeams([]);
-                            }}
-                            className="px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-500 text-[10px] font-black uppercase tracking-widest rounded-xl transition-all flex items-center gap-2"
-                        >
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
-                                <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
-                            </svg>
-                            すべてのフィルタをリセット
-                        </button>
+                        <div className="sticky top-20 z-40 self-end md:self-auto">
+                            <button
+                                onClick={() => {
+                                    setSearch('');
+                                    setSelectedLeagues(leagueContext ? [leagueContext] : []);
+                                    setSelectedPositions([]);
+                                    setSelectedDivisions([]);
+                                    setSelectedCategories([]);
+                                    setSelectedTeams([]);
+                                }}
+                                className="px-6 py-3 bg-white/80 backdrop-blur-md hover:bg-white text-gray-600 shadow-lg hover:shadow-xl border border-gray-100 text-[11px] font-black uppercase tracking-widest rounded-2xl transition-all flex items-center gap-2 group whitespace-nowrap"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 group-hover:rotate-180 transition-transform duration-500" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
+                                </svg>
+                                フィルタをリセット
+                            </button>
+                        </div>
                     </div>
                 )}
 
@@ -471,18 +514,24 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                 >
                                     ALL
                                 </button>
-                                {VISIBLE_TEAMS.map(team => (
-                                    <button
-                                        key={team}
-                                        onClick={() => toggleFilter(setSelectedTeams, team)}
-                                        className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedTeams.includes(team)
-                                            ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                            : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
-                                            }`}
-                                    >
-                                        {team}
-                                    </button>
-                                ))}
+                                {VISIBLE_TEAMS.map(team => {
+                                    const teamLeague = TEAM_LEAGUE_MAP[team];
+                                    const teamTheme = getLeagueTheme(teamLeague);
+                                    const isSelected = selectedTeams.includes(team);
+
+                                    return (
+                                        <button
+                                            key={team}
+                                            onClick={() => toggleFilter(setSelectedTeams, team)}
+                                            className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${isSelected
+                                                ? `${teamTheme.accent} ${teamTheme.border} text-white scale-105 shadow-md ${teamTheme.shadow}`
+                                                : `bg-white border-gray-100 text-gray-400 hover:border-gray-200`
+                                                }`}
+                                        >
+                                            {team}
+                                        </button>
+                                    );
+                                })}
                                 {VISIBLE_TEAMS.length === 0 && (
                                     <span className="text-gray-400 text-xs font-bold p-2 italic">表示できるチームがありません</span>
                                 )}
