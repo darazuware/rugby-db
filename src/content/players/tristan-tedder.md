@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "African"
 nationality: "African"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -27,9 +27,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [トゥールーズ](/teams/top14/toulouse) (2016 - 2018)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2019)
 - [トゥールーズ](/teams/top14/toulouse) (2019 - 2020)
-- Association Sportive Béziers Hérault (2020 - 2020)
-- [トゥールーズ](/teams/top14/toulouse) (2021 - 2021)
-- Association Sportive Béziers Hérault (2021 - 2021)
+- Association Sportive Béziers Hérault (2020)
+- [トゥールーズ](/teams/top14/toulouse) (2021)
+- Association Sportive Béziers Hérault (2021)
 - [ペルピニャン](/teams/top14/perpignan) (2021 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2025)
 - [ペルピニャン](/teams/top14/perpignan) (2025 - )

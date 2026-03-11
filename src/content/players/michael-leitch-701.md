@@ -25,6 +25,5 @@ facebook: ""
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2017)
 - Sunwolves (2017 - 2018)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2018 - 2018)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2019 - 2026)
-- Sunwolves (2019 - 2019)
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2018 - 2026)
+- Sunwolves (2019)

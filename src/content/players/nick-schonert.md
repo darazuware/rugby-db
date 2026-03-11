@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "African"
 nationality: "African"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Worcester Warriors (2015 - 2021)
 - ハリウッドベッツ・シャークス (2021 - 2024)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2024)
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024)
 - ハリウッドベッツ・シャークス (2025 - )
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

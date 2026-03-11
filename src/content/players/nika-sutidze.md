@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Lelo Saracens Tbilissi (2021 - 2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2021)
-- Lelo Saracens Tbilissi (2022 - 2022)
+- Lelo Saracens Tbilissi (2021)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2021)
+- Lelo Saracens Tbilissi (2022)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2026)

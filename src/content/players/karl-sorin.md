@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Française"
 nationality: "Française"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - Rugby Olympique Choletais (2015 - 2018)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2024)
-- Soyaux-Angoulême XV Charente (2024 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2024)
+- Soyaux-Angoulême XV Charente (2024)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2024)
 - Soyaux-Angoulême XV Charente (2025 - )
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

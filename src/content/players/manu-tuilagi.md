@@ -13,7 +13,7 @@ caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Leicester Tigers (2013 - 2019)
-- ハリウッドベッツ・シャークス (2019 - 2019)
-- Leicester Tigers (2020 - 2020)
+- ハリウッドベッツ・シャークス (2019)
+- Leicester Tigers (2020)
 - ハリウッドベッツ・シャークス (2020 - 2024)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

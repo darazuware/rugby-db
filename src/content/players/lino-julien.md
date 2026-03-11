@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -27,6 +27,6 @@ facebook: ""
 - Bredase Rugby Club (2019 - 2021)
 - USON Nevers Rugby (2021 - 2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2025)
-- Provence Rugby (2025 - 2025)
+- Provence Rugby (2025)
 - [ラシン92](/teams/top14/racing-92) (2026 - )
 - Provence Rugby (2026 - )

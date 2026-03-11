@@ -13,7 +13,7 @@ caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: "Samoa"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2019
@@ -25,6 +25,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2015)
 - グラスゴー・ウォリアーズ (2016 - 2018)
-- [トゥーロン](/teams/top14/toulon) (2018 - 2018)
-- グラスゴー・ウォリアーズ (2019 - 2019)
+- [トゥーロン](/teams/top14/toulon) (2018)
+- グラスゴー・ウォリアーズ (2019)
 - [トゥーロン](/teams/top14/toulon) (2019 - 2026)

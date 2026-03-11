@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - エミレーツ・ライオンズ (2022 - 2024)
-- エミレーツ・ライオンズ (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - )
 - エミレーツ・ライオンズ (2025 - )
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

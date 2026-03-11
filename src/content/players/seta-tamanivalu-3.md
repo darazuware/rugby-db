@@ -27,6 +27,5 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2018)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2020)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2020 - 2020)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2021 - 2026)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2021)
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2020 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2021)

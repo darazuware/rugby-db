@@ -13,7 +13,7 @@ caps: "Moldova"
 league_one_caps: "0"
 country: "Moldova"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020

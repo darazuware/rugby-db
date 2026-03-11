@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2020
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2019)
-- Tasman Mako (2019 - 2019)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
-- Tasman Mako (2020 - 2020)
+- Tasman Mako (2019)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020)
+- Tasman Mako (2020)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2026)

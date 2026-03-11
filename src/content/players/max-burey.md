@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2023
@@ -24,10 +24,11 @@ facebook: ""
 ---
 
 - Northern Suburbs RFC (2020 - 2021)
-- Aussie 7's (2021 - 2021)
-- Northern Suburbs RFC (2021 - 2021)
-- Aussie 7's (2022 - 2022)
-- Northern Suburbs RFC (2022 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2022)
-- Aussie 7's (2023 - 2023)
+- Aussie 7's (2021)
+- Northern Suburbs RFC (2021)
+- Aussie 7's (2022)
+- Northern Suburbs RFC (2022)
+- Aussie 7's (2022)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- Aussie 7's (2023)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)

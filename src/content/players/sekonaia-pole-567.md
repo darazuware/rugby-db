@@ -23,8 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2016)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2016)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2017)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2026)

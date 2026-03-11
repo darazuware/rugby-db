@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Poids"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022
@@ -23,8 +23,5 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2020)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
 - [リヨン](/teams/top14/lyon) (2022 - 2026)

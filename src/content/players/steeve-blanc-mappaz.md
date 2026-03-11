@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -27,6 +27,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ヴァンヌ](/teams/top14/vannes) (2017 - 2018)
 - FC Grenoble Rugby (2018 - 2024)
 - [リヨン](/teams/top14/lyon) (2024 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2025)
+- [ヴァンヌ](/teams/top14/vannes) (2025)
 - [リヨン](/teams/top14/lyon) (2026 - )
 - [ヴァンヌ](/teams/top14/vannes) (2026 - )

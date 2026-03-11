@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2021
@@ -27,6 +27,6 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [トゥーロン](/teams/top14/toulon) (2009 - 2012)
 - [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
 - [スタッド・フランセ](/teams/top14/paris) (2018 - 2020)
-- [ラシン92](/teams/top14/racing-92) (2020 - 2020)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - 2021)
+- [ラシン92](/teams/top14/racing-92) (2020)
+- [スタッド・フランセ](/teams/top14/paris) (2021)
 - [ラシン92](/teams/top14/racing-92) (2021 - 2026)

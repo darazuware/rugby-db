@@ -13,7 +13,7 @@ caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - RC Kochebi (2020 - 2021)
 - Black Lion (2021 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
-- Black Lion (2023 - 2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- Black Lion (2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
 - [モンペリエ](/teams/top14/montpellier) (2024 - )

@@ -13,10 +13,10 @@ caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,5 +24,4 @@ facebook: ""
 ---
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2015 - 2020)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - )

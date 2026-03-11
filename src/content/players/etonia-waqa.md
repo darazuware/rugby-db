@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2023
@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2021 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2022)
-- Bay of Plenty Steamers (2022 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2023)
-- Bay of Plenty Steamers (2023 - 2023)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022)
+- Bay of Plenty Steamers (2022)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
+- Bay of Plenty Steamers (2023)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2026)

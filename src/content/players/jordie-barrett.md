@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
-- ヴォーダコム・ブルズ (2020 - 2020)
+- ヴォーダコム・ブルズ (2019)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- ヴォーダコム・ブルズ (2020)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2024)
 - レンスター・ラグビー (2024 - 2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

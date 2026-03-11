@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -26,7 +26,7 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2021)
 - [スタッド・フランセ](/teams/top14/paris) (2021 - 2022)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2024)
-- Manawatu Turbos (2024 - 2024)
+- Manawatu Turbos (2024)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
 - Manawatu Turbos (2025 - )
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

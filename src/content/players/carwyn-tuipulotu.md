@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - スカーレッツ (2018 - 2024)
-- Saracens (2024 - 2024)
-- スカーレッツ (2024 - 2024)
-- [ポー](/teams/top14/pau) (2024 - 2024)
+- Saracens (2024)
+- スカーレッツ (2024)
+- [ポー](/teams/top14/pau) (2024)
 - Saracens (2025 - )
 - スカーレッツ (2025 - )
 - [ポー](/teams/top14/pau) (2025 - )

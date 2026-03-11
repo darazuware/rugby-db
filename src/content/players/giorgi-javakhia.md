@@ -13,7 +13,7 @@ caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
 nationality: "Géorgie"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -26,6 +26,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - [リヨン](/teams/top14/lyon) (2015 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2023)
 - FC Grenoble Rugby (2023 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2025)
+- [トゥーロン](/teams/top14/toulon) (2025)
 - FC Grenoble Rugby (2026 - )
 - [トゥーロン](/teams/top14/toulon) (2026 - )

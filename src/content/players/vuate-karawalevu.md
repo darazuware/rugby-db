@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Fidjien"
 nationality: "Fidjien"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -23,10 +23,10 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- North Sydney Bears (2021 - 2021)
-- Sydney Roosters (2021 - 2021)
-- North Sydney Bears (2022 - 2022)
-- Sydney Roosters (2022 - 2022)
+- North Sydney Bears (2021)
+- Sydney Roosters (2021)
+- North Sydney Bears (2022)
+- Sydney Roosters (2022)
 - West Harbour RFC (2022 - 2023)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2024)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2025)

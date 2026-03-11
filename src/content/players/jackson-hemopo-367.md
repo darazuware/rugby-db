@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2018)
-- Manawatu Turbos (2018 - 2018)
+- Manawatu Turbos (2018)
 - [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2019 - 2026)
-- Manawatu Turbos (2019 - 2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2019)
+- Manawatu Turbos (2019)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019)

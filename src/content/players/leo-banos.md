@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Parentis Sport Rugby (2011 - 2016)
 - Stade Montois Rugby Pro (2016 - 2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023 - 2023)
-- Stade Montois Rugby Pro (2023 - 2023)
+- [トゥールーズ](/teams/top14/toulouse) (2023)
+- Stade Montois Rugby Pro (2023)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - 2024)
 - Stade Montois Rugby Pro (2024 - 2024)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - )

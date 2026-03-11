@@ -13,15 +13,14 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2026)

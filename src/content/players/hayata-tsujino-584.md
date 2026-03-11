@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Manawatu Turbos (2024 - 2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - 2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
+- Manawatu Turbos (2024)
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )
 - Manawatu Turbos (2025 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )

@@ -13,7 +13,7 @@ caps: "Canada"
 league_one_caps: "0"
 country: "Canada"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020

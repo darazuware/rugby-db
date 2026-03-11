@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,6 +25,7 @@ facebook: ""
 
 - Nadroga (2021 - 2022)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2024)
-- ヴォーダコム・ブルズ (2024 - 2024)
+- ヴォーダコム・ブルズ (2024)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
 - ヴォーダコム・ブルズ (2025 - )
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

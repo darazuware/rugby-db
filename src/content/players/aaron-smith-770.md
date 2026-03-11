@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2013 - 2019)
-- Manawatu Turbos (2019 - 2019)
-- Manawatu Turbos (2020 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2023)
-- Manawatu Turbos (2021 - 2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
+- Manawatu Turbos (2019 - 2020)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- Manawatu Turbos (2020)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
+- Manawatu Turbos (2021)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2026)

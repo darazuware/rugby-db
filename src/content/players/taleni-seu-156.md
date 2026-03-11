@@ -24,10 +24,9 @@ facebook: ""
 ---
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2018)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2018 - 2018)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2019 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2019)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - 2022)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2022)
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2018 - 2022)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022)
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2023 - 2026)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2023)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023)

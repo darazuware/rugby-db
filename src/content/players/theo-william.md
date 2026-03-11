@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Poids"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - CS Bourgoin Jallieu Rugby (2009 - 2017)
 - [リヨン](/teams/top14/lyon) (2017 - 2021)
-- Union Sportive Bressane Pays de l'Ain (2021 - 2021)
-- [リヨン](/teams/top14/lyon) (2022 - 2022)
-- Union Sportive Bressane Pays de l'Ain (2022 - 2022)
+- Union Sportive Bressane Pays de l'Ain (2021)
+- [リヨン](/teams/top14/lyon) (2022)
+- Union Sportive Bressane Pays de l'Ain (2022)
 - [リヨン](/teams/top14/lyon) (2022 - 2026)

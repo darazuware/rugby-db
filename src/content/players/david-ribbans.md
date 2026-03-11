@@ -13,7 +13,7 @@ caps: "South Africa"
 league_one_caps: "0"
 country: "South Africa"
 nationality: "Angleterre"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023

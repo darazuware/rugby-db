@@ -13,7 +13,7 @@ caps: "England"
 league_one_caps: "0"
 country: "England"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - グラスゴー・ウォリアーズ (2014 - 2023)
-- エディンバラ・ラグビー (2023 - 2023)
-- グラスゴー・ウォリアーズ (2024 - 2024)
+- エディンバラ・ラグビー (2023)
+- グラスゴー・ウォリアーズ (2024)
 - エディンバラ・ラグビー (2024 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2025 - )

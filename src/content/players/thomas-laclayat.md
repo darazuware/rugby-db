@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - RC Haute Bresse (2012 - 2013)
-- Oyonnax Rugby (2013 - 2013)
-- RC Haute Bresse (2013 - 2013)
-- Oyonnax Rugby (2014 - 2014)
-- RC Haute Bresse (2014 - 2014)
+- Oyonnax Rugby (2013)
+- RC Haute Bresse (2013)
+- Oyonnax Rugby (2014)
+- RC Haute Bresse (2014)
 - Oyonnax Rugby (2014 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2025)
 - [ポー](/teams/top14/pau) (2025 - )

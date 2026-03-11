@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -29,8 +29,8 @@ facebook: ""
 - RC Noves-Eyragues (2012 - 2014)
 - Rugby Club Châteaurenard (2014 - 2015)
 - Provence Rugby (2015 - 2018)
-- [モンペリエ](/teams/top14/montpellier) (2018 - 2018)
-- CA Brive Corrèze Limousin (2018 - 2018)
-- [モンペリエ](/teams/top14/montpellier) (2019 - 2019)
+- [モンペリエ](/teams/top14/montpellier) (2018)
+- CA Brive Corrèze Limousin (2018)
+- [モンペリエ](/teams/top14/montpellier) (2019)
 - CA Brive Corrèze Limousin (2019 - 2023)
 - [クレルモン](/teams/top14/clermont) (2023 - 2026)

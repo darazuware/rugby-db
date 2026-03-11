@@ -13,7 +13,7 @@ caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024

@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Fidji"
 nationality: "Fidji"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
-- Stade Montois Rugby Pro (2022 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2023 - 2023)
+- Stade Montois Rugby Pro (2022)
+- [スタッド・フランセ](/teams/top14/paris) (2023)
 - Stade Montois Rugby Pro (2023 - 2024)
 - Oyonnax Rugby (2024 - 2025)
 - [カストル](/teams/top14/castres) (2025 - )

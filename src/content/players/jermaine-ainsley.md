@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -25,9 +25,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
 - メルボルン・レベルズ (2017 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2024)
 - [リヨン](/teams/top14/lyon) (2024 - )

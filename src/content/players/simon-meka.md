@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Français"
 nationality: "Français"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -27,6 +27,6 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - [カストル](/teams/top14/castres) (2016 - 2022)
 - US Carcassonne (2022 - 2023)
 - Sporting Club Albigeois (2023 - 2024)
-- [カストル](/teams/top14/castres) (2024 - 2024)
+- [カストル](/teams/top14/castres) (2024)
 - Sporting Club Albigeois (2025 - )
 - [カストル](/teams/top14/castres) (2025 - )

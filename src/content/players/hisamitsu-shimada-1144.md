@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- Hawke's Bay Magpies (2022 - 2022)
+- Hawke's Bay Magpies (2022)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)
-- Hawke's Bay Magpies (2023 - 2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2023)
+- Hawke's Bay Magpies (2023)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)

@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2026
@@ -25,7 +25,7 @@ facebook: ""
 
 - Souths Rugby (2022 - 2023)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2025)
-- ベネットン・ラグビー・トレヴィーゾ (2025 - 2025)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - 2025)
+- ベネットン・ラグビー・トレヴィーゾ (2025)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
 - ベネットン・ラグビー・トレヴィーゾ (2026 - )
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )

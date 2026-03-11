@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Zealander"
 nationality: "Zealander"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -27,7 +27,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - マンスター・ラグビー (2015 - 2017)
 - Harlequins (2017 - 2020)
 - Biarritz Olympique Pays Basque (2020 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2022)
-- Biarritz Olympique Pays Basque (2023 - 2023)
+- [ラシン92](/teams/top14/racing-92) (2022)
+- Biarritz Olympique Pays Basque (2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - )

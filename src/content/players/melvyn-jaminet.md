@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: "France"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -28,6 +28,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - RC Hyères Carqueiranne La Crau (2016 - 2018)
 - [ペルピニャン](/teams/top14/perpignan) (2018 - 2022)
 - [トゥールーズ](/teams/top14/toulouse) (2022 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023 - 2023)
+- [トゥーロン](/teams/top14/toulon) (2023)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - 2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

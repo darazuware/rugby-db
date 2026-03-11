@@ -13,7 +13,7 @@ caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -26,10 +26,10 @@ facebook: ""
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2012 - 2014)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2016)
 - メルボルン・レベルズ (2016 - 2017)
-- North Harbour (2017 - 2017)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2017)
-- North Harbour (2018 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2018)
+- North Harbour (2017)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2017)
+- North Harbour (2018)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2018)
 - [ラシン92](/teams/top14/racing-92) (2018 - 2020)
 - [ペルピニャン](/teams/top14/perpignan) (2020 - 2021)
 - [ラシン92](/teams/top14/racing-92) (2021 - 2023)

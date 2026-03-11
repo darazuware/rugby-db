@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,7 +25,8 @@ facebook: ""
 
 - Bay of Plenty Steamers (2020 - 2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- Bay of Plenty Steamers (2024 - 2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Bay of Plenty Steamers (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
 - Bay of Plenty Steamers (2025 - )
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

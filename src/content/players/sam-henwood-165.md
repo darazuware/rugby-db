@@ -25,8 +25,8 @@ facebook: ""
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2016)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
-- Counties Manukau Steelers (2018 - 2018)
+- Counties Manukau Steelers (2018)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2019 - 2020)
-- Counties Manukau Steelers (2019 - 2019)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2019)
+- Counties Manukau Steelers (2019)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
 - [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020 - 2026)

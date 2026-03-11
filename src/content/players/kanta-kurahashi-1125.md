@@ -16,12 +16,11 @@ nationality: ""
 category: "カテゴリーA"
 division: ""
 league: "league-one"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

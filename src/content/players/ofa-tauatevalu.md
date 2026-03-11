@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,6 +25,7 @@ facebook: ""
 
 - Manawatu Turbos (2020 - 2023)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2024)
-- Manawatu Turbos (2024 - 2024)
+- Manawatu Turbos (2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
 - Manawatu Turbos (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

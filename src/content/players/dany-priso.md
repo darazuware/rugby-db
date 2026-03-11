@@ -13,7 +13,7 @@ caps: "Cameroon"
 league_one_caps: "0"
 country: "Cameroon"
 nationality: "France"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022

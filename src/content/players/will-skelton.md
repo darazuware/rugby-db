@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: "Néo"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020
@@ -24,9 +24,9 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2016)
-- Saracens (2016 - 2016)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016 - 2016)
-- Saracens (2017 - 2017)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2017)
+- Saracens (2016)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016)
+- Saracens (2017)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017)
 - Saracens (2017 - 2020)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2026)

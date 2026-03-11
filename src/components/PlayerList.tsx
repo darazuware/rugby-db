@@ -677,7 +677,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                 {player.data.position}
                                             </span>
                                         </div>
-                                        {player.data.category && (
+                                        {player.data.category && (player.data.league === 'league-one' || player.data.league === 'leagueone') && (
                                             <span className={`text-[9px] font-black uppercase tracking-widest ${categoryColor}`}>{player.data.category}</span>
                                         )}
                                     </div>

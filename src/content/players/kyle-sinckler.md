@@ -13,7 +13,7 @@ caps: "England"
 league_one_caps: "0"
 country: "England"
 nationality: "Angleterre"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Harlequins (2013 - 2019)
-- Bristol Bears (2019 - 2019)
-- Harlequins (2020 - 2020)
+- Bristol Bears (2019)
+- Harlequins (2020)
 - Bristol Bears (2020 - 2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

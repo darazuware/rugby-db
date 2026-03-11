@@ -13,7 +13,7 @@ caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
 nationality: "Italie"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -23,8 +23,8 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- Rugby Calvisano (2019 - 2019)
-- ベネットン・ラグビー・トレヴィーゾ (2019 - 2019)
-- Rugby Calvisano (2020 - 2020)
+- Rugby Calvisano (2019)
+- ベネットン・ラグビー・トレヴィーゾ (2019)
+- Rugby Calvisano (2020)
 - ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

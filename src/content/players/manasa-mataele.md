@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -23,17 +23,17 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2019)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2019)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2021)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2022)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2021)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2021)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

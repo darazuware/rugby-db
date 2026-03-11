@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - Manawatu Turbos (2020 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2021)
-- Manawatu Turbos (2021 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2022)
-- Manawatu Turbos (2022 - 2022)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
+- Manawatu Turbos (2021)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
+- Manawatu Turbos (2022)
 - [ラシン92](/teams/top14/racing-92) (2022 - 2024)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - 2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

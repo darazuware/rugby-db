@@ -23,11 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2021)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2026)

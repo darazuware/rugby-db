@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
-- North Harbour (2018 - 2018)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2018)
+- North Harbour (2018)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018)
 - BlackRams Tokyo (2019 - 2024)
-- North Harbour (2019 - 2019)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2019)
+- North Harbour (2019)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - )

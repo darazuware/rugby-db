@@ -13,7 +13,7 @@ caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -25,12 +25,12 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - Wasps (2013 - 2019)
 - Bristol Bears (2019 - 2021)
-- Bath Rugby (2021 - 2021)
-- Bristol Bears (2021 - 2021)
-- Bath Rugby (2022 - 2022)
-- Bristol Bears (2022 - 2022)
+- Bath Rugby (2021)
+- Bristol Bears (2021)
+- Bath Rugby (2022)
+- Bristol Bears (2022)
 - BlackRams Tokyo (2022 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2024)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024)
 - BlackRams Tokyo (2025 - )
 - [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )
 - [ラシン92](/teams/top14/racing-92) (2025 - )

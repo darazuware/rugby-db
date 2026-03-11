@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,7 +25,7 @@ facebook: ""
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2022)
 - [リヨン](/teams/top14/lyon) (2022 - 2024)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024)
 - [リヨン](/teams/top14/lyon) (2025 - )
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

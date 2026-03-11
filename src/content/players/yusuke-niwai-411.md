@@ -24,11 +24,8 @@ facebook: ""
 ---
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2014 - 2016)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2016 - 2016)
-- Sunwolves (2016 - 2016)
-- Sunwolves (2017 - 2018)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2017)
-- Sunwolves (2017 - 2017)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2018)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2019 - 2026)
-- Sunwolves (2019 - 2019)
+- Sunwolves (2016 - 2018)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017)
+- Sunwolves (2017)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2026)
+- Sunwolves (2019)

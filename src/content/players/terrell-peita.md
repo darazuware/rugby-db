@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,12 +24,13 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
-- New England Free Jacks (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- New England Free Jacks (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- Manawatu Turbos (2022 - 2022)
-- Manawatu Turbos (2023 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
+- New England Free Jacks (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- New England Free Jacks (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Manawatu Turbos (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Manawatu Turbos (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - Northland Taniwha (2023 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

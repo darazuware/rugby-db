@@ -23,10 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2022)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2026)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)

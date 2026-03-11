@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2022)
-- US Carcassonne (2022 - 2022)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2023)
-- US Carcassonne (2023 - 2023)
+- US Carcassonne (2022)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
+- US Carcassonne (2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)

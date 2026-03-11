@@ -16,12 +16,11 @@ nationality: ""
 category: "カテゴリーB"
 division: ""
 league: "league-one"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

@@ -13,7 +13,7 @@ caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
 nationality: "France"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -26,9 +26,9 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - [トゥールーズ](/teams/top14/toulouse) (2008 - 2012)
 - [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
 - [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
-- CA Brive Corrèze Limousin (2020 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - 2020)
+- CA Brive Corrèze Limousin (2020)
+- [モンペリエ](/teams/top14/montpellier) (2020)
 - CA Brive Corrèze Limousin (2020 - 2021)
-- [モンペリエ](/teams/top14/montpellier) (2021 - 2021)
+- [モンペリエ](/teams/top14/montpellier) (2021)
 - CA Brive Corrèze Limousin (2021 - 2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

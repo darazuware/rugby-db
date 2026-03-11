@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -27,7 +27,7 @@ facebook: ""
 - CS Bourgoin Jallieu Rugby (2017 - 2019)
 - Soyaux-Angoulême XV Charente (2019 - 2023)
 - US Colomiers (2023 - 2025)
-- CA Brive Corrèze Limousin (2025 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - 2025)
+- CA Brive Corrèze Limousin (2025)
+- [リヨン](/teams/top14/lyon) (2025)
 - CA Brive Corrèze Limousin (2026 - )
 - [リヨン](/teams/top14/lyon) (2026 - )

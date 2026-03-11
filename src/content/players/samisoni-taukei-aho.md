@@ -13,7 +13,7 @@ caps: "Tonga"
 league_one_caps: "0"
 country: "Tonga"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2020
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
-- Waikato Mooloos (2019 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
-- Waikato Mooloos (2020 - 2020)
+- Waikato Mooloos (2019)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- Waikato Mooloos (2020)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2026)

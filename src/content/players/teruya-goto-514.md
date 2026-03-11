@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2014 - 2016)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2016 - 2016)
-- Sunwolves (2016 - 2016)
+- Sunwolves (2016)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2026)
-- Sunwolves (2017 - 2017)
+- Sunwolves (2017)

@@ -13,10 +13,10 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,11 +24,12 @@ facebook: ""
 ---
 
 - Tasman Mako (2019 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- Tasman Mako (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- Tasman Mako (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
-- Tasman Mako (2023 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- Tasman Mako (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Tasman Mako (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Tasman Mako (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- Tasman Mako (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )

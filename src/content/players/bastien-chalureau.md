@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Voir"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020
@@ -28,7 +28,7 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [トゥールーズ](/teams/top14/toulouse) (2009 - 2014)
 - [ペルピニャン](/teams/top14/perpignan) (2014 - 2017)
 - USON Nevers Rugby (2017 - 2019)
-- [トゥールーズ](/teams/top14/toulouse) (2019 - 2019)
-- [モンペリエ](/teams/top14/montpellier) (2019 - 2019)
-- [トゥールーズ](/teams/top14/toulouse) (2020 - 2020)
+- [トゥールーズ](/teams/top14/toulouse) (2019)
+- [モンペリエ](/teams/top14/montpellier) (2019)
+- [トゥールーズ](/teams/top14/toulouse) (2020)
 - [モンペリエ](/teams/top14/montpellier) (2020 - 2026)

@@ -61,24 +61,10 @@ def format_career_md(career_str, current_team, name_en=""):
     # 昇順（古い順）に並べ替える
     parsed_entries.sort(key=lambda x: x['year'])
     
-    # 学歴を除外したプロキャリアのみを抽出
-    pro_entries = []
+    # チーム・期間情報の抽出と正規化
+    temp_entries = []
     for entry in parsed_entries:
         p = entry['text']
-        match = re.search(r'^(.+?) \(([\d\s\?\*]+) - ([\d\s\?\*]*)\)$', p)
-        if not match:
-            match = re.search(r'^(.+?) \(([\d\s\?\*]+)\)$', p)
-        
-        team = match.group(1).strip() if match else p.strip()
-        if any(kw in team for kw in ["University", "College", "School", "小学校", "中学校", "高校", "大学", "学園"]):
-            continue
-        pro_entries.append(entry)
-
-    lines = []
-    seen_lines = set()
-    for i, entry in enumerate(pro_entries):
-        p = entry['text']
-        # より柔軟な正規表現 (スペースなしや特殊記号に対応)
         match = re.search(r'^(.+?)\s*\(([\d\s\?\*]+)\s*-\s*([\d\s\?\*]*)\)$', p)
         if not match:
             match = re.search(r'^(.+?)\s*\(([\d\s\?\*]+)\)$', p)
@@ -88,38 +74,127 @@ def format_career_md(career_str, current_team, name_en=""):
             start_p = match.group(2).strip()
             end_p = match.group(3).strip() if len(match.groups()) > 2 else ""
             
-            # チーム名のリンク化
-            linked_team = get_team_link(team)
+            # 学歴を除外
+            if any(kw in team for kw in ["University", "College", "School", "小学校", "中学校", "高校", "大学", "学園"]):
+                continue
             
-            # 最新年度のエントリかつ、終了年が将来または空の場合は「現在進行形」とみなす
-            max_year = max(e['year'] for e in pro_entries)
-            is_newest_year = (entry['year'] == max_year)
+            temp_entries.append({
+                'team': team,
+                'start': start_p,
+                'end': end_p,
+                'year': entry['year']
+            })
+        else:
+            # 形式が合わない場合はそのまま保持（学歴チェックは一応行う）
+            if not any(kw in entry['text'] for kw in ["University", "College", "School", "小学校", "中学校", "高校", "大学", "学園"]):
+                temp_entries.append({
+                    'team': entry['text'].strip(),
+                    'start': "",
+                    'end': "",
+                    'year': entry['year'],
+                    'raw': True
+                })
+
+    if not temp_entries:
+        return ""
+
+    # 同一チームの連続・重複期間を統合
+    merged = []
+    
+    def get_base_team_name(t):
+        # リンクがあれば剥がす
+        t = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', t)
+        # 括弧（全角半角両方）を剥がす
+        t = re.sub(r'[\(（].*?[\)）]', '', t)
+        t = t.strip()
+        
+        # 特定のチーム名の名寄せ（より網羅的な正規化）
+        # 例: Auckland と Blues が交互にくるケースへの対応
+        name_map = {
+            'Auckland': 'Auckland Blues',
+            'Blues': 'Auckland Blues',
+            'Wellington': 'Wellington Lions',
+            'Lions': 'Wellington Lions',
+            'Canterbury': 'Crusaders',
+            'Waikato': 'Chiefs',
+            'Otago': 'Highlanders',
+            'Taranaki': 'Chiefs'
+        }
+        for k, v in name_map.items():
+            if t == k: return v
+        return t
+
+    for entry in temp_entries:
+        if not merged:
+            merged.append(entry)
+            continue
+        
+        last = merged[-1]
+        
+        # 生のチーム名ではなく、正規化した名前で比較
+        base_last = get_base_team_name(last['team'])
+        base_curr = get_base_team_name(entry['team'])
+
+        if base_last == base_curr and not entry.get('raw') and not last.get('raw'):
+            # 期間を統合
+            # 開始年: 最小値を取る
+            if last['start'] and entry['start']:
+                try:
+                    l_s = int(last['start']) if last['start'].isdigit() else 9999
+                    e_s = int(entry['start']) if entry['start'].isdigit() else 9999
+                    if e_s < l_s: last['start'] = str(e_s)
+                except: pass
+            elif entry['start']:
+                last['start'] = entry['start']
             
-            if is_newest_year and max_year >= CURRENT_YEAR - 2:
-                # 終了年が空、または現在より未来の年は「現在進行」
-                # ただし 2024-2024 のように同じ年の場合は、あえて設定されているのでそのまま
-                if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
-                    period = f"{start_p} - "
-                else:
-                    period = f"{start_p} - {end_p}"
-            elif end_p:
-                period = f"{start_p} - {end_p}"
-            elif '-' in p or ' - ' in p:
+            # 終了年: 最大値を取る、または空（現在進行）
+            if not last['end'] or not entry['end']:
+                last['end'] = ""
+            else:
+                try:
+                    l_e = int(last['end']) if last['end'].isdigit() else 0
+                    e_e = int(entry['end']) if entry['end'].isdigit() else 0
+                    last['end'] = str(max(l_e, e_e))
+                except: pass
+            
+            # year (判定用) も最新に更新
+            last['year'] = max(last['year'], entry['year'])
+        else:
+            merged.append(entry)
+
+    lines = []
+    max_year = max(e['year'] for e in merged) if merged else 0
+    
+    for entry in merged:
+        if entry.get('raw'):
+            linked = get_team_link(entry['team'])
+            lines.append(f"- {linked}")
+            continue
+
+        linked_team = get_team_link(entry['team'])
+        start_p = entry['start']
+        end_p = entry['end']
+        
+        # 現在進行形の判定
+        is_current = (entry['year'] == max_year and max_year >= CURRENT_YEAR - 2)
+        if is_current:
+            # 終了年が空、または最近の年なら「現在進行」
+            if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
                 period = f"{start_p} - "
             else:
-                period = start_p
-            
-            line = f"- {linked_team} ({period})"
-            if line not in seen_lines:
-                lines.append(line)
-                seen_lines.add(line)
+                period = f"{start_p} - {end_p}"
+        elif end_p and end_p != start_p:
+            period = f"{start_p} - {end_p}"
+        elif start_p:
+            period = start_p
         else:
-            linked = get_team_link(p)
-            line = f"- {linked}"
-            if line not in seen_lines:
-                lines.append(line)
-                seen_lines.add(line)
-            
+            period = ""
+
+        if period:
+            lines.append(f"- {linked_team} ({period})")
+        else:
+            lines.append(f"- {linked_team}")
+
     return "\n".join(lines)
 
 def generate_slug(name_en, player_id, scraped_url=""):
@@ -213,7 +288,11 @@ def main():
                 country = row.get('International_Caps', '') or row.get('国籍', '')
             
             cat_v = (row.get('カテゴリ', '') or '').strip()
-            category = f"カテゴリー{cat_v}" if cat_v in ['A', 'B', 'C'] else ""
+            # カテゴリーは League One 専用の項目であるため、league-one の場合のみ表示する
+            if league in ['league-one', 'leagueone'] and cat_v in ['A', 'B', 'C']:
+                category = f"カテゴリー{cat_v}"
+            else:
+                category = ""
             
             # ディビジョンの推論
             division = ""

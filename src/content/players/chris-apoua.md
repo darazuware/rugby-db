@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -26,10 +26,11 @@ facebook: ""
 - Northland Taniwha (2015 - 2017)
 - Southland Stags (2017 - 2021)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2022)
-- Northland Taniwha (2022 - 2022)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2023)
+- Northland Taniwha (2022)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
 - Northland Taniwha (2023 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- Northland Taniwha (2024 - 2024)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
+- Northland Taniwha (2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
 - Northland Taniwha (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

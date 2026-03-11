@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2019
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - RC Soisy Andilly Margency (2012 - 2013)
 - [ラシン92](/teams/top14/racing-92) (2013 - 2018)
-- [ヴァンヌ](/teams/top14/vannes) (2018 - 2018)
-- [ラシン92](/teams/top14/racing-92) (2019 - 2019)
-- [ヴァンヌ](/teams/top14/vannes) (2019 - 2019)
+- [ヴァンヌ](/teams/top14/vannes) (2018)
+- [ラシン92](/teams/top14/racing-92) (2019)
+- [ヴァンヌ](/teams/top14/vannes) (2019)
 - [ラシン92](/teams/top14/racing-92) (2019 - 2026)

@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Voir"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Harlequins (2019 - 2022)
-- London Scottish (2022 - 2022)
-- Harlequins (2023 - 2023)
-- London Scottish (2023 - 2023)
+- London Scottish (2022)
+- Harlequins (2023)
+- London Scottish (2023)
 - Harlequins (2023 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2025 - )

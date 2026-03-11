@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - 2022)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2022 - 2022)
-- Bay of Plenty Steamers (2022 - 2022)
+- Bay of Plenty Steamers (2022)
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - 2026)
-- Bay of Plenty Steamers (2023 - 2023)
+- Bay of Plenty Steamers (2023)

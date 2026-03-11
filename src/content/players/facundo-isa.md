@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -26,8 +26,8 @@ facebook: ""
 - [トゥーロン](/teams/top14/toulon) (2013 - 2014)
 - Pampas XV (2014 - 2015)
 - Jaguares (2015 - 2016)
-- [リヨン](/teams/top14/lyon) (2016 - 2016)
-- Jaguares (2017 - 2017)
-- [リヨン](/teams/top14/lyon) (2017 - 2017)
+- [リヨン](/teams/top14/lyon) (2016)
+- Jaguares (2017)
+- [リヨン](/teams/top14/lyon) (2017)
 - [トゥーロン](/teams/top14/toulon) (2017 - 2025)
 - [ポー](/teams/top14/pau) (2025 - )

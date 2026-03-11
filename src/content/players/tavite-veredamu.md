@@ -13,7 +13,7 @@ caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
 nationality: "Fijian"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -25,9 +25,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Rugby Club Nîmois (2010 - 2018)
 - France 7 (2018 - 2020)
-- [クレルモン](/teams/top14/clermont) (2020 - 2020)
-- France 7 (2020 - 2020)
-- [クレルモン](/teams/top14/clermont) (2021 - 2021)
-- France 7 (2021 - 2021)
+- [クレルモン](/teams/top14/clermont) (2020)
+- France 7 (2020)
+- [クレルモン](/teams/top14/clermont) (2021)
+- France 7 (2021)
 - [リヨン](/teams/top14/lyon) (2021 - 2023)
 - [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)

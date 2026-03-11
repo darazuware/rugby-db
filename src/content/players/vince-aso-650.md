@@ -24,9 +24,10 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2019)
-- エミレーツ・ライオンズ (2019 - 2019)
-- エミレーツ・ライオンズ (2020 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
+- エミレーツ・ライオンズ (2019 - 2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- エミレーツ・ライオンズ (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2026)
-- エミレーツ・ライオンズ (2021 - 2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
+- エミレーツ・ライオンズ (2021)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)

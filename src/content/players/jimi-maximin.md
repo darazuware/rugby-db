@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -28,10 +28,10 @@ facebook: ""
 - [モンペリエ](/teams/top14/montpellier) (2015 - 2020)
 - [ポー](/teams/top14/pau) (2020 - 2021)
 - Stado Tarbes Pyrénées Rugby (2021 - 2022)
-- [ポー](/teams/top14/pau) (2022 - 2022)
-- Stado Tarbes Pyrénées Rugby (2022 - 2022)
-- Rouen Normandie Rugby (2022 - 2022)
-- [ポー](/teams/top14/pau) (2023 - 2023)
-- Stado Tarbes Pyrénées Rugby (2023 - 2023)
+- [ポー](/teams/top14/pau) (2022)
+- Stado Tarbes Pyrénées Rugby (2022)
+- Rouen Normandie Rugby (2022)
+- [ポー](/teams/top14/pau) (2023)
+- Stado Tarbes Pyrénées Rugby (2023)
 - Rouen Normandie Rugby (2023 - 2024)
 - [ポー](/teams/top14/pau) (2024 - )

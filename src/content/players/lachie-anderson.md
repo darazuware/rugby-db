@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Aussie 7's (2019 - 2019)
-- メルボルン・レベルズ (2019 - 2019)
-- Aussie 7's (2020 - 2020)
+- Aussie 7's (2019)
+- メルボルン・レベルズ (2019)
+- Aussie 7's (2020)
 - メルボルン・レベルズ (2020 - 2024)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

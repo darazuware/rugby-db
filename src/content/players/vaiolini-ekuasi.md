@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -23,12 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- メルボルン・レベルズ (2022 - 2022)
-- メルボルン・レベルズ (2023 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2022)
+- メルボルン・レベルズ (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- メルボルン・レベルズ (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- メルボルン・レベルズ (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - メルボルン・レベルズ (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Française"
 nationality: "Française"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -28,6 +28,6 @@ facebook: "https://www.facebook.com/staderochelais"
 - Stade Montois Rugby Pro (2019 - 2020)
 - FC Grenoble Rugby (2020 - 2022)
 - [カストル](/teams/top14/castres) (2022 - 2025)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2025)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2025)
 - [カストル](/teams/top14/castres) (2026 - )
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2026 - )

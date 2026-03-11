@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,7 +24,8 @@ facebook: ""
 ---
 
 - エミレーツ・ライオンズ (2022 - 2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
-- エミレーツ・ライオンズ (2024 - 2024)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- エミレーツ・ライオンズ (2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
 - エミレーツ・ライオンズ (2025 - )
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

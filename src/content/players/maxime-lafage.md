@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - US Colomiers (2009 - 2018)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2019)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2020)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
 - [ヴァンヌ](/teams/top14/vannes) (2022 - 2026)

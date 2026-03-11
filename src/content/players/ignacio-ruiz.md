@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Argentine"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Jaguares XV (2020 - 2021)
-- Club Regatas de Bella Vista (2021 - 2021)
-- Jaguares XV (2022 - 2022)
-- Club Regatas de Bella Vista (2022 - 2022)
+- Club Regatas de Bella Vista (2021)
+- Jaguares XV (2022)
+- Club Regatas de Bella Vista (2022)
 - London Irish (2022 - 2023)
 - [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)

@@ -13,7 +13,7 @@ caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2022
@@ -25,7 +25,7 @@ facebook: ""
 
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
 - メルボルン・レベルズ (2019 - 2021)
-- Northampton Saints (2021 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2021)
-- Northampton Saints (2022 - 2022)
+- Northampton Saints (2021)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021)
+- Northampton Saints (2022)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)

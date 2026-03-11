@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2020
@@ -26,6 +26,6 @@ facebook: ""
 - メルボルン・レベルズ (2011 - 2015)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2017)
 - [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2017 - 2019)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2019)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020 - 2020)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019)
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - 2026)

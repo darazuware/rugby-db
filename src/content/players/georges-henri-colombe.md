@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -25,9 +25,9 @@ facebook: ""
 
 - Racing Nanterre Rugby (2008 - 2011)
 - [ラシン92](/teams/top14/racing-92) (2011 - 2017)
-- USON Nevers Rugby (2017 - 2017)
-- [ラシン92](/teams/top14/racing-92) (2018 - 2018)
-- USON Nevers Rugby (2018 - 2018)
+- USON Nevers Rugby (2017)
+- [ラシン92](/teams/top14/racing-92) (2018)
+- USON Nevers Rugby (2018)
 - [ラシン92](/teams/top14/racing-92) (2018 - 2022)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
 - [トゥールーズ](/teams/top14/toulouse) (2025 - )

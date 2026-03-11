@@ -13,7 +13,7 @@ caps: "South Africa"
 league_one_caps: "0"
 country: "South Africa"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- スカーレッツ (2017 - 2017)
-- DHLストーマーズ (2017 - 2017)
-- スカーレッツ (2018 - 2018)
+- スカーレッツ (2017)
+- DHLストーマーズ (2017)
+- スカーレッツ (2018)
 - DHLストーマーズ (2018 - 2025)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

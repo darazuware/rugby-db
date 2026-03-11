@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - [トゥールーズ](/teams/top14/toulouse) (2009 - 2023)
-- Blagnac (2023 - 2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023 - 2023)
+- Blagnac (2023)
+- [トゥールーズ](/teams/top14/toulouse) (2023)
 - Blagnac (2024 - 2024)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - )

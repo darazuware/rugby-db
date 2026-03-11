@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,15 +24,24 @@ facebook: ""
 ---
 
 - Manawatu Turbos (2016 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
-- Manawatu Turbos (2020 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
-- Manawatu Turbos (2021 - 2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2022)
-- Manawatu Turbos (2022 - 2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2023)
-- Manawatu Turbos (2023 - 2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- Manawatu Turbos (2024 - 2024)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- Manawatu Turbos (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- Manawatu Turbos (2021)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- Manawatu Turbos (2021)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
+- Manawatu Turbos (2022)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
+- Manawatu Turbos (2022)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
+- Manawatu Turbos (2023)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
+- Manawatu Turbos (2023)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- Manawatu Turbos (2024)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- Manawatu Turbos (2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
 - Manawatu Turbos (2025 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

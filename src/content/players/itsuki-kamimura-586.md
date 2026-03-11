@@ -16,12 +16,11 @@ nationality: ""
 category: "カテゴリーA"
 division: ""
 league: "league-one"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - 2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )

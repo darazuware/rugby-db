@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,13 +24,16 @@ facebook: ""
 ---
 
 - Tasman Mako (2017 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2021)
-- Tasman Mako (2021 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2022)
-- Tasman Mako (2022 - 2022)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
+- Tasman Mako (2021)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
+- Tasman Mako (2022)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2023)
-- Tasman Mako (2023 - 2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
-- Tasman Mako (2024 - 2024)
+- Tasman Mako (2023)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
+- Tasman Mako (2024)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
+- Tasman Mako (2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
 - Tasman Mako (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

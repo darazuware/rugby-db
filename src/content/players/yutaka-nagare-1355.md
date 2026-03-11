@@ -24,6 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2017 - 2018)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2018)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2019 - 2026)
-- Sunwolves (2019 - 2019)
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2026)
+- Sunwolves (2019)

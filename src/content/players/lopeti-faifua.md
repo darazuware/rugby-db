@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -26,6 +26,7 @@ facebook: ""
 - West Brisbane Bulldogs (2020 - 2021)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2023)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
-- Tasman Mako (2024 - 2024)
+- Tasman Mako (2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
 - Tasman Mako (2025 - )
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

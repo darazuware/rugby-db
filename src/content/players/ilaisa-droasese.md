@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2022
@@ -25,6 +25,6 @@ facebook: ""
 
 - Brisbane City (2019 - 2020)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2021)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2022)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021)
+- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)

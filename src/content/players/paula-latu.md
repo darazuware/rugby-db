@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Southland Stags (2020 - 2024)
-- ドラゴンズ・ラグビー (2024 - 2024)
-- Southland Stags (2024 - 2024)
+- ドラゴンズ・ラグビー (2024)
+- Southland Stags (2024)
 - ドラゴンズ・ラグビー (2025 - )
 - Southland Stags (2025 - )
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

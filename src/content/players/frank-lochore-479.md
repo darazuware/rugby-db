@@ -24,10 +24,11 @@ facebook: ""
 ---
 
 - Hawke's Bay Magpies (2021 - 2023)
-- Hawke's Bay Magpies (2023 - 2023)
-- Utah Warriors (2023 - 2023)
-- Hawke's Bay Magpies (2024 - 2024)
-- Utah Warriors (2024 - 2024)
+- Utah Warriors (2023)
+- Hawke's Bay Magpies (2024)
+- Utah Warriors (2024)
+- Hawke's Bay Magpies (2024)
+- Utah Warriors (2024)
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )
 - Hawke's Bay Magpies (2025 - )
 - Utah Warriors (2025 - )

@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -25,11 +25,12 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Jaguares (2017 - 2020)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2022)
-- Worcester Warriors (2022 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2022)
-- Worcester Warriors (2023 - 2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2023)
-- [リヨン](/teams/top14/lyon) (2023 - 2023)
+- Worcester Warriors (2022)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- Worcester Warriors (2023)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
+- [リヨン](/teams/top14/lyon) (2023)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
 - [リヨン](/teams/top14/lyon) (2024 - 2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - )

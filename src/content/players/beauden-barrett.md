@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
-- ヴォーダコム・ブルズ (2020 - 2020)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
+- ヴォーダコム・ブルズ (2019)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- ヴォーダコム・ブルズ (2020)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2021)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2024)

@@ -24,11 +24,11 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021)
 - Southland Stags (2022 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

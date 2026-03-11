@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: "Néo"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -27,9 +27,9 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - Sydney Roosters (2014 - 2016)
 - FC Lézignan XIII (2016 - 2017)
 - Bay of Plenty Steamers (2018 - 2019)
-- エミレーツ・ライオンズ (2019 - 2019)
-- コナート・ラグビー (2019 - 2019)
-- エミレーツ・ライオンズ (2020 - 2020)
+- エミレーツ・ライオンズ (2019)
+- コナート・ラグビー (2019)
+- エミレーツ・ライオンズ (2020)
 - コナート・ラグビー (2020 - 2022)
 - CA Brive Corrèze Limousin (2022 - 2023)
 - [カストル](/teams/top14/castres) (2023 - 2026)

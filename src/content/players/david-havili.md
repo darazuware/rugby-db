@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -23,21 +23,28 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2014 - 2014)
-- Tasman Mako (2014 - 2014)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2015)
-- Tasman Mako (2015 - 2015)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2016)
-- Tasman Mako (2016 - 2016)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2014)
+- Tasman Mako (2014)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015)
+- Tasman Mako (2015)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015)
+- Tasman Mako (2015)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016)
+- Tasman Mako (2016)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2019)
-- Tasman Mako (2019 - 2019)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2020)
-- Tasman Mako (2020 - 2020)
+- Tasman Mako (2019)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020)
+- Tasman Mako (2020)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2022)
-- Tasman Mako (2022 - 2022)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
-- Tasman Mako (2023 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2024)
-- Tasman Mako (2024 - 2024)
+- Tasman Mako (2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- Tasman Mako (2023)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- Tasman Mako (2023)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- Tasman Mako (2024)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- Tasman Mako (2024)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
 - Tasman Mako (2025 - )
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

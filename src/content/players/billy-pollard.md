@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -25,7 +25,7 @@ facebook: ""
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2019)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2023)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2023)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2023)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2023)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

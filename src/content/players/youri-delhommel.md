@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2021
@@ -25,7 +25,7 @@ facebook: ""
 
 - US Ris-Orangis Rugby (2004 - 2010)
 - Rugby Club Massy Essonne (2010 - 2018)
-- [モンペリエ](/teams/top14/montpellier) (2018 - 2018)
-- Rugby Club Massy Essonne (2019 - 2019)
+- [モンペリエ](/teams/top14/montpellier) (2018)
+- Rugby Club Massy Essonne (2019)
 - [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
 - [ポー](/teams/top14/pau) (2021 - 2026)

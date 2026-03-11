@@ -16,7 +16,7 @@ nationality: ""
 category: "カテゴリーC"
 division: ""
 league: "league-one"
-joined_year: 2022
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - DHLストーマーズ (2013 - 2019)
-- マンスター・ラグビー (2019 - 2019)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - 2019)
+- マンスター・ラグビー (2019)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019)
 - マンスター・ラグビー (2020 - 2022)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2020 - 2020)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - 2026)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2020 - 2026)

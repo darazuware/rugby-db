@@ -27,6 +27,5 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2017)
 - Northampton Saints (2017 - 2022)
 - Bath Rugby (2022 - 2023)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - 2023)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2024 - )
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - )
 - Bath Rugby (2024 - 2024)

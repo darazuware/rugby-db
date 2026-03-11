@@ -23,6 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Sunwolves (2019 - 2019)
-- Sunwolves (2020 - 2020)
+- Sunwolves (2019 - 2020)
 - BlackRams Tokyo (2021 - 2026)

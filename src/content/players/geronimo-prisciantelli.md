@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentina"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Club Atlético San Isidro (2018 - 2021)
-- Jaguares XV (2021 - 2021)
-- Club Atlético San Isidro (2022 - 2022)
-- Jaguares XV (2022 - 2022)
+- Jaguares XV (2021)
+- Club Atlético San Isidro (2022)
+- Jaguares XV (2022)
 - ゼブレ・パルマ (2022 - 2025)
 - [ラシン92](/teams/top14/racing-92) (2025 - )

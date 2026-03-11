@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Voir"
 nationality: "Voir"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,17 +24,24 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
-- ヴォーダコム・ブルズ (2020 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
-- ヴォーダコム・ブルズ (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- ヴォーダコム・ブルズ (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
-- ヴォーダコム・ブルズ (2023 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- ヴォーダコム・ブルズ (2024 - 2024)
+- ヴォーダコム・ブルズ (2019)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- ヴォーダコム・ブルズ (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- ヴォーダコム・ブルズ (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- ヴォーダコム・ブルズ (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- ヴォーダコム・ブルズ (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- ヴォーダコム・ブルズ (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- ヴォーダコム・ブルズ (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- ヴォーダコム・ブルズ (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- ヴォーダコム・ブルズ (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- ヴォーダコム・ブルズ (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
 - [モンペリエ](/teams/top14/montpellier) (2025 - )

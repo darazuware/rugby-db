@@ -16,12 +16,11 @@ nationality: ""
 category: "カテゴリーA"
 division: ""
 league: "league-one"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )
+- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - )

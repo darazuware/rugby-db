@@ -13,7 +13,7 @@ caps: "England"
 league_one_caps: "0"
 country: "England"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Wasps (2016 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - 2022)
-- Wasps (2023 - 2023)
+- [トゥールーズ](/teams/top14/toulouse) (2022)
+- Wasps (2023)
 - [トゥールーズ](/teams/top14/toulouse) (2023 - 2026)

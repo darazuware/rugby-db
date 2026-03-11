@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,13 +24,17 @@ facebook: ""
 ---
 
 - エミレーツ・ライオンズ (2019 - 2021)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2021)
-- Hawke's Bay Magpies (2021 - 2021)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
-- Hawke's Bay Magpies (2022 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
-- Hawke's Bay Magpies (2023 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- Hawke's Bay Magpies (2024 - 2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
+- Hawke's Bay Magpies (2021)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- Hawke's Bay Magpies (2022)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- Hawke's Bay Magpies (2022)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- Hawke's Bay Magpies (2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- Hawke's Bay Magpies (2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- Hawke's Bay Magpies (2024)
 - Newcastle Knights (2024 - 2025)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

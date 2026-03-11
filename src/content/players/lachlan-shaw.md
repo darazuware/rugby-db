@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -25,7 +25,7 @@ facebook: ""
 
 - Université du Queensland (2021 - 2022)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
-- Manawatu Turbos (2023 - 2023)
+- Manawatu Turbos (2023)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
 - Manawatu Turbos (2024 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

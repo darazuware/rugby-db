@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Saracens (2018 - 2023)
-- Ampthill Rugby (2023 - 2023)
+- Ampthill Rugby (2023)
 - [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
 - Ampthill Rugby (2024 - 2024)
 - Saracens (2024 - 2024)

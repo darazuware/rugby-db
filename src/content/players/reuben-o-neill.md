@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,18 +25,27 @@ facebook: ""
 
 - ヴォーダコム・ブルズ (2014 - 2018)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
-- ヴォーダコム・ブルズ (2020 - 2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2021)
-- ヴォーダコム・ブルズ (2021 - 2021)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2022)
-- ヴォーダコム・ブルズ (2022 - 2022)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2022)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2023)
-- ヴォーダコム・ブルズ (2023 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- ヴォーダコム・ブルズ (2024 - 2024)
+- ヴォーダコム・ブルズ (2019)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- ヴォーダコム・ブルズ (2020)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- ヴォーダコム・ブルズ (2020)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
+- ヴォーダコム・ブルズ (2021)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
+- ヴォーダコム・ブルズ (2021)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- ヴォーダコム・ブルズ (2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- ヴォーダコム・ブルズ (2022)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- ヴォーダコム・ブルズ (2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- ヴォーダコム・ブルズ (2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- ヴォーダコム・ブルズ (2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- ヴォーダコム・ブルズ (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
 - ヴォーダコム・ブルズ (2025 - )
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

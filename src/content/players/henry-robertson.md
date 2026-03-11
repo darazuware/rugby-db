@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2022
@@ -24,7 +24,5 @@ facebook: ""
 ---
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2021)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2022)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2026)

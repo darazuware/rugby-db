@@ -24,10 +24,9 @@ facebook: ""
 ---
 
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2022)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2023 - 2023)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2023 - )
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)

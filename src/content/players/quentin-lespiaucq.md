@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Française"
 nationality: "Française"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022

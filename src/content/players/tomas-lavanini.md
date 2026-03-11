@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025

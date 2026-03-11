@@ -16,12 +16,11 @@ nationality: ""
 category: "カテゴリーA"
 division: ""
 league: "league-one"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2024)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )

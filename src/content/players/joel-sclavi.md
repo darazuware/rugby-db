@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Argentine"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2021
@@ -26,9 +26,9 @@ facebook: "https://www.facebook.com/staderochelais"
 - Bizkaia Gernika RT (2015 - 2016)
 - [ポー](/teams/top14/pau) (2016 - 2017)
 - Soyaux-Angoulême XV Charente (2017 - 2019)
-- Sporting Union Agenais (2019 - 2019)
-- Jaguares (2019 - 2019)
-- Sporting Union Agenais (2020 - 2020)
-- Jaguares (2020 - 2020)
+- Sporting Union Agenais (2019)
+- Jaguares (2019)
+- Sporting Union Agenais (2020)
+- Jaguares (2020)
 - Jaguares XV (2020 - 2021)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2026)

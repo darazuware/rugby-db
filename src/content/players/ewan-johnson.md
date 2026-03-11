@@ -13,7 +13,7 @@ caps: "Scotland"
 league_one_caps: "0"
 country: "Scotland"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025

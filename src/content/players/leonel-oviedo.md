@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -27,10 +27,10 @@ facebook: ""
 - Dogos XV (2019 - 2020)
 - Cordoba Athletic Club (2020 - 2021)
 - Céret Sportif (2021 - 2022)
-- RC Hyères Carqueiranne La Crau (2022 - 2022)
-- Provence Rugby (2022 - 2022)
-- RC Hyères Carqueiranne La Crau (2023 - 2023)
-- Provence Rugby (2023 - 2023)
+- RC Hyères Carqueiranne La Crau (2022)
+- Provence Rugby (2022)
+- RC Hyères Carqueiranne La Crau (2023)
+- Provence Rugby (2023)
 - Club Atlético Peñarol (2023 - 2024)
 - Dogos XV (2024 - 2025)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

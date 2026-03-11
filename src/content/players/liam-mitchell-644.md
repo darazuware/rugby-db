@@ -24,10 +24,11 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2019)
-- Manawatu Turbos (2019 - 2019)
-- Manawatu Turbos (2020 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
+- Manawatu Turbos (2019 - 2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- Manawatu Turbos (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
 - ゼブレ・パルマ (2021 - 2022)
-- Manawatu Turbos (2021 - 2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2021)
+- Manawatu Turbos (2021)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - 2026)

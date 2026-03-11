@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Poids"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2022
@@ -26,7 +26,7 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - ヴォーダコム・ブルズ (2014 - 2017)
 - London Irish (2017 - 2018)
 - マンスター・ラグビー (2018 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- マンスター・ラグビー (2020 - 2020)
+- ヴォーダコム・ブルズ (2019)
+- マンスター・ラグビー (2020)
 - ヴォーダコム・ブルズ (2020 - 2022)
 - [リヨン](/teams/top14/lyon) (2022 - 2026)

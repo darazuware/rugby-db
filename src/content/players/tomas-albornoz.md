@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -27,6 +27,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - Jaguares (2019 - 2020)
 - Jaguares XV (2020 - 2021)
 - ベネットン・ラグビー・トレヴィーゾ (2021 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - 2025)
+- [トゥーロン](/teams/top14/toulon) (2025)
 - ベネットン・ラグビー・トレヴィーゾ (2026 - )
 - [トゥーロン](/teams/top14/toulon) (2026 - )

@@ -24,11 +24,10 @@ facebook: ""
 ---
 
 - メルボルン・レベルズ (2017 - 2018)
-- Melbourne Rising (2018 - 2018)
-- Gordon Rugby Football Club (2018 - 2018)
-- Gordon Rugby Football Club (2019 - 2020)
-- Melbourne Rising (2019 - 2019)
-- Gordon Rugby Football Club (2019 - 2019)
+- Melbourne Rising (2018)
+- Gordon Rugby Football Club (2018 - 2020)
+- Melbourne Rising (2019)
+- Gordon Rugby Football Club (2019)
 - LA Giltinis (2020 - 2021)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2025)
 - ハリウッドベッツ・シャークス (2025 - )

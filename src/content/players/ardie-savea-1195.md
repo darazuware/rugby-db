@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
-- エミレーツ・ライオンズ (2019 - 2019)
+- エミレーツ・ライオンズ (2019)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2023)
-- エミレーツ・ライオンズ (2020 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2020)
+- エミレーツ・ライオンズ (2020)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2023 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )

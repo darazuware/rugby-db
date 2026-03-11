@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -27,7 +27,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Oyonnax Rugby (2012 - 2015)
 - [カストル](/teams/top14/castres) (2015 - 2023)
 - [クレルモン](/teams/top14/clermont) (2023 - 2024)
-- Club Universitario de Buenos Aires (2024 - 2024)
+- Club Universitario de Buenos Aires (2024)
 - [クレルモン](/teams/top14/clermont) (2025 - )
 - Club Universitario de Buenos Aires (2025 - )
 - [ペルピニャン](/teams/top14/perpignan) (2025 - )

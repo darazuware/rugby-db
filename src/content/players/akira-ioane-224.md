@@ -23,12 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2023)
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)

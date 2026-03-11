@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,7 +24,8 @@ facebook: ""
 ---
 
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- Waikato Mooloos (2024 - 2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- Waikato Mooloos (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
 - Waikato Mooloos (2025 - )
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

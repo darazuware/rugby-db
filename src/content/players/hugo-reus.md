@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -27,9 +27,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - CA Périgueux Dordogne (2013 - 2018)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - 2025)
+- [モンペリエ](/teams/top14/montpellier) (2024)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2025)
+- [モンペリエ](/teams/top14/montpellier) (2025)
+- [ペルピニャン](/teams/top14/perpignan) (2025)
 - [モンペリエ](/teams/top14/montpellier) (2026 - )
 - [ペルピニャン](/teams/top14/perpignan) (2026 - )

@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -25,6 +25,6 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - Namosi Rugby (2020 - 2021)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2023)
+- [ラシン92](/teams/top14/racing-92) (2022)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2026)

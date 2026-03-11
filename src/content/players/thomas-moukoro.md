@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Poids"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - [ラシン92](/teams/top14/racing-92) (2015 - 2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2024 - 2024)
+- [ヴァンヌ](/teams/top14/vannes) (2023)
+- [ラシン92](/teams/top14/racing-92) (2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
 - [リヨン](/teams/top14/lyon) (2025 - )

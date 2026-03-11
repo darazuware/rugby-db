@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Manawatu Turbos (2020 - 2023)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - 2023)
-- Manawatu Turbos (2024 - 2024)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - 2024)
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023)
+- Manawatu Turbos (2024)
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024)
 - Manawatu Turbos (2024 - 2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

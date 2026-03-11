@@ -13,15 +13,14 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )

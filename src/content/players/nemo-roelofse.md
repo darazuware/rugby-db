@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "African"
 nationality: "African"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -24,9 +24,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2014 - 2016)
-- Sporting Club Albigeois (2016 - 2016)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2017)
-- Sporting Club Albigeois (2017 - 2017)
+- Sporting Club Albigeois (2016)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017)
+- Sporting Club Albigeois (2017)
 - USON Nevers Rugby (2017 - 2021)
 - [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)
 - [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)

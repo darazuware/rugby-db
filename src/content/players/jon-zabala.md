@@ -13,7 +13,7 @@ caps: "Spain"
 league_one_caps: "0"
 country: "Spain"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -25,9 +25,9 @@ facebook: ""
 
 - Getxo Rugby (2014 - 2015)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2019)
-- Anglet Olympique Rugby Club (2019 - 2019)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2020)
-- Anglet Olympique Rugby Club (2020 - 2020)
+- Anglet Olympique Rugby Club (2019)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
+- Anglet Olympique Rugby Club (2020)
 - Stado Tarbes Pyrénées Rugby (2020 - 2021)
 - Association Sportive Béziers Hérault (2021 - 2024)
 - [ポー](/teams/top14/pau) (2024 - )

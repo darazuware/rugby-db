@@ -13,7 +13,7 @@ caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2023
@@ -25,8 +25,8 @@ facebook: ""
 
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2016)
 - Wasps (2016 - 2017)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2017)
-- Wasps (2018 - 2018)
+- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017)
+- Wasps (2018)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2020)
 - [ラシン92](/teams/top14/racing-92) (2020 - 2022)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)

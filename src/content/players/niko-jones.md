@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -24,14 +24,19 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2022)
-- Old Glory DC RFC (2022 - 2022)
-- Old Glory DC RFC (2023 - 2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Old Glory DC RFC (2022)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- Old Glory DC RFC (2023)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
+- Old Glory DC RFC (2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2024)
 - Old Glory DC RFC (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)

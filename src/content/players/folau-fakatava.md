@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,16 +24,23 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - 2019)
-- Hawke's Bay Magpies (2019 - 2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2020)
-- Hawke's Bay Magpies (2020 - 2020)
+- Hawke's Bay Magpies (2019)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- Hawke's Bay Magpies (2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
-- Hawke's Bay Magpies (2021 - 2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2022)
-- Hawke's Bay Magpies (2022 - 2022)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2023)
-- Hawke's Bay Magpies (2023 - 2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- Hawke's Bay Magpies (2024 - 2024)
+- Hawke's Bay Magpies (2021)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
+- Hawke's Bay Magpies (2022)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
+- Hawke's Bay Magpies (2022)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- Hawke's Bay Magpies (2023)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- Hawke's Bay Magpies (2023)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Hawke's Bay Magpies (2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Hawke's Bay Magpies (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
 - Hawke's Bay Magpies (2025 - )
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

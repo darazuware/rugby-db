@@ -13,7 +13,7 @@ caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: "Argentina"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - Rugby Club Massy Essonne (2014 - 2018)
 - [ラシン92](/teams/top14/racing-92) (2018 - 2021)
-- [ポー](/teams/top14/pau) (2021 - 2021)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2022)
+- [ポー](/teams/top14/pau) (2021)
+- [ラシン92](/teams/top14/racing-92) (2022)
 - [ポー](/teams/top14/pau) (2022 - 2023)
 - [ラシン92](/teams/top14/racing-92) (2023 - 2026)

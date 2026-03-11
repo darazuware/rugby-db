@@ -24,9 +24,10 @@ facebook: ""
 ---
 
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2019)
-- ヴォーダコム・ブルズ (2020 - 2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2020)
+- ヴォーダコム・ブルズ (2019 - 2020)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- ヴォーダコム・ブルズ (2020)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2026)
-- ヴォーダコム・ブルズ (2021 - 2021)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2021)
+- ヴォーダコム・ブルズ (2021)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)

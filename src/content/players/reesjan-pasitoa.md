@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,7 +25,7 @@ facebook: ""
 
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2021)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2024)
-- Northland Taniwha (2024 - 2024)
+- Northland Taniwha (2024)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
 - Northland Taniwha (2025 - )
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

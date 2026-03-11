@@ -13,7 +13,7 @@ caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
 nationality: "Poids"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023

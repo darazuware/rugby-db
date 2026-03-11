@@ -13,7 +13,7 @@ caps: "Germany"
 league_one_caps: "0"
 country: "Germany"
 nationality: "German"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2019

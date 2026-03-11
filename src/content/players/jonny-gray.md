@@ -13,7 +13,7 @@ caps: "Scotland"
 league_one_caps: "0"
 country: "Scotland"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - グラスゴー・ウォリアーズ (2013 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2019)
-- グラスゴー・ウォリアーズ (2020 - 2020)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
+- グラスゴー・ウォリアーズ (2020)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2024)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

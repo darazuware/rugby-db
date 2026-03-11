@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Zealander"
 nationality: "Zealander"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020
@@ -23,9 +23,7 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2015)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2015)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2016)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2017)
 - Provence Rugby (2017 - 2020)
 - [ヴァンヌ](/teams/top14/vannes) (2020 - 2026)

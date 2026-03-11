@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Français"
 nationality: "Français"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2020

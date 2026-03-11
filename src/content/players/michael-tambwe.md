@@ -13,7 +13,7 @@ caps: "Congo"
 league_one_caps: "0"
 country: "Congo"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -24,12 +24,13 @@ facebook: ""
 ---
 
 - エミレーツ・ライオンズ (2016 - 2018)
-- エミレーツ・ライオンズ (2018 - 2018)
-- エミレーツ・ライオンズ (2019 - 2019)
+- エミレーツ・ライオンズ (2018)
+- エミレーツ・ライオンズ (2019)
+- エミレーツ・ライオンズ (2019)
 - ハリウッドベッツ・シャークス (2019 - 2020)
 - ヴォーダコム・ブルズ (2020 - 2022)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2024)
 - [モンペリエ](/teams/top14/montpellier) (2024 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - 2025)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
 - [モンペリエ](/teams/top14/montpellier) (2026 - )
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2026 - )

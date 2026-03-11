@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Rouen Normandie Rugby (2016 - 2018)
 - USON Nevers Rugby (2018 - 2019)
-- Leicester Tigers (2019 - 2019)
-- USON Nevers Rugby (2020 - 2020)
+- Leicester Tigers (2019)
+- USON Nevers Rugby (2020)
 - Leicester Tigers (2020 - 2021)
 - [ポー](/teams/top14/pau) (2021 - 2023)
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)

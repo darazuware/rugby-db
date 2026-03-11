@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023
@@ -25,9 +25,9 @@ facebook: ""
 
 - DHLストーマーズ (2017 - 2018)
 - エミレーツ・ライオンズ (2018 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - 2019)
-- エミレーツ・ライオンズ (2019 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2020 - 2020)
+- [スタッド・フランセ](/teams/top14/paris) (2019)
+- エミレーツ・ライオンズ (2019)
+- [スタッド・フランセ](/teams/top14/paris) (2020)
 - エミレーツ・ライオンズ (2020 - 2022)
 - ハリウッドベッツ・シャークス (2022 - 2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)

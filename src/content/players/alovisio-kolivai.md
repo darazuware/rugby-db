@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2026
@@ -24,8 +24,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - [ヴァンヌ](/teams/top14/vannes) (2010 - 2024)
-- Stade Nantais (2024 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - 2025)
-- Stade Nantais (2025 - 2025)
+- Stade Nantais (2024)
+- [ヴァンヌ](/teams/top14/vannes) (2025)
+- Stade Nantais (2025)
+- [ヴァンヌ](/teams/top14/vannes) (2025)
 - Stade Nantais (2026 - )
 - [ヴァンヌ](/teams/top14/vannes) (2026 - )

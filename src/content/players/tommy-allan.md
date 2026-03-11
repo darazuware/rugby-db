@@ -13,7 +13,7 @@ caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
 nationality: "Italian"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2023

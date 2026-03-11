@@ -13,7 +13,7 @@ caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -25,6 +25,7 @@ facebook: ""
 
 - Samoa 7's (2021 - 2022)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
-- Hawke's Bay Magpies (2024 - 2024)
+- Hawke's Bay Magpies (2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
 - Hawke's Bay Magpies (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

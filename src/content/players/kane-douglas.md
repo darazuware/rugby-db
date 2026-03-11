@@ -13,7 +13,7 @@ caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
 nationality: "Australienne"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024

@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2026
@@ -28,6 +28,6 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2017)
 - コナート・ラグビー (2017 - 2018)
 - [トゥールーズ](/teams/top14/toulouse) (2018 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - 2025)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
 - [トゥールーズ](/teams/top14/toulouse) (2026 - )
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2026 - )

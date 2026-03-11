@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -26,11 +26,11 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - SCO RC Angers (2009 - 2013)
 - Stade Nantais (2013 - 2015)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2015 - 2019)
-- [ヴァンヌ](/teams/top14/vannes) (2019 - 2019)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2020)
-- [ヴァンヌ](/teams/top14/vannes) (2020 - 2020)
+- [ヴァンヌ](/teams/top14/vannes) (2019)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
+- [ヴァンヌ](/teams/top14/vannes) (2020)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2024)
+- [ヴァンヌ](/teams/top14/vannes) (2024)
 - [スタッド・フランセ](/teams/top14/paris) (2025 - )
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

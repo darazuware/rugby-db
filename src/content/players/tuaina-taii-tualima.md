@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -26,7 +26,7 @@ facebook: ""
 - Brisbane City (2018 - 2019)
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2022)
 - メルボルン・レベルズ (2022 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2023)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - メルボルン・レベルズ (2024 - 2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

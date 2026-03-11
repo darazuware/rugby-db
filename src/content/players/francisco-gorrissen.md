@@ -13,7 +13,7 @@ caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentine"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2021
@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Jaguares (2018 - 2020)
-- Jaguares XV (2020 - 2020)
-- Belgrano Athletic Club (2020 - 2020)
-- Jaguares XV (2021 - 2021)
-- Belgrano Athletic Club (2021 - 2021)
+- Jaguares XV (2020)
+- Belgrano Athletic Club (2020)
+- Jaguares XV (2021)
+- Belgrano Athletic Club (2021)
 - [ヴァンヌ](/teams/top14/vannes) (2021 - 2026)

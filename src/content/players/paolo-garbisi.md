@@ -13,7 +13,7 @@ caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
 nationality: "Italie"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2024
@@ -24,11 +24,11 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Mogliano Veneto Rugby (2018 - 2019)
-- Petrarca Rugby (2019 - 2019)
-- ベネットン・ラグビー・トレヴィーゾ (2019 - 2019)
-- Petrarca Rugby (2020 - 2020)
+- Petrarca Rugby (2019)
+- ベネットン・ラグビー・トレヴィーゾ (2019)
+- Petrarca Rugby (2020)
 - ベネットン・ラグビー・トレヴィーゾ (2020 - 2021)
 - [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023 - 2023)
+- [トゥーロン](/teams/top14/toulon) (2023)
 - [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

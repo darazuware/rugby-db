@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - Counties Manukau Steelers (2021 - 2023)
-- Counties Manukau Steelers (2023 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )
 - Counties Manukau Steelers (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)

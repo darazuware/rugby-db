@@ -13,7 +13,7 @@ caps: "Tonga"
 league_one_caps: "0"
 country: "Tonga"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025

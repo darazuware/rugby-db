@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "Fidjienne"
 nationality: "Fidjienne"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025

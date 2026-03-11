@@ -23,12 +23,16 @@ twitter: ""
 facebook: ""
 ---
 
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2016 - 2016)
-- Sunwolves (2016 - 2016)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2017 - 2017)
-- Sunwolves (2017 - 2017)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - 2018)
-- Sunwolves (2018 - 2018)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2016)
+- Sunwolves (2016)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2017)
+- Sunwolves (2017)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2017)
+- Sunwolves (2017)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018)
+- Sunwolves (2018)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018)
+- Sunwolves (2018)
 - [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - 2024)
-- Sunwolves (2019 - 2019)
+- Sunwolves (2019)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - )

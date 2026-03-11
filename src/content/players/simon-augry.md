@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: "French"
 nationality: "French"
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "top14"
 joined_year: 2025
@@ -28,6 +28,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Sporting Club Albigeois (2016 - 2017)
 - Union Sportive Montalbanaise (2017 - 2022)
 - Biarritz Olympique Pays Basque (2022 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2024)
+- [ヴァンヌ](/teams/top14/vannes) (2024)
 - Biarritz Olympique Pays Basque (2025 - )
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

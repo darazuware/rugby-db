@@ -13,7 +13,7 @@ caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Counties Manukau Steelers (2023 - 2024)
-- New England Free Jacks (2024 - 2024)
-- Counties Manukau Steelers (2024 - 2024)
+- New England Free Jacks (2024)
+- Counties Manukau Steelers (2024)
 - New England Free Jacks (2025 - )
 - Counties Manukau Steelers (2025 - )
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

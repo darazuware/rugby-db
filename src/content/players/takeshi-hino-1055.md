@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2012 - 2016)
-- Sunwolves (2016 - 2016)
+- Sunwolves (2016)
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - 2019)
-- Sunwolves (2017 - 2017)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - 2017)
+- Sunwolves (2017)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017)
 - [トゥールーズ](/teams/top14/toulouse) (2019 - 2020)
 - [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2020 - 2026)

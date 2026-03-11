@@ -24,9 +24,10 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2019)
-- North Harbour (2019 - 2019)
-- North Harbour (2020 - 2020)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2020)
+- North Harbour (2019 - 2020)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- North Harbour (2020)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2021 - 2026)
-- North Harbour (2021 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2021)
+- North Harbour (2021)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)

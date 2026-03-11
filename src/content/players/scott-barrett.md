@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2021
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2020)
-- ヴォーダコム・ブルズ (2020 - 2020)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2021)
-- ヴォーダコム・ブルズ (2021 - 2021)
+- ヴォーダコム・ブルズ (2020)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
+- ヴォーダコム・ブルズ (2021)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2026)

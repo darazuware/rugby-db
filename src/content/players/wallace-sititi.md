@@ -13,7 +13,7 @@ caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2024
@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - North Harbour (2021 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2023)
-- North Harbour (2023 - 2023)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- North Harbour (2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
 - North Harbour (2024 - 2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

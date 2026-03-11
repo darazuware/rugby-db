@@ -24,9 +24,10 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2017)
-- Coca Cola West Red Sparks (2017 - 2017)
-- Coca Cola West Red Sparks (2018 - 2018)
-- Sunwolves (2018 - 2018)
+- Coca Cola West Red Sparks (2017 - 2018)
+- Sunwolves (2018)
+- Coca Cola West Red Sparks (2018)
+- Sunwolves (2018)
 - Coca Cola West Red Sparks (2019 - 2021)
-- Sunwolves (2019 - 2019)
+- Sunwolves (2019)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - 2026)

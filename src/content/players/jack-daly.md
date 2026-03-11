@@ -13,7 +13,7 @@ caps: ""
 league_one_caps: "0"
 country: ""
 nationality: ""
-category: "カテゴリーA"
+category: ""
 division: ""
 league: "super-rugby"
 joined_year: 2025
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - マンスター・ラグビー (2017 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - 2024)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
 - マンスター・ラグビー (2025 - )
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
