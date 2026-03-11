@@ -607,9 +607,13 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     const includesTop14 = (leagueContext === 'top14') || selectedLeagues.includes('top14');
                                     
                                     if (isScoreSort) {
-                                        // スコア系項目：Top 14 が関与しておらず、かつスコアデータがある場合のみ表示
+                                        // スコア系項目：Top 14 が関与している場合は絶対に表示しない
                                         if (includesTop14) return null;
-                                        if (!filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true")) return null;
+                                        
+                                        // Top 14 が関与していない場合（League One 等）：
+                                        // 選手データにスコアが1件でもあるか、またはフィルタが空（全表示）なら表示する
+                                        const hasAnyScores = filteredPlayers.some(p => p.data.has_scores === true || p.data.has_scores === "true");
+                                        if (!hasAnyScores && selectedLeagues.length > 0) return null;
                                     }
 
                                     return (
