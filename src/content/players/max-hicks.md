@@ -34,6 +34,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Tasman Mako (2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
 - Tasman Mako (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- Tasman Mako (2024 - 2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Tasman Mako (2024)
 - [ペルピニャン](/teams/top14/perpignan) (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ASS Stade Calédonien (2005 - 2007)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2007 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2007 - )

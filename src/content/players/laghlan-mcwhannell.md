@@ -41,6 +41,6 @@ facebook: ""
 - Waikato Mooloos (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - Waikato Mooloos (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
-- Waikato Mooloos (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- Waikato Mooloos (2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

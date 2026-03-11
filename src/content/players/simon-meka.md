@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - US Carcassonne (2022 - 2023)
 - Sporting Club Albigeois (2023 - 2024)
 - [カストル](/teams/top14/castres) (2024)
-- Sporting Club Albigeois (2025 - )
+- Sporting Club Albigeois (2025)
 - [カストル](/teams/top14/castres) (2025 - )

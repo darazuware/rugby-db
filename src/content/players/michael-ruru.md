@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
 - [ヴァンヌ](/teams/top14/vannes) (2022)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2023 - )

@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - U.S. Morlaàs Rugby (2006 - 2014)
 - [ポー](/teams/top14/pau) (2014 - 2023)
 - [ヴァンヌ](/teams/top14/vannes) (2023)
-- [ポー](/teams/top14/pau) (2024 - 2024)
+- [ポー](/teams/top14/pau) (2024)
 - [ヴァンヌ](/teams/top14/vannes) (2024 - )

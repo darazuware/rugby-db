@@ -27,6 +27,6 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2022)
 - メルボルン・レベルズ (2022 - 2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- メルボルン・レベルズ (2024 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
+- メルボルン・レベルズ (2024)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

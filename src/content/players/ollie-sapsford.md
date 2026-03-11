@@ -32,4 +32,4 @@ facebook: ""
 - Hawke's Bay Magpies (2022)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023)
 - Hawke's Bay Magpies (2023)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2026)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - )

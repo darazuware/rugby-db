@@ -31,6 +31,6 @@ facebook: ""
 - ハリウッドベッツ・シャークス (2018 - 2022)
 - ハリウッドベッツ・シャークス (2022 - 2023)
 - [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023)
-- ハリウッドベッツ・シャークス (2024 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2024)
+- ハリウッドベッツ・シャークス (2024)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

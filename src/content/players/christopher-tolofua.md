@@ -27,5 +27,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Saracens (2017 - 2019)
 - [トゥーロン](/teams/top14/toulon) (2019 - 2023)
 - [モンペリエ](/teams/top14/montpellier) (2023)
-- [トゥーロン](/teams/top14/toulon) (2024 - 2024)
+- [トゥーロン](/teams/top14/toulon) (2024)
 - [モンペリエ](/teams/top14/montpellier) (2024 - )

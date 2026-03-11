@@ -30,4 +30,4 @@ facebook: ""
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
 - Tasman Mako (2021)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - 2026)
+- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - )

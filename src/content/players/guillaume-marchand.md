@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - [トゥールーズ](/teams/top14/toulouse) (2013 - 2021)
-- [リヨン](/teams/top14/lyon) (2021 - 2026)
+- [リヨン](/teams/top14/lyon) (2021 - )

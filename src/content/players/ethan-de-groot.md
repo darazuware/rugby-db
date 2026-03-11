@@ -30,6 +30,6 @@ facebook: ""
 - Southland Stags (2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
 - Southland Stags (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- Southland Stags (2024 - 2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Southland Stags (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )

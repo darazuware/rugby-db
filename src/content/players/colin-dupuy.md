@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Bon-Encontre Boé (2013 - 2014)
 - Union Athlétique Gaillacoise (2014 - 2022)
-- [カストル](/teams/top14/castres) (2022 - 2026)
+- [カストル](/teams/top14/castres) (2022 - )

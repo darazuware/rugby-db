@@ -32,5 +32,5 @@ facebook: ""
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2024)
 - [モンペリエ](/teams/top14/montpellier) (2024 - 2025)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
-- [モンペリエ](/teams/top14/montpellier) (2026 - )
+- [モンペリエ](/teams/top14/montpellier) (2026)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2026 - )

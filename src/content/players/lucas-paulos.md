@@ -27,4 +27,4 @@ facebook: ""
 - Olivos RC (2017 - 2018)
 - Jaguares (2018 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

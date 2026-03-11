@@ -28,6 +28,6 @@ facebook: ""
 - US Colomiers (2023 - 2024)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
 - [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

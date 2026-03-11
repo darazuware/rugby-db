@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - RC Locomotive Tbilisi (2017 - 2018)
-- [ラシン92](/teams/top14/racing-92) (2018 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2018 - )

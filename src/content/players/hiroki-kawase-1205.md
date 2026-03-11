@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2021 - 2026)
+- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2021 - )

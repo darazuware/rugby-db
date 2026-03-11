@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2022)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - )

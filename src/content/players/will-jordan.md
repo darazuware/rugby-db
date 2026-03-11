@@ -27,4 +27,4 @@ facebook: ""
 - Tasman Mako (2019)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020)
 - Tasman Mako (2020)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - )

@@ -43,6 +43,6 @@ facebook: ""
 - エミレーツ・ライオンズ (2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
 - エミレーツ・ライオンズ (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
-- エミレーツ・ライオンズ (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
+- エミレーツ・ライオンズ (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

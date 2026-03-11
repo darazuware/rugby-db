@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - RC Hyères Carqueiranne La Crau (2006 - 2010)
 - [トゥーロン](/teams/top14/toulon) (2010 - 2020)
 - Stade Montois Rugby Pro (2020 - 2021)
-- [トゥーロン](/teams/top14/toulon) (2021 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2021 - )

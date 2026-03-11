@@ -28,4 +28,4 @@ facebook: ""
 - SO Voiron (2009 - 2012)
 - FC Grenoble Rugby (2012 - 2020)
 - [モンペリエ](/teams/top14/montpellier) (2020 - 2022)
-- [ポー](/teams/top14/pau) (2022 - 2026)
+- [ポー](/teams/top14/pau) (2022 - )

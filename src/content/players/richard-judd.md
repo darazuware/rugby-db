@@ -42,6 +42,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
 - San Diego Legion (2024)
 - Bay of Plenty Steamers (2024)
-- San Diego Legion (2025 - )
-- Bay of Plenty Steamers (2025 - )
+- San Diego Legion (2025)
+- Bay of Plenty Steamers (2025)
 - [ヴァンヌ](/teams/top14/vannes) (2025 - )

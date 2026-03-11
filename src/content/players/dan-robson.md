@@ -27,4 +27,4 @@ facebook: ""
 - Wasps (2015 - 2022)
 - [ポー](/teams/top14/pau) (2022)
 - Wasps (2023)
-- [ポー](/teams/top14/pau) (2023 - 2026)
+- [ポー](/teams/top14/pau) (2023 - )

@@ -30,4 +30,4 @@ facebook: ""
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2020)
 - [ラシン92](/teams/top14/racing-92) (2020 - 2022)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

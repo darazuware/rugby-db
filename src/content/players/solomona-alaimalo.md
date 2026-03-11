@@ -39,6 +39,6 @@ facebook: ""
 - Wests Tigers (2023 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
 - Northland Taniwha (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
-- Northland Taniwha (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
+- Northland Taniwha (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

@@ -26,4 +26,4 @@ facebook: ""
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2010 - 2013)
 - US Mouguerre (2013 - 2015)
 - AS Sain-Martin-de-Seignanx (2015 - 2016)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - )

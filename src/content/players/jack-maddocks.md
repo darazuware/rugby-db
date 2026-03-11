@@ -25,4 +25,4 @@ facebook: ""
 
 - メルボルン・レベルズ (2015 - 2019)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2021)
-- [ポー](/teams/top14/pau) (2021 - 2026)
+- [ポー](/teams/top14/pau) (2021 - )

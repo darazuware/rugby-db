@@ -25,4 +25,4 @@ facebook: ""
 
 - Peyrehorade Sport Rugby Pays d'Orthe (2011 - 2019)
 - Stade Montois Rugby Pro (2019 - 2022)
-- [ポー](/teams/top14/pau) (2022 - 2026)
+- [ポー](/teams/top14/pau) (2022 - )

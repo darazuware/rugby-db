@@ -29,6 +29,6 @@ facebook: ""
 - North Harbour (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - North Harbour (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
-- North Harbour (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- North Harbour (2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

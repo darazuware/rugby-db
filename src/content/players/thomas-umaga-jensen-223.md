@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2024)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - 2026)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

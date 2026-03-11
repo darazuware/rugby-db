@@ -35,6 +35,6 @@ facebook: ""
 - Counties Manukau Steelers (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
 - Counties Manukau Steelers (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
-- Counties Manukau Steelers (2025 - )
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- Counties Manukau Steelers (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

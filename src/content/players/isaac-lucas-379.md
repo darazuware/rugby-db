@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2020)
-- BlackRams Tokyo (2020 - 2026)
+- BlackRams Tokyo (2020 - )

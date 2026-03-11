@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ポー](/teams/top14/pau) (2004 - 2026)
+- [ポー](/teams/top14/pau) (2004 - )

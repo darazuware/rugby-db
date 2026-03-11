@@ -31,4 +31,4 @@ facebook: ""
 - Aussie 7's (2022)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
 - Aussie 7's (2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

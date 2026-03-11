@@ -33,4 +33,4 @@ facebook: ""
 - CA Brive Corrèze Limousin (2018)
 - [モンペリエ](/teams/top14/montpellier) (2019)
 - CA Brive Corrèze Limousin (2019 - 2023)
-- [クレルモン](/teams/top14/clermont) (2023 - 2026)
+- [クレルモン](/teams/top14/clermont) (2023 - )

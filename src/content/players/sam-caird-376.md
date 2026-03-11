@@ -38,6 +38,6 @@ facebook: ""
 - [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023)
 - Northland Taniwha (2024)
 - New England Free Jacks (2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )
-- Northland Taniwha (2025 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
+- Northland Taniwha (2025)
 - New England Free Jacks (2025 - )

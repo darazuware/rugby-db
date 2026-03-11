@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Anglet Olympique Rugby Club (2013 - 2018)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - )

@@ -32,6 +32,6 @@ facebook: ""
 - North Harbour (2023)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
 - North Harbour (2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2024)
-- North Harbour (2024 - 2024)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- North Harbour (2024)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

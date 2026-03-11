@@ -25,4 +25,4 @@ facebook: ""
 
 - Club fidjien (2019 - 2020)
 - Union Sportive Montalbanaise (2020 - 2023)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )

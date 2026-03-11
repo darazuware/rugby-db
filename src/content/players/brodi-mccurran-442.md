@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2022)
-- BlackRams Tokyo (2022 - 2026)
+- BlackRams Tokyo (2022 - )

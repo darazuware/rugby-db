@@ -31,4 +31,4 @@ facebook: ""
 - ゼブレ・パルマ (2021 - 2022)
 - Manawatu Turbos (2021)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - 2026)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - )

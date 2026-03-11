@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - [クレルモン](/teams/top14/clermont) (2020)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2023 - )

@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Seilh Aussonne Fenouillet XV (2004 - 2009)
-- [トゥールーズ](/teams/top14/toulouse) (2009 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2009 - )

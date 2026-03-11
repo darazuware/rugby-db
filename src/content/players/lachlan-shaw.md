@@ -26,6 +26,6 @@ facebook: ""
 - Université du Queensland (2021 - 2022)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
 - Manawatu Turbos (2023)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - 2024)
-- Manawatu Turbos (2024 - 2024)
+- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024)
+- Manawatu Turbos (2024)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

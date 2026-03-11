@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - [クレルモン](/teams/top14/clermont) (2012 - 2017)
 - RC Saint-Gènes-Champanelle (2018 - 2021)
 - [クレルモン](/teams/top14/clermont) (2021 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2022 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2022 - )

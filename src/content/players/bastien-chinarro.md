@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - Union Athlétique Gaillacoise (2008 - 2009)
 - Entente de la Têt (2014 - 2015)
-- [ペルピニャン](/teams/top14/perpignan) (2019 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2019 - )

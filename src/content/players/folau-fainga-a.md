@@ -27,5 +27,5 @@ facebook: ""
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
 - [クレルモン](/teams/top14/clermont) (2023 - 2025)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025)
-- [クレルモン](/teams/top14/clermont) (2026 - )
+- [クレルモン](/teams/top14/clermont) (2026)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - )

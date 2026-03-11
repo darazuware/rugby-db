@@ -30,5 +30,5 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

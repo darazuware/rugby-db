@@ -27,4 +27,4 @@ facebook: ""
 - Stade Montois Rugby Pro (2011 - 2013)
 - [カストル](/teams/top14/castres) (2013 - 2016)
 - Stade Montois Rugby Pro (2016 - 2021)
-- [クレルモン](/teams/top14/clermont) (2021 - 2026)
+- [クレルモン](/teams/top14/clermont) (2021 - )

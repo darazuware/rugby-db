@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Northampton Saints (2016 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2023 - )

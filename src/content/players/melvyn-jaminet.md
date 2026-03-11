@@ -29,5 +29,5 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - [ペルピニャン](/teams/top14/perpignan) (2018 - 2022)
 - [トゥールーズ](/teams/top14/toulouse) (2022 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2023)
-- [トゥールーズ](/teams/top14/toulouse) (2024 - 2024)
+- [トゥールーズ](/teams/top14/toulouse) (2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

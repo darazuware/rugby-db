@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - [トゥールーズ](/teams/top14/toulouse) (2009 - 2023)
 - Blagnac (2023)
 - [トゥールーズ](/teams/top14/toulouse) (2023)
-- Blagnac (2024 - 2024)
+- Blagnac (2024)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - )

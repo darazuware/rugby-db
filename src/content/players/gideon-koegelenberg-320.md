@@ -29,6 +29,6 @@ facebook: ""
 - [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2020 - 2023)
 - ベネットン・ラグビー・トレヴィーゾ (2023 - 2024)
 - ハリウッドベッツ・シャークス (2024)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
-- ハリウッドベッツ・シャークス (2025 - )
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- ハリウッドベッツ・シャークス (2025)
 - ベネットン・ラグビー・トレヴィーゾ (2025 - )

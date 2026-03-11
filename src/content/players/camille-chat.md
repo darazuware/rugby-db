@@ -27,5 +27,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - RC Auxerre (2006 - 2013)
 - [ラシン92](/teams/top14/racing-92) (2013 - 2024)
 - [リヨン](/teams/top14/lyon) (2024)
-- [ラシン92](/teams/top14/racing-92) (2025 - )
+- [ラシン92](/teams/top14/racing-92) (2025)
 - [リヨン](/teams/top14/lyon) (2025 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - ES Gimont Rugby (2008 - 2015)
 - Rugby Club Auch (2015 - 2017)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )

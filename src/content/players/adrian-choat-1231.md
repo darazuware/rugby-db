@@ -28,5 +28,5 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - Bristol Bears (2020)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2024)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )
+- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - 2026)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

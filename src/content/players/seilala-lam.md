@@ -27,5 +27,5 @@ facebook: ""
 - USON Nevers Rugby (2015 - 2017)
 - [ペルピニャン](/teams/top14/perpignan) (2017 - 2025)
 - [クレルモン](/teams/top14/clermont) (2025)
-- [ペルピニャン](/teams/top14/perpignan) (2026 - )
+- [ペルピニャン](/teams/top14/perpignan) (2026)
 - [クレルモン](/teams/top14/clermont) (2026 - )

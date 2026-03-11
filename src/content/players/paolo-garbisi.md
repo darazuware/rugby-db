@@ -30,5 +30,5 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - ベネットン・ラグビー・トレヴィーゾ (2020 - 2021)
 - [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
 - [トゥーロン](/teams/top14/toulon) (2023)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
+- [モンペリエ](/teams/top14/montpellier) (2024)
 - [トゥーロン](/teams/top14/toulon) (2024 - )

@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [ポー](/teams/top14/pau) (2021)
 - [ラシン92](/teams/top14/racing-92) (2022)
 - [ポー](/teams/top14/pau) (2022 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2023 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2023 - )

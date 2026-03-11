@@ -17,6 +17,26 @@ if os.path.exists(INTEGRATED_CSV_PATH):
 OUTPUT_DIR = 'src/content/players'
 CURRENT_YEAR = 2026 
 
+# teams.json をロードしてチーム名からのリーグ逆引き用辞書を作成
+TEAMS_DATA = []
+if os.path.exists('data/teams.json'):
+    try:
+        with open('data/teams.json', 'r', encoding='utf-8') as f:
+            TEAMS_DATA = json.load(f)
+    except: pass
+
+def find_league_by_team(team_name):
+    if not team_name: return ""
+    # 完全一致
+    for team in TEAMS_DATA:
+        if team.get('team_name') == team_name or team.get('team_name_jp') == team_name or team.get('team_en_name') == team_name:
+            return team['league']
+    # 部分一致
+    for team in TEAMS_DATA:
+        if team_name in team.get('team_name', '') or (team.get('team_name_jp') and team_name in team['team_name_jp']):
+            return team['league']
+    return ""
+
 def clean_team_name(team_name):
     if not team_name or str(team_name).lower() == 'nan': return ""
     return re.sub(r'[\(（].*?[\)）]', '', team_name).strip()
@@ -175,14 +195,12 @@ def format_career_md(career_str, current_team, name_en=""):
         start_p = entry['start']
         end_p = entry['end']
         
-        # 現在進行形の判定
-        is_current = (entry['year'] == max_year and max_year >= CURRENT_YEAR - 2)
-        if is_current:
-            # 終了年が空、または最近の年なら「現在進行」
-            if not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1):
-                period = f"{start_p} - "
-            else:
-                period = f"{start_p} - {end_p}"
+        # 現在進行形の判定: 終了年が空、または2025年以降であれば現在進行中とみなす。
+        # また、最後のエントリ（最新）であることを重視する。
+        is_current = (not end_p or (end_p.isdigit() and int(end_p) >= CURRENT_YEAR - 1))
+        
+        if is_current and entry == merged[-1]:
+            period = f"{start_p} - "
         elif end_p and end_p != start_p:
             period = f"{start_p} - {end_p}"
         elif start_p:
@@ -257,7 +275,10 @@ def main():
                 elif 'super-rugby' in scraped_url: league = 'super-rugby'
                 elif 'unitedrugby' in scraped_url: league = 'urc'
                 elif 'top14' in scraped_url: league = 'top14'
-                elif any(t in current_team for t in ['トゥールーズ', 'ボルドー', 'ラ・ロシェル', 'ラシン92', 'トゥーロン', 'モンペリエ', 'リヨン', 'カストル', 'アヴィロン・バイヨンヌ', 'セクション・パロワーズ', 'スタッド・フランセ', 'クレルモン', 'ペルピニャン', 'ヴァンヌ', 'ポー', 'バイヨンヌ']):
+                else:
+                    league = find_league_by_team(current_team)
+                
+                if not league and any(t in current_team for t in ['トゥールーズ', 'ボルドー', 'ラ・ロシェル', 'ラシン92', 'トゥーロン', 'モンペリエ', 'リヨン', 'カストル', 'アヴィロン・バイヨンヌ', 'セクション・パロワーズ', 'スタッド・フランセ', 'クレルモン', 'ペルピニャン', 'ヴァンヌ', 'ポー', 'バイヨンヌ']):
                     league = 'top14'
             
             age = calculate_age(birth_date)

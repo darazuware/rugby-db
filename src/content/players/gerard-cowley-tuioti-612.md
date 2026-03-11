@@ -28,4 +28,4 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
 - North Harbour (2020)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2026)
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - )

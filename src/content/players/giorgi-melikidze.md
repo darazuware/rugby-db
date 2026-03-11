@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Rustavi Kharebi (2014 - 2015)
-- [スタッド・フランセ](/teams/top14/paris) (2015 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2015 - )

@@ -45,6 +45,6 @@ facebook: ""
 - Waikato Mooloos (2024)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
 - Waikato Mooloos (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
-- Waikato Mooloos (2025 - )
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
+- Waikato Mooloos (2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

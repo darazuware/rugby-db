@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - AAS Sarcelles Rugby (2005 - 2011)
 - Rugby Club Massy Essonne (2011 - 2015)
 - [クレルモン](/teams/top14/clermont) (2015 - 2023)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

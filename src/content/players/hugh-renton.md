@@ -39,6 +39,6 @@ facebook: ""
 - Tasman Mako (2023)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
 - Hawke's Bay Magpies (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2024)
-- Hawke's Bay Magpies (2024 - 2024)
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Hawke's Bay Magpies (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )

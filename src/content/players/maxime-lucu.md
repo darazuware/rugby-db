@@ -26,4 +26,4 @@ facebook: ""
 - Saint-Pée UC (2004 - 2010)
 - Saint Jean-de-Luz Olympique Rugby (2010 - 2011)
 - Biarritz Olympique Pays Basque (2011 - 2019)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - )

@@ -27,5 +27,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - Blagnac (2018 - 2024)
 - Stade Aurillacois Cantal Auvergne (2024 - 2025)
 - [ラシン92](/teams/top14/racing-92) (2025)
-- Stade Aurillacois Cantal Auvergne (2026 - )
+- Stade Aurillacois Cantal Auvergne (2026)
 - [ラシン92](/teams/top14/racing-92) (2026 - )

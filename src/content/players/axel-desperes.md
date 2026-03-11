@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Nord Béarn XV (2009 - 2018)
-- [ポー](/teams/top14/pau) (2018 - 2026)
+- [ポー](/teams/top14/pau) (2018 - )

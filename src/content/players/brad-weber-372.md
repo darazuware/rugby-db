@@ -35,5 +35,5 @@ facebook: ""
 - [スタッド・フランセ](/teams/top14/paris) (2023 - 2025)
 - Hawke's Bay Magpies (2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
 - [スタッド・フランセ](/teams/top14/paris) (2026 - )

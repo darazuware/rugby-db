@@ -25,6 +25,6 @@ facebook: ""
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2024)
 - Hawke's Bay Magpies (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
-- Hawke's Bay Magpies (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- Hawke's Bay Magpies (2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

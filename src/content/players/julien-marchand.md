@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - US Montréjeau Gourdan Polignan XV (2005 - 2010)
-- [トゥールーズ](/teams/top14/toulouse) (2010 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2010 - )

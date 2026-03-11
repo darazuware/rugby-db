@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - エミレーツ・ライオンズ (2024)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - )
-- エミレーツ・ライオンズ (2025 - )
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - 2026)
+- エミレーツ・ライオンズ (2025)
 - [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2025 - )

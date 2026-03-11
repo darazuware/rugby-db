@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - ヴォーダコム・ブルズ (2019)
 - マンスター・ラグビー (2020)
 - ヴォーダコム・ブルズ (2020 - 2022)
-- [リヨン](/teams/top14/lyon) (2022 - 2026)
+- [リヨン](/teams/top14/lyon) (2022 - )

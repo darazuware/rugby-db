@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Versailles (2009 - 2014)
 - Rugby Club Massy Essonne (2014 - 2020)
-- [スタッド・フランセ](/teams/top14/paris) (2020 - 2026)
+- [スタッド・フランセ](/teams/top14/paris) (2020 - )

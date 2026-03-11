@@ -25,4 +25,4 @@ facebook: ""
 
 - US Colomiers (2015 - 2017)
 - [クレルモン](/teams/top14/clermont) (2017 - 2022)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - )

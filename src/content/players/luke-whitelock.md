@@ -25,4 +25,4 @@ facebook: ""
 
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2015)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2019)
-- [ポー](/teams/top14/pau) (2019 - 2026)
+- [ポー](/teams/top14/pau) (2019 - )

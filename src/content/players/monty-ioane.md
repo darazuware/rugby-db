@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - Bay of Plenty Steamers (2015 - 2017)
 - ベネットン・ラグビー・トレヴィーゾ (2017 - 2022)
 - メルボルン・レベルズ (2022 - 2023)
-- [リヨン](/teams/top14/lyon) (2023 - 2026)
+- [リヨン](/teams/top14/lyon) (2023 - )

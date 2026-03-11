@@ -27,4 +27,4 @@ facebook: ""
 - Union Sportive Néracaise (2012 - 2013)
 - Sporting Union Agenais (2013 - 2016)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2022)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - )

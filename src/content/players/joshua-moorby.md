@@ -38,6 +38,6 @@ facebook: ""
 - Waikato Mooloos (2024)
 - [モンペリエ](/teams/top14/montpellier) (2024)
 - Waikato Mooloos (2024)
-- [モンペリエ](/teams/top14/montpellier) (2025 - )
-- Waikato Mooloos (2025 - )
+- [モンペリエ](/teams/top14/montpellier) (2025)
+- Waikato Mooloos (2025)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

@@ -27,6 +27,6 @@ facebook: ""
 - Coventry Rugby (2022 - 2024)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
 - North Harbour (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
-- North Harbour (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
+- North Harbour (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

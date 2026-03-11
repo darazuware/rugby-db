@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - US Martres-de-Veyre (2009 - 2017)
-- [クレルモン](/teams/top14/clermont) (2017 - 2026)
+- [クレルモン](/teams/top14/clermont) (2017 - )

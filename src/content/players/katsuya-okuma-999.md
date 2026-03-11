@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2026)
+- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - )

@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/staderochelais"
 - Saracens (2017)
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017)
 - Saracens (2017 - 2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

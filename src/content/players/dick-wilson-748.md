@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ハリウッドベッツ・シャークス (2019 - 2022)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - 2026)
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - )

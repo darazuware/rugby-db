@@ -25,5 +25,5 @@ facebook: ""
 
 - ハリウッドベッツ・シャークス (2020 - 2021)
 - ハリウッドベッツ・シャークス (2021 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2026)
 - ハリウッドベッツ・シャークス (2025 - )

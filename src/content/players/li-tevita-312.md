@@ -30,4 +30,4 @@ facebook: ""
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2023)
 - North Harbour (2022)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2023 - 2026)
+- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2023 - )

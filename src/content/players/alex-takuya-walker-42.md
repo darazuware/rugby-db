@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - 2026)
+- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - )

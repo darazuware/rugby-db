@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - [モンペリエ](/teams/top14/montpellier) (2007 - 2015)
 - Association Sportive Béziers Hérault (2015 - 2019)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - )

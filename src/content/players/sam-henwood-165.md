@@ -29,4 +29,4 @@ facebook: ""
 - [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2019 - 2020)
 - Counties Manukau Steelers (2019)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020 - 2026)
+- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020 - )

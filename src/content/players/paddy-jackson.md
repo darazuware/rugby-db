@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - アルスター・ラグビー (2013 - 2018)
 - [ペルピニャン](/teams/top14/perpignan) (2018 - 2019)
 - London Irish (2019 - 2023)
-- [リヨン](/teams/top14/lyon) (2023 - 2026)
+- [リヨン](/teams/top14/lyon) (2023 - )

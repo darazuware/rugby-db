@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2023)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
+- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2026)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)

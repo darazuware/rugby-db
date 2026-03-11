@@ -27,4 +27,4 @@ facebook: ""
 - US Lectoure (2015 - 2019)
 - Sporting Union Agenais (2019 - 2020)
 - US Lectoure (2020 - 2021)
-- [ポー](/teams/top14/pau) (2021 - 2026)
+- [ポー](/teams/top14/pau) (2021 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - )
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2025)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

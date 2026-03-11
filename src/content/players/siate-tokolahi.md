@@ -29,4 +29,4 @@ facebook: ""
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - Southland Stags (2020)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
-- [ポー](/teams/top14/pau) (2021 - 2026)
+- [ポー](/teams/top14/pau) (2021 - )

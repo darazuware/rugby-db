@@ -42,6 +42,6 @@ facebook: ""
 - ヴォーダコム・ブルズ (2024)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
 - ヴォーダコム・ブルズ (2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
-- ヴォーダコム・ブルズ (2025 - )
+- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
+- ヴォーダコム・ブルズ (2025)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

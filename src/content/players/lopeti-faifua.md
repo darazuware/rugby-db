@@ -27,6 +27,6 @@ facebook: ""
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2023)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
 - Tasman Mako (2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
-- Tasman Mako (2025 - )
+- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025)
+- Tasman Mako (2025)
 - [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

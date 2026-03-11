@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Emak Hor Rugby (2012 - 2018)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - )

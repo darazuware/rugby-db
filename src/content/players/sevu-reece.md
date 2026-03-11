@@ -33,6 +33,6 @@ facebook: ""
 - Tasman Mako (2022)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2024)
 - Southland Stags (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
-- Southland Stags (2025 - )
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- Southland Stags (2025)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

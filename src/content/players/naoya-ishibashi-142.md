@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - 2026)
+- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )

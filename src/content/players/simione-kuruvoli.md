@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Tailevu Rugby Union (2020 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2026)
+- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

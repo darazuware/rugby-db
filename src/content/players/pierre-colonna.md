@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Cahors (2012 - 2016)
 - [トゥールーズ](/teams/top14/toulouse) (2016 - 2017)
-- [カストル](/teams/top14/castres) (2017 - 2026)
+- [カストル](/teams/top14/castres) (2017 - )

@@ -28,4 +28,4 @@ facebook: ""
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2020 - 2023)
 - Sunwolves (2020)
 - [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2020)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023 - 2026)
+- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023 - )

@@ -27,6 +27,6 @@ facebook: ""
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2019 - 2023)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2024)
 - North Harbour (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
-- North Harbour (2025 - )
+- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
+- North Harbour (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

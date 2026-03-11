@@ -31,6 +31,6 @@ facebook: ""
 - Tasman Mako (2020)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2023)
 - Tasman Mako (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- Tasman Mako (2024 - 2024)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- Tasman Mako (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

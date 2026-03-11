@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - [クレルモン](/teams/top14/clermont) (2021)
 - France 7 (2021)
 - [リヨン](/teams/top14/lyon) (2021 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2023 - )

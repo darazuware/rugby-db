@@ -29,4 +29,4 @@ facebook: ""
 - エディンバラ・ラグビー (2019)
 - [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020)
 - エディンバラ・ラグビー (2020)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - )

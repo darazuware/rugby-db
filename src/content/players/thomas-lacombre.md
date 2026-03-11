@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Club Athlétique Pratéen (2011 - 2018)
 - Saint-Girons SC Couserans (2018 - 2019)
-- [トゥールーズ](/teams/top14/toulouse) (2019 - 2026)
+- [トゥールーズ](/teams/top14/toulouse) (2019 - )

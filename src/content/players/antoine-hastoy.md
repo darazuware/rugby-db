@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - RC Billère ASPTT Lescar (2004 - 2011)
 - [ポー](/teams/top14/pau) (2011 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )

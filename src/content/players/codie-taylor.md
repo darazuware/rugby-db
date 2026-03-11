@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2026)
+- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - )

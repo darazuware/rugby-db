@@ -44,6 +44,6 @@ facebook: ""
 - Bay of Plenty Steamers (2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - Bay of Plenty Steamers (2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- Bay of Plenty Steamers (2024 - 2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- Bay of Plenty Steamers (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

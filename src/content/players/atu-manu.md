@@ -38,5 +38,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - FC Grenoble Rugby (2022 - 2024)
 - USON Nevers Rugby (2024 - 2025)
 - [カストル](/teams/top14/castres) (2025)
-- USON Nevers Rugby (2026 - )
+- USON Nevers Rugby (2026)
 - [カストル](/teams/top14/castres) (2026 - )

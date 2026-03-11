@@ -33,4 +33,4 @@ facebook: ""
 - Tasman Mako (2020)
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
 - Tasman Mako (2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2026)
+- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - )

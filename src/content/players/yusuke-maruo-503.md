@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023 - 2026)
+- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023 - )

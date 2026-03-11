@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Évreux AC Rugby (2013 - 2020)
-- [ラシン92](/teams/top14/racing-92) (2020 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2020 - )

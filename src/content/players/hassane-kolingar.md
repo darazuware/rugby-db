@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - [ヴァンヌ](/teams/top14/vannes) (2018)
 - [ラシン92](/teams/top14/racing-92) (2019)
 - [ヴァンヌ](/teams/top14/vannes) (2019)
-- [ラシン92](/teams/top14/racing-92) (2019 - 2026)
+- [ラシン92](/teams/top14/racing-92) (2019 - )

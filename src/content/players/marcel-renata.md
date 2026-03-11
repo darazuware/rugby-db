@@ -26,6 +26,6 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2024)
 - Northland Taniwha (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
-- Northland Taniwha (2025 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- Northland Taniwha (2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

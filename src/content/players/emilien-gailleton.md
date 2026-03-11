@@ -25,4 +25,4 @@ facebook: ""
 
 - Cahors (2008 - 2017)
 - Sporting Union Agenais (2017 - 2022)
-- [ポー](/teams/top14/pau) (2022 - 2026)
+- [ポー](/teams/top14/pau) (2022 - )

@@ -30,4 +30,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Oyonnax Rugby (2017 - 2018)
 - エディンバラ・ラグビー (2018 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - 2026)
+- [ペルピニャン](/teams/top14/perpignan) (2023 - )

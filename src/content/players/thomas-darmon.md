@@ -23,4 +23,4 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- [モンペリエ](/teams/top14/montpellier) (2004 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2004 - )

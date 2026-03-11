@@ -39,4 +39,4 @@ facebook: ""
 - ヴォーダコム・ブルズ (2022)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - ヴォーダコム・ブルズ (2023)
-- [クレルモン](/teams/top14/clermont) (2023 - 2026)
+- [クレルモン](/teams/top14/clermont) (2023 - )

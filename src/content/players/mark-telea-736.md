@@ -40,6 +40,6 @@ facebook: ""
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - North Harbour (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
-- North Harbour (2025 - )
+- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - 2026)
+- North Harbour (2025)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

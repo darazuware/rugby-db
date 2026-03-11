@@ -31,4 +31,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - [トゥールーズ](/teams/top14/toulouse) (2019)
 - [モンペリエ](/teams/top14/montpellier) (2019)
 - [トゥールーズ](/teams/top14/toulouse) (2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - 2026)
+- [モンペリエ](/teams/top14/montpellier) (2020 - )

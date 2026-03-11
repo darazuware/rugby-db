@@ -29,6 +29,6 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Dogos XV (2023)
 - Jockey Club Cordoba (2023)
 - Dogos XV (2023)
-- Jockey Club Cordoba (2024 - 2024)
-- Dogos XV (2024 - 2024)
+- Jockey Club Cordoba (2024)
+- Dogos XV (2024)
 - [トゥールーズ](/teams/top14/toulouse) (2024 - )

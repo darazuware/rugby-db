@@ -28,5 +28,5 @@ facebook: "https://www.facebook.com/staderochelais"
 - [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
 - [モンペリエ](/teams/top14/montpellier) (2023)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2023)
-- [モンペリエ](/teams/top14/montpellier) (2024 - 2024)
+- [モンペリエ](/teams/top14/montpellier) (2024)
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

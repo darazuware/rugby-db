@@ -41,6 +41,6 @@ facebook: ""
 - ヴォーダコム・ブルズ (2023)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - ヴォーダコム・ブルズ (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2024)
-- ヴォーダコム・ブルズ (2024 - 2024)
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- ヴォーダコム・ブルズ (2024)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2013 - 2019)
 - [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2019 - 2023)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - 2026)
+- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - )

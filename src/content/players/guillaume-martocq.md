@@ -27,4 +27,4 @@ facebook: ""
 - Rugby Club Béarnais (2014 - 2015)
 - [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2020)
 - US Carcassonne (2020 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )

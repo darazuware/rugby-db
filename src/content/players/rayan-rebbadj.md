@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - RC Port-de-Bouc (2011 - 2018)
-- [トゥーロン](/teams/top14/toulon) (2018 - 2026)
+- [トゥーロン](/teams/top14/toulon) (2018 - )

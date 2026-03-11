@@ -26,6 +26,6 @@ facebook: ""
 - North Harbour (2021 - 2023)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - North Harbour (2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2024)
-- North Harbour (2024 - 2024)
+- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- North Harbour (2024)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

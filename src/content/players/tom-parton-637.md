@@ -29,5 +29,5 @@ facebook: ""
 - London Scottish (2018)
 - London Irish (2018)
 - Saracens (2023 - 2024)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2024 - )
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2024 - 2026)
 - Saracens (2025 - )

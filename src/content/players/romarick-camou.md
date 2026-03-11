@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - [ラ・ロシェル](/teams/top14/la-rochelle) (2011 - 2019)
 - USON Nevers Rugby (2019 - 2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022 - 2026)
+- [ヴァンヌ](/teams/top14/vannes) (2022 - )

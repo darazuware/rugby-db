@@ -23,4 +23,4 @@ twitter: "https://twitter.com/hashtag/fievresr"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2026)
+- [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - )

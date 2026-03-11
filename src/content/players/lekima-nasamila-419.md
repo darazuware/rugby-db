@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - 2026)
+- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - )

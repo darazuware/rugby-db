@@ -33,6 +33,6 @@ facebook: ""
 - Waikato Mooloos (2022)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - Waikato Mooloos (2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
-- Waikato Mooloos (2025 - )
+- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - 2026)
+- Waikato Mooloos (2025)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

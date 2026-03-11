@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Sporting Union Agenais (2015 - 2022)
-- [カストル](/teams/top14/castres) (2022 - 2026)
+- [カストル](/teams/top14/castres) (2022 - )

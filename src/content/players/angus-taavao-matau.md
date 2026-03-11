@@ -36,5 +36,5 @@ facebook: ""
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )
+- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2025)
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

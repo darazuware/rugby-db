@@ -31,5 +31,5 @@ facebook: ""
 - FC Grenoble Rugby (2021 - 2023)
 - Stado Tarbes Pyrénées Rugby (2023)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
-- Stado Tarbes Pyrénées Rugby (2024 - 2024)
+- Stado Tarbes Pyrénées Rugby (2024)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

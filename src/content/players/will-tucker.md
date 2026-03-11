@@ -34,5 +34,5 @@ facebook: ""
 - [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
 - AZ-COM Maruwa Momotaro's (2025)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
-- AZ-COM Maruwa Momotaro's (2026 - )
+- AZ-COM Maruwa Momotaro's (2026)
 - [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2026 - )

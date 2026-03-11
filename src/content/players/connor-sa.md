@@ -27,4 +27,4 @@ facebook: ""
 - US Carcassonne (2022)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
 - US Carcassonne (2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)
+- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )

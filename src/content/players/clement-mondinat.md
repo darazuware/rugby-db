@@ -25,4 +25,4 @@ facebook: ""
 
 - Union Sportive du Canton de Pouyastruc (2008 - 2017)
 - Stado Tarbes Pyrénées Rugby (2017 - 2018)
-- [ポー](/teams/top14/pau) (2018 - 2026)
+- [ポー](/teams/top14/pau) (2018 - )

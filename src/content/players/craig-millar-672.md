@@ -25,4 +25,4 @@ facebook: ""
 
 - [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2013 - 2017)
 - Sunwolves (2017 - 2019)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - 2026)
+- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - )

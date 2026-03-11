@@ -25,4 +25,4 @@ facebook: ""
 
 - Avenir Barcus (2009 - 2019)
 - Sport Athlétique Mauléonais (2019 - 2021)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )

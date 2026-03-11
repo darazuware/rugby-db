@@ -26,6 +26,6 @@ facebook: ""
 - Southland Stags (2020 - 2024)
 - ドラゴンズ・ラグビー (2024)
 - Southland Stags (2024)
-- ドラゴンズ・ラグビー (2025 - )
-- Southland Stags (2025 - )
+- ドラゴンズ・ラグビー (2025)
+- Southland Stags (2025)
 - [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

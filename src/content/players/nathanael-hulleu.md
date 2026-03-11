@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - FC Grenoble Rugby (2015 - 2020)
 - [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2022)
 - [ヴァンヌ](/teams/top14/vannes) (2022 - 2023)
-- [カストル](/teams/top14/castres) (2023 - 2026)
+- [カストル](/teams/top14/castres) (2023 - )

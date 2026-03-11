@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - 2026)
+- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2017 - )

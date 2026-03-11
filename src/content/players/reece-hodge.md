@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - メルボルン・レベルズ (2015 - 2023)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - 2026)
+- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
