@@ -172,7 +172,7 @@ const getLeagueResults = (league: any) => {
                 {
                     leagues.filter(l => !l.parentId).map((league) => (
                         <button 
-                            class="filter-btn px-4 py-2 bg-card/50 text-foreground/40 font-black rounded-xl border border-border-dim hover:border-yellow-400/50 hover:text-foreground transition-all text-[10px] uppercase tracking-widest"
+                            class="filter-btn px-4 py-2 bg-card/50 text-foreground/40 font-black rounded-xl border border-border-dim hover:border-yellow-400 hover:text-black transition-all text-[10px] uppercase tracking-widest"
                             data-league={league.id}
                         >
                             {league.label}
@@ -355,11 +355,21 @@ const getLeagueResults = (league: any) => {
                     <div id="mobile-nav-accent" class="absolute -top-32 -right-32 w-64 h-64 bg-yellow-400/20 rounded-full blur-[60px] transition-all duration-700"></div>
 
                     <div class="relative z-10">
-                        <!-- ヘッダーエリア: 現在のリーグ表示 -->
                         <div class="flex items-center justify-between mb-5 px-1">
                             <div class="flex items-center gap-3">
                                 <div id="mobile-league-badge" class="w-2.5 h-2.5 rounded-full bg-yellow-400 shadow-[0_0_15px_rgba(250,204,21,0.4)]"></div>
                                 <span id="mobile-current-league-name" class="text-xs font-black text-foreground uppercase tracking-wider italic">リーグワン</span>
+                                <!-- リーグワン用Divセレクター (SP) -->
+                                <div id="mobile-div-selector" class="hidden items-center gap-1.5 ml-1 pl-3 border-l border-border-dim/30">
+                                    {['D1', 'D2', 'D3'].map(d => (
+                                        <button 
+                                            data-league-div={`league-one-${d.toLowerCase()}`}
+                                            class="mobile-div-btn text-[9px] font-black px-2 py-1 rounded bg-foreground/5 text-foreground/40 border border-border-dim/20 transition-all active:scale-90"
+                                        >
+                                            {d}
+                                        </button>
+                                    ))}
+                                </div>
                             </div>
                             <a href="#top" class="text-[10px] font-black text-foreground/40 hover:text-foreground uppercase tracking-[0.2em] transition-colors bg-foreground/5 px-3 py-1.5 rounded-full border border-border-dim/30">TOP</a>
                         </div>
@@ -466,15 +476,30 @@ const getLeagueResults = (league: any) => {
 
         // リーグワン・サブフィルターの表示制御
         const subFilters = document.getElementById('league-one-sub-filters');
-        if (subFilters) {
-            if (activeLeague.startsWith('league-one')) {
-                subFilters.classList.remove('hidden');
-                subFilters.classList.add('flex');
-            } else {
-                subFilters.classList.add('hidden');
-                subFilters.classList.remove('flex');
-            }
+        const mobileDivSelector = document.getElementById('mobile-div-selector');
+        
+        if (activeLeague.startsWith('league-one')) {
+            subFilters?.classList.remove('hidden');
+            subFilters?.classList.add('flex');
+            mobileDivSelector?.classList.remove('hidden');
+            mobileDivSelector?.classList.add('flex');
+        } else {
+            subFilters?.classList.add('hidden');
+            subFilters?.classList.remove('flex');
+            mobileDivSelector?.classList.add('hidden');
+            mobileDivSelector?.classList.remove('flex');
         }
+
+        // モバイルDivボタンのハイライト
+        document.querySelectorAll('.mobile-div-btn').forEach(btn => {
+            if (btn.getAttribute('data-league-div') === activeLeague) {
+                btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-500');
+                btn.classList.remove('bg-foreground/5', 'text-foreground/40');
+            } else {
+                btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-500');
+                btn.classList.add('bg-foreground/5', 'text-foreground/40');
+            }
+        });
 
         const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
         const colorSet = leagueColors[targetLeague] || leagueColors['all'];
@@ -523,10 +548,10 @@ const getLeagueResults = (league: any) => {
     // イベントリスナーの登録 (デリゲーション)
     document.addEventListener('click', (e) => {
         const target = e.target as HTMLElement;
-        const leagueBtn = target.closest('[data-league-switch]');
+        const leagueBtn = target.closest('[data-league-switch]') || target.closest('.mobile-div-btn');
         
         if (leagueBtn) {
-            const league = leagueBtn.getAttribute('data-league-switch');
+            const league = leagueBtn.getAttribute('data-league-switch') || leagueBtn.getAttribute('data-league-div');
             updateFilter(league || 'all');
             
             // スクロール (対象セクションが見やすい位置へ)
