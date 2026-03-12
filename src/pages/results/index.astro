@@ -331,21 +331,41 @@ const getLeagueResults = (league: any) => {
 			</div>
 
             <!-- モバイル用フローティングRoundジャンプメニュー -->
-            <div id="mobile-round-nav" class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-[90%] max-w-sm transform transition-transform duration-300 translate-y-24 opacity-0">
-                <div class="bg-black/80 backdrop-blur-2xl border border-white/10 rounded-[2rem] p-4 shadow-2xl">
-                    <div class="flex items-center justify-between mb-3 px-2">
-                        <span class="text-[8px] font-black text-white/40 uppercase tracking-widest italic">Round Navigator</span>
-                        <div class="flex gap-4">
-                            <a href="#top" class="text-[8px] font-black text-yellow-400 uppercase tracking-widest">TOP</a>
+            <div id="mobile-round-nav" class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-[95%] max-w-sm transform transition-transform duration-300 translate-y-24 opacity-0">
+                <div class="bg-black/90 backdrop-blur-2xl border border-white/10 rounded-[2.5rem] p-5 shadow-2xl relative overflow-hidden">
+                    <!-- 背景のカラーアクセント (JSで色変更) -->
+                    <div id="mobile-nav-accent" class="absolute -top-24 -right-24 w-48 h-48 bg-yellow-400/10 rounded-full blur-3xl transition-colors duration-500"></div>
+
+                    <div class="relative z-10">
+                        <div class="flex items-center justify-between mb-4 px-2">
+                            <div class="flex items-center gap-2">
+                                <span id="mobile-league-badge" class="w-2 h-2 rounded-full bg-yellow-400 shadow-[0_0_10px_rgba(250,204,21,0.5)]"></span>
+                                <span id="mobile-current-league-name" class="text-[10px] font-black text-white uppercase tracking-widest italic">League One</span>
+                            </div>
+                            <div class="flex gap-4">
+                                <a href="#top" class="text-[9px] font-black text-white/40 hover:text-white uppercase tracking-widest transition-colors">TOP</a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="flex overflow-x-auto gap-2 no-scrollbar pb-1 px-1 snap-x" id="mobile-round-list">
-                        {/* JavaScriptで動的にRoundリンクを生成する、または代表的なRoundを配置 */}
-                        {Array.from({length: 18}, (_, i) => i + 1).map(r => (
-                            <a href={`?round=${r}`} class="mobile-round-link shrink-0 w-10 h-10 bg-white/5 text-white/40 rounded-xl flex items-center justify-center font-black text-[10px] border border-white/5 snap-start">
-                                {r}
-                            </a>
-                        ))}
+
+                        <!-- ラウンドリスト -->
+                        <div class="flex overflow-x-auto gap-2 no-scrollbar pb-4 px-1 snap-x" id="mobile-round-list">
+                            {Array.from({length: 18}, (_, i) => i + 1).map(r => (
+                                <a 
+                                    href={`#league-one-d1-round-${r}`} 
+                                    data-round={r}
+                                    class="mobile-round-link shrink-0 w-12 h-12 bg-white/5 text-white/40 rounded-2xl flex items-center justify-center font-black text-xs border border-white/5 snap-start active:scale-90 transition-transform"
+                                >
+                                    {r}
+                                </a>
+                            ))}
+                        </div>
+
+                        <!-- リーグクイックチェンジ -->
+                        <div class="mt-2 pt-4 border-t border-white/5 flex justify-center gap-4">
+                            <button data-league-switch="league-one-d1" class="text-[8px] font-black text-white/20 hover:text-red-500 uppercase tracking-widest transition-colors">L1</button>
+                            <button data-league-switch="super-rugby" class="text-[8px] font-black text-white/20 hover:text-blue-500 uppercase tracking-widest transition-colors">SR</button>
+                            <button data-league-switch="top14" class="text-[8px] font-black text-white/20 hover:text-yellow-500 uppercase tracking-widest transition-colors">T14</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -371,15 +391,23 @@ const getLeagueResults = (league: any) => {
         });
     });
 
+    // リーグ別カラー設定
+    const leagueColors: Record<string, { badge: string; accent: string; name: string }> = {
+        'league-one-d1': { badge: 'bg-red-600', accent: 'bg-red-600/10', name: 'League One' },
+        'super-rugby': { badge: 'bg-blue-600', accent: 'bg-blue-600/10', name: 'Super Rugby' },
+        'top14': { badge: 'bg-yellow-600', accent: 'bg-yellow-600/10', name: 'Top 14' },
+        'all': { badge: 'bg-yellow-400', accent: 'bg-yellow-400/10', name: 'All Leagues' }
+    };
+
     function updateFilter(league: string) {
-        // トグル処理: クリックされたのが現在のアクティブなリーグなら解除（ALLに戻す）
+        // トグル処理
         if (activeLeague === league && league !== 'all') {
             activeLeague = 'all';
         } else {
             activeLeague = league || 'all';
         }
 
-        // UIの更新
+        // フィルターボタンの更新
         buttons.forEach(btn => {
             if (btn.getAttribute('data-league') === activeLeague) {
                 btn.classList.add('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
@@ -390,11 +418,47 @@ const getLeagueResults = (league: any) => {
             }
         });
 
-        // サイドバーのリンク更新
+        // サイドバーのリーグボタンのハイライト
+        const sidebarLeagueBtns = document.querySelectorAll('[data-league-switch]');
+        sidebarLeagueBtns.forEach(btn => {
+            if (btn.getAttribute('data-league-switch') === activeLeague) {
+                btn.classList.add('border-yellow-400', 'bg-white/5 shadow-lg');
+                btn.classList.remove('border-border-dim/50');
+            } else {
+                btn.classList.remove('border-yellow-400', 'bg-white/5 shadow-lg');
+                btn.classList.add('border-border-dim/50');
+            }
+        });
+
+        const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
+
+        // サイドバーのラウンドリンク更新
         const sidebarLinks = document.querySelectorAll('.sidebar-round-link');
         sidebarLinks.forEach(link => {
             const round = link.getAttribute('data-round');
-            const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
+            link.setAttribute('href', `#${targetLeague}-round-${round}`);
+        });
+
+        // モバイルナビの更新
+        const mobileBadge = document.getElementById('mobile-league-badge');
+        const mobileName = document.getElementById('mobile-current-league-name');
+        const mobileAccent = document.getElementById('mobile-nav-accent');
+        const mobileRoundLinks = document.querySelectorAll('.mobile-round-link');
+        const colorSet = leagueColors[targetLeague] || leagueColors['all'];
+
+        if (mobileBadge) {
+            mobileBadge.className = `w-2 h-2 rounded-full ${colorSet.badge} transition-colors duration-500`;
+        }
+        if (mobileName) {
+            mobileName.textContent = colorSet.name;
+        }
+        if (mobileAccent) {
+            mobileAccent.className = `absolute -top-24 -right-24 w-48 h-48 ${colorSet.accent} rounded-full blur-3xl transition-colors duration-500`;
+        }
+        
+        // モバイルナビの各リンク先も修正 (SRならSRへ)
+        mobileRoundLinks.forEach(link => {
+            const round = link.getAttribute('data-round');
             link.setAttribute('href', `#${targetLeague}-round-${round}`);
         });
 
@@ -408,6 +472,27 @@ const getLeagueResults = (league: any) => {
             }
         });
     }
+
+    // リーグスイッチボタンのイベント登録 (サイドバー & モバイルナビ)
+    document.querySelectorAll('[data-league-switch]').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const league = btn.getAttribute('data-league-switch');
+            updateFilter(league || 'all');
+            
+            // スクロール (一番上に表示されているセクションへ)
+            const targetSection = document.querySelector(`section[data-league="${league}"]`);
+            if (targetSection) {
+                setTimeout(() => {
+                    const offset = 100;
+                    const bodyRect = document.body.getBoundingClientRect().top;
+                    const elementRect = targetSection.getBoundingClientRect().top;
+                    const elementPosition = elementRect - bodyRect;
+                    const offsetPosition = elementPosition - offset;
+                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+                }, 100);
+            }
+        });
+    });
 
     // モバイル用フローティングナビゲーションの制御
     const mobileRoundNav = document.getElementById('mobile-round-nav');

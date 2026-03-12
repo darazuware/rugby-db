@@ -25,6 +25,30 @@ const getRounds = () => {
 ---
 
 <aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto no-scrollbar">
+  {/* リーグ切り替え (New) */}
+  <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-[2rem] p-6 shadow-2xl">
+      <div class="flex items-center gap-3 mb-6">
+          <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
+          <h3 class="font-black italic text-xl tracking-tighter uppercase">Switch League</h3>
+      </div>
+      <div class="grid gap-2">
+          {[
+              { id: 'league-one-d1', label: 'League One', color: 'bg-red-600' },
+              { id: 'super-rugby', label: 'Super Rugby', color: 'bg-blue-600' },
+              { id: 'top14', label: 'TOP 14', color: 'bg-yellow-600' }
+          ].map(l => (
+              <button
+                  data-league-switch={l.id}
+                  class={`sidebar-league-btn flex items-center gap-3 p-3 rounded-xl border border-border-dim/50 hover:border-yellow-400/50 transition-all group text-left ${activeLeague === l.id ? 'bg-white/5 border-yellow-400' : 'bg-transparent'}`}
+              >
+                  <span class={`w-2 h-2 rounded-full ${l.color}`}></span>
+                  <span class="text-[10px] font-black uppercase tracking-widest text-foreground/60 group-hover:text-yellow-400">
+                      {l.label}
+                  </span>
+              </button>
+          ))}
+      </div>
+  </div>
   {type === "results" && (
     <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-[2rem] p-6 shadow-2xl">
       <div class="flex items-center gap-3 mb-6">
