@@ -3,18 +3,18 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="プライバシーポリシー | RUGBY PICKS">
-    <main class="bg-black min-h-screen pt-20 pb-20">
+    <main class="bg-background min-h-screen pt-20 pb-20">
         <div
-            class="container mx-auto px-4 max-w-4xl font-sans leading-relaxed text-gray-300"
+            class="container mx-auto px-4 max-w-4xl font-sans leading-relaxed text-foreground/80"
         >
-            <header class="mb-12 border-b border-gray-800 pb-8">
+            <header class="mb-12 border-b border-border-dim pb-8">
                 <h1
-                    class="text-4xl font-black text-white italic tracking-tighter mb-4"
+                    class="text-4xl font-black text-foreground italic tracking-tighter mb-4"
                 >
                     PRIVACY <span class="text-yellow-400">POLICY</span>
                 </h1>
                 <p
-                    class="text-sm text-gray-500 font-bold uppercase tracking-widest"
+                    class="text-sm text-foreground/40 font-bold uppercase tracking-widest"
                 >
                     最終更新日: 2026年3月10日
                 </p>
@@ -23,26 +23,26 @@ import Layout from "../layouts/Layout.astro";
             <section class="space-y-12">
                 <div>
                     <h2
-                        class="text-xl font-bold text-white mb-4 flex items-center gap-2"
+                        class="text-xl font-bold text-foreground mb-4 flex items-center gap-2"
                     >
                         <span class="w-1.5 h-6 bg-yellow-400"></span>
                         個人情報の保護について
                     </h2>
                     <p>
                         RUGBY
-                        PICKS（以下「当サイト」）は、お客様の個人情報の保護を最優先事項と考え、以下の通りプライバシーポリシーを定めています。当サイトをご利用いただく際は、本ポリシーに同意いただいたものとみなされます。
+                        PICKS（以下「当サイト」）は、お客様の個人情報の保護を最優先事項と考え、以下の通りプライバシーポリシーを定めています。当サイトをご利用いただく際は、本ポリシーに同意いただいたものとみなされるます。
                     </p>
                 </div>
 
                 <div>
                     <h2
-                        class="text-xl font-bold text-white mb-4 flex items-center gap-2"
+                        class="text-xl font-bold text-foreground mb-4 flex items-center gap-2"
                     >
                         <span class="w-1.5 h-6 bg-yellow-400"></span>
                         広告の配信について
                     </h2>
                     <div class="space-y-4">
-                        <p class="font-bold text-white">【Google AdSense】</p>
+                        <p class="font-bold text-foreground">【Google AdSense】</p>
                         <p>
                             当サイトは、第三者配信の広告サービス「Google
                             アドセンス」を利用しています。広告配信事業者は、ユーザーの興味に応じた広告を表示するために、Cookie（クッキー）を使用することがあります。これにより、ユーザーが当サイトや他のサイトにアクセスした際の情報に基づき、適切な広告が表示されます。
@@ -55,7 +55,7 @@ import Layout from "../layouts/Layout.astro";
                             >」をご覧ください。
                         </p>
 
-                        <p class="font-bold text-white mt-6">
+                        <p class="font-bold text-foreground mt-6">
                             【アフィリエイトプログラム】
                         </p>
                         <p>
@@ -63,17 +63,17 @@ import Layout from "../layouts/Layout.astro";
                         </p>
                         <ul class="list-disc list-inside space-y-2 ml-4">
                             <li>
-                                <strong class="text-white"
+                                <strong class="text-foreground"
                                     >Amazonアソシエイト・プログラム</strong
                                 >（Amazon.co.jpにある商品を紹介するプログラム）
                             </li>
                             <li>
-                                <strong class="text-white"
+                                <strong class="text-foreground"
                                     >楽天アフィリエイト</strong
                                 >
                             </li>
                             <li>
-                                <strong class="text-white"
+                                <strong class="text-foreground"
                                     >Yahoo!ショッピング（バリューコマース等）</strong
                                 >
                             </li>
@@ -87,7 +87,7 @@ import Layout from "../layouts/Layout.astro";
 
                 <div>
                     <h2
-                        class="text-xl font-bold text-white mb-4 flex items-center gap-2"
+                        class="text-xl font-bold text-foreground mb-4 flex items-center gap-2"
                     >
                         <span class="w-1.5 h-6 bg-yellow-400"></span>
                         アクセス解析ツールについて
@@ -99,7 +99,7 @@ import Layout from "../layouts/Layout.astro";
 
                 <div>
                     <h2
-                        class="text-xl font-bold text-white mb-4 flex items-center gap-2"
+                        class="text-xl font-bold text-foreground mb-4 flex items-center gap-2"
                     >
                         <span class="w-1.5 h-6 bg-yellow-400"></span>
                         免責事項
@@ -111,7 +111,7 @@ import Layout from "../layouts/Layout.astro";
 
                 <div>
                     <h2
-                        class="text-xl font-bold text-white mb-4 flex items-center gap-2"
+                        class="text-xl font-bold text-foreground mb-4 flex items-center gap-2"
                     >
                         <span class="w-1.5 h-6 bg-yellow-400"></span>
                         著作権について
@@ -121,8 +121,8 @@ import Layout from "../layouts/Layout.astro";
                     </p>
                 </div>
 
-                <div class="pt-8 border-t border-gray-800 text-center">
-                    <p class="text-sm text-gray-500 italic">
+                <div class="pt-8 border-t border-border-dim text-center">
+                    <p class="text-sm text-foreground/40 italic">
                         RUGBY PICKS 運営事務局
                     </p>
                 </div>
@@ -133,6 +133,6 @@ import Layout from "../layouts/Layout.astro";
 
 <style>
     main {
-        background: radial-gradient(circle at 50% 0%, #1a1a1a 0%, #000000 100%);
+        background: radial-gradient(circle at 50% 0%, var(--background) 0%, var(--card) 100%);
     }
 </style>

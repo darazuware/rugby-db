@@ -3,27 +3,27 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="お問い合わせ | RUGBY PICKS">
-    <main class="bg-black min-h-screen pt-20 pb-20">
+    <main class="bg-background min-h-screen pt-20 pb-20">
         <div class="container mx-auto px-4 max-w-2xl font-sans lg:pb-32">
             <header class="mb-12 text-center">
                 <h1
-                    class="text-5xl font-black text-white italic tracking-tighter mb-4 uppercase"
+                    class="text-5xl font-black text-foreground italic tracking-tighter mb-4 uppercase"
                 >
                     CONTACT <span class="text-yellow-400">US</span>
                 </h1>
-                <p class="text-gray-400 font-bold">
+                <p class="text-foreground/40 font-bold">
                     当サイトに関するお問い合わせ、ご意見、情報の修正依頼などはこちらから。
                 </p>
             </header>
 
             <div
-                class="bg-gray-900/50 backdrop-blur-md border border-gray-800 rounded-3xl p-8 md:p-12 shadow-2xl"
+                class="bg-card/50 backdrop-blur-md border border-border-dim rounded-3xl p-8 md:p-12 shadow-2xl"
             >
                 <form action="#" method="POST" class="space-y-6">
                     <div>
                         <label
                             for="name"
-                            class="block text-sm font-bold text-gray-400 mb-2 uppercase tracking-widest"
+                            class="block text-sm font-bold text-foreground/40 mb-2 uppercase tracking-widest"
                             >お名前</label
                         >
                         <input
@@ -31,7 +31,7 @@ import Layout from "../layouts/Layout.astro";
                             id="name"
                             name="name"
                             required
-                            class="w-full bg-black border border-gray-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-yellow-400 transition-colors"
+                            class="w-full bg-background border border-border-dim rounded-xl px-4 py-3 text-foreground focus:outline-none focus:border-yellow-400 transition-colors"
                             placeholder="ラグビー 太郎"
                         />
                     </div>
@@ -39,7 +39,7 @@ import Layout from "../layouts/Layout.astro";
                     <div>
                         <label
                             for="email"
-                            class="block text-sm font-bold text-gray-400 mb-2 uppercase tracking-widest"
+                            class="block text-sm font-bold text-foreground/40 mb-2 uppercase tracking-widest"
                             >メールアドレス</label
                         >
                         <input
@@ -47,7 +47,7 @@ import Layout from "../layouts/Layout.astro";
                             id="email"
                             name="email"
                             required
-                            class="w-full bg-black border border-gray-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-yellow-400 transition-colors"
+                            class="w-full bg-background border border-border-dim rounded-xl px-4 py-3 text-foreground focus:outline-none focus:border-yellow-400 transition-colors"
                             placeholder="rugby@example.com"
                         />
                     </div>
@@ -55,13 +55,13 @@ import Layout from "../layouts/Layout.astro";
                     <div>
                         <label
                             for="subject"
-                            class="block text-sm font-bold text-gray-400 mb-2 uppercase tracking-widest"
+                            class="block text-sm font-bold text-foreground/40 mb-2 uppercase tracking-widest"
                             >お問い合わせ件名</label
                         >
                         <select
                             id="subject"
                             name="subject"
-                            class="w-full bg-black border border-gray-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-yellow-400 transition-colors appearance-none"
+                            class="w-full bg-background border border-border-dim rounded-xl px-4 py-3 text-foreground focus:outline-none focus:border-yellow-400 transition-colors appearance-none"
                         >
                             <option value="general">サイト全般について</option>
                             <option value="bug">情報の誤り・不正規の報告</option
@@ -76,7 +76,7 @@ import Layout from "../layouts/Layout.astro";
                     <div>
                         <label
                             for="message"
-                            class="block text-sm font-bold text-gray-400 mb-2 uppercase tracking-widest"
+                            class="block text-sm font-bold text-foreground/40 mb-2 uppercase tracking-widest"
                             >お問い合わせ内容</label
                         >
                         <textarea
@@ -84,7 +84,7 @@ import Layout from "../layouts/Layout.astro";
                             name="message"
                             rows="6"
                             required
-                            class="w-full bg-black border border-gray-800 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-yellow-400 transition-colors resize-none"
+                            class="w-full bg-background border border-border-dim rounded-xl px-4 py-3 text-foreground focus:outline-none focus:border-yellow-400 transition-colors resize-none"
                             placeholder="具体的な内容をご記入ください。"
                         ></textarea>
                     </div>
@@ -100,7 +100,7 @@ import Layout from "../layouts/Layout.astro";
                 </form>
             </div>
 
-            <div class="mt-12 text-center text-gray-500 text-xs">
+            <div class="mt-12 text-center text-foreground/30 text-xs">
                 <p>※通常、3営業日以内に返信を差し上げます。</p>
                 <p class="mt-1">
                     ※収集した個人情報は、お問い合わせへの回答目的以外には使用いたしません。
@@ -112,7 +112,7 @@ import Layout from "../layouts/Layout.astro";
 
 <style>
     main {
-        background: radial-gradient(circle at 50% 0%, #1a1a1a 0%, #000000 100%);
+        background: radial-gradient(circle at 50% 0%, var(--background) 0%, var(--card) 100%);
     }
     select {
         background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239CA3AF'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");

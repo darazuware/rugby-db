@@ -30,9 +30,9 @@ const isLeagueOne =
     entry.data.name_en
   }）のプロフィールと詳細スタッツ。`}
 >
-  <main class="bg-gray-50 min-h-screen py-12 px-4">
+  <main class="bg-background min-h-screen py-12 px-4">
     <div
-      class="max-w-4xl mx-auto bg-white rounded-3xl shadow-2xl overflow-hidden border border-gray-100"
+      class="max-w-4xl mx-auto bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim"
     >
       <div class="bg-gray-900 p-8 text-white relative">
         <div class="absolute top-0 right-0 p-8 opacity-10">
@@ -78,30 +78,30 @@ const isLeagueOne =
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div class="space-y-6">
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">ポジション</span>
+                <span class="font-black text-foreground text-sm">ポジション</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >POSITION</span
                 >
               </div>
               <a
                 href={`/players?position=${entry.data.position}`}
-                class="font-black text-gray-900 text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
               >
                 {entry.data.position}
               </a>
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">所属チーム</span>
+                <span class="font-black text-foreground text-sm">所属チーム</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >CURRENT TEAM</span
                 >
               </div>
@@ -109,19 +109,19 @@ const isLeagueOne =
                 href={`/teams/${
                   entry.data.league || "league-one"
                 }/${getTeamSlug(entry.data.team)}/`}
-                class="font-black text-yellow-600 text-lg tracking-tight text-right ml-4 leading-tight hover:text-black transition-colors underline decoration-yellow-50 hover:decoration-black decoration-2 underline-offset-4"
+                class="font-black text-yellow-600 text-lg tracking-tight text-right ml-4 leading-tight hover:text-foreground transition-colors underline decoration-yellow-50 dark:decoration-yellow-900/30 hover:decoration-foreground decoration-2 underline-offset-4"
               >
                 {entry.data.team}
               </a>
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">年齢</span>
+                <span class="font-black text-foreground text-sm">年齢</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >AGE</span
                 >
               </div>
@@ -129,23 +129,23 @@ const isLeagueOne =
                 href={`/players?search=${encodeURIComponent(
                   entry.data.age + "歳"
                 )}`}
-                class="font-black text-gray-900 text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
               >
                 {entry.data.age}<span class="text-xs ml-1">歳</span>
               </a>
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">生年月日</span>
+                <span class="font-black text-foreground text-sm">生年月日</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >BIRTH DATE</span
                 >
               </div>
-              <span class="font-black text-gray-900 text-lg tracking-tighter"
+              <span class="font-black text-foreground text-lg tracking-tighter"
                 >{entry.data.birth_date}</span
               >
             </div>
@@ -153,13 +153,13 @@ const isLeagueOne =
 
           <div class="space-y-6">
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">身長 / 体重</span
+                <span class="font-black text-foreground text-sm">身長 / 体重</span
                 >
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >HEIGHT / WEIGHT</span
                 >
               </div>
@@ -168,20 +168,20 @@ const isLeagueOne =
                   href={`/players?search=${encodeURIComponent(
                     entry.data.height + "cm"
                   )}`}
-                  class="font-black text-gray-900 text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                  class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
                 >
-                  {entry.data.height}<span class="text-xs mx-0.5 text-gray-300"
+                  {entry.data.height}<span class="text-xs mx-0.5 text-foreground/20"
                     >cm</span
                   >
                 </a>
-                <span class="text-gray-200">/</span>
+                <span class="text-foreground/10">/</span>
                 <a
                   href={`/players?search=${encodeURIComponent(
                     entry.data.weight + "kg"
                   )}`}
-                  class="font-black text-gray-900 text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                  class="font-black text-foreground text-xl tracking-tighter hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
                 >
-                  {entry.data.weight}<span class="text-xs ml-0.5 text-gray-300"
+                  {entry.data.weight}<span class="text-xs ml-0.5 text-foreground/20"
                     >kg</span
                   >
                 </a>
@@ -189,12 +189,12 @@ const isLeagueOne =
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">出身高校</span>
+                <span class="font-black text-foreground text-sm">出身高校</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >HIGH SCHOOL</span
                 >
               </div>
@@ -202,19 +202,19 @@ const isLeagueOne =
                 href={`/players?search=${encodeURIComponent(
                   entry.data.high_school
                 )}`}
-                class="font-black text-gray-900 text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
               >
                 {entry.data.high_school || "---"}
               </a>
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">出身大学</span>
+                <span class="font-black text-foreground text-sm">出身大学</span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                   >UNIVERSITY</span
                 >
               </div>
@@ -222,17 +222,17 @@ const isLeagueOne =
                 href={`/players?search=${encodeURIComponent(
                   entry.data.university
                 )}`}
-                class="font-black text-gray-900 text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-gray-100 hover:decoration-yellow-400 decoration-2 underline-offset-4"
+                class="font-black text-foreground text-base text-right leading-tight ml-4 hover:text-yellow-600 transition-colors underline decoration-border-dim/50 hover:decoration-yellow-400 decoration-2 underline-offset-4"
               >
                 {entry.data.university || "---"}
               </a>
             </div>
 
             <div
-              class="flex justify-between items-end border-b-2 border-gray-50 pb-3 group/item"
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
             >
               <div class="flex flex-col">
-                <span class="font-black text-gray-900 text-sm">
+                <span class="font-black text-foreground text-sm">
                   {
                     isLeagueOne
                       ? "代表キャップ数（リーグワン）"
@@ -240,16 +240,16 @@ const isLeagueOne =
                   }
                 </span>
                 <span
-                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest leading-none"
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
                 >
                   {isLeagueOne ? "TEST CAPS (LEAGUE ONE)" : "TEST CAPS"}
                 </span>
               </div>
-              <span class="font-black text-gray-900 text-lg tracking-tighter">
+              <span class="font-black text-foreground text-lg tracking-tighter">
                 {entry.data.caps || "0"}
                 {
                   isLeagueOne && (
-                    <span class="text-xs text-gray-400 mx-1 ml-2">
+                    <span class="text-xs text-foreground/40 mx-1 ml-2">
                       ({entry.data.league_one_caps || "0"})
                     </span>
                   )
@@ -265,7 +265,7 @@ const isLeagueOne =
         </div>
 
         <div
-          class="prose max-w-none prose-headings:font-black prose-headings:text-gray-900 bg-gray-50 p-8 rounded-2xl border border-gray-100"
+          class="prose dark:prose-invert max-w-none prose-headings:font-black prose-headings:text-foreground bg-background p-8 rounded-2xl border border-border-dim"
         >
           <h2 class="text-2xl font-black mb-6">キャリア遍歴・詳細</h2>
           <Content />

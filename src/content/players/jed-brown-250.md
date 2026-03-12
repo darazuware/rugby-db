@@ -6,7 +6,7 @@ team: "花園近鉄ライナーズ"
 height: "185"
 weight: "100"
 birth_date: "1991.03.12"
-age: 34
+age: 35
 high_school: "バーンサイドハイスクール"
 university: ""
 caps: ""

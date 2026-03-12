@@ -81,15 +81,15 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
         .toUpperCase()} に登録されている全選手の身長、体重、年齢、ポジション別の検索・ソートが可能です。`}
 >
     <!-- DEBUG: LEAGUES-PAGE-COMBINED-20260312 -->
-    <main class="bg-gray-950 min-h-screen pt-12 pb-24">
+    <main class="bg-background min-h-screen pt-12 pb-24">
         <div class="container mx-auto px-4 mb-12">
             <div
-                class="flex items-center gap-4 text-xs font-black text-gray-500 uppercase tracking-[0.3em] mb-8"
+                class="flex items-center gap-4 text-xs font-black text-foreground/30 uppercase tracking-[0.3em] mb-8"
             >
                 <a href="/" class="hover:text-yellow-400 transition-colors"
                     >HOME</a
                 >
-                <span class="text-gray-800">/</span>
+                <span class="text-foreground/10">/</span>
                 <span class="text-yellow-400">{league?.replace("-", " ")}</span>
             </div>
 
@@ -101,8 +101,8 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
             {leagueStandings && (
                 <div class="mb-20">
                     <div class="flex items-center gap-4 mb-8">
-                        <h2 class="text-2xl font-black text-white italic tracking-tight uppercase">Standings</h2>
-                        <div class="h-px flex-1 bg-gray-900"></div>
+                        <h2 class="text-2xl font-black text-foreground italic tracking-tight uppercase">Standings</h2>
+                        <div class="h-px flex-1 bg-border-dim"></div>
                     </div>
                     <StandingsTable client:load standings={leagueStandings} leagueId={targetLeague} />
                 </div>
@@ -116,10 +116,10 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
             )}
         </div>
 
-        <div id="players" class="max-w-7xl mx-auto px-4 mt-24 border-t border-gray-900 pt-24">
+        <div id="players" class="max-w-7xl mx-auto px-4 mt-24 border-t border-border-dim pt-24">
             <div class="flex items-center gap-4 mb-12">
-                <h2 class="text-2xl font-black text-white italic tracking-tight uppercase">Player Directory</h2>
-                <div class="h-px flex-1 bg-gray-900"></div>
+                <h2 class="text-2xl font-black text-foreground italic tracking-tight uppercase">Player Directory</h2>
+                <div class="h-px flex-1 bg-border-dim"></div>
             </div>
             <PlayerList
                 client:load
@@ -136,7 +136,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
         {/* トップへ戻る */}
         <a
             href="#top"
-            class="w-12 h-12 md:w-14 md:h-14 bg-white/90 backdrop-blur-md border border-gray-200 rounded-2xl shadow-xl flex items-center justify-center text-gray-400 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
+            class="w-12 h-12 md:w-14 md:h-14 bg-card/90 backdrop-blur-md border border-border-dim rounded-2xl shadow-xl flex items-center justify-center text-foreground/40 hover:text-yellow-500 hover:border-yellow-200 transition-all hover:-translate-y-1 group"
             title="トップへ戻る"
         >
             <svg
@@ -151,7 +151,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
                 ><path d="m18 15-6-6-6 6"></path>
             </svg>
             <span
-                class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
+                class="absolute right-full mr-3 px-2 py-1 bg-card text-foreground text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
                 >TOPへ戻る</span
             >
         </a>
@@ -175,7 +175,7 @@ const leagueResults = leagueResultsAll.filter((m: any) => {
                 ></path>
             </svg>
             <span
-                class="absolute right-full mr-3 px-2 py-1 bg-gray-900 text-white text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
+                class="absolute right-full mr-3 px-2 py-1 bg-card text-foreground text-[10px] font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap hidden md:block"
                 >選手検索</span
             >
         </a>

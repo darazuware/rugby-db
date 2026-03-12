@@ -7,7 +7,7 @@ const allPlayers = await getCollection("players");
 ---
 
 <Layout title="選手名鑑 | RUGBY PICKS">
-	<main class="bg-gray-50 min-h-screen py-10">
+	<main class="bg-background min-h-screen py-10">
 		<PlayerList initialPlayers={allPlayers} client:load />
 	</main>
 </Layout>

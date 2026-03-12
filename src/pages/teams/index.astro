@@ -30,18 +30,18 @@ const leagues = [
 ---
 
 <Layout title="チーム一覧 | RUGBY PICKS">
-    <main class="bg-gray-50 min-h-screen py-12 px-4">
+    <main class="bg-background min-h-screen py-12 px-4">
         <div class="max-w-7xl mx-auto">
             <header class="mb-16 text-center">
                 <h1
-                    class="text-5xl font-black text-gray-900 tracking-tighter italic mb-4 uppercase"
+                    class="text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase"
                 >
                     TEAM<span class="text-yellow-400">NAVIGATION</span>
                     <span class="not-italic ml-4 text-2xl"
                         >リーグ別チーム一覧</span
                     >
                 </h1>
-                <p class="text-gray-500 font-bold italic max-w-2xl mx-auto">
+                <p class="text-foreground/60 font-bold italic max-w-2xl mx-auto">
                     RUGBY PICKS
                     がカバーする各リーグの所属チーム一覧と最新順位表。
                     お気に入りのチームのロースター情報を瞬時にチェック。
@@ -53,7 +53,7 @@ const leagues = [
                     leagues.map((league) => (
                         <a
                             href={`/teams/${league.id}`}
-                            class="group relative bg-white p-8 rounded-[2.5rem] shadow-sm hover:shadow-2xl transition-all border border-gray-100 overflow-hidden"
+                            class="group relative bg-card p-8 rounded-[2.5rem] shadow-sm hover:shadow-2xl transition-all border border-border-dim overflow-hidden"
                         >
                             <div class="absolute top-0 right-0 w-32 h-32 translate-x-12 -translate-y-12 rotate-45 bg-yellow-400/10 group-hover:bg-yellow-400 group-hover:translate-x-8 group-hover:-translate-y-8 transition-all duration-500 z-0" />
 
@@ -61,13 +61,13 @@ const leagues = [
                                 <span class="text-[10px] font-black text-yellow-600 uppercase tracking-[0.2em] mb-4 block">
                                     Select League
                                 </span>
-                                <h2 class="text-3xl font-black text-gray-900 mb-4 tracking-tighter group-hover:text-yellow-600 transition-colors uppercase italic italic">
+                                <h2 class="text-3xl font-black text-foreground mb-4 tracking-tighter group-hover:text-yellow-600 transition-colors uppercase italic italic">
                                     {league.name}
                                 </h2>
-                                <p class="text-gray-500 font-medium text-sm leading-relaxed mb-6">
+                                <p class="text-foreground/60 font-medium text-sm leading-relaxed mb-6">
                                     {league.description}
                                 </p>
-                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 group-hover:text-gray-900 transition-colors">
+                                <div class="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-foreground/30 group-hover:text-foreground transition-colors">
                                     <span>Go to Teams</span>
                                     <span class="group-hover:translate-x-1 transition-transform">
                                         →
@@ -80,7 +80,7 @@ const leagues = [
             </div>
 
             <div
-                class="bg-gray-900 rounded-[3rem] p-12 text-center relative overflow-hidden"
+                class="bg-card rounded-[3rem] p-12 text-center relative overflow-hidden border border-border-dim"
             >
                 <div
                     class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none"
@@ -88,20 +88,20 @@ const leagues = [
                     <div class="grid grid-cols-6 h-full">
                         {
                             Array.from({ length: 6 }).map((_, i) => (
-                                <div class="border-r border-white/20 h-full" />
+                                <div class="border-r border-foreground/10 h-full" />
                             ))
                         }
                     </div>
                 </div>
                 <div class="relative z-10">
                     <h3
-                        class="text-white text-2xl font-black italic tracking-tighter mb-4"
+                        class="text-foreground text-2xl font-black italic tracking-tighter mb-4"
                     >
                         SEARCH ACROSS ALL <span class="text-yellow-400"
                             >PLAYERS</span
                         >
                     </h3>
-                    <p class="text-gray-400 text-sm mb-8 font-bold italic">
+                    <p class="text-foreground/40 text-sm mb-8 font-bold italic">
                         5,300名以上の全登録選手からキーワードで検索する場合はこちら
                     </p>
                     <a

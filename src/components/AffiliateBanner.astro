@@ -97,24 +97,23 @@ const banner = getBannerInfo(league);
 
         {
             type !== "card" && (
-                <p class="text-gray-300 font-medium mb-8 max-w-xl text-sm md:text-base leading-relaxed">
+                <p class="text-foreground/60 font-medium mb-8 max-w-xl text-sm md:text-base leading-relaxed">
                     {banner.description}
                 </p>
             )
         }
 
-        <div class="flex items-center gap-6">
-            <a
-                href={banner.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="inline-block px-8 py-4 bg-white text-black font-black text-sm md:text-lg rounded-2xl hover:bg-yellow-400 hover:scale-105 transition-all shadow-xl shadow-black/20"
-            >
-                {banner.buttonText}
+        <div class="flex flex-wrap items-center gap-6">
+            <a href="https://t.afi-b.com/visit.php?a=W11162V-y4169550&p=P8942398"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="inline-flex items-center gap-3 px-10 py-5 bg-white text-gray-950 rounded-2xl font-black text-lg hover:bg-yellow-400 hover:text-black hover:scale-105 active:scale-95 transition-all shadow-xl shadow-white/10 group/btn">
+                無料で視聴する
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 group-hover:translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
             </a>
             {
                 type !== "card" && (
-                    <span class="hidden md:inline-block text-xs font-bold text-gray-400 italic">
+                    <span class="hidden md:inline-block text-xs font-bold text-foreground/40 italic">
                         ※ 放送・配信内容は予告なく変更される場合があります
                     </span>
                 )

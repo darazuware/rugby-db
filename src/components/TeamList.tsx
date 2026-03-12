@@ -130,14 +130,14 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
 
     return (
         <div className="space-y-12">
-            <div className="bg-white p-6 rounded-3xl shadow-xl border border-gray-100 space-y-6">
+            <div className="bg-card p-6 rounded-3xl shadow-xl border border-border-dim space-y-6">
                 {/* 検索 */}
                 <div>
-                    <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-2">チーム検索</label>
+                    <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-2">チーム検索</label>
                     <input
                         type="text"
                         placeholder="チーム名（日本語・英語）で検索..."
-                        className={`w-full p-4 bg-gray-50 border-2 border-transparent rounded-2xl focus:bg-white ${theme.focus} outline-none transition-all font-bold`}
+                        className={`w-full p-4 bg-background border-2 border-transparent rounded-2xl focus:bg-card ${theme.focus} outline-none transition-all font-bold text-foreground`}
                         value={search}
                         onChange={(e) => setSearch(e.target.value)}
                     />
@@ -154,7 +154,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                     onClick={() => setSelectedDivision(div.id)}
                                     className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedDivision === div.id
                                         ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                        : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                         }`}
                                 >
                                     {div.name}
@@ -172,7 +172,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                     onClick={() => setSelectedLeague(league.id)}
                                     className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedLeague === league.id
                                         ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                        : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                         }`}
                                 >
                                     {league.name}
@@ -188,10 +188,10 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                     <div key={division} className="space-y-6">
                         <div className="flex items-center gap-3">
                             <span className={`w-2 h-8 ${getLeagueColor(teams[0].league)} rounded-full transition-colors`}></span>
-                            <h2 className="text-xl font-black text-gray-900 uppercase tracking-tighter italic">
+                            <h2 className="text-xl font-black text-foreground uppercase tracking-tighter italic">
                                 {division}
                             </h2>
-                            <span className="text-xs font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
+                            <span className="text-xs font-bold text-foreground/40 bg-background px-2 py-0.5 rounded-full">
                                 {teams.length} チーム
                             </span>
                         </div>
@@ -202,13 +202,13 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                     <a
                                         key={`${team.league}-${team.slug}`}
                                         href={`/teams/${team.league}/${team.slug}`}
-                                        className="group block bg-white rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-1 transition-all border border-gray-100 relative overflow-hidden h-full flex flex-col"
+                                        className="group block bg-card rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-1 transition-all border border-border-dim relative overflow-hidden h-full flex flex-col"
                                     >
                                         <div className="relative z-20 flex-grow">
 
-                                            <h3 className="text-xl font-black text-gray-900 mb-2 group-hover:text-yellow-600 transition-colors leading-tight flex items-start flex-wrap gap-2">
+                                            <h3 className="text-xl font-black text-foreground mb-2 group-hover:text-yellow-600 transition-colors leading-tight flex items-start flex-wrap gap-2">
                                             {(team.flag || (team.league !== 'league-one' && team.legal_entity)) && (
-                                                <div className="flex items-center gap-1.5 bg-gray-100 px-2 py-0.5 rounded-lg text-xs font-black text-gray-500 mb-1">
+                                                <div className="flex items-center gap-1.5 bg-background px-2 py-0.5 rounded-lg text-xs font-black text-foreground/40 mb-1">
                                                     {team.flag && <span className="text-base">{team.flag}</span>}
                                                     {team.league !== 'league-one' && team.legal_entity && <span>{team.legal_entity}</span>}
                                                 </div>
@@ -247,7 +247,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                                             )}
                                         </div>
 
-                                        <div className="mt-6 pt-4 border-t border-gray-50 flex justify-between items-center text-xs font-black text-gray-400 uppercase tracking-widest group-hover:text-gray-900 transition-colors">
+                                        <div className="mt-6 pt-4 border-t border-border-dim flex justify-between items-center text-xs font-black text-foreground/40 uppercase tracking-widest group-hover:text-foreground transition-colors">
                                             <span>選手一覧を見る</span>
                                             <span>→</span>
                                         </div>
@@ -258,7 +258,7 @@ const TeamList: React.FC<Props> = ({ initialTeams, leagueContext }) => {
                     </div>
                 ))
             ) : (
-                <div className="text-center py-20 text-gray-400 font-bold italic bg-white rounded-3xl border-2 border-dashed border-gray-100">
+                <div className="text-center py-20 text-foreground/40 font-bold italic bg-card rounded-3xl border-2 border-dashed border-border-dim">
                     一致するチームが見つかりません。
                 </div>
             )}

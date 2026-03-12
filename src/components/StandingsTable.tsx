@@ -68,10 +68,10 @@ const getLeagueConfig = (leagueId: string) => {
             };
         default:
             return {
-                bg: 'bg-gray-900',
-                accent: 'text-yellow-400',
-                border: 'border-yellow-400/20',
-                highlight: 'bg-yellow-400/5',
+                bg: 'bg-foreground',
+                accent: 'text-accent',
+                border: 'border-accent/20',
+                highlight: 'bg-accent/5',
                 name: leagueId.toUpperCase()
             };
     }
@@ -100,26 +100,26 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
         items.map((team, index) => {
             const displayName = team.display_name || team.team_name_jp || team.team_name;
             return (
-                <tr key={team.slug} className={`hover:bg-gray-50 transition-colors ${index < 4 ? config.highlight : ''}`}>
-                    <td className={`px-2 py-4 text-center font-black text-gray-900 border-r border-gray-50/50 ${index < 4 ? config.accent : ''} text-[10px]`}>
+                <tr key={team.slug} className={`hover:bg-background transition-colors ${index < 4 ? config.highlight : ''}`}>
+                    <td className={`px-2 py-4 text-center font-black text-foreground border-r border-border-dim/20 ${index < 4 ? config.accent : ''} text-[10px]`}>
                         {team.rank}
                     </td>
                     <td className="px-2 py-4">
                         <div className="flex flex-col min-w-[100px]">
                             <div className="flex items-center gap-1 mb-0.5">
                                 {team.flag && <span className="text-xs scale-110 mr-1 flex-shrink-0">{team.flag}</span>}
-                                <span className={`font-black text-gray-900 leading-tight tracking-tighter break-keep ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
+                                <span className={`font-black text-foreground leading-tight tracking-tighter break-keep ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
                                     {displayName}
                                 </span>
                             </div>
                         </div>
                     </td>
-                    <td className="px-2 py-4 text-center font-bold text-gray-600 border-l border-gray-50/50 text-[12px]">{team.played}</td>
-                    <td className="px-2 py-4 text-center font-bold text-gray-600 text-[12px]">{team.won}</td>
-                    <td className="px-2 py-4 text-center font-bold text-gray-600 text-[12px] md:table-cell hidden">{team.drawn}</td>
-                    <td className="px-2 py-4 text-center font-bold text-gray-600 text-[12px] md:table-cell hidden">{team.lost}</td>
-                    <td className="px-2 py-4 text-center font-bold text-gray-400 text-[12px] lg:table-cell hidden">{team.diff}</td>
-                    <td className={`px-2 py-4 text-center font-black text-gray-900 bg-gray-50/50 text-[11px] border-l border-gray-100 shadow-[inset_-1px_0_0_rgba(0,0,0,0.05)]`}>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 border-l border-border-dim/10 text-[12px]">{team.played}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px]">{team.won}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px] md:table-cell hidden">{team.drawn}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px] md:table-cell hidden">{team.lost}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/40 text-[12px] lg:table-cell hidden">{team.diff}</td>
+                    <td className={`px-2 py-4 text-center font-black text-foreground bg-foreground/5 text-[11px] border-l border-border-dim/20 shadow-[inset_-1px_0_0_rgba(0,0,0,0.05)]`}>
                         {team.points}
                     </td>
                 </tr>
@@ -129,8 +129,8 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
 
     return (
         <div className="flex flex-col gap-6">
-            <div className="bg-white rounded-3xl shadow-xl border border-gray-200/50 overflow-hidden">
-                <div className={`p-4 border-b border-gray-50 flex justify-between items-center ${config.bg}`}>
+                    <div className="bg-card rounded-3xl shadow-xl border border-border-dim/50 overflow-hidden">
+                <div className={`p-4 border-b border-border-dim/20 flex justify-between items-center ${config.bg}`}>
                     <h2 className="text-lg font-black text-white italic tracking-tighter uppercase">
                         {config.name} <span className="text-white/60">順位表</span>
                     </h2>
@@ -138,13 +138,13 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                 </div>
                 {(!standings || standings.length === 0) ? (
                     <div className="p-8 text-center">
-                        <p className="text-gray-400 font-bold italic">順位データがありません</p>
+                        <p className="text-foreground/40 font-bold italic">順位データがありません</p>
                     </div>
                 ) : (
                     <div className="overflow-x-auto">
                         <table className="w-full text-left border-collapse">
                             <thead>
-                                <tr className="bg-gray-100/50 border-b border-gray-100 text-[9px] font-black text-gray-500 uppercase tracking-widest">
+                                <tr className="bg-background border-b border-border-dim text-[9px] font-black text-foreground/40 uppercase tracking-widest">
                                     <th className="px-2 py-3 text-center w-8">位</th>
                                     <th className="px-2 py-3">チーム</th>
                                     <th className="px-2 py-3 text-center text-[12px]">試</th>
@@ -152,18 +152,18 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                                     <th className="px-2 py-3 text-center md:table-cell hidden text-[12px]">分</th>
                                     <th className="px-2 py-3 text-center md:table-cell hidden text-[12px]">負</th>
                                     <th className="px-2 py-3 text-center lg:table-cell hidden text-[12px]">±</th>
-                                    <th className="px-2 py-3 text-center text-gray-900 bg-gray-100">勝点</th>
+                                    <th className="px-2 py-3 text-center text-foreground bg-foreground/5">勝点</th>
                                 </tr>
                             </thead>
-                            <tbody className="divide-y divide-gray-50">
+                            <tbody className="divide-y divide-border-dim/10">
                                 {hasDivisions ? (
                                     Object.keys(groups).sort().map(div => (
                                         <React.Fragment key={div}>
-                                            <tr className="bg-gray-100/80 border-y border-gray-200">
+                                            <tr className="bg-background border-y border-border-dim">
                                                 <td colSpan={8} className="px-4 py-2.5">
                                                     <div className="flex items-center gap-2">
                                                         <span className={`w-1.5 h-4 ${config.bg} rounded-full`}></span>
-                                                        <span className="text-[11px] font-black text-gray-900 uppercase tracking-[0.2em]">
+                                                        <span className="text-[11px] font-black text-foreground uppercase tracking-[0.2em]">
                                                             {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
                                                         </span>
                                                     </div>
@@ -183,8 +183,8 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
 
             {/* 最新の試合結果 */}
             {results && results.length > 0 && (
-                <div className="bg-white rounded-3xl shadow-xl border border-gray-200/50 overflow-hidden">
-                    <div className={`p-4 border-b border-gray-50 flex justify-between items-center ${config.bg}`}>
+                <div className="bg-card rounded-3xl shadow-xl border border-border-dim/50 overflow-hidden">
+                    <div className={`p-4 border-b border-border-dim/20 flex justify-between items-center ${config.bg}`}>
                         <h2 className="text-lg font-black text-white italic tracking-tighter uppercase">
                             RECENT <span className="text-white/60">RESULTS</span>
                         </h2>
@@ -205,7 +205,7 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                                     {div !== 'Default' && (
                                         <div className="flex items-center gap-2 mb-2 px-1">
                                             <span className={`w-1 h-3 ${config.bg} rounded-full`}></span>
-                                            <span className="text-[10px] font-black text-gray-500 uppercase tracking-widest">
+                                            <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest">
                                                 {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
                                             </span>
                                         </div>
@@ -214,25 +214,25 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                                         {resultGroups[div].map((result, idx) => {
                                             const dateStr = result.date ? new Date(result.date).toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit' }) : '';
                                             return (
-                                                <div key={idx} className="flex items-center justify-between p-3 bg-gray-50 rounded-2xl border border-gray-100 group hover:border-yellow-200 transition-colors">
+                                                <div key={idx} className="flex items-center justify-between p-3 bg-background rounded-2xl border border-border-dim group hover:border-yellow-200 transition-colors">
                                                     <div className="flex flex-col items-center flex-1 min-w-0">
                                                         <span className="text-base md:text-lg mb-0.5 shrink-0">{result.home_flag}</span>
-                                                        <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.home}</span>
+                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.home}</span>
                                                     </div>
                                                     <div className="flex flex-col items-center px-2 shrink-0">
                                                         {dateStr && (
-                                                            <span className="text-[7px] font-black text-gray-400 uppercase mb-0.5 tabular-nums">
+                                                            <span className="text-[7px] font-black text-foreground/40 uppercase mb-0.5 tabular-nums">
                                                                 {dateStr}
                                                             </span>
                                                         )}
-                                                        {!dateStr && <span className="text-[8px] font-black text-gray-300 uppercase italic mb-0.5">VS</span>}
-                                                        <span className="text-base md:text-xl font-black text-gray-900 tracking-tighter bg-white px-2 py-0.5 rounded-lg border border-gray-100 shadow-sm group-hover:bg-yellow-50 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
+                                                        {!dateStr && <span className="text-[8px] font-black text-foreground/20 uppercase italic mb-0.5">VS</span>}
+                                                        <span className="text-base md:text-xl font-black text-foreground tracking-tighter bg-card px-2 py-0.5 rounded-lg border border-border-dim shadow-sm group-hover:bg-yellow-50 dark:group-hover:bg-yellow-900 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
                                                             {result.score}
                                                         </span>
                                                     </div>
                                                     <div className="flex flex-col items-center flex-1 min-w-0">
                                                         <span className="text-base md:text-lg mb-0.5 shrink-0">{result.away_flag}</span>
-                                                        <span className="text-[9px] md:text-[10px] font-black text-gray-900 text-center leading-tight truncate w-full">{result.away}</span>
+                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.away}</span>
                                                     </div>
                                                 </div>
                                             );

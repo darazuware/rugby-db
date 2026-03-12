@@ -6,7 +6,7 @@ team: "レッドハリケーンズ大阪"
 height: "176"
 weight: "98"
 birth_date: "1997.03.12"
-age: 28
+age: 29
 high_school: "佐賀工業高校"
 university: "明治大学"
 caps: ""

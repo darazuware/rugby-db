@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import ThemeToggle from "../components/ThemeToggle";
 
 interface Props {
 	title: string;
@@ -33,17 +34,34 @@ const {
 			async
 			src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526742711058970"
 			crossorigin="anonymous"></script>
-		<!-- ads.txt deployment force update -->
+		<script is:inline>
+			const theme = (() => {
+				if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+					return localStorage.getItem('theme');
+				}
+				if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+					return 'dark';
+				}
+				return 'light';
+			})();
+		
+			if (theme === 'light') {
+				document.documentElement.classList.remove('dark');
+			} else {
+				document.documentElement.classList.add('dark');
+			}
+			window.localStorage.setItem('theme', theme);
+		</script>
 	</head>
 	<body id="top" class="selection:bg-yellow-400 selection:text-black">
-		<nav class="bg-black text-white p-4 sticky top-0 z-50 shadow-lg">
+		<nav class="bg-card text-foreground p-4 sticky top-0 z-50 shadow-lg border-b border-border-dim">
 			<div class="container mx-auto flex justify-between items-center">
 				<a
 					href="/"
 					class="mobile-logo flex flex-col leading-tight pr-2 flex-shrink-0"
 				>
 					<span
-						class="text-[16px] md:text-2xl font-black font-display italic text-white uppercase tracking-tighter"
+						class="text-[16px] md:text-2xl font-black font-display italic text-foreground uppercase tracking-tighter"
 						>RUGBY</span
 					>
 					<span
@@ -56,34 +74,35 @@ const {
 				>
 					<a
 						href="/leagues"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
+						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>リーグ一覧</a
 					>
 					<a
 						href="/players"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
+						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>選手名鑑</a
 					>
 					<a
 						href="/results"
-						class="text-white hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
+						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>戦績</a
 					>
+					<ThemeToggle client:load />
 				</div>
 			</div>
 		</nav>
 		<slot />
 		<footer
-			class="bg-gray-900 text-gray-400 py-16 border-t border-gray-800 mt-auto"
+			class="bg-card text-foreground/60 py-16 border-t border-border-dim mt-auto"
 		>
 			<div class="container mx-auto px-4 text-center">
 				<div
-					class="text-2xl font-black font-display italic text-white mb-4 uppercase"
+					class="text-2xl font-black font-display italic text-foreground mb-4 uppercase"
 				>
 					RUGBY&nbsp;<span class="text-yellow-400">PICKS</span>
 				</div>
 				<div
-					class="text-[10px] md:text-xs flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8 font-bold uppercase tracking-widest text-gray-500"
+					class="text-[10px] md:text-xs flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8 font-bold uppercase tracking-widest text-foreground/40"
 				>
 					<a
 						href="/privacy"
@@ -107,7 +126,7 @@ const {
 					>
 				</div>
 				<p class="font-bold mb-2">© 2026 RUGBY PICKS PLAYER DATABASE</p>
-				<p class="text-xs text-gray-600">
+				<p class="text-xs text-foreground/30">
 					爆速選手名鑑 powered by Astro + React + Tailwind CSS
 				</p>
 			</div>

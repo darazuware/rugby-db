@@ -433,20 +433,20 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             <div className="mb-12 space-y-6">
                 {!leagueContext && (
                     <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-                        <h1 className="text-4xl font-black text-gray-900 tracking-tighter italic">
+                        <h1 className="text-4xl font-black text-foreground tracking-tighter italic">
                             RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
                         </h1>
                     </div>
                 )}
 
-                <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 space-y-8">
+                <div className="bg-card p-8 rounded-3xl shadow-xl border border-border-dim space-y-8">
                     {/* 1. 検索（最上部） */}
                     <div>
-                        <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-2">キーワードで探す</label>
+                        <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-2">キーワードで探す</label>
                         <input
                             type="text"
                             placeholder="選手名, 所属チーム..."
-                            className={`w-full p-4 bg-gray-50 border-2 border-transparent rounded-2xl focus:bg-white ${theme.focus} outline-none transition-all font-bold text-lg`}
+                            className={`w-full p-4 bg-background border-2 border-transparent rounded-2xl focus:bg-card ${theme.focus} outline-none transition-all font-bold text-lg text-foreground`}
                             value={search}
                             onChange={(e) => setSearch(e.target.value)}
                         />
@@ -456,13 +456,13 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         {/* 2. リーグ選択 */}
                         {!leagueContext && (
                             <div className="col-span-1 md:col-span-2 lg:col-span-4">
-                                <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">リーグ</label>
+                                <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-3">リーグ</label>
                                 <div className="flex flex-wrap gap-3">
                                     <button
                                         onClick={() => setSelectedLeagues([])}
                                         className={`px-6 py-2.5 rounded-xl font-black text-sm transition-all border-2 ${selectedLeagues.length === 0
-                                            ? 'bg-gray-900 border-transparent text-white scale-105 shadow-lg'
-                                            : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                            ? 'bg-foreground border-transparent text-background scale-105 shadow-lg'
+                                            : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                             }`}
                                     >
                                         ALL
@@ -473,7 +473,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             onClick={() => toggleFilter(setSelectedLeagues, league.id)}
                                             className={`px-6 py-2.5 rounded-xl font-black text-sm transition-all border-2 ${selectedLeagues.includes(league.id)
                                                 ? `${getLeagueColor(league.id)} border-transparent text-white scale-105 shadow-lg`
-                                                : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                                : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                                 }`}
                                         >
                                             {league.name}
@@ -485,15 +485,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                         {/* 3. チーム選択 */}
                         <div className="col-span-1 md:col-span-2 lg:col-span-4">
-                            <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">チーム（複数選択可）</label>
-                            <div className="flex flex-wrap gap-2 max-h-48 overflow-y-auto p-4 bg-gray-50 rounded-2xl border border-gray-100">
-                                <button
-                                    onClick={() => setSelectedTeams([])}
-                                    className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedTeams.length === 0
-                                        ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
-                                        }`}
-                                >
+                            <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-3">チーム（複数選択可）</label>
+                                <div className="flex flex-wrap gap-2 max-h-48 overflow-y-auto p-4 bg-background rounded-2xl border border-border-dim">
+                                    <button
+                                        onClick={() => setSelectedTeams([])}
+                                        className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedTeams.length === 0
+                                            ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
+                                            : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
+                                            }`}
+                                    >
                                     ALL
                                 </button>
                                 {VISIBLE_TEAMS.map(team => {
@@ -507,7 +507,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             onClick={() => toggleFilter(setSelectedTeams, team)}
                                             className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${isSelected
                                                 ? `${teamTheme.accent} ${teamTheme.border} text-white scale-105 shadow-md ${teamTheme.shadow}`
-                                                : `bg-white border-gray-100 text-gray-400 hover:border-gray-200`
+                                                : `bg-card border-border-dim text-foreground/40 hover:border-border-dim/80`
                                                 }`}
                                         >
                                             {team}
@@ -515,20 +515,20 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     );
                                 })}
                                 {VISIBLE_TEAMS.length === 0 && (
-                                    <span className="text-gray-400 text-xs font-bold p-2 italic">表示できるチームがありません</span>
+                                    <span className="text-foreground/40 text-xs font-bold p-2 italic">表示できるチームがありません</span>
                                 )}
                             </div>
                         </div>
 
                         {/* 4. ポジション選択 */}
                         <div className="col-span-1 md:col-span-2 lg:col-span-4">
-                            <label className="block text-xs font-black text-gray-400 uppercase tracking-widest mb-3">ポジション</label>
+                            <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-3">ポジション</label>
                             <div className="flex flex-wrap gap-2">
                                 <button
                                     onClick={() => setSelectedPositions([])}
                                     className={`px-3 py-1.5 rounded-xl font-black text-[11px] transition-all border-2 ${selectedPositions.length === 0
                                         ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                        : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                        : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                         }`}
                                 >
                                     ALL
@@ -539,7 +539,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                         onClick={() => toggleFilter(setSelectedPositions, pos)}
                                         className={`px-3 py-1.5 rounded-xl font-black text-[11px] transition-all border-2 ${selectedPositions.includes(pos)
                                             ? `${theme.accent} ${theme.border} text-white scale-105 shadow-md ${theme.shadow}`
-                                            : 'bg-white border-gray-100 text-gray-400 hover:border-gray-200'
+                                            : 'bg-card border-border-dim text-foreground/40 hover:border-border-dim/80'
                                             }`}
                                     >
                                         {pos}
@@ -553,7 +553,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <div className="grid grid-cols-2 gap-4">
                                 <div className="grid grid-cols-2 gap-4">
                                     <div className="space-y-3">
-                                        <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                        <label className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] flex items-center gap-2">
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Division
                                         </label>
@@ -561,8 +561,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <button
                                                 onClick={() => setSelectedDivisions([])}
                                                 className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.length === 0
-                                                    ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                    : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20"
+                                                    : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                     }`}
                                             >
                                                 ALL
@@ -579,7 +579,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                     }
                                                     className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
                                                         ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                        : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                        : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                         }`}
                                                 >
                                                     {div.name}
@@ -589,7 +589,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     </div>
 
                                     <div className="space-y-3">
-                                        <label className="text-[10px] font-black text-gray-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                                        <label className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] flex items-center gap-2">
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Category
                                         </label>
@@ -597,8 +597,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <button
                                                 onClick={() => setSelectedCategories([])}
                                                 className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.length === 0
-                                                    ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                    : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20"
+                                                    : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                     }`}
                                             >
                                                 ALL
@@ -615,7 +615,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                     }
                                                     className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
                                                         ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
-                                                        : "bg-white border-gray-100 text-gray-400 hover:border-gray-200"
+                                                        : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                         }`}
                                                 >
                                                     {cat.name}
@@ -628,15 +628,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         )}
 
                         {/* 6. ソート */}
-                        <div className="col-span-1 md:col-span-2 lg:col-span-4 flex flex-wrap items-center gap-4 pt-4 border-t border-gray-50">
-                            <span className="text-xs font-black text-gray-400 uppercase tracking-widest">ソート順</span>
+                        <div className="col-span-1 md:col-span-2 lg:col-span-4 flex flex-wrap items-center gap-4 pt-4 border-t border-border-dim">
+                            <span className="text-xs font-black text-foreground/40 uppercase tracking-widest">ソート順</span>
                             <div className="flex flex-wrap gap-2">
                                 {(['age', 'height', 'weight'] as const).map(key => {
                                     return (
                                         <button
                                             key={key}
                                             onClick={() => toggleSort(key)}
-                                            className={`px-4 py-2 rounded-lg font-bold text-xs transition-colors ${sortKey === key ? 'bg-gray-900 text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
+                                            className={`px-4 py-2 rounded-lg font-bold text-xs transition-colors ${sortKey === key ? 'bg-foreground text-background' : 'bg-card text-foreground/50 hover:bg-border-dim'
                                                 }`}
                                         >
                                             {key === 'age' ? '年齢' :
@@ -648,8 +648,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         </div>
                     </div>
 
-                    <p className="text-gray-400 font-bold ml-2 italic underline decoration-2 underline-offset-4" style={{ textDecorationColor: theme.hex }}>
-                        検索結果: <span className="text-gray-900">{filteredPlayers.length}</span> 名
+                            <p className="text-foreground/40 font-bold ml-2 italic underline decoration-2 underline-offset-4" style={{ textDecorationColor: theme.hex }}>
+                        検索結果: <span className="text-foreground">{filteredPlayers.length}</span> 名
                     </p>
                 </div>
 
@@ -661,7 +661,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                             <a
                                 key={player.slug}
                                 href={`/players/${player.slug}`}
-                                className="group block bg-white rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-gray-50 relative overflow-hidden flex flex-col h-full"
+                                className="group block bg-card rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-border-dim relative overflow-hidden flex flex-col h-full"
                             >
                                 {/* ディビジョン・アクセント（リーグ別カラー適用） */}
                                 {player.data.division && (
@@ -702,11 +702,11 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                                         return (
                                             <>
-                                                <h2 className={`text-2xl font-black text-gray-900 mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isPLeagueOne ? 'uppercase' : ''}`}>
+                                                <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isPLeagueOne ? 'uppercase' : ''}`}>
                                                     {mainName}
                                                 </h2>
                                                 {showSub && (
-                                                    <p className={`text-[13px] font-bold text-gray-400 mb-4 italic tracking-tight ${isPLeagueOne ? 'uppercase' : ''}`}>
+                                                    <p className={`text-[13px] font-bold text-foreground/40 mb-4 italic tracking-tight ${isPLeagueOne ? 'uppercase' : ''}`}>
                                                         {subName}
                                                     </p>
                                                 )}
@@ -716,14 +716,14 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                                     {/* チーム名をボックス化 */}
                                     <div className="mb-4">
-                                        <span className="inline-block px-3 py-1.5 bg-gray-100 text-gray-700 border border-gray-200 rounded-lg font-black text-sm tracking-tight shadow-sm">
+                                        <span className="inline-block px-3 py-1.5 bg-background text-foreground border border-border-dim rounded-lg font-black text-sm tracking-tight shadow-sm">
                                             {player.data.team}
                                         </span>
                                     </div>
 
                                     {/* 学歴の表示 (League Oneのみ表示) */}
                                     {isLeagueOneSelected && (player.data.high_school || player.data.university) && (
-                                        <p className="text-xs font-black text-gray-600 uppercase tracking-tighter mb-5 leading-tight">
+                                        <p className="text-xs font-black text-foreground/60 uppercase tracking-tighter mb-5 leading-tight">
                                             {player.data.high_school && <span>{player.data.high_school}</span>}
                                             {player.data.high_school && player.data.university && <span className="mx-1 text-yellow-500 font-bold">→</span>}
                                             {player.data.university && <span>{player.data.university}</span>}
@@ -741,14 +741,14 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     )}
                                 </div>
 
-                                <div className="flex justify-between items-end text-xs font-black text-gray-900 border-t border-gray-100 pt-4 uppercase tracking-tighter mt-auto">
-                                    <div className="flex flex-col">
-                                        <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
+                                    <div className="flex justify-between items-end text-xs font-black text-foreground border-t border-border-dim pt-4 uppercase tracking-tighter mt-auto">
+                                        <div className="flex flex-col">
+                                            <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
+                                        </div>
+                                        <div className="flex flex-col text-right">
+                                            <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
+                                        </div>
                                     </div>
-                                    <div className="flex flex-col text-right">
-                                        <span className="text-[15px] leading-none">{player.data.height}<span className="text-[9px] text-gray-400 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[9px] text-gray-400 font-bold ml-0.5">kg</span></span>
-                                    </div>
-                                </div>
                             </a>
                         );
                     })}
@@ -778,9 +778,9 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                 setSelectedTeams([]);
                                 window.scrollTo({ top: 0, behavior: 'smooth' });
                             }}
-                            className="flex items-center gap-3 px-6 py-4 bg-gray-900 text-white rounded-2xl shadow-2xl hover:bg-gray-800 hover:scale-110 active:scale-95 transition-all group"
+                            className="flex items-center gap-3 px-6 py-4 bg-foreground text-background rounded-2xl shadow-2xl hover:bg-foreground/80 hover:scale-110 active:scale-95 transition-all group"
                         >
-                            <div className="bg-gray-800 p-1.5 rounded-lg group-hover:rotate-180 transition-transform duration-500">
+                            <div className="bg-background/20 p-1.5 rounded-lg group-hover:rotate-180 transition-transform duration-500">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
                                     <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
                                 </svg>

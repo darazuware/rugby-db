@@ -6,7 +6,7 @@ team: "オークランド・ブルーズ"
 height: "181"
 weight: "85"
 birth_date: "1997.03.12"
-age: 28
+age: 29
 high_school: ""
 university: ""
 caps: ""

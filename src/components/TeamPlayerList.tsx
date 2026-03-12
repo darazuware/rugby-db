@@ -167,15 +167,15 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
     return (
         <div className="space-y-8">
             {/* ソートボタン */}
-            <div className="flex flex-wrap items-center gap-3 bg-white p-4 rounded-2xl border border-gray-100 shadow-sm">
-                <span className="text-[10px] font-black text-gray-400 uppercase tracking-widest mr-2">Sort By</span>
+            <div className="flex flex-wrap items-center gap-3 bg-card p-4 rounded-2xl border border-border-dim shadow-sm">
+                <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest mr-2">Sort By</span>
                 {sortButtons.map((btn) => (
                     <button
                         key={btn.key}
                         onClick={() => toggleSort(btn.key)}
                         className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${sortKey === btn.key
                             ? 'bg-yellow-400 border-yellow-400 text-black scale-105 shadow-md shadow-yellow-100'
-                            : 'bg-gray-50 border-transparent text-gray-500 hover:bg-gray-100 hover:text-gray-900'
+                            : 'bg-background border-transparent text-foreground/60 hover:bg-border-dim hover:text-foreground'
                             }`}
                     >
                         {btn.label} {sortKey === btn.key && (sortOrder === 'asc' ? '↑' : '↓')}
@@ -189,7 +189,7 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                     <a
                         key={player.slug}
                         href={`/players/${player.slug}/`}
-                        className="group block bg-white rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-gray-50 relative overflow-hidden"
+                        className="group block bg-card rounded-3xl p-6 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all border border-border-dim relative overflow-hidden"
                     >
                         {/* デコレーション */}
                         <div className="absolute top-0 right-0 w-16 h-16 translate-x-8 -translate-y-8 rotate-45 bg-yellow-400 z-10"></div>
@@ -197,12 +197,12 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                         <div className="mb-6 relative z-10">
                             <div className="flex flex-col gap-1 mb-3">
                                 <div className="flex justify-between items-start">
-                                    <span className="inline-block px-3 py-1 bg-gray-900 text-white text-[10px] font-black rounded-lg tracking-tighter">
+                                    <span className="inline-block px-3 py-1 bg-foreground text-background text-[10px] font-black rounded-lg tracking-tighter">
                                         {player.data.position}
                                     </span>
                                 </div>
                                 {(player.data.league === 'league-one' || player.data.league === 'leagueone') && (
-                                    <span className="text-[9px] font-black text-gray-400 uppercase tracking-widest">{player.data.category}</span>
+                                    <span className="text-[9px] font-black text-foreground/40 uppercase tracking-widest">{player.data.category}</span>
                                 )}
                             </div>
                             {(() => {
@@ -213,11 +213,11 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
 
                                 return (
                                     <>
-                                        <h2 className={`text-2xl font-black text-gray-900 mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isItemLeagueOne ? 'uppercase' : ''}`}>
+                                        <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isItemLeagueOne ? 'uppercase' : ''}`}>
                                             {mainName}
                                         </h2>
                                         {showSub && (
-                                            <p className="text-[12px] font-bold text-gray-400 mb-4 italic tracking-tight uppercase">
+                                            <p className="text-[12px] font-bold text-foreground/40 mb-4 italic tracking-tight uppercase">
                                                 {subName}
                                             </p>
                                         )}
@@ -230,7 +230,7 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                 const isItemLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
                                 if (isItemLeagueOne && (player.data.high_school || player.data.university)) {
                                     return (
-                                        <p className="text-xs font-black text-gray-600 uppercase tracking-tighter mb-5 leading-tight">
+                                        <p className="text-xs font-black text-foreground/60 uppercase tracking-tighter mb-5 leading-tight">
                                             {player.data.high_school && <span>{player.data.high_school}</span>}
                                             {player.data.high_school && player.data.university && <span className="mx-1 text-yellow-500 font-bold">→</span>}
                                             {player.data.university && <span>{player.data.university}</span>}
@@ -252,18 +252,18 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
 
                             {/* 入部年を表示 (入部順ソート時などに有用) */}
                             {player.data.joined_year && (
-                                <div className="mt-3 text-[10px] font-black text-gray-400 uppercase tracking-widest">
+                                <div className="mt-3 text-[10px] font-black text-foreground/40 uppercase tracking-widest">
                                     JOINED: {player.data.joined_year}
                                 </div>
                             )}
                         </div>
 
-                        <div className="flex justify-between items-end text-xs font-black text-gray-900 border-t border-gray-100 pt-4 uppercase tracking-tighter mt-auto">
+                                    <div className="flex justify-between items-end text-xs font-black text-foreground border-t border-border-dim pt-4 uppercase tracking-tighter mt-auto">
                             <div className="flex flex-col">
                                 <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
                             </div>
                             <div className="flex flex-col text-right">
-                                <span className="text-[15px] leading-none">{player.data.height}<span className="text-[9px] text-gray-400 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[9px] text-gray-400 font-bold ml-0.5">kg</span></span>
+                                <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
                             </div>
                         </div>
                     </a>

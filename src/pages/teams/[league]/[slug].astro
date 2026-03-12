@@ -144,11 +144,11 @@ const teamPlayers = allPlayers
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}
 >
-    <main class="bg-gray-50 min-h-screen py-12 px-4">
+    <main class="bg-background min-h-screen py-12 px-4">
         <div class="max-w-6xl mx-auto">
             {/* チームヘッダー */}
             <div
-                class="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 mb-12"
+                class="bg-card rounded-3xl shadow-xl overflow-hidden border border-border-dim mb-12"
             >
                 <div class="bg-gray-900 p-10 text-white relative">
                     <div class="absolute top-0 right-0 p-10 opacity-10">
@@ -165,7 +165,7 @@ const teamPlayers = allPlayers
                             ← {league.toUpperCase().replace("-", " ")} チーム一覧に戻る
                         </a>
                         <div
-                            class="text-sm font-black text-gray-400 uppercase tracking-[0.2em] mb-2"
+                            class="text-sm font-black text-foreground/40 uppercase tracking-[0.2em] mb-2"
                         >
                             {
                                 isLeagueOne
@@ -186,7 +186,7 @@ const teamPlayers = allPlayers
                                     </h1>
                                     {teamEnName &&
                                         teamEnName !== teamNameDisplay && (
-                                            <div class="text-2xl font-bold text-gray-400 mb-6 italic tracking-tight uppercase">
+                                            <div class="text-2xl font-bold text-foreground/40 mb-6 italic tracking-tight uppercase">
                                                 {teamEnName}
                                             </div>
                                         )}
@@ -203,7 +203,7 @@ const teamPlayers = allPlayers
                                     </h1>
                                     {teamNameDisplay &&
                                         teamNameDisplay !== teamEnName && (
-                                            <div class="text-2xl font-bold text-gray-400 mb-6 italic tracking-tight uppercase">
+                                            <div class="text-2xl font-bold text-foreground/40 mb-6 italic tracking-tight uppercase">
                                                 {teamNameDisplay}
                                             </div>
                                         )}
@@ -234,38 +234,38 @@ const teamPlayers = allPlayers
                             <dl class="space-y-6">
                                 <div>
                                     <dt
-                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                        class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
                                     >
                                         運営法人
                                     </dt>
-                                    <dd class="text-lg font-bold text-gray-900">
+                                    <dd class="text-lg font-bold text-foreground">
                                         {team.legal_entity}
                                     </dd>
                                 </div>
                                 <div>
                                     <dt
-                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                        class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
                                     >
                                         練習グラウンド
                                     </dt>
-                                    <dd class="text-lg font-bold text-gray-900">
+                                    <dd class="text-lg font-bold text-foreground">
                                         {team.practice_ground || "---"}
                                     </dd>
                                 </div>
                                 <div>
                                     <dt
-                                        class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1"
+                                        class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"
                                     >
                                         ホストエリア
                                     </dt>
-                                    <dd class="text-lg font-bold text-gray-900">
+                                    <dd class="text-lg font-bold text-foreground">
                                         {team.host_area}
                                     </dd>
                                 </div>
                                 {
                                     team.official_site && (
                                         <div>
-                                            <dt class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1">
+                                            <dt class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1">
                                                 公式サイト
                                             </dt>
                                             <dd>
@@ -273,7 +273,7 @@ const teamPlayers = allPlayers
                                                     href={team.official_site}
                                                     target="_blank"
                                                     rel="noopener noreferrer"
-                                                    class="text-lg font-bold text-yellow-600 hover:text-black transition-colors underline underline-offset-4 decoration-2"
+                                                    class="text-lg font-bold text-yellow-600 hover:text-foreground transition-colors underline underline-offset-4 decoration-2"
                                                 >
                                                     {team.official_site.replace(
                                                         /^https?:\/\//,
@@ -289,18 +289,18 @@ const teamPlayers = allPlayers
                         </div>
 
                         <div
-                            class="bg-gray-50 rounded-2xl p-8 border border-gray-100 flex flex-col justify-center items-center text-center"
+                            class="bg-background rounded-2xl p-8 border border-border-dim flex flex-col justify-center items-center text-center"
                         >
-                            <div class="text-4xl font-black text-gray-900 mb-2">
+                            <div class="text-4xl font-black text-foreground mb-2">
                                 {teamPlayers.length}
                             </div>
                             <div
-                                class="text-xs font-black text-gray-400 uppercase tracking-widest"
+                                class="text-xs font-black text-foreground/40 uppercase tracking-widest"
                             >
                                 Registered Players
                             </div>
                             <p
-                                class="text-sm text-gray-500 mt-4 leading-relaxed font-medium"
+                                class="text-sm text-foreground/60 mt-4 leading-relaxed font-medium"
                             >
                                 当サイトに登録されている {team.team_name} 所属の選手一覧です。
                             </p>
@@ -313,13 +313,13 @@ const teamPlayers = allPlayers
             <section>
                 <div class="flex items-center gap-4 mb-8">
                     <h2
-                        class="text-2xl font-black text-gray-900 uppercase tracking-tight"
+                        class="text-2xl font-black text-foreground uppercase tracking-tight"
                     >
                         PLAYERS
                     </h2>
-                    <div class="flex-grow h-px bg-gray-200"></div>
+                    <div class="flex-grow h-px bg-border-dim"></div>
                     <span
-                        class="text-xs font-black text-gray-400 uppercase tracking-widest"
+                        class="text-xs font-black text-foreground/40 uppercase tracking-widest"
                         >{teamPlayers.length} 名</span
                     >
                 </div>
@@ -332,8 +332,8 @@ const teamPlayers = allPlayers
                             client:load
                         />
                     ) : (
-                        <div class="bg-white rounded-3xl p-12 text-center border-2 border-dashed border-gray-100">
-                            <p class="text-gray-400 font-bold">
+                        <div class="bg-card rounded-3xl p-12 text-center border-2 border-dashed border-border-dim">
+                            <p class="text-foreground/40 font-bold">
                                 現在、登録されている所属選手はいません。
                             </p>
                         </div>
