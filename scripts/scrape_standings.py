@@ -126,12 +126,46 @@ def scrape_super_rugby_standings():
     headers = HEADERS.copy(); headers.update({ "Referer": "https://super.rugby/", "Origin": "https://super.rugby/" })
     try:
         response = requests.get(url, params=params, headers=headers); text = response.text
-        j = json.loads(text[text.index('(')+1 : text.rindex(')')]); teams = j.get('table', {}).get('comp', {}).get('group', {}).get('team', [])
+        j = json.loads(text[text.index('(')+1 : text.rindex(')')]); 
+        
+        # 階層構造に応じて取得
+        table_data = j.get('table', {})
+        comp_data = table_data.get('comp', {})
+        group_data = comp_data.get('group', {})
+        teams = group_data.get('team', [])
+        
+        if not isinstance(teams, list):
+            teams = [teams] if teams else []
+
         standings = []
         for t in teams:
-            a = t.get('@attributes', {}); s = { x.get('@attributes', {}).get('type'): x.get('#text') for x in t.get('stat', []) }
-            raw = a.get('name', ''); jp, f = get_team_info('super-rugby', raw)
-            standings.append({ "rank": s.get('rank', '0'), "team_name": raw, "display_name": jp, "flag": f, "slug": a.get('short_name', '').lower().replace(' ', '-'), "played": s.get('played', '0'), "won": s.get('won', '0'), "drawn": s.get('drawn', '0'), "lost": s.get('lost', '0'), "diff": s.get('points_diff', '0'), "points": s.get('points', '0') })
+            a = t.get('@attributes', {})
+            
+            raw = a.get('name', '')
+            jp, f = get_team_info('super-rugby', raw)
+            
+            # API構造：属性直下にデータがある
+            p = a.get('played', '0')
+            w = a.get('won', '0')
+            d = a.get('drawn', '0')
+            l = a.get('lost', '0')
+            diff = a.get('pointsdiff', '0')
+            pts = a.get('points', '0')
+            rk = a.get('rank', '0')
+
+            standings.append({
+                "rank": rk,
+                "team_name": raw,
+                "display_name": jp,
+                "flag": f,
+                "slug": a.get('short_name', rk).lower().replace(' ', '-'),
+                "played": p,
+                "won": w,
+                "drawn": d,
+                "lost": l,
+                "diff": diff,
+                "points": pts
+            })
         return standings
     except: return []
 

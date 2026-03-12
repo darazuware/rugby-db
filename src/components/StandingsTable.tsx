@@ -77,11 +77,15 @@ const getLeagueConfig = (leagueId: string) => {
     }
 };
 
-const StandingsTable: React.FC<Props> = ({ leagueId, standings, results }) => {
+const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, results }) => {
     const config = getLeagueConfig(leagueId);
 
+    // standings が配列であることを保証
+    const standings = Array.isArray(rawStandings) ? rawStandings : 
+                    (rawStandings ? Object.values(rawStandings) as Standing[] : []);
+
     // ディビジョンごとにグループ化
-    const hasDivisions = standings?.some(s => s.division);
+    const hasDivisions = standings.length > 0 && standings.some(s => s.division);
     const groups: { [key: string]: Standing[] } = {};
 
     if (hasDivisions) {
@@ -104,7 +108,7 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings, results }) => {
                         <div className="flex flex-col min-w-[100px]">
                             <div className="flex items-center gap-1 mb-0.5">
                                 {team.flag && <span className="text-xs scale-110 mr-1 flex-shrink-0">{team.flag}</span>}
-                                <span className={`font-black text-gray-900 leading-tight tracking-tighter break-keep ${(displayName.length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
+                                <span className={`font-black text-gray-900 leading-tight tracking-tighter break-keep ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
                                     {displayName}
                                 </span>
                             </div>

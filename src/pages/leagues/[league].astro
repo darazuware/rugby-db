@@ -50,6 +50,28 @@ const initialPlayers = allPlayersRaw.map((p) => {
         },
     };
 });
+
+// 試合結果データの取得 (results_2026.json)
+import resultsData from "../../../data/results_2026.json";
+// 順位表データの取得 (standings.json)
+import standingsData from "../../../data/standings.json";
+import StandingsTable from "../../components/StandingsTable";
+import LeagueMatchResults from "../../components/LeagueMatchResults";
+
+const leagueStandingsRaw = (standingsData as any)[targetLeague];
+const leagueStandings = leagueStandingsRaw && 'standings' in leagueStandingsRaw 
+  ? leagueStandingsRaw.standings 
+  : (Array.isArray(leagueStandingsRaw) ? leagueStandingsRaw : []);
+
+const leagueResultsAll = (resultsData as any)[targetLeague] || [];
+// 重複排除
+const seenResults = new Set();
+const leagueResults = leagueResultsAll.filter((m: any) => {
+  const key = `${m.date}-${m.home}-${m.away}`;
+  if (seenResults.has(key)) return false;
+  seenResults.add(key);
+  return true;
+});
 ---
 
 <Layout
@@ -58,26 +80,47 @@ const initialPlayers = allPlayersRaw.map((p) => {
         ?.replace("-", " ")
         .toUpperCase()} に登録されている全選手の身長、体重、年齢、ポジション別の検索・ソートが可能です。`}
 >
-    <!-- DEBUG: LEAGUES-PAGE-SYNCED-20260310-2345 -->
-    <main class="bg-gray-50 min-h-screen pt-12">
-        <div class="container mx-auto px-4 mb-8">
+    <!-- DEBUG: LEAGUES-PAGE-COMBINED-20260312 -->
+    <main class="bg-gray-950 min-h-screen pt-12 pb-24">
+        <div class="container mx-auto px-4 mb-12">
             <div
-                class="flex items-center gap-4 text-sm font-black text-gray-400 uppercase tracking-widest mb-4"
+                class="flex items-center gap-4 text-xs font-black text-gray-500 uppercase tracking-[0.3em] mb-8"
             >
                 <a href="/" class="hover:text-yellow-400 transition-colors"
                     >HOME</a
                 >
-                <span>/</span>
-                <a
-                    href="/players"
-                    class="hover:text-yellow-400 transition-colors">PLAYERS</a
-                >
-                <span>/</span>
-                <span class="text-gray-900">{league?.replace("-", " ")}</span>
+                <span class="text-gray-800">/</span>
+                <span class="text-yellow-400">{league?.replace("-", " ")}</span>
             </div>
+
+            <h1 class="text-5xl md:text-7xl font-black text-white italic tracking-tighter mb-12 uppercase">
+                {league?.replace("-", " ")}
+            </h1>
+
+            {/* 順位表セクション */}
+            {leagueStandings && (
+                <div class="mb-20">
+                    <div class="flex items-center gap-4 mb-8">
+                        <h2 class="text-2xl font-black text-white italic tracking-tight uppercase">Standings</h2>
+                        <div class="h-px flex-1 bg-gray-900"></div>
+                    </div>
+                    <StandingsTable client:load standings={leagueStandings} leagueId={targetLeague} />
+                </div>
+            )}
+
+            {/* 戦績セクション */}
+            {leagueResults.length > 0 && (
+                <div class="mb-20">
+                    <LeagueMatchResults client:load matches={leagueResults} leagueId={targetLeague} />
+                </div>
+            )}
         </div>
 
-        <div id="players" class="max-w-7xl mx-auto px-4">
+        <div id="players" class="max-w-7xl mx-auto px-4 mt-24 border-t border-gray-900 pt-24">
+            <div class="flex items-center gap-4 mb-12">
+                <h2 class="text-2xl font-black text-white italic tracking-tight uppercase">Player Directory</h2>
+                <div class="h-px flex-1 bg-gray-900"></div>
+            </div>
             <PlayerList
                 client:load
                 initialPlayers={initialPlayers as any}
