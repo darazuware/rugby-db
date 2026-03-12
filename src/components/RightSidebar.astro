@@ -36,7 +36,8 @@ const getRounds = () => {
         {getRounds().map(r => (
           <a
             href={`#${activeLeague}-round-${r}`}
-            class={`flex items-center justify-center p-3 rounded-xl text-[10px] font-black transition-all border ${
+            data-round={r}
+            class={`sidebar-round-link flex items-center justify-center p-3 rounded-xl text-[10px] font-black transition-all border ${
               activeRound === r 
                 ? 'bg-yellow-400 border-yellow-500 text-black' 
                 : 'bg-background/50 border-border-dim text-foreground/40 hover:border-yellow-400/50 hover:text-foreground'

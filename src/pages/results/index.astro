@@ -390,6 +390,14 @@ const getLeagueResults = (league: any) => {
             }
         });
 
+        // サイドバーのリンク更新
+        const sidebarLinks = document.querySelectorAll('.sidebar-round-link');
+        sidebarLinks.forEach(link => {
+            const round = link.getAttribute('data-round');
+            const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
+            link.setAttribute('href', `#${targetLeague}-round-${round}`);
+        });
+
         // コンテンツの表示制御
         sections.forEach(section => {
             const sectLeague = section.getAttribute('data-league');
