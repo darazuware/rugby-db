@@ -18,9 +18,6 @@ interface Props {
 }
 
 const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
-  const [selectedRound, setSelectedRound] = useState<number | 'all'>('all');
-  const [selectedDivision, setSelectedDivision] = useState<string | 'all'>('all');
-
   // 1. Divisionのリストを抽出 (League One用)
   const divisions = useMemo(() => {
     const d = new Set<string>();
@@ -39,6 +36,9 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
     return Array.from(r).sort((a, b) => b - a); // 降順
   }, [matches]);
 
+  const [selectedRound, setSelectedRound] = useState<number | 'all'>(rounds.length > 0 ? rounds[0] : 'all');
+  const [selectedDivision, setSelectedDivision] = useState<string | 'all'>('all');
+
   // 3. フィルタリング
   const filteredMatches = useMemo(() => {
     return matches.filter(m => {
@@ -48,15 +48,19 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
     });
   }, [matches, selectedRound, selectedDivision]);
 
+  // Round表示ラベルの生成
+  const getRoundLabel = (r: number | 'all') => {
+    if (r === 'all') return '全て表示';
+    if (leagueId.startsWith('league-one')) return `第${r}節`;
+    return `Round ${r}`;
+  };
+
   // 4. グループ化 (Roundごと)
   const groupedMatches = useMemo(() => {
     // 試合をラウンドごとにグループ化
     const groups = filteredMatches.reduce((acc, match) => {
-      // 0 または undefined の場合は "Round ?" または日付ベース
-      let roundKey = match.round && match.round !== 0 ? `ROUND ${match.round}` : 'OTHERS';
+      let roundKey = match.round && match.round !== 0 ? getRoundLabel(match.round) : 'OTHER MATCHES';
       
-      // リーグワンの場合、round が 0 なら日付からある程度推測するか、
-      // あるいはスクレイパーが修正されるまでの一時凌ぎとして 'MATCHES' とする
       if (leagueId === 'league-one' && (!match.round || match.round === 0)) {
           roundKey = 'MATCHES';
       }
@@ -70,44 +74,51 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
     
     // ソート (Round 降順)
     return Object.entries(groups).sort((a, b) => {
-        if (a[0].startsWith('ROUND') && b[0].startsWith('ROUND')) {
-            return parseInt(b[0].split(' ')[1]) - parseInt(a[0].split(' ')[1]);
-        }
-        // 'MATCHES' を 'OTHERS' より前に表示したい場合など、特殊なソート順を定義
+        // ラベルから数値を抽出して比較
+        const getNum = (s: string) => {
+            const m = s.match(/\d+/);
+            return m ? parseInt(m[0]) : 0;
+        };
+        const numA = getNum(a[0]);
+        const numB = getNum(b[0]);
+        if (numA !== 0 && numB !== 0) return numB - numA;
+
         if (a[0] === 'MATCHES') return -1;
         if (b[0] === 'MATCHES') return 1;
-        if (a[0] === 'OTHERS') return 1;
-        if (b[0] === 'OTHERS') return -1;
         return a[0].localeCompare(b[0]);
     });
-  }, [filteredMatches]);
+  }, [filteredMatches, leagueId]);
 
   return (
     <div className="mt-16">
-      <div className="flex items-center gap-4 mb-8">
-        <h2 className="text-2xl font-black text-white italic tracking-tight">MATCH RESULTS</h2>
-        <div className="h-px flex-1 bg-gray-800"></div>
-      </div>
+      <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+        <div className="flex-1">
+            <div className="flex items-center gap-4 mb-4">
+                <h2 className="text-2xl font-black text-white italic tracking-tight uppercase">Match Results</h2>
+                <div className="h-px flex-1 bg-gray-900"></div>
+            </div>
+            <p className="text-gray-500 text-xs font-bold uppercase tracking-widest">
+                {selectedRound === 'all' ? '全ての節を表示中' : `${getRoundLabel(selectedRound as number)} の結果`}
+            </p>
+        </div>
 
-      {/* filters */}
-      <div className="flex flex-wrap gap-4 mb-8">
-        {/* Division Filter (Only if divisions exist) */}
+        {/* Division Filter (Compact) */}
         {divisions.length > 0 && (
-          <div className="flex gap-2">
+          <div className="flex gap-1.5 bg-gray-900/50 p-1.5 rounded-2xl border border-gray-800/50 backdrop-blur-sm shadow-xl">
             <button
               onClick={() => setSelectedDivision('all')}
-              className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
-                selectedDivision === 'all' ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-gray-900 text-gray-400 border border-gray-800'
+              className={`px-4 py-2 rounded-xl text-[10px] font-black transition-all uppercase tracking-wider ${
+                selectedDivision === 'all' ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'text-gray-500 hover:text-white hover:bg-white/5'
               }`}
             >
-              ALL DIV
+              ALL
             </button>
             {divisions.map(d => (
               <button
                 key={d}
                 onClick={() => setSelectedDivision(d)}
-                className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
-                  selectedDivision === d ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-gray-900 text-gray-400 border border-gray-800'
+                className={`px-4 py-2 rounded-xl text-[10px] font-black transition-all uppercase tracking-wider ${
+                  selectedDivision === d ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'text-gray-500 hover:text-white hover:bg-white/5'
                 }`}
               >
                 {d}
@@ -115,29 +126,37 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
             ))}
           </div>
         )}
+      </div>
 
-        {/* Round Filter */}
-        <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide max-w-full">
+      {/* Round Selection Scroll Bar */}
+      <div className="relative mb-12 group">
+        <div className="flex gap-2 overflow-x-auto pb-4 scrollbar-hide -mx-4 px-4 md:mx-0 md:px-0 mask-fade-right">
           <button
             onClick={() => setSelectedRound('all')}
-            className={`px-4 py-2 rounded-xl text-xs font-bold transition-all whitespace-nowrap ${
-              selectedRound === 'all' ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-gray-900 text-gray-400 border border-gray-800'
+            className={`shrink-0 px-6 py-3 rounded-2xl text-xs font-black transition-all border uppercase tracking-widest leading-none ${
+              selectedRound === 'all' 
+                ? 'bg-yellow-400 border-yellow-500 text-black shadow-xl shadow-yellow-400/20 scale-105' 
+                : 'bg-gray-900/80 border-gray-800 text-gray-400 hover:border-gray-600 hover:text-white'
             }`}
           >
-            ALL ROUNDS
+            ALL
           </button>
           {rounds.map(r => (
             <button
               key={r}
               onClick={() => setSelectedRound(r)}
-              className={`px-4 py-2 rounded-xl text-xs font-bold transition-all whitespace-nowrap ${
-                selectedRound === r ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-gray-900 text-gray-400 border border-gray-800'
+              className={`shrink-0 px-6 py-3 rounded-2xl text-xs font-black transition-all border uppercase tracking-widest leading-none ${
+                selectedRound === r 
+                    ? 'bg-yellow-400 border-yellow-500 text-black shadow-xl shadow-yellow-400/20 scale-105' 
+                    : 'bg-gray-900/80 border-gray-800 text-gray-400 hover:border-gray-600 hover:text-white'
               }`}
             >
-              R{r}
+              {getRoundLabel(r)}
             </button>
           ))}
         </div>
+        {/* Scroll Hint */}
+        <div className="absolute right-0 top-0 bottom-4 w-12 bg-gradient-to-l from-gray-950 to-transparent pointer-events-none md:hidden" />
       </div>
 
       {/* Results List */}

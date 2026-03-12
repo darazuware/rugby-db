@@ -196,13 +196,29 @@ const getLeagueResults = (league: any) => {
 							</div>
 
 							<div class="space-y-12">
+                                <!-- Round Navigation -->
+                                <div class="flex gap-2 overflow-x-auto pb-4 scrollbar-hide -mx-4 px-4 md:mx-0 md:px-0 mb-8 border-b border-gray-900 pb-8">
+                                    {leagueResults.map((group: any) => (
+                                        <a 
+                                            href={`#${league.id}-round-${group.round}`}
+                                            class="shrink-0 px-4 py-2 bg-gray-900/50 border border-gray-800 rounded-xl text-[10px] font-black text-gray-400 hover:text-yellow-400 hover:border-yellow-400/50 transition-all uppercase tracking-widest leading-none whitespace-nowrap"
+                                        >
+                                            {group.round > 0 
+                                                ? (league.id.startsWith('league-one') ? `第${group.round}節` : `ROUND ${group.round}`)
+                                                : 'OTHER'}
+                                        </a>
+                                    ))}
+                                </div>
+
 								{leagueResults.map((group: any) => (
-                                    <div class="round-group">
-                                        <div class="flex items-center gap-3 mb-4">
+                                    <div id={`${league.id}-round-${group.round}`} class="round-group scroll-mt-32">
+                                        <div class="flex items-center gap-3 mb-6">
                                             <span class="text-yellow-400 font-black italic text-lg whitespace-nowrap">
-                                                {group.round > 0 ? `ROUND ${group.round}` : 'OTHER MATCHES'}
+                                                {group.round > 0 
+                                                    ? (league.id.startsWith('league-one') ? `第${group.round}節` : `ROUND ${group.round}`)
+                                                    : 'OTHER MATCHES'}
                                             </span>
-                                            <div class="h-px flex-1 bg-gray-800/50"></div>
+                                            <div class="h-px flex-1 bg-gray-800/20"></div>
                                         </div>
                                         <div class="grid gap-4">
                                             {group.matches.map((result: any) => (
