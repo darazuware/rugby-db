@@ -36,10 +36,12 @@ const {
 			crossorigin="anonymous"></script>
 		<script is:inline>
 			const theme = (() => {
-				if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
-					return localStorage.getItem('theme');
-				}
-				if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+				try {
+					if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+						return localStorage.getItem('theme');
+					}
+				} catch (e) {}
+				if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
 					return 'dark';
 				}
 				return 'light';
@@ -50,7 +52,11 @@ const {
 			} else {
 				document.documentElement.classList.add('dark');
 			}
-			window.localStorage.setItem('theme', theme);
+			try {
+				if (typeof localStorage !== 'undefined') {
+					localStorage.setItem('theme', theme);
+				}
+			} catch (e) {}
 		</script>
 	</head>
 	<body id="top" class="selection:bg-yellow-400 selection:text-black">
