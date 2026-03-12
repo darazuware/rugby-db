@@ -114,12 +114,12 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                             </div>
                         </div>
                     </td>
-                    <td className="px-2 py-4 text-center font-bold text-foreground/60 border-l border-border-dim/10 text-[12px]">{team.played}</td>
-                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px]">{team.won}</td>
-                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px] md:table-cell hidden">{team.drawn}</td>
-                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[12px] md:table-cell hidden">{team.lost}</td>
-                    <td className="px-2 py-4 text-center font-bold text-foreground/40 text-[12px] lg:table-cell hidden">{team.diff}</td>
-                    <td className={`px-2 py-4 text-center font-black text-foreground bg-foreground/5 text-[11px] border-l border-border-dim/20 shadow-[inset_-1px_0_0_rgba(0,0,0,0.05)]`}>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 border-l border-border-dim/10 text-[10px] sm:text-[12px]">{team.played}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[10px] sm:text-[12px]">{team.won}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[10px] sm:text-[12px]">{team.drawn}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/60 text-[10px] sm:text-[12px]">{team.lost}</td>
+                    <td className="px-2 py-4 text-center font-bold text-foreground/40 text-[10px] sm:text-[12px]">{team.diff}</td>
+                    <td className={`px-2 py-4 text-center font-black text-foreground bg-foreground/5 text-[10px] sm:text-[11px] border-l border-border-dim/20 shadow-[inset_-1px_0_0_rgba(0,0,0,0.05)]`}>
                         {team.points}
                     </td>
                 </tr>
@@ -146,12 +146,12 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                             <thead>
                                 <tr className="bg-background border-b border-border-dim text-[9px] font-black text-foreground/40 uppercase tracking-widest">
                                     <th className="px-2 py-3 text-center w-8">位</th>
-                                    <th className="px-2 py-3">チーム</th>
-                                    <th className="px-2 py-3 text-center text-[12px]">試</th>
-                                    <th className="px-2 py-3 text-center text-[12px]">勝</th>
-                                    <th className="px-2 py-3 text-center md:table-cell hidden text-[12px]">分</th>
-                                    <th className="px-2 py-3 text-center md:table-cell hidden text-[12px]">負</th>
-                                    <th className="px-2 py-3 text-center lg:table-cell hidden text-[12px]">±</th>
+                                    <th className="px-2 py-3 min-w-[80px]">チーム</th>
+                                    <th className="px-2 py-3 text-center text-[10px] sm:text-[12px]">試</th>
+                                    <th className="px-2 py-3 text-center text-[10px] sm:text-[12px]">勝</th>
+                                    <th className="px-2 py-3 text-center text-[10px] sm:text-[12px]">分</th>
+                                    <th className="px-2 py-3 text-center text-[10px] sm:text-[12px]">負</th>
+                                    <th className="px-2 py-3 text-center text-[10px] sm:text-[12px]">±</th>
                                     <th className="px-2 py-3 text-center text-foreground bg-foreground/5">勝点</th>
                                 </tr>
                             </thead>

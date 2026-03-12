@@ -359,6 +359,17 @@ const getLeagueResults = (league: any) => {
                             <div class="flex items-center gap-3">
                                 <div id="mobile-league-badge" class="w-2.5 h-2.5 rounded-full bg-yellow-400 shadow-[0_0_15px_rgba(250,204,21,0.4)]"></div>
                                 <span id="mobile-current-league-name" class="text-xs font-black text-foreground uppercase tracking-wider italic">リーグワン</span>
+                                <!-- リーグワン用Divセレクター (SP) -->
+                                <div id="mobile-div-selector" class="hidden items-center gap-1.5 ml-1 pl-3 border-l border-border-dim/30">
+                                    {['D1', 'D2', 'D3'].map(d => (
+                                        <button 
+                                            data-league-div={`league-one-${d.toLowerCase()}`}
+                                            class="mobile-div-btn text-[9px] font-black px-2 py-1 rounded bg-foreground/5 text-foreground/40 border border-border-dim/20 transition-all active:scale-90"
+                                        >
+                                            {d}
+                                        </button>
+                                    ))}
+                                </div>
                             </div>
                             <a href="#top" class="text-[10px] font-black text-foreground/40 hover:text-foreground uppercase tracking-[0.2em] transition-colors bg-foreground/5 px-3 py-1.5 rounded-full border border-border-dim/30">TOP</a>
                         </div>
@@ -465,14 +476,30 @@ const getLeagueResults = (league: any) => {
 
         // リーグワン・サブフィルターの表示制御
         const subFilters = document.getElementById('league-one-sub-filters');
+        const mobileDivSelector = document.getElementById('mobile-div-selector');
         
         if (activeLeague.startsWith('league-one')) {
             subFilters?.classList.remove('hidden');
             subFilters?.classList.add('flex');
+            mobileDivSelector?.classList.remove('hidden');
+            mobileDivSelector?.classList.add('flex');
         } else {
             subFilters?.classList.add('hidden');
             subFilters?.classList.remove('flex');
+            mobileDivSelector?.classList.add('hidden');
+            mobileDivSelector?.classList.remove('flex');
         }
+
+        // モバイルDivボタンのハイライト
+        document.querySelectorAll('.mobile-div-btn').forEach(btn => {
+            if (btn.getAttribute('data-league-div') === activeLeague) {
+                btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-500');
+                btn.classList.remove('bg-foreground/5', 'text-foreground/40');
+            } else {
+                btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-500');
+                btn.classList.add('bg-foreground/5', 'text-foreground/40');
+            }
+        });
 
         const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
         const colorSet = leagueColors[targetLeague] || leagueColors['all'];
@@ -521,10 +548,10 @@ const getLeagueResults = (league: any) => {
     // イベントリスナーの登録 (デリゲーション)
     document.addEventListener('click', (e) => {
         const target = e.target as HTMLElement;
-        const leagueBtn = target.closest('[data-league-switch]');
+        const leagueBtn = target.closest('[data-league-switch]') || target.closest('.mobile-div-btn');
         
         if (leagueBtn) {
-            const league = leagueBtn.getAttribute('data-league-switch');
+            const league = leagueBtn.getAttribute('data-league-switch') || leagueBtn.getAttribute('data-league-div');
             updateFilter(league || 'all');
             
             // スクロール (対象セクションが見やすい位置へ)
