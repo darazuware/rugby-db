@@ -1,15 +1,22 @@
 ---
 import "../styles/global.css";
 import ThemeToggle from "../components/ThemeToggle";
+import RightSidebar from "../components/RightSidebar.astro";
 
 interface Props {
 	title: string;
 	description?: string;
+	sidebarType?: "default" | "results";
+	activeLeague?: string;
+	activeRound?: number | "all";
 }
 
 const {
 	title,
 	description = "RUGBY PICKS（ラグビーピックス）は、世界中のラグビー選手情報を爆速で検索できる日本最大級の名鑑データベースです。リーグワン、TOP 14、SUPER RUGBY、URCの全選手を網羅。年齢・身長・体重等でのソートも可能。",
+	sidebarType = "default",
+	activeLeague,
+	activeRound
 } = Astro.props;
 ---
 
@@ -97,7 +104,19 @@ const {
 				</div>
 			</div>
 		</nav>
-		<slot />
+
+		<div class="container mx-auto px-4 py-8 lg:py-16">
+			<div class="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-12 xl:gap-20 items-start">
+				<main class="min-w-0">
+					<slot />
+				</main>
+				<RightSidebar 
+					type={sidebarType} 
+					activeLeague={activeLeague} 
+					activeRound={activeRound} 
+				/>
+			</div>
+		</div>
 		<footer
 			class="bg-card text-foreground/60 py-16 border-t border-border-dim mt-auto"
 		>

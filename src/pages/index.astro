@@ -38,198 +38,64 @@ const leagueStandings = [
 <Layout
 	title="RUGBY PICKS | 世界のラグビーを日本語で爆速検索・名鑑データベース"
 >
-	<main>
-		<section
-			class="relative bg-background text-foreground py-32 md:py-48 overflow-hidden transition-colors duration-300"
-		>
-			<div
-				class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"
-			>
-			</div>
-			{/* 装飾用背景テキスト */}
-			<div
-				class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[12rem] md:text-[20rem] font-black font-display italic opacity-[0.03] select-none whitespace-nowrap pointer-events-none uppercase"
-			>
-				RUGBY PICKS
-			</div>
+    {/* ヒーローセクション - サイドバーの横でも見栄えが良いように調整 */}
+    <section class="relative overflow-hidden mb-16 rounded-[2.5rem] bg-card/30 border border-border-dim/50 p-8 md:p-16">
+        <div class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"></div>
+        
+        <div class="relative z-10">
+            <span class="inline-block px-4 py-1.5 bg-yellow-400 text-black font-black text-[10px] rounded-full mb-6 tracking-widest uppercase italic">
+                Next Generation Database
+            </span>
+            <h1 class="text-5xl md:text-7xl font-black font-display italic mb-6 leading-none uppercase tracking-tighter">
+                Rugby <span class="text-yellow-400">Picks</span>
+            </h1>
+            <p class="text-base md:text-lg text-foreground/40 font-bold mb-10 max-w-xl leading-relaxed">
+                世界中のラグビー選手情報を一瞬で引き出す。<br class="hidden md:block" />
+                国内・海外全2,000名以上の選手を網羅した最強の名鑑サイト。
+            </p>
+            <div class="flex flex-wrap gap-4">
+                <a href="/players" class="px-8 py-4 bg-yellow-400 text-black font-black text-sm rounded-xl hover:bg-white hover:scale-105 transition-all shadow-xl shadow-yellow-400/20 group flex items-center gap-2">
+                    選手検索 <span class="group-hover:translate-x-1 transition-transform">→</span>
+                </a>
+            </div>
+        </div>
 
-			<div class="container mx-auto px-4 relative z-10 text-center">
-				<span
-					class="inline-block px-5 py-1.5 bg-yellow-400 text-black font-black text-xs md:text-sm rounded-full mb-8 animate-pulse tracking-widest uppercase"
-				>
-					NEXT GENERATION DATABASE
-				</span>
-				<h1
-					class="text-6xl md:text-[9rem] font-black font-display italic mb-4 leading-none uppercase flex flex-col md:flex-row justify-center items-center md:gap-8"
-				>
-					<span>RUGBY</span>
-					<span
-						class="text-yellow-400 transition-all hover:brightness-110"
-						>PICKS</span
-					>
-				</h1>
-				<p
-					class="text-lg md:text-2xl text-foreground/40 font-bold mb-12 max-w-2xl mx-auto leading-relaxed"
-				>
-					世界中のラグビー選手情報を一瞬で引き出す。<br
-						class="hidden md:block"
-					/>
-					国内・海外全2,000名以上の選手を網羅した最強の名鑑サイト。
-				</p>
-				<div class="flex flex-wrap justify-center gap-6">
-					<a
-						href="/players"
-						class="px-12 py-6 bg-yellow-400 text-black font-black text-xl md:text-2xl rounded-2xl hover:bg-white hover:scale-105 transition-all shadow-[0_20px_50px_rgba(250,204,21,0.3)] group flex items-center gap-3"
-					>
-						選手名鑑を検索する
-						<span
-							class="group-hover:translate-x-2 transition-transform"
-							>→</span
-						>
-					</a>
-				</div>
+        {/* 装飾用背景テキスト */}
+        <div class="absolute -bottom-10 -right-10 text-9xl font-black font-display italic opacity-[0.02] select-none whitespace-nowrap pointer-events-none uppercase">
+            RUGBY
+        </div>
+    </section>
 
-				<div
-					class="mt-16 grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto"
-				>
-					<div
-						class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400 transition-all text-left"
-					>
-						<span
-							class="block text-xs font-black text-yellow-400 mb-2 uppercase tracking-widest"
-							>国内リーグ</span
-						>
-						<h3
-							class="text-2xl font-black font-display text-foreground tracking-tighter italic mb-6"
-						>
-							LEAGUE ONE<br />
-							<span class="text-sm not-italic text-foreground/40"
-								>ジャパンラグビー リーグワン</span
-							>
-						</h3>
-						<div class="flex flex-col gap-3">
-							<a
-								href="/teams/league-one"
-								class="w-full py-3 bg-yellow-400 text-black text-center font-black text-sm rounded-xl hover:bg-white transition-all shadow-lg"
-							>
-								選手名鑑をみる
-							</a>
-							<a
-								href="/results?league=league-one"
-								class="w-full py-3 bg-foreground/10 text-foreground text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all border border-foreground/10"
-							>
-								戦績・結果をみる
-							</a>
-						</div>
-					</div>
-					<div
-						class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400 transition-all text-left"
-					>
-						<span
-							class="block text-xs font-black text-yellow-400 mb-2 uppercase tracking-widest"
-							>南半球強豪クラブ</span
-						>
-						<h3
-							class="text-2xl font-black font-display text-foreground tracking-tighter italic mb-6"
-						>
-							SUPER RUGBY<br />
-							<span class="text-sm not-italic text-foreground/40"
-								>スーパーラグビー</span
-							>
-						</h3>
-						<div class="flex flex-col gap-3">
-							<a
-								href="/teams/super-rugby"
-								class="w-full py-3 bg-yellow-400 text-black text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all shadow-lg"
-							>
-								選手名鑑をみる
-							</a>
-							<a
-								href="/results?league=super-rugby"
-								class="w-full py-3 bg-foreground/10 text-foreground text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all border border-foreground/10"
-							>
-								戦績・結果をみる
-							</a>
-						</div>
-					</div>
-					<div
-						class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400 transition-all text-left"
-					>
-						<span
-							class="block text-xs font-black text-yellow-400 mb-2 uppercase tracking-widest"
-							>フランス プロリーグ</span
-						>
-						<h3
-							class="text-2xl font-black font-display text-foreground tracking-tighter italic mb-6"
-						>
-							TOP 14<br />
-							<span class="text-sm not-italic text-foreground/40"
-								>トップ14</span
-							>
-						</h3>
-						<div class="flex flex-col gap-3">
-							<a
-								href="/teams/top14"
-								class="w-full py-3 bg-yellow-400 text-black text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all shadow-lg"
-							>
-								選手名鑑をみる
-							</a>
-							<a
-								href="/results?league=top14"
-								class="w-full py-3 bg-foreground/10 text-foreground text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all border border-foreground/10"
-							>
-								戦績・結果をみる
-							</a>
-						</div>
-					</div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-16">
+        {leagueStandings.map(league => (
+            <div class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400/50 transition-all text-left">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class={`w-1 h-6 ${league.accentColor} rounded-full`}></div>
+                    <span class="text-[10px] font-black text-yellow-400 uppercase tracking-widest leading-none">{league.name}</span>
+                </div>
+                <h3 class="text-xl font-black font-display text-foreground tracking-tighter italic mb-6 flex items-baseline gap-2">
+                    {league.fullName.split(' ').slice(-1)}
+                    <span class="text-[10px] not-italic text-foreground/30 font-bold uppercase tracking-widest">{league.fullName}</span>
+                </h3>
+                <div class="grid grid-cols-2 gap-2">
+                    <a href={`/teams/${league.id === 'league-one' ? 'league-one' : league.id}`} 
+                       class="py-3 bg-yellow-400 text-black text-center font-black text-[10px] rounded-xl hover:bg-white transition-all shadow-lg uppercase tracking-widest">
+                        PLAYERS
+                    </a>
+                    <a href={`/results?league=${league.id}`}
+                       class="py-3 bg-foreground/5 text-foreground/40 text-center font-black text-[10px] rounded-xl hover:bg-foreground hover:text-background transition-all border border-border-dim uppercase tracking-widest">
+                        RESULTS
+                    </a>
+                </div>
+            </div>
+        ))}
+    </div>
 
-					<div
-						class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400 transition-all text-left"
-					>
-						<span
-							class="block text-xs font-black text-yellow-400 mb-2 uppercase tracking-widest"
-							>欧州・南アフリカ</span
-						>
-						<h3
-							class="text-2xl font-black font-display text-foreground tracking-tighter italic mb-6"
-						>
-							URC<br />
-							<span class="text-sm not-italic text-foreground/40"
-								>ユナイテッド・ラグビー・チャンピオンシップ</span
-							>
-						</h3>
-						<div class="flex flex-col gap-3">
-							<a
-								href="/teams/urc"
-								class="w-full py-3 bg-yellow-400 text-black text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all shadow-lg"
-							>
-								選手名鑑をみる
-							</a>
-							<a
-								href="/results?league=urc"
-								class="w-full py-3 bg-foreground/10 text-foreground text-center font-black text-sm rounded-xl hover:bg-foreground hover:text-background transition-all border border-foreground/10"
-							>
-								戦績・結果をみる
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+    <section class="mb-16">
+        <StandingsWidget client:load leagueStandings={leagueStandings} />
+    </section>
 
-		<section class="relative -mt-24 pb-20 z-20">
-			<div class="container mx-auto px-4 max-w-6xl">
-				<StandingsWidget
-					client:load
-					leagueStandings={leagueStandings}
-				/>
-			</div>
-		</section>
-
-		<section class="py-12 bg-background">
-			<div class="container mx-auto px-4 max-w-5xl">
-				<AffiliateBanner />
-			</div>
-		</section>
-	</main>
+    <section class="mb-12">
+        <AffiliateBanner />
+    </section>
 </Layout>

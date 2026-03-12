@@ -46,26 +46,25 @@ const leagues = [
 ---
 
 <Layout title="リーグ・大会一覧 | RUGBY PICKS">
-    <main class="bg-background min-h-screen py-24 px-4">
-        <div class="max-w-7xl mx-auto">
-            <header class="text-center mb-24">
-                <span
-                    class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 uppercase tracking-widest italic"
+    <div class="py-12">
+        <header class="mb-16">
+            <span
+                class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-sm rounded-full mb-6 uppercase tracking-widest italic"
+            >
+                World Leagues
+            </span>
+            <h1
+                class="text-6xl md:text-7xl font-black italic tracking-tighter mb-8 leading-none uppercase text-foreground"
+            >
+                Explore<br /><span class="text-yellow-400">The Leagues</span
                 >
-                    World Leagues
-                </span>
-                <h1
-                    class="text-6xl md:text-8xl font-black italic tracking-tighter mb-8 leading-none uppercase text-foreground"
-                >
-                    EXPLORE<br /><span class="text-yellow-400">THE LEAGUES</span
-                    >
-                </h1>
-                <p
-                    class="text-xl text-foreground/60 font-bold max-w-2xl mx-auto italic"
-                >
-                    世界各国の主要ラグビーリーグを網羅。各リーグの所属チーム、順位、選手情報をチェックできます。
-                </p>
-            </header>
+            </h1>
+            <p
+                class="text-lg text-foreground/60 font-bold max-w-2xl italic"
+            >
+                世界各国の主要ラグビーリーグを網羅。各リーグの所属チーム、順位、選手情報をチェックできます。
+            </p>
+        </header>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
                 {
@@ -143,10 +142,5 @@ const leagues = [
                     </a>
                 </div>
             </section>
-
-            <section class="mt-24 max-w-4xl mx-auto">
-                <AffiliateBanner />
-            </section>
-        </div>
-    </main>
+    </div>
 </Layout>

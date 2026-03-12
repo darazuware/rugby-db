@@ -64,15 +64,34 @@ def scrape_leagueone_results():
             
             for item in schedule_items:
                 # 1. 節(Round)情報の取得
-                # 見出し（.ttl） "第1節(2025.12.13〜2025.12.14)" から抽出
-                parent_section = item.find_parent('section')
+                # 構造が変更されている可能性があるため、複数の方法で試行
                 round_num = 0
+                
+                # A. 親セクションの見出しから取得 (既存)
+                parent_section = item.find_parent('section')
                 if parent_section:
                     round_el = parent_section.select_one('.ttl')
+                    if not round_el:
+                        # 見出しクラス名が変わっている可能性
+                        round_el = parent_section.find(['h2', 'h3', 'h4'])
+                    
                     if round_el:
-                        match = re.search(r'第(\d+)節', round_el.get_text())
+                        round_text = round_el.get_text()
+                        match = re.search(r'第(\d+)節', round_text)
                         if match:
                             round_num = int(match.group(1))
+                
+                # B. 見つからない場合、要素自体から順に遡って探索
+                if round_num == 0:
+                    prev = item.find_previous(['h2', 'h3', 'h4', 'section'])
+                    while prev:
+                        text = prev.get_text()
+                        match = re.search(r'第(\d+)節', text)
+                        if match:
+                            round_num = int(match.group(1))
+                            break
+                        # さらに前を探索
+                        prev = prev.find_previous(['h2', 'h3', 'h4', 'section'])
 
                 # 2. 日付の取得
                 date_el = item.select_one('.datetime .date')
