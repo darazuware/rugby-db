@@ -14,7 +14,7 @@ league_one_caps: "31"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2021 - 2022)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2023 - )

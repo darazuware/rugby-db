@@ -14,7 +14,7 @@ league_one_caps: "21"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -32,6 +32,6 @@ facebook: ""
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2020)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2026)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2022 - 2026)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)

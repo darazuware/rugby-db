@@ -14,7 +14,7 @@ league_one_caps: "11"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2024 - )

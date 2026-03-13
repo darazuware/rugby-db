@@ -14,7 +14,7 @@ league_one_caps: "17"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2020
 has_scores: false
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2014 - 2019)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2014 - 2019)
 - Sunwolves (2019 - 2020)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2020 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2020 - )

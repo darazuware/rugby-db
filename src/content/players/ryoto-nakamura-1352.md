@@ -14,7 +14,7 @@ league_one_caps: "56"
 country: "U20"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2017 - 2019)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021 - )

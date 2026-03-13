@@ -14,7 +14,7 @@ league_one_caps: "59"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2023)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2021 - 2023)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - )

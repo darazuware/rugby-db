@@ -14,7 +14,7 @@ league_one_caps: "14"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -25,6 +25,6 @@ facebook: ""
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2018)
 - Counties Manukau Steelers (2019 - 2021)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2024)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2021 - 2022)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - 2024)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - )

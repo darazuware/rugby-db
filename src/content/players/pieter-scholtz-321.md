@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -28,4 +28,4 @@ facebook: ""
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2020 - 2021)
 - Wasps (2021 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

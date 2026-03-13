@@ -14,7 +14,7 @@ league_one_caps: "57"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2015
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2015 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2015 - )

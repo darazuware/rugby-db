@@ -14,7 +14,7 @@ league_one_caps: "18"
 country: "セブンズ日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2026
 has_scores: false
@@ -27,7 +27,7 @@ facebook: ""
 - Worcester Warriors (2021 - 2022)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2023 - 2025)
 - Worcester Warriors (2023)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025)
 - Leicester Tigers (2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2026)
 - Leicester Tigers (2026 - )

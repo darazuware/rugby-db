@@ -14,7 +14,7 @@ league_one_caps: "44"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -30,4 +30,4 @@ facebook: ""
 - Sunwolves (2018)
 - Coca Cola West Red Sparks (2019 - 2021)
 - Sunwolves (2019)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2021 - )

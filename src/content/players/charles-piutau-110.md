@@ -14,7 +14,7 @@ league_one_caps: "31"
 country: "NZ"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -27,4 +27,4 @@ facebook: ""
 - Wasps (2015 - 2016)
 - 🇮🇪 アルスター・ラグビー (2016 - 2018)
 - Bristol Bears (2018 - 2023)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2023 - )

@@ -14,7 +14,7 @@ league_one_caps: "14"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2025)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - 2025)
 - LeRIRO Fukuoka (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "67"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2013 - 2017)
 - Sunwolves (2017 - 2019)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2019 - )

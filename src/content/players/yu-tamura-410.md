@@ -14,7 +14,7 @@ league_one_caps: "64"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2015 - 2019)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2021 - )

@@ -14,7 +14,7 @@ league_one_caps: "35"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2013 - 2014)
 - Wasps (2014 - 2022)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2022 - )

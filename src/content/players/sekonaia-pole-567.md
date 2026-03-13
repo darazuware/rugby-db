@@ -14,7 +14,7 @@ league_one_caps: "26"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - )

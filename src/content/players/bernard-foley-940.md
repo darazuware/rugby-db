@@ -14,7 +14,7 @@ league_one_caps: "56"
 country: "オーストラリア"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2019 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2019 - )

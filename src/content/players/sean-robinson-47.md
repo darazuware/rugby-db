@@ -14,7 +14,7 @@ league_one_caps: "19"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Newcastle (2014 - 2023)
-- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2023 - )

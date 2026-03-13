@@ -14,7 +14,7 @@ league_one_caps: "45"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - Western Province (2018 - 2019)
 - 🇿🇦 DHLストーマーズ (2019 - 2022)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2022 - )

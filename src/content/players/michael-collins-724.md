@@ -14,7 +14,7 @@ league_one_caps: "27"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: null
 has_scores: false

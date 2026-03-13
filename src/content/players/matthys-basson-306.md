@@ -14,7 +14,7 @@ league_one_caps: "46"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2020
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇿🇦 ヴォーダコム・ブルズ (2017 - 2019)
 - 🇿🇦 ヴォーダコム・ブルズ (2019 - 2020)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2020 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2020 - )

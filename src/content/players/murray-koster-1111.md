@@ -14,7 +14,7 @@ league_one_caps: "9"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2024)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2024 - )

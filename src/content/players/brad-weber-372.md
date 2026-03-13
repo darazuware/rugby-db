@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: "NZ"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2026
 has_scores: false
@@ -35,5 +35,5 @@ facebook: ""
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - 2025)
 - Hawke's Bay Magpies (2023)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - 2026)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2026 - )

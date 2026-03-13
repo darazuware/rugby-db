@@ -27,5 +27,5 @@ facebook: ""
 - 🇦🇺 メルボルン・レベルズ (2017 - 2020)
 - 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2021)
 - 🇦🇺 メルボルン・レベルズ (2021 - 2023)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - 2025)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2023 - 2025)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2024 - )

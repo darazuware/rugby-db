@@ -14,7 +14,7 @@ league_one_caps: "60"
 country: "NZ"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -27,5 +27,5 @@ facebook: ""
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2018)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2020)
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2020 - 2026)
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2020 - 2026)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021)

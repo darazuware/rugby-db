@@ -36,7 +36,7 @@ facebook: ""
 - 🇿🇦 エミレーツ・ライオンズ (2021)
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
 - 🇿🇦 エミレーツ・ライオンズ (2022)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2022 - 2023)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2022 - 2023)
 - CA Brive Corrèze Limousin (2023)
 - 🇿🇦 エミレーツ・ライオンズ (2023)
 - CA Brive Corrèze Limousin (2024)

@@ -25,7 +25,7 @@ facebook: ""
 
 - 🇦🇺 メルボルン・レベルズ (2011 - 2015)
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2017)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2017 - 2019)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2017 - 2019)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2020)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - )

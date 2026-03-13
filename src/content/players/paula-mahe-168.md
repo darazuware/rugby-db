@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - Dinamo Bucarest (2022 - 2024)
 - Marlborough RFC (2024 - 2025)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2025 - )
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2025 - )

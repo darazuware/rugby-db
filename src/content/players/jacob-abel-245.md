@@ -14,7 +14,7 @@ league_one_caps: "35"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
 - Gordon Rugby Football Club (2020 - 2022)
-- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2022 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2022 - )

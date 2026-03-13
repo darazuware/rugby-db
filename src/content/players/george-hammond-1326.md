@@ -14,7 +14,7 @@ league_one_caps: "3"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -32,6 +32,6 @@ facebook: ""
 - London Scottish (2023)
 - Harlequins (2023)
 - London Scottish (2024)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - 2026)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2025 - 2026)
 - London Scottish (2025)
 - Harlequins (2025 - )

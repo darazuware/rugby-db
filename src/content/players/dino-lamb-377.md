@@ -14,7 +14,7 @@ league_one_caps: "1"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Harlequins (2017 - 2025)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -29,6 +29,6 @@ facebook: ""
 - Utah Warriors (2024)
 - Hawke's Bay Magpies (2024)
 - Utah Warriors (2024)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - 2026)
 - Hawke's Bay Magpies (2025)
 - Utah Warriors (2025 - )

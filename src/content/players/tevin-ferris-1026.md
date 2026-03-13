@@ -14,7 +14,7 @@ league_one_caps: "51"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
 - Manly Marlins (2020 - 2021)
-- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2021 - )

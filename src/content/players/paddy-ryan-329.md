@@ -14,7 +14,7 @@ league_one_caps: "45"
 country: "オーストラリア"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false

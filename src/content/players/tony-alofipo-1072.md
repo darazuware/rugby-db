@@ -14,7 +14,7 @@ league_one_caps: "4"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2025)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2022 - 2025)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2025 - )

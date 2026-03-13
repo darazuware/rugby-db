@@ -14,7 +14,7 @@ league_one_caps: "48"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2017 - 2019)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2019 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2019 - )

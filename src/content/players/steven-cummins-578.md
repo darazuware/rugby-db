@@ -14,7 +14,7 @@ league_one_caps: "1"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2026
 has_scores: false
@@ -30,9 +30,9 @@ facebook: ""
 - 🇦🇺 メルボルン・レベルズ (2021)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2024 - 2025)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2025)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2026)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2026)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2026 - )

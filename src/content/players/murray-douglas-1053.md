@@ -14,7 +14,7 @@ league_one_caps: "45"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -29,4 +29,4 @@ facebook: ""
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2019)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2020)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2021 - )

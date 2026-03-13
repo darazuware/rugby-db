@@ -14,7 +14,7 @@ league_one_caps: "50"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Southern Kings (2015 - 2016)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016 - 2018)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2016 - 2018)
 - Sunwolves (2018)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2026)
 - Sunwolves (2019)

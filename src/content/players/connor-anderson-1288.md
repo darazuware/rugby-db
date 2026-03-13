@@ -14,7 +14,7 @@ league_one_caps: "8"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - West Brisbane Bulldogs (2021 - 2022)
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2024 - )
+- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2024 - )

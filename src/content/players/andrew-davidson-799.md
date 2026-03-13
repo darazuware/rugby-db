@@ -14,7 +14,7 @@ league_one_caps: "17"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -34,4 +34,4 @@ facebook: ""
 - Gloucester Rugby (2021 - 2022)
 - Ealing Trailfinders (2022 - 2024)
 - Gloucester Rugby (2023)
-- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2024 - )

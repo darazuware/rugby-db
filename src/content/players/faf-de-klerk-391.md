@@ -14,7 +14,7 @@ league_one_caps: "34"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇿🇦 エミレーツ・ライオンズ (2013 - 2017)
 - 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2022)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - )

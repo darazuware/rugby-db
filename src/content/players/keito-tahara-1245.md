@@ -14,7 +14,7 @@ league_one_caps: "1"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

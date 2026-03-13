@@ -14,7 +14,7 @@ league_one_caps: "14"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -27,12 +27,12 @@ facebook: ""
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2022)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2021 - 2022)
 - Southland Stags (2022 - 2023)
 - Utah Warriors (2023)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2023)
 - Southland Stags (2023)
 - Utah Warriors (2024 - 2025)
 - Southland Stags (2024)
 - Utah Warriors (2024)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )

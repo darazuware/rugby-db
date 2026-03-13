@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Akita Northern Bullets (2021 - 2025)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - )

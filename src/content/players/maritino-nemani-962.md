@@ -14,7 +14,7 @@ league_one_caps: "35"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -28,5 +28,5 @@ facebook: ""
 - Bay of Plenty Steamers (2013 - 2015)
 - FC Grenoble Rugby (2015 - 2017)
 - Bay of Plenty Steamers (2016)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2025)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2017 - 2025)
 - 🇿🇦 ハリウッドベッツ・シャークス (2025 - )

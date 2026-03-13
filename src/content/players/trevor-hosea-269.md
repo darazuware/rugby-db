@@ -14,7 +14,7 @@ league_one_caps: "27"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2018 - 2023)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2025)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2023 - 2025)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2025 - )

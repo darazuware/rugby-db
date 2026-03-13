@@ -14,7 +14,7 @@ league_one_caps: "16"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -26,5 +26,5 @@ facebook: ""
 - Western Province (2018 - 2019)
 - 🇿🇦 DHLストーマーズ (2019 - 2020)
 - 🇿🇦 ヴォーダコム・ブルズ (2020 - 2022)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - 2025)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2022 - 2025)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "22"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2021 - )

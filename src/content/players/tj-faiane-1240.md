@@ -14,7 +14,7 @@ league_one_caps: "15"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2021)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2021 - 2023)
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

@@ -14,7 +14,7 @@ league_one_caps: "13"
 country: "NZ"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2023)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - 2026)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2024 - 2026)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)

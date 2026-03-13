@@ -14,7 +14,7 @@ league_one_caps: "52"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -26,5 +26,5 @@ facebook: ""
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2017)
 - Sunwolves (2018 - 2019)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2024)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2021 - 2024)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - )

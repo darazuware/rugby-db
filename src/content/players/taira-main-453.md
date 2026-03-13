@@ -14,7 +14,7 @@ league_one_caps: "37"
 country: "高校"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false

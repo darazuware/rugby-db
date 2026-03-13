@@ -14,7 +14,7 @@ league_one_caps: "1"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2024 - )
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2024 - )

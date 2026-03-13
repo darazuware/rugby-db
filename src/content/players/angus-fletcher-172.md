@@ -14,7 +14,7 @@ league_one_caps: "5"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Tasman Mako (2022 - 2023)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2024 - )

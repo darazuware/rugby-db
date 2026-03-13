@@ -14,7 +14,7 @@ league_one_caps: "15"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false

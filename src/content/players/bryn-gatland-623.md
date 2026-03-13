@@ -14,7 +14,7 @@ league_one_caps: "36"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -37,6 +37,6 @@ facebook: ""
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - North Harbour (2022)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2023 - 2026)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2023 - 2026)
 - North Harbour (2023)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)

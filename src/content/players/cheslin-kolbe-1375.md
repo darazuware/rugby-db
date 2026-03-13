@@ -14,7 +14,7 @@ league_one_caps: "28"
 country: "選手名"
 nationality: "選手名"
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -26,4 +26,4 @@ facebook: "身長"
 - 🇿🇦 DHLストーマーズ
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - 2021)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2023)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2023 - )

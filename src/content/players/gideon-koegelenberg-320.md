@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -26,9 +26,9 @@ facebook: ""
 - 🇮🇹 ゼブレ・パルマ (2015 - 2017)
 - 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2019)
 - 🇦🇺 メルボルン・レベルズ (2019 - 2020)
-- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2020 - 2023)
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2020 - 2023)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2023 - 2024)
 - 🇿🇦 ハリウッドベッツ・シャークス (2024)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - 2026)
 - 🇿🇦 ハリウッドベッツ・シャークス (2025)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025 - )

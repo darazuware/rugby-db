@@ -14,7 +14,7 @@ league_one_caps: "22"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -28,4 +28,4 @@ facebook: ""
 - 🇿🇦 エミレーツ・ライオンズ (2020)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - 🇫🇷 [カストル](/teams/top14/castres) (2021 - 2023)
-- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - )
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2023 - )

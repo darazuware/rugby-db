@@ -14,7 +14,7 @@ league_one_caps: "62"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -28,6 +28,6 @@ facebook: ""
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
 - 🇿🇦 ヴォーダコム・ブルズ (2020)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2026)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2021 - 2026)
 - 🇿🇦 ヴォーダコム・ブルズ (2021)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)

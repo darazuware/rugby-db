@@ -14,7 +14,7 @@ league_one_caps: "11"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -25,6 +25,6 @@ facebook: ""
 
 - Saracens (2018 - 2023)
 - Ampthill Rugby (2023)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2026)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - 2026)
 - Ampthill Rugby (2024)
 - Saracens (2024)

@@ -14,7 +14,7 @@ league_one_caps: "28"
 country: "セブンズ日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Sunwolves (2015 - 2019)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2020)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2020)
 - Seattle Seawolves (2020 - 2021)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
-- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2022 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2021 - 2022)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2022 - )

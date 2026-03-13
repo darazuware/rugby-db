@@ -14,7 +14,7 @@ league_one_caps: "14"
 country: ""
 nationality: ""
 category: ""
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: null
 has_scores: false

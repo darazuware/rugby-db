@@ -13,6 +13,25 @@ if os.path.exists(json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         TEAM_NAMES_JP = json.load(f)
 
+# ディビジョン情報の読み込み
+TEAMS_DATA = []
+teams_json_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'teams.json')
+if os.path.exists(teams_json_path):
+    with open(teams_json_path, 'r', encoding='utf-8') as f:
+        TEAMS_DATA = json.load(f)
+
+def get_division_from_teams(team_name):
+    """teams.json からチームの Division を取得する"""
+    for t in TEAMS_DATA:
+        if t.get('team_name') == team_name:
+            div = t.get('division', '')
+            # "Division 1" -> "D1"
+            match = re.search(r'Division (\d+)', div)
+            if match:
+                return f"D{match.group(1)}"
+            return div
+    return ""
+
 TEAM_MAPPING = {
     # League One (主要)
     "埼玉パナソニックワイルドナイツ": {"league": "league-one", "slug": "saitama-panasonic-wildknights"},
@@ -64,7 +83,15 @@ for league, teams in TEAM_NAMES_JP.items():
         if "Bayonne" in en_name: slug = "bayonne"
         if "Vannes" in en_name: slug = "vannes"
         
-        mapping_data = {"league": normalized_league, "slug": slug, "jp": data['jp'], "flag": data['flag'], "country": data['country']}
+        div = get_division_from_teams(data['jp'])
+        mapping_data = {
+            "league": normalized_league, 
+            "slug": slug, 
+            "jp": data['jp'], 
+            "flag": data['flag'], 
+            "country": data['country'],
+            "division": div
+        }
         TEAM_MAPPING[en_name] = mapping_data
         TEAM_MAPPING[data['jp']] = mapping_data
         
@@ -95,10 +122,15 @@ def get_team_link(team_name, include_flag=False):
         flag = info.get('flag', '') if include_flag else ''
         prefix = f"{flag} " if flag else ""
         
-        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
-            return f"{prefix}{display_name}"
+        # Division 表記の追加 (League One のみ)
+        div_suffix = ""
+        if info.get('league') == 'league-one' and info.get('division'):
+            div_suffix = f" [{info['division']}]"
             
-        return f"{prefix}[{display_name}](/teams/{info['league']}/{info['slug']})"
+        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
+            return f"{prefix}{display_name}{div_suffix}"
+            
+        return f"{prefix}[{display_name}](/teams/{info['league']}/{info['slug']}){div_suffix}"
     return team_name
 
 def linkify_career(career_text):

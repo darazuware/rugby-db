@@ -14,7 +14,7 @@ league_one_caps: "50"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -29,6 +29,6 @@ facebook: ""
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - Bay of Plenty Steamers (2020)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2021 - 2026)
 - Bay of Plenty Steamers (2021)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)

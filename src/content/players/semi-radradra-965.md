@@ -14,7 +14,7 @@ league_one_caps: "7"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -29,4 +29,4 @@ facebook: ""
 - Bristol Bears (2019 - 2023)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - 2025)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2025 - )

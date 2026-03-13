@@ -14,7 +14,7 @@ league_one_caps: "4"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2018 - 2022)
 - 🇿🇦 エミレーツ・ライオンズ (2022 - 2024)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2026)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2024 - 2026)
 - 🇿🇦 エミレーツ・ライオンズ (2025 - )

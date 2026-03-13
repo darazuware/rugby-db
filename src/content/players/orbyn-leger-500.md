@@ -14,7 +14,7 @@ league_one_caps: "46"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -32,4 +32,4 @@ facebook: ""
 - 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2024)
 - Counties Manukau Steelers (2021)
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2024 - )

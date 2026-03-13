@@ -14,7 +14,7 @@ league_one_caps: "18"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -39,4 +39,4 @@ facebook: ""
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
 - Hawke's Bay Magpies (2023)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

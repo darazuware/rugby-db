@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -26,4 +26,4 @@ facebook: ""
 - Queanbeyan Whites (2020 - 2022)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
 - Queanbeyan Whites (2024 - 2025)
-- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )
+- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2025 - )

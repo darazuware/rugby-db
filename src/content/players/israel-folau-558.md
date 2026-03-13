@@ -14,7 +14,7 @@ league_one_caps: "32"
 country: "オーストラリア"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2019 - 2020)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2021 - )

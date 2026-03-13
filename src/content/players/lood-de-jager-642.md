@@ -14,7 +14,7 @@ league_one_caps: "40"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2022
 has_scores: false
@@ -26,4 +26,4 @@ facebook: ""
 - Central Cheetahs (2013 - 2016)
 - 🇿🇦 ヴォーダコム・ブルズ (2016 - 2019)
 - 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2022)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2022 - )

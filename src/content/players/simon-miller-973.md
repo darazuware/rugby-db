@@ -14,7 +14,7 @@ league_one_caps: "3"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -26,4 +26,4 @@ facebook: ""
 - Western Province (2020 - 2022)
 - 🇿🇦 DHLストーマーズ (2022 - 2023)
 - 🇿🇦 ハリウッドベッツ・シャークス (2023 - 2024)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2024 - )

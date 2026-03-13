@@ -14,7 +14,7 @@ league_one_caps: "46"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2020
 has_scores: false
@@ -25,6 +25,6 @@ facebook: ""
 
 - 🇿🇦 DHLストーマーズ (2013 - 2019)
 - 🇮🇪 マンスター・ラグビー (2019)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2019)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2019)
 - 🇮🇪 マンスター・ラグビー (2020 - 2022)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2020 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2020 - )

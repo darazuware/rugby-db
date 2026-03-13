@@ -14,7 +14,7 @@ league_one_caps: "4"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2022)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2022 - 2023)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2022 - 2023)
 - 🇿🇦 ハリウッドベッツ・シャークス (2023 - )

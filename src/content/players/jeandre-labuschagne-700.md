@@ -14,7 +14,7 @@ league_one_caps: "5"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2020 - 2021)
 - 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2024)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - 2026)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - 2026)
 - 🇿🇦 ハリウッドベッツ・シャークス (2025 - )

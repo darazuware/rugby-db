@@ -14,7 +14,7 @@ league_one_caps: "56"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -26,4 +26,4 @@ facebook: ""
 - 🇿🇦 DHLストーマーズ (2013 - 2015)
 - 🇿🇦 ハリウッドベッツ・シャークス (2015 - 2019)
 - London Irish (2019 - 2020)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2021 - )

@@ -14,7 +14,7 @@ league_one_caps: "7"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2023)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2023 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2023 - )

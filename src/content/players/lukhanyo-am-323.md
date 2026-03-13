@@ -14,7 +14,7 @@ league_one_caps: "9"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2026
 has_scores: false
@@ -25,9 +25,9 @@ facebook: ""
 
 - Southern Kings (2015 - 2016)
 - 🇿🇦 ハリウッドベッツ・シャークス (2016 - 2021)
-- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021)
 - 🇿🇦 ハリウッドベッツ・シャークス (2022 - 2025)
-- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2022)
 - 🇿🇦 ハリウッドベッツ・シャークス (2022)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - 2026)
 - 🇿🇦 ハリウッドベッツ・シャークス (2026 - )

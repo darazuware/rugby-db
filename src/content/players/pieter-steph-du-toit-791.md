@@ -14,7 +14,7 @@ league_one_caps: "38"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2013 - 2015)
 - 🇿🇦 DHLストーマーズ (2015 - 2021)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2021 - )

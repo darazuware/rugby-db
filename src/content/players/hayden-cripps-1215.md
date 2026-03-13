@@ -14,7 +14,7 @@ league_one_caps: "26"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -25,6 +25,6 @@ facebook: ""
 
 - Tasman Mako (2011 - 2013)
 - Sunwolves (2016 - 2017)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2017 - 2022)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2017 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2024)
 - 🇿🇦 ハリウッドベッツ・シャークス (2024 - )

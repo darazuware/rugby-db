@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
 - Wests Scarborough Rugby Union (2024 - 2025)
-- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - )
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2025 - )

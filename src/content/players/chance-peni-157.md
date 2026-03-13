@@ -14,7 +14,7 @@ league_one_caps: "31"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2019)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - 2023)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2023 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2023)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2023 - )

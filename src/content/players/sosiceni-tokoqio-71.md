@@ -14,7 +14,7 @@ league_one_caps: "22"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2023)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2023 - 2024)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - 2023)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2023 - 2024)
 - 🇿🇦 ハリウッドベッツ・シャークス (2024 - )

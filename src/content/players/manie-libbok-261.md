@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -27,4 +27,4 @@ facebook: ""
 - 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2021)
 - 🇿🇦 ヴォーダコム・ブルズ (2020)
 - 🇿🇦 DHLストーマーズ (2021 - 2025)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "16"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - Tuggeranong Vikings (2019 - 2022)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
-- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2023 - )

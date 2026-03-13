@@ -14,7 +14,7 @@ league_one_caps: "43"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2020
 has_scores: false
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇿🇦 エミレーツ・ライオンズ (2013 - 2019)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2020)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2020 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2020)
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2020 - )

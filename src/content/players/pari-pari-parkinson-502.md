@@ -14,7 +14,7 @@ league_one_caps: "12"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -32,4 +32,4 @@ facebook: ""
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2024)
 - Tasman Mako (2023)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2024 - )

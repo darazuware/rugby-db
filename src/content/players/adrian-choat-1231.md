@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -28,5 +28,5 @@ facebook: ""
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - Bristol Bears (2020)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2024)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - 2026)
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - 2026)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

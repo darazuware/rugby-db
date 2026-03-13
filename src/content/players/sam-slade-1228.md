@@ -14,7 +14,7 @@ league_one_caps: "2"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -35,4 +35,4 @@ facebook: ""
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
 - North Harbour (2024)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - )

@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2023
 has_scores: false
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2023 - )
+- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2023 - )

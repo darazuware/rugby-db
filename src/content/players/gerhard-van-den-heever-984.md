@@ -14,7 +14,7 @@ league_one_caps: "50"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇮🇪 マンスター・ラグビー (2013 - 2016)
 - Sunwolves (2017 - 2019)
-- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2019 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2019 - )

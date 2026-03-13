@@ -14,7 +14,7 @@ league_one_caps: "24"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -28,5 +28,5 @@ facebook: ""
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
-- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2023 - 2026)
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2023 - 2026)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)

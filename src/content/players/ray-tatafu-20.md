@@ -14,7 +14,7 @@ league_one_caps: "41"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2021
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - Southland Stags (2017 - 2020)
 - Counties Manukau Steelers (2020 - 2021)
-- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - )
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2021 - )

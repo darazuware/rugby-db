@@ -23,9 +23,9 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2014 - 2016)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2014 - 2016)
 - Sporting Club Albigeois (2016)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2017)
 - Sporting Club Albigeois (2017)
 - USON Nevers Rugby (2017 - 2021)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)

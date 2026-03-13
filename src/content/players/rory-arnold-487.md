@@ -14,7 +14,7 @@ league_one_caps: "21"
 country: "オーストラリア"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2014 - 2019)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2019 - 2022)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2025)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2022 - 2025)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )

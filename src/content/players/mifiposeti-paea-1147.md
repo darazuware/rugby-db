@@ -14,7 +14,7 @@ league_one_caps: "36"
 country: "日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2017
 has_scores: false

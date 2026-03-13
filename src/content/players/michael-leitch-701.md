@@ -14,7 +14,7 @@ league_one_caps: "61"
 country: "セブンズ日本"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2019
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2017)
 - Sunwolves (2017 - 2018)
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2018 - 2026)
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2018 - 2026)
 - Sunwolves (2019)

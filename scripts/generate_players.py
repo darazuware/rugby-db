@@ -315,10 +315,14 @@ def main():
             else:
                 category = ""
             
-            # ディビジョンの推論
-            division = ""
-            if league == 'leagueone':
-                division = "Division 1"
+            # ディビジョンの推論 (最新の team_info から取得)
+            division_info = ""
+            if team_info and team_info.get('division'):
+                division_info = team_info['division']
+            elif league == 'league-one':
+                division_info = "Division 1" # フォールバック
+            
+            division = division_info
             
             has_scores = "true" if league in ['leagueone', 'top14'] else "false"
             

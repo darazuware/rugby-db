@@ -14,7 +14,7 @@ league_one_caps: "33"
 country: "高校"
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2017
 has_scores: false
@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2014 - 2015)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2014 - 2015)
 - Sunwolves (2015)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2016)
 - Sunwolves (2016)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2016)
 - Sunwolves (2016)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2017 - 2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2017 - 2026)
 - Sunwolves (2017)

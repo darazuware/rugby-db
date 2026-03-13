@@ -135,10 +135,19 @@ const groupByRound = (leagueId: string, results: any[]) => {
     return Object.keys(groups)
         .map(Number)
         .sort((a, b) => b - a)
-        .map(round => ({
-            round,
-            matches: groups[round].sort((a, b) => b._dateObj.getTime() - a._dateObj.getTime())
-        }));
+        .map(round => {
+            const matches = groups[round].sort((a, b) => b._dateObj.getTime() - a._dateObj.getTime());
+            // 節ごとの日付範囲を算出
+            const dates = matches.map(m => m.date).filter(Boolean).sort();
+            const minDate = dates[0] ? dates[0].replace(/-/g, '.') : "";
+            const maxDate = dates[dates.length - 1] ? dates[dates.length - 1].replace(/-/g, '.') : "";
+            
+            return {
+                round,
+                matches,
+                dateRange: minDate && maxDate ? (minDate === maxDate ? minDate : `${minDate} 〜 ${maxDate}`) : ""
+            };
+        });
 };
 
 const getLeagueResults = (league: any) => {
@@ -241,7 +250,7 @@ const getLeagueResults = (league: any) => {
                                             {leagueResults.map((group: any) => (
                                                 <option value={`#${league.id}-round-${group.round}`}>
                                                     {group.round > 0 
-                                                        ? `ROUND ${group.round}`
+                                                        ? `ROUND ${group.round}${group.dateRange ? ` (${group.dateRange})` : ''}`
                                                         : 'OTHER MATCHES'}
                                                 </option>
                                             ))}
@@ -259,6 +268,11 @@ const getLeagueResults = (league: any) => {
                                                 {group.round > 0 
                                                     ? (league.id.startsWith('league-one') ? `第${group.round}節` : `ROUND ${group.round}`)
                                                     : 'OTHER MATCHES'}
+                                                {group.dateRange && (
+                                                    <span class="text-foreground/30 text-[10px] ml-2 not-italic font-bold tracking-normal uppercase">
+                                                        ({group.dateRange})
+                                                    </span>
+                                                )}
                                             </span>
                                             <div class="h-px flex-1 bg-border-dim/20"></div>
                                         </div>

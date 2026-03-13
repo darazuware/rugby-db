@@ -14,7 +14,7 @@ league_one_caps: "5"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 エミレーツ・ライオンズ (2018 - 2022)
 - 🇿🇦 エミレーツ・ライオンズ (2022 - 2023)
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - 2025)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2023 - 2025)
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - )

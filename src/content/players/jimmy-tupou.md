@@ -25,9 +25,9 @@ facebook: ""
 
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2016)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2019)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2022)
 - Counties Manukau Steelers (2022)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2023)
 - Counties Manukau Steelers (2023)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - Counties Manukau Steelers (2023)

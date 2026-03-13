@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Waikato Mooloos (2021 - 2025)
-- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )
+- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2025 - )

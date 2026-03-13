@@ -14,7 +14,7 @@ league_one_caps: "23"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D3"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -27,5 +27,5 @@ facebook: ""
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2017)
 - Northampton Saints (2017 - 2022)
 - Bath Rugby (2022 - 2023)
-- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - 2026)
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2023 - 2026)
 - Bath Rugby (2024)

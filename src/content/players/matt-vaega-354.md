@@ -14,7 +14,7 @@ league_one_caps: "50"
 country: ""
 nationality: ""
 category: "カテゴリーA"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2018
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
 - North Harbour (2016 - 2017)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2018 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2018 - )

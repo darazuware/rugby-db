@@ -14,7 +14,7 @@ league_one_caps: "36"
 country: "NZ"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: null
 has_scores: false

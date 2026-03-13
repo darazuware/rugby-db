@@ -14,7 +14,7 @@ league_one_caps: "0"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2025
 has_scores: false
@@ -33,11 +33,11 @@ facebook: ""
 - Tasman Mako (2018)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018)
 - Tasman Mako (2020)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2020)
 - Tasman Mako (2021)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
 - Tasman Mako (2021)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2021)
 - Tasman Mako (2022)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
 - Tasman Mako (2022)
@@ -50,6 +50,6 @@ facebook: ""
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
 - Tasman Mako (2024)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - 2026)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2025 - 2026)
 - Tasman Mako (2025)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

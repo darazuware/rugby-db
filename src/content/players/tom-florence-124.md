@@ -14,7 +14,7 @@ league_one_caps: "1"
 country: ""
 nationality: ""
 category: "カテゴリーB"
-division: ""
+division: "D2"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -41,6 +41,6 @@ facebook: ""
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - 🇿🇦 ヴォーダコム・ブルズ (2023)
 - NOLA Gold (2023)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - 2026)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2024 - 2026)
 - NOLA Gold (2024)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)

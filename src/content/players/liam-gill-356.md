@@ -14,7 +14,7 @@ league_one_caps: "41"
 country: "オーストラリア"
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2024
 has_scores: false
@@ -26,5 +26,5 @@ facebook: ""
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2010 - 2016)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - 2017)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2020)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2020 - 2024)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2020 - 2024)
 - BlackRams Tokyo (2024 - )

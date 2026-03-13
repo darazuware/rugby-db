@@ -14,7 +14,7 @@ league_one_caps: "60"
 country: ""
 nationality: ""
 category: "カテゴリーC"
-division: ""
+division: "D1"
 league: "league-one"
 joined_year: 2020
 has_scores: false
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇿🇦 エミレーツ・ライオンズ (2013 - 2018)
 - Gloucester Rugby (2018 - 2020)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2020 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2020 - )
