@@ -211,12 +211,12 @@ const teamStanding = leagueStandings.find((s: any) =>
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}
 >
-    <main class="bg-background min-h-screen py-12 px-4 text-foreground relative overflow-hidden">
+    <main class="bg-background min-h-screen py-8 md:py-12 px-0 sm:px-4 text-foreground relative overflow-hidden w-full">
         {/* 背景の装飾的なぼかし要素 */}
         <div class="absolute top-0 left-1/4 w-96 h-96 bg-yellow-400/5 rounded-full blur-[128px] -z-10 animate-pulse"></div>
         <div class="absolute bottom-0 right-1/4 w-[32rem] h-[32rem] bg-indigo-500/5 rounded-full blur-[160px] -z-10"></div>
 
-        <div class="max-w-6xl mx-auto relative z-10" id="top">
+        <div class="w-full max-w-7xl mx-auto relative z-10 px-4 sm:px-0" id="top">
             {/* クイックナビゲーション (Sticky Nav) */}
             <div class="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 p-1.5 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl scale-90 sm:scale-100">
                 <a href="#info" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">

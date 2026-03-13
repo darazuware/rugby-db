@@ -60,9 +60,9 @@ const {
 			}
 		</script>
 	</head>
-	<body id="top" class="selection:bg-yellow-400 selection:text-black">
-		<nav class="bg-card text-foreground p-4 sticky top-0 z-50 shadow-lg border-b border-border-dim">
-			<div class="container mx-auto flex justify-between items-center">
+	<body id="top" class="selection:bg-yellow-400 selection:text-black overflow-x-hidden">
+		<nav class="bg-card text-foreground p-4 sticky top-0 z-50 shadow-lg border-b border-border-dim w-full">
+			<div class="max-w-[1400px] mx-auto flex justify-between items-center gap-4">
 				<a
 					href="/"
 					class="mobile-logo flex flex-col leading-tight pr-2 flex-shrink-0"
@@ -77,12 +77,12 @@ const {
 					>
 				</a>
 				<div
-					class="mobile-nav-links flex-1 flex justify-end items-center gap-4 md:gap-16 lg:gap-20 font-black tracking-widest text-[14px] md:text-[15px]"
+					class="mobile-nav-links flex-1 flex justify-end items-center gap-4 md:gap-12 lg:gap-16 font-black tracking-widest text-[12px] md:text-[15px] overflow-hidden"
 				>
 					<a
 						href="/leagues"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
-						>リーグ一覧</a
+						>リーグ</a
 					>
 					<a
 						href="/standings"
@@ -92,28 +92,32 @@ const {
 					<a
 						href="/players"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
-						>選手名鑑</a
+						>名鑑</a
 					>
 					<a
 						href="/results"
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5"
 						>戦績</a
 					>
-					<ThemeToggle client:load />
+					<div class="flex-shrink-0">
+						<ThemeToggle client:load />
+					</div>
 				</div>
 			</div>
 		</nav>
 
-		<div class="container mx-auto px-4 py-8 lg:py-16">
-			<div class="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-12 xl:gap-20 items-start">
-				<main class="min-w-0">
+		<div class="max-w-[1400px] mx-auto px-0 sm:px-4 py-8 lg:py-16 overflow-x-hidden">
+			<div class="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8 xl:gap-20 items-start">
+				<main class="min-w-0 w-full">
 					<slot />
 				</main>
-				<RightSidebar 
-					type={sidebarType} 
-					activeLeague={activeLeague} 
-					activeRound={activeRound} 
-				/>
+				<div class="hidden lg:block">
+					<RightSidebar 
+						type={sidebarType} 
+						activeLeague={activeLeague} 
+						activeRound={activeRound} 
+					/>
+				</div>
 			</div>
 		</div>
 		<footer
