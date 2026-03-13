@@ -10,7 +10,7 @@ interface Props {
 const { type = "default", activeLeague, activeRound } = Astro.props;
 
 // 実際のアクセスデータ (data/access_ranking.json から取得)
-const popularPlayers = rankingData || [];
+const popularPlayers = (rankingData as any[]) || [];
 ---
 
 <aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto no-scrollbar">
@@ -20,9 +20,40 @@ const popularPlayers = rankingData || [];
           <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
           <h3 class="font-black italic text-xl tracking-tighter uppercase">Switch League</h3>
       </div>
-      <div class="grid gap-2">
+      <div class="grid gap-3">
+          {/* League One Group */}
+          <div class="space-y-2">
+              <button
+                  data-league-switch="league-one-d1"
+                  class={`sidebar-league-btn w-full flex items-center gap-3 p-3 rounded-xl border border-border-dim/50 hover:border-yellow-400/50 transition-all group text-left ${activeLeague?.startsWith('league-one') ? 'bg-white/5 border-yellow-400/30' : 'bg-transparent'}`}
+              >
+                  <span class="w-2 h-2 rounded-full bg-red-600"></span>
+                  <span class="text-[10px] font-black uppercase tracking-widest text-foreground/60 group-hover:text-yellow-400">
+                      LEAGUE ONE
+                  </span>
+              </button>
+              <div class="flex gap-1.5 pl-5">
+                  {['D1', 'D2', 'D3'].map(d => {
+                      const divId = `league-one-${d.toLowerCase()}`;
+                      const isActive = activeLeague === divId;
+                      return (
+                          <button
+                              data-league-switch={divId}
+                              class={`flex-1 py-1.5 rounded-lg border text-[9px] font-black transition-all text-center uppercase tracking-tighter ${
+                                  isActive 
+                                  ? 'bg-red-600 border-red-600 text-white shadow-lg shadow-red-600/20' 
+                                  : 'bg-card/30 border-border-dim/50 text-foreground/30 hover:border-red-600/50 hover:text-foreground'
+                              }`}
+                          >
+                              {d}
+                          </button>
+                      );
+                  })}
+              </div>
+          </div>
+
+          {/* Other Leagues */}
           {[
-              { id: 'league-one-d1', label: 'リーグワン', color: 'bg-red-600' },
               { id: 'super-rugby', label: 'Super Rugby', color: 'bg-blue-600' },
               { id: 'top14', label: 'TOP 14', color: 'bg-yellow-600' }
           ].map(l => (
@@ -162,15 +193,6 @@ const popularPlayers = rankingData || [];
     </div>
   </div>
 
-    <div class="mt-8 pt-6 border-t border-border-dim/30">
-        <div class="bg-yellow-400/5 rounded-2xl p-4 border border-yellow-400/10">
-            <p class="text-[10px] text-yellow-400/60 font-black italic text-center uppercase tracking-widest">
-                Real-time Statistics 2026
-            </p>
-        </div>
-    </div>
-  </div>
-
   {/* 順位表・戦績クイックリンク */}
   <div class="bg-gradient-to-br from-yellow-400 to-yellow-600 p-8 rounded-[2rem] shadow-2xl relative overflow-hidden group">
     <div class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"></div>
@@ -185,3 +207,20 @@ const popularPlayers = rankingData || [];
     <div class="absolute -bottom-8 -right-8 w-32 h-32 bg-white/20 rounded-full blur-3xl group-hover:bg-black/10 transition-colors"></div>
   </div>
 </aside>
+
+<script>
+    // サイドバーのリーグ切り替えボタンの動作 (戦績ページ以外での遷移)
+    document.addEventListener('click', (e) => {
+        const target = e.target as HTMLElement;
+        if (!target) return;
+        
+        const leagueBtn = target.closest('[data-league-switch]');
+        
+        if (leagueBtn && !window.location.pathname.startsWith('/results')) {
+            const league = leagueBtn.getAttribute('data-league-switch');
+            if (league) {
+                window.location.href = `/results?league=${league}`;
+            }
+        }
+    });
+</script>
