@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2020 - 2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - 2024)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

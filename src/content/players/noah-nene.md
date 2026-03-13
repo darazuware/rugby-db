@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Val de Bièvre (2013 - 2021)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2024)
 - US Dax Rugby Landes (2024 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - West Brisbane Bulldogs (2021 - 2022)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
-- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2024 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
+- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2024 - )

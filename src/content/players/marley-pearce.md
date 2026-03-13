@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Joondalup Brothers RUFC (2021 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )

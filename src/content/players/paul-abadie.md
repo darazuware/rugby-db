@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Sporting Union Agenais (2001 - 2021)
 - CA Brive Corrèze Limousin (2021 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

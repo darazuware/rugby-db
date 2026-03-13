@@ -23,7 +23,7 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- グラスゴー・ウォリアーズ (2013 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2023)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2023)
 - sans club (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

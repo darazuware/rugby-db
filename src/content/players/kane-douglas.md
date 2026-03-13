@@ -23,8 +23,8 @@ twitter: "https://www.twitter.com/_kanedoug"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2009 - 2014)
-- レンスター・ラグビー (2014 - 2015)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2009 - 2014)
+- 🇮🇪 レンスター・ラグビー (2014 - 2015)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2018)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

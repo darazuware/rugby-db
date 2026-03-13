@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Free State Cheetahs (2018 - 2019)
-- エミレーツ・ライオンズ (2019 - 2021)
-- エミレーツ・ライオンズ (2021 - 2022)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )
+- 🇿🇦 エミレーツ・ライオンズ (2019 - 2021)
+- 🇿🇦 エミレーツ・ライオンズ (2021 - 2022)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )

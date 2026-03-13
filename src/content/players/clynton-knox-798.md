@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2024)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2024)
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2024 - 2025)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
+- 🇿🇦 エミレーツ・ライオンズ (2024 - 2025)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )

@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Parentis Sport Rugby (2011 - 2016)
 - Stade Montois Rugby Pro (2016 - 2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023)
 - Stade Montois Rugby Pro (2023)
-- [トゥールーズ](/teams/top14/toulouse) (2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024)
 - Stade Montois Rugby Pro (2024)
-- [トゥールーズ](/teams/top14/toulouse) (2024 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

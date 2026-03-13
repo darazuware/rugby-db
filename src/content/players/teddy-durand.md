@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Launaguet (2011 - 2013)
-- [トゥールーズ](/teams/top14/toulouse) (2013 - 2018)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2018)
 - Oyonnax Rugby (2018 - 2025)
-- [カストル](/teams/top14/castres) (2025 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

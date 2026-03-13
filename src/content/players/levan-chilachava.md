@@ -23,8 +23,8 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- [トゥーロン](/teams/top14/toulon) (2009 - 2018)
-- [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
-- [カストル](/teams/top14/castres) (2020)
-- [モンペリエ](/teams/top14/montpellier) (2021)
-- [カストル](/teams/top14/castres) (2021 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2009 - 2018)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
+- 🇫🇷 [カストル](/teams/top14/castres) (2020)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021)
+- 🇫🇷 [カストル](/teams/top14/castres) (2021 - )

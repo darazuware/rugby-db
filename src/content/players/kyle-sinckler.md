@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - Bristol Bears (2019)
 - Harlequins (2020)
 - Bristol Bears (2020 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

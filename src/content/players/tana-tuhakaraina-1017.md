@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Waikato Mooloos (2021 - 2023)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

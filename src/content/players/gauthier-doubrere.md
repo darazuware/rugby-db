@@ -25,7 +25,7 @@ facebook: ""
 
 - RC Bassoues Lupiac Montesquiou (2004 - 2010)
 - Rugby Club Auch (2010 - 2015)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2018)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2018)
 - Biarritz Olympique Pays Basque (2018 - 2021)
 - Stade Montois Rugby Pro (2021 - 2022)
-- [カストル](/teams/top14/castres) (2022 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2022 - )

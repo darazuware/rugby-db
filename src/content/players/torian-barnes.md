@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

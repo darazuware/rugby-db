@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2019)
-- ヴォーダコム・ブルズ (2019)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- ヴォーダコム・ブルズ (2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2024)
-- レンスター・ラグビー (2024 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2019)
+- 🇿🇦 ヴォーダコム・ブルズ (2019)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- 🇿🇦 ヴォーダコム・ブルズ (2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2024)
+- 🇮🇪 レンスター・ラグビー (2024 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

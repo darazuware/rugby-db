@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Paris Université Club (2007 - 2011)
-- [スタッド・フランセ](/teams/top14/paris) (2011 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2011 - )

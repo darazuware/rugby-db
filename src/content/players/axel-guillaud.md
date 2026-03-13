@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - CS Bourgoin Jallieu Rugby (2011 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )

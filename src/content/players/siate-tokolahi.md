@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2019)
 - Southland Stags (2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - Southland Stags (2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

@@ -26,5 +26,5 @@ facebook: ""
 - Valke (2012 - 2020)
 - Enisey-STM (2020 - 2022)
 - Central Cheetahs (2022 - 2024)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
 - Central Cheetahs (2025 - )

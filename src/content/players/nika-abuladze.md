@@ -25,7 +25,7 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - RC Kochebi (2020 - 2021)
 - Black Lion (2021 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - Black Lion (2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

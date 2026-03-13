@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Rugby Club Auch (2014 - 2017)
-- [ポー](/teams/top14/pau) (2017 - 2024)
-- [カストル](/teams/top14/castres) (2024 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2017 - 2024)
+- 🇫🇷 [カストル](/teams/top14/castres) (2024 - )

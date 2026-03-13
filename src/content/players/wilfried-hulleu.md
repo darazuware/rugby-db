@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - RC le Môle (2007 - 2016)
 - FC Grenoble Rugby (2016 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

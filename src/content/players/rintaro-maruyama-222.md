@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - 2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - 2024)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )

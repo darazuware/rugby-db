@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Akita Northern Bullets (2021 - 2025)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2025 - )

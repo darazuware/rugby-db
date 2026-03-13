@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- ヴォーダコム・ブルズ (2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- ヴォーダコム・ブルズ (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- ヴォーダコム・ブルズ (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- ヴォーダコム・ブルズ (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- 🇿🇦 ヴォーダコム・ブルズ (2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- 🇿🇦 ヴォーダコム・ブルズ (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Lavallois (2004 - 2006)
-- [ヴァンヌ](/teams/top14/vannes) (2006 - 2012)
-- [リヨン](/teams/top14/lyon) (2012 - 2013)
-- [ヴァンヌ](/teams/top14/vannes) (2013 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2006 - 2012)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2012 - 2013)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2013 - )

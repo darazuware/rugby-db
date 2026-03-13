@@ -23,9 +23,9 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2011 - 2016)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2011 - 2016)
 - US Carcassonne (2016 - 2018)
 - Union Sportive Bressane Pays de l'Ain (2018 - 2019)
 - Rouen Normandie Rugby (2019 - 2021)
 - FC Grenoble Rugby (2021 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- コナート・ラグビー (2018 - 2019)
+- 🇮🇪 コナート・ラグビー (2018 - 2019)
 - Rugby United New-York (2019 - 2020)
-- コナート・ラグビー (2020 - 2021)
+- 🇮🇪 コナート・ラグビー (2020 - 2021)
 - Randwick Rugby (2022 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2024)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )

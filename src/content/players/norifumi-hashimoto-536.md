@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2024)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

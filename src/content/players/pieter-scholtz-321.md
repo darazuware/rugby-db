@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2015 - 2016)
+- 🇿🇦 エミレーツ・ライオンズ (2015 - 2016)
 - Southern Kings (2017 - 2020)
-- スカーレッツ (2020 - 2021)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2020 - 2021)
 - Wasps (2021 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )

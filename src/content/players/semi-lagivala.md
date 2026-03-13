@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Stade Montois Rugby Pro (2022 - 2025)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

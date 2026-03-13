@@ -24,12 +24,12 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2017 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - Bay of Plenty Steamers (2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
 - Bay of Plenty Steamers (2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2024)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2024)
 - Bay of Plenty Steamers (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
 - Bay of Plenty Steamers (2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

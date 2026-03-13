@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Santiago Lawn Tennis Club (2018 - 2019)
 - Jaguares (2019 - 2020)
 - Jaguares XV (2021 - 2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )

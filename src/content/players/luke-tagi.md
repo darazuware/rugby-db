@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - 2021)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2021)
 - Provence Rugby (2021 - 2023)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

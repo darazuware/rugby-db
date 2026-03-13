@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - AC Bobigny 93 (2011 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

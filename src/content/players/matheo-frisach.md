@@ -25,5 +25,5 @@ facebook: ""
 
 - US Izon (2010 - 2018)
 - Libourne (2018 - 2019)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - 2023)
-- [クレルモン](/teams/top14/clermont) (2023 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - 2023)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

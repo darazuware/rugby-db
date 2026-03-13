@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2025)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

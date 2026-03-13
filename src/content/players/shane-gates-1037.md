@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Southern Kings (2015 - 2016)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016 - 2018)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016 - 2018)
 - Sunwolves (2018)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2026)
 - Sunwolves (2019)

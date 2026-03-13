@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2022)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2022)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )

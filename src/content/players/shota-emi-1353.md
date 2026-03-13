@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2015 - 2016)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2015 - 2016)
 - Sunwolves (2016)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2017 - 2026)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2017 - 2026)
 - Sunwolves (2017)

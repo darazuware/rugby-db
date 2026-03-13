@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - US Thouars (2011 - 2016)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - )

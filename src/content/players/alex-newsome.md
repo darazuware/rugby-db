@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2022)
-- [クレルモン](/teams/top14/clermont) (2022 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2022)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )

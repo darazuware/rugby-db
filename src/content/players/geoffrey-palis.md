@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Sporting Club Albigeois (2009 - 2013)
-- [カストル](/teams/top14/castres) (2013 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2013 - )

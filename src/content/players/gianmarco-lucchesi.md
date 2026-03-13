@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Rugby Calvisano (2019)
-- ベネットン・ラグビー・トレヴィーゾ (2019)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2019)
 - Rugby Calvisano (2020)
-- ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - )
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

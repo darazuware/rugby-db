@@ -187,11 +187,11 @@ def format_career_md(career_str, current_team, name_en=""):
     
     for entry in merged:
         if entry.get('raw'):
-            linked = get_team_link(entry['team'])
+            linked = get_team_link(entry['team'], include_flag=True)
             lines.append(f"- {linked}")
             continue
 
-        linked_team = get_team_link(entry['team'])
+        linked_team = get_team_link(entry['team'], include_flag=True)
         start_p = entry['start']
         end_p = entry['end']
         

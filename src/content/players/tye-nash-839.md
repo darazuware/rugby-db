@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- ハリウッドベッツ・シャークス (2021 - 2022)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2023 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2022)
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2023 - )

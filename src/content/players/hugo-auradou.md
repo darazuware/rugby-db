@@ -25,4 +25,4 @@ facebook: ""
 
 - CA Sarlat Périgord Noir (2010 - 2014)
 - Stade Montois Rugby Pro (2014 - 2020)
-- [ポー](/teams/top14/pau) (2020 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2020 - )

@@ -23,6 +23,6 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- [トゥールーズ](/teams/top14/toulouse) (2010 - 2015)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2010 - 2015)
 - US Colomiers (2015 - 2018)
-- [トゥールーズ](/teams/top14/toulouse) (2018 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

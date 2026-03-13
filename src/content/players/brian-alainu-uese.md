@@ -23,8 +23,8 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2015)
-- グラスゴー・ウォリアーズ (2016 - 2018)
-- [トゥーロン](/teams/top14/toulon) (2018)
-- グラスゴー・ウォリアーズ (2019)
-- [トゥーロン](/teams/top14/toulon) (2019 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2015)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2016 - 2018)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2019)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - )

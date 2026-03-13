@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - Northland Taniwha (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
 - Northland Taniwha (2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

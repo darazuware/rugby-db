@@ -6,7 +6,7 @@ team: "レッドハリケーンズ大阪"
 height: "182"
 weight: "107"
 birth_date: "2001.03.13"
-age: 24
+age: 25
 high_school: "八幡工業高校"
 university: "大阪体育大学"
 caps: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )

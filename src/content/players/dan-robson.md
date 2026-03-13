@@ -25,6 +25,6 @@ facebook: ""
 
 - Gloucester Rugby (2013 - 2015)
 - Wasps (2015 - 2022)
-- [ポー](/teams/top14/pau) (2022)
+- 🇫🇷 [ポー](/teams/top14/pau) (2022)
 - Wasps (2023)
-- [ポー](/teams/top14/pau) (2023 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2023 - )

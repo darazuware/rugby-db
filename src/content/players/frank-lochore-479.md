@@ -29,6 +29,6 @@ facebook: ""
 - Utah Warriors (2024)
 - Hawke's Bay Magpies (2024)
 - Utah Warriors (2024)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - 2026)
 - Hawke's Bay Magpies (2025)
 - Utah Warriors (2025 - )

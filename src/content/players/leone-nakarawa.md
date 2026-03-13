@@ -23,10 +23,10 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- グラスゴー・ウォリアーズ (2013 - 2016)
-- [ラシン92](/teams/top14/racing-92) (2016 - 2019)
-- グラスゴー・ウォリアーズ (2019)
-- [ラシン92](/teams/top14/racing-92) (2020)
-- グラスゴー・ウォリアーズ (2020 - 2021)
-- [トゥーロン](/teams/top14/toulon) (2021 - 2022)
-- [カストル](/teams/top14/castres) (2022 - )
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2016)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016 - 2019)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2019)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2020 - 2021)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2022)
+- 🇫🇷 [カストル](/teams/top14/castres) (2022 - )

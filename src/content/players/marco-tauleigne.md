@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/MarcoTauleigneOff"
 
 - RC Teillois (2004 - 2009)
 - CS Bourgoin Jallieu Rugby (2009 - 2013)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2021)
-- [モンペリエ](/teams/top14/montpellier) (2021 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2021)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - )

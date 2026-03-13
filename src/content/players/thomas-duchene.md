@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Saint-Gènes-Champanelle (2011 - 2018)
-- [クレルモン](/teams/top14/clermont) (2018 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2018 - 2025)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

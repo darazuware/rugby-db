@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2003 - 2010)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2003 - 2010)
 - Sporting Union Agenais (2010 - 2012)
-- [ラシン92](/teams/top14/racing-92) (2012 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2012 - 2022)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )

@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - 2011)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - 2011)
 - Stade Montois Rugby Pro (2011 - 2013)
-- [カストル](/teams/top14/castres) (2013 - 2016)
+- 🇫🇷 [カストル](/teams/top14/castres) (2013 - 2016)
 - Stade Montois Rugby Pro (2016 - 2021)
-- [クレルモン](/teams/top14/clermont) (2021 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - )

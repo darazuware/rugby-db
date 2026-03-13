@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - All Blacks 7's (2021 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

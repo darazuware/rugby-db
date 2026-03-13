@@ -23,9 +23,9 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [スタッド・フランセ](/teams/top14/paris) (2010 - 2012)
-- [ラシン92](/teams/top14/racing-92) (2012 - 2013)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2010 - 2012)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2012 - 2013)
 - Oyonnax Rugby (2013 - 2014)
 - FC Grenoble Rugby (2014 - 2017)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2025)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

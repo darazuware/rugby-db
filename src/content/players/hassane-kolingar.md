@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - RC Soisy Andilly Margency (2012 - 2013)
-- [ラシン92](/teams/top14/racing-92) (2013 - 2018)
-- [ヴァンヌ](/teams/top14/vannes) (2018)
-- [ラシン92](/teams/top14/racing-92) (2019)
-- [ヴァンヌ](/teams/top14/vannes) (2019)
-- [ラシン92](/teams/top14/racing-92) (2019 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - 2018)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2018)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2019)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - )

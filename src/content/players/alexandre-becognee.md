@@ -23,6 +23,6 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2014)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2014)
 - Stade Montois Rugby Pro (2014 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )

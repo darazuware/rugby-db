@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
 - Wests Tigers (2022 - 2023)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2019)
-- [カストル](/teams/top14/castres) (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2019)
+- 🇫🇷 [カストル](/teams/top14/castres) (2021 - 2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

@@ -26,4 +26,4 @@ facebook: ""
 - Melbourne Rising (2018 - 2019)
 - Valladolid Rugby Asociación Club (2019 - 2020)
 - Manly Marlins (2021 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )

@@ -23,6 +23,6 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [リヨン](/teams/top14/lyon) (2013 - 2015)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2013 - 2015)
 - Association Sportive Béziers Hérault (2015 - 2016)
-- [リヨン](/teams/top14/lyon) (2016 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - )

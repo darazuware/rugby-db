@@ -23,8 +23,8 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2016)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2016)
 - US Carcassonne (2016 - 2017)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

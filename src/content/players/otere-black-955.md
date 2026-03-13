@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2014 - 2017)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2019)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2014 - 2017)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2019)
 - Bay of Plenty Steamers (2019 - 2020)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - Bay of Plenty Steamers (2020)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2026)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2026)
 - Bay of Plenty Steamers (2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)

@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Villeneuve-lès-Maguelone (2006 - 2011)
-- [モンペリエ](/teams/top14/montpellier) (2011 - 2023)
-- [カストル](/teams/top14/castres) (2023 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2011 - 2023)
+- 🇫🇷 [カストル](/teams/top14/castres) (2023 - )

@@ -25,6 +25,6 @@ facebook: ""
 
 - Union Stadiste Sauveterre (2013 - 2014)
 - Rugby Club Béarnais (2014 - 2015)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2020)
 - US Carcassonne (2020 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )

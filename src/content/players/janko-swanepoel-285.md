@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- ヴォーダコム・ブルズ (2020 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
+- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2024)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

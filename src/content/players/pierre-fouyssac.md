@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sporting Union Agenais (2010 - 2018)
-- [トゥールーズ](/teams/top14/toulouse) (2018 - 2023)
-- [クレルモン](/teams/top14/clermont) (2023 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - 2023)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

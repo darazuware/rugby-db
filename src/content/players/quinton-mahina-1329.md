@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2025)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022 - 2025)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )

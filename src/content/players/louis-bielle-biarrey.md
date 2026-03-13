@@ -25,4 +25,4 @@ facebook: ""
 
 - Seyssins (2008 - 2016)
 - FC Grenoble Rugby (2016 - 2021)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )

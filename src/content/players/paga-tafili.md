@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - RC du Mont-Dore (2009 - 2011)
 - Malemort XV (2011 - 2013)
 - SC Tulle (2013 - 2016)
-- [ヴァンヌ](/teams/top14/vannes) (2016 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2016 - )

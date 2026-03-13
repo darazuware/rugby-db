@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- ヴォーダコム・ブルズ (2021 - 2023)
-- ヴォーダコム・ブルズ (2023 - 2024)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - )
+- 🇿🇦 ヴォーダコム・ブルズ (2021 - 2023)
+- 🇿🇦 ヴォーダコム・ブルズ (2023 - 2024)
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2024 - )

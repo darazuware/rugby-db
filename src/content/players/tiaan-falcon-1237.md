@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2020)
 - Hawke's Bay Magpies (2020 - 2021)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )

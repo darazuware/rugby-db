@@ -26,4 +26,4 @@ facebook: ""
 - CS Lons Jura (2004 - 2009)
 - Cercle Sportif Lédonien (2009 - 2015)
 - FC Grenoble Rugby (2015 - 2020)
-- [クレルモン](/teams/top14/clermont) (2020 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - )

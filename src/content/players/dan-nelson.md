@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2024)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2024)
 - Canberra Royals (2024 - 2025)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )

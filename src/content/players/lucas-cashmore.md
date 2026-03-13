@@ -24,12 +24,12 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2020 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - Bay of Plenty Steamers (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
 - Bay of Plenty Steamers (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
 - Bay of Plenty Steamers (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
 - Bay of Plenty Steamers (2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

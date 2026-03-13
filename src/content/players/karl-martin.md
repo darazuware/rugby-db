@@ -23,7 +23,7 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- レンスター・ラグビー (2020 - 2021)
-- [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
+- 🇮🇪 レンスター・ラグビー (2020 - 2021)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
 - Stade Aurillacois Cantal Auvergne (2024 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

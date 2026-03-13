@@ -25,4 +25,4 @@ facebook: ""
 
 - USO Athis-Mons (2012 - 2016)
 - Rugby Club Massy Essonne (2016 - 2022)
-- [クレルモン](/teams/top14/clermont) (2022 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )

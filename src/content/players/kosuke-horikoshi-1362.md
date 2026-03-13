@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - )

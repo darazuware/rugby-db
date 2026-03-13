@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Saint-Girons SC Couserans (2007 - 2018)
-- [トゥールーズ](/teams/top14/toulouse) (2018 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

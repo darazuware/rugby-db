@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2023)
-- [ポー](/teams/top14/pau) (2023 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2023)
+- 🇫🇷 [ポー](/teams/top14/pau) (2023 - )

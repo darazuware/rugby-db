@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2023)
 - Manawatu Turbos (2023)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - 2026)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - 2026)
 - Manawatu Turbos (2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024)

@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - Loches ROC rugby (2007 - 2018)
 - U.S. Tours (2018 - 2019)
 - Rugby Club Auch (2019 - 2022)
-- [カストル](/teams/top14/castres) (2022 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2022 - )

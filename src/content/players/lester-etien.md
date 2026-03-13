@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rugby Club Massy Essonne (2014 - 2018)
-- [スタッド・フランセ](/teams/top14/paris) (2018 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

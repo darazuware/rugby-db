@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021)
 - Lelo Saracens Tbilissi (2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [モントーバン](/teams/top14/us-montauban) (2013 - 2015)
+- 🇫🇷 [モントーバン](/teams/top14/us-montauban) (2013 - 2015)
 - Sporting Club Nègrepelisse (2015 - 2016)
 - Stado Tarbes Pyrénées Rugby (2016 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )

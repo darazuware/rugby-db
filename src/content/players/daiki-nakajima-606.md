@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2018 - 2021)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2018 - 2021)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - )

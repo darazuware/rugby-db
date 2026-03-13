@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - RC Courbevoie (2009 - 2013)
-- [ラシン92](/teams/top14/racing-92) (2013 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - )

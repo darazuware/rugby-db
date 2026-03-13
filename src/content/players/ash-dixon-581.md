@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2014)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2014)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
 - Hawke's Bay Magpies (2019 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - Hawke's Bay Magpies (2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
 - Hawke's Bay Magpies (2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - )

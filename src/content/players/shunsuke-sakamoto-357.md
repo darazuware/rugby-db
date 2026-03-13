@@ -6,7 +6,7 @@ team: "三菱重工相模原ダイナボアーズ"
 height: "180"
 weight: "110"
 birth_date: "1998.03.13"
-age: 27
+age: 28
 high_school: "三本木農業高校"
 university: "日本大学"
 caps: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - )

@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- [トゥーロン](/teams/top14/toulon) (2013 - 2014)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2014)
 - Pampas XV (2014 - 2015)
 - Jaguares (2015 - 2016)
-- [リヨン](/teams/top14/lyon) (2016)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2016)
 - Jaguares (2017)
-- [リヨン](/teams/top14/lyon) (2017)
-- [トゥーロン](/teams/top14/toulon) (2017 - 2025)
-- [ポー](/teams/top14/pau) (2025 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2017)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - 2025)
+- 🇫🇷 [ポー](/teams/top14/pau) (2025 - )

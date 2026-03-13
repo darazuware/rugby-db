@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2023)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2023)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )

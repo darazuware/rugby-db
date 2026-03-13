@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

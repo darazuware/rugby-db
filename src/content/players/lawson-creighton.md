@@ -25,5 +25,5 @@ facebook: ""
 
 - Brisbane City (2017 - 2019)
 - Brothers Rugby Club (2019 - 2020)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2024)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

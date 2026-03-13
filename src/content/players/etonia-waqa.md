@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2021 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022)
 - Bay of Plenty Steamers (2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
 - Bay of Plenty Steamers (2023)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )

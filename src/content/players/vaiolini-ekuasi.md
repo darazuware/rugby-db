@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2022)
-- メルボルン・レベルズ (2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- メルボルン・レベルズ (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- メルボルン・レベルズ (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- メルボルン・レベルズ (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2022)
+- 🇦🇺 メルボルン・レベルズ (2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇦🇺 メルボルン・レベルズ (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇦🇺 メルボルン・レベルズ (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇦🇺 メルボルン・レベルズ (2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2022 - 2025)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2022 - 2025)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )

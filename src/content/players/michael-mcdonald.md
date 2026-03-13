@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2022)
-- アルスター・ラグビー (2022 - 2023)
-- コナート・ラグビー (2023 - 2024)
-- アルスター・ラグビー (2024 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2022)
+- 🇮🇪 アルスター・ラグビー (2022 - 2023)
+- 🇮🇪 コナート・ラグビー (2023 - 2024)
+- 🇮🇪 アルスター・ラグビー (2024 - 2025)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

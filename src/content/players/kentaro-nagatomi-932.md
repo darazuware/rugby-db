@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2022)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2021 - 2022)
 - LeRIRO Fukuoka (2024 - )

@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - US Romans-Péage (2011 - 2015)
 - CS Annonay (2015 - 2018)
 - FC Grenoble Rugby (2018 - 2021)
-- [カストル](/teams/top14/castres) (2021 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2021 - )

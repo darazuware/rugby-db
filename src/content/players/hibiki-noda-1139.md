@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )

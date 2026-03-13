@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Wasps (2016 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022)
 - Wasps (2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023 - )

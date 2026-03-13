@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - RC Jiki Gori (2017 - 2018)
 - RC Armazi (2018 - 2019)
 - Stade Aurillacois Cantal Auvergne (2019 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

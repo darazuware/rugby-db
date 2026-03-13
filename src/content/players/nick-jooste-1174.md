@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
 - Eastern Suburbs RFC (2020 - 2021)
-- メルボルン・レベルズ (2021 - 2024)
+- 🇦🇺 メルボルン・レベルズ (2021 - 2024)
 - San Diego Legion (2024 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

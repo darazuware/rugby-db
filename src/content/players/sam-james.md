@@ -23,5 +23,5 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- ハリウッドベッツ・シャークス (2015 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2015 - 2024)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

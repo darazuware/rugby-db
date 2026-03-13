@@ -23,6 +23,6 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- [クレルモン](/teams/top14/clermont) (2016 - 2017)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2017)
 - Stade Montois Rugby Pro (2017 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2023 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

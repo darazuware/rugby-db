@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2013 - 2014)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2014 - 2015)
+- 🇦🇺 メルボルン・レベルズ (2013 - 2014)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2014 - 2015)
 - Bay of Plenty Steamers (2015 - 2016)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2017)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2019)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2019 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2017)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2019)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2019 - )

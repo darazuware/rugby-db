@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Stade Aurillacois Cantal Auvergne (2010 - 2016)
-- [クレルモン](/teams/top14/clermont) (2016 - 2024)
-- [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2024)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )

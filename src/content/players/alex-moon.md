@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Northampton Saints (2017 - 2024)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

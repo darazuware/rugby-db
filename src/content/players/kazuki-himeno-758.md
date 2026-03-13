@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2017)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2017)
 - Sunwolves (2017)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2018)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2018)
 - Sunwolves (2018)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2018)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2018)
 - Sunwolves (2018)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - 2020)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - 2020)
 - Sunwolves (2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )

@@ -23,11 +23,11 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- [トゥーロン](/teams/top14/toulon) (2005 - 2015)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2005 - 2015)
 - RC Vallée du Gapeau (2015 - 2016)
 - RC Hyères Carqueiranne La Crau (2016 - 2018)
-- [ペルピニャン](/teams/top14/perpignan) (2018 - 2022)
-- [トゥールーズ](/teams/top14/toulouse) (2022 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023)
-- [トゥールーズ](/teams/top14/toulouse) (2024)
-- [トゥーロン](/teams/top14/toulon) (2024 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2018 - 2022)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - 2023)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

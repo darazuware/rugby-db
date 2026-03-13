@@ -23,10 +23,10 @@ twitter: "https://www.twitter.com/SkeltonWilliam"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2016)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2016)
 - Saracens (2016)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016)
 - Saracens (2017)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017)
 - Saracens (2017 - 2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

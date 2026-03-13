@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Newcastle (2016 - 2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

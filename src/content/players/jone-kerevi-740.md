@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2024 - 2025)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

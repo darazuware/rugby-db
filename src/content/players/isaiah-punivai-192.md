@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2021)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2026)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2021)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2026)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)

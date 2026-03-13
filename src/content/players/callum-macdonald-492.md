@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2025)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2022 - 2025)
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2025 - )

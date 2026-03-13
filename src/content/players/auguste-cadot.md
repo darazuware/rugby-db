@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Racing Club Chagny (2007 - 2015)
 - CS Beaune (2015 - 2019)
 - Biarritz Olympique Pays Basque (2019 - 2023)
-- [モンペリエ](/teams/top14/montpellier) (2023 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )

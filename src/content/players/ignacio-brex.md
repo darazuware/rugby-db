@@ -23,5 +23,5 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- ベネットン・ラグビー・トレヴィーゾ (2017 - 2025)
-- [トゥーロン](/teams/top14/toulon) (2025 - )
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2017 - 2025)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )

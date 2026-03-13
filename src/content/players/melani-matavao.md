@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

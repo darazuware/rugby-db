@@ -23,5 +23,5 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
-- [リヨン](/teams/top14/lyon) (2022 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )

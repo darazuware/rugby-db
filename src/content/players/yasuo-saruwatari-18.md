@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2022 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2022 - )

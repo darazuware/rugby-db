@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2015)
-- [ラシン92](/teams/top14/racing-92) (2015 - 2020)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2015)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2020)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )

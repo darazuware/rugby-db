@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2022 - 2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- エミレーツ・ライオンズ (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
-- エミレーツ・ライオンズ (2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
+- 🇿🇦 エミレーツ・ライオンズ (2022 - 2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇿🇦 エミレーツ・ライオンズ (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- 🇿🇦 エミレーツ・ライオンズ (2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

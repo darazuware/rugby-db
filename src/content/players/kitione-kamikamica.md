@@ -23,8 +23,8 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2014 - 2018)
-- [ヴァンヌ](/teams/top14/vannes) (2018 - 2019)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2014 - 2018)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2018 - 2019)
 - CA Brive Corrèze Limousin (2019 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2024)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )

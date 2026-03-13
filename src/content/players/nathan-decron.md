@@ -25,6 +25,6 @@ facebook: ""
 
 - Union Sportive Néracaise (2007 - 2013)
 - Sporting Union Agenais (2013 - 2017)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2019)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2019)
 - Sporting Union Agenais (2019 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

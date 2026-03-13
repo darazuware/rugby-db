@@ -23,5 +23,5 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

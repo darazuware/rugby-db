@@ -26,4 +26,4 @@ facebook: ""
 - FCAix Rugby (2009 - 2018)
 - Rugby Club Savoie Rumilly (2018 - 2019)
 - FC Grenoble Rugby (2019 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )

@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Souths Rugby (2022 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2025)
-- ベネットン・ラグビー・トレヴィーゾ (2025)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- ベネットン・ラグビー・トレヴィーゾ (2026)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2025)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2026)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )

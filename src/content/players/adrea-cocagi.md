@@ -23,7 +23,7 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- [スタッド・フランセ](/teams/top14/paris) (2013 - 2014)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2014)
 - Stado Tarbes Pyrénées Rugby (2014 - 2016)
-- [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
-- [カストル](/teams/top14/castres) (2020 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
+- 🇫🇷 [カストル](/teams/top14/castres) (2020 - )

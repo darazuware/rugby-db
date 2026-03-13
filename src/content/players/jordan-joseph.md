@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Rugby Club Massy Essonne (2014 - 2018)
-- [ラシン92](/teams/top14/racing-92) (2018 - 2021)
-- [ポー](/teams/top14/pau) (2021)
-- [ラシン92](/teams/top14/racing-92) (2022)
-- [ポー](/teams/top14/pau) (2022 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2023 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2021)
+- 🇫🇷 [ポー](/teams/top14/pau) (2021)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022)
+- 🇫🇷 [ポー](/teams/top14/pau) (2022 - 2023)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

@@ -26,4 +26,4 @@ facebook: ""
 - Ent Rugby CL Gignac Marignane (2010 - 2014)
 - Pennes-Mirabeau Cadeneaux Rugby (2014 - 2017)
 - Provence Rugby (2017 - 2024)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

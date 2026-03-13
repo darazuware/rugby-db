@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Riom (2004 - 2006)
-- [クレルモン](/teams/top14/clermont) (2006 - 2014)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2006 - 2014)
 - Stade Aurillacois Cantal Auvergne (2014 - 2018)
 - Sporting Union Agenais (2018 - 2021)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - )

@@ -23,6 +23,6 @@ twitter: "https://x.com/samezeala"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- [クレルモン](/teams/top14/clermont) (2015 - 2023)
-- [ポー](/teams/top14/pau) (2023 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2023)
+- 🇫🇷 [ポー](/teams/top14/pau) (2023 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

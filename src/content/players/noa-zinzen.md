@@ -26,4 +26,4 @@ facebook: ""
 - CA Bédarieux Grand Orb (2008 - 2013)
 - Rives d'Orb (2013 - 2015)
 - Association Sportive Béziers Hérault (2015 - 2020)
-- [ラシン92](/teams/top14/racing-92) (2020 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - )

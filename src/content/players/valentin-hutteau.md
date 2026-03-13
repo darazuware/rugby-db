@@ -25,4 +25,4 @@ facebook: ""
 
 - US Pithiviers (2012 - 2020)
 - Rugby Club Massy Essonne (2020 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
 - Waikato Mooloos (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
 - Waikato Mooloos (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

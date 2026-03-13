@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Aachen (2015 - 2016)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2019)
-- [ヴァンヌ](/teams/top14/vannes) (2019 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2019)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2019 - )

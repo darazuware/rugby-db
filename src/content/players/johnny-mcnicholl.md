@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2016)
-- スカーレッツ (2016 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- スカーレッツ (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2016)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2016 - 2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - )

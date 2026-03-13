@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Lelo Saracens Tbilissi (2017 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2021)
-- [リヨン](/teams/top14/lyon) (2021 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - National Defense Academy (2024 - 2025)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )

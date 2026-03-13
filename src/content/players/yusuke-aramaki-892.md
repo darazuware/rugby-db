@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - 2025)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2021 - 2025)
 - LeRIRO Fukuoka (2025 - )

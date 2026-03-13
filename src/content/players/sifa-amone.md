@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Associates Rugby Union Football Club (2021 - 2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2024)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

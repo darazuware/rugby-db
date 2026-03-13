@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2024)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2024)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )

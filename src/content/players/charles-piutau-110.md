@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2015)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2015)
 - Wasps (2015 - 2016)
-- アルスター・ラグビー (2016 - 2018)
+- 🇮🇪 アルスター・ラグビー (2016 - 2018)
 - Bristol Bears (2018 - 2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )

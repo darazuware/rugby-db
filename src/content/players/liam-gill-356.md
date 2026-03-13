@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2010 - 2016)
-- [トゥーロン](/teams/top14/toulon) (2016 - 2017)
-- [リヨン](/teams/top14/lyon) (2017 - 2020)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2020 - 2024)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2010 - 2016)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - 2017)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2020)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2020 - 2024)
 - BlackRams Tokyo (2024 - )

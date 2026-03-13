@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2019)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2019)
 - Tasman Mako (2019 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - Tasman Mako (2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
 - Tasman Mako (2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - )

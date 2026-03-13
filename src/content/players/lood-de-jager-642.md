@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Central Cheetahs (2013 - 2016)
-- ヴォーダコム・ブルズ (2016 - 2019)
-- ハリウッドベッツ・シャークス (2019 - 2022)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - )
+- 🇿🇦 ヴォーダコム・ブルズ (2016 - 2019)
+- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2022)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - )

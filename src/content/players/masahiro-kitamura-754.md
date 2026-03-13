@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - )

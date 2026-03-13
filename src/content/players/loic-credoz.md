@@ -25,4 +25,4 @@ facebook: ""
 
 - RC du Canton de Montrevel-en-Bresse (2007 - 2015)
 - Oyonnax Rugby (2015 - 2024)
-- [ポー](/teams/top14/pau) (2024 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )

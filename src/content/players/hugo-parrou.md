@@ -25,4 +25,4 @@ facebook: ""
 
 - Entente Bazet Andrest (2007 - 2016)
 - Stado Tarbes Pyrénées Rugby (2016 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

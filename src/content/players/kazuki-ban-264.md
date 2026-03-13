@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2025)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2025)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )

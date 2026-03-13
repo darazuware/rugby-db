@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2018)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

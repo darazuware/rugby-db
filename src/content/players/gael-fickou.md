@@ -24,9 +24,9 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Union Sportive Seynoise (2006 - 2009)
-- [トゥーロン](/teams/top14/toulon) (2009 - 2012)
-- [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
-- [スタッド・フランセ](/teams/top14/paris) (2018 - 2020)
-- [ラシン92](/teams/top14/racing-92) (2020)
-- [スタッド・フランセ](/teams/top14/paris) (2021)
-- [ラシン92](/teams/top14/racing-92) (2021 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2009 - 2012)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2020)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2021 - )

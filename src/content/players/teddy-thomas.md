@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Biarritz Olympique Pays Basque (2004 - 2014)
-- [ラシン92](/teams/top14/racing-92) (2014 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
-- [トゥールーズ](/teams/top14/toulouse) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2025 - )

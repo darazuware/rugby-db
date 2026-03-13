@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- グラスゴー・ウォリアーズ (2020 - 2022)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - )
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2020 - 2022)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - )

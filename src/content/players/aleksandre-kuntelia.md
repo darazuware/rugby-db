@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Lelo Saracens Tbilissi (2015 - 2021)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )

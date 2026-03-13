@@ -23,6 +23,6 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2009 - 2019)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2009 - 2019)
 - CA Brive Corrèze Limousin (2019 - 2023)
-- [トゥーロン](/teams/top14/toulon) (2023 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )

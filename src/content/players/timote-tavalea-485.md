@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2022 - 2025)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2022 - 2025)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2025 - )

@@ -26,5 +26,5 @@ facebook: ""
 - Melbourne Rising (2017 - 2018)
 - Wasps (2018 - 2020)
 - Hartpury RFC (2021 - 2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2024 - )

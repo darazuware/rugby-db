@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Old Glory DC RFC (2018 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

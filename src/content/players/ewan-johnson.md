@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Plouzané (2012 - 2017)
-- [ラシン92](/teams/top14/racing-92) (2017 - 2020)
-- [ヴァンヌ](/teams/top14/vannes) (2020 - 2023)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2017 - 2020)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2023)
 - Oyonnax Rugby (2023 - 2025)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

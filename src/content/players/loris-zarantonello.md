@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 - Coquelicots Montéchois Rugby (2005 - 2012)
 - Union Sportive Montalbanaise (2012 - 2019)
 - Sporting Union Agenais (2019 - 2023)
-- [カストル](/teams/top14/castres) (2023 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2023 - )

@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Newcastle (2013 - 2015)
 - Northampton Saints (2015 - 2018)
 - Wasps (2018 - 2021)
-- [トゥーロン](/teams/top14/toulon) (2021 - 2024)
-- [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2024)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )

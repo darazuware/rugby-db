@@ -23,7 +23,7 @@ twitter: "所属チーム"
 facebook: "身長"
 ---
 
-- DHLストーマーズ
-- [トゥールーズ](/teams/top14/toulouse) (2017 - 2021)
-- [トゥーロン](/teams/top14/toulon) (2021 - 2023)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - )
+- 🇿🇦 DHLストーマーズ
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - 2021)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2023)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - )

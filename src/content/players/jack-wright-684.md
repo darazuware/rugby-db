@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Tuggeranong Vikings (2019 - 2022)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )

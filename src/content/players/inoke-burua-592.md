@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2022 - 2024)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2024 - )

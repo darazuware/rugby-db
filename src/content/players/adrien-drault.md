@@ -25,4 +25,4 @@ facebook: ""
 
 - AS Cénac Latresne (2013 - 2017)
 - Rugby Club de la Pimpine (2017 - 2020)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )

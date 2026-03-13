@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - USON Nevers Rugby (2019 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

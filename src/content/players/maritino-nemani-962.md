@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2012)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2012 - 2013)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2012)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2012 - 2013)
 - Bay of Plenty Steamers (2013 - 2015)
 - FC Grenoble Rugby (2015 - 2017)
 - Bay of Plenty Steamers (2016)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2025)
-- ハリウッドベッツ・シャークス (2025 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2025)
+- 🇿🇦 ハリウッドベッツ・シャークス (2025 - )

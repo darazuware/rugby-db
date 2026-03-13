@@ -24,12 +24,12 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2018 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
 - Bay of Plenty Steamers (2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
 - Bay of Plenty Steamers (2020 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
 - Bay of Plenty Steamers (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
 - Bay of Plenty Steamers (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - Central Cheetahs (2017 - 2020)
 - Leicester Tigers (2020 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

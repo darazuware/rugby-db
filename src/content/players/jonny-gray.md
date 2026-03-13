@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- グラスゴー・ウォリアーズ (2013 - 2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
-- グラスゴー・ウォリアーズ (2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2024)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

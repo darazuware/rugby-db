@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2017)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2023)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2018 - 2023)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2023 - )

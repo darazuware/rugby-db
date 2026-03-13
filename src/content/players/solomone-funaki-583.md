@@ -24,12 +24,12 @@ facebook: ""
 ---
 
 - Hawke's Bay Magpies (2018 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
 - Hawke's Bay Magpies (2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
 - Hawke's Bay Magpies (2021)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
 - Hawke's Bay Magpies (2022)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
-- ドラゴンズ・ラグビー (2024 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2024 - )

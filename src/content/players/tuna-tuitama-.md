@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Samoa 7's (2023 - 2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

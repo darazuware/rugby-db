@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- エディンバラ・ラグビー (2014 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2014 - 2025)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

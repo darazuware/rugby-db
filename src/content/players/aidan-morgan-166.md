@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2019 - 2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- エミレーツ・ライオンズ (2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- エミレーツ・ライオンズ (2022)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
-- エミレーツ・ライオンズ (2023)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- アルスター・ラグビー (2024 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇿🇦 エミレーツ・ライオンズ (2019 - 2021)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- 🇿🇦 エミレーツ・ライオンズ (2022)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
+- 🇿🇦 エミレーツ・ライオンズ (2022)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
+- 🇿🇦 エミレーツ・ライオンズ (2023)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
+- 🇮🇪 アルスター・ラグビー (2024 - 2025)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

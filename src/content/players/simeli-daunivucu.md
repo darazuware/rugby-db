@@ -27,6 +27,6 @@ facebook: "https://www.facebook.com/staderochelais"
 - Valence Romans Drôme Rugby (2012 - 2015)
 - Saint-Jean d'Angély (2015 - 2017)
 - Union Cognac-Saint-Jean d'Angély (2017 - 2019)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2019)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2019)
 - Union Cognac-Saint-Jean d'Angély (2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

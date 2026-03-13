@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - Suva Rugby Union (2020 - 2021)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)
 - Nissa Rugby (2023)
-- [スタッド・フランセ](/teams/top14/paris) (2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024)
 - Nissa Rugby (2024)
 - Ealing Trailfinders (2024 - 2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

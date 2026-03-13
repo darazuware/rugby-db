@@ -26,5 +26,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Rugby Club du Diamant Martinique (2009 - 2012)
 - Saint-Jo Ovalie (2012 - 2013)
 - Sporting Union Agenais (2016 - 2021)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

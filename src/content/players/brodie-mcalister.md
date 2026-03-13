@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

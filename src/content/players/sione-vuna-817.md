@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2023)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )

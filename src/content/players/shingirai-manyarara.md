@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2023 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

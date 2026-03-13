@@ -23,7 +23,7 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
-- メルボルン・レベルズ (2017 - 2020)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
+- 🇦🇺 メルボルン・レベルズ (2017 - 2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2024)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )

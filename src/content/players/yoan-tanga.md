@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Tremblay-en-France (2010 - 2012)
 - Terres de France Rugby (2012 - 2013)
-- [カストル](/teams/top14/castres) (2013 - 2017)
+- 🇫🇷 [カストル](/teams/top14/castres) (2013 - 2017)
 - Sporting Union Agenais (2017 - 2019)
-- [ラシン92](/teams/top14/racing-92) (2019 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

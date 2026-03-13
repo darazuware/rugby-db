@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2018)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2018)
 - Manawatu Turbos (2018 - 2020)
 - Rugby United New-York (2020 - 2021)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

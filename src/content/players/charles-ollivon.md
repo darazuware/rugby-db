@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Saint-Pée UC (2004 - 2009)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2015)
-- [トゥーロン](/teams/top14/toulon) (2015 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2015)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - )

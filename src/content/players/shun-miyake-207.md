@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Tasman Mako (2022 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2025)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )

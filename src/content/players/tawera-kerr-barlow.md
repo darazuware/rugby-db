@@ -23,6 +23,6 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2010 - 2017)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2025)
-- [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2010 - 2017)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2025)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Jaguares XV (2022)
 - Club Regatas de Bella Vista (2022)
 - London Irish (2022 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

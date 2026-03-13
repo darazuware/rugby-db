@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2020)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2020)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - )

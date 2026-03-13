@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2021)
 - Northland Taniwha (2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - Northland Taniwha (2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )

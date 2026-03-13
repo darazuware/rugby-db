@@ -6,7 +6,7 @@ team: "清水建設江東ブルーシャークス"
 height: "183"
 weight: "95"
 birth_date: "2003.03.13"
-age: 22
+age: 23
 high_school: "浪速高校"
 university: "近畿大学"
 caps: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- ハリウッドベッツ・シャークス (2024 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2024 - )

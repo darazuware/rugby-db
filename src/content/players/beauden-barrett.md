@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- ヴォーダコム・ブルズ (2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- ヴォーダコム・ブルズ (2020)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
+- 🇿🇦 ヴォーダコム・ブルズ (2019)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- 🇿🇦 ヴォーダコム・ブルズ (2020)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

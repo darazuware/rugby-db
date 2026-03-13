@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - CA Brive Corrèze Limousin (2010 - 2018)
-- [ラシン92](/teams/top14/racing-92) (2018 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - )

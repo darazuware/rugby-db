@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Rugby Athlétique Club Castelroussin (2004 - 2008)
 - U.S. Tours (2008 - 2010)
-- [クレルモン](/teams/top14/clermont) (2010 - 2024)
-- [カストル](/teams/top14/castres) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2010 - 2024)
+- 🇫🇷 [カストル](/teams/top14/castres) (2024 - )

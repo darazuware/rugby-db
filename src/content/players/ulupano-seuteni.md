@@ -23,8 +23,8 @@ twitter: "https://www.twitter.com/UJ_Seuteni"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2012 - 2014)
-- [トゥーロン](/teams/top14/toulon) (2014 - 2016)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2012 - 2014)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2014 - 2016)
 - Oyonnax Rugby (2016 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )

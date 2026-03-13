@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2023)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

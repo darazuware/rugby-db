@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Union Sportive Montalbanaise (2007 - 2014)
-- [トゥールーズ](/teams/top14/toulouse) (2014 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2014 - 2020)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )

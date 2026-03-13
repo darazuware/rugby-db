@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023 - 2025)
-- ハリウッドベッツ・シャークス (2025 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023 - 2025)
+- 🇿🇦 ハリウッドベッツ・シャークス (2025 - )

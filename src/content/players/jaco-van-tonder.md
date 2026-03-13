@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [クレルモン](/teams/top14/clermont) (2016 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2023)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

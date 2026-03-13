@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - )
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2022 - )

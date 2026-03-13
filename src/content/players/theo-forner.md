@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Espira-de-l'Agly, Baixas et Peyrestortes (2006 - 2017)
 - JO Prades Conflent Canigou (2017 - 2018)
 - US Thuirnoise (2018 - 2019)
-- [ペルピニャン](/teams/top14/perpignan) (2019 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2019 - )

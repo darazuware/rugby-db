@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- グラスゴー・ウォリアーズ (2017 - 2022)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2017 - 2022)
 - Wasps (2022)
-- マンスター・ラグビー (2022)
+- 🇮🇪 マンスター・ラグビー (2022)
 - Newcastle (2023 - 2025)
 - Wasps (2023)
-- マンスター・ラグビー (2023)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )
+- 🇮🇪 マンスター・ラグビー (2023)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

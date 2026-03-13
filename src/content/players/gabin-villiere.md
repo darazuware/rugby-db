@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - RC Vire (2004 - 2013)
 - Rouen Normandie Rugby (2013 - 2019)
-- [トゥーロン](/teams/top14/toulon) (2019 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - )

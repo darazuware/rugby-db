@@ -6,7 +6,7 @@ team: "モンペリエ"
 height: "175"
 weight: "115"
 birth_date: "2000.03.13"
-age: 25
+age: 26
 high_school: ""
 university: ""
 caps: "France"
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - Bidart Union Club (2005 - 2014)
 - Biarritz Olympique Pays Basque (2014 - 2023)
-- [モンペリエ](/teams/top14/montpellier) (2023 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )

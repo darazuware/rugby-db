@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sydenham Rugby Club (2023 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - )

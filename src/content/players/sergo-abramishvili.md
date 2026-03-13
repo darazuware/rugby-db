@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Khvamli Rugby (2020 - 2021)
-- [スタッド・フランセ](/teams/top14/paris) (2021 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - )

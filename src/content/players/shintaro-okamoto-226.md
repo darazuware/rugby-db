@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - 2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2021 - 2024)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024 - )

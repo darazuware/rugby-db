@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Brothers Rugby Club (2022 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )

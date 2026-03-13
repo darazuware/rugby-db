@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2018)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2018)
 - Sunwolves (2018 - 2019)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2019 - 2023)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2019 - 2023)
 - Sunwolves (2020)
-- ハリウッドベッツ・シャークス (2023 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2023 - )

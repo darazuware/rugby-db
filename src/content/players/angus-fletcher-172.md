@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Tasman Mako (2022 - 2023)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2024 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016 - 2018)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2022)
-- [クレルモン](/teams/top14/clermont) (2022 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2016 - 2018)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2022)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )

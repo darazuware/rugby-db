@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Rugby Nice Côte d'Azur Université Racing (2003 - 2006)
-- [トゥーロン](/teams/top14/toulon) (2006 - 2012)
-- [スタッド・フランセ](/teams/top14/paris) (2012 - 2017)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2022)
-- [トゥーロン](/teams/top14/toulon) (2022 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2012)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - 2017)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2022)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )

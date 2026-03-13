@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2021 - 2022)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )

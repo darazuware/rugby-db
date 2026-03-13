@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2025)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2025)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

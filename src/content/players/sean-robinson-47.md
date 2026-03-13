@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Newcastle (2014 - 2023)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )

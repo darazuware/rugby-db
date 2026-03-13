@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Parentis Sport Rugby (2006 - 2013)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2015)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2015)
 - Sporting Union Agenais (2015 - 2019)
-- [リヨン](/teams/top14/lyon) (2019 - 2022)
-- [ポー](/teams/top14/pau) (2022 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2019 - 2022)
+- 🇫🇷 [ポー](/teams/top14/pau) (2022 - )

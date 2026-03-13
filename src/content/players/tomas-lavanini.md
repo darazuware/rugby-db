@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2014 - 2015)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - 2015)
 - Jaguares (2015 - 2019)
 - Leicester Tigers (2019 - 2021)
-- [クレルモン](/teams/top14/clermont) (2021 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - 2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - 2024)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

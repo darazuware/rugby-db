@@ -23,7 +23,7 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- メルボルン・レベルズ (2017 - 2018)
+- 🇦🇺 メルボルン・レベルズ (2017 - 2018)
 - Southern Districts (2018 - 2019)
 - Utah Warriors (2019)
 - Southern Districts (2019)
@@ -32,9 +32,9 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Utah Warriors (2020 - 2021)
 - Southern Districts (2021 - 2022)
 - San Diego Legion (2022 - 2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

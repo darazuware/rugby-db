@@ -23,7 +23,7 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ペルピニャン](/teams/top14/perpignan) (2013 - 2016)
-- ベネットン・ラグビー・トレヴィーゾ (2016 - 2021)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2016)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2016 - 2021)
 - Harlequins (2021 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

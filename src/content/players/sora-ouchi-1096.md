@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - 2023)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2023 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - 2023)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2023 - )

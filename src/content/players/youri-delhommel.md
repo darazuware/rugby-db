@@ -25,7 +25,7 @@ facebook: ""
 
 - US Ris-Orangis Rugby (2004 - 2010)
 - Rugby Club Massy Essonne (2010 - 2018)
-- [モンペリエ](/teams/top14/montpellier) (2018)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018)
 - Rugby Club Massy Essonne (2019)
-- [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
-- [ポー](/teams/top14/pau) (2021 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

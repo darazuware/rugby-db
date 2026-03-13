@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2025)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - 2025)
 - LeRIRO Fukuoka (2025 - )

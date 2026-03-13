@@ -23,10 +23,10 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ヴァンヌ](/teams/top14/vannes) (2010 - 2024)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2010 - 2024)
 - Stade Nantais (2024)
-- [ヴァンヌ](/teams/top14/vannes) (2025)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025)
 - Stade Nantais (2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025)
 - Stade Nantais (2026)
-- [ヴァンヌ](/teams/top14/vannes) (2026 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2026 - )

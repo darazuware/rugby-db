@@ -23,4 +23,4 @@ twitter: "https://twitter.com/DavidAinuu"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- [トゥールーズ](/teams/top14/toulouse) (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

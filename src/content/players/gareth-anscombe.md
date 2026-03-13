@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2014)
-- カーディフ・ラグビー (2014 - 2019)
-- オスプリーズ (2019 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2014)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 カーディフ・ラグビー (2014 - 2019)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 オスプリーズ (2019 - 2023)
 - sans club (2023 - 2024)
 - Gloucester Rugby (2024 - 2025)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

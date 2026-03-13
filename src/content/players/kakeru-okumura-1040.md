@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2020 - 2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2026)
-- [トゥールーズ](/teams/top14/toulouse) (2024)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2020 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - 2026)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024)

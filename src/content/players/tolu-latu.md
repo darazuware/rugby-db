@@ -23,10 +23,10 @@ twitter: "https://twitter.com/hashtag/fievresr"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
-- [モンペリエ](/teams/top14/montpellier) (2023)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2023)
-- [モンペリエ](/teams/top14/montpellier) (2024)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

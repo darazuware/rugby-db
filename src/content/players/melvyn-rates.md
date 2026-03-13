@@ -26,4 +26,4 @@ facebook: ""
 - US Rhône XV (2010 - 2016)
 - Valence Romans Drôme Rugby (2016 - 2022)
 - FC Grenoble Rugby (2022 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

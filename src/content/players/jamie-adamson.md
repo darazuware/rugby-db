@@ -25,4 +25,4 @@ facebook: ""
 
 - Angleterre 7's (2019 - 2023)
 - Easts Rugby Union Club (2023 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

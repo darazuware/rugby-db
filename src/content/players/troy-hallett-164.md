@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Akita Northern Bullets (2024 - 2025)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2025 - )
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2025 - )

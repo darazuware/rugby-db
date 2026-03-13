@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2021)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2018 - 2019)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2021)
 - Bay of Plenty Steamers (2021)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022)
 - Bay of Plenty Steamers (2022)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - )

@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Anglet Olympique Rugby Club (2011 - 2012)
 - Biarritz Olympique Pays Basque (2012 - 2022)
-- [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )

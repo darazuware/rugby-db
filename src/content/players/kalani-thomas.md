@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )

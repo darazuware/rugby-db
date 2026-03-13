@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2023)
-- ハリウッドベッツ・シャークス (2023 - 2024)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2021 - 2023)
+- 🇿🇦 ハリウッドベッツ・シャークス (2023 - 2024)
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2024 - )

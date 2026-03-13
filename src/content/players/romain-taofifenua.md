@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 
 - Amicale Laïque Échirolles (2004 - 2005)
 - Union Sportive Athlétique de Limoges (2005 - 2007)
-- [クレルモン](/teams/top14/clermont) (2007 - 2008)
-- [ペルピニャン](/teams/top14/perpignan) (2008 - 2014)
-- [トゥーロン](/teams/top14/toulon) (2014 - 2021)
-- [リヨン](/teams/top14/lyon) (2021 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2007 - 2008)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2008 - 2014)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2014 - 2021)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - 2024)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

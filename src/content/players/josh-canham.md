@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2020 - 2024)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )
+- 🇦🇺 メルボルン・レベルズ (2020 - 2024)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sydney Roosters (2015 - 2024)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2024 - 2025)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

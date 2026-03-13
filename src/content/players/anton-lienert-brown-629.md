@@ -23,16 +23,16 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2019)
 - Waikato Mooloos (2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2021)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2021)
 - Waikato Mooloos (2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
 - Waikato Mooloos (2021)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2024)
 - Waikato Mooloos (2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
 - Waikato Mooloos (2024)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - 2026)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2025 - 2026)
 - Waikato Mooloos (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

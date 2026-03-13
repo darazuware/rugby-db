@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - US Issoire (2011 - 2013)
-- [クレルモン](/teams/top14/clermont) (2013 - 2025)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2013 - 2025)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

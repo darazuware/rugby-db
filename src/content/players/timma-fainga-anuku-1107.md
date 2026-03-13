@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - West Brisbane Bulldogs (2024 - 2025)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )

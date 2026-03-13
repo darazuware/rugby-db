@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2021 - 2022)
+- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) (2021 - 2022)
 - BlackRams Tokyo (2022 - )

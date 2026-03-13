@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2022)
-- [モンペリエ](/teams/top14/montpellier) (2022 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2022)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2025)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

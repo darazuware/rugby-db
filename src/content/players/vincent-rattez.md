@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - CSM Gennevilliers Rugby (2004 - 2005)
 - Paris Université Club (2005 - 2009)
-- [ラシン92](/teams/top14/racing-92) (2009 - 2011)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2009 - 2011)
 - Racing Club Narbonnais (2011 - 2016)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
-- [リヨン](/teams/top14/lyon) (2023 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2020)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
-- [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
+- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) (2023 - )

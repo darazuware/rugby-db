@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - 2023)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - 2023)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2023 - )

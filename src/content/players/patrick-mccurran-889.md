@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Waikato Mooloos (2021 - 2025)
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )
+- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2025 - )

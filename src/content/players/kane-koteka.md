@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2014 - 2017)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2018 - 2019)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2019)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2023)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2014 - 2017)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2018 - 2019)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2023)
 - sans club (2023 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

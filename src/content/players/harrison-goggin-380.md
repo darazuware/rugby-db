@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - North Brisbane Rugby Club (2024 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

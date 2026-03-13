@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Stade Nantais (2009 - 2010)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2017)
-- [ヴァンヌ](/teams/top14/vannes) (2017 - 2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2017)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - 2020)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - )

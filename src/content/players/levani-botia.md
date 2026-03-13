@@ -23,4 +23,4 @@ twitter: "https://www.twitter.com/BotiaLepani"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - )

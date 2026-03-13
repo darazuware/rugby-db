@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Easts Rugby Union Club (2019 - 2020)
-- メルボルン・レベルズ (2020 - 2022)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - )
+- 🇦🇺 メルボルン・レベルズ (2020 - 2022)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - )

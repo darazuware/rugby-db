@@ -29,5 +29,5 @@ facebook: ""
 - Oyonnax Rugby (2014)
 - RC Haute Bresse (2014)
 - Oyonnax Rugby (2014 - 2023)
-- [ラシン92](/teams/top14/racing-92) (2023 - 2025)
-- [ポー](/teams/top14/pau) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2025)
+- 🇫🇷 [ポー](/teams/top14/pau) (2025 - )

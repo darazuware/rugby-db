@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2020)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2020 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2017 - 2020)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2020 - )

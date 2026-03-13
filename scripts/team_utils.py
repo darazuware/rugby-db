@@ -84,17 +84,21 @@ def get_team_info(team_name):
             return data
     return None
 
-def get_team_link(team_name):
-    """チーム名を Markdown リンクに変換する。日本語名を優先表示。URCは除外"""
+def get_team_link(team_name, include_flag=False):
+    """チーム名を Markdown リンクに変換する。日本語名を優先表示。URCは除外。include_flag=Trueで国旗を付与"""
     info = get_team_info(team_name)
     if info:
-        # URC はリンクしない
         # URC や Rebels (活動休止) はリンクしない
-        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
-            return info.get('jp', team_name)
-            
         display_name = info.get('jp', team_name)
-        return f"[{display_name}](/teams/{info['league']}/{info['slug']})"
+        
+        # 国旗の付与
+        flag = info.get('flag', '') if include_flag else ''
+        prefix = f"{flag} " if flag else ""
+        
+        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
+            return f"{prefix}{display_name}"
+            
+        return f"{prefix}[{display_name}](/teams/{info['league']}/{info['slug']})"
     return team_name
 
 def linkify_career(career_text):

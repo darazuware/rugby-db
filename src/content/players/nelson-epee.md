@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - U.A. Saverdun (2008 - 2017)
-- [トゥールーズ](/teams/top14/toulouse) (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

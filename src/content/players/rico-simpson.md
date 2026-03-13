@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )

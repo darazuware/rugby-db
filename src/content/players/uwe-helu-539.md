@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2019)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - 2021)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2024)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - 2021)
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - 2024)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2024 - )

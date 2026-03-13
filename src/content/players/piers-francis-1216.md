@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- エディンバラ・ラグビー (2013 - 2014)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2017)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2013 - 2014)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2017)
 - Northampton Saints (2017 - 2022)
 - Bath Rugby (2022 - 2023)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - 2026)
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2023 - 2026)
 - Bath Rugby (2024)

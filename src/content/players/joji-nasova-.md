@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - FIDJI 7's (2023 - 2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

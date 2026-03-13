@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2020)
 - Tasman Mako (2020)
 - sans club (2021 - 2022)
 - Tasman Mako (2021)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
 - Tasman Mako (2022)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - 2024)
 - Tasman Mako (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

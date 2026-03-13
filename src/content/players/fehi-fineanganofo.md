@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2022 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
 - Bay of Plenty Steamers (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
 - Bay of Plenty Steamers (2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - US Colomiers (2009 - 2018)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )

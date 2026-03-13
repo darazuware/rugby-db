@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Université du Queensland (2019 - 2020)
-- メルボルン・レベルズ (2020 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- 🇦🇺 メルボルン・レベルズ (2020 - 2024)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )

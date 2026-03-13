@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
 - Wasps (2019 - 2022)
-- アルスター・ラグビー (2022 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )
+- 🇮🇪 アルスター・ラグビー (2022 - 2023)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )

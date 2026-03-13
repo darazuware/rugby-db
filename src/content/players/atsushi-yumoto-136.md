@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2022)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2022 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - San Diego Legion (2022 - 2024)
 - NOLA Gold (2024 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

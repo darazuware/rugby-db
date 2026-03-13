@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2013 - 2017)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - )
+- 🇦🇺 メルボルン・レベルズ (2013 - 2017)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2021 - )

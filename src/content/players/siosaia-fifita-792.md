@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2023)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2023)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - )

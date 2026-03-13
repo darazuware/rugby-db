@@ -23,6 +23,6 @@ twitter: "https://www.twitter.com/dill10leyds"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2014)
-- DHLストーマーズ (2014 - 2020)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2014)
+- 🇿🇦 DHLストーマーズ (2014 - 2020)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

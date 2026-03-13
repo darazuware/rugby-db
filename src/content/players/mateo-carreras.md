@@ -26,6 +26,6 @@ facebook: ""
 - Jaguares XV (2018 - 2019)
 - Jaguares (2019 - 2020)
 - Newcastle (2020 - 2023)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
 - Newcastle (2024)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

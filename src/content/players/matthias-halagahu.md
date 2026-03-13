@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - CA Fréjus Saint-Raphaël (2006 - 2016)
-- [トゥーロン](/teams/top14/toulon) (2016 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - )

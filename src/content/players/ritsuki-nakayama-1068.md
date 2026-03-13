@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2024 - )

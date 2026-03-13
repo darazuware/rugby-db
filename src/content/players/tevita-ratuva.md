@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Brisbane City (2017 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
-- スカーレッツ (2019 - 2021)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2019 - 2021)
 - CA Brive Corrèze Limousin (2021 - 2025)
-- [クレルモン](/teams/top14/clermont) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

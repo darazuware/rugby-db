@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2016 - 2020)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2020 - 2023)
+- 🇦🇺 メルボルン・レベルズ (2016 - 2020)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2020 - 2023)
 - BlackRams Tokyo (2023 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

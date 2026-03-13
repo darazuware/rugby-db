@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Stado Tarbes Pyrénées Rugby (2004 - 2015)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2021)
-- [ポー](/teams/top14/pau) (2021 - 2024)
-- [カストル](/teams/top14/castres) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2021)
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - 2024)
+- 🇫🇷 [カストル](/teams/top14/castres) (2024 - )

@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - )

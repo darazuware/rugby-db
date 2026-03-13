@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2022)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2017 - 2022)
 - BlackRams Tokyo (2022 - 2025)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )

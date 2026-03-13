@@ -23,9 +23,9 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
 - Stade Montois Rugby Pro (2022)
-- [スタッド・フランセ](/teams/top14/paris) (2023)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023)
 - Stade Montois Rugby Pro (2023 - 2024)
 - Oyonnax Rugby (2024 - 2025)
-- [カストル](/teams/top14/castres) (2025 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

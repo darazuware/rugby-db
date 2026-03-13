@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Blagnac (2011 - 2018)
-- [トゥールーズ](/teams/top14/toulouse) (2018 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - Southland Stags (2019 - 2022)
-- ヴォーダコム・ブルズ (2022 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- ヴォーダコム・ブルズ (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- ヴォーダコム・ブルズ (2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇿🇦 ヴォーダコム・ブルズ (2022 - 2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
+- 🇿🇦 ヴォーダコム・ブルズ (2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

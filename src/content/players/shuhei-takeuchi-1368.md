@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2020 - 2025)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2020 - 2025)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )

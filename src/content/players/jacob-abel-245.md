@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2020)
 - Gordon Rugby Football Club (2020 - 2022)
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2022 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2022 - )

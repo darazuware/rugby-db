@@ -25,5 +25,5 @@ facebook: ""
 
 - SC Decazeville (2003 - 2013)
 - Stade Aurillacois Cantal Auvergne (2013 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - 2024)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2024)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

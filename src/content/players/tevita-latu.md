@@ -25,5 +25,5 @@ facebook: ""
 
 - Southland Stags (2019 - 2023)
 - Northland Taniwha (2023 - 2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

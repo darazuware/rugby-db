@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - 2023)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2022 - 2023)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

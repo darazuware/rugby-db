@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023 - 2025)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023 - 2025)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )

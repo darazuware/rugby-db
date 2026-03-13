@@ -23,8 +23,8 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2015 - 2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023)
-- [ラシン92](/teams/top14/racing-92) (2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2023)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )

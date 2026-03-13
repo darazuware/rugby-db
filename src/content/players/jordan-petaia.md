@@ -23,6 +23,6 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2024)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2024)
 - Los Angeles Chargers (2024 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

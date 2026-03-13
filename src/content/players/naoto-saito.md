@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Sunwolves (2019 - 2020)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2024)
-- [トゥールーズ](/teams/top14/toulouse) (2024 - )
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2020 - 2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

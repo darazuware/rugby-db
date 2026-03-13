@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
 - Northern Suburbs RFC (2020)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021)
 - Northern Suburbs RFC (2021)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - )

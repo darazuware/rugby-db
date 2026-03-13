@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2022 - 2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

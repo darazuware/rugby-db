@@ -25,4 +25,4 @@ facebook: ""
 
 - Cordoba Athletic Club (2022 - 2023)
 - Dogos XV (2023 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

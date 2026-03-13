@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

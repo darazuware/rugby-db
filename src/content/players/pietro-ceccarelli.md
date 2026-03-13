@@ -24,10 +24,10 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Lazio (2011 - 2012)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2014)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2014)
 - AS Mâcon Rugby (2014 - 2015)
-- ゼブレ・パルマ (2015 - 2017)
+- 🇮🇹 ゼブレ・パルマ (2015 - 2017)
 - Oyonnax Rugby (2017 - 2018)
-- エディンバラ・ラグビー (2018 - 2020)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2018 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

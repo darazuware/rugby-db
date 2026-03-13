@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- ヴォーダコム・ブルズ (2020 - 2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- ヴォーダコム・ブルズ (2023)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- ヴォーダコム・ブルズ (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- ヴォーダコム・ブルズ (2024)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- ヴォーダコム・ブルズ (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- 🇿🇦 ヴォーダコム・ブルズ (2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
+- 🇿🇦 ヴォーダコム・ブルズ (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

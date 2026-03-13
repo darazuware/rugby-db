@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - RC Metz (2011 - 2017)
-- [トゥーロン](/teams/top14/toulon) (2017 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - )

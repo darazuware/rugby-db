@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Hyères Carqueiranne La Crau (2007 - 2015)
-- [トゥーロン](/teams/top14/toulon) (2015 - 2020)
-- [カストル](/teams/top14/castres) (2020 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2020)
+- 🇫🇷 [カストル](/teams/top14/castres) (2020 - )

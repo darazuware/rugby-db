@@ -23,8 +23,8 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ペルピニャン](/teams/top14/perpignan) (2017 - 2021)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2017 - 2021)
 - Stade Montois Rugby Pro (2021)
-- [ペルピニャン](/teams/top14/perpignan) (2022)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022)
 - Stade Montois Rugby Pro (2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )

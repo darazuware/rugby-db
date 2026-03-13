@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2015 - 2019)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2023)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )
+- 🇿🇦 エミレーツ・ライオンズ (2015 - 2019)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2019 - 2023)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2023 - )

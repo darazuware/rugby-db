@@ -23,7 +23,7 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- エディンバラ・ラグビー (2015 - 2023)
-- [トゥールーズ](/teams/top14/toulouse) (2023)
-- エディンバラ・ラグビー (2024)
-- [トゥールーズ](/teams/top14/toulouse) (2024 - )
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2015 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

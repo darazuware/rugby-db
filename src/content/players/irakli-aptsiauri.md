@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Lelo Saracens Tbilissi (2020 - 2021)
 - FC Grenoble Rugby (2021 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - BlackRams Tokyo (2023 - 2025)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2025 - )

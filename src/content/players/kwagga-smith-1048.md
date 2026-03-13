@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2014 - 2019)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - )
+- 🇿🇦 エミレーツ・ライオンズ (2014 - 2019)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2019 - )

@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [クレルモン](/teams/top14/clermont) (2012 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2025)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

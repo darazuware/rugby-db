@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Manawatu Turbos (2023 - 2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

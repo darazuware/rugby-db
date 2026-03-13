@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2010 - 2011)
-- メルボルン・レベルズ (2011 - 2015)
-- [スタッド・フランセ](/teams/top14/paris) (2015 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2010 - 2011)
+- 🇦🇺 メルボルン・レベルズ (2011 - 2015)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2015 - )

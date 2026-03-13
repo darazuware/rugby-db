@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

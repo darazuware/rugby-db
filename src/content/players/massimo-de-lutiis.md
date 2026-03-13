@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2022 - 2023)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )
+- 🇿🇦 エミレーツ・ライオンズ (2022 - 2023)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )

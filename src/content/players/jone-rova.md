@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

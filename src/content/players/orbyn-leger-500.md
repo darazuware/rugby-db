@@ -6,7 +6,7 @@ team: "NECグリーンロケッツ東葛"
 height: "184"
 weight: "94"
 birth_date: "1997.03.13"
-age: 28
+age: 29
 high_school: "HamiltonBoysHighschol"
 university: ""
 caps: ""
@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
 - Counties Manukau Steelers (2019 - 2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
 - Counties Manukau Steelers (2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- ハリウッドベッツ・シャークス (2021 - 2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2024)
 - Counties Manukau Steelers (2021)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024 - )

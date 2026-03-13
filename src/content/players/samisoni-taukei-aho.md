@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
 - Waikato Mooloos (2019)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
 - Waikato Mooloos (2020)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - )

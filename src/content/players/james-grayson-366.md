@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - Northampton Saints (2017 - 2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2023)
 - Northampton Saints (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - Northampton Saints (2023)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024 - 2026)
 - Northampton Saints (2024)

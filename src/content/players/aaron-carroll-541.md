@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - Bay of Plenty Steamers (2018 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
 - Bay of Plenty Steamers (2020 - 2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
 - US Carcassonne (2021 - 2023)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )

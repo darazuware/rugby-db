@@ -24,10 +24,10 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Sporting Union Agenais (2012 - 2014)
-- [クレルモン](/teams/top14/clermont) (2014 - 2015)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015)
-- [クレルモン](/teams/top14/clermont) (2016)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016)
-- [クレルモン](/teams/top14/clermont) (2016 - 2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2015)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2020)
 - Oyonnax Rugby (2020 - 2024)
-- [リヨン](/teams/top14/lyon) (2024 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )

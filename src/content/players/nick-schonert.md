@@ -24,8 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Worcester Warriors (2015 - 2021)
-- ハリウッドベッツ・シャークス (2021 - 2024)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024)
-- ハリウッドベッツ・シャークス (2025)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025)
-- [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2024)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2024)
+- 🇿🇦 ハリウッドベッツ・シャークス (2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

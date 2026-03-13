@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - RC Neuilly-sur-Marne (2011 - 2018)
 - RC Champs-sur-Marne Val Maubuée (2018 - 2019)
-- [スタッド・フランセ](/teams/top14/paris) (2019 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - )

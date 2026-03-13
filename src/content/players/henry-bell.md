@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2022)
 - Utah Warriors (2022)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
 - Utah Warriors (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )

@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - Parramatta Eels (2015 - 2017)
-- [トゥーロン](/teams/top14/toulon) (2017 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - 2018)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
 - Bristol Bears (2019 - 2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2020)
-- [リヨン](/teams/top14/lyon) (2023 - 2025)
-- [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - 2025)
+- 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) (2025 - )

@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- ヴォーダコム・ブルズ (2018 - 2019)
-- ヴォーダコム・ブルズ (2019 - 2020)
-- [カストル](/teams/top14/castres) (2020 - 2024)
+- 🇿🇦 ヴォーダコム・ブルズ (2018 - 2019)
+- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2020)
+- 🇫🇷 [カストル](/teams/top14/castres) (2020 - 2024)
 - FC Grenoble Rugby (2024 - 2025)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2025 - )

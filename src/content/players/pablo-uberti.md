@@ -25,6 +25,6 @@ facebook: ""
 
 - Capbreton Hossegor Rugby (2004 - 2013)
 - US Tyrosse (2013 - 2016)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2018)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2018)
 - FC Grenoble Rugby (2018 - 2020)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )

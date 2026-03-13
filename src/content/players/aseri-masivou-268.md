@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2021 - 2025)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2025 - )

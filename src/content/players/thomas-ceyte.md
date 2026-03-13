@@ -29,5 +29,5 @@ facebook: ""
 - Association Sportive Béziers Hérault (2016)
 - US Dax Rugby Landes (2016 - 2017)
 - USON Nevers Rugby (2017 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )

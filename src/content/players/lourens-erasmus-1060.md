@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2015 - 2019)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2022)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2025)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )
+- 🇿🇦 エミレーツ・ライオンズ (2015 - 2019)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2025)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2025 - )

@@ -23,8 +23,8 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
-- [トゥーロン](/teams/top14/toulon) (2022 - 2023)
-- [ペルピニャン](/teams/top14/perpignan) (2023)
-- [トゥーロン](/teams/top14/toulon) (2024)
-- [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - 2023)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )

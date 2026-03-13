@@ -23,16 +23,16 @@ twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2013 - 2015)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2013 - 2015)
 - Sunwolves (2015)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2016)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2016)
 - Sunwolves (2016)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2016)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2016)
 - Sunwolves (2016)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2017 - 2018)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2017 - 2018)
 - Sunwolves (2017)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2018)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2018)
 - Sunwolves (2018)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2025)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - 2025)
 - Sunwolves (2019)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2025 - )

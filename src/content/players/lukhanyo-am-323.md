@@ -24,10 +24,10 @@ facebook: ""
 ---
 
 - Southern Kings (2015 - 2016)
-- ハリウッドベッツ・シャークス (2016 - 2021)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021)
-- ハリウッドベッツ・シャークス (2022 - 2025)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022)
-- ハリウッドベッツ・シャークス (2022)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
-- ハリウッドベッツ・シャークス (2026 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2016 - 2021)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021)
+- 🇿🇦 ハリウッドベッツ・シャークス (2022 - 2025)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2022)
+- 🇿🇦 ハリウッドベッツ・シャークス (2022)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - 2026)
+- 🇿🇦 ハリウッドベッツ・シャークス (2026 - )

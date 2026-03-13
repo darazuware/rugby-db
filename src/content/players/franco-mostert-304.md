@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- エミレーツ・ライオンズ (2013 - 2018)
+- 🇿🇦 エミレーツ・ライオンズ (2013 - 2018)
 - Gloucester Rugby (2018 - 2020)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2020 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2020 - )

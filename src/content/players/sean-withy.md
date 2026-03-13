@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2023)
 - Southland Stags (2023)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
 - Southland Stags (2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
 - Southland Stags (2024)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
 - Southland Stags (2025)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

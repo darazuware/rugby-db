@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - North Harbour (2021 - 2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
 - North Harbour (2023)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
 - North Harbour (2024 - 2025)
-- [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

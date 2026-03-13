@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2019)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - 2023)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2023 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2019)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2019 - 2023)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2023 - )

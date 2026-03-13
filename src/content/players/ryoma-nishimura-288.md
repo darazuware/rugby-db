@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Coca Cola West Red Sparks (2018 - 2021)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2021 - 2024)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

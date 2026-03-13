@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2018 - 2019)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - )

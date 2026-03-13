@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2023 - )
+- 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) (2023 - )

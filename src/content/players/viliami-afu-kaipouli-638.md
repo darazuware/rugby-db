@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2024)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2024 - )
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2021 - 2024)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2024 - )

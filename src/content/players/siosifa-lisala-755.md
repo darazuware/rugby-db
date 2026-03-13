@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - )
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2018 - 2019)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - )

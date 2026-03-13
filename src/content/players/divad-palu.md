@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2021 - 2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+- 🇦🇺 メルボルン・レベルズ (2021 - 2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

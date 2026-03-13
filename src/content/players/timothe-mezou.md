@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Union Rugbystique de Landerneau (2016 - 2019)
-- [ヴァンヌ](/teams/top14/vannes) (2019 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2019 - )

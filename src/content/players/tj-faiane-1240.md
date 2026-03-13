@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2021)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
-- [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2021)
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
+- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) (2024 - )

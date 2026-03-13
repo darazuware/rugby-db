@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2017 - 2018)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - )
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2018 - )

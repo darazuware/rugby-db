@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- メルボルン・レベルズ (2013 - 2019)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2019 - 2021)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2023)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023 - 2025)
-- [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024)
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )
+- 🇦🇺 メルボルン・レベルズ (2013 - 2019)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2019 - 2021)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2021 - 2023)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2023)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2023 - 2025)
+- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) (2024)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2024)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2025 - )

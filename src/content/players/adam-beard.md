@@ -23,5 +23,5 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- オスプリーズ (2015 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - )
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 オスプリーズ (2015 - 2025)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

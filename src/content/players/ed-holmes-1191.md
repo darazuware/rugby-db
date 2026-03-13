@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2018)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2018)
 - Bristol Bears (2018 - 2024)
-- ハリウッドベッツ・シャークス (2024 - )
+- 🇿🇦 ハリウッドベッツ・シャークス (2024 - )

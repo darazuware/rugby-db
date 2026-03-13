@@ -23,4 +23,4 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- [カストル](/teams/top14/castres) (2002 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2002 - )

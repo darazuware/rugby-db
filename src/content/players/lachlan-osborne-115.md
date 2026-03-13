@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - 2024)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - 2025)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )
+- 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) (2021 - 2024)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2024 - 2025)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )

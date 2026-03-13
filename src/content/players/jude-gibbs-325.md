@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Northern Suburbs RFC (2022 - 2024)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2025)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2025)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2025 - )

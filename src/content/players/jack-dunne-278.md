@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- レンスター・ラグビー (2018 - 2022)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2025)
-- [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )
+- 🇮🇪 レンスター・ラグビー (2018 - 2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2025)
+- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) (2025 - )

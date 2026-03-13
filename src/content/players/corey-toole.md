@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Aussie 7's (2021 - 2022)
-- [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - )
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - )

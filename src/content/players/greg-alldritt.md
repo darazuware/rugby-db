@@ -25,4 +25,4 @@ facebook: ""
 
 - SA Condom Rugby (2004 - 2008)
 - Rugby Club Auch (2008 - 2017)
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )

@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - Magnoac FC (2000 - 2011)
 - Rugby Club Auch (2011 - 2014)
-- [カストル](/teams/top14/castres) (2014 - 2017)
-- [トゥールーズ](/teams/top14/toulouse) (2017 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2014 - 2017)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

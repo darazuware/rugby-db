@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - FC Grenoble Rugby (2010 - 2024)
-- [クレルモン](/teams/top14/clermont) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )

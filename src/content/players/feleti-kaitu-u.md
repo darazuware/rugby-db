@@ -23,9 +23,9 @@ twitter: "https://x.com/flexkaituu"
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2022)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2022)
 - Tasman Mako (2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
 - Tasman Mako (2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
-- [ラシン92](/teams/top14/racing-92) (2024 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

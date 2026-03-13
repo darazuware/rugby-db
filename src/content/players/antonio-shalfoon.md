@@ -24,12 +24,12 @@ facebook: ""
 ---
 
 - Tasman Mako (2020 - 2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
 - Tasman Mako (2023)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
 - Tasman Mako (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
 - Tasman Mako (2024)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
 - Tasman Mako (2025)
-- [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - )

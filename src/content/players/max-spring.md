@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - US Nafarroa (2007 - 2016)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2019)
-- [ラシン92](/teams/top14/racing-92) (2019 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2019)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - )

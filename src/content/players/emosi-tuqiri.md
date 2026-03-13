@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - GPS Rugby Club (2019 - 2022)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2024)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2024)
 - Counties Manukau Steelers (2024)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025)
 - Counties Manukau Steelers (2025)
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

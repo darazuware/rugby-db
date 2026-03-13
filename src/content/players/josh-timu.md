@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2018)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2018)
 - Sunwolves (2018)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018)
 - Sunwolves (2019)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2025)
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2022)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2026)
-- [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2022)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2023 - 2026)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)

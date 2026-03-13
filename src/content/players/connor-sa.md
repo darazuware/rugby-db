@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2022)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2022)
 - US Carcassonne (2022)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
 - US Carcassonne (2023)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )

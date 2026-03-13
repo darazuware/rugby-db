@@ -24,9 +24,9 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - US Canton d'Alban (2011 - 2016)
-- [カストル](/teams/top14/castres) (2016 - 2022)
+- 🇫🇷 [カストル](/teams/top14/castres) (2016 - 2022)
 - US Carcassonne (2022 - 2023)
 - Sporting Club Albigeois (2023 - 2024)
-- [カストル](/teams/top14/castres) (2024)
+- 🇫🇷 [カストル](/teams/top14/castres) (2024)
 - Sporting Club Albigeois (2025)
-- [カストル](/teams/top14/castres) (2025 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

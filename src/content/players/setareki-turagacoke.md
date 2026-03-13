@@ -23,4 +23,4 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

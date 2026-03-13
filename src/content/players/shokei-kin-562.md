@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2014 - 2015)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2014 - 2015)
 - Sunwolves (2015)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
 - Sunwolves (2016)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2016)
 - Sunwolves (2016)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2017 - 2026)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2017 - 2026)
 - Sunwolves (2017)

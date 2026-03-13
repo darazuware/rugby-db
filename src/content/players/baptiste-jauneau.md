@@ -26,4 +26,4 @@ facebook: ""
 - AS Buzy-Ogeu Rugby (2008 - 2014)
 - FC Oloron (2014 - 2018)
 - Biarritz Olympique Pays Basque (2018 - 2021)
-- [クレルモン](/teams/top14/clermont) (2021 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - )

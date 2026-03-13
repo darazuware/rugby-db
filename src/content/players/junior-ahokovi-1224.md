@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2025 - )

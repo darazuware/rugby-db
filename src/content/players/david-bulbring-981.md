@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- スカーレッツ (2015 - 2019)
-- [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - )
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2015 - 2019)
+- 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) (2021 - )

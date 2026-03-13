@@ -28,4 +28,4 @@ facebook: ""
 - Manawatu Turbos (2024)
 - Utah Warriors (2025)
 - Manawatu Turbos (2025)
-- [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

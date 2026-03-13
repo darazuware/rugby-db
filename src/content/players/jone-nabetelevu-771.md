@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2020 - 2022)
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - )
+- 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) (2020 - 2022)
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2022 - )

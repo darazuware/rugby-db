@@ -23,9 +23,9 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- メルボルン・レベルズ (2017 - 2019)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
-- [ヴァンヌ](/teams/top14/vannes) (2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
-- [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
+- 🇦🇺 メルボルン・レベルズ (2017 - 2019)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )

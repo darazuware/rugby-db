@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2025)
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2025)
 - LeRIRO Fukuoka (2025 - )

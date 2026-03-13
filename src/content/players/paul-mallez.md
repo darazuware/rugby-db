@@ -25,8 +25,8 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 
 - RC Pont-à-Mousson (2008 - 2018)
 - ABCD XV (2018 - 2019)
-- [トゥールーズ](/teams/top14/toulouse) (2019 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2019 - 2023)
 - Provence Rugby (2023)
-- [トゥールーズ](/teams/top14/toulouse) (2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024)
 - Provence Rugby (2024 - 2025)
-- [トゥールーズ](/teams/top14/toulouse) (2025 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2025 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2025)
-- [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) (2021 - 2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) (2025 - )

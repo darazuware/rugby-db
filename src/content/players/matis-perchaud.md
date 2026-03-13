@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - US Mouguerre (2008 - 2017)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2017 - 2024)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2017 - 2024)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

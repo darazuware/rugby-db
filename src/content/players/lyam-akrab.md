@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Cercle sportif Grésivaudan Belledonne (2011 - 2020)
-- [モンペリエ](/teams/top14/montpellier) (2020 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )

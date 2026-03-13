@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Sporting Union Agenais (2015 - 2020)
 - Stade Aurillacois Cantal Auvergne (2020 - 2021)
 - Sporting Union Agenais (2021 - 2024)
-- [モンペリエ](/teams/top14/montpellier) (2024 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

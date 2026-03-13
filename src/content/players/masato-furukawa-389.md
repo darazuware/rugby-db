@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - 2024)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) (2019 - 2024)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2024 - )

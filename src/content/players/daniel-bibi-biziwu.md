@@ -25,5 +25,5 @@ facebook: ""
 
 - ES Viry-Châtillon (2008 - 2013)
 - Rugby Club Massy Essonne (2013 - 2018)
-- [クレルモン](/teams/top14/clermont) (2018 - 2024)
-- [ポー](/teams/top14/pau) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2018 - 2024)
+- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )

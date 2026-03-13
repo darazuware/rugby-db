@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sunwolves (2016 - 2019)
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - )
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2019 - )

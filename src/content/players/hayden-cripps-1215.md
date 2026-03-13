@@ -25,6 +25,6 @@ facebook: ""
 
 - Tasman Mako (2011 - 2013)
 - Sunwolves (2016 - 2017)
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2017 - 2022)
-- [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
-- ハリウッドベッツ・シャークス (2024 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2017 - 2022)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) (2022 - 2024)
+- 🇿🇦 ハリウッドベッツ・シャークス (2024 - )

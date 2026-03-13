@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2017)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2017)
 - Sunwolves (2018 - 2019)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
-- [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2024)
-- [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
+- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) (2021 - 2024)
+- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) (2024 - )

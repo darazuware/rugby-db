@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2023)
-- [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2025)
-- [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2022 - 2023)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) (2023 - 2025)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) (2025 - )

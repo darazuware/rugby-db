@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [クレルモン](/teams/top14/clermont) (2006 - 2014)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2006 - 2014)
 - US Colomiers (2015 - 2020)
-- [カストル](/teams/top14/castres) (2020 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2020 - 2025)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

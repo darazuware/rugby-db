@@ -23,7 +23,7 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [ラシン92](/teams/top14/racing-92) (2010 - 2015)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2010 - 2015)
 - Oyonnax Rugby (2015 - 2016)
-- [ポー](/teams/top14/pau) (2016 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2016 - 2024)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )

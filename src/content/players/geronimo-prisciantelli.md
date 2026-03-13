@@ -27,5 +27,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 - Jaguares XV (2021)
 - Club Atlético San Isidro (2022)
 - Jaguares XV (2022)
-- ゼブレ・パルマ (2022 - 2025)
-- [ラシン92](/teams/top14/racing-92) (2025 - )
+- 🇮🇹 ゼブレ・パルマ (2022 - 2025)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

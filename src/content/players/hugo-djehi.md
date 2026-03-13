@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - US Colomiers (2010 - 2024)
-- [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )

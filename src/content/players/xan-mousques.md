@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - US Nafarroa (2012 - 2022)
-- [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2025)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

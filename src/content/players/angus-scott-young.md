@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2020)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2020)
 - Bay of Plenty Steamers (2020)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021)
 - Bay of Plenty Steamers (2021)
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2022)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2022)
 - Northampton Saints (2022 - 2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025)
 - Northampton Saints (2026)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - )

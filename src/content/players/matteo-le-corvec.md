@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [トゥーロン](/teams/top14/toulon) (2015 - 2025)
-- [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2025)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

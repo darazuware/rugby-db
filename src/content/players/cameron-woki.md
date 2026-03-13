@@ -25,6 +25,6 @@ facebook: ""
 
 - AC Bobigny 93 (2008 - 2012)
 - Rugby Club Massy Essonne (2012 - 2017)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
-- [ラシン92](/teams/top14/racing-92) (2022 - 2025)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2025)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

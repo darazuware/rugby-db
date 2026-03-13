@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Association Sportive Béziers Hérault (2012 - 2022)
-- [リヨン](/teams/top14/lyon) (2022 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )

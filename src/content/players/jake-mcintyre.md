@@ -23,10 +23,10 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2017)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2017)
 - Sporting Union Agenais (2017 - 2019)
-- [クレルモン](/teams/top14/clermont) (2019 - 2020)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2020)
-- [クレルモン](/teams/top14/clermont) (2021)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
-- [ペルピニャン](/teams/top14/perpignan) (2022 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022 - )

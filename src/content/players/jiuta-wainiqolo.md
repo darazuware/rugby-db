@@ -23,7 +23,7 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
 - FIDJI 7's (2020 - 2021)
-- [トゥーロン](/teams/top14/toulon) (2021 - 2025)
-- [リヨン](/teams/top14/lyon) (2025 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2025)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )

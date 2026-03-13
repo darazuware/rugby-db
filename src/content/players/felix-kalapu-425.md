@@ -23,17 +23,17 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
 - North Harbour (2021)
 - Old Glory DC RFC (2021)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
 - North Harbour (2022)
 - Old Glory DC RFC (2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - North Harbour (2023 - 2024)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024)
 - North Harbour (2024)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
 - BlackRams Tokyo (2025 - 2026)
 - North Harbour (2025)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

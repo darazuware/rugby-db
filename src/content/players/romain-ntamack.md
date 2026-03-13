@@ -23,4 +23,4 @@ twitter: "https://twitter.com/RomainNtamack"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- [トゥールーズ](/teams/top14/toulouse) (2013 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
-- [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )
+- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) (2021 - 2023)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) (2023 - )

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2018)
-- [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
-- [ポー](/teams/top14/pau) (2024 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2018)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
+- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )

@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2019)
-- [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2019)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
 - Ealing Trailfinders (2022)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
 - Ealing Trailfinders (2023)
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

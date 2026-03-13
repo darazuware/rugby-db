@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2023)
-- [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )
+- 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) (2021 - 2023)
+- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) (2023 - )

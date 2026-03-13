@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
-- [モンペリエ](/teams/top14/montpellier) (2022 - 2023)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2023)
 - Soyaux-Angoulême XV Charente (2023 - 2025)
-- [モンペリエ](/teams/top14/montpellier) (2025 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

@@ -23,14 +23,14 @@ twitter: ""
 facebook: ""
 ---
 
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
 - New England Free Jacks (2021)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
 - New England Free Jacks (2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - Manawatu Turbos (2022)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
 - Manawatu Turbos (2023)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
 - Northland Taniwha (2023 - 2025)
-- [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
