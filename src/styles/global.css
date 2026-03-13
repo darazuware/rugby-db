@@ -9,6 +9,7 @@
     --color-foreground: var(--text-color);
     --color-card: var(--card-bg);
     --color-border-dim: var(--border-color);
+    --color-accent-dim: var(--accent-dim);
 }
 
 @layer base {
@@ -17,13 +18,15 @@
         --text-color: #111827; /* gray-900 */
         --card-bg: #f9fafb; /* gray-50 */
         --border-color: #e5e7eb; /* gray-200 */
+        --accent-dim: #f3f4f6;
     }
 
     :root.dark {
-        --bg-color: #000000;
+        --bg-color: #0c0e14; /* 純粋な黒より少し青みのある深色 */
         --text-color: #f9fafb; /* gray-50 */
-        --card-bg: #111827; /* gray-900 */
-        --border-color: #1f2937; /* gray-800 */
+        --card-bg: #161a24; /* カードの背景を少し浮かせる */
+        --border-color: #2d3748; /* 境界がはっきり見えるように明るく */
+        --accent-dim: #1f2937;
     }
 
     html,

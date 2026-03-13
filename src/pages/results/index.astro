@@ -115,9 +115,18 @@ const groupByRound = (leagueId: string, results: any[]) => {
         }
     });
 
-    // 3. Round ごとのグループ化
+    // 3. Round ごとのグループ化 (本日(JST)より後の試合は除外)
     const groups: { [key: number]: any[] } = {};
-    uniqueMatches.forEach(m => {
+    
+    // 日本時間(JST)での「今日」を取得
+    const jstToday = new Intl.DateTimeFormat('en-CA', { 
+        timeZone: 'Asia/Tokyo', 
+        year: 'numeric', 
+        month: '2-digit', 
+        day: '2-digit' 
+    }).format(new Date());
+
+    uniqueMatches.filter(m => m.date && m.date <= jstToday && m.score !== "VS").forEach(m => {
         const round = m.round;
         if (!groups[round]) groups[round] = [];
         groups[round].push(m);
@@ -199,7 +208,7 @@ const getLeagueResults = (league: any) => {
 
 			<!-- 戦績リスト (リーグ/Divisionごとにグループ化) -->
 			<div class="max-w-4xl mx-auto space-y-16" id="results-container">
-				{leagues.map((league) => {
+				{leagues.filter(l => !l.isParent).map((league) => {
 					const leagueResults = getLeagueResults(league);
 					if (leagueResults.length === 0) return null;
 
@@ -223,17 +232,23 @@ const getLeagueResults = (league: any) => {
                                         <h3 class="text-xs font-black text-foreground/40 uppercase tracking-widest italic">Jump to Round</h3>
                                         <div class="h-px flex-1 bg-border-dim/30"></div>
                                     </div>
-                                    <div class="flex flex-wrap gap-2">
-                                        {leagueResults.map((group: any) => (
-                                            <a 
-                                                href={`#${league.id}-round-${group.round}`}
-                                                class="px-4 py-2 bg-card/40 border border-border-dim/50 rounded-xl text-[10px] font-black text-foreground/60 hover:text-yellow-400 hover:border-yellow-400 transition-all uppercase tracking-widest hover:scale-105 active:scale-95"
-                                            >
-                                                {group.round > 0 
-                                                    ? (league.id.startsWith('league-one') ? `${group.round}` : `${group.round}`)
-                                                    : 'OT'}
-                                            </a>
-                                        ))}
+                                    <div class="relative max-w-xs group/select">
+                                        <select 
+                                            class="round-jump-select w-full bg-card/40 border border-border-dim/50 rounded-xl px-4 py-2.5 text-[10px] font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400 transition-all uppercase tracking-widest"
+                                            data-league-id={league.id}
+                                        >
+                                            <option value="" disabled selected>Select Round</option>
+                                            {leagueResults.map((group: any) => (
+                                                <option value={`#${league.id}-round-${group.round}`}>
+                                                    {group.round > 0 
+                                                        ? `ROUND ${group.round}`
+                                                        : 'OTHER MATCHES'}
+                                                </option>
+                                            ))}
+                                        </select>
+                                        <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                                        </div>
                                     </div>
                                 </div>
 
@@ -349,7 +364,7 @@ const getLeagueResults = (league: any) => {
 			</div>
 
             <!-- モバイル用フローティングRoundジャンプメニュー -->
-            <div id="mobile-round-nav" class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-[95%] max-w-sm transform transition-transform duration-300 translate-y-24 opacity-0 pointer-events-none">
+            <div id="mobile-round-nav" class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-[60] w-[95%] max-w-sm transform transition-all duration-500 pointer-events-auto">
                 <div class="bg-background/95 backdrop-blur-3xl border border-border-dim/50 rounded-[2.5rem] p-6 shadow-[0_20px_50px_rgba(0,0,0,0.3)] relative overflow-hidden pointer-events-auto">
                     <!-- 背景のカラーアクセント (JSで色変更) -->
                     <div id="mobile-nav-accent" class="absolute -top-32 -right-32 w-64 h-64 bg-yellow-400/20 rounded-full blur-[60px] transition-all duration-700"></div>
@@ -374,17 +389,25 @@ const getLeagueResults = (league: any) => {
                             <a href="#top" class="text-[10px] font-black text-foreground/40 hover:text-foreground uppercase tracking-[0.2em] transition-colors bg-foreground/5 px-3 py-1.5 rounded-full border border-border-dim/30">TOP</a>
                         </div>
 
-                        <!-- ラウンドリスト -->
-                        <div class="flex overflow-x-auto gap-2.5 no-scrollbar pb-6 px-1 snap-x" id="mobile-round-list">
-                            {Array.from({length: 18}, (_, i) => i + 1).map(r => (
-                                <a 
-                                    href={`#league-one-d1-round-${r}`} 
-                                    data-round={r}
-                                    class="mobile-round-link shrink-0 w-12 h-12 bg-foreground/5 text-foreground/40 rounded-2xl flex items-center justify-center font-black text-xs border border-border-dim/30 snap-start active:scale-90 transition-all active:bg-foreground/10"
-                                >
-                                    {r}
-                                </a>
-                            ))}
+                        <!-- ラウンド選択 (プルダウン) -->
+                        <div class="relative group/select mb-6">
+                            <select 
+                                id="mobile-round-select"
+                                class="w-full bg-foreground/5 border border-border-dim/30 rounded-2xl p-4 text-xs font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400 transition-all uppercase tracking-widest shadow-inner"
+                            >
+                                <option value="" disabled selected>Select Round</option>
+                                {(() => {
+                                    const l1d1 = getLeagueResults(leagues.find(l => l.id === 'league-one-d1'));
+                                    return l1d1.map((group: any) => (
+                                        <option value={`#league-one-d1-round-${group.round}`}>
+                                            ROUND {group.round > 0 ? group.round : '?'}
+                                        </option>
+                                    ));
+                                })()}
+                            </select>
+                            <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                            </div>
                         </div>
 
                         <!-- リーグクイックチェンジ: タブ形式に改善 -->
@@ -525,24 +548,44 @@ const getLeagueResults = (league: any) => {
             link.setAttribute('href', `#${targetLeague}-round-${round}`);
         });
 
-        // モバイルナビ独自のUI更新
-        const mobileBadge = document.getElementById('mobile-league-badge');
-        const mobileName = document.getElementById('mobile-current-league-name');
-        const mobileAccent = document.getElementById('mobile-nav-accent');
+        // モバイルナビのラウンドプルダウンを動的に更新 (データがあるものだけ)
+        const mobileRoundSelect = document.getElementById('mobile-round-select') as HTMLSelectElement;
+        const targetSection = document.querySelector(`section[data-league="${targetLeague}"]`);
+        if (mobileRoundSelect && targetSection) {
+            const rounds = Array.from(targetSection.querySelectorAll('.round-group')).map(rg => {
+                const id = rg.id;
+                const roundNum = id.split('-round-')[1];
+                return roundNum;
+            });
 
-        if (mobileBadge) mobileBadge.className = `w-2.5 h-2.5 rounded-full ${colorSet.badge} shadow-[0_0_15px_rgba(250,204,21,0.2)] transition-all duration-500`;
-        if (mobileName) mobileName.textContent = colorSet.name;
-        if (mobileAccent) mobileAccent.className = `absolute -top-32 -right-32 w-64 h-64 ${colorSet.accent} rounded-full blur-[60px] transition-all duration-700`;
+            mobileRoundSelect.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
+                rounds.map(r => `<option value="#${targetLeague}-round-${r}">ROUND ${Number(r) > 0 ? r : '?'}</option>`).join('');
 
-        // コンテンツの表示制御
+            // サイドバー等の購読コンポーネントへ通知
+            window.dispatchEvent(new CustomEvent('leagueFilterUpdated', { 
+                detail: { league: targetLeague, rounds: rounds.map(Number) } 
+            }));
+        }
+
+        // 各セクションの表示・非表示を切り替え (New)
+        const sections = document.querySelectorAll('.league-section') as NodeListOf<HTMLElement>;
         sections.forEach(section => {
-            const sectLeague = section.getAttribute('data-league');
-            if (activeLeague === 'all' || sectLeague === activeLeague) {
-                (section as HTMLElement).style.display = 'block';
+            const leagueId = section.getAttribute('data-league');
+            if (activeLeague === 'all' || leagueId === activeLeague) {
+                section.style.display = 'block';
             } else {
-                (section as HTMLElement).style.display = 'none';
+                section.style.display = 'none';
             }
         });
+
+        // モバイル用フローティングナビゲーションの表示制御
+        const mobileRoundNav = document.getElementById('mobile-round-nav');
+        if (window.innerWidth < 1024) {
+            // リーグが選択されたら強制表示
+            if (activeLeague !== 'all') {
+                mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
+            }
+        }
     }
 
     // イベントリスナーの登録 (デリゲーション)
@@ -555,12 +598,12 @@ const getLeagueResults = (league: any) => {
             updateFilter(league || 'all');
             
             // スクロール (対象セクションが見やすい位置へ)
-            const targetSection = document.querySelector(`section[data-league="${league}"]`);
-            if (targetSection) {
+            const targetSect = document.querySelector(`section[data-league="${league}"]`);
+            if (targetSect) {
                 setTimeout(() => {
                     const offset = 100;
                     const bodyRect = document.body.getBoundingClientRect().top;
-                    const elementRect = targetSection.getBoundingClientRect().top;
+                    const elementRect = targetSect.getBoundingClientRect().top;
                     const elementPosition = elementRect - bodyRect;
                     const offsetPosition = elementPosition - offset;
                     window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
@@ -569,14 +612,36 @@ const getLeagueResults = (league: any) => {
         }
     });
 
-    // モバイル用フローティングナビゲーションの表示制御
-    const mobileRoundNav = document.getElementById('mobile-round-nav');
+    // モニタリング: スクロールによる表示制御は削除（updateFilterで制御するため）
+    // window.addEventListener('scroll', ...) は不要になったので削除するか、簡略化
+    // モバイルナビのスクロール監視
     window.addEventListener('scroll', () => {
+        const mobileRoundNav = document.getElementById('mobile-round-nav');
         if (window.innerWidth < 1024) {
-            if (window.scrollY > 400) {
-                mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
+            if (activeLeague === 'all') {
+                if (window.scrollY > 400) {
+                    mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
+                } else {
+                    mobileRoundNav?.classList.add('translate-y-24', 'opacity-0', 'pointer-events-none');
+                }
             } else {
-                mobileRoundNav?.classList.add('translate-y-24', 'opacity-0', 'pointer-events-none');
+                // リーグ選択時は常に表示
+                mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
+            }
+        }
+    });
+
+    // 節ジャンプ・プルダウンの制御 (PC & Mobile)
+    document.addEventListener('change', (e) => {
+        const targetSelect = e.target as HTMLSelectElement;
+        if (targetSelect.classList.contains('round-jump-select') || targetSelect.id === 'mobile-round-select') {
+            const val = targetSelect.value;
+            if (val) {
+                window.location.hash = val;
+                // 少しだけスクロール位置を調整
+                setTimeout(() => {
+                    window.scrollBy(0, -120);
+                }, 10);
             }
         }
     });
@@ -600,6 +665,9 @@ const getLeagueResults = (league: any) => {
                     }, 100);
                 }
             }
+        } else {
+            // クエリパラメータがない場合も初期化してサイドバーを同期させる (New)
+            updateFilter('league-one-d1');
         }
 
         if (roundParam) {

@@ -106,12 +106,15 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                     </td>
                     <td className="px-2 py-4">
                         <div className="flex flex-col min-w-[100px]">
-                            <div className="flex items-center gap-1 mb-0.5">
+                            <a 
+                                href={`/teams/${leagueId}/${team.slug}`}
+                                className="flex items-center gap-1 mb-0.5 group/team"
+                            >
                                 {team.flag && <span className="text-xs scale-110 mr-1 flex-shrink-0">{team.flag}</span>}
-                                <span className={`font-black text-foreground leading-tight tracking-tighter break-keep ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
+                                <span className={`font-black text-foreground leading-tight tracking-tighter break-keep group-hover/team:text-yellow-400 transition-colors ${((displayName || '').length > 10) ? 'text-[9px]' : 'text-[11px]'}`}>
                                     {displayName}
                                 </span>
-                            </div>
+                            </a>
                         </div>
                     </td>
                     <td className="px-2 py-4 text-center font-bold text-foreground/60 border-l border-border-dim/10 text-[10px] sm:text-[12px]">{team.played}</td>

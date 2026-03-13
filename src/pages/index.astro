@@ -7,31 +7,39 @@ import standingsData from "../../data/standings.json";
 const leagueStandings = [
 	{
 		id: "league-one",
-		name: "リーグワン",
+		name: "LEAGUE ONE",
+		name_jp: "リーグワン",
 		fullName: "ジャパンラグビー リーグワン",
 		title: "Japan Rugby League One",
 		accentColor: "bg-[#E60012]",
 		teams: ((standingsData["league-one"] as any)?.standings || []).slice(
 			0,
-			3
+			4,
 		),
 	},
 	{
 		id: "super-rugby",
-		name: "Super Rugby",
-		fullName: "SUPER RUGBY PACIFIC",
+		name: "SUPER RUGBY",
+		name_jp: "スーパーラグビー",
+		fullName: "Super Rugby Pacific",
+		title: "Super Rugby Pacific",
 		accentColor: "bg-[#0055A4]",
 		teams: ((standingsData["super-rugby"] as any)?.standings || []).slice(
 			0,
-			3
+			4,
 		),
 	},
 	{
 		id: "top14",
-		name: "Top 14",
-		fullName: "TOP 14 FRANCE",
+		name: "TOP 14",
+		name_jp: "トップ14",
+		fullName: "Top 14 France",
+		title: "Top 14 France",
 		accentColor: "bg-[#C5A059]",
-		teams: ((standingsData["top14"] as any)?.standings || []).slice(0, 3),
+		teams: ((standingsData["top14"] as any)?.standings || []).slice(
+			0,
+			4,
+		),
 	},
 ];
 ---
@@ -72,7 +80,10 @@ const leagueStandings = [
             <div class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400/50 transition-all text-left">
                 <div class="flex items-center gap-3 mb-4">
                     <div class={`w-1 h-6 ${league.accentColor} rounded-full`}></div>
-                    <span class="text-[10px] font-black text-yellow-400 uppercase tracking-widest leading-none">{league.name}</span>
+                    <h3 class="text-xs font-black text-foreground uppercase tracking-widest italic flex items-center gap-2">
+									<span>{league.name}</span>
+									<span class="text-[10px] text-foreground/40 not-italic">{league.name_jp}</span>
+								</h3>
                 </div>
                 <h3 class="text-xl font-black font-display text-foreground tracking-tighter italic mb-6 flex items-baseline gap-2">
                     {league.name}

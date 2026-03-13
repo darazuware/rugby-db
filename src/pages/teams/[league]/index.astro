@@ -77,8 +77,12 @@ const results = fullResults.slice(0, 20); // 最新20件を表示（D1/D2/D3を�
 
 const standings = rawStandings.map((s: any) => {
     const mapping = getTeamMapping(s.team_name);
+    // teamsDataから正確なスラッグを取得してフォールバック
+    const teamInTeams = filteredTeams.find((t: any) => t.team_name === s.team_name);
+    
     return {
         ...s,
+        slug: teamInTeams?.slug || s.slug,
         display_name:
             s.display_name || mapping?.jp || s.team_name_jp || s.team_name,
         flag: s.flag || mapping?.flag || "",
@@ -112,6 +116,13 @@ const initialPlayers = allPlayersRaw.map((p) => {
 
 // ページタイトル用の装飾文字
 const leagueTitle = leagueName.toUpperCase();
+const leagueNameMap: Record<string, { en: string; jp: string }> = {
+    "league-one": { en: "LEAGUE ONE", jp: "リーグワン" },
+    "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
+    "top14": { en: "TOP 14", jp: "トップ14" },
+    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
+};
+const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: leagueName };
 ---
 
 <Layout
@@ -133,12 +144,13 @@ const leagueTitle = leagueName.toUpperCase();
                     <span class="text-foreground">{leagueName}</span>
                 </nav>
                 <h1
-                    class="text-4xl font-black text-foreground tracking-tighter italic mb-4 uppercase"
+                    class="text-4xl md:text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase flex flex-col md:flex-row md:items-baseline gap-2 md:gap-4"
                 >
-                    <!-- {DEBUG_TAG} -->
-                    {leagueTitle}<span class="text-yellow-400"> TEAMS</span>
-                    <span class="not-italic ml-4 text-2xl"
-                        >{leagueName} チーム一覧</span
+                    <div>
+                        {currentNames.en}<span class="text-yellow-400"> TEAMS</span>
+                    </div>
+                    <span class="not-italic text-xl md:text-2xl text-foreground/40"
+                        >{currentNames.jp} チーム一覧・選手名鑑</span
                     >
                 </h1>
                 <p
@@ -177,9 +189,7 @@ const leagueTitle = leagueName.toUpperCase();
             </header>
 
             <div
-                class={isURC
-                    ? "max-w-4xl mx-auto flex flex-col"
-                    : "flex flex-col xl:grid xl:grid-cols-12 gap-12"}
+                class="flex flex-col gap-20"
             >
                 {
                     /* 選手一覧セクション (URC以外) - モバイルでは物理的に一番上に配置 */
@@ -216,38 +226,17 @@ const leagueTitle = leagueName.toUpperCase();
                     )
                 }
 
-                {/* 順位表 */}
-                <div
-                    id="standings"
-                    class={isURC
-                        ? "w-full mt-12 md:mt-0"
-                        : "xl:col-span-4 lg:col-span-1 xl:order-1 mt-12 xl:mt-0"}
-                >
-                    <div class="sticky top-24">
-                        <StandingsTable
-                            leagueId={league || ""}
-                            standings={standings}
-                            results={results}
-                        />
-                        <div
-                            class="mt-4 p-4 bg-yellow-50 rounded-2xl border border-yellow-100 italic text-[11px] font-bold text-yellow-800"
-                        >
-                            ※ 順位データは毎週定期的に自動更新されます。
-                        </div>
-                    </div>
-                </div>
-
                 {/* チーム一覧 (URC以外) */}
                 {
                     !isURC && (
                         <div
                             id="teams"
-                            class="xl:col-span-8 lg:col-span-1 xl:order-2"
+                            class="w-full"
                         >
                             <div class="flex items-center gap-4 mb-8">
                                 <h2 class="text-2xl font-black text-foreground uppercase tracking-tight italic">
-                                    All{" "}
-                                    <span class="text-yellow-500">Clubs</span>
+                                    All <span class="text-yellow-500">Clubs</span>
+                                    <span class="ml-4 not-italic text-lg text-foreground/40 lowercase tracking-normal font-bold">全所属チーム</span>
                                 </h2>
                                 <div class="flex-grow h-px bg-border-dim" />
                             </div>
@@ -259,6 +248,35 @@ const leagueTitle = leagueName.toUpperCase();
                         </div>
                     )
                 }
+
+                {/* 順位表 - ページ下部へ移動 */}
+                <div
+                    id="standings"
+                    class="w-full scroll-mt-24 pt-16 border-t border-border-dim"
+                >
+                    <header class="mb-12">
+                        <div class="flex items-center gap-4 mb-4">
+                            <h2 class="text-3xl font-black text-foreground uppercase tracking-tighter italic">
+                                Standings <span class="text-yellow-500">&</span> Results
+                                <span class="ml-4 not-italic text-lg text-foreground/40 lowercase tracking-normal font-bold">最新順位表・戦績</span>
+                            </h2>
+                            <div class="flex-grow h-px bg-border-dim" />
+                        </div>
+                    </header>
+
+                    <div class="max-w-5xl mx-auto">
+                        <StandingsTable
+                            leagueId={league || ""}
+                            standings={standings}
+                            results={results}
+                        />
+                        <div
+                            class="mt-6 p-6 bg-yellow-400/5 rounded-2xl border border-yellow-400/10 italic text-xs font-bold text-yellow-600/80 text-center"
+                        >
+                            ※ 順位データは毎週定期的に自動更新されます。
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="mt-20 max-w-4xl mx-auto order-4">

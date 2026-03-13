@@ -137,6 +137,73 @@ const teamPlayers = allPlayers
         slug: p.slug,
         data: p.data,
     }));
+// 所属選手の取得
+// ... (既存の players 取得)
+
+// 共通の戦績データ取得
+import resultsData from "../../../../data/results_2026.json";
+
+// 日本時間(JST)での「今日」を取得 (フィルタ用)
+const jstToday = new Intl.DateTimeFormat('en-CA', { 
+    timeZone: 'Asia/Tokyo', 
+    year: 'numeric', 
+    month: '2-digit', 
+    day: '2-digit' 
+}).format(new Date());
+
+const getTeamResults = () => {
+    // 全リーグの試合データをフラット化
+    const allMatches = Object.values(resultsData).flat();
+    const tName = team.team_name;
+    const tEnName = team.team_en_name;
+    const tDisplay = teamNameDisplay;
+
+    return allMatches
+        .filter((m: any) => {
+            if (!m.home || !m.away) return false;
+            
+            // チーム名判定 (部分一致も含めて確実にマッチさせる)
+            const isHome = (tName && m.home.includes(tName)) || 
+                           (tEnName && m.home.includes(tEnName)) || 
+                           (tDisplay && m.home.includes(tDisplay)) ||
+                           (m.home && tName && tName.includes(m.home));
+            
+            const isAway = (tName && m.away.includes(tName)) || 
+                           (tEnName && m.away.includes(tEnName)) || 
+                           (tDisplay && m.away.includes(tDisplay)) ||
+                           (m.away && tName && tName.includes(m.away));
+
+            const isMatch = isHome || isAway;
+            
+            // 未来の試合やVSを除外 (JSTベース)
+            return isMatch && m.date && m.date <= jstToday && m.score !== "VS";
+        })
+        .sort((a: any, b: any) => (b.date || "").localeCompare(a.date || "")) // 最新順
+        .slice(0, 5); // 直近5試合
+};
+
+const matchResults = getTeamResults();
+
+// 当該チームのアクセスランキング (モック)
+const popularPlayers = [
+  { id: "cheslin-kolbe-1375", name: "Cheslin KOLBE", name_jp: "チェスリン ・コルビ", team: "Suntory Sungoliath", team_jp: "東京サントリーサンゴリアス", rank: 1 },
+  { id: "richie-mounga-725", name: "Richie MO'UNGA", name_jp: "リッチー・モウンガ", team: "Toshiba Brave Lupus", team_jp: "東芝ブレイブルーパス東京", rank: 2 },
+  { id: "pieter-steph-du-toit-791", name: "Pieter-Steph DU TOIT", name_jp: "ピーターステフ・デュトイ", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 3 },
+  { id: "beauden-barrett", name: "Beauden BARRETT", name_jp: "ボーデン・バレット", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 4 },
+  { id: "damian-de-allende-643", name: "Damian DE ALLENDE", name_jp: "ダミアン・デアレンデ", team: "Wild Knights", team_jp: "埼玉パナソニックワイルドナイツ", rank: 5 },
+].filter(p => {
+    // このチームに所属している選手を抽出 (または全表示するならフィルタなし)
+    // 今回は「チーム内ランキング」なので、チーム名一致で絞り込み
+    return p.team_jp === teamNameDisplay;
+});
+// 順位データの取得
+import standingsData from "../../../../data/standings.json";
+const leagueStandings = (standingsData as any)[league || ""]?.standings || [];
+const teamStanding = leagueStandings.find((s: any) => 
+    s.display_name === teamNameDisplay || 
+    s.team_name === team.team_name || 
+    (s.slug && (s.slug === team.slug || s.slug === String(team.id)))
+);
 ---
 
 <Layout
@@ -144,34 +211,59 @@ const teamPlayers = allPlayers
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}
 >
-    <main class="bg-background min-h-screen py-12 px-4">
-        <div class="max-w-6xl mx-auto">
+    <main class="bg-background min-h-screen py-12 px-4 text-foreground relative overflow-hidden">
+        {/* 背景の装飾的なぼかし要素 */}
+        <div class="absolute top-0 left-1/4 w-96 h-96 bg-yellow-400/5 rounded-full blur-[128px] -z-10 animate-pulse"></div>
+        <div class="absolute bottom-0 right-1/4 w-[32rem] h-[32rem] bg-indigo-500/5 rounded-full blur-[160px] -z-10"></div>
+
+        <div class="max-w-6xl mx-auto relative z-10" id="top">
+            {/* クイックナビゲーション (Sticky Nav) */}
+            <div class="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 p-1.5 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl scale-90 sm:scale-100">
+                <a href="#info" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
+                    <span class="w-1.5 h-1.5 rounded-full bg-blue-400 group-hover:scale-125 transition-transform"></span>
+                    INFO
+                </a>
+                {matchResults.length > 0 && (
+                    <a href="#results" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
+                        <span class="w-1.5 h-1.5 rounded-full bg-yellow-400 group-hover:scale-125 transition-transform"></span>
+                        RESULTS
+                    </a>
+                )}
+                <a href="#players" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
+                    <span class="w-1.5 h-1.5 rounded-full bg-green-400 group-hover:scale-125 transition-transform"></span>
+                    PLAYERS
+                </a>
+                <div class="w-px h-4 bg-white/10 mx-1"></div>
+                <a href="#top" class="w-8 h-8 flex items-center justify-center hover:bg-yellow-400 hover:text-black rounded-xl transition-all group">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
+                </a>
+            </div>
+
             {/* チームヘッダー */}
             <div
                 class="bg-card rounded-3xl shadow-xl overflow-hidden border border-border-dim mb-12"
             >
-                <div class="bg-gray-900 p-10 text-white relative">
-                    <div class="absolute top-0 right-0 p-10 opacity-10">
+                <div class="bg-gray-900 p-8 md:p-12 text-white relative">
+                    <div class="absolute top-0 right-0 p-10 opacity-10 hidden md:block">
                         <span
                             class="text-7xl font-black italic break-all text-right block max-w-xl uppercase"
                             >{teamEnName}</span
                         >
                     </div>
                     <div class="relative z-10">
-                        <a
-                            href={`/teams/${league}`}
-                            class="inline-flex items-center text-yellow-400 font-bold mb-6 hover:translate-x-1 transition-transform"
-                        >
-                            ← {league.toUpperCase().replace("-", " ")} チーム一覧に戻る
-                        </a>
-                        <div
-                            class="text-sm font-black text-foreground/40 uppercase tracking-[0.2em] mb-2"
-                        >
-                            {
-                                isLeagueOne
-                                    ? team.legal_entity
-                                    : mapping?.country || team.legal_entity
-                            }
+                        <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
+                            <a
+                                href={`/teams/${league}`}
+                                class="inline-flex items-center text-yellow-400 font-bold hover:translate-x-1 transition-transform"
+                            >
+                                ← {league.toUpperCase().replace("-", " ")} チーム一覧
+                            </a>
+                            {teamStanding && (
+                                <a href="/standings" class="bg-yellow-400 text-black px-4 py-1.5 rounded-full font-black text-[10px] uppercase tracking-[0.2em] shadow-lg hover:bg-white transition-colors flex items-center gap-2">
+                                    <span class="opacity-60">Current Rank</span>
+                                    <span class="text-sm italic">{teamStanding.rank}</span>
+                                </a>
+                            )}
                         </div>
                         {
                             isLeagueOne ? (
@@ -223,7 +315,7 @@ const teamPlayers = allPlayers
                     </div>
                 </div>
 
-                <div class="p-10">
+                <div class="p-10" id="info">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
                         <div class="space-y-8">
                             <h2
@@ -288,38 +380,105 @@ const teamPlayers = allPlayers
                             </dl>
                         </div>
 
-                        <div
-                            class="bg-background rounded-2xl p-8 border border-border-dim flex flex-col justify-center items-center text-center"
-                        >
-                            <div class="text-4xl font-black text-foreground mb-2">
-                                {teamPlayers.length}
+                            {/* [NEW] チーム内アクセスランキング */}
+                            <div class="space-y-6">
+                                <h2 class="text-xl font-black border-l-4 border-yellow-400 pl-4 uppercase tracking-wider">
+                                    Access Ranking
+                                </h2>
+                                {popularPlayers.length > 0 ? (
+                                    <div class="space-y-3">
+                                        {popularPlayers.map(p => (
+                                            <a href={`/players/${p.id}`} class="flex items-center gap-4 p-3 rounded-2xl bg-background border border-border-dim hover:border-yellow-400/50 transition-all group">
+                                                <div class="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center text-foreground/20 font-black italic border border-border-dim group-hover:border-yellow-400/30 transition-colors">
+                                                    {p.name[0]}
+                                                </div>
+                                                <div class="flex-1 min-w-0">
+                                                    <div class="text-[10px] font-black text-yellow-400/60 uppercase tracking-widest mb-0.5">Rank {p.rank}</div>
+                                                    <div class="text-xs font-black text-foreground group-hover:text-yellow-400 transition-colors truncate">{p.name_jp}</div>
+                                                </div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 text-foreground/20 group-hover:text-yellow-400 transition-colors" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                                            </a>
+                                        ))}
+                                    </div>
+                                ) : (
+                                    <div class="bg-background rounded-2xl p-6 border border-border-dim text-center">
+                                         <p class="text-[10px] text-foreground/40 font-bold">集計中...</p>
+                                    </div>
+                                )}
+                                <div class="bg-yellow-400/5 rounded-2xl p-4 border border-yellow-400/10">
+                                    <p class="text-[9px] text-yellow-400/60 font-black italic text-center uppercase tracking-widest leading-relaxed">
+                                        Team Stats / Attention Ranking
+                                    </p>
+                                </div>
                             </div>
-                            <div
-                                class="text-xs font-black text-foreground/40 uppercase tracking-widest"
-                            >
-                                Registered Players
-                            </div>
-                            <p
-                                class="text-sm text-foreground/60 mt-4 leading-relaxed font-medium"
-                            >
-                                当サイトに登録されている {team.team_name} 所属の選手一覧です。
-                            </p>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            {/* 選手一覧 */}
-            <section>
+                {/* [NEW] 直近の試合結果 */}
+                {matchResults.length > 0 && (
+                    <section class="mb-16 scroll-mt-32" id="results">
+                        <div class="flex items-center gap-4 mb-8">
+                            <div class="flex items-center gap-3">
+                                <div class="w-1.5 h-8 bg-yellow-400 rounded-full"></div>
+                                <h2 class="text-2xl font-black text-foreground uppercase tracking-tight italic">
+                                    Match Results
+                                </h2>
+                            </div>
+                            <div class="flex-grow h-px bg-linear-to-r from-border-dim to-transparent"></div>
+                            <a href="/results" class="group/link flex items-center gap-2 text-[10px] font-black text-yellow-500 hover:text-foreground transition-all uppercase tracking-widest">
+                                View All Results 
+                                <span class="group-hover/link:translate-x-1 transition-transform">→</span>
+                            </a>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                            {matchResults.map((m: any) => (
+                                <div class="bg-card border border-border-dim rounded-2xl p-5 hover:border-yellow-400/30 transition-all group overflow-hidden relative">
+                                    <div class="absolute top-0 right-0 p-4 opacity-5 pointer-events-none">
+                                        <span class="text-3xl font-black italic">{m.round > 0 ? `R${m.round}` : 'M'}</span>
+                                    </div>
+                                    <div class="text-[9px] font-black text-foreground/40 uppercase tracking-[0.2em] mb-3 flex items-center gap-2">
+                                        <span class="w-1.5 h-1.5 rounded-full bg-yellow-400"></span>
+                                        {m.date ? m.date.replace(/-/g, '/') : 'TBA'}
+                                        {m.division && <span class="text-yellow-400/60">[{m.division}]</span>}
+                                    </div>
+                                    <div class="flex flex-col items-center gap-3 mb-1">
+                                        <div class="w-full flex items-center justify-between gap-2">
+                                            <div class="flex-1 text-left">
+                                                <div class="text-[10px] md:text-xs font-black text-foreground leading-tight">{m.home}</div>
+                                            </div>
+                                            <div class="px-3 py-1 bg-yellow-400/10 rounded-lg">
+                                                <div class="text-base md:text-lg font-black text-yellow-400 tracking-tighter italic whitespace-nowrap leading-none">{m.score}</div>
+                                            </div>
+                                            <div class="flex-1 text-right">
+                                                <div class="text-[10px] md:text-xs font-black text-foreground leading-tight">{m.away}</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mt-4 pt-3 border-t border-border-dim/30 flex items-center justify-between text-[8px] font-black uppercase tracking-widest italic group-hover:text-yellow-400/40 transition-colors">
+                                        <span>Season 2025-26</span>
+                                        <span class="text-foreground/20">Performance</span>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    </section>
+                )}
+
+                {/* 選手一覧 */}
+            <section class="scroll-mt-32" id="players">
                 <div class="flex items-center gap-4 mb-8">
-                    <h2
-                        class="text-2xl font-black text-foreground uppercase tracking-tight"
-                    >
-                        PLAYERS
-                    </h2>
-                    <div class="flex-grow h-px bg-border-dim"></div>
+                    <div class="flex items-center gap-3">
+                        <div class="w-1.5 h-8 bg-yellow-400 rounded-full"></div>
+                        <h2
+                            class="text-2xl font-black text-foreground uppercase tracking-tight italic"
+                        >
+                            PLAYERS
+                        </h2>
+                    </div>
+                    <div class="flex-grow h-px bg-linear-to-r from-border-dim to-transparent"></div>
                     <span
-                        class="text-xs font-black text-foreground/40 uppercase tracking-widest"
+                        class="px-3 py-1 bg-card border border-border-dim rounded-lg text-[10px] font-black text-foreground/40 uppercase tracking-widest"
                         >{teamPlayers.length} 名</span
                     >
                 </div>

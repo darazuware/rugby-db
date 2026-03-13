@@ -5,9 +5,10 @@ import AffiliateBanner from "../../components/AffiliateBanner.astro";
 const leagues = [
     {
         id: "league-one",
-        name: "リーグワン",
+        name: "LEAGUE ONE",
+        name_jp: "リーグワン",
         fullName: "ジャパンラグビー リーグワン",
-        title: "JAPAN RUGBY LEAGUE ONE",
+        title: "Japan Rugby League One",
         description:
             "日本最高峰のプロリーグ。世界トップクラスの選手が続々と参戦し、急速にレベルアップを遂げている。",
         color: "bg-[#E60012]",
@@ -19,10 +20,12 @@ const leagues = [
     },
     {
         id: "super-rugby",
-        name: "SUPER RUGBY PACIFIC",
-        title_jp: "スーパーラグビー・パシフィック",
+        name: "SUPER RUGBY",
+        name_jp: "スーパーラグビー",
+        fullName: "Super Rugby Pacific",
+        title: "Super Rugby Pacific",
         description:
-            "ニュージーランド、オーストラリア、フィジー、サモアの強豪クラブが激突する、世界で最もエキサイティングなリーグ。",
+            "ニュージーランド、オーストラリア、フィジー、パシフィック諸島のチームが参戦する、世界で最もエキサイティングなラグビーリーグ。",
         color: "bg-[#0055A4]",
         accent: "text-[#0055A4]",
         border: "border-[#0055A4]",
@@ -33,15 +36,32 @@ const leagues = [
     {
         id: "top14",
         name: "TOP 14",
-        title_jp: "トップ14",
+        name_jp: "トップ14",
+        fullName: "Top 14 France",
+        title: "Top 14 France",
         description:
-            "フランスのプロリーグ。世界屈指の資金力を背景に、各国代表のエースが集結する世界最高峰のリーグの一つ。",
+            "フランスが世界に誇る最強の国内リーグ。莫大な資金力と情熱を背景に、世界中から超豪華スター選手が集結するラグビー界の銀河系軍団。",
         color: "bg-[#C5A059]",
         accent: "text-[#C5A059]",
         border: "border-[#C5A059]",
         image: "https://top14.lnr.fr/img/logo.png", // 仮
         href: "/teams/top14",
         tag: "フランス / 欧州最高峰",
+    },
+    {
+        id: "urc",
+        name: "URC",
+        name_jp: "ユナイテッド・ラグビー・チャンピオンシップ",
+        fullName: "United Rugby Championship",
+        title: "United Rugby Championship",
+        description:
+            "南アフリカ、アイルランド、ウェールズ、スコットランド、イタリアの5カ国の精鋭たちがぶつかり合う多国籍リーグ。",
+        color: "bg-[#0097D7]",
+        accent: "text-[#0097D7]",
+        border: "border-[#0097D7]",
+        image: "https://www.unitedrugby.com/assets/images/logo.png", // 仮
+        href: "/teams/urc",
+        tag: "欧州 / 南アフリカ",
     },
 ];
 ---
@@ -82,11 +102,12 @@ const leagues = [
                                     {league.tag}
                                 </span>
 
-                                <h2 class="text-4xl font-black italic tracking-tighter mb-2 uppercase group-hover:text-white transition-colors leading-none">
-                                    {league.name}
+                                <h2 class="text-3xl font-black text-foreground italic flex items-baseline gap-3">
+                                    <span class="uppercase tracking-tighter">{league.name}</span>
+                                    <span class="text-lg text-foreground/40 not-italic tracking-tight">{league.name_jp}</span>
                                 </h2>
                                 <p class="text-lg font-bold text-foreground/40 mb-8 group-hover:text-white/80 transition-colors">
-                                    {league.title_jp}
+                                    {league.title}
                                 </p>
 
                                 <p class="text-foreground/80 font-medium leading-relaxed group-hover:text-white transition-colors mb-12 flex-grow">
@@ -98,7 +119,7 @@ const leagues = [
                                         href={league.href}
                                         class={`px-8 py-4 ${league.color} text-white text-center font-black text-lg rounded-2xl group-hover:bg-card group-hover:text-foreground transition-all shadow-xl hover:scale-105`}
                                     >
-                                        選手名鑑をみる
+                                        チーム一覧・選手名鑑をみる
                                     </a>
                                     <a
                                         href={`/results?league=${league.id}`}

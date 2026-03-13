@@ -17,11 +17,6 @@ const popularPlayers = [
   { id: "beauden-barrett", name: "Beauden BARRETT", name_jp: "ボーデン・バレット", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 4 },
   { id: "damian-de-allende-643", name: "Damian DE ALLENDE", name_jp: "ダミアン・デアレンデ", team: "Wild Knights", team_jp: "埼玉パナソニックワイルドナイツ", rank: 5 },
 ];
-
-// 戦績ページ用の節リスト取得 (簡易版)
-const getRounds = () => {
-    return Array.from({ length: 18 }, (_, i) => i + 1);
-};
 ---
 
 <aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto no-scrollbar">
@@ -62,21 +57,40 @@ const getRounds = () => {
         <h3 class="font-black italic text-xl tracking-tighter uppercase">Jump to Round</h3>
       </div>
       
-      <div class="grid grid-cols-3 gap-2">
-        {getRounds().map(r => (
-          <a
-            href={`#${activeLeague}-round-${r}`}
-            data-round={r}
-            class={`sidebar-round-link flex items-center justify-center p-3 rounded-xl text-[10px] font-black transition-all border ${
-              activeRound === r 
-                ? 'bg-yellow-400 border-yellow-500 text-black' 
-                : 'bg-background/50 border-border-dim text-foreground/40 hover:border-yellow-400/50 hover:text-foreground'
-            }`}
-          >
-            {r}
-          </a>
-        ))}
+      <div class="relative group/select">
+        <select
+          id="round-jump-select"
+          class="w-full bg-background/50 border border-border-dim rounded-2xl p-4 text-xs font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400/50 transition-all uppercase tracking-widest shadow-inner"
+        >
+          <option value="" disabled selected>Select Round</option>
+          {/* JavaScriptで動的に生成されます */}
+        </select>
+        <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+        </div>
       </div>
+
+      <script is:inline>
+        const select = document.getElementById('round-jump-select');
+        select?.addEventListener('change', (e) => {
+          const target = e.target.value;
+          if (target) {
+            window.location.hash = target;
+            setTimeout(() => {
+              window.scrollBy(0, -120);
+            }, 10);
+          }
+        });
+
+        // ページ全体で共有されるイベントリスナー (results/index.astro からの発火を待機)
+        window.addEventListener('leagueFilterUpdated', (e) => {
+          const { league, rounds } = e.detail;
+          if (select && rounds) {
+            select.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
+              rounds.map(r => `<option value="#${league}-round-${r}">ROUND ${r > 0 ? r : '?'}</option>`).join('');
+          }
+        });
+      </script>
       <div class="mt-6 flex justify-center">
         <a href="#top" class="text-[10px] font-black text-foreground/20 hover:text-yellow-400 transition-colors uppercase tracking-[0.2em] flex items-center gap-2">
           <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
