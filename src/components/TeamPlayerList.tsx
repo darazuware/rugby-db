@@ -83,10 +83,29 @@ interface Props {
 const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
     const [sortKey, setSortKey] = useState<string>('position');
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
+    const [searchTerm, setSearchTerm] = useState('');
+    const [selectedPosition, setSelectedPosition] = useState<string>('');
 
-    const sortedPlayers = useMemo(() => {
-        const result = [...players];
+    const POSITIONS = ['PR', 'HO', 'LO', 'FL', 'No8', 'SH', 'SO', 'CTB', 'WTB', 'FB'];
 
+    const filteredAndSortedPlayers = useMemo(() => {
+        // 1. フィルタリング
+        let result = players.filter((p) => {
+            const searchLower = searchTerm.toLowerCase();
+            const matchSearch = searchTerm === '' || 
+                p.data.title.toLowerCase().includes(searchLower) ||
+                (p.data.name_en?.toLowerCase() || '').includes(searchLower) ||
+                (p.data.position?.toLowerCase() || '').includes(searchLower) ||
+                (p.data.high_school?.toLowerCase() || '').includes(searchLower) ||
+                (p.data.university?.toLowerCase() || '').includes(searchLower);
+
+            const matchPosition = selectedPosition === '' || 
+                (p.data.position || '').split(/[/／・\s]+/).some(pos => pos.trim() === selectedPosition);
+
+            return matchSearch && matchPosition;
+        });
+
+        // 2. ソート
         const posOrder: Record<string, number> = {
             'PR': 1, 'HO': 2, 'LO': 3, 'FL': 4, 'No8': 5,
             'SH': 6, 'SO': 7, 'CTB': 8, 'WTB': 9, 'FB': 10
@@ -131,7 +150,6 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
             }
 
             if (valA === valB) {
-                // 同じ値の場合はポジション順、名前順でタイブレイク
                 const pA = posOrder[a.data.position] || 99;
                 const pB = posOrder[b.data.position] || 99;
                 if (pA !== pB) return pA - pB;
@@ -143,7 +161,7 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
         });
 
         return result;
-    }, [players, sortKey, sortOrder]);
+    }, [players, sortKey, sortOrder, searchTerm, selectedPosition]);
 
     const toggleSort = (key: string) => {
         if (sortKey === key) {
@@ -165,27 +183,99 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
     ];
 
     return (
-        <div className="space-y-8">
-            {/* ソートボタン */}
-            <div className="flex flex-wrap items-center gap-3 bg-card p-4 rounded-2xl border border-border-dim shadow-sm">
-                <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest mr-2">Sort By</span>
-                {sortButtons.map((btn) => (
-                    <button
-                        key={btn.key}
-                        onClick={() => toggleSort(btn.key)}
-                        className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${sortKey === btn.key
-                            ? 'bg-yellow-400 border-yellow-400 text-black scale-105 shadow-md shadow-yellow-100'
-                            : 'bg-background border-transparent text-foreground/60 hover:bg-border-dim hover:text-foreground'
-                            }`}
-                    >
-                        {btn.label} {sortKey === btn.key && (sortOrder === 'asc' ? '↑' : '↓')}
-                    </button>
-                ))}
+        <div className="space-y-12">
+            {/* 検索 & フィルタ UI */}
+            <div className="bg-card p-6 md:p-8 rounded-[2rem] border border-border-dim shadow-xl space-y-8">
+                {/* キーワード検索 */}
+                <div>
+                    <label className="block text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] mb-3 ml-1">
+                        Search Players
+                    </label>
+                    <div className="relative group">
+                        <input
+                            type="text"
+                            placeholder="名前、学校名、ポジションなどで検索..."
+                            className="w-full p-5 bg-background border-2 border-transparent rounded-2xl focus:border-yellow-400/50 outline-none transition-all font-bold text-lg text-foreground shadow-sm group-hover:shadow-md"
+                            value={searchTerm}
+                            onChange={(e) => setSearchTerm(e.target.value)}
+                        />
+                        <div className="absolute right-5 top-1/2 -translate-y-1/2 text-foreground/20 group-focus-within:text-yellow-400 transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                {/* ポジション・ソートのコンビネーション */}
+                <div className="grid grid-cols-1 xl:grid-cols-2 gap-8">
+                    {/* ポジション選択 */}
+                    <div className="space-y-3">
+                        <label className="block text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] ml-1">
+                            Filter by Position
+                        </label>
+                        <div className="flex flex-wrap gap-2">
+                            <button
+                                onClick={() => setSelectedPosition('')}
+                                className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedPosition === ''
+                                    ? 'bg-foreground border-foreground text-background scale-105 shadow-lg'
+                                    : 'bg-background border-transparent text-foreground/40 hover:bg-border-dim hover:text-foreground'
+                                    }`}
+                            >
+                                ALL
+                            </button>
+                            {POSITIONS.map(pos => (
+                                <button
+                                    key={pos}
+                                    onClick={() => setSelectedPosition(pos === selectedPosition ? '' : pos)}
+                                    className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${selectedPosition === pos
+                                        ? 'bg-yellow-400 border-yellow-400 text-black scale-105 shadow-lg'
+                                        : 'bg-background border-transparent text-foreground/40 hover:bg-border-dim hover:text-foreground'
+                                        }`}
+                                >
+                                    {pos}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+
+                    {/* ソートボタン */}
+                    <div className="space-y-3">
+                        <label className="block text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] ml-1">
+                            Sort By
+                        </label>
+                        <div className="flex flex-wrap gap-2">
+                            {sortButtons.map((btn) => (
+                                <button
+                                    key={btn.key}
+                                    onClick={() => toggleSort(btn.key)}
+                                    className={`px-4 py-2 rounded-xl font-black text-xs transition-all border-2 ${sortKey === btn.key
+                                        ? 'bg-indigo-500 border-indigo-500 text-white scale-105 shadow-lg shadow-indigo-500/20'
+                                        : 'bg-background border-transparent text-foreground/40 hover:bg-border-dim hover:text-foreground'
+                                        }`}
+                                >
+                                    {btn.label} {sortKey === btn.key && (sortOrder === 'asc' ? '↑' : '↓')}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+
+                {/* 検索結果件数 */}
+                {searchTerm || selectedPosition ? (
+                    <div className="pt-4 border-t border-border-dim flex items-center justify-between text-xs font-black italic">
+                        <span className="text-foreground/40 uppercase tracking-widest">Search Results</span>
+                        <span className="text-foreground">
+                            <span className="text-yellow-500 text-lg mr-1">{filteredAndSortedPlayers.length}</span> players found
+                        </span>
+                    </div>
+                ) : null}
             </div>
 
             {/* 選手リスト（PlayerList.tsx のカードスタイルを継承） */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                {sortedPlayers.map((player) => (
+                {filteredAndSortedPlayers.length > 0 ? (
+                    filteredAndSortedPlayers.map((player) => (
                     <a
                         key={player.slug}
                         href={`/players/${player.slug}/`}
@@ -267,7 +357,15 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                             </div>
                         </div>
                     </a>
-                ))}
+                ))
+                ) : (
+                    <div className="col-span-full py-20 text-center animate-in fade-in zoom-in duration-500">
+                        <div className="inline-block p-6 bg-card rounded-[2rem] border border-border-dim border-dashed">
+                            <p className="text-foreground/40 font-black italic uppercase tracking-widest mb-2">No Players Match Your Search</p>
+                            <p className="text-yellow-500 font-bold">検索条件を変えてお試しください</p>
+                        </div>
+                    </div>
+                )}
             </div>
         </div>
     );
