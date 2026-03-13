@@ -13,9 +13,9 @@ const { type = "default", activeLeague, activeRound } = Astro.props;
 const popularPlayers = (rankingData as any[]) || [];
 ---
 
-<aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto no-scrollbar">
+<aside class="w-full space-y-8 mt-12 lg:mt-0 lg:sticky lg:top-24 lg:self-start">
   {/* リーグ切り替え (New) */}
-  <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-[2rem] p-6 shadow-2xl">
+  <div id="sidebar-league-switcher" class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-[2rem] p-6 shadow-2xl transition-all duration-300">
       <div class="flex items-center gap-3 mb-6">
           <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
           <h3 class="font-black italic text-xl tracking-tighter uppercase">Switch League</h3>
@@ -111,8 +111,14 @@ const popularPlayers = (rankingData as any[]) || [];
         window.addEventListener('leagueFilterUpdated', (e) => {
           const { league, rounds } = e.detail;
           if (select && rounds) {
-            select.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
-              rounds.map(r => `<option value="#${league}-round-${r}">ROUND ${r > 0 ? r : '?'}</option>`).join('');
+            const isNewFormat = rounds.length > 0 && typeof rounds[0] === 'object';
+            if (isNewFormat) {
+              select.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
+                rounds.map(r => `<option value="${r.value}">${r.text}</option>`).join('');
+            } else {
+              select.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
+                rounds.map(r => `<option value="#${league}-round-${r}">ROUND ${r > 0 ? r : '?'}</option>`).join('');
+            }
           }
         });
       </script>
@@ -209,18 +215,68 @@ const popularPlayers = (rankingData as any[]) || [];
 </aside>
 
 <script>
-    // サイドバーのリーグ切り替えボタンの動作 (戦績ページ以外での遷移)
+    // サイドバーのリーグ切り替えボタンの動作
     document.addEventListener('click', (e) => {
         const target = e.target as HTMLElement;
         if (!target) return;
         
         const leagueBtn = target.closest('[data-league-switch]');
+        if (!leagueBtn) return;
+
+        const league = leagueBtn.getAttribute('data-league-switch');
+        if (!league) return;
         
-        if (leagueBtn && !window.location.pathname.startsWith('/results')) {
-            const league = leagueBtn.getAttribute('data-league-switch');
-            if (league) {
-                window.location.href = `/results?league=${league}`;
-            }
+        // 1. 戦績ページにいる場合：遷移せずにフィルタを更新
+        if (window.location.pathname.startsWith('/results')) {
+            window.dispatchEvent(new CustomEvent('sidebarLeagueSelect', { detail: { league } }));
+            updateSidebarHighlight(league);
+        } 
+        // 2. 他のページにいる場合：クエリパラメータ付きで遷移
+        else {
+            window.location.href = `/results?league=${league}`;
         }
+    });
+
+    // サイドバーのハイライトを更新する関数
+    function updateSidebarHighlight(activeLeague: string) {
+        const buttons = document.querySelectorAll('[data-league-switch]');
+        buttons.forEach(btn => {
+            const league = btn.getAttribute('data-league-switch');
+            const isLeagueOneSub = btn.classList.contains('flex-1'); // D1/D2/D3 buttons
+            
+            if (league === activeLeague) {
+                if (isLeagueOneSub) {
+                    btn.classList.add('bg-red-600', 'border-red-600', 'text-white', 'shadow-lg', 'shadow-red-600/20');
+                    btn.classList.remove('bg-card/30', 'border-border-dim/50', 'text-foreground/30');
+                } else {
+                    btn.classList.add('bg-white/5', 'border-yellow-400');
+                    btn.classList.remove('bg-transparent');
+                }
+            } else {
+                if (isLeagueOneSub) {
+                    btn.classList.remove('bg-red-600', 'border-red-600', 'text-white', 'shadow-lg', 'shadow-red-600/20');
+                    btn.classList.add('bg-card/30', 'border-border-dim/50', 'text-foreground/30');
+                } else {
+                    // 他のリーグボタンは、League Oneのサブボタンが押されている時でも League One メインボタンを光らせたい場合は調整が必要
+                    if (!activeLeague.startsWith('league-one') || !league?.startsWith('league-one')) {
+                        btn.classList.remove('bg-white/5', 'border-yellow-400');
+                        btn.classList.add('bg-transparent');
+                    }
+                }
+            }
+            
+            // League One メインボタンのみの特殊処理
+            if (activeLeague.startsWith('league-one') && league === 'league-one-d1' && !isLeagueOneSub) {
+                btn.classList.add('bg-white/5', 'border-yellow-400/30');
+                btn.classList.remove('bg-transparent');
+            }
+        });
+    }
+
+    // 初期読み込み時のハイライト同期
+    window.addEventListener('DOMContentLoaded', () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const league = urlParams.get('league') || 'league-one-d1';
+        updateSidebarHighlight(league);
     });
 </script>

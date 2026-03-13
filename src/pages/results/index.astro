@@ -247,13 +247,16 @@ const getLeagueResults = (league: any) => {
                                             data-league-id={league.id}
                                         >
                                             <option value="" disabled selected>Select Round</option>
-                                            {leagueResults.map((group: any) => (
-                                                <option value={`#${league.id}-round-${group.round}`}>
-                                                    {group.round > 0 
-                                                        ? `ROUND ${group.round}${group.dateRange ? ` (${group.dateRange})` : ''}`
-                                                        : 'OTHER MATCHES'}
-                                                </option>
-                                            ))}
+                                            {leagueResults.map((group: any) => {
+                                                const dateShort = group.dateRange ? group.dateRange.replace(/2026/g, "'26").replace(/2025/g, "'25") : '';
+                                                return (
+                                                    <option value={`#${league.id}-round-${group.round}`}>
+                                                        {group.round > 0 
+                                                            ? (league.id.startsWith('league-one') ? `第${group.round}節` : `ROUND ${group.round}`) + (dateShort ? ` (${dateShort})` : '')
+                                                            : 'OTHER MATCHES'}
+                                                    </option>
+                                                );
+                                            })}
                                         </select>
                                         <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
@@ -412,11 +415,14 @@ const getLeagueResults = (league: any) => {
                                 <option value="" disabled selected>Select Round</option>
                                 {(() => {
                                     const l1d1 = getLeagueResults(leagues.find(l => l.id === 'league-one-d1'));
-                                    return l1d1.map((group: any) => (
-                                        <option value={`#league-one-d1-round-${group.round}`}>
-                                            ROUND {group.round > 0 ? group.round : '?'}
-                                        </option>
-                                    ));
+                                    return l1d1.map((group: any) => {
+                                        const dateShort = group.dateRange ? group.dateRange.replace(/2026/g, "'26").replace(/2025/g, "'25") : '';
+                                        return (
+                                            <option value={`#league-one-d1-round-${group.round}`}>
+                                                第{group.round}節{dateShort ? ` (${dateShort})` : ''}
+                                            </option>
+                                        );
+                                    });
                                 })()}
                             </select>
                             <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
@@ -456,251 +462,202 @@ const getLeagueResults = (league: any) => {
 </Layout>
 
 <script>
-    const buttons = document.querySelectorAll('.filter-btn');
-    const sections = document.querySelectorAll('.league-section');
-    let activeLeague = 'all';
+    // 状態管理
+    let activeLeague = 'league-one-d1';
 
-    buttons.forEach(button => {
-        button.addEventListener('click', () => {
-            const league = button.getAttribute('data-league');
-            updateFilter(league || 'all');
-        });
-    });
-
-    // リーグ別カラー設定
-    const leagueColors: Record<string, { badge: string; accent: string; name: string }> = {
-        'league-one-d1': { badge: 'bg-red-600', accent: 'bg-red-600/10', name: 'リーグワン D1' },
-        'league-one-d2': { badge: 'bg-red-600', accent: 'bg-red-600/10', name: 'リーグワン D2' },
-        'league-one-d3': { badge: 'bg-red-600', accent: 'bg-red-600/10', name: 'リーグワン D3' },
-        'league-one': { badge: 'bg-red-600', accent: 'bg-red-600/10', name: 'リーグワン' },
-        'super-rugby': { badge: 'bg-blue-600', accent: 'bg-blue-600/10', name: 'スーパーラグビー' },
-        'top14': { badge: 'bg-yellow-600', accent: 'bg-yellow-600/10', name: 'Top 14' },
-        'all': { badge: 'bg-yellow-400', accent: 'bg-yellow-400/20', name: 'All Leagues' }
+    // リーグ別カラー・名称設定
+    const leagueColors: Record<string, { badge: string; accent: string; label: string; bg: string }> = {
+        'league-one-d1': { badge: 'bg-red-600', accent: 'bg-red-600/10', label: 'リーグワン', bg: 'bg-red-600' },
+        'league-one-d2': { badge: 'bg-red-600', accent: 'bg-red-600/10', label: 'リーグワン', bg: 'bg-red-600' },
+        'league-one-d3': { badge: 'bg-red-600', accent: 'bg-red-600/10', label: 'リーグワン', bg: 'bg-red-600' },
+        'super-rugby': { badge: 'bg-blue-600', accent: 'bg-blue-600/10', label: 'SUPER RUGBY', bg: 'bg-blue-600' },
+        'top14': { badge: 'bg-amber-500', accent: 'bg-amber-500/10', label: 'TOP 14', bg: 'bg-amber-500' },
+        'all': { badge: 'bg-yellow-400', accent: 'bg-yellow-400/20', label: 'ALL LEAGUES', bg: 'bg-yellow-400' }
     };
 
     function updateFilter(league: string) {
-        console.log('Updating filter to:', league);
-        
-        // 以前のアクティブリーグを保持
-        const prevLeague = activeLeague;
+        if (!league) return;
+        activeLeague = league;
+        console.log('Update Filter:', activeLeague);
 
-        // トグル処理
-        if (activeLeague === league && league !== 'all') {
-            activeLeague = 'all';
-        } else {
-            activeLeague = league || 'all';
-        }
+        const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
+        const baseLeague = targetLeague.startsWith('league-one') ? 'league-one' : targetLeague;
+        const config = leagueColors[targetLeague] || leagueColors['all'];
 
-        // リーグワン親カテゴリが選択された場合、デフォルトでD1を表示
-        if (activeLeague === 'league-one') {
-            activeLeague = 'league-one-d1';
-        }
+        // 1. 各セクションの表示切り替え
+        const sections = document.querySelectorAll('.league-section');
+        sections.forEach(section => {
+            const sid = section.getAttribute('data-league');
+            (section as HTMLElement).style.display = (activeLeague === 'all' || sid === activeLeague) ? 'block' : 'none';
+        });
 
-        // フィルターボタンの更新 (メイン + サブ)
-        buttons.forEach(btn => {
-            const btnLeague = btn.getAttribute('data-league');
-            const isActive = btnLeague === activeLeague || (activeLeague.startsWith('league-one') && btnLeague === 'league-one');
-            
+        // 2. メインフィルターボタンの更新
+        const mainBtns = document.querySelectorAll('.filter-btn');
+        mainBtns.forEach(btn => {
+            const bl = btn.getAttribute('data-league');
+            const isActive = bl === activeLeague || (activeLeague.startsWith('league-one') && bl === 'league-one');
             if (isActive) {
-                btn.classList.add('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic', 'opacity-100');
-                btn.classList.remove('bg-card', 'bg-card/30', 'bg-card/50', 'text-foreground/40', 'border-border-dim');
+                btn.classList.add('bg-yellow-400', 'text-black', 'italic', 'opacity-100');
+                btn.classList.remove('text-foreground/40');
             } else {
-                btn.classList.remove('bg-yellow-400', 'text-black', 'shadow-[0_0_20px_rgba(250,204,21,0.3)]', 'italic');
-                btn.classList.add('bg-card/50', 'text-foreground/40', 'border-border-dim');
-                if (btn.classList.contains('bg-card/30')) btn.classList.remove('bg-card/50'); // サブボタン用
+                btn.classList.remove('bg-yellow-400', 'text-black', 'italic', 'opacity-100');
+                btn.classList.add('text-foreground/40');
             }
         });
 
-        // リーグワン・サブフィルターの表示制御
+        // 3. サブフィルター (Division) の表示
         const subFilters = document.getElementById('league-one-sub-filters');
-        const mobileDivSelector = document.getElementById('mobile-div-selector');
-        
         if (activeLeague.startsWith('league-one')) {
             subFilters?.classList.remove('hidden');
             subFilters?.classList.add('flex');
-            mobileDivSelector?.classList.remove('hidden');
-            mobileDivSelector?.classList.add('flex');
         } else {
             subFilters?.classList.add('hidden');
-            subFilters?.classList.remove('flex');
-            mobileDivSelector?.classList.add('hidden');
-            mobileDivSelector?.classList.remove('flex');
         }
 
-        // モバイルDivボタンのハイライト
-        document.querySelectorAll('.mobile-div-btn').forEach(btn => {
-            if (btn.getAttribute('data-league-div') === activeLeague) {
-                btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-500');
-                btn.classList.remove('bg-foreground/5', 'text-foreground/40');
-            } else {
-                btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-500');
-                btn.classList.add('bg-foreground/5', 'text-foreground/40');
-            }
-        });
-
-        const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
-        const colorSet = leagueColors[targetLeague] || leagueColors['all'];
-
-        // サイドバー & モバイルナビのリーグボタンのハイライト
-        document.querySelectorAll('[data-league-switch]').forEach(btn => {
-            const switchId = btn.getAttribute('data-league-switch');
-            const isActive = switchId === activeLeague || (activeLeague.startsWith('league-one') && switchId === 'league-one-d1');
+        // 4. サイドバー & モバイルナビの共通ボタン更新
+        const allSwitchBtns = document.querySelectorAll('[data-league-switch]');
+        allSwitchBtns.forEach(btn => {
+            const bl = btn.getAttribute('data-league-switch');
+            const isActive = bl === activeLeague;
+            
+            // 全解除
+            btn.classList.remove('bg-red-600', 'bg-blue-600', 'bg-amber-500', 'bg-yellow-400', 'text-white', 'border-yellow-400', 'border-red-600', 'shadow-lg');
             
             if (isActive) {
-                btn.classList.add('border-yellow-400', 'bg-foreground/10', 'text-foreground');
-                btn.classList.remove('text-foreground/20', 'text-foreground/30', 'border-border-dim/30');
-            } else {
-                btn.classList.remove('border-yellow-400', 'bg-foreground/10', 'text-foreground');
-                btn.classList.add('border-border-dim/30');
+                if (bl?.startsWith('league-one-d')) {
+                    btn.classList.add('bg-red-600', 'text-white', 'border-red-600', 'shadow-lg');
+                } else if (bl === 'super-rugby') {
+                    btn.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
+                } else if (bl === 'top14') {
+                    btn.classList.add('bg-amber-500', 'text-white', 'border-amber-500');
+                } else {
+                    btn.classList.add('border-yellow-400', 'bg-foreground/10');
+                }
             }
         });
 
-        // サイドバー & モバイルナビのラウンドリンク更新
-        const allRoundLinks = document.querySelectorAll('.sidebar-round-link, .mobile-round-link');
-        allRoundLinks.forEach(link => {
-            const round = link.getAttribute('data-round');
-            link.setAttribute('href', `#${targetLeague}-round-${round}`);
-        });
+        // 5. モバイルナビ専用要素の更新 (ID指定)
+        const mobileName = document.getElementById('mobile-current-league-name');
+        const mobileBadge = document.getElementById('mobile-league-badge');
+        const mobileAccent = document.getElementById('mobile-nav-accent');
+        const mobileDivs = document.getElementById('mobile-div-selector');
 
-        // モバイルナビのラウンドプルダウンを動的に更新 (データがあるものだけ)
+        if (mobileName) mobileName.innerText = config.label;
+        if (mobileBadge) {
+            mobileBadge.className = `w-2.5 h-2.5 rounded-full transition-all duration-700 ${config.bg} shadow-[0_0_15px_rgba(0,0,0,0.2)]`;
+        }
+        if (mobileAccent) {
+            mobileAccent.className = `absolute -top-32 -right-32 w-64 h-64 rounded-full blur-[60px] transition-all duration-700 ${config.bg}/20`;
+        }
+        if (mobileDivs) {
+            if (activeLeague.startsWith('league-one')) {
+                mobileDivs.classList.remove('hidden');
+                mobileDivs.classList.add('flex');
+            } else {
+                mobileDivs.classList.add('hidden');
+            }
+        }
+
+        // 6. プルダウンの更新
         const mobileRoundSelect = document.getElementById('mobile-round-select') as HTMLSelectElement;
         const targetSection = document.querySelector(`section[data-league="${targetLeague}"]`);
         if (mobileRoundSelect && targetSection) {
-            const rounds = Array.from(targetSection.querySelectorAll('.round-group')).map(rg => {
-                const id = rg.id;
-                const roundNum = id.split('-round-')[1];
-                return roundNum;
+            const roundData = Array.from(targetSection.querySelectorAll('.round-group')).map(rg => {
+                const r = rg.id.split('-round-')[1];
+                const dateSpan = rg.querySelector('.round-sticky-header span span') as HTMLElement;
+                let dateStr = dateSpan ? dateSpan.innerText.replace(/\(|\)/g, '') : '';
+                // '26 表記への変換
+                dateStr = dateStr.replace(/2026/g, "'26").replace(/2025/g, "'25");
+                
+                const label = targetLeague.startsWith('league-one') ? `第${r}節` : `ROUND ${r}`;
+                return { 
+                    value: `#${targetLeague}-round-${r}`, 
+                    text: `${label}${dateStr ? ` (${dateStr})` : ''}` 
+                };
             });
 
             mobileRoundSelect.innerHTML = '<option value="" disabled selected>Select Round</option>' + 
-                rounds.map(r => `<option value="#${targetLeague}-round-${r}">ROUND ${Number(r) > 0 ? r : '?'}</option>`).join('');
-
-            // サイドバー等の購読コンポーネントへ通知
+                roundData.map(d => `<option value="${d.value}">${d.text}</option>`).join('');
+            
+            // サイドバー等の購読コンポーネントへ通知 (日付入りテキストを渡す)
             window.dispatchEvent(new CustomEvent('leagueFilterUpdated', { 
-                detail: { league: targetLeague, rounds: rounds.map(Number) } 
+                detail: { 
+                    league: targetLeague, 
+                    rounds: roundData 
+                } 
             }));
         }
 
-        // 各セクションの表示・非表示を切り替え (New)
-        const sections = document.querySelectorAll('.league-section') as NodeListOf<HTMLElement>;
-        sections.forEach(section => {
-            const leagueId = section.getAttribute('data-league');
-            if (activeLeague === 'all' || leagueId === activeLeague) {
-                section.style.display = 'block';
+        // 7. モバイルDivボタンのハイライト
+        document.querySelectorAll('.mobile-div-btn').forEach(btn => {
+            if (btn.getAttribute('data-league-div') === activeLeague) {
+                btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-500');
             } else {
-                section.style.display = 'none';
+                btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-500');
             }
         });
-
-        // モバイル用フローティングナビゲーションの表示制御
-        const mobileRoundNav = document.getElementById('mobile-round-nav');
-        if (window.innerWidth < 1024) {
-            // リーグが選択されたら強制表示
-            if (activeLeague !== 'all') {
-                mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
-            }
-        }
     }
 
-    // イベントリスナーの登録 (デリゲーション)
+    // イベント委譲による統合クリックハンドラ
     document.addEventListener('click', (e) => {
         const target = e.target as HTMLElement;
-        const leagueBtn = target.closest('[data-league-switch]') || target.closest('.mobile-div-btn');
+        const btn = target.closest('[data-league], [data-league-switch], [data-league-div]');
+        if (!btn) return;
+
+        const league = btn.getAttribute('data-league') || 
+                       btn.getAttribute('data-league-switch') || 
+                       btn.getAttribute('data-league-div');
         
-        if (leagueBtn) {
-            const league = leagueBtn.getAttribute('data-league-switch') || leagueBtn.getAttribute('data-league-div');
-            updateFilter(league || 'all');
+        if (league) {
+            updateFilter(league);
             
-            // スクロール (対象セクションが見やすい位置へ)
-            const targetSect = document.querySelector(`section[data-league="${league}"]`);
-            if (targetSect) {
-                setTimeout(() => {
-                    const offset = 100;
-                    const bodyRect = document.body.getBoundingClientRect().top;
-                    const elementRect = targetSect.getBoundingClientRect().top;
-                    const elementPosition = elementRect - bodyRect;
-                    const offsetPosition = elementPosition - offset;
-                    window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
-                }, 50);
-            }
-        }
-    });
-
-    // モニタリング: スクロールによる表示制御は削除（updateFilterで制御するため）
-    // window.addEventListener('scroll', ...) は不要になったので削除するか、簡略化
-    // モバイルナビのスクロール監視
-    window.addEventListener('scroll', () => {
-        const mobileRoundNav = document.getElementById('mobile-round-nav');
-        if (window.innerWidth < 1024) {
-            if (activeLeague === 'all') {
-                if (window.scrollY > 400) {
-                    mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
-                } else {
-                    mobileRoundNav?.classList.add('translate-y-24', 'opacity-0', 'pointer-events-none');
+            // スクロール処理 (戦績リストへ)
+            if (league !== 'all') {
+                const targetSect = document.querySelector(`section[data-league="${league}"]`);
+                if (targetSect) {
+                    setTimeout(() => {
+                        window.scrollTo({ 
+                            top: targetSect.getBoundingClientRect().top + window.scrollY - 100, 
+                            behavior: 'smooth' 
+                        });
+                    }, 50);
                 }
-            } else {
-                // リーグ選択時は常に表示
-                mobileRoundNav?.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
             }
         }
     });
 
-    // 節ジャンプ・プルダウンの制御 (PC & Mobile)
+    // サイドバーからのイベント受光
+    window.addEventListener('sidebarLeagueSelect', (e: any) => {
+        updateFilter(e.detail.league);
+    });
+
+    // プルダウン変更
     document.addEventListener('change', (e) => {
-        const targetSelect = e.target as HTMLSelectElement;
-        if (targetSelect.classList.contains('round-jump-select') || targetSelect.id === 'mobile-round-select') {
-            const val = targetSelect.value;
-            if (val) {
-                window.location.hash = val;
-                // 少しだけスクロール位置を調整
-                setTimeout(() => {
-                    window.scrollBy(0, -120);
-                }, 10);
+        const sel = e.target as HTMLSelectElement;
+        if (sel.id === 'mobile-round-select' || sel.classList.contains('round-jump-select')) {
+            if (sel.value) {
+                window.location.hash = sel.value;
+                setTimeout(() => window.scrollBy(0, -120), 10);
             }
         }
     });
 
-    // クエリパラメータによる初期フィルタ設定とスクロール
+    // 初期化
     window.addEventListener('DOMContentLoaded', () => {
         const urlParams = new URLSearchParams(window.location.search);
-        const leagueParam = urlParams.get('league');
-        const roundParam = urlParams.get('round');
-        
-        if (leagueParam) {
-            let targetLeague = leagueParam;
-            if (leagueParam === 'league-one') targetLeague = 'league-one-d1';
-            updateFilter(targetLeague);
+        const league = urlParams.get('league') || 'league-one-d1';
+        updateFilter(league);
+    });
 
-            if (!roundParam) {
-                const targetSection = document.querySelector(`section[data-league="${targetLeague}"]`);
-                if (targetSection) {
-                    setTimeout(() => {
-                        targetSection.scrollIntoView({ behavior: 'smooth' });
-                    }, 100);
-                }
-            }
-        } else {
-            // クエリパラメータがない場合も初期化してサイドバーを同期させる (New)
-            updateFilter('league-one-d1');
-        }
-
-        if (roundParam) {
-            const leagueId = leagueParam || 'league-one-d1';
-            const targetId = `${leagueId}-round-${roundParam}`;
-            const targetEl = document.getElementById(targetId);
-            if (targetEl) {
-                setTimeout(() => {
-                    const offset = 120; // sticky header offset
-                    const bodyRect = document.body.getBoundingClientRect().top;
-                    const elementRect = targetEl.getBoundingClientRect().top;
-                    const elementPosition = elementRect - bodyRect;
-                    const offsetPosition = elementPosition - offset;
-
-                    window.scrollTo({
-                        top: offsetPosition,
-                        behavior: 'smooth'
-                    });
-                }, 200);
+    // モバイルナビのスクロール監視
+    window.addEventListener('scroll', () => {
+        const nav = document.getElementById('mobile-round-nav');
+        if (window.innerWidth < 1024) {
+            if (activeLeague === 'all') {
+                nav?.classList.toggle('translate-y-24', window.scrollY < 400);
+                nav?.classList.toggle('opacity-0', window.scrollY < 400);
+            } else {
+                nav?.classList.remove('translate-y-24', 'opacity-0');
             }
         }
     });
