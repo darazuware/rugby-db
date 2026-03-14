@@ -32,11 +32,11 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
   // 2. フィルタリングと制限ロジック
   const { displayGroups, currentMode } = useMemo(() => {
     // 全試合をラウンドごとに分割
-    // スコアが "VS" のもの（予定）を除外し、確定した戦績のみを対象とする
-    const resultsOnly = matches.filter(m => m.score && !m.score.includes('VS'));
+    // ゴミデータ等を除外するフィルタ（VSも含めるように変更）
+    const filteredMatches = matches.filter(m => m.score);
 
     const groups: Record<number, Match[]> = {};
-    resultsOnly.forEach(m => {
+    filteredMatches.forEach(m => {
       const r = m.round || 0;
       if (!groups[r]) groups[r] = [];
       groups[r].push(m);
@@ -56,14 +56,15 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
         return divA.localeCompare(divB);
       });
 
+      const displayGroups: [string, Match[]][] = latestRound ? [[`第${latestRound}節 (最新)`, sortedMatches]] : [];
       return {
-        displayGroups: latestRound ? [[`第${latestRound}節 (最新)`, sortedMatches]] : [],
+        displayGroups,
         currentMode: 'ALL'
       };
     }
 
     // --- モード B: Division 選択時 (D1, D2, D3) ---
-    const divMatches = resultsOnly.filter(m => m.division === selectedDivision);
+    const divMatches = filteredMatches.filter(m => m.division === selectedDivision);
     const divGroups: Record<number, Match[]> = {};
     divMatches.forEach(m => {
       const r = m.round || 0;
@@ -72,7 +73,7 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
     });
 
     const divRounds = Object.keys(divGroups).map(Number).sort((a, b) => b - a).slice(0, 3);
-    const result = divRounds.map(r => [`第${r}節`, divGroups[r]]);
+    const result: [string, Match[]][] = divRounds.map(r => [`第${r}節`, divGroups[r]]);
 
     return {
       displayGroups: result,

@@ -69,12 +69,10 @@ const groupByRound = (leagueId: string, results: any[]) => {
     const filteredResults = results.filter(r => {
         const home = r.home || "";
         const away = r.away || "";
-        const score = r.score || "";
         const garbage = ["リーグ戦", "準々", "準決", "決勝", "決定戦", "入替戦", "TBD"];
         
-        // ゴミデータまたは試合予定を除外
-        return !garbage.some(g => home.includes(g) || away.includes(g)) && 
-               !score.includes('VS');
+        // ゴミデータを除外
+        return !garbage.some(g => home.includes(g) || away.includes(g));
     });
 
     // 1. データの正規化と初期収集
