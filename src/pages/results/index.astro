@@ -126,7 +126,7 @@ const groupByRound = (leagueId: string, results: any[]) => {
         day: '2-digit' 
     }).format(new Date());
 
-    uniqueMatches.filter(m => m.score !== "VS").forEach(m => {
+    uniqueMatches.forEach(m => {
         const round = m.round;
         if (!groups[round]) groups[round] = [];
         groups[round].push(m);
@@ -153,10 +153,13 @@ const groupByRound = (leagueId: string, results: any[]) => {
 const getLeagueResults = (league: any) => {
     let results = [];
     if (league.parentId === "league-one") {
-        const targetDiv = league.division; // "D1", "D2", "D3"
+        const targetDiv = (league.division || "").toUpperCase().trim(); // "D1", "D2", "D3"
         results = (resultsData as any)["league-one"]?.filter((r: any) => {
-            const rDiv = r.division || "";
-            return rDiv === targetDiv || rDiv === `Division ${targetDiv.replace('D', '')}`;
+            const rDiv = (r.division || "").toUpperCase().trim();
+            return rDiv === targetDiv || 
+                   rDiv === `DIVISION ${targetDiv.replace('D', '')}` ||
+                   targetDiv === `DIVISION ${rDiv.replace('D', '')}` ||
+                   rDiv.includes(targetDiv) || targetDiv.includes(rDiv);
         }) || [];
     } else {
         results = (resultsData as any)[league.id] || [];

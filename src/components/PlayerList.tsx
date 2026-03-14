@@ -317,12 +317,24 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             const pLeague = (p.data.league ?? '').toLowerCase();
             const matchLeague = selectedLeagues.length === 0 || selectedLeagues.some(l => l.toLowerCase() === pLeague);
 
-            const pDivision = (p.data.division ?? '').toUpperCase();
+            const pDivision = (p.data.division ?? '').toUpperCase().trim();
             const matchDivision = selectedDivisions.length === 0 || selectedDivisions.some(d => {
-                const ud = d.toUpperCase();
-                return pDivision === ud || pDivision === `DIVISION ${ud.replace('D', '')}` || ud === `DIVISION ${pDivision.replace('D', '')}`;
+                const ud = d.toUpperCase().trim();
+                return pDivision === ud || 
+                       pDivision === `DIVISION ${ud.replace('D', '')}` || 
+                       ud === `DIVISION ${pDivision.replace('D', '')}` ||
+                       pDivision.includes(ud) || ud.includes(pDivision);
             });
-            const matchCategory = selectedCategories.length === 0 || selectedCategories.includes(p.data.category ?? '');
+
+            const pCategory = (p.data.category ?? '').toUpperCase().trim();
+            const matchCategory = selectedCategories.length === 0 || selectedCategories.some(c => {
+                const uc = c.toUpperCase().trim();
+                return pCategory === uc || 
+                       pCategory === uc.replace('カテゴリー', '') || 
+                       uc === pCategory.replace('カテゴリー', '') ||
+                       (pCategory.length === 1 && uc.includes(pCategory)) ||
+                       (uc.length === 1 && pCategory.includes(uc));
+            });
             const matchTeam = selectedTeams.length === 0 || (p.data.team && selectedTeams.includes(p.data.team));
 
             return matchSearch && matchPosition && matchLeague && matchDivision && matchCategory && matchTeam;
