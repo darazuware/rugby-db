@@ -1,5 +1,5 @@
 ---
-title: "ガエル-フィクー"
+title: "Gaël FICKOU"
 name_en: "Gaël FICKOU"
 position: "CTB"
 team: "ラシン92"
@@ -16,17 +16,15 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2021
+joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/gaelfickou/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Union Sportive Seynoise (2006 - 2009)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2009 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2020)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2021 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2021)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジュール・ル・バイユ"
+title: "Jules LE BAIL"
 name_en: "Jules LE BAIL"
 position: "SH"
 team: "ヴァンヌ"
@@ -11,20 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Stade Nantais (2009 - 2010)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2017)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - 2020)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2023)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - )

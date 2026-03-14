@@ -1,5 +1,5 @@
 ---
-title: "リッキー・リッチテッリ"
+title: "Ricky RICCITELLI"
 name_en: "Ricky RICCITELLI"
 position: "HO"
 team: "モンペリエ"
@@ -11,37 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2019)
-- 🇿🇦 ヴォーダコム・ブルズ (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2021)
+- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

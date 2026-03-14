@@ -1,5 +1,5 @@
 ---
-title: "ティボー・フラマン"
+title: "Thibaud FLAMENT"
 name_en: "Thibaud FLAMENT"
 position: "LO"
 team: "トゥールーズ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Argentina"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/thibaud_flament/"
-twitter: "https://twitter.com/Thibaud_Flament"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - ASUB Rugby Waterloo (2005 - 2015)

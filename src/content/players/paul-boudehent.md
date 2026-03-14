@@ -1,5 +1,5 @@
 ---
-title: "ポール・ブデアン"
+title: "Paul BOUDEHENT"
 name_en: "Paul BOUDEHENT"
 position: "FL/NO8"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/paul_bdhnt"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - SCO RC Angers (2010 - 2014)

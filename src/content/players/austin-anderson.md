@@ -16,20 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Waikato Mooloos (2022 - 2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023)
-- Waikato Mooloos (2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024)
-- Waikato Mooloos (2024)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024)
-- Waikato Mooloos (2024)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025)
-- Waikato Mooloos (2025)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2025)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - )

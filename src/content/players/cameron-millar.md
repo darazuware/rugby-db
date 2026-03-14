@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2020
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - )

@@ -1,7 +1,7 @@
 ---
 title: "ジョージ-ブリッジ"
 name_en: "George BRIDGE"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: "186"
 weight: "96"
@@ -24,5 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2022)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ヤクバ・カマラ"
+title: "Yacouba CAMARA"
 name_en: "Yacouba CAMARA"
 position: "FL/NO8"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/yacoubacamara/"
-twitter: "https://twitter.com/yaccamara"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - AC Bobigny 93 (2006 - 2010)

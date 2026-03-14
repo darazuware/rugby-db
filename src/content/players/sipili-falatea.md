@@ -1,5 +1,5 @@
 ---
-title: "シピリ・ファラテア"
+title: "Sipili FALATEA"
 name_en: "Sipili FALATEA"
 position: "PR"
 team: "ボルドー・ベグル"

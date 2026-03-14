@@ -1,5 +1,5 @@
 ---
-title: "トマ・スヴェルビー"
+title: "Thomas SOUVERBIE"
 name_en: "Thomas SOUVERBIE"
 position: "SH"
 team: "ポー"

@@ -1,5 +1,5 @@
 ---
-title: "ロドリグ・ネティ"
+title: "Rodrigue NETI"
 name_en: "Rodrigue NETI"
 position: "PR"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2012
 has_scores: true
-instagram: "https://www.instagram.com/rodrigue_neti/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Union Rugby Club Dumbéa (2010 - 2012)

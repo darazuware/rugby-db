@@ -1,5 +1,5 @@
 ---
-title: "ヴァンサン・ラテ"
+title: "Vincent RATTEZ"
 name_en: "Vincent RATTEZ"
 position: "WTB"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CSM Gennevilliers Rugby (2004 - 2005)

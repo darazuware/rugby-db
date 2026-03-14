@@ -1,5 +1,5 @@
 ---
-title: "サミュエル・エゼアラ"
+title: "Samuel EZEALA"
 name_en: "Samuel EZEALA"
 position: "WTB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/samezeala"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2023)

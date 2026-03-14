@@ -1,5 +1,5 @@
 ---
-title: "トマ・マルスリーヌ"
+title: "Thomas MARCELINE"
 name_en: "Thomas MARCELINE"
 position: "PR"
 team: "リヨン"

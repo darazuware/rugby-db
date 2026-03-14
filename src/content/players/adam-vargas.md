@@ -1,5 +1,5 @@
 ---
-title: "アダム・バルガス"
+title: "Adam VARGAS"
 name_en: "Adam VARGAS"
 position: "WTB"
 team: "カストル"

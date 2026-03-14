@@ -1,5 +1,5 @@
 ---
-title: "マティアス・レミュ"
+title: "Matias REMUE"
 name_en: "Matias REMUE"
 position: "FB"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://instagram.com/matiascampillo?igshid=YmMyMTA2M2Y="
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Royal Kituro Rugby Club (2013 - 2022)

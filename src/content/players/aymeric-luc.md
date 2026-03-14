@@ -1,5 +1,5 @@
 ---
-title: "アイメリック・リュック"
+title: "Aymeric LUC"
 name_en: "Aymeric LUC"
 position: "FB"
 team: "ポー"

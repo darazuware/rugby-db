@@ -1,7 +1,7 @@
 ---
 title: "コーディ・バイ"
 name_en: "Cody VAI"
-position: "Winger"
+position: "WTB"
 team: "オークランド・ブルーズ"
 height: "188"
 weight: "86"
@@ -16,12 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2022 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )
+- ベイ・オブ・プレンティ (2022 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

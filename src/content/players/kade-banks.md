@@ -16,20 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- North Harbour (2019 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- North Harbour (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- North Harbour (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- North Harbour (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- North Harbour (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- ノース・ハーバー (2019 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2026)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

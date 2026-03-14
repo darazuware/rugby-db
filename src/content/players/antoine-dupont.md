@@ -1,5 +1,5 @@
 ---
-title: "アントワーヌ-デュポン"
+title: "Antoine DUPONT"
 name_en: "Antoine DUPONT"
 position: "SH"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/antoinedupont9/"
-twitter: "https://twitter.com/Dupont9A"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Magnoac FC (2000 - 2011)

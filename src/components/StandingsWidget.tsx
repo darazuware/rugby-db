@@ -52,8 +52,8 @@ const StandingsWidget: React.FC<Props> = ({ leagueStandings }) => {
                             {league.teams.slice(0, 3).map((team, idx) => (
                                 <a
                                     key={team.slug || team.display_name}
-                                    href={`/teams/${league.id}`}
-                                    className="flex items-center justify-between p-4 rounded-3xl bg-foreground/[0.04] border border-border-dim/50 hover:bg-foreground/[0.08] hover:border-border-dim transition-all group/item shadow-sm"
+                                    href={`/teams/${league.id}/${team.slug}`}
+                                    className="flex items-center justify-between p-4 rounded-3xl bg-foreground/[0.04] border border-border-dim/50 hover:bg-foreground/[0.08] hover:border-border-dim transition-all group/item shadow-sm relative z-10"
                                 >
                                     <div className="flex items-center gap-4">
                                         <span className={`w-8 h-8 flex items-center justify-center rounded-xl font-black text-sm ${idx === 0 ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-background text-foreground/40'

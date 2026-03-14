@@ -1,5 +1,5 @@
 ---
-title: "ジョリス・セゴンズ"
+title: "Joris SEGONDS"
 name_en: "Joris SEGONDS"
 position: "SO"
 team: "バイヨンヌ"

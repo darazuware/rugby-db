@@ -1,5 +1,5 @@
 ---
-title: "アクセル・デスペレ"
+title: "Axel DESPÉRÈS"
 name_en: "Axel DESPÉRÈS"
 position: "SO"
 team: "ポー"

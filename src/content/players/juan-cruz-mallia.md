@@ -1,5 +1,5 @@
 ---
-title: "フアン・クルス・マリア"
+title: "Juan Cruz MALLÍA"
 name_en: "Juan Cruz MALLÍA"
 position: "FB"
 team: "トゥールーズ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentina"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/juanchimallia/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jaguares (2017 - 2020)

@@ -1,5 +1,5 @@
 ---
-title: "バウティスタ-デルグイ"
+title: "Bautista DELGUY"
 name_en: "Bautista DELGUY"
 position: "WTB"
 team: "クレルモン"

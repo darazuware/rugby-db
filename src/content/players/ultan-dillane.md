@@ -1,5 +1,5 @@
 ---
-title: "アルタン・ディレイン"
+title: "Ultan DILLANE"
 name_en: "Ultan DILLANE"
 position: "LO"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
-nationality: "Franco"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/ultan_d"
-twitter: "https://www.twitter.com/Ultan_Dillane"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇮🇪 コナート・ラグビー (2014 - 2022)

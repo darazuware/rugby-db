@@ -1,5 +1,5 @@
 ---
-title: "ピエトロ・チェッカレッリ"
+title: "Pietro CECCARELLI"
 name_en: "Pietro CECCARELLI"
 position: "PR"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
-nationality: "Italian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lazio (2011 - 2012)

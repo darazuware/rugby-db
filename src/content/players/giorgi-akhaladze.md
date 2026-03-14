@@ -1,5 +1,5 @@
 ---
-title: "ギオルギ-アハラゼ"
+title: "Giorgi AKHALADZE"
 name_en: "Giorgi AKHALADZE"
 position: "PR"
 team: "クレルモン"

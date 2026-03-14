@@ -1,5 +1,5 @@
 ---
-title: "レダ・ワルディ"
+title: "Reda WARDI"
 name_en: "Reda WARDI"
 position: "PR"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/staderochelais"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2007 - 2015)

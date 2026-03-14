@@ -1,7 +1,7 @@
 ---
 title: "エペリ-モモ"
 name_en: "Epeli MOMO"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: "184"
 weight: "84"

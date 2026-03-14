@@ -1,5 +1,5 @@
 ---
-title: "タヴィテ・ヴェレダム"
+title: "Tavite VEREDAMU"
 name_en: "Tavite VEREDAMU"
 position: "WTB"
 team: "ペルピニャン"
@@ -12,22 +12,19 @@ university: ""
 caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
-nationality: "Fijian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Nîmois (2010 - 2018)
-- France 7 (2018 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020)
-- France 7 (2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021)
-- France 7 (2021)
+- France 7 (2018 - 2021)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2021)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - 2023)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

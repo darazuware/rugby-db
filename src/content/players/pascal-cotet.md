@@ -1,5 +1,5 @@
 ---
-title: "パスカル・コテ"
+title: "Pascal COTET"
 name_en: "Pascal COTET"
 position: "PR"
 team: "バイヨンヌ"
@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2015)
-- Racing Club Narbonnais (2015 - 2016)
+- Racing Club Narbonnais (2015 - 2022)
 - Oyonnax Rugby (2016 - 2017)
 - RC Aubenas Vals (2017 - 2018)
-- Racing Club Narbonnais (2018 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )

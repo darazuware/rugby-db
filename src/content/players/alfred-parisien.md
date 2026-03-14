@@ -1,5 +1,5 @@
 ---
-title: "アルフレッド・パリジャン"
+title: "Alfred PARISIEN"
 name_en: "Alfred PARISIEN"
 position: "CTB"
 team: "リヨン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Poids"
-nationality: "Poids"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CA Périgueux Dordogne (2006 - 2016)

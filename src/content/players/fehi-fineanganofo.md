@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2022 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- Bay of Plenty Steamers (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- ベイ・オブ・プレンティ (2022 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

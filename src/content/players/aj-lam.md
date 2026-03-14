@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2018
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "フェデリコ-モーリ"
+title: "Federico MORI"
 name_en: "Federico MORI"
 position: "CTB"
 team: "バイヨンヌ"
@@ -23,10 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇹 ゼブレ・パルマ (2019)
-- Rugby Calvisano (2019)
-- 🇮🇹 ゼブレ・パルマ (2020)
-- Rugby Calvisano (2020)
-- 🇮🇹 ゼブレ・パルマ (2020 - 2021)
+- Rugby Calvisano (2019 - 2020)
+- 🇮🇹 ゼブレ・パルマ (2019 - 2021)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

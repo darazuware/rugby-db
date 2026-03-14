@@ -1,5 +1,5 @@
 ---
-title: "ロマン・タオフィフェヌア"
+title: "Romain TAOFIFENUA"
 name_en: "Romain TAOFIFENUA"
 position: "LO"
 team: "ラシン92"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Réseaux"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/romaintaofifenua/"
-twitter: "https://x.com/RomainTaofi"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Amicale Laïque Échirolles (2004 - 2005)

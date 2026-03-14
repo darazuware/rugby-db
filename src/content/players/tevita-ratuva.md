@@ -1,5 +1,5 @@
 ---
-title: "テヴィタ・ラトゥヴァ"
+title: "Tevita RATUVA"
 name_en: "Tevita RATUVA"
 position: "LO"
 team: "クレルモン"

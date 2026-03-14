@@ -1,5 +1,5 @@
 ---
-title: "ギオルギ-メリキゼ"
+title: "Giorgi MELIKIDZE"
 name_en: "Giorgi MELIKIDZE"
 position: "PR"
 team: "スタッド・フランセ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Georgia"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2015
 has_scores: true
-instagram: "https://www.instagram.com/giorgi_meliqidze/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Rustavi Kharebi (2014 - 2015)

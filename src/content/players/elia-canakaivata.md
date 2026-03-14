@@ -1,7 +1,7 @@
 ---
 title: "エリア-ジャナカイヴァタ"
 name_en: "Elia CANAKAIVATA"
-position: "Back row"
+position: "FL/No8"
 team: "フィジアン・ドゥルア"
 height: "185"
 weight: "104"

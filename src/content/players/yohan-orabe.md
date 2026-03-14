@@ -1,5 +1,5 @@
 ---
-title: "ヨアン・オラベ"
+title: "Yohan ORABÉ"
 name_en: "Yohan ORABÉ"
 position: "FB"
 team: "バイヨンヌ"

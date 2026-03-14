@@ -1,5 +1,5 @@
 ---
-title: "アレクシス・ベルナデ"
+title: "Alexis BERNADET"
 name_en: "Alexis BERNADET"
 position: "SH"
 team: "モンペリエ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Hers Lauragais XV (2006 - 2012)

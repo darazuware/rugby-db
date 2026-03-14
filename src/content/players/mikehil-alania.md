@@ -1,5 +1,5 @@
 ---
-title: "ミハイル・アラニア"
+title: "Mikheil ALANIA"
 name_en: "Mikheil ALANIA"
 position: "SH"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Georgian"
-nationality: "Georgian"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Jiki Gori (2017 - 2018)

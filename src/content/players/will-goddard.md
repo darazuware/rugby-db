@@ -16,13 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2024)
-- Eastwood Rugby Club (2024 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2026)
+- Eastwood Rugby Club (2024 - )

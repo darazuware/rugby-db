@@ -1,5 +1,5 @@
 ---
-title: "イラエ-シモーネ"
+title: "Irae SIMONE"
 name_en: "Irae SIMONE"
 position: "CTB"
 team: "クレルモン"

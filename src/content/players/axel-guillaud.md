@@ -1,5 +1,5 @@
 ---
-title: "アクセル・ギヨー"
+title: "Axel GUILLAUD"
 name_en: "Axel GUILLAUD"
 position: "FB"
 team: "クレルモン"

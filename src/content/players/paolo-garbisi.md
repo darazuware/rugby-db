@@ -1,5 +1,5 @@
 ---
-title: "パオロ・ガルビシ"
+title: "Paolo GARBISI"
 name_en: "Paolo GARBISI"
 position: "SO"
 team: "トゥーロン"
@@ -12,23 +12,19 @@ university: ""
 caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
-nationality: "Italie"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Mogliano Veneto Rugby (2018 - 2019)
-- Petrarca Rugby (2019)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2019)
-- Petrarca Rugby (2020)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2020 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- Petrarca Rugby (2019 - 2020)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2019 - 2021)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )

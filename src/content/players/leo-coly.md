@@ -1,5 +1,5 @@
 ---
-title: "レオ・コリ"
+title: "Léo COLY"
 name_en: "Léo COLY"
 position: "SH"
 team: "モンペリエ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/_colyleo/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Biscarrosse Olympique Rugby (2012 - 2016)

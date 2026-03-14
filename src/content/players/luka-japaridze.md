@@ -1,5 +1,5 @@
 ---
-title: "ルカ・ジャパリゼ"
+title: "Luka JAPARIDZE"
 name_en: "Luka JAPARIDZE"
 position: "PR"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/lukajaparidze3/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2017 - 2018)

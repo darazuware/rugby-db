@@ -1,7 +1,7 @@
 ---
 title: "ジョナ・ロウ"
 name_en: "Jonah LOWE"
-position: "Winger"
+position: "WTB"
 team: "オタゴ・ハイランダーズ"
 height: "184"
 weight: "92"
@@ -16,31 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2019)
-- Hawke's Bay Magpies (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- Hawke's Bay Magpies (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Hawke's Bay Magpies (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- Hawke's Bay Magpies (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- Hawke's Bay Magpies (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- Hawke's Bay Magpies (2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
-- Hawke's Bay Magpies (2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
-- Hawke's Bay Magpies (2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
-- Hawke's Bay Magpies (2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
-- Hawke's Bay Magpies (2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2020)
+- ホークスベイ (2019 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - )

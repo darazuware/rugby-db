@@ -1,7 +1,7 @@
 ---
 title: "マック・グリーリー"
 name_en: "Mac GREALY"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: "180"
 weight: "89"

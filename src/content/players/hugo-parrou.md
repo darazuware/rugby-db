@@ -1,5 +1,5 @@
 ---
-title: "ユーゴー・パルー"
+title: "Hugo PARROU"
 name_en: "Hugo PARROU"
 position: "PR"
 team: "ポー"

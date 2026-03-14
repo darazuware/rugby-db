@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,11 +24,7 @@ facebook: ""
 ---
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- 🇿🇦 ヴォーダコム・ブルズ (2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
+- タラナキ (2019 - 2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2026)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2020 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2023)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )
+- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - )

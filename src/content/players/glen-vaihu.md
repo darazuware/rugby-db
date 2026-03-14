@@ -1,7 +1,7 @@
 ---
 title: "グレン-ヴィフ"
 name_en: "Glen VAIHU"
-position: "Winger"
+position: "WTB"
 team: "モアナ・パシフィカ"
 height: "183"
 weight: "94"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2019 - 2024)
-- AZ-COM Maruwa Momotaro's (2024 - 2025)
+- AZ-COM丸和マモタローズ (2024 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

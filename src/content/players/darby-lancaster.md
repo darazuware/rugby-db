@@ -1,7 +1,7 @@
 ---
 title: "ダービー-ランカスター"
 name_en: "Darby LANCASTER"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: "190"
 weight: "95"

@@ -1,5 +1,5 @@
 ---
-title: "イグナシオ-ルイス"
+title: "Ignacio RUIZ"
 name_en: "Ignacio RUIZ"
 position: "HO"
 team: "ペルピニャン"
@@ -11,21 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Argentine"
-nationality: "Argentine"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Jaguares XV (2020 - 2021)
-- Club Regatas de Bella Vista (2021)
-- Jaguares XV (2022)
-- Club Regatas de Bella Vista (2022)
+- Jaguares XV (2020 - 2022)
+- Club Regatas de Bella Vista (2021 - 2022)
 - London Irish (2022 - 2023)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

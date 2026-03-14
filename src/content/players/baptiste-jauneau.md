@@ -1,5 +1,5 @@
 ---
-title: "バティスト・ジョノー"
+title: "Baptiste JAUNEAU"
 name_en: "Baptiste JAUNEAU"
 position: "SH"
 team: "クレルモン"

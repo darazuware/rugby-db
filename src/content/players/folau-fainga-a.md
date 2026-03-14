@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2026
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
@@ -25,7 +25,5 @@ facebook: ""
 
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2026)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2026 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2026)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

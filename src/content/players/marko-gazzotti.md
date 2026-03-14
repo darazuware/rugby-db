@@ -1,5 +1,5 @@
 ---
-title: "マルコ・ガゾッティ"
+title: "Marko GAZZOTTI"
 name_en: "Marko GAZZOTTI"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

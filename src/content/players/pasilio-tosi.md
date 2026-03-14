@@ -16,29 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Southland Stags (2019 - 2020)
-- Bay of Plenty Steamers (2020 - 2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- Bay of Plenty Steamers (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- Bay of Plenty Steamers (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- Bay of Plenty Steamers (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- Bay of Plenty Steamers (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- Bay of Plenty Steamers (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- Bay of Plenty Steamers (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- サウスランド (2019 - 2020)
+- ベイ・オブ・プレンティ (2020 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - )

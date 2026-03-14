@@ -1,5 +1,5 @@
 ---
-title: "テオ・ウィリアム"
+title: "Théo WILLIAM"
 name_en: "Théo WILLIAM"
 position: "FL/NO8"
 team: "リヨン"
@@ -11,21 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Poids"
-nationality: "Poids"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2022
+joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CS Bourgoin Jallieu Rugby (2009 - 2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2021)
-- Union Sportive Bressane Pays de l'Ain (2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022)
-- Union Sportive Bressane Pays de l'Ain (2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2026)
+- Union Sportive Bressane Pays de l'Ain (2021 - )

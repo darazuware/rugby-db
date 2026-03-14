@@ -1,7 +1,7 @@
 ---
 title: "マラカイ・ランプリング＝アレック"
 name_en: "Malachi WRAMPLING-ALEC"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "192"
 weight: "112"
@@ -23,9 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Waikato Mooloos (2022 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Waikato Mooloos (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- Waikato Mooloos (2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

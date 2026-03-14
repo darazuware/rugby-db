@@ -1,7 +1,7 @@
 ---
 title: "イシケリ・バシヤロ"
 name_en: "Isikeli BASIYALO"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: ""
 weight: ""

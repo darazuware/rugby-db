@@ -1,5 +1,5 @@
 ---
-title: "デンバ-バンバ"
+title: "Demba BAMBA"
 name_en: "Demba BAMBA"
 position: "PR"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/demba_bm/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Saint-Denis Union Sports Rugby (2012 - 2014)

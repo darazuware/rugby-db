@@ -1,5 +1,5 @@
 ---
-title: "アントワーヌ・ジベール"
+title: "Antoine GIBERT"
 name_en: "Antoine GIBERT"
 position: "SO"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2011
 has_scores: true
-instagram: "https://www.instagram.com/antoinegib92/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - AC Boulogne-Billancourt (2004 - 2011)

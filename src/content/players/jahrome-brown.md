@@ -1,7 +1,7 @@
 ---
 title: "ジャローム-ブラウン"
 name_en: "Jahrome BROWN"
-position: "Back row"
+position: "FL/No8"
 team: "ワイカト・チーフス"
 height: "189"
 weight: "105"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Waikato Mooloos (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- Waikato Mooloos (2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

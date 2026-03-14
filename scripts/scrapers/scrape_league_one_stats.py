@@ -6,7 +6,7 @@ import random
 from bs4 import BeautifulSoup
 
 # Input/Output
-INPUT_CSV = 'final_master_data_v17_consolidated.csv'
+INPUT_CSV = 'final_master_data_v25.csv'
 OUTPUT_JSON = 'league_one_stats_live.json'
 
 def fetch_player_stats(url):

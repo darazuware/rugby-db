@@ -1,5 +1,5 @@
 ---
-title: "ヴァランタン・ユトー"
+title: "Valentin HUTTEAU"
 name_en: "Valentin HUTTEAU"
 position: "SH"
 team: "ボルドー・ベグル"

@@ -1,5 +1,5 @@
 ---
-title: "グウェナエル・デュプレンヌ"
+title: "Gwenaël DUPLENNE"
 name_en: "Gwenaël DUPLENNE"
 position: "FB"
 team: "ヴァンヌ"
@@ -11,19 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2013
+joined_year: 2012
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Lavallois (2004 - 2006)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2006 - 2012)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2012 - 2013)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2013 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2006 - 2026)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2012 - )

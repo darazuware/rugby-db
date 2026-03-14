@@ -1,5 +1,5 @@
 ---
-title: "テディ・ボビニー"
+title: "Teddy BAUBIGNY"
 name_en: "Teddy BAUBIGNY"
 position: "HO"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Pays de Meaux (2012 - 2013)

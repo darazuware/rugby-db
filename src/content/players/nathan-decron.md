@@ -1,5 +1,5 @@
 ---
-title: "ナタン・ドゥクロン"
+title: "Nathan DECRON"
 name_en: "Nathan DECRON"
 position: "CTB"
 team: "ポー"
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - Union Sportive Néracaise (2007 - 2013)
-- Sporting Union Agenais (2013 - 2017)
+- Sporting Union Agenais (2013 - 2021)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2019)
-- Sporting Union Agenais (2019 - 2021)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "ペセリ・ヤト"
+title: "Peceli YATO"
 name_en: "Peceli YATO"
 position: "FL/NO8"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
-nationality: "Fijian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2025)

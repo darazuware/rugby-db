@@ -1,7 +1,7 @@
 ---
 title: "テヴィタ・オファ"
 name_en: "Tevita OFA"
-position: "Winger"
+position: "WTB"
 team: "モアナ・パシフィカ"
 height: "186"
 weight: "90"
@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Counties Manukau Steelers (2021 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Counties Manukau Steelers (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Counties Manukau Steelers (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- カウンティーズ・マヌカウ (2021 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

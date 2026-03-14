@@ -1,5 +1,5 @@
 ---
-title: "アロヴィシオ・コリヴァイ"
+title: "Alovisio KOLIVAÏ"
 name_en: "Alovisio KOLIVAÏ"
 position: "PR"
 team: "ヴァンヌ"
@@ -11,22 +11,17 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2010 - 2024)
-- Stade Nantais (2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025)
-- Stade Nantais (2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025)
-- Stade Nantais (2026)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2026 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2010 - 2026)
+- Stade Nantais (2024 - )

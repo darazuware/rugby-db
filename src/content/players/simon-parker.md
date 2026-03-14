@@ -1,7 +1,7 @@
 ---
 title: "サイモン・パーカー"
 name_en: "Simon PARKER"
-position: "Back row"
+position: "FL/No8"
 team: "ワイカト・チーフス"
 height: "193"
 weight: "109"
@@ -16,27 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
-- Waikato Mooloos (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Waikato Mooloos (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2022)
-- Waikato Mooloos (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- Waikato Mooloos (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- Northland Taniwha (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Northland Taniwha (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Northland Taniwha (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- Northland Taniwha (2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2026)
+- ノースランド (2023 - )

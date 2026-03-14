@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # 設定
-MASTER_CSV = 'data_sources/final_master_data_v17_consolidated.csv'
+MASTER_CSV = 'data_sources/final_master_data_v25.csv'
 NEW_DATA_CSV = 'data_sources/latest_scraped_data.csv'  # 新しく取得したデータのパス（例）
 
 def update_master_data():

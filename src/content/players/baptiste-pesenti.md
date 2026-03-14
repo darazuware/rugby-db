@@ -1,5 +1,5 @@
 ---
-title: "バティスト・プセンティ"
+title: "Baptiste PESENTI"
 name_en: "Baptiste PESENTI"
 position: "LO"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/pesentibaptiste/"
-twitter: "https://twitter.com/PesentiBaptist_"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - FC Saint-Claude Rugby (2005 - 2012)

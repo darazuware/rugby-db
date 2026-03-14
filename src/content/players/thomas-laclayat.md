@@ -1,5 +1,5 @@
 ---
-title: "トマ・ラクラヤット"
+title: "Thomas LACLAYAT"
 name_en: "Thomas LACLAYAT"
 position: "PR"
 team: "ポー"
@@ -23,11 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- RC Haute Bresse (2012 - 2013)
-- Oyonnax Rugby (2013)
-- RC Haute Bresse (2013)
-- Oyonnax Rugby (2014)
-- RC Haute Bresse (2014)
-- Oyonnax Rugby (2014 - 2023)
+- RC Haute Bresse (2012 - 2014)
+- Oyonnax Rugby (2013 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2025)
 - 🇫🇷 [ポー](/teams/top14/pau) (2025 - )

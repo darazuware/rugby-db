@@ -3,7 +3,7 @@ import glob
 import csv
 
 # 正規の選手リスト（League One 199名）を取得
-CSV_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
+CSV_PATH = 'data_sources/final_master_data_v25.csv'
 SR_CSV = 'data_sources/super_rugby_full.csv'
 T14_CSV = 'data_sources/top14_full.csv'
 PLAYER_DIR = 'src/content/players'

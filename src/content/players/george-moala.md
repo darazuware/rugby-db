@@ -1,5 +1,5 @@
 ---
-title: "ジョージ-モアラ"
+title: "George MOALA"
 name_en: "George MOALA"
 position: "CTB"
 team: "クレルモン"

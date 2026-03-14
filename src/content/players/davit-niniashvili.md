@@ -1,5 +1,5 @@
 ---
-title: "ダヴィト-ニニアシヴィリ"
+title: "Davit NINIASHVILI"
 name_en: "Davit NINIASHVILI"
 position: "FB"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Géorgienne"
-nationality: "Géorgienne"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/niniashvilidatuna_"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Khvamli Rugby (2020 - 2021)

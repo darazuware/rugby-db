@@ -1,7 +1,7 @@
 ---
 title: "タニエラ・ラクロ"
 name_en: "Taniela RAKURO"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: ""
 weight: ""
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - Nadroga (2021 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025)
-- 🇿🇦 ヴォーダコム・ブルズ (2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2026)
+- タラナキ (2024 - )

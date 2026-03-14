@@ -1,5 +1,5 @@
 ---
-title: "セク・マカドゥ"
+title: "Sékou MACALOU"
 name_en: "Sékou MACALOU"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2015
 has_scores: true
-instagram: "https://www.instagram.com/macsekou/"
-twitter: "https://twitter.com/MacSekou"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - AAS Sarcelles Rugby (2005 - 2011)

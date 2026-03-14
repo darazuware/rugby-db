@@ -1,5 +1,5 @@
 ---
-title: "トマ・ラコンブル"
+title: "Thomas LACOMBRE"
 name_en: "Thomas LACOMBRE"
 position: "HO"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://instagram.com/thomas__lacombre?igshid=YmMyMTA2M2Y="
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Club Athlétique Pratéen (2011 - 2018)

@@ -1,5 +1,5 @@
 ---
-title: "マティス・ルベル"
+title: "Matthis LEBEL"
 name_en: "Matthis LEBEL"
 position: "WTB"
 team: "トゥールーズ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Argentina"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2013
 has_scores: true
-instagram: "https://www.instagram.com/matthis_lebel/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lombez Samatan (2004 - 2013)

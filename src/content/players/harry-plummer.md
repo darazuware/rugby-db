@@ -1,5 +1,5 @@
 ---
-title: "ハリー-プラマー"
+title: "Harry PLUMMER"
 name_en: "Harry PLUMMER"
 position: "SO"
 team: "クレルモン"

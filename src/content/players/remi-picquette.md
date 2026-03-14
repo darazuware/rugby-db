@@ -1,5 +1,5 @@
 ---
-title: "レミ・ピケット"
+title: "Rémi PICQUETTE"
 name_en: "Rémi PICQUETTE"
 position: "LO"
 team: "ポー"
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - Lille Métropole Rugby (2012 - 2014)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2017)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2024)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - 2021)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2024)
 - 🇫🇷 [ポー](/teams/top14/pau) (2024 - )

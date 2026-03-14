@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,7 +24,5 @@ facebook: ""
 ---
 
 - club inconnu (2019 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2024)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )

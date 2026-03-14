@@ -1,7 +1,7 @@
 ---
 title: "イーライ・ランギ"
 name_en: "Eli LANGI"
-position: "Back row"
+position: "FL/No8"
 team: "ACTブランビーズ"
 height: "193"
 weight: "104"

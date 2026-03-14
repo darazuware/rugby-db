@@ -23,10 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Jaguares (2018 - 2019)
-- Dogos XV (2019 - 2020)
+- ハグアレス (2018 - 2019)
+- Dogos XV (2019 - 2024)
 - Jaguares XV (2020 - 2021)
 - Selknam (2021 - 2022)
-- Dogos XV (2022 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
+- エクセター・チーフス (2024 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジョー・ジョナス"
+title: "Joe JONAS"
 name_en: "Joe JONAS"
 position: "FB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/joe__jonas15/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Biarritz Olympique Pays Basque (2020 - 2024)

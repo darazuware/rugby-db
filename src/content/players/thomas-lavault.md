@@ -1,5 +1,5 @@
 ---
-title: "トマ・ラヴォー"
+title: "Thomas LAVAULT"
 name_en: "Thomas LAVAULT"
 position: "LO"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2016
 has_scores: true
-instagram: "https://www.instagram.com/thomaslavault"
-twitter: "https://www.twitter.com/ThomasLavault"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Thouars (2011 - 2016)

@@ -1,7 +1,7 @@
 ---
 title: "ダルトン-パパリイ"
 name_en: "Dalton PAPALI'I"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "193"
 weight: "108"
@@ -16,27 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2019
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2019)
-- Counties Manukau Steelers (2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- Counties Manukau Steelers (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
-- Counties Manukau Steelers (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Counties Manukau Steelers (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2023)
-- Counties Manukau Steelers (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- Counties Manukau Steelers (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2026)
+- カウンティーズ・マヌカウ (2019 - )

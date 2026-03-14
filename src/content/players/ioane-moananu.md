@@ -23,17 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Counties Manukau Steelers (2021 - 2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- Counties Manukau Steelers (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- Counties Manukau Steelers (2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- Counties Manukau Steelers (2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
-- Counties Manukau Steelers (2025)
+- カウンティーズ・マヌカウ (2021 - 2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2025)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

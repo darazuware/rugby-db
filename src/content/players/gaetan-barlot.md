@@ -1,5 +1,5 @@
 ---
-title: "ガエタン-バルロ"
+title: "Gaëtan BARLOT"
 name_en: "Gaëtan BARLOT"
 position: "HO"
 team: "ボルドー・ベグル"

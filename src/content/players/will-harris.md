@@ -1,7 +1,7 @@
 ---
 title: "ウィル・ハリス"
 name_en: "Will HARRIS"
-position: "Back row"
+position: "FL/No8"
 team: "ウェスタン・フォース"
 height: "194"
 weight: "107"

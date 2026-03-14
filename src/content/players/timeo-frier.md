@@ -1,5 +1,5 @@
 ---
-title: "ティメオ・フリエ"
+title: "Timéo FRIER"
 name_en: "Timéo FRIER"
 position: "CTB"
 team: "クレルモン"

@@ -1,5 +1,5 @@
 ---
-title: "カルビン・グルグ"
+title: "Kalvin GOURGUES"
 name_en: "Kalvin GOURGUES"
 position: "CTB"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/kalvingourgues_/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Grenade Sports (2010 - 2019)

@@ -16,28 +16,15 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Southland Stags (2018 - 2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- Northland Taniwha (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- Northland Taniwha (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- Northland Taniwha (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- Northland Taniwha (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- Waikato Mooloos (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Waikato Mooloos (2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- Waikato Mooloos (2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025)
-- Waikato Mooloos (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- サウスランド (2018 - 2021)
+- ノースランド (2021 - 2023)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2026)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2025)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

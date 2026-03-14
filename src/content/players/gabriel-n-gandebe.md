@@ -1,5 +1,5 @@
 ---
-title: "ガブリエル-ンガンデベ"
+title: "Gabriel N'GANDEBE"
 name_en: "Gabriel N'GANDEBE"
 position: "WTB"
 team: "モンペリエ"

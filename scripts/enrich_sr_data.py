@@ -51,7 +51,7 @@ def get_player_details(url):
         return {}
 
 def main():
-    csv_path = "data_sources/final_master_data_v17_consolidated.csv"
+    csv_path = "data_sources/final_master_data_v25.csv"
     with open(csv_path, mode='r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames

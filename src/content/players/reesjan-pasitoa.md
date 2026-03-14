@@ -24,8 +24,6 @@ facebook: ""
 ---
 
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2021)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2024)
-- Northland Taniwha (2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025)
-- Northland Taniwha (2025)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2025)
+- ノースランド (2024 - 2025)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

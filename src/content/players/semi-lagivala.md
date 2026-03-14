@@ -1,5 +1,5 @@
 ---
-title: "セミ・ラギヴァラ"
+title: "Semi LAGIVALA"
 name_en: "Semi LAGIVALA"
 position: "CTB"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Fidjienne"
-nationality: "Fidjienne"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/lagivala13"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Stade Montois Rugby Pro (2022 - 2025)

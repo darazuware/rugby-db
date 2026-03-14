@@ -1,5 +1,5 @@
 ---
-title: "ロブ・レオタ"
+title: "Rob LEOTA"
 name_en: "Rob LEOTA"
 position: "FL/NO8"
 team: "バイヨンヌ"

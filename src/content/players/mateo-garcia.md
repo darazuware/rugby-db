@@ -1,5 +1,5 @@
 ---
-title: "マテオ・ガルシア"
+title: "Matéo GARCIA"
 name_en: "Matéo GARCIA"
 position: "SO"
 team: "トゥーロン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "France"
-nationality: "France"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2020)

@@ -1,5 +1,5 @@
 ---
-title: "マキシム・マシュノー"
+title: "Maxime MACHENAUD"
 name_en: "Maxime MACHENAUD"
 position: "SH"
 team: "バイヨンヌ"

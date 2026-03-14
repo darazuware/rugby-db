@@ -1,5 +1,5 @@
 ---
-title: "スリアシ・ヴニヴァル"
+title: "Suliasi VUNIVALU"
 name_en: "Suliasi VUNIVALU"
 position: "WTB"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
-nationality: "Fidjienne"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/suli_vunivalu"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Melbourne Storm (2015 - 2020)

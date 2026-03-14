@@ -1,5 +1,5 @@
 ---
-title: "アダム・コールマン"
+title: "Adam COLEMAN"
 name_en: "Adam COLEMAN"
 position: "LO"
 team: "ボルドー・ベグル"

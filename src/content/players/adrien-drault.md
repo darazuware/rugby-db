@@ -1,5 +1,5 @@
 ---
-title: "アドリアン・ドロー"
+title: "Adrien DRAULT"
 name_en: "Adrien DRAULT"
 position: "CTB"
 team: "ボルドー・ベグル"

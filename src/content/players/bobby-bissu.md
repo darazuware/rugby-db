@@ -1,5 +1,5 @@
 ---
-title: "ボビー・ビス"
+title: "Bobby BISSU"
 name_en: "Bobby BISSU"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

@@ -1,5 +1,5 @@
 ---
-title: "フェリックス・ランベイ"
+title: "Félix LAMBEY"
 name_en: "Félix LAMBEY"
 position: "LO"
 team: "リヨン"
@@ -12,17 +12,16 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2016
+joined_year: 2015
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2013 - 2015)
-- Association Sportive Béziers Hérault (2015 - 2016)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2013 - 2026)
+- Association Sportive Béziers Hérault (2015 - )

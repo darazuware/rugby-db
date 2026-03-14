@@ -1,5 +1,5 @@
 ---
-title: "レオ・カルボノー"
+title: "Léo CARBONNEAU"
 name_en: "Léo CARBONNEAU"
 position: "SH"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/leo.carbonneau/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Avenir Bizanos (2009 - 2013)

@@ -1,5 +1,5 @@
 ---
-title: "ペニアシ・ダクワガ"
+title: "Peniasi DAKUWAQA"
 name_en: "Peniasi DAKUWAQA"
 position: "WTB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/da_flashdakuwaqa/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Tupapa Maraerenga Panthers (2020 - 2021)

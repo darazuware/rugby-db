@@ -1,5 +1,5 @@
 ---
-title: "テモ・マティウ"
+title: "Temo MATIU"
 name_en: "Temo MATIU"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

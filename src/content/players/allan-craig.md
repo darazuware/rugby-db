@@ -16,20 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Northland Taniwha (2021 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- Northland Taniwha (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Northland Taniwha (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Northland Taniwha (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Northland Taniwha (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- ノースランド (2021 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

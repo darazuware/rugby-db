@@ -1,5 +1,5 @@
 ---
-title: "ピタ＝ガス・ソワクラ"
+title: "Pita-Gus SOWAKULA"
 name_en: "Pita-Gus SOWAKULA"
 position: "FL/NO8"
 team: "クレルモン"
@@ -23,20 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2019)
-- 🇿🇦 ヴォーダコム・ブルズ (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2023)
+- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

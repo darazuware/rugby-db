@@ -1,5 +1,5 @@
 ---
-title: "ノア・ジンゼン"
+title: "Noa ZINZEN"
 name_en: "Noa ZINZEN"
 position: "FL/NO8"
 team: "ラシン92"

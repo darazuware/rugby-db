@@ -1,5 +1,5 @@
 ---
-title: "ルーク・ホワイトロック"
+title: "Luke WHITELOCK"
 name_en: "Luke WHITELOCK"
 position: "FL/NO8"
 team: "ポー"

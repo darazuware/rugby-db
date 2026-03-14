@@ -1,5 +1,5 @@
 ---
-title: "ヴィリモニ・ボティトゥ"
+title: "Vilimoni BOTITU"
 name_en: "Vilimoni BOTITU"
 position: "CTB"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Fidjien"
-nationality: "Fidjien"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - FIDJI 7's (2019 - 2020)

@@ -1,7 +1,7 @@
 ---
 title: "ニック・ライナー"
 name_en: "Nic LYNAGH"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "183"
 weight: "88"
@@ -16,14 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2026
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Harlequins (2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- Harlequins (2026)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - 2026)
+- ハレクインズ (2025 - )

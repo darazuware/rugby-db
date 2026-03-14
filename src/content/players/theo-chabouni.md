@@ -1,5 +1,5 @@
 ---
-title: "テオ・シャブニ"
+title: "Théo CHABOUNI"
 name_en: "Théo CHABOUNI"
 position: "FB"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Français"
-nationality: "Français"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Pennes-Mirabeau Cadeneaux Rugby (2009 - 2016)

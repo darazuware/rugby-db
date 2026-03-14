@@ -1,5 +1,5 @@
 ---
-title: "ルカス・サモラ"
+title: "Lucas ZAMORA"
 name_en: "Lucas ZAMORA"
 position: "SH"
 team: "クレルモン"

@@ -45,7 +45,9 @@ const getTeamMapping = (teamName: string) => {
             shortJp === teamName ||
             (data.aliases && data.aliases.includes(teamName)) ||
             formalName.includes(teamName) ||
-            teamName.includes(formalName)
+            teamName.includes(formalName) ||
+            data.jp.includes(teamName) ||
+            teamName.includes(data.jp)
         ) {
             return data;
         }
@@ -78,7 +80,11 @@ const results = fullResults.slice(0, 20); // 最新20件を表示（D1/D2/D3を�
 const standings = rawStandings.map((s: any) => {
     const mapping = getTeamMapping(s.team_name);
     // teamsDataから正確なスラッグを取得してフォールバック
-    const teamInTeams = filteredTeams.find((t: any) => t.team_name === s.team_name);
+    const teamInTeams = filteredTeams.find((t: any) => 
+        t.team_name === s.team_name || 
+        t.team_name_jp === s.team_name || 
+        (mapping && t.team_name === mapping.jp)
+    );
     
     return {
         ...s,

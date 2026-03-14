@@ -1,5 +1,5 @@
 ---
-title: "セイララ・ラム"
+title: "Seilala LAM"
 name_en: "Seilala LAM"
 position: "HO"
 team: "クレルモン"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
 instagram: ""
 twitter: ""
@@ -25,7 +25,5 @@ facebook: ""
 
 - Canberra Vikings (2014 - 2015)
 - USON Nevers Rugby (2015 - 2017)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2017 - 2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2026)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2026 - )
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2017 - 2026)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

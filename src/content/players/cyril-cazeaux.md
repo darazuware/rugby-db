@@ -1,5 +1,5 @@
 ---
-title: "シリル-カゾー"
+title: "Cyril CAZEAUX"
 name_en: "Cyril CAZEAUX"
 position: "LO"
 team: "ボルドー・ベグル"

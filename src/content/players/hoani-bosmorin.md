@@ -1,5 +1,5 @@
 ---
-title: "ホアニ-ビスモラン"
+title: "Hoani BOSMORIN"
 name_en: "Hoani BOSMORIN"
 position: "WTB"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2010
 has_scores: true
-instagram: "https://www.instagram.com/hoani.bosmorin"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - )

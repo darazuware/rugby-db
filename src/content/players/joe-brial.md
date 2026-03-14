@@ -1,7 +1,7 @@
 ---
 title: "ジョー・ブライアル"
 name_en: "Joe BRIAL"
-position: "Back row"
+position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: "195"
 weight: "114"

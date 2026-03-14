@@ -1,7 +1,7 @@
 ---
 title: "サム・ツイツポウ"
 name_en: "Sam TUITUPOU"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: ""
 weight: ""

@@ -1,5 +1,5 @@
 ---
-title: "ジェレミー・サンゼル"
+title: "Jérémy SINZELLE"
 name_en: "Jérémy SINZELLE"
 position: "CTB"
 team: "トゥーロン"
@@ -11,20 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "France"
-nationality: "France"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2022
+joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Nice Côte d'Azur Université Racing (2003 - 2006)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2012)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2026)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )

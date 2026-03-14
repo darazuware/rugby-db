@@ -1,5 +1,5 @@
 ---
-title: "ティボー・ドーバニャ"
+title: "Thibault DAUBAGNA"
 name_en: "Thibault DAUBAGNA"
 position: "SH"
 team: "ポー"

@@ -1,5 +1,5 @@
 ---
-title: "アレックス・ニューソム"
+title: "Alex NEWSOME"
 name_en: "Alex NEWSOME"
 position: "FB"
 team: "クレルモン"

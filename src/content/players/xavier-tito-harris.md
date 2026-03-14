@@ -24,4 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

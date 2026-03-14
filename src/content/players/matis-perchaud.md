@@ -1,5 +1,5 @@
 ---
-title: "マティス・ペルショー"
+title: "Matis PERCHAUD"
 name_en: "Matis PERCHAUD"
 position: "PR"
 team: "ボルドー・ベグル"

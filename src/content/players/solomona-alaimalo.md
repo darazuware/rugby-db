@@ -16,29 +16,17 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
-- Southland Stags (2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- Southland Stags (2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- Southland Stags (2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
-- Southland Stags (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2023)
+- サウスランド (2020 - 2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2022)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2023)
 - Wests Tigers (2023 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Northland Taniwha (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Northland Taniwha (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- ノースランド (2024 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジョニー・ヒル"
+title: "Jonny HILL"
 name_en: "Jonny HILL"
 position: "LO"
 team: "ラシン92"

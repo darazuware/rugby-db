@@ -1,5 +1,5 @@
 ---
-title: "レオ・アメトラ"
+title: "Léo AMETLLA"
 name_en: "Léo AMETLLA"
 position: "PR"
 team: "トゥーロン"

@@ -1,5 +1,5 @@
 ---
-title: "ティボー・ラナン"
+title: "Thibaud LANEN"
 name_en: "Thibaud LANEN"
 position: "LO"
 team: "クレルモン"

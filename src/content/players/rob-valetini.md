@@ -1,7 +1,7 @@
 ---
 title: "ロブ・ヴァレティニ"
 name_en: "Rob VALETINI"
-position: "Back row"
+position: "FL/No8"
 team: "ACTブランビーズ"
 height: "193"
 weight: "113"

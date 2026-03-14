@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,19 +24,7 @@ facebook: ""
 ---
 
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2020)
-- Hawke's Bay Magpies (2020)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
-- Hawke's Bay Magpies (2021)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
-- Hawke's Bay Magpies (2021)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
-- Hawke's Bay Magpies (2022)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2023)
-- Hawke's Bay Magpies (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Hawke's Bay Magpies (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Hawke's Bay Magpies (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- Hawke's Bay Magpies (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2021)
+- ホークスベイ (2020 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "タウェラ・カーバーロー"
+title: "Tawera KERR-BARLOW"
 name_en: "Tawera KERR-BARLOW"
 position: "SH"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/tawerakb/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2010 - 2017)

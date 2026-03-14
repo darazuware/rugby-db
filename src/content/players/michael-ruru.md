@@ -1,5 +1,5 @@
 ---
-title: "マイケル・ルル"
+title: "Michael RURU"
 name_en: "Michael RURU"
 position: "SH"
 team: "ヴァンヌ"
@@ -11,21 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Zealander"
-nationality: "Zealander"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
 - 🇦🇺 メルボルン・レベルズ (2017 - 2019)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2023)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )

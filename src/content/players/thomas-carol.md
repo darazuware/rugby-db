@@ -1,5 +1,5 @@
 ---
-title: "トマ・カロル"
+title: "Thomas CAROL"
 name_en: "Thomas CAROL"
 position: "WTB"
 team: "ポー"

@@ -1,5 +1,5 @@
 ---
-title: "ジャック-グッドヒュー"
+title: "Jack GOODHUE"
 name_en: "Jack GOODHUE"
 position: "CTB"
 team: "カストル"
@@ -12,27 +12,17 @@ university: ""
 caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
-nationality: "Néo"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2019)
-- Northland Taniwha (2019)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020)
-- Northland Taniwha (2020)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2021)
-- Northland Taniwha (2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- Northland Taniwha (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- Northland Taniwha (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- Northland Taniwha (2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2023)
+- Northland Taniwha (2019 - 2023)
 - 🇫🇷 [カストル](/teams/top14/castres) (2023 - )

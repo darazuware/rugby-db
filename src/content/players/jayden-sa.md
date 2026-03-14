@@ -16,19 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- 🇿🇦 ヴォーダコム・ブルズ (2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
+- タラナキ (2023 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )

@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - Queensland Country (2018 - 2019)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2020)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2026)
 - 🇦🇺 メルボルン・レベルズ (2020 - 2024)
-- Gold Coast Titans (2024 - 2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - )
+- Gold Coast Titans (2024 - )

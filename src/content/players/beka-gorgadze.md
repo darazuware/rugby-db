@@ -1,5 +1,5 @@
 ---
-title: "ベカ・ゴルガゼ"
+title: "Beka GORGADZE"
 name_en: "Beka GORGADZE"
 position: "FL/NO8"
 team: "ポー"

@@ -6,7 +6,7 @@ import os
 import unicodedata
 
 JSON_DB_PATH = 'data/unified_player_database_final.json'
-CSV_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
+CSV_PATH = 'data_sources/final_master_data_v25.csv'
 OUTPUT_PATH = 'data/unified_player_database_final.json'
 
 def normalize_name(name):

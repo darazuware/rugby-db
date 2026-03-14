@@ -1,5 +1,5 @@
 ---
-title: "ウーゴ-パコム"
+title: "Ugo PACOME"
 name_en: "Ugo PACOME"
 position: "FB"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/ugo_pcm"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Colomiers (2010 - 2025)

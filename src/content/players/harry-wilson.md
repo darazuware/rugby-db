@@ -1,7 +1,7 @@
 ---
 title: "ハリー-ウィルソン"
 name_en: "Harry WILSON"
-position: "Back row"
+position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: "196"
 weight: "115"

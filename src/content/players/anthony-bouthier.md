@@ -1,5 +1,5 @@
 ---
-title: "アントニー・ブティエ"
+title: "Anthony BOUTHIER"
 name_en: "Anthony BOUTHIER"
 position: "FB"
 team: "ヴァンヌ"
@@ -12,19 +12,18 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "French"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Pouillon (2004 - 2011)
 - US Dax Rugby Landes (2011 - 2014)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2014 - 2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2014 - 2026)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - )

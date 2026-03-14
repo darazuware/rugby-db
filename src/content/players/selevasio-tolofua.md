@@ -1,5 +1,5 @@
 ---
-title: "セレヴァシオ・トロフア"
+title: "Selevasio TOLOFUA"
 name_en: "Selevasio TOLOFUA"
 position: "FL/NO8"
 team: "クレルモン"

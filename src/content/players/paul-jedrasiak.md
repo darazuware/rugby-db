@@ -1,5 +1,5 @@
 ---
-title: "ポール・ジェドラジアク"
+title: "Paul JEDRASIAK"
 name_en: "Paul JEDRASIAK"
 position: "LO"
 team: "カストル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Français"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Athlétique Club Castelroussin (2004 - 2008)

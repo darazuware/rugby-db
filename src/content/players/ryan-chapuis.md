@@ -1,5 +1,5 @@
 ---
-title: "ライアン・シャピュイ"
+title: "Ryan CHAPUIS"
 name_en: "Ryan CHAPUIS"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2012
 has_scores: true
-instagram: "https://www.instagram.com/rychapuis/?hl=fr"
-twitter: "https://twitter.com/RyanChp"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Olympique Groslay Enghien Montmorency (2007 - 2012)

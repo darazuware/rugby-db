@@ -1,5 +1,5 @@
 ---
-title: "テヴィタ・タタフ"
+title: "Tevita TATAFU"
 name_en: "Tevita TATAFU"
 position: "PR"
 team: "バイヨンヌ"

@@ -1,5 +1,5 @@
 ---
-title: "ユーゴー-オーラドゥ"
+title: "Hugo AURADOU"
 name_en: "Hugo AURADOU"
 position: "LO"
 team: "ポー"

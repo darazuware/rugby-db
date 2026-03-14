@@ -1,5 +1,5 @@
 ---
-title: "サシャ・ロトリアン"
+title: "Sacha LOTRIAN"
 name_en: "Sacha LOTRIAN"
 position: "PR"
 team: "クレルモン"

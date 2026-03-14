@@ -1,7 +1,7 @@
 ---
 title: "オースティン-ダービッジ"
 name_en: "Austin DURBIDGE"
-position: "Back row"
+position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"
 height: "184"
 weight: "98"

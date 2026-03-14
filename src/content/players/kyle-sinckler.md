@@ -1,5 +1,5 @@
 ---
-title: "カイル-シンクラー"
+title: "Kyle SINCKLER"
 name_en: "Kyle SINCKLER"
 position: "PR"
 team: "トゥーロン"
@@ -12,19 +12,17 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "Angleterre"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Harlequins (2013 - 2019)
-- Bristol Bears (2019)
-- Harlequins (2020)
-- Bristol Bears (2020 - 2024)
+- Harlequins (2013 - 2020)
+- Bristol Bears (2019 - 2024)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

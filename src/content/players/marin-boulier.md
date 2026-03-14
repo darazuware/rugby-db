@@ -1,5 +1,5 @@
 ---
-title: "マラン・ブーリエ"
+title: "Marin BOULIER"
 name_en: "Marin BOULIER"
 position: "CTB"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Ouest Cotentin (2008 - 2020)

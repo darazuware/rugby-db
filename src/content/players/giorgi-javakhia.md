@@ -1,5 +1,5 @@
 ---
-title: "ギオルギ・ジャヴァヒア"
+title: "Giorgi JAVAKHIA"
 name_en: "Giorgi JAVAKHIA"
 position: "LO"
 team: "トゥーロン"
@@ -12,20 +12,18 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Géorgie"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2015 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2023)
-- FC Grenoble Rugby (2023 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025)
-- FC Grenoble Rugby (2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2026 - )
+- FC Grenoble Rugby (2023 - 2026)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )

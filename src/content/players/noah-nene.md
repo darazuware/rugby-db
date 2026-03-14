@@ -1,5 +1,5 @@
 ---
-title: "ノア・ネネ"
+title: "Noah NÉNÉ"
 name_en: "Noah NÉNÉ"
 position: "CTB"
 team: "スタッド・フランセ"
@@ -16,14 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/noah__nene/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Val de Bièvre (2013 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2024)
-- US Dax Rugby Landes (2024 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2026)
+- US Dax Rugby Landes (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "トゥムア・マヌ"
+title: "Tumua MANU"
 name_en: "Tumua MANU"
 position: "CTB"
 team: "ポー"
@@ -24,8 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
 - 🇫🇷 [ポー](/teams/top14/pau) (2020 - )

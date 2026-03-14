@@ -1,7 +1,7 @@
 ---
 title: "トリスタン・ライリー"
 name_en: "Triston REILLY"
-position: "Winger"
+position: "WTB"
 team: "NSWワラタス（ワラターズ）"
 height: "182"
 weight: "95"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,6 +24,5 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
-- Wests Tigers (2022 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2026)
+- Wests Tigers (2022 - )

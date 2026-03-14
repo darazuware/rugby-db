@@ -1,5 +1,5 @@
 ---
-title: "イーサン・ティア"
+title: "Ethan TIA"
 name_en: "Ethan TIA"
 position: "HO"
 team: "スタッド・フランセ"

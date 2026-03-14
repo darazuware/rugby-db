@@ -1,7 +1,7 @@
 ---
 title: "ケイレブ-クラーク"
 name_en: "Caleb CLARKE"
-position: "Winger"
+position: "WTB"
 team: "オークランド・ブルーズ"
 height: "189"
 weight: "108"
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2017
+joined_year: 2019
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2026)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - )

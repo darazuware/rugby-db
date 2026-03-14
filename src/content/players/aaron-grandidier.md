@@ -1,5 +1,5 @@
 ---
-title: "アーロン・グランディディエ"
+title: "Aaron GRANDIDIER"
 name_en: "Aaron GRANDIDIER"
 position: "WTB"
 team: "ポー"

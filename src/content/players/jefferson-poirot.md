@@ -1,5 +1,5 @@
 ---
-title: "ジェファーソン-ポワロ"
+title: "Jefferson POIROT"
 name_en: "Jefferson POIROT"
 position: "PR"
 team: "ボルドー・ベグル"

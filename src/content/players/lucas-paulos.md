@@ -1,5 +1,5 @@
 ---
-title: "ルカス・パウロス"
+title: "Lucas PAULOS"
 name_en: "Lucas PAULOS"
 position: "LO"
 team: "バイヨンヌ"

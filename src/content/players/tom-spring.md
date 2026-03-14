@@ -1,5 +1,5 @@
 ---
-title: "トム・スプリング"
+title: "Tom SPRING"
 name_en: "Tom SPRING"
 position: "WTB"
 team: "バイヨンヌ"

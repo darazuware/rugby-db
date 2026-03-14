@@ -1,5 +1,5 @@
 ---
-title: "クリスチャン・アンバディアン"
+title: "Christian AMBADIANG"
 name_en: "Christian AMBADIANG"
 position: "WTB"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Camerounais"
-nationality: "Camerounais"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Southern Kings (2019 - 2020)

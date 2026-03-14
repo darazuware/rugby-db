@@ -1,5 +1,5 @@
 ---
-title: "アレクサンドル・ベコニェ"
+title: "Alexandre BÉCOGNÉE"
 name_en: "Alexandre BÉCOGNÉE"
 position: "FL/NO8"
 team: "モンペリエ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Yacouba"
-nationality: "Yacouba"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/alex.becognee/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2014)

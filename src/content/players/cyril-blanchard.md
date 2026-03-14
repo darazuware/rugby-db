@@ -1,5 +1,5 @@
 ---
-title: "シリル・ブランシャール"
+title: "Cyril BLANCHARD"
 name_en: "Cyril BLANCHARD"
 position: "HO"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Club athlétique de Saint-Étienne (2009 - 2011)

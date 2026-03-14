@@ -16,15 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2022
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2021)
-- Northland Taniwha (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Northland Taniwha (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2026)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
+- ノースランド (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "ルカ・ギヨ"
+title: "Louka GUILHOT"
 name_en: "Louka GUILHOT"
 position: "SO"
 team: "カストル"

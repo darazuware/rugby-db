@@ -23,9 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Manawatu Turbos (2020 - 2023)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2023)
-- Manawatu Turbos (2024)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2024)
-- Manawatu Turbos (2024 - 2025)
+- マナワツ (2020 - 2025)
+- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2023 - 2024)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

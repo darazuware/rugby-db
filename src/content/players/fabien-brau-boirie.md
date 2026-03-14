@@ -1,5 +1,5 @@
 ---
-title: "ファビアン・ブロー＝ボワリ"
+title: "Fabien BRAU-BOIRIE"
 name_en: "Fabien BRAU-BOIRIE"
 position: "CTB"
 team: "ポー"

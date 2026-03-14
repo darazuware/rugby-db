@@ -1,7 +1,7 @@
 ---
 title: "ツナ・ツイタマ"
 name_en: "Tuna TUITAMA"
-position: "Winger"
+position: "WTB"
 team: "モアナ・パシフィカ"
 height: "187"
 weight: "95"

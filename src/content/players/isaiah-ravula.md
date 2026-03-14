@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Manawatu Turbos (2022 - 2023)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
-- Manawatu Turbos (2023)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024)
-- Manawatu Turbos (2024)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+- マナワツ (2022 - 2024)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )

@@ -1,7 +1,7 @@
 ---
 title: "ポニパテ・ロガニマシ"
 name_en: "Ponipate LOGANIMASI"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: "189"
 weight: "91"

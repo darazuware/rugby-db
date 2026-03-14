@@ -1,5 +1,5 @@
 ---
-title: "ジョエル・メルクレール"
+title: "Joël MERKLER"
 name_en: "Joël MERKLER"
 position: "PR"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/joelmerkler_/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

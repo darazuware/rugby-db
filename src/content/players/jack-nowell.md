@@ -1,5 +1,5 @@
 ---
-title: "ジャック-ノウェル"
+title: "Jack NOWELL"
 name_en: "Jack NOWELL"
 position: "WTB"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "Anglaise"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/jacknowell"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)

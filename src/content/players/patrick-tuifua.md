@@ -1,5 +1,5 @@
 ---
-title: "パトリック・ツイフア"
+title: "Patrick TUIFUA"
 name_en: "Patrick TUIFUA"
 position: "FL/NO8"
 team: "トゥーロン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "France"
-nationality: "France"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jeunesse Sports et Loisirs De Normandie (2013 - 2020)

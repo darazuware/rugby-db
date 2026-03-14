@@ -1,5 +1,5 @@
 ---
-title: "モーゼス・アロ＝イーマイル"
+title: "Moses ALO-EMILE"
 name_en: "Moses ALO-EMILE"
 position: "PR"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/mosesaloemile/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

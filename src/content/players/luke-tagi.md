@@ -1,5 +1,5 @@
 ---
-title: "ルーク・タギ"
+title: "Luke TAGI"
 name_en: "Luke TAGI"
 position: "PR"
 team: "バイヨンヌ"

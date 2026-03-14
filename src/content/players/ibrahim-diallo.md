@@ -1,5 +1,5 @@
 ---
-title: "イブラヒム-ディアロ"
+title: "Ibrahim DIALLO"
 name_en: "Ibrahim DIALLO"
 position: "FL/NO8"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2014
 has_scores: true
-instagram: "https://www.instagram.com/iboudiallo_/"
-twitter: "https://x.com/iboudiallo_"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - AAS Sarcelles Rugby (2008 - 2014)

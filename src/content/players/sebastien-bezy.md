@@ -1,5 +1,5 @@
 ---
-title: "セバスチャン・ベジー"
+title: "Sébastien BÉZY"
 name_en: "Sébastien BÉZY"
 position: "SH"
 team: "クレルモン"

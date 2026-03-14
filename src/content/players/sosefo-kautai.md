@@ -16,31 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2018)
-- Waikato Mooloos (2018)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019)
-- Waikato Mooloos (2019 - 2020)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020)
-- Waikato Mooloos (2020)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021)
-- Waikato Mooloos (2021)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021)
-- Waikato Mooloos (2021)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022)
-- Waikato Mooloos (2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
-- Waikato Mooloos (2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024)
-- Waikato Mooloos (2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
-- Waikato Mooloos (2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
-- Waikato Mooloos (2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2025)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - 2024)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )

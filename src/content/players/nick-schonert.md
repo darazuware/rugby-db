@@ -1,5 +1,5 @@
 ---
-title: "ニック・ショーナート"
+title: "Nick SCHONERT"
 name_en: "Nick SCHONERT"
 position: "PR"
 team: "ヴァンヌ"
@@ -11,21 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "African"
-nationality: "African"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Worcester Warriors (2015 - 2021)
-- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2024)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024)
-- 🇿🇦 ハリウッドベッツ・シャークス (2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025)
+- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024 - 2025)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

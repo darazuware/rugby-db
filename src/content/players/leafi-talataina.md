@@ -1,7 +1,7 @@
 ---
 title: "レアフィ・タラタイナ"
 name_en: "Leafi TALATAINA"
-position: "Back row"
+position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"
 height: "196"
 weight: "112"

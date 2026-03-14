@@ -1,5 +1,5 @@
 ---
-title: "アンディ・ティモ"
+title: "Andy TIMO"
 name_en: "Andy TIMO"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/andytimo8/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Massy Essonne (2014 - 2023)

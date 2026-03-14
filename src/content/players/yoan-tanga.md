@@ -1,5 +1,5 @@
 ---
-title: "ヨアン・タンガ"
+title: "Yoan TANGA"
 name_en: "Yoan TANGA"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/yoantanga/"
-twitter: "https://x.com/yoantanga"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Tremblay-en-France (2010 - 2012)

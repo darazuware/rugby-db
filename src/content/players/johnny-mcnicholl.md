@@ -1,7 +1,7 @@
 ---
 title: "ジョニー・マクニコル"
 name_en: "Johnny MCNICHOLL"
-position: "Winger"
+position: "WTB"
 team: "カンタベリー・クルセイダーズ"
 height: "191"
 weight: "96"
@@ -16,15 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2016)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2016 - 2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2026)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2016 - 2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - )

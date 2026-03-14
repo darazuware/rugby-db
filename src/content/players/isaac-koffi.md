@@ -1,5 +1,5 @@
 ---
-title: "アイザック・コフィ"
+title: "Isaac KOFFI"
 name_en: "Isaac KOFFI"
 position: "PR"
 team: "スタッド・フランセ"

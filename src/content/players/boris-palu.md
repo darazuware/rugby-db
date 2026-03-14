@@ -1,5 +1,5 @@
 ---
-title: "ボリス・パリュ"
+title: "Boris PALU"
 name_en: "Boris PALU"
 position: "LO"
 team: "ボルドー・ベグル"

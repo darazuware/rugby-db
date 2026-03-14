@@ -1,5 +1,5 @@
 ---
-title: "エミリオン・ガイユトン"
+title: "Émilien GAILLETON"
 name_en: "Émilien GAILLETON"
 position: "CTB"
 team: "ポー"

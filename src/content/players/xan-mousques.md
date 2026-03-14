@@ -1,5 +1,5 @@
 ---
-title: "ジャン・ムスケ"
+title: "Xan MOUSQUÈS"
 name_en: "Xan MOUSQUÈS"
 position: "WTB"
 team: "ボルドー・ベグル"

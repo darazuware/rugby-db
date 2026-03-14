@@ -1,7 +1,7 @@
 ---
 title: "コンラッド・トレアフォア"
 name_en: "Konrad TOLEAFOA"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "190"
 weight: "112"

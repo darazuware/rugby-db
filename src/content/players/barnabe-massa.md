@@ -1,5 +1,5 @@
 ---
-title: "バルナベ・マッサ"
+title: "Barnabé MASSA"
 name_en: "Barnabé MASSA"
 position: "HO"
 team: "クレルモン"

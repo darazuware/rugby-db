@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - SCM Rugby Timișoara (2017 - 2019)
-- CA Brive Corrèze Limousin (2019 - 2021)
+- ブリーヴ (2019 - 2021)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2021 - 2022)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )

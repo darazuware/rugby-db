@@ -1,5 +1,5 @@
 ---
-title: "ルカス・デセーニュ"
+title: "Lucas DESSAIGNE"
 name_en: "Lucas DESSAIGNE"
 position: "FL/NO8"
 team: "クレルモン"

@@ -1,5 +1,5 @@
 ---
-title: "テディ・トマ"
+title: "Teddy THOMAS"
 name_en: "Teddy THOMAS"
 position: "CTB"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/teddythoms/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Biarritz Olympique Pays Basque (2004 - 2014)

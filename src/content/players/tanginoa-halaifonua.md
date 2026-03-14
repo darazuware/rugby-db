@@ -1,5 +1,5 @@
 ---
-title: "タンギノア・ハライフォヌア"
+title: "Tanginoa HALAIFONUA"
 name_en: "Tanginoa HALAIFONUA"
 position: "LO"
 team: "スタッド・フランセ"
@@ -18,15 +18,12 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/halaifonua_noah/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2015 - 2018)
-- Rugby Club Massy Essonne (2018)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2019)
-- Rugby Club Massy Essonne (2019)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2019 - 2020)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2015 - 2020)
+- Rugby Club Massy Essonne (2018 - 2019)
 - FC Grenoble Rugby (2020 - 2023)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

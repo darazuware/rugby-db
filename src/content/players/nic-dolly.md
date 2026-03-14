@@ -24,8 +24,6 @@ facebook: ""
 ---
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2020)
-- Coventry Rugby (2020)
-- Leicester Tigers (2020)
-- Coventry Rugby (2021)
-- Leicester Tigers (2021 - 2024)
+- Coventry Rugby (2020 - 2021)
+- レスター・タイガース (2020 - 2024)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

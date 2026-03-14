@@ -1,5 +1,5 @@
 ---
-title: "メイロン・フェイヒー"
+title: "Mayron FAHY"
 name_en: "Mayron FAHY"
 position: "FB"
 team: "ペルピニャン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Salanque XV (2013 - 2022)

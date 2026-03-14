@@ -1,5 +1,5 @@
 ---
-title: "エフライン・エリアス"
+title: "Efraín ELÍAS"
 name_en: "Efraín ELÍAS"
 position: "LO"
 team: "トゥールーズ"
@@ -11,24 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Argentina"
-nationality: "Argentina"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/stadetoulousainrugby/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Jockey Club Cordoba (2022)
-- Dogos XV (2022)
-- Jockey Club Cordoba (2023)
-- Dogos XV (2023)
-- Jockey Club Cordoba (2023)
-- Dogos XV (2023)
-- Jockey Club Cordoba (2024)
-- Dogos XV (2024)
+- Dogos XV (2022 - 2024)
+- Jockey Club Cordoba (2022 - 2024)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

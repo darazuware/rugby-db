@@ -1,5 +1,5 @@
 ---
-title: "ジャック-ウィリス"
+title: "Jack WILLIS"
 name_en: "Jack WILLIS"
 position: "FL/NO8"
 team: "トゥールーズ"
@@ -16,14 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/jackswillis/"
-twitter: "https://twitter.com/jackswillis7"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Wasps (2016 - 2022)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022)
-- Wasps (2023)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023 - )
+- Wasps (2016 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "サシャ・ゼゲール"
+title: "Sacha ZEGUEUR"
 name_en: "Sacha ZEGUEUR"
 position: "FL/NO8"
 team: "ポー"

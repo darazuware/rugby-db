@@ -1,7 +1,7 @@
 ---
 title: "オラ・タウエランギ"
 name_en: "Ola TAUELANGI"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "194"
 weight: "115"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,12 +24,5 @@ facebook: ""
 ---
 
 - Gordon Rugby Football Club (2019 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

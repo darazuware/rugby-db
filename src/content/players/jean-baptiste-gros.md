@@ -1,5 +1,5 @@
 ---
-title: "ジャン＝バティスト-グロ"
+title: "Jean-Baptiste GROS"
 name_en: "Jean-Baptiste GROS"
 position: "PR"
 team: "トゥーロン"

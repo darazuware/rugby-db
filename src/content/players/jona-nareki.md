@@ -1,7 +1,7 @@
 ---
 title: "ジョナ・ナレキ"
 name_en: "Jona NAREKI"
-position: "Winger"
+position: "WTB"
 team: "オタゴ・ハイランダーズ"
 height: "175"
 weight: "83"
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2018
+joined_year: 2019
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - )

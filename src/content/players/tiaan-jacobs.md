@@ -1,5 +1,5 @@
 ---
-title: "ティアン・ジェイコブス"
+title: "Tiaan JACOBS"
 name_en: "Tiaan JACOBS"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

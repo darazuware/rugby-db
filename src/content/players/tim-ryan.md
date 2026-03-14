@@ -1,7 +1,7 @@
 ---
 title: "ティム・ライアン"
 name_en: "Tim RYAN"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "186"
 weight: "88"

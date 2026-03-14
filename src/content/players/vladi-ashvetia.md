@@ -1,5 +1,5 @@
 ---
-title: "ヴラディ・アシュヴェティア"
+title: "Vladi ASHVETIA"
 name_en: "Vladi ASHVETIA"
 position: "CTB"
 team: "ラシン92"

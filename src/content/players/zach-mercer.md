@@ -1,5 +1,5 @@
 ---
-title: "ザック・マーサー"
+title: "Zach MERCER"
 name_en: "Zach MERCER"
 position: "FL/NO8"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "Angleterre"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Bath Rugby (2016 - 2021)

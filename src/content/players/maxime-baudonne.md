@@ -1,5 +1,5 @@
 ---
-title: "マキシム・ボードン"
+title: "Maxime BAUDONNE"
 name_en: "Maxime BAUDONNE"
 position: "FL/NO8"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2013
 has_scores: true
-instagram: "https://www.instagram.com/maxime_baudonne/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Courbevoie (2009 - 2013)

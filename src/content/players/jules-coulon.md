@@ -1,5 +1,5 @@
 ---
-title: "ジュール・クーロン"
+title: "Jules COULON"
 name_en: "Jules COULON"
 position: "FL/NO8"
 team: "トゥーロン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "France"
-nationality: "France"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Metz (2011 - 2017)

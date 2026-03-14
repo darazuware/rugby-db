@@ -1,7 +1,7 @@
 ---
 title: "ニック・チャンピオン・デ・クレスピニー"
 name_en: "Nick CHAMPION DE CRESPIGNY"
-position: "Back row"
+position: "FL/No8"
 team: "ウェスタン・フォース"
 height: "193"
 weight: "110"

@@ -122,7 +122,7 @@ def integrate_team_data(csv_rows, json_data, team_name):
     print(f"Updated {count} players for {team_name}")
 
 def main():
-    csv_path = "data_sources/final_master_data_v17_consolidated.csv"
+    csv_path = "data_sources/final_master_data_v25.csv"
     artifact_dir = "/Users/ktamatzmoto/.gemini/antigravity/brain/0a4cb5ef-2a47-4d0d-afe7-2dd511f55541"
     
     with open(csv_path, mode='r', encoding='utf-8-sig') as f:

@@ -1,5 +1,5 @@
 ---
-title: "ティボー・モタッシ"
+title: "Thibaut MOTASSI"
 name_en: "Thibaut MOTASSI"
 position: "SH"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rueil Athlétic Club Rugby (2013 - 2019)

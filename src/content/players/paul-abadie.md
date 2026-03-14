@@ -1,5 +1,5 @@
 ---
-title: "ポール・アバディ"
+title: "Paul ABADIE"
 name_en: "Paul ABADIE"
 position: "SH"
 team: "スタッド・フランセ"
@@ -16,16 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/paul_abadie/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Sporting Union Agenais (2001 - 2021)
 - CA Brive Corrèze Limousin (2021 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2025)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

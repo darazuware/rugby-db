@@ -1,5 +1,5 @@
 ---
-title: "ノラン・ドングイ"
+title: "Nolann DONGUY"
 name_en: "Nolann DONGUY"
 position: "WTB"
 team: "ラシン92"

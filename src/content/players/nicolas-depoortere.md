@@ -1,5 +1,5 @@
 ---
-title: "ニコラ・ドゥポルテール"
+title: "Nicolas DEPOORTÈRE"
 name_en: "Nicolas DEPOORTÈRE"
 position: "CTB"
 team: "ボルドー・ベグル"

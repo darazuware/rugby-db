@@ -1,5 +1,5 @@
 ---
-title: "アリヴェレティ・ロアロア"
+title: "Alivereti LOALOA"
 name_en: "Alivereti LOALOA"
 position: "CTB"
 team: "クレルモン"

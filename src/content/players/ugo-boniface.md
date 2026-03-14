@@ -1,5 +1,5 @@
 ---
-title: "ウーゴ・ボニファス"
+title: "Ugo BONIFACE"
 name_en: "Ugo BONIFACE"
 position: "PR"
 team: "ボルドー・ベグル"

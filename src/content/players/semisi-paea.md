@@ -1,7 +1,7 @@
 ---
 title: "セミシ・パエア"
 name_en: "Semisi PAEA"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "194"
 weight: "113"
@@ -16,24 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2020 - 2021)
-- New England Free Jacks (2022)
-- Bay of Plenty Steamers (2022)
-- New England Free Jacks (2023)
-- Bay of Plenty Steamers (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- Bay of Plenty Steamers (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Bay of Plenty Steamers (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Bay of Plenty Steamers (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Bay of Plenty Steamers (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- ベイ・オブ・プレンティ (2020 - 2025)
+- New England Free Jacks (2022 - 2023)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

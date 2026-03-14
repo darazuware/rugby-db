@@ -1,5 +1,5 @@
 ---
-title: "ベカ・ギガシヴィリ"
+title: "Beka GIGASHVILI"
 name_en: "Beka GIGASHVILI"
 position: "PR"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Géorgie"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Stade Olympique Chambéry (2015 - 2017)

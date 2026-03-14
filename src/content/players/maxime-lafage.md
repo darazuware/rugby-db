@@ -1,5 +1,5 @@
 ---
-title: "マキシム・ラファージュ"
+title: "Maxime LAFAGE"
 name_en: "Maxime LAFAGE"
 position: "SO"
 team: "ヴァンヌ"
@@ -11,21 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Colomiers (2009 - 2018)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "ピエール・ブルガリット"
+title: "Pierre BOURGARIT"
 name_en: "Pierre BOURGARIT"
 position: "HO"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/pierre_bourgarit"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - ES Gimont Rugby (2008 - 2015)

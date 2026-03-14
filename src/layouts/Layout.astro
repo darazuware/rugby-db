@@ -162,12 +162,14 @@ const {
 						>サイトマップ</a
 					>
 				</div>
-				<p class="font-bold mb-2">© 2026 RUGBY PICKS PLAYER DATABASE</p>
-				<p class="text-xs text-foreground/30">
-					爆速選手名鑑 powered by Astro + React + Tailwind CSS
-				</p>
 			</div>
 		</footer>
+
+		{/* スクレイピング対策用ハニーポットリンク（人間には見えません） */}
+		<div style="display: none;" aria-hidden="true">
+			<a href="/api/v1/all-players-download.json" rel="nofollow">全選手データ一括ダウンロード (Full Player Data Download)</a>
+		</div>
+
 		<style is:global></style>
 	</body>
 </html>

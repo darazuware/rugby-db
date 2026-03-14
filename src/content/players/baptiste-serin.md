@@ -1,5 +1,5 @@
 ---
-title: "バティスト-セラン"
+title: "Baptiste SERIN"
 name_en: "Baptiste SERIN"
 position: "SH"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Parentis Sport Rugby (2004 - 2009)

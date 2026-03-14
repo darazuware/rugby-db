@@ -1,5 +1,5 @@
 ---
-title: "ギヨーム・マルトック"
+title: "Guillaume MARTOCQ"
 name_en: "Guillaume MARTOCQ"
 position: "CTB"
 team: "バイヨンヌ"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2022
+joined_year: 2020
 has_scores: true
 instagram: ""
 twitter: ""
@@ -25,6 +25,5 @@ facebook: ""
 
 - Union Stadiste Sauveterre (2013 - 2014)
 - Rugby Club Béarnais (2014 - 2015)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2020)
-- US Carcassonne (2020 - 2022)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2026)
+- US Carcassonne (2020 - )

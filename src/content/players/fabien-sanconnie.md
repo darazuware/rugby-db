@@ -1,5 +1,5 @@
 ---
-title: "ファビアン・サンコニ"
+title: "Fabien SANCONNIE"
 name_en: "Fabien SANCONNIE"
 position: "FL/NO8"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/fabien_sanco/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CA Brive Corrèze Limousin (2010 - 2018)

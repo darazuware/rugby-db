@@ -1,5 +1,5 @@
 ---
-title: "ジミ・マクシミン"
+title: "Jimi MAXIMIN"
 name_en: "Jimi MAXIMIN"
 position: "LO"
 team: "ポー"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2022
 has_scores: true
 instagram: ""
 twitter: ""
@@ -26,12 +26,6 @@ facebook: ""
 - RC Bonneval (2009 - 2014)
 - Pôle Espoirs de Tours (2014 - 2015)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2015 - 2020)
-- 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2021)
-- Stado Tarbes Pyrénées Rugby (2021 - 2022)
-- 🇫🇷 [ポー](/teams/top14/pau) (2022)
-- Stado Tarbes Pyrénées Rugby (2022)
-- Rouen Normandie Rugby (2022)
-- 🇫🇷 [ポー](/teams/top14/pau) (2023)
-- Stado Tarbes Pyrénées Rugby (2023)
-- Rouen Normandie Rugby (2023 - 2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2026)
+- Stado Tarbes Pyrénées Rugby (2021 - 2023)
+- Rouen Normandie Rugby (2022 - )

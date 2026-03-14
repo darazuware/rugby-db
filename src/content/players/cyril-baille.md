@@ -1,5 +1,5 @@
 ---
-title: "シリル-バイユ"
+title: "Cyril BAILLE"
 name_en: "Cyril BAILLE"
 position: "PR"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2009
 has_scores: true
-instagram: "https://www.instagram.com/cyril_b/"
-twitter: "https://twitter.com/CBaille"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Cercle Amical Lannemezanais (2003 - 2009)

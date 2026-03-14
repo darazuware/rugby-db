@@ -1,5 +1,5 @@
 ---
-title: "ユーリ-デロンメル"
+title: "Youri DELHOMMEL"
 name_en: "Youri DELHOMMEL"
 position: "HO"
 team: "ポー"
@@ -24,8 +24,6 @@ facebook: ""
 ---
 
 - US Ris-Orangis Rugby (2004 - 2010)
-- Rugby Club Massy Essonne (2010 - 2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018)
-- Rugby Club Massy Essonne (2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
+- Rugby Club Massy Essonne (2010 - 2019)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

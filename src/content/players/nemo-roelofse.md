@@ -1,5 +1,5 @@
 ---
-title: "ネモ・ロエロフセ"
+title: "Nemo ROELOFSE"
 name_en: "Nemo ROELOFSE"
 position: "PR"
 team: "ペルピニャン"
@@ -11,22 +11,20 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "African"
-nationality: "African"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2014 - 2016)
-- Sporting Club Albigeois (2016)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2017)
-- Sporting Club Albigeois (2017)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2014 - 2017)
+- Sporting Club Albigeois (2016 - 2017)
 - USON Nevers Rugby (2017 - 2021)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2023)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

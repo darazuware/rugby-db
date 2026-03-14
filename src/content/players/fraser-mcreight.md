@@ -1,7 +1,7 @@
 ---
 title: "フレイザー-マクライト"
 name_en: "Fraser MCREIGHT"
-position: "Back row"
+position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: "186"
 weight: "108"

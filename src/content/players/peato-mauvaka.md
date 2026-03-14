@@ -1,5 +1,5 @@
 ---
-title: "ペアト・マウヴァカ"
+title: "Péato MAUVAKA"
 name_en: "Péato MAUVAKA"
 position: "HO"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2013
 has_scores: true
-instagram: "https://www.instagram.com/peat_mauvaka/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

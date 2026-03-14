@@ -1,5 +1,5 @@
 ---
-title: "バティスト・エギ"
+title: "Baptiste HÉGUY"
 name_en: "Baptiste HÉGUY"
 position: "FL/NO8"
 team: "バイヨンヌ"

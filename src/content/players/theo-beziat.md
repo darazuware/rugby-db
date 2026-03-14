@@ -1,5 +1,5 @@
 ---
-title: "テオ・ベジア"
+title: "Théo BÉZIAT"
 name_en: "Théo BÉZIAT"
 position: "HO"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Racing Club Narbonnais (2004 - 2014)

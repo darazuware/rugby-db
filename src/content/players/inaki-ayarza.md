@@ -1,5 +1,5 @@
 ---
-title: "イニャキ-アヤルサ"
+title: "Iñaki AYARZA"
 name_en: "Iñaki AYARZA"
 position: "CTB"
 team: "ヴァンヌ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Chile"
 league_one_caps: "0"
 country: "Chile"
-nationality: "Chilean"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2021)

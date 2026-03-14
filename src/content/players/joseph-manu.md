@@ -1,5 +1,5 @@
 ---
-title: "ジョーイー・マヌ"
+title: "Joey MANU"
 name_en: "Joey MANU"
 position: "CTB"
 team: "ラシン92"

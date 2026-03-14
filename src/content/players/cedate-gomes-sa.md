@@ -1,5 +1,5 @@
 ---
-title: "セダテ・ゴメス・サ"
+title: "Cedate GOMES SA"
 name_en: "Cedate GOMES SA"
 position: "PR"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Portugal"
 league_one_caps: "0"
 country: "Portugal"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Saint-Nazaire Rugby (2007 - 2011)

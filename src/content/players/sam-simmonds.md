@@ -1,5 +1,5 @@
 ---
-title: "サム・シモンズ"
+title: "Sam SIMMONDS"
 name_en: "Sam SIMMONDS"
 position: "FL/NO8"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2023)

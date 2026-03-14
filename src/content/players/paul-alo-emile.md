@@ -1,5 +1,5 @@
 ---
-title: "ポール-アロ＝イーマイル"
+title: "Paul ALO-EMILE"
 name_en: "Paul ALO-EMILE"
 position: "PR"
 team: "スタッド・フランセ"

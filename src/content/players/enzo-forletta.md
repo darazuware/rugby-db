@@ -1,5 +1,5 @@
 ---
-title: "エンゾ・フォルレッタ"
+title: "Enzo FORLETTA"
 name_en: "Enzo FORLETTA"
 position: "PR"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/enzoforletta/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/enzo.forletta"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Étoile Sportive Catalane (2009 - 2011)

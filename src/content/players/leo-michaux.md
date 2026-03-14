@@ -1,5 +1,5 @@
 ---
-title: "レオ・ミショー"
+title: "Léo MICHAUX"
 name_en: "Léo MICHAUX"
 position: "LO"
 team: "クレルモン"

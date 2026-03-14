@@ -1,5 +1,5 @@
 ---
-title: "クレマン・モンディナ"
+title: "Clément MONDINAT"
 name_en: "Clément MONDINAT"
 position: "SO"
 team: "ポー"

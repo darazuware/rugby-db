@@ -1,5 +1,5 @@
 ---
-title: "デイヴィッド-アイヌウ"
+title: "David AINU'U"
 name_en: "David AINU'U"
 position: "PR"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/davidainuu88/"
-twitter: "https://twitter.com/DavidAinuu"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

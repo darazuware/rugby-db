@@ -1,5 +1,5 @@
 ---
-title: "アリヴェレティ-ラカ"
+title: "Alivereti RAKA"
 name_en: "Alivereti RAKA"
 position: "WTB"
 team: "クレルモン"

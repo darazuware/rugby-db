@@ -1,5 +1,5 @@
 ---
-title: "レニ・ヌシ"
+title: "Lenni NOUCHI"
 name_en: "Lenni NOUCHI"
 position: "FL/NO8"
 team: "モンペリエ"
@@ -12,18 +12,17 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/lenni_nouchi/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Association Sportive Béziers Hérault (2009 - 2011)
+- Association Sportive Béziers Hérault (2009 - 2021)
 - Servian-Boujan Rugby (2011 - 2014)
-- Association Sportive Béziers Hérault (2014 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - )

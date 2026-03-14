@@ -1,7 +1,7 @@
 ---
 title: "アンディ・ミュアヘッド"
 name_en: "Andy MUIRHEAD"
-position: "Winger"
+position: "WTB"
 team: "ACTブランビーズ"
 height: "183"
 weight: "84"

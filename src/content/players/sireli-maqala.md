@@ -1,5 +1,5 @@
 ---
-title: "シレリ・マカラ"
+title: "Sireli MAQALA"
 name_en: "Sireli MAQALA"
 position: "CTB"
 team: "バイヨンヌ"

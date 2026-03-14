@@ -1,5 +1,5 @@
 ---
-title: "フェレティ-カイトゥウ"
+title: "Feleti KAITU'U"
 name_en: "Feleti KAITU'U"
 position: "HO"
 team: "ラシン92"
@@ -18,14 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/flex_kaituu/"
-twitter: "https://x.com/flexkaituu"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2022)
-- Tasman Mako (2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
-- Tasman Mako (2023)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2024)
+- Tasman Mako (2022 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

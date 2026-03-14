@@ -1,5 +1,5 @@
 ---
-title: "アドリア・コカギ"
+title: "Adrea COCAGI"
 name_en: "Adrea COCAGI"
 position: "CTB"
 team: "カストル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
-nationality: "Fidjien"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2014)

@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,24 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- Counties Manukau Steelers (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- Counties Manukau Steelers (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- Counties Manukau Steelers (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- Counties Manukau Steelers (2021)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021)
-- Counties Manukau Steelers (2021)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022)
-- Counties Manukau Steelers (2022)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2023)
-- Counties Manukau Steelers (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Counties Manukau Steelers (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Counties Manukau Steelers (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Counties Manukau Steelers (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2021)
+- カウンティーズ・マヌカウ (2019 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )

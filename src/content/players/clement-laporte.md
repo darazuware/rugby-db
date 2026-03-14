@@ -1,5 +1,5 @@
 ---
-title: "クレマン・ラポルト"
+title: "Clément LAPORTE"
 name_en: "Clément LAPORTE"
 position: "FB"
 team: "ポー"

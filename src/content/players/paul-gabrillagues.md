@@ -1,5 +1,5 @@
 ---
-title: "ポール・ガブリヤーグ"
+title: "Paul GABRILLAGUES"
 name_en: "Paul GABRILLAGUES"
 position: "LO"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2011
 has_scores: true
-instagram: "https://www.instagram.com/paul.gabrillagues/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Paris Université Club (2007 - 2011)

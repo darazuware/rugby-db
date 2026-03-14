@@ -1,5 +1,5 @@
 ---
-title: "ベン-タメイフナ"
+title: "Ben TAMEIFUNA"
 name_en: "Ben TAMEIFUNA"
 position: "PR"
 team: "ボルドー・ベグル"

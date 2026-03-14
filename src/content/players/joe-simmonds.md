@@ -1,5 +1,5 @@
 ---
-title: "ジョー・シモンズ"
+title: "Joe SIMMONDS"
 name_en: "Joe SIMMONDS"
 position: "SO"
 team: "ポー"

@@ -16,19 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- Hawke's Bay Magpies (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- Hawke's Bay Magpies (2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024)
-- Hawke's Bay Magpies (2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025)
-- Hawke's Bay Magpies (2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
+- ホークスベイ (2023 - 2025)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

@@ -1,7 +1,7 @@
 ---
 title: "ブラッド-シールズ"
 name_en: "Brad SHIELDS"
-position: "Back row"
+position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"
 height: "194"
 weight: "113"
@@ -16,26 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2018)
-- Wasps (2018 - 2022)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022)
-- 🇿🇦 エミレーツ・ライオンズ (2022)
-- Wasps (2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023)
-- 🇿🇦 エミレーツ・ライオンズ (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- 🇿🇦 エミレーツ・ライオンズ (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- 🇿🇦 エミレーツ・ライオンズ (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- 🇿🇦 エミレーツ・ライオンズ (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- 🇿🇦 エミレーツ・ライオンズ (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2026)
+- ワスプス (2018 - 2023)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022 - 2023)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )

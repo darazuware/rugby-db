@@ -1,5 +1,5 @@
 ---
-title: "エリック・マークス"
+title: "Eric MARKS"
 name_en: "Eric MARKS"
 position: "LO"
 team: "ヴァンヌ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Germany"
 league_one_caps: "0"
 country: "Germany"
-nationality: "German"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Aachen (2015 - 2016)

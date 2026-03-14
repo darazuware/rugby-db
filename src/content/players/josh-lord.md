@@ -16,28 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2018 - 2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- 🇿🇦 ヴォーダコム・ブルズ (2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- タラナキ (2018 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - )

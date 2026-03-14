@@ -1,5 +1,5 @@
 ---
-title: "マティアス・ハラガフ"
+title: "Matthias HALAGAHU"
 name_en: "Matthias HALAGAHU"
 position: "LO"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2016
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CA Fréjus Saint-Raphaël (2006 - 2016)

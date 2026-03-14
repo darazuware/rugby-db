@@ -1,5 +1,5 @@
 ---
-title: "ポール・グラウ"
+title: "Paul GRAOU"
 name_en: "Paul GRAOU"
 position: "SH"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/leloupgraou/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Auch (2004 - 2017)

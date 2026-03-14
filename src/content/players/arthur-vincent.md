@@ -1,5 +1,5 @@
 ---
-title: "アルチュール-ヴァンサン"
+title: "Arthur VINCENT"
 name_en: "Arthur VINCENT"
 position: "CTB"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2013
 has_scores: true
-instagram: "https://www.instagram.com/arthur_vcnt/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Mauguio Carnon Pays d'Or (2004 - 2013)

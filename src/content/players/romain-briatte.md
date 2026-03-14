@@ -1,5 +1,5 @@
 ---
-title: "ロマン・ブリアット"
+title: "Romain BRIATTE"
 name_en: "Romain BRIATTE"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Riom (2004 - 2006)

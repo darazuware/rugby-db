@@ -1,7 +1,7 @@
 ---
 title: "カム・クリスティー"
 name_en: "Cam CHRISTIE"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "196"
 weight: "106"
@@ -16,20 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- North Harbour (2022 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- North Harbour (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- North Harbour (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- North Harbour (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- North Harbour (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- ノース・ハーバー (2022 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )

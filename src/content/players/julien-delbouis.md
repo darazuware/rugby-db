@@ -1,5 +1,5 @@
 ---
-title: "ジュリアン・デルブイス"
+title: "Julien DELBOUIS"
 name_en: "Julien DELBOUIS"
 position: "CTB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/juliendelbouis/?hl=fr"
-twitter: "https://twitter.com/JulienDelbouis"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Métro (2004 - 2011)

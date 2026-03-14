@@ -1,5 +1,5 @@
 ---
-title: "ジョセフ・ラハラーグ"
+title: "Joseph LAHARRAGUE"
 name_en: "Joseph LAHARRAGUE"
 position: "SO"
 team: "ボルドー・ベグル"

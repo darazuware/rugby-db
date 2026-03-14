@@ -1,7 +1,7 @@
 ---
 title: "ドミニク・ロペティ"
 name_en: "Dominic ROPETI"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "193"
 weight: "106"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2022 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

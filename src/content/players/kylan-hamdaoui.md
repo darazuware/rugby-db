@@ -1,5 +1,5 @@
 ---
-title: "キラン・ハムダウィ"
+title: "Kylan HAMDAOUI"
 name_en: "Kylan HAMDAOUI"
 position: "FB"
 team: "クレルモン"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2018
 has_scores: true
 instagram: ""
 twitter: ""
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2005 - 2012)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2014)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2026)
 - Biarritz Olympique Pays Basque (2014 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

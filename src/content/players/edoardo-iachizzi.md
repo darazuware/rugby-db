@@ -1,5 +1,5 @@
 ---
-title: "エドアルド・イアキッツィ"
+title: "Edoardo IACHIZZI"
 name_en: "Edoardo IACHIZZI"
 position: "FL/NO8"
 team: "ヴァンヌ"
@@ -11,20 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Italian"
-nationality: "Italian"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lazio (2015 - 2016)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2023)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2023 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2026)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2023 - )

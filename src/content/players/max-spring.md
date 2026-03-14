@@ -1,5 +1,5 @@
 ---
-title: "マックス・スプリング"
+title: "Max SPRING"
 name_en: "Max SPRING"
 position: "FB"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/max.spring/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Nafarroa (2007 - 2016)

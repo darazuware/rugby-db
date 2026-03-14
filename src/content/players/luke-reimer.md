@@ -1,7 +1,7 @@
 ---
 title: "ルーク・ライマー"
 name_en: "Luke REIMER"
-position: "Back row"
+position: "FL/No8"
 team: "ACTブランビーズ"
 height: "187"
 weight: "102"

@@ -1,5 +1,5 @@
 ---
-title: "カーウィン・ツイプロトゥ"
+title: "Carwyn TUIPULOTU"
 name_en: "Carwyn TUIPULOTU"
 position: "FL/NO8"
 team: "ポー"
@@ -16,17 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2024
 has_scores: true
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2018 - 2024)
-- Saracens (2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024)
-- Saracens (2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2025)
-- 🇫🇷 [ポー](/teams/top14/pau) (2025 - )
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2018 - 2025)
+- Saracens (2024 - 2025)
+- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )

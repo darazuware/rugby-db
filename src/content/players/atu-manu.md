@@ -1,5 +1,5 @@
 ---
-title: "アツ・マヌ"
+title: "Atu MANU"
 name_en: "Atu MANU"
 position: "CTB"
 team: "カストル"
@@ -11,32 +11,22 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Tongien"
-nationality: "Tongien"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Viadana 1970 (2017 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018)
-- Rugby Club Massy Essonne (2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019)
-- Rugby Club Massy Essonne (2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019)
-- US Carcassonne (2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020)
-- US Carcassonne (2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - 2021)
-- FC Grenoble Rugby (2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022)
-- FC Grenoble Rugby (2022 - 2024)
-- USON Nevers Rugby (2024 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres) (2025)
-- USON Nevers Rugby (2026)
-- 🇫🇷 [カストル](/teams/top14/castres) (2026 - )
+- Rugby Club Massy Essonne (2018 - 2019)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2022)
+- US Carcassonne (2019 - 2020)
+- FC Grenoble Rugby (2021 - 2024)
+- USON Nevers Rugby (2024 - 2026)
+- 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ディエゴ-エスコバル"
+title: "Diego ESCOBAR"
 name_en: "Diego ESCOBAR"
 position: "HO"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/diegoescobar_a/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Selknam (2021 - 2024)

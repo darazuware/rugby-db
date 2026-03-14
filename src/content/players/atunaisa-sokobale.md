@@ -1,5 +1,5 @@
 ---
-title: "アツナイサ・ソコバレ"
+title: "Atunaisa SOKOBALE"
 name_en: "Atunaisa SOKOBALE"
 position: "PR"
 team: "カストル"

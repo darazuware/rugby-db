@@ -1,5 +1,5 @@
 ---
-title: "ヤコ・ファン・トンダー"
+title: "Jaco VAN TONDER"
 name_en: "Jaco VAN TONDER"
 position: "FL/NO8"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "South Africa"
 league_one_caps: "0"
 country: "South Africa"
-nationality: "African"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2023)

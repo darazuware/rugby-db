@@ -260,7 +260,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                             </a>
                             {teamStanding && (
                                 <a href="/standings" class="bg-yellow-400 text-black px-4 py-1.5 rounded-full font-black text-[10px] uppercase tracking-[0.2em] shadow-lg hover:bg-white transition-colors flex items-center gap-2">
-                                    <span class="opacity-60">Current Rank</span>
+                                    <span class="opacity-60">現在の順位</span>
                                     <span class="text-sm italic">{teamStanding.rank}</span>
                                 </a>
                             )}
@@ -324,6 +324,16 @@ const teamStanding = leagueStandings.find((s: any) =>
                                 TEAM INFORMATION
                             </h2>
                             <dl class="space-y-6">
+                                {team.former_name && team.renamed_year && (
+                                    <div>
+                                        <dt class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1">
+                                            旧チーム名
+                                        </dt>
+                                        <dd class="text-lg font-bold text-foreground">
+                                            {team.former_name} <span class="text-xs text-foreground/60 font-medium">({team.renamed_year}年改称)</span>
+                                        </dd>
+                                    </div>
+                                )}
                                 <div>
                                     <dt
                                         class="text-[10px] font-black text-foreground/40 uppercase tracking-widest mb-1"

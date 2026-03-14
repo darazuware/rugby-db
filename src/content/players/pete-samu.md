@@ -1,7 +1,7 @@
 ---
 title: "ピート・サム"
 name_en: "Pete SAMU"
-position: "Back row"
+position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"
 height: "185"
 weight: "102"

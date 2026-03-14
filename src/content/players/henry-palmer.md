@@ -1,7 +1,7 @@
 ---
 title: "ヘンリー・パルマー"
 name_en: "Henry PALMER"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: ""
 weight: ""

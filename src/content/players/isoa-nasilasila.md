@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2022
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - Southern Districts (2019 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021)
-- North Harbour (2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022)
-- North Harbour (2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )
+- ノース・ハーバー (2021 - 2022)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

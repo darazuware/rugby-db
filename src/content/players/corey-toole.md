@@ -1,7 +1,7 @@
 ---
 title: "コーリー-トゥール"
 name_en: "Corey TOOLE"
-position: "Winger"
+position: "WTB"
 team: "ACTブランビーズ"
 height: "178"
 weight: "85"

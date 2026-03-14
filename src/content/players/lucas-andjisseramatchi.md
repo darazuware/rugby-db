@@ -1,5 +1,5 @@
 ---
-title: "ルカス・アンジセラマッチ"
+title: "Lucas ANDJISSERAMATCHI"
 name_en: "Lucas ANDJISSERAMATCHI"
 position: "FL/NO8"
 team: "ラ・ロシェル"

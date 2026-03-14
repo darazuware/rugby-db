@@ -1,7 +1,7 @@
 ---
 title: "ドム-ガーディナー"
 name_en: "Dom GARDINER"
-position: "Back row"
+position: "FL/No8"
 team: "カンタベリー・クルセイダーズ"
 height: "193"
 weight: "105"
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2020
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - )

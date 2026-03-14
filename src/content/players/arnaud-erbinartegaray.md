@@ -1,5 +1,5 @@
 ---
-title: "アルノー・エルビナルテガライ"
+title: "Arnaud ERBINARTEGARAY"
 name_en: "Arnaud ERBINARTEGARAY"
 position: "WTB"
 team: "バイヨンヌ"

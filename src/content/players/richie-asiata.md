@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2026
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,12 +24,6 @@ facebook: ""
 ---
 
 - Toronto Arrows (2019 - 2020)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2023)
-- Northland Taniwha (2023)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024)
-- Northland Taniwha (2024)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - 2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2026)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2026)
+- ノースランド (2023 - 2024)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025 - )

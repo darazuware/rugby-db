@@ -1,5 +1,5 @@
 ---
-title: "アレクサンドル・クンテリア"
+title: "Aleksandre KUNTELIA"
 name_en: "Aleksandre KUNTELIA"
 position: "PR"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Géorgien"
-nationality: "Géorgien"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/sandro.kuntelia"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2015 - 2021)

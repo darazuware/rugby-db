@@ -112,6 +112,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [selectedTeams, setSelectedTeams] = useState<string[]>([]);
     const [sortKey, setSortKey] = useState<'title' | 'age' | 'height' | 'weight'>('title');
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
+    const [currentPage, setCurrentPage] = useState(1);
+    const ITEMS_PER_PAGE = 48;
 
     // リーグマッピングの生成
     const TEAM_LEAGUE_MAP = useMemo(() => {
@@ -271,7 +273,13 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         } else if (l) {
             setSelectedLeagues(l.split(','));
         }
+        setCurrentPage(1);
     }, [leagueContext]);
+
+    // フィルター変更時にページをリセット
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
 
     const filteredPlayers = useMemo(() => {
         let result = initialPlayers.filter((p) => {
@@ -336,6 +344,12 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
         return result;
     }, [initialPlayers, search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
+
+    const totalPages = Math.ceil(filteredPlayers.length / ITEMS_PER_PAGE);
+    const paginatedPlayers = useMemo(() => {
+        const start = (currentPage - 1) * ITEMS_PER_PAGE;
+        return filteredPlayers.slice(start, start + ITEMS_PER_PAGE);
+    }, [filteredPlayers, currentPage]);
 
     const toggleFilter = (setList: React.Dispatch<React.SetStateAction<string[]>>, value: string) => {
         setList(prev =>
@@ -550,8 +564,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                         {/* 5. リーグワン限定オプション (Division, Category) */}
                         {isLeagueOneSelected && (
-                            <div className="grid grid-cols-2 gap-4">
-                                <div className="grid grid-cols-2 gap-4">
+                            <div className="col-span-1 md:col-span-2 lg:col-span-4">
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                     <div className="space-y-3">
                                         <label className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] flex items-center gap-2">
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
@@ -654,7 +668,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                    {filteredPlayers.map((player) => {
+                    {paginatedPlayers.map((player) => {
                         const leagueColor = getLeagueColor(player.data.league);
                         const categoryColor = getCategoryColor(player.data.league);
                         return (
@@ -721,14 +735,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                         </span>
                                     </div>
 
-                                    {/* 学歴の表示 (League Oneのみ表示) */}
-                                    {isLeagueOneSelected && (player.data.high_school || player.data.university) && (
-                                        <p className="text-xs font-black text-foreground/60 uppercase tracking-tighter mb-5 leading-tight">
-                                            {player.data.high_school && <span>{player.data.high_school}</span>}
-                                            {player.data.high_school && player.data.university && <span className="mx-1 text-yellow-500 font-bold">→</span>}
-                                            {player.data.university && <span>{player.data.university}</span>}
-                                        </p>
-                                    )}
+                                    {/* 学歴の表示 (削除: ボットへの露出を抑えるため詳細ページのみに限定) */}
 
                                     {/* 代表歴の表示 */}
                                     {player.data.caps && (
@@ -746,13 +753,70 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
                                         </div>
                                         <div className="flex flex-col text-right">
-                                            <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
+                                            <span className="text-[10px] text-foreground/40 font-bold">詳細を見る →</span>
                                         </div>
                                     </div>
                             </a>
                         );
                     })}
                 </div>
+
+                {/* ページネーションコントロール */}
+                {totalPages > 1 && (
+                    <div className="mt-12 flex justify-center items-center gap-2 flex-wrap">
+                        <button
+                            onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
+                            disabled={currentPage === 1}
+                            className={`px-4 py-2 rounded-xl font-black text-sm transition-all border-2 ${
+                                currentPage === 1
+                                    ? 'bg-card border-border-dim text-foreground/20 cursor-not-allowed'
+                                    : 'bg-card border-border-dim text-foreground hover:border-foreground'
+                            }`}
+                        >
+                            PREV
+                        </button>
+                        
+                        {(() => {
+                            const pages = [];
+                            const maxVisible = 5;
+                            let start = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+                            let end = Math.min(totalPages, start + maxVisible - 1);
+                            
+                            if (end - start + 1 < maxVisible) {
+                                start = Math.max(1, end - maxVisible + 1);
+                            }
+
+                            for (let i = start; i <= end; i++) {
+                                pages.push(
+                                    <button
+                                        key={i}
+                                        onClick={() => setCurrentPage(i)}
+                                        className={`w-10 h-10 rounded-xl font-black text-sm transition-all border-2 ${
+                                            currentPage === i
+                                                ? `${theme.accent} border-transparent text-white shadow-lg`
+                                                : 'bg-card border-border-dim text-foreground hover:border-foreground'
+                                        }`}
+                                    >
+                                        {i}
+                                    </button>
+                                );
+                            }
+                            return pages;
+                        })()}
+
+                        <button
+                            onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
+                            disabled={currentPage === totalPages}
+                            className={`px-4 py-2 rounded-xl font-black text-sm transition-all border-2 ${
+                                currentPage === totalPages
+                                    ? 'bg-card border-border-dim text-foreground/20 cursor-not-allowed'
+                                    : 'bg-card border-border-dim text-foreground hover:border-foreground'
+                            }`}
+                        >
+                            NEXT
+                        </button>
+                    </div>
+                )}
             </div>
 
             {/* フローティング・リセットボタン */}

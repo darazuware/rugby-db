@@ -1,7 +1,7 @@
 ---
 title: "カイレン・タウモエフォラウ"
 name_en: "Kyren TAUMOEFOLAU"
-position: "Winger"
+position: "WTB"
 team: "ワイカト・チーフス"
 height: "187"
 weight: "95"
@@ -23,12 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2023)
-- Tasman Mako (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Tasman Mako (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Tasman Mako (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Tasman Mako (2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2025)
+- タスマン (2023 - 2025)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

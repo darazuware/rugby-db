@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Waikato Mooloos (2020 - 2025)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2025)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "マチュー・タンギ"
+title: "Mathieu TANGUY"
 name_en: "Mathieu TANGUY"
 position: "LO"
 team: "ペルピニャン"
@@ -11,20 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - 2024)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )

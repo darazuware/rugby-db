@@ -1,7 +1,7 @@
 ---
 title: "ヴァイウタ・ラトゥ"
 name_en: "Vaiuta LATU"
-position: "Back row"
+position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: ""
 weight: "116"

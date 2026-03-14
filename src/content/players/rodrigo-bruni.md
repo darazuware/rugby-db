@@ -1,5 +1,5 @@
 ---
-title: "ロドリゴ・ブルーニ"
+title: "Rodrigo BRUNI"
 name_en: "Rodrigo BRUNI"
 position: "FL/NO8"
 team: "バイヨンヌ"

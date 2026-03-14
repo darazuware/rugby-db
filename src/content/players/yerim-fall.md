@@ -1,5 +1,5 @@
 ---
-title: "イェリム・フォール"
+title: "Yérim FALL"
 name_en: "Yérim FALL"
 position: "WTB"
 team: "クレルモン"

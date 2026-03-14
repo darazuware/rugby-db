@@ -1,5 +1,5 @@
 ---
-title: "ガエル・ガルバン"
+title: "Gael GALVÁN"
 name_en: "Gael GALVÁN"
 position: "PR"
 team: "ラ・ロシェル"
@@ -23,9 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Pucará (2023)
-- Pampas XV (2023)
-- Pucará (2024)
-- Pampas XV (2024)
-- Pucará (2024 - 2025)
+- Pampas XV (2023 - 2024)
+- Pucará (2023 - 2025)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジェームズ-ホール"
+title: "James HALL"
 name_en: "James HALL"
 position: "SH"
 team: "ペルピニャン"

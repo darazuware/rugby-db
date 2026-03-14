@@ -1,5 +1,5 @@
 ---
-title: "ヴィクトール・アヌーン"
+title: "Victor HANNOUN"
 name_en: "Victor HANNOUN"
 position: "WTB"
 team: "バイヨンヌ"

@@ -1,0 +1,32 @@
+---
+title: "Sam Caird"
+name_en: "Sam Caird"
+position: "LO"
+team: "横浜キヤノンイーグルス"
+height: "202"
+weight: "117"
+birth_date: "1997.03.18"
+age: 28
+high_school: "セントピーターズスクール"
+university: "シドニー大学"
+caps: ""
+league_one_caps: "3"
+country: ""
+nationality: ""
+category: "カテゴリーB"
+division: "D1"
+league: "league-one"
+joined_year: 2025
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2018)
+- ノースランド (2018 - 2025)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2020 - 2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2022)
+- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2022 - 2023)
+- New England Free Jacks (2024 - 2025)
+- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2025 - )

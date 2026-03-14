@@ -1,5 +1,5 @@
 ---
-title: "ロメオ・マルタン＝ボナール"
+title: "Roméo MARTIN-BONNARD"
 name_en: "Roméo MARTIN-BONNARD"
 position: "FL/NO8"
 team: "トゥールーズ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Argentina"
-nationality: "Argentina"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/romeomb._?igsh=MTBwOXpjdGpsNHh0Mg=="
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Ecole de Rugby du Pic Saint-Loup (2012 - 2019)

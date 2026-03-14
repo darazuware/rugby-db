@@ -1,5 +1,5 @@
 ---
-title: "ルイ・ビエル＝ビアレ"
+title: "Louis BIELLE-BIARREY"
 name_en: "Louis BIELLE-BIARREY"
 position: "WTB"
 team: "ボルドー・ベグル"

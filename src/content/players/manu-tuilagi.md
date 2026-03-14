@@ -1,5 +1,5 @@
 ---
-title: "マヌ・ツイラギ"
+title: "Manu TUILAGI"
 name_en: "Manu TUILAGI"
 position: "CTB"
 team: "バイヨンヌ"
@@ -23,8 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2013 - 2019)
-- 🇿🇦 ハリウッドベッツ・シャークス (2019)
-- Leicester Tigers (2020)
-- 🇿🇦 ハリウッドベッツ・シャークス (2020 - 2024)
+- Leicester Tigers (2013 - 2020)
+- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

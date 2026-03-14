@@ -1,0 +1,26 @@
+---
+title: "Shintaro Fujii"
+name_en: "Shintaro Fujii"
+position: "LO"
+team: "レッドハリケーンズ大阪"
+height: "185"
+weight: "105"
+birth_date: "2001.09.19"
+age: 24
+high_school: "日本航空高校石川"
+university: "帝京大学"
+caps: ""
+league_one_caps: "3"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D2"
+league: "league-one"
+joined_year: 2024
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )

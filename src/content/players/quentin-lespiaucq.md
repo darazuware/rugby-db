@@ -1,5 +1,5 @@
 ---
-title: "カンタン・レスピアック"
+title: "Quentin LESPIAUCQ"
 name_en: "Quentin LESPIAUCQ"
 position: "HO"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/quentin_lepioc"
-twitter: "https://www.twitter.com/quentin_lepioc"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Mugron (2004 - 2010)

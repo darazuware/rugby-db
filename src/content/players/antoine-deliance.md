@@ -1,5 +1,5 @@
 ---
-title: "アントワーヌ・デリアンス"
+title: "Antoine DÉLIANCE"
 name_en: "Antoine DÉLIANCE"
 position: "FL/NO8"
 team: "リヨン"

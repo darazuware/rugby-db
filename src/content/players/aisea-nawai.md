@@ -1,7 +1,7 @@
 ---
 title: "アイセア・ナワイ"
 name_en: "Aisea NAWAI"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: ""
 weight: ""

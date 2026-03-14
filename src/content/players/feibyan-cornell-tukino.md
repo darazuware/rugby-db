@@ -1,5 +1,5 @@
 ---
-title: "フェイビー・ツイノ"
+title: "Feibyan TUKINO"
 name_en: "Feibyan TUKINO"
 position: "FL/NO8"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Date"
-nationality: "Date"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Romans-Péage (2011 - 2015)

@@ -1,5 +1,5 @@
 ---
-title: "ジェレミ・フェルナンデス"
+title: "Jérémy FERNANDEZ"
 name_en: "Jérémy FERNANDEZ"
 position: "SH"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Français"
-nationality: "Français"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2009
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - SC Mazamet (2002 - 2004)

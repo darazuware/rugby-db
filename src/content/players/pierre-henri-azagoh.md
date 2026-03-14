@@ -1,5 +1,5 @@
 ---
-title: "ピエール＝アンリ・アザゴ"
+title: "Pierre-Henri AZAGOH"
 name_en: "Pierre-Henri AZAGOH"
 position: "LO"
 team: "スタッド・フランセ"

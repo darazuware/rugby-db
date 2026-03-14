@@ -1,7 +1,7 @@
 ---
 title: "キニ・ナホロ"
 name_en: "Kini NAHOLO"
-position: "Winger"
+position: "WTB"
 team: "ウェリントン・ハリケーンズ"
 height: "178"
 weight: "98"
@@ -16,26 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2018 - 2019)
+- タラナキ (2018 - 2024)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2022)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )

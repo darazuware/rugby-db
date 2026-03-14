@@ -1,5 +1,5 @@
 ---
-title: "ヤニス・リュクス"
+title: "Yanis LUX"
 name_en: "Yanis LUX"
 position: "PR"
 team: "スタッド・フランセ"

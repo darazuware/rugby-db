@@ -1,7 +1,7 @@
 ---
 title: "セミシ・ツポウ・タエイロア"
 name_en: "Semisi TUPOU TA'EILOA"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "185"
 weight: "113"
@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Southland Stags (2022 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- Southland Stags (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Southland Stags (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- サウスランド (2022 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

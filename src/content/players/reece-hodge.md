@@ -1,5 +1,5 @@
 ---
-title: "リース・ホッジ"
+title: "Reece HODGE"
 name_en: "Reece HODGE"
 position: "CTB"
 team: "バイヨンヌ"

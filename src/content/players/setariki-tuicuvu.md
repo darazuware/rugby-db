@@ -1,5 +1,5 @@
 ---
-title: "セタリキ・トゥイツヴ"
+title: "Setariki TUICUVU"
 name_en: "Setariki TUICUVU"
 position: "CTB"
 team: "トゥーロン"
@@ -12,20 +12,18 @@ university: ""
 caps: "Fiji"
 league_one_caps: "0"
 country: "Fiji"
-nationality: "Fidji"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2019)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )

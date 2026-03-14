@@ -1,5 +1,5 @@
 ---
-title: "ヘロニモ・デ・ラ・フエンテ"
+title: "Jerónimo DE LA FUENTE"
 name_en: "Jerónimo DE LA FUENTE"
 position: "CTB"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentine"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jaguares (2015 - 2020)

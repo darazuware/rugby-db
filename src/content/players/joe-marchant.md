@@ -1,5 +1,5 @@
 ---
-title: "ジョー・マーチャント"
+title: "Joe MARCHANT"
 name_en: "Joe MARCHANT"
 position: "CTB"
 team: "スタッド・フランセ"
@@ -18,14 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/joemarchant96/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- Harlequins (2014 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- Harlequins (2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- Harlequins (2020 - 2023)
+- Harlequins (2014 - 2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

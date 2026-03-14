@@ -1,7 +1,7 @@
 ---
 title: "キティオネ-サラワ・ジュニア"
 name_en: "Kitione SALAWA JR"
-position: "Back row"
+position: "FL/No8"
 team: "フィジアン・ドゥルア"
 height: "192"
 weight: "95"

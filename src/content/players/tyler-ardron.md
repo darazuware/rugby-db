@@ -1,5 +1,5 @@
 ---
-title: "タイラー・アードロン"
+title: "Tyler ARDRON"
 name_en: "Tyler ARDRON"
 position: "FL/NO8"
 team: "カストル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Canada"
 league_one_caps: "0"
 country: "Canada"
-nationality: "Canadien"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 オスプリーズ (2013 - 2017)

@@ -1,5 +1,5 @@
 ---
-title: "リチャード・ジャッド"
+title: "Richard JUDD"
 name_en: "Richard JUDD"
 position: "SH"
 team: "ヴァンヌ"
@@ -11,37 +11,21 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Zealander"
-nationality: "Zealander"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
-- Bay of Plenty Steamers (2018)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- Bay of Plenty Steamers (2019)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2020)
-- 🇿🇦 エミレーツ・ライオンズ (2020)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021)
-- 🇿🇦 エミレーツ・ライオンズ (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇿🇦 エミレーツ・ライオンズ (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇿🇦 エミレーツ・ライオンズ (2022)
-- San Diego Legion (2022)
-- Bay of Plenty Steamers (2022)
-- San Diego Legion (2023)
-- Bay of Plenty Steamers (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
-- San Diego Legion (2024)
-- Bay of Plenty Steamers (2024)
-- San Diego Legion (2025)
-- Bay of Plenty Steamers (2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2024)
+- Bay of Plenty Steamers (2018 - 2025)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2021)
+- 🇿🇦 エミレーツ・ライオンズ (2020 - 2022)
+- San Diego Legion (2022 - 2025)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ドリアン-アルデゲリ"
+title: "Dorian ALDEGHERI"
 name_en: "Dorian ALDEGHERI"
 position: "PR"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2004
 has_scores: true
-instagram: "https://www.instagram.com/dorian_aldegheri/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2004 - )

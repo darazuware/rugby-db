@@ -1,5 +1,5 @@
 ---
-title: "ミカエル・カペリ"
+title: "Mickaël CAPELLI"
 name_en: "Mickaël CAPELLI"
 position: "LO"
 team: "ポー"

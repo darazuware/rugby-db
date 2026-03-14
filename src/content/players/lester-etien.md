@@ -1,5 +1,5 @@
 ---
-title: "スター・エティアン"
+title: "Lester ÉTIEN"
 name_en: "Lester ÉTIEN"
 position: "WTB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/lester_etien/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Massy Essonne (2014 - 2018)

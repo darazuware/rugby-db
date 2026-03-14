@@ -1,5 +1,5 @@
 ---
-title: "ロマン・ンタマック"
+title: "Romain NTAMACK"
 name_en: "Romain NTAMACK"
 position: "SO"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2013
 has_scores: true
-instagram: "https://www.instagram.com/ntamackromain/"
-twitter: "https://twitter.com/RomainNtamack"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

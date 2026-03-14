@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,7 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2024)
-- Hawke's Bay Magpies (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- Hawke's Bay Magpies (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2026)
+- ホークスベイ (2024 - )

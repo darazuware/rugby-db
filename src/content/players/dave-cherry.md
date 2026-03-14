@@ -1,5 +1,5 @@
 ---
-title: "デイヴ-チェリー"
+title: "Dave CHERRY"
 name_en: "Dave CHERRY"
 position: "HO"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Scottish"
-nationality: "Scottish"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2018 - 2025)

@@ -1,5 +1,5 @@
 ---
-title: "トム・ラフィ"
+title: "Tom RAFFY"
 name_en: "Tom RAFFY"
 position: "SO"
 team: "クレルモン"

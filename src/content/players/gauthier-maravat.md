@@ -1,5 +1,5 @@
 ---
-title: "ゴーティエ-マラヴァ"
+title: "Gauthier MARAVAT"
 name_en: "Gauthier MARAVAT"
 position: "LO"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Français"
-nationality: "Français"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Sporting Union Agenais (2015 - 2022)

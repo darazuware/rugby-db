@@ -1,5 +1,5 @@
 ---
-title: "ザック・ヘンリー"
+title: "Zack HENRY"
 name_en: "Zack HENRY"
 position: "SO"
 team: "スタッド・フランセ"
@@ -18,15 +18,13 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/zackhenry10/"
-twitter: "https://twitter.com/ZackHenry10"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rouen Normandie Rugby (2016 - 2018)
-- USON Nevers Rugby (2018 - 2019)
-- Leicester Tigers (2019)
-- USON Nevers Rugby (2020)
-- Leicester Tigers (2020 - 2021)
+- USON Nevers Rugby (2018 - 2020)
+- Leicester Tigers (2019 - 2021)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021 - 2023)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

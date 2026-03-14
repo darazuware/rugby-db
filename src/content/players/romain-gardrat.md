@@ -1,5 +1,5 @@
 ---
-title: "ロマン・ガルド"
+title: "Romain GARDRAT"
 name_en: "Romain GARDRAT"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

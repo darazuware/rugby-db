@@ -1,5 +1,5 @@
 ---
-title: "ユアン・ジョンソン"
+title: "Ewan JOHNSON"
 name_en: "Ewan JOHNSON"
 position: "LO"
 team: "バイヨンヌ"

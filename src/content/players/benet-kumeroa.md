@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2020 - 2025)
+- ベイ・オブ・プレンティ (2020 - 2025)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "エステバン・カピジャ"
+title: "Esteban CAPILLA"
 name_en: "Esteban CAPILLA"
 position: "FL/NO8"
 team: "バイヨンヌ"

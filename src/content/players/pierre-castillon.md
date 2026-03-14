@@ -1,5 +1,5 @@
 ---
-title: "ピエール・カスティヨン"
+title: "Pierre CASTILLON"
 name_en: "Pierre CASTILLON"
 position: "PR"
 team: "バイヨンヌ"

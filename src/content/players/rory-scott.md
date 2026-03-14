@@ -1,7 +1,7 @@
 ---
 title: "ロリー・スコット"
 name_en: "Rory SCOTT"
-position: "Back row"
+position: "FL/No8"
 team: "ACTブランビーズ"
 height: "189"
 weight: "100"

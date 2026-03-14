@@ -1,5 +1,5 @@
 ---
-title: "ルカス・トザン"
+title: "Lucas TAUZIN"
 name_en: "Lucas TAUZIN"
 position: "WTB"
 team: "クレルモン"

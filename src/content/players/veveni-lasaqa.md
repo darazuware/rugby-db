@@ -1,7 +1,7 @@
 ---
 title: "ヴェヴェニ・ラサンガ"
 name_en: "Veveni LASAQA"
-position: "Back row"
+position: "FL/No8"
 team: "オタゴ・ハイランダーズ"
 height: "186"
 weight: "101"
@@ -16,17 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2020 - 2023)
+- ベイ・オブ・プレンティ (2020 - 2025)
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025)
-- Bay of Plenty Steamers (2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )

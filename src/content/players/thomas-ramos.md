@@ -1,5 +1,5 @@
 ---
-title: "トマ・ラモス"
+title: "Thomas RAMOS"
 name_en: "Thomas RAMOS"
 position: "FB"
 team: "トゥールーズ"
@@ -16,14 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2017
+joined_year: 2016
 has_scores: true
-instagram: "https://www.instagram.com/stadetoulousainrugby/?hl=fr"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - SC Mazamet (2004 - 2011)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2011 - 2016)
-- US Colomiers (2016 - 2017)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2011 - 2026)
+- US Colomiers (2016 - )

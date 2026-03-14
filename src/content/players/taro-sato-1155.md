@@ -1,0 +1,26 @@
+---
+title: "TARO SATO"
+name_en: "TARO SATO"
+position: "FL/No8"
+team: "レッドハリケーンズ大阪"
+height: "181"
+weight: "101"
+birth_date: "1990.04.03"
+age: 35
+high_school: "国立高校"
+university: "慶應義塾大学"
+caps: ""
+league_one_caps: "17"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D2"
+league: "league-one"
+joined_year: 2022
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )

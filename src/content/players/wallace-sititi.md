@@ -1,7 +1,7 @@
 ---
 title: "ウォレス・シティティ"
 name_en: "Wallace SITITI"
-position: "Back row"
+position: "FL/No8"
 team: "ワイカト・チーフス"
 height: "185"
 weight: "113"
@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- North Harbour (2021 - 2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- North Harbour (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- North Harbour (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )
+- ノース・ハーバー (2021 - 2024)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - )

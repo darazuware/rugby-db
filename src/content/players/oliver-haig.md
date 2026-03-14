@@ -1,7 +1,7 @@
 ---
 title: "オリヴァー・ヘイグ"
 name_en: "Oliver HAIG"
-position: "Back row"
+position: "FL/No8"
 team: "オタゴ・ハイランダーズ"
 height: "196"
 weight: "115"
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2021
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - )

@@ -16,20 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2022
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2019)
-- Waikato Mooloos (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Waikato Mooloos (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2021)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021)
-- Waikato Mooloos (2021)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2022)
-- Waikato Mooloos (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2026)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2022)
+- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021 - )

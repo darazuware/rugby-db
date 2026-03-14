@@ -1,5 +1,5 @@
 ---
-title: "シャルル・ラロイ"
+title: "Charles LALOI"
 name_en: "Charles LALOI"
 position: "FB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - CA Périgueux Dordogne (2008 - 2018)

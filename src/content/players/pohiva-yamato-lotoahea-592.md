@@ -1,0 +1,26 @@
+---
+title: "Pohiva Yamato Lotoahea"
+name_en: "Pohiva Yamato Lotoahea"
+position: "LO"
+team: "リコーブラックラムズ東京"
+height: "192"
+weight: "120"
+birth_date: "1988.08.10"
+age: 37
+high_school: "トゥポウカレッジ"
+university: "埼玉工業大学"
+caps: ""
+league_one_caps: "28"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D1"
+league: "league-one"
+joined_year: 2012
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2012 - )

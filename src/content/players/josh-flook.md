@@ -16,15 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2026
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2026)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2026)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025 - )

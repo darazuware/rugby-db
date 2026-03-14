@@ -1,5 +1,5 @@
 ---
-title: "グレゴリー-アルドリット"
+title: "Greg ALLDRITT"
 name_en: "Greg ALLDRITT"
 position: "FL/NO8"
 team: "ラ・ロシェル"

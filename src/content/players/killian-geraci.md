@@ -1,5 +1,5 @@
 ---
-title: "キリアン・ジェラシ"
+title: "Killian GÉRACI"
 name_en: "Killian GÉRACI"
 position: "LO"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Seyssins (2006 - 2010)

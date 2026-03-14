@@ -23,10 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Brisbane City (2018 - 2019)
+- ブリスベン・シティ (2018 - 2019)
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2022)
-- 🇦🇺 メルボルン・レベルズ (2022 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🇦🇺 メルボルン・レベルズ (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
+- 🇦🇺 メルボルン・レベルズ (2022 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
 - 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "トル・ラトゥ"
+title: "Tolu LATU"
 name_en: "Tolu LATU"
 position: "HO"
 team: "ラ・ロシェル"
@@ -12,21 +12,18 @@ university: ""
 caps: "Tonga"
 league_one_caps: "0"
 country: "Tonga"
-nationality: "Tongienne"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/tolu23"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2023)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2024)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

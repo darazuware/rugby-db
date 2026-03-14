@@ -1,5 +1,5 @@
 ---
-title: "ジョーダン・ウエレセ"
+title: "Jordan UELESE"
 name_en: "Jordan UELESE"
 position: "HO"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/jordan_uelese/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2016 - 2024)

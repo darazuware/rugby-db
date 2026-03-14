@@ -1,7 +1,7 @@
 ---
 title: "ミラクル・ファイイラギ"
 name_en: "Miracle FAI'ILAGI"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "188"
 weight: "103"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - Samoa 7's (2021 - 2022)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2024)
-- Hawke's Bay Magpies (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- Hawke's Bay Magpies (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2026)
+- ホークスベイ (2024 - )

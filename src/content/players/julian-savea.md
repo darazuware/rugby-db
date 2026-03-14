@@ -16,39 +16,14 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2010 - 2018)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - 2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019)
-- 🇿🇦 エミレーツ・ライオンズ (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020)
-- 🇿🇦 エミレーツ・ライオンズ (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇿🇦 エミレーツ・ライオンズ (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇿🇦 エミレーツ・ライオンズ (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇿🇦 エミレーツ・ライオンズ (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇿🇦 エミレーツ・ライオンズ (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇿🇦 エミレーツ・ライオンズ (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- 🇿🇦 エミレーツ・ライオンズ (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- 🇿🇦 エミレーツ・ライオンズ (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇿🇦 エミレーツ・ライオンズ (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇿🇦 エミレーツ・ライオンズ (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025)
-- 🇿🇦 エミレーツ・ライオンズ (2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2010 - 2023)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - 2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2025)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "シメリ・ダウニヴズ"
+title: "Simeli DAUNIVUCU"
 name_en: "Simeli DAUNIVUCU"
 position: "CTB"
 team: "ラ・ロシェル"
@@ -11,22 +11,20 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2020
+joined_year: 2019
 has_scores: true
-instagram: "https://www.instagram.com/simeli_daunivucu"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Chartreuse Néron (2010 - 2011)
 - Valence Romans Drôme Rugby (2012 - 2015)
 - Saint-Jean d'Angély (2015 - 2017)
-- Union Cognac-Saint-Jean d'Angély (2017 - 2019)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2019)
-- Union Cognac-Saint-Jean d'Angély (2020)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )
+- Union Cognac-Saint-Jean d'Angély (2017 - 2020)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - )

@@ -1,5 +1,5 @@
 ---
-title: "ドミンゴ・ミオッティ"
+title: "Domingo MIOTTI"
 name_en: "Domingo MIOTTI"
 position: "SO"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/domingomiotti/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jaguares (2018 - 2020)

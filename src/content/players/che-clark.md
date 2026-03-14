@@ -1,7 +1,7 @@
 ---
 title: "チェ・クラーク"
 name_en: "Che CLARK"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "194"
 weight: "101"
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2022
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - )

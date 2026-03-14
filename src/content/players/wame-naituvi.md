@@ -1,5 +1,5 @@
 ---
-title: "ワメ・ナイトゥヴィ"
+title: "Wame NAITUVI"
 name_en: "Wame NAITUVI"
 position: "WTB"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/naituvis/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2017)

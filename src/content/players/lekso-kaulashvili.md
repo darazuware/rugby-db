@@ -1,5 +1,5 @@
 ---
-title: "レクソ・カウラシヴィリ"
+title: "Lekso KAULASHVILI"
 name_en: "Lekso KAULASHVILI"
 position: "PR"
 team: "ポー"

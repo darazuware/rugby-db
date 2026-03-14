@@ -1,5 +1,5 @@
 ---
-title: "ファクンド-ボッシュ"
+title: "Facundo BOSCH"
 name_en: "Facundo BOSCH"
 position: "HO"
 team: "バイヨンヌ"

@@ -1,5 +1,5 @@
 ---
-title: "イグナシオ-カイェス"
+title: "Ignacio CALLES"
 name_en: "Ignacio CALLES"
 position: "PR"
 team: "バイヨンヌ"

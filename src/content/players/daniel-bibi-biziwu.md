@@ -1,5 +1,5 @@
 ---
-title: "ダニエル・ビビ・ビジウ"
+title: "Daniel BIBI BIZIWU"
 name_en: "Daniel BIBI BIZIWU"
 position: "PR"
 team: "ポー"

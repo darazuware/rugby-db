@@ -23,9 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Counties Manukau Steelers (2023 - 2024)
-- New England Free Jacks (2024)
-- Counties Manukau Steelers (2024)
-- New England Free Jacks (2025)
-- Counties Manukau Steelers (2025)
+- カウンティーズ・マヌカウ (2023 - 2025)
+- New England Free Jacks (2024 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

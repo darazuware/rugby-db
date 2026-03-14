@@ -1,5 +1,5 @@
 ---
-title: "グラム-パピゼ"
+title: "Guram PAPIDZE"
 name_en: "Guram PAPIDZE"
 position: "PR"
 team: "ポー"

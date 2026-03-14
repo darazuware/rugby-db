@@ -1,7 +1,7 @@
 ---
 title: "モティキアイ・マレー"
 name_en: "Motikiai MURRAY"
-position: "Back row"
+position: "FL/No8"
 team: "フィジアン・ドゥルア"
 height: "185"
 weight: "92"

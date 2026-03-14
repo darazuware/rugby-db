@@ -1,5 +1,5 @@
 ---
-title: "フロリアン-ヴェルアーグ"
+title: "Florian VERHAEGHE"
 name_en: "Florian VERHAEGHE"
 position: "LO"
 team: "モンペリエ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/florianverhaeghe/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Union Sportive Montalbanaise (2007 - 2014)

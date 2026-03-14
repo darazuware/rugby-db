@@ -1,5 +1,5 @@
 ---
-title: "ジョン・エチェガライ"
+title: "Jon ECHEGARAY"
 name_en: "Jon ECHEGARAY"
 position: "FB"
 team: "モンペリエ"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
 instagram: ""
 twitter: ""
@@ -25,7 +25,5 @@ facebook: ""
 
 - Bidart Union Club (2010 - 2019)
 - Biarritz Olympique Pays Basque (2019 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2026)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2026 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2026)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

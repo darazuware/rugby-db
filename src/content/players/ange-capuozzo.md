@@ -1,5 +1,5 @@
 ---
-title: "アンジェ-カプオッツォ"
+title: "Ange CAPUOZZO"
 name_en: "Ange CAPUOZZO"
 position: "FB"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/ange_capuozzo/"
-twitter: "https://twitter.com/CapuozzoAnge"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Deux Ponts Rugby (2005 - 2010)

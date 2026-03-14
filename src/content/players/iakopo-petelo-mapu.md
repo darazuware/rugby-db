@@ -1,5 +1,5 @@
 ---
-title: "イアコポ-マプ"
+title: "Iakopo MAPU"
 name_en: "Iakopo MAPU"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/iaks_mapu/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Kia Toa (2023 - 2024)

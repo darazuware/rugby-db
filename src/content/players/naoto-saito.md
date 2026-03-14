@@ -1,5 +1,5 @@
 ---
-title: "サイトウ・ナオト"
+title: "Naoto SAITO"
 name_en: "Naoto SAITO"
 position: "SH"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/naotu_09?igsh=dG1lYXduMGE5cHA5"
-twitter: "https://x.com/naotu_11"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)

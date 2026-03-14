@@ -1,5 +1,5 @@
 ---
-title: "ジャック-イスカロ"
+title: "Jack ISCARO"
 name_en: "Jack ISCARO"
 position: "PR"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/jackiscaro/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Old Glory DC RFC (2018 - 2025)

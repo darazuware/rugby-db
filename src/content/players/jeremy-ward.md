@@ -1,5 +1,5 @@
 ---
-title: "ジェレミー-ウォード"
+title: "Jeremy WARD"
 name_en: "Jeremy WARD"
 position: "CTB"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/jemwardie_/"
-twitter: "https://twitter.com/JeremyWard_?s=20&t=YeAHHC-zHT5v29cP6ZVBeg"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Southern Kings (2015 - 2016)

@@ -1,5 +1,5 @@
 ---
-title: "エメリック・セティアーノ"
+title: "Emerick SETIANO"
 name_en: "Emerick SETIANO"
 position: "PR"
 team: "バイヨンヌ"

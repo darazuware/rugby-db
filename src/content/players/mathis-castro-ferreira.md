@@ -1,5 +1,5 @@
 ---
-title: "マティス・カストロ＝フェレイラ"
+title: "Mathis CASTRO-FERREIRA"
 name_en: "Mathis CASTRO-FERREIRA"
 position: "FL/NO8"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/mathiscastro_/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - SO Maubourguet (2008 - 2018)

@@ -1,5 +1,5 @@
 ---
-title: "ラクラン・スウィントン"
+title: "Lachlan SWINTON"
 name_en: "Lachlan SWINTON"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

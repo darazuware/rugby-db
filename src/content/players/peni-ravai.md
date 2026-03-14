@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Southland Stags (2015 - 2016)
+- サウスランド (2015 - 2016)
 - Stade Aurillacois Cantal Auvergne (2016 - 2017)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2020)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2022)

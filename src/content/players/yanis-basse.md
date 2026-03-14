@@ -1,5 +1,5 @@
 ---
-title: "ヤニス・バス"
+title: "Yanis BASSE"
 name_en: "Yanis BASSE"
 position: "HO"
 team: "ラシン92"

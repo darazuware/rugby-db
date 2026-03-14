@@ -1,5 +1,5 @@
 ---
-title: "ルイ・カルボネル"
+title: "Louis CARBONEL"
 name_en: "Louis CARBONEL"
 position: "SO"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/louis_carbonel/"
-twitter: "https://x.com/LouisCarbonel"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Canton Garde-Pradet (2004 - 2005)

@@ -1,5 +1,5 @@
 ---
-title: "シオネ・カラマフォニ"
+title: "Sione KALAMAFONI"
 name_en: "Sione KALAMAFONI"
 position: "FL/NO8"
 team: "ヴァンヌ"
@@ -12,20 +12,18 @@ university: ""
 caps: "Tonga"
 league_one_caps: "0"
 country: "Tonga"
-nationality: "Tongan"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Gloucester Rugby (2013 - 2017)
-- Leicester Tigers (2017 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2019)
-- Leicester Tigers (2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2020 - 2023)
+- Leicester Tigers (2017 - 2020)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2019 - 2023)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジョナサン・ダンティ"
+title: "Jonathan DANTY"
 name_en: "Jonathan DANTY"
 position: "CTB"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/jo_danty"
-twitter: "https://www.twitter.com/DantyJonathan"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - ASPTT Paris (2004 - 2006)

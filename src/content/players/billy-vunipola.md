@@ -1,5 +1,5 @@
 ---
-title: "ビリー-ヴニポラ"
+title: "Billy VUNIPOLA"
 name_en: "Billy VUNIPOLA"
 position: "FL/NO8"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Saracens (2013 - 2024)

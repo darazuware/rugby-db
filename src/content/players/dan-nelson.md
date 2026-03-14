@@ -16,13 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2024)
-- Canberra Royals (2024 - 2025)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2026)
+- Canberra Royals (2024 - )

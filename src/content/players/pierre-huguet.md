@@ -1,5 +1,5 @@
 ---
-title: "ピエール・ユゲ"
+title: "Pierre HUGUET"
 name_en: "Pierre HUGUET"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/pierre_hgt/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - SC Chinonais Rugby (2004 - 2012)

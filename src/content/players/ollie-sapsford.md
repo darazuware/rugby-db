@@ -1,7 +1,7 @@
 ---
 title: "オリー・サプスフォード"
 name_en: "Ollie SAPSFORD"
-position: "Winger"
+position: "WTB"
 team: "ACTブランビーズ"
 height: "191"
 weight: "104"
@@ -16,20 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Hawke's Bay Magpies (2018 - 2021)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021)
-- Hawke's Bay Magpies (2021)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022)
-- Hawke's Bay Magpies (2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022)
-- Hawke's Bay Magpies (2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023)
-- Hawke's Bay Magpies (2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - )
+- ホークスベイ (2018 - 2023)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021 - )

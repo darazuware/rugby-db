@@ -1,7 +1,7 @@
 ---
 title: "ヒュー-レントン"
 name_en: "Hugh RENTON"
-position: "Back row"
+position: "FL/No8"
 team: "オタゴ・ハイランダーズ"
 height: "193"
 weight: "114"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,21 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2017)
-- Tasman Mako (2019 - 2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
-- Tasman Mako (2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- Tasman Mako (2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
-- Tasman Mako (2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
-- Tasman Mako (2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
-- Tasman Mako (2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
-- Tasman Mako (2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
-- Hawke's Bay Magpies (2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
-- Hawke's Bay Magpies (2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- タスマン (2019 - 2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2026)
+- ホークスベイ (2023 - )

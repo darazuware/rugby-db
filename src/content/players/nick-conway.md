@@ -1,7 +1,7 @@
 ---
 title: "ニック・コンウェイ"
 name_en: "Nick CONWAY"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "186"
 weight: "88"

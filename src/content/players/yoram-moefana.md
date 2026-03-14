@@ -1,5 +1,5 @@
 ---
-title: "ヨラム・モエファナ"
+title: "Yoram MOEFANA"
 name_en: "Yoram MOEFANA"
 position: "CTB"
 team: "ボルドー・ベグル"

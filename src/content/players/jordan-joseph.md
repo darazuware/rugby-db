@@ -1,5 +1,5 @@
 ---
-title: "ジョーダン・ジョセフ"
+title: "Jordan JOSEPH"
 name_en: "Jordan JOSEPH"
 position: "FL/NO8"
 team: "ラシン92"
@@ -12,20 +12,17 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Argentina"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/jordan_joseph8/"
-twitter: "https://twitter.com/jordan_joseph8"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Massy Essonne (2014 - 2018)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022)
-- 🇫🇷 [ポー](/teams/top14/pau) (2022 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2026)
+- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "ウルパノ・セウテニ"
+title: "Ulupano SEUTENI"
 name_en: "Ulupano SEUTENI"
 position: "CTB"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
-nationality: "Australienne"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/ujseuteni"
-twitter: "https://www.twitter.com/UJ_Seuteni"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2012 - 2014)

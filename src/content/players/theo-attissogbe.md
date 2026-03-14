@@ -1,5 +1,5 @@
 ---
-title: "テオ・アティソグベ"
+title: "Théo ATTISSOGBE"
 name_en: "Théo ATTISSOGBE"
 position: "WTB"
 team: "ポー"

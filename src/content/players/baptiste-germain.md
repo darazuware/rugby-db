@@ -1,5 +1,5 @@
 ---
-title: "バティスト・ジェルマン"
+title: "Baptiste GERMAIN"
 name_en: "Baptiste GERMAIN"
 position: "SH"
 team: "バイヨンヌ"
@@ -26,7 +26,6 @@ facebook: ""
 - RC Cubzaguais (2007 - 2009)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2009 - 2015)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2020)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - 2022)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - 2024)
 - Biarritz Olympique Pays Basque (2022 - 2023)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

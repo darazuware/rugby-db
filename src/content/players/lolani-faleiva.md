@@ -23,11 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Hawke's Bay Magpies (2020 - 2021)
-- Toronto Arrows (2021)
-- Hawke's Bay Magpies (2021)
-- Toronto Arrows (2022)
-- Hawke's Bay Magpies (2022)
-- Toronto Arrows (2022 - 2023)
-- Hawke's Bay Magpies (2023 - 2025)
+- ホークスベイ (2020 - 2025)
+- Toronto Arrows (2021 - 2023)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

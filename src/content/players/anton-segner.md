@@ -1,7 +1,7 @@
 ---
 title: "アントン-セグナー"
 name_en: "Anton SEGNER"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "192"
 weight: "108"
@@ -23,13 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Tasman Mako (2019 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- Tasman Mako (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Tasman Mako (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Tasman Mako (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- Tasman Mako (2023)
+- タスマン (2019 - 2023)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2026)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )

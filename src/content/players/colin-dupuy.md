@@ -1,5 +1,5 @@
 ---
-title: "コリン・デュピュイ"
+title: "Colin DUPUY"
 name_en: "Colin DUPUY"
 position: "SH"
 team: "カストル"

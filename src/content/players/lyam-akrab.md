@@ -1,5 +1,5 @@
 ---
-title: "リアム・アクラブ"
+title: "Lyam AKRAB"
 name_en: "Lyam AKRAB"
 position: "HO"
 team: "モンペリエ"

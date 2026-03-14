@@ -1,5 +1,5 @@
 ---
-title: "スチュアート・ホッグ"
+title: "Stuart HOGG"
 name_en: "Stuart HOGG"
 position: "FB"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Scotland"
 league_one_caps: "0"
 country: "Scotland"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/stuarthogg21/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2019)

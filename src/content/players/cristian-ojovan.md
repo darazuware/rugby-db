@@ -1,5 +1,5 @@
 ---
-title: "クリスティアン・オジョヴァン"
+title: "Cristian OJOVAN"
 name_en: "Cristian OJOVAN"
 position: "PR"
 team: "クレルモン"

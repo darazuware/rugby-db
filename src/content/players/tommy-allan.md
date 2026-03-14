@@ -1,5 +1,5 @@
 ---
-title: "トマソ・アラン"
+title: "Tommaso ALLAN"
 name_en: "Tommaso ALLAN"
 position: "SO"
 team: "ペルピニャン"
@@ -12,18 +12,17 @@ university: ""
 caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
-nationality: "Italian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2016)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2026)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2016 - 2021)
-- Harlequins (2021 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Harlequins (2021 - )

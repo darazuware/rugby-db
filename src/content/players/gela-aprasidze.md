@@ -1,5 +1,5 @@
 ---
-title: "ゲラ-アプラスィゼ"
+title: "Gela APRASIDZE"
 name_en: "Gela APRASIDZE"
 position: "SH"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Georgian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2016 - 2017)

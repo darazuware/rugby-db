@@ -1,5 +1,5 @@
 ---
-title: "マリウス・ドモン"
+title: "Marius DOMON"
 name_en: "Marius DOMON"
 position: "FB"
 team: "トゥーロン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Francais"
-nationality: "Francais"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2017
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Barracudas de Saint-Barthélémy (2008 - 2016)

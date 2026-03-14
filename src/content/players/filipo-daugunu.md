@@ -1,7 +1,7 @@
 ---
 title: "フィリポ-ダウグヌ"
 name_en: "Filipo DAUGUNU"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "181"
 weight: "101"
@@ -16,13 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2024
+joined_year: 2023
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2023)
-- 🇦🇺 メルボルン・レベルズ (2023 - 2024)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2026)
+- 🇦🇺 メルボルン・レベルズ (2023 - )

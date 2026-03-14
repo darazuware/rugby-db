@@ -1,5 +1,5 @@
 ---
-title: "アンディ-ボルドライ"
+title: "Andy BORDELAI"
 name_en: "Andy BORDELAI"
 position: "PR"
 team: "バイヨンヌ"

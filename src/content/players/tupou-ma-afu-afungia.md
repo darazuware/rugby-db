@@ -1,7 +1,7 @@
 ---
 title: "トゥポウ・マアフ＝アフンギア"
 name_en: "Tupou MA'AFU-AFUNGIA"
-position: "Back row"
+position: "FL/No8"
 team: "モアナ・パシフィカ"
 height: "187"
 weight: "105"

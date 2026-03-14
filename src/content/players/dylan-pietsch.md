@@ -1,7 +1,7 @@
 ---
 title: "ディラン-ピーチ"
 name_en: "Dylan PIETSCH"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: "182"
 weight: "95"

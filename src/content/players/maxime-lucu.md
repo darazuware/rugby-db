@@ -1,5 +1,5 @@
 ---
-title: "マキシム・リュキュ"
+title: "Maxime LUCU"
 name_en: "Maxime LUCU"
 position: "SH"
 team: "ボルドー・ベグル"

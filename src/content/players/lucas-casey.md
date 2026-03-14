@@ -1,7 +1,7 @@
 ---
 title: "ルカス・ケイシー"
 name_en: "Lucas CASEY"
-position: "Back row"
+position: "FL/No8"
 team: "オタゴ・ハイランダーズ"
 height: ""
 weight: ""
@@ -16,11 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2025)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )

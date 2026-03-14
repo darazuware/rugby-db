@@ -1,5 +1,5 @@
 ---
-title: "ゴーティエ・ドゥブレール"
+title: "Gauthier DOUBRÈRE"
 name_en: "Gauthier DOUBRÈRE"
 position: "SH"
 team: "カストル"

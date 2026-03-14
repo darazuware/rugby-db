@@ -1,5 +1,5 @@
 ---
-title: "アヴェ・マーロ"
+title: "Avé MAALO"
 name_en: "Avé MAALO"
 position: "PR"
 team: "リヨン"

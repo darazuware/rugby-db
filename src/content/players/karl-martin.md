@@ -1,5 +1,5 @@
 ---
-title: "カール・マーティン"
+title: "Karl MARTIN"
 name_en: "Karl MARTIN"
 position: "CTB"
 team: "モンペリエ"
@@ -11,19 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇮🇪 レンスター・ラグビー (2020 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
-- Stade Aurillacois Cantal Auvergne (2024 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2026)
+- Stade Aurillacois Cantal Auvergne (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "バティスト・エルドシオ"
+title: "Baptiste ERDOCIO"
 name_en: "Baptiste ERDOCIO"
 position: "PR"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/baptiste_erdoch/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Bidart Union Club (2005 - 2014)

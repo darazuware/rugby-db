@@ -1,5 +1,5 @@
 ---
-title: "ユーゴー-ゴンザレス"
+title: "Hugo GONZÁLEZ"
 name_en: "Hugo GONZÁLEZ"
 position: "PR"
 team: "バイヨンヌ"

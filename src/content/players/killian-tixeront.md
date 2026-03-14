@@ -1,5 +1,5 @@
 ---
-title: "キリアン・ティクスロン"
+title: "Killian TIXERONT"
 name_en: "Killian TIXERONT"
 position: "FL/NO8"
 team: "クレルモン"

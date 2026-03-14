@@ -1,7 +1,7 @@
 ---
 title: "ホスキンス-ソトゥトゥ"
 name_en: "Hoskins SOTUTU"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "192"
 weight: "106"
@@ -16,31 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2020)
-- Counties Manukau Steelers (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- Counties Manukau Steelers (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- Counties Manukau Steelers (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Counties Manukau Steelers (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Counties Manukau Steelers (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- Counties Manukau Steelers (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- Counties Manukau Steelers (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- Counties Manukau Steelers (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025)
-- Counties Manukau Steelers (2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2026)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
+- カウンティーズ・マヌカウ (2020 - )

@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
-- 🇦🇺 メルボルン・レベルズ (2017 - 2020)
+- 🇦🇺 メルボルン・レベルズ (2017 - 2023)
 - 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2021)
-- 🇦🇺 メルボルン・レベルズ (2021 - 2023)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2023 - 2025)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

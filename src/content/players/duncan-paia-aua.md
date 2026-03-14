@@ -1,5 +1,5 @@
 ---
-title: "ダンカン-パイアアウア"
+title: "Duncan PAIA'AUA"
 name_en: "Duncan PAIA'AUA"
 position: "CTB"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
-nationality: "Zealander"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2019)

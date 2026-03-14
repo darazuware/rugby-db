@@ -23,4 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2024)
 - 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - )

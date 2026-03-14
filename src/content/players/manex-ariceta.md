@@ -1,5 +1,5 @@
 ---
-title: "マネクス・アリセタ"
+title: "Manex ARICETA"
 name_en: "Manex ARICETA"
 position: "FL/NO8"
 team: "バイヨンヌ"
@@ -23,9 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Stade Hendayais (2016 - 2017)
-- Hernani Club Rugby Elkartea (2017 - 2020)
-- Stade Hendayais (2020)
-- Hernani Club Rugby Elkartea (2021)
-- Stade Hendayais (2021)
+- Stade Hendayais (2016 - 2021)
+- Hernani Club Rugby Elkartea (2017 - 2021)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )

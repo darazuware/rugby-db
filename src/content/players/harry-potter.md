@@ -1,7 +1,7 @@
 ---
 title: "ハリー-ポッター"
 name_en: "Harry POTTER"
-position: "Winger"
+position: "WTB"
 team: "NSWワラタス（ワラターズ）"
 height: "186"
 weight: "96"
@@ -24,9 +24,7 @@ facebook: ""
 ---
 
 - Melbourne Rising (2018 - 2019)
-- 🇦🇺 メルボルン・レベルズ (2019)
-- Leicester Tigers (2019)
-- 🇦🇺 メルボルン・レベルズ (2020)
-- Leicester Tigers (2020 - 2023)
+- 🇦🇺 メルボルン・レベルズ (2019 - 2020)
+- レスター・タイガース (2019 - 2023)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2025)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )

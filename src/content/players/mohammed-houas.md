@@ -1,5 +1,5 @@
 ---
-title: "モハメド・ハウアス"
+title: "Mohamed HAOUAS"
 name_en: "Mohamed HAOUAS"
 position: "PR"
 team: "モンペリエ"
@@ -12,17 +12,16 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2008 - 2023)
-- Biarritz Olympique Pays Basque (2023 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2008 - 2026)
+- Biarritz Olympique Pays Basque (2023 - )

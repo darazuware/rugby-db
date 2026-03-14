@@ -1,5 +1,5 @@
 ---
-title: "ノラン・ル・ガレック"
+title: "Nolann LE GARREC"
 name_en: "Nolann LE GARREC"
 position: "SH"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/nolannlegarrec9"
-twitter: "https://www.twitter.com/NolannGarrec"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2009 - 2017)

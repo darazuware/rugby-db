@@ -1,5 +1,5 @@
 ---
-title: "アルノ-ボータ"
+title: "Arno BOTHA"
 name_en: "Arno BOTHA"
 position: "FL/NO8"
 team: "リヨン"
@@ -11,22 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Poids"
-nationality: "Poids"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2014 - 2017)
+- 🇿🇦 ヴォーダコム・ブルズ (2014 - 2022)
 - London Irish (2017 - 2018)
-- 🇮🇪 マンスター・ラグビー (2018 - 2019)
-- 🇿🇦 ヴォーダコム・ブルズ (2019)
-- 🇮🇪 マンスター・ラグビー (2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2022)
+- 🇮🇪 マンスター・ラグビー (2018 - 2020)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )

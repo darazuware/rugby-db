@@ -1,5 +1,5 @@
 ---
-title: "ピエール＝ルイ・バラッシ"
+title: "Pierre-Louis BARASSI"
 name_en: "Pierre-Louis BARASSI"
 position: "CTB"
 team: "トゥールーズ"

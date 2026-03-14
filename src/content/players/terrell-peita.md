@@ -1,7 +1,7 @@
 ---
 title: "テレル・ペイタ"
 name_en: "Terrell PEITA"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: "189"
 weight: "106"
@@ -23,14 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
-- New England Free Jacks (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- New England Free Jacks (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Manawatu Turbos (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- Manawatu Turbos (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- Northland Taniwha (2023 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2023)
+- New England Free Jacks (2021 - 2022)
+- マナワツ (2022 - 2023)
+- ノースランド (2023 - 2025)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )

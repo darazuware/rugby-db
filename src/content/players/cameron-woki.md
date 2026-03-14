@@ -1,5 +1,5 @@
 ---
-title: "キャメロン-ウォキ"
+title: "Cameron WOKI"
 name_en: "Cameron WOKI"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2022
 has_scores: true
 instagram: ""
 twitter: ""
@@ -25,6 +25,5 @@ facebook: ""
 
 - AC Bobigny 93 (2008 - 2012)
 - Rugby Club Massy Essonne (2012 - 2017)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2026)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - )

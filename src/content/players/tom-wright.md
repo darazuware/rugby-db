@@ -1,7 +1,7 @@
 ---
 title: "トム・ライト"
 name_en: "Tom WRIGHT"
-position: "Winger"
+position: "WTB"
 team: "ACTブランビーズ"
 height: "186"
 weight: "100"

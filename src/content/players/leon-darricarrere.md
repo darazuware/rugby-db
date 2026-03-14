@@ -1,5 +1,5 @@
 ---
-title: "レオン・ダリカレール"
+title: "Léon DARRICARRÈRE"
 name_en: "Léon DARRICARRÈRE"
 position: "CTB"
 team: "クレルモン"
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - 2011)
-- Stade Montois Rugby Pro (2011 - 2013)
+- Stade Montois Rugby Pro (2011 - 2021)
 - 🇫🇷 [カストル](/teams/top14/castres) (2013 - 2016)
-- Stade Montois Rugby Pro (2016 - 2021)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - )

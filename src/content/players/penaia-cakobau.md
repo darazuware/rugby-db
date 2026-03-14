@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- North Harbour (2023 - 2025)
+- ノース・ハーバー (2023 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

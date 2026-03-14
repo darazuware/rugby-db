@@ -1,5 +1,5 @@
 ---
-title: "ティエリー・パイヴァ"
+title: "Thierry PAÏVA"
 name_en: "Thierry PAÏVA"
 position: "PR"
 team: "スタッド・フランセ"
@@ -18,13 +18,12 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/paivathierry/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2016)
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2022)
 - US Carcassonne (2016 - 2017)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ロブ・シモンズ"
+title: "Rob SIMMONS"
 name_en: "Rob SIMMONS"
 position: "LO"
 team: "クレルモン"

@@ -1,5 +1,5 @@
 ---
-title: "マルタン・パージュ＝ルロ"
+title: "Martin PAGE-RELO"
 name_en: "Martin PAGE-RELO"
 position: "SH"
 team: "ボルドー・ベグル"
@@ -24,8 +24,7 @@ facebook: ""
 ---
 
 - US L'Isle Jourdain (2010 - 2012)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2020)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2023)
 - US Carcassonne (2020 - 2021)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2021 - 2023)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

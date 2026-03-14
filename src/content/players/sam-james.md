@@ -1,5 +1,5 @@
 ---
-title: "サム・ジェームズ"
+title: "Sam JAMES"
 name_en: "Sam JAMES"
 position: "CTB"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/samjames560/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇿🇦 ハリウッドベッツ・シャークス (2015 - 2024)

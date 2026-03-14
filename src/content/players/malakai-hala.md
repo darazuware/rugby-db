@@ -23,13 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Manawatu Turbos (2022 - 2023)
-- New England Free Jacks (2023)
-- Manawatu Turbos (2023)
-- New England Free Jacks (2024)
-- Manawatu Turbos (2024)
-- New England Free Jacks (2024)
-- Manawatu Turbos (2024)
-- New England Free Jacks (2025)
-- Manawatu Turbos (2025)
+- マナワツ (2022 - 2025)
+- New England Free Jacks (2023 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

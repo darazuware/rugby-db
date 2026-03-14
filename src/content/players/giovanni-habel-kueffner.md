@@ -1,5 +1,5 @@
 ---
-title: "ジョヴァンニ・ハベル＝クエフナー"
+title: "Giovanni HABEL-KUEFFNER"
 name_en: "Giovanni HABEL-KUEFFNER"
 position: "FL/NO8"
 team: "バイヨンヌ"

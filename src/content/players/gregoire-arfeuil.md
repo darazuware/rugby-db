@@ -1,5 +1,5 @@
 ---
-title: "グレゴワール・アルフイユ"
+title: "Grégoire ARFEUIL"
 name_en: "Grégoire ARFEUIL"
 position: "WTB"
 team: "ポー"
@@ -24,7 +24,6 @@ facebook: ""
 ---
 
 - Aurore Rugby Club Vitré (2014 - 2015)
-- US Lectoure (2015 - 2019)
+- US Lectoure (2015 - 2021)
 - Sporting Union Agenais (2019 - 2020)
-- US Lectoure (2020 - 2021)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "アルチュール・ロシュ"
+title: "Arthur ROCHE"
 name_en: "Arthur ROCHE"
 position: "FB"
 team: "ラシン92"

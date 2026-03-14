@@ -1,5 +1,5 @@
 ---
-title: "タニエラ・ツポウ"
+title: "Taniela TUPOU"
 name_en: "Taniela TUPOU"
 position: "PR"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/taniela_2pou/"
-twitter: "https://x.com/taniela_tupou"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2023)

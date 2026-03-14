@@ -1,5 +1,5 @@
 ---
-title: "ヴアテ-カラワレヴ"
+title: "Vuate KARAWALEVU"
 name_en: "Vuate KARAWALEVU"
 position: "WTB"
 team: "カストル"
@@ -11,22 +11,20 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Fidjien"
-nationality: "Fidjien"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- North Sydney Bears (2021)
-- Sydney Roosters (2021)
-- North Sydney Bears (2022)
-- Sydney Roosters (2022)
+- Sydney Roosters (2021 - 2022)
+- North Sydney Bears (2021 - 2022)
 - West Harbour RFC (2022 - 2023)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2024)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2025)

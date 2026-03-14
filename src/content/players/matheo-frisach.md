@@ -1,5 +1,5 @@
 ---
-title: "マテオ・フリザック"
+title: "Mathéo FRISACH"
 name_en: "Mathéo FRISACH"
 position: "PR"
 team: "クレルモン"

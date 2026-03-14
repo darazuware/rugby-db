@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Brisbane City (2018 - 2019)
+- ブリスベン・シティ (2018 - 2019)
 - West Brisbane Bulldogs (2019 - 2020)
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - )

@@ -1,7 +1,7 @@
 ---
 title: "ヴィリヴェ-ミラミラ"
 name_en: "Vilive MIRAMIRA"
-position: "Back row"
+position: "FL/No8"
 team: "フィジアン・ドゥルア"
 height: "192"
 weight: "92"

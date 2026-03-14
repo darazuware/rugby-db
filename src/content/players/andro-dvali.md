@@ -1,5 +1,5 @@
 ---
-title: "アンドロ・ドヴァリ"
+title: "Andro DVALI"
 name_en: "Andro DVALI"
 position: "FL/NO8"
 team: "ペルピニャン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Georgian"
-nationality: "Georgian"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2023 - 2024)

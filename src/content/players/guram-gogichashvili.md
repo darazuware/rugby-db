@@ -1,5 +1,5 @@
 ---
-title: "グラム-ゴギチャシュヴィリ"
+title: "Guram GOGICHASHVILI"
 name_en: "Guram GOGICHASHVILI"
 position: "PR"
 team: "ラシン92"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Georgia"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/guri.gogichashvili/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Locomotive Tbilisi (2017 - 2018)

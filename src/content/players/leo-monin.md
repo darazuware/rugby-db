@@ -1,5 +1,5 @@
 ---
-title: "レオ・モナン"
+title: "Léo MONIN"
 name_en: "Léo MONIN"
 position: "FB"
 team: "スタッド・フランセ"

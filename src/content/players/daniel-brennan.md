@@ -1,5 +1,5 @@
 ---
-title: "ダニエル-ブレナン"
+title: "Daniel BRENNAN"
 name_en: "Daniel BRENNAN"
 position: "PR"
 team: "トゥーロン"
@@ -12,23 +12,19 @@ university: ""
 caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2008 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
-- CA Brive Corrèze Limousin (2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020)
-- CA Brive Corrèze Limousin (2020 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021)
-- CA Brive Corrèze Limousin (2021 - 2024)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
+- CA Brive Corrèze Limousin (2020 - 2024)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

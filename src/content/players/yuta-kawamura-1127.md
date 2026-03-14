@@ -1,0 +1,26 @@
+---
+title: "Yuta Kawamura"
+name_en: "Yuta Kawamura"
+position: "CTB"
+team: "レッドハリケーンズ大阪"
+height: "183"
+weight: "96"
+birth_date: "2003.02.22"
+age: 23
+high_school: "関西学院高等部"
+university: "関西学院大学"
+caps: ""
+league_one_caps: "2"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D2"
+league: "league-one"
+joined_year: 2024
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )

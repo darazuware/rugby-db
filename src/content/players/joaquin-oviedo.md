@@ -1,5 +1,5 @@
 ---
-title: "ホアキン・オビエド"
+title: "Joaquín OVIEDO"
 name_en: "Joaquín OVIEDO"
 position: "FL/NO8"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentine"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jaguares XV (2020 - 2021)

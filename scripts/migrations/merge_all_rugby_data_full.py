@@ -43,7 +43,7 @@ final_players = []
 import csv
 csv_lookup = {}
 try:
-    with open('final_master_data_v17_consolidated.csv', 'r', encoding='utf-8-sig') as f:
+    with open('final_master_data_v25.csv', 'r', encoding='utf-8-sig') as f:
         reader = csv.reader(f)
         next(reader) # Skip header
         for row in reader:

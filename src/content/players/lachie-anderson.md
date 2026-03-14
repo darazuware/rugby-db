@@ -1,7 +1,7 @@
 ---
 title: "ラキ・アンダーソン"
 name_en: "Lachie ANDERSON"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "188"
 weight: "97"
@@ -23,8 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Aussie 7's (2019)
-- 🇦🇺 メルボルン・レベルズ (2019)
-- Aussie 7's (2020)
-- 🇦🇺 メルボルン・レベルズ (2020 - 2024)
+- Aussie 7's (2019 - 2020)
+- 🇦🇺 メルボルン・レベルズ (2019 - 2024)
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )

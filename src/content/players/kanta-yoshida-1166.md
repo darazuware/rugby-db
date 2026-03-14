@@ -1,0 +1,26 @@
+---
+title: "Kanta Yoshida"
+name_en: "Kanta Yoshida"
+position: "HO"
+team: "レッドハリケーンズ大阪"
+height: "171"
+weight: "100"
+birth_date: "2001.09.01"
+age: 24
+high_school: "大阪桐蔭高校"
+university: "大阪体育大学"
+caps: ""
+league_one_caps: "1"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D2"
+league: "league-one"
+joined_year: 2023
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )

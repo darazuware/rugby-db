@@ -1,5 +1,5 @@
 ---
-title: "アドリアン・セギュレ"
+title: "Adrien SÉGURET"
 name_en: "Adrien SÉGURET"
 position: "CTB"
 team: "ラ・ロシェル"
@@ -11,23 +11,21 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/staderochelais"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Sporting Club Albigeois (2010 - 2017)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2019)
 - Stade Montois Rugby Pro (2019 - 2020)
 - FC Grenoble Rugby (2020 - 2022)
-- 🇫🇷 [カストル](/teams/top14/castres) (2022 - 2025)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025)
-- 🇫🇷 [カストル](/teams/top14/castres) (2026)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2026 - )
+- 🇫🇷 [カストル](/teams/top14/castres) (2022 - 2026)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

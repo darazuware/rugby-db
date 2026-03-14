@@ -1,7 +1,7 @@
 ---
 title: "アーチー・サンダース"
 name_en: "Archie SAUNDERS"
-position: "Winger"
+position: "WTB"
 team: "NSWワラタス（ワラターズ）"
 height: "192"
 weight: "98"

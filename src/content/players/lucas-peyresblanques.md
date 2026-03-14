@@ -1,5 +1,5 @@
 ---
-title: "ルカス・ペレスブランク"
+title: "Lucas PEYRESBLANQUES"
 name_en: "Lucas PEYRESBLANQUES"
 position: "HO"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/lucas_peyresblanques/"
-twitter: "https://twitter.com/lucas_peyres"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013)

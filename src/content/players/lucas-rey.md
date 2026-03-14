@@ -1,5 +1,5 @@
 ---
-title: "ルカス・レイ"
+title: "Lucas REY"
 name_en: "Lucas REY"
 position: "HO"
 team: "ポー"

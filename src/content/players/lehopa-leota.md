@@ -1,5 +1,5 @@
 ---
-title: "レホパ・レオタ"
+title: "Lehopa LEOTA"
 name_en: "Lehopa LEOTA"
 position: "PR"
 team: "ラシン92"

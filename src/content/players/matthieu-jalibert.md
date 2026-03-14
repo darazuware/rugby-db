@@ -1,5 +1,5 @@
 ---
-title: "マチュー・ジャリベール"
+title: "Matthieu JALIBERT"
 name_en: "Matthieu JALIBERT"
 position: "SO"
 team: "ボルドー・ベグル"

@@ -1,5 +1,5 @@
 ---
-title: "ジョシュア・ツイソヴァ"
+title: "Josua TUISOVA"
 name_en: "Josua TUISOVA"
 position: "CTB"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/j.tuisova14/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2019)

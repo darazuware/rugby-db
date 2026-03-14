@@ -1,5 +1,5 @@
 ---
-title: "オリヴィエ・クレマンチャック"
+title: "Olivier KLEMENCZAK"
 name_en: "Olivier KLEMENCZAK"
 position: "CTB"
 team: "ポー"

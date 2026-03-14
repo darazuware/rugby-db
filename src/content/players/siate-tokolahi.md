@@ -1,5 +1,5 @@
 ---
-title: "シアテ・トコラヒ"
+title: "Siate TOKOLAHI"
 name_en: "Siate TOKOLAHI"
 position: "PR"
 team: "ポー"
@@ -24,9 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2019)
-- Southland Stags (2019)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
-- Southland Stags (2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2021)
+- Southland Stags (2019 - 2020)
 - 🇫🇷 [ポー](/teams/top14/pau) (2021 - )

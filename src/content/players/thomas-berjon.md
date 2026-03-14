@@ -1,5 +1,5 @@
 ---
-title: "トマ・ベルジョン"
+title: "Thomas BERJON"
 name_en: "Thomas BERJON"
 position: "SH"
 team: "ラ・ロシェル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Française"
-nationality: "Française"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2010
 has_scores: true
-instagram: "https://www.instagram.com/thomberjon"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - )

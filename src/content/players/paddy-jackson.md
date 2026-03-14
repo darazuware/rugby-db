@@ -1,5 +1,5 @@
 ---
-title: "パディ・ジャクソン"
+title: "Paddy JACKSON"
 name_en: "Paddy JACKSON"
 position: "SO"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇮🇪 アルスター・ラグビー (2013 - 2018)

@@ -1,5 +1,5 @@
 ---
-title: "アンティム・エムリー"
+title: "Anthime HEMERY"
 name_en: "Anthime HEMERY"
 position: "FL/NO8"
 team: "クレルモン"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
 instagram: ""
 twitter: ""
@@ -24,7 +24,5 @@ facebook: ""
 ---
 
 - Ovale du Gy (2006 - 2016)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016 - 2024)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

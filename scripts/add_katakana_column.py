@@ -3,7 +3,7 @@ import json
 import os
 import shutil
 
-CSV_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
+CSV_PATH = 'data_sources/final_master_data_v25.csv'
 INTEGRATED_CSV_PATH = 'data_sources/final_master_data_v17_consolidated_integrated.csv'
 if os.path.exists(INTEGRATED_CSV_PATH):
     CSV_PATH = INTEGRATED_CSV_PATH

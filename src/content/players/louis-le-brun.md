@@ -1,5 +1,5 @@
 ---
-title: "ルイ・ル・ブラン"
+title: "Louis LE BRUN"
 name_en: "Louis LE BRUN"
 position: "SO"
 team: "カストル"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Français"
-nationality: "Français"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Hyères Carqueiranne La Crau (2007 - 2015)

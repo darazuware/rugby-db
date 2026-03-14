@@ -1,5 +1,5 @@
 ---
-title: "アレクサンドル-フィッシャー"
+title: "Alexandre FISCHER"
 name_en: "Alexandre FISCHER"
 position: "FL/NO8"
 team: "バイヨンヌ"

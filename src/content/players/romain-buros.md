@@ -1,5 +1,5 @@
 ---
-title: "ロマン・ビュロス"
+title: "Romain BUROS"
 name_en: "Romain BUROS"
 position: "FB"
 team: "ボルドー・ベグル"

@@ -1,5 +1,5 @@
 ---
-title: "サンティアゴ・アラタ"
+title: "Santiago ARATA"
 name_en: "Santiago ARATA"
 position: "SH"
 team: "カストル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Uruguay"
 league_one_caps: "0"
 country: "Uruguay"
-nationality: "Uruguay"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Houston Sabercats (2018 - 2019)

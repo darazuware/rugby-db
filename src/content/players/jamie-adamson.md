@@ -1,7 +1,7 @@
 ---
 title: "ジェイミー・アダムソン"
 name_en: "Jamie ADAMSON"
-position: "Back row"
+position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"
 height: "188"
 weight: "95"

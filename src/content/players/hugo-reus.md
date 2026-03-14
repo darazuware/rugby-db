@@ -1,5 +1,5 @@
 ---
-title: "ユーゴー-リュス"
+title: "Hugo REUS"
 name_en: "Hugo REUS"
 position: "SO"
 team: "ペルピニャン"
@@ -11,25 +11,21 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "French"
-nationality: "French"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Club Athlétique Ribéracois (2009 - 2013)
 - CA Périgueux Dordogne (2013 - 2018)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2026)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2026 - )
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
+- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

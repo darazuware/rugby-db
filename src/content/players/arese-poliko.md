@@ -1,7 +1,7 @@
 ---
 title: "アレセ・ポリコ"
 name_en: "Arese POLIKO"
-position: "Back row"
+position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"
 height: "190"
 weight: "115"
@@ -16,17 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2024
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Southland Stags (2019 - 2022)
-- 🇿🇦 ヴォーダコム・ブルズ (2022 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024)
-- 🇿🇦 ヴォーダコム・ブルズ (2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025)
-- 🇿🇦 ヴォーダコム・ブルズ (2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- サウスランド (2019 - 2022)
+- タラナキ (2022 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - )

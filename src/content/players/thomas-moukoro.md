@@ -1,5 +1,5 @@
 ---
-title: "トマ・ムコロ"
+title: "Thomas MOUKORO"
 name_en: "Thomas MOUKORO"
 position: "PR"
 team: "リヨン"
@@ -11,20 +11,18 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Poids"
-nationality: "Poids"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2024)
+- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - 2025)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )

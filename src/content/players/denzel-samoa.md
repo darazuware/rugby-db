@@ -1,7 +1,7 @@
 ---
 title: "デンゼル・サモア"
 name_en: "Denzel SAMOA"
-position: "Winger"
+position: "WTB"
 team: "モアナ・パシフィカ"
 height: "185"
 weight: "91"

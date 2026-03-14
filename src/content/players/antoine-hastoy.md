@@ -1,5 +1,5 @@
 ---
-title: "アントワーヌ-アストイ"
+title: "Antoine HASTOY"
 name_en: "Antoine HASTOY"
 position: "SO"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/antoine.hastoy"
-twitter: "https://www.twitter.com/AHastoy"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Billère ASPTT Lescar (2004 - 2011)

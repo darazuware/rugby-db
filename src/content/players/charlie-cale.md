@@ -1,7 +1,7 @@
 ---
 title: "チャーリー・ケール"
 name_en: "Charlie CALE"
-position: "Back row"
+position: "FL/No8"
 team: "ACTブランビーズ"
 height: "196"
 weight: "105"

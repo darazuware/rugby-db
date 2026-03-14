@@ -1,5 +1,5 @@
 ---
-title: "デイヴィッド-リバンズ"
+title: "David RIBBANS"
 name_en: "David RIBBANS"
 position: "LO"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "South Africa"
 league_one_caps: "0"
 country: "South Africa"
-nationality: "Angleterre"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Northampton Saints (2016 - 2023)

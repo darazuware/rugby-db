@@ -1,7 +1,7 @@
 ---
 title: "ティティ・ノフォガトトア"
 name_en: "Titi NOFOAGATOTOA"
-position: "Back row"
+position: "FL/No8"
 team: "ウェスタン・フォース"
 height: ""
 weight: ""

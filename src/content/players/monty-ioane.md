@@ -1,5 +1,5 @@
 ---
-title: "モンティ・イオアネ"
+title: "Monty IOANE"
 name_en: "Monty IOANE"
 position: "WTB"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2015)

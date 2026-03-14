@@ -1,0 +1,26 @@
+---
+title: "Suguru Hidaka"
+name_en: "Suguru Hidaka"
+position: "LO"
+team: "清水建設江東ブルーシャークス"
+height: "191"
+weight: "108"
+birth_date: "1990.02.15"
+age: 36
+high_school: "筑紫高校"
+university: "明治大学"
+caps: ""
+league_one_caps: "24"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D2"
+league: "league-one"
+joined_year: 2021
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2021 - )

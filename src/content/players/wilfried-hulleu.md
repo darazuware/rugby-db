@@ -1,5 +1,5 @@
 ---
-title: "ウィルフリード・ユルー"
+title: "Wilfried HULLEU"
 name_en: "Wilfried HULLEU"
 position: "WTB"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/wilfried_hulleu/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC le Môle (2007 - 2016)

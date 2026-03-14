@@ -1,5 +1,5 @@
 ---
-title: "バティスト・ティヨール"
+title: "Baptiste TILLOLES"
 name_en: "Baptiste TILLOLES"
 position: "SH"
 team: "バイヨンヌ"

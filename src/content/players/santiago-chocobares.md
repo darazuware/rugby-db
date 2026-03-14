@@ -1,5 +1,5 @@
 ---
-title: "サンティアゴ・チョコバレス"
+title: "Santiago CHOCOBARES"
 name_en: "Santiago CHOCOBARES"
 position: "CTB"
 team: "トゥールーズ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentina"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/santi.chocobares/"
-twitter: "https://twitter.com/santiagochocob1"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Jaguares (2018 - 2020)

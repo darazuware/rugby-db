@@ -1,5 +1,5 @@
 ---
-title: "スワン・コルムニエ"
+title: "Swan CORMENIER"
 name_en: "Swan CORMENIER"
 position: "PR"
 team: "バイヨンヌ"

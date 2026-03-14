@@ -1,5 +1,5 @@
 ---
-title: "イグナシオ-ブレックス"
+title: "Ignacio BREX"
 name_en: "Ignacio BREX"
 position: "CTB"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Italie"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2017 - 2025)

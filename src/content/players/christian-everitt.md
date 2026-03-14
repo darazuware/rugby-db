@@ -1,5 +1,5 @@
 ---
-title: "クリスチャン・エヴェリット"
+title: "Christian EVERITT"
 name_en: "Christian EVERITT"
 position: "HO"
 team: "ボルドー・ベグル"

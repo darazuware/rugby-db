@@ -1,5 +1,5 @@
 ---
-title: "ベンジャミン-ウルダピレッタ"
+title: "Benjamin URDAPILLETA"
 name_en: "Benjamin URDAPILLETA"
 position: "SO"
 team: "ペルピニャン"
@@ -12,22 +12,20 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentine"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Harlequins (2010 - 2012)
 - Oyonnax Rugby (2012 - 2015)
 - 🇫🇷 [カストル](/teams/top14/castres) (2015 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2024)
-- Club Universitario de Buenos Aires (2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025)
-- Club Universitario de Buenos Aires (2025)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2025)
+- Club Universitario de Buenos Aires (2024 - 2025)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

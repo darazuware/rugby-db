@@ -1,5 +1,5 @@
 ---
-title: "キーラン・ブルックス"
+title: "Kieran BROOKES"
 name_en: "Kieran BROOKES"
 position: "PR"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "English"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Newcastle (2013 - 2015)

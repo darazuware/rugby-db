@@ -1,5 +1,5 @@
 ---
-title: "ファクンド-イサ"
+title: "Facundo ISA"
 name_en: "Facundo ISA"
 position: "FL/NO8"
 team: "ポー"
@@ -23,11 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2014)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2025)
 - Pampas XV (2014 - 2015)
-- Jaguares (2015 - 2016)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2016)
-- Jaguares (2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2017)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - 2025)
+- Jaguares (2015 - 2017)
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - 2017)
 - 🇫🇷 [ポー](/teams/top14/pau) (2025 - )

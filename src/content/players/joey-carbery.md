@@ -1,5 +1,5 @@
 ---
-title: "ジョーイー・カーベリー"
+title: "Joey CARBERY"
 name_en: "Joey CARBERY"
 position: "SO"
 team: "ボルドー・ベグル"

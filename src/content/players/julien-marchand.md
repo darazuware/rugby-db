@@ -1,5 +1,5 @@
 ---
-title: "ジュリアン・マルシャン"
+title: "Julien MARCHAND"
 name_en: "Julien MARCHAND"
 position: "HO"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2010
 has_scores: true
-instagram: "https://www.instagram.com/jumarchand_/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Montréjeau Gourdan Polignan XV (2005 - 2010)

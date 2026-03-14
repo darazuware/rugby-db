@@ -1,5 +1,5 @@
 ---
-title: "リース・ヒューワット"
+title: "Reece HEWAT"
 name_en: "Reece HEWAT"
 position: "FL/NO8"
 team: "ポー"

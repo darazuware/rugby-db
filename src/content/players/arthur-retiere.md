@@ -1,5 +1,5 @@
 ---
-title: "アルチュール・ルティエール"
+title: "Arthur RETIÈRE"
 name_en: "Arthur RETIÈRE"
 position: "WTB"
 team: "ボルドー・ベグル"

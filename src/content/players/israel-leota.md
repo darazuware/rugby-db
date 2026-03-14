@@ -1,7 +1,7 @@
 ---
 title: "イスラエル・レオタ"
 name_en: "Israel LEOTA"
-position: "Winger"
+position: "WTB"
 team: "モアナ・パシフィカ"
 height: "190"
 weight: "101"

@@ -1,5 +1,5 @@
 ---
-title: "レミ・セネカ"
+title: "Rémi SÉNÉCA"
 name_en: "Rémi SÉNÉCA"
 position: "PR"
 team: "ポー"

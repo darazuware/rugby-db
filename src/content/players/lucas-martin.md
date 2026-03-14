@@ -1,5 +1,5 @@
 ---
-title: "ルカス・マルティン"
+title: "Lucas MARTIN"
 name_en: "Lucas MARTIN"
 position: "HO"
 team: "バイヨンヌ"

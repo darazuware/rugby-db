@@ -1,7 +1,7 @@
 ---
 title: "ロナン・リーヒー"
 name_en: "Ronan LEAHY"
-position: "Winger"
+position: "WTB"
 team: "ウェスタン・フォース"
 height: "188"
 weight: "96"

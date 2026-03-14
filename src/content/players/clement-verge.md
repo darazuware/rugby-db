@@ -1,5 +1,5 @@
 ---
-title: "クレマン・ヴェルジェ"
+title: "Clément VERGÉ"
 name_en: "Clément VERGÉ"
 position: "LO"
 team: "トゥールーズ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: "https://www.instagram.com/clmntvrg/"
-twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Saint-Girons SC Couserans (2007 - 2018)

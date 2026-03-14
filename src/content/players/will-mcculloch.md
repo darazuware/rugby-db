@@ -1,7 +1,7 @@
 ---
 title: "ウィル-マカロック"
 name_en: "Will MCCULLOCH"
-position: "Winger"
+position: "WTB"
 team: "クイーンズランド・レッズ"
 height: "186"
 weight: "88"

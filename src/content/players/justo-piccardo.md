@@ -1,5 +1,5 @@
 ---
-title: "フスト・ピカルド"
+title: "Justo PICCARDO"
 name_en: "Justo PICCARDO"
 position: "CTB"
 team: "モンペリエ"

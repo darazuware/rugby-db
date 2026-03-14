@@ -1,7 +1,7 @@
 ---
 title: "エトニア-ワカ"
 name_en: "Etonia WAQA"
-position: "Back row"
+position: "FL/No8"
 team: "フィジアン・ドゥルア"
 height: "196"
 weight: "110"
@@ -16,16 +16,12 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2021 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022)
-- Bay of Plenty Steamers (2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
-- Bay of Plenty Steamers (2023)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )
+- ベイ・オブ・プレンティ (2021 - 2023)
+- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )

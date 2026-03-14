@@ -1,7 +1,7 @@
 ---
 title: "カルロ・ティッツァーノ"
 name_en: "Carlo TIZZANO"
-position: "Back row"
+position: "FL/No8"
 team: "ウェスタン・フォース"
 height: "183"
 weight: "103"
@@ -16,16 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2023
+joined_year: 2022
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2019)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2026)
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
-- Ealing Trailfinders (2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
-- Ealing Trailfinders (2023)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+- Ealing Trailfinders (2022 - )

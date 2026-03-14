@@ -1,5 +1,5 @@
 ---
-title: "マルコ・トレニュ"
+title: "Marco TAULEIGNE"
 name_en: "Marco TAULEIGNE"
 position: "FL/NO8"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/m__tau/"
-twitter: "https://twitter.com/MarcoTauleigne"
-facebook: "https://www.facebook.com/MarcoTauleigneOff"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - RC Teillois (2004 - 2009)

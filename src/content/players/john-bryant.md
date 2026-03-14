@@ -1,7 +1,7 @@
 ---
 title: "ジョン・ブライアント"
 name_en: "John BRYANT"
-position: "Back row"
+position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: "190"
 weight: "100"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2026
+joined_year: 2025
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - Souths Rugby (2022 - 2023)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2026)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2026 - )
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2026)
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025 - )

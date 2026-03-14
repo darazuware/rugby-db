@@ -1,5 +1,5 @@
 ---
-title: "ジャック-マドックス"
+title: "Jack MADDOCKS"
 name_en: "Jack MADDOCKS"
 position: "FB"
 team: "ポー"

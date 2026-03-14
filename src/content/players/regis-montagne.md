@@ -1,5 +1,5 @@
 ---
-title: "レジ・モンターニュ"
+title: "Régis MONTAGNE"
 name_en: "Régis MONTAGNE"
 position: "PR"
 team: "クレルモン"

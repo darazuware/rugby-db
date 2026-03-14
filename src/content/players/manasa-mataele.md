@@ -1,7 +1,7 @@
 ---
 title: "マナサ・マタエレ"
 name_en: "Manasa MATAELE"
-position: "Winger"
+position: "WTB"
 team: "フィジアン・ドゥルア"
 height: "185"
 weight: "100"
@@ -23,17 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2021)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2024)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2025)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

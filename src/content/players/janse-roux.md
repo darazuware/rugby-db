@@ -1,5 +1,5 @@
 ---
-title: "ヤンセ・ルー"
+title: "Janse ROUX"
 name_en: "Janse ROUX"
 position: "LO"
 team: "リヨン"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
 instagram: ""
 twitter: ""
@@ -27,7 +27,5 @@ facebook: ""
 - CS Bourgoin Jallieu Rugby (2017 - 2019)
 - Soyaux-Angoulême XV Charente (2019 - 2023)
 - US Colomiers (2023 - 2025)
-- CA Brive Corrèze Limousin (2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025)
-- CA Brive Corrèze Limousin (2026)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2026 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - 2026)
+- CA Brive Corrèze Limousin (2025 - )

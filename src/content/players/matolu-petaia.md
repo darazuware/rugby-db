@@ -1,7 +1,7 @@
 ---
 title: "マトル・ペタイア"
 name_en: "Matolu PETAIA"
-position: "Back row"
+position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"
 height: ""
 weight: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2023 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2025)
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "ガレス-アンスコム"
+title: "Gareth ANSCOMBE"
 name_en: "Gareth ANSCOMBE"
 position: "SO"
 team: "バイヨンヌ"

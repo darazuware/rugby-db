@@ -1,5 +1,5 @@
 ---
-title: "ディリン-レイズ"
+title: "Dillyn LEYDS"
 name_en: "Dillyn LEYDS"
 position: "WTB"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "South Africa"
 league_one_caps: "0"
 country: "South Africa"
-nationality: "Sud"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/dill_l8s"
-twitter: "https://www.twitter.com/dill10leyds"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2014)

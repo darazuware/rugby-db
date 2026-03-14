@@ -1,5 +1,5 @@
 ---
-title: "ディエゴ・ジャード"
+title: "Diego JURD"
 name_en: "Diego JURD"
 position: "SO"
 team: "ラ・ロシェル"

@@ -1,5 +1,5 @@
 ---
-title: "ルイ・フルサン＝ブルデット"
+title: "Louis FOURSANS-BOURDETTE"
 name_en: "Louis FOURSANS-BOURDETTE"
 position: "SO"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/louisfoursans/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Rugby Club Nîmois (2010 - 2019)

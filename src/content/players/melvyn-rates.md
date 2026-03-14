@@ -1,5 +1,5 @@
 ---
-title: "メルヴィン・ラテ"
+title: "Melvyn RATES"
 name_en: "Melvyn RATES"
 position: "WTB"
 team: "モンペリエ"

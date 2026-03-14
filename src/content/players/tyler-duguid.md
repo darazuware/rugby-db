@@ -1,5 +1,5 @@
 ---
-title: "タイラー・デュグッド"
+title: "Tyler DUGUID"
 name_en: "Tyler DUGUID"
 position: "LO"
 team: "モンペリエ"
@@ -12,15 +12,15 @@ university: ""
 caps: "Canada"
 league_one_caps: "0"
 country: "Canada"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: "https://www.instagram.com/tyler_duguid/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Edmonton Rugby Union (2018 - 2019)

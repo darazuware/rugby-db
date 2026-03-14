@@ -1,5 +1,5 @@
 ---
-title: "トマ・レノー"
+title: "Thomas LAINAULT"
 name_en: "Thomas LAINAULT"
 position: "LO"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/lainaultthomas/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2011 - 2016)

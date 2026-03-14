@@ -1,5 +1,5 @@
 ---
-title: "エステバン・ゴンザレス"
+title: "Esteban GONZALEZ"
 name_en: "Esteban GONZALEZ"
 position: "SH"
 team: "リヨン"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Association Sportive Béziers Hérault (2012 - 2022)

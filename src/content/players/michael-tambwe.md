@@ -1,5 +1,5 @@
 ---
-title: "マドッシュ・タンブウェ"
+title: "Madosh TAMBWE"
 name_en: "Madosh TAMBWE"
 position: "WTB"
 team: "ボルドー・ベグル"
@@ -16,21 +16,16 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2024
 has_scores: true
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2016 - 2018)
-- 🇿🇦 エミレーツ・ライオンズ (2018)
-- 🇿🇦 エミレーツ・ライオンズ (2019)
-- 🇿🇦 エミレーツ・ライオンズ (2019)
+- 🇿🇦 エミレーツ・ライオンズ (2016 - 2019)
+- 🇿🇦 エミレーツ・ライオンズ (2018 - 2019)
 - 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2020)
 - 🇿🇦 ヴォーダコム・ブルズ (2020 - 2022)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2026)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2026 - )
+- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2026)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

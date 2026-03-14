@@ -1,5 +1,5 @@
 ---
-title: "マチュー・イリゴイエン"
+title: "Mathieu HIRIGOYEN"
 name_en: "Mathieu HIRIGOYEN"
 position: "FL/NO8"
 team: "スタッド・フランセ"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/mathieuhirigoyen/"
-twitter: "https://twitter.com/Mat_Hirigoyen"
-facebook: "https://www.facebook.com/SFPARIS/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Anglet Olympique Rugby Club (2011 - 2012)

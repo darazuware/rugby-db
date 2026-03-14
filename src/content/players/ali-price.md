@@ -1,5 +1,5 @@
 ---
-title: "アリ・プライス"
+title: "Ali PRICE"
 name_en: "Ali PRICE"
 position: "SH"
 team: "モンペリエ"
@@ -12,19 +12,17 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: "Voir"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2014 - 2023)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2023)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2024)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2024 - 2025)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2014 - 2024)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2023 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

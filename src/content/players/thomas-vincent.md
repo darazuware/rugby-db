@@ -1,5 +1,5 @@
 ---
-title: "トマ・ヴァンサン"
+title: "Thomas VINCENT"
 name_en: "Thomas VINCENT"
 position: "SO"
 team: "モンペリエ"
@@ -11,20 +11,19 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Voir"
-nationality: "Voir"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - US Monflanquin (2012 - 2015)
-- Sporting Union Agenais (2015 - 2020)
+- Sporting Union Agenais (2015 - 2024)
 - Stade Aurillacois Cantal Auvergne (2020 - 2021)
-- Sporting Union Agenais (2021 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

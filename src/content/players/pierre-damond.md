@@ -1,5 +1,5 @@
 ---
-title: "ピエール・ダモン"
+title: "Pierre DAMOND"
 name_en: "Pierre DAMOND"
 position: "HO"
 team: "トゥーロン"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "France"
-nationality: "France"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2015
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Club du Golfe (2012 - 2015)

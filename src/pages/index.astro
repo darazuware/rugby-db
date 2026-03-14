@@ -3,6 +3,52 @@ import Layout from "../layouts/Layout.astro";
 import AffiliateBanner from "../components/AffiliateBanner.astro";
 import StandingsWidget from "../components/StandingsWidget";
 import standingsData from "../../data/standings.json";
+import teamsData from "../../data/teams.json";
+import teamNamesJp from "../../data/team_names_jp.json";
+
+// チーム情報のマッピングを取得する共通関数
+const getTeamMapping = (leagueId: string, teamName: string) => {
+    const leagueMapping = (teamNamesJp as any)[leagueId || ""] || {};
+    // 1. 正式名で直接検索
+    if (leagueMapping[teamName]) return leagueMapping[teamName];
+    // 2. エイリアス、日本語名、または短縮日本語名で全体検索
+    for (const formalName in leagueMapping) {
+        const data = leagueMapping[formalName];
+        const shortJp = data.jp.includes("（") ? data.jp.split("（")[0] : data.jp;
+        if (
+            data.jp === teamName ||
+            shortJp === teamName ||
+            (data.aliases && data.aliases.includes(teamName)) ||
+            formalName.includes(teamName) ||
+            teamName.includes(formalName) ||
+            data.jp.includes(teamName) ||
+            teamName.includes(data.jp)
+        ) {
+            return data;
+        }
+    }
+    return null;
+};
+
+const mapStandings = (leagueId: string) => {
+    const raw = (standingsData as any)[leagueId]?.standings || [];
+    const leagueTeams = (teamsData as any[]).filter(t => t.league === (leagueId === 'league-one' ? 'league-one' : leagueId));
+    
+    return raw.slice(0, 4).map((s: any) => {
+        const mapping = getTeamMapping(leagueId, s.team_name);
+        const teamInTeams = leagueTeams.find((t: any) => 
+            t.team_name === s.team_name || 
+            t.team_name_jp === s.team_name || 
+            (mapping && t.team_name === mapping.jp)
+        );
+        return {
+            ...s,
+            slug: teamInTeams?.slug || s.slug,
+            display_name: s.display_name || mapping?.jp || s.team_name,
+            flag: s.flag || mapping?.flag || "",
+        };
+    });
+};
 
 const leagueStandings = [
 	{
@@ -12,10 +58,7 @@ const leagueStandings = [
 		fullName: "ジャパンラグビー リーグワン",
 		title: "Japan Rugby League One",
 		accentColor: "bg-[#E60012]",
-		teams: ((standingsData["league-one"] as any)?.standings || []).slice(
-			0,
-			4,
-		),
+		teams: mapStandings("league-one"),
 	},
 	{
 		id: "super-rugby",
@@ -24,10 +67,7 @@ const leagueStandings = [
 		fullName: "Super Rugby Pacific",
 		title: "Super Rugby Pacific",
 		accentColor: "bg-[#0055A4]",
-		teams: ((standingsData["super-rugby"] as any)?.standings || []).slice(
-			0,
-			4,
-		),
+		teams: mapStandings("super-rugby"),
 	},
 	{
 		id: "top14",
@@ -36,10 +76,7 @@ const leagueStandings = [
 		fullName: "Top 14 France",
 		title: "Top 14 France",
 		accentColor: "bg-[#C5A059]",
-		teams: ((standingsData["top14"] as any)?.standings || []).slice(
-			0,
-			4,
-		),
+		teams: mapStandings("top14"),
 	},
 ];
 ---

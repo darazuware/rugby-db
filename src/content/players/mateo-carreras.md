@@ -1,5 +1,5 @@
 ---
-title: "マテオ・カレーラス"
+title: "Mateo CARRERAS"
 name_en: "Mateo CARRERAS"
 position: "WTB"
 team: "バイヨンヌ"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2024
+joined_year: 2023
 has_scores: true
 instagram: ""
 twitter: ""
@@ -25,7 +25,5 @@ facebook: ""
 
 - Jaguares XV (2018 - 2019)
 - Jaguares (2019 - 2020)
-- Newcastle (2020 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
-- Newcastle (2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+- Newcastle (2020 - 2024)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

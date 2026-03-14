@@ -1,5 +1,5 @@
 ---
-title: "マチュー・バビヨ"
+title: "Mathieu BABILLOT"
 name_en: "Mathieu BABILLOT"
 position: "FL/NO8"
 team: "カストル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Français"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2002
 has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [カストル](/teams/top14/castres) (2002 - )

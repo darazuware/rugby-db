@@ -1,5 +1,5 @@
 ---
-title: "ウィル・ローランズ"
+title: "Will ROWLANDS"
 name_en: "Will ROWLANDS"
 position: "LO"
 team: "ラシン92"
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/wrowlands45/"
-twitter: "https://x.com/wrowlands45"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Wasps (2015 - 2021)

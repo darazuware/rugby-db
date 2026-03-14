@@ -1,7 +1,7 @@
 ---
 title: "チャーリー・ギャンブル"
 name_en: "Charlie GAMBLE"
-position: "Back row"
+position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"
 height: "185"
 weight: "107"
@@ -16,7 +16,7 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2021
+joined_year: 2020
 has_scores: false
 instagram: ""
 twitter: ""
@@ -24,8 +24,5 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
-- Northern Suburbs RFC (2020)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021)
-- Northern Suburbs RFC (2021)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - )
+- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2026)
+- Northern Suburbs RFC (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "ジュディカエル・カンコリエ"
+title: "Judicaël CANCORIET"
 name_en: "Judicaël CANCORIET"
 position: "FL/NO8"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "Française"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/judicael_cancoriet"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - AAS Sarcelles Rugby (2005 - 2011)

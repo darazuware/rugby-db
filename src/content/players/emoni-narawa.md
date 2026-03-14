@@ -1,7 +1,7 @@
 ---
 title: "エモニ-ナラワ"
 name_en: "Emoni NARAWA"
-position: "Winger"
+position: "WTB"
 team: "ワイカト・チーフス"
 height: "184"
 weight: "98"
@@ -16,32 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "super-rugby"
-joined_year: 2025
+joined_year: 2021
 has_scores: false
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- Bay of Plenty Steamers (2018 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- Bay of Plenty Steamers (2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- Bay of Plenty Steamers (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- Bay of Plenty Steamers (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- Bay of Plenty Steamers (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- Bay of Plenty Steamers (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- Bay of Plenty Steamers (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2023)
-- Bay of Plenty Steamers (2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024)
-- Bay of Plenty Steamers (2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025)
-- Bay of Plenty Steamers (2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- ベイ・オブ・プレンティ (2018 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2021)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - )

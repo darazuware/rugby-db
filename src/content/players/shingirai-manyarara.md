@@ -1,5 +1,5 @@
 ---
-title: "シンジ・マニャララ"
+title: "Shingi MANYARARA"
 name_en: "Shingi MANYARARA"
 position: "FL/NO8"
 team: "ラシン92"

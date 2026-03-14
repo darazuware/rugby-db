@@ -1,5 +1,5 @@
 ---
-title: "ロイク・クレド"
+title: "Loïc CRÉDOZ"
 name_en: "Loïc CRÉDOZ"
 position: "FL/NO8"
 team: "ポー"

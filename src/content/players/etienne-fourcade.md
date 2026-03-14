@@ -1,5 +1,5 @@
 ---
-title: "エティエンヌ・フルカード"
+title: "Etienne FOURCADE"
 name_en: "Etienne FOURCADE"
 position: "HO"
 team: "クレルモン"

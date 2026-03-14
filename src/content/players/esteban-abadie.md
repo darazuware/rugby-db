@@ -1,5 +1,5 @@
 ---
-title: "エステバン-アバティ"
+title: "Esteban ABADIE"
 name_en: "Esteban ABADIE"
 position: "FL/NO8"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2009 - 2019)

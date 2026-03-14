@@ -1,5 +1,5 @@
 ---
-title: "エティエンヌ-ファルグ"
+title: "Etienne FALGOUX"
 name_en: "Etienne FALGOUX"
 position: "PR"
 team: "クレルモン"

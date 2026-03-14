@@ -1,5 +1,5 @@
 ---
-title: "サマ・マロロ"
+title: "Sama MALOLO"
 name_en: "Sama MALOLO"
 position: "HO"
 team: "ペルピニャン"
@@ -12,29 +12,21 @@ university: ""
 caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
-nationality: "Zealander"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2017 - 2018)
-- Southern Districts (2018 - 2019)
-- Utah Warriors (2019)
-- Southern Districts (2019)
-- Utah Warriors (2020)
-- Southern Districts (2020)
-- Utah Warriors (2020 - 2021)
-- Southern Districts (2021 - 2022)
+- Southern Districts (2018 - 2022)
+- Utah Warriors (2019 - 2021)
 - San Diego Legion (2022 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - 2025)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
+- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2025)
 - 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )

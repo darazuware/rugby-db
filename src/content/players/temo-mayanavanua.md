@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Northland Taniwha (2017 - 2020)
+- ノースランド (2017 - 2020)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2020 - 2023)
-- Northampton Saints (2023 - 2025)
+- ノーサンプトン・セインツ (2023 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "サレシ・ラヤシ"
+title: "Salesi RAYASI"
 name_en: "Salesi RAYASI"
 position: "WTB"
 team: "ボルドー・ベグル"
@@ -23,25 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2019)
-- All Blacks 7's (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019)
-- All Blacks 7's (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2024)
+- All Blacks 7's (2019 - 2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2023)
 - 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

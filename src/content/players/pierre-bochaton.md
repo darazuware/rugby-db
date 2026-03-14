@@ -1,5 +1,5 @@
 ---
-title: "ピエール・ボシャトン"
+title: "Pierre BOCHATON"
 name_en: "Pierre BOCHATON"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

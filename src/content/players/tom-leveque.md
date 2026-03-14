@@ -1,5 +1,5 @@
 ---
-title: "トム・レヴェック"
+title: "Tom LÉVÊQUE"
 name_en: "Tom LÉVÊQUE"
 position: "WTB"
 team: "バイヨンヌ"

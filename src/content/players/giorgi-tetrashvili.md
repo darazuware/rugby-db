@@ -1,5 +1,5 @@
 ---
-title: "ギオルギ-テトラシュヴィリ"
+title: "Giorgi TETRASHVILI"
 name_en: "Giorgi TETRASHVILI"
 position: "PR"
 team: "ペルピニャン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: "Georgian"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Sporting Club Albigeois (2012 - 2014)

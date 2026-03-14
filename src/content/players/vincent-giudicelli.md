@@ -1,5 +1,5 @@
 ---
-title: "ヴァンサン・ジュディチェリ"
+title: "Vincent GIUDICELLI"
 name_en: "Vincent GIUDICELLI"
 position: "HO"
 team: "バイヨンヌ"
@@ -23,7 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2016)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2023)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - 2017)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

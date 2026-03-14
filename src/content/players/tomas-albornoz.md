@@ -1,5 +1,5 @@
 ---
-title: "トマス・アルボルノス"
+title: "Tomás ALBORNOZ"
 name_en: "Tomás ALBORNOZ"
 position: "SO"
 team: "トゥーロン"
@@ -12,21 +12,19 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: "Argentine"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2026
+joined_year: 2025
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Tucumán Rugby Club (2015 - 2019)
 - Jaguares (2019 - 2020)
 - Jaguares XV (2020 - 2021)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2021 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2026 - )
+- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2021 - 2026)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )

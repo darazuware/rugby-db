@@ -1,5 +1,5 @@
 ---
-title: "アレックス・ムーン"
+title: "Alex MOON"
 name_en: "Alex MOON"
 position: "LO"
 team: "バイヨンヌ"

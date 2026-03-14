@@ -1,7 +1,7 @@
 ---
 title: "トリアン・バーンズ"
 name_en: "Torian BARNES"
-position: "Back row"
+position: "FL/No8"
 team: "オークランド・ブルーズ"
 height: ""
 weight: ""

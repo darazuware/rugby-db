@@ -1,26 +1,26 @@
 ---
-title: "フアン・バウティスタ・ペデモンテ"
+title: "Juan Bautista PEDEMONTE"
 name_en: "Juan Bautista PEDEMONTE"
 position: "FL/NO8"
 team: "ヴァンヌ"
 height: "189"
 weight: "107"
 birth_date: "2000.03.14"
-age: 25
+age: 26
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: "Argentine"
-nationality: "Argentine"
+country: ""
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Santiago Lawn Tennis Club (2018 - 2019)

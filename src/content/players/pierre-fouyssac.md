@@ -1,5 +1,5 @@
 ---
-title: "ピエール・フイサック"
+title: "Pierre FOUYSSAC"
 name_en: "Pierre FOUYSSAC"
 position: "CTB"
 team: "クレルモン"

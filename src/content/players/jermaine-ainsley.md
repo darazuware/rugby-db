@@ -1,5 +1,5 @@
 ---
-title: "ジャーメイン・エインズリー"
+title: "Jermaine AINSLEY"
 name_en: "Jermaine AINSLEY"
 position: "PR"
 team: "リヨン"
@@ -12,15 +12,15 @@ university: ""
 caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
-nationality: "Poids"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)

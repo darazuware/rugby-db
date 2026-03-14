@@ -1,7 +1,7 @@
 ---
 title: "レオ・ジャック"
 name_en: "Leo JAQUES"
-position: "Winger"
+position: "WTB"
 team: "NSWワラタス（ワラターズ）"
 height: "192"
 weight: "97"

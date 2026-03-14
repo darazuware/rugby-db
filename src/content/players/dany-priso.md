@@ -1,5 +1,5 @@
 ---
-title: "ダニー-プリゾ"
+title: "Dany PRISO"
 name_en: "Dany PRISO"
 position: "PR"
 team: "トゥーロン"
@@ -12,15 +12,15 @@ university: ""
 caps: "Cameroon"
 league_one_caps: "0"
 country: "Cameroon"
-nationality: "France"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - Ussel (2009 - 2012)

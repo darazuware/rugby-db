@@ -71,7 +71,7 @@ def deduplicate_and_analyze(csv_path):
     return missing_players
 
 if __name__ == "__main__":
-    csv_path = "data_sources/final_master_data_v17_consolidated.csv"
+    csv_path = "data_sources/final_master_data_v25.csv"
     missing = deduplicate_and_analyze(csv_path)
     
     output_report = "/Users/ktamatzmoto/.gemini/antigravity/brain/0a4cb5ef-2a47-4d0d-afe7-2dd511f55541/final_missing_list.json"

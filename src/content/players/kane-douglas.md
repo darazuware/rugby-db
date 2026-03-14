@@ -1,5 +1,5 @@
 ---
-title: "ケイン・ダグラス"
+title: "Kane DOUGLAS"
 name_en: "Kane DOUGLAS"
 position: "LO"
 team: "ラ・ロシェル"
@@ -12,15 +12,15 @@ university: ""
 caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
-nationality: "Australienne"
+nationality: ""
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: "https://www.instagram.com/kanedoug"
-twitter: "https://www.twitter.com/_kanedoug"
-facebook: "https://www.facebook.com/staderochelais"
+instagram: ""
+twitter: ""
+facebook: ""
 ---
 
 - 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2009 - 2014)
