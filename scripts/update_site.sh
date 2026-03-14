@@ -6,7 +6,13 @@
 
 echo "--- RUGBY PICKS データの再生成を開始します ---"
 
-# 1. 順位情報の更新 (all.rugby から最新取得)
+# 1. 試合結果の更新
+echo "最新の試合結果を取得中..."
+python3 scripts/scrape_leagueone_results.py
+python3 scripts/scrape_sr_results.py
+python3 scripts/scrape_top14_results.py
+
+# 2. 順位情報の更新 (all.rugby から最新取得)
 echo "最新の順位情報を取得中..."
 python3 scripts/scrape_standings.py
 

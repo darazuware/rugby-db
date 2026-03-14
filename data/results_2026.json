@@ -666,7 +666,7 @@
       "round": 11,
       "home": "クボタスピアーズ船橋・東京ベイ",
       "away": "埼玉パナソニックワイルドナイツ",
-      "score": "VS",
+      "score": "30-32",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29317"
@@ -677,7 +677,7 @@
       "round": 11,
       "home": "三重ホンダヒート",
       "away": "横浜キヤノンイーグルス",
-      "score": "VS",
+      "score": "26-31",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29315"
@@ -688,7 +688,7 @@
       "round": 11,
       "home": "ブラックラムズ東京",
       "away": "静岡ブルーレヴズ",
-      "score": "VS",
+      "score": "37-33",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29316"
@@ -699,7 +699,7 @@
       "round": 11,
       "home": "コベルコ神戸スティーラーズ",
       "away": "三菱重工相模原ダイナボアーズ",
-      "score": "VS",
+      "score": "61-10",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29318"
@@ -1557,7 +1557,7 @@
       "round": 8,
       "home": "九州電力キューデンヴォルテクス",
       "away": "花園近鉄ライナーズ",
-      "score": "VS",
+      "score": "48-50",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29392"
@@ -1568,7 +1568,7 @@
       "round": 8,
       "home": "清水建設江東ブルーシャークス",
       "away": "豊田自動織機シャトルズ愛知",
-      "score": "VS",
+      "score": "26-34",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29393"
@@ -2550,7 +2550,7 @@
       "date": "2026-03-13",
       "home": "ウェリントン・ハリケーンズ",
       "away": "ウェスタン・フォース",
-      "score": "VS",
+      "score": "31-23",
       "home_flag": "🇳🇿",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949228"
@@ -2560,7 +2560,7 @@
       "date": "2026-03-14",
       "home": "フィジアン・ドゥルア",
       "away": "ACTブランビーズ",
-      "score": "VS",
+      "score": "42-27",
       "home_flag": "🇫🇯",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949229"
@@ -2570,7 +2570,7 @@
       "date": "2026-03-14",
       "home": "カンタベリー・クルセイダーズ",
       "away": "オタゴ・ハイランダーズ",
-      "score": "VS",
+      "score": "29-18",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949230"
@@ -2580,7 +2580,7 @@
       "date": "2026-03-14",
       "home": "クイーンズランド・レッズ",
       "away": "NSWワラタス（ワラターズ）",
-      "score": "VS",
+      "score": "26-17",
       "home_flag": "🇦🇺",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949231"
