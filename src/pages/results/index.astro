@@ -480,15 +480,18 @@ const getLeagueResults = (league: any) => {
         activeLeague = league;
         console.log('Update Filter:', activeLeague);
 
-        const targetLeague = activeLeague === 'all' ? 'league-one-d1' : activeLeague;
+        const targetLeague = (activeLeague === 'all' || activeLeague === 'league-one') ? 'league-one-d1' : activeLeague;
         const baseLeague = targetLeague.startsWith('league-one') ? 'league-one' : targetLeague;
         const config = leagueColors[targetLeague] || leagueColors['all'];
 
         // 1. 各セクションの表示切り替え
         const sections = document.querySelectorAll('.league-section');
         sections.forEach(section => {
-            const sid = section.getAttribute('data-league');
-            (section as HTMLElement).style.display = (activeLeague === 'all' || sid === activeLeague) ? 'block' : 'none';
+            const sid = section.getAttribute('data-league') || '';
+            const isMatch = activeLeague === 'all' || 
+                            sid === activeLeague || 
+                            (activeLeague === 'league-one' && sid.startsWith('league-one-'));
+            (section as HTMLElement).style.display = isMatch ? 'block' : 'none';
         });
 
         // 2. メインフィルターボタンの更新
