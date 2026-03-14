@@ -6,7 +6,7 @@ team: "東京サントリーサンゴリアス"
 height: "171"
 weight: "80"
 birth_date: "2001.03.15"
-age: 24
+age: 25
 high_school: "大阪桐蔭高校"
 university: "帝京大学"
 caps: "U23('20)"

@@ -6,7 +6,7 @@ team: "リヨン"
 height: "196"
 weight: "106"
 birth_date: "1994.03.15"
-age: 31
+age: 32
 high_school: ""
 university: ""
 caps: "France"

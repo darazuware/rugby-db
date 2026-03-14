@@ -6,7 +6,7 @@ team: "ラシン92"
 height: "173"
 weight: "75"
 birth_date: "2001.03.15"
-age: 24
+age: 25
 high_school: ""
 university: ""
 caps: ""

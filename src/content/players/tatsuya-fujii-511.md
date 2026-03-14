@@ -6,7 +6,7 @@ team: "NECグリーンロケッツ東葛"
 height: "164"
 weight: "65"
 birth_date: "2000.03.15"
-age: 25
+age: 26
 high_school: "東海大福岡高校"
 university: "ジョンマクガラシャン大大学"
 caps: "高校('22)"

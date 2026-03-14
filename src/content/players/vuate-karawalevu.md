@@ -6,7 +6,7 @@ team: "カストル"
 height: "193"
 weight: "104"
 birth_date: "2001.03.15"
-age: 24
+age: 25
 high_school: ""
 university: ""
 caps: ""

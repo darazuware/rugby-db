@@ -510,6 +510,19 @@
       },
       {
         "rank": "2",
+        "team_name": "DHL Stormers",
+        "display_name": "DHLストーマーズ",
+        "flag": "🇿🇦",
+        "slug": "stormers",
+        "played": "12",
+        "won": "9",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "112",
+        "points": "41"
+      },
+      {
+        "rank": "3",
         "team_name": "Ulster Rugby",
         "display_name": "アルスター・ラグビー",
         "flag": "🇮🇪",
@@ -522,7 +535,7 @@
         "points": "41"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "team_name": "Leinster Rugby",
         "display_name": "レンスター・ラグビー",
         "flag": "🇮🇪",
@@ -535,7 +548,7 @@
         "points": "41"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "team_name": "Cardiff Rugby",
         "display_name": "カーディフ・ラグビー",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -548,7 +561,7 @@
         "points": "40"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "Munster Rugby",
         "display_name": "マンスター・ラグビー",
         "flag": "🇮🇪",
@@ -559,19 +572,6 @@
         "lost": "4",
         "diff": "23",
         "points": "39"
-      },
-      {
-        "rank": "6",
-        "team_name": "DHL Stormers",
-        "display_name": "DHLストーマーズ",
-        "flag": "🇿🇦",
-        "slug": "stormers",
-        "played": "11",
-        "won": "8",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "99",
-        "points": "36"
       },
       {
         "rank": "7",
@@ -592,11 +592,11 @@
         "display_name": "ヴォーダコム・ブルズ",
         "flag": "🇿🇦",
         "slug": "bulls",
-        "played": "11",
+        "played": "12",
         "won": "6",
         "drawn": "0",
-        "lost": "5",
-        "diff": "34",
+        "lost": "6",
+        "diff": "21",
         "points": "30"
       },
       {
@@ -758,10 +758,23 @@
       },
       {
         "rank": "4",
+        "team_name": "Queensland Reds",
+        "display_name": "クイーンズランド・レッズ",
+        "flag": "🇦🇺",
+        "slug": "4",
+        "played": "4",
+        "won": "3",
+        "drawn": "0",
+        "lost": "1",
+        "diff": "5",
+        "points": "13"
+      },
+      {
+        "rank": "5",
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
-        "slug": "4",
+        "slug": "5",
         "played": "4",
         "won": "2",
         "drawn": "0",
@@ -770,30 +783,17 @@
         "points": "10"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "NSW Waratahs",
         "display_name": "NSWワラタス（ワラターズ）",
         "flag": "🇦🇺",
-        "slug": "5",
-        "played": "3",
-        "won": "2",
-        "drawn": "0",
-        "lost": "1",
-        "diff": "7",
-        "points": "10"
-      },
-      {
-        "rank": "6",
-        "team_name": "Queensland Reds",
-        "display_name": "クイーンズランド・レッズ",
-        "flag": "🇦🇺",
         "slug": "6",
-        "played": "3",
+        "played": "4",
         "won": "2",
         "drawn": "0",
-        "lost": "1",
-        "diff": "-4",
-        "points": "9"
+        "lost": "2",
+        "diff": "-2",
+        "points": "10"
       },
       {
         "rank": "7",
@@ -801,38 +801,38 @@
         "display_name": "オタゴ・ハイランダーズ",
         "flag": "🇳🇿",
         "slug": "7",
-        "played": "4",
+        "played": "5",
         "won": "2",
         "drawn": "0",
-        "lost": "2",
-        "diff": "-10",
+        "lost": "3",
+        "diff": "-21",
         "points": "9"
       },
       {
         "rank": "8",
+        "team_name": "Crusaders",
+        "display_name": "カンタベリー・クルセイダーズ",
+        "flag": "🇳🇿",
+        "slug": "8",
+        "played": "5",
+        "won": "2",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "-23",
+        "points": "9"
+      },
+      {
+        "rank": "9",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
-        "slug": "8",
+        "slug": "9",
         "played": "4",
         "won": "2",
         "drawn": "0",
         "lost": "2",
         "diff": "-17",
         "points": "8"
-      },
-      {
-        "rank": "9",
-        "team_name": "Crusaders",
-        "display_name": "カンタベリー・クルセイダーズ",
-        "flag": "🇳🇿",
-        "slug": "9",
-        "played": "4",
-        "won": "1",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "-34",
-        "points": "5"
       },
       {
         "rank": "10",
