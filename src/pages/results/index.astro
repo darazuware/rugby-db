@@ -152,9 +152,12 @@ const groupByRound = (leagueId: string, results: any[]) => {
 
 const getLeagueResults = (league: any) => {
     let results = [];
+    // Astro/Vite の JSON インポートの差異を吸収
+    const data = (resultsData as any).default || resultsData;
+    
     if (league.parentId === "league-one") {
         const targetDiv = (league.division || "").toUpperCase().trim(); // "D1", "D2", "D3"
-        results = (resultsData as any)["league-one"]?.filter((r: any) => {
+        results = (data as any)["league-one"]?.filter((r: any) => {
             const rDiv = (r.division || "").toUpperCase().trim();
             return rDiv === targetDiv || 
                    rDiv === `DIVISION ${targetDiv.replace('D', '')}` ||
@@ -162,16 +165,17 @@ const getLeagueResults = (league: any) => {
                    rDiv.includes(targetDiv) || targetDiv.includes(rDiv);
         }) || [];
     } else {
-        results = (resultsData as any)[league.id] || [];
+        results = (data as any)[league.id] || [];
     }
     return groupByRound(league.id, results);
 };
+const initialLeague = Astro.url.searchParams.get('league') || 'league-one-d1';
 ---
 
 <Layout 
     title="試合結果・戦績一覧 | RUGBY PICKS"
     sidebarType="results"
-    activeLeague="league-one-d1"
+    activeLeague={initialLeague}
 >
     <main class="pb-20">
         <header class="mb-12">
@@ -655,8 +659,12 @@ const getLeagueResults = (league: any) => {
     // 初期化
     window.addEventListener('DOMContentLoaded', () => {
         const urlParams = new URLSearchParams(window.location.search);
-        const league = urlParams.get('league') || 'league-one-d1';
-        updateFilter(league);
+        const leagueFromUrl = urlParams.get('league');
+        const defaultLeague = 'league-one-d1';
+        
+        // URLパラメータがあればそれを優先、なければ D1
+        const initialLeague = leagueFromUrl || defaultLeague;
+        updateFilter(initialLeague);
     });
 
     // モバイルナビのスクロール監視
