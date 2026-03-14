@@ -2,8 +2,8 @@ name: Update Rugby Data
 
 on:
   schedule:
-    # JST 16:00, 19:00, 22:00 on Sat/Sun
-    - cron: '0 7,10,13 * * 6,0'
+    # JST 14:30, 17:30, 21:30 on Sat/Sun (UTC 05:30, 08:30, 12:30)
+    - cron: '30 5,8,12 * * 6,0'
     # JST 09:00 on Monday (Weekly Cleanup)
     - cron: '0 0 * * 1'
   workflow_dispatch: # 手動実行用
