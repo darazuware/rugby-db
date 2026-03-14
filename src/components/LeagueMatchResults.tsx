@@ -32,14 +32,26 @@ const LeagueMatchResults: React.FC<Props> = ({ matches, leagueId }) => {
   // 2. フィルタリングと制限ロジック
   const { displayGroups, currentMode } = useMemo(() => {
     // 全試合をラウンドごとに分割
-    // ゴミデータ等を除外するフィルタ（VSも含めるように変更）
+    // ゴミデータ等を除外するフィルタ
     const filteredMatches = matches.filter(m => m.score);
 
+    // 「最新の節」を、少なくとも1試合が消化済み（VS以外）である最大のラウンドと定義する
+    const latestActiveRound = Math.max(
+      ...matches
+        .filter(m => m.score && !m.score.includes('VS'))
+        .map(m => m.round || 0),
+      0
+    );
+
+    // 表示用のグループ分け（最新アクティブ節以下の試合のみを対象にする）
     const groups: Record<number, Match[]> = {};
     filteredMatches.forEach(m => {
       const r = m.round || 0;
-      if (!groups[r]) groups[r] = [];
-      groups[r].push(m);
+      // 未来の節（実績が全くない節）は除外
+      if (r > 0 && r <= latestActiveRound) {
+        if (!groups[r]) groups[r] = [];
+        groups[r].push(m);
+      }
     });
 
     const sortedRounds = Object.keys(groups).map(Number).sort((a, b) => b - a);

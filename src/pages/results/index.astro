@@ -75,6 +75,14 @@ const groupByRound = (leagueId: string, results: any[]) => {
         return !garbage.some(g => home.includes(g) || away.includes(g));
     });
 
+    // 0.2 最新のアクティブな節を特定（実績ベース）
+    const latestActiveRound = Math.max(
+        ...results
+            .filter(r => r.score && !r.score.includes('VS'))
+            .map(r => parseInt(r.round) || 0),
+        0
+    );
+
     // 1. データの正規化と初期収集
     const allEnhancedResults = filteredResults.map(r => {
         const normHome = normalizeTeam(leagueId, r.home);
@@ -126,21 +134,15 @@ const groupByRound = (leagueId: string, results: any[]) => {
         }
     });
 
-    // 3. Round ごとのグループ化 (本日(JST)より後の試合は除外)
+    // 3. Round ごとのグループ化（最新アクティブ節以下の試合のみ）
     const groups: { [key: number]: any[] } = {};
     
-    // 日本時間(JST)での「今日」を取得
-    const jstToday = new Intl.DateTimeFormat('en-CA', { 
-        timeZone: 'Asia/Tokyo', 
-        year: 'numeric', 
-        month: '2-digit', 
-        day: '2-digit' 
-    }).format(new Date());
-
     uniqueMatches.forEach(m => {
         const round = m.round;
-        if (!groups[round]) groups[round] = [];
-        groups[round].push(m);
+        if (round > 0 && round <= latestActiveRound) {
+            if (!groups[round]) groups[round] = [];
+            groups[round].push(m);
+        }
     });
 
     return Object.keys(groups)
