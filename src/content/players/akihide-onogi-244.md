@@ -1,5 +1,5 @@
 ---
-title: "Akihide Onogi"
+title: "小野木 晃英"
 name_en: "Akihide Onogi"
 position: "CTB"
 team: "花園近鉄ライナーズ"

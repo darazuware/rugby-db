@@ -1,5 +1,5 @@
 ---
-title: "Kota Nakamura"
+title: "中村 匡汰"
 name_en: "Kota Nakamura"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

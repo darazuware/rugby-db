@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Soisy Andilly Margency (2012 - 2013)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - 2026)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2018 - )
+- Rugby Club Vannes (2018 - )

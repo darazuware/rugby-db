@@ -1,5 +1,5 @@
 ---
-title: "Ryutaro Nakayama"
+title: "中山 竜太朗"
 name_en: "Ryutaro Nakayama"
 position: "FL/No8"
 team: "三重ホンダヒート"

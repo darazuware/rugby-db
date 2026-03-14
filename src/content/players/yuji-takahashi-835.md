@@ -1,5 +1,5 @@
 ---
-title: "Yuji Takahashi"
+title: "高橋 裕司"
 name_en: "Yuji Takahashi"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

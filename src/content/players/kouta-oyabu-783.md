@@ -1,5 +1,5 @@
 ---
-title: "Kouta Oyabu"
+title: "大籔 洸太"
 name_en: "Kouta Oyabu"
 position: "WTB"
 team: "トヨタヴェルブリッツ"

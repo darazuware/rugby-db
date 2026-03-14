@@ -1,5 +1,5 @@
 ---
-title: "Isileli Nakajima"
+title: "中島 イシレリ"
 name_en: "Isileli Nakajima"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

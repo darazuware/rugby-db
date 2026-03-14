@@ -1,5 +1,5 @@
 ---
-title: "Soshi Oga"
+title: "大賀 宗志"
 name_en: "Soshi Oga"
 position: "PR"
 team: "東京サントリーサンゴリアス"

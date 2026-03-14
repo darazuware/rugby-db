@@ -1,5 +1,5 @@
 ---
-title: "Samisoni Asaeli"
+title: "サミソニ ・アサエリ"
 name_en: "Samisoni Asaeli"
 position: "HO"
 team: "浦安D-Rocks"

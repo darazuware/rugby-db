@@ -25,5 +25,5 @@ facebook: ""
 
 - Stade Nantais (2004 - 2013)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2020)
-- 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Section Paloise Béarn Pyrénées (2020 - 2025)
+- Rugby Club Vannes (2025 - )

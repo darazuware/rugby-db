@@ -1,5 +1,5 @@
 ---
-title: "Jackson Hemopo"
+title: "ジャクソン ・ヘモポ"
 name_en: "Jackson Hemopo"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
+- ハイランダーズ (2014 - 2019)
 - マナワツ (2018 - 2019)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2019 - )

@@ -1,5 +1,5 @@
 ---
-title: "Rui Kuriyama"
+title: "栗山 塁"
 name_en: "Rui Kuriyama"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

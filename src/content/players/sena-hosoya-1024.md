@@ -1,5 +1,5 @@
 ---
-title: "Sena Hosoya"
+title: "細矢 聖樹"
 name_en: "Sena Hosoya"
 position: "SH"
 team: "静岡ブルーレヴズ"

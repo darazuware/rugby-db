@@ -1,5 +1,5 @@
 ---
-title: "Musashi Matsuda"
+title: "松田 武蔵"
 name_en: "Musashi Matsuda"
 position: "WTB"
 team: "狭山セコムラガッツ"

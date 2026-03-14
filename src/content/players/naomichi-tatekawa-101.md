@@ -1,5 +1,5 @@
 ---
-title: "Naomichi Tatekawa"
+title: "立川 直道"
 name_en: "Naomichi Tatekawa"
 position: "HO"
 team: "清水建設江東ブルーシャークス"

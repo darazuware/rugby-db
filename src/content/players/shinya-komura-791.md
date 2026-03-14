@@ -1,5 +1,5 @@
 ---
-title: "Shinya Komura"
+title: "小村 真也"
 name_en: "Shinya Komura"
 position: "UTB"
 team: "トヨタヴェルブリッツ"

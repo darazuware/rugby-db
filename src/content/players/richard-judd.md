@@ -25,7 +25,7 @@ facebook: ""
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2024)
 - Bay of Plenty Steamers (2018 - 2025)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2021)
-- 🇿🇦 エミレーツ・ライオンズ (2020 - 2022)
+- Tokyo Sungoliath (2019 - 2021)
+- Wellington Lions (2020 - 2022)
 - San Diego Legion (2022 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Rugby Club Vannes (2025 - )

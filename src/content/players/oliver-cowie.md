@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Club du Golfe (2013 - 2020)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - )
+- Rugby Club Toulonnais (2020 - )

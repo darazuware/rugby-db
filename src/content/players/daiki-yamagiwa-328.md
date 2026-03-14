@@ -1,5 +1,5 @@
 ---
-title: "Daiki Yamagiwa"
+title: "山極 大貴"
 name_en: "Daiki Yamagiwa"
 position: "LO"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2020 - 2025)
+- Green Rockets Tokatsu (2020 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Sora Ouchi"
+title: "大内 空"
 name_en: "Sora Ouchi"
 position: "WTB"
 team: "日野レッドドルフィンズ"

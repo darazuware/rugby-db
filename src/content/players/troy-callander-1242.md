@@ -1,5 +1,5 @@
 ---
-title: "Troy Callander"
+title: "トロイ ・カレンダー"
 name_en: "Troy Callander"
 position: "LO"
 team: "狭山セコムラガッツ"

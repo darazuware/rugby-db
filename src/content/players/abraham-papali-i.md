@@ -27,7 +27,7 @@ facebook: ""
 - Sydney Roosters (2014 - 2016)
 - FC Lézignan XIII (2016 - 2017)
 - Bay of Plenty Steamers (2018 - 2019)
-- 🇿🇦 エミレーツ・ライオンズ (2019 - 2020)
+- China Lions (2019 - 2020)
 - 🇮🇪 コナート・ラグビー (2019 - 2022)
 - CA Brive Corrèze Limousin (2022 - 2023)
 - 🇫🇷 [カストル](/teams/top14/castres) (2023 - )

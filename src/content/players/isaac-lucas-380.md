@@ -1,5 +1,5 @@
 ---
-title: "Isaac Lucas"
+title: "アイザック ・ルーカス"
 name_en: "Isaac Lucas"
 position: "FB"
 team: "リコーブラックラムズ東京"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2020)
+- レッズ (2018 - 2020)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2020 - )

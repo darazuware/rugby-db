@@ -1,5 +1,5 @@
 ---
-title: "Ren Iinuma"
+title: "飯沼 蓮"
 name_en: "Ren Iinuma"
 position: "SH"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Shoma Makinouchi"
+title: "牧野内 翔馬"
 name_en: "Shoma Makinouchi"
 position: "LO"
 team: "花園近鉄ライナーズ"

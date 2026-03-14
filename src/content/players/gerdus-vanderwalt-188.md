@@ -1,5 +1,5 @@
 ---
-title: "Gerdus Vanderwalt"
+title: "ヘルダス ・ファンデルヴォルト"
 name_en: "Gerdus Vanderwalt"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

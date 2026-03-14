@@ -1,5 +1,5 @@
 ---
-title: "Kanato Hirano"
+title: "平野 叶翔"
 name_en: "Kanato Hirano"
 position: "PR"
 team: "三重ホンダヒート"

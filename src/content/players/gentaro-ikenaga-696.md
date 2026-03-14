@@ -1,5 +1,5 @@
 ---
-title: "Gentaro Ikenaga"
+title: "池永 玄太郎"
 name_en: "Gentaro Ikenaga"
 position: "CTB"
 team: "東芝ブレイブルーパス東京"

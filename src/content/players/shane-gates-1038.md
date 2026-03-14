@@ -1,5 +1,5 @@
 ---
-title: "Shane Gates"
+title: "シェーン ・ゲイツ"
 name_en: "Shane Gates"
 position: "CTB"
 team: "浦安D-Rocks"

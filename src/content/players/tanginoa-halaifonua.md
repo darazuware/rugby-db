@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2015 - 2020)
+- Lyon Olympique Universitaire Rugby (2015 - 2020)
 - Rugby Club Massy Essonne (2018 - 2019)
 - FC Grenoble Rugby (2020 - 2023)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Stade Français Paris Rugby (2023 - )

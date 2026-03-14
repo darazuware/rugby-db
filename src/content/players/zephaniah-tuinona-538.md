@@ -1,5 +1,5 @@
 ---
-title: "Zephaniah Tuinona"
+title: "ゼファニア ・トゥイノナ"
 name_en: "Zephaniah Tuinona"
 position: "LO"
 team: "浦安D-Rocks"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2021 - 2024)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - )
+- 浦安D (2024 - )

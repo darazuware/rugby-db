@@ -1,5 +1,5 @@
 ---
-title: "Manu Akauora"
+title: "マヌ ・アカウオラ"
 name_en: "Manu Akauora"
 position: "WTB"
 team: "三重ホンダヒート"

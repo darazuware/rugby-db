@@ -1,5 +1,5 @@
 ---
-title: "Naoki Takaya"
+title: "高"
 name_en: "Naoki Takaya"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"

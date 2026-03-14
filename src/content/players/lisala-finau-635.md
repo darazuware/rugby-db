@@ -1,5 +1,5 @@
 ---
-title: "Lisala Finau"
+title: "リサラ ・フィナウ"
 name_en: "Lisala Finau"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

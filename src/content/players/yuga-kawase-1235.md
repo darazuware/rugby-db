@@ -1,5 +1,5 @@
 ---
-title: "Yuga Kawase"
+title: "川瀬 悠河"
 name_en: "Yuga Kawase"
 position: "LO"
 team: "狭山セコムラガッツ"

@@ -25,8 +25,8 @@ facebook: ""
 
 - Perth Spirit (2016 - 2017)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2020)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2021)
+- レッズ (2020 - 2021)
 - San Diego Legion (2021 - 2023)
 - ノース・ハーバー (2022 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- ハリケーンズ (2023 - 2024)
+- ワラターズ (2024 - )

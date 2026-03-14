@@ -1,5 +1,5 @@
 ---
-title: "Taisei Fukuda"
+title: "福田 大晟"
 name_en: "Taisei Fukuda"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

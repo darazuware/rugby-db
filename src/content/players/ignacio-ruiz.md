@@ -26,4 +26,4 @@ facebook: ""
 - Jaguares XV (2020 - 2022)
 - Club Regatas de Bella Vista (2021 - 2022)
 - London Irish (2022 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Union Sportive Arlequins Perpignanais (2023 - )

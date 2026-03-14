@@ -1,5 +1,5 @@
 ---
-title: "Atomu Shirai"
+title: "白井 吾士矛"
 name_en: "Atomu Shirai"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

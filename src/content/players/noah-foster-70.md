@@ -1,5 +1,5 @@
 ---
-title: "Noah Foster"
+title: "ノア ・フォスター"
 name_en: "Noah Foster"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"

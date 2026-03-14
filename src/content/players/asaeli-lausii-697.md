@@ -1,5 +1,5 @@
 ---
-title: "Asaeli Lausii"
+title: "アサエリ ・ラウシー"
 name_en: "Asaeli Lausii"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

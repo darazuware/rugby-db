@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Old Glory DC RFC (2018 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- Stade Français Paris Rugby (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kanta Matsunaga"
+title: "松永 貫汰"
 name_en: "Kanta Matsunaga"
 position: "FB"
 team: "コベルコ神戸スティーラーズ"

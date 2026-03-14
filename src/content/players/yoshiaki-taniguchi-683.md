@@ -1,5 +1,5 @@
 ---
-title: "Yoshiaki Taniguchi"
+title: "谷口 宜顕"
 name_en: "Yoshiaki Taniguchi"
 position: "FB"
 team: "埼玉パナソニックワイルドナイツ"

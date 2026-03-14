@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Ito"
+title: "伊藤 峻祐"
 name_en: "Shunsuke Ito"
 position: "CTB"
 team: "静岡ブルーレヴズ"

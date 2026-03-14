@@ -1,5 +1,5 @@
 ---
-title: "Makoto Kurata"
+title: "倉田 真"
 name_en: "Makoto Kurata"
 position: "PR"
 team: "狭山セコムラガッツ"

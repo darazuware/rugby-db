@@ -1,5 +1,5 @@
 ---
-title: "Yoshitaka Tokunaga"
+title: "徳永 祥尭"
 name_en: "Yoshitaka Tokunaga"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"

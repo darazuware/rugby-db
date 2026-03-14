@@ -1,5 +1,5 @@
 ---
-title: "Daniel Waite"
+title: "ダニエル ・ウェイト"
 name_en: "Daniel Waite"
 position: "SO"
 team: "狭山セコムラガッツ"

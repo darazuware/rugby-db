@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Queensland Country (2018 - 2019)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2026)
+- レッズ (2019 - 2026)
 - 🇦🇺 メルボルン・レベルズ (2020 - 2024)
 - Gold Coast Titans (2024 - )

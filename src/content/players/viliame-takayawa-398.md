@@ -1,5 +1,5 @@
 ---
-title: "Viliame Takayawa"
+title: "ヴィリアメ ・タカヤワ"
 name_en: "Viliame Takayawa"
 position: "CTB"
 team: "横浜キヤノンイーグルス"

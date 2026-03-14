@@ -1,5 +1,5 @@
 ---
-title: "Ken Nakashima"
+title: "中島 謙"
 name_en: "Ken Nakashima"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"

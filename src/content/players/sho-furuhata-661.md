@@ -1,5 +1,5 @@
 ---
-title: "Sho Furuhata"
+title: "古畑 翔"
 name_en: "Sho Furuhata"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

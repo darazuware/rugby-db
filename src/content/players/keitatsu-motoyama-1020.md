@@ -1,5 +1,5 @@
 ---
-title: "Keitatsu Motoyama"
+title: "本山 佳龍"
 name_en: "Keitatsu Motoyama"
 position: "PR"
 team: "静岡ブルーレヴズ"

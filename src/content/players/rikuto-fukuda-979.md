@@ -1,5 +1,5 @@
 ---
-title: "Rikuto Fukuda"
+title: "福田 陸人"
 name_en: "Rikuto Fukuda"
 position: "HO"
 team: "クボタスピアーズ船橋・東京ベイ"

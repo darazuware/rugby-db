@@ -25,4 +25,4 @@ facebook: ""
 
 - Kia Toa (2023 - 2024)
 - Northampton Saints (2024 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- Stade Français Paris Rugby (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Yuragi Muto"
+title: "武藤 ゆらぎ"
 name_en: "Yuragi Muto"
 position: "SO"
 team: "横浜キヤノンイーグルス"

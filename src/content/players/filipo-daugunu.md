@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2026)
+- レッズ (2017 - 2026)
 - 🇦🇺 メルボルン・レベルズ (2023 - )

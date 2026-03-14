@@ -1,5 +1,5 @@
 ---
-title: "Yongchol Kim"
+title: "金 勇哲"
 name_en: "Yongchol Kim"
 position: "HO"
 team: "清水建設江東ブルーシャークス"

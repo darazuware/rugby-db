@@ -25,4 +25,4 @@ facebook: ""
 
 - SO Voiron (2007 - 2015)
 - FC Grenoble Rugby (2015 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

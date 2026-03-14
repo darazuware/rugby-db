@@ -1,5 +1,5 @@
 ---
-title: "Keito Aoki"
+title: "青木 恵斗"
 name_en: "Keito Aoki"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

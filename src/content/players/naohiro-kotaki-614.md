@@ -1,5 +1,5 @@
 ---
-title: "Naohiro Kotaki"
+title: "小瀧 尚弘"
 name_en: "Naohiro Kotaki"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"

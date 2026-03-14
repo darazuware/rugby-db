@@ -1,5 +1,5 @@
 ---
-title: "Orion Schmok"
+title: "シュモック オライオン"
 name_en: "Orion Schmok"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

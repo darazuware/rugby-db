@@ -1,5 +1,5 @@
 ---
-title: "Takara Imamura"
+title: "今村 陽良"
 name_en: "Takara Imamura"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

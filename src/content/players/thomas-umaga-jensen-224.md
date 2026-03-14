@@ -1,5 +1,5 @@
 ---
-title: "THOMAS Umaga JENSEN"
+title: "トーマス ・ウマガ=ジェンセン"
 name_en: "THOMAS Umaga JENSEN"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2025)
+- ハイランダーズ (2017 - 2025)
+- オタゴ (2019 - 2025)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2025 - )

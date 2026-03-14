@@ -1,5 +1,5 @@
 ---
-title: "Makoto Kato"
+title: "加藤 誠央"
 name_en: "Makoto Kato"
 position: "FB"
 team: "九州電力キューデンヴォルテクス"

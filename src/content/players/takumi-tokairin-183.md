@@ -1,5 +1,5 @@
 ---
-title: "Takumi Tokairin"
+title: "東海林 拓実"
 name_en: "Takumi Tokairin"
 position: "SH"
 team: "日本製鉄釜石シーウェイブス"

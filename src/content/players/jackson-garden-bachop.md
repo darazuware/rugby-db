@@ -24,8 +24,8 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2016 - 2017)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2025)
+- ハリケーンズ (2017 - 2022)
+- ウェリントン (2019 - 2025)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2022 - 2023)
 - ブリーヴ (2023 - 2024)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

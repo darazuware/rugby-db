@@ -26,4 +26,4 @@ facebook: ""
 - Bath Rugby (2016 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
 - Gloucester Rugby (2023 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

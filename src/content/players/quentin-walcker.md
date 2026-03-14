@@ -25,5 +25,5 @@ facebook: ""
 
 - Salanque Côte Radieuse (2004 - 2006)
 - Rugby Olympique Agathois (2007 - 2009)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2009 - 2021)
+- Union Sportive Arlequins Perpignanais (2009 - 2021)
 - 🇫🇷 [カストル](/teams/top14/castres) (2021 - )

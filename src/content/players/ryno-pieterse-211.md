@@ -1,5 +1,5 @@
 ---
-title: "Ryno Pieterse"
+title: "ライノ ・ピータース"
 name_en: "Ryno Pieterse"
 position: "LO"
 team: "花園近鉄ライナーズ"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - ブルー・ブルズ (2018 - 2019)
-- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2020)
+- ブルズ (2019 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres) (2020 - 2024)
 - FC Grenoble Rugby (2024 - 2025)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2025 - )

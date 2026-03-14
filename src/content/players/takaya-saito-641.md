@@ -1,5 +1,5 @@
 ---
-title: "Takaya Saito"
+title: "齊藤 誉哉"
 name_en: "Takaya Saito"
 position: "CTB"
 team: "埼玉パナソニックワイルドナイツ"

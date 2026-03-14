@@ -1,5 +1,5 @@
 ---
-title: "Dylan Riley"
+title: "ディラン ・ライリー"
 name_en: "Dylan Riley"
 position: "CTB"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "TOMOKI NOBETA"
+title: "延田 朋樹"
 name_en: "TOMOKI NOBETA"
 position: "PR"
 team: "ルリーロ福岡"

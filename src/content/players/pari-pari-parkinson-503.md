@@ -1,5 +1,5 @@
 ---
-title: "Pari Pari Parkinson"
+title: "パリパリ ・パーキンソン"
 name_en: "Pari Pari Parkinson"
 position: "LO"
 team: "NECグリーンロケッツ東葛"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2024)
+- ハイランダーズ (2017 - 2024)
 - タスマン (2020 - 2023)
 - sans club (2021 - 2022)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Takumi Yoshimoto"
+title: "吉本 匠"
 name_en: "Takumi Yoshimoto"
 position: "CTB"
 team: "花園近鉄ライナーズ"

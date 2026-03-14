@@ -1,5 +1,5 @@
 ---
-title: "Brodie Retallick"
+title: "ブロディ ・レタリック"
 name_en: "Brodie Retallick"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)
+- チーフス (2013 - 2023)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2019 - 2026)
 - ホークスベイ (2021 - )

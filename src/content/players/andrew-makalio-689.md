@@ -1,5 +1,5 @@
 ---
-title: "Andrew Makalio"
+title: "アンドリュー ・マカリオ"
 name_en: "Andrew Makalio"
 position: "HO"
 team: "東芝ブレイブルーパス東京"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2021)
+- クルセイダーズ (2016 - 2021)
 - タスマン (2019 - 2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2023)
+- ハイランダーズ (2021 - 2023)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2023 - 2025)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2025 - )

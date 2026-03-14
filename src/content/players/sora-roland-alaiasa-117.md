@@ -1,5 +1,5 @@
 ---
-title: "Sora Roland Alaiasa"
+title: "アライアサ 空ローランド"
 name_en: "Sora Roland Alaiasa"
 position: "FB"
 team: "豊田自動織機シャトルズ愛知"

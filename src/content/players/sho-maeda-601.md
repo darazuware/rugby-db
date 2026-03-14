@@ -1,5 +1,5 @@
 ---
-title: "Sho Maeda"
+title: "前田 翔"
 name_en: "Sho Maeda"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

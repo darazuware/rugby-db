@@ -1,5 +1,5 @@
 ---
-title: "Tomoaki Ishii"
+title: "石井 智亮"
 name_en: "Tomoaki Ishii"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2018 - 2021)
+- 近鉄ライナーズ (2018 - 2021)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2021 - )

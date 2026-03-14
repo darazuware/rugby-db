@@ -1,5 +1,5 @@
 ---
-title: "Nesta Mahina"
+title: "ネスタ ・マヒナ"
 name_en: "Nesta Mahina"
 position: "PR"
 team: "横浜キヤノンイーグルス"

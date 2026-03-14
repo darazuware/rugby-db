@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Oyonnax Rugby (2011 - 2018)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2018 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Lyon Olympique Universitaire Rugby (2018 - 2023)
+- Union Sportive Arlequins Perpignanais (2023 - )

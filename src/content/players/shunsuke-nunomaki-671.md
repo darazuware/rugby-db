@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Nunomaki"
+title: "布巻 峻介"
 name_en: "Shunsuke Nunomaki"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

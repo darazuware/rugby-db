@@ -25,4 +25,4 @@ facebook: ""
 
 - club inconnu (2019 - 2020)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )
+- ワラターズ (2023 - )

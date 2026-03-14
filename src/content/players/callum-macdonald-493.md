@@ -1,5 +1,5 @@
 ---
-title: "Callum MacDonald"
+title: "カラム ・マクドナルド"
 name_en: "Callum MacDonald"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

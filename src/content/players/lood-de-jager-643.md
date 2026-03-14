@@ -1,5 +1,5 @@
 ---
-title: "Lood de Jager"
+title: "ルード ・デヤハー"
 name_en: "Lood de Jager"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - チーターズ (2013 - 2016)
-- 🇿🇦 ヴォーダコム・ブルズ (2016 - 2019)
-- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2022)
+- ブルズ (2016 - 2019)
+- Sale Sharks (2019 - 2022)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Yoshihiro Sononaka"
+title: "園中 良寛"
 name_en: "Yoshihiro Sononaka"
 position: "LO"
 team: "九州電力キューデンヴォルテクス"

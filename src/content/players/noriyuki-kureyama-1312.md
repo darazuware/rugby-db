@@ -1,5 +1,5 @@
 ---
-title: "Noriyuki Kureyama"
+title: "呉山 聖道"
 name_en: "Noriyuki Kureyama"
 position: "LO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

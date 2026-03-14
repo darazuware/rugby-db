@@ -1,5 +1,5 @@
 ---
-title: "Kodai Ono"
+title: "小野 航大"
 name_en: "Kodai Ono"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

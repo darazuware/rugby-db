@@ -1,5 +1,5 @@
 ---
-title: "Yoji Shiina"
+title: "椎名 耀二"
 name_en: "Yoji Shiina"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

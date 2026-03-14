@@ -1,5 +1,5 @@
 ---
-title: "Tevita Oto"
+title: "テビタ ・オト"
 name_en: "Tevita Oto"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"

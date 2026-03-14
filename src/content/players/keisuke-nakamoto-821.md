@@ -1,5 +1,5 @@
 ---
-title: "Keisuke Nakamoto"
+title: "中本 圭介"
 name_en: "Keisuke Nakamoto"
 position: "FB"
 team: "マツダスカイアクティブズ広島"

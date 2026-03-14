@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2025)
+- オタゴ (2016 - 2025)
 - サンウルブズ (2018 - 2019)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- ハイランダーズ (2021 - 2024)
+- ハリケーンズ (2025 - )

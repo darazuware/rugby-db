@@ -25,4 +25,4 @@ facebook: ""
 
 - Old Elthamians RFC (2017 - 2019)
 - CA Brive Corrèze Limousin (2019 - 2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Section Paloise Béarn Pyrénées (2024 - )

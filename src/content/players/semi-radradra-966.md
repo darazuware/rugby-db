@@ -1,5 +1,5 @@
 ---
-title: "Semi Radradra"
+title: "セミ ・ラドラドラ"
 name_en: "Semi Radradra"
 position: "CTB"
 team: "静岡ブルーレヴズ"

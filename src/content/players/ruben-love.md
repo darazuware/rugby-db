@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - )
+- ウェリントン (2019 - 2025)
+- ハリケーンズ (2020 - )

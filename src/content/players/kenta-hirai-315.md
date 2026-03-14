@@ -1,5 +1,5 @@
 ---
-title: "Kenta Hirai"
+title: "平井 建多"
 name_en: "Kenta Hirai"
 position: "PR"
 team: "三重ホンダヒート"

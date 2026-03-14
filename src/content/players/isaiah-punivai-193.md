@@ -1,5 +1,5 @@
 ---
-title: "Isaiah Punivai"
+title: "イザヤ ・プニヴァイ"
 name_en: "Isaiah Punivai"
 position: "CTB"
 team: "東京サントリーサンゴリアス"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
+- クルセイダーズ (2019 - 2022)
+- カンタベリー (2019 - 2022)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Edward Annandale"
+title: "エドワード ・アナンデール"
 name_en: "Edward Annandale"
 position: "LO"
 team: "NECグリーンロケッツ東葛"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2024)
+- オークランド (2022 - 2024)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2024 - )

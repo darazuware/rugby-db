@@ -1,5 +1,5 @@
 ---
-title: "Yuichiro Taniguchi"
+title: "谷口 祐一郎"
 name_en: "Yuichiro Taniguchi"
 position: "PR"
 team: "リコーブラックラムズ東京"

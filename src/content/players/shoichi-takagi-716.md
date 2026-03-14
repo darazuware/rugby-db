@@ -1,5 +1,5 @@
 ---
-title: "Shoichi Takagi"
+title: "高城 勝一"
 name_en: "Shoichi Takagi"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

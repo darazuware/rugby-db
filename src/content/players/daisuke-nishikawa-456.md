@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Nishikawa"
+title: "西川 大輔"
 name_en: "Daisuke Nishikawa"
 position: "CTB"
 team: "リコーブラックラムズ東京"

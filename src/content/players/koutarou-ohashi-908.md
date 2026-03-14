@@ -1,5 +1,5 @@
 ---
-title: "Koutarou Ohashi"
+title: "大橋 興太郎"
 name_en: "Koutarou Ohashi"
 position: "LO"
 team: "ルリーロ福岡"

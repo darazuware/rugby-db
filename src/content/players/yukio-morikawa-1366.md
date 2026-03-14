@@ -1,5 +1,5 @@
 ---
-title: "Yukio Morikawa"
+title: "森川 由起乙"
 name_en: "Yukio Morikawa"
 position: "PR"
 team: "東京サントリーサンゴリアス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2015 - )
+- サントリーサンゴリアス (2015 - )

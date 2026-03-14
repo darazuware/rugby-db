@@ -1,5 +1,5 @@
 ---
-title: "Sione Lavemai"
+title: "シオネ ・ラベマイ"
 name_en: "Sione Lavemai"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

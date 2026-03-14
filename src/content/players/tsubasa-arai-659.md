@@ -1,5 +1,5 @@
 ---
-title: "Tsubasa Arai"
+title: "新井 翼"
 name_en: "Tsubasa Arai"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

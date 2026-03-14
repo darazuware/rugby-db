@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Lazio (2015 - 2016)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2026)
+- Union Sportive Arlequins Perpignanais (2016 - 2020)
+- Rugby Club Vannes (2020 - 2026)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Sean McMahon"
+title: "ショーン ・マクマーン"
 name_en: "Sean McMahon"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

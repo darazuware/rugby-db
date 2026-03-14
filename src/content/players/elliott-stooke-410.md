@@ -1,5 +1,5 @@
 ---
-title: "Elliott Stooke"
+title: "エリオット ・ストーク"
 name_en: "Elliott Stooke"
 position: "LO"
 team: "レッドハリケーンズ大阪"

@@ -1,5 +1,5 @@
 ---
-title: "Shaun Stevenson"
+title: "ショーン ・スティーブンソン"
 name_en: "Shaun Stevenson"
 position: "FB"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2025)
+- チーフス (2015 - 2025)
 - ノース・ハーバー (2019 - 2024)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2024 - )

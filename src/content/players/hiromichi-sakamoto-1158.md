@@ -1,5 +1,5 @@
 ---
-title: "HIROMICHI SAKAMOTO"
+title: "坂本 洋道"
 name_en: "HIROMICHI SAKAMOTO"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

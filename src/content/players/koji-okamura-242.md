@@ -1,5 +1,5 @@
 ---
-title: "Koji Okamura"
+title: "岡村 晃司"
 name_en: "Koji Okamura"
 position: "CTB"
 team: "花園近鉄ライナーズ"

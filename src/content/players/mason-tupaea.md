@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - )
+- ワイカト (2022 - 2025)
+- ブルーズ (2023 - )

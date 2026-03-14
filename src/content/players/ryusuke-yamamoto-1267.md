@@ -1,5 +1,5 @@
 ---
-title: "Ryusuke Yamamoto"
+title: "山本 龍亮"
 name_en: "Ryusuke Yamamoto"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

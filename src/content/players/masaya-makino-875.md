@@ -1,5 +1,5 @@
 ---
-title: "Masaya Makino"
+title: "牧野 真也"
 name_en: "Masaya Makino"
 position: "LO"
 team: "ヤクルトレビンズ戸田"

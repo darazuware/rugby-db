@@ -1,5 +1,5 @@
 ---
-title: "Ko Sato"
+title: "佐藤 康"
 name_en: "Ko Sato"
 position: "HO"
 team: "リコーブラックラムズ東京"

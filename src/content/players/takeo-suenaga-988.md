@@ -1,5 +1,5 @@
 ---
-title: "Takeo Suenaga"
+title: "末永 健雄"
 name_en: "Takeo Suenaga"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

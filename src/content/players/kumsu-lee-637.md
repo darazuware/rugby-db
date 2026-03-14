@@ -1,5 +1,5 @@
 ---
-title: "Kumsu Lee"
+title: "李 錦寿"
 name_en: "Kumsu Lee"
 position: "SH"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Ougi Yanamoto"
+title: "梁本 旺義"
 name_en: "Ougi Yanamoto"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

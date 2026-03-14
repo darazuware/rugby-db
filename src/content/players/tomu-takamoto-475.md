@@ -1,5 +1,5 @@
 ---
-title: "Tomu Takamoto"
+title: "高本 とむ"
 name_en: "Tomu Takamoto"
 position: "WTB"
 team: "リコーブラックラムズ東京"

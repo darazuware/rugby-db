@@ -1,5 +1,5 @@
 ---
-title: "Felix Kalapu"
+title: "フィリックス ・カラプ"
 name_en: "Felix Kalapu"
 position: "LO"
 team: "リコーブラックラムズ東京"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2022)
+- オークランド (2019 - 2022)
 - Old Glory DC RFC (2021 - 2022)
 - ノース・ハーバー (2021 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
+- ワラターズ (2024 - 2025)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2025 - )

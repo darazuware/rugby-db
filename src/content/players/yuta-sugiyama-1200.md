@@ -1,5 +1,5 @@
 ---
-title: "Yuta Sugiyama"
+title: "杉山 祐太"
 name_en: "Yuta Sugiyama"
 position: "WTB"
 team: "クリタウォーターガッシュ昭島"

@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Murakawa"
+title: "村川 浩喜"
 name_en: "Hiroki Murakawa"
 position: "HO"
 team: "九州電力キューデンヴォルテクス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2015 - 2024)
+- Toyota Industries Shuttles Aichi (2015 - 2024)
 - 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2024 - )

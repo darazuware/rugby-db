@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2026)
+- クルセイダーズ (2018 - 2026)
 - タスマン (2019 - 2025)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )

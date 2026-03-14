@@ -1,5 +1,5 @@
 ---
-title: "SHUN TERAWAKI"
+title: "寺脇 駿"
 name_en: "SHUN TERAWAKI"
 position: "PR"
 team: "ルリーロ福岡"

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2013 - 2018)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - )
+- レッズ (2013 - 2018)
+- ブランビーズ (2018 - )

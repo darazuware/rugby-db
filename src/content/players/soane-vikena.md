@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- オークランド (2019 - 2025)
+- ブルーズ (2020 - 2024)
+- ハイランダーズ (2024 - )

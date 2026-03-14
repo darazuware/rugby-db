@@ -1,5 +1,5 @@
 ---
-title: "Jack Cornelsen"
+title: "ジャック ・コーネルセン"
 name_en: "Jack Cornelsen"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

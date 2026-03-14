@@ -1,5 +1,5 @@
 ---
-title: "Shogo Nakano"
+title: "中野 将伍"
 name_en: "Shogo Nakano"
 position: "CTB"
 team: "東京サントリーサンゴリアス"

@@ -1,5 +1,5 @@
 ---
-title: "Kousei Tamaki"
+title: "玉木 皓盛"
 name_en: "Kousei Tamaki"
 position: "HO"
 team: "日野レッドドルフィンズ"

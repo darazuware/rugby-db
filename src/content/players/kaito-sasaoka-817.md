@@ -1,5 +1,5 @@
 ---
-title: "Kaito Sasaoka"
+title: "笹岡 海斗"
 name_en: "Kaito Sasaoka"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

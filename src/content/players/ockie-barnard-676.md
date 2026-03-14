@@ -1,5 +1,5 @@
 ---
-title: "Ockie Barnard"
+title: "オッキー ・バーナード"
 name_en: "Ockie Barnard"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2023)
+- シャークス (2019 - 2023)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2023 - )

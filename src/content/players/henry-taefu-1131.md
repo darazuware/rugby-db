@@ -1,5 +1,5 @@
 ---
-title: "Henry Taefu"
+title: "ヘンリー ・タエフ"
 name_en: "Henry Taefu"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2016)
+- レッズ (2015 - 2016)
 - ブリスベン・シティ (2016 - 2017)
 - US Colomiers (2017 - 2018)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2017 - 2021)
 - ノース・ハーバー (2020 - 2023)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2024)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

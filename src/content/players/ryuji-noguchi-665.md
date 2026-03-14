@@ -1,5 +1,5 @@
 ---
-title: "Ryuji Noguchi"
+title: "野口 竜司"
 name_en: "Ryuji Noguchi"
 position: "FB"
 team: "埼玉パナソニックワイルドナイツ"

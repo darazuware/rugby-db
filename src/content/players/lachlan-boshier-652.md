@@ -1,5 +1,5 @@
 ---
-title: "Lachlan Boshier"
+title: "ラクラン ・ボーシェー"
 name_en: "Lachlan Boshier"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2021)
+- チーフス (2015 - 2021)
 - タラナキ (2019 - 2021)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Rintaro Maruyama"
+title: "丸山 凜太朗"
 name_en: "Rintaro Maruyama"
 position: "SO"
 team: "花園近鉄ライナーズ"

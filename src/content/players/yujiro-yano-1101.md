@@ -1,5 +1,5 @@
 ---
-title: "Yujiro Yano"
+title: "矢野 裕二郎"
 name_en: "Yujiro Yano"
 position: "LO"
 team: "日野レッドドルフィンズ"

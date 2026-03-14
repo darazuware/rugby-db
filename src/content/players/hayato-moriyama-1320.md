@@ -1,5 +1,5 @@
 ---
-title: "Hayato Moriyama"
+title: "森山 迅都"
 name_en: "Hayato Moriyama"
 position: "LO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2024 - )
+- 中国電力レッドレギュリオンズ (2024 - )

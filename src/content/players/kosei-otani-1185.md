@@ -1,5 +1,5 @@
 ---
-title: "Kosei Otani"
+title: "大谷 晃生"
 name_en: "Kosei Otani"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

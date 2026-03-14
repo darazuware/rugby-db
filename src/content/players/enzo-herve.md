@@ -25,5 +25,5 @@ facebook: ""
 
 - RC Buguois (2004 - 2013)
 - CA Brive Corrèze Limousin (2013 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - 2026)
+- Rugby Club Toulonnais (2023 - 2026)
 - 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

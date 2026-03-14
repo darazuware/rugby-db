@@ -1,5 +1,5 @@
 ---
-title: "Riku Iwai"
+title: "岩井 陸"
 name_en: "Riku Iwai"
 position: "PR"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2023 - )
+- 中国電力レッドレギュリオンズ (2023 - )

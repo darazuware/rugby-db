@@ -1,5 +1,5 @@
 ---
-title: "Mac Harris"
+title: "ハリス マック"
 name_en: "Mac Harris"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"

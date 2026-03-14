@@ -1,5 +1,5 @@
 ---
-title: "Chisonn Kinn"
+title: "金 智成"
 name_en: "Chisonn Kinn"
 position: "FL/No8"
 team: "ルリーロ福岡"

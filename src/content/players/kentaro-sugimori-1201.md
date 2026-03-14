@@ -1,5 +1,5 @@
 ---
-title: "Kentaro Sugimori"
+title: "杉森 健太郎"
 name_en: "Kentaro Sugimori"
 position: "WTB"
 team: "クリタウォーターガッシュ昭島"

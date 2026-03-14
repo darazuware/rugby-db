@@ -1,5 +1,5 @@
 ---
-title: "Kenji Nigara"
+title: "二重 賢治"
 name_en: "Kenji Nigara"
 position: "PR"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2025 - )
+- 中国電力レッドレギュリオンズ (2025 - )

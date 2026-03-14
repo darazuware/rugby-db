@@ -1,5 +1,5 @@
 ---
-title: "Kaishun Azuma"
+title: "東 海隼"
 name_en: "Kaishun Azuma"
 position: "WTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

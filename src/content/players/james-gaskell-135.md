@@ -1,5 +1,5 @@
 ---
-title: "James Gaskell"
+title: "ジェームズ ・ガスケル"
 name_en: "James Gaskell"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2013 - 2014)
+- Sale Sharks (2013 - 2014)
 - ワスプス (2014 - 2022)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2022 - )

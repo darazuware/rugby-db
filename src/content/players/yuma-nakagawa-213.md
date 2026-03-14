@@ -1,5 +1,5 @@
 ---
-title: "Yuma Nakagawa"
+title: "中川 湧眞"
 name_en: "Yuma Nakagawa"
 position: "WTB"
 team: "花園近鉄ライナーズ"

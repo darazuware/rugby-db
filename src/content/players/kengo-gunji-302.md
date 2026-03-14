@@ -1,5 +1,5 @@
 ---
-title: "Kengo Gunji"
+title: "郡司 健吾"
 name_en: "Kengo Gunji"
 position: "FB"
 team: "三重ホンダヒート"

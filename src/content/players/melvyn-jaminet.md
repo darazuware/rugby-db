@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2005 - 2026)
+- Rugby Club Toulonnais (2005 - 2026)
 - RC Vallée du Gapeau (2015 - 2016)
 - RC Hyères Carqueiranne La Crau (2016 - 2018)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2018 - 2022)
+- Union Sportive Arlequins Perpignanais (2018 - 2022)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - )

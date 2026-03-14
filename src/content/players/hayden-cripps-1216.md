@@ -1,5 +1,5 @@
 ---
-title: "Hayden Cripps"
+title: "クリップス ヘイデン"
 name_en: "Hayden Cripps"
 position: "SO"
 team: "清水建設江東ブルーシャークス"

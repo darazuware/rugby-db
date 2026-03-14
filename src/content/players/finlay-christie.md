@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2017)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2019)
+- チーフス (2016 - 2017)
+- ハリケーンズ (2017 - 2019)
 - タスマン (2019 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - )
+- ブルーズ (2019 - )

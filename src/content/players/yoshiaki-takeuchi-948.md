@@ -1,5 +1,5 @@
 ---
-title: "YOSHIAKI TAKEUCHI"
+title: "竹内 嘉章"
 name_en: "YOSHIAKI TAKEUCHI"
 position: "HO"
 team: "ルリーロ福岡"

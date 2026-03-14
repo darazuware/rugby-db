@@ -1,5 +1,5 @@
 ---
-title: "Shota Takai"
+title: "高井 翔太"
 name_en: "Shota Takai"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

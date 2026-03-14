@@ -1,5 +1,5 @@
 ---
-title: "Shota Emi"
+title: "江見 翔太"
 name_en: "Shota Emi"
 position: "WTB"
 team: "東京サントリーサンゴリアス"

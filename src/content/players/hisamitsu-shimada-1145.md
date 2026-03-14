@@ -1,5 +1,5 @@
 ---
-title: "HISAMITSU SHIMADA"
+title: "島田 久満"
 name_en: "HISAMITSU SHIMADA"
 position: "HO"
 team: "レッドハリケーンズ大阪"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2026)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2026)
 - ホークスベイ (2022 - )

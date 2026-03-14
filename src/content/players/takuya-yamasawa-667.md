@@ -1,5 +1,5 @@
 ---
-title: "Takuya Yamasawa"
+title: "山沢 拓也"
 name_en: "Takuya Yamasawa"
 position: "SO"
 team: "埼玉パナソニックワイルドナイツ"

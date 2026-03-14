@@ -1,5 +1,5 @@
 ---
-title: "Simon Miller"
+title: "シモン ・ミラー"
 name_en: "Simon Miller"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ウェスタン・プロヴィンス (2021)
-- 🇿🇦 DHLストーマーズ (2021 - 2023)
-- 🇿🇦 ハリウッドベッツ・シャークス (2023 - 2024)
+- ストーマーズ (2021 - 2023)
+- シャークス (2023 - 2024)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2024 - )

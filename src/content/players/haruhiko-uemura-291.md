@@ -1,5 +1,5 @@
 ---
-title: "Haruhiko Uemura"
+title: "植村 陽彦"
 name_en: "Haruhiko Uemura"
 position: "FB"
 team: "三重ホンダヒート"

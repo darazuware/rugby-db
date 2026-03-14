@@ -25,4 +25,4 @@ facebook: ""
 
 - Stade Montois Rugby Pro (2015 - 2018)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- Section Paloise Béarn Pyrénées (2021 - )

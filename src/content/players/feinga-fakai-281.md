@@ -1,5 +1,5 @@
 ---
-title: "Feinga Fakai"
+title: "フェインガ ・ファカイ"
 name_en: "Feinga Fakai"
 position: "PR"
 team: "三重ホンダヒート"

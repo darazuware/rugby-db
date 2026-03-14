@@ -1,5 +1,5 @@
 ---
-title: "Toui Kai"
+title: "甲斐 登生"
 name_en: "Toui Kai"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

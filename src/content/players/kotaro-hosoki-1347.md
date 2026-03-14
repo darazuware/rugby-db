@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Hosoki"
+title: "細木 康太郎"
 name_en: "Kotaro Hosoki"
 position: "PR"
 team: "東京サントリーサンゴリアス"

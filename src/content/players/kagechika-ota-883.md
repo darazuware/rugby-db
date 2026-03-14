@@ -1,5 +1,5 @@
 ---
-title: "Kagechika Ota"
+title: "太田 景親"
 name_en: "Kagechika Ota"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

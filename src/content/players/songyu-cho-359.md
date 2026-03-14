@@ -1,5 +1,5 @@
 ---
-title: "Songyu Cho"
+title: "趙 誠悠"
 name_en: "Songyu Cho"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

@@ -1,5 +1,5 @@
 ---
-title: "PJ Latu"
+title: "PJ ・ラトゥ"
 name_en: "PJ Latu"
 position: "CTB"
 team: "リコーブラックラムズ東京"

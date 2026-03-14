@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2025)
+- Rugby Club Toulonnais (2013 - 2025)
 - Pampas XV (2014 - 2015)
 - Jaguares (2015 - 2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - 2017)
-- 🇫🇷 [ポー](/teams/top14/pau) (2025 - )
+- Lyon Olympique Universitaire Rugby (2016 - 2017)
+- Section Paloise Béarn Pyrénées (2025 - )

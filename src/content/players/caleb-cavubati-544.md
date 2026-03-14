@@ -1,5 +1,5 @@
 ---
-title: "Caleb Cavubati"
+title: "ケレブ ・カヴバティ"
 name_en: "Caleb Cavubati"
 position: "WTB"
 team: "浦安D-Rocks"

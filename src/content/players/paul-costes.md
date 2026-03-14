@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2010 - 2015)
+- Toulouse Université Club (2010 - 2015)
 - US Colomiers (2015 - 2018)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

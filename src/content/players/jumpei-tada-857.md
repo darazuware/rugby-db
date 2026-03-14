@@ -1,5 +1,5 @@
 ---
-title: "Jumpei Tada"
+title: "多田 潤平"
 name_en: "Jumpei Tada"
 position: "SH"
 team: "ヤクルトレビンズ戸田"

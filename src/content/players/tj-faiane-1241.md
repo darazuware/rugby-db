@@ -1,5 +1,5 @@
 ---
-title: "TJ Faiane"
+title: "ティジェイ ・ファイアネ"
 name_en: "TJ Faiane"
 position: "CTB"
 team: "狭山セコムラガッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
+- ブルーズ (2016 - 2021)
+- オークランド (2019 - 2020)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2021 - 2023)
 - 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

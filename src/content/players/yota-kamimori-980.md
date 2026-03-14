@@ -1,5 +1,5 @@
 ---
-title: "Yota Kamimori"
+title: "紙森 陽太"
 name_en: "Yota Kamimori"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2021 - 2026)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )
+- ウェリントン (2023 - )

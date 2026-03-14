@@ -1,5 +1,5 @@
 ---
-title: "Masataka Tsuruya"
+title: "鶴谷 昌隆"
 name_en: "Masataka Tsuruya"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

@@ -1,5 +1,5 @@
 ---
-title: "Takumi Sue"
+title: "末 拓実"
 name_en: "Takumi Sue"
 position: "SH"
 team: "豊田自動織機シャトルズ愛知"

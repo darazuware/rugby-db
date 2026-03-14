@@ -25,6 +25,6 @@ facebook: ""
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2024)
 - All Blacks 7's (2019 - 2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
+- Auckland (2019 - 2023)
+- Rugby Club Vannes (2024 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

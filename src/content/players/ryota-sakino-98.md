@@ -1,5 +1,5 @@
 ---
-title: "Ryota Sakino"
+title: "崎野 諒太"
 name_en: "Ryota Sakino"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

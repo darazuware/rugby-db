@@ -1,5 +1,5 @@
 ---
-title: "Kakeru Miyaso"
+title: "宮宗 翔"
 name_en: "Kakeru Miyaso"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"

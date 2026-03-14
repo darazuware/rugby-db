@@ -1,5 +1,5 @@
 ---
-title: "Takuma Nishino"
+title: "西野 拓真"
 name_en: "Takuma Nishino"
 position: "PR"
 team: "トヨタヴェルブリッツ"

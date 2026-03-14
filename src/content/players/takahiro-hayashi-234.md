@@ -1,5 +1,5 @@
 ---
-title: "Takahiro Hayashi"
+title: "林 隆広"
 name_en: "Takahiro Hayashi"
 position: "WTB"
 team: "花園近鉄ライナーズ"

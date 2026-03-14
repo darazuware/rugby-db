@@ -1,5 +1,5 @@
 ---
-title: "Kohei Kire"
+title: "喜連 航平"
 name_en: "Kohei Kire"
 position: "SO"
 team: "九州電力キューデンヴォルテクス"

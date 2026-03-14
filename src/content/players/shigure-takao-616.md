@@ -1,5 +1,5 @@
 ---
-title: "Shigure Takao"
+title: "高尾 時流"
 name_en: "Shigure Takao"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

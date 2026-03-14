@@ -1,5 +1,5 @@
 ---
-title: "Nick Jooste"
+title: "ニック ・ユースト"
 name_en: "Nick Jooste"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -27,4 +27,4 @@ facebook: ""
 - Eastern Suburbs RFC (2020 - 2021)
 - 🇦🇺 メルボルン・レベルズ (2021 - 2024)
 - San Diego Legion (2024 - 2025)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

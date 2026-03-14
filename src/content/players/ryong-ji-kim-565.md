@@ -1,5 +1,5 @@
 ---
-title: "Ryong Ji Kim"
+title: "金 嶺志"
 name_en: "Ryong Ji Kim"
 position: "LO"
 team: "浦安D-Rocks"

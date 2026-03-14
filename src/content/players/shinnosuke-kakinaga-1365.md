@@ -1,5 +1,5 @@
 ---
-title: "Shinnosuke Kakinaga"
+title: "垣永 真之介"
 name_en: "Shinnosuke Kakinaga"
 position: "PR"
 team: "東京サントリーサンゴリアス"

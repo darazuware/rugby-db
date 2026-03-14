@@ -1,5 +1,5 @@
 ---
-title: "Takuhei Yasuda"
+title: "安田 卓平"
 name_en: "Takuhei Yasuda"
 position: "FB"
 team: "浦安D-Rocks"

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2023)
+- Exeter Chiefs (2014 - 2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

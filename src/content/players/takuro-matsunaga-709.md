@@ -1,5 +1,5 @@
 ---
-title: "Takuro Matsunaga"
+title: "松永 拓朗"
 name_en: "Takuro Matsunaga"
 position: "SO"
 team: "東芝ブレイブルーパス東京"

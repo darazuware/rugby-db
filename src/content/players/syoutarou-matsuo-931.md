@@ -1,5 +1,5 @@
 ---
-title: "SYOUTAROU MATSUO"
+title: "松尾 将太郎"
 name_en: "SYOUTAROU MATSUO"
 position: "SO"
 team: "ルリーロ福岡"

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2021)
+- チーフス (2016 - 2019)
+- ハリケーンズ (2019 - 2021)
 - カウンティーズ・マヌカウ (2019 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )

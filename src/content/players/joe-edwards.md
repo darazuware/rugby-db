@@ -26,4 +26,4 @@ facebook: ""
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2017)
 - Provence Rugby (2017 - 2020)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - )
+- Rugby Club Vannes (2020 - )

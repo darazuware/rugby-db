@@ -1,5 +1,5 @@
 ---
-title: "Naoya Ogita"
+title: "荻田 直弥"
 name_en: "Naoya Ogita"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2024)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )
+- 日本 (2024)
+- Green Rockets Tokatsu (2025 - )

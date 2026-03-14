@@ -1,5 +1,5 @@
 ---
-title: "Jyunki Tokota"
+title: "床田 淳貴"
 name_en: "Jyunki Tokota"
 position: "PR"
 team: "日野レッドドルフィンズ"

@@ -1,5 +1,5 @@
 ---
-title: "Ginjiro Hase"
+title: "長谷 銀次朗"
 name_en: "Ginjiro Hase"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2021 - )
+- 清水建設ブルーシャークス (2021 - )

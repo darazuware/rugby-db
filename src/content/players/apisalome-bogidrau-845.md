@@ -1,5 +1,5 @@
 ---
-title: "Apisalome Bogidrau"
+title: "アピサロメ ・ボギドラウ"
 name_en: "Apisalome Bogidrau"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "Elijah Uitime"
+title: "エライジャ ・ウィチメ"
 name_en: "Elijah Uitime"
 position: "FL/No8"
 team: "ルリーロ福岡"

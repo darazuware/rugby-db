@@ -1,5 +1,5 @@
 ---
-title: "Taichi Chiba"
+title: "千葉 太一"
 name_en: "Taichi Chiba"
 position: "PR"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Connor Anderson"
+title: "コナー ・アンダーソン"
 name_en: "Connor Anderson"
 position: "FL/No8"
 team: "中国電力レッドレグリオンズ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - West Brisbane Bulldogs (2021 - 2022)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2024 - )
+- レッズ (2022 - 2024)
+- 中国電力レッドレギュリオンズ (2024 - )

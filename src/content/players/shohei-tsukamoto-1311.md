@@ -1,5 +1,5 @@
 ---
-title: "Shohei Tsukamoto"
+title: "塚本 奨平"
 name_en: "Shohei Tsukamoto"
 position: "SH"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

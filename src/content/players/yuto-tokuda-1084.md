@@ -1,5 +1,5 @@
 ---
-title: "Yuto Tokuda"
+title: "徳田 悠人"
 name_en: "Yuto Tokuda"
 position: "PR"
 team: "日野レッドドルフィンズ"

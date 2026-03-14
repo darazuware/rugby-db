@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2019)
+- ハリケーンズ (2013 - 2019)
 - タラナキ (2019 - 2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2026)
+- ブルーズ (2019 - 2026)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2020 - 2021)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - )

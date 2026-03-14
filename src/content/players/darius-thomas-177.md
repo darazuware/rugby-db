@@ -1,5 +1,5 @@
 ---
-title: "Darius Thomas"
+title: "ダリエス ・トマス"
 name_en: "Darius Thomas"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

@@ -25,4 +25,4 @@ facebook: ""
 
 - CA Périgueux Dordogne (2006 - 2016)
 - Sporting Union Agenais (2016 - 2018)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2018 - )
+- Lyon Olympique Universitaire Rugby (2018 - )

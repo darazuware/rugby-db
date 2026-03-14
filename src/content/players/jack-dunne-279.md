@@ -1,5 +1,5 @@
 ---
-title: "Jack Dunne"
+title: "ジャック ・ダン"
 name_en: "Jack Dunne"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇪 レンスター・ラグビー (2018 - 2022)
+- レンスター (2018 - 2022)
 - エクセター・チーフス (2022 - 2025)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2025 - )

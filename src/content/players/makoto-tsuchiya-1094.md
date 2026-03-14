@@ -1,5 +1,5 @@
 ---
-title: "Makoto Tsuchiya"
+title: "土屋 眞"
 name_en: "Makoto Tsuchiya"
 position: "PR"
 team: "日野レッドドルフィンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2012 - )
+- 日野自動車レッドドルフィンズ (2012 - )

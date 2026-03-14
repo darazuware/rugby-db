@@ -1,5 +1,5 @@
 ---
-title: "Satoshi Koizumi"
+title: "小泉 怜史"
 name_en: "Satoshi Koizumi"
 position: "FB"
 team: "三菱重工相模原ダイナボアーズ"

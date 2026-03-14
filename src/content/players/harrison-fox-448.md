@@ -1,5 +1,5 @@
 ---
-title: "Harrison Fox"
+title: "ハリソン ・フォックス"
 name_en: "Harrison Fox"
 position: "LO"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Sebastian Boshoff"
+title: "セバスチャン ・ボショフ"
 name_en: "Sebastian Boshoff"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

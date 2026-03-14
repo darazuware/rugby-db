@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - COM Bagneux (2015 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )
+- Stade Français Paris Rugby (2018 - )

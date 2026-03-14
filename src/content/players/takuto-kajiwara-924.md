@@ -1,5 +1,5 @@
 ---
-title: "TAKUTO KAJIWARA"
+title: "梶原 拓人"
 name_en: "TAKUTO KAJIWARA"
 position: "WTB"
 team: "ルリーロ福岡"

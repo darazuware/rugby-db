@@ -27,5 +27,5 @@ facebook: ""
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2016 - 2021)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2019)
 - Association Sportive Béziers Hérault (2020 - 2021)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2021 - 2026)
+- Union Sportive Arlequins Perpignanais (2021 - 2026)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

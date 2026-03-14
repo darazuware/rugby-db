@@ -1,5 +1,5 @@
 ---
-title: "Riku Kitahara"
+title: "北原 璃久"
 name_en: "Riku Kitahara"
 position: "SO"
 team: "三重ホンダヒート"

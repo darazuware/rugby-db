@@ -1,5 +1,5 @@
 ---
-title: "Shinya Nara"
+title: "奈良 真弥"
 name_en: "Shinya Nara"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

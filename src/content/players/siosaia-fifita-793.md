@@ -1,5 +1,5 @@
 ---
-title: "Siosaia Fifita"
+title: "シオサイア ・フィフィタ"
 name_en: "Siosaia Fifita"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

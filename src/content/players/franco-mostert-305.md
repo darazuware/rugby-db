@@ -1,5 +1,5 @@
 ---
-title: "Franco Mostert"
+title: "フランコ ・モスタート"
 name_en: "Franco Mostert"
 position: "LO"
 team: "三重ホンダヒート"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2013 - 2018)
+- ライオンズ (2013 - 2018)
 - グロスター (2018 - 2020)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2020 - )

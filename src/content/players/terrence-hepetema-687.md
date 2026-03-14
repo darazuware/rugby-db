@@ -1,5 +1,5 @@
 ---
-title: "Terrence Hepetema"
+title: "テレンス ・へプテマ"
 name_en: "Terrence Hepetema"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"
@@ -24,11 +24,11 @@ facebook: ""
 ---
 
 - Randwick Rugby (2012 - 2013)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2012 - 2013)
+- ワラターズ (2012 - 2013)
 - レスター・タイガース (2013 - 2015)
 - Doncaster Knights (2014 - 2015)
 - ベイ・オブ・プレンティ (2015 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
+- ブルーズ (2017 - 2018)
 - ロンドン・アイリッシュ (2018 - 2022)
 - FC Grenoble Rugby (2022 - 2024)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2024 - )

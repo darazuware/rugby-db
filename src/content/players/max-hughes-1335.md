@@ -1,5 +1,5 @@
 ---
-title: "Max Hughes"
+title: "マックス ・ヒューズ"
 name_en: "Max Hughes"
 position: "SH"
 team: "東京サントリーサンゴリアス"

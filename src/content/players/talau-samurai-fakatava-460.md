@@ -1,5 +1,5 @@
 ---
-title: "Talau Samurai Fakatava"
+title: "ファカタヴァ タラウ侍"
 name_en: "Talau Samurai Fakatava"
 position: "LO"
 team: "リコーブラックラムズ東京"

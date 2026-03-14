@@ -1,5 +1,5 @@
 ---
-title: "Kento Grateley"
+title: "グレイトリー 献人"
 name_en: "Kento Grateley"
 position: "FB"
 team: "豊田自動織機シャトルズ愛知"

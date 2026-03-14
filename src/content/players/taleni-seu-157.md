@@ -1,5 +1,5 @@
 ---
-title: "Taleni Seu"
+title: "タレニ ・セウ"
 name_en: "Taleni Seu"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2019 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )
+- チーフス (2016 - 2019)
+- Toyota Industries Shuttles Aichi (2019 - 2023)
+- ワラターズ (2023 - )

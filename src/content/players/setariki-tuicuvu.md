@@ -26,4 +26,4 @@ facebook: ""
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2020)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- Rugby Club Toulonnais (2023 - )

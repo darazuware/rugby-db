@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2025 - )
+- ハリケーンズ (2025 - )

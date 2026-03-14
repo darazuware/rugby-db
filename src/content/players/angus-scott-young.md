@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2022)
+- レッズ (2017 - 2022)
 - ベイ・オブ・プレンティ (2020 - 2021)
 - ノーサンプトン・セインツ (2022 - 2026)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ワラターズ (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kenta Tokuda"
+title: "徳田 健太"
 name_en: "Kenta Tokuda"
 position: "SH"
 team: "コベルコ神戸スティーラーズ"

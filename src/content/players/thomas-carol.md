@@ -26,4 +26,4 @@ facebook: ""
 - AC Boulogne-Billancourt (2010 - 2012)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2012 - 2019)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- Section Paloise Béarn Pyrénées (2021 - )

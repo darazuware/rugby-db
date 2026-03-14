@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2008 - 2012)
+- Toulouse Lalande Aucamville (2008 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
 - CA Brive Corrèze Limousin (2020 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- Rugby Club Toulonnais (2024 - )

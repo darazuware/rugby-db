@@ -1,5 +1,5 @@
 ---
-title: "Hiroaki Shirahama"
+title: "白濱 弘章"
 name_en: "Hiroaki Shirahama"
 position: "HO"
 team: "三重ホンダヒート"

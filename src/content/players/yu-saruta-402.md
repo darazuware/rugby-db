@@ -1,5 +1,5 @@
 ---
-title: "Yu Saruta"
+title: "猿田 湧"
 name_en: "Yu Saruta"
 position: "FB"
 team: "横浜キヤノンイーグルス"

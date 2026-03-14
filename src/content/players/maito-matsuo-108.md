@@ -1,5 +1,5 @@
 ---
-title: "Maito Matsuo"
+title: "松尾 磨人"
 name_en: "Maito Matsuo"
 position: "SH"
 team: "清水建設江東ブルーシャークス"

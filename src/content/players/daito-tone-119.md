@@ -1,5 +1,5 @@
 ---
-title: "Daito Tone"
+title: "登根 大斗"
 name_en: "Daito Tone"
 position: "SH"
 team: "豊田自動織機シャトルズ愛知"

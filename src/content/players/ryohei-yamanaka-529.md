@@ -1,5 +1,5 @@
 ---
-title: "Ryohei Yamanaka"
+title: "山中 亮平"
 name_en: "Ryohei Yamanaka"
 position: "FB"
 team: "浦安D-Rocks"

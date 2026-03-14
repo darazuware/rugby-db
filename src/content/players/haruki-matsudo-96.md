@@ -1,5 +1,5 @@
 ---
-title: "Haruki Matsudo"
+title: "松土 治樹"
 name_en: "Haruki Matsudo"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"

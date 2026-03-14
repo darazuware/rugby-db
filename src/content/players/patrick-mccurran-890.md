@@ -1,5 +1,5 @@
 ---
-title: "Patrick McCurran"
+title: "パトリック ・マクカラン"
 name_en: "Patrick McCurran"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2025)
+- ワイカト (2021 - 2025)
 - 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2025 - )

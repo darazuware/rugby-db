@@ -1,5 +1,5 @@
 ---
-title: "Ren Taninaka"
+title: "谷中 廉"
 name_en: "Ren Taninaka"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

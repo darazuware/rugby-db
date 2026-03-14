@@ -1,5 +1,5 @@
 ---
-title: "Burger Odendaal"
+title: "バーガー ・オーデンダール"
 name_en: "Burger Odendaal"
 position: "CTB"
 team: "花園近鉄ライナーズ"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2014 - 2020)
-- 🇿🇦 エミレーツ・ライオンズ (2020 - 2022)
+- ブルズ (2014 - 2020)
+- ライオンズ (2020 - 2022)
 - ワスプス (2022 - 2023)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2022 - 2023)
 - ノーサンプトン・セインツ (2023 - 2025)

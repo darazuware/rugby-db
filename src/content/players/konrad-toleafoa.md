@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2025)
+- オタゴ (2024 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

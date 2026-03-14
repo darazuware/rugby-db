@@ -1,5 +1,5 @@
 ---
-title: "Taiki Miyashita"
+title: "宮下 大輝"
 name_en: "Taiki Miyashita"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

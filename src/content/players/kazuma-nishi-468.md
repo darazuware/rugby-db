@@ -1,5 +1,5 @@
 ---
-title: "Kazuma Nishi"
+title: "西 和磨"
 name_en: "Kazuma Nishi"
 position: "PR"
 team: "リコーブラックラムズ東京"

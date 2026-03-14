@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ベイ・オブ・プレンティ (2020 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2022)
+- チーフス (2021 - 2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- ハイランダーズ (2024 - )

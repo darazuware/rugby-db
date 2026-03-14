@@ -1,5 +1,5 @@
 ---
-title: "Dick Wilson"
+title: "ディック ・ウィルソン"
 name_en: "Dick Wilson"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

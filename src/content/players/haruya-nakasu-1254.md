@@ -1,5 +1,5 @@
 ---
-title: "Haruya Nakasu"
+title: "中洲 晴陽"
 name_en: "Haruya Nakasu"
 position: "CTB"
 team: "狭山セコムラガッツ"

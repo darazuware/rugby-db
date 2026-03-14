@@ -1,5 +1,5 @@
 ---
-title: "Ayumu Sawada"
+title: "澤田 歩武"
 name_en: "Ayumu Sawada"
 position: "CTB"
 team: "狭山セコムラガッツ"

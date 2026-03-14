@@ -1,5 +1,5 @@
 ---
-title: "Tomoki Minami"
+title: "南 友紀"
 name_en: "Tomoki Minami"
 position: "PR"
 team: "横浜キヤノンイーグルス"
@@ -25,5 +25,5 @@ facebook: ""
 
 - JR九州 (2017 - 2018)
 - BIG BLUES (2018 - 2019)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2019 - 2024)
+- Toyota Industries Shuttles Aichi (2019 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Shumpei Miura"
+title: "三浦 駿平"
 name_en: "Shumpei Miura"
 position: "LO"
 team: "静岡ブルーレヴズ"

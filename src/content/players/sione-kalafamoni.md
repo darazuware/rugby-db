@@ -26,4 +26,4 @@ facebook: ""
 - Gloucester Rugby (2013 - 2017)
 - Leicester Tigers (2017 - 2020)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2019 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- Rugby Club Vannes (2023 - )

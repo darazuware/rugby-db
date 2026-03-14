@@ -1,5 +1,5 @@
 ---
-title: "TAIGA MIHARA"
+title: "三原 大河"
 name_en: "TAIGA MIHARA"
 position: "SH"
 team: "ルリーロ福岡"

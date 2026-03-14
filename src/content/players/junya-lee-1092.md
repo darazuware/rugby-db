@@ -1,5 +1,5 @@
 ---
-title: "Junya Lee"
+title: "李 淳也"
 name_en: "Junya Lee"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

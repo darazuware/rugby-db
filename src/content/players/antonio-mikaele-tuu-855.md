@@ -1,5 +1,5 @@
 ---
-title: "Antonio Mikaele-Tuu"
+title: "アントニオ ・ミカエリトゥ"
 name_en: "Antonio Mikaele-Tuu"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

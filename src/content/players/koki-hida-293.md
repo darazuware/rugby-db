@@ -1,5 +1,5 @@
 ---
-title: "Koki Hida"
+title: "肥田 晃季"
 name_en: "Koki Hida"
 position: "HO"
 team: "三重ホンダヒート"

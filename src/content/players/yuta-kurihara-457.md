@@ -1,5 +1,5 @@
 ---
-title: "Yuta Kurihara"
+title: "栗原 由太"
 name_en: "Yuta Kurihara"
 position: "CTB"
 team: "リコーブラックラムズ東京"

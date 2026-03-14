@@ -1,5 +1,5 @@
 ---
-title: "Shinobu Fujiwara"
+title: "藤原 忍"
 name_en: "Shinobu Fujiwara"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"

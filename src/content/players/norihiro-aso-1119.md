@@ -1,5 +1,5 @@
 ---
-title: "Norihiro Aso"
+title: "麻生 典宏"
 name_en: "Norihiro Aso"
 position: "PR"
 team: "日野レッドドルフィンズ"

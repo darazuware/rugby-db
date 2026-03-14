@@ -1,5 +1,5 @@
 ---
-title: "Vea Taumoefolau"
+title: "ヴェア ・タモエフォラウ"
 name_en: "Vea Taumoefolau"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

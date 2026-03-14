@@ -1,5 +1,5 @@
 ---
-title: "Shogo Tokota"
+title: "床田 聖悟"
 name_en: "Shogo Tokota"
 position: "CTB"
 team: "日野レッドドルフィンズ"

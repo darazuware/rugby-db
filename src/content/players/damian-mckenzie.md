@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2026)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2022)
+- チーフス (2014 - 2026)
+- ワイカト (2019 - 2022)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021 - )

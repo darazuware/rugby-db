@@ -1,5 +1,5 @@
 ---
-title: "Sora Torigoe"
+title: "鳥越 空"
 name_en: "Sora Torigoe"
 position: "PR"
 team: "日野レッドドルフィンズ"

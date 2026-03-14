@@ -26,5 +26,5 @@ facebook: ""
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2002 - 2015)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2011 - 2019)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2012 - 2013)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2026)
+- Rugby Club Toulonnais (2015 - 2026)
 - San Diego Legion (2019 - )

@@ -1,5 +1,5 @@
 ---
-title: "Blair Ryall"
+title: "ブレア ・ライアル"
 name_en: "Blair Ryall"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

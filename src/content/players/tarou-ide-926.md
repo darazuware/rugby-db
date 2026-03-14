@@ -1,5 +1,5 @@
 ---
-title: "TAROU IDE"
+title: "井手 太朗"
 name_en: "TAROU IDE"
 position: "WTB"
 team: "ルリーロ福岡"

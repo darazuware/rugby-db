@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2023)
+- ワラターズ (2013 - 2023)
 - ワスプス (2016 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - 2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )

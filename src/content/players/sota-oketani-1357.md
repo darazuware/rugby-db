@@ -1,5 +1,5 @@
 ---
-title: "Sota Oketani"
+title: "桶谷 宗汰"
 name_en: "Sota Oketani"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

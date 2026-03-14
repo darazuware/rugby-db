@@ -1,5 +1,5 @@
 ---
-title: "Hinata Takei"
+title: "武井 日向"
 name_en: "Hinata Takei"
 position: "HO"
 team: "リコーブラックラムズ東京"

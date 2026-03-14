@@ -1,5 +1,5 @@
 ---
-title: "Malcolm Marx"
+title: "マルコム ・マークス"
 name_en: "Malcolm Marx"
 position: "HO"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2013 - 2019)
+- ライオンズ (2013 - 2019)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2020)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "Rinpei Sakaki"
+title: "酒木 凜平"
 name_en: "Rinpei Sakaki"
 position: "HO"
 team: "東芝ブレイブルーパス東京"

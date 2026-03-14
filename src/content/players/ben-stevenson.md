@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Newcastle (2016 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Rugby Club Vannes (2025 - )

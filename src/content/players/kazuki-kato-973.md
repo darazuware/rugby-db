@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Kato"
+title: "加藤 一希"
 name_en: "Kazuki Kato"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -25,4 +25,4 @@ facebook: ""
 
 - 宗像サニックスブルース (2017 - 2022)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2022 - 2026)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - )
+- ウェリントン (2023 - )

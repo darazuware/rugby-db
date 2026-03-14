@@ -26,4 +26,4 @@ facebook: ""
 - Lelo Saracens Tbilissi (2016 - 2017)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Union Sportive Arlequins Perpignanais (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kengo Nakamura"
+title: "中村 謙吾"
 name_en: "Kengo Nakamura"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

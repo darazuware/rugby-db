@@ -1,5 +1,5 @@
 ---
-title: "Lata Tangimana"
+title: "ラタ ・タンギマナ"
 name_en: "Lata Tangimana"
 position: "PR"
 team: "花園近鉄ライナーズ"

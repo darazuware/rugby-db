@@ -1,5 +1,5 @@
 ---
-title: "Wataru Kobayashi"
+title: "小林 航"
 name_en: "Wataru Kobayashi"
 position: "LO"
 team: "東京サントリーサンゴリアス"

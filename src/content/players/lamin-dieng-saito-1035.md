@@ -1,5 +1,5 @@
 ---
-title: "Lamin Dieng Saito"
+title: "齋藤 良明慈縁"
 name_en: "Lamin Dieng Saito"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

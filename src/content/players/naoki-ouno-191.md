@@ -1,5 +1,5 @@
 ---
-title: "Naoki Ouno"
+title: "王野 尚希"
 name_en: "Naoki Ouno"
 position: "HO"
 team: "日本製鉄釜石シーウェイブス"

@@ -1,5 +1,5 @@
 ---
-title: "Shimpei Fukada"
+title: "深田 晋平"
 name_en: "Shimpei Fukada"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

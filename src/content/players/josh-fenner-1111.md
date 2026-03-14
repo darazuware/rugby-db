@@ -1,5 +1,5 @@
 ---
-title: "Josh Fenner"
+title: "ジョシュ ・フェナー"
 name_en: "Josh Fenner"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"
@@ -26,5 +26,5 @@ facebook: ""
 - Melbourne Rising (2017 - 2018)
 - ワスプス (2018 - 2020)
 - Hartpury RFC (2021 - 2022)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - 2024)
+- NTTドコモレッドハリケーンズ大阪 (2022 - 2024)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2024 - )

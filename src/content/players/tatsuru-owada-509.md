@@ -1,5 +1,5 @@
 ---
-title: "Tatsuru Owada"
+title: "大和田 立"
 name_en: "Tatsuru Owada"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"

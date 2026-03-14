@@ -1,5 +1,5 @@
 ---
-title: "Tatsuki Tanina"
+title: "谷名 樹"
 name_en: "Tatsuki Tanina"
 position: "HO"
 team: "狭山セコムラガッツ"

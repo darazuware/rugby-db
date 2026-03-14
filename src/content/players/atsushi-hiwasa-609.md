@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Hiwasa"
+title: "日和佐 篤"
 name_en: "Atsushi Hiwasa"
 position: "SH"
 team: "コベルコ神戸スティーラーズ"

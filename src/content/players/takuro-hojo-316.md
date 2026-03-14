@@ -1,5 +1,5 @@
 ---
-title: "Takuro Hojo"
+title: "北條 拓郎"
 name_en: "Takuro Hojo"
 position: "SH"
 team: "三重ホンダヒート"

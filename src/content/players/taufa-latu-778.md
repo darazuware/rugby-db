@@ -1,5 +1,5 @@
 ---
-title: "Taufa Latu"
+title: "タウファ ・ラトゥ"
 name_en: "Taufa Latu"
 position: "PR"
 team: "トヨタヴェルブリッツ"

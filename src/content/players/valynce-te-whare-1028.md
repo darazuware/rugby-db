@@ -1,5 +1,5 @@
 ---
-title: "Valynce Te Whare"
+title: "ヴァレンス ・テファレ"
 name_en: "Valynce Te Whare"
 position: "WTB"
 team: "静岡ブルーレヴズ"

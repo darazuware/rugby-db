@@ -1,5 +1,5 @@
 ---
-title: "Jack Timu"
+title: "ジャック ・ティム"
 name_en: "Jack Timu"
 position: "WTB"
 team: "静岡ブルーレヴズ"

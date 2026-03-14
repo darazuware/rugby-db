@@ -1,5 +1,5 @@
 ---
-title: "Taro Uesugi"
+title: "上杉 太郎"
 name_en: "Taro Uesugi"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

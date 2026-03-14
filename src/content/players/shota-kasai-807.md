@@ -1,5 +1,5 @@
 ---
-title: "Shota Kasai"
+title: "葛西 翔太"
 name_en: "Shota Kasai"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

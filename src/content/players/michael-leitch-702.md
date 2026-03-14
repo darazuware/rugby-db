@@ -1,5 +1,5 @@
 ---
-title: "Michael Leitch"
+title: "リーチ マイケル"
 name_en: "Michael Leitch"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2011)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2017)
+- 東芝ブレイブルーパス (2011)
+- チーフス (2013 - 2017)
 - Sunwolves (2018 - )

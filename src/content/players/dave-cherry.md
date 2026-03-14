@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2018 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Edimbourg Rugby (2018 - 2025)
+- Rugby Club Vannes (2025 - )

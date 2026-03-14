@@ -1,5 +1,5 @@
 ---
-title: "Tali Ioasa"
+title: "タリ ・イオアサ"
 name_en: "Tali Ioasa"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"

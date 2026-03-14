@@ -1,5 +1,5 @@
 ---
-title: "Changho Ahn"
+title: "安 昌豪"
 name_en: "Changho Ahn"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

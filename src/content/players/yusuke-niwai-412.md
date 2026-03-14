@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Niwai"
+title: "庭井 祐輔"
 name_en: "Yusuke Niwai"
 position: "HO"
 team: "横浜キヤノンイーグルス"

@@ -1,5 +1,5 @@
 ---
-title: "Hitaka Inoue"
+title: "井上 陽公"
 name_en: "Hitaka Inoue"
 position: "SO"
 team: "マツダスカイアクティブズ広島"

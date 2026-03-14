@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Yamato"
+title: "大和 大祐"
 name_en: "Daisuke Yamato"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Tatsuya Kanetsuki"
+title: "金築 達也"
 name_en: "Tatsuya Kanetsuki"
 position: "SH"
 team: "清水建設江東ブルーシャークス"

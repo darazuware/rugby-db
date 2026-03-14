@@ -1,5 +1,5 @@
 ---
-title: "Yuki Tsujioka"
+title: "辻岡 優希"
 name_en: "Yuki Tsujioka"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

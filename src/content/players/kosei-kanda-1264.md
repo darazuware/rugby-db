@@ -1,5 +1,5 @@
 ---
-title: "Kosei Kanda"
+title: "神田 康生"
 name_en: "Kosei Kanda"
 position: "LO"
 team: "狭山セコムラガッツ"

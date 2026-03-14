@@ -1,5 +1,5 @@
 ---
-title: "Yuki Kagoshima"
+title: "篭島 優輝"
 name_en: "Yuki Kagoshima"
 position: "SH"
 team: "日野レッドドルフィンズ"

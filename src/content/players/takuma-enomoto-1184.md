@@ -1,5 +1,5 @@
 ---
-title: "Takuma Enomoto"
+title: "榎本 拓真"
 name_en: "Takuma Enomoto"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

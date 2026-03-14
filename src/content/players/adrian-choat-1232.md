@@ -1,5 +1,5 @@
 ---
-title: "Adrian Choat"
+title: "エイドリアン ・チョウト"
 name_en: "Adrian Choat"
 position: "FL/No8"
 team: "狭山セコムラガッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018)
+- オークランド (2018)
 - ブリストル・ベアーズ (2019 - 2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2025)
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - )
+- ブルーズ (2021 - 2025)
+- Sayama Secom Rugguts (2025 - )

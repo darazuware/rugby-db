@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2017 - 2019)
+- New South Wales Country Eagles (2017 - 2019)
 - 🇫🇷 [カストル](/teams/top14/castres) (2021 - 2024)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

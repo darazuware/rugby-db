@@ -1,5 +1,5 @@
 ---
-title: "Merwe Olivier"
+title: "メルヴェ ・オリヴィエ"
 name_en: "Merwe Olivier"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ブルー・ブルズ (2021 - 2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2023 - 2024)
+- ブルズ (2023 - 2024)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2024 - )

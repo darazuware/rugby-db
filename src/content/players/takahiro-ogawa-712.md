@@ -1,5 +1,5 @@
 ---
-title: "Takahiro Ogawa"
+title: "小川 高廣"
 name_en: "Takahiro Ogawa"
 position: "SH"
 team: "東芝ブレイブルーパス東京"

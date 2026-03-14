@@ -1,5 +1,5 @@
 ---
-title: "Rikyu Yamakawa"
+title: "山川 力優"
 name_en: "Rikyu Yamakawa"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

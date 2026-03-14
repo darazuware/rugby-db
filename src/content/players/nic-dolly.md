@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2020)
+- Sale Sharks (2017 - 2020)
 - Coventry Rugby (2020 - 2021)
 - レスター・タイガース (2020 - 2024)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

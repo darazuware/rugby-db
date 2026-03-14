@@ -1,5 +1,5 @@
 ---
-title: "TATSUYA KUZUMI"
+title: "葛見 達哉"
 name_en: "TATSUYA KUZUMI"
 position: "LO"
 team: "ルリーロ福岡"

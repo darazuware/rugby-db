@@ -1,5 +1,5 @@
 ---
-title: "Shoki Morimoto"
+title: "森元 翔紀"
 name_en: "Shoki Morimoto"
 position: "CTB"
 team: "狭山セコムラガッツ"

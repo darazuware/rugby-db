@@ -1,5 +1,5 @@
 ---
-title: "Craig Millar"
+title: "クレイグ ・ミラー"
 name_en: "Craig Millar"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2013 - 2017)
+- ハイランダーズ (2013 - 2017)
 - サンウルブズ (2017 - 2019)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2019 - )

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2024)
+- オタゴ (2023 - 2024)
 - サウスランド (2024 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
+- ワラターズ (2024 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

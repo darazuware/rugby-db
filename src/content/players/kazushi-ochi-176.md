@@ -1,5 +1,5 @@
 ---
-title: "Kazushi Ochi"
+title: "落 和史"
 name_en: "Kazushi Ochi"
 position: "SO"
 team: "日本製鉄釜石シーウェイブス"

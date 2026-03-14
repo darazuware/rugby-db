@@ -26,4 +26,4 @@ facebook: ""
 - RC Canton Garde-Pradet (2009 - 2011)
 - RC Hyères Carqueiranne La Crau (2011 - 2019)
 - Antony Métro 92 (2019 - 2021)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - )
+- Rugby Club Toulonnais (2021 - )

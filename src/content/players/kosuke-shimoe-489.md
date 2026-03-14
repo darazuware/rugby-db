@@ -1,5 +1,5 @@
 ---
-title: "Kosuke Shimoe"
+title: "下江 康輔"
 name_en: "Kosuke Shimoe"
 position: "HO"
 team: "NECグリーンロケッツ東葛"

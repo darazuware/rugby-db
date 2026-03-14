@@ -27,4 +27,4 @@ facebook: ""
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2017)
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )
+- Rugby Club Toulonnais (2022 - )

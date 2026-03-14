@@ -1,5 +1,5 @@
 ---
-title: "Simon Hickey"
+title: "サイモン ・ヒッキー"
 name_en: "Simon Hickey"
 position: "SO"
 team: "日野レッドドルフィンズ"
@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2015)
+- ブルーズ (2013 - 2015)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2018)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2018 - 2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2022)
+- Edimbourg Rugby (2018 - 2020)
+- オークランド (2019 - 2022)
+- ハリケーンズ (2020 - 2021)
+- クルセイダーズ (2021 - 2022)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2022 - )

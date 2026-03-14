@@ -1,5 +1,5 @@
 ---
-title: "Pierich Siebert"
+title: "ピエリッチ ・シーバート"
 name_en: "Pierich Siebert"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

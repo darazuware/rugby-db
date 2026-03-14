@@ -1,5 +1,5 @@
 ---
-title: "Semisi Tupou"
+title: "セミシ ・トゥポウ"
 name_en: "Semisi Tupou"
 position: "WTB"
 team: "トヨタヴェルブリッツ"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - メルボルン・ライジング (2017 - 2019)
-- 🇦🇺 メルボルン・レベルズ (2017 - 2020)
+- レベルズ (2017 - 2020)
 - 埼玉WK (2021 - 2023)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2023 - 2025)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )

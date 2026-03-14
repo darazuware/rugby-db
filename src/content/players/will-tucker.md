@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2019)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2025)
+- カンタベリー (2017 - 2019)
+- ハイランダーズ (2019 - 2024)
+- オタゴ (2019 - 2025)
 - Rugby United New-York (2021 - 2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2025 - 2026)
+- ハリケーンズ (2024 - 2025)
+- クルセイダーズ (2025 - 2026)
 - AZ-COM丸和マモタローズ (2025 - )

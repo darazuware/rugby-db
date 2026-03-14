@@ -1,5 +1,5 @@
 ---
-title: "Shohei Tsujimura"
+title: "辻村 翔平"
 name_en: "Shohei Tsujimura"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

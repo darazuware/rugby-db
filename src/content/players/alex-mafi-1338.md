@@ -1,5 +1,5 @@
 ---
-title: "Alex Mafi"
+title: "アレックス ・マフィ"
 name_en: "Alex Mafi"
 position: "HO"
 team: "東京サントリーサンゴリアス"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2022)
+- レッズ (2016 - 2022)
 - 🇦🇺 メルボルン・レベルズ (2022 - 2024)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2024 - )

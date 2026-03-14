@@ -1,5 +1,5 @@
 ---
-title: "Shohei Toyoshima"
+title: "豊島 翔平"
 name_en: "Shohei Toyoshima"
 position: "FB"
 team: "東芝ブレイブルーパス東京"

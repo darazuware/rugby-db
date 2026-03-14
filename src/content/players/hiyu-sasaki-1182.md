@@ -1,5 +1,5 @@
 ---
-title: "Hiyu Sasaki"
+title: "佐々木 陽有"
 name_en: "Hiyu Sasaki"
 position: "WTB"
 team: "三菱重工相模原ダイナボアーズ"

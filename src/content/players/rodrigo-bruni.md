@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Jaguares (2018 - 2020)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2022)
+- Rugby Club Vannes (2020 - 2022)
 - CA Brive Corrèze Limousin (2022 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Rye On Yoon"
+title: "尹 礼温"
 name_en: "Rye On Yoon"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"

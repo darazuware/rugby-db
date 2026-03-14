@@ -1,5 +1,5 @@
 ---
-title: "Aki Kajihara"
+title: "梶原 瑛"
 name_en: "Aki Kajihara"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

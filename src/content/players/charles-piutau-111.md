@@ -1,5 +1,5 @@
 ---
-title: "Charles Piutau"
+title: "チャールズ ・ピウタウ"
 name_en: "Charles Piutau"
 position: "CTB"
 team: "静岡ブルーレヴズ"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2015)
+- ブルーズ (2013 - 2015)
 - ワスプス (2015 - 2016)
-- 🇮🇪 アルスター・ラグビー (2016 - 2018)
+- アルスター (2016 - 2018)
 - ブリストル・ベアーズ (2018 - 2023)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2023 - )

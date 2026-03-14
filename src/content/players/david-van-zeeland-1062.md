@@ -1,5 +1,5 @@
 ---
-title: "David Van Zeeland"
+title: "デーヴィッド ・ヴァンジーランド"
 name_en: "David Van Zeeland"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Takanobu Minami"
+title: "南 昂伸"
 name_en: "Takanobu Minami"
 position: "SH"
 team: "リコーブラックラムズ東京"

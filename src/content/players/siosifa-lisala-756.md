@@ -1,5 +1,5 @@
 ---
-title: "Siosifa Lisala"
+title: "リサラ シオシファ"
 name_en: "Siosifa Lisala"
 position: "CTB"
 team: "浦安D-Rocks"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2018 - 2020)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2020)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- ワラターズ (2019 - 2020)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - JSI Elne (2011 - 2019)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2019 - )
+- Union Sportive Arlequins Perpignanais (2019 - )

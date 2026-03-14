@@ -1,5 +1,5 @@
 ---
-title: "Justin Sangster"
+title: "ジャスティン ・サングスター"
 name_en: "Justin Sangster"
 position: "LO"
 team: "静岡ブルーレヴズ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ベイ・オブ・プレンティ (2021 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
+- ハリケーンズ (2022 - 2024)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2024 - )

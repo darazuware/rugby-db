@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - RC Salanque XV (2013 - 2022)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022 - )
+- Union Sportive Arlequins Perpignanais (2022 - )

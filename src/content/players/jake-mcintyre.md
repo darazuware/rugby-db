@@ -27,4 +27,4 @@ facebook: ""
 - Sporting Union Agenais (2017 - 2019)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2021)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2022)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022 - )
+- Union Sportive Arlequins Perpignanais (2022 - )

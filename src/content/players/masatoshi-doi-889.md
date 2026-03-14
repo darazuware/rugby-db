@@ -1,5 +1,5 @@
 ---
-title: "Masatoshi Doi"
+title: "土井 將聖"
 name_en: "Masatoshi Doi"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

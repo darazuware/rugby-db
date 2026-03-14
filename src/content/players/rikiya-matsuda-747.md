@@ -1,5 +1,5 @@
 ---
-title: "Rikiya Matsuda"
+title: "松田 力也"
 name_en: "Rikiya Matsuda"
 position: "SO"
 team: "トヨタヴェルブリッツ"

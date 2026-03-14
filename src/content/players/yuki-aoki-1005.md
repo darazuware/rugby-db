@@ -1,5 +1,5 @@
 ---
-title: "Yuki Aoki"
+title: "青木 祐樹"
 name_en: "Yuki Aoki"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"

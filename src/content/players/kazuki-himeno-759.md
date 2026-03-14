@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Himeno"
+title: "姫野 和樹"
 name_en: "Kazuki Himeno"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"
@@ -25,4 +25,4 @@ facebook: ""
 
 - サンウルブズ (2017 - 2019)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2017 - 2026)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - )
+- ハイランダーズ (2020 - )

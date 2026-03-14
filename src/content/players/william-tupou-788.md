@@ -1,5 +1,5 @@
 ---
-title: "William Tupou"
+title: "ウィリアム ・トゥポウ"
 name_en: "William Tupou"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

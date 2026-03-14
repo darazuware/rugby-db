@@ -1,5 +1,5 @@
 ---
-title: "Mikiya Takamoto"
+title: "高本 幹也"
 name_en: "Mikiya Takamoto"
 position: "SO"
 team: "東京サントリーサンゴリアス"

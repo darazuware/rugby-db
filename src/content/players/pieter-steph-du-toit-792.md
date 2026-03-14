@@ -1,5 +1,5 @@
 ---
-title: "Pieter Steph Du Toit"
+title: "ピーターステフ ・デュトイ"
 name_en: "Pieter Steph Du Toit"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2013 - 2015)
-- 🇿🇦 DHLストーマーズ (2015 - 2021)
+- シャークス (2013 - 2015)
+- ストーマーズ (2015 - 2021)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2021 - )

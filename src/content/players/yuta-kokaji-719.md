@@ -1,5 +1,5 @@
 ---
-title: "Yuta Kokaji"
+title: "小鍜治 悠太"
 name_en: "Yuta Kokaji"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

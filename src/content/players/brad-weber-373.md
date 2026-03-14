@@ -1,5 +1,5 @@
 ---
-title: "Brad WEBER"
+title: "ブラッド ・ウェバー"
 name_en: "Brad WEBER"
 position: "SH"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)
+- チーフス (2013 - 2023)
 - ホークスベイ (2019 - 2023)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - 2026)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

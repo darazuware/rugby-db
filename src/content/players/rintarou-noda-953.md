@@ -1,5 +1,5 @@
 ---
-title: "RINTAROU NODA"
+title: "野田 麟太郎"
 name_en: "RINTAROU NODA"
 position: "PR"
 team: "ルリーロ福岡"

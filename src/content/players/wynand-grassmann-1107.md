@@ -1,5 +1,5 @@
 ---
-title: "Wynand Grassmann"
+title: "ワイナンド ・グラスマン"
 name_en: "Wynand Grassmann"
 position: "LO"
 team: "日野レッドドルフィンズ"

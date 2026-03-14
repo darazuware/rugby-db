@@ -1,5 +1,5 @@
 ---
-title: "Jui Nakamori"
+title: "中森 樹生"
 name_en: "Jui Nakamori"
 position: "PR"
 team: "清水建設江東ブルーシャークス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2025 - )
+- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2025 - )

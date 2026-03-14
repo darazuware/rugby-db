@@ -1,5 +1,5 @@
 ---
-title: "Kouga Yoshida"
+title: "吉田 輝雅"
 name_en: "Kouga Yoshida"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Ken Hiyoshi"
+title: "日吉 健"
 name_en: "Ken Hiyoshi"
 position: "HO"
 team: "東芝ブレイブルーパス東京"

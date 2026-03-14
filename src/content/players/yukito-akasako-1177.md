@@ -1,5 +1,5 @@
 ---
-title: "Yukito Akasako"
+title: "赤迫 幸知"
 name_en: "Yukito Akasako"
 position: "SH"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

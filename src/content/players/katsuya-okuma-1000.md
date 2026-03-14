@@ -1,5 +1,5 @@
 ---
-title: "Katsuya Okuma"
+title: "大熊 克哉"
 name_en: "Katsuya Okuma"
 position: "HO"
 team: "クボタスピアーズ船橋・東京ベイ"

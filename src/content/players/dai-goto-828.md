@@ -1,5 +1,5 @@
 ---
-title: "Dai Goto"
+title: "後藤 大"
 name_en: "Dai Goto"
 position: "SH"
 team: "マツダスカイアクティブズ広島"

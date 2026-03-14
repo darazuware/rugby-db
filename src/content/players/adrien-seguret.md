@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Sporting Club Albigeois (2010 - 2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2019)
+- Lyon Olympique Universitaire Rugby (2017 - 2019)
 - Stade Montois Rugby Pro (2019 - 2020)
 - FC Grenoble Rugby (2020 - 2022)
 - 🇫🇷 [カストル](/teams/top14/castres) (2022 - 2026)

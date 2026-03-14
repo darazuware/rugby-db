@@ -1,5 +1,5 @@
 ---
-title: "Shogo Miura"
+title: "三浦 昌悟"
 name_en: "Shogo Miura"
 position: "PR"
 team: "トヨタヴェルブリッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Taisei Nakao"
+title: "中尾 泰星"
 name_en: "Taisei Nakao"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"

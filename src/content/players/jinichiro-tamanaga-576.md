@@ -1,5 +1,5 @@
 ---
-title: "Jinichiro Tamanaga"
+title: "玉永 仁一郎"
 name_en: "Jinichiro Tamanaga"
 position: "PR"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Riki Takebe"
+title: "竹部 力"
 name_en: "Riki Takebe"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

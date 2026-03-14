@@ -1,5 +1,5 @@
 ---
-title: "Kippei Taninaka"
+title: "谷中 樹平"
 name_en: "Kippei Taninaka"
 position: "SH"
 team: "トヨタヴェルブリッツ"

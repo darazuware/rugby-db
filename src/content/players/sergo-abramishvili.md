@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Khvamli Rugby (2020 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - )
+- Stade Français Paris Rugby (2021 - )

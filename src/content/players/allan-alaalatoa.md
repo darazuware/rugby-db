@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2013 - )
+- ブランビーズ (2013 - )

@@ -1,5 +1,5 @@
 ---
-title: "Taiyo Fukuyama"
+title: "福山 太陽"
 name_en: "Taiyo Fukuyama"
 position: "SH"
 team: "マツダスカイアクティブズ広島"

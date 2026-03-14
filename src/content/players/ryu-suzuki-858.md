@@ -1,5 +1,5 @@
 ---
-title: "Ryu Suzuki"
+title: "鈴木 龍"
 name_en: "Ryu Suzuki"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

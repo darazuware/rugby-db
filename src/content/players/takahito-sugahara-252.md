@@ -1,5 +1,5 @@
 ---
-title: "Takahito Sugahara"
+title: "菅原 貴人"
 name_en: "Takahito Sugahara"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

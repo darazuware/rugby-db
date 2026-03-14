@@ -1,5 +1,5 @@
 ---
-title: "Harrison Goddard"
+title: "ハリソン ・ゴダード"
 name_en: "Harrison Goddard"
 position: "SH"
 team: "清水建設江東ブルーシャークス"
@@ -27,6 +27,6 @@ facebook: ""
 - Randwick Rugby (2018 - 2019)
 - Gordon Rugby Football Club (2019 - 2022)
 - LA Giltinis (2020 - 2022)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2025)
+- ワラターズ (2022 - 2023)
+- ブランビーズ (2023 - 2025)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2025 - )

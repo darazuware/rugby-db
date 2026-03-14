@@ -1,5 +1,5 @@
 ---
-title: "Daniel Perez"
+title: "ダニエル ・ペレズ"
 name_en: "Daniel Perez"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

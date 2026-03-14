@@ -1,5 +1,5 @@
 ---
-title: "Troy Hallett"
+title: "トロイ ・ハレット"
 name_en: "Troy Hallett"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

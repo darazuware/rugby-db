@@ -1,5 +1,5 @@
 ---
-title: "Kanaru Takahashi"
+title: "高橋 香成"
 name_en: "Kanaru Takahashi"
 position: "SH"
 team: "狭山セコムラガッツ"

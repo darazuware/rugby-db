@@ -1,5 +1,5 @@
 ---
-title: "Kaen Hirano"
+title: "平野 叶苑"
 name_en: "Kaen Hirano"
 position: "HO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2025 - )
+- 中国電力レッドレギュリオンズ (2025 - )

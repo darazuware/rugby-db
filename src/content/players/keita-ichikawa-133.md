@@ -1,5 +1,5 @@
 ---
-title: "Keita Ichikawa"
+title: "市川 敬太"
 name_en: "Keita Ichikawa"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

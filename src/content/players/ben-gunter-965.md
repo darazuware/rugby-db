@@ -1,5 +1,5 @@
 ---
-title: "Ben Gunter"
+title: "ベン ・ガンター"
 name_en: "Ben Gunter"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

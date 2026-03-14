@@ -1,5 +1,5 @@
 ---
-title: "Hayato Miyazaki"
+title: "宮嵜 隼人"
 name_en: "Hayato Miyazaki"
 position: "SO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2023 - )
+- 中国電力レッドレギュリオンズ (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Josh Goodhue"
+title: "ジョシュ ・グッドヒュー"
 name_en: "Josh Goodhue"
 position: "LO"
 team: "リコーブラックラムズ東京"

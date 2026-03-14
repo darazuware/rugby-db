@@ -1,5 +1,5 @@
 ---
-title: "Futo Yamaguchi"
+title: "山口 楓斗"
 name_en: "Futo Yamaguchi"
 position: "FB"
 team: "静岡ブルーレヴズ"

@@ -1,5 +1,5 @@
 ---
-title: "Kennta Kitayama"
+title: "北山 絢大"
 name_en: "Kennta Kitayama"
 position: "WTB"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2023 - )
+- 中国電力レッドレギュリオンズ (2023 - )

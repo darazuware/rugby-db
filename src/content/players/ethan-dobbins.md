@@ -25,4 +25,4 @@ facebook: ""
 
 - West Brisbane Bulldogs (2021 - 2023)
 - 🇦🇺 メルボルン・レベルズ (2023 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- ワラターズ (2024 - )

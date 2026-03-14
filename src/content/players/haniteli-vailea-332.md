@@ -1,5 +1,5 @@
 ---
-title: "HANITELI VAILEA"
+title: "ハニテリ ・ヴァイレア"
 name_en: "HANITELI VAILEA"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

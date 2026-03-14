@@ -1,5 +1,5 @@
 ---
-title: "Otoya Kihara"
+title: "木原 音弥"
 name_en: "Otoya Kihara"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"

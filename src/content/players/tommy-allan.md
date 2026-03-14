@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2026)
+- Union Sportive Arlequins Perpignanais (2013 - 2026)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2016 - 2021)
 - Harlequins (2021 - )

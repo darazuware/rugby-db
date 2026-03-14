@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Biarritz Olympique Pays Basque (2020 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- Stade Français Paris Rugby (2024 - )

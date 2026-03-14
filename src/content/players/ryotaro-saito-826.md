@@ -1,5 +1,5 @@
 ---
-title: "Ryotaro Saito"
+title: "齊藤 遼太郎"
 name_en: "Ryotaro Saito"
 position: "SO"
 team: "マツダスカイアクティブズ広島"

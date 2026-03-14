@@ -1,5 +1,5 @@
 ---
-title: "Shoon Kataoka"
+title: "片岡 初音"
 name_en: "Shoon Kataoka"
 position: "WTB"
 team: "ルリーロ福岡"

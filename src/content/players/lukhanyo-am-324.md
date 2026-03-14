@@ -1,5 +1,5 @@
 ---
-title: "Lukhanyo Am"
+title: "ルカニョ ・アム"
 name_en: "Lukhanyo Am"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Southern Kings (2015 - 2016)
-- 🇿🇦 ハリウッドベッツ・シャークス (2016 - 2026)
+- シャークス (2016 - 2026)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - 2022)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

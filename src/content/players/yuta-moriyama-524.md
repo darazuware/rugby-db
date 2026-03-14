@@ -1,5 +1,5 @@
 ---
-title: "Yuta Moriyama"
+title: "森山 雄太"
 name_en: "Yuta Moriyama"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"

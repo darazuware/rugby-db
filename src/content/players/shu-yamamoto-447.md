@@ -1,5 +1,5 @@
 ---
-title: "Shu Yamamoto"
+title: "山本 秀"
 name_en: "Shu Yamamoto"
 position: "LO"
 team: "リコーブラックラムズ東京"

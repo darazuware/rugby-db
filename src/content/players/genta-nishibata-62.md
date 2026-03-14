@@ -1,5 +1,5 @@
 ---
-title: "Genta Nishibata"
+title: "西端 玄汰"
 name_en: "Genta Nishibata"
 position: "FB"
 team: "清水建設江東ブルーシャークス"

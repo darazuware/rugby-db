@@ -1,5 +1,5 @@
 ---
-title: "Yohei Murakami"
+title: "村上 陽平"
 name_en: "Yohei Murakami"
 position: "SH"
 team: "日本製鉄釜石シーウェイブス"

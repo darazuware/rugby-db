@@ -27,4 +27,4 @@ facebook: ""
 - Jaguares (2019 - 2020)
 - Jaguares XV (2020 - 2021)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2021 - 2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Amato Fakatava"
+title: "ファカタヴァ アマト"
 name_en: "Amato Fakatava"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"

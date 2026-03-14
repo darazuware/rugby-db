@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Sakate"
+title: "坂手 淳史"
 name_en: "Atsushi Sakate"
 position: "HO"
 team: "埼玉パナソニックワイルドナイツ"

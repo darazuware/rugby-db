@@ -25,5 +25,5 @@ facebook: ""
 
 - Boucau Tarnos Stade (2004 - 2009)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2021)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Rugby Club Toulonnais (2021 - 2024)
+- Section Paloise Béarn Pyrénées (2024 - )

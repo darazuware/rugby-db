@@ -1,5 +1,5 @@
 ---
-title: "Kosei Miki"
+title: "三木 皓正"
 name_en: "Kosei Miki"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

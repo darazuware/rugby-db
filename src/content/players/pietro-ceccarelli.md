@@ -28,6 +28,6 @@ facebook: ""
 - AS Mâcon Rugby (2014 - 2015)
 - 🇮🇹 ゼブレ・パルマ (2015 - 2017)
 - Oyonnax Rugby (2017 - 2018)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2018 - 2020)
+- Edimbourg Rugby (2018 - 2020)
 - CA Brive Corrèze Limousin (2020 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Union Sportive Arlequins Perpignanais (2023 - )

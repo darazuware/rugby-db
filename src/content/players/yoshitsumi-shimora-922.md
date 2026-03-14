@@ -1,5 +1,5 @@
 ---
-title: "YOSHITSUMI SHIMORA"
+title: "下良 好純"
 name_en: "YOSHITSUMI SHIMORA"
 position: "WTB"
 team: "ルリーロ福岡"

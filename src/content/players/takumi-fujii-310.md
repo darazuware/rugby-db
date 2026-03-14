@@ -1,5 +1,5 @@
 ---
-title: "Takumi Fujii"
+title: "藤井 拓海"
 name_en: "Takumi Fujii"
 position: "PR"
 team: "三重ホンダヒート"

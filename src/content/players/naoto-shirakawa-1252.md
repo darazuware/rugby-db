@@ -1,5 +1,5 @@
 ---
-title: "Naoto Shirakawa"
+title: "白川 直人"
 name_en: "Naoto Shirakawa"
 position: "PR"
 team: "狭山セコムラガッツ"

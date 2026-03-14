@@ -1,5 +1,5 @@
 ---
-title: "Shota matsuoka"
+title: "松岡 将大"
 name_en: "Shota matsuoka"
 position: "PR"
 team: "横浜キヤノンイーグルス"

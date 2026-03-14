@@ -1,5 +1,5 @@
 ---
-title: "Christian Lealiifano"
+title: "クリスチャン ・リアリーファノ"
 name_en: "Christian Lealiifano"
 position: "SO"
 team: "豊田自動織機シャトルズ愛知"

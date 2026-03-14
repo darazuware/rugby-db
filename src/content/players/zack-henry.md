@@ -26,5 +26,5 @@ facebook: ""
 - Rouen Normandie Rugby (2016 - 2018)
 - USON Nevers Rugby (2018 - 2020)
 - Leicester Tigers (2019 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - 2023)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Section Paloise Béarn Pyrénées (2021 - 2023)
+- Stade Français Paris Rugby (2023 - )

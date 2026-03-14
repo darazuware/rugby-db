@@ -1,5 +1,5 @@
 ---
-title: "Keita Fujiwara"
+title: "藤原 恵太"
 name_en: "Keita Fujiwara"
 position: "SH"
 team: "花園近鉄ライナーズ"

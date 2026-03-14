@@ -1,5 +1,5 @@
 ---
-title: "Taisei Okamoto"
+title: "岡本 泰斉"
 name_en: "Taisei Okamoto"
 position: "SH"
 team: "豊田自動織機シャトルズ愛知"

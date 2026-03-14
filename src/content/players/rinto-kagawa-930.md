@@ -1,5 +1,5 @@
 ---
-title: "RINTO KAGAWA"
+title: "香川 凜人"
 name_en: "RINTO KAGAWA"
 position: "CTB"
 team: "ルリーロ福岡"

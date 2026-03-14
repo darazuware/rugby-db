@@ -1,5 +1,5 @@
 ---
-title: "Kanta Hattori"
+title: "服部 莞太"
 name_en: "Kanta Hattori"
 position: "SH"
 team: "日野レッドドルフィンズ"

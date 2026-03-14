@@ -1,5 +1,5 @@
 ---
-title: "Shohei Oyama"
+title: "大山 祥平"
 name_en: "Shohei Oyama"
 position: "PR"
 team: "リコーブラックラムズ東京"

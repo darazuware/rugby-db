@@ -1,5 +1,5 @@
 ---
-title: "Kohki Matsumoto"
+title: "松本 光貴"
 name_en: "Kohki Matsumoto"
 position: "LO"
 team: "三菱重工相模原ダイナボアーズ"

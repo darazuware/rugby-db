@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Hanada"
+title: "花田 広樹"
 name_en: "Hiroki Hanada"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 宗像サニックスブルース (2021 - 2022)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

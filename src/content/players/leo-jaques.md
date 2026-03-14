@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Eastern Suburbs RFC (2024 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ワラターズ (2025 - )

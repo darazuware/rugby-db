@@ -1,5 +1,5 @@
 ---
-title: "Liekina Kaufusi"
+title: "リエキナ ・カウフシ"
 name_en: "Liekina Kaufusi"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

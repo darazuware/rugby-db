@@ -1,5 +1,5 @@
 ---
-title: "Hiroaki Saito"
+title: "齊藤 大朗"
 name_en: "Hiroaki Saito"
 position: "WTB"
 team: "豊田自動織機シャトルズ愛知"

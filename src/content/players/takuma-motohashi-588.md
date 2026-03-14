@@ -1,5 +1,5 @@
 ---
-title: "Takuma Motohashi"
+title: "本橋 拓馬"
 name_en: "Takuma Motohashi"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"

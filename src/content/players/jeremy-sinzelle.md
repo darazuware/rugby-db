@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Rugby Nice Côte d'Azur Université Racing (2003 - 2006)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2026)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - 2017)
+- Rugby Club Toulonnais (2006 - 2026)
+- Stade Français Paris Rugby (2012 - 2017)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )

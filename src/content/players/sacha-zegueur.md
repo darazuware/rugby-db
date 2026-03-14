@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Oyonnax Rugby (2010 - 2022)
-- 🇫🇷 [ポー](/teams/top14/pau) (2022 - )
+- Section Paloise Béarn Pyrénées (2022 - )

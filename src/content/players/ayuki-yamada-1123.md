@@ -1,5 +1,5 @@
 ---
-title: "Ayuki Yamada"
+title: "山田 歩季"
 name_en: "Ayuki Yamada"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

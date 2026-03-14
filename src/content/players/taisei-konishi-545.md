@@ -1,5 +1,5 @@
 ---
-title: "Taisei Konishi"
+title: "小西 泰聖"
 name_en: "Taisei Konishi"
 position: "SH"
 team: "浦安D-Rocks"

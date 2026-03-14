@@ -1,5 +1,5 @@
 ---
-title: "Eigi Fushimi"
+title: "伏見 永城"
 name_en: "Eigi Fushimi"
 position: "SH"
 team: "ヤクルトレビンズ戸田"

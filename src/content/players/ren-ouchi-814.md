@@ -1,5 +1,5 @@
 ---
-title: "Ren Ouchi"
+title: "大内 錬"
 name_en: "Ren Ouchi"
 position: "FB"
 team: "マツダスカイアクティブズ広島"

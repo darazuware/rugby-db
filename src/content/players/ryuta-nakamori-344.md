@@ -1,5 +1,5 @@
 ---
-title: "Ryuta Nakamori"
+title: "中森 隆太"
 name_en: "Ryuta Nakamori"
 position: "SH"
 team: "三菱重工相模原ダイナボアーズ"

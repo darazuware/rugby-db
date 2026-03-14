@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sydney (2018 - 2019)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2026)
+- ワラターズ (2019 - 2026)
 - Northern Suburbs RFC (2020 - )

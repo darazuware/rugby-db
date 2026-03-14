@@ -1,5 +1,5 @@
 ---
-title: "RYOUSEI KOHARA"
+title: "小原 稜生"
 name_en: "RYOUSEI KOHARA"
 position: "FL/No8"
 team: "ルリーロ福岡"

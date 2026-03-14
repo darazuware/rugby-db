@@ -1,5 +1,5 @@
 ---
-title: "Riki Tanaka"
+title: "田中 利輝"
 name_en: "Riki Tanaka"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"

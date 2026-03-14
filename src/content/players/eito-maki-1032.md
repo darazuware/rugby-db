@@ -1,5 +1,5 @@
 ---
-title: "Eito Maki"
+title: "槇 瑛人"
 name_en: "Eito Maki"
 position: "WTB"
 team: "静岡ブルーレヴズ"

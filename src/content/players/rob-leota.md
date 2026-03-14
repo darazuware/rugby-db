@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2015 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
+- New South Wales Waratahs (2024 - 2025)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

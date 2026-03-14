@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
+- オークランド (2020 - 2024)
+- ブルーズ (2021 - 2022)
 - 🇦🇺 メルボルン・レベルズ (2022 - 2024)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

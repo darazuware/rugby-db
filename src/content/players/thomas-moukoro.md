@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )
+- Rugby Club Vannes (2023 - 2025)
+- Lyon Olympique Universitaire Rugby (2025 - )

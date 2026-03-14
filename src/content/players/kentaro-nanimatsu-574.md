@@ -1,5 +1,5 @@
 ---
-title: "Kentaro Nanimatsu"
+title: "何松 健太郎"
 name_en: "Kentaro Nanimatsu"
 position: "CTB"
 team: "浦安D-Rocks"

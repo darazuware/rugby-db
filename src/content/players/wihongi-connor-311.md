@@ -1,5 +1,5 @@
 ---
-title: "Wihongi Connor"
+title: "コナー ・ウィホンギ"
 name_en: "Wihongi Connor"
 position: "LO"
 team: "三重ホンダヒート"

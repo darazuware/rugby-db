@@ -1,5 +1,5 @@
 ---
-title: "Kota Hojo"
+title: "北條 耕太"
 name_en: "Kota Hojo"
 position: "HO"
 team: "クリタウォーターガッシュ昭島"

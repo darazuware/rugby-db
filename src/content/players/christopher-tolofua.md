@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2007 - 2017)
 - Saracens (2017 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - 2024)
+- Rugby Club Toulonnais (2019 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )

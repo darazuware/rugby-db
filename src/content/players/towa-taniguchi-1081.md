@@ -1,5 +1,5 @@
 ---
-title: "Towa Taniguchi"
+title: "谷口 永遠"
 name_en: "Towa Taniguchi"
 position: "HO"
 team: "日野レッドドルフィンズ"

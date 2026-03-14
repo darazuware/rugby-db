@@ -1,5 +1,5 @@
 ---
-title: "Patrick Vakata"
+title: "パトリック ・ヴァカタ"
 name_en: "Patrick Vakata"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

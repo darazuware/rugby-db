@@ -1,5 +1,5 @@
 ---
-title: "Arito Takahashi"
+title: "高橋 在人"
 name_en: "Arito Takahashi"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

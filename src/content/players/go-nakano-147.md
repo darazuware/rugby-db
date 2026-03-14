@@ -1,5 +1,5 @@
 ---
-title: "Go Nakano"
+title: "中野 豪"
 name_en: "Go Nakano"
 position: "WTB"
 team: "豊田自動織機シャトルズ愛知"

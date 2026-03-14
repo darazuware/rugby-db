@@ -1,5 +1,5 @@
 ---
-title: "Harumichi Tatekawa"
+title: "立川 理道"
 name_en: "Harumichi Tatekawa"
 position: "CTB"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - S東京ベイ (2012)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2014)
+- ブランビーズ (2014)
 - Sunwolves (2016 - 2019)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - )
+- オタゴ (2019 - )

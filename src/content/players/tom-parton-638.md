@@ -1,5 +1,5 @@
 ---
-title: "Tom Parton"
+title: "トム ・パートン"
 name_en: "Tom Parton"
 position: "UTB"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Takuma Shoji"
+title: "庄司 拓馬"
 name_en: "Takuma Shoji"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

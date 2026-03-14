@@ -1,5 +1,5 @@
 ---
-title: "Hayata Nakao"
+title: "中尾 隼太"
 name_en: "Hayata Nakao"
 position: "SO"
 team: "三重ホンダヒート"

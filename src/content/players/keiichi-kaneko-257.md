@@ -1,5 +1,5 @@
 ---
-title: "Keiichi Kaneko"
+title: "金子 惠一"
 name_en: "Keiichi Kaneko"
 position: "HO"
 team: "花園近鉄ライナーズ"

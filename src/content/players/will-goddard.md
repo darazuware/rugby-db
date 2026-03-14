@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2026)
+- ワラターズ (2023 - 2026)
 - Eastwood Rugby Club (2024 - )

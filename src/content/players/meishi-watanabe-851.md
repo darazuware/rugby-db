@@ -1,5 +1,5 @@
 ---
-title: "Meishi Watanabe"
+title: "渡辺 明志"
 name_en: "Meishi Watanabe"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

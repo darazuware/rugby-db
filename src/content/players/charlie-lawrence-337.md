@@ -1,5 +1,5 @@
 ---
-title: "Charlie Lawrence"
+title: "チャーリー ・ローレンス"
 name_en: "Charlie Lawrence"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

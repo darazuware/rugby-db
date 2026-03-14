@@ -1,5 +1,5 @@
 ---
-title: "Katsuyuki Hoshino"
+title: "星野 克之"
 name_en: "Katsuyuki Hoshino"
 position: "PR"
 team: "三重ホンダヒート"

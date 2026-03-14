@@ -1,5 +1,5 @@
 ---
-title: "Mitsuki Ito"
+title: "伊藤 光希"
 name_en: "Mitsuki Ito"
 position: "SH"
 team: "ヤクルトレビンズ戸田"

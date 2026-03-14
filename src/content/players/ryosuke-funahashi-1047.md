@@ -1,5 +1,5 @@
 ---
-title: "Ryosuke Funahashi"
+title: "舟橋 諒将"
 name_en: "Ryosuke Funahashi"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

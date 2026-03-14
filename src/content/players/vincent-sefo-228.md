@@ -1,5 +1,5 @@
 ---
-title: "Vincent sefo"
+title: "ヴィンセント ・セフォ"
 name_en: "Vincent sefo"
 position: "CTB"
 team: "花園近鉄ライナーズ"

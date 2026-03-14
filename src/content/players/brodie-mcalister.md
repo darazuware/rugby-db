@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )
+- クルセイダーズ (2018 - 2024)
+- カンタベリー (2019 - 2025)
+- チーフス (2024 - )

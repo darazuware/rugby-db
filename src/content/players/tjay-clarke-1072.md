@@ -1,5 +1,5 @@
 ---
-title: "Tjay Clarke"
+title: "ティージェイ ・クラーク"
 name_en: "Tjay Clarke"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
+- ウェリントン (2022 - 2025)
+- ハリケーンズ (2024 - 2025)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2025 - )

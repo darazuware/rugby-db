@@ -1,5 +1,5 @@
 ---
-title: "Yasunari Isoda"
+title: "磯田 泰成"
 name_en: "Yasunari Isoda"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"

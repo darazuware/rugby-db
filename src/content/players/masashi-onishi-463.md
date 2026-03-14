@@ -1,5 +1,5 @@
 ---
-title: "Masashi Onishi"
+title: "大西 将史"
 name_en: "Masashi Onishi"
 position: "HO"
 team: "リコーブラックラムズ東京"

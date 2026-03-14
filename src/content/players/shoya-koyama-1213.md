@@ -1,5 +1,5 @@
 ---
-title: "Shoya Koyama"
+title: "小山 翔也"
 name_en: "Shoya Koyama"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

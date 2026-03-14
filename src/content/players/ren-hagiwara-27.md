@@ -1,5 +1,5 @@
 ---
-title: "Ren Hagiwara"
+title: "萩原 蓮"
 name_en: "Ren Hagiwara"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"

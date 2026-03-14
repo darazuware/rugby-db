@@ -1,5 +1,5 @@
 ---
-title: "Takumi Suzuki"
+title: "鈴木 匠"
 name_en: "Takumi Suzuki"
 position: "FB"
 team: "豊田自動織機シャトルズ愛知"

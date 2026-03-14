@@ -1,5 +1,5 @@
 ---
-title: "Kazuma Matsuda"
+title: "松田 一真"
 name_en: "Kazuma Matsuda"
 position: "HO"
 team: "花園近鉄ライナーズ"

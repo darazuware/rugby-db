@@ -1,5 +1,5 @@
 ---
-title: "Sanshiro Nomura"
+title: "野村 三四郎"
 name_en: "Sanshiro Nomura"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Issa Yamakawa"
+title: "山川 一瑳"
 name_en: "Issa Yamakawa"
 position: "LO"
 team: "トヨタヴェルブリッツ"

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )
+- Canterbury (2019 - 2022)
+- Lyon Olympique Universitaire Rugby (2022 - )

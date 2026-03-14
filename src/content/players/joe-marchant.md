@@ -25,4 +25,4 @@ facebook: ""
 
 - Harlequins (2014 - 2023)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Stade Français Paris Rugby (2023 - )

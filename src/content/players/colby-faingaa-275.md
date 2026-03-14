@@ -1,5 +1,5 @@
 ---
-title: "Colby Faingaa"
+title: "コルビー ・ファインガア"
 name_en: "Colby Faingaa"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2010 - 2013)
-- 🇦🇺 メルボルン・レベルズ (2014 - 2018)
+- ブランビーズ (2010 - 2013)
+- レベルズ (2014 - 2018)
 - メルボルン・ライジング (2015 - 2016)
-- 🇮🇪 コナート・ラグビー (2018 - 2020)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2020 - 2022)
+- コナート (2018 - 2020)
+- リヨンOU (2020 - 2022)
 - 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2022 - )

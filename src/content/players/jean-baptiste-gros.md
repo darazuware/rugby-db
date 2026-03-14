@@ -25,4 +25,4 @@ facebook: ""
 
 - US Tarascon (2009 - 2013)
 - Provence Rugby (2013 - 2016)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - )
+- Rugby Club Toulonnais (2016 - )

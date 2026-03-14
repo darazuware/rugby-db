@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- ワイカト (2022 - 2024)
+- チーフス (2023 - 2024)
+- オークランド (2024 - 2025)
+- ハイランダーズ (2024 - )

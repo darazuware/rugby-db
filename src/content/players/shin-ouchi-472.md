@@ -1,5 +1,5 @@
 ---
-title: "Shin Ouchi"
+title: "大内 真"
 name_en: "Shin Ouchi"
 position: "HO"
 team: "リコーブラックラムズ東京"

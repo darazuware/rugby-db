@@ -1,5 +1,5 @@
 ---
-title: "Hikaru Moriwaki"
+title: "森脇 光"
 name_en: "Hikaru Moriwaki"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

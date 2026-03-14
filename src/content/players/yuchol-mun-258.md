@@ -1,5 +1,5 @@
 ---
-title: "Yuchol Mun"
+title: "文 裕徹"
 name_en: "Yuchol Mun"
 position: "PR"
 team: "花園近鉄ライナーズ"

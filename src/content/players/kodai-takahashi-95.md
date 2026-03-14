@@ -1,5 +1,5 @@
 ---
-title: "Kodai Takahashi"
+title: "高橋 広大"
 name_en: "Kodai Takahashi"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"

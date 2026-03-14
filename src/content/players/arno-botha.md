@@ -26,4 +26,4 @@ facebook: ""
 - 🇿🇦 ヴォーダコム・ブルズ (2014 - 2022)
 - London Irish (2017 - 2018)
 - 🇮🇪 マンスター・ラグビー (2018 - 2020)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

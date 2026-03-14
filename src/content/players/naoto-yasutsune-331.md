@@ -1,5 +1,5 @@
 ---
-title: "Naoto Yasutsune"
+title: "安恒 直人"
 name_en: "Naoto Yasutsune"
 position: "HO"
 team: "三菱重工相模原ダイナボアーズ"

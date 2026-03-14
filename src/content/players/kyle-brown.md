@@ -25,4 +25,4 @@ facebook: ""
 
 - マナワツ (2022 - 2025)
 - Utah Warriors (2024 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- チーフス (2025 - )

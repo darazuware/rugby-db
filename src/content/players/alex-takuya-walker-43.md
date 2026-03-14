@@ -1,5 +1,5 @@
 ---
-title: "Alex Takuya Walker"
+title: "ウォーカー アレックス拓也"
 name_en: "Alex Takuya Walker"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"

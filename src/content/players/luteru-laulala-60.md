@@ -1,5 +1,5 @@
 ---
-title: "Luteru Laulala"
+title: "ルテル ・ラウララ"
 name_en: "Luteru Laulala"
 position: "UTB"
 team: "浦安D-Rocks"
@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2014)
+- カンタベリー (2014)
 - カウンティーズ・マヌカウ (2016 - 2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018)
+- チーフス (2018)
 - NTTコミュニケーションズ シャイニングアークス東京ベイ浦安 (2018 - 2019)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2021 - 2022)
+- Toyota Industries Shuttles Aichi (2021 - 2022)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - 2024)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - )
+- 浦安D (2024 - )

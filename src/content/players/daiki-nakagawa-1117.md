@@ -1,5 +1,5 @@
 ---
-title: "Daiki Nakagawa"
+title: "中川 大毅"
 name_en: "Daiki Nakagawa"
 position: "HO"
 team: "日野レッドドルフィンズ"

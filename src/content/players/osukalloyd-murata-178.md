@@ -1,5 +1,5 @@
 ---
-title: "Osukalloyd Murata"
+title: "村田 オスカロイド"
 name_en: "Osukalloyd Murata"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

@@ -1,5 +1,5 @@
 ---
-title: "Michiro Takai"
+title: "高井 迪郎"
 name_en: "Michiro Takai"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"

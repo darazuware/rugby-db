@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Bizkaia Gernika RT (2015 - 2016)
-- 🇫🇷 [ポー](/teams/top14/pau) (2016 - 2017)
+- Section Paloise Béarn Pyrénées (2016 - 2017)
 - Soyaux-Angoulême XV Charente (2017 - 2019)
 - Jaguares (2019 - 2020)
 - Sporting Union Agenais (2019 - 2020)

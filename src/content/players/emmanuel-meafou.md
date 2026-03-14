@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2017 - 2018)
+- New South Wales Country Eagles (2017 - 2018)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

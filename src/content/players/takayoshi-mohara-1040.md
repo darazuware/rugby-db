@@ -1,5 +1,5 @@
 ---
-title: "Takayoshi Mohara"
+title: "茂原 隆由"
 name_en: "Takayoshi Mohara"
 position: "PR"
 team: "静岡ブルーレヴズ"

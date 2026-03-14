@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ブリスベン・シティ (2018 - 2019)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - )
+- レッズ (2019 - )

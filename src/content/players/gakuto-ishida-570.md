@@ -1,5 +1,5 @@
 ---
-title: "Gakuto Ishida"
+title: "石田 楽人"
 name_en: "Gakuto Ishida"
 position: "PR"
 team: "浦安D-Rocks"

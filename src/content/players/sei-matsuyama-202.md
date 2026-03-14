@@ -1,5 +1,5 @@
 ---
-title: "Sei Matsuyama"
+title: "松山 青"
 name_en: "Sei Matsuyama"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

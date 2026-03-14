@@ -1,5 +1,5 @@
 ---
-title: "Tatsuya Fujioka"
+title: "藤岡 竜也"
 name_en: "Tatsuya Fujioka"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Taroma Togo"
+title: "東郷 太朗丸"
 name_en: "Taroma Togo"
 position: "CTB"
 team: "日野レッドドルフィンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2017 - )
+- 日野自動車レッドドルフィンズ (2017 - )

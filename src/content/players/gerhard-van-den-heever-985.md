@@ -1,5 +1,5 @@
 ---
-title: "Gerhard van den Heever"
+title: "ゲラード ・ファンデンヒーファー"
 name_en: "Gerhard van den Heever"
 position: "FB"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇪 マンスター・ラグビー (2013 - 2016)
+- マンスター (2013 - 2016)
 - サンウルブズ (2017 - 2019)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2019 - )

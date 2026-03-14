@@ -1,5 +1,5 @@
 ---
-title: "Takehiro Kitsuki"
+title: "木付 丈博"
 name_en: "Takehiro Kitsuki"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Josua Kerevi"
+title: "ケレビ ジョシュア"
 name_en: "Josua Kerevi"
 position: "UTB"
 team: "豊田自動織機シャトルズ愛知"

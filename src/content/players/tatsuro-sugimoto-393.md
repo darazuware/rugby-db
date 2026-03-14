@@ -1,5 +1,5 @@
 ---
-title: "Tatsuro Sugimoto"
+title: "杉本 達郎"
 name_en: "Tatsuro Sugimoto"
 position: "PR"
 team: "横浜キヤノンイーグルス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - )

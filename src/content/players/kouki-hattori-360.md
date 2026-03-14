@@ -1,5 +1,5 @@
 ---
-title: "Kouki Hattori"
+title: "服部 航大"
 name_en: "Kouki Hattori"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

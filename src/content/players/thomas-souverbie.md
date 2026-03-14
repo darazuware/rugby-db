@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Avenir Bizanos (2009 - 2017)
-- 🇫🇷 [ポー](/teams/top14/pau) (2017 - )
+- Section Paloise Béarn Pyrénées (2017 - )

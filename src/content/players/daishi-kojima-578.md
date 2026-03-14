@@ -1,5 +1,5 @@
 ---
-title: "Daishi Kojima"
+title: "小嶋 大士"
 name_en: "Daishi Kojima"
 position: "FL/No8"
 team: "浦安D-Rocks"

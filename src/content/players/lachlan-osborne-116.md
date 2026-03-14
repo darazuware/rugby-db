@@ -1,5 +1,5 @@
 ---
-title: "Lachlan Osborne"
+title: "ロックラン ・オズボーン"
 name_en: "Lachlan Osborne"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"

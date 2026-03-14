@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2025)
+- カンタベリー (2019 - 2025)
 - タスマン (2020 - 2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- ハイランダーズ (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Suliasi Tolu"
+title: "トル スリアシ"
 name_en: "Suliasi Tolu"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

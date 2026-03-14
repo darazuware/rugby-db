@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2026)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2022)
+- ワラターズ (2019 - 2022)
 - Ealing Trailfinders (2022 - )

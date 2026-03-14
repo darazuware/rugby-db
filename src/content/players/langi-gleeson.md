@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Manly Marlins (2020 - 2021)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2021 - 2025)
+- New South Wales Waratahs (2021 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

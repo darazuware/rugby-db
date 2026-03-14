@@ -1,5 +1,5 @@
 ---
-title: "Amanaki Taiyo Lotoahea"
+title: "ロトアヘア アマナキ大洋"
 name_en: "Amanaki Taiyo Lotoahea"
 position: "CTB"
 team: "NECグリーンロケッツ東葛"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - BlackRams Tokyo (2014 - 2025)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )
+- Green Rockets Tokatsu (2025 - )

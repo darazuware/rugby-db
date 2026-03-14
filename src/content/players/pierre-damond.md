@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Club du Golfe (2012 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - )
+- Rugby Club Toulonnais (2015 - )

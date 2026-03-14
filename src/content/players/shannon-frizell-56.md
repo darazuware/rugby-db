@@ -1,5 +1,5 @@
 ---
-title: "Shannon Frizell"
+title: "シャノン ・フリゼル"
 name_en: "Shannon Frizell"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - タスマン (2016 - 2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - 2023)
+- ハイランダーズ (2018 - 2023)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Takehito Ekawa"
+title: "江川 剛人"
 name_en: "Takehito Ekawa"
 position: "WTB"
 team: "花園近鉄ライナーズ"

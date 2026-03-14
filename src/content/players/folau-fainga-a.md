@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2022)
+- ブランビーズ (2017 - 2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2026)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ワラターズ (2025 - )

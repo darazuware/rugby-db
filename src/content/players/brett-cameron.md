@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2020)
+- クルセイダーズ (2017 - 2021)
+- カンタベリー (2019 - 2020)
 - マナワツ (2020 - 2025)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2021 - 2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )
+- ハリケーンズ (2022 - )

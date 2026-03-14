@@ -1,5 +1,5 @@
 ---
-title: "Sam Caird"
+title: "サム ・ケアード"
 name_en: "Sam Caird"
 position: "LO"
 team: "横浜キヤノンイーグルス"
@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2018)
+- ワイカト (2016 - 2018)
 - ノースランド (2018 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2020 - 2021)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2022)
+- ワラターズ (2020 - 2021)
+- ハイランダーズ (2021 - 2022)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2022 - 2023)
 - New England Free Jacks (2024 - 2025)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2025 - )

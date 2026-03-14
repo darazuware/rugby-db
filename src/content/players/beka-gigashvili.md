@@ -25,4 +25,4 @@ facebook: ""
 
 - Stade Olympique Chambéry (2015 - 2017)
 - FC Grenoble Rugby (2017 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - )
+- Rugby Club Toulonnais (2019 - )

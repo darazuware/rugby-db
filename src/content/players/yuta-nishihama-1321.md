@@ -1,5 +1,5 @@
 ---
-title: "Yuta Nishihama"
+title: "西濱 悠太"
 name_en: "Yuta Nishihama"
 position: "HO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2024 - )
+- 中国電力レッドレギュリオンズ (2024 - )

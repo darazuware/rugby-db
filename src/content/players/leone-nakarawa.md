@@ -25,5 +25,5 @@ facebook: ""
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2021)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016 - 2020)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2022)
+- Rugby Club Toulonnais (2021 - 2022)
 - 🇫🇷 [カストル](/teams/top14/castres) (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Jennings Tsuyoshi"
+title: "ジニングス ツヨシ"
 name_en: "Jennings Tsuyoshi"
 position: "WTB"
 team: "クボタスピアーズ船橋・東京ベイ"

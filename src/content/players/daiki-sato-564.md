@@ -1,5 +1,5 @@
 ---
-title: "Daiki Sato"
+title: "佐藤 大樹"
 name_en: "Daiki Sato"
 position: "LO"
 team: "浦安D-Rocks"

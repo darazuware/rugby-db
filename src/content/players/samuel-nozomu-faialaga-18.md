@@ -1,5 +1,5 @@
 ---
-title: "Samuel Nozomu Faialaga"
+title: "ファイアラガ 望サムエル"
 name_en: "Samuel Nozomu Faialaga"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

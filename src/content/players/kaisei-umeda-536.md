@@ -1,5 +1,5 @@
 ---
-title: "Kaisei Umeda"
+title: "梅田 海星"
 name_en: "Kaisei Umeda"
 position: "PR"
 team: "浦安D-Rocks"

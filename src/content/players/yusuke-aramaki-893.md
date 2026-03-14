@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Aramaki"
+title: "荒牧 佑輔"
 name_en: "Yusuke Aramaki"
 position: "FB"
 team: "ルリーロ福岡"

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2023)
+- クルセイダーズ (2016 - 2023)
+- カンタベリー (2019 - 2023)
 - サウスランド (2023 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )
+- ハイランダーズ (2023 - )

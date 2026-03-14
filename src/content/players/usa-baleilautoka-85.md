@@ -1,5 +1,5 @@
 ---
-title: "Usa Baleilautoka"
+title: "ウサ ・バレイラウトカ"
 name_en: "Usa Baleilautoka"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

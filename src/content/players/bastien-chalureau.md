@@ -26,6 +26,6 @@ facebook: ""
 - RC Cantonal Fousseretois (2004 - 2007)
 - Union Cazères - Fousseret (2007 - 2009)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2009 - 2020)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2014 - 2017)
+- Union Sportive Arlequins Perpignanais (2014 - 2017)
 - USON Nevers Rugby (2017 - 2019)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - )

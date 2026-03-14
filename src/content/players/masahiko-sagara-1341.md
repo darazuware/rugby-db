@@ -1,5 +1,5 @@
 ---
-title: "Masahiko Sagara"
+title: "相良 昌彦"
 name_en: "Masahiko Sagara"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

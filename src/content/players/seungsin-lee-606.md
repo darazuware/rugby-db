@@ -1,5 +1,5 @@
 ---
-title: "Seungsin Lee"
+title: "李 承信"
 name_en: "Seungsin Lee"
 position: "UTB"
 team: "コベルコ神戸スティーラーズ"

@@ -1,5 +1,5 @@
 ---
-title: "Hiroshi Yamashita"
+title: "山下 裕史"
 name_en: "Hiroshi Yamashita"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2016)
+- チーフス (2015 - 2016)
 - サンウルブズ (2018 - 2019)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2019 - )

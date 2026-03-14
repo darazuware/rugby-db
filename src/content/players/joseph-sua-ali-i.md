@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Sydney Roosters (2020 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- ワラターズ (2024 - )

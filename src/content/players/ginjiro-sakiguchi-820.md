@@ -1,5 +1,5 @@
 ---
-title: "Ginjiro Sakiguchi"
+title: "サキ"
 name_en: "Ginjiro Sakiguchi"
 position: "FB"
 team: "マツダスカイアクティブズ広島"

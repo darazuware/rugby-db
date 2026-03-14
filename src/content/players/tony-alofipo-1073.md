@@ -1,5 +1,5 @@
 ---
-title: "Tony Alofipo"
+title: "トニー ・アロフィポ"
 name_en: "Tony Alofipo"
 position: "CTB"
 team: "日野レッドドルフィンズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021 - 2025)
+- Tokyo Sungoliath (2021 - 2025)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2025 - )

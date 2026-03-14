@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2015)
+- Stade Français Paris Rugby (2013 - 2015)
 - Bay of Plenty Steamers (2015 - 2017)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2017 - 2022)
 - 🇦🇺 メルボルン・レベルズ (2022 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - )
+- Lyon Olympique Universitaire Rugby (2023 - )

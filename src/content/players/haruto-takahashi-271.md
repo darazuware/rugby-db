@@ -1,5 +1,5 @@
 ---
-title: "Haruto Takahashi"
+title: "高橋 陽大"
 name_en: "Haruto Takahashi"
 position: "PR"
 team: "三重ホンダヒート"

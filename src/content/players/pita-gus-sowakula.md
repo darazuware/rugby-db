@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2023)
-- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2023)
+- Taranaki Bulls (2019 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

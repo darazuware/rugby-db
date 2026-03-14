@@ -1,5 +1,5 @@
 ---
-title: "MASAHIRO ERIGUCHI"
+title: "江里口 真弘"
 name_en: "MASAHIRO ERIGUCHI"
 position: "LO"
 team: "ルリーロ福岡"

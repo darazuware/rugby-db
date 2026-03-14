@@ -1,5 +1,5 @@
 ---
-title: "Shunta Koga"
+title: "古賀 駿汰"
 name_en: "Shunta Koga"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"

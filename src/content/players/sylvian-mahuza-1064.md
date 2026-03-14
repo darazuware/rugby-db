@@ -1,5 +1,5 @@
 ---
-title: "Sylvian Mahuza"
+title: "シルビアン ・マフーザ"
 name_en: "Sylvian Mahuza"
 position: "CTB"
 team: "静岡ブルーレヴズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2015 - 2019)
+- ライオンズ (2015 - 2019)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2023)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2023 - )

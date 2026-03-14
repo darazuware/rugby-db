@@ -1,5 +1,5 @@
 ---
-title: "Ryuji Abe"
+title: "阿部 竜二"
 name_en: "Ryuji Abe"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

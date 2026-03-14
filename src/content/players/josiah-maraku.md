@@ -25,4 +25,4 @@ facebook: ""
 
 - Manawatu Turbos (2018 - 2021)
 - Racing Club Narbonnais (2021 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Simeone Schmidt"
+title: "シミオネ ・シュミット"
 name_en: "Simeone Schmidt"
 position: "LO"
 team: "花園近鉄ライナーズ"

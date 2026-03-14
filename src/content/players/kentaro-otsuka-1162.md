@@ -1,5 +1,5 @@
 ---
-title: "Kentaro Otsuka"
+title: "大塚 健太郎"
 name_en: "Kentaro Otsuka"
 position: "HO"
 team: "レッドハリケーンズ大阪"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2021 - 2023)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

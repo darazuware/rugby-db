@@ -1,5 +1,5 @@
 ---
-title: "Will Harrison"
+title: "ウィル ・ハリソン"
 name_en: "Will Harrison"
 position: "SO"
 team: "花園近鉄ライナーズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2024)
+- ワラターズ (2018 - 2024)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Koki Takeyama"
+title: "竹山 晃暉"
 name_en: "Koki Takeyama"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

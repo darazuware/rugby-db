@@ -1,5 +1,5 @@
 ---
-title: "Ryutaro Iguchi"
+title: "井口 龍太郎"
 name_en: "Ryutaro Iguchi"
 position: "HO"
 team: "クリタウォーターガッシュ昭島"

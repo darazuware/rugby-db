@@ -1,5 +1,5 @@
 ---
-title: "Tulimafua Mahola Tupou"
+title: "トゥリマフア ・マホラ・トゥポウ"
 name_en: "Tulimafua Mahola Tupou"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

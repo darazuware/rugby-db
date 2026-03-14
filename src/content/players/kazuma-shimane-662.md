@@ -1,5 +1,5 @@
 ---
-title: "Kazuma Shimane"
+title: "島根 一磨"
 name_en: "Kazuma Shimane"
 position: "HO"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Sean Vete"
+title: "ショーン ・ヴェーテー"
 name_en: "Sean Vete"
 position: "PR"
 team: "静岡ブルーレヴズ"

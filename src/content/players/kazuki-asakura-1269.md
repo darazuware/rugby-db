@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Asakura"
+title: "朝倉 一稀"
 name_en: "Kazuki Asakura"
 position: "LO"
 team: "狭山セコムラガッツ"

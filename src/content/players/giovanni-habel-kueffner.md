@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ポー](/teams/top14/pau) (2015 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - 2024)
+- Section Paloise Béarn Pyrénées (2015 - 2022)
+- Stade Français Paris Rugby (2022 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

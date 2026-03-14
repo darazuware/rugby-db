@@ -1,5 +1,5 @@
 ---
-title: "Seijun Kawasaki"
+title: "川崎 清純"
 name_en: "Seijun Kawasaki"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

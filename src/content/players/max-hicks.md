@@ -25,4 +25,4 @@ facebook: ""
 
 - Tasman Mako (2020 - 2024)
 - 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Union Sportive Arlequins Perpignanais (2024 - )

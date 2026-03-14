@@ -1,5 +1,5 @@
 ---
-title: "Shogo Matsushita"
+title: "松下 彰吾"
 name_en: "Shogo Matsushita"
 position: "SO"
 team: "九州電力キューデンヴォルテクス"

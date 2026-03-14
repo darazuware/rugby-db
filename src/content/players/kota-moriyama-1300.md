@@ -1,5 +1,5 @@
 ---
-title: "Kota Moriyama"
+title: "森山 皓太"
 name_en: "Kota Moriyama"
 position: "FL/No8"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

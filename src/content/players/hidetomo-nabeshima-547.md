@@ -1,5 +1,5 @@
 ---
-title: "Hidetomo Nabeshima"
+title: "鍋島 秀源"
 name_en: "Hidetomo Nabeshima"
 position: "PR"
 team: "浦安D-Rocks"

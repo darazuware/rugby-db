@@ -26,4 +26,4 @@ facebook: ""
 - Rugby Ovalie Lorient (2008 - 2019)
 - Plouzané (2019 - 2020)
 - Rennes Etudiants Club (2020 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )
+- Rugby Club Toulonnais (2022 - )

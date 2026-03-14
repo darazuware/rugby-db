@@ -1,5 +1,5 @@
 ---
-title: "Junya Matsumoto"
+title: "松本 純弥"
 name_en: "Junya Matsumoto"
 position: "WTB"
 team: "浦安D-Rocks"

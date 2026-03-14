@@ -1,5 +1,5 @@
 ---
-title: "Kanzo Schinckel"
+title: "シンクル 寛造"
 name_en: "Kanzo Schinckel"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

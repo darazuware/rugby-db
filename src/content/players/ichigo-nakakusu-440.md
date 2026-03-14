@@ -1,5 +1,5 @@
 ---
-title: "Ichigo Nakakusu"
+title: "中楠 一期"
 name_en: "Ichigo Nakakusu"
 position: "SO"
 team: "リコーブラックラムズ東京"

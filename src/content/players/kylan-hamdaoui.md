@@ -26,4 +26,4 @@ facebook: ""
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2005 - 2012)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2026)
 - Biarritz Olympique Pays Basque (2014 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )
+- Stade Français Paris Rugby (2018 - )

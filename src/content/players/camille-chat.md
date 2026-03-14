@@ -26,4 +26,4 @@ facebook: ""
 - Rugby Toucy Puisaye Forterre (2004 - 2006)
 - RC Auxerre (2006 - 2013)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )
+- Lyon Olympique Universitaire Rugby (2024 - )

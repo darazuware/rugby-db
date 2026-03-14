@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2015)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2019)
+- チーフス (2013 - 2015)
+- ブルーズ (2016 - 2019)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

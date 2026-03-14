@@ -1,5 +1,5 @@
 ---
-title: "Iori Suzuki"
+title: "鈴木 伊織"
 name_en: "Iori Suzuki"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

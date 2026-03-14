@@ -1,5 +1,5 @@
 ---
-title: "Ryusei Kato"
+title: "加藤 竜聖"
 name_en: "Ryusei Kato"
 position: "HO"
 team: "トヨタヴェルブリッツ"

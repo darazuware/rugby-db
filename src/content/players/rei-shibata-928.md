@@ -1,5 +1,5 @@
 ---
-title: "REI SHIBATA"
+title: "柴田 玲"
 name_en: "REI SHIBATA"
 position: "CTB"
 team: "ルリーロ福岡"

@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Leicester Tigers (2013 - 2020)
-- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2024)
+- Sale Sharks (2019 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

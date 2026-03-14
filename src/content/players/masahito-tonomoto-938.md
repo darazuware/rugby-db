@@ -1,5 +1,5 @@
 ---
-title: "MASAHITO TONOMOTO"
+title: "殿元 政仁"
 name_en: "MASAHITO TONOMOTO"
 position: "FL/No8"
 team: "ルリーロ福岡"

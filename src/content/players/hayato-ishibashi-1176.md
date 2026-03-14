@@ -1,5 +1,5 @@
 ---
-title: "Hayato Ishibashi"
+title: "石橋 隼"
 name_en: "Hayato Ishibashi"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

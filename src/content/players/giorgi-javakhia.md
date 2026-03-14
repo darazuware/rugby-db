@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2015 - 2018)
+- Lyon Olympique Universitaire Rugby (2015 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2023)
 - FC Grenoble Rugby (2023 - 2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

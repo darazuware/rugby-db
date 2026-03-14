@@ -1,5 +1,5 @@
 ---
-title: "Masaki Obata"
+title: "小幡 将己"
 name_en: "Masaki Obata"
 position: "CTB"
 team: "NECグリーンロケッツ東葛"

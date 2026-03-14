@@ -1,5 +1,5 @@
 ---
-title: "Aminiasi Shaw"
+title: "アミニアシ ・ショー"
 name_en: "Aminiasi Shaw"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

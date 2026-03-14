@@ -1,5 +1,5 @@
 ---
-title: "AJ Woulf"
+title: "エイジェイ ・ウルフ"
 name_en: "AJ Woulf"
 position: "LO"
 team: "日野レッドドルフィンズ"

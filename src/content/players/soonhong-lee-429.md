@@ -1,5 +1,5 @@
 ---
-title: "Soonhong Lee"
+title: "李 淳弘"
 name_en: "Soonhong Lee"
 position: "HO"
 team: "リコーブラックラムズ東京"

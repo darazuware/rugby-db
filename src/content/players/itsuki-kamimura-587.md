@@ -1,5 +1,5 @@
 ---
-title: "Itsuki Kamimura"
+title: "上村 樹輝"
 name_en: "Itsuki Kamimura"
 position: "SH"
 team: "コベルコ神戸スティーラーズ"

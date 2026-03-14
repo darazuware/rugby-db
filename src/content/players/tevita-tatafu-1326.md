@@ -1,5 +1,5 @@
 ---
-title: "Tevita Tatafu"
+title: "テビタ ・タタフ"
 name_en: "Tevita Tatafu"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+- Tokyo Sungoliath (2019 - 2025)
+- ユニオン・ボルドー・ベグル (2023 - )

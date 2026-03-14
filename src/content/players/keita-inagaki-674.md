@@ -1,5 +1,5 @@
 ---
-title: "Keita Inagaki"
+title: "稲垣 啓太"
 name_en: "Keita Inagaki"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 埼玉WK (2013)
-- 🇦🇺 メルボルン・レベルズ (2015)
+- レベルズ (2015)
 - Sunwolves (2016 - )

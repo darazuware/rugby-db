@@ -1,5 +1,5 @@
 ---
-title: "Kapa Waimana"
+title: "ワイマナ ・カパ"
 name_en: "Kapa Waimana"
 position: "FL/No8"
 team: "三重ホンダヒート"

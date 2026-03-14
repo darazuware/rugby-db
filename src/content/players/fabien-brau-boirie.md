@@ -25,4 +25,4 @@ facebook: ""
 
 - Entente Sportive des Coteaux de l'Arrêt (2010 - 2018)
 - Stado Tarbes Pyrénées Rugby (2018 - 2023)
-- 🇫🇷 [ポー](/teams/top14/pau) (2023 - )
+- Section Paloise Béarn Pyrénées (2023 - )

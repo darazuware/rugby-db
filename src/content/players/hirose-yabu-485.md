@@ -1,5 +1,5 @@
 ---
-title: "Hirose Yabu"
+title: "屋部 旺成"
 name_en: "Hirose Yabu"
 position: "SH"
 team: "NECグリーンロケッツ東葛"

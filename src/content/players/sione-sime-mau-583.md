@@ -1,5 +1,5 @@
 ---
-title: "Sione Sime Mau"
+title: "シオネ ・シメ・マウ"
 name_en: "Sione Sime Mau"
 position: "HO"
 team: "コベルコ神戸スティーラーズ"

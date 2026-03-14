@@ -1,5 +1,5 @@
 ---
-title: "Larry Sulunga"
+title: "ラリー ・スルンガ"
 name_en: "Larry Sulunga"
 position: "WTB"
 team: "三重ホンダヒート"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2024)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - )

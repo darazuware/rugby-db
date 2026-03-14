@@ -1,5 +1,5 @@
 ---
-title: "Tsubasa Arai"
+title: "荒井 翼"
 name_en: "Tsubasa Arai"
 position: "PR"
 team: "ルリーロ福岡"

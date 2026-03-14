@@ -1,5 +1,5 @@
 ---
-title: "Daichi Kono"
+title: "河野 大地"
 name_en: "Daichi Kono"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "Masanori Miyao"
+title: "宮尾 昌典"
 name_en: "Masanori Miyao"
 position: "SH"
 team: "東京サントリーサンゴリアス"

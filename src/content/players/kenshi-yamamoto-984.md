@@ -1,5 +1,5 @@
 ---
-title: "Kenshi Yamamoto"
+title: "山本 剣士"
 name_en: "Kenshi Yamamoto"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

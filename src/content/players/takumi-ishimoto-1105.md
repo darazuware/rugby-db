@@ -1,5 +1,5 @@
 ---
-title: "Takumi Ishimoto"
+title: "石本 拓巳"
 name_en: "Takumi Ishimoto"
 position: "FB"
 team: "日野レッドドルフィンズ"

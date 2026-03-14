@@ -1,5 +1,5 @@
 ---
-title: "Jude Gibbs"
+title: "ジュード ・ギブス"
 name_en: "Jude Gibbs"
 position: "SO"
 team: "九州電力キューデンヴォルテクス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025)
-- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2025 - )
+- レッズ (2025)
+- Kyushu Kyuden Voltex (2025 - )

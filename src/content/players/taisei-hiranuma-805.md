@@ -1,5 +1,5 @@
 ---
-title: "Taisei Hiranuma"
+title: "平沼 泰成"
 name_en: "Taisei Hiranuma"
 position: "HO"
 team: "マツダスカイアクティブズ広島"

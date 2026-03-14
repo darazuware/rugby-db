@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Minami"
+title: "南 篤志"
 name_en: "Atsushi Minami"
 position: "SH"
 team: "日本製鉄釜石シーウェイブス"

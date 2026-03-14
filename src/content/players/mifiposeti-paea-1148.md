@@ -1,5 +1,5 @@
 ---
-title: "MIFIPOSETI PAEA"
+title: "パエア ミフィポセチ"
 name_en: "MIFIPOSETI PAEA"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2011 - 2026)
+- NTTドコモレッドハリケーンズ大阪 (2011 - 2026)
 - サンウルブズ (2015 - )

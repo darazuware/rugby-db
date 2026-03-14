@@ -1,5 +1,5 @@
 ---
-title: "Shunya Hamano"
+title: "濱野 隼也"
 name_en: "Shunya Hamano"
 position: "HO"
 team: "NECグリーンロケッツ東葛"

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Lelo Saracens Tbilissi (2023 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Union Sportive Arlequins Perpignanais (2024 - )

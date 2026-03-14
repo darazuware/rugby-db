@@ -1,5 +1,5 @@
 ---
-title: "Kohei Ishigaki"
+title: "石垣 航平"
 name_en: "Kohei Ishigaki"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

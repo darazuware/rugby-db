@@ -1,5 +1,5 @@
 ---
-title: "Kyo Yoshida"
+title: "吉田 杏"
 name_en: "Kyo Yoshida"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

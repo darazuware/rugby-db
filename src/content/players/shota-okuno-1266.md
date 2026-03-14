@@ -1,5 +1,5 @@
 ---
-title: "Shota Okuno"
+title: "奥野 翔太"
 name_en: "Shota Okuno"
 position: "HO"
 team: "狭山セコムラガッツ"

@@ -1,5 +1,5 @@
 ---
-title: "TEVIN FERRIS"
+title: "テヴィン ・フェリス"
 name_en: "TEVIN FERRIS"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Tani"
+title: "谷 峻輔"
 name_en: "Shunsuke Tani"
 position: "HO"
 team: "ヤクルトレビンズ戸田"

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2025)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2020 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- チーフス (2016 - 2019)
+- ワイカト (2018 - 2025)
+- ブランビーズ (2020 - 2024)
+- ハイランダーズ (2024 - )

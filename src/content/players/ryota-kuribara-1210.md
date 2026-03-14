@@ -1,5 +1,5 @@
 ---
-title: "Ryota Kuribara"
+title: "栗原 良多"
 name_en: "Ryota Kuribara"
 position: "HO"
 team: "クリタウォーターガッシュ昭島"

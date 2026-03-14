@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2013 - 2017)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2017 - 2020)
+- New South Wales Waratahs (2017 - 2020)
 - London Irish (2020 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

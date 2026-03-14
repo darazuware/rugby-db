@@ -1,5 +1,5 @@
 ---
-title: "Ryota Ohata"
+title: "大畑 亮太"
 name_en: "Ryota Ohata"
 position: "WTB"
 team: "浦安D-Rocks"

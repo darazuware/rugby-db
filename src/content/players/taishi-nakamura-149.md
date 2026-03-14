@@ -1,5 +1,5 @@
 ---
-title: "Taishi Nakamura"
+title: "中村 大志"
 name_en: "Taishi Nakamura"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"

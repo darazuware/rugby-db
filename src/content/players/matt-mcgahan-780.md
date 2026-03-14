@@ -1,5 +1,5 @@
 ---
-title: "Matt McGahan"
+title: "マット ・マッガーン"
 name_en: "Matt McGahan"
 position: "SO"
 team: "トヨタヴェルブリッツ"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2018 - 2019)
+- ブルーズ (2014 - 2016)
+- レッズ (2018 - 2019)
 - ノース・ハーバー (2018 - 2019)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2019 - 2024)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Hiroyuki Yamasaki"
+title: "山崎 洋之"
 name_en: "Hiroyuki Yamasaki"
 position: "WTB"
 team: "クボタスピアーズ船橋・東京ベイ"

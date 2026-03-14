@@ -1,5 +1,5 @@
 ---
-title: "Kentaro Iwanaga"
+title: "岩永 健太郎"
 name_en: "Kentaro Iwanaga"
 position: "HO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

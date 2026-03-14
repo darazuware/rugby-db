@@ -1,5 +1,5 @@
 ---
-title: "Finau Tupa"
+title: "トゥパ フィナウ"
 name_en: "Finau Tupa"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

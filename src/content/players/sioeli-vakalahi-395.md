@@ -1,5 +1,5 @@
 ---
-title: "Sioeli Vakalahi"
+title: "シオエリ ・ヴァカラヒ"
 name_en: "Sioeli Vakalahi"
 position: "PR"
 team: "横浜キヤノンイーグルス"

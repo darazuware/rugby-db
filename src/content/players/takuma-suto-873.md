@@ -1,5 +1,5 @@
 ---
-title: "Takuma Suto"
+title: "須藤 拓真"
 name_en: "Takuma Suto"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"

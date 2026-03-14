@@ -1,5 +1,5 @@
 ---
-title: "Matariki Channings"
+title: "マタリキ ・チャニングス"
 name_en: "Matariki Channings"
 position: "LO"
 team: "NECグリーンロケッツ東葛"

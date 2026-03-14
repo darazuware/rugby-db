@@ -26,6 +26,6 @@ facebook: ""
 - RC Bonneval (2009 - 2014)
 - Pôle Espoirs de Tours (2014 - 2015)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2015 - 2020)
-- 🇫🇷 [ポー](/teams/top14/pau) (2020 - 2026)
+- Section Paloise Béarn Pyrénées (2020 - 2026)
 - Stado Tarbes Pyrénées Rugby (2021 - 2023)
 - Rouen Normandie Rugby (2022 - )

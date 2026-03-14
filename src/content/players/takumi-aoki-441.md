@@ -1,5 +1,5 @@
 ---
-title: "Takumi Aoki"
+title: "青木 拓己"
 name_en: "Takumi Aoki"
 position: "CTB"
 team: "リコーブラックラムズ東京"

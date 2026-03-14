@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2025)
+- チーフス (2016 - 2025)
 - ベイ・オブ・プレンティ (2019 - 2024)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - )
+- レッズ (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Masaya Tamaki"
+title: "玉置 将也"
 name_en: "Masaya Tamaki"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"

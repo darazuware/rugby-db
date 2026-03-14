@@ -1,5 +1,5 @@
 ---
-title: "Tai Dowling"
+title: "ダウリング タイ"
 name_en: "Tai Dowling"
 position: "SO"
 team: "三菱重工相模原ダイナボアーズ"

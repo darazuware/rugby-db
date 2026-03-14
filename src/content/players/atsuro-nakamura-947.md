@@ -1,5 +1,5 @@
 ---
-title: "ATSURO NAKAMURA"
+title: "中村 篤郎"
 name_en: "ATSURO NAKAMURA"
 position: "HO"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Amanaki Saumaki"
+title: "サウマキ アマナキ"
 name_en: "Amanaki Saumaki"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

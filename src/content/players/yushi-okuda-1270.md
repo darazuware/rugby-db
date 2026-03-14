@@ -1,5 +1,5 @@
 ---
-title: "Yushi Okuda"
+title: "奥田 勇志"
 name_en: "Yushi Okuda"
 position: "WTB"
 team: "狭山セコムラガッツ"

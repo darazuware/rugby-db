@@ -1,5 +1,5 @@
 ---
-title: "Shohei Nonaka"
+title: "野中 翔平"
 name_en: "Shohei Nonaka"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

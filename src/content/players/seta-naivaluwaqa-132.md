@@ -1,5 +1,5 @@
 ---
-title: "Seta Naivaluwaqa"
+title: "ナイバルワガ セタ"
 name_en: "Seta Naivaluwaqa"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"

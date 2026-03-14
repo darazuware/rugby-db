@@ -1,5 +1,5 @@
 ---
-title: "Yuki Ikeda"
+title: "池田 悠希"
 name_en: "Yuki Ikeda"
 position: "CTB"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Kei Toma"
+title: "當眞 慶"
 name_en: "Kei Toma"
 position: "FL/No8"
 team: "三重ホンダヒート"

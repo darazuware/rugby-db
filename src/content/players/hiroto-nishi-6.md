@@ -1,5 +1,5 @@
 ---
-title: "Hiroto Nishi"
+title: "西 浩斗"
 name_en: "Hiroto Nishi"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"

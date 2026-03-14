@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Chalon-sur-Saône (2010 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - 2026)
+- Lyon Olympique Universitaire Rugby (2021 - 2026)
 - USON Nevers Rugby (2023 - )

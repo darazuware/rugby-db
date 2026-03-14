@@ -1,5 +1,5 @@
 ---
-title: "Murray Koster"
+title: "マリー ・コスター"
 name_en: "Murray Koster"
 position: "CTB"
 team: "日野レッドドルフィンズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2024)
+- シャークス (2019 - 2024)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2024 - )

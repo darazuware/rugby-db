@@ -1,5 +1,5 @@
 ---
-title: "Jeandre Labuschagne"
+title: "ジャンドレ ・ラブスカフニ"
 name_en: "Jeandre Labuschagne"
 position: "LO"
 team: "横浜キヤノンイーグルス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2020 - 2025)
+- シャークス (2020 - 2025)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

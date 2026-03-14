@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Yumoto"
+title: "湯本 睦"
 name_en: "Atsushi Yumoto"
 position: "SH"
 team: "豊田自動織機シャトルズ愛知"

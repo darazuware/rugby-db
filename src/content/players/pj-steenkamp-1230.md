@@ -1,5 +1,5 @@
 ---
-title: "PJ Steenkamp"
+title: "PJ ・スティーンカンプ"
 name_en: "PJ Steenkamp"
 position: "LO"
 team: "狭山セコムラガッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2018 - 2022)
+- ライオンズ (2018 - 2022)
 - ゴールデン・ライオンズ (2022 - 2023)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2023 - 2025)
 - 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2025 - )

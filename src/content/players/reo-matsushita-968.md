@@ -1,5 +1,5 @@
 ---
-title: "Reo Matsushita"
+title: "松下 怜央"
 name_en: "Reo Matsushita"
 position: "UTB"
 team: "クボタスピアーズ船橋・東京ベイ"

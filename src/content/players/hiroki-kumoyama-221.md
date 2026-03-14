@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Kumoyama"
+title: "雲山 弘貴"
 name_en: "Hiroki Kumoyama"
 position: "FB"
 team: "花園近鉄ライナーズ"

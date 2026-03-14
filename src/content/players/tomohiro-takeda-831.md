@@ -1,5 +1,5 @@
 ---
-title: "Tomohiro Takeda"
+title: "武田 知大"
 name_en: "Tomohiro Takeda"
 position: "HO"
 team: "マツダスカイアクティブズ広島"

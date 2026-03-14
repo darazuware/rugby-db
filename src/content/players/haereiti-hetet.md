@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2019)
+- ワイカト (2017 - 2019)
 - ベイ・オブ・プレンティ (2019 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

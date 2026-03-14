@@ -1,5 +1,5 @@
 ---
-title: "Yosuke Okuma"
+title: "大熊 陽介"
 name_en: "Yosuke Okuma"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

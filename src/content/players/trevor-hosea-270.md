@@ -1,5 +1,5 @@
 ---
-title: "Trevor Hosea"
+title: "トレヴァ ・ホゼア"
 name_en: "Trevor Hosea"
 position: "LO"
 team: "三重ホンダヒート"

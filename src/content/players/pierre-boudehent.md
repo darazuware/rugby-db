@@ -26,5 +26,5 @@ facebook: ""
 - SCO RC Angers (2009 - 2013)
 - Stade Nantais (2013 - 2015)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2015 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2019 - 2026)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Rugby Club Vannes (2019 - 2026)
+- Stade Français Paris Rugby (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Ika Motulalo Takau"
+title: "イカ ・モツラロ・タカウ"
 name_en: "Ika Motulalo Takau"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Paula Mahe"
+title: "パウラ ・マヘ"
 name_en: "Paula Mahe"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

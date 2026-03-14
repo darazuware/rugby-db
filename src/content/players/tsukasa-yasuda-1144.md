@@ -1,5 +1,5 @@
 ---
-title: "TSUKASA YASUDA"
+title: "安田 司"
 name_en: "TSUKASA YASUDA"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ (2021 - )

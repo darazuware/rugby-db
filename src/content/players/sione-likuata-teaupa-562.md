@@ -1,5 +1,5 @@
 ---
-title: "Sione Likuata Teaupa"
+title: "シオネ ・リクアタテアウパ"
 name_en: "Sione Likuata Teaupa"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

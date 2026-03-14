@@ -1,5 +1,5 @@
 ---
-title: "Manase Havili"
+title: "マナセ ・ハビリ"
 name_en: "Manase Havili"
 position: "CTB"
 team: "ルリーロ福岡"

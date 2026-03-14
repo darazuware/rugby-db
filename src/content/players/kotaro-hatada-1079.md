@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Hatada"
+title: "畑田 康太朗"
 name_en: "Kotaro Hatada"
 position: "SH"
 team: "日野レッドドルフィンズ"

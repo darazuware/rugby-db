@@ -1,5 +1,5 @@
 ---
-title: "Keishin Iwamoto"
+title: "岩本 圭伸"
 name_en: "Keishin Iwamoto"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

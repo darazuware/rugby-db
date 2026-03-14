@@ -1,5 +1,5 @@
 ---
-title: "Mototsugu Hachiya"
+title: "蜂谷 元紹"
 name_en: "Mototsugu Hachiya"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

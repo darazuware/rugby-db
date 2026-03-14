@@ -1,5 +1,5 @@
 ---
-title: "Tiaan Thomaswheeler"
+title: "ティアン ・トーマスウィーラー"
 name_en: "Tiaan Thomaswheeler"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

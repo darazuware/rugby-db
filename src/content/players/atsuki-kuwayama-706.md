@@ -1,5 +1,5 @@
 ---
-title: "Atsuki Kuwayama"
+title: "桑山 淳生"
 name_en: "Atsuki Kuwayama"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

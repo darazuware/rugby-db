@@ -27,4 +27,4 @@ facebook: ""
 - Petrarca Rugby (2019 - 2020)
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2019 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- Rugby Club Toulonnais (2023 - )

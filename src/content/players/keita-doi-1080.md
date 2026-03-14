@@ -1,5 +1,5 @@
 ---
-title: "Keita Doi"
+title: "土肥 恵太"
 name_en: "Keita Doi"
 position: "SO"
 team: "日野レッドドルフィンズ"

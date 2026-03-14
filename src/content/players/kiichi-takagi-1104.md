@@ -1,5 +1,5 @@
 ---
-title: "Kiichi Takagi"
+title: "高城 喜一"
 name_en: "Kiichi Takagi"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

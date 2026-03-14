@@ -1,5 +1,5 @@
 ---
-title: "Kaito Doichi"
+title: "土一 海人"
 name_en: "Kaito Doichi"
 position: "HO"
 team: "横浜キヤノンイーグルス"

@@ -1,5 +1,5 @@
 ---
-title: "Yuma Uenobo"
+title: "上ノ坊 悠馬"
 name_en: "Yuma Uenobo"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

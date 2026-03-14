@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Abe"
+title: "安部 駿亮"
 name_en: "Shunsuke Abe"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

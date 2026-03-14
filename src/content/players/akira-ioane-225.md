@@ -1,5 +1,5 @@
 ---
-title: "Akira Ioane"
+title: "アキラ ・イオアネ"
 name_en: "Akira Ioane"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2024)
+- ブルーズ (2014 - 2024)
+- オークランド (2019 - 2024)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2024 - )

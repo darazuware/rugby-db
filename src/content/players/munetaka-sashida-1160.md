@@ -1,5 +1,5 @@
 ---
-title: "MUNETAKA SASHIDA"
+title: "指田 宗孝"
 name_en: "MUNETAKA SASHIDA"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

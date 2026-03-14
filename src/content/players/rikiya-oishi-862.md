@@ -1,5 +1,5 @@
 ---
-title: "Rikiya Oishi"
+title: "大石 力也"
 name_en: "Rikiya Oishi"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"

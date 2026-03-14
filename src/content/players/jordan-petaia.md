@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2024)
 - Los Angeles Chargers (2024 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Union Sportive Arlequins Perpignanais (2025 - )

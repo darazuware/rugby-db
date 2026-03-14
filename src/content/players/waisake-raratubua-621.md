@@ -1,5 +1,5 @@
 ---
-title: "Waisake Raratubua"
+title: "ワイサケ ・ララトゥブア"
 name_en: "Waisake Raratubua"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"

@@ -1,5 +1,5 @@
 ---
-title: "Halatoa Vailea"
+title: "ハラトア ・ヴァイレア"
 name_en: "Halatoa Vailea"
 position: "FB"
 team: "クボタスピアーズ船橋・東京ベイ"

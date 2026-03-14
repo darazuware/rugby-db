@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2004 - )
+- Union Sportive Arlequins Perpignanais (2004 - )

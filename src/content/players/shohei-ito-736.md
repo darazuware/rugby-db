@@ -1,5 +1,5 @@
 ---
-title: "Shohei Ito"
+title: "伊藤 鐘平"
 name_en: "Shohei Ito"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

@@ -1,5 +1,5 @@
 ---
-title: "Cameron Bailey"
+title: "キャメロン ・ベイリー"
 name_en: "Cameron Bailey"
 position: "FB"
 team: "清水建設江東ブルーシャークス"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - サウス・カンタベリー (2016 - 2021)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021)
+- カンタベリー (2021)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2021 - 2025)
-- 🇿🇦 ハリウッドベッツ・シャークス (2025 - )
+- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2025 - )

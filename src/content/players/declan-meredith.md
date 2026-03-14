@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2021 - 2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - )
+- Wests Lions (2021 - 2022)
+- ブランビーズ (2022 - )

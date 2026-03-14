@@ -1,5 +1,5 @@
 ---
-title: "Kanta Fujita"
+title: "藤田 幹太"
 name_en: "Kanta Fujita"
 position: "HO"
 team: "九州電力キューデンヴォルテクス"

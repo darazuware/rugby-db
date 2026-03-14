@@ -1,5 +1,5 @@
 ---
-title: "Keita Kobayasi"
+title: "小林 恵太"
 name_en: "Keita Kobayasi"
 position: "HO"
 team: "NECグリーンロケッツ東葛"

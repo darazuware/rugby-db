@@ -1,5 +1,5 @@
 ---
-title: "Ryu Fukuhara"
+title: "普久原 琉"
 name_en: "Ryu Fukuhara"
 position: "FB"
 team: "横浜キヤノンイーグルス"

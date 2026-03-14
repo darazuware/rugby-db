@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Worcester Warriors (2015 - 2021)
-- 🇿🇦 ハリウッドベッツ・シャークス (2021 - 2025)
+- Sale Sharks (2021 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Rugby Club Vannes (2025 - )

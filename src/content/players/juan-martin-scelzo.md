@@ -26,4 +26,4 @@ facebook: ""
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2007 - 2022)
 - AS Passage Rugby (2011 - 2012)
 - RC Saint-Gènes-Champanelle (2018 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- Stade Français Paris Rugby (2022 - )

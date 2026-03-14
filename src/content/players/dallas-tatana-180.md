@@ -1,5 +1,5 @@
 ---
-title: "Dallas Tatana"
+title: "タタナ ダラス"
 name_en: "Dallas Tatana"
 position: "LO"
 team: "日本製鉄釜石シーウェイブス"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2015 - 2019)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2022)
+- Munakata Sanix Blues (2019 - 2022)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kanta Kurahashi"
+title: "倉橋 歓太"
 name_en: "Kanta Kurahashi"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

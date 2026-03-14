@@ -1,5 +1,5 @@
 ---
-title: "Edward Quirk"
+title: "エドワード ・カーク"
 name_en: "Edward Quirk"
 position: "FL/No8"
 team: "中国電力レッドレグリオンズ"

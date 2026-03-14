@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2015)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2016 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - )
+- Rugby Club Toulonnais (2018 - )

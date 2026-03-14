@@ -1,5 +1,5 @@
 ---
-title: "Junior Ahokovi"
+title: "ジュニア ・アフォコビ"
 name_en: "Junior Ahokovi"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
+- ブルーズ (2024 - 2025)
 - 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Soichiro Kuwata"
+title: "桑田 宗一郎"
 name_en: "Soichiro Kuwata"
 position: "SO"
 team: "清水建設江東ブルーシャークス"

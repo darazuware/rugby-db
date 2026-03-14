@@ -1,5 +1,5 @@
 ---
-title: "Aaron Smith"
+title: "アーロン ・スミス"
 name_en: "Aaron Smith"
 position: "SH"
 team: "トヨタヴェルブリッツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2013 - 2023)
+- ハイランダーズ (2013 - 2023)
 - マナワツ (2019 - 2021)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - )

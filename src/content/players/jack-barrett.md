@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Randwick Rugby (2022 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - )
+- ワラターズ (2023 - )

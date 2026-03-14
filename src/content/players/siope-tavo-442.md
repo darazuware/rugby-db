@@ -1,5 +1,5 @@
 ---
-title: "Siope Tavo"
+title: "シオペ ・タヴォ"
 name_en: "Siope Tavo"
 position: "CTB"
 team: "リコーブラックラムズ東京"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - 2022)
+- 中国電力レッドレギュリオンズ (2021 - 2022)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "TAICHI YOSHIZAWA"
+title: "吉澤 太一"
 name_en: "TAICHI YOSHIZAWA"
 position: "FB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

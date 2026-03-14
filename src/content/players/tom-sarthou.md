@@ -25,4 +25,4 @@ facebook: ""
 
 - Amicale Rugby de Marans (2011 - 2016)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- Rugby Club Vannes (2024 - )

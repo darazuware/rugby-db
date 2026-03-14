@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Sakuta"
+title: "作田 駿介"
 name_en: "Shunsuke Sakuta"
 position: "HO"
 team: "静岡ブルーレヴズ"

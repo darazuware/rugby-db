@@ -1,5 +1,5 @@
 ---
-title: "Ryuki Hayashi"
+title: "林 琉輝"
 name_en: "Ryuki Hayashi"
 position: "HO"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "Masaki Hamada"
+title: "濱田 将暉"
 name_en: "Masaki Hamada"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

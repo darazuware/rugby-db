@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2023)
+- オークランド (2019 - 2023)
 - New England Free Jacks (2021 - 2022)
 - マナワツ (2022 - 2023)
 - ノースランド (2023 - 2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- ブルーズ (2025 - )

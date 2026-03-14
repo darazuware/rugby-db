@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Handa"
+title: "半田 裕己"
 name_en: "Hiroki Handa"
 position: "SO"
 team: "クリタウォーターガッシュ昭島"

@@ -1,5 +1,5 @@
 ---
-title: "Gerard Cowley-tuioti"
+title: "ジェラード ・カウリートゥイオティ"
 name_en: "Gerard Cowley-tuioti"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2015 - 2021)
+- ブルーズ (2015 - 2021)
 - ノース・ハーバー (2019 - 2020)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - )

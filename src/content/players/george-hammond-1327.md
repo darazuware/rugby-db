@@ -1,5 +1,5 @@
 ---
-title: "George Hammond"
+title: "ジョージ ・ハモンド"
 name_en: "George Hammond"
 position: "LO"
 team: "東京サントリーサンゴリアス"

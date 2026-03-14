@@ -1,5 +1,5 @@
 ---
-title: "Kenji Sato"
+title: "佐藤 健次"
 name_en: "Kenji Sato"
 position: "HO"
 team: "埼玉パナソニックワイルドナイツ"

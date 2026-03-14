@@ -1,5 +1,5 @@
 ---
-title: "Ren Takano"
+title: "高野 蓮"
 name_en: "Ren Takano"
 position: "WTB"
 team: "花園近鉄ライナーズ"

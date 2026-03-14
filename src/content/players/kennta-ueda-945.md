@@ -1,5 +1,5 @@
 ---
-title: "KENNTA UEDA"
+title: "上田 健太"
 name_en: "KENNTA UEDA"
 position: "LO"
 team: "ルリーロ福岡"

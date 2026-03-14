@@ -25,4 +25,4 @@ facebook: ""
 
 - Rugby Club Massy Essonne (2014 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2026)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- Section Paloise Béarn Pyrénées (2021 - )

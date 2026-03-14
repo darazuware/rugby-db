@@ -1,5 +1,5 @@
 ---
-title: "Brody Macaskill"
+title: "ブロディ ・マカスケル"
 name_en: "Brody Macaskill"
 position: "FL/No8"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Koki Saito"
+title: "齋藤 弘毅"
 name_en: "Koki Saito"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

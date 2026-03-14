@@ -1,5 +1,5 @@
 ---
-title: "Takuya Kanemura"
+title: "金村 拓耶"
 name_en: "Takuya Kanemura"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"

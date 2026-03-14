@@ -1,5 +1,5 @@
 ---
-title: "Yujin Ikezawa"
+title: "池澤 佑尽"
 name_en: "Yujin Ikezawa"
 position: "SO"
 team: "クリタウォーターガッシュ昭島"

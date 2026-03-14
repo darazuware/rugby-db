@@ -1,5 +1,5 @@
 ---
-title: "Sean Robinson"
+title: "ショーン ・ロビンソン"
 name_en: "Sean Robinson"
 position: "LO"
 team: "九州電力キューデンヴォルテクス"

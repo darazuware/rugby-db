@@ -1,5 +1,5 @@
 ---
-title: "Isileli Manu"
+title: "イシレリ ・マヌ"
 name_en: "Isileli Manu"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"

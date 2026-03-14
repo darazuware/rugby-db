@@ -1,5 +1,5 @@
 ---
-title: "Michael Little"
+title: "マイケル ・リトル"
 name_en: "Michael Little"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"

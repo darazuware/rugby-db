@@ -1,5 +1,5 @@
 ---
-title: "Yutaka Nagare"
+title: "流 大"
 name_en: "Yutaka Nagare"
 position: "SH"
 team: "東京サントリーサンゴリアス"

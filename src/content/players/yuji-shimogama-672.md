@@ -1,5 +1,5 @@
 ---
-title: "Yuji Shimogama"
+title: "下釜 優次"
 name_en: "Yuji Shimogama"
 position: "HO"
 team: "埼玉パナソニックワイルドナイツ"

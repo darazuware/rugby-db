@@ -29,4 +29,4 @@ facebook: ""
 - Sporting Union Agenais (2017 - 2019)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- Stade Français Paris Rugby (2024 - )

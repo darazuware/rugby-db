@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Étoile Sportive Catalane (2009 - 2011)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2011 - 2020)
+- Union Sportive Arlequins Perpignanais (2011 - 2020)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )

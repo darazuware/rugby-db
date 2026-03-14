@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2018 - 2019)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2026)
+- New South Wales Country Eagles (2018 - 2019)
+- ワラターズ (2019 - 2026)
 - ベイ・オブ・プレンティ (2021 - )

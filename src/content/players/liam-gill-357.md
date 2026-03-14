@@ -1,5 +1,5 @@
 ---
-title: "Liam Gill"
+title: "リアム ・ギル"
 name_en: "Liam Gill"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2010 - 2016)
+- レッズ (2010 - 2016)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - 2017)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2020)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2020 - 2024)

@@ -1,5 +1,5 @@
 ---
-title: "Sione Afemui"
+title: "シオネ ・アフェムイ"
 name_en: "Sione Afemui"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"

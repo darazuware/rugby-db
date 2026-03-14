@@ -1,5 +1,5 @@
 ---
-title: "Sam Chongkit"
+title: "サム ・チョンキット"
 name_en: "Sam Chongkit"
 position: "LO"
 team: "マツダスカイアクティブズ広島"

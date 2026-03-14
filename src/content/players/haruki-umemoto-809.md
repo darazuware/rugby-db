@@ -1,5 +1,5 @@
 ---
-title: "Haruki Umemoto"
+title: "梅本 遥己"
 name_en: "Haruki Umemoto"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

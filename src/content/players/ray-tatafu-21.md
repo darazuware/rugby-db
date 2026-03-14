@@ -1,5 +1,5 @@
 ---
-title: "Ray Tatafu"
+title: "レイ ・タタフ"
 name_en: "Ray Tatafu"
 position: "LO"
 team: "九州電力キューデンヴォルテクス"

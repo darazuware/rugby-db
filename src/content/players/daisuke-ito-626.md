@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Ito"
+title: "伊藤 大祐"
 name_en: "Daisuke Ito"
 position: "UTB"
 team: "コベルコ神戸スティーラーズ"

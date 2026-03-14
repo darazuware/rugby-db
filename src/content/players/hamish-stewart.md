@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2022)
+- レッズ (2016 - 2022)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )

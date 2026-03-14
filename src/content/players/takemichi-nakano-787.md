@@ -1,5 +1,5 @@
 ---
-title: "Takemichi Nakano"
+title: "中野 剛通"
 name_en: "Takemichi Nakano"
 position: "FB"
 team: "トヨタヴェルブリッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Shintaro Fukuzawa"
+title: "福澤 慎太郎"
 name_en: "Shintaro Fukuzawa"
 position: "HO"
 team: "トヨタヴェルブリッツ"

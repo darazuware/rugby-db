@@ -1,5 +1,5 @@
 ---
-title: "Shunta Takenouchi"
+title: "竹ノ内 駿太"
 name_en: "Shunta Takenouchi"
 position: "SH"
 team: "九州電力キューデンヴォルテクス"

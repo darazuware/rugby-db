@@ -1,5 +1,5 @@
 ---
-title: "Jingo Murata"
+title: "村田 陣悟"
 name_en: "Jingo Murata"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

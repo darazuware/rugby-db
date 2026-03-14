@@ -26,4 +26,4 @@ facebook: ""
 - Aurore Rugby Club Vitré (2014 - 2015)
 - US Lectoure (2015 - 2021)
 - Sporting Union Agenais (2019 - 2020)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- Section Paloise Béarn Pyrénées (2021 - )

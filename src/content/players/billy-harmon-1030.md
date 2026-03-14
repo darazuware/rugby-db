@@ -1,5 +1,5 @@
 ---
-title: "Billy Harmon"
+title: "ビリー ・ハーモン"
 name_en: "Billy Harmon"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2020)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2024)
+- クルセイダーズ (2017 - 2020)
+- カンタベリー (2019 - 2024)
+- ハイランダーズ (2020 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Ryota Noda"
+title: "野田 涼太"
 name_en: "Ryota Noda"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"

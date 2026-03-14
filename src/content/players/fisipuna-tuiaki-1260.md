@@ -1,5 +1,5 @@
 ---
-title: "Fisipuna Tuiaki"
+title: "フィシプナ ・トゥイアキ"
 name_en: "Fisipuna Tuiaki"
 position: "CTB"
 team: "狭山セコムラガッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2018 - 2022)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2019 - 2020)
+- セコムラガッツ (2018 - 2022)
+- 日本 (2019 - 2020)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2022 - 2024)
 - 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

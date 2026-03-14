@@ -1,5 +1,5 @@
 ---
-title: "Jongchu Ryang"
+title: "梁 正秋"
 name_en: "Jongchu Ryang"
 position: "SH"
 team: "トヨタヴェルブリッツ"

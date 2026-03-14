@@ -1,5 +1,5 @@
 ---
-title: "Keita Kimura"
+title: "木村 圭汰"
 name_en: "Keita Kimura"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

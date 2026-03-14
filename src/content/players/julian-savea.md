@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2010 - 2023)
+- ハリケーンズ (2010 - 2023)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - 2020)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2025)
+- ウェリントン (2019 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

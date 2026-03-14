@@ -1,5 +1,5 @@
 ---
-title: "Uwe Helu"
+title: "ヘル ウヴェ"
 name_en: "Uwe Helu"
 position: "LO"
 team: "浦安D-Rocks"

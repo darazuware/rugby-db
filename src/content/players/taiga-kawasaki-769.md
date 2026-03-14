@@ -1,5 +1,5 @@
 ---
-title: "Taiga Kawasaki"
+title: "川崎 太雅"
 name_en: "Taiga Kawasaki"
 position: "PR"
 team: "トヨタヴェルブリッツ"

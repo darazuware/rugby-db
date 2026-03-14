@@ -25,4 +25,4 @@ facebook: ""
 
 - RC du Mont-Dore (2018 - 2020)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2026)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- Rugby Club Vannes (2023 - )

@@ -28,4 +28,4 @@ facebook: ""
 - US Dax Rugby Landes (2014 - 2018)
 - US Carcassonne (2018 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- Stade Français Paris Rugby (2024 - )

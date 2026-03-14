@@ -1,5 +1,5 @@
 ---
-title: "Marika Koroibete"
+title: "マリカ ・コロインベテ"
 name_en: "Marika Koroibete"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

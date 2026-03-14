@@ -1,5 +1,5 @@
 ---
-title: "Ash Paker"
+title: "パーカー アッシュ"
 name_en: "Ash Paker"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

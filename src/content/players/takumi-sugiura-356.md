@@ -1,5 +1,5 @@
 ---
-title: "Takumi Sugiura"
+title: "杉浦 拓実"
 name_en: "Takumi Sugiura"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

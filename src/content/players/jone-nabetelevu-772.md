@@ -1,5 +1,5 @@
 ---
-title: "Jone Nabetelevu"
+title: "ジョネ ・ナベテレヴ"
 name_en: "Jone Nabetelevu"
 position: "WTB"
 team: "トヨタヴェルブリッツ"

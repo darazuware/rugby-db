@@ -1,5 +1,5 @@
 ---
-title: "Rob Thompson"
+title: "ロブ ・トンプソン"
 name_en: "Rob Thompson"
 position: "CTB"
 team: "東芝ブレイブルーパス東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2014)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2020)
+- クルセイダーズ (2013 - 2014)
+- ハイランダーズ (2015 - 2020)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2020 - 2023)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2023 - )

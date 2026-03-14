@@ -1,5 +1,5 @@
 ---
-title: "Keisuke Kikuta"
+title: "菊田 圭佑"
 name_en: "Keisuke Kikuta"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

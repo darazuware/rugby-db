@@ -1,5 +1,5 @@
 ---
-title: "Shogo Yanagita"
+title: "柳田 翔吾"
 name_en: "Shogo Yanagita"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

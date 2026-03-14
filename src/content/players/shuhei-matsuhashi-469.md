@@ -1,5 +1,5 @@
 ---
-title: "Shuhei Matsuhashi"
+title: "松橋 周平"
 name_en: "Shuhei Matsuhashi"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"

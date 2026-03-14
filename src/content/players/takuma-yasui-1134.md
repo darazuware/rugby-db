@@ -1,5 +1,5 @@
 ---
-title: "Takuma Yasui"
+title: "安井 拓馬"
 name_en: "Takuma Yasui"
 position: "WTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

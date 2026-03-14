@@ -1,5 +1,5 @@
 ---
-title: "Halaholo Tokolahi"
+title: "ハラホロ ・トコラヒ"
 name_en: "Halaholo Tokolahi"
 position: "PR"
 team: "浦安D-Rocks"

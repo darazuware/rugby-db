@@ -28,4 +28,4 @@ facebook: ""
 - レスター・タイガース (2019 - 2021)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - 2024)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2025 - )
+- ハイランダーズ (2025 - )

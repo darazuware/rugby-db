@@ -1,5 +1,5 @@
 ---
-title: "Paddy Ryan"
+title: "パディー ・ライアン"
 name_en: "Paddy Ryan"
 position: "PR"
 team: "リコーブラックラムズ東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2024)
+- ワラターズ (2013 - 2024)
 - San Diego Legion (2018 - 2021)
 - 宗像サニックスブルース (2020 - 2022)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2022 - )

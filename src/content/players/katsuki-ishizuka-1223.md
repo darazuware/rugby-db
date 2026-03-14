@@ -1,5 +1,5 @@
 ---
-title: "Katsuki Ishizuka"
+title: "石塚 勝己"
 name_en: "Katsuki Ishizuka"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

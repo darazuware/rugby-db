@@ -1,5 +1,5 @@
 ---
-title: "Yutaro Tanaka"
+title: "田中 雄太郎"
 name_en: "Yutaro Tanaka"
 position: "LO"
 team: "マツダスカイアクティブズ広島"

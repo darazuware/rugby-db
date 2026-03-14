@@ -1,5 +1,5 @@
 ---
-title: "Motoki Kaneko"
+title: "金子 元紀"
 name_en: "Motoki Kaneko"
 position: "PR"
 team: "狭山セコムラガッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Hikaru Hashimoto"
+title: "橋本 皓"
 name_en: "Hikaru Hashimoto"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

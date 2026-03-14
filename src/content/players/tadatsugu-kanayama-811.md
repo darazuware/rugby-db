@@ -1,5 +1,5 @@
 ---
-title: "Tadatsugu Kanayama"
+title: "金山 忠次"
 name_en: "Tadatsugu Kanayama"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

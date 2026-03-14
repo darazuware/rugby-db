@@ -1,5 +1,5 @@
 ---
-title: "Shinnosuke Yamashita"
+title: "山下 真之介"
 name_en: "Shinnosuke Yamashita"
 position: "SO"
 team: "三菱重工相模原ダイナボアーズ"

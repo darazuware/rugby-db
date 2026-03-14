@@ -1,5 +1,5 @@
 ---
-title: "Koyo Adachi"
+title: "安達 航洋"
 name_en: "Koyo Adachi"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

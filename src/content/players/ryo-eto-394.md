@@ -1,5 +1,5 @@
 ---
-title: "Ryo Eto"
+title: "江藤 良"
 name_en: "Ryo Eto"
 position: "CTB"
 team: "横浜キヤノンイーグルス"

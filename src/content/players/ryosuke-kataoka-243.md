@@ -1,5 +1,5 @@
 ---
-title: "Ryosuke Kataoka"
+title: "片岡 涼亮"
 name_en: "Ryosuke Kataoka"
 position: "WTB"
 team: "花園近鉄ライナーズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2020 - )
+- 近鉄ライナーズ (2020 - )

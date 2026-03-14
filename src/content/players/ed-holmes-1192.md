@@ -1,5 +1,5 @@
 ---
-title: "Ed Holmes"
+title: "エド ・ホームズ"
 name_en: "Ed Holmes"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

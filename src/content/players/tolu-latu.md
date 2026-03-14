@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2023)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2022)
+- New South Wales Waratahs (2013 - 2023)
+- Stade Français Paris Rugby (2019 - 2022)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2024)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

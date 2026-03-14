@@ -1,5 +1,5 @@
 ---
-title: "Kota Mitake"
+title: "三竹 康太"
 name_en: "Kota Mitake"
 position: "PR"
 team: "リコーブラックラムズ東京"

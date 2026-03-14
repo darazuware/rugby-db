@@ -1,5 +1,5 @@
 ---
-title: "Saimoni Vunilagi"
+title: "サイモニ ・ヴニランギ"
 name_en: "Saimoni Vunilagi"
 position: "LO"
 team: "東京サントリーサンゴリアス"

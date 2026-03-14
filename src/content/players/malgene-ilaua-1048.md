@@ -1,5 +1,5 @@
 ---
-title: "Malgene Ilaua"
+title: "マルジーン ・イラウア"
 name_en: "Malgene Ilaua"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

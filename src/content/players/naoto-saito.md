@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sunwolves (2019 - 2020)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2020 - 2024)
+- Tokyo Sungoliath (2020 - 2024)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

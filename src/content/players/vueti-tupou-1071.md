@@ -1,5 +1,5 @@
 ---
-title: "Vueti Tupou"
+title: "ヴェティ ・トゥポウ"
 name_en: "Vueti Tupou"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

@@ -1,5 +1,5 @@
 ---
-title: "Matt Vaega"
+title: "マット ・ヴァエガ"
 name_en: "Matt Vaega"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
+- ブルーズ (2014 - 2016)
 - ノース・ハーバー (2016 - 2017)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2018 - )

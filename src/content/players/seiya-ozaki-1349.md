@@ -1,5 +1,5 @@
 ---
-title: "Seiya Ozaki"
+title: "尾崎 晟也"
 name_en: "Seiya Ozaki"
 position: "WTB"
 team: "東京サントリーサンゴリアス"

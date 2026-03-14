@@ -1,5 +1,5 @@
 ---
-title: "PieterLappiesLabuschagne"
+title: "ピーター ・ラピース・ラブスカフニ"
 name_en: "PieterLappiesLabuschagne"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

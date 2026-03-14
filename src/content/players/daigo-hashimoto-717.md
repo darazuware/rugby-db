@@ -1,5 +1,5 @@
 ---
-title: "Daigo Hashimoto"
+title: "橋本 大吾"
 name_en: "Daigo Hashimoto"
 position: "HO"
 team: "東芝ブレイブルーパス東京"

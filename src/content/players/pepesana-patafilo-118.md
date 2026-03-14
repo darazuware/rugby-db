@@ -1,5 +1,5 @@
 ---
-title: "Pepesana Patafilo"
+title: "ペペサナ ・パタフィロ"
 name_en: "Pepesana Patafilo"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2018)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020 - 2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2023)
+- ワイカト (2017 - 2018)
+- ウェリントン (2018 - 2024)
+- ハリケーンズ (2020 - 2022)
+- クルセイダーズ (2022 - 2023)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2025)
 - 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2025 - )

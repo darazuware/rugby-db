@@ -1,5 +1,5 @@
 ---
-title: "KANTA HASEGAWA"
+title: "長谷川 寛太"
 name_en: "KANTA HASEGAWA"
 position: "PR"
 team: "ルリーロ福岡"

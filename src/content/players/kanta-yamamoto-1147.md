@@ -1,5 +1,5 @@
 ---
-title: "KANTA YAMAMOTO"
+title: "山本 貫太"
 name_en: "KANTA YAMAMOTO"
 position: "FB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2019 - )
+- NTTドコモレッドハリケーンズ (2019 - )

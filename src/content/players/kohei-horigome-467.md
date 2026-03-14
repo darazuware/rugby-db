@@ -1,5 +1,5 @@
 ---
-title: "Kohei Horigome"
+title: "堀米 航平"
 name_en: "Kohei Horigome"
 position: "SO"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Ollie Stonham"
+title: "オリー ・ストーンハム"
 name_en: "Ollie Stonham"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

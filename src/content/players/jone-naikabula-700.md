@@ -1,5 +1,5 @@
 ---
-title: "Jone Naikabula"
+title: "ジョネ ・ナイカブラ"
 name_en: "Jone Naikabula"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

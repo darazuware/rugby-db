@@ -1,5 +1,5 @@
 ---
-title: "Shoki Yoshimoto"
+title: "吉本 匠希"
 name_en: "Shoki Yoshimoto"
 position: "FB"
 team: "三菱重工相模原ダイナボアーズ"

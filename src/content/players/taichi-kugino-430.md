@@ -1,5 +1,5 @@
 ---
-title: "Taichi Kugino"
+title: "久木野 太一"
 name_en: "Taichi Kugino"
 position: "CTB"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Wataru Furuya"
+title: "古谷 亘"
 name_en: "Wataru Furuya"
 position: "PR"
 team: "ルリーロ福岡"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - 2023)
+- NTTドコモレッドハリケーンズ大阪 (2022 - 2023)
 - 🇯🇵 [ルリーロ福岡](/teams/league-one/leriro-fukuoka) [D3] (2024 - )

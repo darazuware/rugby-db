@@ -1,5 +1,5 @@
 ---
-title: "Patrick Stehlin"
+title: "ステイリン パトリック"
 name_en: "Patrick Stehlin"
 position: "CTB"
 team: "花園近鉄ライナーズ"

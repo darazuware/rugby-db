@@ -1,5 +1,5 @@
 ---
-title: "Kenshin Takada"
+title: "高"
 name_en: "Kenshin Takada"
 position: "FB"
 team: "ヤクルトレビンズ戸田"

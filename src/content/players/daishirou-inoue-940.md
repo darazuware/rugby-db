@@ -1,5 +1,5 @@
 ---
-title: "DAISHIROU INOUE"
+title: "井上 大志郎"
 name_en: "DAISHIROU INOUE"
 position: "FL/No8"
 team: "ルリーロ福岡"

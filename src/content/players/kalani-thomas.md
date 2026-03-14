@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2019 - 2026)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - )
+- レッズ (2019 - 2026)
+- オークランド (2022 - )

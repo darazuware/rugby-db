@@ -1,5 +1,5 @@
 ---
-title: "Isaiah Mapusua"
+title: "アイザイア ・マプスア"
 name_en: "Isaiah Mapusua"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

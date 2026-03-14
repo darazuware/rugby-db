@@ -1,5 +1,5 @@
 ---
-title: "Junpei Ogura"
+title: "小倉 順平"
 name_en: "Junpei Ogura"
 position: "SO"
 team: "横浜キヤノンイーグルス"

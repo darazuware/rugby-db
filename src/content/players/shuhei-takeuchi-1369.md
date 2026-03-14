@@ -1,5 +1,5 @@
 ---
-title: "Shuhei Takeuchi"
+title: "竹内 柊平"
 name_en: "Shuhei Takeuchi"
 position: "PR"
 team: "東京サントリーサンゴリアス"

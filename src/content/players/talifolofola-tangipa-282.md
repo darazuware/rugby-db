@@ -1,5 +1,5 @@
 ---
-title: "Talifolofola Tangipa"
+title: "タリフォロフォラ ・タンギパ"
 name_en: "Talifolofola Tangipa"
 position: "FL/No8"
 team: "三重ホンダヒート"

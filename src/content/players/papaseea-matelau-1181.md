@@ -1,5 +1,5 @@
 ---
-title: "Papaseea Matelau"
+title: "パパセーア ・マテラウ"
 name_en: "Papaseea Matelau"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"

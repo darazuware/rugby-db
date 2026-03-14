@@ -26,4 +26,4 @@ facebook: ""
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
 - 🇦🇺 メルボルン・レベルズ (2017 - 2019)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- Rugby Club Vannes (2022 - )

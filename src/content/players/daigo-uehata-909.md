@@ -1,5 +1,5 @@
 ---
-title: "Daigo Uehata"
+title: "上畑 大吾"
 name_en: "Daigo Uehata"
 position: "FB"
 team: "ルリーロ福岡"

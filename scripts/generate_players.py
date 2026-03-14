@@ -4,8 +4,12 @@ import re
 import shutil
 import glob
 import json
+import sys
 from datetime import datetime
 from team_utils import linkify_career, get_team_info, get_team_link
+
+# CSVフィールドの制限を緩和
+csv.field_size_limit(1000000)
 
 # 設定
 CSV_PATH = 'data_sources/final_master_data_v25.csv'
@@ -245,7 +249,9 @@ def main():
                 for k in key_list:
                     if k in header_map:
                         idx = header_map[k]
-                        if idx < len(row): return row[idx].strip()
+                        if idx < len(row):
+                            val = row[idx].strip()
+                            if val: return val
                 return ""
 
             try:
@@ -331,6 +337,8 @@ facebook: "{get_val(['SNS_Facebook']).strip()}"
 """
                 with open(os.path.join(OUTPUT_DIR, f"{slug}.md"), 'w', encoding='utf-8') as wf: wf.write(content)
                 generated_count += 1
+                if generated_count % 200 == 0:
+                    print(f"Generated {generated_count} players...")
             except Exception as e:
                 print(f"Error processing row {i+1}: {e}")
 

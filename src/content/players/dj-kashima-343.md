@@ -1,5 +1,5 @@
 ---
-title: "DJ Kashima"
+title: "加島 DJ"
 name_en: "DJ Kashima"
 position: "WTB"
 team: "三菱重工相模原ダイナボアーズ"

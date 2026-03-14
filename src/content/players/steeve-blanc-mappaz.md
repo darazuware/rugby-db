@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Stade Olympique Chambéry (2009 - 2017)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - 2026)
+- Rugby Club Vannes (2017 - 2026)
 - FC Grenoble Rugby (2018 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )
+- Lyon Olympique Universitaire Rugby (2024 - )

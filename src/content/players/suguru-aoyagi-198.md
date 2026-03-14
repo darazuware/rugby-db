@@ -1,5 +1,5 @@
 ---
-title: "Suguru Aoyagi"
+title: "青柳 魁"
 name_en: "Suguru Aoyagi"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

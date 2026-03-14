@@ -25,4 +25,4 @@ facebook: ""
 
 - CSM Gennevilliers Rugby (2015 - 2017)
 - Rugby Club Massy Essonne (2017 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - )
+- Lyon Olympique Universitaire Rugby (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Richie Mounga"
+title: "リッチー ・モウンガ"
 name_en: "Richie Mounga"
 position: "SO"
 team: "東芝ブレイブルーパス東京"

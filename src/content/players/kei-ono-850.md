@@ -1,5 +1,5 @@
 ---
-title: "Kei Ono"
+title: "大野 敬"
 name_en: "Kei Ono"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"

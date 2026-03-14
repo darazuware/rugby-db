@@ -1,5 +1,5 @@
 ---
-title: "Sam Slade"
+title: "サム ・スレイド"
 name_en: "Sam Slade"
 position: "LO"
 team: "狭山セコムラガッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Teariki Ben-Nicholas"
+title: "テアレキ ・ベンニコラス"
 name_en: "Teariki Ben-Nicholas"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2020)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2021)
+- ウェリントン (2016 - 2020)
+- ハイランダーズ (2019 - 2021)
 - 🇫🇷 [カストル](/teams/top14/castres) (2021 - 2023)
 - 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2023 - )

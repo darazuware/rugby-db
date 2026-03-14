@@ -1,5 +1,5 @@
 ---
-title: "Jone Kerevi"
+title: "ジョネ ・ケレビ"
 name_en: "Jone Kerevi"
 position: "HO"
 team: "トヨタヴェルブリッツ"

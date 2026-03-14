@@ -1,5 +1,5 @@
 ---
-title: "Jonas Tanaka Dowling"
+title: "田中ダウリン ジョウナス"
 name_en: "Jonas Tanaka Dowling"
 position: "HO"
 team: "トヨタヴェルブリッツ"

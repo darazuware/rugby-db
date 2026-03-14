@@ -1,5 +1,5 @@
 ---
-title: "Dylan Nel"
+title: "ディラン ・ネル"
 name_en: "Dylan Nel"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - 2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2020)
+- オタゴ (2018 - 2021)
+- チーフス (2019 - 2020)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2021 - 2023)
 - サウスランド (2022 - 2024)
 - Utah Warriors (2023 - 2025)

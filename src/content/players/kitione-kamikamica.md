@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2014 - 2018)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2018 - 2026)
+- Rugby Club Vannes (2018 - 2026)
 - CA Brive Corrèze Limousin (2019 - 2022)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - )

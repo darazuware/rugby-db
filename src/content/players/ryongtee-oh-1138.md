@@ -1,5 +1,5 @@
 ---
-title: "Ryongtee Oh"
+title: "呉 嶺太"
 name_en: "Ryongtee Oh"
 position: "SO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

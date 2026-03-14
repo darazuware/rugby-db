@@ -1,5 +1,5 @@
 ---
-title: "Ikuma Yamada"
+title: "山田 生真"
 name_en: "Ikuma Yamada"
 position: "HO"
 team: "三重ホンダヒート"

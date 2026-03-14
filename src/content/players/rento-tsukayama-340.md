@@ -1,5 +1,5 @@
 ---
-title: "Rento Tsukayama"
+title: "津嘉山 廉人"
 name_en: "Rento Tsukayama"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

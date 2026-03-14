@@ -25,6 +25,6 @@ facebook: ""
 
 - Ussel (2009 - 2012)
 - Union Sportive Athlétique de Limoges (2012 - 2013)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2016)
+- Stade Français Paris Rugby (2013 - 2016)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )
+- Rugby Club Toulonnais (2022 - )

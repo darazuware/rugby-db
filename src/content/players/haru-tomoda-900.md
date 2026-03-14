@@ -1,5 +1,5 @@
 ---
-title: "Haru Tomoda"
+title: "友田 晴"
 name_en: "Haru Tomoda"
 position: "HO"
 team: "ルリーロ福岡"

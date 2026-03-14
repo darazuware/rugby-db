@@ -1,5 +1,5 @@
 ---
-title: "Jesse Kriel"
+title: "ジェシー ・クリエル"
 name_en: "Jesse Kriel"
 position: "CTB"
 team: "横浜キヤノンイーグルス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2013 - 2019)
+- ブルズ (2013 - 2019)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2019 - )

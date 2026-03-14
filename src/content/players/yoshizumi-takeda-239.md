@@ -1,5 +1,5 @@
 ---
-title: "Yoshizumi Takeda"
+title: "竹田 宜純"
 name_en: "Yoshizumi Takeda"
 position: "FB"
 team: "花園近鉄ライナーズ"

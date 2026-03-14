@@ -1,5 +1,5 @@
 ---
-title: "Yoshihiro Noguchi"
+title: "野口 宜裕"
 name_en: "Yoshihiro Noguchi"
 position: "WTB"
 team: "狭山セコムラガッツ"

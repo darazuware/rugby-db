@@ -1,5 +1,5 @@
 ---
-title: "Koki Iida"
+title: "飯田 光紀"
 name_en: "Koki Iida"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Kohei Takahashi"
+title: "高橋 昴平"
 name_en: "Kohei Takahashi"
 position: "SH"
 team: "東芝ブレイブルーパス東京"

@@ -1,5 +1,5 @@
 ---
-title: "Teruo Makabe"
+title: "眞壁 照男"
 name_en: "Teruo Makabe"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

@@ -1,5 +1,5 @@
 ---
-title: "KAITO SHIGE"
+title: "重 海人"
 name_en: "KAITO SHIGE"
 position: "SH"
 team: "ルリーロ福岡"

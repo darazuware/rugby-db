@@ -1,5 +1,5 @@
 ---
-title: "HIBIKI NAKAZAWA"
+title: "中澤 響"
 name_en: "HIBIKI NAKAZAWA"
 position: "FB"
 team: "ルリーロ福岡"

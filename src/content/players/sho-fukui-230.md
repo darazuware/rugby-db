@@ -1,5 +1,5 @@
 ---
-title: "Sho Fukui"
+title: "福井 翔"
 name_en: "Sho Fukui"
 position: "HO"
 team: "花園近鉄ライナーズ"

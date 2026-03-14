@@ -1,5 +1,5 @@
 ---
-title: "Kohki Sato"
+title: "佐藤 弘樹"
 name_en: "Kohki Sato"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

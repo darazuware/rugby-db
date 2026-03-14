@@ -1,5 +1,5 @@
 ---
-title: "Shintaro Okamoto"
+title: "岡本 慎太郎"
 name_en: "Shintaro Okamoto"
 position: "PR"
 team: "花園近鉄ライナーズ"

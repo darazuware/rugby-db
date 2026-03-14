@@ -1,5 +1,5 @@
 ---
-title: "Kosuke Urabe"
+title: "占部 航典"
 name_en: "Kosuke Urabe"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2014 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Edimbourg Rugby (2014 - 2025)
+- Union Sportive Arlequins Perpignanais (2025 - )

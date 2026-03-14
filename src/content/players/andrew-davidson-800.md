@@ -1,5 +1,5 @@
 ---
-title: "Andrew Davidson"
+title: "アンドリュー ・デビッドソン"
 name_en: "Andrew Davidson"
 position: "LO"
 team: "マツダスカイアクティブズ広島"
@@ -25,7 +25,7 @@ facebook: ""
 
 - ニューカッスル (2017 - 2019)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2018 - 2020)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2019 - 2021)
+- Edimbourg Rugby (2019 - 2021)
 - グロスター (2021 - 2023)
 - Ealing Trailfinders (2022 - 2024)
 - 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2024 - )

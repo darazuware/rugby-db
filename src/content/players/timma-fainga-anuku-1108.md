@@ -1,5 +1,5 @@
 ---
-title: "Timma Fainga anuku"
+title: "ティマ ・ファインガヌク"
 name_en: "Timma Fainga anuku"
 position: "PR"
 team: "日野レッドドルフィンズ"

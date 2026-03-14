@@ -1,5 +1,5 @@
 ---
-title: "Genki Okoshi"
+title: "大越 元気"
 name_en: "Genki Okoshi"
 position: "SH"
 team: "東京サントリーサンゴリアス"

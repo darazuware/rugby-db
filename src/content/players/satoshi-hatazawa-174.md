@@ -1,5 +1,5 @@
 ---
-title: "Satoshi Hatazawa"
+title: "畠澤 諭"
 name_en: "Satoshi Hatazawa"
 position: "LO"
 team: "日本製鉄釜石シーウェイブス"

@@ -23,13 +23,13 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2012 - 2014)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2016)
+- ワラターズ (2012 - 2014)
+- クルセイダーズ (2015 - 2016)
 - 🇦🇺 メルボルン・レベルズ (2016 - 2017)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2018)
 - ノース・ハーバー (2017 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2020 - 2021)
+- Union Sportive Arlequins Perpignanais (2020 - 2021)
 - Sporting Union Agenais (2023 - 2024)
 - レスター・タイガース (2024 - 2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - )
+- レッズ (2025 - )

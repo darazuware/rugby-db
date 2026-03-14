@@ -25,7 +25,7 @@ facebook: ""
 
 - Sporting Union Agenais (2015 - 2018)
 - Soyaux-Angoulême XV Charente (2018 - 2019)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2019 - 2021)
+- Rugby Club Vannes (2019 - 2021)
 - Stade Montois Rugby Pro (2020 - 2021)
 - FC Grenoble Rugby (2021 - 2025)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

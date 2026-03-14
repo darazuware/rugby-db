@@ -1,5 +1,5 @@
 ---
-title: "Kento Mizutani"
+title: "水谷 健人"
 name_en: "Kento Mizutani"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

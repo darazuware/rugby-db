@@ -1,5 +1,5 @@
 ---
-title: "Ryuga Hashimoto"
+title: "箸本 龍雅"
 name_en: "Ryuga Hashimoto"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

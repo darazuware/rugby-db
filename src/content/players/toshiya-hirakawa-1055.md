@@ -1,5 +1,5 @@
 ---
-title: "Toshiya Hirakawa"
+title: "平川 隼也"
 name_en: "Toshiya Hirakawa"
 position: "HO"
 team: "静岡ブルーレヴズ"

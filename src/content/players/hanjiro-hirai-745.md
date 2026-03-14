@@ -1,5 +1,5 @@
 ---
-title: "Hanjiro Hirai"
+title: "平井 半次郎"
 name_en: "Hanjiro Hirai"
 position: "PR"
 team: "トヨタヴェルブリッツ"

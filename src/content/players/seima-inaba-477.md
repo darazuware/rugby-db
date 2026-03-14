@@ -1,5 +1,5 @@
 ---
-title: "Seima Inaba"
+title: "稲葉 聖馬"
 name_en: "Seima Inaba"
 position: "SH"
 team: "リコーブラックラムズ東京"

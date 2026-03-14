@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2018 - 2026)
+- ハイランダーズ (2018 - 2026)
 - ホークスベイ (2019 - )

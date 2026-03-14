@@ -1,5 +1,5 @@
 ---
-title: "Sam Sheperd"
+title: "サム ・シェパード"
 name_en: "Sam Sheperd"
 position: "LO"
 team: "三重ホンダヒート"

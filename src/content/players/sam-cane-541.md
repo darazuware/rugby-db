@@ -1,5 +1,5 @@
 ---
-title: "Sam Cane"
+title: "サム ・ケイン"
 name_en: "Sam Cane"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)
+- チーフス (2013 - 2023)
 - ベイ・オブ・プレンティ (2019 - 2020)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2023 - )

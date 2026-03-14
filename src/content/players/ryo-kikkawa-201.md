@@ -1,5 +1,5 @@
 ---
-title: "Ryo Kikkawa"
+title: "吉川 遼"
 name_en: "Ryo Kikkawa"
 position: "FB"
 team: "日本製鉄釜石シーウェイブス"

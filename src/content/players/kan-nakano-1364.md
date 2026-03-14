@@ -1,5 +1,5 @@
 ---
-title: "Kan Nakano"
+title: "中野 幹"
 name_en: "Kan Nakano"
 position: "PR"
 team: "東京サントリーサンゴリアス"

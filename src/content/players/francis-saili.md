@@ -28,4 +28,4 @@ facebook: ""
 - Harlequins (2017 - 2020)
 - Biarritz Olympique Pays Basque (2020 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- Rugby Club Vannes (2024 - )

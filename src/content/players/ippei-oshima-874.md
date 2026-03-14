@@ -1,5 +1,5 @@
 ---
-title: "Ippei Oshima"
+title: "大嶌 一平"
 name_en: "Ippei Oshima"
 position: "SH"
 team: "ヤクルトレビンズ戸田"

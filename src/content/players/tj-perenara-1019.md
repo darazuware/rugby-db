@@ -1,5 +1,5 @@
 ---
-title: "TJ Perenara"
+title: "TJ ・ペレナラ"
 name_en: "TJ Perenara"
 position: "SH"
 team: "リコーブラックラムズ東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2024)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2020 - 2021)
+- ハリケーンズ (2013 - 2024)
+- ウェリントン (2019 - 2024)
+- NTTドコモレッドハリケーンズ大阪 (2020 - 2021)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2024 - )

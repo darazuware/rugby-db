@@ -1,5 +1,5 @@
 ---
-title: "Noah Tovio"
+title: "ノア ・トビオ"
 name_en: "Noah Tovio"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

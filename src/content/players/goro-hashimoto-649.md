@@ -1,5 +1,5 @@
 ---
-title: "Goro Hashimoto"
+title: "橋本 吾郎"
 name_en: "Goro Hashimoto"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Ito"
+title: "伊藤 耕太郎"
 name_en: "Kotaro Ito"
 position: "SO"
 team: "リコーブラックラムズ東京"

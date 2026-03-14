@@ -1,5 +1,5 @@
 ---
-title: "Itsuki Fujii"
+title: "藤井 樹"
 name_en: "Itsuki Fujii"
 position: "LO"
 team: "狭山セコムラガッツ"

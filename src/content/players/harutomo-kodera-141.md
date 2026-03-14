@@ -1,5 +1,5 @@
 ---
-title: "Harutomo Kodera"
+title: "小寺 晴大"
 name_en: "Harutomo Kodera"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

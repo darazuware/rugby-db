@@ -1,5 +1,5 @@
 ---
-title: "Reijiro Usui"
+title: "臼井 礼二朗"
 name_en: "Reijiro Usui"
 position: "SH"
 team: "清水建設江東ブルーシャークス"

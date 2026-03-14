@@ -1,5 +1,5 @@
 ---
-title: "Koshi Kato"
+title: "加藤 滉紫"
 name_en: "Koshi Kato"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

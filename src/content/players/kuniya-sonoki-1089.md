@@ -1,5 +1,5 @@
 ---
-title: "Kuniya Sonoki"
+title: "園木 邦弥"
 name_en: "Kuniya Sonoki"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

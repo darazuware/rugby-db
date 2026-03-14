@@ -1,5 +1,5 @@
 ---
-title: "Cormac Daly"
+title: "コルマック ・ダリー"
 name_en: "Cormac Daly"
 position: "LO"
 team: "横浜キヤノンイーグルス"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇪 コナート・ラグビー (2018 - 2021)
+- コナート (2018 - 2021)
 - Rugby United New-York (2019 - 2020)
 - Randwick Rugby (2022 - 2023)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - 2024)
+- レッズ (2023 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

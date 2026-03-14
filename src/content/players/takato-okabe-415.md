@@ -1,5 +1,5 @@
 ---
-title: "Takato Okabe"
+title: "岡部 崇人"
 name_en: "Takato Okabe"
 position: "PR"
 team: "横浜キヤノンイーグルス"

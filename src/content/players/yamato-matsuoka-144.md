@@ -1,5 +1,5 @@
 ---
-title: "Yamato Matsuoka"
+title: "松岡 大和"
 name_en: "Yamato Matsuoka"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"

@@ -1,5 +1,5 @@
 ---
-title: "Ryunosuke Momoji"
+title: "百地 龍之介"
 name_en: "Ryunosuke Momoji"
 position: "PR"
 team: "トヨタヴェルブリッツ"

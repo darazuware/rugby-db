@@ -1,5 +1,5 @@
 ---
-title: "Kengo Kitagawa"
+title: "北川 賢吾"
 name_en: "Kengo Kitagawa"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Mitchell Brown"
+title: "ミッチェル ・ブラウン"
 name_en: "Mitchell Brown"
 position: "LO"
 team: "花園近鉄ライナーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2022)
+- チーフス (2015 - 2022)
 - タラナキ (2019 - 2022)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - 2024)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2024 - )

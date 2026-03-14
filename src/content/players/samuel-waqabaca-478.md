@@ -1,5 +1,5 @@
 ---
-title: "Samuel Waqabaca"
+title: "サミュエラ ・ワカヴァカ"
 name_en: "Samuel Waqabaca"
 position: "PR"
 team: "リコーブラックラムズ東京"

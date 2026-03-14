@@ -1,5 +1,5 @@
 ---
-title: "Ryusei Kaneko"
+title: "金子 琉聖"
 name_en: "Ryusei Kaneko"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

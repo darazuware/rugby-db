@@ -1,5 +1,5 @@
 ---
-title: "Yoshikatsu Hikosaka"
+title: "彦坂 圭克"
 name_en: "Yoshikatsu Hikosaka"
 position: "HO"
 team: "トヨタヴェルブリッツ"

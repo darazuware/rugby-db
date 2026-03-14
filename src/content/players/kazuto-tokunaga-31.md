@@ -1,5 +1,5 @@
 ---
-title: "Kazuto Tokunaga"
+title: "徳永 一斗"
 name_en: "Kazuto Tokunaga"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

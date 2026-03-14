@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Université du Queensland (2021 - 2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2026)
+- ブランビーズ (2022 - 2026)
 - マナワツ (2023 - )

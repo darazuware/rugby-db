@@ -1,5 +1,5 @@
 ---
-title: "Ken Osanai"
+title: "小山内 健"
 name_en: "Ken Osanai"
 position: "PR"
 team: "日野レッドドルフィンズ"

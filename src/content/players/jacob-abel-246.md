@@ -1,5 +1,5 @@
 ---
-title: "JACOB ABEL"
+title: "ジェイコブ ・アベル"
 name_en: "JACOB ABEL"
 position: "SH"
 team: "マツダスカイアクティブズ広島"

@@ -1,5 +1,5 @@
 ---
-title: "Kanta Ogawa"
+title: "小川 寛大"
 name_en: "Kanta Ogawa"
 position: "PR"
 team: "東京サントリーサンゴリアス"
@@ -25,4 +25,4 @@ facebook: ""
 
 - JR西日本レイラーズ (2021 - 2023)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2023 - 2025)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2025 - )
+- Tokyo Sungoliath (2025 - )

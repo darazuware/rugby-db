@@ -1,5 +1,5 @@
 ---
-title: "Genki Mizobuchi"
+title: "溝渕 元気"
 name_en: "Genki Mizobuchi"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"

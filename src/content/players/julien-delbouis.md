@@ -25,4 +25,4 @@ facebook: ""
 
 - US Métro (2004 - 2011)
 - Rugby Club Massy Essonne (2011 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )
+- Stade Français Paris Rugby (2018 - )

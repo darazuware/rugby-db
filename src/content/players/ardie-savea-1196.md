@@ -1,5 +1,5 @@
 ---
-title: "Ardie Savea"
+title: "アーディ ・サベア"
 name_en: "Ardie Savea"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2020)
+- ハリケーンズ (2013 - 2023)
+- ウェリントン (2019 - 2020)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2023 - 2026)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

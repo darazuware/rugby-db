@@ -1,5 +1,5 @@
 ---
-title: "Ryuji Fujimura"
+title: "藤村 琉士"
 name_en: "Ryuji Fujimura"
 position: "HO"
 team: "浦安D-Rocks"

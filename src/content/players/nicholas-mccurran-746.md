@@ -1,5 +1,5 @@
 ---
-title: "Nicholas McCurran"
+title: "ニコラス ・マクカラン"
 name_en: "Nicholas McCurran"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

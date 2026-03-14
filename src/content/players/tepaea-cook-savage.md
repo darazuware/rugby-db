@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- ワイカト (2020 - 2025)
+- チーフス (2025 - )

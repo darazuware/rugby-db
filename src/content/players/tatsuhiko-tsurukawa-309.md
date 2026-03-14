@@ -1,5 +1,5 @@
 ---
-title: "Tatsuhiko Tsurukawa"
+title: "鶴川 達彦"
 name_en: "Tatsuhiko Tsurukawa"
 position: "PR"
 team: "三重ホンダヒート"

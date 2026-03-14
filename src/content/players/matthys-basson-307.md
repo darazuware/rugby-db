@@ -1,5 +1,5 @@
 ---
-title: "Matthys Basson"
+title: "マティウス ・バッソン"
 name_en: "Matthys Basson"
 position: "PR"
 team: "三重ホンダヒート"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2017 - 2019)
+- ブルズ (2017 - 2019)
 - ブルー・ブルズ (2019 - 2020)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2020 - )

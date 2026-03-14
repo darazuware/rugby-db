@@ -1,5 +1,5 @@
 ---
-title: "Ippei Okada"
+title: "岡田 一平"
 name_en: "Ippei Okada"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Shintaro Fujii"
+title: "藤井 慎太郎"
 name_en: "Shintaro Fujii"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

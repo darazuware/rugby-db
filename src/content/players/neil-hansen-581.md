@@ -1,5 +1,5 @@
 ---
-title: "Neil Hansen"
+title: "ニール ・ハンセン"
 name_en: "Neil Hansen"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"

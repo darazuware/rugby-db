@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2021)
 - Soyaux-Angoulême XV Charente (2021 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- Rugby Club Vannes (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Northampton Saints (2016 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- Rugby Club Toulonnais (2024 - )

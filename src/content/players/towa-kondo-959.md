@@ -1,5 +1,5 @@
 ---
-title: "Towa Kondo"
+title: "近藤 翔耶"
 name_en: "Towa Kondo"
 position: "CTB"
 team: "クボタスピアーズ船橋・東京ベイ"

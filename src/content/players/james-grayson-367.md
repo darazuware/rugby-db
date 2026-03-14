@@ -1,5 +1,5 @@
 ---
-title: "JAMES GRAYSON"
+title: "ジェームス ・グレイソン"
 name_en: "JAMES GRAYSON"
 position: "SO"
 team: "三菱重工相模原ダイナボアーズ"

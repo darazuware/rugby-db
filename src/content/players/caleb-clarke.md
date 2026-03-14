@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2026)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - )
+- ブルーズ (2017 - 2026)
+- オークランド (2019 - )

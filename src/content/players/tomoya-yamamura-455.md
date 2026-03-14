@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Yamamura"
+title: "山村 知也"
 name_en: "Tomoya Yamamura"
 position: "WTB"
 team: "リコーブラックラムズ東京"

@@ -1,5 +1,5 @@
 ---
-title: "Tiaan Falcon"
+title: "ティアーン ・ファルコン"
 name_en: "Tiaan Falcon"
 position: "FB"
 team: "トヨタヴェルブリッツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2020)
+- チーフス (2017 - 2020)
 - ホークスベイ (2020 - 2021)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2021 - )

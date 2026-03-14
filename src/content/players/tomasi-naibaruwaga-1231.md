@@ -1,5 +1,5 @@
 ---
-title: "Tomasi Naibaruwaga"
+title: "ナイバルワガ トマシ"
 name_en: "Tomasi Naibaruwaga"
 position: "WTB"
 team: "狭山セコムラガッツ"

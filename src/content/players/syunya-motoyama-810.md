@@ -1,5 +1,5 @@
 ---
-title: "Syunya Motoyama"
+title: "本山 峻也"
 name_en: "Syunya Motoyama"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

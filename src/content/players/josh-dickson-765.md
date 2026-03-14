@@ -1,5 +1,5 @@
 ---
-title: "Josh Dickson"
+title: "ジョシュ ・ディクソン"
 name_en: "Josh Dickson"
 position: "LO"
 team: "トヨタヴェルブリッツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2023)
+- ハイランダーズ (2017 - 2023)
+- オタゴ (2019 - 2023)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2023 - )

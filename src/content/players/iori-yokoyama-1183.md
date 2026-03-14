@@ -1,5 +1,5 @@
 ---
-title: "Iori Yokoyama"
+title: "横山 伊織"
 name_en: "Iori Yokoyama"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

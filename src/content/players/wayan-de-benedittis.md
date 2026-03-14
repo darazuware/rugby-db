@@ -25,5 +25,5 @@ facebook: ""
 
 - FC Grenoble Rugby (2006 - 2019)
 - 🇫🇷 [カストル](/teams/top14/castres) (2019 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Lyon Olympique Universitaire Rugby (2024 - 2025)
+- Rugby Club Vannes (2025 - )

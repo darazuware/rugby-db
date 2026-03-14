@@ -1,5 +1,5 @@
 ---
-title: "Kiyoshi Ishii"
+title: "石井 清"
 name_en: "Kiyoshi Ishii"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

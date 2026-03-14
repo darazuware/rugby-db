@@ -27,5 +27,5 @@ facebook: ""
 - CS Bourgoin Jallieu Rugby (2017 - 2019)
 - Soyaux-Angoulême XV Charente (2019 - 2023)
 - US Colomiers (2023 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - 2026)
+- Lyon Olympique Universitaire Rugby (2025 - 2026)
 - CA Brive Corrèze Limousin (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Taiyou Kubo"
+title: "久保 太陽"
 name_en: "Taiyou Kubo"
 position: "FL/No8"
 team: "中国電力レッドレグリオンズ"

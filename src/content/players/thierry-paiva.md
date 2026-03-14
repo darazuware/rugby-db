@@ -26,4 +26,4 @@ facebook: ""
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2022)
 - US Carcassonne (2016 - 2017)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- Stade Français Paris Rugby (2025 - )

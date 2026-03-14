@@ -1,5 +1,5 @@
 ---
-title: "Sione Vuna"
+title: "シオネ ・ブナ"
 name_en: "Sione Vuna"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

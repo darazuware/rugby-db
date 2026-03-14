@@ -1,5 +1,5 @@
 ---
-title: "Shodai Osada"
+title: "長田 将大"
 name_en: "Shodai Osada"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

@@ -1,5 +1,5 @@
 ---
-title: "Kazuhiro Kawata"
+title: "河田 和大"
 name_en: "Kazuhiro Kawata"
 position: "PR"
 team: "静岡ブルーレヴズ"

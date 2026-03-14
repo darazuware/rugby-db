@@ -28,4 +28,4 @@ facebook: ""
 - Anglet Olympique Rugby Club (2019 - 2020)
 - Stado Tarbes Pyrénées Rugby (2020 - 2021)
 - Association Sportive Béziers Hérault (2021 - 2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Section Paloise Béarn Pyrénées (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Gaku Shimizu"
+title: "清水 岳"
 name_en: "Gaku Shimizu"
 position: "PR"
 team: "トヨタヴェルブリッツ"

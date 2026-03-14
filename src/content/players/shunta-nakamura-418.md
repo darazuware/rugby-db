@@ -1,5 +1,5 @@
 ---
-title: "Shunta Nakamura"
+title: "中村 駿太"
 name_en: "Shunta Nakamura"
 position: "HO"
 team: "横浜キヤノンイーグルス"

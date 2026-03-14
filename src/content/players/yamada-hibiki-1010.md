@@ -1,5 +1,5 @@
 ---
-title: "Yamada Hibiki"
+title: "山田 響"
 name_en: "Yamada Hibiki"
 position: "UTB"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
+- ウェリントン (2024 - 2025)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2024 - )

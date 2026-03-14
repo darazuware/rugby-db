@@ -25,4 +25,4 @@ facebook: ""
 
 - Queensland Country (2018 - 2019)
 - Brothers Rugby Club (2019 - 2020)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - )
+- レッズ (2020 - )

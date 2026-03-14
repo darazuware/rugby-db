@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Section Lexovienne Rugby (2006 - 2017)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - )
+- Rugby Club Vannes (2017 - )

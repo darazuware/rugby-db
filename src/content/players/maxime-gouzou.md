@@ -26,4 +26,4 @@ facebook: ""
 - US Bardos (2006 - 2009)
 - Biarritz Olympique Pays Basque (2009 - 2018)
 - Stade Montois Rugby Pro (2018 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

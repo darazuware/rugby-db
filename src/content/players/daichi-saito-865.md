@@ -1,5 +1,5 @@
 ---
-title: "Daichi Saito"
+title: "斉藤 大智"
 name_en: "Daichi Saito"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

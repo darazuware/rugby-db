@@ -1,5 +1,5 @@
 ---
-title: "Timothy Lafaele"
+title: "ラファエレ ティモシー"
 name_en: "Timothy Lafaele"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"

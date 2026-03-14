@@ -1,5 +1,5 @@
 ---
-title: "Naoki Izutani"
+title: "泉谷 尚輝"
 name_en: "Naoki Izutani"
 position: "SO"
 team: "ヤクルトレビンズ戸田"

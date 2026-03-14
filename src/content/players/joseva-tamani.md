@@ -26,4 +26,4 @@ facebook: ""
 - Hunter Wildfires (2020 - 2021)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2026)
 - US Colomiers (2023 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - )
+- オタゴ (2024 - )

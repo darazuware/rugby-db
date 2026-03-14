@@ -1,5 +1,5 @@
 ---
-title: "Yuki Kawai"
+title: "河井 祐樹"
 name_en: "Yuki Kawai"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

@@ -1,5 +1,5 @@
 ---
-title: "Motoki Tanaka"
+title: "田中 元珠"
 name_en: "Motoki Tanaka"
 position: "SH"
 team: "東芝ブレイブルーパス東京"

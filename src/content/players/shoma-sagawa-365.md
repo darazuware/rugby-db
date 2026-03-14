@@ -1,5 +1,5 @@
 ---
-title: "Shoma Sagawa"
+title: "佐川 奨茉"
 name_en: "Shoma Sagawa"
 position: "HO"
 team: "三菱重工相模原ダイナボアーズ"

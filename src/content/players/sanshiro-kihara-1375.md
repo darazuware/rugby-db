@@ -1,5 +1,5 @@
 ---
-title: "Sanshiro Kihara"
+title: "木原 三四郎"
 name_en: "Sanshiro Kihara"
 position: "PR"
 team: "東京サントリーサンゴリアス"

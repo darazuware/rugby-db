@@ -1,5 +1,5 @@
 ---
-title: "Takehiro Kimura"
+title: "木村 勇大"
 name_en: "Takehiro Kimura"
 position: "FL/No8"
 team: "中国電力レッドレグリオンズ"
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2021 - 2023)
 - sans club (2024 - 2025)
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2025 - )
+- 中国電力レッドレギュリオンズ (2025 - )

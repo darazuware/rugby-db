@@ -1,5 +1,5 @@
 ---
-title: "Kazunari Takagi"
+title: "高木 一成"
 name_en: "Kazunari Takagi"
 position: "WTB"
 team: "横浜キヤノンイーグルス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2020 - )
+- キヤノンイーグルス (2020 - )

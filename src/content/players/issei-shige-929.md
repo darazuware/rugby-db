@@ -1,5 +1,5 @@
 ---
-title: "ISSEI SHIGE"
+title: "重 一生"
 name_en: "ISSEI SHIGE"
 position: "CTB"
 team: "ルリーロ福岡"

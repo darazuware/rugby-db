@@ -1,5 +1,5 @@
 ---
-title: "Bernard Foley"
+title: "バーナード ・フォーリー"
 name_en: "Bernard Foley"
 position: "SO"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2011 - 2019)
+- ワラターズ (2011 - 2019)
 - シドニー・スターズ (2014)
-- 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2015 - 2016)
+- リコーブラックラムズ (2015 - 2016)
 - NSWカウンティ (2016)
 - S東京ベイ (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Yamamoto"
+title: "山本 浩輝"
 name_en: "Hiroki Yamamoto"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2015 - )
+- 東芝ブレイブルーパス (2015 - )

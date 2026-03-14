@@ -1,5 +1,5 @@
 ---
-title: "Riku Mizuno"
+title: "水野 陸"
 name_en: "Riku Mizuno"
 position: "WTB"
 team: "狭山セコムラガッツ"

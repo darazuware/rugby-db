@@ -1,5 +1,5 @@
 ---
-title: "Tatsuya Hayashi"
+title: "林 辰哉"
 name_en: "Tatsuya Hayashi"
 position: "CTB"
 team: "狭山セコムラガッツ"

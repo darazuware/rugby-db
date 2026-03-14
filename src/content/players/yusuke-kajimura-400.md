@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Kajimura"
+title: "梶村 祐介"
 name_en: "Yusuke Kajimura"
 position: "CTB"
 team: "横浜キヤノンイーグルス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2018 - 2021)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2021 - )
+- サントリーサンゴリアス (2018 - 2021)
+- キヤノンイーグルス (2021 - )

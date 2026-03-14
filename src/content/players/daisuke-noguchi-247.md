@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Noguchi"
+title: "野口 大輔"
 name_en: "Daisuke Noguchi"
 position: "SO"
 team: "花園近鉄ライナーズ"

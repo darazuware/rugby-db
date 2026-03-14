@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - RC Rustavi Kharebi (2014 - 2015)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2015 - )
+- Stade Français Paris Rugby (2015 - )

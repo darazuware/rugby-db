@@ -1,5 +1,5 @@
 ---
-title: "Yutaro Danno"
+title: "檀野 友多郎"
 name_en: "Yutaro Danno"
 position: "PR"
 team: "日野レッドドルフィンズ"

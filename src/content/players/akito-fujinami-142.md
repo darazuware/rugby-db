@@ -1,5 +1,5 @@
 ---
-title: "Akito Fujinami"
+title: "藤浪 輝人"
 name_en: "Akito Fujinami"
 position: "HO"
 team: "豊田自動織機シャトルズ愛知"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2018 - 2021)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2021 - )
+- Honda (2018 - 2021)
+- 豊田自動織機シャトルズ (2021 - )

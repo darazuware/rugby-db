@@ -1,5 +1,5 @@
 ---
-title: "Riley Hohepa"
+title: "ライリー ・ホヘパ"
 name_en: "Riley Hohepa"
 position: "SO"
 team: "NECグリーンロケッツ東葛"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - カウンティーズ・マヌカウ (2019 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2025)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
+- ハリケーンズ (2022 - 2025)
+- クルセイダーズ (2023 - 2024)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )

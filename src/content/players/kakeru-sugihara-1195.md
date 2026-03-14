@@ -1,5 +1,5 @@
 ---
-title: "Kakeru Sugihara"
+title: "杉原 駿"
 name_en: "Kakeru Sugihara"
 position: "SH"
 team: "クリタウォーターガッシュ昭島"

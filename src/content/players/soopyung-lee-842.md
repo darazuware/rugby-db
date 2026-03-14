@@ -1,5 +1,5 @@
 ---
-title: "Soopyung Lee"
+title: "李 修平"
 name_en: "Soopyung Lee"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

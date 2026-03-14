@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Rugby Club Toulonnais (2015 - 2025)
+- Union Sportive Arlequins Perpignanais (2025 - )

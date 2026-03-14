@@ -1,5 +1,5 @@
 ---
-title: "Shumpei Matsuzawa"
+title: "松澤 駿平"
 name_en: "Shumpei Matsuzawa"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

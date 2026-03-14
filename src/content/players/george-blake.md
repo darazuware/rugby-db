@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2026)
+- レッズ (2021 - 2026)
 - マナワツ (2023 - )

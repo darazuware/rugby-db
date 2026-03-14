@@ -1,5 +1,5 @@
 ---
-title: "Jose Seru"
+title: "セル ホゼ"
 name_en: "Jose Seru"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2018 - 2021)
+- 日本 (2018 - 2021)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2020 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - Jaguares (2015 - 2020)
 - Leicester Tigers (2020 - 2025)
-- 🇫🇷 [ポー](/teams/top14/pau) (2025 - )
+- Section Paloise Béarn Pyrénées (2025 - )

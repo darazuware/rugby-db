@@ -1,5 +1,5 @@
 ---
-title: "Takehiro Nishimura"
+title: "西村 雄大"
 name_en: "Takehiro Nishimura"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

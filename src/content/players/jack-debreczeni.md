@@ -25,9 +25,9 @@ facebook: ""
 
 - 🇦🇺 メルボルン・レベルズ (2013 - 2018)
 - ノースランド (2018 - 2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- チーフス (2018 - 2019)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2021)
+- カンタベリー (2020 - 2021)
 - West Harbour RFC (2021 - 2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ブランビーズ (2022 - 2025)
+- ワラターズ (2025 - )

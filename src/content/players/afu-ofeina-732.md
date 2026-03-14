@@ -1,5 +1,5 @@
 ---
-title: "Afu Ofeina"
+title: "アフ ・オフィナ"
 name_en: "Afu Ofeina"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"

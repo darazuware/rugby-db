@@ -1,5 +1,5 @@
 ---
-title: "Yuo Kim"
+title: "金 侑悟"
 name_en: "Yuo Kim"
 position: "SO"
 team: "浦安D-Rocks"

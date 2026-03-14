@@ -1,5 +1,5 @@
 ---
-title: "Nobuhisa Takahashi"
+title: "高橋 信之"
 name_en: "Nobuhisa Takahashi"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

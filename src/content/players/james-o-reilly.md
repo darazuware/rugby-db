@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2024)
-- 🇿🇦 エミレーツ・ライオンズ (2018 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Wellington Lions (2018 - 2025)
+- Rugby Club Vannes (2025 - )

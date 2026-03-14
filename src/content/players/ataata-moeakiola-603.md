@@ -1,5 +1,5 @@
 ---
-title: "Ataata Moeakiola"
+title: "アタアタ ・モエアキオラ"
 name_en: "Ataata Moeakiola"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- チーフス (2018 - 2019)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2019 - 2026)
 - マナワツ (2023 - )

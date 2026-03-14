@@ -1,5 +1,5 @@
 ---
-title: "TYE NASH"
+title: "タイ ・ナッシュ"
 name_en: "TYE NASH"
 position: "LO"
 team: "マツダスカイアクティブズ広島"

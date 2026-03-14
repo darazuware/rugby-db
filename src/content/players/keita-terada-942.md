@@ -1,5 +1,5 @@
 ---
-title: "KEITA TERADA"
+title: "寺田 桂太"
 name_en: "KEITA TERADA"
 position: "LO"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Chihiro Matsuyama"
+title: "松山 千大"
 name_en: "Chihiro Matsuyama"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

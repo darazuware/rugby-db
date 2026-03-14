@@ -1,5 +1,5 @@
 ---
-title: "Kodai Okazaki"
+title: "岡崎 航大"
 name_en: "Kodai Okazaki"
 position: "SH"
 team: "静岡ブルーレヴズ"

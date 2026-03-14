@@ -1,5 +1,5 @@
 ---
-title: "Phransis Sula-Siaosi"
+title: "フランシス ・スラ・シアオシ"
 name_en: "Phransis Sula-Siaosi"
 position: "PR"
 team: "NECグリーンロケッツ東葛"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Souths Rugby (2021 - 2024)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2023)
+- レッズ (2022 - 2023)
 - Hong Kong Football Club (2024 - 2025)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )

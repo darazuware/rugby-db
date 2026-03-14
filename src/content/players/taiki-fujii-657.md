@@ -1,5 +1,5 @@
 ---
-title: "Taiki Fujii"
+title: "藤井 大喜"
 name_en: "Taiki Fujii"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

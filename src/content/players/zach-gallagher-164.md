@@ -1,5 +1,5 @@
 ---
-title: "Zach Gallagher"
+title: "ザック ・ギャラハー"
 name_en: "Zach Gallagher"
 position: "LO"
 team: "トヨタヴェルブリッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2025)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2021 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
+- カンタベリー (2020 - 2025)
+- クルセイダーズ (2021 - 2024)
+- ハリケーンズ (2024 - 2025)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Sione Halasili"
+title: "シオネ ・ハラシリ"
 name_en: "Sione Halasili"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

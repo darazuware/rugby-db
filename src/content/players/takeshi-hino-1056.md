@@ -1,5 +1,5 @@
 ---
-title: "Takeshi Hino"
+title: "日野 剛志"
 name_en: "Takeshi Hino"
 position: "HO"
 team: "静岡ブルーレヴズ"

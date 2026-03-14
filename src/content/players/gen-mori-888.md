@@ -1,5 +1,5 @@
 ---
-title: "Gen Mori"
+title: "守 源"
 name_en: "Gen Mori"
 position: "LO"
 team: "ヤクルトレビンズ戸田"

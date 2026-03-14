@@ -1,5 +1,5 @@
 ---
-title: "Hashizou Yoshida"
+title: "吉田 橋蔵"
 name_en: "Hashizou Yoshida"
 position: "SO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

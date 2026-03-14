@@ -1,5 +1,5 @@
 ---
-title: "Yasue Yoshimitsu"
+title: "安江 祥光"
 name_en: "Yasue Yoshimitsu"
 position: "HO"
 team: "クボタスピアーズ船橋・東京ベイ"

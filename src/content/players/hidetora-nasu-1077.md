@@ -1,5 +1,5 @@
 ---
-title: "Hidetora Nasu"
+title: "奈須 秀虎"
 name_en: "Hidetora Nasu"
 position: "LO"
 team: "日野レッドドルフィンズ"

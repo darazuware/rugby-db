@@ -26,5 +26,5 @@ facebook: ""
 - Rugby Club Nîmois (2010 - 2018)
 - France 7 (2018 - 2021)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Lyon Olympique Universitaire Rugby (2021 - 2023)
+- Union Sportive Arlequins Perpignanais (2023 - )

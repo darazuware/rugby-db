@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - U.S. Morlaàs Rugby (2006 - 2014)
-- 🇫🇷 [ポー](/teams/top14/pau) (2014 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- Section Paloise Béarn Pyrénées (2014 - 2024)
+- Rugby Club Vannes (2023 - )

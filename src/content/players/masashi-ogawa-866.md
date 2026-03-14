@@ -1,5 +1,5 @@
 ---
-title: "Masashi Ogawa"
+title: "小川 正志"
 name_en: "Masashi Ogawa"
 position: "LO"
 team: "ヤクルトレビンズ戸田"

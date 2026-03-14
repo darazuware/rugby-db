@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Sakamoto"
+title: "坂本 侑翼"
 name_en: "Yusuke Sakamoto"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

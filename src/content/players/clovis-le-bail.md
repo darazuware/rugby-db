@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Stade Nantais (2004 - 2014)
-- 🇫🇷 [ポー](/teams/top14/pau) (2014 - 2023)
+- Section Paloise Béarn Pyrénées (2014 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

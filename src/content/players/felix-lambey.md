@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2013 - 2026)
+- Lyon Olympique Universitaire Rugby (2013 - 2026)
 - Association Sportive Béziers Hérault (2015 - )

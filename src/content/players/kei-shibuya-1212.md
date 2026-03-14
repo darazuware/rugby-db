@@ -1,5 +1,5 @@
 ---
-title: "Kei Shibuya"
+title: "渋谷 圭"
 name_en: "Kei Shibuya"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

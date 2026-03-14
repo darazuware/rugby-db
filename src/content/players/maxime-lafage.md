@@ -26,4 +26,4 @@ facebook: ""
 - US Colomiers (2009 - 2018)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2020)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- Rugby Club Vannes (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "AKIRA INOUE"
+title: "井之上 明"
 name_en: "AKIRA INOUE"
 position: "SH"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

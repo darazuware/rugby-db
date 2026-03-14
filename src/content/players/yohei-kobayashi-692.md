@@ -1,5 +1,5 @@
 ---
-title: "Yohei Kobayashi"
+title: "小林 洋平"
 name_en: "Yohei Kobayashi"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

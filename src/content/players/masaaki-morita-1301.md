@@ -1,5 +1,5 @@
 ---
-title: "Masaaki Morita"
+title: "森田 政彰"
 name_en: "Masaaki Morita"
 position: "CTB"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

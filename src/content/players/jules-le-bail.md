@@ -25,4 +25,4 @@ facebook: ""
 
 - Stade Nantais (2009 - 2010)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2010 - 2023)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - )
+- Rugby Club Vannes (2017 - )

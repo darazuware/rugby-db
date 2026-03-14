@@ -1,5 +1,5 @@
 ---
-title: "Stephanus Du Toit"
+title: "ステファーナス ・ドゥトイ"
 name_en: "Stephanus Du Toit"
 position: "UTB"
 team: "東芝ブレイブルーパス東京"

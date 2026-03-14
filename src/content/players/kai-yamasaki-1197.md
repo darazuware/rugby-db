@@ -1,5 +1,5 @@
 ---
-title: "Kai Yamasaki"
+title: "山サキ"
 name_en: "Kai Yamasaki"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

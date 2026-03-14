@@ -1,5 +1,5 @@
 ---
-title: "Ryo Furuta"
+title: "古田 凌"
 name_en: "Ryo Furuta"
 position: "FL/No8"
 team: "三重ホンダヒート"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2018 - )
+- ホンダヒート (2018 - )

@@ -1,5 +1,5 @@
 ---
-title: "Daiki Kon"
+title: "今 大輝"
 name_en: "Daiki Kon"
 position: "FB"
 team: "日本製鉄釜石シーウェイブス"

@@ -1,5 +1,5 @@
 ---
-title: "Ryota Hasegawa"
+title: "長谷川 崚太"
 name_en: "Ryota Hasegawa"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

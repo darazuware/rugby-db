@@ -1,5 +1,5 @@
 ---
-title: "Randall Baker"
+title: "ランダル ・ベイカー"
 name_en: "Randall Baker"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2024 - 2025)
+- ブルーズ (2024 - 2025)
+- オークランド (2024 - 2025)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2025 - )

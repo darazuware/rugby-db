@@ -1,5 +1,5 @@
 ---
-title: "Gosuke Kawakami"
+title: "川上 剛右"
 name_en: "Gosuke Kawakami"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

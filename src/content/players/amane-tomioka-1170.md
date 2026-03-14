@@ -1,5 +1,5 @@
 ---
-title: "Amane Tomioka"
+title: "冨岡 周"
 name_en: "Amane Tomioka"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

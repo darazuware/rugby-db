@@ -1,5 +1,5 @@
 ---
-title: "Ryunosuke Yamada"
+title: "山田 龍之介"
 name_en: "Ryunosuke Yamada"
 position: "LO"
 team: "日本製鉄釜石シーウェイブス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2014 - 2019)
+- NECグリーンロケッツ (2014 - 2019)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2019 - )

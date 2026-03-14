@@ -1,5 +1,5 @@
 ---
-title: "Christian Laui"
+title: "クリスチャン ・ラウイ"
 name_en: "Christian Laui"
 position: "CTB"
 team: "NECグリーンロケッツ東葛"

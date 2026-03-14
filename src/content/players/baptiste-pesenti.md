@@ -25,6 +25,6 @@ facebook: ""
 
 - FC Saint-Claude Rugby (2005 - 2012)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2012 - 2016)
-- 🇫🇷 [ポー](/teams/top14/pau) (2016 - 2021)
+- Section Paloise Béarn Pyrénées (2016 - 2021)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2021 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- Stade Français Paris Rugby (2022 - )

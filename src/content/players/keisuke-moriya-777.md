@@ -1,5 +1,5 @@
 ---
-title: "Keisuke Moriya"
+title: "森谷 圭介"
 name_en: "Keisuke Moriya"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

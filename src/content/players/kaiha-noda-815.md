@@ -1,5 +1,5 @@
 ---
-title: "Kaiha Noda"
+title: "野田 海生"
 name_en: "Kaiha Noda"
 position: "LO"
 team: "マツダスカイアクティブズ広島"

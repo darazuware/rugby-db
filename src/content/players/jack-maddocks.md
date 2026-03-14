@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2015 - 2019)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2019 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- New South Wales Waratahs (2019 - 2021)
+- Section Paloise Béarn Pyrénées (2021 - )

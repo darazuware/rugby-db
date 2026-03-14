@@ -1,5 +1,5 @@
 ---
-title: "Ritsuki Nakayama"
+title: "中山 律希"
 name_en: "Ritsuki Nakayama"
 position: "PR"
 team: "静岡ブルーレヴズ"

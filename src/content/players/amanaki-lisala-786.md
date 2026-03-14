@@ -1,5 +1,5 @@
 ---
-title: "AMANAKI LISALA"
+title: "アマナキ ・リサラ"
 name_en: "AMANAKI LISALA"
 position: "WTB"
 team: "ルリーロ福岡"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - 2023)
+- NTTドコモレッドハリケーンズ大阪 (2022 - 2023)
 - LR福岡 (2023 - )

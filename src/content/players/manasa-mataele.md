@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2019 - 2025)
+- クルセイダーズ (2016 - 2024)
+- カンタベリー (2019 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
+- チーフス (2024 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

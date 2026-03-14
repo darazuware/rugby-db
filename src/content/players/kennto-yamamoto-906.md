@@ -1,5 +1,5 @@
 ---
-title: "Kennto Yamamoto"
+title: "山本 健人"
 name_en: "Kennto Yamamoto"
 position: "PR"
 team: "ルリーロ福岡"

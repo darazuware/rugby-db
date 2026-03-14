@@ -1,5 +1,5 @@
 ---
-title: "Kohei Yasuda"
+title: "安田 昂平"
 name_en: "Kohei Yasuda"
 position: "WTB"
 team: "東京サントリーサンゴリアス"

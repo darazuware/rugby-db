@@ -1,5 +1,5 @@
 ---
-title: "Timo Sufia"
+title: "ティモ ・スフィア"
 name_en: "Timo Sufia"
 position: "CTB"
 team: "花園近鉄ライナーズ"

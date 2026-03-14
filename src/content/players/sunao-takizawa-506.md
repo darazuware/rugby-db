@@ -1,5 +1,5 @@
 ---
-title: "Sunao Takizawa"
+title: "瀧澤 直"
 name_en: "Sunao Takizawa"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

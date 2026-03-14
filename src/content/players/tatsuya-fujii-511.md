@@ -1,5 +1,5 @@
 ---
-title: "Tatsuya Fujii"
+title: "藤井 達哉"
 name_en: "Tatsuya Fujii"
 position: "SH"
 team: "NECグリーンロケッツ東葛"

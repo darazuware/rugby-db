@@ -1,5 +1,5 @@
 ---
-title: "MASAKAZU YATSUMONJI"
+title: "八文字 雅和"
 name_en: "MASAKAZU YATSUMONJI"
 position: "FB"
 team: "ルリーロ福岡"

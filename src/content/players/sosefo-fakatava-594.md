@@ -1,5 +1,5 @@
 ---
-title: "Sosefo Fakatava"
+title: "ソセフォ ・ファカタヴァ"
 name_en: "Sosefo Fakatava"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

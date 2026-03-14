@@ -1,5 +1,5 @@
 ---
-title: "Asipeli Moala"
+title: "アシペリ ・モアラ"
 name_en: "Asipeli Moala"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

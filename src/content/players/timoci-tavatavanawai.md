@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - タスマン (2019 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2026)
+- ハイランダーズ (2020 - 2026)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )

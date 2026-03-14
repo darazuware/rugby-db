@@ -1,5 +1,5 @@
 ---
-title: "Shotaro Kameyama"
+title: "亀山 昇太郎"
 name_en: "Shotaro Kameyama"
 position: "PR"
 team: "NECグリーンロケッツ東葛"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )
+- Green Rockets Tokatsu (2025 - )

@@ -27,6 +27,6 @@ facebook: ""
 - Southern Districts (2018 - 2022)
 - Utah Warriors (2019 - 2021)
 - San Diego Legion (2022 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2024)
+- Auckland (2023 - 2024)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Union Sportive Arlequins Perpignanais (2025 - )

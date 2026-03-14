@@ -1,5 +1,5 @@
 ---
-title: "TAIYOU MINAMI"
+title: "南 太陽"
 name_en: "TAIYOU MINAMI"
 position: "HO"
 team: "ルリーロ福岡"

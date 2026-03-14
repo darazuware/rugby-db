@@ -1,5 +1,5 @@
 ---
-title: "Shu Umemura"
+title: "梅村 柊羽"
 name_en: "Shu Umemura"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

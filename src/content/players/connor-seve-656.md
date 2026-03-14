@@ -1,5 +1,5 @@
 ---
-title: "Connor Seve"
+title: "コナー ・セヴェ"
 name_en: "Connor Seve"
 position: "LO"
 team: "日本製鉄釜石シーウェイブス"

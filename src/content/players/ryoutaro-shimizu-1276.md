@@ -1,5 +1,5 @@
 ---
-title: "Ryoutaro Shimizu"
+title: "清水 良太郎"
 name_en: "Ryoutaro Shimizu"
 position: "SH"
 team: "狭山セコムラガッツ"

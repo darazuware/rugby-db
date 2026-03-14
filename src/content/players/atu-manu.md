@@ -25,7 +25,7 @@ facebook: ""
 
 - Rugby Viadana 1970 (2017 - 2018)
 - Rugby Club Massy Essonne (2018 - 2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2022)
+- Stade Français Paris Rugby (2018 - 2022)
 - US Carcassonne (2019 - 2020)
 - FC Grenoble Rugby (2021 - 2024)
 - USON Nevers Rugby (2024 - 2026)

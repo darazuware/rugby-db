@@ -1,5 +1,5 @@
 ---
-title: "Masato Furukawa"
+title: "古川 聖人"
 name_en: "Masato Furukawa"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Matsushima"
+title: "松島 幸太朗"
 name_en: "Kotaro Matsushima"
 position: "FB"
 team: "東京サントリーサンゴリアス"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - スタッド・トゥールーザン (2011 - 2012)
-- 🇿🇦 ハリウッドベッツ・シャークス (2012 - 2013)
+- シャークス (2012 - 2013)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2014 - 2026)
 - 🇦🇺 メルボルン・レベルズ (2015 - 2016)
 - サンウルブズ (2016 - 2018)

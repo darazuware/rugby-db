@@ -1,5 +1,5 @@
 ---
-title: "Gwante O"
+title: "呉 洸太"
 name_en: "Gwante O"
 position: "SO"
 team: "三重ホンダヒート"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2019 - )
+- ホンダヒート (2019 - )

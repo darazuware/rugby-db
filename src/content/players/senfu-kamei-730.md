@@ -1,5 +1,5 @@
 ---
-title: "Senfu Kamei"
+title: "亀井 茜風"
 name_en: "Senfu Kamei"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

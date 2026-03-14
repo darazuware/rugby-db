@@ -1,5 +1,5 @@
 ---
-title: "Tevita Ikanivere"
+title: "テビタ ・イカニヴェレ"
 name_en: "Tevita Ikanivere"
 position: "HO"
 team: "三重ホンダヒート"

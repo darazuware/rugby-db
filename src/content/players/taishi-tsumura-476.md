@@ -1,5 +1,5 @@
 ---
-title: "Taishi Tsumura"
+title: "津村 大志"
 name_en: "Taishi Tsumura"
 position: "PR"
 team: "リコーブラックラムズ東京"

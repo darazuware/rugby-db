@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Kizu"
+title: "木津 悠輔"
 name_en: "Yusuke Kizu"
 position: "PR"
 team: "トヨタヴェルブリッツ"

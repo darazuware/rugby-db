@@ -1,5 +1,5 @@
 ---
-title: "Taishiro Kido"
+title: "木戸 大士郎"
 name_en: "Taishiro Kido"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"

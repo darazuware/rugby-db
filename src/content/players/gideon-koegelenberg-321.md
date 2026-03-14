@@ -1,5 +1,5 @@
 ---
-title: "Gideon Koegelenberg"
+title: "ギディオン ・コーヘレンバーグ"
 name_en: "Gideon Koegelenberg"
 position: "LO"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇹 ゼブレ・パルマ (2015 - 2017)
-- 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2025)
+- ゼブレ (2015 - 2017)
+- シャークス (2017 - 2025)
 - 🇦🇺 メルボルン・レベルズ (2019 - 2020)
 - 🇯🇵 [クリタウォーターガッシュ昭島](/teams/league-one/kurita-water-gush-akishima) [D3] (2020 - 2023)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2023 - 2025)
+- ベネットン (2023 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

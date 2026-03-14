@@ -1,5 +1,5 @@
 ---
-title: "Hikaru Tamura"
+title: "田村 煕"
 name_en: "Hikaru Tamura"
 position: "SO"
 team: "浦安D-Rocks"

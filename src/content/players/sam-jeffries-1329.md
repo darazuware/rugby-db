@@ -1,5 +1,5 @@
 ---
-title: "Sam Jeffries"
+title: "サム ・ジェフリーズ"
 name_en: "Sam Jeffries"
 position: "LO"
 team: "東京サントリーサンゴリアス"

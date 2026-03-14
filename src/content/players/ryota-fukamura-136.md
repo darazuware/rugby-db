@@ -1,5 +1,5 @@
 ---
-title: "Ryota Fukamura"
+title: "深村 亮太"
 name_en: "Ryota Fukamura"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

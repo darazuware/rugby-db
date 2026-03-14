@@ -1,5 +1,5 @@
 ---
-title: "Iori Nozaki"
+title: "野ザキ"
 name_en: "Iori Nozaki"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

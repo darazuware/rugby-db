@@ -1,5 +1,5 @@
 ---
-title: "Daichi Akiyama"
+title: "秋山 大地"
 name_en: "Daichi Akiyama"
 position: "LO"
 team: "横浜キヤノンイーグルス"

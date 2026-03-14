@@ -1,5 +1,5 @@
 ---
-title: "Daigo Doi"
+title: "土居 大吾"
 name_en: "Daigo Doi"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Adachi"
+title: "足立 友哉"
 name_en: "Tomoya Adachi"
 position: "HO"
 team: "リコーブラックラムズ東京"

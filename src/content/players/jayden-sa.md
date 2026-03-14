@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
+- クルセイダーズ (2023 - 2024)
 - タラナキ (2023 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )
+- チーフス (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kentaro Ueno"
+title: "上野 拳太郎"
 name_en: "Kentaro Ueno"
 position: "PR"
 team: "狭山セコムラガッツ"

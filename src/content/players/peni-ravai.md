@@ -27,5 +27,5 @@ facebook: ""
 - Stade Aurillacois Cantal Auvergne (2016 - 2017)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2020)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2022)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2024)
+- レッズ (2022 - 2024)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Racing Club Narbonnais (2008 - 2009)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2009 - )
+- Union Sportive Arlequins Perpignanais (2009 - )

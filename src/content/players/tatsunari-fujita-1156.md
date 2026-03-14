@@ -1,5 +1,5 @@
 ---
-title: "TATSUNARI FUJITA"
+title: "藤田 達成"
 name_en: "TATSUNARI FUJITA"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2019 - )
+- NTTドコモレッドハリケーンズ (2019 - )

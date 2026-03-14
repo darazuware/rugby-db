@@ -1,5 +1,5 @@
 ---
-title: "Tyler Paul"
+title: "タイラー ・ポール"
 name_en: "Tyler Paul"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -27,6 +27,6 @@ facebook: ""
 - サザン・キングス (2017)
 - シャークス (カリーカップ) (2017 - 2020)
 - シャークスXV (2019)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
+- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2024)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2024 - )

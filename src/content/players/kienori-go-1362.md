@@ -1,5 +1,5 @@
 ---
-title: "Kienori Go"
+title: "呉 季依典"
 name_en: "Kienori Go"
 position: "HO"
 team: "東京サントリーサンゴリアス"

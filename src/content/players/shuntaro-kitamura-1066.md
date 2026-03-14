@@ -1,5 +1,5 @@
 ---
-title: "Shuntaro Kitamura"
+title: "北村 瞬太郎"
 name_en: "Shuntaro Kitamura"
 position: "SH"
 team: "静岡ブルーレヴズ"

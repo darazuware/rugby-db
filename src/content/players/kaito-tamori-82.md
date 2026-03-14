@@ -1,5 +1,5 @@
 ---
-title: "Kaito Tamori"
+title: "田森 海音"
 name_en: "Kaito Tamori"
 position: "HO"
 team: "清水建設江東ブルーシャークス"

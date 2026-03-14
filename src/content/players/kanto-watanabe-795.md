@@ -1,5 +1,5 @@
 ---
-title: "Kanto Watanabe"
+title: "渡邉 完徒"
 name_en: "Kanto Watanabe"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

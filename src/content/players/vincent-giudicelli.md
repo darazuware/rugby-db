@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - 2017)
+- Lyon Olympique Universitaire Rugby (2016 - 2017)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

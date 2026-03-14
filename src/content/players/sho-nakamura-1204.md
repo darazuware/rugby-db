@@ -1,5 +1,5 @@
 ---
-title: "Sho Nakamura"
+title: "中村 翔"
 name_en: "Sho Nakamura"
 position: "SH"
 team: "クリタウォーターガッシュ昭島"

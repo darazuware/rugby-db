@@ -1,5 +1,5 @@
 ---
-title: "Daniel Maiava"
+title: "ダニエル ・マイアヴァ"
 name_en: "Daniel Maiava"
 position: "LO"
 team: "静岡ブルーレヴズ"

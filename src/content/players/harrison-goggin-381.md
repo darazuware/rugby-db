@@ -1,5 +1,5 @@
 ---
-title: "Harrison Goggin"
+title: "ハリソン ・ゴギン"
 name_en: "Harrison Goggin"
 position: "LO"
 team: "トヨタヴェルブリッツ"

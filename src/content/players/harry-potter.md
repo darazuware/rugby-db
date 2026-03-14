@@ -27,4 +27,4 @@ facebook: ""
 - 🇦🇺 メルボルン・レベルズ (2019 - 2020)
 - レスター・タイガース (2019 - 2023)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ワラターズ (2025 - )

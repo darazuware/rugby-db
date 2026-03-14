@@ -1,5 +1,5 @@
 ---
-title: "Ryotaro Asami"
+title: "浅見 亮太郎"
 name_en: "Ryotaro Asami"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

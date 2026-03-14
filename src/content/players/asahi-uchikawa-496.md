@@ -1,5 +1,5 @@
 ---
-title: "Asahi Uchikawa"
+title: "内川 朝陽"
 name_en: "Asahi Uchikawa"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"

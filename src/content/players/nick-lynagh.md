@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - 2026)
+- レッズ (2025 - 2026)
 - ハレクインズ (2025 - )

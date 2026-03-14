@@ -1,5 +1,5 @@
 ---
-title: "Yusaku Kanda"
+title: "神田 悠作"
 name_en: "Yusaku Kanda"
 position: "SH"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Ruan Botha"
+title: "ルアン ・ボタ"
 name_en: "Ruan Botha"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 DHLストーマーズ (2013 - 2015)
-- 🇿🇦 ハリウッドベッツ・シャークス (2015 - 2019)
+- ストーマーズ (2013 - 2015)
+- シャークス (2015 - 2019)
 - ロンドン・アイリッシュ (2019 - 2020)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Reijiro Yamamoto"
+title: "山本 嶺二郎"
 name_en: "Reijiro Yamamoto"
 position: "LO"
 team: "リコーブラックラムズ東京"

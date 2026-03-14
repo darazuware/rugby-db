@@ -1,5 +1,5 @@
 ---
-title: "Mark Telea"
+title: "マーク ・テレア"
 name_en: "Mark Telea"
 position: "WTB"
 team: "トヨタヴェルブリッツ"
@@ -25,5 +25,5 @@ facebook: ""
 
 - ノース・ハーバー (2018 - 2025)
 - タスマン (2019 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2025)
+- ブルーズ (2019 - 2025)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )

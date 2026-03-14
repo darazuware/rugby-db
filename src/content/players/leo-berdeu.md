@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Rugby Olympique de Grasse (2004 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2016)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2016 - 2026)
+- Rugby Club Toulonnais (2015 - 2016)
+- Lyon Olympique Universitaire Rugby (2016 - 2026)
 - Sporting Union Agenais (2018 - )

@@ -1,5 +1,5 @@
 ---
-title: "Takumi Takeshita"
+title: "竹下 拓己"
 name_en: "Takumi Takeshita"
 position: "FB"
 team: "九州電力キューデンヴォルテクス"

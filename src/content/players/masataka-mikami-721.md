@@ -1,5 +1,5 @@
 ---
-title: "Masataka Mikami"
+title: "三上 正貴"
 name_en: "Masataka Mikami"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

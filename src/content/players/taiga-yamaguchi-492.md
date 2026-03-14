@@ -1,5 +1,5 @@
 ---
-title: "Taiga Yamaguchi"
+title: "山口 泰雅"
 name_en: "Taiga Yamaguchi"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

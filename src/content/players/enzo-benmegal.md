@@ -25,4 +25,4 @@ facebook: ""
 
 - Union Rugby Centre 78 (2011 - 2014)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2023 - )
+- Rugby Club Vannes (2023 - )

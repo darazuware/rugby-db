@@ -1,5 +1,5 @@
 ---
-title: "Shin Takeuchi"
+title: "武内 慎"
 name_en: "Shin Takeuchi"
 position: "LO"
 team: "浦安D-Rocks"

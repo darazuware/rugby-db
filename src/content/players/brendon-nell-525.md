@@ -1,5 +1,5 @@
 ---
-title: "Brendon Nell"
+title: "ブレンドン ・ネル"
 name_en: "Brendon Nell"
 position: "LO"
 team: "NECグリーンロケッツ東葛"

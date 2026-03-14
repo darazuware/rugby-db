@@ -1,5 +1,5 @@
 ---
-title: "Koji Iino"
+title: "飯野 晃司"
 name_en: "Koji Iino"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

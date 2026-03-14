@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Saracens (2012 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- Rugby Club Vannes (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Harry Hockings"
+title: "ハリー ・ホッキングス"
 name_en: "Harry Hockings"
 position: "LO"
 team: "東京サントリーサンゴリアス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2017 - 2020)
+- レッズ (2017 - 2020)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2020 - )

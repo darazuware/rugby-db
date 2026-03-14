@@ -1,5 +1,5 @@
 ---
-title: "Yuga Suzuki"
+title: "鈴木 雄海"
 name_en: "Yuga Suzuki"
 position: "LO"
 team: "日本製鉄釜石シーウェイブス"

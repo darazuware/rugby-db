@@ -1,5 +1,5 @@
 ---
-title: "Shinnosuke Toyonaga"
+title: "豊永 慎之佑"
 name_en: "Shinnosuke Toyonaga"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

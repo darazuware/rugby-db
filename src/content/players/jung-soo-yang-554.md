@@ -1,5 +1,5 @@
 ---
-title: "Jung Soo Yang"
+title: "梁 正秀"
 name_en: "Jung Soo Yang"
 position: "PR"
 team: "浦安D-Rocks"

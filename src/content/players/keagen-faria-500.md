@@ -1,5 +1,5 @@
 ---
-title: "Keagen Faria"
+title: "キーガン ・ファリア"
 name_en: "Keagen Faria"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"

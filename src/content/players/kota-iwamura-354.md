@@ -1,5 +1,5 @@
 ---
-title: "Kota Iwamura"
+title: "岩村 昂太"
 name_en: "Kota Iwamura"
 position: "SH"
 team: "三菱重工相模原ダイナボアーズ"

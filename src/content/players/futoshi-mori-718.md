@@ -1,5 +1,5 @@
 ---
-title: "Futoshi Mori"
+title: "森 太志"
 name_en: "Futoshi Mori"
 position: "HO"
 team: "東芝ブレイブルーパス東京"

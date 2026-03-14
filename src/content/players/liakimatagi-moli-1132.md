@@ -1,5 +1,5 @@
 ---
-title: "Liakimatagi Moli"
+title: "リアキマタギ ・モリ"
 name_en: "Liakimatagi Moli"
 position: "LO"
 team: "横浜キヤノンイーグルス"

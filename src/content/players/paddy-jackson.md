@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇮🇪 アルスター・ラグビー (2013 - 2018)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2018 - 2019)
+- Union Sportive Arlequins Perpignanais (2018 - 2019)
 - London Irish (2019 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - )
+- Lyon Olympique Universitaire Rugby (2023 - )

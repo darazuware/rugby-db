@@ -1,5 +1,5 @@
 ---
-title: "Kenta Yamashita"
+title: "山下 憲太"
 name_en: "Kenta Yamashita"
 position: "PR"
 team: "静岡ブルーレヴズ"

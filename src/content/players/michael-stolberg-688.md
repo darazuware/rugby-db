@@ -1,5 +1,5 @@
 ---
-title: "Michael Stolberg"
+title: "マイケル ・ストーバーグ"
 name_en: "Michael Stolberg"
 position: "LO"
 team: "東芝ブレイブルーパス東京"

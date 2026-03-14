@@ -1,5 +1,5 @@
 ---
-title: "Itsuki Onishi"
+title: "大西 樹"
 name_en: "Itsuki Onishi"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

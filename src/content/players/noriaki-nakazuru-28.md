@@ -1,5 +1,5 @@
 ---
-title: "Noriaki Nakazuru"
+title: "中づる"
 name_en: "Noriaki Nakazuru"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

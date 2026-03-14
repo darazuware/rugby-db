@@ -1,5 +1,5 @@
 ---
-title: "Hayata Taniyama"
+title: "谷山 隼大"
 name_en: "Hayata Taniyama"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Takeshi Sasaki"
+title: "佐々木 剛"
 name_en: "Takeshi Sasaki"
 position: "FL/No8"
 team: "東芝ブレイブルーパス東京"

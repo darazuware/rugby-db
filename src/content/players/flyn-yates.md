@@ -25,4 +25,4 @@ facebook: ""
 
 - マナワツ (2020 - 2025)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2023 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2025 - )
+- ブルーズ (2025 - )

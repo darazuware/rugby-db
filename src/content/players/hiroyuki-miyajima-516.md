@@ -1,5 +1,5 @@
 ---
-title: "Hiroyuki Miyajima"
+title: "宮島 裕之"
 name_en: "Hiroyuki Miyajima"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2015 - )
+- NECグリーンロケッツ (2015 - )

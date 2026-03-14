@@ -1,5 +1,5 @@
 ---
-title: "Yuki Miyazato"
+title: "宮里 侑樹"
 name_en: "Yuki Miyazato"
 position: "HO"
 team: "三菱重工相模原ダイナボアーズ"

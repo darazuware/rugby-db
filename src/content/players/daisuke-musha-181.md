@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Musha"
+title: "武者 大輔"
 name_en: "Daisuke Musha"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

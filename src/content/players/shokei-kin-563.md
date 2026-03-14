@@ -1,5 +1,5 @@
 ---
-title: "Shokei Kin"
+title: "金 正奎"
 name_en: "Shokei Kin"
 position: "HO"
 team: "浦安D-Rocks"

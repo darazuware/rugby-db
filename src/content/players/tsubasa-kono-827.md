@@ -1,5 +1,5 @@
 ---
-title: "Tsubasa Kono"
+title: "河野 翼"
 name_en: "Tsubasa Kono"
 position: "SH"
 team: "マツダスカイアクティブズ広島"

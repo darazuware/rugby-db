@@ -1,5 +1,5 @@
 ---
-title: "Taketo Yoshikawa"
+title: "吉川 豪人"
 name_en: "Taketo Yoshikawa"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Ryosuke Iwaihara"
+title: "祝原 涼介"
 name_en: "Ryosuke Iwaihara"
 position: "PR"
 team: "横浜キヤノンイーグルス"

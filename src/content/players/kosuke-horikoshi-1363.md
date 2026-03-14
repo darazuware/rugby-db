@@ -1,5 +1,5 @@
 ---
-title: "Kosuke Horikoshi"
+title: "堀越 康介"
 name_en: "Kosuke Horikoshi"
 position: "HO"
 team: "東京サントリーサンゴリアス"

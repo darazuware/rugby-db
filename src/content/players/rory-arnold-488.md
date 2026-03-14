@@ -1,5 +1,5 @@
 ---
-title: "Rory Arnold"
+title: "ローリー ・アーノルド"
 name_en: "Rory Arnold"
 position: "LO"
 team: "NECグリーンロケッツ東葛"
@@ -25,7 +25,7 @@ facebook: ""
 
 - グリクアズ (2013)
 - キャンベラ・ヴァイキングズ (2014 - 2019)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2015 - 2019)
+- ブランビーズ (2015 - 2019)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2019 - 2022)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2022 - 2025)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2025 - )
+- Green Rockets Tokatsu (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "Goki Saito"
+title: "齊藤 剛希"
 name_en: "Goki Saito"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"

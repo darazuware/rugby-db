@@ -1,5 +1,5 @@
 ---
-title: "Bryn Hall"
+title: "ブリン ・ホール"
 name_en: "Bryn Hall"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2016)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2022)
+- ブルーズ (2013 - 2016)
+- クルセイダーズ (2016 - 2022)
 - ノース・ハーバー (2019 - 2024)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2022 - 2024)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2024 - )

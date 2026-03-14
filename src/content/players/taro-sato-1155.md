@@ -1,5 +1,5 @@
 ---
-title: "TARO SATO"
+title: "佐藤 大朗"
 name_en: "TARO SATO"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

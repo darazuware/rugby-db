@@ -1,5 +1,5 @@
 ---
-title: "Dino Lamb"
+title: "ディノ ・ラム"
 name_en: "Dino Lamb"
 position: "LO"
 team: "横浜キヤノンイーグルス"

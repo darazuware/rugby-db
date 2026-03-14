@@ -1,5 +1,5 @@
 ---
-title: "Daisuke Yokoyama"
+title: "横山 大輔"
 name_en: "Daisuke Yokoyama"
 position: "FL/No8"
 team: "ヤクルトレビンズ戸田"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2024 - )

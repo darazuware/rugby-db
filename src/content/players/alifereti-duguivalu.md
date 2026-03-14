@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2017 - )
+- Union Sportive Arlequins Perpignanais (2017 - )

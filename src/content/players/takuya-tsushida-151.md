@@ -1,5 +1,5 @@
 ---
-title: "Takuya Tsushida"
+title: "津志田 卓哉"
 name_en: "Takuya Tsushida"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

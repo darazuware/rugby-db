@@ -1,5 +1,5 @@
 ---
-title: "Hayata Tsujino"
+title: "辻野 隼大"
 name_en: "Hayata Tsujino"
 position: "UTB"
 team: "コベルコ神戸スティーラーズ"

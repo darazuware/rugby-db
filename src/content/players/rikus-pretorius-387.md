@@ -1,5 +1,5 @@
 ---
-title: "Rikus Pretorius"
+title: "リカス ・プレトリアス"
 name_en: "Rikus Pretorius"
 position: "CTB"
 team: "クボタスピアーズ船橋・東京ベイ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ウェスタン・プロヴィンス (2019 - 2022)
-- 🇿🇦 DHLストーマーズ (2020 - 2022)
+- ストーマーズ (2020 - 2022)
 - 🇯🇵 [クボタスピアーズ船橋・東京ベイ](/teams/league-one/kubota-spears-funabashi-tokyo-bay) [D1] (2022 - )

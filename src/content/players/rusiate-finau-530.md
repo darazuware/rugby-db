@@ -1,5 +1,5 @@
 ---
-title: "Rusiate Finau"
+title: "ルシアテ ・フィナウ"
 name_en: "Rusiate Finau"
 position: "FL/No8"
 team: "浦安D-Rocks"

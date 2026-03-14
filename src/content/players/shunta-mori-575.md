@@ -1,5 +1,5 @@
 ---
-title: "Shunta Mori"
+title: "森 駿太"
 name_en: "Shunta Mori"
 position: "SO"
 team: "浦安D-Rocks"

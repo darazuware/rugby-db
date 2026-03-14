@@ -1,5 +1,5 @@
 ---
-title: "Kyungmun Wang"
+title: "王 鏡聞"
 name_en: "Kyungmun Wang"
 position: "HO"
 team: "九州電力キューデンヴォルテクス"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2014 - 2018)
+- 近鉄ライナーズ (2014 - 2018)
 - 宗像サニックスブルース (2018 - 2021)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - 2023)
 - 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2023 - )

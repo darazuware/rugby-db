@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2005 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Rugby Club Toulonnais (2005 - 2024)
+- Union Sportive Arlequins Perpignanais (2024 - )

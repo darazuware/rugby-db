@@ -1,5 +1,5 @@
 ---
-title: "Genki Sudou"
+title: "須藤 元樹"
 name_en: "Genki Sudou"
 position: "PR"
 team: "浦安D-Rocks"

@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Rugby Club Toulonnais (2019 - 2025)
+- Union Sportive Arlequins Perpignanais (2025 - )

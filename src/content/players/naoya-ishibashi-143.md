@@ -1,5 +1,5 @@
 ---
-title: "Naoya Ishibashi"
+title: "石橋 尚也"
 name_en: "Naoya Ishibashi"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

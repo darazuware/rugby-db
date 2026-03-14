@@ -1,5 +1,5 @@
 ---
-title: "Juan Wilson"
+title: "ユアン ・ウィルソン"
 name_en: "Juan Wilson"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

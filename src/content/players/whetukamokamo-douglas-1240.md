@@ -1,5 +1,5 @@
 ---
-title: "Whetukamokamo Douglas"
+title: "フェトゥカモカモ ・ダグラス"
 name_en: "Whetukamokamo Douglas"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

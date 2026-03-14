@@ -1,5 +1,5 @@
 ---
-title: "Hayato Kojo"
+title: "古城 隼人"
 name_en: "Hayato Kojo"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

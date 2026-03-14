@@ -1,5 +1,5 @@
 ---
-title: "Ren Shinwada"
+title: "新和田 錬"
 name_en: "Ren Shinwada"
 position: "SH"
 team: "クリタウォーターガッシュ昭島"

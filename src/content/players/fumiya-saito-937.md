@@ -1,5 +1,5 @@
 ---
-title: "FUMIYA SAITO"
+title: "齋藤 史哉"
 name_en: "FUMIYA SAITO"
 position: "SH"
 team: "ルリーロ福岡"

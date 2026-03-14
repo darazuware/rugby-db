@@ -1,5 +1,5 @@
 ---
-title: "Tom Florence"
+title: "トム ・フローレンス"
 name_en: "Tom Florence"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - タラナキ (2016 - 2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2019 - 2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2024)
+- ハイランダーズ (2019 - 2020)
+- チーフス (2020 - 2024)
 - NOLA Gold (2022 - 2024)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kazuhiro Taniguchi"
+title: "谷口 和洋"
 name_en: "Kazuhiro Taniguchi"
 position: "SH"
 team: "クボタスピアーズ船橋・東京ベイ"

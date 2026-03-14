@@ -1,5 +1,5 @@
 ---
-title: "Dawid Kellerman"
+title: "ダーウィッド ・ケラーマン"
 name_en: "Dawid Kellerman"
 position: "CTB"
 team: "三重ホンダヒート"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2021)
+- ブルズ (2019 - 2021)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2021 - )

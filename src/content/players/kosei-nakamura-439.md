@@ -1,5 +1,5 @@
 ---
-title: "Kosei Nakamura"
+title: "中村 公星"
 name_en: "Kosei Nakamura"
 position: "PR"
 team: "リコーブラックラムズ東京"

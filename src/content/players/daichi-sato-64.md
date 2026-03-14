@@ -1,5 +1,5 @@
 ---
-title: "Daichi Sato"
+title: "佐藤 大地"
 name_en: "Daichi Sato"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

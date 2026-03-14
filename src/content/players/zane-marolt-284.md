@@ -1,5 +1,5 @@
 ---
-title: "Zane Marolt"
+title: "ゼイン ・マロルト"
 name_en: "Zane Marolt"
 position: "LO"
 team: "ヤクルトレビンズ戸田"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Queanbeyan Whites (2020 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2023)
+- ワラターズ (2022 - 2023)
 - 🇯🇵 [ヤクルトレビンズ戸田](/teams/league-one/yakult-levins) [D3] (2025 - )

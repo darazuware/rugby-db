@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2013 - 2019)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2019 - 2023)
+- Rugby Club Toulonnais (2013 - 2019)
+- Lyon Olympique Universitaire Rugby (2019 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

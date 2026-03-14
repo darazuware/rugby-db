@@ -1,5 +1,5 @@
 ---
-title: "Kenji Hayata"
+title: "早田 健二"
 name_en: "Kenji Hayata"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

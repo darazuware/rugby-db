@@ -1,5 +1,5 @@
 ---
-title: "Naohiro Aso"
+title: "麻生 尚宏"
 name_en: "Naohiro Aso"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

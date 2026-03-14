@@ -1,5 +1,5 @@
 ---
-title: "Hayate Hiraishi"
+title: "平石 颯"
 name_en: "Hayate Hiraishi"
 position: "HO"
 team: "横浜キヤノンイーグルス"

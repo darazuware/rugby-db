@@ -1,5 +1,5 @@
 ---
-title: "Hiroto Ogasahara"
+title: "小笠原 寛人"
 name_en: "Hiroto Ogasahara"
 position: "WTB"
 team: "豊田自動織機シャトルズ愛知"

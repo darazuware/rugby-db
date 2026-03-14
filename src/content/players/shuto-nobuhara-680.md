@@ -1,5 +1,5 @@
 ---
-title: "Shuto Nobuhara"
+title: "延原 秀飛"
 name_en: "Shuto Nobuhara"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

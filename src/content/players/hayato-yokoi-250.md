@@ -1,5 +1,5 @@
 ---
-title: "Hayato Yokoi"
+title: "横井 隼"
 name_en: "Hayato Yokoi"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

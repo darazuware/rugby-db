@@ -1,5 +1,5 @@
 ---
-title: "Timote Tavalea"
+title: "ティモテ ・タヴァレア"
 name_en: "Timote Tavalea"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"

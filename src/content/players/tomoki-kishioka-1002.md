@@ -1,5 +1,5 @@
 ---
-title: "Tomoki Kishioka"
+title: "岸岡 智樹"
 name_en: "Tomoki Kishioka"
 position: "SO"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Reiya Ueyama"
+title: "上山 黎哉"
 name_en: "Reiya Ueyama"
 position: "HO"
 team: "花園近鉄ライナーズ"

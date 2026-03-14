@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2013 - 2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2024)
+- Exeter Chiefs (2019 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

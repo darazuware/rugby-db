@@ -1,5 +1,5 @@
 ---
-title: "Hironori Yatomi"
+title: "矢富 洋則"
 name_en: "Hironori Yatomi"
 position: "WTB"
 team: "静岡ブルーレヴズ"

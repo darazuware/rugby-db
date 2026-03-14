@@ -1,5 +1,5 @@
 ---
-title: "Tomonori Koyanagi"
+title: "小ヤナギ"
 name_en: "Tomonori Koyanagi"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

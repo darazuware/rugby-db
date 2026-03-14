@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rugby Club du Pays Muzillacais (2007 - 2014)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2014 - )
+- Rugby Club Vannes (2014 - )

@@ -1,5 +1,5 @@
 ---
-title: "Johnny Faauli"
+title: "ジョニー ・ファアウリ"
 name_en: "Johnny Faauli"
 position: "CTB"
 team: "三重ホンダヒート"

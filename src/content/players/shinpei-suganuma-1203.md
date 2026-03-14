@@ -1,5 +1,5 @@
 ---
-title: "Shinpei Suganuma"
+title: "菅沼 神兵"
 name_en: "Shinpei Suganuma"
 position: "SO"
 team: "クリタウォーターガッシュ昭島"

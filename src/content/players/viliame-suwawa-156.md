@@ -1,5 +1,5 @@
 ---
-title: "Viliame Suwawa"
+title: "ヴィリアミ ・スワワ"
 name_en: "Viliame Suwawa"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

@@ -25,4 +25,4 @@ facebook: ""
 
 - Leicester Tigers (2015 - 2021)
 - London Irish (2021 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- Rugby Club Toulonnais (2023 - )

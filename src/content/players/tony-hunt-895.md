@@ -1,5 +1,5 @@
 ---
-title: "Tony Hunt"
+title: "トニー ・ハント"
 name_en: "Tony Hunt"
 position: "FL/No8"
 team: "三重ホンダヒート"

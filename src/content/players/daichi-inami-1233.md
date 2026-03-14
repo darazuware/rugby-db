@@ -1,5 +1,5 @@
 ---
-title: "Daichi Inami"
+title: "伊波 大地"
 name_en: "Daichi Inami"
 position: "PR"
 team: "狭山セコムラガッツ"

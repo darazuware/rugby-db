@@ -1,5 +1,5 @@
 ---
-title: "Takatoshi Sugawara"
+title: "菅原 崇聖"
 name_en: "Takatoshi Sugawara"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

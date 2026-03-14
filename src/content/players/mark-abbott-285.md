@@ -1,5 +1,5 @@
 ---
-title: "Mark Abbott"
+title: "マーク ・アボット"
 name_en: "Mark Abbott"
 position: "LO"
 team: "三重ホンダヒート"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2017)
+- ハリケーンズ (2013 - 2017)
 - サンウルブズ (2018 - 2019)
 - 宗像サニックスブルース (2019 - 2021)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2021 - 2024)

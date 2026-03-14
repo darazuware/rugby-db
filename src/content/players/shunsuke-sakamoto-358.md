@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Sakamoto"
+title: "坂本 駿介"
 name_en: "Shunsuke Sakamoto"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

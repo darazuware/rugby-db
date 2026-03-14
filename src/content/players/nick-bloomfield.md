@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Easts Rugby Union Club (2021 - 2023)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2023 - )
+- レッズ (2023 - )

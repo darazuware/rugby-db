@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2023)
 - France 7 (2017 - 2018)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2018 - 2021)
+- Rugby Club Vannes (2018 - 2021)
 - 🇫🇷 [カストル](/teams/top14/castres) (2023 - )

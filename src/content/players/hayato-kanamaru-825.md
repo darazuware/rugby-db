@@ -1,5 +1,5 @@
 ---
-title: "Hayato Kanamaru"
+title: "金丸 勇人"
 name_en: "Hayato Kanamaru"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

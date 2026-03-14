@@ -1,5 +1,5 @@
 ---
-title: "Teruya Goto"
+title: "後藤 輝也"
 name_en: "Teruya Goto"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"

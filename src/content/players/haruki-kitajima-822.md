@@ -1,5 +1,5 @@
 ---
-title: "Haruki Kitajima"
+title: "北島 遥生"
 name_en: "Haruki Kitajima"
 position: "WTB"
 team: "マツダスカイアクティブズ広島"

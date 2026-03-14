@@ -1,5 +1,5 @@
 ---
-title: "Ryunosuke Aoyagi"
+title: "青柳"
 name_en: "Ryunosuke Aoyagi"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

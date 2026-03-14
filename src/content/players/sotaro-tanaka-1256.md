@@ -1,5 +1,5 @@
 ---
-title: "Sotaro Tanaka"
+title: "田中 創太郎"
 name_en: "Sotaro Tanaka"
 position: "PR"
 team: "狭山セコムラガッツ"

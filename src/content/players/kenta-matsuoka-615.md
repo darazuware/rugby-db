@@ -1,5 +1,5 @@
 ---
-title: "Kenta Matsuoka"
+title: "松岡 賢太"
 name_en: "Kenta Matsuoka"
 position: "HO"
 team: "コベルコ神戸スティーラーズ"

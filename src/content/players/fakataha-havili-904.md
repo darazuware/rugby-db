@@ -1,5 +1,5 @@
 ---
-title: "Fakataha Havili"
+title: "ファカタハ ・ハビリ"
 name_en: "Fakataha Havili"
 position: "CTB"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Maurice Marks"
+title: "モーリス ・マークス"
 name_en: "Maurice Marks"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

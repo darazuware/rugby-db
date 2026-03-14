@@ -1,5 +1,5 @@
 ---
-title: "Hideto Niguma"
+title: "仁熊 秀斗"
 name_en: "Hideto Niguma"
 position: "WTB"
 team: "東京サントリーサンゴリアス"

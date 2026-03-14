@@ -1,5 +1,5 @@
 ---
-title: "Israel Folau"
+title: "イズラエル ・フォラウ"
 name_en: "Israel Folau"
 position: "FB"
 team: "浦安D-Rocks"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2019 - 2020)
+- ワラターズ (2013 - 2019)
+- Dragons Catalans (2019 - 2020)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Semisi Masirewa"
+title: "セミシ ・マシレワ"
 name_en: "Semisi Masirewa"
 position: "WTB"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2012 - 2013)
+- ワイカト (2012 - 2013)
 - マナワツ (2013 - 2015)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
 - サンウルブズ (2017 - 2019)

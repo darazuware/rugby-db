@@ -1,5 +1,5 @@
 ---
-title: "Jack Wright"
+title: "ジャック ・ライト"
 name_en: "Jack Wright"
 position: "LO"
 team: "静岡ブルーレヴズ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Tuggeranong Vikings (2019 - 2022)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2022 - 2023)
+- ブランビーズ (2022 - 2023)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2023 - )

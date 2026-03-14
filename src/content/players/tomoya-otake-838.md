@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Otake"
+title: "大竹 智也"
 name_en: "Tomoya Otake"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

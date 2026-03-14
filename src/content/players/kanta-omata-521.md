@@ -1,5 +1,5 @@
 ---
-title: "Kanta Omata"
+title: "尾又 寛汰"
 name_en: "Kanta Omata"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"

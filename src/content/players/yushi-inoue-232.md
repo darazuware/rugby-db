@@ -1,5 +1,5 @@
 ---
-title: "Yushi Inoue"
+title: "井上 優士"
 name_en: "Yushi Inoue"
 position: "PR"
 team: "花園近鉄ライナーズ"

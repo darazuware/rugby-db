@@ -1,5 +1,5 @@
 ---
-title: "Gen Goto"
+title: "五島 源"
 name_en: "Gen Goto"
 position: "CTB"
 team: "静岡ブルーレヴズ"

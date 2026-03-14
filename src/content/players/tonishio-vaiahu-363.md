@@ -1,5 +1,5 @@
 ---
-title: "Tonishio Vaiahu"
+title: "トニシオ バイフ"
 name_en: "Tonishio Vaiahu"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

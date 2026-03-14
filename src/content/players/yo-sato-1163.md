@@ -1,5 +1,5 @@
 ---
-title: "Yo Sato"
+title: "佐藤 耀"
 name_en: "Yo Sato"
 position: "HO"
 team: "レッドハリケーンズ大阪"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2021 - 2023)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2006 - 2007)
+- Lyon Olympique Universitaire Rugby (2006 - 2007)
 - CA Brive Corrèze Limousin (2007 - 2014)
 - Malemort XV (2009 - 2010)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2023)

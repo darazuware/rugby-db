@@ -1,5 +1,5 @@
 ---
-title: "Viliame Tuidraki"
+title: "ヴィリアメ ・ツイドラキ"
 name_en: "Viliame Tuidraki"
 position: "WTB"
 team: "トヨタヴェルブリッツ"

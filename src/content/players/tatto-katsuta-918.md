@@ -1,5 +1,5 @@
 ---
-title: "TATTO KATSUTA"
+title: "勝田 龍登"
 name_en: "TATTO KATSUTA"
 position: "FB"
 team: "ルリーロ福岡"

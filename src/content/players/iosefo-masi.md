@@ -25,4 +25,4 @@ facebook: ""
 
 - North Queensland Cowboys (2021 - 2022)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

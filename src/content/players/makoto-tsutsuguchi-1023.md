@@ -1,5 +1,5 @@
 ---
-title: "Makoto Tsutsuguchi"
+title: "筒口 允之"
 name_en: "Makoto Tsutsuguchi"
 position: "SO"
 team: "静岡ブルーレヴズ"

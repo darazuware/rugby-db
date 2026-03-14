@@ -1,5 +1,5 @@
 ---
-title: "Viliami Helu"
+title: "ヴィリアミ ・ヘル"
 name_en: "Viliami Helu"
 position: "FL/No8"
 team: "クリタウォーターガッシュ昭島"

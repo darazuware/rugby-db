@@ -1,5 +1,5 @@
 ---
-title: "Takayuki Watanabe"
+title: "渡邉 隆之"
 name_en: "Takayuki Watanabe"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Stade Aurillacois Cantal Auvergne (2013 - 2014)
-- 🇫🇷 [ポー](/teams/top14/pau) (2015 - 2025)
+- Section Paloise Béarn Pyrénées (2015 - 2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

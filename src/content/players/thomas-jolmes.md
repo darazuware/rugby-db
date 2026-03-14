@@ -26,6 +26,6 @@ facebook: ""
 - Seyssins (2005 - 2009)
 - FC Grenoble Rugby (2009 - 2017)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2020)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - 2021)
+- Rugby Club Toulonnais (2020 - 2021)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2024)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Section Paloise Béarn Pyrénées (2024 - )

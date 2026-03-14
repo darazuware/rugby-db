@@ -1,5 +1,5 @@
 ---
-title: "Ieremia Mataena"
+title: "イエレミア ・マタエナ"
 name_en: "Ieremia Mataena"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

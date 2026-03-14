@@ -1,5 +1,5 @@
 ---
-title: "Taiga Ishida"
+title: "石田 大河"
 name_en: "Taiga Ishida"
 position: "FB"
 team: "浦安D-Rocks"

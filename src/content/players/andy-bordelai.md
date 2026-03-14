@@ -26,5 +26,5 @@ facebook: ""
 - Rugby Créteil Choisy (2012 - 2014)
 - Rugby Club Massy Essonne (2014 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2021)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2021 - 2024)
+- Rugby Club Vannes (2021 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

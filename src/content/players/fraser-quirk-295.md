@@ -1,5 +1,5 @@
 ---
-title: "Fraser Quirk"
+title: "フレイザー ・クワーク"
 name_en: "Fraser Quirk"
 position: "CTB"
 team: "三重ホンダヒート"

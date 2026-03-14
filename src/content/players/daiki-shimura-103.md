@@ -1,5 +1,5 @@
 ---
-title: "Daiki Shimura"
+title: "志村 太基"
 name_en: "Daiki Shimura"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Kiichi Uezato"
+title: "上里 貴一"
 name_en: "Kiichi Uezato"
 position: "SO"
 team: "九州電力キューデンヴォルテクス"

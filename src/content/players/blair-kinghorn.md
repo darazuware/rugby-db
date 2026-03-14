@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2015 - 2024)
+- Edimbourg Rugby (2015 - 2024)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023 - )

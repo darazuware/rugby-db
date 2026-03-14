@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2014)
+- Stade Français Paris Rugby (2013 - 2014)
 - Stado Tarbes Pyrénées Rugby (2014 - 2016)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2016 - 2020)
+- Union Sportive Arlequins Perpignanais (2016 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres) (2020 - )

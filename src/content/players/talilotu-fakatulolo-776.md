@@ -1,5 +1,5 @@
 ---
-title: "Talilotu Fakatulolo"
+title: "タリロトゥ ・ファカトゥロロ"
 name_en: "Talilotu Fakatulolo"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"

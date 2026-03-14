@@ -1,5 +1,5 @@
 ---
-title: "Yuta Akihama"
+title: "秋濱 悠太"
 name_en: "Yuta Akihama"
 position: "WTB"
 team: "リコーブラックラムズ東京"

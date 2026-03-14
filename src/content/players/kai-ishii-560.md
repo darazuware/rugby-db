@@ -1,5 +1,5 @@
 ---
-title: "Kai Ishii"
+title: "石井 魁"
 name_en: "Kai Ishii"
 position: "WTB"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Eishin Kuwano"
+title: "桑野 詠真"
 name_en: "Eishin Kuwano"
 position: "LO"
 team: "静岡ブルーレヴズ"

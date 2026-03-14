@@ -1,5 +1,5 @@
 ---
-title: "KAORU TSURUTA"
+title: "鶴田 馨"
 name_en: "KAORU TSURUTA"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

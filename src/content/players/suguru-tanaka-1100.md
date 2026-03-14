@@ -1,5 +1,5 @@
 ---
-title: "Suguru Tanaka"
+title: "田中 秀"
 name_en: "Suguru Tanaka"
 position: "SO"
 team: "日野レッドドルフィンズ"

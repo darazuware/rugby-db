@@ -1,5 +1,5 @@
 ---
-title: "Kaito Sugahara"
+title: "菅原 海人"
 name_en: "Kaito Sugahara"
 position: "SO"
 team: "狭山セコムラガッツ"

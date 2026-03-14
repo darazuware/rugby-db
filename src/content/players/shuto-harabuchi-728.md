@@ -1,5 +1,5 @@
 ---
-title: "Shuto Harabuchi"
+title: "原渕 修人"
 name_en: "Shuto Harabuchi"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

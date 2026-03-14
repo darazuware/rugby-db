@@ -1,5 +1,5 @@
 ---
-title: "Hendrik Tui"
+title: "ツイ ヘンドリック"
 name_en: "Hendrik Tui"
 position: "FL/No8"
 team: "浦安D-Rocks"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2017)
+- レッズ (2014 - 2017)
 - サンウルブズ (2018 - 2019)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2024)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - )

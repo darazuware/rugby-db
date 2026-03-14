@@ -1,5 +1,5 @@
 ---
-title: "Keita Miyauchi"
+title: "宮内 慶大"
 name_en: "Keita Miyauchi"
 position: "HO"
 team: "コベルコ神戸スティーラーズ"

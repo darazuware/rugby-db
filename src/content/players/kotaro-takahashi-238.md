@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Takahashi"
+title: "高橋 虎太郎"
 name_en: "Kotaro Takahashi"
 position: "PR"
 team: "花園近鉄ライナーズ"

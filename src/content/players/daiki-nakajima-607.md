@@ -1,5 +1,5 @@
 ---
-title: "Daiki Nakajima"
+title: "中嶋 大希"
 name_en: "Daiki Nakajima"
 position: "SH"
 team: "コベルコ神戸スティーラーズ"

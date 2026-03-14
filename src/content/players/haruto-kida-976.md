@@ -1,5 +1,5 @@
 ---
-title: "Haruto Kida"
+title: "木田 晴斗"
 name_en: "Haruto Kida"
 position: "WTB"
 team: "クボタスピアーズ船橋・東京ベイ"

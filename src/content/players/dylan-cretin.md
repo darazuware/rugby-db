@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - RC Annemasse (2004 - 2012)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2012 - )
+- Lyon Olympique Universitaire Rugby (2012 - )

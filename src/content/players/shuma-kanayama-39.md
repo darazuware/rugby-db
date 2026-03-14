@@ -1,5 +1,5 @@
 ---
-title: "Shuma Kanayama"
+title: "金山 修真"
 name_en: "Shuma Kanayama"
 position: "LO"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Junichiro Matsushita"
+title: "松下 潤一郎"
 name_en: "Junichiro Matsushita"
 position: "HO"
 team: "浦安D-Rocks"

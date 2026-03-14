@@ -1,5 +1,5 @@
 ---
-title: "Sapoi Viliami"
+title: "サポイ ・ビリアミ"
 name_en: "Sapoi Viliami"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

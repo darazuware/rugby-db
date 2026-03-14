@@ -1,5 +1,5 @@
 ---
-title: "Yuki Okada"
+title: "岡田 優輝"
 name_en: "Yuki Okada"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

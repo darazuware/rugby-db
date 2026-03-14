@@ -1,5 +1,5 @@
 ---
-title: "Toshiki Kuwayama"
+title: "桑山 聖生"
 name_en: "Toshiki Kuwayama"
 position: "FB"
 team: "東芝ブレイブルーパス東京"

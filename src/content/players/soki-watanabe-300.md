@@ -1,5 +1,5 @@
 ---
-title: "Soki Watanabe"
+title: "渡邉 弐貴"
 name_en: "Soki Watanabe"
 position: "CTB"
 team: "三重ホンダヒート"

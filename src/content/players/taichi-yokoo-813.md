@@ -1,5 +1,5 @@
 ---
-title: "Taichi Yokoo"
+title: "横尾 太一"
 name_en: "Taichi Yokoo"
 position: "HO"
 team: "マツダスカイアクティブズ広島"

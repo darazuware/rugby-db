@@ -1,5 +1,5 @@
 ---
-title: "Murray Douglas"
+title: "マリー ・ダグラス"
 name_en: "Murray Douglas"
 position: "LO"
 team: "静岡ブルーレヴズ"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2016 - 2017)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2020)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 エディンバラ・ラグビー (2019 - 2020)
+- ハリケーンズ (2017 - 2018)
+- ブランビーズ (2018 - 2020)
+- Edimbourg Rugby (2019 - 2020)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2021 - )

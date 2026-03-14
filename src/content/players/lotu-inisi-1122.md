@@ -1,5 +1,5 @@
 ---
-title: "Lotu Inisi"
+title: "ロトゥ ・イニシ"
 name_en: "Lotu Inisi"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -25,4 +25,4 @@ facebook: ""
 
 - ノース・ハーバー (2018 - 2024)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2025)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

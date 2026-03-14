@@ -26,5 +26,5 @@ facebook: ""
 - Jaguares (2017 - 2020)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2024)
 - Worcester Warriors (2022 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - )
+- Lyon Olympique Universitaire Rugby (2023 - 2024)
+- Rugby Club Vannes (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Taiki Yoshioka"
+title: "吉岡 大貴"
 name_en: "Taiki Yoshioka"
 position: "PR"
 team: "三重ホンダヒート"

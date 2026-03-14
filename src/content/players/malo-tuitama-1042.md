@@ -1,5 +1,5 @@
 ---
-title: "Malo Tuitama"
+title: "マロ ・ツイタマ"
 name_en: "Malo Tuitama"
 position: "WTB"
 team: "静岡ブルーレヴズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2018)
+- ウェリントン (2015 - 2018)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2019 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2020)
+- Rugby Club Toulonnais (2006 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres) (2020 - )

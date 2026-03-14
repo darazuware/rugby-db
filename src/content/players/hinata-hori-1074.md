@@ -1,5 +1,5 @@
 ---
-title: "Hinata Hori"
+title: "堀 日向太"
 name_en: "Hinata Hori"
 position: "CTB"
 team: "日野レッドドルフィンズ"

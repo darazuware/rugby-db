@@ -1,5 +1,5 @@
 ---
-title: "Sota Saito"
+title: "齋藤 聡汰"
 name_en: "Sota Saito"
 position: "SO"
 team: "ヤクルトレビンズ戸田"

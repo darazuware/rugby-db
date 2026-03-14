@@ -1,5 +1,5 @@
 ---
-title: "Kaito Shigeno"
+title: "茂野 海人"
 name_en: "Kaito Shigeno"
 position: "SH"
 team: "トヨタヴェルブリッツ"

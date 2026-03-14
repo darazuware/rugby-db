@@ -1,5 +1,5 @@
 ---
-title: "Masayoshi Takezawa"
+title: "竹澤 正祥"
 name_en: "Masayoshi Takezawa"
 position: "WTB"
 team: "横浜キヤノンイーグルス"

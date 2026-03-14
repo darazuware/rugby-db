@@ -1,5 +1,5 @@
 ---
-title: "Yasuo Saruwatari"
+title: "猿渡 康雄"
 name_en: "Yasuo Saruwatari"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Masahiro Kitamura"
+title: "北村 将大"
 name_en: "Masahiro Kitamura"
 position: "SO"
 team: "トヨタヴェルブリッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Xavier Stowers"
+title: "ゼイビア ・スタワーズ"
 name_en: "Xavier Stowers"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

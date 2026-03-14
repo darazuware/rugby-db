@@ -1,5 +1,5 @@
 ---
-title: "Shinnya Hirayama"
+title: "平山 真也"
 name_en: "Shinnya Hirayama"
 position: "CTB"
 team: "中国電力レッドレグリオンズ"

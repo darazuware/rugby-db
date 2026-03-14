@@ -1,5 +1,5 @@
 ---
-title: "Angus Fletcher"
+title: "アンガス ・フレッチャー"
 name_en: "Angus Fletcher"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

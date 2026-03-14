@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - RC Val de Bièvre (2013 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2026)
+- Stade Français Paris Rugby (2021 - 2026)
 - US Dax Rugby Landes (2024 - )

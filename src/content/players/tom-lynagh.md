@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ハレクインズ (2019 - 2021)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - )
+- レッズ (2021 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Olympique Groslay Enghien Montmorency (2007 - 2012)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - )
+- Stade Français Paris Rugby (2012 - )

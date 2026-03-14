@@ -1,5 +1,5 @@
 ---
-title: "Ash Dixon"
+title: "アッシュ ・ディクソン"
 name_en: "Ash Dixon"
 position: "HO"
 team: "コベルコ神戸スティーラーズ"
@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - ホークスベイ (2008 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2010 - 2011)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2014)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2021)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2018 - 2019)
+- オークランド (2010 - 2011)
+- ハリケーンズ (2013 - 2014)
+- ハイランダーズ (2015 - 2021)
+- パナソニック ワイルドナイツ (2018 - 2019)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2022 - 2025)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2025 - )

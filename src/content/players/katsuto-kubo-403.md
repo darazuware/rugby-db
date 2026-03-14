@@ -1,5 +1,5 @@
 ---
-title: "Katsuto Kubo"
+title: "久保 克斗"
 name_en: "Katsuto Kubo"
 position: "LO"
 team: "横浜キヤノンイーグルス"

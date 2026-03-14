@@ -1,5 +1,5 @@
 ---
-title: "Kentarou Fujii"
+title: "藤井 健太郎"
 name_en: "Kentarou Fujii"
 position: "WTB"
 team: "中国電力レッドレグリオンズ"

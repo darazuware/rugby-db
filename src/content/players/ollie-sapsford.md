@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ホークスベイ (2018 - 2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021 - )
+- ブランビーズ (2021 - )

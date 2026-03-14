@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ベイ・オブ・プレンティ (2017 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2023)
+- チーフス (2022 - 2023)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

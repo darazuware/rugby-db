@@ -29,4 +29,4 @@ facebook: ""
 - Union Cognac-Saint-Jean d'Angély (2019 - 2021)
 - CS Bourgoin Jallieu Rugby (2021 - 2022)
 - Stade Langonnais (2022 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Rugby Club Vannes (2025 - )

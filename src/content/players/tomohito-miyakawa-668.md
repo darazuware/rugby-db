@@ -1,5 +1,5 @@
 ---
-title: "Tomohito Miyakawa"
+title: "宮川 智海"
 name_en: "Tomohito Miyakawa"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Nick Phipps"
+title: "ニック ・フィップス"
 name_en: "Nick Phipps"
 position: "SH"
 team: "NECグリーンロケッツ東葛"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2019)
+- ワラターズ (2013 - 2019)
 - ロンドン・アイリッシュ (2019 - 2022)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2022 - )

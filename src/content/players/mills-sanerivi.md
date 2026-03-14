@@ -25,6 +25,6 @@ facebook: ""
 
 - タラナキ (2020 - 2023)
 - New England Free Jacks (2021 - 2023)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2025)
+- チーフス (2023 - 2024)
+- オークランド (2023 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

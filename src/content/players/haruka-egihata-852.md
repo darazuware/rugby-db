@@ -1,5 +1,5 @@
 ---
-title: "Haruka Egihata"
+title: "江木畠 悠加"
 name_en: "Haruka Egihata"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "YONHI KIM"
+title: "金 勇輝"
 name_en: "YONHI KIM"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

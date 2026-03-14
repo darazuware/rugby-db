@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Warringah Rugby Club (2018 - 2019)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - )
+- ブランビーズ (2019 - )

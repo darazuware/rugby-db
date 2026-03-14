@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ブリスベン・シティ (2019 - 2020)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2022)
+- レッズ (2020 - 2022)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

@@ -28,4 +28,4 @@ facebook: ""
 - 🇫🇷 [カストル](/teams/top14/castres) (2015 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2025)
 - Club Universitario de Buenos Aires (2024 - 2025)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Union Sportive Arlequins Perpignanais (2025 - )

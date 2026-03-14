@@ -1,5 +1,5 @@
 ---
-title: "Izi Sword"
+title: "イジ— ・ソード"
 name_en: "Izi Sword"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

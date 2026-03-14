@@ -1,5 +1,5 @@
 ---
-title: "Takumi Hurukawa"
+title: "古川 拓実"
 name_en: "Takumi Hurukawa"
 position: "CTB"
 team: "ヤクルトレビンズ戸田"

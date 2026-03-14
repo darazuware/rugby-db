@@ -1,5 +1,5 @@
 ---
-title: "Go Maeda"
+title: "前田 剛"
 name_en: "Go Maeda"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

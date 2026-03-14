@@ -1,5 +1,5 @@
 ---
-title: "Rihito Katou"
+title: "加藤 璃一"
 name_en: "Rihito Katou"
 position: "FL/No8"
 team: "ルリーロ福岡"

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2024 - )
+- ブランビーズ (2018 - 2024)
+- ワイカト (2024 - 2025)
+- チーフス (2024 - )

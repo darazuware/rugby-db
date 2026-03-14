@@ -1,5 +1,5 @@
 ---
-title: "Satoshi Saita"
+title: "才田 智"
 name_en: "Satoshi Saita"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

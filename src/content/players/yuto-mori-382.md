@@ -1,5 +1,5 @@
 ---
-title: "Yuto Mori"
+title: "森 勇登"
 name_en: "Yuto Mori"
 position: "UTB"
 team: "横浜キヤノンイーグルス"

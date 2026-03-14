@@ -1,5 +1,5 @@
 ---
-title: "Vatiliai Tuidraki"
+title: "バティリアイ ・ツイドラキ"
 name_en: "Vatiliai Tuidraki"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

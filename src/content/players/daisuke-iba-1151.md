@@ -1,5 +1,5 @@
 ---
-title: "DAISUKE IBA"
+title: "射場 大輔"
 name_en: "DAISUKE IBA"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

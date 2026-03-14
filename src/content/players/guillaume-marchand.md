@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - )
+- Lyon Olympique Universitaire Rugby (2021 - )

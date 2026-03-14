@@ -1,5 +1,5 @@
 ---
-title: "Harry Willard"
+title: "ハリー ・ウィラード"
 name_en: "Harry Willard"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2017 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

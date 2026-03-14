@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - CS Bourgoin Jallieu Rugby (2009 - 2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2017 - 2026)
+- Lyon Olympique Universitaire Rugby (2017 - 2026)
 - Union Sportive Bressane Pays de l'Ain (2021 - )

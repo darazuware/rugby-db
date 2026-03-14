@@ -27,4 +27,4 @@ facebook: ""
 - Stade Piscenois (2013 - 2019)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2014 - 2017)
 - Association Sportive Béziers Hérault (2019 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

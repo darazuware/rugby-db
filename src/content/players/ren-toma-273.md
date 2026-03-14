@@ -1,5 +1,5 @@
 ---
-title: "Ren Toma"
+title: "當眞 蓮"
 name_en: "Ren Toma"
 position: "HO"
 team: "三重ホンダヒート"

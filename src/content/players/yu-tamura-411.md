@@ -1,5 +1,5 @@
 ---
-title: "Yu Tamura"
+title: "田村 優"
 name_en: "Yu Tamura"
 position: "SO"
 team: "横浜キヤノンイーグルス"

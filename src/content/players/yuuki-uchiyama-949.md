@@ -1,5 +1,5 @@
 ---
-title: "YUUKI UCHIYAMA"
+title: "内山 友貴"
 name_en: "YUUKI UCHIYAMA"
 position: "HO"
 team: "ルリーロ福岡"

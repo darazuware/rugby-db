@@ -1,5 +1,5 @@
 ---
-title: "Raia Takashima"
+title: "高島 來亜"
 name_en: "Raia Takashima"
 position: "SH"
 team: "豊田自動織機シャトルズ愛知"

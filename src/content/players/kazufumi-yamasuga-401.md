@@ -1,5 +1,5 @@
 ---
-title: "Kazufumi Yamasuga"
+title: "山菅 一史"
 name_en: "Kazufumi Yamasuga"
 position: "SH"
 team: "横浜キヤノンイーグルス"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 栗田工業ウォーターガッシュ (2020 - 2021)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2021 - )
+- キヤノンイーグルス (2021 - )

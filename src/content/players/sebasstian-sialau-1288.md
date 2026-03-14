@@ -1,5 +1,5 @@
 ---
-title: "Sebasstian Sialau"
+title: "セバスチャン ・シアラウ"
 name_en: "Sebasstian Sialau"
 position: "SO"
 team: "中国電力レッドレグリオンズ"

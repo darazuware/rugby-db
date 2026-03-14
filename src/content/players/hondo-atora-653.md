@@ -1,5 +1,5 @@
 ---
-title: "Hondo Atora"
+title: "本堂 杏虎"
 name_en: "Hondo Atora"
 position: "SH"
 team: "埼玉パナソニックワイルドナイツ"

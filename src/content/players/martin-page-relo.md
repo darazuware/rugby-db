@@ -26,5 +26,5 @@ facebook: ""
 - US L'Isle Jourdain (2010 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2023)
 - US Carcassonne (2020 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2023 - 2025)
+- Lyon Olympique Universitaire Rugby (2023 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

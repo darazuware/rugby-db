@@ -1,5 +1,5 @@
 ---
-title: "Yuto Matsuoka"
+title: "松岡 祐斗"
 name_en: "Yuto Matsuoka"
 position: "FB"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

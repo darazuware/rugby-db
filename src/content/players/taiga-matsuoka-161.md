@@ -1,5 +1,5 @@
 ---
-title: "Taiga Matsuoka"
+title: "松岡 大河"
 name_en: "Taiga Matsuoka"
 position: "WTB"
 team: "豊田自動織機シャトルズ愛知"

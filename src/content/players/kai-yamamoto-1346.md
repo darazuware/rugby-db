@@ -1,5 +1,5 @@
 ---
-title: "Kai Yamamoto"
+title: "山本 凱"
 name_en: "Kai Yamamoto"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

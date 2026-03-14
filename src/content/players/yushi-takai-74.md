@@ -1,5 +1,5 @@
 ---
-title: "Yushi Takai"
+title: "高井 優志"
 name_en: "Yushi Takai"
 position: "WTB"
 team: "清水建設江東ブルーシャークス"

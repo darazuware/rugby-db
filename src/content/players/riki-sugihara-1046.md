@@ -1,5 +1,5 @@
 ---
-title: "Riki Sugihara"
+title: "杉原 立樹"
 name_en: "Riki Sugihara"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

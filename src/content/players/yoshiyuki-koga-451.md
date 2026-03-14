@@ -1,5 +1,5 @@
 ---
-title: "Yoshiyuki Koga"
+title: "古賀 由教"
 name_en: "Yoshiyuki Koga"
 position: "WTB"
 team: "リコーブラックラムズ東京"

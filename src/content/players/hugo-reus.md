@@ -28,4 +28,4 @@ facebook: ""
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - 2026)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2025 - )
+- Union Sportive Arlequins Perpignanais (2025 - )

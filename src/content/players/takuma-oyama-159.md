@@ -1,5 +1,5 @@
 ---
-title: "Takuma Oyama"
+title: "大山 卓真"
 name_en: "Takuma Oyama"
 position: "HO"
 team: "豊田自動織機シャトルズ愛知"

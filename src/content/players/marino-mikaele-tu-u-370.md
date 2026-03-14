@@ -1,5 +1,5 @@
 ---
-title: "MARINO MIKAELE-TU U"
+title: "マリノ ・ミカエリトゥウ"
 name_en: "MARINO MIKAELE-TU U"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2017 - 2023)
+- ハイランダーズ (2017 - 2023)
 - ホークスベイ (2019 - 2023)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2023 - )

@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Kimura"
+title: "木村 朋也"
 name_en: "Tomoya Kimura"
 position: "WTB"
 team: "花園近鉄ライナーズ"

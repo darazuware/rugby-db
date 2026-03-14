@@ -1,5 +1,5 @@
 ---
-title: "Larzlo Sword"
+title: "ラズロー ・ソード"
 name_en: "Larzlo Sword"
 position: "CTB"
 team: "リコーブラックラムズ東京"

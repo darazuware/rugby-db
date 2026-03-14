@@ -1,5 +1,5 @@
 ---
-title: "Yuta Tokunaga"
+title: "徳永 優太"
 name_en: "Yuta Tokunaga"
 position: "UTB"
 team: "豊田自動織機シャトルズ愛知"

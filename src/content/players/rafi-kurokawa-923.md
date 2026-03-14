@@ -1,5 +1,5 @@
 ---
-title: "RAFI KUROKAWA"
+title: "黒川 ラフィ"
 name_en: "RAFI KUROKAWA"
 position: "WTB"
 team: "ルリーロ福岡"

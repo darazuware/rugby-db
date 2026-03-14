@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Haraguti"
+title: "原口 智也"
 name_en: "Tomoya Haraguti"
 position: "CTB"
 team: "狭山セコムラガッツ"

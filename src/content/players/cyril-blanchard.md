@@ -27,4 +27,4 @@ facebook: ""
 - Oyonnax Rugby (2011 - 2013)
 - AS Mâcon Rugby (2013 - 2015)
 - Union Sportive Bressane Pays de l'Ain (2015 - 2017)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - )
+- Rugby Club Vannes (2017 - )

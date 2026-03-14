@@ -1,5 +1,5 @@
 ---
-title: "Ryosei Takai"
+title: "高井 良成"
 name_en: "Ryosei Takai"
 position: "CTB"
 team: "NECグリーンロケッツ東葛"

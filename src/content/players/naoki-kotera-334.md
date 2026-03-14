@@ -1,5 +1,5 @@
 ---
-title: "Naoki Kotera"
+title: "古寺 直希"
 name_en: "Naoki Kotera"
 position: "HO"
 team: "三菱重工相模原ダイナボアーズ"

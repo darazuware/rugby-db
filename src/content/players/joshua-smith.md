@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
+- ハリケーンズ (2023 - 2024)
 - ホークスベイ (2023 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

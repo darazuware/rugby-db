@@ -1,5 +1,5 @@
 ---
-title: "Yuma Kikumoto"
+title: "菊本 有真"
 name_en: "Yuma Kikumoto"
 position: "SO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

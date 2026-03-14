@@ -1,5 +1,5 @@
 ---
-title: "KENTARO NAGATOMI"
+title: "永富 健太郎"
 name_en: "KENTARO NAGATOMI"
 position: "SO"
 team: "ルリーロ福岡"

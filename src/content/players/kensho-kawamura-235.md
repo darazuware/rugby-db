@@ -1,5 +1,5 @@
 ---
-title: "Kensho Kawamura"
+title: "河村 謙尚"
 name_en: "Kensho Kawamura"
 position: "SH"
 team: "花園近鉄ライナーズ"

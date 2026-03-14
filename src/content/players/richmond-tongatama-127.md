@@ -1,5 +1,5 @@
 ---
-title: "Richmond Tongatama"
+title: "リッチモンド ・トンガタマ"
 name_en: "Richmond Tongatama"
 position: "HO"
 team: "静岡ブルーレヴズ"

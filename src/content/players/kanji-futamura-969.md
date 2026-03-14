@@ -1,5 +1,5 @@
 ---
-title: "Kanji Futamura"
+title: "二村 莞司"
 name_en: "Kanji Futamura"
 position: "UTB"
 team: "クボタスピアーズ船橋・東京ベイ"

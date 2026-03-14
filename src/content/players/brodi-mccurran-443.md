@@ -1,5 +1,5 @@
 ---
-title: "Brodi Mccurran"
+title: "マクカラン ブロディ"
 name_en: "Brodi Mccurran"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"

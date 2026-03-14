@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
 - 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2020)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
-- 🇫🇷 [ポー](/teams/top14/pau) (2020 - )
+- Auckland (2019 - 2020)
+- Section Paloise Béarn Pyrénées (2020 - )

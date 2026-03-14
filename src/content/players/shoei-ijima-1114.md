@@ -1,5 +1,5 @@
 ---
-title: "Shoei Ijima"
+title: "井島 彰英"
 name_en: "Shoei Ijima"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

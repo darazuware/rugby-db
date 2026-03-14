@@ -1,5 +1,5 @@
 ---
-title: "Charlie Titcombe"
+title: "チャーリー ・ティトコム"
 name_en: "Charlie Titcombe"
 position: "SO"
 team: "三菱重工相模原ダイナボアーズ"

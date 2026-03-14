@@ -1,5 +1,5 @@
 ---
-title: "YUSYO NARITA"
+title: "成田 悠祥"
 name_en: "YUSYO NARITA"
 position: "PR"
 team: "ルリーロ福岡"

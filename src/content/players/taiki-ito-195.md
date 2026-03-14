@@ -1,5 +1,5 @@
 ---
-title: "Taiki Ito"
+title: "伊藤 大輝"
 name_en: "Taiki Ito"
 position: "HO"
 team: "日本製鉄釜石シーウェイブス"

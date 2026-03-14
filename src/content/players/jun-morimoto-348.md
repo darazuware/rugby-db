@@ -1,5 +1,5 @@
 ---
-title: "Jun Morimoto"
+title: "森本 潤"
 name_en: "Jun Morimoto"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - 2015)
+- Union Sportive Arlequins Perpignanais (2013 - 2015)
 - Racing Club Narbonnais (2015 - 2022)
 - Oyonnax Rugby (2016 - 2017)
 - RC Aubenas Vals (2017 - 2018)

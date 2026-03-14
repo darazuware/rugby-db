@@ -1,5 +1,5 @@
 ---
-title: "Kohei Kamei"
+title: "亀井 康平"
 name_en: "Kohei Kamei"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

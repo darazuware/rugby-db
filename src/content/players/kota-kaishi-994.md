@@ -1,5 +1,5 @@
 ---
-title: "Kota Kaishi"
+title: "海士 広大"
 name_en: "Kota Kaishi"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

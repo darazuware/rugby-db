@@ -1,5 +1,5 @@
 ---
-title: "Benjamin Nee-Nee"
+title: "ベンジャミン ・ニーニー"
 name_en: "Benjamin Nee-Nee"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

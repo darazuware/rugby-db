@@ -1,5 +1,5 @@
 ---
-title: "Junta Hamano"
+title: "濱野 隼大"
 name_en: "Junta Hamano"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"

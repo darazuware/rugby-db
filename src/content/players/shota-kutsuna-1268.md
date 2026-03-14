@@ -1,5 +1,5 @@
 ---
-title: "Shota Kutsuna"
+title: "忽那 鐘太"
 name_en: "Shota Kutsuna"
 position: "SO"
 team: "狭山セコムラガッツ"

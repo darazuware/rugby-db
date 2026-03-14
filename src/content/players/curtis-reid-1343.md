@@ -1,5 +1,5 @@
 ---
-title: "Curtis Reid"
+title: "カーティス ・リード"
 name_en: "Curtis Reid"
 position: "CTB"
 team: "狭山セコムラガッツ"

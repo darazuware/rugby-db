@@ -1,5 +1,5 @@
 ---
-title: "Yudai Ishii"
+title: "石井 雄大"
 name_en: "Yudai Ishii"
 position: "FB"
 team: "狭山セコムラガッツ"

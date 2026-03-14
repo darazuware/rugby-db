@@ -1,5 +1,5 @@
 ---
-title: "Takumi Handa"
+title: "半田 巧"
 name_en: "Takumi Handa"
 position: "HO"
 team: "ヤクルトレビンズ戸田"

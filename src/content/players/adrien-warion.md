@@ -26,5 +26,5 @@ facebook: ""
 - RC Bourguésan (2006 - 2007)
 - RC Tricastin (2007 - 2012)
 - Provence Rugby (2012 - 2021)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Rugby Club Toulonnais (2020 - 2024)
+- Union Sportive Arlequins Perpignanais (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Toshiki Sato"
+title: "佐藤 俊輝"
 name_en: "Toshiki Sato"
 position: "PR"
 team: "狭山セコムラガッツ"

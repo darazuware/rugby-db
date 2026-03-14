@@ -25,4 +25,4 @@ facebook: ""
 
 - Lelo Saracens Tbilissi (2017 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2021 - )
+- Lyon Olympique Universitaire Rugby (2021 - )

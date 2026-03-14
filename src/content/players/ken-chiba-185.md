@@ -1,5 +1,5 @@
 ---
-title: "Ken Chiba"
+title: "千葉 健"
 name_en: "Ken Chiba"
 position: "WTB"
 team: "日本製鉄釜石シーウェイブス"

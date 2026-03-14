@@ -1,5 +1,5 @@
 ---
-title: "Siale Otuhouma"
+title: "シアレ ・オトゥホウマ"
 name_en: "Siale Otuhouma"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

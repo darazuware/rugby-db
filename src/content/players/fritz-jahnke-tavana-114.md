@@ -1,5 +1,5 @@
 ---
-title: "Fritz Jahnke-Tavana"
+title: "フリッツ ・ヤンケタヴァナ"
 name_en: "Fritz Jahnke-Tavana"
 position: "LO"
 team: "豊田自動織機シャトルズ愛知"

@@ -1,5 +1,5 @@
 ---
-title: "Bunkei Kaku"
+title: "郭 玟慶"
 name_en: "Bunkei Kaku"
 position: "PR"
 team: "静岡ブルーレヴズ"

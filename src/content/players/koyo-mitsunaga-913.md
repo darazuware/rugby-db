@@ -1,5 +1,5 @@
 ---
-title: "KOYO MITSUNAGA"
+title: "光長 浩悠"
 name_en: "KOYO MITSUNAGA"
 position: "WTB"
 team: "ルリーロ福岡"

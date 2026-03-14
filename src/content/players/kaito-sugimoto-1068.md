@@ -1,5 +1,5 @@
 ---
-title: "Kaito Sugimoto"
+title: "杉本 海斗"
 name_en: "Kaito Sugimoto"
 position: "WTB"
 team: "静岡ブルーレヴズ"

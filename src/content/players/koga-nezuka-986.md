@@ -1,5 +1,5 @@
 ---
-title: "Koga Nezuka"
+title: "根塚 洸雅"
 name_en: "Koga Nezuka"
 position: "WTB"
 team: "クボタスピアーズ船橋・東京ベイ"

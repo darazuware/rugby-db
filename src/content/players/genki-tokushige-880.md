@@ -1,5 +1,5 @@
 ---
-title: "Genki Tokushige"
+title: "徳重 元気"
 name_en: "Genki Tokushige"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

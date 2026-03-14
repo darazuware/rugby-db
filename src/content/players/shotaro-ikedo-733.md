@@ -1,5 +1,5 @@
 ---
-title: "Shotaro Ikedo"
+title: "池戸 将太郎"
 name_en: "Shotaro Ikedo"
 position: "SH"
 team: "東芝ブレイブルーパス東京"

@@ -1,5 +1,5 @@
 ---
-title: "Hiroto Oka"
+title: "岡 大翔"
 name_en: "Hiroto Oka"
 position: "LO"
 team: "ヤクルトレビンズ戸田"

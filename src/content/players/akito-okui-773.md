@@ -1,5 +1,5 @@
 ---
-title: "Akito Okui"
+title: "奥井 章仁"
 name_en: "Akito Okui"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

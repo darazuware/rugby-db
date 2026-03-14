@@ -1,5 +1,5 @@
 ---
-title: "Essendon Tuitupou"
+title: "エッセンドン ・トゥイトゥポウ"
 name_en: "Essendon Tuitupou"
 position: "WTB"
 team: "清水建設江東ブルーシャークス"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2022 - 2023)
+- ブルーズ (2022 - 2023)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2024 - )

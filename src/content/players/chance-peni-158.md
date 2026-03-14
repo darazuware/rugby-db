@@ -1,5 +1,5 @@
 ---
-title: "Chance Peni"
+title: "チャンス ・ペニ"
 name_en: "Chance Peni"
 position: "WTB"
 team: "豊田自動織機シャトルズ愛知"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2017 - 2019)
+- ブランビーズ (2017 - 2019)
 - 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2023)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2023 - )

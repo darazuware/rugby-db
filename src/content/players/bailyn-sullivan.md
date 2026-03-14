@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - )
+- チーフス (2017 - 2021)
+- ワイカト (2019 - 2025)
+- ハリケーンズ (2021 - )

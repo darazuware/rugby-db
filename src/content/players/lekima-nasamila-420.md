@@ -1,5 +1,5 @@
 ---
-title: "Lekima Nasamila"
+title: "レキマ ・ナサミラ"
 name_en: "Lekima Nasamila"
 position: "FL/No8"
 team: "横浜キヤノンイーグルス"

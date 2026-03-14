@@ -1,5 +1,5 @@
 ---
-title: "Kosuke Oike"
+title: "尾池 亨允"
 name_en: "Kosuke Oike"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2016 - 2019)
+- 近鉄ライナーズ (2016 - 2019)
 - 宗像サニックスブルース (2019 - 2020)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2020 - 2022)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2022 - 2023)

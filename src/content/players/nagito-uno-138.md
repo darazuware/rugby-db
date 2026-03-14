@@ -1,5 +1,5 @@
 ---
-title: "Nagito Uno"
+title: "鵜野 凪斗"
 name_en: "Nagito Uno"
 position: "HO"
 team: "豊田自動織機シャトルズ愛知"

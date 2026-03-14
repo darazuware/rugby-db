@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇦🇺 メルボルン・レベルズ (2021 - 2022)
 - Endeavour Hills RUFC (2022 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - )
+- ワラターズ (2024 - )

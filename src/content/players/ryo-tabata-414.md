@@ -1,5 +1,5 @@
 ---
-title: "Ryo Tabata"
+title: "田畑 凌"
 name_en: "Ryo Tabata"
 position: "CTB"
 team: "横浜キヤノンイーグルス"

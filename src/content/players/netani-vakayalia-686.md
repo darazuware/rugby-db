@@ -1,5 +1,5 @@
 ---
-title: "Netani Vakayalia"
+title: "ネタニ ・ヴァカヤリア"
 name_en: "Netani Vakayalia"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

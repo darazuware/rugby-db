@@ -1,5 +1,5 @@
 ---
-title: "Seunghyok Lee"
+title: "李 承爀"
 name_en: "Seunghyok Lee"
 position: "HO"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2021 - 2024)
+- Mie Honda Heat RFC (2021 - 2024)
 - 相模原D (2024 - )

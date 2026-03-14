@@ -1,5 +1,5 @@
 ---
-title: "Yuichiro Wada"
+title: "和田 悠一郎"
 name_en: "Yuichiro Wada"
 position: "WTB"
 team: "トヨタヴェルブリッツ"

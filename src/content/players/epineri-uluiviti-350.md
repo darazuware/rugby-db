@@ -1,5 +1,5 @@
 ---
-title: "Epineri Uluiviti"
+title: "エピネリ ・ウルイヴァイティ"
 name_en: "Epineri Uluiviti"
 position: "LO"
 team: "三菱重工相模原ダイナボアーズ"

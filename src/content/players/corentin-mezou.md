@@ -25,5 +25,5 @@ facebook: ""
 
 - Union Rugbystique de Landerneau (2016 - 2019)
 - RC Plabennec (2019 - 2020)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2020 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- Rugby Club Vannes (2020 - 2023)
+- Rugby Club Toulonnais (2023 - )

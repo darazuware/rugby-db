@@ -1,5 +1,5 @@
 ---
-title: "Shota Fukui"
+title: "福井 翔大"
 name_en: "Shota Fukui"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

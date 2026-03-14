@@ -1,5 +1,5 @@
 ---
-title: "Shogo Yamamura"
+title: "山村 勝悟"
 name_en: "Shogo Yamamura"
 position: "FL/No8"
 team: "リコーブラックラムズ東京"

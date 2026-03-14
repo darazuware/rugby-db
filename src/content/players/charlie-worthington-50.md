@@ -1,5 +1,5 @@
 ---
-title: "Charlie Worthington"
+title: "チャーリー ・ワージントン"
 name_en: "Charlie Worthington"
 position: "FB"
 team: "九州電力キューデンヴォルテクス"

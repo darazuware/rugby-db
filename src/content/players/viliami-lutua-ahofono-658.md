@@ -1,5 +1,5 @@
 ---
-title: "Viliami Lutua Ahofono"
+title: "ヴィリアミ ・ルトゥア・アホフォノ"
 name_en: "Viliami Lutua Ahofono"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"

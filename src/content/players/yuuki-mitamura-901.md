@@ -1,5 +1,5 @@
 ---
-title: "YUUKI MITAMURA"
+title: "三田村 裕城"
 name_en: "YUUKI MITAMURA"
 position: "SH"
 team: "ルリーロ福岡"

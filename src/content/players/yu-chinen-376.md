@@ -1,5 +1,5 @@
 ---
-title: "Yu Chinen"
+title: "知念 雄"
 name_en: "Yu Chinen"
 position: "PR"
 team: "横浜キヤノンイーグルス"

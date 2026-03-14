@@ -1,5 +1,5 @@
 ---
-title: "Shodai Hirao"
+title: "平生 翔大"
 name_en: "Shodai Hirao"
 position: "HO"
 team: "東京サントリーサンゴリアス"

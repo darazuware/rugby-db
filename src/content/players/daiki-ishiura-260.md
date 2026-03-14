@@ -1,5 +1,5 @@
 ---
-title: "Daiki Ishiura"
+title: "石浦 大貴"
 name_en: "Daiki Ishiura"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

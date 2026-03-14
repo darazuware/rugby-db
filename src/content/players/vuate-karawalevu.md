@@ -26,6 +26,6 @@ facebook: ""
 - Sydney Roosters (2021 - 2022)
 - North Sydney Bears (2021 - 2022)
 - West Harbour RFC (2022 - 2023)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2023 - 2024)
+- New South Wales Waratahs (2023 - 2024)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2025)
 - 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

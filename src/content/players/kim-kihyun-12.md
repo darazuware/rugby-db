@@ -1,5 +1,5 @@
 ---
-title: "Kim Kihyun"
+title: "キム ・ギヒョン"
 name_en: "Kim Kihyun"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"

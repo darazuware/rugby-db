@@ -1,5 +1,5 @@
 ---
-title: "Shun Sawamura"
+title: "沢村 舜"
 name_en: "Shun Sawamura"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

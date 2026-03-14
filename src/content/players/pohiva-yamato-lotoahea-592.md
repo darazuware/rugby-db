@@ -1,5 +1,5 @@
 ---
-title: "Pohiva Yamato Lotoahea"
+title: "ロトアヘア ポヒヴァ大和"
 name_en: "Pohiva Yamato Lotoahea"
 position: "LO"
 team: "リコーブラックラムズ東京"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2012 - )
+- リコーブラックラムズ (2012 - )

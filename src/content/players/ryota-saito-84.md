@@ -1,5 +1,5 @@
 ---
-title: "Ryota Saito"
+title: "齊藤 遼太"
 name_en: "Ryota Saito"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

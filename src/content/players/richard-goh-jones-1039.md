@@ -1,5 +1,5 @@
 ---
-title: "Richard Goh Jones"
+title: "ジョーンズ リチャード剛"
 name_en: "Richard Goh Jones"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"

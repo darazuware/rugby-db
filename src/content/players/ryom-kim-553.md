@@ -1,5 +1,5 @@
 ---
-title: "Ryom Kim"
+title: "金 廉"
 name_en: "Ryom Kim"
 position: "PR"
 team: "浦安D-Rocks"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - )

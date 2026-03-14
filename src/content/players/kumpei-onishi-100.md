@@ -1,5 +1,5 @@
 ---
-title: "Kumpei Onishi"
+title: "大西 訓平"
 name_en: "Kumpei Onishi"
 position: "HO"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "RYOSEI KOJIMA"
+title: "小島 燎成"
 name_en: "RYOSEI KOJIMA"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

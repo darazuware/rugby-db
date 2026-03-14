@@ -1,5 +1,5 @@
 ---
-title: "Ryuto Yagisawa"
+title: "八木澤 龍翔"
 name_en: "Ryuto Yagisawa"
 position: "HO"
 team: "静岡ブルーレヴズ"

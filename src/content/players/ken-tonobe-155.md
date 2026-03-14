@@ -1,5 +1,5 @@
 ---
-title: "Ken Tonobe"
+title: "戸野部 謙"
 name_en: "Ken Tonobe"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"

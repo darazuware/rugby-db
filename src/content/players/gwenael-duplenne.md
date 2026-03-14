@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - RC Lavallois (2004 - 2006)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2006 - 2026)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2012 - )
+- Rugby Club Vannes (2006 - 2026)
+- Lyon Olympique Universitaire Rugby (2012 - )

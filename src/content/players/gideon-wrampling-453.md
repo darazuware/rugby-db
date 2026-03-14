@@ -1,5 +1,5 @@
 ---
-title: "Gideon Wrampling"
+title: "ギデオン ・ランプリング"
 name_en: "Gideon Wrampling"
 position: "CTB"
 team: "東京サントリーサンゴリアス"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2025)
+- ワイカト (2019 - 2025)
+- チーフス (2020 - 2025)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2025 - )

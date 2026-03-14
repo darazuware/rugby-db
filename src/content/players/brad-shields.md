@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2013 - 2026)
+- ハリケーンズ (2013 - 2026)
 - ワスプス (2018 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2022 - 2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - )
+- Union Sportive Arlequins Perpignanais (2022 - 2023)
+- ウェリントン (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Aidan Morgan"
+title: "エイダン ・モーガン"
 name_en: "Aidan Morgan"
 position: "SO"
 team: "トヨタヴェルブリッツ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ウェリントン・ライオンズ (2020 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022 - 2024)
-- 🇮🇪 アルスター・ラグビー (2024 - 2025)
+- ハリケーンズ (2022 - 2024)
+- アルスター (2024 - 2025)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )

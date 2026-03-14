@@ -1,5 +1,5 @@
 ---
-title: "Masahiro Nakano"
+title: "中野 将宏"
 name_en: "Masahiro Nakano"
 position: "WTB"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

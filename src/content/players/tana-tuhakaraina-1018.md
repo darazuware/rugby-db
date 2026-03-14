@@ -1,5 +1,5 @@
 ---
-title: "Tana Tuhakaraina"
+title: "タナ ・トゥハカライナ"
 name_en: "Tana Tuhakaraina"
 position: "CTB"
 team: "浦安D-Rocks"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2023)
+- ワイカト (2021 - 2023)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - )

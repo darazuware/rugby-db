@@ -1,5 +1,5 @@
 ---
-title: "Jack Stratton"
+title: "ジャック ・ストラトン"
 name_en: "Jack Stratton"
 position: "SH"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2018)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- クルセイダーズ (2017 - 2018)
+- ワイカト (2018 - 2019)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2019 - 2023)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2023 - )

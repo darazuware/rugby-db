@@ -1,5 +1,5 @@
 ---
-title: "Blake Gibson"
+title: "ブレイク ・ギブソン"
 name_en: "Blake Gibson"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2021)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021 - 2022)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- ブルーズ (2014 - 2021)
+- オークランド (2019 - 2023)
+- ハリケーンズ (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

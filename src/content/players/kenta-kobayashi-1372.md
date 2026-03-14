@@ -1,5 +1,5 @@
 ---
-title: "Kenta Kobayashi"
+title: "小林 賢太"
 name_en: "Kenta Kobayashi"
 position: "PR"
 team: "東京サントリーサンゴリアス"

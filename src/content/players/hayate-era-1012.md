@@ -1,5 +1,5 @@
 ---
-title: "Hayate Era"
+title: "江良 颯"
 name_en: "Hayate Era"
 position: "HO"
 team: "クボタスピアーズ船橋・東京ベイ"

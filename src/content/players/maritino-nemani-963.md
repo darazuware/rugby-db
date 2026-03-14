@@ -1,5 +1,5 @@
 ---
-title: "Maritino Nemani"
+title: "マリティノ ・ネマニ"
 name_en: "Maritino Nemani"
 position: "CTB"
 team: "清水建設江東ブルーシャークス"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2012)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2012 - 2013)
+- チーフス (2011 - 2012)
+- ハイランダーズ (2012 - 2013)
 - ベイ・オブ・プレンティ (2013 - 2016)
 - FC Grenoble Rugby (2015 - 2017)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2017 - 2025)

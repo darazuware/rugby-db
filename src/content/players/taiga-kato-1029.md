@@ -1,5 +1,5 @@
 ---
-title: "Taiga Kato"
+title: "加藤 大冴"
 name_en: "Taiga Kato"
 position: "SH"
 team: "静岡ブルーレヴズ"

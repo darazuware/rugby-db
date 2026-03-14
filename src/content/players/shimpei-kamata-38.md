@@ -1,5 +1,5 @@
 ---
-title: "Shimpei Kamata"
+title: "鎌田 慎平"
 name_en: "Shimpei Kamata"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Yamato Tanigawa"
+title: "谷川 和"
 name_en: "Yamato Tanigawa"
 position: "SO"
 team: "ヤクルトレビンズ戸田"

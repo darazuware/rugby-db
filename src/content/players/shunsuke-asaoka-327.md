@@ -1,5 +1,5 @@
 ---
-title: "Shunsuke Asaoka"
+title: "淺岡 俊亮"
 name_en: "Shunsuke Asaoka"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

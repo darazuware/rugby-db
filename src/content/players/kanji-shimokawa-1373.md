@@ -1,5 +1,5 @@
 ---
-title: "Kanji Shimokawa"
+title: "下川 甲嗣"
 name_en: "Kanji Shimokawa"
 position: "FL/No8"
 team: "東京サントリーサンゴリアス"

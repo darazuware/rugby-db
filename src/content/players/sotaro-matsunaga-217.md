@@ -1,5 +1,5 @@
 ---
-title: "Sotaro Matsunaga"
+title: "松永 壮太朗"
 name_en: "Sotaro Matsunaga"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"

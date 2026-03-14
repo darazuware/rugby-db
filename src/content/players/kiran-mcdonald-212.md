@@ -1,5 +1,5 @@
 ---
-title: "Kiran McDonald"
+title: "キラン ・マクドナルド"
 name_en: "Kiran McDonald"
 position: "LO"
 team: "花園近鉄ライナーズ"
@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2017 - 2022)
-- 🇮🇪 マンスター・ラグビー (2022 - 2023)
+- マンスター (2022 - 2023)
 - ワスプス (2022 - 2023)
 - ニューカッスル (2023 - 2025)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2025 - )

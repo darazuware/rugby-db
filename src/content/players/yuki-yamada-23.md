@@ -1,5 +1,5 @@
 ---
-title: "Yuki Yamada"
+title: "山田 有樹"
 name_en: "Yuki Yamada"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "TSUYOSHI HASEGAWA"
+title: "長谷川 毅"
 name_en: "TSUYOSHI HASEGAWA"
 position: "WTB"
 team: "ルリーロ福岡"

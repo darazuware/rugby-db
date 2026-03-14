@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2026)
+- ブランビーズ (2023 - 2026)
 - Canberra Royals (2024 - )

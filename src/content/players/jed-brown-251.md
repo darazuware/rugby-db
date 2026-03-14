@@ -1,5 +1,5 @@
 ---
-title: "Jed Brown"
+title: "ジェド ・ブラウン"
 name_en: "Jed Brown"
 position: "FL/No8"
 team: "花園近鉄ライナーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2015 - 2017)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2019)
+- クルセイダーズ (2015 - 2017)
+- ブルーズ (2018 - 2019)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2019 - )

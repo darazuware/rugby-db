@@ -1,5 +1,5 @@
 ---
-title: "Tatsuhiro Ozaki"
+title: "尾ザキ"
 name_en: "Tatsuhiro Ozaki"
 position: "FB"
 team: "清水建設江東ブルーシャークス"

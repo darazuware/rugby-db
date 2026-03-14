@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Ikemura"
+title: "池村 冬紀"
 name_en: "Kazuki Ikemura"
 position: "CTB"
 team: "狭山セコムラガッツ"

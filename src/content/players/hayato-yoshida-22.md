@@ -1,5 +1,5 @@
 ---
-title: "Hayato Yoshida"
+title: "吉田 隼人"
 name_en: "Hayato Yoshida"
 position: "HO"
 team: "九州電力キューデンヴォルテクス"

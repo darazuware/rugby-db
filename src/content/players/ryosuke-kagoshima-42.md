@@ -1,5 +1,5 @@
 ---
-title: "Ryosuke Kagoshima"
+title: "鹿子島 良輔"
 name_en: "Ryosuke Kagoshima"
 position: "PR"
 team: "九州電力キューデンヴォルテクス"

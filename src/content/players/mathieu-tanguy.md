@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Rugby Club Toulonnais (2022 - 2024)
+- Union Sportive Arlequins Perpignanais (2023 - )

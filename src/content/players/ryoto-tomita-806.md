@@ -1,5 +1,5 @@
 ---
-title: "Ryoto Tomita"
+title: "富田 凌仁"
 name_en: "Ryoto Tomita"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

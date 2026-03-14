@@ -1,5 +1,5 @@
 ---
-title: "Moeki Fukushi"
+title: "福士 萌起"
 name_en: "Moeki Fukushi"
 position: "WTB"
 team: "日野レッドドルフィンズ"

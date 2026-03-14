@@ -1,5 +1,5 @@
 ---
-title: "Taniela Vea"
+title: "タニエラ ・ヴェア"
 name_en: "Taniela Vea"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

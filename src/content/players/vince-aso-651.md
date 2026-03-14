@@ -1,5 +1,5 @@
 ---
-title: "Vince Aso"
+title: "ヴィンス ・アソ"
 name_en: "Vince Aso"
 position: "CTB"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2017)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2021)
+- オークランド (2013 - 2017)
+- ハリケーンズ (2016 - 2021)
+- ウェリントン (2019 - 2021)
 - 埼玉WK (2021 - )

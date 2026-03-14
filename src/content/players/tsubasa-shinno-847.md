@@ -1,5 +1,5 @@
 ---
-title: "Tsubasa Shinno"
+title: "新野 翼"
 name_en: "Tsubasa Shinno"
 position: "WTB"
 team: "ヤクルトレビンズ戸田"

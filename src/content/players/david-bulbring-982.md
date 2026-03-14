@@ -1,5 +1,5 @@
 ---
-title: "David Bulbring"
+title: "デーヴィッド ・ブルブリング"
 name_en: "David Bulbring"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"

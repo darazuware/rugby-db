@@ -26,4 +26,4 @@ facebook: ""
 - Union Sportive Néracaise (2007 - 2013)
 - Sporting Union Agenais (2013 - 2021)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2019)
-- 🇫🇷 [ポー](/teams/top14/pau) (2021 - )
+- Section Paloise Béarn Pyrénées (2021 - )

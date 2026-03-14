@@ -1,5 +1,5 @@
 ---
-title: "Ryuta Yasui"
+title: "安井 龍太"
 name_en: "Ryuta Yasui"
 position: "LO"
 team: "横浜キヤノンイーグルス"

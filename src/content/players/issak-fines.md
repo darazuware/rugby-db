@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2017 - 2025)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2021)
+- ブランビーズ (2019 - 2021)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

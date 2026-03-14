@@ -1,5 +1,5 @@
 ---
-title: "Ryunosuke Fujiwara"
+title: "藤原 竜之丞"
 name_en: "Ryunosuke Fujiwara"
 position: "WTB"
 team: "狭山セコムラガッツ"

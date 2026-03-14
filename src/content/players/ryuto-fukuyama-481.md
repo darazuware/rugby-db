@@ -1,5 +1,5 @@
 ---
-title: "Ryuto Fukuyama"
+title: "福山 竜斗"
 name_en: "Ryuto Fukuyama"
 position: "UTB"
 team: "NECグリーンロケッツ東葛"

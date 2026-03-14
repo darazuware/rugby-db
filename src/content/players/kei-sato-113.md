@@ -1,5 +1,5 @@
 ---
-title: "Kei Sato"
+title: "佐藤 慶"
 name_en: "Kei Sato"
 position: "HO"
 team: "豊田自動織機シャトルズ愛知"

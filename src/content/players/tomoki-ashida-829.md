@@ -1,5 +1,5 @@
 ---
-title: "Tomoki Ashida"
+title: "芦田 朋輝"
 name_en: "Tomoki Ashida"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

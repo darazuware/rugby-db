@@ -1,5 +1,5 @@
 ---
-title: "Ryushin Sone"
+title: "曽根 隆慎"
 name_en: "Ryushin Sone"
 position: "PR"
 team: "花園近鉄ライナーズ"

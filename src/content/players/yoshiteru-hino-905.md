@@ -1,5 +1,5 @@
 ---
-title: "Yoshiteru Hino"
+title: "日野 芳輝"
 name_en: "Yoshiteru Hino"
 position: "FB"
 team: "ルリーロ福岡"

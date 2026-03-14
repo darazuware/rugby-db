@@ -1,5 +1,5 @@
 ---
-title: "Daymon Leasuasu"
+title: "デーモン ・レエスアス"
 name_en: "Daymon Leasuasu"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

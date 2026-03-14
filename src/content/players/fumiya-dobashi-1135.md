@@ -1,5 +1,5 @@
 ---
-title: "Fumiya Dobashi"
+title: "土橋 郁矢"
 name_en: "Fumiya Dobashi"
 position: "SO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

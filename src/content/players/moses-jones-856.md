@@ -1,5 +1,5 @@
 ---
-title: "Moses Jones"
+title: "モーゼス ・ジョーンズ"
 name_en: "Moses Jones"
 position: "SO"
 team: "ヤクルトレビンズ戸田"

@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Union Sportive Seynoise (2006 - 2009)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2009 - 2012)
+- Rugby Club Toulonnais (2009 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - 2021)
+- Stade Français Paris Rugby (2018 - 2021)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - )

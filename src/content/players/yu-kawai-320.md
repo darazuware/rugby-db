@@ -1,5 +1,5 @@
 ---
-title: "Yu Kawai"
+title: "河井 優"
 name_en: "Yu Kawai"
 position: "UTB"
 team: "三重ホンダヒート"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - ブラザーズRC (2023 - 2025)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2025 - )
+- Mie Honda Heat RFC (2025 - )

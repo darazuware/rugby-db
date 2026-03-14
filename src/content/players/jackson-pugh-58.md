@@ -1,5 +1,5 @@
 ---
-title: "Jackson Pugh"
+title: "ジャクソン ・ピュー"
 name_en: "Jackson Pugh"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2024)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2022)
+- オークランド (2021 - 2022)
 - 🇯🇵 [マツダスカイアクティブズ広島](/teams/league-one/mazda-skyactivs-hiroshima) [D3] (2023 - )

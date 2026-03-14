@@ -1,5 +1,5 @@
 ---
-title: "Toshiki Amano"
+title: "天野 寿紀"
 name_en: "Toshiki Amano"
 position: "SH"
 team: "横浜キヤノンイーグルス"

@@ -1,5 +1,5 @@
 ---
-title: "Tamati Ioane"
+title: "タマティ ・イオアネ"
 name_en: "Tamati Ioane"
 position: "FL/No8"
 team: "浦安D-Rocks"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2020 - 2021)
+- Gungahlin Eagles (2020 - 2021)
 - 🇦🇺 メルボルン・レベルズ (2021 - 2023)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2023 - 2025)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2025 - )

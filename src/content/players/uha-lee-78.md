@@ -1,5 +1,5 @@
 ---
-title: "Uha Lee"
+title: "李 優河"
 name_en: "Uha Lee"
 position: "PR"
 team: "清水建設江東ブルーシャークス"

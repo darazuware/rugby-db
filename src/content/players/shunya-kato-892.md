@@ -1,5 +1,5 @@
 ---
-title: "Shunya Kato"
+title: "加藤 舜也"
 name_en: "Shunya Kato"
 position: "FL/No8"
 team: "ルリーロ福岡"

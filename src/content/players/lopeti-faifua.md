@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - West Brisbane Bulldogs (2020 - 2021)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2021 - 2023)
+- レッズ (2021 - 2023)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
 - タスマン (2024 - )

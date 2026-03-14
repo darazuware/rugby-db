@@ -1,5 +1,5 @@
 ---
-title: "Kenta Tanaka"
+title: "田中 健太"
 name_en: "Kenta Tanaka"
 position: "PR"
 team: "花園近鉄ライナーズ"

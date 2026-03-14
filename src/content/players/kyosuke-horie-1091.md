@@ -1,5 +1,5 @@
 ---
-title: "Kyosuke Horie"
+title: "堀江 恭佑"
 name_en: "Kyosuke Horie"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

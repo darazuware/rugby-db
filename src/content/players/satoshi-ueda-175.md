@@ -1,5 +1,5 @@
 ---
-title: "Satoshi Ueda"
+title: "上田 聖"
 name_en: "Satoshi Ueda"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

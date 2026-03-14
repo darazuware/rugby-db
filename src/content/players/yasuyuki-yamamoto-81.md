@@ -1,5 +1,5 @@
 ---
-title: "Yasuyuki Yamamoto"
+title: "山本 泰之"
 name_en: "Yasuyuki Yamamoto"
 position: "HO"
 team: "清水建設江東ブルーシャークス"

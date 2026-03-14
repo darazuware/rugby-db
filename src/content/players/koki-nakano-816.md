@@ -1,5 +1,5 @@
 ---
-title: "Koki Nakano"
+title: "中野 光基"
 name_en: "Koki Nakano"
 position: "HO"
 team: "マツダスカイアクティブズ広島"

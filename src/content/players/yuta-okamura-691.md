@@ -1,5 +1,5 @@
 ---
-title: "Yuta Okamura"
+title: "岡村 優太"
 name_en: "Yuta Okamura"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

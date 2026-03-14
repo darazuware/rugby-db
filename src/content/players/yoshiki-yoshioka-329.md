@@ -1,5 +1,5 @@
 ---
-title: "Yoshiki Yoshioka"
+title: "吉岡 義喜"
 name_en: "Yoshiki Yoshioka"
 position: "SH"
 team: "三菱重工相模原ダイナボアーズ"

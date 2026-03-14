@@ -1,5 +1,5 @@
 ---
-title: "Michael Collins"
+title: "マイケル ・コリンズ"
 name_en: "Michael Collins"
 position: "UTB"
 team: "東芝ブレイブルーパス東京"

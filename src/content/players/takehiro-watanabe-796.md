@@ -1,5 +1,5 @@
 ---
-title: "Takehiro Watanabe"
+title: "渡部 雄大"
 name_en: "Takehiro Watanabe"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

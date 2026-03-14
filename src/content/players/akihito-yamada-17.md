@@ -1,5 +1,5 @@
 ---
-title: "Akihito Yamada"
+title: "山田 章仁"
 name_en: "Akihito Yamada"
 position: "WTB"
 team: "九州電力キューデンヴォルテクス"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2008 - 2010)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2010 - 2019)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015)
+- ホンダヒート (2008 - 2010)
+- Saitama Wild Knights (2010 - 2019)
+- フォース (2015)
 - Sunwolves (2016 - 2019)
 - 🇫🇷 [リヨン](/teams/top14/lyon) (2019)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2022)

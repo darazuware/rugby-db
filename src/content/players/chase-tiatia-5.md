@@ -1,5 +1,5 @@
 ---
-title: "Chase Tiatia"
+title: "チェイス ・ティアティア"
 name_en: "Chase Tiatia"
 position: "FB"
 team: "狭山セコムラガッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2022)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2020)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
+- チーフス (2017 - 2022)
+- ハリケーンズ (2019 - 2020)
+- フォース (2023 - 2024)
 - 🇯🇵 [狭山セコムラガッツ](/teams/league-one/secom-rugguts) [D3] (2024 - )

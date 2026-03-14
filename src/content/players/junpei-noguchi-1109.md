@@ -1,5 +1,5 @@
 ---
-title: "Junpei Noguchi"
+title: "野口 順平"
 name_en: "Junpei Noguchi"
 position: "SO"
 team: "日野レッドドルフィンズ"

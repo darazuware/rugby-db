@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2021)
+- ウェリントン (2019 - 2021)
 - ホークスベイ (2021 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021 - 2026)
+- チーフス (2021 - 2026)
 - Newcastle Knights (2024 - )

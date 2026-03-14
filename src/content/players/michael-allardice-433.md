@@ -1,5 +1,5 @@
 ---
-title: "Michael Allardice"
+title: "マイケル ・アラダイス"
 name_en: "Michael Allardice"
 position: "LO"
 team: "リコーブラックラムズ東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2020)
+- チーフス (2014 - 2020)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2020 - 2023)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - 2025)
+- NTTドコモレッドハリケーンズ大阪 (2023 - 2025)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2025 - )

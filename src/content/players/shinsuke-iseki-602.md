@@ -1,5 +1,5 @@
 ---
-title: "Shinsuke Iseki"
+title: "井関 信介"
 name_en: "Shinsuke Iseki"
 position: "FB"
 team: "コベルコ神戸スティーラーズ"

@@ -1,5 +1,5 @@
 ---
-title: "Yuya Odo"
+title: "大戸 裕矢"
 name_en: "Yuya Odo"
 position: "LO"
 team: "静岡ブルーレヴズ"

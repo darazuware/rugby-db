@@ -1,5 +1,5 @@
 ---
-title: "SYUUTO INOUE"
+title: "井上 柊人"
 name_en: "SYUUTO INOUE"
 position: "WTB"
 team: "ルリーロ福岡"

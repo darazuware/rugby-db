@@ -1,5 +1,5 @@
 ---
-title: "Anton Lienert-Brown"
+title: "アントン ・レイナートブラウン"
 name_en: "Anton Lienert-Brown"
 position: "CTB"
 team: "コベルコ神戸スティーラーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2025)
+- チーフス (2013 - 2025)
+- ワイカト (2019 - 2025)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2025 - )

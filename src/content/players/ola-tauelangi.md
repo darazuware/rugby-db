@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Gordon Rugby Football Club (2019 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2023 - 2025)
+- オークランド (2023 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )

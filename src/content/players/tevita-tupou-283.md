@@ -1,5 +1,5 @@
 ---
-title: "Tevita Tupou"
+title: "ツポウ テビタ"
 name_en: "Tevita Tupou"
 position: "FL/No8"
 team: "三重ホンダヒート"

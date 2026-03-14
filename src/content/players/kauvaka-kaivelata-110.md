@@ -1,5 +1,5 @@
 ---
-title: "Kauvaka Kaivelata"
+title: "カウヴァカ ・カイヴェラタ"
 name_en: "Kauvaka Kaivelata"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - カウンティーズ・マヌカウ (2022 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - 2024)
+- チーフス (2022 - 2024)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2024 - )

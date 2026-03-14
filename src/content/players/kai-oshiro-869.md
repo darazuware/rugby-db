@@ -1,5 +1,5 @@
 ---
-title: "Kai Oshiro"
+title: "大城 海"
 name_en: "Kai Oshiro"
 position: "FB"
 team: "ヤクルトレビンズ戸田"

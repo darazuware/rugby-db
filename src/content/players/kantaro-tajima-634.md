@@ -1,5 +1,5 @@
 ---
-title: "Kantaro Tajima"
+title: "田島 貫太郎"
 name_en: "Kantaro Tajima"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

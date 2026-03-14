@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - RC Hyères Carqueiranne La Crau (2006 - 2010)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2010 - 2026)
+- Rugby Club Toulonnais (2010 - 2026)
 - Stade Montois Rugby Pro (2020 - )

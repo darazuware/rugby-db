@@ -1,5 +1,5 @@
 ---
-title: "Cheng Chao Yi"
+title: "鄭 兆毅"
 name_en: "Cheng Chao Yi"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"

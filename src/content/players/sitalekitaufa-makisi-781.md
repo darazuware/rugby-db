@@ -1,5 +1,5 @@
 ---
-title: "SITALEKITAUFA MAKISI"
+title: "シタレキタウファ ・マキシ"
 name_en: "SITALEKITAUFA MAKISI"
 position: "CTB"
 team: "ルリーロ福岡"

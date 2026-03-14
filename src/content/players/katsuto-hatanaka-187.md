@@ -1,5 +1,5 @@
 ---
-title: "Katsuto Hatanaka"
+title: "畠中 豪士"
 name_en: "Katsuto Hatanaka"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

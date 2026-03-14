@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ポー](/teams/top14/pau) (2004 - )
+- Section Paloise Béarn Pyrénées (2004 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - AS Bages Villeneuve (2006 - 2012)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2013 - )
+- Union Sportive Arlequins Perpignanais (2013 - )

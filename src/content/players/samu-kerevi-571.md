@@ -1,5 +1,5 @@
 ---
-title: "Samu Kerevi"
+title: "サム ・ケレビ"
 name_en: "Samu Kerevi"
 position: "CTB"
 team: "浦安D-Rocks"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ブリスベン・シティ (2014 - 2017)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2019)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2023)
+- レッズ (2014 - 2019)
+- Tokyo Sungoliath (2019 - 2023)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2023 - )

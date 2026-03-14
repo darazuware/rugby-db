@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Uni-Norths Owls (2022 - 2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2026)
+- ブランビーズ (2023 - 2026)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "SHO MORITA"
+title: "盛田 生"
 name_en: "SHO MORITA"
 position: "SH"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Masashi Debuchi"
+title: "出渕 賢史"
 name_en: "Masashi Debuchi"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2008 - 2012)
+- Toulouse Lalande Aucamville (2008 - 2012)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - )

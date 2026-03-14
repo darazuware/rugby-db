@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Brothers Rugby Club (2019 - 2020)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2021)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2021 - 2026)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - )
+- レッズ (2020 - 2021)
+- ブランビーズ (2021 - 2026)
+- オタゴ (2023 - )

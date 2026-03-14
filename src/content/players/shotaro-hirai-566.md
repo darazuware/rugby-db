@@ -1,5 +1,5 @@
 ---
-title: "Shotaro Hirai"
+title: "平井 将太郎"
 name_en: "Shotaro Hirai"
 position: "PR"
 team: "浦安D-Rocks"

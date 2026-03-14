@@ -1,5 +1,5 @@
 ---
-title: "Koushiro Shigenobu"
+title: "重信 滉史郎"
 name_en: "Koushiro Shigenobu"
 position: "PR"
 team: "マツダスカイアクティブズ広島"

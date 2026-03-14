@@ -1,5 +1,5 @@
 ---
-title: "Tatsuya Miyazaki"
+title: "宮崎 達也"
 name_en: "Tatsuya Miyazaki"
 position: "HO"
 team: "東京サントリーサンゴリアス"

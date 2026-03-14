@@ -1,5 +1,5 @@
 ---
-title: "Kai Yamamoto"
+title: "山本 快"
 name_en: "Kai Yamamoto"
 position: "WTB"
 team: "クリタウォーターガッシュ昭島"

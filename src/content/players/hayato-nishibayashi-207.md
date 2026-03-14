@@ -1,5 +1,5 @@
 ---
-title: "Hayato Nishibayashi"
+title: "西林 勇登"
 name_en: "Hayato Nishibayashi"
 position: "HO"
 team: "日本製鉄釜石シーウェイブス"

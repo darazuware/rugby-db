@@ -1,5 +1,5 @@
 ---
-title: "Aseri Masivou"
+title: "アセリ ・マシヴォウ"
 name_en: "Aseri Masivou"
 position: "FL/No8"
 team: "三重ホンダヒート"

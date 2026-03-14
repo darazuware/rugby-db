@@ -26,4 +26,4 @@ facebook: ""
 - Rugby Ouest Cotentin (2008 - 2020)
 - Stade Caennais RC (2020 - 2021)
 - Rouen Normandie Rugby (2021 - 2025)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2025 - )
+- Rugby Club Vannes (2025 - )

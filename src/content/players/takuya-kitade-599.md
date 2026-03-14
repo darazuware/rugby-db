@@ -1,5 +1,5 @@
 ---
-title: "Takuya Kitade"
+title: "北出 卓也"
 name_en: "Takuya Kitade"
 position: "HO"
 team: "コベルコ神戸スティーラーズ"

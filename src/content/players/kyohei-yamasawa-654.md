@@ -1,5 +1,5 @@
 ---
-title: "Kyohei Yamasawa"
+title: "山沢 京平"
 name_en: "Kyohei Yamasawa"
 position: "SO"
 team: "埼玉パナソニックワイルドナイツ"

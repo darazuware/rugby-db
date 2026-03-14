@@ -1,5 +1,5 @@
 ---
-title: "Ryohei Isoda"
+title: "礒田 凌平"
 name_en: "Ryohei Isoda"
 position: "CTB"
 team: "リコーブラックラムズ東京"

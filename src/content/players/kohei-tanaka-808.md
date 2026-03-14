@@ -1,5 +1,5 @@
 ---
-title: "Kohei Tanaka"
+title: "田中 康平"
 name_en: "Kohei Tanaka"
 position: "FB"
 team: "マツダスカイアクティブズ広島"

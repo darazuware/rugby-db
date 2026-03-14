@@ -1,5 +1,5 @@
 ---
-title: "Keisuke Yamazoe"
+title: "山添 圭祐"
 name_en: "Keisuke Yamazoe"
 position: "HO"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Frank Lochore"
+title: "フランク ・ロホー"
 name_en: "Frank Lochore"
 position: "LO"
 team: "NECグリーンロケッツ東葛"

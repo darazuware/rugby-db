@@ -1,5 +1,5 @@
 ---
-title: "Kyogo Okano"
+title: "岡野 喬吾"
 name_en: "Kyogo Okano"
 position: "CTB"
 team: "三重ホンダヒート"

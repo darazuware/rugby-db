@@ -1,5 +1,5 @@
 ---
-title: "Shosuke Funaki"
+title: "船木 頌介"
 name_en: "Shosuke Funaki"
 position: "PR"
 team: "日野レッドドルフィンズ"

@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2019 - 2024)
+- Taranaki Bulls (2019 - 2024)
 - 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2021 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

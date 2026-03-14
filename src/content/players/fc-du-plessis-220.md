@@ -1,5 +1,5 @@
 ---
-title: "FC Du Plessis"
+title: "FC ・デュプレッシー"
 name_en: "FC Du Plessis"
 position: "FB"
 team: "三重ホンダヒート"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - 2021)
-- 🇿🇦 ヴォーダコム・ブルズ (2022 - 2023)
+- ブルズ (2022 - 2023)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - )

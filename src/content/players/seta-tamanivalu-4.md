@@ -1,5 +1,5 @@
 ---
-title: "Seta Tamanivalu"
+title: "セタ ・タマニバル"
 name_en: "Seta Tamanivalu"
 position: "CTB"
 team: "東芝ブレイブルーパス東京"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2016)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2018)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2020)
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - )
+- チーフス (2015 - 2016)
+- クルセイダーズ (2017 - 2018)
+- ボルドー (2018 - 2020)
+- 東芝ブレイブルーパス (2021 - )

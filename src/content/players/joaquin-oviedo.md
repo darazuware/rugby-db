@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Jaguares XV (2020 - 2021)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2021 - )
+- Union Sportive Arlequins Perpignanais (2021 - )

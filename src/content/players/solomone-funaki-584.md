@@ -1,5 +1,5 @@
 ---
-title: "Solomone Funaki"
+title: "ソロモネ ・フナキ"
 name_en: "Solomone Funaki"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ホークスベイ (2018 - 2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
+- ハイランダーズ (2020 - 2021)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ドラゴンズ・ラグビー (2024 - )
+- ドラゴンズ (2024 - )

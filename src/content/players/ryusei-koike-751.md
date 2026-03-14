@@ -1,5 +1,5 @@
 ---
-title: "Ryusei Koike"
+title: "小池 隆成"
 name_en: "Ryusei Koike"
 position: "FL/No8"
 team: "トヨタヴェルブリッツ"

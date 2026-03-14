@@ -1,5 +1,5 @@
 ---
-title: "Suguru Hidaka"
+title: "日高 駿"
 name_en: "Suguru Hidaka"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "HARUTO MAKIYAMA"
+title: "牧山 遥登"
 name_en: "HARUTO MAKIYAMA"
 position: "WTB"
 team: "ルリーロ福岡"

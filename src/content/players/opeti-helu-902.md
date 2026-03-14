@@ -1,5 +1,5 @@
 ---
-title: "Opeti Helu"
+title: "オペティ ・ヘル"
 name_en: "Opeti Helu"
 position: "PR"
 team: "クボタスピアーズ船橋・東京ベイ"

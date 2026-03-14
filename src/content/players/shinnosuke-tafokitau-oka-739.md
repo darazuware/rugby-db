@@ -1,5 +1,5 @@
 ---
-title: "Shinnosuke Tafokitau Oka"
+title: "岡 新之助タフォキタウ"
 name_en: "Shinnosuke Tafokitau Oka"
 position: "SH"
 team: "日本製鉄釜石シーウェイブス"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2018 - 2019)
+- NECグリーンロケッツ (2018 - 2019)
 - 日立製作所 (2019 - 2020)
 - クリーンファイターズ山梨 (2020 - 2022)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2022 - 2025)
+- Tokyo Sungoliath (2022 - 2025)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2025 - )

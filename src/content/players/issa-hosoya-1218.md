@@ -1,5 +1,5 @@
 ---
-title: "Issa Hosoya"
+title: "細矢 一颯"
 name_en: "Issa Hosoya"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

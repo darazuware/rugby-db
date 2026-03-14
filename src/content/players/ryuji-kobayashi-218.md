@@ -1,5 +1,5 @@
 ---
-title: "Ryuji Kobayashi"
+title: "小林 龍司"
 name_en: "Ryuji Kobayashi"
 position: "PR"
 team: "花園近鉄ライナーズ"

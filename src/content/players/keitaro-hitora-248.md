@@ -1,5 +1,5 @@
 ---
-title: "Keitaro Hitora"
+title: "人羅 奎太郎"
 name_en: "Keitaro Hitora"
 position: "SH"
 team: "花園近鉄ライナーズ"

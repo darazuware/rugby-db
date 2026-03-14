@@ -1,5 +1,5 @@
 ---
-title: "Hiroki Kawase"
+title: "川瀬 大輝"
 name_en: "Hiroki Kawase"
 position: "LO"
 team: "クリタウォーターガッシュ昭島"

@@ -1,5 +1,5 @@
 ---
-title: "Jiwon Gu"
+title: "具 智元"
 name_en: "Jiwon Gu"
 position: "PR"
 team: "コベルコ神戸スティーラーズ"

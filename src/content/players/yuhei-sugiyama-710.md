@@ -1,5 +1,5 @@
 ---
-title: "Yuhei Sugiyama"
+title: "杉山 優平"
 name_en: "Yuhei Sugiyama"
 position: "SH"
 team: "東芝ブレイブルーパス東京"

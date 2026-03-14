@@ -1,5 +1,5 @@
 ---
-title: "Sena Kimura"
+title: "木村 星南"
 name_en: "Sena Kimura"
 position: "PR"
 team: "東芝ブレイブルーパス東京"

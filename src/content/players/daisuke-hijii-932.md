@@ -1,5 +1,5 @@
 ---
-title: "DAISUKE HIJII"
+title: "肘井 大輔"
 name_en: "DAISUKE HIJII"
 position: "SO"
 team: "ルリーロ福岡"

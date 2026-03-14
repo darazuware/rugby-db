@@ -1,5 +1,5 @@
 ---
-title: "Lemeki Lomano Lava"
+title: "レメキ ロマノラヴァ"
 name_en: "Lemeki Lomano Lava"
 position: "UTB"
 team: "三重ホンダヒート"

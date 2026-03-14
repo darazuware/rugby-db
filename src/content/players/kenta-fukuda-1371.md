@@ -1,5 +1,5 @@
 ---
-title: "Kenta Fukuda"
+title: "福田 健太"
 name_en: "Kenta Fukuda"
 position: "SH"
 team: "東京サントリーサンゴリアス"

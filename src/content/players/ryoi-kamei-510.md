@@ -1,5 +1,5 @@
 ---
-title: "Ryoi Kamei"
+title: "亀井 亮依"
 name_en: "Ryoi Kamei"
 position: "FL/No8"
 team: "NECグリーンロケッツ東葛"

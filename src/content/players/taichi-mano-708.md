@@ -1,5 +1,5 @@
 ---
-title: "Taichi Mano"
+title: "眞野 泰地"
 name_en: "Taichi Mano"
 position: "CTB"
 team: "東芝ブレイブルーパス東京"

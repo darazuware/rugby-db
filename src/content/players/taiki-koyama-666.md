@@ -1,5 +1,5 @@
 ---
-title: "Taiki Koyama"
+title: "小山 大輝"
 name_en: "Taiki Koyama"
 position: "SH"
 team: "埼玉パナソニックワイルドナイツ"

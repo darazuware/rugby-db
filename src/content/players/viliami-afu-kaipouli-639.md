@@ -1,5 +1,5 @@
 ---
-title: "Viliami Afu Kaipouli"
+title: "カイポウリ ヴィリアミアフ"
 name_en: "Viliami Afu Kaipouli"
 position: "FL/No8"
 team: "埼玉パナソニックワイルドナイツ"

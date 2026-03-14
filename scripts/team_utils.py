@@ -104,11 +104,36 @@ for league, teams in TEAM_NAMES_JP.items():
             short_jp = data['jp'].split('（')[0]
             TEAM_MAPPING[short_jp] = mapping_data
 
+TEAM_INFO_CACHE = {}
+
+TEAM_INFO_CACHE = {}
+
 def get_team_info(team_name):
     """チーム名からメタ情報（リーグ、スラッグ、日本語名等）を取得する"""
-    for key, data in TEAM_MAPPING.items():
-        if key == team_name or key in team_name or team_name in key:
-            return data
+    if not team_name: return None
+    
+    # 前後の空白を除去
+    team_name = team_name.strip()
+    
+    if team_name in TEAM_INFO_CACHE:
+        return TEAM_INFO_CACHE[team_name]
+    
+    # 1. 完全一致を優先 (TEAM_MAPPING は辞書なので O(1))
+    if team_name in TEAM_MAPPING:
+        res = TEAM_MAPPING[team_name]
+        TEAM_INFO_CACHE[team_name] = res
+        return res
+    
+    # 2. 括弧（全角半角）を外して再試行
+    short_name = re.sub(r'[\(（].*?[\)）]', '', team_name).strip()
+    if short_name != team_name and short_name in TEAM_MAPPING:
+        res = TEAM_MAPPING[short_name]
+        TEAM_INFO_CACHE[team_name] = res
+        return res
+
+    # 3. 既知の英語名・日本語名のエイリアスを考慮しても見つからない場合は None
+    # 以前のループによる「部分一致」は、長いキャリア履歴文字列に対して非常に遅いため削除
+    TEAM_INFO_CACHE[team_name] = None
     return None
 
 def get_team_link(team_name, include_flag=False):

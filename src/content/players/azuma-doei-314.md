@@ -1,5 +1,5 @@
 ---
-title: "Azuma Doei"
+title: "土永 雷"
 name_en: "Azuma Doei"
 position: "SH"
 team: "三重ホンダヒート"

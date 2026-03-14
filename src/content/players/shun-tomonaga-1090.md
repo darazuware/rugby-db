@@ -1,5 +1,5 @@
 ---
-title: "Shun Tomonaga"
+title: "朝長 駿"
 name_en: "Shun Tomonaga"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

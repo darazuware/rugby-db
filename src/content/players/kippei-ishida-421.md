@@ -1,5 +1,5 @@
 ---
-title: "Kippei Ishida"
+title: "石田 吉平"
 name_en: "Kippei Ishida"
 position: "WTB"
 team: "横浜キヤノンイーグルス"

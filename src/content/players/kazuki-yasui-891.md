@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Yasui"
+title: "安居 一輝"
 name_en: "Kazuki Yasui"
 position: "HO"
 team: "ルリーロ福岡"

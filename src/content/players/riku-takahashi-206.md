@@ -1,5 +1,5 @@
 ---
-title: "Riku Takahashi"
+title: "高橋 璃玖"
 name_en: "Riku Takahashi"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

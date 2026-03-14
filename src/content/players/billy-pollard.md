@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2018 - 2019)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2019 - 2026)
+- ワラターズ (2018 - 2019)
+- ブランビーズ (2019 - 2026)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

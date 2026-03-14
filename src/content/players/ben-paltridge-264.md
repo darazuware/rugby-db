@@ -1,5 +1,5 @@
 ---
-title: "Ben Paltridge"
+title: "ベン ・ポルトリッジ"
 name_en: "Ben Paltridge"
 position: "WTB"
 team: "三重ホンダヒート"
@@ -25,4 +25,4 @@ facebook: ""
 
 - 栗田工業ウォーターガッシュ (2015 - 2020)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2020 - 2025)
-- 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2025 - )
+- Mie Honda Heat RFC (2025 - )

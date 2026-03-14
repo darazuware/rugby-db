@@ -1,5 +1,5 @@
 ---
-title: "YUUKI KOUNO"
+title: "河野 友希"
 name_en: "YUUKI KOUNO"
 position: "FB"
 team: "ルリーロ福岡"

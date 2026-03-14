@@ -1,5 +1,5 @@
 ---
-title: "Faulua Makisi"
+title: "マキシ ファウルア"
 name_en: "Faulua Makisi"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

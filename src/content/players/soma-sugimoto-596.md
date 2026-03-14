@@ -1,5 +1,5 @@
 ---
-title: "Soma Sugimoto"
+title: "杉本 崇馬"
 name_en: "Soma Sugimoto"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"

@@ -1,5 +1,5 @@
 ---
-title: "Taichi Takahashi"
+title: "高橋 汰地"
 name_en: "Taichi Takahashi"
 position: "WTB"
 team: "トヨタヴェルブリッツ"

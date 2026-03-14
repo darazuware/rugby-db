@@ -1,5 +1,5 @@
 ---
-title: "Ryo Hosomoto"
+title: "細元 亮"
 name_en: "Ryo Hosomoto"
 position: "WTB"
 team: "クリタウォーターガッシュ昭島"

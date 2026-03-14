@@ -1,5 +1,5 @@
 ---
-title: "Takuro Hayashida"
+title: "林田 拓朗"
 name_en: "Takuro Hayashida"
 position: "SO"
 team: "クリタウォーターガッシュ昭島"

@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Oshikawa"
+title: "押川 敦治"
 name_en: "Atsushi Oshikawa"
 position: "SO"
 team: "クボタスピアーズ船橋・東京ベイ"

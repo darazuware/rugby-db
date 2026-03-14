@@ -1,5 +1,5 @@
 ---
-title: "Kavaia Tagivetaua"
+title: "カヴァイア ・タギヴェタウア"
 name_en: "Kavaia Tagivetaua"
 position: "LO"
 team: "コベルコ神戸スティーラーズ"

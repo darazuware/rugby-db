@@ -27,4 +27,4 @@ facebook: ""
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2020)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2016)
 - Oyonnax Rugby (2020 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )
+- Lyon Olympique Universitaire Rugby (2024 - )

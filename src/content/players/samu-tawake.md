@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2017 - 2024)
+- カンタベリー (2017 - 2024)
 - マナワツ (2018 - 2020)
 - Rugby United New-York (2020 - 2021)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

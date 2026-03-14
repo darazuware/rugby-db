@@ -1,5 +1,5 @@
 ---
-title: "Norifumi Hashimoto"
+title: "橋本 法史"
 name_en: "Norifumi Hashimoto"
 position: "SH"
 team: "浦安D-Rocks"

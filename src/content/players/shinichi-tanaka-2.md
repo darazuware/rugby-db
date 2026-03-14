@@ -1,5 +1,5 @@
 ---
-title: "Shinichi Tanaka"
+title: "田中 真一"
 name_en: "Shinichi Tanaka"
 position: "FL/No8"
 team: "九州電力キューデンヴォルテクス"
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2017 - 2022)
 - BlackRams Tokyo (2022 - 2025)
-- 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2025 - )
+- Kyushu Kyuden Voltex (2025 - )

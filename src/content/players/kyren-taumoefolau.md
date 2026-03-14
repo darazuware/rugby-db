@@ -25,4 +25,4 @@ facebook: ""
 
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2025)
 - タスマン (2023 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2025 - )
+- チーフス (2025 - )

@@ -1,5 +1,5 @@
 ---
-title: "koki Miyasaka"
+title: "宮坂 航生"
 name_en: "koki Miyasaka"
 position: "SH"
 team: "三重ホンダヒート"

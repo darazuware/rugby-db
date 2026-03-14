@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2011 - )
+- Lyon Olympique Universitaire Rugby (2011 - )

@@ -1,5 +1,5 @@
 ---
-title: "RYUUJU MURATA"
+title: "村田 龍寿"
 name_en: "RYUUJU MURATA"
 position: "PR"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Masaya Yamada"
+title: "山田 雅也"
 name_en: "Masaya Yamada"
 position: "SO"
 team: "清水建設江東ブルーシャークス"

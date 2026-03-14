@@ -1,5 +1,5 @@
 ---
-title: "Friedle Olivier"
+title: "フリードル ・オリヴィエー"
 name_en: "Friedle Olivier"
 position: "FL/No8"
 team: "三菱重工相模原ダイナボアーズ"

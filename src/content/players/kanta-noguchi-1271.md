@@ -1,5 +1,5 @@
 ---
-title: "Kanta Noguchi"
+title: "野口 幹太"
 name_en: "Kanta Noguchi"
 position: "FB"
 team: "狭山セコムラガッツ"

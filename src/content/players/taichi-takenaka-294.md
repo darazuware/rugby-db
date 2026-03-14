@@ -1,5 +1,5 @@
 ---
-title: "Taichi Takenaka"
+title: "竹中 太一"
 name_en: "Taichi Takenaka"
 position: "SH"
 team: "三重ホンダヒート"

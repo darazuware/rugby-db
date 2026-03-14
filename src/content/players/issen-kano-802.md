@@ -1,5 +1,5 @@
 ---
-title: "Issen Kano"
+title: "嘉納 一千"
 name_en: "Issen Kano"
 position: "SO"
 team: "マツダスカイアクティブズ広島"

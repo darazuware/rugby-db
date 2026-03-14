@@ -1,5 +1,5 @@
 ---
-title: "Sione Talitui"
+title: "シオネ ・タリトゥイ"
 name_en: "Sione Talitui"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"

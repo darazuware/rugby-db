@@ -1,5 +1,5 @@
 ---
-title: "Daiki Yokota"
+title: "横田 大輝"
 name_en: "Daiki Yokota"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

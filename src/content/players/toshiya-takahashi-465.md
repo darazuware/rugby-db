@@ -1,5 +1,5 @@
 ---
-title: "Toshiya Takahashi"
+title: "高橋 敏也"
 name_en: "Toshiya Takahashi"
 position: "SH"
 team: "リコーブラックラムズ東京"

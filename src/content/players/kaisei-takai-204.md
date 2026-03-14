@@ -1,5 +1,5 @@
 ---
-title: "Kaisei Takai"
+title: "高居 海靖"
 name_en: "Kaisei Takai"
 position: "FB"
 team: "日本製鉄釜石シーウェイブス"

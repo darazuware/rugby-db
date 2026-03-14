@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Canberra Vikings (2022 - 2023)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2023 - 2025)
+- ブランビーズ (2023 - 2025)
 - ノースランド (2024 - 2025)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2025 - )
+- ワラターズ (2025 - )

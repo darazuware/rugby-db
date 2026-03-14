@@ -1,5 +1,5 @@
 ---
-title: "Shuhei Yamaguchi"
+title: "山口 修平"
 name_en: "Shuhei Yamaguchi"
 position: "CTB"
 team: "トヨタヴェルブリッツ"

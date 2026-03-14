@@ -1,5 +1,5 @@
 ---
-title: "Takumi Inaba"
+title: "稲場 巧"
 name_en: "Takumi Inaba"
 position: "PR"
 team: "静岡ブルーレヴズ"

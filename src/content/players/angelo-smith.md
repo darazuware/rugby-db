@@ -25,5 +25,5 @@ facebook: ""
 
 - West Brisbane Bulldogs (2021 - 2022)
 - 🇦🇺 メルボルン・レベルズ (2022 - 2024)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2024 - 2025)
+- ワラターズ (2024 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

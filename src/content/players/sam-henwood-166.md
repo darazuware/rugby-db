@@ -1,5 +1,5 @@
 ---
-title: "Sam Henwood"
+title: "サム ・ヘンウッド"
 name_en: "Sam Henwood"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2015 - 2016)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2019)
+- チーフス (2015 - 2016)
+- ハリケーンズ (2017 - 2019)
 - カウンティーズ・マヌカウ (2018 - 2019)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2019 - 2020)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2020 - )

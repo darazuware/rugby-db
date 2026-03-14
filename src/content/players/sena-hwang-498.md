@@ -1,5 +1,5 @@
 ---
-title: "Sena Hwang"
+title: "黄 世邏"
 name_en: "Sena Hwang"
 position: "PR"
 team: "NECグリーンロケッツ東葛"

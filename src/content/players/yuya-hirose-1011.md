@@ -1,5 +1,5 @@
 ---
-title: "Yuya Hirose"
+title: "廣瀬 雄也"
 name_en: "Yuya Hirose"
 position: "CTB"
 team: "クボタスピアーズ船橋・東京ベイ"

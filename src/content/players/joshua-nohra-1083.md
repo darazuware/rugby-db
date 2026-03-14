@@ -1,5 +1,5 @@
 ---
-title: "Joshua Nohra"
+title: "ジョシュア ・ノーラ"
 name_en: "Joshua Nohra"
 position: "WTB"
 team: "埼玉パナソニックワイルドナイツ"

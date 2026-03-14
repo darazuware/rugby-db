@@ -1,5 +1,5 @@
 ---
-title: "Taichi Takahashi"
+title: "高橋 泰地"
 name_en: "Taichi Takahashi"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

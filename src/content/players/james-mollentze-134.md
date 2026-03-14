@@ -1,5 +1,5 @@
 ---
-title: "James Mollentze"
+title: "ジェームズ ・モレンツェ"
 name_en: "James Mollentze"
 position: "CTB"
 team: "豊田自動織機シャトルズ愛知"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - フリーステート・チーターズ (2018 - 2019)
-- 🇿🇦 エミレーツ・ライオンズ (2019 - 2021)
+- ライオンズ (2019 - 2021)
 - ゴールデン・ライオンズ (2021 - 2022)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2022 - )

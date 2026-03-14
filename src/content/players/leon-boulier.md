@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rugby Ouest Cotentin (2015 - 2017)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - )
+- Rugby Club Vannes (2017 - )

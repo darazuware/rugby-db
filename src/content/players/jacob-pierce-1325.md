@@ -1,5 +1,5 @@
 ---
-title: "Jacob Pierce"
+title: "ジェイコブ ・ピアス"
 name_en: "Jacob Pierce"
 position: "LO"
 team: "東芝ブレイブルーパス東京"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2021)
+- ブルーズ (2017 - 2021)
 - ノース・ハーバー (2019 - 2021)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kenta Iemura"
+title: "家村 健太"
 name_en: "Kenta Iemura"
 position: "SO"
 team: "静岡ブルーレヴズ"

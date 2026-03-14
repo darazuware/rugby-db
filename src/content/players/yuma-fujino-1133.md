@@ -1,5 +1,5 @@
 ---
-title: "Yuma Fujino"
+title: "藤野 佑磨"
 name_en: "Yuma Fujino"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - 2024)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

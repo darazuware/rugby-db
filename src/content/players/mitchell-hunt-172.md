@@ -1,5 +1,5 @@
 ---
-title: "Mitchell Hunt"
+title: "ミッチェル ・ハント"
 name_en: "Mitchell Hunt"
 position: "SO"
 team: "日本製鉄釜石シーウェイブス"
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2015)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2019)
+- オークランド (2015)
+- クルセイダーズ (2016 - 2019)
 - タスマン (2016 - 2023)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2023)
+- ハイランダーズ (2020 - 2023)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2023 - 2024)
 - 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2024 - )

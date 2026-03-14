@@ -25,4 +25,4 @@ facebook: ""
 
 - Rugby Club Pays de Meaux (2012 - 2013)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - 2022)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )
+- Rugby Club Toulonnais (2022 - )

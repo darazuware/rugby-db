@@ -1,5 +1,5 @@
 ---
-title: "Shun Miyake"
+title: "三宅 駿"
 name_en: "Shun Miyake"
 position: "SO"
 team: "三菱重工相模原ダイナボアーズ"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - タスマン (2022 - 2023)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2025)
+- カンタベリー (2023 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025 - )

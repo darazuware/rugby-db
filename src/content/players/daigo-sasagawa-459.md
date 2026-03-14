@@ -1,5 +1,5 @@
 ---
-title: "Daigo Sasagawa"
+title: "笹川 大五"
 name_en: "Daigo Sasagawa"
 position: "PR"
 team: "リコーブラックラムズ東京"

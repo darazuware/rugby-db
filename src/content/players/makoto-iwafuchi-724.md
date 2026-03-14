@@ -1,5 +1,5 @@
 ---
-title: "Makoto Iwafuchi"
+title: "岩渕 誠"
 name_en: "Makoto Iwafuchi"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

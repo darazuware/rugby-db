@@ -1,5 +1,5 @@
 ---
-title: "Kim Suryung"
+title: "金 秀隆"
 name_en: "Kim Suryung"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

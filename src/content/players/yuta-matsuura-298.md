@@ -1,5 +1,5 @@
 ---
-title: "Yuta Matsuura"
+title: "松浦 祐太"
 name_en: "Yuta Matsuura"
 position: "FB"
 team: "三重ホンダヒート"

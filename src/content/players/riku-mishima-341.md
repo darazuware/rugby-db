@@ -1,5 +1,5 @@
 ---
-title: "Riku Mishima"
+title: "三島 琳久"
 name_en: "Riku Mishima"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

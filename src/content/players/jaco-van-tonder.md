@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Union Sportive Arlequins Perpignanais (2023 - )

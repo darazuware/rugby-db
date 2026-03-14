@@ -1,5 +1,5 @@
 ---
-title: "Ryo Iwakami"
+title: "岩上 龍"
 name_en: "Ryo Iwakami"
 position: "PR"
 team: "花園近鉄ライナーズ"

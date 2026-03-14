@@ -1,5 +1,5 @@
 ---
-title: "Fuma Uekata"
+title: "上片 風馬"
 name_en: "Fuma Uekata"
 position: "HO"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "Kazushi Murata"
+title: "村田 和志"
 name_en: "Kazushi Murata"
 position: "HO"
 team: "豊田自動織機シャトルズ愛知"

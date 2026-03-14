@@ -1,5 +1,5 @@
 ---
-title: "Ko Kojima"
+title: "小島 昂"
 name_en: "Ko Kojima"
 position: "WTB"
 team: "日野レッドドルフィンズ"

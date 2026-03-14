@@ -1,5 +1,5 @@
 ---
-title: "Shu Hagihara"
+title: "萩原 周"
 name_en: "Shu Hagihara"
 position: "SH"
 team: "埼玉パナソニックワイルドナイツ"

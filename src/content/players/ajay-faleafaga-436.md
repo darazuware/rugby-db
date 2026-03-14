@@ -1,5 +1,5 @@
 ---
-title: "Ajay Faleafaga"
+title: "エイジェイ ・ファレアファガ"
 name_en: "Ajay Faleafaga"
 position: "SO"
 team: "豊田自動織機シャトルズ愛知"
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - オタゴ代表 (2023 - 2024)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023 - 2025)
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2025 - )
+- ハイランダーズ (2023 - 2025)
+- Toyota Industries Shuttles Aichi (2025 - )

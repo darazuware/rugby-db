@@ -1,5 +1,5 @@
 ---
-title: "Kaisei Tamura"
+title: "田村 魁世"
 name_en: "Kaisei Tamura"
 position: "SH"
 team: "トヨタヴェルブリッツ"

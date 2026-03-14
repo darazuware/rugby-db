@@ -1,5 +1,5 @@
 ---
-title: "Inoke Burua"
+title: "イノケ ・ブルア"
 name_en: "Inoke Burua"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"

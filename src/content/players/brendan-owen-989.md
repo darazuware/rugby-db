@@ -1,5 +1,5 @@
 ---
-title: "Brendan Owen"
+title: "ブレンダン ・オーウェン"
 name_en: "Brendan Owen"
 position: "UTB"
 team: "横浜キヤノンイーグルス"

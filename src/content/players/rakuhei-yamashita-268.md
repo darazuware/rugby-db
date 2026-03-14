@@ -1,5 +1,5 @@
 ---
-title: "Rakuhei Yamashita"
+title: "山下 楽平"
 name_en: "Rakuhei Yamashita"
 position: "FB"
 team: "三重ホンダヒート"

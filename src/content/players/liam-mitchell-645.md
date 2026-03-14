@@ -1,5 +1,5 @@
 ---
-title: "Liam Mitchell"
+title: "リアム ・ミッチェル"
 name_en: "Liam Mitchell"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2018 - 2021)
+- ハリケーンズ (2018 - 2021)
 - マナワツ (2019 - 2021)
-- 🇮🇹 ゼブレ・パルマ (2021 - 2022)
+- ゼブレ (2021 - 2022)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2022 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2015 - 2020)
+- ワラターズ (2015 - 2020)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - )

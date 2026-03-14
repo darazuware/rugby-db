@@ -1,5 +1,5 @@
 ---
-title: "Quinton Mahina"
+title: "クイントン ・マヒナ"
 name_en: "Quinton Mahina"
 position: "CTB"
 team: "東京サントリーサンゴリアス"

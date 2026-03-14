@@ -27,4 +27,4 @@ facebook: ""
 - Entente Fleury Salles Coursan xv (2016 - 2018)
 - Racing Club Narbonnais (2018 - 2021)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2021 - 2023)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2023 - )
+- Union Sportive Arlequins Perpignanais (2023 - )

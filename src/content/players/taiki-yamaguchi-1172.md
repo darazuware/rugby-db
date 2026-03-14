@@ -1,5 +1,5 @@
 ---
-title: "Taiki Yamaguchi"
+title: "山口 泰輝"
 name_en: "Taiki Yamaguchi"
 position: "FB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

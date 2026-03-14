@@ -1,5 +1,5 @@
 ---
-title: "Kaleb Trask"
+title: "ケイレブ ・トラスク"
 name_en: "Kaleb Trask"
 position: "SO"
 team: "東京サントリーサンゴリアス"
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ベイ・オブ・プレンティ (2018 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2025)
+- チーフス (2019 - 2025)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2022 - 2023)
 - 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2025 - )

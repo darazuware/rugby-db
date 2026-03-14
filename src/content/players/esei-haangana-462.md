@@ -1,5 +1,5 @@
 ---
-title: "Esei Haangana"
+title: "エセイ ・ハアンガナ"
 name_en: "Esei Haangana"
 position: "LO"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "Yuta Shirasaka"
+title: "白坂 佑太"
 name_en: "Yuta Shirasaka"
 position: "FL/No8"
 team: "三重ホンダヒート"

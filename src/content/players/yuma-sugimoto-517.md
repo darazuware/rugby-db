@@ -1,5 +1,5 @@
 ---
-title: "Yuma Sugimoto"
+title: "杉本 悠馬"
 name_en: "Yuma Sugimoto"
 position: "WTB"
 team: "NECグリーンロケッツ東葛"

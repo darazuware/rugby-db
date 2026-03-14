@@ -1,5 +1,5 @@
 ---
-title: "Keito Tahara"
+title: "田原 慶人"
 name_en: "Keito Tahara"
 position: "SH"
 team: "狭山セコムラガッツ"

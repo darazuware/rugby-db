@@ -25,5 +25,5 @@ facebook: ""
 
 - Lille Métropole Rugby (2012 - 2014)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2017 - 2021)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Rugby Club Vannes (2017 - 2021)
+- Section Paloise Béarn Pyrénées (2024 - )

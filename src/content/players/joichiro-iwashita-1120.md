@@ -1,5 +1,5 @@
 ---
-title: "Joichiro Iwashita"
+title: "岩下 丈一郎"
 name_en: "Joichiro Iwashita"
 position: "CTB"
 team: "日野レッドドルフィンズ"

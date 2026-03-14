@@ -1,5 +1,5 @@
 ---
-title: "Yutaro Shirako"
+title: "白子 雄太郎"
 name_en: "Yutaro Shirako"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2015 - )
+- 清水建設ブルーシャークス (2015 - )

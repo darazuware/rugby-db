@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2023)
+- Exeter Chiefs (2013 - 2023)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

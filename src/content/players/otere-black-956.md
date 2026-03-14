@@ -1,5 +1,5 @@
 ---
-title: "Otere Black"
+title: "オテレ ・ブラック"
 name_en: "Otere Black"
 position: "SO"
 team: "浦安D-Rocks"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2014 - 2017)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2021)
+- ハリケーンズ (2014 - 2017)
+- ブルーズ (2018 - 2021)
 - ベイ・オブ・プレンティ (2019 - 2021)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2021 - )

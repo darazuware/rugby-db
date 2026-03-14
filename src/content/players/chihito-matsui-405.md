@@ -1,5 +1,5 @@
 ---
-title: "Chihito Matsui"
+title: "松井 千士"
 name_en: "Chihito Matsui"
 position: "WTB"
 team: "横浜キヤノンイーグルス"

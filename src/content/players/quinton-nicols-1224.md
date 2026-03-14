@@ -1,5 +1,5 @@
 ---
-title: "Quinton Nicols"
+title: "クイントン ・ニコラス"
 name_en: "Quinton Nicols"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

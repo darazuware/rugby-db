@@ -1,5 +1,5 @@
 ---
-title: "Yasuaki Katakura"
+title: "片倉 康瑛"
 name_en: "Yasuaki Katakura"
 position: "LO"
 team: "東京サントリーサンゴリアス"

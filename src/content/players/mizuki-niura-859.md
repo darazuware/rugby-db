@@ -1,5 +1,5 @@
 ---
-title: "Mizuki Niura"
+title: "二浦 瑞樹"
 name_en: "Mizuki Niura"
 position: "SO"
 team: "ヤクルトレビンズ戸田"

@@ -1,5 +1,5 @@
 ---
-title: "Daishi Nyui"
+title: "乳井 大士"
 name_en: "Daishi Nyui"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

@@ -1,5 +1,5 @@
 ---
-title: "Damian de Allende"
+title: "ダミアン ・デアレンデ"
 name_en: "Damian de Allende"
 position: "CTB"
 team: "埼玉パナソニックワイルドナイツ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 DHLストーマーズ (2013 - 2019)
-- 🇮🇪 マンスター・ラグビー (2019 - 2022)
+- ストーマーズ (2013 - 2019)
+- マンスター (2019 - 2022)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2019 - )

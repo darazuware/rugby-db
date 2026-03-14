@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Kishi"
+title: "岸 佑融"
 name_en: "Yusuke Kishi"
 position: "LO"
 team: "リコーブラックラムズ東京"

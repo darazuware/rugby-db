@@ -1,5 +1,5 @@
 ---
-title: "YOSUKE NISHIURA"
+title: "西浦 洋祐"
 name_en: "YOSUKE NISHIURA"
 position: "PR"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

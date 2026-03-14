@@ -1,5 +1,5 @@
 ---
-title: "Soma Matsumoto"
+title: "松本 壮馬"
 name_en: "Soma Matsumoto"
 position: "CTB"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Kauri Tipene-Grace"
+title: "カウリ ・ティペネグレース"
 name_en: "Kauri Tipene-Grace"
 position: "UTB"
 team: "クリタウォーターガッシュ昭島"

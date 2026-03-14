@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2014 - 2018)
+- Stade Français Paris Rugby (2014 - 2018)
 - Oyonnax Rugby (2018 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2024 - )
+- Lyon Olympique Universitaire Rugby (2024 - )

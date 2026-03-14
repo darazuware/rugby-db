@@ -1,5 +1,5 @@
 ---
-title: "Clynton Knox"
+title: "ノックス クリントン"
 name_en: "Clynton Knox"
 position: "CTB"
 team: "マツダスカイアクティブズ広島"

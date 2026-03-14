@@ -1,5 +1,5 @@
 ---
-title: "Lulu Paea"
+title: "ルル ・パエア"
 name_en: "Lulu Paea"
 position: "HO"
 team: "日本製鉄釜石シーウェイブス"

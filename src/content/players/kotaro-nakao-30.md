@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Nakao"
+title: "中尾 康太郎"
 name_en: "Kotaro Nakao"
 position: "SH"
 team: "九州電力キューデンヴォルテクス"

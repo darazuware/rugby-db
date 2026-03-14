@@ -1,5 +1,5 @@
 ---
-title: "Siale Mahina"
+title: "シアレ ・マヒナ"
 name_en: "Siale Mahina"
 position: "PR"
 team: "静岡ブルーレヴズ"

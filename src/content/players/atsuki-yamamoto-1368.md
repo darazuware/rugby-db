@@ -1,5 +1,5 @@
 ---
-title: "Atsuki Yamamoto"
+title: "山本 敦輝"
 name_en: "Atsuki Yamamoto"
 position: "PR"
 team: "東京サントリーサンゴリアス"

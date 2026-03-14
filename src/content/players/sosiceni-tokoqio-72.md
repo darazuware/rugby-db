@@ -1,5 +1,5 @@
 ---
-title: "Sosiceni Tokoqio"
+title: "トコキオ ソシセニ"
 name_en: "Sosiceni Tokoqio"
 position: "FL/No8"
 team: "清水建設江東ブルーシャークス"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2016 - 2021)
+- 豊田自動織機シャトルズ (2016 - 2021)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2021 - 2023)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2023 - 2024)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2024 - )

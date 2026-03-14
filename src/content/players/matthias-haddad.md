@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2007 - 2026)
 - Rugby Club du Pays Muzillacais (2009 - 2013)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2013 - )
+- Rugby Club Vannes (2013 - )

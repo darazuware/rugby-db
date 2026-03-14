@@ -1,5 +1,5 @@
 ---
-title: "Jasper Wiese"
+title: "ヤスパー ・ヴィーセ"
 name_en: "Jasper Wiese"
 position: "FL/No8"
 team: "浦安D-Rocks"

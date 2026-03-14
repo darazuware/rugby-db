@@ -1,5 +1,5 @@
 ---
-title: "Ryota Funabiki"
+title: "船曳 涼太"
 name_en: "Ryota Funabiki"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"

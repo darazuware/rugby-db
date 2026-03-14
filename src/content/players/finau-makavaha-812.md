@@ -1,5 +1,5 @@
 ---
-title: "FINAU MAKAVAHA"
+title: "フィナウ ・マカヴァハ"
 name_en: "FINAU MAKAVAHA"
 position: "FL/No8"
 team: "ルリーロ福岡"

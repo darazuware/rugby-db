@@ -1,5 +1,5 @@
 ---
-title: "Taisetsu Kanai"
+title: "金井 大雪"
 name_en: "Taisetsu Kanai"
 position: "SO"
 team: "NECグリーンロケッツ東葛"

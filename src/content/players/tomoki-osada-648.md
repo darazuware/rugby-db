@@ -1,5 +1,5 @@
 ---
-title: "Tomoki Osada"
+title: "長田 智希"
 name_en: "Tomoki Osada"
 position: "CTB"
 team: "埼玉パナソニックワイルドナイツ"

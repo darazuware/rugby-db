@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Mizofuchi"
+title: "溝渕 篤司"
 name_en: "Atsushi Mizofuchi"
 position: "SH"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

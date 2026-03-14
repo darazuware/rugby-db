@@ -1,5 +1,5 @@
 ---
-title: "Taiki Noguchi"
+title: "野口 大貴"
 name_en: "Taiki Noguchi"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

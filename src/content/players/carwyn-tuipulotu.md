@@ -25,4 +25,4 @@ facebook: ""
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2018 - 2025)
 - Saracens (2024 - 2025)
-- 🇫🇷 [ポー](/teams/top14/pau) (2024 - )
+- Section Paloise Béarn Pyrénées (2024 - )

@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - UE Santboiana (2021 - 2023)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Stade Français Paris Rugby (2023 - )

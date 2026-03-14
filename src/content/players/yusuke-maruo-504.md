@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Maruo"
+title: "丸尾 祐資"
 name_en: "Yusuke Maruo"
 position: "SH"
 team: "NECグリーンロケッツ東葛"

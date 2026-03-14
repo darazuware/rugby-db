@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - RC Cubzaguais (2007 - 2009)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2009 - 2015)
+- Club Athlétique Bordeaux Bègles Gironde (2009 - 2015)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2020)
 - 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - 2024)
 - Biarritz Olympique Pays Basque (2022 - 2023)

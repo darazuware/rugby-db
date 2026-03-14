@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2015 - 2021)
+- ハリケーンズ (2015 - 2021)
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2022)
 - 🇯🇵 [コベルコ神戸スティーラーズ](/teams/league-one/kobelco-kobe-steelers) [D1] (2022 - 2025)
 - マナワツ (2024 - 2025)

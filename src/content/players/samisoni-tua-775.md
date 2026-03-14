@@ -1,5 +1,5 @@
 ---
-title: "Samisoni Tua"
+title: "サミソニ ・トゥア"
 name_en: "Samisoni Tua"
 position: "CTB"
 team: "浦安D-Rocks"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2018 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2018 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - )

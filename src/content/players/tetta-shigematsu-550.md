@@ -1,5 +1,5 @@
 ---
-title: "Tetta Shigematsu"
+title: "繁松 哲大"
 name_en: "Tetta Shigematsu"
 position: "FL/No8"
 team: "浦安D-Rocks"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
+- NTTドコモレッドハリケーンズ大阪 (2021 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - )

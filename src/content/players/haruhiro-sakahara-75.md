@@ -1,5 +1,5 @@
 ---
-title: "Haruhiro Sakahara"
+title: "坂原 春光"
 name_en: "Haruhiro Sakahara"
 position: "SH"
 team: "清水建設江東ブルーシャークス"

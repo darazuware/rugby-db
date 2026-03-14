@@ -1,5 +1,5 @@
 ---
-title: "Manaaki Selby-Rickit"
+title: "マナアキ ・セルビーリキット"
 name_en: "Manaaki Selby-Rickit"
 position: "LO"
 team: "浦安D-Rocks"

@@ -1,5 +1,5 @@
 ---
-title: "Peter Umaga Jensen"
+title: "ピーター ・ウマガ=ジェンセン"
 name_en: "Peter Umaga Jensen"
 position: "CTB"
 team: "花園近鉄ライナーズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2025)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019 - 2024)
+- ハリケーンズ (2017 - 2025)
+- ウェリントン (2019 - 2024)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2025 - )

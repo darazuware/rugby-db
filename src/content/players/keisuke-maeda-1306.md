@@ -1,5 +1,5 @@
 ---
-title: "Keisuke Maeda"
+title: "前田 恵輔"
 name_en: "Keisuke Maeda"
 position: "PR"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2021 - )
+- 中国電力レッドレギュリオンズ (2021 - )

@@ -1,5 +1,5 @@
 ---
-title: "Kouki Arai"
+title: "荒井 康植"
 name_en: "Kouki Arai"
 position: "SH"
 team: "横浜キヤノンイーグルス"

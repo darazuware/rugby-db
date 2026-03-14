@@ -1,5 +1,5 @@
 ---
-title: "Tama Kapene"
+title: "タマ ・カペネ"
 name_en: "Tama Kapene"
 position: "FL/No8"
 team: "豊田自動織機シャトルズ愛知"

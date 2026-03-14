@@ -1,5 +1,5 @@
 ---
-title: "KENTARO OBATA"
+title: "小畑 健太郎"
 name_en: "KENTARO OBATA"
 position: "SH"
 team: "ルリーロ福岡"

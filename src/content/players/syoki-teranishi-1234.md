@@ -1,5 +1,5 @@
 ---
-title: "Syoki Teranishi"
+title: "寺西 翔生"
 name_en: "Syoki Teranishi"
 position: "HO"
 team: "狭山セコムラガッツ"

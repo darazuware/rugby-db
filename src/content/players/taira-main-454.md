@@ -1,5 +1,5 @@
 ---
-title: "Taira Main"
+title: "メイン 平"
 name_en: "Taira Main"
 position: "FB"
 team: "リコーブラックラムズ東京"

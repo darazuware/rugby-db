@@ -1,5 +1,5 @@
 ---
-title: "Pieter Scholtz"
+title: "ピーター ・ショルツ"
 name_en: "Pieter Scholtz"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2015 - 2016)
+- ライオンズ (2015 - 2016)
 - Southern Kings (2017 - 2020)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2020 - 2021)
 - ワスプス (2021 - 2022)

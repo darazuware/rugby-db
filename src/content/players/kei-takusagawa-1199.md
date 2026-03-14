@@ -1,5 +1,5 @@
 ---
-title: "Kei Takusagawa"
+title: "田草川 恵"
 name_en: "Kei Takusagawa"
 position: "PR"
 team: "クリタウォーターガッシュ昭島"

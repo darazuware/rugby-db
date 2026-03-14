@@ -1,5 +1,5 @@
 ---
-title: "Sione Teaupa"
+title: "テアウパ シオネ"
 name_en: "Sione Teaupa"
 position: "CTB"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Reece Macdonald"
+title: "リース ・マクドナルド"
 name_en: "Reece Macdonald"
 position: "SO"
 team: "NECグリーンロケッツ東葛"

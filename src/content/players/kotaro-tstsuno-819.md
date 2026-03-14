@@ -1,5 +1,5 @@
 ---
-title: "Kotaro Tstsuno"
+title: "龍野 光太朗"
 name_en: "Kotaro Tstsuno"
 position: "SH"
 team: "マツダスカイアクティブズ広島"

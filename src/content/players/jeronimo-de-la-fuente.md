@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Jaguares (2015 - 2020)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2020 - )
+- Union Sportive Arlequins Perpignanais (2020 - )

@@ -1,5 +1,5 @@
 ---
-title: "Yura Chinen"
+title: "知念 優来"
 name_en: "Yura Chinen"
 position: "HO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

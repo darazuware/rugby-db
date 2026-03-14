@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Brothers Rugby Club (2020 - 2025)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2025 - )
+- レッズ (2025 - )

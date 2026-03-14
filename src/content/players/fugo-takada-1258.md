@@ -1,5 +1,5 @@
 ---
-title: "Fugo Takada"
+title: "高"
 name_en: "Fugo Takada"
 position: "HO"
 team: "狭山セコムラガッツ"

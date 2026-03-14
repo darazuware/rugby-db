@@ -1,5 +1,5 @@
 ---
-title: "Shohei Hirano"
+title: "平野 翔平"
 name_en: "Shohei Hirano"
 position: "PR"
 team: "花園近鉄ライナーズ"

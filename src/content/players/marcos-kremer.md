@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Jaguares (2015 - 2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - 2023)
+- Stade Français Paris Rugby (2020 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

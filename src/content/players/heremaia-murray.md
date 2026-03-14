@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2020 - 2021)
+- オークランド (2020 - 2021)
 - ノースランド (2021 - 2024)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023 - 2024)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2024 - )
+- クルセイダーズ (2023 - 2024)
+- レッズ (2024 - )

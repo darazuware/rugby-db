@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Yamada"
+title: "山田 裕介"
 name_en: "Yusuke Yamada"
 position: "PR"
 team: "日本製鉄釜石シーウェイブス"

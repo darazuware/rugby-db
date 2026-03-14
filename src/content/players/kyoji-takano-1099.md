@@ -1,5 +1,5 @@
 ---
-title: "Kyoji Takano"
+title: "高野 恭二"
 name_en: "Kyoji Takano"
 position: "FB"
 team: "日野レッドドルフィンズ"

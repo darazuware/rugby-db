@@ -1,5 +1,5 @@
 ---
-title: "Kazuma Yoshimura"
+title: "吉村 一将"
 name_en: "Kazuma Yoshimura"
 position: "PR"
 team: "日野レッドドルフィンズ"

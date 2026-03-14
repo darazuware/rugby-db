@@ -1,5 +1,5 @@
 ---
-title: "Ramo Sato"
+title: "佐藤 羅雲"
 name_en: "Ramo Sato"
 position: "LO"
 team: "マツダスカイアクティブズ広島"

@@ -1,5 +1,5 @@
 ---
-title: "Tomotaka Ishimatsu"
+title: "石松 大空"
 name_en: "Tomotaka Ishimatsu"
 position: "LO"
 team: "九州電力キューデンヴォルテクス"

@@ -1,5 +1,5 @@
 ---
-title: "Eito Tsutsumi"
+title: "堤 英登"
 name_en: "Eito Tsutsumi"
 position: "SH"
 team: "狭山セコムラガッツ"

@@ -1,5 +1,5 @@
 ---
-title: "Sam Greene"
+title: "サム ・グリーン"
 name_en: "Sam Greene"
 position: "SO"
 team: "静岡ブルーレヴズ"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2016)
+- レッズ (2014 - 2016)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2016 - 2019)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2019 - )

@@ -1,5 +1,5 @@
 ---
-title: "Atsushi Furuya"
+title: "古屋 篤史"
 name_en: "Atsushi Furuya"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

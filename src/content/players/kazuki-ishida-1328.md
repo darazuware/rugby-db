@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Ishida"
+title: "石田 一貴"
 name_en: "Kazuki Ishida"
 position: "SO"
 team: "東京サントリーサンゴリアス"

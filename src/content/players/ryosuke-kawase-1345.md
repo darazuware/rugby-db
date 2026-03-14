@@ -1,5 +1,5 @@
 ---
-title: "Ryosuke Kawase"
+title: "河瀬 諒介"
 name_en: "Ryosuke Kawase"
 position: "FB"
 team: "東京サントリーサンゴリアス"

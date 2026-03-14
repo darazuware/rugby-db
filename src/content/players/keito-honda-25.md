@@ -1,5 +1,5 @@
 ---
-title: "Keito Honda"
+title: "本田 佳人"
 name_en: "Keito Honda"
 position: "FB"
 team: "九州電力キューデンヴォルテクス"

@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2013 - 2017)
+- New South Wales Waratahs (2013 - 2017)
 - Saracens (2016 - 2020)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

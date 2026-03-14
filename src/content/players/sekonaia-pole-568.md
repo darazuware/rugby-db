@@ -1,5 +1,5 @@
 ---
-title: "Sekonaia Pole"
+title: "セコナイア ・ポレ"
 name_en: "Sekonaia Pole"
 position: "PR"
 team: "浦安D-Rocks"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2014 - 2019)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2017)
+- オタゴ (2014 - 2019)
+- ハイランダーズ (2016 - 2017)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - )

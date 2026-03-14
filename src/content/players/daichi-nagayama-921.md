@@ -1,5 +1,5 @@
 ---
-title: "DAICHI NAGAYAMA"
+title: "永山 大地"
 name_en: "DAICHI NAGAYAMA"
 position: "WTB"
 team: "ルリーロ福岡"

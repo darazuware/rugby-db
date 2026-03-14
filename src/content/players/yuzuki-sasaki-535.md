@@ -1,5 +1,5 @@
 ---
-title: "Yuzuki Sasaki"
+title: "佐々木 柚樹"
 name_en: "Yuzuki Sasaki"
 position: "LO"
 team: "浦安D-Rocks"

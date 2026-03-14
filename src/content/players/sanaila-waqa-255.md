@@ -1,5 +1,5 @@
 ---
-title: "Sanaila Waqa"
+title: "サナイラ ・ワクァ"
 name_en: "Sanaila Waqa"
 position: "LO"
 team: "花園近鉄ライナーズ"

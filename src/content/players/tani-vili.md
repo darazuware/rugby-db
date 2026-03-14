@@ -28,5 +28,5 @@ facebook: ""
 - Malemort XV (2010 - 2013)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2017 - 2022)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2024)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2024 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- Rugby Club Vannes (2024 - 2025)
+- Stade Français Paris Rugby (2025 - )

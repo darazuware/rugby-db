@@ -1,5 +1,5 @@
 ---
-title: "Yuto Usuda"
+title: "臼田 湧人"
 name_en: "Yuto Usuda"
 position: "LO"
 team: "ヤクルトレビンズ戸田"

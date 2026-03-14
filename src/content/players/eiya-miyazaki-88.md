@@ -1,5 +1,5 @@
 ---
-title: "Eiya Miyazaki"
+title: "宮ザキ"
 name_en: "Eiya Miyazaki"
 position: "WTB"
 team: "清水建設江東ブルーシャークス"

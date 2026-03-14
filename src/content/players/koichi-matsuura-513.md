@@ -1,5 +1,5 @@
 ---
-title: "Koichi Matsuura"
+title: "松浦 康一"
 name_en: "Koichi Matsuura"
 position: "CTB"
 team: "NECグリーンロケッツ東葛"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2016 - )
+- NECグリーンロケッツ (2016 - )

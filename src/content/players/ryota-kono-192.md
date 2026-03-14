@@ -1,5 +1,5 @@
 ---
-title: "Ryota Kono"
+title: "河野 良太"
 name_en: "Ryota Kono"
 position: "FL/No8"
 team: "日本製鉄釜石シーウェイブス"

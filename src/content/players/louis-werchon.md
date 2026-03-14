@@ -25,5 +25,5 @@ facebook: ""
 
 - Brothers Rugby Club (2020 - 2022)
 - West Brisbane Bulldogs (2022 - 2023)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2022 - 2026)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2025 - )
+- レッズ (2022 - 2026)
+- ベネットン (2025 - )

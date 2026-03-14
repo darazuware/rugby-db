@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇮🇪 マンスター・ラグビー (2017 - 2025)
+- マンスター (2017 - 2025)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

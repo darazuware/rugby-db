@@ -1,5 +1,5 @@
 ---
-title: "Masaya Kanado"
+title: "金堂 眞弥"
 name_en: "Masaya Kanado"
 position: "CTB"
 team: "九州電力キューデンヴォルテクス"

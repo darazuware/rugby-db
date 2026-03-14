@@ -1,5 +1,5 @@
 ---
-title: "Tatsuki Kanza"
+title: "神座 立樹"
 name_en: "Tatsuki Kanza"
 position: "WTB"
 team: "狭山セコムラガッツ"

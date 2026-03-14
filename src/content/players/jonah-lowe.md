@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2020)
+- ハリケーンズ (2017 - 2020)
 - ホークスベイ (2019 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022 - )
+- チーフス (2020 - 2022)
+- ハイランダーズ (2022 - )

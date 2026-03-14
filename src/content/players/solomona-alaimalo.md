@@ -23,10 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2016 - 2023)
+- チーフス (2016 - 2023)
 - サウスランド (2020 - 2022)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2022)
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022 - 2023)
+- ハイランダーズ (2020 - 2022)
+- カンタベリー (2022 - 2023)
 - Wests Tigers (2023 - 2024)
 - ノースランド (2024 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )

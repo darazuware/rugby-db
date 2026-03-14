@@ -1,5 +1,5 @@
 ---
-title: "Hayato Fukunishi"
+title: "福西 隼杜"
 name_en: "Hayato Fukunishi"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

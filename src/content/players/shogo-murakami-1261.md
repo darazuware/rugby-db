@@ -1,5 +1,5 @@
 ---
-title: "Shogo Murakami"
+title: "村上 翔梧"
 name_en: "Shogo Murakami"
 position: "PR"
 team: "狭山セコムラガッツ"

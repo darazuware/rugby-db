@@ -1,5 +1,5 @@
 ---
-title: "Kwagga Smith"
+title: "クワッガ ・スミス"
 name_en: "Kwagga Smith"
 position: "FL/No8"
 team: "静岡ブルーレヴズ"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2014 - 2019)
+- ライオンズ (2014 - 2019)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2019 - )

@@ -1,5 +1,5 @@
 ---
-title: "Tiennan Costley"
+title: "ティエナン ・コストリー"
 name_en: "Tiennan Costley"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

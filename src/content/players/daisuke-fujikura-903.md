@@ -1,5 +1,5 @@
 ---
-title: "DAISUKE FUJIKURA"
+title: "藤倉 大介"
 name_en: "DAISUKE FUJIKURA"
 position: "PR"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Yuki Ishii"
+title: "石井 勇輝"
 name_en: "Yuki Ishii"
 position: "WTB"
 team: "レッドハリケーンズ大阪"
@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2018 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2023)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2023 - )
+- NTTドコモレッドハリケーンズ大阪 (2023 - )

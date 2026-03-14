@@ -1,5 +1,5 @@
 ---
-title: "Heiichiro Ito"
+title: "伊藤 平一郎"
 name_en: "Heiichiro Ito"
 position: "PR"
 team: "静岡ブルーレヴズ"

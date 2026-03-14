@@ -1,5 +1,5 @@
 ---
-title: "Ryuji Hirose"
+title: "広瀬 龍二"
 name_en: "Ryuji Hirose"
 position: "CTB"
 team: "日野レッドドルフィンズ"

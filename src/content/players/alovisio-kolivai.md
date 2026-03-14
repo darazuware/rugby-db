@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2010 - 2026)
+- Rugby Club Vannes (2010 - 2026)
 - Stade Nantais (2024 - )

@@ -1,5 +1,5 @@
 ---
-title: "Ryoto Nakamura"
+title: "中村 亮土"
 name_en: "Ryoto Nakamura"
 position: "CTB"
 team: "東京サントリーサンゴリアス"

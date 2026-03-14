@@ -1,5 +1,5 @@
 ---
-title: "Kaito Isono"
+title: "五十野 海大"
 name_en: "Kaito Isono"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2022 - )
+- NTTドコモレッドハリケーンズ大阪 (2022 - )

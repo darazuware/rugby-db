@@ -1,5 +1,5 @@
 ---
-title: "Rei Ishioka"
+title: "石岡 玲英"
 name_en: "Rei Ishioka"
 position: "WTB"
 team: "東芝ブレイブルーパス東京"

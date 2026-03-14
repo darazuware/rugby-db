@@ -1,5 +1,5 @@
 ---
-title: "Kakeru Okumura"
+title: "奥村 翔"
 name_en: "Kakeru Okumura"
 position: "FB"
 team: "静岡ブルーレヴズ"

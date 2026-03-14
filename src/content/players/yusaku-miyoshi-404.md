@@ -1,5 +1,5 @@
 ---
-title: "Yusaku Miyoshi"
+title: "三好 優作"
 name_en: "Yusaku Miyoshi"
 position: "PR"
 team: "横浜キヤノンイーグルス"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2021 - )
+- キヤノンイーグルス (2021 - )

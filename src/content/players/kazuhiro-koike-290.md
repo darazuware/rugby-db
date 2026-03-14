@@ -1,5 +1,5 @@
 ---
-title: "Kazuhiro Koike"
+title: "小池 一宏"
 name_en: "Kazuhiro Koike"
 position: "HO"
 team: "三重ホンダヒート"

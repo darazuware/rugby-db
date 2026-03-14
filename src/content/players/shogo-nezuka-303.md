@@ -1,5 +1,5 @@
 ---
-title: "Shogo Nezuka"
+title: "根塚 聖冴"
 name_en: "Shogo Nezuka"
 position: "SH"
 team: "三重ホンダヒート"

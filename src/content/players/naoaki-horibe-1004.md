@@ -1,5 +1,5 @@
 ---
-title: "Naoaki Horibe"
+title: "堀部 直壮"
 name_en: "Naoaki Horibe"
 position: "LO"
 team: "クボタスピアーズ船橋・東京ベイ"

@@ -1,5 +1,5 @@
 ---
-title: "Mosese Tonga"
+title: "トンガ モセセ"
 name_en: "Mosese Tonga"
 position: "CTB"
 team: "日本製鉄釜石シーウェイブス"

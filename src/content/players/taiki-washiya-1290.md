@@ -1,5 +1,5 @@
 ---
-title: "Taiki Washiya"
+title: "鷲谷 太希"
 name_en: "Taiki Washiya"
 position: "LO"
 team: "中国電力レッドレグリオンズ"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [中国電力レッドレグリオンズ](/teams/league-one/chugoku-red-regulions) [D3] (2023 - )
+- 中国電力レッドレギュリオンズ (2023 - )

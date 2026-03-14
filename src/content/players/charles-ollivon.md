@@ -25,4 +25,4 @@ facebook: ""
 
 - Saint-Pée UC (2004 - 2009)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - )
+- Rugby Club Toulonnais (2015 - )

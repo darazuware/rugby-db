@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2016)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2016 - 2019)
+- クルセイダーズ (2013 - 2016)
+- ブルーズ (2016 - 2019)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2023)
 - カウンティーズ・マヌカウ (2022 - 2025)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023 - 2025)
+- チーフス (2023 - 2025)
 - 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )

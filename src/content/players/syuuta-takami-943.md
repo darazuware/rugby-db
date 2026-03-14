@@ -1,5 +1,5 @@
 ---
-title: "SYUUTA TAKAMI"
+title: "高見 修太"
 name_en: "SYUUTA TAKAMI"
 position: "LO"
 team: "ルリーロ福岡"

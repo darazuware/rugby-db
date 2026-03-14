@@ -1,5 +1,5 @@
 ---
-title: "Shun Nakashika"
+title: "中鹿 駿"
 name_en: "Shun Nakashika"
 position: "FL/No8"
 team: "日野レッドドルフィンズ"

@@ -1,5 +1,5 @@
 ---
-title: "IOSEFATU MAREKO"
+title: "イオセファツ ・マレコ"
 name_en: "IOSEFATU MAREKO"
 position: "PR"
 team: "ルリーロ福岡"

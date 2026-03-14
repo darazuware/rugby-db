@@ -1,5 +1,5 @@
 ---
-title: "Ren Osawa"
+title: "大澤 蓮"
 name_en: "Ren Osawa"
 position: "HO"
 team: "NECグリーンロケッツ東葛"

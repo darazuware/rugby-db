@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2023)
+- Stade Français Paris Rugby (2019 - 2023)
 - Stade Montois Rugby Pro (2022 - 2024)
 - Oyonnax Rugby (2024 - 2025)
 - 🇫🇷 [カストル](/teams/top14/castres) (2025 - )

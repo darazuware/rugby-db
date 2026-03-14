@@ -1,5 +1,5 @@
 ---
-title: "Takuya Shirae"
+title: "白栄 拓也"
 name_en: "Takuya Shirae"
 position: "SH"
 team: "浦安D-Rocks"

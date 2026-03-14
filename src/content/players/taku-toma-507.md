@@ -1,5 +1,5 @@
 ---
-title: "Taku Toma"
+title: "當眞 琢"
 name_en: "Taku Toma"
 position: "PR"
 team: "NECグリーンロケッツ東葛"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2019 - )
+- NECグリーンロケッツ (2019 - )

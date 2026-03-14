@@ -1,5 +1,5 @@
 ---
-title: "Manu Vunipola"
+title: "マヌ ・ヴニポラ"
 name_en: "Manu Vunipola"
 position: "SO"
 team: "三重ホンダヒート"

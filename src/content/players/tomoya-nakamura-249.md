@@ -1,5 +1,5 @@
 ---
-title: "Tomoya Nakamura"
+title: "中村 友哉"
 name_en: "Tomoya Nakamura"
 position: "SH"
 team: "花園近鉄ライナーズ"

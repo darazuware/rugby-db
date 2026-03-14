@@ -1,5 +1,5 @@
 ---
-title: "Janko Swanepoel"
+title: "ヤンコ ・スワナポール"
 name_en: "Janko Swanepoel"
 position: "LO"
 team: "三重ホンダヒート"
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2024)
+- ブルズ (2020 - 2024)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - )

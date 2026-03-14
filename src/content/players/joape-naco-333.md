@@ -1,5 +1,5 @@
 ---
-title: "Joape Naco"
+title: "ジョアペ ・ナコ"
 name_en: "Joape Naco"
 position: "CTB"
 team: "三菱重工相模原ダイナボアーズ"

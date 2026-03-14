@@ -1,5 +1,5 @@
 ---
-title: "Yuji Chae"
+title: "蔡 唯志"
 name_en: "Yuji Chae"
 position: "PR"
 team: "三菱重工相模原ダイナボアーズ"

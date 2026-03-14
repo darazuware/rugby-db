@@ -1,5 +1,5 @@
 ---
-title: "AsaeliAi Valu"
+title: "ヴァル アサエリ愛"
 name_en: "AsaeliAi Valu"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

@@ -1,5 +1,5 @@
 ---
-title: "TORU SUGISHITA"
+title: "杉下 暢"
 name_en: "TORU SUGISHITA"
 position: "LO"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - )
+- NTTドコモレッドハリケーンズ大阪 (2021 - )

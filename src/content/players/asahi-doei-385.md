@@ -1,5 +1,5 @@
 ---
-title: "Asahi Doei"
+title: "土永 旭"
 name_en: "Asahi Doei"
 position: "SH"
 team: "横浜キヤノンイーグルス"

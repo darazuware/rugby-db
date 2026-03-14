@@ -1,5 +1,5 @@
 ---
-title: "Yuhei Shimada"
+title: "島田 悠平"
 name_en: "Yuhei Shimada"
 position: "WTB"
 team: "クボタスピアーズ船橋・東京ベイ"

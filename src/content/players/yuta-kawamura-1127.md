@@ -1,5 +1,5 @@
 ---
-title: "Yuta Kawamura"
+title: "川村 祐太"
 name_en: "Yuta Kawamura"
 position: "CTB"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2024 - )
+- NTTドコモレッドハリケーンズ大阪 (2024 - )

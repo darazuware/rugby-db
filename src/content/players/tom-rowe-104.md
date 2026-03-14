@@ -1,5 +1,5 @@
 ---
-title: "Tom Rowe"
+title: "トム ・ロウ"
 name_en: "Tom Rowe"
 position: "LO"
 team: "清水建設江東ブルーシャークス"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2018)
+- オタゴ (2015 - 2018)
 - サンウルブズ (2018 - 2020)
 - 🇯🇵 [九州電力キューデンヴォルテクス](/teams/league-one/kyuden-voltex) [D2] (2019 - 2023)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2023 - )

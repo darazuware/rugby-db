@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2017 - 2022)
+- Union Sportive Arlequins Perpignanais (2017 - 2022)
 - Stade Montois Rugby Pro (2021 - 2022)
-- 🇫🇷 [ヴァンヌ](/teams/top14/vannes) (2022 - )
+- Rugby Club Vannes (2022 - )

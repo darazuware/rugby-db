@@ -1,5 +1,5 @@
 ---
-title: "Kazuma Ueda"
+title: "植田 和磨"
 name_en: "Kazuma Ueda"
 position: "WTB"
 team: "コベルコ神戸スティーラーズ"

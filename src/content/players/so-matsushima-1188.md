@@ -1,5 +1,5 @@
 ---
-title: "So Matsushima"
+title: "松島 聡"
 name_en: "So Matsushima"
 position: "CTB"
 team: "クリタウォーターガッシュ昭島"

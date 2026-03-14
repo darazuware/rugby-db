@@ -1,5 +1,5 @@
 ---
-title: "Ryoma Nishimura"
+title: "西村 龍馬"
 name_en: "Ryoma Nishimura"
 position: "LO"
 team: "三重ホンダヒート"

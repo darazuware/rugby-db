@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2015 - 2018)
-- 🇿🇦 ハリウッドベッツ・シャークス (2017 - 2022)
+- Lions Rugby (2015 - 2018)
+- Sale Sharks (2017 - 2022)
 - 🇿🇦 ハリウッドベッツ・シャークス (2022 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2023 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

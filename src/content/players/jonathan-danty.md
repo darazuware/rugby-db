@@ -25,5 +25,5 @@ facebook: ""
 
 - ASPTT Paris (2004 - 2006)
 - Paris Université Club (2006 - 2008)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2008 - 2021)
+- Stade Français Paris Rugby (2008 - 2021)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )

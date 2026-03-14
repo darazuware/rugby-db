@@ -1,5 +1,5 @@
 ---
-title: "DOGA MAEDA"
+title: "前田 土芽"
 name_en: "DOGA MAEDA"
 position: "FB"
 team: "ルリーロ福岡"

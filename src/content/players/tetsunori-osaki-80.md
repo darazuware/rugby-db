@@ -1,5 +1,5 @@
 ---
-title: "Tetsunori Osaki"
+title: "大サキ"
 name_en: "Tetsunori Osaki"
 position: "LO"
 team: "清水建設江東ブルーシャークス"

@@ -1,5 +1,5 @@
 ---
-title: "Rameka Poihipi"
+title: "ラメカ ・ポイヒピ"
 name_en: "Rameka Poihipi"
 position: "CTB"
 team: "リコーブラックラムズ東京"
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2018 - 2024)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020 - 2025)
+- カンタベリー (2018 - 2024)
+- チーフス (2020 - 2025)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2025 - )

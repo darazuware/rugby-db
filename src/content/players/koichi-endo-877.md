@@ -1,5 +1,5 @@
 ---
-title: "Koichi Endo"
+title: "遠藤 孝一"
 name_en: "Koichi Endo"
 position: "PR"
 team: "ヤクルトレビンズ戸田"

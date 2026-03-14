@@ -1,5 +1,5 @@
 ---
-title: "Willie Potgieter"
+title: "ヴィリー ・ポトヒエッター"
 name_en: "Willie Potgieter"
 position: "FL/No8"
 team: "コベルコ神戸スティーラーズ"

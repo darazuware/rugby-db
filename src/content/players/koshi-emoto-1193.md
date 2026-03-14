@@ -1,5 +1,5 @@
 ---
-title: "Koshi Emoto"
+title: "江本 洸志"
 name_en: "Koshi Emoto"
 position: "FB"
 team: "クリタウォーターガッシュ昭島"

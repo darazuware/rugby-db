@@ -1,5 +1,5 @@
 ---
-title: "Yusaku Kihara"
+title: "木原 優作"
 name_en: "Yusaku Kihara"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

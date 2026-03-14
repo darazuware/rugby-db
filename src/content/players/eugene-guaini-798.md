@@ -1,5 +1,5 @@
 ---
-title: "Eugene Guaini"
+title: "グアイニ 優人"
 name_en: "Eugene Guaini"
 position: "FL/No8"
 team: "マツダスカイアクティブズ広島"

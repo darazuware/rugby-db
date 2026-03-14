@@ -1,5 +1,5 @@
 ---
-title: "Jack OSullivan"
+title: "ジャック ・オーサリバン"
 name_en: "Jack OSullivan"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"

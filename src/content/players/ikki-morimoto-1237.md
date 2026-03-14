@@ -1,5 +1,5 @@
 ---
-title: "Ikki Morimoto"
+title: "森元 一気"
 name_en: "Ikki Morimoto"
 position: "FL/No8"
 team: "狭山セコムラガッツ"

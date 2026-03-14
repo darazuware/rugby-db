@@ -1,5 +1,5 @@
 ---
-title: "MASAFUMI TANABE"
+title: "田辺 雅文"
 name_en: "MASAFUMI TANABE"
 position: "SH"
 team: "ルリーロ福岡"

@@ -1,5 +1,5 @@
 ---
-title: "Tomoki Yamaguchi"
+title: "山口 知貴"
 name_en: "Tomoki Yamaguchi"
 position: "PR"
 team: "豊田自動織機シャトルズ愛知"

@@ -1,5 +1,5 @@
 ---
-title: "Minato Jinnouchi"
+title: "陣内 源斗"
 name_en: "Minato Jinnouchi"
 position: "HO"
 team: "狭山セコムラガッツ"

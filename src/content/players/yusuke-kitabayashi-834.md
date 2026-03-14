@@ -1,5 +1,5 @@
 ---
-title: "Yusuke Kitabayashi"
+title: "北林 佑介"
 name_en: "Yusuke Kitabayashi"
 position: "HO"
 team: "マツダスカイアクティブズ広島"

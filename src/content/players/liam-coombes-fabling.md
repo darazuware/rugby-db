@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2019 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021 - 2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022 - )
+- ワイカト (2019 - 2025)
+- ハイランダーズ (2021 - 2022)
+- チーフス (2022 - )

@@ -1,5 +1,5 @@
 ---
-title: "Taiga Ozaki"
+title: "尾崎 泰雅"
 name_en: "Taiga Ozaki"
 position: "CTB"
 team: "東京サントリーサンゴリアス"

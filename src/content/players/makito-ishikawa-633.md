@@ -1,5 +1,5 @@
 ---
-title: "Makito Ishikawa"
+title: "石川 槙人"
 name_en: "Makito Ishikawa"
 position: "PR"
 team: "埼玉パナソニックワイルドナイツ"

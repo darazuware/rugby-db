@@ -1,5 +1,5 @@
 ---
-title: "Mahe Vailanu"
+title: "マヘ ・ヴァイラヌ"
 name_en: "Mahe Vailanu"
 position: "HO"
 team: "清水建設江東ブルーシャークス"
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2018)
-- 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2019)
+- レベルズ (2018)
+- パナソニック ワイルドナイツ (2019)
 - LAギルティニス (2021)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2022 - 2025)
-- 🇿🇦 ハリウッドベッツ・シャークス (2025 - )
+- ワラターズ (2022 - 2025)
+- 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2025 - )

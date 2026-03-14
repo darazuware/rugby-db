@@ -1,5 +1,5 @@
 ---
-title: "Kenkichi Yanagawa"
+title: "梁川 賢吉"
 name_en: "Kenkichi Yanagawa"
 position: "FL/No8"
 team: "クボタスピアーズ船橋・東京ベイ"

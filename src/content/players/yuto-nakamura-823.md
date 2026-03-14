@@ -1,5 +1,5 @@
 ---
-title: "Yuto Nakamura"
+title: "中村 悠人"
 name_en: "Yuto Nakamura"
 position: "WTB"
 team: "マツダスカイアクティブズ広島"

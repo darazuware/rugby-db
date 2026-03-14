@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Paris Université Club (2007 - 2011)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2011 - )
+- Stade Français Paris Rugby (2011 - )

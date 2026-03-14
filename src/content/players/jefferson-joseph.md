@@ -27,4 +27,4 @@ facebook: ""
 - RC Bazeillais (2014 - 2015)
 - CA Lormont HG (2015 - 2017)
 - Sporting Union Agenais (2017 - 2024)
-- 🇫🇷 [ペルピニャン](/teams/top14/perpignan) (2024 - )
+- Union Sportive Arlequins Perpignanais (2024 - )

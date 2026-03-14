@@ -1,5 +1,5 @@
 ---
-title: "Yoshiki Yamazaki"
+title: "山サキ"
 name_en: "Yoshiki Yamazaki"
 position: "FL/No8"
 team: "レッドハリケーンズ大阪"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2025 - )
+- NTTドコモレッドハリケーンズ大阪 (2025 - )

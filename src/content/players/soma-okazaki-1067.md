@@ -1,5 +1,5 @@
 ---
-title: "Soma Okazaki"
+title: "岡崎 颯馬"
 name_en: "Soma Okazaki"
 position: "CTB"
 team: "静岡ブルーレヴズ"

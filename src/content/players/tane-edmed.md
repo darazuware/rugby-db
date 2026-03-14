@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Eastwood Rugby Club (2019 - 2020)
-- 🇦🇺 [NSWワラタス（ワラターズ）](/teams/super-rugby/nsw-waratahs) (2020 - 2025)
+- ワラターズ (2020 - 2025)
 - ノース・ハーバー (2023 - 2024)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2025 - )
+- ブランビーズ (2025 - )

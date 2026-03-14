@@ -1,5 +1,5 @@
 ---
-title: "Kazuki Ban"
+title: "坂 和樹"
 name_en: "Kazuki Ban"
 position: "PR"
 team: "三重ホンダヒート"

@@ -1,5 +1,5 @@
 ---
-title: "Anpyon Kim"
+title: "金 昂平"
 name_en: "Anpyon Kim"
 position: "FB"
 team: "日野レッドドルフィンズ"

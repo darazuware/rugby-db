@@ -1,5 +1,5 @@
 ---
-title: "Shion Matsuda"
+title: "松田 知恩"
 name_en: "Shion Matsuda"
 position: "SO"
 team: "豊田自動織機シャトルズ愛知"

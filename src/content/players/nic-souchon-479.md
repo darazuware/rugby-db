@@ -1,5 +1,5 @@
 ---
-title: "Nic Souchon"
+title: "ニック ・スーチョン"
 name_en: "Nic Souchon"
 position: "HO"
 team: "リコーブラックラムズ東京"
@@ -27,6 +27,6 @@ facebook: ""
 - Old Glory DC RFC (2022 - 2023)
 - サウスランド (2022 - 2025)
 - Utah Warriors (2023 - 2024)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2024 - 2025)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024 - 2025)
+- ハリケーンズ (2024 - 2025)
+- オタゴ (2024 - 2025)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2025 - )

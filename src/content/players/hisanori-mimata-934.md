@@ -1,5 +1,5 @@
 ---
-title: "HISANORI MIMATA"
+title: "三股 久典"
 name_en: "HISANORI MIMATA"
 position: "SH"
 team: "ルリーロ福岡"

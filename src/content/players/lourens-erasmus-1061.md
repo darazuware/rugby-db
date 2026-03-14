@@ -1,5 +1,5 @@
 ---
-title: "Lourens Erasmus"
+title: "ローレンス ・エラスマス"
 name_en: "Lourens Erasmus"
 position: "LO"
 team: "トヨタヴェルブリッツ"
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 エミレーツ・ライオンズ (2015 - 2019)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2019 - 2022)
+- ライオンズ (2015 - 2019)
+- NTTドコモレッドハリケーンズ大阪 (2019 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2025)
 - 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2025 - )
