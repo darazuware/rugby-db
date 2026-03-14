@@ -471,7 +471,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         {!leagueContext && (
                             <div className="col-span-1 md:col-span-2 lg:col-span-4">
                                 <label className="block text-xs font-black text-foreground/40 uppercase tracking-widest mb-3">リーグ</label>
-                                <div className="flex flex-wrap gap-3">
+                                <div className="flex flex-wrap justify-center gap-3">
                                     <button
                                         onClick={() => setSelectedLeagues([])}
                                         className={`px-6 py-2.5 rounded-xl font-black text-sm transition-all border-2 ${selectedLeagues.length === 0
@@ -571,7 +571,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Division
                                         </label>
-                                        <div className="flex flex-wrap gap-2 sm:gap-3">
+                                        <div className="flex flex-wrap justify-center gap-2 sm:gap-3">
                                             <button
                                                 onClick={() => setSelectedDivisions([])}
                                                 className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.length === 0
@@ -607,7 +607,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Category
                                         </label>
-                                        <div className="flex flex-wrap gap-2 sm:gap-3">
+                                        <div className="flex flex-wrap justify-center gap-2 sm:gap-3">
                                             <button
                                                 onClick={() => setSelectedCategories([])}
                                                 className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.length === 0
@@ -831,7 +831,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 if (!isFiltered) return null;
 
                 return (
-                    <div className="fixed bottom-8 right-8 z-[100] animate-in fade-in slide-in-from-bottom-4 duration-300">
+                    <div className="fixed bottom-24 right-6 sm:bottom-8 sm:right-8 z-[100] animate-in fade-in slide-in-from-bottom-4 duration-300">
                         <button
                             onClick={() => {
                                 setSearch('');
