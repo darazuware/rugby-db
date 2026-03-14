@@ -126,7 +126,7 @@ const groupByRound = (leagueId: string, results: any[]) => {
         day: '2-digit' 
     }).format(new Date());
 
-    uniqueMatches.filter(m => m.date && m.date <= jstToday && m.score !== "VS").forEach(m => {
+    uniqueMatches.filter(m => m.score !== "VS").forEach(m => {
         const round = m.round;
         if (!groups[round]) groups[round] = [];
         groups[round].push(m);
