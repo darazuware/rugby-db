@@ -1,5 +1,5 @@
 ---
-title: "Charles KANTÉ-SAMBA"
+title: "Charles KANTÉ・SAMBA"
 name_en: "Charles KANTÉ-SAMBA"
 position: "LO"
 team: "ラ・ロシェル"

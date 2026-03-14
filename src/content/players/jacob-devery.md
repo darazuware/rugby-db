@@ -1,5 +1,5 @@
 ---
-title: "ジェイコブ-デヴェリー"
+title: "ジェイコブ・デヴェリー"
 name_en: "Jacob DEVERY"
 position: "HO"
 team: "ウェリントン・ハリケーンズ"

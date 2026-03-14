@@ -1,5 +1,5 @@
 ---
-title: "ザビエル-ティト＝ハリス"
+title: "ザビエル・ティト＝ハリス"
 name_en: "Xavier TITO-HARRIS"
 position: "FB"
 team: "オタゴ・ハイランダーズ"

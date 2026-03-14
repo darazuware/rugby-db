@@ -1,5 +1,5 @@
 ---
-title: "アンドリュー-ケラウェイ"
+title: "アンドリュー・ケラウェイ"
 name_en: "Andrew KELLAWAY"
 position: "WTB"
 team: "NSWワラタス（ワラターズ）"

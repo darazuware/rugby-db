@@ -1,5 +1,5 @@
 ---
-title: "Georges-Henri COLOMBE"
+title: "Georges・Henri COLOMBE"
 name_en: "Georges-Henri COLOMBE"
 position: "PR"
 team: "トゥールーズ"

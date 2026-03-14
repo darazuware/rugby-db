@@ -1,5 +1,5 @@
 ---
-title: "Édouard-Junior JABEA NJOCKE"
+title: "Édouard・Junior JABEA NJOCKE"
 name_en: "Édouard-Junior JABEA NJOCKE"
 position: "PR"
 team: "ラシン92"

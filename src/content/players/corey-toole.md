@@ -1,5 +1,5 @@
 ---
-title: "コーリー-トゥール"
+title: "コーリー・トゥール"
 name_en: "Corey TOOLE"
 position: "WTB"
 team: "ACTブランビーズ"

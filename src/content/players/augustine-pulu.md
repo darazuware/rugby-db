@@ -1,5 +1,5 @@
 ---
-title: "オーガスティン-プル"
+title: "オーガスティン・プル"
 name_en: "Augustine PULU"
 position: "SH"
 team: "モアナ・パシフィカ"

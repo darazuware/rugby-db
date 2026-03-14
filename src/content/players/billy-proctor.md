@@ -1,5 +1,5 @@
 ---
-title: "ビリー-プロクター"
+title: "ビリー・プロクター"
 name_en: "Billy PROCTOR"
 position: "CTB"
 team: "ウェリントン・ハリケーンズ"

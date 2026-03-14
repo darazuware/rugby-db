@@ -1,5 +1,5 @@
 ---
-title: "ハリー-ポッター"
+title: "ハリー・ポッター"
 name_en: "Harry POTTER"
 position: "WTB"
 team: "NSWワラタス（ワラターズ）"

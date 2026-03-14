@@ -1,5 +1,5 @@
 ---
-title: "レスター-ファンガアヌク"
+title: "レスター・ファンガアヌク"
 name_en: "Leicester FAINGA'ANUKU"
 position: "WTB"
 team: "カンタベリー・クルセイダーズ"

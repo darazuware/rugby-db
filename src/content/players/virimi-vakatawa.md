@@ -1,5 +1,5 @@
 ---
-title: "ヴィリミ-ヴァカタワ"
+title: "ヴィリミ・ヴァカタワ"
 name_en: "Virimi VAKATAWA"
 position: "CTB"
 team: "フィジアン・ドゥルア"

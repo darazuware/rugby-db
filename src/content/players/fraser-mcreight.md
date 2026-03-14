@@ -1,5 +1,5 @@
 ---
-title: "フレイザー-マクライト"
+title: "フレイザー・マクライト"
 name_en: "Fraser MCREIGHT"
 position: "FL/No8"
 team: "クイーンズランド・レッズ"

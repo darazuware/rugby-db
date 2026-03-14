@@ -1,5 +1,5 @@
 ---
-title: "Loîs GUÉROIS-GALISSON"
+title: "Loîs GUÉROIS・GALISSON"
 name_en: "Loîs GUÉROIS-GALISSON"
 position: "PR"
 team: "カストル"

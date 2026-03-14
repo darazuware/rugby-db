@@ -1,5 +1,5 @@
 ---
-title: "イザイア-アームストロング＝ラブーラ"
+title: "イザイア・アームストロング＝ラブーラ"
 name_en: "Isaiah ARMSTRONG-RAVULA"
 position: "SO"
 team: "フィジアン・ドゥルア"

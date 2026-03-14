@@ -1,5 +1,5 @@
 ---
-title: "ジャレッド-プロフィット"
+title: "ジャレッド・プロフィット"
 name_en: "Jared PROFFIT"
 position: "PR"
 team: "ワイカト・チーフス"

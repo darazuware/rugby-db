@@ -1,5 +1,5 @@
 ---
-title: "ハリー-マクラフリン＝フィリップス"
+title: "ハリー・マクラフリン＝フィリップス"
 name_en: "Harry MCLAUGHLIN-PHILLIPS"
 position: "SO"
 team: "クイーンズランド・レッズ"

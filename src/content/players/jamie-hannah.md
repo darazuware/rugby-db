@@ -1,5 +1,5 @@
 ---
-title: "ジェイミー-ハンナ"
+title: "ジェイミー・ハンナ"
 name_en: "Jamie HANNAH"
 position: "LO"
 team: "カンタベリー・クルセイダーズ"

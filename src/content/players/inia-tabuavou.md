@@ -1,5 +1,5 @@
 ---
-title: "イニア-タブアボウ"
+title: "イニア・タブアボウ"
 name_en: "Inia TABUAVOU"
 position: "CTB"
 team: "フィジアン・ドゥルア"

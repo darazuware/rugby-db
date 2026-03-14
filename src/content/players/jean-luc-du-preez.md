@@ -1,5 +1,5 @@
 ---
-title: "Jean-Luc DU PREEZ"
+title: "Jean・Luc DU PREEZ"
 name_en: "Jean-Luc DU PREEZ"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

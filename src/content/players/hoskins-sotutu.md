@@ -1,5 +1,5 @@
 ---
-title: "ホスキンス-ソトゥトゥ"
+title: "ホスキンス・ソトゥトゥ"
 name_en: "Hoskins SOTUTU"
 position: "FL/No8"
 team: "オークランド・ブルーズ"

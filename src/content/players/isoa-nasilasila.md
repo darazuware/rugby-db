@@ -1,5 +1,5 @@
 ---
-title: "イソア-ナシラスィラ"
+title: "イソア・ナシラスィラ"
 name_en: "Isoa NASILASILA"
 position: "LO"
 team: "フィジアン・ドゥルア"

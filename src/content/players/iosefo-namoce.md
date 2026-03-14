@@ -1,5 +1,5 @@
 ---
-title: "イオセフォ-ナモセ"
+title: "イオセフォ・ナモセ"
 name_en: "Iosefo NAMOCE"
 position: "CTB"
 team: "フィジアン・ドゥルア"

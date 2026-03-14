@@ -1,5 +1,5 @@
 ---
-title: "ケイレブ-クラーク"
+title: "ケイレブ・クラーク"
 name_en: "Caleb CLARKE"
 position: "WTB"
 team: "オークランド・ブルーズ"

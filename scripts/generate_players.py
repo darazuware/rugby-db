@@ -290,6 +290,10 @@ def main():
                     skipped_count += 1
                     continue
                 
+                # 海外選手名（SR, Top 14）のハイフンを中黒に置換
+                if league in ['super-rugby', 'top14']:
+                    name_ja = name_ja.replace('-', '・').replace('－', '・')
+                
                 career_md = format_career_md(get_val(['Full_Career', 'キャリア遍歴']), current_team, name_en)
                 l_caps_raw = str(get_val(['リーグワンキャップ数']) or '0')
                 l_caps_match = re.search(r'(\d+)', l_caps_raw)

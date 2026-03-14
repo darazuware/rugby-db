@@ -1,5 +1,5 @@
 ---
-title: "ザビエル-ルーベンス"
+title: "ザビエル・ルーベンス"
 name_en: "Xavier RUBENS"
 position: "CTB"
 team: "クイーンズランド・レッズ"

@@ -1,5 +1,5 @@
 ---
-title: "ジャローム-ブラウン"
+title: "ジャローム・ブラウン"
 name_en: "Jahrome BROWN"
 position: "FL/No8"
 team: "ワイカト・チーフス"

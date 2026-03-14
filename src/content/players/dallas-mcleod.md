@@ -1,5 +1,5 @@
 ---
-title: "ダラス-マクラウド"
+title: "ダラス・マクラウド"
 name_en: "Dallas MCLEOD"
 position: "CTB"
 team: "カンタベリー・クルセイダーズ"

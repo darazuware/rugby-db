@@ -1,5 +1,5 @@
 ---
-title: "ベイリー-クンツレ"
+title: "ベイリー・クンツレ"
 name_en: "Bayley KUENZLE"
 position: "CTB"
 team: "ウェスタン・フォース"

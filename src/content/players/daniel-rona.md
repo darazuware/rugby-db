@@ -1,5 +1,5 @@
 ---
-title: "ダニエル-ロナ"
+title: "ダニエル・ロナ"
 name_en: "Daniel RONA"
 position: "CTB"
 team: "ワイカト・チーフス"

@@ -1,5 +1,5 @@
 ---
-title: "ジェフリー-トゥーマガ＝アレン"
+title: "ジェフリー・トゥーマガ＝アレン"
 name_en: "Jeffery TOOMAGA-ALLEN"
 position: "PR"
 team: "クイーンズランド・レッズ"

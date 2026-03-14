@@ -1,5 +1,5 @@
 ---
-title: "フランコ-モリーナ"
+title: "フランコ・モリーナ"
 name_en: "Franco MOLINA"
 position: "LO"
 team: "ウェスタン・フォース"

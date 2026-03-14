@@ -1,5 +1,5 @@
 ---
-title: "ハリー-ウィルソン"
+title: "ハリー・ウィルソン"
 name_en: "Harry WILSON"
 position: "FL/No8"
 team: "クイーンズランド・レッズ"

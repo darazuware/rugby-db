@@ -1,5 +1,5 @@
 ---
-title: "ファレトイ-ペニ"
+title: "ファレトイ・ペニ"
 name_en: "Faletoi PENI"
 position: "CTB"
 team: "モアナ・パシフィカ"

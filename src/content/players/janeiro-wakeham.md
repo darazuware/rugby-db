@@ -1,5 +1,5 @@
 ---
-title: "ジャネイロ-ウェイクハム"
+title: "ジャネイロ・ウェイクハム"
 name_en: "Janeiro WAKEHAM"
 position: "LO"
 team: "フィジアン・ドゥルア"

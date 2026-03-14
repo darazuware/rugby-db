@@ -1,5 +1,5 @@
 ---
-title: "アイザック-ファインズ"
+title: "アイザック・ファインズ"
 name_en: "Issak FINES"
 position: "SH"
 team: "フィジアン・ドゥルア"

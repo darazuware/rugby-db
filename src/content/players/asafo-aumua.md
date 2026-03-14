@@ -1,5 +1,5 @@
 ---
-title: "アサフォ-アウムア"
+title: "アサフォ・アウムア"
 name_en: "Asafo AUMUA"
 position: "HO"
 team: "ウェリントン・ハリケーンズ"

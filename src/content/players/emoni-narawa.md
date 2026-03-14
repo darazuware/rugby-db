@@ -1,5 +1,5 @@
 ---
-title: "エモニ-ナラワ"
+title: "エモニ・ナラワ"
 name_en: "Emoni NARAWA"
 position: "WTB"
 team: "ワイカト・チーフス"

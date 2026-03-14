@@ -1,5 +1,5 @@
 ---
-title: "イライサ-ドロアセセ"
+title: "イライサ・ドロアセセ"
 name_en: "Ilaisa DROASESE"
 position: "FB"
 team: "フィジアン・ドゥルア"

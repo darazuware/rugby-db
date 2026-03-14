@@ -1,5 +1,5 @@
 ---
-title: "フィンレイ-ブリュイス"
+title: "フィンレイ・ブリュイス"
 name_en: "Finlay BREWIS"
 position: "PR"
 team: "カンタベリー・クルセイダーズ"

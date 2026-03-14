@@ -1,5 +1,5 @@
 ---
-title: "ジェームズ-マラン"
+title: "ジェームズ・マラン"
 name_en: "James MULLAN"
 position: "HO"
 team: "オークランド・ブルーズ"

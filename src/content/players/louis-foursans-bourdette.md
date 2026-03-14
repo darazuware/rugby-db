@@ -1,5 +1,5 @@
 ---
-title: "Louis FOURSANS-BOURDETTE"
+title: "Louis FOURSANS・BOURDETTE"
 name_en: "Louis FOURSANS-BOURDETTE"
 position: "SO"
 team: "スタッド・フランセ"

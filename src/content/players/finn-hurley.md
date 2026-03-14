@@ -1,5 +1,5 @@
 ---
-title: "フィン-ハーリー"
+title: "フィン・ハーリー"
 name_en: "Finn HURLEY"
 position: "FB"
 team: "オタゴ・ハイランダーズ"

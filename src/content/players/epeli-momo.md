@@ -1,5 +1,5 @@
 ---
-title: "エペリ-モモ"
+title: "エペリ・モモ"
 name_en: "Epeli MOMO"
 position: "WTB"
 team: "フィジアン・ドゥルア"

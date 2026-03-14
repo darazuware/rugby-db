@@ -1,5 +1,5 @@
 ---
-title: "アイザック-ヘンリー"
+title: "アイザック・ヘンリー"
 name_en: "Isaac HENRY"
 position: "SO"
 team: "クイーンズランド・レッズ"

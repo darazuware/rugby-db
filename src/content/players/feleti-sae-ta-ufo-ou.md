@@ -1,5 +1,5 @@
 ---
-title: "フェレティ-サエ＝タウフォオウ"
+title: "フェレティ・サエ＝タウフォオウ"
 name_en: "Feleti SAE-TA'UFO'OU"
 position: "PR"
 team: "モアナ・パシフィカ"

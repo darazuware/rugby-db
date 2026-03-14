@@ -1,5 +1,5 @@
 ---
-title: "ヘイミッシュ-スチュワート"
+title: "ヘイミッシュ・スチュワート"
 name_en: "Hamish STEWART"
 position: "CTB"
 team: "ウェスタン・フォース"

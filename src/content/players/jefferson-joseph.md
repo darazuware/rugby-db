@@ -1,5 +1,5 @@
 ---
-title: "Jefferson-Lee JOSEPH"
+title: "Jefferson・Lee JOSEPH"
 name_en: "Jefferson-Lee JOSEPH"
 position: "WTB"
 team: "ペルピニャン"

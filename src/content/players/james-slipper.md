@@ -1,5 +1,5 @@
 ---
-title: "ジェームズ-スリッパー"
+title: "ジェームズ・スリッパー"
 name_en: "James SLIPPER"
 position: "PR"
 team: "ACTブランビーズ"

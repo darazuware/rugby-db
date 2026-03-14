@@ -1,5 +1,5 @@
 ---
-title: "コルテス-ラティマ"
+title: "コルテス・ラティマ"
 name_en: "Cortez RATIMA"
 position: "SH"
 team: "ワイカト・チーフス"

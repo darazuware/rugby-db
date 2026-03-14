@@ -1,5 +1,5 @@
 ---
-title: "Pita-Gus SOWAKULA"
+title: "Pita・Gus SOWAKULA"
 name_en: "Pita-Gus SOWAKULA"
 position: "FL/NO8"
 team: "クレルモン"

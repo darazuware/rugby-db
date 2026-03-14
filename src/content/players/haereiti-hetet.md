@@ -1,5 +1,5 @@
 ---
-title: "ハエレティ-ヘテット"
+title: "ハエレティ・ヘテット"
 name_en: "Haereiti HETET"
 position: "PR"
 team: "フィジアン・ドゥルア"

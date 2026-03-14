@@ -1,5 +1,5 @@
 ---
-title: "アントン-セグナー"
+title: "アントン・セグナー"
 name_en: "Anton SEGNER"
 position: "FL/No8"
 team: "オークランド・ブルーズ"

@@ -1,5 +1,5 @@
 ---
-title: "ダン-リエナート＝ブラウン"
+title: "ダン・リエナート＝ブラウン"
 name_en: "Dan LIENERT-BROWN"
 position: "PR"
 team: "オタゴ・ハイランダーズ"

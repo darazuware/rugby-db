@@ -1,5 +1,5 @@
 ---
-title: "Roméo MARTIN-BONNARD"
+title: "Roméo MARTIN・BONNARD"
 name_en: "Roméo MARTIN-BONNARD"
 position: "FL/NO8"
 team: "トゥールーズ"

@@ -1,5 +1,5 @@
 ---
-title: "ディラン-ピーチ"
+title: "ディラン・ピーチ"
 name_en: "Dylan PIETSCH"
 position: "WTB"
 team: "ウェスタン・フォース"

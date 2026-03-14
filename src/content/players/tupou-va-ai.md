@@ -1,5 +1,5 @@
 ---
-title: "トゥポウ-ヴァアイ"
+title: "トゥポウ・ヴァアイ"
 name_en: "Tupou VAA'I"
 position: "LO"
 team: "ワイカト・チーフス"

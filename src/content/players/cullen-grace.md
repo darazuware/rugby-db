@@ -1,5 +1,5 @@
 ---
-title: "カレン-グレイス"
+title: "カレン・グレイス"
 name_en: "Cullen GRACE"
 position: "LO"
 team: "カンタベリー・クルセイダーズ"

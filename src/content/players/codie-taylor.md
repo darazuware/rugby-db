@@ -1,5 +1,5 @@
 ---
-title: "コーディ-テイラー"
+title: "コーディ・テイラー"
 name_en: "Codie TAYLOR"
 position: "HO"
 team: "カンタベリー・クルセイダーズ"

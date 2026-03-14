@@ -1,5 +1,5 @@
 ---
-title: "フォラウ-ファインガア"
+title: "フォラウ・ファインガア"
 name_en: "Folau FAINGA'A"
 position: "HO"
 team: "NSWワラタス（ワラターズ）"

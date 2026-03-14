@@ -1,5 +1,5 @@
 ---
-title: "ダルトン-パパリイ"
+title: "ダルトン・パパリイ"
 name_en: "Dalton PAPALI'I"
 position: "FL/No8"
 team: "オークランド・ブルーズ"

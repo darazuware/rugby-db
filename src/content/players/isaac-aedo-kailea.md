@@ -1,5 +1,5 @@
 ---
-title: "アイザック-アエド・カイレア"
+title: "アイザック・アエド・カイレア"
 name_en: "Isaac AEDO KAILEA"
 position: "PR"
 team: "NSWワラタス（ワラターズ）"

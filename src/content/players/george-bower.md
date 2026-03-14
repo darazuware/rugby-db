@@ -1,5 +1,5 @@
 ---
-title: "ジョージ-バウアー"
+title: "ジョージ・バウアー"
 name_en: "George BOWER"
 position: "PR"
 team: "カンタベリー・クルセイダーズ"

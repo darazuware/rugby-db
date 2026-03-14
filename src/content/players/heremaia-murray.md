@@ -1,5 +1,5 @@
 ---
-title: "ヘレマイア-マレー"
+title: "ヘレマイア・マレー"
 name_en: "Heremaia MURRAY"
 position: "WTB"
 team: "クイーンズランド・レッズ"

@@ -1,5 +1,5 @@
 ---
-title: "Bastien VERGNES-TAILLEFER"
+title: "Bastien VERGNES・TAILLEFER"
 name_en: "Bastien VERGNES-TAILLEFER"
 position: "FL/NO8"
 team: "ボルドー・ベグル"

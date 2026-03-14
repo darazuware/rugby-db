@@ -1,5 +1,5 @@
 ---
-title: "ジェイデン-サ"
+title: "ジェイデン・サ"
 name_en: "Jayden SA"
 position: "LO"
 team: "ワイカト・チーフス"

@@ -1,5 +1,5 @@
 ---
-title: "イオアネ-モアナヌ"
+title: "イオアネ・モアナヌ"
 name_en: "Ioane MOANANU"
 position: "HO"
 team: "NSWワラタス（ワラターズ）"

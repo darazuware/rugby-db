@@ -1,5 +1,5 @@
 ---
-title: "エトニア-ワカ"
+title: "エトニア・ワカ"
 name_en: "Etonia WAQA"
 position: "FL/No8"
 team: "フィジアン・ドゥルア"

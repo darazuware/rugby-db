@@ -1,5 +1,5 @@
 ---
-title: "エレ-エナリ"
+title: "エレ・エナリ"
 name_en: "Ere ENARI"
 position: "SH"
 team: "ウェリントン・ハリケーンズ"

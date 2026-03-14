@@ -1,5 +1,5 @@
 ---
-title: "アイザック-ハッチンソン"
+title: "アイザック・ハッチンソン"
 name_en: "Isaac HUTCHINSON"
 position: "FB"
 team: "ワイカト・チーフス"

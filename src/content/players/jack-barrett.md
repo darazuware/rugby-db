@@ -1,5 +1,5 @@
 ---
-title: "ジャック-バレット"
+title: "ジャック・バレット"
 name_en: "Jack BARRETT"
 position: "PR"
 team: "NSWワラタス（ワラターズ）"

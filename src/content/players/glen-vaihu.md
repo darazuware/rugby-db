@@ -1,5 +1,5 @@
 ---
-title: "グレン-ヴィフ"
+title: "グレン・ヴィフ"
 name_en: "Glen VAIHU"
 position: "WTB"
 team: "モアナ・パシフィカ"

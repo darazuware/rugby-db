@@ -1,5 +1,5 @@
 ---
-title: "ジェレミー-ウィリアムズ"
+title: "ジェレミー・ウィリアムズ"
 name_en: "Jeremy WILLIAMS"
 position: "LO"
 team: "ウェスタン・フォース"

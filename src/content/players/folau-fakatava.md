@@ -1,5 +1,5 @@
 ---
-title: "フォラウ-ファカタヴァ"
+title: "フォラウ・ファカタヴァ"
 name_en: "Folau FAKATAVA"
 position: "SH"
 team: "オタゴ・ハイランダーズ"

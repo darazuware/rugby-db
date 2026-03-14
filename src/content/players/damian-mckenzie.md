@@ -1,5 +1,5 @@
 ---
-title: "ダミアン-マッケンジー"
+title: "ダミアン・マッケンジー"
 name_en: "Damian MCKENZIE"
 position: "SO"
 team: "ワイカト・チーフス"

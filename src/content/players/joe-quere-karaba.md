@@ -1,5 +1,5 @@
 ---
-title: "Joé QUERE-KARABA"
+title: "Joé QUERE・KARABA"
 name_en: "Joé QUERE-KARABA"
 position: "FL/NO8"
 team: "トゥーロン"

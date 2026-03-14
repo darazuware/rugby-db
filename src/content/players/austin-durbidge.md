@@ -1,5 +1,5 @@
 ---
-title: "オースティン-ダービッジ"
+title: "オースティン・ダービッジ"
 name_en: "Austin DURBIDGE"
 position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"

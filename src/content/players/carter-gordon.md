@@ -1,5 +1,5 @@
 ---
-title: "カーター-ゴードン"
+title: "カーター・ゴードン"
 name_en: "Carter GORDON"
 position: "SO"
 team: "クイーンズランド・レッズ"

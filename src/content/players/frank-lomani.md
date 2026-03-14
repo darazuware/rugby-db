@@ -1,5 +1,5 @@
 ---
-title: "フランク-ロマニ"
+title: "フランク・ロマニ"
 name_en: "Frank LOMANI"
 position: "SH"
 team: "フィジアン・ドゥルア"

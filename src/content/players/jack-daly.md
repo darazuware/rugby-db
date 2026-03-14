@@ -1,5 +1,5 @@
 ---
-title: "ジャック-デイリー"
+title: "ジャック・デイリー"
 name_en: "Jack DALY"
 position: "FL/No8"
 team: "ウェスタン・フォース"

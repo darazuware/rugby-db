@@ -1,5 +1,5 @@
 ---
-title: "ブラッド-シールズ"
+title: "ブラッド・シールズ"
 name_en: "Brad SHIELDS"
 position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"

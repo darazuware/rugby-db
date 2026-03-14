@@ -1,5 +1,5 @@
 ---
-title: "イーサン-デ-グルート"
+title: "イーサン・デ・グルート"
 name_en: "Ethan DE GROOT"
 position: "PR"
 team: "オタゴ・ハイランダーズ"

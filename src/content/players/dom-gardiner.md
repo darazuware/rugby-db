@@ -1,5 +1,5 @@
 ---
-title: "ドム-ガーディナー"
+title: "ドム・ガーディナー"
 name_en: "Dom GARDINER"
 position: "FL/No8"
 team: "カンタベリー・クルセイダーズ"

@@ -1,5 +1,5 @@
 ---
-title: "イソア-トゥワイ"
+title: "イソア・トゥワイ"
 name_en: "Isoa TUWAI"
 position: "FL/No8"
 team: "フィジアン・ドゥルア"

@@ -1,5 +1,5 @@
 ---
-title: "ウィル-マカロック"
+title: "ウィル・マカロック"
 name_en: "Will MCCULLOCH"
 position: "WTB"
 team: "クイーンズランド・レッズ"

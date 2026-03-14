@@ -1,5 +1,5 @@
 ---
-title: "ジェイコブ-ラトゥマイタヴキ＝ニープケンズ"
+title: "ジェイコブ・ラトゥマイタヴキ＝ニープケンズ"
 name_en: "Jacob RATUMAITAVUKI-KNEEPKENS"
 position: "WTB"
 team: "オタゴ・ハイランダーズ"

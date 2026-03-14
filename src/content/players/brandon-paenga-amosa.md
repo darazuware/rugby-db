@@ -1,5 +1,5 @@
 ---
-title: "ブランドン-パエンガ＝アモサ"
+title: "ブランドン・パエンガ＝アモサ"
 name_en: "Brandon PAENGA-AMOSA"
 position: "HO"
 team: "ウェスタン・フォース"

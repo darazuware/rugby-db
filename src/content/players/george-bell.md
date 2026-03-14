@@ -1,5 +1,5 @@
 ---
-title: "ジョージ-ベル"
+title: "ジョージ・ベル"
 name_en: "George BELL"
 position: "HO"
 team: "カンタベリー・クルセイダーズ"

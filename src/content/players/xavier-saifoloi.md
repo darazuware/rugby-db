@@ -1,5 +1,5 @@
 ---
-title: "ザビエル-サイフォロイ"
+title: "ザビエル・サイフォロイ"
 name_en: "Xavier SAIFOLOI"
 position: "FL/No8"
 team: "カンタベリー・クルセイダーズ"

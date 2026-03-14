@@ -1,5 +1,5 @@
 ---
-title: "ヒュー-レントン"
+title: "ヒュー・レントン"
 name_en: "Hugh RENTON"
 position: "FL/No8"
 team: "オタゴ・ハイランダーズ"

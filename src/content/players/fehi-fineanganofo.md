@@ -1,5 +1,5 @@
 ---
-title: "フェヒ-フィネアンガノフォ"
+title: "フェヒ・フィネアンガノフォ"
 name_en: "Fehi FINEANGANOFO"
 position: "CTB"
 team: "ウェリントン・ハリケーンズ"

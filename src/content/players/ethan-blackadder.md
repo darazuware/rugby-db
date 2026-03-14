@@ -1,5 +1,5 @@
 ---
-title: "イーサン-ブラックアダー"
+title: "イーサン・ブラックアダー"
 name_en: "Ethan BLACKADDER"
 position: "FL/No8"
 team: "カンタベリー・クルセイダーズ"

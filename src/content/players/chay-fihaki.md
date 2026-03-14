@@ -1,5 +1,5 @@
 ---
-title: "チェイ-フィハキ"
+title: "チェイ・フィハキ"
 name_en: "Chay FIHAKI"
 position: "CTB"
 team: "カンタベリー・クルセイダーズ"

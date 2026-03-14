@@ -1,5 +1,5 @@
 ---
-title: "デュプレッシー-キリフィ"
+title: "デュプレッシー・キリフィ"
 name_en: "Du'Plessis KIRIFI"
 position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"

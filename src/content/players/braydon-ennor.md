@@ -1,5 +1,5 @@
 ---
-title: "ブレイドン-エナー"
+title: "ブレイドン・エナー"
 name_en: "Braydon ENNOR"
 position: "CTB"
 team: "カンタベリー・クルセイダーズ"

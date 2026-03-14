@@ -1,5 +1,5 @@
 ---
-title: "Tawera KERR-BARLOW"
+title: "Tawera KERR・BARLOW"
 name_en: "Tawera KERR-BARLOW"
 position: "SH"
 team: "スタッド・フランセ"

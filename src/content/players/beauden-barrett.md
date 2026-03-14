@@ -1,5 +1,5 @@
 ---
-title: "ボーデン-バレット"
+title: "ボーデン・バレット"
 name_en: "Beauden BARRETT"
 position: "SO"
 team: "オークランド・ブルーズ"

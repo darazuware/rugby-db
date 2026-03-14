@@ -1,5 +1,5 @@
 ---
-title: "ジェームズ-キャメロン"
+title: "ジェームズ・キャメロン"
 name_en: "James CAMERON"
 position: "CTB"
 team: "オークランド・ブルーズ"

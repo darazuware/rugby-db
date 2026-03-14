@@ -1,5 +1,5 @@
 ---
-title: "ジョージ-ブリッジ"
+title: "ジョージ・ブリッジ"
 name_en: "George BRIDGE"
 position: "WTB"
 team: "ウェスタン・フォース"

@@ -1,5 +1,5 @@
 ---
-title: "フィリポ-ダウグヌ"
+title: "フィリポ・ダウグヌ"
 name_en: "Filipo DAUGUNU"
 position: "WTB"
 team: "クイーンズランド・レッズ"

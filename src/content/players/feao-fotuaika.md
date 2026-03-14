@@ -1,5 +1,5 @@
 ---
-title: "フェアオ-フォトゥアイカ"
+title: "フェアオ・フォトゥアイカ"
 name_en: "Feao FOTUAIKA"
 position: "PR"
 team: "ウェスタン・フォース"

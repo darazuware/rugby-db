@@ -1,5 +1,5 @@
 ---
-title: "ハンター-パイサミ"
+title: "ハンター・パイサミ"
 name_en: "Hunter PAISAMI"
 position: "CTB"
 team: "クイーンズランド・レッズ"

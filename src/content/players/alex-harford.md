@@ -1,5 +1,5 @@
 ---
-title: "アレックス-ハーフォード"
+title: "アレックス・ハーフォード"
 name_en: "Alex HARFORD"
 position: "SO"
 team: "ウェスタン・フォース"

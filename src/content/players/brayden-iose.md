@@ -1,5 +1,5 @@
 ---
-title: "ブレイデン-イオセ"
+title: "ブレイデン・イオセ"
 name_en: "Brayden IOSE"
 position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"

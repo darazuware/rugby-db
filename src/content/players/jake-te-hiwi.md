@@ -1,5 +1,5 @@
 ---
-title: "ジェイク-テ・ヒウィ"
+title: "ジェイク・テ・ヒウィ"
 name_en: "Jake TE HIWI"
 position: "CTB"
 team: "オタゴ・ハイランダーズ"

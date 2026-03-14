@@ -1,5 +1,5 @@
 ---
-title: "ハドソン-クレイトン"
+title: "ハドソン・クレイトン"
 name_en: "Hudson CREIGHTON"
 position: "CTB"
 team: "ACTブランビーズ"

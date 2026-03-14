@@ -1,5 +1,5 @@
 ---
-title: "アンガス-タアヴァオ"
+title: "アンガス・タアヴァオ"
 name_en: "Angus TA'AVAO"
 position: "PR"
 team: "オタゴ・ハイランダーズ"

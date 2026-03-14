@@ -1,5 +1,5 @@
 ---
-title: "デヴァン-フランダース"
+title: "デヴァン・フランダース"
 name_en: "Devan FLANDERS"
 position: "FL/No8"
 team: "ウェリントン・ハリケーンズ"

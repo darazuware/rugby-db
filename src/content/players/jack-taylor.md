@@ -1,5 +1,5 @@
 ---
-title: "ジャック-テイラー"
+title: "ジャック・テイラー"
 name_en: "Jack TAYLOR"
 position: "HO"
 team: "オタゴ・ハイランダーズ"

@@ -1,5 +1,5 @@
 ---
-title: "ダービー-ランカスター"
+title: "ダービー・ランカスター"
 name_en: "Darby LANCASTER"
 position: "WTB"
 team: "ウェスタン・フォース"

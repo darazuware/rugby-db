@@ -1,5 +1,5 @@
 ---
-title: "イサイア-ウォーカー＝レアウェレ"
+title: "イサイア・ウォーカー＝レアウェレ"
 name_en: "Isaia WALKER-LEAWERE"
 position: "LO"
 team: "ウェリントン・ハリケーンズ"

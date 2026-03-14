@@ -1,5 +1,5 @@
 ---
-title: "Martin PAGE-RELO"
+title: "Martin PAGE・RELO"
 name_en: "Martin PAGE-RELO"
 position: "SH"
 team: "ボルドー・ベグル"

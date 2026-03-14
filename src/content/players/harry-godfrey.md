@@ -1,5 +1,5 @@
 ---
-title: "ハリー-ゴッドフリー"
+title: "ハリー・ゴッドフリー"
 name_en: "Harry GODFREY"
 position: "SO"
 team: "ウェリントン・ハリケーンズ"

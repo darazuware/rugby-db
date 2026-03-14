@@ -1,5 +1,5 @@
 ---
-title: "ジャック-デブレチェニ"
+title: "ジャック・デブレチェニ"
 name_en: "Jack DEBRECZENI"
 position: "SO"
 team: "NSWワラタス（ワラターズ）"

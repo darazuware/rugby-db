@@ -1,5 +1,5 @@
 ---
-title: "テイト-マクダーモット"
+title: "テイト・マクダーモット"
 name_en: "Tate MCDERMOTT"
 position: "SH"
 team: "クイーンズランド・レッズ"

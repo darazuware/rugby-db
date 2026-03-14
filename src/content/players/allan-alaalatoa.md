@@ -1,5 +1,5 @@
 ---
-title: "アラン-アラアラトア"
+title: "アラン・アラアラトア"
 name_en: "Allan ALAALATOA"
 position: "PR"
 team: "ACTブランビーズ"

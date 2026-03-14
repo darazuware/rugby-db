@@ -1,5 +1,5 @@
 ---
-title: "Steeve BLANC-MAPPAZ"
+title: "Steeve BLANC・MAPPAZ"
 name_en: "Steeve BLANC-MAPPAZ"
 position: "FL/NO8"
 team: "ヴァンヌ"

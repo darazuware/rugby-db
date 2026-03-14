@@ -1,5 +1,5 @@
 ---
-title: "デイヴィッド-ハビリ"
+title: "デイヴィッド・ハビリ"
 name_en: "David HAVILI"
 position: "CTB"
 team: "カンタベリー・クルセイダーズ"

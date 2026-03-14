@@ -1,5 +1,5 @@
 ---
-title: "トゥアイナ・タイイ-トゥアリマ"
+title: "トゥアイナ・タイイ・トゥアリマ"
 name_en: "Tuaina Taii TUALIMA"
 position: "LO"
 team: "ACTブランビーズ"

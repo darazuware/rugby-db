@@ -1,5 +1,5 @@
 ---
-title: "Mathis CASTRO-FERREIRA"
+title: "Mathis CASTRO・FERREIRA"
 name_en: "Mathis CASTRO-FERREIRA"
 position: "FL/NO8"
 team: "トゥールーズ"

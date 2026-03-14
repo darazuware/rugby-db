@@ -1,5 +1,5 @@
 ---
-title: "エリア-ジャナカイヴァタ"
+title: "エリア・ジャナカイヴァタ"
 name_en: "Elia CANAKAIVATA"
 position: "FL/No8"
 team: "フィジアン・ドゥルア"

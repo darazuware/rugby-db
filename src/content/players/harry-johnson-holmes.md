@@ -1,5 +1,5 @@
 ---
-title: "ハリー-ジョンソン＝ホームズ"
+title: "ハリー・ジョンソン＝ホームズ"
 name_en: "Harry JOHNSON-HOLMES"
 position: "PR"
 team: "ウェスタン・フォース"

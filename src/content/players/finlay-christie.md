@@ -1,5 +1,5 @@
 ---
-title: "フィンレイ-クリスティー"
+title: "フィンレイ・クリスティー"
 name_en: "Finlay CHRISTIE"
 position: "SH"
 team: "オークランド・ブルーズ"

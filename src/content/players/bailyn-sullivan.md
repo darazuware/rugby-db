@@ -1,5 +1,5 @@
 ---
-title: "ベイリン-サリヴァン"
+title: "ベイリン・サリヴァン"
 name_en: "Bailyn SULLIVAN"
 position: "CTB"
 team: "ウェリントン・ハリケーンズ"

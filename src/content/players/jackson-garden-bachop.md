@@ -1,5 +1,5 @@
 ---
-title: "ジャクソン-ガーデン＝バショップ"
+title: "ジャクソン・ガーデン＝バショップ"
 name_en: "Jackson GARDEN-BACHOP"
 position: "SO"
 team: "モアナ・パシフィカ"

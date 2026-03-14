@@ -1,5 +1,5 @@
 ---
-title: "エテネ-ナナイ＝セツロ"
+title: "エテネ・ナナイ＝セツロ"
 name_en: "Etene NANAI-SETURO"
 position: "FB"
 team: "ワイカト・チーフス"

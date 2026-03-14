@@ -1,5 +1,5 @@
 ---
-title: "ケイレブ-タンギタウ"
+title: "ケイレブ・タンギタウ"
 name_en: "Caleb TANGITAU"
 position: "WTB"
 team: "オタゴ・ハイランダーズ"

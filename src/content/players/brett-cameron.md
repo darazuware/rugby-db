@@ -1,5 +1,5 @@
 ---
-title: "ブレット-キャメロン"
+title: "ブレット・キャメロン"
 name_en: "Brett CAMERON"
 position: "SO"
 team: "ウェリントン・ハリケーンズ"

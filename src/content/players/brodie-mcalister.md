@@ -1,5 +1,5 @@
 ---
-title: "ブロディー-マカリスター"
+title: "ブロディー・マカリスター"
 name_en: "Brodie MCALISTER"
 position: "HO"
 team: "ワイカト・チーフス"

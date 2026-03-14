@@ -1,5 +1,5 @@
 ---
-title: "アンガス-スコット＝ヤング"
+title: "アンガス・スコット＝ヤング"
 name_en: "Angus SCOTT-YOUNG"
 position: "FL/No8"
 team: "NSWワラタス（ワラターズ）"

@@ -1,5 +1,5 @@
 ---
-title: "ヴィリヴェ-ミラミラ"
+title: "ヴィリヴェ・ミラミラ"
 name_en: "Vilive MIRAMIRA"
 position: "FL/No8"
 team: "フィジアン・ドゥルア"

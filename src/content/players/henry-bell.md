@@ -1,5 +1,5 @@
 ---
-title: "ヘンリー-ベル"
+title: "ヘンリー・ベル"
 name_en: "Henry BELL"
 position: "HO"
 team: "オタゴ・ハイランダーズ"

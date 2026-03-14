@@ -1,5 +1,5 @@
 ---
-title: "ベン-ドナルドソン"
+title: "ベン・ドナルドソン"
 name_en: "Ben DONALDSON"
 position: "SO"
 team: "ウェスタン・フォース"

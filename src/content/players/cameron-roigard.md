@@ -1,5 +1,5 @@
 ---
-title: "カム-ロイガード"
+title: "カム・ロイガード"
 name_en: "Cam ROIGARD"
 position: "SH"
 team: "ウェリントン・ハリケーンズ"

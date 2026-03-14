@@ -1,5 +1,5 @@
 ---
-title: "ダーシー-スウェイン"
+title: "ダーシー・スウェイン"
 name_en: "Darcy SWAIN"
 position: "LO"
 team: "ウェスタン・フォース"

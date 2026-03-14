@@ -1,5 +1,5 @@
 ---
-title: "ジェイク-ゴードン"
+title: "ジェイク・ゴードン"
 name_en: "Jake GORDON"
 position: "SH"
 team: "NSWワラタス（ワラターズ）"

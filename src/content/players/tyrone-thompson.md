@@ -1,5 +1,5 @@
 ---
-title: "タイローン-トンプソン"
+title: "タイローン・トンプソン"
 name_en: "Tyrone THOMPSON"
 position: "HO"
 team: "ワイカト・チーフス"

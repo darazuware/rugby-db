@@ -1,5 +1,5 @@
 ---
-title: "キティオネ-サラワ・ジュニア"
+title: "キティオネ・サラワ・ジュニア"
 name_en: "Kitione SALAWA JR"
 position: "FL/No8"
 team: "フィジアン・ドゥルア"

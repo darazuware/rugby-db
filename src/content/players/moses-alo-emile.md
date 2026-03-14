@@ -1,5 +1,5 @@
 ---
-title: "Moses ALO-EMILE"
+title: "Moses ALO・EMILE"
 name_en: "Moses ALO-EMILE"
 position: "PR"
 team: "スタッド・フランセ"

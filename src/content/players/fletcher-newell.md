@@ -1,5 +1,5 @@
 ---
-title: "フレッチャー-ニューウェル"
+title: "フレッチャー・ニューウェル"
 name_en: "Fletcher NEWELL"
 position: "PR"
 team: "カンタベリー・クルセイダーズ"
