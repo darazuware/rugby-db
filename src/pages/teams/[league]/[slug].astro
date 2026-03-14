@@ -9,20 +9,13 @@ import teamNamesJp from "../../../../data/team_names_jp.json";
 import teamsData from "../../../../data/teams.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 
-export async function getStaticPaths() {
-    return teamsData.map((team: any) => ({
-        params: {
-            league: team.league,
-            slug: team.slug,
-        },
-        props: {
-            team: team,
-            league: team.league,
-        },
-    }));
-}
+const { league: leagueParam, slug } = Astro.params;
+const team = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
 
-const { team, league } = Astro.props;
+if (!team) {
+    return Astro.redirect("/404");
+}
+const league = team.league;
 
 // チーム情報のマッピングを取得する共通関数
 const getTeamMapping = (teamName: string) => {

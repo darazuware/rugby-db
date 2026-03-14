@@ -4,24 +4,15 @@ import Layout from "../../layouts/Layout.astro";
 import PlayerList from "../../components/PlayerList";
 import teamsData from "../../../data/teams.json";
 
-export async function getStaticPaths() {
-    return [
-        {
-            params: { league: "league-one" },
-            props: { title: "LEAGUE ONE 選手名鑑" },
-        },
-        {
-            params: { league: "super-rugby" },
-            props: { title: "SUPER RUGBY 選手名鑑" },
-        },
-        { params: { league: "top14" }, props: { title: "TOP 14 選手名鑑" } },
-    ];
-}
-
 const { league } = Astro.params;
-const { title } = Astro.props;
+const LEAGUE_TITLE_MAP: Record<string, string> = {
+  "league-one": "LEAGUE ONE 選手名鑑",
+  "super-rugby": "SUPER RUGBY 選手名鑑",
+  "top14": "TOP 14 選手名鑑",
+};
+const title = LEAGUE_TITLE_MAP[league as string] || "ラグビー選手名鑑";
 
-if (!league) {
+if (!league || !LEAGUE_TITLE_MAP[league as string]) {
     return Astro.redirect("/404");
 }
 

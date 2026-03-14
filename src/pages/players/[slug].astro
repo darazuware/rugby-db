@@ -4,15 +4,14 @@ import { getCollection } from "astro:content";
 import { getTeamSlug } from "../../utils/team_utils";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 
-export async function getStaticPaths() {
-  const players = await getCollection("players");
-  return players.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
-}
+import { getEntry } from "astro:content";
 
-const { entry } = Astro.props;
+const { slug } = Astro.params;
+const entry = await getEntry("players", slug as string);
+
+if (!entry) {
+  return Astro.redirect("/404");
+}
 const { Content } = await entry.render();
 const isLeagueOne =
   entry.data.league === "league-one" || entry.data.league === "leagueone";
