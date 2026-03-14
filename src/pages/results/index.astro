@@ -64,8 +64,16 @@ const normalizeTeam = (leagueId: string, name: string) => {
 
 // Round ごとにグルーピングし、重複排除する関数
 const groupByRound = (leagueId: string, results: any[]) => {
+    // 0. 不要なゴミデータの除去 (リーグ戦、準々、準決などの非チーム名)
+    const filteredResults = results.filter(r => {
+        const home = r.home || "";
+        const away = r.away || "";
+        const garbage = ["リーグ戦", "準々", "準決", "決勝", "決定戦", "入替戦", "TBD"];
+        return !garbage.some(g => home.includes(g) || away.includes(g));
+    });
+
     // 1. データの正規化と初期収集
-    const allEnhancedResults = results.map(r => {
+    const allEnhancedResults = filteredResults.map(r => {
         const normHome = normalizeTeam(leagueId, r.home);
         const normAway = normalizeTeam(leagueId, r.away);
         const sortedTeams = [normHome.name, normAway.name].sort();
