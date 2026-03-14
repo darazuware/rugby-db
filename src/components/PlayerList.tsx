@@ -566,16 +566,16 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         {isLeagueOneSelected && (
                             <div className="col-span-1 md:col-span-2 lg:col-span-4">
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                                    <div className="space-y-3">
+                                    <div className="space-y-4">
                                         <label className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] flex items-center gap-2">
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Division
                                         </label>
-                                        <div className="flex flex-wrap gap-2">
+                                        <div className="flex flex-wrap gap-2 sm:gap-3">
                                             <button
                                                 onClick={() => setSelectedDivisions([])}
-                                                className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.length === 0
-                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20"
+                                                className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.length === 0
+                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20 scale-105"
                                                     : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                     }`}
                                             >
@@ -591,8 +591,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                                 : [...prev, div.id]
                                                         )
                                                     }
-                                                    className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
-                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                    className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedDivisions.includes(div.id)
+                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200 scale-105"
                                                         : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                         }`}
                                                 >
@@ -602,16 +602,16 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                         </div>
                                     </div>
 
-                                    <div className="space-y-3">
+                                    <div className="space-y-4">
                                         <label className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] flex items-center gap-2">
                                             <span className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></span>
                                             Category
                                         </label>
-                                        <div className="flex flex-wrap gap-2">
+                                        <div className="flex flex-wrap gap-2 sm:gap-3">
                                             <button
                                                 onClick={() => setSelectedCategories([])}
-                                                className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.length === 0
-                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20"
+                                                className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.length === 0
+                                                    ? "bg-foreground border-foreground text-background shadow-lg shadow-foreground/20 scale-105"
                                                     : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                     }`}
                                             >
@@ -627,8 +627,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                                                 : [...prev, cat.id]
                                                         )
                                                     }
-                                                    className={`px-4 py-2 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
-                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200"
+                                                    className={`px-5 py-2.5 rounded-xl text-xs font-black transition-all border-2 ${selectedCategories.includes(cat.id)
+                                                        ? "bg-gray-900 border-gray-900 text-white shadow-lg shadow-gray-200 scale-105"
                                                         : "bg-card border-border-dim text-foreground/40 hover:border-border-dim/80"
                                                         }`}
                                                 >
