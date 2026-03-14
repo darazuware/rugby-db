@@ -86,9 +86,9 @@ interface Props {
 
 const POSITIONS = ['PR', 'HO', 'LO', 'FL', 'No8', 'SH', 'SO', 'WTB', 'CTB', 'FB'];
 const DIVISIONS = [
-    { id: 'Division 1', name: 'Division 1' },
-    { id: 'Division 2', name: 'Division 2' },
-    { id: 'Division 3', name: 'Division 3' }
+    { id: 'D1', name: 'D1' },
+    { id: 'D2', name: 'D2' },
+    { id: 'D3', name: 'D3' }
 ];
 const CATEGORIES = [
     { id: 'カテゴリーA', name: 'カテゴリーA' },
@@ -317,8 +317,11 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             const pLeague = (p.data.league ?? '').toLowerCase();
             const matchLeague = selectedLeagues.length === 0 || selectedLeagues.some(l => l.toLowerCase() === pLeague);
 
-            const pDivision = (p.data.division ?? '').toLowerCase();
-            const matchDivision = selectedDivisions.length === 0 || selectedDivisions.some(d => d.toLowerCase() === pDivision);
+            const pDivision = (p.data.division ?? '').toUpperCase();
+            const matchDivision = selectedDivisions.length === 0 || selectedDivisions.some(d => {
+                const ud = d.toUpperCase();
+                return pDivision === ud || pDivision === `DIVISION ${ud.replace('D', '')}` || ud === `DIVISION ${pDivision.replace('D', '')}`;
+            });
             const matchCategory = selectedCategories.length === 0 || selectedCategories.includes(p.data.category ?? '');
             const matchTeam = selectedTeams.length === 0 || (p.data.team && selectedTeams.includes(p.data.team));
 

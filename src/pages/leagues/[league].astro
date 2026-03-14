@@ -23,14 +23,15 @@ const allPlayersRaw = await getCollection("players");
 const teamToDivision: Record<string, string> = {};
 (teamsData as any[]).forEach((t: any) => {
     if (t.team_name && t.division) {
-        teamToDivision[t.team_name] = t.division;
+        teamToDivision[t.team_name.trim()] = t.division.trim();
     }
 });
 
 // Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
 const initialPlayers = allPlayersRaw.map((p) => {
+    const normalizedTeamName = p.data.team?.trim() || "";
     const division =
-        (p.data.team ? teamToDivision[p.data.team] : "") ||
+        (normalizedTeamName ? teamToDivision[normalizedTeamName] : "") ||
         p.data.division ||
         "";
     return {

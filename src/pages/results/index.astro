@@ -153,7 +153,11 @@ const groupByRound = (leagueId: string, results: any[]) => {
 const getLeagueResults = (league: any) => {
     let results = [];
     if (league.parentId === "league-one") {
-        results = (resultsData as any)["league-one"]?.filter((r: any) => r.division === league.division) || [];
+        const targetDiv = league.division; // "D1", "D2", "D3"
+        results = (resultsData as any)["league-one"]?.filter((r: any) => {
+            const rDiv = r.division || "";
+            return rDiv === targetDiv || rDiv === `Division ${targetDiv.replace('D', '')}`;
+        }) || [];
     } else {
         results = (resultsData as any)[league.id] || [];
     }
