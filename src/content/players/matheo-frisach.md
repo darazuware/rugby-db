@@ -1,10 +1,10 @@
 ---
-title: "Mathéo FRISACH"
+title: "マテオ・フリザック"
 name_en: "Mathéo FRISACH"
 position: "PR"
 team: "クレルモン"
-height: "191"
-weight: "127"
+height: "191.0"
+weight: "127.0"
 birth_date: "//2006"
 age: null
 high_school: ""

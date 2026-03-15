@@ -1,10 +1,10 @@
 ---
-title: "Bobby BISSU"
+title: "ボビー・ビス"
 name_en: "Bobby BISSU"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "189"
-weight: "110"
+height: "189.0"
+weight: "110.0"
 birth_date: "//2006"
 age: null
 high_school: ""

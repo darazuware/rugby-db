@@ -1,10 +1,10 @@
 ---
-title: "Timéo FRIER"
+title: "ティメオ・フリエ"
 name_en: "Timéo FRIER"
 position: "CTB"
 team: "クレルモン"
-height: "188"
-weight: "95"
+height: "188.0"
+weight: "95.0"
 birth_date: "//2007"
 age: null
 high_school: ""

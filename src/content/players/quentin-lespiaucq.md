@@ -1,26 +1,26 @@
 ---
-title: "Quentin LESPIAUCQ"
+title: "カンタン・レスピアック"
 name_en: "Quentin LESPIAUCQ"
 position: "HO"
 team: "ラ・ロシェル"
-height: "180"
-weight: "102"
+height: "180.0"
+weight: "102.0"
 birth_date: "1995.02.16"
 age: 31
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Française"
+nationality: "Française"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/quentin_lepioc"
+twitter: "https://www.twitter.com/quentin_lepioc"
+facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Mugron (2004 - 2010)

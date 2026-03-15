@@ -1,10 +1,10 @@
 ---
-title: "Sireli MAQALA"
+title: "シレリ・マカラ"
 name_en: "Sireli MAQALA"
 position: "CTB"
 team: "バイヨンヌ"
-height: "172"
-weight: "88"
+height: "172.0"
+weight: "88.0"
 birth_date: "2000.03.20"
 age: 25
 high_school: ""

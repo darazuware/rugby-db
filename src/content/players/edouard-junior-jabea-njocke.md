@@ -1,10 +1,10 @@
 ---
-title: "Édouard・Junior JABEA NJOCKE"
+title: "エドゥアール＝ジュニア・ジャベア・ニョッケ"
 name_en: "Édouard-Junior JABEA NJOCKE"
 position: "PR"
 team: "ラシン92"
-height: "180"
-weight: "118"
+height: "180.0"
+weight: "118.0"
 birth_date: "//2006"
 age: null
 high_school: ""

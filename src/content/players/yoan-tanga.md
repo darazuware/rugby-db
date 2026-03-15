@@ -1,10 +1,10 @@
 ---
-title: "Yoan TANGA"
+title: "ヨアン・タンガ"
 name_en: "Yoan TANGA"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "185"
-weight: "109"
+height: "185.0"
+weight: "109.0"
 birth_date: "1996.11.29"
 age: 29
 high_school: ""
@@ -18,15 +18,15 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/yoantanga/"
+twitter: "https://x.com/yoantanga"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Tremblay-en-France (2010 - 2012)
 - Terres de France Rugby (2012 - 2013)
-- 🇫🇷 [カストル](/teams/top14/castres) (2013 - 2017)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2013 - 2017)
 - Sporting Union Agenais (2017 - 2019)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- Stade Français Paris Rugby (2024 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

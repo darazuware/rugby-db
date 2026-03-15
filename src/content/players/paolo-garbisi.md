@@ -1,10 +1,10 @@
 ---
-title: "Paolo GARBISI"
+title: "パオロ・ガルビシ"
 name_en: "Paolo GARBISI"
 position: "SO"
 team: "トゥーロン"
-height: "184"
-weight: "97"
+height: "184.0"
+weight: "97.0"
 birth_date: "2000.04.26"
 age: 25
 high_school: ""
@@ -12,19 +12,19 @@ university: ""
 caps: "Italy"
 league_one_caps: "0"
 country: "Italy"
-nationality: ""
+nationality: "Italie"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/rctofficiel/#"
+twitter: "https://x.com/RCTofficiel"
+facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Mogliano Veneto Rugby (2018 - 2019)
 - Petrarca Rugby (2019 - 2020)
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2019 - 2021)
+- ベネットン (2019 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
-- Rugby Club Toulonnais (2023 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )

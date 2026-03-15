@@ -1,26 +1,26 @@
 ---
-title: "Antoine AUCAGNE"
+title: "アントワーヌ・オカーニュ"
 name_en: "Antoine AUCAGNE"
 position: "SO"
 team: "ペルピニャン"
-height: "184"
-weight: "80"
+height: "184.0"
+weight: "80.0"
 birth_date: "2000.04.11"
 age: 25
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Vichy (2013 - 2019)

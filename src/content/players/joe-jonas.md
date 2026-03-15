@@ -1,10 +1,10 @@
 ---
-title: "Joe JONAS"
+title: "ジョー・ジョナス"
 name_en: "Joe JONAS"
 position: "FB"
 team: "スタッド・フランセ"
-height: "180"
-weight: "90"
+height: "180.0"
+weight: "90.0"
 birth_date: "2000.12.31"
 age: 25
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/joe__jonas15/"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Biarritz Olympique Pays Basque (2020 - 2024)
-- Stade Français Paris Rugby (2024 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

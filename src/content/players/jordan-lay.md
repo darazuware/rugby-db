@@ -3,8 +3,8 @@ title: "ジョーダン・レイ"
 name_en: "Jordan LAY"
 position: "PR"
 team: "オークランド・ブルーズ"
-height: "185"
-weight: "115"
+height: "185.0"
+weight: "115.0"
 birth_date: "1992.11.05"
 age: 33
 high_school: ""
@@ -25,7 +25,7 @@ facebook: ""
 
 - Edimbourg Rugby (2017 - 2018)
 - ブリストル・ベアーズ (2018 - 2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 オスプリーズ (2018 - 2021)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2018 - 2021)
 - ベイ・オブ・プレンティ (2019 - 2020)
 - オークランド (2020 - 2024)
 - ブルーズ (2021 - 2026)

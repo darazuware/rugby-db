@@ -1,10 +1,10 @@
 ---
-title: "Arnaud ERBINARTEGARAY"
+title: "アルノー・エルビナルテガライ"
 name_en: "Arnaud ERBINARTEGARAY"
 position: "WTB"
 team: "バイヨンヌ"
-height: "185"
-weight: "89"
+height: "185.0"
+weight: "89.0"
 birth_date: "2000.09.16"
 age: 25
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Sergo ABRAMISHVILI"
+title: "セルゴ・アブラミシュヴィリ"
 name_en: "Sergo ABRAMISHVILI"
 position: "PR"
 team: "スタッド・フランセ"
-height: "184"
-weight: "112"
+height: "184.0"
+weight: "112.0"
 birth_date: "2003.11.20"
 age: 22
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2021
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Khvamli Rugby (2020 - 2021)
-- Stade Français Paris Rugby (2021 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - )

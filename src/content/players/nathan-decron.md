@@ -1,10 +1,10 @@
 ---
-title: "Nathan DECRON"
+title: "ナタン・ドゥクロン"
 name_en: "Nathan DECRON"
 position: "CTB"
 team: "ポー"
-height: "184"
-weight: "96"
+height: "184.0"
+weight: "96.0"
 birth_date: "1998.02.17"
 age: 28
 high_school: ""

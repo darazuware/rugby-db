@@ -1,0 +1,30 @@
+---
+title: "Rory ・ DARGE"
+name_en: "Rory DARGE"
+position: "Back row"
+team: "グラスゴー・ウォリアーズ"
+height: "186.0"
+weight: "102.0"
+birth_date: "2000.02.23"
+age: 26
+high_school: ""
+university: ""
+caps: "Scotland"
+league_one_caps: "0"
+country: "Scotland"
+nationality: ""
+category: ""
+division: ""
+league: "urc"
+joined_year: 2021
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Southern Knights (2019 - 2020)
+- Edimbourg Rugby (2020)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020)
+- Edimbourg Rugby (2021)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2021 - )

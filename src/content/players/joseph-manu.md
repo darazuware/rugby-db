@@ -1,10 +1,10 @@
 ---
-title: "Joey MANU"
+title: "ジョーイー・マヌ"
 name_en: "Joey MANU"
 position: "CTB"
 team: "ラシン92"
-height: "192"
-weight: "102"
+height: "192.0"
+weight: "102.0"
 birth_date: "1996.06.29"
 age: 29
 high_school: ""

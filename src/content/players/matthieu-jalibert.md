@@ -1,10 +1,10 @@
 ---
-title: "Matthieu JALIBERT"
+title: "マチュー・ジャリベール"
 name_en: "Matthieu JALIBERT"
 position: "SO"
 team: "ボルドー・ベグル"
-height: "184"
-weight: "86"
+height: "184.0"
+weight: "86.0"
 birth_date: "1998.11.06"
 age: 27
 high_school: ""

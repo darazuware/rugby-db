@@ -1,10 +1,10 @@
 ---
-title: "Youri DELHOMMEL"
+title: "ユーリ・デロンメル"
 name_en: "Youri DELHOMMEL"
 position: "HO"
 team: "ポー"
-height: "181"
-weight: "101"
+height: "181.0"
+weight: "101.0"
 birth_date: "1996.03.06"
 age: 30
 high_school: ""

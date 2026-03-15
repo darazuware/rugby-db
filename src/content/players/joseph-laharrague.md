@@ -1,10 +1,10 @@
 ---
-title: "Joseph LAHARRAGUE"
+title: "ジョセフ・ラハラーグ"
 name_en: "Joseph LAHARRAGUE"
 position: "SO"
 team: "ボルドー・ベグル"
-height: "183"
-weight: "80"
+height: "183.0"
+weight: "80.0"
 birth_date: "//2006"
 age: null
 high_school: ""

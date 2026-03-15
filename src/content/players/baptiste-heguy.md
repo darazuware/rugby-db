@@ -1,10 +1,10 @@
 ---
-title: "Baptiste HÉGUY"
+title: "バティスト・エギ"
 name_en: "Baptiste HÉGUY"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "196"
-weight: "108"
+height: "196.0"
+weight: "108.0"
 birth_date: "1998.05.11"
 age: 27
 high_school: ""

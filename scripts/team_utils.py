@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import unicodedata
 
 # チーム名からスラッグとリーグを特定するためのマッピング
 # 本来は JSON から読み込むのが理想的だが、まずは主要なものをハードコードし、
@@ -56,32 +57,39 @@ for league, teams in TEAM_NAMES_JP.items():
     
     for en_name, data in teams.items():
         # 英語名ベースのスラッグ生成
-        slug = en_name.lower()
-        slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
-        # 特殊な固有名詞や既存のスラッグがある場合はそちらを優先
-        if en_name == "Racing 92": slug = "racing-92"
-        if en_name == "Stade Français Paris": slug = "paris"
-        if "Benetton" in en_name: slug = "benetton"
-        if "Toulousain" in en_name: slug = "toulouse"
-        if "Rochelais" in en_name: slug = "la-rochelle"
-        if "Bordeaux" in en_name: slug = "bordeaux"
-        if "Toulonnais" in en_name: slug = "toulon"
-        if "Paloise" in en_name: slug = "pau"
-        if "Clermont" in en_name: slug = "clermont"
-        if "Highlanders" in en_name: slug = "highlanders"
-        if "Hurricanes" in en_name: slug = "hurricanes"
-        if "Crusaders" in en_name: slug = "crusaders"
-        if "Chiefs" in en_name: slug = "chiefs"
-        if "Blues" in en_name: slug = "blues"
-        if "Ospreys" in en_name: slug = "ospreys"
-        if "Montpellier" in en_name: slug = "montpellier"
-        if "Lyon" in en_name: slug = "lyon"
-        if "Racing 92" in en_name: slug = "racing-92"
-        if "Stade Français" in en_name: slug = "paris"
-        if "Castres" in en_name: slug = "castres"
-        if "Perpignan" in en_name: slug = "perpignan"
-        if "Bayonne" in en_name: slug = "bayonne"
-        if "Vannes" in en_name: slug = "vannes"
+        def slugify_canonical(text):
+            if not text: return ""
+            # Normalize unicode to remove accents
+            text = unicodedata.normalize('NFD', str(text)).encode('ascii', 'ignore').decode('utf-8')
+            text = text.lower()
+            text = re.sub(r'[^a-z0-9]+', '-', text).strip('-')
+            # Overrides for consistency
+            overrides = {
+                "racing-92": "racing-92",
+                "stade-francais": "paris",
+                "toulousain": "toulouse",
+                "rochelais": "la-rochelle",
+                "bordeaux": "bordeaux",
+                "toulonnais": "toulon",
+                "paloise": "pau",
+                "clermont": "clermont",
+                "montpellier": "montpellier",
+                "highlanders": "highlanders",
+                "hurricanes": "hurricanes",
+                "crusaders": "crusaders",
+                "chiefs": "chiefs",
+                "blues": "blues",
+                "red-hurricanes": "hurricanes",
+                "wild-knights": "saitama-panasonic-wild-knights",
+                "sungoliath": "tokyo-suntory-sungoliath",
+                "brave-lupus": "toshiba-brave-lupus-tokyo",
+                "verblitz": "toyota-verblitz"
+            }
+            for k, v in overrides.items():
+                if k in text: return v
+            return text
+
+        slug = slugify_canonical(en_name)
         
         div = get_division_from_teams(data['jp'])
         mapping_data = {
@@ -103,8 +111,6 @@ for league, teams in TEAM_NAMES_JP.items():
         if "（" in data['jp']:
             short_jp = data['jp'].split('（')[0]
             TEAM_MAPPING[short_jp] = mapping_data
-
-TEAM_INFO_CACHE = {}
 
 TEAM_INFO_CACHE = {}
 
@@ -137,10 +143,10 @@ def get_team_info(team_name):
     return None
 
 def get_team_link(team_name, include_flag=False):
-    """チーム名を Markdown リンクに変換する。日本語名を優先表示。URCは除外。include_flag=Trueで国旗を付与"""
+    """チーム名を Markdown リンクに変換する。日本語名を優先表示。include_flag=Trueで国旗を付与"""
     info = get_team_info(team_name)
     if info:
-        # URC や Rebels (活動休止) はリンクしない
+        # Rebels (活動休止) はリンクしない
         display_name = info.get('jp', team_name)
         
         # 国旗の付与
@@ -152,7 +158,7 @@ def get_team_link(team_name, include_flag=False):
         if info.get('league') == 'league-one' and info.get('division'):
             div_suffix = f" [{info['division']}]"
             
-        if info.get('league') == 'urc' or info.get('slug') == 'melbourne-rebels':
+        if info.get('slug') == 'melbourne-rebels':
             return f"{prefix}{display_name}{div_suffix}"
             
         return f"{prefix}[{display_name}](/teams/{info['league']}/{info['slug']}){div_suffix}"

@@ -1,10 +1,10 @@
 ---
-title: "Iakopo MAPU"
+title: "イアコポ・マプ"
 name_en: "Iakopo MAPU"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "183"
-weight: "106"
+height: "183.0"
+weight: "106.0"
 birth_date: "1997.11.04"
 age: 28
 high_school: ""
@@ -18,11 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/iaks_mapu/?hl=fr"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Kia Toa (2023 - 2024)
-- Northampton Saints (2024 - 2025)
-- Stade Français Paris Rugby (2025 - )
+- ノーサンプトン・セインツ (2024 - 2025)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )

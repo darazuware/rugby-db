@@ -1,10 +1,10 @@
 ---
-title: "Barnabé MASSA"
+title: "バルナベ・マッサ"
 name_en: "Barnabé MASSA"
 position: "HO"
 team: "クレルモン"
-height: "180"
-weight: "103"
+height: "180.0"
+weight: "103.0"
 birth_date: "//2004"
 age: null
 high_school: ""

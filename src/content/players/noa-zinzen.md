@@ -1,10 +1,10 @@
 ---
-title: "Noa ZINZEN"
+title: "ノア・ジンゼン"
 name_en: "Noa ZINZEN"
 position: "FL/NO8"
 team: "ラシン92"
-height: "192"
-weight: "103"
+height: "192.0"
+weight: "103.0"
 birth_date: "2004.02.24"
 age: 22
 high_school: ""

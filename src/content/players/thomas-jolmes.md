@@ -1,10 +1,10 @@
 ---
-title: "Thomas JOLMÈS"
+title: "トマ・ジョルメス"
 name_en: "Thomas JOLMÈS"
 position: "LO"
 team: "ポー"
-height: "204"
-weight: "127"
+height: "204.0"
+weight: "127.0"
 birth_date: "1995.10.08"
 age: 30
 high_school: ""
@@ -26,6 +26,6 @@ facebook: ""
 - Seyssins (2005 - 2009)
 - FC Grenoble Rugby (2009 - 2017)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2020)
-- Rugby Club Toulonnais (2020 - 2021)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - 2021)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2024)
 - Section Paloise Béarn Pyrénées (2024 - )

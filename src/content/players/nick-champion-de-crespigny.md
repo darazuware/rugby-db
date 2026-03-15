@@ -3,8 +3,8 @@ title: "ニック・チャンピオン・デ・クレスピニー"
 name_en: "Nick CHAMPION DE CRESPIGNY"
 position: "FL/No8"
 team: "ウェスタン・フォース"
-height: "193"
-weight: "110"
+height: "193.0"
+weight: "110.0"
 birth_date: "1996.06.27"
 age: 29
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - New South Wales Country Eagles (2017 - 2019)
-- 🇫🇷 [カストル](/teams/top14/castres) (2021 - 2024)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2021 - 2024)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )

@@ -1,10 +1,10 @@
 ---
-title: "Gabriel N'GANDEBE"
+title: "ガブリエル・ンガンデベ"
 name_en: "Gabriel N'GANDEBE"
 position: "WTB"
 team: "モンペリエ"
-height: "174"
-weight: "77"
+height: "174.0"
+weight: "77.0"
 birth_date: "1997.03.30"
 age: 28
 high_school: ""

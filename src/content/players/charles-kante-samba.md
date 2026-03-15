@@ -1,10 +1,10 @@
 ---
-title: "Charles KANTÉ・SAMBA"
+title: "シャルル・カンテ＝サンバ"
 name_en: "Charles KANTÉ-SAMBA"
 position: "LO"
 team: "ラ・ロシェル"
-height: "200"
-weight: "115"
+height: "200.0"
+weight: "115.0"
 birth_date: "//2005"
 age: null
 high_school: ""

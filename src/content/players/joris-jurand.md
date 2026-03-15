@@ -1,10 +1,10 @@
 ---
-title: "Joris JURAND"
+title: "ジョリス・ジュラン"
 name_en: "Joris JURAND"
 position: "WTB"
 team: "クレルモン"
-height: "188"
-weight: "106"
+height: "188.0"
+weight: "106.0"
 birth_date: "1995.11.11"
 age: 30
 high_school: ""
@@ -28,5 +28,5 @@ facebook: ""
 - Rugby Club Châteaurenard (2007 - 2015)
 - Provence Rugby (2015 - 2018)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2019)
-- CA Brive Corrèze Limousin (2018 - 2023)
+- ブリーヴ (2018 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

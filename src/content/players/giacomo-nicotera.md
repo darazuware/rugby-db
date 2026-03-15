@@ -1,10 +1,10 @@
 ---
-title: "Giacomo NICOTERA"
+title: "ジャコモ・ニコテラ"
 name_en: "Giacomo NICOTERA"
 position: "HO"
 team: "スタッド・フランセ"
-height: "183"
-weight: "108"
+height: "183.0"
+weight: "108.0"
 birth_date: "1996.07.15"
 age: 29
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/the_mulo_triestin/?hl=fr"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- 🇮🇹 ベネットン・ラグビー・トレヴィーゾ (2020 - 2024)
-- Stade Français Paris Rugby (2024 - )
+- ベネットン (2020 - 2024)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )

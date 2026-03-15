@@ -1,10 +1,10 @@
 ---
-title: "Kylan HAMDAOUI"
+title: "キラン・ハムダウィ"
 name_en: "Kylan HAMDAOUI"
 position: "FB"
 team: "クレルモン"
-height: "182"
-weight: "91"
+height: "182.0"
+weight: "91.0"
 birth_date: "1994.04.15"
 age: 31
 high_school: ""
@@ -26,4 +26,4 @@ facebook: ""
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2005 - 2012)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2026)
 - Biarritz Olympique Pays Basque (2014 - 2018)
-- Stade Français Paris Rugby (2018 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

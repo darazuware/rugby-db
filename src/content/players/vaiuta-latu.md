@@ -4,7 +4,7 @@ name_en: "Vaiuta LATU"
 position: "FL/No8"
 team: "クイーンズランド・レッズ"
 height: ""
-weight: "116"
+weight: "116.0"
 birth_date: "2005.."
 age: 21
 high_school: ""

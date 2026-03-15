@@ -1,10 +1,10 @@
 ---
-title: "Etienne FOURCADE"
+title: "エティエンヌ・フルカード"
 name_en: "Etienne FOURCADE"
 position: "HO"
 team: "クレルモン"
-height: "180"
-weight: "103"
+height: "180.0"
+weight: "103.0"
 birth_date: "1997.04.11"
 age: 28
 high_school: ""

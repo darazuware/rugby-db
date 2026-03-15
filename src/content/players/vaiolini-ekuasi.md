@@ -4,7 +4,7 @@ name_en: "Vaiolini EKUASI"
 position: "FL/No8"
 team: "ウェスタン・フォース"
 height: ""
-weight: "107"
+weight: "107.0"
 birth_date: "2001.10.11"
 age: 24
 high_school: ""

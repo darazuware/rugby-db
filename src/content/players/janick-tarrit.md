@@ -1,10 +1,10 @@
 ---
-title: "Janick TARRIT"
+title: "ジャニック・タリット"
 name_en: "Janick TARRIT"
 position: "HO"
 team: "ラシン92"
-height: "183"
-weight: "108"
+height: "183.0"
+weight: "108.0"
 birth_date: "1998.10.29"
 age: 27
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/janicktarrit/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Belleville RC (2004 - 2016)

@@ -1,0 +1,26 @@
+---
+title: "アミニアシ ・ショー"
+name_en: "Aminiasi Shaw"
+position: "FL/No8"
+team: "横浜キヤノンイーグルス"
+height: "185.0"
+weight: "107.0"
+birth_date: "2000.03.13"
+age: 26
+high_school: "マリストブラザーズ高高校"
+university: "摂南大学"
+caps: ""
+league_one_caps: "1"
+country: ""
+nationality: ""
+category: "カテゴリーA"
+division: "D1"
+league: "league-one"
+joined_year: null
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Not Found

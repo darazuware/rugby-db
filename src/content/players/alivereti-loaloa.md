@@ -1,10 +1,10 @@
 ---
-title: "Alivereti LOALOA"
+title: "アリヴェレティ・ロアロア"
 name_en: "Alivereti LOALOA"
 position: "CTB"
 team: "クレルモン"
-height: "182"
-weight: "104"
+height: "182.0"
+weight: "104.0"
 birth_date: "2000.12.10"
 age: 25
 high_school: ""

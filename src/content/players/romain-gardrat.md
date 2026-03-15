@@ -1,10 +1,10 @@
 ---
-title: "Romain GARDRAT"
+title: "ロマン・ガルド"
 name_en: "Romain GARDRAT"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "194"
-weight: "95"
+height: "194.0"
+weight: "95.0"
 birth_date: "2003.12.31"
 age: 22
 high_school: ""

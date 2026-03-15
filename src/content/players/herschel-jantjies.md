@@ -1,10 +1,10 @@
 ---
-title: "Herschel JANTJIES"
+title: "ハーシェル・ヤンキース"
 name_en: "Herschel JANTJIES"
 position: "SH"
 team: "バイヨンヌ"
-height: "167"
-weight: "77"
+height: "167.0"
+weight: "77.0"
 birth_date: "1996.04.22"
 age: 29
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2017 - 2018)
-- 🇿🇦 DHLストーマーズ (2017 - 2025)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2017 - 2018)
+- ストーマーズ (2017 - 2025)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

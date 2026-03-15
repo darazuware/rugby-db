@@ -1,10 +1,10 @@
 ---
-title: "Jonny HILL"
+title: "ジョニー・ヒル"
 name_en: "Jonny HILL"
 position: "LO"
 team: "ラシン92"
-height: "202"
-weight: "133"
+height: "202.0"
+weight: "133.0"
 birth_date: "1994.06.08"
 age: 31
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2015 - 2022)
+- エクセター・チーフス (2015 - 2022)
 - Sale Sharks (2022 - 2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

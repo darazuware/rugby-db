@@ -1,10 +1,10 @@
 ---
-title: "Thomas LAINAULT"
+title: "トマ・レノー"
 name_en: "Thomas LAINAULT"
 position: "LO"
 team: "ラシン92"
-height: "197"
-weight: "114"
+height: "197.0"
+weight: "114.0"
 birth_date: "1993.12.28"
 age: 32
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/lainaultthomas/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2011 - 2016)

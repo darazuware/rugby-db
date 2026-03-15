@@ -1,10 +1,10 @@
 ---
-title: "Hugo PARROU"
+title: "ユーゴー・パルー"
 name_en: "Hugo PARROU"
 position: "PR"
 team: "ポー"
-height: "183"
-weight: "110"
+height: "183.0"
+weight: "110.0"
 birth_date: "2003.01.28"
 age: 23
 high_school: ""

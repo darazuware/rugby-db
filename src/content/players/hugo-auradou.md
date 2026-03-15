@@ -1,10 +1,10 @@
 ---
-title: "Hugo AURADOU"
+title: "ユーゴー・オーラドゥ"
 name_en: "Hugo AURADOU"
 position: "LO"
 team: "ポー"
-height: "200"
-weight: "105"
+height: "200.0"
+weight: "105.0"
 birth_date: "2003.07.20"
 age: 22
 high_school: ""

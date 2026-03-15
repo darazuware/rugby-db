@@ -1,10 +1,10 @@
 ---
-title: "Gael GALVÁN"
+title: "ガエル・ガルバン"
 name_en: "Gael GALVÁN"
 position: "PR"
 team: "ラ・ロシェル"
-height: "191"
-weight: "150"
+height: "191.0"
+weight: "150.0"
 birth_date: "//2005"
 age: null
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Andy TIMO"
+title: "アンディ・ティモ"
 name_en: "Andy TIMO"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "192"
-weight: "95"
+height: "192.0"
+weight: "95.0"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/andytimo8/"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rugby Club Massy Essonne (2014 - 2023)
-- Stade Français Paris Rugby (2023 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

@@ -1,10 +1,10 @@
 ---
-title: "Justo PICCARDO"
+title: "フスト・ピカルド"
 name_en: "Justo PICCARDO"
 position: "CTB"
 team: "モンペリエ"
-height: "183"
-weight: "112"
+height: "183.0"
+weight: "112.0"
 birth_date: "2002.03.25"
 age: 23
 high_school: ""

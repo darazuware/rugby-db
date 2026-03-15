@@ -1,10 +1,10 @@
 ---
-title: "Shingi MANYARARA"
+title: "シンジ・マニャララ"
 name_en: "Shingi MANYARARA"
 position: "FL/NO8"
 team: "ラシン92"
-height: "185"
-weight: "100"
+height: "185.0"
+weight: "100.0"
 birth_date: "2004.02.24"
 age: 22
 high_school: ""

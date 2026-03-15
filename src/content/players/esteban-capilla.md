@@ -1,10 +1,10 @@
 ---
-title: "Esteban CAPILLA"
+title: "エステバン・カピジャ"
 name_en: "Esteban CAPILLA"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "198"
-weight: "100"
+height: "198.0"
+weight: "100.0"
 birth_date: "2003.01.05"
 age: 23
 high_school: ""

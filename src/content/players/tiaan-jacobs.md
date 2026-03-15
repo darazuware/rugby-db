@@ -1,10 +1,10 @@
 ---
-title: "Tiaan JACOBS"
+title: "ティアン・ジェイコブス"
 name_en: "Tiaan JACOBS"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "193"
-weight: "107"
+height: "193.0"
+weight: "107.0"
 birth_date: "//2004"
 age: null
 high_school: ""

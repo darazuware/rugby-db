@@ -8,17 +8,53 @@ from team_utils import get_team_info
 
 def slugify(text):
     if not text: return ""
-    # アクセント除去
+    # 日本語（ひらがな、カタカナ、漢字）が含まれているかチェック
+    if any(unicodedata.name(c).startswith(('HIRAGANA', 'KATAKANA', 'CJK UNIFIED IDEOGRAPH')) for c in text if ' ' <= c <= '~' or ord(c) > 127):
+        # 日本語が含まれる場合は、slugify せず、呼び出し側での処理に任せる（または空を返す）
+        # ただし unicodedata.name は一部の文字でエラーになる可能性があるため慎重に
+        try:
+            for char in text:
+                name = unicodedata.name(char)
+                if any(x in name for x in ['HIRAGANA', 'KATAKANA', 'CJK UNIFIED']):
+                    return "" # 日本語が含まれる場合は空を返す
+        except:
+            pass
+
+    # アクセント除去 (NFD分解して結合文字を除く)
     text = unicodedata.normalize('NFD', text)
     text = "".join([c for c in text if not unicodedata.combining(c)])
-    # 英語名以外（日本語など）が残っている場合は、既存のマッピングに頼るべきだが、
-    # 最小限の処理として記号置換のみ行う
-    return text.lower().replace(' ', '-').replace("'", '').replace('&', 'and').replace('é', 'e').replace('è', 'e').strip('-')
+    # 記号置換
+    text = text.lower().replace(' ', '-').replace("'", '').replace('&', 'and')
+    # アルファベット、数字、ハイフン以外を除去
+    import re
+    text = re.sub(r'[^a-z0-9-]', '', text)
+    return text.strip('-')
 
 def extract_teams_from_csv(csv_path, league):
     teams = set()
     if not os.path.exists(csv_path):
         return []
+    
+    # リーグごとのデフォルト名マッピング（スラッグ生成に失敗した場合用）
+    # URC用の最低限のマッピング
+    fallback_slugs = {
+        "ドラゴンズ・ラグビー": "dragons",
+        "ルースターズ": "ulster",
+        "グラスゴー・ウォリアーズ": "glasgow",
+        "ヴォーダコム・ブルズ": "bulls",
+        "レンスター・ラグビー": "leinster",
+        "スカーレッツ": "scarlets",
+        "ゼブレ・パルマ": "zebre",
+        "マンスター・ラグビー": "munster",
+        "カーディフ・ラグビー": "cardiff",
+        "エディンバラ・ラグビー": "edinburgh",
+        "ベネットン・ラグビー": "benetton",
+        "オスプリーズ": "ospreys",
+        "DHLストーマーズ": "stormers",
+        "ハリウッドベッツ・シャークス": "sharks",
+        "エミレーツ・ライオンズ": "lions"
+    }
+
     with open(csv_path, mode='r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -35,7 +71,13 @@ def extract_teams_from_csv(csv_path, league):
                 "league": info['league']
             })
         else:
-            unique_teams.append({"team_name": t, "slug": slugify(t), "league": league})
+            slug = slugify(t)
+            if not slug and t in fallback_slugs:
+                slug = fallback_slugs[t]
+            if not slug:
+                # 最終的なフォールバック
+                slug = re.sub(r'[^a-z0-9-]+', '-', t.lower()).strip('-') # 記号だけ抜く
+            unique_teams.append({"team_name": t, "slug": slug, "league": league})
     return unique_teams
 
 def main():
@@ -69,29 +111,54 @@ def main():
     # Super Rugby
     all_teams.extend(extract_teams_from_csv('data_sources/super_rugby_full.csv', 'super-rugby'))
 
-    # URC (サイトには掲載しないため除外)
-    # all_teams.extend(extract_teams_from_csv('data_sources/urc_full.csv', 'urc'))
+    # URC
+    all_teams.extend(extract_teams_from_csv('data_sources/urc_full.csv', 'urc'))
+
+    # Top 14 チームの手動マッピング（アクセント記号問題を完全に回避）
+    top14_slug_map = {
+        "トゥールーズ": "toulouse",
+        "ボルドー・ベグル": "bordeaux",
+        "スタッド・フランセ": "paris",
+        "トゥーロン": "toulon",
+        "ラ・ロシェル": "la-rochelle",
+        "ラシン92": "racing-92",
+        "リヨン": "lyon",
+        "カストル": "castres",
+        "ポー": "pau",
+        "ペルピニャン": "perpignan",
+        "バイヨンヌ": "bayonne",
+        "クレルモン": "clermont",
+        "モンペリエ": "montpellier",
+        "ヴァンヌ": "vannes"
+    }
 
     # Top 14
     if os.path.exists('data/top14_teams.json'):
         with open('data/top14_teams.json', 'r', encoding='utf-8') as f:
             top14_raw = json.load(f)
             for t in top14_raw:
+                slug = t['slug']
+                # 手動マッピングがあれば上書き
+                if t['name_ja'] in top14_slug_map:
+                    slug = top14_slug_map[t['name_ja']]
+                
                 all_teams.append({
                     "team_name": t['name_ja'],
                     "team_en_name": t['name'],
-                    "slug": t['slug'],
+                    "slug": slug,
                     "league": "top14"
                 })
 
-    # 重複排除 (名前ベース)
-    seen = set()
+    # 重複排除 (名前 + リーグ + スラッグベース)
+    # 同じチーム名でもリーグやスラッグが違う場合は別物として扱う
     unique_teams = []
+    seen = set()
     for t in all_teams:
         league = t['league']
         if league == 'leagueone': league = 'league-one'
         
-        key = f"{league}-{t['team_name']}"
+        # キーにスラッグも含めることで、手動更新したものが正しく残るようにする
+        key = f"{league}-{t['team_name']}-{t['slug']}"
         if key not in seen:
             t['league'] = league
             unique_teams.append(t)

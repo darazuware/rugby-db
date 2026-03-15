@@ -1,10 +1,10 @@
 ---
-title: "Guillaume MARTOCQ"
+title: "ギヨーム・マルトック"
 name_en: "Guillaume MARTOCQ"
 position: "CTB"
 team: "バイヨンヌ"
-height: "183"
-weight: "96"
+height: "183.0"
+weight: "96.0"
 birth_date: "1999.08.23"
 age: 26
 high_school: ""

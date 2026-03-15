@@ -1,10 +1,10 @@
 ---
-title: "Cameron WOKI"
+title: "キャメロン・ウォキ"
 name_en: "Cameron WOKI"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "196"
-weight: "111"
+height: "196.0"
+weight: "111.0"
 birth_date: "1998.11.07"
 age: 27
 high_school: ""

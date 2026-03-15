@@ -1,10 +1,10 @@
 ---
-title: "Alex NEWSOME"
+title: "アレックス・ニューソム"
 name_en: "Alex NEWSOME"
 position: "FB"
 team: "クレルモン"
-height: "189"
-weight: "95"
+height: "189.0"
+weight: "95.0"
 birth_date: "1995.01.20"
 age: 31
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2016 - 2017)
-- New South Wales Waratahs (2017 - 2022)
+- ワラターズ (2017 - 2022)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )

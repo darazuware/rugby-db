@@ -1,10 +1,10 @@
 ---
-title: "Sacha LOTRIAN"
+title: "サシャ・ロトリアン"
 name_en: "Sacha LOTRIAN"
 position: "PR"
 team: "クレルモン"
-height: "180"
-weight: "106"
+height: "180.0"
+weight: "106.0"
 birth_date: "2000.08.13"
 age: 25
 high_school: ""

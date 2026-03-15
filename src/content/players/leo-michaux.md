@@ -1,10 +1,10 @@
 ---
-title: "Léo MICHAUX"
+title: "レオ・ミショー"
 name_en: "Léo MICHAUX"
 position: "LO"
 team: "クレルモン"
-height: "202"
-weight: "125"
+height: "202.0"
+weight: "125.0"
 birth_date: "//2007"
 age: null
 high_school: ""

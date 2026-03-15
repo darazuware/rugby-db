@@ -1,10 +1,10 @@
 ---
-title: "Xan MOUSQUÈS"
+title: "ジャン・ムスケ"
 name_en: "Xan MOUSQUÈS"
 position: "WTB"
 team: "ボルドー・ベグル"
-height: "178"
-weight: "89"
+height: "178.0"
+weight: "89.0"
 birth_date: "//2005"
 age: null
 high_school: ""

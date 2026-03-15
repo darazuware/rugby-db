@@ -1,10 +1,10 @@
 ---
-title: "Eric MARKS"
+title: "エリック・マークス"
 name_en: "Eric MARKS"
 position: "LO"
 team: "ヴァンヌ"
-height: "196"
-weight: "116"
+height: "196.0"
+weight: "116.0"
 birth_date: "1996.12.09"
 age: 29
 high_school: ""
@@ -12,15 +12,15 @@ university: ""
 caps: "Germany"
 league_one_caps: "0"
 country: "Germany"
-nationality: ""
+nationality: "German"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Aachen (2015 - 2016)

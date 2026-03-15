@@ -1,10 +1,10 @@
 ---
-title: "Lekso KAULASHVILI"
+title: "レクソ・カウラシヴィリ"
 name_en: "Lekso KAULASHVILI"
 position: "PR"
 team: "ポー"
-height: "187"
-weight: "128"
+height: "187.0"
+weight: "128.0"
 birth_date: "1992.08.27"
 age: 33
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Julien MARCHAND"
+title: "ジュリアン・マルシャン"
 name_en: "Julien MARCHAND"
 position: "HO"
 team: "トゥールーズ"
-height: "181"
-weight: "110"
+height: "181.0"
+weight: "110.0"
 birth_date: "1995.05.10"
 age: 30
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2010
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/jumarchand_/"
+twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - US Montréjeau Gourdan Polignan XV (2005 - 2010)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2010 - )
+- スタッド・トゥールーザン (2010 - )

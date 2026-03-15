@@ -4,7 +4,7 @@ name_en: "Payton SPENCER"
 position: "FB"
 team: "オークランド・ブルーズ"
 height: ""
-weight: "90"
+weight: "90.0"
 birth_date: "2004.."
 age: 22
 high_school: ""

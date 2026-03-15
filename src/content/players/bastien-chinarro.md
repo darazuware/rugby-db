@@ -1,26 +1,26 @@
 ---
-title: "Bastien CHINARRO"
+title: "バスチャン・シナロ"
 name_en: "Bastien CHINARRO"
 position: "LO"
 team: "ペルピニャン"
-height: "196"
-weight: "95"
+height: "196.0"
+weight: "95.0"
 birth_date: "2004.01.23"
 age: 22
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Union Athlétique Gaillacoise (2008 - 2009)

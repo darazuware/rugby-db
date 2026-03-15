@@ -1,10 +1,10 @@
 ---
-title: "Alex MOON"
+title: "アレックス・ムーン"
 name_en: "Alex MOON"
 position: "LO"
 team: "バイヨンヌ"
-height: "202"
-weight: "127"
+height: "202.0"
+weight: "127.0"
 birth_date: "1996.09.06"
 age: 29
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Northampton Saints (2017 - 2024)
+- ノーサンプトン・セインツ (2017 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

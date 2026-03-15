@@ -1,10 +1,10 @@
 ---
-title: "Manu TUILAGI"
+title: "マヌ・ツイラギ"
 name_en: "Manu TUILAGI"
 position: "CTB"
 team: "バイヨンヌ"
-height: "185"
-weight: "111"
+height: "185.0"
+weight: "111.0"
 birth_date: "1991.05.18"
 age: 34
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2013 - 2020)
+- レスター・タイガース (2013 - 2020)
 - Sale Sharks (2019 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

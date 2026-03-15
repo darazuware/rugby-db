@@ -1,10 +1,10 @@
 ---
-title: "Théo ATTISSOGBE"
+title: "テオ・アティソグベ"
 name_en: "Théo ATTISSOGBE"
 position: "WTB"
 team: "ポー"
-height: "182"
-weight: "84"
+height: "182.0"
+weight: "84.0"
 birth_date: "//2004"
 age: null
 high_school: ""

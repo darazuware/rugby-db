@@ -3,10 +3,10 @@ title: "ウィル・タッカー"
 name_en: "Will TUCKER"
 position: "LO"
 team: "カンタベリー・クルセイダーズ"
-height: "202"
-weight: "111"
+height: "202.0"
+weight: "111.0"
 birth_date: "1998.03.16"
-age: 27
+age: 28
 high_school: ""
 university: ""
 caps: ""

@@ -3,7 +3,7 @@ title: "ディヴァッド・パリュ"
 name_en: "Divad PALU"
 position: "CTB"
 team: "ウェスタン・フォース"
-height: "179"
+height: "179.0"
 weight: ""
 birth_date: "2004.01.17"
 age: 22

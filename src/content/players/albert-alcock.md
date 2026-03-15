@@ -3,7 +3,7 @@ title: "アルバート・アルコック"
 name_en: "Albert ALCOCK"
 position: "HO"
 team: "ウェスタン・フォース"
-height: "175"
+height: "175.0"
 weight: ""
 birth_date: "2003.11.18"
 age: 22

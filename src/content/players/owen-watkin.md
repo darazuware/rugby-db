@@ -1,0 +1,26 @@
+---
+title: "Owen ・ WATKIN"
+name_en: "Owen WATKIN"
+position: "CTB"
+team: "オスプリーズ"
+height: "188.0"
+weight: "112.0"
+birth_date: "1996.10.12"
+age: 29
+high_school: ""
+university: ""
+caps: "Wales"
+league_one_caps: "0"
+country: "Wales"
+nationality: ""
+category: ""
+division: ""
+league: "urc"
+joined_year: 2015
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2015 - )

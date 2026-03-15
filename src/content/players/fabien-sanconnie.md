@@ -1,10 +1,10 @@
 ---
-title: "Fabien SANCONNIE"
+title: "ファビアン・サンコニ"
 name_en: "Fabien SANCONNIE"
 position: "FL/NO8"
 team: "ラシン92"
-height: "195"
-weight: "114"
+height: "195.0"
+weight: "114.0"
 birth_date: "1995.02.21"
 age: 31
 high_school: ""
@@ -18,10 +18,10 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/fabien_sanco/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- CA Brive Corrèze Limousin (2010 - 2018)
+- ブリーヴ (2010 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - )

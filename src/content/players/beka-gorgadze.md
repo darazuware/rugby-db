@@ -1,10 +1,10 @@
 ---
-title: "Beka GORGADZE"
+title: "ベカ・ゴルガゼ"
 name_en: "Beka GORGADZE"
 position: "FL/NO8"
 team: "ポー"
-height: "189"
-weight: "110"
+height: "189.0"
+weight: "110.0"
 birth_date: "1996.02.08"
 age: 30
 high_school: ""

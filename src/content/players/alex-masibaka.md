@@ -1,10 +1,10 @@
 ---
-title: "Alex MASIBAKA"
+title: "アレックス・マシバカ"
 name_en: "Alex MASIBAKA"
 position: "FL/NO8"
 team: "モンペリエ"
-height: "186"
-weight: "115"
+height: "186.0"
+weight: "115.0"
 birth_date: "2001.08.09"
 age: 24
 high_school: ""

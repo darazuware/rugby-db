@@ -1,26 +1,26 @@
 ---
-title: "Maël MOUSTIN"
+title: "マエル・ムスタン"
 name_en: "Maël MOUSTIN"
 position: "WTB"
 team: "モンペリエ"
-height: "187"
-weight: "103"
+height: "187.0"
+weight: "103.0"
 birth_date: "2003.04.22"
 age: 22
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Voir"
+nationality: "Voir"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/moustin_mael/"
+twitter: "https://twitter.com/MHR_officiel"
+facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Rugby Club du Diamant Martinique (2009 - 2012)

@@ -1,10 +1,10 @@
 ---
-title: "Jon ECHEGARAY"
+title: "ジョン・エチェガライ"
 name_en: "Jon ECHEGARAY"
 position: "FB"
 team: "モンペリエ"
-height: "184"
-weight: "90"
+height: "184.0"
+weight: "90.0"
 birth_date: "//2005"
 age: null
 high_school: ""

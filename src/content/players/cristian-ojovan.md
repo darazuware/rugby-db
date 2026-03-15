@@ -1,10 +1,10 @@
 ---
-title: "Cristian OJOVAN"
+title: "クリスティアン・オジョヴァン"
 name_en: "Cristian OJOVAN"
 position: "PR"
 team: "クレルモン"
-height: "183"
-weight: "120"
+height: "183.0"
+weight: "120.0"
 birth_date: "1997.01.04"
 age: 29
 high_school: ""

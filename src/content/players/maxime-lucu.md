@@ -1,10 +1,10 @@
 ---
-title: "Maxime LUCU"
+title: "マキシム・リュキュ"
 name_en: "Maxime LUCU"
 position: "SH"
 team: "ボルドー・ベグル"
-height: "177"
-weight: "83"
+height: "177.0"
+weight: "83.0"
 birth_date: "1993.01.12"
 age: 33
 high_school: ""

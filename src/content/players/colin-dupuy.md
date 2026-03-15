@@ -1,10 +1,10 @@
 ---
-title: "Colin DUPUY"
+title: "コリン・デュピュイ"
 name_en: "Colin DUPUY"
 position: "SH"
 team: "カストル"
-height: "173"
-weight: "67"
+height: "173.0"
+weight: "67.0"
 birth_date: "//2006"
 age: null
 high_school: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Bon-Encontre Boé (2013 - 2014)
 - Union Athlétique Gaillacoise (2014 - 2022)
-- 🇫🇷 [カストル](/teams/top14/castres) (2022 - )
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2022 - )

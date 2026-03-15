@@ -1,26 +1,26 @@
 ---
-title: "Thomas DARMON"
+title: "トマ・ダルモン"
 name_en: "Thomas DARMON"
 position: "CTB"
 team: "モンペリエ"
-height: "181"
-weight: "90"
+height: "181.0"
+weight: "90.0"
 birth_date: "1998.05.12"
 age: 27
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Voir"
+nationality: "Voir"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2004
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/thomas_darmon/"
+twitter: "https://twitter.com/MHR_officiel"
+facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - )

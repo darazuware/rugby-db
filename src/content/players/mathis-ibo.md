@@ -1,10 +1,10 @@
 ---
-title: "Mathis IBO"
+title: "マティス・イボ"
 name_en: "Mathis IBO"
 position: "CTB"
 team: "スタッド・フランセ"
-height: "183"
-weight: "78"
+height: "183.0"
+weight: "78.0"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -18,11 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Neuilly-sur-Marne (2011 - 2018)
 - RC Champs-sur-Marne Val Maubuée (2018 - 2019)
-- Stade Français Paris Rugby (2019 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - )

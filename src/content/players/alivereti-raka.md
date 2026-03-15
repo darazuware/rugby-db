@@ -1,10 +1,10 @@
 ---
-title: "Alivereti RAKA"
+title: "アリヴェレティ・ラカ"
 name_en: "Alivereti RAKA"
 position: "WTB"
 team: "クレルモン"
-height: "189"
-weight: "105"
+height: "189.0"
+weight: "105.0"
 birth_date: "1994.12.09"
 age: 31
 high_school: ""

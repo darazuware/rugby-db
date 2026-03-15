@@ -1,10 +1,10 @@
 ---
-title: "Arthur ITURRIA"
+title: "アルチュール・イトゥリア"
 name_en: "Arthur ITURRIA"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "198"
-weight: "112"
+height: "198.0"
+weight: "112.0"
 birth_date: "1994.05.13"
 age: 31
 high_school: ""

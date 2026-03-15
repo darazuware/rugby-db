@@ -1,10 +1,10 @@
 ---
-title: "Kyle SINCKLER"
+title: "カイル・シンクラー"
 name_en: "Kyle SINCKLER"
 position: "PR"
 team: "トゥーロン"
-height: "183"
-weight: "122"
+height: "183.0"
+weight: "122.0"
 birth_date: "1993.03.30"
 age: 32
 high_school: ""
@@ -12,17 +12,17 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: ""
+nationality: "Angleterre"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/rctofficiel/#"
+twitter: "https://x.com/RCTofficiel"
+facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- Harlequins (2013 - 2020)
-- Bristol Bears (2019 - 2024)
-- Rugby Club Toulonnais (2024 - )
+- ハレクインズ (2013 - 2020)
+- ブリストル・ベアーズ (2019 - 2024)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

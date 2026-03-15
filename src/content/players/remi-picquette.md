@@ -1,10 +1,10 @@
 ---
-title: "Rémi PICQUETTE"
+title: "レミ・ピケット"
 name_en: "Rémi PICQUETTE"
 position: "LO"
 team: "ポー"
-height: "200"
-weight: "117"
+height: "200.0"
+weight: "117.0"
 birth_date: "1995.02.23"
 age: 31
 high_school: ""

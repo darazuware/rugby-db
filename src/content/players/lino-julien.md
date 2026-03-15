@@ -1,10 +1,10 @@
 ---
-title: "Lino JULIEN"
+title: "リノ・ジュリアン"
 name_en: "Lino JULIEN"
 position: "PR"
 team: "ラシン92"
-height: "186"
-weight: "111"
+height: "186.0"
+weight: "111.0"
 birth_date: "//2004"
 age: null
 high_school: ""

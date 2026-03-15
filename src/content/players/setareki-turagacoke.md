@@ -1,10 +1,10 @@
 ---
-title: "Setareki TURAGACOKE"
+title: "セタレキ・トゥランガンゾケ"
 name_en: "Setareki TURAGACOKE"
 position: "LO"
 team: "スタッド・フランセ"
-height: "200"
-weight: "117"
+height: "200.0"
+weight: "117.0"
 birth_date: "//2006"
 age: null
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- Stade Français Paris Rugby (2023 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

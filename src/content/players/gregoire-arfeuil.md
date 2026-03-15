@@ -1,10 +1,10 @@
 ---
-title: "Grégoire ARFEUIL"
+title: "グレゴワール・アルフイユ"
 name_en: "Grégoire ARFEUIL"
 position: "WTB"
 team: "ポー"
-height: "194"
-weight: "89"
+height: "194.0"
+weight: "89.0"
 birth_date: "//2004"
 age: null
 high_school: ""

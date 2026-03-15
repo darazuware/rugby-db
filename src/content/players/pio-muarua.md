@@ -1,10 +1,10 @@
 ---
-title: "Pio MUARUA"
+title: "ピオ・ムアルア"
 name_en: "Pio MUARUA"
 position: "FL/NO8"
 team: "クレルモン"
-height: "191"
-weight: "125"
+height: "191.0"
+weight: "125.0"
 birth_date: "1996.06.28"
 age: 29
 high_school: ""

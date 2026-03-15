@@ -1,10 +1,10 @@
 ---
-title: "Gaëtan BARLOT"
+title: "ガエタン・バルロ"
 name_en: "Gaëtan BARLOT"
 position: "HO"
 team: "ボルドー・ベグル"
-height: "184"
-weight: "107"
+height: "184.0"
+weight: "107.0"
 birth_date: "1997.04.13"
 age: 28
 high_school: ""
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2006 - 2014)
 - US Colomiers (2015 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres) (2020 - 2025)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

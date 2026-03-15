@@ -1,10 +1,10 @@
 ---
-title: "Selestino RAVUTAUMADA"
+title: "セレスティノ・ラヴタウマダ"
 name_en: "Selestino RAVUTAUMADA"
 position: "WTB"
 team: "ラシン92"
-height: "183"
-weight: "93"
+height: "183.0"
+weight: "93.0"
 birth_date: "2000.01.17"
 age: 26
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/selebucho/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - New Zealand Warriors (2019 - 2020)

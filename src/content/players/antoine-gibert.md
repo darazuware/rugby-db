@@ -1,10 +1,10 @@
 ---
-title: "Antoine GIBERT"
+title: "アントワーヌ・ジベール"
 name_en: "Antoine GIBERT"
 position: "SO"
 team: "ラシン92"
-height: "177"
-weight: "76"
+height: "177.0"
+weight: "76.0"
 birth_date: "1997.12.31"
 age: 28
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2011
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/antoinegib92/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - AC Boulogne-Billancourt (2004 - 2011)

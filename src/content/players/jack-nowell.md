@@ -1,10 +1,10 @@
 ---
-title: "Jack NOWELL"
+title: "ジャック・ノウェル"
 name_en: "Jack NOWELL"
 position: "WTB"
 team: "ラ・ロシェル"
-height: "181"
-weight: "98"
+height: "181.0"
+weight: "98.0"
 birth_date: "1993.04.11"
 age: 32
 high_school: ""
@@ -12,16 +12,16 @@ university: ""
 caps: "England"
 league_one_caps: "0"
 country: "England"
-nationality: ""
+nationality: "Anglaise"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/jacknowell"
+twitter: "https://twitter.com/hashtag/fievresr"
+facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- Exeter Chiefs (2013 - 2023)
+- エクセター・チーフス (2013 - 2023)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

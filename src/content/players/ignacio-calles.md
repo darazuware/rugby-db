@@ -1,10 +1,10 @@
 ---
-title: "Ignacio CALLES"
+title: "イグナシオ・カイェス"
 name_en: "Ignacio CALLES"
 position: "PR"
 team: "バイヨンヌ"
-height: "187"
-weight: "116"
+height: "187.0"
+weight: "116.0"
 birth_date: "1995.10.24"
 age: 30
 high_school: ""

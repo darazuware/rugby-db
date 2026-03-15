@@ -1,10 +1,10 @@
 ---
-title: "Toma'Akino TAUFA"
+title: "トマアキノ・タウファ"
 name_en: "Toma'Akino TAUFA"
 position: "PR"
 team: "ボルドー・ベグル"
-height: "180"
-weight: "145"
+height: "180.0"
+weight: "145.0"
 birth_date: "1995.03.09"
 age: 31
 high_school: ""

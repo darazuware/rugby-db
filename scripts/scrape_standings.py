@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import unicodedata
 import re
 
 HEADERS = {
@@ -15,64 +16,72 @@ if os.path.exists(json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         TEAM_NAMES_JP = json.load(f)
 
+from team_utils import get_team_info as get_canonical_info
+
 def get_team_info(league, name):
-    name = str(name).strip()
-    league_data = TEAM_NAMES_JP.get(league, {})
-    
-    # Specify default flag by league
+    info = get_canonical_info(name)
     default_flag = '🇯🇵' if league == 'league-one' else '🇫🇷'
     
-    if name in league_data:
-        info = league_data[name]
-        return info.get('jp', name), info.get('flag', default_flag)
-    for main_name, data in league_data.items():
-        if name == main_name or name in data.get('aliases', []) or data.get('jp') == name:
-            return data.get('jp', main_name), data.get('flag', default_flag)
-    return name, default_flag
+    if info:
+        return info['jp'], info['flag'], info['slug']
+    
+    # フォールバック
+    slug = str(name).lower()
+    slug = unicodedata.normalize('NFD', slug).encode('ascii', 'ignore').decode('utf-8')
+    slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
+    return name, default_flag, slug
 
 def scrape_top14_standings():
     url = "https://top14.lnr.fr/classement"
     print(f"Scraping Top 14 standings from {url}...")
     try:
-        response = requests.get(url, headers=HEADERS)
+        response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
         standings = []
-        # 新しいサイト構造に合わせたセレクター
-        table_lines = soup.select('.table-line')
-        for line in table_lines:
+        # 固定ブロック（順位）とスクロールブロック（チーム名・スタッツ）を取得
+        fixed_lines = soup.select('.ranking__fixed-block .table-line--ranking-fixed')
+        scroll_lines = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
+        
+        if not fixed_lines or not scroll_lines:
+            print("Failed to find fixed or scroll lines. Checking alternative selectors.")
+            fixed_lines = soup.select('.table-line__rank') # フォールバック
+            scroll_lines = soup.select('.table-line__cell-wrapper--club-name')
+            
+        for i, (rank_line, stats_line) in enumerate(zip(fixed_lines, scroll_lines)):
             # 順位
-            rank_el = line.select_one('.table-line__rank')
-            if not rank_el: continue
-            rank = re.sub(r'\D', '', "".join(rank_el.stripped_strings))
+            rank_el = rank_line.select_one('.ranking-item__rank')
+            if not rank_el:
+                print(f"Row {i}: Rank element not found")
+                continue
+            rank = re.sub(r'\D', '', rank_el.get_text(strip=True))
             
             # チーム名とリンク
-            link = line.select_one('.table-line__cell-wrapper--club-name a')
-            if not link: continue
-            raw_name = "".join(link.stripped_strings)
-            team_slug = link['href'].split('/')[-1]
+            link = stats_line.select_one('a.base-link--black')
+            if not link:
+                print(f"Row {i}: Team link not found")
+                continue
+            raw_name = link.get_text(strip=True)
             
-            # 各種スタッツ (Played, Won, Drawn, Lost, Bonus, PtsM, PtsE, Diff, Pts)
             # 統計セルを取得
-            stats_cells = line.select('.table-line__cell-wrapper--small')
-            if len(stats_cells) < 8: continue
+            stats_cells = stats_line.select('.table-line__cell-wrapper--small')
+            if len(stats_cells) < 9:
+                print(f"Row {i}: Stats cells incomplete ({len(stats_cells)})")
+                continue
             
-            # 構造: P, W, D, L, B, PM, PE, Diff, Pts (Ptsは別クラス)
-            played = "".join(stats_cells[0].stripped_strings)
-            won = "".join(stats_cells[1].stripped_strings)
-            drawn = "".join(stats_cells[2].stripped_strings)
-            lost = "".join(stats_cells[3].stripped_strings)
-            diff = "".join(stats_cells[7].stripped_strings)
-            
-            # Pts は専用のラッパーがある場合が多い
-            pts_el = line.select_one('.table-line__cell-wrapper--pts')
-            points = "".join(pts_el.stripped_strings) if pts_el else "0"
+            points = stats_cells[0].get_text(strip=True)
+            played = stats_cells[1].get_text(strip=True)
+            won = stats_cells[2].get_text(strip=True)
+            drawn = stats_cells[3].get_text(strip=True)
+            lost = stats_cells[4].get_text(strip=True)
+            diff = stats_cells[8].get_text(strip=True)
 
-            jp_name, flag = get_team_info('top14', raw_name)
+            print(f"Row {i}: Found [{rank}] [{raw_name}] Pts:[{points}]")
+            jp_name, flag, slug = get_team_info('top14', raw_name)
             
             standings.append({
-                "rank": rank, "team_name": raw_name, "display_name": jp_name, "flag": flag, "slug": team_slug,
+                "rank": rank, "team_name": raw_name, "display_name": jp_name, "flag": flag, "slug": slug,
                 "played": played, "won": won, "drawn": drawn, "lost": lost, "diff": diff, "points": points
             })
             
@@ -80,6 +89,8 @@ def scrape_top14_standings():
         return standings
     except Exception as e:
         print(f"Error scraping Top 14: {e}")
+        import traceback
+        traceback.print_exc()
         return []
 
 def scrape_top14_results():
@@ -97,7 +108,7 @@ def scrape_top14_results():
                 h = "".join(home_el.stripped_strings); a = "".join(away_el.stripped_strings)
                 s = "".join(score_el.stripped_strings)
                 if s and s != "VS":
-                    h_jp, h_f = get_team_info('top14', h); a_jp, a_f = get_team_info('top14', a)
+                    h_jp, h_f, h_s = get_team_info('top14', h); a_jp, a_f, a_s = get_team_info('top14', a)
                     results.append({ "home": h_jp, "home_flag": h_f, "away": a_jp, "away_flag": a_f, "score": s, "date": "" })
         return results[:10]
     except: return []
@@ -113,9 +124,9 @@ def scrape_urc_standings():
         standings = []
         for i, item in enumerate(items):
             stats = item.get('performance_stats', {}); raw = item.get('team_name', '')
-            jp, f = get_team_info('urc', raw)
+            jp, f, slug = get_team_info('urc', raw)
             rank = str(item.get('position', i + 1))
-            standings.append({ "rank": rank, "team_name": raw, "display_name": jp, "flag": f, "slug": item.get('team_short_name', '').lower(), "played": str(stats.get('played', '0')), "won": str(stats.get('won', '0')), "drawn": str(stats.get('drawn', '0')), "lost": str(stats.get('lost', '0')), "diff": str(stats.get('pointsDiff', '0')), "points": str(stats.get('points', '0')) })
+            standings.append({ "rank": rank, "team_name": raw, "display_name": jp, "flag": f, "slug": slug, "played": str(stats.get('played', '0')), "won": str(stats.get('won', '0')), "drawn": str(stats.get('drawn', '0')), "lost": str(stats.get('lost', '0')), "diff": str(stats.get('pointsDiff', '0')), "points": str(stats.get('points', '0')) })
         return standings
     except: return []
 
@@ -142,7 +153,7 @@ def scrape_super_rugby_standings():
             a = t.get('@attributes', {})
             
             raw = a.get('name', '')
-            jp, f = get_team_info('super-rugby', raw)
+            jp, f, slug = get_team_info('super-rugby', raw)
             
             # API構造：属性直下にデータがある
             p = a.get('played', '0')
@@ -158,7 +169,7 @@ def scrape_super_rugby_standings():
                 "team_name": raw,
                 "display_name": jp,
                 "flag": f,
-                "slug": a.get('short_name', rk).lower().replace(' ', '-'),
+                "slug": slug,
                 "played": p,
                 "won": w,
                 "drawn": d,
@@ -178,7 +189,7 @@ def scrape_leagueone_standings():
             for row in rows:
                 cols = row.select('td, th'); link = cols[2].select_one('a')
                 if link:
-                    name = link.text.strip(); slug = link['href'].split('/')[-1]; jp, f = get_team_info('league-one', name)
+                    name = link.text.strip(); jp, f, slug = get_team_info('league-one', name)
                     standings.append({ "rank": cols[0].text.strip(), "team_name": name, "display_name": jp, "flag": f, "slug": slug, "played": cols[3].text.strip(), "points": cols[4].text.strip(), "won": cols[5].text.strip(), "drawn": cols[6].text.strip(), "lost": cols[7].text.strip(), "diff": cols[10].text.strip() if len(cols) > 10 else "0", "division": f"D{i+1}" })
         return standings
     except: return []

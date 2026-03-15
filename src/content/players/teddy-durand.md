@@ -1,29 +1,29 @@
 ---
-title: "Teddy DURAND"
+title: "テディ・デュラン"
 name_en: "Teddy DURAND"
 position: "HO"
 team: "カストル"
-height: "180"
-weight: "104"
+height: "180.0"
+weight: "104.0"
 birth_date: "1999.10.14"
 age: 26
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Française"
+nationality: "Française"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/castresolympique/"
+twitter: "https://twitter.com/CastresRugby"
+facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Launaguet (2011 - 2013)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2018)
-- Oyonnax Rugby (2018 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres) (2025 - )
+- スタッド・トゥールーザン (2013 - 2018)
+- オヨナ (2018 - 2025)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )

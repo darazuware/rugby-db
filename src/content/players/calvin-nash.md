@@ -1,0 +1,26 @@
+---
+title: "Calvin ・ NASH"
+name_en: "Calvin NASH"
+position: "Winger"
+team: "マンスター・ラグビー"
+height: "180.0"
+weight: "90.0"
+birth_date: "1997.08.08"
+age: 28
+high_school: ""
+university: ""
+caps: "Ireland"
+league_one_caps: "0"
+country: "Ireland"
+nationality: ""
+category: ""
+division: ""
+league: "urc"
+joined_year: 2016
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2016 - )

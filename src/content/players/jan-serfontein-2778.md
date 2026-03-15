@@ -1,0 +1,26 @@
+---
+title: "ヤン・サーフォンテイン"
+name_en: "Jan SERFONTEIN"
+position: "CTB"
+team: "ヴォーダコム・ブルズ"
+height: "187.0"
+weight: "97.0"
+birth_date: "1993.04.15"
+age: 32
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: "Bulls -> Montpellier Hérault Rugby -> Bulls"
+nationality: ""
+category: ""
+division: ""
+league: "urc"
+joined_year: null
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- South Africa

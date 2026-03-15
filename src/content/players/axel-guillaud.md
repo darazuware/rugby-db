@@ -1,10 +1,10 @@
 ---
-title: "Axel GUILLAUD"
+title: "アクセル・ギヨー"
 name_en: "Axel GUILLAUD"
 position: "FB"
 team: "クレルモン"
-height: "190"
-weight: "91"
+height: "190.0"
+weight: "91.0"
 birth_date: "//2006"
 age: null
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Marko GAZZOTTI"
+title: "マルコ・ガゾッティ"
 name_en: "Marko GAZZOTTI"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "192"
-weight: "110"
+height: "192.0"
+weight: "110.0"
 birth_date: "//2004"
 age: null
 high_school: ""

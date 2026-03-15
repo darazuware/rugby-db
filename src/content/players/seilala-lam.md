@@ -1,10 +1,10 @@
 ---
-title: "Seilala LAM"
+title: "セイララ・ラム"
 name_en: "Seilala LAM"
 position: "HO"
 team: "クレルモン"
-height: "183"
-weight: "110"
+height: "183.0"
+weight: "110.0"
 birth_date: "1989.02.18"
 age: 37
 high_school: ""

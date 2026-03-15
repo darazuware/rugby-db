@@ -3,8 +3,8 @@ title: "トム・ランバート"
 name_en: "Tom LAMBERT"
 position: "PR"
 team: "NSWワラタス（ワラターズ）"
-height: "188"
-weight: "115"
+height: "188.0"
+weight: "115.0"
 birth_date: "2000.11.20"
 age: 25
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2020 - 2022)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - 2022)
 - ワラターズ (2022 - )

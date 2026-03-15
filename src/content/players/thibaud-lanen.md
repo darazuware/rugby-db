@@ -1,10 +1,10 @@
 ---
-title: "Thibaud LANEN"
+title: "ティボー・ラナン"
 name_en: "Thibaud LANEN"
 position: "LO"
 team: "クレルモン"
-height: "198"
-weight: "110"
+height: "198.0"
+weight: "110.0"
 birth_date: "1998.04.01"
 age: 27
 high_school: ""

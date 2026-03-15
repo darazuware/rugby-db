@@ -1,10 +1,10 @@
 ---
-title: "Santiago MEDRANO"
+title: "サンティアゴ・メドラーノ"
 name_en: "Santiago MEDRANO"
 position: "PR"
 team: "ヴァンヌ"
-height: "185"
-weight: "118"
+height: "185.0"
+weight: "118.0"
 birth_date: "1996.05.06"
 age: 29
 high_school: ""
@@ -12,19 +12,19 @@ university: ""
 caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
-nationality: ""
+nationality: "Argentine"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- Jaguares (2017 - 2020)
+- ハグアレス (2017 - 2020)
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2024)
-- Worcester Warriors (2022 - 2023)
-- Lyon Olympique Universitaire Rugby (2023 - 2024)
+- ウスター・ウォリアーズ (2022 - 2023)
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - 2024)
 - Rugby Club Vannes (2024 - )

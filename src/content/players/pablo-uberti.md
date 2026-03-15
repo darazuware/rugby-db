@@ -1,10 +1,10 @@
 ---
-title: "Pablo UBERTI"
+title: "パブロ・ウベルティ"
 name_en: "Pablo UBERTI"
 position: "CTB"
 team: "ボルドー・ベグル"
-height: "185"
-weight: "91"
+height: "185.0"
+weight: "91.0"
 birth_date: "1997.10.19"
 age: 28
 high_school: ""

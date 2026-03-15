@@ -1,10 +1,10 @@
 ---
-title: "Diego JURD"
+title: "ディエゴ・ジャード"
 name_en: "Diego JURD"
 position: "SO"
 team: "ラ・ロシェル"
-height: "184"
-weight: "87"
+height: "184.0"
+weight: "87.0"
 birth_date: "//2006"
 age: null
 high_school: ""

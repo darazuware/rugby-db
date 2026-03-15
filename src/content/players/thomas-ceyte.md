@@ -1,10 +1,10 @@
 ---
-title: "Thomas CEYTE"
+title: "トマ・セイト"
 name_en: "Thomas CEYTE"
 position: "LO"
 team: "クレルモン"
-height: "198"
-weight: "120"
+height: "198.0"
+weight: "120.0"
 birth_date: "1991.02.13"
 age: 35
 high_school: ""

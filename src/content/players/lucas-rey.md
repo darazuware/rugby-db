@@ -1,10 +1,10 @@
 ---
-title: "Lucas REY"
+title: "ルカス・レイ"
 name_en: "Lucas REY"
 position: "HO"
 team: "ポー"
-height: "175"
-weight: "98"
+height: "175.0"
+weight: "98.0"
 birth_date: "1997.04.27"
 age: 28
 high_school: ""

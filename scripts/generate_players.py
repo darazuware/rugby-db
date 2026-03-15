@@ -14,7 +14,7 @@ csv.field_size_limit(1000000)
 # 設定
 CSV_PATH = 'data_sources/final_master_data_v25.csv'
 # 統合後のファイルが存在すればそちらを優先
-INTEGRATED_CSV_PATH = 'data_sources/final_master_data_v17_consolidated_integrated.csv'
+INTEGRATED_CSV_PATH = 'data_sources/final_master_data_v25_integrated.csv'
 if os.path.exists(INTEGRATED_CSV_PATH):
     CSV_PATH = INTEGRATED_CSV_PATH
 
@@ -138,8 +138,33 @@ def get_base_team_name(t):
     for k, v in name_map.items():
         if t == k: return v
     for current_name, history in TEAM_HISTORY_MAP.items():
-        if t == history['former']: return current_name
+        if t == history['former']:
+            return current_name
     return t
+
+def normalize_school_name(name):
+    if not name or str(name).lower() == 'nan' or name == '---': return ""
+    name = name.strip()
+    
+    # 特定の校名変更/正規化
+    school_map = {
+        '東海大仰星高校': '東海大大阪仰星高校',
+        '東海大仰星': '東海大大阪仰星高校',
+        '大阪仰星': '東海大大阪仰星高校',
+        '日本航空高校石川': '日本航空石川高校',
+        '日本航空高校': '日本航空石川高校',
+    }
+    
+    if name in school_map:
+        return school_map[name]
+    
+    # 一般的な「大」「高」の補完
+    if name.endswith('大') and not name.endswith('大学'):
+        return name + '学'
+    if name.endswith('高') and not name.endswith('高校'):
+        return name + '校'
+        
+    return name
 
 def format_career_md(career_str, current_team, name_en=""):
     if not career_str or str(career_str).lower() == 'nan': return ""
@@ -286,12 +311,13 @@ def main():
                     if not league and any(t in current_team for t in ['トゥールーズ', 'ボルドー', 'ラ・ロシェル', 'ラシン92', 'トゥーロン', 'モンペリエ', 'リヨン', 'カストル', 'アヴィロン・バイヨンヌ', 'セクション・パロワーズ', 'スタッド・フランセ', 'クレルモン', 'ペルピニャン', 'ヴァンヌ', 'ポー', 'バイヨンヌ']): league = 'top14'
                     if not league and any(t in current_team for t in ['ブルーズ', 'チーフス', 'ハリケーンズ', 'クルセイダーズ', 'ハイランダーズ', 'ブランビーズ', 'ワラターズ', 'レッズ', 'フォース', 'フィジアン・ドゥルア', 'モアナ・パシフィカ']): league = 'super-rugby'
                 
-                if league == 'urc':
-                    skipped_count += 1
-                    continue
+                # URC 選手も生成対象に含める
+                # if league == 'urc':
+                #     skipped_count += 1
+                #     continue
                 
-                # 海外選手名（SR, Top 14）のハイフンを中黒に置換
-                if league in ['super-rugby', 'top14']:
+                # 海外選手名（SR, Top 14, URC）のハイフンを中黒に置換
+                if league in ['super-rugby', 'top14', 'urc']:
                     name_ja = name_ja.replace('-', '・').replace('－', '・')
                 
                 career_md = format_career_md(get_val(['Full_Career', 'キャリア遍歴']), current_team, name_en)
@@ -302,7 +328,10 @@ def main():
                 if c_val.startswith('http'): c_val = ""
                 caps_match = re.search(r'(.+?)代表', c_val)
                 country = re.sub(r'[\(（].*$', '', caps_match.group(1).strip()) if caps_match else ""
-                if not country: country = get_val(['International_Caps', '国籍'])
+                if not country: 
+                    country_raw = get_val(['International_Caps', '国籍'])
+                    # 'Italy (15 caps)' などの形式から国名を抽出
+                    country = re.sub(r'\s*\(.*?\)', '', country_raw).strip()
                 
                 cat_v = get_val(['カテゴリ']).strip()
                 category = f"カテゴリー{cat_v}" if league == 'league-one' and cat_v in ['A', 'B', 'C'] else ""
@@ -321,8 +350,8 @@ height: "{get_val(["身長"])}"
 weight: "{get_val(["体重"])}"
 birth_date: "{birth_date}"
 age: {calculate_age(birth_date) or "null"}
-high_school: "{get_val(["高校"])}"
-university: "{get_val(["大学"])}"
+high_school: "{normalize_school_name(get_val(["高校"]))}"
+university: "{normalize_school_name(get_val(["大学"]))}"
 caps: "{c_val}"
 league_one_caps: "{league_one_caps}"
 country: "{country}"

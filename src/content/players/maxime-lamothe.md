@@ -1,10 +1,10 @@
 ---
-title: "Maxime LAMOTHE"
+title: "マキシム・ラモス"
 name_en: "Maxime LAMOTHE"
 position: "HO"
 team: "ボルドー・ベグル"
-height: "184"
-weight: "109"
+height: "184.0"
+weight: "109.0"
 birth_date: "1998.10.03"
 age: 27
 high_school: ""

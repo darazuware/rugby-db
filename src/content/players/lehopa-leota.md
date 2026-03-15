@@ -1,10 +1,10 @@
 ---
-title: "Lehopa LEOTA"
+title: "レホパ・レオタ"
 name_en: "Lehopa LEOTA"
 position: "PR"
 team: "ラシン92"
-height: "175"
-weight: "130"
+height: "175.0"
+weight: "130.0"
 birth_date: "//2006"
 age: null
 high_school: ""

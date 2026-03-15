@@ -1,10 +1,10 @@
 ---
-title: "Louis BIELLE・BIARREY"
+title: "ルイ・ビエル＝ビアレ"
 name_en: "Louis BIELLE-BIARREY"
 position: "WTB"
 team: "ボルドー・ベグル"
-height: "185"
-weight: "84"
+height: "185.0"
+weight: "84.0"
 birth_date: "2003.06.19"
 age: 22
 high_school: ""

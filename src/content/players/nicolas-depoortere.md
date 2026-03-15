@@ -1,10 +1,10 @@
 ---
-title: "Nicolas DEPOORTÈRE"
+title: "ニコラ・ドゥポルテール"
 name_en: "Nicolas DEPOORTÈRE"
 position: "CTB"
 team: "ボルドー・ベグル"
-height: "194"
-weight: "94"
+height: "194.0"
+weight: "94.0"
 birth_date: "2003.01.13"
 age: 23
 high_school: ""

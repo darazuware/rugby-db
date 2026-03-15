@@ -1,10 +1,10 @@
 ---
-title: "Anthony BOUTHIER"
+title: "アントニー・ブティエ"
 name_en: "Anthony BOUTHIER"
 position: "FB"
 team: "ヴァンヌ"
-height: "182"
-weight: "86"
+height: "182.0"
+weight: "86.0"
 birth_date: "1992.06.19"
 age: 33
 high_school: ""
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: ""
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Pouillon (2004 - 2011)

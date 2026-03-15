@@ -1,10 +1,10 @@
 ---
-title: "Léo AMETLLA"
+title: "レオ・アメトラ"
 name_en: "Léo AMETLLA"
 position: "PR"
 team: "トゥーロン"
-height: "186"
-weight: "107"
+height: "186.0"
+weight: "107.0"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -26,4 +26,4 @@ facebook: ""
 - RC Ouest Provence Fos Istres (2009 - 2013)
 - RC Martigues Port-de-Bouc (2013 - 2019)
 - Provence Rugby (2019 - 2022)
-- Rugby Club Toulonnais (2022 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2022 - )

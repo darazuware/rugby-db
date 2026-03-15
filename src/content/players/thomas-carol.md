@@ -1,10 +1,10 @@
 ---
-title: "Thomas CAROL"
+title: "トマ・カロル"
 name_en: "Thomas CAROL"
 position: "WTB"
 team: "ポー"
-height: "179"
-weight: "85"
+height: "179.0"
+weight: "85.0"
 birth_date: "2001.01.17"
 age: 25
 high_school: ""

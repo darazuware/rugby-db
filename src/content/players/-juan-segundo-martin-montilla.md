@@ -1,5 +1,5 @@
 ---
-title: "Juan MARTÍN MONTILLA"
+title: "フアン・マルティン・モンティージャ"
 name_en: "Juan MARTÍN MONTILLA"
 position: "SO"
 team: "クレルモン"

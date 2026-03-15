@@ -1,26 +1,26 @@
 ---
-title: "Simeli DAUNIVUCU"
+title: "シメリ・ダウニヴズ"
 name_en: "Simeli DAUNIVUCU"
 position: "CTB"
 team: "ラ・ロシェル"
-height: "180"
-weight: "100"
+height: "180.0"
+weight: "100.0"
 birth_date: "//2005"
 age: null
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Française"
+nationality: "Française"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2019
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/simeli_daunivucu"
+twitter: "https://twitter.com/hashtag/fievresr"
+facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Rugby Club Chartreuse Néron (2010 - 2011)

@@ -1,10 +1,10 @@
 ---
-title: "Baptiste TILLOLES"
+title: "バティスト・ティヨール"
 name_en: "Baptiste TILLOLES"
 position: "SH"
 team: "バイヨンヌ"
-height: "178"
-weight: "81"
+height: "178.0"
+weight: "81.0"
 birth_date: "//2006"
 age: null
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Jefferson・Lee JOSEPH"
+title: "ジェファーソン＝リー・ジョセフ"
 name_en: "Jefferson-Lee JOSEPH"
 position: "WTB"
 team: "ペルピニャン"
-height: "192"
-weight: "90"
+height: "192.0"
+weight: "90.0"
 birth_date: "2002.08.28"
 age: 23
 high_school: ""

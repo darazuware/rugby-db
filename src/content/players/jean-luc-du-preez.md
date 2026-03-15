@@ -1,10 +1,10 @@
 ---
-title: "Jean・Luc DU PREEZ"
+title: "ジャン＝リュック・デュ・プリーツ"
 name_en: "Jean-Luc DU PREEZ"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "194"
-weight: "114"
+height: "194.0"
+weight: "114.0"
 birth_date: "1995.08.05"
 age: 30
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇿🇦 ハリウッドベッツ・シャークス (2015 - 2019)
+- シャークス (2015 - 2019)
 - Sale Sharks (2018 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

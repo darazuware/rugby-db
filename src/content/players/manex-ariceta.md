@@ -1,10 +1,10 @@
 ---
-title: "Manex ARICETA"
+title: "マネクス・アリセタ"
 name_en: "Manex ARICETA"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "194"
-weight: "118"
+height: "194.0"
+weight: "118.0"
 birth_date: "//2004"
 age: null
 high_school: ""

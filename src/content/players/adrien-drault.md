@@ -1,10 +1,10 @@
 ---
-title: "Adrien DRAULT"
+title: "アドリアン・ドロー"
 name_en: "Adrien DRAULT"
 position: "CTB"
 team: "ボルドー・ベグル"
-height: "183"
-weight: "94"
+height: "183.0"
+weight: "94.0"
 birth_date: "//2006"
 age: null
 high_school: ""

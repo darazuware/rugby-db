@@ -1,10 +1,10 @@
 ---
-title: "Giorgi DZMANASHVILI"
+title: "ギオルギ・ズマナシュヴィリ"
 name_en: "Giorgi DZMANASHVILI"
 position: "PR"
 team: "クレルモン"
-height: "186"
-weight: "122"
+height: "186.0"
+weight: "122.0"
 birth_date: "2002.06.16"
 age: 23
 high_school: ""

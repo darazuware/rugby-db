@@ -1,5 +1,5 @@
 ---
-title: "Tom SARTHOU"
+title: "トム・サルトゥ"
 name_en: "Tom SARTHOU"
 position: "HO"
 team: "ヴァンヌ"
@@ -11,16 +11,16 @@ high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Amicale Rugby de Marans (2011 - 2016)

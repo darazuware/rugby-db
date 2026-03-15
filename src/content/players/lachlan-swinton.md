@@ -1,10 +1,10 @@
 ---
-title: "Lachlan SWINTON"
+title: "ラクラン・スウィントン"
 name_en: "Lachlan SWINTON"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "195"
-weight: "113"
+height: "195.0"
+weight: "113.0"
 birth_date: "1997.01.16"
 age: 29
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- New South Wales Waratahs (2018 - 2024)
+- ワラターズ (2018 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

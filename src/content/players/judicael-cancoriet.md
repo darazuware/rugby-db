@@ -1,10 +1,10 @@
 ---
-title: "Judicaël CANCORIET"
+title: "ジュディカエル・カンコリエ"
 name_en: "Judicaël CANCORIET"
 position: "FL/NO8"
 team: "ラ・ロシェル"
-height: "194"
-weight: "116"
+height: "194.0"
+weight: "116.0"
 birth_date: "1996.04.25"
 age: 29
 high_school: ""
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: ""
+nationality: "Française"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/judicael_cancoriet"
+twitter: "https://twitter.com/hashtag/fievresr"
+facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - AAS Sarcelles Rugby (2005 - 2011)

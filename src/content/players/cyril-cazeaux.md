@@ -1,10 +1,10 @@
 ---
-title: "Cyril CAZEAUX"
+title: "シリル・カゾー"
 name_en: "Cyril CAZEAUX"
 position: "LO"
 team: "ボルドー・ベグル"
-height: "198"
-weight: "117"
+height: "198.0"
+weight: "117.0"
 birth_date: "1995.02.10"
 age: 31
 high_school: ""

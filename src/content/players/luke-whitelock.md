@@ -1,10 +1,10 @@
 ---
-title: "Luke WHITELOCK"
+title: "ルーク・ホワイトロック"
 name_en: "Luke WHITELOCK"
 position: "FL/NO8"
 team: "ポー"
-height: "193"
-weight: "116"
+height: "193.0"
+weight: "116.0"
 birth_date: "1991.01.29"
 age: 35
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2015)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2019)
+- クルセイダーズ (2013 - 2015)
+- ハイランダーズ (2015 - 2019)
 - Section Paloise Béarn Pyrénées (2019 - )

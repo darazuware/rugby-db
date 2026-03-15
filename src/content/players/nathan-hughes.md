@@ -1,10 +1,10 @@
 ---
-title: "Nathan HUGHES"
+title: "ネイサン・ヒューズ"
 name_en: "Nathan HUGHES"
 position: "FL/NO8"
 team: "ラシン92"
-height: "196"
-weight: "126"
+height: "196.0"
+weight: "126.0"
 birth_date: "1991.06.10"
 age: 34
 high_school: ""
@@ -18,14 +18,14 @@ division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/sweetcity.nh/"
+twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- Wasps (2013 - 2019)
-- Bristol Bears (2019 - 2022)
-- Bath Rugby (2021 - 2022)
-- BlackRams Tokyo (2022 - 2025)
+- ワスプス (2013 - 2019)
+- ブリストル・ベアーズ (2019 - 2022)
+- バース (2021 - 2022)
+- 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2022 - 2025)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - 2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

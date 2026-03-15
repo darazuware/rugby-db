@@ -1,10 +1,10 @@
 ---
-title: "Tevita TATAFU"
+title: "テヴィタ・タタフ"
 name_en: "Tevita TATAFU"
 position: "PR"
 team: "バイヨンヌ"
-height: "185"
-weight: "140"
+height: "185.0"
+weight: "140.0"
 birth_date: "2002.10.13"
 age: 23
 high_school: ""

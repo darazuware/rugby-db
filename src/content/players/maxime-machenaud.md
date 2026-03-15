@@ -1,10 +1,10 @@
 ---
-title: "Maxime MACHENAUD"
+title: "マキシム・マシュノー"
 name_en: "Maxime MACHENAUD"
 position: "SH"
 team: "バイヨンヌ"
-height: "174"
-weight: "87"
+height: "174.0"
+weight: "87.0"
 birth_date: "1988.12.30"
 age: 37
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Lucas DESSAIGNE"
+title: "ルカス・デセーニュ"
 name_en: "Lucas DESSAIGNE"
 position: "FL/NO8"
 team: "クレルモン"
-height: "188"
-weight: "102"
+height: "188.0"
+weight: "102.0"
 birth_date: "1999.02.07"
 age: 27
 high_school: ""

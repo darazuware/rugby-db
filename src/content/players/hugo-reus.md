@@ -1,26 +1,26 @@
 ---
-title: "Hugo REUS"
+title: "ユーゴー・リュス"
 name_en: "Hugo REUS"
 position: "SO"
 team: "ペルピニャン"
-height: "184"
-weight: "85"
+height: "184.0"
+weight: "85.0"
 birth_date: "2004.02.21"
 age: 22
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Club Athlétique Ribéracois (2009 - 2013)

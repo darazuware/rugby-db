@@ -1,10 +1,10 @@
 ---
-title: "Etienne FALGOUX"
+title: "エティエンヌ・ファルグ"
 name_en: "Etienne FALGOUX"
 position: "PR"
 team: "クレルモン"
-height: "183"
-weight: "112"
+height: "183.0"
+weight: "112.0"
 birth_date: "1993.01.19"
 age: 33
 high_school: ""

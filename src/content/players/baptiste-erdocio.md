@@ -1,10 +1,10 @@
 ---
-title: "Baptiste ERDOCIO"
+title: "バティスト・エルドシオ"
 name_en: "Baptiste ERDOCIO"
 position: "PR"
 team: "モンペリエ"
-height: "175"
-weight: "115"
+height: "175.0"
+weight: "115.0"
 birth_date: "2000.03.13"
 age: 26
 high_school: ""
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: ""
+nationality: "Voir"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/baptiste_erdoch/"
+twitter: "https://twitter.com/MHR_officiel"
+facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Bidart Union Club (2005 - 2014)

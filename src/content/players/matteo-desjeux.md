@@ -1,26 +1,26 @@
 ---
-title: "Mattéo DESJEUX"
+title: "マテオ・デジュー"
 name_en: "Mattéo DESJEUX"
 position: "LO"
 team: "ヴァンヌ"
-height: "200"
-weight: "120"
+height: "200.0"
+weight: "120.0"
 birth_date: "2002.01.26"
 age: 24
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2014
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Rugby Club du Pays Muzillacais (2007 - 2014)

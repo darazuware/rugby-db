@@ -1,10 +1,10 @@
 ---
-title: "Baptiste GERMAIN"
+title: "バティスト・ジェルマン"
 name_en: "Baptiste GERMAIN"
 position: "SH"
 team: "バイヨンヌ"
-height: "174"
-weight: "82"
+height: "174.0"
+weight: "82.0"
 birth_date: "2000.11.21"
 age: 25
 high_school: ""
@@ -26,6 +26,6 @@ facebook: ""
 - RC Cubzaguais (2007 - 2009)
 - Club Athlétique Bordeaux Bègles Gironde (2009 - 2015)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2020)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - 2024)
+- スタッド・トゥールーザン (2020 - 2024)
 - Biarritz Olympique Pays Basque (2022 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

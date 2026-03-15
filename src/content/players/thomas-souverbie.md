@@ -1,10 +1,10 @@
 ---
-title: "Thomas SOUVERBIE"
+title: "トマ・スヴェルビー"
 name_en: "Thomas SOUVERBIE"
 position: "SH"
 team: "ポー"
-height: "175"
-weight: "80"
+height: "175.0"
+weight: "80.0"
 birth_date: "//2004"
 age: null
 high_school: ""

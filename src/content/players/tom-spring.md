@@ -1,10 +1,10 @@
 ---
-title: "Tom SPRING"
+title: "トム・スプリング"
 name_en: "Tom SPRING"
 position: "WTB"
 team: "バイヨンヌ"
-height: "186"
-weight: "87"
+height: "186.0"
+weight: "87.0"
 birth_date: "2002.09.26"
 age: 23
 high_school: ""

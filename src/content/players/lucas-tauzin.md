@@ -1,10 +1,10 @@
 ---
-title: "Lucas TAUZIN"
+title: "ルカス・トザン"
 name_en: "Lucas TAUZIN"
 position: "WTB"
 team: "クレルモン"
-height: "187"
-weight: "98"
+height: "187.0"
+weight: "98.0"
 birth_date: "1998.05.21"
 age: 27
 high_school: ""
@@ -25,5 +25,5 @@ facebook: ""
 
 - S A ST Séverin (2004 - 2012)
 - Stade Montois Rugby Pro (2012 - 2016)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2016 - 2024)
+- スタッド・トゥールーザン (2016 - 2024)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )

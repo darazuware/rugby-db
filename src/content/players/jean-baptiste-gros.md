@@ -1,10 +1,10 @@
 ---
-title: "Jean・Baptiste GROS"
+title: "ジャン＝バティスト・グロ"
 name_en: "Jean-Baptiste GROS"
 position: "PR"
 team: "トゥーロン"
-height: "185"
-weight: "112"
+height: "185.0"
+weight: "112.0"
 birth_date: "1999.05.29"
 age: 26
 high_school: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - US Tarascon (2009 - 2013)
 - Provence Rugby (2013 - 2016)
-- Rugby Club Toulonnais (2016 - )
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - )

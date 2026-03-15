@@ -1,10 +1,10 @@
 ---
-title: "Lucas ZAMORA"
+title: "ルカス・サモラ"
 name_en: "Lucas ZAMORA"
 position: "SH"
 team: "クレルモン"
-height: "170"
-weight: "80"
+height: "170.0"
+weight: "80.0"
 birth_date: "//2004"
 age: null
 high_school: ""

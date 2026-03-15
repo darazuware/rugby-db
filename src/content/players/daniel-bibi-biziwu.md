@@ -1,10 +1,10 @@
 ---
-title: "Daniel BIBI BIZIWU"
+title: "ダニエル・ビビ・ビジウ"
 name_en: "Daniel BIBI BIZIWU"
 position: "PR"
 team: "ポー"
-height: "183"
-weight: "119"
+height: "183.0"
+weight: "119.0"
 birth_date: "2001.08.29"
 age: 24
 high_school: ""

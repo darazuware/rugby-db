@@ -1,10 +1,10 @@
 ---
-title: "Sipili FALATEA"
+title: "シピリ・ファラテア"
 name_en: "Sipili FALATEA"
 position: "PR"
 team: "ボルドー・ベグル"
-height: "183"
-weight: "116"
+height: "183.0"
+weight: "116.0"
 birth_date: "1997.06.06"
 age: 28
 high_school: ""

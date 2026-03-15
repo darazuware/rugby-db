@@ -1,10 +1,10 @@
 ---
-title: "George MOALA"
+title: "ジョージ・モアラ"
 name_en: "George MOALA"
 position: "CTB"
 team: "クレルモン"
-height: "188"
-weight: "106"
+height: "188.0"
+weight: "106.0"
 birth_date: "1990.11.05"
 age: 35
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2011 - 2018)
+- ブルーズ (2011 - 2018)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2018 - )

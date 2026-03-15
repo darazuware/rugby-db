@@ -1,0 +1,28 @@
+---
+title: "コナー ・アンダーソン"
+name_en: "Connor Anderson"
+position: "FL/No8"
+team: "中国電力レッドレグリオンズ"
+height: "191.0"
+weight: "103.0"
+birth_date: "1996.05.13"
+age: 29
+high_school: "ブリズベン州立高校"
+university: ""
+caps: ""
+league_one_caps: "8"
+country: ""
+nationality: ""
+category: "カテゴリーB"
+division: "D3"
+league: "league-one"
+joined_year: 2024
+has_scores: true
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- West Brisbane Bulldogs (2021 - 2022)
+- レッズ (2022 - 2024)
+- 中国電力レッドレギュリオンズ (2024 - )

@@ -1,26 +1,26 @@
 ---
-title: "Paga TAFILI"
+title: "パガ・タフィリ"
 name_en: "Paga TAFILI"
 position: "PR"
 team: "ヴァンヌ"
-height: "182"
-weight: "130"
+height: "182.0"
+weight: "130.0"
 birth_date: "1987.03.08"
 age: 39
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2016
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC du Mont-Dore (2009 - 2011)

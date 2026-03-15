@@ -1,10 +1,10 @@
 ---
-title: "Pierre BOCHATON"
+title: "ピエール・ボシャトン"
 name_en: "Pierre BOCHATON"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "197"
-weight: "103"
+height: "197.0"
+weight: "103.0"
 birth_date: "2001.04.17"
 age: 24
 high_school: ""

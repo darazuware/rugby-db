@@ -1,10 +1,10 @@
 ---
-title: "Melvyn RATES"
+title: "メルヴィン・ラテ"
 name_en: "Melvyn RATES"
 position: "WTB"
 team: "モンペリエ"
-height: "180"
-weight: "87"
+height: "180.0"
+weight: "87.0"
 birth_date: "//2006"
 age: null
 high_school: ""

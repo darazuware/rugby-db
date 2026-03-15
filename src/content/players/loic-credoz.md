@@ -1,10 +1,10 @@
 ---
-title: "Loïc CRÉDOZ"
+title: "ロイク・クレド"
 name_en: "Loïc CRÉDOZ"
 position: "FL/NO8"
 team: "ポー"
-height: "188"
-weight: "107"
+height: "188.0"
+weight: "107.0"
 birth_date: "1999.05.17"
 age: 26
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - RC du Canton de Montrevel-en-Bresse (2007 - 2015)
-- Oyonnax Rugby (2015 - 2024)
+- オヨナ (2015 - 2024)
 - Section Paloise Béarn Pyrénées (2024 - )

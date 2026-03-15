@@ -1,10 +1,10 @@
 ---
-title: "Giorgi AKHALADZE"
+title: "ギオルギ・アハラゼ"
 name_en: "Giorgi AKHALADZE"
 position: "PR"
 team: "クレルモン"
-height: "186"
-weight: "128"
+height: "186.0"
+weight: "128.0"
 birth_date: "1999.04.13"
 age: 26
 high_school: ""

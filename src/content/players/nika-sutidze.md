@@ -1,10 +1,10 @@
 ---
-title: "Nika SUTIDZE"
+title: "ニカ・スティーゼ"
 name_en: "Nika SUTIDZE"
 position: "HO"
 team: "ラ・ロシェル"
-height: "180"
-weight: "104"
+height: "180.0"
+weight: "104.0"
 birth_date: "2003.09.01"
 age: 22
 high_school: ""

@@ -1,26 +1,26 @@
 ---
-title: "Eliott ROUDIL"
+title: "エリオット・ルディル"
 name_en: "Eliott ROUDIL"
 position: "CTB"
 team: "ヴァンヌ"
-height: "184"
-weight: "97"
+height: "184.0"
+weight: "97.0"
 birth_date: "1996.10.30"
 age: 29
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Stade Nantais (2004 - 2013)

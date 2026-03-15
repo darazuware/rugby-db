@@ -1,10 +1,10 @@
 ---
-title: "Levan CHILACHAVA"
+title: "レヴァン・チラチャヴァ"
 name_en: "Levan CHILACHAVA"
 position: "PR"
 team: "カストル"
-height: "188"
-weight: "133"
+height: "188.0"
+weight: "133.0"
 birth_date: "1991.08.17"
 age: 34
 high_school: ""
@@ -12,17 +12,17 @@ university: ""
 caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
-nationality: ""
+nationality: "Géorgien"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2020
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/castresolympique/"
+twitter: "https://twitter.com/CastresRugby"
+facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- Rugby Club Toulonnais (2009 - 2018)
+- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2009 - 2018)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
-- 🇫🇷 [カストル](/teams/top14/castres) (2020 - )
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )

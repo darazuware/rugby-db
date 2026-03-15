@@ -1,10 +1,10 @@
 ---
-title: "Cheikh TIBERGHIEN"
+title: "シェイク・ティベルギアン"
 name_en: "Cheikh TIBERGHIEN"
 position: "FB"
 team: "バイヨンヌ"
-height: "186"
-weight: "96"
+height: "186.0"
+weight: "96.0"
 birth_date: "2000.01.08"
 age: 26
 high_school: ""

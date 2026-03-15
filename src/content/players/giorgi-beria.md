@@ -1,10 +1,10 @@
 ---
-title: "Giorgi BERIA"
+title: "ギオルギ・ベリア"
 name_en: "Giorgi BERIA"
 position: "PR"
 team: "ペルピニャン"
-height: "175"
-weight: "108"
+height: "175.0"
+weight: "108.0"
 birth_date: "1999.11.11"
 age: 26
 high_school: ""
@@ -12,15 +12,15 @@ university: ""
 caps: "France"
 league_one_caps: "0"
 country: "France"
-nationality: ""
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Stade Aurillacois Cantal Auvergne (2010 - 2016)

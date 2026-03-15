@@ -3,8 +3,8 @@ title: "コール・フォーブス"
 name_en: "Cole FORBES"
 position: "FB"
 team: "オークランド・ブルーズ"
-height: "180"
-weight: "91"
+height: "180.0"
+weight: "91.0"
 birth_date: "1999.08.10"
 age: 26
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ベイ・オブ・プレンティ (2017 - 2025)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2020 - 2023)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - 2023)
 - ブルーズ (2023 - )

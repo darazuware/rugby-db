@@ -1,10 +1,10 @@
 ---
-title: "Pierre CASTILLON"
+title: "ピエール・カスティヨン"
 name_en: "Pierre CASTILLON"
 position: "PR"
 team: "バイヨンヌ"
-height: "185"
-weight: "106"
+height: "185.0"
+weight: "106.0"
 birth_date: "2003.09.20"
 age: 22
 high_school: ""

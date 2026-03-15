@@ -3,8 +3,8 @@ title: "テモ・マヤナヴァヌア"
 name_en: "Temo MAYANAVANUA"
 position: "LO"
 team: "フィジアン・ドゥルア"
-height: "197"
-weight: "120"
+height: "197.0"
+weight: "120.0"
 birth_date: "1997.11.09"
 age: 28
 high_school: ""
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - ノースランド (2017 - 2020)
-- 🇫🇷 [リヨン](/teams/top14/lyon) (2020 - 2023)
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2020 - 2023)
 - ノーサンプトン・セインツ (2023 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

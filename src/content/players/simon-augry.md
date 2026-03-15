@@ -1,26 +1,26 @@
 ---
-title: "Simon AUGRY"
+title: "シモン・オグリ"
 name_en: "Simon AUGRY"
 position: "FL/NO8"
 team: "ヴァンヌ"
-height: "192"
-weight: "105"
+height: "192.0"
+weight: "105.0"
 birth_date: "1997.08.22"
 age: 28
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - RC Nieuil l'Espoir (2005 - 2013)

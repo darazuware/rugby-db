@@ -3,8 +3,8 @@ title: "メスラメ・ドロコト"
 name_en: "Mesulame DOLOKOTO"
 position: "HO"
 team: "フィジアン・ドゥルア"
-height: "177"
-weight: "115"
+height: "177.0"
+weight: "115.0"
 birth_date: "1995.01.21"
 age: 31
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 グラスゴー・ウォリアーズ (2019 - 2021)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2019 - 2021)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )

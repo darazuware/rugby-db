@@ -1,10 +1,10 @@
 ---
-title: "Reece HODGE"
+title: "リース・ホッジ"
 name_en: "Reece HODGE"
 position: "CTB"
 team: "バイヨンヌ"
-height: "191"
-weight: "94"
+height: "191.0"
+weight: "94.0"
 birth_date: "1994.08.26"
 age: 31
 high_school: ""

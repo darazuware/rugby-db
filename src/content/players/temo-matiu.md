@@ -1,10 +1,10 @@
 ---
-title: "Temo MATIU"
+title: "テモ・マティウ"
 name_en: "Temo MATIU"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "191"
-weight: "100"
+height: "191.0"
+weight: "100.0"
 birth_date: "2001.07.20"
 age: 24
 high_school: ""

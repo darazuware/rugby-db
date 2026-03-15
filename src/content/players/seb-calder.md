@@ -3,10 +3,10 @@ title: "セブ・カルダー"
 name_en: "Seb CALDER"
 position: "PR"
 team: "カンタベリー・クルセイダーズ"
-height: "184"
-weight: "121"
+height: "184.0"
+weight: "121.0"
 birth_date: "2002.03.16"
-age: 23
+age: 24
 high_school: ""
 university: ""
 caps: ""

@@ -1,10 +1,10 @@
 ---
-title: "Atunaisa SOKOBALE"
+title: "アツナイサ・ソコバレ"
 name_en: "Atunaisa SOKOBALE"
 position: "PR"
 team: "カストル"
-height: "189"
-weight: "110"
+height: "189.0"
+weight: "110.0"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [カストル](/teams/top14/castres) (2023 - )
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023 - )

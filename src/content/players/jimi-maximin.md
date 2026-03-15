@@ -1,10 +1,10 @@
 ---
-title: "Jimi MAXIMIN"
+title: "ジミ・マクシミン"
 name_en: "Jimi MAXIMIN"
 position: "LO"
 team: "ポー"
-height: "204"
-weight: "133"
+height: "204.0"
+weight: "133.0"
 birth_date: "1999.04.03"
 age: 26
 high_school: ""

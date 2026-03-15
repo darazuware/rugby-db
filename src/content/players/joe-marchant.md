@@ -1,10 +1,10 @@
 ---
-title: "Joe MARCHANT"
+title: "ジョー・マーチャント"
 name_en: "Joe MARCHANT"
 position: "CTB"
 team: "スタッド・フランセ"
-height: "183"
-weight: "89"
+height: "183.0"
+weight: "89.0"
 birth_date: "1996.07.16"
 age: 29
 high_school: ""
@@ -18,11 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/joemarchant96/"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- Harlequins (2014 - 2023)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2019 - 2020)
-- Stade Français Paris Rugby (2023 - )
+- ハレクインズ (2014 - 2023)
+- ブルーズ (2019 - 2020)
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )

@@ -1,10 +1,10 @@
 ---
-title: "Thomas MARCELINE"
+title: "トマ・マルスリーヌ"
 name_en: "Thomas MARCELINE"
 position: "PR"
 team: "リヨン"
-height: "180"
-weight: "110"
+height: "180.0"
+weight: "110.0"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Rhodia Club Rugby (2011 - 2020)
-- Lyon Olympique Universitaire Rugby (2020 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2020 - )

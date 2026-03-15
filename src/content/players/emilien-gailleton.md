@@ -1,10 +1,10 @@
 ---
-title: "Émilien GAILLETON"
+title: "エミリオン・ガイユトン"
 name_en: "Émilien GAILLETON"
 position: "CTB"
 team: "ポー"
-height: "185"
-weight: "89"
+height: "185.0"
+weight: "89.0"
 birth_date: "2003.07.13"
 age: 22
 high_school: ""

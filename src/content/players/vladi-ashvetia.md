@@ -1,10 +1,10 @@
 ---
-title: "Vladi ASHVETIA"
+title: "ヴラディ・アシュヴェティア"
 name_en: "Vladi ASHVETIA"
 position: "CTB"
 team: "ラシン92"
-height: "185"
-weight: "90"
+height: "185.0"
+weight: "90.0"
 birth_date: "//2005"
 age: null
 high_school: ""

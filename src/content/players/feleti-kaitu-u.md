@@ -1,10 +1,10 @@
 ---
-title: "Feleti KAITU'U"
+title: "フェレティ・カイトゥウ"
 name_en: "Feleti KAITU'U"
 position: "HO"
 team: "ラシン92"
-height: "183"
-weight: "110"
+height: "183.0"
+weight: "110.0"
 birth_date: "1994.12.30"
 age: 31
 high_school: ""
@@ -18,11 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2024
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/flex_kaituu/"
+twitter: "https://x.com/flexkaituu"
+facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2019 - 2024)
-- Tasman Mako (2022 - 2023)
+- タスマン (2022 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

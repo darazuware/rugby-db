@@ -1,10 +1,10 @@
 ---
-title: "Clément LAPORTE"
+title: "クレマン・ラポルト"
 name_en: "Clément LAPORTE"
 position: "FB"
 team: "ポー"
-height: "181"
-weight: "87"
+height: "181.0"
+weight: "87.0"
 birth_date: "1998.01.07"
 age: 28
 high_school: ""
@@ -26,5 +26,5 @@ facebook: ""
 - Parentis Sport Rugby (2006 - 2013)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2015)
 - Sporting Union Agenais (2015 - 2019)
-- Lyon Olympique Universitaire Rugby (2019 - 2022)
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2019 - 2022)
 - Section Paloise Béarn Pyrénées (2022 - )

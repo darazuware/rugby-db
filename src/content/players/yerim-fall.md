@@ -1,10 +1,10 @@
 ---
-title: "Yérim FALL"
+title: "イェリム・フォール"
 name_en: "Yérim FALL"
 position: "WTB"
 team: "クレルモン"
-height: "178"
-weight: "90"
+height: "178.0"
+weight: "90.0"
 birth_date: "2003.06.24"
 age: 22
 high_school: ""

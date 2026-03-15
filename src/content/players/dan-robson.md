@@ -1,10 +1,10 @@
 ---
-title: "Dan ROBSON"
+title: "ダン・ロブソン"
 name_en: "Dan ROBSON"
 position: "SH"
 team: "ポー"
-height: "173"
-weight: "82"
+height: "173.0"
+weight: "82.0"
 birth_date: "1992.03.14"
 age: 34
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Gloucester Rugby (2013 - 2015)
-- Wasps (2015 - 2023)
+- グロスター (2013 - 2015)
+- ワスプス (2015 - 2023)
 - Section Paloise Béarn Pyrénées (2022 - )

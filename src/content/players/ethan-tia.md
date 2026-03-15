@@ -1,5 +1,5 @@
 ---
-title: "Ethan TIA"
+title: "イーサン・ティア"
 name_en: "Ethan TIA"
 position: "HO"
 team: "スタッド・フランセ"
@@ -24,4 +24,4 @@ facebook: ""
 ---
 
 - Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020)
-- Stade Français Paris Rugby (2020 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - )

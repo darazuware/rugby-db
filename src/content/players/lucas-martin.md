@@ -1,10 +1,10 @@
 ---
-title: "Lucas MARTIN"
+title: "ルカス・マルティン"
 name_en: "Lucas MARTIN"
 position: "HO"
 team: "バイヨンヌ"
-height: "189"
-weight: "105"
+height: "189.0"
+weight: "105.0"
 birth_date: "2002.12.09"
 age: 23
 high_school: ""

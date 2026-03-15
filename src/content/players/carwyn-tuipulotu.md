@@ -1,10 +1,10 @@
 ---
-title: "Carwyn TUIPULOTU"
+title: "カーウィン・ツイプロトゥ"
 name_en: "Carwyn TUIPULOTU"
 position: "FL/NO8"
 team: "ポー"
-height: "188"
-weight: "125"
+height: "188.0"
+weight: "125.0"
 birth_date: "2001.09.28"
 age: 24
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2018 - 2025)
-- Saracens (2024 - 2025)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2018 - 2025)
+- サラセンズ (2024 - 2025)
 - Section Paloise Béarn Pyrénées (2024 - )

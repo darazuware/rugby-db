@@ -1,10 +1,10 @@
 ---
-title: "Madosh TAMBWE"
+title: "マドッシュ・タンブウェ"
 name_en: "Madosh TAMBWE"
 position: "WTB"
 team: "ボルドー・ベグル"
-height: "186"
-weight: "94"
+height: "186.0"
+weight: "94.0"
 birth_date: "1997.05.12"
 age: 28
 high_school: ""
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Lions Rugby (2016 - 2019)
-- Golden Lions (2018 - 2019)
-- 🇿🇦 ハリウッドベッツ・シャークス (2019 - 2020)
-- 🇿🇦 ヴォーダコム・ブルズ (2020 - 2022)
+- ライオンズ (2016 - 2019)
+- ゴールデン・ライオンズ (2018 - 2019)
+- シャークス (2019 - 2020)
+- ブルズ (2020 - 2022)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - 2026)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

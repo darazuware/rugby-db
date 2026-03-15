@@ -1,10 +1,10 @@
 ---
-title: "Valentin HUTTEAU"
+title: "ヴァランタン・ユトー"
 name_en: "Valentin HUTTEAU"
 position: "SH"
 team: "ボルドー・ベグル"
-height: "169"
-weight: "75"
+height: "169.0"
+weight: "75.0"
 birth_date: "//2007"
 age: null
 high_school: ""

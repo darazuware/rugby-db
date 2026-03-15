@@ -1,26 +1,26 @@
 ---
-title: "Thomas GEFFRÉ"
+title: "トマ・ジェフレ"
 name_en: "Thomas GEFFRÉ"
 position: "LO"
 team: "ヴァンヌ"
-height: "204"
-weight: "112"
+height: "204.0"
+weight: "112.0"
 birth_date: "1998.12.24"
 age: 27
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2025
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Avenir Rugbystique Aytrésien (2011 - 2017)

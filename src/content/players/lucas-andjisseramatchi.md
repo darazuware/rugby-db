@@ -1,10 +1,10 @@
 ---
-title: "Lucas ANDJISSERAMATCHI"
+title: "ルカス・アンジセラマッチ"
 name_en: "Lucas ANDJISSERAMATCHI"
 position: "FL/NO8"
 team: "ラ・ロシェル"
-height: "187"
-weight: "105"
+height: "187.0"
+weight: "105.0"
 birth_date: "//2006"
 age: null
 high_school: ""

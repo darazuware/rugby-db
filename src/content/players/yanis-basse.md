@@ -1,10 +1,10 @@
 ---
-title: "Yanis BASSE"
+title: "ヤニス・バス"
 name_en: "Yanis BASSE"
 position: "HO"
 team: "ラシン92"
-height: "180"
-weight: "106"
+height: "180.0"
+weight: "106.0"
 birth_date: "//2006"
 age: null
 high_school: ""

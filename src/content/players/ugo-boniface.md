@@ -1,10 +1,10 @@
 ---
-title: "Ugo BONIFACE"
+title: "ウーゴ・ボニファス"
 name_en: "Ugo BONIFACE"
 position: "PR"
 team: "ボルドー・ベグル"
-height: "190"
-weight: "125"
+height: "190.0"
+weight: "125.0"
 birth_date: "1998.07.21"
 age: 27
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Yoram MOEFANA"
+title: "ヨラム・モエファナ"
 name_en: "Yoram MOEFANA"
 position: "CTB"
 team: "ボルドー・ベグル"
-height: "183"
-weight: "95"
+height: "183.0"
+weight: "95.0"
 birth_date: "2000.07.18"
 age: 25
 high_school: ""

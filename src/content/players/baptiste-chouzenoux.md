@@ -1,10 +1,10 @@
 ---
-title: "Baptiste CHOUZENOUX"
+title: "バティスト・シュゼヌー"
 name_en: "Baptiste CHOUZENOUX"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "202"
-weight: "107"
+height: "202.0"
+weight: "107.0"
 birth_date: "1993.08.07"
 age: 32
 high_school: ""

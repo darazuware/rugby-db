@@ -3,8 +3,8 @@ title: "ジョニー・マクニコル"
 name_en: "Johnny MCNICHOLL"
 position: "WTB"
 team: "カンタベリー・クルセイダーズ"
-height: "191"
-weight: "96"
+height: "191.0"
+weight: "96.0"
 birth_date: "1990.09.24"
 age: 35
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - クルセイダーズ (2013 - 2026)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 スカーレッツ (2016 - 2024)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2016 - 2024)
 - カンタベリー (2023 - )

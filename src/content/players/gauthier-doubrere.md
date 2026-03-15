@@ -1,10 +1,10 @@
 ---
-title: "Gauthier DOUBRÈRE"
+title: "ゴーティエ・ドゥブレール"
 name_en: "Gauthier DOUBRÈRE"
 position: "SH"
 team: "カストル"
-height: "176"
-weight: "82"
+height: "176.0"
+weight: "82.0"
 birth_date: "1995.12.24"
 age: 30
 high_school: ""
@@ -28,4 +28,4 @@ facebook: ""
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2018)
 - Biarritz Olympique Pays Basque (2018 - 2021)
 - Stade Montois Rugby Pro (2021 - 2022)
-- 🇫🇷 [カストル](/teams/top14/castres) (2022 - )
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2022 - )

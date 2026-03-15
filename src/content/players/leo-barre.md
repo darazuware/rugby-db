@@ -1,10 +1,10 @@
 ---
-title: "Léo BARRÉ"
+title: "レオ・バレ"
 name_en: "Léo BARRÉ"
 position: "FB"
 team: "スタッド・フランセ"
-height: "189"
-weight: "89"
+height: "189.0"
+weight: "89.0"
 birth_date: "2002.08.20"
 age: 23
 high_school: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Versailles (2009 - 2014)
 - Rugby Club Massy Essonne (2014 - 2020)
-- Stade Français Paris Rugby (2020 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - )

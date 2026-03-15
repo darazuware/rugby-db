@@ -1,10 +1,10 @@
 ---
-title: "Yohan ORABÉ"
+title: "ヨアン・オラベ"
 name_en: "Yohan ORABÉ"
 position: "FB"
 team: "バイヨンヌ"
-height: "187"
-weight: "87"
+height: "187.0"
+weight: "87.0"
 birth_date: "2002.05.21"
 age: 23
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Tom LÉVÊQUE"
+title: "トム・レヴェック"
 name_en: "Tom LÉVÊQUE"
 position: "WTB"
 team: "バイヨンヌ"
-height: "184"
-weight: "80"
+height: "184.0"
+weight: "80.0"
 birth_date: "//2006"
 age: null
 high_school: ""

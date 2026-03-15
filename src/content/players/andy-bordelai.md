@@ -1,10 +1,10 @@
 ---
-title: "Andy BORDELAI"
+title: "アンディ・ボルドライ"
 name_en: "Andy BORDELAI"
 position: "PR"
 team: "バイヨンヌ"
-height: "186"
-weight: "117"
+height: "186.0"
+weight: "117.0"
 birth_date: "2000.03.29"
 age: 25
 high_school: ""

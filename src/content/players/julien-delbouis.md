@@ -1,10 +1,10 @@
 ---
-title: "Julien DELBOUIS"
+title: "ジュリアン・デルブイス"
 name_en: "Julien DELBOUIS"
 position: "CTB"
 team: "スタッド・フランセ"
-height: "185"
-weight: "103"
+height: "185.0"
+weight: "103.0"
 birth_date: "1999.08.04"
 age: 26
 high_school: ""
@@ -18,11 +18,11 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/juliendelbouis/?hl=fr"
+twitter: "https://twitter.com/JulienDelbouis"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - US Métro (2004 - 2011)
 - Rugby Club Massy Essonne (2011 - 2018)
-- Stade Français Paris Rugby (2018 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

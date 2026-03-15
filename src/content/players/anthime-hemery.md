@@ -1,10 +1,10 @@
 ---
-title: "Anthime HEMERY"
+title: "アンティム・エムリー"
 name_en: "Anthime HEMERY"
 position: "FL/NO8"
 team: "クレルモン"
-height: "187"
-weight: "111"
+height: "187.0"
+weight: "111.0"
 birth_date: "2001.01.09"
 age: 25
 high_school: ""

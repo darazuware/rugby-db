@@ -1,29 +1,29 @@
 ---
-title: "Antoine TICHIT"
+title: "アントワーヌ・ティシ"
 name_en: "Antoine TICHIT"
 position: "PR"
 team: "カストル"
-height: "187"
-weight: "118"
+height: "187.0"
+weight: "118.0"
 birth_date: "1989.06.13"
 age: 36
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Français"
+nationality: "Français"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2015
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/castresolympique/"
+twitter: "https://twitter.com/CastresRugby"
+facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Union Athlétique Gaillacoise (2004 - 2007)
 - Sporting Club Albigeois (2007 - 2008)
-- Oyonnax Rugby (2008 - 2015)
-- 🇫🇷 [カストル](/teams/top14/castres) (2015 - )
+- オヨナ (2008 - 2015)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2015 - )

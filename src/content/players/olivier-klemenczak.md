@@ -1,10 +1,10 @@
 ---
-title: "Olivier KLEMENCZAK"
+title: "オリヴィエ・クレマンチャック"
 name_en: "Olivier KLEMENCZAK"
 position: "CTB"
 team: "ポー"
-height: "181"
-weight: "90"
+height: "181.0"
+weight: "90.0"
 birth_date: "1996.06.01"
 age: 29
 high_school: ""

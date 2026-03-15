@@ -1,29 +1,29 @@
 ---
-title: "Pierre POPELIN"
+title: "ピエール・ポプラン"
 name_en: "Pierre POPELIN"
 position: "SO"
 team: "カストル"
-height: "181"
-weight: "87"
+height: "181.0"
+weight: "87.0"
 birth_date: "1995.06.23"
 age: 30
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "Français"
+nationality: "Français"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2023
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/castresolympique/"
+twitter: "https://twitter.com/CastresRugby"
+facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2023)
 - France 7 (2017 - 2018)
 - Rugby Club Vannes (2018 - 2021)
-- 🇫🇷 [カストル](/teams/top14/castres) (2023 - )
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023 - )

@@ -1,26 +1,26 @@
 ---
-title: "Maxime LAFAGE"
+title: "マキシム・ラファージュ"
 name_en: "Maxime LAFAGE"
 position: "SO"
 team: "ヴァンヌ"
-height: "183"
-weight: "86"
+height: "183.0"
+weight: "86.0"
 birth_date: "1994.09.01"
 age: 31
 high_school: ""
 university: ""
 caps: ""
 league_one_caps: "0"
-country: ""
-nationality: ""
+country: "French"
+nationality: "French"
 category: ""
 division: ""
 league: "top14"
 joined_year: 2022
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/allrugbycom/"
+twitter: "https://x.com/AllRugbyCom"
+facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - US Colomiers (2009 - 2018)

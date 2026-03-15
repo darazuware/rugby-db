@@ -1,10 +1,10 @@
 ---
-title: "Lyam AKRAB"
+title: "リアム・アクラブ"
 name_en: "Lyam AKRAB"
 position: "HO"
 team: "モンペリエ"
-height: "178"
-weight: "103"
+height: "178.0"
+weight: "103.0"
 birth_date: "//2005"
 age: null
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Moses ALO・EMILE"
+title: "モーゼス・アロ＝イーマイル"
 name_en: "Moses ALO-EMILE"
 position: "PR"
 team: "スタッド・フランセ"
-height: "187"
-weight: "130"
+height: "187.0"
+weight: "130.0"
 birth_date: "2000.01.18"
 age: 26
 high_school: ""
@@ -18,9 +18,9 @@ division: ""
 league: "top14"
 joined_year: 2018
 has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+instagram: "https://www.instagram.com/mosesaloemile/"
+twitter: "https://x.com/SFParisRugby"
+facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- Stade Français Paris Rugby (2018 - )
+- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )

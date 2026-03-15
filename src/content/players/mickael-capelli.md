@@ -1,10 +1,10 @@
 ---
-title: "Mickaël CAPELLI"
+title: "ミカエル・カペリ"
 name_en: "Mickaël CAPELLI"
 position: "LO"
 team: "ポー"
-height: "198"
-weight: "126"
+height: "198.0"
+weight: "126.0"
 birth_date: "1997.03.18"
 age: 28
 high_school: ""

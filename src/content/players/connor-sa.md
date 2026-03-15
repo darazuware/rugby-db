@@ -1,10 +1,10 @@
 ---
-title: "Connor SA"
+title: "コナー・サ"
 name_en: "Connor SA"
 position: "HO"
 team: "ボルドー・ベグル"
-height: "183"
-weight: "103"
+height: "183.0"
+weight: "103.0"
 birth_date: "2002.01.22"
 age: 24
 high_school: ""

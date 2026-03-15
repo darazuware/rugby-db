@@ -1,0 +1,27 @@
+---
+title: "Mirco ・ SPAGNOLO"
+name_en: "Mirco SPAGNOLO"
+position: "PR"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+height: "186.0"
+weight: "110.0"
+birth_date: "2001.01.02"
+age: 25
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: ""
+division: ""
+league: "urc"
+joined_year: 2023
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- Petrarca Rugby (2022 - 2023)
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2023 - )

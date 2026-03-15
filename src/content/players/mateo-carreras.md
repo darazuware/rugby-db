@@ -1,10 +1,10 @@
 ---
-title: "Mateo CARRERAS"
+title: "マテオ・カレーラス"
 name_en: "Mateo CARRERAS"
 position: "WTB"
 team: "バイヨンヌ"
-height: "173"
-weight: "84"
+height: "173.0"
+weight: "84.0"
 birth_date: "1999.12.17"
 age: 26
 high_school: ""
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Jaguares XV (2018 - 2019)
-- Jaguares (2019 - 2020)
-- Newcastle (2020 - 2024)
+- ハグアレス (2019 - 2020)
+- ニューカッスル (2020 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

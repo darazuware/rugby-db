@@ -1,10 +1,10 @@
 ---
-title: "Clément MONDINAT"
+title: "クレマン・モンディナ"
 name_en: "Clément MONDINAT"
 position: "SO"
 team: "ポー"
-height: "178"
-weight: "80"
+height: "178.0"
+weight: "80.0"
 birth_date: "2003.10.29"
 age: 22
 high_school: ""

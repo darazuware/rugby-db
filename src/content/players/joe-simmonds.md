@@ -1,10 +1,10 @@
 ---
-title: "Joe SIMMONDS"
+title: "ジョー・シモンズ"
 name_en: "Joe SIMMONDS"
 position: "SO"
 team: "ポー"
-height: "183"
-weight: "91"
+height: "183.0"
+weight: "91.0"
 birth_date: "1996.12.19"
 age: 29
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2016 - 2023)
+- エクセター・チーフス (2016 - 2023)
 - Section Paloise Béarn Pyrénées (2023 - )

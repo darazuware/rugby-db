@@ -1,10 +1,10 @@
 ---
-title: "Romain BUROS"
+title: "ロマン・ビュロス"
 name_en: "Romain BUROS"
 position: "FB"
 team: "ボルドー・ベグル"
-height: "187"
-weight: "97"
+height: "187.0"
+weight: "97.0"
 birth_date: "1997.07.31"
 age: 28
 high_school: ""

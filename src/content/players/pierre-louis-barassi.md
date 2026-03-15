@@ -1,10 +1,10 @@
 ---
-title: "Pierre・Louis BARASSI"
+title: "ピエール＝ルイ・バラッシ"
 name_en: "Pierre-Louis BARASSI"
 position: "CTB"
 team: "トゥールーズ"
-height: "188"
-weight: "102"
+height: "188.0"
+weight: "102.0"
 birth_date: "1998.04.22"
 age: 27
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Racing Club Narbonnais (2005 - 2016)
-- Lyon Olympique Universitaire Rugby (2016 - 2022)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2016 - 2022)
+- スタッド・トゥールーザン (2022 - )

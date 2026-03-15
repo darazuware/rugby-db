@@ -1,10 +1,10 @@
 ---
-title: "Killian TIXERONT"
+title: "キリアン・ティクスロン"
 name_en: "Killian TIXERONT"
 position: "FL/NO8"
 team: "クレルモン"
-height: "196"
-weight: "107"
+height: "196.0"
+weight: "107.0"
 birth_date: "2002.01.22"
 age: 24
 high_school: ""

@@ -1,10 +1,10 @@
 ---
-title: "Bastien VERGNES・TAILLEFER"
+title: "バスチャン・ヴェルニュ＝タイユフェール"
 name_en: "Bastien VERGNES-TAILLEFER"
 position: "FL/NO8"
 team: "ボルドー・ベグル"
-height: "194"
-weight: "114"
+height: "194.0"
+weight: "114.0"
 birth_date: "1997.06.13"
 age: 28
 high_school: ""

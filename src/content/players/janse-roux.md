@@ -1,10 +1,10 @@
 ---
-title: "Janse ROUX"
+title: "ヤンセ・ルー"
 name_en: "Janse ROUX"
 position: "LO"
 team: "リヨン"
-height: "200"
-weight: "125"
+height: "200.0"
+weight: "125.0"
 birth_date: "1997.08.28"
 age: 28
 high_school: ""
@@ -27,5 +27,5 @@ facebook: ""
 - CS Bourgoin Jallieu Rugby (2017 - 2019)
 - Soyaux-Angoulême XV Charente (2019 - 2023)
 - US Colomiers (2023 - 2025)
-- Lyon Olympique Universitaire Rugby (2025 - 2026)
-- CA Brive Corrèze Limousin (2025 - )
+- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2025 - 2026)
+- ブリーヴ (2025 - )

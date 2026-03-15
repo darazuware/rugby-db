@@ -1,10 +1,10 @@
 ---
-title: "Baptiste JAUNEAU"
+title: "バティスト・ジョノー"
 name_en: "Baptiste JAUNEAU"
 position: "SH"
 team: "クレルモン"
-height: "169"
-weight: "82"
+height: "169.0"
+weight: "82.0"
 birth_date: "2003.11.17"
 age: 22
 high_school: ""

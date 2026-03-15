@@ -1,10 +1,10 @@
 ---
-title: "Fabien BRAU・BOIRIE"
+title: "ファビアン・ブロー＝ボワリ"
 name_en: "Fabien BRAU-BOIRIE"
 position: "CTB"
 team: "ポー"
-height: "190"
-weight: "98"
+height: "190.0"
+weight: "98.0"
 birth_date: "//2005"
 age: null
 high_school: ""

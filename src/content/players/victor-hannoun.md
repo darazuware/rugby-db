@@ -1,10 +1,10 @@
 ---
-title: "Victor HANNOUN"
+title: "ヴィクトール・アヌーン"
 name_en: "Victor HANNOUN"
 position: "WTB"
 team: "バイヨンヌ"
-height: "182"
-weight: "85"
+height: "182.0"
+weight: "85.0"
 birth_date: "2003.08.20"
 age: 22
 high_school: ""
