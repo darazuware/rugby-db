@@ -710,7 +710,7 @@
       "round": 11,
       "home": "トヨタヴェルブリッツ",
       "away": "浦安D-Rocks",
-      "score": "VS",
+      "score": "59-19",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29319"
@@ -721,7 +721,7 @@
       "round": 11,
       "home": "東京サントリーサンゴリアス",
       "away": "東芝ブレイブルーパス東京",
-      "score": "VS",
+      "score": "60-21",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29320"
@@ -1579,7 +1579,7 @@
       "round": 8,
       "home": "日本製鉄釜石シーウェイブス",
       "away": "レッドハリケーンズ大阪",
-      "score": "VS",
+      "score": "24-28",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29394"
@@ -2140,7 +2140,7 @@
       "round": 9,
       "home": "中国電力レッドレグリオンズ",
       "away": "クリタウォーターガッシュ昭島",
-      "score": "VS",
+      "score": "29-37",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29444"
@@ -2590,7 +2590,7 @@
       "date": "2026-03-15",
       "home": "オークランド・ブルーズ",
       "away": "モアナ・パシフィカ",
-      "score": "VS",
+      "score": "43-7",
       "home_flag": "🇳🇿",
       "away_flag": "🏝️",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949232"
@@ -4380,30 +4380,1444 @@
   ],
   "urc": [
     {
-      "home": "ヴォーダコム・ブルズ",
-      "home_flag": "🇿🇦",
-      "away": "ハリウッドベッツ・シャークス",
-      "away_flag": "🇿🇦",
-      "score": "41-12",
-      "date": "2026-03-01"
-    },
-    {
       "round": 1,
       "date": "2025-09-26",
-      "home": "Stormers",
-      "away": "Leinster",
+      "home": "DHLストーマーズ",
+      "away": "レンスター・ラグビー",
       "score": "35-0",
       "home_flag": "🇿🇦",
-      "away_flag": "🇮🇪"
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287855"
     },
     {
       "round": 1,
       "date": "2025-09-26",
-      "home": "Glasgow Warriors",
-      "away": "Sharks",
-      "score": "28-14",
+      "home": "アルスター・ラグビー",
+      "away": "Dragons RFC",
+      "score": "42-21",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287856"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-26",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "35-19",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287857"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "オスプリーズ",
+      "score": "53-40",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287858"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "ゼブレ・パルマ",
+      "away": "エディンバラ・ラグビー",
+      "score": "31-28",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287859"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "スカーレッツ",
+      "away": "マンスター・ラグビー",
+      "score": "21-34",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287860"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "カーディフ・ラグビー",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "33-20",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287861"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "コナート・ラグビー",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "26-15",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287862"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-03",
+      "home": "DHLストーマーズ",
+      "away": "オスプリーズ",
+      "score": "26-10",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287863"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-03",
+      "home": "Dragons RFC",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "17-17",
       "home_flag": "🏴",
-      "away_flag": "🇿🇦"
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287866"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "16-14",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287867"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "レンスター・ラグビー",
+      "score": "39-31",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287868"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "マンスター・ラグビー",
+      "away": "カーディフ・ラグビー",
+      "score": "23-20",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287869"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-05",
+      "home": "ゼブレ・パルマ",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "22-20",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287870"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-10",
+      "home": "マンスター・ラグビー",
+      "away": "エディンバラ・ラグビー",
+      "score": "20-19",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287871"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-10",
+      "home": "スカーレッツ",
+      "away": "DHLストーマーズ",
+      "score": "0-34",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287872"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "41-15",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287873"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "オスプリーズ",
+      "away": "ゼブレ・パルマ",
+      "score": "24-0",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287874"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "Dragons RFC",
+      "score": "49-0",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287875"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "レンスター・ラグビー",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "31-5",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287876"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "アルスター・ラグビー",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "28-7",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287877"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "カーディフ・ラグビー",
+      "away": "コナート・ラグビー",
+      "score": "14-8",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287878"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-17",
+      "home": "エディンバラ・ラグビー",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "43-0",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287879"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-17",
+      "home": "コナート・ラグビー",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "27-28",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287880"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-17",
+      "home": "Dragons RFC",
+      "away": "カーディフ・ラグビー",
+      "score": "17-24",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287881"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "スカーレッツ",
+      "score": "29-18",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287882"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "アルスター・ラグビー",
+      "score": "26-34",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287883"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "レンスター・ラグビー",
+      "away": "マンスター・ラグビー",
+      "score": "14-31",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287884"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "ゼブレ・パルマ",
+      "away": "DHLストーマーズ",
+      "score": "13-31",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287885"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "オスプリーズ",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "17-42",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287886"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-24",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "21-12",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287887"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "アルスター・ラグビー",
+      "score": "49-31",
+      "home_flag": "🏴",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287888"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "スカーレッツ",
+      "score": "29-19",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287889"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "レンスター・ラグビー",
+      "away": "ゼブレ・パルマ",
+      "score": "50-26",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287890"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "DHLストーマーズ",
+      "score": "16-31",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287891"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "Dragons RFC",
+      "away": "オスプリーズ",
+      "score": "19-19",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287892"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "マンスター・ラグビー",
+      "away": "コナート・ラグビー",
+      "score": "17-15",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287893"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "カーディフ・ラグビー",
+      "away": "エディンバラ・ラグビー",
+      "score": "20-19",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287894"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-28",
+      "home": "アルスター・ラグビー",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "47-13",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287895"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-28",
+      "home": "Dragons RFC",
+      "away": "レンスター・ラグビー",
+      "score": "10-24",
+      "home_flag": "🏴",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287896"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "33-43",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287897"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "ゼブレ・パルマ",
+      "away": "カーディフ・ラグビー",
+      "score": "14-29",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287898"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "マンスター・ラグビー",
+      "away": "DHLストーマーズ",
+      "score": "21-27",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287899"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "エディンバラ・ラグビー",
+      "away": "オスプリーズ",
+      "score": "19-17",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287900"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "コナート・ラグビー",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "44-17",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287901"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "スカーレッツ",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "23-0",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287902"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-19",
+      "home": "カーディフ・ラグビー",
+      "away": "スカーレッツ",
+      "score": "17-21",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287903"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-19",
+      "home": "レンスター・ラグビー",
+      "away": "アルスター・ラグビー",
+      "score": "24-20",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287904"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "DHLストーマーズ",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "34-27",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287905"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "ゼブレ・パルマ",
+      "score": "21-15",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287906"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "エディンバラ・ラグビー",
+      "score": "24-12",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287907"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "21-12",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287908"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "オスプリーズ",
+      "away": "マンスター・ラグビー",
+      "score": "10-26",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287909"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "Dragons RFC",
+      "away": "コナート・ラグビー",
+      "score": "48-28",
+      "home_flag": "🏴",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287910"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-26",
+      "home": "カーディフ・ラグビー",
+      "away": "Dragons RFC",
+      "score": "22-19",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287911"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-26",
+      "home": "スカーレッツ",
+      "away": "オスプリーズ",
+      "score": "19-26",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287912"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-27",
+      "home": "ゼブレ・パルマ",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "23-37",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287913"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-27",
+      "home": "エディンバラ・ラグビー",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "3-21",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287914"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-27",
+      "home": "コナート・ラグビー",
+      "away": "アルスター・ラグビー",
+      "score": "24-29",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287915"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-27",
+      "home": "マンスター・ラグビー",
+      "away": "レンスター・ラグビー",
+      "score": "8-13",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287916"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-01",
+      "home": "Dragons RFC",
+      "away": "スカーレッツ",
+      "score": "28-5",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287919"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-01",
+      "home": "オスプリーズ",
+      "away": "カーディフ・ラグビー",
+      "score": "33-22",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287920"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-02",
+      "home": "アルスター・ラグビー",
+      "away": "マンスター・ラグビー",
+      "score": "28-3",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287921"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "22-23",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287922"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "DHLストーマーズ",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "13-8",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287923"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "エディンバラ・ラグビー",
+      "score": "14-15",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287924"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "レンスター・ラグビー",
+      "away": "コナート・ラグビー",
+      "score": "52-17",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287925"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "ゼブレ・パルマ",
+      "score": "47-10",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287926"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-23",
+      "home": "オスプリーズ",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "24-24",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287927"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-23",
+      "home": "エディンバラ・ラグビー",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "17-19",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287928"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-23",
+      "home": "マンスター・ラグビー",
+      "away": "Dragons RFC",
+      "score": "22-20",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287929"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "スカーレッツ",
+      "away": "アルスター・ラグビー",
+      "score": "27-22",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287930"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "コナート・ラグビー",
+      "away": "レンスター・ラグビー",
+      "score": "23-34",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287931"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "DHLストーマーズ",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "19-30",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287932"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "ゼブレ・パルマ",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "21-26",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287933"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "カーディフ・ラグビー",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "17-8",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287934"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-30",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "スカーレッツ",
+      "score": "20-20",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287935"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-30",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "マンスター・ラグビー",
+      "score": "31-22",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287936"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "17-52",
+      "home_flag": "🏴",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287937"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "DHLストーマーズ",
+      "score": "36-24",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287938"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "ゼブレ・パルマ",
+      "away": "コナート・ラグビー",
+      "score": "15-31",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287939"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "レンスター・ラグビー",
+      "away": "エディンバラ・ラグビー",
+      "score": "28-20",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287940"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "オスプリーズ",
+      "away": "Dragons RFC",
+      "score": "19-13",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287941"
+    },
+    {
+      "round": 11,
+      "date": "2026-01-31",
+      "home": "アルスター・ラグビー",
+      "away": "カーディフ・ラグビー",
+      "score": "21-14",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287942"
+    },
+    {
+      "round": 8,
+      "date": "2026-02-21",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "34-22",
+      "home_flag": "🏴",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287918"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-27",
+      "home": "カーディフ・ラグビー",
+      "away": "レンスター・ラグビー",
+      "score": "8-7",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287944"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-27",
+      "home": "エディンバラ・ラグビー",
+      "away": "スカーレッツ",
+      "score": "24-19",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287943"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "DHLストーマーズ",
+      "score": "24-10",
+      "home_flag": "🏴",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287945"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "41-12",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287946"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "コナート・ラグビー",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "15-10",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287947"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "マンスター・ラグビー",
+      "away": "ゼブレ・パルマ",
+      "score": "21-7",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287948"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "Dragons RFC",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "15-15",
+      "home_flag": "🏴",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287949"
+    },
+    {
+      "round": 12,
+      "date": "2026-02-28",
+      "home": "オスプリーズ",
+      "away": "アルスター・ラグビー",
+      "score": "21-10",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287950"
+    },
+    {
+      "round": 2,
+      "date": "2026-03-13",
+      "home": "コナート・ラグビー",
+      "away": "スカーレッツ",
+      "score": "31-14",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287864"
+    },
+    {
+      "round": 2,
+      "date": "2026-03-13",
+      "home": "エディンバラ・ラグビー",
+      "away": "アルスター・ラグビー",
+      "score": "19-40",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287865"
+    },
+    {
+      "round": 8,
+      "date": "2026-03-14",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "DHLストーマーズ",
+      "score": "19-32",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287917"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-20",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "カーディフ・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287951"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-20",
+      "home": "スカーレッツ",
+      "away": "ゼブレ・パルマ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287952"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-20",
+      "home": "アルスター・ラグビー",
+      "away": "コナート・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287953"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-21",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "エディンバラ・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287954"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-21",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "マンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287955"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-21",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "オスプリーズ",
+      "score": "VS",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287956"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-21",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "レンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287957"
+    },
+    {
+      "round": 13,
+      "date": "2026-03-22",
+      "home": "DHLストーマーズ",
+      "away": "Dragons RFC",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287958"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-27",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "カーディフ・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287959"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-27",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287960"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-27",
+      "home": "レンスター・ラグビー",
+      "away": "スカーレッツ",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287965"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-28",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "マンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287961"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-28",
+      "home": "コナート・ラグビー",
+      "away": "オスプリーズ",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287962"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-28",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "Dragons RFC",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287963"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-28",
+      "home": "DHLストーマーズ",
+      "away": "エディンバラ・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287964"
+    },
+    {
+      "round": 14,
+      "date": "2026-03-28",
+      "home": "ゼブレ・パルマ",
+      "away": "アルスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287966"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-17",
+      "home": "エディンバラ・ラグビー",
+      "away": "ゼブレ・パルマ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287967"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-17",
+      "home": "アルスター・ラグビー",
+      "away": "レンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287968"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-17",
+      "home": "Dragons RFC",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287969"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-18",
+      "home": "DHLストーマーズ",
+      "away": "コナート・ラグビー",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287971"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-18",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287970"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-18",
+      "home": "スカーレッツ",
+      "away": "カーディフ・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287972"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-18",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "マンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287973"
+    },
+    {
+      "round": 15,
+      "date": "2026-04-18",
+      "home": "オスプリーズ",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287974"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-24",
+      "home": "カーディフ・ラグビー",
+      "away": "オスプリーズ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287977"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-24",
+      "home": "エディンバラ・ラグビー",
+      "away": "ハリウッドベッツ・シャークス",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287975"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-24",
+      "home": "ゼブレ・パルマ",
+      "away": "Dragons RFC",
+      "score": "VS",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287976"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-25",
+      "home": "DHLストーマーズ",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287979"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-25",
+      "home": "Fidelity SecureDrive Lions",
+      "away": "コナート・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287978"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-25",
+      "home": "マンスター・ラグビー",
+      "away": "アルスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287980"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-25",
+      "home": "スカーレッツ",
+      "away": "ヴォーダコム・ブルズ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287981"
+    },
+    {
+      "round": 16,
+      "date": "2026-04-25",
+      "home": "ベネットン・ラグビー・トレヴィーゾ",
+      "away": "レンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇹",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287982"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-08",
+      "home": "グラスゴー・ウォリアーズ",
+      "away": "カーディフ・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287983"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-08",
+      "home": "アルスター・ラグビー",
+      "away": "DHLストーマーズ",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287984"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "ゼブレ・パルマ",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287985"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287986"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "オスプリーズ",
+      "away": "スカーレッツ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287987"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "レンスター・ラグビー",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287988"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "Dragons RFC",
+      "away": "エディンバラ・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287989"
+    },
+    {
+      "round": 17,
+      "date": "2026-05-09",
+      "home": "コナート・ラグビー",
+      "away": "マンスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287990"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-15",
+      "home": "カーディフ・ラグビー",
+      "away": "DHLストーマーズ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🇿🇦",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287991"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-15",
+      "home": "アルスター・ラグビー",
+      "away": "グラスゴー・ウォリアーズ",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287992"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-15",
+      "home": "エディンバラ・ラグビー",
+      "away": "コナート・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "away_flag": "🇮🇪",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287993"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-16",
+      "home": "ハリウッドベッツ・シャークス",
+      "away": "ゼブレ・パルマ",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287994"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-16",
+      "home": "ヴォーダコム・ブルズ",
+      "away": "ベネットン・ラグビー・トレヴィーゾ",
+      "score": "VS",
+      "home_flag": "🇿🇦",
+      "away_flag": "🇮🇹",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287995"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-16",
+      "home": "レンスター・ラグビー",
+      "away": "オスプリーズ",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287996"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-16",
+      "home": "スカーレッツ",
+      "away": "Dragons RFC",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287997"
+    },
+    {
+      "round": 18,
+      "date": "2026-05-16",
+      "home": "マンスター・ラグビー",
+      "away": "Fidelity SecureDrive Lions",
+      "score": "VS",
+      "home_flag": "🇮🇪",
+      "away_flag": "🏴",
+      "detail_url": "https://www.unitedrugby.com/match-centre/202501/287998"
     }
   ]
 }

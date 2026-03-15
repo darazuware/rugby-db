@@ -1,0 +1,3579 @@
+{
+  "data": {
+    "fixturesThemeSettings": {
+      "fixturesGroup": [
+        {
+          "fixtures": [
+            {
+              "id": 287855,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287856,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287857,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287858,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287859,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287860,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287861,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287862,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287927,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287928,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287929,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287930,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287931,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287932,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287933,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287934,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287935,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287936,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287937,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287938,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287939,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287940,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287941,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287942,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287943,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287944,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287945,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287946,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287947,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287948,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287949,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287950,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287951,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287952,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287953,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287954,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287955,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287956,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287957,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287958,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287959,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287960,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287961,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287962,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287963,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287964,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287965,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287966,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287967,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287968,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287969,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287970,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287971,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287972,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287973,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287974,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287975,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287976,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287977,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287978,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287979,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287980,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287981,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287982,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287983,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287984,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287985,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287986,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287987,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287988,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287989,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287990,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287991,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287992,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287993,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287994,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287995,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287996,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287997,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287998,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287999,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 288000,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 288001,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 288002,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287863,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287864,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287865,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287866,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287867,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287868,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287869,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287870,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 288003,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 288004,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 288005,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287871,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287872,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287873,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287874,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287875,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287876,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287877,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287878,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287879,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287880,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287881,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287882,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287883,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287884,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287885,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287886,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287887,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287888,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287889,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287890,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287891,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287892,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287893,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287894,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287895,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287896,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287897,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287898,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287899,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287900,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287901,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287902,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287903,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "BBC",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287904,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287905,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287906,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287907,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287908,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287909,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287910,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287911,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "BBC",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287912,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287913,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287914,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287915,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287916,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287917,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287918,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        },
+        {
+          "fixtures": [
+            {
+              "id": 287919,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "S4C",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287920,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "BBC",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287921,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287922,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287923,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287924,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287925,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "TG4",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            },
+            {
+              "id": 287926,
+              "broadcasters": [
+                {
+                  "name": "Premier Sports",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "Super Sport",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "URC TV",
+                  "__typename": "FixtureBroadcasterType"
+                },
+                {
+                  "name": "FloRugby",
+                  "__typename": "FixtureBroadcasterType"
+                }
+              ],
+              "__typename": "FixtureType"
+            }
+          ],
+          "__typename": "FixturesGroupType"
+        }
+      ],
+      "__typename": "FixturesThemeSettingsType"
+    }
+  },
+  "extensions": {
+    "debug": [
+      {
+        "type": "DEBUG_LOGS_INACTIVE",
+        "message": "GraphQL Debug logging is not active. To see debug logs, GRAPHQL_DEBUG must be enabled."
+      }
+    ],
+    "graphqlSmartCache": {
+      "graphqlObjectCache": []
+    }
+  }
+}

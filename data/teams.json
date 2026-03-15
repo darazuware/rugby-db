@@ -263,6 +263,86 @@
     "league": "super-rugby"
   },
   {
+    "team_name": "ヴォーダコム・ブルズ",
+    "slug": "vodacom-bulls",
+    "league": "urc"
+  },
+  {
+    "team_name": "カーディフ・ラグビー",
+    "slug": "cardiff-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "コナート・ラグビー",
+    "slug": "connacht-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "ドラゴンズ・ラグビー",
+    "slug": "dragons-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "エディンバラ・ラグビー",
+    "slug": "edinburgh-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "グラスゴー・ウォリアーズ",
+    "slug": "glasgow-warriors",
+    "league": "urc"
+  },
+  {
+    "team_name": "レンスター・ラグビー",
+    "slug": "leinster-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "エミレーツ・ライオンズ",
+    "slug": "emirates-lions",
+    "league": "urc"
+  },
+  {
+    "team_name": "マンスター・ラグビー",
+    "slug": "munster-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "オスプリーズ",
+    "slug": "ospreys",
+    "league": "urc"
+  },
+  {
+    "team_name": "スカーレッツ",
+    "slug": "scarlets",
+    "league": "urc"
+  },
+  {
+    "team_name": "ハリウッドベッツ・シャークス",
+    "slug": "hollywoodbets-sharks",
+    "league": "urc"
+  },
+  {
+    "team_name": "DHLストーマーズ",
+    "slug": "dhl-stormers",
+    "league": "urc"
+  },
+  {
+    "team_name": "ベネットン・ラグビー・トレヴィーゾ",
+    "slug": "benetton-rugby-trevise",
+    "league": "urc"
+  },
+  {
+    "team_name": "アルスター・ラグビー",
+    "slug": "ulster-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "ゼブレ・パルマ",
+    "slug": "zebre-parma",
+    "league": "urc"
+  },
+  {
     "team_name": "トゥールーズ",
     "team_en_name": "Stade Toulousain",
     "slug": "toulouse",
