@@ -47,12 +47,16 @@ const FLAG_MAP: Record<string, string> = {
     'ENG': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
     'ウェールズ': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
     'WAL': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+    'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+    'ポーランド': '🇵🇱',
+    'POL': '🇵🇱',
     'スコットランド': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-    'SCO': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+    'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
     'アイルランド': '🇮🇪',
-    'IRE': '🇮🇪',
+    'Ireland': '🇮🇪',
     'イタリア': '🇮🇹',
     'ITA': '🇮🇹',
+    'Italy': '🇮🇹',
     'アルゼンチン': '🇦🇷',
     'ARG': '🇦🇷',
     'アメリカ': '🇺🇸',
@@ -98,8 +102,20 @@ const CATEGORIES = [
 const LEAGUES = [
     { id: 'league-one', name: 'LEAGUE ONE' },
     { id: 'super-rugby', name: 'SUPER RUGBY' },
-    { id: 'top14', name: 'TOP 14' }
+    { id: 'top14', name: 'TOP 14' },
+    { id: 'urc', name: 'URC' }
 ];
+
+const SCHOOL_SYNONYMS: Record<string, string[]> = {
+    '伏見工業高校（現：京都工学院高校）': ['伏見工業高校', '京都工学院高校', '伏見工業', '伏見工', '京都工学院'],
+    '京都工学院高校（旧：伏見工業高校）': ['伏見工業高校', '京都工学院高校', '伏見工業', '伏見工', '京都工学院'],
+    '江の川高校（現：石見智翠館高校）': ['江の川高校', '石見智翠館高校', '江の川', '石見智翠館'],
+    '石見智翠館高校（旧：江の川高校）': ['江の川高校', '石見智翠館高校', '江の川', '石見智翠館'],
+    '東海大仰星高校': ['東海大仰星高校', '東海大大阪仰星高校', '東海大仰星', '大阪仰星'],
+    '東海大大阪仰星高校': ['東海大仰星高校', '東海大大阪仰星高校', '東海大仰星', '大阪仰星'],
+    '日本航空高校石川': ['日本航空高校石川', '日本航空石川高校', '日本航空石川'],
+    '日本航空石川高校': ['日本航空高校石川', '日本航空石川高校', '日本航空石川'],
+};
 
 const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [search, setSearch] = useState('');
@@ -283,6 +299,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
     const filteredPlayers = useMemo(() => {
         let result = initialPlayers.filter((p) => {
+            const pLeague = (p.data.league ?? '').toLowerCase();
+            
             if (search.endsWith('歳')) {
                 const targetAge = search.replace('歳', '');
                 return String(p.data.age ?? '') === targetAge;
@@ -297,12 +315,19 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             }
 
             const searchLower = search.toLowerCase();
+            
+            // 学校名の同一性チェック
+            const synonyms = SCHOOL_SYNONYMS[search] || [searchLower];
+            const matchSchool = synonyms.some(s => 
+                (p.data.high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
+                (p.data.university?.toLowerCase() ?? '').includes(s.toLowerCase())
+            );
+
             const matchSearch =
                 p.data.title.toLowerCase().includes(searchLower) ||
                 (p.data.team?.toLowerCase() ?? '').includes(searchLower) ||
                 (p.data.position?.toLowerCase() ?? '').includes(searchLower) ||
-                (p.data.high_school?.toLowerCase() ?? '').includes(searchLower) ||
-                (p.data.university?.toLowerCase() ?? '').includes(searchLower) ||
+                matchSchool ||
                 (p.data.age && String(p.data.age).includes(searchLower)) ||
                 (p.data.height && String(p.data.height).includes(searchLower)) ||
                 (p.data.weight && String(p.data.weight).includes(searchLower));
@@ -314,7 +339,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                     playerPos.split(/[/／・\s]+/).some(pPart => pPart.trim() === pos.toLowerCase().trim())
                 );
 
-            const pLeague = (p.data.league ?? '').toLowerCase();
             const matchLeague = selectedLeagues.length === 0 || selectedLeagues.some(l => l.toLowerCase() === pLeague);
 
             const pDivision = (p.data.division ?? '').toUpperCase().trim();
@@ -731,8 +755,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
 
                                         return (
                                             <>
-                                                <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isPLeagueOne ? 'uppercase' : ''}`}>
-                                                    {mainName}
+                                                <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tight ${!isPLeagueOne ? 'uppercase' : ''}`}>
+                                                    {isPLeagueOne ? mainName : mainName?.split(' ').join('  ')}
                                                 </h2>
                                                 {showSub && (
                                                     <p className={`text-[13px] font-bold text-foreground/40 mb-4 italic tracking-tight ${isPLeagueOne ? 'uppercase' : ''}`}>

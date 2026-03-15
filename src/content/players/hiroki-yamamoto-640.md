@@ -7,7 +7,7 @@ height: "187.0"
 weight: "95.0"
 birth_date: "1992.11.17"
 age: 33
-high_school: "石見智翠館高校"
+high_school: "石見智翠館高校（旧：江の川高校）"
 university: "筑波大学"
 caps: "U23('13)、セブンズ日本(1)、日本代表(6)"
 league_one_caps: "25"

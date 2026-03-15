@@ -7,7 +7,7 @@ height: "170.0"
 weight: "84.0"
 birth_date: "2000.05.19"
 age: 25
-high_school: "石見智翠館高校"
+high_school: "石見智翠館高校（旧：江の川高校）"
 university: "拓殖大学"
 caps: ""
 league_one_caps: "0"

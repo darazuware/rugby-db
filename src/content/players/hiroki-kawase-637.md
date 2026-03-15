@@ -7,7 +7,7 @@ height: "178.0"
 weight: "95.0"
 birth_date: "1994.11.10"
 age: 31
-high_school: "石見智翠館高校"
+high_school: "石見智翠館高校（旧：江の川高校）"
 university: "東海大学"
 caps: ""
 league_one_caps: "14"

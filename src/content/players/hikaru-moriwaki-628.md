@@ -7,7 +7,7 @@ height: "176.0"
 weight: "108.0"
 birth_date: "2002.02.17"
 age: 24
-high_school: "京都工学院高校"
+high_school: "京都工学院高校（旧：伏見工業高校）"
 university: "流通経済大学"
 caps: ""
 league_one_caps: "3"

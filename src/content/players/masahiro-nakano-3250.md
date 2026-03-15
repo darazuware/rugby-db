@@ -7,7 +7,7 @@ height: "168.0"
 weight: "78.0"
 birth_date: "1996.01.25"
 age: 30
-high_school: "石見智翠館高校"
+high_school: "石見智翠館高校（旧：江の川高校）"
 university: "九州共立大学"
 caps: "セブンズ日本(18)"
 league_one_caps: "35"

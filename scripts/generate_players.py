@@ -146,7 +146,26 @@ def normalize_school_name(name):
     if not name or str(name).lower() == 'nan' or name == '---': return ""
     name = name.strip()
     
-    # 特定の校名変更/正規化
+    # 1. 一般的な「大」「高」の補完
+    if name.endswith('大') and not name.endswith('大学'):
+        name = name + '学'
+    elif name.endswith('高') and not name.endswith('高校'):
+        name = name + '校'
+    
+    # 2. 名称変更履歴付きの正規化
+    # 伏見工業・京都工学院グループ
+    if any(x in name for x in ['伏見工業', '伏見工']):
+        return "伏見工業高校（現：京都工学院高校）"
+    if '京都工学院' in name:
+        return "京都工学院高校（旧：伏見工業高校）"
+        
+    # 江の川・石見智翠館グループ
+    if '江の川' in name:
+        return "江の川高校（現：石見智翠館高校）"
+    if '石見智翠館' in name:
+        return "石見智翠館高校（旧：江の川高校）"
+
+    # 3. その他の特定の校名変更/正規化
     school_map = {
         '東海大仰星高校': '東海大大阪仰星高校',
         '東海大仰星': '東海大大阪仰星高校',
@@ -157,12 +176,6 @@ def normalize_school_name(name):
     
     if name in school_map:
         return school_map[name]
-    
-    # 一般的な「大」「高」の補完
-    if name.endswith('大') and not name.endswith('大学'):
-        return name + '学'
-    if name.endswith('高') and not name.endswith('高校'):
-        return name + '校'
         
     return name
 
