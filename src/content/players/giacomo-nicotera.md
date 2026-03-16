@@ -9,7 +9,7 @@ birth_date: "1996.07.15"
 age: 29
 high_school: ""
 university: ""
-caps: "Italy"
+caps: "Italy代表 (29 caps)"
 league_one_caps: "0"
 country: "Italy"
 nationality: ""

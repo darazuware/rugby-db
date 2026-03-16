@@ -9,7 +9,7 @@ birth_date: "1997.08.26"
 age: 28
 high_school: ""
 university: ""
-caps: "Japan"
+caps: "Japan代表 (15 caps)"
 league_one_caps: "0"
 country: "Japan"
 nationality: ""

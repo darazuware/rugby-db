@@ -9,7 +9,7 @@ birth_date: "1994.03.30"
 age: 31
 high_school: ""
 university: ""
-caps: "South Africa"
+caps: "South Africa代表 (14 caps)"
 league_one_caps: "0"
 country: "South Africa"
 nationality: ""

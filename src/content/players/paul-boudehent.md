@@ -9,7 +9,7 @@ birth_date: "1999.11.21"
 age: 26
 high_school: ""
 university: ""
-caps: "France"
+caps: "France代表 (14 caps) Squad caps代表 (835 caps)"
 league_one_caps: "0"
 country: "France"
 nationality: "Française"

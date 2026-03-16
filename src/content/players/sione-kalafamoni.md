@@ -9,7 +9,7 @@ birth_date: "1988.05.18"
 age: 37
 high_school: ""
 university: ""
-caps: "Tonga"
+caps: "Tonga代表 (33 caps)"
 league_one_caps: "0"
 country: "Tonga"
 nationality: "Tongan"

@@ -9,7 +9,7 @@ birth_date: "1999.09.07"
 age: 26
 high_school: ""
 university: ""
-caps: "Chile"
+caps: "Chile代表 (14 caps)"
 league_one_caps: "0"
 country: "Chile"
 nationality: "Chilean"

@@ -9,7 +9,7 @@ birth_date: "1995.04.01"
 age: 30
 high_school: ""
 university: ""
-caps: "New Zealand"
+caps: "New Zealand代表 (5 caps)"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""

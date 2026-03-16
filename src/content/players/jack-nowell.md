@@ -9,7 +9,7 @@ birth_date: "1993.04.11"
 age: 32
 high_school: ""
 university: ""
-caps: "England"
+caps: "England代表 (33 caps)"
 league_one_caps: "0"
 country: "England"
 nationality: "Anglaise"

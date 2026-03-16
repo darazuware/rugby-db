@@ -9,7 +9,7 @@ birth_date: "1991.10.07"
 age: 34
 high_school: ""
 university: ""
-caps: "Australia"
+caps: "Australia代表 (34 caps) Nationality changes between World Cups代表 (0 caps) Squad caps代表 (407 caps) Tonga代表 (0 caps)"
 league_one_caps: "0"
 country: "Australia"
 nationality: ""

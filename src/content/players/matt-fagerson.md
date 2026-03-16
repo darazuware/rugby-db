@@ -9,7 +9,7 @@ birth_date: "1998.07.16"
 age: 27
 high_school: ""
 university: ""
-caps: "Scotland"
+caps: "Scotland代表 (50 caps)"
 league_one_caps: "0"
 country: "Scotland"
 nationality: ""

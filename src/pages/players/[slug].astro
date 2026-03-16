@@ -17,6 +17,61 @@ if (!entry) {
 const { Content } = await entry.render();
 const isLeagueOne =
   entry.data.league === "league-one" || entry.data.league === "leagueone";
+
+const FLAG_MAP: Record<string, string> = {
+  '日本': '🇯🇵',
+  'Japan': '🇯🇵',
+  'オーストラリア': '🇦🇺',
+  'Australia': '🇦🇺',
+  'ニュージーランド': '🇳🇿',
+  'New Zealand': '🇳🇿',
+  '南アフリカ': '🇿🇦',
+  'South Africa': '🇿🇦',
+  'フィジー': '🇫🇯',
+  'Fiji': '🇫🇯',
+  'トンガ': '🇹🇴',
+  'Tonga': '🇹🇴',
+  'サモア': '🇼🇸',
+  'Samoa': '🇼🇸',
+  'フランス': '🇫🇷',
+  'France': '🇫🇷',
+  'イングランド': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'ウェールズ': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'スコットランド': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'アイルランド': '🇮🇪',
+  'Ireland': '🇮🇪',
+  'イタリア': '🇮🇹',
+  'Italy': '🇮🇹',
+  'アルゼンチン': '🇦🇷',
+  'Argentina': '🇦🇷',
+  'アメリカ': '🇺🇸',
+  'USA': '🇺🇸',
+  'カナダ': '🇨🇦',
+  'Canada': '🇨🇦',
+  'ジョージア': '🇬🇪',
+  'Georgia': '🇬🇪',
+  'ウルグアイ': '🇺🇾',
+  'Uruguay': '🇺🇾',
+  'ポルトガル': '🇵🇹',
+  'Portugal': '🇵🇹',
+  'ルーマニア': '🇷🇴',
+  'Romania': '🇷🇴',
+  'ナミビア': '🇳🇦',
+  'Namibia': '🇳🇦',
+  'チリ': '🇨🇱',
+  'Chile': '🇨🇱',
+};
+
+const getFlag = (country: string, capsStr: string) => {
+  if (FLAG_MAP[country]) return FLAG_MAP[country];
+  for (const [name, flag] of Object.entries(FLAG_MAP)) {
+    if (capsStr.includes(name)) return flag;
+  }
+  return "";
+};
 ---
 
 <Layout
@@ -127,6 +182,7 @@ const isLeagueOne =
                   >AGE</span
                 >
               </div>
+              {entry.data.age ? (
               <a
                 href={`/players?search=${encodeURIComponent(
                   entry.data.age + "歳"
@@ -135,6 +191,9 @@ const isLeagueOne =
               >
                 {entry.data.age}<span class="text-xs ml-1">歳</span>
               </a>
+              ) : (
+                <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
+              )}
             </div>
 
             <div
@@ -148,7 +207,7 @@ const isLeagueOne =
                 >
               </div>
               <span class="font-black text-foreground text-lg tracking-tighter"
-                >{entry.data.birth_date}</span
+                >{entry.data.birth_date && entry.data.birth_date !== "---" ? entry.data.birth_date : "---"}</span
               >
             </div>
           </div>
@@ -247,15 +306,20 @@ const isLeagueOne =
                   {isLeagueOne ? "TEST CAPS (LEAGUE ONE)" : "TEST CAPS"}
                 </span>
               </div>
-              <span class="font-black text-foreground text-lg tracking-tighter">
-                {entry.data.caps || "0"}
-                {
-                  isLeagueOne && (
-                    <span class="text-xs text-foreground/40 mx-1 ml-2">
-                      ({entry.data.league_one_caps || "0"})
-                    </span>
-                  )
-                }
+              <span class="font-black text-foreground text-lg tracking-tighter flex items-center gap-2">
+                {getFlag(entry.data.country || "", entry.data.caps || "") && (
+                  <span class="text-2xl leading-none">{getFlag(entry.data.country || "", entry.data.caps || "")}</span>
+                )}
+                <span>
+                  {entry.data.caps || "0"}
+                  {
+                    isLeagueOne && (
+                      <span class="text-xs text-foreground/40 mx-1 ml-2">
+                        ({entry.data.league_one_caps || "0"})
+                      </span>
+                    )
+                  }
+                </span>
               </span>
             </div>
           </div>

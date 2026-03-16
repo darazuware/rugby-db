@@ -9,7 +9,7 @@ birth_date: "1993.12.31"
 age: 32
 high_school: ""
 university: ""
-caps: "France"
+caps: "France代表 (8 caps)"
 league_one_caps: "0"
 country: "France"
 nationality: "Voir"

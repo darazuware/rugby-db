@@ -9,7 +9,7 @@ birth_date: "1994.02.04"
 age: 32
 high_school: ""
 university: ""
-caps: "Fiji"
+caps: "Fiji代表 (19 caps)"
 league_one_caps: "0"
 country: "Fiji"
 nationality: ""

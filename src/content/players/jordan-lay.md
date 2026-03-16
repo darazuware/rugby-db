@@ -9,7 +9,7 @@ birth_date: "1992.11.05"
 age: 33
 high_school: ""
 university: ""
-caps: "Samoa"
+caps: "Samoa代表 (26 caps)"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""

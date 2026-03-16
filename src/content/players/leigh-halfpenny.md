@@ -9,7 +9,7 @@ birth_date: "1988.12.22"
 age: 37
 high_school: ""
 university: ""
-caps: "Wales"
+caps: "Wales代表 (100 caps)"
 league_one_caps: "0"
 country: "Wales"
 nationality: ""

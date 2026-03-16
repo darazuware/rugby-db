@@ -9,7 +9,7 @@ birth_date: "1990.09.14"
 age: 35
 high_school: ""
 university: ""
-caps: "France"
+caps: "France代表 (44 caps)"
 league_one_caps: "0"
 country: "France"
 nationality: "Réseaux"

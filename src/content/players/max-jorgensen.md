@@ -9,7 +9,7 @@ birth_date: "2004.."
 age: 22
 high_school: ""
 university: ""
-caps: "Australia"
+caps: "Australia代表 (0 caps) Player representation by nation代表 (0 caps) Squad caps代表 (668 caps)"
 league_one_caps: "0"
 country: "Australia"
 nationality: ""

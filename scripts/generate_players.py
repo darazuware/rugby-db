@@ -12,7 +12,7 @@ from team_utils import linkify_career, get_team_info, get_team_link
 csv.field_size_limit(1000000)
 
 # 設定
-CSV_PATH = 'data_sources/final_master_data_v25.csv'
+CSV_PATH = 'data_sources/final_master_data_v25_integrated.csv'
 # 統合後のファイルが存在すればそちらを優先
 INTEGRATED_CSV_PATH = 'data_sources/final_master_data_v25_integrated.csv'
 if os.path.exists(INTEGRATED_CSV_PATH):
