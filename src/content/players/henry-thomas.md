@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2013 - 2014)
-- Bath Rugby (2014 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2013 - 2014)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2014 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2023)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)

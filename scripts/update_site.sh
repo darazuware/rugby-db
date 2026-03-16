@@ -12,6 +12,7 @@ python3 scripts/scrape_urc_results.py
 python3 scripts/scrape_leagueone_results.py
 python3 scripts/scrape_sr_results.py
 python3 scripts/scrape_top14_results.py
+python3 scripts/scrape_premiership_results.py
 
 # 2. 順位情報の更新 (all.rugby から最新取得)
 echo "最新の順位情報を取得中..."

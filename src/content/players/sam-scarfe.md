@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Dragons RFC (2022 - 2023)
-- Gloucester Rugby (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2023)
 - Dragons RFC (2023)
-- Gloucester Rugby (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2024)
 - Dragons RFC (2024 - )

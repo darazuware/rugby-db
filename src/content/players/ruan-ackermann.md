@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Lions Rugby (2015 - 2017)
-- Gloucester Rugby (2017 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2017 - 2025)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2025 - )

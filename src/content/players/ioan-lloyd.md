@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2018 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2018 - 2023)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2023 - 2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )

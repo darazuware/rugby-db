@@ -25,6 +25,6 @@ facebook: ""
 
 - ワラターズ (2015 - 2026)
 - カウンティーズ・マヌカウ (2018 - 2019)
-- ノーサンプトン・セインツ (2018 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2018 - 2019)
 - 🇦🇺 メルボルン・レベルズ (2019 - 2024)
 - 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2020 - )

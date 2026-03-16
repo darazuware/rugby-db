@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - ニューカッスル (2013 - 2015)
-- ノーサンプトン・セインツ (2015 - 2018)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2015 - 2018)
 - ワスプス (2018 - 2021)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - 2024)
 - Union Sportive Arlequins Perpignanais (2024 - )

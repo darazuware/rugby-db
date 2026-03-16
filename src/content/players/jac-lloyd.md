@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2019 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2022)
 - Hartpury RFC (2022)
-- Bristol Bears (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2023)
 - Hartpury RFC (2023)
 - Newport RFC (2023 - 2025)
 - Dragons RFC (2025 - )

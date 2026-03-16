@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - ジャージー・レッズ (2019 - 2023)
-- バース・ラグビー (2023 - 2024)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2023 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2024 - )

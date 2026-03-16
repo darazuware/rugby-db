@@ -26,5 +26,5 @@ facebook: ""
 - Dragons RFC (2013 - 2014)
 - Lyon Olympique Universitaire Rugby (2014 - 2015)
 - Jaguares (2015 - 2020)
-- Bristol Bears (2020 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2020 - 2021)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2021 - )

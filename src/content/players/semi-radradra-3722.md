@@ -26,6 +26,6 @@ facebook: ""
 - Parramatta Eels (2015 - 2017)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - 2018)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2020)
-- ブリストル・ベアーズ (2019 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2023)
 - 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - 2025)
 - 🇯🇵 [静岡ブルーレヴズ](/teams/league-one/shizuoka-blue-revs) [D1] (2025 - )

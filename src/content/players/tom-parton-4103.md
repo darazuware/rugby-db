@@ -25,5 +25,5 @@ facebook: ""
 
 - ロンドン・アイリッシュ (2016 - 2023)
 - London Scottish (2017 - 2018)
-- サラセンズ (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2023 - 2025)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2024 - )

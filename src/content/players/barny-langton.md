@@ -25,6 +25,6 @@ facebook: ""
 
 - Cardiff Met RFC (2022 - 2023)
 - Dragons RFC (2023 - 2025)
-- Harlequins (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025)
 - Dragons RFC (2026)
-- Harlequins (2026 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2026 - )

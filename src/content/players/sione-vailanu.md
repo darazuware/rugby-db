@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Saracens (2017 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2017 - 2019)
 - Wasps (2019 - 2021)
 - Worcester Warriors (2021 - 2022)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022 - )

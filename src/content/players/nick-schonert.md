@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - ウスター・ウォリアーズ (2015 - 2021)
-- Sale Sharks (2021 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2021 - 2025)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024 - 2025)
 - Rugby Club Vannes (2025 - )

@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2021 - 2023)
 - Hartpury RFC (2023)
-- Bristol Bears (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2024)
 - Hartpury RFC (2024)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2024 - )

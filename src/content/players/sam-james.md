@@ -23,5 +23,5 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- Sale Sharks (2015 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2015 - 2024)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )

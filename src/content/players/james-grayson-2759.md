@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- ノーサンプトン・セインツ (2017 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2017 - 2024)
 - ベッドフォード・ブルース (2022 - 2023)
 - 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2023 - )

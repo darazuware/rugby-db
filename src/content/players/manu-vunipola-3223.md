@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- サラセンズ (2018 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2018 - 2024)
 - Ampthill Rugby (2023 - 2024)
 - 🇯🇵 [三重ホンダヒート](/teams/league-one/mie-honda-heat) [D1] (2024 - )

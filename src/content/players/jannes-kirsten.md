@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2015 - 2019)
-- Exeter Chiefs (2019 - 2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2019 - 2023)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )

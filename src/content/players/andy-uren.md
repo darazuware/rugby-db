@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2016 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2016 - 2023)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2023 - )

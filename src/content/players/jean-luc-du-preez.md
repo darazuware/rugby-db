@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - シャークス (2015 - 2019)
-- Sale Sharks (2018 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2018 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

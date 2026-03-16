@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2014 - 2024)
-- Harlequins (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2024 - 2025)
 - Dragons RFC (2025 - )

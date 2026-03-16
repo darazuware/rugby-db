@@ -25,5 +25,5 @@ facebook: ""
 
 - London Welsh RFC (2014 - 2015)
 - London Irish (2017 - 2019)
-- Bath Rugby (2019 - 2024)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2019 - 2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )

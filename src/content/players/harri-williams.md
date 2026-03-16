@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Northampton Saints (2016 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2016 - 2019)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019 - 2023)
 - Ampthill Rugby (2023 - 2024)
 - Tuggeranong Vikings (2024 - 2025)

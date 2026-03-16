@@ -25,7 +25,7 @@ facebook: ""
 
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2016 - 2018)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2018 - 2022)
-- Exeter Chiefs (2022)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2022)
-- Exeter Chiefs (2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2023 - )

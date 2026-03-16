@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2016)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2017 - 2021)
-- Harlequins (2021 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2021 - 2022)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022 - )

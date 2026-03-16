@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2015 - 2016)
-- Sale Sharks (2016 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2015 - 2016)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2016 - 2019)
 - Wasps (2019 - 2022)
 - Stade Français Paris Rugby (2022)
 - Wasps (2023)

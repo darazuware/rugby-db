@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2020 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2020 - 2022)
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2022 - )

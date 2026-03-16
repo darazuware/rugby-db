@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2018 - 2019)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2019 - 2021)
-- Leicester Tigers (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2021 - 2023)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2023 - )

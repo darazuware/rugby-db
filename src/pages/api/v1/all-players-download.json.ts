@@ -1,17 +1,29 @@
 import type { APIRoute } from 'astro';
+import { getCollection } from 'astro:content';
 
-export const GET: APIRoute = () => {
-  return new Response(
-    JSON.stringify({
-      status: "error",
-      message: "Access denied. Automated collection is prohibited.",
-      reason: "Honey pot trap triggered."
-    }),
-    {
-      status: 403,
-      headers: {
-        'Content-Type': 'application/json'
+export const GET: APIRoute = async () => {
+  try {
+    const allPlayers = await getCollection('players');
+    const data = allPlayers.map(p => ({
+      id: p.id,
+      slug: p.slug,
+      ...p.data
+    }));
+
+    return new Response(
+      JSON.stringify(data),
+      {
+        status: 200,
+        headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*'
+        }
       }
-    }
-  );
+    );
+  } catch (error) {
+    return new Response(
+      JSON.stringify({ status: "error", message: "Failed to fetch player data" }),
+      { status: 500, headers: { 'Content-Type': 'application/json' } }
+    );
+  }
 };

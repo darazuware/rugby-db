@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2013 - 2019)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2022)
-- Leicester Tigers (2022 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2022 - 2025)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )

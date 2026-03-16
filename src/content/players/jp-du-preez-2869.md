@@ -25,6 +25,6 @@ facebook: ""
 
 - ライオンズ (2014 - 2015)
 - チーターズ (2018 - 2020)
-- Sale Sharks (2020 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2020 - 2022)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022 - 2025)
 - NTTドコモレッドハリケーンズ大阪 (2025 - )

@@ -25,7 +25,7 @@ facebook: ""
 
 - Sydney Roosters (2019 - 2020)
 - Edimbourg Rugby (2020 - 2023)
-- Northampton Saints (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2023)
 - Edimbourg Rugby (2024)
-- Northampton Saints (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2024 - 2025)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2025 - )

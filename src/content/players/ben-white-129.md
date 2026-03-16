@@ -2,7 +2,7 @@
 title: "ベン・ホワイト"
 name_en: "Ben WHITE"
 position: "PR"
-team: "エディンバラ・ラグビー"
+team: "トゥーロン"
 height: "182.0"
 weight: "110.0"
 birth_date: "2005.."
@@ -15,9 +15,9 @@ country: "Melrose RFC -> Edimbourg Rugby"
 nationality: ""
 category: ""
 division: ""
-league: "urc"
+league: "top14"
 joined_year: null
-has_scores: false
+has_scores: true
 instagram: ""
 twitter: ""
 facebook: ""

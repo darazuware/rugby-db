@@ -24,7 +24,7 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - ワスプス (2013 - 2019)
-- ブリストル・ベアーズ (2019 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2022)
 - バース (2021 - 2022)
 - 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2022 - 2025)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - 2025)

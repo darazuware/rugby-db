@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2014 - 2022)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2022)
 - Edimbourg Rugby (2022 - )

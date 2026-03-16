@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Gloucester Rugby (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2022 - 2023)
 - Hartpury RFC (2024 - 2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2025 - )

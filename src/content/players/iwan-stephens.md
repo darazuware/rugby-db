@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Leeds Rhinos Rugby League Club (2019 - 2020)
-- Newcastle (2020 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2020 - 2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )

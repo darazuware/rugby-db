@@ -23,15 +23,15 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2019 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2021)
 - Hartpury RFC (2021)
-- Sale Sharks (2021)
-- Bristol Bears (2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2022)
 - Hartpury RFC (2022)
-- Sale Sharks (2022 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2022 - 2024)
 - Caldy RFC (2024)
 - Western Province (2024)
-- Sale Sharks (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2025)
 - Caldy RFC (2025)
 - Western Province (2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025)

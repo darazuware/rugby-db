@@ -120,20 +120,21 @@ const initialPlayers = allPlayersRaw.map((p) => {
     };
 });
 
-// ページタイトル用の装飾文字
-const leagueTitle = leagueName.toUpperCase();
+// ページタイトル用の装飾
+const safeLeagueName = leagueName || league || "";
+const leagueTitle = safeLeagueName.toUpperCase();
 const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "league-one": { en: "LEAGUE ONE", jp: "リーグワン" },
     "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
     "top14": { en: "TOP 14", jp: "トップ14" },
     "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
 };
-const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: leagueName };
+const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
 ---
 
 <Layout
-    title={`${leagueName} チーム一覧・最新順位・選手名鑑 | RUGBY PICKS`}
-    description={`${leagueName}（${leagueTitle}）の最新順位、全所属クラブのチーム情報、および登録選手のロースター・スタッツ検索。公式にはない高度なフィルタリング機能を備えたデータベース。`}
+    title={`${safeLeagueName} チーム一覧・最新順位・選手名鑑 | RUGBY PICKS`}
+    description={`${safeLeagueName}（${leagueTitle}）の最新順位、全所属クラブのチーム情報、および登録選手のロースター・スタッツ検索。公式にはない高度なフィルタリング機能を備えたデータベース。`}
 >
     <main class="bg-background min-h-screen py-12 px-4">
         <div class="max-w-7xl mx-auto">
@@ -147,7 +148,7 @@ const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: leagu
                         >Team List</a
                     >
                     <span>/</span>
-                    <span class="text-foreground">{leagueName}</span>
+                    <span class="text-foreground">{safeLeagueName}</span>
                 </nav>
                 <h1
                     class="text-4xl md:text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase flex flex-col md:flex-row md:items-baseline gap-2 md:gap-4"
@@ -162,7 +163,7 @@ const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: leagu
                 <p
                     class="text-foreground/60 font-bold italic border-l-4 border-yellow-400 pl-4"
                 >
-                    {leagueName} の最新順位{
+                    {safeLeagueName} の最新順位{
                         !isURC && "と所属チーム・ロースター情報"
                     }
                 </p>
@@ -217,7 +218,7 @@ const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: leagu
                                     <div class="flex-grow h-px bg-border-dim" />
                                 </div>
                                 <p class="text-foreground/60 font-bold italic border-l-4 border-yellow-400 pl-4">
-                                    {leagueName}{" "}
+                                    {safeLeagueName}{" "}
                                     に登録されている全選手から、スペック検索・ソートが可能です。
                                 </p>
                             </header>

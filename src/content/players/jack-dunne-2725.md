@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - レンスター (2018 - 2022)
-- エクセター・チーフス (2022 - 2025)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022 - 2025)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2025 - )

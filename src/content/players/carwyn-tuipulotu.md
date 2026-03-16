@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2018 - 2025)
-- サラセンズ (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2024 - 2025)
 - Section Paloise Béarn Pyrénées (2024 - )

@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - 2019)
-- Sale Sharks (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019)
-- Sale Sharks (2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2020)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2020 - )

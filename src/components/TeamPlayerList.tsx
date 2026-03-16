@@ -304,7 +304,7 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                 return (
                                     <>
                                         <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isItemLeagueOne ? 'uppercase' : ''}`}>
-                                            {mainName}
+                                            {isItemLeagueOne ? mainName : mainName?.split(' ').join('  ')}
                                         </h2>
                                         {showSub && (
                                             <p className="text-[12px] font-bold text-foreground/40 mb-4 italic tracking-tight uppercase">

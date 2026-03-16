@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2017)
-- Northampton Saints (2017 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2017 - 2020)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2025)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2025 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bath Rugby (2024 - 2025)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2024 - 2025)
 - Dragons RFC (2025 - )

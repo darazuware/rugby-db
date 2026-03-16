@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2017 - 2019)
-- Leicester Tigers (2019 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2017 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2019 - 2025)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2025 - )

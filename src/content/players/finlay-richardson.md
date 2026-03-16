@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022 - 2023)
 - Cornish Pirates (2023)
-- Exeter Chiefs (2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2024)
 - Cornish Pirates (2024)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2024 - )

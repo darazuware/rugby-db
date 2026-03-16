@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bath Rugby (2023 - 2024)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2023 - 2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )

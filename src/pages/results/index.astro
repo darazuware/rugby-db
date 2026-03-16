@@ -12,6 +12,7 @@ const leagues = [
     { id: "super-rugby", name: "スーパーラグビー", label: "スーパーラグビー" },
     { id: "top14", name: "TOP 14", label: "TOP 14" },
     { id: "urc", name: "URC", label: "URC" },
+    { id: "premiership", name: "プレミアシップ", label: "PREM" },
 ];
 
 // チームのスラッグを取得するヘルパー
@@ -251,7 +252,9 @@ const initialLeague = Astro.url.searchParams.get('league') || 'league-one-d1';
 								<h2 class={`text-xl md:text-2xl font-black px-6 py-2 rounded-xl italic skew-x-[-10deg] ${
 									league.id.startsWith('league-one') ? 'bg-red-600 text-white' :
 									league.id === 'super-rugby' ? 'bg-blue-600 text-white' :
-									league.id === 'top14' ? 'bg-yellow-600 text-black' : 'bg-card text-foreground'
+									league.id === 'top14' ? 'bg-yellow-600 text-black' : 
+                                    league.id === 'premiership' ? 'bg-[#FE5000] text-black' :
+                                    league.id === 'urc' ? 'bg-[#003366] text-white' : 'bg-card text-foreground'
 								}`}>
 									{league.name.toUpperCase()}
 								</h2>
@@ -460,7 +463,9 @@ const initialLeague = Astro.url.searchParams.get('league') || 'league-one-d1';
                             <div class="flex flex-1 justify-between gap-2">
                                 {[
                                     { id: 'super-rugby', label: 'SR', color: 'hover:text-blue-500' },
-                                    { id: 'top14', label: 'T14', color: 'hover:text-yellow-500' }
+                                    { id: 'top14', label: 'T14', color: 'hover:text-yellow-500' },
+                                    { id: 'premiership', label: 'PREM', color: 'hover:text-[#FE5000]' },
+                                    { id: 'urc', label: 'URC', color: 'hover:text-[#003366]' }
                                 ].map(l => (
                                     <button 
                                         data-league-switch={l.id} 
@@ -495,7 +500,8 @@ console.warn('--- RUGBY PICKS JS v2.1 LOADED ---');
         'league-one-d3': { label: 'DIVISION 3', from: 'bg-black', text: 'text-white', border: 'border-red-900' },
         'super-rugby': { label: 'SUPER RUGBY', from: 'bg-blue-900', text: 'text-white', border: 'border-blue-700' },
         'top14': { label: 'TOP 14', from: 'bg-gray-900', text: 'text-white', border: 'border-yellow-700' },
-        'urc': { label: 'URC', from: 'bg-blue-950', text: 'text-white', border: 'border-cyan-700' }
+        'urc': { label: 'URC', from: 'bg-blue-950', text: 'text-white', border: 'border-cyan-700' },
+        'premiership': { label: 'PREMIERSHIP', from: 'bg-[#FE5000]', text: 'text-black', border: 'border-orange-700' }
     };
 
     function updateFilter(league) {

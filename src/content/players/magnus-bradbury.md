@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Edimbourg Rugby (2014 - 2022)
-- Bristol Bears (2022 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2022 - 2024)
 - Edimbourg Rugby (2024 - )

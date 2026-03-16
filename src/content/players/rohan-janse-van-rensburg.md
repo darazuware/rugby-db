@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - ライオンズ (2015 - 2018)
-- Sale Sharks (2017 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2017 - 2022)
 - シャークス (2022 - 2024)
 - 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2023 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

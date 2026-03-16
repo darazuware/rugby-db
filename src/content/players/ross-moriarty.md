@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Gloucester Rugby (2013 - 2018)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2013 - 2018)
 - Dragons RFC (2018 - 2022)
 - CA Brive Corrèze Limousin (2022)
 - Dragons RFC (2023)

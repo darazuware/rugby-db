@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2023 - 2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025)
 - Caldy RFC (2025)
-- Sale Sharks (2026)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2026)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2026)
 - Caldy RFC (2026 - )

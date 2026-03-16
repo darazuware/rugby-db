@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Saracens (2017 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2017 - 2022)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2022 - )

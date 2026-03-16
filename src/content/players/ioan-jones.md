@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- Gloucester Rugby (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2022 - 2023)
 - Hartpury RFC (2023)
-- Gloucester Rugby (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2023)
 - Hartpury RFC (2024)
-- Gloucester Rugby (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2024)
 - Hartpury RFC (2024)
-- Gloucester Rugby (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2025)
 - Hartpury RFC (2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )

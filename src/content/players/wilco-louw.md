@@ -25,8 +25,8 @@ facebook: ""
 
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2019)
 - Rugby Club Toulonnais (2019)
-- Harlequins (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2019)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020)
 - Rugby Club Toulonnais (2020)
-- Harlequins (2020 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2020 - 2023)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )

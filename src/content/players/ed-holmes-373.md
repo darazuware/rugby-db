@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- エクセター・チーフス (2017 - 2018)
-- ブリストル・ベアーズ (2018 - 2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2017 - 2018)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2018 - 2024)
 - 🇯🇵 [清水建設江東ブルーシャークス](/teams/league-one/shimizu-koto-blue-sharks) [D2] (2024 - )

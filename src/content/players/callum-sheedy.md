@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bristol Bears (2018 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2018 - 2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )

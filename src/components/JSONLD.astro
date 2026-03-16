@@ -1,0 +1,43 @@
+---
+interface Props {
+    type: "SportsPlayer" | "SportsTeam" | "Website";
+    data: any;
+}
+
+const { type, data } = Astro.props;
+
+let schema = {};
+
+if (type === "SportsPlayer") {
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "jobTitle": "Athlete",
+        "name": data.title,
+        "alternateName": data.name_en,
+        "description": `${data.team}所属のラグビー選手。ポジションは${data.position}。`,
+        "height": data.height ? `${data.height} cm` : undefined,
+        "weight": data.weight ? `${data.weight} kg` : undefined,
+        "birthDate": data.birth_date,
+        "memberOf": {
+            "@type": "SportsTeam",
+            "name": data.team
+        },
+        "url": Astro.url.href
+    };
+} else if (type === "Website") {
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RUGBY PICKS",
+        "url": "https://rugbypick.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rugbypick.com/players?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    };
+}
+---
+
+<script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />

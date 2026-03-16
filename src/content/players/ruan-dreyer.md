@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Lions Rugby (2013 - 2018)
-- Gloucester Rugby (2018 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2018 - 2020)
 - Lions Rugby (2020 - 2024)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2024 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2025)
 - Dragons RFC (2025 - )

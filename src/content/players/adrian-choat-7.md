@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - オークランド (2018)
-- ブリストル・ベアーズ (2019 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2020)
 - ブルーズ (2021 - 2025)
 - Sayama Secom Rugguts (2025 - )

@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - London Irish (2016 - 2022)
-- Leicester Tigers (2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2022)
 - Nottingham Rugby (2022)
-- Leicester Tigers (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2023)
 - Nottingham Rugby (2023)
-- Leicester Tigers (2023 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2023 - 2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2024 - )

@@ -25,4 +25,4 @@ facebook: ""
 
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2026)
 - 🇦🇺 メルボルン・レベルズ (2019 - 2021)
-- ノーサンプトン・セインツ (2021 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2021 - )

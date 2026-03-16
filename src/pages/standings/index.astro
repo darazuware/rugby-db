@@ -27,11 +27,27 @@ const leagueData = [
         color: "bg-[#C5A059]",
         accent: "text-[#C5A059]",
         standings: (standingsData["top14"] as any)?.standings || []
+    },
+    {
+        id: "urc",
+        name: "URC",
+        title_jp: "ユナイテッド・ラグビー・チャンピオンシップ",
+        color: "bg-[#003366]",
+        accent: "text-[#003366]",
+        standings: (standingsData["urc"] as any)?.standings || []
+    },
+    {
+        id: "premiership",
+        name: "PREMIERSHIP",
+        title_jp: "プレミアシップ",
+        color: "bg-[#FE5000]",
+        accent: "text-[#FE5000]",
+        standings: (standingsData["premiership"] as any)?.standings || []
     }
 ];
 ---
 
-<Layout title="順位表 | RUGBY PICKS" description="世界各国の主要ラグビーリーグ（リーグワン、スーパーラグビー、Top 14）の最新順位表。詳細な勝敗データや得失点差をチェックできます。">
+<Layout title="順位表 | RUGBY PICKS" description="世界各国の主要ラグビーリーグ（リーグワン、スーパーラグビー、Top 14、URC、プレミアシップ）の最新順位表。詳細な勝敗データや得失点差をチェックできます。">
     <div class="py-8 md:py-12">
         <header class="mb-12">
             <span class="inline-block px-4 py-1 bg-yellow-400 text-black font-black text-xs rounded-full mb-6 uppercase tracking-widest italic">

@@ -25,7 +25,7 @@ facebook: ""
 
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2017 - 2019)
 - Utah Warriors (2020 - 2021)
-- Newcastle (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2021 - 2023)
 - Soyaux-Angoulême XV Charente (2023 - 2024)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2024)
 - Soyaux-Angoulême XV Charente (2025)

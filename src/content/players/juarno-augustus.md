@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2016 - 2021)
-- Northampton Saints (2021 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2021 - 2025)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2025 - )

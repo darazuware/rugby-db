@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2013 - 2018)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2013 - 2018)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - )

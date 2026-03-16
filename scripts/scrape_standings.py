@@ -41,33 +41,25 @@ def scrape_top14_standings():
         
         standings = []
         # 固定ブロック（順位）とスクロールブロック（チーム名・スタッツ）を取得
-        fixed_lines = soup.select('.ranking__fixed-block .table-line--ranking-fixed')
-        scroll_lines = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
+        rows = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
         
-        if not fixed_lines or not scroll_lines:
-            print("Failed to find fixed or scroll lines. Checking alternative selectors.")
-            fixed_lines = soup.select('.table-line__rank') # フォールバック
-            scroll_lines = soup.select('.table-line__cell-wrapper--club-name')
-            
-        for i, (rank_line, stats_line) in enumerate(zip(fixed_lines, scroll_lines)):
-            # 順位
-            rank_el = rank_line.select_one('.ranking-item__rank')
-            if not rank_el:
-                print(f"Row {i}: Rank element not found")
-                continue
-            rank = re.sub(r'\D', '', rank_el.get_text(strip=True))
-            
+        for i, stats_line in enumerate(rows):
+            # 順位とチーム名は同じインデックスの fixed-block から取得するのが確実だが、
+            # HTML構造上、stats_line 内の a タグから情報を取る。
             # チーム名とリンク
             link = stats_line.select_one('a.base-link--black')
             if not link:
-                print(f"Row {i}: Team link not found")
                 continue
             raw_name = link.get_text(strip=True)
+            
+            # 対応する固定ブロックから順位を取得
+            fixed_row = soup.select('.ranking__fixed-block .table-line--ranking-fixed')[i]
+            rank_el = fixed_row.select_one('.ranking-item__rank')
+            rank = re.sub(r'\D', '', rank_el.get_text(strip=True)) if rank_el else str(i+1)
             
             # 統計セルを取得
             stats_cells = stats_line.select('.table-line__cell-wrapper--small')
             if len(stats_cells) < 9:
-                print(f"Row {i}: Stats cells incomplete ({len(stats_cells)})")
                 continue
             
             points = stats_cells[0].get_text(strip=True)
@@ -77,7 +69,6 @@ def scrape_top14_standings():
             lost = stats_cells[4].get_text(strip=True)
             diff = stats_cells[8].get_text(strip=True)
 
-            print(f"Row {i}: Found [{rank}] [{raw_name}] Pts:[{points}]")
             jp_name, flag, slug = get_team_info('top14', raw_name)
             
             standings.append({
@@ -180,6 +171,46 @@ def scrape_super_rugby_standings():
         return standings
     except: return []
 
+def scrape_premiership_standings():
+    url = "https://www.premiershiprugby.com/competitions/gallagher-prem/standings"
+    print(f"Scraping Premiership standings from {url}...")
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        standings = []
+        # Official site table rows are within a tbody
+        rows = soup.select('tbody tr')
+        for i, row in enumerate(rows):
+            cells = row.select('td')
+            if len(cells) < 7: continue
+            
+            rank = cells[0].get_text(strip=True)
+            team_cell = cells[1]
+            name_el = team_cell.select_one('span.font-condensed')
+            raw_name = name_el.get_text(strip=True) if name_el else team_cell.get_text(strip=True)
+            
+            played = cells[2].get_text(strip=True)
+            won = cells[3].get_text(strip=True)
+            drawn = cells[4].get_text(strip=True)
+            lost = cells[5].get_text(strip=True)
+            diff = cells[6].get_text(strip=True)
+            points = cells[11].get_text(strip=True)
+            
+            jp_name, flag, slug = get_team_info('premiership', raw_name)
+            
+            standings.append({
+                "rank": rank, "team_name": raw_name, "display_name": jp_name, "flag": flag, "slug": slug,
+                "played": played, "won": won, "drawn": drawn, "lost": lost, "diff": diff, "points": points
+            })
+            
+        print(f"Scraped {len(standings)} Premiership teams.")
+        return standings
+    except Exception as e:
+        print(f"Error scraping Premiership: {e}")
+        return []
+
 def scrape_leagueone_standings():
     url = "https://league-one.jp/standings/"
     try:
@@ -203,10 +234,14 @@ def main():
     t14_s = scrape_top14_standings(); t14_r = scrape_top14_results()
     urc_s = scrape_urc_standings()
     sr_s = scrape_super_rugby_standings()
+    prem_s = scrape_premiership_standings()
     
     # 既存データのバックアップ (不完全な場合のフォールバック)
     def get_old(league, key):
         old = cur.get(league, {})
+        # TOP 14 の JS レンダリング問題への暫定対応
+        if league == "top14" and key == "standings" and (not t14_s or t14_s[0].get('rank') == ''):
+             return old.get(key, [])
         if isinstance(old, list): return old if key == "standings" else []
         return old.get(key, [])
 
@@ -217,15 +252,15 @@ def main():
         t14_r = get_old("top14", "results")
     if len(urc_s) < 16: urc_s = get_old("urc", "standings")
     if len(sr_s) < 11: sr_s = get_old("super-rugby", "standings")
+    if len(prem_s) < 10: prem_s = get_old("premiership", "standings")
     
     # 全てのリーグの構造を統一 {"standings": [], "results": []}
-    # resultsData (results_2026.json) もあるが、StandingsTable の Props 互換性のためにこちらにも入れる
-    # URC / SR の最近の試合結果は results_2026.json から取得されるが、構造だけ定義しておく
     all_data = {
         "league-one": { "standings": lo_s, "results": get_old("league-one", "results") },
         "top14": { "standings": t14_s, "results": t14_r },
         "urc": { "standings": urc_s, "results": get_old("urc", "results") },
-        "super-rugby": { "standings": sr_s, "results": get_old("super-rugby", "results") }
+        "super-rugby": { "standings": sr_s, "results": get_old("super-rugby", "results") },
+        "premiership": { "standings": prem_s, "results": get_old("premiership", "results") }
     }
     
     os.makedirs(os.path.dirname(path), exist_ok=True)

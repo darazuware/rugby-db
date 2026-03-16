@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - 2025)
-- Harlequins (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025)
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2026)
-- Harlequins (2026 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2026 - )

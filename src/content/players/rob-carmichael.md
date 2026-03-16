@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2022 - 2023)
 - Edimbourg Rugby (2023)
-- Leicester Tigers (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2024)
 - Edimbourg Rugby (2024 - )

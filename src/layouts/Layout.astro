@@ -18,6 +18,8 @@ const {
 	activeLeague,
 	activeRound
 } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!DOCTYPE html>
@@ -29,6 +31,21 @@ const {
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 		<meta name="description" content={description} />
+		<link rel="canonical" href={canonicalURL} />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content={Astro.url} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={new URL("/ogp-image.png", Astro.url)} />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={Astro.url} />
+		<meta property="twitter:title" content={title} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={new URL("/ogp-image.png", Astro.url)} />
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
@@ -120,12 +137,24 @@ const {
 				<main class="min-w-0 w-full">
 					<slot />
 				</main>
-				<div class="hidden lg:block">
+				<div class="hidden lg:block space-y-8">
 					<RightSidebar 
 						type={sidebarType} 
 						activeLeague={activeLeague} 
 						activeRound={activeRound} 
 					/>
+					<!-- Sidebar Ad -->
+					<div class="sticky top-24">
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-7526742711058970"
+							 data-ad-slot="sidebar-ad-slot"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script is:inline>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2019 - 2022)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2019 - 2022)
 - Coventry Rugby (2022)
-- Exeter Chiefs (2022)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022)
 - Coventry Rugby (2023)
-- Exeter Chiefs (2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023)
 - Coventry Rugby (2023)
-- Exeter Chiefs (2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2024)
 - Coventry Rugby (2024)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )

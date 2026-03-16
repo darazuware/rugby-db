@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - RC Kochebi (2020 - 2021)
 - Black Lion (2021 - 2023)
-- エクセター・チーフス (2022 - 2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

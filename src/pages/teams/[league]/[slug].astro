@@ -10,7 +10,7 @@ import teamsData from "../../../../data/teams.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 
 const { league: leagueParam, slug } = Astro.params;
-const team = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
+const team: any = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
 
 if (!team) {
     return Astro.redirect("/404");
@@ -179,11 +179,11 @@ const matchResults = getTeamResults();
 
 // 当該チームのアクセスランキング (モック)
 const popularPlayers = [
-  { id: "cheslin-kolbe-1375", name: "Cheslin KOLBE", name_jp: "チェスリン ・コルビ", team: "Suntory Sungoliath", team_jp: "東京サントリーサンゴリアス", rank: 1 },
-  { id: "richie-mounga-725", name: "Richie MO'UNGA", name_jp: "リッチー・モウンガ", team: "Toshiba Brave Lupus", team_jp: "東芝ブレイブルーパス東京", rank: 2 },
-  { id: "pieter-steph-du-toit-791", name: "Pieter-Steph DU TOIT", name_jp: "ピーターステフ・デュトイ", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 3 },
+  { id: "cheslin-kolbe-209", name: "Cheslin KOLBE", name_jp: "チェスリン ・コルビ", team: "Suntory Sungoliath", team_jp: "東京サントリーサンゴリアス", rank: 1 },
+  { id: "richie-mounga-3516", name: "Richie MO'UNGA", name_jp: "リッチー・モウンガ", team: "Toshiba Brave Lupus", team_jp: "東芝ブレイブルーパス東京", rank: 2 },
+  { id: "pieter-steph-du-toit-3460", name: "Pieter-Steph DU TOIT", name_jp: "ピーターステフ・デュトイ", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 3 },
   { id: "beauden-barrett", name: "Beauden BARRETT", name_jp: "ボーデン・バレット", team: "Toyota Verblitz", team_jp: "トヨタヴェルブリッツ", rank: 4 },
-  { id: "damian-de-allende-643", name: "Damian DE ALLENDE", name_jp: "ダミアン・デアレンデ", team: "Wild Knights", team_jp: "埼玉パナソニックワイルドナイツ", rank: 5 },
+  { id: "damian-de-allende-297", name: "Damian DE ALLENDE", name_jp: "ダミアン・デアレンデ", team: "Wild Knights", team_jp: "埼玉パナソニックワイルドナイツ", rank: 5 },
 ].filter(p => {
     // このチームに所属している選手を抽出 (または全表示するならフィルタなし)
     // 今回は「チーム内ランキング」なので、チーム名一致で絞り込み
@@ -261,13 +261,13 @@ const teamStanding = leagueStandings.find((s: any) =>
                         {
                             isLeagueOne ? (
                                 <>
-                                    <h1 class="text-5xl font-black mb-4 tracking-tighter flex items-center gap-4 flex-wrap">
+                                    <h1 class="text-5xl md:text-7xl font-black mb-4 tracking-tighter flex items-center gap-6 flex-wrap">
                                         {teamFlag && (
-                                            <span class="text-5xl">
+                                            <span class="text-7xl md:text-8xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
                                                 {teamFlag}
                                             </span>
                                         )}
-                                        <span>{teamNameDisplay}</span>
+                                        <span class="leading-none">{teamNameDisplay}</span>
                                     </h1>
                                     {teamEnName &&
                                         teamEnName !== teamNameDisplay && (
@@ -278,13 +278,13 @@ const teamStanding = leagueStandings.find((s: any) =>
                                 </>
                             ) : (
                                 <>
-                                    <h1 class="text-6xl md:text-7xl font-black mb-2 tracking-tighter flex items-center gap-4 flex-wrap uppercase">
+                                    <h1 class="text-6xl md:text-8xl font-black mb-2 tracking-tighter flex items-center gap-6 flex-wrap uppercase">
                                         {teamFlag && (
-                                            <span class="text-5xl md:text-6xl">
+                                            <span class="text-7xl md:text-9xl drop-shadow-2xl animate-in fade-in zoom-in duration-700">
                                                 {teamFlag}
                                             </span>
                                         )}
-                                        <span>{teamEnName}</span>
+                                        <span class="leading-none">{teamEnName}</span>
                                     </h1>
                                     {teamNameDisplay &&
                                         teamNameDisplay !== teamEnName && (

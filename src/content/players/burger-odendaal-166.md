@@ -27,5 +27,5 @@ facebook: ""
 - ライオンズ (2020 - 2022)
 - ワスプス (2022 - 2023)
 - 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2022 - 2023)
-- ノーサンプトン・セインツ (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2023 - 2025)
 - 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2025 - )

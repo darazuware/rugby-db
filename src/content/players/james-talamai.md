@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Saracens (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2024 - 2025)
 - Dragons RFC (2025 - )

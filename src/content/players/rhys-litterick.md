@@ -24,11 +24,11 @@ facebook: ""
 ---
 
 - Worthing RFC (2021)
-- Harlequins (2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2021)
 - Worthing RFC (2022)
-- Harlequins (2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2022)
 - London Scottish (2022)
-- Harlequins (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2023)
 - London Scottish (2023)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2023 - 2025)
 - Edimbourg Rugby (2025 - )

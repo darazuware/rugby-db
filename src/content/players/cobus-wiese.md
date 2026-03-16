@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2016 - 2019)
-- Sale Sharks (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019)
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020)
-- Sale Sharks (2020 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2020 - 2024)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2024 - )

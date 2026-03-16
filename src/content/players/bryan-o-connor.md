@@ -25,7 +25,7 @@ facebook: ""
 
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2017 - 2018)
 - London Irish (2019 - 2020)
-- Gloucester Rugby (2020 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2020 - 2023)
 - Bedford Blues (2023 - 2024)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2024)
 - Bedford Blues (2025)

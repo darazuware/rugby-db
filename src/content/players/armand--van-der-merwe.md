@@ -29,5 +29,5 @@ facebook: ""
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016)
 - Lions Rugby (2016 - 2017)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2017 - 2019)
-- Sale Sharks (2019 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019 - 2023)
 - 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )

@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2018 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2018 - 2020)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2020 - )

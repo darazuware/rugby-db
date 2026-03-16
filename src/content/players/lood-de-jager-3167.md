@@ -25,5 +25,5 @@ facebook: ""
 
 - チーターズ (2013 - 2016)
 - ブルズ (2016 - 2019)
-- Sale Sharks (2019 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019 - 2022)
 - 🇯🇵 [埼玉パナソニックワイルドナイツ](/teams/league-one/saitama-panasonic-wild-knights) [D1] (2022 - )

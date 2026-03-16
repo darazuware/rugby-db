@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2013 - 2014)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2013 - 2014)
 - ワスプス (2014 - 2022)
 - 🇯🇵 [豊田自動織機シャトルズ愛知](/teams/league-one/toyota-shuttles-aichi) [D2] (2022 - )

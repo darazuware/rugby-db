@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2023 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2023 - 2024)
 - Nottingham Rugby (2024)
-- Leicester Tigers (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2025)
 - Nottingham Rugby (2025)
 - Edimbourg Rugby (2025 - )

@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - ハレクインズ (2013 - 2020)
-- ブリストル・ベアーズ (2019 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2024)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

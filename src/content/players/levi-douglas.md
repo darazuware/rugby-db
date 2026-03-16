@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Bath Rugby (2015 - 2019)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2015 - 2019)
 - Wasps (2019)
-- Bath Rugby (2020)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2020)
 - Wasps (2020)
 - Rugby Club Toulonnais (2020)
 - Wasps (2021)

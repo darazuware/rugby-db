@@ -25,8 +25,8 @@ facebook: ""
 
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2015 - 2019)
 - Southern Kings (2019)
-- Bath Rugby (2019)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2019)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2020)
 - Southern Kings (2020)
-- Bath Rugby (2020 - 2024)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2020 - 2024)
 - Lions Rugby (2024 - )

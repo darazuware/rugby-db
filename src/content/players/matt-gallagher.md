@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Saracens (2016 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2016 - 2019)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2019)
-- Saracens (2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2020)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2020 - 2022)
-- Bath Rugby (2022 - 2024)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2022 - 2024)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2024 - )

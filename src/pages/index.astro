@@ -78,6 +78,24 @@ const leagueStandings = [
 		accentColor: "bg-[#C5A059]",
 		teams: mapStandings("top14"),
 	},
+	{
+		id: "urc",
+		name: "URC",
+		name_jp: "URC",
+		fullName: "United Rugby Championship",
+		title: "United Rugby Championship",
+		accentColor: "bg-[#003366]",
+		teams: mapStandings("urc"),
+	},
+	{
+		id: "premiership",
+		name: "PREM",
+		name_jp: "プレミアシップ",
+		fullName: "Gallagher Premiership",
+		title: "Gallagher Premiership",
+		accentColor: "bg-[#FE5000]",
+		teams: mapStandings("premiership"),
+	},
 ];
 ---
 
@@ -112,7 +130,7 @@ const leagueStandings = [
         </div>
     </section>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-16">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-16">
         {leagueStandings.map(league => (
             <div class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400/50 transition-all text-left">
                 <div class="flex items-center gap-3 mb-4">

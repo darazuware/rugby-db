@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Wasps (2016 - 2017)
-- Bristol Bears (2018 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2018 - 2024)
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2024 - 2025)
 - Edimbourg Rugby (2025 - )

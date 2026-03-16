@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Northampton Saints (2015 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2015 - 2024)
 - Edimbourg Rugby (2024 - )

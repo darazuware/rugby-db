@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - スタッド・トゥールーザン (2007 - 2017)
-- サラセンズ (2017 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2017 - 2019)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )

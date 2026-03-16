@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - レスター・タイガース (2013 - 2020)
-- Sale Sharks (2019 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

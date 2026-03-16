@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2018)
-- Gloucester Rugby (2018 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2018 - 2020)
 - 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2020 - 2022)
 - 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2022 - 2024)
 - Lions Rugby (2024 - )

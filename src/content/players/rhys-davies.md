@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Bath Rugby (2018 - 2020)
+- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2018 - 2020)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2020 - )

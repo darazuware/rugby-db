@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2013 - 2015)
-- Northampton Saints (2015 - 2017)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2015 - 2017)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2017 - 2021)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - 2022)
 - Dragons RFC (2022 - 2023)

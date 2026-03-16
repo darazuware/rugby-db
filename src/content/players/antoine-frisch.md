@@ -29,6 +29,6 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2016 - 2018)
 - Stado Tarbes Pyrénées Rugby (2018 - 2019)
 - Rouen Normandie Rugby (2020 - 2021)
-- ブリストル・ベアーズ (2021 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2021 - 2022)
 - マンスター (2022 - 2024)
 - 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )

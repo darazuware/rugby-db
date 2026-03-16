@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2019 - 2021)
-- Exeter Chiefs (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2021 - 2023)
 - 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2023 - )

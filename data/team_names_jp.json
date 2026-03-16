@@ -596,5 +596,84 @@
                 "ルリーロ"
             ]
         }
+    },
+    "premiership": {
+        "Northampton Saints": {
+            "jp": "ノーサンプトン・セインツ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Northampton"
+            ]
+        },
+        "Bath Rugby": {
+            "jp": "バース・ラグビー",
+            "country": "イングランド",
+            "flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Bath"
+            ]
+        },
+        "Bristol Bears": {
+            "jp": "ブリストル・ベアーズ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Bristol"
+            ]
+        },
+        "Leicester Tigers": {
+            "jp": "レスター・タイガーズ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Leicester"
+            ]
+        },
+        "Exeter Chiefs": {
+            "jp": "エクセター・チーフス",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+            "aliases": [
+                "Exeter"
+            ]
+        },
+        "Saracens": {
+            "jp": "サラセンズ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": []
+        },
+        "Sale Sharks": {
+            "jp": "セール・シャークス",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Sale"
+            ]
+        },
+        "Gloucester Rugby": {
+            "jp": "グロスター・ラグビー",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Gloucester"
+            ]
+        },
+        "Harlequins": {
+            "jp": "ハリクインズ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": []
+        },
+        "Newcastle Falcons": {
+            "jp": "ニューカッスル・ファルコンズ",
+            "country": "イングランド",
+            "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "aliases": [
+                "Newcastle",
+                "Newcastle Red Bulls"
+            ]
+        }
     }
 }

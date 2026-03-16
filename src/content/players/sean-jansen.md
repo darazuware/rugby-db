@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Otago (2020 - 2021)
-- Leicester Tigers (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2021 - 2023)
 - 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2023 - )

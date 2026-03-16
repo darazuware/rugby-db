@@ -25,5 +25,5 @@ facebook: ""
 
 - ノースランド (2017 - 2020)
 - 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2020 - 2023)
-- ノーサンプトン・セインツ (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2023 - 2025)
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )

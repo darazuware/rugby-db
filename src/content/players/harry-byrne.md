@@ -24,9 +24,9 @@ facebook: ""
 ---
 
 - 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2018 - 2024)
-- Bristol Bears (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2024)
 - 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2024)
-- Bristol Bears (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2024 - 2025)
 - 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2025)
-- Bristol Bears (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2025)
 - 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2025 - )

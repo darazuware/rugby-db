@@ -23,12 +23,12 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2022 - 2023)
 - Hartpury RFC (2023)
-- Leicester Tigers (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2023)
 - Hartpury RFC (2024)
-- Leicester Tigers (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2024)
 - Hartpury RFC (2024)
-- Leicester Tigers (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2025)
 - Hartpury RFC (2025)
 - Dragons RFC (2025 - )

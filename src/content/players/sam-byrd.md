@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2023 - 2025)
 - Edimbourg Rugby (2025 - )

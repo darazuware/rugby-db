@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Gloucester Rugby (2016 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2016 - 2019)
 - Wasps (2019 - 2021)
 - Edimbourg Rugby (2021 - )

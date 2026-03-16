@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- Sale Sharks (2014 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2014 - 2019)
 - London Irish (2019 - 2022)
 - Dragons RFC (2022 - 2025)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )

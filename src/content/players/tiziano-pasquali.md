@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Leicester Tigers (2013 - 2016)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2013 - 2016)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2016 - )

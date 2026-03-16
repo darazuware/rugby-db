@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - Leeds Tykes (2020 - 2021)
-- Leicester Tigers (2021 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2021 - 2022)
 - Ealing Trailfinders (2022 - 2024)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - 2025)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2025 - )

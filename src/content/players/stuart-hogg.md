@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2013 - 2019)
-- エクセター・チーフス (2019 - 2023)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2019 - 2023)
 - sans club (2023 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

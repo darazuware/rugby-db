@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2023 - 2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2024)
 - Edimbourg Rugby (2024 - )

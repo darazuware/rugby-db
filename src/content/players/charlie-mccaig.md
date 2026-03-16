@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- Exeter Chiefs (2022 - 2024)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022 - 2024)
 - Cornish Pirates (2024)
-- Exeter Chiefs (2025)
+- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2025)
 - Cornish Pirates (2025)
 - Edimbourg Rugby (2025 - )

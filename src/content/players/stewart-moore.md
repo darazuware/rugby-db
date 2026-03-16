@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2019 - 2025)
-- Newcastle (2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2025)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2025)
-- Newcastle (2026)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2026)
 - 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2026 - )

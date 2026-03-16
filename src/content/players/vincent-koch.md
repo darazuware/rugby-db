@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2016)
-- Saracens (2016 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2016 - 2022)
 - Stade Français Paris Rugby (2022)
 - Wasps (2022)
 - Stade Français Paris Rugby (2022 - 2023)

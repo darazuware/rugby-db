@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- Newcastle (2016 - 2019)
-- Harlequins (2019 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2016 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2019 - 2021)
 - Edimbourg Rugby (2021 - )
