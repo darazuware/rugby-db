@@ -103,7 +103,8 @@ const LEAGUES = [
     { id: 'league-one', name: 'LEAGUE ONE' },
     { id: 'super-rugby', name: 'SUPER RUGBY' },
     { id: 'top14', name: 'TOP 14' },
-    { id: 'urc', name: 'URC' }
+    { id: 'urc', name: 'URC' },
+    { id: 'premiership', name: 'PREM' }
 ];
 
 const SCHOOL_SYNONYMS: Record<string, string[]> = {
@@ -206,6 +207,16 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         decoration: 'decoration-[#003366]',
                         hex: '#003366'
                     };
+                case 'premiership':
+                    return {
+                        accent: 'bg-[#FE5000]',
+                        textAccent: 'text-[#FE5000]',
+                        border: 'border-[#FE5000]',
+                        focus: 'focus:border-[#FE5000]',
+                        shadow: 'shadow-[#FE5000]/20',
+                        decoration: 'decoration-[#FE5000]',
+                        hex: '#FE5000'
+                    };
             }
         }
 
@@ -252,6 +263,16 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         shadow: 'shadow-[#003366]/20',
                         decoration: 'decoration-[#003366]',
                         hex: '#003366'
+                    };
+                case 'premiership':
+                    return {
+                        accent: 'bg-[#FE5000]',
+                        textAccent: 'text-[#FE5000]',
+                        border: 'border-[#FE5000]',
+                        focus: 'focus:border-[#FE5000]',
+                        shadow: 'shadow-[#FE5000]/20',
+                        decoration: 'decoration-[#FE5000]',
+                        hex: '#FE5000'
                     };
             }
         }
@@ -466,6 +487,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 text: 'text-[#003366]',
                 shadow: 'shadow-[#003366]/20',
                 focus: 'focus:border-[#003366]'
+            };
+        }
+        if (l === 'premiership' || l === 'prem') {
+            return {
+                accent: 'bg-[#FE5000]',
+                border: 'border-[#FE5000]',
+                text: 'text-[#FE5000]',
+                shadow: 'shadow-[#FE5000]/20',
+                focus: 'focus:border-[#FE5000]'
             };
         }
         return defaultTheme;
