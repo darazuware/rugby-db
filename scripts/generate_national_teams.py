@@ -129,11 +129,54 @@ def main():
             target_id = None
             caps_raw = 0
             
-            if caps_field and not caps_field.startswith('http'):
-                country_match = re.search(r'^(.+?)(代表)?\s*\(', caps_field)
-                country_raw = country_match.group(1).strip() if country_match else caps_field.replace('代表', '').strip()
-                target_id = country_to_id.get(country_raw)
-                caps_raw = parse_caps(caps_field)
+            # --- 個別パッチ処理 (User Feedback) ---
+            # BOM付きの「英語名」カラムに対応
+            player_name_raw = row.get('\ufeff英語名') or row.get('英語名') or row.get('name_en') or row.get('選手名', '')
+            
+            # 齋藤直人の名前とキャップ修正
+            if 'Naoto SAITO' in player_name_raw:
+                row['選手名_カタカナ'] = '齋藤直人'
+                target_id = 'japan'
+                caps_raw = 21
+
+            # ワーナー・ディアンズ / 原田衛の代表紐付け (CSVでNZ等になっている場合への対処)
+            if 'Warner DEARNS' in player_name_raw or 'Mamoru HARADA' in player_name_raw:
+                target_id = 'japan'
+                # 暫定的に最新キャップを付与（CSV不足分）
+                if 'Warner DEARNS' in player_name_raw: caps_raw = 18 
+                if 'Mamoru HARADA' in player_name_raw: caps_raw = 3
+
+            # 欠落選手の補正 (所属チーム等のキーワードで特定し代表紐付け)
+            if 'Tevita TATAFU' in player_name_raw and row.get('ポジション') == 'FL/No8':
+                 target_id = 'japan'
+                 caps_raw = 20
+            if 'Amanaki Mafi' in player_name_raw or 'Amanaki Lelei Mafi' in player_name_raw:
+                 target_id = 'japan'
+                 caps_raw = 28
+                 # 英語名が空の場合への対処
+                 if not row.get('選手名_カタカナ') and not row.get('選手名'):
+                     row['選手名'] = 'アマナキ・レレイ・マフィ'
+
+            if '徳永 祥尭' in player_name_raw or 'Yoshitaka Tokunaga' in player_name_raw:
+                 target_id = 'japan'
+                 caps_raw = 15
+            
+            # 除外選手
+            if 'Cameron MILLAR' in player_name_raw or '遠藤 孝一' in player_name_raw or '遠藤孝一' in player_name_raw or 'Koichi Endo' in player_name_raw:
+                continue
+
+            if not target_id:
+                if caps_field and not caps_field.startswith('http'):
+                    # 「日本代表(4)」のように途中にある場合も考慮
+                    jp_match = re.search(r'日本代表\((\d+)\)', caps_field)
+                    if jp_match:
+                        target_id = 'japan'
+                        caps_raw = int(jp_match.group(1))
+                    else:
+                        country_match = re.search(r'^(.+?)(代表)?\s*\(', caps_field)
+                        country_raw = country_match.group(1).strip() if country_match else caps_field.replace('代表', '').strip()
+                        target_id = country_to_id.get(country_raw)
+                        caps_raw = parse_caps(caps_field)
 
             # キャップ数がない場合でも、国籍フィールドから代表ページ掲載候補を探す
             if not target_id and nationality_field:
@@ -141,12 +184,12 @@ def main():
 
             if not target_id: continue
 
-            name_ja = row.get('選手名_カタカナ') or row.get('選手名') or row.get('name_en')
-            name_en = row.get('name_en')
+            name_ja = row.get('選手名_カタカナ') or row.get('選手名') or row.get('\ufeff英語名') or row.get('英語名') or row.get('name_en')
+            name_en = row.get('\ufeff英語名') or row.get('英語名') or row.get('name_en')
             scraped_url = row.get('Scraped_Url')
             
             # デッド重複排除 (URL or 名前+誕生日)
-            player_key = scraped_url if scraped_url else f"{name_en}-{row.get('生年月日')}"
+            player_key = scraped_url if scraped_url else f"{name_en}-{row.get('生年月日') or i}"
             if player_key in processed_players: continue
             processed_players.add(player_key)
             

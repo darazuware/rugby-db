@@ -21,9 +21,10 @@ interface Props {
 }
 
 const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textColor }) => {
-  const [sortBy, setSortBy] = useState<string>('caps');
+  const [sortBy, setSortBy] = useState<string>('caps_desc');
   const [filterPos, setFilterPos] = useState<string>('ALL');
   const [filterLeague, setFilterLeague] = useState<string>('ALL');
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
   const positions = useMemo(() => {
     const ps = initialPlayers.map(p => p.position).filter(Boolean);
@@ -46,13 +47,25 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
       result = result.filter(p => p.league === filterLeague);
     }
 
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase();
+      result = result.filter(p => 
+        p.name_ja.toLowerCase().includes(q) || 
+        p.name_en.toLowerCase().includes(q) || 
+        p.team.toLowerCase().includes(q)
+      );
+    }
+
     result.sort((a, b) => {
       switch (sortBy) {
-        case 'caps': return (b.caps || 0) - (a.caps || 0);
+        case 'caps_desc': return (b.caps || 0) - (a.caps || 0);
+        case 'caps_asc': return (a.caps || 0) - (b.caps || 0);
         case 'age_asc': return (a.age || 999) - (b.age || 999);
         case 'age_desc': return (b.age || 0) - (a.age || 0);
-        case 'height': return (b.height || 0) - (a.height || 0);
-        case 'weight': return (b.weight || 0) - (a.weight || 0);
+        case 'height_desc': return (b.height || 0) - (a.height || 0);
+        case 'height_asc': return (a.height || 0) - (b.height || 0);
+        case 'weight_desc': return (b.weight || 0) - (a.weight || 0);
+        case 'weight_asc': return (a.weight || 0) - (b.weight || 0);
         default: return 0;
       }
     });
@@ -68,11 +81,14 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
             <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">Sort By</h3>
             <div className="flex flex-wrap gap-2">
               {[
-                { id: 'caps', label: 'CAPS' },
-                { id: 'age_asc', label: '年齢 (昇順)' },
-                { id: 'age_desc', label: '年齢 (降順)' },
-                { id: 'height', label: '身長' },
-                { id: 'weight', label: '体重' },
+                { id: 'caps_desc', label: 'CAPS (多)' },
+                { id: 'caps_asc', label: 'CAPS (少)' },
+                { id: 'age_desc', label: '年齢 (高)' },
+                { id: 'age_asc', label: '年齢 (低)' },
+                { id: 'height_desc', label: '身長 (高)' },
+                { id: 'height_asc', label: '身長 (低)' },
+                { id: 'weight_desc', label: '体重 (重)' },
+                { id: 'weight_asc', label: '体重 (軽)' },
               ].map(opt => (
                 <button
                   key={opt.id}
@@ -88,8 +104,32 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
             </div>
           </div>
 
-          <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto">
-            <div className="space-y-3 flex-1 md:w-40">
+          <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto items-end">
+            <div className="space-y-3 w-full md:w-64">
+              <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">Search Player / Team</h3>
+              <div className="relative">
+                <input
+                  type="text"
+                  placeholder="名前・チーム名で検索..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  className="w-full bg-card/50 border border-border-dim/30 rounded-xl px-4 py-2.5 pl-10 text-[10px] font-black text-foreground focus:outline-none focus:border-yellow-400 transition-all placeholder:text-foreground/20"
+                />
+                <div className="absolute left-3.5 top-1/2 -translate-y-1/2 text-foreground/20">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                </div>
+                {searchQuery && (
+                   <button 
+                    onClick={() => setSearchQuery('')}
+                    className="absolute right-3.5 top-1/2 -translate-y-1/2 text-foreground/30 hover:text-yellow-400 transition-colors"
+                   >
+                     <svg xmlns="http://www.w3.org/2000/svg" className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><path d="M18 6 6 18M6 6l12 12"/></svg>
+                   </button>
+                )}
+              </div>
+            </div>
+
+            <div className="space-y-3 flex-1 md:w-32">
               <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">League</h3>
               <div className="relative">
                 <select
@@ -105,7 +145,7 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
               </div>
             </div>
 
-            <div className="space-y-3 flex-1 md:w-40">
+            <div className="space-y-3 flex-1 md:w-32">
               <h3 className="text-[10px] font-black text-foreground/40 uppercase tracking-[0.2em] italic">Position</h3>
               <div className="relative">
                 <select
