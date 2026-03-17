@@ -2,7 +2,7 @@
 title: "Pedro Delgado"
 name_en: "Pedro Delgado"
 position: "Prop"
-team: "ハリクインズ"
+team: "ハーレクインズ"
 height: ""
 weight: ""
 birth_date: "09/01/1997"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2025 - )

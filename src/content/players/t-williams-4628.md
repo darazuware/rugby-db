@@ -2,7 +2,7 @@
 title: "T. Williams"
 name_en: "T. Williams"
 position: "No. 8"
-team: "ハリクインズ"
+team: "ハーレクインズ"
 height: ""
 weight: ""
 birth_date: "1995-01-01"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2025 - )

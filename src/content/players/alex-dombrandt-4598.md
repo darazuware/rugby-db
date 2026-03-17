@@ -2,7 +2,7 @@
 title: "Alex Dombrandt"
 name_en: "Alex Dombrandt"
 position: "No. 8"
-team: "ハリクインズ"
+team: "ハーレクインズ"
 height: ""
 weight: ""
 birth_date: "1997-04-29"
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2025 - )

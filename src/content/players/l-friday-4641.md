@@ -2,7 +2,7 @@
 title: "L. Friday"
 name_en: "L. Friday"
 position: "Scrum-half"
-team: "ハリクインズ"
+team: "ハーレクインズ"
 height: ""
 weight: ""
 birth_date: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2025 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2025 - )

@@ -156,10 +156,14 @@ const groupByRound = (leagueId: string, results: any[]) => {
             const minDate = dates[0] ? dates[0].replace(/-/g, '.') : "";
             const maxDate = dates[dates.length - 1] ? dates[dates.length - 1].replace(/-/g, '.') : "";
             
+            // 全試合が未開催（VS）かどうかを判定
+            const isAllFuture = matches.every(m => m.score === "VS" || m.score === "vs");
+            
             return {
                 round,
                 matches,
-                dateRange: minDate && maxDate ? (minDate === maxDate ? minDate : `${minDate} 〜 ${maxDate}`) : ""
+                dateRange: minDate && maxDate ? (minDate === maxDate ? minDate : `${minDate} 〜 ${maxDate}`) : "",
+                isAllFuture
             };
         });
 };
@@ -270,7 +274,14 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
 								<div class="h-[2px] flex-1 bg-gradient-to-r from-border-dim to-transparent"></div>
 							</div>
 
-							<div class="space-y-12">
+							<div class={`space-y-12`}>
+                                {leagueResults.map((group: any) => (
+                                    <div 
+                                        id={`${league.id}-round-${group.round}`} 
+                                        class={`round-group mb-8 scroll-mt-24 ${group.isAllFuture ? 'hidden' : ''}`}
+                                        style={group.isAllFuture ? "display: none;" : ""}
+                                    >
+                                        <div class="round-sticky-header flex items-center justify-between bg-foreground/5 backdrop-blur-md border-y border-border-dim/20 px-4 py-2 mb-4 sticky top-16 z-20">
                                 <!-- 節選択ナビゲーション (PCではここに表示) -->
                                 <div class="mb-12" id={`${league.id}-round-selector`}>
                                     <div class="flex items-center gap-3 mb-4">
@@ -574,6 +585,8 @@ console.warn('--- RUGBY PICKS JS v2.1 LOADED ---');
                 foundAny = true;
                 const rounds = section.querySelectorAll('.round-group');
                 rounds.forEach((round, idx) => {
+                    const isAllFuture = round.classList.contains('hidden');
+                    
                     if (isLeagueOneAll) {
                         round.style.display = idx === 0 ? 'block' : 'none';
                         const h = round.querySelector('.round-sticky-header span');
@@ -581,7 +594,12 @@ console.warn('--- RUGBY PICKS JS v2.1 LOADED ---');
                             h.innerHTML += ' <span class="latest-badge text-[8px] bg-red-600 text-white px-2 py-0.5 rounded ml-2 font-black border border-white/20">(LATEST)</span>';
                         }
                     } else {
-                        round.style.display = 'block';
+                        // 未開催試合のみのラウンドは、リーグ全体表示時は隠したままにする
+                        if (!isAllFuture) {
+                            round.style.display = 'block';
+                        } else {
+                            round.style.display = 'none';
+                        }
                         const b = round.querySelector('.latest-badge'); if (b) b.remove();
                     }
                 });

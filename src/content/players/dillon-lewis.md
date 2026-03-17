@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2015 - 2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2023 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2023 - 2025)
 - Dragons RFC (2025 - )

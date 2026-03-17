@@ -24,7 +24,7 @@ facebook: ""
 ---
 
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2019)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2020 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2020 - 2024)
 - 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2024 - )

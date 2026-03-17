@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2016 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハリクインズ](/teams/premiership/harlequins) (2019 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2019 - 2021)
 - Edimbourg Rugby (2021 - )
