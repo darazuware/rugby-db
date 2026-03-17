@@ -105,6 +105,19 @@
       "caps_display": "U23('13)、日本代表(47)"
     },
     {
+      "name_ja": "ツイ ヘンドリック",
+      "name_en": "Hendrik Tui",
+      "slug": "hendrik-tui-612",
+      "position": "FL/No8",
+      "team": "浦安D-Rocks（2025-26）",
+      "league": "league-one",
+      "caps": 44,
+      "age": 38,
+      "height": 188,
+      "weight": 112,
+      "caps_display": "Japan代表 (44 caps)"
+    },
+    {
       "name_ja": "中村 亮土",
       "name_en": "Ryoto Nakamura",
       "slug": "ryoto-nakamura-3622",
@@ -183,6 +196,19 @@
       "caps_display": "U20('07)、日本代表(35)"
     },
     {
+      "name_ja": "伊藤 峻祐",
+      "name_en": "Shunsuke Ito",
+      "slug": "shunsuke-ito-3830",
+      "position": "CTB",
+      "team": "静岡ブルーレヴズ（2025-26）",
+      "league": "league-one",
+      "caps": 34,
+      "age": 25,
+      "height": 178,
+      "weight": 90,
+      "caps_display": "Japan代表 (34 caps)"
+    },
+    {
       "name_ja": "山中 亮平",
       "name_en": "Ryohei Yamanaka",
       "slug": "ryohei-yamanaka-3598",
@@ -207,6 +233,19 @@
       "height": 187,
       "weight": 115,
       "caps_display": "日本代表(30)"
+    },
+    {
+      "name_ja": "小野 航大",
+      "name_en": "Kodai Ono",
+      "slug": "kodai-ono-3060",
+      "position": "WTB",
+      "team": "日本製鉄釜石シーウェイブス（2025-26）",
+      "league": "",
+      "caps": 29,
+      "age": 34,
+      "height": 170,
+      "weight": 82,
+      "caps_display": "Japan代表 (29 caps)"
     },
     {
       "name_ja": "ジャック ・コーネルセン",
@@ -246,6 +285,19 @@
       "height": 176,
       "weight": 85,
       "caps_display": "高校('17,'18)、U23('20)、日本代表(29)"
+    },
+    {
+      "name_ja": "大野 敬",
+      "name_en": "Kei Ono",
+      "slug": "kei-ono-2969",
+      "position": "FL/No8",
+      "team": "ヤクルトレビンズ戸田（2025-26）",
+      "league": "",
+      "caps": 29,
+      "age": 23,
+      "height": 173,
+      "weight": 90,
+      "caps_display": "Japan代表 (29 caps)"
     },
     {
       "name_ja": "ラファエレ ティモシー",
@@ -324,6 +376,19 @@
       "height": 188,
       "weight": 105,
       "caps_display": "U20,U23('18)、XV('25)、日本代表(23)"
+    },
+    {
+      "name_ja": "青木 祐樹",
+      "name_en": "Yuki Aoki",
+      "slug": "yuki-aoki-4258",
+      "position": "LO",
+      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
+      "league": "league-one",
+      "caps": 21,
+      "age": 34,
+      "height": 188,
+      "weight": 105,
+      "caps_display": "Japan代表 (21 caps)"
     },
     {
       "name_ja": "齋藤直人",
@@ -545,6 +610,19 @@
       "height": 180,
       "weight": 115,
       "caps_display": "日本代表(12)"
+    },
+    {
+      "name_ja": "徳永 優太",
+      "name_en": "Yuta Tokunaga",
+      "slug": "yuta-tokunaga-4305",
+      "position": "UTB",
+      "team": "豊田自動織機シャトルズ愛知（2025-26）",
+      "league": "",
+      "caps": 12,
+      "age": 23,
+      "height": 174,
+      "weight": 90,
+      "caps_display": "Japan代表 (12 caps)"
     },
     {
       "name_ja": "小瀧 尚弘",
@@ -1041,6 +1119,19 @@
       "caps_display": "U20('15,'16)、U23('15)、日本代表(5)"
     },
     {
+      "name_ja": "佐々木 剛",
+      "name_en": "Takeshi Sasaki",
+      "slug": "takeshi-sasaki-3988",
+      "position": "FL/No8",
+      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "league": "league-one",
+      "caps": 5,
+      "age": 28,
+      "height": 180,
+      "weight": 101,
+      "caps_display": "Japan代表 (5 caps)"
+    },
+    {
       "name_ja": "ワイサケ ・ララトゥブア",
       "name_en": "Waisake Raratubua",
       "slug": "waisake-raratubua-4184",
@@ -1247,6 +1338,19 @@
       "height": 174,
       "weight": 103,
       "caps_display": "U23('16)、日本代表(3)"
+    },
+    {
+      "name_ja": "ファカタヴァ アマト",
+      "name_en": "Amato Fakatava",
+      "slug": "amato-fakatava-52",
+      "position": "FL/No8",
+      "team": "リコーブラックラムズ東京（2025-26）",
+      "league": "",
+      "caps": 3,
+      "age": 31,
+      "height": 195,
+      "weight": 118,
+      "caps_display": "Japan代表 (3 caps)"
     },
     {
       "name_ja": "サミソニ ・トゥア",
@@ -1717,6 +1821,19 @@
       "caps_display": "日本代表(1)"
     },
     {
+      "name_ja": "杉浦 拓実",
+      "name_en": "Takumi Sugiura",
+      "slug": "takumi-sugiura-4006",
+      "position": "CTB",
+      "team": "三菱重工相模原ダイナボアーズ（2025-26）",
+      "league": "league-one",
+      "caps": 1,
+      "age": 27,
+      "height": 175,
+      "weight": 88,
+      "caps_display": "Japan代表 (1 caps)"
+    },
+    {
       "name_ja": "山本 凱",
       "name_en": "Kai Yamamoto",
       "slug": "kai-yamamoto-2897",
@@ -1743,84 +1860,6 @@
       "caps_display": "高校('18)、XV('25)、日本代表(1)"
     },
     {
-      "name_ja": "ツイ ヘンドリック",
-      "name_en": "Hendrik Tui",
-      "slug": "hendrik-tui-612",
-      "position": "FL/No8",
-      "team": "浦安D-Rocks（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 38,
-      "height": 188,
-      "weight": 112,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "小野 航大",
-      "name_en": "Kodai Ono",
-      "slug": "kodai-ono-3060",
-      "position": "WTB",
-      "team": "日本製鉄釜石シーウェイブス（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 34,
-      "height": 170,
-      "weight": 82,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "青木 祐樹",
-      "name_en": "Yuki Aoki",
-      "slug": "yuki-aoki-4258",
-      "position": "LO",
-      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 34,
-      "height": 188,
-      "weight": 105,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ファカタヴァ アマト",
-      "name_en": "Amato Fakatava",
-      "slug": "amato-fakatava-52",
-      "position": "FL/No8",
-      "team": "リコーブラックラムズ東京（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 31,
-      "height": 195,
-      "weight": 118,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "佐々木 剛",
-      "name_en": "Takeshi Sasaki",
-      "slug": "takeshi-sasaki-3988",
-      "position": "FL/No8",
-      "team": "東芝ブレイブルーパス東京（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 28,
-      "height": 180,
-      "weight": 101,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "杉浦 拓実",
-      "name_en": "Takumi Sugiura",
-      "slug": "takumi-sugiura-4006",
-      "position": "CTB",
-      "team": "三菱重工相模原ダイナボアーズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 27,
-      "height": 175,
-      "weight": 88,
-      "caps_display": ""
-    },
-    {
       "name_ja": "シオネ ・ハラシリ",
       "name_en": "Sione Halasili",
       "slug": "sione-halasili-3860",
@@ -1831,58 +1870,6 @@
       "age": 26,
       "height": 180,
       "weight": 120,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "伊藤 峻祐",
-      "name_en": "Shunsuke Ito",
-      "slug": "shunsuke-ito-3830",
-      "position": "CTB",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 25,
-      "height": 178,
-      "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "山田 歩季",
-      "name_en": "Ayuki Yamada",
-      "slug": "ayuki-yamada-102",
-      "position": "CTB",
-      "team": "レッドハリケーンズ大阪（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 23,
-      "height": 174,
-      "weight": 89,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "大野 敬",
-      "name_en": "Kei Ono",
-      "slug": "kei-ono-2969",
-      "position": "FL/No8",
-      "team": "ヤクルトレビンズ戸田（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 23,
-      "height": 173,
-      "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "徳永 優太",
-      "name_en": "Yuta Tokunaga",
-      "slug": "yuta-tokunaga-4305",
-      "position": "UTB",
-      "team": "豊田自動織機シャトルズ愛知（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 23,
-      "height": 174,
-      "weight": 90,
       "caps_display": ""
     }
   ],
@@ -1899,6 +1886,45 @@
       "height": 171,
       "weight": 83,
       "caps_display": "NZ代表(125)"
+    },
+    {
+      "name_ja": "Adr ・ スミス",
+      "name_en": "Adré SMITH",
+      "slug": "adre-smith",
+      "position": "LO",
+      "team": "Stormers / DHLストーマーズ",
+      "league": "urc",
+      "caps": 119,
+      "age": 28,
+      "height": 200,
+      "weight": 123,
+      "caps_display": "New Zealand代表 (119 caps)"
+    },
+    {
+      "name_ja": "アンドリュー ・ スミス",
+      "name_en": "Andrew SMITH",
+      "slug": "andrew-smith-2000",
+      "position": "Winger",
+      "team": "Munster / マンスター・ラグビー",
+      "league": "urc",
+      "caps": 119,
+      "age": 25,
+      "height": 183,
+      "weight": 90,
+      "caps_display": "New Zealand代表 (119 caps)"
+    },
+    {
+      "name_ja": "アンジェロ・スミス",
+      "name_en": "Angelo SMITH",
+      "slug": "angelo-smith",
+      "position": "LO",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 119,
+      "age": 25,
+      "height": 199,
+      "weight": 115,
+      "caps_display": "New Zealand代表 (119 caps)"
     },
     {
       "name_ja": "ブロディ ・レタリック",
@@ -1953,6 +1979,32 @@
       "caps_display": "NZ代表(89)"
     },
     {
+      "name_ja": "Cerrig ・ スミス",
+      "name_en": "Cerrig SMITH",
+      "slug": "cerrig-smith",
+      "position": "Back row",
+      "team": "Dragons / ドラゴンズ・ラグビー",
+      "league": "urc",
+      "caps": 88,
+      "age": 31,
+      "height": 188,
+      "weight": 113,
+      "caps_display": "New Zealand代表 (88 caps)"
+    },
+    {
+      "name_ja": "クリス ・ スミス",
+      "name_en": "Chris SMITH",
+      "slug": "chris-smith",
+      "position": "SO",
+      "team": "Lions / エミレーツ・ライオンズ",
+      "league": "urc",
+      "caps": 88,
+      "age": 31,
+      "height": 181,
+      "weight": 90,
+      "caps_display": "New Zealand代表 (88 caps)"
+    },
+    {
       "name_ja": "アントン ・レイナートブラウン",
       "name_en": "Anton Lienert-Brown",
       "slug": "anton-lienert-brown-71",
@@ -1966,6 +2018,19 @@
       "caps_display": "NZ代表(88)"
     },
     {
+      "name_ja": "Angus ・ ウィリアムズ",
+      "name_en": "Angus WILLIAMS",
+      "slug": "angus-williams",
+      "position": "PR",
+      "team": "Edimbourg / エディンバラ・ラグビー",
+      "league": "urc",
+      "caps": 71,
+      "age": 32,
+      "height": 180,
+      "weight": 117,
+      "caps_display": "New Zealand代表 (71 caps)"
+    },
+    {
       "name_ja": "リッチー ・モウンガ",
       "name_en": "Richie Mounga",
       "slug": "richie-mounga-3514",
@@ -1977,6 +2042,19 @@
       "height": 176,
       "weight": 83,
       "caps_display": "NZ代表(56)"
+    },
+    {
+      "name_ja": "ジャック-バレット",
+      "name_en": "Jack BARRETT",
+      "slug": "jack-barrett",
+      "position": "PR",
+      "team": "Waratahs",
+      "league": "",
+      "caps": 52,
+      "age": 22,
+      "height": 185,
+      "weight": 111,
+      "caps_display": "New Zealand代表 (52 caps)"
     },
     {
       "name_ja": "シャノン ・フリゼル",
@@ -2044,6 +2122,45 @@
       "caps_display": "NZ代表(17)"
     },
     {
+      "name_ja": "イーサン-ブラックアダー",
+      "name_en": "Ethan BLACKADDER",
+      "slug": "ethan-blackadder",
+      "position": "FL/No8",
+      "team": "Crusaders",
+      "league": "",
+      "caps": 9,
+      "age": 30,
+      "height": 190,
+      "weight": 111,
+      "caps_display": "New Zealand代表 (9 caps)"
+    },
+    {
+      "name_ja": "ジョシュ ・グッドヒュー",
+      "name_en": "Josh Goodhue",
+      "slug": "josh-goodhue-2854",
+      "position": "LO",
+      "team": "リコーブラックラムズ東京（2025-26）",
+      "league": "",
+      "caps": 9,
+      "age": 30,
+      "height": 199,
+      "weight": 112,
+      "caps_display": "New Zealand代表 (9 caps)"
+    },
+    {
+      "name_ja": "シアレ・ラウアキ",
+      "name_en": "Siale LAUAKI",
+      "slug": "siale-lauaki",
+      "position": "PR",
+      "team": "Hurricanes",
+      "league": "",
+      "caps": 7,
+      "age": 22,
+      "height": 194,
+      "weight": 125,
+      "caps_display": "New Zealand代表 (7 caps)"
+    },
+    {
       "name_ja": "ジャクソン ・ヘモポ",
       "name_en": "Jackson Hemopo",
       "slug": "jackson-hemopo-2735",
@@ -2070,6 +2187,45 @@
       "caps_display": "NZ代表(3)"
     },
     {
+      "name_ja": "トーマス ・ ウィリアムズ",
+      "name_en": "Thomas WILLIAMS",
+      "slug": "thomas-williams",
+      "position": "Winger",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 3,
+      "age": 31,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "New Zealand代表 (3 caps)"
+    },
+    {
+      "name_ja": "Tomos Williams",
+      "name_en": "Tomos Williams",
+      "slug": "tomos-williams-4588",
+      "position": "Scrum-half",
+      "team": "Gloucester Rugby / グロスター・ラグビー",
+      "league": "premiership",
+      "caps": 3,
+      "age": 31,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "New Zealand代表 (3 caps)"
+    },
+    {
+      "name_ja": "T. Williams",
+      "name_en": "T. Williams",
+      "slug": "t-williams-4627",
+      "position": "No. 8",
+      "team": "Harlequins / ハーレクインズ",
+      "league": "premiership",
+      "caps": 3,
+      "age": 31,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "New Zealand代表 (3 caps)"
+    },
+    {
       "name_ja": "ショーン ・スティーブンソン",
       "name_en": "Shaun Stevenson",
       "slug": "shaun-stevenson-3745",
@@ -2081,6 +2237,19 @@
       "height": 190,
       "weight": 92,
       "caps_display": "NZ代表(1)"
+    },
+    {
+      "name_ja": "エモニ-ナラワ",
+      "name_en": "Emoni NARAWA",
+      "slug": "emoni-narawa",
+      "position": "WTB",
+      "team": "Chiefs",
+      "league": "",
+      "caps": 1,
+      "age": 26,
+      "height": 184,
+      "weight": 98,
+      "caps_display": "New Zealand代表 (1 caps)"
     },
     {
       "name_ja": "マア・ノヌ",
@@ -2356,19 +2525,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Angus ・ ウィリアムズ",
-      "name_en": "Angus WILLIAMS",
-      "slug": "angus-williams",
-      "position": "PR",
-      "team": "Edimbourg / エディンバラ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 32,
-      "height": 180,
-      "weight": 117,
-      "caps_display": ""
-    },
-    {
       "name_ja": "フェアオ-フォトゥアイカ",
       "name_en": "Feao FOTUAIKA",
       "slug": "feao-fotuaika",
@@ -2405,32 +2561,6 @@
       "age": 32,
       "height": 197,
       "weight": 119,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Cerrig ・ スミス",
-      "name_en": "Cerrig SMITH",
-      "slug": "cerrig-smith",
-      "position": "Back row",
-      "team": "Dragons / ドラゴンズ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 188,
-      "weight": 113,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "クリス ・ スミス",
-      "name_en": "Chris SMITH",
-      "slug": "chris-smith",
-      "position": "SO",
-      "team": "Lions / エミレーツ・ライオンズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 181,
-      "weight": 90,
       "caps_display": ""
     },
     {
@@ -2473,45 +2603,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "トーマス ・ ウィリアムズ",
-      "name_en": "Thomas WILLIAMS",
-      "slug": "thomas-williams",
-      "position": "Winger",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Tomos Williams",
-      "name_en": "Tomos Williams",
-      "slug": "tomos-williams-4588",
-      "position": "Scrum-half",
-      "team": "Gloucester Rugby / グロスター・ラグビー",
-      "league": "premiership",
-      "caps": 0,
-      "age": 31,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "T. Williams",
-      "name_en": "T. Williams",
-      "slug": "t-williams-4627",
-      "position": "No. 8",
-      "team": "Harlequins / ハーレクインズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 31,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
       "name_ja": "エイダン・ロス",
       "name_en": "Aidan ROSS",
       "slug": "aidan-ross",
@@ -2548,19 +2639,6 @@
       "age": 30,
       "height": 177,
       "weight": 81,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "イーサン-ブラックアダー",
-      "name_en": "Ethan BLACKADDER",
-      "slug": "ethan-blackadder",
-      "position": "FL/No8",
-      "team": "Crusaders",
-      "league": "",
-      "caps": 0,
-      "age": 30,
-      "height": 190,
-      "weight": 111,
       "caps_display": ""
     },
     {
@@ -2668,19 +2746,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジョシュ ・グッドヒュー",
-      "name_en": "Josh Goodhue",
-      "slug": "josh-goodhue-2854",
-      "position": "LO",
-      "team": "リコーブラックラムズ東京（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 30,
-      "height": 199,
-      "weight": 112,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ブレット-キャメロン",
       "name_en": "Brett CAMERON",
       "slug": "brett-cameron",
@@ -2730,19 +2795,6 @@
       "age": 29,
       "height": 196,
       "weight": 102,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Adr ・ スミス",
-      "name_en": "Adré SMITH",
-      "slug": "adre-smith",
-      "position": "LO",
-      "team": "Stormers / DHLストーマーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 28,
-      "height": 200,
-      "weight": 123,
       "caps_display": ""
     },
     {
@@ -2954,19 +3006,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "エモニ-ナラワ",
-      "name_en": "Emoni NARAWA",
-      "slug": "emoni-narawa",
-      "position": "WTB",
-      "team": "Chiefs",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 184,
-      "weight": 98,
-      "caps_display": ""
-    },
-    {
       "name_ja": "フレッチャー-ニューウェル",
       "name_en": "Fletcher NEWELL",
       "slug": "fletcher-newell",
@@ -3003,32 +3042,6 @@
       "age": 26,
       "height": 198,
       "weight": 118,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "アンドリュー ・ スミス",
-      "name_en": "Andrew SMITH",
-      "slug": "andrew-smith-2000",
-      "position": "Winger",
-      "team": "Munster / マンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 183,
-      "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "アンジェロ・スミス",
-      "name_en": "Angelo SMITH",
-      "slug": "angelo-smith",
-      "position": "LO",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 25,
-      "height": 199,
-      "weight": 115,
       "caps_display": ""
     },
     {
@@ -3134,35 +3147,243 @@
       "height": 185,
       "weight": 113,
       "caps_display": ""
-    },
-    {
-      "name_ja": "ジャック-バレット",
-      "name_en": "Jack BARRETT",
-      "slug": "jack-barrett",
-      "position": "PR",
-      "team": "Waratahs",
-      "league": "",
-      "caps": 0,
-      "age": 22,
-      "height": 185,
-      "weight": 111,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "シアレ・ラウアキ",
-      "name_en": "Siale LAUAKI",
-      "slug": "siale-lauaki",
-      "position": "PR",
-      "team": "Hurricanes",
-      "league": "",
-      "caps": 0,
-      "age": 22,
-      "height": 194,
-      "weight": 125,
-      "caps_display": ""
     }
   ],
   "south-africa": [
+    {
+      "name_ja": "ダミアン ・デアレンデ",
+      "name_en": "Damian de Allende",
+      "slug": "damian-de-allende-295",
+      "position": "CTB",
+      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
+      "league": "league-one",
+      "caps": 73,
+      "age": 34,
+      "height": 190,
+      "weight": 105,
+      "caps_display": "South Africa代表 (73 caps)"
+    },
+    {
+      "name_ja": "ピーターステフ ・デュトイ",
+      "name_en": "Pieter Steph Du Toit",
+      "slug": "pieter-steph-du-toit-3458",
+      "position": "FL/No8",
+      "team": "トヨタヴェルブリッツ（2025-26）",
+      "league": "league-one",
+      "caps": 71,
+      "age": 33,
+      "height": 200,
+      "weight": 112,
+      "caps_display": "South Africa代表 (71 caps)"
+    },
+    {
+      "name_ja": "フランコ ・モスタート",
+      "name_en": "Franco Mostert",
+      "slug": "franco-mostert-458",
+      "position": "LO",
+      "team": "三重ホンダヒート（2025-26）",
+      "league": "league-one",
+      "caps": 67,
+      "age": 35,
+      "height": 200,
+      "weight": 112,
+      "caps_display": "South Africa代表 (67 caps)"
+    },
+    {
+      "name_ja": "Jean ・ Luc ・ デュ ・ PLESSIS",
+      "name_en": "Jean-Luc DU PLESSIS",
+      "slug": "jean-luc-du-plessis",
+      "position": "SO",
+      "team": "Stormers / DHLストーマーズ",
+      "league": "urc",
+      "caps": 64,
+      "age": 31,
+      "height": 180,
+      "weight": 95,
+      "caps_display": "South Africa代表 (64 caps)"
+    },
+    {
+      "name_ja": "マルコム ・マークス",
+      "name_en": "Malcolm Marx",
+      "slug": "malcolm-marx-3212",
+      "position": "HO",
+      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
+      "league": "league-one",
+      "caps": 63,
+      "age": 31,
+      "height": 189,
+      "weight": 117,
+      "caps_display": "South Africa代表 (63 caps)"
+    },
+    {
+      "name_ja": "ジェシー ・クリエル",
+      "name_en": "Jesse Kriel",
+      "slug": "jesse-kriel-2803",
+      "position": "CTB",
+      "team": "横浜キヤノンイーグルス（2025-26）",
+      "league": "league-one",
+      "caps": 62,
+      "age": 32,
+      "height": 185,
+      "weight": 95,
+      "caps_display": "South Africa代表 (62 caps)"
+    },
+    {
+      "name_ja": "ファフ ・デクラーク",
+      "name_en": "Faf De Klerk",
+      "slug": "faf-de-klerk-427",
+      "position": "SH",
+      "team": "横浜キヤノンイーグルス（2025-26）",
+      "league": "league-one",
+      "caps": 49,
+      "age": 34,
+      "height": 172,
+      "weight": 88,
+      "caps_display": "South Africa代表 (49 caps)"
+    },
+    {
+      "name_ja": "ルード ・デヤハー",
+      "name_en": "Lood de Jager",
+      "slug": "lood-de-jager-3166",
+      "position": "LO",
+      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
+      "league": "league-one",
+      "caps": 40,
+      "age": 33,
+      "height": 206,
+      "weight": 125,
+      "caps_display": "South Africa代表 (40 caps)"
+    },
+    {
+      "name_ja": "ルカニョ ・アム",
+      "name_en": "Lukhanyo Am",
+      "slug": "lukhanyo-am-3189",
+      "position": "CTB",
+      "team": "三菱重工相模原ダイナボアーズ（2025-26）",
+      "league": "league-one",
+      "caps": 35,
+      "age": 32,
+      "height": 186,
+      "weight": 97,
+      "caps_display": "South Africa代表 (35 caps)"
+    },
+    {
+      "name_ja": "クワッガ ・スミス",
+      "name_en": "Kwagga Smith",
+      "slug": "kwagga-smith-3120",
+      "position": "FL/No8",
+      "team": "静岡ブルーレヴズ（2025-26）",
+      "league": "league-one",
+      "caps": 34,
+      "age": 32,
+      "height": 180,
+      "weight": 99,
+      "caps_display": "South Africa代表 (34 caps)"
+    },
+    {
+      "name_ja": "Kyle ・ スミス",
+      "name_en": "Kyle SMITH",
+      "slug": "kyle-smith",
+      "position": "SO",
+      "team": "Stormers / DHLストーマーズ",
+      "league": "urc",
+      "caps": 34,
+      "age": 21,
+      "height": 188,
+      "weight": 88,
+      "caps_display": "South Africa代表 (34 caps)"
+    },
+    {
+      "name_ja": "Jean ・ スミス",
+      "name_en": "Jean SMITH",
+      "slug": "jean-smith",
+      "position": "SO",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 32,
+      "age": 22,
+      "height": 181,
+      "weight": 92,
+      "caps_display": "South Africa代表 (32 caps)"
+    },
+    {
+      "name_ja": "ジョシュ・スミス",
+      "name_en": "Josh SMITH",
+      "slug": "joshua-smith",
+      "position": "PR",
+      "team": "Western Force",
+      "league": "",
+      "caps": 32,
+      "age": 22,
+      "height": 188,
+      "weight": 110,
+      "caps_display": "South Africa代表 (32 caps)"
+    },
+    {
+      "name_ja": "チェスリン ・コルビ",
+      "name_en": "Cheslin Kolbe",
+      "slug": "cheslin-kolbe-207",
+      "position": "WTB",
+      "team": "東京サントリーサンゴリアス（2025-26）",
+      "league": "league-one",
+      "caps": 26,
+      "age": 32,
+      "height": 172,
+      "weight": 80,
+      "caps_display": "South Africa代表 (26 caps)"
+    },
+    {
+      "name_ja": "ヤスパー ・ヴィーセ",
+      "name_en": "Jasper Wiese",
+      "slug": "jasper-wiese-2787",
+      "position": "FL/No8",
+      "team": "浦安D-Rocks（2025-26）",
+      "league": "league-one",
+      "caps": 23,
+      "age": 30,
+      "height": 190,
+      "weight": 120,
+      "caps_display": "South Africa代表 (23 caps)"
+    },
+    {
+      "name_ja": "Jaden ・ HENDRIKSE",
+      "name_en": "Jaden HENDRIKSE",
+      "slug": "jaden-hendrikse",
+      "position": "SH",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 13,
+      "age": 25,
+      "height": 184,
+      "weight": 92,
+      "caps_display": "South Africa代表 (13 caps)"
+    },
+    {
+      "name_ja": "Jordan ・ HENDRIKSE",
+      "name_en": "Jordan HENDRIKSE",
+      "slug": "jordan-hendrikse",
+      "position": "SO",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 13,
+      "age": 24,
+      "height": 188,
+      "weight": 93,
+      "caps_display": "South Africa代表 (13 caps)"
+    },
+    {
+      "name_ja": "マニー ・リボック",
+      "name_en": "Manie Libbok",
+      "slug": "manie-libbok-3219",
+      "position": "SO",
+      "team": "花園近鉄ライナーズ（2025-26）",
+      "league": "league-one",
+      "caps": 9,
+      "age": 28,
+      "height": 184,
+      "weight": 79,
+      "caps_display": "South Africa代表 (9 caps)"
+    },
     {
       "name_ja": "Deon ・ FOURIE",
       "name_en": "Deon FOURIE",
@@ -3170,11 +3391,11 @@
       "position": "Back row",
       "team": "Stormers / DHLストーマーズ",
       "league": "urc",
-      "caps": 0,
+      "caps": 7,
       "age": 39,
       "height": 177,
       "weight": 103,
-      "caps_display": ""
+      "caps_display": "South Africa代表 (7 caps)"
     },
     {
       "name_ja": "コーバス ・ レイナック",
@@ -3226,19 +3447,6 @@
       "age": 36,
       "height": 184,
       "weight": 92,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "フランコ ・モスタート",
-      "name_en": "Franco Mostert",
-      "slug": "franco-mostert-458",
-      "position": "LO",
-      "team": "三重ホンダヒート（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 35,
-      "height": 200,
-      "weight": 112,
       "caps_display": ""
     },
     {
@@ -3317,32 +3525,6 @@
       "age": 35,
       "height": 174,
       "weight": 109,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ダミアン ・デアレンデ",
-      "name_en": "Damian de Allende",
-      "slug": "damian-de-allende-295",
-      "position": "CTB",
-      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 34,
-      "height": 190,
-      "weight": 105,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ファフ ・デクラーク",
-      "name_en": "Faf De Klerk",
-      "slug": "faf-de-klerk-427",
-      "position": "SH",
-      "team": "横浜キヤノンイーグルス（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 34,
-      "height": 172,
-      "weight": 88,
       "caps_display": ""
     },
     {
@@ -3489,45 +3671,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ルード ・デヤハー",
-      "name_en": "Lood de Jager",
-      "slug": "lood-de-jager-3166",
-      "position": "LO",
-      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 33,
-      "height": 206,
-      "weight": 125,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ピーターステフ ・デュトイ",
-      "name_en": "Pieter Steph Du Toit",
-      "slug": "pieter-steph-du-toit-3458",
-      "position": "FL/No8",
-      "team": "トヨタヴェルブリッツ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 33,
-      "height": 200,
-      "weight": 112,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "チェスリン ・コルビ",
-      "name_en": "Cheslin Kolbe",
-      "slug": "cheslin-kolbe-207",
-      "position": "WTB",
-      "team": "東京サントリーサンゴリアス（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 172,
-      "weight": 80,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Handr ・ ポラード",
       "name_en": "Handré POLLARD",
       "slug": "handre-pollard",
@@ -3580,45 +3723,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジェシー ・クリエル",
-      "name_en": "Jesse Kriel",
-      "slug": "jesse-kriel-2803",
-      "position": "CTB",
-      "team": "横浜キヤノンイーグルス（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 185,
-      "weight": 95,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "クワッガ ・スミス",
-      "name_en": "Kwagga Smith",
-      "slug": "kwagga-smith-3120",
-      "position": "FL/No8",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 180,
-      "weight": 99,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ルカニョ ・アム",
-      "name_en": "Lukhanyo Am",
-      "slug": "lukhanyo-am-3189",
-      "position": "CTB",
-      "team": "三菱重工相模原ダイナボアーズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 186,
-      "weight": 97,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Andr ・ ESTERHUIZEN",
       "name_en": "André ESTERHUIZEN",
       "slug": "andre-esterhuizen",
@@ -3629,19 +3733,6 @@
       "age": 31,
       "height": 193,
       "weight": 115,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Jean ・ Luc ・ デュ ・ PLESSIS",
-      "name_en": "Jean-Luc DU PLESSIS",
-      "slug": "jean-luc-du-plessis",
-      "position": "SO",
-      "team": "Stormers / DHLストーマーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 180,
-      "weight": 95,
       "caps_display": ""
     },
     {
@@ -3707,19 +3798,6 @@
       "age": 31,
       "height": 185,
       "weight": 144,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "マルコム ・マークス",
-      "name_en": "Malcolm Marx",
-      "slug": "malcolm-marx-3212",
-      "position": "HO",
-      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 31,
-      "height": 189,
-      "weight": 117,
       "caps_display": ""
     },
     {
@@ -3814,19 +3892,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ヤスパー ・ヴィーセ",
-      "name_en": "Jasper Wiese",
-      "slug": "jasper-wiese-2787",
-      "position": "FL/No8",
-      "team": "浦安D-Rocks（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 30,
-      "height": 190,
-      "weight": 120,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ハーシェル-ヤンキース",
       "name_en": "Herschel JANTJIES",
       "slug": "herschel-jantjies",
@@ -3889,19 +3954,6 @@
       "age": 28,
       "height": 200,
       "weight": 122,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "マニー ・リボック",
-      "name_en": "Manie Libbok",
-      "slug": "manie-libbok-3219",
-      "position": "SO",
-      "team": "花園近鉄ライナーズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 28,
-      "height": 184,
-      "weight": 79,
       "caps_display": ""
     },
     {
@@ -3983,32 +4035,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Jaden ・ HENDRIKSE",
-      "name_en": "Jaden HENDRIKSE",
-      "slug": "jaden-hendrikse",
-      "position": "SH",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 184,
-      "weight": 92,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Jordan ・ HENDRIKSE",
-      "name_en": "Jordan HENDRIKSE",
-      "slug": "jordan-hendrikse",
-      "position": "SO",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 24,
-      "height": 188,
-      "weight": 93,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Sacha ・ FEINBERG ・ MNGOMEZULU",
       "name_en": "Sacha FEINBERG-MNGOMEZULU",
       "slug": "sacha-mngomezulu",
@@ -4035,45 +4061,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Jean ・ スミス",
-      "name_en": "Jean SMITH",
-      "slug": "jean-smith",
-      "position": "SO",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 22,
-      "height": 181,
-      "weight": 92,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジョシュ・スミス",
-      "name_en": "Josh SMITH",
-      "slug": "joshua-smith",
-      "position": "PR",
-      "team": "Western Force",
-      "league": "",
-      "caps": 0,
-      "age": 22,
-      "height": 188,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Kyle ・ スミス",
-      "name_en": "Kyle SMITH",
-      "slug": "kyle-smith",
-      "position": "SO",
-      "team": "Stormers / DHLストーマーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 188,
-      "weight": 88,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ジョシュ ・ NEILL",
       "name_en": "Josh NEILL",
       "slug": "josh-neill",
@@ -4088,6 +4075,84 @@
     }
   ],
   "france": [
+    {
+      "name_ja": "ポール ・ デ ・ VILLIERS",
+      "name_en": "Paul DE VILLIERS",
+      "slug": "paul-de-villiers",
+      "position": "Back row",
+      "team": "Stormers / DHLストーマーズ",
+      "league": "urc",
+      "caps": 64,
+      "age": 23,
+      "height": 181,
+      "weight": 101,
+      "caps_display": "France代表 (64 caps)"
+    },
+    {
+      "name_ja": "マキシム・リュキュ",
+      "name_en": "Maxime LUCU",
+      "slug": "maxime-lucu",
+      "position": "SH",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": 24,
+      "age": 33,
+      "height": 177,
+      "weight": 83,
+      "caps_display": "France代表 (24 caps)"
+    },
+    {
+      "name_ja": "レダ・ワルディ",
+      "name_en": "Reda WARDI",
+      "slug": "reda-wardi",
+      "position": "PR",
+      "team": "ラ・ロシェル",
+      "league": "top14",
+      "caps": 14,
+      "age": 30,
+      "height": 185,
+      "weight": 111,
+      "caps_display": "France代表 (14 caps)"
+    },
+    {
+      "name_ja": "ピエール・ブデアン",
+      "name_en": "Pierre BOUDEHENT",
+      "slug": "pierre-boudehent",
+      "position": "CTB",
+      "team": "ヴァンヌ",
+      "league": "top14",
+      "caps": 14,
+      "age": 28,
+      "height": 196,
+      "weight": 107,
+      "caps_display": "France代表 (14 caps)"
+    },
+    {
+      "name_ja": "コナー・サ",
+      "name_en": "Connor SA",
+      "slug": "connor-sa",
+      "position": "HO",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": 9,
+      "age": 24,
+      "height": 183,
+      "weight": 103,
+      "caps_display": "France代表 (9 caps)"
+    },
+    {
+      "name_ja": "バスチャン・シャルロー",
+      "name_en": "Bastien CHALUREAU",
+      "slug": "bastien-chalureau",
+      "position": "LO",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": 6,
+      "age": 34,
+      "height": 202,
+      "weight": 118,
+      "caps_display": "France代表 (6 caps)"
+    },
     {
       "name_ja": "マキシム・マシュノー",
       "name_en": "Maxime MACHENAUD",
@@ -4138,19 +4203,6 @@
       "age": 35,
       "height": 202,
       "weight": 138,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "バスチャン・シャルロー",
-      "name_en": "Bastien CHALUREAU",
-      "slug": "bastien-chalureau",
-      "position": "LO",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": 0,
-      "age": 34,
-      "height": 202,
-      "weight": 118,
       "caps_display": ""
     },
     {
@@ -4229,19 +4281,6 @@
       "age": 33,
       "height": 181,
       "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "マキシム・リュキュ",
-      "name_en": "Maxime LUCU",
-      "slug": "maxime-lucu",
-      "position": "SH",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": 0,
-      "age": 33,
-      "height": 177,
-      "weight": 83,
       "caps_display": ""
     },
     {
@@ -4648,19 +4687,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "レダ・ワルディ",
-      "name_en": "Reda WARDI",
-      "slug": "reda-wardi",
-      "position": "PR",
-      "team": "ラ・ロシェル",
-      "league": "top14",
-      "caps": 0,
-      "age": 30,
-      "height": 185,
-      "weight": 111,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ロドリグ・ネティ",
       "name_en": "Rodrigue NETI",
       "slug": "rodrigue-neti",
@@ -4996,19 +5022,6 @@
       "age": 28,
       "height": 180,
       "weight": 91,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ピエール・ブデアン",
-      "name_en": "Pierre BOUDEHENT",
-      "slug": "pierre-boudehent",
-      "position": "CTB",
-      "team": "ヴァンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 28,
-      "height": 196,
-      "weight": 107,
       "caps_display": ""
     },
     {
@@ -5558,19 +5571,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "コナー・サ",
-      "name_en": "Connor SA",
-      "slug": "connor-sa",
-      "position": "HO",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": 0,
-      "age": 24,
-      "height": 183,
-      "weight": 103,
-      "caps_display": ""
-    },
-    {
       "name_ja": "キリアン・ティクスロン",
       "name_en": "Killian TIXERONT",
       "slug": "killian-tixeront",
@@ -5672,19 +5672,6 @@
       "age": 23,
       "height": 175,
       "weight": 75,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ポール ・ デ ・ VILLIERS",
-      "name_en": "Paul DE VILLIERS",
-      "slug": "paul-de-villiers",
-      "position": "Back row",
-      "team": "Stormers / DHLストーマーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 23,
-      "height": 181,
-      "weight": 101,
       "caps_display": ""
     },
     {
@@ -6015,6 +6002,188 @@
   ],
   "ireland": [
     {
+      "name_ja": "ジョナ・ロウ",
+      "name_en": "Jonah LOWE",
+      "slug": "jonah-lowe",
+      "position": "WTB",
+      "team": "Highlanders",
+      "league": "",
+      "caps": 40,
+      "age": 29,
+      "height": 184,
+      "weight": 92,
+      "caps_display": "Ireland代表 (40 caps)"
+    },
+    {
+      "name_ja": "Se ・ O'BRIEN",
+      "name_en": "Seán O'BRIEN",
+      "slug": "sean-o-brien-1998",
+      "position": "CTB",
+      "team": "Munster / マンスター・ラグビー",
+      "league": "urc",
+      "caps": 37,
+      "age": 27,
+      "height": 187,
+      "weight": 101,
+      "caps_display": "Ireland代表 (37 caps)"
+    },
+    {
+      "name_ja": "Se ・ F ・ O'BRIEN",
+      "name_en": "Seán F. O'BRIEN",
+      "slug": "sean-o-brien-2000",
+      "position": "Back row",
+      "team": "Connacht / コナート・ラグビー",
+      "league": "urc",
+      "caps": 37,
+      "age": 25,
+      "height": 193,
+      "weight": 105,
+      "caps_display": "Ireland代表 (37 caps)"
+    },
+    {
+      "name_ja": "ダニエル ・ ライアン",
+      "name_en": "Daniel RYAN",
+      "slug": "daniel-ryan",
+      "position": "Winger",
+      "team": "Connacht / コナート・ラグビー",
+      "league": "urc",
+      "caps": 31,
+      "age": 20,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Ireland代表 (31 caps)"
+    },
+    {
+      "name_ja": "ジョシュ ・ MURPHY",
+      "name_en": "Josh MURPHY",
+      "slug": "josh-murphy",
+      "position": "LO",
+      "team": "Connacht / コナート・ラグビー",
+      "league": "urc",
+      "caps": 29,
+      "age": 31,
+      "height": 198,
+      "weight": 110,
+      "caps_display": "Ireland代表 (29 caps)"
+    },
+    {
+      "name_ja": "ジャック ・ MURPHY",
+      "name_en": "Jack MURPHY",
+      "slug": "jack-murphy",
+      "position": "SO",
+      "team": "Ulster / アルスター・ラグビー",
+      "league": "urc",
+      "caps": 29,
+      "age": 22,
+      "height": 178,
+      "weight": 83,
+      "caps_display": "Ireland代表 (29 caps)"
+    },
+    {
+      "name_ja": "Ross Byrne",
+      "name_en": "Ross Byrne",
+      "slug": "ross-byrne-4569",
+      "position": "Fly-half",
+      "team": "Gloucester Rugby / グロスター・ラグビー",
+      "league": "premiership",
+      "caps": 21,
+      "age": 30,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Ireland代表 (21 caps)"
+    },
+    {
+      "name_ja": "Joe ・ MCCARTHY",
+      "name_en": "Joe MCCARTHY",
+      "slug": "joe-mccarthy",
+      "position": "LO",
+      "team": "Leinster / レンスター・ラグビー",
+      "league": "urc",
+      "caps": 19,
+      "age": 24,
+      "height": 198,
+      "weight": 119,
+      "caps_display": "Ireland代表 (19 caps)"
+    },
+    {
+      "name_ja": "Jake ・ FLANNERY",
+      "name_en": "Jake FLANNERY",
+      "slug": "jake-flannery",
+      "position": "SO",
+      "team": "Ulster / アルスター・ラグビー",
+      "league": "urc",
+      "caps": 16,
+      "age": 26,
+      "height": 183,
+      "weight": 91,
+      "caps_display": "Ireland代表 (16 caps)"
+    },
+    {
+      "name_ja": "Shane ・ JENNINGS",
+      "name_en": "Shane JENNINGS",
+      "slug": "shane-jennings-",
+      "position": "Winger",
+      "team": "Connacht / コナート・ラグビー",
+      "league": "urc",
+      "caps": 10,
+      "age": 25,
+      "height": 191,
+      "weight": 96,
+      "caps_display": "Ireland代表 (10 caps)"
+    },
+    {
+      "name_ja": "トム ・ CLARKSON",
+      "name_en": "Tom CLARKSON",
+      "slug": "tom-clarkson",
+      "position": "PR",
+      "team": "Leinster / レンスター・ラグビー",
+      "league": "urc",
+      "caps": 6,
+      "age": 26,
+      "height": 185,
+      "weight": 118,
+      "caps_display": "Ireland代表 (6 caps)"
+    },
+    {
+      "name_ja": "トム ・ STEWART",
+      "name_en": "Tom STEWART",
+      "slug": "tom-stewart",
+      "position": "HO",
+      "team": "Ulster / アルスター・ラグビー",
+      "league": "urc",
+      "caps": 2,
+      "age": 25,
+      "height": 183,
+      "weight": 105,
+      "caps_display": "Ireland代表 (2 caps)"
+    },
+    {
+      "name_ja": "ジャック ・ BOYLE",
+      "name_en": "Jack BOYLE",
+      "slug": "jack-boyle",
+      "position": "PR",
+      "team": "Leinster / レンスター・ラグビー",
+      "league": "urc",
+      "caps": 2,
+      "age": 24,
+      "height": 185,
+      "weight": 113,
+      "caps_display": "Ireland代表 (2 caps)"
+    },
+    {
+      "name_ja": "Cormac ・ IZUCHUKWU",
+      "name_en": "Cormac IZUCHUKWU",
+      "slug": "cormac-izuchukwu",
+      "position": "LO",
+      "team": "Ulster / アルスター・ラグビー",
+      "league": "urc",
+      "caps": 1,
+      "age": 26,
+      "height": 200,
+      "weight": 118,
+      "caps_display": "Ireland代表 (1 caps)"
+    },
+    {
       "name_ja": "ジョン ・ ライアン",
       "name_en": "John RYAN",
       "slug": "john-ryan",
@@ -6262,19 +6431,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジョシュ ・ MURPHY",
-      "name_en": "Josh MURPHY",
-      "slug": "josh-murphy",
-      "position": "LO",
-      "team": "Connacht / コナート・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 198,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
       "name_ja": "アンドリュー ・ PORTER",
       "name_en": "Andrew PORTER",
       "slug": "andrew-porter",
@@ -6327,19 +6483,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Ross Byrne",
-      "name_en": "Ross Byrne",
-      "slug": "ross-byrne-4569",
-      "position": "Fly-half",
-      "team": "Gloucester Rugby / グロスター・ラグビー",
-      "league": "premiership",
-      "caps": 0,
-      "age": 30,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ヒューゴ ・ KEENAN",
       "name_en": "Hugo KEENAN",
       "slug": "hugo-keenan",
@@ -6389,19 +6532,6 @@
       "age": 29,
       "height": 183,
       "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジョナ・ロウ",
-      "name_en": "Jonah LOWE",
-      "slug": "jonah-lowe",
-      "position": "WTB",
-      "team": "Highlanders",
-      "league": "",
-      "caps": 0,
-      "age": 29,
-      "height": 184,
-      "weight": 92,
       "caps_display": ""
     },
     {
@@ -6561,19 +6691,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Se ・ O'BRIEN",
-      "name_en": "Seán O'BRIEN",
-      "slug": "sean-o-brien-1998",
-      "position": "CTB",
-      "team": "Munster / マンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 27,
-      "height": 187,
-      "weight": 101,
-      "caps_display": ""
-    },
-    {
       "name_ja": "トム ・ O'TOOLE",
       "name_en": "Tom O'TOOLE",
       "slug": "tom-o-toole",
@@ -6626,19 +6743,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Cormac ・ IZUCHUKWU",
-      "name_en": "Cormac IZUCHUKWU",
-      "slug": "cormac-izuchukwu",
-      "position": "LO",
-      "team": "Ulster / アルスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 200,
-      "weight": 118,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Craig ・ CASEY",
       "name_en": "Craig CASEY",
       "slug": "craig-casey",
@@ -6678,19 +6782,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Jake ・ FLANNERY",
-      "name_en": "Jake FLANNERY",
-      "slug": "jake-flannery",
-      "position": "SO",
-      "team": "Ulster / アルスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 183,
-      "weight": 91,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ライアン ・ BAIRD",
       "name_en": "Ryan BAIRD",
       "slug": "ryan-baird",
@@ -6701,58 +6792,6 @@
       "age": 26,
       "height": 198,
       "weight": 113,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "トム ・ CLARKSON",
-      "name_en": "Tom CLARKSON",
-      "slug": "tom-clarkson",
-      "position": "PR",
-      "team": "Leinster / レンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 185,
-      "weight": 118,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Se ・ F ・ O'BRIEN",
-      "name_en": "Seán F. O'BRIEN",
-      "slug": "sean-o-brien-2000",
-      "position": "Back row",
-      "team": "Connacht / コナート・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 193,
-      "weight": 105,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Shane ・ JENNINGS",
-      "name_en": "Shane JENNINGS",
-      "slug": "shane-jennings-",
-      "position": "Winger",
-      "team": "Connacht / コナート・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 191,
-      "weight": 96,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "トム ・ STEWART",
-      "name_en": "Tom STEWART",
-      "slug": "tom-stewart",
-      "position": "HO",
-      "team": "Ulster / アルスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 183,
-      "weight": 105,
       "caps_display": ""
     },
     {
@@ -6769,19 +6808,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジャック ・ BOYLE",
-      "name_en": "Jack BOYLE",
-      "slug": "jack-boyle",
-      "position": "PR",
-      "team": "Leinster / レンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 24,
-      "height": 185,
-      "weight": 113,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ジェイミー ・ OSBORNE",
       "name_en": "Jamie OSBORNE",
       "slug": "jamie-osborne",
@@ -6792,19 +6818,6 @@
       "age": 24,
       "height": 193,
       "weight": 98,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Joe ・ MCCARTHY",
-      "name_en": "Joe MCCARTHY",
-      "slug": "joe-mccarthy",
-      "position": "LO",
-      "team": "Leinster / レンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 24,
-      "height": 198,
-      "weight": 119,
       "caps_display": ""
     },
     {
@@ -6860,19 +6873,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジャック ・ MURPHY",
-      "name_en": "Jack MURPHY",
-      "slug": "jack-murphy",
-      "position": "SO",
-      "team": "Ulster / アルスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 22,
-      "height": 178,
-      "weight": 83,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Paddy ・ MCCARTHY",
       "name_en": "Paddy MCCARTHY",
       "slug": "paddy-mccarthy",
@@ -6884,22 +6884,269 @@
       "height": 183,
       "weight": 110,
       "caps_display": ""
-    },
-    {
-      "name_ja": "ダニエル ・ ライアン",
-      "name_en": "Daniel RYAN",
-      "slug": "daniel-ryan",
-      "position": "Winger",
-      "team": "Connacht / コナート・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "england": [
+    {
+      "name_ja": "Owen Farrell",
+      "name_en": "Owen Farrell",
+      "slug": "owen-farrell-4928",
+      "position": "Fly-half",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 107,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (107 caps)"
+    },
+    {
+      "name_ja": "George Ford",
+      "name_en": "George Ford",
+      "slug": "george-ford-4867",
+      "position": "Fly-half",
+      "team": "Sale Sharks / セール・シャークス",
+      "league": "premiership",
+      "caps": 98,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (98 caps)"
+    },
+    {
+      "name_ja": "Henry Slade",
+      "name_en": "Henry Slade",
+      "slug": "henry-slade-4517",
+      "position": "Centre",
+      "team": "Exeter Chiefs / エクセター・チーフス",
+      "league": "premiership",
+      "caps": 70,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (70 caps)"
+    },
+    {
+      "name_ja": "E. Daly",
+      "name_en": "E. Daly",
+      "slug": "e-daly-4925",
+      "position": "Centre",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 69,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (69 caps)"
+    },
+    {
+      "name_ja": "マヌ ・ヴニポラ",
+      "name_en": "Manu Vunipola",
+      "slug": "manu-vunipola-3222",
+      "position": "SO",
+      "team": "三重ホンダヒート（2025-26）",
+      "league": "league-one",
+      "caps": 54,
+      "age": 25,
+      "height": 180,
+      "weight": 93,
+      "caps_display": "England代表 (54 caps)"
+    },
+    {
+      "name_ja": "ジェファーソン＝リー-ジョセフ",
+      "name_en": "Jefferson-Lee JOSEPH",
+      "slug": "jefferson-joseph",
+      "position": "WTB",
+      "team": "ペルピニャン",
+      "league": "top14",
+      "caps": 42,
+      "age": 23,
+      "height": 192,
+      "weight": 90,
+      "caps_display": "England代表 (42 caps)"
+    },
+    {
+      "name_ja": "ミッチェル ・ブラウン",
+      "name_en": "Mitchell Brown",
+      "slug": "mitchell-brown-3319",
+      "position": "LO",
+      "team": "花園近鉄ライナーズ（2025-26）",
+      "league": "league-one",
+      "caps": 39,
+      "age": 32,
+      "height": 194,
+      "weight": 108,
+      "caps_display": "England代表 (39 caps)"
+    },
+    {
+      "name_ja": "Mornay ・ スミス",
+      "name_en": "Mornay SMITH",
+      "slug": "morne-smith",
+      "position": "PR",
+      "team": "Bulls / ヴォーダコム・ブルズ",
+      "league": "urc",
+      "caps": 39,
+      "age": 28,
+      "height": 181,
+      "weight": 119,
+      "caps_display": "England代表 (39 caps)"
+    },
+    {
+      "name_ja": "M. Smith",
+      "name_en": "M. Smith",
+      "slug": "m-smith-4654",
+      "position": "Fly-half",
+      "team": "Harlequins / ハーレクインズ",
+      "league": "premiership",
+      "caps": 39,
+      "age": 28,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (39 caps)"
+    },
+    {
+      "name_ja": "トム ・ WOOD",
+      "name_en": "Tom WOOD",
+      "slug": "tom-wood-",
+      "position": "SO",
+      "team": "Munster / マンスター・ラグビー",
+      "league": "urc",
+      "caps": 38,
+      "age": 20,
+      "height": 188,
+      "weight": 91,
+      "caps_display": "England代表 (38 caps)"
+    },
+    {
+      "name_ja": "Freddie Steward",
+      "name_en": "Freddie Steward",
+      "slug": "freddie-steward-4705",
+      "position": "Fullback",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 35,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (35 caps)"
+    },
+    {
+      "name_ja": "Max Malins",
+      "name_en": "Max Malins",
+      "slug": "max-malins-4937",
+      "position": "Wing",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 21,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (21 caps)"
+    },
+    {
+      "name_ja": "Alex Dombrandt",
+      "name_en": "Alex Dombrandt",
+      "slug": "alex-dombrandt-4597",
+      "position": "No. 8",
+      "team": "Harlequins / ハーレクインズ",
+      "league": "premiership",
+      "caps": 20,
+      "age": 28,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (20 caps)"
+    },
+    {
+      "name_ja": "ディック ・ウィルソン",
+      "name_en": "Dick Wilson",
+      "slug": "dick-wilson-348",
+      "position": "CTB",
+      "team": "トヨタヴェルブリッツ（2025-26）",
+      "league": "league-one",
+      "caps": 18,
+      "age": 29,
+      "height": 180,
+      "weight": 96,
+      "caps_display": "England代表 (18 caps)"
+    },
+    {
+      "name_ja": "Jack van Poortvliet",
+      "name_en": "Jack van Poortvliet",
+      "slug": "jack-van-poortvliet-4711",
+      "position": "Scrum-half",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 16,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (16 caps)"
+    },
+    {
+      "name_ja": "Chandler Cunningham-South",
+      "name_en": "Chandler Cunningham-South",
+      "slug": "chandler-cunningham-south-4594",
+      "position": "Flanker",
+      "team": "Harlequins / ハーレクインズ",
+      "league": "premiership",
+      "caps": 11,
+      "age": 22,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (11 caps)"
+    },
+    {
+      "name_ja": "ピアーズ ・フランシス",
+      "name_en": "Piers Francis",
+      "slug": "piers-francis-3455",
+      "position": "SO",
+      "team": "クリタウォーターガッシュ昭島（2025-26）",
+      "league": "",
+      "caps": 8,
+      "age": 35,
+      "height": 183,
+      "weight": 92,
+      "caps_display": "England代表 (8 caps)"
+    },
+    {
+      "name_ja": "Tom Roebuck",
+      "name_en": "Tom Roebuck",
+      "slug": "tom-roebuck-4878",
+      "position": "Wing",
+      "team": "Sale Sharks / セール・シャークス",
+      "league": "premiership",
+      "caps": 3,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (3 caps)"
+    },
+    {
+      "name_ja": "Asher Opoku-Fordjour",
+      "name_en": "Asher Opoku-Fordjour",
+      "slug": "asher-opoku-fordjour-4853",
+      "position": "Prop",
+      "team": "Sale Sharks / セール・シャークス",
+      "league": "premiership",
+      "caps": 1,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (1 caps)"
+    },
+    {
+      "name_ja": "T. Willis",
+      "name_en": "T. Willis",
+      "slug": "t-willis-4917",
+      "position": "No. 8",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 1,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "England代表 (1 caps)"
+    },
     {
       "name_ja": "キーラン・ブルックス",
       "name_en": "Kieran BROOKES",
@@ -6911,19 +7158,6 @@
       "age": 35,
       "height": 188,
       "weight": 120,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ピアーズ ・フランシス",
-      "name_en": "Piers Francis",
-      "slug": "piers-francis-3455",
-      "position": "SO",
-      "team": "クリタウォーターガッシュ昭島（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 35,
-      "height": 183,
-      "weight": 92,
       "caps_display": ""
     },
     {
@@ -7028,19 +7262,6 @@
       "age": 32,
       "height": 183,
       "weight": 122,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ミッチェル ・ブラウン",
-      "name_en": "Mitchell Brown",
-      "slug": "mitchell-brown-3319",
-      "position": "LO",
-      "team": "花園近鉄ライナーズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 194,
-      "weight": 108,
       "caps_display": ""
     },
     {
@@ -7161,19 +7382,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ディック ・ウィルソン",
-      "name_en": "Dick Wilson",
-      "slug": "dick-wilson-348",
-      "position": "CTB",
-      "team": "トヨタヴェルブリッツ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 29,
-      "height": 180,
-      "weight": 96,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ジャック-ウィリス",
       "name_en": "Jack WILLIS",
       "slug": "jack-willis",
@@ -7226,19 +7434,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Mornay ・ スミス",
-      "name_en": "Mornay SMITH",
-      "slug": "morne-smith",
-      "position": "PR",
-      "team": "Bulls / ヴォーダコム・ブルズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 28,
-      "height": 181,
-      "weight": 119,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ザック・マーサー",
       "name_en": "Zach MERCER",
       "slug": "zach-mercer",
@@ -7249,32 +7444,6 @@
       "age": 28,
       "height": 191,
       "weight": 111,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Alex Dombrandt",
-      "name_en": "Alex Dombrandt",
-      "slug": "alex-dombrandt-4597",
-      "position": "No. 8",
-      "team": "Harlequins / ハーレクインズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 28,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "M. Smith",
-      "name_en": "M. Smith",
-      "slug": "m-smith-4654",
-      "position": "Fly-half",
-      "team": "Harlequins / ハーレクインズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 28,
-      "height": 0,
-      "weight": 0,
       "caps_display": ""
     },
     {
@@ -7304,19 +7473,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "マヌ ・ヴニポラ",
-      "name_en": "Manu Vunipola",
-      "slug": "manu-vunipola-3222",
-      "position": "SO",
-      "team": "三重ホンダヒート（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 25,
-      "height": 180,
-      "weight": 93,
-      "caps_display": ""
-    },
-    {
       "name_ja": "ダン ・ KELLY",
       "name_en": "Dan KELLY",
       "slug": "dan-kelly",
@@ -7343,62 +7499,10 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ジェファーソン＝リー-ジョセフ",
-      "name_en": "Jefferson-Lee JOSEPH",
-      "slug": "jefferson-joseph",
-      "position": "WTB",
-      "team": "ペルピニャン",
-      "league": "top14",
-      "caps": 0,
-      "age": 23,
-      "height": 192,
-      "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Chandler Cunningham-South",
-      "name_en": "Chandler Cunningham-South",
-      "slug": "chandler-cunningham-south-4594",
-      "position": "Flanker",
-      "team": "Harlequins / ハーレクインズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 22,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "トム ・ WOOD",
-      "name_en": "Tom WOOD",
-      "slug": "tom-wood-",
-      "position": "SO",
-      "team": "Munster / マンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 188,
-      "weight": 91,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Immanuel Feyi-Waboso",
       "name_en": "Immanuel Feyi-Waboso",
       "slug": "immanuel-feyi-waboso-4502",
       "position": "Wing",
-      "team": "Exeter Chiefs / エクセター・チーフス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Henry Slade",
-      "name_en": "Henry Slade",
-      "slug": "henry-slade-4517",
-      "position": "Centre",
       "team": "Exeter Chiefs / エクセター・チーフス",
       "league": "premiership",
       "caps": 0,
@@ -7419,126 +7523,35 @@
       "height": 0,
       "weight": 0,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Freddie Steward",
-      "name_en": "Freddie Steward",
-      "slug": "freddie-steward-4705",
-      "position": "Fullback",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Jack van Poortvliet",
-      "name_en": "Jack van Poortvliet",
-      "slug": "jack-van-poortvliet-4711",
-      "position": "Scrum-half",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Asher Opoku-Fordjour",
-      "name_en": "Asher Opoku-Fordjour",
-      "slug": "asher-opoku-fordjour-4853",
-      "position": "Prop",
-      "team": "Sale Sharks / セール・シャークス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "George Ford",
-      "name_en": "George Ford",
-      "slug": "george-ford-4867",
-      "position": "Fly-half",
-      "team": "Sale Sharks / セール・シャークス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Tom Roebuck",
-      "name_en": "Tom Roebuck",
-      "slug": "tom-roebuck-4878",
-      "position": "Wing",
-      "team": "Sale Sharks / セール・シャークス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "T. Willis",
-      "name_en": "T. Willis",
-      "slug": "t-willis-4917",
-      "position": "No. 8",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "E. Daly",
-      "name_en": "E. Daly",
-      "slug": "e-daly-4925",
-      "position": "Centre",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Owen Farrell",
-      "name_en": "Owen Farrell",
-      "slug": "owen-farrell-4928",
-      "position": "Fly-half",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Max Malins",
-      "name_en": "Max Malins",
-      "slug": "max-malins-4937",
-      "position": "Wing",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "australia": [
+    {
+      "name_ja": "Stewart ・ MOORE",
+      "name_en": "Stewart MOORE",
+      "slug": "stewart-moore",
+      "position": "CTB",
+      "team": "Ulster / アルスター・ラグビー",
+      "league": "urc",
+      "caps": 96,
+      "age": 26,
+      "height": 184,
+      "weight": 93,
+      "caps_display": "Australia代表 (96 caps)"
+    },
+    {
+      "name_ja": "S. Moore",
+      "name_en": "S. Moore",
+      "slug": "s-moore-4761",
+      "position": "Centre",
+      "team": "Newcastle Falcons / ニューカッスル・ファルコンズ",
+      "league": "premiership",
+      "caps": 96,
+      "age": 26,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (96 caps)"
+    },
     {
       "name_ja": "バーナード ・フォーリー",
       "name_en": "Bernard Foley",
@@ -7605,6 +7618,45 @@
       "caps_display": "オーストラリア代表(50)"
     },
     {
+      "name_ja": "ツポウ テビタ",
+      "name_en": "Tevita Tupou",
+      "slug": "tevita-tupou-4064",
+      "position": "FL/No8",
+      "team": "三重ホンダヒート（2025-26）",
+      "league": "league-one",
+      "caps": 49,
+      "age": 34,
+      "height": 185,
+      "weight": 102,
+      "caps_display": "Australia代表 (49 caps)"
+    },
+    {
+      "name_ja": "トゥリマフア ・マホラ・トゥポウ",
+      "name_en": "Tulimafua Mahola Tupou",
+      "slug": "tulimafua-mahola-tupou-4161",
+      "position": "CTB",
+      "team": "豊田自動織機シャトルズ愛知（2025-26）",
+      "league": "",
+      "caps": 49,
+      "age": 21,
+      "height": 185,
+      "weight": 105,
+      "caps_display": "Australia代表 (49 caps)"
+    },
+    {
+      "name_ja": "James O'Connor",
+      "name_en": "James O'Connor",
+      "slug": "james-o-connor-4700",
+      "position": "Fly-half",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 48,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (48 caps)"
+    },
+    {
       "name_ja": "ローリー ・アーノルド",
       "name_en": "Rory Arnold",
       "slug": "rory-arnold-3552",
@@ -7616,6 +7668,19 @@
       "height": 208,
       "weight": 120,
       "caps_display": "オーストラリア代表(32)"
+    },
+    {
+      "name_ja": "B. Alexander",
+      "name_en": "B. Alexander",
+      "slug": "b-alexander-4771",
+      "position": "Hooker",
+      "team": "Northampton Saints / ノーサンプトン・セインツ",
+      "league": "premiership",
+      "caps": 28,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (28 caps)"
     },
     {
       "name_ja": "ショーン ・マクマーン",
@@ -7644,6 +7709,32 @@
       "caps_display": "オーストラリア代表(26)"
     },
     {
+      "name_ja": "A. Bell",
+      "name_en": "A. Bell",
+      "slug": "a-bell-4460",
+      "position": "Lock",
+      "team": "Exeter Chiefs / エクセター・チーフス",
+      "league": "premiership",
+      "caps": 24,
+      "age": 25,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (24 caps)"
+    },
+    {
+      "name_ja": "ロブ・レオタ",
+      "name_en": "Rob LEOTA",
+      "slug": "rob-leota",
+      "position": "FL/NO8",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": 17,
+      "age": 29,
+      "height": 190,
+      "weight": 110,
+      "caps_display": "Australia代表 (17 caps)"
+    },
+    {
       "name_ja": "リアム ・ギル",
       "name_en": "Liam Gill",
       "slug": "liam-gill-3157",
@@ -7657,6 +7748,97 @@
       "caps_display": "オーストラリア代表(15)"
     },
     {
+      "name_ja": "テヴィタ・ラトゥ",
+      "name_en": "Tevita LATU",
+      "slug": "tevita-latu",
+      "position": "CTB",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 15,
+      "age": 27,
+      "height": 183,
+      "weight": 108,
+      "caps_display": "Australia代表 (15 caps)"
+    },
+    {
+      "name_ja": "タウファ ・ラトゥ",
+      "name_en": "Taufa Latu",
+      "slug": "taufa-latu-4050",
+      "position": "PR",
+      "team": "トヨタヴェルブリッツ（2025-26）",
+      "league": "league-one",
+      "caps": 15,
+      "age": 27,
+      "height": 183,
+      "weight": 120,
+      "caps_display": "Australia代表 (15 caps)"
+    },
+    {
+      "name_ja": "ニック・フロスト",
+      "name_en": "Nick FROST",
+      "slug": "nick-frost",
+      "position": "LO",
+      "team": "Brumbies",
+      "league": "",
+      "caps": 12,
+      "age": 26,
+      "height": 206,
+      "weight": 120,
+      "caps_display": "Australia代表 (12 caps)"
+    },
+    {
+      "name_ja": "カーター-ゴードン",
+      "name_en": "Carter GORDON",
+      "slug": "carter-gordon",
+      "position": "SO",
+      "team": "Reds",
+      "league": "",
+      "caps": 5,
+      "age": 25,
+      "height": 189,
+      "weight": 94,
+      "caps_display": "Australia代表 (5 caps)"
+    },
+    {
+      "name_ja": "Izaia Perese",
+      "name_en": "Izaia Perese",
+      "slug": "izaia-perese-4702",
+      "position": "Centre",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 5,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (5 caps)"
+    },
+    {
+      "name_ja": "ランギ・グリーソン",
+      "name_en": "Langi GLEESON",
+      "slug": "langi-gleeson",
+      "position": "FL/NO8",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": 4,
+      "age": 24,
+      "height": 188,
+      "weight": 110,
+      "caps_display": "Australia代表 (4 caps)"
+    },
+    {
+      "name_ja": "Tom Hooper",
+      "name_en": "Tom Hooper",
+      "slug": "tom-hooper-4472",
+      "position": "Flanker",
+      "team": "Exeter Chiefs / エクセター・チーフス",
+      "league": "premiership",
+      "caps": 4,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Australia代表 (4 caps)"
+    },
+    {
       "name_ja": "パディー ・ライアン",
       "name_en": "Paddy Ryan",
       "slug": "paddy-ryan-3429",
@@ -7668,6 +7850,45 @@
       "height": 190,
       "weight": 116,
       "caps_display": "オーストラリア代表(3)"
+    },
+    {
+      "name_ja": "ゼーン・ノンゴール",
+      "name_en": "Zane NONGGORR",
+      "slug": "zane-nonggorr",
+      "position": "PR",
+      "team": "Reds",
+      "league": "",
+      "caps": 3,
+      "age": 24,
+      "height": 187,
+      "weight": 130,
+      "caps_display": "Australia代表 (3 caps)"
+    },
+    {
+      "name_ja": "マット・フェスラー",
+      "name_en": "Matt FAESSLER",
+      "slug": "matt-faessler",
+      "position": "HO",
+      "team": "Reds",
+      "league": "",
+      "caps": 2,
+      "age": 27,
+      "height": 183,
+      "weight": 109,
+      "caps_display": "Australia代表 (2 caps)"
+    },
+    {
+      "name_ja": "ブレイク・ショウプ",
+      "name_en": "Blake SCHOUPP",
+      "slug": "blake-schoupp",
+      "position": "PR",
+      "team": "Brumbies",
+      "league": "",
+      "caps": 1,
+      "age": 27,
+      "height": 180,
+      "weight": 117,
+      "caps_display": "Australia代表 (1 caps)"
     },
     {
       "name_ja": "カートリー・ビール",
@@ -7797,19 +8018,6 @@
       "age": 34,
       "height": 183,
       "weight": 122,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ツポウ テビタ",
-      "name_en": "Tevita Tupou",
-      "slug": "tevita-tupou-4064",
-      "position": "FL/No8",
-      "team": "三重ホンダヒート（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 34,
-      "height": 185,
-      "weight": 102,
       "caps_display": ""
     },
     {
@@ -8034,19 +8242,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ロブ・レオタ",
-      "name_en": "Rob LEOTA",
-      "slug": "rob-leota",
-      "position": "FL/NO8",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 29,
-      "height": 190,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Sione ・ TUIPULOTU",
       "name_en": "Sione TUIPULOTU",
       "slug": "sione-tuipulotu",
@@ -8112,19 +8307,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ブレイク・ショウプ",
-      "name_en": "Blake SCHOUPP",
-      "slug": "blake-schoupp",
-      "position": "PR",
-      "team": "Brumbies",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 180,
-      "weight": 117,
-      "caps_display": ""
-    },
-    {
       "name_ja": "エマニュエル-メアフー",
       "name_en": "Emmanuel MEAFOU",
       "slug": "emmanuel-meafou",
@@ -8161,19 +8343,6 @@
       "age": 27,
       "height": 188,
       "weight": 89,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "マット・フェスラー",
-      "name_en": "Matt FAESSLER",
-      "slug": "matt-faessler",
-      "position": "HO",
-      "team": "Reds",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 109,
       "caps_display": ""
     },
     {
@@ -8226,32 +8395,6 @@
       "age": 27,
       "height": 179,
       "weight": 77,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "テヴィタ・ラトゥ",
-      "name_en": "Tevita LATU",
-      "slug": "tevita-latu",
-      "position": "CTB",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 108,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "タウファ ・ラトゥ",
-      "name_en": "Taufa Latu",
-      "slug": "taufa-latu-4050",
-      "position": "PR",
-      "team": "トヨタヴェルブリッツ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 120,
       "caps_display": ""
     },
     {
@@ -8333,19 +8476,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ニック・フロスト",
-      "name_en": "Nick FROST",
-      "slug": "nick-frost",
-      "position": "LO",
-      "team": "Brumbies",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 206,
-      "weight": 120,
-      "caps_display": ""
-    },
-    {
       "name_ja": "オリー・ノリス",
       "name_en": "Ollie NORRIS",
       "slug": "ollie-norris",
@@ -8359,32 +8489,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Stewart ・ MOORE",
-      "name_en": "Stewart MOORE",
-      "slug": "stewart-moore",
-      "position": "CTB",
-      "team": "Ulster / アルスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 184,
-      "weight": 93,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "S. Moore",
-      "name_en": "S. Moore",
-      "slug": "s-moore-4761",
-      "position": "Centre",
-      "team": "Newcastle Falcons / ニューカッスル・ファルコンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 26,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Angus ・ BELL",
       "name_en": "Angus BELL",
       "slug": "angus-bell",
@@ -8395,19 +8499,6 @@
       "age": 25,
       "height": 193,
       "weight": 130,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "カーター-ゴードン",
-      "name_en": "Carter GORDON",
-      "slug": "carter-gordon",
-      "position": "SO",
-      "team": "Reds",
-      "league": "",
-      "caps": 0,
-      "age": 25,
-      "height": 189,
-      "weight": 94,
       "caps_display": ""
     },
     {
@@ -8450,19 +8541,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "A. Bell",
-      "name_en": "A. Bell",
-      "slug": "a-bell-4460",
-      "position": "Lock",
-      "team": "Exeter Chiefs / エクセター・チーフス",
-      "league": "premiership",
-      "caps": 0,
-      "age": 25,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
       "name_ja": "アレックス・マシバカ",
       "name_en": "Alex MASIBAKA",
       "slug": "alex-masibaka",
@@ -8473,32 +8551,6 @@
       "age": 24,
       "height": 186,
       "weight": 115,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ランギ・グリーソン",
-      "name_en": "Langi GLEESON",
-      "slug": "langi-gleeson",
-      "position": "FL/NO8",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": 0,
-      "age": 24,
-      "height": 188,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ゼーン・ノンゴール",
-      "name_en": "Zane NONGGORR",
-      "slug": "zane-nonggorr",
-      "position": "PR",
-      "team": "Reds",
-      "league": "",
-      "caps": 0,
-      "age": 24,
-      "height": 187,
-      "weight": 130,
       "caps_display": ""
     },
     {
@@ -8526,74 +8578,61 @@
       "height": 181,
       "weight": 88,
       "caps_display": ""
-    },
-    {
-      "name_ja": "トゥリマフア ・マホラ・トゥポウ",
-      "name_en": "Tulimafua Mahola Tupou",
-      "slug": "tulimafua-mahola-tupou-4161",
-      "position": "CTB",
-      "team": "豊田自動織機シャトルズ愛知（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 21,
-      "height": 185,
-      "weight": 105,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Tom Hooper",
-      "name_en": "Tom Hooper",
-      "slug": "tom-hooper-4472",
-      "position": "Flanker",
-      "team": "Exeter Chiefs / エクセター・チーフス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "James O'Connor",
-      "name_en": "James O'Connor",
-      "slug": "james-o-connor-4700",
-      "position": "Fly-half",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Izaia Perese",
-      "name_en": "Izaia Perese",
-      "slug": "izaia-perese-4702",
-      "position": "Centre",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "B. Alexander",
-      "name_en": "B. Alexander",
-      "slug": "b-alexander-4771",
-      "position": "Hooker",
-      "team": "Northampton Saints / ノーサンプトン・セインツ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "scotland": [
+    {
+      "name_ja": "ジェームズ・ホワイト",
+      "name_en": "James WHITE",
+      "slug": "james-white",
+      "position": "SO",
+      "team": "Crusaders",
+      "league": "",
+      "caps": 59,
+      "age": 22,
+      "height": 180,
+      "weight": 95,
+      "caps_display": "Scotland代表 (59 caps)"
+    },
+    {
+      "name_ja": "カイル・ブラウン",
+      "name_en": "Kyle BROWN",
+      "slug": "kyle-brown",
+      "position": "CTB",
+      "team": "Chiefs",
+      "league": "",
+      "caps": 46,
+      "age": 23,
+      "height": 181,
+      "weight": 84,
+      "caps_display": "Scotland代表 (46 caps)"
+    },
+    {
+      "name_ja": "Math ・ IORWERTH ・ スコット",
+      "name_en": "Math IORWERTH-SCOTT",
+      "slug": "matholwch-iorwerth-scott",
+      "position": "PR",
+      "team": "Ospreys / オスプリーズ",
+      "league": "urc",
+      "caps": 29,
+      "age": 26,
+      "height": 185,
+      "weight": 125,
+      "caps_display": "Scotland代表 (29 caps)"
+    },
+    {
+      "name_ja": "ベン ・ WHITE",
+      "name_en": "Ben WHITE",
+      "slug": "ben-white-",
+      "position": "PR",
+      "team": "Edimbourg / エディンバラ・ラグビー",
+      "league": "urc",
+      "caps": 24,
+      "age": 21,
+      "height": 182,
+      "weight": 110,
+      "caps_display": "Scotland代表 (24 caps)"
+    },
     {
       "name_ja": "デイヴ-チェリー",
       "name_en": "Dave CHERRY",
@@ -8601,11 +8640,50 @@
       "position": "HO",
       "team": "ヴァンヌ",
       "league": "top14",
-      "caps": 0,
+      "caps": 11,
       "age": 35,
       "height": 183,
       "weight": 107,
-      "caps_display": ""
+      "caps_display": "Scotland代表 (11 caps)"
+    },
+    {
+      "name_ja": "Tom Jordan",
+      "name_en": "Tom Jordan",
+      "slug": "tom-jordan-4440",
+      "position": "Centre",
+      "team": "Bristol Bears / ブリストル・ベアーズ",
+      "league": "premiership",
+      "caps": 3,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Scotland代表 (3 caps)"
+    },
+    {
+      "name_ja": "Findlay ・ THOMSON",
+      "name_en": "Findlay THOMSON",
+      "slug": "findlay-thomson",
+      "position": "CTB",
+      "team": "Edimbourg / エディンバラ・ラグビー",
+      "league": "urc",
+      "caps": 2,
+      "age": 22,
+      "height": 190,
+      "weight": 97,
+      "caps_display": "Scotland代表 (2 caps)"
+    },
+    {
+      "name_ja": "Johnny ・ MATTHEWS",
+      "name_en": "Johnny MATTHEWS",
+      "slug": "johnny-matthews",
+      "position": "HO",
+      "team": "Glasgow / グラスゴー・ウォリアーズ",
+      "league": "urc",
+      "caps": 1,
+      "age": 32,
+      "height": 183,
+      "weight": 110,
+      "caps_display": "Scotland代表 (1 caps)"
     },
     {
       "name_ja": "グラント ・ GILCHRIST",
@@ -8683,19 +8761,6 @@
       "age": 32,
       "height": 185,
       "weight": 125,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Johnny ・ MATTHEWS",
-      "name_en": "Johnny MATTHEWS",
-      "slug": "johnny-matthews",
-      "position": "HO",
-      "team": "Glasgow / グラスゴー・ウォリアーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 32,
-      "height": 183,
-      "weight": 110,
       "caps_display": ""
     },
     {
@@ -8946,19 +9011,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Math ・ IORWERTH ・ スコット",
-      "name_en": "Math IORWERTH-SCOTT",
-      "slug": "matholwch-iorwerth-scott",
-      "position": "PR",
-      "team": "Ospreys / オスプリーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 185,
-      "weight": 125,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Rory ・ DARGE",
       "name_en": "Rory DARGE",
       "slug": "rory-darge",
@@ -9076,19 +9128,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "カイル・ブラウン",
-      "name_en": "Kyle BROWN",
-      "slug": "kyle-brown",
-      "position": "CTB",
-      "team": "Chiefs",
-      "league": "",
-      "caps": 0,
-      "age": 23,
-      "height": 181,
-      "weight": 84,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Max ・ WILLIAMSON",
       "name_en": "Max WILLIAMSON",
       "slug": "max-williamson",
@@ -9115,45 +9154,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Findlay ・ THOMSON",
-      "name_en": "Findlay THOMSON",
-      "slug": "findlay-thomson",
-      "position": "CTB",
-      "team": "Edimbourg / エディンバラ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 22,
-      "height": 190,
-      "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジェームズ・ホワイト",
-      "name_en": "James WHITE",
-      "slug": "james-white",
-      "position": "SO",
-      "team": "Crusaders",
-      "league": "",
-      "caps": 0,
-      "age": 22,
-      "height": 180,
-      "weight": 95,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ベン ・ WHITE",
-      "name_en": "Ben WHITE",
-      "slug": "ben-white-",
-      "position": "PR",
-      "team": "Edimbourg / エディンバラ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 182,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Freddy ・ DOUGLAS",
       "name_en": "Freddy DOUGLAS",
       "slug": "freddy-douglas",
@@ -9164,19 +9164,6 @@
       "age": 21,
       "height": 185,
       "weight": 95,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Tom Jordan",
-      "name_en": "Tom Jordan",
-      "slug": "tom-jordan-4440",
-      "position": "Centre",
-      "team": "Bristol Bears / ブリストル・ベアーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
       "caps_display": ""
     },
     {
@@ -9208,6 +9195,344 @@
   ],
   "wales": [
     {
+      "name_ja": "Liam Williams",
+      "name_en": "Liam Williams",
+      "slug": "liam-williams-4769",
+      "position": "Fullback",
+      "team": "Newcastle Falcons / ニューカッスル・ファルコンズ",
+      "league": "premiership",
+      "caps": 92,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (92 caps)"
+    },
+    {
+      "name_ja": "Joe ・ ROBERTS",
+      "name_en": "Joe ROBERTS",
+      "slug": "joe-roberts-",
+      "position": "HO",
+      "team": "Glasgow / グラスゴー・ウォリアーズ",
+      "league": "urc",
+      "caps": 70,
+      "age": 20,
+      "height": 187,
+      "weight": 106,
+      "caps_display": "Wales代表 (70 caps)"
+    },
+    {
+      "name_ja": "ジョーンズ リチャード剛",
+      "name_en": "Richard Goh Jones",
+      "slug": "richard-goh-jones-3512",
+      "position": "FL/No8",
+      "team": "静岡ブルーレヴズ（2025-26）",
+      "league": "league-one",
+      "caps": 53,
+      "age": 26,
+      "height": 177,
+      "weight": 96,
+      "caps_display": "Wales代表 (53 caps)"
+    },
+    {
+      "name_ja": "ライアン ・ JONES",
+      "name_en": "Ryan JONES",
+      "slug": "ryan-jones-2006",
+      "position": "Back row",
+      "team": "Dragons / ドラゴンズ・ラグビー",
+      "league": "urc",
+      "caps": 53,
+      "age": 20,
+      "height": 182,
+      "weight": 93,
+      "caps_display": "Wales代表 (53 caps)"
+    },
+    {
+      "name_ja": "Dylan ・ ジェームズ",
+      "name_en": "Dylan JAMES",
+      "slug": "dylan-james-",
+      "position": "PR",
+      "team": "Ospreys / オスプリーズ",
+      "league": "urc",
+      "caps": 46,
+      "age": 20,
+      "height": 183,
+      "weight": 114,
+      "caps_display": "Wales代表 (46 caps)"
+    },
+    {
+      "name_ja": "Nick Tompkins",
+      "name_en": "Nick Tompkins",
+      "slug": "nick-tompkins-4942",
+      "position": "Centre",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 38,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (38 caps)"
+    },
+    {
+      "name_ja": "サム ・ ウィリアムズ",
+      "name_en": "Sam WILLIAMS",
+      "slug": "sam-williams-21689",
+      "position": "LO",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 32,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (32 caps)"
+    },
+    {
+      "name_ja": "S. Williams",
+      "name_en": "S. Williams",
+      "slug": "s-williams-4687",
+      "position": "Flanker",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 32,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (32 caps)"
+    },
+    {
+      "name_ja": "Mikey ・ JONES",
+      "name_en": "Mikey JONES",
+      "slug": "mike-jones",
+      "position": "PR",
+      "team": "Edimbourg / エディンバラ・ラグビー",
+      "league": "urc",
+      "caps": 29,
+      "age": 23,
+      "height": 181,
+      "weight": 110,
+      "caps_display": "Wales代表 (29 caps)"
+    },
+    {
+      "name_ja": "モーゼス ・ジョーンズ",
+      "name_en": "Moses Jones",
+      "slug": "moses-jones-3331",
+      "position": "SO",
+      "team": "ヤクルトレビンズ戸田（2025-26）",
+      "league": "",
+      "caps": 29,
+      "age": 23,
+      "height": 190,
+      "weight": 90,
+      "caps_display": "Wales代表 (29 caps)"
+    },
+    {
+      "name_ja": "Louis Rees-Zammit",
+      "name_en": "Louis Rees-Zammit",
+      "slug": "louis-rees-zammit-4452",
+      "position": "Wing",
+      "team": "Bristol Bears / ブリストル・ベアーズ",
+      "league": "premiership",
+      "caps": 27,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (27 caps)"
+    },
+    {
+      "name_ja": "Callum ・ HUNTER ・ HILL",
+      "name_en": "Callum HUNTER-HILL",
+      "slug": "callum-hunter-hill",
+      "position": "LO",
+      "team": "Edimbourg / エディンバラ・ラグビー",
+      "league": "urc",
+      "caps": 24,
+      "age": 29,
+      "height": 200,
+      "weight": 116,
+      "caps_display": "Wales代表 (24 caps)"
+    },
+    {
+      "name_ja": "Tommy Reffell",
+      "name_en": "Tommy Reffell",
+      "slug": "tommy-reffell-4680",
+      "position": "Flanker",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 23,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (23 caps)"
+    },
+    {
+      "name_ja": "Jac ・ MORGAN",
+      "name_en": "Jac MORGAN",
+      "slug": "jac-morgan",
+      "position": "Back row",
+      "team": "Ospreys / オスプリーズ",
+      "league": "urc",
+      "caps": 17,
+      "age": 26,
+      "height": 182,
+      "weight": 105,
+      "caps_display": "Wales代表 (17 caps)"
+    },
+    {
+      "name_ja": "李 修平",
+      "name_en": "Soopyung Lee",
+      "slug": "soopyung-lee-3889",
+      "position": "CTB",
+      "team": "マツダスカイアクティブズ広島（2025-26）",
+      "league": "",
+      "caps": 12,
+      "age": 36,
+      "height": 179,
+      "weight": 80,
+      "caps_display": "Wales代表 (12 caps)"
+    },
+    {
+      "name_ja": "ベン ・ トーマス",
+      "name_en": "Ben THOMAS",
+      "slug": "ben-thomas",
+      "position": "SO",
+      "team": "Cardiff / カーディフ・ラグビー",
+      "league": "urc",
+      "caps": 7,
+      "age": 27,
+      "height": 183,
+      "weight": 93,
+      "caps_display": "Wales代表 (7 caps)"
+    },
+    {
+      "name_ja": "ジェレミー-ウィリアムズ",
+      "name_en": "Jeremy WILLIAMS",
+      "slug": "jeremy-williams",
+      "position": "LO",
+      "team": "Western Force",
+      "league": "",
+      "caps": 6,
+      "age": 25,
+      "height": 198,
+      "weight": 113,
+      "caps_display": "Wales代表 (6 caps)"
+    },
+    {
+      "name_ja": "J. Williams",
+      "name_en": "J. Williams",
+      "slug": "j-williams-4454",
+      "position": "Centre",
+      "team": "Bristol Bears / ブリストル・ベアーズ",
+      "league": "premiership",
+      "caps": 6,
+      "age": 25,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (6 caps)"
+    },
+    {
+      "name_ja": "Jaco ・ ウィリアムズ",
+      "name_en": "Jaco WILLIAMS",
+      "slug": "jaco-williams",
+      "position": "FB",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 6,
+      "age": 21,
+      "height": 175,
+      "weight": 73,
+      "caps_display": "Wales代表 (6 caps)"
+    },
+    {
+      "name_ja": "Reuben ・ MORGAN ・ ウィリアムズ",
+      "name_en": "Reuben MORGAN-WILLIAMS",
+      "slug": "reuben-morgan-williams",
+      "position": "SH",
+      "team": "Ospreys / オスプリーズ",
+      "league": "urc",
+      "caps": 5,
+      "age": 28,
+      "height": 180,
+      "weight": 85,
+      "caps_display": "Wales代表 (5 caps)"
+    },
+    {
+      "name_ja": "Jac ・ DAVIES",
+      "name_en": "Jac DAVIES",
+      "slug": "jac-davies",
+      "position": "FB",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 5,
+      "age": 22,
+      "height": 183,
+      "weight": 85,
+      "caps_display": "Wales代表 (5 caps)"
+    },
+    {
+      "name_ja": "Harry ・ トーマス",
+      "name_en": "Harry THOMAS",
+      "slug": "harry-thomas",
+      "position": "HO",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 4,
+      "age": 21,
+      "height": 185,
+      "weight": 108,
+      "caps_display": "Wales代表 (4 caps)"
+    },
+    {
+      "name_ja": "Eddie ・ ジェームズ",
+      "name_en": "Eddie JAMES",
+      "slug": "eddie-james",
+      "position": "CTB",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 3,
+      "age": 23,
+      "height": 193,
+      "weight": 104,
+      "caps_display": "Wales代表 (3 caps)"
+    },
+    {
+      "name_ja": "Josh Hathaway",
+      "name_en": "Josh Hathaway",
+      "slug": "josh-hathaway-4576",
+      "position": "Fullback",
+      "team": "Gloucester Rugby / グロスター・ラグビー",
+      "league": "premiership",
+      "caps": 2,
+      "age": 21,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Wales代表 (2 caps)"
+    },
+    {
+      "name_ja": "コーリー・エヴァンス",
+      "name_en": "Corey EVANS",
+      "slug": "corey-evans",
+      "position": "CTB",
+      "team": "Blues",
+      "league": "",
+      "caps": 1,
+      "age": 25,
+      "height": 185,
+      "weight": 97,
+      "caps_display": "Wales代表 (1 caps)"
+    },
+    {
+      "name_ja": "Connor ・ EVANS",
+      "name_en": "Connor EVANS",
+      "slug": "connor-evans",
+      "position": "LO",
+      "team": "Stormers / DHLストーマーズ",
+      "league": "urc",
+      "caps": 1,
+      "age": 24,
+      "height": 196,
+      "weight": 114,
+      "caps_display": "Wales代表 (1 caps)"
+    },
+    {
       "name_ja": "Leigh ・ HALFPENNY",
       "name_en": "Leigh HALFPENNY",
       "slug": "leigh-halfpenny",
@@ -9218,19 +9543,6 @@
       "age": 37,
       "height": 178,
       "weight": 86,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "李 修平",
-      "name_en": "Soopyung Lee",
-      "slug": "soopyung-lee-3889",
-      "position": "CTB",
-      "team": "マツダスカイアクティブズ広島（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 36,
-      "height": 179,
-      "weight": 80,
       "caps_display": ""
     },
     {
@@ -9468,19 +9780,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Callum ・ HUNTER ・ HILL",
-      "name_en": "Callum HUNTER-HILL",
-      "slug": "callum-hunter-hill",
-      "position": "LO",
-      "team": "Edimbourg / エディンバラ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 29,
-      "height": 200,
-      "weight": 116,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Owen ・ WATKIN",
       "name_en": "Owen WATKIN",
       "slug": "owen-watkin",
@@ -9572,19 +9871,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Reuben ・ MORGAN ・ ウィリアムズ",
-      "name_en": "Reuben MORGAN-WILLIAMS",
-      "slug": "reuben-morgan-williams",
-      "position": "SH",
-      "team": "Ospreys / オスプリーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 28,
-      "height": 180,
-      "weight": 85,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Shane ・ LEWIS ・ HUGHES",
       "name_en": "Shane LEWIS-HUGHES",
       "slug": "shane-lewis-hughes",
@@ -9595,19 +9881,6 @@
       "age": 28,
       "height": 196,
       "weight": 115,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ベン ・ トーマス",
-      "name_en": "Ben THOMAS",
-      "slug": "ben-thomas",
-      "position": "SO",
-      "team": "Cardiff / カーディフ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 93,
       "caps_display": ""
     },
     {
@@ -9650,19 +9923,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Jac ・ MORGAN",
-      "name_en": "Jac MORGAN",
-      "slug": "jac-morgan",
-      "position": "Back row",
-      "team": "Ospreys / オスプリーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 182,
-      "weight": 105,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Kemsley ・ MATHIAS",
       "name_en": "Kemsley MATHIAS",
       "slug": "kemsley-mathias",
@@ -9699,45 +9959,6 @@
       "age": 26,
       "height": 182,
       "weight": 100,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジョーンズ リチャード剛",
-      "name_en": "Richard Goh Jones",
-      "slug": "richard-goh-jones-3512",
-      "position": "FL/No8",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 26,
-      "height": 177,
-      "weight": 96,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "コーリー・エヴァンス",
-      "name_en": "Corey EVANS",
-      "slug": "corey-evans",
-      "position": "CTB",
-      "team": "Blues",
-      "league": "",
-      "caps": 0,
-      "age": 25,
-      "height": 185,
-      "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジェレミー-ウィリアムズ",
-      "name_en": "Jeremy WILLIAMS",
-      "slug": "jeremy-williams",
-      "position": "LO",
-      "team": "Western Force",
-      "league": "",
-      "caps": 0,
-      "age": 25,
-      "height": 198,
-      "weight": 113,
       "caps_display": ""
     },
     {
@@ -9780,19 +10001,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "J. Williams",
-      "name_en": "J. Williams",
-      "slug": "j-williams-4454",
-      "position": "Centre",
-      "team": "Bristol Bears / ブリストル・ベアーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": 25,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Alex ・ MANN",
       "name_en": "Alex MANN",
       "slug": "alex-mann",
@@ -9803,19 +10011,6 @@
       "age": 24,
       "height": 191,
       "weight": 98,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Connor ・ EVANS",
-      "name_en": "Connor EVANS",
-      "slug": "connor-evans",
-      "position": "LO",
-      "team": "Stormers / DHLストーマーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 24,
-      "height": 196,
-      "weight": 114,
       "caps_display": ""
     },
     {
@@ -9858,19 +10053,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Eddie ・ ジェームズ",
-      "name_en": "Eddie JAMES",
-      "slug": "eddie-james",
-      "position": "CTB",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": 23,
-      "height": 193,
-      "weight": 104,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Mason ・ GRADY",
       "name_en": "Mason GRADY",
       "slug": "mason-grady",
@@ -9881,32 +10063,6 @@
       "age": 23,
       "height": 196,
       "weight": 117,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Mikey ・ JONES",
-      "name_en": "Mikey JONES",
-      "slug": "mike-jones",
-      "position": "PR",
-      "team": "Edimbourg / エディンバラ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 23,
-      "height": 181,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "モーゼス ・ジョーンズ",
-      "name_en": "Moses Jones",
-      "slug": "moses-jones-3331",
-      "position": "SO",
-      "team": "ヤクルトレビンズ戸田（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 23,
-      "height": 190,
-      "weight": 90,
       "caps_display": ""
     },
     {
@@ -9936,19 +10092,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Jac ・ DAVIES",
-      "name_en": "Jac DAVIES",
-      "slug": "jac-davies",
-      "position": "FB",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": 22,
-      "height": 183,
-      "weight": 85,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Mackenzie ・ MARTIN",
       "name_en": "Mackenzie MARTIN",
       "slug": "mackenzie-martin",
@@ -9962,19 +10105,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Harry ・ トーマス",
-      "name_en": "Harry THOMAS",
-      "slug": "harry-thomas",
-      "position": "HO",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 185,
-      "weight": 108,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Ieuan ・ CORNELIUS",
       "name_en": "Ieuan CORNELIUS",
       "slug": "ieuan-cornelius",
@@ -9985,149 +10115,6 @@
       "age": 21,
       "height": 188,
       "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Jaco ・ ウィリアムズ",
-      "name_en": "Jaco WILLIAMS",
-      "slug": "jaco-williams",
-      "position": "FB",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 175,
-      "weight": 73,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Josh Hathaway",
-      "name_en": "Josh Hathaway",
-      "slug": "josh-hathaway-4576",
-      "position": "Fullback",
-      "team": "Gloucester Rugby / グロスター・ラグビー",
-      "league": "premiership",
-      "caps": 0,
-      "age": 21,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Dylan ・ ジェームズ",
-      "name_en": "Dylan JAMES",
-      "slug": "dylan-james-",
-      "position": "PR",
-      "team": "Ospreys / オスプリーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 183,
-      "weight": 114,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Joe ・ ROBERTS",
-      "name_en": "Joe ROBERTS",
-      "slug": "joe-roberts-",
-      "position": "HO",
-      "team": "Glasgow / グラスゴー・ウォリアーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 187,
-      "weight": 106,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ライアン ・ JONES",
-      "name_en": "Ryan JONES",
-      "slug": "ryan-jones-2006",
-      "position": "Back row",
-      "team": "Dragons / ドラゴンズ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 182,
-      "weight": 93,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "サム ・ ウィリアムズ",
-      "name_en": "Sam WILLIAMS",
-      "slug": "sam-williams-21689",
-      "position": "LO",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Louis Rees-Zammit",
-      "name_en": "Louis Rees-Zammit",
-      "slug": "louis-rees-zammit-4452",
-      "position": "Wing",
-      "team": "Bristol Bears / ブリストル・ベアーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Tommy Reffell",
-      "name_en": "Tommy Reffell",
-      "slug": "tommy-reffell-4680",
-      "position": "Flanker",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "S. Williams",
-      "name_en": "S. Williams",
-      "slug": "s-williams-4687",
-      "position": "Flanker",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Liam Williams",
-      "name_en": "Liam Williams",
-      "slug": "liam-williams-4769",
-      "position": "Fullback",
-      "team": "Newcastle Falcons / ニューカッスル・ファルコンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Nick Tompkins",
-      "name_en": "Nick Tompkins",
-      "slug": "nick-tompkins-4942",
-      "position": "Centre",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
       "caps_display": ""
     }
   ],
@@ -10198,6 +10185,97 @@
       "caps_display": "Pumas (2018 - 2019) -> Bulls (2019 - 2019) -> Pumas (2020 - 2020) -> Bulls (2020 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2025) -> Bulls (2025 - 2026)"
     },
     {
+      "name_ja": "パブロ ・マテーラ",
+      "name_en": "Pablo Matera",
+      "slug": "pablo-matera-3426",
+      "position": "FL/No8",
+      "team": "三重ホンダヒート（2025-26）",
+      "league": "league-one",
+      "caps": 95,
+      "age": 32,
+      "height": 190,
+      "weight": 111,
+      "caps_display": "Argentina代表 (95 caps)"
+    },
+    {
+      "name_ja": "Matias Alemanno",
+      "name_en": "Matias Alemanno",
+      "slug": "matias-alemanno-4523",
+      "position": "Lock",
+      "team": "Gloucester Rugby / グロスター・ラグビー",
+      "league": "premiership",
+      "caps": 87,
+      "age": 34,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Argentina代表 (87 caps)"
+    },
+    {
+      "name_ja": "Matias Moroni",
+      "name_en": "Matias Moroni",
+      "slug": "matias-moroni-4445",
+      "position": "Centre",
+      "team": "Bristol Bears / ブリストル・ベアーズ",
+      "league": "premiership",
+      "caps": 74,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Argentina代表 (74 caps)"
+    },
+    {
+      "name_ja": "Lucio Cinti",
+      "name_en": "Lucio Cinti",
+      "slug": "lucio-cinti-4924",
+      "position": "Centre",
+      "team": "Saracens / サラセンズ",
+      "league": "premiership",
+      "caps": 16,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Argentina代表 (16 caps)"
+    },
+    {
+      "name_ja": "ジョエル・スクラヴィ",
+      "name_en": "Joel SCLAVI",
+      "slug": "joel-sclavi",
+      "position": "PR",
+      "team": "ラ・ロシェル",
+      "league": "top14",
+      "caps": 12,
+      "age": 31,
+      "height": 190,
+      "weight": 139,
+      "caps_display": "Argentina代表 (12 caps)"
+    },
+    {
+      "name_ja": "マテオ・カレーラス",
+      "name_en": "Mateo CARRERAS",
+      "slug": "mateo-carreras",
+      "position": "WTB",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": 11,
+      "age": 26,
+      "height": 173,
+      "weight": 84,
+      "caps_display": "Argentina代表 (11 caps)"
+    },
+    {
+      "name_ja": "イグナシオ-ルイス",
+      "name_en": "Ignacio RUIZ",
+      "slug": "ignacio-ruiz",
+      "position": "HO",
+      "team": "ペルピニャン",
+      "league": "top14",
+      "caps": 6,
+      "age": 25,
+      "height": 185,
+      "weight": 109,
+      "caps_display": "Argentina代表 (6 caps)"
+    },
+    {
       "name_ja": "ベンジャミン-ウルダピレッタ",
       "name_en": "Benjamin URDAPILLETA",
       "slug": "benjamin-urdapilleta",
@@ -10247,19 +10325,6 @@
       "age": 34,
       "height": 180,
       "weight": 102,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Matias Alemanno",
-      "name_en": "Matias Alemanno",
-      "slug": "matias-alemanno-4523",
-      "position": "Lock",
-      "team": "Gloucester Rugby / グロスター・ラグビー",
-      "league": "premiership",
-      "caps": 0,
-      "age": 34,
-      "height": 0,
-      "weight": 0,
       "caps_display": ""
     },
     {
@@ -10328,19 +10393,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "パブロ ・マテーラ",
-      "name_en": "Pablo Matera",
-      "slug": "pablo-matera-3426",
-      "position": "FL/No8",
-      "team": "三重ホンダヒート（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 32,
-      "height": 190,
-      "weight": 111,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Enrique ・ PIERETTO ・ HEILAND",
       "name_en": "Enrique PIERETTO HEILAND",
       "slug": "enrique-pieretto-heiland",
@@ -10364,19 +10416,6 @@
       "age": 31,
       "height": 191,
       "weight": 108,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジョエル・スクラヴィ",
-      "name_en": "Joel SCLAVI",
-      "slug": "joel-sclavi",
-      "position": "PR",
-      "team": "ラ・ロシェル",
-      "league": "top14",
-      "caps": 0,
-      "age": 31,
-      "height": 190,
-      "weight": 139,
       "caps_display": ""
     },
     {
@@ -10510,19 +10549,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "マテオ・カレーラス",
-      "name_en": "Mateo CARRERAS",
-      "slug": "mateo-carreras",
-      "position": "WTB",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 26,
-      "height": 173,
-      "weight": 84,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Nicol ・ ROGER ・ FARIAS",
       "name_en": "Nicolás ROGER FARIAS",
       "slug": "nicolas-roger-farias",
@@ -10572,19 +10598,6 @@
       "age": 25,
       "height": 187,
       "weight": 90,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "イグナシオ-ルイス",
-      "name_en": "Ignacio RUIZ",
-      "slug": "ignacio-ruiz",
-      "position": "HO",
-      "team": "ペルピニャン",
-      "league": "top14",
-      "caps": 0,
-      "age": 25,
-      "height": 185,
-      "weight": 109,
       "caps_display": ""
     },
     {
@@ -10664,35 +10677,243 @@
       "height": 197,
       "weight": 110,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Matias Moroni",
-      "name_en": "Matias Moroni",
-      "slug": "matias-moroni-4445",
-      "position": "Centre",
-      "team": "Bristol Bears / ブリストル・ベアーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Lucio Cinti",
-      "name_en": "Lucio Cinti",
-      "slug": "lucio-cinti-4924",
-      "position": "Centre",
-      "team": "Saracens / サラセンズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "fiji": [
+    {
+      "name_ja": "セミ ・ラドラドラ",
+      "name_en": "Semi Radradra",
+      "slug": "semi-radradra-3721",
+      "position": "CTB",
+      "team": "静岡ブルーレヴズ（2025-26）",
+      "league": "league-one",
+      "caps": 15,
+      "age": 33,
+      "height": 190,
+      "weight": 103,
+      "caps_display": "Fiji代表 (15 caps)"
+    },
+    {
+      "name_ja": "テモ・マヤナヴァヌア",
+      "name_en": "Temo MAYANAVANUA",
+      "slug": "temo-mayanavanua",
+      "position": "LO",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 11,
+      "age": 28,
+      "height": 197,
+      "weight": 120,
+      "caps_display": "Fiji代表 (11 caps)"
+    },
+    {
+      "name_ja": "メサケ・ドゲ",
+      "name_en": "Mesake DOGE",
+      "slug": "mesake-doge",
+      "position": "PR",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 10,
+      "age": 32,
+      "height": 180,
+      "weight": 122,
+      "caps_display": "Fiji代表 (10 caps)"
+    },
+    {
+      "name_ja": "ルーク・タギ",
+      "name_en": "Luke TAGI",
+      "slug": "luke-tagi",
+      "position": "PR",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": 9,
+      "age": 28,
+      "height": 187,
+      "weight": 130,
+      "caps_display": "Fiji代表 (9 caps)"
+    },
+    {
+      "name_ja": "ヴィリモニ・ボティトゥ",
+      "name_en": "Vilimoni BOTITU",
+      "slug": "vilimoni-botitu",
+      "position": "CTB",
+      "team": "カストル",
+      "league": "top14",
+      "caps": 8,
+      "age": 27,
+      "height": 183,
+      "weight": 98,
+      "caps_display": "Fiji代表 (8 caps)"
+    },
+    {
+      "name_ja": "テビタ ・イカニヴェレ",
+      "name_en": "Tevita Ikanivere",
+      "slug": "tevita-ikanivere-4061",
+      "position": "HO",
+      "team": "三重ホンダヒート（2025-26）",
+      "league": "league-one",
+      "caps": 8,
+      "age": 26,
+      "height": 183,
+      "weight": 113,
+      "caps_display": "Fiji代表 (8 caps)"
+    },
+    {
+      "name_ja": "シミ・クルヴォリ",
+      "name_en": "Simi KURUVOLI",
+      "slug": "simione-kuruvoli",
+      "position": "SO",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 7,
+      "age": 27,
+      "height": 173,
+      "weight": 74,
+      "caps_display": "Fiji代表 (7 caps)"
+    },
+    {
+      "name_ja": "イソア-ナシラスィラ",
+      "name_en": "Isoa NASILASILA",
+      "slug": "isoa-nasilasila",
+      "position": "LO",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 7,
+      "age": 26,
+      "height": 197,
+      "weight": 117,
+      "caps_display": "Fiji代表 (7 caps)"
+    },
+    {
+      "name_ja": "ヴィナヤ・ハボシ",
+      "name_en": "Vinaya HABOSI",
+      "slug": "vinaya-habosi",
+      "position": "WTB",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": 6,
+      "age": 26,
+      "height": 184,
+      "weight": 100,
+      "caps_display": "Fiji代表 (6 caps)"
+    },
+    {
+      "name_ja": "Kalaveti Ravouvou",
+      "name_en": "Kalaveti Ravouvou",
+      "slug": "kalaveti-ravouvou-4451",
+      "position": "Centre",
+      "team": "Bristol Bears / ブリストル・ベアーズ",
+      "league": "premiership",
+      "caps": 6,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Fiji代表 (6 caps)"
+    },
+    {
+      "name_ja": "ジュタ・ワイニコロ",
+      "name_en": "Jiuta WAINIQOLO",
+      "slug": "jiuta-wainiqolo",
+      "position": "WTB",
+      "team": "リヨン",
+      "league": "top14",
+      "caps": 4,
+      "age": 27,
+      "height": 187,
+      "weight": 97,
+      "caps_display": "Fiji代表 (4 caps)"
+    },
+    {
+      "name_ja": "イライサ-ドロアセセ",
+      "name_en": "Ilaisa DROASESE",
+      "slug": "ilaisa-droasese",
+      "position": "FB",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 4,
+      "age": 26,
+      "height": 187,
+      "weight": 99,
+      "caps_display": "Fiji代表 (4 caps)"
+    },
+    {
+      "name_ja": "シレリ・マカラ",
+      "name_en": "Sireli MAQALA",
+      "slug": "sireli-maqala",
+      "position": "CTB",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": 4,
+      "age": 25,
+      "height": 172,
+      "weight": 88,
+      "caps_display": "Fiji代表 (4 caps)"
+    },
+    {
+      "name_ja": "レキマ・タギタギヴァル",
+      "name_en": "Lekima TAGITAGIVALU",
+      "slug": "lekima-tagitagivalu",
+      "position": "FL/NO8",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": 3,
+      "age": 30,
+      "height": 195,
+      "weight": 110,
+      "caps_display": "Fiji代表 (3 caps)"
+    },
+    {
+      "name_ja": "ズリエル・トギアタマ",
+      "name_en": "Zuriel TOGIATAMA",
+      "slug": "zuriel-togiatama",
+      "position": "HO",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 3,
+      "age": 27,
+      "height": 183,
+      "weight": 109,
+      "caps_display": "Fiji代表 (3 caps)"
+    },
+    {
+      "name_ja": "サム・タワケ",
+      "name_en": "Samu TAWAKE",
+      "slug": "samu-tawake",
+      "position": "PR",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 2,
+      "age": 29,
+      "height": 183,
+      "weight": 120,
+      "caps_display": "Fiji代表 (2 caps)"
+    },
+    {
+      "name_ja": "イオセフォ-マシ",
+      "name_en": "Iosefo MASI",
+      "slug": "iosefo-masi",
+      "position": "CTB",
+      "team": "リヨン",
+      "league": "top14",
+      "caps": 2,
+      "age": 27,
+      "height": 190,
+      "weight": 97,
+      "caps_display": "Fiji代表 (2 caps)"
+    },
+    {
+      "name_ja": "ヴィリヴェ-ミラミラ",
+      "name_en": "Vilive MIRAMIRA",
+      "slug": "vilive-miramira",
+      "position": "FL/No8",
+      "team": "Fijian Drua",
+      "league": "",
+      "caps": 1,
+      "age": 26,
+      "height": 192,
+      "weight": 92,
+      "caps_display": "Fiji代表 (1 caps)"
+    },
     {
       "name_ja": "レオーネ・ナカラワ",
       "name_en": "Leone NAKARAWA",
@@ -10798,19 +11019,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "セミ ・ラドラドラ",
-      "name_en": "Semi Radradra",
-      "slug": "semi-radradra-3721",
-      "position": "CTB",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 33,
-      "height": 190,
-      "weight": 103,
-      "caps_display": ""
-    },
-    {
       "name_ja": "アドリア・コカギ",
       "name_en": "Adrea COCAGI",
       "slug": "adrea-cocagi",
@@ -10834,19 +11042,6 @@
       "age": 32,
       "height": 180,
       "weight": 113,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "メサケ・ドゲ",
-      "name_en": "Mesake DOGE",
-      "slug": "mesake-doge",
-      "position": "PR",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 32,
-      "height": 180,
-      "weight": 122,
       "caps_display": ""
     },
     {
@@ -10902,19 +11097,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "レキマ・タギタギヴァル",
-      "name_en": "Lekima TAGITAGIVALU",
-      "slug": "lekima-tagitagivalu",
-      "position": "FL/NO8",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": 0,
-      "age": 30,
-      "height": 195,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
       "name_ja": "セタリキ・トゥイツヴ",
       "name_en": "Setariki TUICUVU",
       "slug": "setariki-tuicuvu",
@@ -10967,19 +11149,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "サム・タワケ",
-      "name_en": "Samu TAWAKE",
-      "slug": "samu-tawake",
-      "position": "PR",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 29,
-      "height": 183,
-      "weight": 120,
-      "caps_display": ""
-    },
-    {
       "name_ja": "セヴ・リース",
       "name_en": "Sevu REECE",
       "slug": "sevu-reece",
@@ -10990,32 +11159,6 @@
       "age": 29,
       "height": 179,
       "weight": 98,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ルーク・タギ",
-      "name_en": "Luke TAGI",
-      "slug": "luke-tagi",
-      "position": "PR",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 28,
-      "height": 187,
-      "weight": 130,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "テモ・マヤナヴァヌア",
-      "name_en": "Temo MAYANAVANUA",
-      "slug": "temo-mayanavanua",
-      "position": "LO",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 28,
-      "height": 197,
-      "weight": 120,
       "caps_display": ""
     },
     {
@@ -11032,97 +11175,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "イオセフォ-マシ",
-      "name_en": "Iosefo MASI",
-      "slug": "iosefo-masi",
-      "position": "CTB",
-      "team": "リヨン",
-      "league": "top14",
-      "caps": 0,
-      "age": 27,
-      "height": 190,
-      "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジュタ・ワイニコロ",
-      "name_en": "Jiuta WAINIQOLO",
-      "slug": "jiuta-wainiqolo",
-      "position": "WTB",
-      "team": "リヨン",
-      "league": "top14",
-      "caps": 0,
-      "age": 27,
-      "height": 187,
-      "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "シミ・クルヴォリ",
-      "name_en": "Simi KURUVOLI",
-      "slug": "simione-kuruvoli",
-      "position": "SO",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 173,
-      "weight": 74,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ヴィリモニ・ボティトゥ",
-      "name_en": "Vilimoni BOTITU",
-      "slug": "vilimoni-botitu",
-      "position": "CTB",
-      "team": "カストル",
-      "league": "top14",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 98,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ズリエル・トギアタマ",
-      "name_en": "Zuriel TOGIATAMA",
-      "slug": "zuriel-togiatama",
-      "position": "HO",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 183,
-      "weight": 109,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "イライサ-ドロアセセ",
-      "name_en": "Ilaisa DROASESE",
-      "slug": "ilaisa-droasese",
-      "position": "FB",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 187,
-      "weight": 99,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "イソア-ナシラスィラ",
-      "name_en": "Isoa NASILASILA",
-      "slug": "isoa-nasilasila",
-      "position": "LO",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 197,
-      "weight": 117,
-      "caps_display": ""
-    },
-    {
       "name_ja": "セレスティノ・ラヴタウマダ",
       "name_en": "Selestino RAVUTAUMADA",
       "slug": "selestino-ravutaumada",
@@ -11136,45 +11188,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ヴィリヴェ-ミラミラ",
-      "name_en": "Vilive MIRAMIRA",
-      "slug": "vilive-miramira",
-      "position": "FL/No8",
-      "team": "Fijian Drua",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 192,
-      "weight": 92,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ヴィナヤ・ハボシ",
-      "name_en": "Vinaya HABOSI",
-      "slug": "vinaya-habosi",
-      "position": "WTB",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": 0,
-      "age": 26,
-      "height": 184,
-      "weight": 100,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "テビタ ・イカニヴェレ",
-      "name_en": "Tevita Ikanivere",
-      "slug": "tevita-ikanivere-4061",
-      "position": "HO",
-      "team": "三重ホンダヒート（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 26,
-      "height": 183,
-      "weight": 113,
-      "caps_display": ""
-    },
-    {
       "name_ja": "エモシ・ツイギリ",
       "name_en": "Emosi TUQIRI",
       "slug": "emosi-tuqiri",
@@ -11185,19 +11198,6 @@
       "age": 25,
       "height": 194,
       "weight": 120,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "シレリ・マカラ",
-      "name_en": "Sireli MAQALA",
-      "slug": "sireli-maqala",
-      "position": "CTB",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 25,
-      "height": 172,
-      "weight": 88,
       "caps_display": ""
     },
     {
@@ -11225,22 +11225,178 @@
       "height": 200,
       "weight": 117,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Kalaveti Ravouvou",
-      "name_en": "Kalaveti Ravouvou",
-      "slug": "kalaveti-ravouvou-4451",
-      "position": "Centre",
-      "team": "Bristol Bears / ブリストル・ベアーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "italy": [
+    {
+      "name_ja": "Stephen Varney",
+      "name_en": "Stephen Varney",
+      "slug": "stephen-varney-4519",
+      "position": "Scrum-half",
+      "team": "Exeter Chiefs / エクセター・チーフス",
+      "league": "premiership",
+      "caps": 30,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Italy代表 (30 caps)"
+    },
+    {
+      "name_ja": "Alessandro ・ FUSCO",
+      "name_en": "Alessandro FUSCO",
+      "slug": "alessandro-fusco",
+      "position": "SH",
+      "team": "Zebre / ゼブレ・パルマ",
+      "league": "urc",
+      "caps": 15,
+      "age": 26,
+      "height": 185,
+      "weight": 91,
+      "caps_display": "Italy代表 (15 caps)"
+    },
+    {
+      "name_ja": "Alessandro ・ GARBISI",
+      "name_en": "Alessandro GARBISI",
+      "slug": "alessandro-garbisi",
+      "position": "SH",
+      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
+      "league": "urc",
+      "caps": 14,
+      "age": 23,
+      "height": 174,
+      "weight": 88,
+      "caps_display": "Italy代表 (14 caps)"
+    },
+    {
+      "name_ja": "ディノ ・ラム",
+      "name_en": "Dino Lamb",
+      "slug": "dino-lamb-351",
+      "position": "LO",
+      "team": "横浜キヤノンイーグルス（2025-26）",
+      "league": "league-one",
+      "caps": 10,
+      "age": 27,
+      "height": 198,
+      "weight": 119,
+      "caps_display": "Italy代表 (10 caps)"
+    },
+    {
+      "name_ja": "Ross Vintcent",
+      "name_en": "Ross Vintcent",
+      "slug": "ross-vintcent-4488",
+      "position": "Flanker",
+      "team": "Exeter Chiefs / エクセター・チーフス",
+      "league": "premiership",
+      "caps": 10,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Italy代表 (10 caps)"
+    },
+    {
+      "name_ja": "エドアルド・イアキッツィ",
+      "name_en": "Edoardo IACHIZZI",
+      "slug": "edoardo-iachizzi",
+      "position": "FL/NO8",
+      "team": "ヴァンヌ",
+      "league": "top14",
+      "caps": 6,
+      "age": 27,
+      "height": 196,
+      "weight": 112,
+      "caps_display": "Italy代表 (6 caps)"
+    },
+    {
+      "name_ja": "Alessandro ・ IZEKOR",
+      "name_en": "Alessandro IZEKOR",
+      "slug": "alessandro-izekor",
+      "position": "Back row",
+      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
+      "league": "urc",
+      "caps": 6,
+      "age": 26,
+      "height": 196,
+      "weight": 110,
+      "caps_display": "Italy代表 (6 caps)"
+    },
+    {
+      "name_ja": "Lorenzo ・ PANI",
+      "name_en": "Lorenzo PANI",
+      "slug": "lorenzo-pani",
+      "position": "FB",
+      "team": "Zebre / ゼブレ・パルマ",
+      "league": "urc",
+      "caps": 5,
+      "age": 23,
+      "height": 193,
+      "weight": 101,
+      "caps_display": "Italy代表 (5 caps)"
+    },
+    {
+      "name_ja": "C. Braley",
+      "name_en": "C. Braley",
+      "slug": "c-braley-4567",
+      "position": "Scrum-half",
+      "team": "Gloucester Rugby / グロスター・ラグビー",
+      "league": "premiership",
+      "caps": 3,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Italy代表 (3 caps)"
+    },
+    {
+      "name_ja": "Matt ・ GALLAGHER",
+      "name_en": "Matt GALLAGHER",
+      "slug": "matt-gallagher",
+      "position": "FB",
+      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
+      "league": "urc",
+      "caps": 2,
+      "age": 29,
+      "height": 185,
+      "weight": 96,
+      "caps_display": "Italy代表 (2 caps)"
+    },
+    {
+      "name_ja": "Giacomo ・ DA ・ RE",
+      "name_en": "Giacomo DA RE",
+      "slug": "giacomo-da-re",
+      "position": "SO",
+      "team": "Zebre / ゼブレ・パルマ",
+      "league": "urc",
+      "caps": 2,
+      "age": 26,
+      "height": 180,
+      "weight": 84,
+      "caps_display": "Italy代表 (2 caps)"
+    },
+    {
+      "name_ja": "Simone ・ GESI",
+      "name_en": "Simone GESI",
+      "slug": "simone-gesi",
+      "position": "Winger",
+      "team": "Zebre / ゼブレ・パルマ",
+      "league": "urc",
+      "caps": 2,
+      "age": 24,
+      "height": 183,
+      "weight": 80,
+      "caps_display": "Italy代表 (2 caps)"
+    },
+    {
+      "name_ja": "Giulio ・ BERTACCINI",
+      "name_en": "Giulio BERTACCINI",
+      "slug": "giulio-bertaccini",
+      "position": "CTB",
+      "team": "Zebre / ゼブレ・パルマ",
+      "league": "urc",
+      "caps": 1,
+      "age": 25,
+      "height": 184,
+      "weight": 93,
+      "caps_display": "Italy代表 (1 caps)"
+    },
     {
       "name_ja": "Luca ・ MORISI",
       "name_en": "Luca MORISI",
@@ -11398,19 +11554,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Matt ・ GALLAGHER",
-      "name_en": "Matt GALLAGHER",
-      "slug": "matt-gallagher",
-      "position": "FB",
-      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
-      "league": "urc",
-      "caps": 0,
-      "age": 29,
-      "height": 185,
-      "weight": 96,
-      "caps_display": ""
-    },
-    {
       "name_ja": "マルコ ・ ZANON",
       "name_en": "Marco ZANON",
       "slug": "marco-zanon",
@@ -11421,32 +11564,6 @@
       "age": 28,
       "height": 188,
       "weight": 104,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ディノ ・ラム",
-      "name_en": "Dino Lamb",
-      "slug": "dino-lamb-351",
-      "position": "LO",
-      "team": "横浜キヤノンイーグルス（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 27,
-      "height": 198,
-      "weight": 119,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "エドアルド・イアキッツィ",
-      "name_en": "Edoardo IACHIZZI",
-      "slug": "edoardo-iachizzi",
-      "position": "FL/NO8",
-      "team": "ヴァンヌ",
-      "league": "top14",
-      "caps": 0,
-      "age": 27,
-      "height": 196,
-      "weight": 112,
       "caps_display": ""
     },
     {
@@ -11502,45 +11619,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Alessandro ・ FUSCO",
-      "name_en": "Alessandro FUSCO",
-      "slug": "alessandro-fusco",
-      "position": "SH",
-      "team": "Zebre / ゼブレ・パルマ",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 185,
-      "weight": 91,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Alessandro ・ IZEKOR",
-      "name_en": "Alessandro IZEKOR",
-      "slug": "alessandro-izekor",
-      "position": "Back row",
-      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 196,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Giacomo ・ DA ・ RE",
-      "name_en": "Giacomo DA RE",
-      "slug": "giacomo-da-re",
-      "position": "SO",
-      "team": "Zebre / ゼブレ・パルマ",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 180,
-      "weight": 84,
-      "caps_display": ""
-    },
-    {
       "name_ja": "フェデリコ-モーリ",
       "name_en": "Federico MORI",
       "slug": "federico-mori",
@@ -11564,19 +11642,6 @@
       "age": 25,
       "height": 184,
       "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Giulio ・ BERTACCINI",
-      "name_en": "Giulio BERTACCINI",
-      "slug": "giulio-bertaccini",
-      "position": "CTB",
-      "team": "Zebre / ゼブレ・パルマ",
-      "league": "urc",
-      "caps": 0,
-      "age": 25,
-      "height": 184,
-      "weight": 93,
       "caps_display": ""
     },
     {
@@ -11684,32 +11749,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "Simone ・ GESI",
-      "name_en": "Simone GESI",
-      "slug": "simone-gesi",
-      "position": "Winger",
-      "team": "Zebre / ゼブレ・パルマ",
-      "league": "urc",
-      "caps": 0,
-      "age": 24,
-      "height": 183,
-      "weight": 80,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Alessandro ・ GARBISI",
-      "name_en": "Alessandro GARBISI",
-      "slug": "alessandro-garbisi",
-      "position": "SH",
-      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
-      "league": "urc",
-      "caps": 0,
-      "age": 23,
-      "height": 174,
-      "weight": 88,
-      "caps_display": ""
-    },
-    {
       "name_ja": "デイヴィッド ・ ODIASE",
       "name_en": "David ODIASE",
       "slug": "david-odiase",
@@ -11720,19 +11759,6 @@
       "age": 23,
       "height": 190,
       "weight": 114,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Lorenzo ・ PANI",
-      "name_en": "Lorenzo PANI",
-      "slug": "lorenzo-pani",
-      "position": "FB",
-      "team": "Zebre / ゼブレ・パルマ",
-      "league": "urc",
-      "caps": 0,
-      "age": 23,
-      "height": 193,
-      "weight": 101,
       "caps_display": ""
     },
     {
@@ -11760,48 +11786,22 @@
       "height": 187,
       "weight": 101,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Ross Vintcent",
-      "name_en": "Ross Vintcent",
-      "slug": "ross-vintcent-4488",
-      "position": "Flanker",
-      "team": "Exeter Chiefs / エクセター・チーフス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Stephen Varney",
-      "name_en": "Stephen Varney",
-      "slug": "stephen-varney-4519",
-      "position": "Scrum-half",
-      "team": "Exeter Chiefs / エクセター・チーフス",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "C. Braley",
-      "name_en": "C. Braley",
-      "slug": "c-braley-4567",
-      "position": "Scrum-half",
-      "team": "Gloucester Rugby / グロスター・ラグビー",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "georgia": [
+    {
+      "name_ja": "ダヴィト-ニニアシヴィリ",
+      "name_en": "Davit NINIASHVILI",
+      "slug": "davit-niniashvili",
+      "position": "FB",
+      "team": "ラ・ロシェル",
+      "league": "top14",
+      "caps": 23,
+      "age": 23,
+      "height": 185,
+      "weight": 90,
+      "caps_display": "Georgia代表 (23 caps)"
+    },
     {
       "name_ja": "ベカ・ギガシヴィリ",
       "name_en": "Beka GIGASHVILI",
@@ -11985,19 +11985,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ダヴィト-ニニアシヴィリ",
-      "name_en": "Davit NINIASHVILI",
-      "slug": "davit-niniashvili",
-      "position": "FB",
-      "team": "ラ・ロシェル",
-      "league": "top14",
-      "caps": 0,
-      "age": 23,
-      "height": 185,
-      "weight": 90,
-      "caps_display": ""
-    },
-    {
       "name_ja": "イラクリ-アプツィアウリ",
       "name_en": "Irakli APTSIAURI",
       "slug": "irakli-aptsiauri",
@@ -12025,6 +12012,123 @@
     }
   ],
   "samoa": [
+    {
+      "name_ja": "タマティ ・イオアネ",
+      "name_en": "Tamati Ioane",
+      "slug": "tamati-ioane-4026",
+      "position": "FL/No8",
+      "team": "浦安D-Rocks（2025-26）",
+      "league": "league-one",
+      "caps": 21,
+      "age": 28,
+      "height": 186,
+      "weight": 120,
+      "caps_display": "Samoa代表 (21 caps)"
+    },
+    {
+      "name_ja": "ジョナサン・タウマテイネ",
+      "name_en": "Jonathan TAUMATEINE",
+      "slug": "jonathan-taumateine",
+      "position": "SH",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 11,
+      "age": 29,
+      "height": 178,
+      "weight": 90,
+      "caps_display": "Samoa代表 (11 caps)"
+    },
+    {
+      "name_ja": "エレ-エナリ",
+      "name_en": "Ere ENARI",
+      "slug": "ereatara-enari",
+      "position": "SH",
+      "team": "Hurricanes",
+      "league": "",
+      "caps": 7,
+      "age": 28,
+      "height": 178,
+      "weight": 84,
+      "caps_display": "Samoa代表 (7 caps)"
+    },
+    {
+      "name_ja": "タレニ ・セウ",
+      "name_en": "Taleni Seu",
+      "slug": "taleni-seu-4021",
+      "position": "FL/No8",
+      "team": "豊田自動織機シャトルズ愛知（2025-26）",
+      "league": "",
+      "caps": 6,
+      "age": 32,
+      "height": 201,
+      "weight": 119,
+      "caps_display": "Samoa代表 (6 caps)"
+    },
+    {
+      "name_ja": "Gabe ・ ウィリアムズ",
+      "name_en": "Gabe WILLIAMS",
+      "slug": "gabe-williams",
+      "position": "LO",
+      "team": "Cardiff / カーディフ・ラグビー",
+      "league": "urc",
+      "caps": 4,
+      "age": 29,
+      "height": 198,
+      "weight": 106,
+      "caps_display": "Samoa代表 (4 caps)"
+    },
+    {
+      "name_ja": "グラント ・ ウィリアムズ",
+      "name_en": "Grant WILLIAMS",
+      "slug": "grant-williams",
+      "position": "SH",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 4,
+      "age": 29,
+      "height": 174,
+      "weight": 80,
+      "caps_display": "Samoa代表 (4 caps)"
+    },
+    {
+      "name_ja": "サム ・スレイド",
+      "name_en": "Sam Slade",
+      "slug": "sam-slade-3676",
+      "position": "LO",
+      "team": "狭山セコムラガッツ（2025-26）",
+      "league": "",
+      "caps": 4,
+      "age": 28,
+      "height": 197,
+      "weight": 116,
+      "caps_display": "Samoa代表 (4 caps)"
+    },
+    {
+      "name_ja": "ヘンリー ・タエフ",
+      "name_en": "Henry Taefu",
+      "slug": "henry-taefu-616",
+      "position": "CTB",
+      "team": "レッドハリケーンズ大阪（2025-26）",
+      "league": "",
+      "caps": 3,
+      "age": 32,
+      "height": 183,
+      "weight": 100,
+      "caps_display": "Samoa代表 (3 caps)"
+    },
+    {
+      "name_ja": "So'otala ・ FA'ASO'O",
+      "name_en": "So'otala FA'ASO'O",
+      "slug": "so-otala-fa-aso-o",
+      "position": "Back row",
+      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
+      "league": "urc",
+      "caps": 1,
+      "age": 31,
+      "height": 196,
+      "weight": 136,
+      "caps_display": "Samoa代表 (1 caps)"
+    },
     {
       "name_ja": "セイララ・ラム",
       "name_en": "Seilala LAM",
@@ -12065,19 +12169,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ヘンリー ・タエフ",
-      "name_en": "Henry Taefu",
-      "slug": "henry-taefu-616",
-      "position": "CTB",
-      "team": "レッドハリケーンズ大阪（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 32,
-      "height": 183,
-      "weight": 100,
-      "caps_display": ""
-    },
-    {
       "name_ja": "トゥムア・マヌ",
       "name_en": "Tumua MANU",
       "slug": "tumua-manu",
@@ -12088,19 +12179,6 @@
       "age": 32,
       "height": 183,
       "weight": 97,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "タレニ ・セウ",
-      "name_en": "Taleni Seu",
-      "slug": "taleni-seu-4021",
-      "position": "FL/No8",
-      "team": "豊田自動織機シャトルズ愛知（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 32,
-      "height": 201,
-      "weight": 119,
       "caps_display": ""
     },
     {
@@ -12117,19 +12195,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "So'otala ・ FA'ASO'O",
-      "name_en": "So'otala FA'ASO'O",
-      "slug": "so-otala-fa-aso-o",
-      "position": "Back row",
-      "team": "Trévise / ベネットン・ラグビー・トレヴィーゾ",
-      "league": "urc",
-      "caps": 0,
-      "age": 31,
-      "height": 196,
-      "weight": 136,
-      "caps_display": ""
-    },
-    {
       "name_ja": "メラニ・マタヴァオ",
       "name_en": "Melani MATAVAO",
       "slug": "melani-matavao",
@@ -12140,45 +12205,6 @@
       "age": 30,
       "height": 171,
       "weight": 80,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Gabe ・ ウィリアムズ",
-      "name_en": "Gabe WILLIAMS",
-      "slug": "gabe-williams",
-      "position": "LO",
-      "team": "Cardiff / カーディフ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 29,
-      "height": 198,
-      "weight": 106,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "グラント ・ ウィリアムズ",
-      "name_en": "Grant WILLIAMS",
-      "slug": "grant-williams",
-      "position": "SH",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 29,
-      "height": 174,
-      "weight": 80,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ジョナサン・タウマテイネ",
-      "name_en": "Jonathan TAUMATEINE",
-      "slug": "jonathan-taumateine",
-      "position": "SH",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 29,
-      "height": 178,
-      "weight": 90,
       "caps_display": ""
     },
     {
@@ -12195,19 +12221,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "エレ-エナリ",
-      "name_en": "Ere ENARI",
-      "slug": "ereatara-enari",
-      "position": "SH",
-      "team": "Hurricanes",
-      "league": "",
-      "caps": 0,
-      "age": 28,
-      "height": 178,
-      "weight": 84,
-      "caps_display": ""
-    },
-    {
       "name_ja": "イアコポ-マプ",
       "name_en": "Iakopo MAPU",
       "slug": "iakopo-petelo-mapu",
@@ -12218,32 +12231,6 @@
       "age": 28,
       "height": 183,
       "weight": 106,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "サム ・スレイド",
-      "name_en": "Sam Slade",
-      "slug": "sam-slade-3676",
-      "position": "LO",
-      "team": "狭山セコムラガッツ（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 28,
-      "height": 197,
-      "weight": 116,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "タマティ ・イオアネ",
-      "name_en": "Tamati Ioane",
-      "slug": "tamati-ioane-4026",
-      "position": "FL/No8",
-      "team": "浦安D-Rocks（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 28,
-      "height": 186,
-      "weight": 120,
       "caps_display": ""
     },
     {
@@ -12301,6 +12288,162 @@
   ],
   "tonga": [
     {
+      "name_ja": "タンギノア・ハライフォヌア",
+      "name_en": "Tanginoa HALAIFONUA",
+      "slug": "tanginoa-halaifonua",
+      "position": "LO",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": 13,
+      "age": 29,
+      "height": 196,
+      "weight": 115,
+      "caps_display": "Tonga代表 (13 caps)"
+    },
+    {
+      "name_ja": "シオネ ・タリトゥイ",
+      "name_en": "Sione Talitui",
+      "slug": "sione-talitui-3864",
+      "position": "FL/No8",
+      "team": "清水建設江東ブルーシャークス（2025-26）",
+      "league": "",
+      "caps": 9,
+      "age": 28,
+      "height": 187,
+      "weight": 110,
+      "caps_display": "Tonga代表 (9 caps)"
+    },
+    {
+      "name_ja": "ウィリー・ハヴィリ",
+      "name_en": "Willy HAVILI",
+      "slug": "willy-havili",
+      "position": "FB",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 9,
+      "age": 27,
+      "height": 187,
+      "weight": 84,
+      "caps_display": "Tonga代表 (9 caps)"
+    },
+    {
+      "name_ja": "Solomone Kata",
+      "name_en": "Solomone Kata",
+      "slug": "solomone-kata-4696",
+      "position": "Centre",
+      "team": "Leicester Tigers / レスター・タイガーズ",
+      "league": "premiership",
+      "caps": 9,
+      "age": null,
+      "height": 0,
+      "weight": 0,
+      "caps_display": "Tonga代表 (9 caps)"
+    },
+    {
+      "name_ja": "船木 頌介",
+      "name_en": "Shosuke Funaki",
+      "slug": "shosuke-funaki-3801",
+      "position": "PR",
+      "team": "日野レッドドルフィンズ（2025-26）",
+      "league": "",
+      "caps": 7,
+      "age": 29,
+      "height": 178,
+      "weight": 109,
+      "caps_display": "Tonga代表 (7 caps)"
+    },
+    {
+      "name_ja": "Fine ・ INISI",
+      "name_en": "Fine INISI",
+      "slug": "fine-inisi",
+      "position": "Winger",
+      "team": "Dragons / ドラゴンズ・ラグビー",
+      "league": "urc",
+      "caps": 7,
+      "age": 27,
+      "height": 187,
+      "weight": 98,
+      "caps_display": "Tonga代表 (7 caps)"
+    },
+    {
+      "name_ja": "ソロモネ ・フナキ",
+      "name_en": "Solomone Funaki",
+      "slug": "solomone-funaki-3883",
+      "position": "FL/No8",
+      "team": "コベルコ神戸スティーラーズ（2025-26）",
+      "league": "league-one",
+      "caps": 7,
+      "age": 23,
+      "height": 186,
+      "weight": 108,
+      "caps_display": "Tonga代表 (7 caps)"
+    },
+    {
+      "name_ja": "オーガスティン-プル",
+      "name_en": "Augustine PULU",
+      "slug": "augustine-pulu",
+      "position": "SH",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 3,
+      "age": 36,
+      "height": 180,
+      "weight": 93,
+      "caps_display": "Tonga代表 (3 caps)"
+    },
+    {
+      "name_ja": "シアテ・トコラヒ",
+      "name_en": "Siate TOKOLAHI",
+      "slug": "siate-tokolahi",
+      "position": "PR",
+      "team": "ポー",
+      "league": "top14",
+      "caps": 3,
+      "age": 34,
+      "height": 184,
+      "weight": 116,
+      "caps_display": "Tonga代表 (3 caps)"
+    },
+    {
+      "name_ja": "セミシ・パエア",
+      "name_en": "Semisi PAEA",
+      "slug": "semisi-paea",
+      "position": "FL/No8",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 3,
+      "age": 26,
+      "height": 194,
+      "weight": 113,
+      "caps_display": "Tonga代表 (3 caps)"
+    },
+    {
+      "name_ja": "パウラ・ラトゥ",
+      "name_en": "Paula LATU",
+      "slug": "paula-latu",
+      "position": "PR",
+      "team": "Moana Pasifika",
+      "league": "",
+      "caps": 1,
+      "age": 30,
+      "height": 187,
+      "weight": 123,
+      "caps_display": "Tonga代表 (1 caps)"
+    },
+    {
+      "name_ja": "PJ ・ラトゥ",
+      "name_en": "PJ Latu",
+      "slug": "pj-latu-3461",
+      "position": "CTB",
+      "team": "リコーブラックラムズ東京（2025-26）",
+      "league": "",
+      "caps": 1,
+      "age": 25,
+      "height": 187,
+      "weight": 104,
+      "caps_display": "Tonga代表 (1 caps)"
+    },
+    {
       "name_ja": "シオネ・カラマフォニ",
       "name_en": "Sione KALAMAFONI",
       "slug": "sione-kalafamoni",
@@ -12311,19 +12454,6 @@
       "age": 37,
       "height": 196,
       "weight": 120,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "オーガスティン-プル",
-      "name_en": "Augustine PULU",
-      "slug": "augustine-pulu",
-      "position": "SH",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 36,
-      "height": 180,
-      "weight": 93,
       "caps_display": ""
     },
     {
@@ -12350,19 +12480,6 @@
       "age": 35,
       "height": 188,
       "weight": 115,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "シアテ・トコラヒ",
-      "name_en": "Siate TOKOLAHI",
-      "slug": "siate-tokolahi",
-      "position": "PR",
-      "team": "ポー",
-      "league": "top14",
-      "caps": 0,
-      "age": 34,
-      "height": 184,
-      "weight": 116,
       "caps_display": ""
     },
     {
@@ -12444,19 +12561,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "パウラ・ラトゥ",
-      "name_en": "Paula LATU",
-      "slug": "paula-latu",
-      "position": "PR",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 30,
-      "height": 187,
-      "weight": 123,
-      "caps_display": ""
-    },
-    {
       "name_ja": "Siua ・ MAILE",
       "name_en": "Siua MAILE",
       "slug": "siua-maile",
@@ -12467,19 +12571,6 @@
       "age": 29,
       "height": 181,
       "weight": 113,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "タンギノア・ハライフォヌア",
-      "name_en": "Tanginoa HALAIFONUA",
-      "slug": "tanginoa-halaifonua",
-      "position": "LO",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": 0,
-      "age": 29,
-      "height": 196,
-      "weight": 115,
       "caps_display": ""
     },
     {
@@ -12496,19 +12587,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "船木 頌介",
-      "name_en": "Shosuke Funaki",
-      "slug": "shosuke-funaki-3801",
-      "position": "PR",
-      "team": "日野レッドドルフィンズ（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 29,
-      "height": 178,
-      "weight": 109,
-      "caps_display": ""
-    },
-    {
       "name_ja": "サミソニ・タウケイアホ",
       "name_en": "Samisoni TAUKEI'AHO",
       "slug": "samisoni-taukei-aho",
@@ -12519,45 +12597,6 @@
       "age": 28,
       "height": 183,
       "weight": 118,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "シオネ ・タリトゥイ",
-      "name_en": "Sione Talitui",
-      "slug": "sione-talitui-3864",
-      "position": "FL/No8",
-      "team": "清水建設江東ブルーシャークス（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 28,
-      "height": 187,
-      "weight": 110,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Fine ・ INISI",
-      "name_en": "Fine INISI",
-      "slug": "fine-inisi",
-      "position": "Winger",
-      "team": "Dragons / ドラゴンズ・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 27,
-      "height": 187,
-      "weight": 98,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ウィリー・ハヴィリ",
-      "name_en": "Willy HAVILI",
-      "slug": "willy-havili",
-      "position": "FB",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 27,
-      "height": 187,
-      "weight": 84,
       "caps_display": ""
     },
     {
@@ -12587,19 +12626,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "セミシ・パエア",
-      "name_en": "Semisi PAEA",
-      "slug": "semisi-paea",
-      "position": "FL/No8",
-      "team": "Moana Pasifika",
-      "league": "",
-      "caps": 0,
-      "age": 26,
-      "height": 194,
-      "weight": 113,
-      "caps_display": ""
-    },
-    {
       "name_ja": "トゥポウ・マアフ＝アフンギア",
       "name_en": "Tupou MA'AFU-AFUNGIA",
       "slug": "tupou-ma-afu-afungia",
@@ -12610,19 +12636,6 @@
       "age": 26,
       "height": 187,
       "weight": 105,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "PJ ・ラトゥ",
-      "name_en": "PJ Latu",
-      "slug": "pj-latu-3461",
-      "position": "CTB",
-      "team": "リコーブラックラムズ東京（2025-26）",
-      "league": "",
-      "caps": 0,
-      "age": 25,
-      "height": 187,
-      "weight": 104,
       "caps_display": ""
     },
     {
@@ -12639,19 +12652,6 @@
       "caps_display": ""
     },
     {
-      "name_ja": "ソロモネ ・フナキ",
-      "name_en": "Solomone Funaki",
-      "slug": "solomone-funaki-3883",
-      "position": "FL/No8",
-      "team": "コベルコ神戸スティーラーズ（2025-26）",
-      "league": "league-one",
-      "caps": 0,
-      "age": 23,
-      "height": 186,
-      "weight": 108,
-      "caps_display": ""
-    },
-    {
       "name_ja": "カイレン・タウモエフォラウ",
       "name_en": "Kyren TAUMOEFOLAU",
       "slug": "kyren-taumoefolau",
@@ -12663,19 +12663,6 @@
       "height": 187,
       "weight": 95,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Solomone Kata",
-      "name_en": "Solomone Kata",
-      "slug": "solomone-kata-4696",
-      "position": "Centre",
-      "team": "Leicester Tigers / レスター・タイガーズ",
-      "league": "premiership",
-      "caps": 0,
-      "age": null,
-      "height": 0,
-      "weight": 0,
-      "caps_display": ""
     }
   ],
   "namibia": [
@@ -12686,37 +12673,11 @@
       "position": "Flanker",
       "team": "Gloucester Rugby / グロスター・ラグビー",
       "league": "premiership",
-      "caps": 0,
+      "caps": 25,
       "age": 29,
       "height": 0,
       "weight": 0,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ル ・ ルー ・ MALAN",
-      "name_en": "Le Roux MALAN",
-      "slug": "le-roux-malan",
-      "position": "CTB",
-      "team": "Sharks / ハリウッドベッツ・シャークス",
-      "league": "urc",
-      "caps": 0,
-      "age": 26,
-      "height": 191,
-      "weight": 100,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "JJ ・ THERON",
-      "name_en": "JJ THERON",
-      "slug": "jj-theron",
-      "position": "Back row",
-      "team": "Bulls / ヴォーダコム・ブルズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 198,
-      "weight": 108,
-      "caps_display": ""
+      "caps_display": "Namibia代表 (25 caps)"
     },
     {
       "name_ja": "C. Powell",
@@ -12725,27 +12686,40 @@
       "position": "Wing",
       "team": "Bristol Bears / ブリストル・ベアーズ",
       "league": "premiership",
-      "caps": 0,
+      "caps": 25,
       "age": null,
       "height": 0,
       "weight": 0,
-      "caps_display": ""
+      "caps_display": "Namibia代表 (25 caps)"
+    },
+    {
+      "name_ja": "JJ ・ THERON",
+      "name_en": "JJ THERON",
+      "slug": "jj-theron",
+      "position": "Back row",
+      "team": "Bulls / ヴォーダコム・ブルズ",
+      "league": "urc",
+      "caps": 3,
+      "age": 21,
+      "height": 198,
+      "weight": 108,
+      "caps_display": "Namibia代表 (3 caps)"
+    },
+    {
+      "name_ja": "ル ・ ルー ・ MALAN",
+      "name_en": "Le Roux MALAN",
+      "slug": "le-roux-malan",
+      "position": "CTB",
+      "team": "Sharks / ハリウッドベッツ・シャークス",
+      "league": "urc",
+      "caps": 2,
+      "age": 26,
+      "height": 191,
+      "weight": 100,
+      "caps_display": "Namibia代表 (2 caps)"
     }
   ],
   "usa": [
-    {
-      "name_ja": "アンドリュー ・ OSBORNE",
-      "name_en": "Andrew OSBORNE",
-      "slug": "andrew-osborne",
-      "position": "Winger",
-      "team": "Leinster / レンスター・ラグビー",
-      "league": "urc",
-      "caps": 0,
-      "age": 22,
-      "height": 188,
-      "weight": 93,
-      "caps_display": ""
-    },
     {
       "name_ja": "AJ MacGinty",
       "name_en": "AJ MacGinty",
@@ -12753,11 +12727,11 @@
       "position": "Fly-half",
       "team": "Bristol Bears / ブリストル・ベアーズ",
       "league": "premiership",
-      "caps": 0,
+      "caps": 24,
       "age": null,
       "height": 0,
       "weight": 0,
-      "caps_display": ""
+      "caps_display": "United States代表 (24 caps)"
     },
     {
       "name_ja": "S. Kelly",
@@ -12766,14 +12740,53 @@
       "position": "Flanker",
       "team": "Sale Sharks / セール・シャークス",
       "league": "premiership",
-      "caps": 0,
+      "caps": 20,
       "age": null,
       "height": 0,
       "weight": 0,
-      "caps_display": ""
+      "caps_display": "United States代表 (20 caps)"
+    },
+    {
+      "name_ja": "アンドリュー ・ OSBORNE",
+      "name_en": "Andrew OSBORNE",
+      "slug": "andrew-osborne",
+      "position": "Winger",
+      "team": "Leinster / レンスター・ラグビー",
+      "league": "urc",
+      "caps": 1,
+      "age": 22,
+      "height": 188,
+      "weight": 93,
+      "caps_display": "United States代表 (1 caps)"
     }
   ],
   "canada": [
+    {
+      "name_ja": "Jac ・ PRITCHARD",
+      "name_en": "Jac PRITCHARD",
+      "slug": "jac-pritchard",
+      "position": "PR",
+      "team": "Scarlets / スカーレッツ",
+      "league": "urc",
+      "caps": 61,
+      "age": 20,
+      "height": 178,
+      "weight": 120,
+      "caps_display": "Canada代表 (61 caps)"
+    },
+    {
+      "name_ja": "Seb ・ STEPHEN",
+      "name_en": "Seb STEPHEN",
+      "slug": "seb-stephen",
+      "position": "HO",
+      "team": "Glasgow / グラスゴー・ウォリアーズ",
+      "league": "urc",
+      "caps": 8,
+      "age": 21,
+      "height": 189,
+      "weight": 113,
+      "caps_display": "Canada代表 (8 caps)"
+    },
     {
       "name_ja": "タイラー・アードロン",
       "name_en": "Tyler ARDRON",
@@ -12812,32 +12825,6 @@
       "height": 200,
       "weight": 124,
       "caps_display": ""
-    },
-    {
-      "name_ja": "Seb ・ STEPHEN",
-      "name_en": "Seb STEPHEN",
-      "slug": "seb-stephen",
-      "position": "HO",
-      "team": "Glasgow / グラスゴー・ウォリアーズ",
-      "league": "urc",
-      "caps": 0,
-      "age": 21,
-      "height": 189,
-      "weight": 113,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "Jac ・ PRITCHARD",
-      "name_en": "Jac PRITCHARD",
-      "slug": "jac-pritchard",
-      "position": "PR",
-      "team": "Scarlets / スカーレッツ",
-      "league": "urc",
-      "caps": 0,
-      "age": 20,
-      "height": 178,
-      "weight": 120,
-      "caps_display": ""
     }
   ],
   "uruguay": [
@@ -12857,6 +12844,19 @@
   ],
   "chile": [
     {
+      "name_ja": "ディエゴ-エスコバル",
+      "name_en": "Diego ESCOBAR",
+      "slug": "diego-escobar",
+      "position": "HO",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": 5,
+      "age": 25,
+      "height": 176,
+      "weight": 103,
+      "caps_display": "Chile代表 (5 caps)"
+    },
+    {
       "name_ja": "イニャキ-アヤルサ",
       "name_en": "Iñaki AYARZA",
       "slug": "inaki-ayarza",
@@ -12867,19 +12867,6 @@
       "age": 26,
       "height": 186,
       "weight": 102,
-      "caps_display": ""
-    },
-    {
-      "name_ja": "ディエゴ-エスコバル",
-      "name_en": "Diego ESCOBAR",
-      "slug": "diego-escobar",
-      "position": "HO",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": 0,
-      "age": 25,
-      "height": 176,
-      "weight": 103,
       "caps_display": ""
     }
   ],
@@ -12948,11 +12935,11 @@
       "position": "LO",
       "team": "Bulls / ヴォーダコム・ブルズ",
       "league": "urc",
-      "caps": 0,
+      "caps": 1,
       "age": 22,
       "height": 200,
       "weight": 122,
-      "caps_display": ""
+      "caps_display": "Romania代表 (1 caps)"
     }
   ]
 }

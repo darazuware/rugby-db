@@ -39,11 +39,9 @@ def parse_caps(caps_str):
     if not caps_str: return 0
     s_val = str(caps_str).strip()
     
-    # 英語併用（例: Japan代表 (57 caps)）は異常データとして無視する二重ガード
-    if 'caps' in s_val.lower() or 'Japan' in s_val:
-        # ただし "日本代表(51)" のような正規形式は通したい
-        if not re.search(r'[ぁ-んァ-ヶー一-龠]+代表', s_val):
-            return 0
+    # 「Japan代表 (13 caps)」のような誤解析データ(all.rugby由来)を日本代表の判定から除外
+    if ('caps' in s_val.lower() or 'Japan' in s_val) and '日本代表' in s_val:
+        return 0
 
     match = re.search(r'\((\d+)\s*caps\)', s_val)
     if match: return int(match.group(1))
@@ -162,7 +160,7 @@ def main():
                  caps_raw = 15
             
             # 除外選手
-            if 'Cameron MILLAR' in player_name_raw or '遠藤 孝一' in player_name_raw or '遠藤孝一' in player_name_raw or 'Koichi Endo' in player_name_raw:
+            if 'Cameron MILLAR' in player_name_raw or '遠藤 孝一' in player_name_raw or '遠藤孝一' in player_name_raw or 'Koichi Endo' in player_name_raw or 'Ayuki Yamada' in player_name_raw or '山田 歩季' in player_name_raw or '山田歩季' in player_name_raw:
                 continue
 
             if not target_id:
