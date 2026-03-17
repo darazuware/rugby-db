@@ -5,8 +5,8 @@ position: "Fly-half"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1996-07-25"
+age: 29
 high_school: ""
 university: ""
 caps: "Call-ups代表 (8 caps)"

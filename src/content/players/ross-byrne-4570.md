@@ -5,8 +5,8 @@ position: "Fly-half"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1995-04-08"
+age: 30
 high_school: ""
 university: ""
 caps: "Ireland代表 (21 caps)"

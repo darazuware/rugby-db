@@ -9,7 +9,7 @@ birth_date: "1996.09.02"
 age: 29
 high_school: ""
 university: ""
-caps: "Uruguay代表 (45 caps)"
+caps: "Uruguay"
 league_one_caps: "0"
 country: "Uruguay"
 nationality: "Uruguay"

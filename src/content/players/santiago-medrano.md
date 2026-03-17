@@ -9,7 +9,7 @@ birth_date: "1996.05.06"
 age: 29
 high_school: ""
 university: ""
-caps: "Argentina代表 (14 caps)"
+caps: "Argentina"
 league_one_caps: "0"
 country: "Argentina"
 nationality: "Argentine"

@@ -5,8 +5,8 @@ position: "Flanker"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2001.02.21"
+age: 25
 high_school: ""
 university: ""
 caps: ""

@@ -5,8 +5,8 @@ position: "Fullback"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2004-10-19"
+age: 21
 high_school: ""
 university: ""
 caps: "Wales代表 (2 caps)"

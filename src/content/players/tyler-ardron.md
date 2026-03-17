@@ -9,7 +9,7 @@ birth_date: "1991.06.16"
 age: 34
 high_school: ""
 university: ""
-caps: "Canada代表 (34 caps)"
+caps: "Canada"
 league_one_caps: "0"
 country: "Canada"
 nationality: "Canadien"

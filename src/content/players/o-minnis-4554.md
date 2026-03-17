@@ -5,7 +5,7 @@ position: "Prop"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "18/03/2003"
 age: null
 high_school: ""
 university: ""

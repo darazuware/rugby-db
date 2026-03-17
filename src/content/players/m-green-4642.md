@@ -5,8 +5,8 @@ position: "Scrum-half"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1996-02-13"
+age: 30
 high_school: ""
 university: ""
 caps: ""

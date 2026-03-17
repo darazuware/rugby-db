@@ -5,7 +5,7 @@ position: "Fullback"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "10/12/1999"
 age: null
 high_school: ""
 university: ""

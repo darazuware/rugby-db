@@ -9,7 +9,7 @@ birth_date: "1990.11.05"
 age: 35
 high_school: ""
 university: ""
-caps: "Tonga代表 (5 caps)"
+caps: "Tonga"
 league_one_caps: "0"
 country: "Tonga"
 nationality: ""

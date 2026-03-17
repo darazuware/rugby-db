@@ -5,8 +5,8 @@ position: "Centre"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1995.12.02"
+age: 30
 high_school: ""
 university: ""
 caps: ""

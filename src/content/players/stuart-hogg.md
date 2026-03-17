@@ -9,7 +9,7 @@ birth_date: "1992.06.24"
 age: 33
 high_school: ""
 university: ""
-caps: "Scotland代表 (69 caps)"
+caps: "Scotland"
 league_one_caps: "0"
 country: "Scotland"
 nationality: "Voir"

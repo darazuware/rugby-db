@@ -6,7 +6,7 @@ team: "ルリーロ福岡"
 height: "172.0"
 weight: "80.0"
 birth_date: "2003.03.17"
-age: 22
+age: 23
 high_school: "御所実業高校"
 university: "九州共立大学"
 caps: ""

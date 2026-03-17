@@ -5,7 +5,7 @@ position: "Hooker"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "11/12/1992"
 age: null
 high_school: ""
 university: ""

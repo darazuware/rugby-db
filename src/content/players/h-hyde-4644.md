@@ -5,8 +5,8 @@ position: "Centre"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2000-09-15"
+age: 25
 high_school: ""
 university: ""
 caps: ""

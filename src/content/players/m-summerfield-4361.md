@@ -5,7 +5,7 @@ position: "Prop"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "30/10/2002"
 age: null
 high_school: ""
 university: ""

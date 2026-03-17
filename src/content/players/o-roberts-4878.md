@@ -5,8 +5,8 @@ position: "Centre"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2005.."
+age: 21
 high_school: ""
 university: ""
 caps: ""

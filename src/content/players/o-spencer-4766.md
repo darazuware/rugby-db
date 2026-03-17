@@ -5,7 +5,7 @@ position: "Centre"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "22/02/2004"
 age: null
 high_school: ""
 university: ""

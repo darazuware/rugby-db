@@ -5,8 +5,8 @@ position: "Lock"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2003-07-10"
+age: 22
 high_school: ""
 university: ""
 caps: ""

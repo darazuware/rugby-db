@@ -9,7 +9,7 @@ birth_date: "1995.06.13"
 age: 30
 high_school: ""
 university: ""
-caps: "New Zealand代表 (9 caps)"
+caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: "Néo"

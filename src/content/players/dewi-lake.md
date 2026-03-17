@@ -9,7 +9,7 @@ birth_date: "1999.05.16"
 age: 26
 high_school: ""
 university: ""
-caps: "Call-ups代表 (18 caps) Wales代表 (9 caps)"
+caps: "Call-ups代表 (18 caps)"
 league_one_caps: "0"
 country: "Call-ups"
 nationality: ""

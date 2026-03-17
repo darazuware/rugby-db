@@ -9,7 +9,7 @@ birth_date: "2003.06.19"
 age: 22
 high_school: ""
 university: ""
-caps: "France代表 (14 caps) Player representation by nation代表 (0 caps)"
+caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""

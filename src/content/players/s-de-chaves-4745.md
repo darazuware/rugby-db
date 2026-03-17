@@ -5,7 +5,7 @@ position: "Lock"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "30/10/1990"
 age: null
 high_school: ""
 university: ""

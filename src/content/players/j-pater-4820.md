@@ -5,8 +5,8 @@ position: "Fullback"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2007-XX-XX"
+age: 19
 high_school: ""
 university: ""
 caps: ""

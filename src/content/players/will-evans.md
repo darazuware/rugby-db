@@ -5,8 +5,8 @@ position: "LO"
 team: "スカーレッツ"
 height: "198.0"
 weight: "117.0"
-birth_date: ""
-age: null
+birth_date: "1997-01-28"
+age: 29
 high_school: ""
 university: ""
 caps: ""

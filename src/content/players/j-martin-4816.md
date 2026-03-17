@@ -5,8 +5,8 @@ position: "Wing"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1999-07-31"
+age: 26
 high_school: ""
 university: ""
 caps: ""

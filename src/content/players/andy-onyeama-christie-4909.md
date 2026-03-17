@@ -5,7 +5,7 @@ position: "Flanker"
 team: "サラセンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "22/03/1999"
 age: null
 high_school: ""
 university: ""

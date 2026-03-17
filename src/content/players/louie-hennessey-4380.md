@@ -5,8 +5,8 @@ position: "Centre"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2004-03-29"
+age: 21
 high_school: ""
 university: ""
 caps: ""

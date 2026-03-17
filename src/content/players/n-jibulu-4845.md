@@ -5,7 +5,7 @@ position: "Hooker"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "26/01/2003"
 age: null
 high_school: ""
 university: ""

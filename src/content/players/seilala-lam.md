@@ -9,7 +9,7 @@ birth_date: "1989.02.18"
 age: 37
 high_school: ""
 university: ""
-caps: "Samoa代表 (23 caps)"
+caps: "Samoa"
 league_one_caps: "0"
 country: "Samoa"
 nationality: ""

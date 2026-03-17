@@ -5,8 +5,8 @@ position: "Scrum-half"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1995.05.24"
+age: 30
 high_school: ""
 university: ""
 caps: ""

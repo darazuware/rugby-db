@@ -5,8 +5,8 @@ position: "Prop"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1999.07.20"
+age: 26
 high_school: ""
 university: ""
 caps: ""

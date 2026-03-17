@@ -6,7 +6,7 @@ team: "クレルモン"
 height: "190.0"
 weight: "110.0"
 birth_date: "1995.03.17"
-age: 30
+age: 31
 high_school: ""
 university: ""
 caps: ""

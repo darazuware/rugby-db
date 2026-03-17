@@ -5,7 +5,7 @@ position: "Prop"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "13/09/2001"
 age: null
 high_school: ""
 university: ""

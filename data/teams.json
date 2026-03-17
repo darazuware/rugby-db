@@ -425,5 +425,65 @@
     "team_en_name": "RC Vannes",
     "slug": "vannes",
     "league": "top14"
+  },
+  {
+    "team_name": "バース・ラグビー",
+    "team_en_name": "Bath Rugby",
+    "slug": "bath-rugby",
+    "league": "premiership"
+  },
+  {
+    "team_name": "ブリストル・ベアーズ",
+    "team_en_name": "Bristol Bears",
+    "slug": "bristol-bears",
+    "league": "premiership"
+  },
+  {
+    "team_name": "エクセター・チーフス",
+    "team_en_name": "Exeter Chiefs",
+    "slug": "exeter-chiefs",
+    "league": "premiership"
+  },
+  {
+    "team_name": "グロスター・ラグビー",
+    "team_en_name": "Gloucester Rugby",
+    "slug": "gloucester-rugby",
+    "league": "premiership"
+  },
+  {
+    "team_name": "ハリクインズ",
+    "team_en_name": "Harlequins",
+    "slug": "harlequins",
+    "league": "premiership"
+  },
+  {
+    "team_name": "レスター・タイガーズ",
+    "team_en_name": "Leicester Tigers",
+    "slug": "leicester-tigers",
+    "league": "premiership"
+  },
+  {
+    "team_name": "ニューカッスル・ファルコンズ",
+    "team_en_name": "Newcastle Falcons",
+    "slug": "newcastle-falcons",
+    "league": "premiership"
+  },
+  {
+    "team_name": "ノーサンプトン・セインツ",
+    "team_en_name": "Northampton Saints",
+    "slug": "northampton-saints",
+    "league": "premiership"
+  },
+  {
+    "team_name": "セール・シャークス",
+    "team_en_name": "Sale Sharks",
+    "slug": "sale-sharks",
+    "league": "premiership"
+  },
+  {
+    "team_name": "サラセンズ",
+    "team_en_name": "Saracens",
+    "slug": "saracens",
+    "league": "premiership"
   }
 ]

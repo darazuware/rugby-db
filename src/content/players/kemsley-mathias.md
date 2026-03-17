@@ -9,7 +9,7 @@ birth_date: "1999.07.29"
 age: 26
 high_school: ""
 university: ""
-caps: "Wales代表 (5 caps)"
+caps: "Wales"
 league_one_caps: "0"
 country: "Wales"
 nationality: ""

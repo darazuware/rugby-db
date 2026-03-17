@@ -6,10 +6,10 @@ team: "ラシン92"
 height: "185.0"
 weight: "125.0"
 birth_date: "1998.03.17"
-age: 27
+age: 28
 high_school: ""
 university: ""
-caps: "France代表 (6 caps)"
+caps: "France"
 league_one_caps: "0"
 country: "France"
 nationality: ""

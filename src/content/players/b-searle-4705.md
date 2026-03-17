@@ -5,7 +5,7 @@ position: "Fly-half"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "01/07/1998"
 age: null
 high_school: ""
 university: ""

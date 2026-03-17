@@ -5,8 +5,8 @@ position: "Wing"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1998-11-04"
+age: 27
 high_school: ""
 university: ""
 caps: ""

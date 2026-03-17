@@ -5,7 +5,7 @@ position: "Lock"
 team: "サラセンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "28/10/1994"
 age: null
 high_school: ""
 university: ""

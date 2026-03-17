@@ -9,7 +9,7 @@ birth_date: "2000.03.20"
 age: 25
 high_school: ""
 university: ""
-caps: "Fiji代表 (4 caps) Player representation by nation代表 (0 caps)"
+caps: "Fiji代表 (4 caps)"
 league_one_caps: "0"
 country: "Fiji"
 nationality: ""

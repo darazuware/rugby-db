@@ -5,7 +5,7 @@ position: "Hooker"
 team: "エクセター・チーフス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "22/12/1989"
 age: null
 high_school: ""
 university: ""

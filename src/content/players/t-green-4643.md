@@ -5,8 +5,8 @@ position: "Fullback"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1998-03-05"
+age: 28
 high_school: ""
 university: ""
 caps: ""

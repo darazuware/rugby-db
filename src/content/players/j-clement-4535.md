@@ -5,8 +5,8 @@ position: "Flanker"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2001-02-27"
+age: 25
 high_school: ""
 university: ""
 caps: ""

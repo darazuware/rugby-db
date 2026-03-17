@@ -5,8 +5,8 @@ position: "Flanker"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2006-07-21"
+age: 19
 high_school: ""
 university: ""
 caps: ""

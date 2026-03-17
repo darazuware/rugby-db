@@ -5,7 +5,7 @@ position: "Lock"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "16/03/2004"
 age: null
 high_school: ""
 university: ""

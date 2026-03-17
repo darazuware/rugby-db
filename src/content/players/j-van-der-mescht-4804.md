@@ -5,8 +5,8 @@ position: "Lock"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1999-04-05"
+age: 26
 high_school: ""
 university: ""
 caps: ""

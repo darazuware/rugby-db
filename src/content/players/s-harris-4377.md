@@ -5,7 +5,7 @@ position: "Fly-half"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "03/09/2003"
 age: null
 high_school: ""
 university: ""

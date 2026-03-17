@@ -9,7 +9,7 @@ birth_date: "2006.."
 age: 20
 high_school: ""
 university: ""
-caps: "Wales代表 (2 caps)"
+caps: "Wales代表 (70 caps)"
 league_one_caps: "0"
 country: "Wales"
 nationality: ""

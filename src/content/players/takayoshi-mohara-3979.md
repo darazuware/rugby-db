@@ -6,7 +6,7 @@ team: "静岡ブルーレヴズ"
 height: "187.0"
 weight: "118.0"
 birth_date: "2000.03.17"
-age: 25
+age: 26
 high_school: "高崎工業高校"
 university: "中央大学"
 caps: "日本代表(6)"

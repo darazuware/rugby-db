@@ -5,7 +5,7 @@ position: "Hooker"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "03/04/2000"
 age: null
 high_school: ""
 university: ""

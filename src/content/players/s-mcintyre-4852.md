@@ -5,7 +5,7 @@ position: "Prop"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "19/03/1991"
 age: null
 high_school: ""
 university: ""

@@ -5,7 +5,7 @@ position: "Lock"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "16/08/2001"
 age: null
 high_school: ""
 university: ""

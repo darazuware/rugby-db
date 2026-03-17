@@ -5,8 +5,8 @@ position: "Flanker"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2003-03-18"
+age: 22
 high_school: ""
 university: ""
 caps: "England代表 (11 caps)"

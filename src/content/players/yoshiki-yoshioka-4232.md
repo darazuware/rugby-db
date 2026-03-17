@@ -6,7 +6,7 @@ team: "三菱重工相模原ダイナボアーズ"
 height: "167.0"
 weight: "73.0"
 birth_date: "2001.03.17"
-age: 24
+age: 25
 high_school: "興国高校"
 university: "東洋大学"
 caps: ""

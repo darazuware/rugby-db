@@ -5,7 +5,7 @@ position: "Prop"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "11/09/2002"
 age: null
 high_school: ""
 university: ""

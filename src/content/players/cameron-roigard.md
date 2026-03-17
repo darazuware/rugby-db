@@ -9,7 +9,7 @@ birth_date: "2000.11.16"
 age: 25
 high_school: ""
 university: ""
-caps: "New Zealand代表 (2 caps) Player representation by nation代表 (0 caps)"
+caps: "New Zealand"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""

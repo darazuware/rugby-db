@@ -6,7 +6,7 @@ team: "トゥールーズ"
 height: "190.0"
 weight: "99.0"
 birth_date: "1999.03.17"
-age: 26
+age: 27
 high_school: ""
 university: ""
 caps: ""

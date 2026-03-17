@@ -5,8 +5,8 @@ position: "Fly-half"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2000-11-07"
+age: 25
 high_school: ""
 university: ""
 caps: ""

@@ -5,8 +5,8 @@ position: "Centre"
 team: "ハリクインズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2001-11-20"
+age: 24
 high_school: ""
 university: ""
 caps: "England代表 (0 caps)"

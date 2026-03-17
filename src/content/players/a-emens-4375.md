@@ -5,7 +5,7 @@ position: "Wing"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "09/02/2002"
 age: null
 high_school: ""
 university: ""

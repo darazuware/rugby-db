@@ -9,7 +9,7 @@ birth_date: "1993.06.12"
 age: 32
 high_school: ""
 university: ""
-caps: "Ireland代表 (82 caps) Player representation by league代表 (0 caps)"
+caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
 nationality: ""

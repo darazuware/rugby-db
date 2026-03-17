@@ -5,8 +5,8 @@ position: "Scrum-half"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1993-10-12"
+age: 32
 high_school: ""
 university: ""
 caps: ""

@@ -9,7 +9,7 @@ birth_date: "1999.07.13"
 age: 26
 high_school: ""
 university: ""
-caps: "New Zealand代表 (1 caps) Squad caps代表 (1524 caps)"
+caps: "New Zealand代表 (1 caps)"
 league_one_caps: "0"
 country: "New Zealand"
 nationality: ""

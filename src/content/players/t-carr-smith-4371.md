@@ -5,7 +5,7 @@ position: "Scrum-half"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "28/02/2002"
 age: null
 high_school: ""
 university: ""

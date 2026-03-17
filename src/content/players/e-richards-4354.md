@@ -5,7 +5,7 @@ position: "Flanker"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "04/05/2002"
 age: null
 high_school: ""
 university: ""

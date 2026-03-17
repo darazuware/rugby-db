@@ -5,7 +5,7 @@ position: "Flanker"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "01/12/2001"
 age: null
 high_school: ""
 university: ""

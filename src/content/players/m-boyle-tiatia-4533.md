@@ -5,8 +5,8 @@ position: "Hooker"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1999-11-24"
+age: 26
 high_school: ""
 university: ""
 caps: ""

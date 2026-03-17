@@ -6,7 +6,7 @@ team: "東京サントリーサンゴリアス"
 height: "177.0"
 weight: "100.0"
 birth_date: "2000.03.17"
-age: 25
+age: 26
 high_school: "慶應義塾高校"
 university: "慶應義塾大学"
 caps: "高校('17)、U20('18,'19)、U23('19)、日本代表(1)"

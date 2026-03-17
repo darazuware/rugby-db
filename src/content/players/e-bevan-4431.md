@@ -5,7 +5,7 @@ position: "Scrum-half"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "03/10/2000"
 age: null
 high_school: ""
 university: ""

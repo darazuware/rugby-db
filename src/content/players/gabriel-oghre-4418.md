@@ -5,7 +5,7 @@ position: "Hooker"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "24/05/1998"
 age: null
 high_school: ""
 university: ""

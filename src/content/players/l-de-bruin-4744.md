@@ -5,7 +5,7 @@ position: "Prop"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "13/02/1993"
 age: null
 high_school: ""
 university: ""

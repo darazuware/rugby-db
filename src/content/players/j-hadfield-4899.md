@@ -5,7 +5,7 @@ position: "Hooker"
 team: "サラセンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "27/11/1997"
 age: null
 high_school: ""
 university: ""

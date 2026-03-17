@@ -166,11 +166,14 @@ const groupByRound = (leagueId: string, results: any[]) => {
 
 const getLeagueResults = (league: any) => {
     let results = [];
-    // Astro/Vite の JSON インポートの差異を吸収
+    // Astro's JSON import can be directly the object or have a .default property depending on environment
     const data = (resultsData as any).default || resultsData;
     
+    const leagueKey = league.id === 'premiership' ? 'premiership' : 
+                     (league.id.startsWith('league-one') ? 'league-one' : league.id);
+    
     if (league.parentId === "league-one") {
-        const targetDiv = (league.division || "").toUpperCase().trim(); // "D1", "D2", "D3"
+        const targetDiv = (league.division || "").toUpperCase().trim();
         results = (data as any)["league-one"]?.filter((r: any) => {
             const rDiv = (r.division || "").toUpperCase().trim();
             return rDiv === targetDiv || 
@@ -179,11 +182,17 @@ const getLeagueResults = (league: any) => {
                    rDiv.includes(targetDiv) || targetDiv.includes(rDiv);
         }) || [];
     } else {
-        results = (data as any)[league.id] || [];
+        results = (data as any)[leagueKey] || [];
     }
-    return groupByRound(league.id, results);
+    return groupByRound(leagueKey, results);
 };
-const initialLeague = Astro.url.searchParams.get('league') || 'league-one-d1';
+
+// URLパラメータから初期表示リーグを取得（デフォルトは D1）
+const urlLeague = Astro.url.searchParams.get('league');
+let initialLeague = urlLeague || 'league-one-d1';
+
+// 互換性のため 'league-one' が指定された場合は 'league-one-d1' にリダイレクト的扱い
+if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
 ---
 
 <Layout 
@@ -482,7 +491,7 @@ const initialLeague = Astro.url.searchParams.get('league') || 'league-one-d1';
 
             <div class="mt-20 text-center">
                 <p class="text-foreground/30 text-sm italic">
-                    ※データは2026年3月12日現在のものです。
+                    ※データは2026年3月17日現在のものです。
                 </p>
             </div>
     </main>

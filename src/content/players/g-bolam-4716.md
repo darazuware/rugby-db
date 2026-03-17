@@ -5,8 +5,8 @@ position: "Flanker"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1996.11.16"
+age: 29
 high_school: ""
 university: ""
 caps: ""

@@ -5,8 +5,8 @@ position: "Wing"
 team: "サラセンズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2004.."
+age: 22
 high_school: ""
 university: ""
 caps: ""

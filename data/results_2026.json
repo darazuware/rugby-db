@@ -5819,5 +5819,547 @@
       "away_flag": "🏴",
       "detail_url": "https://www.unitedrugby.com/match-centre/202501/287998"
     }
+  ],
+  "premiership": [
+    {
+      "round": 1,
+      "date": "2025-09-26",
+      "home": "セール・シャークス",
+      "away": "グロスター・ラグビー",
+      "score": "27-10",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288927"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "サラセンズ",
+      "score": "17-39",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288929"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-27",
+      "home": "ハリクインズ",
+      "away": "バース・ラグビー",
+      "score": "31-47",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288928"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-28",
+      "home": "ノーサンプトン・セインツ",
+      "away": "エクセター・チーフス",
+      "score": "33-33",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288930"
+    },
+    {
+      "round": 1,
+      "date": "2025-09-28",
+      "home": "ブリストル・ベアーズ",
+      "away": "レスター・タイガーズ",
+      "score": "42-24",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288931"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "バース・ラグビー",
+      "away": "セール・シャークス",
+      "score": "28-16",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288932"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "エクセター・チーフス",
+      "away": "ニューカッスル・ファルコンズ",
+      "score": "38-15",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288933"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-04",
+      "home": "レスター・タイガーズ",
+      "away": "ハリクインズ",
+      "score": "29-19",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288934"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-05",
+      "home": "サラセンズ",
+      "away": "ブリストル・ベアーズ",
+      "score": "50-17",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288935"
+    },
+    {
+      "round": 2,
+      "date": "2025-10-05",
+      "home": "グロスター・ラグビー",
+      "away": "ノーサンプトン・セインツ",
+      "score": "35-37",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288936"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "セール・シャークス",
+      "away": "ニューカッスル・ファルコンズ",
+      "score": "57-5",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288937"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "ブリストル・ベアーズ",
+      "away": "エクセター・チーフス",
+      "score": "18-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288938"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-11",
+      "home": "ノーサンプトン・セインツ",
+      "away": "レスター・タイガーズ",
+      "score": "32-26",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288939"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-12",
+      "home": "バース・ラグビー",
+      "away": "グロスター・ラグビー",
+      "score": "38-17",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288940"
+    },
+    {
+      "round": 3,
+      "date": "2025-10-12",
+      "home": "ハリクインズ",
+      "away": "サラセンズ",
+      "score": "20-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288941"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "グロスター・ラグビー",
+      "away": "ブリストル・ベアーズ",
+      "score": "34-49",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288942"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "ノーサンプトン・セインツ",
+      "score": "19-36",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288943"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-18",
+      "home": "レスター・タイガーズ",
+      "away": "バース・ラグビー",
+      "score": "22-20",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288944"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-19",
+      "home": "サラセンズ",
+      "away": "セール・シャークス",
+      "score": "65-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288945"
+    },
+    {
+      "round": 4,
+      "date": "2025-10-19",
+      "home": "エクセター・チーフス",
+      "away": "ハリクインズ",
+      "score": "38-0",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288946"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "ノーサンプトン・セインツ",
+      "away": "サラセンズ",
+      "score": "43-31",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288947"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "エクセター・チーフス",
+      "away": "グロスター・ラグビー",
+      "score": "39-12",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288948"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "ハリクインズ",
+      "away": "ニューカッスル・ファルコンズ",
+      "score": "52-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288949"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-25",
+      "home": "バース・ラグビー",
+      "away": "ブリストル・ベアーズ",
+      "score": "40-15",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288950"
+    },
+    {
+      "round": 5,
+      "date": "2025-10-26",
+      "home": "レスター・タイガーズ",
+      "away": "セール・シャークス",
+      "score": "36-35",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288951"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "セール・シャークス",
+      "away": "エクセター・チーフス",
+      "score": "26-27",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288952"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-29",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "レスター・タイガーズ",
+      "score": "17-39",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288953"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-30",
+      "home": "グロスター・ラグビー",
+      "away": "ハリクインズ",
+      "score": "26-15",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288954"
+    },
+    {
+      "round": 6,
+      "date": "2025-11-30",
+      "home": "ブリストル・ベアーズ",
+      "away": "ノーサンプトン・セインツ",
+      "score": "46-12",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288955"
+    },
+    {
+      "round": 6,
+      "date": "2025-12-01",
+      "home": "サラセンズ",
+      "away": "バース・ラグビー",
+      "score": "29-36",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288956"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-20",
+      "home": "レスター・タイガーズ",
+      "away": "グロスター・ラグビー",
+      "score": "45-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288957"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-21",
+      "home": "サラセンズ",
+      "away": "エクセター・チーフス",
+      "score": "24-30",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288958"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-21",
+      "home": "ノーサンプトン・セインツ",
+      "away": "セール・シャークス",
+      "score": "47-21",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288959"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-21",
+      "home": "ハリクインズ",
+      "away": "ブリストル・ベアーズ",
+      "score": "14-40",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288960"
+    },
+    {
+      "round": 7,
+      "date": "2025-12-22",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "バース・ラグビー",
+      "score": "14-50",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288961"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-27",
+      "home": "セール・シャークス",
+      "away": "ハリクインズ",
+      "score": "43-17",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288962"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-28",
+      "home": "ブリストル・ベアーズ",
+      "away": "ニューカッスル・ファルコンズ",
+      "score": "36-27",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288963"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-28",
+      "home": "グロスター・ラグビー",
+      "away": "サラセンズ",
+      "score": "21-30",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288964"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-28",
+      "home": "バース・ラグビー",
+      "away": "ノーサンプトン・セインツ",
+      "score": "21-41",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288965"
+    },
+    {
+      "round": 8,
+      "date": "2025-12-29",
+      "home": "エクセター・チーフス",
+      "away": "レスター・タイガーズ",
+      "score": "24-10",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288966"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "グロスター・ラグビー",
+      "score": "25-19",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288967"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-03",
+      "home": "ブリストル・ベアーズ",
+      "away": "セール・シャークス",
+      "score": "19-17",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288968"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-04",
+      "home": "バース・ラグビー",
+      "away": "エクセター・チーフス",
+      "score": "33-26",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288969"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-04",
+      "home": "ノーサンプトン・セインツ",
+      "away": "ハリクインズ",
+      "score": "66-21",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288970"
+    },
+    {
+      "round": 9,
+      "date": "2026-01-05",
+      "home": "レスター・タイガーズ",
+      "away": "サラセンズ",
+      "score": "36-28",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288971"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-24",
+      "home": "グロスター・ラグビー",
+      "away": "バース・ラグビー",
+      "score": "26-30",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288972"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-25",
+      "home": "エクセター・チーフス",
+      "away": "ブリストル・ベアーズ",
+      "score": "3-8",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288973"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-25",
+      "home": "サラセンズ",
+      "away": "ニューカッスル・ファルコンズ",
+      "score": "73-14",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288974"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-25",
+      "home": "ハリクインズ",
+      "away": "レスター・タイガーズ",
+      "score": "7-34",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288975"
+    },
+    {
+      "round": 10,
+      "date": "2026-01-25",
+      "home": "セール・シャークス",
+      "away": "ノーサンプトン・セインツ",
+      "score": "29-43",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288976"
+    },
+    {
+      "round": 11,
+      "date": "2026-03-21",
+      "home": "バース・ラグビー",
+      "away": "サラセンズ",
+      "score": "VS",
+      "home_flag": "🏴󠁧��󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288977"
+    },
+    {
+      "round": 12,
+      "date": "2026-03-28",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "エクセター・チーフス",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮��󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288982"
+    },
+    {
+      "round": 13,
+      "date": "2026-04-18",
+      "home": "ブリストル・ベアーズ",
+      "away": "グロスター・ラグビー",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288987"
+    },
+    {
+      "round": 14,
+      "date": "2026-04-25",
+      "home": "ニューカッスル・ファルコンズ",
+      "away": "ブリストル・ベアーズ",
+      "score": "VS",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detail_url": "https://www.premiershiprugby.com/match-centre/288992"
+    }
   ]
 }

@@ -5,7 +5,7 @@ position: "Flanker"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "08/05/1995"
 age: null
 high_school: ""
 university: ""

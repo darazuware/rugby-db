@@ -6,7 +6,7 @@ team: "コベルコ神戸スティーラーズ"
 height: "195.0"
 weight: "120.0"
 birth_date: "1998.03.17"
-age: 27
+age: 28
 high_school: "ラトゥ・サーララ・スクナメモリアルスクール"
 university: "東海大学"
 caps: "日本代表(5)"

@@ -5,7 +5,7 @@ position: "Prop"
 team: "サラセンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "02/08/1998"
 age: null
 high_school: ""
 university: ""

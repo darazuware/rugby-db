@@ -5,8 +5,8 @@ position: "Scrum-half"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2000-11-30"
+age: 25
 high_school: ""
 university: ""
 caps: ""

@@ -5,8 +5,8 @@ position: "Hooker"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2004-XX-XX"
+age: 22
 high_school: ""
 university: ""
 caps: ""

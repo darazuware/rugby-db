@@ -5,8 +5,8 @@ position: "Prop"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1992-08-07"
+age: 33
 high_school: ""
 university: ""
 caps: ""

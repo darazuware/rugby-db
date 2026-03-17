@@ -9,7 +9,7 @@ birth_date: "1989.06.01"
 age: 36
 high_school: ""
 university: ""
-caps: "Australia代表 (16 caps)"
+caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
 nationality: "Australienne"

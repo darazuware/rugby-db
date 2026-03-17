@@ -5,7 +5,7 @@ position: "Flanker"
 team: "エクセター・チーフス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "07/09/2003"
 age: null
 high_school: ""
 university: ""

@@ -9,7 +9,7 @@ birth_date: ""
 age: null
 high_school: ""
 university: ""
-caps: "England代表 (70 caps) Squad caps代表 (784 caps)"
+caps: "England代表 (70 caps)"
 league_one_caps: "0"
 country: "England"
 nationality: ""

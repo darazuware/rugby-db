@@ -5,7 +5,7 @@ position: "Lock"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "19/09/1997"
 age: null
 high_school: ""
 university: ""

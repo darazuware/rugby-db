@@ -9,7 +9,7 @@ birth_date: "//2004"
 age: null
 high_school: ""
 university: ""
-caps: "Call-ups代表 (0 caps) France代表 (1 caps)"
+caps: "Call-ups代表 (0 caps)"
 league_one_caps: "0"
 country: "Call-ups"
 nationality: ""

@@ -5,8 +5,8 @@ position: "Wing"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2000-05-12"
+age: 25
 high_school: ""
 university: ""
 caps: ""

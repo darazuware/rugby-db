@@ -5,8 +5,8 @@ position: "LO"
 team: "エディンバラ・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1997.11.06"
+age: 28
 high_school: ""
 university: ""
 caps: ""

@@ -6,7 +6,7 @@ team: "ハリウッドベッツ・シャークス"
 height: "184.0"
 weight: "88.0"
 birth_date: "1989.03.17"
-age: 36
+age: 37
 high_school: ""
 university: ""
 caps: ""

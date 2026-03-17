@@ -5,8 +5,8 @@ position: "Centre"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2002-05-21"
+age: 23
 high_school: ""
 university: ""
 caps: ""

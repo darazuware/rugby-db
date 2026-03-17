@@ -5,7 +5,7 @@ position: "Wing"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "20/11/2003"
 age: null
 high_school: ""
 university: ""

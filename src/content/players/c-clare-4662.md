@@ -5,7 +5,7 @@ position: "Hooker"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "16/12/1991"
 age: null
 high_school: ""
 university: ""

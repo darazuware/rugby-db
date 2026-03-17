@@ -9,7 +9,7 @@ birth_date: "1998.09.18"
 age: 27
 high_school: ""
 university: ""
-caps: "Australia代表 (26 caps)"
+caps: "Australia"
 league_one_caps: "0"
 country: "Australia"
 nationality: ""

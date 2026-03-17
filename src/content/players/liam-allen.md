@@ -6,7 +6,7 @@ team: "リヨン"
 height: "191.0"
 weight: "105.0"
 birth_date: "2000.03.17"
-age: 25
+age: 26
 high_school: ""
 university: ""
 caps: ""

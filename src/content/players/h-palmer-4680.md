@@ -5,8 +5,8 @@ position: "Lock"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2003.07.05"
+age: 22
 high_school: ""
 university: ""
 caps: ""

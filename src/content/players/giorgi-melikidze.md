@@ -9,7 +9,7 @@ birth_date: "1996.05.24"
 age: 29
 high_school: ""
 university: ""
-caps: "Georgia代表 (14 caps)"
+caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
 nationality: "Georgia"

@@ -5,8 +5,8 @@ position: "Fly-half"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1996.11.16"
+age: 29
 high_school: ""
 university: ""
 caps: "England代表 (98 caps)"

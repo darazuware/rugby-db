@@ -9,7 +9,7 @@ birth_date: "1998.09.06"
 age: 27
 high_school: ""
 university: ""
-caps: "Georgia代表 (8 caps)"
+caps: "Georgia"
 league_one_caps: "0"
 country: "Georgia"
 nationality: "Voir"

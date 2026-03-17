@@ -5,8 +5,8 @@ position: "SH"
 team: "オスプリーズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2001.10.04"
+age: 24
 high_school: ""
 university: ""
 caps: ""

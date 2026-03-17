@@ -5,8 +5,8 @@ position: "No. 8"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "2001-09-06"
+age: 24
 high_school: ""
 university: ""
 caps: ""

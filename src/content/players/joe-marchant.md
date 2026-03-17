@@ -9,7 +9,7 @@ birth_date: "1996.07.16"
 age: 29
 high_school: ""
 university: ""
-caps: "England代表 (19 caps)"
+caps: "England"
 league_one_caps: "0"
 country: "England"
 nationality: ""

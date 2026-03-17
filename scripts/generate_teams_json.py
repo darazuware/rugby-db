@@ -149,6 +149,46 @@ def main():
                     "league": "top14"
                 })
 
+    # Premiership (Master CSV から抽出)
+    # リーグ名が 'premiership' のものを対象とする
+    prem_slug_map = {
+        "ノーサンプトン・セインツ": "northampton-saints",
+        "バース・ラグビー": "bath-rugby",
+        "ブリストル・ベアーズ": "bristol-bears",
+        "レスター・タイガーズ": "leicester-tigers",
+        "エクセター・チーフス": "exeter-chiefs",
+        "サラセンズ": "saracens",
+        "セール・シャークス": "sale-sharks",
+        "グロスター・ラグビー": "gloucester-rugby",
+        "ハリクインズ": "harlequins",
+        "ニューカッスル・ファルコンズ": "newcastle-falcons"
+    }
+
+    print("Extracting Premiership teams from master CSV...")
+    if os.path.exists('data_sources/final_master_data_v25.csv'):
+        # チーム名をキー、情報を値とする辞書で一意性を保つ
+        prem_teams_dict = {}
+        with open('data_sources/final_master_data_v25.csv', mode='r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get('リーグ') == 'premiership':
+                    t_name = row.get('所属チーム')
+                    if t_name and t_name not in prem_teams_dict:
+                        info = get_team_info(t_name)
+                        slug = info['slug'] if info else slugify(t_name)
+                        # 手動マッピング優先
+                        jp_name = info.get('jp', t_name) if info else t_name
+                        if jp_name in prem_slug_map:
+                            slug = prem_slug_map[jp_name]
+                        
+                        prem_teams_dict[t_name] = {
+                            "team_name": jp_name,
+                            "team_en_name": info.get('name_en', t_name) if info else t_name,
+                            "slug": slug,
+                            "league": "premiership"
+                        }
+        all_teams.extend(prem_teams_dict.values())
+
     # 重複排除 (名前 + リーグ + スラッグベース)
     # 同じチーム名でもリーグやスラッグが違う場合は別物として扱う
     unique_teams = []

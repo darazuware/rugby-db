@@ -5,7 +5,7 @@ position: "No. 8"
 team: "バース・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "06/10/1996"
 age: null
 high_school: ""
 university: ""

@@ -5,8 +5,8 @@ position: "Flanker"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1997.10.24"
+age: 28
 high_school: ""
 university: ""
 caps: ""

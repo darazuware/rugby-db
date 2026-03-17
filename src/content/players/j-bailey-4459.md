@@ -5,8 +5,8 @@ position: "Lock"
 team: "エクセター・チーフス"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1992.02.09"
+age: 34
 high_school: ""
 university: ""
 caps: ""

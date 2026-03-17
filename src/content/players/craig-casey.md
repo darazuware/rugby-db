@@ -9,7 +9,7 @@ birth_date: "1999.04.19"
 age: 26
 high_school: ""
 university: ""
-caps: "Ireland代表 (14 caps)"
+caps: "Ireland"
 league_one_caps: "0"
 country: "Ireland"
 nationality: ""

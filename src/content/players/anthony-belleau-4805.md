@@ -5,8 +5,8 @@ position: "Fly-half"
 team: "ノーサンプトン・セインツ"
 height: ""
 weight: ""
-birth_date: ""
-age: null
+birth_date: "1996-04-08"
+age: 29
 high_school: ""
 university: ""
 caps: ""

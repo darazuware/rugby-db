@@ -5,7 +5,7 @@ position: "Hooker"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "06/08/2001"
 age: null
 high_school: ""
 university: ""

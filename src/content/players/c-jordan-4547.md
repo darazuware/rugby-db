@@ -5,7 +5,7 @@ position: "Lock"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "17/11/1999"
 age: null
 high_school: ""
 university: ""

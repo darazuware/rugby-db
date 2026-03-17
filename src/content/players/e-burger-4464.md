@@ -5,7 +5,7 @@ position: "Prop"
 team: "エクセター・チーフス"
 height: ""
 weight: ""
-birth_date: ""
+birth_date: "23/05/2000"
 age: null
 high_school: ""
 university: ""
