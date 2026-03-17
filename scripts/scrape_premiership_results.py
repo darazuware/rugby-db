@@ -32,7 +32,8 @@ def normalize_team(name):
         if name in main_name.upper() or any(name in a.upper() for a in data.get('aliases', [])):
             return data['jp'], data['flag']
             
-    return name, "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    # デフォルトのイングランド国旗 (正しいシーケンス: 🏴\U000e0067\U000e0062\U000e0065\U000e006e\U000e0067\U000e007f)
+    return name, '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
 
 def parse_date(date_text):
     """

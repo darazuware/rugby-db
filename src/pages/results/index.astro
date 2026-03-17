@@ -527,17 +527,21 @@ console.warn('--- RUGBY PICKS JS v2.1 LOADED ---');
         // モバイルナビのタイトル更新
         const mobileTitle = document.getElementById('mobile-current-league-name');
         if (mobileTitle) {
-            const leagueObj = Object.values(leagueColors).find(c => c.label.toLowerCase().includes(normalized) || normalized.includes(c.label.toLowerCase()));
-            mobileTitle.textContent = leagueColors[normalized]?.label || normalized.toUpperCase();
+            const leagueLabel = leagueColors[normalized]?.label || normalized.toUpperCase();
+            mobileTitle.textContent = leagueLabel;
         }
 
         // モバイルラウンドセレクターの切り替え
         const mobileSelect = document.getElementById('mobile-round-select');
         if (mobileSelect) {
             const groups = mobileSelect.querySelectorAll('optgroup');
+            let targetId = normalized;
+            // リーグワン全体が選択されている場合は D1 をデフォルトにする
+            if (normalized === 'league-one') targetId = 'league-one-d1';
+            
             groups.forEach(group => {
                 const gid = (group.getAttribute('data-league-group') || '').toLowerCase();
-                if (gid === normalized) {
+                if (gid === targetId) {
                     group.classList.remove('hidden');
                     group.disabled = false;
                 } else {
