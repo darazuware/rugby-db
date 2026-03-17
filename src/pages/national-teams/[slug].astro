@@ -1,0 +1,126 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import nationalTeamsConfig from "../../../data/national_teams_config.json";
+import nationalPlayersMap from "../../../data/national_players_map.json";
+import NationalPlayerList from "../../components/NationalPlayerList";
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  return nationalTeamsConfig.map((team) => ({
+    params: { slug: team.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const team = nationalTeamsConfig.find((t) => t.slug === slug);
+
+if (!team) {
+    return Astro.redirect("/404");
+}
+
+const players = (nationalPlayersMap as any)[team.id] || [];
+
+// ヒーローセクションの背景グラデーション
+const bgGradient = `linear-gradient(135deg, ${team.color} 0%, #111 100%)`;
+---
+
+<Layout title={`${team.name} | RUGBY PICKS`} description={`${team.name}の所属選手、キャップ数、プロフィール一覧。2027年ラグビーワールドカップに向けた各国の戦力をチェック。`}>
+  <main class="min-h-screen bg-background">
+    {/* ヒーローセクション */}
+    <div 
+      class="relative overflow-hidden pt-32 pb-20 md:pt-48 md:pb-32 px-4 border-b border-border-dim/30"
+      style={{ background: bgGradient }}
+    >
+      <div class="absolute inset-0 opacity-20 pointer-events-none">
+        <div class="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_50%_-20%,rgba(255,255,255,0.1),transparent)]"></div>
+        <div class="grid grid-cols-6 h-full border-x border-white/5">
+           {[...Array(6)].map((_, i) => <div class="border-r border-white/5"></div>)}
+        </div>
+      </div>
+      
+      <div class="max-w-7xl mx-auto relative z-10">
+        <div class="flex flex-col md:flex-row items-center gap-6 md:gap-10 text-center md:text-left">
+          <div class="text-5xl md:text-6xl drop-shadow-2xl animate-bounce-subtle shrink-0">
+            {team.flag}
+          </div>
+          <div class="space-y-3">
+            <div class="inline-flex items-center gap-2 px-3 py-1 bg-yellow-400 text-black text-[10px] font-black italic rounded-full uppercase tracking-wider">
+              <span class="relative flex h-2 w-2">
+                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-black opacity-75"></span>
+                <span class="relative inline-flex rounded-full h-2 w-2 bg-black"></span>
+              </span>
+              Road to 2027 World Cup
+            </div>
+            <h1 class="text-3xl md:text-6xl font-black text-white leading-tight tracking-tighter">
+              {team.name.toUpperCase()}
+            </h1>
+            <p class="text-sm md:text-base font-black italic opacity-60 tracking-[0.2em] uppercase" style={{ color: team.text_color || '#fff' }}>
+              {team.en_name}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {/* メインコンテンツ */}
+    <div class="max-w-7xl mx-auto px-4 py-16">
+      <div class="flex flex-col lg:flex-row gap-12">
+        {/* 左側：統計・情報 (Sticky) */}
+        <aside class="lg:w-1/4 space-y-8">
+          {/* チーム切り替えボタン */}
+          <div class="mb-8">
+            <a 
+              href="/national-teams"
+              class="flex items-center justify-center gap-2 w-full py-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-2xl text-[12px] font-black text-white uppercase tracking-widest transition-all group"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="15 19l-7-7 7-7" />
+              </svg>
+              その他の代表チームを見る
+            </a>
+          </div>
+
+          <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-3xl p-8 sticky top-28">
+            <h2 class="text-[12px] font-black text-foreground/40 uppercase tracking-[0.3em] italic mb-8 border-b border-border-dim/10 pb-4">
+              Team Overview
+            </h2>
+            <div class="space-y-8">
+              <div>
+                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Squad Size</div>
+                <div class="text-4xl font-black text-foreground italic">{players.length}<span class="text-sm ml-1 opacity-40">Players</span></div>
+              </div>
+              <div>
+                <div class="text-[10px] font-black text-foreground/30 uppercase tracking-widest mb-1">Avg Age</div>
+                <div class="text-4xl font-black text-foreground italic">
+                  {Math.round(players.reduce((acc: number, p: any) => acc + (p.age || 0), 0) / players.filter((p: any) => p.age).length || 0)}
+                  <span class="text-sm ml-1 opacity-40">Years</span>
+                </div>
+              </div>
+              <div class="pt-8 mt-8 border-t border-border-dim/10">
+                <p class="text-[11px] font-bold text-foreground/40 leading-relaxed">
+                  ※掲載選手はRUGBY PICKSのデータベースから抽出された代表歴保持者です。2027年W杯の最終選出とは異なる場合があります。
+                </p>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+        {/* 右側：選手一覧（React） */}
+        <div class="lg:w-3/4">
+          <NationalPlayerList client:load initialPlayers={players} teamColor={team.color} textColor={team.text_color || '#fff'} />
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .animate-bounce-subtle {
+    animation: bounce-subtle 3s ease-in-out infinite;
+  }
+  @keyframes bounce-subtle {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>

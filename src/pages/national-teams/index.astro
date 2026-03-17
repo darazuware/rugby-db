@@ -1,0 +1,65 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import nationalTeamsConfig from "../../../data/national_teams_config.json";
+
+export const prerender = true;
+
+// 15カ国の代表チームを一覧表示するページ
+---
+
+<Layout title="各国代表一覧 | RUGBY PICKS" description="世界の主要ラグビーナショナルチーム（代表チーム）一覧。2027年ラグビーワールドカップに向けた各国の代表選手データベースにアクセスできます。">
+  <main class="min-h-screen bg-background">
+    <div class="pt-32 pb-16 px-4">
+      <div class="max-w-7xl mx-auto text-center space-y-4 mb-16">
+        <h1 class="text-4xl md:text-7xl font-black text-foreground italic tracking-tighter uppercase">
+          NATIONAL <span class="text-yellow-400">TEAMS</span>
+        </h1>
+        <p class="text-foreground/40 font-bold tracking-[0.2em] uppercase text-sm">
+          Select a team to explore their representatives
+        </p>
+      </div>
+
+      <div class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {nationalTeamsConfig.map((team) => (
+          <a
+            href={`/national-teams/${team.slug}`}
+            class="group relative overflow-hidden rounded-3xl bg-card border border-border-dim/50 hover:border-yellow-400/50 transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_20px_50px_rgba(0,0,0,0.3)]"
+          >
+            {/* バックグラウンド装飾 */}
+            <div 
+              class="absolute inset-0 opacity-10 group-hover:opacity-20 transition-opacity duration-500"
+              style={{ background: `linear-gradient(135deg, ${team.color} 0%, transparent 100%)` }}
+            ></div>
+            
+            <div class="p-4 md:p-6 relative z-10 flex items-center gap-3 md:gap-4">
+              <div class="text-3xl md:text-5xl group-hover:scale-110 transition-transform duration-500 shrink-0">
+                {team.flag}
+              </div>
+              <div class="flex-1 min-w-0">
+                <h2 class="text-sm md:text-base font-black text-foreground mb-0.5 group-hover:text-yellow-400 transition-colors tracking-tighter leading-tight break-words">
+                  {team.name}
+                </h2>
+                <p class="text-[8px] md:text-[10px] font-black italic opacity-40 tracking-normal uppercase truncate">
+                  {team.en_name}
+                </p>
+              </div>
+              <div class="opacity-0 group-hover:opacity-100 transition-opacity translate-x-3 group-hover:translate-x-0 shrink-0">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-yellow-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    background-image: 
+      radial-gradient(circle at 50% -20%, rgba(250, 204, 21, 0.05), transparent),
+      radial-gradient(circle at 0% 50%, rgba(250, 204, 21, 0.02), transparent);
+  }
+</style>

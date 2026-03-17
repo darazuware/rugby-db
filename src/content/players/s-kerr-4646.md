@@ -5,8 +5,8 @@ position: "Centre"
 team: "ハーレクインズ"
 height: ""
 weight: ""
-birth_date: "25/08/1992"
-age: null
+birth_date: "2004-11-08"
+age: 21
 high_school: ""
 university: ""
 caps: ""

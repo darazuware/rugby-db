@@ -5,8 +5,8 @@ position: "Prop"
 team: "グロスター・ラグビー"
 height: ""
 weight: ""
-birth_date: "1999.08.22"
-age: 26
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

@@ -64,16 +64,15 @@ def is_match(name1, name2):
     if not n1 or not n2: return False
     if n1 == n2: return True
     
-    # 苗字（最後の要素）が一致するか
+    # 苗字（最後の要素）が完全一致するか
     if n1[-1] == n2[-1]:
         # イニシャル一致
         if n1[0][0] == n2[0][0]:
             return True
             
-    # 複合姓のケース（例: Ainsworth-Cave vs Ainsworth Cave）
-    if n1[-1] in n2[-1] or n2[-1] in n1[-1]:
-         if n1[0][0] == n2[0][0]:
-            return True
+    # 複合姓の完全一致ケース（例: Ainsworth-Cave vs Ainsworth Cave）
+    # normalize_name で '-' は既にスペースに変換されているため、
+    # 最後の要素同士の比較で十分。部分一致 (in) は誤爆の原因になるため廃止。
     
     return False
 

@@ -5,8 +5,8 @@ position: "Centre"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: "1996.01.10"
-age: 30
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

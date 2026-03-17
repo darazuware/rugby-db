@@ -5,8 +5,8 @@ position: "FL/No8"
 team: "ウェスタン・フォース"
 height: ""
 weight: ""
-birth_date: "1998.03.07"
-age: 28
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

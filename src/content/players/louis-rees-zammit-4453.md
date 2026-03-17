@@ -5,8 +5,8 @@ position: "Wing"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: "1993.11.28"
-age: 32
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: "Wales代表 (27 caps)"

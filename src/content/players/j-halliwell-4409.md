@@ -5,8 +5,8 @@ position: "Prop"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: "1996.01.02"
-age: 30
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

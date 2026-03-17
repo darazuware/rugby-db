@@ -5,8 +5,8 @@ position: "Fullback"
 team: "ニューカッスル・ファルコンズ"
 height: ""
 weight: ""
-birth_date: "1993.11.28"
-age: 32
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: "Wales代表 (92 caps)"

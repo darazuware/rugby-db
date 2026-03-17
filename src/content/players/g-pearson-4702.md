@@ -5,8 +5,8 @@ position: "Wing"
 team: "レスター・タイガーズ"
 height: ""
 weight: ""
-birth_date: "1996.11.16"
-age: 29
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

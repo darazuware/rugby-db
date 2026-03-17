@@ -5,8 +5,8 @@ position: "Flanker"
 team: "ブリストル・ベアーズ"
 height: ""
 weight: ""
-birth_date: "1996.01.10"
-age: 30
+birth_date: "1993.09.21"
+age: 32
 high_school: ""
 university: ""
 caps: ""

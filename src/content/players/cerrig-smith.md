@@ -5,8 +5,8 @@ position: "Back row"
 team: "ドラゴンズ・ラグビー"
 height: "188.0"
 weight: "113.0"
-birth_date: "1997.09.10"
-age: 28
+birth_date: "1994.09.09"
+age: 31
 high_school: ""
 university: ""
 caps: "New Zealand代表 (88 caps)"

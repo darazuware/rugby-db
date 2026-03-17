@@ -9,7 +9,7 @@ birth_date: "1995.11.29"
 age: 30
 high_school: ""
 university: ""
-caps: "France代表 (52 caps)"
+caps: ""
 league_one_caps: "0"
 country: "France"
 nationality: "France"

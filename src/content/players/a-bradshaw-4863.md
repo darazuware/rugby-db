@@ -5,8 +5,8 @@ position: "Wing"
 team: "セール・シャークス"
 height: ""
 weight: ""
-birth_date: "2000.03.13"
-age: 26
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

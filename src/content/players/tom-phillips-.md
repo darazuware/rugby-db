@@ -5,7 +5,7 @@ position: "PR"
 team: "スカーレッツ"
 height: ""
 weight: ""
-birth_date: "26/03/1999"
+birth_date: ""
 age: null
 high_school: ""
 university: ""
