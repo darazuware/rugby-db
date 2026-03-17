@@ -27,7 +27,7 @@ facebook: ""
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2014)
 - 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2015)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2015 - 2021)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021 - 2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023)
 - Edimbourg Rugby (2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)

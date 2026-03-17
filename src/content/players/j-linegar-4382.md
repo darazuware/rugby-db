@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2025 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2025 - )

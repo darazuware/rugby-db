@@ -135,12 +135,12 @@ const groupByRound = (leagueId: string, results: any[]) => {
         }
     });
 
-    // 3. Round ごとのグループ化（最新アクティブ節以下の試合のみ）
+    // 3. Round ごとのグループ化（表示制限なし）
     const groups: { [key: number]: any[] } = {};
     
     uniqueMatches.forEach(m => {
         const round = m.round;
-        if (round > 0 && round <= latestActiveRound) {
+        if (round > 0) {
             if (!groups[round]) groups[round] = [];
             groups[round].push(m);
         }
@@ -449,17 +449,22 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                                 class="w-full bg-foreground/5 border border-border-dim/30 rounded-2xl p-4 text-xs font-black text-foreground/60 appearance-none cursor-pointer focus:outline-none focus:border-yellow-400 transition-all uppercase tracking-widest shadow-inner"
                             >
                                 <option value="" disabled selected>Select Round</option>
-                                {(() => {
-                                    const l1d1 = getLeagueResults(leagues.find(l => l.id === 'league-one-d1'));
-                                    return l1d1.map((group: any) => {
-                                        const dateShort = group.dateRange ? group.dateRange.replace(/2026/g, "'26").replace(/2025/g, "'25") : '';
-                                        return (
-                                            <option value={`#league-one-d1-round-${group.round}`}>
-                                                第{group.round}節{dateShort ? ` (${dateShort})` : ''}
-                                            </option>
-                                        );
-                                    });
-                                })()}
+                                {leagues.filter(l => !l.isParent).map(l => {
+                                    const results = getLeagueResults(l);
+                                    return (
+                                        <optgroup label={l.name} data-league-group={l.id} class="hidden">
+                                            {results.map((group: any) => {
+                                                const dateShort = group.dateRange ? group.dateRange.replace(/2026/g, "'26").replace(/2025/g, "'25") : '';
+                                                return (
+                                                    <option value={`#${l.id}-round-${group.round}`}>
+                                                        {l.id.startsWith('league-one') ? `第${group.round}節` : `ROUND ${group.round}`}
+                                                        {dateShort ? ` (${dateShort})` : ''}
+                                                    </option>
+                                                );
+                                            })}
+                                        </optgroup>
+                                    );
+                                })}
                             </select>
                             <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20 group-hover/select:text-yellow-400 transition-colors">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
@@ -518,6 +523,30 @@ console.warn('--- RUGBY PICKS JS v2.1 LOADED ---');
         const normalized = league.trim().toLowerCase();
         activeLeague = normalized;
         console.warn('Filter Action:', normalized);
+
+        // モバイルナビのタイトル更新
+        const mobileTitle = document.getElementById('mobile-current-league-name');
+        if (mobileTitle) {
+            const leagueObj = Object.values(leagueColors).find(c => c.label.toLowerCase().includes(normalized) || normalized.includes(c.label.toLowerCase()));
+            mobileTitle.textContent = leagueColors[normalized]?.label || normalized.toUpperCase();
+        }
+
+        // モバイルラウンドセレクターの切り替え
+        const mobileSelect = document.getElementById('mobile-round-select');
+        if (mobileSelect) {
+            const groups = mobileSelect.querySelectorAll('optgroup');
+            groups.forEach(group => {
+                const gid = (group.getAttribute('data-league-group') || '').toLowerCase();
+                if (gid === normalized) {
+                    group.classList.remove('hidden');
+                    group.disabled = false;
+                } else {
+                    group.classList.add('hidden');
+                    group.disabled = true;
+                }
+            });
+            mobileSelect.value = ""; // リセット
+        }
 
         const titleText = document.getElementById('league-title-text');
         const titleContainer = document.getElementById('league-title-container');

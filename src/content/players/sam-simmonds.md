@@ -23,6 +23,6 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2025)
 - 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2025 - )

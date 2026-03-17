@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2016 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2016 - 2023)
 - Section Paloise Béarn Pyrénées (2023 - )

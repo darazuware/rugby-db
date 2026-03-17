@@ -23,5 +23,5 @@ twitter: "https://twitter.com/hashtag/fievresr"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮��󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2013 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2013 - 2023)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )

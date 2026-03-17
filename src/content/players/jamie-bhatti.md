@@ -25,7 +25,7 @@ facebook: ""
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2016 - 2019)
 - Edimbourg Rugby (2019 - 2020)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2020)
 - Edimbourg Rugby (2021)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2021 - )

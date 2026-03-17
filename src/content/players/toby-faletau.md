@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Dragons RFC (2013 - 2016)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2016 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2016 - 2022)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2022 - )

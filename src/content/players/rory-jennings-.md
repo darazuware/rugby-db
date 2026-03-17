@@ -23,11 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2014 - 2016)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2014 - 2016)
 - Ealing Trailfinders (2016)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2016)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2016)
 - Ealing Trailfinders (2017)
-- 🏴󠁧��󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2017)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2017)
 - Rotherham Titans (2017 - 2018)
 - London Scottish (2018 - 2019)
 - Coventry Rugby (2019)
