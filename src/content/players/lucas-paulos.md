@@ -3,8 +3,8 @@ title: "ルカス・パウロス"
 name_en: "Lucas PAULOS"
 position: "LO"
 team: "バイヨンヌ"
-height: "199.0"
-weight: "123.0"
+height: "199"
+weight: "123"
 birth_date: "1998.01.09"
 age: 28
 high_school: ""
@@ -25,6 +25,6 @@ facebook: ""
 
 - Stade Montois Rugby Pro (2014 - 2017)
 - Olivos RC (2017 - 2018)
-- ハグアレス (2018 - 2020)
-- ブリーヴ (2020 - 2023)
+- Jaguares (2018 - 2020)
+- CA Brive Corrèze Limousin (2020 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

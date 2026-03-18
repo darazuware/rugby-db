@@ -3,8 +3,8 @@ title: "エステバン・ゴンザレス"
 name_en: "Esteban GONZALEZ"
 position: "SH"
 team: "リヨン"
-height: "177.0"
-weight: "80.0"
+height: "177"
+weight: "80"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Association Sportive Béziers Hérault (2012 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

@@ -3,8 +3,8 @@ title: "アントワーヌ・デリアンス"
 name_en: "Antoine DÉLIANCE"
 position: "FL/NO8"
 team: "リヨン"
-height: "192.0"
-weight: "99.0"
+height: "192"
+weight: "99"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -26,4 +26,4 @@ facebook: ""
 - XV Suranais (2009 - 2010)
 - RC Viriat (2013 - 2019)
 - Union Sportive Bressane Pays de l'Ain (2019 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

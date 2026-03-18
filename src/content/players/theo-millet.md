@@ -3,8 +3,8 @@ title: "テオ・ミレー"
 name_en: "Théo MILLET"
 position: "CTB"
 team: "リヨン"
-height: "189.0"
-weight: "99.0"
+height: "189"
+weight: "99"
 birth_date: "1997.07.08"
 age: 28
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2014 - 2018)
-- オヨナ (2018 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2024 - )
+- Stade Français Paris Rugby (2014 - 2018)
+- Oyonnax Rugby (2018 - 2024)
+- Lyon Olympique Universitaire Rugby (2024 - )

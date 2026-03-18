@@ -3,8 +3,8 @@ title: "テヴィタ・ラトゥヴァ"
 name_en: "Tevita RATUVA"
 position: "LO"
 team: "クレルモン"
-height: "199.0"
-weight: "124.0"
+height: "199"
+weight: "124"
 birth_date: "1995.05.08"
 age: 30
 high_school: ""
@@ -23,8 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- ブリスベン・シティ (2017 - 2018)
+- Brisbane City (2017 - 2018)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019 - 2021)
-- ブリーヴ (2021 - 2025)
+- CA Brive Corrèze Limousin (2021 - 2025)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

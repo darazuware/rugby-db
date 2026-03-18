@@ -3,8 +3,8 @@ title: "マテオ・ル・コルヴェック"
 name_en: "Mattéo LE CORVEC"
 position: "FL/NO8"
 team: "ペルピニャン"
-height: "192.0"
-weight: "113.0"
+height: "192"
+weight: "113"
 birth_date: "2001.01.04"
 age: 25
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2025)
+- Rugby Club Toulonnais (2015 - 2025)
 - Union Sportive Arlequins Perpignanais (2025 - )

@@ -3,8 +3,8 @@ title: "シリル・バイユ"
 name_en: "Cyril BAILLE"
 position: "PR"
 team: "トゥールーズ"
-height: "182.0"
-weight: "118.0"
+height: "182"
+weight: "118"
 birth_date: "1993.09.15"
 age: 32
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Cercle Amical Lannemezanais (2003 - 2009)
-- スタッド・トゥールーザン (2009 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2009 - )

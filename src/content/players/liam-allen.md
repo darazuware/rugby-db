@@ -3,8 +3,8 @@ title: "リアム・アレン"
 name_en: "Liam ALLEN"
 position: "FL/NO8"
 team: "リヨン"
-height: "191.0"
-weight: "105.0"
+height: "191"
+weight: "105"
 birth_date: "2000.03.17"
 age: 26
 high_school: ""
@@ -23,6 +23,5 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- カンタベリー (2019 - 2022)
-- クルセイダーズ (2020 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - )
+- Canterbury (2019 - 2022)
+- Lyon Olympique Universitaire Rugby (2022 - )

@@ -3,8 +3,8 @@ title: "ルイス・ラドラム"
 name_en: "Lewis LUDLAM"
 position: "FL/NO8"
 team: "トゥーロン"
-height: "192.0"
-weight: "111.0"
+height: "192"
+weight: "111"
 birth_date: "1995.12.08"
 age: 30
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2016 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- Rugby Club Toulonnais (2024 - )

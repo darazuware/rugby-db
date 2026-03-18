@@ -3,8 +3,8 @@ title: "アヴェ・マーロ"
 name_en: "Avé MAALO"
 position: "PR"
 team: "リヨン"
-height: "189.0"
-weight: "143.0"
+height: "189"
+weight: "143"
 birth_date: "2003.08.27"
 age: 22
 high_school: ""
@@ -23,4 +23,4 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - )
+- Lyon Olympique Universitaire Rugby (2023 - )

@@ -3,8 +3,8 @@ title: "デイヴィッド・アイヌウ"
 name_en: "David AINU'U"
 position: "PR"
 team: "トゥールーズ"
-height: "178.0"
-weight: "125.0"
+height: "178"
+weight: "125"
 birth_date: "1999.11.20"
 age: 26
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/DavidAinuu"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- スタッド・トゥールーザン (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

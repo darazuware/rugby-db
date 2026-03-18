@@ -3,8 +3,8 @@ title: "ディリン・レイズ"
 name_en: "Dillyn LEYDS"
 position: "WTB"
 team: "ラ・ロシェル"
-height: "183.0"
-weight: "88.0"
+height: "183"
+weight: "88"
 birth_date: "1992.09.12"
 age: 33
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2014)
-- ストーマーズ (2014 - 2020)
+- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2020)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )

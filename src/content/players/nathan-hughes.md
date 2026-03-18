@@ -3,8 +3,8 @@ title: "ネイサン・ヒューズ"
 name_en: "Nathan HUGHES"
 position: "FL/NO8"
 team: "ラシン92"
-height: "196.0"
-weight: "126.0"
+height: "196"
+weight: "126"
 birth_date: "1991.06.10"
 age: 34
 high_school: ""
@@ -23,9 +23,14 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- ワスプス (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2022)
-- バース (2021 - 2022)
-- 🇯🇵 [リコーブラックラムズ東京](/teams/league-one/ricoh-black-rams-tokyo) [D1] (2022 - 2025)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024 - 2025)
+- Wasps (2013 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2022)
+- BlackRams Tokyo (2022 - 2024)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2024)
+- BlackRams Tokyo (2025)
+- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

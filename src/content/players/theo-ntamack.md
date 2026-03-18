@@ -3,8 +3,8 @@ title: "テオ・ンタマック"
 name_en: "Théo NTAMACK"
 position: "FL/NO8"
 team: "トゥールーズ"
-height: "193.0"
-weight: "110.0"
+height: "193"
+weight: "110"
 birth_date: "2002.05.29"
 age: 23
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- スタッド・トゥールーザン (2014 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2014 - )

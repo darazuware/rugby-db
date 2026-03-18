@@ -3,8 +3,8 @@ title: "レミ・セネカ"
 name_en: "Rémi SÉNÉCA"
 position: "PR"
 team: "ポー"
-height: "185.0"
-weight: "116.0"
+height: "185"
+weight: "116"
 birth_date: "1995.01.16"
 age: 31
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - 2017)
+- Stade Français Paris Rugby (2012 - 2017)
 - Rugby Club Vannes (2017 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

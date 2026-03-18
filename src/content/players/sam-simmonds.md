@@ -3,8 +3,8 @@ title: "サム・シモンズ"
 name_en: "Sam SIMMONDS"
 position: "FL/NO8"
 team: "リヨン"
-height: "184.0"
-weight: "108.0"
+height: "184"
+weight: "108"
 birth_date: "1994.11.10"
 age: 31
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

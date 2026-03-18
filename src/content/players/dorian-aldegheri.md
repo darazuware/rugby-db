@@ -3,8 +3,8 @@ title: "ドリアン・アルデゲリ"
 name_en: "Dorian ALDEGHERI"
 position: "PR"
 team: "トゥールーズ"
-height: "180.0"
-weight: "119.0"
+height: "180"
+weight: "119"
 birth_date: "1993.08.04"
 age: 32
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- スタッド・トゥールーザン (2004 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2004 - )

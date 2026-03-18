@@ -3,8 +3,8 @@ title: "トマ・ムコロ"
 name_en: "Thomas MOUKORO"
 position: "PR"
 team: "リヨン"
-height: "185.0"
-weight: "121.0"
+height: "185"
+weight: "121"
 birth_date: "2002.01.01"
 age: 24
 high_school: ""
@@ -23,6 +23,8 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2024)
-- Rugby Club Vannes (2023 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2025 - )
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2023)
+- Rugby Club Vannes (2023)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
+- Rugby Club Vannes (2024 - 2025)
+- Lyon Olympique Universitaire Rugby (2025 - )

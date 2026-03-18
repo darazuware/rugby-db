@@ -3,8 +3,8 @@ title: "デイヴィッド・リバンズ"
 name_en: "David RIBBANS"
 position: "LO"
 team: "トゥーロン"
-height: "202.0"
-weight: "121.0"
+height: "202"
+weight: "121"
 birth_date: "1995.08.29"
 age: 30
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2016 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- Rugby Club Toulonnais (2023 - )

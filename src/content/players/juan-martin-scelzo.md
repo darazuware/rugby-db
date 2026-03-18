@@ -3,8 +3,8 @@ title: "フアン・マルティン・セルソ"
 name_en: "Juan Martin SCELZO"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "192.0"
-weight: "110.0"
+height: "192"
+weight: "110"
 birth_date: "2002.02.12"
 age: 24
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2007 - 2022)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2007 - 2009)
 - AS Passage Rugby (2011 - 2012)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2017)
 - RC Saint-Gènes-Champanelle (2018 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - 2022)
+- Stade Français Paris Rugby (2022 - )

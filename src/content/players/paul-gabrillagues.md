@@ -3,8 +3,8 @@ title: "ポール・ガブリヤーグ"
 name_en: "Paul GABRILLAGUES"
 position: "LO"
 team: "スタッド・フランセ"
-height: "199.0"
-weight: "119.0"
+height: "199"
+weight: "119"
 birth_date: "1993.06.03"
 age: 32
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Paris Université Club (2007 - 2011)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2011 - )
+- Stade Français Paris Rugby (2011 - )

@@ -3,8 +3,8 @@ title: "レオ・カルボノー"
 name_en: "Léo CARBONNEAU"
 position: "SH"
 team: "ラシン92"
-height: "171.0"
-weight: "79.0"
+height: "171"
+weight: "79"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
 - Avenir Bizanos (2009 - 2013)
-- ブリーヴ (2013 - 2025)
+- CA Brive Corrèze Limousin (2013 - 2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

@@ -3,8 +3,8 @@ title: "マテオ・ガルシア"
 name_en: "Matéo GARCIA"
 position: "SO"
 team: "トゥーロン"
-height: "174.0"
-weight: "79.0"
+height: "174"
+weight: "79"
 birth_date: "2002.07.08"
 age: 23
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - 2020)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- Rugby Club Toulonnais (2025 - )

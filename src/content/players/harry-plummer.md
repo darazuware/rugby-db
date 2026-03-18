@@ -3,8 +3,8 @@ title: "ハリー・プラマー"
 name_en: "Harry PLUMMER"
 position: "SO"
 team: "クレルモン"
-height: "184.0"
-weight: "99.0"
+height: "184"
+weight: "99"
 birth_date: "1998.06.19"
 age: 27
 high_school: ""
@@ -23,6 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- ブルーズ (2018 - 2025)
-- オークランド (2019 - 2024)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2025)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

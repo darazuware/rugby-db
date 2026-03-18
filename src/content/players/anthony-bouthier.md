@@ -3,8 +3,8 @@ title: "アントニー・ブティエ"
 name_en: "Anthony BOUTHIER"
 position: "FB"
 team: "ヴァンヌ"
-height: "182.0"
-weight: "86.0"
+height: "182"
+weight: "86"
 birth_date: "1992.06.19"
 age: 33
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "French"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2019
+joined_year: 2025
 has_scores: true
 instagram: "https://www.instagram.com/allrugbycom/"
 twitter: "https://x.com/AllRugbyCom"
@@ -25,5 +25,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - RC Pouillon (2004 - 2011)
 - US Dax Rugby Landes (2011 - 2014)
-- Rugby Club Vannes (2014 - 2026)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - )
+- Rugby Club Vannes (2014 - 2019)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2025)
+- Rugby Club Vannes (2025 - )

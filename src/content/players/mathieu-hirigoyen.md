@@ -3,8 +3,8 @@ title: "マチュー・イリゴイエン"
 name_en: "Mathieu HIRIGOYEN"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "194.0"
-weight: "103.0"
+height: "194"
+weight: "103"
 birth_date: "1999.01.25"
 age: 27
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Anglet Olympique Rugby Club (2011 - 2012)
 - Biarritz Olympique Pays Basque (2012 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- Stade Français Paris Rugby (2022 - )

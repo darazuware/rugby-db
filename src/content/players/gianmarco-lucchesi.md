@@ -3,8 +3,8 @@ title: "ジャンマルコ・ルッケージ"
 name_en: "Gianmarco LUCCHESI"
 position: "HO"
 team: "トゥーロン"
-height: "184.0"
-weight: "110.0"
+height: "184"
+weight: "110"
 birth_date: "2000.09.10"
 age: 25
 high_school: ""
@@ -23,6 +23,8 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- Rugby Calvisano (2019 - 2020)
-- ベネットン (2019 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- Rugby Calvisano (2019)
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2019)
+- Rugby Calvisano (2020)
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2020 - 2024)
+- Rugby Club Toulonnais (2024 - )

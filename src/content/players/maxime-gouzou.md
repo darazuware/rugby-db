@@ -3,8 +3,8 @@ title: "マキシム・グズ"
 name_en: "Maxime GOUZOU"
 position: "FL/NO8"
 team: "リヨン"
-height: "189.0"
-weight: "106.0"
+height: "189"
+weight: "106"
 birth_date: "1998.09.11"
 age: 27
 high_school: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - US Bardos (2006 - 2009)
 - Biarritz Olympique Pays Basque (2009 - 2018)
 - Stade Montois Rugby Pro (2018 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - )
+- Lyon Olympique Universitaire Rugby (2022 - )

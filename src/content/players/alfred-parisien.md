@@ -3,8 +3,8 @@ title: "アルフレッド・パリジャン"
 name_en: "Alfred PARISIEN"
 position: "CTB"
 team: "リヨン"
-height: "182.0"
-weight: "93.0"
+height: "182"
+weight: "93"
 birth_date: "2001.03.04"
 age: 25
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - CA Périgueux Dordogne (2006 - 2016)
 - Sporting Union Agenais (2016 - 2018)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2018 - )
+- Lyon Olympique Universitaire Rugby (2018 - )

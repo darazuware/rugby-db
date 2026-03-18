@@ -3,8 +3,8 @@ title: "チャーリー・カサン"
 name_en: "Charlie CASSANG"
 position: "SH"
 team: "リヨン"
-height: "173.0"
-weight: "92.0"
+height: "173"
+weight: "92"
 birth_date: "1995.02.08"
 age: 31
 high_school: ""
@@ -24,7 +24,10 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Sporting Union Agenais (2012 - 2014)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2016)
-- オヨナ (2020 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2024 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2015)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2020)
+- Oyonnax Rugby (2020 - 2024)
+- Lyon Olympique Universitaire Rugby (2024 - )

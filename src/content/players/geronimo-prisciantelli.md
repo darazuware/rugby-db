@@ -3,8 +3,8 @@ title: "ジェロニモ・プリシャンテッリ"
 name_en: "Geronimo PRISCIANTELLI"
 position: "SO"
 team: "ラシン92"
-height: "183.0"
-weight: "87.0"
+height: "183"
+weight: "87"
 birth_date: "1999.08.23"
 age: 26
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- Club Atlético San Isidro (2018 - 2022)
-- Jaguares XV (2021 - 2022)
-- ゼブレ (2022 - 2025)
+- Club Atlético San Isidro (2018 - 2021)
+- Jaguares XV (2021)
+- Club Atlético San Isidro (2022)
+- Jaguares XV (2022)
+- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2022 - 2025)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )

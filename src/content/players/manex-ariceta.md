@@ -3,8 +3,8 @@ title: "マネクス・アリセタ"
 name_en: "Manex ARICETA"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "194.0"
-weight: "118.0"
+height: "194"
+weight: "118"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -23,6 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Stade Hendayais (2016 - 2021)
-- Hernani Club Rugby Elkartea (2017 - 2021)
+- Stade Hendayais (2016 - 2017)
+- Hernani Club Rugby Elkartea (2017 - 2020)
+- Stade Hendayais (2020)
+- Hernani Club Rugby Elkartea (2021)
+- Stade Hendayais (2021)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )

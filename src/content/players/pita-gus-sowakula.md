@@ -3,8 +3,8 @@ title: "ピタ＝ガス・ソワクラ"
 name_en: "Pita-Gus SOWAKULA"
 position: "FL/NO8"
 team: "クレルモン"
-height: "195.0"
-weight: "117.0"
+height: "195"
+weight: "117"
 birth_date: "1994.10.26"
 age: 31
 high_school: ""
@@ -23,6 +23,20 @@ twitter: ""
 facebook: ""
 ---
 
-- チーフス (2017 - 2023)
-- タラナキ (2019 - 2023)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2019)
+- Taranaki Bulls (2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- Taranaki Bulls (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- Taranaki Bulls (2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
+- Taranaki Bulls (2021)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
+- Taranaki Bulls (2021)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- Taranaki Bulls (2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
+- Taranaki Bulls (2022)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
+- Taranaki Bulls (2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

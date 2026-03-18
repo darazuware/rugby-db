@@ -3,8 +3,8 @@ title: "ジョシュア・ブレナン"
 name_en: "Joshua BRENNAN"
 position: "LO"
 team: "トゥールーズ"
-height: "199.0"
-weight: "118.0"
+height: "199"
+weight: "118"
 birth_date: "2001.11.28"
 age: 24
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Toulouse Lalande Aucamville (2008 - 2012)
-- スタッド・トゥールーザン (2012 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - )

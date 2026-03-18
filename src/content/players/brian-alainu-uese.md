@@ -3,10 +3,10 @@ title: "ブライアン・アライヌウエセ"
 name_en: "Brian ALAINU'UESE"
 position: "LO"
 team: "トゥーロン"
-height: "202.0"
-weight: "135.0"
+height: "202"
+weight: "135"
 birth_date: "1994.03.19"
-age: 31
+age: 32
 high_school: ""
 university: ""
 caps: "Samoa"
@@ -16,13 +16,15 @@ nationality: "Samoa"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2018
+joined_year: 2019
 has_scores: true
 instagram: "https://www.instagram.com/rctofficiel/#"
 twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- チーフス (2014 - 2015)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2016 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - )
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2015)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2016 - 2018)
+- Rugby Club Toulonnais (2018)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2019)
+- Rugby Club Toulonnais (2019 - )

@@ -3,8 +3,8 @@ title: "パスカル・コテ"
 name_en: "Pascal COTET"
 position: "PR"
 team: "バイヨンヌ"
-height: "184.0"
-weight: "128.0"
+height: "184"
+weight: "128"
 birth_date: "1993.10.12"
 age: 32
 high_school: ""
@@ -24,7 +24,8 @@ facebook: ""
 ---
 
 - Union Sportive Arlequins Perpignanais (2013 - 2015)
-- Racing Club Narbonnais (2015 - 2022)
-- オヨナ (2016 - 2017)
+- Racing Club Narbonnais (2015 - 2016)
+- Oyonnax Rugby (2016 - 2017)
 - RC Aubenas Vals (2017 - 2018)
+- Racing Club Narbonnais (2018 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - )

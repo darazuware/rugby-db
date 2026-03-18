@@ -3,8 +3,8 @@ title: "アドリアン・ワリオン"
 name_en: "Adrien WARION"
 position: "LO"
 team: "ペルピニャン"
-height: "202.0"
-weight: "115.0"
+height: "202"
+weight: "115"
 birth_date: "2001.01.07"
 age: 25
 high_school: ""
@@ -25,6 +25,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 
 - RC Bourguésan (2006 - 2007)
 - RC Tricastin (2007 - 2012)
-- Provence Rugby (2012 - 2021)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - 2024)
+- Provence Rugby (2012 - 2020)
+- Rugby Club Toulonnais (2020)
+- Provence Rugby (2021)
+- Rugby Club Toulonnais (2021 - 2024)
 - Union Sportive Arlequins Perpignanais (2024 - )

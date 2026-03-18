@@ -3,8 +3,8 @@ title: "ジョヴァンニ・ハベル＝クエフナー"
 name_en: "Giovanni HABEL-KUEFFNER"
 position: "FL/NO8"
 team: "バイヨンヌ"
-height: "190.0"
-weight: "110.0"
+height: "190"
+weight: "110"
 birth_date: "1995.01.09"
 age: 31
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Section Paloise Béarn Pyrénées (2015 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - 2024)
+- Stade Français Paris Rugby (2022 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

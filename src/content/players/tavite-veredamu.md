@@ -3,8 +3,8 @@ title: "タヴィテ・ヴェレダム"
 name_en: "Tavite VEREDAMU"
 position: "WTB"
 team: "ペルピニャン"
-height: "192.0"
-weight: "108.0"
+height: "192"
+weight: "108"
 birth_date: "1989.09.01"
 age: 36
 high_school: ""
@@ -24,7 +24,10 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Rugby Club Nîmois (2010 - 2018)
-- France 7 (2018 - 2021)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2021 - 2023)
+- France 7 (2018 - 2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020)
+- France 7 (2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021)
+- France 7 (2021)
+- Lyon Olympique Universitaire Rugby (2021 - 2023)
 - Union Sportive Arlequins Perpignanais (2023 - )

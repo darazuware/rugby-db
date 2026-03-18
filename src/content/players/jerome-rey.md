@@ -3,8 +3,8 @@ title: "ジェローム・レイ"
 name_en: "Jérôme REY"
 position: "PR"
 team: "リヨン"
-height: "183.0"
-weight: "133.0"
+height: "183"
+weight: "133"
 birth_date: "1995.05.19"
 age: 30
 high_school: ""
@@ -27,4 +27,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - CS Bourgoin Jallieu Rugby (2015 - 2017)
 - Stade Olympique Chambéry (2017 - 2019)
 - FC Grenoble Rugby (2019 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2021 - )
+- Lyon Olympique Universitaire Rugby (2021 - )

@@ -3,15 +3,15 @@ title: "ルーク・タギ"
 name_en: "Luke TAGI"
 position: "PR"
 team: "バイヨンヌ"
-height: "187.0"
-weight: "130.0"
+height: "187"
+weight: "130"
 birth_date: "1997.06.23"
 age: 28
 high_school: ""
 university: ""
-caps: "Fiji代表 (9 caps)"
+caps: ""
 league_one_caps: "0"
-country: "Fiji"
+country: ""
 nationality: ""
 category: ""
 division: ""
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2021)
+- Stade Français Paris Rugby (2019 - 2021)
 - Provence Rugby (2021 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

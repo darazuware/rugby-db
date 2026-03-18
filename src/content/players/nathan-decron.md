@@ -3,8 +3,8 @@ title: "ナタン・ドゥクロン"
 name_en: "Nathan DECRON"
 position: "CTB"
 team: "ポー"
-height: "184.0"
-weight: "96.0"
+height: "184"
+weight: "96"
 birth_date: "1998.02.17"
 age: 28
 high_school: ""
@@ -24,6 +24,7 @@ facebook: ""
 ---
 
 - Union Sportive Néracaise (2007 - 2013)
-- Sporting Union Agenais (2013 - 2021)
+- Sporting Union Agenais (2013 - 2017)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2019)
+- Sporting Union Agenais (2019 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

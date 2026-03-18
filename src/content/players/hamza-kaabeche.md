@@ -3,8 +3,8 @@ title: "ハムザ・カベシュ"
 name_en: "Hamza KAABÈCHE"
 position: "PR"
 team: "リヨン"
-height: "189.0"
-weight: "118.0"
+height: "189"
+weight: "118"
 birth_date: "1996.09.23"
 age: 29
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2012 - )
+- Lyon Olympique Universitaire Rugby (2012 - )

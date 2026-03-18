@@ -3,8 +3,8 @@ title: "エンゾ・エルヴェ"
 name_en: "Enzo HERVÉ"
 position: "SO"
 team: "カストル"
-height: "176.0"
-weight: "94.0"
+height: "176"
+weight: "94"
 birth_date: "1998.10.13"
 age: 27
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "Français"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2026
 has_scores: true
 instagram: "https://www.instagram.com/castresolympique/"
 twitter: "https://twitter.com/CastresRugby"
@@ -24,6 +24,8 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Buguois (2004 - 2013)
-- ブリーヴ (2013 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - 2026)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )
+- CA Brive Corrèze Limousin (2013 - 2023)
+- Rugby Club Toulonnais (2023 - 2025)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025)
+- Rugby Club Toulonnais (2026)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2026 - )

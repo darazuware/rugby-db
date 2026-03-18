@@ -3,8 +3,8 @@ title: "ダニエル・ブレナン"
 name_en: "Daniel BRENNAN"
 position: "PR"
 team: "トゥーロン"
-height: "192.0"
-weight: "132.0"
+height: "192"
+weight: "132"
 birth_date: "1998.09.23"
 age: 27
 high_school: ""
@@ -24,7 +24,11 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Toulouse Lalande Aucamville (2008 - 2012)
-- スタッド・トゥールーザン (2012 - 2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
-- ブリーヴ (2020 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2018)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2020)
+- CA Brive Corrèze Limousin (2020)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020)
+- CA Brive Corrèze Limousin (2020 - 2021)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021)
+- CA Brive Corrèze Limousin (2021 - 2024)
+- Rugby Club Toulonnais (2024 - )

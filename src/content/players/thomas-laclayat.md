@@ -3,8 +3,8 @@ title: "トマ・ラクラヤット"
 name_en: "Thomas LACLAYAT"
 position: "PR"
 team: "ポー"
-height: "177.0"
-weight: "125.0"
+height: "177"
+weight: "125"
 birth_date: "1997.10.02"
 age: 28
 high_school: ""
@@ -23,7 +23,11 @@ twitter: ""
 facebook: ""
 ---
 
-- RC Haute Bresse (2012 - 2014)
-- オヨナ (2013 - 2023)
+- RC Haute Bresse (2012 - 2013)
+- Oyonnax Rugby (2013)
+- RC Haute Bresse (2013)
+- Oyonnax Rugby (2014)
+- RC Haute Bresse (2014)
+- Oyonnax Rugby (2014 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2025)
 - Section Paloise Béarn Pyrénées (2025 - )

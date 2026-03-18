@@ -5,7 +5,7 @@ position: "Winger"
 team: "カーディフ・ラグビー"
 height: ""
 weight: ""
-birth_date: "24/07/1995"
+birth_date: ""
 age: null
 high_school: ""
 university: ""

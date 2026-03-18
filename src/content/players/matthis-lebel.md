@@ -3,8 +3,8 @@ title: "マティス・ルベル"
 name_en: "Matthis LEBEL"
 position: "WTB"
 team: "トゥールーズ"
-height: "185.0"
-weight: "91.0"
+height: "185"
+weight: "91"
 birth_date: "1999.03.25"
 age: 26
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Lombez Samatan (2004 - 2013)
-- スタッド・トゥールーザン (2013 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

@@ -3,8 +3,8 @@ title: "クリスチャン・エヴェリット"
 name_en: "Christian EVERITT"
 position: "HO"
 team: "ボルドー・ベグル"
-height: "187.0"
-weight: "106.0"
+height: "187"
+weight: "106"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- シャークス (2023 - 2024)
+- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2023 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

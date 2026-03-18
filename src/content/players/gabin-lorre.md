@@ -3,8 +3,8 @@ title: "ガバン・ロール"
 name_en: "Gabin LORRE"
 position: "FB"
 team: "リヨン"
-height: "182.0"
-weight: "82.0"
+height: "182"
+weight: "82"
 birth_date: "2001.12.23"
 age: 24
 high_school: ""
@@ -24,7 +24,8 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - RCO Salagou Coeur d'Hérault (2006 - 2013)
-- Stade Piscenois (2013 - 2019)
+- Stade Piscenois (2013 - 2014)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2014 - 2017)
+- Stade Piscenois (2017 - 2019)
 - Association Sportive Béziers Hérault (2019 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2025 - )
+- Lyon Olympique Universitaire Rugby (2025 - )

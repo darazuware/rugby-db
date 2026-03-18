@@ -3,8 +3,8 @@ title: "アルチュール・ルティエール"
 name_en: "Arthur RETIÈRE"
 position: "WTB"
 team: "ボルドー・ベグル"
-height: "173.0"
-weight: "80.0"
+height: "173"
+weight: "80"
 birth_date: "1997.08.01"
 age: 28
 high_school: ""
@@ -25,5 +25,5 @@ facebook: ""
 
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - 2016)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2022)
-- スタッド・トゥールーザン (2022 - 2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - 2024)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )

@@ -3,8 +3,8 @@ title: "アントワーヌ・デュポン"
 name_en: "Antoine DUPONT"
 position: "SH"
 team: "トゥールーズ"
-height: "174.0"
-weight: "86.0"
+height: "174"
+weight: "86"
 birth_date: "1996.11.15"
 age: 29
 high_school: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Magnoac FC (2000 - 2011)
 - Rugby Club Auch (2011 - 2014)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2014 - 2017)
-- スタッド・トゥールーザン (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

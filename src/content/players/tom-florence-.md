@@ -6,7 +6,7 @@ team: "オスプリーズ"
 height: "188.0"
 weight: "96.0"
 birth_date: "2003.03.19"
-age: 22
+age: 23
 high_school: ""
 university: ""
 caps: ""

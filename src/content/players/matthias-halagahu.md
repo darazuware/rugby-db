@@ -3,8 +3,8 @@ title: "マティアス・ハラガフ"
 name_en: "Matthias HALAGAHU"
 position: "LO"
 team: "トゥーロン"
-height: "194.0"
-weight: "117.0"
+height: "194"
+weight: "117"
 birth_date: "2001.08.15"
 age: 24
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - CA Fréjus Saint-Raphaël (2006 - 2016)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - )
+- Rugby Club Toulonnais (2016 - )

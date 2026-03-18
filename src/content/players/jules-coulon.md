@@ -3,8 +3,8 @@ title: "ジュール・クーロン"
 name_en: "Jules COULON"
 position: "FL/NO8"
 team: "トゥーロン"
-height: "189.0"
-weight: "105.0"
+height: "189"
+weight: "105"
 birth_date: "2002.07.04"
 age: 23
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - RC Metz (2011 - 2017)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2017 - )
+- Rugby Club Toulonnais (2017 - )

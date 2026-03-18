@@ -3,8 +3,8 @@ title: "ジャコモ・ニコテラ"
 name_en: "Giacomo NICOTERA"
 position: "HO"
 team: "スタッド・フランセ"
-height: "183.0"
-weight: "108.0"
+height: "183"
+weight: "108"
 birth_date: "1996.07.15"
 age: 29
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://x.com/SFParisRugby"
 facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
-- ベネットン (2020 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2020 - 2024)
+- Stade Français Paris Rugby (2024 - )

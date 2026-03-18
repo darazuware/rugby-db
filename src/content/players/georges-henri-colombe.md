@@ -3,8 +3,8 @@ title: "ジョルジュ＝アンリ・コロンブ"
 name_en: "Georges-Henri COLOMBE"
 position: "PR"
 team: "トゥールーズ"
-height: "193.0"
-weight: "142.0"
+height: "193"
+weight: "142"
 birth_date: "1998.04.09"
 age: 27
 high_school: ""
@@ -24,7 +24,10 @@ facebook: ""
 ---
 
 - Racing Nanterre Rugby (2008 - 2011)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2011 - 2022)
-- USON Nevers Rugby (2017 - 2018)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2011 - 2017)
+- USON Nevers Rugby (2017)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018)
+- USON Nevers Rugby (2018)
+- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2025)
-- スタッド・トゥールーザン (2025 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2025 - )

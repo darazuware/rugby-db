@@ -3,8 +3,8 @@ title: "セタリキ・トゥイツヴ"
 name_en: "Setariki TUICUVU"
 position: "CTB"
 team: "トゥーロン"
-height: "179.0"
-weight: "95.0"
+height: "179"
+weight: "95"
 birth_date: "1995.09.07"
 age: 30
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2020)
-- ブリーヴ (2020 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - )
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2019)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
+- CA Brive Corrèze Limousin (2020 - 2023)
+- Rugby Club Toulonnais (2023 - )

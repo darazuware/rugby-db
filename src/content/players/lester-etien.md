@@ -3,8 +3,8 @@ title: "スター・エティアン"
 name_en: "Lester ÉTIEN"
 position: "WTB"
 team: "スタッド・フランセ"
-height: "181.0"
-weight: "102.0"
+height: "181"
+weight: "102"
 birth_date: "1995.06.21"
 age: 30
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rugby Club Massy Essonne (2014 - 2018)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2018 - )
+- Stade Français Paris Rugby (2018 - )

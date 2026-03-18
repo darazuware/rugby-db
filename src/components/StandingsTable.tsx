@@ -96,6 +96,33 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
         });
     }
 
+    // 結果をディビジョン（またはラウンド）ごとにグループ化
+    const resultGroups: { [key: string]: MatchResult[] } = {};
+    const roundGroups: { [key: string]: MatchResult[] } = {};
+    
+    if (results) {
+        results.forEach(r => {
+            // ディビジョン分け（League Oneなど）
+            const div = (r as any).division || 'Default';
+            if (!resultGroups[div]) resultGroups[div] = [];
+            resultGroups[div].push(r);
+
+            // ラウンド分け（Jump to Round用）
+            const round = (r as any).round || '0';
+            const roundKey = `${leagueId}-round-${round}`;
+            if (!roundGroups[roundKey]) roundGroups[roundKey] = [];
+            roundGroups[roundKey].push(r);
+        });
+    }
+
+    // 利用可能なラウンドのリスト（降順）
+    const availableRounds = Object.keys(roundGroups)
+        .sort((a, b) => {
+            const ra = parseInt(a.split('-').pop() || '0');
+            const rb = parseInt(b.split('-').pop() || '0');
+            return rb - ra;
+        });
+
     const renderRows = (items: Standing[]) => (
         items.map((team, index) => {
             const displayName = team.display_name || team.team_name_jp || team.team_name;
@@ -130,9 +157,25 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
         })
     );
 
+    const handleRoundJump = (e: React.ChangeEvent<HTMLSelectElement>) => {
+        const targetId = e.target.value;
+        if (targetId) {
+            const element = document.getElementById(targetId);
+            if (element) {
+                const offset = 120; // ヘッダー分
+                const elementPosition = element.getBoundingClientRect().top;
+                const offsetPosition = elementPosition + window.pageYOffset - offset;
+                window.scrollTo({
+                    top: offsetPosition,
+                    behavior: "smooth"
+                });
+            }
+        }
+    };
+
     return (
         <div className="flex flex-col gap-6">
-                    <div className="bg-card rounded-3xl shadow-xl border border-border-dim/50 overflow-hidden">
+            <div className="bg-card rounded-3xl shadow-xl border border-border-dim/50 overflow-hidden">
                 <div className={`p-4 border-b border-border-dim/20 flex justify-between items-center ${config.bg}`}>
                     <h2 className="text-lg font-black text-white italic tracking-tighter uppercase">
                         {config.name} <span className="text-white/60">順位表</span>
@@ -184,66 +227,110 @@ const StandingsTable: React.FC<Props> = ({ leagueId, standings: rawStandings, re
                 )}
             </div>
 
-            {/* 最新の試合結果 */}
+            {/* 最近の試合結果 */}
             {results && results.length > 0 && (
                 <div className="bg-card rounded-3xl shadow-xl border border-border-dim/50 overflow-hidden">
-                    <div className={`p-4 border-b border-border-dim/20 flex justify-between items-center ${config.bg}`}>
-                        <h2 className="text-lg font-black text-white italic tracking-tighter uppercase">
-                            RECENT <span className="text-white/60">RESULTS</span>
-                        </h2>
-                        <span className="text-[9px] font-black text-white/50 uppercase tracking-widest bg-black/10 px-2 py-0.5 rounded-full">Matches</span>
+                    <div className={`p-4 border-b border-border-dim/20 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 ${config.bg}`}>
+                        <div className="flex items-center gap-2">
+                            <h2 className="text-lg font-black text-white italic tracking-tighter uppercase">
+                                RECENT <span className="text-white/60">RESULTS</span>
+                            </h2>
+                        </div>
+                        
+                        {availableRounds.length > 1 && (
+                            <div className="relative group/jump w-full sm:w-auto">
+                                <select 
+                                    onChange={handleRoundJump}
+                                    className="w-full sm:w-auto bg-black/20 hover:bg-black/30 border border-white/20 rounded-xl px-4 py-1.5 text-[10px] font-black text-white appearance-none cursor-pointer focus:outline-none transition-all uppercase tracking-widest"
+                                >
+                                    <option value="" disabled selected>節を選択 (Jump to Round)</option>
+                                    {availableRounds.map(roundKey => {
+                                        const roundId = roundKey.split('-').pop();
+                                        return (
+                                            <option key={roundKey} value={roundKey}>
+                                                {leagueId === 'league-one' ? `第${roundId}節` : `ROUND ${roundId}`}
+                                            </option>
+                                        );
+                                    })}
+                                </select>
+                                <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-white/40">
+                                    <svg xmlns="http://www.w3.org/2000/svg" className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="m6 9 6 6 6-6"/></svg>
+                                </div>
+                            </div>
+                        )}
                     </div>
-                    <div className="p-4 space-y-6">
-                        {(() => {
-                            // 結果をディビジョンごとにグループ化
-                            const resultGroups: { [key: string]: typeof results } = {};
-                            results.forEach(r => {
-                                const div = (r as any).division || 'Default';
-                                if (!resultGroups[div]) resultGroups[div] = [];
-                                resultGroups[div].push(r);
-                            });
+                    
+                    <div className="p-4 space-y-8">
+                        {Object.keys(resultGroups).sort().map(div => (
+                            <div key={div} className="space-y-6">
+                                {div !== 'Default' && (
+                                    <div className="flex items-center gap-2 mb-2 px-1">
+                                        <span className={`w-1 h-3 ${config.bg} rounded-full`}></span>
+                                        <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest">
+                                            {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
+                                        </span>
+                                    </div>
+                                )}
+                                <div className="space-y-10">
+                                    {(() => {
+                                        // このディビジョンの結果をさらにラウンドごとにグループ化
+                                        const roundsInDiv: { [key: string]: MatchResult[] } = {};
+                                        resultGroups[div].forEach(r => {
+                                            const round = (r as any).round || '0';
+                                            const roundKey = `${leagueId}-round-${round}`;
+                                            if (!roundsInDiv[roundKey]) roundsInDiv[roundKey] = [];
+                                            roundsInDiv[roundKey].push(r);
+                                        });
 
-                            return Object.keys(resultGroups).sort().map(div => (
-                                <div key={div} className="space-y-3">
-                                    {div !== 'Default' && (
-                                        <div className="flex items-center gap-2 mb-2 px-1">
-                                            <span className={`w-1 h-3 ${config.bg} rounded-full`}></span>
-                                            <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest">
-                                                {div === 'D1' ? 'Division 1' : div === 'D2' ? 'Division 2' : div === 'D3' ? 'Division 3' : div}
-                                            </span>
-                                        </div>
-                                    )}
-                                    <div className="space-y-3">
-                                        {resultGroups[div].map((result, idx) => {
-                                            const dateStr = result.date ? new Date(result.date).toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit' }) : '';
+                                        return Object.keys(roundsInDiv).sort((a, b) => {
+                                            const ra = parseInt(a.split('-').pop() || '0');
+                                            const rb = parseInt(b.split('-').pop() || '0');
+                                            return rb - ra;
+                                        }).map(roundKey => {
+                                            const roundId = roundKey.split('-').pop();
                                             return (
-                                                <div key={idx} className="flex items-center justify-between p-3 bg-background rounded-2xl border border-border-dim group hover:border-yellow-200 transition-colors">
-                                                    <div className="flex flex-col items-center flex-1 min-w-0">
-                                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.home_flag}</span>
-                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.home}</span>
-                                                    </div>
-                                                    <div className="flex flex-col items-center px-2 shrink-0">
-                                                        {dateStr && (
-                                                            <span className="text-[7px] font-black text-foreground/40 uppercase mb-0.5 tabular-nums">
-                                                                {dateStr}
-                                                            </span>
-                                                        )}
-                                                        {!dateStr && <span className="text-[8px] font-black text-foreground/20 uppercase italic mb-0.5">VS</span>}
-                                                        <span className="text-base md:text-xl font-black text-foreground tracking-tighter bg-card px-2 py-0.5 rounded-lg border border-border-dim shadow-sm group-hover:bg-yellow-50 dark:group-hover:bg-yellow-900 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
-                                                            {result.score}
+                                                <div key={roundKey} id={roundKey} className="scroll-mt-24">
+                                                    <div className="flex items-center gap-3 mb-4">
+                                                        <span className="text-[10px] font-black text-yellow-500 uppercase italic">
+                                                            {leagueId === 'league-one' ? `第${roundId}節` : `ROUND ${roundId}`}
                                                         </span>
+                                                        <div className="h-px flex-1 bg-border-dim/20"></div>
                                                     </div>
-                                                    <div className="flex flex-col items-center flex-1 min-w-0">
-                                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.away_flag}</span>
-                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.away}</span>
+                                                    <div className="grid gap-3">
+                                                        {roundsInDiv[roundKey].map((result, idx) => {
+                                                            const dateStr = result.date ? new Date(result.date).toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit' }) : '';
+                                                            return (
+                                                                <div key={idx} className="flex items-center justify-between p-3 bg-background rounded-2xl border border-border-dim group hover:border-yellow-200 transition-colors">
+                                                                    <div className="flex flex-col items-center flex-1 min-w-0">
+                                                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.home_flag}</span>
+                                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.home}</span>
+                                                                    </div>
+                                                                    <div className="flex flex-col items-center px-2 shrink-0">
+                                                                        {dateStr && (
+                                                                            <span className="text-[7px] font-black text-foreground/40 uppercase mb-0.5 tabular-nums">
+                                                                                {dateStr}
+                                                                            </span>
+                                                                        )}
+                                                                        {!dateStr && <span className="text-[8px] font-black text-foreground/20 uppercase italic mb-0.5">VS</span>}
+                                                                        <span className="text-base md:text-xl font-black text-foreground tracking-tighter bg-card px-2 py-0.5 rounded-lg border border-border-dim shadow-sm group-hover:bg-yellow-50 dark:group-hover:bg-yellow-900 group-hover:border-yellow-200 transition-colors tabular-nums min-w-[55px] text-center">
+                                                                            {result.score}
+                                                                        </span>
+                                                                    </div>
+                                                                    <div className="flex flex-col items-center flex-1 min-w-0">
+                                                                        <span className="text-base md:text-lg mb-0.5 shrink-0">{result.away_flag}</span>
+                                                                        <span className="text-[9px] md:text-[10px] font-black text-foreground text-center leading-tight truncate w-full">{result.away}</span>
+                                                                    </div>
+                                                                </div>
+                                                            );
+                                                        })}
                                                     </div>
                                                 </div>
                                             );
-                                        })}
-                                    </div>
+                                        });
+                                    })()}
                                 </div>
-                            ));
-                        })()}
+                            </div>
+                        ))}
                     </div>
                 </div>
             )}

@@ -3,8 +3,8 @@ title: "オリヴァー・コーウィー"
 name_en: "Oliver COWIE"
 position: "CTB"
 team: "トゥーロン"
-height: "193.0"
-weight: "95.0"
+height: "193"
+weight: "95"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Club du Golfe (2013 - 2020)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2020 - )
+- Rugby Club Toulonnais (2020 - )

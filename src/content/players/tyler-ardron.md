@@ -3,8 +3,8 @@ title: "タイラー・アードロン"
 name_en: "Tyler ARDRON"
 position: "FL/NO8"
 team: "カストル"
-height: "197.0"
-weight: "112.0"
+height: "197"
+weight: "112"
 birth_date: "1991.06.16"
 age: 34
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2013 - 2017)
-- チーフス (2017 - 2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )

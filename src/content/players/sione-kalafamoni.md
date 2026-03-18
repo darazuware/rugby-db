@@ -3,8 +3,8 @@ title: "シオネ・カラマフォニ"
 name_en: "Sione KALAMAFONI"
 position: "FL/NO8"
 team: "ヴァンヌ"
-height: "196.0"
-weight: "120.0"
+height: "196"
+weight: "120"
 birth_date: "1988.05.18"
 age: 37
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- グロスター (2013 - 2017)
-- レスター・タイガース (2017 - 2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2013 - 2017)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2017 - 2019)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2020 - 2023)
 - Rugby Club Vannes (2023 - )

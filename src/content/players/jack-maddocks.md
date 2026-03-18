@@ -3,8 +3,8 @@ title: "ジャック・マドックス"
 name_en: "Jack MADDOCKS"
 position: "FB"
 team: "ポー"
-height: "194.0"
-weight: "96.0"
+height: "194"
+weight: "96"
 birth_date: "1997.02.05"
 age: 29
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - 🇦🇺 メルボルン・レベルズ (2015 - 2019)
-- ワラターズ (2019 - 2021)
+- New South Wales Waratahs (2019 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

@@ -3,8 +3,8 @@ title: "ギヨーム・マルシャン"
 name_en: "Guillaume MARCHAND"
 position: "HO"
 team: "リヨン"
-height: "183.0"
-weight: "102.0"
+height: "183"
+weight: "102"
 birth_date: "1998.06.05"
 age: 27
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- スタッド・トゥールーザン (2013 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2021 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2021)
+- Lyon Olympique Universitaire Rugby (2021 - )

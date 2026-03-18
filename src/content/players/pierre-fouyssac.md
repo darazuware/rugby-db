@@ -3,8 +3,8 @@ title: "ピエール・フイサック"
 name_en: "Pierre FOUYSSAC"
 position: "CTB"
 team: "クレルモン"
-height: "190.0"
-weight: "110.0"
+height: "190"
+weight: "110"
 birth_date: "1995.03.17"
 age: 31
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Sporting Union Agenais (2010 - 2018)
-- スタッド・トゥールーザン (2018 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

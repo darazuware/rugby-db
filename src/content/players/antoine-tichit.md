@@ -3,8 +3,8 @@ title: "アントワーヌ・ティシ"
 name_en: "Antoine TICHIT"
 position: "PR"
 team: "カストル"
-height: "187.0"
-weight: "118.0"
+height: "187"
+weight: "118"
 birth_date: "1989.06.13"
 age: 36
 high_school: ""
@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 
 - Union Athlétique Gaillacoise (2004 - 2007)
 - Sporting Club Albigeois (2007 - 2008)
-- オヨナ (2008 - 2015)
+- Oyonnax Rugby (2008 - 2015)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2015 - )

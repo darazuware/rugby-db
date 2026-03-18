@@ -3,8 +3,8 @@ title: "マヌ・ツイラギ"
 name_en: "Manu TUILAGI"
 position: "CTB"
 team: "バイヨンヌ"
-height: "185.0"
-weight: "111.0"
+height: "185"
+weight: "111"
 birth_date: "1991.05.18"
 age: 34
 high_school: ""
@@ -23,6 +23,8 @@ twitter: ""
 facebook: ""
 ---
 
-- レスター・タイガース (2013 - 2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2013 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2020 - 2024)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )

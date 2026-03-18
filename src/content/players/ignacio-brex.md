@@ -3,8 +3,8 @@ title: "イグナシオ・ブレックス"
 name_en: "Ignacio BREX"
 position: "CTB"
 team: "トゥーロン"
-height: "189.0"
-weight: "99.0"
+height: "189"
+weight: "99"
 birth_date: "1992.05.26"
 age: 33
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- ベネットン (2017 - 2025)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2017 - 2025)
+- Rugby Club Toulonnais (2025 - )

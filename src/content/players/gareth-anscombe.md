@@ -3,8 +3,8 @@ title: "ガレス・アンスコム"
 name_en: "Gareth ANSCOMBE"
 position: "SO"
 team: "バイヨンヌ"
-height: "184.0"
-weight: "96.0"
+height: "184"
+weight: "96"
 birth_date: "1991.05.10"
 age: 34
 high_school: ""
@@ -23,9 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- チーフス (2013 - 2014)
-- カーディフ (2014 - 2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2014)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2014 - 2019)
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2019 - 2023)
 - sans club (2023 - 2024)
-- グロスター (2024 - 2025)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2024 - 2025)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )

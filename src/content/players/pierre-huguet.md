@@ -3,8 +3,8 @@ title: "ピエール・ユゲ"
 name_en: "Pierre HUGUET"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "194.0"
-weight: "111.0"
+height: "194"
+weight: "111"
 birth_date: "1995.11.05"
 age: 30
 high_school: ""
@@ -28,4 +28,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 - US Dax Rugby Landes (2014 - 2018)
 - US Carcassonne (2018 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- Stade Français Paris Rugby (2024 - )

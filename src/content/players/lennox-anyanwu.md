@@ -3,8 +3,8 @@ title: "レノックス・アニャンウ"
 name_en: "Lennox ANYANWU"
 position: "CTB"
 team: "モンペリエ"
-height: "182.0"
-weight: "102.0"
+height: "182"
+weight: "102"
 birth_date: "2000.11.29"
 age: 25
 high_school: ""
@@ -23,6 +23,9 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- ハレクインズ (2019 - 2025)
-- London Scottish (2022 - 2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2019 - 2022)
+- London Scottish (2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2023)
+- London Scottish (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2023 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

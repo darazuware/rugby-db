@@ -3,8 +3,8 @@ title: "ジョナサン・ダンティ"
 name_en: "Jonathan DANTY"
 position: "CTB"
 team: "ラ・ロシェル"
-height: "181.0"
-weight: "110.0"
+height: "181"
+weight: "110"
 birth_date: "1992.10.07"
 age: 33
 high_school: ""
@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/staderochelais"
 
 - ASPTT Paris (2004 - 2006)
 - Paris Université Club (2006 - 2008)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2008 - 2021)
+- Stade Français Paris Rugby (2008 - 2021)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - )

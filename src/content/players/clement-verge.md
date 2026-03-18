@@ -3,8 +3,8 @@ title: "クレマン・ヴェルジェ"
 name_en: "Clément VERGÉ"
 position: "LO"
 team: "トゥールーズ"
-height: "200.0"
-weight: "123.0"
+height: "200"
+weight: "123"
 birth_date: "2001.09.13"
 age: 24
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Saint-Girons SC Couserans (2007 - 2018)
-- スタッド・トゥールーザン (2018 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

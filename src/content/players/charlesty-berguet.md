@@ -3,8 +3,8 @@ title: "シャルレスティー・ベルゲ"
 name_en: "Charlesty BERGUET"
 position: "PR"
 team: "ヴァンヌ"
-height: "185.0"
-weight: "115.0"
+height: "185"
+weight: "115"
 birth_date: "2000.01.13"
 age: 26
 high_school: ""
@@ -23,6 +23,8 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- Union Sportive Arlequins Perpignanais (2017 - 2022)
-- Stade Montois Rugby Pro (2021 - 2022)
+- Union Sportive Arlequins Perpignanais (2017 - 2021)
+- Stade Montois Rugby Pro (2021)
+- Union Sportive Arlequins Perpignanais (2022)
+- Stade Montois Rugby Pro (2022)
 - Rugby Club Vannes (2022 - )

@@ -3,8 +3,8 @@ title: "リース・ヒューワット"
 name_en: "Reece HEWAT"
 position: "FL/NO8"
 team: "ポー"
-height: "194.0"
-weight: "110.0"
+height: "194"
+weight: "110"
 birth_date: "1997.09.25"
 age: 28
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- レッズ (2016 - 2018)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2016 - 2018)
 - Stade Aurillacois Cantal Auvergne (2018 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

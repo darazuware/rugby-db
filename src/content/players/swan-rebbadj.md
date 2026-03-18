@@ -3,8 +3,8 @@ title: "スワン・レベル"
 name_en: "Swan REBBADJ"
 position: "LO"
 team: "トゥーロン"
-height: "202.0"
-weight: "121.0"
+height: "202"
+weight: "121"
 birth_date: "1995.01.15"
 age: 31
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - RC Port-de-Bouc (2007 - 2012)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2012 - )
+- Rugby Club Toulonnais (2012 - )

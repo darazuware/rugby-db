@@ -3,8 +3,8 @@ title: "ウィル・ローランズ"
 name_en: "Will ROWLANDS"
 position: "LO"
 team: "ラシン92"
-height: "202.0"
-weight: "125.0"
+height: "202"
+weight: "125"
 birth_date: "1991.09.19"
 age: 34
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://x.com/wrowlands45"
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- ワスプス (2015 - 2021)
-- ドラゴンズ (2021 - 2023)
+- Wasps (2015 - 2021)
+- Dragons RFC (2021 - 2023)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )

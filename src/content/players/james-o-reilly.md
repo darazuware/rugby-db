@@ -3,8 +3,8 @@ title: "ジェームズ・オライリー"
 name_en: "James O'REILLY"
 position: "HO"
 team: "ヴァンヌ"
-height: "183.0"
-weight: "106.0"
+height: "183"
+weight: "106"
 birth_date: "1994.11.12"
 age: 31
 high_school: ""
@@ -23,6 +23,18 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- ハリケーンズ (2016 - 2024)
-- ウェリントン (2018 - 2025)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2016 - 2018)
+- Wellington Lions (2018)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
+- Wellington Lions (2019 - 2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2020)
+- Wellington Lions (2020)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- Wellington Lions (2021)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
+- Wellington Lions (2021)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
+- Wellington Lions (2022 - 2023)
+- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
+- Wellington Lions (2024 - 2025)
 - Rugby Club Vannes (2025 - )

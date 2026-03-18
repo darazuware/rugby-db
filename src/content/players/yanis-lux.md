@@ -3,8 +3,8 @@ title: "ヤニス・リュクス"
 name_en: "Yanis LUX"
 position: "PR"
 team: "スタッド・フランセ"
-height: "182.0"
-weight: "100.0"
+height: "182"
+weight: "100"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - RC Neuilly-sur-Marne (2012 - 2018)
 - RC Champs-sur-Marne Val Maubuée (2018 - 2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - )
+- Stade Français Paris Rugby (2020 - )

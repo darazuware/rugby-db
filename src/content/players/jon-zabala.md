@@ -3,8 +3,8 @@ title: "ジョン・サバラ"
 name_en: "Jon ZABALA"
 position: "PR"
 team: "ポー"
-height: "192.0"
-weight: "132.0"
+height: "192"
+weight: "132"
 birth_date: "1996.11.26"
 age: 29
 high_school: ""
@@ -24,8 +24,10 @@ facebook: ""
 ---
 
 - Getxo Rugby (2014 - 2015)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2020)
-- Anglet Olympique Rugby Club (2019 - 2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2015 - 2019)
+- Anglet Olympique Rugby Club (2019)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
+- Anglet Olympique Rugby Club (2020)
 - Stado Tarbes Pyrénées Rugby (2020 - 2021)
 - Association Sportive Béziers Hérault (2021 - 2024)
 - Section Paloise Béarn Pyrénées (2024 - )

@@ -3,8 +3,8 @@ title: "ダンカン・パイアアウア"
 name_en: "Duncan PAIA'AUA"
 position: "CTB"
 team: "ペルピニャン"
-height: "183.0"
-weight: "92.0"
+height: "183"
+weight: "92"
 birth_date: "1995.01.20"
 age: 31
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- レッズ (2014 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - 2025)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2019)
+- Rugby Club Toulonnais (2019 - 2025)
 - Union Sportive Arlequins Perpignanais (2025 - )

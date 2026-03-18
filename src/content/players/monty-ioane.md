@@ -3,8 +3,8 @@ title: "モンティ・イオアネ"
 name_en: "Monty IOANE"
 position: "WTB"
 team: "リヨン"
-height: "180.0"
-weight: "95.0"
+height: "180"
+weight: "95"
 birth_date: "1994.10.30"
 age: 31
 high_school: ""
@@ -23,8 +23,8 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2013 - 2015)
-- ベイ・オブ・プレンティ (2015 - 2017)
-- ベネットン (2017 - 2022)
+- Stade Français Paris Rugby (2013 - 2015)
+- Bay of Plenty Steamers (2015 - 2017)
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2017 - 2022)
 - 🇦🇺 メルボルン・レベルズ (2022 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - )
+- Lyon Olympique Universitaire Rugby (2023 - )

@@ -6,7 +6,7 @@ team: "ヴォーダコム・ブルズ"
 height: "180.0"
 weight: "99.0"
 birth_date: "1997.03.19"
-age: 28
+age: 29
 high_school: ""
 university: ""
 caps: ""

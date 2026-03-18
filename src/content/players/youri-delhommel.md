@@ -3,8 +3,8 @@ title: "ユーリ・デロンメル"
 name_en: "Youri DELHOMMEL"
 position: "HO"
 team: "ポー"
-height: "181.0"
-weight: "101.0"
+height: "181"
+weight: "101"
 birth_date: "1996.03.06"
 age: 30
 high_school: ""
@@ -24,6 +24,8 @@ facebook: ""
 ---
 
 - US Ris-Orangis Rugby (2004 - 2010)
-- Rugby Club Massy Essonne (2010 - 2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018 - 2021)
+- Rugby Club Massy Essonne (2010 - 2018)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018)
+- Rugby Club Massy Essonne (2019)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

@@ -3,8 +3,8 @@ title: "フロリアン・ヴェルアーグ"
 name_en: "Florian VERHAEGHE"
 position: "LO"
 team: "モンペリエ"
-height: "202.0"
-weight: "110.0"
+height: "202"
+weight: "110"
 birth_date: "1997.04.27"
 age: 28
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Union Sportive Montalbanaise (2007 - 2014)
-- スタッド・トゥールーザン (2014 - 2020)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2014 - 2020)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )

@@ -3,8 +3,8 @@ title: "バティスト・セラン"
 name_en: "Baptiste SERIN"
 position: "SH"
 team: "トゥーロン"
-height: "182.0"
-weight: "83.0"
+height: "182"
+weight: "83"
 birth_date: "1994.06.20"
 age: 31
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Parentis Sport Rugby (2004 - 2009)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2009 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - )
+- Rugby Club Toulonnais (2019 - )

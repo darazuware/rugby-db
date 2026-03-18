@@ -3,8 +3,8 @@ title: "マルコス・クレメル"
 name_en: "Marcos KREMER"
 position: "FL/NO8"
 team: "クレルモン"
-height: "195.0"
-weight: "115.0"
+height: "195"
+weight: "115"
 birth_date: "1997.07.30"
 age: 28
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- ハグアレス (2015 - 2020)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2020 - 2023)
+- Jaguares (2015 - 2020)
+- Stade Français Paris Rugby (2020 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )

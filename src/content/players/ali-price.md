@@ -3,8 +3,8 @@ title: "アリ・プライス"
 name_en: "Ali PRICE"
 position: "SH"
 team: "モンペリエ"
-height: "177.0"
-weight: "88.0"
+height: "177"
+weight: "88"
 birth_date: "1993.05.12"
 age: 32
 high_school: ""
@@ -23,6 +23,8 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2014 - 2024)
-- Edimbourg Rugby (2023 - 2025)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2014 - 2023)
+- Edimbourg Rugby (2023)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2024)
+- Edimbourg Rugby (2024 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

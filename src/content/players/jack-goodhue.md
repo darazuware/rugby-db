@@ -3,8 +3,8 @@ title: "ジャック・グッドヒュー"
 name_en: "Jack GOODHUE"
 position: "CTB"
 team: "カストル"
-height: "188.0"
-weight: "102.0"
+height: "188"
+weight: "102"
 birth_date: "1995.06.13"
 age: 30
 high_school: ""
@@ -23,6 +23,16 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- クルセイダーズ (2016 - 2023)
-- ノースランド (2019 - 2023)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2019)
+- Northland Taniwha (2019)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020)
+- Northland Taniwha (2020)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2020 - 2021)
+- Northland Taniwha (2021)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- Northland Taniwha (2022)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2022)
+- Northland Taniwha (2022)
+- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2023)
+- Northland Taniwha (2023)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023 - )

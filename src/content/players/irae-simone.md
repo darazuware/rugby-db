@@ -3,8 +3,8 @@ title: "イラエ・シモーネ"
 name_en: "Irae SIMONE"
 position: "CTB"
 team: "クレルモン"
-height: "193.0"
-weight: "105.0"
+height: "193"
+weight: "105"
 birth_date: "1995.07.10"
 age: 30
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- ワラターズ (2016 - 2018)
-- ブランビーズ (2018 - 2022)
+- New South Wales Waratahs (2016 - 2018)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2018 - 2022)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )

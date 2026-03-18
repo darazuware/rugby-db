@@ -3,8 +3,8 @@ title: "ペニアシ・ダクワガ"
 name_en: "Peniasi DAKUWAQA"
 position: "WTB"
 team: "スタッド・フランセ"
-height: "186.0"
-weight: "95.0"
+height: "186"
+weight: "95"
 birth_date: "1997.04.09"
 age: 28
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Tupapa Maraerenga Panthers (2020 - 2021)
 - Club fidjien (2021 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- Stade Français Paris Rugby (2022 - )

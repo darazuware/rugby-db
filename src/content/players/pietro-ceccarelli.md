@@ -3,8 +3,8 @@ title: "ピエトロ・チェッカレッリ"
 name_en: "Pietro CECCARELLI"
 position: "PR"
 team: "ペルピニャン"
-height: "184.0"
-weight: "128.0"
+height: "184"
+weight: "128"
 birth_date: "1992.02.16"
 age: 34
 high_school: ""
@@ -26,8 +26,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 - Lazio (2011 - 2012)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2014)
 - AS Mâcon Rugby (2014 - 2015)
-- ゼブレ (2015 - 2017)
-- オヨナ (2017 - 2018)
+- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2015 - 2017)
+- Oyonnax Rugby (2017 - 2018)
 - Edimbourg Rugby (2018 - 2020)
-- ブリーヴ (2020 - 2023)
+- CA Brive Corrèze Limousin (2020 - 2023)
 - Union Sportive Arlequins Perpignanais (2023 - )

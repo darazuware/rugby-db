@@ -3,8 +3,8 @@ title: "マティアス・レミュ"
 name_en: "Matias REMUE"
 position: "FB"
 team: "トゥールーズ"
-height: "184.0"
-weight: "86.0"
+height: "184"
+weight: "86"
 birth_date: "2003.03.07"
 age: 23
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Royal Kituro Rugby Club (2013 - 2022)
-- スタッド・トゥールーザン (2022 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2022 - )

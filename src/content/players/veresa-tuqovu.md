@@ -3,8 +3,8 @@ title: "ヴェレサ・トゥコヴ・ラモトタブア"
 name_en: "Veresa Tuqovu RAMOTOTABUA"
 position: "FL/NO8"
 team: "カストル"
-height: "195.0"
-weight: "107.0"
+height: "195"
+weight: "107"
 birth_date: "2000.06.12"
 age: 25
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - 2023)
-- Stade Montois Rugby Pro (2022 - 2024)
-- オヨナ (2024 - 2025)
+- Stade Français Paris Rugby (2019 - 2022)
+- Stade Montois Rugby Pro (2022)
+- Stade Français Paris Rugby (2023)
+- Stade Montois Rugby Pro (2023 - 2024)
+- Oyonnax Rugby (2024 - 2025)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )

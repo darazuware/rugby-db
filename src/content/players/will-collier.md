@@ -3,8 +3,8 @@ title: "ウィル・コリアー"
 name_en: "Will COLLIER"
 position: "PR"
 team: "カストル"
-height: "184.0"
-weight: "120.0"
+height: "184"
+weight: "120"
 birth_date: "1991.05.05"
 age: 34
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- ハレクインズ (2013 - 2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2013 - 2024)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2024 - )

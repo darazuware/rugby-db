@@ -3,8 +3,8 @@ title: "イーサン・デュモルティエ"
 name_en: "Ethan DUMORTIER"
 position: "WTB"
 team: "リヨン"
-height: "192.0"
-weight: "95.0"
+height: "192"
+weight: "95"
 birth_date: "2000.12.29"
 age: 25
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Saint-Savin (2009 - 2014)
 - CS Bourgoin Jallieu Rugby (2014 - 2017)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2017 - )
+- Lyon Olympique Universitaire Rugby (2017 - )

@@ -3,8 +3,8 @@ title: "ペアト・マウヴァカ"
 name_en: "Péato MAUVAKA"
 position: "HO"
 team: "トゥールーズ"
-height: "184.0"
-weight: "112.0"
+height: "184"
+weight: "112"
 birth_date: "1997.01.10"
 age: 29
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- スタッド・トゥールーザン (2013 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

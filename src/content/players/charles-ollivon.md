@@ -3,8 +3,8 @@ title: "シャルル・オリヴォン"
 name_en: "Charles OLLIVON"
 position: "FL/NO8"
 team: "トゥーロン"
-height: "199.0"
-weight: "114.0"
+height: "199"
+weight: "114"
 birth_date: "1993.05.11"
 age: 32
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Saint-Pée UC (2004 - 2009)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2009 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - )
+- Rugby Club Toulonnais (2015 - )

@@ -3,8 +3,8 @@ title: "ガエル・ガルバン"
 name_en: "Gael GALVÁN"
 position: "PR"
 team: "ラ・ロシェル"
-height: "191.0"
-weight: "150.0"
+height: "191"
+weight: "150"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -23,6 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- Pampas XV (2023 - 2024)
-- Pucará (2023 - 2025)
+- Pucará (2023)
+- Pampas XV (2023)
+- Pucará (2024)
+- Pampas XV (2024)
+- Pucará (2024 - 2025)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )

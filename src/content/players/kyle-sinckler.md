@@ -3,8 +3,8 @@ title: "カイル・シンクラー"
 name_en: "Kyle SINCKLER"
 position: "PR"
 team: "トゥーロン"
-height: "183.0"
-weight: "122.0"
+height: "183"
+weight: "122"
 birth_date: "1993.03.30"
 age: 32
 high_school: ""
@@ -23,6 +23,8 @@ twitter: "https://x.com/RCTofficiel"
 facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
-- ハレクインズ (2013 - 2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019 - 2024)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2024 - )
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2013 - 2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2020 - 2024)
+- Rugby Club Toulonnais (2024 - )

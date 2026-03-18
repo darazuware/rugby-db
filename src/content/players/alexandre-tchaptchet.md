@@ -3,8 +3,8 @@ title: "アレクサンドル・チャプチェット"
 name_en: "Alexandre TCHAPTCHET"
 position: "FB"
 team: "リヨン"
-height: "171.0"
-weight: "82.0"
+height: "171"
+weight: "82"
 birth_date: "2001.09.26"
 age: 24
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - Club Omnisports Gargenville (2007 - 2015)
 - Rugby Club Massy Essonne (2015 - 2020)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2020 - )
+- Lyon Olympique Universitaire Rugby (2020 - )

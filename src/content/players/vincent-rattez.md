@@ -3,8 +3,8 @@ title: "ヴァンサン・ラテ"
 name_en: "Vincent RATTEZ"
 position: "WTB"
 team: "リヨン"
-height: "181.0"
-weight: "89.0"
+height: "181"
+weight: "89"
 birth_date: "1992.03.24"
 age: 33
 high_school: ""
@@ -29,4 +29,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 - Racing Club Narbonnais (2011 - 2016)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2020)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - )
+- Lyon Olympique Universitaire Rugby (2023 - )

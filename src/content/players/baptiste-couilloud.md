@@ -3,8 +3,8 @@ title: "バティスト・クイユー"
 name_en: "Baptiste COUILLOUD"
 position: "SH"
 team: "リヨン"
-height: "176.0"
-weight: "83.0"
+height: "176"
+weight: "83"
 birth_date: "1997.07.22"
 age: 28
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2004 - )
+- Lyon Olympique Universitaire Rugby (2004 - )

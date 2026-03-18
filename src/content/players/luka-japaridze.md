@@ -3,8 +3,8 @@ title: "ルカ・ジャパリゼ"
 name_en: "Luka JAPARIDZE"
 position: "PR"
 team: "モンペリエ"
-height: "181.0"
-weight: "126.0"
+height: "181"
+weight: "126"
 birth_date: "1998.09.06"
 age: 27
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - Lelo Saracens Tbilissi (2017 - 2018)
-- ブリーヴ (2018 - 2023)
+- CA Brive Corrèze Limousin (2018 - 2023)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )

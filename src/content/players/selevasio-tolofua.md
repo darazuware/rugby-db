@@ -3,8 +3,8 @@ title: "セレヴァシオ・トロフア"
 name_en: "Selevasio TOLOFUA"
 position: "FL/NO8"
 team: "クレルモン"
-height: "186.0"
-weight: "116.0"
+height: "186"
+weight: "116"
 birth_date: "1997.05.31"
 age: 28
 high_school: ""
@@ -24,6 +24,6 @@ facebook: ""
 ---
 
 - Olympique Marcquois Rugby (2004 - 2007)
-- スタッド・トゥールーザン (2007 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2023 - 2025)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2007 - 2023)
+- Rugby Club Toulonnais (2023 - 2025)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

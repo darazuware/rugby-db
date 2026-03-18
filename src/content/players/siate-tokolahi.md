@@ -3,15 +3,15 @@ title: "シアテ・トコラヒ"
 name_en: "Siate TOKOLAHI"
 position: "PR"
 team: "ポー"
-height: "184.0"
-weight: "116.0"
+height: "184"
+weight: "116"
 birth_date: "1992.03.16"
 age: 34
 high_school: ""
 university: ""
-caps: "Tonga代表 (3 caps)"
+caps: ""
 league_one_caps: "0"
-country: "Tonga"
+country: ""
 nationality: ""
 category: ""
 division: ""
@@ -23,7 +23,10 @@ twitter: ""
 facebook: ""
 ---
 
-- チーフス (2014 - 2016)
-- ハイランダーズ (2016 - 2021)
-- サウスランド (2019 - 2020)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2014 - 2016)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2016 - 2019)
+- Southland Stags (2019)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020)
+- Southland Stags (2020)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

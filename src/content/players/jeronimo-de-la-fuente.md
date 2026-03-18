@@ -3,8 +3,8 @@ title: "ヘロニモ・デ・ラ・フエンテ"
 name_en: "Jerónimo DE LA FUENTE"
 position: "CTB"
 team: "ペルピニャン"
-height: "184.0"
-weight: "96.0"
+height: "184"
+weight: "96"
 birth_date: "1991.02.24"
 age: 35
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- ハグアレス (2015 - 2020)
+- Jaguares (2015 - 2020)
 - Union Sportive Arlequins Perpignanais (2020 - )

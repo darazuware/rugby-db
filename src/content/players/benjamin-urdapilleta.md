@@ -3,8 +3,8 @@ title: "ベンジャミン・ウルダピレッタ"
 name_en: "Benjamin URDAPILLETA"
 position: "SO"
 team: "ペルピニャン"
-height: "178.0"
-weight: "86.0"
+height: "178"
+weight: "86"
 birth_date: "1986.03.11"
 age: 40
 high_school: ""
@@ -23,9 +23,11 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- ハレクインズ (2010 - 2012)
-- オヨナ (2012 - 2015)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2010 - 2012)
+- Oyonnax Rugby (2012 - 2015)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2015 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2025)
-- Club Universitario de Buenos Aires (2024 - 2025)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - 2024)
+- Club Universitario de Buenos Aires (2024)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025)
+- Club Universitario de Buenos Aires (2025)
 - Union Sportive Arlequins Perpignanais (2025 - )

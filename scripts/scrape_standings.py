@@ -40,28 +40,32 @@ def scrape_top14_standings():
         soup = BeautifulSoup(response.text, 'html.parser')
         
         standings = []
-        # 固定ブロック（順位）とスクロールブロック（チーム名・スタッツ）を取得
-        rows = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
+        # 固定ブロック（チーム名）とスクロールブロック（スタッツ）を取得
+        fixed_rows = soup.select('.ranking__fixed-block .table-line--ranking-fixed')
+        scroll_rows = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
         
-        for i, stats_line in enumerate(rows):
-            # 順位とチーム名は同じインデックスの fixed-block から取得するのが確実だが、
-            # HTML構造上、stats_line 内の a タグから情報を取る。
-            # チーム名とリンク
-            link = stats_line.select_one('a.base-link--black')
-            if not link:
-                continue
-            raw_name = link.get_text(strip=True)
-            
-            # 対応する固定ブロックから順位を取得
-            fixed_row = soup.select('.ranking__fixed-block .table-line--ranking-fixed')[i]
+        for i, (fixed_row, stats_line) in enumerate(zip(fixed_rows, scroll_rows)):
+            # 順位
             rank_el = fixed_row.select_one('.ranking-item__rank')
             rank = re.sub(r'\D', '', rank_el.get_text(strip=True)) if rank_el else str(i+1)
             
-            # 統計セルを取得
+            # チーム名
+            name_el = fixed_row.select_one('.club-line__name')
+            if not name_el:
+                # scroll_rows の中の a タグを試行
+                name_el = stats_line.select_one('a.base-link')
+            
+            if not name_el:
+                continue
+                
+            raw_name = name_el.get_text(strip=True)
+            
+            # 統計セルを手動追跡（クラス名が同じためインデックスで判断）
             stats_cells = stats_line.select('.table-line__cell-wrapper--small')
             if len(stats_cells) < 9:
                 continue
             
+            # インデックス予測：0: Points, 1: Played, 2: Won, 3: Drawn, 4: Lost, 8: Diff
             points = stats_cells[0].get_text(strip=True)
             played = stats_cells[1].get_text(strip=True)
             won = stats_cells[2].get_text(strip=True)

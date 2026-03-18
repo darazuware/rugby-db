@@ -3,8 +3,8 @@ title: "ティボー・ドゥベズ"
 name_en: "Thibault DEBAËS"
 position: "SO"
 team: "ヴァンヌ"
-height: "179.0"
-weight: "88.0"
+height: "179"
+weight: "88"
 birth_date: "2001.11.30"
 age: 24
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "French"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2024
 has_scores: true
 instagram: "https://www.instagram.com/allrugbycom/"
 twitter: "https://x.com/AllRugbyCom"
@@ -24,5 +24,7 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - U.S. Morlaàs Rugby (2006 - 2014)
-- Section Paloise Béarn Pyrénées (2014 - 2024)
-- Rugby Club Vannes (2023 - )
+- Section Paloise Béarn Pyrénées (2014 - 2023)
+- Rugby Club Vannes (2023)
+- Section Paloise Béarn Pyrénées (2024)
+- Rugby Club Vannes (2024 - )

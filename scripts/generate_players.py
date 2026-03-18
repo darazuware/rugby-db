@@ -5,8 +5,18 @@ import shutil
 import glob
 import json
 import sys
+import subprocess
 from datetime import datetime
 from team_utils import linkify_career, get_team_info, get_team_link
+
+DISCORD_NOTIFY_SCRIPT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "discord_notify.py")
+
+def notify_discord(title, message, color=0x3498db):
+    try:
+        color_hex = hex(color)
+        subprocess.run(["python3", DISCORD_NOTIFY_SCRIPT, title, message, color_hex], check=True)
+    except Exception as e:
+        print(f"Discord notice failed: {e}")
 
 # CSVフィールドの制限を緩和
 csv.field_size_limit(1000000)
@@ -389,6 +399,12 @@ facebook: "{get_val(['SNS_Facebook']).strip()}"
                 print(f"Error processing row {i+1}: {e}")
 
     print(f"SUCCESS: Generated {generated_count} players. (Skipped {skipped_count} duplicates)")
+    
+    msg = f"全選手の Markdown 生成が完了しました。\n" \
+          f"生成数: {generated_count} 名\n" \
+          f"重複スキップ: {skipped_count} 名\n" \
+          f"サイトの最新化準備が整いました。"
+    notify_discord("📄 選手ページ生成完了", msg, 0x2ecc71)
 
 if __name__ == "__main__":
     main()

@@ -3,8 +3,8 @@ title: "ワジャン・デ・ベネディッティス"
 name_en: "Wayan DE BENEDITTIS"
 position: "PR"
 team: "ヴァンヌ"
-height: "185.0"
-weight: "115.0"
+height: "185"
+weight: "115"
 birth_date: "1999.03.10"
 age: 27
 high_school: ""
@@ -24,6 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - FC Grenoble Rugby (2006 - 2019)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2019 - 2025)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2024 - 2025)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2019 - 2024)
+- Lyon Olympique Universitaire Rugby (2024)
+- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025)
+- Lyon Olympique Universitaire Rugby (2025)
 - Rugby Club Vannes (2025 - )

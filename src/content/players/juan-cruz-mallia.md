@@ -3,8 +3,8 @@ title: "フアン・クルス・マリア"
 name_en: "Juan Cruz MALLÍA"
 position: "FB"
 team: "トゥールーズ"
-height: "182.0"
-weight: "92.0"
+height: "182"
+weight: "92"
 birth_date: "1996.09.11"
 age: 29
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://twitter.com/StadeToulousain?ref_src=twsrc%5Egoogle%7Ctwcamp%5E
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- ハグアレス (2017 - 2020)
-- スタッド・トゥールーザン (2020 - )
+- Jaguares (2017 - 2020)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - )

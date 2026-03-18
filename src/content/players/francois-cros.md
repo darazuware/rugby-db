@@ -3,8 +3,8 @@ title: "フランソワ・クロス"
 name_en: "François CROS"
 position: "FL/NO8"
 team: "トゥールーズ"
-height: "190.0"
-weight: "111.0"
+height: "190"
+weight: "111"
 birth_date: "1994.03.25"
 age: 31
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Seilh Aussonne Fenouillet XV (2004 - 2009)
-- スタッド・トゥールーザン (2009 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2009 - )

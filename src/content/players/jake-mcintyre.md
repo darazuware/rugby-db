@@ -3,8 +3,8 @@ title: "ジェイク・マッキンタイア"
 name_en: "Jake MCINTYRE"
 position: "SO"
 team: "ペルピニャン"
-height: "177.0"
-weight: "88.0"
+height: "177"
+weight: "88"
 birth_date: "1994.04.28"
 age: 31
 high_school: ""
@@ -23,8 +23,10 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- レッズ (2014 - 2017)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2014 - 2017)
 - Sporting Union Agenais (2017 - 2019)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2021)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020 - 2022)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2020)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2020)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021)
+- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
 - Union Sportive Arlequins Perpignanais (2022 - )

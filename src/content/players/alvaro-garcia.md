@@ -3,8 +3,8 @@ title: "アルバロ・ガルシア"
 name_en: "Álvaro GARCIA"
 position: "HO"
 team: "スタッド・フランセ"
-height: "180.0"
-weight: "120.0"
+height: "180"
+weight: "120"
 birth_date: "2003.08.22"
 age: 22
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - UE Santboiana (2021 - 2023)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2023 - )
+- Stade Français Paris Rugby (2023 - )

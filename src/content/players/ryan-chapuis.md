@@ -3,8 +3,8 @@ title: "ライアン・シャピュイ"
 name_en: "Ryan CHAPUIS"
 position: "FL/NO8"
 team: "スタッド・フランセ"
-height: "189.0"
-weight: "105.0"
+height: "189"
+weight: "105"
 birth_date: "1997.12.12"
 age: 28
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Olympique Groslay Enghien Montmorency (2007 - 2012)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2012 - )
+- Stade Français Paris Rugby (2012 - )

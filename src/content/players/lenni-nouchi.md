@@ -3,8 +3,8 @@ title: "レニ・ヌシ"
 name_en: "Lenni NOUCHI"
 position: "FL/NO8"
 team: "モンペリエ"
-height: "194.0"
-weight: "108.0"
+height: "194"
+weight: "108"
 birth_date: "2003.11.24"
 age: 22
 high_school: ""
@@ -23,6 +23,7 @@ twitter: "https://twitter.com/MHR_officiel"
 facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
-- Association Sportive Béziers Hérault (2009 - 2021)
+- Association Sportive Béziers Hérault (2009 - 2011)
 - Servian-Boujan Rugby (2011 - 2014)
+- Association Sportive Béziers Hérault (2014 - 2021)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - )

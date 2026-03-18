@@ -3,8 +3,8 @@ title: "トム・ラフィ"
 name_en: "Tom RAFFY"
 position: "SO"
 team: "クレルモン"
-height: "182.0"
-weight: "83.0"
+height: "182"
+weight: "83"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - Saint-Céré (2009 - 2018)
-- ブリーヴ (2018 - 2025)
+- CA Brive Corrèze Limousin (2018 - 2025)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )

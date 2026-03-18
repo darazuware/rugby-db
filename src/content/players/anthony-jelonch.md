@@ -3,8 +3,8 @@ title: "アントニー・ジュロンシュ"
 name_en: "Anthony JELONCH"
 position: "FL/NO8"
 team: "トゥールーズ"
-height: "195.0"
-weight: "108.0"
+height: "195"
+weight: "108"
 birth_date: "1996.07.28"
 age: 29
 high_school: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 - Vic-Fezensac (2004 - 2012)
 - Rugby Club Auch (2012 - 2014)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2014 - 2021)
-- スタッド・トゥールーザン (2021 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2021 - )

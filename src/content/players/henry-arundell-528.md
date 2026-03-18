@@ -1,0 +1,26 @@
+---
+title: "Henry Arundell"
+name_en: "Henry Arundell"
+position: "Wing"
+team: "バース・ラグビー"
+height: ""
+weight: ""
+birth_date: "2002.11.08"
+age: 23
+high_school: ""
+university: ""
+caps: ""
+league_one_caps: "0"
+country: ""
+nationality: ""
+category: ""
+division: ""
+league: "premiership"
+joined_year: 2025
+has_scores: false
+instagram: ""
+twitter: ""
+facebook: ""
+---
+
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2025 - )

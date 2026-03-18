@@ -3,8 +3,8 @@ title: "ニック・ショーナート"
 name_en: "Nick SCHONERT"
 position: "PR"
 team: "ヴァンヌ"
-height: "189.0"
-weight: "123.0"
+height: "189"
+weight: "123"
 birth_date: "1991.09.20"
 age: 34
 high_school: ""
@@ -23,7 +23,9 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- ウスター・ウォリアーズ (2015 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2021 - 2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024 - 2025)
+- Worcester Warriors (2015 - 2021)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2021 - 2024)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2025)
+- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025)
 - Rugby Club Vannes (2025 - )

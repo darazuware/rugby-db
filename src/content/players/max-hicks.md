@@ -3,8 +3,8 @@ title: "マックス・ヒックス"
 name_en: "Max HICKS"
 position: "FL/NO8"
 team: "ペルピニャン"
-height: "199.0"
-weight: "112.0"
+height: "199"
+weight: "112"
 birth_date: "1999.09.15"
 age: 26
 high_school: ""
@@ -23,6 +23,17 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- タスマン (2020 - 2024)
-- ハイランダーズ (2021 - 2024)
+- Tasman Mako (2020 - 2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2021)
+- Tasman Mako (2021)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
+- Tasman Mako (2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2022)
+- Tasman Mako (2022)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- Tasman Mako (2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2023)
+- Tasman Mako (2023)
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2024)
+- Tasman Mako (2024)
 - Union Sportive Arlequins Perpignanais (2024 - )

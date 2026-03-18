@@ -3,8 +3,8 @@ title: "ジュリアン・マルシャン"
 name_en: "Julien MARCHAND"
 position: "HO"
 team: "トゥールーズ"
-height: "181.0"
-weight: "110.0"
+height: "181"
+weight: "110"
 birth_date: "1995.05.10"
 age: 30
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - US Montréjeau Gourdan Polignan XV (2005 - 2010)
-- スタッド・トゥールーザン (2010 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2010 - )

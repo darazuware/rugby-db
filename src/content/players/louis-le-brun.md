@@ -3,8 +3,8 @@ title: "ルイ・ル・ブラン"
 name_en: "Louis LE BRUN"
 position: "SO"
 team: "カストル"
-height: "188.0"
-weight: "100.0"
+height: "188"
+weight: "100"
 birth_date: "2002.02.28"
 age: 24
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - RC Hyères Carqueiranne La Crau (2007 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2020)
+- Rugby Club Toulonnais (2015 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )

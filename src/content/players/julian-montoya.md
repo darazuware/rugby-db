@@ -3,8 +3,8 @@ title: "フリアン・モントージャ"
 name_en: "Julián MONTOYA"
 position: "HO"
 team: "ポー"
-height: "183.0"
-weight: "113.0"
+height: "183"
+weight: "113"
 birth_date: "1993.10.29"
 age: 32
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- ハグアレス (2015 - 2020)
-- レスター・タイガース (2020 - 2025)
+- Jaguares (2015 - 2020)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020 - 2025)
 - Section Paloise Béarn Pyrénées (2025 - )

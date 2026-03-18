@@ -3,8 +3,8 @@ title: "フロラン・ヴァンヴェルベルグ"
 name_en: "Florent VANVERBERGHE"
 position: "LO"
 team: "カストル"
-height: "198.0"
-weight: "120.0"
+height: "198"
+weight: "120"
 birth_date: "2000.07.22"
 age: 25
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2006 - 2020)
+- Rugby Club Toulonnais (2006 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )

@@ -3,8 +3,8 @@ title: "マチュー・ウヒラ"
 name_en: "Matthieu UHILA"
 position: "LO"
 team: "モンペリエ"
-height: "200.0"
-weight: "113.0"
+height: "200"
+weight: "113"
 birth_date: "2002.04.30"
 age: 23
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "Voir"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2023
+joined_year: 2025
 has_scores: true
 instagram: "https://www.instagram.com/mhr_officiel"
 twitter: "https://twitter.com/MHR_officiel"
@@ -24,5 +24,6 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - RC du Mont-Dore (2018 - 2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2026)
-- Rugby Club Vannes (2023 - )
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2023)
+- Rugby Club Vannes (2023 - 2025)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

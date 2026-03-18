@@ -100,12 +100,16 @@ const popularPlayers = (rankingData as any[]) || [];
       <script is:inline>
         const select = document.getElementById('round-jump-select');
         select?.addEventListener('change', (e) => {
-          const target = e.target.value;
-          if (target) {
-            window.location.hash = target;
-            setTimeout(() => {
-              window.scrollBy(0, -120);
-            }, 10);
+          const targetId = e.target.value.replace('#', '');
+          const element = document.getElementById(targetId);
+          if (element) {
+            const offset = 120; // ヘッダー分
+            const elementPosition = element.getBoundingClientRect().top;
+            const offsetPosition = elementPosition + window.pageYOffset - offset;
+            window.scrollTo({
+              top: offsetPosition,
+              behavior: "smooth"
+            });
           }
         });
 

@@ -3,8 +3,8 @@ title: "ヴァンサン・ジュディチェリ"
 name_en: "Vincent GIUDICELLI"
 position: "HO"
 team: "バイヨンヌ"
-height: "184.0"
-weight: "104.0"
+height: "184"
+weight: "104"
 birth_date: "1997.06.25"
 age: 28
 high_school: ""
@@ -23,6 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2023)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2016 - 2017)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2016)
+- Lyon Olympique Universitaire Rugby (2016 - 2017)
+- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - 2023)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

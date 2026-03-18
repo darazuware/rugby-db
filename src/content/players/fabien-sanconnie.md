@@ -3,8 +3,8 @@ title: "ファビアン・サンコニ"
 name_en: "Fabien SANCONNIE"
 position: "FL/NO8"
 team: "ラシン92"
-height: "195.0"
-weight: "114.0"
+height: "195"
+weight: "114"
 birth_date: "1995.02.21"
 age: 31
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5
 facebook: "https://www.facebook.com/Racing92Officiel/"
 ---
 
-- ブリーヴ (2010 - 2018)
+- CA Brive Corrèze Limousin (2010 - 2018)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - )

@@ -3,8 +3,8 @@ title: "ティボー・モタッシ"
 name_en: "Thibaut MOTASSI"
 position: "SH"
 team: "スタッド・フランセ"
-height: "175.0"
-weight: "79.0"
+height: "175"
+weight: "79"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Rueil Athlétic Club Rugby (2013 - 2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - )
+- Stade Français Paris Rugby (2019 - )

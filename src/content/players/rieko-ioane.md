@@ -6,7 +6,7 @@ team: "レンスター・ラグビー"
 height: "189.0"
 weight: "103.0"
 birth_date: "1997.03.18"
-age: 28
+age: 29
 high_school: ""
 university: ""
 caps: "New Zealand"

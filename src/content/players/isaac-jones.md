@@ -5,8 +5,8 @@ position: "PR"
 team: "カーディフ・ラグビー"
 height: ""
 weight: ""
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 high_school: ""
 university: ""
 caps: ""

@@ -3,8 +3,8 @@ title: "スリアシ・ヴニヴァル"
 name_en: "Suliasi VUNIVALU"
 position: "WTB"
 team: "ラ・ロシェル"
-height: "192.0"
-weight: "102.0"
+height: "192"
+weight: "102"
 birth_date: "1995.11.27"
 age: 30
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/staderochelais"
 ---
 
 - Melbourne Storm (2015 - 2020)
-- レッズ (2020 - 2024)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2020 - 2024)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )

@@ -3,8 +3,8 @@ title: "ドノヴァン・タオフィフェヌア"
 name_en: "Donovan TAOFIFENUA"
 position: "WTB"
 team: "モンペリエ"
-height: "179.0"
-weight: "84.0"
+height: "179"
+weight: "84"
 birth_date: "1999.03.30"
 age: 26
 high_school: ""
@@ -24,8 +24,9 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - US Mouguerre (2004 - 2005)
-- Union Sportive Athlétique de Limoges (2005 - 2014)
+- Union Sportive Athlétique de Limoges (2005 - 2010)
 - JA Isle Rugby (2010 - 2013)
+- Union Sportive Athlétique de Limoges (2013 - 2014)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2020)
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - 2025)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )

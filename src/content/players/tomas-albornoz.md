@@ -3,8 +3,8 @@ title: "トマス・アルボルノス"
 name_en: "Tomás ALBORNOZ"
 position: "SO"
 team: "トゥーロン"
-height: "177.0"
-weight: "82.0"
+height: "177"
+weight: "82"
 birth_date: "1997.09.17"
 age: 28
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "Argentine"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2025
+joined_year: 2026
 has_scores: true
 instagram: "https://www.instagram.com/rctofficiel/#"
 twitter: "https://x.com/RCTofficiel"
@@ -24,7 +24,9 @@ facebook: "https://www.facebook.com/RCTofficiel"
 ---
 
 - Tucumán Rugby Club (2015 - 2019)
-- ハグアレス (2019 - 2020)
+- Jaguares (2019 - 2020)
 - Jaguares XV (2020 - 2021)
-- ベネットン (2021 - 2026)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2025 - )
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2021 - 2025)
+- Rugby Club Toulonnais (2025)
+- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2026)
+- Rugby Club Toulonnais (2026 - )

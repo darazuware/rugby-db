@@ -3,8 +3,8 @@ title: "ヤクバ・カマラ"
 name_en: "Yacouba CAMARA"
 position: "FL/NO8"
 team: "モンペリエ"
-height: "195.0"
-weight: "112.0"
+height: "195"
+weight: "112"
 birth_date: "1994.06.02"
 age: 31
 high_school: ""
@@ -25,5 +25,5 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 
 - AC Bobigny 93 (2006 - 2010)
 - Rugby Club Massy Essonne (2010 - 2013)
-- スタッド・トゥールーザン (2013 - 2017)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2017)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - )

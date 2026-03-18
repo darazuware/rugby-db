@@ -3,8 +3,8 @@ title: "エマニュエル・メアフー"
 name_en: "Emmanuel MEAFOU"
 position: "LO"
 team: "トゥールーズ"
-height: "202.0"
-weight: "142.0"
+height: "202"
+weight: "142"
 birth_date: "1998.07.12"
 age: 27
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - New South Wales Country Eagles (2017 - 2018)
-- スタッド・トゥールーザン (2018 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - )

@@ -3,8 +3,8 @@ title: "ピエール＝アンリ・アザゴ"
 name_en: "Pierre-Henri AZAGOH"
 position: "LO"
 team: "スタッド・フランセ"
-height: "198.0"
-weight: "112.0"
+height: "198"
+weight: "112"
 birth_date: "1998.07.25"
 age: 27
 high_school: ""
@@ -25,4 +25,4 @@ facebook: ""
 
 - Rugby Melun Combs Senart 77 (2008 - 2013)
 - Rugby Club Massy Essonne (2013 - 2019)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2019 - )
+- Stade Français Paris Rugby (2019 - )

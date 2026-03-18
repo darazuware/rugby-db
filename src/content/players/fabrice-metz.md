@@ -3,8 +3,8 @@ title: "ファブリス・メッツ"
 name_en: "Fabrice METZ"
 position: "LO"
 team: "ヴァンヌ"
-height: "198.0"
-weight: "127.0"
+height: "198"
+weight: "127"
 birth_date: "1991.01.23"
 age: 35
 high_school: ""
@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - 🇫🇷 [ラシン92](/teams/top14/racing-92) (2010 - 2015)
-- オヨナ (2015 - 2016)
+- Oyonnax Rugby (2015 - 2016)
 - Section Paloise Béarn Pyrénées (2016 - 2024)
 - Rugby Club Vannes (2024 - )

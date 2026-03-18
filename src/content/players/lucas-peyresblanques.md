@@ -3,8 +3,8 @@ title: "ルカス・ペレスブランク"
 name_en: "Lucas PEYRESBLANQUES"
 position: "HO"
 team: "スタッド・フランセ"
-height: "181.0"
-weight: "103.0"
+height: "181"
+weight: "103"
 birth_date: "1998.01.20"
 age: 28
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 
 - Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013)
 - Biarritz Olympique Pays Basque (2013 - 2022)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2022 - )
+- Stade Français Paris Rugby (2022 - )

@@ -3,8 +3,8 @@ title: "カルビン・グルグ"
 name_en: "Kalvin GOURGUES"
 position: "CTB"
 team: "トゥールーズ"
-height: "184.0"
-weight: "97.0"
+height: "184"
+weight: "97"
 birth_date: "//2005"
 age: null
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Grenade Sports (2010 - 2019)
-- スタッド・トゥールーザン (2019 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2019 - )

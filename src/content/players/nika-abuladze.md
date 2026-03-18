@@ -3,8 +3,8 @@ title: "ニカ・アブラゼ"
 name_en: "Nika ABULADZE"
 position: "PR"
 team: "モンペリエ"
-height: "187.0"
-weight: "126.0"
+height: "187"
+weight: "126"
 birth_date: "1995.08.20"
 age: 30
 high_school: ""
@@ -24,6 +24,8 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 ---
 
 - RC Kochebi (2020 - 2021)
-- Black Lion (2021 - 2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022 - 2024)
+- Black Lion (2021 - 2022)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2022)
+- Black Lion (2023)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

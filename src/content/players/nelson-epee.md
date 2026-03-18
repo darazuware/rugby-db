@@ -3,8 +3,8 @@ title: "ネルソン・エペ"
 name_en: "Nelson ÉPÉE"
 position: "WTB"
 team: "トゥールーズ"
-height: "174.0"
-weight: "80.0"
+height: "174"
+weight: "80"
 birth_date: "2001.02.20"
 age: 25
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - U.A. Saverdun (2008 - 2017)
-- スタッド・トゥールーザン (2017 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2017 - )

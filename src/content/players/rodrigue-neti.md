@@ -3,8 +3,8 @@ title: "ロドリグ・ネティ"
 name_en: "Rodrigue NETI"
 position: "PR"
 team: "トゥールーズ"
-height: "185.0"
-weight: "124.0"
+height: "185"
+weight: "124"
 birth_date: "1995.04.26"
 age: 30
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
 - Union Rugby Club Dumbéa (2010 - 2012)
-- スタッド・トゥールーザン (2012 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - )

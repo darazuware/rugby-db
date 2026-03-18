@@ -3,8 +3,8 @@ title: "ベカ・ギガシヴィリ"
 name_en: "Beka GIGASHVILI"
 position: "PR"
 team: "トゥーロン"
-height: "179.0"
-weight: "118.0"
+height: "179"
+weight: "118"
 birth_date: "1992.02.17"
 age: 34
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 
 - Stade Olympique Chambéry (2015 - 2017)
 - FC Grenoble Rugby (2017 - 2019)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2019 - )
+- Rugby Club Toulonnais (2019 - )

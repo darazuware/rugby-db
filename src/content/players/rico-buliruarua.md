@@ -3,8 +3,8 @@ title: "リコ・ブリルアルア"
 name_en: "Riko BULIRUARUA"
 position: "CTB"
 team: "ペルピニャン"
-height: "186.0"
-weight: "106.0"
+height: "186"
+weight: "106"
 birth_date: "1997.01.23"
 age: 29
 high_school: ""
@@ -23,8 +23,8 @@ twitter: "https://x.com/AllRugbyCom"
 facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2016 - 2019)
-- ブリーヴ (2019 - 2021)
+- Rugby Club Toulonnais (2016 - 2019)
+- CA Brive Corrèze Limousin (2019 - 2021)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
 - Union Sportive Arlequins Perpignanais (2024 - )

@@ -3,8 +3,8 @@ title: "ジャーメイン・エインズリー"
 name_en: "Jermaine AINSLEY"
 position: "PR"
 team: "リヨン"
-height: "181.0"
-weight: "127.0"
+height: "181"
+weight: "127"
 birth_date: "1995.08.08"
 age: 30
 high_school: ""
@@ -25,6 +25,5 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2015 - 2017)
 - 🇦🇺 メルボルン・レベルズ (2017 - 2020)
-- オタゴ (2020 - 2023)
-- ハイランダーズ (2020 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2024 - )
+- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2020 - 2024)
+- Lyon Olympique Universitaire Rugby (2024 - )

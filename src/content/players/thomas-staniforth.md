@@ -3,8 +3,8 @@ title: "トム・スタニフォース"
 name_en: "Tom STANIFORTH"
 position: "LO"
 team: "カストル"
-height: "198.0"
-weight: "124.0"
+height: "198"
+weight: "124"
 birth_date: "1994.08.13"
 age: 31
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- ブランビーズ (2013 - 2017)
-- ワラターズ (2017 - 2020)
+- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2013 - 2017)
+- New South Wales Waratahs (2017 - 2020)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )

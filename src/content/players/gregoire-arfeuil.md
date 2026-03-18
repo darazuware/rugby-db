@@ -3,8 +3,8 @@ title: "グレゴワール・アルフイユ"
 name_en: "Grégoire ARFEUIL"
 position: "WTB"
 team: "ポー"
-height: "194.0"
-weight: "89.0"
+height: "194"
+weight: "89"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -24,6 +24,7 @@ facebook: ""
 ---
 
 - Aurore Rugby Club Vitré (2014 - 2015)
-- US Lectoure (2015 - 2021)
+- US Lectoure (2015 - 2019)
 - Sporting Union Agenais (2019 - 2020)
+- US Lectoure (2020 - 2021)
 - Section Paloise Béarn Pyrénées (2021 - )

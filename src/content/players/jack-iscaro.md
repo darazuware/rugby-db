@@ -3,8 +3,8 @@ title: "ジャック・イスカロ"
 name_en: "Jack ISCARO"
 position: "PR"
 team: "スタッド・フランセ"
-height: "185.0"
-weight: "122.0"
+height: "185"
+weight: "122"
 birth_date: "1997.08.04"
 age: 28
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - Old Glory DC RFC (2018 - 2025)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2025 - )
+- Stade Français Paris Rugby (2025 - )

@@ -10,6 +10,7 @@ import standingsData from "../../../../data/standings.json";
 import resultsData from "../../../../data/results_2026.json";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
+import { groupByRound } from "../../../utils/result_utils";
 
 export async function getStaticPaths() {
     return [
@@ -75,7 +76,11 @@ const isURC = league === "urc";
 
 const rawStandings = leagueData?.standings || [];
 const fullResults = (resultsData as any)[league || ""] || [];
-const results = fullResults.slice(0, 20); // 最新20件を表示（D1/D2/D3をカバーするため拡大）
+const allResults = fullResults.map((r: any) => ({
+    ...r,
+    round: r.round || "0"
+}));
+const results = fullResults.slice(0, 20); // 念のため残すが StandingsTable には allResults を渡す
 
 const standings = rawStandings.map((s: any) => {
     const mapping = getTeamMapping(s.team_name);
@@ -106,7 +111,7 @@ const teamToDivision: Record<string, string> = {};
 });
 
 // Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
-const initialPlayers = allPlayersRaw.map((p) => {
+const initialPlayers = allPlayersRaw.map((p: any) => {
     const division =
         (p.data.team ? teamToDivision[p.data.team] : "") ||
         p.data.division ||
@@ -130,12 +135,31 @@ const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
 };
 const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
+
+// サイドバー用のラウンド情報
+const groupedForSidebar = groupByRound(league || "", fullResults);
+const roundsForSidebar = groupedForSidebar.map(g => ({
+    value: `#${league}-round-${g.round}`,
+    text: league === 'league-one' ? `第${g.round}節` : `ROUND ${g.round}`
+}));
 ---
 
 <Layout
     title={`${safeLeagueName} チーム一覧・最新順位・選手名鑑 | RUGBY PICKS`}
     description={`${safeLeagueName}（${leagueTitle}）の最新順位、全所属クラブのチーム情報、および登録選手のロースター・スタッツ検索。公式にはない高度なフィルタリング機能を備えたデータベース。`}
+    sidebarType="results"
+    activeLeague={league}
 >
+    <script is:inline define:vars={{ league, roundsForSidebar }}>
+        // サイドバーのドロップダウンを初期化
+        window.addEventListener('DOMContentLoaded', () => {
+            if (roundsForSidebar && roundsForSidebar.length > 0) {
+                window.dispatchEvent(new CustomEvent('leagueFilterUpdated', { 
+                    detail: { league, rounds: roundsForSidebar } 
+                }));
+            }
+        });
+    </script>
     <main class="bg-background min-h-screen py-12 px-4">
         <div class="max-w-7xl mx-auto">
             <header class="mb-12">
@@ -273,9 +297,10 @@ const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeL
 
                     <div class="max-w-5xl mx-auto">
                         <StandingsTable
+                            client:load
                             leagueId={league || ""}
                             standings={standings}
-                            results={results}
+                            results={allResults}
                         />
                         <div
                             class="mt-6 p-6 bg-yellow-400/5 rounded-2xl border border-yellow-400/10 italic text-xs font-bold text-yellow-600/80 text-center"

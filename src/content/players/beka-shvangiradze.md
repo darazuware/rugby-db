@@ -3,8 +3,8 @@ title: "ベカ・シュヴァンギラゼ"
 name_en: "Beka SHVANGIRADZE"
 position: "FL/NO8"
 team: "リヨン"
-height: "191.0"
-weight: "104.0"
+height: "191"
+weight: "104"
 birth_date: "2002.06.12"
 age: 23
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - RC Aia Kutaisi (2019 - 2020)
 - Stade Aurillacois Cantal Auvergne (2020 - 2024)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2024 - )
+- Lyon Olympique Universitaire Rugby (2024 - )

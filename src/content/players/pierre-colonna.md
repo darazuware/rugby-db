@@ -3,8 +3,8 @@ title: "ピエール・コロンナ"
 name_en: "Pierre COLONNA"
 position: "HO"
 team: "カストル"
-height: "188.0"
-weight: "113.0"
+height: "188"
+weight: "113"
 birth_date: "2001.06.14"
 age: 24
 high_school: ""
@@ -24,5 +24,5 @@ facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
 - Cahors (2012 - 2016)
-- スタッド・トゥールーザン (2016 - 2017)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2016 - 2017)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2017 - )

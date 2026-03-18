@@ -3,8 +3,8 @@ title: "レミ・ピケット"
 name_en: "Rémi PICQUETTE"
 position: "LO"
 team: "ポー"
-height: "200.0"
-weight: "117.0"
+height: "200"
+weight: "117"
 birth_date: "1995.02.23"
 age: 31
 high_school: ""
@@ -24,6 +24,7 @@ facebook: ""
 ---
 
 - Lille Métropole Rugby (2012 - 2014)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2024)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2014 - 2017)
 - Rugby Club Vannes (2017 - 2021)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2021 - 2024)
 - Section Paloise Béarn Pyrénées (2024 - )

@@ -3,8 +3,8 @@ title: "セバスチャン・ベジー"
 name_en: "Sébastien BÉZY"
 position: "SH"
 team: "クレルモン"
-height: "174.0"
-weight: "78.0"
+height: "174"
+weight: "78"
 birth_date: "1991.11.22"
 age: 34
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - COM Bagneux (2004 - 2006)
-- スタッド・トゥールーザン (2006 - 2020)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2006 - 2020)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - )

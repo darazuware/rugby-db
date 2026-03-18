@@ -3,8 +3,8 @@ title: "サンティアゴ・チョコバレス"
 name_en: "Santiago CHOCOBARES"
 position: "CTB"
 team: "トゥールーズ"
-height: "188.0"
-weight: "100.0"
+height: "188"
+weight: "100"
 birth_date: "1999.03.31"
 age: 26
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://twitter.com/santiagochocob1"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- ハグアレス (2018 - 2020)
-- スタッド・トゥールーザン (2020 - )
+- Jaguares (2018 - 2020)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - )

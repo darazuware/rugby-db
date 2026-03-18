@@ -3,8 +3,8 @@ title: "アルタン・ディレイン"
 name_en: "Ultan DILLANE"
 position: "LO"
 team: "ラ・ロシェル"
-height: "198.0"
-weight: "115.0"
+height: "198"
+weight: "115"
 birth_date: "1993.11.09"
 age: 32
 high_school: ""
@@ -23,5 +23,5 @@ twitter: "https://www.twitter.com/Ultan_Dillane"
 facebook: "https://www.facebook.com/staderochelais"
 ---
 
-- コナート (2014 - 2022)
+- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2014 - 2022)
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - )

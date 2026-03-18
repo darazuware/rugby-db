@@ -3,8 +3,8 @@ title: "レオン・ダリカレール"
 name_en: "Léon DARRICARRÈRE"
 position: "CTB"
 team: "クレルモン"
-height: "182.0"
-weight: "102.0"
+height: "182"
+weight: "102"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -24,6 +24,7 @@ facebook: ""
 ---
 
 - 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - 2011)
-- Stade Montois Rugby Pro (2011 - 2021)
+- Stade Montois Rugby Pro (2011 - 2013)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2013 - 2016)
+- Stade Montois Rugby Pro (2016 - 2021)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - )

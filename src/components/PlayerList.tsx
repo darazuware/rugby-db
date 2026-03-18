@@ -822,7 +822,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                             <span className="text-[18px] leading-none">{player.data.age}<span className="text-[10px] ml-0.5 font-bold">歳</span></span>
                                         </div>
                                         <div className="flex flex-col text-right">
-                                            <span className="text-[10px] text-foreground/40 font-bold">詳細を見る →</span>
+                                            <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
                                         </div>
                                     </div>
                             </a>

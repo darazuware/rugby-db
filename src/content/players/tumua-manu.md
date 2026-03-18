@@ -3,8 +3,8 @@ title: "トゥムア・マヌ"
 name_en: "Tumua MANU"
 position: "CTB"
 team: "ポー"
-height: "183.0"
-weight: "97.0"
+height: "183"
+weight: "97"
 birth_date: "1993.04.18"
 age: 32
 high_school: ""
@@ -23,7 +23,9 @@ twitter: ""
 facebook: ""
 ---
 
-- ブルーズ (2017 - 2018)
-- チーフス (2018 - 2020)
-- オークランド (2019 - 2020)
+- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
+- Auckland (2019)
+- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
+- Auckland (2020)
 - Section Paloise Béarn Pyrénées (2020 - )

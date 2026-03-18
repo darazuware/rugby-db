@@ -3,8 +3,8 @@ title: "サシャ・ゼゲール"
 name_en: "Sacha ZEGUEUR"
 position: "FL/NO8"
 team: "ポー"
-height: "192.0"
-weight: "108.0"
+height: "192"
+weight: "108"
 birth_date: "1999.06.21"
 age: 26
 high_school: ""
@@ -23,5 +23,5 @@ twitter: ""
 facebook: ""
 ---
 
-- オヨナ (2010 - 2022)
+- Oyonnax Rugby (2010 - 2022)
 - Section Paloise Béarn Pyrénées (2022 - )

@@ -3,8 +3,8 @@ title: "ジョ・ケレ＝カラバ"
 name_en: "Joé QUERE-KARABA"
 position: "FL/NO8"
 team: "トゥーロン"
-height: "183.0"
-weight: "97.0"
+height: "183"
+weight: "97"
 birth_date: "//2004"
 age: null
 high_school: ""
@@ -26,4 +26,4 @@ facebook: "https://www.facebook.com/RCTofficiel"
 - RC Canton Garde-Pradet (2009 - 2011)
 - RC Hyères Carqueiranne La Crau (2011 - 2019)
 - Antony Métro 92 (2019 - 2021)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2021 - )
+- Rugby Club Toulonnais (2021 - )

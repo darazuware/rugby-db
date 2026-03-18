@@ -3,8 +3,8 @@ title: "レミ・バジェ"
 name_en: "Rémy BAGET"
 position: "WTB"
 team: "カストル"
-height: "182.0"
-weight: "89.0"
+height: "182"
+weight: "89"
 birth_date: "1997.07.27"
 age: 28
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://twitter.com/CastresRugby"
 facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
 ---
 
-- スタッド・トゥールーザン (2014 - 2018)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2014 - 2018)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2024)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2024 - )

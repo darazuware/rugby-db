@@ -3,8 +3,8 @@ title: "トマ・セイト"
 name_en: "Thomas CEYTE"
 position: "LO"
 team: "クレルモン"
-height: "198.0"
-weight: "120.0"
+height: "198"
+weight: "120"
 birth_date: "1991.02.13"
 age: 35
 high_school: ""
@@ -24,8 +24,10 @@ facebook: ""
 ---
 
 - RC Aubenas Vals (2004 - 2015)
-- Association Sportive Béziers Hérault (2015 - 2016)
-- US Dax Rugby Landes (2015 - 2017)
+- Association Sportive Béziers Hérault (2015)
+- US Dax Rugby Landes (2015)
+- Association Sportive Béziers Hérault (2016)
+- US Dax Rugby Landes (2016 - 2017)
 - USON Nevers Rugby (2017 - 2022)
 - 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )

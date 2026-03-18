@@ -3,8 +3,8 @@ title: "マルタン・パージュ＝ルロ"
 name_en: "Martin PAGE-RELO"
 position: "SH"
 team: "ボルドー・ベグル"
-height: "173.0"
-weight: "77.0"
+height: "173"
+weight: "77"
 birth_date: "1999.01.06"
 age: 27
 high_school: ""
@@ -24,7 +24,8 @@ facebook: ""
 ---
 
 - US L'Isle Jourdain (2010 - 2012)
-- スタッド・トゥールーザン (2012 - 2023)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2012 - 2020)
 - US Carcassonne (2020 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2023 - 2025)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2021 - 2023)
+- Lyon Olympique Universitaire Rugby (2023 - 2025)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )

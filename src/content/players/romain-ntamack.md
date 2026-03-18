@@ -3,8 +3,8 @@ title: "ロマン・ンタマック"
 name_en: "Romain NTAMACK"
 position: "SO"
 team: "トゥールーズ"
-height: "186.0"
-weight: "94.0"
+height: "186"
+weight: "94"
 birth_date: "1999.05.01"
 age: 26
 high_school: ""
@@ -23,4 +23,4 @@ twitter: "https://twitter.com/RomainNtamack"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- スタッド・トゥールーザン (2013 - )
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - )

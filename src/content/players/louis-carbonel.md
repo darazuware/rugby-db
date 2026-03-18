@@ -3,8 +3,8 @@ title: "ルイ・カルボネル"
 name_en: "Louis CARBONEL"
 position: "SO"
 team: "スタッド・フランセ"
-height: "180.0"
-weight: "88.0"
+height: "180"
+weight: "88"
 birth_date: "1999.02.04"
 age: 27
 high_school: ""
@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Canton Garde-Pradet (2004 - 2005)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2005 - 2022)
+- Rugby Club Toulonnais (2005 - 2022)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2024)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2024 - )
+- Stade Français Paris Rugby (2024 - )

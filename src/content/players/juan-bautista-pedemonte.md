@@ -3,8 +3,8 @@ title: "フアン・バウティスタ・ペデモンテ"
 name_en: "Juan Bautista PEDEMONTE"
 position: "FL/NO8"
 team: "ヴァンヌ"
-height: "189.0"
-weight: "107.0"
+height: "189"
+weight: "107"
 birth_date: "2000.03.14"
 age: 26
 high_school: ""
@@ -24,6 +24,6 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - Santiago Lawn Tennis Club (2018 - 2019)
-- ハグアレス (2019 - 2020)
+- Jaguares (2019 - 2020)
 - Jaguares XV (2021 - 2022)
 - Rugby Club Vannes (2022 - )

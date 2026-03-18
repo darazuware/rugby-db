@@ -3,8 +3,8 @@ title: "ジェファーソン・ポワロ"
 name_en: "Jefferson POIROT"
 position: "PR"
 team: "ボルドー・ベグル"
-height: "181.0"
-weight: "117.0"
+height: "181"
+weight: "117"
 birth_date: "1992.11.01"
 age: 33
 high_school: ""
@@ -24,5 +24,5 @@ facebook: ""
 ---
 
 - US Lalinde (2004 - 2008)
-- ブリーヴ (2008 - 2012)
+- CA Brive Corrèze Limousin (2008 - 2012)
 - 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - )

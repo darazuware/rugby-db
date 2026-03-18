@@ -3,8 +3,8 @@ title: "マーヴィン・オクヤ"
 name_en: "Marvin OKUYA"
 position: "FL/NO8"
 team: "リヨン"
-height: "190.0"
-weight: "110.0"
+height: "190"
+weight: "110"
 birth_date: "2003.12.29"
 age: 22
 high_school: ""
@@ -25,4 +25,4 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 
 - CSM Gennevilliers Rugby (2015 - 2017)
 - Rugby Club Massy Essonne (2017 - 2021)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2021 - )
+- Lyon Olympique Universitaire Rugby (2021 - )

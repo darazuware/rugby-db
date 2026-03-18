@@ -94,7 +94,7 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
                   key={opt.id}
                   onClick={() => setSortBy(opt.id)}
                   style={sortBy === opt.id ? { backgroundColor: teamColor, color: textColor } : {}}
-                  className={`px-4 py-2 rounded-xl text-[10px] font-black italic transition-all border border-border-dim/30 hover:border-yellow-400/50 uppercase tracking-wider ${
+                  className={`px-4 py-2 rounded-xl text-[10px] font-black italic transition-all border border-border-dim/30 hover:border-yellow-400/50 uppercase tracking-wider whitespace-nowrap ${
                     sortBy === opt.id ? 'shadow-lg' : 'bg-card/50 text-foreground/40'
                   }`}
                 >

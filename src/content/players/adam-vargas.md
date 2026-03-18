@@ -3,8 +3,8 @@ title: "アダム・バルガス"
 name_en: "Adam VARGAS"
 position: "WTB"
 team: "カストル"
-height: "180.0"
-weight: "80.0"
+height: "180"
+weight: "80"
 birth_date: "2000.08.11"
 age: 25
 high_school: ""
@@ -23,6 +23,6 @@ twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2005 - 2021)
+- Lyon Olympique Universitaire Rugby (2005 - 2021)
 - Valence Romans Drôme Rugby (2021 - 2025)
 - 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )

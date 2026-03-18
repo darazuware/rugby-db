@@ -3,8 +3,8 @@ title: "マキシム・ラファージュ"
 name_en: "Maxime LAFAGE"
 position: "SO"
 team: "ヴァンヌ"
-height: "183.0"
-weight: "86.0"
+height: "183"
+weight: "86"
 birth_date: "1994.09.01"
 age: 31
 high_school: ""
@@ -24,6 +24,8 @@ facebook: "https://www.facebook.com/allrugbycom/"
 ---
 
 - US Colomiers (2009 - 2018)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2022)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
+- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
 - Rugby Club Vannes (2022 - )

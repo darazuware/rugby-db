@@ -3,8 +3,8 @@ title: "ギオルギ・メリキゼ"
 name_en: "Giorgi MELIKIDZE"
 position: "PR"
 team: "スタッド・フランセ"
-height: "179.0"
-weight: "117.0"
+height: "179"
+weight: "117"
 birth_date: "1996.05.24"
 age: 29
 high_school: ""
@@ -24,4 +24,4 @@ facebook: "https://www.facebook.com/SFPARIS/"
 ---
 
 - RC Rustavi Kharebi (2014 - 2015)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2015 - )
+- Stade Français Paris Rugby (2015 - )

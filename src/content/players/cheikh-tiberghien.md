@@ -3,8 +3,8 @@ title: "シェイク・ティベルギアン"
 name_en: "Cheikh TIBERGHIEN"
 position: "FB"
 team: "バイヨンヌ"
-height: "186.0"
-weight: "96.0"
+height: "186"
+weight: "96"
 birth_date: "2000.01.08"
 age: 26
 high_school: ""
@@ -16,12 +16,13 @@ nationality: ""
 category: ""
 division: ""
 league: "top14"
-joined_year: 2019
+joined_year: 2023
 has_scores: true
 instagram: ""
 twitter: ""
 facebook: ""
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2013 - 2026)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - )
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2013 - 2019)
+- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2023)
+- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )

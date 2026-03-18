@@ -3,8 +3,8 @@ title: "サイトウ・ナオト"
 name_en: "Naoto SAITO"
 position: "SH"
 team: "トゥールーズ"
-height: "165.0"
-weight: "75.0"
+height: "165"
+weight: "75"
 birth_date: "1997.08.26"
 age: 28
 high_school: ""
@@ -23,6 +23,6 @@ twitter: "https://x.com/naotu_11"
 facebook: "https://www.facebook.com/StadeToulousainOfficiel/"
 ---
 
-- サンウルブズ (2019 - 2020)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2020 - 2024)
-- スタッド・トゥールーザン (2024 - )
+- Sunwolves (2019 - 2020)
+- Tokyo Sungoliath (2020 - 2024)
+- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2024 - )

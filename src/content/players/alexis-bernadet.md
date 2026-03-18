@@ -3,8 +3,8 @@ title: "アレクシス・ベルナデ"
 name_en: "Alexis BERNADET"
 position: "SH"
 team: "モンペリエ"
-height: "180.0"
-weight: "79.0"
+height: "180"
+weight: "79"
 birth_date: "2001.06.02"
 age: 24
 high_school: ""
@@ -26,7 +26,7 @@ facebook: "https://www.facebook.com/Montpellier.Rugby"
 - Hers Lauragais XV (2006 - 2012)
 - Football Club Villefranchois (2012 - 2013)
 - Paris Université Club (2013 - 2017)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2017 - 2019)
+- Stade Français Paris Rugby (2017 - 2019)
 - Avenir Castanéen Rugby XV (2019 - 2021)
 - Union Sportive Montalbanaise (2021 - 2024)
 - 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )

@@ -3,8 +3,8 @@ title: "アルノ・ボータ"
 name_en: "Arno BOTHA"
 position: "FL/NO8"
 team: "リヨン"
-height: "190.0"
-weight: "108.0"
+height: "190"
+weight: "108"
 birth_date: "1991.10.26"
 age: 34
 high_school: ""
@@ -23,7 +23,10 @@ twitter: "https://twitter.com/lelourugby?lang=fr"
 facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
-- ブルズ (2014 - 2022)
-- ロンドン・アイリッシュ (2017 - 2018)
-- マンスター (2018 - 2020)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - )
+- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2014 - 2017)
+- London Irish (2017 - 2018)
+- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - 2019)
+- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019)
+- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2020)
+- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2020 - 2022)
+- Lyon Olympique Universitaire Rugby (2022 - )

@@ -3,8 +3,8 @@ title: "レオ・ベルドゥ"
 name_en: "Léo BERDEU"
 position: "SO"
 team: "リヨン"
-height: "195.0"
-weight: "99.0"
+height: "195"
+weight: "99"
 birth_date: "1998.06.13"
 age: 27
 high_school: ""
@@ -16,7 +16,7 @@ nationality: "Poids"
 category: ""
 division: ""
 league: "top14"
-joined_year: 2018
+joined_year: 2020
 has_scores: true
 instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
 twitter: "https://twitter.com/lelourugby?lang=fr"
@@ -24,6 +24,7 @@ facebook: "https://www.facebook.com/LOU.Rugby/"
 ---
 
 - Rugby Olympique de Grasse (2004 - 2015)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2015 - 2016)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2016 - 2026)
-- Sporting Union Agenais (2018 - )
+- Rugby Club Toulonnais (2015 - 2016)
+- Lyon Olympique Universitaire Rugby (2016 - 2018)
+- Sporting Union Agenais (2018 - 2020)
+- Lyon Olympique Universitaire Rugby (2020 - )

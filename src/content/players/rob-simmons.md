@@ -3,8 +3,8 @@ title: "ロブ・シモンズ"
 name_en: "Rob SIMMONS"
 position: "LO"
 team: "クレルモン"
-height: "204.0"
-weight: "115.0"
+height: "204"
+weight: "115"
 birth_date: "1989.04.19"
 age: 36
 high_school: ""
@@ -23,7 +23,7 @@ twitter: ""
 facebook: ""
 ---
 
-- レッズ (2013 - 2017)
-- ワラターズ (2017 - 2020)
-- ロンドン・アイリッシュ (2020 - 2023)
+- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2013 - 2017)
+- New South Wales Waratahs (2017 - 2020)
+- London Irish (2020 - 2023)
 - 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
