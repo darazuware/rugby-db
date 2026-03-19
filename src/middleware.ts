@@ -1,4 +1,5 @@
 import { defineMiddleware } from "astro:middleware";
+import redirects from "../data/redirects.json";
 
 // ハニーポットのURL
 const HONEYPOT_PATH = '/api/v1/all-players-download.json';
@@ -22,6 +23,21 @@ export const onRequest = defineMiddleware(async (context, next) => {
         headers: { 'Content-Type': 'application/json' } 
       }
     );
+  }
+
+  // リダイレクト処理
+  const cleanPath = pathname.replace(/\/$/, "");
+  const decodedPath = decodeURIComponent(cleanPath);
+  const redirectTarget = (redirects as Record<string, string>)[cleanPath] || (redirects as Record<string, string>)[decodedPath];
+
+  if (redirectTarget) {
+    return new Response(null, {
+      status: 301,
+      headers: {
+        'Location': redirectTarget,
+        'Cache-Control': 'public, max-age=31536000, immutable'
+      }
+    });
   }
 
   // 次の処理（ページレンダリング等）へ
