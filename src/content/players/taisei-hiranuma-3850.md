@@ -1,0 +1,20 @@
+---
+title: "Taisei Hiranuma | "
+name_en: "Taisei Hiranuma"
+name_ja: ""
+slug: "taisei-hiranuma-3850"
+position: "HO"
+height: "170.0"
+weight: "96.0"
+birth_date: "2002.03.18"
+age: 24
+country: ""
+birth_place_scraped: ""
+league: ""
+team: "マツダスカイアクティブズ広島"
+caps: "0"
+scraped_url: "https://league-one.jp/player/484621"
+---
+
+## キャリア遍歴
+

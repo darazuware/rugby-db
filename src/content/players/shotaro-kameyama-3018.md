@@ -1,0 +1,20 @@
+---
+title: "Shotaro Kameyama | "
+name_en: "Shotaro Kameyama"
+name_ja: ""
+slug: "shotaro-kameyama-3018"
+position: "PR"
+height: "176.0"
+weight: "115.0"
+birth_date: "2002.09.17"
+age: 23
+country: ""
+birth_place_scraped: ""
+league: ""
+team: "NECグリーンロケッツ東葛"
+caps: "0"
+scraped_url: "https://league-one.jp/player/483544"
+---
+
+## キャリア遍歴
+

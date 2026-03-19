@@ -20,7 +20,10 @@ python3 scripts/scrape_standings.py
 python3 scripts/scrape_mlr_standings.py
 
 # 2. 選手情報の Markdown 再生成 (統合スクリプト：全リーグ対応)
-echo "全選手情報を生成中 (League One, SR, Top 14, URC)..."
+echo "重複排除を実行中..."
+python3 scripts/deduplicate_master.py
+
+echo "全選手情報を生成中 (League One, SR, Top 14, URC, MLR)..."
 python3 scripts/generate_players.py
 if [ $? -ne 0 ]; then
     echo "❌ エラー: 選手情報の Markdown 生成に失敗しました。"

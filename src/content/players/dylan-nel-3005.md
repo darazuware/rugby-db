@@ -1,0 +1,20 @@
+---
+title: "Dylan Nel | "
+name_en: "Dylan Nel"
+name_ja: ""
+slug: "dylan-nel-3005"
+position: "FL/No8"
+height: "185.0"
+weight: "110.0"
+birth_date: "1992.11.27"
+age: 33
+country: ""
+birth_place_scraped: ""
+league: ""
+team: "NECグリーンロケッツ東葛"
+caps: "0"
+scraped_url: "https://league-one.jp/player/483534"
+---
+
+## キャリア遍歴
+

@@ -189,6 +189,29 @@ def main():
                         }
         all_teams.extend(prem_teams_dict.values())
 
+    # MLR (Master CSV から抽出)
+    print("Extracting MLR teams from master CSV...")
+    if os.path.exists(CSV_PATH := 'data_sources/final_master_data_v27_normalized.csv'):
+        mlr_teams_dict = {}
+        with open(CSV_PATH, mode='r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get('League') == 'mlr':
+                    t_name = row.get('Current_Team')
+                    if t_name and t_name not in mlr_teams_dict:
+                        info = get_team_info(t_name)
+                        # 強制的に英語名からスラッグ生成
+                        en_name = info.get('name_en', t_name) if info else t_name
+                        slug = slugify(en_name)
+                        
+                        mlr_teams_dict[t_name] = {
+                            "team_name": info.get('jp', t_name) if info else t_name,
+                            "team_en_name": en_name,
+                            "slug": slug,
+                            "league": "mlr"
+                        }
+        all_teams.extend(mlr_teams_dict.values())
+
     # 重複排除 (名前 + リーグ + スラッグベース)
     # 同じチーム名でもリーグやスラッグが違う場合は別物として扱う
     unique_teams = []
