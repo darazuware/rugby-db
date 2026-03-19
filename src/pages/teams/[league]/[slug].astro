@@ -131,6 +131,11 @@ const teamPlayers = allPlayers
         slug: p.slug,
         data: p.data,
     }));
+
+// スラッグによる重複排除 (データソースの問題による重複表示をフロントエンドで防止)
+const uniqueTeamPlayers = Array.from(
+    new Map(teamPlayers.map((p: any) => [p.slug, p])).values()
+);
 // 所属選手の取得
 // ... (既存の players 取得)
 
@@ -494,7 +499,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                 {
                     teamPlayers.length > 0 ? (
                         <TeamPlayerList
-                            players={teamPlayers}
+                            players={uniqueTeamPlayers}
                             isLeagueOne={isLeagueOne}
                             client:load
                         />

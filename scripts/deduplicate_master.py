@@ -1,63 +1,99 @@
 import pandas as pd
+import numpy as np
+from datetime import datetime
 import os
 
-CSV_FILE = "/Users/ktamatzmoto/Desktop/rugbypicks/data_sources/final_master_data_v25_integrated.csv"
-BACKUP_FILE = CSV_FILE + ".bak"
+CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
+BACKUP_PATH = 'data_sources/final_master_data_v27_normalized.csv.bak'
 
-def deduplicate_master():
-    if not os.path.exists(CSV_FILE):
-        print("Error: Master CSV not found.")
+def calculate_age(birth_date_str):
+    if not birth_date_str or str(birth_date_str).lower() == 'nan':
+        return None
+    try:
+        # Expected formats: YYYY.MM.DD
+        cleaned_date = str(birth_date_str).replace('/', '.').replace('-', '.')
+        birth_date = datetime.strptime(cleaned_date, '%Y.%m.%d')
+        today = datetime.now()
+        age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+        return age
+    except Exception as e:
+        # Handle cases like "1996.." or other partial dates
+        try:
+            year_match = str(birth_date_str)[:4]
+            if year_match.isdigit():
+                return datetime.now().year - int(year_match)
+        except:
+            pass
+        return None
+
+def deduplicate():
+    if not os.path.exists(CSV_PATH):
+        print(f"File not found: {CSV_PATH}")
         return
 
-    # バックアップ作成
-    os.rename(CSV_FILE, BACKUP_FILE)
-    print(f"Backup created at: {BACKUP_FILE}")
+    # Backup
+    import shutil
+    shutil.copy2(CSV_PATH, BACKUP_PATH)
+    print(f"Backup created: {BACKUP_PATH}")
 
-    df = pd.read_csv(BACKUP_FILE, dtype=str).fillna("")
-    original_len = len(df)
+    df = pd.read_csv(CSV_PATH)
+    print(f"Original row count: {len(df)}")
+    print(f"Original columns: {df.columns.tolist()}")
 
-    # 欠損判定関数
-    def get_info_score(row):
-        score = 0
-        if row["身長"]: score += 1
-        if row["体重"]: score += 1
-        if row["生年月日"]: score += 1
-        if len(row["英語名"]) > 5: score += 1 # フルネーム（Alfie）は A. より長い
-        return score
-
-    # キーとなる URL (Scraped_Url または URL)
-    # 両方が空の場合は名前をキーにするが、基本はURL優先
-    df["merge_key"] = df["Scraped_Url"].where(df["Scraped_Url"] != "", df["URL"])
-    # URLも空なら英語名
-    df["merge_key"] = df["merge_key"].where(df["merge_key"] != "", df["英語名"])
-
-    # スコア計算
-    df["info_score"] = df.apply(get_info_score, axis=1)
-
-    # 重複排除: merge_key でグループ化し、スコアが最大の行を採用
-    # 行番号を保持して安定させる
-    df = df.sort_values(by=["merge_key", "info_score", "英語名"], ascending=[True, False, False])
+    # 1. Representative_Caps の URL 混入を修正
+    def clean_caps(val):
+        v = str(val).strip()
+        if 'all.rugby' in v or 'http' in v:
+            return ""
+        return val
     
-    # 属性の統合 (A行にあってB行にない情報を補完)
-    def merge_group(group):
-        if len(group) == 1: return group.iloc[0]
-        # 最初の行（最高スコア）をベースにする
-        base = group.iloc[0].copy()
-        for _, row in group.iterrows():
-            for col in group.columns:
-                if not base[col] and row[col]:
-                    base[col] = row[col]
-        return base
+    if 'Representative_Caps' in df.columns:
+        df['Representative_Caps'] = df['Representative_Caps'].apply(clean_caps)
 
-    df_merged = df.groupby("merge_key", sort=False).apply(merge_group).reset_index(drop=True)
+    # 2. 年齢の再計算
+    def update_age(row):
+        age = calculate_age(row['Birth_Date'])
+        if age is not None:
+            return age
+        return row.get('Age', np.nan)
+    
+    df['Age'] = df.apply(update_age, axis=1)
 
-    # 不要なカラムを削除
-    if "merge_key" in df_merged.columns: del df_merged["merge_key"]
-    if "info_score" in df_merged.columns: del df_merged["info_score"]
+    # 3. 重複排除 (Scraped_Url をキーにする)
+    # 欠損値（NaN）の数を数えて、欠損が少ない行を優先する
+    if 'Scraped_Url' in df.columns:
+        # 正規化
+        df['Scraped_Url'] = df['Scraped_Url'].astype(str).str.strip().str.lower()
+        # "nan" は NaN に戻す
+        df.loc[df['Scraped_Url'] == 'nan', 'Scraped_Url'] = np.nan
+        
+        df['nan_count'] = df.isnull().sum(axis=1)
+        
+        # Scraped_Url があるものと無いもので分ける
+        mask = df['Scraped_Url'].notna()
+        with_url = df[mask].copy()
+        no_url = df[~mask].copy()
 
-    df_merged.to_csv(CSV_FILE, index=False, encoding='utf-8-sig')
-    print(f"Deduplication complete.")
-    print(f"Original: {original_len} -> Merged: {len(df_merged)}")
+        # URL ごとにグループ化し、欠損値が最も少ない行を選択
+        deduped_with_url = with_url.sort_values('nan_count').drop_duplicates(subset=['Scraped_Url'], keep='first')
+        
+        # 最終的なマージ
+        final_df = pd.concat([deduped_with_url, no_url], ignore_index=True)
+        final_df = final_df.drop(columns=['nan_count'])
+    else:
+        print("ERROR: Scraped_Url column missing!")
+        final_df = df
+
+    print(f"Deduped row count: {len(final_df)}")
+    print(f"Final columns: {final_df.columns.tolist()}")
+    
+    # 保存 (カラム順序を固定)
+    cols_order = ['Player_Name', 'Full_Name', '選手名_カタカナ', 'Position', 'Current_Team', 'League', 'Height', 'Weight', 'Birth_Date', 'Age', 'Representative_Caps', 'Scraped_Url']
+    existing_cols = [c for c in cols_order if c in final_df.columns]
+    final_df = final_df[existing_cols]
+
+    final_df.to_csv(CSV_PATH, index=False)
+    print(f"Saved to {CSV_PATH}")
 
 if __name__ == "__main__":
-    deduplicate_master()
+    deduplicate()

@@ -813,18 +813,24 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                     {/* 命名規則の適用: 海外リーグは英語メイン、リーグワンは日本語メイン */}
                                     {(() => {
                                         const isPLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
-                                        const mainName = isPLeagueOne ? player.data.title : (player.data.name_en || player.data.title);
-                                        const subName = isPLeagueOne ? (player.data.name_en || player.data.title) : player.data.title;
-                                        const showSub = subName && subName !== mainName;
+                                        const isPJapanese = player.data.country === '日本';
+                                        const isPForeign = player.data.country && player.data.country !== '日本';
+                                        
+                                        // 日本語を優先（メインに表示）するかどうかの判定
+                                        const prefersPJapaneseMain = isPJapanese || (!isPForeign && isPLeagueOne);
+
+                                        const pMainName = prefersPJapaneseMain ? player.data.title : (player.data.name_en || player.data.title);
+                                        const pSubName = prefersPJapaneseMain ? (player.data.name_en || player.data.title) : player.data.title;
+                                        const showPSub = pSubName && pSubName !== pMainName;
 
                                         return (
                                             <>
-                                                <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tight ${!isPLeagueOne ? 'uppercase' : ''}`}>
-                                                    {isPLeagueOne ? mainName : mainName?.split(' ').join('  ')}
+                                                <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tight ${!prefersPJapaneseMain ? 'uppercase' : ''}`}>
+                                                    {prefersPJapaneseMain ? pMainName : pMainName?.split(' ').join('  ')}
                                                 </h2>
-                                                {showSub && (
-                                                    <p className={`text-[13px] font-bold text-foreground/40 mb-4 italic tracking-tight ${isPLeagueOne ? 'uppercase' : ''}`}>
-                                                        {subName}
+                                                {showPSub && (
+                                                    <p className={`text-[13px] font-bold text-foreground/40 mb-4 italic tracking-tight ${prefersPJapaneseMain ? 'uppercase' : ''}`}>
+                                                        {pSubName}
                                                     </p>
                                                 )}
                                             </>

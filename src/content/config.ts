@@ -14,6 +14,7 @@ const players = defineCollection({
         birth_date: z.string().optional(),
         age: z.number().nullable(),
         country: z.string().optional(),
+        birth_place_scraped: z.string().optional(),
         league: z.string().optional(),
         caps: z.string().optional(),
         scraped_url: z.string().optional(),

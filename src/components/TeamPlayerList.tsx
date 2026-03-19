@@ -297,18 +297,24 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                             </div>
                             {(() => {
                                 const isItemLeagueOne = player.data.league === 'league-one' || player.data.league === 'leagueone';
-                                const mainName = isItemLeagueOne ? player.data.title : (player.data.name_en || player.data.title);
-                                const subName = isItemLeagueOne ? (player.data.name_en || player.data.title) : player.data.title;
-                                const showSub = subName && subName !== mainName;
+                                const isItemJapanese = player.data.country === '日本';
+                                const isItemForeign = player.data.country && player.data.country !== '日本';
+                                
+                                // 日本語を優先（メインに表示）するかどうかの判定
+                                const prefersItemJapaneseMain = isItemJapanese || (!isItemForeign && isItemLeagueOne);
+
+                                const itemMainName = prefersItemJapaneseMain ? player.data.title : (player.data.name_en || player.data.title);
+                                const itemSubName = prefersItemJapaneseMain ? (player.data.name_en || player.data.title) : player.data.title;
+                                const showItemSub = itemSubName && itemSubName !== itemMainName;
 
                                 return (
                                     <>
-                                        <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!isItemLeagueOne ? 'uppercase' : ''}`}>
-                                            {isItemLeagueOne ? mainName : mainName?.split(' ').join('  ')}
+                                        <h2 className={`text-2xl font-black text-foreground mb-3 leading-tight group-hover:text-yellow-600 transition-colors tracking-tighter ${!prefersItemJapaneseMain ? 'uppercase' : ''}`}>
+                                            {prefersItemJapaneseMain ? itemMainName : itemMainName?.split(' ').join('  ')}
                                         </h2>
-                                        {showSub && (
+                                        {showItemSub && (
                                             <p className="text-[12px] font-bold text-foreground/40 mb-4 italic tracking-tight uppercase">
-                                                {subName}
+                                                {itemSubName}
                                             </p>
                                         )}
                                     </>

@@ -18,6 +18,20 @@ if (!entry) {
 const { Content } = await entry.render();
 const isLeagueOne =
   entry.data.league === "league-one" || entry.data.league === "leagueone";
+const isJapanese = entry.data.country === "日本";
+const isForeign = entry.data.country && entry.data.country !== "日本";
+
+// 日本語を優先（メインに表示）するかどうかの判定
+// 日本人選手、または国籍不明でLeague One所属の場合は日本語メイン
+const prefersJapaneseMain = isJapanese || (!isForeign && isLeagueOne);
+
+const mainName = prefersJapaneseMain
+  ? entry.data.title
+  : entry.data.name_en || entry.data.title;
+const subName = prefersJapaneseMain
+  ? entry.data.name_en || entry.data.title
+  : entry.data.title;
+const showSub = subName && subName !== mainName;
 
 const FLAG_MAP: Record<string, string> = {
   '日本': '🇯🇵',
@@ -64,6 +78,20 @@ const FLAG_MAP: Record<string, string> = {
   'Namibia': '🇳🇦',
   'チリ': '🇨🇱',
   'Chile': '🇨🇱',
+  'United Kingdom': '🇬🇧',
+  'Royaume-Uni': '🇬🇧',
+  'Afrique du Sud': '🇿🇦',
+  'Ecosse': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'Pay de Galles': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'Irlande': '🇮🇪',
+};
+
+const getCountryFromBirthplace = (val: string) => {
+  if (!val) return "";
+  // Pattern: "City (Country)"
+  const match = val.match(/\(([^)]+)\)/);
+  if (match) return match[1];
+  return val;
 };
 
 const getFlag = (country: string, capsStr: string) => {
@@ -76,22 +104,18 @@ const getFlag = (country: string, capsStr: string) => {
 ---
 
 <Layout
-  title={`${isLeagueOne ? entry.data.title : entry.data.name_en} (${
-    isLeagueOne ? entry.data.name_en : entry.data.title
-  }) | ラグビー選手名鑑 | RUGBY PICKS`}
+  title={`${mainName} (${subName}) | ラグビー選手名鑑 | RUGBY PICKS`}
   description={`${entry.data.team}所属、${entry.data.position}。身長${
     entry.data.height
   }cm、体重${
     entry.data.weight
-  }kg。${entry.data.league?.toUpperCase()} の注目選手、${entry.data.title}（${
-    entry.data.name_en
-  }）のプロフィールと詳細スタッツ。`}
+  }kg。${entry.data.league?.toUpperCase()} の注目選手、${mainName}（${subName}）のプロフィールと詳細スタッツ。`}
 >
   <JSONLD type="SportsPlayer" data={entry.data} />
   <div class="py-4">
     <Breadcrumbs items={[
       { label: "選手名鑑", href: "/players" },
-      { label: isLeagueOne ? entry.data.title : entry.data.name_en }
+      { label: mainName }
     ]} />
     <div
       class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim"
@@ -109,27 +133,25 @@ const getFlag = (country: string, capsStr: string) => {
             ← 選手一覧に戻る
           </a>
           {
-            isLeagueOne ? (
+            prefersJapaneseMain ? (
               <>
-                <h1 class="text-5xl font-black mb-2">{entry.data.title}</h1>
-                {entry.data.name_en &&
-                  entry.data.name_en !== entry.data.title && (
-                    <p class="text-xl text-gray-400 font-bold uppercase tracking-widest">
-                      {entry.data.name_en}
-                    </p>
-                  )}
+                <h1 class="text-5xl font-black mb-2">{mainName}</h1>
+                {showSub && (
+                  <p class="text-xl text-gray-400 font-bold uppercase tracking-widest">
+                    {subName}
+                  </p>
+                )}
               </>
             ) : (
               <>
                 <h1 class="text-5xl md:text-7xl font-black mb-2 uppercase tracking-tighter leading-none">
-                  {(entry.data.name_en || entry.data.title)?.split(' ').join('  ')}
+                  {mainName?.split(" ").join("  ")}
                 </h1>
-                {entry.data.title &&
-                  entry.data.title !== entry.data.name_en && (
-                    <p class="text-2xl text-gray-300 font-bold tracking-widest italic mt-4">
-                      {entry.data.title}
-                    </p>
-                  )}
+                {showSub && (
+                  <p class="text-2xl text-gray-300 font-bold tracking-widest italic mt-4">
+                    {subName}
+                  </p>
+                )}
               </>
             )
           }
@@ -214,6 +236,33 @@ const getFlag = (country: string, capsStr: string) => {
               <span class="font-black text-foreground text-lg tracking-tighter"
                 >{entry.data.birth_date && entry.data.birth_date !== "---" ? entry.data.birth_date : "---"}</span
               >
+            </div>
+
+            {/* 出身地 / Birthplace */}
+            <div
+              class="flex justify-between items-end border-b-2 border-border-dim/20 pb-3 group/item"
+            >
+              <div class="flex flex-col">
+                <span class="font-black text-foreground text-sm">出身地</span>
+                <span
+                  class="font-bold text-foreground/40 uppercase text-[10px] tracking-widest leading-none"
+                  >BIRTHPLACE</span
+                >
+              </div>
+              <div class="flex items-center gap-2">
+                {entry.data.birth_place_scraped ? (
+                  <>
+                    {getFlag(getCountryFromBirthplace(entry.data.birth_place_scraped), "") && (
+                      <span class="text-2xl leading-none">{getFlag(getCountryFromBirthplace(entry.data.birth_place_scraped), "")}</span>
+                    )}
+                    <span class="font-black text-foreground text-lg tracking-tighter">
+                      {entry.data.birth_place_scraped}
+                    </span>
+                  </>
+                ) : (
+                  <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
+                )}
+              </div>
             </div>
           </div>
 

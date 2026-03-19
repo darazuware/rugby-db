@@ -79,6 +79,7 @@ export const TEAM_SLUG_MAP: Record<string, string> = {
     "Ulster Rugby": "ulster-rugby",
     "グラスゴー・ウォリアーズ": "glasgow-warriors",
     "Glasgow Warriors": "glasgow-warriors",
+    "Glasgow": "glasgow-warriors",
     "ヴォーダコム・ブルズ": "vodacom-bulls",
     "Vodacom Bulls": "vodacom-bulls",
     "レンスター・ラグビー": "leinster-rugby",
