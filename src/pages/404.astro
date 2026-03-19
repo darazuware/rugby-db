@@ -1,5 +1,13 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import redirects from "../../data/redirects.json";
+
+const pathname = Astro.url.pathname.replace(/\/$/, "");
+const redirectTarget = (redirects as Record<string, string>)[pathname];
+
+if (redirectTarget) {
+    return Astro.redirect(redirectTarget, 301);
+}
 ---
 
 <Layout title="404 Page Not Found | RUGBY PICKS">

@@ -1,5 +1,27 @@
 {
-  "mens": [],
-  "womens": [],
-  "updated_at": "2026-03-19T11:00:00Z"
+    "updated_at": "16 March 2026",
+    "mens": [
+        {"rank": 1, "previousRank": 1, "points": 93.94, "team_en": "South Africa", "team_jp": "南アフリカ", "abbreviation": "RSA", "flag": "🇿🇦"},
+        {"rank": 2, "previousRank": 2, "points": 90.33, "team_en": "New Zealand", "team_jp": "ニュージーランド", "abbreviation": "NZL", "flag": "🇳🇿"},
+        {"rank": 3, "previousRank": 3, "points": 89.07, "team_en": "Ireland", "team_jp": "アイルランド", "abbreviation": "IRE", "flag": "🇮🇪"},
+        {"rank": 4, "previousRank": 4, "points": 87.46, "team_en": "France", "team_jp": "フランス", "abbreviation": "FRA", "flag": "🇫🇷"},
+        {"rank": 5, "previousRank": 5, "points": 84.97, "team_en": "Argentina", "team_jp": "アルゼンチン", "abbreviation": "ARG", "flag": "🇦🇷"},
+        {"rank": 6, "previousRank": 6, "points": 83.91, "team_en": "England", "team_jp": "イングランド", "abbreviation": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+        {"rank": 7, "previousRank": 7, "points": 82.90, "team_en": "Scotland", "team_jp": "スコットランド", "abbreviation": "SCO", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"},
+        {"rank": 8, "previousRank": 8, "points": 81.53, "team_en": "Australia", "team_jp": "オーストラリア", "abbreviation": "AUS", "flag": "🇦🇺"},
+        {"rank": 9, "previousRank": 9, "points": 81.14, "team_en": "Fiji", "team_jp": "フィジー", "abbreviation": "FIJ", "flag": "🇫🇯"},
+        {"rank": 10, "previousRank": 10, "points": 79.64, "team_en": "Italy", "team_jp": "イタリア", "abbreviation": "ITA", "flag": "🇮🇹"}
+    ],
+    "womens": [
+        {"rank": 1, "previousRank": 1, "points": 98.09, "team_en": "England", "team_jp": "イングランド", "abbreviation": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+        {"rank": 2, "previousRank": 2, "points": 91.53, "team_en": "Canada", "team_jp": "カナダ", "abbreviation": "CAN", "flag": "🇨🇦"},
+        {"rank": 3, "previousRank": 3, "points": 89.85, "team_en": "New Zealand", "team_jp": "ニュージーランド", "abbreviation": "NZL", "flag": "🇳🇿"},
+        {"rank": 4, "previousRank": 4, "points": 83.60, "team_en": "France", "team_jp": "フランス", "abbreviation": "FRA", "flag": "🇫🇷"},
+        {"rank": 5, "previousRank": 5, "points": 78.20, "team_en": "Ireland", "team_jp": "アイルランド", "abbreviation": "IRE", "flag": "🇮🇪"},
+        {"rank": 6, "previousRank": 6, "points": 77.39, "team_en": "Scotland", "team_jp": "スコットランド", "abbreviation": "SCO", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"},
+        {"rank": 7, "previousRank": 7, "points": 75.46, "team_en": "Australia", "team_jp": "オーストラリア", "abbreviation": "AUS", "flag": "🇦🇺"},
+        {"rank": 8, "previousRank": 8, "points": 72.90, "team_en": "USA", "team_jp": "アメリカ", "abbreviation": "USA", "flag": "🇺🇸"},
+        {"rank": 9, "previousRank": 9, "points": 72.37, "team_en": "Wales", "team_jp": "ウェールズ", "abbreviation": "WAL", "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"},
+        {"rank": 10, "previousRank": 10, "points": 71.62, "team_en": "South Africa", "team_jp": "南アフリカ", "abbreviation": "RSA", "flag": "🇿🇦"}
+    ]
 }
