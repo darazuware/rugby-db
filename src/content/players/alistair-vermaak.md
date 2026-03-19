@@ -7,10 +7,11 @@ position: "PR"
 height: "179.0"
 weight: "113.0"
 birth_date: "1986.04.28"
-age: null
+age: 39
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/alistair-vermaak"
 ---

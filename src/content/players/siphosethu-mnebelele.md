@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "111.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/siphosethu-mnebelele"
 ---

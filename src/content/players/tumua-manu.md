@@ -7,8 +7,9 @@ position: "CTB"
 height: "183.0"
 weight: "97.0"
 birth_date: "1993.04.18"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "Samoa"

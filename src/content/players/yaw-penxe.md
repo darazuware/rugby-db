@@ -7,10 +7,11 @@ position: "Winger"
 height: "183.0"
 weight: "93.0"
 birth_date: "1997.04.03"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/yaw-penxe"
 ---

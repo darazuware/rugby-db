@@ -7,10 +7,11 @@ position: "Winger"
 height: "176.0"
 weight: "82.0"
 birth_date: "1996.06.17"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/kurt-lee-arendse"
 ---

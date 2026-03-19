@@ -7,10 +7,11 @@ position: "WTB"
 height: "186.0"
 weight: "100.0"
 birth_date: "1997.07.21"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/tom-wright"
 ---

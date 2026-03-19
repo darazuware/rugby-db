@@ -7,8 +7,9 @@ position: "SO"
 height: "180.0"
 weight: "88.0"
 birth_date: "1996.04.17"
-age: null
-country: "African"
+age: 29
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

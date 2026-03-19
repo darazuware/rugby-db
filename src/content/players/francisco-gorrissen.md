@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "191.0"
 weight: "108.0"
 birth_date: "1994.08.30"
-age: null
-country: "Argentine"
+age: 31
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "Argentina"

@@ -7,10 +7,11 @@ position: "SO"
 height: "180.0"
 weight: "89.0"
 birth_date: "1994.09.17"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/angus-o-brien"
 ---

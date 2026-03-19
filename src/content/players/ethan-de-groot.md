@@ -7,10 +7,11 @@ position: "PR"
 height: "190.0"
 weight: "128.0"
 birth_date: "1998.07.22"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/ethan-de-groot"
 ---

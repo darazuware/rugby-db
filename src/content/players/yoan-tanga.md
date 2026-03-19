@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "185.0"
 weight: "109.0"
 birth_date: "1996.11.29"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "0"

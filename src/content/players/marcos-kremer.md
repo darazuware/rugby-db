@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "195.0"
 weight: "115.0"
 birth_date: "1997.07.30"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "Argentina"

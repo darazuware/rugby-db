@@ -7,8 +7,9 @@ position: "SH"
 height: "169.0"
 weight: "82.0"
 birth_date: "2003.11.17"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "France"

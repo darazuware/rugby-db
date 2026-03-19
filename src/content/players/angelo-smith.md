@@ -7,10 +7,11 @@ position: "LO"
 height: "199.0"
 weight: "115.0"
 birth_date: "2000.07.27"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/angelo-smith"
 ---

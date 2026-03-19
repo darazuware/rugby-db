@@ -7,10 +7,11 @@ position: "CTB"
 height: "190.0"
 weight: "103.0"
 birth_date: "1994.02.15"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-du-plessis"
 ---

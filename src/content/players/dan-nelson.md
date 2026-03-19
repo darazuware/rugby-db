@@ -7,10 +7,11 @@ position: "SH"
 height: "179.0"
 weight: "82.0"
 birth_date: "2004.02.15"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-nelson"
 ---

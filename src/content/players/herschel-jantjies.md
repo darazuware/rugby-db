@@ -7,8 +7,9 @@ position: "SH"
 height: "167.0"
 weight: "77.0"
 birth_date: "1996.04.22"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "South Africa"

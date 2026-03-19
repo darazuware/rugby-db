@@ -7,10 +7,11 @@ position: "LO"
 height: "193.0"
 weight: "110.0"
 birth_date: "1995.05.19"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/david-o-connor"
 ---

@@ -7,10 +7,11 @@ position: "SO"
 height: "178.0"
 weight: "90.0"
 birth_date: "2003.12.30"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-bowen"
 ---

@@ -7,10 +7,11 @@ position: "CTB"
 height: "186.0"
 weight: "92.0"
 birth_date: "2001.09.22"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-flook"
 ---

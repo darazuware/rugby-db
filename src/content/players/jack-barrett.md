@@ -7,10 +7,11 @@ position: "PR"
 height: "185.0"
 weight: "111.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-barrett"
 ---

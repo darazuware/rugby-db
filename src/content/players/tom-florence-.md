@@ -7,10 +7,11 @@ position: "CTB"
 height: "188.0"
 weight: "96.0"
 birth_date: "2003.03.19"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-florence-"
 ---

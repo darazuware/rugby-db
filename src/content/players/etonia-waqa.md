@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "196.0"
 weight: "110.0"
 birth_date: "1999.06.02"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/etonia-waqa"
 ---

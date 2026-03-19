@@ -7,10 +7,11 @@ position: "Back row"
 height: "188.0"
 weight: "111.0"
 birth_date: "2000.04.26"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/manuel-zuliani"
 ---

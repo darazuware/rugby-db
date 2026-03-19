@@ -7,10 +7,11 @@ position: "HO"
 height: "182.0"
 weight: "103.0"
 birth_date: "1999.06.11"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/nic-dolly"
 ---

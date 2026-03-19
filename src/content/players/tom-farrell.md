@@ -7,10 +7,11 @@ position: "CTB"
 height: "190.0"
 weight: "107.0"
 birth_date: "1993.10.01"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/tom-farrell"
 ---

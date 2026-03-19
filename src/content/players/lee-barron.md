@@ -7,10 +7,11 @@ position: "HO"
 height: "191.0"
 weight: "109.0"
 birth_date: "2001.02.15"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/lee-barron"
 ---

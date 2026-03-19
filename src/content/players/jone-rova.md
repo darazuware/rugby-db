@@ -7,10 +7,11 @@ position: "CTB"
 height: "185.0"
 weight: "96.0"
 birth_date: "2002.12.07"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jone-rova"
 ---

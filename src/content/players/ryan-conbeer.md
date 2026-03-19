@@ -7,10 +7,11 @@ position: "Winger"
 height: "177.0"
 weight: "91.0"
 birth_date: "1999.02.05"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-conbeer"
 ---

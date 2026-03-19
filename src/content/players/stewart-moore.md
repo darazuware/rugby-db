@@ -7,10 +7,11 @@ position: "CTB"
 height: "184.0"
 weight: "93.0"
 birth_date: "1999.08.08"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/stewart-moore"
 ---

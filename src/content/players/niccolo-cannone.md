@@ -7,10 +7,11 @@ position: "LO"
 height: "197.0"
 weight: "121.0"
 birth_date: "1998.05.17"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/niccolo-cannone"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "112.0"
 birth_date: "1999.07.22"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-wycherley"
 ---

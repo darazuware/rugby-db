@@ -9,6 +9,7 @@ weight: "99.0"
 birth_date: "//2005"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "0"

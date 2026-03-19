@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1997.06.30"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/kieron-assiratti"
 ---

@@ -7,8 +7,9 @@ position: "LO"
 height: "200.0"
 weight: "117.0"
 birth_date: "1995.02.23"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "0"

@@ -7,8 +7,9 @@ position: "CTB"
 height: "196.0"
 weight: "107.0"
 birth_date: "1998.02.06"
-age: null
-country: "French"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

@@ -7,8 +7,9 @@ position: "WTB"
 height: "178.0"
 weight: "90.0"
 birth_date: "2003.06.24"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

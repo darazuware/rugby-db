@@ -7,10 +7,11 @@ position: "SH"
 height: "178.0"
 weight: "77.0"
 birth_date: "1999.11.27"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/keagan-johannes"
 ---

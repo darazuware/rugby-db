@@ -7,10 +7,11 @@ position: "PR"
 height: "193.0"
 weight: "128.0"
 birth_date: "2001.10.04"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-jones"
 ---

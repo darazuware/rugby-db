@@ -7,10 +7,11 @@ position: "CTB"
 height: "191.0"
 weight: "95.0"
 birth_date: "2001.02.22"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/matthew-currie"
 ---

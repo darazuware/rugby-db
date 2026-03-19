@@ -7,10 +7,11 @@ position: "HO"
 height: "178.0"
 weight: "99.0"
 birth_date: "2004.02.06"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jerry-blyth-lafferty"
 ---

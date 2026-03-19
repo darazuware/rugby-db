@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "196.0"
 weight: "105.0"
 birth_date: "2000.10.06"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/charlie-cale"
 ---

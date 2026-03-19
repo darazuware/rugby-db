@@ -7,10 +7,11 @@ position: "Back row"
 height: "0"
 weight: "0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-murphy"
 ---

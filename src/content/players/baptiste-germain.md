@@ -7,8 +7,9 @@ position: "SH"
 height: "174.0"
 weight: "82.0"
 birth_date: "2000.11.21"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "0"

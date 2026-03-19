@@ -7,8 +7,9 @@ position: "HO"
 height: "184.0"
 weight: "110.0"
 birth_date: "2000.09.10"
-age: null
-country: "Italie"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Italy"

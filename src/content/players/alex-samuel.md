@@ -7,10 +7,11 @@ position: "LO"
 height: "206.0"
 weight: "124.0"
 birth_date: "2002.12.27"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/alex-samuel"
 ---

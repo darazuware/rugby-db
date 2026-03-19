@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "124.0"
 birth_date: "1996.09.19"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/corey-domachowski"
 ---

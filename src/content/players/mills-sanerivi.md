@@ -7,10 +7,11 @@ position: "HO"
 height: "181.0"
 weight: "113.0"
 birth_date: "1999.08.31"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/mills-sanerivi"
 ---

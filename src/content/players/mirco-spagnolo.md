@@ -7,10 +7,11 @@ position: "PR"
 height: "186.0"
 weight: "110.0"
 birth_date: "2001.01.02"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/mirco-spagnolo"
 ---

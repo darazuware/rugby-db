@@ -7,10 +7,11 @@ position: "SO"
 height: "177.0"
 weight: "94.0"
 birth_date: "1996.10.24"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/billy-mcbryde"
 ---

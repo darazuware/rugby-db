@@ -7,10 +7,11 @@ position: "SH"
 height: "170.0"
 weight: "81.0"
 birth_date: "1994.04.29"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/caolin-blade"
 ---

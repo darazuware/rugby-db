@@ -7,10 +7,11 @@ position: "FB"
 height: "175.0"
 weight: "75.0"
 birth_date: "2003.06.25"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/finn-hurley"
 ---

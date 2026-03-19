@@ -7,10 +7,11 @@ position: "SO"
 height: "181.0"
 weight: "90.0"
 birth_date: "1994.09.09"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/chris-smith"
 ---

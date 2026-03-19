@@ -7,10 +7,11 @@ position: "FB"
 height: "191.0"
 weight: "94.0"
 birth_date: "1994.06.28"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "England"
 scraped_url: "https://all.rugby/player/mike-haley"
 ---

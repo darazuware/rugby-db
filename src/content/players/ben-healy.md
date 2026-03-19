@@ -7,10 +7,11 @@ position: "SO"
 height: "191.0"
 weight: "100.0"
 birth_date: "1999.06.29"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/ben-healy"
 ---

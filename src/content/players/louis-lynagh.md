@@ -7,10 +7,11 @@ position: "Winger"
 height: "187.0"
 weight: "96.0"
 birth_date: "2000.12.03"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/louis-lynagh"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "180.0"
 weight: "115.0"
 birth_date: "1989.06.06"
-age: null
+age: 36
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/james-slipper"
 ---

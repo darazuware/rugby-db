@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "189.0"
 weight: "109.0"
 birth_date: "1999.04.09"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/kaylum-boshier"
 ---

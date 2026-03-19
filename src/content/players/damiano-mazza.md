@@ -7,10 +7,11 @@ position: "CTB"
 height: "183.0"
 weight: "99.0"
 birth_date: "1999.02.16"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/damiano-mazza"
 ---

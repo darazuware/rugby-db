@@ -7,10 +7,11 @@ position: "Winger"
 height: "182.0"
 weight: "88.0"
 birth_date: "2000.12.16"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ewan-rosser"
 ---

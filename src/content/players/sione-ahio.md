@@ -7,10 +7,11 @@ position: "PR"
 height: "185.0"
 weight: "121.0"
 birth_date: "2001.01.29"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/sione-ahio"
 ---

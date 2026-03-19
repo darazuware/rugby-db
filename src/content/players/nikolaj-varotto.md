@@ -7,10 +7,11 @@ position: "SH"
 height: "170.0"
 weight: "80.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/nikolaj-varotto"
 ---

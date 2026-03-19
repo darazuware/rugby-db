@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "191.0"
 weight: "134.0"
 birth_date: "1992.11.03"
-age: null
-country: "Voir"
+age: 33
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "Australia"

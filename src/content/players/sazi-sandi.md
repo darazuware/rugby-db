@@ -7,10 +7,11 @@ position: "PR"
 height: "181.0"
 weight: "124.0"
 birth_date: "1998.07.11"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sazi-sandi"
 ---

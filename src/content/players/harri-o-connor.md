@@ -7,10 +7,11 @@ position: "PR"
 height: "182.0"
 weight: "118.0"
 birth_date: "2000.10.25"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "England"
 scraped_url: "https://all.rugby/player/harri-o-connor"
 ---

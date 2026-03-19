@@ -7,8 +7,9 @@ position: "HO"
 height: "183.0"
 weight: "102.0"
 birth_date: "1998.06.05"
-age: null
-country: "Poids"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "0"

@@ -7,10 +7,11 @@ position: "CTB"
 height: "186.0"
 weight: "102.0"
 birth_date: "1993.12.17"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/huw-jones"
 ---

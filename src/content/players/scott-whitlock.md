@@ -7,10 +7,11 @@ position: "SH"
 height: "175.0"
 weight: "72.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-whitlock"
 ---

@@ -7,10 +7,11 @@ position: "SH"
 height: "183.0"
 weight: "87.0"
 birth_date: "2001.03.20"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/conor-mckee"
 ---

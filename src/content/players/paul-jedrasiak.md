@@ -7,8 +7,9 @@ position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "1993.02.06"
-age: null
-country: "Français"
+age: 33
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "France"

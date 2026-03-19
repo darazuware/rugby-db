@@ -7,8 +7,9 @@ position: "CTB"
 height: "190.0"
 weight: "97.0"
 birth_date: "1998.05.09"
-age: null
-country: "Poids"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "0"

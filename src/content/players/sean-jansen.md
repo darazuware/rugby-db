@@ -7,10 +7,11 @@ position: "Back row"
 height: "191.0"
 weight: "118.0"
 birth_date: "1999.05.10"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-jansen"
 ---

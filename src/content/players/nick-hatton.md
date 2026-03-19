@@ -7,10 +7,11 @@ position: "Back row"
 height: "191.0"
 weight: "103.0"
 birth_date: "2003.01.17"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/nick-hatton"
 ---

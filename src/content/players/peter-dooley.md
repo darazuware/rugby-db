@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "116.0"
 birth_date: "1994.08.04"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/peter-dooley"
 ---

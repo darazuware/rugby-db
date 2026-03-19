@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "1995.03.16"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/rory-thornton"
 ---

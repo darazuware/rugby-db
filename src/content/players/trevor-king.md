@@ -7,10 +7,11 @@ position: "PR"
 height: "193.0"
 weight: "127.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/trevor-king"
 ---

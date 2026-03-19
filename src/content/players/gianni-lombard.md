@@ -7,10 +7,11 @@ position: "SO"
 height: "178.0"
 weight: "82.0"
 birth_date: "1998.01.22"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gianni-lombard"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "118.0"
 birth_date: "2002.10.31"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/francesco-ruffolo"
 ---

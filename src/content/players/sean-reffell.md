@@ -7,10 +7,11 @@ position: "Back row"
 height: "180.0"
 weight: "102.0"
 birth_date: "1998.11.04"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-reffell"
 ---

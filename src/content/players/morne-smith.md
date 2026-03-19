@@ -7,10 +7,11 @@ position: "PR"
 height: "181.0"
 weight: "119.0"
 birth_date: "1998.01.30"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/morne-smith"
 ---

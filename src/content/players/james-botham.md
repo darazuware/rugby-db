@@ -7,10 +7,11 @@ position: "Back row"
 height: "191.0"
 weight: "108.0"
 birth_date: "1998.02.22"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/james-botham"
 ---

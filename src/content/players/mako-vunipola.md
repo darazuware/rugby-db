@@ -7,8 +7,9 @@ position: "PR"
 height: "180.0"
 weight: "130.0"
 birth_date: "1991.01.14"
-age: null
-country: "Zealander"
+age: 35
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "New Zealand"

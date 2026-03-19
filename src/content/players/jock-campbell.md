@@ -7,10 +7,11 @@ position: "FB"
 height: "186.0"
 weight: "91.0"
 birth_date: "1995.05.17"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jock-campbell"
 ---

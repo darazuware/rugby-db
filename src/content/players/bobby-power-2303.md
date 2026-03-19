@@ -1,0 +1,20 @@
+---
+title: "Bobby POWER | "
+name_en: "Bobby POWER"
+name_ja: ""
+slug: "bobby-power-2303"
+position: "FL/No8"
+height: "192.0"
+weight: "106.0"
+birth_date: "2005.."
+age: 21
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "コナート・ラグビー"
+caps: "0"
+scraped_url: "galwegians rfc (2024 - 2025) -> connacht rugby (2025 - 2026)"
+---
+
+## キャリア遍歴
+

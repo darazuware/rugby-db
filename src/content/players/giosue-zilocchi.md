@@ -7,10 +7,11 @@ position: "PR"
 height: "189.0"
 weight: "115.0"
 birth_date: "1997.01.15"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/giosue-zilocchi"
 ---

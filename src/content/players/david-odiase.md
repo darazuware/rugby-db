@@ -7,10 +7,11 @@ position: "Back row"
 height: "190.0"
 weight: "114.0"
 birth_date: "2003.01.19"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/david-odiase"
 ---

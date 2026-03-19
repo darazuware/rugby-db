@@ -9,6 +9,7 @@ weight: "118.0"
 birth_date: "//2006"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

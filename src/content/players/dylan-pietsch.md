@@ -7,10 +7,11 @@ position: "WTB"
 height: "182.0"
 weight: "95.0"
 birth_date: "1998.04.23"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-pietsch"
 ---

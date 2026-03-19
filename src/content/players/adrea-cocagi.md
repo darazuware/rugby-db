@@ -7,8 +7,9 @@ position: "CTB"
 height: "185.0"
 weight: "109.0"
 birth_date: "1994.03.01"
-age: null
-country: "Fidjien"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "Fiji"

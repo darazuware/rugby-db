@@ -7,10 +7,11 @@ position: "PR"
 height: "180.0"
 weight: "125.0"
 birth_date: "2002.02.25"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/sifa-amone"
 ---

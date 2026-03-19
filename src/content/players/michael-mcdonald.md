@@ -7,10 +7,11 @@ position: "SH"
 height: "178.0"
 weight: "85.0"
 birth_date: "1999.06.24"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-mcdonald"
 ---

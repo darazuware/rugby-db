@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "120.0"
 birth_date: "1993.04.18"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-scrafton"
 ---

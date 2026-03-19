@@ -7,10 +7,11 @@ position: "CTB"
 height: "188.0"
 weight: "103.0"
 birth_date: "1995.04.04"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/enrico-lucchin"
 ---

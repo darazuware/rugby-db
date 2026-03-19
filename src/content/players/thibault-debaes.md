@@ -7,8 +7,9 @@ position: "SO"
 height: "179.0"
 weight: "88.0"
 birth_date: "2001.11.30"
-age: null
-country: "French"
+age: 24
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

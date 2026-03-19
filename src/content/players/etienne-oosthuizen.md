@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "128.0"
 birth_date: "1992.12.22"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/etienne-oosthuizen"
 ---

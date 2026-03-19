@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "125.0"
 birth_date: "2001.05.09"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/temi-lasisi"
 ---

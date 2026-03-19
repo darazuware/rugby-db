@@ -7,8 +7,9 @@ position: "WTB"
 height: "181.0"
 weight: "98.0"
 birth_date: "1993.04.11"
-age: null
-country: "Anglaise"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "England"

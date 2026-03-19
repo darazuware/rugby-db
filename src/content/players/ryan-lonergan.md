@@ -7,10 +7,11 @@ position: "SH"
 height: "184.0"
 weight: "82.0"
 birth_date: "1998.04.06"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/ryan-lonergan"
 ---

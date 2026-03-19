@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "196.0"
 weight: "120.0"
 birth_date: "1993.01.17"
-age: null
-country: "Fijian"
+age: 33
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Fiji"

@@ -7,8 +7,9 @@ position: "PR"
 height: "185.0"
 weight: "112.0"
 birth_date: "1999.05.29"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "France"

@@ -7,10 +7,11 @@ position: "CTB"
 height: "191.0"
 weight: "92.0"
 birth_date: "1996.12.19"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/shane-daly"
 ---

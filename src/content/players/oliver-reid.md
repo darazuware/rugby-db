@@ -7,10 +7,11 @@ position: "PR"
 height: "185.0"
 weight: "116.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/oliver-reid"
 ---

@@ -7,10 +7,11 @@ position: "Back row"
 height: "193.0"
 weight: "105.0"
 birth_date: "2000.07.31"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-o-brien-2000"
 ---

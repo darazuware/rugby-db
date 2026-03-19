@@ -7,10 +7,11 @@ position: "FB"
 height: "183.0"
 weight: "88.0"
 birth_date: "1998.02.08"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/kyle-rowe"
 ---

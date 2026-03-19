@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "126.0"
 birth_date: "1996.01.19"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/zander-fagerson"
 ---

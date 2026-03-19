@@ -7,8 +7,9 @@ position: "LO"
 height: "200.0"
 weight: "127.0"
 birth_date: "1988.02.04"
-age: null
-country: "Fidjien"
+age: 38
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "Fiji"

@@ -7,10 +7,11 @@ position: "FB"
 height: "193.0"
 weight: "101.0"
 birth_date: "2002.07.04"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lorenzo-pani"
 ---

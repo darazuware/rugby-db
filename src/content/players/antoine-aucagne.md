@@ -7,8 +7,9 @@ position: "SO"
 height: "184.0"
 weight: "80.0"
 birth_date: "2000.04.11"
-age: null
-country: "French"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

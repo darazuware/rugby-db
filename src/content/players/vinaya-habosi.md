@@ -7,8 +7,9 @@ position: "WTB"
 height: "184.0"
 weight: "100.0"
 birth_date: "2000.01.30"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

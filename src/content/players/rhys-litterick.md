@@ -7,10 +7,11 @@ position: "PR"
 height: "179.0"
 weight: "120.0"
 birth_date: "1999.03.02"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-litterick"
 ---

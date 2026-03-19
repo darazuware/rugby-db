@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "120.0"
 birth_date: "1995.07.22"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/jeremy-loughman"
 ---

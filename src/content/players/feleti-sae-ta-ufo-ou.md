@@ -7,10 +7,11 @@ position: "PR"
 height: "190.0"
 weight: "112.0"
 birth_date: "2002.06.17"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/feleti-sae-ta-ufo-ou"
 ---

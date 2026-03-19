@@ -1828,17 +1828,6 @@
     },
     {
       "division": "D2",
-      "date": "",
-      "round": 14,
-      "home": "レッドハリケーンズ大阪",
-      "away": "グリーンロケッツ東葛",
-      "score": "VS",
-      "home_flag": "🇯🇵",
-      "away_flag": "🇯🇵",
-      "detail_url": "https://league-one.jp/match/29416"
-    },
-    {
-      "division": "D2",
       "date": "2026-05-10",
       "round": 14,
       "home": "花園近鉄ライナーズ",
@@ -1847,6 +1836,17 @@
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29415"
+    },
+    {
+      "division": "D2",
+      "date": "2026-05-11",
+      "round": 14,
+      "home": "レッドハリケーンズ大阪",
+      "away": "グリーンロケッツ東葛",
+      "score": "VS",
+      "home_flag": "🇯🇵",
+      "away_flag": "🇯🇵",
+      "detail_url": "https://league-one.jp/match/29416"
     },
     {
       "division": "D3",

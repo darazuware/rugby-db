@@ -7,10 +7,11 @@ position: "CTB"
 height: "196.0"
 weight: "102.0"
 birth_date: "1997.02.17"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/jordie-barrett"
 ---

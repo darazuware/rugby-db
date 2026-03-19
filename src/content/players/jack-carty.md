@@ -7,10 +7,11 @@ position: "SO"
 height: "183.0"
 weight: "92.0"
 birth_date: "1992.08.31"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/jack-carty"
 ---

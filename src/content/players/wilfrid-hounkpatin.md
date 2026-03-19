@@ -7,8 +7,9 @@ position: "PR"
 height: "192.0"
 weight: "132.0"
 birth_date: "1991.07.29"
-age: null
-country: "Voir"
+age: 34
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "0"

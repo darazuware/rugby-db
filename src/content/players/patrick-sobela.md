@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "188.0"
 weight: "105.0"
 birth_date: "1992.08.12"
-age: null
-country: "French"
+age: 33
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

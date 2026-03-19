@@ -7,8 +7,9 @@ position: "HO"
 height: "177.0"
 weight: "110.0"
 birth_date: "2004.02.18"
-age: null
-country: "French"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

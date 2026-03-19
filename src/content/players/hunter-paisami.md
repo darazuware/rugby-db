@@ -7,10 +7,11 @@ position: "CTB"
 height: "172.0"
 weight: "91.0"
 birth_date: "1998.04.10"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "Samoa"
 scraped_url: "https://all.rugby/player/hunter-paisami"
 ---

@@ -7,8 +7,9 @@ position: "LO"
 height: "197.0"
 weight: "122.0"
 birth_date: "2000.12.10"
-age: null
-country: "Poids"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "France"

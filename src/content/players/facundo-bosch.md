@@ -7,8 +7,9 @@ position: "HO"
 height: "180.0"
 weight: "102.0"
 birth_date: "1991.08.08"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "Argentina"

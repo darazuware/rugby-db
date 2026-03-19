@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "195.0"
 weight: "117.0"
 birth_date: "1994.10.26"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "Fiji"

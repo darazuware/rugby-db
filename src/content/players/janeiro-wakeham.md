@@ -7,10 +7,11 @@ position: "LO"
 height: "208.0"
 weight: "140.0"
 birth_date: "2003.03.14"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/janeiro-wakeham"
 ---

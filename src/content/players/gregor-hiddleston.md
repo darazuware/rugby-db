@@ -7,10 +7,11 @@ position: "HO"
 height: "187.0"
 weight: "120.0"
 birth_date: "2002.03.26"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gregor-hiddleston"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "120.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-halkon"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "125.0"
 birth_date: "1990.08.21"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-mcnally"
 ---

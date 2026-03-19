@@ -7,10 +7,11 @@ position: "PR"
 height: "184.0"
 weight: "119.0"
 birth_date: "2000.06.25"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/benet-kumeroa"
 ---

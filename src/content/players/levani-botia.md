@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "182.0"
 weight: "103.0"
 birth_date: "1989.03.14"
-age: null
-country: "Fidjienne"
+age: 37
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "Fiji"

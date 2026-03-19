@@ -7,10 +7,11 @@ position: "CTB"
 height: "176.0"
 weight: "88.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/macs-page"
 ---

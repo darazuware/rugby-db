@@ -7,10 +7,11 @@ position: "FB"
 height: "184.0"
 weight: "92.0"
 birth_date: "1989.08.18"
-age: null
+age: 36
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/willie-le-roux"
 ---

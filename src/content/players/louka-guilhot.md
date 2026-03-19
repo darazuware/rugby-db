@@ -9,6 +9,7 @@ weight: "80.0"
 birth_date: "//2006"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

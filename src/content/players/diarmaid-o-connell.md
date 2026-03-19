@@ -7,10 +7,11 @@ position: "Back row"
 height: "0"
 weight: "0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/diarmaid-o-connell"
 ---

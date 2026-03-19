@@ -7,10 +7,11 @@ position: "HO"
 height: "187.0"
 weight: "120.0"
 birth_date: "2003.02.25"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/taine-kolose"
 ---

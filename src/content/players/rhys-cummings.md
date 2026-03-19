@@ -7,10 +7,11 @@ position: "FB"
 height: "183.0"
 weight: "86.0"
 birth_date: "2007.."
-age: null
+age: 19
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-cummings"
 ---

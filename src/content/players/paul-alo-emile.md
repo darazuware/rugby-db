@@ -7,8 +7,9 @@ position: "PR"
 height: "180.0"
 weight: "132.0"
 birth_date: "1991.12.22"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "Australia"

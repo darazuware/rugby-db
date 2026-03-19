@@ -7,10 +7,11 @@ position: "LO"
 height: "196.0"
 weight: "111.0"
 birth_date: "1992.08.08"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jimmy-tupou"
 ---

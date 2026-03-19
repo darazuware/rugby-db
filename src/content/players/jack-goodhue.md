@@ -7,8 +7,9 @@ position: "CTB"
 height: "188.0"
 weight: "102.0"
 birth_date: "1995.06.13"
-age: null
-country: "Néo"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "New Zealand"

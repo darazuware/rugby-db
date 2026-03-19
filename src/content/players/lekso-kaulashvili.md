@@ -7,8 +7,9 @@ position: "PR"
 height: "187.0"
 weight: "128.0"
 birth_date: "1992.08.27"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "Georgia"

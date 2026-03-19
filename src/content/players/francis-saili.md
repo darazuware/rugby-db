@@ -7,8 +7,9 @@ position: "CTB"
 height: "180.0"
 weight: "100.0"
 birth_date: "1991.02.16"
-age: null
-country: "Zealander"
+age: 35
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

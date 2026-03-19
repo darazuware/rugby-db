@@ -7,10 +7,11 @@ position: "FB"
 height: "190.0"
 weight: "91.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/sid-harvey"
 ---

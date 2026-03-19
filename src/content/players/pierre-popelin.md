@@ -7,8 +7,9 @@ position: "SO"
 height: "181.0"
 weight: "87.0"
 birth_date: "1995.06.23"
-age: null
-country: "Français"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

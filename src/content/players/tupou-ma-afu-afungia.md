@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "187.0"
 weight: "105.0"
 birth_date: "1999.09.12"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "mlr"
-team: "NOLA Gold"
+team: "NOLAゴールド"
 caps: "Tonga"
 scraped_url: "https://all.rugby/player/tupou-ma-afu-afungia"
 ---

@@ -7,10 +7,11 @@ position: "Back row"
 height: "192.0"
 weight: "110.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/giacomo-milano"
 ---

@@ -7,10 +7,11 @@ position: "SO"
 height: "185.0"
 weight: "90.0"
 birth_date: "2000.01.13"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/jack-crowley"
 ---

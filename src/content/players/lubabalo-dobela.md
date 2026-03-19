@@ -7,10 +7,11 @@ position: "SO"
 height: "175.0"
 weight: "80.0"
 birth_date: "1998.05.02"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---

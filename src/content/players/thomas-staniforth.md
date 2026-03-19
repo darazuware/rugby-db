@@ -7,8 +7,9 @@ position: "LO"
 height: "198.0"
 weight: "124.0"
 birth_date: "1994.08.13"
-age: null
-country: "Australien"
+age: 31
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

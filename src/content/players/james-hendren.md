@@ -7,10 +7,11 @@ position: "FB"
 height: "189.0"
 weight: "94.0"
 birth_date: "2003.01.22"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-hendren"
 ---

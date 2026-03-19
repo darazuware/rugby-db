@@ -7,10 +7,11 @@ position: "PR"
 height: "186.0"
 weight: "119.0"
 birth_date: "1992.01.30"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/chris-apoua"
 ---

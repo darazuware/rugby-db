@@ -7,10 +7,11 @@ position: "SH"
 height: "175.0"
 weight: "77.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/hassiem-pead"
 ---

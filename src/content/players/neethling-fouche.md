@@ -7,10 +7,11 @@ position: "PR"
 height: "189.0"
 weight: "120.0"
 birth_date: "1993.01.10"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/neethling-fouche"
 ---

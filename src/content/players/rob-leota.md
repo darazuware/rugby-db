@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "190.0"
 weight: "110.0"
 birth_date: "1997.03.03"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "0"

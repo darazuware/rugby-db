@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "115.0"
 birth_date: "1996.07.22"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gary-porter"
 ---

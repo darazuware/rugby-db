@@ -7,10 +7,11 @@ position: "SO"
 height: "176.0"
 weight: "83.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/roberto-fasti"
 ---

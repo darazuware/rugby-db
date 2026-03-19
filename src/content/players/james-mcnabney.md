@@ -7,10 +7,11 @@ position: "Back row"
 height: "196.0"
 weight: "113.0"
 birth_date: "2003.02.28"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-mcnabney"
 ---

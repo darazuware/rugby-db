@@ -7,10 +7,11 @@ position: "PR"
 height: "177.0"
 weight: "107.0"
 birth_date: "1999.04.30"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Argentina"
 scraped_url: "https://all.rugby/player/thomas-gallo"
 ---

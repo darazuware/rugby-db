@@ -7,8 +7,9 @@ position: "FB"
 height: "180.0"
 weight: "85.0"
 birth_date: "1998.08.25"
-age: null
-country: "French"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

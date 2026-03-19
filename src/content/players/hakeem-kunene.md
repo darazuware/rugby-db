@@ -7,10 +7,11 @@ position: "FB"
 height: "183.0"
 weight: "90.0"
 birth_date: "2003.02.03"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/hakeem-kunene"
 ---

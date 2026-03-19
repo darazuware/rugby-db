@@ -7,10 +7,11 @@ position: "FB"
 height: "175.0"
 weight: "77.0"
 birth_date: "1999.01.10"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/thaakir-abrahams"
 ---

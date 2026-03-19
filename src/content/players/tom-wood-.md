@@ -7,10 +7,11 @@ position: "SO"
 height: "188.0"
 weight: "91.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-wood-"
 ---

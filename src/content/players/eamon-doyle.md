@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "112.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/eamon-doyle"
 ---

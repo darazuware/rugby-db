@@ -7,8 +7,9 @@ position: "PR"
 height: "180.0"
 weight: "106.0"
 birth_date: "2000.08.13"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

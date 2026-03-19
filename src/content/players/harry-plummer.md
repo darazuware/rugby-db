@@ -7,8 +7,9 @@ position: "SO"
 height: "184.0"
 weight: "99.0"
 birth_date: "1998.06.19"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "New Zealand"

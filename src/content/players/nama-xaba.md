@@ -7,10 +7,11 @@ position: "Back row"
 height: "185.0"
 weight: "103.0"
 birth_date: "1997.07.26"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/nama-xaba"
 ---

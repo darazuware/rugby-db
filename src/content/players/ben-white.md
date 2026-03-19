@@ -7,8 +7,9 @@ position: "SH"
 height: "180.0"
 weight: "88.0"
 birth_date: "1998.05.27"
-age: null
-country: "Ecosse"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "England"

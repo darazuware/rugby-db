@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "95.0"
 birth_date: "2003.06.02"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/maika-tuitubou"
 ---

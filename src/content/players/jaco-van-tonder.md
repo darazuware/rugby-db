@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "197.0"
 weight: "118.0"
 birth_date: "1998.03.08"
-age: null
-country: "African"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "South Africa"

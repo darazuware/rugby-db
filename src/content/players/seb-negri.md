@@ -7,10 +7,11 @@ position: "Back row"
 height: "194.0"
 weight: "111.0"
 birth_date: "1994.06.30"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/seb-negri"
 ---

@@ -7,10 +7,11 @@ position: "SH"
 height: "175.0"
 weight: "79.0"
 birth_date: "1999.12.18"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-dominguez"
 ---

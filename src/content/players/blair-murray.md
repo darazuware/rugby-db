@@ -7,10 +7,11 @@ position: "FB"
 height: "173.0"
 weight: "83.0"
 birth_date: "2001.10.09"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/blair-murray"
 ---

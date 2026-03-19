@@ -7,10 +7,11 @@ position: "Winger"
 height: "186.0"
 weight: "96.0"
 birth_date: "1995.04.21"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/josh--adams-"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "115.0"
 birth_date: "2000.11.20"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lambert"
 ---

@@ -7,8 +7,9 @@ position: "WTB"
 height: "174.0"
 weight: "84.0"
 birth_date: "1996.10.09"
-age: null
-country: "French"
+age: 29
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

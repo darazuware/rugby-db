@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "90.0"
 birth_date: "1998.02.16"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/tuidraki-samusamuvodre"
 ---

@@ -7,10 +7,11 @@ position: "WTB"
 height: "186.0"
 weight: "96.0"
 birth_date: "1997.12.15"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-potter"
 ---

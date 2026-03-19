@@ -7,8 +7,9 @@ position: "HO"
 height: "183.0"
 weight: "113.0"
 birth_date: "1993.10.29"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "Argentina"

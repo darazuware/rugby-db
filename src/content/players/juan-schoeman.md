@@ -7,10 +7,11 @@ position: "PR"
 height: "186.0"
 weight: "120.0"
 birth_date: "1991.09.18"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/juan-schoeman"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "177.0"
 weight: "110.0"
 birth_date: "1990.08.09"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/denis-buckley"
 ---

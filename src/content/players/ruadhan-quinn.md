@@ -7,10 +7,11 @@ position: "Back row"
 height: "191.0"
 weight: "113.0"
 birth_date: "2003.10.17"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ruadhan-quinn"
 ---

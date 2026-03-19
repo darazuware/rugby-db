@@ -7,10 +7,11 @@ position: "SH"
 height: "183.0"
 weight: "82.0"
 birth_date: "2003.05.21"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/layton-horn"
 ---

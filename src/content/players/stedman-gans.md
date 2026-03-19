@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "99.0"
 birth_date: "1997.03.19"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/stedman-gans"
 ---

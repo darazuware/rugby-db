@@ -7,10 +7,11 @@ position: "PR"
 height: "184.0"
 weight: "118.0"
 birth_date: "1994.05.07"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/pierre-schoeman"
 ---

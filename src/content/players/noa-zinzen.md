@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "192.0"
 weight: "103.0"
 birth_date: "2004.02.24"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

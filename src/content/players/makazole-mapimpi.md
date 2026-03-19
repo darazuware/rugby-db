@@ -7,10 +7,11 @@ position: "Winger"
 height: "184.0"
 weight: "92.0"
 birth_date: "1990.07.26"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/makazole-mapimpi"
 ---

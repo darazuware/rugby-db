@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "116.0"
 birth_date: "1992.08.24"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/rory-sutherland"
 ---

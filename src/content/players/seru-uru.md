@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "197.0"
 weight: "115.0"
 birth_date: "1997.01.03"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/seru-uru"
 ---

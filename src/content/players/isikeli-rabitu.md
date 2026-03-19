@@ -7,10 +7,11 @@ position: "SO"
 height: "0"
 weight: "0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/isikeli-rabitu"
 ---

@@ -7,10 +7,11 @@ position: "HO"
 height: "180.0"
 weight: "92.0"
 birth_date: "2003.07.20"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lewis-lloyd"
 ---

@@ -7,10 +7,11 @@ position: "FB"
 height: "188.0"
 weight: "88.0"
 birth_date: "1995.09.14"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/andrew-knewstubb"
 ---

@@ -7,10 +7,11 @@ position: "WTB"
 height: "191.0"
 weight: "105.0"
 birth_date: "1998.08.30"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ngane-punivai"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "204.0"
 weight: "118.0"
 birth_date: "1998.05.18"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-grant"
 ---

@@ -7,10 +7,11 @@ position: "CTB"
 height: "185.0"
 weight: "106.0"
 birth_date: "1992.09.06"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/clinton-swart"
 ---

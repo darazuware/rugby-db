@@ -7,10 +7,11 @@ position: "CTB"
 height: "179.0"
 weight: "0"
 birth_date: "2004.01.17"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/divad-palu"
 ---

@@ -7,8 +7,9 @@ position: "SO"
 height: "184.0"
 weight: "93.0"
 birth_date: "1993.04.26"
-age: null
-country: "Italian"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Italy"

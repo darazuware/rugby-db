@@ -7,10 +7,11 @@ position: "CTB"
 height: "189.0"
 weight: "100.0"
 birth_date: "2003.02.01"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jonathan-roche"
 ---

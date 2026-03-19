@@ -7,10 +7,11 @@ position: "WTB"
 height: "183.0"
 weight: "84.0"
 birth_date: "1993.07.08"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/andy-muirhead"
 ---

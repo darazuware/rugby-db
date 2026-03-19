@@ -7,8 +7,9 @@ position: "PR"
 height: "180.0"
 weight: "123.0"
 birth_date: "2001.01.31"
-age: null
-country: "French"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

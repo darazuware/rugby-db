@@ -7,10 +7,11 @@ position: "HO"
 height: "177.0"
 weight: "107.0"
 birth_date: "1996.04.28"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-belcher"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "195.0"
 weight: "112.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-cockburn"
 ---

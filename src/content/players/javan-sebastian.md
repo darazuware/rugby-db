@@ -7,10 +7,11 @@ position: "PR"
 height: "177.0"
 weight: "125.0"
 birth_date: "1994.09.27"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/javan-sebastian"
 ---

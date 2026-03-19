@@ -7,8 +7,9 @@ position: "WTB"
 height: "189.0"
 weight: "107.0"
 birth_date: "1999.01.13"
-age: null
-country: "Camerounais"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

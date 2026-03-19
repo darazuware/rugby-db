@@ -7,10 +7,11 @@ position: "SH"
 height: "171.0"
 weight: "80.0"
 birth_date: "1997.04.25"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/embrose-papier"
 ---

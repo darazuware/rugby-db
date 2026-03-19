@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "119.0"
 birth_date: "1996.01.25"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/eli-snyman"
 ---

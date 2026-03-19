@@ -7,8 +7,9 @@ position: "LO"
 height: "200.0"
 weight: "113.0"
 birth_date: "2002.04.30"
-age: null
-country: "Voir"
+age: 23
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "0"

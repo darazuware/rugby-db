@@ -7,10 +7,11 @@ position: "CTB"
 height: "187.0"
 weight: "97.0"
 birth_date: "1993.04.15"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/jan-serfontein"
 ---

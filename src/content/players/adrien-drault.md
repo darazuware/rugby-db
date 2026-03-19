@@ -9,6 +9,7 @@ weight: "94.0"
 birth_date: "//2006"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "0"

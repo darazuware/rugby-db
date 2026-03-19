@@ -7,10 +7,11 @@ position: "SO"
 height: "178.0"
 weight: "85.0"
 birth_date: "2002.04.23"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/tony-butler"
 ---

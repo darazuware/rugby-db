@@ -7,8 +7,9 @@ position: "HO"
 height: "180.0"
 weight: "102.0"
 birth_date: "1994.05.11"
-age: null
-country: "French"
+age: 31
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

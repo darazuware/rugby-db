@@ -7,10 +7,11 @@ position: "LO"
 height: "202.0"
 weight: "125.0"
 birth_date: "2003.04.04"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/fiti-sa"
 ---

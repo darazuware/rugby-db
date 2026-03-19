@@ -7,10 +7,11 @@ position: "SH"
 height: "180.0"
 weight: "85.0"
 birth_date: "1998.02.03"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/reuben-morgan-williams"
 ---

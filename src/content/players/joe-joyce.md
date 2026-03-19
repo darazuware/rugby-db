@@ -7,10 +7,11 @@ position: "LO"
 height: "196.0"
 weight: "119.0"
 birth_date: "1994.02.07"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-joyce"
 ---

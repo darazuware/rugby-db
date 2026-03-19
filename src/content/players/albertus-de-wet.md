@@ -7,10 +7,11 @@ position: "SH"
 height: "176.0"
 weight: "83.0"
 birth_date: "1996.03.16"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/albertus-de-wet"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "118.0"
 birth_date: "2000.01.28"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/cormac-izuchukwu"
 ---

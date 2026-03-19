@@ -7,10 +7,11 @@ position: "WTB"
 height: "190.0"
 weight: "101.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/israel-leota"
 ---

@@ -7,10 +7,11 @@ position: "SO"
 height: "170.0"
 weight: "84.0"
 birth_date: "2007.."
-age: null
+age: 19
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/carwyn-leggatt-jones"
 ---

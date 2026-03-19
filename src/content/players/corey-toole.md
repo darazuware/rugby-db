@@ -7,10 +7,11 @@ position: "WTB"
 height: "178.0"
 weight: "85.0"
 birth_date: "2000.03.07"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/corey-toole"
 ---

@@ -7,10 +7,11 @@ position: "FB"
 height: "183.0"
 weight: "95.0"
 birth_date: "1997.10.10"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-mckay"
 ---

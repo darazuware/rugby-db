@@ -7,8 +7,9 @@ position: "CTB"
 height: "190.0"
 weight: "94.0"
 birth_date: "2003.04.06"
-age: null
-country: "Fidjienne"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "0"

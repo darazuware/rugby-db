@@ -7,10 +7,11 @@ position: "SH"
 height: "174.0"
 weight: "85.0"
 birth_date: "1995.03.31"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/te-toiroa-tahuriorangi"
 ---

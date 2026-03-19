@@ -7,8 +7,9 @@ position: "CTB"
 height: "190.0"
 weight: "110.0"
 birth_date: "1995.03.17"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

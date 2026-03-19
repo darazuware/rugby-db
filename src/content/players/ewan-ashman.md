@@ -7,10 +7,11 @@ position: "HO"
 height: "188.0"
 weight: "113.0"
 birth_date: "2000.04.03"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Canada"
 scraped_url: "https://all.rugby/player/ewan-ashman"
 ---

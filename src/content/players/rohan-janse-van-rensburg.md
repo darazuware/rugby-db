@@ -7,8 +7,9 @@ position: "CTB"
 height: "185.0"
 weight: "109.0"
 birth_date: "1994.09.11"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "South Africa"

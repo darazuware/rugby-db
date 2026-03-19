@@ -7,10 +7,11 @@ position: "CTB"
 height: "187.0"
 weight: "91.0"
 birth_date: "2000.04.10"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-rona"
 ---

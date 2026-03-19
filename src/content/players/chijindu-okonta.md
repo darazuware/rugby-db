@@ -7,10 +7,11 @@ position: "Winger"
 height: "188.0"
 weight: "80.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/chijindu-okonta"
 ---

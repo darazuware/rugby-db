@@ -7,8 +7,9 @@ position: "PR"
 height: "184.0"
 weight: "123.0"
 birth_date: "1997.10.07"
-age: null
-country: "Français"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

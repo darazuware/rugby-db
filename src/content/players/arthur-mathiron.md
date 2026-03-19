@@ -7,8 +7,9 @@ position: "WTB"
 height: "180.0"
 weight: "95.0"
 birth_date: "2003.05.19"
-age: null
-country: "Poids"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "0"

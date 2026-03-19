@@ -7,8 +7,9 @@ position: "CTB"
 height: "188.0"
 weight: "106.0"
 birth_date: "1990.11.05"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "Tonga"

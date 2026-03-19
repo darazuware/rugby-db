@@ -7,10 +7,11 @@ position: "CTB"
 height: "184.0"
 weight: "95.0"
 birth_date: "1997.01.01"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/erich-cronje"
 ---

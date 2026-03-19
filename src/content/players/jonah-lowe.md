@@ -7,10 +7,11 @@ position: "WTB"
 height: "184.0"
 weight: "92.0"
 birth_date: "1996.05.09"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jonah-lowe"
 ---

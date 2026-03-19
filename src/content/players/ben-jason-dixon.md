@@ -7,10 +7,11 @@ position: "LO"
 height: "195.0"
 weight: "114.0"
 birth_date: "1998.04.29"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-jason-dixon"
 ---

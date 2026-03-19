@@ -7,10 +7,11 @@ position: "SO"
 height: "181.0"
 weight: "83.0"
 birth_date: "2001.09.08"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-scott"
 ---

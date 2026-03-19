@@ -7,10 +7,11 @@ position: "CTB"
 height: "183.0"
 weight: "102.0"
 birth_date: "1991.02.22"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/luca-morisi"
 ---

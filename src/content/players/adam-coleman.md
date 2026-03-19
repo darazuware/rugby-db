@@ -7,8 +7,9 @@ position: "LO"
 height: "206.0"
 weight: "122.0"
 birth_date: "1991.10.07"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "Australia"

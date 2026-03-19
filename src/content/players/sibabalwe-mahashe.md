@@ -7,10 +7,11 @@ position: "Back row"
 height: "187.0"
 weight: "93.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sibabalwe-mahashe"
 ---

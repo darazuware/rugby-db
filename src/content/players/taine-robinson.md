@@ -7,10 +7,11 @@ position: "SO"
 height: "180.0"
 weight: "89.0"
 birth_date: "1999.06.15"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/taine-robinson"
 ---

@@ -7,10 +7,11 @@ position: "HO"
 height: "175.0"
 weight: "104.0"
 birth_date: "2001.11.09"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/eoin-de-buitlear"
 ---

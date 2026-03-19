@@ -7,8 +7,9 @@ position: "PR"
 height: "183.0"
 weight: "118.0"
 birth_date: "1998.09.04"
-age: null
-country: "Georgia"
+age: 27
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "Georgia"

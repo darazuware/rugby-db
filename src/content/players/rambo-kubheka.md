@@ -7,10 +7,11 @@ position: "PR"
 height: "181.0"
 weight: "125.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/rambo-kubheka"
 ---

@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "192.0"
 weight: "108.0"
 birth_date: "1999.06.21"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "0"

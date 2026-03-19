@@ -7,8 +7,9 @@ position: "CTB"
 height: "182.0"
 weight: "108.0"
 birth_date: "1982.05.21"
-age: null
-country: "Nouvelle"
+age: 43
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "New Zealand"

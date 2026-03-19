@@ -7,10 +7,11 @@ position: "CTB"
 height: "185.0"
 weight: "98.0"
 birth_date: "1992.05.01"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "Fiji"
 scraped_url: "https://all.rugby/player/virimi-vakatawa"
 ---

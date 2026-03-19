@@ -7,10 +7,11 @@ position: "CTB"
 height: "193.0"
 weight: "115.0"
 birth_date: "1994.03.30"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/andre-esterhuizen"
 ---

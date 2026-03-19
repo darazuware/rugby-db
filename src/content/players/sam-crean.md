@@ -7,10 +7,11 @@ position: "PR"
 height: "176.0"
 weight: "115.0"
 birth_date: "2000.06.12"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-crean"
 ---

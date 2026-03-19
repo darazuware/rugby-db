@@ -9,8 +9,9 @@ weight: "125.0"
 birth_date: ""
 age: null
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-tasesa-volkman"
 ---

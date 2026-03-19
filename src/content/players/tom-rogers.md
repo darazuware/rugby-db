@@ -7,10 +7,11 @@ position: "Winger"
 height: "185.0"
 weight: "87.0"
 birth_date: "1998.12.17"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/tom-rogers"
 ---

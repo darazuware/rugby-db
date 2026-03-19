@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "117.0"
 birth_date: "1995.12.25"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/brandon-paenga-amosa"
 ---

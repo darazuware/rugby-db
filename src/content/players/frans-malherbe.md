@@ -7,10 +7,11 @@ position: "PR"
 height: "190.0"
 weight: "141.0"
 birth_date: "1991.03.14"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/frans-malherbe"
 ---

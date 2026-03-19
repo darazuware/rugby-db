@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "188.0"
 weight: "108.0"
 birth_date: "1996.09.03"
-age: null
-country: "Yacouba"
+age: 29
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "0"

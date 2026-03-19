@@ -7,10 +7,11 @@ position: "HO"
 height: "188.0"
 weight: "109.0"
 birth_date: "2007.."
-age: null
+age: 19
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-howe-22206"
 ---

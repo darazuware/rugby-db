@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "126.0"
 birth_date: "1998.10.23"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/bryan-o-connor"
 ---

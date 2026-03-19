@@ -7,10 +7,11 @@ position: "LO"
 height: "197.0"
 weight: "115.0"
 birth_date: "2000.02.04"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/caleb-delany"
 ---

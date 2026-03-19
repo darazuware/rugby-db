@@ -7,10 +7,11 @@ position: "PR"
 height: "173.0"
 weight: "114.0"
 birth_date: "1998.09.08"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-henry"
 ---

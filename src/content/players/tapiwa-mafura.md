@@ -7,10 +7,11 @@ position: "FB"
 height: "175.0"
 weight: "80.0"
 birth_date: "1996.04.11"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tapiwa-mafura"
 ---

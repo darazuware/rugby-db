@@ -7,10 +7,11 @@ position: "PR"
 height: "184.0"
 weight: "111.0"
 birth_date: "2002.10.27"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-barratt"
 ---

@@ -7,8 +7,9 @@ position: "PR"
 height: "183.0"
 weight: "112.0"
 birth_date: "1993.01.19"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "France"

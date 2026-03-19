@@ -7,10 +7,11 @@ position: "LO"
 height: "197.0"
 weight: "116.0"
 birth_date: "2003.10.03"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/will-stodart"
 ---

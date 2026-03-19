@@ -7,10 +7,11 @@ position: "SH"
 height: "179.0"
 weight: "86.0"
 birth_date: "1998.12.13"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-roe"
 ---

@@ -7,8 +7,9 @@ position: "WTB"
 height: "179.0"
 weight: "84.0"
 birth_date: "1999.03.30"
-age: null
-country: "Voir"
+age: 26
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "0"

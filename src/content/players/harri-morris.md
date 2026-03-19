@@ -7,10 +7,11 @@ position: "Back row"
 height: "180.0"
 weight: "103.0"
 birth_date: "2001.10.13"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-morris"
 ---

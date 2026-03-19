@@ -105,7 +105,7 @@ def main():
             
         all_standings["mlr"] = {
             "standings": sorted(resolved_standings, key=lambda x: (x["points"], x["diff"]), reverse=True),
-            "results": results_data if 'results_data' in locals() else []
+            "results": []
         }
         all_standings["last_updated"] = datetime.now().isoformat()
         

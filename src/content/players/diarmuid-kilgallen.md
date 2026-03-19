@@ -7,10 +7,11 @@ position: "Winger"
 height: "193.0"
 weight: "96.0"
 birth_date: "2000.03.08"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/diarmuid-kilgallen"
 ---

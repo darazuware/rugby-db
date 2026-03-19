@@ -7,10 +7,11 @@ position: "SO"
 height: "179.0"
 weight: "86.0"
 birth_date: "2001.04.05"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/ioan-lloyd"
 ---

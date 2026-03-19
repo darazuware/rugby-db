@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "112.0"
 birth_date: "2000.12.21"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/brodie-coghlan"
 ---

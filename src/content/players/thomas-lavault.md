@@ -7,8 +7,9 @@ position: "LO"
 height: "199.0"
 weight: "108.0"
 birth_date: "1999.05.03"
-age: null
-country: "Française"
+age: 26
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "0"

@@ -7,10 +7,11 @@ position: "CTB"
 height: "188.0"
 weight: "104.0"
 birth_date: "1997.10.03"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/marco-zanon"
 ---

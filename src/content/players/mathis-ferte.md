@@ -7,8 +7,9 @@ position: "FB"
 height: "172.0"
 weight: "77.0"
 birth_date: "2004.02.02"
-age: null
-country: "France"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "0"

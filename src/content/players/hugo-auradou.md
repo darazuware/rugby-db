@@ -7,8 +7,9 @@ position: "LO"
 height: "200.0"
 weight: "105.0"
 birth_date: "2003.07.20"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "France"

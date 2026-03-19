@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "114.0"
 birth_date: "1995.01.28"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/paolo-buonfiglio"
 ---

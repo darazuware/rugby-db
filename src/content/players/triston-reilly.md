@@ -7,10 +7,11 @@ position: "WTB"
 height: "182.0"
 weight: "95.0"
 birth_date: "1999.01.14"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/triston-reilly"
 ---

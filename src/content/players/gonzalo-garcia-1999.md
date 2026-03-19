@@ -7,10 +7,11 @@ position: "SH"
 height: "173.0"
 weight: "82.0"
 birth_date: "1999.03.05"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Argentina"
 scraped_url: "https://all.rugby/player/gonzalo-garcia-1999"
 ---

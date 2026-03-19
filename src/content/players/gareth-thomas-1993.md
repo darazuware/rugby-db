@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1993.08.02"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---

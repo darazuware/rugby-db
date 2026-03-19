@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "192.0"
 weight: "105.0"
 birth_date: "1997.08.22"
-age: null
-country: "French"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

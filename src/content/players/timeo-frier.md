@@ -9,6 +9,7 @@ weight: "95.0"
 birth_date: "//2007"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

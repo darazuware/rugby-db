@@ -7,10 +7,11 @@ position: "Winger"
 height: "183.0"
 weight: "96.0"
 birth_date: "1991.07.24"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/courtnall-skosan"
 ---

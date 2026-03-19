@@ -7,8 +7,9 @@ position: "HO"
 height: "183.0"
 weight: "108.0"
 birth_date: "1998.10.29"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

@@ -7,10 +7,11 @@ position: "SO"
 height: "0"
 weight: "0"
 birth_date: "2003.12.25"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/keillen-cullen"
 ---

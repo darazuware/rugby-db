@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "199.0"
 weight: "112.0"
 birth_date: "1999.09.15"
-age: null
-country: "Zealander"
+age: 26
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

@@ -7,10 +7,11 @@ position: "Back row"
 height: "183.0"
 weight: "91.0"
 birth_date: "2000.02.19"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-boyle"
 ---

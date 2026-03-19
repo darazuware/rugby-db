@@ -7,10 +7,11 @@ position: "PR"
 height: "187.0"
 weight: "125.0"
 birth_date: "2002.08.06"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-wilson-"
 ---

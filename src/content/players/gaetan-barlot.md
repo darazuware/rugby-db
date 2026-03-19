@@ -7,8 +7,9 @@ position: "HO"
 height: "184.0"
 weight: "107.0"
 birth_date: "1997.04.13"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "France"

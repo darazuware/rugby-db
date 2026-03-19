@@ -7,8 +7,9 @@ position: "SH"
 height: "175.0"
 weight: "75.0"
 birth_date: "2002.05.14"
-age: null
-country: "Française"
+age: 23
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "France"

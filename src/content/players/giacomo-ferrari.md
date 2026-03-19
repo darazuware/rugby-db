@@ -7,10 +7,11 @@ position: "Back row"
 height: "190.0"
 weight: "107.0"
 birth_date: "2002.01.22"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/giacomo-ferrari"
 ---

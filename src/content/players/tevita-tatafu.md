@@ -7,8 +7,9 @@ position: "PR"
 height: "185.0"
 weight: "140.0"
 birth_date: "2002.10.13"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "Tonga"

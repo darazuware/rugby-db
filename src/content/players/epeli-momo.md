@@ -7,10 +7,11 @@ position: "WTB"
 height: "184.0"
 weight: "84.0"
 birth_date: "1999.10.22"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/epeli-momo"
 ---

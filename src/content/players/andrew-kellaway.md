@@ -7,10 +7,11 @@ position: "WTB"
 height: "183.0"
 weight: "94.0"
 birth_date: "1995.10.12"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/andrew-kellaway"
 ---

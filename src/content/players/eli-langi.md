@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "193.0"
 weight: "104.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/eli-langi"
 ---

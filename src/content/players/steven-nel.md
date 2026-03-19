@@ -7,10 +7,11 @@ position: "SH"
 height: "178.0"
 weight: "78.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/steven-nel"
 ---

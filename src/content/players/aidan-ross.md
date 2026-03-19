@@ -7,10 +7,11 @@ position: "PR"
 height: "189.0"
 weight: "118.0"
 birth_date: "1995.10.25"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/aidan-ross"
 ---

@@ -7,10 +7,11 @@ position: "CTB"
 height: "187.0"
 weight: "100.0"
 birth_date: "1992.05.10"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Tonga"
 scraped_url: "https://all.rugby/player/malakai-fekitoa"
 ---

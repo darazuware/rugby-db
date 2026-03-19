@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1997.08.28"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/franco-molina"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "185.0"
 weight: "118.0"
 birth_date: "1990.03.13"
-age: null
+age: 36
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/vincent-koch"
 ---

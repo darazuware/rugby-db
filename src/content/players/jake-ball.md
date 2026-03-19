@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "1991.06.21"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "England"
 scraped_url: "https://all.rugby/player/jake-ball"
 ---

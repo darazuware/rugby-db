@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "117.0"
 birth_date: "2000.05.04"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/deon-slabbert"
 ---

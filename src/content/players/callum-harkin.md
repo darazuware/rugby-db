@@ -7,10 +7,11 @@ position: "SO"
 height: "184.0"
 weight: "90.0"
 birth_date: "1999.04.08"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/callum-harkin"
 ---

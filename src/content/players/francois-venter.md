@@ -7,10 +7,11 @@ position: "CTB"
 height: "185.0"
 weight: "95.0"
 birth_date: "1991.04.19"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/francois-venter"
 ---

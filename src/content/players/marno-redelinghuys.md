@@ -9,8 +9,9 @@ weight: "0"
 birth_date: ""
 age: 33
 country: ""
+birth_place_scraped: ""
 league: "mlr"
-team: "Houston SaberCats"
+team: "ヒューストン・セイバーキャッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marno-redelinghuys"
 ---

@@ -7,8 +7,9 @@ position: "WTB"
 height: "190.0"
 weight: "102.0"
 birth_date: "2000.03.14"
-age: null
-country: "Australian"
+age: 26
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Australia"

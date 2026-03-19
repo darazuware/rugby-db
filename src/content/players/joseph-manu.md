@@ -7,8 +7,9 @@ position: "CTB"
 height: "192.0"
 weight: "102.0"
 birth_date: "1996.06.29"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

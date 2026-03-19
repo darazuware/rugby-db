@@ -7,8 +7,9 @@ position: "LO"
 height: "199.0"
 weight: "124.0"
 birth_date: "1995.05.08"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "Fiji"

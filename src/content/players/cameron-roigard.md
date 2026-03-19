@@ -7,10 +7,11 @@ position: "SH"
 height: "183.0"
 weight: "88.0"
 birth_date: "2000.11.16"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/cameron-roigard"
 ---

@@ -7,10 +7,11 @@ position: "Back row"
 height: "188.0"
 weight: "108.0"
 birth_date: "1998.05.05"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/iacopo-bianchi"
 ---

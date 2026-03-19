@@ -7,10 +7,11 @@ position: "HO"
 height: "186.0"
 weight: "115.0"
 birth_date: "1997.02.17"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marnus-van-der-merwe"
 ---

@@ -7,8 +7,9 @@ position: "WTB"
 height: "181.0"
 weight: "102.0"
 birth_date: "1995.06.21"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "France"

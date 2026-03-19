@@ -7,10 +7,11 @@ position: "SH"
 height: "170.0"
 weight: "74.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---

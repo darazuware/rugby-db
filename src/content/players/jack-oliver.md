@@ -7,10 +7,11 @@ position: "SH"
 height: "174.0"
 weight: "81.0"
 birth_date: "2003.04.28"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-oliver"
 ---

@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "109.0"
 birth_date: "1998.12.21"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/matt-faessler"
 ---

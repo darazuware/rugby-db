@@ -7,10 +7,11 @@ position: "LO"
 height: "202.0"
 weight: "125.0"
 birth_date: "2002.06.15"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Waratahs"
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/miles-amatosero"
 ---

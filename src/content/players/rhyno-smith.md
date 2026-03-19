@@ -7,10 +7,11 @@ position: "FB"
 height: "173.0"
 weight: "83.0"
 birth_date: "1993.02.11"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhyno-smith"
 ---

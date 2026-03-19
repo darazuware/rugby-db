@@ -7,10 +7,11 @@ position: "FB"
 height: "175.0"
 weight: "79.0"
 birth_date: "1992.04.16"
-age: null
+age: 33
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/devon-williams"
 ---

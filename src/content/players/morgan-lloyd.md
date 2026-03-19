@@ -7,10 +7,11 @@ position: "SH"
 height: "175.0"
 weight: "84.0"
 birth_date: "2002.10.08"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/morgan-lloyd"
 ---

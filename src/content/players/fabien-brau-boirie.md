@@ -9,6 +9,7 @@ weight: "98.0"
 birth_date: "//2005"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "France"

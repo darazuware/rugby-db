@@ -7,10 +7,11 @@ position: "PR"
 height: "185.0"
 weight: "120.0"
 birth_date: "2000.06.27"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-yendle"
 ---

@@ -7,10 +7,11 @@ position: "CTB"
 height: "185.0"
 weight: "95.0"
 birth_date: "2003.08.08"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/bronson-mills"
 ---

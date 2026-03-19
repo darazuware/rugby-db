@@ -7,10 +7,11 @@ position: "Back row"
 height: "193.0"
 weight: "101.0"
 birth_date: "2002.01.24"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marco-de-witt"
 ---

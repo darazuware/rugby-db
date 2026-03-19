@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "118.0"
 birth_date: "1994.11.04"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/glen-young"
 ---

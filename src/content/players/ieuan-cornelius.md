@@ -7,10 +7,11 @@ position: "Winger"
 height: "188.0"
 weight: "97.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/ieuan-cornelius"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "193.0"
 weight: "100.0"
 birth_date: "1997.06.01"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tuaina-taii-tualima"
 ---

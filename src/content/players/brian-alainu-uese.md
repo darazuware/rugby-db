@@ -7,8 +7,9 @@ position: "LO"
 height: "202.0"
 weight: "135.0"
 birth_date: "1994.03.19"
-age: null
-country: "Samoa"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Samoa"

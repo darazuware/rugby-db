@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "113.0"
 birth_date: "2000.12.02"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/jeremy-williams"
 ---

@@ -7,8 +7,9 @@ position: "HO"
 height: "178.0"
 weight: "101.0"
 birth_date: "1995.12.18"
-age: null
-country: "Règle"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "France"

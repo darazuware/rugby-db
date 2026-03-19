@@ -7,10 +7,11 @@ position: "Back row"
 height: "183.0"
 weight: "87.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-denman"
 ---

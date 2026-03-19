@@ -7,10 +7,11 @@ position: "SO"
 height: "193.0"
 weight: "102.0"
 birth_date: "2000.04.21"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/charlie-savala"
 ---

@@ -7,10 +7,11 @@ position: "LO"
 height: "197.0"
 weight: "115.0"
 birth_date: "1995.11.18"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/mitchell-dunshea"
 ---

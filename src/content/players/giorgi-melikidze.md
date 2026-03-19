@@ -7,8 +7,9 @@ position: "PR"
 height: "179.0"
 weight: "117.0"
 birth_date: "1996.05.24"
-age: null
-country: "Georgia"
+age: 29
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "Georgia"

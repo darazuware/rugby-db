@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "89.0"
 birth_date: "2000.10.19"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/aneurin-owen"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "120.0"
 birth_date: "1999.01.16"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/callum-reid"
 ---

@@ -7,10 +7,11 @@ position: "SO"
 height: "175.0"
 weight: "86.0"
 birth_date: "2004.01.07"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/isaiah-ravula"
 ---

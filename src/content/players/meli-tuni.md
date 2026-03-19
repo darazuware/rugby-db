@@ -7,10 +7,11 @@ position: "PR"
 height: "184.0"
 weight: "99.0"
 birth_date: "2000.06.29"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/meli-tuni"
 ---

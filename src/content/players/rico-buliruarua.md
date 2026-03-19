@@ -7,8 +7,9 @@ position: "CTB"
 height: "186.0"
 weight: "106.0"
 birth_date: "1997.01.23"
-age: null
-country: "Fijian"
+age: 29
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

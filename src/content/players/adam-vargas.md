@@ -7,8 +7,9 @@ position: "WTB"
 height: "180.0"
 weight: "80.0"
 birth_date: "2000.08.11"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

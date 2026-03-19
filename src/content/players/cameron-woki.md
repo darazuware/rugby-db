@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "196.0"
 weight: "111.0"
 birth_date: "1998.11.07"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "France"

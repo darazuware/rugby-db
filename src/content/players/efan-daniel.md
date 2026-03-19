@@ -7,10 +7,11 @@ position: "HO"
 height: "185.0"
 weight: "109.0"
 birth_date: "2002.12.14"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/efan-daniel"
 ---

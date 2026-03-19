@@ -7,10 +7,11 @@ position: "LO"
 height: "199.0"
 weight: "120.0"
 birth_date: "1996.09.30"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-smith-10493"
 ---

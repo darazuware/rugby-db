@@ -7,10 +7,11 @@ position: "SO"
 height: "188.0"
 weight: "88.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/kyle-smith"
 ---

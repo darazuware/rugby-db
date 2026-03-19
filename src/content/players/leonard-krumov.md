@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1996.05.01"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/leonard-krumov"
 ---

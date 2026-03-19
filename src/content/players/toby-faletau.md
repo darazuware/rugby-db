@@ -7,10 +7,11 @@ position: "Back row"
 height: "188.0"
 weight: "115.0"
 birth_date: "1990.11.12"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Tonga"
 scraped_url: "https://all.rugby/player/toby-faletau"
 ---

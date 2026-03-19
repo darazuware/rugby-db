@@ -7,8 +7,9 @@ position: "CTB"
 height: "180.0"
 weight: "79.0"
 birth_date: "2003.04.30"
-age: null
-country: "French"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

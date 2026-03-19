@@ -7,8 +7,9 @@ position: "WTB"
 height: "185.0"
 weight: "89.0"
 birth_date: "2000.09.16"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "0"

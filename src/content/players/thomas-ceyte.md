@@ -7,8 +7,9 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1991.02.13"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

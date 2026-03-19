@@ -7,8 +7,9 @@ position: "SO"
 height: "183.0"
 weight: "87.0"
 birth_date: "1999.08.23"
-age: null
-country: "Argentina"
+age: 26
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "0"

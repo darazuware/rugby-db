@@ -7,10 +7,11 @@ position: "LO"
 height: "202.0"
 weight: "127.0"
 birth_date: "1995.12.02"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/jason-jenkins"
 ---

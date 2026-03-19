@@ -7,10 +7,11 @@ position: "LO"
 height: "202.0"
 weight: "121.0"
 birth_date: "1995.05.09"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jd-schickerling"
 ---

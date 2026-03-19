@@ -1,0 +1,20 @@
+---
+title: "Éanna MCCARTHY | "
+name_en: "Éanna MCCARTHY"
+name_ja: ""
+slug: "anna-mccarthy-2213"
+position: "FL/No8"
+height: "193.0"
+weight: "112.0"
+birth_date: "2005.."
+age: 21
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "コナート・ラグビー"
+caps: "0"
+scraped_url: "connacht rugby (2024 - 2026)"
+---
+
+## キャリア遍歴
+

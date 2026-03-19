@@ -7,10 +7,11 @@ position: "SO"
 height: "183.0"
 weight: "95.0"
 birth_date: "1995.04.04"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "England"
 scraped_url: "https://all.rugby/player/james-lang"
 ---

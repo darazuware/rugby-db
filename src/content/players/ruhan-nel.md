@@ -7,10 +7,11 @@ position: "CTB"
 height: "191.0"
 weight: "101.0"
 birth_date: "1991.05.17"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ruhan-nel"
 ---

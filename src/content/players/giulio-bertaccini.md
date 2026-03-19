@@ -7,10 +7,11 @@ position: "CTB"
 height: "184.0"
 weight: "93.0"
 birth_date: "2000.11.29"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/giulio-bertaccini"
 ---

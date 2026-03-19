@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "192.0"
 weight: "111.0"
 birth_date: "1995.12.08"
-age: null
-country: "Angleterre"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "England"

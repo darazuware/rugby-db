@@ -7,10 +7,11 @@ position: "Winger"
 height: "185.0"
 weight: "103.0"
 birth_date: "1998.09.10"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sako-makata"
 ---

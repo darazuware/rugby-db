@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "92.0"
 birth_date: "2001.05.07"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/henco-van-wyk"
 ---

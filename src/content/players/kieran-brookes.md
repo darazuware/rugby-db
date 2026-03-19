@@ -7,8 +7,9 @@ position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1990.08.29"
-age: null
-country: "English"
+age: 35
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "England"

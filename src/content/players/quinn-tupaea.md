@@ -7,10 +7,11 @@ position: "CTB"
 height: "186.0"
 weight: "97.0"
 birth_date: "1999.05.10"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/quinn-tupaea"
 ---

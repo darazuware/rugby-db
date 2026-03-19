@@ -7,8 +7,9 @@ position: "LO"
 height: "202.0"
 weight: "133.0"
 birth_date: "1994.06.08"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "England"

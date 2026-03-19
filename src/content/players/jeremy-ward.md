@@ -7,8 +7,9 @@ position: "CTB"
 height: "187.0"
 weight: "92.0"
 birth_date: "1996.01.10"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "0"

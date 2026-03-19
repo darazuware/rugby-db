@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "190.0"
 weight: "90.0"
 birth_date: "2003.05.31"
-age: null
-country: "Française"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "France"

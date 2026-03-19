@@ -7,10 +7,11 @@ position: "FB"
 height: "183.0"
 weight: "80.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/iori-badham"
 ---

@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "194.0"
 weight: "116.0"
 birth_date: "1993.09.21"
-age: null
-country: "Zealander"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

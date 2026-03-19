@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "118.0"
 birth_date: "1997.08.08"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "Tonga"
 scraped_url: "https://all.rugby/player/samisoni-taukei-aho"
 ---

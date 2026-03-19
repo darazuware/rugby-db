@@ -7,8 +7,9 @@ position: "SH"
 height: "176.0"
 weight: "90.0"
 birth_date: "1997.05.15"
-age: null
-country: "Français"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

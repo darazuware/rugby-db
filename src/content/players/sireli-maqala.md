@@ -7,8 +7,9 @@ position: "CTB"
 height: "172.0"
 weight: "88.0"
 birth_date: "2000.03.20"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "0"

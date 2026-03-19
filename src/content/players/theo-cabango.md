@@ -7,10 +7,11 @@ position: "Winger"
 height: "175.0"
 weight: "87.0"
 birth_date: "2001.11.29"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/theo-cabango"
 ---

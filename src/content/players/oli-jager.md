@@ -7,10 +7,11 @@ position: "PR"
 height: "192.0"
 weight: "127.0"
 birth_date: "1995.07.05"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/oli-jager"
 ---

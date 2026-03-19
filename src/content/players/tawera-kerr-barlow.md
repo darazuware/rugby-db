@@ -7,8 +7,9 @@ position: "SH"
 height: "187.0"
 weight: "92.0"
 birth_date: "1990.08.15"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "New Zealand"

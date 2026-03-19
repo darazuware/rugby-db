@@ -7,10 +7,11 @@ position: "CTB"
 height: "187.0"
 weight: "103.0"
 birth_date: "1998.09.03"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/bailyn-sullivan"
 ---

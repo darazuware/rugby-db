@@ -7,8 +7,9 @@ position: "SH"
 height: "182.0"
 weight: "95.0"
 birth_date: "1990.12.03"
-age: null
-country: "Zealander"
+age: 35
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

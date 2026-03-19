@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1990.08.09"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/grant-gilchrist"
 ---

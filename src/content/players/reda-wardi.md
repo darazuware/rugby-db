@@ -7,8 +7,9 @@ position: "PR"
 height: "185.0"
 weight: "111.0"
 birth_date: "1995.08.02"
-age: null
-country: "Française"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "0"

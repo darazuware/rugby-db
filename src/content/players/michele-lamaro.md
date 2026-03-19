@@ -7,10 +7,11 @@ position: "Back row"
 height: "188.0"
 weight: "103.0"
 birth_date: "1998.06.03"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Trévise"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "Italy"
 scraped_url: "https://all.rugby/player/michele-lamaro"
 ---

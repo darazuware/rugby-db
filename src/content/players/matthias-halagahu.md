@@ -7,8 +7,9 @@ position: "LO"
 height: "194.0"
 weight: "117.0"
 birth_date: "2001.08.15"
-age: null
-country: "France"
+age: 24
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "France"

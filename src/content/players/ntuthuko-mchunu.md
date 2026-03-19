@@ -7,10 +7,11 @@ position: "PR"
 height: "188.0"
 weight: "123.0"
 birth_date: "1999.04.05"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
 ---

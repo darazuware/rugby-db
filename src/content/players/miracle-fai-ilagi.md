@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "188.0"
 weight: "103.0"
 birth_date: "1999.08.31"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "Samoa"
 scraped_url: "https://all.rugby/player/miracle-fai-ilagi"
 ---

@@ -7,10 +7,11 @@ position: "Back row"
 height: "183.0"
 weight: "100.0"
 birth_date: "1997.02.22"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/bautista-stavile"
 ---

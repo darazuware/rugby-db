@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "193.0"
 weight: "109.0"
 birth_date: "2000.05.06"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/simon-parker"
 ---

@@ -7,10 +7,11 @@ position: "HO"
 height: "181.0"
 weight: "110.0"
 birth_date: "2004.03.07"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ottavio-tuipulotu"
 ---

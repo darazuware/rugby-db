@@ -7,10 +7,11 @@ position: "FB"
 height: "178.0"
 weight: "86.0"
 birth_date: "1988.12.22"
-age: null
+age: 37
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/leigh-halfpenny"
 ---

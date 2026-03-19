@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "185.0"
 weight: "104.0"
 birth_date: "1996.07.12"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/elia-canakaivata"
 ---

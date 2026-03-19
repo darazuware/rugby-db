@@ -7,8 +7,9 @@ position: "LO"
 height: "196.0"
 weight: "95.0"
 birth_date: "2004.01.23"
-age: null
-country: "French"
+age: 22
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "0"

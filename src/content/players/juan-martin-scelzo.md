@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "192.0"
 weight: "110.0"
 birth_date: "2002.02.12"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "Argentina"

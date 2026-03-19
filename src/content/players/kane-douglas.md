@@ -7,8 +7,9 @@ position: "LO"
 height: "202.0"
 weight: "123.0"
 birth_date: "1989.06.01"
-age: null
-country: "Australienne"
+age: 36
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "Australia"

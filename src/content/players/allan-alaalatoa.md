@@ -7,10 +7,11 @@ position: "PR"
 height: "182.0"
 weight: "120.0"
 birth_date: "1994.01.28"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/allan-alaalatoa"
 ---

@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "112.0"
 birth_date: "2001.07.01"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Highlanders"
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/soane-vikena"
 ---

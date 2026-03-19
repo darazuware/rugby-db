@@ -7,10 +7,11 @@ position: "Back row"
 height: "190.0"
 weight: "110.0"
 birth_date: "2001.10.14"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/ben-muncaster"
 ---

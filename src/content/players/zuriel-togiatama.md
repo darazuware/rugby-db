@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "109.0"
 birth_date: "1999.03.02"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/zuriel-togiatama"
 ---

@@ -7,10 +7,11 @@ position: "SO"
 height: "180.0"
 weight: "86.0"
 birth_date: "2000.02.28"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-scully"
 ---

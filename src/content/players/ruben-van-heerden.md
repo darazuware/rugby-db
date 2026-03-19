@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "1997.10.27"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ruben-van-heerden"
 ---

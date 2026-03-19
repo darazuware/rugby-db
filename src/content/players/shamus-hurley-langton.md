@@ -7,10 +7,11 @@ position: "Back row"
 height: "185.0"
 weight: "108.0"
 birth_date: "2000.04.22"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/shamus-hurley-langton"
 ---

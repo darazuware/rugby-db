@@ -7,10 +7,11 @@ position: "SO"
 height: "180.0"
 weight: "92.0"
 birth_date: "1995.07.11"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Connacht"
+team: "コナート・ラグビー"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/josh-ioane"
 ---

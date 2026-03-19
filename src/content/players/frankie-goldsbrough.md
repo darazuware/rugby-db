@@ -7,10 +7,11 @@ position: "CTB"
 height: "187.0"
 weight: "101.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/frankie-goldsbrough"
 ---

@@ -7,10 +7,11 @@ position: "Winger"
 height: "191.0"
 weight: "104.0"
 birth_date: "1996.04.03"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/jacob-stockdale"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "193.0"
 weight: "130.0"
 birth_date: "2000.10.04"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/angus-bell"
 ---

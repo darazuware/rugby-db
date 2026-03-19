@@ -7,10 +7,11 @@ position: "SH"
 height: "178.0"
 weight: "90.0"
 birth_date: "1996.09.28"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jonathan-taumateine"
 ---

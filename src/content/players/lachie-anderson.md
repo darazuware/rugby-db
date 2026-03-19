@@ -7,10 +7,11 @@ position: "WTB"
 height: "188.0"
 weight: "97.0"
 birth_date: "1997.08.27"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lachie-anderson"
 ---

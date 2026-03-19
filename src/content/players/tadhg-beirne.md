@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "114.0"
 birth_date: "1992.01.08"
-age: null
+age: 34
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "Ireland"
 scraped_url: "https://all.rugby/player/tadhg-beirne"
 ---

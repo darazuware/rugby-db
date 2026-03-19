@@ -7,8 +7,9 @@ position: "CTB"
 height: "189.0"
 weight: "99.0"
 birth_date: "1992.05.26"
-age: null
-country: "Italie"
+age: 33
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Argentina"

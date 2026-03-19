@@ -7,10 +7,11 @@ position: "CTB"
 height: "180.0"
 weight: "90.0"
 birth_date: "2000.04.18"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rynhardt-jonker"
 ---

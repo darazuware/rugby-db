@@ -7,10 +7,11 @@ position: "WTB"
 height: "187.0"
 weight: "95.0"
 birth_date: "2000.02.25"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tuna-tuitama-"
 ---

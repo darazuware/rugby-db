@@ -7,10 +7,11 @@ position: "Back row"
 height: "186.0"
 weight: "92.0"
 birth_date: "1998.01.29"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jc-pretorius"
 ---

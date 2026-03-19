@@ -7,10 +7,11 @@ position: "WTB"
 height: "0"
 weight: "0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/isikeli-basiyalo"
 ---

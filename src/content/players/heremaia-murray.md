@@ -7,10 +7,11 @@ position: "WTB"
 height: "188.0"
 weight: "94.0"
 birth_date: "2000.01.11"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/heremaia-murray"
 ---

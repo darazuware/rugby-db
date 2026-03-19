@@ -7,10 +7,11 @@ position: "SO"
 height: "191.0"
 weight: "95.0"
 birth_date: "1991.01.13"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "Fiji"
 scraped_url: "https://all.rugby/player/ben-volavola"
 ---

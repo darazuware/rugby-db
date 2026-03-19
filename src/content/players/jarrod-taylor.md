@@ -7,10 +7,11 @@ position: "Back row"
 height: "188.0"
 weight: "100.0"
 birth_date: "2001.02.15"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jarrod-taylor"
 ---

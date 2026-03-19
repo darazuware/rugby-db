@@ -7,10 +7,11 @@ position: "FB"
 height: "188.0"
 weight: "98.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/oli-woodman"
 ---

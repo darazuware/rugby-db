@@ -7,10 +7,11 @@ position: "HO"
 height: "188.0"
 weight: "115.0"
 birth_date: "1995.01.07"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/ryan-elias"
 ---

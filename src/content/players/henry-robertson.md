@@ -7,10 +7,11 @@ position: "SH"
 height: "180.0"
 weight: "82.0"
 birth_date: "1999.10.22"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Western Force"
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-robertson"
 ---

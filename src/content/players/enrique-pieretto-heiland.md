@@ -7,10 +7,11 @@ position: "PR"
 height: "187.0"
 weight: "122.0"
 birth_date: "1994.12.15"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Argentina"
 scraped_url: "https://all.rugby/player/enrique-pieretto-heiland"
 ---

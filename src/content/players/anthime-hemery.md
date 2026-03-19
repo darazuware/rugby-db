@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "187.0"
 weight: "111.0"
 birth_date: "2001.01.09"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

@@ -7,10 +7,11 @@ position: "PR"
 height: "183.0"
 weight: "124.0"
 birth_date: "1998.09.16"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Glasgow"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/finlay-richardson"
 ---

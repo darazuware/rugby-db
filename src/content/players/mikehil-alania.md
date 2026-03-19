@@ -7,8 +7,9 @@ position: "SH"
 height: "180.0"
 weight: "83.0"
 birth_date: "2000.11.19"
-age: null
-country: "Georgian"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "0"

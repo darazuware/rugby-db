@@ -7,10 +7,11 @@ position: "PR"
 height: "181.0"
 weight: "110.0"
 birth_date: "2002.07.08"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/mike-jones"
 ---

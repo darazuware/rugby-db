@@ -7,10 +7,11 @@ position: "CTB"
 height: "176.0"
 weight: "105.0"
 birth_date: "1999.02.12"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lalomilo-lalomilo"
 ---

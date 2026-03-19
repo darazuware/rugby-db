@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "0"
 weight: "0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-tuitupou-2005"
 ---

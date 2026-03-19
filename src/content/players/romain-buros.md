@@ -7,8 +7,9 @@ position: "FB"
 height: "187.0"
 weight: "97.0"
 birth_date: "1997.07.31"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "France"

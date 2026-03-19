@@ -7,10 +7,11 @@ position: "Winger"
 height: "180.0"
 weight: "87.0"
 birth_date: "2000.06.10"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "Dominican Republic"
 scraped_url: "https://all.rugby/player/albert-batista"
 ---

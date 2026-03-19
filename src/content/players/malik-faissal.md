@@ -7,10 +7,11 @@ position: "Winger"
 height: "183.0"
 weight: "92.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Zebre"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/malik-faissal"
 ---

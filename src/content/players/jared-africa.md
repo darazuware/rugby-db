@@ -7,10 +7,11 @@ position: "Winger"
 height: "175.0"
 weight: "84.0"
 birth_date: "2003.03.27"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jared-africa"
 ---

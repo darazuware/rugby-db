@@ -7,10 +7,11 @@ position: "PR"
 height: "192.0"
 weight: "129.0"
 birth_date: "1996.06.01"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/tyrel-lomax"
 ---

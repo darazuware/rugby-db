@@ -7,10 +7,11 @@ position: "HO"
 height: "188.0"
 weight: "121.0"
 birth_date: "2001.05.08"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jan-hendrik-wessels"
 ---

@@ -7,8 +7,9 @@ position: "FB"
 height: "182.0"
 weight: "82.0"
 birth_date: "2001.12.23"
-age: null
-country: "Poids"
+age: 24
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "0"

@@ -7,10 +7,11 @@ position: "HO"
 height: "181.0"
 weight: "111.0"
 birth_date: "2002.06.20"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "Scotland"
 scraped_url: "https://all.rugby/player/patrick-harrison"
 ---

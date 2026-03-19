@@ -7,10 +7,11 @@ position: "SH"
 height: "179.0"
 weight: "81.0"
 birth_date: "1993.05.05"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/rhodri-williams"
 ---

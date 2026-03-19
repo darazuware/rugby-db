@@ -9,8 +9,9 @@ weight: "115.0"
 birth_date: ""
 age: null
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/jj-scheepers"
 ---

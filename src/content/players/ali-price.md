@@ -7,8 +7,9 @@ position: "SH"
 height: "177.0"
 weight: "88.0"
 birth_date: "1993.05.12"
-age: null
-country: "Voir"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "England"

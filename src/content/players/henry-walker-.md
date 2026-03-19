@@ -7,10 +7,11 @@ position: "HO"
 height: "187.0"
 weight: "100.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-walker-"
 ---

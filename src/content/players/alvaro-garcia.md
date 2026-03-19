@@ -7,8 +7,9 @@ position: "HO"
 height: "180.0"
 weight: "120.0"
 birth_date: "2003.08.22"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "0"

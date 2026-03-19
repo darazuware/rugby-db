@@ -7,10 +7,11 @@ position: "SO"
 height: "175.0"
 weight: "84.0"
 birth_date: "1996.10.04"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/brett-cameron"
 ---

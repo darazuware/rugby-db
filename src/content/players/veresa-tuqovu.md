@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "195.0"
 weight: "107.0"
 birth_date: "2000.06.12"
-age: null
-country: "Fidji"
+age: 25
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"

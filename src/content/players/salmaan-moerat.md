@@ -7,10 +7,11 @@ position: "LO"
 height: "200.0"
 weight: "122.0"
 birth_date: "1998.03.06"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/salmaan-moerat"
 ---

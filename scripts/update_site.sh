@@ -14,9 +14,10 @@ python3 scripts/scrape_sr_results.py
 python3 scripts/scrape_top14_results.py
 python3 scripts/scrape_premiership_results.py
 
-# 2. 順位情報の更新 (all.rugby から最新取得)
+# 2. 順位情報の更新 (all.rugby および各公式から最新取得)
 echo "最新の順位情報を取得中..."
 python3 scripts/scrape_standings.py
+python3 scripts/scrape_mlr_standings.py
 
 # 2. 選手情報の Markdown 再生成 (統合スクリプト：全リーグ対応)
 echo "全選手情報を生成中 (League One, SR, Top 14, URC)..."

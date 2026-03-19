@@ -7,10 +7,11 @@ position: "HO"
 height: "179.0"
 weight: "105.0"
 birth_date: "1996.01.08"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/dafydd-hughes"
 ---

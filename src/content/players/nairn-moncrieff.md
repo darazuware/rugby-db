@@ -7,10 +7,11 @@ position: "Winger"
 height: "178.0"
 weight: "89.0"
 birth_date: "2006.."
-age: null
+age: 20
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Edimbourg"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/nairn-moncrieff"
 ---

@@ -7,8 +7,9 @@ position: "FB"
 height: "182.0"
 weight: "91.0"
 birth_date: "1994.04.15"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "0"

@@ -7,10 +7,11 @@ position: "SH"
 height: "175.0"
 weight: "85.0"
 birth_date: "1990.02.07"
-age: null
+age: 36
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/cobus-reinach"
 ---

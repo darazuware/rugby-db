@@ -7,8 +7,9 @@ position: "HO"
 height: "175.0"
 weight: "98.0"
 birth_date: "1997.04.27"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "0"

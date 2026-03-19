@@ -7,8 +7,9 @@ position: "PR"
 height: "190.0"
 weight: "125.0"
 birth_date: "1998.07.21"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "0"

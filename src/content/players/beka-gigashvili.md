@@ -7,8 +7,9 @@ position: "PR"
 height: "179.0"
 weight: "118.0"
 birth_date: "1992.02.17"
-age: null
-country: "Géorgie"
+age: 34
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Georgia"

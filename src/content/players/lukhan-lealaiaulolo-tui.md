@@ -7,10 +7,11 @@ position: "LO"
 height: "198.0"
 weight: "124.0"
 birth_date: "1996.09.19"
-age: null
+age: 29
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Reds"
+team: "クイーンズランド・レッズ"
 caps: "Samoa"
 scraped_url: "https://all.rugby/player/lukhan-lealaiaulolo-tui"
 ---

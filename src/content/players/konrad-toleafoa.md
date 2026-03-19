@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "190.0"
 weight: "112.0"
 birth_date: "2003.10.29"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Moana Pasifika"
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/konrad-toleafoa"
 ---

@@ -7,10 +7,11 @@ position: "PR"
 height: "179.0"
 weight: "117.0"
 birth_date: "1990.08.31"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-botha"
 ---

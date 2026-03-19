@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "199.0"
 weight: "114.0"
 birth_date: "1993.05.11"
-age: null
-country: "France"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "France"

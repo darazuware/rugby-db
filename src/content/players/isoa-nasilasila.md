@@ -7,10 +7,11 @@ position: "LO"
 height: "197.0"
 weight: "117.0"
 birth_date: "1999.09.13"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Fijian Drua"
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/isoa-nasilasila"
 ---

@@ -7,8 +7,9 @@ position: "PR"
 height: "180.0"
 weight: "145.0"
 birth_date: "1995.03.09"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "Tonga"

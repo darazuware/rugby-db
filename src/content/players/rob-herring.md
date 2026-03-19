@@ -7,10 +7,11 @@ position: "HO"
 height: "185.0"
 weight: "106.0"
 birth_date: "1990.04.27"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "South Africa"
 scraped_url: "https://all.rugby/player/rob-herring"
 ---

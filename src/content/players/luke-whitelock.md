@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "193.0"
 weight: "116.0"
 birth_date: "1991.01.29"
-age: null
+age: 35
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "New Zealand"

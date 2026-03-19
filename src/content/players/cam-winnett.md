@@ -7,10 +7,11 @@ position: "FB"
 height: "180.0"
 weight: "85.0"
 birth_date: "2003.01.07"
-age: null
+age: 23
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Cardiff"
+team: "カーディフ・ラグビー"
 caps: "Wales"
 scraped_url: "https://all.rugby/player/cam-winnett"
 ---

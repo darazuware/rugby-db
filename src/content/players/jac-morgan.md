@@ -7,10 +7,11 @@ position: "Back row"
 height: "182.0"
 weight: "105.0"
 birth_date: "2000.01.21"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ospreys"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jac-morgan"
 ---

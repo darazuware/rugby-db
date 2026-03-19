@@ -7,8 +7,9 @@ position: "PR"
 height: "182.0"
 weight: "112.0"
 birth_date: "1994.01.02"
-age: null
-country: "France"
+age: 32
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Cameroon"

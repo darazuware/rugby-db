@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "105.0"
 birth_date: "2001.01.11"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-stewart"
 ---

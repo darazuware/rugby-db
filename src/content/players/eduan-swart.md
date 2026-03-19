@@ -7,10 +7,11 @@ position: "PR"
 height: "186.0"
 weight: "115.0"
 birth_date: "2000.10.20"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Sharks"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/eduan-swart"
 ---

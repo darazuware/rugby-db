@@ -7,10 +7,11 @@ position: "PR"
 height: "186.0"
 weight: "114.0"
 birth_date: "1993.03.30"
-age: null
+age: 32
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "Australia"
 scraped_url: "https://all.rugby/player/alec-hepburn"
 ---

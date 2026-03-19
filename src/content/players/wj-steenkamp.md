@@ -7,10 +7,11 @@ position: "Back row"
 height: "190.0"
 weight: "107.0"
 birth_date: "2000.09.28"
-age: null
+age: 25
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Lions"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/wj-steenkamp"
 ---

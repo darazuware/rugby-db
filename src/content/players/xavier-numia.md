@@ -7,10 +7,11 @@ position: "PR"
 height: "189.0"
 weight: "116.0"
 birth_date: "1998.11.29"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Hurricanes"
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-numia"
 ---

@@ -7,10 +7,11 @@ position: "CTB"
 height: "186.0"
 weight: "97.0"
 birth_date: "1994.12.22"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "New Zealand"
 scraped_url: "https://all.rugby/player/lalakai-foketi"
 ---

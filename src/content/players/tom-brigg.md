@@ -7,10 +7,11 @@ position: "Back row"
 height: "189.0"
 weight: "104.0"
 birth_date: "2004.."
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Ulster"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-brigg"
 ---

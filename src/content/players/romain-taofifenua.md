@@ -7,8 +7,9 @@ position: "LO"
 height: "202.0"
 weight: "138.0"
 birth_date: "1990.09.14"
-age: null
-country: "Réseaux"
+age: 35
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "France"

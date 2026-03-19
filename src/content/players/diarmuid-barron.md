@@ -7,10 +7,11 @@ position: "HO"
 height: "184.0"
 weight: "100.0"
 birth_date: "1998.08.06"
-age: null
+age: 27
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/diarmuid-barron"
 ---

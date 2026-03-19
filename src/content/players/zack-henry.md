@@ -7,8 +7,9 @@ position: "SO"
 height: "183.0"
 weight: "90.0"
 birth_date: "1994.10.01"
-age: null
+age: 31
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "0"

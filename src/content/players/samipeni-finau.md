@@ -7,10 +7,11 @@ position: "FL/No8"
 height: "196.0"
 weight: "115.0"
 birth_date: "1999.05.10"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Chiefs"
+team: "ワイカト・チーフス"
 caps: "Tonga"
 scraped_url: "https://all.rugby/player/samipeni-finau"
 ---

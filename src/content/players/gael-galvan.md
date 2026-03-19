@@ -9,6 +9,7 @@ weight: "150.0"
 birth_date: "//2005"
 age: null
 country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "0"

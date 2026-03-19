@@ -7,10 +7,11 @@ position: "HO"
 height: "183.0"
 weight: "105.0"
 birth_date: "1997.12.30"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Bulls"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/johan-grobbelaar"
 ---

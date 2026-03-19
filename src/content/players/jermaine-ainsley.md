@@ -7,8 +7,9 @@ position: "PR"
 height: "181.0"
 weight: "127.0"
 birth_date: "1995.08.08"
-age: null
-country: "Poids"
+age: 30
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "New Zealand"

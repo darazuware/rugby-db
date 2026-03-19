@@ -7,10 +7,11 @@ position: "Back row"
 height: "191.0"
 weight: "109.0"
 birth_date: "2000.01.21"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/evan-roos"
 ---

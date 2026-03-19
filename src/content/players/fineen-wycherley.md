@@ -7,10 +7,11 @@ position: "LO"
 height: "196.0"
 weight: "112.0"
 birth_date: "1997.12.11"
-age: null
+age: 28
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Munster"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/fineen-wycherley"
 ---

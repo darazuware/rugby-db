@@ -7,10 +7,11 @@ position: "LO"
 height: "196.0"
 weight: "114.0"
 birth_date: "2002.01.24"
-age: null
+age: 24
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Stormers"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-evans"
 ---

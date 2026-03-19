@@ -7,10 +7,11 @@ position: "Back row"
 height: "196.0"
 weight: "107.0"
 birth_date: "2004.02.02"
-age: null
+age: 22
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Dragons"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-woodman"
 ---

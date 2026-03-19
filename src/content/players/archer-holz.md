@@ -7,10 +7,11 @@ position: "PR"
 height: "189.0"
 weight: "128.0"
 birth_date: "2000.03.01"
-age: null
+age: 26
 country: ""
+birth_place_scraped: ""
 league: "urc"
-team: "Scarlets"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/archer-holz"
 ---

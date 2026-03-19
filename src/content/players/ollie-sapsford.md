@@ -7,10 +7,11 @@ position: "WTB"
 height: "191.0"
 weight: "104.0"
 birth_date: "1995.10.07"
-age: null
+age: 30
 country: ""
+birth_place_scraped: ""
 league: ""
-team: "Brumbies"
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ollie-sapsford"
 ---

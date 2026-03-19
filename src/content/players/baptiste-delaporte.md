@@ -7,8 +7,9 @@ position: "FL/NO8"
 height: "190.0"
 weight: "112.0"
 birth_date: "1997.03.27"
-age: null
-country: "Français"
+age: 28
+country: ""
+birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "0"
