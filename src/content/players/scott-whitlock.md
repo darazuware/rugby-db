@@ -1,27 +1,19 @@
 ---
-title: "スコット ・ WHITLOCK"
+title: "Scott WHITLOCK | "
 name_en: "Scott WHITLOCK"
+name_ja: ""
+slug: "scott-whitlock"
 position: "SH"
-team: "オスプリーズ"
 height: "175.0"
 weight: "72.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/scott-whitlock"
 ---
 
-- Aberavon RFC (2023 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2024 - )
+## キャリア遍歴
+

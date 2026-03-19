@@ -1,30 +1,19 @@
 ---
-title: "デイヴィッド ・ クリエル"
+title: "David KRIEL | "
 name_en: "David KRIEL"
+name_ja: ""
+slug: "david-kriel"
 position: "FB"
-team: "ヴォーダコム・ブルズ"
 height: "195.0"
 weight: "102.0"
 birth_date: "1999.02.15"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/david-kriel"
 ---
 
-- Western Province (2018 - 2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2020 - )
+## キャリア遍歴
+

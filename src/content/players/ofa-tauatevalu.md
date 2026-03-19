@@ -1,27 +1,19 @@
 ---
-title: "オファ・タウアテヴァル"
+title: "Ofa TAUATEVALU | "
 name_en: "Ofa TAUATEVALU"
+name_ja: ""
+slug: "ofa-tauatevalu"
 position: "LO"
-team: "モアナ・パシフィカ"
 height: "196.0"
 weight: "112.0"
 birth_date: "2000.10.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/ofa-tauatevalu"
 ---
 
-- マナワツ (2020 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

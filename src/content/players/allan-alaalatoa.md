@@ -1,26 +1,19 @@
 ---
-title: "アラン・アラアラトア"
+title: "Allan ALAALATOA | "
 name_en: "Allan ALAALATOA"
+name_ja: ""
+slug: "allan-alaalatoa"
 position: "PR"
-team: "ACTブランビーズ"
 height: "182.0"
 weight: "120.0"
 birth_date: "1994.01.28"
-age: 32
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/allan-alaalatoa"
 ---
 
-- ブランビーズ (2013 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ライアン・ロナーガン"
+title: "Ryan LONERGAN | "
 name_en: "Ryan LONERGAN"
+name_ja: ""
+slug: "ryan-lonergan"
 position: "SH"
-team: "ACTブランビーズ"
 height: "184.0"
 weight: "82.0"
 birth_date: "1998.04.06"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/ryan-lonergan"
 ---
 
-- ブランビーズ (2016 - )
+## キャリア遍歴
+

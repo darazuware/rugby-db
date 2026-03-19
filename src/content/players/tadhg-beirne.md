@@ -1,28 +1,19 @@
 ---
-title: "タイグ ・ BEIRNE"
+title: "Tadhg BEIRNE | "
 name_en: "Tadhg BEIRNE"
+name_ja: ""
+slug: "tadhg-beirne"
 position: "LO"
-team: "マンスター・ラグビー"
 height: "198.0"
 weight: "114.0"
 birth_date: "1992.01.08"
-age: 34
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/tadhg-beirne"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2015 - 2016)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2016 - 2018)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - )
+## キャリア遍歴
+

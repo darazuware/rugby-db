@@ -1,30 +1,19 @@
 ---
-title: "ジェームズ・ホール"
+title: "James HALL | "
 name_en: "James HALL"
+name_ja: ""
+slug: "james-hall-1996"
 position: "SH"
-team: "ペルピニャン"
-height: "173"
-weight: "88"
+height: "173.0"
+weight: "88.0"
 birth_date: "1996.01.02"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/james-hall-1996"
 ---
 
-- Southern Kings (2015 - 2016)
-- Oyonnax Rugby (2016 - 2019)
-- Stade Français Paris Rugby (2019 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - )
+## キャリア遍歴
+

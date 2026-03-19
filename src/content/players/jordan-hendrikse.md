@@ -1,28 +1,19 @@
 ---
-title: "Jordan ・ HENDRIKSE"
+title: "Jordan HENDRIKSE | "
 name_en: "Jordan HENDRIKSE"
+name_ja: ""
+slug: "jordan-hendrikse"
 position: "SO"
-team: "ハリウッドベッツ・シャークス"
 height: "188.0"
 weight: "93.0"
 birth_date: "2001.06.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/jordan-hendrikse"
 ---
 
-- Maties Rugby Club (2019 - 2020)
-- Lions Rugby (2020 - 2024)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2024 - )
+## キャリア遍歴
+

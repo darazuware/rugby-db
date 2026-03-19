@@ -1,27 +1,19 @@
 ---
-title: "Ruan ・ DELPORT"
+title: "Ruan DELPORT | "
 name_en: "Ruan DELPORT"
+name_ja: ""
+slug: "ruan-delport"
 position: "Back row"
-team: "エミレーツ・ライオンズ"
 height: "200.0"
 weight: "109.0"
 birth_date: "2002.07.03"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruan-delport"
 ---
 
-- Blue Bulls (2021 - 2022)
-- Lions Rugby (2022 - )
+## キャリア遍歴
+

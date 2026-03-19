@@ -1,32 +1,19 @@
 ---
-title: "スティーヴ・ブラン＝マパズ"
+title: "Steeve BLANC-MAPPAZ | "
 name_en: "Steeve BLANC-MAPPAZ"
+name_ja: ""
+slug: "steeve-blanc-mappaz"
 position: "FL/NO8"
-team: "ヴァンヌ"
-height: "190"
-weight: "103"
+height: "190.0"
+weight: "103.0"
 birth_date: "1990.07.02"
-age: 35
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2026
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/steeve-blanc-mappaz"
 ---
 
-- Stade Olympique Chambéry (2009 - 2017)
-- Rugby Club Vannes (2017 - 2018)
-- FC Grenoble Rugby (2018 - 2024)
-- Lyon Olympique Universitaire Rugby (2024 - 2025)
-- Rugby Club Vannes (2025)
-- Lyon Olympique Universitaire Rugby (2026)
-- Rugby Club Vannes (2026 - )
+## キャリア遍歴
+

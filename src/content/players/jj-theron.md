@@ -1,27 +1,19 @@
 ---
-title: "JJ ・ THERON"
+title: "JJ THERON | "
 name_en: "JJ THERON"
+name_ja: ""
+slug: "jj-theron"
 position: "Back row"
-team: "ヴォーダコム・ブルズ"
 height: "198.0"
 weight: "108.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/jj-theron"
 ---
 
-- Blue Bulls (2024 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

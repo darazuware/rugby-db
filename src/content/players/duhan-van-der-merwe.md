@@ -1,32 +1,19 @@
 ---
-title: "Duhan ・ ファン ・ デル ・ MERWE"
+title: "Duhan VAN DER MERWE | "
 name_en: "Duhan VAN DER MERWE"
+name_ja: ""
+slug: "duhan-van-der-merwe"
 position: "Winger"
-team: "エディンバラ・ラグビー"
 height: "193.0"
 weight: "106.0"
 birth_date: "1995.06.04"
-age: 30
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/duhan-van-der-merwe"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2015 - 2016)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2016 - 2017)
-- Edimbourg Rugby (2017 - 2021)
-- Worcester Warriors (2021 - 2022)
-- Edimbourg Rugby (2022)
-- Worcester Warriors (2023)
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

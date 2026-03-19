@@ -1,30 +1,19 @@
 ---
-title: "マヌ・ツイラギ"
+title: "Manu TUILAGI | "
 name_en: "Manu TUILAGI"
+name_ja: ""
+slug: "manu-tuilagi"
 position: "CTB"
-team: "バイヨンヌ"
-height: "185"
-weight: "111"
+height: "185.0"
+weight: "111.0"
 birth_date: "1991.05.18"
-age: 34
-high_school: ""
-university: ""
-caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Samoa"
+scraped_url: "https://all.rugby/player/manu-tuilagi"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2020 - 2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+## キャリア遍歴
+

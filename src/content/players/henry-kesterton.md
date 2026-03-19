@@ -1,27 +1,19 @@
 ---
-title: "Henry ・ KESTERTON"
+title: "Henry KESTERTON | "
 name_en: "Henry KESTERTON"
+name_ja: ""
+slug: "henry-kesterton"
 position: "CTB"
-team: "エディンバラ・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/henry-kesterton"
 ---
 
-- Heriot's Rugby Club (2024 - 2025)
-- Edimbourg Rugby (2025 - )
+## キャリア遍歴
+

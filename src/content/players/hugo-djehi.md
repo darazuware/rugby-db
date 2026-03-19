@@ -1,27 +1,19 @@
 ---
-title: "ユーゴー・ジェイ"
+title: "Hugo DJEHI | "
 name_en: "Hugo DJEHI"
+name_ja: ""
+slug: "hugo-djehi"
 position: "PR"
-team: "ヴァンヌ"
-height: "183"
-weight: "115"
+height: "183.0"
+weight: "115.0"
 birth_date: "1998.06.30"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/hugo-djehi"
 ---
 
-- US Colomiers (2010 - 2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

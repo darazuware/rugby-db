@@ -1,27 +1,19 @@
 ---
-title: "キティオネ・サラワ・ジュニア"
+title: "Kitione SALAWA JR | "
 name_en: "Kitione SALAWA JR"
+name_ja: ""
+slug: "kitione-salawa-jr"
 position: "FL/No8"
-team: "フィジアン・ドゥルア"
 height: "192.0"
 weight: "95.0"
 birth_date: "2001.05.23"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/kitione-salawa-jr"
 ---
 
-- FIDJI 7's (2020 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+## キャリア遍歴
+

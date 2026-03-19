@@ -1,26 +1,19 @@
 ---
-title: "Matt ・ CURRIE"
+title: "Matt CURRIE | "
 name_en: "Matt CURRIE"
+name_ja: ""
+slug: "matthew-currie"
 position: "CTB"
-team: "エディンバラ・ラグビー"
 height: "191.0"
 weight: "95.0"
 birth_date: "2001.02.22"
-age: 25
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/matthew-currie"
 ---
 
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

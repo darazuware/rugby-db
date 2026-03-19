@@ -1,28 +1,19 @@
 ---
-title: "ウィル・ローランズ"
+title: "Will ROWLANDS | "
 name_en: "Will ROWLANDS"
+name_ja: ""
+slug: "will-rowlands"
 position: "LO"
-team: "ラシン92"
-height: "202"
-weight: "125"
+height: "202.0"
+weight: "125.0"
 birth_date: "1991.09.19"
-age: 34
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/wrowlands45/"
-twitter: "https://x.com/wrowlands45"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "England"
+scraped_url: "https://all.rugby/player/will-rowlands"
 ---
 
-- Wasps (2015 - 2021)
-- Dragons RFC (2021 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )
+## キャリア遍歴
+

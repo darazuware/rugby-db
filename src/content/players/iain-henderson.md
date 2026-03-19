@@ -1,26 +1,19 @@
 ---
-title: "Iain ・ HENDERSON"
+title: "Iain HENDERSON | "
 name_en: "Iain HENDERSON"
+name_ja: ""
+slug: "iain-henderson"
 position: "LO"
-team: "アルスター・ラグビー"
 height: "199.0"
 weight: "119.0"
 birth_date: "1992.02.21"
-age: 34
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/iain-henderson"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2013 - )
+## キャリア遍歴
+

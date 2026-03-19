@@ -1,26 +1,19 @@
 ---
-title: "トム ・ BRIGG"
+title: "Tom BRIGG | "
 name_en: "Tom BRIGG"
+name_ja: ""
+slug: "tom-brigg"
 position: "Back row"
-team: "アルスター・ラグビー"
 height: "189.0"
 weight: "104.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-brigg"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2023 - )
+## キャリア遍歴
+

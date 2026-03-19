@@ -1,27 +1,19 @@
 ---
-title: "Pierre ・ SCHOEMAN"
+title: "Pierre SCHOEMAN | "
 name_en: "Pierre SCHOEMAN"
+name_ja: ""
+slug: "pierre-schoeman"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "184.0"
 weight: "118.0"
 birth_date: "1994.05.07"
-age: 31
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/pierre-schoeman"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2015 - 2018)
-- Edimbourg Rugby (2018 - )
+## キャリア遍歴
+

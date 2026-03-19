@@ -1,28 +1,19 @@
 ---
-title: "マチュー・イリゴイエン"
+title: "Mathieu HIRIGOYEN | "
 name_en: "Mathieu HIRIGOYEN"
+name_ja: ""
+slug: "mathieu-hirigoyen"
 position: "FL/NO8"
-team: "スタッド・フランセ"
-height: "194"
-weight: "103"
+height: "194.0"
+weight: "103.0"
 birth_date: "1999.01.25"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/mathieuhirigoyen/"
-twitter: "https://twitter.com/Mat_Hirigoyen"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/mathieu-hirigoyen"
 ---
 
-- Anglet Olympique Rugby Club (2011 - 2012)
-- Biarritz Olympique Pays Basque (2012 - 2022)
-- Stade Français Paris Rugby (2022 - )
+## キャリア遍歴
+

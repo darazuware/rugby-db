@@ -1,29 +1,19 @@
 ---
-title: "ロペティ・ファイフア"
+title: "Lopeti FAIFUA | "
 name_en: "Lopeti FAIFUA"
+name_ja: ""
+slug: "lopeti-faifua"
 position: "LO"
-team: "ウェスタン・フォース"
 height: "198.0"
 weight: "115.0"
 birth_date: "2002.01.22"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/lopeti-faifua"
 ---
 
-- West Brisbane Bulldogs (2020 - 2021)
-- レッズ (2021 - 2023)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2026)
-- タスマン (2024 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "マシュー ・ VICTORY"
+title: "Matthew VICTORY | "
 name_en: "Matthew VICTORY"
+name_ja: ""
+slug: "matthew-victory"
 position: "HO"
-team: "コナート・ラグビー"
 height: "177.0"
 weight: "100.0"
 birth_date: "2003.05.28"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/matthew-victory"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2023 - )
+## キャリア遍歴
+

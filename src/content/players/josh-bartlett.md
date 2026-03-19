@@ -1,29 +1,19 @@
 ---
-title: "ジョシュ・バートレット"
+title: "Josh BARTLETT | "
 name_en: "Josh BARTLETT"
+name_ja: ""
+slug: "josh-bartlett"
 position: "PR"
-team: "オタゴ・ハイランダーズ"
 height: "183.0"
 weight: "116.0"
 birth_date: "2002.12.28"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-bartlett"
 ---
 
-- ベイ・オブ・プレンティ (2020 - 2025)
-- チーフス (2021 - 2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2024)
-- ハイランダーズ (2024 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "Wyn ・ JONES"
+title: "Wyn JONES | "
 name_en: "Wyn JONES"
+name_ja: ""
+slug: "wyn-jones"
 position: "PR"
-team: "ドラゴンズ・ラグビー"
 height: "184.0"
 weight: "114.0"
 birth_date: "1992.02.26"
-age: 34
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/wyn-jones"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2014 - 2024)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2024 - 2025)
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

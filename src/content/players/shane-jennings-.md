@@ -1,26 +1,19 @@
 ---
-title: "Shane ・ JENNINGS"
+title: "Shane JENNINGS | "
 name_en: "Shane JENNINGS"
+name_ja: ""
+slug: "shane-jennings-"
 position: "Winger"
-team: "コナート・ラグビー"
 height: "191.0"
 weight: "96.0"
 birth_date: "2001.01.14"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/shane-jennings-"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - )
+## キャリア遍歴
+

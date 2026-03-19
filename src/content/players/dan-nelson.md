@@ -1,27 +1,19 @@
 ---
-title: "ダン・ネルソン"
+title: "Dan NELSON | "
 name_en: "Dan NELSON"
+name_ja: ""
+slug: "dan-nelson"
 position: "SH"
-team: "ACTブランビーズ"
 height: "179.0"
 weight: "82.0"
 birth_date: "2004.02.15"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/dan-nelson"
 ---
 
-- ブランビーズ (2023 - 2026)
-- Canberra Royals (2024 - )
+## キャリア遍歴
+

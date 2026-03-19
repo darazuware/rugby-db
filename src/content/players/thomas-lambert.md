@@ -1,27 +1,19 @@
 ---
-title: "トム・ランバート"
+title: "Tom LAMBERT | "
 name_en: "Tom LAMBERT"
+name_ja: ""
+slug: "thomas-lambert"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "188.0"
 weight: "115.0"
 birth_date: "2000.11.20"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-lambert"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - 2022)
-- ワラターズ (2022 - )
+## キャリア遍歴
+

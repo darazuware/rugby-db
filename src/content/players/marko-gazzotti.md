@@ -1,29 +1,19 @@
 ---
-title: "マルコ・ガゾッティ"
+title: "Marko GAZZOTTI | "
 name_en: "Marko GAZZOTTI"
+name_ja: ""
+slug: "marko-gazzotti"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "192"
-weight: "110"
+height: "192.0"
+weight: "110.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/marko-gazzotti"
 ---
 
-- FCAix Rugby (2009 - 2018)
-- Rugby Club Savoie Rumilly (2018 - 2019)
-- FC Grenoble Rugby (2019 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+## キャリア遍歴
+

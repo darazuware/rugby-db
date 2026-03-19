@@ -1,27 +1,19 @@
 ---
-title: "ルーク・ジェイコブソン"
+title: "Luke JACOBSON | "
 name_en: "Luke JACOBSON"
+name_ja: ""
+slug: "luke-jacobson"
 position: "FL/No8"
-team: "ワイカト・チーフス"
 height: "191.0"
 weight: "107.0"
 birth_date: "1997.04.20"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/luke-jacobson"
 ---
 
-- チーフス (2017 - 2026)
-- ワイカト (2019 - )
+## キャリア遍歴
+

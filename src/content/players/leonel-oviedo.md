@@ -1,33 +1,19 @@
 ---
-title: "レオネル・オビエド"
+title: "Leonel OVIEDO | "
 name_en: "Leonel OVIEDO"
+name_ja: ""
+slug: "leonel-oviedo"
 position: "HO"
-team: "ウェスタン・フォース"
 height: "186.0"
 weight: "118.0"
 birth_date: "1998.02.16"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/leonel-oviedo"
 ---
 
-- Jaguares XV (2018 - 2019)
-- Dogos XV (2019 - 2025)
-- Cordoba Athletic Club (2020 - 2021)
-- Céret Sportif (2021 - 2022)
-- Provence Rugby (2022 - 2023)
-- RC Hyères Carqueiranne La Crau (2022 - 2023)
-- Club Atlético Peñarol (2023 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "ベン・タメイフナ"
+title: "Ben TAMEIFUNA | "
 name_en: "Ben TAMEIFUNA"
+name_ja: ""
+slug: "ben-tameifuna"
 position: "PR"
-team: "ボルドー・ベグル"
-height: "188"
-weight: "151"
+height: "188.0"
+weight: "151.0"
 birth_date: "1991.08.30"
-age: 34
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/ben-tameifuna"
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2011 - 2015)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2015 - 2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+## キャリア遍歴
+

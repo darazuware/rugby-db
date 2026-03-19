@@ -1,28 +1,19 @@
 ---
-title: "マラカイ・ハラ"
+title: "Malakai HALA | "
 name_en: "Malakai HALA"
+name_ja: ""
+slug: "malakai-hala"
 position: "PR"
-team: "モアナ・パシフィカ"
 height: "184.0"
 weight: "125.0"
 birth_date: "2003.01.07"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: "mlr"
+team: "New England Free Jacks"
+caps: "0"
+scraped_url: "https://all.rugby/player/malakai-hala"
 ---
 
-- マナワツ (2022 - 2025)
-- New England Free Jacks (2023 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

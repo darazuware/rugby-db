@@ -1,29 +1,19 @@
 ---
-title: "アダム・コールマン"
+title: "Adam COLEMAN | "
 name_en: "Adam COLEMAN"
+name_ja: ""
+slug: "adam-coleman"
 position: "LO"
-team: "ボルドー・ベグル"
-height: "206"
-weight: "122"
+height: "206.0"
+weight: "122.0"
 birth_date: "1991.10.07"
-age: 34
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/adam-coleman"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2017)
-- 🇦🇺 メルボルン・レベルズ (2017 - 2019)
-- London Irish (2019 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+## キャリア遍歴
+

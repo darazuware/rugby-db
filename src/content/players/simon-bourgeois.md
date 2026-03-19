@@ -1,27 +1,19 @@
 ---
-title: "シモン・ブルジョワ"
+title: "Simon BOURGEOIS | "
 name_en: "Simon BOURGEOIS"
+name_ja: ""
+slug: "simon-bourgeois"
 position: "PR"
-team: "ヴァンヌ"
-height: "189"
-weight: "122"
+height: "189.0"
+weight: "122.0"
 birth_date: "2001.11.30"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/simon-bourgeois"
 ---
 
-- Section Lexovienne Rugby (2006 - 2017)
-- Rugby Club Vannes (2017 - )
+## キャリア遍歴
+

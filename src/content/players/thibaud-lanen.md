@@ -1,27 +1,19 @@
 ---
-title: "ティボー・ラナン"
+title: "Thibaud LANEN | "
 name_en: "Thibaud LANEN"
+name_ja: ""
+slug: "thibaud-lanen"
 position: "LO"
-team: "クレルモン"
-height: "198"
-weight: "110"
+height: "198.0"
+weight: "110.0"
 birth_date: "1998.04.01"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2013
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/thibaud-lanen"
 ---
 
-- RC Mende Lozère (2004 - 2013)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2013 - )
+## キャリア遍歴
+

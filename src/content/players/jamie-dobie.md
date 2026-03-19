@@ -1,30 +1,19 @@
 ---
-title: "ジェイミー ・ DOBIE"
+title: "Jamie DOBIE | "
 name_en: "Jamie DOBIE"
+name_ja: ""
+slug: "jamie-dobie"
 position: "SH"
-team: "グラスゴー・ウォリアーズ"
 height: "175.0"
 weight: "81.0"
 birth_date: "2001.06.07"
-age: 24
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/jamie-dobie"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2019 - 2021)
-- Bay of Plenty Steamers (2021)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022)
-- Bay of Plenty Steamers (2022)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022 - )
+## キャリア遍歴
+

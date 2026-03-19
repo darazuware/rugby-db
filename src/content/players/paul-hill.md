@@ -1,27 +1,19 @@
 ---
-title: "ポール ・ HILL"
+title: "Paul HILL | "
 name_en: "Paul HILL"
+name_ja: ""
+slug: "paul-hill"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "189.0"
 weight: "123.0"
 birth_date: "1995.03.02"
-age: 31
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "England"
+scraped_url: "https://all.rugby/player/paul-hill"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2015 - 2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

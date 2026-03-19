@@ -1,0 +1,19 @@
+---
+title: "Daiki Sato | "
+name_en: "Daiki Sato"
+name_ja: ""
+slug: "daiki-sato-1329"
+position: "LO"
+height: "190.0"
+weight: "106.0"
+birth_date: "1995.04.15"
+age: 30
+country: ""
+league: "league-one"
+team: "浦安D-Rocks（2025-26）"
+caps: "高校('13)"
+scraped_url: "https://league-one.jp/player/483512"
+---
+
+## キャリア遍歴
+

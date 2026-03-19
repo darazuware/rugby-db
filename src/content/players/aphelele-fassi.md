@@ -1,26 +1,19 @@
 ---
-title: "Aphelele ・ FASSI"
+title: "Aphelele FASSI | "
 name_en: "Aphelele FASSI"
+name_ja: ""
+slug: "aphelele-fassi"
 position: "FB"
-team: "ハリウッドベッツ・シャークス"
 height: "190.0"
 weight: "94.0"
 birth_date: "1998.01.23"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/aphelele-fassi"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2018 - )
+## キャリア遍歴
+

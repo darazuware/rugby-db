@@ -1,26 +1,19 @@
 ---
-title: "トム ・ HOWE"
+title: "Tom HOWE | "
 name_en: "Tom HOWE"
+name_ja: ""
+slug: "tom-howe-22206"
 position: "HO"
-team: "カーディフ・ラグビー"
 height: "188.0"
 weight: "109.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-howe-22206"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "マチュー・タンギ"
+title: "Mathieu TANGUY | "
 name_en: "Mathieu TANGUY"
+name_ja: ""
+slug: "mathieu-tanguy"
 position: "LO"
-team: "ペルピニャン"
-height: "195"
-weight: "117"
+height: "195.0"
+weight: "117.0"
 birth_date: "1996.06.05"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/mathieu-tanguy"
 ---
 
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2012 - 2022)
-- Rugby Club Toulonnais (2022 - 2023)
-- Union Sportive Arlequins Perpignanais (2023)
-- Rugby Club Toulonnais (2024)
-- Union Sportive Arlequins Perpignanais (2024 - )
+## キャリア遍歴
+

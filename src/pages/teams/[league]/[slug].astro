@@ -8,6 +8,7 @@ import TeamPlayerList from "../../../components/TeamPlayerList";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import teamsData from "../../../../data/teams.json";
 import { getTeamSlug } from "../../../utils/team_utils";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 
 const { league: leagueParam, slug } = Astro.params;
 const team: any = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
@@ -210,6 +211,10 @@ const teamStanding = leagueStandings.find((s: any) =>
         <div class="absolute bottom-0 right-1/4 w-[32rem] h-[32rem] bg-indigo-500/5 rounded-full blur-[160px] -z-10"></div>
 
         <div class="w-full max-w-7xl mx-auto relative z-10 px-4 sm:px-0" id="top">
+            <Breadcrumbs items={[
+                { label: league.toUpperCase().replace("-", " "), href: `/teams/${league}` },
+                { label: teamNameDisplay }
+            ]} />
             {/* クイックナビゲーション (Sticky Nav) */}
             <div class="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 p-1.5 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl scale-90 sm:scale-100">
                 <a href="#info" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">

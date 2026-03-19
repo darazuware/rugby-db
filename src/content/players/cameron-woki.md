@@ -1,30 +1,19 @@
 ---
-title: "キャメロン・ウォキ"
+title: "Cameron WOKI | "
 name_en: "Cameron WOKI"
+name_ja: ""
+slug: "cameron-woki"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "196"
-weight: "111"
+height: "196.0"
+weight: "111.0"
 birth_date: "1998.11.07"
-age: 27
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/cameron-woki"
 ---
 
-- AC Bobigny 93 (2008 - 2012)
-- Rugby Club Massy Essonne (2012 - 2017)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2017 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "アイセア・ナワイ"
+title: "Aisea NAWAI | "
 name_en: "Aisea NAWAI"
+name_ja: ""
+slug: "aisea-nawai"
 position: "WTB"
-team: "フィジアン・ドゥルア"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/aisea-nawai"
 ---
 
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )
+## キャリア遍歴
+

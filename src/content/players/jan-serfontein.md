@@ -1,28 +1,19 @@
 ---
-title: "Jan ・ SERFONTEIN"
+title: "Jan SERFONTEIN | "
 name_en: "Jan SERFONTEIN"
+name_ja: ""
+slug: "jan-serfontein"
 position: "CTB"
-team: "ヴォーダコム・ブルズ"
 height: "187.0"
 weight: "97.0"
 birth_date: "1993.04.15"
-age: 32
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/jan-serfontein"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2012 - 2017)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

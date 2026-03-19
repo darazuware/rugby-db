@@ -1,27 +1,19 @@
 ---
-title: "イオセフォ・ナモセ"
+title: "Iosefo NAMOCE | "
 name_en: "Iosefo NAMOCE"
+name_ja: ""
+slug: "iosefo-namoce"
 position: "CTB"
-team: "フィジアン・ドゥルア"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/iosefo-namoce"
 ---
 
-- Gungahlin Eagles (2024 - 2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

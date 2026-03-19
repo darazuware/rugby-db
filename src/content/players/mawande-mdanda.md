@@ -1,28 +1,19 @@
 ---
-title: "Mawande ・ MDANDA"
+title: "Mawande MDANDA | "
 name_en: "Mawande MDANDA"
+name_ja: ""
+slug: "mawande-mdanda"
 position: "PR"
-team: "ハリウッドベッツ・シャークス"
 height: "189.0"
 weight: "132.0"
 birth_date: "2003.03.09"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/mawande-mdanda"
 ---
 
-- Blue Bulls (2022 - 2023)
-- Natal Sharks (2023 - 2024)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2024 - )
+## キャリア遍歴
+

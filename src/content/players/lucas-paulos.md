@@ -1,30 +1,19 @@
 ---
-title: "ルカス・パウロス"
+title: "Lucas PAULOS | "
 name_en: "Lucas PAULOS"
+name_ja: ""
+slug: "lucas-paulos"
 position: "LO"
-team: "バイヨンヌ"
-height: "199"
-weight: "123"
+height: "199.0"
+weight: "123.0"
 birth_date: "1998.01.09"
-age: 28
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/lucas-paulos"
 ---
 
-- Stade Montois Rugby Pro (2014 - 2017)
-- Olivos RC (2017 - 2018)
-- Jaguares (2018 - 2020)
-- CA Brive Corrèze Limousin (2020 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

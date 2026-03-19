@@ -1,26 +1,19 @@
 ---
-title: "ジェイク・ゴードン"
+title: "Jake GORDON | "
 name_en: "Jake GORDON"
+name_ja: ""
+slug: "jake-gordon"
 position: "SH"
-team: "NSWワラタス（ワラターズ）"
 height: "186.0"
 weight: "91.0"
 birth_date: "1993.07.06"
-age: 32
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/jake-gordon"
 ---
 
-- ワラターズ (2016 - )
+## キャリア遍歴
+

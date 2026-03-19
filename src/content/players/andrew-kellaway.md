@@ -1,30 +1,19 @@
 ---
-title: "アンドリュー・ケラウェイ"
+title: "Andrew KELLAWAY | "
 name_en: "Andrew KELLAWAY"
+name_ja: ""
+slug: "andrew-kellaway"
 position: "WTB"
-team: "NSWワラタス（ワラターズ）"
 height: "183.0"
 weight: "94.0"
 birth_date: "1995.10.12"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/andrew-kellaway"
 ---
 
-- ワラターズ (2015 - 2026)
-- カウンティーズ・マヌカウ (2018 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2018 - 2019)
-- 🇦🇺 メルボルン・レベルズ (2019 - 2024)
-- 🇯🇵 [NECグリーンロケッツ東葛](/teams/league-one/nec-green-rockets-tokatsu) [D2] (2020 - )
+## キャリア遍歴
+

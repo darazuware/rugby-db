@@ -1,32 +1,19 @@
 ---
-title: "シモン・メカ"
+title: "Simon MEKA | "
 name_en: "Simon MEKA"
+name_ja: ""
+slug: "simon-meka"
 position: "FL/NO8"
-team: "カストル"
-height: "192"
-weight: "110"
+height: "192.0"
+weight: "110.0"
 birth_date: "2000.03.14"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/simon-meka"
 ---
 
-- US Canton d'Alban (2011 - 2016)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2016 - 2022)
-- US Carcassonne (2022 - 2023)
-- Sporting Club Albigeois (2023 - 2024)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2024)
-- Sporting Club Albigeois (2025)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )
+## キャリア遍歴
+

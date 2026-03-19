@@ -1,27 +1,19 @@
 ---
-title: "ジェームズ ・ TALAMAI"
+title: "James TALAMAI | "
 name_en: "James TALAMAI"
+name_ja: ""
+slug: "james-talamai"
 position: "HO"
-team: "ドラゴンズ・ラグビー"
 height: "185.0"
 weight: "108.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/james-talamai"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2024 - 2025)
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

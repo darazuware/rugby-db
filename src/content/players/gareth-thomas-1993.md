@@ -1,26 +1,19 @@
 ---
-title: "ガレス ・ トーマス"
+title: "Gareth THOMAS | "
 name_en: "Gareth THOMAS"
+name_ja: ""
+slug: "gareth-thomas-1993"
 position: "PR"
-team: "オスプリーズ"
 height: "188.0"
 weight: "120.0"
 birth_date: "1993.08.02"
-age: 32
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2014
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2014 - )
+## キャリア遍歴
+

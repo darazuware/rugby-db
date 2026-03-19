@@ -1,27 +1,19 @@
 ---
-title: "ジョー・シモンズ"
+title: "Joe SIMMONDS | "
 name_en: "Joe SIMMONDS"
+name_ja: ""
+slug: "joe-simmonds"
 position: "SO"
-team: "ポー"
-height: "183"
-weight: "91"
+height: "183.0"
+weight: "91.0"
 birth_date: "1996.12.19"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-simmonds"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2016 - 2023)
-- Section Paloise Béarn Pyrénées (2023 - )
+## キャリア遍歴
+

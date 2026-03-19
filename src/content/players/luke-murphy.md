@@ -1,27 +1,19 @@
 ---
-title: "ルーク ・ MURPHY"
+title: "Luke MURPHY | "
 name_en: "Luke MURPHY"
+name_ja: ""
+slug: "luke-murphy"
 position: "Back row"
-team: "マンスター・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/luke-murphy"
 ---
 
-- Shannon RFC (2023 - 2024)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2024 - )
+## キャリア遍歴
+

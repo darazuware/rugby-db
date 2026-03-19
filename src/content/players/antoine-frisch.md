@@ -1,35 +1,19 @@
 ---
-title: "アントワーヌ・フリッシュ"
+title: "Antoine FRISCH | "
 name_en: "Antoine FRISCH"
+name_ja: ""
+slug: "antoine-frisch"
 position: "CTB"
-team: "トゥーロン"
-height: "188"
-weight: "99"
+height: "188.0"
+weight: "99.0"
 birth_date: "1996.06.01"
-age: 29
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "France"
+scraped_url: "https://all.rugby/player/antoine-frisch"
 ---
 
-- Rugby Sud 77 (2004 - 2011)
-- Paris Université Club (2011 - 2013)
-- Rugby Club Massy Essonne (2013 - 2016)
-- Stade Français Paris Rugby (2016 - 2018)
-- Stado Tarbes Pyrénées Rugby (2018 - 2019)
-- Rugby Club Massy Essonne (2019 - 2020)
-- Rouen Normandie Rugby (2020 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2021 - 2022)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2022 - 2024)
-- Rugby Club Toulonnais (2024 - )
+## キャリア遍歴
+

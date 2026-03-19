@@ -1,27 +1,19 @@
 ---
-title: "ジュール・クーロン"
+title: "Jules COULON | "
 name_en: "Jules COULON"
+name_ja: ""
+slug: "jules-coulon"
 position: "FL/NO8"
-team: "トゥーロン"
-height: "189"
-weight: "105"
+height: "189.0"
+weight: "105.0"
 birth_date: "2002.07.04"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/jules-coulon"
 ---
 
-- RC Metz (2011 - 2017)
-- Rugby Club Toulonnais (2017 - )
+## キャリア遍歴
+

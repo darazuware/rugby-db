@@ -1,27 +1,19 @@
 ---
-title: "Oli ・ JAGER"
+title: "Oli JAGER | "
 name_en: "Oli JAGER"
+name_ja: ""
+slug: "oli-jager"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "192.0"
 weight: "127.0"
 birth_date: "1995.07.05"
-age: 30
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/oli-jager"
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2016 - 2023)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2023 - )
+## キャリア遍歴
+

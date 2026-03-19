@@ -1,27 +1,19 @@
 ---
-title: "ルロイ・カーター"
+title: "Leroy CARTER | "
 name_en: "Leroy CARTER"
+name_ja: ""
+slug: "leroy-carter"
 position: "WTB"
-team: "ワイカト・チーフス"
 height: "176.0"
 weight: "86.0"
 birth_date: "1999.02.24"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/leroy-carter"
 ---
 
-- ベイ・オブ・プレンティ (2018 - 2025)
-- チーフス (2019 - )
+## キャリア遍歴
+

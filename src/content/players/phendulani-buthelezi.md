@@ -1,26 +1,19 @@
 ---
-title: "Phepsi ・ BUTHELEZI"
+title: "Phepsi BUTHELEZI | "
 name_en: "Phepsi BUTHELEZI"
+name_ja: ""
+slug: "phendulani-buthelezi"
 position: "Back row"
-team: "ハリウッドベッツ・シャークス"
 height: "188.0"
 weight: "108.0"
 birth_date: "1999.05.30"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/phendulani-buthelezi"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2018 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "アルバート・アルコック"
+title: "Albert ALCOCK | "
 name_en: "Albert ALCOCK"
+name_ja: ""
+slug: "albert-alcock"
 position: "HO"
-team: "ウェスタン・フォース"
 height: "175.0"
-weight: ""
+weight: "0"
 birth_date: "2003.11.18"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/albert-alcock"
 ---
 
-- West Harbour RFC (2021 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

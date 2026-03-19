@@ -1,27 +1,19 @@
 ---
-title: "サム ・ SKINNER"
+title: "Sam SKINNER | "
 name_en: "Sam SKINNER"
+name_ja: ""
+slug: "sam-skinner"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "196.0"
 weight: "115.0"
 birth_date: "1995.01.31"
-age: 31
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "England"
+scraped_url: "https://all.rugby/player/sam-skinner"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2022)
-- Edimbourg Rugby (2022 - )
+## キャリア遍歴
+

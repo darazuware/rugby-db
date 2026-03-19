@@ -1,28 +1,19 @@
 ---
-title: "ショーン・ウィジー"
+title: "Sean WITHY | "
 name_en: "Sean WITHY"
+name_ja: ""
+slug: "sean-withy"
 position: "FL/No8"
-team: "オタゴ・ハイランダーズ"
 height: "191.0"
 weight: "108.0"
 birth_date: "2001.02.01"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/sean-withy"
 ---
 
-- オタゴ (2019 - 2023)
-- ハイランダーズ (2020 - 2026)
-- サウスランド (2023 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ティアン・ジェイコブス"
+title: "Tiaan JACOBS | "
 name_en: "Tiaan JACOBS"
+name_ja: ""
+slug: "tiaan-jacobs"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "193"
-weight: "107"
+height: "193.0"
+weight: "107.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/tiaan-jacobs"
 ---
 
-- Biarritz Olympique Pays Basque (2022 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

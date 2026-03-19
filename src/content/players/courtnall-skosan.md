@@ -1,28 +1,19 @@
 ---
-title: "Courtnall ・ SKOSAN"
+title: "Courtnall SKOSAN | "
 name_en: "Courtnall SKOSAN"
+name_ja: ""
+slug: "courtnall-skosan"
 position: "Winger"
-team: "DHLストーマーズ"
 height: "183.0"
 weight: "96.0"
 birth_date: "1991.07.24"
-age: 34
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/courtnall-skosan"
 ---
 
-- Lions Rugby (2013 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2021 - 2023)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2023 - )
+## キャリア遍歴
+

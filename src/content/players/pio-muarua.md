@@ -1,33 +1,19 @@
 ---
-title: "ピオ・ムアルア"
+title: "Pio MUARUA | "
 name_en: "Pio MUARUA"
+name_ja: ""
+slug: "pio-muarua"
 position: "FL/NO8"
-team: "クレルモン"
-height: "191"
-weight: "125"
+height: "191.0"
+weight: "125.0"
 birth_date: "1996.06.28"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/pio-muarua"
 ---
 
-- Sporting Union Agenais (2015 - 2018)
-- Soyaux-Angoulême XV Charente (2018 - 2019)
-- Rugby Club Vannes (2019 - 2020)
-- Stade Montois Rugby Pro (2020)
-- Rugby Club Vannes (2021)
-- Stade Montois Rugby Pro (2021)
-- FC Grenoble Rugby (2021 - 2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )
+## キャリア遍歴
+

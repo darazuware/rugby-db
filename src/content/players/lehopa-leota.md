@@ -1,27 +1,19 @@
 ---
-title: "レホパ・レオタ"
+title: "Lehopa LEOTA | "
 name_en: "Lehopa LEOTA"
+name_ja: ""
+slug: "lehopa-leota"
 position: "PR"
-team: "ラシン92"
-height: "175"
-weight: "130"
+height: "175.0"
+weight: "130.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/lehopa-leota"
 ---
 
-- Brothers Rugby Club (2022 - 2024)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )
+## キャリア遍歴
+

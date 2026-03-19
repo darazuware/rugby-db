@@ -1,27 +1,19 @@
 ---
-title: "ニコラ・ブラウトン"
+title: "Nikora BROUGHTON | "
 name_en: "Nikora BROUGHTON"
+name_ja: ""
+slug: "nikora-broughton"
 position: "FL/No8"
-team: "オタゴ・ハイランダーズ"
 height: "188.0"
 weight: "105.0"
 birth_date: "2001.09.05"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/nikora-broughton"
 ---
 
-- ベイ・オブ・プレンティ (2020 - 2025)
-- ハイランダーズ (2022 - )
+## キャリア遍歴
+

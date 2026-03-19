@@ -1,28 +1,19 @@
 ---
-title: "シェイク・ティベルギアン"
+title: "Cheikh TIBERGHIEN | "
 name_en: "Cheikh TIBERGHIEN"
+name_ja: ""
+slug: "cheikh-tiberghien"
 position: "FB"
-team: "バイヨンヌ"
-height: "186"
-weight: "96"
+height: "186.0"
+weight: "96.0"
 birth_date: "2000.01.08"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/cheikh-tiberghien"
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2013 - 2019)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2019 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

@@ -1,32 +1,19 @@
 ---
-title: "バティスト・ジェルマン"
+title: "Baptiste GERMAIN | "
 name_en: "Baptiste GERMAIN"
+name_ja: ""
+slug: "baptiste-germain"
 position: "SH"
-team: "バイヨンヌ"
-height: "174"
-weight: "82"
+height: "174.0"
+weight: "82.0"
 birth_date: "2000.11.21"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/baptiste-germain"
 ---
 
-- RC Cubzaguais (2007 - 2009)
-- Club Athlétique Bordeaux Bègles Gironde (2009 - 2015)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2020)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020 - 2022)
-- Biarritz Olympique Pays Basque (2022 - 2023)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2023 - 2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+## キャリア遍歴
+

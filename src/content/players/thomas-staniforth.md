@@ -1,28 +1,19 @@
 ---
-title: "トム・スタニフォース"
+title: "Tom STANIFORTH | "
 name_en: "Tom STANIFORTH"
+name_ja: ""
+slug: "thomas-staniforth"
 position: "LO"
-team: "カストル"
-height: "198"
-weight: "124"
+height: "198.0"
+weight: "124.0"
 birth_date: "1994.08.13"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Australien"
-nationality: "Australien"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-staniforth"
 ---
 
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2013 - 2017)
-- New South Wales Waratahs (2017 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "Alec ・ HEPBURN"
+title: "Alec HEPBURN | "
 name_en: "Alec HEPBURN"
+name_ja: ""
+slug: "alec-hepburn"
 position: "PR"
-team: "スカーレッツ"
 height: "186.0"
 weight: "114.0"
 birth_date: "1993.03.30"
-age: 32
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/alec-hepburn"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

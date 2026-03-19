@@ -1,30 +1,19 @@
 ---
-title: "トム ・ CURRIE"
+title: "Tom CURRIE | "
 name_en: "Tom CURRIE"
+name_ja: ""
+slug: "tom-currie"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "190.0"
 weight: "106.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-currie"
 ---
 
-- Edimbourg Rugby (2023 - 2024)
-- Doncaster Knights (2024)
-- Edimbourg Rugby (2025)
-- Doncaster Knights (2025)
-- Edimbourg Rugby (2025 - )
+## キャリア遍歴
+

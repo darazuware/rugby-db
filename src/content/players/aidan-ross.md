@@ -1,28 +1,19 @@
 ---
-title: "エイダン・ロス"
+title: "Aidan ROSS | "
 name_en: "Aidan ROSS"
+name_ja: ""
+slug: "aidan-ross"
 position: "PR"
-team: "クイーンズランド・レッズ"
 height: "189.0"
 weight: "118.0"
 birth_date: "1995.10.25"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/aidan-ross"
 ---
 
-- チーフス (2016 - 2025)
-- ベイ・オブ・プレンティ (2019 - 2024)
-- レッズ (2025 - )
+## キャリア遍歴
+

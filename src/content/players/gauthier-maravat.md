@@ -1,27 +1,19 @@
 ---
-title: "ゴーティエ・マラヴァ"
+title: "Gauthier MARAVAT | "
 name_en: "Gauthier MARAVAT"
+name_ja: ""
+slug: "gauthier-maravat"
 position: "LO"
-team: "カストル"
-height: "198"
-weight: "112"
+height: "198.0"
+weight: "112.0"
 birth_date: "2000.06.11"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/gauthier-maravat"
 ---
 
-- Sporting Union Agenais (2015 - 2022)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2022 - )
+## キャリア遍歴
+

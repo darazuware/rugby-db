@@ -1,28 +1,19 @@
 ---
-title: "ルーク・ホワイトロック"
+title: "Luke WHITELOCK | "
 name_en: "Luke WHITELOCK"
+name_ja: ""
+slug: "luke-whitelock"
 position: "FL/NO8"
-team: "ポー"
-height: "193"
-weight: "116"
+height: "193.0"
+weight: "116.0"
 birth_date: "1991.01.29"
-age: 35
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/luke-whitelock"
 ---
 
-- 🇳🇿 [カンタベリー・クルセイダーズ](/teams/super-rugby/crusaders) (2013 - 2015)
-- 🇳🇿 [オタゴ・ハイランダーズ](/teams/super-rugby/highlanders) (2015 - 2019)
-- Section Paloise Béarn Pyrénées (2019 - )
+## キャリア遍歴
+

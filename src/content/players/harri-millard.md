@@ -1,26 +1,19 @@
 ---
-title: "Harri ・ MILLARD"
+title: "Harri MILLARD | "
 name_en: "Harri MILLARD"
+name_ja: ""
+slug: "harri-millard"
 position: "CTB"
-team: "カーディフ・ラグビー"
 height: "183.0"
 weight: "94.0"
 birth_date: "1996.08.17"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2015
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/harri-millard"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2015 - )
+## キャリア遍歴
+

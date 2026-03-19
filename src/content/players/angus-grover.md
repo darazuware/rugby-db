@@ -1,26 +1,19 @@
 ---
-title: "アンガス・グローヴァー"
+title: "Angus GROVER | "
 name_en: "Angus GROVER"
+name_ja: ""
+slug: "angus-grover"
 position: "SH"
-team: "NSWワラタス（ワラターズ）"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/angus-grover"
 ---
 
-- ワラターズ (2025 - )
+## キャリア遍歴
+

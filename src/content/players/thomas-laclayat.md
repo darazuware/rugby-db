@@ -1,33 +1,19 @@
 ---
-title: "トマ・ラクラヤット"
+title: "Thomas LACLAYAT | "
 name_en: "Thomas LACLAYAT"
+name_ja: ""
+slug: "thomas-laclayat"
 position: "PR"
-team: "ポー"
-height: "177"
-weight: "125"
+height: "177.0"
+weight: "125.0"
 birth_date: "1997.10.02"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "France"
+scraped_url: "https://all.rugby/player/thomas-laclayat"
 ---
 
-- RC Haute Bresse (2012 - 2013)
-- Oyonnax Rugby (2013)
-- RC Haute Bresse (2013)
-- Oyonnax Rugby (2014)
-- RC Haute Bresse (2014)
-- Oyonnax Rugby (2014 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2025)
-- Section Paloise Béarn Pyrénées (2025 - )
+## キャリア遍歴
+

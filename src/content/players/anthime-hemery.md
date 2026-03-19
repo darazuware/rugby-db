@@ -1,30 +1,19 @@
 ---
-title: "アンティム・エムリー"
+title: "Anthime HEMERY | "
 name_en: "Anthime HEMERY"
+name_ja: ""
+slug: "anthime-hemery"
 position: "FL/NO8"
-team: "クレルモン"
-height: "187"
-weight: "111"
+height: "187.0"
+weight: "111.0"
 birth_date: "2001.01.09"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/anthime-hemery"
 ---
 
-- Ovale du Gy (2006 - 2016)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2016 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

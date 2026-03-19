@@ -1,28 +1,19 @@
 ---
-title: "ユーゴー・プラマー"
+title: "Hugo PLUMMER | "
 name_en: "Hugo PLUMMER"
+name_ja: ""
+slug: "hugo-plummer"
 position: "LO"
-team: "ウェリントン・ハリケーンズ"
 height: "198.0"
 weight: "119.0"
 birth_date: "2000.08.25"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/hugo-plummer"
 ---
 
-- ウェリントン (2021 - 2025)
-- ハリケーンズ (2022 - 2026)
-- ハイランダーズ (2023 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "グラント ・ GILCHRIST"
+title: "Grant GILCHRIST | "
 name_en: "Grant GILCHRIST"
+name_ja: ""
+slug: "grant-gilchrist"
 position: "LO"
-team: "エディンバラ・ラグビー"
 height: "198.0"
 weight: "120.0"
 birth_date: "1990.08.09"
-age: 35
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/grant-gilchrist"
 ---
 
-- Edimbourg Rugby (2013 - )
+## キャリア遍歴
+

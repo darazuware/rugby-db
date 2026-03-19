@@ -1,28 +1,19 @@
 ---
-title: "ルイ・フルサン＝ブルデット"
+title: "Louis FOURSANS-BOURDETTE | "
 name_en: "Louis FOURSANS-BOURDETTE"
+name_ja: ""
+slug: "louis-foursans-bourdette"
 position: "SO"
-team: "スタッド・フランセ"
-height: "171"
-weight: "81"
+height: "171.0"
+weight: "81.0"
 birth_date: "2002.01.29"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/louisfoursans/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/louis-foursans-bourdette"
 ---
 
-- Rugby Club Nîmois (2010 - 2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2024)
-- Stade Français Paris Rugby (2024 - )
+## キャリア遍歴
+

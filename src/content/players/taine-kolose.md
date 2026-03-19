@@ -1,27 +1,19 @@
 ---
-title: "テイン・コロセ"
+title: "Taine KOLOSE | "
 name_en: "Taine KOLOSE"
+name_ja: ""
+slug: "taine-kolose"
 position: "HO"
-team: "ワイカト・チーフス"
 height: "187.0"
 weight: "120.0"
 birth_date: "2003.02.25"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/taine-kolose"
 ---
 
-- ベイ・オブ・プレンティ (2022 - 2025)
-- チーフス (2025 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "ジェローム・レイ"
+title: "Jérôme REY | "
 name_en: "Jérôme REY"
+name_ja: ""
+slug: "jerome-rey"
 position: "PR"
-team: "リヨン"
-height: "183"
-weight: "133"
+height: "183.0"
+weight: "133.0"
 birth_date: "1995.05.19"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/jerome-rey"
 ---
 
-- US Montmélian (2011 - 2013)
-- CS Bourgoin Jallieu Rugby (2015 - 2017)
-- Stade Olympique Chambéry (2017 - 2019)
-- FC Grenoble Rugby (2019 - 2021)
-- Lyon Olympique Universitaire Rugby (2021 - )
+## キャリア遍歴
+

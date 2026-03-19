@@ -1,28 +1,19 @@
 ---
-title: "テモ・マティウ"
+title: "Temo MATIU | "
 name_en: "Temo MATIU"
+name_ja: ""
+slug: "temo-matiu"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "191"
-weight: "100"
+height: "191.0"
+weight: "100.0"
 birth_date: "2001.07.20"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/temo-matiu"
 ---
 
-- Pennes-Mirabeau Cadeneaux Rugby (2007 - 2008)
-- Biarritz Olympique Pays Basque (2011 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

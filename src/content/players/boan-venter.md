@@ -1,27 +1,19 @@
 ---
-title: "Boan ・ VENTER"
+title: "Boan VENTER | "
 name_en: "Boan VENTER"
+name_ja: ""
+slug: "boan-venter"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "187.0"
 weight: "124.0"
 birth_date: "1997.04.12"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/boan-venter"
 ---
 
-- Central Cheetahs (2018 - 2020)
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

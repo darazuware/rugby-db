@@ -1,26 +1,19 @@
 ---
-title: "コナー ・ O'SHAUGHNESSY"
+title: "Conor O'SHAUGHNESSY | "
 name_en: "Conor O'SHAUGHNESSY"
+name_ja: ""
+slug: "conor-o-shaughnessy"
 position: "SO"
-team: "コナート・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/conor-o-shaughnessy"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2025 - )
+## キャリア遍歴
+

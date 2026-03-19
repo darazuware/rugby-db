@@ -1,28 +1,19 @@
 ---
-title: "ブランドン・パエンガ＝アモサ"
+title: "Brandon PAENGA-AMOSA | "
 name_en: "Brandon PAENGA-AMOSA"
+name_ja: ""
+slug: "brandon-paenga-amosa"
 position: "HO"
-team: "ウェスタン・フォース"
 height: "183.0"
 weight: "117.0"
 birth_date: "1995.12.25"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/brandon-paenga-amosa"
 ---
 
-- レッズ (2017 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

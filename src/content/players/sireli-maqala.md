@@ -1,27 +1,19 @@
 ---
-title: "シレリ・マカラ"
+title: "Sireli MAQALA | "
 name_en: "Sireli MAQALA"
+name_ja: ""
+slug: "sireli-maqala"
 position: "CTB"
-team: "バイヨンヌ"
-height: "172"
-weight: "88"
+height: "172.0"
+weight: "88.0"
 birth_date: "2000.03.20"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/sireli-maqala"
 ---
 
-- FIDJI 7's (2020 - 2021)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "オースティン・アンダーソン"
+title: "Austin ANDERSON | "
 name_en: "Austin ANDERSON"
+name_ja: ""
+slug: "austin-anderson"
 position: "CTB"
-team: "ACTブランビーズ"
 height: "186.0"
 weight: "94.0"
 birth_date: "2003.11.18"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/austin-anderson"
 ---
 
-- ワイカト (2022 - 2025)
-- ブランビーズ (2023 - )
+## キャリア遍歴
+

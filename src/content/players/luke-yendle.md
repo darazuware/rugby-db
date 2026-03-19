@@ -1,37 +1,19 @@
 ---
-title: "ルーク ・ YENDLE"
+title: "Luke YENDLE | "
 name_en: "Luke YENDLE"
+name_ja: ""
+slug: "luke-yendle"
 position: "PR"
-team: "ドラゴンズ・ラグビー"
 height: "185.0"
 weight: "120.0"
 birth_date: "2000.06.27"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2026
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/luke-yendle"
 ---
 
-- Dragons RFC (2018 - 2021)
-- Jersey Reds (2021)
-- Dragons RFC (2022)
-- Jersey Reds (2022)
-- Dragons RFC (2022 - 2023)
-- Ampthill Rugby (2023)
-- Dragons RFC (2023)
-- Ampthill Rugby (2024)
-- Dragons RFC (2024 - 2025)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2025)
-- Dragons RFC (2026)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2026 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "コナー ・ ライアン"
+title: "Conor RYAN | "
 name_en: "Conor RYAN"
+name_ja: ""
+slug: "conor-ryan"
 position: "LO"
-team: "マンスター・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2003.10.04"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/conor-ryan"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "Ruan ・ NORTJ"
+title: "Ruan NORTJÉ | "
 name_en: "Ruan NORTJÉ"
+name_ja: ""
+slug: "ruan-nortje"
 position: "LO"
-team: "ヴォーダコム・ブルズ"
 height: "200.0"
 weight: "113.0"
 birth_date: "1998.07.25"
-age: 27
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/ruan-nortje"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - 2018)
-- Blue Bulls (2018 - 2019)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019 - )
+## キャリア遍歴
+

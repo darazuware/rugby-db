@@ -1,26 +1,19 @@
 ---
-title: "トム ・ PHILLIPS"
+title: "Tom PHILLIPS | "
 name_en: "Tom PHILLIPS"
+name_ja: ""
+slug: "tom-phillips-"
 position: "PR"
-team: "スカーレッツ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-phillips-"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

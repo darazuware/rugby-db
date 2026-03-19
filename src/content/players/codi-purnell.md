@@ -1,27 +1,19 @@
 ---
-title: "Codi ・ PURNELL"
+title: "Codi PURNELL | "
 name_en: "Codi PURNELL"
+name_ja: ""
+slug: "codi-purnell"
 position: "PR"
-team: "ドラゴンズ・ラグビー"
 height: "190.0"
 weight: "140.0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/codi-purnell"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2024 - 2025)
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Nick ・ TIMONEY"
+title: "Nick TIMONEY | "
 name_en: "Nick TIMONEY"
+name_ja: ""
+slug: "nick-timoney"
 position: "Back row"
-team: "アルスター・ラグビー"
 height: "188.0"
 weight: "114.0"
 birth_date: "1995.08.01"
-age: 30
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/nick-timoney"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2016 - )
+## キャリア遍歴
+

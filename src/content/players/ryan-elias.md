@@ -1,26 +1,19 @@
 ---
-title: "ライアン ・ ELIAS"
+title: "Ryan ELIAS | "
 name_en: "Ryan ELIAS"
+name_ja: ""
+slug: "ryan-elias"
 position: "HO"
-team: "スカーレッツ"
 height: "188.0"
 weight: "115.0"
 birth_date: "1995.01.07"
-age: 31
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2014
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/ryan-elias"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2014 - )
+## キャリア遍歴
+

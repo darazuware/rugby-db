@@ -1,27 +1,19 @@
 ---
-title: "ジョーダン・ウエレセ"
+title: "Jordan UELESE | "
 name_en: "Jordan UELESE"
+name_ja: ""
+slug: "jordan-uelese"
 position: "HO"
-team: "モンペリエ"
-height: "189"
-weight: "122"
+height: "189.0"
+weight: "122.0"
 birth_date: "1997.01.24"
-age: 29
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: "Voir"
-category: ""
-division: ""
+age: null
+country: "Voir"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/jordan_uelese/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/jordan-uelese"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2016 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )
+## キャリア遍歴
+

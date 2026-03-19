@@ -1,29 +1,19 @@
 ---
-title: "ジョリス・セゴンズ"
+title: "Joris SEGONDS | "
 name_en: "Joris SEGONDS"
+name_ja: ""
+slug: "joris-segonds"
 position: "SO"
-team: "バイヨンヌ"
-height: "180"
-weight: "91"
+height: "180.0"
+weight: "91.0"
 birth_date: "1997.04.06"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "France"
+scraped_url: "https://all.rugby/player/joris-segonds"
 ---
 
-- SC Decazeville (2003 - 2013)
-- Stade Aurillacois Cantal Auvergne (2013 - 2019)
-- Stade Français Paris Rugby (2019 - 2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+## キャリア遍歴
+

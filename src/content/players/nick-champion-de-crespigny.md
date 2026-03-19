@@ -1,28 +1,19 @@
 ---
-title: "ニック・チャンピオン・デ・クレスピニー"
+title: "Nick CHAMPION DE CRESPIGNY | "
 name_en: "Nick CHAMPION DE CRESPIGNY"
+name_ja: ""
+slug: "nick-champion-de-crespigny"
 position: "FL/No8"
-team: "ウェスタン・フォース"
 height: "193.0"
 weight: "110.0"
 birth_date: "1996.06.27"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-champion-de-crespigny"
 ---
 
-- New South Wales Country Eagles (2017 - 2019)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2021 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

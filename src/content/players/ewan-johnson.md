@@ -1,30 +1,19 @@
 ---
-title: "ユアン・ジョンソン"
+title: "Ewan JOHNSON | "
 name_en: "Ewan JOHNSON"
+name_ja: ""
+slug: "ewan-johnson"
 position: "LO"
-team: "バイヨンヌ"
-height: "202"
-weight: "120"
+height: "202.0"
+weight: "120.0"
 birth_date: "1999.06.27"
-age: 26
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/ewan-johnson"
 ---
 
-- Plouzané (2012 - 2017)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2017 - 2020)
-- Rugby Club Vannes (2020 - 2023)
-- Oyonnax Rugby (2023 - 2025)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+## キャリア遍歴
+

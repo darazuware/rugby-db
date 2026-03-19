@@ -1,26 +1,19 @@
 ---
-title: "ケーラン ・ CARSON ・ JONES"
+title: "Caelan CARSON-JONES | "
 name_en: "Caelan CARSON-JONES"
+name_ja: ""
+slug: "caelan-carson-jones"
 position: "SH"
-team: "オスプリーズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/caelan-carson-jones"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2024 - )
+## キャリア遍歴
+

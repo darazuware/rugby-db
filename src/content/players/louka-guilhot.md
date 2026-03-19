@@ -1,28 +1,19 @@
 ---
-title: "ルカ・ギヨ"
+title: "Louka GUILHOT | "
 name_en: "Louka GUILHOT"
+name_ja: ""
+slug: "louka-guilhot"
 position: "SO"
-team: "カストル"
-height: "183"
-weight: "80"
+height: "183.0"
+weight: "80.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/louka-guilhot"
 ---
 
-- Valence Romans Drôme Rugby (2011 - 2021)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )
+## キャリア遍歴
+

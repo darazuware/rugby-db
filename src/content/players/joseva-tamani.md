@@ -1,29 +1,19 @@
 ---
-title: "ジョセヴァ・タマニ"
+title: "Joseva TAMANI | "
 name_en: "Joseva TAMANI"
+name_ja: ""
+slug: "joseva-tamani"
 position: "FL/No8"
-team: "フィジアン・ドゥルア"
 height: "195.0"
 weight: "111.0"
 birth_date: "1997.04.02"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/joseva-tamani"
 ---
 
-- Hunter Wildfires (2020 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2026)
-- US Colomiers (2023 - 2024)
-- オタゴ (2024 - )
+## キャリア遍歴
+

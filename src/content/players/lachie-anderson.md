@@ -1,28 +1,19 @@
 ---
-title: "ラキ・アンダーソン"
+title: "Lachie ANDERSON | "
 name_en: "Lachie ANDERSON"
+name_ja: ""
+slug: "lachie-anderson"
 position: "WTB"
-team: "クイーンズランド・レッズ"
 height: "188.0"
 weight: "97.0"
 birth_date: "1997.08.27"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/lachie-anderson"
 ---
 
-- Aussie 7's (2019 - 2020)
-- 🇦🇺 メルボルン・レベルズ (2019 - 2024)
-- レッズ (2024 - )
+## キャリア遍歴
+

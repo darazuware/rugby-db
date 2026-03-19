@@ -1,27 +1,19 @@
 ---
-title: "ヴィリヴェ・ミラミラ"
+title: "Vilive MIRAMIRA | "
 name_en: "Vilive MIRAMIRA"
+name_ja: ""
+slug: "vilive-miramira"
 position: "FL/No8"
-team: "フィジアン・ドゥルア"
 height: "192.0"
 weight: "92.0"
 birth_date: "1999.03.21"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/vilive-miramira"
 ---
 
-- Nadi Jets  Rugby (2020 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+## キャリア遍歴
+

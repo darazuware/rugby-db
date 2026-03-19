@@ -1,28 +1,19 @@
 ---
-title: "イグナシオ・カイェス"
+title: "Ignacio CALLES | "
 name_en: "Ignacio CALLES"
+name_ja: ""
+slug: "ignacio-calles"
 position: "PR"
-team: "バイヨンヌ"
-height: "187"
-weight: "116"
+height: "187.0"
+weight: "116.0"
 birth_date: "1995.10.24"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/ignacio-calles"
 ---
 
-- Liceo Naval (2015 - 2016)
-- Section Paloise Béarn Pyrénées (2016 - 2025)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+## キャリア遍歴
+

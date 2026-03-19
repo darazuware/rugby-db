@@ -1,26 +1,19 @@
 ---
-title: "Osian ・ ウィリアムズ"
+title: "Osian WILLIAMS | "
 name_en: "Osian WILLIAMS"
+name_ja: ""
+slug: "osian-williams"
 position: "Back row"
-team: "スカーレッツ"
 height: "191.0"
 weight: "106.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/osian-williams"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

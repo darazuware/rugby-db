@@ -1,42 +1,19 @@
 ---
-title: "ピタ＝ガス・ソワクラ"
+title: "Pita-Gus SOWAKULA | "
 name_en: "Pita-Gus SOWAKULA"
+name_ja: ""
+slug: "pita-gus-sowakula"
 position: "FL/NO8"
-team: "クレルモン"
-height: "195"
-weight: "117"
+height: "195.0"
+weight: "117.0"
 birth_date: "1994.10.26"
-age: 31
-high_school: ""
-university: ""
-caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Fiji"
+scraped_url: "https://all.rugby/player/pita-gus-sowakula"
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2019)
-- Taranaki Bulls (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Taranaki Bulls (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Taranaki Bulls (2020)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- Taranaki Bulls (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2021)
-- Taranaki Bulls (2021)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- Taranaki Bulls (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2022)
-- Taranaki Bulls (2022)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2023)
-- Taranaki Bulls (2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

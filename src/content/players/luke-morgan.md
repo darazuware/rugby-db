@@ -1,26 +1,19 @@
 ---
-title: "ルーク ・ MORGAN"
+title: "Luke MORGAN | "
 name_en: "Luke MORGAN"
+name_ja: ""
+slug: "luke-morgan"
 position: "Winger"
-team: "オスプリーズ"
 height: "175.0"
 weight: "81.0"
 birth_date: "1992.05.16"
-age: 33
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/luke-morgan"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2018 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "マイルス・アマートセロ"
+title: "Miles AMATOSERO | "
 name_en: "Miles AMATOSERO"
+name_ja: ""
+slug: "miles-amatosero"
 position: "LO"
-team: "NSWワラタス（ワラターズ）"
 height: "202.0"
 weight: "125.0"
 birth_date: "2002.06.15"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/miles-amatosero"
 ---
 
-- club inconnu (2019 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - 2024)
-- ワラターズ (2023 - )
+## キャリア遍歴
+

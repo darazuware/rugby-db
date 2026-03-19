@@ -1,30 +1,19 @@
 ---
-title: "ララカイ・フォケティ"
+title: "Lalakai FOKETI | "
 name_en: "Lalakai FOKETI"
+name_ja: ""
+slug: "lalakai-foketi"
 position: "CTB"
-team: "ワイカト・チーフス"
 height: "186.0"
 weight: "97.0"
 birth_date: "1994.12.22"
-age: 31
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/lalakai-foketi"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2013 - 2014)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2014 - 2015)
-- ベイ・オブ・プレンティ (2015 - 2016)
-- ワラターズ (2017 - 2025)
-- チーフス (2025 - )
+## キャリア遍歴
+

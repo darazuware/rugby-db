@@ -1,26 +1,19 @@
 ---
-title: "Harri ・ KEDDIE"
+title: "Harri KEDDIE | "
 name_en: "Harri KEDDIE"
+name_ja: ""
+slug: "harrison-keddie"
 position: "Back row"
-team: "ドラゴンズ・ラグビー"
 height: "188.0"
 weight: "110.0"
 birth_date: "1996.07.10"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2015
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/harrison-keddie"
 ---
 
-- Dragons RFC (2015 - )
+## キャリア遍歴
+

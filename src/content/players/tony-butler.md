@@ -1,26 +1,19 @@
 ---
-title: "Tony ・ BUTLER"
+title: "Tony BUTLER | "
 name_en: "Tony BUTLER"
+name_ja: ""
+slug: "tony-butler"
 position: "SO"
-team: "マンスター・ラグビー"
 height: "178.0"
 weight: "85.0"
 birth_date: "2002.04.23"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/tony-butler"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2021 - )
+## キャリア遍歴
+

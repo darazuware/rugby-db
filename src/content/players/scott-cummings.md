@@ -1,26 +1,19 @@
 ---
-title: "スコット ・ CUMMINGS"
+title: "Scott CUMMINGS | "
 name_en: "Scott CUMMINGS"
+name_ja: ""
+slug: "scott-cummings"
 position: "LO"
-team: "グラスゴー・ウォリアーズ"
 height: "199.0"
 weight: "117.0"
 birth_date: "1996.12.03"
-age: 29
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2015
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/scott-cummings"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2015 - )
+## キャリア遍歴
+

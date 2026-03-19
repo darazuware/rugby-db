@@ -1,27 +1,19 @@
 ---
-title: "トム・レヴェック"
+title: "Tom LÉVÊQUE | "
 name_en: "Tom LÉVÊQUE"
+name_ja: ""
+slug: "tom-leveque"
 position: "WTB"
-team: "バイヨンヌ"
-height: "184"
-weight: "80"
+height: "184.0"
+weight: "80.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-leveque"
 ---
 
-- US Mouguerre (2012 - 2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - )
+## キャリア遍歴
+

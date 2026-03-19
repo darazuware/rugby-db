@@ -1,29 +1,19 @@
 ---
-title: "タイレル・ロマックス"
+title: "Tyrel LOMAX | "
 name_en: "Tyrel LOMAX"
+name_ja: ""
+slug: "tyrel-lomax"
 position: "PR"
-team: "ウェリントン・ハリケーンズ"
 height: "192.0"
 weight: "129.0"
 birth_date: "1996.06.01"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/tyrel-lomax"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2016 - 2017)
-- ハイランダーズ (2017 - 2019)
-- タスマン (2019 - 2021)
-- ハリケーンズ (2019 - )
+## キャリア遍歴
+

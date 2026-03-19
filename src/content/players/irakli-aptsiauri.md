@@ -1,28 +1,19 @@
 ---
-title: "イラクリ・アプツィアウリ"
+title: "Irakli APTSIAURI | "
 name_en: "Irakli APTSIAURI"
+name_ja: ""
+slug: "irakli-aptsiauri"
 position: "PR"
-team: "リヨン"
-height: "185"
-weight: "126"
+height: "185.0"
+weight: "126.0"
 birth_date: "2003.02.23"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/irakli-aptsiauri"
 ---
 
-- Lelo Saracens Tbilissi (2020 - 2021)
-- FC Grenoble Rugby (2021 - 2024)
-- Lyon Olympique Universitaire Rugby (2024 - )
+## キャリア遍歴
+

@@ -1,29 +1,19 @@
 ---
-title: "ジョシュ・ティム"
+title: "Josh TIMU | "
 name_en: "Josh TIMU"
+name_ja: ""
+slug: "josh-timu"
 position: "CTB"
-team: "ウェリントン・ハリケーンズ"
 height: "183.0"
 weight: "94.0"
 birth_date: "1997.07.06"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-timu"
 ---
 
-- オタゴ (2016 - 2025)
-- サンウルブズ (2018 - 2019)
-- ハイランダーズ (2021 - 2024)
-- ハリケーンズ (2025 - )
+## キャリア遍歴
+

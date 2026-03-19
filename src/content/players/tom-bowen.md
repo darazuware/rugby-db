@@ -1,27 +1,19 @@
 ---
-title: "トム ・ BOWEN"
+title: "Tom BOWEN | "
 name_en: "Tom BOWEN"
+name_ja: ""
+slug: "tom-bowen"
 position: "FB"
-team: "カーディフ・ラグビー"
 height: "170.0"
 weight: "75.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-bowen"
 ---
 
-- Clifton Rugby (2022 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )
+## キャリア遍歴
+

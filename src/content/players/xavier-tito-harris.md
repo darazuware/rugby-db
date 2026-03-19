@@ -1,28 +1,19 @@
 ---
-title: "ザビエル・ティト＝ハリス"
+title: "Xavier TITO-HARRIS | "
 name_en: "Xavier TITO-HARRIS"
+name_ja: ""
+slug: "xavier-tito-harris"
 position: "FB"
-team: "オタゴ・ハイランダーズ"
 height: "189.0"
 weight: "95.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/xavier-tito-harris"
 ---
 
-- オークランド (2022 - 2025)
-- ブルーズ (2023 - 2024)
-- ハイランダーズ (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ヤニス・バス"
+title: "Yanis BASSE | "
 name_en: "Yanis BASSE"
+name_ja: ""
+slug: "yanis-basse"
 position: "HO"
-team: "ラシン92"
-height: "180"
-weight: "106"
+height: "180.0"
+weight: "106.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/yanis-basse"
 ---
 
-- Évreux AC Rugby (2013 - 2020)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - )
+## キャリア遍歴
+

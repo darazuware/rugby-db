@@ -1,28 +1,19 @@
 ---
-title: "ボンギ ・ ンボナンビ"
+title: "Bongi MBONAMBI | "
 name_en: "Bongi MBONAMBI"
+name_ja: ""
+slug: "bongi-mbonambi"
 position: "HO"
-team: "ハリウッドベッツ・シャークス"
 height: "175.0"
 weight: "118.0"
 birth_date: "1991.01.07"
-age: 35
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/bongi-mbonambi"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2013 - 2014)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2021)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2021 - )
+## キャリア遍歴
+

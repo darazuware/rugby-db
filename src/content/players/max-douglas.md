@@ -1,32 +1,19 @@
 ---
-title: "Max ・ DOUGLAS"
+title: "Max DOUGLAS | "
 name_en: "Max DOUGLAS"
+name_ja: ""
+slug: "max-douglas"
 position: "LO"
-team: "スカーレッツ"
 height: "200.0"
 weight: "112.0"
 birth_date: "2000.01.01"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/max-douglas"
 ---
 
-- Manly Marlins (2018 - 2019)
-- New South Wales Waratahs (2019 - 2021)
-- Manly Marlins (2021)
-- New South Wales Waratahs (2022)
-- Manly Marlins (2022)
-- 🇯🇵 [横浜キヤノンイーグルス](/teams/league-one/yokohama-canon-eagles) [D1] (2022 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

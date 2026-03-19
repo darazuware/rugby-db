@@ -1,30 +1,19 @@
 ---
-title: "バティスト・プセンティ"
+title: "Baptiste PESENTI | "
 name_en: "Baptiste PESENTI"
+name_ja: ""
+slug: "baptiste-pesenti"
 position: "LO"
-team: "スタッド・フランセ"
-height: "195"
-weight: "122"
+height: "195.0"
+weight: "122.0"
 birth_date: "1997.07.03"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/pesentibaptiste/"
-twitter: "https://twitter.com/PesentiBaptist_"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "France"
+scraped_url: "https://all.rugby/player/baptiste-pesenti"
 ---
 
-- FC Saint-Claude Rugby (2005 - 2012)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2012 - 2016)
-- Section Paloise Béarn Pyrénées (2016 - 2021)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2021 - 2022)
-- Stade Français Paris Rugby (2022 - )
+## キャリア遍歴
+

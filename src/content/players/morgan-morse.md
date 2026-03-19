@@ -1,26 +1,19 @@
 ---
-title: "Morgan ・ MORSE"
+title: "Morgan MORSE | "
 name_en: "Morgan MORSE"
+name_ja: ""
+slug: "morgan-morse"
 position: "Back row"
-team: "オスプリーズ"
 height: "185.0"
 weight: "106.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/morgan-morse"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2021 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Ruan ・ VENTER"
+title: "Ruan VENTER | "
 name_en: "Ruan VENTER"
+name_ja: ""
+slug: "ruan-venter"
 position: "LO"
-team: "エミレーツ・ライオンズ"
 height: "198.0"
 weight: "120.0"
 birth_date: "2002.11.29"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruan-venter"
 ---
 
-- Lions Rugby (2021 - )
+## キャリア遍歴
+

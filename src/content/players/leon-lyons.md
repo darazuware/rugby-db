@@ -1,28 +1,19 @@
 ---
-title: "Leon ・ LYONS"
+title: "Leon LYONS | "
 name_en: "Leon LYONS"
+name_ja: ""
+slug: "leon-lyons"
 position: "PR"
-team: "エミレーツ・ライオンズ"
 height: "187.0"
 weight: "123.0"
 birth_date: "1998.12.02"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/leon-lyons"
 ---
 
-- Western Province (2018 - 2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019 - 2025)
-- Lions Rugby (2025 - )
+## キャリア遍歴
+

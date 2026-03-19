@@ -1,27 +1,19 @@
 ---
-title: "ギヨーム・マルシャン"
+title: "Guillaume MARCHAND | "
 name_en: "Guillaume MARCHAND"
+name_ja: ""
+slug: "guillaume-marchand"
 position: "HO"
-team: "リヨン"
-height: "183"
-weight: "102"
+height: "183.0"
+weight: "102.0"
 birth_date: "1998.06.05"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/guillaume-marchand"
 ---
 
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2013 - 2021)
-- Lyon Olympique Universitaire Rugby (2021 - )
+## キャリア遍歴
+

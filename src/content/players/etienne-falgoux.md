@@ -1,26 +1,19 @@
 ---
-title: "エティエンヌ・ファルグ"
+title: "Etienne FALGOUX | "
 name_en: "Etienne FALGOUX"
+name_ja: ""
+slug: "etienne-falgoux"
 position: "PR"
-team: "クレルモン"
-height: "183"
-weight: "112"
+height: "183.0"
+weight: "112.0"
 birth_date: "1993.01.19"
-age: 33
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "France"
+scraped_url: "https://all.rugby/player/etienne-falgoux"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - )
+## キャリア遍歴
+

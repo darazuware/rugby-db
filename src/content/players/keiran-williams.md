@@ -1,26 +1,19 @@
 ---
-title: "Keiran ・ ウィリアムズ"
+title: "Keiran WILLIAMS | "
 name_en: "Keiran WILLIAMS"
+name_ja: ""
+slug: "keiran-williams"
 position: "CTB"
-team: "オスプリーズ"
 height: "178.0"
 weight: "90.0"
 birth_date: "1997.12.04"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/keiran-williams"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2017 - )
+## キャリア遍歴
+

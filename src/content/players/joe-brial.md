@@ -1,27 +1,19 @@
 ---
-title: "ジョー・ブライアル"
+title: "Joe BRIAL | "
 name_en: "Joe BRIAL"
+name_ja: ""
+slug: "joe-brial"
 position: "FL/No8"
-team: "クイーンズランド・レッズ"
 height: "195.0"
 weight: "114.0"
 birth_date: "2002.01.07"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-brial"
 ---
 
-- カンタベリー (2021 - 2023)
-- レッズ (2023 - )
+## キャリア遍歴
+

@@ -1,29 +1,19 @@
 ---
-title: "デイヴィッド・フェリウアイ"
+title: "David FELIUAI | "
 name_en: "David FELIUAI"
+name_ja: ""
+slug: "david-feliuai"
 position: "CTB"
-team: "ACTブランビーズ"
 height: "185.0"
 weight: "98.0"
 birth_date: "1997.05.16"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/david-feliuai"
 ---
 
-- CSM Baia Mare (2019 - 2021)
-- Sunnybank Rugby (2021 - 2022)
-- 🇦🇺 メルボルン・レベルズ (2022 - 2024)
-- ブランビーズ (2024 - )
+## キャリア遍歴
+

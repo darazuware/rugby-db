@@ -1,27 +1,19 @@
 ---
-title: "ダーシー・スウェイン"
+title: "Darcy SWAIN | "
 name_en: "Darcy SWAIN"
+name_ja: ""
+slug: "darcy-swain"
 position: "LO"
-team: "ウェスタン・フォース"
 height: "200.0"
 weight: "117.0"
 birth_date: "1997.07.05"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/darcy-swain"
 ---
 
-- ブランビーズ (2017 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

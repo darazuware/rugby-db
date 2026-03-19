@@ -1,28 +1,19 @@
 ---
-title: "ルカン・サラカイア＝ロト"
+title: "Lukhan SALAKAIA-LOTO | "
 name_en: "Lukhan SALAKAIA-LOTO"
+name_ja: ""
+slug: "lukhan-lealaiaulolo-tui"
 position: "LO"
-team: "クイーンズランド・レッズ"
 height: "198.0"
 weight: "124.0"
 birth_date: "1996.09.19"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/lukhan-lealaiaulolo-tui"
 ---
 
-- レッズ (2015 - 2026)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2022 - 2023)
-- 🇦🇺 メルボルン・レベルズ (2023 - )
+## キャリア遍歴
+

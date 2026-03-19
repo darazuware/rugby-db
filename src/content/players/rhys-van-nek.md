@@ -1,28 +1,19 @@
 ---
-title: "リース・ヴァン・ネック"
+title: "Rhys VAN NEK | "
 name_en: "Rhys VAN NEK"
+name_ja: ""
+slug: "rhys-van-nek"
 position: "PR"
-team: "ACTブランビーズ"
 height: "177.0"
 weight: "108.0"
 birth_date: "1999.07.17"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/rhys-van-nek"
 ---
 
-- Easts Rugby Union Club (2019 - 2020)
-- 🇦🇺 メルボルン・レベルズ (2020 - 2022)
-- ブランビーズ (2022 - )
+## キャリア遍歴
+

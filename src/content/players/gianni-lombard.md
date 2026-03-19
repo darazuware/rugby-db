@@ -1,28 +1,19 @@
 ---
-title: "Gianni ・ LOMBARD"
+title: "Gianni LOMBARD | "
 name_en: "Gianni LOMBARD"
+name_ja: ""
+slug: "gianni-lombard"
 position: "SO"
-team: "エミレーツ・ライオンズ"
 height: "178.0"
 weight: "82.0"
 birth_date: "1998.01.22"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/gianni-lombard"
 ---
 
-- Lions Rugby (2018 - 2021)
-- 🇯🇵 [レッドハリケーンズ大阪](/teams/league-one/hurricanes) [D2] (2021 - 2022)
-- Lions Rugby (2022 - )
+## キャリア遍歴
+

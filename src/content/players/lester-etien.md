@@ -1,27 +1,19 @@
 ---
-title: "スター・エティアン"
+title: "Lester ÉTIEN | "
 name_en: "Lester ÉTIEN"
+name_ja: ""
+slug: "lester-etien"
 position: "WTB"
-team: "スタッド・フランセ"
-height: "181"
-weight: "102"
+height: "181.0"
+weight: "102.0"
 birth_date: "1995.06.21"
-age: 30
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: "https://www.instagram.com/lester_etien/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "France"
+scraped_url: "https://all.rugby/player/lester-etien"
 ---
 
-- Rugby Club Massy Essonne (2014 - 2018)
-- Stade Français Paris Rugby (2018 - )
+## キャリア遍歴
+

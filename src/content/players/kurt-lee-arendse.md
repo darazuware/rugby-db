@@ -1,30 +1,19 @@
 ---
-title: "Kurt ・ Lee ・ アレンゼ"
+title: "Kurt-Lee ARENDSE | "
 name_en: "Kurt-Lee ARENDSE"
+name_ja: ""
+slug: "kurt-lee-arendse"
 position: "Winger"
-team: "ヴォーダコム・ブルズ"
 height: "176.0"
 weight: "82.0"
 birth_date: "1996.06.17"
-age: 29
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/kurt-lee-arendse"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019 - 2024)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

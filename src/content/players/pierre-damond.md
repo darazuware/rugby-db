@@ -1,27 +1,19 @@
 ---
-title: "ピエール・ダモン"
+title: "Pierre DAMOND | "
 name_en: "Pierre DAMOND"
+name_ja: ""
+slug: "pierre-damond"
 position: "HO"
-team: "トゥーロン"
-height: "181"
-weight: "103"
+height: "181.0"
+weight: "103.0"
 birth_date: "2003.11.27"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2015
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-damond"
 ---
 
-- Club du Golfe (2012 - 2015)
-- Rugby Club Toulonnais (2015 - )
+## キャリア遍歴
+

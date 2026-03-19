@@ -1,27 +1,19 @@
 ---
-title: "Nick ・ HATTON"
+title: "Nick HATTON | "
 name_en: "Nick HATTON"
+name_ja: ""
+slug: "nick-hatton"
 position: "Back row"
-team: "ハリウッドベッツ・シャークス"
 height: "191.0"
 weight: "103.0"
 birth_date: "2003.01.17"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-hatton"
 ---
 
-- Natal Sharks (2021 - 2023)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2023 - )
+## キャリア遍歴
+

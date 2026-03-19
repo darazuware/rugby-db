@@ -1,26 +1,19 @@
 ---
-title: "Se ・ EDOGBO"
+title: "Seán EDOGBO | "
 name_en: "Seán EDOGBO"
+name_ja: ""
+slug: "sean-edogbo"
 position: "Back row"
-team: "マンスター・ラグビー"
 height: "188.0"
 weight: "111.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/sean-edogbo"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2024 - )
+## キャリア遍歴
+

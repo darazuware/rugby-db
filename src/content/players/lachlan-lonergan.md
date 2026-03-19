@@ -1,27 +1,19 @@
 ---
-title: "ラクラン・ロナーガン"
+title: "Lachlan LONERGAN | "
 name_en: "Lachlan LONERGAN"
+name_ja: ""
+slug: "lachlan-lonergan"
 position: "HO"
-team: "ACTブランビーズ"
 height: "180.0"
 weight: "102.0"
 birth_date: "1999.10.11"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/lachlan-lonergan"
 ---
 
-- Canberra Vikings (2018 - 2019)
-- ブランビーズ (2019 - )
+## キャリア遍歴
+

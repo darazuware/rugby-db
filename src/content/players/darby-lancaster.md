@@ -1,29 +1,19 @@
 ---
-title: "ダービー・ランカスター"
+title: "Darby LANCASTER | "
 name_en: "Darby LANCASTER"
+name_ja: ""
+slug: "darby-lancaster"
 position: "WTB"
-team: "ウェスタン・フォース"
 height: "190.0"
 weight: "95.0"
 birth_date: "2003.04.23"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/darby-lancaster"
 ---
 
-- Aussie 7's (2021 - 2023)
-- 🇦🇺 メルボルン・レベルズ (2023 - 2024)
-- ワラターズ (2024 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+## キャリア遍歴
+

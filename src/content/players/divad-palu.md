@@ -1,27 +1,19 @@
 ---
-title: "ディヴァッド・パリュ"
+title: "Divad PALU | "
 name_en: "Divad PALU"
+name_ja: ""
+slug: "divad-palu"
 position: "CTB"
-team: "ウェスタン・フォース"
 height: "179.0"
-weight: ""
+weight: "0"
 birth_date: "2004.01.17"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/divad-palu"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2021 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

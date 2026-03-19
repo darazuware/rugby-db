@@ -1,29 +1,19 @@
 ---
-title: "オーガスティン・プル"
+title: "Augustine PULU | "
 name_en: "Augustine PULU"
+name_ja: ""
+slug: "augustine-pulu"
 position: "SH"
-team: "モアナ・パシフィカ"
 height: "180.0"
 weight: "93.0"
 birth_date: "1990.01.04"
-age: 36
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/augustine-pulu"
 ---
 
-- チーフス (2013 - 2015)
-- ブルーズ (2016 - 2019)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

@@ -1,33 +1,19 @@
 ---
-title: "カリュ・サディー"
+title: "Carlü SADIE | "
 name_en: "Carlü SADIE"
+name_ja: ""
+slug: "carlu-sadie"
 position: "PR"
-team: "ボルドー・ベグル"
-height: "182"
-weight: "138"
+height: "182.0"
+weight: "138.0"
 birth_date: "1997.05.07"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/carlu-sadie"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2017 - 2018)
-- Lions Rugby (2018 - 2019)
-- Stade Français Paris Rugby (2019)
-- Lions Rugby (2019)
-- Stade Français Paris Rugby (2020)
-- Lions Rugby (2020 - 2022)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2022 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ザンダー ・ FAGERSON"
+title: "Zander FAGERSON | "
 name_en: "Zander FAGERSON"
+name_ja: ""
+slug: "zander-fagerson"
 position: "PR"
-team: "グラスゴー・ウォリアーズ"
 height: "188.0"
 weight: "126.0"
 birth_date: "1996.01.19"
-age: 30
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2014
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/zander-fagerson"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2014 - )
+## キャリア遍歴
+

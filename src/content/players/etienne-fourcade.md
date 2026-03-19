@@ -1,29 +1,19 @@
 ---
-title: "エティエンヌ・フルカード"
+title: "Etienne FOURCADE | "
 name_en: "Etienne FOURCADE"
+name_ja: ""
+slug: "etienne-fourcade"
 position: "HO"
-team: "クレルモン"
-height: "180"
-weight: "103"
+height: "180.0"
+weight: "103.0"
 birth_date: "1997.04.11"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/etienne-fourcade"
 ---
 
-- CS Lons Jura (2004 - 2009)
-- Cercle Sportif Lédonien (2009 - 2015)
-- FC Grenoble Rugby (2015 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - )
+## キャリア遍歴
+

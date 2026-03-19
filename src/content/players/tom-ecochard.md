@@ -1,27 +1,19 @@
 ---
-title: "トム・エコシャール"
+title: "Tom ECOCHARD | "
 name_en: "Tom ECOCHARD"
+name_ja: ""
+slug: "tom-ecochard"
 position: "SH"
-team: "ペルピニャン"
-height: "173"
-weight: "85"
+height: "173.0"
+weight: "85.0"
 birth_date: "1992.12.14"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2009
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-ecochard"
 ---
 
-- Racing Club Narbonnais (2008 - 2009)
-- Union Sportive Arlequins Perpignanais (2009 - )
+## キャリア遍歴
+

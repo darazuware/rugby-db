@@ -1,26 +1,19 @@
 ---
-title: "ティティ・ノフォガトトア"
+title: "Titi NOFOAGATOTOA | "
 name_en: "Titi NOFOAGATOTOA"
+name_ja: ""
+slug: "titi-nofoagatotoa"
 position: "FL/No8"
-team: "ウェスタン・フォース"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/titi-nofoagatotoa"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+## キャリア遍歴
+

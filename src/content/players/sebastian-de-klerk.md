@@ -1,27 +1,19 @@
 ---
-title: "Sebastian ・ デ ・ デクラーク"
+title: "Sebastian DE KLERK | "
 name_en: "Sebastian DE KLERK"
+name_ja: ""
+slug: "sebastian-de-klerk"
 position: "Winger"
-team: "ヴォーダコム・ブルズ"
 height: "180.0"
 weight: "91.0"
 birth_date: "2000.04.05"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/sebastian-de-klerk"
 ---
 
-- Pumas (2020 - 2023)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )
+## キャリア遍歴
+

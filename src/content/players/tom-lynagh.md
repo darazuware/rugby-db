@@ -1,27 +1,19 @@
 ---
-title: "トム・ライナー"
+title: "Tom LYNAGH | "
 name_en: "Tom LYNAGH"
+name_ja: ""
+slug: "tom-lynagh"
 position: "SO"
-team: "クイーンズランド・レッズ"
 height: "178.0"
 weight: "83.0"
 birth_date: "2003.04.14"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-lynagh"
 ---
 
-- ハレクインズ (2019 - 2021)
-- レッズ (2021 - )
+## キャリア遍歴
+

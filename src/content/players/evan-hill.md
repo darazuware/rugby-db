@@ -1,26 +1,19 @@
 ---
-title: "Evan ・ HILL"
+title: "Evan HILL | "
 name_en: "Evan HILL"
+name_ja: ""
+slug: "evan-hill"
 position: "LO"
-team: "オスプリーズ"
 height: "199.0"
 weight: "108.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/evan-hill"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2022 - )
+## キャリア遍歴
+

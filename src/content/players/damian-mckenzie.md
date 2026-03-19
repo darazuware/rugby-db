@@ -1,28 +1,19 @@
 ---
-title: "ダミアン・マッケンジー"
+title: "Damian MCKENZIE | "
 name_en: "Damian MCKENZIE"
+name_ja: ""
+slug: "damian-mckenzie"
 position: "SO"
-team: "ワイカト・チーフス"
 height: "177.0"
 weight: "81.0"
 birth_date: "1995.04.20"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/damian-mckenzie"
 ---
 
-- チーフス (2014 - 2026)
-- ワイカト (2019 - 2022)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2021 - )
+## キャリア遍歴
+

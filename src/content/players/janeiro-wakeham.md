@@ -1,30 +1,19 @@
 ---
-title: "ジャネイロ・ウェイクハム"
+title: "Janeiro WAKEHAM | "
 name_en: "Janeiro WAKEHAM"
+name_ja: ""
+slug: "janeiro-wakeham"
 position: "LO"
-team: "フィジアン・ドゥルア"
 height: "208.0"
 weight: "140.0"
 birth_date: "2003.03.14"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/janeiro-wakeham"
 ---
 
-- Suva Rugby Union (2020 - 2021)
-- 🇫🇷 [スタッド・フランセ](/teams/top14/paris) (2021 - 2024)
-- Nissa Rugby (2023 - 2024)
-- Ealing Trailfinders (2024 - 2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

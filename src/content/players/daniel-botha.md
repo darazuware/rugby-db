@@ -1,26 +1,19 @@
 ---
-title: "ダニエル・ボータ"
+title: "Daniel BOTHA | "
 name_en: "Daniel BOTHA"
+name_ja: ""
+slug: "daniel-botha"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "188.0"
 weight: "120.0"
 birth_date: "2001.12.16"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/daniel-botha"
 ---
 
-- ワラターズ (2022 - )
+## キャリア遍歴
+

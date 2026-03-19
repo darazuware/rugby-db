@@ -1,26 +1,19 @@
 ---
-title: "Jacob ・ BOYD"
+title: "Jacob BOYD | "
 name_en: "Jacob BOYD"
+name_ja: ""
+slug: "jacob-boyd"
 position: "PR"
-team: "アルスター・ラグビー"
 height: "186.0"
 weight: "125.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/jacob-boyd"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2023 - )
+## キャリア遍歴
+

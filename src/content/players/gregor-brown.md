@@ -1,26 +1,19 @@
 ---
-title: "Gregor ・ BROWN"
+title: "Gregor BROWN | "
 name_en: "Gregor BROWN"
+name_ja: ""
+slug: "gregor-brown"
 position: "LO"
-team: "グラスゴー・ウォリアーズ"
 height: "196.0"
 weight: "109.0"
 birth_date: "2001.07.01"
-age: 24
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/gregor-brown"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - )
+## キャリア遍歴
+

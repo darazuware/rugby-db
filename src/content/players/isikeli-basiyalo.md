@@ -1,26 +1,19 @@
 ---
-title: "イシケリ・バシヤロ"
+title: "Isikeli BASIYALO | "
 name_en: "Isikeli BASIYALO"
+name_ja: ""
+slug: "isikeli-basiyalo"
 position: "WTB"
-team: "フィジアン・ドゥルア"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/isikeli-basiyalo"
 ---
 
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+## キャリア遍歴
+

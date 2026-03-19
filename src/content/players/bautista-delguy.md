@@ -1,29 +1,19 @@
 ---
-title: "バウティスタ・デルグイ"
+title: "Bautista DELGUY | "
 name_en: "Bautista DELGUY"
+name_ja: ""
+slug: "bautista-delguy"
 position: "WTB"
-team: "クレルモン"
-height: "182"
-weight: "85"
+height: "182.0"
+weight: "85.0"
 birth_date: "1997.04.22"
-age: 28
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/bautista-delguy"
 ---
 
-- Jaguares (2017 - 2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2021)
-- Union Sportive Arlequins Perpignanais (2021 - 2022)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2022 - )
+## キャリア遍歴
+

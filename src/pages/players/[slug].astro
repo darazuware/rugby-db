@@ -5,6 +5,7 @@ import { getTeamSlug } from "../../utils/team_utils";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import JSONLD from "../../components/JSONLD.astro";
 import AdSenseUnit from "../../components/AdSenseUnit.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
 import { getEntry } from "astro:content";
 
@@ -88,6 +89,10 @@ const getFlag = (country: string, capsStr: string) => {
 >
   <JSONLD type="SportsPlayer" data={entry.data} />
   <div class="py-4">
+    <Breadcrumbs items={[
+      { label: "選手名鑑", href: "/players" },
+      { label: isLeagueOne ? entry.data.title : entry.data.name_en }
+    ]} />
     <div
       class="bg-card rounded-3xl shadow-2xl overflow-hidden border border-border-dim"
     >

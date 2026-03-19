@@ -11,6 +11,7 @@ const LEAGUE_TITLE_MAP: Record<string, string> = {
   "top14": "TOP 14 選手名鑑",
   "premiership": "PREMIERSHIP 選手名鑑",
   "urc": "URC 選手名鑑",
+  "mlr": "MLR 選手名鑑",
 };
 const title = LEAGUE_TITLE_MAP[league as string] || "ラグビー選手名鑑";
 
@@ -30,7 +31,7 @@ const teamToDivision: Record<string, string> = {};
 });
 
 // Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
-const initialPlayers = allPlayersRaw.map((p) => {
+const initialPlayers = allPlayersRaw.map((p: any) => {
     const normalizedTeamName = p.data.team?.trim() || "";
     const division =
         (normalizedTeamName ? teamToDivision[normalizedTeamName] : "") ||

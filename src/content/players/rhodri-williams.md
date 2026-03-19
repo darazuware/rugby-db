@@ -1,28 +1,19 @@
 ---
-title: "Rhodri ・ ウィリアムズ"
+title: "Rhodri WILLIAMS | "
 name_en: "Rhodri WILLIAMS"
+name_ja: ""
+slug: "rhodri-williams"
 position: "SH"
-team: "ドラゴンズ・ラグビー"
 height: "179.0"
 weight: "81.0"
 birth_date: "1993.05.05"
-age: 32
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/rhodri-williams"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2013 - 2016)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2016 - 2017)
-- Dragons RFC (2018 - )
+## キャリア遍歴
+

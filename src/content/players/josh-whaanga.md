@@ -1,27 +1,19 @@
 ---
-title: "ジョシュ・ファンガ"
+title: "Josh WHAANGA | "
 name_en: "Josh WHAANGA"
+name_ja: ""
+slug: "josh-whaanga"
 position: "CTB"
-team: "オタゴ・ハイランダーズ"
 height: "193.0"
 weight: "98.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-whaanga"
 ---
 
-- オタゴ (2022 - 2025)
-- ハイランダーズ (2023 - )
+## キャリア遍歴
+

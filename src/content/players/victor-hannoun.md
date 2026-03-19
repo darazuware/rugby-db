@@ -1,27 +1,19 @@
 ---
-title: "ヴィクトール・アヌーン"
+title: "Victor HANNOUN | "
 name_en: "Victor HANNOUN"
+name_ja: ""
+slug: "victor-hannoun"
 position: "WTB"
-team: "バイヨンヌ"
-height: "182"
-weight: "85"
+height: "182.0"
+weight: "85.0"
 birth_date: "2003.08.20"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/victor-hannoun"
 ---
 
-- Anglet Olympique Rugby Club (2013 - 2018)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - )
+## キャリア遍歴
+

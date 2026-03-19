@@ -1,27 +1,19 @@
 ---
-title: "イニア・タブアボウ"
+title: "Inia TABUAVOU | "
 name_en: "Inia TABUAVOU"
+name_ja: ""
+slug: "inia-tabuavou"
 position: "CTB"
-team: "フィジアン・ドゥルア"
 height: "185.0"
 weight: "101.0"
 birth_date: "2002.08.31"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/inia-tabuavou"
 ---
 
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - 2024)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+## キャリア遍歴
+

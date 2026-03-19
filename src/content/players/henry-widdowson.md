@@ -1,26 +1,19 @@
 ---
-title: "Henry ・ WIDDOWSON"
+title: "Henry WIDDOWSON | "
 name_en: "Henry WIDDOWSON"
+name_ja: ""
+slug: "henry-widdowson"
 position: "FB"
-team: "エディンバラ・ラグビー"
 height: "188.0"
 weight: "90.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/henry-widdowson"
 ---
 
-- Edimbourg Rugby (2025 - )
+## キャリア遍歴
+

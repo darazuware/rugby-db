@@ -1,27 +1,19 @@
 ---
-title: "イグナシオ・ブレックス"
+title: "Ignacio BREX | "
 name_en: "Ignacio BREX"
+name_ja: ""
+slug: "ignacio-brex"
 position: "CTB"
-team: "トゥーロン"
-height: "189"
-weight: "99"
+height: "189.0"
+weight: "99.0"
 birth_date: "1992.05.26"
-age: 33
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: "Italie"
-category: ""
-division: ""
+age: null
+country: "Italie"
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/ignacio-brex"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2017 - 2025)
-- Rugby Club Toulonnais (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "ペニアシ・ダクワガ"
+title: "Peniasi DAKUWAQA | "
 name_en: "Peniasi DAKUWAQA"
+name_ja: ""
+slug: "peniasi-dakuwaqa"
 position: "WTB"
-team: "スタッド・フランセ"
-height: "186"
-weight: "95"
+height: "186.0"
+weight: "95.0"
 birth_date: "1997.04.09"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/da_flashdakuwaqa/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/peniasi-dakuwaqa"
 ---
 
-- Tupapa Maraerenga Panthers (2020 - 2021)
-- Club fidjien (2021 - 2022)
-- Stade Français Paris Rugby (2022 - )
+## キャリア遍歴
+

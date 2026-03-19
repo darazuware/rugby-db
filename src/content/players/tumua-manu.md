@@ -1,31 +1,19 @@
 ---
-title: "トゥムア・マヌ"
+title: "Tumua MANU | "
 name_en: "Tumua MANU"
+name_ja: ""
+slug: "tumua-manu"
 position: "CTB"
-team: "ポー"
-height: "183"
-weight: "97"
+height: "183.0"
+weight: "97.0"
 birth_date: "1993.04.18"
-age: 32
-high_school: ""
-university: ""
-caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "Samoa"
+scraped_url: "https://all.rugby/player/tumua-manu"
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2017 - 2018)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2018 - 2019)
-- Auckland (2019)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2020)
-- Auckland (2020)
-- Section Paloise Béarn Pyrénées (2020 - )
+## キャリア遍歴
+

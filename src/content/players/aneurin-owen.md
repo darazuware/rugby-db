@@ -1,26 +1,19 @@
 ---
-title: "Aneurin ・ OWEN"
+title: "Aneurin OWEN | "
 name_en: "Aneurin OWEN"
+name_ja: ""
+slug: "aneurin-owen"
 position: "CTB"
-team: "ドラゴンズ・ラグビー"
 height: "180.0"
 weight: "89.0"
 birth_date: "2000.10.19"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/aneurin-owen"
 ---
 
-- Dragons RFC (2018 - )
+## キャリア遍歴
+

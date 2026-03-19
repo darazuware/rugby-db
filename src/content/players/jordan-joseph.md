@@ -1,31 +1,19 @@
 ---
-title: "ジョーダン・ジョセフ"
+title: "Jordan JOSEPH | "
 name_en: "Jordan JOSEPH"
+name_ja: ""
+slug: "jordan-joseph"
 position: "FL/NO8"
-team: "ラシン92"
-height: "190"
-weight: "124"
+height: "190.0"
+weight: "124.0"
 birth_date: "2000.07.31"
-age: 25
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Argentina"
-category: ""
-division: ""
+age: null
+country: "Argentina"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/jordan_joseph8/"
-twitter: "https://twitter.com/jordan_joseph8"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "France"
+scraped_url: "https://all.rugby/player/jordan-joseph"
 ---
 
-- Rugby Club Massy Essonne (2014 - 2018)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2021)
-- Section Paloise Béarn Pyrénées (2021)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022)
-- Section Paloise Béarn Pyrénées (2022 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )
+## キャリア遍歴
+

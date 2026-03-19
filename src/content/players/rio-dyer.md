@@ -1,26 +1,19 @@
 ---
-title: "Rio ・ DYER"
+title: "Rio DYER | "
 name_en: "Rio DYER"
+name_ja: ""
+slug: "rio-dyer"
 position: "Winger"
-team: "ドラゴンズ・ラグビー"
 height: "185.0"
 weight: "84.0"
 birth_date: "1999.12.21"
-age: 26
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/rio-dyer"
 ---
 
-- Dragons RFC (2017 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "ンガネ・プニヴァイ"
+title: "Ngane PUNIVAI | "
 name_en: "Ngane PUNIVAI"
+name_ja: ""
+slug: "ngane-punivai"
 position: "WTB"
-team: "ウェリントン・ハリケーンズ"
 height: "191.0"
 weight: "105.0"
 birth_date: "1998.08.30"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/ngane-punivai"
 ---
 
-- クルセイダーズ (2018 - 2019)
-- ハイランダーズ (2019 - 2022)
-- カンタベリー (2019 - 2025)
-- チーフス (2022 - 2023)
-- ハリケーンズ (2023 - )
+## キャリア遍歴
+

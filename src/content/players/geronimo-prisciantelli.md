@@ -1,31 +1,19 @@
 ---
-title: "ジェロニモ・プリシャンテッリ"
+title: "Geronimo PRISCIANTELLI | "
 name_en: "Geronimo PRISCIANTELLI"
+name_ja: ""
+slug: "geronimo-prisciantelli"
 position: "SO"
-team: "ラシン92"
-height: "183"
-weight: "87"
+height: "183.0"
+weight: "87.0"
 birth_date: "1999.08.23"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Argentina"
-nationality: "Argentina"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/geroprisciantelli/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/geronimo-prisciantelli"
 ---
 
-- Club Atlético San Isidro (2018 - 2021)
-- Jaguares XV (2021)
-- Club Atlético San Isidro (2022)
-- Jaguares XV (2022)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2022 - 2025)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )
+## キャリア遍歴
+

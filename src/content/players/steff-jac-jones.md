@@ -1,26 +1,19 @@
 ---
-title: "Steff ・ Jac ・ JONES"
+title: "Steff Jac JONES | "
 name_en: "Steff Jac JONES"
+name_ja: ""
+slug: "steff-jac-jones"
 position: "SO"
-team: "スカーレッツ"
 height: "175.0"
 weight: "83.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/steff-jac-jones"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

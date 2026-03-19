@@ -1,27 +1,19 @@
 ---
-title: "Ion ・ NECULAI"
+title: "Ion NECULAI | "
 name_en: "Ion NECULAI"
+name_ja: ""
+slug: "ion-neculai"
 position: "PR"
-team: "ゼブレ・パルマ"
 height: "189.0"
 weight: "135.0"
 birth_date: "2001.01.25"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/ion-neculai"
 ---
 
-- I Cavalieri Prato (2020 - 2021)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2021 - )
+## キャリア遍歴
+

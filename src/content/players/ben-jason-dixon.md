@@ -1,27 +1,19 @@
 ---
-title: "ベン ・ Jason ・ DIXON"
+title: "Ben-Jason DIXON | "
 name_en: "Ben-Jason DIXON"
+name_ja: ""
+slug: "ben-jason-dixon"
 position: "LO"
-team: "DHLストーマーズ"
 height: "195.0"
 weight: "114.0"
 birth_date: "1998.04.29"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-jason-dixon"
 ---
 
-- Western Province (2018 - 2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019 - )
+## キャリア遍歴
+

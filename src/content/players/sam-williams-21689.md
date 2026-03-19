@@ -1,26 +1,19 @@
 ---
-title: "サム ・ ウィリアムズ"
+title: "Sam WILLIAMS | "
 name_en: "Sam WILLIAMS"
+name_ja: ""
+slug: "sam-williams-21689"
 position: "LO"
-team: "スカーレッツ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/sam-williams-21689"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

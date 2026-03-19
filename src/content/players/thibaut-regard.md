@@ -1,26 +1,19 @@
 ---
-title: "ティボー・ルガール"
+title: "Thibaut REGARD | "
 name_en: "Thibaut REGARD"
+name_ja: ""
+slug: "thibaut-regard"
 position: "CTB"
-team: "リヨン"
-height: "180"
-weight: "95"
+height: "180.0"
+weight: "95.0"
 birth_date: "1993.08.06"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2011
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/thibaut-regard"
 ---
 
-- Lyon Olympique Universitaire Rugby (2011 - )
+## キャリア遍歴
+

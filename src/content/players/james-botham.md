@@ -1,26 +1,19 @@
 ---
-title: "ジェームズ ・ BOTHAM"
+title: "James BOTHAM | "
 name_en: "James BOTHAM"
+name_ja: ""
+slug: "james-botham"
 position: "Back row"
-team: "カーディフ・ラグビー"
 height: "191.0"
 weight: "108.0"
 birth_date: "1998.02.22"
-age: 28
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/james-botham"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2017 - )
+## キャリア遍歴
+

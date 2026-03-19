@@ -1,26 +1,19 @@
 ---
-title: "Salmaan ・ MOERAT"
+title: "Salmaan MOERAT | "
 name_en: "Salmaan MOERAT"
+name_ja: ""
+slug: "salmaan-moerat"
 position: "LO"
-team: "DHLストーマーズ"
 height: "200.0"
 weight: "122.0"
 birth_date: "1998.03.06"
-age: 28
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/salmaan-moerat"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2017 - )
+## キャリア遍歴
+

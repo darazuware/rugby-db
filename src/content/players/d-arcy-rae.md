@@ -1,34 +1,19 @@
 ---
-title: "D'Arcy ・ RAE"
+title: "D'Arcy RAE | "
 name_en: "D'Arcy RAE"
+name_ja: ""
+slug: "d-arcy-rae"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "186.0"
 weight: "125.0"
 birth_date: "1994.12.21"
-age: 31
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/d-arcy-rae"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2014)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2014)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2015)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2015 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2021 - 2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023)
-- Edimbourg Rugby (2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ユーゴー・ゴンザレス"
+title: "Hugo GONZÁLEZ | "
 name_en: "Hugo GONZÁLEZ"
+name_ja: ""
+slug: "hugo-gonzalez"
 position: "PR"
-team: "バイヨンヌ"
-height: "184"
-weight: "119"
+height: "184.0"
+weight: "119.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: "Spain"
-league_one_caps: "0"
-country: "Spain"
-nationality: ""
-category: ""
-division: ""
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Spain"
+scraped_url: "https://all.rugby/player/hugo-gonzalez"
 ---
 
-- Complutense Cisneros (2023 - 2025)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+## キャリア遍歴
+

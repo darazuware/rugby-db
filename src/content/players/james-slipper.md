@@ -1,27 +1,19 @@
 ---
-title: "ジェームズ・スリッパー"
+title: "James SLIPPER | "
 name_en: "James SLIPPER"
+name_ja: ""
+slug: "james-slipper"
 position: "PR"
-team: "ACTブランビーズ"
 height: "180.0"
 weight: "115.0"
 birth_date: "1989.06.06"
-age: 36
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/james-slipper"
 ---
 
-- レッズ (2013 - 2018)
-- ブランビーズ (2018 - )
+## キャリア遍歴
+

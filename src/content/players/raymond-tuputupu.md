@@ -1,27 +1,19 @@
 ---
-title: "レイモンド・ツプツプ"
+title: "Raymond TUPUTUPU | "
 name_en: "Raymond TUPUTUPU"
+name_ja: ""
+slug: "raymond-tuputupu"
 position: "HO"
-team: "ウェリントン・ハリケーンズ"
 height: "183.0"
 weight: "106.0"
 birth_date: "2003.04.11"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/raymond-tuputupu"
 ---
 
-- マナワツ (2019 - 2025)
-- ハリケーンズ (2020 - )
+## キャリア遍歴
+

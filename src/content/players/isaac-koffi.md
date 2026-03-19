@@ -1,27 +1,19 @@
 ---
-title: "アイザック・コフィ"
+title: "Isaac KOFFI | "
 name_en: "Isaac KOFFI"
+name_ja: ""
+slug: "isaac-koffi"
 position: "PR"
-team: "スタッド・フランセ"
-height: "187"
-weight: "110"
+height: "187.0"
+weight: "110.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/isaac-koffi"
 ---
 
-- COM Bagneux (2015 - 2018)
-- Stade Français Paris Rugby (2018 - )
+## キャリア遍歴
+

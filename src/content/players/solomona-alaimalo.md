@@ -1,32 +1,19 @@
 ---
-title: "ソロモン・アライマロ"
+title: "Solomon ALAIMALO | "
 name_en: "Solomon ALAIMALO"
+name_ja: ""
+slug: "solomona-alaimalo"
 position: "CTB"
-team: "モアナ・パシフィカ"
 height: "196.0"
 weight: "100.0"
 birth_date: "1995.12.27"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/solomona-alaimalo"
 ---
 
-- チーフス (2016 - 2023)
-- サウスランド (2020 - 2022)
-- ハイランダーズ (2020 - 2022)
-- カンタベリー (2022 - 2023)
-- Wests Tigers (2023 - 2024)
-- ノースランド (2024 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

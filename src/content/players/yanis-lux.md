@@ -1,28 +1,19 @@
 ---
-title: "ヤニス・リュクス"
+title: "Yanis LUX | "
 name_en: "Yanis LUX"
+name_ja: ""
+slug: "yanis-lux"
 position: "PR"
-team: "スタッド・フランセ"
-height: "182"
-weight: "100"
+height: "182.0"
+weight: "100.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/yanis-lux"
 ---
 
-- RC Neuilly-sur-Marne (2012 - 2018)
-- RC Champs-sur-Marne Val Maubuée (2018 - 2020)
-- Stade Français Paris Rugby (2020 - )
+## キャリア遍歴
+

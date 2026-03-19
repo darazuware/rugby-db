@@ -1,29 +1,19 @@
 ---
-title: "マルコ・トレニュ"
+title: "Marco TAULEIGNE | "
 name_en: "Marco TAULEIGNE"
+name_ja: ""
+slug: "marco-tauleigne"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "191"
-weight: "118"
+height: "191.0"
+weight: "118.0"
 birth_date: "1993.08.30"
-age: 32
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Voir"
-category: ""
-division: ""
+age: null
+country: "Voir"
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/m__tau/"
-twitter: "https://twitter.com/MarcoTauleigne"
-facebook: "https://www.facebook.com/MarcoTauleigneOff"
+team: "モンペリエ"
+caps: "France"
+scraped_url: "https://all.rugby/player/marco-tauleigne"
 ---
 
-- RC Teillois (2004 - 2009)
-- CS Bourgoin Jallieu Rugby (2009 - 2013)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - )
+## キャリア遍歴
+

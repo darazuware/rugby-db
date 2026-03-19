@@ -1,26 +1,19 @@
 ---
-title: "Freddy ・ DOUGLAS"
+title: "Freddy DOUGLAS | "
 name_en: "Freddy DOUGLAS"
+name_ja: ""
+slug: "freddy-douglas"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "185.0"
 weight: "95.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/freddy-douglas"
 ---
 
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

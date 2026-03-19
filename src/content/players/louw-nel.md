@@ -1,27 +1,19 @@
 ---
-title: "Louw ・ NEL"
+title: "Louw NEL | "
 name_en: "Louw NEL"
+name_ja: ""
+slug: "louw-nel"
 position: "Back row"
-team: "DHLストーマーズ"
 height: "190.0"
 weight: "107.0"
 birth_date: "2002.08.09"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/louw-nel"
 ---
 
-- Western Province (2021 - 2024)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2024 - )
+## キャリア遍歴
+

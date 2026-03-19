@@ -1,29 +1,19 @@
 ---
-title: "オリヴィエ・クレマンチャック"
+title: "Olivier KLEMENCZAK | "
 name_en: "Olivier KLEMENCZAK"
+name_ja: ""
+slug: "olivier-klemenczak"
 position: "CTB"
-team: "ポー"
-height: "181"
-weight: "90"
+height: "181.0"
+weight: "90.0"
 birth_date: "1996.06.01"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/olivier-klemenczak"
 ---
 
-- AS Soustons (2004 - 2011)
-- US Dax Rugby Landes (2011 - 2018)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2018 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - )
+## キャリア遍歴
+

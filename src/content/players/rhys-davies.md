@@ -1,27 +1,19 @@
 ---
-title: "Rhys ・ DAVIES"
+title: "Rhys DAVIES | "
 name_en: "Rhys DAVIES"
+name_ja: ""
+slug: "rhys-davies"
 position: "LO"
-team: "オスプリーズ"
 height: "197.0"
 weight: "124.0"
 birth_date: "1998.11.09"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/rhys-davies"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2018 - 2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2020 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "マナサ・マタエレ"
+title: "Manasa MATAELE | "
 name_en: "Manasa MATAELE"
+name_ja: ""
+slug: "manasa-mataele"
 position: "WTB"
-team: "フィジアン・ドゥルア"
 height: "185.0"
 weight: "100.0"
 birth_date: "1996.11.27"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/manasa-mataele"
 ---
 
-- クルセイダーズ (2016 - 2024)
-- カンタベリー (2019 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2023)
-- チーフス (2024 - 2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

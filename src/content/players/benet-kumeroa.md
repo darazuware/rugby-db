@@ -1,27 +1,19 @@
 ---
-title: "ベネット・クメロア"
+title: "Benet KUMEROA | "
 name_en: "Benet KUMEROA"
+name_ja: ""
+slug: "benet-kumeroa"
 position: "PR"
-team: "ワイカト・チーフス"
 height: "184.0"
 weight: "119.0"
 birth_date: "2000.06.25"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/benet-kumeroa"
 ---
 
-- ベイ・オブ・プレンティ (2020 - 2025)
-- チーフス (2025 - )
+## キャリア遍歴
+

@@ -1,29 +1,19 @@
 ---
-title: "ケム・ヴァレティニ"
+title: "Kemu VALETINI | "
 name_en: "Kemu VALETINI"
+name_ja: ""
+slug: "kemu-valetini"
 position: "SO"
-team: "フィジアン・ドゥルア"
 height: "185.0"
 weight: "110.0"
 birth_date: "1994.08.26"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/kemu-valetini"
 ---
 
-- Melbourne Rising (2018 - 2019)
-- Valladolid Rugby Asociación Club (2019 - 2020)
-- Manly Marlins (2021 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )
+## キャリア遍歴
+

@@ -1,29 +1,19 @@
 ---
-title: "Imad ・ KHAN"
+title: "Imad KHAN | "
 name_en: "Imad KHAN"
+name_ja: ""
+slug: "imad-khan"
 position: "SH"
-team: "DHLストーマーズ"
 height: "179.0"
 weight: "84.0"
 birth_date: "2003.12.02"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/imad-khan"
 ---
 
-- Western Province (2021 - 2022)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2022 - 2023)
-- Western Province (2023 - 2024)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2024 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ルーク・ライマー"
+title: "Luke REIMER | "
 name_en: "Luke REIMER"
+name_ja: ""
+slug: "luke-reimer"
 position: "FL/No8"
-team: "ACTブランビーズ"
 height: "187.0"
 weight: "102.0"
 birth_date: "2000.05.27"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/luke-reimer"
 ---
 
-- Warringah Rugby Club (2018 - 2019)
-- ブランビーズ (2019 - )
+## キャリア遍歴
+

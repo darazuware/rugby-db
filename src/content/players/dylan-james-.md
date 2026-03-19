@@ -1,26 +1,19 @@
 ---
-title: "Dylan ・ ジェームズ"
+title: "Dylan JAMES | "
 name_en: "Dylan JAMES"
+name_ja: ""
+slug: "dylan-james-"
 position: "PR"
-team: "オスプリーズ"
 height: "183.0"
 weight: "114.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/dylan-james-"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2025 - )
+## キャリア遍歴
+

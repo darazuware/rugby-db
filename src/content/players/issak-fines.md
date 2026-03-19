@@ -1,28 +1,19 @@
 ---
-title: "アイザック・ファインズ"
+title: "Issak FINES | "
 name_en: "Issak FINES"
+name_ja: ""
+slug: "issak-fines"
 position: "SH"
-team: "フィジアン・ドゥルア"
 height: "173.0"
 weight: "82.0"
 birth_date: "1995.10.02"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Fijian Drua"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/issak-fines"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2017 - 2025)
-- ブランビーズ (2019 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

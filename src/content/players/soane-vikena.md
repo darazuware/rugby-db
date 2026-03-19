@@ -1,28 +1,19 @@
 ---
-title: "ソアネ・ヴィケナ"
+title: "Soane VIKENA | "
 name_en: "Soane VIKENA"
+name_ja: ""
+slug: "soane-vikena"
 position: "HO"
-team: "オタゴ・ハイランダーズ"
 height: "183.0"
 weight: "112.0"
 birth_date: "2001.07.01"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/soane-vikena"
 ---
 
-- オークランド (2019 - 2025)
-- ブルーズ (2020 - 2024)
-- ハイランダーズ (2024 - )
+## キャリア遍歴
+

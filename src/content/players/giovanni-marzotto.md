@@ -1,26 +1,19 @@
 ---
-title: "Giovanni ・ MARZOTTO"
+title: "Giovanni MARZOTTO | "
 name_en: "Giovanni MARZOTTO"
+name_ja: ""
+slug: "giovanni-marzotto"
 position: "Winger"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "193.0"
 weight: "94.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "0"
+scraped_url: "https://all.rugby/player/giovanni-marzotto"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2025 - )
+## キャリア遍歴
+

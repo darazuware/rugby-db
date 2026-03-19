@@ -1,26 +1,19 @@
 ---
-title: "Kyle ・ STEYN"
+title: "Kyle STEYN | "
 name_en: "Kyle STEYN"
+name_ja: ""
+slug: "kyle-steyn"
 position: "CTB"
-team: "グラスゴー・ウォリアーズ"
 height: "188.0"
 weight: "102.0"
 birth_date: "1994.01.29"
-age: 32
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/kyle-steyn"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2018 - )
+## キャリア遍歴
+

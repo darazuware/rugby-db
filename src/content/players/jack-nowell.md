@@ -1,27 +1,19 @@
 ---
-title: "ジャック・ノウェル"
+title: "Jack NOWELL | "
 name_en: "Jack NOWELL"
+name_ja: ""
+slug: "jack-nowell"
 position: "WTB"
-team: "ラ・ロシェル"
-height: "181"
-weight: "98"
+height: "181.0"
+weight: "98.0"
 birth_date: "1993.04.11"
-age: 32
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "Anglaise"
-category: ""
-division: ""
+age: null
+country: "Anglaise"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/jacknowell"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "England"
+scraped_url: "https://all.rugby/player/jack-nowell"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2013 - 2023)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )
+## キャリア遍歴
+

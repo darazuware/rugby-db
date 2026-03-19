@@ -1,28 +1,19 @@
 ---
-title: "レミ・セネカ"
+title: "Rémi SÉNÉCA | "
 name_en: "Rémi SÉNÉCA"
+name_ja: ""
+slug: "remi-seneca"
 position: "PR"
-team: "ポー"
-height: "185"
-weight: "116"
+height: "185.0"
+weight: "116.0"
 birth_date: "1995.01.16"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/remi-seneca"
 ---
 
-- Stade Français Paris Rugby (2012 - 2017)
-- Rugby Club Vannes (2017 - 2021)
-- Section Paloise Béarn Pyrénées (2021 - )
+## キャリア遍歴
+

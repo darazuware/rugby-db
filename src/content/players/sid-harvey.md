@@ -1,27 +1,19 @@
 ---
-title: "シド・ハーヴェイ"
+title: "Sid HARVEY | "
 name_en: "Sid HARVEY"
+name_ja: ""
+slug: "sid-harvey"
 position: "FB"
-team: "NSWワラタス（ワラターズ）"
 height: "190.0"
 weight: "91.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/sid-harvey"
 ---
 
-- Aussie 7's (2024 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

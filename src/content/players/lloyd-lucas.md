@@ -1,26 +1,19 @@
 ---
-title: "Lloyd ・ LUCAS"
+title: "Lloyd LUCAS | "
 name_en: "Lloyd LUCAS"
+name_ja: ""
+slug: "lloyd-lucas"
 position: "SO"
-team: "カーディフ・ラグビー"
 height: "170.0"
 weight: "84.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/lloyd-lucas"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )
+## キャリア遍歴
+

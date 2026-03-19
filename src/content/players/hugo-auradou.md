@@ -1,28 +1,19 @@
 ---
-title: "ユーゴー・オーラドゥ"
+title: "Hugo AURADOU | "
 name_en: "Hugo AURADOU"
+name_ja: ""
+slug: "hugo-auradou"
 position: "LO"
-team: "ポー"
-height: "200"
-weight: "105"
+height: "200.0"
+weight: "105.0"
 birth_date: "2003.07.20"
-age: 22
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "France"
+scraped_url: "https://all.rugby/player/hugo-auradou"
 ---
 
-- CA Sarlat Périgord Noir (2010 - 2014)
-- Stade Montois Rugby Pro (2014 - 2020)
-- Section Paloise Béarn Pyrénées (2020 - )
+## キャリア遍歴
+

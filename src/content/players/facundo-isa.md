@@ -1,33 +1,19 @@
 ---
-title: "ファクンド・イサ"
+title: "Facundo ISA | "
 name_en: "Facundo ISA"
+name_ja: ""
+slug: "facundo-isa"
 position: "FL/NO8"
-team: "ポー"
-height: "188"
-weight: "114"
+height: "188.0"
+weight: "114.0"
 birth_date: "1993.09.21"
-age: 32
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/facundo-isa"
 ---
 
-- Rugby Club Toulonnais (2013 - 2014)
-- Pampas XV (2014 - 2015)
-- Jaguares (2015 - 2016)
-- Lyon Olympique Universitaire Rugby (2016)
-- Jaguares (2017)
-- Lyon Olympique Universitaire Rugby (2017)
-- Rugby Club Toulonnais (2017 - 2025)
-- Section Paloise Béarn Pyrénées (2025 - )
+## キャリア遍歴
+

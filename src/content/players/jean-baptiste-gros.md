@@ -1,28 +1,19 @@
 ---
-title: "ジャン＝バティスト・グロ"
+title: "Jean-Baptiste GROS | "
 name_en: "Jean-Baptiste GROS"
+name_ja: ""
+slug: "jean-baptiste-gros"
 position: "PR"
-team: "トゥーロン"
-height: "185"
-weight: "112"
+height: "185.0"
+weight: "112.0"
 birth_date: "1999.05.29"
-age: 26
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "トゥーロン"
+caps: "France"
+scraped_url: "https://all.rugby/player/jean-baptiste-gros"
 ---
 
-- US Tarascon (2009 - 2013)
-- Provence Rugby (2013 - 2016)
-- Rugby Club Toulonnais (2016 - )
+## キャリア遍歴
+

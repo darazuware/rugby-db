@@ -1,26 +1,19 @@
 ---
-title: "Jacob ・ STOCKDALE"
+title: "Jacob STOCKDALE | "
 name_en: "Jacob STOCKDALE"
+name_ja: ""
+slug: "jacob-stockdale"
 position: "Winger"
-team: "アルスター・ラグビー"
 height: "191.0"
 weight: "104.0"
 birth_date: "1996.04.03"
-age: 29
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2015
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/jacob-stockdale"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2015 - )
+## キャリア遍歴
+

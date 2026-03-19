@@ -1,26 +1,19 @@
 ---
-title: "Morn ・ ファン ・ DEN ・ BERG"
+title: "Morné VAN DEN BERG | "
 name_en: "Morné VAN DEN BERG"
+name_ja: ""
+slug: "morne-van-den-berg"
 position: "SH"
-team: "エミレーツ・ライオンズ"
 height: "175.0"
 weight: "82.0"
 birth_date: "1997.10.24"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/morne-van-den-berg"
 ---
 
-- Lions Rugby (2018 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "アクセル・ギヨー"
+title: "Axel GUILLAUD | "
 name_en: "Axel GUILLAUD"
+name_ja: ""
+slug: "axel-guillaud"
 position: "FB"
-team: "クレルモン"
-height: "190"
-weight: "91"
+height: "190.0"
+weight: "91.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/axel-guillaud"
 ---
 
-- CS Bourgoin Jallieu Rugby (2011 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

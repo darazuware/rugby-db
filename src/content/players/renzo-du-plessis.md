@@ -1,27 +1,19 @@
 ---
-title: "Renzo ・ デュ ・ PLESSIS"
+title: "Renzo DU PLESSIS | "
 name_en: "Renzo DU PLESSIS"
+name_ja: ""
+slug: "renzo-du-plessis"
 position: "Back row"
-team: "エミレーツ・ライオンズ"
 height: "188.0"
 weight: "108.0"
 birth_date: "2002.07.12"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/renzo-du-plessis"
 ---
 
-- Golden Lions (2022 - 2023)
-- Lions Rugby (2023 - )
+## キャリア遍歴
+

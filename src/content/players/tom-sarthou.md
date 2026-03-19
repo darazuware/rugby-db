@@ -1,28 +1,19 @@
 ---
-title: "トム・サルトゥ"
+title: "Tom SARTHOU | "
 name_en: "Tom SARTHOU"
+name_ja: ""
+slug: "tom-sarthou"
 position: "HO"
-team: "ヴァンヌ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-sarthou"
 ---
 
-- Amicale Rugby de Marans (2011 - 2016)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - 2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

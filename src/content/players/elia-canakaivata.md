@@ -1,27 +1,19 @@
 ---
-title: "エリア・ジャナカイヴァタ"
+title: "Elia CANAKAIVATA | "
 name_en: "Elia CANAKAIVATA"
+name_ja: ""
+slug: "elia-canakaivata"
 position: "FL/No8"
-team: "フィジアン・ドゥルア"
 height: "185.0"
 weight: "104.0"
 birth_date: "1996.07.12"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/elia-canakaivata"
 ---
 
-- FIDJI 7's (2021 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - )
+## キャリア遍歴
+

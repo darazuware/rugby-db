@@ -1,30 +1,19 @@
 ---
-title: "ジャニック・タリット"
+title: "Janick TARRIT | "
 name_en: "Janick TARRIT"
+name_ja: ""
+slug: "janick-tarrit"
 position: "HO"
-team: "ラシン92"
-height: "183"
-weight: "108"
+height: "183.0"
+weight: "108.0"
 birth_date: "1998.10.29"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/janicktarrit/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/janick-tarrit"
 ---
 
-- Belleville RC (2004 - 2013)
-- U.S. Tours (2013 - 2014)
-- Belleville RC (2014 - 2016)
-- USON Nevers Rugby (2016 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - )
+## キャリア遍歴
+

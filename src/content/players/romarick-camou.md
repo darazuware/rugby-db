@@ -1,28 +1,19 @@
 ---
-title: "ロマリック・カム"
+title: "Romaric CAMOU | "
 name_en: "Romaric CAMOU"
+name_ja: ""
+slug: "romarick-camou"
 position: "WTB"
-team: "ヴァンヌ"
-height: "174"
-weight: "84"
+height: "174.0"
+weight: "84.0"
 birth_date: "1996.10.09"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/romarick-camou"
 ---
 
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2011 - 2019)
-- USON Nevers Rugby (2019 - 2022)
-- Rugby Club Vannes (2022 - )
+## キャリア遍歴
+

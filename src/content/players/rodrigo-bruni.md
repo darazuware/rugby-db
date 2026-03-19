@@ -1,29 +1,19 @@
 ---
-title: "ロドリゴ・ブルーニ"
+title: "Rodrigo BRUNI | "
 name_en: "Rodrigo BRUNI"
+name_ja: ""
+slug: "rodrigo-bruni"
 position: "FL/NO8"
-team: "バイヨンヌ"
-height: "187"
-weight: "111"
+height: "187.0"
+weight: "111.0"
 birth_date: "1993.09.03"
-age: 32
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/rodrigo-bruni"
 ---
 
-- Jaguares (2018 - 2020)
-- Rugby Club Vannes (2020 - 2022)
-- CA Brive Corrèze Limousin (2022 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

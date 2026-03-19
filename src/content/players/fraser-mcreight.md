@@ -1,26 +1,19 @@
 ---
-title: "フレイザー・マクライト"
+title: "Fraser MCREIGHT | "
 name_en: "Fraser MCREIGHT"
+name_ja: ""
+slug: "fraser-mcreight"
 position: "FL/No8"
-team: "クイーンズランド・レッズ"
 height: "186.0"
 weight: "108.0"
 birth_date: "1999.02.19"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/fraser-mcreight"
 ---
 
-- レッズ (2018 - )
+## キャリア遍歴
+

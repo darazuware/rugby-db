@@ -1,27 +1,19 @@
 ---
-title: "ロス ・ THOMPSON"
+title: "Ross THOMPSON | "
 name_en: "Ross THOMPSON"
+name_ja: ""
+slug: "ross-thompson"
 position: "SO"
-team: "エディンバラ・ラグビー"
 height: "183.0"
 weight: "86.0"
 birth_date: "1999.04.10"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/ross-thompson"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - 2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

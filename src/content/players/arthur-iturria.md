@@ -1,28 +1,19 @@
 ---
-title: "アルチュール・イトゥリア"
+title: "Arthur ITURRIA | "
 name_en: "Arthur ITURRIA"
+name_ja: ""
+slug: "arthur-iturria"
 position: "FL/NO8"
-team: "バイヨンヌ"
-height: "198"
-weight: "112"
+height: "198.0"
+weight: "112.0"
 birth_date: "1994.05.13"
-age: 31
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "France"
+scraped_url: "https://all.rugby/player/arthur-iturria"
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2011 - 2012)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

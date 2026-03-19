@@ -1,29 +1,19 @@
 ---
-title: "ルイ・ウェルション"
+title: "Louis WERCHON | "
 name_en: "Louis WERCHON"
+name_ja: ""
+slug: "louis-werchon"
 position: "SH"
-team: "クイーンズランド・レッズ"
 height: "178.0"
 weight: "85.0"
 birth_date: "2002.10.25"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/louis-werchon"
 ---
 
-- Brothers Rugby Club (2020 - 2022)
-- West Brisbane Bulldogs (2022 - 2023)
-- レッズ (2022 - 2026)
-- ベネットン (2025 - )
+## キャリア遍歴
+

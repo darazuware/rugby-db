@@ -1,28 +1,19 @@
 ---
-title: "ルイ・ビエル＝ビアレ"
+title: "Louis BIELLE-BIARREY | "
 name_en: "Louis BIELLE-BIARREY"
+name_ja: ""
+slug: "louis-bielle-biarrey"
 position: "WTB"
-team: "ボルドー・ベグル"
-height: "185"
-weight: "84"
+height: "185.0"
+weight: "84.0"
 birth_date: "2003.06.19"
-age: 22
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/louis-bielle-biarrey"
 ---
 
-- Seyssins (2008 - 2016)
-- FC Grenoble Rugby (2016 - 2021)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )
+## キャリア遍歴
+

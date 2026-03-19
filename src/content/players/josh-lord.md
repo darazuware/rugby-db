@@ -1,27 +1,19 @@
 ---
-title: "ジョシュ・ロード"
+title: "Josh LORD | "
 name_en: "Josh LORD"
+name_ja: ""
+slug: "josh-lord"
 position: "LO"
-team: "ワイカト・チーフス"
 height: "202.0"
 weight: "113.0"
 birth_date: "2001.01.17"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-lord"
 ---
 
-- タラナキ (2018 - 2025)
-- チーフス (2020 - )
+## キャリア遍歴
+

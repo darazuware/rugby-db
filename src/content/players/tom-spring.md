@@ -1,27 +1,19 @@
 ---
-title: "トム・スプリング"
+title: "Tom SPRING | "
 name_en: "Tom SPRING"
+name_ja: ""
+slug: "tom-spring"
 position: "WTB"
-team: "バイヨンヌ"
-height: "186"
-weight: "87"
+height: "186.0"
+weight: "87.0"
 birth_date: "2002.09.26"
-age: 23
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "France"
+scraped_url: "https://all.rugby/player/tom-spring"
 ---
 
-- US Nafarroa (2008 - 2021)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )
+## キャリア遍歴
+

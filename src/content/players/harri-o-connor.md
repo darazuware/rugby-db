@@ -1,27 +1,19 @@
 ---
-title: "Harri ・ O'CONNOR"
+title: "Harri O'CONNOR | "
 name_en: "Harri O'CONNOR"
+name_ja: ""
+slug: "harri-o-connor"
 position: "PR"
-team: "スカーレッツ"
 height: "182.0"
 weight: "118.0"
 birth_date: "2000.10.25"
-age: 25
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "England"
+scraped_url: "https://all.rugby/player/harri-o-connor"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2018 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019 - )
+## キャリア遍歴
+

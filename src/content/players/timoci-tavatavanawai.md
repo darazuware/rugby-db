@@ -1,28 +1,19 @@
 ---
-title: "ティモチ・タヴァタヴァナワイ"
+title: "Timoci TAVATAVANAWAI | "
 name_en: "Timoci TAVATAVANAWAI"
+name_ja: ""
+slug: "timoci-tavatavanawai"
 position: "CTB"
-team: "オタゴ・ハイランダーズ"
 height: "187.0"
 weight: "111.0"
 birth_date: "1998.02.14"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Highlanders"
 caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/timoci-tavatavanawai"
 ---
 
-- タスマン (2019 - 2025)
-- ハイランダーズ (2020 - 2026)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )
+## キャリア遍歴
+

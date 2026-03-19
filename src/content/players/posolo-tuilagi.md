@@ -1,26 +1,19 @@
 ---
-title: "ポソロ・ツイラギ"
+title: "Posolo TUILAGI | "
 name_en: "Posolo TUILAGI"
+name_ja: ""
+slug: "posolo-tuilagi"
 position: "LO"
-team: "ペルピニャン"
-height: "194"
-weight: "149"
+height: "194.0"
+weight: "149.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: "Samoan"
-category: ""
-division: ""
+country: "Samoan"
 league: "top14"
-joined_year: 2010
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "Samoa"
+scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 
-- Union Sportive Arlequins Perpignanais (2010 - )
+## キャリア遍歴
+

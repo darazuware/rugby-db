@@ -1,27 +1,19 @@
 ---
-title: "Jeremy ・ LOUGHMAN"
+title: "Jeremy LOUGHMAN | "
 name_en: "Jeremy LOUGHMAN"
+name_ja: ""
+slug: "jeremy-loughman"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "183.0"
 weight: "120.0"
 birth_date: "1995.07.22"
-age: 30
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/jeremy-loughman"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2015 - 2017)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2017 - )
+## キャリア遍歴
+

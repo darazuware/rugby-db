@@ -1,27 +1,19 @@
 ---
-title: "JC ・ MARS"
+title: "JC MARS | "
 name_en: "JC MARS"
+name_ja: ""
+slug: "jc-mars"
 position: "FB"
-team: "DHLストーマーズ"
 height: "177.0"
 weight: "83.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/jc-mars"
 ---
 
-- Western Province (2023 - 2024)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2024 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "カルロ・ティッツァーノ"
+title: "Carlo TIZZANO | "
 name_en: "Carlo TIZZANO"
+name_ja: ""
+slug: "carlo-tizzano"
 position: "FL/No8"
-team: "ウェスタン・フォース"
 height: "183.0"
 weight: "103.0"
 birth_date: "2000.02.02"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/carlo-tizzano"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2026)
-- ワラターズ (2019 - 2022)
-- Ealing Trailfinders (2022 - )
+## キャリア遍歴
+

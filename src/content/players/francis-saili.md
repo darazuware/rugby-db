@@ -1,33 +1,19 @@
 ---
-title: "フランシス・サイリ"
+title: "Francis SAILI | "
 name_en: "Francis SAILI"
+name_ja: ""
+slug: "francis-saili"
 position: "CTB"
-team: "ヴァンヌ"
-height: "180"
-weight: "100"
+height: "180.0"
+weight: "100.0"
 birth_date: "1991.02.16"
-age: 35
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Zealander"
-nationality: "Zealander"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/francis-saili"
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2011 - 2015)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2015 - 2017)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2017 - 2020)
-- Biarritz Olympique Pays Basque (2020 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022)
-- Biarritz Olympique Pays Basque (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - 2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

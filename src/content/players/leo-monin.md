@@ -1,28 +1,19 @@
 ---
-title: "レオ・モナン"
+title: "Léo MONIN | "
 name_en: "Léo MONIN"
+name_ja: ""
+slug: "leo-monin"
 position: "FB"
-team: "スタッド・フランセ"
-height: "188"
-weight: "95"
+height: "188.0"
+weight: "95.0"
 birth_date: "2002.01.25"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/leo-monin"
 ---
 
-- RC des Vallons de la Tour (2007 - 2017)
-- CS Bourgoin Jallieu Rugby (2017 - 2020)
-- Stade Français Paris Rugby (2020 - )
+## キャリア遍歴
+

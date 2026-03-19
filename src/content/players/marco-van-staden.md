@@ -1,28 +1,19 @@
 ---
-title: "マルコ ・ ファン ・ スターデン"
+title: "Marco VAN STADEN | "
 name_en: "Marco VAN STADEN"
+name_ja: ""
+slug: "marco-van-staden"
 position: "Back row"
-team: "ヴォーダコム・ブルズ"
 height: "184.0"
 weight: "112.0"
 birth_date: "1995.08.25"
-age: 30
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/marco-van-staden"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2021 - 2022)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2022 - )
+## キャリア遍歴
+

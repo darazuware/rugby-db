@@ -1,27 +1,19 @@
 ---
-title: "ハリー・プラマー"
+title: "Harry PLUMMER | "
 name_en: "Harry PLUMMER"
+name_ja: ""
+slug: "harry-plummer"
 position: "SO"
-team: "クレルモン"
-height: "184"
-weight: "99"
+height: "184.0"
+weight: "99.0"
 birth_date: "1998.06.19"
-age: 27
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/harry-plummer"
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2018 - 2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )
+## キャリア遍歴
+

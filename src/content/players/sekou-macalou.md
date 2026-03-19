@@ -1,28 +1,19 @@
 ---
-title: "セク・マカドゥ"
+title: "Sékou MACALOU | "
 name_en: "Sékou MACALOU"
+name_ja: ""
+slug: "sekou-macalou"
 position: "FL/NO8"
-team: "スタッド・フランセ"
-height: "195"
-weight: "108"
+height: "195.0"
+weight: "108.0"
 birth_date: "1995.04.20"
-age: 30
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2015
-has_scores: true
-instagram: "https://www.instagram.com/macsekou/"
-twitter: "https://twitter.com/MacSekou"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "France"
+scraped_url: "https://all.rugby/player/sekou-macalou"
 ---
 
-- AAS Sarcelles Rugby (2005 - 2011)
-- Rugby Club Massy Essonne (2011 - 2015)
-- Stade Français Paris Rugby (2015 - )
+## キャリア遍歴
+

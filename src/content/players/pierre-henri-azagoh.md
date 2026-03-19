@@ -1,28 +1,19 @@
 ---
-title: "ピエール＝アンリ・アザゴ"
+title: "Pierre-Henri AZAGOH | "
 name_en: "Pierre-Henri AZAGOH"
+name_ja: ""
+slug: "pierre-henri-azagoh"
 position: "LO"
-team: "スタッド・フランセ"
-height: "198"
-weight: "112"
+height: "198.0"
+weight: "112.0"
 birth_date: "1998.07.25"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-henri-azagoh"
 ---
 
-- Rugby Melun Combs Senart 77 (2008 - 2013)
-- Rugby Club Massy Essonne (2013 - 2019)
-- Stade Français Paris Rugby (2019 - )
+## キャリア遍歴
+

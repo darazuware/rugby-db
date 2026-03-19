@@ -1,27 +1,19 @@
 ---
-title: "トマ・ラヴォー"
+title: "Thomas LAVAULT | "
 name_en: "Thomas LAVAULT"
+name_ja: ""
+slug: "thomas-lavault"
 position: "LO"
-team: "ラ・ロシェル"
-height: "199"
-weight: "108"
+height: "199.0"
+weight: "108.0"
 birth_date: "1999.05.03"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Française"
-nationality: "Française"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: "https://www.instagram.com/thomaslavault"
-twitter: "https://www.twitter.com/ThomasLavault"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-lavault"
 ---
 
-- US Thouars (2011 - 2016)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2016 - )
+## キャリア遍歴
+

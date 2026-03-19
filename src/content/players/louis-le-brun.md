@@ -1,28 +1,19 @@
 ---
-title: "ルイ・ル・ブラン"
+title: "Louis LE BRUN | "
 name_en: "Louis LE BRUN"
+name_ja: ""
+slug: "louis-le-brun"
 position: "SO"
-team: "カストル"
-height: "188"
-weight: "100"
+height: "188.0"
+weight: "100.0"
 birth_date: "2002.02.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/louis-le-brun"
 ---
 
-- RC Hyères Carqueiranne La Crau (2007 - 2015)
-- Rugby Club Toulonnais (2015 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )
+## キャリア遍歴
+

@@ -1,34 +1,19 @@
 ---
-title: "バスチャン・シャルロー"
+title: "Bastien CHALUREAU | "
 name_en: "Bastien CHALUREAU"
+name_ja: ""
+slug: "bastien-chalureau"
 position: "LO"
-team: "モンペリエ"
-height: "202"
-weight: "118"
+height: "202.0"
+weight: "118.0"
 birth_date: "1992.02.13"
-age: 34
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Voir"
-nationality: "Voir"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/bastien-chalureau"
 ---
 
-- RC Cantonal Fousseretois (2004 - 2007)
-- Union Cazères - Fousseret (2007 - 2009)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2009 - 2014)
-- Union Sportive Arlequins Perpignanais (2014 - 2017)
-- USON Nevers Rugby (2017 - 2019)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )
+## キャリア遍歴
+

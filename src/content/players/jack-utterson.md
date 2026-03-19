@@ -1,27 +1,19 @@
 ---
-title: "ジャック ・ UTTERSON"
+title: "Jack UTTERSON | "
 name_en: "Jack UTTERSON"
+name_ja: ""
+slug: "jack-utterson"
 position: "HO"
-team: "エディンバラ・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-utterson"
 ---
 
-- Kelso RFC (2024 - 2025)
-- Edimbourg Rugby (2025 - )
+## キャリア遍歴
+

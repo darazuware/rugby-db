@@ -1,27 +1,19 @@
 ---
-title: "デヴァン・フランダース"
+title: "Devan FLANDERS | "
 name_en: "Devan FLANDERS"
+name_ja: ""
+slug: "devan-flanders"
 position: "FL/No8"
-team: "ウェリントン・ハリケーンズ"
 height: "193.0"
 weight: "108.0"
 birth_date: "1999.07.20"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/devan-flanders"
 ---
 
-- ホークスベイ (2017 - 2025)
-- ハリケーンズ (2019 - )
+## キャリア遍歴
+

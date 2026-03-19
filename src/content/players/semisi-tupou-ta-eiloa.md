@@ -1,27 +1,19 @@
 ---
-title: "セミシ・ツポウ・タエイロア"
+title: "Semisi TUPOU TA'EILOA | "
 name_en: "Semisi TUPOU TA'EILOA"
+name_ja: ""
+slug: "semisi-tupou-ta-eiloa"
 position: "FL/No8"
-team: "モアナ・パシフィカ"
 height: "185.0"
 weight: "113.0"
 birth_date: "2003.11.25"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/semisi-tupou-ta-eiloa"
 ---
 
-- サウスランド (2022 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

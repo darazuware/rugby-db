@@ -1,28 +1,19 @@
 ---
-title: "ヨラム・モエファナ"
+title: "Yoram MOEFANA | "
 name_en: "Yoram MOEFANA"
+name_ja: ""
+slug: "yoram-moefana"
 position: "CTB"
-team: "ボルドー・ベグル"
-height: "183"
-weight: "95"
+height: "183.0"
+weight: "95.0"
 birth_date: "2000.07.18"
-age: 25
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/yoram-moefana"
 ---
 
-- Union Sportive Athlétique de Limoges (2012 - 2013)
-- US Colomiers (2013 - 2019)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2019 - )
+## キャリア遍歴
+

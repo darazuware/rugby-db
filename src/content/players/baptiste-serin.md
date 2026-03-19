@@ -1,28 +1,19 @@
 ---
-title: "バティスト・セラン"
+title: "Baptiste SERIN | "
 name_en: "Baptiste SERIN"
+name_ja: ""
+slug: "baptiste-serin"
 position: "SH"
-team: "トゥーロン"
-height: "182"
-weight: "83"
+height: "182.0"
+weight: "83.0"
 birth_date: "1994.06.20"
-age: 31
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "France"
+scraped_url: "https://all.rugby/player/baptiste-serin"
 ---
 
-- Parentis Sport Rugby (2004 - 2009)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2009 - 2019)
-- Rugby Club Toulonnais (2019 - )
+## キャリア遍歴
+

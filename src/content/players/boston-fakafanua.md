@@ -1,26 +1,19 @@
 ---
-title: "ボストン・ファカファヌア"
+title: "Boston FAKAFANUA | "
 name_en: "Boston FAKAFANUA"
+name_ja: ""
+slug: "boston-fakafanua"
 position: "CTB"
-team: "ウェスタン・フォース"
 height: "181.0"
 weight: "93.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/boston-fakafanua"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+## キャリア遍歴
+

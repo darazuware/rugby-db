@@ -1,29 +1,19 @@
 ---
-title: "パット・ペレグリーニ"
+title: "Pat PELLEGRINI | "
 name_en: "Pat PELLEGRINI"
+name_ja: ""
+slug: "patrick-pellegrini"
 position: "SO"
-team: "モアナ・パシフィカ"
 height: "170.0"
 weight: "80.0"
 birth_date: "1998.09.28"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Moana Pasifika"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/patrick-pellegrini"
 ---
 
-- West Harbour RFC (2020 - 2021)
-- Coventry Rugby (2022 - 2024)
-- ノース・ハーバー (2024 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

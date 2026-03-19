@@ -1,27 +1,19 @@
 ---
-title: "Yaw ・ PENXE"
+title: "Yaw PENXE | "
 name_en: "Yaw PENXE"
+name_ja: ""
+slug: "yaw-penxe"
 position: "Winger"
-team: "ハリウッドベッツ・シャークス"
 height: "183.0"
 weight: "93.0"
 birth_date: "1997.04.03"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/yaw-penxe"
 ---
 
-- Southern Kings (2016 - 2020)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2020 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ルーベン・ラブ"
+title: "Ruben LOVE | "
 name_en: "Ruben LOVE"
+name_ja: ""
+slug: "ruben-love"
 position: "FB"
-team: "ウェリントン・ハリケーンズ"
 height: "184.0"
 weight: "92.0"
 birth_date: "2001.04.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruben-love"
 ---
 
-- ウェリントン (2019 - 2025)
-- ハリケーンズ (2020 - )
+## キャリア遍歴
+

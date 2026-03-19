@@ -1,35 +1,19 @@
 ---
-title: "トマアキノ・タウファ"
+title: "Toma'Akino TAUFA | "
 name_en: "Toma'Akino TAUFA"
+name_ja: ""
+slug: "toma-akino-taufa"
 position: "PR"
-team: "ボルドー・ベグル"
-height: "180"
-weight: "145"
+height: "180.0"
+weight: "145.0"
 birth_date: "1995.03.09"
-age: 31
-high_school: ""
-university: ""
-caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "Tonga"
+scraped_url: "https://all.rugby/player/toma-akino-taufa"
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2014 - 2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021)
-- FC Grenoble Rugby (2021 - 2023)
-- Stado Tarbes Pyrénées Rugby (2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
-- Stado Tarbes Pyrénées Rugby (2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

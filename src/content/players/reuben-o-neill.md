@@ -1,28 +1,19 @@
 ---
-title: "ルーベン・オニール"
+title: "Reuben O'NEILL | "
 name_en: "Reuben O'NEILL"
+name_ja: ""
+slug: "reuben-o-neill"
 position: "PR"
-team: "ワイカト・チーフス"
 height: "183.0"
 weight: "117.0"
 birth_date: "1995.02.17"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/reuben-o-neill"
 ---
 
-- タラナキ (2014 - 2025)
-- チーフス (2018 - 2026)
-- クルセイダーズ (2022 - )
+## キャリア遍歴
+

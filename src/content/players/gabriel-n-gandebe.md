@@ -1,28 +1,19 @@
 ---
-title: "ガブリエル・ンガンデベ"
+title: "Gabriel N'GANDEBE | "
 name_en: "Gabriel N'GANDEBE"
+name_ja: ""
+slug: "gabriel-n-gandebe"
 position: "WTB"
-team: "モンペリエ"
-height: "174"
-weight: "77"
+height: "174.0"
+weight: "77.0"
 birth_date: "1997.03.30"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "モンペリエ"
+caps: "France"
+scraped_url: "https://all.rugby/player/gabriel-n-gandebe"
 ---
 
-- AC Bobigny 93 (2011 - 2013)
-- Rugby Club Massy Essonne (2013 - 2017)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - )
+## キャリア遍歴
+

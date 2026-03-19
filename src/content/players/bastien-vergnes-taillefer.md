@@ -1,29 +1,19 @@
 ---
-title: "バスチャン・ヴェルニュ＝タイユフェール"
+title: "Bastien VERGNES-TAILLEFER | "
 name_en: "Bastien VERGNES-TAILLEFER"
+name_ja: ""
+slug: "bastien-vergnes-taillefer"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "194"
-weight: "114"
+height: "194.0"
+weight: "114.0"
 birth_date: "1997.06.13"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/bastien-vergnes-taillefer"
 ---
 
-- Roques Olympique Club (2004 - 2005)
-- Sport Athlétique Auterivain XV (2007 - 2012)
-- US Colomiers (2012 - 2021)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - )
+## キャリア遍歴
+

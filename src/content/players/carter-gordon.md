@@ -1,29 +1,19 @@
 ---
-title: "カーター・ゴードン"
+title: "Carter GORDON | "
 name_en: "Carter GORDON"
+name_ja: ""
+slug: "carter-gordon"
 position: "SO"
-team: "クイーンズランド・レッズ"
 height: "189.0"
 weight: "94.0"
 birth_date: "2001.01.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/carter-gordon"
 ---
 
-- Queensland Country (2018 - 2019)
-- レッズ (2019 - 2026)
-- 🇦🇺 メルボルン・レベルズ (2020 - 2024)
-- Gold Coast Titans (2024 - )
+## キャリア遍歴
+

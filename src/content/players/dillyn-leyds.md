@@ -1,28 +1,19 @@
 ---
-title: "ディリン・レイズ"
+title: "Dillyn LEYDS | "
 name_en: "Dillyn LEYDS"
+name_ja: ""
+slug: "dillyn-leyds"
 position: "WTB"
-team: "ラ・ロシェル"
-height: "183"
-weight: "88"
+height: "183.0"
+weight: "88.0"
 birth_date: "1992.09.12"
-age: 33
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: "Sud"
-category: ""
-division: ""
+age: null
+country: "Sud"
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/dill_l8s"
-twitter: "https://www.twitter.com/dill10leyds"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/dillyn-leyds"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2013 - 2014)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2020)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - )
+## キャリア遍歴
+

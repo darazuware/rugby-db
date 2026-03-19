@@ -1,31 +1,19 @@
 ---
-title: "Max ・ NAGY"
+title: "Max NAGY | "
 name_en: "Max NAGY"
+name_ja: ""
+slug: "max-nagy"
 position: "FB"
-team: "オスプリーズ"
 height: "193.0"
 weight: "97.0"
 birth_date: "1999.06.13"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/max-nagy"
 ---
 
-- Swansea RFC (2019 - 2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2020)
-- Swansea RFC (2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2021)
-- Swansea RFC (2021)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2021 - )
+## キャリア遍歴
+

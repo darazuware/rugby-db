@@ -1,27 +1,19 @@
 ---
-title: "Jac ・ MORGAN"
+title: "Jac MORGAN | "
 name_en: "Jac MORGAN"
+name_ja: ""
+slug: "jac-morgan"
 position: "Back row"
-team: "オスプリーズ"
 height: "182.0"
 weight: "105.0"
 birth_date: "2000.01.21"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/jac-morgan"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2018 - 2021)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2021 - )
+## キャリア遍歴
+

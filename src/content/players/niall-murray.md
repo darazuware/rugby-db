@@ -1,26 +1,19 @@
 ---
-title: "ナイル ・ MURRAY"
+title: "Niall MURRAY | "
 name_en: "Niall MURRAY"
+name_ja: ""
+slug: "niall-murray"
 position: "LO"
-team: "コナート・ラグビー"
 height: "200.0"
 weight: "111.0"
 birth_date: "1999.10.13"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/niall-murray"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2018 - )
+## キャリア遍歴
+

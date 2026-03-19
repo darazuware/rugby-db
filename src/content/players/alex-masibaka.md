@@ -1,29 +1,19 @@
 ---
-title: "アレックス・マシバカ"
+title: "Alex MASIBAKA | "
 name_en: "Alex MASIBAKA"
+name_ja: ""
+slug: "alex-masibaka"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "186"
-weight: "115"
+height: "186.0"
+weight: "115.0"
 birth_date: "2001.08.09"
-age: 24
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "モンペリエ"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/alex-masibaka"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - 2022)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2023)
-- Soyaux-Angoulême XV Charente (2023 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "トム ・ STEWART"
+title: "Tom STEWART | "
 name_en: "Tom STEWART"
+name_ja: ""
+slug: "tom-stewart"
 position: "HO"
-team: "アルスター・ラグビー"
 height: "183.0"
 weight: "105.0"
 birth_date: "2001.01.11"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-stewart"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2019 - )
+## キャリア遍歴
+

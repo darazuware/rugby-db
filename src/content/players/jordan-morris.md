@@ -1,26 +1,19 @@
 ---
-title: "Jordan ・ MORRIS"
+title: "Jordan MORRIS | "
 name_en: "Jordan MORRIS"
+name_ja: ""
+slug: "jordan-morris"
 position: "PR"
-team: "ドラゴンズ・ラグビー"
 height: "185.0"
 weight: "109.0"
 birth_date: "2004.02.22"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/jordan-morris"
 ---
 
-- Dragons RFC (2023 - )
+## キャリア遍歴
+

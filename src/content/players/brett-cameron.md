@@ -1,30 +1,19 @@
 ---
-title: "ブレット・キャメロン"
+title: "Brett CAMERON | "
 name_en: "Brett CAMERON"
+name_ja: ""
+slug: "brett-cameron"
 position: "SO"
-team: "ウェリントン・ハリケーンズ"
 height: "175.0"
 weight: "84.0"
 birth_date: "1996.10.04"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/brett-cameron"
 ---
 
-- クルセイダーズ (2017 - 2021)
-- カンタベリー (2019 - 2020)
-- マナワツ (2020 - 2025)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2021 - 2022)
-- ハリケーンズ (2022 - )
+## キャリア遍歴
+

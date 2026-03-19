@@ -1,31 +1,19 @@
 ---
-title: "ミカエル・カペリ"
+title: "Mickaël CAPELLI | "
 name_en: "Mickaël CAPELLI"
+name_ja: ""
+slug: "mickael-capelli"
 position: "LO"
-team: "ポー"
-height: "198"
-weight: "126"
+height: "198.0"
+weight: "126.0"
 birth_date: "1997.03.18"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/mickael-capelli"
 ---
 
-- Voreppe RC (2004 - 2006)
-- Rugby Club Chartreuse Néron (2006 - 2009)
-- SO Voiron (2009 - 2012)
-- FC Grenoble Rugby (2012 - 2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - 2022)
-- Section Paloise Béarn Pyrénées (2022 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ジョージ・モアラ"
+title: "George MOALA | "
 name_en: "George MOALA"
+name_ja: ""
+slug: "george-moala"
 position: "CTB"
-team: "クレルモン"
-height: "188"
-weight: "106"
+height: "188.0"
+weight: "106.0"
 birth_date: "1990.11.05"
-age: 35
-high_school: ""
-university: ""
-caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Tonga"
+scraped_url: "https://all.rugby/player/george-moala"
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2011 - 2018)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2018 - )
+## キャリア遍歴
+

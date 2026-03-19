@@ -1,28 +1,19 @@
 ---
-title: "トーマス ・ DOMINGUEZ"
+title: "Thomas DOMINGUEZ | "
 name_en: "Thomas DOMINGUEZ"
+name_ja: ""
+slug: "thomas-dominguez"
 position: "SH"
-team: "ゼブレ・パルマ"
 height: "175.0"
 weight: "79.0"
 birth_date: "1999.12.18"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-dominguez"
 ---
 
-- Club Atlético San Isidro (2018 - 2019)
-- Valorugby Emilia (2021 - 2023)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2023 - )
+## キャリア遍歴
+

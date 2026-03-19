@@ -1,27 +1,19 @@
 ---
-title: "スマイラ・カマラ"
+title: "Soumaila CAMARA | "
 name_en: "Soumaila CAMARA"
+name_ja: ""
+slug: "soumaila-camara"
 position: "FL/NO8"
-team: "ラシン92"
-height: "187"
-weight: "101"
+height: "187.0"
+weight: "101.0"
 birth_date: "2003.09.30"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/soumi_lbr/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/soumaila-camara"
 ---
 
-- AC Bobigny 93 (2011 - 2024)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024 - )
+## キャリア遍歴
+

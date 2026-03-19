@@ -1,26 +1,19 @@
 ---
-title: "Shane ・ DALY"
+title: "Shane DALY | "
 name_en: "Shane DALY"
+name_ja: ""
+slug: "shane-daly"
 position: "CTB"
-team: "マンスター・ラグビー"
 height: "191.0"
 weight: "92.0"
 birth_date: "1996.12.19"
-age: 29
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/shane-daly"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2017 - )
+## キャリア遍歴
+

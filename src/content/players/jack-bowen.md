@@ -1,27 +1,19 @@
 ---
-title: "ジャック・ボーウェン"
+title: "Jack BOWEN | "
 name_en: "Jack BOWEN"
+name_ja: ""
+slug: "jack-bowen"
 position: "SO"
-team: "NSWワラタス（ワラターズ）"
 height: "178.0"
 weight: "90.0"
 birth_date: "2003.12.30"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-bowen"
 ---
 
-- Eastern Suburbs RFC (2021 - 2022)
-- ワラターズ (2022 - )
+## キャリア遍歴
+

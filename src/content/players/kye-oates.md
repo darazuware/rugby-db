@@ -1,27 +1,19 @@
 ---
-title: "カイ・オーツ"
+title: "Kye OATES | "
 name_en: "Kye OATES"
+name_ja: ""
+slug: "kye-oates"
 position: "CTB"
-team: "ACTブランビーズ"
 height: "180.0"
 weight: "90.0"
 birth_date: "1999.09.01"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/kye-oates"
 ---
 
-- Canberra Royals (2024 - 2025)
-- ブランビーズ (2025 - )
+## キャリア遍歴
+

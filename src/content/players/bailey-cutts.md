@@ -1,26 +1,19 @@
 ---
-title: "Bailey ・ CUTTS"
+title: "Bailey CUTTS | "
 name_en: "Bailey CUTTS"
+name_ja: ""
+slug: "bailey-cutts"
 position: "CTB"
-team: "カーディフ・ラグビー"
 height: "185.0"
 weight: "88.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/bailey-cutts"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )
+## キャリア遍歴
+

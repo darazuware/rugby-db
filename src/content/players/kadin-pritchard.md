@@ -1,26 +1,19 @@
 ---
-title: "ケイディン・プリチャード"
+title: "Kadin PRITCHARD | "
 name_en: "Kadin PRITCHARD"
+name_ja: ""
+slug: "kadin-pritchard"
 position: "CTB"
-team: "ACTブランビーズ"
 height: "191.0"
 weight: "96.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/kadin-pritchard"
 ---
 
-- ブランビーズ (2023 - )
+## キャリア遍歴
+

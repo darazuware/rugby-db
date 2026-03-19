@@ -1,31 +1,19 @@
 ---
-title: "レノックス・アニャンウ"
+title: "Lennox ANYANWU | "
 name_en: "Lennox ANYANWU"
+name_ja: ""
+slug: "lennox-anyanwu"
 position: "CTB"
-team: "モンペリエ"
-height: "182"
-weight: "102"
+height: "182.0"
+weight: "102.0"
 birth_date: "2000.11.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Voir"
-nationality: "Voir"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/lennox-anyanwu"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2019 - 2022)
-- London Scottish (2022)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2023)
-- London Scottish (2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2023 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

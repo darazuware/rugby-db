@@ -1,28 +1,19 @@
 ---
-title: "テオ・アティソグベ"
+title: "Théo ATTISSOGBE | "
 name_en: "Théo ATTISSOGBE"
+name_ja: ""
+slug: "theo-attissogbe"
 position: "WTB"
-team: "ポー"
-height: "182"
-weight: "84"
+height: "182.0"
+weight: "84.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+country: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "France"
+scraped_url: "https://all.rugby/player/theo-attissogbe"
 ---
 
-- Peyrehorade Sport Rugby Pays d'Orthe (2011 - 2019)
-- Stade Montois Rugby Pro (2019 - 2022)
-- Section Paloise Béarn Pyrénées (2022 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "カイル・シンクラー"
+title: "Kyle SINCKLER | "
 name_en: "Kyle SINCKLER"
+name_ja: ""
+slug: "kyle-sinckler"
 position: "PR"
-team: "トゥーロン"
-height: "183"
-weight: "122"
+height: "183.0"
+weight: "122.0"
 birth_date: "1993.03.30"
-age: 32
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "Angleterre"
-category: ""
-division: ""
+age: null
+country: "Angleterre"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "England"
+scraped_url: "https://all.rugby/player/kyle-sinckler"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ブリストル・ベアーズ](/teams/premiership/bristol-bears) (2020 - 2024)
-- Rugby Club Toulonnais (2024 - )
+## キャリア遍歴
+

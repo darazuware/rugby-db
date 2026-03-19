@@ -1,0 +1,104 @@
+﻿date,home_team,away_team,home_score,away_score,league
+"Saturday, March 2, 2024",Nola,Old Glory,18,6,MLR
+"Sunday, March 3, 2024",Houston,Utah,22,15,MLR
+"Sunday, March 3, 2024",Seattle,San Diego,25,19,MLR
+"Sunday, March 3, 2024",Miami,Chicago,19,23,MLR
+"Monday, March 4, 2024",Anthem RC,New England,13,46,MLR
+"Monday, March 4, 2024",Los Angeles,Dallas,29,32,MLR
+"Saturday, March 9, 2024",New England,Old Glory,34,35,MLR
+"Saturday, March 9, 2024",Nola,Anthem RC,34,19,MLR
+"Saturday, March 9, 2024",Utah,Chicago,29,15,MLR
+"Sunday, March 10, 2024",Seattle,Miami,29,18,MLR
+"Sunday, March 10, 2024",Dallas,San Diego,23,30,MLR
+"Sunday, March 10, 2024",Los Angeles,Houston,12,27,MLR
+"Saturday, March 16, 2024",New England,Nola,27,21,MLR
+"Saturday, March 16, 2024",Old Glory,Chicago,22,22,MLR
+"Sunday, March 17, 2024",Houston,Miami,30,19,MLR
+"Sunday, March 17, 2024",Utah,Seattle,13,23,MLR
+"Sunday, March 17, 2024",San Diego,Los Angeles,19,18,MLR
+"Sunday, March 17, 2024",Anthem RC,Dallas,28,68,MLR
+"Saturday, March 23, 2024",Seattle,Houston,40,42,MLR
+"Saturday, March 23, 2024",Old Glory,San Diego,11,27,MLR
+"Sunday, March 24, 2024",Miami,Anthem RC,50,21,MLR
+"Sunday, March 24, 2024",Dallas,Nola,22,35,MLR
+"Sunday, March 24, 2024",Chicago,New England,17,22,MLR
+"Sunday, March 24, 2024",Los Angeles,Utah,36,32,MLR
+"Saturday, March 30, 2024",Dallas,Houston,27,30,MLR
+"Saturday, March 30, 2024",Chicago,Seattle,26,34,MLR
+"Saturday, March 30, 2024",Anthem RC,Old Glory,32,46,MLR
+"Monday, April 1, 2024",Miami,San Diego,21,22,MLR
+"Saturday, April 6, 2024",Utah,Anthem RC,44,19,MLR
+"Saturday, April 6, 2024",Seattle,Dallas,34,32,MLR
+"Saturday, April 6, 2024",Nola,Chicago,21,38,MLR
+"Saturday, April 6, 2024",New England,Miami,25,3,MLR
+"Saturday, April 6, 2024",Old Glory,Los Angeles,22,22,MLR
+"Saturday, April 13, 2024",Dallas,Utah,22,20,MLR
+"Sunday, April 14, 2024",Houston,New England,35,47,MLR
+"Sunday, April 14, 2024",San Diego,Nola,33,20,MLR
+"Sunday, April 14, 2024",Chicago,Anthem RC,59,26,MLR
+"Monday, April 15, 2024",Los Angeles,Seattle,5,36,MLR
+"Saturday, April 20, 2024",New England,Seattle,21,29,MLR
+"Saturday, April 20, 2024",Nola,Miami,27,42,MLR
+"Saturday, April 20, 2024",Old Glory,Houston,17,38,MLR
+"Monday, April 22, 2024",Chicago,Los Angeles,54,31,MLR
+"Monday, April 22, 2024",San Diego,Utah,32,33,MLR
+"Saturday, April 27, 2024",Anthem RC,Nola,5,40,MLR
+"Saturday, April 27, 2024",Miami,Dallas,17,38,MLR
+"Saturday, April 27, 2024",Utah,Old Glory,31,24,MLR
+"Sunday, April 28, 2024",Houston,San Diego,33,0,MLR
+"Monday, April 29, 2024",Los Angeles,New England,12,34,MLR
+"Saturday, May 4, 2024",Seattle,Anthem RC,29,13,MLR
+"Sunday, May 5, 2024",Old Glory,Miami,13,10,MLR
+"Sunday, May 5, 2024",Utah,Houston,24,29,MLR
+"Sunday, May 5, 2024",New England,Chicago,20,26,MLR
+"Monday, May 6, 2024",San Diego,Dallas,30,24,MLR
+"Friday, May 10, 2024",Anthem RC,Houston,15,38,MLR
+"Saturday, May 11, 2024",Miami,Utah,20,19,MLR
+"Saturday, May 11, 2024",Dallas,Los Angeles,26,29,MLR
+"Saturday, May 11, 2024",Nola,Seattle,32,31,MLR
+"Sunday, May 12, 2024",Chicago,Old Glory,21,22,MLR
+"Saturday, May 18, 2024",Anthem RC,Los Angeles,29,33,MLR
+"Sunday, May 19, 2024",Dallas,Seattle,14,7,MLR
+"Sunday, May 19, 2024",Nola,Utah,21,14,MLR
+"Sunday, May 19, 2024",Houston,Chicago,23,22,MLR
+"Sunday, May 19, 2024",San Diego,New England,23,24,MLR
+"Saturday, May 25, 2024",Miami,New England,15,13,MLR
+"Saturday, May 25, 2024",Seattle,Old Glory,26,24,MLR
+"Sunday, May 26, 2024",Chicago,Nola,13,25,MLR
+"Monday, May 27, 2024",Los Angeles,San Diego,19,27,MLR
+"Saturday, June 1, 2024",Old Glory,Anthem RC,47,29,MLR
+"Sunday, June 2, 2024",Nola,Houston,7,21,MLR
+"Sunday, June 2, 2024",Utah,San Diego,20,27,MLR
+"Sunday, June 2, 2024",New England,Dallas,26,24,MLR
+"Monday, June 3, 2024",Los Angeles,Miami,45,15,MLR
+"Saturday, June 8, 2024",Old Glory,New England,30,31,MLR
+"Sunday, June 9, 2024",Houston,Los Angeles,29,12,MLR
+"Sunday, June 9, 2024",San Diego,Anthem RC,34,24,MLR
+"Monday, June 10, 2024",Miami,Nola,13,20,MLR
+"Monday, June 10, 2024",Dallas,Chicago,22,20,MLR
+"Monday, June 10, 2024",Seattle,Utah,68,29,MLR
+"Saturday, June 15, 2024",Houston,Seattle,28,25,MLR
+"Saturday, June 15, 2024",Dallas,Old Glory,34,36,MLR
+"Sunday, June 16, 2024",New England,Utah,36,27,MLR
+"Sunday, June 16, 2024",Anthem RC,Miami,14,30,MLR
+"Monday, June 17, 2024",Los Angeles,Nola,21,38,MLR
+"Tuesday, June 18, 2024",Chicago,San Diego,22,16,MLR
+"Saturday, June 22, 2024",Anthem RC,Chicago,29,38,MLR
+"Saturday, June 22, 2024",Miami,Old Glory,17,12,MLR
+"Sunday, June 23, 2024",Nola,New England,27,17,MLR
+"Sunday, June 23, 2024",Utah,Dallas,50,46,MLR
+"Sunday, June 23, 2024",Seattle,Los Angeles,29,12,MLR
+"Monday, June 24, 2024",San Diego,Houston,37,24,MLR
+"Saturday, June 29, 2024",Chicago,Miami,38,26,MLR
+"Saturday, June 29, 2024",Old Glory,Nola,27,24,MLR
+"Saturday, June 29, 2024",Utah,Los Angeles,24,31,MLR
+"Saturday, June 29, 2024",New England,Anthem RC,40,7,MLR
+"Sunday, June 30, 2024",Houston,Dallas,29,28,MLR
+"Sunday, June 30, 2024",San Diego,Seattle,45,33,MLR
+"Saturday, July 20, 2024",Houston,Dallas,22,34,MLR
+"Saturday, July 20, 2024",New England,Old Glory,33,29,MLR
+"Monday, July 22, 2024",Nola,Chicago,21,45,MLR
+"Monday, July 22, 2024",Seattle,San Diego,30,28,MLR
+"Saturday, July 27, 2024",New England,Chicago,23,17,MLR
+"Sunday, July 28, 2024",Seattle,Dallas,28,25,MLR
+"Sunday, August 4, 2024",Seattle,New England,11,20,MLR

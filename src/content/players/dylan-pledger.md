@@ -1,27 +1,19 @@
 ---
-title: "ディラン・プレッジャー"
+title: "Dylan PLEDGER | "
 name_en: "Dylan PLEDGER"
+name_ja: ""
+slug: "dylan-pledger"
 position: "SH"
-team: "オタゴ・ハイランダーズ"
 height: "171.0"
 weight: "74.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/dylan-pledger"
 ---
 
-- オタゴ (2023 - 2025)
-- ハイランダーズ (2023 - )
+## キャリア遍歴
+

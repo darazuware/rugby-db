@@ -1,30 +1,19 @@
 ---
-title: "オーレリアン・アザール"
+title: "Aurélien AZAR | "
 name_en: "Aurélien AZAR"
+name_ja: ""
+slug: "aurelien-azar"
 position: "PR"
-team: "カストル"
-height: "188"
-weight: "126"
+height: "188.0"
+weight: "126.0"
 birth_date: "1994.06.10"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/aurelien-azar"
 ---
 
-- US Montmélian (2004 - 2014)
-- FC Grenoble Rugby (2014 - 2016)
-- Stade Olympique Chambéry (2016 - 2019)
-- US Carcassonne (2019 - 2022)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2022 - )
+## キャリア遍歴
+

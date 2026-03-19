@@ -1,27 +1,19 @@
 ---
-title: "サミソニ・タウケイアホ"
+title: "Samisoni TAUKEI'AHO | "
 name_en: "Samisoni TAUKEI'AHO"
+name_ja: ""
+slug: "samisoni-taukei-aho"
 position: "HO"
-team: "ワイカト・チーフス"
 height: "183.0"
 weight: "118.0"
 birth_date: "1997.08.08"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/samisoni-taukei-aho"
 ---
 
-- チーフス (2016 - 2026)
-- ワイカト (2019 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ザビエル・ルーベンス"
+title: "Xavier RUBENS | "
 name_en: "Xavier RUBENS"
+name_ja: ""
+slug: "xavier-rubens"
 position: "CTB"
-team: "クイーンズランド・レッズ"
 height: "186.0"
 weight: "93.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/xavier-rubens"
 ---
 
-- レッズ (2023 - )
+## キャリア遍歴
+

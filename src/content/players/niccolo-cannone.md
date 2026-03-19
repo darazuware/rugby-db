@@ -1,26 +1,19 @@
 ---
-title: "Niccol ・ CANNONE"
+title: "Niccolò CANNONE | "
 name_en: "Niccolò CANNONE"
+name_ja: ""
+slug: "niccolo-cannone"
 position: "LO"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "197.0"
 weight: "121.0"
 birth_date: "1998.05.17"
-age: 27
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/niccolo-cannone"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2018 - )
+## キャリア遍歴
+

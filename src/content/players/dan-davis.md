@@ -1,26 +1,19 @@
 ---
-title: "ダン ・ DAVIS"
+title: "Dan DAVIS | "
 name_en: "Dan DAVIS"
+name_ja: ""
+slug: "dan-davis"
 position: "Back row"
-team: "スカーレッツ"
 height: "182.0"
 weight: "101.0"
 birth_date: "1998.09.17"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/dan-davis"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2017 - )
+## キャリア遍歴
+

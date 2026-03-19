@@ -1,29 +1,19 @@
 ---
-title: "ナタナエル・ユルー"
+title: "Nathanaël HULLEU | "
 name_en: "Nathanaël HULLEU"
+name_ja: ""
+slug: "nathanael-hulleu"
 position: "WTB"
-team: "カストル"
-height: "178"
-weight: "87"
+height: "178.0"
+weight: "87.0"
 birth_date: "2000.05.16"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/nathanael-hulleu"
 ---
 
-- FC Grenoble Rugby (2015 - 2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - 2022)
-- Rugby Club Vannes (2022 - 2023)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023 - )
+## キャリア遍歴
+

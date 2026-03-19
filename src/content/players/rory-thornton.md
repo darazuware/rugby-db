@@ -1,27 +1,19 @@
 ---
-title: "Rory ・ THORNTON"
+title: "Rory THORNTON | "
 name_en: "Rory THORNTON"
+name_ja: ""
+slug: "rory-thornton"
 position: "LO"
-team: "カーディフ・ラグビー"
 height: "200.0"
 weight: "121.0"
 birth_date: "1995.03.16"
-age: 31
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/rory-thornton"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2014 - 2018)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2018 - )
+## キャリア遍歴
+

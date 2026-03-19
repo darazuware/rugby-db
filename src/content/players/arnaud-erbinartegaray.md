@@ -1,28 +1,19 @@
 ---
-title: "アルノー・エルビナルテガライ"
+title: "Arnaud ERBINARTEGARAY | "
 name_en: "Arnaud ERBINARTEGARAY"
+name_ja: ""
+slug: "arnaud-erbinartegaray"
 position: "WTB"
-team: "バイヨンヌ"
-height: "185"
-weight: "89"
+height: "185.0"
+weight: "89.0"
 birth_date: "2000.09.16"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/arnaud-erbinartegaray"
 ---
 
-- Avenir Barcus (2009 - 2019)
-- Sport Athlétique Mauléonais (2019 - 2021)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2021 - )
+## キャリア遍歴
+

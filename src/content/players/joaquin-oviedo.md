@@ -1,27 +1,19 @@
 ---
-title: "ホアキン・オビエド"
+title: "Joaquín OVIEDO | "
 name_en: "Joaquín OVIEDO"
+name_ja: ""
+slug: "joaquin-oviedo"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "191"
-weight: "113"
+height: "191.0"
+weight: "113.0"
 birth_date: "2001.07.17"
-age: 24
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: "Argentine"
-category: ""
-division: ""
+age: null
+country: "Argentine"
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/joaquin-oviedo"
 ---
 
-- Jaguares XV (2020 - 2021)
-- Union Sportive Arlequins Perpignanais (2021 - )
+## キャリア遍歴
+

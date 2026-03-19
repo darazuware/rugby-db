@@ -1,28 +1,19 @@
 ---
-title: "アレクサンドル・チャプチェット"
+title: "Alexandre TCHAPTCHET | "
 name_en: "Alexandre TCHAPTCHET"
+name_ja: ""
+slug: "alexandre-tchaptchet"
 position: "FB"
-team: "リヨン"
-height: "171"
-weight: "82"
+height: "171.0"
+weight: "82.0"
 birth_date: "2001.09.26"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/alexandre-tchaptchet"
 ---
 
-- Club Omnisports Gargenville (2007 - 2015)
-- Rugby Club Massy Essonne (2015 - 2020)
-- Lyon Olympique Universitaire Rugby (2020 - )
+## キャリア遍歴
+

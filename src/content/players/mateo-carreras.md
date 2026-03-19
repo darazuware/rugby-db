@@ -1,31 +1,19 @@
 ---
-title: "マテオ・カレーラス"
+title: "Mateo CARRERAS | "
 name_en: "Mateo CARRERAS"
+name_ja: ""
+slug: "mateo-carreras"
 position: "WTB"
-team: "バイヨンヌ"
-height: "173"
-weight: "84"
+height: "173.0"
+weight: "84.0"
 birth_date: "1999.12.17"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/mateo-carreras"
 ---
 
-- Jaguares XV (2018 - 2019)
-- Jaguares (2019 - 2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2020 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+## キャリア遍歴
+

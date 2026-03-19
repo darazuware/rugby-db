@@ -1,27 +1,19 @@
 ---
-title: "テヴィタ・オファ"
+title: "Tevita OFA | "
 name_en: "Tevita OFA"
+name_ja: ""
+slug: "tevita-ofa"
 position: "WTB"
-team: "モアナ・パシフィカ"
 height: "186.0"
 weight: "90.0"
 birth_date: "2002.01.18"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/tevita-ofa"
 ---
 
-- カウンティーズ・マヌカウ (2021 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

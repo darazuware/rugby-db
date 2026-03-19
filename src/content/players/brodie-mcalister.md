@@ -1,28 +1,19 @@
 ---
-title: "ブロディー・マカリスター"
+title: "Brodie MCALISTER | "
 name_en: "Brodie MCALISTER"
+name_ja: ""
+slug: "brodie-mcalister"
 position: "HO"
-team: "ワイカト・チーフス"
 height: "182.0"
 weight: "112.0"
 birth_date: "1997.06.17"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/brodie-mcalister"
 ---
 
-- クルセイダーズ (2018 - 2024)
-- カンタベリー (2019 - 2025)
-- チーフス (2024 - )
+## キャリア遍歴
+

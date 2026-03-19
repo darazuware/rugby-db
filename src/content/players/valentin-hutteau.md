@@ -1,28 +1,19 @@
 ---
-title: "ヴァランタン・ユトー"
+title: "Valentin HUTTEAU | "
 name_en: "Valentin HUTTEAU"
+name_ja: ""
+slug: "valentin-hutteau"
 position: "SH"
-team: "ボルドー・ベグル"
-height: "169"
-weight: "75"
+height: "169.0"
+weight: "75.0"
 birth_date: "//2007"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/valentin-hutteau"
 ---
 
-- US Pithiviers (2012 - 2020)
-- Rugby Club Massy Essonne (2020 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+## キャリア遍歴
+

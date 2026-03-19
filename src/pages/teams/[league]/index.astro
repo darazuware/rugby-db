@@ -11,6 +11,7 @@ import resultsData from "../../../../data/results_2026.json";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import { groupByRound } from "../../../utils/result_utils";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 
 export async function getStaticPaths() {
     return [
@@ -24,6 +25,7 @@ export async function getStaticPaths() {
         },
         { params: { league: "top14" }, props: { leagueName: "Top 14" } },
         { params: { league: "urc" }, props: { leagueName: "URC" } },
+        { params: { league: "mlr" }, props: { leagueName: "MLR" } },
     ];
 }
 
@@ -132,7 +134,8 @@ const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "league-one": { en: "LEAGUE ONE", jp: "リーグワン" },
     "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
     "top14": { en: "TOP 14", jp: "トップ14" },
-    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
+    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" },
+    "mlr": { en: "MLR", jp: "メジャーリーグ・ラグビー" }
 };
 const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
 
@@ -163,17 +166,10 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
     <main class="bg-background min-h-screen py-12 px-4">
         <div class="max-w-7xl mx-auto">
             <header class="mb-12">
-                <nav
-                    class="flex items-center gap-2 text-xs font-black text-foreground/40 uppercase tracking-widest mb-4"
-                >
-                    <a
-                        href="/teams"
-                        class="hover:text-yellow-500 transition-colors"
-                        >Team List</a
-                    >
-                    <span>/</span>
-                    <span class="text-foreground">{safeLeagueName}</span>
-                </nav>
+                <Breadcrumbs items={[
+                    { label: "チーム一覧", href: "/teams" },
+                    { label: safeLeagueName }
+                ]} />
                 <h1
                     class="text-4xl md:text-5xl font-black text-foreground tracking-tighter italic mb-4 uppercase flex flex-col md:flex-row md:items-baseline gap-2 md:gap-4"
                 >

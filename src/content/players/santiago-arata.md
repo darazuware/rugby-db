@@ -1,28 +1,19 @@
 ---
-title: "サンティアゴ・アラタ"
+title: "Santiago ARATA | "
 name_en: "Santiago ARATA"
+name_ja: ""
+slug: "santiago-arata"
 position: "SH"
-team: "カストル"
-height: "174"
-weight: "75"
+height: "174.0"
+weight: "75.0"
 birth_date: "1996.09.02"
-age: 29
-high_school: ""
-university: ""
-caps: "Uruguay"
-league_one_caps: "0"
+age: null
 country: "Uruguay"
-nationality: "Uruguay"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "Uruguay"
+scraped_url: "https://all.rugby/player/santiago-arata"
 ---
 
-- Houston Sabercats (2018 - 2019)
-- Club Atlético Peñarol (2019 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )
+## キャリア遍歴
+

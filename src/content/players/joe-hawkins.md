@@ -1,28 +1,19 @@
 ---
-title: "Joe ・ HAWKINS"
+title: "Joe HAWKINS | "
 name_en: "Joe HAWKINS"
+name_ja: ""
+slug: "joe-hawkins"
 position: "CTB"
-team: "スカーレッツ"
 height: "183.0"
 weight: "99.0"
 birth_date: "2002.06.11"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-hawkins"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2019 - 2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

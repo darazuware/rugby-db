@@ -1,27 +1,19 @@
 ---
-title: "エテネ・ナナイ＝セツロ"
+title: "Etene NANAI-SETURO | "
 name_en: "Etene NANAI-SETURO"
+name_ja: ""
+slug: "etene-nanai-seturo"
 position: "FB"
-team: "ワイカト・チーフス"
 height: "183.0"
 weight: "92.0"
 birth_date: "1999.08.20"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/etene-nanai-seturo"
 ---
 
-- チーフス (2018 - 2026)
-- カウンティーズ・マヌカウ (2019 - )
+## キャリア遍歴
+

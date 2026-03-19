@@ -1,31 +1,19 @@
 ---
-title: "ニック・ショーナート"
+title: "Nick SCHONERT | "
 name_en: "Nick SCHONERT"
+name_ja: ""
+slug: "nick-schonert"
 position: "PR"
-team: "ヴァンヌ"
-height: "189"
-weight: "123"
+height: "189.0"
+weight: "123.0"
 birth_date: "1991.09.20"
-age: 34
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "African"
-nationality: "African"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-schonert"
 ---
 
-- Worcester Warriors (2015 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2021 - 2024)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2024)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2025)
-- 🇯🇵 [三菱重工相模原ダイナボアーズ](/teams/league-one/mitsubishi-sagamihara-dynaboars) [D1] (2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "イスラエル・レオタ"
+title: "Israel LEOTA | "
 name_en: "Israel LEOTA"
+name_ja: ""
+slug: "israel-leota"
 position: "WTB"
-team: "モアナ・パシフィカ"
 height: "190.0"
 weight: "101.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/israel-leota"
 ---
 
-- Brisbane Broncos (2024 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

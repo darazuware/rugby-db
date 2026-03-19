@@ -1,26 +1,19 @@
 ---
-title: "MCCARTHY"
+title: "Éanna MCCARTHY | "
 name_en: "Éanna MCCARTHY"
+name_ja: ""
+slug: "eanna-mccarthy"
 position: "Back row"
-team: "コナート・ラグビー"
 height: "193.0"
 weight: "112.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/eanna-mccarthy"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2024 - )
+## キャリア遍歴
+

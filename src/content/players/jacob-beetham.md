@@ -1,26 +1,19 @@
 ---
-title: "Jacob ・ BEETHAM"
+title: "Jacob BEETHAM | "
 name_en: "Jacob BEETHAM"
+name_ja: ""
+slug: "jacob-beetham"
 position: "FB"
-team: "カーディフ・ラグビー"
 height: "185.0"
 weight: "100.0"
 birth_date: "2001.04.18"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/jacob-beetham"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2019 - )
+## キャリア遍歴
+

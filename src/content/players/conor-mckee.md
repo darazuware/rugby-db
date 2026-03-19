@@ -1,26 +1,19 @@
 ---
-title: "コナー ・ MCKEE"
+title: "Conor MCKEE | "
 name_en: "Conor MCKEE"
+name_ja: ""
+slug: "conor-mckee"
 position: "SH"
-team: "アルスター・ラグビー"
 height: "183.0"
 weight: "87.0"
 birth_date: "2001.03.20"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/conor-mckee"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2020 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Eddie ・ ジェームズ"
+title: "Eddie JAMES | "
 name_en: "Eddie JAMES"
+name_ja: ""
+slug: "eddie-james"
 position: "CTB"
-team: "スカーレッツ"
 height: "193.0"
 weight: "104.0"
 birth_date: "2002.08.10"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/eddie-james"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2020 - )
+## キャリア遍歴
+

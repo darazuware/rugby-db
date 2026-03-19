@@ -1,26 +1,19 @@
 ---
-title: "アリヴェレティ・ラカ"
+title: "Alivereti RAKA | "
 name_en: "Alivereti RAKA"
+name_ja: ""
+slug: "alivereti-raka"
 position: "WTB"
-team: "クレルモン"
-height: "189"
-weight: "105"
+height: "189.0"
+weight: "105.0"
 birth_date: "1994.12.09"
-age: 31
-high_school: ""
-university: ""
-caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2014
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Fiji"
+scraped_url: "https://all.rugby/player/alivereti-raka"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - )
+## キャリア遍歴
+

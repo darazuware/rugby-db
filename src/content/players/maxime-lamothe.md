@@ -1,29 +1,19 @@
 ---
-title: "マキシム・ラモス"
+title: "Maxime LAMOTHE | "
 name_en: "Maxime LAMOTHE"
+name_ja: ""
+slug: "maxime-lamothe"
 position: "HO"
-team: "ボルドー・ベグル"
-height: "184"
-weight: "109"
+height: "184.0"
+weight: "109.0"
 birth_date: "1998.10.03"
-age: 27
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/maxime-lamothe"
 ---
 
-- Pessac (2009 - 2012)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - 2019)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019 - 2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+## キャリア遍歴
+

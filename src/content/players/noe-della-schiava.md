@@ -1,28 +1,19 @@
 ---
-title: "ノエ・デッラ・スキアーヴァ"
+title: "Noé DELLA SCHIAVA | "
 name_en: "Noé DELLA SCHIAVA"
+name_ja: ""
+slug: "noe-della-schiava"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "193"
-weight: "95"
+height: "193.0"
+weight: "95.0"
 birth_date: "2002.02.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/noe-della-schiava"
 ---
 
-- Rugby Club Nîmois (2009 - 2019)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2019 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - )
+## キャリア遍歴
+

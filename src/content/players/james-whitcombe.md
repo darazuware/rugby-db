@@ -1,27 +1,19 @@
 ---
-title: "ジェームズ ・ WHITCOMBE"
+title: "James WHITCOMBE | "
 name_en: "James WHITCOMBE"
+name_ja: ""
+slug: "james-whitcombe"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "188.0"
 weight: "120.0"
 birth_date: "2000.11.20"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/james-whitcombe"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2017 - 2025)
-- Edimbourg Rugby (2025 - )
+## キャリア遍歴
+

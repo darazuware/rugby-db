@@ -1,28 +1,19 @@
 ---
-title: "マット・フェスラー"
+title: "Matt FAESSLER | "
 name_en: "Matt FAESSLER"
+name_ja: ""
+slug: "matt-faessler"
 position: "HO"
-team: "クイーンズランド・レッズ"
 height: "183.0"
 weight: "109.0"
 birth_date: "1998.12.21"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/matt-faessler"
 ---
 
-- Queensland Country (2018 - 2019)
-- Brothers Rugby Club (2019 - 2020)
-- レッズ (2020 - )
+## キャリア遍歴
+

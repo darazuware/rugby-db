@@ -1,26 +1,19 @@
 ---
-title: "Edwin ・ EDOGBO"
+title: "Edwin EDOGBO | "
 name_en: "Edwin EDOGBO"
+name_ja: ""
+slug: "edwin-edogbo"
 position: "LO"
-team: "マンスター・ラグビー"
 height: "196.0"
 weight: "127.0"
 birth_date: "2002.12.21"
-age: 23
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/edwin-edogbo"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2022 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "アンガス・ブライス"
+title: "Angus BLYTH | "
 name_en: "Angus BLYTH"
+name_ja: ""
+slug: "angus-blyth"
 position: "LO"
-team: "NSWワラタス（ワラターズ）"
 height: "204.0"
 weight: "124.0"
 birth_date: "1998.03.04"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/angus-blyth"
 ---
 
-- レッズ (2017 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Keagan ・ JOHANNES"
+title: "Keagan JOHANNES | "
 name_en: "Keagan JOHANNES"
+name_ja: ""
+slug: "keagan-johannes"
 position: "SH"
-team: "ヴォーダコム・ブルズ"
 height: "178.0"
 weight: "77.0"
 birth_date: "1999.11.27"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/keagan-johannes"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019 - )
+## キャリア遍歴
+

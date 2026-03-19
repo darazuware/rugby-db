@@ -1,26 +1,19 @@
 ---
-title: "ダラ ・ MURRAY"
+title: "Darragh MURRAY | "
 name_en: "Darragh MURRAY"
+name_ja: ""
+slug: "darragh-murray"
 position: "LO"
-team: "コナート・ラグビー"
 height: "200.0"
 weight: "115.0"
 birth_date: "2001.07.04"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/darragh-murray"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - )
+## キャリア遍歴
+

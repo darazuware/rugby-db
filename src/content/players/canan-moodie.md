@@ -1,26 +1,19 @@
 ---
-title: "Canan ・ MOODIE"
+title: "Canan MOODIE | "
 name_en: "Canan MOODIE"
+name_ja: ""
+slug: "canan-moodie"
 position: "Winger"
-team: "ヴォーダコム・ブルズ"
 height: "191.0"
 weight: "94.0"
 birth_date: "2002.11.05"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/canan-moodie"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2021 - )
+## キャリア遍歴
+

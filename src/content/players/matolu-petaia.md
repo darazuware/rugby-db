@@ -1,27 +1,19 @@
 ---
-title: "マトル・ペタイア"
+title: "Matolu PETAIA | "
 name_en: "Matolu PETAIA"
+name_ja: ""
+slug: "matolu-petaia"
 position: "FL/No8"
-team: "ウェリントン・ハリケーンズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/matolu-petaia"
 ---
 
-- ウェリントン (2023 - 2025)
-- ハリケーンズ (2025 - )
+## キャリア遍歴
+

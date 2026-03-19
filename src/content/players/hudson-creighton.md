@@ -1,29 +1,19 @@
 ---
-title: "ハドソン・クレイトン"
+title: "Hudson CREIGHTON | "
 name_en: "Hudson CREIGHTON"
+name_ja: ""
+slug: "hudson-creighton"
 position: "CTB"
-team: "ACTブランビーズ"
 height: "182.0"
 weight: "90.0"
 birth_date: "2000.03.21"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/hudson-creighton"
 ---
 
-- Brothers Rugby Club (2019 - 2020)
-- レッズ (2020 - 2021)
-- ブランビーズ (2021 - 2026)
-- オタゴ (2023 - )
+## キャリア遍歴
+

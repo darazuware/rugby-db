@@ -1,27 +1,19 @@
 ---
-title: "ガバン・クレッチマン"
+title: "Gabin KRETCHMANN | "
 name_en: "Gabin KRETCHMANN"
+name_ja: ""
+slug: "gabin-kretchmann"
 position: "SO"
-team: "ペルピニャン"
-height: "183"
-weight: "87"
+height: "183.0"
+weight: "87.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/gabin-kretchmann"
 ---
 
-- JSI Elne (2011 - 2019)
-- Union Sportive Arlequins Perpignanais (2019 - )
+## キャリア遍歴
+

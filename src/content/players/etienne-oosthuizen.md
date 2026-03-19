@@ -1,31 +1,19 @@
 ---
-title: "Etienne ・ OOSTHUIZEN"
+title: "Etienne OOSTHUIZEN | "
 name_en: "Etienne OOSTHUIZEN"
+name_ja: ""
+slug: "etienne-oosthuizen"
 position: "LO"
-team: "エミレーツ・ライオンズ"
 height: "198.0"
 weight: "128.0"
 birth_date: "1992.12.22"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/etienne-oosthuizen"
 ---
 
-- Lions Rugby (2011 - 2012)
-- 🇦🇺 [ACTブランビーズ](/teams/super-rugby/act-brumbies) (2012 - 2013)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2017)
-- Lyon Olympique Universitaire Rugby (2017 - 2021)
-- sans club (2022 - 2023)
-- Lions Rugby (2023 - )
+## キャリア遍歴
+

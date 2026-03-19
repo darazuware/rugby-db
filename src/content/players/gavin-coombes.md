@@ -1,26 +1,19 @@
 ---
-title: "Gavin ・ COOMBES"
+title: "Gavin COOMBES | "
 name_en: "Gavin COOMBES"
+name_ja: ""
+slug: "gavin-coombes"
 position: "Back row"
-team: "マンスター・ラグビー"
 height: "198.0"
 weight: "110.0"
 birth_date: "1997.12.11"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/gavin-coombes"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "カラム・ハーキン"
+title: "Callum HARKIN | "
 name_en: "Callum HARKIN"
+name_ja: ""
+slug: "callum-harkin"
 position: "SO"
-team: "ウェリントン・ハリケーンズ"
 height: "184.0"
 weight: "90.0"
 birth_date: "1999.04.08"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/callum-harkin"
 ---
 
-- ウェリントン (2023 - 2025)
-- ハリケーンズ (2024 - )
+## キャリア遍歴
+

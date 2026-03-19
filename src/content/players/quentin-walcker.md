@@ -1,29 +1,19 @@
 ---
-title: "カンタン・ワルケル"
+title: "Quentin WALCKER | "
 name_en: "Quentin WALCKER"
+name_ja: ""
+slug: "quentin-walcker"
 position: "PR"
-team: "カストル"
-height: "181"
-weight: "109"
+height: "181.0"
+weight: "109.0"
 birth_date: "1996.02.21"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/quentin-walcker"
 ---
 
-- Salanque Côte Radieuse (2004 - 2006)
-- Rugby Olympique Agathois (2007 - 2009)
-- Union Sportive Arlequins Perpignanais (2009 - 2021)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2021 - )
+## キャリア遍歴
+

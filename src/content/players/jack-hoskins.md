@@ -1,26 +1,19 @@
 ---
-title: "ジャック ・ HOSKINS"
+title: "Jack HOSKINS | "
 name_en: "Jack HOSKINS"
+name_ja: ""
+slug: "jack-hoskins"
 position: "CTB"
-team: "オスプリーズ"
 height: "185.0"
 weight: "100.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-hoskins"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2025 - )
+## キャリア遍歴
+

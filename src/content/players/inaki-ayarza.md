@@ -1,28 +1,19 @@
 ---
-title: "イニャキ・アヤルサ"
+title: "Iñaki AYARZA | "
 name_en: "Iñaki AYARZA"
+name_ja: ""
+slug: "inaki-ayarza"
 position: "CTB"
-team: "ヴァンヌ"
-height: "186"
-weight: "102"
+height: "186.0"
+weight: "102.0"
 birth_date: "1999.09.07"
-age: 26
-high_school: ""
-university: ""
-caps: "Chile"
-league_one_caps: "0"
-country: "Chile"
-nationality: "Chilean"
-category: ""
-division: ""
+age: null
+country: "Chilean"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "Chile"
+scraped_url: "https://all.rugby/player/inaki-ayarza"
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - 2021)
-- Soyaux-Angoulême XV Charente (2021 - 2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

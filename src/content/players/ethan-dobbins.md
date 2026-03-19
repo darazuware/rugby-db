@@ -1,28 +1,19 @@
 ---
-title: "イーサン・ドビンズ"
+title: "Ethan DOBBINS | "
 name_en: "Ethan DOBBINS"
+name_ja: ""
+slug: "ethan-dobbins"
 position: "HO"
-team: "NSWワラタス（ワラターズ）"
 height: "181.0"
 weight: "108.0"
 birth_date: "2000.05.03"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/ethan-dobbins"
 ---
 
-- West Brisbane Bulldogs (2021 - 2023)
-- 🇦🇺 メルボルン・レベルズ (2023 - 2024)
-- ワラターズ (2024 - )
+## キャリア遍歴
+

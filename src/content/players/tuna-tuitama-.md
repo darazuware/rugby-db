@@ -1,27 +1,19 @@
 ---
-title: "ツナ・ツイタマ"
+title: "Tuna TUITAMA | "
 name_en: "Tuna TUITAMA"
+name_ja: ""
+slug: "tuna-tuitama-"
 position: "WTB"
-team: "モアナ・パシフィカ"
 height: "187.0"
 weight: "95.0"
 birth_date: "2000.02.25"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/tuna-tuitama-"
 ---
 
-- Samoa 7's (2023 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

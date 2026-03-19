@@ -1,27 +1,19 @@
 ---
-title: "デュプレッシー・キリフィ"
+title: "Du'Plessis KIRIFI | "
 name_en: "Du'Plessis KIRIFI"
+name_ja: ""
+slug: "du-plessis-kirifi"
 position: "FL/No8"
-team: "ウェリントン・ハリケーンズ"
 height: "181.0"
 weight: "103.0"
 birth_date: "1997.03.03"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/du-plessis-kirifi"
 ---
 
-- ハリケーンズ (2018 - 2026)
-- ウェリントン (2019 - )
+## キャリア遍歴
+

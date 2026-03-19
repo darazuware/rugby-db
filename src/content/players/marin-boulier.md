@@ -1,29 +1,19 @@
 ---
-title: "マラン・ブーリエ"
+title: "Marin BOULIER | "
 name_en: "Marin BOULIER"
+name_ja: ""
+slug: "marin-boulier"
 position: "CTB"
-team: "ヴァンヌ"
-height: "180"
-weight: "95"
+height: "180.0"
+weight: "95.0"
 birth_date: "2003.08.21"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/marin-boulier"
 ---
 
-- Rugby Ouest Cotentin (2008 - 2020)
-- Stade Caennais RC (2020 - 2021)
-- Rouen Normandie Rugby (2021 - 2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

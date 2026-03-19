@@ -1,31 +1,19 @@
 ---
-title: "Stefan ・ UNGERER"
+title: "Stefan UNGERER | "
 name_en: "Stefan UNGERER"
+name_ja: ""
+slug: "stefan-ungerer"
 position: "SH"
-team: "DHLストーマーズ"
 height: "183.0"
 weight: "93.0"
 birth_date: "1993.11.23"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/stefan-ungerer"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2016)
-- Southern Kings (2016 - 2020)
-- Griquas (2020 - 2021)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2021)
-- Griquas (2022)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2022 - )
+## キャリア遍歴
+

@@ -1,29 +1,19 @@
 ---
-title: "シヤ ・ MASUKU"
+title: "Siya MASUKU | "
 name_en: "Siya MASUKU"
+name_ja: ""
+slug: "siya-masuku"
 position: "SO"
-team: "ハリウッドベッツ・シャークス"
 height: "189.0"
 weight: "95.0"
 birth_date: "1996.08.01"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/siya-masuku"
 ---
 
-- Southern Kings (2019 - 2020)
-- Free State Cheetahs (2020 - 2022)
-- Central Cheetahs (2022 - 2023)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2023 - )
+## キャリア遍歴
+

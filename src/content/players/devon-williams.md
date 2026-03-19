@@ -1,32 +1,19 @@
 ---
-title: "Devon ・ ウィリアムズ"
+title: "Devon WILLIAMS | "
 name_en: "Devon WILLIAMS"
+name_ja: ""
+slug: "devon-williams"
 position: "FB"
-team: "ヴォーダコム・ブルズ"
 height: "175.0"
 weight: "79.0"
 birth_date: "1992.04.16"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/devon-williams"
 ---
 
-- Western Province (2012 - 2013)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2013)
-- Western Province (2013)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014)
-- Western Province (2014 - 2015)
-- Pumas (2015 - 2023)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )
+## キャリア遍歴
+

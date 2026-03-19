@@ -1,28 +1,19 @@
 ---
-title: "アンドリュー・ニュースタッブ"
+title: "Andrew KNEWSTUBB | "
 name_en: "Andrew KNEWSTUBB"
+name_ja: ""
+slug: "andrew-knewstubb"
 position: "FB"
-team: "オタゴ・ハイランダーズ"
 height: "188.0"
 weight: "88.0"
 birth_date: "1995.09.14"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/andrew-knewstubb"
 ---
 
-- カンタベリー (2019 - 2025)
-- タスマン (2020 - 2021)
-- ハイランダーズ (2025 - )
+## キャリア遍歴
+

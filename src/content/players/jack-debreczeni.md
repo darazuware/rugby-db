@@ -1,33 +1,19 @@
 ---
-title: "ジャック・デブレチェニ"
+title: "Jack DEBRECZENI | "
 name_en: "Jack DEBRECZENI"
+name_ja: ""
+slug: "jack-debreczeni"
 position: "SO"
-team: "NSWワラタス（ワラターズ）"
 height: "192.0"
 weight: "102.0"
 birth_date: "1993.06.06"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-debreczeni"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2013 - 2018)
-- ノースランド (2018 - 2019)
-- チーフス (2018 - 2019)
-- 🇯🇵 [日野レッドドルフィンズ](/teams/league-one/hino-red-dolphins) [D2] (2019 - 2022)
-- カンタベリー (2020 - 2021)
-- West Harbour RFC (2021 - 2022)
-- ブランビーズ (2022 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

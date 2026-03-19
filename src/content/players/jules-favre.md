@@ -1,26 +1,19 @@
 ---
-title: "ジュール・ファーブル"
+title: "Jules FAVRE | "
 name_en: "Jules FAVRE"
+name_ja: ""
+slug: "jules-favre"
 position: "CTB"
-team: "ラ・ロシェル"
-height: "181"
-weight: "93"
+height: "181.0"
+weight: "93.0"
 birth_date: "1999.03.22"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Française"
-nationality: "Française"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/julesfavre12"
-twitter: "https://www.twitter.com/jul83000_favre"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/jules-favre"
 ---
 
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+## キャリア遍歴
+

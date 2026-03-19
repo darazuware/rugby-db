@@ -1,26 +1,19 @@
 ---
-title: "Marcus ・ REA"
+title: "Marcus REA | "
 name_en: "Marcus REA"
+name_ja: ""
+slug: "marcus-rea"
 position: "Back row"
-team: "アルスター・ラグビー"
 height: "189.0"
 weight: "110.0"
 birth_date: "1997.09.08"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/marcus-rea"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2018 - )
+## キャリア遍歴
+

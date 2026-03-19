@@ -1,30 +1,19 @@
 ---
-title: "エレ・エナリ"
+title: "Ere ENARI | "
 name_en: "Ere ENARI"
+name_ja: ""
+slug: "ereatara-enari"
 position: "SH"
-team: "ウェリントン・ハリケーンズ"
 height: "178.0"
 weight: "84.0"
 birth_date: "1997.05.30"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/ereatara-enari"
 ---
 
-- カンタベリー (2016 - 2020)
-- クルセイダーズ (2016 - 2021)
-- ホークスベイ (2020 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - 2024)
-- ハリケーンズ (2024 - )
+## キャリア遍歴
+

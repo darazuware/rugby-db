@@ -1,27 +1,19 @@
 ---
-title: "Giampietro ・ RIBALDI"
+title: "Giampietro RIBALDI | "
 name_en: "Giampietro RIBALDI"
+name_ja: ""
+slug: "giampietro-ribaldi"
 position: "HO"
-team: "ゼブレ・パルマ"
 height: "186.0"
 weight: "110.0"
 birth_date: "1997.03.12"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/giampietro-ribaldi"
 ---
 
-- Rugby Viadana 1970 (2017 - 2022)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2020 - )
+## キャリア遍歴
+

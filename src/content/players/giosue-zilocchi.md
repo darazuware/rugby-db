@@ -1,28 +1,19 @@
 ---
-title: "Giosu ・ ZILOCCHI"
+title: "Giosué ZILOCCHI | "
 name_en: "Giosué ZILOCCHI"
+name_ja: ""
+slug: "giosue-zilocchi"
 position: "PR"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "189.0"
 weight: "115.0"
 birth_date: "1997.01.15"
-age: 29
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/giosue-zilocchi"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2018 - 2022)
-- London Irish (2022 - 2023)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2023 - )
+## キャリア遍歴
+

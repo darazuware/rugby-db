@@ -1,27 +1,19 @@
 ---
-title: "Emmett ・ CALVEY"
+title: "Emmett CALVEY | "
 name_en: "Emmett CALVEY"
+name_ja: ""
+slug: "emmett-calvey"
 position: "PR"
-team: "マンスター・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/emmett-calvey"
 ---
 
-- Shannon RFC (2023 - 2025)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2025 - )
+## キャリア遍歴
+

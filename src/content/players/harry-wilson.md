@@ -1,26 +1,19 @@
 ---
-title: "ハリー・ウィルソン"
+title: "Harry WILSON | "
 name_en: "Harry WILSON"
+name_ja: ""
+slug: "harry-wilson"
 position: "FL/No8"
-team: "クイーンズランド・レッズ"
 height: "196.0"
 weight: "115.0"
 birth_date: "1999.11.22"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/harry-wilson"
 ---
 
-- レッズ (2018 - )
+## キャリア遍歴
+

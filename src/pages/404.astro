@@ -1,0 +1,48 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="404 Page Not Found | RUGBY PICKS">
+    <main class="min-h-[70vh] flex items-center justify-center px-4 py-20 relative overflow-hidden">
+        {/* 背景の装飾 */}
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-yellow-400/5 rounded-full blur-[120px] -z-10"></div>
+        
+        <div class="max-w-2xl w-full text-center relative z-10">
+            <div class="mb-8">
+                <span class="text-[12rem] font-black leading-none text-transparent bg-clip-text bg-gradient-to-b from-yellow-400 to-yellow-600/20 italic tracking-tighter opacity-50">404</span>
+            </div>
+            
+            <h1 class="text-4xl md:text-5xl font-black text-foreground mb-6 tracking-tight uppercase italic">
+                Page <span class="text-yellow-400">Not Found</span>
+            </h1>
+            
+            <p class="text-foreground/60 text-lg font-bold mb-12 border-l-4 border-yellow-400 pl-6 inline-block text-left">
+                申し訳ありません。お探しのページは見つかりませんでした。<br/>
+                URLが変更されたか、削除された可能性があります。
+            </p>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
+                <a href="/players" class="group p-6 bg-card border border-border-dim rounded-3xl hover:border-yellow-400/50 transition-all text-left">
+                    <div class="text-yellow-400 font-black text-xs uppercase tracking-widest mb-2 group-hover:translate-x-1 transition-transform">Squad Search →</div>
+                    <div class="text-xl font-black text-foreground italic">選手名鑑から探す</div>
+                </a>
+                <a href="/standings" class="group p-6 bg-card border border-border-dim rounded-3xl hover:border-yellow-400/50 transition-all text-left">
+                    <div class="text-yellow-400 font-black text-xs uppercase tracking-widest mb-2 group-hover:translate-x-1 transition-transform">Standings →</div>
+                    <div class="text-xl font-black text-foreground italic">順位表・戦績を見る</div>
+                </a>
+            </div>
+            
+            <div class="flex flex-col items-center gap-6">
+                <a href="/" class="px-12 py-4 bg-yellow-400 text-black font-black rounded-full uppercase tracking-[0.2em] shadow-2xl shadow-yellow-400/20 hover:scale-105 active:scale-95 transition-all">
+                    Back to Home
+                </a>
+                
+                <div class="flex items-center gap-4 text-foreground/20 font-black italic uppercase tracking-widest text-[10px]">
+                    <span class="w-12 h-px bg-current"></span>
+                    Rugby Picks Database
+                    <span class="w-12 h-px bg-current"></span>
+                </div>
+            </div>
+        </div>
+    </main>
+</Layout>

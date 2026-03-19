@@ -1,29 +1,19 @@
 ---
-title: "ジュタ・ワイニコロ"
+title: "Jiuta WAINIQOLO | "
 name_en: "Jiuta WAINIQOLO"
+name_ja: ""
+slug: "jiuta-wainiqolo"
 position: "WTB"
-team: "リヨン"
-height: "187"
-weight: "97"
+height: "187.0"
+weight: "97.0"
 birth_date: "1999.03.10"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/jiuta-wainiqolo"
 ---
 
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2019)
-- FIDJI 7's (2020 - 2021)
-- Rugby Club Toulonnais (2021 - 2025)
-- Lyon Olympique Universitaire Rugby (2025 - )
+## キャリア遍歴
+

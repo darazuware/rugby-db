@@ -1,28 +1,19 @@
 ---
-title: "タイラー・アードロン"
+title: "Tyler ARDRON | "
 name_en: "Tyler ARDRON"
+name_ja: ""
+slug: "tyler-ardron"
 position: "FL/NO8"
-team: "カストル"
-height: "197"
-weight: "112"
+height: "197.0"
+weight: "112.0"
 birth_date: "1991.06.16"
-age: 34
-high_school: ""
-university: ""
-caps: "Canada"
-league_one_caps: "0"
-country: "Canada"
-nationality: "Canadien"
-category: ""
-division: ""
+age: null
+country: "Canadien"
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "Canada"
+scraped_url: "https://all.rugby/player/tyler-ardron"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2013 - 2017)
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2017 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )
+## キャリア遍歴
+

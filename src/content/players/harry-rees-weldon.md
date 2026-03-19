@@ -1,26 +1,19 @@
 ---
-title: "Harry ・ REES ・ WELDON"
+title: "Harry REES-WELDON | "
 name_en: "Harry REES-WELDON"
+name_ja: ""
+slug: "harry-rees-weldon"
 position: "Winger"
-team: "ドラゴンズ・ラグビー"
 height: "186.0"
 weight: "100.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-rees-weldon"
 ---
 
-- Dragons RFC (2023 - )
+## キャリア遍歴
+

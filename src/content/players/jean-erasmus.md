@@ -1,27 +1,19 @@
 ---
-title: "Jean ・ ERASMUS"
+title: "Jean ERASMUS | "
 name_en: "Jean ERASMUS"
+name_ja: ""
+slug: "jean-erasmus"
 position: "PR"
-team: "ヴォーダコム・ブルズ"
 height: "180.0"
 weight: "105.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/jean-erasmus"
 ---
 
-- Blue Bulls (2024 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

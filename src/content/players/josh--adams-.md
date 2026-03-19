@@ -1,27 +1,19 @@
 ---
-title: "ジョシュ ・ ADAMS"
+title: "Josh ADAMS | "
 name_en: "Josh ADAMS"
+name_ja: ""
+slug: "josh--adams-"
 position: "Winger"
-team: "カーディフ・ラグビー"
 height: "186.0"
 weight: "96.0"
 birth_date: "1995.04.21"
-age: 30
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/josh--adams-"
 ---
 
-- Worcester Warriors (2016 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2019 - )
+## キャリア遍歴
+

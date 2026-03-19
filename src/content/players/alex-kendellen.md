@@ -1,26 +1,19 @@
 ---
-title: "Alex ・ KENDELLEN"
+title: "Alex KENDELLEN | "
 name_en: "Alex KENDELLEN"
+name_ja: ""
+slug: "alex-kendellen"
 position: "Back row"
-team: "マンスター・ラグビー"
 height: "188.0"
 weight: "105.0"
 birth_date: "2001.03.03"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/alex-kendellen"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2020 - )
+## キャリア遍歴
+

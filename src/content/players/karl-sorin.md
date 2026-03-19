@@ -1,31 +1,19 @@
 ---
-title: "カール・ソラン"
+title: "Karl SORIN | "
 name_en: "Karl SORIN"
+name_ja: ""
+slug: "karl-sorin"
 position: "PR"
-team: "ラ・ロシェル"
-height: "186"
-weight: "135"
+height: "186.0"
+weight: "135.0"
 birth_date: "2003.08.07"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Française"
-nationality: "Française"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/karl.srn"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/karl-sorin"
 ---
 
-- Rugby Olympique Choletais (2015 - 2018)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2024)
-- Soyaux-Angoulême XV Charente (2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024)
-- Soyaux-Angoulême XV Charente (2025)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "アダム・バルガス"
+title: "Adam VARGAS | "
 name_en: "Adam VARGAS"
+name_ja: ""
+slug: "adam-vargas"
 position: "WTB"
-team: "カストル"
-height: "180"
-weight: "80"
+height: "180.0"
+weight: "80.0"
 birth_date: "2000.08.11"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/adam-vargas"
 ---
 
-- Lyon Olympique Universitaire Rugby (2005 - 2021)
-- Valence Romans Drôme Rugby (2021 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )
+## キャリア遍歴
+

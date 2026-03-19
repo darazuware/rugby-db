@@ -1,27 +1,19 @@
 ---
-title: "ジェレミー・ウィリアムズ"
+title: "Jeremy WILLIAMS | "
 name_en: "Jeremy WILLIAMS"
+name_ja: ""
+slug: "jeremy-williams"
 position: "LO"
-team: "ウェスタン・フォース"
 height: "198.0"
 weight: "113.0"
 birth_date: "2000.12.02"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/jeremy-williams"
 ---
 
-- ワラターズ (2018 - 2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ベン ・ トーマス"
+title: "Ben THOMAS | "
 name_en: "Ben THOMAS"
+name_ja: ""
+slug: "ben-thomas"
 position: "SO"
-team: "カーディフ・ラグビー"
 height: "183.0"
 weight: "93.0"
 birth_date: "1998.11.25"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-thomas"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2017 - )
+## キャリア遍歴
+

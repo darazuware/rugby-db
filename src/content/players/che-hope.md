@@ -1,26 +1,19 @@
 ---
-title: "Che ・ HOPE"
+title: "Che HOPE | "
 name_en: "Che HOPE"
+name_ja: ""
+slug: "che-hope"
 position: "SH"
-team: "ドラゴンズ・ラグビー"
 height: "178.0"
 weight: "76.0"
 birth_date: "2003.01.10"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/che-hope"
 ---
 
-- Dragons RFC (2020 - )
+## キャリア遍歴
+

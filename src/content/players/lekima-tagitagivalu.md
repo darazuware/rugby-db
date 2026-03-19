@@ -1,28 +1,19 @@
 ---
-title: "レキマ・タギタギヴァル"
+title: "Lekima TAGITAGIVALU | "
 name_en: "Lekima TAGITAGIVALU"
+name_ja: ""
+slug: "lekima-tagitagivalu"
 position: "FL/NO8"
-team: "ラシン92"
-height: "195"
-weight: "110"
+height: "195.0"
+weight: "110.0"
 birth_date: "1995.12.04"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/kima_tagi2valu/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/lekima-tagitagivalu"
 ---
 
-- Stade Aurillacois Cantal Auvergne (2013 - 2014)
-- Section Paloise Béarn Pyrénées (2015 - 2025)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ニック・コンウェイ"
+title: "Nick CONWAY | "
 name_en: "Nick CONWAY"
+name_ja: ""
+slug: "nick-conway"
 position: "WTB"
-team: "クイーンズランド・レッズ"
 height: "186.0"
 weight: "88.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-conway"
 ---
 
-- レッズ (2024 - )
+## キャリア遍歴
+

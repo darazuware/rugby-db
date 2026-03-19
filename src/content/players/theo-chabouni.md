@@ -1,28 +1,19 @@
 ---
-title: "テオ・シャブニ"
+title: "Théo CHABOUNI | "
 name_en: "Théo CHABOUNI"
+name_ja: ""
+slug: "theo-chabouni"
 position: "FB"
-team: "カストル"
-height: "182"
-weight: "85"
+height: "182.0"
+weight: "85.0"
 birth_date: "2003.12.22"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/theo-chabouni"
 ---
 
-- Pennes-Mirabeau Cadeneaux Rugby (2009 - 2016)
-- Provence Rugby (2016 - 2021)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2021 - )
+## キャリア遍歴
+

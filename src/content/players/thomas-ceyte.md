@@ -1,33 +1,19 @@
 ---
-title: "トマ・セイト"
+title: "Thomas CEYTE | "
 name_en: "Thomas CEYTE"
+name_ja: ""
+slug: "thomas-ceyte"
 position: "LO"
-team: "クレルモン"
-height: "198"
-weight: "120"
+height: "198.0"
+weight: "120.0"
 birth_date: "1991.02.13"
-age: 35
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-ceyte"
 ---
 
-- RC Aubenas Vals (2004 - 2015)
-- Association Sportive Béziers Hérault (2015)
-- US Dax Rugby Landes (2015)
-- Association Sportive Béziers Hérault (2016)
-- US Dax Rugby Landes (2016 - 2017)
-- USON Nevers Rugby (2017 - 2022)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

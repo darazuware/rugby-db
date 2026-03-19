@@ -1,29 +1,19 @@
 ---
-title: "ガエル・ドレアン"
+title: "Gaël DRÉAN | "
 name_en: "Gaël DRÉAN"
+name_ja: ""
+slug: "gael-drean"
 position: "WTB"
-team: "トゥーロン"
-height: "184"
-weight: "84"
+height: "184.0"
+weight: "84.0"
 birth_date: "2000.10.22"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/gael-drean"
 ---
 
-- Rugby Ovalie Lorient (2008 - 2019)
-- Plouzané (2019 - 2020)
-- Rennes Etudiants Club (2020 - 2022)
-- Rugby Club Toulonnais (2022 - )
+## キャリア遍歴
+

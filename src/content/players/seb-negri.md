@@ -1,26 +1,19 @@
 ---
-title: "Seb ・ NEGRI"
+title: "Seb NEGRI | "
 name_en: "Seb NEGRI"
+name_ja: ""
+slug: "seb-negri"
 position: "Back row"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "194.0"
 weight: "111.0"
 birth_date: "1994.06.30"
-age: 31
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/seb-negri"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2017 - )
+## キャリア遍歴
+

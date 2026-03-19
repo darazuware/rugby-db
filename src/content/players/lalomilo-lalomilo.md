@@ -1,28 +1,19 @@
 ---
-title: "ラロミロ・ラロミロ"
+title: "Lalomilo LALOMILO | "
 name_en: "Lalomilo LALOMILO"
+name_ja: ""
+slug: "lalomilo-lalomilo"
 position: "CTB"
-team: "モアナ・パシフィカ"
 height: "176.0"
 weight: "105.0"
 birth_date: "1999.02.12"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/lalomilo-lalomilo"
 ---
 
-- ベイ・オブ・プレンティ (2017 - 2025)
-- チーフス (2022 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

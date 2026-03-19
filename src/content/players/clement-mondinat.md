@@ -1,28 +1,19 @@
 ---
-title: "クレマン・モンディナ"
+title: "Clément MONDINAT | "
 name_en: "Clément MONDINAT"
+name_ja: ""
+slug: "clement-mondinat"
 position: "SO"
-team: "ポー"
-height: "178"
-weight: "80"
+height: "178.0"
+weight: "80.0"
 birth_date: "2003.10.29"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/clement-mondinat"
 ---
 
-- Union Sportive du Canton de Pouyastruc (2008 - 2017)
-- Stado Tarbes Pyrénées Rugby (2017 - 2018)
-- Section Paloise Béarn Pyrénées (2018 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "コーリー・トゥール"
+title: "Corey TOOLE | "
 name_en: "Corey TOOLE"
+name_ja: ""
+slug: "corey-toole"
 position: "WTB"
-team: "ACTブランビーズ"
 height: "178.0"
 weight: "85.0"
 birth_date: "2000.03.07"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/corey-toole"
 ---
 
-- Aussie 7's (2021 - 2022)
-- ブランビーズ (2022 - )
+## キャリア遍歴
+

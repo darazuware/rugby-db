@@ -1,27 +1,19 @@
 ---
-title: "ワーナー・ディアンズ"
+title: "Warner DEARNS | "
 name_en: "Warner DEARNS"
+name_ja: ""
+slug: "warner-dearns"
 position: "LO"
-team: "ウェリントン・ハリケーンズ"
 height: "202.0"
 weight: "124.0"
 birth_date: "2002.04.11"
-age: 23
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/warner-dearns"
 ---
 
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - 2025)
-- ハリケーンズ (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "シアオシ・ンギニンギニ"
+title: "Siaosi NGININGINI | "
 name_en: "Siaosi NGININGINI"
+name_ja: ""
+slug: "siaosi-nginingini"
 position: "SH"
-team: "モアナ・パシフィカ"
 height: "183.0"
 weight: "91.0"
 birth_date: "1998.10.17"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/siaosi-nginingini"
 ---
 
-- ノース・ハーバー (2021 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

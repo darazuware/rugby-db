@@ -1,32 +1,19 @@
 ---
-title: "フェデリコ・モーリ"
+title: "Federico MORI | "
 name_en: "Federico MORI"
+name_ja: ""
+slug: "federico-mori"
 position: "CTB"
-team: "バイヨンヌ"
-height: "188"
-weight: "108"
+height: "188.0"
+weight: "108.0"
 birth_date: "2000.10.13"
-age: 25
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/federico-mori"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2019)
-- Rugby Calvisano (2019)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2020)
-- Rugby Calvisano (2020)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2020 - 2021)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

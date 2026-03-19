@@ -1,31 +1,19 @@
 ---
-title: "シオネ・カラマフォニ"
+title: "Sione KALAMAFONI | "
 name_en: "Sione KALAMAFONI"
+name_ja: ""
+slug: "sione-kalafamoni"
 position: "FL/NO8"
-team: "ヴァンヌ"
-height: "196"
-weight: "120"
+height: "196.0"
+weight: "120.0"
 birth_date: "1988.05.18"
-age: 37
-high_school: ""
-university: ""
-caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: "Tongan"
-category: ""
-division: ""
+age: null
+country: "Tongan"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "Tonga"
+scraped_url: "https://all.rugby/player/sione-kalafamoni"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2013 - 2017)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2017 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2020 - 2023)
-- Rugby Club Vannes (2023 - )
+## キャリア遍歴
+

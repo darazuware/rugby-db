@@ -1,28 +1,19 @@
 ---
-title: "トマ・デュシェーヌ"
+title: "Thomas DUCHÊNE | "
 name_en: "Thomas DUCHÊNE"
+name_ja: ""
+slug: "thomas-duchene"
 position: "PR"
-team: "ヴァンヌ"
-height: "180"
-weight: "125"
+height: "180.0"
+weight: "125.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-duchene"
 ---
 
-- RC Saint-Gènes-Champanelle (2011 - 2018)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2018 - 2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

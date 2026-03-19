@@ -1,32 +1,19 @@
 ---
-title: "ベン・グラント"
+title: "Ben GRANT | "
 name_en: "Ben GRANT"
+name_ja: ""
+slug: "ben-grant"
 position: "LO"
-team: "NSWワラタス（ワラターズ）"
 height: "204.0"
 weight: "118.0"
 birth_date: "1998.05.18"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-grant"
 ---
 
-- Perth Spirit (2016 - 2017)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2018 - 2020)
-- レッズ (2020 - 2021)
-- San Diego Legion (2021 - 2023)
-- ノース・ハーバー (2022 - 2024)
-- ハリケーンズ (2023 - 2024)
-- ワラターズ (2024 - )
+## キャリア遍歴
+

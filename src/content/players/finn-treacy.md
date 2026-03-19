@@ -1,26 +1,19 @@
 ---
-title: "フィン ・ TREACY"
+title: "Finn TREACY | "
 name_en: "Finn TREACY"
+name_ja: ""
+slug: "finn-treacy"
 position: "Winger"
-team: "コナート・ラグビー"
 height: "183.0"
 weight: "96.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/finn-treacy"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2023 - )
+## キャリア遍歴
+

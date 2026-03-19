@@ -1,27 +1,19 @@
 ---
-title: "Asenathi ・ NTLABAKANYE"
+title: "Asenathi NTLABAKANYE | "
 name_en: "Asenathi NTLABAKANYE"
+name_ja: ""
+slug: "asenathi-ntlabakanye"
 position: "PR"
-team: "エミレーツ・ライオンズ"
 height: "182.0"
 weight: "153.0"
 birth_date: "1999.04.15"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/asenathi-ntlabakanye"
 ---
 
-- Golden Lions (2018 - 2019)
-- Lions Rugby (2019 - )
+## キャリア遍歴
+

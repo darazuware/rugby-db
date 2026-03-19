@@ -1,27 +1,19 @@
 ---
-title: "サム ・ FRANCIS"
+title: "Sam FRANCIS | "
 name_en: "Sam FRANCIS"
+name_ja: ""
+slug: "sam-francis"
 position: "SO"
-team: "エミレーツ・ライオンズ"
 height: "190.0"
 weight: "100.0"
 birth_date: "2003.03.14"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/sam-francis"
 ---
 
-- Golden Lions (2022 - 2024)
-- Lions Rugby (2024 - )
+## キャリア遍歴
+

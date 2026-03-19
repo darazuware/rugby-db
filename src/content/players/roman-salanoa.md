@@ -1,27 +1,19 @@
 ---
-title: "Roman ・ SALANOA"
+title: "Roman SALANOA | "
 name_en: "Roman SALANOA"
+name_ja: ""
+slug: "roman-salanoa"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "183.0"
 weight: "123.0"
 birth_date: "1997.10.28"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/roman-salanoa"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2019 - 2020)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2020 - )
+## キャリア遍歴
+

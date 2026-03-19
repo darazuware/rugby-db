@@ -1,27 +1,19 @@
 ---
-title: "アサフォ・アウムア"
+title: "Asafo AUMUA | "
 name_en: "Asafo AUMUA"
+name_ja: ""
+slug: "asafo-aumua"
 position: "HO"
-team: "ウェリントン・ハリケーンズ"
 height: "177.0"
 weight: "112.0"
 birth_date: "1997.05.05"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/asafo-aumua"
 ---
 
-- ハリケーンズ (2017 - 2026)
-- ウェリントン (2019 - )
+## キャリア遍歴
+

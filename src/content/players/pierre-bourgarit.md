@@ -1,28 +1,19 @@
 ---
-title: "ピエール・ブルガリット"
+title: "Pierre BOURGARIT | "
 name_en: "Pierre BOURGARIT"
+name_ja: ""
+slug: "pierre-bourgarit"
 position: "HO"
-team: "ラ・ロシェル"
-height: "184"
-weight: "105"
+height: "184.0"
+weight: "105.0"
 birth_date: "1997.09.12"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Française"
-category: ""
-division: ""
+age: null
+country: "Française"
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/pierre_bourgarit"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "France"
+scraped_url: "https://all.rugby/player/pierre-bourgarit"
 ---
 
-- ES Gimont Rugby (2008 - 2015)
-- Rugby Club Auch (2015 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+## キャリア遍歴
+

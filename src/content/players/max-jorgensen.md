@@ -1,26 +1,19 @@
 ---
-title: "マックス・ヨルゲンセン"
+title: "Max JORGENSEN | "
 name_en: "Max JORGENSEN"
+name_ja: ""
+slug: "max-jorgensen"
 position: "FB"
-team: "NSWワラタス（ワラターズ）"
 height: "181.0"
 weight: "88.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/max-jorgensen"
 ---
 
-- ワラターズ (2021 - )
+## キャリア遍歴
+

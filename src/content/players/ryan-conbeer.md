@@ -1,27 +1,19 @@
 ---
-title: "ライアン ・ CONBEER"
+title: "Ryan CONBEER | "
 name_en: "Ryan CONBEER"
+name_ja: ""
+slug: "ryan-conbeer"
 position: "Winger"
-team: "オスプリーズ"
 height: "177.0"
 weight: "91.0"
 birth_date: "1999.02.05"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/ryan-conbeer"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2017 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2024 - )
+## キャリア遍歴
+

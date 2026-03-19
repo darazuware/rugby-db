@@ -1,31 +1,19 @@
 ---
-title: "ジャクソン・ガーデン＝バショップ"
+title: "Jackson GARDEN-BACHOP | "
 name_en: "Jackson GARDEN-BACHOP"
+name_ja: ""
+slug: "jackson-garden-bachop"
 position: "SO"
-team: "モアナ・パシフィカ"
 height: "185.0"
 weight: "102.0"
 birth_date: "1994.10.03"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/jackson-garden-bachop"
 ---
 
-- 🇦🇺 メルボルン・レベルズ (2016 - 2017)
-- ハリケーンズ (2017 - 2022)
-- ウェリントン (2019 - 2025)
-- 🇯🇵 [花園近鉄ライナーズ](/teams/league-one/hanazono-kintetsu-liners) [D2] (2022 - 2023)
-- ブリーヴ (2023 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

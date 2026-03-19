@@ -1,29 +1,19 @@
 ---
-title: "アンジェロ・スミス"
+title: "Angelo SMITH | "
 name_en: "Angelo SMITH"
+name_ja: ""
+slug: "angelo-smith"
 position: "LO"
-team: "フィジアン・ドゥルア"
 height: "199.0"
 weight: "115.0"
 birth_date: "2000.07.27"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/angelo-smith"
 ---
 
-- West Brisbane Bulldogs (2021 - 2022)
-- 🇦🇺 メルボルン・レベルズ (2022 - 2024)
-- ワラターズ (2024 - 2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

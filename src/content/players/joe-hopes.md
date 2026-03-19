@@ -1,26 +1,19 @@
 ---
-title: "Joe ・ HOPES"
+title: "Joe HOPES | "
 name_en: "Joe HOPES"
+name_ja: ""
+slug: "joe-hopes"
 position: "LO"
-team: "アルスター・ラグビー"
 height: "200.0"
 weight: "115.0"
 birth_date: "2004.03.16"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-hopes"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2022 - )
+## キャリア遍歴
+

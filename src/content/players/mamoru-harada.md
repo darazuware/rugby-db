@@ -1,28 +1,19 @@
 ---
-title: "ハラダ・マモル"
+title: "Mamoru HARADA | "
 name_en: "Mamoru HARADA"
+name_ja: ""
+slug: "mamoru-harada"
 position: "HO"
-team: "モアナ・パシフィカ"
 height: "175.0"
 weight: "101.0"
 birth_date: "1999.04.15"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/mamoru-harada"
 ---
 
-- サンウルブズ (2019 - 2020)
-- 🇯🇵 [東芝ブレイブルーパス東京](/teams/league-one/toshiba-brave-lupus-tokyo) [D1] (2021 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

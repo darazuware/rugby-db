@@ -1,26 +1,19 @@
 ---
-title: "Gryff ・ WATKINS"
+title: "Gryff WATKINS | "
 name_en: "Gryff WATKINS"
+name_ja: ""
+slug: "gryff-watkins"
 position: "CTB"
-team: "スカーレッツ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/gryff-watkins"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

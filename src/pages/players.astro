@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
 import PlayerList from "../components/PlayerList";
 import { getCollection } from "astro:content";
 
@@ -7,7 +8,10 @@ const allPlayers = await getCollection("players");
 ---
 
 <Layout title="選手名鑑 | RUGBY PICKS">
-	<div class="mb-10">
-		<PlayerList initialPlayers={allPlayers} client:load />
+	<div class="max-w-7xl mx-auto px-4 py-8">
+		<Breadcrumbs items={[{ label: "選手名鑑" }]} />
+		<div class="mb-10">
+			<PlayerList initialPlayers={allPlayers} client:load />
+		</div>
 	</div>
 </Layout>

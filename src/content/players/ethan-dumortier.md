@@ -1,28 +1,19 @@
 ---
-title: "イーサン・デュモルティエ"
+title: "Ethan DUMORTIER | "
 name_en: "Ethan DUMORTIER"
+name_ja: ""
+slug: "ethan-dumortier"
 position: "WTB"
-team: "リヨン"
-height: "192"
-weight: "95"
+height: "192.0"
+weight: "95.0"
 birth_date: "2000.12.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/ethan-dumortier"
 ---
 
-- Saint-Savin (2009 - 2014)
-- CS Bourgoin Jallieu Rugby (2014 - 2017)
-- Lyon Olympique Universitaire Rugby (2017 - )
+## キャリア遍歴
+

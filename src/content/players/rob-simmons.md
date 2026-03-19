@@ -1,29 +1,19 @@
 ---
-title: "ロブ・シモンズ"
+title: "Rob SIMMONS | "
 name_en: "Rob SIMMONS"
+name_ja: ""
+slug: "rob-simmons"
 position: "LO"
-team: "クレルモン"
-height: "204"
-weight: "115"
+height: "204.0"
+weight: "115.0"
 birth_date: "1989.04.19"
-age: 36
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/rob-simmons"
 ---
 
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2013 - 2017)
-- New South Wales Waratahs (2017 - 2020)
-- London Irish (2020 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ブレイデン・イオセ"
+title: "Brayden IOSE | "
 name_en: "Brayden IOSE"
+name_ja: ""
+slug: "brayden-iose"
 position: "FL/No8"
-team: "ウェリントン・ハリケーンズ"
 height: "188.0"
 weight: "109.0"
 birth_date: "1998.08.26"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/brayden-iose"
 ---
 
-- マナワツ (2016 - 2025)
-- ハリケーンズ (2020 - )
+## キャリア遍歴
+

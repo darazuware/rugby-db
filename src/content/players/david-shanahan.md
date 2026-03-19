@@ -1,26 +1,19 @@
 ---
-title: "デイヴ ・ SHANAHAN"
+title: "Dave SHANAHAN | "
 name_en: "Dave SHANAHAN"
+name_ja: ""
+slug: "david-shanahan"
 position: "SH"
-team: "アルスター・ラグビー"
 height: "176.0"
 weight: "80.0"
 birth_date: "1993.06.20"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/david-shanahan"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2013 - )
+## キャリア遍歴
+

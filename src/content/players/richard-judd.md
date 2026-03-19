@@ -1,47 +1,19 @@
 ---
-title: "リチャード・ジャッド"
+title: "Richard JUDD | "
 name_en: "Richard JUDD"
+name_ja: ""
+slug: "richard-judd"
 position: "SH"
-team: "ヴァンヌ"
-height: "180"
-weight: "88"
+height: "180.0"
+weight: "88.0"
 birth_date: "1992.05.18"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Zealander"
-nationality: "Zealander"
-category: ""
-division: ""
-league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+league: "mlr"
+team: "San Diego Legion"
+caps: "0"
+scraped_url: "https://all.rugby/player/richard-judd"
 ---
 
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
-- Bay of Plenty Steamers (2018)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2019)
-- Bay of Plenty Steamers (2019)
-- Tokyo Sungoliath (2019 - 2020)
-- Wellington Lions (2020)
-- Tokyo Sungoliath (2021)
-- Wellington Lions (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2021)
-- Wellington Lions (2021)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2022)
-- Wellington Lions (2022)
-- San Diego Legion (2022)
-- Bay of Plenty Steamers (2022)
-- San Diego Legion (2023)
-- Bay of Plenty Steamers (2023)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2023 - 2024)
-- San Diego Legion (2024)
-- Bay of Plenty Steamers (2024)
-- San Diego Legion (2025)
-- Bay of Plenty Steamers (2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

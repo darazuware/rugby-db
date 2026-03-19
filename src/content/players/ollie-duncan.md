@@ -1,26 +1,19 @@
 ---
-title: "Ollie ・ DUNCAN"
+title: "Ollie DUNCAN | "
 name_en: "Ollie DUNCAN"
+name_ja: ""
+slug: "ollie-duncan"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "191.0"
 weight: "106.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/ollie-duncan"
 ---
 
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

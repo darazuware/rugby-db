@@ -1,29 +1,19 @@
 ---
-title: "エリオット・ルディル"
+title: "Eliott ROUDIL | "
 name_en: "Eliott ROUDIL"
+name_ja: ""
+slug: "elliot-roudil"
 position: "CTB"
-team: "ヴァンヌ"
-height: "184"
-weight: "97"
+height: "184.0"
+weight: "97.0"
 birth_date: "1996.10.30"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/elliot-roudil"
 ---
 
-- Stade Nantais (2004 - 2013)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2013 - 2020)
-- Section Paloise Béarn Pyrénées (2020 - 2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

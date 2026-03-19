@@ -1,30 +1,19 @@
 ---
-title: "キラン・ハムダウィ"
+title: "Kylan HAMDAOUI | "
 name_en: "Kylan HAMDAOUI"
+name_ja: ""
+slug: "kylan-hamdaoui"
 position: "FB"
-team: "クレルモン"
-height: "182"
-weight: "91"
+height: "182.0"
+weight: "91.0"
 birth_date: "1994.04.15"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/kylan-hamdaoui"
 ---
 
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2005 - 2012)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - 2014)
-- Biarritz Olympique Pays Basque (2014 - 2018)
-- Stade Français Paris Rugby (2018 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

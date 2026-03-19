@@ -1,28 +1,19 @@
 ---
-title: "サミュエル・エゼアラ"
+title: "Samuel EZEALA | "
 name_en: "Samuel EZEALA"
+name_ja: ""
+slug: "samuel-ezeala"
 position: "WTB"
-team: "スタッド・フランセ"
-height: "187"
-weight: "99"
+height: "187.0"
+weight: "99.0"
 birth_date: "1999.12.11"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/samezeala"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/samuel-ezeala"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2015 - 2023)
-- Section Paloise Béarn Pyrénées (2023 - 2024)
-- Stade Français Paris Rugby (2024 - )
+## キャリア遍歴
+

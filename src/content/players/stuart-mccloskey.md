@@ -1,26 +1,19 @@
 ---
-title: "Stuart ・ MCCLOSKEY"
+title: "Stuart MCCLOSKEY | "
 name_en: "Stuart MCCLOSKEY"
+name_ja: ""
+slug: "stuart-mccloskey"
 position: "CTB"
-team: "アルスター・ラグビー"
 height: "193.0"
 weight: "112.0"
 birth_date: "1992.08.06"
-age: 33
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/stuart-mccloskey"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2013 - )
+## キャリア遍歴
+

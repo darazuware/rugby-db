@@ -1,27 +1,19 @@
 ---
-title: "メスラメ・ドロコト"
+title: "Mesulame DOLOKOTO | "
 name_en: "Mesulame DOLOKOTO"
+name_ja: ""
+slug: "mesulame-dolokoto"
 position: "HO"
-team: "フィジアン・ドゥルア"
 height: "177.0"
 weight: "115.0"
 birth_date: "1995.01.21"
-age: 31
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Fijian Drua"
 caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/mesulame-dolokoto"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2019 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+## キャリア遍歴
+

@@ -1,32 +1,19 @@
 ---
-title: "ネモ・ロエロフセ"
+title: "Nemo ROELOFSE | "
 name_en: "Nemo ROELOFSE"
+name_ja: ""
+slug: "nemo-roelofse"
 position: "PR"
-team: "ペルピニャン"
-height: "182"
-weight: "120"
+height: "182.0"
+weight: "120.0"
 birth_date: "1995.06.06"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "African"
-nationality: "African"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/nemo-roelofse"
 ---
 
-- Eagles SWD (2014 - 2016)
-- Sporting Club Albigeois (2016)
-- Eagles SWD (2017)
-- Sporting Club Albigeois (2017)
-- USON Nevers Rugby (2017 - 2021)
-- Stade Français Paris Rugby (2021 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - )
+## キャリア遍歴
+

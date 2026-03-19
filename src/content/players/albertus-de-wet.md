@@ -1,27 +1,19 @@
 ---
-title: "ポール ・ デ ・ WET"
+title: "Paul DE WET | "
 name_en: "Paul DE WET"
+name_ja: ""
+slug: "albertus-de-wet"
 position: "SH"
-team: "ヴォーダコム・ブルズ"
 height: "176.0"
 weight: "83.0"
 birth_date: "1996.03.16"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/albertus-de-wet"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2017 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

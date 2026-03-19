@@ -1,26 +1,19 @@
 ---
-title: "Fez ・ MBATHA"
+title: "Fez MBATHA | "
 name_en: "Fez MBATHA"
+name_ja: ""
+slug: "fezokuhle-mbatha"
 position: "HO"
-team: "ハリウッドベッツ・シャークス"
 height: "182.0"
 weight: "112.0"
 birth_date: "1999.08.02"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/fezokuhle-mbatha"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2018 - )
+## キャリア遍歴
+

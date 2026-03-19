@@ -1,26 +1,19 @@
 ---
-title: "Hudson ・ NEVIN"
+title: "Hudson NEVIN | "
 name_en: "Hudson NEVIN"
+name_ja: ""
+slug: "hudson-nevin"
 position: "PR"
-team: "スカーレッツ"
 height: "188.0"
 weight: "113.0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/hudson-nevin"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "トマ・スヴェルビー"
+title: "Thomas SOUVERBIE | "
 name_en: "Thomas SOUVERBIE"
+name_ja: ""
+slug: "thomas-souverbie"
 position: "SH"
-team: "ポー"
-height: "175"
-weight: "80"
+height: "175.0"
+weight: "80.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-souverbie"
 ---
 
-- Avenir Bizanos (2009 - 2017)
-- Section Paloise Béarn Pyrénées (2017 - )
+## キャリア遍歴
+

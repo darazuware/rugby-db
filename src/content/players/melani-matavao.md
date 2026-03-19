@@ -1,26 +1,19 @@
 ---
-title: "メラニ・マタヴァオ"
+title: "Melani MATAVAO | "
 name_en: "Melani MATAVAO"
+name_ja: ""
+slug: "melani-matavao"
 position: "SH"
-team: "モアナ・パシフィカ"
 height: "171.0"
 weight: "80.0"
 birth_date: "1995.11.19"
-age: 30
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Moana Pasifika"
 caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/melani-matavao"
 ---
 
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

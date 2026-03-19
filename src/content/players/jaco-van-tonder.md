@@ -1,27 +1,19 @@
 ---
-title: "ヤコ・ファン・トンダー"
+title: "Jaco VAN TONDER | "
 name_en: "Jaco VAN TONDER"
+name_ja: ""
+slug: "jaco-van-tonder"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "197"
-weight: "118"
+height: "197.0"
+weight: "118.0"
 birth_date: "1998.03.08"
-age: 28
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: "African"
-category: ""
-division: ""
+age: null
+country: "African"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/jaco-van-tonder"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2016 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - )
+## キャリア遍歴
+

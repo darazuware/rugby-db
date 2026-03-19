@@ -1,26 +1,19 @@
 ---
-title: "ジョック・キャンベル"
+title: "Jock CAMPBELL | "
 name_en: "Jock CAMPBELL"
+name_ja: ""
+slug: "jock-campbell"
 position: "FB"
-team: "クイーンズランド・レッズ"
 height: "186.0"
 weight: "91.0"
 birth_date: "1995.05.17"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/jock-campbell"
 ---
 
-- レッズ (2018 - )
+## キャリア遍歴
+

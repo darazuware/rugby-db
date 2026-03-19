@@ -1,27 +1,19 @@
 ---
-title: "ペナイア・ザコバウ"
+title: "Penaia CAKOBAU | "
 name_en: "Penaia CAKOBAU"
+name_ja: ""
+slug: "penaia-cakobau"
 position: "HO"
-team: "フィジアン・ドゥルア"
 height: "180.0"
 weight: "110.0"
 birth_date: "1993.12.28"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/penaia-cakobau"
 ---
 
-- ノース・ハーバー (2023 - 2025)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "エステバン・アバティ"
+title: "Esteban ABADIE | "
 name_en: "Esteban ABADIE"
+name_ja: ""
+slug: "esteban-abadie"
 position: "FL/NO8"
-team: "トゥーロン"
-height: "188"
-weight: "100"
+height: "188.0"
+weight: "100.0"
 birth_date: "1997.12.01"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "France"
+scraped_url: "https://all.rugby/player/esteban-abadie"
 ---
 
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2009 - 2019)
-- CA Brive Corrèze Limousin (2019 - 2023)
-- Rugby Club Toulonnais (2023 - )
+## キャリア遍歴
+

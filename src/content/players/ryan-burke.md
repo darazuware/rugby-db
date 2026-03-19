@@ -1,26 +1,19 @@
 ---
-title: "ライアン ・ BURKE"
+title: "Ryan BURKE | "
 name_en: "Ryan BURKE"
+name_ja: ""
+slug: "ryan-burke"
 position: "LO"
-team: "グラスゴー・ウォリアーズ"
 height: "200.0"
 weight: "117.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "0"
+scraped_url: "https://all.rugby/player/ryan-burke"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2023 - )
+## キャリア遍歴
+

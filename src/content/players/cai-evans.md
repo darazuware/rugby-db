@@ -1,27 +1,19 @@
 ---
-title: "Cai ・ EVANS"
+title: "Cai EVANS | "
 name_en: "Cai EVANS"
+name_ja: ""
+slug: "cai-evans"
 position: "SO"
-team: "ドラゴンズ・ラグビー"
 height: "185.0"
 weight: "84.0"
 birth_date: "1999.06.23"
-age: 26
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/cai-evans"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2017 - 2023)
-- Dragons RFC (2023 - )
+## キャリア遍歴
+

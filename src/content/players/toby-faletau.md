@@ -1,28 +1,19 @@
 ---
-title: "Toby ・ FALETAU"
+title: "Toby FALETAU | "
 name_en: "Toby FALETAU"
+name_ja: ""
+slug: "toby-faletau"
 position: "Back row"
-team: "カーディフ・ラグビー"
 height: "188.0"
 weight: "115.0"
 birth_date: "1990.11.12"
-age: 35
-high_school: ""
-university: ""
-caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Tonga"
+scraped_url: "https://all.rugby/player/toby-faletau"
 ---
 
-- Dragons RFC (2013 - 2016)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2016 - 2022)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2022 - )
+## キャリア遍歴
+

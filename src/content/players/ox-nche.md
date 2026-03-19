@@ -1,29 +1,19 @@
 ---
-title: "オクス ・ NCH"
+title: "Ox NCHÉ | "
 name_en: "Ox NCHÉ"
+name_ja: ""
+slug: "ox-nche"
 position: "PR"
-team: "ハリウッドベッツ・シャークス"
 height: "176.0"
 weight: "123.0"
 birth_date: "1995.07.23"
-age: 30
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/ox-nche"
 ---
 
-- Central Cheetahs (2015 - 2019)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2019)
-- Central Cheetahs (2020)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2020 - )
+## キャリア遍歴
+

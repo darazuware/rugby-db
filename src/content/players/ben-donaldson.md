@@ -1,27 +1,19 @@
 ---
-title: "ベン・ドナルドソン"
+title: "Ben DONALDSON | "
 name_en: "Ben DONALDSON"
+name_ja: ""
+slug: "ben-donaldson"
 position: "SO"
-team: "ウェスタン・フォース"
 height: "183.0"
 weight: "87.0"
 birth_date: "1999.04.04"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/ben-donaldson"
 ---
 
-- ワラターズ (2018 - 2023)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - )
+## キャリア遍歴
+

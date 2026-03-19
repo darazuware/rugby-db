@@ -1,27 +1,19 @@
 ---
-title: "ニック・フロスト"
+title: "Nick FROST | "
 name_en: "Nick FROST"
+name_ja: ""
+slug: "nick-frost"
 position: "LO"
-team: "ACTブランビーズ"
 height: "206.0"
 weight: "120.0"
 birth_date: "1999.10.10"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-frost"
 ---
 
-- Canberra Vikings (2018 - 2019)
-- ブランビーズ (2019 - )
+## キャリア遍歴
+

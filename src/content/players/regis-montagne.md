@@ -1,27 +1,19 @@
 ---
-title: "レジ・モンターニュ"
+title: "Régis MONTAGNE | "
 name_en: "Régis MONTAGNE"
+name_ja: ""
+slug: "regis-montagne"
 position: "PR"
-team: "クレルモン"
-height: "186"
-weight: "133"
+height: "186.0"
+weight: "133.0"
 birth_date: "2000.09.30"
-age: 25
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "France"
+scraped_url: "https://all.rugby/player/regis-montagne"
 ---
 
-- FC Grenoble Rugby (2010 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

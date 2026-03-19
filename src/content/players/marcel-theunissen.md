@@ -1,26 +1,19 @@
 ---
-title: "Marcel ・ THEUNISSEN"
+title: "Marcel THEUNISSEN | "
 name_en: "Marcel THEUNISSEN"
+name_ja: ""
+slug: "marcel-theunissen"
 position: "Back row"
-team: "DHLストーマーズ"
 height: "191.0"
 weight: "103.0"
 birth_date: "1999.06.09"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/marcel-theunissen"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019 - )
+## キャリア遍歴
+

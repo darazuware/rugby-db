@@ -1,26 +1,19 @@
 ---
-title: "Rob ・ HERRING"
+title: "Rob HERRING | "
 name_en: "Rob HERRING"
+name_ja: ""
+slug: "rob-herring"
 position: "HO"
-team: "アルスター・ラグビー"
 height: "185.0"
 weight: "106.0"
 birth_date: "1990.04.27"
-age: 35
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/rob-herring"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2013 - )
+## キャリア遍歴
+

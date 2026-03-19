@@ -1,36 +1,19 @@
 ---
-title: "ピエール・ブデアン"
+title: "Pierre BOUDEHENT | "
 name_en: "Pierre BOUDEHENT"
+name_ja: ""
+slug: "pierre-boudehent"
 position: "CTB"
-team: "ヴァンヌ"
-height: "196"
-weight: "107"
+height: "196.0"
+weight: "107.0"
 birth_date: "1998.02.06"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-boudehent"
 ---
 
-- SCO RC Angers (2009 - 2013)
-- Stade Nantais (2013 - 2015)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2015 - 2019)
-- Rugby Club Vannes (2019)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
-- Rugby Club Vannes (2020)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020 - 2023)
-- Stade Français Paris Rugby (2023 - 2024)
-- Rugby Club Vannes (2024)
-- Stade Français Paris Rugby (2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

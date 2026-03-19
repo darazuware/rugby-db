@@ -1,31 +1,19 @@
 ---
-title: "Erich ・ CRONJ"
+title: "Erich CRONJÉ | "
 name_en: "Erich CRONJÉ"
+name_ja: ""
+slug: "erich-cronje"
 position: "CTB"
-team: "エミレーツ・ライオンズ"
 height: "184.0"
 weight: "95.0"
 birth_date: "1997.01.01"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/erich-cronje"
 ---
 
-- Southern Kings (2019)
-- Pumas (2019)
-- Southern Kings (2020)
-- Pumas (2020 - 2021)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2021 - 2023)
-- Lions Rugby (2023 - )
+## キャリア遍歴
+

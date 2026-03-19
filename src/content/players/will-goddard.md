@@ -1,27 +1,19 @@
 ---
-title: "ウィル・ゴダード"
+title: "Will GODDARD | "
 name_en: "Will GODDARD"
+name_ja: ""
+slug: "will-goddard"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "183.0"
 weight: "125.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/will-goddard"
 ---
 
-- ワラターズ (2023 - 2026)
-- Eastwood Rugby Club (2024 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "ロイク・クレド"
+title: "Loïc CRÉDOZ | "
 name_en: "Loïc CRÉDOZ"
+name_ja: ""
+slug: "loic-credoz"
 position: "FL/NO8"
-team: "ポー"
-height: "188"
-weight: "107"
+height: "188.0"
+weight: "107.0"
 birth_date: "1999.05.17"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/loic-credoz"
 ---
 
-- RC du Canton de Montrevel-en-Bresse (2007 - 2015)
-- Oyonnax Rugby (2015 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - )
+## キャリア遍歴
+

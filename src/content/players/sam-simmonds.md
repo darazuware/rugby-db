@@ -1,28 +1,19 @@
 ---
-title: "サム・シモンズ"
+title: "Sam SIMMONDS | "
 name_en: "Sam SIMMONDS"
+name_ja: ""
+slug: "sam-simmonds"
 position: "FL/NO8"
-team: "リヨン"
-height: "184"
-weight: "108"
+height: "184.0"
+weight: "108.0"
 birth_date: "1994.11.10"
-age: 31
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "England"
+scraped_url: "https://all.rugby/player/sam-simmonds"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2014 - 2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - 2025)
-- Lyon Olympique Universitaire Rugby (2025 - )
+## キャリア遍歴
+

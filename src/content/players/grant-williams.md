@@ -1,26 +1,19 @@
 ---
-title: "グラント ・ ウィリアムズ"
+title: "Grant WILLIAMS | "
 name_en: "Grant WILLIAMS"
+name_ja: ""
+slug: "grant-williams"
 position: "SH"
-team: "ハリウッドベッツ・シャークス"
 height: "174.0"
 weight: "80.0"
 birth_date: "1996.07.22"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/grant-williams"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2017 - )
+## キャリア遍歴
+

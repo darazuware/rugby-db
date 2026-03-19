@@ -1,26 +1,19 @@
 ---
-title: "Mornay ・ スミス"
+title: "Mornay SMITH | "
 name_en: "Mornay SMITH"
+name_ja: ""
+slug: "morne-smith"
 position: "PR"
-team: "ヴォーダコム・ブルズ"
 height: "181.0"
 weight: "119.0"
 birth_date: "1998.01.30"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/morne-smith"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - )
+## キャリア遍歴
+

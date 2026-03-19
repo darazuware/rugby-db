@@ -1,27 +1,19 @@
 ---
-title: "ピエール・カスティヨン"
+title: "Pierre CASTILLON | "
 name_en: "Pierre CASTILLON"
+name_ja: ""
+slug: "pierre-castillon"
 position: "PR"
-team: "バイヨンヌ"
-height: "185"
-weight: "106"
+height: "185.0"
+weight: "106.0"
 birth_date: "2003.09.20"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-castillon"
 ---
 
-- US Saint-Palais Amikuze (2009 - 2018)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2018 - )
+## キャリア遍歴
+

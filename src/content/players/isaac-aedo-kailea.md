@@ -1,28 +1,19 @@
 ---
-title: "アイザック・アエド・カイレア"
+title: "Isaac AEDO KAILEA | "
 name_en: "Isaac AEDO KAILEA"
+name_ja: ""
+slug: "isaac-aedo-kailea"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "192.0"
 weight: "129.0"
 birth_date: "2000.07.13"
-age: 25
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/isaac-aedo-kailea"
 ---
 
-- Université du Queensland (2019 - 2020)
-- 🇦🇺 メルボルン・レベルズ (2020 - 2024)
-- ワラターズ (2024 - )
+## キャリア遍歴
+

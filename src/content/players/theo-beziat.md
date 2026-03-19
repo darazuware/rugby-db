@@ -1,29 +1,19 @@
 ---
-title: "テオ・ベジア"
+title: "Théo BÉZIAT | "
 name_en: "Théo BÉZIAT"
+name_ja: ""
+slug: "theo-beziat"
 position: "HO"
-team: "ヴァンヌ"
-height: "180"
-weight: "102"
+height: "180.0"
+weight: "102.0"
 birth_date: "1994.05.11"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/theo-beziat"
 ---
 
-- Racing Club Narbonnais (2004 - 2014)
-- Stado Tarbes Pyrénées Rugby (2014 - 2017)
-- Provence Rugby (2017 - 2020)
-- Rugby Club Vannes (2020 - )
+## キャリア遍歴
+

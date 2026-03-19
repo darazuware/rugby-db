@@ -485,5 +485,101 @@
     "team_en_name": "Saracens",
     "slug": "saracens",
     "league": "premiership"
+  },
+  {
+    "team_name": "Anthem RC",
+    "slug": "anthem-rc",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Charlotte, NC",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Chicago Hounds",
+    "slug": "chicago-hounds",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Bridgeview, IL",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Dallas Jackals",
+    "slug": "dallas-jackals",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "Arlington, TX",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Houston SaberCats",
+    "slug": "houston-sabercats",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "Houston, TX",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Miami Sharks",
+    "slug": "miami-sharks",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Fort Lauderdale, FL",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "New England Free Jacks",
+    "slug": "new-england-free-jacks",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Quincy, MA",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "NOLA Gold",
+    "slug": "nola-gold",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Metairie, LA",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Old Glory DC",
+    "slug": "old-glory-dc",
+    "league": "mlr",
+    "division": "Eastern",
+    "host_area": "Germantown, MD",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "RFCLA",
+    "slug": "rfcla",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "Carson, CA",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "San Diego Legion",
+    "slug": "san-diego-legion",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "San Diego, CA",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Seattle Seawolves",
+    "slug": "seattle-seawolves",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "Tukwila, WA",
+    "flag": "🇺🇸"
+  },
+  {
+    "team_name": "Utah Warriors",
+    "slug": "utah-warriors",
+    "league": "mlr",
+    "division": "Western",
+    "host_area": "Herriman, UT",
+    "flag": "🇺🇸"
   }
 ]

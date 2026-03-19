@@ -1,26 +1,19 @@
 ---
-title: "ライアン ・ WOODMAN"
+title: "Ryan WOODMAN | "
 name_en: "Ryan WOODMAN"
+name_ja: ""
+slug: "ryan-woodman"
 position: "Back row"
-team: "ドラゴンズ・ラグビー"
 height: "196.0"
 weight: "107.0"
 birth_date: "2004.02.02"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/ryan-woodman"
 ---
 
-- Dragons RFC (2020 - )
+## キャリア遍歴
+

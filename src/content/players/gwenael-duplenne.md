@@ -1,29 +1,19 @@
 ---
-title: "グウェナエル・デュプレンヌ"
+title: "Gwenaël DUPLENNE | "
 name_en: "Gwenaël DUPLENNE"
+name_ja: ""
+slug: "gwenael-duplenne"
 position: "FB"
-team: "ヴァンヌ"
-height: "186"
-weight: "87"
+height: "186.0"
+weight: "87.0"
 birth_date: "1993.08.09"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2013
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/gwenael-duplenne"
 ---
 
-- RC Lavallois (2004 - 2006)
-- Rugby Club Vannes (2006 - 2012)
-- Lyon Olympique Universitaire Rugby (2012 - 2013)
-- Rugby Club Vannes (2013 - )
+## キャリア遍歴
+

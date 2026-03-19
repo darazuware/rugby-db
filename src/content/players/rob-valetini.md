@@ -1,26 +1,19 @@
 ---
-title: "ロブ・ヴァレティニ"
+title: "Rob VALETINI | "
 name_en: "Rob VALETINI"
+name_ja: ""
+slug: "rob-valetini"
 position: "FL/No8"
-team: "ACTブランビーズ"
 height: "193.0"
 weight: "113.0"
 birth_date: "1998.09.03"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/rob-valetini"
 ---
 
-- ブランビーズ (2017 - )
+## キャリア遍歴
+

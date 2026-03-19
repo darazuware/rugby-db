@@ -1,30 +1,19 @@
 ---
-title: "マエル・ムスタン"
+title: "Maël MOUSTIN | "
 name_en: "Maël MOUSTIN"
+name_ja: ""
+slug: "mael-moustin"
 position: "WTB"
-team: "モンペリエ"
-height: "187"
-weight: "103"
+height: "187.0"
+weight: "103.0"
 birth_date: "2003.04.22"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Voir"
-nationality: "Voir"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/moustin_mael/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/mael-moustin"
 ---
 
-- Rugby Club du Diamant Martinique (2009 - 2012)
-- Saint-Jo Ovalie (2012 - 2013)
-- Sporting Union Agenais (2016 - 2021)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )
+## キャリア遍歴
+

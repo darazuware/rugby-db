@@ -1,29 +1,19 @@
 ---
-title: "ヘレマイア・マレー"
+title: "Heremaia MURRAY | "
 name_en: "Heremaia MURRAY"
+name_ja: ""
+slug: "heremaia-murray"
 position: "WTB"
-team: "クイーンズランド・レッズ"
 height: "188.0"
 weight: "94.0"
 birth_date: "2000.01.11"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/heremaia-murray"
 ---
 
-- オークランド (2020 - 2021)
-- ノースランド (2021 - 2024)
-- クルセイダーズ (2023 - 2024)
-- レッズ (2024 - )
+## キャリア遍歴
+

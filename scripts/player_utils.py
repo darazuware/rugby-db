@@ -73,6 +73,26 @@ class PlayerDataProcessor:
         print(f"Quality report generated at {output_path}")
 
     @staticmethod
+    def generate_player_slug(name_en, player_id, scraped_url=""):
+        """
+        選手のスラッグ（URLの一部）を生成する。
+        1. scraped_url (all.rugby) があればその末尾を使用
+        2. 英語名があれば正規化して使用
+        3. いずれもなければ player_id を使用
+        """
+        if scraped_url and 'all.rugby/player/' in str(scraped_url):
+            url_id = str(scraped_url).rstrip('/').split('/')[-1]
+            if url_id: return url_id
+        
+        if not name_en or str(name_en).lower() == 'nan':
+            return f"player-{player_id}"
+            
+        # 記号を除去し、スペースをハイフンに変換
+        slug = re.sub(r'[^a-z0-9]+', '-', str(name_en).lower()).strip('-')
+        # 重複回避のために ID を付与 (※all.rugby ID がない場合)
+        return f"{slug}-{player_id}"
+
+    @staticmethod
     def format_career_item(year, team):
         """キャリア遍歴の整形ルール (GEMINI.md 参照)"""
         # ルール: 低い順から新しい順、同一チームは統合など

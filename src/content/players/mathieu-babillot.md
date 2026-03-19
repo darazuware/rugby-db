@@ -1,26 +1,19 @@
 ---
-title: "マチュー・バビヨ"
+title: "Mathieu BABILLOT | "
 name_en: "Mathieu BABILLOT"
+name_ja: ""
+slug: "mathieu-babillot"
 position: "FL/NO8"
-team: "カストル"
-height: "190"
-weight: "111"
+height: "190.0"
+weight: "111.0"
 birth_date: "1993.09.09"
-age: 32
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Français"
-category: ""
-division: ""
+age: null
+country: "Français"
 league: "top14"
-joined_year: 2002
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "France"
+scraped_url: "https://all.rugby/player/mathieu-babillot"
 ---
 
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2002 - )
+## キャリア遍歴
+

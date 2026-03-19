@@ -1,26 +1,19 @@
 ---
-title: "Se ・ NAUGHTON"
+title: "Seán NAUGHTON | "
 name_en: "Seán NAUGHTON"
+name_ja: ""
+slug: "sean-naughton"
 position: "SO"
-team: "コナート・ラグビー"
 height: "182.0"
 weight: "78.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/sean-naughton"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2023 - )
+## キャリア遍歴
+

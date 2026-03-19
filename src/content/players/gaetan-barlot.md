@@ -1,29 +1,19 @@
 ---
-title: "ガエタン・バルロ"
+title: "Gaëtan BARLOT | "
 name_en: "Gaëtan BARLOT"
+name_ja: ""
+slug: "gaetan-barlot"
 position: "HO"
-team: "ボルドー・ベグル"
-height: "184"
-weight: "107"
+height: "184.0"
+weight: "107.0"
 birth_date: "1997.04.13"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/gaetan-barlot"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2006 - 2014)
-- US Colomiers (2015 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+## キャリア遍歴
+

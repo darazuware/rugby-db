@@ -1,28 +1,19 @@
 ---
-title: "アレクサンドル・ベコニェ"
+title: "Alexandre BÉCOGNÉE | "
 name_en: "Alexandre BÉCOGNÉE"
+name_ja: ""
+slug: "alexandre-becognee"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "188"
-weight: "108"
+height: "188.0"
+weight: "108.0"
 birth_date: "1996.09.03"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Yacouba"
-nationality: "Yacouba"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/alex.becognee/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/alexandre-becognee"
 ---
 
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2013 - 2014)
-- Stade Montois Rugby Pro (2014 - 2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )
+## キャリア遍歴
+

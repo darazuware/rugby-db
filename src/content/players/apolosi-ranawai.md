@@ -1,27 +1,19 @@
 ---
-title: "アポロシ・ラナワイ"
+title: "Apolosi RANAWAI | "
 name_en: "Apolosi RANAWAI"
+name_ja: ""
+slug: "apolosi-ranawai"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "183.0"
 weight: "135.0"
 birth_date: "1994.04.16"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/apolosi-ranawai"
 ---
 
-- Northern Suburbs RFC (2024 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

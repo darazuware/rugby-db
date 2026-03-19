@@ -1,27 +1,19 @@
 ---
-title: "ハリー・マクラフリン＝フィリップス"
+title: "Harry MCLAUGHLIN-PHILLIPS | "
 name_en: "Harry MCLAUGHLIN-PHILLIPS"
+name_ja: ""
+slug: "harry-mclaughlin-phillips"
 position: "SO"
-team: "クイーンズランド・レッズ"
 height: "178.0"
 weight: "89.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-mclaughlin-phillips"
 ---
 
-- Souths Rugby (2022 - 2023)
-- レッズ (2023 - )
+## キャリア遍歴
+

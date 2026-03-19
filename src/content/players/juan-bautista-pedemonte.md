@@ -1,29 +1,19 @@
 ---
-title: "フアン・バウティスタ・ペデモンテ"
+title: "Juan Bautista PEDEMONTE | "
 name_en: "Juan Bautista PEDEMONTE"
+name_ja: ""
+slug: "juan-bautista-pedemonte"
 position: "FL/NO8"
-team: "ヴァンヌ"
-height: "189"
-weight: "107"
+height: "189.0"
+weight: "107.0"
 birth_date: "2000.03.14"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Argentine"
-nationality: "Argentine"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/juan-bautista-pedemonte"
 ---
 
-- Santiago Lawn Tennis Club (2018 - 2019)
-- Jaguares (2019 - 2020)
-- Jaguares XV (2021 - 2022)
-- Rugby Club Vannes (2022 - )
+## キャリア遍歴
+

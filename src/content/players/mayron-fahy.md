@@ -1,27 +1,19 @@
 ---
-title: "メイロン・フェイヒー"
+title: "Mayron FAHY | "
 name_en: "Mayron FAHY"
+name_ja: ""
+slug: "mayron-fahy"
 position: "FB"
-team: "ペルピニャン"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "//2007"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/mayron-fahy"
 ---
 
-- RC Salanque XV (2013 - 2022)
-- Union Sportive Arlequins Perpignanais (2022 - )
+## キャリア遍歴
+

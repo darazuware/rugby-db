@@ -1,28 +1,19 @@
 ---
-title: "ジョニー・ヒル"
+title: "Jonny HILL | "
 name_en: "Jonny HILL"
+name_ja: ""
+slug: "jonny-hill"
 position: "LO"
-team: "ラシン92"
-height: "202"
-weight: "133"
+height: "202.0"
+weight: "133.0"
 birth_date: "1994.06.08"
-age: 31
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "England"
+scraped_url: "https://all.rugby/player/jonny-hill"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2015 - 2022)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2022 - 2025)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )
+## キャリア遍歴
+

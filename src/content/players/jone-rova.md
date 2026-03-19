@@ -1,28 +1,19 @@
 ---
-title: "ジョネ・ロヴァ"
+title: "Jone ROVA | "
 name_en: "Jone ROVA"
+name_ja: ""
+slug: "jone-rova"
 position: "CTB"
-team: "ウェリントン・ハリケーンズ"
 height: "185.0"
 weight: "96.0"
 birth_date: "2002.12.07"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/jone-rova"
 ---
 
-- カンタベリー (2021 - 2025)
-- クルセイダーズ (2023 - 2024)
-- ハリケーンズ (2024 - )
+## キャリア遍歴
+

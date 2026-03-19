@@ -1,31 +1,19 @@
 ---
-title: "ジミー・ツポウ"
+title: "Jimmy TUPOU | "
 name_en: "Jimmy TUPOU"
+name_ja: ""
+slug: "jimmy-tupou"
 position: "LO"
-team: "モアナ・パシフィカ"
 height: "196.0"
 weight: "111.0"
 birth_date: "1992.08.08"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/jimmy-tupou"
 ---
 
-- クルセイダーズ (2013 - 2016)
-- ブルーズ (2016 - 2019)
-- 🇯🇵 [浦安D-Rocks](/teams/league-one/urayasu-d-rocks) [D1] (2019 - 2023)
-- カウンティーズ・マヌカウ (2022 - 2025)
-- チーフス (2023 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

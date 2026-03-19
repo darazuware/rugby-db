@@ -1,27 +1,19 @@
 ---
-title: "Zak ・ BURGER"
+title: "Zak BURGER | "
 name_en: "Zak BURGER"
+name_ja: ""
+slug: "zak-burger"
 position: "SH"
-team: "ヴォーダコム・ブルズ"
 height: "174.0"
 weight: "83.0"
 birth_date: "1998.08.20"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/zak-burger"
 ---
 
-- Griquas (2019 - 2020)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2020 - )
+## キャリア遍歴
+

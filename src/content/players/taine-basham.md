@@ -1,27 +1,19 @@
 ---
-title: "Taine ・ BASHAM"
+title: "Taine BASHAM | "
 name_en: "Taine BASHAM"
+name_ja: ""
+slug: "taine-basham"
 position: "Back row"
-team: "カーディフ・ラグビー"
 height: "182.0"
 weight: "100.0"
 birth_date: "1999.11.02"
-age: 26
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/taine-basham"
 ---
 
-- Dragons RFC (2017 - 2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )
+## キャリア遍歴
+

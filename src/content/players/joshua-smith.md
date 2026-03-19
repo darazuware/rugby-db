@@ -1,28 +1,19 @@
 ---
-title: "ジョシュ・スミス"
+title: "Josh SMITH | "
 name_en: "Josh SMITH"
+name_ja: ""
+slug: "joshua-smith"
 position: "PR"
-team: "ウェスタン・フォース"
 height: "188.0"
 weight: "110.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/joshua-smith"
 ---
 
-- ハリケーンズ (2023 - 2024)
-- ホークスベイ (2023 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

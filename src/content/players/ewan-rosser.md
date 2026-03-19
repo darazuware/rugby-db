@@ -1,26 +1,19 @@
 ---
-title: "Ewan ・ ROSSER"
+title: "Ewan ROSSER | "
 name_en: "Ewan ROSSER"
+name_ja: ""
+slug: "ewan-rosser"
 position: "Winger"
-team: "ドラゴンズ・ラグビー"
 height: "182.0"
 weight: "88.0"
 birth_date: "2000.12.16"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/ewan-rosser"
 ---
 
-- Dragons RFC (2019 - )
+## キャリア遍歴
+

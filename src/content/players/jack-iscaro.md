@@ -1,27 +1,19 @@
 ---
-title: "ジャック・イスカロ"
+title: "Jack ISCARO | "
 name_en: "Jack ISCARO"
+name_ja: ""
+slug: "jack-iscaro"
 position: "PR"
-team: "スタッド・フランセ"
-height: "185"
-weight: "122"
+height: "185.0"
+weight: "122.0"
 birth_date: "1997.08.04"
-age: 28
-high_school: ""
-university: ""
+age: null
+country: ""
+league: "mlr"
+team: "Old Glory DC"
 caps: "United-States"
-league_one_caps: "0"
-country: "United-States"
-nationality: ""
-category: ""
-division: ""
-league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/jackiscaro/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+scraped_url: "https://all.rugby/player/jack-iscaro"
 ---
 
-- Old Glory DC RFC (2018 - 2025)
-- Stade Français Paris Rugby (2025 - )
+## キャリア遍歴
+

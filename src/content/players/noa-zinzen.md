@@ -1,29 +1,19 @@
 ---
-title: "ノア・ジンゼン"
+title: "Noa ZINZEN | "
 name_en: "Noa ZINZEN"
+name_ja: ""
+slug: "noa-zinzen"
 position: "FL/NO8"
-team: "ラシン92"
-height: "192"
-weight: "103"
+height: "192.0"
+weight: "103.0"
 birth_date: "2004.02.24"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/noa-zinzen"
 ---
 
-- CA Bédarieux Grand Orb (2008 - 2013)
-- Rives d'Orb (2013 - 2015)
-- Association Sportive Béziers Hérault (2015 - 2020)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2020 - )
+## キャリア遍歴
+

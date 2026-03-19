@@ -1,26 +1,19 @@
 ---
-title: "Iori ・ BADHAM"
+title: "Iori BADHAM | "
 name_en: "Iori BADHAM"
+name_ja: ""
+slug: "iori-badham"
 position: "FB"
-team: "スカーレッツ"
 height: "183.0"
 weight: "80.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/iori-badham"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2023 - )
+## キャリア遍歴
+

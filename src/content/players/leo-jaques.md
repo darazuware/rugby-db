@@ -1,27 +1,19 @@
 ---
-title: "レオ・ジャック"
+title: "Leo JAQUES | "
 name_en: "Leo JAQUES"
+name_ja: ""
+slug: "leo-jaques"
 position: "WTB"
-team: "NSWワラタス（ワラターズ）"
 height: "192.0"
 weight: "97.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/leo-jaques"
 ---
 
-- Eastern Suburbs RFC (2024 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

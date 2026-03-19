@@ -1,27 +1,19 @@
 ---
-title: "Ruan ・ SWART"
+title: "Ruan SWART | "
 name_en: "Ruan SWART"
+name_ja: ""
+slug: "ruan-swart"
 position: "PR"
-team: "ヴォーダコム・ブルズ"
 height: "180.0"
 weight: "120.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruan-swart"
 ---
 
-- Blue Bulls (2023 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

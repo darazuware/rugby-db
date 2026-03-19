@@ -1,27 +1,19 @@
 ---
-title: "ルイス・ラドラム"
+title: "Lewis LUDLAM | "
 name_en: "Lewis LUDLAM"
+name_ja: ""
+slug: "lewis-ludlam"
 position: "FL/NO8"
-team: "トゥーロン"
-height: "192"
-weight: "111"
+height: "192.0"
+weight: "111.0"
 birth_date: "1995.12.08"
-age: 30
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "Angleterre"
-category: ""
-division: ""
+age: null
+country: "Angleterre"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "England"
+scraped_url: "https://all.rugby/player/lewis-ludlam"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2016 - 2024)
-- Rugby Club Toulonnais (2024 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "フェリックス・ランベイ"
+title: "Félix LAMBEY | "
 name_en: "Félix LAMBEY"
+name_ja: ""
+slug: "felix-lambey"
 position: "LO"
-team: "リヨン"
-height: "196"
-weight: "106"
+height: "196.0"
+weight: "106.0"
 birth_date: "1994.03.15"
-age: 32
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "France"
+scraped_url: "https://all.rugby/player/felix-lambey"
 ---
 
-- Lyon Olympique Universitaire Rugby (2013 - 2015)
-- Association Sportive Béziers Hérault (2015 - 2016)
-- Lyon Olympique Universitaire Rugby (2016 - )
+## キャリア遍歴
+

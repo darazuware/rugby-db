@@ -1,29 +1,19 @@
 ---
-title: "ギオルギ・アハラゼ"
+title: "Giorgi AKHALADZE | "
 name_en: "Giorgi AKHALADZE"
+name_ja: ""
+slug: "giorgi-akhaladze"
 position: "PR"
-team: "クレルモン"
-height: "186"
-weight: "128"
+height: "186.0"
+weight: "128.0"
 birth_date: "1999.04.13"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/giorgi-akhaladze"
 ---
 
-- RC Aia Kutaisi (2017 - 2018)
-- Rugby Club Massy Essonne (2018 - 2021)
-- Association Sportive Béziers Hérault (2021 - 2024)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2024 - )
+## キャリア遍歴
+

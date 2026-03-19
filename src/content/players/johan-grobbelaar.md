@@ -1,26 +1,19 @@
 ---
-title: "Johan ・ GROBBELAAR"
+title: "Johan GROBBELAAR | "
 name_en: "Johan GROBBELAAR"
+name_ja: ""
+slug: "johan-grobbelaar"
 position: "HO"
-team: "ヴォーダコム・ブルズ"
 height: "183.0"
 weight: "105.0"
 birth_date: "1997.12.30"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/johan-grobbelaar"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "Ollie ・ BLYTH ・ LAFFERTY"
+title: "Ollie BLYTH-LAFFERTY | "
 name_en: "Ollie BLYTH-LAFFERTY"
+name_ja: ""
+slug: "ollie-blyth-lafferty"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "193.0"
 weight: "136.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/ollie-blyth-lafferty"
 ---
 
-- Boroughmuir RFC (2022 - 2023)
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

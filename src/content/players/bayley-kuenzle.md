@@ -1,27 +1,19 @@
 ---
-title: "ベイリー・クンツレ"
+title: "Bayley KUENZLE | "
 name_en: "Bayley KUENZLE"
+name_ja: ""
+slug: "bayley-kuenzle"
 position: "CTB"
-team: "ウェスタン・フォース"
 height: "186.0"
 weight: "92.0"
 birth_date: "1998.06.18"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/bayley-kuenzle"
 ---
 
-- ブランビーズ (2018 - 2021)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2021 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "Steffan ・ EMANUEL"
+title: "Steffan EMANUEL | "
 name_en: "Steffan EMANUEL"
+name_ja: ""
+slug: "steffan-emanuel"
 position: "CTB"
-team: "カーディフ・ラグビー"
 height: "183.0"
 weight: "96.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/steffan-emanuel"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [バース・ラグビー](/teams/premiership/bath-rugby) (2023 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2024 - )
+## キャリア遍歴
+

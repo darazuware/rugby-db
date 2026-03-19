@@ -1,28 +1,19 @@
 ---
-title: "ベカ・ギガシヴィリ"
+title: "Beka GIGASHVILI | "
 name_en: "Beka GIGASHVILI"
+name_ja: ""
+slug: "beka-gigashvili"
 position: "PR"
-team: "トゥーロン"
-height: "179"
-weight: "118"
+height: "179.0"
+weight: "118.0"
 birth_date: "1992.02.17"
-age: 34
-high_school: ""
-university: ""
-caps: "Georgia"
-league_one_caps: "0"
-country: "Georgia"
-nationality: "Géorgie"
-category: ""
-division: ""
+age: null
+country: "Géorgie"
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "Georgia"
+scraped_url: "https://all.rugby/player/beka-gigashvili"
 ---
 
-- Stade Olympique Chambéry (2015 - 2017)
-- FC Grenoble Rugby (2017 - 2019)
-- Rugby Club Toulonnais (2019 - )
+## キャリア遍歴
+

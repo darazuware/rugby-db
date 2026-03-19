@@ -1,26 +1,19 @@
 ---
-title: "Gabe ・ MCDONALD"
+title: "Gabe MCDONALD | "
 name_en: "Gabe MCDONALD"
+name_ja: ""
+slug: "gabe-mcdonald"
 position: "CTB"
-team: "スカーレッツ"
 height: "190.0"
 weight: "93.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/gabe-mcdonald"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2023 - )
+## キャリア遍歴
+

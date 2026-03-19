@@ -1,30 +1,19 @@
 ---
-title: "コナー・サ"
+title: "Connor SA | "
 name_en: "Connor SA"
+name_ja: ""
+slug: "connor-sa"
 position: "HO"
-team: "ボルドー・ベグル"
-height: "183"
-weight: "103"
+height: "183.0"
+weight: "103.0"
 birth_date: "2002.01.22"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/connor-sa"
 ---
 
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - 2022)
-- US Carcassonne (2022)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023)
-- US Carcassonne (2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+## キャリア遍歴
+

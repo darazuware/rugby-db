@@ -1,29 +1,19 @@
 ---
-title: "テオ・フォルネ"
+title: "Théo FORNER | "
 name_en: "Théo FORNER"
+name_ja: ""
+slug: "theo-forner"
 position: "FB"
-team: "ペルピニャン"
-height: "180"
-weight: "80"
+height: "180.0"
+weight: "80.0"
 birth_date: "2001.10.17"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/theo-forner"
 ---
 
-- Espira-de-l'Agly, Baixas et Peyrestortes (2006 - 2017)
-- JO Prades Conflent Canigou (2017 - 2018)
-- US Thuirnoise (2018 - 2019)
-- Union Sportive Arlequins Perpignanais (2019 - )
+## キャリア遍歴
+

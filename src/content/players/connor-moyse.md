@@ -1,26 +1,19 @@
 ---
-title: "Connor ・ MOYSE"
+title: "Connor MOYSE | "
 name_en: "Connor MOYSE"
+name_ja: ""
+slug: "connor-moyse"
 position: "Winger"
-team: "オスプリーズ"
 height: "188.0"
 weight: "94.0"
 birth_date: "2003.03.19"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/connor-moyse"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2025 - )
+## キャリア遍歴
+

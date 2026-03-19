@@ -1,26 +1,19 @@
 ---
-title: "Reinhard ・ NOTHNAGEL"
+title: "Reinhard NOTHNAGEL | "
 name_en: "Reinhard NOTHNAGEL"
+name_ja: ""
+slug: "reinhard-nothnagel"
 position: "LO"
-team: "エミレーツ・ライオンズ"
 height: "202.0"
 weight: "117.0"
 birth_date: "1997.09.25"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/reinhard-nothnagel"
 ---
 
-- Lions Rugby (2018 - )
+## キャリア遍歴
+

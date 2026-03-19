@@ -1,29 +1,19 @@
 ---
-title: "セレヴァシオ・トロフア"
+title: "Selevasio TOLOFUA | "
 name_en: "Selevasio TOLOFUA"
+name_ja: ""
+slug: "selevasio-tolofua"
 position: "FL/NO8"
-team: "クレルモン"
-height: "186"
-weight: "116"
+height: "186.0"
+weight: "116.0"
 birth_date: "1997.05.31"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "France"
+scraped_url: "https://all.rugby/player/selevasio-tolofua"
 ---
 
-- Olympique Marcquois Rugby (2004 - 2007)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2007 - 2023)
-- Rugby Club Toulonnais (2023 - 2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )
+## キャリア遍歴
+

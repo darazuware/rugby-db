@@ -1,28 +1,19 @@
 ---
-title: "イライサ・ドロアセセ"
+title: "Ilaisa DROASESE | "
 name_en: "Ilaisa DROASESE"
+name_ja: ""
+slug: "ilaisa-droasese"
 position: "FB"
-team: "フィジアン・ドゥルア"
 height: "187.0"
 weight: "99.0"
 birth_date: "1999.09.13"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/ilaisa-droasese"
 ---
 
-- ブリスベン・シティ (2019 - 2020)
-- レッズ (2020 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+## キャリア遍歴
+

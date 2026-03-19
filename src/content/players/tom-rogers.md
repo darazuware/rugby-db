@@ -1,26 +1,19 @@
 ---
-title: "トム ・ ROGERS"
+title: "Tom ROGERS | "
 name_en: "Tom ROGERS"
+name_ja: ""
+slug: "tom-rogers"
 position: "Winger"
-team: "スカーレッツ"
 height: "185.0"
 weight: "87.0"
 birth_date: "1998.12.17"
-age: 27
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/tom-rogers"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2017 - )
+## キャリア遍歴
+

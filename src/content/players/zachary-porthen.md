@@ -1,29 +1,19 @@
 ---
-title: "Zach ・ PORTHEN"
+title: "Zach PORTHEN | "
 name_en: "Zach PORTHEN"
+name_ja: ""
+slug: "zachary-porthen"
 position: "PR"
-team: "DHLストーマーズ"
 height: "189.0"
 weight: "124.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/zachary-porthen"
 ---
 
-- Western Province (2022 - 2024)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2024)
-- Western Province (2025)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2025 - )
+## キャリア遍歴
+

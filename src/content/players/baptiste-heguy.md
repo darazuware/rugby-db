@@ -1,26 +1,19 @@
 ---
-title: "バティスト・エギ"
+title: "Baptiste HÉGUY | "
 name_en: "Baptiste HÉGUY"
+name_ja: ""
+slug: "baptiste-heguy"
 position: "FL/NO8"
-team: "バイヨンヌ"
-height: "196"
-weight: "108"
+height: "196.0"
+weight: "108.0"
 birth_date: "1998.05.11"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/baptiste-heguy"
 ---
 
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2012 - )
+## キャリア遍歴
+

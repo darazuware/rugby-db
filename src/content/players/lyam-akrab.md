@@ -1,27 +1,19 @@
 ---
-title: "リアム・アクラブ"
+title: "Lyam AKRAB | "
 name_en: "Lyam AKRAB"
+name_ja: ""
+slug: "lyam-akrab"
 position: "HO"
-team: "モンペリエ"
-height: "178"
-weight: "103"
+height: "178.0"
+weight: "103.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/lyam-akrab"
 ---
 
-- Cercle sportif Grésivaudan Belledonne (2011 - 2020)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2020 - )
+## キャリア遍歴
+

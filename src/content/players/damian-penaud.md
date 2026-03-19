@@ -1,31 +1,19 @@
 ---
-title: "ダミアン・プノー"
+title: "Damian PENAUD | "
 name_en: "Damian PENAUD"
+name_ja: ""
+slug: "damian-penaud"
 position: "WTB"
-team: "ボルドー・ベグル"
-height: "188"
-weight: "97"
+height: "188.0"
+weight: "97.0"
 birth_date: "1996.09.25"
-age: 29
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/damian-penaud"
 ---
 
-- Lyon Olympique Universitaire Rugby (2006 - 2007)
-- CA Brive Corrèze Limousin (2007 - 2008)
-- Malemort XV (2009 - 2010)
-- CA Brive Corrèze Limousin (2010 - 2014)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "テイン・ロビンソン"
+title: "Taine ROBINSON | "
 name_en: "Taine ROBINSON"
+name_ja: ""
+slug: "taine-robinson"
 position: "SO"
-team: "オタゴ・ハイランダーズ"
 height: "180.0"
 weight: "89.0"
 birth_date: "1999.06.15"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/taine-robinson"
 ---
 
-- タスマン (2020 - 2025)
-- クルセイダーズ (2023 - 2024)
-- ハイランダーズ (2024 - )
+## キャリア遍歴
+

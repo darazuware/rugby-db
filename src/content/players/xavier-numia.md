@@ -1,27 +1,19 @@
 ---
-title: "ザビエル・ヌミア"
+title: "Xavier NUMIA | "
 name_en: "Xavier NUMIA"
+name_ja: ""
+slug: "xavier-numia"
 position: "PR"
-team: "ウェリントン・ハリケーンズ"
 height: "189.0"
 weight: "116.0"
 birth_date: "1998.11.29"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/xavier-numia"
 ---
 
-- ハリケーンズ (2018 - 2026)
-- ウェリントン (2019 - )
+## キャリア遍歴
+

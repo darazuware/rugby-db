@@ -1,27 +1,19 @@
 ---
-title: "ジョシュ・フルーク"
+title: "Josh FLOOK | "
 name_en: "Josh FLOOK"
+name_ja: ""
+slug: "josh-flook"
 position: "CTB"
-team: "クイーンズランド・レッズ"
 height: "186.0"
 weight: "92.0"
 birth_date: "2001.09.22"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-flook"
 ---
 
-- レッズ (2019 - 2026)
-- ベネットン (2025 - )
+## キャリア遍歴
+

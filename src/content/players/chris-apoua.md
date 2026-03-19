@@ -1,28 +1,19 @@
 ---
-title: "クリス・アポウア"
+title: "Chris APOUA | "
 name_en: "Chris APOUA"
+name_ja: ""
+slug: "chris-apoua"
 position: "PR"
-team: "モアナ・パシフィカ"
 height: "186.0"
 weight: "119.0"
 birth_date: "1992.01.30"
-age: 34
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/chris-apoua"
 ---
 
-- ノースランド (2015 - 2025)
-- サウスランド (2017 - 2021)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )
+## キャリア遍歴
+

@@ -1,32 +1,19 @@
 ---
-title: "ザック・ヘンリー"
+title: "Zack HENRY | "
 name_en: "Zack HENRY"
+name_ja: ""
+slug: "zack-henry"
 position: "SO"
-team: "スタッド・フランセ"
-height: "183"
-weight: "90"
+height: "183.0"
+weight: "90.0"
 birth_date: "1994.10.01"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/zackhenry10/"
-twitter: "https://twitter.com/ZackHenry10"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/zack-henry"
 ---
 
-- Rouen Normandie Rugby (2016 - 2018)
-- USON Nevers Rugby (2018 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2019)
-- USON Nevers Rugby (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020 - 2021)
-- Section Paloise Béarn Pyrénées (2021 - 2023)
-- Stade Français Paris Rugby (2023 - )
+## キャリア遍歴
+

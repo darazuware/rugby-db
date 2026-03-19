@@ -1,29 +1,19 @@
 ---
-title: "ローソン・クレイトン"
+title: "Lawson CREIGHTON | "
 name_en: "Lawson CREIGHTON"
+name_ja: ""
+slug: "lawson-creighton"
 position: "SO"
-team: "NSWワラタス（ワラターズ）"
 height: "185.0"
 weight: "90.0"
 birth_date: "1998.07.21"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/lawson-creighton"
 ---
 
-- ブリスベン・シティ (2017 - 2019)
-- Brothers Rugby Club (2019 - 2020)
-- レッズ (2020 - 2024)
-- ワラターズ (2024 - )
+## キャリア遍歴
+

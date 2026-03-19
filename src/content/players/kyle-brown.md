@@ -1,28 +1,19 @@
 ---
-title: "カイル・ブラウン"
+title: "Kyle BROWN | "
 name_en: "Kyle BROWN"
+name_ja: ""
+slug: "kyle-brown"
 position: "CTB"
-team: "ワイカト・チーフス"
 height: "181.0"
 weight: "84.0"
 birth_date: "2002.08.03"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: "mlr"
+team: "Utah Warriors"
+caps: "0"
+scraped_url: "https://all.rugby/player/kyle-brown"
 ---
 
-- マナワツ (2022 - 2025)
-- Utah Warriors (2024 - 2025)
-- チーフス (2025 - )
+## キャリア遍歴
+

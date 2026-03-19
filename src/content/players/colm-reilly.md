@@ -1,27 +1,19 @@
 ---
-title: "Colm ・ REILLY"
+title: "Colm REILLY | "
 name_en: "Colm REILLY"
+name_ja: ""
+slug: "colm-reilly"
 position: "SH"
-team: "コナート・ラグビー"
 height: "178.0"
 weight: "78.0"
 birth_date: "1999.08.09"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/colm-reilly"
 ---
 
-- Buccaneers RFC (2019 - 2020)
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - )
+## キャリア遍歴
+

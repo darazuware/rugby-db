@@ -1,27 +1,19 @@
 ---
-title: "Angus ・ ウィリアムズ"
+title: "Angus WILLIAMS | "
 name_en: "Angus WILLIAMS"
+name_ja: ""
+slug: "angus-williams"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "180.0"
 weight: "117.0"
 birth_date: "1993.11.11"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/angus-williams"
 ---
 
-- Otago (2018 - 2019)
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

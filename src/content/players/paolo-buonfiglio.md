@@ -1,26 +1,19 @@
 ---
-title: "Paolo ・ BUONFIGLIO"
+title: "Paolo BUONFIGLIO | "
 name_en: "Paolo BUONFIGLIO"
+name_ja: ""
+slug: "paolo-buonfiglio"
 position: "PR"
-team: "ゼブレ・パルマ"
 height: "183.0"
 weight: "114.0"
 birth_date: "1995.01.28"
-age: 31
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/paolo-buonfiglio"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2019 - )
+## キャリア遍歴
+

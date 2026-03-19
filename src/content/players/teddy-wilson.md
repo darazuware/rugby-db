@@ -1,27 +1,19 @@
 ---
-title: "テディ・ウィルソン"
+title: "Teddy WILSON | "
 name_en: "Teddy WILSON"
+name_ja: ""
+slug: "teddy-wilson"
 position: "SH"
-team: "NSWワラタス（ワラターズ）"
 height: "182.0"
 weight: "85.0"
 birth_date: "2003.02.25"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/teddy-wilson"
 ---
 
-- Eastern Suburbs RFC (2020 - 2021)
-- ワラターズ (2021 - )
+## キャリア遍歴
+

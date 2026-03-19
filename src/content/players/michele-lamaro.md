@@ -1,26 +1,19 @@
 ---
-title: "Michele ・ LAMARO"
+title: "Michele LAMARO | "
 name_en: "Michele LAMARO"
+name_ja: ""
+slug: "michele-lamaro"
 position: "Back row"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "188.0"
 weight: "103.0"
 birth_date: "1998.06.03"
-age: 27
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/michele-lamaro"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2018 - )
+## キャリア遍歴
+

@@ -1,31 +1,19 @@
 ---
-title: "ガレス・アンスコム"
+title: "Gareth ANSCOMBE | "
 name_en: "Gareth ANSCOMBE"
+name_ja: ""
+slug: "gareth-anscombe"
 position: "SO"
-team: "バイヨンヌ"
-height: "184"
-weight: "96"
+height: "184.0"
+weight: "96.0"
 birth_date: "1991.05.10"
-age: 34
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/gareth-anscombe"
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2013 - 2014)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2014 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2019 - 2023)
-- sans club (2023 - 2024)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [グロスター・ラグビー](/teams/premiership/gloucester-rugby) (2024 - 2025)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2025 - )
+## キャリア遍歴
+

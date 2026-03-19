@@ -1,26 +1,19 @@
 ---
-title: "ルーク ・ CROSBIE"
+title: "Luke CROSBIE | "
 name_en: "Luke CROSBIE"
+name_ja: ""
+slug: "luke-crosbie"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "196.0"
 weight: "112.0"
 birth_date: "1997.04.22"
-age: 28
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/luke-crosbie"
 ---
 
-- Edimbourg Rugby (2017 - )
+## キャリア遍歴
+

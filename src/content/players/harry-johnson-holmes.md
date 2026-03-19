@@ -1,27 +1,19 @@
 ---
-title: "ハリー・ジョンソン＝ホームズ"
+title: "Harry JOHNSON-HOLMES | "
 name_en: "Harry JOHNSON-HOLMES"
+name_ja: ""
+slug: "harry-johnson-holmes"
 position: "PR"
-team: "ウェスタン・フォース"
 height: "186.0"
 weight: "119.0"
 birth_date: "1997.03.02"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/harry-johnson-holmes"
 ---
 
-- ワラターズ (2017 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

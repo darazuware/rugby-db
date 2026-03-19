@@ -1,27 +1,19 @@
 ---
-title: "フェヒ・フィネアンガノフォ"
+title: "Fehi FINEANGANOFO | "
 name_en: "Fehi FINEANGANOFO"
+name_ja: ""
+slug: "fehi-fineanganofo"
 position: "CTB"
-team: "ウェリントン・ハリケーンズ"
 height: "186.0"
 weight: "105.0"
 birth_date: "2002.08.31"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/fehi-fineanganofo"
 ---
 
-- ベイ・オブ・プレンティ (2022 - 2025)
-- ハリケーンズ (2024 - )
+## キャリア遍歴
+

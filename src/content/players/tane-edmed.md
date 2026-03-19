@@ -1,29 +1,19 @@
 ---
-title: "テーン・エドメド"
+title: "Tane EDMED | "
 name_en: "Tane EDMED"
+name_ja: ""
+slug: "tane-edmed"
 position: "SO"
-team: "ACTブランビーズ"
 height: "183.0"
 weight: "92.0"
 birth_date: "2000.08.16"
-age: 25
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Brumbies"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/tane-edmed"
 ---
 
-- Eastwood Rugby Club (2019 - 2020)
-- ワラターズ (2020 - 2025)
-- ノース・ハーバー (2023 - 2024)
-- ブランビーズ (2025 - )
+## キャリア遍歴
+

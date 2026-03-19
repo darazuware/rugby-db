@@ -1,26 +1,19 @@
 ---
-title: "Tommaso ・ MENONCELLO"
+title: "Tommaso MENONCELLO | "
 name_en: "Tommaso MENONCELLO"
+name_ja: ""
+slug: "tommaso-menoncello"
 position: "CTB"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "187.0"
 weight: "101.0"
 birth_date: "2002.08.20"
-age: 23
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/tommaso-menoncello"
 ---
 
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2020 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Keanu ・ EVANS"
+title: "Keanu EVANS | "
 name_en: "Keanu EVANS"
+name_ja: ""
+slug: "keanu-evans"
 position: "Back row"
-team: "スカーレッツ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/keanu-evans"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

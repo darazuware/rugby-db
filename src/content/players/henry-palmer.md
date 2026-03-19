@@ -1,26 +1,19 @@
 ---
-title: "ヘンリー・パルマー"
+title: "Henry PALMER | "
 name_en: "Henry PALMER"
+name_ja: ""
+slug: "henry-palmer"
 position: "WTB"
-team: "ウェスタン・フォース"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2003.07.05"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/henry-palmer"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

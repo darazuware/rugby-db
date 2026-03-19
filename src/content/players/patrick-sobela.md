@@ -1,28 +1,19 @@
 ---
-title: "パトリック・ソベラ"
+title: "Patrick SOBÉLA | "
 name_en: "Patrick SOBÉLA"
+name_ja: ""
+slug: "patrick-sobela"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "188"
-weight: "105"
+height: "188.0"
+weight: "105.0"
 birth_date: "1992.08.12"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/patrick-sobela"
 ---
 
-- Oyonnax Rugby (2011 - 2018)
-- Lyon Olympique Universitaire Rugby (2018 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - )
+## キャリア遍歴
+

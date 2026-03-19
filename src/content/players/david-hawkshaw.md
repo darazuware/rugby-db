@@ -1,27 +1,19 @@
 ---
-title: "デイヴィッド ・ HAWKSHAW"
+title: "David HAWKSHAW | "
 name_en: "David HAWKSHAW"
+name_ja: ""
+slug: "david-hawkshaw"
 position: "CTB"
-team: "コナート・ラグビー"
 height: "178.0"
 weight: "89.0"
 birth_date: "1999.07.03"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/david-hawkshaw"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2018 - 2022)
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2022 - )
+## キャリア遍歴
+

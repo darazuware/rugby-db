@@ -1,28 +1,19 @@
 ---
-title: "クリスチャン・アンバディアン"
+title: "Christian AMBADIANG | "
 name_en: "Christian AMBADIANG"
+name_ja: ""
+slug: "christian-ambadiang"
 position: "WTB"
-team: "カストル"
-height: "189"
-weight: "107"
+height: "189.0"
+weight: "107.0"
 birth_date: "1999.01.13"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Camerounais"
-nationality: "Camerounais"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/christian-ambadiang"
 ---
 
-- Southern Kings (2019 - 2020)
-- USON Nevers Rugby (2020 - 2024)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2024 - )
+## キャリア遍歴
+

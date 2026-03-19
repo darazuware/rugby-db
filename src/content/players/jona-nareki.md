@@ -1,27 +1,19 @@
 ---
-title: "ジョナ・ナレキ"
+title: "Jona NAREKI | "
 name_en: "Jona NAREKI"
+name_ja: ""
+slug: "jona-nareki"
 position: "WTB"
-team: "オタゴ・ハイランダーズ"
 height: "175.0"
 weight: "83.0"
 birth_date: "1997.12.27"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/jona-nareki"
 ---
 
-- オタゴ (2018 - 2025)
-- ハイランダーズ (2019 - )
+## キャリア遍歴
+

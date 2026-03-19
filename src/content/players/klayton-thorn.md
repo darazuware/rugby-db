@@ -1,27 +1,19 @@
 ---
-title: "クレイトン・ソーン"
+title: "Klayton THORN | "
 name_en: "Klayton THORN"
+name_ja: ""
+slug: "klayton-thorn"
 position: "SH"
-team: "ACTブランビーズ"
 height: "179.0"
 weight: "83.0"
 birth_date: "2003.06.06"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/klayton-thorn"
 ---
 
-- Randwick Rugby (2021 - 2022)
-- ブランビーズ (2022 - )
+## キャリア遍歴
+

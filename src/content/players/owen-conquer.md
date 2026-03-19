@@ -1,27 +1,19 @@
 ---
-title: "Owen ・ CONQUER"
+title: "Owen CONQUER | "
 name_en: "Owen CONQUER"
+name_ja: ""
+slug: "owen-conquer"
 position: "Back row"
-team: "ドラゴンズ・ラグビー"
 height: "191.0"
 weight: "114.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/owen-conquer"
 ---
 
-- Ebbw Vale RFC (2023 - 2024)
-- Dragons RFC (2024 - )
+## キャリア遍歴
+

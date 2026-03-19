@@ -1,27 +1,19 @@
 ---
-title: "Sibabalwe ・ MAHASHE"
+title: "Sibabalwe MAHASHE | "
 name_en: "Sibabalwe MAHASHE"
+name_ja: ""
+slug: "sibabalwe-mahashe"
 position: "Back row"
-team: "エミレーツ・ライオンズ"
 height: "187.0"
 weight: "93.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/sibabalwe-mahashe"
 ---
 
-- Golden Lions (2023 - 2024)
-- Lions Rugby (2025 - )
+## キャリア遍歴
+

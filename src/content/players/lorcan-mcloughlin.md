@@ -1,26 +1,19 @@
 ---
-title: "Lorcan ・ MCLOUGHLIN"
+title: "Lorcan MCLOUGHLIN | "
 name_en: "Lorcan MCLOUGHLIN"
+name_ja: ""
+slug: "lorcan-mcloughlin"
 position: "Back row"
-team: "アルスター・ラグビー"
 height: "190.0"
 weight: "109.0"
 birth_date: "2002.04.03"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/lorcan-mcloughlin"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2021 - )
+## キャリア遍歴
+

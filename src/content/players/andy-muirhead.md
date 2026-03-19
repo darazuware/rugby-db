@@ -1,26 +1,19 @@
 ---
-title: "アンディ・ミュアヘッド"
+title: "Andy MUIRHEAD | "
 name_en: "Andy MUIRHEAD"
+name_ja: ""
+slug: "andy-muirhead"
 position: "WTB"
-team: "ACTブランビーズ"
 height: "183.0"
 weight: "84.0"
 birth_date: "1993.07.08"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/andy-muirhead"
 ---
 
-- ブランビーズ (2016 - )
+## キャリア遍歴
+

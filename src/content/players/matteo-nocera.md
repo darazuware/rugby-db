@@ -1,26 +1,19 @@
 ---
-title: "Matteo ・ NOCERA"
+title: "Matteo NOCERA | "
 name_en: "Matteo NOCERA"
+name_ja: ""
+slug: "matteo-nocera"
 position: "PR"
-team: "ゼブレ・パルマ"
 height: "194.0"
 weight: "130.0"
 birth_date: "1999.01.16"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/matteo-nocera"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2018 - )
+## キャリア遍歴
+

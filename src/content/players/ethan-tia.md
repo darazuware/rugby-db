@@ -1,27 +1,19 @@
 ---
-title: "イーサン・ティア"
+title: "Ethan TIA | "
 name_en: "Ethan TIA"
+name_ja: ""
+slug: "ethan-tia"
 position: "HO"
-team: "スタッド・フランセ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/ethan-tia"
 ---
 
-- Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020)
-- Stade Français Paris Rugby (2020 - )
+## キャリア遍歴
+

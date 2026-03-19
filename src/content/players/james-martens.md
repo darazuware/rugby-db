@@ -1,26 +1,19 @@
 ---
-title: "ジェームズ・マルテンス"
+title: "James MARTENS | "
 name_en: "James MARTENS"
+name_ja: ""
+slug: "james-martens"
 position: "SH"
-team: "クイーンズランド・レッズ"
 height: "187.0"
 weight: "92.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/james-martens"
 ---
 
-- レッズ (2024 - )
+## キャリア遍歴
+

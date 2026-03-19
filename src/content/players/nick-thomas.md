@@ -1,26 +1,19 @@
 ---
-title: "Nick ・ トーマス"
+title: "Nick THOMAS | "
 name_en: "Nick THOMAS"
+name_ja: ""
+slug: "nick-thomas"
 position: "LO"
-team: "ドラゴンズ・ラグビー"
 height: "198.0"
 weight: "113.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-thomas"
 ---
 
-- Dragons RFC (2023 - )
+## キャリア遍歴
+

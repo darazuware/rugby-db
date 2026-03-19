@@ -1,27 +1,19 @@
 ---
-title: "ジョージ・プールマン"
+title: "George POOLMAN | "
 name_en: "George POOLMAN"
+name_ja: ""
+slug: "george-poolman"
 position: "CTB"
-team: "NSWワラタス（ワラターズ）"
 height: "195.0"
 weight: "102.0"
 birth_date: "2002.09.06"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/george-poolman"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

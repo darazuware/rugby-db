@@ -1,32 +1,19 @@
 ---
-title: "マシュー ・ DALTON"
+title: "Matthew DALTON | "
 name_en: "Matthew DALTON"
+name_ja: ""
+slug: "matthew-dalton"
 position: "LO"
-team: "アルスター・ラグビー"
 height: "198.0"
 weight: "118.0"
 birth_date: "1998.11.16"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/matthew-dalton"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2017 - 2019)
-- Utah Warriors (2020 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2021 - 2023)
-- Soyaux-Angoulême XV Charente (2023 - 2024)
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2024)
-- Soyaux-Angoulême XV Charente (2025)
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2025 - )
+## キャリア遍歴
+

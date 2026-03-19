@@ -1,36 +1,19 @@
 ---
-title: "ジョリス・ジュラン"
+title: "Joris JURAND | "
 name_en: "Joris JURAND"
+name_ja: ""
+slug: "joris-jurand"
 position: "WTB"
-team: "クレルモン"
-height: "188"
-weight: "106"
+height: "188.0"
+weight: "106.0"
 birth_date: "1995.11.11"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/joris-jurand"
 ---
 
-- XV Saint-Rémois (2004 - 2006)
-- RC Noves-Eyragues (2006 - 2007)
-- Rugby Club Châteaurenard (2007 - 2012)
-- RC Noves-Eyragues (2012 - 2014)
-- Rugby Club Châteaurenard (2014 - 2015)
-- Provence Rugby (2015 - 2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018)
-- CA Brive Corrèze Limousin (2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019)
-- CA Brive Corrèze Limousin (2019 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

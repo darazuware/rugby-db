@@ -1,28 +1,19 @@
 ---
-title: "ファレトイ・ペニ"
+title: "Faletoi PENI | "
 name_en: "Faletoi PENI"
+name_ja: ""
+slug: "faletoi-peni"
 position: "CTB"
-team: "モアナ・パシフィカ"
 height: "173.0"
 weight: "106.0"
 birth_date: "2000.04.06"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: "mlr"
+team: "New England Free Jacks"
+caps: "0"
+scraped_url: "https://all.rugby/player/faletoi-peni"
 ---
 
-- サウスランド (2023 - 2025)
-- New England Free Jacks (2024 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2025 - )
+## キャリア遍歴
+

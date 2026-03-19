@@ -1,26 +1,19 @@
 ---
-title: "Ethan ・ MCILROY"
+title: "Ethan MCILROY | "
 name_en: "Ethan MCILROY"
+name_ja: ""
+slug: "ethan-mcilroy"
 position: "FB"
-team: "アルスター・ラグビー"
 height: "188.0"
 weight: "90.0"
 birth_date: "2000.08.10"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/ethan-mcilroy"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2019 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "バティスト・クイユー"
+title: "Baptiste COUILLOUD | "
 name_en: "Baptiste COUILLOUD"
+name_ja: ""
+slug: "baptiste-couilloud"
 position: "SH"
-team: "リヨン"
-height: "176"
-weight: "83"
+height: "176.0"
+weight: "83.0"
 birth_date: "1997.07.22"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2004
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "France"
+scraped_url: "https://all.rugby/player/baptiste-couilloud"
 ---
 
-- Lyon Olympique Universitaire Rugby (2004 - )
+## キャリア遍歴
+

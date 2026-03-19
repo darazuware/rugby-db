@@ -1,26 +1,19 @@
 ---
-title: "ハムザ・カベシュ"
+title: "Hamza KAABÈCHE | "
 name_en: "Hamza KAABÈCHE"
+name_ja: ""
+slug: "hamza-kaabeche"
 position: "PR"
-team: "リヨン"
-height: "189"
-weight: "118"
+height: "189.0"
+weight: "118.0"
 birth_date: "1996.09.23"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/hamza-kaabeche"
 ---
 
-- Lyon Olympique Universitaire Rugby (2012 - )
+## キャリア遍歴
+

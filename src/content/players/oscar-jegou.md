@@ -1,27 +1,19 @@
 ---
-title: "オスカー・ジェグ"
+title: "Oscar JÉGOU | "
 name_en: "Oscar JÉGOU"
+name_ja: ""
+slug: "oscar-jegou"
 position: "FL/NO8"
-team: "ラ・ロシェル"
-height: "190"
-weight: "90"
+height: "190.0"
+weight: "90.0"
 birth_date: "2003.05.31"
-age: 22
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Française"
-category: ""
-division: ""
+age: null
+country: "Française"
 league: "top14"
-joined_year: 2009
-has_scores: true
-instagram: "https://www.instagram.com/oscarjegou"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "France"
+scraped_url: "https://all.rugby/player/oscar-jegou"
 ---
 
-- Oléron RC (2008 - 2009)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2009 - )
+## キャリア遍歴
+

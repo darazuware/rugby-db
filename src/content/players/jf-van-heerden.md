@@ -1,27 +1,19 @@
 ---
-title: "JF ・ ファン ・ HEERDEN"
+title: "JF VAN HEERDEN | "
 name_en: "JF VAN HEERDEN"
+name_ja: ""
+slug: "jf-van-heerden"
 position: "LO"
-team: "ヴォーダコム・ブルズ"
 height: "200.0"
 weight: "122.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/jf-van-heerden"
 ---
 
-- Blue Bulls (2022 - 2023)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )
+## キャリア遍歴
+

@@ -1,33 +1,19 @@
 ---
-title: "トマ・ジョルメス"
+title: "Thomas JOLMÈS | "
 name_en: "Thomas JOLMÈS"
+name_ja: ""
+slug: "thomas-jolmes"
 position: "LO"
-team: "ポー"
-height: "204"
-weight: "127"
+height: "204.0"
+weight: "127.0"
 birth_date: "1995.10.08"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/thomas-jolmes"
 ---
 
-- Seyssins (2005 - 2009)
-- FC Grenoble Rugby (2009 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2020)
-- Rugby Club Toulonnais (2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020)
-- Rugby Club Toulonnais (2021)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2021 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - )
+## キャリア遍歴
+

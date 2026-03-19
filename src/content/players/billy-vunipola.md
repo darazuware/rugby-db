@@ -1,27 +1,19 @@
 ---
-title: "ビリー・ヴニポラ"
+title: "Billy VUNIPOLA | "
 name_en: "Billy VUNIPOLA"
+name_ja: ""
+slug: "billy-vunipola"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "191"
-weight: "134"
+height: "191.0"
+weight: "134.0"
 birth_date: "1992.11.03"
-age: 33
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: "Voir"
-category: ""
-division: ""
+age: null
+country: "Voir"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/billy-vunipola"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2013 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024 - )
+## キャリア遍歴
+

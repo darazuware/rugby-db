@@ -1,29 +1,19 @@
 ---
-title: "メルヴィン・ラテ"
+title: "Melvyn RATES | "
 name_en: "Melvyn RATES"
+name_ja: ""
+slug: "melvyn-rates"
 position: "WTB"
-team: "モンペリエ"
-height: "180"
-weight: "87"
+height: "180.0"
+weight: "87.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/melvyn-rates"
 ---
 
-- US Rhône XV (2010 - 2016)
-- Valence Romans Drôme Rugby (2016 - 2022)
-- FC Grenoble Rugby (2022 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "クレム・ハラホロ"
+title: "Clem HALAHOLO | "
 name_en: "Clem HALAHOLO"
+name_ja: ""
+slug: "clem-halaholo"
 position: "LO"
-team: "NSWワラタス（ワラターズ）"
 height: "193.0"
 weight: "104.0"
 birth_date: "2003.09.22"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/clem-halaholo"
 ---
 
-- ワラターズ (2024 - )
+## キャリア遍歴
+

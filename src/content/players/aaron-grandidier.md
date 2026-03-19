@@ -1,28 +1,19 @@
 ---
-title: "アーロン・グランディディエ"
+title: "Aaron GRANDIDIER | "
 name_en: "Aaron GRANDIDIER"
+name_ja: ""
+slug: "aaron-grandidier"
 position: "WTB"
-team: "ポー"
-height: "187"
-weight: "94"
+height: "187.0"
+weight: "94.0"
 birth_date: "2000.05.18"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/aaron-grandidier"
 ---
 
-- Old Elthamians RFC (2017 - 2019)
-- CA Brive Corrèze Limousin (2019 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - )
+## キャリア遍歴
+

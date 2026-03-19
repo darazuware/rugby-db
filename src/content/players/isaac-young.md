@@ -1,26 +1,19 @@
 ---
-title: "Isaac ・ YOUNG"
+title: "Isaac YOUNG | "
 name_en: "Isaac YOUNG"
+name_ja: ""
+slug: "isaac-young"
 position: "HO"
-team: "スカーレッツ"
 height: "180.0"
 weight: "105.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/isaac-young"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2022 - )
+## キャリア遍歴
+

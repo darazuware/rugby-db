@@ -1,29 +1,19 @@
 ---
-title: "Simphiwe ・ MATANZIMA"
+title: "Simphiwe MATANZIMA | "
 name_en: "Simphiwe MATANZIMA"
+name_ja: ""
+slug: "simphiwe-matanzima"
 position: "PR"
-team: "ハリウッドベッツ・シャークス"
 height: "183.0"
 weight: "121.0"
 birth_date: "1997.08.18"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/simphiwe-matanzima"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2017 - 2020)
-- Blue Bulls (2020 - 2021)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2021 - 2025)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2025 - )
+## キャリア遍歴
+

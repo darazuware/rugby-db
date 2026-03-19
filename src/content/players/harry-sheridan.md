@@ -1,26 +1,19 @@
 ---
-title: "Harry ・ SHERIDAN"
+title: "Harry SHERIDAN | "
 name_en: "Harry SHERIDAN"
+name_ja: ""
+slug: "harry-sheridan"
 position: "LO"
-team: "アルスター・ラグビー"
 height: "196.0"
 weight: "121.0"
 birth_date: "2001.09.21"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-sheridan"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2020 - )
+## キャリア遍歴
+

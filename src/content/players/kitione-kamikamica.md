@@ -1,30 +1,19 @@
 ---
-title: "キティオネ・カミカミザ"
+title: "Kitione KAMIKAMICA | "
 name_en: "Kitione KAMIKAMICA"
+name_ja: ""
+slug: "kitione-kamikamica"
 position: "FL/NO8"
-team: "ヴァンヌ"
-height: "188"
-weight: "110"
+height: "188.0"
+weight: "110.0"
 birth_date: "1996.04.27"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Fijian"
-nationality: "Fijian"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/kitione-kamikamica"
 ---
 
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2014 - 2018)
-- Rugby Club Vannes (2018 - 2019)
-- CA Brive Corrèze Limousin (2019 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022 - 2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

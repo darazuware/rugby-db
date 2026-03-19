@@ -1,28 +1,19 @@
 ---
-title: "タウェラ・カーバーロー"
+title: "Tawera KERR-BARLOW | "
 name_en: "Tawera KERR-BARLOW"
+name_ja: ""
+slug: "tawera-kerr-barlow"
 position: "SH"
-team: "スタッド・フランセ"
-height: "187"
-weight: "92"
+height: "187.0"
+weight: "92.0"
 birth_date: "1990.08.15"
-age: 35
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/tawerakb/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/tawera-kerr-barlow"
 ---
 
-- 🇳🇿 [ワイカト・チーフス](/teams/super-rugby/chiefs) (2010 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2025)
-- Stade Français Paris Rugby (2025 - )
+## キャリア遍歴
+

@@ -6361,5 +6361,57 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "detail_url": "https://www.premiershiprugby.com/match-centre/288992"
     }
+  ],
+  "mlr": [
+    {
+      "round": 1,
+      "date": "2024-03-02",
+      "home": "NOLAゴールド",
+      "away": "オールドグローリーDC",
+      "score": "18-6",
+      "home_flag": "🇺🇸",
+      "away_flag": "🇺🇸",
+      "detail_url": "https://www.americasrugbynews.com/2024/03/02/nola-recover-from-slow-start-to-speed-past-dc/"
+    },
+    {
+      "round": 1,
+      "date": "2024-03-02",
+      "home": "ヒューストン・セイバーキャッツ",
+      "away": "ユタ・ウォーリアーズ",
+      "score": "22-15",
+      "home_flag": "🇺🇸",
+      "away_flag": "🇺🇸",
+      "detail_url": "https://www.americasrugbynews.com/2024/03/02/sabercats-outmuscle-warriors-in-houston/"
+    },
+    {
+      "round": 1,
+      "date": "2024-03-02",
+      "home": "シアトル・シーウルブズ",
+      "away": "サンディエゴ・レギオン",
+      "score": "25-19",
+      "home_flag": "🇺🇸",
+      "away_flag": "🇺🇸",
+      "detail_url": "https://www.americasrugbynews.com/2024/03/03/seawolves-edge-legion-in-top-class-mlr-opener/"
+    },
+    {
+      "round": 2,
+      "date": "2024-03-09",
+      "home": "ニューイングランド-フリージャックス",
+      "away": "オールドグローリーDC",
+      "score": "34-35",
+      "home_flag": "🇺🇸",
+      "away_flag": "🇺🇸",
+      "detail_url": "https://www.americasrugbynews.com/2024/03/09/old-glory-stun-champions-with-last-gasp-try-in-quincy/"
+    },
+    {
+      "round": 3,
+      "date": "2024-03-16",
+      "home": "サンディエゴ・レギオン",
+      "away": "RFCロサンゼルス",
+      "score": "19-18",
+      "home_flag": "🇺🇸",
+      "away_flag": "🇺🇸",
+      "detail_url": "https://www.americasrugbynews.com/2024/03/17/san-diego-hold-on-to-beat-la-in-thrilling-opener-at-snapdragon/"
+    }
   ]
 }

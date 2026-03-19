@@ -1,26 +1,19 @@
 ---
-title: "Enrico ・ LUCCHIN"
+title: "Enrico LUCCHIN | "
 name_en: "Enrico LUCCHIN"
+name_ja: ""
+slug: "enrico-lucchin"
 position: "CTB"
-team: "ゼブレ・パルマ"
 height: "188.0"
 weight: "103.0"
 birth_date: "1995.04.04"
-age: 30
-high_school: ""
-university: ""
-caps: "Italy"
-league_one_caps: "0"
-country: "Italy"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "Italy"
+scraped_url: "https://all.rugby/player/enrico-lucchin"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2019 - )
+## キャリア遍歴
+

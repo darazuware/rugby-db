@@ -1,28 +1,19 @@
 ---
-title: "イサイア・ウォーカー＝レアウェレ"
+title: "Isaia WALKER-LEAWERE | "
 name_en: "Isaia WALKER-LEAWERE"
+name_ja: ""
+slug: "isaia-walker-leawere"
 position: "LO"
-team: "ウェリントン・ハリケーンズ"
 height: "197.0"
 weight: "122.0"
 birth_date: "1997.04.16"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/isaia-walker-leawere"
 ---
 
-- ハリケーンズ (2017 - 2026)
-- ホークスベイ (2019 - 2025)
-- ノース・ハーバー (2024 - )
+## キャリア遍歴
+

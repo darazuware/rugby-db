@@ -1,27 +1,19 @@
 ---
-title: "Sazi ・ SANDI"
+title: "Sazi SANDI | "
 name_en: "Sazi SANDI"
+name_ja: ""
+slug: "sazi-sandi"
 position: "PR"
-team: "DHLストーマーズ"
 height: "181.0"
 weight: "124.0"
 birth_date: "1998.07.11"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/sazi-sandi"
 ---
 
-- Western Province (2018 - 2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019 - )
+## キャリア遍歴
+

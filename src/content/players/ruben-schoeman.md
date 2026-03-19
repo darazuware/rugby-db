@@ -1,27 +1,19 @@
 ---
-title: "Ruben ・ SCHOEMAN"
+title: "Ruben SCHOEMAN | "
 name_en: "Ruben SCHOEMAN"
+name_ja: ""
+slug: "ruben-schoeman"
 position: "LO"
-team: "エミレーツ・ライオンズ"
 height: "199.0"
 weight: "124.0"
 birth_date: "1996.03.14"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruben-schoeman"
 ---
 
-- Golden Lions (2018 - 2019)
-- Lions Rugby (2019 - )
+## キャリア遍歴
+

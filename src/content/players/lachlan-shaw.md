@@ -1,28 +1,19 @@
 ---
-title: "ラキ・ショウ"
+title: "Lachie SHAW | "
 name_en: "Lachie SHAW"
+name_ja: ""
+slug: "lachlan-shaw"
 position: "LO"
-team: "ACTブランビーズ"
 height: "200.0"
 weight: "112.0"
 birth_date: "2003.05.15"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/lachlan-shaw"
 ---
 
-- Université du Queensland (2021 - 2022)
-- ブランビーズ (2022 - 2026)
-- マナワツ (2023 - )
+## キャリア遍歴
+

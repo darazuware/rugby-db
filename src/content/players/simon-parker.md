@@ -1,28 +1,19 @@
 ---
-title: "サイモン・パーカー"
+title: "Simon PARKER | "
 name_en: "Simon PARKER"
+name_ja: ""
+slug: "simon-parker"
 position: "FL/No8"
-team: "ワイカト・チーフス"
 height: "193.0"
 weight: "109.0"
 birth_date: "2000.05.06"
-age: 25
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/simon-parker"
 ---
 
-- ワイカト (2019 - 2023)
-- チーフス (2019 - 2026)
-- ノースランド (2023 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "エンゾ・ベンメガル"
+title: "Enzo BENMEGAL | "
 name_en: "Enzo BENMEGAL"
+name_ja: ""
+slug: "enzo-benmegal"
 position: "WTB"
-team: "ヴァンヌ"
-height: "179"
-weight: "81"
+height: "179.0"
+weight: "81.0"
 birth_date: "2003.10.28"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/enzo-benmegal"
 ---
 
-- Union Rugby Centre 78 (2011 - 2014)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - 2023)
-- Rugby Club Vannes (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2024)
-- Rugby Club Vannes (2024 - )
+## キャリア遍歴
+

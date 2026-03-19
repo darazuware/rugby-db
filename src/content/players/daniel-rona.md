@@ -1,27 +1,19 @@
 ---
-title: "ダニエル・ロナ"
+title: "Daniel RONA | "
 name_en: "Daniel RONA"
+name_ja: ""
+slug: "daniel-rona"
 position: "CTB"
-team: "ワイカト・チーフス"
 height: "187.0"
 weight: "91.0"
 birth_date: "2000.04.10"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/daniel-rona"
 ---
 
-- タラナキ (2019 - 2025)
-- チーフス (2022 - )
+## キャリア遍歴
+

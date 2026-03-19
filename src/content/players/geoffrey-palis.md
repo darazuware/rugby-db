@@ -1,27 +1,19 @@
 ---
-title: "ジョフレ・パリス"
+title: "Geoffrey PALIS | "
 name_en: "Geoffrey PALIS"
+name_ja: ""
+slug: "geoffrey-palis"
 position: "WTB"
-team: "カストル"
-height: "189"
-weight: "96"
+height: "189.0"
+weight: "96.0"
 birth_date: "1991.07.08"
-age: 34
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Français"
-category: ""
-division: ""
+age: null
+country: "Français"
 league: "top14"
-joined_year: 2013
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "France"
+scraped_url: "https://all.rugby/player/geoffrey-palis"
 ---
 
-- Sporting Club Albigeois (2009 - 2013)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2013 - )
+## キャリア遍歴
+

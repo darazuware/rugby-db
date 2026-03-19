@@ -1,27 +1,19 @@
 ---
-title: "Evan ・ ROOS"
+title: "Evan ROOS | "
 name_en: "Evan ROOS"
+name_ja: ""
+slug: "evan-roos"
 position: "Back row"
-team: "DHLストーマーズ"
 height: "191.0"
 weight: "109.0"
 birth_date: "2000.01.21"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/evan-roos"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2019 - 2020)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020 - )
+## キャリア遍歴
+

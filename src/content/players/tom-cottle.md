@@ -1,27 +1,19 @@
 ---
-title: "トム ・ COTTLE"
+title: "Tom COTTLE | "
 name_en: "Tom COTTLE"
+name_ja: ""
+slug: "tom-cottle"
 position: "LO"
-team: "カーディフ・ラグビー"
 height: "198.0"
 weight: "114.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-cottle"
 ---
 
-- RGC 1404 (2024 - 2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025 - )
+## キャリア遍歴
+

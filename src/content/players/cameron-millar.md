@@ -1,27 +1,19 @@
 ---
-title: "キャメロン・ミラー"
+title: "Cameron MILLAR | "
 name_en: "Cameron MILLAR"
+name_ja: ""
+slug: "cameron-millar"
 position: "SO"
-team: "オタゴ・ハイランダーズ"
 height: "185.0"
 weight: "85.0"
 birth_date: "2002.07.13"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/cameron-millar"
 ---
 
-- オタゴ (2020 - 2025)
-- ハイランダーズ (2022 - )
+## キャリア遍歴
+

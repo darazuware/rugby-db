@@ -1,29 +1,19 @@
 ---
-title: "ヴァンサン・ジュディチェリ"
+title: "Vincent GIUDICELLI | "
 name_en: "Vincent GIUDICELLI"
+name_ja: ""
+slug: "vincent-giudicelli"
 position: "HO"
-team: "バイヨンヌ"
-height: "184"
-weight: "104"
+height: "184.0"
+weight: "104.0"
 birth_date: "1997.06.25"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/vincent-giudicelli"
 ---
 
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2004 - 2016)
-- Lyon Olympique Universitaire Rugby (2016 - 2017)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2017 - 2023)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2023 - )
+## キャリア遍歴
+

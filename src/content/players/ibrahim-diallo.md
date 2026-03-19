@@ -1,27 +1,19 @@
 ---
-title: "イブラヒム・ディアロ"
+title: "Ibrahim DIALLO | "
 name_en: "Ibrahim DIALLO"
+name_ja: ""
+slug: "ibrahim-diallo"
 position: "FL/NO8"
-team: "ラシン92"
-height: "193"
-weight: "109"
+height: "193.0"
+weight: "109.0"
 birth_date: "1998.01.23"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2014
-has_scores: true
-instagram: "https://www.instagram.com/iboudiallo_/"
-twitter: "https://x.com/iboudiallo_"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/ibrahim-diallo"
 ---
 
-- AAS Sarcelles Rugby (2008 - 2014)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2014 - )
+## キャリア遍歴
+

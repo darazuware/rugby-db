@@ -1,29 +1,19 @@
 ---
-title: "タイ・クリブ"
+title: "Tai CRIBB | "
 name_en: "Tai CRIBB"
+name_ja: ""
+slug: "tai-cribb"
 position: "LO"
-team: "オタゴ・ハイランダーズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2004.02.09"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/tai-cribb"
 ---
 
-- ワイカト (2022 - 2024)
-- チーフス (2023 - 2024)
-- オークランド (2024 - 2025)
-- ハイランダーズ (2024 - )
+## キャリア遍歴
+

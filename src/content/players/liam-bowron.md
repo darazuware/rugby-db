@@ -1,27 +1,19 @@
 ---
-title: "リアム・ボウロン"
+title: "Liam BOWRON | "
 name_en: "Liam BOWRON"
+name_ja: ""
+slug: "liam-bowron"
 position: "HO"
-team: "ACTブランビーズ"
 height: "183.0"
 weight: "103.0"
 birth_date: "2003.02.24"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/liam-bowron"
 ---
 
-- Canberra Royals (2022 - 2023)
-- ブランビーズ (2023 - )
+## キャリア遍歴
+

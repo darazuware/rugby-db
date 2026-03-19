@@ -1,28 +1,19 @@
 ---
-title: "ビリー・ポラード"
+title: "Billy POLLARD | "
 name_en: "Billy POLLARD"
+name_ja: ""
+slug: "billy-pollard"
 position: "HO"
-team: "ACTブランビーズ"
 height: "185.0"
 weight: "103.0"
 birth_date: "2001.12.09"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/billy-pollard"
 ---
 
-- ワラターズ (2018 - 2019)
-- ブランビーズ (2019 - 2026)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "スティーブン ・ NEL"
+title: "Steven NEL | "
 name_en: "Steven NEL"
+name_ja: ""
+slug: "steven-nel"
 position: "SH"
-team: "ヴォーダコム・ブルズ"
 height: "178.0"
 weight: "78.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/steven-nel"
 ---
 
-- Blue Bulls (2024 - 2025)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2025 - )
+## キャリア遍歴
+

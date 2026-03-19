@@ -1,26 +1,19 @@
 ---
-title: "Diarmuid ・ BARRON"
+title: "Diarmuid BARRON | "
 name_en: "Diarmuid BARRON"
+name_ja: ""
+slug: "diarmuid-barron"
 position: "HO"
-team: "マンスター・ラグビー"
 height: "184.0"
 weight: "100.0"
 birth_date: "1998.08.06"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/diarmuid-barron"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - )
+## キャリア遍歴
+

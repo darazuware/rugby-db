@@ -1,28 +1,19 @@
 ---
-title: "Jean ・ Luc ・ デュ ・ PLESSIS"
+title: "Jean-Luc DU PLESSIS | "
 name_en: "Jean-Luc DU PLESSIS"
+name_ja: ""
+slug: "jean-luc-du-plessis"
 position: "SO"
-team: "DHLストーマーズ"
 height: "180.0"
 weight: "95.0"
 birth_date: "1994.05.07"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/jean-luc-du-plessis"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2015 - 2020)
-- Mie Honda Heat RFC (2021 - 2022)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2022 - )
+## キャリア遍歴
+

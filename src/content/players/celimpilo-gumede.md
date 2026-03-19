@@ -1,27 +1,19 @@
 ---
-title: "Mpilo ・ GUMEDE"
+title: "Mpilo GUMEDE | "
 name_en: "Mpilo GUMEDE"
+name_ja: ""
+slug: "celimpilo-gumede"
 position: "Back row"
-team: "ヴォーダコム・ブルズ"
 height: "193.0"
 weight: "110.0"
 birth_date: "2000.07.08"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/celimpilo-gumede"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2019 - 2023)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2023 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Dom ・ KOSSUTH"
+title: "Dom KOSSUTH | "
 name_en: "Dom KOSSUTH"
+name_ja: ""
+slug: "dom-kossuth"
 position: "Back row"
-team: "スカーレッツ"
 height: "188.0"
 weight: "107.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/dom-kossuth"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

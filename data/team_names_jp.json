@@ -675,5 +675,109 @@
                 "Newcastle Red Bulls"
             ]
         }
+    },
+    "mlr": {
+        "Anthem RC": {
+            "jp": "アンセムRC",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Anthem"
+            ]
+        },
+        "Chicago Hounds": {
+            "jp": "シカゴ・ハウンズ",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Hounds"
+            ]
+        },
+        "Dallas Jackals": {
+            "jp": "ダラス・ジャッカルズ",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Jackals"
+            ]
+        },
+        "Houston SaberCats": {
+            "jp": "ヒューストン・セイバーキャッツ",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "SaberCats",
+                "Houston"
+            ]
+        },
+        "Miami Sharks": {
+            "jp": "マイアミ・シャークス",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Sharks"
+            ]
+        },
+        "New England Free Jacks": {
+            "jp": "ニューイングランド・フリージャックス",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Free Jacks",
+                "New England"
+            ]
+        },
+        "NOLA Gold": {
+            "jp": "NOLAゴールド",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "NOLA"
+            ]
+        },
+        "Old Glory DC": {
+            "jp": "オールドグローリーDC",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Old Glory"
+            ]
+        },
+        "RFCLA": {
+            "jp": "RFCロサンゼルス",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Rugby FC Los Angeles",
+                "LA"
+            ]
+        },
+        "San Diego Legion": {
+            "jp": "サンディエゴ・レギオン",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Legion",
+                "San Diego"
+            ]
+        },
+        "Seattle Seawolves": {
+            "jp": "シアトル・シーウルブズ",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Seawolves",
+                "Seattle"
+            ]
+        },
+        "Utah Warriors": {
+            "jp": "ユタ・ウォーリアーズ",
+            "country": "アメリカ",
+            "flag": "🇺🇸",
+            "aliases": [
+                "Warriors",
+                "Utah"
+            ]
+        }
     }
 }

@@ -1,26 +1,19 @@
 ---
-title: "イーライ・ランギ"
+title: "Eli LANGI | "
 name_en: "Eli LANGI"
+name_ja: ""
+slug: "eli-langi"
 position: "FL/No8"
-team: "ACTブランビーズ"
 height: "193.0"
 weight: "104.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/eli-langi"
 ---
 
-- ブランビーズ (2024 - )
+## キャリア遍歴
+

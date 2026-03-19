@@ -1,27 +1,19 @@
 ---
-title: "リアム ・ MCCONNELL"
+title: "Liam MCCONNELL | "
 name_en: "Liam MCCONNELL"
+name_ja: ""
+slug: "liam-mcconnell"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "194.0"
 weight: "106.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/liam-mcconnell"
 ---
 
-- Boroughmuir RFC (2021 - 2022)
-- Edimbourg Rugby (2022 - )
+## キャリア遍歴
+

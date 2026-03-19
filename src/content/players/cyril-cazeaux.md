@@ -1,27 +1,19 @@
 ---
-title: "シリル・カゾー"
+title: "Cyril CAZEAUX | "
 name_en: "Cyril CAZEAUX"
+name_ja: ""
+slug: "cyril-cazeaux"
 position: "LO"
-team: "ボルドー・ベグル"
-height: "198"
-weight: "117"
+height: "198.0"
+weight: "117.0"
 birth_date: "1995.02.10"
-age: 31
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2015
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/cyril-cazeaux"
 ---
 
-- US Dax Rugby Landes (2014 - 2015)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2015 - )
+## キャリア遍歴
+

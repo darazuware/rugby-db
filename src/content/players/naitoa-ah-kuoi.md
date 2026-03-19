@@ -1,28 +1,19 @@
 ---
-title: "ナイトア・アー・クオイ"
+title: "Naitoa AH KUOI | "
 name_en: "Naitoa AH KUOI"
+name_ja: ""
+slug: "naitoa-ah-kuoi"
 position: "LO"
-team: "ワイカト・チーフス"
 height: "196.0"
 weight: "116.0"
 birth_date: "1999.10.07"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/naitoa-ah-kuoi"
 ---
 
-- ウェリントン (2018 - 2020)
-- チーフス (2019 - 2026)
-- ベイ・オブ・プレンティ (2021 - )
+## キャリア遍歴
+

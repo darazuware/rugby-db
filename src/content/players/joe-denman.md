@@ -1,26 +1,19 @@
 ---
-title: "Joe ・ DENMAN"
+title: "Joe DENMAN | "
 name_en: "Joe DENMAN"
+name_ja: ""
+slug: "joe-denman"
 position: "Back row"
-team: "スカーレッツ"
 height: "183.0"
 weight: "87.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-denman"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ベン ・ O'CONNOR"
+title: "Ben O'CONNOR | "
 name_en: "Ben O'CONNOR"
+name_ja: ""
+slug: "ben-o-connor"
 position: "FB"
-team: "マンスター・ラグビー"
 height: "188.0"
 weight: "97.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-o-connor"
 ---
 
-- Presentation Brothers Cork (2022 - 2023)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2023 - )
+## キャリア遍歴
+

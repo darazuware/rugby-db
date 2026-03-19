@@ -1,27 +1,19 @@
 ---
-title: "デクラン・メレディス"
+title: "Declan MEREDITH | "
 name_en: "Declan MEREDITH"
+name_ja: ""
+slug: "declan-meredith"
 position: "SO"
-team: "ACTブランビーズ"
 height: "183.0"
 weight: "88.0"
 birth_date: "1999.06.28"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/declan-meredith"
 ---
 
-- Wests Lions (2021 - 2022)
-- ブランビーズ (2022 - )
+## キャリア遍歴
+

@@ -1,0 +1,19 @@
+---
+title: "JAMES GRAYSON | "
+name_en: "JAMES GRAYSON"
+name_ja: ""
+slug: "james-grayson-92"
+position: "SO"
+height: "187.0"
+weight: "89.0"
+birth_date: "1998.06.26"
+age: 27
+country: ""
+league: "league-one"
+team: "三菱重工相模原ダイナボアーズ（2025-26）"
+caps: "0"
+scraped_url: "https://league-one.jp/player/485067"
+---
+
+## キャリア遍歴
+

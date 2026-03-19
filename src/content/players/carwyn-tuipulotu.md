@@ -1,32 +1,19 @@
 ---
-title: "カーウィン・ツイプロトゥ"
+title: "Carwyn TUIPULOTU | "
 name_en: "Carwyn TUIPULOTU"
+name_ja: ""
+slug: "carwyn-tuipulotu"
 position: "FL/NO8"
-team: "ポー"
-height: "188"
-weight: "125"
+height: "188.0"
+weight: "125.0"
 birth_date: "2001.09.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/carwyn-tuipulotu"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2018 - 2024)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024)
-- Section Paloise Béarn Pyrénées (2024)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025)
-- Section Paloise Béarn Pyrénées (2025 - )
+## キャリア遍歴
+

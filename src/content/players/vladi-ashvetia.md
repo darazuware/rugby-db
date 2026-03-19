@@ -1,27 +1,19 @@
 ---
-title: "ヴラディ・アシュヴェティア"
+title: "Vladi ASHVETIA | "
 name_en: "Vladi ASHVETIA"
+name_ja: ""
+slug: "vladi-ashvetia"
 position: "CTB"
-team: "ラシン92"
-height: "185"
-weight: "90"
+height: "185.0"
+weight: "90.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/vladi-ashvetia"
 ---
 
-- Rugby Club Massy Essonne (2011 - 2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )
+## キャリア遍歴
+

@@ -1,31 +1,19 @@
 ---
-title: "ポール・アバディ"
+title: "Paul ABADIE | "
 name_en: "Paul ABADIE"
+name_ja: ""
+slug: "paul-abadie"
 position: "SH"
-team: "スタッド・フランセ"
-height: "176"
-weight: "88"
+height: "176.0"
+weight: "88.0"
 birth_date: "1994.07.28"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/paul_abadie/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/paul-abadie"
 ---
 
-- Sporting Union Agenais (2001 - 2021)
-- CA Brive Corrèze Limousin (2021 - 2023)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2023 - 2024)
-- Stade Français Paris Rugby (2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025)
-- Stade Français Paris Rugby (2025 - )
+## キャリア遍歴
+

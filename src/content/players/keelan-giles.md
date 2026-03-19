@@ -1,26 +1,19 @@
 ---
-title: "Keelan ・ GILES"
+title: "Keelan GILES | "
 name_en: "Keelan GILES"
+name_ja: ""
+slug: "keelan-giles"
 position: "Winger"
-team: "オスプリーズ"
 height: "173.0"
 weight: "80.0"
 birth_date: "1998.01.29"
-age: 28
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/keelan-giles"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2016 - )
+## キャリア遍歴
+

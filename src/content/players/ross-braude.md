@@ -1,29 +1,19 @@
 ---
-title: "ロス ・ BRAUDE"
+title: "Ross BRAUDE | "
 name_en: "Ross BRAUDE"
+name_ja: ""
+slug: "ross-braude"
 position: "SH"
-team: "ハリウッドベッツ・シャークス"
 height: "168.0"
 weight: "83.0"
 birth_date: "2000.01.18"
-age: 26
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/ross-braude"
 ---
 
-- Blue Bulls (2019 - 2020)
-- Toronto Arrows (2020 - 2023)
-- Pumas (2023 - 2025)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2025 - )
+## キャリア遍歴
+

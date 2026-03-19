@@ -1,28 +1,19 @@
 ---
-title: "Kyle ・ ROWE"
+title: "Kyle ROWE | "
 name_en: "Kyle ROWE"
+name_ja: ""
+slug: "kyle-rowe"
 position: "FB"
-team: "グラスゴー・ウォリアーズ"
 height: "183.0"
 weight: "88.0"
 birth_date: "1998.02.08"
-age: 28
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/kyle-rowe"
 ---
 
-- Edimbourg Rugby (2020 - 2021)
-- London Irish (2021 - 2023)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2023 - )
+## キャリア遍歴
+

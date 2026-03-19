@@ -1,28 +1,19 @@
 ---
-title: "ランギ・グリーソン"
+title: "Langi GLEESON | "
 name_en: "Langi GLEESON"
+name_ja: ""
+slug: "langi-gleeson"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "188"
-weight: "110"
+height: "188.0"
+weight: "110.0"
 birth_date: "2001.07.21"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Voir"
-nationality: "Voir"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/langi-gleeson"
 ---
 
-- Manly Marlins (2020 - 2021)
-- New South Wales Waratahs (2021 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

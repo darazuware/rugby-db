@@ -1,29 +1,19 @@
 ---
-title: "Rob ・ CARMICHAEL"
+title: "Rob CARMICHAEL | "
 name_en: "Rob CARMICHAEL"
+name_ja: ""
+slug: "rob-carmichael"
 position: "LO"
-team: "エディンバラ・ラグビー"
 height: "210.0"
 weight: "125.0"
 birth_date: "2003.04.04"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/rob-carmichael"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2022 - 2023)
-- Edimbourg Rugby (2023)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

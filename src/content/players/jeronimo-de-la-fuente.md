@@ -1,27 +1,19 @@
 ---
-title: "ヘロニモ・デ・ラ・フエンテ"
+title: "Jerónimo DE LA FUENTE | "
 name_en: "Jerónimo DE LA FUENTE"
+name_ja: ""
+slug: "jeronimo-de-la-fuente"
 position: "CTB"
-team: "ペルピニャン"
-height: "184"
-weight: "96"
+height: "184.0"
+weight: "96.0"
 birth_date: "1991.02.24"
-age: 35
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: "Argentine"
-category: ""
-division: ""
+age: null
+country: "Argentine"
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/jeronimo-de-la-fuente"
 ---
 
-- Jaguares (2015 - 2020)
-- Union Sportive Arlequins Perpignanais (2020 - )
+## キャリア遍歴
+

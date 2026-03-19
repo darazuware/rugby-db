@@ -1,30 +1,19 @@
 ---
-title: "ダミアン ・ ヴィレムセ"
+title: "Damian WILLEMSE | "
 name_en: "Damian WILLEMSE"
+name_ja: ""
+slug: "damian-willemse"
 position: "SO"
-team: "DHLストーマーズ"
 height: "187.0"
 weight: "100.0"
 birth_date: "1998.05.07"
-age: 27
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/damian-willemse"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2016 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2019)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [サラセンズ](/teams/premiership/saracens) (2020)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020 - )
+## キャリア遍歴
+

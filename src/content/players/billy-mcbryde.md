@@ -1,30 +1,19 @@
 ---
-title: "Billy ・ MCBRYDE"
+title: "Billy MCBRYDE | "
 name_en: "Billy MCBRYDE"
+name_ja: ""
+slug: "billy-mcbryde"
 position: "SO"
-team: "スカーレッツ"
 height: "177.0"
 weight: "94.0"
 birth_date: "1996.10.24"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/billy-mcbryde"
 ---
 
-- RGC 1404 (2018 - 2026)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2015 - 2017)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2017 - 2018)
-- Doncaster Knights (2020 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

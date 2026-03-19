@@ -1,28 +1,19 @@
 ---
-title: "イオセフォ・マシ"
+title: "Iosefo MASI | "
 name_en: "Iosefo MASI"
+name_ja: ""
+slug: "iosefo-masi"
 position: "CTB"
-team: "リヨン"
-height: "190"
-weight: "97"
+height: "190.0"
+weight: "97.0"
 birth_date: "1998.05.09"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/iosefo-masi"
 ---
 
-- North Queensland Cowboys (2021 - 2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2022 - 2025)
-- Lyon Olympique Universitaire Rugby (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "エベン ・ エツベス"
+title: "Eben ETZEBETH | "
 name_en: "Eben ETZEBETH"
+name_ja: ""
+slug: "eben-etzebeth"
 position: "LO"
-team: "ハリウッドベッツ・シャークス"
 height: "202.0"
 weight: "126.0"
 birth_date: "1991.10.29"
-age: 34
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/eben-etzebeth"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2019)
-- Rugby Club Toulonnais (2019 - 2022)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2022 - )
+## キャリア遍歴
+

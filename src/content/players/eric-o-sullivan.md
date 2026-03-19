@@ -1,26 +1,19 @@
 ---
-title: "Eric ・ O'SULLIVAN"
+title: "Eric O'SULLIVAN | "
 name_en: "Eric O'SULLIVAN"
+name_ja: ""
+slug: "eric-o-sullivan"
 position: "PR"
-team: "アルスター・ラグビー"
 height: "186.0"
 weight: "118.0"
 birth_date: "1995.11.30"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/eric-o-sullivan"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2018 - )
+## キャリア遍歴
+

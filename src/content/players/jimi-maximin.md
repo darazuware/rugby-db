@@ -1,37 +1,19 @@
 ---
-title: "ジミ・マクシミン"
+title: "Jimi MAXIMIN | "
 name_en: "Jimi MAXIMIN"
+name_ja: ""
+slug: "jimi-maximin"
 position: "LO"
-team: "ポー"
-height: "204"
-weight: "133"
+height: "204.0"
+weight: "133.0"
 birth_date: "1999.04.03"
-age: 26
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "France"
+scraped_url: "https://all.rugby/player/jimi-maximin"
 ---
 
-- RC Bonneval (2009 - 2014)
-- Pôle Espoirs de Tours (2014 - 2015)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2015 - 2020)
-- Section Paloise Béarn Pyrénées (2020 - 2021)
-- Stado Tarbes Pyrénées Rugby (2021 - 2022)
-- Section Paloise Béarn Pyrénées (2022)
-- Stado Tarbes Pyrénées Rugby (2022)
-- Rouen Normandie Rugby (2022)
-- Section Paloise Béarn Pyrénées (2023)
-- Stado Tarbes Pyrénées Rugby (2023)
-- Rouen Normandie Rugby (2023 - 2024)
-- Section Paloise Béarn Pyrénées (2024 - )
+## キャリア遍歴
+

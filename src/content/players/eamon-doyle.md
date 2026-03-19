@@ -1,26 +1,19 @@
 ---
-title: "エイモン・ドイル"
+title: "Eamon DOYLE | "
 name_en: "Eamon DOYLE"
+name_ja: ""
+slug: "eamon-doyle"
 position: "LO"
-team: "NSWワラタス（ワラターズ）"
 height: "198.0"
 weight: "112.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/eamon-doyle"
 ---
 
-- ワラターズ (2023 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "オリー・ノリス"
+title: "Ollie NORRIS | "
 name_en: "Ollie NORRIS"
+name_ja: ""
+slug: "ollie-norris"
 position: "PR"
-team: "ワイカト・チーフス"
 height: "194.0"
 weight: "122.0"
 birth_date: "1999.12.11"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/ollie-norris"
 ---
 
-- ワイカト (2018 - 2025)
-- チーフス (2019 - )
+## キャリア遍歴
+

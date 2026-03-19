@@ -1,27 +1,19 @@
 ---
-title: "マック・グリーリー"
+title: "Mac GREALY | "
 name_en: "Mac GREALY"
+name_ja: ""
+slug: "mac-grealy"
 position: "WTB"
-team: "ウェスタン・フォース"
 height: "180.0"
 weight: "89.0"
 birth_date: "2002.03.06"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/mac-grealy"
 ---
 
-- レッズ (2019 - 2024)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

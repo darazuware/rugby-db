@@ -1,31 +1,19 @@
 ---
-title: "ピエール・ユゲ"
+title: "Pierre HUGUET | "
 name_en: "Pierre HUGUET"
+name_ja: ""
+slug: "pierre-huguet"
 position: "FL/NO8"
-team: "スタッド・フランセ"
-height: "194"
-weight: "111"
+height: "194.0"
+weight: "111.0"
 birth_date: "1995.11.05"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/pierre_hgt/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-huguet"
 ---
 
-- SC Chinonais Rugby (2004 - 2012)
-- U.S. Tours (2012 - 2014)
-- US Dax Rugby Landes (2014 - 2018)
-- US Carcassonne (2018 - 2022)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2022 - 2024)
-- Stade Français Paris Rugby (2024 - )
+## キャリア遍歴
+

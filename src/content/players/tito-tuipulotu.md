@@ -1,27 +1,19 @@
 ---
-title: "ティト・ツイプロトゥ"
+title: "Tito TUIPULOTU | "
 name_en: "Tito TUIPULOTU"
+name_ja: ""
+slug: "tito-tuipulotu"
 position: "PR"
-team: "モアナ・パシフィカ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2002.06.08"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/tito-tuipulotu"
 ---
 
-- オークランド (2022 - 2024)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2024 - )
+## キャリア遍歴
+

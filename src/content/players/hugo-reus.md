@@ -1,35 +1,19 @@
 ---
-title: "ユーゴー・リュス"
+title: "Hugo REUS | "
 name_en: "Hugo REUS"
+name_ja: ""
+slug: "hugo-reus"
 position: "SO"
-team: "ペルピニャン"
-height: "184"
-weight: "85"
+height: "184.0"
+weight: "85.0"
 birth_date: "2004.02.21"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2026
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/hugo-reus"
 ---
 
-- Club Athlétique Ribéracois (2009 - 2013)
-- CA Périgueux Dordogne (2013 - 2018)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2022)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2022 - 2024)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025)
-- Union Sportive Arlequins Perpignanais (2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2026)
-- Union Sportive Arlequins Perpignanais (2026 - )
+## キャリア遍歴
+

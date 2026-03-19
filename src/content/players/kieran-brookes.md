@@ -1,30 +1,19 @@
 ---
-title: "キーラン・ブルックス"
+title: "Kieran BROOKES | "
 name_en: "Kieran BROOKES"
+name_ja: ""
+slug: "kieran-brookes"
 position: "PR"
-team: "ペルピニャン"
-height: "188"
-weight: "120"
+height: "188.0"
+weight: "120.0"
 birth_date: "1990.08.29"
-age: 35
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "English"
-category: ""
-division: ""
+age: null
+country: "English"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "England"
+scraped_url: "https://all.rugby/player/kieran-brookes"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2013 - 2015)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2015 - 2018)
-- Wasps (2018 - 2021)
-- Rugby Club Toulonnais (2021 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - )
+## キャリア遍歴
+

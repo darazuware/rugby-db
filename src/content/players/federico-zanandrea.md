@@ -1,31 +1,19 @@
 ---
-title: "Federico ・ ZANANDREA"
+title: "Federico ZANANDREA | "
 name_en: "Federico ZANANDREA"
+name_ja: ""
+slug: "federico-zanandrea"
 position: "CTB"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "190.0"
 weight: "103.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "0"
+scraped_url: "https://all.rugby/player/federico-zanandrea"
 ---
 
-- Mogliano Veneto Rugby (2023 - 2024)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2024)
-- Mogliano Veneto Rugby (2024)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2025)
-- Mogliano Veneto Rugby (2025)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2025 - )
+## キャリア遍歴
+

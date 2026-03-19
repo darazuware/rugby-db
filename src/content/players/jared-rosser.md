@@ -1,26 +1,19 @@
 ---
-title: "Jared ・ ROSSER"
+title: "Jared ROSSER | "
 name_en: "Jared ROSSER"
+name_ja: ""
+slug: "jared-rosser"
 position: "Winger"
-team: "ドラゴンズ・ラグビー"
 height: "183.0"
 weight: "99.0"
 birth_date: "1997.12.31"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/jared-rosser"
 ---
 
-- Dragons RFC (2017 - )
+## キャリア遍歴
+

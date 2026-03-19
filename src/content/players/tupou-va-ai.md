@@ -1,27 +1,19 @@
 ---
-title: "トゥポウ・ヴァアイ"
+title: "Tupou VAA'I | "
 name_en: "Tupou VAA'I"
+name_ja: ""
+slug: "tupou-va-ai"
 position: "LO"
-team: "ワイカト・チーフス"
 height: "198.0"
 weight: "118.0"
 birth_date: "2000.01.27"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/tupou-va-ai"
 ---
 
-- タラナキ (2018 - 2022)
-- チーフス (2019 - )
+## キャリア遍歴
+

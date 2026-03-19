@@ -1,27 +1,19 @@
 ---
-title: "ベン ・ HEALY"
+title: "Ben HEALY | "
 name_en: "Ben HEALY"
+name_ja: ""
+slug: "ben-healy"
 position: "SO"
-team: "エディンバラ・ラグビー"
 height: "191.0"
 weight: "100.0"
 birth_date: "1999.06.29"
-age: 26
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/ben-healy"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2019 - 2023)
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

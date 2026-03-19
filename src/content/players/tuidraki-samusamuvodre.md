@@ -1,28 +1,19 @@
 ---
-title: "トゥイドラキ・サムサムボドレ"
+title: "Tuidraki SAMUSAMUVODRE | "
 name_en: "Tuidraki SAMUSAMUVODRE"
+name_ja: ""
+slug: "tuidraki-samusamuvodre"
 position: "CTB"
-team: "フィジアン・ドゥルア"
 height: "180.0"
 weight: "90.0"
 birth_date: "1998.02.16"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/tuidraki-samusamuvodre"
 ---
 
-- Naitasiri Highlanders Rugby (2019 - 2020)
-- New England Free Jacks (2020 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - )
+## キャリア遍歴
+

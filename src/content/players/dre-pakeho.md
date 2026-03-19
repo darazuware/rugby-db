@@ -1,26 +1,19 @@
 ---
-title: "ドレ・パケホ"
+title: "Dre PAKEHO | "
 name_en: "Dre PAKEHO"
+name_ja: ""
+slug: "dre-pakeho"
 position: "CTB"
-team: "クイーンズランド・レッズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/dre-pakeho"
 ---
 
-- レッズ (2022 - )
+## キャリア遍歴
+

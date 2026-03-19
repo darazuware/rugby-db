@@ -1,26 +1,19 @@
 ---
-title: "Macs ・ PAGE"
+title: "Macs PAGE | "
 name_en: "Macs PAGE"
+name_ja: ""
+slug: "macs-page"
 position: "CTB"
-team: "スカーレッツ"
 height: "176.0"
 weight: "88.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/macs-page"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2022 - )
+## キャリア遍歴
+

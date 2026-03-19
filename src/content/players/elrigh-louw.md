@@ -1,29 +1,19 @@
 ---
-title: "Elrigh ・ LOUW"
+title: "Elrigh LOUW | "
 name_en: "Elrigh LOUW"
+name_ja: ""
+slug: "elrigh-louw"
 position: "Back row"
-team: "ヴォーダコム・ブルズ"
 height: "195.0"
 weight: "112.0"
 birth_date: "1999.09.20"
-age: 26
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/elrigh-louw"
 ---
 
-- Southern Kings (2019)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019)
-- Southern Kings (2020)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2020 - )
+## キャリア遍歴
+

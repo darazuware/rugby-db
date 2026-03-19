@@ -1,27 +1,19 @@
 ---
-title: "オリヴァー・コーウィー"
+title: "Oliver COWIE | "
 name_en: "Oliver COWIE"
+name_ja: ""
+slug: "oliver-cowie"
 position: "CTB"
-team: "トゥーロン"
-height: "193"
-weight: "95"
+height: "193.0"
+weight: "95.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/oliver-cowie"
 ---
 
-- Club du Golfe (2013 - 2020)
-- Rugby Club Toulonnais (2020 - )
+## キャリア遍歴
+

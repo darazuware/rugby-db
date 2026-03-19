@@ -1,29 +1,19 @@
 ---
-title: "コナー ・ BARTLEY"
+title: "Conor BARTLEY | "
 name_en: "Conor BARTLEY"
+name_ja: ""
+slug: "conor-bartley"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "182.0"
 weight: "117.0"
 birth_date: "1995.06.27"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/conor-bartley"
 ---
 
-- Young Munster RFC (2021 - 2024)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2024)
-- Young Munster RFC (2025)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "Dylan ・ MAART"
+title: "Dylan MAART | "
 name_en: "Dylan MAART"
+name_ja: ""
+slug: "dylan-maart"
 position: "Winger"
-team: "DHLストーマーズ"
 height: "185.0"
 weight: "77.0"
 birth_date: "1996.09.03"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/dylan-maart"
 ---
 
-- Griquas (2023 - 2025)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2025 - )
+## キャリア遍歴
+

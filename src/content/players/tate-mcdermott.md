@@ -1,26 +1,19 @@
 ---
-title: "テイト・マクダーモット"
+title: "Tate MCDERMOTT | "
 name_en: "Tate MCDERMOTT"
+name_ja: ""
+slug: "tate-mcdermott"
 position: "SH"
-team: "クイーンズランド・レッズ"
 height: "179.0"
 weight: "77.0"
 birth_date: "1998.09.18"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/tate-mcdermott"
 ---
 
-- レッズ (2017 - )
+## キャリア遍歴
+

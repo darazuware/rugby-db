@@ -1,28 +1,19 @@
 ---
-title: "Fran ・ KLOPPER"
+title: "François KLOPPER | "
 name_en: "François KLOPPER"
+name_ja: ""
+slug: "francois-klopper"
 position: "PR"
-team: "ヴォーダコム・ブルズ"
 height: "189.0"
 weight: "130.0"
 birth_date: "1999.09.07"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/francois-klopper"
 ---
 
-- Natal Sharks (2018 - 2019)
-- Blue Bulls (2020 - 2022)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2022 - )
+## キャリア遍歴
+

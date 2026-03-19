@@ -1,26 +1,19 @@
 ---
-title: "Dylan ・ TIERNEY ・ MARTIN"
+title: "Dylan TIERNEY-MARTIN | "
 name_en: "Dylan TIERNEY-MARTIN"
+name_ja: ""
+slug: "dylan-tierney-martin"
 position: "HO"
-team: "コナート・ラグビー"
 height: "182.0"
 weight: "101.0"
 birth_date: "1999.06.20"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/dylan-tierney-martin"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - )
+## キャリア遍歴
+

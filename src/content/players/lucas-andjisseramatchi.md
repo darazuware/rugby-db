@@ -1,27 +1,19 @@
 ---
-title: "ルカス・アンジセラマッチ"
+title: "Lucas ANDJISSERAMATCHI | "
 name_en: "Lucas ANDJISSERAMATCHI"
+name_ja: ""
+slug: "lucas-andjisseramatchi"
 position: "FL/NO8"
-team: "ラ・ロシェル"
-height: "187"
-weight: "105"
+height: "187.0"
+weight: "105.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/lucas-andjisseramatchi"
 ---
 
-- Rugby Club Massy Essonne (2014 - 2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )
+## キャリア遍歴
+

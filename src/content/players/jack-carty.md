@@ -1,26 +1,19 @@
 ---
-title: "ジャック ・ CARTY"
+title: "Jack CARTY | "
 name_en: "Jack CARTY"
+name_ja: ""
+slug: "jack-carty"
 position: "SO"
-team: "コナート・ラグビー"
 height: "183.0"
 weight: "92.0"
 birth_date: "1992.08.31"
-age: 33
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/jack-carty"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2013 - )
+## キャリア遍歴
+

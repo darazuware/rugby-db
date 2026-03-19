@@ -1,27 +1,19 @@
 ---
-title: "Bautista ・ BERNASCONI"
+title: "Bautista BERNASCONI | "
 name_en: "Bautista BERNASCONI"
+name_ja: ""
+slug: "bautista-bernasconi"
 position: "HO"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "175.0"
 weight: "114.0"
 birth_date: "2001.09.14"
-age: 24
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/bautista-bernasconi"
 ---
 
-- Jaguares XV (2020 - 2022)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2022 - )
+## キャリア遍歴
+

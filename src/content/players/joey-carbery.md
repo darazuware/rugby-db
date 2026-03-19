@@ -1,28 +1,19 @@
 ---
-title: "ジョーイー・カーベリー"
+title: "Joey CARBERY | "
 name_en: "Joey CARBERY"
+name_ja: ""
+slug: "joey-carbery"
 position: "SO"
-team: "ボルドー・ベグル"
-height: "183"
-weight: "86"
+height: "183.0"
+weight: "86.0"
 birth_date: "1995.11.01"
-age: 30
-high_school: ""
-university: ""
-caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "New Zealand"
+scraped_url: "https://all.rugby/player/joey-carbery"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2015 - 2018)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

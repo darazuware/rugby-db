@@ -1,27 +1,19 @@
 ---
-title: "ベン・スティーヴンソン"
+title: "Ben STEVENSON | "
 name_en: "Ben STEVENSON"
+name_ja: ""
+slug: "ben-stevenson"
 position: "WTB"
-team: "ヴァンヌ"
-height: "189"
-weight: "99"
+height: "189.0"
+weight: "99.0"
 birth_date: "1998.07.19"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "English"
-nationality: "English"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-stevenson"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2016 - 2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

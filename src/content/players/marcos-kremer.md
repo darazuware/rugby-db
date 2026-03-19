@@ -1,28 +1,19 @@
 ---
-title: "マルコス・クレメル"
+title: "Marcos KREMER | "
 name_en: "Marcos KREMER"
+name_ja: ""
+slug: "marcos-kremer"
 position: "FL/NO8"
-team: "クレルモン"
-height: "195"
-weight: "115"
+height: "195.0"
+weight: "115.0"
 birth_date: "1997.07.30"
-age: 28
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/marcos-kremer"
 ---
 
-- Jaguares (2015 - 2020)
-- Stade Français Paris Rugby (2020 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

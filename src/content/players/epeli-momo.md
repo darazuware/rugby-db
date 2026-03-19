@@ -1,28 +1,19 @@
 ---
-title: "エペリ・モモ"
+title: "Epeli MOMO | "
 name_en: "Epeli MOMO"
+name_ja: ""
+slug: "epeli-momo"
 position: "WTB"
-team: "フィジアン・ドゥルア"
 height: "184.0"
 weight: "84.0"
 birth_date: "1999.10.22"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/epeli-momo"
 ---
 
-- Club fidjien (2019 - 2020)
-- Union Sportive Montalbanaise (2020 - 2023)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023 - )
+## キャリア遍歴
+

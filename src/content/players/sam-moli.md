@@ -1,27 +1,19 @@
 ---
-title: "サム・モリ"
+title: "Sam MOLI | "
 name_en: "Sam MOLI"
+name_ja: ""
+slug: "sam-moli"
 position: "HO"
-team: "モアナ・パシフィカ"
 height: "185.0"
 weight: "114.0"
 birth_date: "1998.12.24"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Moana Pasifika"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/sam-moli"
 ---
 
-- タスマン (2016 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Logan ・ FRANKLIN"
+title: "Logan FRANKLIN | "
 name_en: "Logan FRANKLIN"
+name_ja: ""
+slug: "logan-franklin"
 position: "SH"
-team: "ドラゴンズ・ラグビー"
 height: "178.0"
 weight: "81.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/logan-franklin"
 ---
 
-- Dragons RFC (2024 - )
+## キャリア遍歴
+

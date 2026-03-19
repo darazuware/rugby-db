@@ -1,26 +1,19 @@
 ---
-title: "アツナイサ・ソコバレ"
+title: "Atunaisa SOKOBALE | "
 name_en: "Atunaisa SOKOBALE"
+name_ja: ""
+slug: "atunaisa-sokobale"
 position: "PR"
-team: "カストル"
-height: "189"
-weight: "110"
+height: "189.0"
+weight: "110.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/atunaisa-sokobale"
 ---
 
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2023 - )
+## キャリア遍歴
+

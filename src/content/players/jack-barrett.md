@@ -1,27 +1,19 @@
 ---
-title: "ジャック・バレット"
+title: "Jack BARRETT | "
 name_en: "Jack BARRETT"
+name_ja: ""
+slug: "jack-barrett"
 position: "PR"
-team: "NSWワラタス（ワラターズ）"
 height: "185.0"
 weight: "111.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-barrett"
 ---
 
-- Randwick Rugby (2022 - 2023)
-- ワラターズ (2023 - )
+## キャリア遍歴
+

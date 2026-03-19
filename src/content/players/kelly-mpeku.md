@@ -1,27 +1,19 @@
 ---
-title: "Kelly ・ MPEKU"
+title: "Kelly MPEKU | "
 name_en: "Kelly MPEKU"
+name_ja: ""
+slug: "kelly-mpeku"
 position: "CTB"
-team: "エミレーツ・ライオンズ"
 height: "188.0"
 weight: "88.0"
 birth_date: "2003.11.28"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Lions"
+caps: "0"
+scraped_url: "https://all.rugby/player/kelly-mpeku"
 ---
 
-- Golden Lions (2023 - 2024)
-- Lions Rugby (2024 - )
+## キャリア遍歴
+

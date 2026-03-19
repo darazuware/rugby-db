@@ -1,27 +1,19 @@
 ---
-title: "トーマス ・ GALLO"
+title: "Thomas GALLO | "
 name_en: "Thomas GALLO"
+name_ja: ""
+slug: "thomas-gallo"
 position: "PR"
-team: "ベネットン・ラグビー・トレヴィーゾ"
 height: "177.0"
 weight: "107.0"
 birth_date: "1999.04.30"
-age: 26
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Trévise"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/thomas-gallo"
 ---
 
-- Yacare XV (2019 - 2020)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2020 - )
+## キャリア遍歴
+

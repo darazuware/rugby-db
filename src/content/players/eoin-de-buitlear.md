@@ -1,26 +1,19 @@
 ---
-title: "オーウェン ・ デ ・ BUITL ・ AR"
+title: "Eoin DE BUITLÉAR | "
 name_en: "Eoin DE BUITLÉAR"
+name_ja: ""
+slug: "eoin-de-buitlear"
 position: "HO"
-team: "コナート・ラグビー"
 height: "175.0"
 weight: "104.0"
 birth_date: "2001.11.09"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/eoin-de-buitlear"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2020 - )
+## キャリア遍歴
+

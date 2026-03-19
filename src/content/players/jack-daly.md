@@ -1,27 +1,19 @@
 ---
-title: "ジャック・デイリー"
+title: "Jack DALY | "
 name_en: "Jack DALY"
+name_ja: ""
+slug: "jack-daly"
 position: "FL/No8"
-team: "ウェスタン・フォース"
 height: "183.0"
 weight: "107.0"
 birth_date: "1998.08.12"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/jack-daly"
 ---
 
-- マンスター (2017 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2024 - )
+## キャリア遍歴
+

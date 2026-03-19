@@ -1,31 +1,19 @@
 ---
-title: "Osian ・ ROBERTS"
+title: "Osian ROBERTS | "
 name_en: "Osian ROBERTS"
+name_ja: ""
+slug: "osian-roberts"
 position: "CTB"
-team: "カーディフ・ラグビー"
 height: "180.0"
 weight: "89.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2026
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/osian-roberts"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2023 - 2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2025)
-- Caldy RFC (2025)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2026)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2026)
-- Caldy RFC (2026 - )
+## キャリア遍歴
+

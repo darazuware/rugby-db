@@ -1,26 +1,19 @@
 ---
-title: "Zac ・ WARD"
+title: "Zac WARD | "
 name_en: "Zac WARD"
+name_ja: ""
+slug: "zac-ward"
 position: "Winger"
-team: "アルスター・ラグビー"
 height: "191.0"
 weight: "101.0"
 birth_date: "1998.12.11"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/zac-ward"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2024 - )
+## キャリア遍歴
+

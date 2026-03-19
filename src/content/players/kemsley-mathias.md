@@ -1,26 +1,19 @@
 ---
-title: "Kemsley ・ MATHIAS"
+title: "Kemsley MATHIAS | "
 name_en: "Kemsley MATHIAS"
+name_ja: ""
+slug: "kemsley-mathias"
 position: "PR"
-team: "スカーレッツ"
 height: "185.0"
 weight: "121.0"
 birth_date: "1999.07.29"
-age: 26
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/kemsley-mathias"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2018 - )
+## キャリア遍歴
+

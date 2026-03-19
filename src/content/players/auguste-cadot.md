@@ -1,29 +1,19 @@
 ---
-title: "オーギュスト・カド"
+title: "Auguste CADOT | "
 name_en: "Auguste CADOT"
+name_ja: ""
+slug: "auguste-cadot"
 position: "CTB"
-team: "モンペリエ"
-height: "181"
-weight: "92"
+height: "181.0"
+weight: "92.0"
 birth_date: "2001.07.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Voir"
-nationality: "Voir"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "0"
+scraped_url: "https://all.rugby/player/auguste-cadot"
 ---
 
-- Racing Club Chagny (2007 - 2015)
-- CS Beaune (2015 - 2019)
-- Biarritz Olympique Pays Basque (2019 - 2023)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2023 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "アーチー・サンダース"
+title: "Archie SAUNDERS | "
 name_en: "Archie SAUNDERS"
+name_ja: ""
+slug: "archie-saunders"
 position: "WTB"
-team: "NSWワラタス（ワラターズ）"
 height: "192.0"
 weight: "98.0"
 birth_date: "2004.01.30"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/archie-saunders"
 ---
 
-- ワラターズ (2023 - )
+## キャリア遍歴
+

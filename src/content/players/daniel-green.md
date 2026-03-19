@@ -1,26 +1,19 @@
 ---
-title: "ダニエル ・ GREEN"
+title: "Daniel GREEN | "
 name_en: "Daniel GREEN"
+name_ja: ""
+slug: "daniel-green"
 position: "FB"
-team: "アルスター・ラグビー"
 height: "183.0"
-weight: ""
+weight: "0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/daniel-green"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2025 - )
+## キャリア遍歴
+

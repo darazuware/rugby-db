@@ -1,26 +1,19 @@
 ---
-title: "ヘイミッシュ ・ MACARTHUR"
+title: "Hamish MACARTHUR | "
 name_en: "Hamish MACARTHUR"
+name_ja: ""
+slug: "hamish-macarthur"
 position: "SH"
-team: "エディンバラ・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/hamish-macarthur"
 ---
 
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

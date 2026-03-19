@@ -1,30 +1,19 @@
 ---
-title: "ケイン・ダグラス"
+title: "Kane DOUGLAS | "
 name_en: "Kane DOUGLAS"
+name_ja: ""
+slug: "kane-douglas"
 position: "LO"
-team: "ラ・ロシェル"
-height: "202"
-weight: "123"
+height: "202.0"
+weight: "123.0"
 birth_date: "1989.06.01"
-age: 36
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: "Australienne"
-category: ""
-division: ""
+age: null
+country: "Australienne"
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/kanedoug"
-twitter: "https://www.twitter.com/_kanedoug"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/kane-douglas"
 ---
 
-- New South Wales Waratahs (2009 - 2014)
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2014 - 2015)
-- 🇦🇺 [クイーンズランド・レッズ](/teams/super-rugby/queensland-reds) (2015 - 2018)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2024)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2024 - )
+## キャリア遍歴
+

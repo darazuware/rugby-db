@@ -1,29 +1,19 @@
 ---
-title: "セフォ・カウタイ"
+title: "Sefo KAUTAI | "
 name_en: "Sefo KAUTAI"
+name_ja: ""
+slug: "sosefo-kautai"
 position: "PR"
-team: "オタゴ・ハイランダーズ"
 height: "189.0"
 weight: "133.0"
 birth_date: "1996.08.16"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/sosefo-kautai"
 ---
 
-- チーフス (2016 - 2019)
-- ワイカト (2018 - 2025)
-- ブランビーズ (2020 - 2024)
-- ハイランダーズ (2024 - )
+## キャリア遍歴
+

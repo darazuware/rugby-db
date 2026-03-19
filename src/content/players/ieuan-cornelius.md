@@ -1,26 +1,19 @@
 ---
-title: "Ieuan ・ CORNELIUS"
+title: "Ieuan CORNELIUS | "
 name_en: "Ieuan CORNELIUS"
+name_ja: ""
+slug: "ieuan-cornelius"
 position: "Winger"
-team: "オスプリーズ"
 height: "188.0"
 weight: "97.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: null
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/ieuan-cornelius"
 ---
 
+## キャリア遍歴
 

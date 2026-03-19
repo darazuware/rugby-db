@@ -1,28 +1,19 @@
 ---
-title: "フスト・ピカルド"
+title: "Justo PICCARDO | "
 name_en: "Justo PICCARDO"
+name_ja: ""
+slug: "justo-piccardo"
 position: "CTB"
-team: "モンペリエ"
-height: "183"
-weight: "112"
+height: "183.0"
+weight: "112.0"
 birth_date: "2002.03.25"
-age: 23
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "モンペリエ"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/justo-piccardo"
 ---
 
-- San Isidro Club (2020 - 2024)
-- Pampas XV (2024 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

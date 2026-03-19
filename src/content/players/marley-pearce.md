@@ -1,27 +1,19 @@
 ---
-title: "マーリー・ピアース"
+title: "Marley PEARCE | "
 name_en: "Marley PEARCE"
+name_ja: ""
+slug: "marley-pearce"
 position: "PR"
-team: "ウェスタン・フォース"
 height: "186.0"
 weight: "116.0"
 birth_date: "2003.08.03"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/marley-pearce"
 ---
 
-- Joondalup Brothers RUFC (2021 - 2022)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2022 - )
+## キャリア遍歴
+

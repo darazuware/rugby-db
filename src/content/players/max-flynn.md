@@ -1,27 +1,19 @@
 ---
-title: "Max ・ FLYNN"
+title: "Max FLYNN | "
 name_en: "Max FLYNN"
+name_ja: ""
+slug: "max-flynn"
 position: "Back row"
-team: "コナート・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/max-flynn"
 ---
 
-- Galway Corinthians RFC (2023 - 2024)
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2024 - )
+## キャリア遍歴
+

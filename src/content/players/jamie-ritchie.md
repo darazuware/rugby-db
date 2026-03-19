@@ -1,27 +1,19 @@
 ---
-title: "ジェイミー・リッチー"
+title: "Jamie RITCHIE | "
 name_en: "Jamie RITCHIE"
+name_ja: ""
+slug: "jamie-ritchie"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "190"
-weight: "110"
+height: "190.0"
+weight: "110.0"
 birth_date: "1996.08.16"
-age: 29
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: "Scottish"
-category: ""
-division: ""
+age: null
+country: "Scottish"
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/jamie-ritchie"
 ---
 
-- Edimbourg Rugby (2014 - 2025)
-- Union Sportive Arlequins Perpignanais (2025 - )
+## キャリア遍歴
+

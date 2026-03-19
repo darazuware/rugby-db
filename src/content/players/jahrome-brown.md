@@ -1,28 +1,19 @@
 ---
-title: "ジャローム・ブラウン"
+title: "Jahrome BROWN | "
 name_en: "Jahrome BROWN"
+name_ja: ""
+slug: "jahrome-brown"
 position: "FL/No8"
-team: "ワイカト・チーフス"
 height: "189.0"
 weight: "105.0"
 birth_date: "1996.09.29"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/jahrome-brown"
 ---
 
-- ブランビーズ (2018 - 2024)
-- ワイカト (2024 - 2025)
-- チーフス (2024 - )
+## キャリア遍歴
+

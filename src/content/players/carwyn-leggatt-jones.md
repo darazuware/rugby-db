@@ -1,26 +1,19 @@
 ---
-title: "Carwyn ・ LEGGATT ・ JONES"
+title: "Carwyn LEGGATT-JONES | "
 name_en: "Carwyn LEGGATT-JONES"
+name_ja: ""
+slug: "carwyn-leggatt-jones"
 position: "SO"
-team: "スカーレッツ"
 height: "170.0"
 weight: "84.0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/carwyn-leggatt-jones"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

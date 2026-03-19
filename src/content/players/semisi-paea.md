@@ -1,28 +1,19 @@
 ---
-title: "セミシ・パエア"
+title: "Semisi PAEA | "
 name_en: "Semisi PAEA"
+name_ja: ""
+slug: "semisi-paea"
 position: "FL/No8"
-team: "モアナ・パシフィカ"
 height: "194.0"
 weight: "113.0"
 birth_date: "1999.04.17"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/semisi-paea"
 ---
 
-- ベイ・オブ・プレンティ (2020 - 2025)
-- New England Free Jacks (2022 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

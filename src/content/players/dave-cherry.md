@@ -1,27 +1,19 @@
 ---
-title: "デイヴ・チェリー"
+title: "Dave CHERRY | "
 name_en: "Dave CHERRY"
+name_ja: ""
+slug: "dave-cherry"
 position: "HO"
-team: "ヴァンヌ"
-height: "183"
-weight: "107"
+height: "183.0"
+weight: "107.0"
 birth_date: "1991.01.03"
-age: 35
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Scottish"
-nationality: "Scottish"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/dave-cherry"
 ---
 
-- Edimbourg Rugby (2018 - 2025)
-- Rugby Club Vannes (2025 - )
+## キャリア遍歴
+

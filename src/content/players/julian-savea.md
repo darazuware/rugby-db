@@ -1,29 +1,19 @@
 ---
-title: "ジュリアン・サヴェア"
+title: "Julian SAVEA | "
 name_en: "Julian SAVEA"
+name_ja: ""
+slug: "julian-savea"
 position: "CTB"
-team: "モアナ・パシフィカ"
 height: "192.0"
 weight: "108.0"
 birth_date: "1990.08.07"
-age: 35
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Moana Pasifika"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/julian-savea"
 ---
 
-- ハリケーンズ (2010 - 2023)
-- 🇫🇷 [トゥーロン](/teams/top14/toulon) (2018 - 2020)
-- ウェリントン (2019 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - )
+## キャリア遍歴
+

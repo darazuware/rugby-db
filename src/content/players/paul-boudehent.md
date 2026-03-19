@@ -1,28 +1,19 @@
 ---
-title: "ポール・ブデアン"
+title: "Paul BOUDEHENT | "
 name_en: "Paul BOUDEHENT"
+name_ja: ""
+slug: "paul-boudehent"
 position: "FL/NO8"
-team: "ラ・ロシェル"
-height: "192"
-weight: "107"
+height: "192.0"
+weight: "107.0"
 birth_date: "1999.11.21"
-age: 26
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Française"
-category: ""
-division: ""
+age: null
+country: "Française"
 league: "top14"
-joined_year: 2017
-has_scores: true
-instagram: "https://www.instagram.com/paul_bdhnt"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "France"
+scraped_url: "https://all.rugby/player/paul-boudehent"
 ---
 
-- SCO RC Angers (2010 - 2014)
-- Stade Nantais (2014 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - )
+## キャリア遍歴
+

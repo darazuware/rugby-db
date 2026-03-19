@@ -1,30 +1,19 @@
 ---
-title: "ハリー・ポッター"
+title: "Harry POTTER | "
 name_en: "Harry POTTER"
+name_ja: ""
+slug: "harry-potter"
 position: "WTB"
-team: "NSWワラタス（ワラターズ）"
 height: "186.0"
 weight: "96.0"
 birth_date: "1997.12.15"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-potter"
 ---
 
-- Melbourne Rising (2018 - 2019)
-- 🇦🇺 メルボルン・レベルズ (2019 - 2020)
-- レスター・タイガース (2019 - 2023)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2023 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

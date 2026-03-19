@@ -1,29 +1,19 @@
 ---
-title: "テヴィタ・マフィレオ"
+title: "Tevita MAFILEO | "
 name_en: "Tevita MAFILEO"
+name_ja: ""
+slug: "tevita-mafileo"
 position: "PR"
-team: "ウェリントン・ハリケーンズ"
 height: "188.0"
 weight: "125.0"
 birth_date: "1998.02.04"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/tevita-mafileo"
 ---
 
-- チーフス (2018 - 2019)
-- ベイ・オブ・プレンティ (2019 - 2025)
-- ハリケーンズ (2019 - 2026)
-- ノース・ハーバー (2022 - )
+## キャリア遍歴
+

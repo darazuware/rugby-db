@@ -1,27 +1,19 @@
 ---
-title: "ビリー・プロクター"
+title: "Billy PROCTOR | "
 name_en: "Billy PROCTOR"
+name_ja: ""
+slug: "billy-proctor"
 position: "CTB"
-team: "ウェリントン・ハリケーンズ"
 height: "187.0"
 weight: "98.0"
 birth_date: "1999.05.14"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/billy-proctor"
 ---
 
-- ハリケーンズ (2018 - 2026)
-- ウェリントン (2019 - )
+## キャリア遍歴
+

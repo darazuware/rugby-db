@@ -1,27 +1,19 @@
 ---
-title: "ベン ・ ウィリアムズ"
+title: "Ben WILLIAMS | "
 name_en: "Ben WILLIAMS"
+name_ja: ""
+slug: "ben-williams-14088"
 position: "Back row"
-team: "スカーレッツ"
 height: "188.0"
 weight: "108.0"
 birth_date: "2002.04.23"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-williams-14088"
 ---
 
-- Aberavon RFC (2021 - 2022)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2022 - )
+## キャリア遍歴
+

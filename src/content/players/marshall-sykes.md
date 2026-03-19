@@ -1,29 +1,19 @@
 ---
-title: "Marshall ・ SYKES"
+title: "Marshall SYKES | "
 name_en: "Marshall SYKES"
+name_ja: ""
+slug: "marshall-sykes"
 position: "LO"
-team: "エディンバラ・ラグビー"
 height: "200.0"
 weight: "121.0"
 birth_date: "1999.12.29"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/marshall-sykes"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2019)
-- Edimbourg Rugby (2019)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020)
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

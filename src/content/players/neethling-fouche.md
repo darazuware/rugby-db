@@ -1,28 +1,19 @@
 ---
-title: "Neethling ・ FOUCH"
+title: "Neethling FOUCHÉ | "
 name_en: "Neethling FOUCHÉ"
+name_ja: ""
+slug: "neethling-fouche"
 position: "PR"
-team: "DHLストーマーズ"
 height: "189.0"
 weight: "120.0"
 birth_date: "1993.01.10"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/neethling-fouche"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2017 - 2019)
-- Central Cheetahs (2019 - 2020)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020 - )
+## キャリア遍歴
+

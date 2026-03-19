@@ -1,26 +1,19 @@
 ---
-title: "Charlie ・ IRVINE"
+title: "Charlie IRVINE | "
 name_en: "Charlie IRVINE"
+name_ja: ""
+slug: "charlie-irvine"
 position: "LO"
-team: "アルスター・ラグビー"
 height: "202.0"
 weight: "118.0"
 birth_date: "2003.01.28"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/charlie-irvine"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2023 - )
+## キャリア遍歴
+

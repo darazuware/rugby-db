@@ -1,28 +1,19 @@
 ---
-title: "ジェームズ ・ RATTI"
+title: "James RATTI | "
 name_en: "James RATTI"
+name_ja: ""
+slug: "james-ratti"
 position: "LO"
-team: "オスプリーズ"
 height: "196.0"
 weight: "120.0"
 birth_date: "1997.10.14"
-age: 28
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/james-ratti"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2017 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2019 - 2023)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2023 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "ジェレミー・サンゼル"
+title: "Jérémy SINZELLE | "
 name_en: "Jérémy SINZELLE"
+name_ja: ""
+slug: "jeremy-sinzelle"
 position: "CTB"
-team: "トゥーロン"
-height: "184"
-weight: "98"
+height: "184.0"
+weight: "98.0"
 birth_date: "1990.07.02"
-age: 35
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/jeremy-sinzelle"
 ---
 
-- Rugby Nice Côte d'Azur Université Racing (2003 - 2006)
-- Rugby Club Toulonnais (2006 - 2012)
-- Stade Français Paris Rugby (2012 - 2017)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2017 - 2022)
-- Rugby Club Toulonnais (2022 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ベン ・ EVANS"
+title: "Ben EVANS | "
 name_en: "Ben EVANS"
+name_ja: ""
+slug: "ben-evans-"
 position: "FB"
-team: "オスプリーズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2007.."
-age: 19
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/ben-evans-"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2025 - )
+## キャリア遍歴
+

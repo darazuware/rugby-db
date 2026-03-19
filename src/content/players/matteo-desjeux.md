@@ -1,27 +1,19 @@
 ---
-title: "マテオ・デジュー"
+title: "Mattéo DESJEUX | "
 name_en: "Mattéo DESJEUX"
+name_ja: ""
+slug: "matteo-desjeux"
 position: "LO"
-team: "ヴァンヌ"
-height: "200"
-weight: "120"
+height: "200.0"
+weight: "120.0"
 birth_date: "2002.01.26"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2014
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/matteo-desjeux"
 ---
 
-- Rugby Club du Pays Muzillacais (2007 - 2014)
-- Rugby Club Vannes (2014 - )
+## キャリア遍歴
+

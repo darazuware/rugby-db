@@ -1,30 +1,19 @@
 ---
-title: "ヴィナヤ・ハボシ"
+title: "Vinaya HABOSI | "
 name_en: "Vinaya HABOSI"
+name_ja: ""
+slug: "vinaya-habosi"
 position: "WTB"
-team: "ラシン92"
-height: "184"
-weight: "100"
+height: "184.0"
+weight: "100.0"
 birth_date: "2000.01.30"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/bine11_fj/"
-twitter: "https://x.com/racing92?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/vinaya-habosi"
 ---
 
-- Namosi Rugby (2020 - 2021)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2021 - 2022)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2022)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2023)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2023 - )
+## キャリア遍歴
+

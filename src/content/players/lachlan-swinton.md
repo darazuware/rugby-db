@@ -1,27 +1,19 @@
 ---
-title: "ラクラン・スウィントン"
+title: "Lachlan SWINTON | "
 name_en: "Lachlan SWINTON"
+name_ja: ""
+slug: "lachlan-swinton"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "195"
-weight: "113"
+height: "195.0"
+weight: "113.0"
 birth_date: "1997.01.16"
-age: 29
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/lachlan-swinton"
 ---
 
-- New South Wales Waratahs (2018 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

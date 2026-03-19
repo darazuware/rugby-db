@@ -1,27 +1,19 @@
 ---
-title: "ポール・ガブリヤーグ"
+title: "Paul GABRILLAGUES | "
 name_en: "Paul GABRILLAGUES"
+name_ja: ""
+slug: "paul-gabrillagues"
 position: "LO"
-team: "スタッド・フランセ"
-height: "199"
-weight: "119"
+height: "199.0"
+weight: "119.0"
 birth_date: "1993.06.03"
-age: 32
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2011
-has_scores: true
-instagram: "https://www.instagram.com/paul.gabrillagues/"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "France"
+scraped_url: "https://all.rugby/player/paul-gabrillagues"
 ---
 
-- Paris Université Club (2007 - 2011)
-- Stade Français Paris Rugby (2011 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ジョシュ ・ WYCHERLEY"
+title: "Josh WYCHERLEY | "
 name_en: "Josh WYCHERLEY"
+name_ja: ""
+slug: "josh-wycherley"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "183.0"
 weight: "112.0"
 birth_date: "1999.07.22"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-wycherley"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2018 - )
+## キャリア遍歴
+

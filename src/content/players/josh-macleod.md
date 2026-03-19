@@ -1,26 +1,19 @@
 ---
-title: "ジョシュ ・ MACLEOD"
+title: "Josh MACLEOD | "
 name_en: "Josh MACLEOD"
+name_ja: ""
+slug: "josh-macleod"
 position: "Back row"
-team: "スカーレッツ"
 height: "189.0"
 weight: "110.0"
 birth_date: "1996.10.27"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2016
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/josh-macleod"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2016 - )
+## キャリア遍歴
+

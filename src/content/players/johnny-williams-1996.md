@@ -1,30 +1,19 @@
 ---
-title: "Johnny ・ ウィリアムズ"
+title: "Johnny WILLIAMS | "
 name_en: "Johnny WILLIAMS"
+name_ja: ""
+slug: "johnny-williams-1996"
 position: "CTB"
-team: "スカーレッツ"
 height: "191.0"
 weight: "105.0"
 birth_date: "1996.10.18"
-age: 29
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "England"
+scraped_url: "https://all.rugby/player/johnny-williams-1996"
 ---
 
-- London Irish (2015 - 2018)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2018 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ニューカッスル・ファルコンズ](/teams/premiership/newcastle-falcons) (2020)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2020 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "ティボー・ドーバニャ"
+title: "Thibault DAUBAGNA | "
 name_en: "Thibault DAUBAGNA"
+name_ja: ""
+slug: "thibault-daubagna"
 position: "SH"
-team: "ポー"
-height: "177"
-weight: "83"
+height: "177.0"
+weight: "83.0"
 birth_date: "1994.05.20"
-age: 31
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 1999
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "France"
+scraped_url: "https://all.rugby/player/thibault-daubagna"
 ---
 
-- Section Paloise Béarn Pyrénées (1999 - )
+## キャリア遍歴
+

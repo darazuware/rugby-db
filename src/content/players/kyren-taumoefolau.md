@@ -1,28 +1,19 @@
 ---
-title: "カイレン・タウモエフォラウ"
+title: "Kyren TAUMOEFOLAU | "
 name_en: "Kyren TAUMOEFOLAU"
+name_ja: ""
+slug: "kyren-taumoefolau"
 position: "WTB"
-team: "ワイカト・チーフス"
 height: "187.0"
 weight: "95.0"
 birth_date: "2003.05.08"
-age: 22
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/kyren-taumoefolau"
 ---
 
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2022 - 2025)
-- タスマン (2023 - 2025)
-- チーフス (2025 - )
+## キャリア遍歴
+

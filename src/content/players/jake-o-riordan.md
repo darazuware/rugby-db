@@ -1,26 +1,19 @@
 ---
-title: "Jake ・ O'RIORDAN"
+title: "Jake O'RIORDAN | "
 name_en: "Jake O'RIORDAN"
+name_ja: ""
+slug: "jake-o-riordan"
 position: "SH"
-team: "マンスター・ラグビー"
 height: "170.0"
 weight: "74.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2024 - )
+## キャリア遍歴
+

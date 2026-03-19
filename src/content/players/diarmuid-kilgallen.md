@@ -1,27 +1,19 @@
 ---
-title: "Diarmuid ・ KILGALLEN"
+title: "Diarmuid KILGALLEN | "
 name_en: "Diarmuid KILGALLEN"
+name_ja: ""
+slug: "diarmuid-kilgallen"
 position: "Winger"
-team: "マンスター・ラグビー"
 height: "193.0"
 weight: "96.0"
 birth_date: "2000.03.08"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/diarmuid-kilgallen"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2019 - 2024)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2024 - )
+## キャリア遍歴
+

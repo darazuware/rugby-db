@@ -1,31 +1,19 @@
 ---
-title: "イグナシオ・ルイス"
+title: "Ignacio RUIZ | "
 name_en: "Ignacio RUIZ"
+name_ja: ""
+slug: "ignacio-ruiz"
 position: "HO"
-team: "ペルピニャン"
-height: "185"
-weight: "109"
+height: "185.0"
+weight: "109.0"
 birth_date: "2001.01.03"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Argentine"
-nationality: "Argentine"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/ignacio-ruiz"
 ---
 
-- Jaguares XV (2020 - 2021)
-- Club Regatas de Bella Vista (2021)
-- Jaguares XV (2022)
-- Club Regatas de Bella Vista (2022)
-- London Irish (2022 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - )
+## キャリア遍歴
+

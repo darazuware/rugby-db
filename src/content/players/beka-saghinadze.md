@@ -1,28 +1,19 @@
 ---
-title: "ベカ・サギナゼ"
+title: "Beka SAGINADZE | "
 name_en: "Beka SAGINADZE"
+name_ja: ""
+slug: "beka-saghinadze"
 position: "FL/NO8"
-team: "リヨン"
-height: "192"
-weight: "110"
+height: "192.0"
+weight: "110.0"
 birth_date: "1998.10.29"
-age: 27
-high_school: ""
-university: ""
-caps: "Georgia"
-league_one_caps: "0"
-country: "Georgia"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "Georgia"
+scraped_url: "https://all.rugby/player/beka-saghinadze"
 ---
 
-- Lelo Saracens Tbilissi (2017 - 2018)
-- Stade Aurillacois Cantal Auvergne (2018 - 2021)
-- Lyon Olympique Universitaire Rugby (2021 - )
+## キャリア遍歴
+

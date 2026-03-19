@@ -1,31 +1,19 @@
 ---
-title: "エンゾ・エルヴェ"
+title: "Enzo HERVÉ | "
 name_en: "Enzo HERVÉ"
+name_ja: ""
+slug: "enzo-herve"
 position: "SO"
-team: "カストル"
-height: "176"
-weight: "94"
+height: "176.0"
+weight: "94.0"
 birth_date: "1998.10.13"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2026
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/enzo-herve"
 ---
 
-- RC Buguois (2004 - 2013)
-- CA Brive Corrèze Limousin (2013 - 2023)
-- Rugby Club Toulonnais (2023 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025)
-- Rugby Club Toulonnais (2026)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2026 - )
+## キャリア遍歴
+

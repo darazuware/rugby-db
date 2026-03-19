@@ -1,29 +1,19 @@
 ---
-title: "ミカエル・ギヤール"
+title: "Mickaël GUILLARD | "
 name_en: "Mickaël GUILLARD"
+name_ja: ""
+slug: "mickael--guillard"
 position: "LO"
-team: "リヨン"
-height: "197"
-weight: "122"
+height: "197.0"
+weight: "122.0"
 birth_date: "2000.12.10"
-age: 25
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "France"
+scraped_url: "https://all.rugby/player/mickael--guillard"
 ---
 
-- RC Maurepas-Élancourt (2006 - 2009)
-- Union Rugby Centre 78 (2009 - 2017)
-- Rugby Club Massy Essonne (2017 - 2020)
-- Lyon Olympique Universitaire Rugby (2020 - )
+## キャリア遍歴
+

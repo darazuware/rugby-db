@@ -1,30 +1,19 @@
 ---
-title: "Andr ・ ESTERHUIZEN"
+title: "André ESTERHUIZEN | "
 name_en: "André ESTERHUIZEN"
+name_ja: ""
+slug: "andre-esterhuizen"
 position: "CTB"
-team: "ハリウッドベッツ・シャークス"
 height: "193.0"
 weight: "115.0"
 birth_date: "1994.03.30"
-age: 31
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/andre-esterhuizen"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2019)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2020 - 2024)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2024 - )
+## キャリア遍歴
+

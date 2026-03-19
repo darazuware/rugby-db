@@ -1,27 +1,19 @@
 ---
-title: "Giacomo ・ FERRARI"
+title: "Giacomo FERRARI | "
 name_en: "Giacomo FERRARI"
+name_ja: ""
+slug: "giacomo-ferrari"
 position: "Back row"
-team: "ゼブレ・パルマ"
 height: "190.0"
 weight: "107.0"
 birth_date: "2002.01.22"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/giacomo-ferrari"
 ---
 
-- Unione Rugby Capitolina (2021 - 2022)
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2022 - )
+## キャリア遍歴
+

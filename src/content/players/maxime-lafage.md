@@ -1,31 +1,19 @@
 ---
-title: "マキシム・ラファージュ"
+title: "Maxime LAFAGE | "
 name_en: "Maxime LAFAGE"
+name_ja: ""
+slug: "maxime-lafage"
 position: "SO"
-team: "ヴァンヌ"
-height: "183"
-weight: "86"
+height: "183.0"
+weight: "86.0"
 birth_date: "1994.09.01"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/maxime-lafage"
 ---
 
-- US Colomiers (2009 - 2018)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2019)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2019)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2020)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2020 - 2022)
-- Rugby Club Vannes (2022 - )
+## キャリア遍歴
+

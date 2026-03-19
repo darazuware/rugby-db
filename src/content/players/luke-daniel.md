@@ -1,26 +1,19 @@
 ---
-title: "ルーク ・ ダニエル"
+title: "Luke DANIEL | "
 name_en: "Luke DANIEL"
+name_ja: ""
+slug: "luke-daniel"
 position: "Back row"
-team: "ドラゴンズ・ラグビー"
 height: "186.0"
 weight: "88.0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/luke-daniel"
 ---
 
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

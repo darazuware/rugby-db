@@ -1,29 +1,19 @@
 ---
-title: "マキシム・グズ"
+title: "Maxime GOUZOU | "
 name_en: "Maxime GOUZOU"
+name_ja: ""
+slug: "maxime-gouzou"
 position: "FL/NO8"
-team: "リヨン"
-height: "189"
-weight: "106"
+height: "189.0"
+weight: "106.0"
 birth_date: "1998.09.11"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/maxime-gouzou"
 ---
 
-- US Bardos (2006 - 2009)
-- Biarritz Olympique Pays Basque (2009 - 2018)
-- Stade Montois Rugby Pro (2018 - 2022)
-- Lyon Olympique Universitaire Rugby (2022 - )
+## キャリア遍歴
+

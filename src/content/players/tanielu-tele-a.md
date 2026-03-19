@@ -1,29 +1,19 @@
 ---
-title: "タニエル・テレア"
+title: "Tanielu TELE'A | "
 name_en: "Tanielu TELE'A"
+name_ja: ""
+slug: "tanielu-tele-a"
 position: "CTB"
-team: "オタゴ・ハイランダーズ"
 height: "187.0"
 weight: "107.0"
 birth_date: "1998.06.16"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/tanielu-tele-a"
 ---
 
-- ブルーズ (2018 - 2023)
-- オークランド (2019 - 2025)
-- カウンティーズ・マヌカウ (2020 - 2021)
-- ハイランダーズ (2023 - )
+## キャリア遍歴
+

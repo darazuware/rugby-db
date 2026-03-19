@@ -1,29 +1,19 @@
 ---
-title: "ルイ・カルボネル"
+title: "Louis CARBONEL | "
 name_en: "Louis CARBONEL"
+name_ja: ""
+slug: "louis-carbonel"
 position: "SO"
-team: "スタッド・フランセ"
-height: "180"
-weight: "88"
+height: "180.0"
+weight: "88.0"
 birth_date: "1999.02.04"
-age: 27
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/louis_carbonel/"
-twitter: "https://x.com/LouisCarbonel"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "France"
+scraped_url: "https://all.rugby/player/louis-carbonel"
 ---
 
-- RC Canton Garde-Pradet (2004 - 2005)
-- Rugby Club Toulonnais (2005 - 2022)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2022 - 2024)
-- Stade Français Paris Rugby (2024 - )
+## キャリア遍歴
+

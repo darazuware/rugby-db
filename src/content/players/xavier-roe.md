@@ -1,28 +1,19 @@
 ---
-title: "ザビエル・ロー"
+title: "Xavier ROE | "
 name_en: "Xavier ROE"
+name_ja: ""
+slug: "xavier-roe"
 position: "SH"
-team: "ワイカト・チーフス"
 height: "179.0"
 weight: "86.0"
 birth_date: "1998.12.13"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/xavier-roe"
 ---
 
-- タラナキ (2017 - 2019)
-- ワイカト (2019 - 2025)
-- チーフス (2020 - )
+## キャリア遍歴
+

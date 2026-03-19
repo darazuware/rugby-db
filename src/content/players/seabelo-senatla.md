@@ -1,26 +1,19 @@
 ---
-title: "Seabelo ・ SENATLA"
+title: "Seabelo SENATLA | "
 name_en: "Seabelo SENATLA"
+name_ja: ""
+slug: "seabelo-senatla"
 position: "Winger"
-team: "DHLストーマーズ"
 height: "179.0"
 weight: "93.0"
 birth_date: "1993.02.10"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2013
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/seabelo-senatla"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2013 - )
+## キャリア遍歴
+

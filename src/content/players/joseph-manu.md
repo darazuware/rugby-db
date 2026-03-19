@@ -1,28 +1,19 @@
 ---
-title: "ジョーイー・マヌ"
+title: "Joey MANU | "
 name_en: "Joey MANU"
+name_ja: ""
+slug: "joseph-manu"
 position: "CTB"
-team: "ラシン92"
-height: "192"
-weight: "102"
+height: "192.0"
+weight: "102.0"
 birth_date: "1996.06.29"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラシン92"
+caps: "0"
+scraped_url: "https://all.rugby/player/joseph-manu"
 ---
 
-- Sydney Roosters (2015 - 2024)
-- 🇯🇵 [トヨタヴェルブリッツ](/teams/league-one/toyota-verblitz) [D1] (2024 - 2025)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2025 - )
+## キャリア遍歴
+

@@ -1,30 +1,19 @@
 ---
-title: "Max ・ WILLIAMSON"
+title: "Max WILLIAMSON | "
 name_en: "Max WILLIAMSON"
+name_ja: ""
+slug: "max-williamson"
 position: "LO"
-team: "グラスゴー・ウォリアーズ"
 height: "200.0"
 weight: "120.0"
 birth_date: "2002.08.05"
-age: 23
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/max-williamson"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020 - 2022)
-- Doncaster Knights (2022)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2023)
-- Doncaster Knights (2023)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2023 - )
+## キャリア遍歴
+

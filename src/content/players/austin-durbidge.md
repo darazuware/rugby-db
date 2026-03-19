@@ -1,26 +1,19 @@
 ---
-title: "オースティン・ダービッジ"
+title: "Austin DURBIDGE | "
 name_en: "Austin DURBIDGE"
+name_ja: ""
+slug: "austin-durbidge"
 position: "FL/No8"
-team: "NSWワラタス（ワラターズ）"
 height: "184.0"
 weight: "98.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/austin-durbidge"
 ---
 
-- ワラターズ (2023 - )
+## キャリア遍歴
+

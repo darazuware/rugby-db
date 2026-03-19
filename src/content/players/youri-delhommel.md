@@ -1,31 +1,19 @@
 ---
-title: "ユーリ・デロンメル"
+title: "Youri DELHOMMEL | "
 name_en: "Youri DELHOMMEL"
+name_ja: ""
+slug: "youri-delhommel"
 position: "HO"
-team: "ポー"
-height: "181"
-weight: "101"
+height: "181.0"
+weight: "101.0"
 birth_date: "1996.03.06"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/youri-delhommel"
 ---
 
-- US Ris-Orangis Rugby (2004 - 2010)
-- Rugby Club Massy Essonne (2010 - 2018)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2018)
-- Rugby Club Massy Essonne (2019)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2019 - 2021)
-- Section Paloise Béarn Pyrénées (2021 - )
+## キャリア遍歴
+

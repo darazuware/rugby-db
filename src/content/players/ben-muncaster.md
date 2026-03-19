@@ -1,27 +1,19 @@
 ---
-title: "ベン ・ MUNCASTER"
+title: "Ben MUNCASTER | "
 name_en: "Ben MUNCASTER"
+name_ja: ""
+slug: "ben-muncaster"
 position: "Back row"
-team: "エディンバラ・ラグビー"
 height: "190.0"
 weight: "110.0"
 birth_date: "2001.10.14"
-age: 24
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/ben-muncaster"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2018 - 2020)
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

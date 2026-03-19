@@ -1,27 +1,19 @@
 ---
-title: "ウィリー・ハヴィリ"
+title: "Willy HAVILI | "
 name_en: "Willy HAVILI"
+name_ja: ""
+slug: "willy-havili"
 position: "FB"
-team: "モアナ・パシフィカ"
 height: "187.0"
 weight: "84.0"
 birth_date: "1998.09.09"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/willy-havili"
 ---
 
-- タスマン (2017 - 2025)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2021 - )
+## キャリア遍歴
+

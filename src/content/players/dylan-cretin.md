@@ -1,27 +1,19 @@
 ---
-title: "ディラン・クレタン"
+title: "Dylan CRETIN | "
 name_en: "Dylan CRETIN"
+name_ja: ""
+slug: "dylan-cretin"
 position: "FL/NO8"
-team: "リヨン"
-height: "195"
-weight: "105"
+height: "195.0"
+weight: "105.0"
 birth_date: "1997.05.04"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "France"
+scraped_url: "https://all.rugby/player/dylan-cretin"
 ---
 
-- RC Annemasse (2004 - 2012)
-- Lyon Olympique Universitaire Rugby (2012 - )
+## キャリア遍歴
+

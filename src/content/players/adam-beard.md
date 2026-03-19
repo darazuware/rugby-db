@@ -1,27 +1,19 @@
 ---
-title: "アダム・ビアード"
+title: "Adam BEARD | "
 name_en: "Adam BEARD"
+name_ja: ""
+slug: "adam-beard"
 position: "LO"
-team: "モンペリエ"
-height: "202"
-weight: "121"
+height: "202.0"
+weight: "121.0"
 birth_date: "1996.01.07"
-age: 30
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: "Voir"
-category: ""
-division: ""
+age: null
+country: "Voir"
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/mhr_officiel"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/adam-beard"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2015 - 2025)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2025 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "イーサン・デ・グルート"
+title: "Ethan DE GROOT | "
 name_en: "Ethan DE GROOT"
+name_ja: ""
+slug: "ethan-de-groot"
 position: "PR"
-team: "オタゴ・ハイランダーズ"
 height: "190.0"
 weight: "128.0"
 birth_date: "1998.07.22"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Highlanders"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/ethan-de-groot"
 ---
 
-- サウスランド (2018 - 2024)
-- ハイランダーズ (2019 - )
+## キャリア遍歴
+

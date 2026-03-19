@@ -1,27 +1,19 @@
 ---
-title: "ジェイコブ・デヴェリー"
+title: "Jacob DEVERY | "
 name_en: "Jacob DEVERY"
+name_ja: ""
+slug: "jacob-devery"
 position: "HO"
-team: "ウェリントン・ハリケーンズ"
 height: "180.0"
 weight: "105.0"
 birth_date: "1998.10.21"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/jacob-devery"
 ---
 
-- ホークスベイ (2016 - 2025)
-- ハリケーンズ (2021 - )
+## キャリア遍歴
+

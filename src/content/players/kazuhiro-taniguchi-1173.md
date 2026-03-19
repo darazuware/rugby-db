@@ -1,0 +1,19 @@
+---
+title: "Kazuhiro Taniguchi | "
+name_en: "Kazuhiro Taniguchi"
+name_ja: ""
+slug: "kazuhiro-taniguchi-1173"
+position: "SH"
+height: "164.0"
+weight: "73.0"
+birth_date: "1995.02.05"
+age: 31
+country: ""
+league: "league-one"
+team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
+caps: "0"
+scraped_url: "https://league-one.jp/player/483777"
+---
+
+## キャリア遍歴
+

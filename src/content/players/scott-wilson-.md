@@ -1,26 +1,19 @@
 ---
-title: "スコット ・ WILSON"
+title: "Scott WILSON | "
 name_en: "Scott WILSON"
+name_ja: ""
+slug: "scott-wilson-"
 position: "PR"
-team: "アルスター・ラグビー"
 height: "187.0"
 weight: "125.0"
 birth_date: "2002.08.06"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/scott-wilson-"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2021 - )
+## キャリア遍歴
+

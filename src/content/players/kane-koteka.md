@@ -1,28 +1,19 @@
 ---
-title: "ケイン・コテカ"
+title: "Kane KOTEKA | "
 name_en: "Kane KOTEKA"
+name_ja: ""
+slug: "kane-koteka"
 position: "FL/No8"
-team: "ウェスタン・フォース"
 height: "182.0"
 weight: "100.0"
 birth_date: "1994.01.08"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/kane-koteka"
 ---
 
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2014 - 2026)
-- 🇯🇵 [日本製鉄釜石シーウェイブス](/teams/league-one/kamaishi-seawaves) [D2] (2018 - 2020)
-- sans club (2023 - )
+## キャリア遍歴
+

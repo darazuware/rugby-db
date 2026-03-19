@@ -1,30 +1,19 @@
 ---
-title: "テヴィタ・ラトゥヴァ"
+title: "Tevita RATUVA | "
 name_en: "Tevita RATUVA"
+name_ja: ""
+slug: "tevita-ratuva"
 position: "LO"
-team: "クレルモン"
-height: "199"
-weight: "124"
+height: "199.0"
+weight: "124.0"
 birth_date: "1995.05.08"
-age: 30
-high_school: ""
-university: ""
-caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Fiji"
+scraped_url: "https://all.rugby/player/tevita-ratuva"
 ---
 
-- Brisbane City (2017 - 2018)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2018 - 2019)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2019 - 2021)
-- CA Brive Corrèze Limousin (2021 - 2025)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2025 - )
+## キャリア遍歴
+

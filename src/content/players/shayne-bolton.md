@@ -1,26 +1,19 @@
 ---
-title: "Shayne ・ BOLTON"
+title: "Shayne BOLTON | "
 name_en: "Shayne BOLTON"
+name_ja: ""
+slug: "shayne-bolton"
 position: "Winger"
-team: "コナート・ラグビー"
 height: "188.0"
 weight: "100.0"
 birth_date: "2000.06.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/shayne-bolton"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2021 - )
+## キャリア遍歴
+

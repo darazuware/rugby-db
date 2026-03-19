@@ -1,28 +1,19 @@
 ---
-title: "ピエール・フイサック"
+title: "Pierre FOUYSSAC | "
 name_en: "Pierre FOUYSSAC"
+name_ja: ""
+slug: "pierre-fouyssac"
 position: "CTB"
-team: "クレルモン"
-height: "190"
-weight: "110"
+height: "190.0"
+weight: "110.0"
 birth_date: "1995.03.17"
-age: 31
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/pierre-fouyssac"
 ---
 
-- Sporting Union Agenais (2010 - 2018)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2018 - 2023)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

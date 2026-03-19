@@ -1,26 +1,19 @@
 ---
-title: "ロリー・スコット"
+title: "Rory SCOTT | "
 name_en: "Rory SCOTT"
+name_ja: ""
+slug: "rory-scott"
 position: "FL/No8"
-team: "ACTブランビーズ"
 height: "189.0"
 weight: "100.0"
 birth_date: "2000.09.15"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/rory-scott"
 ---
 
-- ブランビーズ (2019 - )
+## キャリア遍歴
+

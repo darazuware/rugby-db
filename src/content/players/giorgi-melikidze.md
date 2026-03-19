@@ -1,27 +1,19 @@
 ---
-title: "ギオルギ・メリキゼ"
+title: "Giorgi MELIKIDZE | "
 name_en: "Giorgi MELIKIDZE"
+name_ja: ""
+slug: "giorgi-melikidze"
 position: "PR"
-team: "スタッド・フランセ"
-height: "179"
-weight: "117"
+height: "179.0"
+weight: "117.0"
 birth_date: "1996.05.24"
-age: 29
-high_school: ""
-university: ""
-caps: "Georgia"
-league_one_caps: "0"
+age: null
 country: "Georgia"
-nationality: "Georgia"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2015
-has_scores: true
-instagram: "https://www.instagram.com/giorgi_meliqidze/?hl=fr"
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "Georgia"
+scraped_url: "https://all.rugby/player/giorgi-melikidze"
 ---
 
-- RC Rustavi Kharebi (2014 - 2015)
-- Stade Français Paris Rugby (2015 - )
+## キャリア遍歴
+

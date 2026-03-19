@@ -1,28 +1,19 @@
 ---
-title: "トム・アレン"
+title: "Tom ALLEN | "
 name_en: "Tom ALLEN"
+name_ja: ""
+slug: "tom-allen"
 position: "LO"
-team: "ウェリントン・ハリケーンズ"
 height: "197.0"
 weight: "114.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-allen"
 ---
 
-- ホークスベイ (2022 - 2023)
-- ハリケーンズ (2023 - 2026)
-- オークランド (2024 - )
+## キャリア遍歴
+

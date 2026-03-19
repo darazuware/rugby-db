@@ -1,28 +1,19 @@
 ---
-title: "マーヴィン・オクヤ"
+title: "Marvin OKUYA | "
 name_en: "Marvin OKUYA"
+name_ja: ""
+slug: "marvin-okuya"
 position: "FL/NO8"
-team: "リヨン"
-height: "190"
-weight: "110"
+height: "190.0"
+weight: "110.0"
 birth_date: "2003.12.29"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Poids"
-nationality: "Poids"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/marvin-okuya"
 ---
 
-- CSM Gennevilliers Rugby (2015 - 2017)
-- Rugby Club Massy Essonne (2017 - 2021)
-- Lyon Olympique Universitaire Rugby (2021 - )
+## キャリア遍歴
+

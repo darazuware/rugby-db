@@ -1,29 +1,19 @@
 ---
-title: "パディ・ジャクソン"
+title: "Paddy JACKSON | "
 name_en: "Paddy JACKSON"
+name_ja: ""
+slug: "paddy-jackson"
 position: "SO"
-team: "リヨン"
-height: "180"
-weight: "89"
+height: "180.0"
+weight: "89.0"
 birth_date: "1992.01.05"
-age: 34
-high_school: ""
-university: ""
-caps: "Ireland"
-league_one_caps: "0"
-country: "Ireland"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "Ireland"
+scraped_url: "https://all.rugby/player/paddy-jackson"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2013 - 2018)
-- Union Sportive Arlequins Perpignanais (2018 - 2019)
-- London Irish (2019 - 2023)
-- Lyon Olympique Universitaire Rugby (2023 - )
+## キャリア遍歴
+

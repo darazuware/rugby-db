@@ -1,28 +1,19 @@
 ---
-title: "イオアネ・モアナヌ"
+title: "Ioane MOANANU | "
 name_en: "Ioane MOANANU"
+name_ja: ""
+slug: "ioane-moananu"
 position: "HO"
-team: "NSWワラタス（ワラターズ）"
 height: "173.0"
 weight: "113.0"
 birth_date: "2001.02.08"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/ioane-moananu"
 ---
 
-- カウンティーズ・マヌカウ (2021 - 2025)
-- クルセイダーズ (2022 - 2025)
-- ワラターズ (2025 - )
+## キャリア遍歴
+

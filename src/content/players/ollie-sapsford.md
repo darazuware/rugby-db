@@ -1,27 +1,19 @@
 ---
-title: "オリー・サプスフォード"
+title: "Ollie SAPSFORD | "
 name_en: "Ollie SAPSFORD"
+name_ja: ""
+slug: "ollie-sapsford"
 position: "WTB"
-team: "ACTブランビーズ"
 height: "191.0"
 weight: "104.0"
 birth_date: "1995.10.07"
-age: 30
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/ollie-sapsford"
 ---
 
-- ホークスベイ (2018 - 2023)
-- ブランビーズ (2021 - )
+## キャリア遍歴
+

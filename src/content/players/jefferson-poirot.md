@@ -1,28 +1,19 @@
 ---
-title: "ジェファーソン・ポワロ"
+title: "Jefferson POIROT | "
 name_en: "Jefferson POIROT"
+name_ja: ""
+slug: "jefferson-poirot"
 position: "PR"
-team: "ボルドー・ベグル"
-height: "181"
-weight: "117"
+height: "181.0"
+weight: "117.0"
 birth_date: "1992.11.01"
-age: 33
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/jefferson-poirot"
 ---
 
-- US Lalinde (2004 - 2008)
-- CA Brive Corrèze Limousin (2008 - 2012)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2012 - )
+## キャリア遍歴
+

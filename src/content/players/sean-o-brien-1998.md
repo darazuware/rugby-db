@@ -1,28 +1,19 @@
 ---
-title: "Se ・ O'BRIEN"
+title: "Seán O'BRIEN | "
 name_en: "Seán O'BRIEN"
+name_ja: ""
+slug: "sean-o-brien-1998"
 position: "CTB"
-team: "マンスター・ラグビー"
 height: "187.0"
 weight: "101.0"
 birth_date: "1998.05.12"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/sean-o-brien-1998"
 ---
 
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2019 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2021 - 2023)
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2023 - )
+## キャリア遍歴
+

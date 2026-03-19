@@ -1,28 +1,19 @@
 ---
-title: "ニコラ・コラト"
+title: "Nicolas CORATO | "
 name_en: "Nicolas CORATO"
+name_ja: ""
+slug: "nicolas-corato"
 position: "PR"
-team: "カストル"
-height: "184"
-weight: "123"
+height: "184.0"
+weight: "123.0"
 birth_date: "1997.10.07"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/nicolas-corato"
 ---
 
-- Rugby Club Auch (2014 - 2017)
-- Section Paloise Béarn Pyrénées (2017 - 2024)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2024 - )
+## キャリア遍歴
+

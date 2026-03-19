@@ -1,27 +1,19 @@
 ---
-title: "ラヤン・レベル"
+title: "Rayan REBBADJ | "
 name_en: "Rayan REBBADJ"
+name_ja: ""
+slug: "rayan-rebbadj"
 position: "CTB"
-team: "トゥーロン"
-height: "190"
-weight: "100"
+height: "190.0"
+weight: "100.0"
 birth_date: "1999.08.15"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/rayan-rebbadj"
 ---
 
-- RC Port-de-Bouc (2011 - 2018)
-- Rugby Club Toulonnais (2018 - )
+## キャリア遍歴
+

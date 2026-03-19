@@ -1,26 +1,19 @@
 ---
-title: "Teddy ・ ウィリアムズ"
+title: "Teddy WILLIAMS | "
 name_en: "Teddy WILLIAMS"
+name_ja: ""
+slug: "teddy-williams"
 position: "Back row"
-team: "カーディフ・ラグビー"
 height: "200.0"
 weight: "118.0"
 birth_date: "2000.10.18"
-age: 25
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2018
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/teddy-williams"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2018 - )
+## キャリア遍歴
+

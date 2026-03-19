@@ -1,28 +1,19 @@
 ---
-title: "Jake ・ BALL"
+title: "Jake BALL | "
 name_en: "Jake BALL"
+name_ja: ""
+slug: "jake-ball"
 position: "LO"
-team: "スカーレッツ"
 height: "200.0"
 weight: "121.0"
 birth_date: "1991.06.21"
-age: 34
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "England"
+scraped_url: "https://all.rugby/player/jake-ball"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2013 - 2021)
-- Green Rockets Tokatsu (2021 - 2025)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Alex ・ MANN"
+title: "Alex MANN | "
 name_en: "Alex MANN"
+name_ja: ""
+slug: "alex-mann"
 position: "Back row"
-team: "カーディフ・ラグビー"
 height: "191.0"
 weight: "98.0"
 birth_date: "2002.01.06"
-age: 24
-high_school: ""
-university: ""
-caps: "Wales"
-league_one_caps: "0"
-country: "Wales"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "Wales"
+scraped_url: "https://all.rugby/player/alex-mann"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2020 - )
+## キャリア遍歴
+

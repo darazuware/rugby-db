@@ -1,28 +1,19 @@
 ---
-title: "ジョヴァンニ・ハベル＝クエフナー"
+title: "Giovanni HABEL-KUEFFNER | "
 name_en: "Giovanni HABEL-KUEFFNER"
+name_ja: ""
+slug: "giovanni-habel-kueffner"
 position: "FL/NO8"
-team: "バイヨンヌ"
-height: "190"
-weight: "110"
+height: "190.0"
+weight: "110.0"
 birth_date: "1995.01.09"
-age: 31
-high_school: ""
-university: ""
-caps: "Germany"
-league_one_caps: "0"
-country: "Germany"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "Germany"
+scraped_url: "https://all.rugby/player/giovanni-habel-kueffner"
 ---
 
-- Section Paloise Béarn Pyrénées (2015 - 2022)
-- Stade Français Paris Rugby (2022 - 2024)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2024 - )
+## キャリア遍歴
+

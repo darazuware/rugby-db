@@ -1,27 +1,19 @@
 ---
-title: "ハリー・ゴッドフリー"
+title: "Harry GODFREY | "
 name_en: "Harry GODFREY"
+name_ja: ""
+slug: "harry-godfrey"
 position: "SO"
-team: "ウェリントン・ハリケーンズ"
 height: "176.0"
 weight: "88.0"
 birth_date: "2003.01.03"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-godfrey"
 ---
 
-- ホークスベイ (2020 - 2025)
-- ハリケーンズ (2022 - )
+## キャリア遍歴
+

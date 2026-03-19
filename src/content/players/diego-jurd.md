@@ -1,26 +1,19 @@
 ---
-title: "ディエゴ・ジャード"
+title: "Diego JURD | "
 name_en: "Diego JURD"
+name_ja: ""
+slug: "diego-jurd"
 position: "SO"
-team: "ラ・ロシェル"
-height: "184"
-weight: "87"
+height: "184.0"
+weight: "87.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2011
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/diego-jurd"
 ---
 
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2011 - )
+## キャリア遍歴
+

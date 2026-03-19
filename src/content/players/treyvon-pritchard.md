@@ -1,26 +1,19 @@
 ---
-title: "トレイヴォン・プリチャード"
+title: "Treyvon PRITCHARD | "
 name_en: "Treyvon PRITCHARD"
+name_ja: ""
+slug: "treyvon-pritchard"
 position: "FB"
-team: "クイーンズランド・レッズ"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/treyvon-pritchard"
 ---
 
-- レッズ (2025 - )
+## キャリア遍歴
+

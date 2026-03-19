@@ -1,26 +1,19 @@
 ---
-title: "レオ・ミショー"
+title: "Léo MICHAUX | "
 name_en: "Léo MICHAUX"
+name_ja: ""
+slug: "leo-michaux"
 position: "LO"
-team: "クレルモン"
-height: "202"
-weight: "125"
+height: "202.0"
+weight: "125.0"
 birth_date: "//2007"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2012
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/leo-michaux"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2012 - )
+## キャリア遍歴
+

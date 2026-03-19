@@ -1,29 +1,19 @@
 ---
-title: "Huw ・ JONES"
+title: "Huw JONES | "
 name_en: "Huw JONES"
+name_ja: ""
+slug: "huw-jones"
 position: "CTB"
-team: "グラスゴー・ウォリアーズ"
 height: "186.0"
 weight: "102.0"
 birth_date: "1993.12.17"
-age: 32
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Glasgow"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/huw-jones"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2014 - 2016)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2017 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ハーレクインズ](/teams/premiership/harlequins) (2021 - 2022)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2022 - )
+## キャリア遍歴
+

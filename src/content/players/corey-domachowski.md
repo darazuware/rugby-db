@@ -1,26 +1,19 @@
 ---
-title: "Corey ・ DOMACHOWSKI"
+title: "Corey DOMACHOWSKI | "
 name_en: "Corey DOMACHOWSKI"
+name_ja: ""
+slug: "corey-domachowski"
 position: "PR"
-team: "カーディフ・ラグビー"
 height: "183.0"
 weight: "124.0"
 birth_date: "1996.09.19"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2015
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Cardiff"
+caps: "0"
+scraped_url: "https://all.rugby/player/corey-domachowski"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [カーディフ・ラグビー](/teams/urc/cardiff-rugby) (2015 - )
+## キャリア遍歴
+

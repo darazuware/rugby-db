@@ -1,28 +1,19 @@
 ---
-title: "ダン・リエナート＝ブラウン"
+title: "Dan LIENERT-BROWN | "
 name_en: "Dan LIENERT-BROWN"
+name_ja: ""
+slug: "dan-lienert-brown"
 position: "PR"
-team: "オタゴ・ハイランダーズ"
 height: "184.0"
 weight: "117.0"
 birth_date: "1993.02.09"
-age: 33
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/dan-lienert-brown"
 ---
 
-- クルセイダーズ (2013 - 2014)
-- ハイランダーズ (2014 - 2026)
-- カンタベリー (2019 - )
+## キャリア遍歴
+

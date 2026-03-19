@@ -1,29 +1,19 @@
 ---
-title: "レニ・ヌシ"
+title: "Lenni NOUCHI | "
 name_en: "Lenni NOUCHI"
+name_ja: ""
+slug: "lenni-nouchi"
 position: "FL/NO8"
-team: "モンペリエ"
-height: "194"
-weight: "108"
+height: "194.0"
+weight: "108.0"
 birth_date: "2003.11.24"
-age: 22
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: "Voir"
-category: ""
-division: ""
+age: null
+country: "Voir"
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/lenni_nouchi/"
-twitter: "https://twitter.com/MHR_officiel"
-facebook: "https://www.facebook.com/Montpellier.Rugby"
+team: "モンペリエ"
+caps: "France"
+scraped_url: "https://all.rugby/player/lenni-nouchi"
 ---
 
-- Association Sportive Béziers Hérault (2009 - 2011)
-- Servian-Boujan Rugby (2011 - 2014)
-- Association Sportive Béziers Hérault (2014 - 2021)
-- 🇫🇷 [モンペリエ](/teams/top14/montpellier) (2021 - )
+## キャリア遍歴
+

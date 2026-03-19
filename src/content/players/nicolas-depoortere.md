@@ -1,27 +1,19 @@
 ---
-title: "ニコラ・ドゥポルテール"
+title: "Nicolas DEPOORTÈRE | "
 name_en: "Nicolas DEPOORTÈRE"
+name_ja: ""
+slug: "nicolas-depoortere"
 position: "CTB"
-team: "ボルドー・ベグル"
-height: "194"
-weight: "94"
+height: "194.0"
+weight: "94.0"
 birth_date: "2003.01.13"
-age: 23
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/nicolas-depoortere"
 ---
 
-- US Izon (2007 - 2016)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - )
+## キャリア遍歴
+

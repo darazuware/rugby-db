@@ -1,27 +1,19 @@
 ---
-title: "マチュー・ジャリベール"
+title: "Matthieu JALIBERT | "
 name_en: "Matthieu JALIBERT"
+name_ja: ""
+slug: "matthieu-jalibert"
 position: "SO"
-team: "ボルドー・ベグル"
-height: "184"
-weight: "86"
+height: "184.0"
+weight: "86.0"
 birth_date: "1998.11.06"
-age: 27
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2007
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/matthieu-jalibert"
 ---
 
-- ASS Stade Calédonien (2005 - 2007)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2007 - )
+## キャリア遍歴
+

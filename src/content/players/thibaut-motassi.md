@@ -1,27 +1,19 @@
 ---
-title: "ティボー・モタッシ"
+title: "Thibaut MOTASSI | "
 name_en: "Thibaut MOTASSI"
+name_ja: ""
+slug: "thibaut-motassi"
 position: "SH"
-team: "スタッド・フランセ"
-height: "175"
-weight: "79"
+height: "175.0"
+weight: "79.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/stade_francais_paris?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-twitter: "https://x.com/SFParisRugby"
-facebook: "https://www.facebook.com/SFPARIS/"
+team: "スタッド・フランセ"
+caps: "0"
+scraped_url: "https://all.rugby/player/thibaut-motassi"
 ---
 
-- Rueil Athlétic Club Rugby (2013 - 2019)
-- Stade Français Paris Rugby (2019 - )
+## キャリア遍歴
+

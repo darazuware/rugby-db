@@ -1,26 +1,19 @@
 ---
-title: "Stedman ・ GANS"
+title: "Stedman GANS | "
 name_en: "Stedman GANS"
+name_ja: ""
+slug: "stedman-gans"
 position: "CTB"
-team: "ヴォーダコム・ブルズ"
 height: "180.0"
 weight: "99.0"
 birth_date: "1997.03.19"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "0"
+scraped_url: "https://all.rugby/player/stedman-gans"
 ---
 
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2019 - )
+## キャリア遍歴
+

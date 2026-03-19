@@ -1,26 +1,19 @@
 ---
-title: "Kieran ・ ライアン"
+title: "Kieran RYAN | "
 name_en: "Kieran RYAN"
+name_ja: ""
+slug: "kieran-ryan"
 position: "PR"
-team: "マンスター・ラグビー"
 height: "183.0"
 weight: "110.0"
 birth_date: "2002.01.30"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/kieran-ryan"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2021 - )
+## キャリア遍歴
+

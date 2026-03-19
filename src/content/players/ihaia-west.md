@@ -1,31 +1,19 @@
 ---
-title: "イハイア・ウエスト"
+title: "Ihaia WEST | "
 name_en: "Ihaia WEST"
+name_ja: ""
+slug: "ihaia-west"
 position: "SO"
-team: "ラ・ロシェル"
-height: "175"
-weight: "85"
+height: "175.0"
+weight: "85.0"
 birth_date: "1992.01.16"
-age: 34
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Néo"
-nationality: "Néo"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/ihaia_west"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/ihaia-west"
 ---
 
-- Hawke's Bay Magpies (2012 - 2013)
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2013 - 2017)
-- 🇳🇿 [ウェリントン・ハリケーンズ](/teams/super-rugby/hurricanes) (2017 - 2018)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2018 - 2022)
-- Rugby Club Toulonnais (2022 - 2023)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2023 - )
+## キャリア遍歴
+

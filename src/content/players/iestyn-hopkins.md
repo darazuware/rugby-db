@@ -1,26 +1,19 @@
 ---
-title: "Iestyn ・ HOPKINS"
+title: "Iestyn HOPKINS | "
 name_en: "Iestyn HOPKINS"
+name_ja: ""
+slug: "iestyn-hopkins"
 position: "FB"
-team: "オスプリーズ"
 height: "175.0"
 weight: "88.0"
 birth_date: "2002.04.04"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/iestyn-hopkins"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2021 - )
+## キャリア遍歴
+

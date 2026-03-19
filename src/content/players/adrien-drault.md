@@ -1,28 +1,19 @@
 ---
-title: "アドリアン・ドロー"
+title: "Adrien DRAULT | "
 name_en: "Adrien DRAULT"
+name_ja: ""
+slug: "adrien-drault"
 position: "CTB"
-team: "ボルドー・ベグル"
-height: "183"
-weight: "94"
+height: "183.0"
+weight: "94.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/adrien-drault"
 ---
 
-- AS Cénac Latresne (2013 - 2017)
-- Rugby Club de la Pimpine (2017 - 2020)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2020 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Wilhelm ・ デ ・ デクラーク"
+title: "Wilhelm DE KLERK | "
 name_en: "Wilhelm DE KLERK"
+name_ja: ""
+slug: "wilhelm-de-klerk"
 position: "CTB"
-team: "アルスター・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ulster"
+caps: "0"
+scraped_url: "https://all.rugby/player/wilhelm-de-klerk"
 ---
 
-- 🇮🇪 [アルスター・ラグビー](/teams/urc/ulster-rugby) (2024 - )
+## キャリア遍歴
+

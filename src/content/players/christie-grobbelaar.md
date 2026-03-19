@@ -1,28 +1,19 @@
 ---
-title: "Christie ・ GROBBELAAR"
+title: "Christie GROBBELAAR | "
 name_en: "Christie GROBBELAAR"
+name_ja: ""
+slug: "christie-grobbelaar"
 position: "Winger"
-team: "ハリウッドベッツ・シャークス"
 height: "192.0"
 weight: "95.0"
 birth_date: "2000.05.25"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Sharks"
+caps: "0"
+scraped_url: "https://all.rugby/player/christie-grobbelaar"
 ---
 
-- AF. SUD 7's (2020 - 2024)
-- Natal Sharks (2024 - 2025)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2025 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "セバスチャン・ベジー"
+title: "Sébastien BÉZY | "
 name_en: "Sébastien BÉZY"
+name_ja: ""
+slug: "sebastien-bezy"
 position: "SH"
-team: "クレルモン"
-height: "174"
-weight: "78"
+height: "174.0"
+weight: "78.0"
 birth_date: "1991.11.22"
-age: 34
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "France"
+scraped_url: "https://all.rugby/player/sebastien-bezy"
 ---
 
-- COM Bagneux (2004 - 2006)
-- 🇫🇷 [トゥールーズ](/teams/top14/toulouse) (2006 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - )
+## キャリア遍歴
+

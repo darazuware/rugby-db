@@ -1,26 +1,19 @@
 ---
-title: "Dewi ・ LAKE"
+title: "Dewi LAKE | "
 name_en: "Dewi LAKE"
+name_ja: ""
+slug: "dewi-lake"
 position: "HO"
-team: "オスプリーズ"
 height: "185.0"
 weight: "114.0"
 birth_date: "1999.05.16"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Ospreys"
+caps: "0"
+scraped_url: "https://all.rugby/player/dewi-lake"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [オスプリーズ](/teams/urc/ospreys) (2017 - )
+## キャリア遍歴
+

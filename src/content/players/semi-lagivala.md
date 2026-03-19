@@ -1,27 +1,19 @@
 ---
-title: "セミ・ラギヴァラ"
+title: "Semi LAGIVALA | "
 name_en: "Semi LAGIVALA"
+name_ja: ""
+slug: "semi-lagivala"
 position: "CTB"
-team: "ラ・ロシェル"
-height: "190"
-weight: "94"
+height: "190.0"
+weight: "94.0"
 birth_date: "2003.04.06"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Fidjienne"
-nationality: "Fidjienne"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/lagivala13"
-twitter: "https://twitter.com/hashtag/fievresr"
-facebook: "https://www.facebook.com/staderochelais"
+team: "ラ・ロシェル"
+caps: "0"
+scraped_url: "https://all.rugby/player/semi-lagivala"
 ---
 
-- Stade Montois Rugby Pro (2022 - 2025)
-- 🇫🇷 [ラ・ロシェル](/teams/top14/la-rochelle) (2025 - )
+## キャリア遍歴
+

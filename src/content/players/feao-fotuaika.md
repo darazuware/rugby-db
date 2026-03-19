@@ -1,29 +1,19 @@
 ---
-title: "フェアオ・フォトゥアイカ"
+title: "Feao FOTUAIKA | "
 name_en: "Feao FOTUAIKA"
+name_ja: ""
+slug: "feao-fotuaika"
 position: "PR"
-team: "ウェスタン・フォース"
 height: "186.0"
 weight: "135.0"
 birth_date: "1993.04.23"
-age: 32
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Western Force"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/feao-fotuaika"
 ---
 
-- レッズ (2018 - 2022)
-- 🇫🇷 [リヨン](/teams/top14/lyon-ou) (2022 - 2025)
-- ブランビーズ (2024 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+## キャリア遍歴
+

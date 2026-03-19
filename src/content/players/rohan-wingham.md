@@ -1,27 +1,19 @@
 ---
-title: "ロハン・ウィンガム"
+title: "Rohan WINGHAM | "
 name_en: "Rohan WINGHAM"
+name_ja: ""
+slug: "rohan-wingham"
 position: "PR"
-team: "オタゴ・ハイランダーズ"
 height: "189.0"
 weight: "117.0"
 birth_date: "2002.12.04"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/rohan-wingham"
 ---
 
-- オタゴ (2022 - 2025)
-- ハイランダーズ (2023 - )
+## キャリア遍歴
+

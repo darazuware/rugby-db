@@ -1,26 +1,19 @@
 ---
-title: "フランス ・ マルハーバ"
+title: "Frans MALHERBE | "
 name_en: "Frans MALHERBE"
+name_ja: ""
+slug: "frans-malherbe"
 position: "PR"
-team: "DHLストーマーズ"
 height: "190.0"
 weight: "141.0"
 birth_date: "1991.03.14"
-age: 35
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2011
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/frans-malherbe"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2011 - )
+## キャリア遍歴
+

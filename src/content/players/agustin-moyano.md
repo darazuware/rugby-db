@@ -1,28 +1,19 @@
 ---
-title: "アグスティン・モヤノ"
+title: "Agustín MOYANO | "
 name_en: "Agustín MOYANO"
+name_ja: ""
+slug: "agustin-moyano"
 position: "SH"
-team: "ウェスタン・フォース"
 height: "173.0"
 weight: "75.0"
 birth_date: "2003.06.12"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Western Force"
+caps: "0"
+scraped_url: "https://all.rugby/player/agustin-moyano"
 ---
 
-- Cordoba Athletic Club (2022 - 2023)
-- Dogos XV (2023 - 2025)
-- 🇦🇺 [ウェスタン・フォース](/teams/super-rugby/western-force) (2025 - )
+## キャリア遍歴
+

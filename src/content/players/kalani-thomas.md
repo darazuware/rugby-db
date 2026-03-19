@@ -1,27 +1,19 @@
 ---
-title: "カラニ・トーマス"
+title: "Kalani THOMAS | "
 name_en: "Kalani THOMAS"
+name_ja: ""
+slug: "kalani-thomas"
 position: "SH"
-team: "クイーンズランド・レッズ"
 height: "178.0"
 weight: "91.0"
 birth_date: "2002.04.18"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/kalani-thomas"
 ---
 
-- レッズ (2019 - 2026)
-- オークランド (2022 - )
+## キャリア遍歴
+

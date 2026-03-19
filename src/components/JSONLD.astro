@@ -19,6 +19,11 @@ if (type === "SportsPlayer") {
         "height": data.height ? `${data.height} cm` : undefined,
         "weight": data.weight ? `${data.weight} kg` : undefined,
         "birthDate": data.birth_date,
+        "nationality": data.nationality ? {
+            "@type": "Country",
+            "name": data.nationality
+        } : undefined,
+        "gender": "https://schema.org/Male",
         "memberOf": {
             "@type": "SportsTeam",
             "name": data.team

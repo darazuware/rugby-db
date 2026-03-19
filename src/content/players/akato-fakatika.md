@@ -1,27 +1,19 @@
 ---
-title: "アカト・ファカティカ"
+title: "Akato FAKATIKA | "
 name_en: "Akato FAKATIKA"
+name_ja: ""
+slug: "akato-fakatika"
 position: "PR"
-team: "ペルピニャン"
-height: "180"
-weight: "123"
+height: "180.0"
+weight: "123.0"
 birth_date: "2001.01.31"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "French"
-nationality: "French"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/akato-fakatika"
 ---
 
-- Racing Club Narbonnais (2017 - 2018)
-- Union Sportive Arlequins Perpignanais (2018 - )
+## キャリア遍歴
+

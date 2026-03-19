@@ -1,28 +1,19 @@
 ---
-title: "シピリ・ファラテア"
+title: "Sipili FALATEA | "
 name_en: "Sipili FALATEA"
+name_ja: ""
+slug: "sipili-falatea"
 position: "PR"
-team: "ボルドー・ベグル"
-height: "183"
-weight: "116"
+height: "183.0"
+weight: "116.0"
 birth_date: "1997.06.06"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "France"
+scraped_url: "https://all.rugby/player/sipili-falatea"
 ---
 
-- US Colomiers (2015 - 2017)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2017 - 2022)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2022 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ハンター・パイサミ"
+title: "Hunter PAISAMI | "
 name_en: "Hunter PAISAMI"
+name_ja: ""
+slug: "hunter-paisami"
 position: "CTB"
-team: "クイーンズランド・レッズ"
 height: "172.0"
 weight: "91.0"
 birth_date: "1998.04.10"
-age: 27
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "Samoa"
-league_one_caps: "0"
-country: "Samoa"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2019
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/hunter-paisami"
 ---
 
-- ブリスベン・シティ (2018 - 2019)
-- レッズ (2019 - )
+## キャリア遍歴
+

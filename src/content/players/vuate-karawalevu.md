@@ -1,33 +1,19 @@
 ---
-title: "ヴアテ・カラワレヴ"
+title: "Vuate KARAWALEVU | "
 name_en: "Vuate KARAWALEVU"
+name_ja: ""
+slug: "vuate-karawalevu"
 position: "WTB"
-team: "カストル"
-height: "193"
-weight: "104"
+height: "193.0"
+weight: "104.0"
 birth_date: "2001.03.15"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Fidjien"
-nationality: "Fidjien"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/vuate-karawalevu"
 ---
 
-- North Sydney Bears (2021)
-- Sydney Roosters (2021)
-- North Sydney Bears (2022)
-- Sydney Roosters (2022)
-- West Harbour RFC (2022 - 2023)
-- New South Wales Waratahs (2023 - 2024)
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - 2025)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2025 - )
+## キャリア遍歴
+

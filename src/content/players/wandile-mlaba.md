@@ -1,27 +1,19 @@
 ---
-title: "Wandile ・ MLABA"
+title: "Wandile MLABA | "
 name_en: "Wandile MLABA"
+name_ja: ""
+slug: "wandile-mlaba"
 position: "Back row"
-team: "DHLストーマーズ"
 height: "191.0"
 weight: "102.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/wandile-mlaba"
 ---
 
-- Western Province (2024 - 2025)
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2025 - )
+## キャリア遍歴
+

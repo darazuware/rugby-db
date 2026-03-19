@@ -1,28 +1,19 @@
 ---
-title: "ジョーディー・バレット"
+title: "Jordie BARRETT | "
 name_en: "Jordie BARRETT"
+name_ja: ""
+slug: "jordie-barrett"
 position: "CTB"
-team: "ウェリントン・ハリケーンズ"
 height: "196.0"
 weight: "102.0"
 birth_date: "1997.02.17"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Hurricanes"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/jordie-barrett"
 ---
 
-- ハリケーンズ (2016 - 2026)
-- タラナキ (2019 - 2020)
-- レンスター (2024 - )
+## キャリア遍歴
+

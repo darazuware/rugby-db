@@ -1,26 +1,19 @@
 ---
-title: "Ruadh ・ QUINN"
+title: "Ruadhán QUINN | "
 name_en: "Ruadhán QUINN"
+name_ja: ""
+slug: "ruadhan-quinn"
 position: "Back row"
-team: "マンスター・ラグビー"
 height: "191.0"
 weight: "113.0"
 birth_date: "2003.10.17"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/ruadhan-quinn"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2022 - )
+## キャリア遍歴
+

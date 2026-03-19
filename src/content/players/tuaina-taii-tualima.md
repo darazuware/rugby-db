@@ -1,30 +1,19 @@
 ---
-title: "トゥアイナ・タイイ・トゥアリマ"
+title: "Tuaina Taii TUALIMA | "
 name_en: "Tuaina Taii TUALIMA"
+name_ja: ""
+slug: "tuaina-taii-tualima"
 position: "LO"
-team: "ACTブランビーズ"
 height: "193.0"
 weight: "100.0"
 birth_date: "1997.06.01"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/tuaina-taii-tualima"
 ---
 
-- ブリスベン・シティ (2018 - 2019)
-- レッズ (2019 - 2022)
-- 🇦🇺 メルボルン・レベルズ (2022 - 2024)
-- オークランド (2023 - 2024)
-- ブランビーズ (2024 - )
+## キャリア遍歴
+

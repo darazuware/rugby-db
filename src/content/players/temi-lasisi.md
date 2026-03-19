@@ -1,27 +1,19 @@
 ---
-title: "Temi ・ LASISI"
+title: "Temi LASISI | "
 name_en: "Temi LASISI"
+name_ja: ""
+slug: "temi-lasisi"
 position: "PR"
-team: "コナート・ラグビー"
 height: "183.0"
 weight: "125.0"
 birth_date: "2001.05.09"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Connacht"
+caps: "0"
+scraped_url: "https://all.rugby/player/temi-lasisi"
 ---
 
-- 🇮🇪 [レンスター・ラグビー](/teams/urc/leinster-rugby) (2020 - 2024)
-- 🇮🇪 [コナート・ラグビー](/teams/urc/connacht-rugby) (2024 - )
+## キャリア遍歴
+

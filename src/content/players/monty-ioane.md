@@ -1,30 +1,19 @@
 ---
-title: "モンティ・イオアネ"
+title: "Monty IOANE | "
 name_en: "Monty IOANE"
+name_ja: ""
+slug: "monty-ioane"
 position: "WTB"
-team: "リヨン"
-height: "180"
-weight: "95"
+height: "180.0"
+weight: "95.0"
 birth_date: "1994.10.30"
-age: 31
-high_school: ""
-university: ""
-caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: "Poids"
-category: ""
-division: ""
+age: null
+country: "Poids"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/lourugby1896/?hl=fr"
-twitter: "https://twitter.com/lelourugby?lang=fr"
-facebook: "https://www.facebook.com/LOU.Rugby/"
+team: "リヨン"
+caps: "Australia"
+scraped_url: "https://all.rugby/player/monty-ioane"
 ---
 
-- Stade Français Paris Rugby (2013 - 2015)
-- Bay of Plenty Steamers (2015 - 2017)
-- 🇮🇹 [ベネットン・ラグビー・トレヴィーゾ](/teams/urc/benetton-rugby-trevise) (2017 - 2022)
-- 🇦🇺 メルボルン・レベルズ (2022 - 2023)
-- Lyon Olympique Universitaire Rugby (2023 - )
+## キャリア遍歴
+

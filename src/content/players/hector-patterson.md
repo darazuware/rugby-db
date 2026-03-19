@@ -1,27 +1,19 @@
 ---
-title: "Hector ・ PATTERSON"
+title: "Hector PATTERSON | "
 name_en: "Hector PATTERSON"
+name_ja: ""
+slug: "hector-patterson"
 position: "SH"
-team: "エディンバラ・ラグビー"
 height: "182.0"
 weight: "87.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/hector-patterson"
 ---
 
-- Watsonian Rugby Club (2022 - 2023)
-- Edimbourg Rugby (2023 - )
+## キャリア遍歴
+

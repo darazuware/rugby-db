@@ -1,26 +1,19 @@
 ---
-title: "Max ・ CLEIN"
+title: "Max CLEIN | "
 name_en: "Max CLEIN"
+name_ja: ""
+slug: "max-clein"
 position: "HO"
-team: "マンスター・ラグビー"
 height: "183.0"
 weight: "108.0"
 birth_date: "2003.09.16"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Munster"
+caps: "0"
+scraped_url: "https://all.rugby/player/max-clein"
 ---
 
-- 🇮🇪 [マンスター・ラグビー](/teams/urc/munster-rugby) (2022 - )
+## キャリア遍歴
+

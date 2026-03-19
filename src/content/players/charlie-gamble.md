@@ -1,28 +1,19 @@
 ---
-title: "チャーリー・ギャンブル"
+title: "Charlie GAMBLE | "
 name_en: "Charlie GAMBLE"
+name_ja: ""
+slug: "charlie-gamble"
 position: "FL/No8"
-team: "NSWワラタス（ワラターズ）"
 height: "185.0"
 weight: "107.0"
 birth_date: "1996.04.25"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Waratahs"
+caps: "0"
+scraped_url: "https://all.rugby/player/charlie-gamble"
 ---
 
-- Sydney (2018 - 2019)
-- ワラターズ (2019 - 2026)
-- Northern Suburbs RFC (2020 - )
+## キャリア遍歴
+

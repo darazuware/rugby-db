@@ -1,27 +1,19 @@
 ---
-title: "ウォレス・シティティ"
+title: "Wallace SITITI | "
 name_en: "Wallace SITITI"
+name_ja: ""
+slug: "wallace-sititi"
 position: "FL/No8"
-team: "ワイカト・チーフス"
 height: "185.0"
 weight: "113.0"
 birth_date: "2002.09.07"
-age: 23
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/wallace-sititi"
 ---
 
-- ノース・ハーバー (2021 - 2024)
-- チーフス (2023 - )
+## キャリア遍歴
+

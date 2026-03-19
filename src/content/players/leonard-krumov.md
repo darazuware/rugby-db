@@ -1,26 +1,19 @@
 ---
-title: "Leonard ・ KRUMOV"
+title: "Leonard KRUMOV | "
 name_en: "Leonard KRUMOV"
+name_ja: ""
+slug: "leonard-krumov"
 position: "LO"
-team: "ゼブレ・パルマ"
 height: "198.0"
 weight: "120.0"
 birth_date: "1996.05.01"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2017
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Zebre"
+caps: "0"
+scraped_url: "https://all.rugby/player/leonard-krumov"
 ---
 
-- 🇮🇹 [ゼブレ・パルマ](/teams/urc/zebre-parma) (2017 - )
+## キャリア遍歴
+

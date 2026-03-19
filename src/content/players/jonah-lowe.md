@@ -1,29 +1,19 @@
 ---
-title: "ジョナ・ロウ"
+title: "Jonah LOWE | "
 name_en: "Jonah LOWE"
+name_ja: ""
+slug: "jonah-lowe"
 position: "WTB"
-team: "オタゴ・ハイランダーズ"
 height: "184.0"
 weight: "92.0"
 birth_date: "1996.05.09"
-age: 29
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Highlanders"
+caps: "0"
+scraped_url: "https://all.rugby/player/jonah-lowe"
 ---
 
-- ハリケーンズ (2017 - 2020)
-- ホークスベイ (2019 - 2025)
-- チーフス (2020 - 2022)
-- ハイランダーズ (2022 - )
+## キャリア遍歴
+

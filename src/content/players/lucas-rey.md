@@ -1,26 +1,19 @@
 ---
-title: "ルカス・レイ"
+title: "Lucas REY | "
 name_en: "Lucas REY"
+name_ja: ""
+slug: "lucas-rey"
 position: "HO"
-team: "ポー"
-height: "175"
-weight: "98"
+height: "175.0"
+weight: "98.0"
 birth_date: "1997.04.27"
-age: 28
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2004
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/lucas-rey"
 ---
 
-- Section Paloise Béarn Pyrénées (2004 - )
+## キャリア遍歴
+

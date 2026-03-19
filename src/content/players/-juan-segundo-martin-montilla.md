@@ -1,26 +1,19 @@
 ---
-title: "フアン・マルティン・モンティージャ"
+title: "Juan MARTÍN MONTILLA | "
 name_en: "Juan MARTÍN MONTILLA"
+name_ja: ""
+slug: "-juan-segundo-martin-montilla"
 position: "SO"
-team: "クレルモン"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "//2007"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/-juan-segundo-martin-montilla"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2023 - )
+## キャリア遍歴
+

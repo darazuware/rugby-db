@@ -1,26 +1,19 @@
 ---
-title: "リンントン・イエリ"
+title: "Lington IELI | "
 name_en: "Lington IELI"
+name_ja: ""
+slug: "lington-ieli"
 position: "PR"
-team: "ACTブランビーズ"
 height: "183.0"
 weight: "122.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/lington-ieli"
 ---
 
-- ブランビーズ (2023 - )
+## キャリア遍歴
+

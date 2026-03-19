@@ -1,27 +1,19 @@
 ---
-title: "ナイル ・ ARMSTRONG"
+title: "Niall ARMSTRONG | "
 name_en: "Niall ARMSTRONG"
+name_ja: ""
+slug: "niall-armstrong"
 position: "SH"
-team: "ドラゴンズ・ラグビー"
 height: "182.0"
 weight: "85.0"
 birth_date: "1999.08.19"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/niall-armstrong"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2025)
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

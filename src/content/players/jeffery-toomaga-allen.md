@@ -1,29 +1,19 @@
 ---
-title: "ジェフリー・トゥーマガ＝アレン"
+title: "Jeffery TOOMAGA-ALLEN | "
 name_en: "Jeffery TOOMAGA-ALLEN"
+name_ja: ""
+slug: "jeffery-toomaga-allen"
 position: "PR"
-team: "クイーンズランド・レッズ"
 height: "192.0"
 weight: "125.0"
 birth_date: "1990.11.19"
-age: 35
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Reds"
 caps: "New Zealand"
-league_one_caps: "0"
-country: "New Zealand"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/jeffery-toomaga-allen"
 ---
 
-- ハリケーンズ (2013 - 2019)
-- ワスプス (2019 - 2022)
-- アルスター (2022 - 2023)
-- レッズ (2023 - )
+## キャリア遍歴
+

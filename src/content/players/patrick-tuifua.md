@@ -1,28 +1,19 @@
 ---
-title: "パトリック・ツイフア"
+title: "Patrick TUIFUA | "
 name_en: "Patrick TUIFUA"
+name_ja: ""
+slug: "patrick-tuifua"
 position: "FL/NO8"
-team: "トゥーロン"
-height: "191"
-weight: "113"
+height: "191.0"
+weight: "113.0"
 birth_date: "//2004"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/patrick-tuifua"
 ---
 
-- Jeunesse Sports et Loisirs De Normandie (2013 - 2020)
-- Hawke's Bay Magpies (2022 - 2025)
-- Rugby Club Toulonnais (2025 - )
+## キャリア遍歴
+

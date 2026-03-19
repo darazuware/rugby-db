@@ -1,27 +1,19 @@
 ---
-title: "サシャ・ゼゲール"
+title: "Sacha ZEGUEUR | "
 name_en: "Sacha ZEGUEUR"
+name_ja: ""
+slug: "sacha-zegueur"
 position: "FL/NO8"
-team: "ポー"
-height: "192"
-weight: "108"
+height: "192.0"
+weight: "108.0"
 birth_date: "1999.06.21"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/sacha-zegueur"
 ---
 
-- Oyonnax Rugby (2010 - 2022)
-- Section Paloise Béarn Pyrénées (2022 - )
+## キャリア遍歴
+

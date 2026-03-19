@@ -1,27 +1,19 @@
 ---
-title: "Cameron ・ HANEKOM"
+title: "Cameron HANEKOM | "
 name_en: "Cameron HANEKOM"
+name_ja: ""
+slug: "cameron-hanekom"
 position: "Back row"
-team: "ヴォーダコム・ブルズ"
 height: "193.0"
 weight: "110.0"
 birth_date: "2002.05.10"
-age: 23
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "urc"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Bulls"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/cameron-hanekom"
 ---
 
-- Blue Bulls (2021 - 2022)
-- 🇿🇦 [ヴォーダコム・ブルズ](/teams/urc/vodacom-bulls) (2022 - )
+## キャリア遍歴
+

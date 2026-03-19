@@ -1,26 +1,19 @@
 ---
-title: "Harry ・ PATERSON"
+title: "Harry PATERSON | "
 name_en: "Harry PATERSON"
+name_ja: ""
+slug: "harry-paterson"
 position: "FB"
-team: "エディンバラ・ラグビー"
 height: "191.0"
 weight: "93.0"
 birth_date: "2001.06.28"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/harry-paterson"
 ---
 
-- Edimbourg Rugby (2020 - )
+## キャリア遍歴
+

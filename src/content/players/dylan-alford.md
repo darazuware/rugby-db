@@ -1,26 +1,19 @@
 ---
-title: "Dylan ・ ALFORD"
+title: "Dylan ALFORD | "
 name_en: "Dylan ALFORD"
+name_ja: ""
+slug: "dylan-alford"
 position: "LO"
-team: "スカーレッツ"
 height: "198.0"
-weight: ""
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/dylan-alford"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

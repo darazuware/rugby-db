@@ -1,27 +1,19 @@
 ---
-title: "サミペニ・フィナウ"
+title: "Samipeni FINAU | "
 name_en: "Samipeni FINAU"
+name_ja: ""
+slug: "samipeni-finau"
 position: "FL/No8"
-team: "ワイカト・チーフス"
 height: "196.0"
 weight: "115.0"
 birth_date: "1999.05.10"
-age: 26
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Chiefs"
 caps: "Tonga"
-league_one_caps: "0"
-country: "Tonga"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/samipeni-finau"
 ---
 
-- ワイカト (2018 - 2025)
-- チーフス (2020 - )
+## キャリア遍歴
+

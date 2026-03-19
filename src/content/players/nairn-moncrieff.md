@@ -1,27 +1,19 @@
 ---
-title: "Nairn ・ MONCRIEFF"
+title: "Nairn MONCRIEFF | "
 name_en: "Nairn MONCRIEFF"
+name_ja: ""
+slug: "nairn-moncrieff"
 position: "Winger"
-team: "エディンバラ・ラグビー"
 height: "178.0"
 weight: "89.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/nairn-moncrieff"
 ---
 
-- Gala Rugby (2023 - 2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

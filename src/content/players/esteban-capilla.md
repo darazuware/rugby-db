@@ -1,29 +1,19 @@
 ---
-title: "エステバン・カピジャ"
+title: "Esteban CAPILLA | "
 name_en: "Esteban CAPILLA"
+name_ja: ""
+slug: "esteban-capilla"
 position: "FL/NO8"
-team: "バイヨンヌ"
-height: "198"
-weight: "100"
+height: "198.0"
+weight: "100.0"
 birth_date: "2003.01.05"
-age: 23
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "バイヨンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/esteban-capilla"
 ---
 
-- AS Bayonne (2010 - 2013)
-- US Mouguerre (2013 - 2015)
-- AS Sain-Martin-de-Seignanx (2015 - 2016)
-- 🇫🇷 [バイヨンヌ](/teams/top14/aviron-bayonnais) (2016 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "リアム・クームズ＝フェイブリング"
+title: "Liam COOMBES-FABLING | "
 name_en: "Liam COOMBES-FABLING"
+name_ja: ""
+slug: "liam-coombes-fabling"
 position: "WTB"
-team: "ワイカト・チーフス"
 height: "180.0"
 weight: "86.0"
 birth_date: "1998.07.07"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2022
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/liam-coombes-fabling"
 ---
 
-- ワイカト (2019 - 2025)
-- ハイランダーズ (2021 - 2022)
-- チーフス (2022 - )
+## キャリア遍歴
+

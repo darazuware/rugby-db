@@ -1,28 +1,19 @@
 ---
-title: "フリアン・モントージャ"
+title: "Julián MONTOYA | "
 name_en: "Julián MONTOYA"
+name_ja: ""
+slug: "julian-montoya"
 position: "HO"
-team: "ポー"
-height: "183"
-weight: "113"
+height: "183.0"
+weight: "113.0"
 birth_date: "1993.10.29"
-age: 32
-high_school: ""
-university: ""
-caps: "Argentina"
-league_one_caps: "0"
-country: "Argentina"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "Argentina"
+scraped_url: "https://all.rugby/player/julian-montoya"
 ---
 
-- Jaguares (2015 - 2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2020 - 2025)
-- Section Paloise Béarn Pyrénées (2025 - )
+## キャリア遍歴
+

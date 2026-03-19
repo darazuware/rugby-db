@@ -1,27 +1,19 @@
 ---
-title: "ニック・ライナー"
+title: "Nic LYNAGH | "
 name_en: "Nic LYNAGH"
+name_ja: ""
+slug: "nick-lynagh"
 position: "WTB"
-team: "クイーンズランド・レッズ"
 height: "183.0"
 weight: "88.0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-lynagh"
 ---
 
-- レッズ (2025 - 2026)
-- ハレクインズ (2025 - )
+## キャリア遍歴
+

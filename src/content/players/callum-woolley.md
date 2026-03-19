@@ -1,26 +1,19 @@
 ---
-title: "Callum ・ WOOLLEY"
+title: "Callum WOOLLEY | "
 name_en: "Callum WOOLLEY"
+name_ja: ""
+slug: "callum-woolley"
 position: "Winger"
-team: "スカーレッツ"
 height: "193.0"
-weight: ""
+weight: "0"
 birth_date: ""
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/callum-woolley"
 ---
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

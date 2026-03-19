@@ -1,32 +1,19 @@
 ---
-title: "ジャン＝リュック・デュ・プリーツ"
+title: "Jean-Luc DU PREEZ | "
 name_en: "Jean-Luc DU PREEZ"
+name_ja: ""
+slug: "jean-luc-du-preez"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "194"
-weight: "114"
+height: "194.0"
+weight: "114.0"
 birth_date: "1995.08.05"
-age: 30
-high_school: ""
-university: ""
-caps: "South Africa"
-league_one_caps: "0"
-country: "South Africa"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2025
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "South Africa"
+scraped_url: "https://all.rugby/player/jean-luc-du-preez"
 ---
 
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2015 - 2018)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2018)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2018)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019)
-- 🇿🇦 [ハリウッドベッツ・シャークス](/teams/urc/hollywoodbets-sharks) (2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [セール・シャークス](/teams/premiership/sale-sharks) (2019 - 2025)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2025 - )
+## キャリア遍歴
+

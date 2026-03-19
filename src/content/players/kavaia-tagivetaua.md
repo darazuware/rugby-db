@@ -1,26 +1,19 @@
 ---
-title: "カヴァイア・タギヴェタウア"
+title: "Kavaia TAGIVETAUA | "
 name_en: "Kavaia TAGIVETAUA"
+name_ja: ""
+slug: "kavaia-tagivetaua"
 position: "HO"
-team: "フィジアン・ドゥルア"
 height: "180.0"
 weight: "113.0"
 birth_date: "2003.06.05"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Fijian Drua"
+caps: "0"
+scraped_url: "https://all.rugby/player/kavaia-tagivetaua"
 ---
 
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2024 - )
+## キャリア遍歴
+

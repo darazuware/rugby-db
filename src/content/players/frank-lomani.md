@@ -1,28 +1,19 @@
 ---
-title: "フランク・ロマニ"
+title: "Frank LOMANI | "
 name_en: "Frank LOMANI"
+name_ja: ""
+slug: "frank-lomani"
 position: "SH"
-team: "フィジアン・ドゥルア"
 height: "180.0"
 weight: "81.0"
 birth_date: "1996.04.18"
-age: 29
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Fijian Drua"
 caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2021
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/frank-lomani"
 ---
 
-- 🇫🇯 [フィジアン・ドゥルア](/teams/super-rugby/fijian-drua) (2018 - 2026)
-- 🇦🇺 メルボルン・レベルズ (2019 - 2021)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ノーサンプトン・セインツ](/teams/premiership/northampton-saints) (2021 - )
+## キャリア遍歴
+

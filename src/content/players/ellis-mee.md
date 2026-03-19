@@ -1,27 +1,19 @@
 ---
-title: "Ellis ・ MEE"
+title: "Ellis MEE | "
 name_en: "Ellis MEE"
+name_ja: ""
+slug: "ellis-mee"
 position: "Winger"
-team: "スカーレッツ"
 height: "193.0"
 weight: "92.0"
 birth_date: "2003.10.06"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Scarlets"
+caps: "0"
+scraped_url: "https://all.rugby/player/ellis-mee"
 ---
 
-- Nottingham Rugby (2023 - 2024)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [スカーレッツ](/teams/urc/scarlets) (2024 - )
+## キャリア遍歴
+

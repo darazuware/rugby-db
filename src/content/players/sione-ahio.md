@@ -1,27 +1,19 @@
 ---
-title: "シオネ・アヒオ"
+title: "Sione AHIO | "
 name_en: "Sione AHIO"
+name_ja: ""
+slug: "sione-ahio"
 position: "PR"
-team: "ワイカト・チーフス"
 height: "185.0"
 weight: "121.0"
 birth_date: "2001.01.29"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/sione-ahio"
 ---
 
-- オークランド (2020 - 2024)
-- チーフス (2023 - )
+## キャリア遍歴
+

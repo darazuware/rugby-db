@@ -1,27 +1,19 @@
 ---
-title: "ハーヴェイ・コーデュークス"
+title: "Harvey CORDUKES | "
 name_en: "Harvey CORDUKES"
+name_ja: ""
+slug: "harvey-cordukes"
 position: "LO"
-team: "ACTブランビーズ"
 height: "202.0"
 weight: "115.0"
 birth_date: "2004.."
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Brumbies"
+caps: "0"
+scraped_url: "https://all.rugby/player/harvey-cordukes"
 ---
 
-- ブランビーズ (2023 - 2026)
-- Provence Rugby (2024 - )
+## キャリア遍歴
+

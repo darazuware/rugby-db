@@ -1,27 +1,19 @@
 ---
-title: "ジョージ・ブレイク"
+title: "George BLAKE | "
 name_en: "George BLAKE"
+name_ja: ""
+slug: "george-blake"
 position: "PR"
-team: "クイーンズランド・レッズ"
 height: "184.0"
 weight: "113.0"
 birth_date: "2001.06.11"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/george-blake"
 ---
 
-- レッズ (2021 - 2026)
-- マナワツ (2023 - )
+## キャリア遍歴
+

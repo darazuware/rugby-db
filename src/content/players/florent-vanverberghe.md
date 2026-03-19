@@ -1,27 +1,19 @@
 ---
-title: "フロラン・ヴァンヴェルベルグ"
+title: "Florent VANVERBERGHE | "
 name_en: "Florent VANVERBERGHE"
+name_ja: ""
+slug: "florent-vanverberghe"
 position: "LO"
-team: "カストル"
-height: "198"
-weight: "120"
+height: "198.0"
+weight: "120.0"
 birth_date: "2000.07.22"
-age: 25
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Français"
-nationality: "Français"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/castresolympique/"
-twitter: "https://twitter.com/CastresRugby"
-facebook: "https://www.facebook.com/CastresOlympiqueOfficiel"
+team: "カストル"
+caps: "0"
+scraped_url: "https://all.rugby/player/florent-vanverberghe"
 ---
 
-- Rugby Club Toulonnais (2006 - 2020)
-- 🇫🇷 [カストル](/teams/top14/castres-olympique) (2020 - )
+## キャリア遍歴
+

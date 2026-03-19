@@ -1,27 +1,19 @@
 ---
-title: "マティアス・ハラガフ"
+title: "Matthias HALAGAHU | "
 name_en: "Matthias HALAGAHU"
+name_ja: ""
+slug: "matthias-halagahu"
 position: "LO"
-team: "トゥーロン"
-height: "194"
-weight: "117"
+height: "194.0"
+weight: "117.0"
 birth_date: "2001.08.15"
-age: 24
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2016
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "France"
+scraped_url: "https://all.rugby/player/matthias-halagahu"
 ---
 
-- CA Fréjus Saint-Raphaël (2006 - 2016)
-- Rugby Club Toulonnais (2016 - )
+## キャリア遍歴
+

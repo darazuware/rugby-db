@@ -1,28 +1,19 @@
 ---
-title: "クリスティアン・オジョヴァン"
+title: "Cristian OJOVAN | "
 name_en: "Cristian OJOVAN"
+name_ja: ""
+slug: "cristian-ojovan"
 position: "PR"
-team: "クレルモン"
-height: "183"
-weight: "120"
+height: "183.0"
+weight: "120.0"
 birth_date: "1997.01.04"
-age: 29
-high_school: ""
-university: ""
-caps: "Moldova"
-league_one_caps: "0"
-country: "Moldova"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "Moldova"
+scraped_url: "https://all.rugby/player/cristian-ojovan"
 ---
 
-- Section Paloise Béarn Pyrénées (2016 - 2017)
-- Stade Aurillacois Cantal Auvergne (2017 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020 - )
+## キャリア遍歴
+

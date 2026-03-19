@@ -1,27 +1,19 @@
 ---
-title: "アイサケ・バカシウオラ"
+title: "Aisake VAKASIUOLA | "
 name_en: "Aisake VAKASIUOLA"
+name_ja: ""
+slug: "aisake-vakasiuola"
 position: "LO"
-team: "ワイカト・チーフス"
 height: "197.0"
 weight: "122.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Chiefs"
+caps: "0"
+scraped_url: "https://all.rugby/player/aisake-vakasiuola"
 ---
 
-- ベイ・オブ・プレンティ (2023 - 2025)
-- チーフス (2024 - )
+## キャリア遍歴
+

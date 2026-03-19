@@ -1,27 +1,19 @@
 ---
-title: "トレヴァー・キング"
+title: "Trevor KING | "
 name_en: "Trevor KING"
+name_ja: ""
+slug: "trevor-king"
 position: "PR"
-team: "クイーンズランド・レッズ"
 height: "193.0"
 weight: "127.0"
 birth_date: "2005.."
-age: 21
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/trevor-king"
 ---
 
-- Souths Rugby (2022 - 2023)
-- レッズ (2023 - )
+## キャリア遍歴
+

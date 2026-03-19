@@ -1,28 +1,19 @@
 ---
-title: "アイザック・ヘンリー"
+title: "Isaac HENRY | "
 name_en: "Isaac HENRY"
+name_ja: ""
+slug: "isaac-henry"
 position: "SO"
-team: "クイーンズランド・レッズ"
 height: "183.0"
 weight: "94.0"
 birth_date: "1999.03.08"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/isaac-henry"
 ---
 
-- ブリスベン・シティ (2018 - 2019)
-- West Brisbane Bulldogs (2019 - 2020)
-- レッズ (2020 - )
+## キャリア遍歴
+

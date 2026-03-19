@@ -1,26 +1,19 @@
 ---
-title: "ルカス・デセーニュ"
+title: "Lucas DESSAIGNE | "
 name_en: "Lucas DESSAIGNE"
+name_ja: ""
+slug: "lucas-dessaigne"
 position: "FL/NO8"
-team: "クレルモン"
-height: "188"
-weight: "102"
+height: "188.0"
+weight: "102.0"
 birth_date: "1999.02.07"
-age: 27
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2014
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "クレルモン"
+caps: "0"
+scraped_url: "https://all.rugby/player/lucas-dessaigne"
 ---
 
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2014 - )
+## キャリア遍歴
+

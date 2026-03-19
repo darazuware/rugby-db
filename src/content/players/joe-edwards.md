@@ -1,29 +1,19 @@
 ---
-title: "ジョー・エドワーズ"
+title: "Joe EDWARDS | "
 name_en: "Joe EDWARDS"
+name_ja: ""
+slug: "joe-edwards"
 position: "FL/NO8"
-team: "ヴァンヌ"
-height: "194"
-weight: "116"
+height: "194.0"
+weight: "116.0"
 birth_date: "1993.09.21"
-age: 32
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "Zealander"
-nationality: "Zealander"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2020
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ヴァンヌ"
+caps: "0"
+scraped_url: "https://all.rugby/player/joe-edwards"
 ---
 
-- 🇳🇿 [オークランド・ブルーズ](/teams/super-rugby/blues) (2014 - 2016)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2016 - 2017)
-- Provence Rugby (2017 - 2020)
-- Rugby Club Vannes (2020 - )
+## キャリア遍歴
+

@@ -1,28 +1,19 @@
 ---
-title: "ボビー・ビス"
+title: "Bobby BISSU | "
 name_en: "Bobby BISSU"
+name_ja: ""
+slug: "bobby-bissu"
 position: "FL/NO8"
-team: "ボルドー・ベグル"
-height: "189"
-weight: "110"
+height: "189.0"
+weight: "110.0"
 birth_date: "//2006"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "0"
+scraped_url: "https://all.rugby/player/bobby-bissu"
 ---
 
-- Balma Olympique Rugby Club (2021 - 2023)
-- Club Athlétique Bordeaux Bègles Gironde (2023 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

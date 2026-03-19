@@ -1,27 +1,19 @@
 ---
-title: "ジェイミー ・ STEWART"
+title: "Jamie STEWART | "
 name_en: "Jamie STEWART"
+name_ja: ""
+slug: "jamie-stewart"
 position: "PR"
-team: "エディンバラ・ラグビー"
 height: "194.0"
 weight: "130.0"
 birth_date: "2006.."
-age: 20
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Edimbourg"
+caps: "0"
+scraped_url: "https://all.rugby/player/jamie-stewart"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2023 - 2024)
-- Edimbourg Rugby (2024 - )
+## キャリア遍歴
+

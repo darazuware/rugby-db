@@ -1,26 +1,19 @@
 ---
-title: "Morgan ・ CARTER"
+title: "Morgan CARTER | "
 name_en: "Morgan CARTER"
+name_ja: ""
+slug: "morgan-carter"
 position: "CTB"
-team: "ドラゴンズ・ラグビー"
-height: ""
-weight: ""
+height: "0"
+weight: "0"
 birth_date: "2004.01.08"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2025
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Dragons"
+caps: "0"
+scraped_url: "https://all.rugby/player/morgan-carter"
 ---
 
-- Dragons RFC (2025 - )
+## キャリア遍歴
+

@@ -1,26 +1,19 @@
 ---
-title: "Andr ・ ヒューゴ ・ VENTER"
+title: "André-Hugo VENTER | "
 name_en: "André-Hugo VENTER"
+name_ja: ""
+slug: "andre-hugo-venter"
 position: "HO"
-team: "DHLストーマーズ"
 height: "187.0"
 weight: "109.0"
 birth_date: "2001.09.10"
-age: 24
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "urc"
-joined_year: 2020
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+team: "Stormers"
+caps: "0"
+scraped_url: "https://all.rugby/player/andre-hugo-venter"
 ---
 
-- 🇿🇦 [DHLストーマーズ](/teams/urc/dhl-stormers) (2020 - )
+## キャリア遍歴
+

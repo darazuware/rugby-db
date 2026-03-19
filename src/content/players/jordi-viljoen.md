@@ -1,27 +1,19 @@
 ---
-title: "ジョルディ・フォルヒェン"
+title: "Jordi VILJOEN | "
 name_en: "Jordi VILJOEN"
+name_ja: ""
+slug: "jordi-viljoen"
 position: "SH"
-team: "ウェリントン・ハリケーンズ"
 height: "169.0"
 weight: "76.0"
 birth_date: "2003.10.14"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Hurricanes"
+caps: "0"
+scraped_url: "https://all.rugby/player/jordi-viljoen"
 ---
 
-- マナワツ (2022 - 2025)
-- ハリケーンズ (2023 - )
+## キャリア遍歴
+

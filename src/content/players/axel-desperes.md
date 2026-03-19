@@ -1,27 +1,19 @@
 ---
-title: "アクセル・デスペレ"
+title: "Axel DESPÉRÈS | "
 name_en: "Axel DESPÉRÈS"
+name_ja: ""
+slug: "axel-desperes"
 position: "SO"
-team: "ポー"
-height: "183"
-weight: "78"
+height: "183.0"
+weight: "78.0"
 birth_date: "2004.01.16"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2018
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ポー"
+caps: "0"
+scraped_url: "https://all.rugby/player/axel-desperes"
 ---
 
-- Nord Béarn XV (2009 - 2018)
-- Section Paloise Béarn Pyrénées (2018 - )
+## キャリア遍歴
+

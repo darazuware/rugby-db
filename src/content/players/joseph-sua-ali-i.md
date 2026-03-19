@@ -1,27 +1,19 @@
 ---
-title: "ジョセフ・スアアリイ"
+title: "Joseph SUA'ALI'I | "
 name_en: "Joseph SUA'ALI'I"
+name_ja: ""
+slug: "joseph-sua-ali-i"
 position: "CTB"
-team: "NSWワラタス（ワラターズ）"
 height: "196.0"
 weight: "98.0"
 birth_date: "2003.08.01"
-age: 22
-high_school: ""
-university: ""
+age: null
+country: ""
+league: ""
+team: "Waratahs"
 caps: "Australia"
-league_one_caps: "0"
-country: "Australia"
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+scraped_url: "https://all.rugby/player/joseph-sua-ali-i"
 ---
 
-- Sydney Roosters (2020 - 2024)
-- ワラターズ (2024 - )
+## キャリア遍歴
+

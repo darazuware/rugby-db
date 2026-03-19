@@ -1,33 +1,19 @@
 ---
-title: "タヴィテ・ヴェレダム"
+title: "Tavite VEREDAMU | "
 name_en: "Tavite VEREDAMU"
+name_ja: ""
+slug: "tavite-veredamu"
 position: "WTB"
-team: "ペルピニャン"
-height: "192"
-weight: "108"
+height: "192.0"
+weight: "108.0"
 birth_date: "1989.09.01"
-age: 36
-high_school: ""
-university: ""
-caps: "Fiji"
-league_one_caps: "0"
-country: "Fiji"
-nationality: "Fijian"
-category: ""
-division: ""
+age: null
+country: "Fijian"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "Fiji"
+scraped_url: "https://all.rugby/player/tavite-veredamu"
 ---
 
-- Rugby Club Nîmois (2010 - 2018)
-- France 7 (2018 - 2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2020)
-- France 7 (2020)
-- 🇫🇷 [クレルモン](/teams/top14/clermont) (2021)
-- France 7 (2021)
-- Lyon Olympique Universitaire Rugby (2021 - 2023)
-- Union Sportive Arlequins Perpignanais (2023 - )
+## キャリア遍歴
+

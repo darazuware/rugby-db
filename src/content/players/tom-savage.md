@@ -1,29 +1,19 @@
 ---
-title: "トム・サヴェージ"
+title: "Tom SAVAGE | "
 name_en: "Tom SAVAGE"
+name_ja: ""
+slug: "tom-savage"
 position: "LO"
-team: "モアナ・パシフィカ"
 height: "198.0"
 weight: "116.0"
 birth_date: "1989.04.18"
-age: 36
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2024
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Moana Pasifika"
+caps: "0"
+scraped_url: "https://all.rugby/player/tom-savage"
 ---
 
-- グロスター (2013 - 2019)
-- 🇯🇵 [東京サントリーサンゴリアス](/teams/league-one/tokyo-suntory-sungoliath) [D1] (2019 - 2023)
-- 🏝️ [モアナ・パシフィカ](/teams/super-rugby/moana-pasifika) (2023 - 2026)
-- ノース・ハーバー (2024 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "ニック・ブルームフィールド"
+title: "Nick BLOOMFIELD | "
 name_en: "Nick BLOOMFIELD"
+name_ja: ""
+slug: "nick-bloomfield"
 position: "PR"
-team: "クイーンズランド・レッズ"
 height: "188.0"
 weight: "115.0"
 birth_date: "2004.02.10"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
-league: "super-rugby"
-joined_year: 2023
-has_scores: false
-instagram: ""
-twitter: ""
-facebook: ""
+league: ""
+team: "Reds"
+caps: "0"
+scraped_url: "https://all.rugby/player/nick-bloomfield"
 ---
 
-- Easts Rugby Union Club (2021 - 2023)
-- レッズ (2023 - )
+## キャリア遍歴
+

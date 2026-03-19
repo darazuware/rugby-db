@@ -1,31 +1,19 @@
 ---
-title: "ハッサヌ・コリンガル"
+title: "Hassane KOLINGAR | "
 name_en: "Hassane KOLINGAR"
+name_ja: ""
+slug: "hassane-kolingar"
 position: "PR"
-team: "ラシン92"
-height: "186"
-weight: "116"
+height: "186.0"
+weight: "116.0"
 birth_date: "1998.03.06"
-age: 28
-high_school: ""
-university: ""
-caps: "France"
-league_one_caps: "0"
-country: "France"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2019
-has_scores: true
-instagram: "https://www.instagram.com/kolingar_h/"
-twitter: "https://x.com/HassaneKolingar"
-facebook: "https://www.facebook.com/Racing92Officiel/"
+team: "ラシン92"
+caps: "France"
+scraped_url: "https://all.rugby/player/hassane-kolingar"
 ---
 
-- RC Soisy Andilly Margency (2012 - 2013)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2013 - 2018)
-- Rugby Club Vannes (2018)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019)
-- Rugby Club Vannes (2019)
-- 🇫🇷 [ラシン92](/teams/top14/racing-92) (2019 - )
+## キャリア遍歴
+

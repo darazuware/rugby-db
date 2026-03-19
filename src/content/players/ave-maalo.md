@@ -1,26 +1,19 @@
 ---
-title: "アヴェ・マーロ"
+title: "Avé MAALO | "
 name_en: "Avé MAALO"
+name_ja: ""
+slug: "ave-maalo"
 position: "PR"
-team: "リヨン"
-height: "189"
-weight: "143"
+height: "189.0"
+weight: "143.0"
 birth_date: "2003.08.27"
-age: 22
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/ave-maalo"
 ---
 
-- Lyon Olympique Universitaire Rugby (2023 - )
+## キャリア遍歴
+

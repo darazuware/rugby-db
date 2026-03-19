@@ -1,30 +1,19 @@
 ---
-title: "ジョニー・グレイ"
+title: "Jonny GRAY | "
 name_en: "Jonny GRAY"
+name_ja: ""
+slug: "jonny-gray"
 position: "LO"
-team: "ボルドー・ベグル"
-height: "198"
-weight: "122"
+height: "198.0"
+weight: "122.0"
 birth_date: "1994.03.14"
-age: 32
-high_school: ""
-university: ""
-caps: "Scotland"
-league_one_caps: "0"
-country: "Scotland"
-nationality: ""
-category: ""
-division: ""
+age: null
+country: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "ボルドー・ベグル"
+caps: "Scotland"
+scraped_url: "https://all.rugby/player/jonny-gray"
 ---
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2013 - 2019)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2019)
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [グラスゴー・ウォリアーズ](/teams/urc/glasgow-warriors) (2020)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [エクセター・チーフス](/teams/premiership/chiefs) (2020 - 2024)
-- 🇫🇷 [ボルドー・ベグル](/teams/top14/bordeaux) (2024 - )
+## キャリア遍歴
+

@@ -1,27 +1,19 @@
 ---
-title: "アンドロ・ドヴァリ"
+title: "Andro DVALI | "
 name_en: "Andro DVALI"
+name_ja: ""
+slug: "andro-dvali"
 position: "FL/NO8"
-team: "ペルピニャン"
-height: "189"
-weight: "95"
+height: "189.0"
+weight: "95.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: "Georgian"
-nationality: "Georgian"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2024
-has_scores: true
-instagram: "https://www.instagram.com/allrugbycom/"
-twitter: "https://x.com/AllRugbyCom"
-facebook: "https://www.facebook.com/allrugbycom/"
+team: "ペルピニャン"
+caps: "0"
+scraped_url: "https://all.rugby/player/andro-dvali"
 ---
 
-- Lelo Saracens Tbilissi (2023 - 2024)
-- Union Sportive Arlequins Perpignanais (2024 - )
+## キャリア遍歴
+

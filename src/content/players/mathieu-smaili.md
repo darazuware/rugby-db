@@ -1,29 +1,19 @@
 ---
-title: "マチュー・スマイリ"
+title: "Mathieu SMAÏLI | "
 name_en: "Mathieu SMAÏLI"
+name_ja: ""
+slug: "mathieu-smaili"
 position: "CTB"
-team: "トゥーロン"
-height: "180"
-weight: "88"
+height: "180.0"
+weight: "88.0"
 birth_date: "1999.08.30"
-age: 26
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
+age: null
 country: "France"
-nationality: "France"
-category: ""
-division: ""
 league: "top14"
-joined_year: 2021
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "0"
+scraped_url: "https://all.rugby/player/mathieu-smaili"
 ---
 
-- RC Hyères Carqueiranne La Crau (2006 - 2010)
-- Rugby Club Toulonnais (2010 - 2020)
-- Stade Montois Rugby Pro (2020 - 2021)
-- Rugby Club Toulonnais (2021 - )
+## キャリア遍歴
+

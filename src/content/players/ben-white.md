@@ -1,28 +1,19 @@
 ---
-title: "ベン・ホワイト"
+title: "Ben WHITE | "
 name_en: "Ben WHITE"
+name_ja: ""
+slug: "ben-white"
 position: "SH"
-team: "トゥーロン"
-height: "180"
-weight: "88"
+height: "180.0"
+weight: "88.0"
 birth_date: "1998.05.27"
-age: 27
-high_school: ""
-university: ""
-caps: "England"
-league_one_caps: "0"
-country: "England"
-nationality: "Ecosse"
-category: ""
-division: ""
+age: null
+country: "Ecosse"
 league: "top14"
-joined_year: 2023
-has_scores: true
-instagram: "https://www.instagram.com/rctofficiel/#"
-twitter: "https://x.com/RCTofficiel"
-facebook: "https://www.facebook.com/RCTofficiel"
+team: "トゥーロン"
+caps: "England"
+scraped_url: "https://all.rugby/player/ben-white"
 ---
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [レスター・タイガーズ](/teams/premiership/leicester-tigers) (2015 - 2021)
-- London Irish (2021 - 2023)
-- Rugby Club Toulonnais (2023 - )
+## キャリア遍歴
+

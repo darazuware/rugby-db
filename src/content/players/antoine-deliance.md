@@ -1,29 +1,19 @@
 ---
-title: "アントワーヌ・デリアンス"
+title: "Antoine DÉLIANCE | "
 name_en: "Antoine DÉLIANCE"
+name_ja: ""
+slug: "antoine-deliance"
 position: "FL/NO8"
-team: "リヨン"
-height: "192"
-weight: "99"
+height: "192.0"
+weight: "99.0"
 birth_date: "//2005"
 age: null
-high_school: ""
-university: ""
-caps: ""
-league_one_caps: "0"
 country: ""
-nationality: ""
-category: ""
-division: ""
 league: "top14"
-joined_year: 2022
-has_scores: true
-instagram: ""
-twitter: ""
-facebook: ""
+team: "リヨン"
+caps: "0"
+scraped_url: "https://all.rugby/player/antoine-deliance"
 ---
 
-- XV Suranais (2009 - 2010)
-- RC Viriat (2013 - 2019)
-- Union Sportive Bressane Pays de l'Ain (2019 - 2022)
-- Lyon Olympique Universitaire Rugby (2022 - )
+## キャリア遍歴
+
