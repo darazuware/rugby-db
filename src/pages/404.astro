@@ -3,7 +3,8 @@ import Layout from "../layouts/Layout.astro";
 import redirects from "../../data/redirects.json";
 
 const pathname = Astro.url.pathname.replace(/\/$/, "");
-const redirectTarget = (redirects as Record<string, string>)[pathname];
+const decodedPathname = decodeURIComponent(pathname);
+const redirectTarget = (redirects as Record<string, string>)[pathname] || (redirects as Record<string, string>)[decodedPathname];
 
 if (redirectTarget) {
     return Astro.redirect(redirectTarget, 301);
