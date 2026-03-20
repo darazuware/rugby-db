@@ -6,9 +6,8 @@ export const GET: APIRoute = async () => {
   try {
     const allPlayers = await getCollection('players');
     const data = allPlayers.map(p => ({
-      id: p.id,
       slug: p.slug,
-      ...p.data
+      data: p.data
     }));
 
     return new Response(
