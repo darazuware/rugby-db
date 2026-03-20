@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/billy-vunipola"
 ---
 
 ## キャリア遍歴
-Saracens (2013 - 2024) -> Montpellier Hérault Rugby (2024 - )
+Saracens (2013 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)

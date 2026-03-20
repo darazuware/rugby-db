@@ -1,7 +1,7 @@
 ---
-title: "Tommaso DI BARTOLOMEO | トマソ・ディ・バルトロメオ"
+title: "Tommaso DI BARTOLOMEO | Tommaso ・ DI ・ BARTOLOMEO"
 name_en: "Tommaso DI BARTOLOMEO"
-name_ja: "トマソ・ディ・バルトロメオ"
+name_ja: "Tommaso ・ DI ・ BARTOLOMEO"
 slug: "tommaso-di-bartolomeo"
 position: "HO"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tommaso-di-bartolomeo"
 ---
 
 ## キャリア遍歴
-
+Petrarca Rugby (2020 - 2021) -> Zebre Parma (2021 - 2021) -> Petrarca Rugby (2022 - 2022) -> Zebre Parma (2022 - 2022) -> Petrarca Rugby (2022 - 2023) -> Zebre Parma (2023 - 2026)

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/franco-carrera"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "pampas xv (2022 - 2023) -> cobras brasil xv (2023 - 2024) -> pampas xv (2024 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴

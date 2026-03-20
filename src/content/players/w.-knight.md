@@ -1,7 +1,7 @@
 ---
-title: "W. Knight | nan"
+title: "W. Knight | "
 name_en: "W. Knight"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-knight"
 position: "Centre"
 height: "nan"

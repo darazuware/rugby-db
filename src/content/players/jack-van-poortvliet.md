@@ -1,18 +1,18 @@
 ---
-title: "Jack van Poortvliet | nan"
+title: "Jack van Poortvliet | "
 name_en: "Jack van Poortvliet"
-name_ja: "nan"
+name_ja: ""
 slug: "jack-van-poortvliet"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.05.15"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Leicester Tigers"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (16 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (16)"
 high_school: ""
 university: ""
 scraped_url: "nan"

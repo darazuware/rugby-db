@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "United States代表 (5 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mathis-ibo"
 ---
 
 ## キャリア遍歴
-RC Neuilly-sur-Marne (2011 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2019) -> Stade Français Paris Rugby (2019 - )
+RC Neuilly-sur-Marne (2011 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2019) -> Stade Français Paris Rugby (2019 - 2026)

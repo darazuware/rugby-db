@@ -1,13 +1,13 @@
 ---
-title: "M. Norey | nan"
+title: "M. Norey | "
 name_en: "M. Norey"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-norey"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "08/05/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

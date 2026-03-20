@@ -1,7 +1,7 @@
 ---
-title: "R. Price | nan"
+title: "R. Price | "
 name_en: "R. Price"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-price"
 position: "Scrum-half"
 height: "nan"

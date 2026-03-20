@@ -7,16 +7,16 @@ position: "HO"
 height: "177.0"
 weight: "100.0"
 birth_date: "2001.06.04"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "日野レッドドルフィンズ（2025-26）"
 caps: ""
 high_school: "東福岡高校"
 university: "東海大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485389"
 ---
 
 ## キャリア遍歴
-
+日野レッドドルフィンズ (2023 - )

@@ -10,7 +10,7 @@ birth_date: "1998.07.07"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Chiefs"
 caps: ""
 high_school: ""

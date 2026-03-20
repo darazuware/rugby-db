@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kane-douglas"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2009 - 2014) -> Leinster Rugby (2014 - 2015) -> Queensland Reds (2015 - 2018) -> Union Bordeaux-Bègles (2018 - 2024) -> Stade Rochelais (2024 - )
+New South Wales Waratahs (2009 - 2014) -> Leinster Rugby (2014 - 2015) -> Queensland Reds (2015 - 2018) -> Union Bordeaux-Bègles (2018 - 2024) -> Stade Rochelais (2024 - 2026)

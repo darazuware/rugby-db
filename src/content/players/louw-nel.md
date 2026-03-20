@@ -1,9 +1,9 @@
 ---
-title: "Louw NEL | ロウ・ネル"
+title: "Louw NEL | Louw ・ NEL"
 name_en: "Louw NEL"
-name_ja: "ロウ・ネル"
+name_ja: "Louw ・ NEL"
 slug: "louw-nel"
-position: "FL/No8"
+position: "Back row"
 height: "190.0"
 weight: "107.0"
 birth_date: "2002.08.09"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/louw-nel"
 ---
 
 ## キャリア遍歴
-
+Western Province (2021 - 2024) -> Stormers (2024 - 2026)

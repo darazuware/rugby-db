@@ -1,7 +1,7 @@
 ---
-title: "Adam HASTINGS | アダム・ヘイスティングス"
+title: "Adam HASTINGS | アダム ・ HASTINGS"
 name_en: "Adam HASTINGS"
-name_ja: "アダム・ヘイスティングス"
+name_ja: "アダム ・ HASTINGS"
 slug: "adam-hastings"
 position: "SO"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (27)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/adam-hastings"
 ---
 
 ## キャリア遍歴
-Scotland
+Bath Rugby (2015 - 2017) -> Glasgow Warriors (2017 - 2021) -> Gloucester Rugby (2021 - 2024) -> Glasgow Warriors (2024 - 2026)

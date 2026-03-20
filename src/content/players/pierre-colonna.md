@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-colonna"
 ---
 
 ## キャリア遍歴
-Cahors (2012 - 2016) -> Stade Toulousain (2016 - 2017) -> Castres Olympique (2017 - )
+Cahors (2012 - 2016) -> Stade Toulousain (2016 - 2017) -> Castres Olympique (2017 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "Harry Wells | nan"
+title: "Harry Wells | "
 name_en: "Harry Wells"
-name_ja: "nan"
+name_ja: ""
 slug: "harry-wells"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "29/09/1993"
-age: 32.0
+birth_date: "1993.09.29"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "premiership"

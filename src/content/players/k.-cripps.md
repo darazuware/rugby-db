@@ -1,7 +1,7 @@
 ---
-title: "K. Cripps | nan"
+title: "K. Cripps | "
 name_en: "K. Cripps"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-cripps"
 position: "Flanker"
 height: "nan"

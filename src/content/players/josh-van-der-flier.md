@@ -15,7 +15,7 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (73)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2014 - 2026)"
 ---
 
 ## キャリア遍歴

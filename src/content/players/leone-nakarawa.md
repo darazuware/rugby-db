@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leone-nakarawa"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2013 - 2021) -> Racing 92 (2016 - 2020) -> Rugby Club Toulonnais (2021 - 2022) -> Castres Olympique (2022 - )
+Glasgow Warriors (2013 - 2016) -> Racing 92 (2016 - 2019) -> Glasgow Warriors (2019 - 2019) -> Racing 92 (2020 - 2020) -> Glasgow Warriors (2020 - 2021) -> Rugby Club Toulonnais (2021 - 2022) -> Castres Olympique (2022 - 2026)

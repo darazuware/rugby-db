@@ -1,7 +1,7 @@
 ---
-title: "Dylan COCKBURN | ディラン-コクバーン"
+title: "Dylan COCKBURN | Dylan ・ COCKBURN"
 name_en: "Dylan COCKBURN"
-name_ja: "ディラン-コクバーン"
+name_ja: "Dylan ・ COCKBURN"
 slug: "dylan-cockburn"
 position: "LO"
 height: "195.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dylan-cockburn"
 ---
 
 ## キャリア遍歴
-
+Melrose RFC (2023 - 2025) -> Glasgow Warriors (2025 - 2026)

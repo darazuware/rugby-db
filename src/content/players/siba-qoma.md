@@ -1,7 +1,7 @@
 ---
-title: "Siba QOMA | シバ・コマ"
+title: "Siba QOMA | Siba ・ QOMA"
 name_en: "Siba QOMA"
-name_ja: "シバ・コマ"
+name_ja: "Siba ・ QOMA"
 slug: "siba-qoma"
 position: "LO"
 height: "190.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/siba-qoma"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2022 - 2024) -> Lions Rugby (2024 - 2026)

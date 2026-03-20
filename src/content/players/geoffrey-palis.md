@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/geoffrey-palis"
 ---
 
 ## キャリア遍歴
-Sporting Club Albigeois (2009 - 2013) -> Castres Olympique (2013 - )
+Sporting Club Albigeois (2009 - 2013) -> Castres Olympique (2013 - 2026)

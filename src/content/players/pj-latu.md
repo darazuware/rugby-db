@@ -7,16 +7,16 @@ position: "CTB"
 height: "187.0"
 weight: "104.0"
 birth_date: "2000.10.24"
-age: 25.0
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
-caps: "🇹🇴 Tonga代表 (1 caps)"
+caps: ""
 high_school: "TimaruSouthSchool"
 university: "大東文化大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484866"
 ---
 
 ## キャリア遍歴
-
+リコーブラックラムズ東京 (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aaron-grandidier"
 ---
 
 ## キャリア遍歴
-Old Elthamians RFC (2017 - 2019) -> CA Brive Corrèze Limousin (2019 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )
+Old Elthamians RFC (2017 - 2019) -> CA Brive Corrèze Limousin (2019 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2026)

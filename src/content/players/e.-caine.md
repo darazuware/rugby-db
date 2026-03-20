@@ -1,13 +1,13 @@
 ---
-title: "E. Caine | nan"
+title: "E. Caine | "
 name_en: "E. Caine"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-caine"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "20/09/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

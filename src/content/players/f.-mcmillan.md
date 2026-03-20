@@ -1,7 +1,7 @@
 ---
-title: "F. McMillan | nan"
+title: "F. McMillan | "
 name_en: "F. McMillan"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-mcmillan"
 position: "Centre"
 height: "nan"

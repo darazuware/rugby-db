@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/manu-tuilagi"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2013 - 2020) -> Sale Sharks (2019 - 2024) -> Aviron Bayonnais (2024 - )
+Leicester Tigers (2013 - 2019) -> Sale Sharks (2019 - 2019) -> Leicester Tigers (2020 - 2020) -> Sale Sharks (2020 - 2024) -> Aviron Bayonnais (2024 - 2026)

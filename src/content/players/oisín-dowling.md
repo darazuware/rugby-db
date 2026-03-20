@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/oisin-dowling"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2018 - 2020) -> connacht rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

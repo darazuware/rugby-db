@@ -7,16 +7,16 @@ position: "CTB"
 height: "189.0"
 weight: "99.0"
 birth_date: "1999.02.21"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "日野レッドドルフィンズ（2025-26）"
 caps: ""
 high_school: "ST"
 university: "Andrews"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485376"
 ---
 
 ## キャリア遍歴
-
+シャークス (2019 - 2024) -> 日野レッドドルフィンズ (2024 - )

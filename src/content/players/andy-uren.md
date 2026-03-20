@@ -1,7 +1,7 @@
 ---
-title: "Andy UREN | アンディ・ユレン"
+title: "Andy UREN | Andy ・ UREN"
 name_en: "Andy UREN"
-name_ja: "アンディ・ユレン"
+name_ja: "Andy ・ UREN"
 slug: "andy-uren"
 position: "SH"
 height: "178.0"
@@ -10,13 +10,13 @@ birth_date: "1996.02.20"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/andy-uren"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2016 - 2023) -> Benetton Rugby Trévise (2023 - 2026)

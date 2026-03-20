@@ -1,13 +1,13 @@
 ---
-title: "H. Bokenham | nan"
+title: "H. Bokenham | "
 name_en: "H. Bokenham"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-bokenham"
 position: "No. 8"
 height: "nan"
 weight: "nan"
-birth_date: "2000-07-21"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

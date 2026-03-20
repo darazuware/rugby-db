@@ -1,18 +1,18 @@
 ---
-title: "Josh Hathaway | nan"
+title: "Josh Hathaway | "
 name_en: "Josh Hathaway"
-name_ja: "nan"
+name_ja: ""
 slug: "josh-hathaway"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "2004-10-19"
-age: 21.0
+birth_date: "2003.10.19"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Gloucester Rugby"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (2 caps)"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (2)"
 high_school: ""
 university: ""
 scraped_url: "nan"

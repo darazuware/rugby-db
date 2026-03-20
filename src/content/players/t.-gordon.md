@@ -1,7 +1,7 @@
 ---
-title: "T. Gordon | nan"
+title: "T. Gordon | "
 name_en: "T. Gordon"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-gordon"
 position: "Flanker"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "Stephan Lewies | nan"
+title: "Stephan Lewies | "
 name_en: "Stephan Lewies"
-name_ja: "nan"
+name_ja: ""
 slug: "stephan-lewies"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1992.01.27"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

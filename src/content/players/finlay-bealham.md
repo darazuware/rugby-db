@@ -1,7 +1,7 @@
 ---
-title: "Finlay BEALHAM | フィンレイ-ビールハム"
+title: "Finlay BEALHAM | フィンレイ ・ BEALHAM"
 name_en: "Finlay BEALHAM"
-name_ja: "フィンレイ-ビールハム"
+name_ja: "フィンレイ ・ BEALHAM"
 slug: "finlay-bealham"
 position: "PR"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: "🇮🇪 Ireland (51)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/finlay-bealham"
 ---
 
 ## キャリア遍歴
-Australia
+Connacht Rugby (2013 - 2026)

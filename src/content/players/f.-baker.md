@@ -1,7 +1,7 @@
 ---
-title: "F. Baker | nan"
+title: "F. Baker | "
 name_en: "F. Baker"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-baker"
 position: "Lock"
 height: "nan"

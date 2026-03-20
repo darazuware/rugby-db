@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kleo-labarbe"
 ---
 
 ## キャリア遍歴
-Rugby Club de Saint-Médard en Jalles (2012 - 2023) -> Aviron Bayonnais (2023 - 2024) -> Racing 92 (2024 - )
+Rugby Club de Saint-Médard en Jalles (2012 - 2023) -> Aviron Bayonnais (2023 - 2024) -> Racing 92 (2024 - 2026)

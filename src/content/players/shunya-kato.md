@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "164.0"
 weight: "85.0"
 birth_date: "1999.10.12"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ルリーロ福岡（2025-26）"
 caps: ""
 high_school: "正平高校"
 university: "東海大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484912"
 ---
 
 ## キャリア遍歴
-
+Christchurch Football Club (2024 - 2025) -> ルリーロ福岡 (2025 - )

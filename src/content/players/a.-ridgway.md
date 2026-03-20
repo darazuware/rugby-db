@@ -1,7 +1,7 @@
 ---
-title: "A. Ridgway | nan"
+title: "A. Ridgway | "
 name_en: "A. Ridgway"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-ridgway"
 position: "No. 8"
 height: "nan"

@@ -1,7 +1,7 @@
 ---
-title: "S. Worsley | nan"
+title: "S. Worsley | "
 name_en: "S. Worsley"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-worsley"
 position: "Fly-half"
 height: "nan"

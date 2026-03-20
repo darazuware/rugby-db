@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/jack-o-donoghue"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "munster rugby (2014 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "M. Pearce | nan"
+title: "M. Pearce | "
 name_en: "M. Pearce"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-pearce"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "2003.08.03"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

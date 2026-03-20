@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tiaan-jacobs"
 ---
 
 ## キャリア遍歴
-Selborne College (2021 - 2022) -> Biarritz Olympique Pays Basque (2022 - 2024) -> Union Bordeaux-Bègles (2024 - )
+Selborne College (2021 - 2022) -> Biarritz Olympique Pays Basque (2022 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

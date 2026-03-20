@@ -1,13 +1,13 @@
 ---
-title: "A. Ainsworth-Cave | nan"
+title: "A. Ainsworth-Cave | "
 name_en: "A. Ainsworth-Cave"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-ainsworth-cave"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2006-07-21"
-age: 19.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

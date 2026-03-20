@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
-caps: "🇫🇷 France代表 (14 caps)"
+caps: "🇫🇷 France (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/reda-wardi"
 ---
 
 ## キャリア遍歴
-Montpellier Hérault Rugby (2007 - 2015) -> Association Sportive Béziers Hérault (2015 - 2019) -> Stade Rochelais (2019 - )
+Montpellier Hérault Rugby (2007 - 2015) -> Association Sportive Béziers Hérault (2015 - 2019) -> Stade Rochelais (2019 - 2026)

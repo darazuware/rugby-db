@@ -1,13 +1,13 @@
 ---
-title: "George Martin | nan"
+title: "George Martin | "
 name_en: "George Martin"
-name_ja: "nan"
+name_ja: ""
 slug: "george-martin"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "18/06/2001"
-age: 24.0
+birth_date: "2001.06.18"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

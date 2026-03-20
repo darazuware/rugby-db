@@ -7,7 +7,7 @@ position: "PR"
 height: "190.0"
 weight: "120.0"
 birth_date: "2001.06.07"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
 caps: ""
 high_school: "アングリカンチャーチグラマースクール"
 university: "拓殖大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483782"
 ---
 
 ## キャリア遍歴
-
+クボタスピアーズ船橋・東京ベイ (2024 - )

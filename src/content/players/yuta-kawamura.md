@@ -7,16 +7,16 @@ position: "CTB"
 height: "183.0"
 weight: "96.0"
 birth_date: "2003.02.22"
-age: 22.0
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "レッドハリケーンズ大阪（2025-26）"
 caps: ""
 high_school: "関西学院高等部"
 university: "関西学院大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484981"
 ---
 
 ## キャリア遍歴
-
+NTTドコモレッドハリケーンズ大阪 (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/timothe-mezou"
 ---
 
 ## キャリア遍歴
-Union Rugbystique de Landerneau (2016 - 2019) -> Rugby Club Vannes (2019 - )
+Union Rugbystique de Landerneau (2016 - 2019) -> Rugby Club Vannes (2019 - 2026)

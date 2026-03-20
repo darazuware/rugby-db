@@ -7,7 +7,7 @@ position: "WTB"
 height: "177.0"
 weight: "87.0"
 birth_date: "1992.09.21"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "三重ホンダヒート（2025-26）"
 caps: ""
 high_school: "オークランド大学高校"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484660"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/george-hadden"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "gorey rfc (2021 - 2022) -> clontarf rugby (2022 - 2023) -> munster rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

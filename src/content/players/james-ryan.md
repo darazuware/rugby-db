@@ -1,7 +1,7 @@
 ---
-title: "James RYAN | ジェームズ-ライアン"
+title: "James RYAN | ジェームズ ・ ライアン"
 name_en: "James RYAN"
-name_ja: "ジェームズ-ライアン"
+name_ja: "ジェームズ ・ ライアン"
 slug: "james-ryan"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (72)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/james-ryan"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2017 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Asad MOOS | アサド・ムース"
+title: "Asad MOOS | Asad ・ MOOS"
 name_en: "Asad MOOS"
-name_ja: "アサド・ムース"
+name_ja: "Asad ・ MOOS"
 slug: "asad-moos"
 position: "SH"
 height: "173.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/asad-moos"
 ---
 
 ## キャリア遍歴
-
+Western Province (2023 - 2025) -> Stormers (2025 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "S. Stuart | nan"
+title: "S. Stuart | "
 name_en: "S. Stuart"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-stuart"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "1995.05.24"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

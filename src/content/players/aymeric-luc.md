@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aymeric-luc"
 ---
 
 ## キャリア遍歴
-Boucau Tarnos Stade (2004 - 2009) -> Aviron Bayonnais (2009 - 2021) -> Rugby Club Toulonnais (2021 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )
+Boucau Tarnos Stade (2004 - 2009) -> Aviron Bayonnais (2009 - 2021) -> Rugby Club Toulonnais (2021 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2026)

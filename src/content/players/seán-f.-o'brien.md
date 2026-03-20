@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/sean-o-brien-2000"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2020 - 2020) -> la giltinis (2020 - 2020) -> leinster rugby (2021 - 2021) -> la giltinis (2021 - 2021) -> leinster rugby (2021 - 2023) -> connacht rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

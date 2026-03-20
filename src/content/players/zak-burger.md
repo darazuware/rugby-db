@@ -1,7 +1,7 @@
 ---
-title: "Zak BURGER | ザック・バーガー"
+title: "Zak BURGER | Zak ・ BURGER"
 name_en: "Zak BURGER"
-name_ja: "ザック・バーガー"
+name_ja: "Zak ・ BURGER"
 slug: "zak-burger"
 position: "SH"
 height: "174.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/zak-burger"
 ---
 
 ## キャリア遍歴
-
+Griquas (2019 - 2020) -> Bulls (2020 - 2026)

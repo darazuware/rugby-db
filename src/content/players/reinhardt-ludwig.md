@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/reinhardt-ludwig"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "blue bulls (2020 - 2021) -> bulls (2021 - 2026)"
 ---
 
 ## キャリア遍歴

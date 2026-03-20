@@ -1,9 +1,9 @@
 ---
-title: "Scott PENNY | スコット・ペニー"
+title: "Scott PENNY | スコット ・ PENNY"
 name_en: "Scott PENNY"
-name_ja: "スコット・ペニー"
+name_ja: "スコット ・ PENNY"
 slug: "scott-penny"
-position: "FL/No8"
+position: "Back row"
 height: "185.0"
 weight: "104.0"
 birth_date: "1999.09.22"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/scott-penny"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2018 - 2026)

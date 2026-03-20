@@ -1,13 +1,13 @@
 ---
-title: "T. Carr-Smith | nan"
+title: "T. Carr-Smith | "
 name_en: "T. Carr-Smith"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-carr-smith"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "28/02/2002"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

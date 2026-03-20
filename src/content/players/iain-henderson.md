@@ -1,7 +1,7 @@
 ---
-title: "Iain HENDERSON | イアン-ヘンダーソン"
+title: "Iain HENDERSON | Iain ・ HENDERSON"
 name_en: "Iain HENDERSON"
-name_ja: "イアン-ヘンダーソン"
+name_ja: "Iain ・ HENDERSON"
 slug: "iain-henderson"
 position: "LO"
 height: "199.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "🇮🇪 Ireland (85)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/iain-henderson"
 ---
 
 ## キャリア遍歴
-Ireland
+Ulster Rugby (2013 - 2026)

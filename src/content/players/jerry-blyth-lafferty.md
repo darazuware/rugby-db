@@ -1,7 +1,7 @@
 ---
-title: "Jerry BLYTH-LAFFERTY | ジェリー・ブライス＝ラファーティ"
+title: "Jerry BLYTH-LAFFERTY | Jerry ・ BLYTH ・ LAFFERTY"
 name_en: "Jerry BLYTH-LAFFERTY"
-name_ja: "ジェリー・ブライス＝ラファーティ"
+name_ja: "Jerry ・ BLYTH ・ LAFFERTY"
 slug: "jerry-blyth-lafferty"
 position: "HO"
 height: "178.0"
@@ -10,13 +10,13 @@ birth_date: "2004.02.06"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jerry-blyth-lafferty"
 ---
 
 ## キャリア遍歴
-
+Boroughmuir RFC (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)

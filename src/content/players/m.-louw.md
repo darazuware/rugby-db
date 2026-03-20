@@ -1,13 +1,13 @@
 ---
-title: "M. Louw | nan"
+title: "M. Louw | "
 name_en: "M. Louw"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-louw"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1997.11.06"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,13 +1,13 @@
 ---
-title: "A. Barbeary | nan"
+title: "A. Barbeary | "
 name_en: "A. Barbeary"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-barbeary"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "10/05/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

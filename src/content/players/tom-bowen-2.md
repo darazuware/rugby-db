@@ -1,0 +1,22 @@
+---
+title: "Tom BOWEN | トム・ボウエン"
+name_en: "Tom BOWEN"
+name_ja: "トム・ボウエン"
+slug: "tom-bowen-2"
+position: "FB"
+height: "170.0"
+weight: "75.0"
+birth_date: "2006.."
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Cardiff"
+caps: "https://all.rugby/player/tom-bowen"
+high_school: ""
+university: ""
+scraped_url: "clifton rugby (2022 - 2024) -> cardiff rugby (2024 - 2026)"
+---
+
+## キャリア遍歴
+

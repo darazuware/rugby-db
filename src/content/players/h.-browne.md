@@ -1,7 +1,7 @@
 ---
-title: "H. Browne | nan"
+title: "H. Browne | "
 name_en: "H. Browne"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-browne"
 position: "Lock"
 height: "nan"

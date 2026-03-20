@@ -15,7 +15,7 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bristol bears (2018 - 2023) -> scarlets (2023 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "H. Palmer | nan"
+title: "H. Palmer | "
 name_en: "H. Palmer"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-palmer"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2003.07.05"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

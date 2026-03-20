@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/gerhard-steenekamp"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "tuks rugby club (2018 - 2019) -> bulls (2019 - 2026)"
 ---
 
 ## キャリア遍歴

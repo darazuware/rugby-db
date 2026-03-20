@@ -1,13 +1,13 @@
 ---
-title: "M. Street | nan"
+title: "M. Street | "
 name_en: "M. Street"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-street"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/06/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

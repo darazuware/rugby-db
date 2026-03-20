@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paolo-garbisi"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2018 - 2019) -> Petrarca Rugby (2019 - 2020) -> Benetton Rugby Trévise (2019 - 2021) -> Montpellier Hérault Rugby (2021 - 2024) -> Rugby Club Toulonnais (2023 - )
+Mogliano Veneto Rugby (2018 - 2019) -> Petrarca Rugby (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Petrarca Rugby (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2021) -> Montpellier Hérault Rugby (2021 - 2023) -> Rugby Club Toulonnais (2023 - 2023) -> Montpellier Hérault Rugby (2024 - 2024) -> Rugby Club Toulonnais (2024 - 2026)

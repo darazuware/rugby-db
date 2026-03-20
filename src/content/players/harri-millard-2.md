@@ -1,0 +1,22 @@
+---
+title: "Harri MILLARD | Harri ・ MILLARD"
+name_en: "Harri MILLARD"
+name_ja: "Harri ・ MILLARD"
+slug: "harri-millard-2"
+position: "CTB"
+height: "183.0"
+weight: "94.0"
+birth_date: "1996.08.17"
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/harri-millard"
+---
+
+## キャリア遍歴
+Cardiff Rugby (2015 - 2026)

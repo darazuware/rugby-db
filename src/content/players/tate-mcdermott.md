@@ -10,7 +10,7 @@ birth_date: "1998.09.18"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Reds"
 caps: "🇦🇺 Australia (26)"
 high_school: ""

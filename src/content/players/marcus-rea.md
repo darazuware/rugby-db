@@ -1,9 +1,9 @@
 ---
-title: "Marcus REA | マーカス・レア"
+title: "Marcus REA | Marcus ・ REA"
 name_en: "Marcus REA"
-name_ja: "マーカス・レア"
+name_ja: "Marcus ・ REA"
 slug: "marcus-rea"
-position: "FL/No8"
+position: "Back row"
 height: "189.0"
 weight: "110.0"
 birth_date: "1997.09.08"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/marcus-rea"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2018 - 2026)

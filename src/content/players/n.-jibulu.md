@@ -1,13 +1,13 @@
 ---
-title: "N. Jibulu | nan"
+title: "N. Jibulu | "
 name_en: "N. Jibulu"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-jibulu"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "26/01/2003"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

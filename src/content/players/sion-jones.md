@@ -1,7 +1,7 @@
 ---
-title: "Sion JONES | シオン・ジョーンズ"
+title: "Sion JONES | Sion ・ JONES"
 name_en: "Sion JONES"
-name_ja: "シオン・ジョーンズ"
+name_ja: "Sion ・ JONES"
 slug: "sion-jones"
 position: "FB"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sion-jones"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

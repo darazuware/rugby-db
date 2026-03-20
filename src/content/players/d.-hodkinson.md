@@ -1,7 +1,7 @@
 ---
-title: "D. Hodkinson | nan"
+title: "D. Hodkinson | "
 name_en: "D. Hodkinson"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-hodkinson"
 position: "Lock"
 height: "nan"

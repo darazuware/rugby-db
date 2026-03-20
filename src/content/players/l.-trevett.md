@@ -1,7 +1,7 @@
 ---
-title: "L. Trevett | nan"
+title: "L. Trevett | "
 name_en: "L. Trevett"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-trevett"
 position: "Prop"
 height: "nan"

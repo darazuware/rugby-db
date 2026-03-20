@@ -1,7 +1,7 @@
 ---
-title: "James HUMPHREYS | ジェームズ-ハンフリーズ"
+title: "James HUMPHREYS | ジェームズ ・ HUMPHREYS"
 name_en: "James HUMPHREYS"
-name_ja: "ジェームズ-ハンフリーズ"
+name_ja: "ジェームズ ・ HUMPHREYS"
 slug: "james-humphreys"
 position: "SO"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/james-humphreys"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2020 - 2026)

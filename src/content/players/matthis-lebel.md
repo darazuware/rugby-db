@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthis-lebel"
 ---
 
 ## キャリア遍歴
-Lombez Samatan (2004 - 2013) -> Stade Toulousain (2013 - )
+Lombez Samatan (2004 - 2013) -> Stade Toulousain (2013 - 2026)

@@ -10,7 +10,7 @@ birth_date: "1999.08.31"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Moana Pasifika"
 caps: "🇼🇸 Samoa (3)"
 high_school: ""

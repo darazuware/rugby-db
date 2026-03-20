@@ -1,21 +1,21 @@
 ---
-title: "Henry WALKER | ヘンリー・ウォーカー"
+title: "Henry WALKER | "
 name_en: "Henry WALKER"
-name_ja: "ヘンリー・ウォーカー"
+name_ja: ""
 slug: "henry-walker"
-position: "HO"
-height: "187.0"
-weight: "100.0"
-birth_date: "2005.."
-age: null
+position: "Hooker"
+height: "10/03/1998"
+weight: "1"
+birth_date: "nan"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "Ulster"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/henry-walker"
 ---
 
 ## キャリア遍歴

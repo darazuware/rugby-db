@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matthias-halagahu"
 ---
 
 ## キャリア遍歴
-CA Fréjus Saint-Raphaël (2006 - 2016) -> Rugby Club Toulonnais (2016 - )
+CA Fréjus Saint-Raphaël (2006 - 2016) -> Rugby Club Toulonnais (2016 - 2026)

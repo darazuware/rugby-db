@@ -1,7 +1,7 @@
 ---
-title: "B. Langton-Cryer | nan"
+title: "B. Langton-Cryer | "
 name_en: "B. Langton-Cryer"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-langton-cryer"
 position: "Lock"
 height: "nan"

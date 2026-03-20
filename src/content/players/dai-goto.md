@@ -7,16 +7,16 @@ position: "SH"
 height: "166.0"
 weight: "73.0"
 birth_date: "1992.12.27"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
 caps: ""
 high_school: "東福岡高校"
 university: "立命館大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484644"
 ---
 
 ## キャリア遍歴
-
+マツダスカイアクティブズ広島 (2021 - )

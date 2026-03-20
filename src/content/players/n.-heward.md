@@ -1,7 +1,7 @@
 ---
-title: "N. Heward | nan"
+title: "N. Heward | "
 name_en: "N. Heward"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-heward"
 position: "Wing"
 height: "nan"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/oli-burrows"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "exeter chiefs (2020 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2023 - 2023) -> cornish pirates (2024 - 2024) -> exeter chiefs (2024 - 2024) -> dragons rfc (2024 - 2026)"
 ---
 
 ## キャリア遍歴

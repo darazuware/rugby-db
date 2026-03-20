@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/jack-oliver"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "munster rugby (2021 - 2025) -> glasgow warriors (2025 - 2026)"
 ---
 
 ## キャリア遍歴

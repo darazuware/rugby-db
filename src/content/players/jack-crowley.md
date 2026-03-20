@@ -1,7 +1,7 @@
 ---
-title: "Jack CROWLEY | ジャック-クロウリー"
+title: "Jack CROWLEY | ジャック ・ CROWLEY"
 name_en: "Jack CROWLEY"
-name_ja: "ジャック-クロウリー"
+name_ja: "ジャック ・ CROWLEY"
 slug: "jack-crowley"
 position: "SO"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "🇮🇪 Ireland (24)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jack-crowley"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2020 - 2026)

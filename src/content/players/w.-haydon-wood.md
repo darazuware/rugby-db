@@ -1,7 +1,7 @@
 ---
-title: "W. Haydon-Wood | nan"
+title: "W. Haydon-Wood | "
 name_en: "W. Haydon-Wood"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-haydon-wood"
 position: "Fly-half"
 height: "nan"

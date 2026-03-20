@@ -1,13 +1,13 @@
 ---
-title: "J. Kenningham | nan"
+title: "J. Kenningham | "
 name_en: "J. Kenningham"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-kenningham"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1999-11-19"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

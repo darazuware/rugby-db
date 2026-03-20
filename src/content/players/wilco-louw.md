@@ -1,7 +1,7 @@
 ---
-title: "Wilco LOUW | ウィルコ・ロウ"
+title: "Wilco LOUW | Wilco ・ LOUW"
 name_en: "Wilco LOUW"
-name_ja: "ウィルコ・ロウ"
+name_ja: "Wilco ・ LOUW"
 slug: "wilco-louw"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "South Africa"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/wilco-louw"
 ---
 
 ## キャリア遍歴
-South Africa
+Stormers (2014 - 2019) -> Rugby Club Toulonnais (2019 - 2019) -> Harlequins (2019 - 2019) -> Stormers (2020 - 2020) -> Rugby Club Toulonnais (2020 - 2020) -> Harlequins (2020 - 2023) -> Bulls (2023 - 2026)

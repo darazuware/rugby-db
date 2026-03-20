@@ -7,16 +7,16 @@ position: "PR"
 height: "173.0"
 weight: "110.0"
 birth_date: "1994.01.28"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "浦安D-Rocks（2025-26）"
-caps: "🇯🇵 日本代表(2)"
+caps: "日本代表(2)"
 high_school: "国学院久我山高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483476"
 ---
 
 ## キャリア遍歴
-
+Not Found

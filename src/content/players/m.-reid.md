@@ -1,13 +1,13 @@
 ---
-title: "M. Reid | nan"
+title: "M. Reid | "
 name_en: "M. Reid"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-reid"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "09/06/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

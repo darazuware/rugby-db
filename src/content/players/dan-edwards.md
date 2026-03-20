@@ -1,7 +1,7 @@
 ---
-title: "Dan EDWARDS | ダン・エドワーズ"
+title: "Dan EDWARDS | ダン ・ EDWARDS"
 name_en: "Dan EDWARDS"
-name_ja: "ダン・エドワーズ"
+name_ja: "ダン ・ EDWARDS"
 slug: "dan-edwards"
 position: "SO"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dan-edwards"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

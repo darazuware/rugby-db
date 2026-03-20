@@ -1,13 +1,13 @@
 ---
-title: "Luka Ivanishvili | nan"
+title: "Luka Ivanishvili | "
 name_en: "Luka Ivanishvili"
-name_ja: "nan"
+name_ja: ""
 slug: "luka-ivanishvili"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "25/11/2001"
-age: 24.0
+birth_date: "2001.10.25"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,13 +1,13 @@
 ---
-title: "T. Wilson | nan"
+title: "T. Wilson | "
 name_en: "T. Wilson"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-wilson"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "22/06/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

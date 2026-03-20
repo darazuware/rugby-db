@@ -1,7 +1,7 @@
 ---
-title: "H. Skinner | nan"
+title: "H. Skinner | "
 name_en: "H. Skinner"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-skinner"
 position: "Fly-half"
 height: "nan"

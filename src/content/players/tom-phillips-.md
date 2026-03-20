@@ -6,8 +6,8 @@ slug: "tom-phillips-"
 position: "PR"
 height: "nan"
 weight: "nan"
-birth_date: "26/03/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"

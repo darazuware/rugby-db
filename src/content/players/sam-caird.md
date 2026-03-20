@@ -1,21 +1,21 @@
 ---
-title: "Sam Caird | サム ・ケアード"
-name_en: "Sam Caird"
-name_ja: "サム ・ケアード"
+title: "Sam CAIRD | "
+name_en: "Sam CAIRD"
+name_ja: ""
 slug: "sam-caird"
-position: "LO"
-height: "202.0"
-weight: "117.0"
-birth_date: "1997.03.18"
-age: 28.0
+position: "Lock"
+height: "PRO"
+weight: "Gone to Northland"
+birth_date: "nan"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "league-one"
-team: "横浜キヤノンイーグルス（2025-26）"
+league: "mlr"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: ""
-high_school: "セントピーターズスクール"
-university: "シドニー大学"
-scraped_url: "nan"
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/sam-caird"
 ---
 
 ## キャリア遍歴

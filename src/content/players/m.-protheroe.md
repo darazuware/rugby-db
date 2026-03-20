@@ -1,7 +1,7 @@
 ---
-title: "M. Protheroe | nan"
+title: "M. Protheroe | "
 name_en: "M. Protheroe"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-protheroe"
 position: "Wing"
 height: "nan"

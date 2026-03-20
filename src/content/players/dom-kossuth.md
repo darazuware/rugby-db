@@ -1,9 +1,9 @@
 ---
-title: "Dom KOSSUTH | ドム・コスース"
+title: "Dom KOSSUTH | Dom ・ KOSSUTH"
 name_en: "Dom KOSSUTH"
-name_ja: "ドム・コスース"
+name_ja: "Dom ・ KOSSUTH"
 slug: "dom-kossuth"
-position: "FL/No8"
+position: "Back row"
 height: "188.0"
 weight: "107.0"
 birth_date: "2007.."
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dom-kossuth"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

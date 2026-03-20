@@ -10,7 +10,7 @@ birth_date: "1993.04.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Western Force"
 caps: "🇹🇴 Tonga (5)"
 high_school: ""

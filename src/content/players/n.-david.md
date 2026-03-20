@@ -1,13 +1,13 @@
 ---
-title: "N. David | nan"
+title: "N. David | "
 name_en: "N. David"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-david"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1998-11-04"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

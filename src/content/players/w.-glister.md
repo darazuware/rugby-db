@@ -1,13 +1,13 @@
 ---
-title: "W. Glister | nan"
+title: "W. Glister | "
 name_en: "W. Glister"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-glister"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "2005-XX-XX"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

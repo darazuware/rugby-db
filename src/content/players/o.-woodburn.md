@@ -1,7 +1,7 @@
 ---
-title: "O. Woodburn | nan"
+title: "O. Woodburn | "
 name_en: "O. Woodburn"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-woodburn"
 position: "Wing"
 height: "nan"

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/thomas-ahern"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "munster rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-
+Ireland

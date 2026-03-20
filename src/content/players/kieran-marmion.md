@@ -1,13 +1,13 @@
 ---
-title: "Kieran Marmion | nan"
+title: "Kieran Marmion | "
 name_en: "Kieran Marmion"
-name_ja: "nan"
+name_ja: ""
 slug: "kieran-marmion"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1992.02.11"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

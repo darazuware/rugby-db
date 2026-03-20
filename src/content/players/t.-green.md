@@ -1,13 +1,13 @@
 ---
-title: "T. Green | nan"
+title: "T. Green | "
 name_en: "T. Green"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-green"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "1998-03-05"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

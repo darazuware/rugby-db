@@ -1,7 +1,7 @@
 ---
-title: "Fiachna BARRETT | フィアクナ・バレット"
+title: "Fiachna BARRETT | Fiachna ・ BARRETT"
 name_en: "Fiachna BARRETT"
-name_ja: "フィアクナ・バレット"
+name_ja: "Fiachna ・ BARRETT"
 slug: "fiachna-barrett"
 position: "PR"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/fiachna-barrett"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2022 - 2026)

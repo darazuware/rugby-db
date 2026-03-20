@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-spring"
 ---
 
 ## キャリア遍歴
-US Nafarroa (2008 - 2021) -> Aviron Bayonnais (2021 - )
+US Nafarroa (2008 - 2021) -> Aviron Bayonnais (2021 - 2026)

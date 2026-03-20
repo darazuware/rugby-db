@@ -1,13 +1,13 @@
 ---
-title: "S. Riley | nan"
+title: "S. Riley | "
 name_en: "S. Riley"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-riley"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "23/04/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

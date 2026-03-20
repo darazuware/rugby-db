@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-habel-kueffner"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (2015 - 2022) -> Stade Français Paris Rugby (2022 - 2024) -> Aviron Bayonnais (2024 - )
+Section Paloise Béarn Pyrénées (2015 - 2022) -> Stade Français Paris Rugby (2022 - 2024) -> Aviron Bayonnais (2024 - 2026)

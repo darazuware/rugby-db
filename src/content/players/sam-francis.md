@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/sam-francis"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "golden lions (2022 - 2024) -> lions rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

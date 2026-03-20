@@ -1,9 +1,9 @@
 ---
-title: "Aaron WAINWRIGHT | アーロン・ウェインライト"
+title: "Aaron WAINWRIGHT | アーロン ・ WAINWRIGHT"
 name_en: "Aaron WAINWRIGHT"
-name_ja: "アーロン・ウェインライト"
+name_ja: "アーロン ・ WAINWRIGHT"
 slug: "aaron-wainwright"
-position: "FL/No8"
+position: "Back row"
 height: "188.0"
 weight: "110.0"
 birth_date: "1997.09.25"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (52)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/aaron-wainwright"
 ---
 
 ## キャリア遍歴
-Wales
+Dragons RFC (2017 - 2026)

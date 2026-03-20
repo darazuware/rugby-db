@@ -1,13 +1,13 @@
 ---
-title: "J. Jones | nan"
+title: "J. Jones | "
 name_en: "J. Jones"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-jones"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "24/07/1995"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

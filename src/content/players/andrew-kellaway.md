@@ -10,7 +10,7 @@ birth_date: "1995.10.12"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Waratahs"
 caps: "🇦🇺 Australia (24)"
 high_school: ""

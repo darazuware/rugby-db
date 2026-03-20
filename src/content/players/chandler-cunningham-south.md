@@ -1,18 +1,18 @@
 ---
-title: "Chandler Cunningham-South | nan"
+title: "Chandler Cunningham-South | "
 name_en: "Chandler Cunningham-South"
-name_ja: "nan"
+name_ja: ""
 slug: "chandler-cunningham-south"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2003-03-18"
-age: 22.0
+birth_date: "2003.03.18"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (11 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (11)"
 high_school: ""
 university: ""
 scraped_url: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "Joseph Dweba | nan"
+title: "Joseph Dweba | "
 name_en: "Joseph Dweba"
-name_ja: "nan"
+name_ja: ""
 slug: "joseph-dweba"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "25/10/1995"
-age: 30.0
+birth_date: "1995.10.25"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

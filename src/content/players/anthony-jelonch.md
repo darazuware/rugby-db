@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/anthony-jelonch"
 ---
 
 ## キャリア遍歴
-Vic-Fezensac (2004 - 2012) -> Rugby Club Auch (2012 - 2014) -> Castres Olympique (2014 - 2021) -> Stade Toulousain (2021 - )
+Vic-Fezensac (2004 - 2012) -> Rugby Club Auch (2012 - 2014) -> Castres Olympique (2014 - 2021) -> Stade Toulousain (2021 - 2026)

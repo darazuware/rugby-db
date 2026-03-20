@@ -15,7 +15,7 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "glasgow warriors (2020 - 2026)"
 ---
 
 ## キャリア遍歴

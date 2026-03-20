@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/erich-cronje"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "southern kings (2019 - 2019) -> pumas (2019 - 2019) -> southern kings (2020 - 2020) -> pumas (2020 - 2021) -> zebre parma (2021 - 2023) -> lions rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

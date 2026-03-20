@@ -7,16 +7,16 @@ position: "FB"
 height: "184.0"
 weight: "89.0"
 birth_date: "1998.09.02"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
-caps: "🇯🇵 Japan代表 (6 caps)"
+caps: ""
 high_school: "札幌山の手高校"
 university: "大東文化大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484428"
 ---
 
 ## キャリア遍歴
-
+豊田自動織機シャトルズ愛知 (2023 - )

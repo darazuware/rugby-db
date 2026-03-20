@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-leveque"
 ---
 
 ## キャリア遍歴
-US Mouguerre (2012 - 2020) -> Aviron Bayonnais (2020 - )
+US Mouguerre (2012 - 2020) -> Aviron Bayonnais (2020 - 2026)

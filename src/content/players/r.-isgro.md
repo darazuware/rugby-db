@@ -1,18 +1,18 @@
 ---
-title: "R. Isgro | nan"
+title: "R. Isgro | "
 name_en: "R. Isgro"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-isgro"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1999-03-24"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "Squad caps代表 (1454 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

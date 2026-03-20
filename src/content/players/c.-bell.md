@@ -1,7 +1,7 @@
 ---
-title: "C. Bell | nan"
+title: "C. Bell | "
 name_en: "C. Bell"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-bell"
 position: "Lock"
 height: "nan"

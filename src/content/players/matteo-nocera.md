@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/matteo-nocera"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "zebre parma (2018 - 2026)"
 ---
 
 ## キャリア遍歴

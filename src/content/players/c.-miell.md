@@ -1,7 +1,7 @@
 ---
-title: "C. Miell | nan"
+title: "C. Miell | "
 name_en: "C. Miell"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-miell"
 position: "Flanker"
 height: "nan"

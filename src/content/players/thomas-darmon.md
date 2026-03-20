@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-darmon"
 ---
 
 ## キャリア遍歴
-Montpellier Hérault Rugby (2004 - )
+Montpellier Hérault Rugby (2004 - 2026)

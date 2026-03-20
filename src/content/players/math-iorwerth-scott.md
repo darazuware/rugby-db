@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/matholwch-iorwerth-scott"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff met rfc (2022 - 2023) -> bridgend ravens (2023 - 2024) -> ospreys (2024 - 2026)"
 ---
 
 ## キャリア遍歴

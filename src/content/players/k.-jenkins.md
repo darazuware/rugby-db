@@ -1,7 +1,7 @@
 ---
-title: "K. Jenkins | nan"
+title: "K. Jenkins | "
 name_en: "K. Jenkins"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-jenkins"
 position: "Lock"
 height: "nan"

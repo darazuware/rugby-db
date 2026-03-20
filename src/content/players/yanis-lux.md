@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yanis-lux"
 ---
 
 ## キャリア遍歴
-RC Neuilly-sur-Marne (2012 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2020) -> Stade Français Paris Rugby (2020 - )
+RC Neuilly-sur-Marne (2012 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2020) -> Stade Français Paris Rugby (2020 - 2026)

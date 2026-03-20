@@ -1,7 +1,7 @@
 ---
-title: "Stephen SMYTH | ステファン・スミス"
+title: "Stephen SMYTH | Stephen ・ SMYTH"
 name_en: "Stephen SMYTH"
-name_ja: "ステファン・スミス"
+name_ja: "Stephen ・ SMYTH"
 slug: "stephen-smyth"
 position: "HO"
 height: "187.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/stephen-smyth"
 ---
 
 ## キャリア遍歴
-
+Old Wesley RFC (2023 - 2024) -> Leinster Rugby (2024 - 2026)

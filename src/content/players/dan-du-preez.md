@@ -1,13 +1,13 @@
 ---
-title: "Dan du Preez | nan"
+title: "Dan du Preez | "
 name_en: "Dan du Preez"
-name_ja: "nan"
+name_ja: ""
 slug: "dan-du-preez"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "08/05/1995"
-age: 30.0
+birth_date: "1995.08.05"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

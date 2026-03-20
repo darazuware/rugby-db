@@ -1,7 +1,7 @@
 ---
-title: "Tapiwa MAFURA | タピワ・マフラ"
+title: "Tapiwa MAFURA | Tapiwa ・ MAFURA"
 name_en: "Tapiwa MAFURA"
-name_ja: "タピワ・マフラ"
+name_ja: "Tapiwa ・ MAFURA"
 slug: "tapiwa-mafura"
 position: "FB"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tapiwa-mafura"
 ---
 
 ## キャリア遍歴
-
+Pumas (2019 - 2022) -> Central Cheetahs (2022 - 2024) -> Lions Rugby (2024 - 2026)

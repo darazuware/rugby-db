@@ -1,7 +1,7 @@
 ---
-title: "T. Burrow | nan"
+title: "T. Burrow | "
 name_en: "T. Burrow"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-burrow"
 position: "Lock"
 height: "nan"

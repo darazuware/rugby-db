@@ -1,9 +1,9 @@
 ---
-title: "Liam MOLONY | リアム・モロニー"
+title: "Liam MOLONY | リアム ・ MOLONY"
 name_en: "Liam MOLONY"
-name_ja: "リアム・モロニー"
+name_ja: "リアム ・ MOLONY"
 slug: "liam-molony"
-position: "FL/No8"
+position: "Back row"
 height: "183.0"
 weight: "102.0"
 birth_date: "2003.11.09"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/liam-molony"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

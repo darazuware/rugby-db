@@ -1,13 +1,13 @@
 ---
-title: "Will Joseph | nan"
+title: "Will Joseph | "
 name_en: "Will Joseph"
-name_ja: "nan"
+name_ja: ""
 slug: "will-joseph"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2002-07-15"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

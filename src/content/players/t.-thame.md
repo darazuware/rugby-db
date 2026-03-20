@@ -1,13 +1,13 @@
 ---
-title: "T. Thame | nan"
+title: "T. Thame | "
 name_en: "T. Thame"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-thame"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2003-11-08"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -7,16 +7,16 @@ position: "LO"
 height: "185.0"
 weight: "108.0"
 birth_date: "1994.04.20"
-age: 31.0
+age: 31
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "クリタウォーターガッシュ昭島（2025-26）"
 caps: ""
 high_school: "東海大甲府高校"
 university: "愛知学院大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483813"
 ---
 
 ## キャリア遍歴
-
+クリタウォーターガッシュ昭島 (2022 - )

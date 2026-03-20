@@ -1,7 +1,7 @@
 ---
-title: "S. Bedlow | nan"
+title: "S. Bedlow | "
 name_en: "S. Bedlow"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-bedlow"
 position: "Centre"
 height: "nan"

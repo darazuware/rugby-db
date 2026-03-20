@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/herschel-jantjies"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2018) -> Stormers (2017 - 2025) -> Aviron Bayonnais (2025 - )
+Scarlets (2017 - 2017) -> Stormers (2017 - 2017) -> Scarlets (2018 - 2018) -> Stormers (2018 - 2025) -> Aviron Bayonnais (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "O. Hartley | nan"
+title: "O. Hartley | "
 name_en: "O. Hartley"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-hartley"
 position: "Centre"
 height: "nan"

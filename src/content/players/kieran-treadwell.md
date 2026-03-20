@@ -1,18 +1,18 @@
 ---
-title: "Kieran Treadwell | nan"
+title: "Kieran Treadwell | "
 name_en: "Kieran Treadwell"
-name_ja: "nan"
+name_ja: ""
 slug: "kieran-treadwell"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1995.11.06"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "🇳🇿 New Zealand代表 (122 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

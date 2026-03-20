@@ -1,13 +1,13 @@
 ---
-title: "A. Clarey | nan"
+title: "A. Clarey | "
 name_en: "A. Clarey"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-clarey"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/08/1994"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

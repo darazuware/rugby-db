@@ -1,7 +1,7 @@
 ---
-title: "T. O'Flaherty | nan"
+title: "T. O'Flaherty | "
 name_en: "T. O'Flaherty"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-o'flaherty"
 position: "Wing"
 height: "nan"

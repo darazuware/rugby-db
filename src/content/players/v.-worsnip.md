@@ -1,7 +1,7 @@
 ---
-title: "V. Worsnip | nan"
+title: "V. Worsnip | "
 name_en: "V. Worsnip"
-name_ja: "nan"
+name_ja: ""
 slug: "v.-worsnip"
 position: "Centre"
 height: "nan"

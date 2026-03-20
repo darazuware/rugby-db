@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jules-favre"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2017 - )
+Stade Rochelais (2017 - 2026)

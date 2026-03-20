@@ -1,13 +1,13 @@
 ---
-title: "A. van der Flier | nan"
+title: "A. van der Flier | "
 name_en: "A. van der Flier"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-van-der-flier"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "26/02/2002"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

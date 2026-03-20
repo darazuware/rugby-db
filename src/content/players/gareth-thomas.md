@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/gareth-thomas-1993"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2014 - 2026)"
 ---
 
 ## キャリア遍歴

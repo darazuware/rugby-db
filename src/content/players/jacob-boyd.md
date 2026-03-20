@@ -1,7 +1,7 @@
 ---
-title: "Jacob BOYD | ジェイコブ・ボイド"
+title: "Jacob BOYD | Jacob ・ BOYD"
 name_en: "Jacob BOYD"
-name_ja: "ジェイコブ・ボイド"
+name_ja: "Jacob ・ BOYD"
 slug: "jacob-boyd"
 position: "PR"
 height: "186.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jacob-boyd"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2023 - 2026)

@@ -7,7 +7,7 @@ position: "PR"
 height: "169.0"
 weight: "105.0"
 birth_date: "2002.01.10"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "静岡ブルーレヴズ（2025-26）"
 caps: ""
 high_school: "天理高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484197"
 ---
 
 ## キャリア遍歴
-
+静岡ブルーレヴズ (2024 - )

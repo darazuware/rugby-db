@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/damian-markus"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stellenberg high school (2020 - 2021) -> stade rochelais (2021 - 2022) -> western province (2022 - 2024) -> shizuoka blue revs (2024 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴

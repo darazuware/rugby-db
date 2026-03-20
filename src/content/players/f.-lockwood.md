@@ -1,7 +1,7 @@
 ---
-title: "F. Lockwood | nan"
+title: "F. Lockwood | "
 name_en: "F. Lockwood"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-lockwood"
 position: "Flanker"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "George Turner | nan"
+title: "George Turner | "
 name_en: "George Turner"
-name_ja: "nan"
+name_ja: ""
 slug: "george-turner"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "10/08/1992"
-age: 33.0
+birth_date: "1992.10.08"
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,13 +1,13 @@
 ---
-title: "M. Green | nan"
+title: "M. Green | "
 name_en: "M. Green"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-green"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "1996-02-13"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

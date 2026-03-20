@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/juarno-augustus"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2016 - 2021) -> northampton saints (2021 - 2025) -> ulster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

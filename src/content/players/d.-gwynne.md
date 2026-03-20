@@ -1,7 +1,7 @@
 ---
-title: "D. Gwynne | nan"
+title: "D. Gwynne | "
 name_en: "D. Gwynne"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-gwynne"
 position: "Flanker"
 height: "nan"

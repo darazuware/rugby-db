@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-cope"
 ---
 
 ## キャリア遍歴
-Sor Agout XV (2011 - 2020) -> Castres Olympique (2020 - )
+Sor Agout XV (2011 - 2020) -> Castres Olympique (2020 - 2026)

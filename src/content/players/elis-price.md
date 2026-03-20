@@ -1,7 +1,7 @@
 ---
-title: "Elis PRICE | エリス・プライス"
+title: "Elis PRICE | Elis ・ PRICE"
 name_en: "Elis PRICE"
-name_ja: "エリス・プライス"
+name_ja: "Elis ・ PRICE"
 slug: "elis-price"
 position: "CTB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/elis-price"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2023 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "C. Titcombe | nan"
+title: "C. Titcombe | "
 name_en: "C. Titcombe"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-titcombe"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "2001.12.28"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

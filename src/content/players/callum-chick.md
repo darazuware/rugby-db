@@ -1,22 +1,22 @@
 ---
-title: "Callum Chick | nan"
-name_en: "Callum Chick"
-name_ja: "nan"
+title: "Callum CHICK | "
+name_en: "Callum CHICK"
+name_ja: ""
 slug: "callum-chick"
-position: "Flanker"
-height: "nan"
-weight: "nan"
-birth_date: "1996-11-25"
-age: 29.0
+position: "Back row"
+height: "25/11/1996"
+weight: "1"
+birth_date: "nan"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/callum-chick"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

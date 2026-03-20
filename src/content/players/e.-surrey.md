@@ -1,7 +1,7 @@
 ---
-title: "E. Surrey | nan"
+title: "E. Surrey | "
 name_en: "E. Surrey"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-surrey"
 position: "Lock"
 height: "nan"

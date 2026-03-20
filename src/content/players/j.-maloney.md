@@ -1,7 +1,7 @@
 ---
-title: "J. Maloney | nan"
+title: "J. Maloney | "
 name_en: "J. Maloney"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-maloney"
 position: "Lock"
 height: "nan"

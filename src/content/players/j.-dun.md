@@ -1,13 +1,13 @@
 ---
-title: "J. Dun | nan"
+title: "J. Dun | "
 name_en: "J. Dun"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-dun"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "07/07/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

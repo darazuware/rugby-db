@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arthur-mathiron"
 ---
 
 ## キャリア遍歴
-Chalon-sur-Saône (2010 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2026) -> USON Nevers Rugby (2023 - )
+Chalon-sur-Saône (2010 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2023) -> USON Nevers Rugby (2023 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - 2026)

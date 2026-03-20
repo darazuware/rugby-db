@@ -15,7 +15,7 @@ team: "Leinster"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴

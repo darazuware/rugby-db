@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gareth-anscombe"
 ---
 
 ## キャリア遍歴
-Chiefs (2013 - 2014) -> Cardiff Rugby (2014 - 2019) -> Ospreys (2019 - 2023) -> sans club (2023 - 2024) -> Gloucester Rugby (2024 - 2025) -> Aviron Bayonnais (2025 - )
+Chiefs (2013 - 2014) -> Cardiff Rugby (2014 - 2019) -> Ospreys (2019 - 2023) -> sans club (2023 - 2024) -> Gloucester Rugby (2024 - 2025) -> Aviron Bayonnais (2025 - 2026)

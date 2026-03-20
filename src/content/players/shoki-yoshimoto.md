@@ -7,7 +7,7 @@ position: "FB"
 height: "182.0"
 weight: "84.0"
 birth_date: "2002.03.05"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "三菱重工相模原ダイナボアーズ（2025-26）"
 caps: ""
 high_school: "常翔学園高校"
 university: "立命館大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484755"
 ---
 
 ## キャリア遍歴
-
+三菱重工相模原ダイナボアーズ (2024 - )

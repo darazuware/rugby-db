@@ -1,7 +1,7 @@
 ---
-title: "S. Driscoll | nan"
+title: "S. Driscoll | "
 name_en: "S. Driscoll"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-driscoll"
 position: "Flanker"
 height: "nan"

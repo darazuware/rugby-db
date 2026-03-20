@@ -1,7 +1,7 @@
 ---
-title: "Dewi LAKE | デウィ-レイク"
+title: "Dewi LAKE | Dewi ・ LAKE"
 name_en: "Dewi LAKE"
-name_ja: "デウィ-レイク"
+name_ja: "Dewi ・ LAKE"
 slug: "dewi-lake"
 position: "HO"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (9)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dewi-lake"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2026)

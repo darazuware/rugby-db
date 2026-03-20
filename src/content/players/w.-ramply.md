@@ -1,7 +1,7 @@
 ---
-title: "W. Ramply | nan"
+title: "W. Ramply | "
 name_en: "W. Ramply"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-ramply"
 position: "Lock"
 height: "nan"

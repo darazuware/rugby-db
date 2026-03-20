@@ -7,16 +7,16 @@ position: "HO"
 height: "176.0"
 weight: "98.0"
 birth_date: "1998.01.17"
-age: 28.0
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
-caps: "Georgia代表 (43 caps)"
+caps: ""
 high_school: "石見智翠館高校"
 university: "大阪産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484783"
 ---
 
 ## キャリア遍歴
-
+ヤクルトレビンズ戸田 (2024 - )

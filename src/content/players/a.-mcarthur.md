@@ -1,13 +1,13 @@
 ---
-title: "A. McArthur | nan"
+title: "A. McArthur | "
 name_en: "A. McArthur"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-mcarthur"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "06/11/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

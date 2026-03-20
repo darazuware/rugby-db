@@ -7,16 +7,16 @@ position: "WTB"
 height: "191.0"
 weight: "98.0"
 birth_date: "1994.01.17"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
 caps: ""
 high_school: "サウスランドボーイズ"
 university: "アランモアカソリックカレッジ"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484440"
 ---
 
 ## キャリア遍歴
-
+ウェスタン・フォース (2016 - 2017) -> ブランビーズ (2017 - 2019) -> 日野レッドドルフィンズ (2019 - 2023) -> 豊田自動織機シャトルズ愛知 (2023 - )

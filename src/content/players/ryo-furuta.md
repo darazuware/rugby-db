@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "183.0"
 weight: "98.0"
 birth_date: "1995.09.29"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "三重ホンダヒート（2025-26）"
 caps: ""
 high_school: "京都成章高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484700"
 ---
 
 ## キャリア遍歴

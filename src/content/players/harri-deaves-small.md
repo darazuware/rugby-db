@@ -1,9 +1,9 @@
 ---
-title: "Harri DEAVES-SMALL | ハリー・ディーブス＝スモール"
+title: "Harri DEAVES-SMALL | Harri ・ DEAVES ・ SMALL"
 name_en: "Harri DEAVES-SMALL"
-name_ja: "ハリー・ディーブス＝スモール"
+name_ja: "Harri ・ DEAVES ・ SMALL"
 slug: "harri-deaves-small"
-position: "FL/No8"
+position: "Back row"
 height: "182.0"
 weight: "96.0"
 birth_date: "2001.06.13"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harri-deaves-small"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2020 - 2026)

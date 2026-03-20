@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/sam-o-connor"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2021 - 2026)"
 ---
 
 ## キャリア遍歴

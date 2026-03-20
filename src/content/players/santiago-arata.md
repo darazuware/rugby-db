@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/santiago-arata"
 ---
 
 ## キャリア遍歴
-Houston Sabercats (2018 - 2019) -> Club Atlético Peñarol (2019 - 2020) -> Castres Olympique (2020 - )
+Houston Sabercats (2018 - 2019) -> Club Atlético Peñarol (2019 - 2020) -> Castres Olympique (2020 - 2026)

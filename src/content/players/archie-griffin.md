@@ -1,22 +1,22 @@
 ---
-title: "Archie Griffin | nan"
-name_en: "Archie Griffin"
-name_ja: "nan"
+title: "Archie GRIFFIN | "
+name_en: "Archie GRIFFIN"
+name_ja: ""
 slug: "archie-griffin"
 position: "Prop"
-height: "nan"
-weight: "nan"
-birth_date: "23/07/2001"
-age: 24.0
+height: "23/07/2001"
+weight: "1"
+birth_date: "nan"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Bath Rugby"
+league: "mlr"
+team: "The Bath Rugby rugby team for 2025/2026"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/archie-griffin"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

@@ -15,7 +15,7 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (59)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "worcester warriors (2016 - 2019) -> cardiff rugby (2019 - 2026)"
 ---
 
 ## キャリア遍歴

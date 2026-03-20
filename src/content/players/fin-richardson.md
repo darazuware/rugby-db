@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/finlay-richardson"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "exeter university rfc (2021 - 2022) -> exeter chiefs (2022 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2024 - 2024) -> cornish pirates (2024 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴

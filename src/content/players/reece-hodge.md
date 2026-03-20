@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reece-hodge"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2023) -> Aviron Bayonnais (2023 - )
+Melbourne Rebels (2015 - 2023) -> Aviron Bayonnais (2023 - 2026)

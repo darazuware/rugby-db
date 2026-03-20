@@ -1,7 +1,7 @@
 ---
-title: "J. Cherry | nan"
+title: "J. Cherry | "
 name_en: "J. Cherry"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-cherry"
 position: "Flanker"
 height: "nan"

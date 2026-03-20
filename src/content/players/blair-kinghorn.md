@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/blair-kinghorn"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2015 - 2024) -> Stade Toulousain (2023 - )
+Edimbourg Rugby (2015 - 2023) -> Stade Toulousain (2023 - 2023) -> Edimbourg Rugby (2024 - 2024) -> Stade Toulousain (2024 - 2026)

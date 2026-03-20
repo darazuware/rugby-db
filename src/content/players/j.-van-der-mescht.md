@@ -1,13 +1,13 @@
 ---
-title: "J. van der Mescht | nan"
+title: "J. van der Mescht | "
 name_en: "J. van der Mescht"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-van-der-mescht"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1999-04-05"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

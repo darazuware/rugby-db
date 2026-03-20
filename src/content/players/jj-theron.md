@@ -1,9 +1,9 @@
 ---
-title: "JJ THERON | JJ-セロン"
+title: "JJ THERON | JJ ・ THERON"
 name_en: "JJ THERON"
-name_ja: "JJ-セロン"
+name_ja: "JJ ・ THERON"
 slug: "jj-theron"
-position: "FL/No8"
+position: "Back row"
 height: "198.0"
 weight: "108.0"
 birth_date: "2005.."
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jj-theron"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

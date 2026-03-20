@@ -1,7 +1,7 @@
 ---
-title: "Ryan BAIRD | ライアン・ベアード"
+title: "Ryan BAIRD | ライアン ・ BAIRD"
 name_en: "Ryan BAIRD"
-name_ja: "ライアン・ベアード"
+name_ja: "ライアン ・ BAIRD"
 slug: "ryan-baird"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (27)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ryan-baird"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2018 - 2026)

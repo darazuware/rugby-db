@@ -1,7 +1,7 @@
 ---
-title: "George TUCKLEY | ジョージ・タックリー"
+title: "George TUCKLEY | George ・ TUCKLEY"
 name_en: "George TUCKLEY"
-name_ja: "ジョージ・タックリー"
+name_ja: "George ・ TUCKLEY"
 slug: "george-tuckley"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/george-tuckley"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2023 - 2026)

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/sam-scarfe"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2022 - 2023) -> gloucester rugby (2023 - 2023) -> dragons rfc (2023 - 2023) -> gloucester rugby (2024 - 2024) -> dragons rfc (2024 - 2026)"
 ---
 
 ## キャリア遍歴

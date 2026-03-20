@@ -1,7 +1,7 @@
 ---
-title: "T. Curtis | nan"
+title: "T. Curtis | "
 name_en: "T. Curtis"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-curtis"
 position: "Fly-half"
 height: "nan"

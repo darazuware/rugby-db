@@ -1,7 +1,7 @@
 ---
-title: "Luke BURGER | ルーク・バーガー"
+title: "Luke BURGER | ルーク ・ BURGER"
 name_en: "Luke BURGER"
-name_ja: "ルーク・バーガー"
+name_ja: "ルーク ・ BURGER"
 slug: "luke-burger"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/luke-burger"
 ---
 
 ## キャリア遍歴
-
+Western Province (2022 - 2024) -> Stormers (2024 - 2026)

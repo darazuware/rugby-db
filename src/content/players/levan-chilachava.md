@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/levan-chilachava"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2009 - 2018) -> Montpellier Hérault Rugby (2018 - 2021) -> Castres Olympique (2020 - )
+Rugby Club Toulonnais (2009 - 2018) -> Montpellier Hérault Rugby (2018 - 2020) -> Castres Olympique (2020 - 2020) -> Montpellier Hérault Rugby (2021 - 2021) -> Castres Olympique (2021 - 2026)

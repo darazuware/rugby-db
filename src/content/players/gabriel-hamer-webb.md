@@ -1,13 +1,13 @@
 ---
-title: "Gabriel Hamer-Webb | nan"
+title: "Gabriel Hamer-Webb | "
 name_en: "Gabriel Hamer-Webb"
-name_ja: "nan"
+name_ja: ""
 slug: "gabriel-hamer-webb"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2000.11.07"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

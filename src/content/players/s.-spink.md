@@ -1,7 +1,7 @@
 ---
-title: "S. Spink | nan"
+title: "S. Spink | "
 name_en: "S. Spink"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-spink"
 position: "Centre"
 height: "nan"

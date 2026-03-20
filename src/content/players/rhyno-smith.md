@@ -10,12 +10,12 @@ birth_date: "1993.02.11"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/rhyno-smith"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2015 - 2017) -> central cheetahs (2018 - 2018) -> sharks (2018 - 2018) -> central cheetahs (2019 - 2019) -> sharks (2019 - 2019) -> central cheetahs (2019 - 2021) -> benetton rugby trévise (2021 - 2026)"
 ---
 
 ## キャリア遍歴

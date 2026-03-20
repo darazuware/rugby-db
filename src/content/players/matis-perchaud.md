@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matis-perchaud"
 ---
 
 ## キャリア遍歴
-US Mouguerre (2008 - 2017) -> Aviron Bayonnais (2017 - 2024) -> Union Bordeaux-Bègles (2024 - )
+US Mouguerre (2008 - 2017) -> Aviron Bayonnais (2017 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

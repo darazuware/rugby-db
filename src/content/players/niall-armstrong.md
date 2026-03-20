@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/niall-armstrong"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "exeter university rfc (2021 - 2023) -> exeter chiefs (2023 - 2025) -> dragons rfc (2025 - 2026)"
 ---
 
 ## キャリア遍歴

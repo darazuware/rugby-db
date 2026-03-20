@@ -15,7 +15,7 @@ team: "Connacht"
 caps: "🇮🇪 Ireland (28)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "brumbies (2018 - 2021) -> connacht rugby (2021 - 2026)"
 ---
 
 ## キャリア遍歴

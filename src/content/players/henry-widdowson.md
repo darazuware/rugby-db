@@ -10,12 +10,12 @@ birth_date: "2007.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/henry-widdowson"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "merchiston castle school (2024 - 2025) -> edimbourg rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

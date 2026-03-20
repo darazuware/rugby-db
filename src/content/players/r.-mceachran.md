@@ -1,7 +1,7 @@
 ---
-title: "R. McEachran | nan"
+title: "R. McEachran | "
 name_en: "R. McEachran"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-mceachran"
 position: "Prop"
 height: "nan"

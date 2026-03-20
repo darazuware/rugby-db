@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/juan-schoeman"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2015 - 2019) -> southern kings (2019 - 2019) -> bath rugby (2019 - 2019) -> sharks (2020 - 2020) -> southern kings (2020 - 2020) -> bath rugby (2020 - 2024) -> lions rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

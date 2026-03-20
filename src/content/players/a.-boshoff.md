@@ -1,7 +1,7 @@
 ---
-title: "A. Boshoff | nan"
+title: "A. Boshoff | "
 name_en: "A. Boshoff"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-boshoff"
 position: "Wing"
 height: "nan"

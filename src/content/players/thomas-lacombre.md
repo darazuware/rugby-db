@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-lacombre"
 ---
 
 ## キャリア遍歴
-Club Athlétique Pratéen (2011 - 2018) -> Saint-Girons SC Couserans (2018 - 2019) -> Stade Toulousain (2019 - )
+Club Athlétique Pratéen (2011 - 2018) -> Saint-Girons SC Couserans (2018 - 2019) -> Stade Toulousain (2019 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "SJ KOTZE | SJ・クッツェー"
+title: "SJ KOTZE | SJ ・ KOTZE"
 name_en: "SJ KOTZE"
-name_ja: "SJ・クッツェー"
+name_ja: "SJ ・ KOTZE"
 slug: "sj-kotze"
 position: "HO"
 height: "186.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sj-kotze"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)

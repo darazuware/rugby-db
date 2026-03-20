@@ -15,7 +15,7 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (40)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "chiefs (2013 - 2017) -> leinster rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴

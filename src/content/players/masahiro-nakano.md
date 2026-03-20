@@ -7,16 +7,16 @@ position: "WTB"
 height: "168.0"
 weight: "78.0"
 birth_date: "1996.01.25"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "中国電力レッドレグリオンズ（2025-26）"
-caps: "🇯🇵 セブンズ日本(18)"
+caps: "セブンズ日本(18)"
 high_school: "石見智翠館高校"
 university: "九州共立大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484280"
 ---
 
 ## キャリア遍歴
-
+中国電力レッドレギュリオンズ (2021 - )

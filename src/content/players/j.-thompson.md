@@ -1,13 +1,13 @@
 ---
-title: "J. Thompson | nan"
+title: "J. Thompson | "
 name_en: "J. Thompson"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-thompson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "13/07/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

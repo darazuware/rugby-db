@@ -1,7 +1,7 @@
 ---
-title: "Kyle STEYN | カイル・ステイン"
+title: "Kyle STEYN | Kyle ・ STEYN"
 name_en: "Kyle STEYN"
-name_ja: "カイル・ステイン"
+name_ja: "Kyle ・ STEYN"
 slug: "kyle-steyn"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (15)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/kyle-steyn"
 ---
 
 ## キャリア遍歴
-South Africa
+Glasgow Warriors (2018 - 2026)

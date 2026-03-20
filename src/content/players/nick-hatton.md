@@ -10,12 +10,12 @@ birth_date: "2003.01.17"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/nick-hatton"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "natal sharks (2021 - 2023) -> sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joris-segonds"
 ---
 
 ## キャリア遍歴
-SC Decazeville (2003 - 2013) -> Stade Aurillacois Cantal Auvergne (2013 - 2019) -> Stade Français Paris Rugby (2019 - 2024) -> Aviron Bayonnais (2024 - )
+SC Decazeville (2003 - 2013) -> Stade Aurillacois Cantal Auvergne (2013 - 2019) -> Stade Français Paris Rugby (2019 - 2024) -> Aviron Bayonnais (2024 - 2026)

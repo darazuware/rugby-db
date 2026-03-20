@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/iwan-stephens"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leeds rhinos rugby league club (2019 - 2020) -> newcastle (2020 - 2024) -> cardiff rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-costes"
 ---
 
 ## キャリア遍歴
-Toulouse Université Club (2010 - 2015) -> US Colomiers (2015 - 2018) -> Stade Toulousain (2018 - )
+Toulouse Université Club (2010 - 2015) -> US Colomiers (2015 - 2018) -> Stade Toulousain (2018 - 2026)

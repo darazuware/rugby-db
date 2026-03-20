@@ -1,7 +1,7 @@
 ---
-title: "H. James | nan"
+title: "H. James | "
 name_en: "H. James"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-james"
 position: "Centre"
 height: "nan"

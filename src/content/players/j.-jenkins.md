@@ -1,13 +1,13 @@
 ---
-title: "J. Jenkins | nan"
+title: "J. Jenkins | "
 name_en: "J. Jenkins"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-jenkins"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1995.12.02"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/akato-fakatika"
 ---
 
 ## キャリア遍歴
-Racing Club Narbonnais (2017 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - )
+Racing Club Narbonnais (2017 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - 2026)

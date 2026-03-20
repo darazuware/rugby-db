@@ -7,16 +7,16 @@ position: "PR"
 height: "175.0"
 weight: "112.0"
 birth_date: "1999.12.12"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "NECグリーンロケッツ東葛（2025-26）"
 caps: ""
 high_school: "筑紫台高校"
 university: "京都産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483538"
 ---
 
 ## キャリア遍歴
-
+ルリーロ福岡 (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

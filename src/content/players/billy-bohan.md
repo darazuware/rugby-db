@@ -1,7 +1,7 @@
 ---
-title: "Billy BOHAN | ビリー・ボーハン"
+title: "Billy BOHAN | Billy ・ BOHAN"
 name_en: "Billy BOHAN"
-name_ja: "ビリー・ボーハン"
+name_ja: "Billy ・ BOHAN"
 slug: "billy-bohan"
 position: "PR"
 height: "191.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/billy-bohan"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2024 - 2026)

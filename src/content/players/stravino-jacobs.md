@@ -1,9 +1,9 @@
 ---
-title: "Stravino JACOBS | ストラヴィーノ・ジェイコブス"
+title: "Stravino JACOBS | Stravino ・ JACOBS"
 name_en: "Stravino JACOBS"
-name_ja: "ストラヴィーノ・ジェイコブス"
+name_ja: "Stravino ・ JACOBS"
 slug: "stravino-jacobs"
-position: "WTB"
+position: "Winger"
 height: "180.0"
 weight: "103.0"
 birth_date: "2000.02.21"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/stravino-jacobs"
 ---
 
 ## キャリア遍歴
-
+Bulls (2020 - 2026)

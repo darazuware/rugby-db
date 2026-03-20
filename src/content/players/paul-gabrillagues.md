@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-gabrillagues"
 ---
 
 ## キャリア遍歴
-Paris Université Club (2007 - 2011) -> Stade Français Paris Rugby (2011 - )
+Paris Université Club (2007 - 2011) -> Stade Français Paris Rugby (2011 - 2026)

@@ -10,7 +10,7 @@ birth_date: "1994.12.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Chiefs"
 caps: "🇦🇺 Australia (6)"
 high_school: ""

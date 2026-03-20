@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charles-laloi"
 ---
 
 ## キャリア遍歴
-CA Périgueux Dordogne (2008 - 2018) -> Union Bordeaux-Bègles (2018 - 2021) -> Stade Français Paris Rugby (2021 - )
+CA Périgueux Dordogne (2008 - 2018) -> Union Bordeaux-Bègles (2018 - 2021) -> Stade Français Paris Rugby (2021 - 2026)

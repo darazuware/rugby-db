@@ -1,7 +1,7 @@
 ---
-title: "R. Ebanks | nan"
+title: "R. Ebanks | "
 name_en: "R. Ebanks"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-ebanks"
 position: "Scrum-half"
 height: "nan"

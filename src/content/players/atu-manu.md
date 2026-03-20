@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/atu-manu"
 ---
 
 ## キャリア遍歴
-Rugby Viadana 1970 (2017 - 2018) -> Rugby Club Massy Essonne (2018 - 2019) -> Stade Français Paris Rugby (2018 - 2022) -> US Carcassonne (2019 - 2020) -> FC Grenoble Rugby (2021 - 2024) -> USON Nevers Rugby (2024 - 2026) -> Castres Olympique (2025 - )
+Rugby Viadana 1970 (2017 - 2018) -> Stade Français Paris Rugby (2018 - 2018) -> Rugby Club Massy Essonne (2018 - 2018) -> Stade Français Paris Rugby (2019 - 2019) -> Rugby Club Massy Essonne (2019 - 2019) -> Stade Français Paris Rugby (2019 - 2019) -> US Carcassonne (2019 - 2019) -> Stade Français Paris Rugby (2020 - 2020) -> US Carcassonne (2020 - 2020) -> Stade Français Paris Rugby (2020 - 2021) -> FC Grenoble Rugby (2021 - 2021) -> Stade Français Paris Rugby (2022 - 2022) -> FC Grenoble Rugby (2022 - 2024) -> USON Nevers Rugby (2024 - 2025) -> Castres Olympique (2025 - 2025) -> USON Nevers Rugby (2026 - 2026) -> Castres Olympique (2026 - 2026)

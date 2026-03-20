@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cyril-blanchard"
 ---
 
 ## キャリア遍歴
-Club athlétique de Saint-Étienne (2009 - 2011) -> Oyonnax Rugby (2011 - 2013) -> AS Mâcon Rugby (2013 - 2015) -> Union Sportive Bressane Pays de l'Ain (2015 - 2017) -> Rugby Club Vannes (2017 - )
+Club athlétique de Saint-Étienne (2009 - 2011) -> Oyonnax Rugby (2011 - 2013) -> AS Mâcon Rugby (2013 - 2015) -> Union Sportive Bressane Pays de l'Ain (2015 - 2017) -> Rugby Club Vannes (2017 - 2026)

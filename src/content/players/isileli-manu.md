@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "191.0"
 weight: "120.0"
 birth_date: "1999.07.20"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
 caps: ""
 high_school: "ディルワース"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484408"
 ---
 
 ## キャリア遍歴
-
+Not Found

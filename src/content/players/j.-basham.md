@@ -1,13 +1,13 @@
 ---
-title: "J. Basham | nan"
+title: "J. Basham | "
 name_en: "J. Basham"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-basham"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1999-04-17"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

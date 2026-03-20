@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/harvey-cuckson"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "worcester warriors (2021 - 2022) -> bath rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> bath rugby (2023 - 2025) -> worcester warriors (2025 - 2025) -> scarlets (2025 - 2025) -> bath rugby (2026 - 2026) -> worcester warriors (2026 - 2026) -> scarlets (2026 - 2026)"
 ---
 
 ## キャリア遍歴

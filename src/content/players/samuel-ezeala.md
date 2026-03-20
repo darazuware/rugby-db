@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/samuel-ezeala"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2015 - 2023) -> Section Paloise Béarn Pyrénées (2023 - 2024) -> Stade Français Paris Rugby (2024 - )
+ASM Clermont Auvergne (2015 - 2023) -> Section Paloise Béarn Pyrénées (2023 - 2024) -> Stade Français Paris Rugby (2024 - 2026)

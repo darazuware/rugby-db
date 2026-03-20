@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/william-greatbanks"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "club athlétique ribéracois (2010 - 2018) -> union bordeaux-bègles (2018 - 2018) -> soyaux-angoulême xv charente (2018 - 2018) -> union bordeaux-bègles (2019 - 2019) -> soyaux-angoulême xv charente (2019 - 2024) -> ospreys (2024 - 2026)"
 ---
 
 ## キャリア遍歴

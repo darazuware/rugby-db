@@ -7,16 +7,16 @@ position: "FB"
 height: "177.0"
 weight: "83.0"
 birth_date: "2000.11.13"
-age: 25.0
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "三重ホンダヒート（2025-26）"
-caps: "🇯🇵 セブンズ日本(4)"
+caps: "セブンズ日本(4)"
 high_school: "茗渓学園高校"
 university: "筑波大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484687"
 ---
 
 ## キャリア遍歴
-
+三重ホンダヒート (2023 - )

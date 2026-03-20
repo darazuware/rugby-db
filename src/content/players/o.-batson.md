@@ -1,7 +1,7 @@
 ---
-title: "O. Batson | nan"
+title: "O. Batson | "
 name_en: "O. Batson"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-batson"
 position: "Centre"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "Beno Obano | nan"
+title: "Beno Obano | "
 name_en: "Beno Obano"
-name_ja: "nan"
+name_ja: ""
 slug: "beno-obano"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "25/10/1994"
-age: 31.0
+birth_date: "1994.10.25"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

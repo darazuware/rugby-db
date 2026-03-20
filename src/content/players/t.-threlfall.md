@@ -1,7 +1,7 @@
 ---
-title: "T. Threlfall | nan"
+title: "T. Threlfall | "
 name_en: "T. Threlfall"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-threlfall"
 position: "Fly-half"
 height: "nan"

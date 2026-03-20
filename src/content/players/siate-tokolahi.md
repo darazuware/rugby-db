@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "🇹🇴 Tonga代表 (3 caps)"
+caps: "🇹🇴 Tonga (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/siate-tokolahi"
 ---
 
 ## キャリア遍歴
-Chiefs (2014 - 2016) -> Highlanders (2016 - 2021) -> Southland Stags (2019 - 2020) -> Section Paloise Béarn Pyrénées (2021 - )
+Chiefs (2014 - 2016) -> Highlanders (2016 - 2019) -> Southland Stags (2019 - 2019) -> Highlanders (2020 - 2020) -> Southland Stags (2020 - 2020) -> Highlanders (2020 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)

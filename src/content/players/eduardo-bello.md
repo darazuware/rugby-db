@@ -1,13 +1,13 @@
 ---
-title: "Eduardo Bello | nan"
+title: "Eduardo Bello | "
 name_en: "Eduardo Bello"
-name_ja: "nan"
+name_ja: ""
 slug: "eduardo-bello"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "27/11/1995"
-age: 30.0
+birth_date: "1995.11.27"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

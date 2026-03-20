@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-parrou"
 ---
 
 ## キャリア遍歴
-Entente Bazet Andrest (2007 - 2016) -> Stado Tarbes Pyrénées Rugby (2016 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )
+Entente Bazet Andrest (2007 - 2016) -> Stado Tarbes Pyrénées Rugby (2016 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)

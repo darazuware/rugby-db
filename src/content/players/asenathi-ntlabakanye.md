@@ -1,7 +1,7 @@
 ---
-title: "Asenathi NTLABAKANYE | アセナティ・ントラバカニェ"
+title: "Asenathi NTLABAKANYE | Asenathi ・ NTLABAKANYE"
 name_en: "Asenathi NTLABAKANYE"
-name_ja: "アセナティ・ントラバカニェ"
+name_ja: "Asenathi ・ NTLABAKANYE"
 slug: "asenathi-ntlabakanye"
 position: "PR"
 height: "182.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/asenathi-ntlabakanye"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)

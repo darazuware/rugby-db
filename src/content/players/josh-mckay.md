@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/josh-mckay"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "highlanders (2017 - 2019) -> canterbury (2019 - 2019) -> highlanders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴

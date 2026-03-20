@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ibrahim-diallo"
 ---
 
 ## キャリア遍歴
-AAS Sarcelles Rugby (2008 - 2014) -> Racing 92 (2014 - )
+AAS Sarcelles Rugby (2008 - 2014) -> Racing 92 (2014 - 2026)

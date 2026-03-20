@@ -1,13 +1,13 @@
 ---
-title: "E. Painter | nan"
+title: "E. Painter | "
 name_en: "E. Painter"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-painter"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "21/03/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

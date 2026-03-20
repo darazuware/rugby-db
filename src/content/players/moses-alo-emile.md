@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/moses-alo-emile"
 ---
 
 ## キャリア遍歴
-Brisbane State High School (2017 - 2018) -> Stade Français Paris Rugby (2018 - )
+Brisbane State High School (2017 - 2018) -> Stade Français Paris Rugby (2018 - 2026)

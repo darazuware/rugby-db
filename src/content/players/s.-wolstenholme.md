@@ -1,7 +1,7 @@
 ---
-title: "S. Wolstenholme | nan"
+title: "S. Wolstenholme | "
 name_en: "S. Wolstenholme"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-wolstenholme"
 position: "Scrum-half"
 height: "nan"

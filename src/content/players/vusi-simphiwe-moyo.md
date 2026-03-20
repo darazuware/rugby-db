@@ -10,12 +10,12 @@ birth_date: "2006.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/simphiwe-moyo"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "natal sharks (2024 - 2025) -> sharks (2025 - 2026)"
 ---
 
 ## キャリア遍歴

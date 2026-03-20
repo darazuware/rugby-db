@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tolu-latu"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2013 - 2023) -> Stade Français Paris Rugby (2019 - 2022) -> Montpellier Hérault Rugby (2023 - 2024) -> Stade Rochelais (2023 - )
+New South Wales Waratahs (2013 - 2019) -> Stade Français Paris Rugby (2019 - 2022) -> New South Wales Waratahs (2022 - 2023) -> Montpellier Hérault Rugby (2023 - 2023) -> Stade Rochelais (2023 - 2023) -> Montpellier Hérault Rugby (2024 - 2024) -> Stade Rochelais (2024 - 2026)

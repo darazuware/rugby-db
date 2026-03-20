@@ -1,13 +1,13 @@
 ---
-title: "Joaquín Moro | nan"
+title: "Joaquín Moro | "
 name_en: "Joaquín Moro"
-name_ja: "nan"
+name_ja: ""
 slug: "joaquín-moro"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.01.24"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

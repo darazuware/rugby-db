@@ -1,18 +1,18 @@
 ---
-title: "L. James | nan"
+title: "L. James | "
 name_en: "L. James"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-james"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1993.11.28"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🇿🇦 South Africa代表 (35 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

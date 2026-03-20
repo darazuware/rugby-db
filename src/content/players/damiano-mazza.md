@@ -1,7 +1,7 @@
 ---
-title: "Damiano MAZZA | ダミアーノ・マッツァ"
+title: "Damiano MAZZA | Damiano ・ MAZZA"
 name_en: "Damiano MAZZA"
-name_ja: "ダミアーノ・マッツァ"
+name_ja: "Damiano ・ MAZZA"
 slug: "damiano-mazza"
 position: "CTB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/damiano-mazza"
 ---
 
 ## キャリア遍歴
-
+Rugby Calvisano (2018 - 2022) -> Zebre Parma (2022 - 2026)

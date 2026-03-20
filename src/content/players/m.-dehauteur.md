@@ -1,13 +1,13 @@
 ---
-title: "M. Dehauteur | nan"
+title: "M. Dehauteur | "
 name_en: "M. Dehauteur"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-dehauteur"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1997.11.06"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

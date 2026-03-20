@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gael-fickou"
 ---
 
 ## キャリア遍歴
-Union Sportive Seynoise (2006 - 2009) -> Rugby Club Toulonnais (2009 - 2012) -> Stade Toulousain (2012 - 2018) -> Stade Français Paris Rugby (2018 - 2021) -> Racing 92 (2020 - )
+Union Sportive Seynoise (2006 - 2009) -> Rugby Club Toulonnais (2009 - 2012) -> Stade Toulousain (2012 - 2018) -> Stade Français Paris Rugby (2018 - 2020) -> Racing 92 (2020 - 2020) -> Stade Français Paris Rugby (2021 - 2021) -> Racing 92 (2021 - 2026)

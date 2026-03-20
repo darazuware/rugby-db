@@ -10,12 +10,12 @@ birth_date: "2000.01.18"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/ross-braude"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "blue bulls (2019 - 2020) -> toronto arrows (2020 - 2023) -> pumas (2023 - 2025) -> sharks (2025 - 2026)"
 ---
 
 ## キャリア遍歴

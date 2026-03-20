@@ -1,13 +1,13 @@
 ---
-title: "A. Heaney | nan"
+title: "A. Heaney | "
 name_en: "A. Heaney"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-heaney"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "21/07/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

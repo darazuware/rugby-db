@@ -7,16 +7,16 @@ position: "WTB"
 height: "184.0"
 weight: "90.0"
 birth_date: "1999.03.11"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "日野レッドドルフィンズ（2025-26）"
-caps: "🇯🇵 U20('19)、セブンズ日本(28)"
+caps: "U20('19)、セブンズ日本(28)"
 high_school: "佐賀工業高校"
 university: "関東学院大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484580"
 ---
 
 ## キャリア遍歴
-
+日野レッドドルフィンズ (2024 - )

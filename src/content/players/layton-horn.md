@@ -1,7 +1,7 @@
 ---
-title: "Layton HORN | レイトン・ホーン"
+title: "Layton HORN | Layton ・ HORN"
 name_en: "Layton HORN"
-name_ja: "レイトン・ホーン"
+name_ja: "Layton ・ HORN"
 slug: "layton-horn"
 position: "SH"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/layton-horn"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2023 - 2024) -> Lions Rugby (2024 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/soumaila-camara"
 ---
 
 ## キャリア遍歴
-AC Bobigny 93 (2011 - 2024) -> Racing 92 (2024 - )
+AC Bobigny 93 (2011 - 2024) -> Racing 92 (2024 - 2026)

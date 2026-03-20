@@ -1,13 +1,13 @@
 ---
-title: "S. Kirk | nan"
+title: "S. Kirk | "
 name_en: "S. Kirk"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-kirk"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "30/01/2004"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

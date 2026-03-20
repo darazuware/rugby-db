@@ -1,13 +1,13 @@
 ---
-title: "J. Clement | nan"
+title: "J. Clement | "
 name_en: "J. Clement"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-clement"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2001-02-27"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

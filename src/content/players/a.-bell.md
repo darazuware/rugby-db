@@ -1,13 +1,13 @@
 ---
-title: "A. Bell | nan"
+title: "A. Bell | "
 name_en: "A. Bell"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-bell"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1996-04-08"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

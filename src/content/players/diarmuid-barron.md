@@ -1,7 +1,7 @@
 ---
-title: "Diarmuid BARRON | ダーマッド-バロン"
+title: "Diarmuid BARRON | Diarmuid ・ BARRON"
 name_en: "Diarmuid BARRON"
-name_ja: "ダーマッド-バロン"
+name_ja: "Diarmuid ・ BARRON"
 slug: "diarmuid-barron"
 position: "HO"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/diarmuid-barron"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2018 - 2026)

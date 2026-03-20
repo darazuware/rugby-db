@@ -1,7 +1,7 @@
 ---
-title: "Manuel RASS | マヌエル・ラス"
+title: "Manuel RASS | Manuel ・ RASS"
 name_en: "Manuel RASS"
-name_ja: "マヌエル・ラス"
+name_ja: "Manuel ・ RASS"
 slug: "manuel-rass"
 position: "CTB"
 height: "174.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/manuel-rass"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2026)

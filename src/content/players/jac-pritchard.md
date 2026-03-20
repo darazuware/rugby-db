@@ -1,7 +1,7 @@
 ---
-title: "Jac PRITCHARD | ジャック・プリチャード"
+title: "Jac PRITCHARD | Jac ・ PRITCHARD"
 name_en: "Jac PRITCHARD"
-name_ja: "ジャック・プリチャード"
+name_ja: "Jac ・ PRITCHARD"
 slug: "jac-pritchard"
 position: "PR"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jac-pritchard"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

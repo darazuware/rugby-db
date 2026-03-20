@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/ruan-nortje"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2017 - 2018) -> blue bulls (2018 - 2019) -> bulls (2019 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/giacomo-milano"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "unione rugby capitolina (2023 - 2024) -> zebre parma (2024 - 2026)"
 ---
 
 ## キャリア遍歴

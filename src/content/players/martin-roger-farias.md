@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/martin-roger-farias"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "club atlético san isidro (2020 - 2021) -> rugby viadana 1970 (2023 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,9 +1,9 @@
 ---
-title: "Josh GIBSON | ジョシュ・ギブソン"
+title: "Josh GIBSON | ジョシュ ・ ギブソン"
 name_en: "Josh GIBSON"
-name_ja: "ジョシュ・ギブソン"
+name_ja: "ジョシュ ・ ギブソン"
 slug: "josh-gibson"
-position: "WTB"
+position: "Winger"
 height: "nan"
 weight: "nan"
 birth_date: "nan"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/josh-gibson"
 ---
 
 ## キャリア遍歴
-
+Banbridge RFC (2024 - 2025) -> Ulster Rugby (2025 - 2026)

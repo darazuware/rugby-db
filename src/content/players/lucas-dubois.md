@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-dubois"
 ---
 
 ## キャリア遍歴
-AS Bages Villeneuve (2006 - 2012) -> Union Sportive Arlequins Perpignanais (2013 - )
+AS Bages Villeneuve (2006 - 2012) -> Union Sportive Arlequins Perpignanais (2013 - 2026)

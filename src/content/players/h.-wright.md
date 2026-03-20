@@ -1,7 +1,7 @@
 ---
-title: "H. Wright | nan"
+title: "H. Wright | "
 name_en: "H. Wright"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-wright"
 position: "Prop"
 height: "nan"

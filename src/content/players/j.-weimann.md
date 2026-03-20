@@ -1,13 +1,13 @@
 ---
-title: "J. Weimann | nan"
+title: "J. Weimann | "
 name_en: "J. Weimann"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-weimann"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

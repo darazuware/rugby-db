@@ -1,7 +1,7 @@
 ---
-title: "C. Byrne | nan"
+title: "C. Byrne | "
 name_en: "C. Byrne"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-byrne"
 position: "Wing"
 height: "nan"

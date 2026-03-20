@@ -1,7 +1,7 @@
 ---
-title: "Alessandro FUSCO | アレッサンドロ-フスコ"
+title: "Alessandro FUSCO | Alessandro ・ FUSCO"
 name_en: "Alessandro FUSCO"
-name_ja: "アレッサンドロ-フスコ"
+name_ja: "Alessandro ・ FUSCO"
 slug: "alessandro-fusco"
 position: "SH"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: "🇮🇹 Italy (15)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alessandro-fusco"
 ---
 
 ## キャリア遍歴
-
+Fiamme Oro Roma (2019 - 2020) -> Zebre Parma (2020 - 2026)

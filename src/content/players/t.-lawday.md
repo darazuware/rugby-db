@@ -1,7 +1,7 @@
 ---
-title: "T. Lawday | nan"
+title: "T. Lawday | "
 name_en: "T. Lawday"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-lawday"
 position: "Flanker"
 height: "nan"

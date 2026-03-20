@@ -10,7 +10,7 @@ birth_date: "1992.11.05"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Blues"
 caps: "🇼🇸 Samoa (26)"
 high_school: ""

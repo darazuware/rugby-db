@@ -15,7 +15,7 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (53)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2014 - 2016) -> glasgow warriors (2017 - 2021) -> harlequins (2021 - 2022) -> glasgow warriors (2022 - 2026)"
 ---
 
 ## キャリア遍歴

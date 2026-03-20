@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/ioan-nicholas"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2015 - 2017) -> benetton rugby trévise (2017 - 2017) -> scarlets (2018 - 2018) -> benetton rugby trévise (2018 - 2018) -> scarlets (2018 - 2026)"
 ---
 
 ## キャリア遍歴

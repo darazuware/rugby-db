@@ -10,12 +10,12 @@ birth_date: "1997.10.12"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/lee-marvin-mazibuko"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2018 - 2019) -> rugby viadana 1970 (2019 - 2020) -> western province (2020 - 2021) -> stormers (2021 - 2024) -> racing 92 (2024 - 2024) -> natal sharks (2024 - 2024) -> racing 92 (2025 - 2025) -> natal sharks (2025 - 2025) -> sharks (2025 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Denis BUCKLEY | デニス・バックリー"
+title: "Denis BUCKLEY | Denis ・ BUCKLEY"
 name_en: "Denis BUCKLEY"
-name_ja: "デニス・バックリー"
+name_ja: "Denis ・ BUCKLEY"
 slug: "denis-buckley"
 position: "PR"
 height: "177.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/denis-buckley"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2013 - 2026)

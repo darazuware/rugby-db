@@ -1,13 +1,13 @@
 ---
-title: "T. Cardall | nan"
+title: "T. Cardall | "
 name_en: "T. Cardall"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-cardall"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "13/01/1997"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/sean-o-brien-1998"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "connacht rugby (2019 - 2021) -> exeter chiefs (2021 - 2023) -> munster rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

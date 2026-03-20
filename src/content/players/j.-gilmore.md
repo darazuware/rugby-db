@@ -1,7 +1,7 @@
 ---
-title: "J. Gilmore | nan"
+title: "J. Gilmore | "
 name_en: "J. Gilmore"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-gilmore"
 position: "Lock"
 height: "nan"

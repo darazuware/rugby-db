@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/etienne-fourcade"
 ---
 
 ## キャリア遍歴
-CS Lons Jura (2004 - 2009) -> Cercle Sportif Lédonien (2009 - 2015) -> FC Grenoble Rugby (2015 - 2020) -> ASM Clermont Auvergne (2020 - )
+CS Lons Jura (2004 - 2009) -> Cercle Sportif Lédonien (2009 - 2015) -> FC Grenoble Rugby (2015 - 2020) -> ASM Clermont Auvergne (2020 - 2026)

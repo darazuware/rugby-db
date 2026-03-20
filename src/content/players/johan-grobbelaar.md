@@ -1,7 +1,7 @@
 ---
-title: "Johan GROBBELAAR | ヨハン・グロブラール"
+title: "Johan GROBBELAAR | Johan ・ GROBBELAAR"
 name_en: "Johan GROBBELAAR"
-name_ja: "ヨハン・グロブラール"
+name_ja: "Johan ・ GROBBELAAR"
 slug: "johan-grobbelaar"
 position: "HO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/johan-grobbelaar"
 ---
 
 ## キャリア遍歴
-
+Bulls (2017 - 2026)

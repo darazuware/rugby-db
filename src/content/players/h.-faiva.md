@@ -1,13 +1,13 @@
 ---
-title: "H. Faiva | nan"
+title: "H. Faiva | "
 name_en: "H. Faiva"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-faiva"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "05/09/1994"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

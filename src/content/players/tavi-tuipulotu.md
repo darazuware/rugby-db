@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/ottavio-tuipulotu"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "melbourne rebels (2023 - 2024) -> new south wales waratahs (2024 - 2025) -> glasgow warriors (2025 - 2026)"
 ---
 
 ## キャリア遍歴

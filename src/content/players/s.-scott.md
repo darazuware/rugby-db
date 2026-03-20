@@ -1,7 +1,7 @@
 ---
-title: "S. Scott | nan"
+title: "S. Scott | "
 name_en: "S. Scott"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-scott"
 position: "Prop"
 height: "nan"

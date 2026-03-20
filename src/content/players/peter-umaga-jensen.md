@@ -7,7 +7,7 @@ position: "CTB"
 height: "187.0"
 weight: "106.0"
 birth_date: "1997.12.31"
-age: 28.0
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "花園近鉄ライナーズ（2025-26）"
 caps: ""
 high_school: "ワイヌイオマタハイスクール-スコッツカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484522"
 ---
 
 ## キャリア遍歴
-
+ハリケーンズ (2017 - 2025) -> ウェリントン (2019 - 2024) -> 花園近鉄ライナーズ (2025 - )

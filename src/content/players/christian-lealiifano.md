@@ -1,21 +1,21 @@
 ---
-title: "Christian Lealiifano | クリスチャン ・リアリーファノ"
-name_en: "Christian Lealiifano"
-name_ja: "クリスチャン ・リアリーファノ"
+title: "Christian LEALI'IFANO | "
+name_en: "Christian LEALI'IFANO"
+name_ja: ""
 slug: "christian-lealiifano"
-position: "SO"
-height: "179.0"
-weight: "92.0"
-birth_date: "1987.09.24"
-age: 38.0
+position: "Fly-half"
+height: "24/09/1987"
+weight: "1"
+birth_date: "nan"
+age: 38
 country: ""
 birth_place_scraped: ""
-league: "nan"
-team: "豊田自動織機シャトルズ愛知（2025-26）"
-caps: "🇦🇺 オーストラリア代表(26)"
-high_school: "ピーターララーセカンダリーカレ"
+league: "mlr"
+team: "The RFC Los Angeles rugby team for 2024/2025"
+caps: "🇦🇺 Australia (22)"
+high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/christian-lealiifano"
 ---
 
 ## キャリア遍歴

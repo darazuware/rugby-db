@@ -1,13 +1,13 @@
 ---
-title: "S. Kerrod | nan"
+title: "S. Kerrod | "
 name_en: "S. Kerrod"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-kerrod"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "25/08/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/quan-horn"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

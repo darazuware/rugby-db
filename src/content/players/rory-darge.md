@@ -15,7 +15,7 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (25)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "southern knights (2019 - 2020) -> edimbourg rugby (2020 - 2020) -> glasgow warriors (2020 - 2020) -> edimbourg rugby (2021 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "W. Evans | nan"
+title: "W. Evans | "
 name_en: "W. Evans"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-evans"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1997-01-28"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

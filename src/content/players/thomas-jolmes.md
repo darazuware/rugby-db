@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-jolmes"
 ---
 
 ## キャリア遍歴
-Seyssins (2005 - 2009) -> FC Grenoble Rugby (2009 - 2017) -> Stade Rochelais (2017 - 2020) -> Rugby Club Toulonnais (2020 - 2021) -> Union Bordeaux-Bègles (2020 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )
+Seyssins (2005 - 2009) -> FC Grenoble Rugby (2009 - 2017) -> Stade Rochelais (2017 - 2020) -> Rugby Club Toulonnais (2020 - 2020) -> Union Bordeaux-Bègles (2020 - 2020) -> Rugby Club Toulonnais (2021 - 2021) -> Union Bordeaux-Bègles (2021 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2026)

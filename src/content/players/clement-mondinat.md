@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/clement-mondinat"
 ---
 
 ## キャリア遍歴
-Union Sportive du Canton de Pouyastruc (2008 - 2017) -> Stado Tarbes Pyrénées Rugby (2017 - 2018) -> Section Paloise Béarn Pyrénées (2018 - )
+Union Sportive du Canton de Pouyastruc (2008 - 2017) -> Stado Tarbes Pyrénées Rugby (2017 - 2018) -> Section Paloise Béarn Pyrénées (2018 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dimitri-delibes"
 ---
 
 ## キャリア遍歴
-Blagnac (2011 - 2018) -> Stade Toulousain (2018 - )
+Blagnac (2011 - 2018) -> Stade Toulousain (2018 - 2026)

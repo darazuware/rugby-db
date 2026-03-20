@@ -15,7 +15,7 @@ team: "Munster"
 caps: "🇮🇪 Ireland (20)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "munster rugby (2012 - 2022) -> wasps (2022 - 2022) -> chiefs (2022 - 2022) -> munster rugby (2023 - 2023) -> wasps (2023 - 2023) -> chiefs (2023 - 2023) -> munster rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andy-timo"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2023) -> Stade Français Paris Rugby (2023 - )
+Rugby Club Massy Essonne (2014 - 2023) -> Stade Français Paris Rugby (2023 - 2026)

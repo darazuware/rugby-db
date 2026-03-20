@@ -1,7 +1,7 @@
 ---
-title: "C. Ridl | nan"
+title: "C. Ridl | "
 name_en: "C. Ridl"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-ridl"
 position: "Centre"
 height: "nan"

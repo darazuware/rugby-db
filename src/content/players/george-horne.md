@@ -1,7 +1,7 @@
 ---
-title: "George HORNE | ジョージ-ホーン"
+title: "George HORNE | George ・ HORNE"
 name_en: "George HORNE"
-name_ja: "ジョージ-ホーン"
+name_ja: "George ・ HORNE"
 slug: "george-horne"
 position: "SH"
 height: "174.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (34)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/george-horne"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2016 - 2026)

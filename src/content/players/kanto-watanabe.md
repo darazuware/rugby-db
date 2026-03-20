@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "182.0"
 weight: "100.0"
 birth_date: "2002.07.23"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
 caps: ""
 high_school: "明和県央高校"
 university: "天理大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484611"
 ---
 
 ## キャリア遍歴
-
+マツダスカイアクティブズ広島 (2025 - )

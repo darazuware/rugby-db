@@ -10,12 +10,12 @@ birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/hamish-macarthur"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "merchiston castle school (2023 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

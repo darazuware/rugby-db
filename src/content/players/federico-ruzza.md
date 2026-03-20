@@ -10,12 +10,12 @@ birth_date: "1994.08.04"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (60)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "zebre parma (2014 - 2017) -> benetton rugby trévise (2017 - 2026)"
 ---
 
 ## キャリア遍歴

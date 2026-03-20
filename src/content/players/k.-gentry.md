@@ -1,7 +1,7 @@
 ---
-title: "K. Gentry | nan"
+title: "K. Gentry | "
 name_en: "K. Gentry"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-gentry"
 position: "Centre"
 height: "nan"

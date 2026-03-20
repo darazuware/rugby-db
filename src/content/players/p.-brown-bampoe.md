@@ -1,7 +1,7 @@
 ---
-title: "P. Brown-Bampoe | nan"
+title: "P. Brown-Bampoe | "
 name_en: "P. Brown-Bampoe"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-brown-bampoe"
 position: "Wing"
 height: "nan"

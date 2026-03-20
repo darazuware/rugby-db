@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matheo-frisach"
 ---
 
 ## キャリア遍歴
-US Izon (2010 - 2018) -> Libourne (2018 - 2019) -> Union Bordeaux-Bègles (2019 - 2023) -> ASM Clermont Auvergne (2023 - )
+US Izon (2010 - 2018) -> Libourne (2018 - 2019) -> Union Bordeaux-Bègles (2019 - 2023) -> ASM Clermont Auvergne (2023 - 2026)

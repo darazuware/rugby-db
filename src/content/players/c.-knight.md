@@ -1,13 +1,13 @@
 ---
-title: "C. Knight | nan"
+title: "C. Knight | "
 name_en: "C. Knight"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-knight"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "19/03/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

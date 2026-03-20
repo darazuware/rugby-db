@@ -1,13 +1,13 @@
 ---
-title: "A. Green | nan"
+title: "A. Green | "
 name_en: "A. Green"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-green"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "03/04/2004"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -10,12 +10,12 @@ birth_date: "1994.03.30"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: "🇿🇦 South Africa (14)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2013 - 2019) -> harlequins (2019 - 2019) -> sharks (2020 - 2020) -> harlequins (2020 - 2024) -> sharks (2024 - 2026)"
 ---
 
 ## キャリア遍歴

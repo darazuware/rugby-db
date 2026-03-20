@@ -1,18 +1,18 @@
 ---
-title: "Kalaveti Ravouvou | nan"
+title: "Kalaveti Ravouvou | "
 name_en: "Kalaveti Ravouvou"
-name_ja: "nan"
+name_ja: ""
 slug: "kalaveti-ravouvou"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1998.06.06"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "🇫🇯 Fiji代表 (6 caps)"
+caps: "🇫🇯 Fiji (6)"
 high_school: ""
 university: ""
 scraped_url: "nan"

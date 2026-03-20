@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/pierre-bochaton"
 ---
 
 ## キャリア遍歴
-Rugby Trévoux Châtillon (2010 - 2014) -> Union Sportive Bressane Pays de l'Ain (2014 - 2021) -> Union Bordeaux-Bègles (2021 - )
+Rugby Trévoux Châtillon (2010 - 2014) -> Union Sportive Bressane Pays de l'Ain (2014 - 2021) -> Union Bordeaux-Bègles (2021 - 2026)

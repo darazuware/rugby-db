@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "🇫🇷 France代表 (14 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lucas-rey"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (2004 - )
+Section Paloise Béarn Pyrénées (2004 - 2026)

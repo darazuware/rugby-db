@@ -1,7 +1,7 @@
 ---
-title: "Gryff WATKINS | グリフ・ワトキンス"
+title: "Gryff WATKINS | Gryff ・ WATKINS"
 name_en: "Gryff WATKINS"
-name_ja: "グリフ・ワトキンス"
+name_ja: "Gryff ・ WATKINS"
 slug: "gryff-watkins"
 position: "CTB"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/gryff-watkins"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

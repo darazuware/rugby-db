@@ -1,13 +1,13 @@
 ---
-title: "Andrea Zambonin | nan"
+title: "Andrea Zambonin | "
 name_en: "Andrea Zambonin"
-name_ja: "nan"
+name_ja: ""
 slug: "andrea-zambonin"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "09/03/2000"
-age: 26.0
+birth_date: "2000.09.03"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

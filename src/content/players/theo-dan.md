@@ -1,13 +1,13 @@
 ---
-title: "Theo Dan | nan"
+title: "Theo Dan | "
 name_en: "Theo Dan"
-name_ja: "nan"
+name_ja: ""
 slug: "theo-dan"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "26/12/2000"
-age: 25.0
+birth_date: "2000.12.26"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

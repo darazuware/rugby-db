@@ -1,7 +1,7 @@
 ---
-title: "J. Linegar | nan"
+title: "J. Linegar | "
 name_en: "J. Linegar"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-linegar"
 position: "Fly-half"
 height: "nan"

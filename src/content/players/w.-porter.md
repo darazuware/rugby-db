@@ -1,7 +1,7 @@
 ---
-title: "W. Porter | nan"
+title: "W. Porter | "
 name_en: "W. Porter"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-porter"
 position: "Scrum-half"
 height: "nan"

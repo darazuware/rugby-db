@@ -7,15 +7,15 @@ position: "LO"
 height: "192.0"
 weight: "120.0"
 birth_date: "1988.08.10"
-age: 37.0
+age: 37
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
 caps: ""
 high_school: "トゥポウカレッジ"
 university: "埼玉工業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484893"
 ---
 
 ## キャリア遍歴

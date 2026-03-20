@@ -1,18 +1,18 @@
 ---
-title: "Tom Roebuck | nan"
+title: "Tom Roebuck | "
 name_en: "Tom Roebuck"
-name_ja: "nan"
+name_ja: ""
 slug: "tom-roebuck"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.01.07"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (3 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (3)"
 high_school: ""
 university: ""
 scraped_url: "nan"

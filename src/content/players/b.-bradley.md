@@ -1,13 +1,13 @@
 ---
-title: "B. Bradley | nan"
+title: "B. Bradley | "
 name_en: "B. Bradley"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-bradley"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2003-04-17"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "D. John | nan"
+title: "D. John | "
 name_en: "D. John"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-john"
 position: "Wing"
 height: "nan"

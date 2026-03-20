@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/ruhan-nel"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2018 - 2026)"
 ---
 
 ## キャリア遍歴

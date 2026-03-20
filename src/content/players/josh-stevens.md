@@ -1,9 +1,9 @@
 ---
-title: "Josh STEVENS | ジョシュ・スティーヴンス"
+title: "Josh STEVENS | ジョシュ ・ STEVENS"
 name_en: "Josh STEVENS"
-name_ja: "ジョシュ・スティーヴンス"
+name_ja: "ジョシュ ・ STEVENS"
 slug: "josh-stevens"
-position: "FL/No8"
+position: "Back row"
 height: "179.0"
 weight: "105.0"
 birth_date: "2004.."
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/josh-stevens"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2023 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emmanuel-meafou"
 ---
 
 ## キャリア遍歴
-New South Wales Country Eagles (2017 - 2018) -> Stade Toulousain (2018 - )
+New South Wales Country Eagles (2017 - 2018) -> Stade Toulousain (2018 - 2026)

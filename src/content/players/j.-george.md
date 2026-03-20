@@ -1,13 +1,13 @@
 ---
-title: "J. George | nan"
+title: "J. George | "
 name_en: "J. George"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-george"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "20/10/1990"
-age: 35.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

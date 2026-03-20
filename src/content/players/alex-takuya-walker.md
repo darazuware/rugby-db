@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "184.0"
 weight: "103.0"
 birth_date: "1998.02.19"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "九州電力キューデンヴォルテクス（2025-26）"
 caps: ""
 high_school: "東福岡高校"
 university: "法政大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483719"
 ---
 
 ## キャリア遍歴
-
+九州電力キューデンヴォルテクス (2021 - )

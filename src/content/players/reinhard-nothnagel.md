@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/reinhard-nothnagel"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2018 - 2026)"
 ---
 
 ## キャリア遍歴

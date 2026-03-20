@@ -1,7 +1,7 @@
 ---
-title: "O. Beckerleg | nan"
+title: "O. Beckerleg | "
 name_en: "O. Beckerleg"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-beckerleg"
 position: "Lock"
 height: "nan"

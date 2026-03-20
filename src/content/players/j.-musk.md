@@ -1,13 +1,13 @@
 ---
-title: "J. Musk | nan"
+title: "J. Musk | "
 name_en: "J. Musk"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-musk"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "03/04/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

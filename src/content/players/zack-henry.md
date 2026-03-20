@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zack-henry"
 ---
 
 ## キャリア遍歴
-Rouen Normandie Rugby (2016 - 2018) -> USON Nevers Rugby (2018 - 2020) -> Leicester Tigers (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2023) -> Stade Français Paris Rugby (2023 - )
+Rouen Normandie Rugby (2016 - 2018) -> USON Nevers Rugby (2018 - 2019) -> Leicester Tigers (2019 - 2019) -> USON Nevers Rugby (2020 - 2020) -> Leicester Tigers (2020 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2023) -> Stade Français Paris Rugby (2023 - 2026)

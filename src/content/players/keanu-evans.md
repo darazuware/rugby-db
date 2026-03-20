@@ -1,9 +1,9 @@
 ---
-title: "Keanu EVANS | キアヌ・エヴァンス"
+title: "Keanu EVANS | Keanu ・ EVANS"
 name_en: "Keanu EVANS"
-name_ja: "キアヌ・エヴァンス"
+name_ja: "Keanu ・ EVANS"
 slug: "keanu-evans"
-position: "FL/No8"
+position: "Back row"
 height: "nan"
 weight: "nan"
 birth_date: "2006.."
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/keanu-evans"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

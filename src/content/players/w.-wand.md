@@ -1,7 +1,7 @@
 ---
-title: "W. Wand | nan"
+title: "W. Wand | "
 name_en: "W. Wand"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-wand"
 position: "Centre"
 height: "nan"

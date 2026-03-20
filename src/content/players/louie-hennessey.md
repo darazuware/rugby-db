@@ -1,22 +1,22 @@
 ---
-title: "Louie Hennessey | nan"
-name_en: "Louie Hennessey"
-name_ja: "nan"
+title: "Louie HENNESSEY | "
+name_en: "Louie HENNESSEY"
+name_ja: ""
 slug: "louie-hennessey"
 position: "Centre"
-height: "nan"
-weight: "nan"
-birth_date: "2004-03-29"
-age: 21.0
+height: "//2004"
+weight: "1"
+birth_date: "nan"
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Bath Rugby"
+league: "mlr"
+team: "The Bath Rugby rugby team for 2025/2026"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/louie-hennessey"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

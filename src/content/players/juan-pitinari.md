@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/juan-manuel-pitinari"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "rugby noceto (2021 - 2021) -> zebre parma (2021 - 2021) -> rugby noceto (2022 - 2022) -> zebre parma (2022 - 2026)"
 ---
 
 ## キャリア遍歴

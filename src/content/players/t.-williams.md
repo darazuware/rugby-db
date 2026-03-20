@@ -1,18 +1,18 @@
 ---
-title: "T. Williams | nan"
+title: "T. Williams | "
 name_en: "T. Williams"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-williams"
 position: "No. 8"
 height: "nan"
 weight: "nan"
-birth_date: "1995-01-01"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "🇳🇿 New Zealand代表 (3 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

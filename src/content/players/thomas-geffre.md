@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-geffre"
 ---
 
 ## キャリア遍歴
-Avenir Rugbystique Aytrésien (2011 - 2017) -> Niort RC (2017 - 2018) -> Sporting Union Agenais (2018 - 2019) -> Union Cognac-Saint-Jean d'Angély (2019 - 2021) -> CS Bourgoin Jallieu Rugby (2021 - 2022) -> Stade Langonnais (2022 - 2025) -> Rugby Club Vannes (2025 - )
+Avenir Rugbystique Aytrésien (2011 - 2017) -> Niort RC (2017 - 2018) -> Sporting Union Agenais (2018 - 2019) -> Union Cognac-Saint-Jean d'Angély (2019 - 2021) -> CS Bourgoin Jallieu Rugby (2021 - 2022) -> Stade Langonnais (2022 - 2025) -> Rugby Club Vannes (2025 - 2026)

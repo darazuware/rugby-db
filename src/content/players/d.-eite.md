@@ -1,13 +1,13 @@
 ---
-title: "D. Eite | nan"
+title: "D. Eite | "
 name_en: "D. Eite"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-eite"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "28/06/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,13 +1,13 @@
 ---
-title: "J. Owen | nan"
+title: "J. Owen | "
 name_en: "J. Owen"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-owen"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "16/08/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

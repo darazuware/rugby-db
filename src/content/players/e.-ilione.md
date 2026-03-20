@@ -1,13 +1,13 @@
 ---
-title: "E. Ilione | nan"
+title: "E. Ilione | "
 name_en: "E. Ilione"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-ilione"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "20/03/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

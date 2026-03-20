@@ -1,13 +1,13 @@
 ---
-title: "Cerrig SMITH | セリグ・スミス"
+title: "Cerrig SMITH | Cerrig ・ スミス"
 name_en: "Cerrig SMITH"
-name_ja: "セリグ・スミス"
+name_ja: "Cerrig ・ スミス"
 slug: "cerrig-smith"
-position: "FL/No8"
+position: "Back row"
 height: "188.0"
 weight: "113.0"
-birth_date: "1997.09.10"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cerrig-smith"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2025 - 2026)

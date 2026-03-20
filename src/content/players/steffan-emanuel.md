@@ -1,7 +1,7 @@
 ---
-title: "Steffan EMANUEL | ステファン・エマニュエル"
+title: "Steffan EMANUEL | Steffan ・ EMANUEL"
 name_en: "Steffan EMANUEL"
-name_ja: "ステファン・エマニュエル"
+name_ja: "Steffan ・ EMANUEL"
 slug: "steffan-emanuel"
 position: "CTB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/steffan-emanuel"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2023 - 2024) -> Cardiff Rugby (2024 - 2026)

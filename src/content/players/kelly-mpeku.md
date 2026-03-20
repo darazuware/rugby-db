@@ -1,7 +1,7 @@
 ---
-title: "Kelly MPEKU | ケリー・ムペク"
+title: "Kelly MPEKU | Kelly ・ MPEKU"
 name_en: "Kelly MPEKU"
-name_ja: "ケリー・ムペク"
+name_ja: "Kelly ・ MPEKU"
 slug: "kelly-mpeku"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/kelly-mpeku"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2023 - 2024) -> Lions Rugby (2024 - 2026)

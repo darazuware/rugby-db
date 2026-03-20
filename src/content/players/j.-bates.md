@@ -1,7 +1,7 @@
 ---
-title: "J. Bates | nan"
+title: "J. Bates | "
 name_en: "J. Bates"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-bates"
 position: "Centre"
 height: "nan"

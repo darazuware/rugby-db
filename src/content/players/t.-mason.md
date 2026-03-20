@@ -1,7 +1,7 @@
 ---
-title: "T. Mason | nan"
+title: "T. Mason | "
 name_en: "T. Mason"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-mason"
 position: "Centre"
 height: "nan"

@@ -1,9 +1,9 @@
 ---
-title: "Theo CABANGO | テオ・カバンゴ"
+title: "Theo CABANGO | Theo ・ CABANGO"
 name_en: "Theo CABANGO"
-name_ja: "テオ・カバンゴ"
+name_ja: "Theo ・ CABANGO"
 slug: "theo-cabango"
-position: "WTB"
+position: "Winger"
 height: "175.0"
 weight: "87.0"
 birth_date: "2001.11.29"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/theo-cabango"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2019 - 2026)

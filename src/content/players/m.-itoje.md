@@ -1,13 +1,13 @@
 ---
-title: "M. Itoje | nan"
+title: "M. Itoje | "
 name_en: "M. Itoje"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-itoje"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "28/10/1994"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

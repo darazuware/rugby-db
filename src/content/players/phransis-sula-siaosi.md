@@ -7,16 +7,16 @@ position: "PR"
 height: "173.0"
 weight: "120.0"
 birth_date: "2000.07.15"
-age: 25.0
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "NECグリーンロケッツ東葛（2025-26）"
 caps: ""
 high_school: "St.Joseph'sNudgeeCollege"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483540"
 ---
 
 ## キャリア遍歴
-
+Souths Rugby (2021 - 2024) -> レッズ (2022 - 2023) -> Hong Kong Football Club (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

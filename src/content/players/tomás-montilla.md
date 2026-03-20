@@ -10,12 +10,12 @@ birth_date: "2001.12.27"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/tomas-montilla"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "rugby viadana 1970 (2022 - 2023) -> petrarca rugby (2023 - 2025) -> benetton rugby trévise (2025 - 2026)"
 ---
 
 ## キャリア遍歴

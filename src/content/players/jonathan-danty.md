@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonathan-danty"
 ---
 
 ## キャリア遍歴
-ASPTT Paris (2004 - 2006) -> Paris Université Club (2006 - 2008) -> Stade Français Paris Rugby (2008 - 2021) -> Stade Rochelais (2021 - )
+ASPTT Paris (2004 - 2006) -> Paris Université Club (2006 - 2008) -> Stade Français Paris Rugby (2008 - 2021) -> Stade Rochelais (2021 - 2026)

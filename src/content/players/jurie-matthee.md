@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/jurie-matthee"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2022 - 2023) -> stormers (2023 - 2026)"
 ---
 
 ## キャリア遍歴

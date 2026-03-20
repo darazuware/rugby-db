@@ -1,7 +1,7 @@
 ---
-title: "Luke MCGRATH | ルーク・マクグラス"
+title: "Luke MCGRATH | ルーク ・ MCGRATH"
 name_en: "Luke MCGRATH"
-name_ja: "ルーク・マクグラス"
+name_ja: "ルーク ・ MCGRATH"
 slug: "luke-mcgrath"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (14)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/luke-mcgrath"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2013 - 2026)

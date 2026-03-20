@@ -7,16 +7,16 @@ position: "SO"
 height: "172.0"
 weight: "80.0"
 birth_date: "1992.07.11"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "横浜キヤノンイーグルス（2025-26）"
-caps: "🇯🇵 日本代表(4)"
+caps: "日本代表(4)"
 high_school: "桐蔭学園高校"
 university: "早稲田大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484838"
 ---
 
 ## キャリア遍歴
-
+Not Found

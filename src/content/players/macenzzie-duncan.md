@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/macenzzie-duncan"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bristol bears (2021 - 2023) -> hartpury rfc (2023 - 2023) -> bristol bears (2024 - 2024) -> hartpury rfc (2024 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴

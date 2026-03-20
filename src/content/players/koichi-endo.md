@@ -7,16 +7,16 @@ position: "PR"
 height: "182.0"
 weight: "114.0"
 birth_date: "1999.01.02"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
-caps: "🇯🇵 Japan代表 (38 caps)"
+caps: ""
 high_school: "国学院栃木高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484792"
 ---
 
 ## キャリア遍歴
-
+ヤクルトレビンズ戸田 (2024 - )

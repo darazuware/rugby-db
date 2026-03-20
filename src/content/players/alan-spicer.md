@@ -1,7 +1,7 @@
 ---
-title: "Alan SPICER | アラン・スパイサー"
+title: "Alan SPICER | Alan ・ SPICER"
 name_en: "Alan SPICER"
-name_ja: "アラン・スパイサー"
+name_ja: "Alan ・ SPICER"
 slug: "alan-spicer"
 position: "LO"
 height: "208.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alan-spicer"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)

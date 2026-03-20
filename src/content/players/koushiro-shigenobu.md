@@ -7,16 +7,16 @@ position: "PR"
 height: "175.0"
 weight: "100.0"
 birth_date: "1995.09.28"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
-caps: "🇯🇵 Japan代表 (10 caps)"
+caps: ""
 high_school: "高鍋高校"
 university: "朝日大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484653"
 ---
 
 ## キャリア遍歴
-
+マツダスカイアクティブズ広島 (2021 - )

@@ -1,18 +1,18 @@
 ---
-title: "Immanuel Feyi-Waboso | nan"
+title: "Immanuel Feyi-Waboso | "
 name_en: "Immanuel Feyi-Waboso"
-name_ja: "nan"
+name_ja: ""
 slug: "immanuel-feyi-waboso"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2002.12.20"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Exeter Chiefs"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (0 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

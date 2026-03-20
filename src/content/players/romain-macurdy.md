@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romain-macurdy"
 ---
 
 ## キャリア遍歴
-RC Villeneuve-lès-Maguelone (2006 - 2011) -> Montpellier Hérault Rugby (2011 - 2023) -> Castres Olympique (2023 - )
+RC Villeneuve-lès-Maguelone (2006 - 2011) -> Montpellier Hérault Rugby (2011 - 2023) -> Castres Olympique (2023 - 2026)

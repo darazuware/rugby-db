@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jules-le-bail"
 ---
 
 ## キャリア遍歴
-Stade Nantais (2009 - 2010) -> Stade Rochelais (2010 - 2023) -> Rugby Club Vannes (2017 - )
+Stade Nantais (2009 - 2010) -> Stade Rochelais (2010 - 2017) -> Rugby Club Vannes (2017 - 2020) -> Stade Rochelais (2020 - 2023) -> Rugby Club Vannes (2023 - 2026)

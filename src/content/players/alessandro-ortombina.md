@@ -1,7 +1,7 @@
 ---
-title: "Alessandro ORTOMBINA | アレッサンドロ・オルトンビナ"
+title: "Alessandro ORTOMBINA | Alessandro ・ ORTOMBINA"
 name_en: "Alessandro ORTOMBINA"
-name_ja: "アレッサンドロ・オルトンビナ"
+name_ja: "Alessandro ・ ORTOMBINA"
 slug: "alessandro-ortombina"
 position: "LO"
 height: "196.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alessandro-ortombina"
 ---
 
 ## キャリア遍歴
-
+Valorugby Emilia (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2025) -> Zebre Parma (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "K. James | nan"
+title: "K. James | "
 name_en: "K. James"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-james"
 position: "Flanker"
 height: "nan"

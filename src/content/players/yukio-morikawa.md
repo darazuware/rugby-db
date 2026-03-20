@@ -7,15 +7,15 @@ position: "PR"
 height: "180.0"
 weight: "113.0"
 birth_date: "1993.02.06"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東京サントリーサンゴリアス（2025-26）"
-caps: "🇯🇵 日本代表(5)"
+caps: "日本代表(5)"
 high_school: "京都成章高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484337"
 ---
 
 ## キャリア遍歴

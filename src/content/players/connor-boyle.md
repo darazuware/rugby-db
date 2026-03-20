@@ -10,12 +10,12 @@ birth_date: "2000.02.19"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/connor-boyle"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "watsonian rugby club (2019 - 2020) -> edimbourg rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

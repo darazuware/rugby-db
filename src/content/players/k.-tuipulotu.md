@@ -1,7 +1,7 @@
 ---
-title: "K. Tuipulotu | nan"
+title: "K. Tuipulotu | "
 name_en: "K. Tuipulotu"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-tuipulotu"
 position: "Hooker"
 height: "nan"

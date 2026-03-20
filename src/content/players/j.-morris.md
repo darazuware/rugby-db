@@ -1,13 +1,13 @@
 ---
-title: "J. Morris | nan"
+title: "J. Morris | "
 name_en: "J. Morris"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-morris"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "2000-05-12"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

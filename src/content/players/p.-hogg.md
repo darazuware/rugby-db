@@ -1,7 +1,7 @@
 ---
-title: "P. Hogg | nan"
+title: "P. Hogg | "
 name_en: "P. Hogg"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-hogg"
 position: "Lock"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "S. Tonga'uiha | nan"
+title: "S. Tonga'uiha | "
 name_en: "S. Tonga'uiha"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-tonga'uiha"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

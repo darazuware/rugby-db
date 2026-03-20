@@ -1,7 +1,7 @@
 ---
-title: "T. Cairns | nan"
+title: "T. Cairns | "
 name_en: "T. Cairns"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-cairns"
 position: "Scrum-half"
 height: "nan"

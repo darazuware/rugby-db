@@ -1,13 +1,13 @@
 ---
-title: "T. James | nan"
+title: "T. James | "
 name_en: "T. James"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-james"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "1993-10-12"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

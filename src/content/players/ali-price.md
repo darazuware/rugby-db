@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ali-price"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2014 - 2024) -> Edimbourg Rugby (2023 - 2025) -> Montpellier Hérault Rugby (2025 - )
+Glasgow Warriors (2014 - 2023) -> Edimbourg Rugby (2023 - 2023) -> Glasgow Warriors (2024 - 2024) -> Edimbourg Rugby (2024 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)

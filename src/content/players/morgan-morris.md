@@ -1,9 +1,9 @@
 ---
-title: "Morgan MORRIS | モルガン・モリス"
+title: "Morgan MORRIS | Morgan ・ MORRIS"
 name_en: "Morgan MORRIS"
-name_ja: "モルガン・モリス"
+name_ja: "Morgan ・ MORRIS"
 slug: "morgan-morris"
-position: "FL/No8"
+position: "Back row"
 height: "183.0"
 weight: "110.0"
 birth_date: "1998.08.28"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/morgan-morris"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "R. Grace | nan"
+title: "R. Grace | "
 name_en: "R. Grace"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-grace"
 position: "Wing"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "O. McCormack | nan"
+title: "O. McCormack | "
 name_en: "O. McCormack"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-mccormack"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2001.02.21"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

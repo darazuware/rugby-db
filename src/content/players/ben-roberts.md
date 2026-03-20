@@ -1,7 +1,7 @@
 ---
-title: "Ben ROBERTS | ベン・ロバーツ"
+title: "Ben ROBERTS | ベン ・ ROBERTS"
 name_en: "Ben ROBERTS"
-name_ja: "ベン・ロバーツ"
+name_ja: "ベン ・ ROBERTS"
 slug: "ben-roberts"
 position: "LO"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-roberts"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2025 - 2026)

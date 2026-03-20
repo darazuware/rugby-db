@@ -1,7 +1,7 @@
 ---
-title: "Dylan KELLEHER-GRIFFITHS | ディラン-ケレハー＝グリフィス"
+title: "Dylan KELLEHER-GRIFFITHS | Dylan ・ KELLEHER ・ GRIFFITHS"
 name_en: "Dylan KELLEHER-GRIFFITHS"
-name_ja: "ディラン-ケレハー＝グリフィス"
+name_ja: "Dylan ・ KELLEHER ・ GRIFFITHS"
 slug: "dylan-kelleher-griffiths"
 position: "PR"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dylan-kelleher-griffiths"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2022 - 2026)

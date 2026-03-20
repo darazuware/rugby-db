@@ -1,13 +1,13 @@
 ---
-title: "Amanaki Mafi | nan"
+title: "Amanaki Mafi | "
 name_en: "Amanaki Mafi"
-name_ja: "nan"
+name_ja: ""
 slug: "amanaki-mafi"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "01/11/1990"
-age: 35.0
+birth_date: "1990.01.11"
+age: 36
 country: ""
 birth_place_scraped: ""
 league: "premiership"

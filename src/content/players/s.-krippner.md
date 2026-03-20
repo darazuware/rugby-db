@@ -1,7 +1,7 @@
 ---
-title: "S. Krippner | nan"
+title: "S. Krippner | "
 name_en: "S. Krippner"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-krippner"
 position: "Wing"
 height: "nan"

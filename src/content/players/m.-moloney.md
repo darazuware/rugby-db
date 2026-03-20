@@ -1,7 +1,7 @@
 ---
-title: "M. Moloney | nan"
+title: "M. Moloney | "
 name_en: "M. Moloney"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-moloney"
 position: "Flanker"
 height: "nan"

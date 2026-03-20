@@ -1,7 +1,7 @@
 ---
-title: "B. Hammersley | nan"
+title: "B. Hammersley | "
 name_en: "B. Hammersley"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-hammersley"
 position: "Wing"
 height: "nan"

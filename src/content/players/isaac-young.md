@@ -1,7 +1,7 @@
 ---
-title: "Isaac YOUNG | アイザック-ヤング"
+title: "Isaac YOUNG | Isaac ・ YOUNG"
 name_en: "Isaac YOUNG"
-name_ja: "アイザック-ヤング"
+name_ja: "Isaac ・ YOUNG"
 slug: "isaac-young"
 position: "HO"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/isaac-young"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2022 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "Ben Curry | nan"
+title: "Ben Curry | "
 name_en: "Ben Curry"
-name_ja: "nan"
+name_ja: ""
 slug: "ben-curry"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "15/06/1998"
-age: 27.0
+birth_date: "1998.06.15"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

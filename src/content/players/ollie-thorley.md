@@ -1,13 +1,13 @@
 ---
-title: "Ollie Thorley | nan"
+title: "Ollie Thorley | "
 name_en: "Ollie Thorley"
-name_ja: "nan"
+name_ja: ""
 slug: "ollie-thorley"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1996-09-11"
-age: 29.0
+birth_date: "1996.09.11"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"

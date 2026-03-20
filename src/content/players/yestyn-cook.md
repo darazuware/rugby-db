@@ -1,7 +1,7 @@
 ---
-title: "Yestyn COOK | イェスティン・クック"
+title: "Yestyn COOK | Yestyn ・ COOK"
 name_en: "Yestyn COOK"
-name_ja: "イェスティン・クック"
+name_ja: "Yestyn ・ COOK"
 slug: "yestyn-cook"
 position: "PR"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/yestyn-cook"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

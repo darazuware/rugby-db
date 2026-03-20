@@ -10,12 +10,12 @@ birth_date: "2001.01.28"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (24)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "petrarca rugby (2020 - 2021) -> benetton rugby trévise (2021 - 2026)"
 ---
 
 ## キャリア遍歴

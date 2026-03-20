@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sergo-abramishvili"
 ---
 
 ## キャリア遍歴
-Khvamli Rugby (2020 - 2021) -> Stade Français Paris Rugby (2021 - )
+Khvamli Rugby (2020 - 2021) -> Stade Français Paris Rugby (2021 - 2026)

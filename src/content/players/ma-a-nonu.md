@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ma-a-nonu"
 ---
 
 ## キャリア遍歴
-Hurricanes (2002 - 2015) -> Blues (2011 - 2019) -> Highlanders (2012 - 2013) -> Rugby Club Toulonnais (2015 - 2026) -> San Diego Legion (2019 - )
+Hurricanes (2002 - 2011) -> Blues (2011 - 2012) -> Highlanders (2012 - 2013) -> Blues (2013 - 2014) -> Hurricanes (2014 - 2015) -> Rugby Club Toulonnais (2015 - 2018) -> Blues (2018 - 2019) -> San Diego Legion (2019 - 2020) -> Rugby Club Toulonnais (2020 - 2021) -> San Diego Legion (2021 - 2024) -> Rugby Club Toulonnais (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "W. Crane | nan"
+title: "W. Crane | "
 name_en: "W. Crane"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-crane"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "16/02/1994"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ignacio-brex"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2017 - 2025) -> Rugby Club Toulonnais (2025 - )
+Benetton Rugby Trévise (2017 - 2025) -> Rugby Club Toulonnais (2025 - 2026)

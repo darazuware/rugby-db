@@ -1,7 +1,7 @@
 ---
-title: "T. Raymont | nan"
+title: "T. Raymont | "
 name_en: "T. Raymont"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-raymont"
 position: "Prop"
 height: "nan"

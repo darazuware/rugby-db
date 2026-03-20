@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thibault-daubagna"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (1999 - )
+Section Paloise Béarn Pyrénées (1999 - 2026)

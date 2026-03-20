@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/olujare-oguntibeju"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ealing trailfinders (2020 - 2023) -> stirling county rfc (2023 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴

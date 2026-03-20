@@ -1,18 +1,18 @@
 ---
-title: "N. Thomas | nan"
+title: "N. Thomas | "
 name_en: "N. Thomas"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-thomas"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2005.."
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🇫🇷 France代表 (80 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

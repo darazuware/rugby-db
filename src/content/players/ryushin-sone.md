@@ -7,7 +7,7 @@ position: "PR"
 height: "174.0"
 weight: "103.0"
 birth_date: "2002.07.24"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "花園近鉄ライナーズ（2025-26）"
 caps: ""
 high_school: "大阪産業大学附属高校"
 university: "京都産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484532"
 ---
 
 ## キャリア遍歴

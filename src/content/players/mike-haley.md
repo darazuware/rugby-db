@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/mike-haley"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sale sharks (2013 - 2018) -> munster rugby (2018 - 2026)"
 ---
 
 ## キャリア遍歴

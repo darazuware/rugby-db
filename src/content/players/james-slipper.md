@@ -10,7 +10,7 @@ birth_date: "1989.06.06"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Brumbies"
 caps: "🇦🇺 Australia (131)"
 high_school: ""

@@ -1,7 +1,7 @@
 ---
-title: "H. Liebenberg | nan"
+title: "H. Liebenberg | "
 name_en: "H. Liebenberg"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-liebenberg"
 position: "Flanker"
 height: "nan"

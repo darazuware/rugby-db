@@ -1,7 +1,7 @@
 ---
-title: "James HUME | ジェームズ-ヒューム"
+title: "James HUME | ジェームズ ・ HUME"
 name_en: "James HUME"
-name_ja: "ジェームズ-ヒューム"
+name_ja: "ジェームズ ・ HUME"
 slug: "james-hume"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/james-hume"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2018 - 2026)

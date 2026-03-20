@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/marcos-gallorini"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "unione rugby capitolina (2022 - 2023) -> benetton rugby trévise (2023 - 2025) -> zebre parma (2025 - 2025) -> benetton rugby trévise (2026 - 2026) -> zebre parma (2026 - 2026)"
 ---
 
 ## キャリア遍歴

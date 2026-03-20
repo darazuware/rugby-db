@@ -1,7 +1,7 @@
 ---
-title: "W. Rigg | nan"
+title: "W. Rigg | "
 name_en: "W. Rigg"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-rigg"
 position: "Centre"
 height: "nan"

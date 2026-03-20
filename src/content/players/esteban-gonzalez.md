@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/esteban-gonzalez"
 ---
 
 ## キャリア遍歴
-Association Sportive Béziers Hérault (2012 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )
+Association Sportive Béziers Hérault (2012 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)

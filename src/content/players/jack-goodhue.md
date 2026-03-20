@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-goodhue"
 ---
 
 ## キャリア遍歴
-Crusaders (2016 - 2023) -> Northland Taniwha (2019 - 2023) -> Castres Olympique (2023 - )
+Crusaders (2016 - 2019) -> Northland Taniwha (2019 - 2019) -> Crusaders (2020 - 2020) -> Northland Taniwha (2020 - 2020) -> Crusaders (2020 - 2021) -> Northland Taniwha (2021 - 2021) -> Crusaders (2022 - 2022) -> Northland Taniwha (2022 - 2022) -> Crusaders (2022 - 2022) -> Northland Taniwha (2022 - 2022) -> Crusaders (2023 - 2023) -> Northland Taniwha (2023 - 2023) -> Castres Olympique (2023 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "S. McIntyre | nan"
+title: "S. McIntyre | "
 name_en: "S. McIntyre"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-mcintyre"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "19/03/1991"
-age: 34.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

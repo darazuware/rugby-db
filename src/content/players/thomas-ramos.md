@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-ramos"
 ---
 
 ## キャリア遍歴
-SC Mazamet (2004 - 2011) -> Stade Toulousain (2011 - 2026) -> US Colomiers (2016 - )
+SC Mazamet (2004 - 2011) -> Stade Toulousain (2011 - 2016) -> US Colomiers (2016 - 2017) -> Stade Toulousain (2017 - 2026)

@@ -15,7 +15,7 @@ team: "Connacht"
 caps: "🇮🇪 Ireland (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "connacht rugby (2013 - 2026)"
 ---
 
 ## キャリア遍歴

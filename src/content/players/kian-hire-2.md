@@ -1,0 +1,22 @@
+---
+title: "Kian HIRE | Kian ・ HIRE"
+name_en: "Kian HIRE"
+name_ja: "Kian ・ HIRE"
+slug: "kian-hire-2"
+position: "LO"
+height: "188.0"
+weight: "122.0"
+birth_date: "2004.."
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/kian-hire"
+---
+
+## キャリア遍歴
+Swansea RFC (2022 - 2023) -> Ospreys (2023 - 2026)

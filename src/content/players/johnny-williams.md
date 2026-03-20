@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/johnny-williams-1996"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "london irish (2015 - 2018) -> newcastle (2018 - 2019) -> scarlets (2019 - 2019) -> newcastle (2020 - 2020) -> scarlets (2020 - 2026)"
 ---
 
 ## キャリア遍歴

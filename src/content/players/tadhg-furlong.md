@@ -1,7 +1,7 @@
 ---
-title: "Tadhg FURLONG | タイグ・ファーロング"
+title: "Tadhg FURLONG | タイグ ・ FURLONG"
 name_en: "Tadhg FURLONG"
-name_ja: "タイグ・ファーロング"
+name_ja: "タイグ ・ FURLONG"
 slug: "tadhg-furlong"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Squad caps (1066)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tadhg-furlong"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2013 - 2026)

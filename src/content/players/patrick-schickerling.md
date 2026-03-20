@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/patrick-schickerling"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "exeter chiefs (2019 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴

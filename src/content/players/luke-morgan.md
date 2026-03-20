@@ -1,9 +1,9 @@
 ---
-title: "Luke MORGAN | ルーク・モーガン"
+title: "Luke MORGAN | ルーク ・ MORGAN"
 name_en: "Luke MORGAN"
-name_ja: "ルーク・モーガン"
+name_ja: "ルーク ・ MORGAN"
 slug: "luke-morgan"
-position: "WTB"
+position: "Winger"
 height: "175.0"
 weight: "81.0"
 birth_date: "1992.05.16"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/luke-morgan"
 ---
 
 ## キャリア遍歴
-Wales
+Ospreys (2018 - 2026)

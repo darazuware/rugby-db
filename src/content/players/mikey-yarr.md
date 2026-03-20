@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/mikey-yarr"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lansdowne fc (2023 - 2024) -> university college dublin (2024 - 2025) -> connacht rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

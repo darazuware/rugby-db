@@ -7,16 +7,16 @@ position: "UTB"
 height: "178.0"
 weight: "95.0"
 birth_date: "1989.01.20"
-age: 37.0
+age: 37
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "三重ホンダヒート（2025-26）"
-caps: "🇯🇵 日本代表(20)"
+caps: "日本代表(20)"
 high_school: "リストンカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484673"
 ---
 
 ## キャリア遍歴
-
+Not Found

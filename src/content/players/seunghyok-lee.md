@@ -7,15 +7,15 @@ position: "HO"
 height: "179.0"
 weight: "103.0"
 birth_date: "1999.01.27"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "三菱重工相模原ダイナボアーズ（2025-26）"
-caps: "🇯🇵 日本代表(1)"
+caps: "日本代表(1)"
 high_school: "大阪朝鮮高級学校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484730"
 ---
 
 ## キャリア遍歴

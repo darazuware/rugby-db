@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/tommy-o-brien"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2019 - 2026)"
 ---
 
 ## キャリア遍歴

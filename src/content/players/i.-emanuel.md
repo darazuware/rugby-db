@@ -1,13 +1,13 @@
 ---
-title: "I. Emanuel | nan"
+title: "I. Emanuel | "
 name_en: "I. Emanuel"
-name_ja: "nan"
+name_ja: ""
 slug: "i.-emanuel"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1999.07.20"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

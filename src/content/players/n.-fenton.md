@@ -1,7 +1,7 @@
 ---
-title: "N. Fenton | nan"
+title: "N. Fenton | "
 name_en: "N. Fenton"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-fenton"
 position: "Centre"
 height: "nan"

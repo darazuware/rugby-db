@@ -1,7 +1,7 @@
 ---
-title: "J. Newton | nan"
+title: "J. Newton | "
 name_en: "J. Newton"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-newton"
 position: "Fly-half"
 height: "nan"

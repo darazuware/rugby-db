@@ -1,13 +1,13 @@
 ---
-title: "C. Anderson | nan"
+title: "C. Anderson | "
 name_en: "C. Anderson"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-anderson"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "1999-09-16"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

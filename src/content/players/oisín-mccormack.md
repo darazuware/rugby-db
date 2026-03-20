@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/oisin-mccormack"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "connacht rugby (2020 - 2025) -> harlequins (2025 - 2025) -> connacht rugby (2026 - 2026) -> harlequins (2026 - 2026)"
 ---
 
 ## キャリア遍歴

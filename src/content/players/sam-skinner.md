@@ -10,12 +10,12 @@ birth_date: "1995.01.31"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (30)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "exeter chiefs (2014 - 2022) -> edimbourg rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "S. Benitez Cruz | nan"
+title: "S. Benitez Cruz | "
 name_en: "S. Benitez Cruz"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-benitez-cruz"
 position: "Scrum-half"
 height: "nan"

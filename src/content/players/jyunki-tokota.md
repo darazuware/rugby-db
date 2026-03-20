@@ -7,16 +7,16 @@ position: "PR"
 height: "178.0"
 weight: "102.0"
 birth_date: "2001.12.13"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "日野レッドドルフィンズ（2025-26）"
 caps: ""
 high_school: "桐蔭学園高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484605"
 ---
 
 ## キャリア遍歴
-
+Not Found

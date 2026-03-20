@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lennox-anyanwu"
 ---
 
 ## キャリア遍歴
-Harlequins (2019 - 2025) -> London Scottish (2022 - 2023) -> Montpellier Hérault Rugby (2025 - )
+Harlequins (2019 - 2022) -> London Scottish (2022 - 2022) -> Harlequins (2023 - 2023) -> London Scottish (2023 - 2023) -> Harlequins (2023 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)

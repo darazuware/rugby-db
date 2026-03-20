@@ -1,13 +1,13 @@
 ---
-title: "T. de Glanville | nan"
+title: "T. de Glanville | "
 name_en: "T. de Glanville"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-de-glanville"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "10/12/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

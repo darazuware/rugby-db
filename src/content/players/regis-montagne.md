@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/regis-montagne"
 ---
 
 ## キャリア遍歴
-FC Grenoble Rugby (2010 - 2024) -> ASM Clermont Auvergne (2024 - )
+FC Grenoble Rugby (2010 - 2024) -> ASM Clermont Auvergne (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "C. Donoghue | nan"
+title: "C. Donoghue | "
 name_en: "C. Donoghue"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-donoghue"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "07/01/2003"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

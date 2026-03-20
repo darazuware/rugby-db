@@ -7,7 +7,7 @@ position: "UTB"
 height: "183.0"
 weight: "95.0"
 birth_date: "1995.05.30"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "浦安D-Rocks（2025-26）"
 caps: ""
 high_school: "ウェスリーカレッジ"
 university: "オークランド工科大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483490"
 ---
 
 ## キャリア遍歴

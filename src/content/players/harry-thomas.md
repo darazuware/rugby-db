@@ -1,7 +1,7 @@
 ---
-title: "Harry THOMAS | ハリー・トーマス"
+title: "Harry THOMAS | Harry ・ トーマス"
 name_en: "Harry THOMAS"
-name_ja: "ハリー・トーマス"
+name_ja: "Harry ・ トーマス"
 slug: "harry-thomas"
 position: "HO"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harry-thomas"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2023 - 2026)

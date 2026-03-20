@@ -1,18 +1,18 @@
 ---
-title: "Lucio Cinti | nan"
+title: "Lucio Cinti | "
 name_en: "Lucio Cinti"
-name_ja: "nan"
+name_ja: ""
 slug: "lucio-cinti"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2000.02.23"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Saracens"
-caps: "🇦🇷 Argentina代表 (16 caps)"
+caps: "🇦🇷 Argentina (16)"
 high_school: ""
 university: ""
 scraped_url: "nan"

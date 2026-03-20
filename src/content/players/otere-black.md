@@ -7,7 +7,7 @@ position: "SO"
 height: "185.0"
 weight: "86.0"
 birth_date: "1995.05.04"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "浦安D-Rocks（2025-26）"
 caps: ""
 high_school: "ハートパラオカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483510"
 ---
 
 ## キャリア遍歴
-
+ハリケーンズ (2014 - 2017) -> ブルーズ (2018 - 2021) -> ベイ・オブ・プレンティ (2019 - 2021) -> 浦安D-Rocks (2021 - )

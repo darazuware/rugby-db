@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tumua-manu"
 ---
 
 ## キャリア遍歴
-Blues (2017 - 2018) -> Chiefs (2018 - 2020) -> Auckland (2019 - 2020) -> Section Paloise Béarn Pyrénées (2020 - )
+Blues (2017 - 2018) -> Chiefs (2018 - 2019) -> Auckland (2019 - 2019) -> Chiefs (2020 - 2020) -> Auckland (2020 - 2020) -> Section Paloise Béarn Pyrénées (2020 - 2026)

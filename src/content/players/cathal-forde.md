@@ -1,7 +1,7 @@
 ---
-title: "Cathal FORDE | カハル・フォード"
+title: "Cathal FORDE | Cathal ・ FORDE"
 name_en: "Cathal FORDE"
-name_ja: "カハル・フォード"
+name_ja: "Cathal ・ FORDE"
 slug: "cathal-forde"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cathal-forde"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2020 - 2026)

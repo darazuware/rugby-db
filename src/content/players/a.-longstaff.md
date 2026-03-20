@@ -1,7 +1,7 @@
 ---
-title: "A. Longstaff | nan"
+title: "A. Longstaff | "
 name_en: "A. Longstaff"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-longstaff"
 position: "Hooker"
 height: "nan"

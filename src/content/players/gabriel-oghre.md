@@ -1,13 +1,13 @@
 ---
-title: "Gabriel Oghre | nan"
+title: "Gabriel Oghre | "
 name_en: "Gabriel Oghre"
-name_ja: "nan"
+name_ja: ""
 slug: "gabriel-oghre"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "24/05/1998"
-age: 27.0
+birth_date: "1998.05.25"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

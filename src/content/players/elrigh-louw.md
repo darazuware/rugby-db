@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/elrigh-louw"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "southern kings (2019 - 2019) -> bulls (2019 - 2019) -> southern kings (2020 - 2020) -> bulls (2020 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "🇿🇦 South Africa"
+caps: "South Africa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jaco-van-tonder"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2016 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )
+ASM Clermont Auvergne (2016 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)

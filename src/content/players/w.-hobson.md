@@ -1,13 +1,13 @@
 ---
-title: "W. Hobson | nan"
+title: "W. Hobson | "
 name_en: "W. Hobson"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-hobson"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "11/09/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

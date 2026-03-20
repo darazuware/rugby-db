@@ -10,12 +10,12 @@ birth_date: "1997.04.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (12)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "edimbourg rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴

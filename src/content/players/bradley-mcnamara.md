@@ -1,7 +1,7 @@
 ---
-title: "Bradley MCNAMARA | ブラッドリー・マクナマラ"
+title: "Bradley MCNAMARA | Bradley ・ MCNAMARA"
 name_en: "Bradley MCNAMARA"
-name_ja: "ブラッドリー・マクナマラ"
+name_ja: "Bradley ・ MCNAMARA"
 slug: "bradley-mcnamara"
 position: "FB"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/bradley-mcnamara"
 ---
 
 ## キャリア遍歴
-
+Instonians Rugby Club (2024 - 2025) -> Ulster Rugby (2025 - 2025) -> Instonians Rugby Club (2025 - 2025) -> Ulster Rugby (2026 - 2026) -> Instonians Rugby Club (2026 - 2026)

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "🇦🇷 Argentina代表 (6 caps)"
+caps: "🇦🇷 Argentina (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ignacio-ruiz"
 ---
 
 ## キャリア遍歴
-Jaguares XV (2020 - 2022) -> Club Regatas de Bella Vista (2021 - 2022) -> London Irish (2022 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )
+Jaguares XV (2020 - 2021) -> Club Regatas de Bella Vista (2021 - 2021) -> Jaguares XV (2022 - 2022) -> Club Regatas de Bella Vista (2022 - 2022) -> London Irish (2022 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)

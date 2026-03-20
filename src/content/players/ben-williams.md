@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/ben-williams-14088"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "aberavon rfc (2021 - 2022) -> scarlets (2022 - 2026)"
 ---
 
 ## キャリア遍歴

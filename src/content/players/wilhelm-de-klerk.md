@@ -1,7 +1,7 @@
 ---
-title: "Wilhelm DE KLERK | ヴィルヘルム-デ・クラーク"
+title: "Wilhelm DE KLERK | Wilhelm ・ デ ・ デクラーク"
 name_en: "Wilhelm DE KLERK"
-name_ja: "ヴィルヘルム-デ・クラーク"
+name_ja: "Wilhelm ・ デ ・ デクラーク"
 slug: "wilhelm-de-klerk"
 position: "CTB"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/wilhelm-de-klerk"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2023 - 2024) -> Ulster Rugby (2024 - 2026)

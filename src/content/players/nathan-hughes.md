@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "🇫🇯 Fiji"
+caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nathan-hughes"
 ---
 
 ## キャリア遍歴
-Wasps (2013 - 2019) -> Bristol Bears (2019 - 2022) -> Bath Rugby (2021 - 2022) -> BlackRams Tokyo (2022 - 2025) -> Urayasu D-Rocks (2024 - 2025) -> Racing 92 (2025 - )
+Wasps (2013 - 2019) -> Bristol Bears (2019 - 2021) -> Bath Rugby (2021 - 2021) -> Bristol Bears (2021 - 2021) -> Bath Rugby (2022 - 2022) -> Bristol Bears (2022 - 2022) -> BlackRams Tokyo (2022 - 2024) -> Urayasu D-Rocks (2024 - 2024) -> BlackRams Tokyo (2025 - 2025) -> Urayasu D-Rocks (2025 - 2025) -> Racing 92 (2025 - 2026)

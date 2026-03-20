@@ -10,7 +10,7 @@ birth_date: "1993.06.06"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Waratahs"
 caps: ""
 high_school: ""

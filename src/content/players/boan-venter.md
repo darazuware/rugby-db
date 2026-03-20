@@ -1,7 +1,7 @@
 ---
-title: "Boan VENTER | ボアン・フェンター"
+title: "Boan VENTER | Boan ・ VENTER"
 name_en: "Boan VENTER"
-name_ja: "ボアン・フェンター"
+name_ja: "Boan ・ VENTER"
 slug: "boan-venter"
 position: "PR"
 height: "187.0"
@@ -10,13 +10,13 @@ birth_date: "1997.04.12"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/boan-venter"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2018 - 2020) -> Edimbourg Rugby (2020 - 2026)

@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "198.0"
 weight: "113.0"
 birth_date: "2001.05.05"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "静岡ブルーレヴズ（2025-26）"
 caps: ""
 high_school: "St.AlbansCollege"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485057"
 ---
 
 ## キャリア遍歴

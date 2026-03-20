@@ -1,9 +1,9 @@
 ---
-title: "Tiaan SPARROW | ティアン・スパロウ"
+title: "Tiaan SPARROW | Tiaan ・ SPARROW"
 name_en: "Tiaan SPARROW"
-name_ja: "ティアン・スパロウ"
+name_ja: "Tiaan ・ SPARROW"
 slug: "tiaan-sparrow"
-position: "FL/No8"
+position: "Back row"
 height: "nan"
 weight: "nan"
 birth_date: "nan"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tiaan-sparrow"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

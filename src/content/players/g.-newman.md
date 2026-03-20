@@ -1,7 +1,7 @@
 ---
-title: "G. Newman | nan"
+title: "G. Newman | "
 name_en: "G. Newman"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-newman"
 position: "Scrum-half"
 height: "nan"

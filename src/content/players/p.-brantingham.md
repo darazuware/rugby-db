@@ -1,13 +1,13 @@
 ---
-title: "P. Brantingham | nan"
+title: "P. Brantingham | "
 name_en: "P. Brantingham"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-brantingham"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "10/02/2001"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

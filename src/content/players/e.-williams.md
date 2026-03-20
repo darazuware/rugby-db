@@ -1,7 +1,7 @@
 ---
-title: "E. Williams | nan"
+title: "E. Williams | "
 name_en: "E. Williams"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-williams"
 position: "Lock"
 height: "nan"

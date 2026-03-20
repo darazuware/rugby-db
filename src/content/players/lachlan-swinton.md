@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "🇦🇺 Australia"
+caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lachlan-swinton"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2024) -> Union Bordeaux-Bègles (2024 - )
+New South Wales Waratahs (2018 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/ryan-smith-10493"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "brisbane city (2018 - 2019) -> queensland reds (2019 - 2025) -> ospreys (2025 - 2026)"
 ---
 
 ## キャリア遍歴

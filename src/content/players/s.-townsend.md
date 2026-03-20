@@ -1,7 +1,7 @@
 ---
-title: "S. Townsend | nan"
+title: "S. Townsend | "
 name_en: "S. Townsend"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-townsend"
 position: "Scrum-half"
 height: "nan"

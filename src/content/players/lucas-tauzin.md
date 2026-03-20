@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-tauzin"
 ---
 
 ## キャリア遍歴
-S A ST Séverin (2004 - 2012) -> Stade Montois Rugby Pro (2012 - 2016) -> Stade Toulousain (2016 - 2024) -> ASM Clermont Auvergne (2024 - )
+S A ST Séverin (2004 - 2012) -> Stade Montois Rugby Pro (2012 - 2016) -> Stade Toulousain (2016 - 2024) -> ASM Clermont Auvergne (2024 - 2026)

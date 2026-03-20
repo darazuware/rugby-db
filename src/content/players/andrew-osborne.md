@@ -1,9 +1,9 @@
 ---
-title: "Andrew OSBORNE | アンドリュー・オズボーン"
+title: "Andrew OSBORNE | アンドリュー ・ OSBORNE"
 name_en: "Andrew OSBORNE"
-name_ja: "アンドリュー・オズボーン"
+name_ja: "アンドリュー ・ OSBORNE"
 slug: "andrew-osborne"
-position: "WTB"
+position: "Winger"
 height: "188.0"
 weight: "93.0"
 birth_date: "2003.08.16"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "United States (1)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/andrew-osborne"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

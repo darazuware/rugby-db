@@ -7,16 +7,16 @@ position: "LO"
 height: "181.0"
 weight: "103.0"
 birth_date: "1995.07.09"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "狭山セコムラガッツ（2025-26）"
 caps: ""
 high_school: "日本大学高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484135"
 ---
 
 ## キャリア遍歴
-
+狭山セコムラガッツ (2024 - )

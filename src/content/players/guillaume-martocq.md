@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guillaume-martocq"
 ---
 
 ## キャリア遍歴
-Union Stadiste Sauveterre (2013 - 2014) -> Rugby Club Béarnais (2014 - 2015) -> Aviron Bayonnais (2015 - 2026) -> US Carcassonne (2020 - )
+Union Stadiste Sauveterre (2013 - 2014) -> Rugby Club Béarnais (2014 - 2015) -> Aviron Bayonnais (2015 - 2020) -> US Carcassonne (2020 - 2022) -> Aviron Bayonnais (2022 - 2026)

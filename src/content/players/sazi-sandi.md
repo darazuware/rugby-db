@@ -1,7 +1,7 @@
 ---
-title: "Sazi SANDI | サジ・サンディ"
+title: "Sazi SANDI | Sazi ・ SANDI"
 name_en: "Sazi SANDI"
-name_ja: "サジ・サンディ"
+name_ja: "Sazi ・ SANDI"
 slug: "sazi-sandi"
 position: "PR"
 height: "181.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sazi-sandi"
 ---
 
 ## キャリア遍歴
-
+Western Province (2018 - 2019) -> Stormers (2019 - 2026)

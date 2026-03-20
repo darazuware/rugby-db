@@ -1,13 +1,13 @@
 ---
-title: "M. Lahiff | nan"
+title: "M. Lahiff | "
 name_en: "M. Lahiff"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-lahiff"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "12/09/1989"
-age: 36.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

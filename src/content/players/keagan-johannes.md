@@ -1,7 +1,7 @@
 ---
-title: "Keagan JOHANNES | キーガン・ヨハネス"
+title: "Keagan JOHANNES | Keagan ・ JOHANNES"
 name_en: "Keagan JOHANNES"
-name_ja: "キーガン・ヨハネス"
+name_ja: "Keagan ・ JOHANNES"
 slug: "keagan-johannes"
 position: "SH"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/keagan-johannes"
 ---
 
 ## キャリア遍歴
-
+Bulls (2019 - 2026)

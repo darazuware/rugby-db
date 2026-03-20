@@ -7,15 +7,15 @@ position: "WTB"
 height: "184.0"
 weight: "96.0"
 birth_date: "1996.02.27"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "レッドハリケーンズ大阪（2025-26）"
-caps: "🇯🇵 セブンズ日本(11)"
+caps: "セブンズ日本(11)"
 high_school: "日大荏原高校"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485015"
 ---
 
 ## キャリア遍歴

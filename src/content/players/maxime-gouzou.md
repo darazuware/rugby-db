@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-gouzou"
 ---
 
 ## キャリア遍歴
-US Bardos (2006 - 2009) -> Biarritz Olympique Pays Basque (2009 - 2018) -> Stade Montois Rugby Pro (2018 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )
+US Bardos (2006 - 2009) -> Biarritz Olympique Pays Basque (2009 - 2018) -> Stade Montois Rugby Pro (2018 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)

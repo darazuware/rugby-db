@@ -1,7 +1,7 @@
 ---
-title: "A. Evans-Fecci | nan"
+title: "A. Evans-Fecci | "
 name_en: "A. Evans-Fecci"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-evans-fecci"
 position: "Prop"
 height: "nan"

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gabriel-n-gandebe"
 ---
 
 ## キャリア遍歴
-AC Bobigny 93 (2011 - 2013) -> Rugby Club Massy Essonne (2013 - 2017) -> Montpellier Hérault Rugby (2017 - )
+AC Bobigny 93 (2011 - 2013) -> Rugby Club Massy Essonne (2013 - 2017) -> Montpellier Hérault Rugby (2017 - 2026)

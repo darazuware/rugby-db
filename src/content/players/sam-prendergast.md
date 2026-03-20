@@ -15,7 +15,7 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (8)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lansdowne fc (2021 - 2022) -> leinster rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

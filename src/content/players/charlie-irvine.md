@@ -1,7 +1,7 @@
 ---
-title: "Charlie IRVINE | チャーリー・アーヴィン"
+title: "Charlie IRVINE | Charlie ・ IRVINE"
 name_en: "Charlie IRVINE"
-name_ja: "チャーリー・アーヴィン"
+name_ja: "Charlie ・ IRVINE"
 slug: "charlie-irvine"
 position: "LO"
 height: "202.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/charlie-irvine"
 ---
 
 ## キャリア遍歴
-
+Queen's University (2022 - 2023) -> Ulster Rugby (2023 - 2026)

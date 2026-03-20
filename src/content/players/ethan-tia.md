@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "🇫🇷 France代表 (3 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ethan-tia"
 ---
 
 ## キャリア遍歴
-Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020) -> Stade Français Paris Rugby (2020 - )
+Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020) -> Stade Français Paris Rugby (2020 - 2026)

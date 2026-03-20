@@ -10,12 +10,12 @@ birth_date: "2001.09.08"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/cameron-scott"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "boroughmuir rfc (2020 - 2021) -> southern knights (2021 - 2022) -> london scottish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london scottish (2023 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

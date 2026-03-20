@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/salmaan-moerat"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2017 - 2026)"
 ---
 
 ## キャリア遍歴

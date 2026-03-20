@@ -1,13 +1,13 @@
 ---
-title: "H. Wilson | nan"
+title: "H. Wilson | "
 name_en: "H. Wilson"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-wilson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1999.11.22"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

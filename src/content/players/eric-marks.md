@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eric-marks"
 ---
 
 ## キャリア遍歴
-RC Aachen (2015 - 2016) -> Stade Rochelais (2016 - 2019) -> Rugby Club Vannes (2019 - )
+RC Aachen (2015 - 2016) -> Stade Rochelais (2016 - 2019) -> Rugby Club Vannes (2019 - 2026)

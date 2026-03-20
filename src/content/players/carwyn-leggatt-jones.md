@@ -1,7 +1,7 @@
 ---
-title: "Carwyn LEGGATT-JONES | カーウィン・レッガット＝ジョーンズ"
+title: "Carwyn LEGGATT-JONES | Carwyn ・ LEGGATT ・ JONES"
 name_en: "Carwyn LEGGATT-JONES"
-name_ja: "カーウィン・レッガット＝ジョーンズ"
+name_ja: "Carwyn ・ LEGGATT ・ JONES"
 slug: "carwyn-leggatt-jones"
 position: "SO"
 height: "170.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/carwyn-leggatt-jones"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

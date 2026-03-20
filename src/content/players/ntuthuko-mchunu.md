@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/ntuthuko-mchunu"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2021 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴

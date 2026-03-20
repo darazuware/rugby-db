@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-souverbie"
 ---
 
 ## キャリア遍歴
-Avenir Bizanos (2009 - 2017) -> Section Paloise Béarn Pyrénées (2017 - )
+Avenir Bizanos (2009 - 2017) -> Section Paloise Béarn Pyrénées (2017 - 2026)

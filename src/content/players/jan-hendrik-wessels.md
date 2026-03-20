@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/jan-hendrik-wessels"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "grey college (2018 - 2019) -> asm clermont auvergne (2019 - 2020) -> bulls (2020 - 2026)"
 ---
 
 ## キャリア遍歴

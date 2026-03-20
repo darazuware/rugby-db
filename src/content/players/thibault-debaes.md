@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibault-debaes"
 ---
 
 ## キャリア遍歴
-U.S. Morlaàs Rugby (2006 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2024) -> Rugby Club Vannes (2023 - )
+U.S. Morlaàs Rugby (2006 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2023) -> Rugby Club Vannes (2023 - 2023) -> Section Paloise Béarn Pyrénées (2024 - 2024) -> Rugby Club Vannes (2024 - 2026)

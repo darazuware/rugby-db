@@ -1,13 +1,13 @@
 ---
-title: "J. Mann | nan"
+title: "J. Mann | "
 name_en: "J. Mann"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-mann"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

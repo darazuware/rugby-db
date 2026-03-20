@@ -1,9 +1,9 @@
 ---
-title: "Callum WOOLLEY | カラム・ウーリー"
+title: "Callum WOOLLEY | Callum ・ WOOLLEY"
 name_en: "Callum WOOLLEY"
-name_ja: "カラム・ウーリー"
+name_ja: "Callum ・ WOOLLEY"
 slug: "callum-woolley"
-position: "WTB"
+position: "Winger"
 height: "193.0"
 weight: "nan"
 birth_date: "nan"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/callum-woolley"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

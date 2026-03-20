@@ -1,13 +1,13 @@
 ---
-title: "T. Lockett | nan"
+title: "T. Lockett | "
 name_en: "T. Lockett"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-lockett"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2002-10-06"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

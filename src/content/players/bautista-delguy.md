@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bautista-delguy"
 ---
 
 ## キャリア遍歴
-Jaguares (2017 - 2020) -> Union Bordeaux-Bègles (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2022) -> ASM Clermont Auvergne (2022 - )
+Jaguares (2017 - 2020) -> Union Bordeaux-Bègles (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2022) -> ASM Clermont Auvergne (2022 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Evan HILL | エヴァン・ヒル"
+title: "Evan HILL | Evan ・ HILL"
 name_en: "Evan HILL"
-name_ja: "エヴァン・ヒル"
+name_ja: "Evan ・ HILL"
 slug: "evan-hill"
 position: "LO"
 height: "199.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/evan-hill"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2022 - 2026)

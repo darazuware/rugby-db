@@ -1,7 +1,7 @@
 ---
-title: "S. Bland | nan"
+title: "S. Bland | "
 name_en: "S. Bland"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-bland"
 position: "Prop"
 height: "nan"

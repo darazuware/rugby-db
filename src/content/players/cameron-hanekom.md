@@ -1,9 +1,9 @@
 ---
-title: "Cameron HANEKOM | キャメロン・ハネコム"
+title: "Cameron HANEKOM | Cameron ・ HANEKOM"
 name_en: "Cameron HANEKOM"
-name_ja: "キャメロン・ハネコム"
+name_ja: "Cameron ・ HANEKOM"
 slug: "cameron-hanekom"
-position: "FL/No8"
+position: "Back row"
 height: "193.0"
 weight: "110.0"
 birth_date: "2002.05.10"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "South Africa"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cameron-hanekom"
 ---
 
 ## キャリア遍歴
-South Africa
+Blue Bulls (2021 - 2022) -> Bulls (2022 - 2026)

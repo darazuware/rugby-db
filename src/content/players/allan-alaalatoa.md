@@ -10,7 +10,7 @@ birth_date: "1994.01.28"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Brumbies"
 caps: "🇦🇺 Australia (33)"
 high_school: ""

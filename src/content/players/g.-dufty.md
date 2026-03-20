@@ -1,7 +1,7 @@
 ---
-title: "G. Dufty | nan"
+title: "G. Dufty | "
 name_en: "G. Dufty"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-dufty"
 position: "Wing"
 height: "nan"

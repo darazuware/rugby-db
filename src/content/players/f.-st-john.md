@@ -1,13 +1,13 @@
 ---
-title: "F. St John | nan"
+title: "F. St John | "
 name_en: "F. St John"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-st-john"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2007-XX-XX"
-age: 19.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

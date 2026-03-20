@@ -1,13 +1,13 @@
 ---
-title: "Marco Riccioni | nan"
+title: "Marco Riccioni | "
 name_en: "Marco Riccioni"
-name_ja: "nan"
+name_ja: ""
 slug: "marco-riccioni"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "19/10/1997"
-age: 28.0
+birth_date: "1997.10.19"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"

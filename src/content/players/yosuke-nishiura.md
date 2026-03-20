@@ -7,16 +7,16 @@ position: "PR"
 height: "175.0"
 weight: "108.0"
 birth_date: "1990.09.29"
-age: 35.0
+age: 35
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "レッドハリケーンズ大阪（2025-26）"
 caps: ""
 high_school: "荒尾高校"
 university: "立命館大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485013"
 ---
 
 ## キャリア遍歴
-
+NTTドコモレッドハリケーンズ大阪 (2021 - )

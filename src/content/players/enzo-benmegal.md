@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/enzo-benmegal"
 ---
 
 ## キャリア遍歴
-Union Rugby Centre 78 (2011 - 2014) -> Racing 92 (2014 - 2024) -> Rugby Club Vannes (2023 - )
+Union Rugby Centre 78 (2011 - 2014) -> Racing 92 (2014 - 2023) -> Rugby Club Vannes (2023 - 2023) -> Racing 92 (2024 - 2024) -> Rugby Club Vannes (2024 - 2026)

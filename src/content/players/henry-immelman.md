@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/henry-immelman"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "free state cheetahs (2015 - 2016) -> montpellier hérault rugby (2016 - 2021) -> edimbourg rugby (2021 - 2023) -> bulls (2023 - 2024) -> sharks (2024 - 2024) -> bulls (2025 - 2025) -> sharks (2025 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴

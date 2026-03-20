@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/kerr-yule"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "glasgow hawks (2022 - 2023) -> glasgow warriors (2023 - 2026)"
 ---
 
 ## キャリア遍歴

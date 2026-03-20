@@ -10,12 +10,12 @@ birth_date: "1997.02.18"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leicester tigers (2015 - 2016) -> sale sharks (2016 - 2019) -> wasps (2019 - 2022) -> stade français paris rugby (2022 - 2022) -> wasps (2023 - 2023) -> stade français paris rugby (2023 - 2023) -> benetton rugby trévise (2023 - 2026)"
 ---
 
 ## キャリア遍歴

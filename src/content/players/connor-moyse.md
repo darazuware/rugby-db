@@ -1,9 +1,9 @@
 ---
-title: "Connor MOYSE | コナー・モイス"
+title: "Connor MOYSE | Connor ・ MOYSE"
 name_en: "Connor MOYSE"
-name_ja: "コナー・モイス"
+name_ja: "Connor ・ MOYSE"
 slug: "connor-moyse"
-position: "WTB"
+position: "Winger"
 height: "188.0"
 weight: "94.0"
 birth_date: "2003.03.19"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/connor-moyse"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2025 - 2026)

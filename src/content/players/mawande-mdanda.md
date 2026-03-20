@@ -10,12 +10,12 @@ birth_date: "2003.03.09"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/mawande-mdanda"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "blue bulls (2022 - 2023) -> natal sharks (2023 - 2024) -> sharks (2024 - 2026)"
 ---
 
 ## キャリア遍歴

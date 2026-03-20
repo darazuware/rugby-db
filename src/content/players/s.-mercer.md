@@ -1,7 +1,7 @@
 ---
-title: "S. Mercer | nan"
+title: "S. Mercer | "
 name_en: "S. Mercer"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-mercer"
 position: "Wing"
 height: "nan"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/hugo-mclaughlin"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lansdowne fc (2023 - 2024) -> leinster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-serin"
 ---
 
 ## キャリア遍歴
-Parentis Sport Rugby (2004 - 2009) -> Union Bordeaux-Bègles (2009 - 2019) -> Rugby Club Toulonnais (2019 - )
+Parentis Sport Rugby (2004 - 2009) -> Union Bordeaux-Bègles (2009 - 2019) -> Rugby Club Toulonnais (2019 - 2026)

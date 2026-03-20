@@ -1,18 +1,18 @@
 ---
-title: "J. Williams | nan"
+title: "J. Williams | "
 name_en: "J. Williams"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-williams"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2000.12.02"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (6 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

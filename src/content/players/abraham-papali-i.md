@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇳🇿 New Zealand"
+caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/abraham-papali-i"
 ---
 
 ## キャリア遍歴
-New Zealand Warriors (2013 - 2014) -> Sydney Roosters (2014 - 2016) -> FC Lézignan XIII (2016 - 2017) -> Bay of Plenty Steamers (2018 - 2019) -> China Lions (2019 - 2020) -> Connacht Rugby (2019 - 2022) -> CA Brive Corrèze Limousin (2022 - 2023) -> Castres Olympique (2023 - )
+New Zealand Warriors (2013 - 2014) -> Sydney Roosters (2014 - 2016) -> FC Lézignan XIII (2016 - 2017) -> Bay of Plenty Steamers (2018 - 2019) -> China Lions (2019 - 2019) -> Connacht Rugby (2019 - 2019) -> China Lions (2020 - 2020) -> Connacht Rugby (2020 - 2022) -> CA Brive Corrèze Limousin (2022 - 2023) -> Castres Olympique (2023 - 2026)

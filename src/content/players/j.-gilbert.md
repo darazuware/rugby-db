@@ -1,7 +1,7 @@
 ---
-title: "J. Gilbert | nan"
+title: "J. Gilbert | "
 name_en: "J. Gilbert"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-gilbert"
 position: "Flanker"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "J. Benz-Salomon | nan"
+title: "J. Benz-Salomon | "
 name_en: "J. Benz-Salomon"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-benz-salomon"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "17/05/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "187.0"
 weight: "109.0"
 birth_date: "1994.07.27"
-age: 31.0
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "トヨタヴェルブリッツ（2025-26）"
-caps: "🇯🇵 U23('13)、12 高校、日本代表(36)"
+caps: "U23('13)、12 高校、日本代表(36)"
 high_school: "中部大春日丘高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484466"
 ---
 
 ## キャリア遍歴
-
+サンウルブズ (2017 - 2019) -> トヨタヴェルブリッツ (2017 - 2026) -> ハイランダーズ (2020 - )

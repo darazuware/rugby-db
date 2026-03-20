@@ -7,16 +7,16 @@ position: "WTB"
 height: "177.0"
 weight: "95.0"
 birth_date: "1994.04.12"
-age: 31.0
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東芝ブレイブルーパス東京（2025-26）"
-caps: "🇯🇵 セブンズ日本(5)、日本代表(17)"
+caps: "セブンズ日本(5)、日本代表(17)"
 high_school: "ケルストンボーイズ"
 university: "摂南大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484356"
 ---
 
 ## キャリア遍歴
-
+東芝ブレイブルーパス東京 (2018 - )

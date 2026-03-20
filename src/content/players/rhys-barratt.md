@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/rhys-barratt"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-
+Wales

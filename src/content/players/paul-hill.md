@@ -10,12 +10,12 @@ birth_date: "1995.03.02"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/paul-hill"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "northampton saints (2015 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

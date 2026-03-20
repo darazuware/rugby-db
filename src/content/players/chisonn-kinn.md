@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "174.0"
 weight: "93.0"
 birth_date: "2003.02.22"
-age: 22.0
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ルリーロ福岡（2025-26）"
 caps: ""
 high_school: "大阪朝鮮高級学校"
 university: "朝鮮大学校"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484931"
 ---
 
 ## キャリア遍歴
-
+Not Found

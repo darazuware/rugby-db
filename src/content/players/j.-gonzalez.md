@@ -1,7 +1,7 @@
 ---
-title: "J. Gonzalez | nan"
+title: "J. Gonzalez | "
 name_en: "J. Gonzalez"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-gonzalez"
 position: "Flanker"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "D. Frost | nan"
+title: "D. Frost | "
 name_en: "D. Frost"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-frost"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "24/04/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

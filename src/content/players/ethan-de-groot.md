@@ -10,7 +10,7 @@ birth_date: "1998.07.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Highlanders"
 caps: "🇳🇿 New Zealand (17)"
 high_school: ""

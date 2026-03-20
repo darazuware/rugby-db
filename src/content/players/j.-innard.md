@@ -1,13 +1,13 @@
 ---
-title: "J. Innard | nan"
+title: "J. Innard | "
 name_en: "J. Innard"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-innard"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "07/03/1995"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,18 +1,18 @@
 ---
-title: "Raffi Quirke | nan"
+title: "Raffi Quirke | "
 name_en: "Raffi Quirke"
-name_ja: "nan"
+name_ja: ""
 slug: "raffi-quirke"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.08.18"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "Call-ups代表 (2 caps)"
+caps: "Call-ups (2)"
 high_school: ""
 university: ""
 scraped_url: "nan"

@@ -1,7 +1,7 @@
 ---
-title: "Shane DALY | シェーン・デイリー"
+title: "Shane DALY | Shane ・ DALY"
 name_en: "Shane DALY"
-name_ja: "シェーン・デイリー"
+name_ja: "Shane ・ DALY"
 slug: "shane-daly"
 position: "CTB"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "Ireland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/shane-daly"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2017 - 2026)

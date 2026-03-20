@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/killian-tixeront"
 ---
 
 ## キャリア遍歴
-US Martres-de-Veyre (2009 - 2017) -> ASM Clermont Auvergne (2017 - )
+US Martres-de-Veyre (2009 - 2017) -> ASM Clermont Auvergne (2017 - 2026)

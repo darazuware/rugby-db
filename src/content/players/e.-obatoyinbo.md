@@ -1,7 +1,7 @@
 ---
-title: "E. Obatoyinbo | nan"
+title: "E. Obatoyinbo | "
 name_en: "E. Obatoyinbo"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-obatoyinbo"
 position: "Fullback"
 height: "nan"

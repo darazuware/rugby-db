@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlesty-berguet"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2017 - 2022) -> Stade Montois Rugby Pro (2021 - 2022) -> Rugby Club Vannes (2022 - )
+Union Sportive Arlequins Perpignanais (2017 - 2021) -> Stade Montois Rugby Pro (2021 - 2021) -> Union Sportive Arlequins Perpignanais (2022 - 2022) -> Stade Montois Rugby Pro (2022 - 2022) -> Rugby Club Vannes (2022 - 2026)

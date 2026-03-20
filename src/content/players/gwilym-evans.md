@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/gwilym-evans"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2022 - 2023) -> cardiff university rfc (2023 - 2024) -> aberavon rfc (2024 - 2025) -> ospreys (2025 - 2026)"
 ---
 
 ## キャリア遍歴

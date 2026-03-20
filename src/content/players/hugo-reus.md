@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-reus"
 ---
 
 ## キャリア遍歴
-Club Athlétique Ribéracois (2009 - 2013) -> CA Périgueux Dordogne (2013 - 2018) -> Union Bordeaux-Bègles (2018 - 2022) -> Stade Rochelais (2022 - 2025) -> Montpellier Hérault Rugby (2024 - 2026) -> Union Sportive Arlequins Perpignanais (2025 - )
+Club Athlétique Ribéracois (2009 - 2013) -> CA Périgueux Dordogne (2013 - 2018) -> Union Bordeaux-Bègles (2018 - 2022) -> Stade Rochelais (2022 - 2024) -> Montpellier Hérault Rugby (2024 - 2024) -> Stade Rochelais (2025 - 2025) -> Montpellier Hérault Rugby (2025 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2025) -> Montpellier Hérault Rugby (2026 - 2026) -> Union Sportive Arlequins Perpignanais (2026 - 2026)

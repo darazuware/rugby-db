@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simeli-daunivucu"
 ---
 
 ## キャリア遍歴
-Rugby Club Chartreuse Néron (2010 - 2011) -> Valence Romans Drôme Rugby (2012 - 2015) -> Saint-Jean d'Angély (2015 - 2017) -> Union Cognac-Saint-Jean d'Angély (2017 - 2020) -> Stade Rochelais (2019 - )
+Rugby Club Chartreuse Néron (2010 - 2011) -> Valence Romans Drôme Rugby (2012 - 2015) -> Saint-Jean d'Angély (2015 - 2017) -> Union Cognac-Saint-Jean d'Angély (2017 - 2019) -> Stade Rochelais (2019 - 2019) -> Union Cognac-Saint-Jean d'Angély (2020 - 2020) -> Stade Rochelais (2020 - 2026)

@@ -15,7 +15,7 @@ team: "Ospreys"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (17)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2018 - 2021) -> ospreys (2021 - 2026)"
 ---
 
 ## キャリア遍歴

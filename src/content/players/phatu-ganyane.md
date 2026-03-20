@@ -10,12 +10,12 @@ birth_date: "2003.01.17"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/phatu-ganyane"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "natal sharks (2022 - 2024) -> sharks (2024 - 2026)"
 ---
 
 ## キャリア遍歴

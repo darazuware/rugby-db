@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇮🇹 Italy代表 (2 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gauthier-doubrere"
 ---
 
 ## キャリア遍歴
-RC Bassoues Lupiac Montesquiou (2004 - 2010) -> Rugby Club Auch (2010 - 2015) -> Union Bordeaux-Bègles (2015 - 2018) -> Biarritz Olympique Pays Basque (2018 - 2021) -> Stade Montois Rugby Pro (2021 - 2022) -> Castres Olympique (2022 - )
+RC Bassoues Lupiac Montesquiou (2004 - 2010) -> Rugby Club Auch (2010 - 2015) -> Union Bordeaux-Bègles (2015 - 2018) -> Biarritz Olympique Pays Basque (2018 - 2021) -> Stade Montois Rugby Pro (2021 - 2022) -> Castres Olympique (2022 - 2026)

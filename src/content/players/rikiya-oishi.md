@@ -7,16 +7,16 @@ position: "FL/No8"
 height: "190.0"
 weight: "95.0"
 birth_date: "1993.01.29"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
-caps: "🇯🇵 セブンズ日本(14)"
+caps: "セブンズ日本(14)"
 high_school: "岡谷工業高校"
 university: "山梨学院大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484777"
 ---
 
 ## キャリア遍歴
-
+NECグリーンロケッツ東葛 (2021 - 2022) -> ヤクルトレビンズ戸田 (2024 - )

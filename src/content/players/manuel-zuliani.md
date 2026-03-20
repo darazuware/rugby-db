@@ -10,12 +10,12 @@ birth_date: "2000.04.26"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (28)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "rugby calvisano (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> rugby calvisano (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-ntamack"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2014 - )
+Stade Toulousain (2014 - 2026)

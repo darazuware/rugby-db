@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/carwyn-tuipulotu"
 ---
 
 ## キャリア遍歴
-Scarlets (2018 - 2025) -> Saracens (2024 - 2025) -> Section Paloise Béarn Pyrénées (2024 - )
+Scarlets (2018 - 2024) -> Saracens (2024 - 2024) -> Scarlets (2024 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2024) -> Saracens (2025 - 2025) -> Scarlets (2025 - 2025) -> Section Paloise Béarn Pyrénées (2025 - 2026)

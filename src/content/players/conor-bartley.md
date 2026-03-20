@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/conor-bartley"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "young munster rfc (2021 - 2024) -> munster rugby (2024 - 2024) -> young munster rfc (2025 - 2025) -> munster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

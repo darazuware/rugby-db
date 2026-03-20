@@ -1,7 +1,7 @@
 ---
-title: "O. Allan | nan"
+title: "O. Allan | "
 name_en: "O. Allan"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-allan"
 position: "Scrum-half"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "M. Loggenberg | nan"
+title: "M. Loggenberg | "
 name_en: "M. Loggenberg"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-loggenberg"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1997.10.24"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

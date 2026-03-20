@@ -15,7 +15,7 @@ team: "Munster"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (38)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "garryowen fc (2024 - 2025) -> munster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

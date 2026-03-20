@@ -7,16 +7,16 @@ position: "HO"
 height: "177.0"
 weight: "95.0"
 birth_date: "1991.10.03"
-age: 34.0
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "浦安D-Rocks（2025-26）"
-caps: "🇯🇵 高校('09)、'10、U20('11)、U23('16)、セブンズ日本(1)、日本代表(7)"
+caps: "高校('09)、'10、U20('11)、U23('16)、セブンズ日本(1)、日本代表(7)"
 high_school: "常翔啓光学園高校"
 university: "早稲田大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483511"
 ---
 
 ## キャリア遍歴
-
+浦安D-Rocks (2014 - 2026) -> サンウルブズ (2015 - )

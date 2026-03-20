@@ -1,7 +1,7 @@
 ---
-title: "Thaakir ABRAHAMS | サーキール・アブラハムズ"
+title: "Thaakir ABRAHAMS | Thaakir ・ ABRAHAMS"
 name_en: "Thaakir ABRAHAMS"
-name_ja: "サーキール・アブラハムズ"
+name_ja: "Thaakir ・ ABRAHAMS"
 slug: "thaakir-abrahams"
 position: "FB"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/thaakir-abrahams"
 ---
 
 ## キャリア遍歴
-
+Sharks (2019 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - 2024) -> Munster Rugby (2024 - 2026)

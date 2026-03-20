@@ -1,7 +1,7 @@
 ---
-title: "Stefan UNGERER | ステファン・ウンゲラー"
+title: "Stefan UNGERER | Stefan ・ UNGERER"
 name_en: "Stefan UNGERER"
-name_ja: "ステファン・ウンゲラー"
+name_ja: "Stefan ・ UNGERER"
 slug: "stefan-ungerer"
 position: "SH"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/stefan-ungerer"
 ---
 
 ## キャリア遍歴
-
+Sharks (2013 - 2016) -> Southern Kings (2016 - 2020) -> Griquas (2020 - 2021) -> Stormers (2021 - 2021) -> Griquas (2022 - 2022) -> Stormers (2022 - 2026)

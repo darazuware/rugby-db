@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/arthur-retiere"
 ---
 
 ## キャリア遍歴
-Racing 92 (2014 - 2016) -> Stade Rochelais (2016 - 2022) -> Stade Toulousain (2022 - 2024) -> Union Bordeaux-Bègles (2024 - )
+Racing 92 (2014 - 2016) -> Stade Rochelais (2016 - 2022) -> Stade Toulousain (2022 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

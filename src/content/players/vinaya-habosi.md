@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "🇫🇯 Fiji代表 (6 caps)"
+caps: "🇫🇯 Fiji (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vinaya-habosi"
 ---
 
 ## キャリア遍歴
-Namosi Rugby (2020 - 2021) -> Fijian Drua (2021 - 2023) -> Racing 92 (2022 - )
+Namosi Rugby (2020 - 2021) -> Fijian Drua (2021 - 2022) -> Racing 92 (2022 - 2022) -> Fijian Drua (2023 - 2023) -> Racing 92 (2023 - 2026)

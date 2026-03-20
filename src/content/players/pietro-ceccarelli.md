@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pietro-ceccarelli"
 ---
 
 ## キャリア遍歴
-Lazio (2011 - 2012) -> Stade Rochelais (2012 - 2014) -> AS Mâcon Rugby (2014 - 2015) -> Zebre Parma (2015 - 2017) -> Oyonnax Rugby (2017 - 2018) -> Edimbourg Rugby (2018 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )
+Lazio (2011 - 2012) -> Stade Rochelais (2012 - 2014) -> AS Mâcon Rugby (2014 - 2015) -> Zebre Parma (2015 - 2017) -> Oyonnax Rugby (2017 - 2018) -> Edimbourg Rugby (2018 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)

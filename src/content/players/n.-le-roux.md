@@ -1,13 +1,13 @@
 ---
-title: "N. le Roux | nan"
+title: "N. le Roux | "
 name_en: "N. le Roux"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-le-roux"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "16/04/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

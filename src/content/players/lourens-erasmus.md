@@ -7,7 +7,7 @@ position: "LO"
 height: "200.0"
 weight: "115.0"
 birth_date: "1993.06.14"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "トヨタヴェルブリッツ（2025-26）"
 caps: ""
 high_school: "ヨハネスブルクカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485503"
 ---
 
 ## キャリア遍歴
-
+ライオンズ (2015 - 2019) -> NTTドコモレッドハリケーンズ大阪 (2019 - 2022) -> 浦安D-Rocks (2022 - 2025) -> トヨタヴェルブリッツ (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-tetrashvili"
 ---
 
 ## キャリア遍歴
-Sporting Club Albigeois (2012 - 2014) -> Sporting Union Agenais (2014 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - )
+Sporting Club Albigeois (2012 - 2014) -> Sporting Union Agenais (2014 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2026)

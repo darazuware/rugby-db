@@ -1,7 +1,7 @@
 ---
-title: "N. Caluori | nan"
+title: "N. Caluori | "
 name_en: "N. Caluori"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-caluori"
 position: "Wing"
 height: "nan"

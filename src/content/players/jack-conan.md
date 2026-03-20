@@ -1,9 +1,9 @@
 ---
-title: "Jack CONAN | ジャック-コナン"
+title: "Jack CONAN | ジャック ・ CONAN"
 name_en: "Jack CONAN"
-name_ja: "ジャック-コナン"
+name_ja: "ジャック ・ CONAN"
 slug: "jack-conan"
-position: "FL/No8"
+position: "Back row"
 height: "193.0"
 weight: "111.0"
 birth_date: "1992.07.29"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (51)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jack-conan"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2013 - 2026)

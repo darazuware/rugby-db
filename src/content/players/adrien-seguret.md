@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adrien-seguret"
 ---
 
 ## キャリア遍歴
-Sporting Club Albigeois (2010 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - 2019) -> Stade Montois Rugby Pro (2019 - 2020) -> FC Grenoble Rugby (2020 - 2022) -> Castres Olympique (2022 - 2026) -> Stade Rochelais (2025 - )
+Sporting Club Albigeois (2010 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - 2019) -> Stade Montois Rugby Pro (2019 - 2020) -> FC Grenoble Rugby (2020 - 2022) -> Castres Olympique (2022 - 2025) -> Stade Rochelais (2025 - 2025) -> Castres Olympique (2026 - 2026) -> Stade Rochelais (2026 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bobby-bissu"
 ---
 
 ## キャリア遍歴
-Balma Olympique Rugby Club (2021 - 2023) -> Club Athlétique Bordeaux Bègles Gironde (2023 - 2024) -> Union Bordeaux-Bègles (2024 - )
+Balma Olympique Rugby Club (2021 - 2023) -> Club Athlétique Bordeaux Bègles Gironde (2023 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "Arthur Clark | nan"
+title: "Arthur Clark | "
 name_en: "Arthur Clark"
-name_ja: "nan"
+name_ja: ""
 slug: "arthur-clark"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "19/12/2001"
-age: 24.0
+birth_date: "2001.12.19"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

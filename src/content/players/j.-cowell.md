@@ -1,13 +1,13 @@
 ---
-title: "J. Cowell | nan"
+title: "J. Cowell | "
 name_en: "J. Cowell"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-cowell"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2002-06-01"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "Fergus WATSON | ファーガス・ワトソン"
+title: "Fergus WATSON | Fergus ・ WATSON"
 name_en: "Fergus WATSON"
-name_ja: "ファーガス・ワトソン"
+name_ja: "Fergus ・ WATSON"
 slug: "fergus-watson"
 position: "FB"
 height: "192.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/fergus-watson"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

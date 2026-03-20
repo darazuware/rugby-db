@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/efrain-elias"
 ---
 
 ## キャリア遍歴
-Jockey Club Cordoba (2022 - 2024) -> Dogos XV (2022 - 2024) -> Stade Toulousain (2024 - )
+Jockey Club Cordoba  (2022 - 2022) -> Dogos XV (2022 - 2022) -> Jockey Club Cordoba  (2023 - 2023) -> Dogos XV (2023 - 2023) -> Jockey Club Cordoba  (2023 - 2023) -> Dogos XV (2023 - 2023) -> Jockey Club Cordoba  (2024 - 2024) -> Dogos XV (2024 - 2024) -> Stade Toulousain (2024 - 2026)

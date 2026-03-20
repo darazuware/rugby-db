@@ -1,13 +1,13 @@
 ---
-title: "J. Harper | nan"
+title: "J. Harper | "
 name_en: "J. Harper"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-harper"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "16/10/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "Jaco WILLIAMS | ヤコ・ウィリアムズ"
+title: "Jaco WILLIAMS | Jaco ・ ウィリアムズ"
 name_en: "Jaco WILLIAMS"
-name_ja: "ヤコ・ウィリアムズ"
+name_ja: "Jaco ・ ウィリアムズ"
 slug: "jaco-williams"
 position: "FB"
 height: "175.0"
@@ -10,13 +10,13 @@ birth_date: "2005.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jaco-williams"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2023 - 2024) -> Sharks (2024 - 2026)

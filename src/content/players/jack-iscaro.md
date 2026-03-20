@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-iscaro"
 ---
 
 ## キャリア遍歴
-Old Glory DC RFC (2018 - 2025) -> Stade Français Paris Rugby (2025 - )
+Old Glory DC RFC (2018 - 2025) -> Stade Français Paris Rugby (2025 - 2026)

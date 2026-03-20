@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oscar-jegou"
 ---
 
 ## キャリア遍歴
-Oléron RC (2008 - 2009) -> Stade Rochelais (2009 - )
+Oléron RC (2008 - 2009) -> Stade Rochelais (2009 - 2026)

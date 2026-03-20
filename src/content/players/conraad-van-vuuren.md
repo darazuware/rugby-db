@@ -1,7 +1,7 @@
 ---
-title: "Conraad VAN VUUREN | コンラッド・ファン・ビューレン"
+title: "Conraad VAN VUUREN | Conraad ・ ファン ・ VUUREN"
 name_en: "Conraad VAN VUUREN"
-name_ja: "コンラッド・ファン・ビューレン"
+name_ja: "Conraad ・ ファン ・ VUUREN"
 slug: "conraad-van-vuuren"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/conraad-van-vuuren"
 ---
 
 ## キャリア遍歴
-
+Bulls (2016 - 2019) -> Sunwolves (2019 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Lions Rugby (2023 - 2026)

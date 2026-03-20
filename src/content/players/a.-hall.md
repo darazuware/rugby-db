@@ -1,7 +1,7 @@
 ---
-title: "A. Hall | nan"
+title: "A. Hall | "
 name_en: "A. Hall"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-hall"
 position: "Centre"
 height: "nan"

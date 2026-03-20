@@ -1,7 +1,7 @@
 ---
-title: "R. Segun | nan"
+title: "R. Segun | "
 name_en: "R. Segun"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-segun"
 position: "Wing"
 height: "nan"

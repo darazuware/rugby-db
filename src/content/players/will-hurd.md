@@ -1,13 +1,13 @@
 ---
-title: "Will Hurd | nan"
+title: "Will Hurd | "
 name_en: "Will Hurd"
-name_ja: "nan"
+name_ja: ""
 slug: "will-hurd"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "29/06/1999"
-age: 26.0
+birth_date: "1999.06.29"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"

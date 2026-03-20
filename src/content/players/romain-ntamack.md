@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romain-ntamack"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2013 - )
+Stade Toulousain (2013 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cheikh-tiberghien"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2013 - 2026) -> ASM Clermont Auvergne (2019 - )
+Aviron Bayonnais (2013 - 2019) -> ASM Clermont Auvergne (2019 - 2023) -> Aviron Bayonnais (2023 - 2026)

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇿🇦 South Africa代表 (35 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/leo-ametlla"
 ---
 
 ## キャリア遍歴
-RC Ouest Provence Fos Istres (2009 - 2013) -> RC Martigues Port-de-Bouc (2013 - 2019) -> Provence Rugby (2019 - 2022) -> Rugby Club Toulonnais (2022 - )
+RC Ouest Provence Fos Istres (2009 - 2013) -> RC Martigues Port-de-Bouc (2013 - 2019) -> Provence Rugby (2019 - 2022) -> Rugby Club Toulonnais (2022 - 2026)

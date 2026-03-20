@@ -1,7 +1,7 @@
 ---
-title: "Hudson NEVIN | ハドソン・ネヴィン"
+title: "Hudson NEVIN | Hudson ・ NEVIN"
 name_en: "Hudson NEVIN"
-name_ja: "ハドソン・ネヴィン"
+name_ja: "Hudson ・ NEVIN"
 slug: "hudson-nevin"
 position: "PR"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/hudson-nevin"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

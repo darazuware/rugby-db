@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/lewis-lloyd"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "treorchy rfc (2021 - 2022) -> ospreys (2022 - 2026)"
 ---
 
 ## キャリア遍歴

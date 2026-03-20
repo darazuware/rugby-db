@@ -1,7 +1,7 @@
 ---
-title: "Ben AFSHAR | ベン・アフシャー"
+title: "Ben AFSHAR | ベン ・ AFSHAR"
 name_en: "Ben AFSHAR"
-name_ja: "ベン・アフシャー"
+name_ja: "ベン ・ AFSHAR"
 slug: "ben-afshar"
 position: "SH"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-afshar"
 ---
 
 ## キャリア遍歴
-
+Southern Knights (2021 - 2022) -> Glasgow Warriors (2022 - 2026)

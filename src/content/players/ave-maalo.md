@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ave-maalo"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2023 - )
+Lyon Olympique Universitaire Rugby (2023 - 2026)

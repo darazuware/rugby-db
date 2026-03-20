@@ -1,7 +1,7 @@
 ---
-title: "N. Michelow | nan"
+title: "N. Michelow | "
 name_en: "N. Michelow"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-michelow"
 position: "Flanker"
 height: "nan"

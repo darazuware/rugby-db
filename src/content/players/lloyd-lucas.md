@@ -1,7 +1,7 @@
 ---
-title: "Lloyd LUCAS | ロイド・ルーカス"
+title: "Lloyd LUCAS | Lloyd ・ LUCAS"
 name_en: "Lloyd LUCAS"
-name_ja: "ロイド・ルーカス"
+name_ja: "Lloyd ・ LUCAS"
 slug: "lloyd-lucas"
 position: "SO"
 height: "170.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/lloyd-lucas"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2024 - 2026)

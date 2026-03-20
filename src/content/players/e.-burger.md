@@ -1,13 +1,13 @@
 ---
-title: "E. Burger | nan"
+title: "E. Burger | "
 name_en: "E. Burger"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-burger"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "23/05/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

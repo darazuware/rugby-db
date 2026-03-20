@@ -7,16 +7,16 @@ position: "PR"
 height: "184.0"
 weight: "115.0"
 birth_date: "1996.10.06"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "横浜キヤノンイーグルス（2025-26）"
-caps: "🇯🇵 U20('15,'16)、U23('15)、日本代表(5)"
+caps: "U20('15,'16)、U23('15)、日本代表(5)"
 high_school: "桐蔭学園高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484849"
 ---
 
 ## キャリア遍歴
-
+東京サントリーサンゴリアス (2021 - 2023) -> 横浜キヤノンイーグルス (2023 - )

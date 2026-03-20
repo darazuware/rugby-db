@@ -1,7 +1,7 @@
 ---
-title: "L. Schmid | nan"
+title: "L. Schmid | "
 name_en: "L. Schmid"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-schmid"
 position: "Flanker"
 height: "nan"

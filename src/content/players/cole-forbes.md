@@ -10,7 +10,7 @@ birth_date: "1999.08.10"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Blues"
 caps: ""
 high_school: ""

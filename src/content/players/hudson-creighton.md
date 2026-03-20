@@ -10,7 +10,7 @@ birth_date: "2000.03.21"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Brumbies"
 caps: ""
 high_school: ""

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇮🇪 Ireland"
+caps: "Ireland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/daniel-brennan"
 ---
 
 ## キャリア遍歴
-Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - 2018) -> Montpellier Hérault Rugby (2018 - 2021) -> CA Brive Corrèze Limousin (2020 - 2024) -> Rugby Club Toulonnais (2024 - )
+Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - 2018) -> Montpellier Hérault Rugby (2018 - 2020) -> CA Brive Corrèze Limousin (2020 - 2020) -> Montpellier Hérault Rugby (2020 - 2020) -> CA Brive Corrèze Limousin (2020 - 2021) -> Montpellier Hérault Rugby (2021 - 2021) -> CA Brive Corrèze Limousin (2021 - 2024) -> Rugby Club Toulonnais (2024 - 2026)

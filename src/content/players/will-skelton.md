@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-skelton"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2013 - 2017) -> Saracens (2016 - 2020) -> Stade Rochelais (2020 - )
+New South Wales Waratahs (2013 - 2016) -> Saracens (2016 - 2016) -> New South Wales Waratahs (2016 - 2016) -> Saracens (2017 - 2017) -> New South Wales Waratahs (2017 - 2017) -> Saracens (2017 - 2020) -> Stade Rochelais (2020 - 2026)

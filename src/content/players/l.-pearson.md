@@ -1,13 +1,13 @@
 ---
-title: "L. Pearson | nan"
+title: "L. Pearson | "
 name_en: "L. Pearson"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-pearson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "26/10/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

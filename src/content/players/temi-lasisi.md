@@ -1,7 +1,7 @@
 ---
-title: "Temi LASISI | テミ・ラシシ"
+title: "Temi LASISI | Temi ・ LASISI"
 name_en: "Temi LASISI"
-name_ja: "テミ・ラシシ"
+name_ja: "Temi ・ LASISI"
 slug: "temi-lasisi"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/temi-lasisi"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2020 - 2024) -> Connacht Rugby (2024 - 2026)

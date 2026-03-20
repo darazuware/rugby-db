@@ -1,7 +1,7 @@
 ---
-title: "Rob HERRING | ロブ・ヘリング"
+title: "Rob HERRING | Rob ・ HERRING"
 name_en: "Rob HERRING"
-name_ja: "ロブ・ヘリング"
+name_ja: "Rob ・ HERRING"
 slug: "rob-herring"
 position: "HO"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "🇮🇪 Ireland (43)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/rob-herring"
 ---
 
 ## キャリア遍歴
-South Africa
+Ulster Rugby (2013 - 2026)

@@ -1,18 +1,18 @@
 ---
-title: "Arron Reed | nan"
+title: "Arron Reed | "
 name_en: "Arron Reed"
-name_ja: "nan"
+name_ja: ""
 slug: "arron-reed"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1999.07.10"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (0 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

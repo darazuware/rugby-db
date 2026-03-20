@@ -1,7 +1,7 @@
 ---
-title: "P. Bell | nan"
+title: "P. Bell | "
 name_en: "P. Bell"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-bell"
 position: "Prop"
 height: "nan"

@@ -7,16 +7,16 @@ position: "FB"
 height: "188.0"
 weight: "96.0"
 birth_date: "1988.06.22"
-age: 37.0
+age: 37
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "浦安D-Rocks（2025-26）"
-caps: "🇯🇵 U20('07)、日本代表(30)"
+caps: "U20('07)、日本代表(30)"
 high_school: "東海大仰星高校"
 university: "早稲田大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483477"
 ---
 
 ## キャリア遍歴
-
+コベルコ神戸スティーラーズ (2013 - 2025) -> サンウルブズ (2015 - 2019) -> 浦安D-Rocks (2025 - )

@@ -1,13 +1,13 @@
 ---
-title: "T. Maka | nan"
+title: "T. Maka | "
 name_en: "T. Maka"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-maka"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1996.05.04"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

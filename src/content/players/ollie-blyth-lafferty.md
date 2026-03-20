@@ -10,12 +10,12 @@ birth_date: "2006.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/ollie-blyth-lafferty"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "boroughmuir rfc (2022 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

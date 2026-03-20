@@ -1,7 +1,7 @@
 ---
-title: "Aled DAVIES | アレド・デイヴィス"
+title: "Aled DAVIES | Aled ・ DAVIES"
 name_en: "Aled DAVIES"
-name_ja: "アレド・デイヴィス"
+name_ja: "Aled ・ DAVIES"
 slug: "aled-davies"
 position: "SH"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (19)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/aled-davies"
 ---
 
 ## キャリア遍歴
-Wales
+Scarlets (2013 - 2018) -> Ospreys (2018 - 2019) -> Saracens (2019 - 2019) -> Ospreys (2020 - 2020) -> Saracens (2020 - 2024) -> Cardiff Rugby (2024 - 2026)

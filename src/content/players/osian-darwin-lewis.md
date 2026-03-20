@@ -1,7 +1,7 @@
 ---
-title: "Osian DARWIN-LEWIS | オシアン・ダーウィン＝ルイス"
+title: "Osian DARWIN-LEWIS | Osian ・ DARWIN ・ LEWIS"
 name_en: "Osian DARWIN-LEWIS"
-name_ja: "オシアン・ダーウィン＝ルイス"
+name_ja: "Osian ・ DARWIN ・ LEWIS"
 slug: "osian-darwin-lewis"
 position: "CTB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/osian-darwin-lewis"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2024 - 2026)

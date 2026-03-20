@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/francesco-ruffolo"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "colorno (2021 - 2024) -> zebre parma (2024 - 2026)"
 ---
 
 ## キャリア遍歴

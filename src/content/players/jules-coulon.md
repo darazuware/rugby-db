@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jules-coulon"
 ---
 
 ## キャリア遍歴
-RC Metz (2011 - 2017) -> Rugby Club Toulonnais (2017 - )
+RC Metz (2011 - 2017) -> Rugby Club Toulonnais (2017 - 2026)

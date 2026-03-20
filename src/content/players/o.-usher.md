@@ -1,7 +1,7 @@
 ---
-title: "O. Usher | nan"
+title: "O. Usher | "
 name_en: "O. Usher"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-usher"
 position: "Lock"
 height: "nan"

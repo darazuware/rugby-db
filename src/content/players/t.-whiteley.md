@@ -1,7 +1,7 @@
 ---
-title: "T. Whiteley | nan"
+title: "T. Whiteley | "
 name_en: "T. Whiteley"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-whiteley"
 position: "Scrum-half"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "D. Bleuler | nan"
+title: "D. Bleuler | "
 name_en: "D. Bleuler"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-bleuler"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "08/05/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

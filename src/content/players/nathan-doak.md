@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/nathan-doak"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "wallace high school (2019 - 2020) -> ulster rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

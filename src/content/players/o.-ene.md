@@ -1,7 +1,7 @@
 ---
-title: "O. Ene | nan"
+title: "O. Ene | "
 name_en: "O. Ene"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-ene"
 position: "Wing"
 height: "nan"

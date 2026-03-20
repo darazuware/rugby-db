@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/inaki-ayarza"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2018 - 2021) -> Soyaux-Angoulême XV Charente (2021 - 2024) -> Rugby Club Vannes (2024 - )
+Aviron Bayonnais (2018 - 2021) -> Soyaux-Angoulême XV Charente (2021 - 2024) -> Rugby Club Vannes (2024 - 2026)

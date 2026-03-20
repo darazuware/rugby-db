@@ -1,9 +1,9 @@
 ---
-title: "Alex SOROKA | アレックス・ソロカ"
+title: "Alex SOROKA | Alex ・ SOROKA"
 name_en: "Alex SOROKA"
-name_ja: "アレックス・ソロカ"
+name_ja: "Alex ・ SOROKA"
 slug: "alex-soroka"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "107.0"
 birth_date: "2001.02.19"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alex-soroka"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2020 - 2026)

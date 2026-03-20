@@ -7,16 +7,16 @@ position: "LO"
 height: "202.0"
 weight: "113.0"
 birth_date: "1996.11.07"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
 caps: ""
 high_school: "ケルビンサイドアカデミー"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484616"
 ---
 
 ## キャリア遍歴
-
+ニューカッスル (2017 - 2019) -> グラスゴー・ウォリアーズ (2018 - 2020) -> Edimbourg Rugby (2019 - 2021) -> グロスター (2021 - 2023) -> Ealing Trailfinders (2022 - 2024) -> マツダスカイアクティブズ広島 (2024 - )

@@ -10,12 +10,12 @@ birth_date: "2002.06.20"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "edimbourg rugby (2020 - 2021) -> wasps (2021 - 2021) -> edimbourg rugby (2022 - 2022) -> wasps (2022 - 2022) -> london irish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london irish (2023 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

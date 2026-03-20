@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/beka-gorgadze"
 ---
 
 ## キャリア遍歴
-Stade Montois Rugby Pro (2015 - 2018) -> Union Bordeaux-Bègles (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )
+Stade Montois Rugby Pro (2015 - 2018) -> Union Bordeaux-Bègles (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)

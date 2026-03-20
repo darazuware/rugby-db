@@ -1,22 +1,22 @@
 ---
-title: "Cleopas Kundiona | nan"
-name_en: "Cleopas Kundiona"
-name_ja: "nan"
+title: "Cleopas KUNDIONA | "
+name_en: "Cleopas KUNDIONA"
+name_ja: ""
 slug: "cleopas-kundiona"
 position: "Prop"
-height: "nan"
-weight: "nan"
-birth_date: "1998-12-15"
-age: 27.0
+height: "15/12/1998"
+weight: "1"
+birth_date: "nan"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cleopas-kundiona"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Angus FRASER | アンガス・フレイザー"
+title: "Angus FRASER | Angus ・ FRASER"
 name_en: "Angus FRASER"
-name_ja: "アンガス・フレイザー"
+name_ja: "Angus ・ FRASER"
 slug: "angus-fraser"
 position: "HO"
 height: "181.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/angus-fraser"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2021 - 2026)

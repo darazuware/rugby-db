@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-marceline"
 ---
 
 ## キャリア遍歴
-Rhodia Club Rugby (2011 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - )
+Rhodia Club Rugby (2011 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2026)

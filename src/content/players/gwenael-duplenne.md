@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gwenael-duplenne"
 ---
 
 ## キャリア遍歴
-RC Lavallois (2004 - 2006) -> Rugby Club Vannes (2006 - 2026) -> Lyon Olympique Universitaire Rugby (2012 - )
+RC Lavallois (2004 - 2006) -> Rugby Club Vannes (2006 - 2012) -> Lyon Olympique Universitaire Rugby (2012 - 2013) -> Rugby Club Vannes (2013 - 2026)

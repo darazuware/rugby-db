@@ -1,7 +1,7 @@
 ---
-title: "Iestyn HOPKINS | イスティン-ホプキンス"
+title: "Iestyn HOPKINS | Iestyn ・ HOPKINS"
 name_en: "Iestyn HOPKINS"
-name_ja: "イスティン-ホプキンス"
+name_ja: "Iestyn ・ HOPKINS"
 slug: "iestyn-hopkins"
 position: "FB"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/iestyn-hopkins"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

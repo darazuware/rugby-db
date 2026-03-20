@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/sam-gilbert"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "canterbury (2018 - 2019) -> highlanders (2019 - 2020) -> otago (2020 - 2020) -> highlanders (2021 - 2021) -> otago (2021 - 2021) -> highlanders (2021 - 2021) -> otago (2021 - 2021) -> highlanders (2022 - 2022) -> otago (2022 - 2022) -> highlanders (2022 - 2022) -> otago (2022 - 2022) -> highlanders (2023 - 2023) -> otago (2023 - 2023) -> highlanders (2023 - 2023) -> otago (2023 - 2023) -> highlanders (2024 - 2024) -> otago (2024 - 2024) -> highlanders (2024 - 2024) -> otago (2024 - 2024) -> highlanders (2025 - 2025) -> otago (2025 - 2025) -> connacht rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

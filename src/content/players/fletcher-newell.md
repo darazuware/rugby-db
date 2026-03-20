@@ -10,7 +10,7 @@ birth_date: "2000.03.01"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Crusaders"
 caps: "🇳🇿 New Zealand (8)"
 high_school: ""

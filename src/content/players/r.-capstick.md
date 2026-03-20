@@ -1,7 +1,7 @@
 ---
-title: "R. Capstick | nan"
+title: "R. Capstick | "
 name_en: "R. Capstick"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-capstick"
 position: "Flanker"
 height: "nan"

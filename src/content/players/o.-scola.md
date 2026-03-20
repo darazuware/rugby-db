@@ -1,13 +1,13 @@
 ---
-title: "O. Scola | nan"
+title: "O. Scola | "
 name_en: "O. Scola"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-scola"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

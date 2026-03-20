@@ -1,7 +1,7 @@
 ---
-title: "Bailey CUTTS | ベイリー・カッツ"
+title: "Bailey CUTTS | Bailey ・ CUTTS"
 name_en: "Bailey CUTTS"
-name_ja: "ベイリー・カッツ"
+name_ja: "Bailey ・ CUTTS"
 slug: "bailey-cutts"
 position: "CTB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/bailey-cutts"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2025 - 2026)

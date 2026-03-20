@@ -1,22 +1,22 @@
 ---
-title: "Finn Russell | nan"
-name_en: "Finn Russell"
-name_ja: "nan"
+title: "Finn RUSSELL | "
+name_en: "Finn RUSSELL"
+name_ja: ""
 slug: "finn-russell"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
-birth_date: "23/09/1992"
-age: 33.0
+height: "23/09/1992"
+weight: "1"
+birth_date: "nan"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Bath Rugby"
+league: "mlr"
+team: "The Bath Rugby rugby team for 2025/2026"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (82)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/finn-russell"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

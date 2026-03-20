@@ -1,13 +1,13 @@
 ---
-title: "A. McParland | nan"
+title: "A. McParland | "
 name_en: "A. McParland"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-mcparland"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2005-XX-XX"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

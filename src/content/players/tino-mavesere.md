@@ -10,12 +10,12 @@ birth_date: "1998.10.17"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/tinotenda-blithe-mavesere"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "university of western cap (2020 - 2021) -> sharks (2022 - 2026)"
 ---
 
 ## キャリア遍歴

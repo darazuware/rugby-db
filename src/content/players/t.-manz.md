@@ -1,13 +1,13 @@
 ---
-title: "T. Manz | nan"
+title: "T. Manz | "
 name_en: "T. Manz"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-manz"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "19/07/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

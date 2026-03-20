@@ -1,7 +1,7 @@
 ---
-title: "C. Chapman | nan"
+title: "C. Chapman | "
 name_en: "C. Chapman"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-chapman"
 position: "Scrum-half"
 height: "nan"

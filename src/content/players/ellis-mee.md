@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/ellis-mee"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "nottingham rugby (2023 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴

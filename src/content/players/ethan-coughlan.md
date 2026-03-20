@@ -1,7 +1,7 @@
 ---
-title: "Ethan COUGHLAN | イーサン・コフラン"
+title: "Ethan COUGHLAN | Ethan ・ COUGHLAN"
 name_en: "Ethan COUGHLAN"
-name_ja: "イーサン・コフラン"
+name_ja: "Ethan ・ COUGHLAN"
 slug: "ethan-coughlan"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ethan-coughlan"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2021 - 2026)

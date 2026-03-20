@@ -10,12 +10,12 @@ birth_date: "1999.04.10"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "Call-ups (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "glasgow warriors (2020 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

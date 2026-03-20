@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nathan-decron"
 ---
 
 ## キャリア遍歴
-Union Sportive Néracaise (2007 - 2013) -> Sporting Union Agenais (2013 - 2021) -> Union Bordeaux-Bègles (2017 - 2019) -> Section Paloise Béarn Pyrénées (2021 - )
+Union Sportive Néracaise (2007 - 2013) -> Sporting Union Agenais (2013 - 2017) -> Union Bordeaux-Bègles (2017 - 2019) -> Sporting Union Agenais (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)

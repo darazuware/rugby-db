@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/enzo-herve"
 ---
 
 ## キャリア遍歴
-RC Buguois (2004 - 2013) -> CA Brive Corrèze Limousin (2013 - 2023) -> Rugby Club Toulonnais (2023 - 2026) -> Castres Olympique (2025 - )
+RC Buguois (2004 - 2013) -> CA Brive Corrèze Limousin (2013 - 2023) -> Rugby Club Toulonnais (2023 - 2025) -> Castres Olympique (2025 - 2025) -> Rugby Club Toulonnais (2026 - 2026) -> Castres Olympique (2026 - 2026)

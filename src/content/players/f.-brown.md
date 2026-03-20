@@ -1,13 +1,13 @@
 ---
-title: "F. Brown | nan"
+title: "F. Brown | "
 name_en: "F. Brown"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-brown"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2002-10-11"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

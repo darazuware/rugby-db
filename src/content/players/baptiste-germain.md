@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-germain"
 ---
 
 ## キャリア遍歴
-RC Cubzaguais (2007 - 2009) -> Club Athlétique Bordeaux Bègles Gironde (2009 - 2015) -> Union Bordeaux-Bègles (2015 - 2020) -> Stade Toulousain (2020 - 2024) -> Biarritz Olympique Pays Basque (2022 - 2023) -> Aviron Bayonnais (2024 - )
+RC Cubzaguais (2007 - 2009) -> Club Athlétique Bordeaux Bègles Gironde (2009 - 2015) -> Union Bordeaux-Bègles (2015 - 2020) -> Stade Toulousain (2020 - 2022) -> Biarritz Olympique Pays Basque (2022 - 2023) -> Stade Toulousain (2023 - 2024) -> Aviron Bayonnais (2024 - 2026)

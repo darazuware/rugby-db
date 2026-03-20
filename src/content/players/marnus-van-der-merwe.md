@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/marnus-van-der-merwe"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "central cheetahs (2018 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2023 - 2023) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴

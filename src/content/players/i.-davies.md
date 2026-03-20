@@ -1,13 +1,13 @@
 ---
-title: "I. Davies | nan"
+title: "I. Davies | "
 name_en: "I. Davies"
-name_ja: "nan"
+name_ja: ""
 slug: "i.-davies"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2004.."
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

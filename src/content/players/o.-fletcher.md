@@ -1,13 +1,13 @@
 ---
-title: "O. Fletcher | nan"
+title: "O. Fletcher | "
 name_en: "O. Fletcher"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-fletcher"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "09/09/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,13 +1,13 @@
 ---
-title: "J. Woolmore | nan"
+title: "J. Woolmore | "
 name_en: "J. Woolmore"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-woolmore"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "12/07/1990"
-age: 35.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

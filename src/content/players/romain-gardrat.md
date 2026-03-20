@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romain-gardrat"
 ---
 
 ## キャリア遍歴
-Avenir Valencien (2011 - 2018) -> Sporting Union Agenais (2018 - 2021) -> Union Bordeaux-Bègles (2021 - )
+Avenir Valencien (2011 - 2018) -> Sporting Union Agenais (2018 - 2021) -> Union Bordeaux-Bègles (2021 - 2026)

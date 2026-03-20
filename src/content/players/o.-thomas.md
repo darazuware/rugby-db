@@ -1,7 +1,7 @@
 ---
-title: "O. Thomas | nan"
+title: "O. Thomas | "
 name_en: "O. Thomas"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-thomas"
 position: "Flanker"
 height: "nan"

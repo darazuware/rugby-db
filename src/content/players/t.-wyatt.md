@@ -1,7 +1,7 @@
 ---
-title: "T. Wyatt | nan"
+title: "T. Wyatt | "
 name_en: "T. Wyatt"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-wyatt"
 position: "Wing"
 height: "nan"

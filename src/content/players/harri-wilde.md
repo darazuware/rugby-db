@@ -1,7 +1,7 @@
 ---
-title: "Harri WILDE | ハリー・ワイルド"
+title: "Harri WILDE | Harri ・ WILDE"
 name_en: "Harri WILDE"
-name_ja: "ハリー・ワイルド"
+name_ja: "Harri ・ WILDE"
 slug: "harri-wilde"
 position: "SO"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harri-wilde"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2022 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "S. Graham | nan"
+title: "S. Graham | "
 name_en: "S. Graham"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-graham"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1997-07-06"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

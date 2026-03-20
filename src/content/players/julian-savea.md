@@ -10,7 +10,7 @@ birth_date: "1990.08.07"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand (35)"
 high_school: ""

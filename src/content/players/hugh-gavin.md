@@ -1,7 +1,7 @@
 ---
-title: "Hugh GAVIN | ヒュー・ギャヴィン"
+title: "Hugh GAVIN | Hugh ・ GAVIN"
 name_en: "Hugh GAVIN"
-name_ja: "ヒュー・ギャヴィン"
+name_ja: "Hugh ・ GAVIN"
 slug: "hugh-gavin"
 position: "CTB"
 height: "192.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/hugh-gavin"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2022 - 2026)

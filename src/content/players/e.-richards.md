@@ -1,13 +1,13 @@
 ---
-title: "E. Richards | nan"
+title: "E. Richards | "
 name_en: "E. Richards"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-richards"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "04/05/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

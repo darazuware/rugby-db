@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alexandre-tchaptchet"
 ---
 
 ## キャリア遍歴
-Club Omnisports Gargenville (2007 - 2015) -> Rugby Club Massy Essonne (2015 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - )
+Club Omnisports Gargenville (2007 - 2015) -> Rugby Club Massy Essonne (2015 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2026)

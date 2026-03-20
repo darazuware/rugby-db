@@ -7,16 +7,16 @@ position: "SH"
 height: "174.0"
 weight: "92.0"
 birth_date: "1997.10.30"
-age: 28.0
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
-caps: "🇦🇷 Argentina代表 (3 caps)"
+caps: ""
 high_school: "セイントエドマンズカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484628"
 ---
 
 ## キャリア遍歴
-
+ウェスタン・フォース (2019 - 2020) -> Gordon Rugby Football Club (2020 - 2022) -> マツダスカイアクティブズ広島 (2022 - )

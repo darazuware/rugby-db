@@ -1,13 +1,13 @@
 ---
-title: "S. Harris | nan"
+title: "S. Harris | "
 name_en: "S. Harris"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-harris"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "03/09/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -10,7 +10,7 @@ birth_date: "1999.10.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Fijian Drua"
 caps: ""
 high_school: ""

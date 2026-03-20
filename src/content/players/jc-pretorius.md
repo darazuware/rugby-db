@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/jc-pretorius"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "af. sud 7's (2018 - 2022) -> lions rugby (2022 - 2022) -> af. sud 7's (2023 - 2023) -> lions rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

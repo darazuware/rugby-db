@@ -1,13 +1,13 @@
 ---
-title: "G. Barton | nan"
+title: "G. Barton | "
 name_en: "G. Barton"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-barton"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "2000-11-07"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

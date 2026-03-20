@@ -1,7 +1,7 @@
 ---
-title: "R. Hammick | nan"
+title: "R. Hammick | "
 name_en: "R. Hammick"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-hammick"
 position: "Flanker"
 height: "nan"

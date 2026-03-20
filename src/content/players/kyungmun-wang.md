@@ -7,15 +7,15 @@ position: "HO"
 height: "175.0"
 weight: "100.0"
 birth_date: "1991.09.12"
-age: 34.0
+age: 34
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "九州電力キューデンヴォルテクス（2025-26）"
 caps: ""
 high_school: "朝明高校"
 university: "大阪体育大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483723"
 ---
 
 ## キャリア遍歴

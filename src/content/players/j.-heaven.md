@@ -1,13 +1,13 @@
 ---
-title: "J. Heaven | nan"
+title: "J. Heaven | "
 name_en: "J. Heaven"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-heaven"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "10/01/2000"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

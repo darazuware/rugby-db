@@ -1,7 +1,7 @@
 ---
-title: "Dafydd HUGHES | ダフィズ・ヒューズ"
+title: "Dafydd HUGHES | Dafydd ・ HUGHES"
 name_en: "Dafydd HUGHES"
-name_ja: "ダフィズ・ヒューズ"
+name_ja: "Dafydd ・ HUGHES"
 slug: "dafydd-hughes"
 position: "HO"
 height: "179.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dafydd-hughes"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2016 - 2023) -> Jersey Reds (2023 - 2023) -> Cardiff Rugby (2023 - 2023) -> Jersey Reds (2024 - 2024) -> Cardiff Rugby (2024 - 2026)

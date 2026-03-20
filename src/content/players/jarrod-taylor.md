@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/jarrod-taylor"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2021 - 2023) -> stormers (2023 - 2023) -> scarlets (2023 - 2023) -> stormers (2024 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴

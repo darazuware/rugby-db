@@ -1,13 +1,13 @@
 ---
-title: "B. Murphy | nan"
+title: "B. Murphy | "
 name_en: "B. Murphy"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-murphy"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "07/02/2002"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

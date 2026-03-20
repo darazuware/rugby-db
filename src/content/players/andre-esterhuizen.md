@@ -10,7 +10,7 @@ birth_date: "1994.03.30"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: "🇿🇦 South Africa (14)"
 high_school: ""

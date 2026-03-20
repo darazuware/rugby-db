@@ -1,7 +1,7 @@
 ---
-title: "B. Janse van Rensburg | nan"
+title: "B. Janse van Rensburg | "
 name_en: "B. Janse van Rensburg"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-janse-van-rensburg"
 position: "Centre"
 height: "nan"

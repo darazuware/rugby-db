@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/ben-murphy-2001"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2020 - 2020) -> munster rugby (2020 - 2020) -> leinster rugby (2021 - 2021) -> munster rugby (2021 - 2021) -> leinster rugby (2021 - 2024) -> connacht rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

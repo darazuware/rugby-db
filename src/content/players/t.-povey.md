@@ -1,7 +1,7 @@
 ---
-title: "T. Povey | nan"
+title: "T. Povey | "
 name_en: "T. Povey"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-povey"
 position: "Wing"
 height: "nan"

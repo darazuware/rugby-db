@@ -1,7 +1,7 @@
 ---
-title: "T. Christie | nan"
+title: "T. Christie | "
 name_en: "T. Christie"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-christie"
 position: "Flanker"
 height: "nan"

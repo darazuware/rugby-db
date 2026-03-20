@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mikehil-alania"
 ---
 
 ## キャリア遍歴
-RC Jiki Gori (2017 - 2018) -> RC Armazi (2018 - 2019) -> Stade Aurillacois Cantal Auvergne (2019 - 2025) -> Rugby Club Vannes (2025 - )
+RC Jiki Gori (2017 - 2018) -> RC Armazi (2018 - 2019) -> Stade Aurillacois Cantal Auvergne (2019 - 2025) -> Rugby Club Vannes (2025 - 2026)

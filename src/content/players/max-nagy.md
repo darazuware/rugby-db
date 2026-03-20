@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/max-nagy"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "swansea rfc (2019 - 2020) -> ospreys (2020 - 2020) -> swansea rfc (2020 - 2020) -> ospreys (2021 - 2021) -> swansea rfc (2021 - 2021) -> ospreys (2021 - 2026)"
 ---
 
 ## キャリア遍歴

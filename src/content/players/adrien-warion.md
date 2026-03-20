@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adrien-warion"
 ---
 
 ## キャリア遍歴
-RC Bourguésan (2006 - 2007) -> RC Tricastin (2007 - 2012) -> Provence Rugby (2012 - 2021) -> Rugby Club Toulonnais (2020 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )
+RC Bourguésan (2006 - 2007) -> RC Tricastin (2007 - 2012) -> Provence Rugby (2012 - 2020) -> Rugby Club Toulonnais (2020 - 2020) -> Provence Rugby (2021 - 2021) -> Rugby Club Toulonnais (2021 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)

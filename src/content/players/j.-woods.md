@@ -1,7 +1,7 @@
 ---
-title: "J. Woods | nan"
+title: "J. Woods | "
 name_en: "J. Woods"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-woods"
 position: "Fullback"
 height: "nan"

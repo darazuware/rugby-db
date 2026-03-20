@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/sibhale-maxwane"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2016 - 2017) -> central cheetahs (2017 - 2020) -> lions rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

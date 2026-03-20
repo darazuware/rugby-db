@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/max-williamson"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "glasgow warriors (2020 - 2022) -> doncaster knights (2022 - 2022) -> glasgow warriors (2023 - 2023) -> doncaster knights (2023 - 2023) -> glasgow warriors (2023 - 2026)"
 ---
 
 ## キャリア遍歴

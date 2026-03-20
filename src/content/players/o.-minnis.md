@@ -1,13 +1,13 @@
 ---
-title: "O. Minnis | nan"
+title: "O. Minnis | "
 name_en: "O. Minnis"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-minnis"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "18/03/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

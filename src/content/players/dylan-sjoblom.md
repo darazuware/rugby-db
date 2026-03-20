@@ -1,7 +1,7 @@
 ---
-title: "Dylan SJOBLOM | ディラン・ショブロム"
+title: "Dylan SJOBLOM | Dylan ・ SJOBLOM"
 name_en: "Dylan SJOBLOM"
-name_ja: "ディラン・ショブロム"
+name_ja: "Dylan ・ SJOBLOM"
 slug: "dylan-sjoblom"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Lions"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dylan-sjoblom"
 ---
 
 ## キャリア遍歴
-
+Griquas (2022 - 2023) -> Stormers (2023 - 2023) -> Griquas (2023 - 2023) -> Stormers (2024 - 2024) -> Griquas (2024 - 2025) -> Lions Rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "J. Lewis | nan"
+title: "J. Lewis | "
 name_en: "J. Lewis"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-lewis"
 position: "Flanker"
 height: "nan"

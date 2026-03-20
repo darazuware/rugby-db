@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "🇦🇷 Argentina"
+caps: "Argentina"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/francisco-gorrissen"
 ---
 
 ## キャリア遍歴
-Jaguares (2018 - 2020) -> Jaguares XV (2020 - 2021) -> Belgrano Athletic Club (2020 - 2021) -> Rugby Club Vannes (2021 - )
+Jaguares (2018 - 2020) -> Jaguares XV (2020 - 2020) -> Belgrano Athletic Club (2020 - 2020) -> Jaguares XV (2021 - 2021) -> Belgrano Athletic Club (2021 - 2021) -> Rugby Club Vannes (2021 - 2026)

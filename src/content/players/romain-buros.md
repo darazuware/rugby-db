@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/romain-buros"
 ---
 
 ## キャリア遍歴
-Avenir Aturin (2004 - 2013) -> Section Paloise Béarn Pyrénées (2013 - 2018) -> Union Bordeaux-Bègles (2018 - )
+Avenir Aturin (2004 - 2013) -> Section Paloise Béarn Pyrénées (2013 - 2018) -> Union Bordeaux-Bègles (2018 - 2026)

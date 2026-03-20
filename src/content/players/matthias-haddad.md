@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthias-haddad"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2007 - 2026) -> Rugby Club du Pays Muzillacais (2009 - 2013) -> Rugby Club Vannes (2013 - )
+Stade Rochelais (2007 - 2009) -> Rugby Club du Pays Muzillacais (2009 - 2013) -> Rugby Club Vannes (2013 - 2016) -> Stade Rochelais (2016 - 2026)

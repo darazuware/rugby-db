@@ -1,13 +1,13 @@
 ---
-title: "R. Molony | nan"
+title: "R. Molony | "
 name_en: "R. Molony"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-molony"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "05/11/1994"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

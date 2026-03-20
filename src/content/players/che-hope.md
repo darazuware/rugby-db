@@ -1,7 +1,7 @@
 ---
-title: "Che HOPE | チェ・ホープ"
+title: "Che HOPE | Che ・ HOPE"
 name_en: "Che HOPE"
-name_ja: "チェ・ホープ"
+name_ja: "Che ・ HOPE"
 slug: "che-hope"
 position: "SH"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/che-hope"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2020 - 2026)

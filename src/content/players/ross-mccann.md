@@ -10,12 +10,12 @@ birth_date: "1997.10.30"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/ross-mccann-"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "grande-bretagne 7's (2022 - 2023) -> edimbourg rugby (2023 - 2023) -> grande-bretagne 7's (2023 - 2023) -> edimbourg rugby (2024 - 2024) -> grande-bretagne 7's (2024 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

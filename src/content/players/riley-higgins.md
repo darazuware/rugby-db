@@ -10,7 +10,7 @@ birth_date: "2002.10.09"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Hurricanes"
 caps: ""
 high_school: ""

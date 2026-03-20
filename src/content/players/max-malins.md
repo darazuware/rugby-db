@@ -1,18 +1,18 @@
 ---
-title: "Max Malins | nan"
+title: "Max Malins | "
 name_en: "Max Malins"
-name_ja: "nan"
+name_ja: ""
 slug: "max-malins"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1997.01.07"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Saracens"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (21 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (21)"
 high_school: ""
 university: ""
 scraped_url: "nan"

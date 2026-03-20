@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/james-benjamin"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2014 - 2021) -> cornish pirates (2021 - 2021) -> dragons rfc (2021 - 2021) -> cornish pirates (2022 - 2022) -> dragons rfc (2022 - 2022) -> hartpury rfc (2022 - 2022) -> dragons rfc (2023 - 2023) -> hartpury rfc (2023 - 2023) -> dragons rfc (2023 - 2026)"
 ---
 
 ## キャリア遍歴

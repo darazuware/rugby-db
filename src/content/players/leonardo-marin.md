@@ -10,12 +10,12 @@ birth_date: "2002.02.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (13)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - 2026)"
 ---
 
 ## キャリア遍歴

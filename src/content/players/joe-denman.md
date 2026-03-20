@@ -1,9 +1,9 @@
 ---
-title: "Joe DENMAN | ジョー・デンマン"
+title: "Joe DENMAN | Joe ・ DENMAN"
 name_en: "Joe DENMAN"
-name_ja: "ジョー・デンマン"
+name_ja: "Joe ・ DENMAN"
 slug: "joe-denman"
-position: "FL/No8"
+position: "Back row"
 height: "183.0"
 weight: "87.0"
 birth_date: "2006.."
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/joe-denman"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

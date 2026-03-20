@@ -1,7 +1,7 @@
 ---
-title: "Edwin EDOGBO | エドウィン・エドグボ"
+title: "Edwin EDOGBO | Edwin ・ EDOGBO"
 name_en: "Edwin EDOGBO"
-name_ja: "エドウィン・エドグボ"
+name_ja: "Edwin ・ EDOGBO"
 slug: "edwin-edogbo"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "Ireland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/edwin-edogbo"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2022 - 2026)

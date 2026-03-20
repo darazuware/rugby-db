@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "🇫🇯 Fiji"
+caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/setareki-turagacoke"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2023 - )
+Stade Français Paris Rugby (2023 - 2026)

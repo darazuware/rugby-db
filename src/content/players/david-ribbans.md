@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-ribbans"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2016 - 2023) -> Rugby Club Toulonnais (2023 - )
+Northampton Saints (2016 - 2023) -> Rugby Club Toulonnais (2023 - 2026)

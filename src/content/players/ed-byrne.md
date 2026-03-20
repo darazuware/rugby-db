@@ -1,7 +1,7 @@
 ---
-title: "Ed BYRNE | エド・バーン"
+title: "Ed BYRNE | Ed ・ BYRNE"
 name_en: "Ed BYRNE"
-name_ja: "エド・バーン"
+name_ja: "Ed ・ BYRNE"
 slug: "ed-byrne"
 position: "PR"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "Ireland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ed-byrne"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2013 - 2024) -> Cardiff Rugby (2024 - 2026)

@@ -1,9 +1,9 @@
 ---
-title: "Iacopo BIANCHI | イアコポ・ビアンキ"
+title: "Iacopo BIANCHI | Iacopo ・ BIANCHI"
 name_en: "Iacopo BIANCHI"
-name_ja: "イアコポ・ビアンキ"
+name_ja: "Iacopo ・ BIANCHI"
 slug: "iacopo-bianchi"
-position: "FL/No8"
+position: "Back row"
 height: "188.0"
 weight: "108.0"
 birth_date: "1998.05.05"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/iacopo-bianchi"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2018 - 2026)

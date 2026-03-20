@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/michael-ruru"
 ---
 
 ## キャリア遍歴
-Western Force (2016 - 2017) -> Melbourne Rebels (2017 - 2019) -> Aviron Bayonnais (2019 - 2023) -> Rugby Club Vannes (2022 - )
+Western Force (2016 - 2017) -> Melbourne Rebels (2017 - 2019) -> Aviron Bayonnais (2019 - 2022) -> Rugby Club Vannes (2022 - 2022) -> Aviron Bayonnais (2023 - 2023) -> Rugby Club Vannes (2023 - 2026)

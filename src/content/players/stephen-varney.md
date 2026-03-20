@@ -1,18 +1,18 @@
 ---
-title: "Stephen Varney | nan"
+title: "Stephen Varney | "
 name_en: "Stephen Varney"
-name_ja: "nan"
+name_ja: ""
 slug: "stephen-varney"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.05.16"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Exeter Chiefs"
-caps: "🇮🇹 Italy代表 (30 caps)"
+caps: "🇮🇹 Italy (30)"
 high_school: ""
 university: ""
 scraped_url: "nan"

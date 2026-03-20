@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ugo-boniface"
 ---
 
 ## キャリア遍歴
-US Casteljaloux (2004 - 2012) -> Union Sportive Néracaise (2012 - 2013) -> Sporting Union Agenais (2013 - 2016) -> Aviron Bayonnais (2016 - 2022) -> Union Bordeaux-Bègles (2022 - )
+US Casteljaloux (2004 - 2012) -> Union Sportive Néracaise (2012 - 2013) -> Sporting Union Agenais (2013 - 2016) -> Aviron Bayonnais (2016 - 2022) -> Union Bordeaux-Bègles (2022 - 2026)

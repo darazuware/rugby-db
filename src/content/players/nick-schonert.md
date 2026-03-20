@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nick-schonert"
 ---
 
 ## キャリア遍歴
-Worcester Warriors (2015 - 2021) -> Sale Sharks (2021 - 2025) -> Mitsubishi Sagamihara Dynaboars (2024 - 2025) -> Rugby Club Vannes (2025 - )
+Worcester Warriors (2015 - 2021) -> Sale Sharks (2021 - 2024) -> Mitsubishi Sagamihara Dynaboars (2024 - 2024) -> Sale Sharks (2025 - 2025) -> Mitsubishi Sagamihara Dynaboars (2025 - 2025) -> Rugby Club Vannes (2025 - 2026)

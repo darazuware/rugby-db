@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/angus-o-brien"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2014 - 2018) -> scarlets (2018 - 2022) -> dragons rfc (2022 - 2026)"
 ---
 
 ## キャリア遍歴

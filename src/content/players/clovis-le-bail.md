@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇫🇷 France代表 (52 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/clovis-le-bail"
 ---
 
 ## キャリア遍歴
-Stade Nantais (2004 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2023) -> Racing 92 (2023 - 2025) -> Rugby Club Toulonnais (2025 - )
+Stade Nantais (2004 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2023) -> Racing 92 (2023 - 2025) -> Rugby Club Toulonnais (2025 - 2026)

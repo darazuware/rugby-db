@@ -1,9 +1,9 @@
 ---
-title: "Will CONNORS | ウィル・コナーズ"
+title: "Will CONNORS | Will ・ CONNORS"
 name_en: "Will CONNORS"
-name_ja: "ウィル・コナーズ"
+name_ja: "Will ・ CONNORS"
 slug: "will-connors"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "105.0"
 birth_date: "1996.04.04"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "Ireland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/will-connors"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2017 - 2026)

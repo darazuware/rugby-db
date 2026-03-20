@@ -10,7 +10,7 @@ birth_date: "1995.07.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: "🇿🇦 South Africa (21)"
 high_school: ""

@@ -1,7 +1,7 @@
 ---
-title: "O. Sodeke | nan"
+title: "O. Sodeke | "
 name_en: "O. Sodeke"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-sodeke"
 position: "Lock"
 height: "nan"

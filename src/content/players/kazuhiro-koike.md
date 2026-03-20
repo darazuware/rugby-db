@@ -7,7 +7,7 @@ position: "HO"
 height: "172.0"
 weight: "98.0"
 birth_date: "1992.06.10"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "三重ホンダヒート（2025-26）"
 caps: ""
 high_school: "明和県央高校"
 university: "法政大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484686"
 ---
 
 ## キャリア遍歴

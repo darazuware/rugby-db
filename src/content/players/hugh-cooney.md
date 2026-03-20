@@ -1,7 +1,7 @@
 ---
-title: "Hugh COONEY | ヒュー・クーニー"
+title: "Hugh COONEY | Hugh ・ COONEY"
 name_en: "Hugh COONEY"
-name_ja: "ヒュー・クーニー"
+name_ja: "Hugh ・ COONEY"
 slug: "hugh-cooney"
 position: "CTB"
 height: "182.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/hugh-cooney"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

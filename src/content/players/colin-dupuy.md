@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/colin-dupuy"
 ---
 
 ## キャリア遍歴
-RC Bon-Encontre Boé (2013 - 2014) -> Union Athlétique Gaillacoise (2014 - 2022) -> Castres Olympique (2022 - )
+RC Bon-Encontre Boé (2013 - 2014) -> Union Athlétique Gaillacoise (2014 - 2022) -> Castres Olympique (2022 - 2026)

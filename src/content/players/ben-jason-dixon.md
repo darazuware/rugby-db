@@ -1,7 +1,7 @@
 ---
-title: "Ben-Jason DIXON | ベン＝ジェイソン・ディクソン"
+title: "Ben-Jason DIXON | ベン ・ Jason ・ DIXON"
 name_en: "Ben-Jason DIXON"
-name_ja: "ベン＝ジェイソン・ディクソン"
+name_ja: "ベン ・ Jason ・ DIXON"
 slug: "ben-jason-dixon"
 position: "LO"
 height: "195.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-jason-dixon"
 ---
 
 ## キャリア遍歴
-
+Western Province (2018 - 2019) -> Stormers (2019 - 2026)

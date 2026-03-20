@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/lucas-de-la-rua"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "M. Rewcastle | nan"
+title: "M. Rewcastle | "
 name_en: "M. Rewcastle"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-rewcastle"
 position: "Prop"
 height: "nan"

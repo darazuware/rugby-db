@@ -10,12 +10,12 @@ birth_date: "1995.04.04"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/james-lang"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "harlequins (2016 - 2021) -> edimbourg rugby (2021 - 2026)"
 ---
 
 ## キャリア遍歴

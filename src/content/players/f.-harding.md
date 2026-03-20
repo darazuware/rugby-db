@@ -1,13 +1,13 @@
 ---
-title: "F. Harding | nan"
+title: "F. Harding | "
 name_en: "F. Harding"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-harding"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "26/04/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

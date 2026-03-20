@@ -1,13 +1,13 @@
 ---
-title: "S. Grahamslaw | nan"
+title: "S. Grahamslaw | "
 name_en: "S. Grahamslaw"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-grahamslaw"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1997-07-06"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

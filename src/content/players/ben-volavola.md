@@ -10,7 +10,7 @@ birth_date: "1991.01.13"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Reds"
 caps: "🇫🇯 Fiji (31)"
 high_school: ""

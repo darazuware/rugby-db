@@ -1,7 +1,7 @@
 ---
-title: "J. Hodge | nan"
+title: "J. Hodge | "
 name_en: "J. Hodge"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-hodge"
 position: "Fullback"
 height: "nan"

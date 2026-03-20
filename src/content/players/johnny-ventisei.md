@@ -1,7 +1,7 @@
 ---
-title: "Johnny VENTISEI | ジョニー・ヴェンティセイ"
+title: "Johnny VENTISEI | Johnny ・ VENTISEI"
 name_en: "Johnny VENTISEI"
-name_ja: "ジョニー・ヴェンティセイ"
+name_ja: "Johnny ・ VENTISEI"
 slug: "johnny-ventisei"
 position: "CTB"
 height: "181.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/johnny-ventisei"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

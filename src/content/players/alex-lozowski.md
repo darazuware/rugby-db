@@ -1,18 +1,18 @@
 ---
-title: "Alex Lozowski | nan"
+title: "Alex Lozowski | "
 name_en: "Alex Lozowski"
-name_ja: "nan"
+name_ja: ""
 slug: "alex-lozowski"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1993.06.30"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Saracens"
-caps: "Call-ups代表 (5 caps)"
+caps: "Call-ups (5)"
 high_school: ""
 university: ""
 scraped_url: "nan"

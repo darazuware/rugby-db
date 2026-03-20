@@ -1,13 +1,13 @@
 ---
-title: "Andy Onyeama-Christie | nan"
+title: "Andy Onyeama-Christie | "
 name_en: "Andy Onyeama-Christie"
-name_ja: "nan"
+name_ja: ""
 slug: "andy-onyeama-christie"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "22/03/1999"
-age: 26.0
+birth_date: "1999.03.22"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"

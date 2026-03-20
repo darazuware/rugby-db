@@ -10,7 +10,7 @@ birth_date: "1993.01.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Highlanders"
 caps: "🇦🇷 Argentina (82)"
 high_school: ""

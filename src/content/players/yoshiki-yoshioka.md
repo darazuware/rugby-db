@@ -7,7 +7,7 @@ position: "SH"
 height: "167.0"
 weight: "73.0"
 birth_date: "2001.03.17"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "三菱重工相模原ダイナボアーズ（2025-26）"
 caps: ""
 high_school: "興国高校"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484720"
 ---
 
 ## キャリア遍歴
-
+静岡ブルーレヴズ (2023 - 2025) -> NECグリーンロケッツ東葛 (2024 - 2025) -> 三菱重工相模原ダイナボアーズ (2025 - )

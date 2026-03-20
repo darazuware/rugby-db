@@ -1,18 +1,18 @@
 ---
-title: "Solomone Kata | nan"
+title: "Solomone Kata | "
 name_en: "Solomone Kata"
-name_ja: "nan"
+name_ja: ""
 slug: "solomone-kata"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1997.10.25"
-age: 28.0
+birth_date: "1994.12.03"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Leicester Tigers"
-caps: "🇹🇴 Tonga代表 (9 caps)"
+caps: "🇹🇴 Tonga (9)"
 high_school: ""
 university: ""
 scraped_url: "nan"

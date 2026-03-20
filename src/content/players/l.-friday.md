@@ -1,7 +1,7 @@
 ---
-title: "L. Friday | nan"
+title: "L. Friday | "
 name_en: "L. Friday"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-friday"
 position: "Scrum-half"
 height: "nan"

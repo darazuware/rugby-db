@@ -1,7 +1,7 @@
 ---
-title: "E. Caven | nan"
+title: "E. Caven | "
 name_en: "E. Caven"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-caven"
 position: "Centre"
 height: "nan"

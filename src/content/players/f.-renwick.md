@@ -1,13 +1,13 @@
 ---
-title: "F. Renwick | nan"
+title: "F. Renwick | "
 name_en: "F. Renwick"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-renwick"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "15/05/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "F. Stevens | nan"
+title: "F. Stevens | "
 name_en: "F. Stevens"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-stevens"
 position: "Flanker"
 height: "nan"

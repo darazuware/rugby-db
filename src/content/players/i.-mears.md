@@ -1,7 +1,7 @@
 ---
-title: "I. Mears | nan"
+title: "I. Mears | "
 name_en: "I. Mears"
-name_ja: "nan"
+name_ja: ""
 slug: "i.-mears"
 position: "Scrum-half"
 height: "nan"

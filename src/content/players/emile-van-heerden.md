@@ -10,12 +10,12 @@ birth_date: "2000.08.08"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/emile-van-heerden"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2019 - 2021) -> natal sharks (2021 - 2022) -> lions rugby (2022 - 2022) -> sharks (2022 - 2022) -> lions rugby (2023 - 2023) -> sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴

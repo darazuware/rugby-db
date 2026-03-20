@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/ryan-burke"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "glasgow warriors (2023 - 2026)"
 ---
 
 ## キャリア遍歴

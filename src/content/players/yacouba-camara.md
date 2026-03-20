@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yacouba-camara"
 ---
 
 ## キャリア遍歴
-AC Bobigny 93 (2006 - 2010) -> Rugby Club Massy Essonne (2010 - 2013) -> Stade Toulousain (2013 - 2017) -> Montpellier Hérault Rugby (2017 - )
+AC Bobigny 93 (2006 - 2010) -> Rugby Club Massy Essonne (2010 - 2013) -> Stade Toulousain (2013 - 2017) -> Montpellier Hérault Rugby (2017 - 2026)

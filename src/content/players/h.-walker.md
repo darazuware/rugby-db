@@ -1,13 +1,13 @@
 ---
-title: "H. Walker | nan"
+title: "H. Walker | "
 name_en: "H. Walker"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-walker"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "1998-10-03"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

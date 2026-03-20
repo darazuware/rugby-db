@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/ewan-rosser"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2019 - 2026)"
 ---
 
 ## キャリア遍歴

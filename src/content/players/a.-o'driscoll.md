@@ -1,7 +1,7 @@
 ---
-title: "A. O'Driscoll | nan"
+title: "A. O'Driscoll | "
 name_en: "A. O'Driscoll"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-o'driscoll"
 position: "Prop"
 height: "nan"

@@ -1,9 +1,9 @@
 ---
-title: "Jordan LARMOUR | ジョーダン・ラーマー"
+title: "Jordan LARMOUR | Jordan ・ LARMOUR"
 name_en: "Jordan LARMOUR"
-name_ja: "ジョーダン・ラーマー"
+name_ja: "Jordan ・ LARMOUR"
 slug: "jordan-larmour"
-position: "WTB"
+position: "Winger"
 height: "178.0"
 weight: "91.0"
 birth_date: "1997.06.10"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (32)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jordan-larmour"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2017 - 2026)

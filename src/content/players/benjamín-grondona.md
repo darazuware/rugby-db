@@ -1,13 +1,13 @@
 ---
-title: "Benjamín Grondona | nan"
+title: "Benjamín Grondona | "
 name_en: "Benjamín Grondona"
-name_ja: "nan"
+name_ja: ""
 slug: "benjamín-grondona"
 position: "No. 8"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2003.10.19"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: "premiership"

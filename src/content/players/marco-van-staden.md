@@ -15,7 +15,7 @@ team: "Bulls"
 caps: "🇿🇦 South Africa (14)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2017 - 2021) -> leicester tigers (2021 - 2022) -> bulls (2022 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/max-pearce"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bath rugby (2023 - 2025) -> cardiff rugby (2025 - 2025) -> bath rugby (2026 - 2026) -> cardiff rugby (2026 - 2026)"
 ---
 
 ## キャリア遍歴

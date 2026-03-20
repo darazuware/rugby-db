@@ -1,7 +1,7 @@
 ---
-title: "J. Davis | nan"
+title: "J. Davis | "
 name_en: "J. Davis"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-davis"
 position: "Scrum-half"
 height: "nan"

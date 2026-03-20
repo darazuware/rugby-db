@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andy-bordelai"
 ---
 
 ## キャリア遍歴
-Rugby Créteil Choisy (2012 - 2014) -> Rugby Club Massy Essonne (2014 - 2018) -> Racing 92 (2018 - 2021) -> Rugby Club Vannes (2021 - 2024) -> Aviron Bayonnais (2024 - )
+Rugby Créteil Choisy (2012 - 2014) -> Rugby Club Massy Essonne (2014 - 2018) -> Racing 92 (2018 - 2021) -> Rugby Club Vannes (2021 - 2024) -> Aviron Bayonnais (2024 - 2026)

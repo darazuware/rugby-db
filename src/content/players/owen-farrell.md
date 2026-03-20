@@ -1,18 +1,18 @@
 ---
-title: "Owen Farrell | nan"
+title: "Owen Farrell | "
 name_en: "Owen Farrell"
-name_ja: "nan"
+name_ja: ""
 slug: "owen-farrell"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1991.09.24"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Saracens"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (107 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (107)"
 high_school: ""
 university: ""
 scraped_url: "nan"

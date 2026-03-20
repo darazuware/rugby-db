@@ -1,7 +1,7 @@
 ---
-title: "D. Hanson | nan"
+title: "D. Hanson | "
 name_en: "D. Hanson"
-name_ja: "nan"
+name_ja: ""
 slug: "d.-hanson"
 position: "Scrum-half"
 height: "nan"

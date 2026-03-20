@@ -1,7 +1,7 @@
 ---
-title: "Brent JACKSON | ブレント・ジャクソン"
+title: "Brent JACKSON | Brent ・ JACKSON"
 name_en: "Brent JACKSON"
-name_ja: "ブレント・ジャクソン"
+name_ja: "Brent ・ JACKSON"
 slug: "brent-jackson"
 position: "SH"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/brent-jackson"
 ---
 
 ## キャリア遍歴
-
+King Edward VII School (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "Steven Luatua | nan"
+title: "Steven Luatua | "
 name_en: "Steven Luatua"
-name_ja: "nan"
+name_ja: ""
 slug: "steven-luatua"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "29/04/1991"
-age: 34.0
+birth_date: "1991.04.29"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

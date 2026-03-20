@@ -1,22 +1,22 @@
 ---
-title: "Darcy GRAHAM | ダーシー-グラハム"
+title: "Darcy GRAHAM | ダーシー ・ GRAHAM"
 name_en: "Darcy GRAHAM"
-name_ja: "ダーシー-グラハム"
+name_ja: "ダーシー ・ GRAHAM"
 slug: "darcy-graham"
-position: "WTB"
+position: "Winger"
 height: "177.0"
 weight: "85.0"
 birth_date: "1997.06.21"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (42)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/darcy-graham"
 ---
 
 ## キャリア遍歴
-Scotland
+Edimbourg Rugby (2017 - 2026)

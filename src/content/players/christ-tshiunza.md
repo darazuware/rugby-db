@@ -1,13 +1,13 @@
 ---
-title: "Christ Tshiunza | nan"
+title: "Christ Tshiunza | "
 name_en: "Christ Tshiunza"
-name_ja: "nan"
+name_ja: ""
 slug: "christ-tshiunza"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "01/09/2002"
-age: 23.0
+birth_date: "2002.01.09"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

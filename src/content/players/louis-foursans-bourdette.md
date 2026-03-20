@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-foursans-bourdette"
 ---
 
 ## キャリア遍歴
-Rugby Club Nîmois (2010 - 2019) -> Montpellier Hérault Rugby (2019 - 2024) -> Stade Français Paris Rugby (2024 - )
+Rugby Club Nîmois (2010 - 2019) -> Montpellier Hérault Rugby (2019 - 2024) -> Stade Français Paris Rugby (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "A. Fasogbon | nan"
+title: "A. Fasogbon | "
 name_en: "A. Fasogbon"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-fasogbon"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2004-08-24"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

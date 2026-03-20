@@ -1,18 +1,18 @@
 ---
-title: "Liam Williams | nan"
+title: "Liam Williams | "
 name_en: "Liam Williams"
-name_ja: "nan"
+name_ja: ""
 slug: "liam-williams"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "1993.11.28"
-age: 32.0
+birth_date: "1991.04.09"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Newcastle Falcons"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (92 caps)"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (92)"
 high_school: ""
 university: ""
 scraped_url: "nan"

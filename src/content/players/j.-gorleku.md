@@ -1,7 +1,7 @@
 ---
-title: "J. Gorleku | nan"
+title: "J. Gorleku | "
 name_en: "J. Gorleku"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-gorleku"
 position: "Hooker"
 height: "nan"

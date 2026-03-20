@@ -1,13 +1,13 @@
 ---
-title: "Kirill Gotovtsev | nan"
+title: "Kirill Gotovtsev | "
 name_en: "Kirill Gotovtsev"
-name_ja: "nan"
+name_ja: ""
 slug: "kirill-gotovtsev"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "17/07/1987"
-age: 38.0
+birth_date: "1987.07.17"
+age: 38
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/kyle-smith"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2023 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴

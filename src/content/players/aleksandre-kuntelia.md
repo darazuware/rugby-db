@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aleksandre-kuntelia"
 ---
 
 ## キャリア遍歴
-Lelo Saracens Tbilissi (2015 - 2021) -> Stade Rochelais (2021 - )
+Lelo Saracens Tbilissi (2015 - 2021) -> Stade Rochelais (2021 - 2026)

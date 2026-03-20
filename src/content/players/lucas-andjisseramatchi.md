@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
-caps: "🇿🇦 South Africa代表 (35 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lucas-andjisseramatchi"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2024) -> Stade Rochelais (2024 - )
+Rugby Club Massy Essonne (2014 - 2024) -> Stade Rochelais (2024 - 2026)

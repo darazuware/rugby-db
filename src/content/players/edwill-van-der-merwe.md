@@ -10,12 +10,12 @@ birth_date: "1996.04.12"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/edwill-van-der-merwe"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2018 - 2021) -> lions rugby (2021 - 2021) -> stormers (2022 - 2022) -> lions rugby (2022 - 2025) -> sharks (2025 - 2026)"
 ---
 
 ## キャリア遍歴

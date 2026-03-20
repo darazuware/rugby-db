@@ -1,7 +1,7 @@
 ---
-title: "Ieuan DAVIES | イオアン-デイヴィス"
+title: "Ieuan DAVIES | Ieuan ・ DAVIES"
 name_en: "Ieuan DAVIES"
-name_ja: "イオアン-デイヴィス"
+name_ja: "Ieuan ・ DAVIES"
 slug: "ieuan-davies"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ieuan-davies"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)

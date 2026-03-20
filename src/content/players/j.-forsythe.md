@@ -1,7 +1,7 @@
 ---
-title: "J. Forsythe | nan"
+title: "J. Forsythe | "
 name_en: "J. Forsythe"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-forsythe"
 position: "Flanker"
 height: "nan"

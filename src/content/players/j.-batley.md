@@ -1,13 +1,13 @@
 ---
-title: "J. Batley | nan"
+title: "J. Batley | "
 name_en: "J. Batley"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-batley"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "27/06/1996"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

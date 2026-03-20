@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/nicolaas-janse-van-rensburg"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2013 - 2016) -> montpellier hérault rugby (2016 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴

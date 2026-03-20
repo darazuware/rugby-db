@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/mackenzie-martin"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2021 - 2025) -> dragons rfc (2025 - 2026)"
 ---
 
 ## キャリア遍歴

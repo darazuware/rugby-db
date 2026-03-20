@@ -1,7 +1,7 @@
 ---
-title: "Mahon RONAN | マホン・ロナン"
+title: "Mahon RONAN | Mahon ・ ロナン"
 name_en: "Mahon RONAN"
-name_ja: "マホン・ロナン"
+name_ja: "Mahon ・ ロナン"
 slug: "mahon-ronan"
 position: "LO"
 height: "195.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/mahon-ronan"
 ---
 
 ## キャリア遍歴
-
+Old Wesley RFC (2024 - 2025) -> Leinster Rugby (2025 - 2026)

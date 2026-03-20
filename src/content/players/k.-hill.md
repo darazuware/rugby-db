@@ -1,13 +1,13 @@
 ---
-title: "K. Hill | nan"
+title: "K. Hill | "
 name_en: "K. Hill"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-hill"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "1992.02.05"
-age: 34.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

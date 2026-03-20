@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/marco-de-witt"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2023 - 2023) -> griquas (2023 - 2023) -> sharks (2024 - 2024) -> griquas (2024 - 2025) -> ospreys (2025 - 2026)"
 ---
 
 ## キャリア遍歴

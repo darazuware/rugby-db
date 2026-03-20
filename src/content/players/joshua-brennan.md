@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "🇮🇪 Ireland"
+caps: "Ireland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joshua-brennan"
 ---
 
 ## キャリア遍歴
-Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - )
+Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - 2026)

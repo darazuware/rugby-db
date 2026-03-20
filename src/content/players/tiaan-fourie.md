@@ -1,7 +1,7 @@
 ---
-title: "Tiaan FOURIE | ティアン・フーリー"
+title: "Tiaan FOURIE | Tiaan ・ FOURIE"
 name_en: "Tiaan FOURIE"
-name_ja: "ティアン・フーリー"
+name_ja: "Tiaan ・ FOURIE"
 slug: "tiaan-fourie"
 position: "SH"
 height: "173.0"
@@ -10,13 +10,13 @@ birth_date: "2002.04.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tiaan-fourie"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2020 - 2022) -> Natal Sharks (2022 - 2023) -> Sharks (2023 - 2026)

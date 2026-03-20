@@ -10,7 +10,7 @@ birth_date: "2004.01.30"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Waratahs"
 caps: ""
 high_school: ""

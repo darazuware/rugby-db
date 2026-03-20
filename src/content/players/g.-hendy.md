@@ -1,13 +1,13 @@
 ---
-title: "G. Hendy | nan"
+title: "G. Hendy | "
 name_en: "G. Hendy"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-hendy"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "2002-10-15"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

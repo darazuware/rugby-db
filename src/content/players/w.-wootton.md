@@ -1,7 +1,7 @@
 ---
-title: "W. Wootton | nan"
+title: "W. Wootton | "
 name_en: "W. Wootton"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-wootton"
 position: "Scrum-half"
 height: "nan"

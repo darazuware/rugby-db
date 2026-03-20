@@ -1,13 +1,13 @@
 ---
-title: "W. Jeanes | nan"
+title: "W. Jeanes | "
 name_en: "W. Jeanes"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-jeanes"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "02/12/2004"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

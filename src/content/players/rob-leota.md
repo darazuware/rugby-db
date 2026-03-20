@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "🇦🇺 Australia代表 (17 caps)"
+caps: "🇦🇺 Australia (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rob-leota"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Aviron Bayonnais (2025 - )
+Melbourne Rebels (2015 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Aviron Bayonnais (2025 - 2026)

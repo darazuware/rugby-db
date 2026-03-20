@@ -1,7 +1,7 @@
 ---
-title: "O. Lennon | nan"
+title: "O. Lennon | "
 name_en: "O. Lennon"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-lennon"
 position: "Scrum-half"
 height: "nan"

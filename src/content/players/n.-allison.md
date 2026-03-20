@@ -1,7 +1,7 @@
 ---
-title: "N. Allison | nan"
+title: "N. Allison | "
 name_en: "N. Allison"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-allison"
 position: "Centre"
 height: "nan"

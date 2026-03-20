@@ -7,7 +7,7 @@ position: "SH"
 height: "166.0"
 weight: "70.0"
 birth_date: "1993.10.07"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "コベルコ神戸スティーラーズ（2025-26）"
 caps: ""
 high_school: "関西学院高校"
 university: "関西学院大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483955"
 ---
 
 ## キャリア遍歴
-
+コベルコ神戸スティーラーズ (2022 - )

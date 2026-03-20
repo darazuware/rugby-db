@@ -15,7 +15,7 @@ team: "Zebre"
 caps: "Squad caps (746)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "mogliano veneto rugby (2017 - 2021) -> benetton rugby trévise (2021 - 2024) -> zebre parma (2024 - 2026)"
 ---
 
 ## キャリア遍歴

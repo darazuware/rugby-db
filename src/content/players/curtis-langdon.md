@@ -1,22 +1,22 @@
 ---
-title: "Curtis Langdon | nan"
-name_en: "Curtis Langdon"
-name_ja: "nan"
+title: "Curtis LANGDON | "
+name_en: "Curtis LANGDON"
+name_ja: ""
 slug: "curtis-langdon"
 position: "Hooker"
-height: "nan"
-weight: "nan"
-birth_date: "1997-03-08"
-age: 29.0
+height: "03/08/1997"
+weight: "1"
+birth_date: "nan"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/curtis-langdon"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

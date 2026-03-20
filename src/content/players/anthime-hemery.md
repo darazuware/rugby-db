@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/anthime-hemery"
 ---
 
 ## キャリア遍歴
-Ovale du Gy (2006 - 2016) -> Racing 92 (2016 - 2024) -> ASM Clermont Auvergne (2023 - )
+Ovale du Gy (2006 - 2016) -> Racing 92 (2016 - 2023) -> ASM Clermont Auvergne (2023 - 2023) -> Racing 92 (2024 - 2024) -> ASM Clermont Auvergne (2024 - 2026)

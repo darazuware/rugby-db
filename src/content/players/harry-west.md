@@ -1,7 +1,7 @@
 ---
-title: "Harry WEST | ハリー・ウェスト"
+title: "Harry WEST | Harry ・ WEST"
 name_en: "Harry WEST"
-name_ja: "ハリー・ウェスト"
+name_ja: "Harry ・ WEST"
 slug: "harry-west"
 position: "FB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harry-west"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2022 - 2026)

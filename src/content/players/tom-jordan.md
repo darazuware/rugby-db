@@ -1,13 +1,13 @@
 ---
-title: "Tom Jordan | nan"
+title: "Tom Jordan | "
 name_en: "Tom Jordan"
-name_ja: "nan"
+name_ja: ""
 slug: "tom-jordan"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "26/12/2000"
-age: 25.0
+birth_date: "1998.09.18"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

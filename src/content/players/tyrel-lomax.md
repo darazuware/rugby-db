@@ -10,7 +10,7 @@ birth_date: "1996.06.01"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Hurricanes"
 caps: "🇳🇿 New Zealand (27)"
 high_school: ""

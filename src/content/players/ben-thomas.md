@@ -1,7 +1,7 @@
 ---
-title: "Ben THOMAS | ベン・トーマス"
+title: "Ben THOMAS | ベン ・ トーマス"
 name_en: "Ben THOMAS"
-name_ja: "ベン・トーマス"
+name_ja: "ベン ・ トーマス"
 slug: "ben-thomas"
 position: "SO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-thomas"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2017 - 2026)

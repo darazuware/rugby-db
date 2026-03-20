@@ -10,12 +10,12 @@ birth_date: "2004.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/euan-mcvie"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "edinburgh accies (2022 - 2023) -> edimbourg rugby (2023 - 2024) -> doncaster knights (2024 - 2024) -> edimbourg rugby (2025 - 2025) -> doncaster knights (2025 - 2025) -> edimbourg rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

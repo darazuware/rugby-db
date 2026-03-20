@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/santiago-medrano"
 ---
 
 ## キャリア遍歴
-Jaguares (2017 - 2020) -> Western Force (2020 - 2024) -> Worcester Warriors (2022 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - 2024) -> Rugby Club Vannes (2024 - )
+Jaguares (2017 - 2020) -> Western Force (2020 - 2022) -> Worcester Warriors (2022 - 2022) -> Western Force (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Western Force (2023 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - 2023) -> Western Force (2023 - 2023) -> Lyon Olympique Universitaire Rugby (2024 - 2024) -> Western Force (2024 - 2024) -> Rugby Club Vannes (2024 - 2026)

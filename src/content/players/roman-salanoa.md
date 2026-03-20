@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/roman-salanoa"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2019 - 2020) -> munster rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

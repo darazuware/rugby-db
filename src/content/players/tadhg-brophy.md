@@ -1,7 +1,7 @@
 ---
-title: "Tadhg BROPHY | タイグ・ブロフィー"
+title: "Tadhg BROPHY | タイグ ・ BROPHY"
 name_en: "Tadhg BROPHY"
-name_ja: "タイグ・ブロフィー"
+name_ja: "タイグ ・ BROPHY"
 slug: "tadhg-brophy"
 position: "SH"
 height: "173.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tadhg-brophy"
 ---
 
 ## キャリア遍歴
-
+Naas RFC (2023 - 2024) -> Lansdowne FC (2024 - 2025) -> Leinster Rugby (2025 - 2026)

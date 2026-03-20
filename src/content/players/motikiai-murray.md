@@ -10,7 +10,7 @@ birth_date: "2003.05.30"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Fijian Drua"
 caps: ""
 high_school: ""

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "Chile代表 (5 caps)"
+caps: "🇨🇱 Chile (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/diego-escobar"
 ---
 
 ## キャリア遍歴
-Selknam (2021 - 2024) -> Racing 92 (2024 - )
+Selknam (2021 - 2024) -> Racing 92 (2024 - 2026)

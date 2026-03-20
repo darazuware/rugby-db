@@ -1,13 +1,13 @@
 ---
-title: "E. van Rhyn | nan"
+title: "E. van Rhyn | "
 name_en: "E. van Rhyn"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-van-rhyn"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "19/09/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

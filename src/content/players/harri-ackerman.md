@@ -1,7 +1,7 @@
 ---
-title: "Harri ACKERMAN | ハリー・アッカーマン"
+title: "Harri ACKERMAN | Harri ・ ACKERMAN"
 name_en: "Harri ACKERMAN"
-name_ja: "ハリー・アッカーマン"
+name_ja: "Harri ・ ACKERMAN"
 slug: "harri-ackerman"
 position: "CTB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harri-ackerman"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2022 - 2026)

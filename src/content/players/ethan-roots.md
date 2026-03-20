@@ -1,13 +1,13 @@
 ---
-title: "Ethan Roots | nan"
+title: "Ethan Roots | "
 name_en: "Ethan Roots"
-name_ja: "nan"
+name_ja: ""
 slug: "ethan-roots"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "11/10/1997"
-age: 28.0
+birth_date: "1997.11.10"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"

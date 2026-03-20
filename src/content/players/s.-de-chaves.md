@@ -1,13 +1,13 @@
 ---
-title: "S. de Chaves | nan"
+title: "S. de Chaves | "
 name_en: "S. de Chaves"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-de-chaves"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "30/10/1990"
-age: 35.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

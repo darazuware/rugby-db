@@ -1,13 +1,13 @@
 ---
-title: "J. Hawkins | nan"
+title: "J. Hawkins | "
 name_en: "J. Hawkins"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-hawkins"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "11/11/1996"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

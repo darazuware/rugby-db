@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ugo-seunes"
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2008 - 2018) -> Blagnac (2018 - 2024) -> Stade Aurillacois Cantal Auvergne (2024 - 2026) -> Racing 92 (2025 - )
+Sporting Union Agenais (2008 - 2018) -> Blagnac (2018 - 2024) -> Stade Aurillacois Cantal Auvergne (2024 - 2025) -> Racing 92 (2025 - 2025) -> Stade Aurillacois Cantal Auvergne (2026 - 2026) -> Racing 92 (2026 - 2026)

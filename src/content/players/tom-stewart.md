@@ -1,7 +1,7 @@
 ---
-title: "Tom STEWART | トム・スチュアート"
+title: "Tom STEWART | トム ・ STEWART"
 name_en: "Tom STEWART"
-name_ja: "トム・スチュアート"
+name_ja: "トム ・ STEWART"
 slug: "tom-stewart"
 position: "HO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "🇮🇪 Ireland (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tom-stewart"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2019 - 2026)

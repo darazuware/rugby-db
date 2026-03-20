@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇫🇷 France代表 (0 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gael-drean"
 ---
 
 ## キャリア遍歴
-Rugby Ovalie Lorient (2008 - 2019) -> Plouzané (2019 - 2020) -> Rennes Etudiants Club (2020 - 2022) -> Rugby Club Toulonnais (2022 - )
+Rugby Ovalie Lorient (2008 - 2019) -> Plouzané (2019 - 2020) -> Rennes Etudiants Club (2020 - 2022) -> Rugby Club Toulonnais (2022 - 2026)

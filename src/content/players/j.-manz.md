@@ -1,7 +1,7 @@
 ---
-title: "J. Manz | nan"
+title: "J. Manz | "
 name_en: "J. Manz"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-manz"
 position: "Flanker"
 height: "nan"

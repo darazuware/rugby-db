@@ -7,16 +7,16 @@ position: "PR"
 height: "190.0"
 weight: "116.0"
 birth_date: "1988.08.09"
-age: 37.0
+age: 37
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
-caps: "🇦🇺 オーストラリア代表(3)"
+caps: "オーストラリア代表(3)"
 high_school: "セントジョセフ・カレッジ"
 university: "シドニー大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484868"
 ---
 
 ## キャリア遍歴
-
+ワラターズ (2013 - 2024) -> San Diego Legion (2018 - 2021) -> 宗像サニックスブルース (2020 - 2022) -> リコーブラックラムズ東京 (2022 - )

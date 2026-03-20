@@ -1,13 +1,13 @@
 ---
-title: "O. Spencer | nan"
+title: "O. Spencer | "
 name_en: "O. Spencer"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-spencer"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "22/02/2004"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

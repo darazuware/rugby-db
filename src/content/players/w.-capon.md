@@ -1,13 +1,13 @@
 ---
-title: "W. Capon | nan"
+title: "W. Capon | "
 name_en: "W. Capon"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-capon"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "10/12/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

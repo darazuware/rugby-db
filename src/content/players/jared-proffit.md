@@ -10,7 +10,7 @@ birth_date: "1993.09.14"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Chiefs"
 caps: ""
 high_school: ""

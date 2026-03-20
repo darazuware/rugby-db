@@ -1,7 +1,7 @@
 ---
-title: "J. Murray | nan"
+title: "J. Murray | "
 name_en: "J. Murray"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-murray"
 position: "Scrum-half"
 height: "nan"

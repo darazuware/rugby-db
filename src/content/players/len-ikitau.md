@@ -1,13 +1,13 @@
 ---
-title: "Len Ikitau | nan"
+title: "Len Ikitau | "
 name_en: "Len Ikitau"
-name_ja: "nan"
+name_ja: ""
 slug: "len-ikitau"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1998.10.01"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

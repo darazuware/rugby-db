@@ -10,12 +10,12 @@ birth_date: "2005.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/jack-brown"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "watsonian rugby club (2022 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Caolin BLADE | コーリン・ブレイド"
+title: "Caolin BLADE | Caolin ・ BLADE"
 name_en: "Caolin BLADE"
-name_ja: "コーリン・ブレイド"
+name_ja: "Caolin ・ BLADE"
 slug: "caolin-blade"
 position: "SH"
 height: "170.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: "🇮🇪 Ireland (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/caolin-blade"
 ---
 
 ## キャリア遍歴
-Ireland
+Connacht Rugby (2013 - 2026)

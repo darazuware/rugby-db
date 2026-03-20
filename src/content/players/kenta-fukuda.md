@@ -7,16 +7,16 @@ position: "SH"
 height: "173.0"
 weight: "80.0"
 birth_date: "1996.12.19"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東京サントリーサンゴリアス（2025-26）"
-caps: "🇯🇵 XV('25)、日本代表(8)"
+caps: "XV('25)、日本代表(8)"
 high_school: "茗溪学園高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485714"
 ---
 
 ## キャリア遍歴
-
+サンウルブズ (2019 - 2020) -> トヨタヴェルブリッツ (2019 - 2024) -> 東京サントリーサンゴリアス (2024 - )

@@ -1,13 +1,13 @@
 ---
-title: "W. Butt | nan"
+title: "W. Butt | "
 name_en: "W. Butt"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-butt"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "15/01/2000"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

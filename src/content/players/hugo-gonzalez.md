@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-gonzalez"
 ---
 
 ## キャリア遍歴
-Complutense Cisneros (2023 - 2025) -> Aviron Bayonnais (2025 - )
+Complutense Cisneros (2023 - 2025) -> Aviron Bayonnais (2025 - 2026)

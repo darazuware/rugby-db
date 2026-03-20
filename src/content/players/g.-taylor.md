@@ -1,13 +1,13 @@
 ---
-title: "G. Taylor | nan"
+title: "G. Taylor | "
 name_en: "G. Taylor"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-taylor"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1996.11.16"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

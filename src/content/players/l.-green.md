@@ -1,13 +1,13 @@
 ---
-title: "L. Green | nan"
+title: "L. Green | "
 name_en: "L. Green"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-green"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2001-06-05"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

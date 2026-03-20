@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guillaume-ducat"
 ---
 
 ## キャリア遍歴
-Stado Tarbes Pyrénées Rugby (2004 - 2015) -> Aviron Bayonnais (2015 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2024) -> Castres Olympique (2024 - )
+Stado Tarbes Pyrénées Rugby (2004 - 2015) -> Aviron Bayonnais (2015 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2024) -> Castres Olympique (2024 - 2026)

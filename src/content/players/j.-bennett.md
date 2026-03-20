@@ -1,17 +1,17 @@
 ---
-title: "J. Bennett | nan"
+title: "J. Bennett | "
 name_en: "J. Bennett"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-bennett"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2003-07-10"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
-team: "Northampton Saints"
+team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
@@ -19,4 +19,4 @@ scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+Bath Rugby (2025 - )

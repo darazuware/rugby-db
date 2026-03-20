@@ -10,7 +10,7 @@ birth_date: "1997.08.27"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Reds"
 caps: ""
 high_school: ""

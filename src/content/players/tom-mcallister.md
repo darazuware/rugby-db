@@ -1,7 +1,7 @@
 ---
-title: "Tom MCALLISTER | トム・マカリスター"
+title: "Tom MCALLISTER | トム ・ MCALLISTER"
 name_en: "Tom MCALLISTER"
-name_ja: "トム・マカリスター"
+name_ja: "トム ・ MCALLISTER"
 slug: "tom-mcallister"
 position: "PR"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tom-mcallister"
 ---
 
 ## キャリア遍歴
-
+Ballynahinch RFC (2024 - 2025) -> Ulster Rugby (2025 - 2026)

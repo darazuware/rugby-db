@@ -1,7 +1,7 @@
 ---
-title: "O. Streeter | nan"
+title: "O. Streeter | "
 name_en: "O. Streeter"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-streeter"
 position: "Prop"
 height: "nan"

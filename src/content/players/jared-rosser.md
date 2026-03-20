@@ -1,9 +1,9 @@
 ---
-title: "Jared ROSSER | ジャレッド-ロサー"
+title: "Jared ROSSER | Jared ・ ROSSER"
 name_en: "Jared ROSSER"
-name_ja: "ジャレッド-ロサー"
+name_ja: "Jared ・ ROSSER"
 slug: "jared-rosser"
-position: "WTB"
+position: "Winger"
 height: "183.0"
 weight: "99.0"
 birth_date: "1997.12.31"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jared-rosser"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2017 - 2026)

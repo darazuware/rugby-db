@@ -1,7 +1,7 @@
 ---
-title: "J. Carpenter | nan"
+title: "J. Carpenter | "
 name_en: "J. Carpenter"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-carpenter"
 position: "Fullback"
 height: "nan"

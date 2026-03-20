@@ -15,7 +15,7 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2017 - 2023) -> edimbourg rugby (2023 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

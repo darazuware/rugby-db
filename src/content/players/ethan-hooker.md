@@ -10,12 +10,12 @@ birth_date: "2003.01.20"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/ethan-hooker"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2022 - 2026)"
 ---
 
 ## キャリア遍歴

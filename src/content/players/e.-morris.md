@@ -1,7 +1,7 @@
 ---
-title: "E. Morris | nan"
+title: "E. Morris | "
 name_en: "E. Morris"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-morris"
 position: "Centre"
 height: "nan"

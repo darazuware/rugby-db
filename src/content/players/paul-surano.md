@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-surano"
 ---
 
 ## キャリア遍歴
-Hac Rugby (2005 - 2008) -> RC Port du Havre (2008 - 2016) -> Rouen Normandie Rugby (2016 - 2023) -> Rugby Club Vannes (2023 - )
+Hac Rugby (2005 - 2008) -> RC Port du Havre (2008 - 2016) -> Rouen Normandie Rugby (2016 - 2023) -> Rugby Club Vannes (2023 - 2026)

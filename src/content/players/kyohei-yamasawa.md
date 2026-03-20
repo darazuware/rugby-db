@@ -7,7 +7,7 @@ position: "SO"
 height: "176.0"
 weight: "85.0"
 birth_date: "1998.08.17"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "埼玉パナソニックワイルドナイツ（2025-26）"
 caps: "U20('17,'18)"
 high_school: "深谷高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484051"
 ---
 
 ## キャリア遍歴
-
+埼玉パナソニックワイルドナイツ (2021 - )

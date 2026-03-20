@@ -1,13 +1,13 @@
 ---
-title: "C. Englefield | nan"
+title: "C. Englefield | "
 name_en: "C. Englefield"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-englefield"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "1999-11-01"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

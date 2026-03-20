@@ -1,7 +1,7 @@
 ---
-title: "L. Gulley | nan"
+title: "L. Gulley | "
 name_en: "L. Gulley"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-gulley"
 position: "Hooker"
 height: "nan"

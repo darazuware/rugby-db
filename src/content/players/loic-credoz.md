@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/loic-credoz"
 ---
 
 ## キャリア遍歴
-RC du Canton de Montrevel-en-Bresse (2007 - 2015) -> Oyonnax Rugby (2015 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )
+RC du Canton de Montrevel-en-Bresse (2007 - 2015) -> Oyonnax Rugby (2015 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2026)

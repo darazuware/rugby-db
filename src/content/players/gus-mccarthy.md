@@ -1,7 +1,7 @@
 ---
-title: "Gus MCCARTHY | ガス・マッカーシー"
+title: "Gus MCCARTHY | Gus ・ MCCARTHY"
 name_en: "Gus MCCARTHY"
-name_ja: "ガス・マッカーシー"
+name_ja: "Gus ・ MCCARTHY"
 slug: "gus-mccarthy"
 position: "HO"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/gus-mccarthy"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2022 - 2026)

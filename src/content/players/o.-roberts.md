@@ -1,13 +1,13 @@
 ---
-title: "O. Roberts | nan"
+title: "O. Roberts | "
 name_en: "O. Roberts"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-roberts"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2005.."
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

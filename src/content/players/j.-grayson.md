@@ -1,18 +1,18 @@
 ---
-title: "J. Grayson | nan"
+title: "J. Grayson | "
 name_en: "J. Grayson"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-grayson"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1998.06.26"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Newcastle Falcons"
-caps: "Player representation by league代表 (0 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

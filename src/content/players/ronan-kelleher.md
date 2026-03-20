@@ -1,7 +1,7 @@
 ---
-title: "Ronan KELLEHER | ロナン・ケレハー"
+title: "Ronan KELLEHER | ロナン ・ KELLEHER"
 name_en: "Ronan KELLEHER"
-name_ja: "ロナン・ケレハー"
+name_ja: "ロナン ・ KELLEHER"
 slug: "ronan-kelleher"
 position: "HO"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "Ireland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ronan-kelleher"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2018 - 2026)

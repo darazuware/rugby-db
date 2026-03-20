@@ -1,13 +1,13 @@
 ---
-title: "N. Greenwood | nan"
+title: "N. Greenwood | "
 name_en: "N. Greenwood"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-greenwood"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "20/11/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

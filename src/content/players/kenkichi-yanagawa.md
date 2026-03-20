@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "188.0"
 weight: "100.0"
 birth_date: "2001.12.10"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
 caps: ""
 high_school: "尾道高校"
 university: "筑波大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483783"
 ---
 
 ## キャリア遍歴
-
+クボタスピアーズ船橋・東京ベイ (2024 - )

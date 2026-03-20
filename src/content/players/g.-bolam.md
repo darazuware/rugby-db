@@ -1,13 +1,13 @@
 ---
-title: "G. Bolam | nan"
+title: "G. Bolam | "
 name_en: "G. Bolam"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-bolam"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1996.11.16"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

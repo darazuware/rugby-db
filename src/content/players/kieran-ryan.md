@@ -1,7 +1,7 @@
 ---
-title: "Kieran RYAN | キーラン・ライアン"
+title: "Kieran RYAN | Kieran ・ ライアン"
 name_en: "Kieran RYAN"
-name_ja: "キーラン・ライアン"
+name_ja: "Kieran ・ ライアン"
 slug: "kieran-ryan"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/kieran-ryan"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2021 - 2026)

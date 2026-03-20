@@ -1,13 +1,13 @@
 ---
-title: "A. Pugh | nan"
+title: "A. Pugh | "
 name_en: "A. Pugh"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-pugh"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

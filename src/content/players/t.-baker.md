@@ -1,7 +1,7 @@
 ---
-title: "T. Baker | nan"
+title: "T. Baker | "
 name_en: "T. Baker"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-baker"
 position: "Centre"
 height: "nan"

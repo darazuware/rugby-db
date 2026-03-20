@@ -1,13 +1,13 @@
 ---
-title: "K. Verden | nan"
+title: "K. Verden | "
 name_en: "K. Verden"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-verden"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "11/06/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

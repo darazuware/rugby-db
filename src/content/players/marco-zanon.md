@@ -15,7 +15,7 @@ team: "Zebre"
 caps: "🇮🇹 Italy (17)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "benetton rugby trévise (2017 - 2021) -> section paloise béarn pyrénées (2021 - 2021) -> benetton rugby trévise (2022 - 2022) -> section paloise béarn pyrénées (2022 - 2022) -> benetton rugby trévise (2022 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴

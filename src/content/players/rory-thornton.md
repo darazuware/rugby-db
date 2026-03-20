@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/rory-thornton"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2014 - 2018) -> cardiff rugby (2018 - 2026)"
 ---
 
 ## キャリア遍歴

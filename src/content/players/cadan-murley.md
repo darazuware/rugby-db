@@ -1,18 +1,18 @@
 ---
-title: "Cadan Murley | nan"
+title: "Cadan Murley | "
 name_en: "Cadan Murley"
-name_ja: "nan"
+name_ja: ""
 slug: "cadan-murley"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1999.07.31"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (0 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

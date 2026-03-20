@@ -15,7 +15,7 @@ team: "Dragons"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (14)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2017 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/migael-prinsloo"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "benetton rugby trévise (2024 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴

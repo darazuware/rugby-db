@@ -1,13 +1,13 @@
 ---
-title: "Bevan Rodd | nan"
+title: "Bevan Rodd | "
 name_en: "Bevan Rodd"
-name_ja: "nan"
+name_ja: ""
 slug: "bevan-rodd"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "26/08/2000"
-age: 25.0
+birth_date: "2000.08.26"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

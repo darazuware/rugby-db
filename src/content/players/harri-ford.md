@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/harri-ford"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "rgc 1404 (2023 - 2024) -> dragons rfc (2024 - 2026)"
 ---
 
 ## キャリア遍歴

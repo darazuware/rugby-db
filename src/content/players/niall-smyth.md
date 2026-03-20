@@ -1,7 +1,7 @@
 ---
-title: "Niall SMYTH | ニアル・スミス"
+title: "Niall SMYTH | ナイル ・ SMYTH"
 name_en: "Niall SMYTH"
-name_ja: "ニアル・スミス"
+name_ja: "ナイル ・ SMYTH"
 slug: "niall-smyth"
 position: "PR"
 height: "191.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/niall-smyth"
 ---
 
 ## キャリア遍歴
-
+Blackrock College RFC (2023 - 2024) -> Leinster Rugby (2024 - 2026)

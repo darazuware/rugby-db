@@ -1,7 +1,7 @@
 ---
-title: "Harry PATERSON | ハリー-パターソン"
+title: "Harry PATERSON | Harry ・ PATERSON"
 name_en: "Harry PATERSON"
-name_ja: "ハリー-パターソン"
+name_ja: "Harry ・ PATERSON"
 slug: "harry-paterson"
 position: "FB"
 height: "191.0"
@@ -10,13 +10,13 @@ birth_date: "2001.06.28"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harry-paterson"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2020 - 2026)

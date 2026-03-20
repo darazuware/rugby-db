@@ -1,13 +1,13 @@
 ---
-title: "Murray McCallum | nan"
+title: "Murray McCallum | "
 name_en: "Murray McCallum"
-name_ja: "nan"
+name_ja: ""
 slug: "murray-mccallum"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "16/03/1996"
-age: 30.0
+birth_date: "1996.03.16"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

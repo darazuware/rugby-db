@@ -1,7 +1,7 @@
 ---
-title: "C. Turnbull | nan"
+title: "C. Turnbull | "
 name_en: "C. Turnbull"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-turnbull"
 position: "Hooker"
 height: "nan"

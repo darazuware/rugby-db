@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/ioan-jones"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "gloucester rugby (2022 - 2023) -> hartpury rfc (2023 - 2023) -> gloucester rugby (2023 - 2023) -> hartpury rfc (2024 - 2024) -> gloucester rugby (2024 - 2024) -> hartpury rfc (2024 - 2024) -> gloucester rugby (2025 - 2025) -> hartpury rfc (2025 - 2025) -> scarlets (2025 - 2026)"
 ---
 
 ## キャリア遍歴

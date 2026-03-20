@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tommy-allan"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2013 - 2026) -> Benetton Rugby Trévise (2016 - 2021) -> Harlequins (2021 - )
+Union Sportive Arlequins Perpignanais (2013 - 2016) -> Benetton Rugby Trévise (2016 - 2021) -> Harlequins (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)

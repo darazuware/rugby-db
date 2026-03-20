@@ -1,7 +1,7 @@
 ---
-title: "J. Staples | nan"
+title: "J. Staples | "
 name_en: "J. Staples"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-staples"
 position: "Hooker"
 height: "nan"

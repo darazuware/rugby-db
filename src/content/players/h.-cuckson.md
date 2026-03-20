@@ -1,13 +1,13 @@
 ---
-title: "H. Cuckson | nan"
+title: "H. Cuckson | "
 name_en: "H. Cuckson"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-cuckson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2004.01.16"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -10,7 +10,7 @@ birth_date: "1999.01.06"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""

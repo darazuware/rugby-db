@@ -1,13 +1,13 @@
 ---
-title: "R. Russell | nan"
+title: "R. Russell | "
 name_en: "R. Russell"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-russell"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1999-01-13"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

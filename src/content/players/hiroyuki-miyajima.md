@@ -7,15 +7,15 @@ position: "WTB"
 height: "182.0"
 weight: "85.0"
 birth_date: "1992.09.23"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "NECグリーンロケッツ東葛（2025-26）"
 caps: ""
 high_school: "飯田高校"
 university: "同志社大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483563"
 ---
 
 ## キャリア遍歴

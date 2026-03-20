@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/harold-vorster"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2014 - 2019) -> saitama wild knights (2020 - 2021) -> bulls (2021 - 2026)"
 ---
 
 ## キャリア遍歴

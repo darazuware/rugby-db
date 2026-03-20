@@ -1,7 +1,7 @@
 ---
-title: "Dylan TIERNEY-MARTIN | ディラン-ティアニー＝マーティン"
+title: "Dylan TIERNEY-MARTIN | Dylan ・ TIERNEY ・ MARTIN"
 name_en: "Dylan TIERNEY-MARTIN"
-name_ja: "ディラン-ティアニー＝マーティン"
+name_ja: "Dylan ・ TIERNEY ・ MARTIN"
 slug: "dylan-tierney-martin"
 position: "HO"
 height: "182.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dylan-tierney-martin"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2020 - 2026)

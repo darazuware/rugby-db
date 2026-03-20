@@ -1,7 +1,7 @@
 ---
-title: "B. Morrow | nan"
+title: "B. Morrow | "
 name_en: "B. Morrow"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-morrow"
 position: "Wing"
 height: "nan"

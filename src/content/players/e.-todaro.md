@@ -1,13 +1,13 @@
 ---
-title: "E. Todaro | nan"
+title: "E. Todaro | "
 name_en: "E. Todaro"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-todaro"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2006-XX-XX"
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

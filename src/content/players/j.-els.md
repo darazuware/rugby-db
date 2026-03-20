@@ -1,13 +1,13 @@
 ---
-title: "J. Els | nan"
+title: "J. Els | "
 name_en: "J. Els"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-els"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "06/11/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

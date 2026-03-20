@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/owen-conquer"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ebbw vale rfc (2023 - 2024) -> dragons rfc (2024 - 2026)"
 ---
 
 ## キャリア遍歴

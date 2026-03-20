@@ -10,7 +10,7 @@ birth_date: "1994.12.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Crusaders"
 caps: "🇳🇿 New Zealand (25)"
 high_school: ""

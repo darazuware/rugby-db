@@ -10,7 +10,7 @@ birth_date: "2000.01.27"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Chiefs"
 caps: "🇳🇿 New Zealand (22)"
 high_school: ""

@@ -1,18 +1,18 @@
 ---
-title: "Tom Hooper | nan"
+title: "Tom Hooper | "
 name_en: "Tom Hooper"
-name_ja: "nan"
+name_ja: ""
 slug: "tom-hooper"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2001.01.29"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Exeter Chiefs"
-caps: "🇦🇺 Australia代表 (4 caps)"
+caps: "🇦🇺 Australia (4)"
 high_school: ""
 university: ""
 scraped_url: "nan"

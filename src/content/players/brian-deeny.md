@@ -1,7 +1,7 @@
 ---
-title: "Brian DEENY | ブライアン・ディーニー"
+title: "Brian DEENY | Brian ・ DEENY"
 name_en: "Brian DEENY"
-name_ja: "ブライアン・ディーニー"
+name_ja: "Brian ・ DEENY"
 slug: "brian-deeny"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/brian-deeny"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2018 - 2026)

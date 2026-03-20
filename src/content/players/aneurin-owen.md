@@ -1,7 +1,7 @@
 ---
-title: "Aneurin OWEN | アナイリン・オウェン"
+title: "Aneurin OWEN | Aneurin ・ OWEN"
 name_en: "Aneurin OWEN"
-name_ja: "アナイリン・オウェン"
+name_ja: "Aneurin ・ OWEN"
 slug: "aneurin-owen"
 position: "CTB"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/aneurin-owen"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2018 - 2026)

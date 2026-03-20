@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/remi-seneca"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2012 - 2017) -> Rugby Club Vannes (2017 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )
+Stade Français Paris Rugby (2012 - 2017) -> Rugby Club Vannes (2017 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)

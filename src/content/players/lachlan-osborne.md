@@ -7,16 +7,16 @@ position: "LO"
 height: "194.0"
 weight: "115.0"
 birth_date: "1999.09.01"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
 caps: ""
 high_school: "キャンベラグラマースクール"
 university: "キャンベラ大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484398"
 ---
 
 ## キャリア遍歴
-
+マツダスカイアクティブズ広島 (2021 - 2024) -> 東京サントリーサンゴリアス (2024 - 2025) -> 豊田自動織機シャトルズ愛知 (2025 - )

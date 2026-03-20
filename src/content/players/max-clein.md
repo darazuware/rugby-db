@@ -1,7 +1,7 @@
 ---
-title: "Max CLEIN | マックス・クライン"
+title: "Max CLEIN | Max ・ CLEIN"
 name_en: "Max CLEIN"
-name_ja: "マックス・クライン"
+name_ja: "Max ・ CLEIN"
 slug: "max-clein"
 position: "HO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/max-clein"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2022 - 2026)

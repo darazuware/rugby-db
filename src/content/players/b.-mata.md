@@ -1,7 +1,7 @@
 ---
-title: "B. Mata | nan"
+title: "B. Mata | "
 name_en: "B. Mata"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-mata"
 position: "Flanker"
 height: "nan"

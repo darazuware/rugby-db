@@ -1,7 +1,7 @@
 ---
-title: "J. Miller | nan"
+title: "J. Miller | "
 name_en: "J. Miller"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-miller"
 position: "Prop"
 height: "nan"

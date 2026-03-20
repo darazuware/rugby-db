@@ -7,16 +7,16 @@ position: "HO"
 height: "169.0"
 weight: "98.0"
 birth_date: "1996.09.07"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ルリーロ福岡（2025-26）"
 caps: ""
 high_school: "石見智翠館高校"
 university: "天理大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484969"
 ---
 
 ## キャリア遍歴
-
+Not Found

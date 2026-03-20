@@ -15,7 +15,7 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (100)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2013 - 2014) -> rugby club toulonnais (2014 - 2017) -> scarlets (2017 - 2023) -> crusaders (2023 - 2024) -> harlequins (2024 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

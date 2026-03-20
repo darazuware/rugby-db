@@ -1,7 +1,7 @@
 ---
-title: "Ben WARREN | ベン・ウォーレン"
+title: "Ben WARREN | ベン ・ WARREN"
 name_en: "Ben WARREN"
-name_ja: "ベン・ウォーレン"
+name_ja: "ベン ・ WARREN"
 slug: "ben-warren"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-warren"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2018 - 2021) -> Ospreys (2021 - 2026)

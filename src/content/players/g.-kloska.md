@@ -1,13 +1,13 @@
 ---
-title: "G. Kloska | nan"
+title: "G. Kloska | "
 name_en: "G. Kloska"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-kloska"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "16/11/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

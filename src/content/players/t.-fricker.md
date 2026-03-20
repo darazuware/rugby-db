@@ -1,7 +1,7 @@
 ---
-title: "T. Fricker | nan"
+title: "T. Fricker | "
 name_en: "T. Fricker"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-fricker"
 position: "Wing"
 height: "nan"

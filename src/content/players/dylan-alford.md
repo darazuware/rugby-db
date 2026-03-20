@@ -1,7 +1,7 @@
 ---
-title: "Dylan ALFORD | ディラン・アルフォード"
+title: "Dylan ALFORD | Dylan ・ ALFORD"
 name_en: "Dylan ALFORD"
-name_ja: "ディラン・アルフォード"
+name_ja: "Dylan ・ ALFORD"
 slug: "dylan-alford"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dylan-alford"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2024 - 2026)

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/iori-badham"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2023 - 2026)"
 ---
 
 ## キャリア遍歴

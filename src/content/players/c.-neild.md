@@ -1,13 +1,13 @@
 ---
-title: "C. Neild | nan"
+title: "C. Neild | "
 name_en: "C. Neild"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-neild"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "09/06/1994"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "N. Lilley | nan"
+title: "N. Lilley | "
 name_en: "N. Lilley"
-name_ja: "nan"
+name_ja: ""
 slug: "n.-lilley"
 position: "Centre"
 height: "nan"

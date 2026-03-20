@@ -7,7 +7,7 @@ position: "CTB"
 height: "187.0"
 weight: "100.0"
 birth_date: "1998.08.14"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "三重ホンダヒート（2025-26）"
 caps: ""
 high_school: "開志国際高校"
 university: "日本大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484691"
 ---
 
 ## キャリア遍歴
-
+三重ホンダヒート (2022 - )

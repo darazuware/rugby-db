@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-quere-karaba"
 ---
 
 ## キャリア遍歴
-RC Canton Garde-Pradet (2009 - 2011) -> RC Hyères Carqueiranne La Crau (2011 - 2019) -> Antony Métro 92 (2019 - 2021) -> Rugby Club Toulonnais (2021 - )
+RC Canton Garde-Pradet (2009 - 2011) -> RC Hyères Carqueiranne La Crau (2011 - 2019) -> Antony Métro 92 (2019 - 2021) -> Rugby Club Toulonnais (2021 - 2026)

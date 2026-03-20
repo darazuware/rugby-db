@@ -1,9 +1,9 @@
 ---
-title: "Alex MANN | アレックス・マン"
+title: "Alex MANN | Alex ・ MANN"
 name_en: "Alex MANN"
-name_ja: "アレックス・マン"
+name_ja: "Alex ・ MANN"
 slug: "alex-mann"
-position: "FL/No8"
+position: "Back row"
 height: "191.0"
 weight: "98.0"
 birth_date: "2002.01.06"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alex-mann"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2020 - 2026)

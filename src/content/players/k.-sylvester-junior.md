@@ -1,7 +1,7 @@
 ---
-title: "K. Sylvester-Junior | nan"
+title: "K. Sylvester-Junior | "
 name_en: "K. Sylvester-Junior"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-sylvester-junior"
 position: "Lock"
 height: "nan"

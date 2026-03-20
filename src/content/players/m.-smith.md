@@ -1,18 +1,18 @@
 ---
-title: "M. Smith | nan"
+title: "M. Smith | "
 name_en: "M. Smith"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-smith"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "1998.01.30"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (39 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

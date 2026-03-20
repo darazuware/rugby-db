@@ -1,18 +1,18 @@
 ---
-title: "Henry Slade | nan"
+title: "Henry Slade | "
 name_en: "Henry Slade"
-name_ja: "nan"
+name_ja: ""
 slug: "henry-slade"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1993.03.19"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Exeter Chiefs"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (70 caps)"
+caps: "Squad caps (784)"
 high_school: ""
 university: ""
 scraped_url: "nan"

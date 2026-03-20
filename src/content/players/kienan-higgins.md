@@ -10,12 +10,12 @@ birth_date: "2000.01.25"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/kienan-higgins"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "hawke's bay magpies (2020 - 2025) -> edimbourg rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

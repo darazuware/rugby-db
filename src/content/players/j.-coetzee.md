@@ -1,13 +1,13 @@
 ---
-title: "J. Coetzee | nan"
+title: "J. Coetzee | "
 name_en: "J. Coetzee"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-coetzee"
 position: "No. 8"
 height: "nan"
 weight: "nan"
-birth_date: "06/10/1996"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

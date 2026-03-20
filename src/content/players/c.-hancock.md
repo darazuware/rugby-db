@@ -1,7 +1,7 @@
 ---
-title: "C. Hancock | nan"
+title: "C. Hancock | "
 name_en: "C. Hancock"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-hancock"
 position: "Prop"
 height: "nan"

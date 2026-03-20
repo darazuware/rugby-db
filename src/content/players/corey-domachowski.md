@@ -1,7 +1,7 @@
 ---
-title: "Corey DOMACHOWSKI | コーリー-ドマショウスキ"
+title: "Corey DOMACHOWSKI | Corey ・ DOMACHOWSKI"
 name_en: "Corey DOMACHOWSKI"
-name_ja: "コーリー-ドマショウスキ"
+name_ja: "Corey ・ DOMACHOWSKI"
 slug: "corey-domachowski"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/corey-domachowski"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2015 - 2026)

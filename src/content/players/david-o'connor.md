@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/david-o-connor"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ulster rugby (2019 - 2022) -> ealing trailfinders (2022 - 2024) -> connacht rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

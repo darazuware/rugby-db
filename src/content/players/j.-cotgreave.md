@@ -1,7 +1,7 @@
 ---
-title: "J. Cotgreave | nan"
+title: "J. Cotgreave | "
 name_en: "J. Cotgreave"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-cotgreave"
 position: "Wing"
 height: "nan"

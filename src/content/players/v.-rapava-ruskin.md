@@ -1,13 +1,13 @@
 ---
-title: "V. Rapava Ruskin | nan"
+title: "V. Rapava Ruskin | "
 name_en: "V. Rapava Ruskin"
-name_ja: "nan"
+name_ja: ""
 slug: "v.-rapava-ruskin"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "10/12/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

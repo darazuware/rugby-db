@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-tameifuna"
 ---
 
 ## キャリア遍歴
-Chiefs (2011 - 2015) -> Racing 92 (2015 - 2020) -> Union Bordeaux-Bègles (2020 - )
+Chiefs (2011 - 2015) -> Racing 92 (2015 - 2020) -> Union Bordeaux-Bègles (2020 - 2026)

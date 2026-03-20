@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/ruben-van-heerden"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2016 - 2018) -> sharks (2018 - 2022) -> exeter chiefs (2022 - 2022) -> stormers (2022 - 2022) -> exeter chiefs (2023 - 2023) -> stormers (2023 - 2026)"
 ---
 
 ## キャリア遍歴

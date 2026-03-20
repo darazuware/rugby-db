@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andro-dvali"
 ---
 
 ## キャリア遍歴
-Lelo Saracens Tbilissi (2023 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )
+Lelo Saracens Tbilissi (2023 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Murphy WALKER | マーフィー・ウォーカー"
+title: "Murphy WALKER | Murphy ・ WALKER"
 name_en: "Murphy WALKER"
-name_ja: "マーフィー・ウォーカー"
+name_ja: "Murphy ・ WALKER"
 slug: "murphy-walker"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/murphy-walker"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2018 - 2026)

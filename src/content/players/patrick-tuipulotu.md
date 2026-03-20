@@ -10,7 +10,7 @@ birth_date: "1993.01.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Blues"
 caps: "🇳🇿 New Zealand (25)"
 high_school: ""

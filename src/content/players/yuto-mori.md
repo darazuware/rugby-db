@@ -7,7 +7,7 @@ position: "UTB"
 height: "174.0"
 weight: "85.0"
 birth_date: "1998.11.14"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "横浜キヤノンイーグルス（2025-26）"
 caps: "U20,U23('18)、XV('25)"
 high_school: "東福岡高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484814"
 ---
 
 ## キャリア遍歴
-
+東芝ブレイブルーパス東京 (2021 - 2025) -> 横浜キヤノンイーグルス (2025 - )

@@ -1,7 +1,7 @@
 ---
-title: "R. Crowley | nan"
+title: "R. Crowley | "
 name_en: "R. Crowley"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-crowley"
 position: "Centre"
 height: "nan"

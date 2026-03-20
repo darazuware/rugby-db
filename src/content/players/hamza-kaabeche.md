@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hamza-kaabeche"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2012 - )
+Lyon Olympique Universitaire Rugby (2012 - 2026)

@@ -1,18 +1,18 @@
 ---
-title: "Tommy Reffell | nan"
+title: "Tommy Reffell | "
 name_en: "Tommy Reffell"
-name_ja: "nan"
+name_ja: ""
 slug: "tommy-reffell"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1999.04.27"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Leicester Tigers"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (23 caps)"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (23)"
 high_school: ""
 university: ""
 scraped_url: "nan"

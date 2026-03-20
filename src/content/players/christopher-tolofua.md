@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christopher-tolofua"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2007 - 2017) -> Saracens (2017 - 2019) -> Rugby Club Toulonnais (2019 - 2024) -> Montpellier Hérault Rugby (2023 - )
+Stade Toulousain (2007 - 2017) -> Saracens (2017 - 2019) -> Rugby Club Toulonnais (2019 - 2023) -> Montpellier Hérault Rugby (2023 - 2023) -> Rugby Club Toulonnais (2024 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)

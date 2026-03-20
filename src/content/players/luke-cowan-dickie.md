@@ -1,13 +1,13 @@
 ---
-title: "Luke Cowan-Dickie | nan"
+title: "Luke Cowan-Dickie | "
 name_en: "Luke Cowan-Dickie"
-name_ja: "nan"
+name_ja: ""
 slug: "luke-cowan-dickie"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "20/06/1993"
-age: 32.0
+birth_date: "1993.06.20"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "premiership"

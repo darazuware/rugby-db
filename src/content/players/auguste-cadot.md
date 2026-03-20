@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/auguste-cadot"
 ---
 
 ## キャリア遍歴
-Racing Club Chagny (2007 - 2015) -> CS Beaune (2015 - 2019) -> Biarritz Olympique Pays Basque (2019 - 2023) -> Montpellier Hérault Rugby (2023 - )
+Racing Club Chagny (2007 - 2015) -> CS Beaune (2015 - 2019) -> Biarritz Olympique Pays Basque (2019 - 2023) -> Montpellier Hérault Rugby (2023 - 2026)

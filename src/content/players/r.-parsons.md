@@ -1,7 +1,7 @@
 ---
-title: "R. Parsons | nan"
+title: "R. Parsons | "
 name_en: "R. Parsons"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-parsons"
 position: "Flanker"
 height: "nan"

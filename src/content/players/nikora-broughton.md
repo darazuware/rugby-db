@@ -10,7 +10,7 @@ birth_date: "2001.09.05"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Highlanders"
 caps: ""
 high_school: ""

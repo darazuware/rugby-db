@@ -1,7 +1,7 @@
 ---
-title: "T. Offiah | nan"
+title: "T. Offiah | "
 name_en: "T. Offiah"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-offiah"
 position: "Wing"
 height: "nan"

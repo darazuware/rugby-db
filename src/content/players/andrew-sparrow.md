@@ -1,7 +1,7 @@
 ---
-title: "Andrew SPARROW | アンドリュー・スパロウ"
+title: "Andrew SPARROW | アンドリュー ・ SPARROW"
 name_en: "Andrew SPARROW"
-name_ja: "アンドリュー・スパロウ"
+name_ja: "アンドリュー ・ SPARROW"
 slug: "andrew-sparrow"
 position: "PR"
 height: "192.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/andrew-sparrow"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)

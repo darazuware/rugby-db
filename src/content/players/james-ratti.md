@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/james-ratti"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2017 - 2019) -> cardiff rugby (2019 - 2023) -> ospreys (2023 - 2026)"
 ---
 
 ## キャリア遍歴

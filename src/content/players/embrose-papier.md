@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/embrose-papier"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2017 - 2019) -> sale sharks (2019 - 2019) -> bulls (2019 - 2019) -> sale sharks (2020 - 2020) -> bulls (2020 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "J. Roots | nan"
+title: "J. Roots | "
 name_en: "J. Roots"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-roots"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "31/01/2000"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

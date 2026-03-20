@@ -1,7 +1,7 @@
 ---
-title: "Dan SHEEHAN | ダン-シーハン"
+title: "Dan SHEEHAN | ダン ・ SHEEHAN"
 name_en: "Dan SHEEHAN"
-name_ja: "ダン-シーハン"
+name_ja: "ダン ・ SHEEHAN"
 slug: "dan-sheehan"
 position: "HO"
 height: "191.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (32)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dan-sheehan"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2019 - 2026)

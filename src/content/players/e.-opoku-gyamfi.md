@@ -1,7 +1,7 @@
 ---
-title: "E. Opoku Gyamfi | nan"
+title: "E. Opoku Gyamfi | "
 name_en: "E. Opoku Gyamfi"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-opoku-gyamfi"
 position: "Lock"
 height: "nan"

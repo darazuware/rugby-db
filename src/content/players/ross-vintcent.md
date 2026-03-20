@@ -1,18 +1,18 @@
 ---
-title: "Ross Vintcent | nan"
+title: "Ross Vintcent | "
 name_en: "Ross Vintcent"
-name_ja: "nan"
+name_ja: ""
 slug: "ross-vintcent"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2002.06.05"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Exeter Chiefs"
-caps: "🇮🇹 Italy代表 (10 caps)"
+caps: "🇮🇹 Italy (10)"
 high_school: ""
 university: ""
 scraped_url: "nan"

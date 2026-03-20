@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-fouyssac"
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2010 - 2018) -> Stade Toulousain (2018 - 2023) -> ASM Clermont Auvergne (2023 - )
+Sporting Union Agenais (2010 - 2018) -> Stade Toulousain (2018 - 2023) -> ASM Clermont Auvergne (2023 - 2026)

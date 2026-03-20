@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-woki"
 ---
 
 ## キャリア遍歴
-AC Bobigny 93 (2008 - 2012) -> Rugby Club Massy Essonne (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2026) -> Racing 92 (2022 - )
+AC Bobigny 93 (2008 - 2012) -> Rugby Club Massy Essonne (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2022) -> Racing 92 (2022 - 2025) -> Union Bordeaux-Bègles (2025 - 2026)

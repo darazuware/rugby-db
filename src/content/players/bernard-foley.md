@@ -7,15 +7,15 @@ position: "SO"
 height: "182.0"
 weight: "89.0"
 birth_date: "1989.09.08"
-age: 36.0
+age: 36
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
-caps: "🇦🇺 オーストラリア代表(76)"
+caps: "オーストラリア代表(76)"
 high_school: "Redfield College"
 university: "UniversityofSydney（シドニー大"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483761"
 ---
 
 ## キャリア遍歴

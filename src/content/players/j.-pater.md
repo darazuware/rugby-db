@@ -1,13 +1,13 @@
 ---
-title: "J. Pater | nan"
+title: "J. Pater | "
 name_en: "J. Pater"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-pater"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "2007-XX-XX"
-age: 19.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

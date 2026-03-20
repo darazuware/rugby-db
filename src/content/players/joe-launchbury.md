@@ -1,13 +1,13 @@
 ---
-title: "Joe Launchbury | nan"
+title: "Joe Launchbury | "
 name_en: "Joe Launchbury"
-name_ja: "nan"
+name_ja: ""
 slug: "joe-launchbury"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "04/12/1991"
-age: 34.0
+birth_date: "1991.04.12"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

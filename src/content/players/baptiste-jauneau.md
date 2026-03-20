@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/baptiste-jauneau"
 ---
 
 ## キャリア遍歴
-AS Buzy-Ogeu Rugby (2008 - 2014) -> FC Oloron (2014 - 2018) -> Biarritz Olympique Pays Basque (2018 - 2021) -> ASM Clermont Auvergne (2021 - )
+AS Buzy-Ogeu Rugby (2008 - 2014) -> FC Oloron (2014 - 2018) -> Biarritz Olympique Pays Basque (2018 - 2021) -> ASM Clermont Auvergne (2021 - 2026)

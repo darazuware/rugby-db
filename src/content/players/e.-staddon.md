@@ -1,13 +1,13 @@
 ---
-title: "E. Staddon | nan"
+title: "E. Staddon | "
 name_en: "E. Staddon"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-staddon"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "07/03/2002"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "M. Knight | nan"
+title: "M. Knight | "
 name_en: "M. Knight"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-knight"
 position: "Fly-half"
 height: "nan"

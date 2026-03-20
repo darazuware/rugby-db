@@ -1,7 +1,7 @@
 ---
-title: "G. Timmins | nan"
+title: "G. Timmins | "
 name_en: "G. Timmins"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-timmins"
 position: "Flanker"
 height: "nan"

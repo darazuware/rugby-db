@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-velarte"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2004 - )
+Union Sportive Arlequins Perpignanais (2004 - 2026)

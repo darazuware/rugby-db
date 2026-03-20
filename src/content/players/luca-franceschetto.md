@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/luca-franceschetto"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "petrarca rugby (2019 - 2022) -> colorno (2022 - 2024) -> zebre parma (2024 - 2026)"
 ---
 
 ## キャリア遍歴

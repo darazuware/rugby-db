@@ -1,7 +1,7 @@
 ---
-title: "Elijah EVANS | イライジャ・エヴァンス"
+title: "Elijah EVANS | Elijah ・ EVANS"
 name_en: "Elijah EVANS"
-name_ja: "イライジャ・エヴァンス"
+name_ja: "Elijah ・ EVANS"
 slug: "elijah-evans"
 position: "CTB"
 height: "190.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/elijah-evans"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2023 - 2026)

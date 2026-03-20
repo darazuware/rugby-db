@@ -1,7 +1,7 @@
 ---
-title: "J. Doorey-Palmer | nan"
+title: "J. Doorey-Palmer | "
 name_en: "J. Doorey-Palmer"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-doorey-palmer"
 position: "Hooker"
 height: "nan"

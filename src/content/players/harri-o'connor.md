@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/harri-o-connor"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bath rugby (2018 - 2019) -> scarlets (2019 - 2026)"
 ---
 
 ## キャリア遍歴

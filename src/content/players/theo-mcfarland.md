@@ -1,13 +1,13 @@
 ---
-title: "Theo McFarland | nan"
+title: "Theo McFarland | "
 name_en: "Theo McFarland"
-name_ja: "nan"
+name_ja: ""
 slug: "theo-mcfarland"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "16/10/1995"
-age: 30.0
+birth_date: "1995.10.16"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

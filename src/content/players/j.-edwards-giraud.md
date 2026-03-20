@@ -1,7 +1,7 @@
 ---
-title: "J. Edwards-Giraud | nan"
+title: "J. Edwards-Giraud | "
 name_en: "J. Edwards-Giraud"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-edwards-giraud"
 position: "Wing"
 height: "nan"

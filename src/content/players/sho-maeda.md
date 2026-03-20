@@ -7,7 +7,7 @@ position: "PR"
 height: "180.0"
 weight: "110.0"
 birth_date: "1999.04.30"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "コベルコ神戸スティーラーズ（2025-26）"
 caps: "U20('19)"
 high_school: "東海大仰星高校"
 university: "東海大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483948"
 ---
 
 ## キャリア遍歴
-
+コベルコ神戸スティーラーズ (2021 - 2026) -> マナワツ (2023 - )

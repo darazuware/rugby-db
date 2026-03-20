@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/luke-yendle"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2018 - 2021) -> jersey reds (2021 - 2021) -> dragons rfc (2022 - 2022) -> jersey reds (2022 - 2022) -> dragons rfc (2022 - 2023) -> ampthill rugby (2023 - 2023) -> dragons rfc (2023 - 2023) -> ampthill rugby (2024 - 2024) -> dragons rfc (2024 - 2025) -> harlequins (2025 - 2025) -> dragons rfc (2026 - 2026) -> harlequins (2026 - 2026)"
 ---
 
 ## キャリア遍歴

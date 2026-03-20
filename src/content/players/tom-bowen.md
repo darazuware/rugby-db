@@ -1,7 +1,7 @@
 ---
-title: "Tom BOWEN | トム・ボウエン"
+title: "Tom BOWEN | トム ・ BOWEN"
 name_en: "Tom BOWEN"
-name_ja: "トム・ボウエン"
+name_ja: "トム ・ BOWEN"
 slug: "tom-bowen"
 position: "FB"
 height: "170.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tom-bowen"
 ---
 
 ## キャリア遍歴
-
+Clifton Rugby (2022 - 2024) -> Cardiff Rugby (2024 - 2026)

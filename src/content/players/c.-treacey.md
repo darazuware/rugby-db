@@ -1,7 +1,7 @@
 ---
-title: "C. Treacey | nan"
+title: "C. Treacey | "
 name_en: "C. Treacey"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-treacey"
 position: "Flanker"
 height: "nan"

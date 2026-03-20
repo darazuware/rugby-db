@@ -1,13 +1,13 @@
 ---
-title: "Pedro Rubiolo | nan"
+title: "Pedro Rubiolo | "
 name_en: "Pedro Rubiolo"
-name_ja: "nan"
+name_ja: ""
 slug: "pedro-rubiolo"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "12/12/2002"
-age: 23.0
+birth_date: "2002.12.21"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"

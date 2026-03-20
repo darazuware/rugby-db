@@ -1,13 +1,13 @@
 ---
-title: "F. Lee-Warner | nan"
+title: "F. Lee-Warner | "
 name_en: "F. Lee-Warner"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-lee-warner"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "02/03/1994"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

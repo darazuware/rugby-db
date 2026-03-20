@@ -1,13 +1,13 @@
 ---
-title: "W. Goodrick-Clarke | nan"
+title: "W. Goodrick-Clarke | "
 name_en: "W. Goodrick-Clarke"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-goodrick-clarke"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "29/12/1995"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

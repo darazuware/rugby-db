@@ -1,18 +1,18 @@
 ---
-title: "AJ MacGinty | nan"
+title: "AJ MacGinty | "
 name_en: "AJ MacGinty"
-name_ja: "nan"
+name_ja: ""
 slug: "aj-macginty"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1990.02.26"
+age: 36
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "United States代表 (24 caps)"
+caps: "United States (24)"
 high_school: ""
 university: ""
 scraped_url: "nan"

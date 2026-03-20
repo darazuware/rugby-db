@@ -1,13 +1,13 @@
 ---
-title: "L. de Bruin | nan"
+title: "L. de Bruin | "
 name_en: "L. de Bruin"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-de-bruin"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "13/02/1993"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

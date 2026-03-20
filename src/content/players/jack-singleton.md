@@ -1,13 +1,13 @@
 ---
-title: "Jack Singleton | nan"
+title: "Jack Singleton | "
 name_en: "Jack Singleton"
-name_ja: "nan"
+name_ja: ""
 slug: "jack-singleton"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "14/05/1996"
-age: 29.0
+birth_date: "1996.05.14"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"

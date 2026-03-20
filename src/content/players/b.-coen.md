@@ -1,7 +1,7 @@
 ---
-title: "B. Coen | nan"
+title: "B. Coen | "
 name_en: "B. Coen"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-coen"
 position: "Fly-half"
 height: "nan"

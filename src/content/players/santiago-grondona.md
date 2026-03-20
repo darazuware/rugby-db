@@ -1,13 +1,13 @@
 ---
-title: "Santiago Grondona | nan"
+title: "Santiago Grondona | "
 name_en: "Santiago Grondona"
-name_ja: "nan"
+name_ja: ""
 slug: "santiago-grondona"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "25/07/1998"
-age: 27.0
+birth_date: "1998.07.25"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

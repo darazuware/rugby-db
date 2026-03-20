@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jon-echegaray"
 ---
 
 ## キャリア遍歴
-Bidart Union Club (2010 - 2019) -> Biarritz Olympique Pays Basque (2019 - 2023) -> Union Bordeaux-Bègles (2023 - 2026) -> Montpellier Hérault Rugby (2025 - )
+Bidart Union Club (2010 - 2019) -> Biarritz Olympique Pays Basque (2019 - 2023) -> Union Bordeaux-Bègles (2023 - 2025) -> Montpellier Hérault Rugby (2025 - 2025) -> Union Bordeaux-Bègles (2026 - 2026) -> Montpellier Hérault Rugby (2026 - 2026)

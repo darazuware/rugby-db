@@ -1,13 +1,13 @@
 ---
-title: "Harry Williams | nan"
+title: "Harry Williams | "
 name_en: "Harry Williams"
-name_ja: "nan"
+name_ja: ""
 slug: "harry-williams"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "10/01/1991"
-age: 35.0
+birth_date: "1991.10.01"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

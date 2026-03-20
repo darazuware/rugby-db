@@ -1,18 +1,18 @@
 ---
-title: "Jarrod Evans | nan"
+title: "Jarrod Evans | "
 name_en: "Jarrod Evans"
-name_ja: "nan"
+name_ja: ""
 slug: "jarrod-evans"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "1996-07-25"
-age: 29.0
+birth_date: "1996.07.25"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Harlequins"
-caps: "Call-ups代表 (8 caps)"
+caps: "Call-ups (8)"
 high_school: ""
 university: ""
 scraped_url: "nan"

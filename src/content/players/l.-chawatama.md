@@ -1,13 +1,13 @@
 ---
-title: "L. Chawatama | nan"
+title: "L. Chawatama | "
 name_en: "L. Chawatama"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-chawatama"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "26/08/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

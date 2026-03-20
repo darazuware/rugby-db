@@ -1,7 +1,7 @@
 ---
-title: "O. Harris | nan"
+title: "O. Harris | "
 name_en: "O. Harris"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-harris"
 position: "Wing"
 height: "nan"

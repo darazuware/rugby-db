@@ -1,13 +1,13 @@
 ---
-title: "J. Yeandle | nan"
+title: "J. Yeandle | "
 name_en: "J. Yeandle"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-yeandle"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "22/12/1989"
-age: 36.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

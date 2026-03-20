@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/lee-barron"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2021 - 2024) -> munster rugby (2024 - 2024) -> leinster rugby (2025 - 2025) -> munster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

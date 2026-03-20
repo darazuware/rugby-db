@@ -15,7 +15,7 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (10)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2016 - 2019) -> bristol bears (2019 - 2019) -> cardiff rugby (2020 - 2020) -> bristol bears (2020 - 2020) -> cardiff rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴

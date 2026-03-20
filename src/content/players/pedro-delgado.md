@@ -1,13 +1,13 @@
 ---
-title: "Pedro Delgado | nan"
+title: "Pedro Delgado | "
 name_en: "Pedro Delgado"
-name_ja: "nan"
+name_ja: ""
 slug: "pedro-delgado"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "09/01/1997"
-age: 29.0
+birth_date: "1997.09.01"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"

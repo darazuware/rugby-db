@@ -7,12 +7,12 @@
                 "display_name": "コベルコ神戸スティーラーズ",
                 "flag": "🇯🇵",
                 "slug": "kobelco-kobe-steelers",
-                "played": "11",
+                "played": "12",
                 "points": "47",
                 "won": "10",
                 "drawn": "0",
-                "lost": "1",
-                "diff": "216",
+                "lost": "2",
+                "diff": "207",
                 "division": "D1"
             },
             {
@@ -129,6 +129,20 @@
             },
             {
                 "rank": "10",
+                "team_name": "横浜キヤノンイーグルス",
+                "display_name": "横浜キヤノンイーグルス",
+                "flag": "🇯🇵",
+                "slug": "yokohama-canon-eagles",
+                "played": "12",
+                "points": "15",
+                "won": "3",
+                "drawn": "0",
+                "lost": "9",
+                "diff": "-134",
+                "division": "D1"
+            },
+            {
+                "rank": "11",
                 "team_name": "三菱重工相模原ダイナボアーズ",
                 "display_name": "三菱重工相模原ダイナボアーズ",
                 "flag": "🇯🇵",
@@ -142,7 +156,7 @@
                 "division": "D1"
             },
             {
-                "rank": "11",
+                "rank": "12",
                 "team_name": "浦安D-Rocks",
                 "display_name": "浦安D-Rocks",
                 "flag": "🇯🇵",
@@ -153,20 +167,6 @@
                 "drawn": "0",
                 "lost": "8",
                 "diff": "-193",
-                "division": "D1"
-            },
-            {
-                "rank": "12",
-                "team_name": "横浜キヤノンイーグルス",
-                "display_name": "横浜キヤノンイーグルス",
-                "flag": "🇯🇵",
-                "slug": "yokohama-canon-eagles",
-                "played": "11",
-                "points": "11",
-                "won": "2",
-                "drawn": "0",
-                "lost": "9",
-                "diff": "-143",
                 "division": "D1"
             },
             {
@@ -810,12 +810,12 @@
                 "display_name": "ウェリントン・ハリケーンズ",
                 "flag": "🇳🇿",
                 "slug": "hurricanes",
-                "played": "4",
-                "won": "3",
+                "played": "5",
+                "won": "4",
                 "drawn": "0",
                 "lost": "1",
-                "diff": "85",
-                "points": "15"
+                "diff": "128",
+                "points": "20"
             },
             {
                 "rank": "2",
@@ -884,19 +884,6 @@
             },
             {
                 "rank": "7",
-                "team_name": "Highlanders",
-                "display_name": "オタゴ・ハイランダーズ",
-                "flag": "🇳🇿",
-                "slug": "highlanders",
-                "played": "5",
-                "won": "2",
-                "drawn": "0",
-                "lost": "3",
-                "diff": "-21",
-                "points": "9"
-            },
-            {
-                "rank": "8",
                 "team_name": "Crusaders",
                 "display_name": "カンタベリー・クルセイダーズ",
                 "flag": "🇳🇿",
@@ -906,6 +893,19 @@
                 "drawn": "0",
                 "lost": "3",
                 "diff": "-23",
+                "points": "9"
+            },
+            {
+                "rank": "8",
+                "team_name": "Highlanders",
+                "display_name": "オタゴ・ハイランダーズ",
+                "flag": "🇳🇿",
+                "slug": "highlanders",
+                "played": "6",
+                "won": "2",
+                "drawn": "0",
+                "lost": "4",
+                "diff": "-64",
                 "points": "9"
             },
             {
@@ -1140,139 +1140,9 @@
                 "lost": "0",
                 "diff": "0",
                 "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "NOLAゴールド",
-                "display_name": "NOLAゴールド",
-                "flag": "🇺🇸",
-                "slug": "nola-gold",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "ニューイングランド・フリージャックス",
-                "display_name": "ニューイングランド・フリージャックス",
-                "flag": "🇺🇸",
-                "slug": "new-england-free-jacks",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "サンディエゴ・レギオン",
-                "display_name": "サンディエゴ・レギオン",
-                "flag": "🇺🇸",
-                "slug": "san-diego-legion",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "オールドグローリーDC",
-                "display_name": "オールドグローリーDC",
-                "flag": "🇺🇸",
-                "slug": "old-glory-dc",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "ユタ・ウォーリアーズ",
-                "display_name": "ユタ・ウォーリアーズ",
-                "flag": "🇺🇸",
-                "slug": "utah-warriors",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "RFCロサンゼルス",
-                "display_name": "RFCロサンゼルス",
-                "flag": "🇺🇸",
-                "slug": "rfcla",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "アンセムRC",
-                "display_name": "アンセムRC",
-                "flag": "🇺🇸",
-                "slug": "anthem-rc",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "ヒューストン・セイバーキャッツ",
-                "display_name": "ヒューストン・セイバーキャッツ",
-                "flag": "🇺🇸",
-                "slug": "houston-sabercats",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "シアトル・シーウルブズ",
-                "display_name": "シアトル・シーウルブズ",
-                "flag": "🇺🇸",
-                "slug": "seattle-seawolves",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
-            },
-            {
-                "rank": "-",
-                "team_name": "シカゴ・ハウンズ",
-                "display_name": "シカゴ・ハウンズ",
-                "flag": "🇺🇸",
-                "slug": "chicago-hounds",
-                "played": "0",
-                "won": "0",
-                "drawn": "0",
-                "lost": "0",
-                "diff": "0",
-                "points": "0"
             }
         ],
         "results": []
     },
-    "last_updated": "2026-03-20T00:46:23.804571"
+    "last_updated": "2026-03-20T17:25:53.423498"
 }

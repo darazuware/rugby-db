@@ -7,15 +7,15 @@ position: "FL/No8"
 height: "187.0"
 weight: "120.0"
 birth_date: "1999.01.30"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "クリタウォーターガッシュ昭島（2025-26）"
 caps: ""
 high_school: "セントトーマスオブカンタベリー"
 university: "朝日大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/488120"
 ---
 
 ## キャリア遍歴

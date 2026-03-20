@@ -1,7 +1,7 @@
 ---
-title: "Mason GRADY | メイソン・グレーディ"
+title: "Mason GRADY | Mason ・ GRADY"
 name_en: "Mason GRADY"
-name_ja: "メイソン・グレーディ"
+name_ja: "Mason ・ GRADY"
 slug: "mason-grady"
 position: "CTB"
 height: "196.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/mason-grady"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2019 - 2026)

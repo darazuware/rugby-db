@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/sithembiso-sithole"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2013 - 2014) -> southern kings (2015 - 2016) -> lions rugby (2016 - 2023) -> stormers (2023 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴

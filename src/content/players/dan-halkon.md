@@ -1,7 +1,7 @@
 ---
-title: "Dan HALKON | ダン・ハルコン"
+title: "Dan HALKON | ダン ・ HALKON"
 name_en: "Dan HALKON"
-name_ja: "ダン・ハルコン"
+name_ja: "ダン ・ HALKON"
 slug: "dan-halkon"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/dan-halkon"
 ---
 
 ## キャリア遍歴
-
+RGS Worcester (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

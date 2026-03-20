@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lester-etien"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2018) -> Stade Français Paris Rugby (2018 - )
+Rugby Club Massy Essonne (2014 - 2018) -> Stade Français Paris Rugby (2018 - 2026)

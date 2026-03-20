@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/huw-anderson"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2022 - 2026)"
 ---
 
 ## キャリア遍歴

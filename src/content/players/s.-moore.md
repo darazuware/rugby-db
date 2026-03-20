@@ -1,18 +1,18 @@
 ---
-title: "S. Moore | nan"
+title: "S. Moore | "
 name_en: "S. Moore"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-moore"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1999.08.08"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Newcastle Falcons"
-caps: "🇦🇺 Australia代表 (96 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

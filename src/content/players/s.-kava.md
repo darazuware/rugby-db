@@ -1,7 +1,7 @@
 ---
-title: "S. Kava | nan"
+title: "S. Kava | "
 name_en: "S. Kava"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-kava"
 position: "Wing"
 height: "nan"

@@ -1,7 +1,7 @@
 ---
-title: "Alex SAMUEL | アレックス・サミュエル"
+title: "Alex SAMUEL | Alex ・ SAMUEL"
 name_en: "Alex SAMUEL"
-name_ja: "アレックス・サミュエル"
+name_ja: "Alex ・ SAMUEL"
 slug: "alex-samuel"
 position: "LO"
 height: "206.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "Scotland"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alex-samuel"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2020 - 2026)

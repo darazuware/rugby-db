@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/matthew-dalton"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ulster rugby (2017 - 2019) -> utah warriors (2020 - 2021) -> newcastle (2021 - 2023) -> soyaux-angoulême xv charente (2023 - 2024) -> ulster rugby (2024 - 2024) -> soyaux-angoulême xv charente (2025 - 2025) -> ulster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

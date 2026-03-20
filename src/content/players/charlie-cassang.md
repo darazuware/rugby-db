@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "🇫🇷 France代表 (9 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/charlie-cassang"
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2012 - 2014) -> ASM Clermont Auvergne (2014 - 2020) -> Aviron Bayonnais (2015 - 2016) -> Oyonnax Rugby (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )
+Sporting Union Agenais (2012 - 2014) -> ASM Clermont Auvergne (2014 - 2015) -> Aviron Bayonnais (2015 - 2015) -> ASM Clermont Auvergne (2016 - 2016) -> Aviron Bayonnais (2016 - 2016) -> ASM Clermont Auvergne (2016 - 2020) -> Oyonnax Rugby (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2026)

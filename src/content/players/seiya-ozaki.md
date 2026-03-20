@@ -7,16 +7,16 @@ position: "WTB"
 height: "175.0"
 weight: "85.0"
 birth_date: "1995.07.11"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東京サントリーサンゴリアス（2025-26）"
-caps: "🇯🇵 高校('12)、U20,U23('15)、日本代表(4)"
+caps: "高校('12)、U20,U23('15)、日本代表(4)"
 high_school: "伏見工業高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484320"
 ---
 
 ## キャリア遍歴
-
+東京サントリーサンゴリアス (2021 - )

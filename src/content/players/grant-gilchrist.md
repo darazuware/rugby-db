@@ -1,7 +1,7 @@
 ---
-title: "Grant GILCHRIST | グラント-ギルクリスト"
+title: "Grant GILCHRIST | グラント ・ GILCHRIST"
 name_en: "Grant GILCHRIST"
-name_ja: "グラント-ギルクリスト"
+name_ja: "グラント ・ GILCHRIST"
 slug: "grant-gilchrist"
 position: "LO"
 height: "198.0"
@@ -10,13 +10,13 @@ birth_date: "1990.08.09"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (74)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/grant-gilchrist"
 ---
 
 ## キャリア遍歴
-Scotland
+Edimbourg Rugby (2013 - 2026)

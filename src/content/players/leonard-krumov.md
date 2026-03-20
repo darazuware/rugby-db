@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/leonard-krumov"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "zebre parma (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-
+Italy

@@ -1,13 +1,13 @@
 ---
-title: "L. Yendle | nan"
+title: "L. Yendle | "
 name_en: "L. Yendle"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-yendle"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "27/06/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

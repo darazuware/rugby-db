@@ -1,18 +1,18 @@
 ---
-title: "T. Woodman | nan"
+title: "T. Woodman | "
 name_en: "T. Woodman"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-woodman"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2006.."
-age: 20.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (38 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

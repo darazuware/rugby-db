@@ -1,7 +1,7 @@
 ---
-title: "H. Ascherl | nan"
+title: "H. Ascherl | "
 name_en: "H. Ascherl"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-ascherl"
 position: "Centre"
 height: "nan"

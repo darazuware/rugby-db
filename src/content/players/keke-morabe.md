@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/keke-morabe"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "northern free state griffons (2017 - 2019) -> western province (2021 - 2022) -> stormers (2022 - 2026)"
 ---
 
 ## キャリア遍歴

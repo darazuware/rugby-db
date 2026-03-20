@@ -1,7 +1,7 @@
 ---
-title: "O. Allport | nan"
+title: "O. Allport | "
 name_en: "O. Allport"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-allport"
 position: "Flanker"
 height: "nan"

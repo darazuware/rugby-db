@@ -7,16 +7,16 @@ position: "PR"
 height: "184.0"
 weight: "125.0"
 birth_date: "2000.04.24"
-age: 25.0
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "埼玉パナソニックワイルドナイツ（2025-26）"
-caps: "🇼🇸 Samoa代表 (5 caps)"
+caps: ""
 high_school: "目黒学院"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484075"
 ---
 
 ## キャリア遍歴
-
+埼玉パナソニックワイルドナイツ (2024 - )

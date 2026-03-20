@@ -1,13 +1,13 @@
 ---
-title: "Benjamín Elizalde | nan"
+title: "Benjamín Elizalde | "
 name_en: "Benjamín Elizalde"
-name_ja: "nan"
+name_ja: ""
 slug: "benjamín-elizalde"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2004.06.14"
+age: 21
 country: ""
 birth_place_scraped: ""
 league: "premiership"

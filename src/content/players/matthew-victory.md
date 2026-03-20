@@ -1,7 +1,7 @@
 ---
-title: "Matthew VICTORY | マシュー・ヴィクトリー"
+title: "Matthew VICTORY | マシュー ・ VICTORY"
 name_en: "Matthew VICTORY"
-name_ja: "マシュー・ヴィクトリー"
+name_ja: "マシュー ・ VICTORY"
 slug: "matthew-victory"
 position: "HO"
 height: "177.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/matthew-victory"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2023 - 2026)

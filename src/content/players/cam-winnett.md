@@ -1,7 +1,7 @@
 ---
-title: "Cam WINNETT | カム・ウィネット"
+title: "Cam WINNETT | Cam ・ WINNETT"
 name_en: "Cam WINNETT"
-name_ja: "カム・ウィネット"
+name_ja: "Cam ・ WINNETT"
 slug: "cam-winnett"
 position: "FB"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cam-winnett"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2021 - 2026)

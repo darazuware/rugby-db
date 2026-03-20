@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/rhodri-lewis"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2021 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴

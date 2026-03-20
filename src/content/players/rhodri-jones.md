@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/rhodri-jones"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2013 - 2016) -> ospreys (2016 - 2022) -> dragons rfc (2022 - 2026)"
 ---
 
 ## キャリア遍歴

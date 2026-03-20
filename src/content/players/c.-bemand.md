@@ -1,7 +1,7 @@
 ---
-title: "C. Bemand | nan"
+title: "C. Bemand | "
 name_en: "C. Bemand"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-bemand"
 position: "Scrum-half"
 height: "nan"

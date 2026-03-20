@@ -1,7 +1,7 @@
 ---
-title: "J. Bracken | nan"
+title: "J. Bracken | "
 name_en: "J. Bracken"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-bracken"
 position: "Wing"
 height: "nan"

@@ -7,15 +7,15 @@ position: "FB"
 height: "183.0"
 weight: "88.0"
 birth_date: "1999.01.22"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
-caps: "🇯🇵 セブンズ日本(9)"
+caps: "セブンズ日本(9)"
 high_school: "佐野日本大学高校"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484630"
 ---
 
 ## キャリア遍歴

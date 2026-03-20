@@ -1,7 +1,7 @@
 ---
-title: "C. Doherty | nan"
+title: "C. Doherty | "
 name_en: "C. Doherty"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-doherty"
 position: "Centre"
 height: "nan"

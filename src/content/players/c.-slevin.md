@@ -1,7 +1,7 @@
 ---
-title: "C. Slevin | nan"
+title: "C. Slevin | "
 name_en: "C. Slevin"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-slevin"
 position: "Fullback"
 height: "nan"

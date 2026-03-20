@@ -1,7 +1,7 @@
 ---
-title: "Joe WESTWOOD | ジョー・ウエストウッド"
+title: "Joe WESTWOOD | Joe ・ WESTWOOD"
 name_en: "Joe WESTWOOD"
-name_ja: "ジョー・ウエストウッド"
+name_ja: "Joe ・ WESTWOOD"
 slug: "joe-westwood"
 position: "CTB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/joe-westwood"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2020 - 2026)

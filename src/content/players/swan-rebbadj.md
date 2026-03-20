@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/swan-rebbadj"
 ---
 
 ## キャリア遍歴
-RC Port-de-Bouc (2007 - 2012) -> Rugby Club Toulonnais (2012 - )
+RC Port-de-Bouc (2007 - 2012) -> Rugby Club Toulonnais (2012 - 2026)

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+caps: "England"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-collier"
 ---
 
 ## キャリア遍歴
-Harlequins (2013 - 2024) -> Castres Olympique (2024 - )
+Harlequins (2013 - 2024) -> Castres Olympique (2024 - 2026)

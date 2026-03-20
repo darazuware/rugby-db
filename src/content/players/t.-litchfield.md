@@ -1,13 +1,13 @@
 ---
-title: "T. Litchfield | nan"
+title: "T. Litchfield | "
 name_en: "T. Litchfield"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-litchfield"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2002-04-20"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

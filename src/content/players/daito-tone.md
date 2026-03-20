@@ -7,16 +7,16 @@ position: "SH"
 height: "165.0"
 weight: "72.0"
 birth_date: "2002.07.03"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
-caps: "🇮🇪 Ireland代表 (27 caps)"
+caps: ""
 high_school: "御所実業高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484401"
 ---
 
 ## キャリア遍歴
-
+豊田自動織機シャトルズ愛知 (2025 - )

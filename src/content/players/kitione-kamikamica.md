@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kitione-kamikamica"
 ---
 
 ## キャリア遍歴
-Union Bordeaux-Bègles (2014 - 2018) -> Rugby Club Vannes (2018 - 2026) -> CA Brive Corrèze Limousin (2019 - 2022) -> Racing 92 (2022 - )
+Union Bordeaux-Bègles (2014 - 2018) -> Rugby Club Vannes (2018 - 2019) -> CA Brive Corrèze Limousin (2019 - 2022) -> Racing 92 (2022 - 2024) -> Rugby Club Vannes (2024 - 2026)

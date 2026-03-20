@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/phil-cokanasiga"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "london irish (2016 - 2022) -> leicester tigers (2022 - 2022) -> nottingham rugby (2022 - 2022) -> leicester tigers (2023 - 2023) -> nottingham rugby (2023 - 2023) -> leicester tigers (2023 - 2024) -> ospreys (2024 - 2026)"
 ---
 
 ## キャリア遍歴

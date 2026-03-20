@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/evan-minto"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "dragons rfc (2024 - 2024) -> hartpury rfc (2024 - 2024) -> dragons rfc (2025 - 2025) -> hartpury rfc (2025 - 2025) -> dragons rfc (2025 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "G. Fisilau | nan"
+title: "G. Fisilau | "
 name_en: "G. Fisilau"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-fisilau"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "07/09/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

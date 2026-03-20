@@ -7,16 +7,16 @@ position: "FB"
 height: "179.0"
 weight: "84.0"
 birth_date: "1999.02.11"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
 caps: ""
 high_school: "セントジョセフカレッジグレゴリーテラス"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484884"
 ---
 
 ## キャリア遍歴
-
+レッズ (2018 - 2020) -> リコーブラックラムズ東京 (2020 - )

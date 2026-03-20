@@ -1,18 +1,18 @@
 ---
-title: "Max Llewellyn | nan"
+title: "Max Llewellyn | "
 name_en: "Max Llewellyn"
-name_ja: "nan"
+name_ja: ""
 slug: "max-llewellyn"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "1999-01-13"
-age: 27.0
+birth_date: "1999.01.13"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Gloucester Rugby"
-caps: "Call-ups代表 (5 caps)"
+caps: "Call-ups (5)"
 high_school: ""
 university: ""
 scraped_url: "nan"

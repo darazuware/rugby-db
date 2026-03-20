@@ -15,7 +15,7 @@ team: "Scarlets"
 caps: "🇹🇴 Tonga (13)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "new south wales waratahs (2014 - 2016) -> hurricanes (2016 - 2019) -> scarlets (2019 - 2026)"
 ---
 
 ## キャリア遍歴

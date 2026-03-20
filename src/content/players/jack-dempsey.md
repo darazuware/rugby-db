@@ -15,7 +15,7 @@ team: "Glasgow"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (22)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "new south wales waratahs (2014 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴

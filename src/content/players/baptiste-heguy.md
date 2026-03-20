@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-heguy"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2012 - )
+Aviron Bayonnais (2012 - 2026)

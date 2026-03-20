@@ -1,22 +1,22 @@
 ---
-title: "Marco Manfredi | nan"
-name_en: "Marco Manfredi"
-name_ja: "nan"
+title: "Marco MANFREDI | "
+name_en: "Marco MANFREDI"
+name_ja: ""
 slug: "marco-manfredi"
 position: "Hooker"
-height: "nan"
-weight: "nan"
-birth_date: "1997-09-18"
-age: 28.0
+height: "18/09/1997"
+weight: "1"
+birth_date: "nan"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: "🇮🇹 Italy (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/marco-manfredi"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

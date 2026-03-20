@@ -7,7 +7,7 @@ position: "UTB"
 height: "192.0"
 weight: "97.0"
 birth_date: "1996.09.23"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "横浜キヤノンイーグルス（2025-26）"
 caps: ""
 high_school: "StAndrewsCollege"
 university: "UniversityofSouthAfrica(UNISA)"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484820"
 ---
 
 ## キャリア遍歴

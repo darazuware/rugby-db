@@ -7,16 +7,16 @@ position: "WTB"
 height: "172.0"
 weight: "80.0"
 birth_date: "1993.10.28"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東京サントリーサンゴリアス（2025-26）"
-caps: "🇿🇦 South Africa代表 (26 caps)"
+caps: "🇿🇦 South Africa (26)"
 high_school: "ブラッケンフェル"
 university: "フリーステート大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/486282"
 ---
 
 ## キャリア遍歴
-
+スタッド・トゥールーザン (2017 - 2021) -> トゥーロン (2021 - 2023) -> 東京サントリーサンゴリアス (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/julien-delbouis"
 ---
 
 ## キャリア遍歴
-US Métro (2004 - 2011) -> Rugby Club Massy Essonne (2011 - 2018) -> Stade Français Paris Rugby (2018 - )
+US Métro (2004 - 2011) -> Rugby Club Massy Essonne (2011 - 2018) -> Stade Français Paris Rugby (2018 - 2026)

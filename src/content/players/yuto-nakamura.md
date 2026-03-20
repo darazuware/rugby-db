@@ -7,15 +7,15 @@ position: "WTB"
 height: "177.0"
 weight: "90.0"
 birth_date: "1998.03.02"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
-caps: "🇯🇵 セブンズ日本(2)"
+caps: "セブンズ日本(2)"
 high_school: "東海大福岡高校"
 university: "京都産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484639"
 ---
 
 ## キャリア遍歴

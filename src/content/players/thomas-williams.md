@@ -1,13 +1,13 @@
 ---
-title: "Thomas WILLIAMS | トーマス・ウィリアムズ"
+title: "Thomas WILLIAMS | トーマス ・ ウィリアムズ"
 name_en: "Thomas WILLIAMS"
-name_ja: "トーマス・ウィリアムズ"
+name_ja: "トーマス ・ ウィリアムズ"
 slug: "thomas-williams"
-position: "WTB"
+position: "Winger"
 height: "nan"
 weight: "nan"
-birth_date: "1995-01-01"
-age: 31.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/thomas-williams"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

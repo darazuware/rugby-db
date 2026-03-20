@@ -1,7 +1,7 @@
 ---
-title: "M. Pepper | nan"
+title: "M. Pepper | "
 name_en: "M. Pepper"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-pepper"
 position: "Scrum-half"
 height: "nan"

@@ -1,13 +1,13 @@
 ---
-title: "Olly Cracknell | nan"
+title: "Olly Cracknell | "
 name_en: "Olly Cracknell"
-name_ja: "nan"
+name_ja: ""
 slug: "olly-cracknell"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1994.05.26"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

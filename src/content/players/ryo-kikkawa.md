@@ -7,15 +7,15 @@ position: "FB"
 height: "178.0"
 weight: "86.0"
 birth_date: "1996.03.21"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "日本製鉄釜石シーウェイブス（2025-26）"
 caps: ""
 high_school: "国学院久我山高校"
 university: "ワイカト大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484515"
 ---
 
 ## キャリア遍歴

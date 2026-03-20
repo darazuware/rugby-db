@@ -1,13 +1,13 @@
 ---
-title: "F. Baxter | nan"
+title: "F. Baxter | "
 name_en: "F. Baxter"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-baxter"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/12/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

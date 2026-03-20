@@ -1,13 +1,13 @@
 ---
-title: "J. Bailey | nan"
+title: "J. Bailey | "
 name_en: "J. Bailey"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-bailey"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "1992.02.09"
-age: 34.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

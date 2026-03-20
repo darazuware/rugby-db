@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-castillon"
 ---
 
 ## キャリア遍歴
-US Saint-Palais Amikuze (2009 - 2018) -> Aviron Bayonnais (2018 - )
+US Saint-Palais Amikuze (2009 - 2018) -> Aviron Bayonnais (2018 - 2026)

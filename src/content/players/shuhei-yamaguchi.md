@@ -7,7 +7,7 @@ position: "CTB"
 height: "183.0"
 weight: "100.0"
 birth_date: "1996.07.21"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "トヨタヴェルブリッツ（2025-26）"
 caps: "U20('11)"
 high_school: "同志社香里高校"
 university: "同志社大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485516"
 ---
 
 ## キャリア遍歴
-
+トヨタヴェルブリッツ (2022 - )

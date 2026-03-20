@@ -10,7 +10,7 @@ birth_date: "1990.06.16"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Fijian Drua"
 caps: "🇫🇯 Fiji (39)"
 high_school: ""

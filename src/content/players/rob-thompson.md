@@ -7,16 +7,16 @@ position: "CTB"
 height: "184.0"
 weight: "103.0"
 birth_date: "1991.08.29"
-age: 34.0
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "東芝ブレイブルーパス東京（2025-26）"
-caps: "Call-ups代表 (3 caps)"
+caps: ""
 high_school: "パーマストンノースボーイズハイスクール"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484379"
 ---
 
 ## キャリア遍歴
-
+クルセイダーズ (2013 - 2014) -> ハイランダーズ (2015 - 2020) -> トヨタヴェルブリッツ (2020 - 2023) -> 東芝ブレイブルーパス東京 (2023 - )

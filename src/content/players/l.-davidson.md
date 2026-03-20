@@ -1,7 +1,7 @@
 ---
-title: "L. Davidson | nan"
+title: "L. Davidson | "
 name_en: "L. Davidson"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-davidson"
 position: "Fly-half"
 height: "nan"

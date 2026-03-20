@@ -1,13 +1,13 @@
 ---
-title: "R. Palframan | nan"
+title: "R. Palframan | "
 name_en: "R. Palframan"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-palframan"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "20/12/1993"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

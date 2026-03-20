@@ -1,7 +1,7 @@
 ---
-title: "Ioan EMANUEL | イオアン・エマニュエル"
+title: "Ioan EMANUEL | Ioan ・ EMANUEL"
 name_en: "Ioan EMANUEL"
-name_ja: "イオアン・エマニュエル"
+name_ja: "Ioan ・ EMANUEL"
 slug: "ioan-emanuel"
 position: "PR"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ioan-emanuel"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)

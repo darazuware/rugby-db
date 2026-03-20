@@ -1,7 +1,7 @@
 ---
-title: "Sione TUIPULOTU | シオネ・ツイプロトゥ"
+title: "Sione TUIPULOTU | Sione ・ TUIPULOTU"
 name_en: "Sione TUIPULOTU"
-name_ja: "シオネ・ツイプロトゥ"
+name_ja: "Sione ・ TUIPULOTU"
 slug: "sione-tuipulotu"
 position: "CTB"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "🇹🇴 Tonga (23)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sione-tuipulotu"
 ---
 
 ## キャリア遍歴
-Australia
+Melbourne Rebels (2015 - 2019) -> Shizuoka Blue Revs (2019 - 2021) -> Glasgow Warriors (2021 - 2026)

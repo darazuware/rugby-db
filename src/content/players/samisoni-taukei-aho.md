@@ -10,7 +10,7 @@ birth_date: "1997.08.08"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Chiefs"
 caps: "🇳🇿 New Zealand (25)"
 high_school: ""

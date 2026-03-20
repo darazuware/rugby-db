@@ -15,7 +15,7 @@ team: "Dragons"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2013 - 2016) -> bristol bears (2016 - 2017) -> dragons rfc (2018 - 2026)"
 ---
 
 ## キャリア遍歴

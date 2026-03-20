@@ -10,12 +10,12 @@ birth_date: "1991.04.19"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/francois-venter"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "central cheetahs (2013 - 2018) -> worcester warriors (2018 - 2022) -> sharks (2022 - 2022) -> worcester warriors (2023 - 2023) -> sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴

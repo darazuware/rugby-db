@@ -1,13 +1,13 @@
 ---
-title: "A. Scott-Young | nan"
+title: "A. Scott-Young | "
 name_en: "A. Scott-Young"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-scott-young"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1997-04-23"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

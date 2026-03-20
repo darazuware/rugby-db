@@ -10,12 +10,12 @@ birth_date: "2006.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/nairn-moncrieff"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "gala rugby (2023 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

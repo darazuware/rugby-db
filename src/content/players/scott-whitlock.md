@@ -1,7 +1,7 @@
 ---
-title: "Scott WHITLOCK | スコット・ウィットロック"
+title: "Scott WHITLOCK | スコット ・ WHITLOCK"
 name_en: "Scott WHITLOCK"
-name_ja: "スコット・ウィットロック"
+name_ja: "スコット ・ WHITLOCK"
 slug: "scott-whitlock"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/scott-whitlock"
 ---
 
 ## キャリア遍歴
-
+Aberavon RFC (2023 - 2024) -> Ospreys (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "Jamie Blamire | nan"
+title: "Jamie Blamire | "
 name_en: "Jamie Blamire"
-name_ja: "nan"
+name_ja: ""
 slug: "jamie-blamire"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "22/12/1997"
-age: 28.0
+birth_date: "1997.12.22"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"

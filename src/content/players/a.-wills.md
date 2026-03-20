@@ -1,7 +1,7 @@
 ---
-title: "A. Wills | nan"
+title: "A. Wills | "
 name_en: "A. Wills"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-wills"
 position: "Wing"
 height: "nan"

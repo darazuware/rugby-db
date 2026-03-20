@@ -1,7 +1,7 @@
 ---
-title: "W. Becconsall | nan"
+title: "W. Becconsall | "
 name_en: "W. Becconsall"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-becconsall"
 position: "Scrum-half"
 height: "nan"

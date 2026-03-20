@@ -1,7 +1,7 @@
 ---
-title: "J. Carrington | nan"
+title: "J. Carrington | "
 name_en: "J. Carrington"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-carrington"
 position: "Fullback"
 height: "nan"

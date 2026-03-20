@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matteo-desjeux"
 ---
 
 ## キャリア遍歴
-Rugby Club du Pays Muzillacais (2007 - 2014) -> Rugby Club Vannes (2014 - )
+Rugby Club du Pays Muzillacais (2007 - 2014) -> Rugby Club Vannes (2014 - 2026)

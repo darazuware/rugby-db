@@ -1,13 +1,13 @@
 ---
-title: "H. Lumley | nan"
+title: "H. Lumley | "
 name_en: "H. Lumley"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-lumley"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2007-XX-XX"
-age: 19.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

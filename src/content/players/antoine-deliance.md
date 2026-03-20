@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/antoine-deliance"
 ---
 
 ## キャリア遍歴
-XV Suranais (2009 - 2010) -> RC Viriat (2013 - 2019) -> Union Sportive Bressane Pays de l'Ain (2019 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )
+XV Suranais (2009 - 2010) -> RC Viriat (2013 - 2019) -> Union Sportive Bressane Pays de l'Ain (2019 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)

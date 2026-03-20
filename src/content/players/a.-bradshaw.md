@@ -1,13 +1,13 @@
 ---
-title: "A. Bradshaw | nan"
+title: "A. Bradshaw | "
 name_en: "A. Bradshaw"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-bradshaw"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "2000.03.13"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/jake-flannery"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "munster rugby (2018 - 2022) -> ulster rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

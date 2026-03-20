@@ -1,13 +1,13 @@
 ---
-title: "J. Ford-Robinson | nan"
+title: "J. Ford-Robinson | "
 name_en: "J. Ford-Robinson"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-ford-robinson"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "09/11/1993"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

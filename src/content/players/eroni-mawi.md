@@ -1,13 +1,13 @@
 ---
-title: "Eroni Mawi | nan"
+title: "Eroni Mawi | "
 name_en: "Eroni Mawi"
-name_ja: "nan"
+name_ja: ""
 slug: "eroni-mawi"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/06/1996"
-age: 29.0
+birth_date: "1996.02.06"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"

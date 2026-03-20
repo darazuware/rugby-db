@@ -1,13 +1,13 @@
 ---
-title: "Seb Atkinson | nan"
+title: "Seb Atkinson | "
 name_en: "Seb Atkinson"
-name_ja: "nan"
+name_ja: ""
 slug: "seb-atkinson"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2002-05-21"
-age: 23.0
+birth_date: "2002.05.21"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"

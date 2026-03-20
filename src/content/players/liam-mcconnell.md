@@ -10,12 +10,12 @@ birth_date: "2004.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/liam-mcconnell"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "boroughmuir rfc (2021 - 2022) -> edimbourg rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

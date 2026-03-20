@@ -1,13 +1,13 @@
 ---
-title: "T. Cowan | nan"
+title: "T. Cowan | "
 name_en: "T. Cowan"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-cowan"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "02/08/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

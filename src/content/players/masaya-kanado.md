@@ -7,16 +7,16 @@ position: "CTB"
 height: "180.0"
 weight: "88.0"
 birth_date: "1998.12.13"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "九州電力キューデンヴォルテクス（2025-26）"
 caps: ""
 high_school: "慶應義塾高校"
 university: "城南大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483716"
 ---
 
 ## キャリア遍歴
-
+九州電力キューデンヴォルテクス (2022 - )

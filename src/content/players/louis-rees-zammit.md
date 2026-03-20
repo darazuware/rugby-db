@@ -1,18 +1,18 @@
 ---
-title: "Louis Rees-Zammit | nan"
+title: "Louis Rees-Zammit | "
 name_en: "Louis Rees-Zammit"
-name_ja: "nan"
+name_ja: ""
 slug: "louis-rees-zammit"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1993.11.28"
-age: 32.0
+birth_date: "2001.02.02"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (27 caps)"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (27)"
 high_school: ""
 university: ""
 scraped_url: "nan"

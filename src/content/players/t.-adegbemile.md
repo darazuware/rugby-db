@@ -1,7 +1,7 @@
 ---
-title: "T. Adegbemile | nan"
+title: "T. Adegbemile | "
 name_en: "T. Adegbemile"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-adegbemile"
 position: "Lock"
 height: "nan"

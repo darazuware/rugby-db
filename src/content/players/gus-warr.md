@@ -1,13 +1,13 @@
 ---
-title: "Gus Warr | nan"
+title: "Gus Warr | "
 name_en: "Gus Warr"
-name_ja: "nan"
+name_ja: ""
 slug: "gus-warr"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "24/09/1999"
-age: 26.0
+birth_date: "1999.09.24"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"

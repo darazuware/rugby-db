@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/james-mckillop"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "queen's university (2023 - 2024) -> ulster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

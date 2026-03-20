@@ -1,7 +1,7 @@
 ---
-title: "Matthew URWIN | マシュー・アーウィン"
+title: "Matthew URWIN | マシュー ・ URWIN"
 name_en: "Matthew URWIN"
-name_ja: "マシュー・アーウィン"
+name_ja: "マシュー ・ URWIN"
 slug: "matthew-urwin"
 position: "SO"
 height: "181.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/matthew-urwin"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

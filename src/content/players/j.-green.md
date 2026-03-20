@@ -1,13 +1,13 @@
 ---
-title: "J. Green | nan"
+title: "J. Green | "
 name_en: "J. Green"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-green"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "16/03/2004"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

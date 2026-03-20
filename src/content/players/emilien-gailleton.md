@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emilien-gailleton"
 ---
 
 ## キャリア遍歴
-Cahors (2008 - 2017) -> Sporting Union Agenais (2017 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )
+Cahors (2008 - 2017) -> Sporting Union Agenais (2017 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2026)

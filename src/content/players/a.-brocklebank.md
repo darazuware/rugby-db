@@ -1,13 +1,13 @@
 ---
-title: "A. Brocklebank | nan"
+title: "A. Brocklebank | "
 name_en: "A. Brocklebank"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-brocklebank"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "09/06/1995"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

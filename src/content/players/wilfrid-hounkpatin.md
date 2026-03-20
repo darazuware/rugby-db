@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wilfrid-hounkpatin"
 ---
 
 ## キャリア遍歴
-Rugby Club Nîmois (2009 - 2010) -> Provence Rugby (2010 - 2011) -> Montpellier Hérault Rugby (2011 - 2026) -> Racing Club Narbonnais (2013 - 2014) -> Rouen Normandie Rugby (2014 - 2018) -> Castres Olympique (2018 - )
+Rugby Club Nîmois (2009 - 2010) -> Provence Rugby (2010 - 2011) -> Montpellier Hérault Rugby (2011 - 2013) -> Racing Club Narbonnais (2013 - 2014) -> Rouen Normandie Rugby (2014 - 2018) -> Castres Olympique (2018 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)

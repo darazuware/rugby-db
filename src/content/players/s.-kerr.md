@@ -1,13 +1,13 @@
 ---
-title: "S. Kerr | nan"
+title: "S. Kerr | "
 name_en: "S. Kerr"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-kerr"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "25/08/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

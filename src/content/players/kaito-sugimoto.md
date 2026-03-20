@@ -7,7 +7,7 @@ position: "WTB"
 height: "172.0"
 weight: "77.0"
 birth_date: "2001.10.17"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "静岡ブルーレヴズ（2025-26）"
 caps: ""
 high_school: "東京高校"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484196"
 ---
 
 ## キャリア遍歴
-
+静岡ブルーレヴズ (2024 - )

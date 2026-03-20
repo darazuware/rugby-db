@@ -1,13 +1,13 @@
 ---
-title: "Adam Radwan | nan"
+title: "Adam Radwan | "
 name_en: "Adam Radwan"
-name_ja: "nan"
+name_ja: ""
 slug: "adam-radwan"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1997.12.30"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"

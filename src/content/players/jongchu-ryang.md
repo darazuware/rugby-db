@@ -7,16 +7,16 @@ position: "SH"
 height: "171.0"
 weight: "76.0"
 birth_date: "1992.12.14"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "トヨタヴェルブリッツ（2025-26）"
-caps: "🇮🇪 Ireland代表 (72 caps)"
+caps: ""
 high_school: "大阪朝鮮高校"
 university: "京都産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484464"
 ---
 
 ## キャリア遍歴
-
+トヨタヴェルブリッツ (2021 - )

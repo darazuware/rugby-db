@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-lafage"
 ---
 
 ## キャリア遍歴
-US Colomiers (2009 - 2018) -> Stade Rochelais (2018 - 2020) -> Aviron Bayonnais (2019 - 2022) -> Rugby Club Vannes (2022 - )
+US Colomiers (2009 - 2018) -> Stade Rochelais (2018 - 2019) -> Aviron Bayonnais (2019 - 2019) -> Stade Rochelais (2020 - 2020) -> Aviron Bayonnais (2020 - 2022) -> Rugby Club Vannes (2022 - 2026)

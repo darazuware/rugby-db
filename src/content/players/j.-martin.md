@@ -1,13 +1,13 @@
 ---
-title: "J. Martin | nan"
+title: "J. Martin | "
 name_en: "J. Martin"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-martin"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1999-07-31"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

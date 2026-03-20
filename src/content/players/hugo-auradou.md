@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-auradou"
 ---
 
 ## キャリア遍歴
-CA Sarlat Périgord Noir (2010 - 2014) -> Stade Montois Rugby Pro (2014 - 2020) -> Section Paloise Béarn Pyrénées (2020 - )
+CA Sarlat Périgord Noir (2010 - 2014) -> Stade Montois Rugby Pro (2014 - 2020) -> Section Paloise Béarn Pyrénées (2020 - 2026)

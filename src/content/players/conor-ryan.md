@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/conor-ryan"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "university college cork (2024 - 2025) -> munster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

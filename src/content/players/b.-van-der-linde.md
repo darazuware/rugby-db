@@ -1,13 +1,13 @@
 ---
-title: "B. van der Linde | nan"
+title: "B. van der Linde | "
 name_en: "B. van der Linde"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-van-der-linde"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "30/11/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

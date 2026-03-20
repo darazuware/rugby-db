@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/jack-deegan"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cistercian college roscrea (2022 - 2025) -> leinster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

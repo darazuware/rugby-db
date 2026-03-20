@@ -1,22 +1,22 @@
 ---
-title: "Jannes POTGIETER | ヤネス-ポトヒーター"
+title: "Jannes POTGIETER | Jannes ・ POTGIETER"
 name_en: "Jannes POTGIETER"
-name_ja: "ヤネス-ポトヒーター"
+name_ja: "Jannes ・ POTGIETER"
 slug: "jannes-potgieter"
-position: "FL/No8"
+position: "Back row"
 height: "193.0"
 weight: "112.0"
 birth_date: "2003.05.05"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jannes-potgieter"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)

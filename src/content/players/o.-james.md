@@ -1,13 +1,13 @@
 ---
-title: "O. James | nan"
+title: "O. James | "
 name_en: "O. James"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-james"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2005.."
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

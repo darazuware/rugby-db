@@ -1,13 +1,13 @@
 ---
-title: "J. Ramm | nan"
+title: "J. Ramm | "
 name_en: "J. Ramm"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-ramm"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "1998-04-30"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

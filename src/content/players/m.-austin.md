@@ -1,13 +1,13 @@
 ---
-title: "M. Austin | nan"
+title: "M. Austin | "
 name_en: "M. Austin"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-austin"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "2000-11-30"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

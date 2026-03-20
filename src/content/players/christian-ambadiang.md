@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christian-ambadiang"
 ---
 
 ## キャリア遍歴
-Southern Kings (2019 - 2020) -> USON Nevers Rugby (2020 - 2024) -> Castres Olympique (2024 - )
+Southern Kings (2019 - 2020) -> USON Nevers Rugby (2020 - 2024) -> Castres Olympique (2024 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "A. Emens | nan"
+title: "A. Emens | "
 name_en: "A. Emens"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-emens"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "09/02/2002"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

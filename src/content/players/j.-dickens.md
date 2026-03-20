@@ -1,7 +1,7 @@
 ---
-title: "J. Dickens | nan"
+title: "J. Dickens | "
 name_en: "J. Dickens"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-dickens"
 position: "Scrum-half"
 height: "nan"

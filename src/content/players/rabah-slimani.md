@@ -15,7 +15,7 @@ team: "Leinster"
 caps: "🇫🇷 France (57)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "aas sarcelles rugby (2004 - 2005) -> stade français paris rugby (2005 - 2017) -> asm clermont auvergne (2017 - 2024) -> leinster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

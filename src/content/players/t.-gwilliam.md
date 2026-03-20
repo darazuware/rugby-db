@@ -1,13 +1,13 @@
 ---
-title: "T. Gwilliam | nan"
+title: "T. Gwilliam | "
 name_en: "T. Gwilliam"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-gwilliam"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "2000.07.04"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

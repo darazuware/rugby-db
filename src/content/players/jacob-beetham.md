@@ -1,7 +1,7 @@
 ---
-title: "Jacob BEETHAM | ジェイコブ-ビーサム"
+title: "Jacob BEETHAM | Jacob ・ BEETHAM"
 name_en: "Jacob BEETHAM"
-name_ja: "ジェイコブ-ビーサム"
+name_ja: "Jacob ・ BEETHAM"
 slug: "jacob-beetham"
 position: "FB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jacob-beetham"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2019 - 2026)

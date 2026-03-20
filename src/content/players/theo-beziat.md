@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-beziat"
 ---
 
 ## キャリア遍歴
-Racing Club Narbonnais (2004 - 2014) -> Stado Tarbes Pyrénées Rugby (2014 - 2017) -> Provence Rugby (2017 - 2020) -> Rugby Club Vannes (2020 - )
+Racing Club Narbonnais (2004 - 2014) -> Stado Tarbes Pyrénées Rugby (2014 - 2017) -> Provence Rugby (2017 - 2020) -> Rugby Club Vannes (2020 - 2026)

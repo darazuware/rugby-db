@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joey-carbery"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2015 - 2018) -> Munster Rugby (2018 - 2024) -> Union Bordeaux-Bègles (2024 - )
+Leinster Rugby (2015 - 2018) -> Munster Rugby (2018 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

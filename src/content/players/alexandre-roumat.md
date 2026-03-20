@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alexandre-roumat"
 ---
 
 ## キャリア遍歴
-Biarritz Olympique Pays Basque (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2022) -> Stade Toulousain (2022 - )
+Biarritz Olympique Pays Basque (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2022) -> Stade Toulousain (2022 - 2026)

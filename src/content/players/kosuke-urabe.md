@@ -7,15 +7,15 @@ position: "FL/No8"
 height: "178.0"
 weight: "97.0"
 birth_date: "1995.07.07"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
 caps: "U20,U23('15)"
 high_school: "東福岡高校"
 university: "筑波大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484785"
 ---
 
 ## キャリア遍歴

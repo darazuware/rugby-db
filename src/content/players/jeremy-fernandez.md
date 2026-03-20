@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeremy-fernandez"
 ---
 
 ## キャリア遍歴
-SC Mazamet (2002 - 2004) -> Aviron Castrais (2004 - 2009) -> Castres Olympique (2009 - )
+SC Mazamet (2002 - 2004) -> Aviron Castrais (2004 - 2009) -> Castres Olympique (2009 - 2026)

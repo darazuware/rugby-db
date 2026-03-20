@@ -1,13 +1,13 @@
 ---
-title: "Lewis Ludlow | nan"
+title: "Lewis Ludlow | "
 name_en: "Lewis Ludlow"
-name_ja: "nan"
+name_ja: ""
 slug: "lewis-ludlow"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1994-09-11"
-age: 31.0
+birth_date: "1994.09.11"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "🇯🇵 Japan代表 (26 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alifereti-duguivalu"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2017 - )
+Union Sportive Arlequins Perpignanais (2017 - 2026)

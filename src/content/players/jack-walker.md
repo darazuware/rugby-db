@@ -1,13 +1,13 @@
 ---
-title: "Jack Walker | nan"
+title: "Jack Walker | "
 name_en: "Jack Walker"
-name_ja: "nan"
+name_ja: ""
 slug: "jack-walker"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "05/06/1996"
-age: 29.0
+birth_date: "1996.05.06"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"

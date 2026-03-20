@@ -1,7 +1,7 @@
 ---
-title: "Alex BRYDEN | アレックス・ブライデン"
+title: "Alex BRYDEN | Alex ・ BRYDEN"
 name_en: "Alex BRYDEN"
-name_ja: "アレックス・ブライデン"
+name_ja: "Alex ・ BRYDEN"
 slug: "alex-bryden"
 position: "CTB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alex-bryden"
 ---
 
 ## キャリア遍歴
-
+Dumfries Saints (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

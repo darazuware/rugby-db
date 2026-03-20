@@ -10,7 +10,7 @@ birth_date: "1992.09.24"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Blues"
 caps: "🇹🇴 Tonga (4)"
 high_school: ""

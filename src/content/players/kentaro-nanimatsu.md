@@ -7,7 +7,7 @@ position: "CTB"
 height: "177.0"
 weight: "85.0"
 birth_date: "2001.08.17"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "浦安D-Rocks（2025-26）"
 caps: ""
 high_school: "東海大仰星高校"
 university: "東海大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483522"
 ---
 
 ## キャリア遍歴

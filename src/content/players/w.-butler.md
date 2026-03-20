@@ -1,13 +1,13 @@
 ---
-title: "W. Butler | nan"
+title: "W. Butler | "
 name_en: "W. Butler"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-butler"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2000-07-21"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

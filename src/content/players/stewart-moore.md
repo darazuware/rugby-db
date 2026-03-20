@@ -1,7 +1,7 @@
 ---
-title: "Stewart MOORE | スチュアート・ムーア"
+title: "Stewart MOORE | Stewart ・ MOORE"
 name_en: "Stewart MOORE"
-name_ja: "スチュアート・ムーア"
+name_ja: "Stewart ・ MOORE"
 slug: "stewart-moore"
 position: "CTB"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/stewart-moore"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2019 - 2025) -> Newcastle (2025 - 2025) -> Ulster Rugby (2025 - 2025) -> Newcastle (2026 - 2026) -> Ulster Rugby (2026 - 2026)

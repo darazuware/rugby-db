@@ -1,9 +1,9 @@
 ---
-title: "Caelan DORIS | ケーラン-ドリス"
+title: "Caelan DORIS | ケーラン ・ ドリス"
 name_en: "Caelan DORIS"
-name_ja: "ケーラン-ドリス"
+name_ja: "ケーラン ・ ドリス"
 slug: "caelan-doris"
-position: "FL/No8"
+position: "Back row"
 height: "193.0"
 weight: "106.0"
 birth_date: "1998.04.02"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (51)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/caelan-doris"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2017 - 2026)

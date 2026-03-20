@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sacha-zegueur"
 ---
 
 ## キャリア遍歴
-Oyonnax Rugby (2010 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )
+Oyonnax Rugby (2010 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2026)

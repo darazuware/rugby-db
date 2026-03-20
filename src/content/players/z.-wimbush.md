@@ -1,7 +1,7 @@
 ---
-title: "Z. Wimbush | nan"
+title: "Z. Wimbush | "
 name_en: "Z. Wimbush"
-name_ja: "nan"
+name_ja: ""
 slug: "z.-wimbush"
 position: "Wing"
 height: "nan"

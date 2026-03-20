@@ -1,9 +1,9 @@
 ---
-title: "Sean REFFELL | ショーン・レッフェル"
+title: "Sean REFFELL | ショーン ・ REFFELL"
 name_en: "Sean REFFELL"
-name_ja: "ショーン・レッフェル"
+name_ja: "ショーン ・ REFFELL"
 slug: "sean-reffell"
-position: "FL/No8"
+position: "Back row"
 height: "180.0"
 weight: "102.0"
 birth_date: "1998.11.04"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sean-reffell"
 ---
 
 ## キャリア遍歴
-
+Saracens (2017 - 2022) -> Ulster Rugby (2022 - 2026)

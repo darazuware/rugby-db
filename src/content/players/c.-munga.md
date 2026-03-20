@@ -1,13 +1,13 @@
 ---
-title: "C. Munga | nan"
+title: "C. Munga | "
 name_en: "C. Munga"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-munga"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2000-02-09"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

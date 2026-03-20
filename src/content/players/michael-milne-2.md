@@ -1,0 +1,22 @@
+---
+title: "Michael MILNE | マイケル ・ MILNE"
+name_en: "Michael MILNE"
+name_ja: "マイケル ・ MILNE"
+slug: "michael-milne-2"
+position: "PR"
+height: "183.0"
+weight: "115.0"
+birth_date: "1999.02.05"
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/michael-milne"
+---
+
+## キャリア遍歴
+Leinster Rugby (2018 - 2024) -> Munster Rugby (2024 - 2024) -> Leinster Rugby (2025 - 2025) -> Munster Rugby (2025 - 2026)

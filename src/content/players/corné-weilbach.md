@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/corne-weilbach"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2021 - 2022) -> blue bulls (2022 - 2023) -> western province (2023 - 2024) -> stormers (2024 - 2026)"
 ---
 
 ## キャリア遍歴

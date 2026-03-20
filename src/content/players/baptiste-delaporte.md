@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-delaporte"
 ---
 
 ## キャリア遍歴
-Olympique Labruguière XV (2004 - 2010) -> Sor Agout XV (2010 - 2011) -> Castres Olympique (2011 - )
+Olympique Labruguière XV (2004 - 2010) -> Sor Agout XV (2010 - 2011) -> Castres Olympique (2011 - 2026)

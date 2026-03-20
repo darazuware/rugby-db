@@ -1,7 +1,7 @@
 ---
-title: "Tomi LEWIS | トミ・ルイス"
+title: "Tomi LEWIS | Tomi ・ LEWIS"
 name_en: "Tomi LEWIS"
-name_ja: "トミ・ルイス"
+name_ja: "Tomi ・ LEWIS"
 slug: "tomi-lewis"
 position: "FB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tomi-lewis"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2017 - 2019) -> Ampthill Rugby (2019 - 2020) -> Scarlets (2020 - 2022) -> Jersey Reds (2022 - 2023) -> Scarlets (2023 - 2026)

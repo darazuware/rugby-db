@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tristan-tedder"
 ---
 
 ## キャリア遍歴
-Sharks (2015 - 2016) -> Stade Toulousain (2016 - 2021) -> Aviron Bayonnais (2018 - 2019) -> Association Sportive Béziers Hérault (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2026) -> Racing 92 (2023 - )
+Sharks (2015 - 2016) -> Stade Toulousain (2016 - 2018) -> Aviron Bayonnais (2018 - 2019) -> Stade Toulousain (2019 - 2020) -> Association Sportive Béziers Hérault (2020 - 2020) -> Stade Toulousain (2021 - 2021) -> Association Sportive Béziers Hérault (2021 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2023) -> Racing 92 (2023 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "B. Chamberlain | nan"
+title: "B. Chamberlain | "
 name_en: "B. Chamberlain"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-chamberlain"
 position: "Fly-half"
 height: "nan"

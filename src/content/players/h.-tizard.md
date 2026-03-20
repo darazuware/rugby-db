@@ -1,13 +1,13 @@
 ---
-title: "H. Tizard | nan"
+title: "H. Tizard | "
 name_en: "H. Tizard"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-tizard"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "31/03/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

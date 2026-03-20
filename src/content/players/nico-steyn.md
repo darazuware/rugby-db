@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/nico-steyn"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2020 - 2022) -> golden lions (2022 - 2023) -> lions rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

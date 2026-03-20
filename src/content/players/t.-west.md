@@ -1,13 +1,13 @@
 ---
-title: "T. West | nan"
+title: "T. West | "
 name_en: "T. West"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-west"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1996-11-02"
-age: 29.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

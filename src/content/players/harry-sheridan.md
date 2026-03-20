@@ -1,7 +1,7 @@
 ---
-title: "Harry SHERIDAN | ハリー-シェリダン"
+title: "Harry SHERIDAN | Harry ・ SHERIDAN"
 name_en: "Harry SHERIDAN"
-name_ja: "ハリー-シェリダン"
+name_ja: "Harry ・ SHERIDAN"
 slug: "harry-sheridan"
 position: "LO"
 height: "196.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harry-sheridan"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2020 - 2026)

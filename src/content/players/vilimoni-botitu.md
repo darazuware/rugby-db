@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇫🇯 Fiji代表 (8 caps)"
+caps: "🇫🇯 Fiji (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vilimoni-botitu"
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2019 - 2020) -> Castres Olympique (2020 - )
+FIDJI 7's (2019 - 2020) -> Castres Olympique (2020 - 2026)

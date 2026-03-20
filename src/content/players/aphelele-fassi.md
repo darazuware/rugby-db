@@ -1,7 +1,7 @@
 ---
-title: "Aphelele FASSI | アペレレ・ファッシ"
+title: "Aphelele FASSI | Aphelele ・ FASSI"
 name_en: "Aphelele FASSI"
-name_ja: "アペレレ・ファッシ"
+name_ja: "Aphelele ・ FASSI"
 slug: "aphelele-fassi"
 position: "FB"
 height: "190.0"
@@ -10,13 +10,13 @@ birth_date: "1998.01.23"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/aphelele-fassi"
 ---
 
 ## キャリア遍歴
-
+Sharks (2018 - 2026)

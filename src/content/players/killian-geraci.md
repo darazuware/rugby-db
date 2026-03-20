@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/killian-geraci"
 ---
 
 ## キャリア遍歴
-Seyssins (2006 - 2010) -> FC Grenoble Rugby (2010 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - )
+Seyssins (2006 - 2010) -> FC Grenoble Rugby (2010 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2026)

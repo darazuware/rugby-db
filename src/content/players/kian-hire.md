@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/kian-hire"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "swansea rfc (2022 - 2023) -> ospreys (2023 - 2026)"
 ---
 
 ## キャリア遍歴

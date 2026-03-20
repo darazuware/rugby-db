@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "🇼🇸 Samoa"
+caps: "Samoa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2010 - )
+Union Sportive Arlequins Perpignanais (2010 - 2026)

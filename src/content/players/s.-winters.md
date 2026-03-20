@@ -1,7 +1,7 @@
 ---
-title: "S. Winters | nan"
+title: "S. Winters | "
 name_en: "S. Winters"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-winters"
 position: "Wing"
 height: "nan"

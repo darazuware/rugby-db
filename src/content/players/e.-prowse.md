@@ -1,13 +1,13 @@
 ---
-title: "E. Prowse | nan"
+title: "E. Prowse | "
 name_en: "E. Prowse"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-prowse"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2000-10-27"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

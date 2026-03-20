@@ -10,7 +10,7 @@ birth_date: "1999.04.04"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Western Force"
 caps: "🇦🇺 Australia (3)"
 high_school: ""

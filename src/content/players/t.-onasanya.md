@@ -1,13 +1,13 @@
 ---
-title: "T. Onasanya | nan"
+title: "T. Onasanya | "
 name_en: "T. Onasanya"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-onasanya"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "24/05/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

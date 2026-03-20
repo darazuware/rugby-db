@@ -1,7 +1,7 @@
 ---
-title: "R. Lane | nan"
+title: "R. Lane | "
 name_en: "R. Lane"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-lane"
 position: "Wing"
 height: "nan"

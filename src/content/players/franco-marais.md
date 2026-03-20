@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/franco-marais"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2013 - 2018) -> gloucester rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> urayasu d-rocks (2022 - 2024) -> lions rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

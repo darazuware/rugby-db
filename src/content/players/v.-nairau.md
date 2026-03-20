@@ -1,13 +1,13 @@
 ---
-title: "V. Nairau | nan"
+title: "V. Nairau | "
 name_en: "V. Nairau"
-name_ja: "nan"
+name_ja: ""
 slug: "v.-nairau"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "03/06/2002"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/giovanni-montemauri"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stade français paris rugby (2019 - 2020) -> lazio (2020 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - 2026)"
 ---
 
 ## キャリア遍歴

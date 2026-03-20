@@ -1,7 +1,7 @@
 ---
-title: "L. Young | nan"
+title: "L. Young | "
 name_en: "L. Young"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-young"
 position: "Hooker"
 height: "nan"

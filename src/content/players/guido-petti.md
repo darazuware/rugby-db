@@ -1,13 +1,13 @@
 ---
-title: "Guido Petti | nan"
+title: "Guido Petti | "
 name_en: "Guido Petti"
-name_ja: "nan"
+name_ja: ""
 slug: "guido-petti"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "17/11/1994"
-age: 31.0
+birth_date: "1994.11.17"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

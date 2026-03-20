@@ -1,13 +1,13 @@
 ---
-title: "R. Birch | nan"
+title: "R. Birch | "
 name_en: "R. Birch"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-birch"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "20/09/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

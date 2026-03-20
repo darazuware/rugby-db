@@ -1,13 +1,13 @@
 ---
-title: "Dafydd Jenkins | nan"
+title: "Dafydd Jenkins | "
 name_en: "Dafydd Jenkins"
-name_ja: "nan"
+name_ja: ""
 slug: "dafydd-jenkins"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "12/05/2002"
-age: 23.0
+birth_date: "2002.12.05"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"

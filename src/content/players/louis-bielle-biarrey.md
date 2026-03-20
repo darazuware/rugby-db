@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-bielle-biarrey"
 ---
 
 ## キャリア遍歴
-Seyssins (2008 - 2016) -> FC Grenoble Rugby (2016 - 2021) -> Union Bordeaux-Bègles (2021 - )
+Seyssins (2008 - 2016) -> FC Grenoble Rugby (2016 - 2021) -> Union Bordeaux-Bègles (2021 - 2026)

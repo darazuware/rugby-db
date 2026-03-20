@@ -1,21 +1,21 @@
 ---
-title: "Nick Jooste | ニック ・ユースト"
-name_en: "Nick Jooste"
-name_ja: "ニック ・ユースト"
+title: "Nick JOOSTE | "
+name_en: "Nick JOOSTE"
+name_ja: ""
 slug: "nick-jooste"
-position: "CTB"
-height: "190.0"
-weight: "94.0"
-birth_date: "1997.07.07"
-age: 28.0
+position: "Centre"
+height: "07/07/1997"
+weight: "1"
+birth_date: "nan"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "nan"
-team: "レッドハリケーンズ大阪（2025-26）"
+league: "mlr"
+team: "The San Diego Legion rugby team for 2024/2025"
 caps: ""
-high_school: "Hale High School Southern Queensland"
+high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/nick-jooste"
 ---
 
 ## キャリア遍歴

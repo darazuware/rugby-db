@@ -15,7 +15,7 @@ team: "Stormers"
 caps: "🇿🇦 South Africa (63)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2011 - 2026)"
 ---
 
 ## キャリア遍歴

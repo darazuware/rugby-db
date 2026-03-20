@@ -15,7 +15,7 @@ team: "Scarlets"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (38)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2014 - 2026)"
 ---
 
 ## キャリア遍歴

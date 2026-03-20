@@ -1,7 +1,7 @@
 ---
-title: "Bundee AKI | ベンディ-アキ"
+title: "Bundee AKI | バンディ ・ AKI"
 name_en: "Bundee AKI"
-name_ja: "ベンディ-アキ"
+name_ja: "バンディ ・ AKI"
 slug: "bundee-aki"
 position: "CTB"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: "🇮🇪 Ireland (65)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/bundee-aki"
 ---
 
 ## キャリア遍歴
-New Zealand
+Chiefs (2013 - 2014) -> Connacht Rugby (2014 - 2026)

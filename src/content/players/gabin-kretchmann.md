@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "🇮🇹 Italy代表 (2 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gabin-kretchmann"
 ---
 
 ## キャリア遍歴
-JSI Elne (2011 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - )
+JSI Elne (2011 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - 2026)

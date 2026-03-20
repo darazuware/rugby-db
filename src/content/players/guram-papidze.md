@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guram-papidze"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2016 - 2018) -> USON Nevers Rugby (2018 - 2021) -> Stade Rochelais (2021 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )
+Lyon Olympique Universitaire Rugby (2016 - 2018) -> USON Nevers Rugby (2018 - 2021) -> Stade Rochelais (2021 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2026)

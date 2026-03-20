@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nathanael-hulleu"
 ---
 
 ## キャリア遍歴
-FC Grenoble Rugby (2015 - 2020) -> Union Bordeaux-Bègles (2020 - 2022) -> Rugby Club Vannes (2022 - 2023) -> Castres Olympique (2023 - )
+FC Grenoble Rugby (2015 - 2020) -> Union Bordeaux-Bègles (2020 - 2022) -> Rugby Club Vannes (2022 - 2023) -> Castres Olympique (2023 - 2026)

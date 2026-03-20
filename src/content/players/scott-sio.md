@@ -1,13 +1,13 @@
 ---
-title: "Scott Sio | nan"
+title: "Scott Sio | "
 name_en: "Scott Sio"
-name_ja: "nan"
+name_ja: ""
 slug: "scott-sio"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "16/10/1991"
-age: 34.0
+birth_date: "1991.10.16"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

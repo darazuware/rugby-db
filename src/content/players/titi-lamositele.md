@@ -1,13 +1,13 @@
 ---
-title: "Titi Lamositele | nan"
+title: "Titi Lamositele | "
 name_en: "Titi Lamositele"
-name_ja: "nan"
+name_ja: ""
 slug: "titi-lamositele"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/11/1995"
-age: 30.0
+birth_date: "1995.02.11"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

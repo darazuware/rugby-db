@@ -1,7 +1,7 @@
 ---
-title: "Z. Carr | nan"
+title: "Z. Carr | "
 name_en: "Z. Carr"
-name_ja: "nan"
+name_ja: ""
 slug: "z.-carr"
 position: "Flanker"
 height: "nan"

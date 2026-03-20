@@ -1,7 +1,7 @@
 ---
-title: "Enrico LUCCHIN | エンリコ・ルッキン"
+title: "Enrico LUCCHIN | Enrico ・ LUCCHIN"
 name_en: "Enrico LUCCHIN"
-name_ja: "エンリコ・ルッキン"
+name_ja: "Enrico ・ LUCCHIN"
 slug: "enrico-lucchin"
 position: "CTB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "Italy"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/enrico-lucchin"
 ---
 
 ## キャリア遍歴
-Italy
+Zebre Parma (2019 - 2026)

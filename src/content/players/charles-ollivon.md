@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charles-ollivon"
 ---
 
 ## キャリア遍歴
-Saint-Pée UC (2004 - 2009) -> Aviron Bayonnais (2009 - 2015) -> Rugby Club Toulonnais (2015 - )
+Saint-Pée UC (2004 - 2009) -> Aviron Bayonnais (2009 - 2015) -> Rugby Club Toulonnais (2015 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "H. Thacker | nan"
+title: "H. Thacker | "
 name_en: "H. Thacker"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-thacker"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "18/02/1994"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

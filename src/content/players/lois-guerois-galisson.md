@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lois-guerois-galisson"
 ---
 
 ## キャリア遍歴
-Loches ROC rugby (2007 - 2018) -> U.S. Tours (2018 - 2019) -> Rugby Club Auch (2019 - 2022) -> Castres Olympique (2022 - )
+Loches ROC rugby (2007 - 2018) -> U.S. Tours (2018 - 2019) -> Rugby Club Auch (2019 - 2022) -> Castres Olympique (2022 - 2026)

@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kalvin-gourgues"
 ---
 
 ## キャリア遍歴
-Grenade Sports (2010 - 2019) -> Stade Toulousain (2019 - )
+Grenade Sports (2010 - 2019) -> Stade Toulousain (2019 - 2026)

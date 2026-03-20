@@ -7,16 +7,16 @@ position: "CTB"
 height: "182.0"
 weight: "94.0"
 birth_date: "2001.04.07"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
-caps: "🇯🇵 XV('25)、日本代表(5)"
+caps: "XV('25)、日本代表(5)"
 high_school: "東福岡高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483785"
 ---
 
 ## キャリア遍歴
-
+クボタスピアーズ船橋・東京ベイ (2023 - )

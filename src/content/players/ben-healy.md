@@ -1,7 +1,7 @@
 ---
-title: "Ben HEALY | ベン・ヒーリー"
+title: "Ben HEALY | ベン ・ HEALY"
 name_en: "Ben HEALY"
-name_ja: "ベン・ヒーリー"
+name_ja: "ベン ・ HEALY"
 slug: "ben-healy"
 position: "SO"
 height: "191.0"
@@ -10,13 +10,13 @@ birth_date: "1999.06.29"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
 caps: "Squad caps (1037)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-healy"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2019 - 2023) -> Edimbourg Rugby (2023 - 2026)

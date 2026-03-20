@@ -1,7 +1,7 @@
 ---
-title: "G. Alexander | nan"
+title: "G. Alexander | "
 name_en: "G. Alexander"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-alexander"
 position: "Prop"
 height: "nan"

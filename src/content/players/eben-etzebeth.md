@@ -10,12 +10,12 @@ birth_date: "1991.10.29"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: "🇿🇦 South Africa (113)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2014 - 2019) -> rugby club toulonnais (2019 - 2022) -> sharks (2022 - 2026)"
 ---
 
 ## キャリア遍歴

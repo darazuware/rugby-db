@@ -10,12 +10,12 @@ birth_date: "2000.06.16"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/emmanuel-tshituka"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2020 - 2024) -> sharks (2024 - 2026)"
 ---
 
 ## キャリア遍歴

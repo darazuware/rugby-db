@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathieu-smaili"
 ---
 
 ## キャリア遍歴
-RC Hyères Carqueiranne La Crau (2006 - 2010) -> Rugby Club Toulonnais (2010 - 2026) -> Stade Montois Rugby Pro (2020 - )
+RC Hyères Carqueiranne La Crau (2006 - 2010) -> Rugby Club Toulonnais (2010 - 2020) -> Stade Montois Rugby Pro (2020 - 2021) -> Rugby Club Toulonnais (2021 - 2026)

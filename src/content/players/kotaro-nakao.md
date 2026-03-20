@@ -7,15 +7,15 @@ position: "SH"
 height: "177.0"
 weight: "78.0"
 birth_date: "1992.05.28"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "九州電力キューデンヴォルテクス（2025-26）"
 caps: ""
 high_school: "福岡高校"
 university: "早稲田大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483706"
 ---
 
 ## キャリア遍歴

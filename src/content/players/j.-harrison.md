@@ -1,7 +1,7 @@
 ---
-title: "J. Harrison | nan"
+title: "J. Harrison | "
 name_en: "J. Harrison"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-harrison"
 position: "Centre"
 height: "nan"

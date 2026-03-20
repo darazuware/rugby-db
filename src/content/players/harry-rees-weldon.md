@@ -1,9 +1,9 @@
 ---
-title: "Harry REES-WELDON | ハリー・リース＝ウェルドン"
+title: "Harry REES-WELDON | Harry ・ REES ・ WELDON"
 name_en: "Harry REES-WELDON"
-name_ja: "ハリー・リース＝ウェルドン"
+name_ja: "Harry ・ REES ・ WELDON"
 slug: "harry-rees-weldon"
-position: "WTB"
+position: "Winger"
 height: "186.0"
 weight: "100.0"
 birth_date: "2005.."
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/harry-rees-weldon"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2023 - 2026)

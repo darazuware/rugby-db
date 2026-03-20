@@ -1,0 +1,22 @@
+---
+title: "Christie GROBBELAAR | クリスティー・グロブラール"
+name_en: "Christie GROBBELAAR"
+name_ja: "クリスティー・グロブラール"
+slug: "christie-grobbelaar-2"
+position: "WTB"
+height: "192.0"
+weight: "95.0"
+birth_date: "2000.05.25"
+age: null
+country: ""
+birth_place_scraped: ""
+league: "mlr"
+team: "Sharks"
+caps: "https://all.rugby/player/christie-grobbelaar"
+high_school: ""
+university: ""
+scraped_url: "af. sud 7's (2020 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)"
+---
+
+## キャリア遍歴
+

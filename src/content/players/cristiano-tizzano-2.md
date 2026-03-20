@@ -1,0 +1,22 @@
+---
+title: "Cristiano TIZZANO | クリスティアーノ・ティッツァーノ"
+name_en: "Cristiano TIZZANO"
+name_ja: "クリスティアーノ・ティッツァーノ"
+slug: "cristiano-tizzano-2"
+position: "SH"
+height: "174.0"
+weight: "80.0"
+birth_date: "2003.08.07"
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Trévise"
+caps: "https://all.rugby/player/cristiano-tizzano"
+high_school: ""
+university: ""
+scraped_url: "mogliano veneto rugby (2024 - 2025) -> benetton rugby trévise (2025 - 2025) -> mogliano veneto rugby (2025 - 2025) -> benetton rugby trévise (2026 - 2026) -> mogliano veneto rugby (2026 - 2026)"
+---
+
+## キャリア遍歴
+

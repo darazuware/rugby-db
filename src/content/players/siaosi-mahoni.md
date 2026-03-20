@@ -1,0 +1,22 @@
+---
+title: "Siaosi MAHONI | "
+name_en: "Siaosi MAHONI"
+name_ja: ""
+slug: "siaosi-mahoni"
+position: "Lock"
+height: "29/01/1997"
+weight: "2"
+birth_date: "nan"
+age: 29
+country: ""
+birth_place_scraped: ""
+league: "mlr"
+team: "The Seattle Seawolves rugby team for 2024/2025"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/siaosi-mahoni"
+---
+
+## キャリア遍歴
+

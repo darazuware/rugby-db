@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nolann-donguy"
 ---
 
 ## キャリア遍歴
-Seilh Aussonne Fenouillet XV (2010 - 2011) -> AS Fontenay-aux-Roses (2011 - 2012) -> Racing Le Plessis-Robinson (2012 - 2014) -> AC Boulogne-Billancourt (2014 - 2016) -> RC Aubergenville Elisabethville (2016 - 2019) -> Racing 92 (2019 - )
+Seilh Aussonne Fenouillet XV (2010 - 2011) -> AS Fontenay-aux-Roses (2011 - 2012) -> Racing Le Plessis-Robinson (2012 - 2014) -> AC Boulogne-Billancourt (2014 - 2016) -> RC Aubergenville Elisabethville (2016 - 2019) -> Racing 92 (2019 - 2026)

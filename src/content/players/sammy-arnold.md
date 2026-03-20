@@ -1,13 +1,13 @@
 ---
-title: "Sammy Arnold | nan"
+title: "Sammy Arnold | "
 name_en: "Sammy Arnold"
-name_ja: "nan"
+name_ja: ""
 slug: "sammy-arnold"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1996.04.08"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "premiership"

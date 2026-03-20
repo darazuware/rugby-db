@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/robin-taccola"
 ---
 
 ## キャリア遍歴
-Rueil Athlétic Club Rugby (2011 - 2014) -> RC Suresnes (2014 - 2016) -> Rugby Club Vannes (2016 - )
+Rueil Athlétic Club Rugby (2011 - 2014) -> RC Suresnes (2014 - 2016) -> Rugby Club Vannes (2016 - 2026)

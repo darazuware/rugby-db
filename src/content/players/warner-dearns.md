@@ -10,7 +10,7 @@ birth_date: "2002.04.11"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Hurricanes"
 caps: "🇯🇵 Japan (7)"
 high_school: ""

@@ -15,7 +15,7 @@ team: "Bulls"
 caps: "🇿🇦 South Africa (10)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2019 - 2024) -> mitsubishi sagamihara dynaboars (2024 - 2024) -> bulls (2025 - 2025) -> mitsubishi sagamihara dynaboars (2025 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴

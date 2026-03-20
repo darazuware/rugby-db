@@ -1,18 +1,18 @@
 ---
-title: "Nick Tompkins | nan"
+title: "Nick Tompkins | "
 name_en: "Nick Tompkins"
-name_ja: "nan"
+name_ja: ""
 slug: "nick-tompkins"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1995.02.16"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Saracens"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (38 caps)"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (38)"
 high_school: ""
 university: ""
 scraped_url: "nan"

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matteo-le-corvec"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2015 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )
+Rugby Club Toulonnais (2015 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2026)

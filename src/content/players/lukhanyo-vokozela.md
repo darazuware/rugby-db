@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/lukhanyo-vokozela"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2021 - 2024) -> stormers (2024 - 2026)"
 ---
 
 ## キャリア遍歴

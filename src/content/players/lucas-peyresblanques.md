@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-peyresblanques"
 ---
 
 ## キャリア遍歴
-Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013) -> Biarritz Olympique Pays Basque (2013 - 2022) -> Stade Français Paris Rugby (2022 - )
+Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013) -> Biarritz Olympique Pays Basque (2013 - 2022) -> Stade Français Paris Rugby (2022 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "WillGriff John | nan"
+title: "WillGriff John | "
 name_en: "WillGriff John"
-name_ja: "nan"
+name_ja: ""
 slug: "willgriff-john"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "12/04/1992"
-age: 33.0
+birth_date: "1992.12.04"
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "premiership"

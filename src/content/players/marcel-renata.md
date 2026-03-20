@@ -10,7 +10,7 @@ birth_date: "1994.02.24"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Blues"
 caps: ""
 high_school: ""

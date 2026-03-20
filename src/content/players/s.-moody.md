@@ -1,7 +1,7 @@
 ---
-title: "S. Moody | nan"
+title: "S. Moody | "
 name_en: "S. Moody"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-moody"
 position: "Hooker"
 height: "nan"

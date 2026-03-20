@@ -1,7 +1,7 @@
 ---
-title: "Jean SMITH | ジャン-スミス"
+title: "Jean SMITH | Jean ・ スミス"
 name_en: "Jean SMITH"
-name_ja: "ジャン-スミス"
+name_ja: "Jean ・ スミス"
 slug: "jean-smith"
 position: "SO"
 height: "181.0"
@@ -10,13 +10,13 @@ birth_date: "2003.04.01"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jean-smith"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)

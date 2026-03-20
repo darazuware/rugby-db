@@ -7,16 +7,16 @@ position: "LO"
 height: "187.0"
 weight: "105.0"
 birth_date: "1989.12.06"
-age: 36.0
+age: 36
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "横浜キヤノンイーグルス（2025-26）"
-caps: "🇯🇵 U20('08)、セブンズ日本(3)、日本代表(2)"
+caps: "U20('08)、セブンズ日本(3)、日本代表(2)"
 high_school: "東海大仰星高校"
 university: "東海大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484839"
 ---
 
 ## キャリア遍歴
-
+横浜キヤノンイーグルス (2021 - )

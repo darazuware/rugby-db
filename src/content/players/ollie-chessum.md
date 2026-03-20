@@ -1,13 +1,13 @@
 ---
-title: "Ollie Chessum | nan"
+title: "Ollie Chessum | "
 name_en: "Ollie Chessum"
-name_ja: "nan"
+name_ja: ""
 slug: "ollie-chessum"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "09/06/2000"
-age: 25.0
+birth_date: "2000.09.06"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

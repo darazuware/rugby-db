@@ -1,18 +1,18 @@
 ---
-title: "Matias Moroni | nan"
+title: "Matias Moroni | "
 name_en: "Matias Moroni"
-name_ja: "nan"
+name_ja: ""
 slug: "matias-moroni"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1991.03.29"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "🇦🇷 Argentina代表 (74 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "nan"

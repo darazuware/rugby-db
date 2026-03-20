@@ -1,7 +1,7 @@
 ---
-title: "Chris COLEMAN | クリス-コールマン"
+title: "Chris COLEMAN | クリス ・ COLEMAN"
 name_en: "Chris COLEMAN"
-name_ja: "クリス-コールマン"
+name_ja: "クリス ・ COLEMAN"
 slug: "chris-coleman"
 position: "PR"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/chris-coleman"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2017 - 2026)

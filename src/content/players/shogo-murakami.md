@@ -7,16 +7,16 @@ position: "PR"
 height: "178.0"
 weight: "113.0"
 birth_date: "1996.08.01"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "狭山セコムラガッツ（2025-26）"
 caps: ""
 high_school: "新田高校"
 university: "立正大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484114"
 ---
 
 ## キャリア遍歴
-
+宗像サニックスブルース (2021 - 2022) -> 狭山セコムラガッツ (2024 - )

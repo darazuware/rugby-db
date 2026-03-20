@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/neethling-fouche"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2017 - 2019) -> central cheetahs (2019 - 2020) -> stormers (2020 - 2026)"
 ---
 
 ## キャリア遍歴

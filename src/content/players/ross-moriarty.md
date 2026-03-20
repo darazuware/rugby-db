@@ -15,7 +15,7 @@ team: "Ospreys"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (34)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "gloucester rugby (2013 - 2018) -> dragons rfc (2018 - 2022) -> ca brive corrèze limousin (2022 - 2022) -> dragons rfc (2023 - 2023) -> ca brive corrèze limousin (2023 - 2025) -> ospreys (2025 - 2026)"
 ---
 
 ## キャリア遍歴

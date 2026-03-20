@@ -1,7 +1,7 @@
 ---
-title: "John MCKEE | ジョン・マッキー"
+title: "John MCKEE | ジョン ・ MCKEE"
 name_en: "John MCKEE"
-name_ja: "ジョン・マッキー"
+name_ja: "ジョン ・ MCKEE"
 slug: "john-mckee"
 position: "HO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/john-mckee"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2018 - 2026)

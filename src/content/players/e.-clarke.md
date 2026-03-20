@@ -1,17 +1,17 @@
 ---
-title: "E. Clarke | nan"
+title: "E. Clarke | "
 name_en: "E. Clarke"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-clarke"
-position: "Hooker"
+position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "06/12/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"
-team: "Saracens"
+team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
@@ -19,4 +19,4 @@ scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Saracens (2025 - )
+Harlequins (2025 - )

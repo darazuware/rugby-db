@@ -10,7 +10,7 @@ birth_date: "1999.10.11"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Brumbies"
 caps: ""
 high_school: ""

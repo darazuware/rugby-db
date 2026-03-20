@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "190.0"
 weight: "107.0"
 birth_date: "2002.01.05"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "コベルコ神戸スティーラーズ（2025-26）"
 caps: ""
 high_school: "アフリカーンスボーイズ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483970"
 ---
 
 ## キャリア遍歴

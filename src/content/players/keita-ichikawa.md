@@ -7,16 +7,16 @@ position: "CTB"
 height: "172.0"
 weight: "83.0"
 birth_date: "1998.10.10"
-age: 27.0
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
 caps: ""
 high_school: "日新高校"
 university: "天理大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484415"
 ---
 
 ## キャリア遍歴
-
+豊田自動織機シャトルズ愛知 (2022 - )

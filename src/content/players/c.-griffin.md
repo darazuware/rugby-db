@@ -1,7 +1,7 @@
 ---
-title: "C. Griffin | nan"
+title: "C. Griffin | "
 name_en: "C. Griffin"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-griffin"
 position: "Centre"
 height: "nan"

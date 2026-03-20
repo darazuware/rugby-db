@@ -1,13 +1,13 @@
 ---
-title: "Cameron Henderson | nan"
+title: "Cameron Henderson | "
 name_en: "Cameron Henderson"
-name_ja: "nan"
+name_ja: ""
 slug: "cameron-henderson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "13/01/2000"
-age: 26.0
+birth_date: "2000.01.13"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"

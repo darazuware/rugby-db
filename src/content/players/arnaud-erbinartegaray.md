@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arnaud-erbinartegaray"
 ---
 
 ## キャリア遍歴
-Avenir Barcus (2009 - 2019) -> Sport Athlétique Mauléonais (2019 - 2021) -> Aviron Bayonnais (2021 - )
+Avenir Barcus (2009 - 2019) -> Sport Athlétique Mauléonais (2019 - 2021) -> Aviron Bayonnais (2021 - 2026)

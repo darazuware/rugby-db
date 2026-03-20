@@ -1,13 +1,13 @@
 ---
-title: "Ale Loman | nan"
+title: "Ale Loman | "
 name_en: "Ale Loman"
-name_ja: "nan"
+name_ja: ""
 slug: "ale-loman"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "15/05/2000"
-age: 25.0
+birth_date: "2000.05.15"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "premiership"

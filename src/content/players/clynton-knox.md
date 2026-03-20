@@ -7,16 +7,16 @@ position: "CTB"
 height: "182.0"
 weight: "98.0"
 birth_date: "1992.12.27"
-age: 33.0
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "マツダスカイアクティブズ広島（2025-26）"
 caps: ""
 high_school: "コーパスクリスティ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484615"
 ---
 
 ## キャリア遍歴
-
+三重ホンダヒート (2021 - 2024) -> マツダスカイアクティブズ広島 (2024 - )

@@ -1,9 +1,9 @@
 ---
-title: "Max FLYNN | マックス・フリン"
+title: "Max FLYNN | Max ・ FLYNN"
 name_en: "Max FLYNN"
-name_ja: "マックス・フリン"
+name_ja: "Max ・ FLYNN"
 slug: "max-flynn"
-position: "FL/No8"
+position: "Back row"
 height: "nan"
 weight: "nan"
 birth_date: "2004.."
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/max-flynn"
 ---
 
 ## キャリア遍歴
-
+Galway Corinthians RFC (2023 - 2024) -> Connacht Rugby (2024 - 2026)

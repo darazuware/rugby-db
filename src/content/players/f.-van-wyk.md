@@ -1,13 +1,13 @@
 ---
-title: "F. van Wyk | nan"
+title: "F. van Wyk | "
 name_en: "F. van Wyk"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-van-wyk"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "30/07/1991"
-age: 34.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

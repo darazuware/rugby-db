@@ -1,7 +1,7 @@
 ---
-title: "Oliver REID | オリヴァー・リード"
+title: "Oliver REID | Oliver ・ REID"
 name_en: "Oliver REID"
-name_ja: "オリヴァー・リード"
+name_ja: "Oliver ・ REID"
 slug: "oliver-reid"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/oliver-reid"
 ---
 
 ## キャリア遍歴
-
+Western Province (2024 - 2025) -> Stormers (2025 - 2026)

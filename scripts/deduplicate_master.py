@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 import re
 
-INPUT_CSV_PATH = 'data_sources/final_master_data_v25_consolidated.csv'
+INPUT_CSV_PATH = 'data_sources/final_master_data_v26_mlr_integrated.csv'
 SOURCE_V17_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
 SOURCE_REPRESENTATIVES_PATH = 'data_sources/national_representatives.csv'
 OUTPUT_CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
@@ -22,6 +22,15 @@ FLAG_MAP = {
 def normalize_name(name):
     if not name or pd.isna(name): return ""
     return re.sub(r'[^a-zA-Z]', '', str(name)).lower()
+
+def get_best_value(row, col_choices):
+    """複数の候補カラムから最初に有効な値を持つものを物理取得"""
+    for col in col_choices:
+        if col in row:
+            val = row.get(col)
+            if pd.notna(val) and str(val).strip() != "" and str(val).lower() != "nan":
+                return str(val).strip()
+    return ""
 
 def is_low_quality(caps_str):
     c = str(caps_str).strip()
@@ -68,8 +77,10 @@ def deduplicate():
     # マージ実行
     def rescue_caps(row):
         url = str(row.get('Scraped_Url', '')).strip().lower()
-        name_norm = normalize_name(row.get('英語名'))
-        current_caps = str(row.get('代表キャップ数', '')).strip()
+        # 英語名の候補
+        name_en = get_best_value(row, ['英語名', 'Full_Name', 'Player_Name'])
+        name_norm = normalize_name(name_en)
+        current_caps = get_best_value(row, ['代表キャップ数', 'Representative_Caps', 'International_Caps'])
         
         if is_low_quality(current_caps):
             if name_norm in caps_by_name:
@@ -78,43 +89,54 @@ def deduplicate():
                 rescued = caps_by_url[url]
                 if not is_low_quality(rescued):
                     return rescued
-        return row.get('代表キャップ数')
+        return current_caps
 
-    df['代表キャップ数'] = df.apply(rescue_caps, axis=1)
+    # 新しいDataFrame用のリスト
+    processed_rows = []
+    for _, row in df.iterrows():
+        new_row = {
+            'Player_Name': get_best_value(row, ['英語名', 'Full_Name', 'Player_Name']),
+            'Full_Name': get_best_value(row, ['選手名', 'Full_Name']),
+            '選手名_カタカナ': get_best_value(row, ['選手名_カタカナ', '選手名']),
+            'Position': get_best_value(row, ['ポジション', 'Position']),
+            'Current_Team': get_best_value(row, ['所属チーム', 'Current_Team']),
+            'League': get_best_value(row, ['リーグ', 'League']),
+            'Height': get_best_value(row, ['身長', 'Height']),
+            'Weight': get_best_value(row, ['体重', 'Weight']),
+            'Birth_Date': get_best_value(row, ['生年月日', 'Birth_Date']),
+            'Age': get_best_value(row, ['年齢', 'Age']),
+            'Scraped_Url': get_best_value(row, ['Scraped_Url', 'URL']),
+            'キャリア遍歴': get_best_value(row, ['キャリア遍歴', 'Full_Career']),
+            'High_School': get_best_value(row, ['高校', 'High_School']),
+            'University': get_best_value(row, ['大学', 'University']),
+            'Representative_Caps': rescue_caps(row)
+        }
+        processed_rows.append(new_row)
 
-    # 正規化
-    column_map = {
-        '英語名': 'Player_Name', '選手名': 'Full_Name', '選手名_カタカナ': '選手名_カタカナ',
-        '生年月日': 'Birth_Date', '年齢': 'Age', '身長': 'Height', '体重': 'Weight',
-        'ポジション': 'Position', '所属チーム': 'Current_Team', 'リーグ': 'League',
-        '代表キャップ数': 'Representative_Caps', 'Scraped_Url': 'Scraped_Url',
-        'キャリア遍歴': 'キャリア遍歴', '高校': 'High_School', '大学': 'University'
-    }
-    df = df.rename(columns=column_map)
-
-    # クレンジング
-    def clean_caps(val):
-        v = str(val).strip()
-        if 'all.rugby' in v or 'http' in v: return ""
-        if v == 'nan' or v == '0' or v == '0.0': return ""
-        return val
-    
-    if 'Representative_Caps' in df.columns:
-        df['Representative_Caps'] = df['Representative_Caps'].apply(clean_caps)
+    final_df = pd.DataFrame(processed_rows)
 
     # 重複排除
-    if 'Scraped_Url' in df.columns:
-        df['Scraped_Url'] = df['Scraped_Url'].astype(str).str.strip().str.lower()
-        df.loc[df['Scraped_Url'] == 'nan', 'Scraped_Url'] = np.nan
-        df['nan_count'] = df.isnull().sum(axis=1)
-        mask = df['Scraped_Url'].notna()
-        with_url = df[mask].copy()
-        no_url = df[~mask].copy()
+    if 'Scraped_Url' in final_df.columns:
+        final_df['Scraped_Url'] = final_df['Scraped_Url'].astype(str).str.strip().str.lower()
+        # 有効なURLを持つものと持たないものに分離
+        mask = (final_df['Scraped_Url'] != "") & (final_df['Scraped_Url'] != "nan")
+        with_url = final_df[mask].copy()
+        no_url = final_df[~mask].copy()
+        
+        # URLがある場合はURLで重複排除（データの物理的に充実している方を残す）
+        with_url['nan_count'] = with_url.isnull().sum(axis=1)
         deduped_with_url = with_url.sort_values('nan_count', ascending=True).drop_duplicates(subset=['Scraped_Url'], keep='first')
-        final_df = pd.concat([deduped_with_url, no_url], ignore_index=True)
-        final_df = final_df.drop(columns=['nan_count'])
+        deduped_with_url = deduped_with_url.drop(columns=['nan_count'])
+        
+        # 名前でさらなる重複排除（URLがない場合）
+        no_url['name_norm'] = no_url['Player_Name'].apply(normalize_name)
+        no_url['nan_count'] = no_url.isnull().sum(axis=1)
+        deduped_no_url = no_url.sort_values('nan_count', ascending=True).drop_duplicates(subset=['name_norm'], keep='first')
+        deduped_no_url = deduped_no_url.drop(columns=['nan_count', 'name_norm'])
+        
+        final_df = pd.concat([deduped_with_url, deduped_no_url], ignore_index=True)
     else:
-        final_df = df
+        final_df = final_df
 
     print(f"Final row count: {len(final_df)}")
     

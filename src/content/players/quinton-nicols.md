@@ -7,16 +7,16 @@ position: "CTB"
 height: "194.0"
 weight: "104.0"
 birth_date: "2002.04.16"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "クリタウォーターガッシュ昭島（2025-26）"
 caps: ""
 high_school: "マウントアルバートグラマーカレ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/485717"
 ---
 
 ## キャリア遍歴
-
+Not Found

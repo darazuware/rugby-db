@@ -7,16 +7,16 @@ position: "SH"
 height: "166.0"
 weight: "72.0"
 birth_date: "2002.07.16"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "中国電力レッドレグリオンズ（2025-26）"
 caps: ""
 high_school: "東海大大阪仰星高校"
 university: "立命館大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484256"
 ---
 
 ## キャリア遍歴
-
+中国電力レッドレギュリオンズ (2025 - )

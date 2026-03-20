@@ -1,7 +1,7 @@
 ---
-title: "B. Connon | nan"
+title: "B. Connon | "
 name_en: "B. Connon"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-connon"
 position: "Fly-half"
 height: "nan"

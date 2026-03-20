@@ -1,13 +1,13 @@
 ---
-title: "K. Mona | nan"
+title: "K. Mona | "
 name_en: "K. Mona"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-mona"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "10/08/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

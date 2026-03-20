@@ -1,13 +1,13 @@
 ---
-title: "Nick Isiekwe | nan"
+title: "Nick Isiekwe | "
 name_en: "Nick Isiekwe"
-name_ja: "nan"
+name_ja: ""
 slug: "nick-isiekwe"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "20/04/1998"
-age: 27.0
+birth_date: "1998.04.20"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

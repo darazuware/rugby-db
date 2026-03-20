@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/max-douglas"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2021) -> manly marlins (2021 - 2021) -> new south wales waratahs (2022 - 2022) -> manly marlins (2022 - 2022) -> yokohama canon eagles (2022 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴

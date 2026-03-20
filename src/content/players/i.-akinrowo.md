@@ -1,7 +1,7 @@
 ---
-title: "I. Akinrowo | nan"
+title: "I. Akinrowo | "
 name_en: "I. Akinrowo"
-name_ja: "nan"
+name_ja: ""
 slug: "i.-akinrowo"
 position: "Centre"
 height: "nan"

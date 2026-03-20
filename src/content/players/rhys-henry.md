@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/rhys-henry"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-
+Wales

@@ -1,7 +1,7 @@
 ---
-title: "O. Leatherbarrow | nan"
+title: "O. Leatherbarrow | "
 name_en: "O. Leatherbarrow"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-leatherbarrow"
 position: "Flanker"
 height: "nan"

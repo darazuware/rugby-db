@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeremy-sinzelle"
 ---
 
 ## キャリア遍歴
-Rugby Nice Côte d'Azur Université Racing (2003 - 2006) -> Rugby Club Toulonnais (2006 - 2026) -> Stade Français Paris Rugby (2012 - 2017) -> Stade Rochelais (2017 - )
+Rugby Nice Côte d'Azur Université Racing (2003 - 2006) -> Rugby Club Toulonnais (2006 - 2012) -> Stade Français Paris Rugby (2012 - 2017) -> Stade Rochelais (2017 - 2022) -> Rugby Club Toulonnais (2022 - 2026)

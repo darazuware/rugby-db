@@ -1,13 +1,13 @@
 ---
-title: "C. Clare | nan"
+title: "C. Clare | "
 name_en: "C. Clare"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-clare"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "16/12/1991"
-age: 34.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

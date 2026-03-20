@@ -1,7 +1,7 @@
 ---
-title: "Henry MCERLEAN | ヘンリー・マカーリーン"
+title: "Henry MCERLEAN | Henry ・ MCERLEAN"
 name_en: "Henry MCERLEAN"
-name_ja: "ヘンリー・マカーリーン"
+name_ja: "Henry ・ MCERLEAN"
 slug: "henry-mcerlean"
 position: "FB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/henry-mcerlean"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

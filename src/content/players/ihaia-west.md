@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ihaia-west"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2012 - 2013) -> Blues (2013 - 2017) -> Hurricanes (2017 - 2018) -> Stade Rochelais (2018 - 2026) -> Rugby Club Toulonnais (2022 - )
+Hawke's Bay Magpies (2012 - 2013) -> Blues (2013 - 2017) -> Hurricanes (2017 - 2018) -> Stade Rochelais (2018 - 2022) -> Rugby Club Toulonnais (2022 - 2023) -> Stade Rochelais (2023 - 2026)

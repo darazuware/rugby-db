@@ -10,12 +10,12 @@ birth_date: "2000.12.03"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/louis-lynagh"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "harlequins (2019 - 2022) -> london scottish (2022 - 2022) -> harlequins (2023 - 2023) -> london scottish (2023 - 2023) -> harlequins (2023 - 2024) -> benetton rugby trévise (2024 - 2026)"
 ---
 
 ## キャリア遍歴

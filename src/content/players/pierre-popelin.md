@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-popelin"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2013 - 2023) -> France 7 (2017 - 2018) -> Rugby Club Vannes (2018 - 2021) -> Castres Olympique (2023 - )
+Stade Rochelais (2013 - 2017) -> France 7 (2017 - 2018) -> Rugby Club Vannes (2018 - 2021) -> Stade Rochelais (2021 - 2023) -> Castres Olympique (2023 - 2026)

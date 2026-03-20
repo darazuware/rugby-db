@@ -1,7 +1,7 @@
 ---
-title: "L. Johnson | nan"
+title: "L. Johnson | "
 name_en: "L. Johnson"
-name_ja: "nan"
+name_ja: ""
 slug: "l.-johnson"
 position: "Fly-half"
 height: "nan"

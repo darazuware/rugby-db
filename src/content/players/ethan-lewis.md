@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/ethan-lewis"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "cardiff rugby (2015 - 2020) -> saracens (2020 - 2020) -> cardiff rugby (2021 - 2021) -> saracens (2021 - 2023) -> ospreys (2023 - 2025) -> cardiff rugby (2025 - 2025) -> ospreys (2026 - 2026) -> cardiff rugby (2026 - 2026)"
 ---
 
 ## キャリア遍歴

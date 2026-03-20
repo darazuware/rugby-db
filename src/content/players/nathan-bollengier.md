@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nathan-bollengier"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2010 - )
+Stade Rochelais (2010 - 2026)

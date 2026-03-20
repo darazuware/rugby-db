@@ -1,7 +1,7 @@
 ---
-title: "K. Pearce-Paul | nan"
+title: "K. Pearce-Paul | "
 name_en: "K. Pearce-Paul"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-pearce-paul"
 position: "Lock"
 height: "nan"

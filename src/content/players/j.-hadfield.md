@@ -1,13 +1,13 @@
 ---
-title: "J. Hadfield | nan"
+title: "J. Hadfield | "
 name_en: "J. Hadfield"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-hadfield"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "27/11/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

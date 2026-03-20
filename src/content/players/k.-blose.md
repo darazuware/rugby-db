@@ -1,13 +1,13 @@
 ---
-title: "K. Blose | nan"
+title: "K. Blose | "
 name_en: "K. Blose"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-blose"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "05/12/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

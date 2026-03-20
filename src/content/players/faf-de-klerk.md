@@ -7,15 +7,15 @@ position: "SH"
 height: "172.0"
 weight: "88.0"
 birth_date: "1991.10.19"
-age: 34.0
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "横浜キヤノンイーグルス（2025-26）"
-caps: "🇿🇦 South Africa代表 (49 caps)"
+caps: "🇿🇦 South Africa (49)"
 high_school: "HoerskoolWaterkloof"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484824"
 ---
 
 ## キャリア遍歴

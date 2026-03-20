@@ -1,13 +1,13 @@
 ---
-title: "Boris Wenger | nan"
+title: "Boris Wenger | "
 name_en: "Boris Wenger"
-name_ja: "nan"
+name_ja: ""
 slug: "boris-wenger"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "07/01/2002"
-age: 24.0
+birth_date: "2002.07.01"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "premiership"

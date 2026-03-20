@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "Namibia代表 (42 caps)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jerome-rey"
 ---
 
 ## キャリア遍歴
-US Montmélian (2011 - 2013) -> CS Bourgoin Jallieu Rugby (2015 - 2017) -> Stade Olympique Chambéry (2017 - 2019) -> FC Grenoble Rugby (2019 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - )
+US Montmélian (2011 - 2013) -> CS Bourgoin Jallieu Rugby (2015 - 2017) -> Stade Olympique Chambéry (2017 - 2019) -> FC Grenoble Rugby (2019 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2026)

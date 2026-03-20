@@ -10,12 +10,12 @@ birth_date: "1998.05.17"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
 caps: "🇮🇹 Italy (48)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "benetton rugby trévise (2018 - 2026)"
 ---
 
 ## キャリア遍歴

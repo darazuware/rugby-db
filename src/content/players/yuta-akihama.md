@@ -7,16 +7,16 @@ position: "WTB"
 height: "174.0"
 weight: "85.0"
 birth_date: "2002.05.16"
-age: 23.0
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
 caps: "XV('24)"
 high_school: "桐蔭学園高校"
 university: "明治大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484862"
 ---
 
 ## キャリア遍歴
-
+リコーブラックラムズ東京 (2025 - )

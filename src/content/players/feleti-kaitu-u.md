@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/feleti-kaitu-u"
 ---
 
 ## キャリア遍歴
-Western Force (2019 - 2024) -> Tasman Mako (2022 - 2023) -> Racing 92 (2024 - )
+Western Force (2019 - 2022) -> Tasman Mako (2022 - 2022) -> Western Force (2023 - 2023) -> Tasman Mako (2023 - 2023) -> Western Force (2023 - 2024) -> Racing 92 (2024 - 2026)

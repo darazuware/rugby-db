@@ -1,13 +1,13 @@
 ---
-title: "T. Rowe | nan"
+title: "T. Rowe | "
 name_en: "T. Rowe"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-rowe"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "2005-XX-XX"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

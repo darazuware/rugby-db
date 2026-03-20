@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/luke-davies"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "scarlets (2021 - 2022) -> jersey reds (2022 - 2023) -> ospreys (2023 - 2026)"
 ---
 
 ## キャリア遍歴

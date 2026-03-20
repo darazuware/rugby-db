@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/caspar-gabriel"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "terenure college (2022 - 2024) -> leinster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

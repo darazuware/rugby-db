@@ -1,7 +1,7 @@
 ---
-title: "Steff THOMAS | ステフ・トーマス"
+title: "Steff THOMAS | Steff ・ トーマス"
 name_en: "Steff THOMAS"
-name_ja: "ステフ・トーマス"
+name_ja: "Steff ・ トーマス"
 slug: "steff-thomas"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/steff-thomas"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2017 - 2024) -> Ospreys (2024 - 2026)

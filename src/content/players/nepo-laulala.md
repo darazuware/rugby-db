@@ -1,13 +1,13 @@
 ---
-title: "Nepo Laulala | nan"
+title: "Nepo Laulala | "
 name_en: "Nepo Laulala"
-name_ja: "nan"
+name_ja: ""
 slug: "nepo-laulala"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "11/06/1991"
-age: 34.0
+birth_date: "1991.11.06"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/gonzalo-garcia-1999"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "natacion y gimnasia (2017 - 2019) -> dogos xv (2019 - 2020) -> cafeteros pro (2020 - 2021) -> valorugby emilia (2021 - 2022) -> zebre parma (2022 - 2026)"
 ---
 
 ## キャリア遍歴

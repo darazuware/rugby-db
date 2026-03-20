@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonny-gray"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2013 - 2020) -> Exeter Chiefs (2019 - 2024) -> Union Bordeaux-Bègles (2024 - )
+Glasgow Warriors (2013 - 2019) -> Exeter Chiefs (2019 - 2019) -> Glasgow Warriors (2020 - 2020) -> Exeter Chiefs (2020 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)

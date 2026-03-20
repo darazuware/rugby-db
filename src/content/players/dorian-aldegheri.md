@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dorian-aldegheri"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2004 - )
+Stade Toulousain (2004 - 2026)

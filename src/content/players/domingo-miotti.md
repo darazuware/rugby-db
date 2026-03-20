@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "🇦🇷 Argentina"
+caps: "Argentina"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/domingo-miotti"
 ---
 
 ## キャリア遍歴
-Jaguares (2018 - 2020) -> Western Force (2020 - 2021) -> Glasgow Warriors (2021 - 2023) -> Oyonnax Rugby (2023 - 2024) -> Montpellier Hérault Rugby (2024 - )
+Jaguares (2018 - 2020) -> Western Force (2020 - 2021) -> Glasgow Warriors (2021 - 2023) -> Oyonnax Rugby (2023 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)

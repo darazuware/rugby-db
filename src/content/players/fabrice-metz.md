@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fabrice-metz"
 ---
 
 ## キャリア遍歴
-Racing 92 (2010 - 2015) -> Oyonnax Rugby (2015 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2024) -> Rugby Club Vannes (2024 - )
+Racing 92 (2010 - 2015) -> Oyonnax Rugby (2015 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2024) -> Rugby Club Vannes (2024 - 2026)

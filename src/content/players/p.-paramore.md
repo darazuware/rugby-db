@@ -1,7 +1,7 @@
 ---
-title: "P. Paramore | nan"
+title: "P. Paramore | "
 name_en: "P. Paramore"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-paramore"
 position: "Lock"
 height: "nan"

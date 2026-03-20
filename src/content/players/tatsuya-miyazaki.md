@@ -7,7 +7,7 @@ position: "HO"
 height: "164.0"
 weight: "95.0"
 birth_date: "1996.04.10"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,8 +15,8 @@ team: "東京サントリーサンゴリアス（2025-26）"
 caps: ""
 high_school: "伏見工業高校"
 university: "京都産業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484315"
 ---
 
 ## キャリア遍歴
-
+宗像サニックスブルース (2021 - 2022) -> 東京サントリーサンゴリアス (2023 - )

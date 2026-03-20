@@ -1,7 +1,7 @@
 ---
-title: "H. Beaton | nan"
+title: "H. Beaton | "
 name_en: "H. Beaton"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-beaton"
 position: "Prop"
 height: "nan"

@@ -7,7 +7,7 @@ position: "LO"
 height: "198.0"
 weight: "118.0"
 birth_date: "1996.11.30"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
@@ -15,7 +15,7 @@ team: "静岡ブルーレヴズ（2025-26）"
 caps: ""
 high_school: "アキナスカレッジ"
 university: ""
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484155"
 ---
 
 ## キャリア遍歴

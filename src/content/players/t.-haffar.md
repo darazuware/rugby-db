@@ -1,13 +1,13 @@
 ---
-title: "T. Haffar | nan"
+title: "T. Haffar | "
 name_en: "T. Haffar"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-haffar"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "13/09/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

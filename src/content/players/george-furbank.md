@@ -1,22 +1,22 @@
 ---
-title: "George Furbank | nan"
-name_en: "George Furbank"
-name_ja: "nan"
+title: "George FURBANK | "
+name_en: "George FURBANK"
+name_ja: ""
 slug: "george-furbank"
 position: "Fullback"
-height: "nan"
-weight: "nan"
-birth_date: "1996-10-17"
-age: 29.0
+height: "17/10/1996"
+weight: "1"
+birth_date: "nan"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/george-furbank"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

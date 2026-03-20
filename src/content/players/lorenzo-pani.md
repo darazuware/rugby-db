@@ -15,7 +15,7 @@ team: "Zebre"
 caps: "🇮🇹 Italy (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "benetton rugby trévise (2021 - 2021) -> zebre parma (2021 - 2021) -> benetton rugby trévise (2022 - 2022) -> zebre parma (2022 - 2026)"
 ---
 
 ## キャリア遍歴

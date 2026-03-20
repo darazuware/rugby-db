@@ -1,9 +1,9 @@
 ---
-title: "Ryan CONBEER | ライアン・コンビア"
+title: "Ryan CONBEER | ライアン ・ CONBEER"
 name_en: "Ryan CONBEER"
-name_ja: "ライアン・コンビア"
+name_ja: "ライアン ・ CONBEER"
 slug: "ryan-conbeer"
-position: "WTB"
+position: "Winger"
 height: "177.0"
 weight: "91.0"
 birth_date: "1999.02.05"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ryan-conbeer"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2017 - 2024) -> Ospreys (2024 - 2026)

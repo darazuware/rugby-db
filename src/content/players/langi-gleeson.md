@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "🇦🇺 Australia代表 (4 caps)"
+caps: "🇦🇺 Australia (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/langi-gleeson"
 ---
 
 ## キャリア遍歴
-Manly Marlins (2020 - 2021) -> New South Wales Waratahs (2021 - 2025) -> Montpellier Hérault Rugby (2025 - )
+Manly Marlins (2020 - 2021) -> New South Wales Waratahs (2021 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)

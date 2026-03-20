@@ -1,13 +1,13 @@
 ---
-title: "Nicky Smith | nan"
+title: "Nicky Smith | "
 name_en: "Nicky Smith"
-name_ja: "nan"
+name_ja: ""
 slug: "nicky-smith"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "04/07/1994"
-age: 31.0
+birth_date: "1994.04.07"
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "premiership"

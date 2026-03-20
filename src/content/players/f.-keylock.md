@@ -1,7 +1,7 @@
 ---
-title: "F. Keylock | nan"
+title: "F. Keylock | "
 name_en: "F. Keylock"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-keylock"
 position: "Fly-half"
 height: "nan"

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/joe-joyce"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bristol bears (2016 - 2023) -> connacht rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "E. Atuanya | nan"
+title: "E. Atuanya | "
 name_en: "E. Atuanya"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-atuanya"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "2003-03-17"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

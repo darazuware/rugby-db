@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-chabouni"
 ---
 
 ## キャリア遍歴
-Pennes-Mirabeau Cadeneaux Rugby (2009 - 2016) -> Provence Rugby (2016 - 2021) -> Castres Olympique (2021 - )
+Pennes-Mirabeau Cadeneaux Rugby (2009 - 2016) -> Provence Rugby (2016 - 2021) -> Castres Olympique (2021 - 2026)

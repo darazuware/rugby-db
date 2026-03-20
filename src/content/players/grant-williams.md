@@ -10,12 +10,12 @@ birth_date: "1996.07.22"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: "🇿🇦 South Africa (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2017 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Jac DAVIES | ジャック-デイヴィス"
+title: "Jac DAVIES | Jac ・ DAVIES"
 name_en: "Jac DAVIES"
-name_ja: "ジャック-デイヴィス"
+name_ja: "Jac ・ DAVIES"
 slug: "jac-davies"
 position: "FB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jac-davies"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2022 - 2026)

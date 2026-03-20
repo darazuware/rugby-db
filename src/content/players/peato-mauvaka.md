@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/peato-mauvaka"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2013 - )
+Stade Toulousain (2013 - 2026)

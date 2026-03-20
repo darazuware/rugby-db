@@ -1,7 +1,7 @@
 ---
-title: "Archie HUGHES | アーチー・ヒューズ"
+title: "Archie HUGHES | Archie ・ HUGHES"
 name_en: "Archie HUGHES"
-name_ja: "アーチー・ヒューズ"
+name_ja: "Archie ・ HUGHES"
 slug: "archie-hughes"
 position: "SH"
 height: "173.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/archie-hughes"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2021 - 2026)

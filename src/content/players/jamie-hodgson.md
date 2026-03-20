@@ -1,13 +1,13 @@
 ---
-title: "Jamie Hodgson | nan"
+title: "Jamie Hodgson | "
 name_en: "Jamie Hodgson"
-name_ja: "nan"
+name_ja: ""
 slug: "jamie-hodgson"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "19/03/1998"
-age: 27.0
+birth_date: "1998.03.19"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "premiership"

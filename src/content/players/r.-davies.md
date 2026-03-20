@@ -1,13 +1,13 @@
 ---
-title: "R. Davies | nan"
+title: "R. Davies | "
 name_en: "R. Davies"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-davies"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1998.11.09"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

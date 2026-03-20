@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/jeandre-rudolph"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "pumas (2018 - 2019) -> bulls (2019 - 2019) -> pumas (2020 - 2020) -> bulls (2020 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴

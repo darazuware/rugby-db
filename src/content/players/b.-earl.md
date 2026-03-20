@@ -1,13 +1,13 @@
 ---
-title: "B. Earl | nan"
+title: "B. Earl | "
 name_en: "B. Earl"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-earl"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "01/07/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

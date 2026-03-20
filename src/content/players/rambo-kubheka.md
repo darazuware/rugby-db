@@ -1,7 +1,7 @@
 ---
-title: "Rambo KUBHEKA | ランボ・クベカ"
+title: "Rambo KUBHEKA | Rambo ・ KUBHEKA"
 name_en: "Rambo KUBHEKA"
-name_ja: "ランボ・クベカ"
+name_ja: "Rambo ・ KUBHEKA"
 slug: "rambo-kubheka"
 position: "PR"
 height: "181.0"
@@ -10,13 +10,13 @@ birth_date: "2006.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/rambo-kubheka"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)

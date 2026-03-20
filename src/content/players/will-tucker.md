@@ -10,7 +10,7 @@ birth_date: "1998.03.16"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Crusaders"
 caps: ""
 high_school: ""

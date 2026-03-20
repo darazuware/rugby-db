@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mathieu-babillot"
 ---
 
 ## キャリア遍歴
-Castres Olympique (2002 - )
+Castres Olympique (2002 - 2026)

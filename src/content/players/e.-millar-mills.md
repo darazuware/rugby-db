@@ -1,13 +1,13 @@
 ---
-title: "E. Millar-Mills | nan"
+title: "E. Millar-Mills | "
 name_en: "E. Millar-Mills"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-millar-mills"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1992-08-07"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

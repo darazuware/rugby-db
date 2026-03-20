@@ -1,13 +1,13 @@
 ---
-title: "T. McElroy | nan"
+title: "T. McElroy | "
 name_en: "T. McElroy"
-name_ja: "nan"
+name_ja: ""
 slug: "t.-mcelroy"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "16/06/1997"
-age: 28.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

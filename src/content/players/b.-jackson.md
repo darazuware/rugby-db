@@ -1,13 +1,13 @@
 ---
-title: "B. Jackson | nan"
+title: "B. Jackson | "
 name_en: "B. Jackson"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-jackson"
 position: "Wing"
 height: "nan"
 weight: "nan"
-birth_date: "2004.."
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

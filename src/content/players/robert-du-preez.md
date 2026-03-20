@@ -1,7 +1,7 @@
 ---
-title: "Robert du Preez | nan"
+title: "Robert du Preez | "
 name_en: "Robert du Preez"
-name_ja: "nan"
+name_ja: ""
 slug: "robert-du-preez"
 position: "Fly-half"
 height: "nan"

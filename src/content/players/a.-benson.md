@@ -1,13 +1,13 @@
 ---
-title: "A. Benson | nan"
+title: "A. Benson | "
 name_en: "A. Benson"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-benson"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2001-08-18"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

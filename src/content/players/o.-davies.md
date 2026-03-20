@@ -1,7 +1,7 @@
 ---
-title: "O. Davies | nan"
+title: "O. Davies | "
 name_en: "O. Davies"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-davies"
 position: "Fly-half"
 height: "nan"

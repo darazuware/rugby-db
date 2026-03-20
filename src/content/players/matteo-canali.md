@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/matteo-canali"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "rugby rovigo delta (2018 - 2020) -> benetton rugby trévise (2020 - 2021) -> petrarca rugby (2021 - 2023) -> zebre parma (2023 - 2026)"
 ---
 
 ## キャリア遍歴

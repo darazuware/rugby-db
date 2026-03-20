@@ -1,7 +1,7 @@
 ---
-title: "R. Weston | nan"
+title: "R. Weston | "
 name_en: "R. Weston"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-weston"
 position: "Fly-half"
 height: "nan"

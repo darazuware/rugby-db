@@ -1,7 +1,7 @@
 ---
-title: "R. Beeckmans | nan"
+title: "R. Beeckmans | "
 name_en: "R. Beeckmans"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-beeckmans"
 position: "Centre"
 height: "nan"

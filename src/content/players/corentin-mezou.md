@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corentin-mezou"
 ---
 
 ## キャリア遍歴
-Union Rugbystique de Landerneau (2016 - 2019) -> RC Plabennec (2019 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Rugby Club Toulonnais (2023 - )
+Union Rugbystique de Landerneau (2016 - 2019) -> RC Plabennec (2019 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Rugby Club Toulonnais (2023 - 2026)

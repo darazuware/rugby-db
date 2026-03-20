@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matias-remue"
 ---
 
 ## キャリア遍歴
-Royal Kituro Rugby Club (2013 - 2022) -> Stade Toulousain (2022 - )
+Royal Kituro Rugby Club (2013 - 2022) -> Stade Toulousain (2022 - 2026)

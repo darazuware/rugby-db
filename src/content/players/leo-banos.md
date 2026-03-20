@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-banos"
 ---
 
 ## キャリア遍歴
-Parentis Sport Rugby (2011 - 2016) -> Stade Montois Rugby Pro (2016 - 2024) -> Stade Toulousain (2023 - )
+Parentis Sport Rugby (2011 - 2016) -> Stade Montois Rugby Pro (2016 - 2023) -> Stade Toulousain (2023 - 2023) -> Stade Montois Rugby Pro (2023 - 2023) -> Stade Toulousain (2024 - 2024) -> Stade Montois Rugby Pro (2024 - 2024) -> Stade Toulousain (2024 - 2026)

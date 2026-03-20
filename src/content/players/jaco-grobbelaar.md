@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/jaco-grobbelaar"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "blue bulls (2023 - 2024) -> bulls (2024 - 2026)"
 ---
 
 ## キャリア遍歴

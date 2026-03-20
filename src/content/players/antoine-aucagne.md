@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/antoine-aucagne"
 ---
 
 ## キャリア遍歴
-RC Vichy (2013 - 2019) -> Stade Aurillacois Cantal Auvergne (2016 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )
+RC Vichy (2013 - 2016) -> Stade Aurillacois Cantal Auvergne (2016 - 2018) -> RC Vichy (2018 - 2019) -> Stade Aurillacois Cantal Auvergne (2019 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)

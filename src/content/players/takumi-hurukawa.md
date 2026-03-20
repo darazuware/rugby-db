@@ -7,16 +7,16 @@ position: "CTB"
 height: "168.0"
 weight: "83.0"
 birth_date: "1995.07.03"
-age: 30.0
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
 caps: ""
 high_school: "目黒学院高校"
 university: "東洋大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484778"
 ---
 
 ## キャリア遍歴
-
+Not Found

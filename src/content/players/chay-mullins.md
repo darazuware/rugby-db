@@ -1,7 +1,7 @@
 ---
-title: "Chay MULLINS | チェイ・マリンズ"
+title: "Chay MULLINS | Chay ・ MULLINS"
 name_en: "Chay MULLINS"
-name_ja: "チェイ・マリンズ"
+name_ja: "Chay ・ MULLINS"
 slug: "chay-mullins"
 position: "FB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/chay-mullins"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2020 - 2022) -> Connacht Rugby (2022 - 2026)

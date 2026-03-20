@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-chapuis"
 ---
 
 ## キャリア遍歴
-Olympique Groslay Enghien Montmorency (2007 - 2012) -> Stade Français Paris Rugby (2012 - )
+Olympique Groslay Enghien Montmorency (2007 - 2012) -> Stade Français Paris Rugby (2012 - 2026)

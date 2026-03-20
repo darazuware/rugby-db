@@ -1,7 +1,7 @@
 ---
-title: "G. Marsh | nan"
+title: "G. Marsh | "
 name_en: "G. Marsh"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-marsh"
 position: "Lock"
 height: "nan"

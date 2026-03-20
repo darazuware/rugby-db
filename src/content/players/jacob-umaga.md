@@ -10,12 +10,12 @@ birth_date: "1998.07.08"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/jacob-umaga"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "wasps (2017 - 2022) -> benetton rugby trévise (2022 - 2022) -> wasps (2023 - 2023) -> benetton rugby trévise (2023 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,13 +1,13 @@
 ---
-title: "S. Dugdale | nan"
+title: "S. Dugdale | "
 name_en: "S. Dugdale"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-dugdale"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "30/09/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

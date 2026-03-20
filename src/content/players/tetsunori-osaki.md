@@ -7,16 +7,16 @@ position: "LO"
 height: "182.0"
 weight: "97.0"
 birth_date: "1999.04.26"
-age: 26.0
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "清水建設江東ブルーシャークス（2025-26）"
 caps: ""
 high_school: "国学院久我山高校"
 university: "早稲田大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484224"
 ---
 
 ## キャリア遍歴
-
+清水建設江東ブルーシャークス (2022 - )

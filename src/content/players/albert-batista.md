@@ -1,9 +1,9 @@
 ---
-title: "Albert BATISTA | アルバート・バティスタ"
+title: "Albert BATISTA | Albert ・ BATISTA"
 name_en: "Albert BATISTA"
-name_ja: "アルバート・バティスタ"
+name_ja: "Albert ・ BATISTA"
 slug: "albert-batista"
-position: "WTB"
+position: "Winger"
 height: "180.0"
 weight: "87.0"
 birth_date: "2000.06.10"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "Dominican Republic"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/albert-batista"
 ---
 
 ## キャリア遍歴
-Dominican Republic
+Colorno (2020 - 2025) -> Zebre Parma (2025 - 2026)

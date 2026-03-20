@@ -15,7 +15,7 @@ team: "Munster"
 caps: "Squad caps (1332)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2015 - 2017) -> munster rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -1,18 +1,18 @@
 ---
-title: "Harry Randall | nan"
+title: "Harry Randall | "
 name_en: "Harry Randall"
-name_ja: "nan"
+name_ja: ""
 slug: "harry-randall"
 position: "Scrum-half"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "1997.12.18"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bristol Bears"
-caps: "Call-ups代表 (6 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (11)"
 high_school: ""
 university: ""
 scraped_url: "nan"

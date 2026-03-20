@@ -10,12 +10,12 @@ birth_date: "2001.01.02"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/mirco-spagnolo"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "petrarca rugby (2022 - 2023) -> benetton rugby trévise (2023 - 2026)"
 ---
 
 ## キャリア遍歴

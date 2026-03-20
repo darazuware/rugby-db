@@ -1,18 +1,18 @@
 ---
-title: "George Ford | nan"
+title: "George Ford | "
 name_en: "George Ford"
-name_ja: "nan"
+name_ja: ""
 slug: "george-ford"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "1996.11.16"
-age: 29.0
+birth_date: "1993.03.16"
+age: 33
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (98 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (98)"
 high_school: ""
 university: ""
 scraped_url: "nan"

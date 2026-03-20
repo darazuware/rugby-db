@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthieu-uhila"
 ---
 
 ## キャリア遍歴
-RC du Mont-Dore (2018 - 2020) -> Montpellier Hérault Rugby (2020 - 2026) -> Rugby Club Vannes (2023 - )
+RC du Mont-Dore (2018 - 2020) -> Montpellier Hérault Rugby (2020 - 2023) -> Rugby Club Vannes (2023 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)

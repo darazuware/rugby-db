@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/jack-walsh"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2019) -> exeter chiefs (2019 - 2019) -> new south wales waratahs (2020 - 2020) -> exeter chiefs (2020 - 2022) -> ospreys (2022 - 2026)"
 ---
 
 ## キャリア遍歴

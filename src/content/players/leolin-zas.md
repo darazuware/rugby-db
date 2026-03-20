@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/leolin-zas"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2015 - 2016) -> sharks (2018 - 2018) -> natal sharks (2018 - 2018) -> sharks (2019 - 2019) -> natal sharks (2019 - 2019) -> stormers (2019 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/celimpilo-gumede"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "sharks (2019 - 2023) -> bulls (2023 - 2026)"
 ---
 
 ## キャリア遍歴

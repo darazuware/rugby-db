@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthieu-jalibert"
 ---
 
 ## キャリア遍歴
-ASS Stade Calédonien (2005 - 2007) -> Union Bordeaux-Bègles (2007 - )
+ASS Stade Calédonien (2005 - 2007) -> Union Bordeaux-Bègles (2007 - 2026)

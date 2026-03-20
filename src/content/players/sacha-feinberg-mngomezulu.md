@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/sacha-mngomezulu"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "western province (2020 - 2021) -> stormers (2021 - 2021) -> western province (2021 - 2021) -> stormers (2022 - 2022) -> western province (2022 - 2022) -> stormers (2022 - 2026)"
 ---
 
 ## キャリア遍歴

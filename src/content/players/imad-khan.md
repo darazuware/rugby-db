@@ -1,7 +1,7 @@
 ---
-title: "Imad KHAN | イマド・カーン"
+title: "Imad KHAN | Imad ・ KHAN"
 name_en: "Imad KHAN"
-name_ja: "イマド・カーン"
+name_ja: "Imad ・ KHAN"
 slug: "imad-khan"
 position: "SH"
 height: "179.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/imad-khan"
 ---
 
 ## キャリア遍歴
-
+Western Province (2021 - 2022) -> Stormers (2022 - 2023) -> Western Province (2023 - 2024) -> Stormers (2024 - 2026)

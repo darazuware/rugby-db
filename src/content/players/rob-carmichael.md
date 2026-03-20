@@ -10,12 +10,12 @@ birth_date: "2003.04.04"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/rob-carmichael"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leicester tigers (2022 - 2023) -> edimbourg rugby (2023 - 2023) -> leicester tigers (2024 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/liam-edwards"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ospreys (2022 - 2026)"
 ---
 
 ## キャリア遍歴

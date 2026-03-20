@@ -1,7 +1,7 @@
 ---
-title: "Stuart MCCLOSKEY | スチュアート・マクロスキー"
+title: "Stuart MCCLOSKEY | Stuart ・ MCCLOSKEY"
 name_en: "Stuart MCCLOSKEY"
-name_ja: "スチュアート・マクロスキー"
+name_ja: "Stuart ・ MCCLOSKEY"
 slug: "stuart-mccloskey"
 position: "CTB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "🇮🇪 Ireland (17)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/stuart-mccloskey"
 ---
 
 ## キャリア遍歴
-Ireland
+Ulster Rugby (2013 - 2026)

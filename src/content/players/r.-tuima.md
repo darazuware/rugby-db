@@ -1,13 +1,13 @@
 ---
-title: "R. Tuima | nan"
+title: "R. Tuima | "
 name_en: "R. Tuima"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-tuima"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "21/05/2000"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

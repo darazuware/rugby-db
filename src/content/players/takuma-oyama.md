@@ -7,16 +7,16 @@ position: "HO"
 height: "170.0"
 weight: "93.0"
 birth_date: "2001.12.25"
-age: 24.0
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "豊田自動織機シャトルズ愛知（2025-26）"
 caps: ""
 high_school: "報徳学園高校"
 university: "同志社大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484441"
 ---
 
 ## キャリア遍歴
-
+Not Found

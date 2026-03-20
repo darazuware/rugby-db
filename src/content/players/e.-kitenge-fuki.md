@@ -1,7 +1,7 @@
 ---
-title: "E. Kitenge-Fuki | nan"
+title: "E. Kitenge-Fuki | "
 name_en: "E. Kitenge-Fuki"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-kitenge-fuki"
 position: "Prop"
 height: "nan"

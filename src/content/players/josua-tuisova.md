@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josua-tuisova"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2013 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2023) -> Racing 92 (2023 - )
+Rugby Club Toulonnais (2013 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2023) -> Racing 92 (2023 - 2026)

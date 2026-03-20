@@ -1,13 +1,13 @@
 ---
-title: "B. Pasco | nan"
+title: "B. Pasco | "
 name_en: "B. Pasco"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-pasco"
 position: "Centre"
 height: "nan"
 weight: "nan"
-birth_date: "2005-XX-XX"
-age: 21.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

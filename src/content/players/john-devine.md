@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/john-devine"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "connacht rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴

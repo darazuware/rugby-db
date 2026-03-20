@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/jannes-kirsten"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "bulls (2015 - 2019) -> exeter chiefs (2019 - 2023) -> bulls (2023 - 2026)"
 ---
 
 ## キャリア遍歴

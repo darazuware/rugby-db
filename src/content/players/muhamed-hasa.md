@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/muhamed-hasa"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "petrarca rugby (2020 - 2022) -> zebre parma (2022 - 2026)"
 ---
 
 ## キャリア遍歴

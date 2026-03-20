@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/john-andrew"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ulster rugby (2014 - 2026)"
 ---
 
 ## キャリア遍歴

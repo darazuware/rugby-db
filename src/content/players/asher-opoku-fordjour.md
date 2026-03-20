@@ -1,18 +1,18 @@
 ---
-title: "Asher Opoku-Fordjour | nan"
+title: "Asher Opoku-Fordjour | "
 name_en: "Asher Opoku-Fordjour"
-name_ja: "nan"
+name_ja: ""
 slug: "asher-opoku-fordjour"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "nan"
-age: null
+birth_date: "2004.07.16"
+age: 21
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Sale Sharks"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (1 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (1)"
 high_school: ""
 university: ""
 scraped_url: "nan"

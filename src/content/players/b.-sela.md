@@ -1,7 +1,7 @@
 ---
-title: "B. Sela | nan"
+title: "B. Sela | "
 name_en: "B. Sela"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-sela"
 position: "Prop"
 height: "nan"

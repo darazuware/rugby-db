@@ -7,16 +7,16 @@ position: "FB"
 height: "178.0"
 weight: "83.0"
 birth_date: "2003.03.20"
-age: 22.0
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ルリーロ福岡（2025-26）"
 caps: ""
 high_school: "鹿児島工業高校"
 university: "福岡工業大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484929"
 ---
 
 ## キャリア遍歴
-
+福岡工業大学 (2024 - 2025) -> ルリーロ福岡 (2025 - )

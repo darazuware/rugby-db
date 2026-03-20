@@ -1,13 +1,13 @@
 ---
-title: "Joe Heyes | nan"
+title: "Joe Heyes | "
 name_en: "Joe Heyes"
-name_ja: "nan"
+name_ja: ""
 slug: "joe-heyes"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "13/04/1999"
-age: 26.0
+birth_date: "1999.04.13"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "premiership"

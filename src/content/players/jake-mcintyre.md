@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-mcintyre"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2014 - 2017) -> Sporting Union Agenais (2017 - 2019) -> ASM Clermont Auvergne (2019 - 2021) -> Western Force (2020 - 2022) -> Union Sportive Arlequins Perpignanais (2022 - )
+Queensland Reds (2014 - 2017) -> Sporting Union Agenais (2017 - 2019) -> ASM Clermont Auvergne (2019 - 2020) -> Western Force (2020 - 2020) -> ASM Clermont Auvergne (2021 - 2021) -> Western Force (2021 - 2022) -> Union Sportive Arlequins Perpignanais (2022 - 2026)

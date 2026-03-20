@@ -10,7 +10,7 @@ birth_date: "1997.05.16"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Brumbies"
 caps: ""
 high_school: ""

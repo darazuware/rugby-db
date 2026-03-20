@@ -1,7 +1,7 @@
 ---
-title: "A. Hearle | nan"
+title: "A. Hearle | "
 name_en: "A. Hearle"
-name_ja: "nan"
+name_ja: ""
 slug: "a.-hearle"
 position: "Centre"
 height: "nan"

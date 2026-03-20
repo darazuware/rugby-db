@@ -1,7 +1,7 @@
 ---
-title: "C. West | nan"
+title: "C. West | "
 name_en: "C. West"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-west"
 position: "Flanker"
 height: "nan"

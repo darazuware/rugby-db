@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-tilloles"
 ---
 
 ## キャリア遍歴
-Emak Hor Rugby (2012 - 2018) -> Aviron Bayonnais (2018 - )
+Emak Hor Rugby (2012 - 2018) -> Aviron Bayonnais (2018 - 2026)

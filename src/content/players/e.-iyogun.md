@@ -1,13 +1,13 @@
 ---
-title: "E. Iyogun | nan"
+title: "E. Iyogun | "
 name_en: "E. Iyogun"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-iyogun"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "2000-11-24"
-age: 25.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -1,7 +1,7 @@
 ---
-title: "Gabe MCDONALD | ゲイブ・マクドナルド"
+title: "Gabe MCDONALD | Gabe ・ MCDONALD"
 name_en: "Gabe MCDONALD"
-name_ja: "ゲイブ・マクドナルド"
+name_ja: "Gabe ・ MCDONALD"
 slug: "gabe-mcdonald"
 position: "CTB"
 height: "190.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/gabe-mcdonald"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2023 - 2026)

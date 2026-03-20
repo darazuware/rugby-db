@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ange-capuozzo"
 ---
 
 ## キャリア遍歴
-US Deux Ponts Rugby (2005 - 2010) -> FC Grenoble Rugby (2010 - 2022) -> Stade Toulousain (2022 - )
+US Deux Ponts Rugby (2005 - 2010) -> FC Grenoble Rugby (2010 - 2022) -> Stade Toulousain (2022 - 2026)

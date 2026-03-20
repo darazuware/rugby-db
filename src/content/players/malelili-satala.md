@@ -10,12 +10,12 @@ birth_date: "2004.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/malelili-satala"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leicester tigers (2023 - 2024) -> nottingham rugby (2024 - 2024) -> leicester tigers (2025 - 2025) -> nottingham rugby (2025 - 2025) -> edimbourg rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴

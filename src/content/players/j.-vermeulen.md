@@ -1,13 +1,13 @@
 ---
-title: "J. Vermeulen | nan"
+title: "J. Vermeulen | "
 name_en: "J. Vermeulen"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-vermeulen"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "02/08/1995"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

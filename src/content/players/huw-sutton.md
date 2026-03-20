@@ -1,7 +1,7 @@
 ---
-title: "Huw SUTTON | ヒュー-サットン"
+title: "Huw SUTTON | Huw ・ SUTTON"
 name_en: "Huw SUTTON"
-name_ja: "ヒュー-サットン"
+name_ja: "Huw ・ SUTTON"
 slug: "huw-sutton"
 position: "LO"
 height: "199.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/huw-sutton"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

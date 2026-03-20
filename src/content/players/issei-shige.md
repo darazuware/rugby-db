@@ -7,15 +7,15 @@ position: "CTB"
 height: "171.0"
 weight: "84.0"
 birth_date: "1994.12.05"
-age: 31.0
+age: 31
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ルリーロ福岡（2025-26）"
 caps: "U23('13)"
 high_school: "常翔学園高校"
 university: "帝京大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484949"
 ---
 
 ## キャリア遍歴

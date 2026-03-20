@@ -1,7 +1,7 @@
 ---
-title: "P. Pearce | nan"
+title: "P. Pearce | "
 name_en: "P. Pearce"
-name_ja: "nan"
+name_ja: ""
 slug: "p.-pearce"
 position: "Flanker"
 height: "nan"

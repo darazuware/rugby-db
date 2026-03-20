@@ -15,7 +15,7 @@ team: "Ulster"
 caps: "🇮🇪 Ireland (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "ulster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴

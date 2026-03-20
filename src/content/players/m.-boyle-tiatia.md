@@ -1,13 +1,13 @@
 ---
-title: "M. Boyle-Tiatia | nan"
+title: "M. Boyle-Tiatia | "
 name_en: "M. Boyle-Tiatia"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-boyle-tiatia"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "1999-11-24"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

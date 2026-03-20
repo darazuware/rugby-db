@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "🇦🇷 Argentina代表 (11 caps)"
+caps: "🇦🇷 Argentina (11)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mateo-carreras"
 ---
 
 ## キャリア遍歴
-Jaguares XV (2018 - 2019) -> Jaguares (2019 - 2020) -> Newcastle (2020 - 2024) -> Aviron Bayonnais (2023 - )
+Jaguares XV (2018 - 2019) -> Jaguares (2019 - 2020) -> Newcastle (2020 - 2023) -> Aviron Bayonnais (2023 - 2023) -> Newcastle (2024 - 2024) -> Aviron Bayonnais (2024 - 2026)

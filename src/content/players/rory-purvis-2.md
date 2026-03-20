@@ -1,0 +1,22 @@
+---
+title: "Rory PURVIS | Rory ・ PURVIS"
+name_en: "Rory PURVIS"
+name_ja: "Rory ・ PURVIS"
+slug: "rory-purvis-2"
+position: "Back row"
+height: "191.0"
+weight: "106.0"
+birth_date: "2006.."
+age: null
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/rory-purvis"
+---
+
+## キャリア遍歴
+Stirling County RFC (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

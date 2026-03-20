@@ -7,16 +7,16 @@ position: "CTB"
 height: "185.0"
 weight: "95.0"
 birth_date: "1994.02.15"
-age: 32.0
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "横浜キヤノンイーグルス（2025-26）"
-caps: "🇿🇦 South Africa代表 (62 caps)"
+caps: "🇿🇦 South Africa (62)"
 high_school: "MaritzburgCollege"
 university: "UniversityofPretoria"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484842"
 ---
 
 ## キャリア遍歴
-
+ブルズ (2013 - 2019) -> 横浜キヤノンイーグルス (2019 - )

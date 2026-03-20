@@ -10,7 +10,7 @@ birth_date: "1995.04.01"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Western Force"
 caps: "🇳🇿 New Zealand (5)"
 high_school: ""

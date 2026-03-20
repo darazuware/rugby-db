@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-laclayat"
 ---
 
 ## キャリア遍歴
-RC Haute Bresse (2012 - 2014) -> Oyonnax Rugby (2013 - 2023) -> Racing 92 (2023 - 2025) -> Section Paloise Béarn Pyrénées (2025 - )
+RC Haute Bresse (2012 - 2013) -> Oyonnax Rugby (2013 - 2013) -> RC Haute Bresse (2013 - 2013) -> Oyonnax Rugby (2014 - 2014) -> RC Haute Bresse (2014 - 2014) -> Oyonnax Rugby (2014 - 2023) -> Racing 92 (2023 - 2025) -> Section Paloise Béarn Pyrénées (2025 - 2026)

@@ -1,13 +1,13 @@
 ---
-title: "J. Benson | nan"
+title: "J. Benson | "
 name_en: "J. Benson"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-benson"
 position: "Fly-half"
 height: "nan"
 weight: "nan"
-birth_date: "2002-09-23"
-age: 23.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

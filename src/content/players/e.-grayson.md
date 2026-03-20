@@ -1,7 +1,7 @@
 ---
-title: "E. Grayson | nan"
+title: "E. Grayson | "
 name_en: "E. Grayson"
-name_ja: "nan"
+name_ja: ""
 slug: "e.-grayson"
 position: "Fly-half"
 height: "nan"

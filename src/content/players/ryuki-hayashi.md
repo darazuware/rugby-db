@@ -7,16 +7,16 @@ position: "HO"
 height: "171.0"
 weight: "97.0"
 birth_date: "2000.09.29"
-age: 25.0
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "ヤクルトレビンズ戸田（2025-26）"
 caps: ""
 high_school: "日本大学高校"
 university: "日本大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484759"
 ---
 
 ## キャリア遍歴
-
+東芝ブレイブルーパス東京 (2023 - 2025) -> ヤクルトレビンズ戸田 (2025 - )

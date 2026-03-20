@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/seilala-lam"
 ---
 
 ## キャリア遍歴
-Canberra Vikings (2014 - 2015) -> USON Nevers Rugby (2015 - 2017) -> Union Sportive Arlequins Perpignanais (2017 - 2026) -> ASM Clermont Auvergne (2025 - )
+Canberra Vikings (2014 - 2015) -> USON Nevers Rugby (2015 - 2017) -> Union Sportive Arlequins Perpignanais (2017 - 2025) -> ASM Clermont Auvergne (2025 - 2025) -> Union Sportive Arlequins Perpignanais (2026 - 2026) -> ASM Clermont Auvergne (2026 - 2026)

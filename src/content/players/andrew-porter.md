@@ -1,7 +1,7 @@
 ---
-title: "Andrew PORTER | アンドリュー-ポーター"
+title: "Andrew PORTER | アンドリュー ・ PORTER"
 name_en: "Andrew PORTER"
-name_ja: "アンドリュー-ポーター"
+name_ja: "アンドリュー ・ PORTER"
 slug: "andrew-porter"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (75)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/andrew-porter"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2016 - 2026)

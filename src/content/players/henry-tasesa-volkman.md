@@ -10,12 +10,12 @@ birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/henry-tasesa-volkman"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "canberra royals (2024 - 2025) -> benetton rugby trévise (2025 - 2026)"
 ---
 
 ## キャリア遍歴

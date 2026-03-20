@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-huguet"
 ---
 
 ## キャリア遍歴
-SC Chinonais Rugby (2004 - 2012) -> U.S. Tours (2012 - 2014) -> US Dax Rugby Landes (2014 - 2018) -> US Carcassonne (2018 - 2022) -> Aviron Bayonnais (2022 - 2024) -> Stade Français Paris Rugby (2024 - )
+SC Chinonais Rugby (2004 - 2012) -> U.S. Tours (2012 - 2014) -> US Dax Rugby Landes (2014 - 2018) -> US Carcassonne (2018 - 2022) -> Aviron Bayonnais (2022 - 2024) -> Stade Français Paris Rugby (2024 - 2026)

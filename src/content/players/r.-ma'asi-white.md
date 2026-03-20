@@ -1,7 +1,7 @@
 ---
-title: "R. Ma'asi-White | nan"
+title: "R. Ma'asi-White | "
 name_en: "R. Ma'asi-White"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-ma'asi-white"
 position: "Centre"
 height: "nan"

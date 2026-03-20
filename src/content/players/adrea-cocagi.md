@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "🇫🇯 Fiji"
+caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/adrea-cocagi"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2013 - 2014) -> Stado Tarbes Pyrénées Rugby (2014 - 2016) -> Union Sportive Arlequins Perpignanais (2016 - 2020) -> Castres Olympique (2020 - )
+Stade Français Paris Rugby (2013 - 2014) -> Stado Tarbes Pyrénées Rugby (2014 - 2016) -> Union Sportive Arlequins Perpignanais (2016 - 2020) -> Castres Olympique (2020 - 2026)

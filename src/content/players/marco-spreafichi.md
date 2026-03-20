@@ -10,12 +10,12 @@ birth_date: "2006.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/marco-spreafichi"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "benetton rugby trévise (2025 - 2026)"
 ---
 
 ## キャリア遍歴

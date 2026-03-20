@@ -1,7 +1,7 @@
 ---
-title: "Rhys CUMMINGS | リース・カミングス"
+title: "Rhys CUMMINGS | Rhys ・ CUMMINGS"
 name_en: "Rhys CUMMINGS"
-name_ja: "リース・カミングス"
+name_ja: "Rhys ・ CUMMINGS"
 slug: "rhys-cummings"
 position: "FB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/rhys-cummings"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2025 - 2026)

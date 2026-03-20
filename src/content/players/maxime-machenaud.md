@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-machenaud"
 ---
 
 ## キャリア遍歴
-Union Bordeaux-Bègles (2003 - 2010) -> Sporting Union Agenais (2010 - 2012) -> Racing 92 (2012 - 2022) -> Aviron Bayonnais (2022 - )
+Union Bordeaux-Bègles (2003 - 2010) -> Sporting Union Agenais (2010 - 2012) -> Racing 92 (2012 - 2022) -> Aviron Bayonnais (2022 - 2026)

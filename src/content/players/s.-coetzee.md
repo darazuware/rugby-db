@@ -1,7 +1,7 @@
 ---
-title: "S. Coetzee | nan"
+title: "S. Coetzee | "
 name_en: "S. Coetzee"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-coetzee"
 position: "Wing"
 height: "nan"

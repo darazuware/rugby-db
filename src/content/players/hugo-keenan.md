@@ -1,7 +1,7 @@
 ---
-title: "Hugo KEENAN | ユーゴー-キーナン"
+title: "Hugo KEENAN | ヒューゴ ・ KEENAN"
 name_en: "Hugo KEENAN"
-name_ja: "ユーゴー-キーナン"
+name_ja: "ヒューゴ ・ KEENAN"
 slug: "hugo-keenan"
 position: "FB"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "🇮🇪 Ireland (46)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/hugo-keenan"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2016 - 2026)

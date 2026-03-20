@@ -1,13 +1,13 @@
 ---
-title: "F. Theobald-Thomas | nan"
+title: "F. Theobald-Thomas | "
 name_en: "F. Theobald-Thomas"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-theobald-thomas"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "11/09/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

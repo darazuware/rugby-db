@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yerim-fall"
 ---
 
 ## キャリア遍歴
-USO Athis-Mons (2012 - 2016) -> Rugby Club Massy Essonne (2016 - 2022) -> ASM Clermont Auvergne (2022 - )
+USO Athis-Mons (2012 - 2016) -> Rugby Club Massy Essonne (2016 - 2022) -> ASM Clermont Auvergne (2022 - 2026)

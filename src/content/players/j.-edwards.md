@@ -1,13 +1,13 @@
 ---
-title: "J. Edwards | nan"
+title: "J. Edwards | "
 name_en: "J. Edwards"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-edwards"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "1996.01.10"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

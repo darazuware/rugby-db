@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-moala"
 ---
 
 ## キャリア遍歴
-Blues (2011 - 2018) -> ASM Clermont Auvergne (2018 - )
+Blues (2011 - 2018) -> ASM Clermont Auvergne (2018 - 2026)

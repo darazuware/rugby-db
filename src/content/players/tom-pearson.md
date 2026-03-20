@@ -1,22 +1,22 @@
 ---
-title: "Tom Pearson | nan"
-name_en: "Tom Pearson"
-name_ja: "nan"
+title: "Tom PEARSON | "
+name_en: "Tom PEARSON"
+name_ja: ""
 slug: "tom-pearson"
-position: "Flanker"
-height: "nan"
-weight: "nan"
-birth_date: "1999-10-26"
-age: 26.0
+position: "Back row"
+height: "26/10/1999"
+weight: "1"
+birth_date: "nan"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Northampton Saints"
+league: "mlr"
+team: "The Northampton Saints rugby team for 2025/2026"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (1)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tom-pearson"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

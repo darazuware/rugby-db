@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-willis"
 ---
 
 ## キャリア遍歴
-Wasps (2016 - 2023) -> Stade Toulousain (2022 - )
+Wasps (2016 - 2022) -> Stade Toulousain (2022 - 2022) -> Wasps (2023 - 2023) -> Stade Toulousain (2023 - 2026)

@@ -10,13 +10,13 @@ birth_date: "2005.."
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/ollie-duncan"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-
+Scotland

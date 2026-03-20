@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/bobby-sheehan"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "university college dublin (2021 - 2025) -> leinster rugby (2025 - 2025) -> lansdowne fc (2025 - 2025) -> leinster rugby (2026 - 2026) -> lansdowne fc (2026 - 2026)"
 ---
 
 ## キャリア遍歴

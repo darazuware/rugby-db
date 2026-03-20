@@ -1,13 +1,13 @@
 ---
-title: "R. Carre | nan"
+title: "R. Carre | "
 name_en: "R. Carre"
-name_ja: "nan"
+name_ja: ""
 slug: "r.-carre"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "02/08/1998"
-age: 27.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

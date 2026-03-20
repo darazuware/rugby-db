@@ -1,7 +1,7 @@
 ---
-title: "O. Bailey | nan"
+title: "O. Bailey | "
 name_en: "O. Bailey"
-name_ja: "nan"
+name_ja: ""
 slug: "o.-bailey"
 position: "Fly-half"
 height: "nan"

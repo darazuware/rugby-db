@@ -1,13 +1,13 @@
 ---
-title: "S. Blake | nan"
+title: "S. Blake | "
 name_en: "S. Blake"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-blake"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "10/05/2001"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

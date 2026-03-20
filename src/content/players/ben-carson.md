@@ -1,7 +1,7 @@
 ---
-title: "Ben CARSON | ベン・カーソン"
+title: "Ben CARSON | ベン ・ CARSON"
 name_en: "Ben CARSON"
-name_ja: "ベン・カーソン"
+name_ja: "ベン ・ CARSON"
 slug: "ben-carson"
 position: "CTB"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-carson"
 ---
 
 ## キャリア遍歴
-
+Wallace High School (2019 - 2020) -> Ulster Rugby (2020 - 2026)

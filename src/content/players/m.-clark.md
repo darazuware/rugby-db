@@ -1,7 +1,7 @@
 ---
-title: "M. Clark | nan"
+title: "M. Clark | "
 name_en: "M. Clark"
-name_ja: "nan"
+name_ja: ""
 slug: "m.-clark"
 position: "Centre"
 height: "nan"

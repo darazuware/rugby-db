@@ -7,15 +7,15 @@ position: "SO"
 height: "183.0"
 weight: "92.0"
 birth_date: "1990.06.20"
-age: 35.0
+age: 35
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "クリタウォーターガッシュ昭島（2025-26）"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (8 caps)"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (8)"
 high_school: "SaintGeorge’sChurchofEnglandSchool"
 university: "ケントカレッジ"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/483823"
 ---
 
 ## キャリア遍歴

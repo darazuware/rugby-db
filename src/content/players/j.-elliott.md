@@ -1,7 +1,7 @@
 ---
-title: "J. Elliott | nan"
+title: "J. Elliott | "
 name_en: "J. Elliott"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-elliott"
 position: "Scrum-half"
 height: "nan"

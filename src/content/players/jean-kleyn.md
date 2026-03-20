@@ -15,7 +15,7 @@ team: "Munster"
 caps: "Squad caps (1369)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2013 - 2016) -> munster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴

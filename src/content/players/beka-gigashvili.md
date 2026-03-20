@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/beka-gigashvili"
 ---
 
 ## キャリア遍歴
-Stade Olympique Chambéry (2015 - 2017) -> FC Grenoble Rugby (2017 - 2019) -> Rugby Club Toulonnais (2019 - )
+Stade Olympique Chambéry (2015 - 2017) -> FC Grenoble Rugby (2017 - 2019) -> Rugby Club Toulonnais (2019 - 2026)

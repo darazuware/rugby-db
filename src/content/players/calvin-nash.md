@@ -1,9 +1,9 @@
 ---
-title: "Calvin NASH | カルヴィン-ナッシュ"
+title: "Calvin NASH | Calvin ・ NASH"
 name_en: "Calvin NASH"
-name_ja: "カルヴィン-ナッシュ"
+name_ja: "Calvin ・ NASH"
 slug: "calvin-nash"
-position: "WTB"
+position: "Winger"
 height: "180.0"
 weight: "90.0"
 birth_date: "1997.08.08"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "🇮🇪 Ireland (10)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/calvin-nash"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2016 - 2026)

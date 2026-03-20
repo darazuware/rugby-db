@@ -1,13 +1,13 @@
 ---
-title: "C. Jordan | nan"
+title: "C. Jordan | "
 name_en: "C. Jordan"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-jordan"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "17/11/1999"
-age: 26.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/levani-botia"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2013 - )
+Stade Rochelais (2013 - 2026)

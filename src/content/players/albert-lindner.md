@@ -1,7 +1,7 @@
 ---
-title: "Albert LINDNER | アルバート・リンドナー"
+title: "Albert LINDNER | Albert ・ LINDNER"
 name_en: "Albert LINDNER"
-name_ja: "アルバート・リンドナー"
+name_ja: "Albert ・ LINDNER"
 slug: "albert-lindner"
 position: "SH"
 height: "nan"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/albert-lindner"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2025 - 2026)

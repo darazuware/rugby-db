@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/brian-alainu-uese"
 ---
 
 ## キャリア遍歴
-Chiefs (2014 - 2015) -> Glasgow Warriors (2016 - 2019) -> Rugby Club Toulonnais (2018 - )
+Chiefs (2014 - 2015) -> Glasgow Warriors (2016 - 2018) -> Rugby Club Toulonnais (2018 - 2018) -> Glasgow Warriors (2019 - 2019) -> Rugby Club Toulonnais (2019 - 2026)

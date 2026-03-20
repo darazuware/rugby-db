@@ -1,22 +1,22 @@
 ---
-title: "Charlie Ewels | nan"
-name_en: "Charlie Ewels"
-name_ja: "nan"
+title: "Charlie EWELS | "
+name_en: "Charlie EWELS"
+name_ja: ""
 slug: "charlie-ewels"
 position: "Lock"
-height: "nan"
-weight: "nan"
-birth_date: "29/06/1995"
-age: 30.0
+height: "29/06/1995"
+weight: "1"
+birth_date: "nan"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Bath Rugby"
+league: "mlr"
+team: "The Bath Rugby rugby team for 2025/2026"
 caps: "Call-ups (30)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/charlie-ewels"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

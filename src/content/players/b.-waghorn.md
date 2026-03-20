@@ -1,7 +1,7 @@
 ---
-title: "B. Waghorn | nan"
+title: "B. Waghorn | "
 name_en: "B. Waghorn"
-name_ja: "nan"
+name_ja: ""
 slug: "b.-waghorn"
 position: "Centre"
 height: "nan"

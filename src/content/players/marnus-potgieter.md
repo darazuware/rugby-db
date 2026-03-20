@@ -10,12 +10,12 @@ birth_date: "1999.06.20"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
+league: "mlr"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/marnus-potgieter"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "blue bulls (2018 - 2019) -> bulls (2019 - 2021) -> sharks (2021 - 2026)"
 ---
 
 ## キャリア遍歴

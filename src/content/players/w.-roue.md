@@ -1,7 +1,7 @@
 ---
-title: "W. Roue | nan"
+title: "W. Roue | "
 name_en: "W. Roue"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-roue"
 position: "Fly-half"
 height: "nan"

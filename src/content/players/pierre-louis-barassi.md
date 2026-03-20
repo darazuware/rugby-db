@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-louis-barassi"
 ---
 
 ## キャリア遍歴
-Racing Club Narbonnais (2005 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2022) -> Stade Toulousain (2022 - )
+Racing Club Narbonnais (2005 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2022) -> Stade Toulousain (2022 - 2026)

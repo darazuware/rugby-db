@@ -1,13 +1,13 @@
 ---
-title: "G. McGuigan | nan"
+title: "G. McGuigan | "
 name_en: "G. McGuigan"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-mcguigan"
 position: "Hooker"
 height: "nan"
 weight: "nan"
-birth_date: "30/03/1993"
-age: 32.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

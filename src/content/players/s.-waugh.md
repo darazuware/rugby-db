@@ -1,7 +1,7 @@
 ---
-title: "S. Waugh | nan"
+title: "S. Waugh | "
 name_en: "S. Waugh"
-name_ja: "nan"
+name_ja: ""
 slug: "s.-waugh"
 position: "Centre"
 height: "nan"

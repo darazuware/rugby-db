@@ -1,7 +1,7 @@
 ---
-title: "Riley NORTON | ライリー・ノートン"
+title: "Riley NORTON | Riley ・ NORTON"
 name_en: "Riley NORTON"
-name_ja: "ライリー・ノートン"
+name_ja: "Riley ・ NORTON"
 slug: "riley-norton"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/riley-norton"
 ---
 
 ## キャリア遍歴
-
+Western Province (2024 - 2025) -> Stormers (2025 - 2026)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gael-galvan"
 ---
 
 ## キャリア遍歴
-Pampas XV (2023 - 2024) -> Pucará (2023 - 2025) -> Stade Rochelais (2025 - )
+Pucará (2023 - 2023) -> Pampas XV (2023 - 2023) -> Pucará (2024 - 2024) -> Pampas XV (2024 - 2024) -> Pucará (2024 - 2025) -> Stade Rochelais (2025 - 2026)

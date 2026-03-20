@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/sam-talakai"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "queensland reds (2014 - 2017) -> melbourne rebels (2017 - 2019) -> tokyo sungoliath (2019 - 2022) -> melbourne rebels (2022 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴

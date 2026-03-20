@@ -1,7 +1,7 @@
 ---
-title: "Jean ERASMUS | ジャン-エラスムス"
+title: "Jean ERASMUS | Jean ・ ERASMUS"
 name_en: "Jean ERASMUS"
-name_ja: "ジャン-エラスムス"
+name_ja: "Jean ・ ERASMUS"
 slug: "jean-erasmus"
 position: "PR"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/jean-erasmus"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

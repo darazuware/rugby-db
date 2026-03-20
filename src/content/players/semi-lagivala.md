@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/semi-lagivala"
 ---
 
 ## キャリア遍歴
-Stade Montois Rugby Pro (2022 - 2025) -> Stade Rochelais (2025 - )
+Stade Montois Rugby Pro (2022 - 2025) -> Stade Rochelais (2025 - 2026)

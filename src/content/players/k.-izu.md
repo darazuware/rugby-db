@@ -1,13 +1,13 @@
 ---
-title: "K. Izu | nan"
+title: "K. Izu | "
 name_en: "K. Izu"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-izu"
 position: "Fullback"
 height: "nan"
 weight: "nan"
-birth_date: "2001.07.06"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

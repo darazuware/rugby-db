@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/antoine-hastoy"
 ---
 
 ## キャリア遍歴
-RC Billère ASPTT Lescar (2004 - 2011) -> Section Paloise Béarn Pyrénées (2011 - 2022) -> Stade Rochelais (2022 - )
+RC Billère ASPTT Lescar (2004 - 2011) -> Section Paloise Béarn Pyrénées (2011 - 2022) -> Stade Rochelais (2022 - 2026)

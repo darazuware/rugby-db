@@ -1,7 +1,7 @@
 ---
-title: "G. Wehr | nan"
+title: "G. Wehr | "
 name_en: "G. Wehr"
-name_ja: "nan"
+name_ja: ""
 slug: "g.-wehr"
 position: "Wing"
 height: "nan"

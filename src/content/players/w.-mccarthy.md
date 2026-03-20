@@ -1,7 +1,7 @@
 ---
-title: "W. McCarthy | nan"
+title: "W. McCarthy | "
 name_en: "W. McCarthy"
-name_ja: "nan"
+name_ja: ""
 slug: "w.-mccarthy"
 position: "Centre"
 height: "nan"

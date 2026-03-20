@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marius-domon"
 ---
 
 ## キャリア遍歴
-Barracudas de Saint-Barthélémy (2008 - 2016) -> RC du Levant (2016 - 2017) -> Rugby Club Toulonnais (2017 - )
+Barracudas de Saint-Barthélémy (2008 - 2016) -> RC du Levant (2016 - 2017) -> Rugby Club Toulonnais (2017 - 2026)

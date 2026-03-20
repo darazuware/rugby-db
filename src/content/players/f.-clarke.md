@@ -1,13 +1,13 @@
 ---
-title: "F. Clarke | nan"
+title: "F. Clarke | "
 name_en: "F. Clarke"
-name_ja: "nan"
+name_ja: ""
 slug: "f.-clarke"
 position: "Lock"
 height: "nan"
 weight: "nan"
-birth_date: "10/10/1992"
-age: 33.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

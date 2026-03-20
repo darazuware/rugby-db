@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-barre"
 ---
 
 ## キャリア遍歴
-RC Versailles (2009 - 2014) -> Rugby Club Massy Essonne (2014 - 2020) -> Stade Français Paris Rugby (2020 - )
+RC Versailles (2009 - 2014) -> Rugby Club Massy Essonne (2014 - 2020) -> Stade Français Paris Rugby (2020 - 2026)

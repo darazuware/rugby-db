@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nicolas-corato"
 ---
 
 ## キャリア遍歴
-Rugby Club Auch (2014 - 2017) -> Section Paloise Béarn Pyrénées (2017 - 2024) -> Castres Olympique (2024 - )
+Rugby Club Auch (2014 - 2017) -> Section Paloise Béarn Pyrénées (2017 - 2024) -> Castres Olympique (2024 - 2026)

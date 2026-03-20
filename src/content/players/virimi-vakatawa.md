@@ -10,7 +10,7 @@ birth_date: "1992.05.01"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Fijian Drua"
 caps: "🇫🇷 France (18)"
 high_school: ""

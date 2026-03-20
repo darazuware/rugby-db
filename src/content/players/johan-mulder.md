@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/johan-mulder"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "lions rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴

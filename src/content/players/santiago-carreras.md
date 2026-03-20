@@ -1,22 +1,22 @@
 ---
-title: "Santiago Carreras | nan"
-name_en: "Santiago Carreras"
-name_ja: "nan"
+title: "Santiago CARRERAS | "
+name_en: "Santiago CARRERAS"
+name_ja: ""
 slug: "santiago-carreras"
-position: "Fullback"
-height: "nan"
-weight: "nan"
-birth_date: "30/03/1998"
-age: 27.0
+position: "Fly-half"
+height: "30/03/1998"
+weight: "1"
+birth_date: "nan"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "premiership"
-team: "Bath Rugby"
+league: "mlr"
+team: "The Bath Rugby rugby team for 2025/2026"
 caps: "Squad caps (1120)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/santiago-carreras"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

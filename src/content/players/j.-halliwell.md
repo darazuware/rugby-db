@@ -1,13 +1,13 @@
 ---
-title: "J. Halliwell | nan"
+title: "J. Halliwell | "
 name_en: "J. Halliwell"
-name_ja: "nan"
+name_ja: ""
 slug: "j.-halliwell"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "1996.01.02"
-age: 30.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

@@ -10,7 +10,7 @@ birth_date: "1997.02.17"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "super-rugby"
 team: "Hurricanes"
 caps: "🇳🇿 New Zealand (52)"
 high_school: ""

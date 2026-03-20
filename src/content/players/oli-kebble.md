@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/oli-kebble"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "stormers (2013 - 2017) -> glasgow warriors (2017 - 2024) -> oyonnax rugby (2024 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴

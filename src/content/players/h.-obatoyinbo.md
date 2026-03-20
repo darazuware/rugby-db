@@ -1,7 +1,7 @@
 ---
-title: "H. Obatoyinbo | nan"
+title: "H. Obatoyinbo | "
 name_en: "H. Obatoyinbo"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-obatoyinbo"
 position: "Wing"
 height: "nan"

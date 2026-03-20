@@ -1,13 +1,13 @@
 ---
-title: "Freddie Thomas | nan"
+title: "Freddie Thomas | "
 name_en: "Freddie Thomas"
-name_ja: "nan"
+name_ja: ""
 slug: "freddie-thomas"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "11/09/2001"
-age: 24.0
+birth_date: "2001.11.09"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

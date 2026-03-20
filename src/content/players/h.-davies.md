@@ -1,13 +1,13 @@
 ---
-title: "H. Davies | nan"
+title: "H. Davies | "
 name_en: "H. Davies"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-davies"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "11/12/2003"
-age: 22.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

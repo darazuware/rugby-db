@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-simmonds"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2016 - 2023) -> Section Paloise Béarn Pyrénées (2023 - )
+Exeter Chiefs (2016 - 2023) -> Section Paloise Béarn Pyrénées (2023 - 2026)

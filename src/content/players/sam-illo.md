@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/sam-illo"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "leinster rugby (2020 - 2021) -> connacht rugby (2021 - 2026)"
 ---
 
 ## キャリア遍歴

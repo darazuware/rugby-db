@@ -1,13 +1,13 @@
 ---
-title: "H. Taylor | nan"
+title: "H. Taylor | "
 name_en: "H. Taylor"
-name_ja: "nan"
+name_ja: ""
 slug: "h.-taylor"
 position: "Flanker"
 height: "nan"
 weight: "nan"
-birth_date: "2001-09-09"
-age: 24.0
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "premiership"

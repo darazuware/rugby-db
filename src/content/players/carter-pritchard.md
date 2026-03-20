@@ -1,12 +1,12 @@
 ---
-title: "Carter PRITCHARD | カーター・プリチャード"
+title: "Carter PRITCHARD | Carter ・ PRITCHARD"
 name_en: "Carter PRITCHARD"
-name_ja: "カーター・プリチャード"
+name_ja: "Carter ・ PRITCHARD"
 slug: "carter-pritchard"
 position: "SH"
 height: "173.0"
 weight: "74.0"
-birth_date: "nan"
+birth_date: "2007.."
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/carter-pritchard"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2025 - 2026)

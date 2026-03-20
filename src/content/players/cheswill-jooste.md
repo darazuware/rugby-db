@@ -1,9 +1,9 @@
 ---
-title: "Cheswill JOOSTE | チェスウィル・ヨーステ"
+title: "Cheswill JOOSTE | Cheswill ・ JOOSTE"
 name_en: "Cheswill JOOSTE"
-name_ja: "チェスウィル・ヨーステ"
+name_ja: "Cheswill ・ JOOSTE"
 slug: "cheswill-jooste"
-position: "WTB"
+position: "Winger"
 height: "175.0"
 weight: "75.0"
 birth_date: "2006.."
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/cheswill-jooste"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

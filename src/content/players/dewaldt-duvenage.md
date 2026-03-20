@@ -12,10 +12,10 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/dewaldt-duvenage"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "union sportive arlequins perpignanais (2013 - 2016) -> stormers (2016 - 2018) -> benetton rugby trévise (2018 - 2024) -> stormers (2024 - 2026)"
 ---
 
 ## キャリア遍歴

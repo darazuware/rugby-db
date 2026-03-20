@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "🇫🇷 France"
+caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/maxime-lamothe"
 ---
 
 ## キャリア遍歴
-Pessac (2009 - 2012) -> Union Bordeaux-Bègles (2012 - 2026) -> Aviron Bayonnais (2019 - )
+Pessac (2009 - 2012) -> Union Bordeaux-Bègles (2012 - 2019) -> Aviron Bayonnais (2019 - 2020) -> Union Bordeaux-Bègles (2020 - 2026)

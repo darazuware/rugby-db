@@ -1,7 +1,7 @@
 ---
-title: "Keiran WILLIAMS | キーラン・ウィリアムズ"
+title: "Keiran WILLIAMS | Keiran ・ ウィリアムズ"
 name_en: "Keiran WILLIAMS"
-name_ja: "キーラン・ウィリアムズ"
+name_ja: "Keiran ・ ウィリアムズ"
 slug: "keiran-williams"
 position: "CTB"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/keiran-williams"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2026)

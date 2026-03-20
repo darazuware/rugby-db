@@ -1,7 +1,7 @@
 ---
-title: "K. Freeman Price | nan"
+title: "K. Freeman Price | "
 name_en: "K. Freeman Price"
-name_ja: "nan"
+name_ja: ""
 slug: "k.-freeman-price"
 position: "Hooker"
 height: "nan"

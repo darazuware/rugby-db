@@ -1,7 +1,7 @@
 ---
-title: "C. Myall | nan"
+title: "C. Myall | "
 name_en: "C. Myall"
-name_ja: "nan"
+name_ja: ""
 slug: "c.-myall"
 position: "Centre"
 height: "nan"

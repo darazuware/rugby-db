@@ -1,13 +1,13 @@
 ---
-title: "Bachuki Tchumbadze | nan"
+title: "Bachuki Tchumbadze | "
 name_en: "Bachuki Tchumbadze"
-name_ja: "nan"
+name_ja: ""
 slug: "bachuki-tchumbadze"
 position: "Prop"
 height: "nan"
 weight: "nan"
-birth_date: "30/11/2001"
-age: 24.0
+birth_date: "2001.11.30"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "premiership"

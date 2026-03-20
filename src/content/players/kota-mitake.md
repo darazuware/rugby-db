@@ -7,16 +7,16 @@ position: "PR"
 height: "175.0"
 weight: "110.0"
 birth_date: "1996.04.28"
-age: 29.0
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "nan"
+league: "league-one"
 team: "リコーブラックラムズ東京（2025-26）"
 caps: "U23('16)"
 high_school: "大阪桐蔭高校"
 university: "立命館大学"
-scraped_url: "nan"
+scraped_url: "https://league-one.jp/player/484863"
 ---
 
 ## キャリア遍歴
-
+花園近鉄ライナーズ (2021 - 2025) -> リコーブラックラムズ東京 (2025 - )
