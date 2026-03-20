@@ -12,7 +12,7 @@ const allPlayers = await getCollection("players");
 	<div class="max-w-7xl mx-auto px-4 py-8">
 		<Breadcrumbs items={[{ label: "選手名鑑" }]} />
 		<div class="mb-10">
-			<PlayerList initialPlayers={allPlayers} client:load />
+			<PlayerList initialPlayers={[]} client:load />
 		</div>
 	</div>
 </Layout>

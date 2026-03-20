@@ -206,7 +206,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 		{/* スクレイピング対策用ハニーポットリンク（人間には見えません） */}
 		<div style="display: none;" aria-hidden="true">
-			<a href="/api/v1/all-players-download.json" rel="nofollow">全選手データ一括ダウンロード (Full Player Data Download)</a>
+			<a href="/api/v1/hidden-dataset.json" rel="nofollow">全選手データ一括ダウンロード (Full Player Data Download)</a>
 		</div>
 
 		<style is:global></style>

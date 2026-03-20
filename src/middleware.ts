@@ -1,16 +1,16 @@
 import { defineMiddleware } from "astro:middleware";
 import redirects from "../data/redirects.json";
 
-// ハニーポットのURL
-const HONEYPOT_PATH = '/api/v1/all-players-download.json';
+// ハニーポットのURL (実データAPIと分離)
+const HONEYPOT_PATH = '/api/v1/hidden-dataset.json';
 
 export const onRequest = defineMiddleware(async (context, next) => {
   const { url, request } = context;
   const pathname = url.pathname;
   
-  // Vercel環境でのIP取得（context.clientAddress も使用可能）
-  const ip = request.headers.get('x-forwarded-for') || 'unknown';
-  const userAgent = request.headers.get('user-agent') || 'unknown';
+  // Vercel環境でのIP取得 (ビルド時は null または unknown になる可能性があるためガード)
+  const ip = request.headers?.get('x-forwarded-for') || 'unknown';
+  const userAgent = request.headers?.get('user-agent') || 'unknown';
 
   // ハニーポットへのアクセスを検知
   if (pathname === HONEYPOT_PATH) {

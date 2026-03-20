@@ -133,13 +133,34 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
     const [currentPage, setCurrentPage] = useState(1);
     const ITEMS_PER_PAGE = 48;
+    const [players, setPlayers] = useState<Player[]>(initialPlayers);
+    const [isLoading, setIsLoading] = useState(initialPlayers.length === 0);
+
+    // クライアントサイドでのデータ取得
+    useEffect(() => {
+        if (initialPlayers.length === 0) {
+            const fetchPlayers = async () => {
+                try {
+                    const response = await fetch('/api/v1/all-players-download.json');
+                    if (!response.ok) throw new Error('Failed to fetch');
+                    const data = await response.json();
+                    setPlayers(data);
+                } catch (error) {
+                    console.error('Error fetching players:', error);
+                } finally {
+                    setIsLoading(false);
+                }
+            };
+            fetchPlayers();
+        }
+    }, [initialPlayers]);
 
 
 
     // リーグマッピングの生成
     const TEAM_LEAGUE_MAP = useMemo(() => {
         const map: Record<string, string> = {};
-        initialPlayers.forEach(p => {
+        players.forEach(p => {
             const team = p.data.team;
             const league = p.data.league;
             if (team && league && team.toLowerCase() !== 'nan' && league.toLowerCase() !== 'nan') {
@@ -147,13 +168,13 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             }
         });
         return map;
-    }, [initialPlayers]);
+    }, [players]);
 
     // 全チームのリストを動的に生成
     const ALL_TEAMS = useMemo(() => {
-        const teams = Array.from(new Set(initialPlayers.map(p => p.data.team).filter(Boolean))) as string[];
+        const teams = Array.from(new Set(players.map(p => p.data.team).filter(Boolean))) as string[];
         return teams.sort();
-    }, [initialPlayers]);
+    }, [players]);
 
     // フィルタリングされたチームリスト
     const VISIBLE_TEAMS = useMemo(() => {
@@ -169,7 +190,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         // 選択されたチームのリーグを判定してテーマを適用（最初の選択チームを優先）
         if (selectedTeams.length > 0) {
             const firstTeam = selectedTeams[0];
-            const player = initialPlayers.find(p => p.data.team === firstTeam);
+            const player = players.find(p => p.data.team === firstTeam);
             const league = player?.data.league;
 
             switch (league) {
@@ -312,7 +333,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             decoration: 'decoration-yellow-400',
             hex: '#facc15'
         };
-    }, [selectedTeams, initialPlayers, leagueContext]);
+    }, [selectedTeams, players, leagueContext]);
 
     // URLパラメータから初期値を設定
     useEffect(() => {
@@ -345,7 +366,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
     }, [search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
 
     const filteredPlayers = useMemo(() => {
-        let result = initialPlayers.filter((p) => {
+        let result = players.filter((p) => {
             const pLeague = (p.data.league ?? '').toLowerCase();
             
             if (search.endsWith('歳')) {
@@ -412,8 +433,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         });
 
         result.sort((a, b) => {
-            let valA = a.data[sortKey];
-            let valB = b.data[sortKey];
+            let valA = a.data[sortKey as keyof typeof a.data];
+            let valB = b.data[sortKey as keyof typeof b.data];
 
             if (sortKey === 'height' || sortKey === 'weight') {
                 valA = parseFloat(String(valA).replace(/[^0-9.]/g, '')) || 0;
@@ -429,7 +450,7 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
         });
 
         return result;
-    }, [initialPlayers, search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
+    }, [players, search, selectedLeagues, selectedPositions, selectedDivisions, selectedCategories, selectedTeams, sortKey, sortOrder]);
 
     const totalPages = Math.ceil(filteredPlayers.length / ITEMS_PER_PAGE);
     const paginatedPlayers = useMemo(() => {
@@ -767,12 +788,18 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                     </div>
 
                             <p className="text-foreground/40 font-bold ml-2 italic underline decoration-2 underline-offset-4" style={{ textDecorationColor: theme.hex }}>
-                        検索結果: <span className="text-foreground">{filteredPlayers.length}</span> 名
+                        検索結果: <span className="text-foreground">{isLoading ? '読み込み中...' : filteredPlayers.length}</span> 名
                     </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                    {paginatedPlayers.map((player) => {
+                {isLoading ? (
+                    <div className="col-span-full py-20 text-center">
+                        <div className="inline-block w-12 h-12 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin mb-4"></div>
+                        <p className="text-foreground/40 font-bold animate-pulse">選手データを読み込み中 (5,000名超)...</p>
+                    </div>
+                ) : (
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                        {paginatedPlayers.map((player) => {
                         const leagueColor = getLeagueColor(player.data.league);
                         const categoryColor = getCategoryColor(player.data.league);
                         return (
@@ -871,9 +898,10 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                         </div>
                                     </div>
                             </a>
-                        );
-                    })}
-                </div>
+                    );
+                })}
+            </div>
+        )}
 
                 {/* ページネーションコントロール */}
                 {totalPages > 1 && (
