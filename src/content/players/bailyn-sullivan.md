@@ -1,17 +1,17 @@
 ---
-title: "Bailyn SULLIVAN | "
-name_en: "Bailyn SULLIVAN"
-name_ja: ""
+title: "nan | ベイリン-サリヴァン"
+name_en: "nan"
+name_ja: "ベイリン-サリヴァン"
 slug: "bailyn-sullivan"
-position: "CTB"
-height: "187.0"
-weight: "103.0"
-birth_date: "1998.09.03"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bailyn-sullivan"
 ---

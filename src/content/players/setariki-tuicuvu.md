@@ -1,18 +1,18 @@
 ---
-title: "Setariki TUICUVU | "
-name_en: "Setariki TUICUVU"
-name_ja: ""
+title: "nan | セタリキ・トゥイツヴ"
+name_en: "nan"
+name_ja: "セタリキ・トゥイツヴ"
 slug: "setariki-tuicuvu"
-position: "CTB"
-height: "179.0"
-weight: "95.0"
-birth_date: "1995.09.07"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/setariki-tuicuvu"
 ---
 

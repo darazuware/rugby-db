@@ -1,17 +1,17 @@
 ---
-title: "Ruhan NEL | "
-name_en: "Ruhan NEL"
-name_ja: ""
+title: "nan | Ruhan ・ NEL"
+name_en: "nan"
+name_ja: "Ruhan ・ NEL"
 slug: "ruhan-nel"
-position: "CTB"
-height: "191.0"
-weight: "101.0"
-birth_date: "1991.05.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ruhan-nel"
 ---

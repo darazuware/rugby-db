@@ -1,17 +1,17 @@
 ---
-title: "Enzo HERVÉ | "
-name_en: "Enzo HERVÉ"
-name_ja: ""
+title: "nan | エンゾ・エルヴェ"
+name_en: "nan"
+name_ja: "エンゾ・エルヴェ"
 slug: "enzo-herve"
-position: "SO"
-height: "176.0"
-weight: "94.0"
-birth_date: "1998.10.13"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/enzo-herve"
 ---

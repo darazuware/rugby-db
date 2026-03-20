@@ -1,17 +1,17 @@
 ---
-title: "Ben AFSHAR | "
-name_en: "Ben AFSHAR"
-name_ja: ""
+title: "nan | ベン ・ AFSHAR"
+name_en: "nan"
+name_ja: "ベン ・ AFSHAR"
 slug: "ben-afshar"
-position: "SH"
-height: "184.0"
-weight: "81.0"
-birth_date: "2003.04.02"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-afshar"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Jacob RATUMAITAVUKI-KNEEPKENS | "
-name_en: "Jacob RATUMAITAVUKI-KNEEPKENS"
-name_ja: ""
+title: "nan | ジェイコブ-ラトゥマイタヴキ＝ニープケンズ"
+name_en: "nan"
+name_ja: "ジェイコブ-ラトゥマイタヴキ＝ニープケンズ"
 slug: "jacob-ratumaitavuki-kneepkens"
-position: "WTB"
-height: "187.0"
-weight: "95.0"
-birth_date: "2001.08.03"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jacob-ratumaitavuki-kneepkens"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Harry PLUMMER | "
-name_en: "Harry PLUMMER"
-name_ja: ""
+title: "nan | ハリー-プラマー"
+name_en: "nan"
+name_ja: "ハリー-プラマー"
 slug: "harry-plummer"
-position: "SO"
-height: "184.0"
-weight: "99.0"
-birth_date: "1998.06.19"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/harry-plummer"
 ---
 

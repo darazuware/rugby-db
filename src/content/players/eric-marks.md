@@ -1,18 +1,18 @@
 ---
-title: "Eric MARKS | "
-name_en: "Eric MARKS"
-name_ja: ""
+title: "nan | エリック・マークス"
+name_en: "nan"
+name_ja: "エリック・マークス"
 slug: "eric-marks"
-position: "LO"
-height: "196.0"
-weight: "116.0"
-birth_date: "1996.12.09"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
-caps: "Germany"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/eric-marks"
 ---
 

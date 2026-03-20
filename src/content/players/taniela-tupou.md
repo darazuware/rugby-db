@@ -1,18 +1,18 @@
 ---
-title: "Taniela TUPOU | "
-name_en: "Taniela TUPOU"
-name_ja: ""
+title: "nan | タニエラ・ツポウ"
+name_en: "nan"
+name_ja: "タニエラ・ツポウ"
 slug: "taniela-tupou"
-position: "PR"
-height: "181.0"
-weight: "148.0"
-birth_date: "1996.05.10"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/taniela-tupou"
 ---
 

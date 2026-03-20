@@ -1,17 +1,17 @@
 ---
-title: "Gary PORTER | "
-name_en: "Gary PORTER"
-name_ja: ""
+title: "nan | Gary ・ PORTER"
+name_en: "nan"
+name_ja: "Gary ・ PORTER"
 slug: "gary-porter"
-position: "LO"
-height: "200.0"
-weight: "115.0"
-birth_date: "1996.07.22"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/gary-porter"
 ---

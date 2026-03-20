@@ -1,18 +1,18 @@
 ---
-title: "Leigh HALFPENNY | "
-name_en: "Leigh HALFPENNY"
-name_ja: ""
+title: "nan | Leigh ・ HALFPENNY"
+name_en: "nan"
+name_ja: "Leigh ・ HALFPENNY"
 slug: "leigh-halfpenny"
-position: "FB"
-height: "178.0"
-weight: "86.0"
-birth_date: "1988.12.22"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/leigh-halfpenny"
 ---
 

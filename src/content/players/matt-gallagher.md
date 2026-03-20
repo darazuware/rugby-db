@@ -1,17 +1,17 @@
 ---
-title: "Matt GALLAGHER | "
-name_en: "Matt GALLAGHER"
-name_ja: ""
+title: "nan | Matt ・ GALLAGHER"
+name_en: "nan"
+name_ja: "Matt ・ GALLAGHER"
 slug: "matt-gallagher"
-position: "FB"
-height: "185.0"
-weight: "96.0"
-birth_date: "1996.10.26"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matt-gallagher"
 ---

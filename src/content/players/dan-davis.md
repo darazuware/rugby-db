@@ -1,17 +1,17 @@
 ---
-title: "Dan DAVIS | "
-name_en: "Dan DAVIS"
-name_ja: ""
+title: "nan | ダン ・ DAVIS"
+name_en: "nan"
+name_ja: "ダン ・ DAVIS"
 slug: "dan-davis"
-position: "Back row"
-height: "182.0"
-weight: "101.0"
-birth_date: "1998.09.17"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-davis"
 ---

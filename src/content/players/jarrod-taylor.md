@@ -1,17 +1,17 @@
 ---
-title: "Jarrod TAYLOR | "
-name_en: "Jarrod TAYLOR"
-name_ja: ""
+title: "nan | Jarrod ・ TAYLOR"
+name_en: "nan"
+name_ja: "Jarrod ・ TAYLOR"
 slug: "jarrod-taylor"
-position: "Back row"
-height: "188.0"
-weight: "100.0"
-birth_date: "2001.02.15"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jarrod-taylor"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Harold VORSTER | "
-name_en: "Harold VORSTER"
-name_ja: ""
+title: "nan | Harold ・ VORSTER"
+name_en: "nan"
+name_ja: "Harold ・ VORSTER"
 slug: "harold-vorster"
-position: "CTB"
-height: "188.0"
-weight: "101.0"
-birth_date: "1993.10.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harold-vorster"
 ---

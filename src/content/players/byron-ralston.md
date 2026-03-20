@@ -1,17 +1,17 @@
 ---
-title: "Byron RALSTON | "
-name_en: "Byron RALSTON"
-name_ja: ""
+title: "nan | Byron ・ RALSTON"
+name_en: "nan"
+name_ja: "Byron ・ RALSTON"
 slug: "byron-ralston"
-position: "Winger"
-height: "184.0"
-weight: "94.0"
-birth_date: "2000.05.03"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/byron-ralston"
 ---

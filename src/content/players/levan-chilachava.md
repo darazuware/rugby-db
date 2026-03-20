@@ -1,18 +1,18 @@
 ---
-title: "Levan CHILACHAVA | "
-name_en: "Levan CHILACHAVA"
-name_ja: ""
+title: "nan | レヴァン・チラチャヴァ"
+name_en: "nan"
+name_ja: "レヴァン・チラチャヴァ"
 slug: "levan-chilachava"
-position: "PR"
-height: "188.0"
-weight: "133.0"
-birth_date: "1991.08.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/levan-chilachava"
 ---
 

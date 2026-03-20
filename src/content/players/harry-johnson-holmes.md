@@ -1,18 +1,18 @@
 ---
-title: "Harry JOHNSON-HOLMES | "
-name_en: "Harry JOHNSON-HOLMES"
-name_ja: ""
+title: "nan | ハリー-ジョンソン＝ホームズ"
+name_en: "nan"
+name_ja: "ハリー-ジョンソン＝ホームズ"
 slug: "harry-johnson-holmes"
-position: "PR"
-height: "186.0"
-weight: "119.0"
-birth_date: "1997.03.02"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/harry-johnson-holmes"
 ---
 

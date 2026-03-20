@@ -1,18 +1,18 @@
 ---
-title: "Warner DEARNS | "
-name_en: "Warner DEARNS"
-name_ja: ""
+title: "nan | ワーナー・ディアンズ"
+name_en: "nan"
+name_ja: "ワーナー・ディアンズ"
 slug: "warner-dearns"
-position: "LO"
-height: "202.0"
-weight: "124.0"
-birth_date: "2002.04.11"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/warner-dearns"
 ---
 

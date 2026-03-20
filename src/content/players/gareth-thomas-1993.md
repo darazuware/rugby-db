@@ -1,18 +1,18 @@
 ---
-title: "Gareth THOMAS | "
-name_en: "Gareth THOMAS"
-name_ja: ""
+title: "nan | ガレス ・ トーマス"
+name_en: "nan"
+name_ja: "ガレス ・ トーマス"
 slug: "gareth-thomas-1993"
-position: "PR"
-height: "188.0"
-weight: "120.0"
-birth_date: "1993.08.02"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "James BENJAMIN | "
-name_en: "James BENJAMIN"
-name_ja: ""
+title: "nan | ジェームズ ・ BENJAMIN"
+name_en: "nan"
+name_ja: "ジェームズ ・ BENJAMIN"
 slug: "james-benjamin"
-position: "HO"
-height: "183.0"
-weight: "100.0"
-birth_date: "1994.02.21"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/james-benjamin"
 ---

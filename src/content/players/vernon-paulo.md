@@ -1,17 +1,17 @@
 ---
-title: "Vernon PAULO | "
-name_en: "Vernon PAULO"
-name_ja: ""
+title: "nan | Vernon ・ PAULO"
+name_en: "nan"
+name_ja: "Vernon ・ PAULO"
 slug: "vernon-paulo"
-position: "HO"
-height: "178.0"
-weight: "112.0"
-birth_date: "2001.07.16"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vernon-paulo"
 ---

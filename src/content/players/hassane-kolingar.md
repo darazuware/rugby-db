@@ -1,18 +1,18 @@
 ---
-title: "Hassane KOLINGAR | "
-name_en: "Hassane KOLINGAR"
-name_ja: ""
+title: "nan | ハッサヌ-コリンガル"
+name_en: "nan"
+name_ja: "ハッサヌ-コリンガル"
 slug: "hassane-kolingar"
-position: "PR"
-height: "186.0"
-weight: "116.0"
-birth_date: "1998.03.06"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/hassane-kolingar"
 ---
 

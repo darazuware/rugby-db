@@ -4,14 +4,14 @@ name_en: "John POWERS"
 name_ja: ""
 slug: "john-powers"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "08/07/1997"
+weight: "1"
 birth_date: ""
-age: 28
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/john-powers"
 ---

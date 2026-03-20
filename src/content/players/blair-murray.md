@@ -1,18 +1,18 @@
 ---
-title: "Blair MURRAY | "
-name_en: "Blair MURRAY"
-name_ja: ""
+title: "nan | ブレア ・ MURRAY"
+name_en: "nan"
+name_ja: "ブレア ・ MURRAY"
 slug: "blair-murray"
-position: "FB"
-height: "173.0"
-weight: "83.0"
-birth_date: "2001.10.09"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/blair-murray"
 ---
 

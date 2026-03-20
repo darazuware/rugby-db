@@ -1,17 +1,17 @@
 ---
-title: "Tapiwa MAFURA | "
-name_en: "Tapiwa MAFURA"
-name_ja: ""
+title: "nan | Tapiwa ・ MAFURA"
+name_en: "nan"
+name_ja: "Tapiwa ・ MAFURA"
 slug: "tapiwa-mafura"
-position: "FB"
-height: "175.0"
-weight: "80.0"
-birth_date: "1996.04.11"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tapiwa-mafura"
 ---

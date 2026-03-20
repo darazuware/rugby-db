@@ -1,17 +1,17 @@
 ---
-title: "Alexis BERNADET | "
-name_en: "Alexis BERNADET"
-name_ja: ""
+title: "nan | アレクシス・ベルナデ"
+name_en: "nan"
+name_ja: "アレクシス・ベルナデ"
 slug: "alexis-bernadet"
-position: "SH"
-height: "180.0"
-weight: "79.0"
-birth_date: "2001.06.02"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alexis-bernadet"
 ---

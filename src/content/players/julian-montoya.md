@@ -1,18 +1,18 @@
 ---
-title: "Julián MONTOYA | "
-name_en: "Julián MONTOYA"
-name_ja: ""
+title: "nan | フリアン・モントージャ"
+name_en: "nan"
+name_ja: "フリアン・モントージャ"
 slug: "julian-montoya"
-position: "HO"
-height: "183.0"
-weight: "113.0"
-birth_date: "1993.10.29"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/julian-montoya"
 ---
 

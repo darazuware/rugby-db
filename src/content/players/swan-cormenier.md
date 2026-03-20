@@ -1,17 +1,17 @@
 ---
-title: "Swan CORMENIER | "
-name_en: "Swan CORMENIER"
-name_ja: ""
+title: "nan | スワン・コルムニエ"
+name_en: "nan"
+name_ja: "スワン・コルムニエ"
 slug: "swan-cormenier"
-position: "PR"
-height: "178.0"
-weight: "120.0"
-birth_date: "1996.01.18"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/swan-cormenier"
 ---

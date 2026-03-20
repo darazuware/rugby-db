@@ -1,17 +1,17 @@
 ---
-title: "Sam WILLIAMS | "
-name_en: "Sam WILLIAMS"
-name_ja: ""
+title: "nan | サム ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "サム ・ ウィリアムズ"
 slug: "sam-williams-21689"
-position: "LO"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-williams-21689"
 ---

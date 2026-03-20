@@ -1,17 +1,17 @@
 ---
-title: "Eric O'SULLIVAN | "
-name_en: "Eric O'SULLIVAN"
-name_ja: ""
+title: "nan | Eric ・ O'SULLIVAN"
+name_en: "nan"
+name_ja: "Eric ・ O'SULLIVAN"
 slug: "eric-o-sullivan"
-position: "PR"
-height: "186.0"
-weight: "118.0"
-birth_date: "1995.11.30"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eric-o-sullivan"
 ---

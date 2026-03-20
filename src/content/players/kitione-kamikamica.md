@@ -1,17 +1,17 @@
 ---
-title: "Kitione KAMIKAMICA | "
-name_en: "Kitione KAMIKAMICA"
-name_ja: ""
+title: "nan | キティオネ・カミカミザ"
+name_en: "nan"
+name_ja: "キティオネ・カミカミザ"
 slug: "kitione-kamikamica"
-position: "FL/NO8"
-height: "188.0"
-weight: "110.0"
-birth_date: "1996.04.27"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kitione-kamikamica"
 ---

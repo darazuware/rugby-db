@@ -1,17 +1,17 @@
 ---
-title: "Mirco SPAGNOLO | "
-name_en: "Mirco SPAGNOLO"
-name_ja: ""
+title: "nan | Mirco ・ SPAGNOLO"
+name_en: "nan"
+name_ja: "Mirco ・ SPAGNOLO"
 slug: "mirco-spagnolo"
-position: "PR"
-height: "186.0"
-weight: "110.0"
-birth_date: "2001.01.02"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mirco-spagnolo"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Henry ROBERTSON | "
-name_en: "Henry ROBERTSON"
-name_ja: ""
+title: "nan | ヘンリー・ロバートソン"
+name_en: "nan"
+name_ja: "ヘンリー・ロバートソン"
 slug: "henry-robertson"
-position: "SH"
-height: "180.0"
-weight: "82.0"
-birth_date: "1999.10.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-robertson"
 ---

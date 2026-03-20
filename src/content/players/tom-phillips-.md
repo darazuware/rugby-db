@@ -1,17 +1,17 @@
 ---
-title: "Tom PHILLIPS | "
-name_en: "Tom PHILLIPS"
-name_ja: ""
+title: "nan | トム ・ PHILLIPS"
+name_en: "nan"
+name_ja: "トム ・ PHILLIPS"
 slug: "tom-phillips-"
-position: "PR"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-phillips-"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Lester ÉTIEN | "
-name_en: "Lester ÉTIEN"
-name_ja: ""
+title: "nan | スター・エティアン"
+name_en: "nan"
+name_ja: "スター・エティアン"
 slug: "lester-etien"
-position: "WTB"
-height: "181.0"
-weight: "102.0"
-birth_date: "1995.06.21"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lester-etien"
 ---
 

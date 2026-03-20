@@ -1,18 +1,18 @@
 ---
-title: "Rob HERRING | "
-name_en: "Rob HERRING"
-name_ja: ""
+title: "nan | Rob ・ HERRING"
+name_en: "nan"
+name_ja: "Rob ・ HERRING"
 slug: "rob-herring"
-position: "HO"
-height: "185.0"
-weight: "106.0"
-birth_date: "1990.04.27"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rob-herring"
 ---
 

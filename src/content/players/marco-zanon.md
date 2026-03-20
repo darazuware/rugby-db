@@ -1,18 +1,18 @@
 ---
-title: "Marco ZANON | "
-name_en: "Marco ZANON"
-name_ja: ""
+title: "nan | マルコ ・ ZANON"
+name_en: "nan"
+name_ja: "マルコ ・ ZANON"
 slug: "marco-zanon"
-position: "CTB"
-height: "188.0"
-weight: "104.0"
-birth_date: "1997.10.03"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/marco-zanon"
 ---
 

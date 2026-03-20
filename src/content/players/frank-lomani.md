@@ -1,18 +1,18 @@
 ---
-title: "Frank LOMANI | "
-name_en: "Frank LOMANI"
-name_ja: ""
+title: "nan | フランク-ロマニ"
+name_en: "nan"
+name_ja: "フランク-ロマニ"
 slug: "frank-lomani"
-position: "SH"
-height: "180.0"
-weight: "81.0"
-birth_date: "1996.04.18"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
-caps: "Fiji"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/frank-lomani"
 ---
 

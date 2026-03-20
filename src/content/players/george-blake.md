@@ -1,17 +1,17 @@
 ---
-title: "George BLAKE | "
-name_en: "George BLAKE"
-name_ja: ""
+title: "nan | ジョージ・ブレイク"
+name_en: "nan"
+name_ja: "ジョージ・ブレイク"
 slug: "george-blake"
-position: "PR"
-height: "184.0"
-weight: "113.0"
-birth_date: "2001.06.11"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/george-blake"
 ---

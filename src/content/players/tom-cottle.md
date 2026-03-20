@@ -1,17 +1,17 @@
 ---
-title: "Tom COTTLE | "
-name_en: "Tom COTTLE"
-name_ja: ""
+title: "nan | トム ・ COTTLE"
+name_en: "nan"
+name_ja: "トム ・ COTTLE"
 slug: "tom-cottle"
-position: "LO"
-height: "198.0"
-weight: "114.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-cottle"
 ---

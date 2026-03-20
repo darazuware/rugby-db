@@ -1,17 +1,17 @@
 ---
-title: "Marco SPREAFICHI | "
-name_en: "Marco SPREAFICHI"
-name_ja: ""
+title: "nan | マルコ ・ SPREAFICHI"
+name_en: "nan"
+name_ja: "マルコ ・ SPREAFICHI"
 slug: "marco-spreafichi"
-position: "LO"
-height: "196.0"
-weight: "102.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marco-spreafichi"
 ---

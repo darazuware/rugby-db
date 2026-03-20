@@ -1,17 +1,17 @@
 ---
-title: "Noa ZINZEN | "
-name_en: "Noa ZINZEN"
-name_ja: ""
+title: "nan | ノア・ジンゼン"
+name_en: "nan"
+name_ja: "ノア・ジンゼン"
 slug: "noa-zinzen"
-position: "FL/NO8"
-height: "192.0"
-weight: "103.0"
-birth_date: "2004.02.24"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/noa-zinzen"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Thomas MOUKORO | "
-name_en: "Thomas MOUKORO"
-name_ja: ""
+title: "nan | トマ・ムコロ"
+name_en: "nan"
+name_ja: "トマ・ムコロ"
 slug: "thomas-moukoro"
-position: "PR"
-height: "185.0"
-weight: "121.0"
-birth_date: "2002.01.01"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-moukoro"
 ---

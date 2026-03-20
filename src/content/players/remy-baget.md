@@ -1,17 +1,17 @@
 ---
-title: "Rémy BAGET | "
-name_en: "Rémy BAGET"
-name_ja: ""
+title: "nan | レミ・バジェ"
+name_en: "nan"
+name_ja: "レミ・バジェ"
 slug: "remy-baget"
-position: "WTB"
-height: "182.0"
-weight: "89.0"
-birth_date: "1997.07.27"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/remy-baget"
 ---

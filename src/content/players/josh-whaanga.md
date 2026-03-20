@@ -1,17 +1,17 @@
 ---
-title: "Josh WHAANGA | "
-name_en: "Josh WHAANGA"
-name_ja: ""
+title: "nan | ジョシュ・ファンガ"
+name_en: "nan"
+name_ja: "ジョシュ・ファンガ"
 slug: "josh-whaanga"
-position: "CTB"
-height: "193.0"
-weight: "98.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-whaanga"
 ---

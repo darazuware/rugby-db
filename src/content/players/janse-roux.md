@@ -1,17 +1,17 @@
 ---
-title: "Janse ROUX | "
-name_en: "Janse ROUX"
-name_ja: ""
+title: "nan | ヤンセ・ルー"
+name_en: "nan"
+name_ja: "ヤンセ・ルー"
 slug: "janse-roux"
-position: "LO"
-height: "200.0"
-weight: "125.0"
-birth_date: "1997.08.28"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/janse-roux"
 ---

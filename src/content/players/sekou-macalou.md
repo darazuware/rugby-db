@@ -1,18 +1,18 @@
 ---
-title: "Sékou MACALOU | "
-name_en: "Sékou MACALOU"
-name_ja: ""
+title: "nan | セク・マカドゥ"
+name_en: "nan"
+name_ja: "セク・マカドゥ"
 slug: "sekou-macalou"
-position: "FL/NO8"
-height: "195.0"
-weight: "108.0"
-birth_date: "1995.04.20"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sekou-macalou"
 ---
 

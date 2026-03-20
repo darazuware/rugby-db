@@ -1,17 +1,17 @@
 ---
-title: "Murphy WALKER | "
-name_en: "Murphy WALKER"
-name_ja: ""
+title: "nan | Murphy ・ WALKER"
+name_en: "nan"
+name_ja: "Murphy ・ WALKER"
 slug: "murphy-walker"
-position: "PR"
-height: "185.0"
-weight: "110.0"
-birth_date: "1999.10.25"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/murphy-walker"
 ---

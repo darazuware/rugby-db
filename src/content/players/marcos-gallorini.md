@@ -1,17 +1,17 @@
 ---
-title: "Marcos GALLORINI | "
-name_en: "Marcos GALLORINI"
-name_ja: ""
+title: "nan | Marcos ・ GALLORINI"
+name_en: "nan"
+name_ja: "Marcos ・ GALLORINI"
 slug: "marcos-gallorini"
-position: "PR"
-height: "190.0"
-weight: "135.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marcos-gallorini"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Elia CANAKAIVATA | "
-name_en: "Elia CANAKAIVATA"
-name_ja: ""
+title: "nan | エリア-ジャナカイヴァタ"
+name_en: "nan"
+name_ja: "エリア-ジャナカイヴァタ"
 slug: "elia-canakaivata"
-position: "FL/No8"
-height: "185.0"
-weight: "104.0"
-birth_date: "1996.07.12"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/elia-canakaivata"
 ---

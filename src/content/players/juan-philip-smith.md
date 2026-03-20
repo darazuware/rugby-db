@@ -4,14 +4,14 @@ name_en: "JP SMITH"
 name_ja: ""
 slug: "juan-philip-smith"
 position: "Scrum-half"
-height: "0"
-weight: "0"
+height: "30/03/1994"
+weight: "1"
 birth_date: ""
-age: 31
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/juan-philip-smith"
 ---

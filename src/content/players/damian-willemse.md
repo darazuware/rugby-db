@@ -1,18 +1,18 @@
 ---
-title: "Damian WILLEMSE | "
-name_en: "Damian WILLEMSE"
-name_ja: ""
+title: "nan | ダミアン ・ ヴィレムセ"
+name_en: "nan"
+name_ja: "ダミアン ・ ヴィレムセ"
 slug: "damian-willemse"
-position: "SO"
-height: "187.0"
-weight: "100.0"
-birth_date: "1998.05.07"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/damian-willemse"
 ---
 

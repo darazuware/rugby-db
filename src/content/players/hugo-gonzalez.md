@@ -1,18 +1,18 @@
 ---
-title: "Hugo GONZÁLEZ | "
-name_en: "Hugo GONZÁLEZ"
-name_ja: ""
+title: "nan | ユーゴー-ゴンザレス"
+name_en: "nan"
+name_ja: "ユーゴー-ゴンザレス"
 slug: "hugo-gonzalez"
-position: "PR"
-height: "184.0"
-weight: "119.0"
-birth_date: "//2005"
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Spain"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/hugo-gonzalez"
 ---
 

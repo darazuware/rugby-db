@@ -1,17 +1,17 @@
 ---
-title: "Ruan VENTER | "
-name_en: "Ruan VENTER"
-name_ja: ""
+title: "nan | Ruan ・ VENTER"
+name_en: "nan"
+name_ja: "Ruan ・ VENTER"
 slug: "ruan-venter"
-position: "LO"
-height: "198.0"
-weight: "120.0"
-birth_date: "2002.11.29"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ruan-venter"
 ---

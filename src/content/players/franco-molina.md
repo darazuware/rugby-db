@@ -1,17 +1,17 @@
 ---
-title: "Franco MOLINA | "
-name_en: "Franco MOLINA"
-name_ja: ""
+title: "nan | フランコ-モリーナ"
+name_en: "nan"
+name_ja: "フランコ-モリーナ"
 slug: "franco-molina"
-position: "LO"
-height: "198.0"
-weight: "120.0"
-birth_date: "1997.08.28"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/franco-molina"
 ---

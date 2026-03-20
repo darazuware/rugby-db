@@ -1,17 +1,17 @@
 ---
-title: "Sam TUITUPOU | "
-name_en: "Sam TUITUPOU"
-name_ja: ""
+title: "nan | サム・ツイツポウ"
+name_en: "nan"
+name_ja: "サム・ツイツポウ"
 slug: "sam-tuitupou-2005"
-position: "FL/No8"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2005.."
-age: 21
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-tuitupou-2005"
 ---

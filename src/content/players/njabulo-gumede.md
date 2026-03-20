@@ -4,14 +4,14 @@ name_en: "Njabulo GUMEDE"
 name_ja: ""
 slug: "njabulo-gumede"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "03/01/1995"
+weight: "1"
 birth_date: ""
-age: 31
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/njabulo-gumede"
 ---

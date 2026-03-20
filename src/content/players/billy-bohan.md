@@ -1,17 +1,17 @@
 ---
-title: "Billy BOHAN | "
-name_en: "Billy BOHAN"
-name_ja: ""
+title: "nan | Billy ・ BOHAN"
+name_en: "nan"
+name_ja: "Billy ・ BOHAN"
 slug: "billy-bohan"
-position: "PR"
-height: "191.0"
-weight: "114.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/billy-bohan"
 ---

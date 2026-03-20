@@ -1,17 +1,17 @@
 ---
-title: "Jack DALY | "
-name_en: "Jack DALY"
-name_ja: ""
+title: "nan | ジャック-デイリー"
+name_en: "nan"
+name_ja: "ジャック-デイリー"
 slug: "jack-daly"
-position: "FL/No8"
-height: "183.0"
-weight: "107.0"
-birth_date: "1998.08.12"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-daly"
 ---

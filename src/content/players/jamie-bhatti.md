@@ -1,18 +1,18 @@
 ---
-title: "Jamie BHATTI | "
-name_en: "Jamie BHATTI"
-name_ja: ""
+title: "nan | ジェイミー ・ BHATTI"
+name_en: "nan"
+name_ja: "ジェイミー ・ BHATTI"
 slug: "jamie-bhatti"
-position: "PR"
-height: "185.0"
-weight: "125.0"
-birth_date: "1993.09.08"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jamie-bhatti"
 ---
 

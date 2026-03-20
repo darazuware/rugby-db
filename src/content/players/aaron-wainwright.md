@@ -1,18 +1,18 @@
 ---
-title: "Aaron WAINWRIGHT | "
-name_en: "Aaron WAINWRIGHT"
-name_ja: ""
+title: "nan | アーロン ・ WAINWRIGHT"
+name_en: "nan"
+name_ja: "アーロン ・ WAINWRIGHT"
 slug: "aaron-wainwright"
-position: "Back row"
-height: "188.0"
-weight: "110.0"
-birth_date: "1997.09.25"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/aaron-wainwright"
 ---
 

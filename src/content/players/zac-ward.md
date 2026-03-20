@@ -1,17 +1,17 @@
 ---
-title: "Zac WARD | "
-name_en: "Zac WARD"
-name_ja: ""
+title: "nan | Zac ・ WARD"
+name_en: "nan"
+name_ja: "Zac ・ WARD"
 slug: "zac-ward"
-position: "Winger"
-height: "191.0"
-weight: "101.0"
-birth_date: "1998.12.11"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/zac-ward"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Alivereti RAKA | "
-name_en: "Alivereti RAKA"
-name_ja: ""
+title: "nan | アリヴェレティ-ラカ"
+name_en: "nan"
+name_ja: "アリヴェレティ-ラカ"
 slug: "alivereti-raka"
-position: "WTB"
-height: "189.0"
-weight: "105.0"
-birth_date: "1994.12.09"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/alivereti-raka"
 ---
 

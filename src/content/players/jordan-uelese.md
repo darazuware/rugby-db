@@ -1,18 +1,18 @@
 ---
-title: "Jordan UELESE | "
-name_en: "Jordan UELESE"
-name_ja: ""
+title: "nan | ジョーダン・ウエレセ"
+name_en: "nan"
+name_ja: "ジョーダン・ウエレセ"
 slug: "jordan-uelese"
-position: "HO"
-height: "189.0"
-weight: "122.0"
-birth_date: "1997.01.24"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jordan-uelese"
 ---
 

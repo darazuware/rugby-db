@@ -1,17 +1,17 @@
 ---
-title: "Jérémy SINZELLE | "
-name_en: "Jérémy SINZELLE"
-name_ja: ""
+title: "nan | ジェレミー・サンゼル"
+name_en: "nan"
+name_ja: "ジェレミー・サンゼル"
 slug: "jeremy-sinzelle"
-position: "CTB"
-height: "184.0"
-weight: "98.0"
-birth_date: "1990.07.02"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jeremy-sinzelle"
 ---

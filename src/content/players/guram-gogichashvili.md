@@ -1,18 +1,18 @@
 ---
-title: "Guram GOGICHASHVILI | "
-name_en: "Guram GOGICHASHVILI"
-name_ja: ""
+title: "nan | グラム-ゴギチャシュヴィリ"
+name_en: "nan"
+name_ja: "グラム-ゴギチャシュヴィリ"
 slug: "guram-gogichashvili"
-position: "PR"
-height: "183.0"
-weight: "118.0"
-birth_date: "1998.09.04"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/guram-gogichashvili"
 ---
 

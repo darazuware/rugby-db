@@ -1,17 +1,17 @@
 ---
-title: "Riley HIGGINS | "
-name_en: "Riley HIGGINS"
-name_ja: ""
+title: "nan | ライリー・ヒギンス"
+name_en: "nan"
+name_ja: "ライリー・ヒギンス"
 slug: "riley-higgins"
-position: "CTB"
-height: "187.0"
-weight: "99.0"
-birth_date: "2002.10.09"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/riley-higgins"
 ---

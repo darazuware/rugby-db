@@ -1,17 +1,17 @@
 ---
-title: "Jeandré RUDOLPH | "
-name_en: "Jeandré RUDOLPH"
-name_ja: ""
+title: "nan | Jeandr ・ RUDOLPH"
+name_en: "nan"
+name_ja: "Jeandr ・ RUDOLPH"
 slug: "jeandre-rudolph"
-position: "Back row"
-height: "186.0"
-weight: "108.0"
-birth_date: "1994.05.09"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jeandre-rudolph"
 ---

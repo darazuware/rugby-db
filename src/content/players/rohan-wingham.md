@@ -1,17 +1,17 @@
 ---
-title: "Rohan WINGHAM | "
-name_en: "Rohan WINGHAM"
-name_ja: ""
+title: "nan | ロハン・ウィンガム"
+name_en: "nan"
+name_ja: "ロハン・ウィンガム"
 slug: "rohan-wingham"
-position: "PR"
-height: "189.0"
-weight: "117.0"
-birth_date: "2002.12.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rohan-wingham"
 ---

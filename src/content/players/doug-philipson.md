@@ -1,17 +1,17 @@
 ---
-title: "Doug PHILIPSON | "
-name_en: "Doug PHILIPSON"
-name_ja: ""
+title: "nan | ダグ・フィリップソン"
+name_en: "nan"
+name_ja: "ダグ・フィリップソン"
 slug: "doug-philipson"
-position: "SH"
-height: "171.0"
-weight: "72.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/doug-philipson"
 ---

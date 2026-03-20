@@ -1,17 +1,17 @@
 ---
-title: "Nathan BOLLENGIER | "
-name_en: "Nathan BOLLENGIER"
-name_ja: ""
+title: "nan | ナタン・ボランジェ"
+name_en: "nan"
+name_ja: "ナタン・ボランジェ"
 slug: "nathan-bollengier"
-position: "WTB"
-height: "183.0"
-weight: "85.0"
-birth_date: "2004.01.18"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nathan-bollengier"
 ---

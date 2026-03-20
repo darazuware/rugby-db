@@ -1,17 +1,17 @@
 ---
-title: "Sintu MANJEZI | "
-name_en: "Sintu MANJEZI"
-name_ja: ""
+title: "nan | Sintu ・ MANJEZI"
+name_en: "nan"
+name_ja: "Sintu ・ MANJEZI"
 slug: "sintu-manjezi"
-position: "LO"
-height: "198.0"
-weight: "118.0"
-birth_date: "1995.04.07"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sintu-manjezi"
 ---

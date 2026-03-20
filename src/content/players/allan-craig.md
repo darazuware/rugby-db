@@ -1,17 +1,17 @@
 ---
-title: "Allan CRAIG | "
-name_en: "Allan CRAIG"
-name_ja: ""
+title: "nan | アラン・クレイグ"
+name_en: "nan"
+name_ja: "アラン・クレイグ"
 slug: "allan-craig"
-position: "LO"
-height: "196.0"
-weight: "112.0"
-birth_date: "2002.04.19"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/allan-craig"
 ---

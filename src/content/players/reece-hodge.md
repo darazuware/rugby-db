@@ -1,18 +1,18 @@
 ---
-title: "Reece HODGE | "
-name_en: "Reece HODGE"
-name_ja: ""
+title: "nan | リース・ホッジ"
+name_en: "nan"
+name_ja: "リース・ホッジ"
 slug: "reece-hodge"
-position: "CTB"
-height: "191.0"
-weight: "94.0"
-birth_date: "1994.08.26"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/reece-hodge"
 ---
 

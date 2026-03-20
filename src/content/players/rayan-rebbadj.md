@@ -1,17 +1,17 @@
 ---
-title: "Rayan REBBADJ | "
-name_en: "Rayan REBBADJ"
-name_ja: ""
+title: "nan | ラヤン・レベル"
+name_en: "nan"
+name_ja: "ラヤン・レベル"
 slug: "rayan-rebbadj"
-position: "CTB"
-height: "190.0"
-weight: "100.0"
-birth_date: "1999.08.15"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rayan-rebbadj"
 ---

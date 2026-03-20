@@ -1,18 +1,18 @@
 ---
-title: "Stuart MCCLOSKEY | "
-name_en: "Stuart MCCLOSKEY"
-name_ja: ""
+title: "nan | Stuart ・ MCCLOSKEY"
+name_en: "nan"
+name_ja: "Stuart ・ MCCLOSKEY"
 slug: "stuart-mccloskey"
-position: "CTB"
-height: "193.0"
-weight: "112.0"
-birth_date: "1992.08.06"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/stuart-mccloskey"
 ---
 

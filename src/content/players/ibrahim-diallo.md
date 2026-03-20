@@ -1,17 +1,17 @@
 ---
-title: "Ibrahim DIALLO | "
-name_en: "Ibrahim DIALLO"
-name_ja: ""
+title: "nan | イブラヒム-ディアロ"
+name_en: "nan"
+name_ja: "イブラヒム-ディアロ"
 slug: "ibrahim-diallo"
-position: "FL/NO8"
-height: "193.0"
-weight: "109.0"
-birth_date: "1998.01.23"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ibrahim-diallo"
 ---

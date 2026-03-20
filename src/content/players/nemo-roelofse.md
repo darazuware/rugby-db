@@ -1,17 +1,17 @@
 ---
-title: "Nemo ROELOFSE | "
-name_en: "Nemo ROELOFSE"
-name_ja: ""
+title: "nan | ネモ・ロエロフセ"
+name_en: "nan"
+name_ja: "ネモ・ロエロフセ"
 slug: "nemo-roelofse"
-position: "PR"
-height: "182.0"
-weight: "120.0"
-birth_date: "1995.06.06"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nemo-roelofse"
 ---

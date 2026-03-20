@@ -1,17 +1,17 @@
 ---
-title: "Lorcan MCLOUGHLIN | "
-name_en: "Lorcan MCLOUGHLIN"
-name_ja: ""
+title: "nan | Lorcan ・ MCLOUGHLIN"
+name_en: "nan"
+name_ja: "Lorcan ・ MCLOUGHLIN"
 slug: "lorcan-mcloughlin"
-position: "Back row"
-height: "190.0"
-weight: "109.0"
-birth_date: "2002.04.03"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lorcan-mcloughlin"
 ---

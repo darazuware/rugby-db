@@ -1,17 +1,17 @@
 ---
-title: "Le Roux MALAN | "
-name_en: "Le Roux MALAN"
-name_ja: ""
+title: "nan | ル ・ ルー ・ MALAN"
+name_en: "nan"
+name_ja: "ル ・ ルー ・ MALAN"
 slug: "le-roux-malan"
-position: "CTB"
-height: "191.0"
-weight: "100.0"
-birth_date: "1999.03.31"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ニューイングランド・フリージャックス"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/le-roux-malan"
 ---

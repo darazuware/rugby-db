@@ -1,18 +1,18 @@
 ---
-title: "Iñaki AYARZA | "
-name_en: "Iñaki AYARZA"
-name_ja: ""
+title: "nan | イニャキ-アヤルサ"
+name_en: "nan"
+name_ja: "イニャキ-アヤルサ"
 slug: "inaki-ayarza"
-position: "CTB"
-height: "186.0"
-weight: "102.0"
-birth_date: "1999.09.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
-caps: "Chile"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/inaki-ayarza"
 ---
 

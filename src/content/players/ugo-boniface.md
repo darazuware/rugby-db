@@ -1,17 +1,17 @@
 ---
-title: "Ugo BONIFACE | "
-name_en: "Ugo BONIFACE"
-name_ja: ""
+title: "nan | ウーゴ・ボニファス"
+name_en: "nan"
+name_ja: "ウーゴ・ボニファス"
 slug: "ugo-boniface"
-position: "PR"
-height: "190.0"
-weight: "125.0"
-birth_date: "1998.07.21"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ugo-boniface"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Hamish MACARTHUR | "
-name_en: "Hamish MACARTHUR"
-name_ja: ""
+title: "nan | ヘイミッシュ ・ MACARTHUR"
+name_en: "nan"
+name_ja: "ヘイミッシュ ・ MACARTHUR"
 slug: "hamish-macarthur"
-position: "SH"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hamish-macarthur"
 ---

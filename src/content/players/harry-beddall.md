@@ -1,17 +1,17 @@
 ---
-title: "Harry BEDDALL | "
-name_en: "Harry BEDDALL"
-name_ja: ""
+title: "nan | Harry ・ BEDDALL"
+name_en: "nan"
+name_ja: "Harry ・ BEDDALL"
 slug: "harry-beddall"
-position: "Back row"
-height: "178.0"
-weight: "94.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-beddall"
 ---

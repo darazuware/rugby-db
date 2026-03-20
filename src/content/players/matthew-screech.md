@@ -1,17 +1,17 @@
 ---
-title: "Matthew SCREECH | "
-name_en: "Matthew SCREECH"
-name_ja: ""
+title: "nan | マシュー ・ SCREECH"
+name_en: "nan"
+name_ja: "マシュー ・ SCREECH"
 slug: "matthew-screech"
-position: "LO"
-height: "196.0"
-weight: "116.0"
-birth_date: "1992.10.24"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matthew-screech"
 ---

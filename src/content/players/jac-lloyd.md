@@ -1,17 +1,17 @@
 ---
-title: "Jac LLOYD | "
-name_en: "Jac LLOYD"
-name_ja: ""
+title: "nan | Jac ・ LLOYD"
+name_en: "nan"
+name_ja: "Jac ・ LLOYD"
 slug: "jac-lloyd"
-position: "SO"
-height: "174.0"
-weight: "81.0"
-birth_date: "2002.09.28"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jac-lloyd"
 ---

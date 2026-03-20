@@ -1,17 +1,17 @@
 ---
-title: "Paula LATU | "
-name_en: "Paula LATU"
-name_ja: ""
+title: "nan | パウラ・ラトゥ"
+name_en: "nan"
+name_ja: "パウラ・ラトゥ"
 slug: "paula-latu"
-position: "PR"
-height: "187.0"
-weight: "123.0"
-birth_date: "1996.02.14"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/paula-latu"
 ---

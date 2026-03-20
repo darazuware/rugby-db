@@ -1,17 +1,17 @@
 ---
-title: "Brent JACKSON | "
-name_en: "Brent JACKSON"
-name_ja: ""
+title: "nan | Brent ・ JACKSON"
+name_en: "nan"
+name_ja: "Brent ・ JACKSON"
 slug: "brent-jackson"
-position: "SH"
-height: "180.0"
-weight: "84.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/brent-jackson"
 ---

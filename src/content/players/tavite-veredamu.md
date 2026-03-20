@@ -1,18 +1,18 @@
 ---
-title: "Tavite VEREDAMU | "
-name_en: "Tavite VEREDAMU"
-name_ja: ""
+title: "nan | タヴィテ・ヴェレダム"
+name_en: "nan"
+name_ja: "タヴィテ・ヴェレダム"
 slug: "tavite-veredamu"
-position: "WTB"
-height: "192.0"
-weight: "108.0"
-birth_date: "1989.09.01"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tavite-veredamu"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Harri WILLIAMS | "
-name_en: "Harri WILLIAMS"
-name_ja: ""
+title: "nan | Harri ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "Harri ・ ウィリアムズ"
 slug: "harri-williams"
-position: "SH"
-height: "173.0"
-weight: "78.0"
-birth_date: "2003.04.05"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-williams"
 ---

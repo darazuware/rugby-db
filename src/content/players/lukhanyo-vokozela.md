@@ -1,17 +1,17 @@
 ---
-title: "Lukhanyo VOKOZELA | "
-name_en: "Lukhanyo VOKOZELA"
-name_ja: ""
+title: "nan | ルカニョ ・ VOKOZELA"
+name_en: "nan"
+name_ja: "ルカニョ ・ VOKOZELA"
 slug: "lukhanyo-vokozela"
-position: "HO"
-height: "175.0"
-weight: "108.0"
-birth_date: "2002.02.05"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lukhanyo-vokozela"
 ---

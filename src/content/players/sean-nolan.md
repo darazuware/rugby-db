@@ -4,14 +4,14 @@ name_en: "Sean NOLAN"
 name_ja: ""
 slug: "sean-nolan"
 position: "Fly-half"
-height: "0"
-weight: "0"
+height: "11/12/2000"
+weight: "1"
 birth_date: ""
-age: 25
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "RFCロサンゼルス"
+team: "The RFC Los Angeles rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-nolan"
 ---

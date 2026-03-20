@@ -1,17 +1,17 @@
 ---
-title: "Mills SANERIVI | "
-name_en: "Mills SANERIVI"
-name_ja: ""
+title: "nan | ミルズ・サネリヴィ"
+name_en: "nan"
+name_ja: "ミルズ・サネリヴィ"
 slug: "mills-sanerivi"
-position: "HO"
-height: "181.0"
-weight: "113.0"
-birth_date: "1999.08.31"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mills-sanerivi"
 ---

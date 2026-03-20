@@ -1,17 +1,17 @@
 ---
-title: "Christian LINDSAY | "
-name_en: "Christian LINDSAY"
-name_ja: ""
+title: "nan | Christian ・ LINDSAY"
+name_en: "nan"
+name_ja: "Christian ・ LINDSAY"
 slug: "christian-lindsay"
-position: "LO"
-height: "200.0"
-weight: "121.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/christian-lindsay"
 ---

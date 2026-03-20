@@ -1,18 +1,18 @@
 ---
-title: "Alec HEPBURN | "
-name_en: "Alec HEPBURN"
-name_ja: ""
+title: "nan | Alec ・ HEPBURN"
+name_en: "nan"
+name_ja: "Alec ・ HEPBURN"
 slug: "alec-hepburn"
-position: "PR"
-height: "186.0"
-weight: "114.0"
-birth_date: "1993.03.30"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/alec-hepburn"
 ---
 

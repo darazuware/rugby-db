@@ -1,17 +1,17 @@
 ---
-title: "Tom LYNAGH | "
-name_en: "Tom LYNAGH"
-name_ja: ""
+title: "nan | トム・ライナー"
+name_en: "nan"
+name_ja: "トム・ライナー"
 slug: "tom-lynagh"
-position: "SO"
-height: "178.0"
-weight: "83.0"
-birth_date: "2003.04.14"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-lynagh"
 ---

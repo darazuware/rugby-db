@@ -1,18 +1,18 @@
 ---
-title: "Jonny HILL | "
-name_en: "Jonny HILL"
-name_ja: ""
+title: "nan | ジョニー・ヒル"
+name_en: "nan"
+name_ja: "ジョニー・ヒル"
 slug: "jonny-hill"
-position: "LO"
-height: "202.0"
-weight: "133.0"
-birth_date: "1994.06.08"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jonny-hill"
 ---
 

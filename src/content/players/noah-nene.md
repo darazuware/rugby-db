@@ -1,18 +1,18 @@
 ---
-title: "Noah NÉNÉ | "
-name_en: "Noah NÉNÉ"
-name_ja: ""
+title: "nan | ノア・ネネ"
+name_en: "nan"
+name_ja: "ノア・ネネ"
 slug: "noah-nene"
-position: "CTB"
-height: "192.0"
-weight: "108.0"
-birth_date: "//2004"
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/noah-nene"
 ---
 

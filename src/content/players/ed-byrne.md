@@ -1,18 +1,18 @@
 ---
-title: "Ed BYRNE | "
-name_en: "Ed BYRNE"
-name_ja: ""
+title: "nan | Ed ・ BYRNE"
+name_en: "nan"
+name_ja: "Ed ・ BYRNE"
 slug: "ed-byrne"
-position: "PR"
-height: "180.0"
-weight: "115.0"
-birth_date: "1993.09.09"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ed-byrne"
 ---
 

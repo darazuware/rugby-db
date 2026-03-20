@@ -1,17 +1,17 @@
 ---
-title: "Ben CARSON | "
-name_en: "Ben CARSON"
-name_ja: ""
+title: "nan | ベン ・ CARSON"
+name_en: "nan"
+name_ja: "ベン ・ CARSON"
 slug: "ben-carson"
-position: "CTB"
-height: "183.0"
-weight: "101.0"
-birth_date: "2002.02.24"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-carson"
 ---

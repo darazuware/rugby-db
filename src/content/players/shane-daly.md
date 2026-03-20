@@ -1,18 +1,18 @@
 ---
-title: "Shane DALY | "
-name_en: "Shane DALY"
-name_ja: ""
+title: "nan | Shane ・ DALY"
+name_en: "nan"
+name_ja: "Shane ・ DALY"
 slug: "shane-daly"
-position: "CTB"
-height: "191.0"
-weight: "92.0"
-birth_date: "1996.12.19"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/shane-daly"
 ---
 

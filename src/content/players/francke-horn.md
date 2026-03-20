@@ -1,17 +1,17 @@
 ---
-title: "Francke HORN | "
-name_en: "Francke HORN"
-name_ja: ""
+title: "nan | Francke ・ HORN"
+name_en: "nan"
+name_ja: "Francke ・ HORN"
 slug: "francke-horn"
-position: "Back row"
-height: "190.0"
-weight: "106.0"
-birth_date: "1999.05.24"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/francke-horn"
 ---

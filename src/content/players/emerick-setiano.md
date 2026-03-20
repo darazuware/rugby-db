@@ -1,18 +1,18 @@
 ---
-title: "Emerick SETIANO | "
-name_en: "Emerick SETIANO"
-name_ja: ""
+title: "nan | エメリック・セティアーノ"
+name_en: "nan"
+name_ja: "エメリック・セティアーノ"
 slug: "emerick-setiano"
-position: "PR"
-height: "183.0"
-weight: "115.0"
-birth_date: "1996.07.19"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/emerick-setiano"
 ---
 

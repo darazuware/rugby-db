@@ -1,18 +1,18 @@
 ---
-title: "Dany PRISO | "
-name_en: "Dany PRISO"
-name_ja: ""
+title: "nan | ダニー-プリゾ"
+name_en: "nan"
+name_ja: "ダニー-プリゾ"
 slug: "dany-priso"
-position: "PR"
-height: "182.0"
-weight: "112.0"
-birth_date: "1994.01.02"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Cameroon"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/dany-priso"
 ---
 

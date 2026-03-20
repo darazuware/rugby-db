@@ -1,17 +1,17 @@
 ---
-title: "Cameron JONES | "
-name_en: "Cameron JONES"
-name_ja: ""
+title: "nan | Cameron ・ JONES"
+name_en: "nan"
+name_ja: "Cameron ・ JONES"
 slug: "cameron-jones"
-position: "PR"
-height: "193.0"
-weight: "128.0"
-birth_date: "2001.10.04"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-jones"
 ---

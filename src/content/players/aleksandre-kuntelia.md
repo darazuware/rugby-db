@@ -1,17 +1,17 @@
 ---
-title: "Aleksandre KUNTELIA | "
-name_en: "Aleksandre KUNTELIA"
-name_ja: ""
+title: "nan | アレクサンドル・クンテリア"
+name_en: "nan"
+name_ja: "アレクサンドル・クンテリア"
 slug: "aleksandre-kuntelia"
-position: "PR"
-height: "197.0"
-weight: "135.0"
-birth_date: "2002.06.26"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aleksandre-kuntelia"
 ---

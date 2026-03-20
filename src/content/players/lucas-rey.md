@@ -1,17 +1,17 @@
 ---
-title: "Lucas REY | "
-name_en: "Lucas REY"
-name_ja: ""
+title: "nan | ルカス・レイ"
+name_en: "nan"
+name_ja: "ルカス・レイ"
 slug: "lucas-rey"
-position: "HO"
-height: "175.0"
-weight: "98.0"
-birth_date: "1997.04.27"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-rey"
 ---

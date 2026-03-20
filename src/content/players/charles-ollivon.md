@@ -1,18 +1,18 @@
 ---
-title: "Charles OLLIVON | "
-name_en: "Charles OLLIVON"
-name_ja: ""
+title: "nan | シャルル-オリヴォン"
+name_en: "nan"
+name_ja: "シャルル-オリヴォン"
 slug: "charles-ollivon"
-position: "FL/NO8"
-height: "199.0"
-weight: "114.0"
-birth_date: "1993.05.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/charles-ollivon"
 ---
 

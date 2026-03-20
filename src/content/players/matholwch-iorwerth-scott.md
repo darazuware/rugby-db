@@ -1,17 +1,17 @@
 ---
-title: "Math IORWERTH-SCOTT | "
-name_en: "Math IORWERTH-SCOTT"
-name_ja: ""
+title: "nan | Math ・ IORWERTH ・ スコット"
+name_en: "nan"
+name_ja: "Math ・ IORWERTH ・ スコット"
 slug: "matholwch-iorwerth-scott"
-position: "PR"
-height: "185.0"
-weight: "125.0"
-birth_date: "2000.01.05"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matholwch-iorwerth-scott"
 ---

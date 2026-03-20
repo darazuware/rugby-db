@@ -1,17 +1,17 @@
 ---
-title: "Kian HIRE | "
-name_en: "Kian HIRE"
-name_ja: ""
+title: "nan | Kian ・ HIRE"
+name_en: "nan"
+name_ja: "Kian ・ HIRE"
 slug: "kian-hire"
-position: "LO"
-height: "188.0"
-weight: "122.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kian-hire"
 ---

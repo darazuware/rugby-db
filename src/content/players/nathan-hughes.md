@@ -1,18 +1,18 @@
 ---
-title: "Nathan HUGHES | "
-name_en: "Nathan HUGHES"
-name_ja: ""
+title: "nan | ネイサン・ヒューズ"
+name_en: "nan"
+name_ja: "ネイサン・ヒューズ"
 slug: "nathan-hughes"
-position: "FL/NO8"
-height: "196.0"
-weight: "126.0"
-birth_date: "1991.06.10"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nathan-hughes"
 ---
 

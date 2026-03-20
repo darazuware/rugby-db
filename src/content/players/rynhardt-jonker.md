@@ -1,17 +1,17 @@
 ---
-title: "Rynhardt JONKER | "
-name_en: "Rynhardt JONKER"
-name_ja: ""
+title: "nan | Rynhardt ・ JONKER"
+name_en: "nan"
+name_ja: "Rynhardt ・ JONKER"
 slug: "rynhardt-jonker"
-position: "CTB"
-height: "180.0"
-weight: "90.0"
-birth_date: "2000.04.18"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rynhardt-jonker"
 ---

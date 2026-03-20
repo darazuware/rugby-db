@@ -1,17 +1,17 @@
 ---
-title: "Matis PERCHAUD | "
-name_en: "Matis PERCHAUD"
-name_ja: ""
+title: "nan | マティス・ペルショー"
+name_en: "nan"
+name_ja: "マティス・ペルショー"
 slug: "matis-perchaud"
-position: "PR"
-height: "187.0"
-weight: "114.0"
-birth_date: "2002.09.17"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matis-perchaud"
 ---

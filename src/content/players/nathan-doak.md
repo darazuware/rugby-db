@@ -1,17 +1,17 @@
 ---
-title: "Nathan DOAK | "
-name_en: "Nathan DOAK"
-name_ja: ""
+title: "nan | Nathan ・ DOAK"
+name_en: "nan"
+name_ja: "Nathan ・ DOAK"
 slug: "nathan-doak"
-position: "SH"
-height: "185.0"
-weight: "87.0"
-birth_date: "2001.12.17"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nathan-doak"
 ---

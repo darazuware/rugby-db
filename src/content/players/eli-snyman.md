@@ -1,17 +1,17 @@
 ---
-title: "Eli SNYMAN | "
-name_en: "Eli SNYMAN"
-name_ja: ""
+title: "nan | Eli ・ スナイマン"
+name_en: "nan"
+name_ja: "Eli ・ スナイマン"
 slug: "eli-snyman"
-position: "LO"
-height: "200.0"
-weight: "119.0"
-birth_date: "1996.01.25"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eli-snyman"
 ---

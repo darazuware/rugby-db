@@ -1,17 +1,17 @@
 ---
-title: "Tom FLORENCE | "
-name_en: "Tom FLORENCE"
-name_ja: ""
+title: "nan | トム ・ FLORENCE"
+name_en: "nan"
+name_ja: "トム ・ FLORENCE"
 slug: "tom-florence-"
-position: "CTB"
-height: "188.0"
-weight: "96.0"
-birth_date: "2003.03.19"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-florence-"
 ---

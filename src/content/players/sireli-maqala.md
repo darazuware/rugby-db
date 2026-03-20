@@ -1,17 +1,17 @@
 ---
-title: "Sireli MAQALA | "
-name_en: "Sireli MAQALA"
-name_ja: ""
+title: "nan | シレリ・マカラ"
+name_en: "nan"
+name_ja: "シレリ・マカラ"
 slug: "sireli-maqala"
-position: "CTB"
-height: "172.0"
-weight: "88.0"
-birth_date: "2000.03.20"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sireli-maqala"
 ---

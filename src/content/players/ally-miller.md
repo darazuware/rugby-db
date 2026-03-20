@@ -1,17 +1,17 @@
 ---
-title: "Ally MILLER | "
-name_en: "Ally MILLER"
-name_ja: ""
+title: "nan | Ally ・ MILLER"
+name_en: "nan"
+name_ja: "Ally ・ MILLER"
 slug: "ally-miller"
-position: "Back row"
-height: "193.0"
-weight: "112.0"
-birth_date: "1996.05.10"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ally-miller"
 ---

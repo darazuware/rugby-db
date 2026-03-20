@@ -1,17 +1,17 @@
 ---
-title: "Seru URU | "
-name_en: "Seru URU"
-name_ja: ""
+title: "nan | セル・ウル"
+name_en: "nan"
+name_ja: "セル・ウル"
 slug: "seru-uru"
-position: "FL/No8"
-height: "197.0"
-weight: "115.0"
-birth_date: "1997.01.03"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/seru-uru"
 ---

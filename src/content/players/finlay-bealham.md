@@ -1,18 +1,18 @@
 ---
-title: "Finlay BEALHAM | "
-name_en: "Finlay BEALHAM"
-name_ja: ""
+title: "nan | フィンレイ ・ BEALHAM"
+name_en: "nan"
+name_ja: "フィンレイ ・ BEALHAM"
 slug: "finlay-bealham"
-position: "PR"
-height: "189.0"
-weight: "123.0"
-birth_date: "1991.10.09"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/finlay-bealham"
 ---
 

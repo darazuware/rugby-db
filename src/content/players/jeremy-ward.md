@@ -1,17 +1,17 @@
 ---
-title: "Jeremy WARD | "
-name_en: "Jeremy WARD"
-name_ja: ""
+title: "nan | ジェレミー-ウォード"
+name_en: "nan"
+name_ja: "ジェレミー-ウォード"
 slug: "jeremy-ward"
-position: "CTB"
-height: "187.0"
-weight: "92.0"
-birth_date: "1996.01.10"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jeremy-ward"
 ---

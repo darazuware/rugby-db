@@ -1,18 +1,18 @@
 ---
-title: "Kyle STEYN | "
-name_en: "Kyle STEYN"
-name_ja: ""
+title: "nan | Kyle ・ STEYN"
+name_en: "nan"
+name_ja: "Kyle ・ STEYN"
 slug: "kyle-steyn"
-position: "CTB"
-height: "188.0"
-weight: "102.0"
-birth_date: "1994.01.29"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kyle-steyn"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Ioan LLOYD | "
-name_en: "Ioan LLOYD"
-name_ja: ""
+title: "nan | Ioan ・ LLOYD"
+name_en: "nan"
+name_ja: "Ioan ・ LLOYD"
 slug: "ioan-lloyd"
-position: "SO"
-height: "179.0"
-weight: "86.0"
-birth_date: "2001.04.05"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ioan-lloyd"
 ---
 

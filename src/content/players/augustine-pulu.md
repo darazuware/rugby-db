@@ -1,17 +1,17 @@
 ---
-title: "Augustine PULU | "
-name_en: "Augustine PULU"
-name_ja: ""
+title: "nan | オーガスティン-プル"
+name_en: "nan"
+name_ja: "オーガスティン-プル"
 slug: "augustine-pulu"
-position: "SH"
-height: "180.0"
-weight: "93.0"
-birth_date: "1990.01.04"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/augustine-pulu"
 ---

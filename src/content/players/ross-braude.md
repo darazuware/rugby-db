@@ -1,18 +1,18 @@
 ---
-title: "Ross BRAUDE | "
-name_en: "Ross BRAUDE"
-name_ja: ""
+title: "nan | ロス ・ BRAUDE"
+name_en: "nan"
+name_ja: "ロス ・ BRAUDE"
 slug: "ross-braude"
-position: "SH"
-height: "168.0"
-weight: "83.0"
-birth_date: "2000.01.18"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ross-braude"
 ---
 

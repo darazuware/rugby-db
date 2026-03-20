@@ -1,17 +1,17 @@
 ---
-title: "Ruan ACKERMANN | "
-name_en: "Ruan ACKERMANN"
-name_ja: ""
+title: "nan | Ruan ・ ACKERMANN"
+name_en: "nan"
+name_ja: "Ruan ・ ACKERMANN"
 slug: "ruan-ackermann"
-position: "Back row"
-height: "194.0"
-weight: "115.0"
-birth_date: "1995.12.29"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ruan-ackermann"
 ---

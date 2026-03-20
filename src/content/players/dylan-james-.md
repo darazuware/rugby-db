@@ -1,17 +1,17 @@
 ---
-title: "Dylan JAMES | "
-name_en: "Dylan JAMES"
-name_ja: ""
+title: "nan | Dylan ・ ジェームズ"
+name_en: "nan"
+name_ja: "Dylan ・ ジェームズ"
 slug: "dylan-james-"
-position: "PR"
-height: "183.0"
-weight: "114.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-james-"
 ---

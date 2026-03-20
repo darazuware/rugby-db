@@ -1,17 +1,17 @@
 ---
-title: "Max DOUGLAS | "
-name_en: "Max DOUGLAS"
-name_ja: ""
+title: "nan | Max ・ DOUGLAS"
+name_en: "nan"
+name_ja: "Max ・ DOUGLAS"
 slug: "max-douglas"
-position: "LO"
-height: "200.0"
-weight: "112.0"
-birth_date: "2000.01.01"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/max-douglas"
 ---

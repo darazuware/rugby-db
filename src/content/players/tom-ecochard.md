@@ -1,17 +1,17 @@
 ---
-title: "Tom ECOCHARD | "
-name_en: "Tom ECOCHARD"
-name_ja: ""
+title: "nan | トム・エコシャール"
+name_en: "nan"
+name_ja: "トム・エコシャール"
 slug: "tom-ecochard"
-position: "SH"
-height: "173.0"
-weight: "85.0"
-birth_date: "1992.12.14"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-ecochard"
 ---

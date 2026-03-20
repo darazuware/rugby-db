@@ -1,17 +1,17 @@
 ---
-title: "Anthime HEMERY | "
-name_en: "Anthime HEMERY"
-name_ja: ""
+title: "nan | アンティム・エムリー"
+name_en: "nan"
+name_ja: "アンティム・エムリー"
 slug: "anthime-hemery"
-position: "FL/NO8"
-height: "187.0"
-weight: "111.0"
-birth_date: "2001.01.09"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/anthime-hemery"
 ---

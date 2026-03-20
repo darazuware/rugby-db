@@ -1,17 +1,17 @@
 ---
-title: "Ignacio RUIZ | "
-name_en: "Ignacio RUIZ"
-name_ja: ""
+title: "nan | イグナシオ-ルイス"
+name_en: "nan"
+name_ja: "イグナシオ-ルイス"
 slug: "ignacio-ruiz"
-position: "HO"
-height: "185.0"
-weight: "109.0"
-birth_date: "2001.01.03"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ignacio-ruiz"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Giorgi TETRASHVILI | "
-name_en: "Giorgi TETRASHVILI"
-name_ja: ""
+title: "nan | ギオルギ-テトラシュヴィリ"
+name_en: "nan"
+name_ja: "ギオルギ-テトラシュヴィリ"
 slug: "giorgi-tetrashvili"
-position: "PR"
-height: "177.0"
-weight: "115.0"
-birth_date: "1993.08.31"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/giorgi-tetrashvili"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Marco TAULEIGNE | "
-name_en: "Marco TAULEIGNE"
-name_ja: ""
+title: "nan | マルコ・トレニュ"
+name_en: "nan"
+name_ja: "マルコ・トレニュ"
 slug: "marco-tauleigne"
-position: "FL/NO8"
-height: "191.0"
-weight: "118.0"
-birth_date: "1993.08.30"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/marco-tauleigne"
 ---
 

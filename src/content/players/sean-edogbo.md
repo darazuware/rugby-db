@@ -1,17 +1,17 @@
 ---
-title: "Seán EDOGBO | "
-name_en: "Seán EDOGBO"
-name_ja: ""
+title: "nan | Se ・ EDOGBO"
+name_en: "nan"
+name_ja: "Se ・ EDOGBO"
 slug: "sean-edogbo"
-position: "Back row"
-height: "188.0"
-weight: "111.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-edogbo"
 ---

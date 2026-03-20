@@ -1,17 +1,17 @@
 ---
-title: "Scott WILSON | "
-name_en: "Scott WILSON"
-name_ja: ""
+title: "nan | スコット ・ WILSON"
+name_en: "nan"
+name_ja: "スコット ・ WILSON"
 slug: "scott-wilson-"
-position: "PR"
-height: "187.0"
-weight: "125.0"
-birth_date: "2002.08.06"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-wilson-"
 ---

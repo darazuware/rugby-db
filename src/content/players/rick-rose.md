@@ -4,14 +4,14 @@ name_en: "Rick ROSE"
 name_ja: ""
 slug: "rick-rose"
 position: "Lock"
-height: "0"
-weight: "0"
+height: "28/07/2001"
+weight: "2"
 birth_date: ""
-age: 24
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "マイアミ・シャークス"
+team: "The Miami Sharks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/rick-rose"
 ---

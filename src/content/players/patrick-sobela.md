@@ -1,17 +1,17 @@
 ---
-title: "Patrick SOBÉLA | "
-name_en: "Patrick SOBÉLA"
-name_ja: ""
+title: "nan | パトリック・ソベラ"
+name_en: "nan"
+name_ja: "パトリック・ソベラ"
 slug: "patrick-sobela"
-position: "FL/NO8"
-height: "188.0"
-weight: "105.0"
-birth_date: "1992.08.12"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/patrick-sobela"
 ---

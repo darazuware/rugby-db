@@ -1,18 +1,18 @@
 ---
-title: "Henry THOMAS | "
-name_en: "Henry THOMAS"
-name_ja: ""
+title: "nan | Henry ・ トーマス"
+name_en: "nan"
+name_ja: "Henry ・ トーマス"
 slug: "henry-thomas"
-position: "PR"
-height: "188.0"
-weight: "120.0"
-birth_date: "1991.10.30"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/henry-thomas"
 ---
 

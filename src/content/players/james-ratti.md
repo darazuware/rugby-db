@@ -1,18 +1,18 @@
 ---
-title: "James RATTI | "
-name_en: "James RATTI"
-name_ja: ""
+title: "nan | ジェームズ ・ RATTI"
+name_en: "nan"
+name_ja: "ジェームズ ・ RATTI"
 slug: "james-ratti"
-position: "LO"
-height: "196.0"
-weight: "120.0"
-birth_date: "1997.10.14"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/james-ratti"
 ---
 

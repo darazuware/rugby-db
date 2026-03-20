@@ -1,18 +1,18 @@
 ---
-title: "Madosh TAMBWE | "
-name_en: "Madosh TAMBWE"
-name_ja: ""
+title: "nan | マドッシュ・タンブウェ"
+name_en: "nan"
+name_ja: "マドッシュ・タンブウェ"
 slug: "michael-tambwe"
-position: "WTB"
-height: "186.0"
-weight: "94.0"
-birth_date: "1997.05.12"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "Congo"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/michael-tambwe"
 ---
 

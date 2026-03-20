@@ -1,17 +1,17 @@
 ---
-title: "Thomas VINCENT | "
-name_en: "Thomas VINCENT"
-name_ja: ""
+title: "nan | トマ・ヴァンサン"
+name_en: "nan"
+name_ja: "トマ・ヴァンサン"
 slug: "thomas-vincent"
-position: "SO"
-height: "185.0"
-weight: "85.0"
-birth_date: "1999.07.21"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-vincent"
 ---

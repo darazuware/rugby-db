@@ -1,17 +1,17 @@
 ---
-title: "Colm REILLY | "
-name_en: "Colm REILLY"
-name_ja: ""
+title: "nan | Colm ・ REILLY"
+name_en: "nan"
+name_ja: "Colm ・ REILLY"
 slug: "colm-reilly"
-position: "SH"
-height: "178.0"
-weight: "78.0"
-birth_date: "1999.08.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/colm-reilly"
 ---

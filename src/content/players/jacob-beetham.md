@@ -1,17 +1,17 @@
 ---
-title: "Jacob BEETHAM | "
-name_en: "Jacob BEETHAM"
-name_ja: ""
+title: "nan | Jacob ・ BEETHAM"
+name_en: "nan"
+name_ja: "Jacob ・ BEETHAM"
 slug: "jacob-beetham"
-position: "FB"
-height: "185.0"
-weight: "100.0"
-birth_date: "2001.04.18"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jacob-beetham"
 ---

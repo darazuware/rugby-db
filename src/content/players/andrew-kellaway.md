@@ -1,18 +1,18 @@
 ---
-title: "Andrew KELLAWAY | "
-name_en: "Andrew KELLAWAY"
-name_ja: ""
+title: "nan | アンドリュー-ケラウェイ"
+name_en: "nan"
+name_ja: "アンドリュー-ケラウェイ"
 slug: "andrew-kellaway"
-position: "WTB"
-height: "183.0"
-weight: "94.0"
-birth_date: "1995.10.12"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/andrew-kellaway"
 ---
 

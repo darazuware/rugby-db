@@ -1,17 +1,17 @@
 ---
-title: "Blake SCHOUPP | "
-name_en: "Blake SCHOUPP"
-name_ja: ""
+title: "nan | ブレイク・ショウプ"
+name_en: "nan"
+name_ja: "ブレイク・ショウプ"
 slug: "blake-schoupp"
-position: "PR"
-height: "180.0"
-weight: "117.0"
-birth_date: "1998.03.28"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/blake-schoupp"
 ---

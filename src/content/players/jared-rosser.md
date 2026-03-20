@@ -1,17 +1,17 @@
 ---
-title: "Jared ROSSER | "
-name_en: "Jared ROSSER"
-name_ja: ""
+title: "nan | Jared ・ ROSSER"
+name_en: "nan"
+name_ja: "Jared ・ ROSSER"
 slug: "jared-rosser"
-position: "Winger"
-height: "183.0"
-weight: "99.0"
-birth_date: "1997.12.31"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jared-rosser"
 ---

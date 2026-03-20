@@ -1,17 +1,17 @@
 ---
-title: "Edoardo IACHIZZI | "
-name_en: "Edoardo IACHIZZI"
-name_ja: ""
+title: "nan | エドアルド・イアキッツィ"
+name_en: "nan"
+name_ja: "エドアルド・イアキッツィ"
 slug: "edoardo-iachizzi"
-position: "FL/NO8"
-height: "196.0"
-weight: "112.0"
-birth_date: "1998.05.26"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/edoardo-iachizzi"
 ---

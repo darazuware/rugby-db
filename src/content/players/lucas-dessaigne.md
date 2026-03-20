@@ -1,17 +1,17 @@
 ---
-title: "Lucas DESSAIGNE | "
-name_en: "Lucas DESSAIGNE"
-name_ja: ""
+title: "nan | ルカス・デセーニュ"
+name_en: "nan"
+name_ja: "ルカス・デセーニュ"
 slug: "lucas-dessaigne"
-position: "FL/NO8"
-height: "188.0"
-weight: "102.0"
-birth_date: "1999.02.07"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-dessaigne"
 ---

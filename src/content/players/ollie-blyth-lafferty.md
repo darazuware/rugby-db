@@ -1,17 +1,17 @@
 ---
-title: "Ollie BLYTH-LAFFERTY | "
-name_en: "Ollie BLYTH-LAFFERTY"
-name_ja: ""
+title: "nan | Ollie ・ BLYTH ・ LAFFERTY"
+name_en: "nan"
+name_ja: "Ollie ・ BLYTH ・ LAFFERTY"
 slug: "ollie-blyth-lafferty"
-position: "PR"
-height: "193.0"
-weight: "136.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ollie-blyth-lafferty"
 ---

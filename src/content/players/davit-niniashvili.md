@@ -1,17 +1,17 @@
 ---
-title: "Davit NINIASHVILI | "
-name_en: "Davit NINIASHVILI"
-name_ja: ""
+title: "nan | ダヴィト-ニニアシヴィリ"
+name_en: "nan"
+name_ja: "ダヴィト-ニニアシヴィリ"
 slug: "davit-niniashvili"
-position: "FB"
-height: "185.0"
-weight: "90.0"
-birth_date: "2002.07.14"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/davit-niniashvili"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Jack ISCARO | "
-name_en: "Jack ISCARO"
-name_ja: ""
+title: "nan | ジャック-イスカロ"
+name_en: "nan"
+name_ja: "ジャック-イスカロ"
 slug: "jack-iscaro"
-position: "PR"
-height: "185.0"
-weight: "122.0"
-birth_date: "1997.08.04"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
-caps: "United-States"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
+caps: "0"
 scraped_url: "https://all.rugby/player/jack-iscaro"
 ---
 

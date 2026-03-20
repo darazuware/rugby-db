@@ -1,17 +1,17 @@
 ---
-title: "Agustín MOYANO | "
-name_en: "Agustín MOYANO"
-name_ja: ""
+title: "nan | アグスティン・モヤノ"
+name_en: "nan"
+name_ja: "アグスティン・モヤノ"
 slug: "agustin-moyano"
-position: "SH"
-height: "173.0"
-weight: "75.0"
-birth_date: "2003.06.12"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/agustin-moyano"
 ---

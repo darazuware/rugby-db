@@ -1,17 +1,17 @@
 ---
-title: "Sam ILLO | "
-name_en: "Sam ILLO"
-name_ja: ""
+title: "nan | サム ・ ILLO"
+name_en: "nan"
+name_ja: "サム ・ ILLO"
 slug: "sam-illo"
-position: "PR"
-height: "185.0"
-weight: "121.0"
-birth_date: "2001.02.16"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-illo"
 ---

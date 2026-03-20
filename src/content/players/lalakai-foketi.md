@@ -1,18 +1,18 @@
 ---
-title: "Lalakai FOKETI | "
-name_en: "Lalakai FOKETI"
-name_ja: ""
+title: "nan | ララカイ・フォケティ"
+name_en: "nan"
+name_ja: "ララカイ・フォケティ"
 slug: "lalakai-foketi"
-position: "CTB"
-height: "186.0"
-weight: "97.0"
-birth_date: "1994.12.22"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lalakai-foketi"
 ---
 

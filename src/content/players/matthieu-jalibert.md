@@ -1,18 +1,18 @@
 ---
-title: "Matthieu JALIBERT | "
-name_en: "Matthieu JALIBERT"
-name_ja: ""
+title: "nan | マチュー・ジャリベール"
+name_en: "nan"
+name_ja: "マチュー・ジャリベール"
 slug: "matthieu-jalibert"
-position: "SO"
-height: "184.0"
-weight: "86.0"
-birth_date: "1998.11.06"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/matthieu-jalibert"
 ---
 

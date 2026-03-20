@@ -1,17 +1,17 @@
 ---
-title: "Daniel RONA | "
-name_en: "Daniel RONA"
-name_ja: ""
+title: "nan | ダニエル-ロナ"
+name_en: "nan"
+name_ja: "ダニエル-ロナ"
 slug: "daniel-rona"
-position: "CTB"
-height: "187.0"
-weight: "91.0"
-birth_date: "2000.04.10"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-rona"
 ---

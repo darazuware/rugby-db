@@ -1,17 +1,17 @@
 ---
-title: "Harri FORD | "
-name_en: "Harri FORD"
-name_ja: ""
+title: "nan | Harri ・ FORD"
+name_en: "nan"
+name_ja: "Harri ・ FORD"
 slug: "harri-ford"
-position: "SO"
-height: "180.0"
-weight: "74.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-ford"
 ---

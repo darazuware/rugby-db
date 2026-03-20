@@ -1,18 +1,18 @@
 ---
-title: "Nick TIMONEY | "
-name_en: "Nick TIMONEY"
-name_ja: ""
+title: "nan | Nick ・ TIMONEY"
+name_en: "nan"
+name_ja: "Nick ・ TIMONEY"
 slug: "nick-timoney"
-position: "Back row"
-height: "188.0"
-weight: "114.0"
-birth_date: "1995.08.01"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nick-timoney"
 ---
 

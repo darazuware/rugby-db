@@ -1,17 +1,17 @@
 ---
-title: "Harri ACKERMAN | "
-name_en: "Harri ACKERMAN"
-name_ja: ""
+title: "nan | Harri ・ ACKERMAN"
+name_en: "nan"
+name_ja: "Harri ・ ACKERMAN"
 slug: "harri-ackerman"
-position: "CTB"
-height: "185.0"
-weight: "93.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-ackerman"
 ---

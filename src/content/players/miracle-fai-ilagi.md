@@ -1,18 +1,18 @@
 ---
-title: "Miracle FAI'ILAGI | "
-name_en: "Miracle FAI'ILAGI"
-name_ja: ""
+title: "nan | ミラクル・ファイイラギ"
+name_en: "nan"
+name_ja: "ミラクル・ファイイラギ"
 slug: "miracle-fai-ilagi"
-position: "FL/No8"
-height: "188.0"
-weight: "103.0"
-birth_date: "1999.08.31"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
-caps: "Samoa"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/miracle-fai-ilagi"
 ---
 

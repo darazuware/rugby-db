@@ -1,17 +1,17 @@
 ---
-title: "Euan FERRIE | "
-name_en: "Euan FERRIE"
-name_ja: ""
+title: "nan | Euan ・ FERRIE"
+name_en: "nan"
+name_ja: "Euan ・ FERRIE"
 slug: "euan-ferrie"
-position: "LO"
-height: "194.0"
-weight: "110.0"
-birth_date: "2001.07.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/euan-ferrie"
 ---

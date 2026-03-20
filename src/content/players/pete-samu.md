@@ -1,18 +1,18 @@
 ---
-title: "Pete SAMU | "
-name_en: "Pete SAMU"
-name_ja: ""
+title: "nan | ピート・サム"
+name_en: "nan"
+name_ja: "ピート・サム"
 slug: "pete-samu"
-position: "FL/No8"
-height: "185.0"
-weight: "102.0"
-birth_date: "1991.12.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/pete-samu"
 ---
 

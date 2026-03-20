@@ -1,18 +1,18 @@
 ---
-title: "Ultan DILLANE | "
-name_en: "Ultan DILLANE"
-name_ja: ""
+title: "nan | アルタン・ディレイン"
+name_en: "nan"
+name_ja: "アルタン・ディレイン"
 slug: "ultan-dillane"
-position: "LO"
-height: "198.0"
-weight: "115.0"
-birth_date: "1993.11.09"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ultan-dillane"
 ---
 

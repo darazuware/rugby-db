@@ -1,18 +1,18 @@
 ---
-title: "Esteban ABADIE | "
-name_en: "Esteban ABADIE"
-name_ja: ""
+title: "nan | エステバン-アバティ"
+name_en: "nan"
+name_ja: "エステバン-アバティ"
 slug: "esteban-abadie"
-position: "FL/NO8"
-height: "188.0"
-weight: "100.0"
-birth_date: "1997.12.01"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/esteban-abadie"
 ---
 

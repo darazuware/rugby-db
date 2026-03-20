@@ -1,17 +1,17 @@
 ---
-title: "Tanielu TELE'A | "
-name_en: "Tanielu TELE'A"
-name_ja: ""
+title: "nan | タニエル・テレア"
+name_en: "nan"
+name_ja: "タニエル・テレア"
 slug: "tanielu-tele-a"
-position: "CTB"
-height: "187.0"
-weight: "107.0"
-birth_date: "1998.06.16"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tanielu-tele-a"
 ---

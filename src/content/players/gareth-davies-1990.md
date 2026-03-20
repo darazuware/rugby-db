@@ -1,18 +1,18 @@
 ---
-title: "Gareth DAVIES | "
-name_en: "Gareth DAVIES"
-name_ja: ""
+title: "nan | ガレス ・ DAVIES"
+name_en: "nan"
+name_ja: "ガレス ・ DAVIES"
 slug: "gareth-davies-1990"
-position: "SH"
-height: "178.0"
-weight: "88.0"
-birth_date: "1990.08.18"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gareth-davies-1990"
 ---
 

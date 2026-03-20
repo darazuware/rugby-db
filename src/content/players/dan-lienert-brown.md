@@ -1,17 +1,17 @@
 ---
-title: "Dan LIENERT-BROWN | "
-name_en: "Dan LIENERT-BROWN"
-name_ja: ""
+title: "nan | ダン-リエナート＝ブラウン"
+name_en: "nan"
+name_ja: "ダン-リエナート＝ブラウン"
 slug: "dan-lienert-brown"
-position: "PR"
-height: "184.0"
-weight: "117.0"
-birth_date: "1993.02.09"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-lienert-brown"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Edwin EDOGBO | "
-name_en: "Edwin EDOGBO"
-name_ja: ""
+title: "nan | Edwin ・ EDOGBO"
+name_en: "nan"
+name_ja: "Edwin ・ EDOGBO"
 slug: "edwin-edogbo"
-position: "LO"
-height: "196.0"
-weight: "127.0"
-birth_date: "2002.12.21"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/edwin-edogbo"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Oli JAGER | "
-name_en: "Oli JAGER"
-name_ja: ""
+title: "nan | Oli ・ JAGER"
+name_en: "nan"
+name_ja: "Oli ・ JAGER"
 slug: "oli-jager"
-position: "PR"
-height: "192.0"
-weight: "127.0"
-birth_date: "1995.07.05"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/oli-jager"
 ---
 

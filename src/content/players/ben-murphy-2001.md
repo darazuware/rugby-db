@@ -1,18 +1,18 @@
 ---
-title: "Ben MURPHY | "
-name_en: "Ben MURPHY"
-name_ja: ""
+title: "nan | ベン ・ MURPHY"
+name_en: "nan"
+name_ja: "ベン ・ MURPHY"
 slug: "ben-murphy-2001"
-position: "SH"
-height: "173.0"
-weight: "80.0"
-birth_date: "2001.04.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ben-murphy-2001"
 ---
 

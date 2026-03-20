@@ -1,18 +1,18 @@
 ---
-title: "Wallace SITITI | "
-name_en: "Wallace SITITI"
-name_ja: ""
+title: "nan | ウォレス・シティティ"
+name_en: "nan"
+name_ja: "ウォレス・シティティ"
 slug: "wallace-sititi"
-position: "FL/No8"
-height: "185.0"
-weight: "113.0"
-birth_date: "2002.09.07"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/wallace-sititi"
 ---
 

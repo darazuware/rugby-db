@@ -1,17 +1,17 @@
 ---
-title: "Emosi TUQIRI | "
-name_en: "Emosi TUQIRI"
-name_ja: ""
+title: "nan | エモシ・ツイギリ"
+name_en: "nan"
+name_ja: "エモシ・ツイギリ"
 slug: "emosi-tuqiri"
-position: "PR"
-height: "194.0"
-weight: "120.0"
-birth_date: "2000.12.28"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/emosi-tuqiri"
 ---

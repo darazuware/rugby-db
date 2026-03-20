@@ -1,17 +1,17 @@
 ---
-title: "Jonathan ROCHE | "
-name_en: "Jonathan ROCHE"
-name_ja: ""
+title: "nan | Jonathan ・ ROCHE"
+name_en: "nan"
+name_ja: "Jonathan ・ ROCHE"
 slug: "jonathan-roche"
-position: "CTB"
-height: "189.0"
-weight: "100.0"
-birth_date: "2003.02.01"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jonathan-roche"
 ---

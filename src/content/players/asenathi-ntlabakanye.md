@@ -1,17 +1,17 @@
 ---
-title: "Asenathi NTLABAKANYE | "
-name_en: "Asenathi NTLABAKANYE"
-name_ja: ""
+title: "nan | Asenathi ・ NTLABAKANYE"
+name_en: "nan"
+name_ja: "Asenathi ・ NTLABAKANYE"
 slug: "asenathi-ntlabakanye"
-position: "PR"
-height: "182.0"
-weight: "153.0"
-birth_date: "1999.04.15"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/asenathi-ntlabakanye"
 ---

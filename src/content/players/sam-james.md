@@ -1,17 +1,17 @@
 ---
-title: "Sam JAMES | "
-name_en: "Sam JAMES"
-name_ja: ""
+title: "nan | サム・ジェームズ"
+name_en: "nan"
+name_ja: "サム・ジェームズ"
 slug: "sam-james"
-position: "CTB"
-height: "195.0"
-weight: "100.0"
-birth_date: "1994.07.03"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-james"
 ---

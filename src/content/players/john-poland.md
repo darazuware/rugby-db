@@ -4,14 +4,14 @@ name_en: "John POLAND"
 name_ja: ""
 slug: "john-poland"
 position: "Scrum-half"
-height: "0"
-weight: "0"
+height: "21/11/1996"
+weight: "1"
 birth_date: ""
-age: 29
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ニューイングランド・フリージャックス"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/john-poland"
 ---

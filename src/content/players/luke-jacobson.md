@@ -1,18 +1,18 @@
 ---
-title: "Luke JACOBSON | "
-name_en: "Luke JACOBSON"
-name_ja: ""
+title: "nan | ルーク・ジェイコブソン"
+name_en: "nan"
+name_ja: "ルーク・ジェイコブソン"
 slug: "luke-jacobson"
-position: "FL/No8"
-height: "191.0"
-weight: "107.0"
-birth_date: "1997.04.20"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/luke-jacobson"
 ---
 

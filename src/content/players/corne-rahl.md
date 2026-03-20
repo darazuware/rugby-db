@@ -1,17 +1,17 @@
 ---
-title: "Corné RAHL | "
-name_en: "Corné RAHL"
-name_ja: ""
+title: "nan | Corn ・ RAHL"
+name_en: "nan"
+name_ja: "Corn ・ RAHL"
 slug: "corne-rahl"
-position: "LO"
-height: "202.0"
-weight: "122.0"
-birth_date: "2002.05.27"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/corne-rahl"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Lolani FALEIVA | "
-name_en: "Lolani FALEIVA"
-name_ja: ""
+title: "nan | ロラニ・ファレイヴァ"
+name_en: "nan"
+name_ja: "ロラニ・ファレイヴァ"
 slug: "lolani-faleiva"
-position: "PR"
-height: "193.0"
-weight: "130.0"
-birth_date: "1999.02.18"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lolani-faleiva"
 ---

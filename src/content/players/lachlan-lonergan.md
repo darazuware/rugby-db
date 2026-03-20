@@ -1,17 +1,17 @@
 ---
-title: "Lachlan LONERGAN | "
-name_en: "Lachlan LONERGAN"
-name_ja: ""
+title: "nan | ラクラン・ロナーガン"
+name_en: "nan"
+name_ja: "ラクラン・ロナーガン"
 slug: "lachlan-lonergan"
-position: "HO"
-height: "180.0"
-weight: "102.0"
-birth_date: "1999.10.11"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lachlan-lonergan"
 ---

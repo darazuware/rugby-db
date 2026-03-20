@@ -1,18 +1,18 @@
 ---
-title: "Baptiste ERDOCIO | "
-name_en: "Baptiste ERDOCIO"
-name_ja: ""
+title: "nan | バティスト・エルドシオ"
+name_en: "nan"
+name_ja: "バティスト・エルドシオ"
 slug: "baptiste-erdocio"
-position: "PR"
-height: "175.0"
-weight: "115.0"
-birth_date: "2000.03.13"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/baptiste-erdocio"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Francois VENTER | "
-name_en: "Francois VENTER"
-name_ja: ""
+title: "nan | Francois ・ VENTER"
+name_en: "nan"
+name_ja: "Francois ・ VENTER"
 slug: "francois-venter"
-position: "CTB"
-height: "185.0"
-weight: "95.0"
-birth_date: "1991.04.19"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/francois-venter"
 ---
 

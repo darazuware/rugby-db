@@ -1,17 +1,17 @@
 ---
-title: "Fineen WYCHERLEY | "
-name_en: "Fineen WYCHERLEY"
-name_ja: ""
+title: "nan | Fineen ・ WYCHERLEY"
+name_en: "nan"
+name_ja: "Fineen ・ WYCHERLEY"
 slug: "fineen-wycherley"
-position: "LO"
-height: "196.0"
-weight: "112.0"
-birth_date: "1997.12.11"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/fineen-wycherley"
 ---

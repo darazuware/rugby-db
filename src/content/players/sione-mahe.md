@@ -4,14 +4,14 @@ name_en: "Sione MAHE"
 name_ja: ""
 slug: "sione-mahe"
 position: "Fullback"
-height: "0"
-weight: "0"
+height: "21/01/2000"
+weight: "1"
 birth_date: ""
-age: 26
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ユタ・ウォーリアーズ"
+team: "The Utah Warriors rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/sione-mahe"
 ---

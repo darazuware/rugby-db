@@ -1,17 +1,17 @@
 ---
-title: "Sam BERMAN | "
-name_en: "Sam BERMAN"
-name_ja: ""
+title: "nan | サム ・ BERMAN"
+name_en: "nan"
+name_ja: "サム ・ BERMAN"
 slug: "sam-berman"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.01.16"
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-berman"
 ---

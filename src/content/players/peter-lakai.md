@@ -1,18 +1,18 @@
 ---
-title: "Peter LAKAI | "
-name_en: "Peter LAKAI"
-name_ja: ""
+title: "nan | ピーター・ラカイ"
+name_en: "nan"
+name_ja: "ピーター・ラカイ"
 slug: "peter-lakai"
-position: "FL/No8"
-height: "186.0"
-weight: "110.0"
-birth_date: "2003.03.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/peter-lakai"
 ---
 

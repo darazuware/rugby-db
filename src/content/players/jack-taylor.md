@@ -1,17 +1,17 @@
 ---
-title: "Jack TAYLOR | "
-name_en: "Jack TAYLOR"
-name_ja: ""
+title: "nan | ジャック-テイラー"
+name_en: "nan"
+name_ja: "ジャック-テイラー"
 slug: "jack-taylor"
-position: "HO"
-height: "181.0"
-weight: "106.0"
-birth_date: "2003.06.25"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-taylor"
 ---

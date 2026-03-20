@@ -1,17 +1,17 @@
 ---
-title: "Lukas KENNY | "
-name_en: "Lukas KENNY"
-name_ja: ""
+title: "nan | Lukas ・ KENNY"
+name_en: "nan"
+name_ja: "Lukas ・ KENNY"
 slug: "lukas-kenny"
-position: "Winger"
-height: "185.0"
-weight: "94.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lukas-kenny"
 ---

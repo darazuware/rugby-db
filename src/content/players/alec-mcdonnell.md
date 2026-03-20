@@ -4,14 +4,14 @@ name_en: "Alec MCDONNELL"
 name_ja: ""
 slug: "alec-mcdonnell"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "16/07/1996"
+weight: "1"
 birth_date: ""
-age: 29
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "マイアミ・シャークス"
+team: "The Miami Sharks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/alec-mcdonnell"
 ---

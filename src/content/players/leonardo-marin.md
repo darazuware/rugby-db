@@ -1,18 +1,18 @@
 ---
-title: "Leonardo MARIN | "
-name_en: "Leonardo MARIN"
-name_ja: ""
+title: "nan | Leonardo ・ MARIN"
+name_en: "nan"
+name_ja: "Leonardo ・ MARIN"
 slug: "leonardo-marin"
-position: "SO"
-height: "188.0"
-weight: "88.0"
-birth_date: "2002.02.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/leonardo-marin"
 ---
 

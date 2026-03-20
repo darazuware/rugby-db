@@ -1,18 +1,18 @@
 ---
-title: "Niko JONES | "
-name_en: "Niko JONES"
-name_ja: ""
+title: "nan | ニコ・ジョーンズ"
+name_en: "nan"
+name_ja: "ニコ・ジョーンズ"
 slug: "niko-jones"
-position: "FL/No8"
-height: "186.0"
-weight: "103.0"
-birth_date: "2000.07.22"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/niko-jones"
 ---
 

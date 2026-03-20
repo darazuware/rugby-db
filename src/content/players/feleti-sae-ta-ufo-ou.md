@@ -1,17 +1,17 @@
 ---
-title: "Feleti SAE-TA'UFO'OU | "
-name_en: "Feleti SAE-TA'UFO'OU"
-name_ja: ""
+title: "nan | フェレティ-サエ＝タウフォオウ"
+name_en: "nan"
+name_ja: "フェレティ-サエ＝タウフォオウ"
 slug: "feleti-sae-ta-ufo-ou"
-position: "PR"
-height: "190.0"
-weight: "112.0"
-birth_date: "2002.06.17"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/feleti-sae-ta-ufo-ou"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Heiko POHLMANN | "
-name_en: "Heiko POHLMANN"
-name_ja: ""
+title: "nan | Heiko ・ POHLMANN"
+name_en: "nan"
+name_ja: "Heiko ・ POHLMANN"
 slug: "heiko-pohlmann"
-position: "PR"
-height: "185.0"
-weight: "128.0"
-birth_date: "2002.01.16"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/heiko-pohlmann"
 ---

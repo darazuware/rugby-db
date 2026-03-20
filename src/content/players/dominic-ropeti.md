@@ -1,17 +1,17 @@
 ---
-title: "Dominic ROPETI | "
-name_en: "Dominic ROPETI"
-name_ja: ""
+title: "nan | ドミニク・ロペティ"
+name_en: "nan"
+name_ja: "ドミニク・ロペティ"
 slug: "dominic-ropeti"
-position: "FL/No8"
-height: "193.0"
-weight: "106.0"
-birth_date: "2003.02.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dominic-ropeti"
 ---

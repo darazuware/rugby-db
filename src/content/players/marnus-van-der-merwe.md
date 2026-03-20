@@ -1,17 +1,17 @@
 ---
-title: "Marnus VAN DER MERWE | "
-name_en: "Marnus VAN DER MERWE"
-name_ja: ""
+title: "nan | Marnus ・ ファン ・ デル ・ MERWE"
+name_en: "nan"
+name_ja: "Marnus ・ ファン ・ デル ・ MERWE"
 slug: "marnus-van-der-merwe"
-position: "HO"
-height: "186.0"
-weight: "115.0"
-birth_date: "1997.02.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marnus-van-der-merwe"
 ---

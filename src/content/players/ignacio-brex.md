@@ -1,18 +1,18 @@
 ---
-title: "Ignacio BREX | "
-name_en: "Ignacio BREX"
-name_ja: ""
+title: "nan | イグナシオ-ブレックス"
+name_en: "nan"
+name_ja: "イグナシオ-ブレックス"
 slug: "ignacio-brex"
-position: "CTB"
-height: "189.0"
-weight: "99.0"
-birth_date: "1992.05.26"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ignacio-brex"
 ---
 

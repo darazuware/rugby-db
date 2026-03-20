@@ -1,18 +1,18 @@
 ---
-title: "Kemsley MATHIAS | "
-name_en: "Kemsley MATHIAS"
-name_ja: ""
+title: "nan | Kemsley ・ MATHIAS"
+name_en: "nan"
+name_ja: "Kemsley ・ MATHIAS"
 slug: "kemsley-mathias"
-position: "PR"
-height: "185.0"
-weight: "121.0"
-birth_date: "1999.07.29"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kemsley-mathias"
 ---
 

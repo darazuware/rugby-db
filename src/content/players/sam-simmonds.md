@@ -1,18 +1,18 @@
 ---
-title: "Sam SIMMONDS | "
-name_en: "Sam SIMMONDS"
-name_ja: ""
+title: "nan | サム・シモンズ"
+name_en: "nan"
+name_ja: "サム・シモンズ"
 slug: "sam-simmonds"
-position: "FL/NO8"
-height: "184.0"
-weight: "108.0"
-birth_date: "1994.11.10"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sam-simmonds"
 ---
 

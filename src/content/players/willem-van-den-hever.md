@@ -1,17 +1,17 @@
 ---
-title: "Willem VAN DEN HEVER | "
-name_en: "Willem VAN DEN HEVER"
-name_ja: ""
+title: "nan | Willem ・ ファン ・ DEN ・ HEVER"
+name_en: "nan"
+name_ja: "Willem ・ ファン ・ DEN ・ HEVER"
 slug: "willem-van-den-hever"
-position: "HO"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "1999.01.25"
-age: 27
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/willem-van-den-hever"
 ---

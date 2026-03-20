@@ -1,18 +1,18 @@
 ---
-title: "Nicolaas JANSE VAN RENSBURG | "
-name_en: "Nicolaas JANSE VAN RENSBURG"
-name_ja: ""
+title: "nan | Nicolaas ・ JANSE ・ ファン ・ RENSBURG"
+name_en: "nan"
+name_ja: "Nicolaas ・ JANSE ・ ファン ・ RENSBURG"
 slug: "nicolaas-janse-van-rensburg"
-position: "Back row"
-height: "200.0"
-weight: "116.0"
-birth_date: "1994.05.06"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nicolaas-janse-van-rensburg"
 ---
 

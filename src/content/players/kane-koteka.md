@@ -1,17 +1,17 @@
 ---
-title: "Kane KOTEKA | "
-name_en: "Kane KOTEKA"
-name_ja: ""
+title: "nan | ケイン・コテカ"
+name_en: "nan"
+name_ja: "ケイン・コテカ"
 slug: "kane-koteka"
-position: "FL/No8"
-height: "182.0"
-weight: "100.0"
-birth_date: "1994.01.08"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kane-koteka"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Camille CHAT | "
-name_en: "Camille CHAT"
-name_ja: ""
+title: "nan | カミーユ-シャ"
+name_en: "nan"
+name_ja: "カミーユ-シャ"
 slug: "camille-chat"
-position: "HO"
-height: "178.0"
-weight: "101.0"
-birth_date: "1995.12.18"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/camille-chat"
 ---
 

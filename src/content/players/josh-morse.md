@@ -1,17 +1,17 @@
 ---
-title: "Josh MORSE | "
-name_en: "Josh MORSE"
-name_ja: ""
+title: "nan | ジョシュ ・ MORSE"
+name_en: "nan"
+name_ja: "ジョシュ ・ MORSE"
 slug: "josh-morse"
-position: "PR"
-height: "180.0"
-weight: "118.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-morse"
 ---

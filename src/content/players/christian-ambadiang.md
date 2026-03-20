@@ -1,17 +1,17 @@
 ---
-title: "Christian AMBADIANG | "
-name_en: "Christian AMBADIANG"
-name_ja: ""
+title: "nan | クリスチャン・アンバディアン"
+name_en: "nan"
+name_ja: "クリスチャン・アンバディアン"
 slug: "christian-ambadiang"
-position: "WTB"
-height: "189.0"
-weight: "107.0"
-birth_date: "1999.01.13"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/christian-ambadiang"
 ---

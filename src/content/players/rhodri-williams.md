@@ -1,18 +1,18 @@
 ---
-title: "Rhodri WILLIAMS | "
-name_en: "Rhodri WILLIAMS"
-name_ja: ""
+title: "nan | Rhodri ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "Rhodri ・ ウィリアムズ"
 slug: "rhodri-williams"
-position: "SH"
-height: "179.0"
-weight: "81.0"
-birth_date: "1993.05.05"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rhodri-williams"
 ---
 

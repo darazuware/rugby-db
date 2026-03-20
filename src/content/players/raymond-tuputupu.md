@@ -1,17 +1,17 @@
 ---
-title: "Raymond TUPUTUPU | "
-name_en: "Raymond TUPUTUPU"
-name_ja: ""
+title: "nan | レイモンド・ツプツプ"
+name_en: "nan"
+name_ja: "レイモンド・ツプツプ"
 slug: "raymond-tuputupu"
-position: "HO"
-height: "183.0"
-weight: "106.0"
-birth_date: "2003.04.11"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/raymond-tuputupu"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Jerónimo DE LA FUENTE | "
-name_en: "Jerónimo DE LA FUENTE"
-name_ja: ""
+title: "nan | ヘロニモ・デ・ラ・フエンテ"
+name_en: "nan"
+name_ja: "ヘロニモ・デ・ラ・フエンテ"
 slug: "jeronimo-de-la-fuente"
-position: "CTB"
-height: "184.0"
-weight: "96.0"
-birth_date: "1991.02.24"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jeronimo-de-la-fuente"
 ---
 

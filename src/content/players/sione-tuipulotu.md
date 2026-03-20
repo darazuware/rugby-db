@@ -1,18 +1,18 @@
 ---
-title: "Sione TUIPULOTU | "
-name_en: "Sione TUIPULOTU"
-name_ja: ""
+title: "nan | Sione ・ TUIPULOTU"
+name_en: "nan"
+name_ja: "Sione ・ TUIPULOTU"
 slug: "sione-tuipulotu"
-position: "CTB"
-height: "178.0"
-weight: "104.0"
-birth_date: "1997.02.12"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sione-tuipulotu"
 ---
 

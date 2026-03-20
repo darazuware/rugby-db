@@ -1,17 +1,17 @@
 ---
-title: "Michael RURU | "
-name_en: "Michael RURU"
-name_ja: ""
+title: "nan | マイケル・ルル"
+name_en: "nan"
+name_ja: "マイケル・ルル"
 slug: "michael-ruru"
-position: "SH"
-height: "182.0"
-weight: "95.0"
-birth_date: "1990.12.03"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-ruru"
 ---

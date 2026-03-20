@@ -1,17 +1,17 @@
 ---
-title: "Litelihle BESTER | "
-name_en: "Litelihle BESTER"
-name_ja: ""
+title: "nan | Litelihle ・ BESTER"
+name_en: "nan"
+name_ja: "Litelihle ・ BESTER"
 slug: "litelihle-bester"
-position: "CTB"
-height: "187.0"
-weight: "92.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/litelihle-bester"
 ---

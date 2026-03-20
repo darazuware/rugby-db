@@ -1,17 +1,17 @@
 ---
-title: "Leo JAQUES | "
-name_en: "Leo JAQUES"
-name_ja: ""
+title: "nan | レオ・ジャック"
+name_en: "nan"
+name_ja: "レオ・ジャック"
 slug: "leo-jaques"
-position: "WTB"
-height: "192.0"
-weight: "97.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leo-jaques"
 ---

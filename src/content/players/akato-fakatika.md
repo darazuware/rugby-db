@@ -1,17 +1,17 @@
 ---
-title: "Akato FAKATIKA | "
-name_en: "Akato FAKATIKA"
-name_ja: ""
+title: "nan | アカト・ファカティカ"
+name_en: "nan"
+name_ja: "アカト・ファカティカ"
 slug: "akato-fakatika"
-position: "PR"
-height: "180.0"
-weight: "123.0"
-birth_date: "2001.01.31"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/akato-fakatika"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Isoa NASILASILA | "
-name_en: "Isoa NASILASILA"
-name_ja: ""
+title: "nan | イソア-ナシラスィラ"
+name_en: "nan"
+name_ja: "イソア-ナシラスィラ"
 slug: "isoa-nasilasila"
-position: "LO"
-height: "197.0"
-weight: "117.0"
-birth_date: "1999.09.13"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/isoa-nasilasila"
 ---

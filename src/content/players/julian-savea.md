@@ -1,18 +1,18 @@
 ---
-title: "Julian SAVEA | "
-name_en: "Julian SAVEA"
-name_ja: ""
+title: "nan | ジュリアン・サヴェア"
+name_en: "nan"
+name_ja: "ジュリアン・サヴェア"
 slug: "julian-savea"
-position: "CTB"
-height: "192.0"
-weight: "108.0"
-birth_date: "1990.08.07"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/julian-savea"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Abraham POLE | "
-name_en: "Abraham POLE"
-name_ja: ""
+title: "nan | エイブラハム・ポール"
+name_en: "nan"
+name_ja: "エイブラハム・ポール"
 slug: "abraham-pole"
-position: "PR"
-height: "188.0"
-weight: "123.0"
-birth_date: "1998.06.28"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/abraham-pole"
 ---

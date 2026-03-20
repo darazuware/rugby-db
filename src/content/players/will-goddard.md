@@ -1,17 +1,17 @@
 ---
-title: "Will GODDARD | "
-name_en: "Will GODDARD"
-name_ja: ""
+title: "nan | ウィル・ゴダード"
+name_en: "nan"
+name_ja: "ウィル・ゴダード"
 slug: "will-goddard"
-position: "PR"
-height: "183.0"
-weight: "125.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/will-goddard"
 ---

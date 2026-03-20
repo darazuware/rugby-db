@@ -1,18 +1,18 @@
 ---
-title: "Luke MORGAN | "
-name_en: "Luke MORGAN"
-name_ja: ""
+title: "nan | ルーク ・ MORGAN"
+name_en: "nan"
+name_ja: "ルーク ・ MORGAN"
 slug: "luke-morgan"
-position: "Winger"
-height: "175.0"
-weight: "81.0"
-birth_date: "1992.05.16"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/luke-morgan"
 ---
 

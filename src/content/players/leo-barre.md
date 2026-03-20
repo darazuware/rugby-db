@@ -1,18 +1,18 @@
 ---
-title: "Léo BARRÉ | "
-name_en: "Léo BARRÉ"
-name_ja: ""
+title: "nan | レオ・バレ"
+name_en: "nan"
+name_ja: "レオ・バレ"
 slug: "leo-barre"
-position: "FB"
-height: "189.0"
-weight: "89.0"
-birth_date: "2002.08.20"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/leo-barre"
 ---
 

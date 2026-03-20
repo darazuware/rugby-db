@@ -1,18 +1,18 @@
 ---
-title: "Jack O'DONOGHUE | "
-name_en: "Jack O'DONOGHUE"
-name_ja: ""
+title: "nan | ジャック ・ O'DONOGHUE"
+name_en: "nan"
+name_ja: "ジャック ・ O'DONOGHUE"
 slug: "jack-o-donoghue"
-position: "Back row"
-height: "191.0"
-weight: "110.0"
-birth_date: "1994.02.08"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jack-o-donoghue"
 ---
 

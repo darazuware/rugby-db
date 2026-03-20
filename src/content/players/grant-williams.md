@@ -1,17 +1,17 @@
 ---
-title: "Grant WILLIAMS | "
-name_en: "Grant WILLIAMS"
-name_ja: ""
+title: "nan | グラント ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "グラント ・ ウィリアムズ"
 slug: "grant-williams"
-position: "SH"
-height: "174.0"
-weight: "80.0"
-birth_date: "1996.07.22"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/grant-williams"
 ---

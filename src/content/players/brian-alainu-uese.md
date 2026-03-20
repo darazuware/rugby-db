@@ -1,18 +1,18 @@
 ---
-title: "Brian ALAINU'UESE | "
-name_en: "Brian ALAINU'UESE"
-name_ja: ""
+title: "nan | ブライアン-アライヌウエセ"
+name_en: "nan"
+name_ja: "ブライアン-アライヌウエセ"
 slug: "brian-alainu-uese"
-position: "LO"
-height: "202.0"
-weight: "135.0"
-birth_date: "1994.03.19"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/brian-alainu-uese"
 ---
 

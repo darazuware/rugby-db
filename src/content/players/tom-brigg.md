@@ -1,17 +1,17 @@
 ---
-title: "Tom BRIGG | "
-name_en: "Tom BRIGG"
-name_ja: ""
+title: "nan | トム ・ BRIGG"
+name_en: "nan"
+name_ja: "トム ・ BRIGG"
 slug: "tom-brigg"
-position: "Back row"
-height: "189.0"
-weight: "104.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-brigg"
 ---

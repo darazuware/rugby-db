@@ -1,17 +1,17 @@
 ---
-title: "Shamus HURLEY-LANGTON | "
-name_en: "Shamus HURLEY-LANGTON"
-name_ja: ""
+title: "nan | Shamus ・ HURLEY ・ LANGTON"
+name_en: "nan"
+name_ja: "Shamus ・ HURLEY ・ LANGTON"
 slug: "shamus-hurley-langton"
-position: "Back row"
-height: "185.0"
-weight: "108.0"
-birth_date: "2000.04.22"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/shamus-hurley-langton"
 ---

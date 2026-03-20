@@ -1,18 +1,18 @@
 ---
-title: "Giacomo NICOTERA | "
-name_en: "Giacomo NICOTERA"
-name_ja: ""
+title: "nan | ジャコモ-ニコテラ"
+name_en: "nan"
+name_ja: "ジャコモ-ニコテラ"
 slug: "giacomo-nicotera"
-position: "HO"
-height: "183.0"
-weight: "108.0"
-birth_date: "1996.07.15"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/giacomo-nicotera"
 ---
 

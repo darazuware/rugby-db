@@ -1,18 +1,18 @@
 ---
-title: "Rohan JANSE VAN RENSBURG | "
-name_en: "Rohan JANSE VAN RENSBURG"
-name_ja: ""
+title: "nan | ロハン・ヤンセ・ファン・レンズバーグ"
+name_en: "nan"
+name_ja: "ロハン・ヤンセ・ファン・レンズバーグ"
 slug: "rohan-janse-van-rensburg"
-position: "CTB"
-height: "185.0"
-weight: "109.0"
-birth_date: "1994.09.11"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rohan-janse-van-rensburg"
 ---
 

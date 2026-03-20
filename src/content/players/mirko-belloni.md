@@ -1,17 +1,17 @@
 ---
-title: "Mirko BELLONI | "
-name_en: "Mirko BELLONI"
-name_ja: ""
+title: "nan | Mirko ・ BELLONI"
+name_en: "nan"
+name_ja: "Mirko ・ BELLONI"
 slug: "mirko-belloni"
-position: "FB"
-height: "187.0"
-weight: "99.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mirko-belloni"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Aymeric LUC | "
-name_en: "Aymeric LUC"
-name_ja: ""
+title: "nan | アイメリック・リュック"
+name_en: "nan"
+name_ja: "アイメリック・リュック"
 slug: "aymeric-luc"
-position: "FB"
-height: "180.0"
-weight: "81.0"
-birth_date: "1997.10.14"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aymeric-luc"
 ---

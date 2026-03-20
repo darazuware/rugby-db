@@ -1,17 +1,17 @@
 ---
-title: "Jimmy TUPOU | "
-name_en: "Jimmy TUPOU"
-name_ja: ""
+title: "nan | ジミー・ツポウ"
+name_en: "nan"
+name_ja: "ジミー・ツポウ"
 slug: "jimmy-tupou"
-position: "LO"
-height: "196.0"
-weight: "111.0"
-birth_date: "1992.08.08"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jimmy-tupou"
 ---

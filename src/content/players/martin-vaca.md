@@ -4,14 +4,14 @@ name_en: "Martín VACA"
 name_ja: ""
 slug: "martin-vaca"
 position: "Hooker"
-height: "0"
-weight: "0"
+height: "02/06/2001"
+weight: "1"
 birth_date: ""
-age: 24
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/martin-vaca"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "James LANG | "
-name_en: "James LANG"
-name_ja: ""
+title: "nan | ジェームズ ・ LANG"
+name_en: "nan"
+name_ja: "ジェームズ ・ LANG"
 slug: "james-lang"
-position: "SO"
-height: "183.0"
-weight: "95.0"
-birth_date: "1995.04.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/james-lang"
 ---
 

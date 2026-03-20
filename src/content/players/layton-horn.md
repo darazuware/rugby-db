@@ -1,17 +1,17 @@
 ---
-title: "Layton HORN | "
-name_en: "Layton HORN"
-name_ja: ""
+title: "nan | Layton ・ HORN"
+name_en: "nan"
+name_ja: "Layton ・ HORN"
 slug: "layton-horn"
-position: "SH"
-height: "183.0"
-weight: "82.0"
-birth_date: "2003.05.21"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/layton-horn"
 ---

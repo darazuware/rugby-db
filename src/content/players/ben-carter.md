@@ -1,17 +1,17 @@
 ---
-title: "Ben CARTER | "
-name_en: "Ben CARTER"
-name_ja: ""
+title: "nan | ベン ・ CARTER"
+name_en: "nan"
+name_ja: "ベン ・ CARTER"
 slug: "ben-carter"
-position: "LO"
-height: "198.0"
-weight: "122.0"
-birth_date: "2001.01.23"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-carter"
 ---

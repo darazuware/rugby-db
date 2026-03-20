@@ -1,18 +1,18 @@
 ---
-title: "Samipeni FINAU | "
-name_en: "Samipeni FINAU"
-name_ja: ""
+title: "nan | サミペニ・フィナウ"
+name_en: "nan"
+name_ja: "サミペニ・フィナウ"
 slug: "samipeni-finau"
-position: "FL/No8"
-height: "196.0"
-weight: "115.0"
-birth_date: "1999.05.10"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "Tonga"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/samipeni-finau"
 ---
 

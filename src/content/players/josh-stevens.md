@@ -1,17 +1,17 @@
 ---
-title: "Josh STEVENS | "
-name_en: "Josh STEVENS"
-name_ja: ""
+title: "nan | ジョシュ ・ STEVENS"
+name_en: "nan"
+name_ja: "ジョシュ ・ STEVENS"
 slug: "josh-stevens"
-position: "Back row"
-height: "179.0"
-weight: "105.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-stevens"
 ---

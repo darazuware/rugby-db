@@ -1,18 +1,18 @@
 ---
-title: "Darcy SWAIN | "
-name_en: "Darcy SWAIN"
-name_ja: ""
+title: "nan | ダーシー-スウェイン"
+name_en: "nan"
+name_ja: "ダーシー-スウェイン"
 slug: "darcy-swain"
-position: "LO"
-height: "200.0"
-weight: "117.0"
-birth_date: "1997.07.05"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/darcy-swain"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Jean KLEYN | "
-name_en: "Jean KLEYN"
-name_ja: ""
+title: "nan | Jean ・ KLEYN"
+name_en: "nan"
+name_ja: "Jean ・ KLEYN"
 slug: "jean-kleyn"
-position: "LO"
-height: "202.0"
-weight: "123.0"
-birth_date: "1993.08.26"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jean-kleyn"
 ---
 

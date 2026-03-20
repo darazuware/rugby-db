@@ -1,17 +1,17 @@
 ---
-title: "Pascal COTET | "
-name_en: "Pascal COTET"
-name_ja: ""
+title: "nan | パスカル・コテ"
+name_en: "nan"
+name_ja: "パスカル・コテ"
 slug: "pascal-cotet"
-position: "PR"
-height: "184.0"
-weight: "128.0"
-birth_date: "1993.10.12"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pascal-cotet"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Harri MILLARD | "
-name_en: "Harri MILLARD"
-name_ja: ""
+title: "nan | Harri ・ MILLARD"
+name_en: "nan"
+name_ja: "Harri ・ MILLARD"
 slug: "harri-millard"
-position: "CTB"
-height: "183.0"
-weight: "94.0"
-birth_date: "1996.08.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-millard"
 ---

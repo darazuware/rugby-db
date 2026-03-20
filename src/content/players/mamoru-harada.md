@@ -1,17 +1,17 @@
 ---
-title: "Mamoru HARADA | "
-name_en: "Mamoru HARADA"
-name_ja: ""
+title: "nan | ハラダ・マモル"
+name_en: "nan"
+name_ja: "ハラダ・マモル"
 slug: "mamoru-harada"
-position: "HO"
-height: "175.0"
-weight: "101.0"
-birth_date: "1999.04.15"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mamoru-harada"
 ---

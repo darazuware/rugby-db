@@ -4,14 +4,14 @@ name_en: "Michael SCOTT"
 name_ja: ""
 slug: "michael-scott"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "23/09/1997"
+weight: "1"
 birth_date: ""
-age: 28
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ヒューストン・セイバーキャッツ"
+team: "The Houston Sabercats rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-scott"
 ---

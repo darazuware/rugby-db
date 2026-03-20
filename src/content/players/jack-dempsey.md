@@ -1,18 +1,18 @@
 ---
-title: "Jack DEMPSEY | "
-name_en: "Jack DEMPSEY"
-name_ja: ""
+title: "nan | ジャック ・ DEMPSEY"
+name_en: "nan"
+name_ja: "ジャック ・ DEMPSEY"
 slug: "jack-dempsey"
-position: "Back row"
-height: "191.0"
-weight: "112.0"
-birth_date: "1994.04.12"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jack-dempsey"
 ---
 

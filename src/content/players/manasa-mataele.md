@@ -1,17 +1,17 @@
 ---
-title: "Manasa MATAELE | "
-name_en: "Manasa MATAELE"
-name_ja: ""
+title: "nan | マナサ・マタエレ"
+name_en: "nan"
+name_ja: "マナサ・マタエレ"
 slug: "manasa-mataele"
-position: "WTB"
-height: "185.0"
-weight: "100.0"
-birth_date: "1996.11.27"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/manasa-mataele"
 ---

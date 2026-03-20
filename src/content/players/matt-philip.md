@@ -1,18 +1,18 @@
 ---
-title: "Matt PHILIP | "
-name_en: "Matt PHILIP"
-name_ja: ""
+title: "nan | マット・フィリップ"
+name_en: "nan"
+name_ja: "マット・フィリップ"
 slug: "matt-philip"
-position: "LO"
-height: "199.0"
-weight: "115.0"
-birth_date: "1994.03.07"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/matt-philip"
 ---
 

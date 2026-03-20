@@ -1,18 +1,18 @@
 ---
-title: "Iakopo MAPU | "
-name_en: "Iakopo MAPU"
-name_ja: ""
+title: "nan | イアコポ-マプ"
+name_en: "nan"
+name_ja: "イアコポ-マプ"
 slug: "iakopo-petelo-mapu"
-position: "FL/NO8"
-height: "183.0"
-weight: "106.0"
-birth_date: "1997.11.04"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/iakopo-petelo-mapu"
 ---
 

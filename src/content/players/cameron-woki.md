@@ -1,18 +1,18 @@
 ---
-title: "Cameron WOKI | "
-name_en: "Cameron WOKI"
-name_ja: ""
+title: "nan | キャメロン-ウォキ"
+name_en: "nan"
+name_ja: "キャメロン-ウォキ"
 slug: "cameron-woki"
-position: "FL/NO8"
-height: "196.0"
-weight: "111.0"
-birth_date: "1998.11.07"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/cameron-woki"
 ---
 

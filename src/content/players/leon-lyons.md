@@ -1,17 +1,17 @@
 ---
-title: "Leon LYONS | "
-name_en: "Leon LYONS"
-name_ja: ""
+title: "nan | Leon ・ LYONS"
+name_en: "nan"
+name_ja: "Leon ・ LYONS"
 slug: "leon-lyons"
-position: "PR"
-height: "187.0"
-weight: "123.0"
-birth_date: "1998.12.02"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leon-lyons"
 ---

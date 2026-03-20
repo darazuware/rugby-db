@@ -1,17 +1,17 @@
 ---
-title: "Siate TOKOLAHI | "
-name_en: "Siate TOKOLAHI"
-name_ja: ""
+title: "nan | シアテ・トコラヒ"
+name_en: "nan"
+name_ja: "シアテ・トコラヒ"
 slug: "siate-tokolahi"
-position: "PR"
-height: "184.0"
-weight: "116.0"
-birth_date: "1992.03.16"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/siate-tokolahi"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Jonny GRAY | "
-name_en: "Jonny GRAY"
-name_ja: ""
+title: "nan | ジョニー・グレイ"
+name_en: "nan"
+name_ja: "ジョニー・グレイ"
 slug: "jonny-gray"
-position: "LO"
-height: "198.0"
-weight: "122.0"
-birth_date: "1994.03.14"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jonny-gray"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Thomas JOLMÈS | "
-name_en: "Thomas JOLMÈS"
-name_ja: ""
+title: "nan | トマ・ジョルメス"
+name_en: "nan"
+name_ja: "トマ・ジョルメス"
 slug: "thomas-jolmes"
-position: "LO"
-height: "204.0"
-weight: "127.0"
-birth_date: "1995.10.08"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-jolmes"
 ---

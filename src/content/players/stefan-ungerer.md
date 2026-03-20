@@ -1,17 +1,17 @@
 ---
-title: "Stefan UNGERER | "
-name_en: "Stefan UNGERER"
-name_ja: ""
+title: "nan | Stefan ・ UNGERER"
+name_en: "nan"
+name_ja: "Stefan ・ UNGERER"
 slug: "stefan-ungerer"
-position: "SH"
-height: "183.0"
-weight: "93.0"
-birth_date: "1993.11.23"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/stefan-ungerer"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Damiano MAZZA | "
-name_en: "Damiano MAZZA"
-name_ja: ""
+title: "nan | Damiano ・ MAZZA"
+name_en: "nan"
+name_ja: "Damiano ・ MAZZA"
 slug: "damiano-mazza"
-position: "CTB"
-height: "183.0"
-weight: "99.0"
-birth_date: "1999.02.16"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/damiano-mazza"
 ---

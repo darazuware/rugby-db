@@ -1,17 +1,17 @@
 ---
-title: "John DEVINE | "
-name_en: "John DEVINE"
-name_ja: ""
+title: "nan | ジョン ・ DEVINE"
+name_en: "nan"
+name_ja: "ジョン ・ DEVINE"
 slug: "john-devine"
-position: "CTB"
-height: "186.0"
-weight: "99.0"
-birth_date: "2003.12.26"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/john-devine"
 ---

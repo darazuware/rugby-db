@@ -1,17 +1,17 @@
 ---
-title: "JD SCHICKERLING | "
-name_en: "JD SCHICKERLING"
-name_ja: ""
+title: "nan | JD ・ SCHICKERLING"
+name_en: "nan"
+name_ja: "JD ・ SCHICKERLING"
 slug: "jd-schickerling"
-position: "LO"
-height: "202.0"
-weight: "121.0"
-birth_date: "1995.05.09"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jd-schickerling"
 ---

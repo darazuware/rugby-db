@@ -1,17 +1,17 @@
 ---
-title: "Eddie DAVIDS | "
-name_en: "Eddie DAVIDS"
-name_ja: ""
+title: "nan | Eddie ・ DAVIDS"
+name_en: "nan"
+name_ja: "Eddie ・ DAVIDS"
 slug: "eddie-davids"
-position: "PR"
-height: "178.0"
-weight: "115.0"
-birth_date: "1998.04.02"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eddie-davids"
 ---

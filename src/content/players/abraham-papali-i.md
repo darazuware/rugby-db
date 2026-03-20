@@ -1,18 +1,18 @@
 ---
-title: "Abraham PAPALI'I | "
-name_en: "Abraham PAPALI'I"
-name_ja: ""
+title: "nan | エイブラハム・パパリイ"
+name_en: "nan"
+name_ja: "エイブラハム・パパリイ"
 slug: "abraham-papali-i"
-position: "FL/NO8"
-height: "194.0"
-weight: "128.0"
-birth_date: "1993.06.20"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/abraham-papali-i"
 ---
 

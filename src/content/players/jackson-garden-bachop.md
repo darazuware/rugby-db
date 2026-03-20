@@ -1,17 +1,17 @@
 ---
-title: "Jackson GARDEN-BACHOP | "
-name_en: "Jackson GARDEN-BACHOP"
-name_ja: ""
+title: "nan | ジャクソン-ガーデン＝バショップ"
+name_en: "nan"
+name_ja: "ジャクソン-ガーデン＝バショップ"
 slug: "jackson-garden-bachop"
-position: "SO"
-height: "185.0"
-weight: "102.0"
-birth_date: "1994.10.03"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jackson-garden-bachop"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "David HAWKSHAW | "
-name_en: "David HAWKSHAW"
-name_ja: ""
+title: "nan | デイヴィッド ・ HAWKSHAW"
+name_en: "nan"
+name_ja: "デイヴィッド ・ HAWKSHAW"
 slug: "david-hawkshaw"
-position: "CTB"
-height: "178.0"
-weight: "89.0"
-birth_date: "1999.07.03"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/david-hawkshaw"
 ---

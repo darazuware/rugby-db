@@ -1,18 +1,18 @@
 ---
-title: "Luca MORISI | "
-name_en: "Luca MORISI"
-name_ja: ""
+title: "nan | Luca ・ MORISI"
+name_en: "nan"
+name_ja: "Luca ・ MORISI"
 slug: "luca-morisi"
-position: "CTB"
-height: "183.0"
-weight: "102.0"
-birth_date: "1991.02.22"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/luca-morisi"
 ---
 

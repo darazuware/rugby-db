@@ -1,18 +1,18 @@
 ---
-title: "Arthur RETIÈRE | "
-name_en: "Arthur RETIÈRE"
-name_ja: ""
+title: "nan | アルチュール・ルティエール"
+name_en: "nan"
+name_ja: "アルチュール・ルティエール"
 slug: "arthur-retiere"
-position: "WTB"
-height: "173.0"
-weight: "80.0"
-birth_date: "1997.08.01"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/arthur-retiere"
 ---
 

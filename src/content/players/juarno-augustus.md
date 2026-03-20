@@ -1,17 +1,17 @@
 ---
-title: "Juarno AUGUSTUS | "
-name_en: "Juarno AUGUSTUS"
-name_ja: ""
+title: "nan | Juarno ・ AUGUSTUS"
+name_en: "nan"
+name_ja: "Juarno ・ AUGUSTUS"
 slug: "juarno-augustus"
-position: "Back row"
-height: "187.0"
-weight: "119.0"
-birth_date: "1997.12.09"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/juarno-augustus"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Daniel BOTHA | "
-name_en: "Daniel BOTHA"
-name_ja: ""
+title: "nan | ダニエル・ボータ"
+name_en: "nan"
+name_ja: "ダニエル・ボータ"
 slug: "daniel-botha"
-position: "PR"
-height: "188.0"
-weight: "120.0"
-birth_date: "2001.12.16"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-botha"
 ---

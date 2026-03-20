@@ -1,18 +1,18 @@
 ---
-title: "Nika ABULADZE | "
-name_en: "Nika ABULADZE"
-name_ja: ""
+title: "nan | ニカ・アブラゼ"
+name_en: "nan"
+name_ja: "ニカ・アブラゼ"
 slug: "nika-abuladze"
-position: "PR"
-height: "187.0"
-weight: "126.0"
-birth_date: "1995.08.20"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nika-abuladze"
 ---
 

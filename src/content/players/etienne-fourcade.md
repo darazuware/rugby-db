@@ -1,17 +1,17 @@
 ---
-title: "Etienne FOURCADE | "
-name_en: "Etienne FOURCADE"
-name_ja: ""
+title: "nan | エティエンヌ・フルカード"
+name_en: "nan"
+name_ja: "エティエンヌ・フルカード"
 slug: "etienne-fourcade"
-position: "HO"
-height: "180.0"
-weight: "103.0"
-birth_date: "1997.04.11"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/etienne-fourcade"
 ---

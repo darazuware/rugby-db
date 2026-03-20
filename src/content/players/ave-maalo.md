@@ -1,17 +1,17 @@
 ---
-title: "Avé MAALO | "
-name_en: "Avé MAALO"
-name_ja: ""
+title: "nan | アヴェ・マーロ"
+name_en: "nan"
+name_ja: "アヴェ・マーロ"
 slug: "ave-maalo"
-position: "PR"
-height: "189.0"
-weight: "143.0"
-birth_date: "2003.08.27"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ave-maalo"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Ryan CHAPUIS | "
-name_en: "Ryan CHAPUIS"
-name_ja: ""
+title: "nan | ライアン・シャピュイ"
+name_en: "nan"
+name_ja: "ライアン・シャピュイ"
 slug: "ryan-chapuis"
-position: "FL/NO8"
-height: "189.0"
-weight: "105.0"
-birth_date: "1997.12.12"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-chapuis"
 ---

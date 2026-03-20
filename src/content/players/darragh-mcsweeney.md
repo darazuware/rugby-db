@@ -1,17 +1,17 @@
 ---
-title: "Darragh MCSWEENEY | "
-name_en: "Darragh MCSWEENEY"
-name_ja: ""
+title: "nan | ダラ ・ MCSWEENEY"
+name_en: "nan"
+name_ja: "ダラ ・ MCSWEENEY"
 slug: "darragh-mcsweeney"
-position: "PR"
-height: "191.0"
-weight: "130.0"
-birth_date: "2002.08.19"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/darragh-mcsweeney"
 ---

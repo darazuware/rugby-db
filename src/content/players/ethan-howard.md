@@ -4,14 +4,14 @@ name_en: "Ethan HOWARD"
 name_ja: ""
 slug: "ethan-howard"
 position: "Hooker"
-height: "0"
-weight: "0"
+height: "20/12/2001"
+weight: "1"
 birth_date: ""
-age: 24
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "アンセムRC"
+team: "The Anthem Rugby Carolina rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-howard"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Riccardo GENOVESE | "
-name_en: "Riccardo GENOVESE"
-name_ja: ""
+title: "nan | Riccardo ・ GENOVESE"
+name_en: "nan"
+name_ja: "Riccardo ・ GENOVESE"
 slug: "riccardo-genovese"
-position: "PR"
-height: "189.0"
-weight: "126.0"
-birth_date: "2002.04.13"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/riccardo-genovese"
 ---

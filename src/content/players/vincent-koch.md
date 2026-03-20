@@ -1,18 +1,18 @@
 ---
-title: "Vincent KOCH | "
-name_en: "Vincent KOCH"
-name_ja: ""
+title: "nan | ヴィンセント ・ コッホ"
+name_en: "nan"
+name_ja: "ヴィンセント ・ コッホ"
 slug: "vincent-koch"
-position: "PR"
-height: "185.0"
-weight: "118.0"
-birth_date: "1990.03.13"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/vincent-koch"
 ---
 

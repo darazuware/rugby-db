@@ -1,17 +1,17 @@
 ---
-title: "Morgan LLOYD | "
-name_en: "Morgan LLOYD"
-name_ja: ""
+title: "nan | Morgan ・ LLOYD"
+name_en: "nan"
+name_ja: "Morgan ・ LLOYD"
 slug: "morgan-lloyd"
-position: "SH"
-height: "175.0"
-weight: "84.0"
-birth_date: "2002.10.08"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/morgan-lloyd"
 ---

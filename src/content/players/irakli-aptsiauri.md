@@ -1,17 +1,17 @@
 ---
-title: "Irakli APTSIAURI | "
-name_en: "Irakli APTSIAURI"
-name_ja: ""
+title: "nan | イラクリ-アプツィアウリ"
+name_en: "nan"
+name_ja: "イラクリ-アプツィアウリ"
 slug: "irakli-aptsiauri"
-position: "PR"
-height: "185.0"
-weight: "126.0"
-birth_date: "2003.02.23"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/irakli-aptsiauri"
 ---

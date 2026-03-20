@@ -1,17 +1,17 @@
 ---
-title: "Ere ENARI | "
-name_en: "Ere ENARI"
-name_ja: ""
+title: "nan | エレ-エナリ"
+name_en: "nan"
+name_ja: "エレ-エナリ"
 slug: "ereatara-enari"
-position: "SH"
-height: "178.0"
-weight: "84.0"
-birth_date: "1997.05.30"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ereatara-enari"
 ---

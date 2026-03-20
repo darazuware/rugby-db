@@ -1,18 +1,18 @@
 ---
-title: "Arthur ITURRIA | "
-name_en: "Arthur ITURRIA"
-name_ja: ""
+title: "nan | アルチュール・イトゥリア"
+name_en: "nan"
+name_ja: "アルチュール・イトゥリア"
 slug: "arthur-iturria"
-position: "FL/NO8"
-height: "198.0"
-weight: "112.0"
-birth_date: "1994.05.13"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/arthur-iturria"
 ---
 

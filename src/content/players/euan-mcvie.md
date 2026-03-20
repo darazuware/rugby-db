@@ -1,17 +1,17 @@
 ---
-title: "Euan MCVIE | "
-name_en: "Euan MCVIE"
-name_ja: ""
+title: "nan | Euan ・ MCVIE"
+name_en: "nan"
+name_ja: "Euan ・ MCVIE"
 slug: "euan-mcvie"
-position: "LO"
-height: "197.0"
-weight: "118.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/euan-mcvie"
 ---

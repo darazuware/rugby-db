@@ -1,18 +1,18 @@
 ---
-title: "Craig CASEY | "
-name_en: "Craig CASEY"
-name_ja: ""
+title: "nan | Craig ・ CASEY"
+name_en: "nan"
+name_ja: "Craig ・ CASEY"
 slug: "craig-casey"
-position: "SH"
-height: "165.0"
-weight: "76.0"
-birth_date: "1999.04.19"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/craig-casey"
 ---
 

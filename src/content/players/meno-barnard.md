@@ -1,17 +1,17 @@
 ---
-title: "Mèno BARNARD | "
-name_en: "Mèno BARNARD"
-name_ja: ""
+title: "nan | M ・ BARNARD"
+name_en: "nan"
+name_ja: "M ・ BARNARD"
 slug: "meno-barnard"
-position: "Back row"
-height: "193.0"
-weight: "104.0"
-birth_date: "2003.11.14"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/meno-barnard"
 ---

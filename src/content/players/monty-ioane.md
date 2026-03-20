@@ -1,18 +1,18 @@
 ---
-title: "Monty IOANE | "
-name_en: "Monty IOANE"
-name_ja: ""
+title: "nan | モンティ・イオアネ"
+name_en: "nan"
+name_ja: "モンティ・イオアネ"
 slug: "monty-ioane"
-position: "WTB"
-height: "180.0"
-weight: "95.0"
-birth_date: "1994.10.30"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/monty-ioane"
 ---
 

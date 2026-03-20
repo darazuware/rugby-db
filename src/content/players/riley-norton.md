@@ -1,17 +1,17 @@
 ---
-title: "Riley NORTON | "
-name_en: "Riley NORTON"
-name_ja: ""
+title: "nan | Riley ・ NORTON"
+name_en: "nan"
+name_ja: "Riley ・ NORTON"
 slug: "riley-norton"
-position: "LO"
-height: "198.0"
-weight: "104.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/riley-norton"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Nolann LE GARREC | "
-name_en: "Nolann LE GARREC"
-name_ja: ""
+title: "nan | ノラン・ル・ガレック"
+name_en: "nan"
+name_ja: "ノラン・ル・ガレック"
 slug: "nolann-le-garrec"
-position: "SH"
-height: "175.0"
-weight: "75.0"
-birth_date: "2002.05.14"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nolann-le-garrec"
 ---
 

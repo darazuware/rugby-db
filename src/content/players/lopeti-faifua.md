@@ -1,17 +1,17 @@
 ---
-title: "Lopeti FAIFUA | "
-name_en: "Lopeti FAIFUA"
-name_ja: ""
+title: "nan | ロペティ・ファイフア"
+name_en: "nan"
+name_ja: "ロペティ・ファイフア"
 slug: "lopeti-faifua"
-position: "LO"
-height: "198.0"
-weight: "115.0"
-birth_date: "2002.01.22"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lopeti-faifua"
 ---

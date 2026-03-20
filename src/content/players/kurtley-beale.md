@@ -1,18 +1,18 @@
 ---
-title: "Kurtley BEALE | "
-name_en: "Kurtley BEALE"
-name_ja: ""
+title: "nan | カートリー・ビール"
+name_en: "nan"
+name_ja: "カートリー・ビール"
 slug: "kurtley-beale"
-position: "FB"
-height: "184.0"
-weight: "96.0"
-birth_date: "1989.01.06"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kurtley-beale"
 ---
 

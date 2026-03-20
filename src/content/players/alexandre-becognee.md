@@ -1,17 +1,17 @@
 ---
-title: "Alexandre BÉCOGNÉE | "
-name_en: "Alexandre BÉCOGNÉE"
-name_ja: ""
+title: "nan | アレクサンドル・ベコニェ"
+name_en: "nan"
+name_ja: "アレクサンドル・ベコニェ"
 slug: "alexandre-becognee"
-position: "FL/NO8"
-height: "188.0"
-weight: "108.0"
-birth_date: "1996.09.03"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alexandre-becognee"
 ---

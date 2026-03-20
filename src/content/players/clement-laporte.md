@@ -1,17 +1,17 @@
 ---
-title: "Clément LAPORTE | "
-name_en: "Clément LAPORTE"
-name_ja: ""
+title: "nan | クレマン・ラポルト"
+name_en: "nan"
+name_ja: "クレマン・ラポルト"
 slug: "clement-laporte"
-position: "FB"
-height: "181.0"
-weight: "87.0"
-birth_date: "1998.01.07"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/clement-laporte"
 ---

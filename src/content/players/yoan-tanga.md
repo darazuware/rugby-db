@@ -1,17 +1,17 @@
 ---
-title: "Yoan TANGA | "
-name_en: "Yoan TANGA"
-name_ja: ""
+title: "nan | ヨアン・タンガ"
+name_en: "nan"
+name_ja: "ヨアン・タンガ"
 slug: "yoan-tanga"
-position: "FL/NO8"
-height: "185.0"
-weight: "109.0"
-birth_date: "1996.11.29"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/yoan-tanga"
 ---

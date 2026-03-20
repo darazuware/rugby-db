@@ -1,17 +1,17 @@
 ---
-title: "Arnaud ERBINARTEGARAY | "
-name_en: "Arnaud ERBINARTEGARAY"
-name_ja: ""
+title: "nan | アルノー・エルビナルテガライ"
+name_en: "nan"
+name_ja: "アルノー・エルビナルテガライ"
 slug: "arnaud-erbinartegaray"
-position: "WTB"
-height: "185.0"
-weight: "89.0"
-birth_date: "2000.09.16"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/arnaud-erbinartegaray"
 ---

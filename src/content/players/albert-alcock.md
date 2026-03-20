@@ -1,17 +1,17 @@
 ---
-title: "Albert ALCOCK | "
-name_en: "Albert ALCOCK"
-name_ja: ""
+title: "nan | アルバート・アルコック"
+name_en: "nan"
+name_ja: "アルバート・アルコック"
 slug: "albert-alcock"
-position: "HO"
-height: "175.0"
+position: ""
+height: "0"
 weight: "0"
-birth_date: "2003.11.18"
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/albert-alcock"
 ---

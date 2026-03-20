@@ -4,14 +4,14 @@ name_en: "Matt HEATON"
 name_ja: ""
 slug: "matt-heaton"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "09/02/1993"
+weight: "1"
 birth_date: ""
-age: 33
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "RFCロサンゼルス"
+team: "The RFC Los Angeles rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/matt-heaton"
 ---

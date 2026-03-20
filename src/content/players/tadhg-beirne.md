@@ -1,18 +1,18 @@
 ---
-title: "Tadhg BEIRNE | "
-name_en: "Tadhg BEIRNE"
-name_ja: ""
+title: "nan | タイグ ・ BEIRNE"
+name_en: "nan"
+name_ja: "タイグ ・ BEIRNE"
 slug: "tadhg-beirne"
-position: "LO"
-height: "198.0"
-weight: "114.0"
-birth_date: "1992.01.08"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tadhg-beirne"
 ---
 

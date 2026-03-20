@@ -4,14 +4,14 @@ name_en: "Cory GILLILAND-DANIEL"
 name_ja: ""
 slug: "cory-gilliland-daniel"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "11/09/1995"
+weight: "1"
 birth_date: ""
-age: 30
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/cory-gilliland-daniel"
 ---

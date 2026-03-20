@@ -1,18 +1,18 @@
 ---
-title: "Gela APRASIDZE | "
-name_en: "Gela APRASIDZE"
-name_ja: ""
+title: "nan | ゲラ-アプラスィゼ"
+name_en: "nan"
+name_ja: "ゲラ-アプラスィゼ"
 slug: "gela-aprasidze"
-position: "SH"
-height: "175.0"
-weight: "76.0"
-birth_date: "1998.01.14"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gela-aprasidze"
 ---
 

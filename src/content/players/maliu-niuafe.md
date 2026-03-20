@@ -4,14 +4,14 @@ name_en: "Maliu NIUAFE"
 name_ja: ""
 slug: "maliu-niuafe"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "03/07/2003"
+weight: "-"
 birth_date: ""
-age: 22
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "RFCロサンゼルス"
+team: "The RFC Los Angeles rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/maliu-niuafe"
 ---

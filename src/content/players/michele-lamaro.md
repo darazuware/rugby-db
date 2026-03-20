@@ -1,18 +1,18 @@
 ---
-title: "Michele LAMARO | "
-name_en: "Michele LAMARO"
-name_ja: ""
+title: "nan | Michele ・ LAMARO"
+name_en: "nan"
+name_ja: "Michele ・ LAMARO"
 slug: "michele-lamaro"
-position: "Back row"
-height: "188.0"
-weight: "103.0"
-birth_date: "1998.06.03"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/michele-lamaro"
 ---
 

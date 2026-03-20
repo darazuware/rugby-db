@@ -1,17 +1,17 @@
 ---
-title: "Jack HOSKINS | "
-name_en: "Jack HOSKINS"
-name_ja: ""
+title: "nan | ジャック ・ HOSKINS"
+name_en: "nan"
+name_ja: "ジャック ・ HOSKINS"
 slug: "jack-hoskins"
-position: "CTB"
-height: "185.0"
-weight: "100.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-hoskins"
 ---

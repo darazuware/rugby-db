@@ -4,14 +4,14 @@ name_en: "Marcel BRACHE"
 name_ja: ""
 slug: "marcel-brache"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "15/10/1987"
+weight: "1"
 birth_date: ""
-age: 38
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "サンディエゴ・レギオン"
+team: "The San Diego Legion rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/marcel-brache"
 ---

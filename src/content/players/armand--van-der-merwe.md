@@ -1,18 +1,18 @@
 ---
-title: "Akker VAN DER MERWE | "
-name_en: "Akker VAN DER MERWE"
-name_ja: ""
+title: "nan | Akker ・ ファン ・ デル ・ MERWE"
+name_en: "nan"
+name_ja: "Akker ・ ファン ・ デル ・ MERWE"
 slug: "armand--van-der-merwe"
-position: "HO"
-height: "178.0"
-weight: "108.0"
-birth_date: "1991.06.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/armand--van-der-merwe"
 ---
 

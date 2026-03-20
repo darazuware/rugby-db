@@ -1,18 +1,18 @@
 ---
-title: "Irae SIMONE | "
-name_en: "Irae SIMONE"
-name_ja: ""
+title: "nan | イラエ-シモーネ"
+name_en: "nan"
+name_ja: "イラエ-シモーネ"
 slug: "irae-simone"
-position: "CTB"
-height: "193.0"
-weight: "105.0"
-birth_date: "1995.07.10"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/irae-simone"
 ---
 

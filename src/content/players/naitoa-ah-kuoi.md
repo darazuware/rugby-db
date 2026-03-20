@@ -1,17 +1,17 @@
 ---
-title: "Naitoa AH KUOI | "
-name_en: "Naitoa AH KUOI"
-name_ja: ""
+title: "nan | ナイトア・アー・クオイ"
+name_en: "nan"
+name_ja: "ナイトア・アー・クオイ"
 slug: "naitoa-ah-kuoi"
-position: "LO"
-height: "196.0"
-weight: "116.0"
-birth_date: "1999.10.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/naitoa-ah-kuoi"
 ---

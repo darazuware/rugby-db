@@ -1,17 +1,17 @@
 ---
-title: "Diarmuid KILGALLEN | "
-name_en: "Diarmuid KILGALLEN"
-name_ja: ""
+title: "nan | Diarmuid ・ KILGALLEN"
+name_en: "nan"
+name_ja: "Diarmuid ・ KILGALLEN"
 slug: "diarmuid-kilgallen"
-position: "Winger"
-height: "193.0"
-weight: "96.0"
-birth_date: "2000.03.08"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/diarmuid-kilgallen"
 ---

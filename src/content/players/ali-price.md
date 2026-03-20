@@ -1,18 +1,18 @@
 ---
-title: "Ali PRICE | "
-name_en: "Ali PRICE"
-name_ja: ""
+title: "nan | アリ・プライス"
+name_en: "nan"
+name_ja: "アリ・プライス"
 slug: "ali-price"
-position: "SH"
-height: "177.0"
-weight: "88.0"
-birth_date: "1993.05.12"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ali-price"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Bastien CHALUREAU | "
-name_en: "Bastien CHALUREAU"
-name_ja: ""
+title: "nan | バスチャン・シャルロー"
+name_en: "nan"
+name_ja: "バスチャン・シャルロー"
 slug: "bastien-chalureau"
-position: "LO"
-height: "202.0"
-weight: "118.0"
-birth_date: "1992.02.13"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bastien-chalureau"
 ---

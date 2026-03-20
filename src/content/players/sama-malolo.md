@@ -1,18 +1,18 @@
 ---
-title: "Sama MALOLO | "
-name_en: "Sama MALOLO"
-name_ja: ""
+title: "nan | サマ・マロロ"
+name_en: "nan"
+name_ja: "サマ・マロロ"
 slug: "sama-malolo"
-position: "HO"
-height: "183.0"
-weight: "109.0"
-birth_date: "1998.02.19"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sama-malolo"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Sean JANSEN | "
-name_en: "Sean JANSEN"
-name_ja: ""
+title: "nan | ショーン ・ JANSEN"
+name_en: "nan"
+name_ja: "ショーン ・ JANSEN"
 slug: "sean-jansen"
-position: "Back row"
-height: "191.0"
-weight: "118.0"
-birth_date: "1999.05.10"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-jansen"
 ---

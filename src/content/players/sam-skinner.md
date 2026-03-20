@@ -1,18 +1,18 @@
 ---
-title: "Sam SKINNER | "
-name_en: "Sam SKINNER"
-name_ja: ""
+title: "nan | サム ・ SKINNER"
+name_en: "nan"
+name_ja: "サム ・ SKINNER"
 slug: "sam-skinner"
-position: "Back row"
-height: "196.0"
-weight: "115.0"
-birth_date: "1995.01.31"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sam-skinner"
 ---
 

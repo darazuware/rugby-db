@@ -1,17 +1,17 @@
 ---
-title: "Tai CRIBB | "
-name_en: "Tai CRIBB"
-name_ja: ""
+title: "nan | タイ・クリブ"
+name_en: "nan"
+name_ja: "タイ・クリブ"
 slug: "tai-cribb"
-position: "LO"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.02.09"
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tai-cribb"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Siphosethu MNEBELELE | "
-name_en: "Siphosethu MNEBELELE"
-name_ja: ""
+title: "nan | Siphosethu ・ MNEBELELE"
+name_en: "nan"
+name_ja: "Siphosethu ・ MNEBELELE"
 slug: "siphosethu-mnebelele"
-position: "HO"
-height: "183.0"
-weight: "111.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/siphosethu-mnebelele"
 ---

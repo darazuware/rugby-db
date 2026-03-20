@@ -1,17 +1,17 @@
 ---
-title: "Philip BASELALA | "
-name_en: "Philip BASELALA"
-name_ja: ""
+title: "nan | フィリップ・バセララ"
+name_en: "nan"
+name_ja: "フィリップ・バセララ"
 slug: "philip-baselala"
-position: "SH"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/philip-baselala"
 ---

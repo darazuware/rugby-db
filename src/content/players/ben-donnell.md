@@ -1,17 +1,17 @@
 ---
-title: "Ben DONNELL | "
-name_en: "Ben DONNELL"
-name_ja: ""
+title: "nan | ベン ・ DONNELL"
+name_en: "nan"
+name_ja: "ベン ・ DONNELL"
 slug: "ben-donnell"
-position: "Back row"
-height: "198.0"
-weight: "118.0"
-birth_date: "2000.08.02"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-donnell"
 ---

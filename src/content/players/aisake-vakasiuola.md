@@ -1,17 +1,17 @@
 ---
-title: "Aisake VAKASIUOLA | "
-name_en: "Aisake VAKASIUOLA"
-name_ja: ""
+title: "nan | アイサケ・バカシウオラ"
+name_en: "nan"
+name_ja: "アイサケ・バカシウオラ"
 slug: "aisake-vakasiuola"
-position: "LO"
-height: "197.0"
-weight: "122.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aisake-vakasiuola"
 ---

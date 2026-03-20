@@ -1,17 +1,17 @@
 ---
-title: "George WHITEHEAD | "
-name_en: "George WHITEHEAD"
-name_ja: ""
+title: "nan | George ・ WHITEHEAD"
+name_en: "nan"
+name_ja: "George ・ WHITEHEAD"
 slug: "george-whitehead"
-position: "SO"
-height: "184.0"
-weight: "88.0"
-birth_date: "1989.03.17"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/george-whitehead"
 ---

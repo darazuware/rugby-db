@@ -1,17 +1,17 @@
 ---
-title: "Charlie CASSANG | "
-name_en: "Charlie CASSANG"
-name_ja: ""
+title: "nan | チャーリー・カサン"
+name_en: "nan"
+name_ja: "チャーリー・カサン"
 slug: "charlie-cassang"
-position: "SH"
-height: "173.0"
-weight: "92.0"
-birth_date: "1995.02.08"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/charlie-cassang"
 ---

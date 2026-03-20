@@ -1,18 +1,18 @@
 ---
-title: "Lorenzo CANNONE | "
-name_en: "Lorenzo CANNONE"
-name_ja: ""
+title: "nan | Lorenzo ・ CANNONE"
+name_en: "nan"
+name_ja: "Lorenzo ・ CANNONE"
 slug: "lorenzo-cannone"
-position: "Back row"
-height: "190.0"
-weight: "106.0"
-birth_date: "2001.01.28"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lorenzo-cannone"
 ---
 

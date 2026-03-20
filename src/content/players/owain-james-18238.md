@@ -1,17 +1,17 @@
 ---
-title: "Owain JAMES | "
-name_en: "Owain JAMES"
-name_ja: ""
+title: "nan | Owain ・ ジェームズ"
+name_en: "nan"
+name_ja: "Owain ・ ジェームズ"
 slug: "owain-james-18238"
-position: "PR"
-height: "188.0"
-weight: "125.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/owain-james-18238"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Brandon PAENGA-AMOSA | "
-name_en: "Brandon PAENGA-AMOSA"
-name_ja: ""
+title: "nan | ブランドン-パエンガ＝アモサ"
+name_en: "nan"
+name_ja: "ブランドン-パエンガ＝アモサ"
 slug: "brandon-paenga-amosa"
-position: "HO"
-height: "183.0"
-weight: "117.0"
-birth_date: "1995.12.25"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/brandon-paenga-amosa"
 ---
 

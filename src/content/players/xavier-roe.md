@@ -1,17 +1,17 @@
 ---
-title: "Xavier ROE | "
-name_en: "Xavier ROE"
-name_ja: ""
+title: "nan | ザビエル・ロー"
+name_en: "nan"
+name_ja: "ザビエル・ロー"
 slug: "xavier-roe"
-position: "SH"
-height: "179.0"
-weight: "86.0"
-birth_date: "1998.12.13"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-roe"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Sid HARVEY | "
-name_en: "Sid HARVEY"
-name_ja: ""
+title: "nan | シド・ハーヴェイ"
+name_en: "nan"
+name_ja: "シド・ハーヴェイ"
 slug: "sid-harvey"
-position: "FB"
-height: "190.0"
-weight: "91.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sid-harvey"
 ---

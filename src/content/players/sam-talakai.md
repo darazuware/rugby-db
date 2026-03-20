@@ -1,18 +1,18 @@
 ---
-title: "Sam TALAKAI | "
-name_en: "Sam TALAKAI"
-name_ja: ""
+title: "nan | サム ・ TALAKAI"
+name_en: "nan"
+name_ja: "サム ・ TALAKAI"
 slug: "sam-talakai"
-position: "PR"
-height: "183.0"
-weight: "122.0"
-birth_date: "1991.09.04"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sam-talakai"
 ---
 

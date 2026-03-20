@@ -1,18 +1,18 @@
 ---
-title: "Will COLLIER | "
-name_en: "Will COLLIER"
-name_ja: ""
+title: "nan | ウィル・コリアー"
+name_en: "nan"
+name_ja: "ウィル・コリアー"
 slug: "will-collier"
-position: "PR"
-height: "184.0"
-weight: "120.0"
-birth_date: "1991.05.05"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/will-collier"
 ---
 

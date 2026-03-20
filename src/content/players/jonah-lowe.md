@@ -1,17 +1,17 @@
 ---
-title: "Jonah LOWE | "
-name_en: "Jonah LOWE"
-name_ja: ""
+title: "nan | ジョナ・ロウ"
+name_en: "nan"
+name_ja: "ジョナ・ロウ"
 slug: "jonah-lowe"
-position: "WTB"
-height: "184.0"
-weight: "92.0"
-birth_date: "1996.05.09"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jonah-lowe"
 ---

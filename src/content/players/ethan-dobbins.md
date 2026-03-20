@@ -1,17 +1,17 @@
 ---
-title: "Ethan DOBBINS | "
-name_en: "Ethan DOBBINS"
-name_ja: ""
+title: "nan | イーサン・ドビンズ"
+name_en: "nan"
+name_ja: "イーサン・ドビンズ"
 slug: "ethan-dobbins"
-position: "HO"
-height: "181.0"
-weight: "108.0"
-birth_date: "2000.05.03"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-dobbins"
 ---

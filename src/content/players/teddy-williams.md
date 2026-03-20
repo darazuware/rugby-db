@@ -1,18 +1,18 @@
 ---
-title: "Teddy WILLIAMS | "
-name_en: "Teddy WILLIAMS"
-name_ja: ""
+title: "nan | Teddy ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "Teddy ・ ウィリアムズ"
 slug: "teddy-williams"
-position: "Back row"
-height: "200.0"
-weight: "118.0"
-birth_date: "2000.10.18"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/teddy-williams"
 ---
 

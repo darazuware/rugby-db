@@ -4,14 +4,14 @@ name_en: "Nic BENN"
 name_ja: ""
 slug: "nic-benn"
 position: "Winger"
-height: "0"
-weight: "0"
+height: "28/04/2001"
+weight: "1"
 birth_date: ""
-age: 24
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ユタ・ウォーリアーズ"
+team: "The Utah Warriors rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/nic-benn"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Taine ROBINSON | "
-name_en: "Taine ROBINSON"
-name_ja: ""
+title: "nan | テイン・ロビンソン"
+name_en: "nan"
+name_ja: "テイン・ロビンソン"
 slug: "taine-robinson"
-position: "SO"
-height: "180.0"
-weight: "89.0"
-birth_date: "1999.06.15"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/taine-robinson"
 ---

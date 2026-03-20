@@ -1,17 +1,17 @@
 ---
-title: "Soane VIKENA | "
-name_en: "Soane VIKENA"
-name_ja: ""
+title: "nan | ソアネ・ヴィケナ"
+name_en: "nan"
+name_ja: "ソアネ・ヴィケナ"
 slug: "soane-vikena"
-position: "HO"
-height: "183.0"
-weight: "112.0"
-birth_date: "2001.07.01"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/soane-vikena"
 ---

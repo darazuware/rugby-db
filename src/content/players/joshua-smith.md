@@ -1,17 +1,17 @@
 ---
-title: "Josh SMITH | "
-name_en: "Josh SMITH"
-name_ja: ""
+title: "nan | ジョシュ・スミス"
+name_en: "nan"
+name_ja: "ジョシュ・スミス"
 slug: "joshua-smith"
-position: "PR"
-height: "188.0"
-weight: "110.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joshua-smith"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Ben HEALY | "
-name_en: "Ben HEALY"
-name_ja: ""
+title: "nan | ベン ・ HEALY"
+name_en: "nan"
+name_ja: "ベン ・ HEALY"
 slug: "ben-healy"
-position: "SO"
-height: "191.0"
-weight: "100.0"
-birth_date: "1999.06.29"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ben-healy"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Jordan PETAIA | "
-name_en: "Jordan PETAIA"
-name_ja: ""
+title: "nan | ジョーダン・ペタイア"
+name_en: "nan"
+name_ja: "ジョーダン・ペタイア"
 slug: "jordan-petaia"
-position: "WTB"
-height: "190.0"
-weight: "102.0"
-birth_date: "2000.03.14"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jordan-petaia"
 ---
 

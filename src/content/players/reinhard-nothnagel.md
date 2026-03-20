@@ -1,17 +1,17 @@
 ---
-title: "Reinhard NOTHNAGEL | "
-name_en: "Reinhard NOTHNAGEL"
-name_ja: ""
+title: "nan | Reinhard ・ NOTHNAGEL"
+name_en: "nan"
+name_ja: "Reinhard ・ NOTHNAGEL"
 slug: "reinhard-nothnagel"
-position: "LO"
-height: "202.0"
-weight: "117.0"
-birth_date: "1997.09.25"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/reinhard-nothnagel"
 ---

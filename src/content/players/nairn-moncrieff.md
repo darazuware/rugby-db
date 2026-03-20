@@ -1,17 +1,17 @@
 ---
-title: "Nairn MONCRIEFF | "
-name_en: "Nairn MONCRIEFF"
-name_ja: ""
+title: "nan | Nairn ・ MONCRIEFF"
+name_en: "nan"
+name_ja: "Nairn ・ MONCRIEFF"
 slug: "nairn-moncrieff"
-position: "Winger"
-height: "178.0"
-weight: "89.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nairn-moncrieff"
 ---

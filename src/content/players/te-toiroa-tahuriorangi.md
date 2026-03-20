@@ -1,18 +1,18 @@
 ---
-title: "Te Toiroa TAHURIORANGI | "
-name_en: "Te Toiroa TAHURIORANGI"
-name_ja: ""
+title: "nan | テ・トイロア・タフリオランギ"
+name_en: "nan"
+name_ja: "テ・トイロア・タフリオランギ"
 slug: "te-toiroa-tahuriorangi"
-position: "SH"
-height: "174.0"
-weight: "85.0"
-birth_date: "1995.03.31"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/te-toiroa-tahuriorangi"
 ---
 

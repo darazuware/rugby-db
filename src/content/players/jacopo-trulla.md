@@ -1,18 +1,18 @@
 ---
-title: "Jacopo TRULLA | "
-name_en: "Jacopo TRULLA"
-name_ja: ""
+title: "nan | Jacopo ・ TRULLA"
+name_en: "nan"
+name_ja: "Jacopo ・ TRULLA"
 slug: "jacopo-trulla"
-position: "Winger"
-height: "183.0"
-weight: "88.0"
-birth_date: "2000.07.05"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jacopo-trulla"
 ---
 

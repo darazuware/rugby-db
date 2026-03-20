@@ -1,17 +1,17 @@
 ---
-title: "Hacjivah DAYIMANI | "
-name_en: "Hacjivah DAYIMANI"
-name_ja: ""
+title: "nan | Hacjivah ・ DAYIMANI"
+name_en: "nan"
+name_ja: "Hacjivah ・ DAYIMANI"
 slug: "hacjivah-dayimani"
-position: "Back row"
-height: "190.0"
-weight: "105.0"
-birth_date: "1997.09.23"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hacjivah-dayimani"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Baptiste GERMAIN | "
-name_en: "Baptiste GERMAIN"
-name_ja: ""
+title: "nan | バティスト・ジェルマン"
+name_en: "nan"
+name_ja: "バティスト・ジェルマン"
 slug: "baptiste-germain"
-position: "SH"
-height: "174.0"
-weight: "82.0"
-birth_date: "2000.11.21"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/baptiste-germain"
 ---

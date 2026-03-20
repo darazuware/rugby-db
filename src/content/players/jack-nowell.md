@@ -1,18 +1,18 @@
 ---
-title: "Jack NOWELL | "
-name_en: "Jack NOWELL"
-name_ja: ""
+title: "nan | ジャック-ノウェル"
+name_en: "nan"
+name_ja: "ジャック-ノウェル"
 slug: "jack-nowell"
-position: "WTB"
-height: "181.0"
-weight: "98.0"
-birth_date: "1993.04.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jack-nowell"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Tom LAMBERT | "
-name_en: "Tom LAMBERT"
-name_ja: ""
+title: "nan | トム・ランバート"
+name_en: "nan"
+name_ja: "トム・ランバート"
 slug: "thomas-lambert"
-position: "PR"
-height: "188.0"
-weight: "115.0"
-birth_date: "2000.11.20"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lambert"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Cyril BLANCHARD | "
-name_en: "Cyril BLANCHARD"
-name_ja: ""
+title: "nan | シリル・ブランシャール"
+name_en: "nan"
+name_ja: "シリル・ブランシャール"
 slug: "cyril-blanchard"
-position: "HO"
-height: "176.0"
-weight: "111.0"
-birth_date: "1989.07.22"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cyril-blanchard"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Auguste CADOT | "
-name_en: "Auguste CADOT"
-name_ja: ""
+title: "nan | オーギュスト・カド"
+name_en: "nan"
+name_ja: "オーギュスト・カド"
 slug: "auguste-cadot"
-position: "CTB"
-height: "181.0"
-weight: "92.0"
-birth_date: "2001.07.28"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/auguste-cadot"
 ---

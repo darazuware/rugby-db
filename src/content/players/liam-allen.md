@@ -1,17 +1,17 @@
 ---
-title: "Liam ALLEN | "
-name_en: "Liam ALLEN"
-name_ja: ""
+title: "nan | リアム・アレン"
+name_en: "nan"
+name_ja: "リアム・アレン"
 slug: "liam-allen"
-position: "FL/NO8"
-height: "191.0"
-weight: "105.0"
-birth_date: "2000.03.17"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-allen"
 ---

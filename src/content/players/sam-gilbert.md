@@ -1,17 +1,17 @@
 ---
-title: "Sam GILBERT | "
-name_en: "Sam GILBERT"
-name_ja: ""
+title: "nan | サム ・ GILBERT"
+name_en: "nan"
+name_ja: "サム ・ GILBERT"
 slug: "sam-gilbert"
-position: "Winger"
-height: "189.0"
-weight: "99.0"
-birth_date: "1999.01.21"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-gilbert"
 ---

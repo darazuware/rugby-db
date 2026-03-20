@@ -1,17 +1,17 @@
 ---
-title: "Sean WITHY | "
-name_en: "Sean WITHY"
-name_ja: ""
+title: "nan | ショーン・ウィジー"
+name_en: "nan"
+name_ja: "ショーン・ウィジー"
 slug: "sean-withy"
-position: "FL/No8"
-height: "191.0"
-weight: "108.0"
-birth_date: "2001.02.01"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-withy"
 ---

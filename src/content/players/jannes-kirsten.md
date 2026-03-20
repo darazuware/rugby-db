@@ -1,17 +1,17 @@
 ---
-title: "Jannes KIRSTEN | "
-name_en: "Jannes KIRSTEN"
-name_ja: ""
+title: "nan | Jannes ・ KIRSTEN"
+name_en: "nan"
+name_ja: "Jannes ・ KIRSTEN"
 slug: "jannes-kirsten"
-position: "Back row"
-height: "197.0"
-weight: "117.0"
-birth_date: "1993.12.01"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jannes-kirsten"
 ---

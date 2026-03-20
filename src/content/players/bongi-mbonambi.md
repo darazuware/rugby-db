@@ -1,18 +1,18 @@
 ---
-title: "Bongi MBONAMBI | "
-name_en: "Bongi MBONAMBI"
-name_ja: ""
+title: "nan | ボンギ ・ ンボナンビ"
+name_en: "nan"
+name_ja: "ボンギ ・ ンボナンビ"
 slug: "bongi-mbonambi"
-position: "HO"
-height: "175.0"
-weight: "118.0"
-birth_date: "1991.01.07"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/bongi-mbonambi"
 ---
 

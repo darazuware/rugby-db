@@ -1,18 +1,18 @@
 ---
-title: "Angus TA'AVAO | "
-name_en: "Angus TA'AVAO"
-name_ja: ""
+title: "nan | アンガス-タアヴァオ"
+name_en: "nan"
+name_ja: "アンガス-タアヴァオ"
 slug: "angus-taavao-matau"
-position: "PR"
-height: "194.0"
-weight: "127.0"
-birth_date: "1990.03.22"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/angus-taavao-matau"
 ---
 

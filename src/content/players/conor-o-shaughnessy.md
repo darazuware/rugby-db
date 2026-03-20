@@ -1,17 +1,17 @@
 ---
-title: "Conor O'SHAUGHNESSY | "
-name_en: "Conor O'SHAUGHNESSY"
-name_ja: ""
+title: "nan | コナー ・ O'SHAUGHNESSY"
+name_en: "nan"
+name_ja: "コナー ・ O'SHAUGHNESSY"
 slug: "conor-o-shaughnessy"
-position: "SO"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2006.."
-age: 20
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/conor-o-shaughnessy"
 ---

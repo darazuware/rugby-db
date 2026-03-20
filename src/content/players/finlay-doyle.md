@@ -1,17 +1,17 @@
 ---
-title: "Finlay DOYLE | "
-name_en: "Finlay DOYLE"
-name_ja: ""
+title: "nan | フィンレイ ・ DOYLE"
+name_en: "nan"
+name_ja: "フィンレイ ・ DOYLE"
 slug: "finlay-doyle"
-position: "FB"
-height: "191.0"
-weight: "101.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/finlay-doyle"
 ---

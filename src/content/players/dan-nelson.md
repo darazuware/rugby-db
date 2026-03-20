@@ -1,17 +1,17 @@
 ---
-title: "Dan NELSON | "
-name_en: "Dan NELSON"
-name_ja: ""
+title: "nan | ダン・ネルソン"
+name_en: "nan"
+name_ja: "ダン・ネルソン"
 slug: "dan-nelson"
-position: "SH"
-height: "179.0"
-weight: "82.0"
-birth_date: "2004.02.15"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-nelson"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Sibabalwe MAHASHE | "
-name_en: "Sibabalwe MAHASHE"
-name_ja: ""
+title: "nan | Sibabalwe ・ MAHASHE"
+name_en: "nan"
+name_ja: "Sibabalwe ・ MAHASHE"
 slug: "sibabalwe-mahashe"
-position: "Back row"
-height: "187.0"
-weight: "93.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sibabalwe-mahashe"
 ---

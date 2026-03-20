@@ -1,17 +1,17 @@
 ---
-title: "Cormac IZUCHUKWU | "
-name_en: "Cormac IZUCHUKWU"
-name_ja: ""
+title: "nan | Cormac ・ IZUCHUKWU"
+name_en: "nan"
+name_ja: "Cormac ・ IZUCHUKWU"
 slug: "cormac-izuchukwu"
-position: "LO"
-height: "200.0"
-weight: "118.0"
-birth_date: "2000.01.28"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cormac-izuchukwu"
 ---

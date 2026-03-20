@@ -1,17 +1,17 @@
 ---
-title: "Temo MAYANAVANUA | "
-name_en: "Temo MAYANAVANUA"
-name_ja: ""
+title: "nan | テモ・マヤナヴァヌア"
+name_en: "nan"
+name_ja: "テモ・マヤナヴァヌア"
 slug: "temo-mayanavanua"
-position: "LO"
-height: "197.0"
-weight: "120.0"
-birth_date: "1997.11.09"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/temo-mayanavanua"
 ---

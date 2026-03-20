@@ -1,18 +1,18 @@
 ---
-title: "Simone FERRARI | "
-name_en: "Simone FERRARI"
-name_ja: ""
+title: "nan | Simone ・ FERRARI"
+name_en: "nan"
+name_ja: "Simone ・ FERRARI"
 slug: "simone-ferrari"
-position: "PR"
-height: "186.0"
-weight: "120.0"
-birth_date: "1994.03.28"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/simone-ferrari"
 ---
 

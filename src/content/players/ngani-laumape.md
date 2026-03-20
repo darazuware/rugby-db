@@ -1,18 +1,18 @@
 ---
-title: "Ngani LAUMAPE | "
-name_en: "Ngani LAUMAPE"
-name_ja: ""
+title: "nan | ンガニ・ラウマペ"
+name_en: "nan"
+name_ja: "ンガニ・ラウマペ"
 slug: "ngani-laumape"
-position: "CTB"
-height: "171.0"
-weight: "104.0"
-birth_date: "1993.04.22"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ngani-laumape"
 ---
 

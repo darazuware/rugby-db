@@ -1,17 +1,17 @@
 ---
-title: "Ben WILLIAMS | "
-name_en: "Ben WILLIAMS"
-name_ja: ""
+title: "nan | ベン ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "ベン ・ ウィリアムズ"
 slug: "ben-williams-14088"
-position: "Back row"
-height: "188.0"
-weight: "108.0"
-birth_date: "2002.04.23"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-williams-14088"
 ---

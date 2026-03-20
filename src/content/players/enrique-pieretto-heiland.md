@@ -1,18 +1,18 @@
 ---
-title: "Enrique PIERETTO HEILAND | "
-name_en: "Enrique PIERETTO HEILAND"
-name_ja: ""
+title: "nan | Enrique ・ PIERETTO ・ HEILAND"
+name_en: "nan"
+name_ja: "Enrique ・ PIERETTO ・ HEILAND"
 slug: "enrique-pieretto-heiland"
-position: "PR"
-height: "187.0"
-weight: "122.0"
-birth_date: "1994.12.15"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/enrique-pieretto-heiland"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Cam ROIGARD | "
-name_en: "Cam ROIGARD"
-name_ja: ""
+title: "nan | カム-ロイガード"
+name_en: "nan"
+name_ja: "カム-ロイガード"
 slug: "cameron-roigard"
-position: "SH"
-height: "183.0"
-weight: "88.0"
-birth_date: "2000.11.16"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/cameron-roigard"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Adrien WARION | "
-name_en: "Adrien WARION"
-name_ja: ""
+title: "nan | アドリアン・ワリオン"
+name_en: "nan"
+name_ja: "アドリアン・ワリオン"
 slug: "adrien-warion"
-position: "LO"
-height: "202.0"
-weight: "115.0"
-birth_date: "2001.01.07"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/adrien-warion"
 ---

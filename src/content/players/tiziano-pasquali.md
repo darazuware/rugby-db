@@ -1,18 +1,18 @@
 ---
-title: "Tiziano PASQUALI | "
-name_en: "Tiziano PASQUALI"
-name_ja: ""
+title: "nan | Tiziano ・ PASQUALI"
+name_en: "nan"
+name_ja: "Tiziano ・ PASQUALI"
 slug: "tiziano-pasquali"
-position: "PR"
-height: "185.0"
-weight: "118.0"
-birth_date: "1994.07.14"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tiziano-pasquali"
 ---
 

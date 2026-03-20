@@ -1,18 +1,18 @@
 ---
-title: "Aidan ROSS | "
-name_en: "Aidan ROSS"
-name_ja: ""
+title: "nan | エイダン・ロス"
+name_en: "nan"
+name_ja: "エイダン・ロス"
 slug: "aidan-ross"
-position: "PR"
-height: "189.0"
-weight: "118.0"
-birth_date: "1995.10.25"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/aidan-ross"
 ---
 

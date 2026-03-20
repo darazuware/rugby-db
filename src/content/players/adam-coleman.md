@@ -1,18 +1,18 @@
 ---
-title: "Adam COLEMAN | "
-name_en: "Adam COLEMAN"
-name_ja: ""
+title: "nan | アダム・コールマン"
+name_en: "nan"
+name_ja: "アダム・コールマン"
 slug: "adam-coleman"
-position: "LO"
-height: "206.0"
-weight: "122.0"
-birth_date: "1991.10.07"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/adam-coleman"
 ---
 

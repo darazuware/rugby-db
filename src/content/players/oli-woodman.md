@@ -1,17 +1,17 @@
 ---
-title: "Oli WOODMAN | "
-name_en: "Oli WOODMAN"
-name_ja: ""
+title: "nan | Oli ・ WOODMAN"
+name_en: "nan"
+name_ja: "Oli ・ WOODMAN"
 slug: "oli-woodman"
-position: "FB"
-height: "188.0"
-weight: "98.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/oli-woodman"
 ---

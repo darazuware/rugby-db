@@ -1,18 +1,18 @@
 ---
-title: "Enrico LUCCHIN | "
-name_en: "Enrico LUCCHIN"
-name_ja: ""
+title: "nan | Enrico ・ LUCCHIN"
+name_en: "nan"
+name_ja: "Enrico ・ LUCCHIN"
 slug: "enrico-lucchin"
-position: "CTB"
-height: "188.0"
-weight: "103.0"
-birth_date: "1995.04.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/enrico-lucchin"
 ---
 

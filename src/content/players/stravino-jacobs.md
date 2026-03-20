@@ -1,17 +1,17 @@
 ---
-title: "Stravino JACOBS | "
-name_en: "Stravino JACOBS"
-name_ja: ""
+title: "nan | Stravino ・ JACOBS"
+name_en: "nan"
+name_ja: "Stravino ・ JACOBS"
 slug: "stravino-jacobs"
-position: "Winger"
-height: "180.0"
-weight: "103.0"
-birth_date: "2000.02.21"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/stravino-jacobs"
 ---

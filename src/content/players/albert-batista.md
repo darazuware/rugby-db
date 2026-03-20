@@ -1,18 +1,18 @@
 ---
-title: "Albert BATISTA | "
-name_en: "Albert BATISTA"
-name_ja: ""
+title: "nan | Albert ・ BATISTA"
+name_en: "nan"
+name_ja: "Albert ・ BATISTA"
 slug: "albert-batista"
-position: "Winger"
-height: "180.0"
-weight: "87.0"
-birth_date: "2000.06.10"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Dominican Republic"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/albert-batista"
 ---
 

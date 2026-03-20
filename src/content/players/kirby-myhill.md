@@ -1,17 +1,17 @@
 ---
-title: "Kirby MYHILL | "
-name_en: "Kirby MYHILL"
-name_ja: ""
+title: "nan | Kirby ・ MYHILL"
+name_en: "nan"
+name_ja: "Kirby ・ MYHILL"
 slug: "kirby-myhill"
-position: "HO"
-height: "183.0"
-weight: "108.0"
-birth_date: "1992.02.05"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "マイアミ・シャークス"
+team: "The Miami Sharks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/kirby-myhill"
 ---

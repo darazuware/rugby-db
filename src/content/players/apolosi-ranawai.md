@@ -1,17 +1,17 @@
 ---
-title: "Apolosi RANAWAI | "
-name_en: "Apolosi RANAWAI"
-name_ja: ""
+title: "nan | アポロシ・ラナワイ"
+name_en: "nan"
+name_ja: "アポロシ・ラナワイ"
 slug: "apolosi-ranawai"
-position: "PR"
-height: "183.0"
-weight: "135.0"
-birth_date: "1994.04.16"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/apolosi-ranawai"
 ---

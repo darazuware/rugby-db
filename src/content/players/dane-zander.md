@@ -4,14 +4,14 @@ name_en: "Dane ZANDER"
 name_ja: ""
 slug: "dane-zander"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "23/08/1999"
+weight: "1"
 birth_date: ""
-age: 26
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "RFCロサンゼルス"
+team: "The RFC Los Angeles rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/dane-zander"
 ---

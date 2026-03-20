@@ -1,17 +1,17 @@
 ---
-title: "Pierre FOUYSSAC | "
-name_en: "Pierre FOUYSSAC"
-name_ja: ""
+title: "nan | ピエール・フイサック"
+name_en: "nan"
+name_ja: "ピエール・フイサック"
 slug: "pierre-fouyssac"
-position: "CTB"
-height: "190.0"
-weight: "110.0"
-birth_date: "1995.03.17"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-fouyssac"
 ---

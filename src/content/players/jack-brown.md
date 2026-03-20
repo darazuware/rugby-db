@@ -1,17 +1,17 @@
 ---
-title: "Jack BROWN | "
-name_en: "Jack BROWN"
-name_ja: ""
+title: "nan | ジャック ・ BROWN"
+name_en: "nan"
+name_ja: "ジャック ・ BROWN"
 slug: "jack-brown"
-position: "FB"
-height: "188.0"
-weight: "94.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-brown"
 ---

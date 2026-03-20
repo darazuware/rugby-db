@@ -1,17 +1,17 @@
 ---
-title: "Joey WALTON | "
-name_en: "Joey WALTON"
-name_ja: ""
+title: "nan | ジョーイー・ウォルトン"
+name_en: "nan"
+name_ja: "ジョーイー・ウォルトン"
 slug: "joey-walton"
-position: "CTB"
-height: "185.0"
-weight: "97.0"
-birth_date: "2000.05.27"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joey-walton"
 ---

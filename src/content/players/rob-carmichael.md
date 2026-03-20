@@ -1,17 +1,17 @@
 ---
-title: "Rob CARMICHAEL | "
-name_en: "Rob CARMICHAEL"
-name_ja: ""
+title: "nan | Rob ・ CARMICHAEL"
+name_en: "nan"
+name_ja: "Rob ・ CARMICHAEL"
 slug: "rob-carmichael"
-position: "LO"
-height: "210.0"
-weight: "125.0"
-birth_date: "2003.04.04"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rob-carmichael"
 ---

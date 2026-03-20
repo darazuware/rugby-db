@@ -1,17 +1,17 @@
 ---
-title: "Angelo SMITH | "
-name_en: "Angelo SMITH"
-name_ja: ""
+title: "nan | アンジェロ・スミス"
+name_en: "nan"
+name_ja: "アンジェロ・スミス"
 slug: "angelo-smith"
-position: "LO"
-height: "199.0"
-weight: "115.0"
-birth_date: "2000.07.27"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/angelo-smith"
 ---

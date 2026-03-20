@@ -1,17 +1,17 @@
 ---
-title: "Kavaia TAGIVETAUA | "
-name_en: "Kavaia TAGIVETAUA"
-name_ja: ""
+title: "nan | カヴァイア・タギヴェタウア"
+name_en: "nan"
+name_ja: "カヴァイア・タギヴェタウア"
 slug: "kavaia-tagivetaua"
-position: "HO"
-height: "180.0"
-weight: "113.0"
-birth_date: "2003.06.05"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kavaia-tagivetaua"
 ---

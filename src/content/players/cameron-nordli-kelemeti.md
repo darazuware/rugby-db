@@ -4,14 +4,14 @@ name_en: "Cameron NORDLI-KELEMETI"
 name_ja: ""
 slug: "cameron-nordli-kelemeti"
 position: "Scrum-half"
-height: "0"
-weight: "0"
+height: "20/09/1999"
+weight: "1"
 birth_date: ""
-age: 26
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ニューイングランド・フリージャックス"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-nordli-kelemeti"
 ---

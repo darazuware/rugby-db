@@ -1,18 +1,18 @@
 ---
-title: "Beka SAGINADZE | "
-name_en: "Beka SAGINADZE"
-name_ja: ""
+title: "nan | ベカ・サギナゼ"
+name_en: "nan"
+name_ja: "ベカ・サギナゼ"
 slug: "beka-saghinadze"
-position: "FL/NO8"
-height: "192.0"
-weight: "110.0"
-birth_date: "1998.10.29"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/beka-saghinadze"
 ---
 

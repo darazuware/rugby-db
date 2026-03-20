@@ -1,17 +1,17 @@
 ---
-title: "Solomon ALAIMALO | "
-name_en: "Solomon ALAIMALO"
-name_ja: ""
+title: "nan | ソロモン・アライマロ"
+name_en: "nan"
+name_ja: "ソロモン・アライマロ"
 slug: "solomona-alaimalo"
-position: "CTB"
-height: "196.0"
-weight: "100.0"
-birth_date: "1995.12.27"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/solomona-alaimalo"
 ---

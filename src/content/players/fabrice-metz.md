@@ -1,17 +1,17 @@
 ---
-title: "Fabrice METZ | "
-name_en: "Fabrice METZ"
-name_ja: ""
+title: "nan | ファブリス・メッツ"
+name_en: "nan"
+name_ja: "ファブリス・メッツ"
 slug: "fabrice-metz"
-position: "LO"
-height: "198.0"
-weight: "127.0"
-birth_date: "1991.01.23"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/fabrice-metz"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Andrew KNEWSTUBB | "
-name_en: "Andrew KNEWSTUBB"
-name_ja: ""
+title: "nan | アンドリュー・ニュースタッブ"
+name_en: "nan"
+name_ja: "アンドリュー・ニュースタッブ"
 slug: "andrew-knewstubb"
-position: "FB"
-height: "188.0"
-weight: "88.0"
-birth_date: "1995.09.14"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/andrew-knewstubb"
 ---

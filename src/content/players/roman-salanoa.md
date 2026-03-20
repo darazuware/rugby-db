@@ -1,17 +1,17 @@
 ---
-title: "Roman SALANOA | "
-name_en: "Roman SALANOA"
-name_ja: ""
+title: "nan | Roman ・ SALANOA"
+name_en: "nan"
+name_ja: "Roman ・ SALANOA"
 slug: "roman-salanoa"
-position: "PR"
-height: "183.0"
-weight: "123.0"
-birth_date: "1997.10.28"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/roman-salanoa"
 ---

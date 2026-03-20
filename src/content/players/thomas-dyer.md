@@ -1,17 +1,17 @@
 ---
-title: "Thomas DYER | "
-name_en: "Thomas DYER"
-name_ja: ""
+title: "nan | トーマス ・ DYER"
+name_en: "nan"
+name_ja: "トーマス ・ DYER"
 slug: "thomas-dyer"
-position: "LO"
-height: "196.0"
-weight: "115.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-dyer"
 ---

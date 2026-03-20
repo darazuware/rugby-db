@@ -1,17 +1,17 @@
 ---
-title: "JC PRETORIUS | "
-name_en: "JC PRETORIUS"
-name_ja: ""
+title: "nan | JC ・ PRETORIUS"
+name_en: "nan"
+name_ja: "JC ・ PRETORIUS"
 slug: "jc-pretorius"
-position: "Back row"
-height: "186.0"
-weight: "92.0"
-birth_date: "1998.01.29"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jc-pretorius"
 ---

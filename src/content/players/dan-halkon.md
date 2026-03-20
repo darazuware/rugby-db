@@ -1,17 +1,17 @@
 ---
-title: "Dan HALKON | "
-name_en: "Dan HALKON"
-name_ja: ""
+title: "nan | ダン ・ HALKON"
+name_en: "nan"
+name_ja: "ダン ・ HALKON"
 slug: "dan-halkon"
-position: "LO"
-height: "200.0"
-weight: "120.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-halkon"
 ---

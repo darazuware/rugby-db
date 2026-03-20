@@ -1,17 +1,17 @@
 ---
-title: "Vusi Simphiwe MOYO | "
-name_en: "Vusi Simphiwe MOYO"
-name_ja: ""
+title: "nan | Vusi ・ Simphiwe ・ MOYO"
+name_en: "nan"
+name_ja: "Vusi ・ Simphiwe ・ MOYO"
 slug: "simphiwe-moyo"
-position: "SO"
-height: "182.0"
-weight: "90.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/simphiwe-moyo"
 ---

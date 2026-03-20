@@ -1,17 +1,17 @@
 ---
-title: "Karl SORIN | "
-name_en: "Karl SORIN"
-name_ja: ""
+title: "nan | カール・ソラン"
+name_en: "nan"
+name_ja: "カール・ソラン"
 slug: "karl-sorin"
-position: "PR"
-height: "186.0"
-weight: "135.0"
-birth_date: "2003.08.07"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/karl-sorin"
 ---

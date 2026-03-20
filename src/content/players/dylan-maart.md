@@ -1,17 +1,17 @@
 ---
-title: "Dylan MAART | "
-name_en: "Dylan MAART"
-name_ja: ""
+title: "nan | Dylan ・ MAART"
+name_en: "nan"
+name_ja: "Dylan ・ MAART"
 slug: "dylan-maart"
-position: "Winger"
-height: "185.0"
-weight: "77.0"
-birth_date: "1996.09.03"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-maart"
 ---

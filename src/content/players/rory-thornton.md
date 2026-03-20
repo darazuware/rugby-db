@@ -1,18 +1,18 @@
 ---
-title: "Rory THORNTON | "
-name_en: "Rory THORNTON"
-name_ja: ""
+title: "nan | Rory ・ THORNTON"
+name_en: "nan"
+name_ja: "Rory ・ THORNTON"
 slug: "rory-thornton"
-position: "LO"
-height: "200.0"
-weight: "121.0"
-birth_date: "1995.03.16"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rory-thornton"
 ---
 

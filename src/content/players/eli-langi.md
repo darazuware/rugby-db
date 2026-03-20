@@ -1,17 +1,17 @@
 ---
-title: "Eli LANGI | "
-name_en: "Eli LANGI"
-name_ja: ""
+title: "nan | イーライ・ランギ"
+name_en: "nan"
+name_ja: "イーライ・ランギ"
 slug: "eli-langi"
-position: "FL/No8"
-height: "193.0"
-weight: "104.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eli-langi"
 ---

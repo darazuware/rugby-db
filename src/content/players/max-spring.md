@@ -1,17 +1,17 @@
 ---
-title: "Max SPRING | "
-name_en: "Max SPRING"
-name_ja: ""
+title: "nan | マックス・スプリング"
+name_en: "nan"
+name_ja: "マックス・スプリング"
 slug: "max-spring"
-position: "FB"
-height: "173.0"
-weight: "75.0"
-birth_date: "2001.03.15"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/max-spring"
 ---

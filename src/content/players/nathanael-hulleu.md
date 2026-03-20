@@ -1,17 +1,17 @@
 ---
-title: "Nathanaël HULLEU | "
-name_en: "Nathanaël HULLEU"
-name_ja: ""
+title: "nan | ナタナエル・ユルー"
+name_en: "nan"
+name_ja: "ナタナエル・ユルー"
 slug: "nathanael-hulleu"
-position: "WTB"
-height: "178.0"
-weight: "87.0"
-birth_date: "2000.05.16"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nathanael-hulleu"
 ---

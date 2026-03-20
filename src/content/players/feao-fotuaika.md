@@ -1,18 +1,18 @@
 ---
-title: "Feao FOTUAIKA | "
-name_en: "Feao FOTUAIKA"
-name_ja: ""
+title: "nan | フェアオ-フォトゥアイカ"
+name_en: "nan"
+name_ja: "フェアオ-フォトゥアイカ"
 slug: "feao-fotuaika"
-position: "PR"
-height: "186.0"
-weight: "135.0"
-birth_date: "1993.04.23"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/feao-fotuaika"
 ---
 

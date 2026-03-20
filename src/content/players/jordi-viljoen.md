@@ -1,17 +1,17 @@
 ---
-title: "Jordi VILJOEN | "
-name_en: "Jordi VILJOEN"
-name_ja: ""
+title: "nan | ジョルディ・フォルヒェン"
+name_en: "nan"
+name_ja: "ジョルディ・フォルヒェン"
 slug: "jordi-viljoen"
-position: "SH"
-height: "169.0"
-weight: "76.0"
-birth_date: "2003.10.14"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jordi-viljoen"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Jaden HENDRIKSE | "
-name_en: "Jaden HENDRIKSE"
-name_ja: ""
+title: "nan | Jaden ・ HENDRIKSE"
+name_en: "nan"
+name_ja: "Jaden ・ HENDRIKSE"
 slug: "jaden-hendrikse"
-position: "SH"
-height: "184.0"
-weight: "92.0"
-birth_date: "2000.03.23"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jaden-hendrikse"
 ---

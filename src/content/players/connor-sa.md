@@ -1,17 +1,17 @@
 ---
-title: "Connor SA | "
-name_en: "Connor SA"
-name_ja: ""
+title: "nan | コナー・サ"
+name_en: "nan"
+name_ja: "コナー・サ"
 slug: "connor-sa"
-position: "HO"
-height: "183.0"
-weight: "103.0"
-birth_date: "2002.01.22"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-sa"
 ---

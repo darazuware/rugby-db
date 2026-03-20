@@ -1,17 +1,17 @@
 ---
-title: "Lennox ANYANWU | "
-name_en: "Lennox ANYANWU"
-name_ja: ""
+title: "nan | レノックス・アニャンウ"
+name_en: "nan"
+name_ja: "レノックス・アニャンウ"
 slug: "lennox-anyanwu"
-position: "CTB"
-height: "182.0"
-weight: "102.0"
-birth_date: "2000.11.29"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lennox-anyanwu"
 ---

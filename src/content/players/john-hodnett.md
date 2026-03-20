@@ -1,17 +1,17 @@
 ---
-title: "John HODNETT | "
-name_en: "John HODNETT"
-name_ja: ""
+title: "nan | ジョン ・ HODNETT"
+name_en: "nan"
+name_ja: "ジョン ・ HODNETT"
 slug: "john-hodnett"
-position: "Back row"
-height: "185.0"
-weight: "105.0"
-birth_date: "1999.01.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/john-hodnett"
 ---

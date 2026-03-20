@@ -1,17 +1,17 @@
 ---
-title: "Ben STEVENSON | "
-name_en: "Ben STEVENSON"
-name_ja: ""
+title: "nan | ベン・スティーヴンソン"
+name_en: "nan"
+name_ja: "ベン・スティーヴンソン"
 slug: "ben-stevenson"
-position: "WTB"
-height: "189.0"
-weight: "99.0"
-birth_date: "1998.07.19"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-stevenson"
 ---

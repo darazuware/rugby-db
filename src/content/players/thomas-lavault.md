@@ -1,17 +1,17 @@
 ---
-title: "Thomas LAVAULT | "
-name_en: "Thomas LAVAULT"
-name_ja: ""
+title: "nan | トマ・ラヴォー"
+name_en: "nan"
+name_ja: "トマ・ラヴォー"
 slug: "thomas-lavault"
-position: "LO"
-height: "199.0"
-weight: "108.0"
-birth_date: "1999.05.03"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lavault"
 ---

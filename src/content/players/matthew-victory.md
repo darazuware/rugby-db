@@ -1,17 +1,17 @@
 ---
-title: "Matthew VICTORY | "
-name_en: "Matthew VICTORY"
-name_ja: ""
+title: "nan | マシュー ・ VICTORY"
+name_en: "nan"
+name_ja: "マシュー ・ VICTORY"
 slug: "matthew-victory"
-position: "HO"
-height: "177.0"
-weight: "100.0"
-birth_date: "2003.05.28"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matthew-victory"
 ---

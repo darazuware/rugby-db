@@ -1,17 +1,17 @@
 ---
-title: "Joseva TAMANI | "
-name_en: "Joseva TAMANI"
-name_ja: ""
+title: "nan | ジョセヴァ・タマニ"
+name_en: "nan"
+name_ja: "ジョセヴァ・タマニ"
 slug: "joseva-tamani"
-position: "FL/No8"
-height: "195.0"
-weight: "111.0"
-birth_date: "1997.04.02"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joseva-tamani"
 ---

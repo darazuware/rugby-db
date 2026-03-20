@@ -1,17 +1,17 @@
 ---
-title: "Luca RIZZOLI | "
-name_en: "Luca RIZZOLI"
-name_ja: ""
+title: "nan | Luca ・ RIZZOLI"
+name_en: "nan"
+name_ja: "Luca ・ RIZZOLI"
 slug: "luca-rizzoli"
-position: "PR"
-height: "178.0"
-weight: "109.0"
-birth_date: "2002.05.03"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/luca-rizzoli"
 ---

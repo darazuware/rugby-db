@@ -1,17 +1,17 @@
 ---
-title: "Langi GLEESON | "
-name_en: "Langi GLEESON"
-name_ja: ""
+title: "nan | ランギ・グリーソン"
+name_en: "nan"
+name_ja: "ランギ・グリーソン"
 slug: "langi-gleeson"
-position: "FL/NO8"
-height: "188.0"
-weight: "110.0"
-birth_date: "2001.07.21"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/langi-gleeson"
 ---

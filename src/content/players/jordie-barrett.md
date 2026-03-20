@@ -1,18 +1,18 @@
 ---
-title: "Jordie BARRETT | "
-name_en: "Jordie BARRETT"
-name_ja: ""
+title: "nan | ジョーディー・バレット"
+name_en: "nan"
+name_ja: "ジョーディー・バレット"
 slug: "jordie-barrett"
-position: "CTB"
-height: "196.0"
-weight: "102.0"
-birth_date: "1997.02.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jordie-barrett"
 ---
 

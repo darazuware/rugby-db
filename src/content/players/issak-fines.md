@@ -1,18 +1,18 @@
 ---
-title: "Issak FINES | "
-name_en: "Issak FINES"
-name_ja: ""
+title: "nan | アイザック-ファインズ"
+name_en: "nan"
+name_ja: "アイザック-ファインズ"
 slug: "issak-fines"
-position: "SH"
-height: "173.0"
-weight: "82.0"
-birth_date: "1995.10.02"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/issak-fines"
 ---
 

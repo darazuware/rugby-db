@@ -1,17 +1,17 @@
 ---
-title: "Jaco GROBBELAAR | "
-name_en: "Jaco GROBBELAAR"
-name_ja: ""
+title: "nan | Jaco ・ GROBBELAAR"
+name_en: "nan"
+name_ja: "Jaco ・ GROBBELAAR"
 slug: "jaco-grobbelaar"
-position: "Back row"
-height: "198.0"
-weight: "109.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jaco-grobbelaar"
 ---

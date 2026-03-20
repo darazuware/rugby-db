@@ -1,18 +1,18 @@
 ---
-title: "Sione VAILANU | "
-name_en: "Sione VAILANU"
-name_ja: ""
+title: "nan | Sione ・ VAILANU"
+name_en: "nan"
+name_ja: "Sione ・ VAILANU"
 slug: "sione-vailanu"
-position: "Back row"
-height: "189.0"
-weight: "127.0"
-birth_date: "1995.01.27"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sione-vailanu"
 ---
 

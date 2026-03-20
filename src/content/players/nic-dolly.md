@@ -1,18 +1,18 @@
 ---
-title: "Nic DOLLY | "
-name_en: "Nic DOLLY"
-name_ja: ""
+title: "nan | ニック・ドリー"
+name_en: "nan"
+name_ja: "ニック・ドリー"
 slug: "nic-dolly"
-position: "HO"
-height: "182.0"
-weight: "103.0"
-birth_date: "1999.06.11"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nic-dolly"
 ---
 

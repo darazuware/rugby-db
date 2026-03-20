@@ -1,17 +1,17 @@
 ---
-title: "Tomás MEDINA | "
-name_en: "Tomás MEDINA"
-name_ja: ""
+title: "nan | トム ・ MEDINA"
+name_en: "nan"
+name_ja: "トム ・ MEDINA"
 slug: "tomas-medina"
-position: "CTB"
-height: "176.0"
-weight: "94.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tomas-medina"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Malakai FEKITOA | "
-name_en: "Malakai FEKITOA"
-name_ja: ""
+title: "nan | Malakai ・ FEKITOA"
+name_en: "nan"
+name_ja: "Malakai ・ FEKITOA"
 slug: "malakai-fekitoa"
-position: "CTB"
-height: "187.0"
-weight: "100.0"
-birth_date: "1992.05.10"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/malakai-fekitoa"
 ---
 

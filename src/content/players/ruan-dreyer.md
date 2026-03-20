@@ -1,18 +1,18 @@
 ---
-title: "Ruan DREYER | "
-name_en: "Ruan DREYER"
-name_ja: ""
+title: "nan | Ruan ・ DREYER"
+name_en: "nan"
+name_ja: "Ruan ・ DREYER"
 slug: "ruan-dreyer"
-position: "PR"
-height: "186.0"
-weight: "115.0"
-birth_date: "1990.09.16"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ruan-dreyer"
 ---
 

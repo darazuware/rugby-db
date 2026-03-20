@@ -1,18 +1,18 @@
 ---
-title: "Jeremy LOUGHMAN | "
-name_en: "Jeremy LOUGHMAN"
-name_ja: ""
+title: "nan | Jeremy ・ LOUGHMAN"
+name_en: "nan"
+name_ja: "Jeremy ・ LOUGHMAN"
 slug: "jeremy-loughman"
-position: "PR"
-height: "183.0"
-weight: "120.0"
-birth_date: "1995.07.22"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jeremy-loughman"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Lukhan SALAKAIA-LOTO | "
-name_en: "Lukhan SALAKAIA-LOTO"
-name_ja: ""
+title: "nan | ルカン・サラカイア＝ロト"
+name_en: "nan"
+name_ja: "ルカン・サラカイア＝ロト"
 slug: "lukhan-lealaiaulolo-tui"
-position: "LO"
-height: "198.0"
-weight: "124.0"
-birth_date: "1996.09.19"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "Samoa"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lukhan-lealaiaulolo-tui"
 ---
 

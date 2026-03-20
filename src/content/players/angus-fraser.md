@@ -1,17 +1,17 @@
 ---
-title: "Angus FRASER | "
-name_en: "Angus FRASER"
-name_ja: ""
+title: "nan | Angus ・ FRASER"
+name_en: "nan"
+name_ja: "Angus ・ FRASER"
 slug: "angus-fraser"
-position: "HO"
-height: "181.0"
-weight: "110.0"
-birth_date: "1999.12.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/angus-fraser"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Antoine HASTOY | "
-name_en: "Antoine HASTOY"
-name_ja: ""
+title: "nan | アントワーヌ-アストイ"
+name_en: "nan"
+name_ja: "アントワーヌ-アストイ"
 slug: "antoine-hastoy"
-position: "SO"
-height: "180.0"
-weight: "86.0"
-birth_date: "1997.06.04"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/antoine-hastoy"
 ---
 

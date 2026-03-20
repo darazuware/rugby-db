@@ -1,18 +1,18 @@
 ---
-title: "Jermaine AINSLEY | "
-name_en: "Jermaine AINSLEY"
-name_ja: ""
+title: "nan | ジャーメイン・エインズリー"
+name_en: "nan"
+name_ja: "ジャーメイン・エインズリー"
 slug: "jermaine-ainsley"
-position: "PR"
-height: "181.0"
-weight: "127.0"
-birth_date: "1995.08.08"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jermaine-ainsley"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Chris COLEMAN | "
-name_en: "Chris COLEMAN"
-name_ja: ""
+title: "nan | クリス ・ COLEMAN"
+name_en: "nan"
+name_ja: "クリス ・ COLEMAN"
 slug: "chris-coleman"
-position: "PR"
-height: "189.0"
-weight: "130.0"
-birth_date: "1998.08.31"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/chris-coleman"
 ---

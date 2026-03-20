@@ -1,18 +1,18 @@
 ---
-title: "Toma'Akino TAUFA | "
-name_en: "Toma'Akino TAUFA"
-name_ja: ""
+title: "nan | トマアキノ・タウファ"
+name_en: "nan"
+name_ja: "トマアキノ・タウファ"
 slug: "toma-akino-taufa"
-position: "PR"
-height: "180.0"
-weight: "145.0"
-birth_date: "1995.03.09"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/toma-akino-taufa"
 ---
 

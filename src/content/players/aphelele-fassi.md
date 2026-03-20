@@ -1,17 +1,17 @@
 ---
-title: "Aphelele FASSI | "
-name_en: "Aphelele FASSI"
-name_ja: ""
+title: "nan | Aphelele ・ FASSI"
+name_en: "nan"
+name_ja: "Aphelele ・ FASSI"
 slug: "aphelele-fassi"
-position: "FB"
-height: "190.0"
-weight: "94.0"
-birth_date: "1998.01.23"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aphelele-fassi"
 ---

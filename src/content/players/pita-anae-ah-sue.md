@@ -4,14 +4,14 @@ name_en: "Pita ANAE AH-SUE"
 name_ja: ""
 slug: "pita-anae-ah-sue"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "16/12/1992"
+weight: "1"
 birth_date: ""
-age: 33
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ヒューストン・セイバーキャッツ"
+team: "The Houston Sabercats rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/pita-anae-ah-sue"
 ---

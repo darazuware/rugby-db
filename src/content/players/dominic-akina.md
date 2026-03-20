@@ -4,14 +4,14 @@ name_en: "Dom AKINA"
 name_ja: ""
 slug: "dominic-akina"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "13/06/1994"
+weight: "1"
 birth_date: ""
-age: 31
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ヒューストン・セイバーキャッツ"
+team: "The Houston Sabercats rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/dominic-akina"
 ---

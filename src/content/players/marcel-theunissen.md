@@ -1,17 +1,17 @@
 ---
-title: "Marcel THEUNISSEN | "
-name_en: "Marcel THEUNISSEN"
-name_ja: ""
+title: "nan | Marcel ・ THEUNISSEN"
+name_en: "nan"
+name_ja: "Marcel ・ THEUNISSEN"
 slug: "marcel-theunissen"
-position: "Back row"
-height: "191.0"
-weight: "103.0"
-birth_date: "1999.06.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marcel-theunissen"
 ---

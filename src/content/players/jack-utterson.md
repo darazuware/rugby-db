@@ -1,17 +1,17 @@
 ---
-title: "Jack UTTERSON | "
-name_en: "Jack UTTERSON"
-name_ja: ""
+title: "nan | ジャック ・ UTTERSON"
+name_en: "nan"
+name_ja: "ジャック ・ UTTERSON"
 slug: "jack-utterson"
-position: "HO"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2007.."
-age: 19
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-utterson"
 ---

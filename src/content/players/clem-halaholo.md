@@ -1,17 +1,17 @@
 ---
-title: "Clem HALAHOLO | "
-name_en: "Clem HALAHOLO"
-name_ja: ""
+title: "nan | クレム・ハラホロ"
+name_en: "nan"
+name_ja: "クレム・ハラホロ"
 slug: "clem-halaholo"
-position: "LO"
-height: "193.0"
-weight: "104.0"
-birth_date: "2003.09.22"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/clem-halaholo"
 ---

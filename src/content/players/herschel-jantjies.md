@@ -1,18 +1,18 @@
 ---
-title: "Herschel JANTJIES | "
-name_en: "Herschel JANTJIES"
-name_ja: ""
+title: "nan | ハーシェル-ヤンキース"
+name_en: "nan"
+name_ja: "ハーシェル-ヤンキース"
 slug: "herschel-jantjies"
-position: "SH"
-height: "167.0"
-weight: "77.0"
-birth_date: "1996.04.22"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/herschel-jantjies"
 ---
 

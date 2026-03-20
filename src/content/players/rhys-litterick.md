@@ -1,17 +1,17 @@
 ---
-title: "Rhys LITTERICK | "
-name_en: "Rhys LITTERICK"
-name_ja: ""
+title: "nan | Rhys ・ LITTERICK"
+name_en: "nan"
+name_ja: "Rhys ・ LITTERICK"
 slug: "rhys-litterick"
-position: "PR"
-height: "179.0"
-weight: "120.0"
-birth_date: "1999.03.02"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-litterick"
 ---

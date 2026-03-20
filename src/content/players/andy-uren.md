@@ -1,17 +1,17 @@
 ---
-title: "Andy UREN | "
-name_en: "Andy UREN"
-name_ja: ""
+title: "nan | Andy ・ UREN"
+name_en: "nan"
+name_ja: "Andy ・ UREN"
 slug: "andy-uren"
-position: "SH"
-height: "178.0"
-weight: "93.0"
-birth_date: "1996.02.20"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/andy-uren"
 ---

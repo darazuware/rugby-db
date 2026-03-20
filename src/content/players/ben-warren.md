@@ -1,17 +1,17 @@
 ---
-title: "Ben WARREN | "
-name_en: "Ben WARREN"
-name_ja: ""
+title: "nan | ベン ・ WARREN"
+name_en: "nan"
+name_ja: "ベン ・ WARREN"
 slug: "ben-warren"
-position: "PR"
-height: "185.0"
-weight: "122.0"
-birth_date: "2000.04.02"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-warren"
 ---

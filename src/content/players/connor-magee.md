@@ -1,17 +1,17 @@
 ---
-title: "Connor MAGEE | "
-name_en: "Connor MAGEE"
-name_ja: ""
+title: "nan | Connor ・ MAGEE"
+name_en: "nan"
+name_ja: "Connor ・ MAGEE"
 slug: "connor-magee"
-position: "HO"
-height: "185.0"
-weight: "109.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-magee"
 ---

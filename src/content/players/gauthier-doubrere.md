@@ -1,17 +1,17 @@
 ---
-title: "Gauthier DOUBRÈRE | "
-name_en: "Gauthier DOUBRÈRE"
-name_ja: ""
+title: "nan | ゴーティエ・ドゥブレール"
+name_en: "nan"
+name_ja: "ゴーティエ・ドゥブレール"
 slug: "gauthier-doubrere"
-position: "SH"
-height: "176.0"
-weight: "82.0"
-birth_date: "1995.12.24"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/gauthier-doubrere"
 ---

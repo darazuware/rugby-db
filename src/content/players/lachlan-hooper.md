@@ -1,17 +1,17 @@
 ---
-title: "Lachlan HOOPER | "
-name_en: "Lachlan HOOPER"
-name_ja: ""
+title: "nan | ラクラン・フーパー"
+name_en: "nan"
+name_ja: "ラクラン・フーパー"
 slug: "lachlan-hooper"
-position: "FL/No8"
-height: "195.0"
-weight: "101.0"
-birth_date: "2004.02.19"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lachlan-hooper"
 ---

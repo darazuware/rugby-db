@@ -1,18 +1,18 @@
 ---
-title: "Ewan ASHMAN | "
-name_en: "Ewan ASHMAN"
-name_ja: ""
+title: "nan | Ewan ・ ASHMAN"
+name_en: "nan"
+name_ja: "Ewan ・ ASHMAN"
 slug: "ewan-ashman"
-position: "HO"
-height: "188.0"
-weight: "113.0"
-birth_date: "2000.04.03"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Canada"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ewan-ashman"
 ---
 

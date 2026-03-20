@@ -1,17 +1,17 @@
 ---
-title: "Sti SITHOLE | "
-name_en: "Sti SITHOLE"
-name_ja: ""
+title: "nan | Sti ・ SITHOLE"
+name_en: "nan"
+name_ja: "Sti ・ SITHOLE"
 slug: "sithembiso-sithole"
-position: "PR"
-height: "180.0"
-weight: "115.0"
-birth_date: "1993.03.31"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sithembiso-sithole"
 ---

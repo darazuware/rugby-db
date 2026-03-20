@@ -1,17 +1,17 @@
 ---
-title: "James HALL | "
-name_en: "James HALL"
-name_ja: ""
+title: "nan | ジェームズ-ホール"
+name_en: "nan"
+name_ja: "ジェームズ-ホール"
 slug: "james-hall-1996"
-position: "SH"
-height: "173.0"
-weight: "88.0"
-birth_date: "1996.01.02"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/james-hall-1996"
 ---

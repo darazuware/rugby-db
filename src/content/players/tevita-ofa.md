@@ -1,17 +1,17 @@
 ---
-title: "Tevita OFA | "
-name_en: "Tevita OFA"
-name_ja: ""
+title: "nan | テヴィタ・オファ"
+name_en: "nan"
+name_ja: "テヴィタ・オファ"
 slug: "tevita-ofa"
-position: "WTB"
-height: "186.0"
-weight: "90.0"
-birth_date: "2002.01.18"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tevita-ofa"
 ---

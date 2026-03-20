@@ -1,18 +1,18 @@
 ---
-title: "Pita-Gus SOWAKULA | "
-name_en: "Pita-Gus SOWAKULA"
-name_ja: ""
+title: "nan | ピタ＝ガス・ソワクラ"
+name_en: "nan"
+name_ja: "ピタ＝ガス・ソワクラ"
 slug: "pita-gus-sowakula"
-position: "FL/NO8"
-height: "195.0"
-weight: "117.0"
-birth_date: "1994.10.26"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/pita-gus-sowakula"
 ---
 

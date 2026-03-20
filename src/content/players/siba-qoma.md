@@ -1,17 +1,17 @@
 ---
-title: "Siba QOMA | "
-name_en: "Siba QOMA"
-name_ja: ""
+title: "nan | Siba ・ QOMA"
+name_en: "nan"
+name_ja: "Siba ・ QOMA"
 slug: "siba-qoma"
-position: "LO"
-height: "190.0"
-weight: "108.0"
-birth_date: "1997.02.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/siba-qoma"
 ---

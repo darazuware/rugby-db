@@ -1,17 +1,17 @@
 ---
-title: "Lorenzo PANI | "
-name_en: "Lorenzo PANI"
-name_ja: ""
+title: "nan | Lorenzo ・ PANI"
+name_en: "nan"
+name_ja: "Lorenzo ・ PANI"
 slug: "lorenzo-pani"
-position: "FB"
-height: "193.0"
-weight: "101.0"
-birth_date: "2002.07.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lorenzo-pani"
 ---

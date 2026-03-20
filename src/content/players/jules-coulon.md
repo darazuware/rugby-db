@@ -1,17 +1,17 @@
 ---
-title: "Jules COULON | "
-name_en: "Jules COULON"
-name_ja: ""
+title: "nan | ジュール・クーロン"
+name_en: "nan"
+name_ja: "ジュール・クーロン"
 slug: "jules-coulon"
-position: "FL/NO8"
-height: "189.0"
-weight: "105.0"
-birth_date: "2002.07.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jules-coulon"
 ---

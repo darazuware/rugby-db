@@ -1,18 +1,18 @@
 ---
-title: "Régis MONTAGNE | "
-name_en: "Régis MONTAGNE"
-name_ja: ""
+title: "nan | レジ・モンターニュ"
+name_en: "nan"
+name_ja: "レジ・モンターニュ"
 slug: "regis-montagne"
-position: "PR"
-height: "186.0"
-weight: "133.0"
-birth_date: "2000.09.30"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/regis-montagne"
 ---
 

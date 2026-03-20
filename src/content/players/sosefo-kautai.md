@@ -1,17 +1,17 @@
 ---
-title: "Sefo KAUTAI | "
-name_en: "Sefo KAUTAI"
-name_ja: ""
+title: "nan | セフォ・カウタイ"
+name_en: "nan"
+name_ja: "セフォ・カウタイ"
 slug: "sosefo-kautai"
-position: "PR"
-height: "189.0"
-weight: "133.0"
-birth_date: "1996.08.16"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sosefo-kautai"
 ---

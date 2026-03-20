@@ -1,17 +1,17 @@
 ---
-title: "Nikora BROUGHTON | "
-name_en: "Nikora BROUGHTON"
-name_ja: ""
+title: "nan | ニコラ・ブラウトン"
+name_en: "nan"
+name_ja: "ニコラ・ブラウトン"
 slug: "nikora-broughton"
-position: "FL/No8"
-height: "188.0"
-weight: "105.0"
-birth_date: "2001.09.05"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nikora-broughton"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Toby FALETAU | "
-name_en: "Toby FALETAU"
-name_ja: ""
+title: "nan | Toby ・ FALETAU"
+name_en: "nan"
+name_ja: "Toby ・ FALETAU"
 slug: "toby-faletau"
-position: "Back row"
-height: "188.0"
-weight: "115.0"
-birth_date: "1990.11.12"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/toby-faletau"
 ---
 

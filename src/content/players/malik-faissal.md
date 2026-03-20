@@ -1,17 +1,17 @@
 ---
-title: "Malik FAISSAL | "
-name_en: "Malik FAISSAL"
-name_ja: ""
+title: "nan | Malik ・ FAISSAL"
+name_en: "nan"
+name_ja: "Malik ・ FAISSAL"
 slug: "malik-faissal"
-position: "Winger"
-height: "183.0"
-weight: "92.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/malik-faissal"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Dan EDWARDS | "
-name_en: "Dan EDWARDS"
-name_ja: ""
+title: "nan | ダン ・ EDWARDS"
+name_en: "nan"
+name_ja: "ダン ・ EDWARDS"
 slug: "dan-edwards"
-position: "SO"
-height: "178.0"
-weight: "83.0"
-birth_date: "2003.05.07"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-edwards"
 ---

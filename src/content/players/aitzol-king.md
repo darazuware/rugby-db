@@ -1,17 +1,17 @@
 ---
-title: "Aitzol KING | "
-name_en: "Aitzol KING"
-name_ja: ""
+title: "nan | Aitzol ・ KING"
+name_en: "nan"
+name_ja: "Aitzol ・ KING"
 slug: "aitzol-king"
-position: "Winger"
-height: "191.0"
-weight: "99.0"
-birth_date: "2002.06.15"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aitzol-king"
 ---

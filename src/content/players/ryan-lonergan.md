@@ -1,18 +1,18 @@
 ---
-title: "Ryan LONERGAN | "
-name_en: "Ryan LONERGAN"
-name_ja: ""
+title: "nan | ライアン・ロナーガン"
+name_en: "nan"
+name_ja: "ライアン・ロナーガン"
 slug: "ryan-lonergan"
-position: "SH"
-height: "184.0"
-weight: "82.0"
-birth_date: "1998.04.06"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ryan-lonergan"
 ---
 

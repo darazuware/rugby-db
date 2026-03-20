@@ -1,17 +1,17 @@
 ---
-title: "Arthur MATHIRON | "
-name_en: "Arthur MATHIRON"
-name_ja: ""
+title: "nan | アルチュール・マティロン"
+name_en: "nan"
+name_ja: "アルチュール・マティロン"
 slug: "arthur-mathiron"
-position: "WTB"
-height: "180.0"
-weight: "95.0"
-birth_date: "2003.05.19"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/arthur-mathiron"
 ---

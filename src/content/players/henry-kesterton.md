@@ -1,17 +1,17 @@
 ---
-title: "Henry KESTERTON | "
-name_en: "Henry KESTERTON"
-name_ja: ""
+title: "nan | Henry ・ KESTERTON"
+name_en: "nan"
+name_ja: "Henry ・ KESTERTON"
 slug: "henry-kesterton"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-kesterton"
 ---

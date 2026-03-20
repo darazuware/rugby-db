@@ -1,17 +1,17 @@
 ---
-title: "Kylan HAMDAOUI | "
-name_en: "Kylan HAMDAOUI"
-name_ja: ""
+title: "nan | キラン・ハムダウィ"
+name_en: "nan"
+name_ja: "キラン・ハムダウィ"
 slug: "kylan-hamdaoui"
-position: "FB"
-height: "182.0"
-weight: "91.0"
-birth_date: "1994.04.15"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kylan-hamdaoui"
 ---

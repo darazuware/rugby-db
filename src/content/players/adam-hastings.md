@@ -1,18 +1,18 @@
 ---
-title: "Adam HASTINGS | "
-name_en: "Adam HASTINGS"
-name_ja: ""
+title: "nan | アダム ・ HASTINGS"
+name_en: "nan"
+name_ja: "アダム ・ HASTINGS"
 slug: "adam-hastings"
-position: "SO"
-height: "189.0"
-weight: "93.0"
-birth_date: "1996.10.05"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/adam-hastings"
 ---
 

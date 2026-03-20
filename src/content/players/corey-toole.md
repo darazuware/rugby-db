@@ -1,18 +1,18 @@
 ---
-title: "Corey TOOLE | "
-name_en: "Corey TOOLE"
-name_ja: ""
+title: "nan | コーリー-トゥール"
+name_en: "nan"
+name_ja: "コーリー-トゥール"
 slug: "corey-toole"
-position: "WTB"
-height: "178.0"
-weight: "85.0"
-birth_date: "2000.03.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/corey-toole"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "David FELIUAI | "
-name_en: "David FELIUAI"
-name_ja: ""
+title: "nan | デイヴィッド・フェリウアイ"
+name_en: "nan"
+name_ja: "デイヴィッド・フェリウアイ"
 slug: "david-feliuai"
-position: "CTB"
-height: "185.0"
-weight: "98.0"
-birth_date: "1997.05.16"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/david-feliuai"
 ---

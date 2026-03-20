@@ -1,17 +1,17 @@
 ---
-title: "Isaiah ARMSTRONG-RAVULA | "
-name_en: "Isaiah ARMSTRONG-RAVULA"
-name_ja: ""
+title: "nan | イザイア-アームストロング＝ラブーラ"
+name_en: "nan"
+name_ja: "イザイア-アームストロング＝ラブーラ"
 slug: "isaiah-ravula"
-position: "SO"
-height: "175.0"
-weight: "86.0"
-birth_date: "2004.01.07"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/isaiah-ravula"
 ---

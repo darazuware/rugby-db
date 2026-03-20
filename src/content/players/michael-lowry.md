@@ -1,17 +1,17 @@
 ---
-title: "Mike LOWRY | "
-name_en: "Mike LOWRY"
-name_ja: ""
+title: "nan | Mike ・ LOWRY"
+name_en: "nan"
+name_ja: "Mike ・ LOWRY"
 slug: "michael-lowry"
-position: "FB"
-height: "171.0"
-weight: "80.0"
-birth_date: "1998.08.20"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-lowry"
 ---

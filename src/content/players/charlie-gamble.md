@@ -1,17 +1,17 @@
 ---
-title: "Charlie GAMBLE | "
-name_en: "Charlie GAMBLE"
-name_ja: ""
+title: "nan | チャーリー・ギャンブル"
+name_en: "nan"
+name_ja: "チャーリー・ギャンブル"
 slug: "charlie-gamble"
-position: "FL/No8"
-height: "185.0"
-weight: "107.0"
-birth_date: "1996.04.25"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/charlie-gamble"
 ---

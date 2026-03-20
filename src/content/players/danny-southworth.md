@@ -1,17 +1,17 @@
 ---
-title: "Danny SOUTHWORTH | "
-name_en: "Danny SOUTHWORTH"
-name_ja: ""
+title: "nan | Danny ・ SOUTHWORTH"
+name_en: "nan"
+name_ja: "Danny ・ SOUTHWORTH"
 slug: "danny-southworth"
-position: "PR"
-height: "183.0"
-weight: "120.0"
-birth_date: "1999.05.04"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/danny-southworth"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Duncan WEIR | "
-name_en: "Duncan WEIR"
-name_ja: ""
+title: "nan | Duncan ・ WEIR"
+name_en: "nan"
+name_ja: "Duncan ・ WEIR"
 slug: "duncan-weir"
-position: "SO"
-height: "176.0"
-weight: "91.0"
-birth_date: "1991.05.10"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/duncan-weir"
 ---
 

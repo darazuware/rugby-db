@@ -1,17 +1,17 @@
 ---
-title: "Shayne BOLTON | "
-name_en: "Shayne BOLTON"
-name_ja: ""
+title: "nan | Shayne ・ BOLTON"
+name_en: "nan"
+name_ja: "Shayne ・ BOLTON"
 slug: "shayne-bolton"
-position: "Winger"
-height: "188.0"
-weight: "100.0"
-birth_date: "2000.06.29"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/shayne-bolton"
 ---

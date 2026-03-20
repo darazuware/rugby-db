@@ -1,17 +1,17 @@
 ---
-title: "Shay MCCARTHY | "
-name_en: "Shay MCCARTHY"
-name_ja: ""
+title: "nan | Shay ・ MCCARTHY"
+name_en: "nan"
+name_ja: "Shay ・ MCCARTHY"
 slug: "shay-mccarthy"
-position: "Winger"
-height: "188.0"
-weight: "95.0"
-birth_date: "2002.11.06"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/shay-mccarthy"
 ---

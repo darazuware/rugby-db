@@ -1,17 +1,17 @@
 ---
-title: "Steff THOMAS | "
-name_en: "Steff THOMAS"
-name_ja: ""
+title: "nan | Steff ・ トーマス"
+name_en: "nan"
+name_ja: "Steff ・ トーマス"
 slug: "steff-thomas"
-position: "PR"
-height: "185.0"
-weight: "122.0"
-birth_date: "1997.04.22"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/steff-thomas"
 ---

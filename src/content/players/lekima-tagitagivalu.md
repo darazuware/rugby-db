@@ -1,17 +1,17 @@
 ---
-title: "Lekima TAGITAGIVALU | "
-name_en: "Lekima TAGITAGIVALU"
-name_ja: ""
+title: "nan | レキマ・タギタギヴァル"
+name_en: "nan"
+name_ja: "レキマ・タギタギヴァル"
 slug: "lekima-tagitagivalu"
-position: "FL/NO8"
-height: "195.0"
-weight: "110.0"
-birth_date: "1995.12.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lekima-tagitagivalu"
 ---

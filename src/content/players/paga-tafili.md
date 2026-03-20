@@ -1,17 +1,17 @@
 ---
-title: "Paga TAFILI | "
-name_en: "Paga TAFILI"
-name_ja: ""
+title: "nan | パガ・タフィリ"
+name_en: "nan"
+name_ja: "パガ・タフィリ"
 slug: "paga-tafili"
-position: "PR"
-height: "182.0"
-weight: "130.0"
-birth_date: "1987.03.08"
-age: 39
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/paga-tafili"
 ---

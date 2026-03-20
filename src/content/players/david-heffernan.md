@@ -1,18 +1,18 @@
 ---
-title: "Dave HEFFERNAN | "
-name_en: "Dave HEFFERNAN"
-name_ja: ""
+title: "nan | デイヴ ・ HEFFERNAN"
+name_en: "nan"
+name_ja: "デイヴ ・ HEFFERNAN"
 slug: "david-heffernan"
-position: "HO"
-height: "187.0"
-weight: "111.0"
-birth_date: "1991.01.31"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/david-heffernan"
 ---
 

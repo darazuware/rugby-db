@@ -1,17 +1,17 @@
 ---
-title: "Juan Bautista PEDEMONTE | "
-name_en: "Juan Bautista PEDEMONTE"
-name_ja: ""
+title: "nan | フアン・バウティスタ・ペデモンテ"
+name_en: "nan"
+name_ja: "フアン・バウティスタ・ペデモンテ"
 slug: "juan-bautista-pedemonte"
-position: "FL/NO8"
-height: "189.0"
-weight: "107.0"
-birth_date: "2000.03.14"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/juan-bautista-pedemonte"
 ---

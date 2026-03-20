@@ -1,18 +1,18 @@
 ---
-title: "Tawera KERR-BARLOW | "
-name_en: "Tawera KERR-BARLOW"
-name_ja: ""
+title: "nan | タウェラ・カーバーロー"
+name_en: "nan"
+name_ja: "タウェラ・カーバーロー"
 slug: "tawera-kerr-barlow"
-position: "SH"
-height: "187.0"
-weight: "92.0"
-birth_date: "1990.08.15"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tawera-kerr-barlow"
 ---
 

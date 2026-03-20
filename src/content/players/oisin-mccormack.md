@@ -1,17 +1,17 @@
 ---
-title: "Oisín MCCORMACK | "
-name_en: "Oisín MCCORMACK"
-name_ja: ""
+title: "nan | Ois ・ MCCORMACK"
+name_en: "nan"
+name_ja: "Ois ・ MCCORMACK"
 slug: "oisin-mccormack"
-position: "Back row"
-height: "183.0"
-weight: "102.0"
-birth_date: "2001.02.21"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/oisin-mccormack"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Conor MCKEE | "
-name_en: "Conor MCKEE"
-name_ja: ""
+title: "nan | コナー ・ MCKEE"
+name_en: "nan"
+name_ja: "コナー ・ MCKEE"
 slug: "conor-mckee"
-position: "SH"
-height: "183.0"
-weight: "87.0"
-birth_date: "2001.03.20"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/conor-mckee"
 ---

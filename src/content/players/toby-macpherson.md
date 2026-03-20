@@ -1,17 +1,17 @@
 ---
-title: "Toby MACPHERSON | "
-name_en: "Toby MACPHERSON"
-name_ja: ""
+title: "nan | トビー・マクファーソン"
+name_en: "nan"
+name_ja: "トビー・マクファーソン"
 slug: "toby-macpherson"
-position: "FL/No8"
-height: "199.0"
-weight: "106.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/toby-macpherson"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Diego ESCOBAR | "
-name_en: "Diego ESCOBAR"
-name_ja: ""
+title: "nan | ディエゴ-エスコバル"
+name_en: "nan"
+name_ja: "ディエゴ-エスコバル"
 slug: "diego-escobar"
-position: "HO"
-height: "176.0"
-weight: "103.0"
-birth_date: "2000.04.17"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/diego-escobar"
 ---

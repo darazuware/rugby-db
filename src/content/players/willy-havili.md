@@ -1,17 +1,17 @@
 ---
-title: "Willy HAVILI | "
-name_en: "Willy HAVILI"
-name_ja: ""
+title: "nan | ウィリー・ハヴィリ"
+name_en: "nan"
+name_ja: "ウィリー・ハヴィリ"
 slug: "willy-havili"
-position: "FB"
-height: "187.0"
-weight: "84.0"
-birth_date: "1998.09.09"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/willy-havili"
 ---

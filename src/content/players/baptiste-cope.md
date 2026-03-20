@@ -1,17 +1,17 @@
 ---
-title: "Baptiste COPE | "
-name_en: "Baptiste COPE"
-name_ja: ""
+title: "nan | バティスト・コープ"
+name_en: "nan"
+name_ja: "バティスト・コープ"
 slug: "baptiste-cope"
-position: "FL/NO8"
-height: "186.0"
-weight: "102.0"
-birth_date: "2002.02.09"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/baptiste-cope"
 ---

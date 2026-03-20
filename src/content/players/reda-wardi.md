@@ -1,17 +1,17 @@
 ---
-title: "Reda WARDI | "
-name_en: "Reda WARDI"
-name_ja: ""
+title: "nan | レダ・ワルディ"
+name_en: "nan"
+name_ja: "レダ・ワルディ"
 slug: "reda-wardi"
-position: "PR"
-height: "185.0"
-weight: "111.0"
-birth_date: "1995.08.02"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/reda-wardi"
 ---

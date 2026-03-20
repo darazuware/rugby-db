@@ -1,18 +1,18 @@
 ---
-title: "Paolo GARBISI | "
-name_en: "Paolo GARBISI"
-name_ja: ""
+title: "nan | パオロ・ガルビシ"
+name_en: "nan"
+name_ja: "パオロ・ガルビシ"
 slug: "paolo-garbisi"
-position: "SO"
-height: "184.0"
-weight: "97.0"
-birth_date: "2000.04.26"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paolo-garbisi"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Sergeal PETERSEN | "
-name_en: "Sergeal PETERSEN"
-name_ja: ""
+title: "nan | Sergeal ・ PETERSEN"
+name_en: "nan"
+name_ja: "Sergeal ・ PETERSEN"
 slug: "sergeal-petersen"
-position: "Winger"
-height: "173.0"
-weight: "86.0"
-birth_date: "1994.08.01"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sergeal-petersen"
 ---

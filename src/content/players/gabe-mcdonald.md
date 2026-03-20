@@ -1,17 +1,17 @@
 ---
-title: "Gabe MCDONALD | "
-name_en: "Gabe MCDONALD"
-name_ja: ""
+title: "nan | Gabe ・ MCDONALD"
+name_en: "nan"
+name_ja: "Gabe ・ MCDONALD"
 slug: "gabe-mcdonald"
-position: "CTB"
-height: "190.0"
-weight: "93.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/gabe-mcdonald"
 ---

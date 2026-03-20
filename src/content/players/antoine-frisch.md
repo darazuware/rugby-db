@@ -1,18 +1,18 @@
 ---
-title: "Antoine FRISCH | "
-name_en: "Antoine FRISCH"
-name_ja: ""
+title: "nan | アントワーヌ-フリッシュ"
+name_en: "nan"
+name_ja: "アントワーヌ-フリッシュ"
 slug: "antoine-frisch"
-position: "CTB"
-height: "188.0"
-weight: "99.0"
-birth_date: "1996.06.01"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/antoine-frisch"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Wyn JONES | "
-name_en: "Wyn JONES"
-name_ja: ""
+title: "nan | Wyn ・ JONES"
+name_en: "nan"
+name_ja: "Wyn ・ JONES"
 slug: "wyn-jones"
-position: "PR"
-height: "184.0"
-weight: "114.0"
-birth_date: "1992.02.26"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/wyn-jones"
 ---
 

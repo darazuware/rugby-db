@@ -1,17 +1,17 @@
 ---
-title: "Alex HARFORD | "
-name_en: "Alex HARFORD"
-name_ja: ""
+title: "nan | アレックス-ハーフォード"
+name_en: "nan"
+name_ja: "アレックス-ハーフォード"
 slug: "alex-harford"
-position: "SO"
-height: "182.0"
-weight: "91.0"
-birth_date: "1999.06.16"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-harford"
 ---

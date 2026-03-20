@@ -1,17 +1,17 @@
 ---
-title: "Salesi RAYASI | "
-name_en: "Salesi RAYASI"
-name_ja: ""
+title: "nan | サレシ・ラヤシ"
+name_en: "nan"
+name_ja: "サレシ・ラヤシ"
 slug: "salesi-rayasi"
-position: "WTB"
-height: "193.0"
-weight: "105.0"
-birth_date: "1996.09.25"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/salesi-rayasi"
 ---

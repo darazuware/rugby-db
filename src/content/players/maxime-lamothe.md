@@ -1,18 +1,18 @@
 ---
-title: "Maxime LAMOTHE | "
-name_en: "Maxime LAMOTHE"
-name_ja: ""
+title: "nan | マキシム・ラモス"
+name_en: "nan"
+name_ja: "マキシム・ラモス"
 slug: "maxime-lamothe"
-position: "HO"
-height: "184.0"
-weight: "109.0"
-birth_date: "1998.10.03"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/maxime-lamothe"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Quentin LESPIAUCQ | "
-name_en: "Quentin LESPIAUCQ"
-name_ja: ""
+title: "nan | カンタン・レスピアック"
+name_en: "nan"
+name_ja: "カンタン・レスピアック"
 slug: "quentin-lespiaucq"
-position: "HO"
-height: "180.0"
-weight: "102.0"
-birth_date: "1995.02.16"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/quentin-lespiaucq"
 ---

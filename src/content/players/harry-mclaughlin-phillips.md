@@ -1,17 +1,17 @@
 ---
-title: "Harry MCLAUGHLIN-PHILLIPS | "
-name_en: "Harry MCLAUGHLIN-PHILLIPS"
-name_ja: ""
+title: "nan | ハリー-マクラフリン＝フィリップス"
+name_en: "nan"
+name_ja: "ハリー-マクラフリン＝フィリップス"
 slug: "harry-mclaughlin-phillips"
-position: "SO"
-height: "178.0"
-weight: "89.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-mclaughlin-phillips"
 ---

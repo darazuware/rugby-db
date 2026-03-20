@@ -1,18 +1,18 @@
 ---
-title: "Callum SHEEDY | "
-name_en: "Callum SHEEDY"
-name_ja: ""
+title: "nan | Callum ・ SHEEDY"
+name_en: "nan"
+name_ja: "Callum ・ SHEEDY"
 slug: "callum-sheedy"
-position: "SO"
-height: "177.0"
-weight: "88.0"
-birth_date: "1995.10.28"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/callum-sheedy"
 ---
 

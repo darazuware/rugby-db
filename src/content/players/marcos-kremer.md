@@ -1,18 +1,18 @@
 ---
-title: "Marcos KREMER | "
-name_en: "Marcos KREMER"
-name_ja: ""
+title: "nan | マルコス・クレメル"
+name_en: "nan"
+name_ja: "マルコス・クレメル"
 slug: "marcos-kremer"
-position: "FL/NO8"
-height: "195.0"
-weight: "115.0"
-birth_date: "1997.07.30"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/marcos-kremer"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Cammy DAWSON | "
-name_en: "Cammy DAWSON"
-name_ja: ""
+title: "nan | Cammy ・ DAWSON"
+name_en: "nan"
+name_ja: "Cammy ・ DAWSON"
 slug: "cameron-dawson"
-position: "PR"
-height: "181.0"
-weight: "116.0"
-birth_date: "1999.01.06"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-dawson"
 ---

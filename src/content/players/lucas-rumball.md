@@ -4,14 +4,14 @@ name_en: "Lucas RUMBALL"
 name_ja: ""
 slug: "lucas-rumball"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "02/08/1995"
+weight: "1"
 birth_date: ""
-age: 30
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シカゴ・ハウンズ"
+team: "The Chicago Hounds rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-rumball"
 ---

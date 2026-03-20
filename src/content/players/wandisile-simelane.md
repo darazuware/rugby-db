@@ -1,17 +1,17 @@
 ---
-title: "Wandisile SIMELANE | "
-name_en: "Wandisile SIMELANE"
-name_ja: ""
+title: "nan | Wandisile ・ SIMELANE"
+name_en: "nan"
+name_ja: "Wandisile ・ SIMELANE"
 slug: "wandisile-simelane"
-position: "CTB"
-height: "180.0"
-weight: "95.0"
-birth_date: "1998.03.21"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/wandisile-simelane"
 ---

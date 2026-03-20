@@ -4,14 +4,14 @@ name_en: "Jeremy MISAILEGALU"
 name_ja: ""
 slug: "jeremy-misailegalu"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "04/11/1993"
+weight: "1"
 birth_date: ""
-age: 32
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ヒューストン・セイバーキャッツ"
+team: "The Houston Sabercats rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/jeremy-misailegalu"
 ---

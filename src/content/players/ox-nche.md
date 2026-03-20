@@ -1,18 +1,18 @@
 ---
-title: "Ox NCHÉ | "
-name_en: "Ox NCHÉ"
-name_ja: ""
+title: "nan | オクス ・ NCH"
+name_en: "nan"
+name_ja: "オクス ・ NCH"
 slug: "ox-nche"
-position: "PR"
-height: "176.0"
-weight: "123.0"
-birth_date: "1995.07.23"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ox-nche"
 ---
 

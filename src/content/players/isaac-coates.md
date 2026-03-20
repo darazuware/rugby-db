@@ -1,17 +1,17 @@
 ---
-title: "Isaac COATES | "
-name_en: "Isaac COATES"
-name_ja: ""
+title: "nan | Isaac ・ COATES"
+name_en: "nan"
+name_ja: "Isaac ・ COATES"
 slug: "isaac-coates"
-position: "SO"
-height: "175.0"
-weight: "84.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/isaac-coates"
 ---

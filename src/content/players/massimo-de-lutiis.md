@@ -1,17 +1,17 @@
 ---
-title: "Massimo DE LUTIIS | "
-name_en: "Massimo DE LUTIIS"
-name_ja: ""
+title: "nan | マッシモ・デ・ルティイス"
+name_en: "nan"
+name_ja: "マッシモ・デ・ルティイス"
 slug: "massimo-de-lutiis"
-position: "PR"
-height: "188.0"
-weight: "126.0"
-birth_date: "2003.11.18"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/massimo-de-lutiis"
 ---

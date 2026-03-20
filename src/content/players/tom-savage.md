@@ -1,17 +1,17 @@
 ---
-title: "Tom SAVAGE | "
-name_en: "Tom SAVAGE"
-name_ja: ""
+title: "nan | トム・サヴェージ"
+name_en: "nan"
+name_ja: "トム・サヴェージ"
 slug: "tom-savage"
-position: "LO"
-height: "198.0"
-weight: "116.0"
-birth_date: "1989.04.18"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-savage"
 ---

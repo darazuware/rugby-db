@@ -1,17 +1,17 @@
 ---
-title: "Mosese TUIPULOTU | "
-name_en: "Mosese TUIPULOTU"
-name_ja: ""
+title: "nan | Mosese ・ TUIPULOTU"
+name_en: "nan"
+name_ja: "Mosese ・ TUIPULOTU"
 slug: "mosese-tuipulotu"
-position: "CTB"
-height: "182.0"
-weight: "102.0"
-birth_date: "2001.05.05"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mosese-tuipulotu"
 ---

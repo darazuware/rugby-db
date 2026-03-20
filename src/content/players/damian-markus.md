@@ -1,17 +1,17 @@
 ---
-title: "Damian MARKUS | "
-name_en: "Damian MARKUS"
-name_ja: ""
+title: "nan | ダミアン ・ MARKUS"
+name_en: "nan"
+name_ja: "ダミアン ・ MARKUS"
 slug: "damian-markus"
-position: "CTB"
-height: "167.0"
-weight: "84.0"
-birth_date: "2003.07.11"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/damian-markus"
 ---

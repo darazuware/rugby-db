@@ -1,18 +1,18 @@
 ---
-title: "Jacob STOCKDALE | "
-name_en: "Jacob STOCKDALE"
-name_ja: ""
+title: "nan | Jacob ・ STOCKDALE"
+name_en: "nan"
+name_ja: "Jacob ・ STOCKDALE"
 slug: "jacob-stockdale"
-position: "Winger"
-height: "191.0"
-weight: "104.0"
-birth_date: "1996.04.03"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jacob-stockdale"
 ---
 

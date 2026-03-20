@@ -1,18 +1,18 @@
 ---
-title: "Tevita RATUVA | "
-name_en: "Tevita RATUVA"
-name_ja: ""
+title: "nan | テヴィタ・ラトゥヴァ"
+name_en: "nan"
+name_ja: "テヴィタ・ラトゥヴァ"
 slug: "tevita-ratuva"
-position: "LO"
-height: "199.0"
-weight: "124.0"
-birth_date: "1995.05.08"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tevita-ratuva"
 ---
 

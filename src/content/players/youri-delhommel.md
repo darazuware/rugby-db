@@ -1,17 +1,17 @@
 ---
-title: "Youri DELHOMMEL | "
-name_en: "Youri DELHOMMEL"
-name_ja: ""
+title: "nan | ユーリ-デロンメル"
+name_en: "nan"
+name_ja: "ユーリ-デロンメル"
 slug: "youri-delhommel"
-position: "HO"
-height: "181.0"
-weight: "101.0"
-birth_date: "1996.03.06"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/youri-delhommel"
 ---

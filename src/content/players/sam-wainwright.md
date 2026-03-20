@@ -1,18 +1,18 @@
 ---
-title: "Sam WAINWRIGHT | "
-name_en: "Sam WAINWRIGHT"
-name_ja: ""
+title: "nan | サム ・ WAINWRIGHT"
+name_en: "nan"
+name_ja: "サム ・ WAINWRIGHT"
 slug: "sam-wainwright"
-position: "PR"
-height: "182.0"
-weight: "119.0"
-birth_date: "1998.05.07"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sam-wainwright"
 ---
 

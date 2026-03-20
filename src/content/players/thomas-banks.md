@@ -1,18 +1,18 @@
 ---
-title: "Tom BANKS | "
-name_en: "Tom BANKS"
-name_ja: ""
+title: "nan | トム・バンクス"
+name_en: "nan"
+name_ja: "トム・バンクス"
 slug: "thomas-banks"
-position: "FB"
-height: "186.0"
-weight: "93.0"
-birth_date: "1994.06.18"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/thomas-banks"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Seb DAVIES | "
-name_en: "Seb DAVIES"
-name_ja: ""
+title: "nan | Seb ・ DAVIES"
+name_en: "nan"
+name_ja: "Seb ・ DAVIES"
 slug: "seb-davies"
-position: "LO"
-height: "202.0"
-weight: "119.0"
-birth_date: "1996.05.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/seb-davies"
 ---
 

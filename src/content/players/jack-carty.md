@@ -1,18 +1,18 @@
 ---
-title: "Jack CARTY | "
-name_en: "Jack CARTY"
-name_ja: ""
+title: "nan | ジャック ・ CARTY"
+name_en: "nan"
+name_ja: "ジャック ・ CARTY"
 slug: "jack-carty"
-position: "SO"
-height: "183.0"
-weight: "92.0"
-birth_date: "1992.08.31"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jack-carty"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Mesulame DOLOKOTO | "
-name_en: "Mesulame DOLOKOTO"
-name_ja: ""
+title: "nan | メスラメ・ドロコト"
+name_en: "nan"
+name_ja: "メスラメ・ドロコト"
 slug: "mesulame-dolokoto"
-position: "HO"
-height: "177.0"
-weight: "115.0"
-birth_date: "1995.01.21"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
-caps: "Fiji"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/mesulame-dolokoto"
 ---
 

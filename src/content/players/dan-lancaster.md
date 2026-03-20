@@ -1,17 +1,17 @@
 ---
-title: "Dan LANCASTER | "
-name_en: "Dan LANCASTER"
-name_ja: ""
+title: "nan | ダン ・ LANCASTER"
+name_en: "nan"
+name_ja: "ダン ・ LANCASTER"
 slug: "dan-lancaster"
-position: "SO"
-height: "183.0"
-weight: "96.0"
-birth_date: "2001.05.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-lancaster"
 ---

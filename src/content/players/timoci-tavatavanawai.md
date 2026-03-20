@@ -1,18 +1,18 @@
 ---
-title: "Timoci TAVATAVANAWAI | "
-name_en: "Timoci TAVATAVANAWAI"
-name_ja: ""
+title: "nan | ティモチ・タヴァタヴァナワイ"
+name_en: "nan"
+name_ja: "ティモチ・タヴァタヴァナワイ"
 slug: "timoci-tavatavanawai"
-position: "CTB"
-height: "187.0"
-weight: "111.0"
-birth_date: "1998.02.14"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "Fiji"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/timoci-tavatavanawai"
 ---
 

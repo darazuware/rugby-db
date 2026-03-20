@@ -1,17 +1,17 @@
 ---
-title: "Werner KOK | "
-name_en: "Werner KOK"
-name_ja: ""
+title: "nan | Werner ・ KOK"
+name_en: "nan"
+name_ja: "Werner ・ KOK"
 slug: "werner-kok"
-position: "Winger"
-height: "180.0"
-weight: "96.0"
-birth_date: "1993.01.17"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/werner-kok"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Malakai HALA | "
-name_en: "Malakai HALA"
-name_ja: ""
+title: "nan | マラカイ・ハラ"
+name_en: "nan"
+name_ja: "マラカイ・ハラ"
 slug: "malakai-hala"
-position: "PR"
-height: "184.0"
-weight: "125.0"
-birth_date: "2003.01.07"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ニューイングランド・フリージャックス"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/malakai-hala"
 ---

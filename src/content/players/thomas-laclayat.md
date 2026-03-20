@@ -1,18 +1,18 @@
 ---
-title: "Thomas LACLAYAT | "
-name_en: "Thomas LACLAYAT"
-name_ja: ""
+title: "nan | トマ・ラクラヤット"
+name_en: "nan"
+name_ja: "トマ・ラクラヤット"
 slug: "thomas-laclayat"
-position: "PR"
-height: "177.0"
-weight: "125.0"
-birth_date: "1997.10.02"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/thomas-laclayat"
 ---
 

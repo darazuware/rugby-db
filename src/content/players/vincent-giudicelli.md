@@ -1,17 +1,17 @@
 ---
-title: "Vincent GIUDICELLI | "
-name_en: "Vincent GIUDICELLI"
-name_ja: ""
+title: "nan | ヴァンサン・ジュディチェリ"
+name_en: "nan"
+name_ja: "ヴァンサン・ジュディチェリ"
 slug: "vincent-giudicelli"
-position: "HO"
-height: "184.0"
-weight: "104.0"
-birth_date: "1997.06.25"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vincent-giudicelli"
 ---

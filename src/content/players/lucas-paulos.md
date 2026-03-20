@@ -1,18 +1,18 @@
 ---
-title: "Lucas PAULOS | "
-name_en: "Lucas PAULOS"
-name_ja: ""
+title: "nan | ルカス・パウロス"
+name_en: "nan"
+name_ja: "ルカス・パウロス"
 slug: "lucas-paulos"
-position: "LO"
-height: "199.0"
-weight: "123.0"
-birth_date: "1998.01.09"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lucas-paulos"
 ---
 

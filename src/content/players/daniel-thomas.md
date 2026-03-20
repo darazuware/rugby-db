@@ -1,17 +1,17 @@
 ---
-title: "Dan THOMAS | "
-name_en: "Dan THOMAS"
-name_ja: ""
+title: "nan | ダン ・ トーマス"
+name_en: "nan"
+name_ja: "ダン ・ トーマス"
 slug: "daniel-thomas"
-position: "Back row"
-height: "183.0"
-weight: "101.0"
-birth_date: "1993.10.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-thomas"
 ---

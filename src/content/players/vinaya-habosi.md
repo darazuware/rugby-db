@@ -1,17 +1,17 @@
 ---
-title: "Vinaya HABOSI | "
-name_en: "Vinaya HABOSI"
-name_ja: ""
+title: "nan | ヴィナヤ・ハボシ"
+name_en: "nan"
+name_ja: "ヴィナヤ・ハボシ"
 slug: "vinaya-habosi"
-position: "WTB"
-height: "184.0"
-weight: "100.0"
-birth_date: "2000.01.30"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vinaya-habosi"
 ---

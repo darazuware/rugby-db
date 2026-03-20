@@ -1,17 +1,17 @@
 ---
-title: "Semi LAGIVALA | "
-name_en: "Semi LAGIVALA"
-name_ja: ""
+title: "nan | セミ・ラギヴァラ"
+name_en: "nan"
+name_ja: "セミ・ラギヴァラ"
 slug: "semi-lagivala"
-position: "CTB"
-height: "190.0"
-weight: "94.0"
-birth_date: "2003.04.06"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/semi-lagivala"
 ---

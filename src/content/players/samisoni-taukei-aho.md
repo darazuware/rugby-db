@@ -1,18 +1,18 @@
 ---
-title: "Samisoni TAUKEI'AHO | "
-name_en: "Samisoni TAUKEI'AHO"
-name_ja: ""
+title: "nan | サミソニ・タウケイアホ"
+name_en: "nan"
+name_ja: "サミソニ・タウケイアホ"
 slug: "samisoni-taukei-aho"
-position: "HO"
-height: "183.0"
-weight: "118.0"
-birth_date: "1997.08.08"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "Tonga"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/samisoni-taukei-aho"
 ---
 

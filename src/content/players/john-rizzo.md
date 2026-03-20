@@ -4,14 +4,14 @@ name_en: "John RIZZO"
 name_ja: ""
 slug: "john-rizzo"
 position: "Winger"
-height: "0"
-weight: "0"
+height: "20/06/1998"
+weight: "1"
 birth_date: ""
-age: 27
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/john-rizzo"
 ---

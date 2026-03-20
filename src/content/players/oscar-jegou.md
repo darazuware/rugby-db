@@ -1,18 +1,18 @@
 ---
-title: "Oscar JÉGOU | "
-name_en: "Oscar JÉGOU"
-name_ja: ""
+title: "nan | オスカー・ジェグ"
+name_en: "nan"
+name_ja: "オスカー・ジェグ"
 slug: "oscar-jegou"
-position: "FL/NO8"
-height: "190.0"
-weight: "90.0"
-birth_date: "2003.05.31"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/oscar-jegou"
 ---
 

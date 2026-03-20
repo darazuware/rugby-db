@@ -1,17 +1,17 @@
 ---
-title: "Faletoi PENI | "
-name_en: "Faletoi PENI"
-name_ja: ""
+title: "nan | ファレトイ-ペニ"
+name_en: "nan"
+name_ja: "ファレトイ-ペニ"
 slug: "faletoi-peni"
-position: "CTB"
-height: "173.0"
-weight: "106.0"
-birth_date: "2000.04.06"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ニューイングランド・フリージャックス"
+team: "The New England Free Jacks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/faletoi-peni"
 ---

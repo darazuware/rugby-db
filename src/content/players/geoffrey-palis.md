@@ -1,18 +1,18 @@
 ---
-title: "Geoffrey PALIS | "
-name_en: "Geoffrey PALIS"
-name_ja: ""
+title: "nan | ジョフレ・パリス"
+name_en: "nan"
+name_ja: "ジョフレ・パリス"
 slug: "geoffrey-palis"
-position: "WTB"
-height: "189.0"
-weight: "96.0"
-birth_date: "1991.07.08"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/geoffrey-palis"
 ---
 

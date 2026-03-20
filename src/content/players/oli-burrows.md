@@ -1,17 +1,17 @@
 ---
-title: "Oli BURROWS | "
-name_en: "Oli BURROWS"
-name_ja: ""
+title: "nan | Oli ・ BURROWS"
+name_en: "nan"
+name_ja: "Oli ・ BURROWS"
 slug: "oli-burrows"
-position: "HO"
-height: "188.0"
-weight: "110.0"
-birth_date: "2002.05.16"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/oli-burrows"
 ---

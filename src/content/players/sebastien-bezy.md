@@ -1,18 +1,18 @@
 ---
-title: "Sébastien BÉZY | "
-name_en: "Sébastien BÉZY"
-name_ja: ""
+title: "nan | セバスチャン・ベジー"
+name_en: "nan"
+name_ja: "セバスチャン・ベジー"
 slug: "sebastien-bezy"
-position: "SH"
-height: "174.0"
-weight: "78.0"
-birth_date: "1991.11.22"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sebastien-bezy"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Harry GODFREY | "
-name_en: "Harry GODFREY"
-name_ja: ""
+title: "nan | ハリー-ゴッドフリー"
+name_en: "nan"
+name_ja: "ハリー-ゴッドフリー"
 slug: "harry-godfrey"
-position: "SO"
-height: "176.0"
-weight: "88.0"
-birth_date: "2003.01.03"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-godfrey"
 ---

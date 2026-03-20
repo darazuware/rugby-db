@@ -1,17 +1,17 @@
 ---
-title: "Baptiste HÉGUY | "
-name_en: "Baptiste HÉGUY"
-name_ja: ""
+title: "nan | バティスト・エギ"
+name_en: "nan"
+name_ja: "バティスト・エギ"
 slug: "baptiste-heguy"
-position: "FL/NO8"
-height: "196.0"
-weight: "108.0"
-birth_date: "1998.05.11"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/baptiste-heguy"
 ---

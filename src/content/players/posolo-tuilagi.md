@@ -1,18 +1,18 @@
 ---
-title: "Posolo TUILAGI | "
-name_en: "Posolo TUILAGI"
-name_ja: ""
+title: "nan | ポソロ・ツイラギ"
+name_en: "nan"
+name_ja: "ポソロ・ツイラギ"
 slug: "posolo-tuilagi"
-position: "LO"
-height: "194.0"
-weight: "149.0"
-birth_date: "//2004"
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 

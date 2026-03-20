@@ -1,17 +1,17 @@
 ---
-title: "Kelly MPEKU | "
-name_en: "Kelly MPEKU"
-name_ja: ""
+title: "nan | Kelly ・ MPEKU"
+name_en: "nan"
+name_ja: "Kelly ・ MPEKU"
 slug: "kelly-mpeku"
-position: "CTB"
-height: "188.0"
-weight: "88.0"
-birth_date: "2003.11.28"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kelly-mpeku"
 ---

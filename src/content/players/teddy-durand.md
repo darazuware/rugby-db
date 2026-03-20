@@ -1,17 +1,17 @@
 ---
-title: "Teddy DURAND | "
-name_en: "Teddy DURAND"
-name_ja: ""
+title: "nan | テディ・デュラン"
+name_en: "nan"
+name_ja: "テディ・デュラン"
 slug: "teddy-durand"
-position: "HO"
-height: "180.0"
-weight: "104.0"
-birth_date: "1999.10.14"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/teddy-durand"
 ---

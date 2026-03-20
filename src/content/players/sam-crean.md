@@ -1,17 +1,17 @@
 ---
-title: "Sam CREAN | "
-name_en: "Sam CREAN"
-name_ja: ""
+title: "nan | サム ・ CREAN"
+name_en: "nan"
+name_ja: "サム ・ CREAN"
 slug: "sam-crean"
-position: "PR"
-height: "176.0"
-weight: "115.0"
-birth_date: "2000.06.12"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-crean"
 ---

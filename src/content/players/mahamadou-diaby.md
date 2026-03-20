@@ -1,17 +1,17 @@
 ---
-title: "Mahamadou DIABY | "
-name_en: "Mahamadou DIABY"
-name_ja: ""
+title: "nan | マハマドゥ・ディアビ"
+name_en: "nan"
+name_ja: "マハマドゥ・ディアビ"
 slug: "mahamadou-diaby"
-position: "FL/NO8"
-height: "192.0"
-weight: "110.0"
-birth_date: "1990.08.15"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mahamadou-diaby"
 ---

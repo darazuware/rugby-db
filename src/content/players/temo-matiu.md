@@ -1,17 +1,17 @@
 ---
-title: "Temo MATIU | "
-name_en: "Temo MATIU"
-name_ja: ""
+title: "nan | テモ・マティウ"
+name_en: "nan"
+name_ja: "テモ・マティウ"
 slug: "temo-matiu"
-position: "FL/NO8"
-height: "191.0"
-weight: "100.0"
-birth_date: "2001.07.20"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/temo-matiu"
 ---

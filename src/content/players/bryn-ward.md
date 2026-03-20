@@ -1,17 +1,17 @@
 ---
-title: "Bryn WARD | "
-name_en: "Bryn WARD"
-name_ja: ""
+title: "nan | Bryn ・ WARD"
+name_en: "nan"
+name_ja: "Bryn ・ WARD"
 slug: "bryn-ward"
-position: "Back row"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bryn-ward"
 ---

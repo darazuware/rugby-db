@@ -1,17 +1,17 @@
 ---
-title: "PJ BOTHA | "
-name_en: "PJ BOTHA"
-name_ja: ""
+title: "nan | PJ ・ BOTHA"
+name_en: "nan"
+name_ja: "PJ ・ BOTHA"
 slug: "pj-botha"
-position: "HO"
-height: "181.0"
-weight: "105.0"
-birth_date: "1998.01.20"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pj-botha"
 ---

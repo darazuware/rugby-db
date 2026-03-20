@@ -1,17 +1,17 @@
 ---
-title: "Soumaila CAMARA | "
-name_en: "Soumaila CAMARA"
-name_ja: ""
+title: "nan | スマイラ・カマラ"
+name_en: "nan"
+name_ja: "スマイラ・カマラ"
 slug: "soumaila-camara"
-position: "FL/NO8"
-height: "187.0"
-weight: "101.0"
-birth_date: "2003.09.30"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/soumaila-camara"
 ---

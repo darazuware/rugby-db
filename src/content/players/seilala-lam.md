@@ -1,18 +1,18 @@
 ---
-title: "Seilala LAM | "
-name_en: "Seilala LAM"
-name_ja: ""
+title: "nan | セイララ・ラム"
+name_en: "nan"
+name_ja: "セイララ・ラム"
 slug: "seilala-lam"
-position: "HO"
-height: "183.0"
-weight: "110.0"
-birth_date: "1989.02.18"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/seilala-lam"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Yoram MOEFANA | "
-name_en: "Yoram MOEFANA"
-name_ja: ""
+title: "nan | ヨラム・モエファナ"
+name_en: "nan"
+name_ja: "ヨラム・モエファナ"
 slug: "yoram-moefana"
-position: "CTB"
-height: "183.0"
-weight: "95.0"
-birth_date: "2000.07.18"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/yoram-moefana"
 ---
 

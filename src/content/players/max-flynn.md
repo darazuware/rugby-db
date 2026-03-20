@@ -1,17 +1,17 @@
 ---
-title: "Max FLYNN | "
-name_en: "Max FLYNN"
-name_ja: ""
+title: "nan | Max ・ FLYNN"
+name_en: "nan"
+name_ja: "Max ・ FLYNN"
 slug: "max-flynn"
-position: "Back row"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/max-flynn"
 ---

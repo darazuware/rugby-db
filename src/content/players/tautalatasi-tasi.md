@@ -4,14 +4,14 @@ name_en: "Tautalatasi TASI"
 name_ja: ""
 slug: "tautalatasi-tasi"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "22/11/1994"
+weight: "1"
 birth_date: ""
-age: 31
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ヒューストン・セイバーキャッツ"
+team: "The Houston Sabercats rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/tautalatasi-tasi"
 ---

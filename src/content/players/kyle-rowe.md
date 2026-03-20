@@ -1,18 +1,18 @@
 ---
-title: "Kyle ROWE | "
-name_en: "Kyle ROWE"
-name_ja: ""
+title: "nan | Kyle ・ ROWE"
+name_en: "nan"
+name_ja: "Kyle ・ ROWE"
 slug: "kyle-rowe"
-position: "FB"
-height: "183.0"
-weight: "88.0"
-birth_date: "1998.02.08"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kyle-rowe"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Ben MOXHAM | "
-name_en: "Ben MOXHAM"
-name_ja: ""
+title: "nan | ベン ・ MOXHAM"
+name_en: "nan"
+name_ja: "ベン ・ MOXHAM"
 slug: "ben-moxham"
-position: "Winger"
-height: "191.0"
-weight: "108.0"
-birth_date: "2001.06.09"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-moxham"
 ---

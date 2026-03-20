@@ -1,18 +1,18 @@
 ---
-title: "Tom ROBERTSON | "
-name_en: "Tom ROBERTSON"
-name_ja: ""
+title: "nan | トム・ロバートソン"
+name_en: "nan"
+name_ja: "トム・ロバートソン"
 slug: "tom-robertson"
-position: "PR"
-height: "181.0"
-weight: "113.0"
-birth_date: "1994.08.28"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tom-robertson"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Tom BOWEN | "
-name_en: "Tom BOWEN"
-name_ja: ""
+title: "nan | トム ・ BOWEN"
+name_en: "nan"
+name_ja: "トム ・ BOWEN"
 slug: "tom-bowen"
-position: "FB"
-height: "170.0"
-weight: "75.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-bowen"
 ---

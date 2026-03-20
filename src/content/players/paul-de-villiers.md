@@ -1,17 +1,17 @@
 ---
-title: "Paul DE VILLIERS | "
-name_en: "Paul DE VILLIERS"
-name_ja: ""
+title: "nan | ポール ・ デ ・ VILLIERS"
+name_en: "nan"
+name_ja: "ポール ・ デ ・ VILLIERS"
 slug: "paul-de-villiers"
-position: "Back row"
-height: "181.0"
-weight: "101.0"
-birth_date: "2003.01.13"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/paul-de-villiers"
 ---

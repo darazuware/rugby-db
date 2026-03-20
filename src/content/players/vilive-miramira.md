@@ -1,17 +1,17 @@
 ---
-title: "Vilive MIRAMIRA | "
-name_en: "Vilive MIRAMIRA"
-name_ja: ""
+title: "nan | ヴィリヴェ-ミラミラ"
+name_en: "nan"
+name_ja: "ヴィリヴェ-ミラミラ"
 slug: "vilive-miramira"
-position: "FL/No8"
-height: "192.0"
-weight: "92.0"
-birth_date: "1999.03.21"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vilive-miramira"
 ---

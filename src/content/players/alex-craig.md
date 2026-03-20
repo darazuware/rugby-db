@@ -1,18 +1,18 @@
 ---
-title: "Alex CRAIG | "
-name_en: "Alex CRAIG"
-name_ja: ""
+title: "nan | Alex ・ CRAIG"
+name_en: "nan"
+name_ja: "Alex ・ CRAIG"
 slug: "alex-craig"
-position: "LO"
-height: "198.0"
-weight: "119.0"
-birth_date: "1997.04.26"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/alex-craig"
 ---
 

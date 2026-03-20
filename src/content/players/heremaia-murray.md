@@ -1,17 +1,17 @@
 ---
-title: "Heremaia MURRAY | "
-name_en: "Heremaia MURRAY"
-name_ja: ""
+title: "nan | ヘレマイア-マレー"
+name_en: "nan"
+name_ja: "ヘレマイア-マレー"
 slug: "heremaia-murray"
-position: "WTB"
-height: "188.0"
-weight: "94.0"
-birth_date: "2000.01.11"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/heremaia-murray"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Stuart HOGG | "
-name_en: "Stuart HOGG"
-name_ja: ""
+title: "nan | スチュアート・ホッグ"
+name_en: "nan"
+name_ja: "スチュアート・ホッグ"
 slug: "stuart-hogg"
-position: "FB"
-height: "183.0"
-weight: "93.0"
-birth_date: "1992.06.24"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/stuart-hogg"
 ---
 

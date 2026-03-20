@@ -1,17 +1,17 @@
 ---
-title: "Yérim FALL | "
-name_en: "Yérim FALL"
-name_ja: ""
+title: "nan | イェリム・フォール"
+name_en: "nan"
+name_ja: "イェリム・フォール"
 slug: "yerim-fall"
-position: "WTB"
-height: "178.0"
-weight: "90.0"
-birth_date: "2003.06.24"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/yerim-fall"
 ---

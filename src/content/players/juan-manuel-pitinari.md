@@ -1,17 +1,17 @@
 ---
-title: "Juan PITINARI | "
-name_en: "Juan PITINARI"
-name_ja: ""
+title: "nan | Juan ・ PITINARI"
+name_en: "nan"
+name_ja: "Juan ・ PITINARI"
 slug: "juan-manuel-pitinari"
-position: "PR"
-height: "187.0"
-weight: "118.0"
-birth_date: "1995.01.18"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/juan-manuel-pitinari"
 ---

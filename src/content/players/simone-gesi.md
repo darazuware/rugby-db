@@ -1,17 +1,17 @@
 ---
-title: "Simone GESI | "
-name_en: "Simone GESI"
-name_ja: ""
+title: "nan | Simone ・ GESI"
+name_en: "nan"
+name_ja: "Simone ・ GESI"
 slug: "simone-gesi"
-position: "Winger"
-height: "183.0"
-weight: "80.0"
-birth_date: "2001.05.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/simone-gesi"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Mitch DUNSHEA | "
-name_en: "Mitch DUNSHEA"
-name_ja: ""
+title: "nan | ミッチ・ダンシェイ"
+name_en: "nan"
+name_ja: "ミッチ・ダンシェイ"
 slug: "mitchell-dunshea"
-position: "LO"
-height: "197.0"
-weight: "115.0"
-birth_date: "1995.11.18"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mitchell-dunshea"
 ---

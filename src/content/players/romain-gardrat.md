@@ -1,17 +1,17 @@
 ---
-title: "Romain GARDRAT | "
-name_en: "Romain GARDRAT"
-name_ja: ""
+title: "nan | ロマン・ガルド"
+name_en: "nan"
+name_ja: "ロマン・ガルド"
 slug: "romain-gardrat"
-position: "FL/NO8"
-height: "194.0"
-weight: "95.0"
-birth_date: "2003.12.31"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/romain-gardrat"
 ---

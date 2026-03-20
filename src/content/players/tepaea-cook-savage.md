@@ -1,17 +1,17 @@
 ---
-title: "Tepaea COOK-SAVAGE | "
-name_en: "Tepaea COOK-SAVAGE"
-name_ja: ""
+title: "nan | テパエア・クック＝サヴェージ"
+name_en: "nan"
+name_ja: "テパエア・クック＝サヴェージ"
 slug: "tepaea-cook-savage"
-position: "FB"
-height: "173.0"
-weight: "83.0"
-birth_date: "2001.08.02"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tepaea-cook-savage"
 ---

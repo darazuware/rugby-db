@@ -1,17 +1,17 @@
 ---
-title: "Jamie ADAMSON | "
-name_en: "Jamie ADAMSON"
-name_ja: ""
+title: "nan | ジェイミー・アダムソン"
+name_en: "nan"
+name_ja: "ジェイミー・アダムソン"
 slug: "jamie-adamson"
-position: "FL/No8"
-height: "188.0"
-weight: "95.0"
-birth_date: "1999.11.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jamie-adamson"
 ---

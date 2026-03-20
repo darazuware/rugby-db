@@ -1,18 +1,18 @@
 ---
-title: "Tom WRIGHT | "
-name_en: "Tom WRIGHT"
-name_ja: ""
+title: "nan | トム・ライト"
+name_en: "nan"
+name_ja: "トム・ライト"
 slug: "tom-wright"
-position: "WTB"
-height: "186.0"
-weight: "100.0"
-birth_date: "1997.07.21"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tom-wright"
 ---
 

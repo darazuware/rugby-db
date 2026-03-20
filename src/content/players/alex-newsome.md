@@ -1,17 +1,17 @@
 ---
-title: "Alex NEWSOME | "
-name_en: "Alex NEWSOME"
-name_ja: ""
+title: "nan | アレックス・ニューソム"
+name_en: "nan"
+name_ja: "アレックス・ニューソム"
 slug: "alex-newsome"
-position: "FB"
-height: "189.0"
-weight: "95.0"
-birth_date: "1995.01.20"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-newsome"
 ---

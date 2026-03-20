@@ -1,18 +1,18 @@
 ---
-title: "Matt CURRIE | "
-name_en: "Matt CURRIE"
-name_ja: ""
+title: "nan | Matt ・ CURRIE"
+name_en: "nan"
+name_ja: "Matt ・ CURRIE"
 slug: "matthew-currie"
-position: "CTB"
-height: "191.0"
-weight: "95.0"
-birth_date: "2001.02.22"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/matthew-currie"
 ---
 

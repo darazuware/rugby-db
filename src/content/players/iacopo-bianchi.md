@@ -1,17 +1,17 @@
 ---
-title: "Iacopo BIANCHI | "
-name_en: "Iacopo BIANCHI"
-name_ja: ""
+title: "nan | Iacopo ・ BIANCHI"
+name_en: "nan"
+name_ja: "Iacopo ・ BIANCHI"
 slug: "iacopo-bianchi"
-position: "Back row"
-height: "188.0"
-weight: "108.0"
-birth_date: "1998.05.05"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iacopo-bianchi"
 ---

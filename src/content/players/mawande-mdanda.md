@@ -1,17 +1,17 @@
 ---
-title: "Mawande MDANDA | "
-name_en: "Mawande MDANDA"
-name_ja: ""
+title: "nan | Mawande ・ MDANDA"
+name_en: "nan"
+name_ja: "Mawande ・ MDANDA"
 slug: "mawande-mdanda"
-position: "PR"
-height: "189.0"
-weight: "132.0"
-birth_date: "2003.03.09"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mawande-mdanda"
 ---

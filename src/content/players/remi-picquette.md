@@ -1,17 +1,17 @@
 ---
-title: "Rémi PICQUETTE | "
-name_en: "Rémi PICQUETTE"
-name_ja: ""
+title: "nan | レミ・ピケット"
+name_en: "nan"
+name_ja: "レミ・ピケット"
 slug: "remi-picquette"
-position: "LO"
-height: "200.0"
-weight: "117.0"
-birth_date: "1995.02.23"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/remi-picquette"
 ---

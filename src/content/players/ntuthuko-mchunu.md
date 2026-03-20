@@ -1,18 +1,18 @@
 ---
-title: "Ntuthuko MCHUNU | "
-name_en: "Ntuthuko MCHUNU"
-name_ja: ""
+title: "nan | Ntuthuko ・ MCHUNU"
+name_en: "nan"
+name_ja: "Ntuthuko ・ MCHUNU"
 slug: "ntuthuko-mchunu"
-position: "PR"
-height: "188.0"
-weight: "123.0"
-birth_date: "1999.04.05"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Brad SHIELDS | "
-name_en: "Brad SHIELDS"
-name_ja: ""
+title: "nan | ブラッド-シールズ"
+name_en: "nan"
+name_ja: "ブラッド-シールズ"
 slug: "brad-shields"
-position: "FL/No8"
-height: "194.0"
-weight: "113.0"
-birth_date: "1991.04.02"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/brad-shields"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Pietro CECCARELLI | "
-name_en: "Pietro CECCARELLI"
-name_ja: ""
+title: "nan | ピエトロ・チェッカレッリ"
+name_en: "nan"
+name_ja: "ピエトロ・チェッカレッリ"
 slug: "pietro-ceccarelli"
-position: "PR"
-height: "184.0"
-weight: "128.0"
-birth_date: "1992.02.16"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/pietro-ceccarelli"
 ---
 

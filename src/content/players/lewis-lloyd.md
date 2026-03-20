@@ -1,17 +1,17 @@
 ---
-title: "Lewis LLOYD | "
-name_en: "Lewis LLOYD"
-name_ja: ""
+title: "nan | Lewis ・ LLOYD"
+name_en: "nan"
+name_ja: "Lewis ・ LLOYD"
 slug: "lewis-lloyd"
-position: "HO"
-height: "180.0"
-weight: "92.0"
-birth_date: "2003.07.20"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lewis-lloyd"
 ---

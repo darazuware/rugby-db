@@ -1,17 +1,17 @@
 ---
-title: "Mathieu HIRIGOYEN | "
-name_en: "Mathieu HIRIGOYEN"
-name_ja: ""
+title: "nan | マチュー・イリゴイエン"
+name_en: "nan"
+name_ja: "マチュー・イリゴイエン"
 slug: "mathieu-hirigoyen"
-position: "FL/NO8"
-height: "194.0"
-weight: "103.0"
-birth_date: "1999.01.25"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mathieu-hirigoyen"
 ---

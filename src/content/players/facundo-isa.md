@@ -1,18 +1,18 @@
 ---
-title: "Facundo ISA | "
-name_en: "Facundo ISA"
-name_ja: ""
+title: "nan | ファクンド-イサ"
+name_en: "nan"
+name_ja: "ファクンド-イサ"
 slug: "facundo-isa"
-position: "FL/NO8"
-height: "188.0"
-weight: "114.0"
-birth_date: "1993.09.21"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/facundo-isa"
 ---
 

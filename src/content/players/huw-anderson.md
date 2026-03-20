@@ -1,17 +1,17 @@
 ---
-title: "Huw ANDERSON | "
-name_en: "Huw ANDERSON"
-name_ja: ""
+title: "nan | Huw ・ ANDERSON"
+name_en: "nan"
+name_ja: "Huw ・ ANDERSON"
 slug: "huw-anderson"
-position: "FB"
-height: "178.0"
-weight: "85.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/huw-anderson"
 ---

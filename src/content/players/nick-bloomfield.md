@@ -1,17 +1,17 @@
 ---
-title: "Nick BLOOMFIELD | "
-name_en: "Nick BLOOMFIELD"
-name_ja: ""
+title: "nan | ニック・ブルームフィールド"
+name_en: "nan"
+name_ja: "ニック・ブルームフィールド"
 slug: "nick-bloomfield"
-position: "PR"
-height: "188.0"
-weight: "115.0"
-birth_date: "2004.02.10"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nick-bloomfield"
 ---

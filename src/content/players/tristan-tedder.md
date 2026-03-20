@@ -1,17 +1,17 @@
 ---
-title: "Tristan TEDDER | "
-name_en: "Tristan TEDDER"
-name_ja: ""
+title: "nan | トリスタン・テッダー"
+name_en: "nan"
+name_ja: "トリスタン・テッダー"
 slug: "tristan-tedder"
-position: "SO"
-height: "180.0"
-weight: "88.0"
-birth_date: "1996.04.17"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tristan-tedder"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Sione KALAMAFONI | "
-name_en: "Sione KALAMAFONI"
-name_ja: ""
+title: "nan | シオネ・カラマフォニ"
+name_en: "nan"
+name_ja: "シオネ・カラマフォニ"
 slug: "sione-kalafamoni"
-position: "FL/NO8"
-height: "196.0"
-weight: "120.0"
-birth_date: "1988.05.18"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sione-kalafamoni"
 ---
 

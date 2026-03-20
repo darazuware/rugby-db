@@ -1,17 +1,17 @@
 ---
-title: "Diego APPOLLIS | "
-name_en: "Diego APPOLLIS"
-name_ja: ""
+title: "nan | Diego ・ APPOLLIS"
+name_en: "nan"
+name_ja: "Diego ・ APPOLLIS"
 slug: "diego-appollis"
-position: "CTB"
-height: "178.0"
-weight: "94.0"
-birth_date: "2000.08.27"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/diego-appollis"
 ---

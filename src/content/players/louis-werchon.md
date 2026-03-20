@@ -1,17 +1,17 @@
 ---
-title: "Louis WERCHON | "
-name_en: "Louis WERCHON"
-name_ja: ""
+title: "nan | ルイ・ウェルション"
+name_en: "nan"
+name_ja: "ルイ・ウェルション"
 slug: "louis-werchon"
-position: "SH"
-height: "178.0"
-weight: "85.0"
-birth_date: "2002.10.25"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-werchon"
 ---

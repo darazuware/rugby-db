@@ -1,17 +1,17 @@
 ---
-title: "Olujare OGUNTIBEJU | "
-name_en: "Olujare OGUNTIBEJU"
-name_ja: ""
+title: "nan | Olujare ・ OGUNTIBEJU"
+name_en: "nan"
+name_ja: "Olujare ・ OGUNTIBEJU"
 slug: "olujare-oguntibeju"
-position: "LO"
-height: "202.0"
-weight: "123.0"
-birth_date: "2002.05.14"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/olujare-oguntibeju"
 ---

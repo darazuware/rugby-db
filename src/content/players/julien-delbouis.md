@@ -1,17 +1,17 @@
 ---
-title: "Julien DELBOUIS | "
-name_en: "Julien DELBOUIS"
-name_ja: ""
+title: "nan | ジュリアン・デルブイス"
+name_en: "nan"
+name_ja: "ジュリアン・デルブイス"
 slug: "julien-delbouis"
-position: "CTB"
-height: "185.0"
-weight: "103.0"
-birth_date: "1999.08.04"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/julien-delbouis"
 ---

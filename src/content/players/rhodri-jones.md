@@ -1,18 +1,18 @@
 ---
-title: "Rhodri JONES | "
-name_en: "Rhodri JONES"
-name_ja: ""
+title: "nan | Rhodri ・ JONES"
+name_en: "nan"
+name_ja: "Rhodri ・ JONES"
 slug: "rhodri-jones"
-position: "PR"
-height: "191.0"
-weight: "120.0"
-birth_date: "1991.12.23"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rhodri-jones"
 ---
 

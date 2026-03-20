@@ -1,17 +1,17 @@
 ---
-title: "Morné BRANDON | "
-name_en: "Morné BRANDON"
-name_ja: ""
+title: "nan | Morn ・ BRANDON"
+name_en: "nan"
+name_ja: "Morn ・ BRANDON"
 slug: "morne-brandon"
-position: "HO"
-height: "184.0"
-weight: "106.0"
-birth_date: "2000.11.25"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/morne-brandon"
 ---

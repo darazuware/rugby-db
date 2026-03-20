@@ -1,17 +1,17 @@
 ---
-title: "Samu TAWAKE | "
-name_en: "Samu TAWAKE"
-name_ja: ""
+title: "nan | サム・タワケ"
+name_en: "nan"
+name_ja: "サム・タワケ"
 slug: "samu-tawake"
-position: "PR"
-height: "183.0"
-weight: "120.0"
-birth_date: "1996.09.11"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/samu-tawake"
 ---

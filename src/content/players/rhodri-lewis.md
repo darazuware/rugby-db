@@ -1,17 +1,17 @@
 ---
-title: "Rhodri LEWIS | "
-name_en: "Rhodri LEWIS"
-name_ja: ""
+title: "nan | Rhodri ・ LEWIS"
+name_en: "nan"
+name_ja: "Rhodri ・ LEWIS"
 slug: "rhodri-lewis"
-position: "SH"
-height: "175.0"
-weight: "80.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rhodri-lewis"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Osian WILLIAMS | "
-name_en: "Osian WILLIAMS"
-name_ja: ""
+title: "nan | Osian ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "Osian ・ ウィリアムズ"
 slug: "osian-williams"
-position: "Back row"
-height: "191.0"
-weight: "106.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/osian-williams"
 ---

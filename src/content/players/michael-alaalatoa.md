@@ -1,18 +1,18 @@
 ---
-title: "Michael ALAALATOA | "
-name_en: "Michael ALAALATOA"
-name_ja: ""
+title: "nan | マイケル ・ ALAALATOA"
+name_en: "nan"
+name_ja: "マイケル ・ ALAALATOA"
 slug: "michael-alaalatoa"
-position: "PR"
-height: "191.0"
-weight: "130.0"
-birth_date: "1991.08.28"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/michael-alaalatoa"
 ---
 

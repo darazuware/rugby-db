@@ -1,18 +1,18 @@
 ---
-title: "Yacouba CAMARA | "
-name_en: "Yacouba CAMARA"
-name_ja: ""
+title: "nan | ヤクバ・カマラ"
+name_en: "nan"
+name_ja: "ヤクバ・カマラ"
 slug: "yacouba-camara"
-position: "FL/NO8"
-height: "195.0"
-weight: "112.0"
-birth_date: "1994.06.02"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/yacouba-camara"
 ---
 

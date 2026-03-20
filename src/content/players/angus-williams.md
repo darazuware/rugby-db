@@ -1,17 +1,17 @@
 ---
-title: "Angus WILLIAMS | "
-name_en: "Angus WILLIAMS"
-name_ja: ""
+title: "nan | Angus ・ ウィリアムズ"
+name_en: "nan"
+name_ja: "Angus ・ ウィリアムズ"
 slug: "angus-williams"
-position: "PR"
-height: "180.0"
-weight: "117.0"
-birth_date: "1993.11.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/angus-williams"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Sam PARRY | "
-name_en: "Sam PARRY"
-name_ja: ""
+title: "nan | サム ・ PARRY"
+name_en: "nan"
+name_ja: "サム ・ PARRY"
 slug: "sam-parry"
-position: "HO"
-height: "186.0"
-weight: "114.0"
-birth_date: "1991.12.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sam-parry"
 ---
 

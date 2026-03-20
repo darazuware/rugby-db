@@ -1,18 +1,18 @@
 ---
-title: "Adrea COCAGI | "
-name_en: "Adrea COCAGI"
-name_ja: ""
+title: "nan | アドリア・コカギ"
+name_en: "nan"
+name_ja: "アドリア・コカギ"
 slug: "adrea-cocagi"
-position: "CTB"
-height: "185.0"
-weight: "109.0"
-birth_date: "1994.03.01"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/adrea-cocagi"
 ---
 

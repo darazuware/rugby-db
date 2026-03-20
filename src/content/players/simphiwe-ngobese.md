@@ -1,17 +1,17 @@
 ---
-title: "Simphiwe NGOBESE | "
-name_en: "Simphiwe NGOBESE"
-name_ja: ""
+title: "nan | Simphiwe ・ NGOBESE"
+name_en: "nan"
+name_ja: "Simphiwe ・ NGOBESE"
 slug: "simphiwe-ngobese"
-position: "PR"
-height: "183.0"
-weight: "119.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/simphiwe-ngobese"
 ---

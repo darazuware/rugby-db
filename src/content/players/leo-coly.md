@@ -1,17 +1,17 @@
 ---
-title: "Léo COLY | "
-name_en: "Léo COLY"
-name_ja: ""
+title: "nan | レオ・コリ"
+name_en: "nan"
+name_ja: "レオ・コリ"
 slug: "leo-coly"
-position: "SH"
-height: "175.0"
-weight: "79.0"
-birth_date: "1999.09.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leo-coly"
 ---

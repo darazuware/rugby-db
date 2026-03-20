@@ -1,17 +1,17 @@
 ---
-title: "Will GREATBANKS | "
-name_en: "Will GREATBANKS"
-name_ja: ""
+title: "nan | Will ・ GREATBANKS"
+name_en: "nan"
+name_ja: "Will ・ GREATBANKS"
 slug: "william-greatbanks"
-position: "LO"
-height: "198.0"
-weight: "109.0"
-birth_date: "2003.01.18"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/william-greatbanks"
 ---

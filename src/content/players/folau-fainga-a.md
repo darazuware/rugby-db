@@ -1,18 +1,18 @@
 ---
-title: "Folau FAINGA'A | "
-name_en: "Folau FAINGA'A"
-name_ja: ""
+title: "nan | フォラウ-ファインガア"
+name_en: "nan"
+name_ja: "フォラウ-ファインガア"
 slug: "folau-fainga-a"
-position: "HO"
-height: "178.0"
-weight: "115.0"
-birth_date: "1995.05.05"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/folau-fainga-a"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Klayton THORN | "
-name_en: "Klayton THORN"
-name_ja: ""
+title: "nan | クレイトン・ソーン"
+name_en: "nan"
+name_ja: "クレイトン・ソーン"
 slug: "klayton-thorn"
-position: "SH"
-height: "179.0"
-weight: "83.0"
-birth_date: "2003.06.06"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/klayton-thorn"
 ---

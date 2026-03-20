@@ -1,17 +1,17 @@
 ---
-title: "Wandile MLABA | "
-name_en: "Wandile MLABA"
-name_ja: ""
+title: "nan | Wandile ・ MLABA"
+name_en: "nan"
+name_ja: "Wandile ・ MLABA"
 slug: "wandile-mlaba"
-position: "Back row"
-height: "191.0"
-weight: "102.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/wandile-mlaba"
 ---

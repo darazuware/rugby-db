@@ -1,17 +1,17 @@
 ---
-title: "Seán F. O'BRIEN | "
-name_en: "Seán F. O'BRIEN"
-name_ja: ""
+title: "nan | Se ・ F ・ O'BRIEN"
+name_en: "nan"
+name_ja: "Se ・ F ・ O'BRIEN"
 slug: "sean-o-brien-2000"
-position: "Back row"
-height: "193.0"
-weight: "105.0"
-birth_date: "2000.07.31"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-o-brien-2000"
 ---

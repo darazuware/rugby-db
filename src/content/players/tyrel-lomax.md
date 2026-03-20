@@ -1,18 +1,18 @@
 ---
-title: "Tyrel LOMAX | "
-name_en: "Tyrel LOMAX"
-name_ja: ""
+title: "nan | タイレル・ロマックス"
+name_en: "nan"
+name_ja: "タイレル・ロマックス"
 slug: "tyrel-lomax"
-position: "PR"
-height: "192.0"
-weight: "129.0"
-birth_date: "1996.06.01"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tyrel-lomax"
 ---
 

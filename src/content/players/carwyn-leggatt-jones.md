@@ -1,17 +1,17 @@
 ---
-title: "Carwyn LEGGATT-JONES | "
-name_en: "Carwyn LEGGATT-JONES"
-name_ja: ""
+title: "nan | Carwyn ・ LEGGATT ・ JONES"
+name_en: "nan"
+name_ja: "Carwyn ・ LEGGATT ・ JONES"
 slug: "carwyn-leggatt-jones"
-position: "SO"
-height: "170.0"
-weight: "84.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/carwyn-leggatt-jones"
 ---

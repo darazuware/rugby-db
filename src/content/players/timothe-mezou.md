@@ -1,17 +1,17 @@
 ---
-title: "Timothé MÉZOU | "
-name_en: "Timothé MÉZOU"
-name_ja: ""
+title: "nan | ティモテ・メズ"
+name_en: "nan"
+name_ja: "ティモテ・メズ"
 slug: "timothe-mezou"
-position: "LO"
-height: "202.0"
-weight: "120.0"
-birth_date: "2002.09.20"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/timothe-mezou"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Cammy SCOTT | "
-name_en: "Cammy SCOTT"
-name_ja: ""
+title: "nan | Cammy ・ スコット"
+name_en: "nan"
+name_ja: "Cammy ・ スコット"
 slug: "cameron-scott"
-position: "SO"
-height: "181.0"
-weight: "83.0"
-birth_date: "2001.09.08"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-scott"
 ---

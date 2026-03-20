@@ -1,17 +1,17 @@
 ---
-title: "Mark DONNELLY | "
-name_en: "Mark DONNELLY"
-name_ja: ""
+title: "nan | マーク ・ DONNELLY"
+name_en: "nan"
+name_ja: "マーク ・ DONNELLY"
 slug: "mark-donnelly"
-position: "PR"
-height: "180.0"
-weight: "110.0"
-birth_date: "2001.03.14"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mark-donnelly"
 ---

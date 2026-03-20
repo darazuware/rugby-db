@@ -1,17 +1,17 @@
 ---
-title: "JJ HANRAHAN | "
-name_en: "JJ HANRAHAN"
-name_ja: ""
+title: "nan | JJ ・ HANRAHAN"
+name_en: "nan"
+name_ja: "JJ ・ HANRAHAN"
 slug: "jj-hanrahan"
-position: "SO"
-height: "183.0"
-weight: "93.0"
-birth_date: "1992.07.27"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jj-hanrahan"
 ---

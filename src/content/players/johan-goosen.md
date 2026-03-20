@@ -1,18 +1,18 @@
 ---
-title: "Johan GOOSEN | "
-name_en: "Johan GOOSEN"
-name_ja: ""
+title: "nan | Johan ・ GOOSEN"
+name_en: "nan"
+name_ja: "Johan ・ GOOSEN"
 slug: "johan-goosen"
-position: "SO"
-height: "184.0"
-weight: "89.0"
-birth_date: "1992.07.27"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/johan-goosen"
 ---
 

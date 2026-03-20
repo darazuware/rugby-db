@@ -1,17 +1,17 @@
 ---
-title: "Sifa AMONE | "
-name_en: "Sifa AMONE"
-name_ja: ""
+title: "nan | シファ・アモネ"
+name_en: "nan"
+name_ja: "シファ・アモネ"
 slug: "sifa-amone"
-position: "PR"
-height: "180.0"
-weight: "125.0"
-birth_date: "2002.02.25"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sifa-amone"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Joe JOYCE | "
-name_en: "Joe JOYCE"
-name_ja: ""
+title: "nan | Joe ・ JOYCE"
+name_en: "nan"
+name_ja: "Joe ・ JOYCE"
 slug: "joe-joyce"
-position: "LO"
-height: "196.0"
-weight: "119.0"
-birth_date: "1994.02.07"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-joyce"
 ---

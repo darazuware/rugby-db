@@ -1,18 +1,18 @@
 ---
-title: "Ma'a NONU | "
-name_en: "Ma'a NONU"
-name_ja: ""
+title: "nan | マア・ノヌ"
+name_en: "nan"
+name_ja: "マア・ノヌ"
 slug: "ma-a-nonu"
-position: "CTB"
-height: "182.0"
-weight: "108.0"
-birth_date: "1982.05.21"
-age: 43
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ma-a-nonu"
 ---
 

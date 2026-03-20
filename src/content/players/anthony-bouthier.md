@@ -1,18 +1,18 @@
 ---
-title: "Anthony BOUTHIER | "
-name_en: "Anthony BOUTHIER"
-name_ja: ""
+title: "nan | アントニー・ブティエ"
+name_en: "nan"
+name_ja: "アントニー・ブティエ"
 slug: "anthony-bouthier"
-position: "FB"
-height: "182.0"
-weight: "86.0"
-birth_date: "1992.06.19"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/anthony-bouthier"
 ---
 

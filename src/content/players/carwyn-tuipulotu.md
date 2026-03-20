@@ -1,17 +1,17 @@
 ---
-title: "Carwyn TUIPULOTU | "
-name_en: "Carwyn TUIPULOTU"
-name_ja: ""
+title: "nan | カーウィン・ツイプロトゥ"
+name_en: "nan"
+name_ja: "カーウィン・ツイプロトゥ"
 slug: "carwyn-tuipulotu"
-position: "FL/NO8"
-height: "188.0"
-weight: "125.0"
-birth_date: "2001.09.28"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/carwyn-tuipulotu"
 ---

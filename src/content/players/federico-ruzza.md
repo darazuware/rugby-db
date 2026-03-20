@@ -1,18 +1,18 @@
 ---
-title: "Federico RUZZA | "
-name_en: "Federico RUZZA"
-name_ja: ""
+title: "nan | Federico ・ RUZZA"
+name_en: "nan"
+name_ja: "Federico ・ RUZZA"
 slug: "federico-ruzza"
-position: "LO"
-height: "198.0"
-weight: "110.0"
-birth_date: "1994.08.04"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/federico-ruzza"
 ---
 

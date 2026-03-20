@@ -1,17 +1,17 @@
 ---
-title: "Juan SCHOEMAN | "
-name_en: "Juan SCHOEMAN"
-name_ja: ""
+title: "nan | Juan ・ SCHOEMAN"
+name_en: "nan"
+name_ja: "Juan ・ SCHOEMAN"
 slug: "juan-schoeman"
-position: "PR"
-height: "186.0"
-weight: "120.0"
-birth_date: "1991.09.18"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/juan-schoeman"
 ---

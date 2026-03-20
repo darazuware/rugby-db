@@ -1,18 +1,18 @@
 ---
-title: "Daniel BRENNAN | "
-name_en: "Daniel BRENNAN"
-name_ja: ""
+title: "nan | ダニエル-ブレナン"
+name_en: "nan"
+name_ja: "ダニエル-ブレナン"
 slug: "daniel-brennan"
-position: "PR"
-height: "192.0"
-weight: "132.0"
-birth_date: "1998.09.23"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/daniel-brennan"
 ---
 

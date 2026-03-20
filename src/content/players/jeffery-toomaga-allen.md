@@ -1,18 +1,18 @@
 ---
-title: "Jeffery TOOMAGA-ALLEN | "
-name_en: "Jeffery TOOMAGA-ALLEN"
-name_ja: ""
+title: "nan | ジェフリー-トゥーマガ＝アレン"
+name_en: "nan"
+name_ja: "ジェフリー-トゥーマガ＝アレン"
 slug: "jeffery-toomaga-allen"
-position: "PR"
-height: "192.0"
-weight: "125.0"
-birth_date: "1990.11.19"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jeffery-toomaga-allen"
 ---
 

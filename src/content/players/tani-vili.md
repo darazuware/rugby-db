@@ -1,17 +1,17 @@
 ---
-title: "Tani VILI | "
-name_en: "Tani VILI"
-name_ja: ""
+title: "nan | タニ・ヴィリ"
+name_en: "nan"
+name_ja: "タニ・ヴィリ"
 slug: "tani-vili"
-position: "CTB"
-height: "187.0"
-weight: "112.0"
-birth_date: "2000.10.31"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tani-vili"
 ---

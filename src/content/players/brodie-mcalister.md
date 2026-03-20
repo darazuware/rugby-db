@@ -1,17 +1,17 @@
 ---
-title: "Brodie MCALISTER | "
-name_en: "Brodie MCALISTER"
-name_ja: ""
+title: "nan | ブロディー-マカリスター"
+name_en: "nan"
+name_ja: "ブロディー-マカリスター"
 slug: "brodie-mcalister"
-position: "HO"
-height: "182.0"
-weight: "112.0"
-birth_date: "1997.06.17"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/brodie-mcalister"
 ---

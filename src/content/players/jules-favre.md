@@ -1,17 +1,17 @@
 ---
-title: "Jules FAVRE | "
-name_en: "Jules FAVRE"
-name_ja: ""
+title: "nan | ジュール・ファーブル"
+name_en: "nan"
+name_ja: "ジュール・ファーブル"
 slug: "jules-favre"
-position: "CTB"
-height: "181.0"
-weight: "93.0"
-birth_date: "1999.03.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jules-favre"
 ---

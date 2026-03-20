@@ -1,17 +1,17 @@
 ---
-title: "Janeiro WAKEHAM | "
-name_en: "Janeiro WAKEHAM"
-name_ja: ""
+title: "nan | ジャネイロ-ウェイクハム"
+name_en: "nan"
+name_ja: "ジャネイロ-ウェイクハム"
 slug: "janeiro-wakeham"
-position: "LO"
-height: "208.0"
-weight: "140.0"
-birth_date: "2003.03.14"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/janeiro-wakeham"
 ---

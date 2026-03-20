@@ -1,17 +1,17 @@
 ---
-title: "Marley PEARCE | "
-name_en: "Marley PEARCE"
-name_ja: ""
+title: "nan | マーリー・ピアース"
+name_en: "nan"
+name_ja: "マーリー・ピアース"
 slug: "marley-pearce"
-position: "PR"
-height: "186.0"
-weight: "116.0"
-birth_date: "2003.08.03"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marley-pearce"
 ---

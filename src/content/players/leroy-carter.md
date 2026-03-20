@@ -1,17 +1,17 @@
 ---
-title: "Leroy CARTER | "
-name_en: "Leroy CARTER"
-name_ja: ""
+title: "nan | ルロイ・カーター"
+name_en: "nan"
+name_ja: "ルロイ・カーター"
 slug: "leroy-carter"
-position: "WTB"
-height: "176.0"
-weight: "86.0"
-birth_date: "1999.02.24"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leroy-carter"
 ---

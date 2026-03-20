@@ -1,17 +1,17 @@
 ---
-title: "Joe DENMAN | "
-name_en: "Joe DENMAN"
-name_ja: ""
+title: "nan | Joe ・ DENMAN"
+name_en: "nan"
+name_ja: "Joe ・ DENMAN"
 slug: "joe-denman"
-position: "Back row"
-height: "183.0"
-weight: "87.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-denman"
 ---

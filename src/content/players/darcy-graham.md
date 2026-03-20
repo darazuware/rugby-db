@@ -1,18 +1,18 @@
 ---
-title: "Darcy GRAHAM | "
-name_en: "Darcy GRAHAM"
-name_ja: ""
+title: "nan | ダーシー ・ GRAHAM"
+name_en: "nan"
+name_ja: "ダーシー ・ GRAHAM"
 slug: "darcy-graham"
-position: "Winger"
-height: "177.0"
-weight: "85.0"
-birth_date: "1997.06.21"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/darcy-graham"
 ---
 

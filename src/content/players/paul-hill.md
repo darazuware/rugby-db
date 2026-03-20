@@ -1,18 +1,18 @@
 ---
-title: "Paul HILL | "
-name_en: "Paul HILL"
-name_ja: ""
+title: "nan | ポール ・ HILL"
+name_en: "nan"
+name_ja: "ポール ・ HILL"
 slug: "paul-hill"
-position: "PR"
-height: "189.0"
-weight: "123.0"
-birth_date: "1995.03.02"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paul-hill"
 ---
 

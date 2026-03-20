@@ -1,17 +1,17 @@
 ---
-title: "John BRYANT | "
-name_en: "John BRYANT"
-name_ja: ""
+title: "nan | ジョン・ブライアント"
+name_en: "nan"
+name_ja: "ジョン・ブライアント"
 slug: "john-bryant"
-position: "FL/No8"
-height: "190.0"
-weight: "100.0"
-birth_date: "2003.02.20"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/john-bryant"
 ---

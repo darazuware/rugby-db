@@ -1,17 +1,17 @@
 ---
-title: "Carlü SADIE | "
-name_en: "Carlü SADIE"
-name_ja: ""
+title: "nan | カリュ・サディー"
+name_en: "nan"
+name_ja: "カリュ・サディー"
 slug: "carlu-sadie"
-position: "PR"
-height: "182.0"
-weight: "138.0"
-birth_date: "1997.05.07"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/carlu-sadie"
 ---

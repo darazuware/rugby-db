@@ -1,18 +1,18 @@
 ---
-title: "Louis CARBONEL | "
-name_en: "Louis CARBONEL"
-name_ja: ""
+title: "nan | ルイ・カルボネル"
+name_en: "nan"
+name_ja: "ルイ・カルボネル"
 slug: "louis-carbonel"
-position: "SO"
-height: "180.0"
-weight: "88.0"
-birth_date: "1999.02.04"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/louis-carbonel"
 ---
 

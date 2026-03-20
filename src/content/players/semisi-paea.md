@@ -1,17 +1,17 @@
 ---
-title: "Semisi PAEA | "
-name_en: "Semisi PAEA"
-name_ja: ""
+title: "nan | セミシ・パエア"
+name_en: "nan"
+name_ja: "セミシ・パエア"
 slug: "semisi-paea"
-position: "FL/No8"
-height: "194.0"
-weight: "113.0"
-birth_date: "1999.04.17"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/semisi-paea"
 ---

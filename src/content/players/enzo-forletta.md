@@ -1,18 +1,18 @@
 ---
-title: "Enzo FORLETTA | "
-name_en: "Enzo FORLETTA"
-name_ja: ""
+title: "nan | エンゾ・フォルレッタ"
+name_en: "nan"
+name_ja: "エンゾ・フォルレッタ"
 slug: "enzo-forletta"
-position: "PR"
-height: "175.0"
-weight: "118.0"
-birth_date: "1994.06.15"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/enzo-forletta"
 ---
 

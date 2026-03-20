@@ -1,17 +1,17 @@
 ---
-title: "Yohan ORABÉ | "
-name_en: "Yohan ORABÉ"
-name_ja: ""
+title: "nan | ヨアン・オラベ"
+name_en: "nan"
+name_ja: "ヨアン・オラベ"
 slug: "yohan-orabe"
-position: "FB"
-height: "187.0"
-weight: "87.0"
-birth_date: "2002.05.21"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/yohan-orabe"
 ---

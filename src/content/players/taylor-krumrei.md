@@ -4,14 +4,14 @@ name_en: "Taylor KRUMREI"
 name_ja: ""
 slug: "taylor-krumrei"
 position: "Lock"
-height: "0"
-weight: "0"
+height: "02/07/1994"
+weight: "1"
 birth_date: ""
-age: 31
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/taylor-krumrei"
 ---

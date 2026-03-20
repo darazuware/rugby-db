@@ -1,17 +1,17 @@
 ---
-title: "Bayley KUENZLE | "
-name_en: "Bayley KUENZLE"
-name_ja: ""
+title: "nan | ベイリー-クンツレ"
+name_en: "nan"
+name_ja: "ベイリー-クンツレ"
 slug: "bayley-kuenzle"
-position: "CTB"
-height: "186.0"
-weight: "92.0"
-birth_date: "1998.06.18"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bayley-kuenzle"
 ---

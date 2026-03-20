@@ -1,17 +1,17 @@
 ---
-title: "Pierre HUGUET | "
-name_en: "Pierre HUGUET"
-name_ja: ""
+title: "nan | ピエール・ユゲ"
+name_en: "nan"
+name_ja: "ピエール・ユゲ"
 slug: "pierre-huguet"
-position: "FL/NO8"
-height: "194.0"
-weight: "111.0"
-birth_date: "1995.11.05"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-huguet"
 ---

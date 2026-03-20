@@ -1,17 +1,17 @@
 ---
-title: "Samuele LOCATELLI | "
-name_en: "Samuele LOCATELLI"
-name_ja: ""
+title: "nan | Samuele ・ LOCATELLI"
+name_en: "nan"
+name_ja: "Samuele ・ LOCATELLI"
 slug: "samuele-locatelli"
-position: "Back row"
-height: "187.0"
-weight: "109.0"
-birth_date: "2001.07.30"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/samuele-locatelli"
 ---

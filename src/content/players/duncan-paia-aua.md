@@ -1,18 +1,18 @@
 ---
-title: "Duncan PAIA'AUA | "
-name_en: "Duncan PAIA'AUA"
-name_ja: ""
+title: "nan | ダンカン-パイアアウア"
+name_en: "nan"
+name_ja: "ダンカン-パイアアウア"
 slug: "duncan-paia-aua"
-position: "CTB"
-height: "183.0"
-weight: "92.0"
-birth_date: "1995.01.20"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/duncan-paia-aua"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Hector PATTERSON | "
-name_en: "Hector PATTERSON"
-name_ja: ""
+title: "nan | Hector ・ PATTERSON"
+name_en: "nan"
+name_ja: "Hector ・ PATTERSON"
 slug: "hector-patterson"
-position: "SH"
-height: "182.0"
-weight: "87.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hector-patterson"
 ---

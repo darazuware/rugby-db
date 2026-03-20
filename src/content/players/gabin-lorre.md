@@ -1,17 +1,17 @@
 ---
-title: "Gabin LORRE | "
-name_en: "Gabin LORRE"
-name_ja: ""
+title: "nan | ガバン・ロール"
+name_en: "nan"
+name_ja: "ガバン・ロール"
 slug: "gabin-lorre"
-position: "FB"
-height: "182.0"
-weight: "82.0"
-birth_date: "2001.12.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/gabin-lorre"
 ---

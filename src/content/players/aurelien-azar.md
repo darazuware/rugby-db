@@ -1,17 +1,17 @@
 ---
-title: "Aurélien AZAR | "
-name_en: "Aurélien AZAR"
-name_ja: ""
+title: "nan | オーレリアン・アザール"
+name_en: "nan"
+name_ja: "オーレリアン・アザール"
 slug: "aurelien-azar"
-position: "PR"
-height: "188.0"
-weight: "126.0"
-birth_date: "1994.06.10"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/aurelien-azar"
 ---

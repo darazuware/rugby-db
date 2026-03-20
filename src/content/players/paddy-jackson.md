@@ -1,18 +1,18 @@
 ---
-title: "Paddy JACKSON | "
-name_en: "Paddy JACKSON"
-name_ja: ""
+title: "nan | パディ・ジャクソン"
+name_en: "nan"
+name_ja: "パディ・ジャクソン"
 slug: "paddy-jackson"
-position: "SO"
-height: "180.0"
-weight: "89.0"
-birth_date: "1992.01.05"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paddy-jackson"
 ---
 

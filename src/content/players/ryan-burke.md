@@ -1,17 +1,17 @@
 ---
-title: "Ryan BURKE | "
-name_en: "Ryan BURKE"
-name_ja: ""
+title: "nan | ライアン ・ BURKE"
+name_en: "nan"
+name_ja: "ライアン ・ BURKE"
 slug: "ryan-burke"
-position: "LO"
-height: "200.0"
-weight: "117.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-burke"
 ---

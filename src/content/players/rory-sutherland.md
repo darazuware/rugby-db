@@ -1,18 +1,18 @@
 ---
-title: "Rory SUTHERLAND | "
-name_en: "Rory SUTHERLAND"
-name_ja: ""
+title: "nan | Rory ・ SUTHERLAND"
+name_en: "nan"
+name_ja: "Rory ・ SUTHERLAND"
 slug: "rory-sutherland"
-position: "PR"
-height: "183.0"
-weight: "116.0"
-birth_date: "1992.08.24"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/rory-sutherland"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Riko BULIRUARUA | "
-name_en: "Riko BULIRUARUA"
-name_ja: ""
+title: "nan | リコ・ブリルアルア"
+name_en: "nan"
+name_ja: "リコ・ブリルアルア"
 slug: "rico-buliruarua"
-position: "CTB"
-height: "186.0"
-weight: "106.0"
-birth_date: "1997.01.23"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rico-buliruarua"
 ---

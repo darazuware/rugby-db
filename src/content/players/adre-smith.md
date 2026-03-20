@@ -1,17 +1,17 @@
 ---
-title: "Adré SMITH | "
-name_en: "Adré SMITH"
-name_ja: ""
+title: "nan | Adr ・ スミス"
+name_en: "nan"
+name_ja: "Adr ・ スミス"
 slug: "adre-smith"
-position: "LO"
-height: "200.0"
-weight: "123.0"
-birth_date: "1997.06.04"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/adre-smith"
 ---

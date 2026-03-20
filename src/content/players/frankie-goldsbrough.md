@@ -1,17 +1,17 @@
 ---
-title: "Frankie GOLDSBROUGH | "
-name_en: "Frankie GOLDSBROUGH"
-name_ja: ""
+title: "nan | フランキー・ゴールズブロー"
+name_en: "nan"
+name_ja: "フランキー・ゴールズブロー"
 slug: "frankie-goldsbrough"
-position: "CTB"
-height: "187.0"
-weight: "101.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/frankie-goldsbrough"
 ---

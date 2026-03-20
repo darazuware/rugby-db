@@ -1,17 +1,17 @@
 ---
-title: "Archie MCMICHAEL | "
-name_en: "Archie MCMICHAEL"
-name_ja: ""
+title: "nan | Archie ・ MCMICHAEL"
+name_en: "nan"
+name_ja: "Archie ・ MCMICHAEL"
 slug: "archie-mcmichael"
-position: "Back row"
-height: "193.0"
-weight: "93.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/archie-mcmichael"
 ---

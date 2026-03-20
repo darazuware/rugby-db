@@ -1,18 +1,18 @@
 ---
-title: "Grant GILCHRIST | "
-name_en: "Grant GILCHRIST"
-name_ja: ""
+title: "nan | グラント ・ GILCHRIST"
+name_en: "nan"
+name_ja: "グラント ・ GILCHRIST"
 slug: "grant-gilchrist"
-position: "LO"
-height: "198.0"
-weight: "120.0"
-birth_date: "1990.08.09"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/grant-gilchrist"
 ---
 

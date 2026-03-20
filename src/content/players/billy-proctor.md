@@ -1,18 +1,18 @@
 ---
-title: "Billy PROCTOR | "
-name_en: "Billy PROCTOR"
-name_ja: ""
+title: "nan | ビリー-プロクター"
+name_en: "nan"
+name_ja: "ビリー-プロクター"
 slug: "billy-proctor"
-position: "CTB"
-height: "187.0"
-weight: "98.0"
-birth_date: "1999.05.14"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/billy-proctor"
 ---
 

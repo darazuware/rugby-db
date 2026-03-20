@@ -1,17 +1,17 @@
 ---
-title: "Angelo DAVIDS | "
-name_en: "Angelo DAVIDS"
-name_ja: ""
+title: "nan | Angelo ・ DAVIDS"
+name_en: "nan"
+name_ja: "Angelo ・ DAVIDS"
 slug: "angelo-davids"
-position: "Winger"
-height: "178.0"
-weight: "94.0"
-birth_date: "1999.06.01"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/angelo-davids"
 ---

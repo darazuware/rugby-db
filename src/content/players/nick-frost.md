@@ -1,17 +1,17 @@
 ---
-title: "Nick FROST | "
-name_en: "Nick FROST"
-name_ja: ""
+title: "nan | ニック・フロスト"
+name_en: "nan"
+name_ja: "ニック・フロスト"
 slug: "nick-frost"
-position: "LO"
-height: "206.0"
-weight: "120.0"
-birth_date: "1999.10.10"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nick-frost"
 ---

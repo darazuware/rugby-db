@@ -1,17 +1,17 @@
 ---
-title: "Iori BADHAM | "
-name_en: "Iori BADHAM"
-name_ja: ""
+title: "nan | Iori ・ BADHAM"
+name_en: "nan"
+name_ja: "Iori ・ BADHAM"
 slug: "iori-badham"
-position: "FB"
-height: "183.0"
-weight: "80.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iori-badham"
 ---

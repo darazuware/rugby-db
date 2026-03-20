@@ -1,18 +1,18 @@
 ---
-title: "Paul JEDRASIAK | "
-name_en: "Paul JEDRASIAK"
-name_ja: ""
+title: "nan | ポール・ジェドラジアク"
+name_en: "nan"
+name_ja: "ポール・ジェドラジアク"
 slug: "paul-jedrasiak"
-position: "LO"
-height: "200.0"
-weight: "121.0"
-birth_date: "1993.02.06"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paul-jedrasiak"
 ---
 

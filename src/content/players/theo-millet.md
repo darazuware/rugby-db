@@ -1,17 +1,17 @@
 ---
-title: "Théo MILLET | "
-name_en: "Théo MILLET"
-name_ja: ""
+title: "nan | テオ・ミレー"
+name_en: "nan"
+name_ja: "テオ・ミレー"
 slug: "theo-millet"
-position: "CTB"
-height: "189.0"
-weight: "99.0"
-birth_date: "1997.07.08"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/theo-millet"
 ---

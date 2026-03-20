@@ -1,18 +1,18 @@
 ---
-title: "Arthur VINCENT | "
-name_en: "Arthur VINCENT"
-name_ja: ""
+title: "nan | アルチュール-ヴァンサン"
+name_en: "nan"
+name_ja: "アルチュール-ヴァンサン"
 slug: "arthur-vincent"
-position: "CTB"
-height: "183.0"
-weight: "92.0"
-birth_date: "1999.09.30"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/arthur-vincent"
 ---
 

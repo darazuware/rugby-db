@@ -4,14 +4,14 @@ name_en: "Tevita TAMEILAU"
 name_ja: ""
 slug: "david-tameilau"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "22/01/1990"
+weight: "1"
 birth_date: ""
-age: 36
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "サンディエゴ・レギオン"
+team: "The San Diego Legion rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/david-tameilau"
 ---

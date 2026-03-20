@@ -1,17 +1,17 @@
 ---
-title: "Albert LINDNER | "
-name_en: "Albert LINDNER"
-name_ja: ""
+title: "nan | Albert ・ LINDNER"
+name_en: "nan"
+name_ja: "Albert ・ LINDNER"
 slug: "albert-lindner"
-position: "SH"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2006.."
-age: 20
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/albert-lindner"
 ---

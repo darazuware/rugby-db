@@ -1,17 +1,17 @@
 ---
-title: "Nicolas CORATO | "
-name_en: "Nicolas CORATO"
-name_ja: ""
+title: "nan | ニコラ・コラト"
+name_en: "nan"
+name_ja: "ニコラ・コラト"
 slug: "nicolas-corato"
-position: "PR"
-height: "184.0"
-weight: "123.0"
-birth_date: "1997.10.07"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nicolas-corato"
 ---

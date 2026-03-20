@@ -1,18 +1,18 @@
 ---
-title: "Judicaël CANCORIET | "
-name_en: "Judicaël CANCORIET"
-name_ja: ""
+title: "nan | ジュディカエル・カンコリエ"
+name_en: "nan"
+name_ja: "ジュディカエル・カンコリエ"
 slug: "judicael-cancoriet"
-position: "FL/NO8"
-height: "194.0"
-weight: "116.0"
-birth_date: "1996.04.25"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/judicael-cancoriet"
 ---
 

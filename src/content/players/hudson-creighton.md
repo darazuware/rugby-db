@@ -1,17 +1,17 @@
 ---
-title: "Hudson CREIGHTON | "
-name_en: "Hudson CREIGHTON"
-name_ja: ""
+title: "nan | ハドソン-クレイトン"
+name_en: "nan"
+name_ja: "ハドソン-クレイトン"
 slug: "hudson-creighton"
-position: "CTB"
-height: "182.0"
-weight: "90.0"
-birth_date: "2000.03.21"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hudson-creighton"
 ---

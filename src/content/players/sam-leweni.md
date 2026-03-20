@@ -1,17 +1,17 @@
 ---
-title: "Sam LEWENI | "
-name_en: "Sam LEWENI"
-name_ja: ""
+title: "nan | サム ・ LEWENI"
+name_en: "nan"
+name_ja: "サム ・ LEWENI"
 slug: "sam-leweni"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-leweni"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Antoine TICHIT | "
-name_en: "Antoine TICHIT"
-name_ja: ""
+title: "nan | アントワーヌ・ティシ"
+name_en: "nan"
+name_ja: "アントワーヌ・ティシ"
 slug: "antoine-tichit"
-position: "PR"
-height: "187.0"
-weight: "118.0"
-birth_date: "1989.06.13"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/antoine-tichit"
 ---

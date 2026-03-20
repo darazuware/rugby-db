@@ -1,18 +1,18 @@
 ---
-title: "Gaël FICKOU | "
-name_en: "Gaël FICKOU"
-name_ja: ""
+title: "nan | ガエル-フィクー"
+name_en: "nan"
+name_ja: "ガエル-フィクー"
 slug: "gael-fickou"
-position: "CTB"
-height: "190.0"
-weight: "100.0"
-birth_date: "1994.03.26"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gael-fickou"
 ---
 

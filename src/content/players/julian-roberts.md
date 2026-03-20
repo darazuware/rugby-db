@@ -4,14 +4,14 @@ name_en: "Julian ROBERTS"
 name_ja: ""
 slug: "julian-roberts"
 position: "Winger"
-height: "0"
-weight: "0"
+height: "11/05/2000"
+weight: "1"
 birth_date: ""
-age: 25
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "NOLAゴールド"
+team: "NOLA Gold rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/julian-roberts"
 ---

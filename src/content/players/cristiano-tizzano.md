@@ -1,17 +1,17 @@
 ---
-title: "Cristiano TIZZANO | "
-name_en: "Cristiano TIZZANO"
-name_ja: ""
+title: "nan | Cristiano ・ TIZZANO"
+name_en: "nan"
+name_ja: "Cristiano ・ TIZZANO"
 slug: "cristiano-tizzano"
-position: "SH"
-height: "174.0"
-weight: "80.0"
-birth_date: "2003.08.07"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cristiano-tizzano"
 ---

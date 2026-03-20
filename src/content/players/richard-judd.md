@@ -1,17 +1,17 @@
 ---
-title: "Richard JUDD | "
-name_en: "Richard JUDD"
-name_ja: ""
+title: "nan | リチャード・ジャッド"
+name_en: "nan"
+name_ja: "リチャード・ジャッド"
 slug: "richard-judd"
-position: "SH"
-height: "180.0"
-weight: "88.0"
-birth_date: "1992.05.18"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "サンディエゴ・レギオン"
+team: "The San Diego Legion rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/richard-judd"
 ---

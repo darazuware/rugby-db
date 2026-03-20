@@ -1,17 +1,17 @@
 ---
-title: "Leonel OVIEDO | "
-name_en: "Leonel OVIEDO"
-name_ja: ""
+title: "nan | レオネル・オビエド"
+name_en: "nan"
+name_ja: "レオネル・オビエド"
 slug: "leonel-oviedo"
-position: "HO"
-height: "186.0"
-weight: "118.0"
-birth_date: "1998.02.16"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leonel-oviedo"
 ---

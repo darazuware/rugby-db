@@ -1,17 +1,17 @@
 ---
-title: "Liam COOMBES-FABLING | "
-name_en: "Liam COOMBES-FABLING"
-name_ja: ""
+title: "nan | リアム・クームズ＝フェイブリング"
+name_en: "nan"
+name_ja: "リアム・クームズ＝フェイブリング"
 slug: "liam-coombes-fabling"
-position: "WTB"
-height: "180.0"
-weight: "86.0"
-birth_date: "1998.07.07"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-coombes-fabling"
 ---

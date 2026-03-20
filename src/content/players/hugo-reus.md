@@ -1,17 +1,17 @@
 ---
-title: "Hugo REUS | "
-name_en: "Hugo REUS"
-name_ja: ""
+title: "nan | ユーゴー-リュス"
+name_en: "nan"
+name_ja: "ユーゴー-リュス"
 slug: "hugo-reus"
-position: "SO"
-height: "184.0"
-weight: "85.0"
-birth_date: "2004.02.21"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hugo-reus"
 ---

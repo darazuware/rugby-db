@@ -1,17 +1,17 @@
 ---
-title: "Xavier RUBENS | "
-name_en: "Xavier RUBENS"
-name_ja: ""
+title: "nan | ザビエル-ルーベンス"
+name_en: "nan"
+name_ja: "ザビエル-ルーベンス"
 slug: "xavier-rubens"
-position: "CTB"
-height: "186.0"
-weight: "93.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-rubens"
 ---

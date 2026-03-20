@@ -1,17 +1,17 @@
 ---
-title: "Guido VOLPI | "
-name_en: "Guido VOLPI"
-name_ja: ""
+title: "nan | Guido ・ VOLPI"
+name_en: "nan"
+name_ja: "Guido ・ VOLPI"
 slug: "guido-volpi"
-position: "Back row"
-height: "193.0"
-weight: "112.0"
-birth_date: "1995.08.22"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/guido-volpi"
 ---

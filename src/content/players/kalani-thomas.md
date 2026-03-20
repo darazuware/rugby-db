@@ -1,17 +1,17 @@
 ---
-title: "Kalani THOMAS | "
-name_en: "Kalani THOMAS"
-name_ja: ""
+title: "nan | カラニ・トーマス"
+name_en: "nan"
+name_ja: "カラニ・トーマス"
 slug: "kalani-thomas"
-position: "SH"
-height: "178.0"
-weight: "91.0"
-birth_date: "2002.04.18"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kalani-thomas"
 ---

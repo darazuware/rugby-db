@@ -1,18 +1,18 @@
 ---
-title: "Angus BELL | "
-name_en: "Angus BELL"
-name_ja: ""
+title: "nan | Angus ・ BELL"
+name_en: "nan"
+name_ja: "Angus ・ BELL"
 slug: "angus-bell"
-position: "PR"
-height: "193.0"
-weight: "130.0"
-birth_date: "2000.10.04"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/angus-bell"
 ---
 

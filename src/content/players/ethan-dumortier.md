@@ -1,17 +1,17 @@
 ---
-title: "Ethan DUMORTIER | "
-name_en: "Ethan DUMORTIER"
-name_ja: ""
+title: "nan | イーサン-デュモルティエ"
+name_en: "nan"
+name_ja: "イーサン-デュモルティエ"
 slug: "ethan-dumortier"
-position: "WTB"
-height: "192.0"
-weight: "95.0"
-birth_date: "2000.12.29"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-dumortier"
 ---

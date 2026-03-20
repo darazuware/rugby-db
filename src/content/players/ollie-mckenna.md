@@ -1,17 +1,17 @@
 ---
-title: "Ollie MCKENNA | "
-name_en: "Ollie MCKENNA"
-name_ja: ""
+title: "nan | Ollie ・ MCKENNA"
+name_en: "nan"
+name_ja: "Ollie ・ MCKENNA"
 slug: "ollie-mckenna"
-position: "PR"
-height: "182.0"
-weight: "109.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ollie-mckenna"
 ---

@@ -4,14 +4,14 @@ name_en: "Setu VOLE"
 name_ja: ""
 slug: "vole-setu"
 position: "Prop"
-height: "0"
-weight: "0"
+height: "15/06/2001"
+weight: "1"
 birth_date: ""
-age: 24
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "マイアミ・シャークス"
+team: "The Miami Sharks rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/vole-setu"
 ---

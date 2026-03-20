@@ -1,18 +1,18 @@
 ---
-title: "Cobus REINACH | "
-name_en: "Cobus REINACH"
-name_ja: ""
+title: "nan | コーバス ・ レイナック"
+name_en: "nan"
+name_ja: "コーバス ・ レイナック"
 slug: "cobus-reinach"
-position: "SH"
-height: "175.0"
-weight: "85.0"
-birth_date: "1990.02.07"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/cobus-reinach"
 ---
 

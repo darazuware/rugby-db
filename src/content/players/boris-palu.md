@@ -1,18 +1,18 @@
 ---
-title: "Boris PALU | "
-name_en: "Boris PALU"
-name_ja: ""
+title: "nan | ボリス・パリュ"
+name_en: "nan"
+name_ja: "ボリス・パリュ"
 slug: "boris-palu"
-position: "LO"
-height: "194.0"
-weight: "113.0"
-birth_date: "1996.02.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/boris-palu"
 ---
 

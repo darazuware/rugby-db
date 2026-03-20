@@ -1,17 +1,17 @@
 ---
-title: "Matthias HADDAD | "
-name_en: "Matthias HADDAD"
-name_ja: ""
+title: "nan | マティアス・アダ"
+name_en: "nan"
+name_ja: "マティアス・アダ"
 slug: "matthias-haddad"
-position: "FL/NO8"
-height: "193.0"
-weight: "99.0"
-birth_date: "2001.03.10"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matthias-haddad"
 ---

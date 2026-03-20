@@ -1,17 +1,17 @@
 ---
-title: "Lubabalo DOBELA | "
-name_en: "Lubabalo DOBELA"
-name_ja: ""
+title: "nan | Lubabalo ・ DOBELA"
+name_en: "nan"
+name_ja: "Lubabalo ・ DOBELA"
 slug: "lubabalo-dobela"
-position: "SO"
-height: "175.0"
-weight: "80.0"
-birth_date: "1998.05.02"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---

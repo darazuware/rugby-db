@@ -1,17 +1,17 @@
 ---
-title: "Xavier NUMIA | "
-name_en: "Xavier NUMIA"
-name_ja: ""
+title: "nan | ザビエル・ヌミア"
+name_en: "nan"
+name_ja: "ザビエル・ヌミア"
 slug: "xavier-numia"
-position: "PR"
-height: "189.0"
-weight: "116.0"
-birth_date: "1998.11.29"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-numia"
 ---

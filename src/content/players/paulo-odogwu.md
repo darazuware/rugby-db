@@ -1,18 +1,18 @@
 ---
-title: "Paolo ODOGWU | "
-name_en: "Paolo ODOGWU"
-name_ja: ""
+title: "nan | Paolo ・ ODOGWU"
+name_en: "nan"
+name_ja: "Paolo ・ ODOGWU"
 slug: "paulo-odogwu"
-position: "Winger"
-height: "175.0"
-weight: "100.0"
-birth_date: "1997.02.18"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paulo-odogwu"
 ---
 

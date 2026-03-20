@@ -1,18 +1,18 @@
 ---
-title: "Kyren TAUMOEFOLAU | "
-name_en: "Kyren TAUMOEFOLAU"
-name_ja: ""
+title: "nan | カイレン・タウモエフォラウ"
+name_en: "nan"
+name_ja: "カイレン・タウモエフォラウ"
 slug: "kyren-taumoefolau"
-position: "WTB"
-height: "187.0"
-weight: "95.0"
-birth_date: "2003.05.08"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "Tonga"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kyren-taumoefolau"
 ---
 

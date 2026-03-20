@@ -1,17 +1,17 @@
 ---
-title: "Huw SUTTON | "
-name_en: "Huw SUTTON"
-name_ja: ""
+title: "nan | Huw ・ SUTTON"
+name_en: "nan"
+name_ja: "Huw ・ SUTTON"
 slug: "huw-sutton"
-position: "LO"
-height: "199.0"
-weight: "122.0"
-birth_date: "1999.11.17"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/huw-sutton"
 ---

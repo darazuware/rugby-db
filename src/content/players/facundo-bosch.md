@@ -1,18 +1,18 @@
 ---
-title: "Facundo BOSCH | "
-name_en: "Facundo BOSCH"
-name_ja: ""
+title: "nan | ファクンド-ボッシュ"
+name_en: "nan"
+name_ja: "ファクンド-ボッシュ"
 slug: "facundo-bosch"
-position: "HO"
-height: "180.0"
-weight: "102.0"
-birth_date: "1991.08.08"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/facundo-bosch"
 ---
 

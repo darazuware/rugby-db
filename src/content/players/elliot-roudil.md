@@ -1,17 +1,17 @@
 ---
-title: "Eliott ROUDIL | "
-name_en: "Eliott ROUDIL"
-name_ja: ""
+title: "nan | エリオット・ルディル"
+name_en: "nan"
+name_ja: "エリオット・ルディル"
 slug: "elliot-roudil"
-position: "CTB"
-height: "184.0"
-weight: "97.0"
-birth_date: "1996.10.30"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/elliot-roudil"
 ---

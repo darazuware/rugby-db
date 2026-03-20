@@ -1,17 +1,17 @@
 ---
-title: "George ROBERTS | "
-name_en: "George ROBERTS"
-name_ja: ""
+title: "nan | George ・ ROBERTS"
+name_en: "nan"
+name_ja: "George ・ ROBERTS"
 slug: "george-roberts"
-position: "HO"
-height: "183.0"
-weight: "105.0"
-birth_date: "1997.12.24"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/george-roberts"
 ---

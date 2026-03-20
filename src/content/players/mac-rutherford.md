@@ -1,17 +1,17 @@
 ---
-title: "Mac RUTHERFORD | "
-name_en: "Mac RUTHERFORD"
-name_ja: ""
+title: "nan | Mac ・ RUTHERFORD"
+name_en: "nan"
+name_ja: "Mac ・ RUTHERFORD"
 slug: "mac-rutherford"
-position: "LO"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mac-rutherford"
 ---

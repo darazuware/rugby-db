@@ -1,17 +1,17 @@
 ---
-title: "Kadin PRITCHARD | "
-name_en: "Kadin PRITCHARD"
-name_ja: ""
+title: "nan | ケイディン・プリチャード"
+name_en: "nan"
+name_ja: "ケイディン・プリチャード"
 slug: "kadin-pritchard"
-position: "CTB"
-height: "191.0"
-weight: "96.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kadin-pritchard"
 ---

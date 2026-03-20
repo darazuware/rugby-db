@@ -1,18 +1,18 @@
 ---
-title: "Owen WATKIN | "
-name_en: "Owen WATKIN"
-name_ja: ""
+title: "nan | Owen ・ WATKIN"
+name_en: "nan"
+name_ja: "Owen ・ WATKIN"
 slug: "owen-watkin"
-position: "CTB"
-height: "188.0"
-weight: "112.0"
-birth_date: "1996.10.12"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/owen-watkin"
 ---
 

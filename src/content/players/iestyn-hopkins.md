@@ -1,17 +1,17 @@
 ---
-title: "Iestyn HOPKINS | "
-name_en: "Iestyn HOPKINS"
-name_ja: ""
+title: "nan | Iestyn ・ HOPKINS"
+name_en: "nan"
+name_ja: "Iestyn ・ HOPKINS"
 slug: "iestyn-hopkins"
-position: "FB"
-height: "175.0"
-weight: "88.0"
-birth_date: "2002.04.04"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iestyn-hopkins"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Ross MORIARTY | "
-name_en: "Ross MORIARTY"
-name_ja: ""
+title: "nan | ロス ・ MORIARTY"
+name_en: "nan"
+name_ja: "ロス ・ MORIARTY"
 slug: "ross-moriarty"
-position: "Back row"
-height: "188.0"
-weight: "108.0"
-birth_date: "1994.04.18"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ross-moriarty"
 ---
 

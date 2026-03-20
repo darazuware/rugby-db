@@ -1,18 +1,18 @@
 ---
-title: "Paul BOUDEHENT | "
-name_en: "Paul BOUDEHENT"
-name_ja: ""
+title: "nan | ポール・ブデアン"
+name_en: "nan"
+name_ja: "ポール・ブデアン"
 slug: "paul-boudehent"
-position: "FL/NO8"
-height: "192.0"
-weight: "107.0"
-birth_date: "1999.11.21"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paul-boudehent"
 ---
 

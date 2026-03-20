@@ -1,17 +1,17 @@
 ---
-title: "Hassiem PEAD | "
-name_en: "Hassiem PEAD"
-name_ja: ""
+title: "nan | Hassiem ・ PEAD"
+name_en: "nan"
+name_ja: "Hassiem ・ PEAD"
 slug: "hassiem-pead"
-position: "SH"
-height: "175.0"
-weight: "77.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hassiem-pead"
 ---

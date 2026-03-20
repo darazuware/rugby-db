@@ -1,17 +1,17 @@
 ---
-title: "Hakeem KUNENE | "
-name_en: "Hakeem KUNENE"
-name_ja: ""
+title: "nan | Hakeem ・ KUNENE"
+name_en: "nan"
+name_ja: "Hakeem ・ KUNENE"
 slug: "hakeem-kunene"
-position: "FB"
-height: "183.0"
-weight: "90.0"
-birth_date: "2003.02.03"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hakeem-kunene"
 ---

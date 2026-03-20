@@ -1,17 +1,17 @@
 ---
-title: "Henry WIDDOWSON | "
-name_en: "Henry WIDDOWSON"
-name_ja: ""
+title: "nan | Henry ・ WIDDOWSON"
+name_en: "nan"
+name_ja: "Henry ・ WIDDOWSON"
 slug: "henry-widdowson"
-position: "FB"
-height: "188.0"
-weight: "90.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-widdowson"
 ---

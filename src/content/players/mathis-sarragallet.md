@@ -1,17 +1,17 @@
 ---
-title: "Mathis SARRAGALLET | "
-name_en: "Mathis SARRAGALLET"
-name_ja: ""
+title: "nan | マティス・サラガレ"
+name_en: "nan"
+name_ja: "マティス・サラガレ"
 slug: "mathis-sarragallet"
-position: "HO"
-height: "177.0"
-weight: "109.0"
-birth_date: "2000.07.06"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mathis-sarragallet"
 ---

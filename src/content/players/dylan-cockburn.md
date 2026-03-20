@@ -1,17 +1,17 @@
 ---
-title: "Dylan COCKBURN | "
-name_en: "Dylan COCKBURN"
-name_ja: ""
+title: "nan | Dylan ・ COCKBURN"
+name_en: "nan"
+name_ja: "Dylan ・ COCKBURN"
 slug: "dylan-cockburn"
-position: "LO"
-height: "195.0"
-weight: "112.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-cockburn"
 ---

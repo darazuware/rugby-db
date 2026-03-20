@@ -1,17 +1,17 @@
 ---
-title: "Fletcher ANDERSON | "
-name_en: "Fletcher ANDERSON"
-name_ja: ""
+title: "nan | Fletcher ・ ANDERSON"
+name_en: "nan"
+name_ja: "Fletcher ・ ANDERSON"
 slug: "fletcher-anderson"
-position: "Back row"
-height: "187.0"
-weight: "109.0"
-birth_date: "2002.12.27"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/fletcher-anderson"
 ---

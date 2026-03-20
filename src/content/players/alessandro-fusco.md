@@ -1,17 +1,17 @@
 ---
-title: "Alessandro FUSCO | "
-name_en: "Alessandro FUSCO"
-name_ja: ""
+title: "nan | Alessandro ・ FUSCO"
+name_en: "nan"
+name_ja: "Alessandro ・ FUSCO"
 slug: "alessandro-fusco"
-position: "SH"
-height: "185.0"
-weight: "91.0"
-birth_date: "1999.10.28"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alessandro-fusco"
 ---

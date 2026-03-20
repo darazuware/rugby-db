@@ -1,17 +1,17 @@
 ---
-title: "Joel SCLAVI | "
-name_en: "Joel SCLAVI"
-name_ja: ""
+title: "nan | ジョエル・スクラヴィ"
+name_en: "nan"
+name_ja: "ジョエル・スクラヴィ"
 slug: "joel-sclavi"
-position: "PR"
-height: "190.0"
-weight: "139.0"
-birth_date: "1994.06.25"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joel-sclavi"
 ---

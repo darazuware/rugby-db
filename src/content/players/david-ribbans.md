@@ -1,18 +1,18 @@
 ---
-title: "David RIBBANS | "
-name_en: "David RIBBANS"
-name_ja: ""
+title: "nan | デイヴィッド-リバンズ"
+name_en: "nan"
+name_ja: "デイヴィッド-リバンズ"
 slug: "david-ribbans"
-position: "LO"
-height: "202.0"
-weight: "121.0"
-birth_date: "1995.08.29"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/david-ribbans"
 ---
 

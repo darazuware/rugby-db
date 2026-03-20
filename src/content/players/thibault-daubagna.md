@@ -1,18 +1,18 @@
 ---
-title: "Thibault DAUBAGNA | "
-name_en: "Thibault DAUBAGNA"
-name_ja: ""
+title: "nan | ティボー・ドーバニャ"
+name_en: "nan"
+name_ja: "ティボー・ドーバニャ"
 slug: "thibault-daubagna"
-position: "SH"
-height: "177.0"
-weight: "83.0"
-birth_date: "1994.05.20"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/thibault-daubagna"
 ---
 

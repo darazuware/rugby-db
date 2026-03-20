@@ -1,18 +1,18 @@
 ---
-title: "Tyler DUGUID | "
-name_en: "Tyler DUGUID"
-name_ja: ""
+title: "nan | タイラー・デュグッド"
+name_en: "nan"
+name_ja: "タイラー・デュグッド"
 slug: "tyler-duguid"
-position: "LO"
-height: "200.0"
-weight: "124.0"
-birth_date: "2000.10.17"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Canada"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tyler-duguid"
 ---
 

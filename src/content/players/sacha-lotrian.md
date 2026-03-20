@@ -1,17 +1,17 @@
 ---
-title: "Sacha LOTRIAN | "
-name_en: "Sacha LOTRIAN"
-name_ja: ""
+title: "nan | サシャ・ロトリアン"
+name_en: "nan"
+name_ja: "サシャ・ロトリアン"
 slug: "sacha-lotrian"
-position: "PR"
-height: "180.0"
-weight: "106.0"
-birth_date: "2000.08.13"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sacha-lotrian"
 ---

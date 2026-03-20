@@ -1,17 +1,17 @@
 ---
-title: "Alessandro ORTOMBINA | "
-name_en: "Alessandro ORTOMBINA"
-name_ja: ""
+title: "nan | Alessandro ・ ORTOMBINA"
+name_en: "nan"
+name_ja: "Alessandro ・ ORTOMBINA"
 slug: "alessandro-ortombina"
-position: "LO"
-height: "196.0"
-weight: "114.0"
-birth_date: "2002.10.05"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alessandro-ortombina"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Jiuta WAINIQOLO | "
-name_en: "Jiuta WAINIQOLO"
-name_ja: ""
+title: "nan | ジュタ・ワイニコロ"
+name_en: "nan"
+name_ja: "ジュタ・ワイニコロ"
 slug: "jiuta-wainiqolo"
-position: "WTB"
-height: "187.0"
-weight: "97.0"
-birth_date: "1999.03.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jiuta-wainiqolo"
 ---

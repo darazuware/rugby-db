@@ -1,18 +1,18 @@
 ---
-title: "Jimi MAXIMIN | "
-name_en: "Jimi MAXIMIN"
-name_ja: ""
+title: "nan | ジミ・マクシミン"
+name_en: "nan"
+name_ja: "ジミ・マクシミン"
 slug: "jimi-maximin"
-position: "LO"
-height: "204.0"
-weight: "133.0"
-birth_date: "1999.04.03"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jimi-maximin"
 ---
 

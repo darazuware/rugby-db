@@ -1,18 +1,18 @@
 ---
-title: "Niall SCANNELL | "
-name_en: "Niall SCANNELL"
-name_ja: ""
+title: "nan | ナイル ・ SCANNELL"
+name_en: "nan"
+name_ja: "ナイル ・ SCANNELL"
 slug: "niall-scannell"
-position: "HO"
-height: "185.0"
-weight: "111.0"
-birth_date: "1992.04.08"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
-caps: "Ireland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/niall-scannell"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Nikolaj VAROTTO | "
-name_en: "Nikolaj VAROTTO"
-name_ja: ""
+title: "nan | Nikolaj ・ VAROTTO"
+name_en: "nan"
+name_ja: "Nikolaj ・ VAROTTO"
 slug: "nikolaj-varotto"
-position: "SH"
-height: "170.0"
-weight: "80.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nikolaj-varotto"
 ---

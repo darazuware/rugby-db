@@ -1,18 +1,18 @@
 ---
-title: "Allan ALAALATOA | "
-name_en: "Allan ALAALATOA"
-name_ja: ""
+title: "nan | アラン-アラアラトア"
+name_en: "nan"
+name_ja: "アラン-アラアラトア"
 slug: "allan-alaalatoa"
-position: "PR"
-height: "182.0"
-weight: "120.0"
-birth_date: "1994.01.28"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/allan-alaalatoa"
 ---
 

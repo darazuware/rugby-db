@@ -1,17 +1,17 @@
 ---
-title: "Rory MCHAFFIE | "
-name_en: "Rory MCHAFFIE"
-name_ja: ""
+title: "nan | Rory ・ MCHAFFIE"
+name_en: "nan"
+name_ja: "Rory ・ MCHAFFIE"
 slug: "rory-mchaffie"
-position: "FB"
-height: "185.0"
-weight: "96.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rory-mchaffie"
 ---

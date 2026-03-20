@@ -1,17 +1,17 @@
 ---
-title: "Tom STEWART | "
-name_en: "Tom STEWART"
-name_ja: ""
+title: "nan | トム ・ STEWART"
+name_en: "nan"
+name_ja: "トム ・ STEWART"
 slug: "tom-stewart"
-position: "HO"
-height: "183.0"
-weight: "105.0"
-birth_date: "2001.01.11"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-stewart"
 ---

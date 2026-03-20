@@ -1,17 +1,17 @@
 ---
-title: "Hamza KAABÈCHE | "
-name_en: "Hamza KAABÈCHE"
-name_ja: ""
+title: "nan | ハムザ・カベシュ"
+name_en: "nan"
+name_ja: "ハムザ・カベシュ"
 slug: "hamza-kaabeche"
-position: "PR"
-height: "189.0"
-weight: "118.0"
-birth_date: "1996.09.23"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/hamza-kaabeche"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Juan Martin SCELZO | "
-name_en: "Juan Martin SCELZO"
-name_ja: ""
+title: "nan | フアン・マルティン・セルソ"
+name_en: "nan"
+name_ja: "フアン・マルティン・セルソ"
 slug: "juan-martin-scelzo"
-position: "FL/NO8"
-height: "192.0"
-weight: "110.0"
-birth_date: "2002.02.12"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/juan-martin-scelzo"
 ---
 

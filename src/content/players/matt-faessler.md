@@ -1,17 +1,17 @@
 ---
-title: "Matt FAESSLER | "
-name_en: "Matt FAESSLER"
-name_ja: ""
+title: "nan | マット・フェスラー"
+name_en: "nan"
+name_ja: "マット・フェスラー"
 slug: "matt-faessler"
-position: "HO"
-height: "183.0"
-weight: "109.0"
-birth_date: "1998.12.21"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matt-faessler"
 ---

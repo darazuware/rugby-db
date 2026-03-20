@@ -1,18 +1,18 @@
 ---
-title: "Tyler ARDRON | "
-name_en: "Tyler ARDRON"
-name_ja: ""
+title: "nan | タイラー・アードロン"
+name_en: "nan"
+name_ja: "タイラー・アードロン"
 slug: "tyler-ardron"
-position: "FL/NO8"
-height: "197.0"
-weight: "112.0"
-birth_date: "1991.06.16"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
-caps: "Canada"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tyler-ardron"
 ---
 

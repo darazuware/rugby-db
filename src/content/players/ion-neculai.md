@@ -1,17 +1,17 @@
 ---
-title: "Ion NECULAI | "
-name_en: "Ion NECULAI"
-name_ja: ""
+title: "nan | Ion ・ NECULAI"
+name_en: "nan"
+name_ja: "Ion ・ NECULAI"
 slug: "ion-neculai"
-position: "PR"
-height: "189.0"
-weight: "135.0"
-birth_date: "2001.01.25"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ion-neculai"
 ---

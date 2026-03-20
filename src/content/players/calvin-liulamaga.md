@@ -4,14 +4,14 @@ name_en: "Calvin LIULAMAGA"
 name_ja: ""
 slug: "calvin-liulamaga"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "07/03/2001"
+weight: "1"
 birth_date: ""
-age: 25
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/calvin-liulamaga"
 ---

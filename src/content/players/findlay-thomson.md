@@ -1,17 +1,17 @@
 ---
-title: "Findlay THOMSON | "
-name_en: "Findlay THOMSON"
-name_ja: ""
+title: "nan | Findlay ・ THOMSON"
+name_en: "nan"
+name_ja: "Findlay ・ THOMSON"
 slug: "findlay-thomson"
-position: "CTB"
-height: "190.0"
-weight: "97.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/findlay-thomson"
 ---

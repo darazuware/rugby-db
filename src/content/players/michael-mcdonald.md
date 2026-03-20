@@ -1,17 +1,17 @@
 ---
-title: "Michael MCDONALD | "
-name_en: "Michael MCDONALD"
-name_ja: ""
+title: "nan | マイケル・マクドナルド"
+name_en: "nan"
+name_ja: "マイケル・マクドナルド"
 slug: "michael-mcdonald"
-position: "SH"
-height: "178.0"
-weight: "85.0"
-birth_date: "1999.06.24"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-mcdonald"
 ---

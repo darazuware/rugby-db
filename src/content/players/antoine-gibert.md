@@ -1,17 +1,17 @@
 ---
-title: "Antoine GIBERT | "
-name_en: "Antoine GIBERT"
-name_ja: ""
+title: "nan | アントワーヌ・ジベール"
+name_en: "nan"
+name_ja: "アントワーヌ・ジベール"
 slug: "antoine-gibert"
-position: "SO"
-height: "177.0"
-weight: "76.0"
-birth_date: "1997.12.31"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/antoine-gibert"
 ---

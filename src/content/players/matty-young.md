@@ -1,17 +1,17 @@
 ---
-title: "Matty YOUNG | "
-name_en: "Matty YOUNG"
-name_ja: ""
+title: "nan | Matty ・ YOUNG"
+name_en: "nan"
+name_ja: "Matty ・ YOUNG"
 slug: "matty-young"
-position: "FB"
-height: "183.0"
-weight: "82.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matty-young"
 ---

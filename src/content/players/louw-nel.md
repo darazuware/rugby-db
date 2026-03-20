@@ -1,17 +1,17 @@
 ---
-title: "Louw NEL | "
-name_en: "Louw NEL"
-name_ja: ""
+title: "nan | Louw ・ NEL"
+name_en: "nan"
+name_ja: "Louw ・ NEL"
 slug: "louw-nel"
-position: "Back row"
-height: "190.0"
-weight: "107.0"
-birth_date: "2002.08.09"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/louw-nel"
 ---

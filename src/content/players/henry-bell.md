@@ -1,17 +1,17 @@
 ---
-title: "Henry BELL | "
-name_en: "Henry BELL"
-name_ja: ""
+title: "nan | ヘンリー-ベル"
+name_en: "nan"
+name_ja: "ヘンリー-ベル"
 slug: "henry-bell"
-position: "HO"
-height: "178.0"
-weight: "107.0"
-birth_date: "1999.08.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-bell"
 ---

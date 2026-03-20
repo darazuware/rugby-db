@@ -1,17 +1,17 @@
 ---
-title: "Peniasi DAKUWAQA | "
-name_en: "Peniasi DAKUWAQA"
-name_ja: ""
+title: "nan | ペニアシ・ダクワガ"
+name_en: "nan"
+name_ja: "ペニアシ・ダクワガ"
 slug: "peniasi-dakuwaqa"
-position: "WTB"
-height: "186.0"
-weight: "95.0"
-birth_date: "1997.04.09"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/peniasi-dakuwaqa"
 ---

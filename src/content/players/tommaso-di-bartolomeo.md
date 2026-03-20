@@ -1,17 +1,17 @@
 ---
-title: "Tommaso DI BARTOLOMEO | "
-name_en: "Tommaso DI BARTOLOMEO"
-name_ja: ""
+title: "nan | Tommaso ・ DI ・ BARTOLOMEO"
+name_en: "nan"
+name_ja: "Tommaso ・ DI ・ BARTOLOMEO"
 slug: "tommaso-di-bartolomeo"
-position: "HO"
-height: "180.0"
-weight: "107.0"
-birth_date: "2001.01.04"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tommaso-di-bartolomeo"
 ---

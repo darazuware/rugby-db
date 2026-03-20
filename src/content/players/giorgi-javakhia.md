@@ -1,18 +1,18 @@
 ---
-title: "Giorgi JAVAKHIA | "
-name_en: "Giorgi JAVAKHIA"
-name_ja: ""
+title: "nan | ギオルギ・ジャヴァヒア"
+name_en: "nan"
+name_ja: "ギオルギ・ジャヴァヒア"
 slug: "giorgi-javakhia"
-position: "LO"
-height: "194.0"
-weight: "124.0"
-birth_date: "1996.09.24"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/giorgi-javakhia"
 ---
 

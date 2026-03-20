@@ -1,18 +1,18 @@
 ---
-title: "Huw JONES | "
-name_en: "Huw JONES"
-name_ja: ""
+title: "nan | Huw ・ JONES"
+name_en: "nan"
+name_ja: "Huw ・ JONES"
 slug: "huw-jones"
-position: "CTB"
-height: "186.0"
-weight: "102.0"
-birth_date: "1993.12.17"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/huw-jones"
 ---
 

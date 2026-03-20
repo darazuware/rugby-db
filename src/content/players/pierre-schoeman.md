@@ -1,18 +1,18 @@
 ---
-title: "Pierre SCHOEMAN | "
-name_en: "Pierre SCHOEMAN"
-name_ja: ""
+title: "nan | Pierre ・ SCHOEMAN"
+name_en: "nan"
+name_ja: "Pierre ・ SCHOEMAN"
 slug: "pierre-schoeman"
-position: "PR"
-height: "184.0"
-weight: "118.0"
-birth_date: "1994.05.07"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/pierre-schoeman"
 ---
 

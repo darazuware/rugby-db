@@ -1,18 +1,18 @@
 ---
-title: "Tumua MANU | "
-name_en: "Tumua MANU"
-name_ja: ""
+title: "nan | トゥムア・マヌ"
+name_en: "nan"
+name_ja: "トゥムア・マヌ"
 slug: "tumua-manu"
-position: "CTB"
-height: "183.0"
-weight: "97.0"
-birth_date: "1993.04.18"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tumua-manu"
 ---
 

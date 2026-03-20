@@ -1,17 +1,17 @@
 ---
-title: "Devan FLANDERS | "
-name_en: "Devan FLANDERS"
-name_ja: ""
+title: "nan | デヴァン-フランダース"
+name_en: "nan"
+name_ja: "デヴァン-フランダース"
 slug: "devan-flanders"
-position: "FL/No8"
-height: "193.0"
-weight: "108.0"
-birth_date: "1999.07.20"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/devan-flanders"
 ---

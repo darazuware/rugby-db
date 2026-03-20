@@ -1,17 +1,17 @@
 ---
-title: "Iwan STEPHENS | "
-name_en: "Iwan STEPHENS"
-name_ja: ""
+title: "nan | Iwan ・ STEPHENS"
+name_en: "nan"
+name_ja: "Iwan ・ STEPHENS"
 slug: "iwan-stephens"
-position: "Winger"
-height: "170.0"
-weight: "83.0"
-birth_date: "2002.03.24"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iwan-stephens"
 ---

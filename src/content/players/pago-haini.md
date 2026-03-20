@@ -4,14 +4,14 @@ name_en: "Pago HAINI"
 name_ja: ""
 slug: "pago-haini"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "16/12/1991"
+weight: "1"
 birth_date: ""
-age: 34
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/pago-haini"
 ---

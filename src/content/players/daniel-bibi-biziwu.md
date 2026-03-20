@@ -1,17 +1,17 @@
 ---
-title: "Daniel BIBI BIZIWU | "
-name_en: "Daniel BIBI BIZIWU"
-name_ja: ""
+title: "nan | ダニエル・ビビ・ビジウ"
+name_en: "nan"
+name_ja: "ダニエル・ビビ・ビジウ"
 slug: "daniel-bibi-biziwu"
-position: "PR"
-height: "183.0"
-weight: "119.0"
-birth_date: "2001.08.29"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-bibi-biziwu"
 ---

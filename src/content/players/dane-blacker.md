@@ -1,17 +1,17 @@
 ---
-title: "Dane BLACKER | "
-name_en: "Dane BLACKER"
-name_ja: ""
+title: "nan | Dane ・ BLACKER"
+name_en: "nan"
+name_ja: "Dane ・ BLACKER"
 slug: "dane-blacker"
-position: "SH"
-height: "178.0"
-weight: "78.0"
-birth_date: "1998.07.06"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dane-blacker"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Tomás LAVANINI | "
-name_en: "Tomás LAVANINI"
-name_ja: ""
+title: "nan | トマス・ラヴァニーニ"
+name_en: "nan"
+name_ja: "トマス・ラヴァニーニ"
 slug: "tomas-lavanini"
-position: "LO"
-height: "200.0"
-weight: "127.0"
-birth_date: "1993.01.22"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "Argentina"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tomas-lavanini"
 ---
 

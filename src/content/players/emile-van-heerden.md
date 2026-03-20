@@ -1,17 +1,17 @@
 ---
-title: "Emile VAN HEERDEN | "
-name_en: "Emile VAN HEERDEN"
-name_ja: ""
+title: "nan | Emile ・ ファン ・ HEERDEN"
+name_en: "nan"
+name_ja: "Emile ・ ファン ・ HEERDEN"
 slug: "emile-van-heerden"
-position: "LO"
-height: "200.0"
-weight: "110.0"
-birth_date: "2000.08.08"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/emile-van-heerden"
 ---

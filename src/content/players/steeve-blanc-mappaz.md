@@ -1,17 +1,17 @@
 ---
-title: "Steeve BLANC-MAPPAZ | "
-name_en: "Steeve BLANC-MAPPAZ"
-name_ja: ""
+title: "nan | スティーヴ・ブラン＝マパズ"
+name_en: "nan"
+name_ja: "スティーヴ・ブラン＝マパズ"
 slug: "steeve-blanc-mappaz"
-position: "FL/NO8"
-height: "190.0"
-weight: "103.0"
-birth_date: "1990.07.02"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/steeve-blanc-mappaz"
 ---

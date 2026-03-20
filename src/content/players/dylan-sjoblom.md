@@ -1,17 +1,17 @@
 ---
-title: "Dylan SJOBLOM | "
-name_en: "Dylan SJOBLOM"
-name_ja: ""
+title: "nan | Dylan ・ SJOBLOM"
+name_en: "nan"
+name_ja: "Dylan ・ SJOBLOM"
 slug: "dylan-sjoblom"
-position: "LO"
-height: "200.0"
-weight: "115.0"
-birth_date: "2000.08.08"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-sjoblom"
 ---

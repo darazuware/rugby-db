@@ -1,18 +1,18 @@
 ---
-title: "Federico MORI | "
-name_en: "Federico MORI"
-name_ja: ""
+title: "nan | フェデリコ-モーリ"
+name_en: "nan"
+name_ja: "フェデリコ-モーリ"
 slug: "federico-mori"
-position: "CTB"
-height: "188.0"
-weight: "108.0"
-birth_date: "2000.10.13"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/federico-mori"
 ---
 

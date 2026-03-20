@@ -1,17 +1,17 @@
 ---
-title: "Johan MULDER | "
-name_en: "Johan MULDER"
-name_ja: ""
+title: "nan | Johan ・ MULDER"
+name_en: "nan"
+name_ja: "Johan ・ MULDER"
 slug: "johan-mulder"
-position: "SH"
-height: "176.0"
-weight: "85.0"
-birth_date: "1999.08.06"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/johan-mulder"
 ---

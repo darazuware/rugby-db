@@ -1,18 +1,18 @@
 ---
-title: "Émilien GAILLETON | "
-name_en: "Émilien GAILLETON"
-name_ja: ""
+title: "nan | エミリオン・ガイユトン"
+name_en: "nan"
+name_ja: "エミリオン・ガイユトン"
 slug: "emilien-gailleton"
-position: "CTB"
-height: "185.0"
-weight: "89.0"
-birth_date: "2003.07.13"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/emilien-gailleton"
 ---
 

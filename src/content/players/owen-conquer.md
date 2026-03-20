@@ -1,17 +1,17 @@
 ---
-title: "Owen CONQUER | "
-name_en: "Owen CONQUER"
-name_ja: ""
+title: "nan | Owen ・ CONQUER"
+name_en: "nan"
+name_ja: "Owen ・ CONQUER"
 slug: "owen-conquer"
-position: "Back row"
-height: "191.0"
-weight: "114.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/owen-conquer"
 ---

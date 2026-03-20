@@ -1,9 +1,9 @@
 ---
-title: "Treyvon PRITCHARD | "
-name_en: "Treyvon PRITCHARD"
-name_ja: ""
+title: "nan | トレイヴォン・プリチャード"
+name_en: "nan"
+name_ja: "トレイヴォン・プリチャード"
 slug: "treyvon-pritchard"
-position: "FB"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
@@ -11,7 +11,7 @@ age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/treyvon-pritchard"
 ---

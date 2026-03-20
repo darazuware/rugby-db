@@ -1,18 +1,18 @@
 ---
-title: "Tom YOUNG | "
-name_en: "Tom YOUNG"
-name_ja: ""
+title: "nan | トム ・ YOUNG"
+name_en: "nan"
+name_ja: "トム ・ YOUNG"
 slug: "tom-young"
-position: "Back row"
-height: "181.0"
-weight: "104.0"
-birth_date: "1992.05.18"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tom-young"
 ---
 

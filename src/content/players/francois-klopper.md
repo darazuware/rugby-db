@@ -1,17 +1,17 @@
 ---
-title: "François KLOPPER | "
-name_en: "François KLOPPER"
-name_ja: ""
+title: "nan | Fran ・ KLOPPER"
+name_en: "nan"
+name_ja: "Fran ・ KLOPPER"
 slug: "francois-klopper"
-position: "PR"
-height: "189.0"
-weight: "130.0"
-birth_date: "1999.09.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/francois-klopper"
 ---

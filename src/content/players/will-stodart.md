@@ -1,17 +1,17 @@
 ---
-title: "Will STODART | "
-name_en: "Will STODART"
-name_ja: ""
+title: "nan | ウィル・ストダート"
+name_en: "nan"
+name_ja: "ウィル・ストダート"
 slug: "will-stodart"
-position: "LO"
-height: "197.0"
-weight: "116.0"
-birth_date: "2003.10.03"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/will-stodart"
 ---

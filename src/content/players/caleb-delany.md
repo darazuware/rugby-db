@@ -1,17 +1,17 @@
 ---
-title: "Caleb DELANY | "
-name_en: "Caleb DELANY"
-name_ja: ""
+title: "nan | ケイレブ・デラニー"
+name_en: "nan"
+name_ja: "ケイレブ・デラニー"
 slug: "caleb-delany"
-position: "LO"
-height: "197.0"
-weight: "115.0"
-birth_date: "2000.02.04"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/caleb-delany"
 ---

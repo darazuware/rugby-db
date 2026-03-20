@@ -1,17 +1,17 @@
 ---
-title: "Seb LOMBARD | "
-name_en: "Seb LOMBARD"
-name_ja: ""
+title: "nan | Seb ・ LOMBARD"
+name_en: "nan"
+name_ja: "Seb ・ LOMBARD"
 slug: "seb-lombard"
-position: "PR"
-height: "190.0"
-weight: "126.0"
-birth_date: "2002.10.07"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/seb-lombard"
 ---

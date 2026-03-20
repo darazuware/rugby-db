@@ -1,17 +1,17 @@
 ---
-title: "Matt DAVIDSON | "
-name_en: "Matt DAVIDSON"
-name_ja: ""
+title: "nan | Matt ・ DAVIDSON"
+name_en: "nan"
+name_ja: "Matt ・ DAVIDSON"
 slug: "matt-davidson"
-position: "FB"
-height: "190.0"
-weight: "87.0"
-birth_date: "1999.11.06"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matt-davidson"
 ---

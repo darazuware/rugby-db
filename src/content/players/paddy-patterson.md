@@ -1,17 +1,17 @@
 ---
-title: "Paddy PATTERSON | "
-name_en: "Paddy PATTERSON"
-name_ja: ""
+title: "nan | Paddy ・ PATTERSON"
+name_en: "nan"
+name_ja: "Paddy ・ PATTERSON"
 slug: "paddy-patterson"
-position: "SH"
-height: "175.0"
-weight: "75.0"
-birth_date: "1998.11.30"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/paddy-patterson"
 ---

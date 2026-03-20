@@ -1,17 +1,17 @@
 ---
-title: "Marin BOULIER | "
-name_en: "Marin BOULIER"
-name_ja: ""
+title: "nan | マラン・ブーリエ"
+name_en: "nan"
+name_ja: "マラン・ブーリエ"
 slug: "marin-boulier"
-position: "CTB"
-height: "180.0"
-weight: "95.0"
-birth_date: "2003.08.21"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marin-boulier"
 ---

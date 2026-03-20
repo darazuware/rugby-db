@@ -1,18 +1,18 @@
 ---
-title: "James BOTHAM | "
-name_en: "James BOTHAM"
-name_ja: ""
+title: "nan | ジェームズ ・ BOTHAM"
+name_en: "nan"
+name_ja: "ジェームズ ・ BOTHAM"
 slug: "james-botham"
-position: "Back row"
-height: "191.0"
-weight: "108.0"
-birth_date: "1998.02.22"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/james-botham"
 ---
 

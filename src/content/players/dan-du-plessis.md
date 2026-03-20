@@ -1,17 +1,17 @@
 ---
-title: "Dan DU PLESSIS | "
-name_en: "Dan DU PLESSIS"
-name_ja: ""
+title: "nan | ダン ・ デュ ・ PLESSIS"
+name_en: "nan"
+name_ja: "ダン ・ デュ ・ PLESSIS"
 slug: "dan-du-plessis"
-position: "CTB"
-height: "190.0"
-weight: "103.0"
-birth_date: "1994.02.15"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-du-plessis"
 ---

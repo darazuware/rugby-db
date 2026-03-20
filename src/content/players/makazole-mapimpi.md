@@ -1,18 +1,18 @@
 ---
-title: "Makazole MAPIMPI | "
-name_en: "Makazole MAPIMPI"
-name_ja: ""
+title: "nan | マカゾレ ・ マピンピ"
+name_en: "nan"
+name_ja: "マカゾレ ・ マピンピ"
 slug: "makazole-mapimpi"
-position: "Winger"
-height: "184.0"
-weight: "92.0"
-birth_date: "1990.07.26"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/makazole-mapimpi"
 ---
 

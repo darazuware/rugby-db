@@ -1,17 +1,17 @@
 ---
-title: "Tristan DAVIES | "
-name_en: "Tristan DAVIES"
-name_ja: ""
+title: "nan | Tristan ・ DAVIES"
+name_en: "nan"
+name_ja: "Tristan ・ DAVIES"
 slug: "tristan-davies"
-position: "Back row"
-height: "193.0"
-weight: "104.0"
-birth_date: "2001.09.30"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tristan-davies"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Canan MOODIE | "
-name_en: "Canan MOODIE"
-name_ja: ""
+title: "nan | Canan ・ MOODIE"
+name_en: "nan"
+name_ja: "Canan ・ MOODIE"
 slug: "canan-moodie"
-position: "Winger"
-height: "191.0"
-weight: "94.0"
-birth_date: "2002.11.05"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/canan-moodie"
 ---

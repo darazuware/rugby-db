@@ -1,18 +1,18 @@
 ---
-title: "Lino JULIEN | "
-name_en: "Lino JULIEN"
-name_ja: ""
+title: "nan | リノ・ジュリアン"
+name_en: "nan"
+name_ja: "リノ・ジュリアン"
 slug: "lino-julien"
-position: "PR"
-height: "186.0"
-weight: "111.0"
-birth_date: "//2004"
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lino-julien"
 ---
 

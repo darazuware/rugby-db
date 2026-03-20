@@ -1,18 +1,18 @@
 ---
-title: "Jan SERFONTEIN | "
-name_en: "Jan SERFONTEIN"
-name_ja: ""
+title: "nan | Jan ・ SERFONTEIN"
+name_en: "nan"
+name_ja: "Jan ・ SERFONTEIN"
 slug: "jan-serfontein"
-position: "CTB"
-height: "187.0"
-weight: "97.0"
-birth_date: "1993.04.15"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jan-serfontein"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Lington IELI | "
-name_en: "Lington IELI"
-name_ja: ""
+title: "nan | リンントン・イエリ"
+name_en: "nan"
+name_ja: "リンントン・イエリ"
 slug: "lington-ieli"
-position: "PR"
-height: "183.0"
-weight: "122.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lington-ieli"
 ---

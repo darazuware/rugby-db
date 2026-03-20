@@ -1,18 +1,18 @@
 ---
-title: "Beka GIGASHVILI | "
-name_en: "Beka GIGASHVILI"
-name_ja: ""
+title: "nan | ベカ・ギガシヴィリ"
+name_en: "nan"
+name_ja: "ベカ・ギガシヴィリ"
 slug: "beka-gigashvili"
-position: "PR"
-height: "179.0"
-weight: "118.0"
-birth_date: "1992.02.17"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/beka-gigashvili"
 ---
 

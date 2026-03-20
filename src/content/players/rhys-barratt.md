@@ -1,17 +1,17 @@
 ---
-title: "Rhys BARRATT | "
-name_en: "Rhys BARRATT"
-name_ja: ""
+title: "nan | Rhys ・ BARRATT"
+name_en: "nan"
+name_ja: "Rhys ・ BARRATT"
 slug: "rhys-barratt"
-position: "PR"
-height: "184.0"
-weight: "111.0"
-birth_date: "2002.10.27"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-barratt"
 ---

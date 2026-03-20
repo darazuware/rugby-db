@@ -1,17 +1,17 @@
 ---
-title: "Ioan JONES | "
-name_en: "Ioan JONES"
-name_ja: ""
+title: "nan | Ioan ・ JONES"
+name_en: "nan"
+name_ja: "Ioan ・ JONES"
 slug: "ioan-jones"
-position: "FB"
-height: "181.0"
-weight: "80.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ioan-jones"
 ---

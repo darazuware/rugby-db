@@ -1,17 +1,17 @@
 ---
-title: "Joshua MOORBY | "
-name_en: "Joshua MOORBY"
-name_ja: ""
+title: "nan | ジョシュア・モあビー"
+name_en: "nan"
+name_ja: "ジョシュア・モあビー"
 slug: "joshua-moorby"
-position: "FB"
-height: "188.0"
-weight: "96.0"
-birth_date: "1998.07.11"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joshua-moorby"
 ---

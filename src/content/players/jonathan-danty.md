@@ -1,18 +1,18 @@
 ---
-title: "Jonathan DANTY | "
-name_en: "Jonathan DANTY"
-name_ja: ""
+title: "nan | ジョナサン・ダンティ"
+name_en: "nan"
+name_ja: "ジョナサン・ダンティ"
 slug: "jonathan-danty"
-position: "CTB"
-height: "181.0"
-weight: "110.0"
-birth_date: "1992.10.07"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jonathan-danty"
 ---
 

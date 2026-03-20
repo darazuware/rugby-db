@@ -1,17 +1,17 @@
 ---
-title: "Bradley DAVIDS | "
-name_en: "Bradley DAVIDS"
-name_ja: ""
+title: "nan | Bradley ・ DAVIDS"
+name_en: "nan"
+name_ja: "Bradley ・ DAVIDS"
 slug: "bradley-davids"
-position: "SH"
-height: "176.0"
-weight: "79.0"
-birth_date: "2002.07.30"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bradley-davids"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Selestino RAVUTAUMADA | "
-name_en: "Selestino RAVUTAUMADA"
-name_ja: ""
+title: "nan | セレスティノ・ラヴタウマダ"
+name_en: "nan"
+name_ja: "セレスティノ・ラヴタウマダ"
 slug: "selestino-ravutaumada"
-position: "WTB"
-height: "183.0"
-weight: "93.0"
-birth_date: "2000.01.17"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "Fiji"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/selestino-ravutaumada"
 ---
 

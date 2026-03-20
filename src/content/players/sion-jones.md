@@ -1,17 +1,17 @@
 ---
-title: "Sion JONES | "
-name_en: "Sion JONES"
-name_ja: ""
+title: "nan | Sion ・ JONES"
+name_en: "nan"
+name_ja: "Sion ・ JONES"
 slug: "sion-jones"
-position: "FB"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sion-jones"
 ---

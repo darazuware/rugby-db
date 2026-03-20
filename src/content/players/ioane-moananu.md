@@ -1,17 +1,17 @@
 ---
-title: "Ioane MOANANU | "
-name_en: "Ioane MOANANU"
-name_ja: ""
+title: "nan | イオアネ-モアナヌ"
+name_en: "nan"
+name_ja: "イオアネ-モアナヌ"
 slug: "ioane-moananu"
-position: "HO"
-height: "173.0"
-weight: "113.0"
-birth_date: "2001.02.08"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ioane-moananu"
 ---

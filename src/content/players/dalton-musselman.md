@@ -4,14 +4,14 @@ name_en: "Dalton MUSSELMAN"
 name_ja: ""
 slug: "dalton-musselman"
 position: "Fly-half"
-height: "0"
-weight: "0"
+height: "22/12/2000"
+weight: "1"
 birth_date: ""
-age: 25
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "NOLAゴールド"
+team: "NOLA Gold rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/dalton-musselman"
 ---

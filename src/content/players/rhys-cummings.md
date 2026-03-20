@@ -1,17 +1,17 @@
 ---
-title: "Rhys CUMMINGS | "
-name_en: "Rhys CUMMINGS"
-name_ja: ""
+title: "nan | Rhys ・ CUMMINGS"
+name_en: "nan"
+name_ja: "Rhys ・ CUMMINGS"
 slug: "rhys-cummings"
-position: "FB"
-height: "183.0"
-weight: "86.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-cummings"
 ---

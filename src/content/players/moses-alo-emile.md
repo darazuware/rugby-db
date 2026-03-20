@@ -1,17 +1,17 @@
 ---
-title: "Moses ALO-EMILE | "
-name_en: "Moses ALO-EMILE"
-name_ja: ""
+title: "nan | モーゼス・アロ＝イーマイル"
+name_en: "nan"
+name_ja: "モーゼス・アロ＝イーマイル"
 slug: "moses-alo-emile"
-position: "PR"
-height: "187.0"
-weight: "130.0"
-birth_date: "2000.01.18"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/moses-alo-emile"
 ---

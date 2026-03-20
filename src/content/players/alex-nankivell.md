@@ -1,17 +1,17 @@
 ---
-title: "Alex NANKIVELL | "
-name_en: "Alex NANKIVELL"
-name_ja: ""
+title: "nan | Alex ・ NANKIVELL"
+name_en: "nan"
+name_ja: "Alex ・ NANKIVELL"
 slug: "alex-nankivell"
-position: "CTB"
-height: "188.0"
-weight: "98.0"
-birth_date: "1996.10.25"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-nankivell"
 ---

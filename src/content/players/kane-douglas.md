@@ -1,18 +1,18 @@
 ---
-title: "Kane DOUGLAS | "
-name_en: "Kane DOUGLAS"
-name_ja: ""
+title: "nan | ケイン・ダグラス"
+name_en: "nan"
+name_ja: "ケイン・ダグラス"
 slug: "kane-douglas"
-position: "LO"
-height: "202.0"
-weight: "123.0"
-birth_date: "1989.06.01"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/kane-douglas"
 ---
 

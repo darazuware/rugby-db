@@ -1,17 +1,17 @@
 ---
-title: "James FENDER | "
-name_en: "James FENDER"
-name_ja: ""
+title: "nan | ジェームズ ・ FENDER"
+name_en: "nan"
+name_ja: "ジェームズ ・ FENDER"
 slug: "james-fender"
-position: "LO"
-height: "204.0"
-weight: "125.0"
-birth_date: "2001.08.03"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/james-fender"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Romain TAOFIFENUA | "
-name_en: "Romain TAOFIFENUA"
-name_ja: ""
+title: "nan | ロマン・タオフィフェヌア"
+name_en: "nan"
+name_ja: "ロマン・タオフィフェヌア"
 slug: "romain-taofifenua"
-position: "LO"
-height: "202.0"
-weight: "138.0"
-birth_date: "1990.09.14"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/romain-taofifenua"
 ---
 

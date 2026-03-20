@@ -1,17 +1,17 @@
 ---
-title: "Charlie SAVALA | "
-name_en: "Charlie SAVALA"
-name_ja: ""
+title: "nan | Charlie ・ SAVALA"
+name_en: "nan"
+name_ja: "Charlie ・ SAVALA"
 slug: "charlie-savala"
-position: "SO"
-height: "193.0"
-weight: "102.0"
-birth_date: "2000.04.21"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/charlie-savala"
 ---

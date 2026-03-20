@@ -1,17 +1,17 @@
 ---
-title: "Karl MARTIN | "
-name_en: "Karl MARTIN"
-name_ja: ""
+title: "nan | カール・マーティン"
+name_en: "nan"
+name_ja: "カール・マーティン"
 slug: "karl-martin"
-position: "CTB"
-height: "189.0"
-weight: "100.0"
-birth_date: "2002.02.16"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/karl-martin"
 ---

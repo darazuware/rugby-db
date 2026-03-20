@@ -1,17 +1,17 @@
 ---
-title: "Luca FRANCESCHETTO | "
-name_en: "Luca FRANCESCHETTO"
-name_ja: ""
+title: "nan | Luca ・ FRANCESCHETTO"
+name_en: "nan"
+name_ja: "Luca ・ FRANCESCHETTO"
 slug: "luca-franceschetto"
-position: "PR"
-height: "193.0"
-weight: "127.0"
-birth_date: "1999.06.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/luca-franceschetto"
 ---

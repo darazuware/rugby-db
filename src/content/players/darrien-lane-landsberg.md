@@ -1,17 +1,17 @@
 ---
-title: "Darrien LANDSBERG | "
-name_en: "Darrien LANDSBERG"
-name_ja: ""
+title: "nan | Darrien ・ LANDSBERG"
+name_en: "nan"
+name_ja: "Darrien ・ LANDSBERG"
 slug: "darrien-lane-landsberg"
-position: "LO"
-height: "196.0"
-weight: "111.0"
-birth_date: "1998.07.26"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/darrien-lane-landsberg"
 ---

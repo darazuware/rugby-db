@@ -1,17 +1,17 @@
 ---
-title: "Clément MONDINAT | "
-name_en: "Clément MONDINAT"
-name_ja: ""
+title: "nan | クレマン・モンディナ"
+name_en: "nan"
+name_ja: "クレマン・モンディナ"
 slug: "clement-mondinat"
-position: "SO"
-height: "178.0"
-weight: "80.0"
-birth_date: "2003.10.29"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/clement-mondinat"
 ---

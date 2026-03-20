@@ -1,17 +1,17 @@
 ---
-title: "Erich CRONJÉ | "
-name_en: "Erich CRONJÉ"
-name_ja: ""
+title: "nan | Erich ・ CRONJ"
+name_en: "nan"
+name_ja: "Erich ・ CRONJ"
 slug: "erich-cronje"
-position: "CTB"
-height: "184.0"
-weight: "95.0"
-birth_date: "1997.01.01"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/erich-cronje"
 ---

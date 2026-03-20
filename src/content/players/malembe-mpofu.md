@@ -4,14 +4,14 @@ name_en: "Malembe MPOFU"
 name_ja: ""
 slug: "malembe-mpofu"
 position: "Lock"
-height: "0"
-weight: "0"
+height: "15/02/1996"
+weight: "1"
 birth_date: ""
-age: 30
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/malembe-mpofu"
 ---

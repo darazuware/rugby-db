@@ -1,18 +1,18 @@
 ---
-title: "Niccolò CANNONE | "
-name_en: "Niccolò CANNONE"
-name_ja: ""
+title: "nan | Niccol ・ CANNONE"
+name_en: "nan"
+name_ja: "Niccol ・ CANNONE"
 slug: "niccolo-cannone"
-position: "LO"
-height: "197.0"
-weight: "121.0"
-birth_date: "1998.05.17"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/niccolo-cannone"
 ---
 

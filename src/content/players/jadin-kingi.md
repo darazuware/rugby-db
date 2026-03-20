@@ -1,17 +1,17 @@
 ---
-title: "Jadin KINGI | "
-name_en: "Jadin KINGI"
-name_ja: ""
+title: "nan | Jadin ・ KINGI"
+name_en: "nan"
+name_ja: "Jadin ・ KINGI"
 slug: "jadin-kingi"
-position: "LO"
-height: "198.0"
-weight: "108.0"
-birth_date: "2002.08.19"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jadin-kingi"
 ---

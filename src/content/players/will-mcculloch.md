@@ -1,17 +1,17 @@
 ---
-title: "Will MCCULLOCH | "
-name_en: "Will MCCULLOCH"
-name_ja: ""
+title: "nan | ウィル-マカロック"
+name_en: "nan"
+name_ja: "ウィル-マカロック"
 slug: "will-mcculloch"
-position: "WTB"
-height: "186.0"
-weight: "88.0"
-birth_date: "2004.01.05"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/will-mcculloch"
 ---

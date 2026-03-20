@@ -1,17 +1,17 @@
 ---
-title: "Jannes POTGIETER | "
-name_en: "Jannes POTGIETER"
-name_ja: ""
+title: "nan | Jannes ・ POTGIETER"
+name_en: "nan"
+name_ja: "Jannes ・ POTGIETER"
 slug: "jannes-potgieter"
-position: "Back row"
-height: "193.0"
-weight: "112.0"
-birth_date: "2003.05.05"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jannes-potgieter"
 ---

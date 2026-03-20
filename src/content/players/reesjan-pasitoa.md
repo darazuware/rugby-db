@@ -1,17 +1,17 @@
 ---
-title: "Reesjan PASITOA | "
-name_en: "Reesjan PASITOA"
-name_ja: ""
+title: "nan | リースジャン・パシトア"
+name_en: "nan"
+name_ja: "リースジャン・パシトア"
 slug: "reesjan-pasitoa"
-position: "SO"
-height: "183.0"
-weight: "98.0"
-birth_date: "2001.12.03"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/reesjan-pasitoa"
 ---

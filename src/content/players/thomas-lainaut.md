@@ -1,17 +1,17 @@
 ---
-title: "Thomas LAINAULT | "
-name_en: "Thomas LAINAULT"
-name_ja: ""
+title: "nan | トマ・レノー"
+name_en: "nan"
+name_ja: "トマ・レノー"
 slug: "thomas-lainaut"
-position: "LO"
-height: "197.0"
-weight: "114.0"
-birth_date: "1993.12.28"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lainaut"
 ---

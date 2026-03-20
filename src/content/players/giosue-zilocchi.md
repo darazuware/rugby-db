@@ -1,18 +1,18 @@
 ---
-title: "Giosué ZILOCCHI | "
-name_en: "Giosué ZILOCCHI"
-name_ja: ""
+title: "nan | Giosu ・ ZILOCCHI"
+name_en: "nan"
+name_ja: "Giosu ・ ZILOCCHI"
 slug: "giosue-zilocchi"
-position: "PR"
-height: "189.0"
-weight: "115.0"
-birth_date: "1997.01.15"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/giosue-zilocchi"
 ---
 

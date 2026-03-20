@@ -1,17 +1,17 @@
 ---
-title: "Alivereti DUGUIVALU | "
-name_en: "Alivereti DUGUIVALU"
-name_ja: ""
+title: "nan | アリヴェレティ・ドゥグイヴァル"
+name_en: "nan"
+name_ja: "アリヴェレティ・ドゥグイヴァル"
 slug: "alifereti-duguivalu"
-position: "CTB"
-height: "180.0"
-weight: "85.0"
-birth_date: "1997.07.21"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alifereti-duguivalu"
 ---

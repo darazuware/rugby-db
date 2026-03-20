@@ -1,17 +1,17 @@
 ---
-title: "Alivereti LOALOA | "
-name_en: "Alivereti LOALOA"
-name_ja: ""
+title: "nan | アリヴェレティ・ロアロア"
+name_en: "nan"
+name_ja: "アリヴェレティ・ロアロア"
 slug: "alivereti-loaloa"
-position: "CTB"
-height: "182.0"
-weight: "104.0"
-birth_date: "2000.12.10"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alivereti-loaloa"
 ---

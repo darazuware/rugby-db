@@ -1,18 +1,18 @@
 ---
-title: "Oli KEBBLE | "
-name_en: "Oli KEBBLE"
-name_ja: ""
+title: "nan | Oli ・ KEBBLE"
+name_en: "nan"
+name_ja: "Oli ・ KEBBLE"
 slug: "oli-kebble"
-position: "PR"
-height: "191.0"
-weight: "124.0"
-birth_date: "1992.06.18"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/oli-kebble"
 ---
 

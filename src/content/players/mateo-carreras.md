@@ -1,17 +1,17 @@
 ---
-title: "Mateo CARRERAS | "
-name_en: "Mateo CARRERAS"
-name_ja: ""
+title: "nan | マテオ・カレーラス"
+name_en: "nan"
+name_ja: "マテオ・カレーラス"
 slug: "mateo-carreras"
-position: "WTB"
-height: "173.0"
-weight: "84.0"
-birth_date: "1999.12.17"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mateo-carreras"
 ---

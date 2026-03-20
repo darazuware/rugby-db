@@ -1,18 +1,18 @@
 ---
-title: "Nizaam CARR | "
-name_en: "Nizaam CARR"
-name_ja: ""
+title: "nan | Nizaam ・ CARR"
+name_en: "nan"
+name_ja: "Nizaam ・ CARR"
 slug: "nizaam-carr"
-position: "Back row"
-height: "178.0"
-weight: "106.0"
-birth_date: "1991.04.04"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/nizaam-carr"
 ---
 

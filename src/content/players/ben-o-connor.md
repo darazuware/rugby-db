@@ -1,17 +1,17 @@
 ---
-title: "Ben O'CONNOR | "
-name_en: "Ben O'CONNOR"
-name_ja: ""
+title: "nan | ベン ・ O'CONNOR"
+name_en: "nan"
+name_ja: "ベン ・ O'CONNOR"
 slug: "ben-o-connor"
-position: "FB"
-height: "188.0"
-weight: "97.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-o-connor"
 ---

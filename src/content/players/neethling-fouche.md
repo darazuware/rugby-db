@@ -1,17 +1,17 @@
 ---
-title: "Neethling FOUCHÉ | "
-name_en: "Neethling FOUCHÉ"
-name_ja: ""
+title: "nan | Neethling ・ FOUCH"
+name_en: "nan"
+name_ja: "Neethling ・ FOUCH"
 slug: "neethling-fouche"
-position: "PR"
-height: "189.0"
-weight: "120.0"
-birth_date: "1993.01.10"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/neethling-fouche"
 ---

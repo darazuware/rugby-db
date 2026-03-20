@@ -1,17 +1,17 @@
 ---
-title: "Daniel KASENDE | "
-name_en: "Daniel KASENDE"
-name_ja: ""
+title: "nan | ダニエル ・ KASENDE"
+name_en: "nan"
+name_ja: "ダニエル ・ KASENDE"
 slug: "daniel-kasende"
-position: "FB"
-height: "187.0"
-weight: "92.0"
-birth_date: "1995.05.09"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-kasende"
 ---

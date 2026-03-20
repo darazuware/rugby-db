@@ -1,17 +1,17 @@
 ---
-title: "Léon BOULIER | "
-name_en: "Léon BOULIER"
-name_ja: ""
+title: "nan | レオン・ブーリエ"
+name_en: "nan"
+name_ja: "レオン・ブーリエ"
 slug: "leon-boulier"
-position: "FL/NO8"
-height: "193.0"
-weight: "109.0"
-birth_date: "2001.08.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leon-boulier"
 ---

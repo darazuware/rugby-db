@@ -1,18 +1,18 @@
 ---
-title: "Pat PELLEGRINI | "
-name_en: "Pat PELLEGRINI"
-name_ja: ""
+title: "nan | パット・ペレグリーニ"
+name_en: "nan"
+name_ja: "パット・ペレグリーニ"
 slug: "patrick-pellegrini"
-position: "SO"
-height: "170.0"
-weight: "80.0"
-birth_date: "1998.09.28"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/patrick-pellegrini"
 ---
 

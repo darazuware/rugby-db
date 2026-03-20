@@ -1,18 +1,18 @@
 ---
-title: "Tupou VAA'I | "
-name_en: "Tupou VAA'I"
-name_ja: ""
+title: "nan | トゥポウ-ヴァアイ"
+name_en: "nan"
+name_ja: "トゥポウ-ヴァアイ"
 slug: "tupou-va-ai"
-position: "LO"
-height: "198.0"
-weight: "118.0"
-birth_date: "2000.01.27"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tupou-va-ai"
 ---
 

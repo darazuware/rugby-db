@@ -1,18 +1,18 @@
 ---
-title: "Bautista DELGUY | "
-name_en: "Bautista DELGUY"
-name_ja: ""
+title: "nan | バウティスタ-デルグイ"
+name_en: "nan"
+name_ja: "バウティスタ-デルグイ"
 slug: "bautista-delguy"
-position: "WTB"
-height: "182.0"
-weight: "85.0"
-birth_date: "1997.04.22"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/bautista-delguy"
 ---
 

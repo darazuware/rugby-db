@@ -1,17 +1,17 @@
 ---
-title: "Lachie ANDERSON | "
-name_en: "Lachie ANDERSON"
-name_ja: ""
+title: "nan | ラキ・アンダーソン"
+name_en: "nan"
+name_ja: "ラキ・アンダーソン"
 slug: "lachie-anderson"
-position: "WTB"
-height: "188.0"
-weight: "97.0"
-birth_date: "1997.08.27"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lachie-anderson"
 ---

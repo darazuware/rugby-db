@@ -1,17 +1,17 @@
 ---
-title: "Iosefo MASI | "
-name_en: "Iosefo MASI"
-name_ja: ""
+title: "nan | イオセフォ-マシ"
+name_en: "nan"
+name_ja: "イオセフォ-マシ"
 slug: "iosefo-masi"
-position: "CTB"
-height: "190.0"
-weight: "97.0"
-birth_date: "1998.05.09"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iosefo-masi"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Louis BIELLE-BIARREY | "
-name_en: "Louis BIELLE-BIARREY"
-name_ja: ""
+title: "nan | ルイ・ビエル＝ビアレ"
+name_en: "nan"
+name_ja: "ルイ・ビエル＝ビアレ"
 slug: "louis-bielle-biarrey"
-position: "WTB"
-height: "185.0"
-weight: "84.0"
-birth_date: "2003.06.19"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/louis-bielle-biarrey"
 ---
 

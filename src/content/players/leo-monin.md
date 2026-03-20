@@ -1,17 +1,17 @@
 ---
-title: "Léo MONIN | "
-name_en: "Léo MONIN"
-name_ja: ""
+title: "nan | レオ・モナン"
+name_en: "nan"
+name_ja: "レオ・モナン"
 slug: "leo-monin"
-position: "FB"
-height: "188.0"
-weight: "95.0"
-birth_date: "2002.01.25"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leo-monin"
 ---

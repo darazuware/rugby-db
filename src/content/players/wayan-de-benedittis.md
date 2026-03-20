@@ -1,17 +1,17 @@
 ---
-title: "Wayan DE BENEDITTIS | "
-name_en: "Wayan DE BENEDITTIS"
-name_ja: ""
+title: "nan | ワジャン-デ・ベネディッティス"
+name_en: "nan"
+name_ja: "ワジャン-デ・ベネディッティス"
 slug: "wayan-de-benedittis"
-position: "PR"
-height: "185.0"
-weight: "115.0"
-birth_date: "1999.03.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/wayan-de-benedittis"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Victor MONTGAILLARD | "
-name_en: "Victor MONTGAILLARD"
-name_ja: ""
+title: "nan | ヴィクトール-モンガイヤール"
+name_en: "nan"
+name_ja: "ヴィクトール-モンガイヤール"
 slug: "victor-montgaillard"
-position: "HO"
-height: "181.0"
-weight: "108.0"
-birth_date: "2002.07.16"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/victor-montgaillard"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Thomas BERJON | "
-name_en: "Thomas BERJON"
-name_ja: ""
+title: "nan | トマ・ベルジョン"
+name_en: "nan"
+name_ja: "トマ・ベルジョン"
 slug: "thomas-berjon"
-position: "SH"
-height: "177.0"
-weight: "87.0"
-birth_date: "1998.04.12"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-berjon"
 ---

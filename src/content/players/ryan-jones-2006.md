@@ -1,17 +1,17 @@
 ---
-title: "Ryan JONES | "
-name_en: "Ryan JONES"
-name_ja: ""
+title: "nan | ライアン ・ JONES"
+name_en: "nan"
+name_ja: "ライアン ・ JONES"
 slug: "ryan-jones-2006"
-position: "Back row"
-height: "182.0"
-weight: "93.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-jones-2006"
 ---

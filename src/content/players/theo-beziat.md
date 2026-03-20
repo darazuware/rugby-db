@@ -1,17 +1,17 @@
 ---
-title: "Théo BÉZIAT | "
-name_en: "Théo BÉZIAT"
-name_ja: ""
+title: "nan | テオ・ベジア"
+name_en: "nan"
+name_ja: "テオ・ベジア"
 slug: "theo-beziat"
-position: "HO"
-height: "180.0"
-weight: "102.0"
-birth_date: "1994.05.11"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/theo-beziat"
 ---

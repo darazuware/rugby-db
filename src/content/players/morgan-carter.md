@@ -1,17 +1,17 @@
 ---
-title: "Morgan CARTER | "
-name_en: "Morgan CARTER"
-name_ja: ""
+title: "nan | Morgan ・ CARTER"
+name_en: "nan"
+name_ja: "Morgan ・ CARTER"
 slug: "morgan-carter"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.01.08"
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/morgan-carter"
 ---

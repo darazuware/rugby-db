@@ -1,18 +1,18 @@
 ---
-title: "Ben DONALDSON | "
-name_en: "Ben DONALDSON"
-name_ja: ""
+title: "nan | ベン-ドナルドソン"
+name_en: "nan"
+name_ja: "ベン-ドナルドソン"
 slug: "ben-donaldson"
-position: "SO"
-height: "183.0"
-weight: "87.0"
-birth_date: "1999.04.04"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ben-donaldson"
 ---
 

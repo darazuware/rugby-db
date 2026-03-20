@@ -1,17 +1,17 @@
 ---
-title: "Onisi RATAVE | "
-name_en: "Onisi RATAVE"
-name_ja: ""
+title: "nan | Onisi ・ RATAVE"
+name_en: "nan"
+name_ja: "Onisi ・ RATAVE"
 slug: "onisi-ratave"
-position: "Winger"
-height: "179.0"
-weight: "100.0"
-birth_date: "1992.06.06"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/onisi-ratave"
 ---

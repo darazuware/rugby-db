@@ -1,17 +1,17 @@
 ---
-title: "Paul ABADIE | "
-name_en: "Paul ABADIE"
-name_ja: ""
+title: "nan | ポール・アバディ"
+name_en: "nan"
+name_ja: "ポール・アバディ"
 slug: "paul-abadie"
-position: "SH"
-height: "176.0"
-weight: "88.0"
-birth_date: "1994.07.28"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/paul-abadie"
 ---

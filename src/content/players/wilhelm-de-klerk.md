@@ -1,17 +1,17 @@
 ---
-title: "Wilhelm DE KLERK | "
-name_en: "Wilhelm DE KLERK"
-name_ja: ""
+title: "nan | Wilhelm ・ デ ・ デクラーク"
+name_en: "nan"
+name_ja: "Wilhelm ・ デ ・ デクラーク"
 slug: "wilhelm-de-klerk"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/wilhelm-de-klerk"
 ---

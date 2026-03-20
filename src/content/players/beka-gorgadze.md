@@ -1,18 +1,18 @@
 ---
-title: "Beka GORGADZE | "
-name_en: "Beka GORGADZE"
-name_ja: ""
+title: "nan | ベカ・ゴルガゼ"
+name_en: "nan"
+name_ja: "ベカ・ゴルガゼ"
 slug: "beka-gorgadze"
-position: "FL/NO8"
-height: "189.0"
-weight: "110.0"
-birth_date: "1996.02.08"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/beka-gorgadze"
 ---
 

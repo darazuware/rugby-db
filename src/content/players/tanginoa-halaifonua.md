@@ -1,17 +1,17 @@
 ---
-title: "Tanginoa HALAIFONUA | "
-name_en: "Tanginoa HALAIFONUA"
-name_ja: ""
+title: "nan | タンギノア・ハライフォヌア"
+name_en: "nan"
+name_ja: "タンギノア・ハライフォヌア"
 slug: "tanginoa-halaifonua"
-position: "LO"
-height: "196.0"
-weight: "115.0"
-birth_date: "1996.09.20"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tanginoa-halaifonua"
 ---

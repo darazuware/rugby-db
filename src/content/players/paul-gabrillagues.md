@@ -1,18 +1,18 @@
 ---
-title: "Paul GABRILLAGUES | "
-name_en: "Paul GABRILLAGUES"
-name_ja: ""
+title: "nan | ポール・ガブリヤーグ"
+name_en: "nan"
+name_ja: "ポール・ガブリヤーグ"
 slug: "paul-gabrillagues"
-position: "LO"
-height: "199.0"
-weight: "119.0"
-birth_date: "1993.06.03"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/paul-gabrillagues"
 ---
 

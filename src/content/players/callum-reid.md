@@ -1,17 +1,17 @@
 ---
-title: "Callum REID | "
-name_en: "Callum REID"
-name_ja: ""
+title: "nan | Callum ・ REID"
+name_en: "nan"
+name_ja: "Callum ・ REID"
 slug: "callum-reid"
-position: "PR"
-height: "183.0"
-weight: "120.0"
-birth_date: "1999.01.16"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/callum-reid"
 ---

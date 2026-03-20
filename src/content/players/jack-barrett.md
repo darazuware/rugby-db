@@ -1,17 +1,17 @@
 ---
-title: "Jack BARRETT | "
-name_en: "Jack BARRETT"
-name_ja: ""
+title: "nan | ジャック-バレット"
+name_en: "nan"
+name_ja: "ジャック-バレット"
 slug: "jack-barrett"
-position: "PR"
-height: "185.0"
-weight: "111.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-barrett"
 ---

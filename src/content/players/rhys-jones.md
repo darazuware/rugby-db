@@ -4,14 +4,14 @@ name_en: "Rhys JONES"
 name_ja: ""
 slug: "rhys-jones"
 position: "Scrum-half"
-height: "0"
-weight: "0"
+height: "28/02/2001"
+weight: "1"
 birth_date: ""
-age: 25
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/rhys-jones"
 ---

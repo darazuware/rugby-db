@@ -1,17 +1,17 @@
 ---
-title: "Thaakir ABRAHAMS | "
-name_en: "Thaakir ABRAHAMS"
-name_ja: ""
+title: "nan | Thaakir ・ ABRAHAMS"
+name_en: "nan"
+name_ja: "Thaakir ・ ABRAHAMS"
 slug: "thaakir-abrahams"
-position: "FB"
-height: "175.0"
-weight: "77.0"
-birth_date: "1999.01.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thaakir-abrahams"
 ---

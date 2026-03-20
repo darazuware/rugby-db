@@ -1,17 +1,17 @@
 ---
-title: "Cobus WIESE | "
-name_en: "Cobus WIESE"
-name_ja: ""
+title: "nan | コーバス ・ ヴィーセ"
+name_en: "nan"
+name_ja: "コーバス ・ ヴィーセ"
 slug: "cobus-wiese"
-position: "LO"
-height: "199.0"
-weight: "125.0"
-birth_date: "1997.06.02"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cobus-wiese"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Francesco RUFFOLO | "
-name_en: "Francesco RUFFOLO"
-name_ja: ""
+title: "nan | Francesco ・ RUFFOLO"
+name_en: "nan"
+name_ja: "Francesco ・ RUFFOLO"
 slug: "francesco-ruffolo"
-position: "LO"
-height: "198.0"
-weight: "118.0"
-birth_date: "2002.10.31"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/francesco-ruffolo"
 ---

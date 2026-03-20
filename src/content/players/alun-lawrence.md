@@ -1,17 +1,17 @@
 ---
-title: "Alun LAWRENCE | "
-name_en: "Alun LAWRENCE"
-name_ja: ""
+title: "nan | Alun ・ LAWRENCE"
+name_en: "nan"
+name_ja: "Alun ・ LAWRENCE"
 slug: "alun-lawrence"
-position: "Back row"
-height: "191.0"
-weight: "112.0"
-birth_date: "1998.09.15"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alun-lawrence"
 ---

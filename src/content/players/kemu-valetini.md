@@ -1,17 +1,17 @@
 ---
-title: "Kemu VALETINI | "
-name_en: "Kemu VALETINI"
-name_ja: ""
+title: "nan | ケム・ヴァレティニ"
+name_en: "nan"
+name_ja: "ケム・ヴァレティニ"
 slug: "kemu-valetini"
-position: "SO"
-height: "185.0"
-weight: "110.0"
-birth_date: "1994.08.26"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kemu-valetini"
 ---

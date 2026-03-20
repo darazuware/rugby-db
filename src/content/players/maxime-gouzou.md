@@ -1,17 +1,17 @@
 ---
-title: "Maxime GOUZOU | "
-name_en: "Maxime GOUZOU"
-name_ja: ""
+title: "nan | マキシム・グズ"
+name_en: "nan"
+name_ja: "マキシム・グズ"
 slug: "maxime-gouzou"
-position: "FL/NO8"
-height: "189.0"
-weight: "106.0"
-birth_date: "1998.09.11"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/maxime-gouzou"
 ---

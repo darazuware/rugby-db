@@ -1,18 +1,18 @@
 ---
-title: "Gareth ANSCOMBE | "
-name_en: "Gareth ANSCOMBE"
-name_ja: ""
+title: "nan | ガレス-アンスコム"
+name_en: "nan"
+name_ja: "ガレス-アンスコム"
 slug: "gareth-anscombe"
-position: "SO"
-height: "184.0"
-weight: "96.0"
-birth_date: "1991.05.10"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gareth-anscombe"
 ---
 

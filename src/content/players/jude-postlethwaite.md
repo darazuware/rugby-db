@@ -1,17 +1,17 @@
 ---
-title: "Jude POSTLETHWAITE | "
-name_en: "Jude POSTLETHWAITE"
-name_ja: ""
+title: "nan | Jude ・ POSTLETHWAITE"
+name_en: "nan"
+name_ja: "Jude ・ POSTLETHWAITE"
 slug: "jude-postlethwaite"
-position: "CTB"
-height: "193.0"
-weight: "106.0"
-birth_date: "2002.04.03"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jude-postlethwaite"
 ---

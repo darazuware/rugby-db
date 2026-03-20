@@ -1,17 +1,17 @@
 ---
-title: "Jake MCINTYRE | "
-name_en: "Jake MCINTYRE"
-name_ja: ""
+title: "nan | ジェイク-マッキンタイア"
+name_en: "nan"
+name_ja: "ジェイク-マッキンタイア"
 slug: "jake-mcintyre"
-position: "SO"
-height: "177.0"
-weight: "88.0"
-birth_date: "1994.04.28"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jake-mcintyre"
 ---

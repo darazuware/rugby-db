@@ -1,17 +1,17 @@
 ---
-title: "Giorgi DZMANASHVILI | "
-name_en: "Giorgi DZMANASHVILI"
-name_ja: ""
+title: "nan | ギオルギ・ズマナシュヴィリ"
+name_en: "nan"
+name_ja: "ギオルギ・ズマナシュヴィリ"
 slug: "giorgi-dzmanashvili"
-position: "PR"
-height: "186.0"
-weight: "122.0"
-birth_date: "2002.06.16"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/giorgi-dzmanashvili"
 ---

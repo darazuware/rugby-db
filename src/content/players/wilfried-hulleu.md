@@ -1,17 +1,17 @@
 ---
-title: "Wilfried HULLEU | "
-name_en: "Wilfried HULLEU"
-name_ja: ""
+title: "nan | ウィルフリード・ユルー"
+name_en: "nan"
+name_ja: "ウィルフリード・ユルー"
 slug: "wilfried-hulleu"
-position: "WTB"
-height: "184.0"
-weight: "97.0"
-birth_date: "2002.06.27"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/wilfried-hulleu"
 ---

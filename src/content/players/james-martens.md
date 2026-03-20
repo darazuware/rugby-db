@@ -1,17 +1,17 @@
 ---
-title: "James MARTENS | "
-name_en: "James MARTENS"
-name_ja: ""
+title: "nan | ジェームズ・マルテンス"
+name_en: "nan"
+name_ja: "ジェームズ・マルテンス"
 slug: "james-martens"
-position: "SH"
-height: "187.0"
-weight: "92.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/james-martens"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Tate MCDERMOTT | "
-name_en: "Tate MCDERMOTT"
-name_ja: ""
+title: "nan | テイト-マクダーモット"
+name_en: "nan"
+name_ja: "テイト-マクダーモット"
 slug: "tate-mcdermott"
-position: "SH"
-height: "179.0"
-weight: "77.0"
-birth_date: "1998.09.18"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tate-mcdermott"
 ---
 

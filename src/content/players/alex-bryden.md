@@ -1,17 +1,17 @@
 ---
-title: "Alex BRYDEN | "
-name_en: "Alex BRYDEN"
-name_ja: ""
+title: "nan | Alex ・ BRYDEN"
+name_en: "nan"
+name_ja: "Alex ・ BRYDEN"
 slug: "alex-bryden"
-position: "CTB"
-height: "193.0"
-weight: "102.0"
-birth_date: "2006.."
-age: 20
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-bryden"
 ---

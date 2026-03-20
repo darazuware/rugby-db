@@ -1,17 +1,17 @@
 ---
-title: "Vernon MATONGO | "
-name_en: "Vernon MATONGO"
-name_ja: ""
+title: "nan | Vernon ・ MATONGO"
+name_en: "nan"
+name_ja: "Vernon ・ MATONGO"
 slug: "vernon-matongo"
-position: "PR"
-height: "179.0"
-weight: "120.0"
-birth_date: "2002.02.28"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vernon-matongo"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Tom BOTHA | "
-name_en: "Tom BOTHA"
-name_ja: ""
+title: "nan | トム ・ BOTHA"
+name_en: "nan"
+name_ja: "トム ・ BOTHA"
 slug: "tom-botha"
-position: "PR"
-height: "179.0"
-weight: "117.0"
-birth_date: "1990.08.31"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-botha"
 ---

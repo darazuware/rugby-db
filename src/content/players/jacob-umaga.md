@@ -1,17 +1,17 @@
 ---
-title: "Jacob UMAGA | "
-name_en: "Jacob UMAGA"
-name_ja: ""
+title: "nan | Jacob ・ UMAGA"
+name_en: "nan"
+name_ja: "Jacob ・ UMAGA"
 slug: "jacob-umaga"
-position: "SO"
-height: "182.0"
-weight: "91.0"
-birth_date: "1998.07.08"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jacob-umaga"
 ---

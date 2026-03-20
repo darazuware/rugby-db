@@ -1,17 +1,17 @@
 ---
-title: "Nathan HASTIE | "
-name_en: "Nathan HASTIE"
-name_ja: ""
+title: "nan | ネイサン・ヘスティ"
+name_en: "nan"
+name_ja: "ネイサン・ヘスティ"
 slug: "nathan-hastie"
-position: "SH"
-height: "177.0"
-weight: "88.0"
-birth_date: "2001.04.27"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/nathan-hastie"
 ---

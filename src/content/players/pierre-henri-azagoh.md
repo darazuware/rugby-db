@@ -1,17 +1,17 @@
 ---
-title: "Pierre-Henri AZAGOH | "
-name_en: "Pierre-Henri AZAGOH"
-name_ja: ""
+title: "nan | ピエール＝アンリ・アザゴ"
+name_en: "nan"
+name_ja: "ピエール＝アンリ・アザゴ"
 slug: "pierre-henri-azagoh"
-position: "LO"
-height: "198.0"
-weight: "112.0"
-birth_date: "1998.07.25"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-henri-azagoh"
 ---

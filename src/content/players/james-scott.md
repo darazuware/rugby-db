@@ -4,14 +4,14 @@ name_en: "James SCOTT"
 name_ja: ""
 slug: "james-scott"
 position: "Lock"
-height: "0"
-weight: "0"
+height: "18/06/1999"
+weight: "1"
 birth_date: ""
-age: 26
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シカゴ・ハウンズ"
+team: "The Chicago Hounds rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-scott"
 ---

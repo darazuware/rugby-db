@@ -1,17 +1,17 @@
 ---
-title: "Joey MANU | "
-name_en: "Joey MANU"
-name_ja: ""
+title: "nan | ジョーイー・マヌ"
+name_en: "nan"
+name_ja: "ジョーイー・マヌ"
 slug: "joseph-manu"
-position: "CTB"
-height: "192.0"
-weight: "102.0"
-birth_date: "1996.06.29"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joseph-manu"
 ---

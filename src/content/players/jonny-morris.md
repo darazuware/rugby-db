@@ -1,17 +1,17 @@
 ---
-title: "Jonny MORRIS | "
-name_en: "Jonny MORRIS"
-name_ja: ""
+title: "nan | Jonny ・ MORRIS"
+name_en: "nan"
+name_ja: "Jonny ・ MORRIS"
 slug: "jonny-morris"
-position: "Back row"
-height: "192.0"
-weight: "108.0"
-birth_date: "2004.01.09"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jonny-morris"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Tiaan SPARROW | "
-name_en: "Tiaan SPARROW"
-name_ja: ""
+title: "nan | Tiaan ・ SPARROW"
+name_en: "nan"
+name_ja: "Tiaan ・ SPARROW"
 slug: "tiaan-sparrow"
-position: "Back row"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tiaan-sparrow"
 ---

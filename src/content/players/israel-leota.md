@@ -1,17 +1,17 @@
 ---
-title: "Israel LEOTA | "
-name_en: "Israel LEOTA"
-name_ja: ""
+title: "nan | イスラエル・レオタ"
+name_en: "nan"
+name_ja: "イスラエル・レオタ"
 slug: "israel-leota"
-position: "WTB"
-height: "190.0"
-weight: "101.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/israel-leota"
 ---

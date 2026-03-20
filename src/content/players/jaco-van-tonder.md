@@ -1,18 +1,18 @@
 ---
-title: "Jaco VAN TONDER | "
-name_en: "Jaco VAN TONDER"
-name_ja: ""
+title: "nan | ヤコ・ファン・トンダー"
+name_en: "nan"
+name_ja: "ヤコ・ファン・トンダー"
 slug: "jaco-van-tonder"
-position: "FL/NO8"
-height: "197.0"
-weight: "118.0"
-birth_date: "1998.03.08"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jaco-van-tonder"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Adrien SÉGURET | "
-name_en: "Adrien SÉGURET"
-name_ja: ""
+title: "nan | アドリアン・セギュレ"
+name_en: "nan"
+name_ja: "アドリアン・セギュレ"
 slug: "adrien-seguret"
-position: "CTB"
-height: "183.0"
-weight: "95.0"
-birth_date: "1998.07.22"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/adrien-seguret"
 ---

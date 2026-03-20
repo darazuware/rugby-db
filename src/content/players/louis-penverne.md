@@ -1,17 +1,17 @@
 ---
-title: "Louis PENVERNE | "
-name_en: "Louis PENVERNE"
-name_ja: ""
+title: "nan | ルイ・パンヴェルヌ"
+name_en: "nan"
+name_ja: "ルイ・パンヴェルヌ"
 slug: "louis-penverne"
-position: "PR"
-height: "187.0"
-weight: "111.0"
-birth_date: "2003.03.22"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-penverne"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Kaylum BOSHIER | "
-name_en: "Kaylum BOSHIER"
-name_ja: ""
+title: "nan | ケイラム・ボシア"
+name_en: "nan"
+name_ja: "ケイラム・ボシア"
 slug: "kaylum-boshier"
-position: "FL/No8"
-height: "189.0"
-weight: "109.0"
-birth_date: "1999.04.09"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kaylum-boshier"
 ---

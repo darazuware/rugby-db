@@ -1,17 +1,17 @@
 ---
-title: "George POOLMAN | "
-name_en: "George POOLMAN"
-name_ja: ""
+title: "nan | ジョージ・プールマン"
+name_en: "nan"
+name_ja: "ジョージ・プールマン"
 slug: "george-poolman"
-position: "CTB"
-height: "195.0"
-weight: "102.0"
-birth_date: "2002.09.06"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/george-poolman"
 ---

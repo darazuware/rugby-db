@@ -1,17 +1,17 @@
 ---
-title: "Fiti SA | "
-name_en: "Fiti SA"
-name_ja: ""
+title: "nan | フィティ・サ"
+name_en: "nan"
+name_ja: "フィティ・サ"
 slug: "fiti-sa"
-position: "LO"
-height: "202.0"
-weight: "125.0"
-birth_date: "2003.04.04"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/fiti-sa"
 ---

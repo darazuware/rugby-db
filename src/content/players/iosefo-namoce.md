@@ -1,9 +1,9 @@
 ---
-title: "Iosefo NAMOCE | "
-name_en: "Iosefo NAMOCE"
-name_ja: ""
+title: "nan | イオセフォ-ナモセ"
+name_en: "nan"
+name_ja: "イオセフォ-ナモセ"
 slug: "iosefo-namoce"
-position: "CTB"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
@@ -11,7 +11,7 @@ age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/iosefo-namoce"
 ---

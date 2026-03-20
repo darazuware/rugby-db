@@ -1,17 +1,17 @@
 ---
-title: "Noé DELLA SCHIAVA | "
-name_en: "Noé DELLA SCHIAVA"
-name_ja: ""
+title: "nan | ノエ・デッラ・スキアーヴァ"
+name_en: "nan"
+name_ja: "ノエ・デッラ・スキアーヴァ"
 slug: "noe-della-schiava"
-position: "FL/NO8"
-height: "193.0"
-weight: "95.0"
-birth_date: "2002.02.28"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/noe-della-schiava"
 ---

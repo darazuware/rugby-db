@@ -4,14 +4,14 @@ name_en: "Matias JENSEN"
 name_ja: ""
 slug: "matias-jensen"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "11/06/2003"
+weight: "1"
 birth_date: ""
-age: 22
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "RFCロサンゼルス"
+team: "The RFC Los Angeles rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/matias-jensen"
 ---

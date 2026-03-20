@@ -1,17 +1,17 @@
 ---
-title: "Robert HUNT | "
-name_en: "Robert HUNT"
-name_ja: ""
+title: "nan | ロバート ・ HUNT"
+name_en: "nan"
+name_ja: "ロバート ・ HUNT"
 slug: "robert-hunt"
-position: "PR"
-height: "185.0"
-weight: "124.0"
-birth_date: "1996.08.16"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/robert-hunt"
 ---

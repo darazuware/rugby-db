@@ -1,17 +1,17 @@
 ---
-title: "Josh JACOMB | "
-name_en: "Josh JACOMB"
-name_ja: ""
+title: "nan | ジョシュ・ジェイコム"
+name_en: "nan"
+name_ja: "ジョシュ・ジェイコム"
 slug: "josh-jacomb"
-position: "SO"
-height: "179.0"
-weight: "90.0"
-birth_date: "2001.06.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-jacomb"
 ---

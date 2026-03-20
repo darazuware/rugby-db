@@ -1,18 +1,18 @@
 ---
-title: "Greg ALLDRITT | "
-name_en: "Greg ALLDRITT"
-name_ja: ""
+title: "nan | グレゴリー-アルドリット"
+name_en: "nan"
+name_ja: "グレゴリー-アルドリット"
 slug: "greg-alldritt"
-position: "FL/NO8"
-height: "191.0"
-weight: "114.0"
-birth_date: "1997.03.23"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/greg-alldritt"
 ---
 

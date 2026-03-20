@@ -1,18 +1,18 @@
 ---
-title: "Duhan VAN DER MERWE | "
-name_en: "Duhan VAN DER MERWE"
-name_ja: ""
+title: "nan | Duhan ・ ファン ・ デル ・ MERWE"
+name_en: "nan"
+name_ja: "Duhan ・ ファン ・ デル ・ MERWE"
 slug: "duhan-van-der-merwe"
-position: "Winger"
-height: "193.0"
-weight: "106.0"
-birth_date: "1995.06.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/duhan-van-der-merwe"
 ---
 

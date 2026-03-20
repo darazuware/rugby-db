@@ -1,18 +1,18 @@
 ---
-title: "George BRIDGE | "
-name_en: "George BRIDGE"
-name_ja: ""
+title: "nan | ジョージ-ブリッジ"
+name_en: "nan"
+name_ja: "ジョージ-ブリッジ"
 slug: "george-bridge"
-position: "WTB"
-height: "186.0"
-weight: "96.0"
-birth_date: "1995.04.01"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/george-bridge"
 ---
 

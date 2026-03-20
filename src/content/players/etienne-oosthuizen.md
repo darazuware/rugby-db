@@ -1,17 +1,17 @@
 ---
-title: "Etienne OOSTHUIZEN | "
-name_en: "Etienne OOSTHUIZEN"
-name_ja: ""
+title: "nan | Etienne ・ OOSTHUIZEN"
+name_en: "nan"
+name_ja: "Etienne ・ OOSTHUIZEN"
 slug: "etienne-oosthuizen"
-position: "LO"
-height: "198.0"
-weight: "128.0"
-birth_date: "1992.12.22"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/etienne-oosthuizen"
 ---

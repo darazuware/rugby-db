@@ -1,17 +1,17 @@
 ---
-title: "Daniel GREEN | "
-name_en: "Daniel GREEN"
-name_ja: ""
+title: "nan | ダニエル ・ GREEN"
+name_en: "nan"
+name_ja: "ダニエル ・ GREEN"
 slug: "daniel-green"
-position: "FB"
-height: "183.0"
+position: ""
+height: "0"
 weight: "0"
-birth_date: "2006.."
-age: 20
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-green"
 ---

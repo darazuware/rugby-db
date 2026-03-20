@@ -1,17 +1,17 @@
 ---
-title: "Davide RUGGERI | "
-name_en: "Davide RUGGERI"
-name_ja: ""
+title: "nan | Davide ・ RUGGERI"
+name_en: "nan"
+name_ja: "Davide ・ RUGGERI"
 slug: "davide-ruggeri"
-position: "Back row"
-height: "189.0"
-weight: "109.0"
-birth_date: "1999.05.07"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/davide-ruggeri"
 ---

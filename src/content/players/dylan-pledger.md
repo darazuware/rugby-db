@@ -1,17 +1,17 @@
 ---
-title: "Dylan PLEDGER | "
-name_en: "Dylan PLEDGER"
-name_ja: ""
+title: "nan | ディラン・プレッジャー"
+name_en: "nan"
+name_ja: "ディラン・プレッジャー"
 slug: "dylan-pledger"
-position: "SH"
-height: "171.0"
-weight: "74.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-pledger"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Joe BRIAL | "
-name_en: "Joe BRIAL"
-name_ja: ""
+title: "nan | ジョー・ブライアル"
+name_en: "nan"
+name_ja: "ジョー・ブライアル"
 slug: "joe-brial"
-position: "FL/No8"
-height: "195.0"
-weight: "114.0"
-birth_date: "2002.01.07"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-brial"
 ---

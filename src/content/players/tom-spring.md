@@ -1,18 +1,18 @@
 ---
-title: "Tom SPRING | "
-name_en: "Tom SPRING"
-name_ja: ""
+title: "nan | トム・スプリング"
+name_en: "nan"
+name_ja: "トム・スプリング"
 slug: "tom-spring"
-position: "WTB"
-height: "186.0"
-weight: "87.0"
-birth_date: "2002.09.26"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tom-spring"
 ---
 

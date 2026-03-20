@@ -1,17 +1,17 @@
 ---
-title: "Vilimoni BOTITU | "
-name_en: "Vilimoni BOTITU"
-name_ja: ""
+title: "nan | ヴィリモニ・ボティトゥ"
+name_en: "nan"
+name_ja: "ヴィリモニ・ボティトゥ"
 slug: "vilimoni-botitu"
-position: "CTB"
-height: "183.0"
-weight: "98.0"
-birth_date: "1998.06.15"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vilimoni-botitu"
 ---

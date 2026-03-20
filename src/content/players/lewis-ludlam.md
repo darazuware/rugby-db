@@ -1,18 +1,18 @@
 ---
-title: "Lewis LUDLAM | "
-name_en: "Lewis LUDLAM"
-name_ja: ""
+title: "nan | ルイス・ラドラム"
+name_en: "nan"
+name_ja: "ルイス・ラドラム"
 slug: "lewis-ludlam"
-position: "FL/NO8"
-height: "192.0"
-weight: "111.0"
-birth_date: "1995.12.08"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/lewis-ludlam"
 ---
 

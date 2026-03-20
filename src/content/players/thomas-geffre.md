@@ -1,17 +1,17 @@
 ---
-title: "Thomas GEFFRÉ | "
-name_en: "Thomas GEFFRÉ"
-name_ja: ""
+title: "nan | トマ・ジェフレ"
+name_en: "nan"
+name_ja: "トマ・ジェフレ"
 slug: "thomas-geffre"
-position: "LO"
-height: "204.0"
-weight: "112.0"
-birth_date: "1998.12.24"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-geffre"
 ---

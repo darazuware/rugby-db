@@ -1,18 +1,18 @@
 ---
-title: "Warrick GELANT | "
-name_en: "Warrick GELANT"
-name_ja: ""
+title: "nan | Warrick ・ GELANT"
+name_en: "nan"
+name_ja: "Warrick ・ GELANT"
 slug: "warrick-gelant"
-position: "FB"
-height: "180.0"
-weight: "100.0"
-birth_date: "1995.05.20"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/warrick-gelant"
 ---
 

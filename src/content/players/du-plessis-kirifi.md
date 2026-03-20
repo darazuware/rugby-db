@@ -1,18 +1,18 @@
 ---
-title: "Du'Plessis KIRIFI | "
-name_en: "Du'Plessis KIRIFI"
-name_ja: ""
+title: "nan | デュプレッシー-キリフィ"
+name_en: "nan"
+name_ja: "デュプレッシー-キリフィ"
 slug: "du-plessis-kirifi"
-position: "FL/No8"
-height: "181.0"
-weight: "103.0"
-birth_date: "1997.03.03"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/du-plessis-kirifi"
 ---
 

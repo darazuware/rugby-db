@@ -1,18 +1,18 @@
 ---
-title: "Embrose PAPIER | "
-name_en: "Embrose PAPIER"
-name_ja: ""
+title: "nan | Embrose ・ PAPIER"
+name_en: "nan"
+name_ja: "Embrose ・ PAPIER"
 slug: "embrose-papier"
-position: "SH"
-height: "171.0"
-weight: "80.0"
-birth_date: "1997.04.25"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/embrose-papier"
 ---
 

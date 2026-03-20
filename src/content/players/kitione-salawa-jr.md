@@ -1,17 +1,17 @@
 ---
-title: "Kitione SALAWA JR | "
-name_en: "Kitione SALAWA JR"
-name_ja: ""
+title: "nan | キティオネ-サラワ・ジュニア"
+name_en: "nan"
+name_ja: "キティオネ-サラワ・ジュニア"
 slug: "kitione-salawa-jr"
-position: "FL/No8"
-height: "192.0"
-weight: "95.0"
-birth_date: "2001.05.23"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kitione-salawa-jr"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Batho HLEKANI | "
-name_en: "Batho HLEKANI"
-name_ja: ""
+title: "nan | Batho ・ HLEKANI"
+name_en: "nan"
+name_ja: "Batho ・ HLEKANI"
 slug: "batho-hlekani"
-position: "Back row"
-height: "193.0"
-weight: "115.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/batho-hlekani"
 ---

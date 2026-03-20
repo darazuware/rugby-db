@@ -1,17 +1,17 @@
 ---
-title: "Tom AHERN | "
-name_en: "Tom AHERN"
-name_ja: ""
+title: "nan | トム ・ AHERN"
+name_en: "nan"
+name_ja: "トム ・ AHERN"
 slug: "thomas-ahern"
-position: "LO"
-height: "206.0"
-weight: "117.0"
-birth_date: "2000.02.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-ahern"
 ---

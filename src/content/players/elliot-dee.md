@@ -1,18 +1,18 @@
 ---
-title: "Elliot DEE | "
-name_en: "Elliot DEE"
-name_ja: ""
+title: "nan | Elliot ・ DEE"
+name_en: "nan"
+name_ja: "Elliot ・ DEE"
 slug: "elliot-dee"
-position: "HO"
-height: "186.0"
-weight: "106.0"
-birth_date: "1994.03.07"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/elliot-dee"
 ---
 

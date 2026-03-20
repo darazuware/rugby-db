@@ -1,17 +1,17 @@
 ---
-title: "Gwilym EVANS | "
-name_en: "Gwilym EVANS"
-name_ja: ""
+title: "nan | Gwilym ・ EVANS"
+name_en: "nan"
+name_ja: "Gwilym ・ EVANS"
 slug: "gwilym-evans"
-position: "Back row"
-height: "183.0"
-weight: "94.0"
-birth_date: "2003.05.25"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/gwilym-evans"
 ---

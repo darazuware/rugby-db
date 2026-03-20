@@ -1,17 +1,17 @@
 ---
-title: "Cadeyrn NEVILLE | "
-name_en: "Cadeyrn NEVILLE"
-name_ja: ""
+title: "nan | ケデーン・ネヴィル"
+name_en: "nan"
+name_ja: "ケデーン・ネヴィル"
 slug: "cadeyrn-neville"
-position: "LO"
-height: "202.0"
-weight: "120.0"
-birth_date: "1988.11.09"
-age: 37
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cadeyrn-neville"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Jamie DOBIE | "
-name_en: "Jamie DOBIE"
-name_ja: ""
+title: "nan | ジェイミー ・ DOBIE"
+name_en: "nan"
+name_ja: "ジェイミー ・ DOBIE"
 slug: "jamie-dobie"
-position: "SH"
-height: "175.0"
-weight: "81.0"
-birth_date: "2001.06.07"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "Scotland"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jamie-dobie"
 ---
 

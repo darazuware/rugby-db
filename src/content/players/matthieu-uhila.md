@@ -1,17 +1,17 @@
 ---
-title: "Matthieu UHILA | "
-name_en: "Matthieu UHILA"
-name_ja: ""
+title: "nan | マチュー・ウヒラ"
+name_en: "nan"
+name_ja: "マチュー・ウヒラ"
 slug: "matthieu-uhila"
-position: "LO"
-height: "200.0"
-weight: "113.0"
-birth_date: "2002.04.30"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matthieu-uhila"
 ---

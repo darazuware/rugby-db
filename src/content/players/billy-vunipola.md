@@ -1,18 +1,18 @@
 ---
-title: "Billy VUNIPOLA | "
-name_en: "Billy VUNIPOLA"
-name_ja: ""
+title: "nan | ビリー-ヴニポラ"
+name_en: "nan"
+name_ja: "ビリー-ヴニポラ"
 slug: "billy-vunipola"
-position: "FL/NO8"
-height: "191.0"
-weight: "134.0"
-birth_date: "1992.11.03"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/billy-vunipola"
 ---
 

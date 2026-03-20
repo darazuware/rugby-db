@@ -1,17 +1,17 @@
 ---
-title: "Seán O'BRIEN | "
-name_en: "Seán O'BRIEN"
-name_ja: ""
+title: "nan | Se ・ O'BRIEN"
+name_en: "nan"
+name_ja: "Se ・ O'BRIEN"
 slug: "sean-o-brien-1998"
-position: "CTB"
-height: "187.0"
-weight: "101.0"
-birth_date: "1998.05.12"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-o-brien-1998"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Liam BOWRON | "
-name_en: "Liam BOWRON"
-name_ja: ""
+title: "nan | リアム・ボウロン"
+name_en: "nan"
+name_ja: "リアム・ボウロン"
 slug: "liam-bowron"
-position: "HO"
-height: "183.0"
-weight: "103.0"
-birth_date: "2003.02.24"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-bowron"
 ---

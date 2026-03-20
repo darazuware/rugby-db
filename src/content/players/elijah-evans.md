@@ -1,17 +1,17 @@
 ---
-title: "Elijah EVANS | "
-name_en: "Elijah EVANS"
-name_ja: ""
+title: "nan | Elijah ・ EVANS"
+name_en: "nan"
+name_ja: "Elijah ・ EVANS"
 slug: "elijah-evans"
-position: "CTB"
-height: "190.0"
-weight: "94.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/elijah-evans"
 ---

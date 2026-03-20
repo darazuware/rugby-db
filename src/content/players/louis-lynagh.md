@@ -1,18 +1,18 @@
 ---
-title: "Louis LYNAGH | "
-name_en: "Louis LYNAGH"
-name_ja: ""
+title: "nan | Louis ・ LYNAGH"
+name_en: "nan"
+name_ja: "Louis ・ LYNAGH"
 slug: "louis-lynagh"
-position: "Winger"
-height: "187.0"
-weight: "96.0"
-birth_date: "2000.12.03"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/louis-lynagh"
 ---
 

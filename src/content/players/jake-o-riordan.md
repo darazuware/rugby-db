@@ -1,17 +1,17 @@
 ---
-title: "Jake O'RIORDAN | "
-name_en: "Jake O'RIORDAN"
-name_ja: ""
+title: "nan | Jake ・ O'RIORDAN"
+name_en: "nan"
+name_ja: "Jake ・ O'RIORDAN"
 slug: "jake-o-riordan"
-position: "SH"
-height: "170.0"
-weight: "74.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---

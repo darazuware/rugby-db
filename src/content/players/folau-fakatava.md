@@ -1,17 +1,17 @@
 ---
-title: "Folau FAKATAVA | "
-name_en: "Folau FAKATAVA"
-name_ja: ""
+title: "nan | フォラウ-ファカタヴァ"
+name_en: "nan"
+name_ja: "フォラウ-ファカタヴァ"
 slug: "folau-fakatava"
-position: "SH"
-height: "177.0"
-weight: "80.0"
-birth_date: "1999.12.16"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/folau-fakatava"
 ---

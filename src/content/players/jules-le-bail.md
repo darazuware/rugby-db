@@ -1,17 +1,17 @@
 ---
-title: "Jules LE BAIL | "
-name_en: "Jules LE BAIL"
-name_ja: ""
+title: "nan | ジュール・ル・バイユ"
+name_en: "nan"
+name_ja: "ジュール・ル・バイユ"
 slug: "jules-le-bail"
-position: "SH"
-height: "168.0"
-weight: "85.0"
-birth_date: "1992.02.09"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jules-le-bail"
 ---

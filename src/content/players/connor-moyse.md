@@ -1,17 +1,17 @@
 ---
-title: "Connor MOYSE | "
-name_en: "Connor MOYSE"
-name_ja: ""
+title: "nan | Connor ・ MOYSE"
+name_en: "nan"
+name_ja: "Connor ・ MOYSE"
 slug: "connor-moyse"
-position: "Winger"
-height: "188.0"
-weight: "94.0"
-birth_date: "2003.03.19"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-moyse"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Bundee AKI | "
-name_en: "Bundee AKI"
-name_ja: ""
+title: "nan | バンディ ・ AKI"
+name_en: "nan"
+name_ja: "バンディ ・ AKI"
 slug: "bundee-aki"
-position: "CTB"
-height: "178.0"
-weight: "102.0"
-birth_date: "1990.04.07"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
-caps: "New Zealand"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/bundee-aki"
 ---
 

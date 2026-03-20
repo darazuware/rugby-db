@@ -1,18 +1,18 @@
 ---
-title: "Alex MASIBAKA | "
-name_en: "Alex MASIBAKA"
-name_ja: ""
+title: "nan | アレックス・マシバカ"
+name_en: "nan"
+name_ja: "アレックス・マシバカ"
 slug: "alex-masibaka"
-position: "FL/NO8"
-height: "186.0"
-weight: "115.0"
-birth_date: "2001.08.09"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/alex-masibaka"
 ---
 

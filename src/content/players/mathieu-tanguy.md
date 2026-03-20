@@ -1,17 +1,17 @@
 ---
-title: "Mathieu TANGUY | "
-name_en: "Mathieu TANGUY"
-name_ja: ""
+title: "nan | マチュー・タンギ"
+name_en: "nan"
+name_ja: "マチュー・タンギ"
 slug: "mathieu-tanguy"
-position: "LO"
-height: "195.0"
-weight: "117.0"
-birth_date: "1996.06.05"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mathieu-tanguy"
 ---

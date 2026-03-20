@@ -1,9 +1,9 @@
 ---
-title: "Matolu PETAIA | "
-name_en: "Matolu PETAIA"
-name_ja: ""
+title: "nan | マトル・ペタイア"
+name_en: "nan"
+name_ja: "マトル・ペタイア"
 slug: "matolu-petaia"
-position: "FL/No8"
+position: ""
 height: "0"
 weight: "0"
 birth_date: ""
@@ -11,7 +11,7 @@ age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matolu-petaia"
 ---

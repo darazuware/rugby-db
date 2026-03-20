@@ -1,17 +1,17 @@
 ---
-title: "Ngane PUNIVAI | "
-name_en: "Ngane PUNIVAI"
-name_ja: ""
+title: "nan | ンガネ・プニヴァイ"
+name_en: "nan"
+name_ja: "ンガネ・プニヴァイ"
 slug: "ngane-punivai"
-position: "WTB"
-height: "191.0"
-weight: "105.0"
-birth_date: "1998.08.30"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ngane-punivai"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Gonzalo GARCIA | "
-name_en: "Gonzalo GARCIA"
-name_ja: ""
+title: "nan | Gonzalo ・ GARCIA"
+name_en: "nan"
+name_ja: "Gonzalo ・ GARCIA"
 slug: "gonzalo-garcia-1999"
-position: "SH"
-height: "173.0"
-weight: "82.0"
-birth_date: "1999.03.05"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/gonzalo-garcia-1999"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Clovis LE BAIL | "
-name_en: "Clovis LE BAIL"
-name_ja: ""
+title: "nan | クロヴィス・ル・バイユ"
+name_en: "nan"
+name_ja: "クロヴィス・ル・バイユ"
 slug: "clovis-le-bail"
-position: "SH"
-height: "173.0"
-weight: "74.0"
-birth_date: "1995.11.29"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/clovis-le-bail"
 ---

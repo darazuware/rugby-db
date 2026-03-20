@@ -1,17 +1,17 @@
 ---
-title: "Pierre BOUDEHENT | "
-name_en: "Pierre BOUDEHENT"
-name_ja: ""
+title: "nan | ピエール・ブデアン"
+name_en: "nan"
+name_ja: "ピエール・ブデアン"
 slug: "pierre-boudehent"
-position: "CTB"
-height: "196.0"
-weight: "107.0"
-birth_date: "1998.02.06"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-boudehent"
 ---

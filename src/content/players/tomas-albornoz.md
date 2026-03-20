@@ -1,18 +1,18 @@
 ---
-title: "Tomás ALBORNOZ | "
-name_en: "Tomás ALBORNOZ"
-name_ja: ""
+title: "nan | トマス・アルボルノス"
+name_en: "nan"
+name_ja: "トマス・アルボルノス"
 slug: "tomas-albornoz"
-position: "SO"
-height: "177.0"
-weight: "82.0"
-birth_date: "1997.09.17"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tomas-albornoz"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Simon AUGRY | "
-name_en: "Simon AUGRY"
-name_ja: ""
+title: "nan | シモン・オグリ"
+name_en: "nan"
+name_ja: "シモン・オグリ"
 slug: "simon-augry"
-position: "FL/NO8"
-height: "192.0"
-weight: "105.0"
-birth_date: "1997.08.22"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/simon-augry"
 ---

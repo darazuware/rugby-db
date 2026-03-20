@@ -1,18 +1,18 @@
 ---
-title: "Fabien BRAU-BOIRIE | "
-name_en: "Fabien BRAU-BOIRIE"
-name_ja: ""
+title: "nan | ファビアン・ブロー＝ボワリ"
+name_en: "nan"
+name_ja: "ファビアン・ブロー＝ボワリ"
 slug: "fabien-brau-boirie"
-position: "CTB"
-height: "190.0"
-weight: "98.0"
-birth_date: "//2005"
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/fabien-brau-boirie"
 ---
 

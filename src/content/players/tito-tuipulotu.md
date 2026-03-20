@@ -1,17 +1,17 @@
 ---
-title: "Tito TUIPULOTU | "
-name_en: "Tito TUIPULOTU"
-name_ja: ""
+title: "nan | ティト・ツイプロトゥ"
+name_en: "nan"
+name_ja: "ティト・ツイプロトゥ"
 slug: "tito-tuipulotu"
-position: "PR"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2002.06.08"
-age: 23
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tito-tuipulotu"
 ---

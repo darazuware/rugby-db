@@ -1,18 +1,18 @@
 ---
-title: "Harry WILSON | "
-name_en: "Harry WILSON"
-name_ja: ""
+title: "nan | ハリー-ウィルソン"
+name_en: "nan"
+name_ja: "ハリー-ウィルソン"
 slug: "harry-wilson"
-position: "FL/No8"
-height: "196.0"
-weight: "115.0"
-birth_date: "1999.11.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/harry-wilson"
 ---
 

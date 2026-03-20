@@ -1,18 +1,18 @@
 ---
-title: "Benjamin URDAPILLETA | "
-name_en: "Benjamin URDAPILLETA"
-name_ja: ""
+title: "nan | ベンジャミン-ウルダピレッタ"
+name_en: "nan"
+name_ja: "ベンジャミン-ウルダピレッタ"
 slug: "benjamin-urdapilleta"
-position: "SO"
-height: "178.0"
-weight: "86.0"
-birth_date: "1986.03.11"
-age: 40
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/benjamin-urdapilleta"
 ---
 

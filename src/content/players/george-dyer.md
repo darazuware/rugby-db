@@ -1,17 +1,17 @@
 ---
-title: "George DYER | "
-name_en: "George DYER"
-name_ja: ""
+title: "nan | ジョージ・ダイヤー"
+name_en: "nan"
+name_ja: "ジョージ・ダイヤー"
 slug: "george-dyer"
-position: "PR"
-height: "188.0"
-weight: "118.0"
-birth_date: "1999.10.22"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/george-dyer"
 ---

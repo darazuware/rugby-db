@@ -1,17 +1,17 @@
 ---
-title: "Vincent TSHITUKA | "
-name_en: "Vincent TSHITUKA"
-name_ja: ""
+title: "nan | ヴィンセント ・ TSHITUKA"
+name_en: "nan"
+name_ja: "ヴィンセント ・ TSHITUKA"
 slug: "vincent-tshituka"
-position: "Back row"
-height: "194.0"
-weight: "110.0"
-birth_date: "1998.09.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/vincent-tshituka"
 ---

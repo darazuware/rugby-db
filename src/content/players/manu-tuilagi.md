@@ -1,18 +1,18 @@
 ---
-title: "Manu TUILAGI | "
-name_en: "Manu TUILAGI"
-name_ja: ""
+title: "nan | マヌ・ツイラギ"
+name_en: "nan"
+name_ja: "マヌ・ツイラギ"
 slug: "manu-tuilagi"
-position: "CTB"
-height: "185.0"
-weight: "111.0"
-birth_date: "1991.05.18"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Samoa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/manu-tuilagi"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Alexandre FISCHER | "
-name_en: "Alexandre FISCHER"
-name_ja: ""
+title: "nan | アレクサンドル-フィッシャー"
+name_en: "nan"
+name_ja: "アレクサンドル-フィッシャー"
 slug: "alexandre-fischer"
-position: "FL/NO8"
-height: "188.0"
-weight: "107.0"
-birth_date: "1998.01.19"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/alexandre-fischer"
 ---
 

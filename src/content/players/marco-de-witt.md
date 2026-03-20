@@ -1,17 +1,17 @@
 ---
-title: "Marco DE WITT | "
-name_en: "Marco DE WITT"
-name_ja: ""
+title: "nan | マルコ ・ デ ・ WITT"
+name_en: "nan"
+name_ja: "マルコ ・ デ ・ WITT"
 slug: "marco-de-witt"
-position: "Back row"
-height: "193.0"
-weight: "101.0"
-birth_date: "2002.01.24"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "オスプリーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/marco-de-witt"
 ---

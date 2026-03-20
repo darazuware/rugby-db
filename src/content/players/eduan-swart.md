@@ -1,17 +1,17 @@
 ---
-title: "Eduan SWART | "
-name_en: "Eduan SWART"
-name_ja: ""
+title: "nan | Eduan ・ SWART"
+name_en: "nan"
+name_ja: "Eduan ・ SWART"
 slug: "eduan-swart"
-position: "PR"
-height: "186.0"
-weight: "115.0"
-birth_date: "2000.10.20"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マイアミ・シャークス"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eduan-swart"
 ---

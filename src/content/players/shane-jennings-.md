@@ -1,17 +1,17 @@
 ---
-title: "Shane JENNINGS | "
-name_en: "Shane JENNINGS"
-name_ja: ""
+title: "nan | Shane ・ JENNINGS"
+name_en: "nan"
+name_ja: "Shane ・ JENNINGS"
 slug: "shane-jennings-"
-position: "Winger"
-height: "191.0"
-weight: "96.0"
-birth_date: "2001.01.14"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/shane-jennings-"
 ---

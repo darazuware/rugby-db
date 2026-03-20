@@ -1,17 +1,17 @@
 ---
-title: "Konrad TOLEAFOA | "
-name_en: "Konrad TOLEAFOA"
-name_ja: ""
+title: "nan | コンラッド・トレアフォア"
+name_en: "nan"
+name_ja: "コンラッド・トレアフォア"
 slug: "konrad-toleafoa"
-position: "FL/No8"
-height: "190.0"
-weight: "112.0"
-birth_date: "2003.10.29"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "モアナ・パシフィカ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/konrad-toleafoa"
 ---

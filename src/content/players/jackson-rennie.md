@@ -1,17 +1,17 @@
 ---
-title: "Jackson RENNIE | "
-name_en: "Jackson RENNIE"
-name_ja: ""
+title: "nan | Jackson ・ RENNIE"
+name_en: "nan"
+name_ja: "Jackson ・ RENNIE"
 slug: "jackson-rennie"
-position: "PR"
-height: "188.0"
-weight: "119.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jackson-rennie"
 ---

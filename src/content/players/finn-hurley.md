@@ -1,17 +1,17 @@
 ---
-title: "Finn HURLEY | "
-name_en: "Finn HURLEY"
-name_ja: ""
+title: "nan | フィン-ハーリー"
+name_en: "nan"
+name_ja: "フィン-ハーリー"
 slug: "finn-hurley"
-position: "FB"
-height: "175.0"
-weight: "75.0"
-birth_date: "2003.06.25"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/finn-hurley"
 ---

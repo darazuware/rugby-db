@@ -1,17 +1,17 @@
 ---
-title: "Giorgi AKHALADZE | "
-name_en: "Giorgi AKHALADZE"
-name_ja: ""
+title: "nan | ギオルギ-アハラゼ"
+name_en: "nan"
+name_ja: "ギオルギ-アハラゼ"
 slug: "giorgi-akhaladze"
-position: "PR"
-height: "186.0"
-weight: "128.0"
-birth_date: "1999.04.13"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/giorgi-akhaladze"
 ---

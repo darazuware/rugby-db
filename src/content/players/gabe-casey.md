@@ -4,14 +4,14 @@ name_en: "Gabe CASEY"
 name_ja: ""
 slug: "gabe-casey"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "15/07/1999"
+weight: "1"
 birth_date: ""
-age: 26
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "ユタ・ウォーリアーズ"
+team: "The Utah Warriors rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/gabe-casey"
 ---

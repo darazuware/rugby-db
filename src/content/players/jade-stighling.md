@@ -4,14 +4,14 @@ name_en: "Jade STIGHLING"
 name_ja: ""
 slug: "jade-stighling"
 position: "Winger"
-height: "0"
-weight: "0"
+height: "27/05/1993"
+weight: "1"
 birth_date: ""
-age: 32
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "シアトル・シーウルブズ"
+team: "The Seattle Seawolves rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/jade-stighling"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Ronan LEAHY | "
-name_en: "Ronan LEAHY"
-name_ja: ""
+title: "nan | ロナン・リーヒー"
+name_en: "nan"
+name_ja: "ロナン・リーヒー"
 slug: "ronan-leahy"
-position: "WTB"
-height: "188.0"
-weight: "96.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェスタン・フォース"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ronan-leahy"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Finn MACKAY | "
-name_en: "Finn MACKAY"
-name_ja: ""
+title: "nan | フィン・マッケイ"
+name_en: "nan"
+name_ja: "フィン・マッケイ"
 slug: "finn-mackay"
-position: "SO"
-height: "189.0"
-weight: "84.0"
-birth_date: "2007.."
-age: 19
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/finn-mackay"
 ---

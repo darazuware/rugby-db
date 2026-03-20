@@ -1,18 +1,18 @@
 ---
-title: "Aled DAVIES | "
-name_en: "Aled DAVIES"
-name_ja: ""
+title: "nan | Aled ・ DAVIES"
+name_en: "nan"
+name_ja: "Aled ・ DAVIES"
 slug: "aled-davies"
-position: "SH"
-height: "178.0"
-weight: "88.0"
-birth_date: "1992.07.19"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/aled-davies"
 ---
 

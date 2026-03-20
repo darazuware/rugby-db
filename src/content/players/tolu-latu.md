@@ -1,18 +1,18 @@
 ---
-title: "Tolu LATU | "
-name_en: "Tolu LATU"
-name_ja: ""
+title: "nan | トル・ラトゥ"
+name_en: "nan"
+name_ja: "トル・ラトゥ"
 slug: "tolu-latu"
-position: "HO"
-height: "180.0"
-weight: "117.0"
-birth_date: "1993.02.23"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "Tonga"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/tolu-latu"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Demba BAMBA | "
-name_en: "Demba BAMBA"
-name_ja: ""
+title: "nan | デンバ-バンバ"
+name_en: "nan"
+name_ja: "デンバ-バンバ"
 slug: "demba-bamba"
-position: "PR"
-height: "185.0"
-weight: "125.0"
-birth_date: "1998.03.17"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラシン92"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/demba-bamba"
 ---
 

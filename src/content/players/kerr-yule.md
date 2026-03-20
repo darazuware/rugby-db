@@ -1,17 +1,17 @@
 ---
-title: "Kerr YULE | "
-name_en: "Kerr YULE"
-name_ja: ""
+title: "nan | Kerr ・ YULE"
+name_en: "nan"
+name_ja: "Kerr ・ YULE"
 slug: "kerr-yule"
-position: "CTB"
-height: "189.0"
-weight: "107.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/kerr-yule"
 ---

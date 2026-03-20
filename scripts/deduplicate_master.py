@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime
 import os
 
-INPUT_CSV_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
+INPUT_CSV_PATH = 'data_sources/final_master_data_v26_mlr_integrated.csv'
 OUTPUT_CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
 BACKUP_PATH = 'data_sources/final_master_data_v27_normalized.csv.bak'
 

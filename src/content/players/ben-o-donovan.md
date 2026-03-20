@@ -1,17 +1,17 @@
 ---
-title: "Ben O'DONOVAN | "
-name_en: "Ben O'DONOVAN"
-name_ja: ""
+title: "nan | ベン ・ O'DONOVAN"
+name_en: "nan"
+name_ja: "ベン ・ O'DONOVAN"
 slug: "ben-o-donovan"
-position: "SH"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-o-donovan"
 ---

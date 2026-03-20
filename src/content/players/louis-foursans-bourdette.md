@@ -1,17 +1,17 @@
 ---
-title: "Louis FOURSANS-BOURDETTE | "
-name_en: "Louis FOURSANS-BOURDETTE"
-name_ja: ""
+title: "nan | ルイ・フルサン＝ブルデット"
+name_en: "nan"
+name_ja: "ルイ・フルサン＝ブルデット"
 slug: "louis-foursans-bourdette"
-position: "SO"
-height: "171.0"
-weight: "81.0"
-birth_date: "2002.01.29"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "スタッド・フランセ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-foursans-bourdette"
 ---

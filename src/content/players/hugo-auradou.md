@@ -1,18 +1,18 @@
 ---
-title: "Hugo AURADOU | "
-name_en: "Hugo AURADOU"
-name_ja: ""
+title: "nan | ユーゴー-オーラドゥ"
+name_en: "nan"
+name_ja: "ユーゴー-オーラドゥ"
 slug: "hugo-auradou"
-position: "LO"
-height: "200.0"
-weight: "105.0"
-birth_date: "2003.07.20"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/hugo-auradou"
 ---
 

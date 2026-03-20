@@ -1,17 +1,17 @@
 ---
-title: "Ben SALMON | "
-name_en: "Ben SALMON"
-name_ja: ""
+title: "nan | ベン ・ SALMON"
+name_en: "nan"
+name_ja: "ベン ・ SALMON"
 slug: "ben-salmon"
-position: "CTB"
-height: "182.0"
-weight: "83.0"
-birth_date: "2003.11.13"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "グラスゴー・ウォリアーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-salmon"
 ---

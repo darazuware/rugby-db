@@ -1,17 +1,17 @@
 ---
-title: "Clark LOGAN | "
-name_en: "Clark LOGAN"
-name_ja: ""
+title: "nan | Clark ・ LOGAN"
+name_en: "nan"
+name_ja: "Clark ・ LOGAN"
 slug: "clark-logan"
-position: "SH"
-height: "175.0"
-weight: "78.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/clark-logan"
 ---

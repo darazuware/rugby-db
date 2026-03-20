@@ -1,17 +1,17 @@
 ---
-title: "Lachie SHAW | "
-name_en: "Lachie SHAW"
-name_ja: ""
+title: "nan | ラキ・ショウ"
+name_en: "nan"
+name_ja: "ラキ・ショウ"
 slug: "lachlan-shaw"
-position: "LO"
-height: "200.0"
-weight: "112.0"
-birth_date: "2003.05.15"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lachlan-shaw"
 ---

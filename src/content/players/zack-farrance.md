@@ -4,14 +4,14 @@ name_en: "Zak FARRANCE"
 name_ja: ""
 slug: "zack-farrance"
 position: "Lock"
-height: "0"
-weight: "0"
+height: "18/05/1996"
+weight: "1"
 birth_date: ""
-age: 29
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "サンディエゴ・レギオン"
+team: "The San Diego Legion rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/zack-farrance"
 ---

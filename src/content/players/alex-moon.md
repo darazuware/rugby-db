@@ -1,17 +1,17 @@
 ---
-title: "Alex MOON | "
-name_en: "Alex MOON"
-name_ja: ""
+title: "nan | アレックス・ムーン"
+name_en: "nan"
+name_ja: "アレックス・ムーン"
 slug: "alex-moon"
-position: "LO"
-height: "202.0"
-weight: "127.0"
-birth_date: "1996.09.06"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-moon"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Jake BALL | "
-name_en: "Jake BALL"
-name_ja: ""
+title: "nan | Jake ・ BALL"
+name_en: "nan"
+name_ja: "Jake ・ BALL"
 slug: "jake-ball"
-position: "LO"
-height: "200.0"
-weight: "121.0"
-birth_date: "1991.06.21"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jake-ball"
 ---
 

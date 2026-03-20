@@ -1,18 +1,18 @@
 ---
-title: "Willie LE ROUX | "
-name_en: "Willie LE ROUX"
-name_ja: ""
+title: "nan | ウィリー ・ ル ・ ルー"
+name_en: "nan"
+name_ja: "ウィリー ・ ル ・ ルー"
 slug: "willie-le-roux"
-position: "FB"
-height: "184.0"
-weight: "92.0"
-birth_date: "1989.08.18"
-age: 36
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/willie-le-roux"
 ---
 

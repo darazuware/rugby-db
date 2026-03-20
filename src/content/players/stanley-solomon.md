@@ -1,17 +1,17 @@
 ---
-title: "Stanley SOLOMON | "
-name_en: "Stanley SOLOMON"
-name_ja: ""
+title: "nan | スタンリー・ソロモン"
+name_en: "nan"
+name_ja: "スタンリー・ソロモン"
 slug: "stanley-solomon"
-position: "WTB"
-height: "174.0"
-weight: "80.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/stanley-solomon"
 ---

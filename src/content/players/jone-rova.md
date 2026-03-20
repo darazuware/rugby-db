@@ -1,17 +1,17 @@
 ---
-title: "Jone ROVA | "
-name_en: "Jone ROVA"
-name_ja: ""
+title: "nan | ジョネ・ロヴァ"
+name_en: "nan"
+name_ja: "ジョネ・ロヴァ"
 slug: "jone-rova"
-position: "CTB"
-height: "185.0"
-weight: "96.0"
-birth_date: "2002.12.07"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jone-rova"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Alovisio KOLIVAÏ | "
-name_en: "Alovisio KOLIVAÏ"
-name_ja: ""
+title: "nan | アロヴィシオ・コリヴァイ"
+name_en: "nan"
+name_ja: "アロヴィシオ・コリヴァイ"
 slug: "alovisio-kolivai"
-position: "PR"
-height: "178.0"
-weight: "115.0"
-birth_date: "2004.02.23"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alovisio-kolivai"
 ---

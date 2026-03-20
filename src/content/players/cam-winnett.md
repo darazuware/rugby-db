@@ -1,18 +1,18 @@
 ---
-title: "Cam WINNETT | "
-name_en: "Cam WINNETT"
-name_ja: ""
+title: "nan | Cam ・ WINNETT"
+name_en: "nan"
+name_ja: "Cam ・ WINNETT"
 slug: "cam-winnett"
-position: "FB"
-height: "180.0"
-weight: "85.0"
-birth_date: "2003.01.07"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/cam-winnett"
 ---
 

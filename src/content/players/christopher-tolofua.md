@@ -1,18 +1,18 @@
 ---
-title: "Christopher TOLOFUA | "
-name_en: "Christopher TOLOFUA"
-name_ja: ""
+title: "nan | クリストファー-トロフア"
+name_en: "nan"
+name_ja: "クリストファー-トロフア"
 slug: "christopher-tolofua"
-position: "HO"
-height: "182.0"
-weight: "125.0"
-birth_date: "1993.12.31"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/christopher-tolofua"
 ---
 

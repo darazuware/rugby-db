@@ -1,17 +1,17 @@
 ---
-title: "Rory JENNINGS | "
-name_en: "Rory JENNINGS"
-name_ja: ""
+title: "nan | Rory ・ JENNINGS"
+name_en: "nan"
+name_ja: "Rory ・ JENNINGS"
 slug: "rory-jennings-"
-position: "SO"
-height: "180.0"
-weight: "91.0"
-birth_date: "1995.12.24"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rory-jennings-"
 ---

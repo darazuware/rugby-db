@@ -1,17 +1,17 @@
 ---
-title: "Isikeli BASIYALO | "
-name_en: "Isikeli BASIYALO"
-name_ja: ""
+title: "nan | イシケリ・バシヤロ"
+name_en: "nan"
+name_ja: "イシケリ・バシヤロ"
 slug: "isikeli-basiyalo"
-position: "WTB"
+position: ""
 height: "0"
 weight: "0"
-birth_date: "2004.."
-age: 22
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/isikeli-basiyalo"
 ---

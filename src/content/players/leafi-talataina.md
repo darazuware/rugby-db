@@ -1,17 +1,17 @@
 ---
-title: "Leafi TALATAINA | "
-name_en: "Leafi TALATAINA"
-name_ja: ""
+title: "nan | レアフィ・タラタイナ"
+name_en: "nan"
+name_ja: "レアフィ・タラタイナ"
 slug: "leafi-talataina"
-position: "FL/No8"
-height: "196.0"
-weight: "112.0"
-birth_date: "2004.01.18"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leafi-talataina"
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Ryan ELIAS | "
-name_en: "Ryan ELIAS"
-name_ja: ""
+title: "nan | ライアン ・ ELIAS"
+name_en: "nan"
+name_ja: "ライアン ・ ELIAS"
 slug: "ryan-elias"
-position: "HO"
-height: "188.0"
-weight: "115.0"
-birth_date: "1995.01.07"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "スカーレッツ"
-caps: "Wales"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ryan-elias"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Matteo NOCERA | "
-name_en: "Matteo NOCERA"
-name_ja: ""
+title: "nan | Matteo ・ NOCERA"
+name_en: "nan"
+name_ja: "Matteo ・ NOCERA"
 slug: "matteo-nocera"
-position: "PR"
-height: "194.0"
-weight: "130.0"
-birth_date: "1999.01.16"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matteo-nocera"
 ---

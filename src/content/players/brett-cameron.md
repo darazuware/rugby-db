@@ -1,18 +1,18 @@
 ---
-title: "Brett CAMERON | "
-name_en: "Brett CAMERON"
-name_ja: ""
+title: "nan | ブレット-キャメロン"
+name_en: "nan"
+name_ja: "ブレット-キャメロン"
 slug: "brett-cameron"
-position: "SO"
-height: "175.0"
-weight: "84.0"
-birth_date: "1996.10.04"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "New Zealand"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/brett-cameron"
 ---
 

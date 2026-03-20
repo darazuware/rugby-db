@@ -1,17 +1,17 @@
 ---
-title: "Jack BOWEN | "
-name_en: "Jack BOWEN"
-name_ja: ""
+title: "nan | ジャック・ボーウェン"
+name_en: "nan"
+name_ja: "ジャック・ボーウェン"
 slug: "jack-bowen"
-position: "SO"
-height: "178.0"
-weight: "90.0"
-birth_date: "2003.12.30"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "NSWワラタス（ワラターズ）"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-bowen"
 ---

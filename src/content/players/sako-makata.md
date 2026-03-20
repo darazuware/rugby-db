@@ -1,17 +1,17 @@
 ---
-title: "Sako MAKATA | "
-name_en: "Sako MAKATA"
-name_ja: ""
+title: "nan | Sako ・ MAKATA"
+name_en: "nan"
+name_ja: "Sako ・ MAKATA"
 slug: "sako-makata"
-position: "Winger"
-height: "185.0"
-weight: "103.0"
-birth_date: "1998.09.10"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/sako-makata"
 ---

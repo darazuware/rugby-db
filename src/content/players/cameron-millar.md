@@ -1,17 +1,17 @@
 ---
-title: "Cameron MILLAR | "
-name_en: "Cameron MILLAR"
-name_ja: ""
+title: "nan | キャメロン・ミラー"
+name_en: "nan"
+name_ja: "キャメロン・ミラー"
 slug: "cameron-millar"
-position: "SO"
-height: "185.0"
-weight: "85.0"
-birth_date: "2002.07.13"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "オタゴ・ハイランダーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-millar"
 ---

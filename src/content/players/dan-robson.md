@@ -1,18 +1,18 @@
 ---
-title: "Dan ROBSON | "
-name_en: "Dan ROBSON"
-name_ja: ""
+title: "nan | ダン・ロブソン"
+name_en: "nan"
+name_ja: "ダン・ロブソン"
 slug: "dan-robson"
-position: "SH"
-height: "173.0"
-weight: "82.0"
-birth_date: "1992.03.14"
-age: 34
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ポー"
-caps: "England"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/dan-robson"
 ---
 

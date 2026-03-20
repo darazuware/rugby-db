@@ -1,18 +1,18 @@
 ---
-title: "Fraser MCREIGHT | "
-name_en: "Fraser MCREIGHT"
-name_ja: ""
+title: "nan | フレイザー-マクライト"
+name_en: "nan"
+name_ja: "フレイザー-マクライト"
 slug: "fraser-mcreight"
-position: "FL/No8"
-height: "186.0"
-weight: "108.0"
-birth_date: "1999.02.19"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/fraser-mcreight"
 ---
 

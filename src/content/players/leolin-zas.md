@@ -1,17 +1,17 @@
 ---
-title: "Leolin ZAS | "
-name_en: "Leolin ZAS"
-name_ja: ""
+title: "nan | Leolin ・ ZAS"
+name_en: "nan"
+name_ja: "Leolin ・ ZAS"
 slug: "leolin-zas"
-position: "Winger"
-height: "184.0"
-weight: "95.0"
-birth_date: "1995.10.20"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/leolin-zas"
 ---

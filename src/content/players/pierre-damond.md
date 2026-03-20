@@ -1,17 +1,17 @@
 ---
-title: "Pierre DAMOND | "
-name_en: "Pierre DAMOND"
-name_ja: ""
+title: "nan | ピエール・ダモン"
+name_en: "nan"
+name_ja: "ピエール・ダモン"
 slug: "pierre-damond"
-position: "HO"
-height: "181.0"
-weight: "103.0"
-birth_date: "2003.11.27"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "トゥーロン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-damond"
 ---

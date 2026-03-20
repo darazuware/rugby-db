@@ -1,17 +1,17 @@
 ---
-title: "Conraad VAN VUUREN | "
-name_en: "Conraad VAN VUUREN"
-name_ja: ""
+title: "nan | Conraad ・ ファン ・ VUUREN"
+name_en: "nan"
+name_ja: "Conraad ・ ファン ・ VUUREN"
 slug: "conraad-van-vuuren"
-position: "PR"
-height: "183.0"
-weight: "115.0"
-birth_date: "1995.09.04"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/conraad-van-vuuren"
 ---

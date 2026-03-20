@@ -1,17 +1,17 @@
 ---
-title: "Ethan GRAHAM | "
-name_en: "Ethan GRAHAM"
-name_ja: ""
+title: "nan | Ethan ・ GRAHAM"
+name_en: "nan"
+name_ja: "Ethan ・ GRAHAM"
 slug: "ethan-graham"
-position: "Winger"
-height: "181.0"
-weight: "87.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "アルスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-graham"
 ---

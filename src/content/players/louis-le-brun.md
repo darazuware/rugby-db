@@ -1,17 +1,17 @@
 ---
-title: "Louis LE BRUN | "
-name_en: "Louis LE BRUN"
-name_ja: ""
+title: "nan | ルイ・ル・ブラン"
+name_en: "nan"
+name_ja: "ルイ・ル・ブラン"
 slug: "louis-le-brun"
-position: "SO"
-height: "188.0"
-weight: "100.0"
-birth_date: "2002.02.28"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-le-brun"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Pio MUARUA | "
-name_en: "Pio MUARUA"
-name_ja: ""
+title: "nan | ピオ・ムアルア"
+name_en: "nan"
+name_ja: "ピオ・ムアルア"
 slug: "pio-muarua"
-position: "FL/NO8"
-height: "191.0"
-weight: "125.0"
-birth_date: "1996.06.28"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/pio-muarua"
 ---

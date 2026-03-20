@@ -1,17 +1,17 @@
 ---
-title: "Deon FOURIE | "
-name_en: "Deon FOURIE"
-name_ja: ""
+title: "nan | Deon ・ FOURIE"
+name_en: "nan"
+name_ja: "Deon ・ FOURIE"
 slug: "deon-fourie"
-position: "Back row"
-height: "177.0"
-weight: "103.0"
-birth_date: "1986.09.25"
-age: 39
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "DHLストーマーズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/deon-fourie"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Alfred PARISIEN | "
-name_en: "Alfred PARISIEN"
-name_ja: ""
+title: "nan | アルフレッド・パリジャン"
+name_en: "nan"
+name_ja: "アルフレッド・パリジャン"
 slug: "alfred-parisien"
-position: "CTB"
-height: "182.0"
-weight: "93.0"
-birth_date: "2001.03.04"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "リヨン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/alfred-parisien"
 ---

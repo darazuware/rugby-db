@@ -1,18 +1,18 @@
 ---
-title: "Jefferson POIROT | "
-name_en: "Jefferson POIROT"
-name_ja: ""
+title: "nan | ジェファーソン-ポワロ"
+name_en: "nan"
+name_ja: "ジェファーソン-ポワロ"
 slug: "jefferson-poirot"
-position: "PR"
-height: "181.0"
-weight: "117.0"
-birth_date: "1992.11.01"
-age: 33
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jefferson-poirot"
 ---
 

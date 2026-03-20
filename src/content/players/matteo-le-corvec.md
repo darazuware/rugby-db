@@ -1,17 +1,17 @@
 ---
-title: "Mattéo LE CORVEC | "
-name_en: "Mattéo LE CORVEC"
-name_ja: ""
+title: "nan | マテオ・ル・コルヴェック"
+name_en: "nan"
+name_ja: "マテオ・ル・コルヴェック"
 slug: "matteo-le-corvec"
-position: "FL/NO8"
-height: "192.0"
-weight: "113.0"
-birth_date: "2001.01.04"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/matteo-le-corvec"
 ---

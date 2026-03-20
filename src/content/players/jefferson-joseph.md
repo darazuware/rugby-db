@@ -1,17 +1,17 @@
 ---
-title: "Jefferson-Lee JOSEPH | "
-name_en: "Jefferson-Lee JOSEPH"
-name_ja: ""
+title: "nan | ジェファーソン＝リー-ジョセフ"
+name_en: "nan"
+name_ja: "ジェファーソン＝リー-ジョセフ"
 slug: "jefferson-joseph"
-position: "WTB"
-height: "192.0"
-weight: "90.0"
-birth_date: "2002.08.28"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jefferson-joseph"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Jahrome BROWN | "
-name_en: "Jahrome BROWN"
-name_ja: ""
+title: "nan | ジャローム-ブラウン"
+name_en: "nan"
+name_ja: "ジャローム-ブラウン"
 slug: "jahrome-brown"
-position: "FL/No8"
-height: "189.0"
-weight: "105.0"
-birth_date: "1996.09.29"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/jahrome-brown"
 ---

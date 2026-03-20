@@ -1,17 +1,17 @@
 ---
-title: "Bobby POWER | "
-name_en: "Bobby POWER"
-name_ja: ""
+title: "nan | Bobby ・ POWER"
+name_en: "nan"
+name_ja: "Bobby ・ POWER"
 slug: "bobby-power"
-position: "Back row"
-height: "192.0"
-weight: "106.0"
-birth_date: "2005.."
-age: 21
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "コナート・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/bobby-power"
 ---

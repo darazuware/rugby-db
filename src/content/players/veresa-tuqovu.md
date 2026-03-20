@@ -1,17 +1,17 @@
 ---
-title: "Veresa Tuqovu RAMOTOTABUA | "
-name_en: "Veresa Tuqovu RAMOTOTABUA"
-name_ja: ""
+title: "nan | ヴェレサ-トゥコヴ・ラモトタブア"
+name_en: "nan"
+name_ja: "ヴェレサ-トゥコヴ・ラモトタブア"
 slug: "veresa-tuqovu"
-position: "FL/NO8"
-height: "195.0"
-weight: "107.0"
-birth_date: "2000.06.12"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/veresa-tuqovu"
 ---

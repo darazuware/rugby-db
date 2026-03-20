@@ -1,17 +1,17 @@
 ---
-title: "Ryan WOODMAN | "
-name_en: "Ryan WOODMAN"
-name_ja: ""
+title: "nan | ライアン ・ WOODMAN"
+name_en: "nan"
+name_ja: "ライアン ・ WOODMAN"
 slug: "ryan-woodman"
-position: "Back row"
-height: "196.0"
-weight: "107.0"
-birth_date: "2004.02.02"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ドラゴンズ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ryan-woodman"
 ---

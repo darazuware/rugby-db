@@ -1,17 +1,17 @@
 ---
-title: "Job POULET | "
-name_en: "Job POULET"
-name_ja: ""
+title: "nan | ジョブ・プレ"
+name_en: "nan"
+name_ja: "ジョブ・プレ"
 slug: "job-poulet"
-position: "CTB"
-height: "180.0"
-weight: "79.0"
-birth_date: "2003.04.30"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/job-poulet"
 ---

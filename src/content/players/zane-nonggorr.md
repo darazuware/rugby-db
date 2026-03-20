@@ -1,17 +1,17 @@
 ---
-title: "Zane NONGGORR | "
-name_en: "Zane NONGGORR"
-name_ja: ""
+title: "nan | ゼーン・ノンゴール"
+name_en: "nan"
+name_ja: "ゼーン・ノンゴール"
 slug: "zane-nonggorr"
-position: "PR"
-height: "187.0"
-weight: "130.0"
-birth_date: "2001.03.30"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "クイーンズランド・レッズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/zane-nonggorr"
 ---

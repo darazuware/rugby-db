@@ -1,18 +1,18 @@
 ---
-title: "Ollie NORRIS | "
-name_en: "Ollie NORRIS"
-name_ja: ""
+title: "nan | オリー・ノリス"
+name_en: "nan"
+name_ja: "オリー・ノリス"
 slug: "ollie-norris"
-position: "PR"
-height: "194.0"
-weight: "122.0"
-birth_date: "1999.12.11"
-age: 26
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
-caps: "Australia"
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ollie-norris"
 ---
 

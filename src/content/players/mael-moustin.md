@@ -1,17 +1,17 @@
 ---
-title: "Maël MOUSTIN | "
-name_en: "Maël MOUSTIN"
-name_ja: ""
+title: "nan | マエル・ムスタン"
+name_en: "nan"
+name_ja: "マエル・ムスタン"
 slug: "mael-moustin"
-position: "WTB"
-height: "187.0"
-weight: "103.0"
-birth_date: "2003.04.22"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mael-moustin"
 ---

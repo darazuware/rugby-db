@@ -1,18 +1,18 @@
 ---
-title: "Sipili FALATEA | "
-name_en: "Sipili FALATEA"
-name_ja: ""
+title: "nan | シピリ・ファラテア"
+name_en: "nan"
+name_ja: "シピリ・ファラテア"
 slug: "sipili-falatea"
-position: "PR"
-height: "183.0"
-weight: "116.0"
-birth_date: "1997.06.06"
-age: 28
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "France"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/sipili-falatea"
 ---
 

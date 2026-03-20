@@ -1,18 +1,18 @@
 ---
-title: "Ignacio MENDY | "
-name_en: "Ignacio MENDY"
-name_ja: ""
+title: "nan | Ignacio ・ MENDY"
+name_en: "nan"
+name_ja: "Ignacio ・ MENDY"
 slug: "ignacio-mendy"
-position: "Winger"
-height: "187.0"
-weight: "90.0"
-birth_date: "2000.06.29"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "Argentina"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ignacio-mendy"
 ---
 

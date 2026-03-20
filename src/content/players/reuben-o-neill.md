@@ -1,17 +1,17 @@
 ---
-title: "Reuben O'NEILL | "
-name_en: "Reuben O'NEILL"
-name_ja: ""
+title: "nan | ルーベン・オニール"
+name_en: "nan"
+name_ja: "ルーベン・オニール"
 slug: "reuben-o-neill"
-position: "PR"
-height: "183.0"
-weight: "117.0"
-birth_date: "1995.02.17"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ワイカト・チーフス"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/reuben-o-neill"
 ---

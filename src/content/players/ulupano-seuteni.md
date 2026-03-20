@@ -1,18 +1,18 @@
 ---
-title: "Ulupano SEUTENI | "
-name_en: "Ulupano SEUTENI"
-name_ja: ""
+title: "nan | ウルパノ・セウテニ"
+name_en: "nan"
+name_ja: "ウルパノ・セウテニ"
 slug: "ulupano-seuteni"
-position: "CTB"
-height: "185.0"
-weight: "100.0"
-birth_date: "1993.12.09"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ラ・ロシェル"
-caps: "Australia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/ulupano-seuteni"
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Loîs GUÉROIS-GALISSON | "
-name_en: "Loîs GUÉROIS-GALISSON"
-name_ja: ""
+title: "nan | ロイス・ゲロワ＝ガリソン"
+name_en: "nan"
+name_ja: "ロイス・ゲロワ＝ガリソン"
 slug: "lois-guerois-galisson"
-position: "PR"
-height: "192.0"
-weight: "122.0"
-birth_date: "2001.12.22"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "カストル"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/lois-guerois-galisson"
 ---

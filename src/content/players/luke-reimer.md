@@ -1,17 +1,17 @@
 ---
-title: "Luke REIMER | "
-name_en: "Luke REIMER"
-name_ja: ""
+title: "nan | ルーク・ライマー"
+name_en: "nan"
+name_ja: "ルーク・ライマー"
 slug: "luke-reimer"
-position: "FL/No8"
-height: "187.0"
-weight: "102.0"
-birth_date: "2000.05.27"
-age: 25
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "ACTブランビーズ"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-reimer"
 ---

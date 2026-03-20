@@ -1,18 +1,18 @@
 ---
-title: "Luka JAPARIDZE | "
-name_en: "Luka JAPARIDZE"
-name_ja: ""
+title: "nan | ルカ・ジャパリゼ"
+name_en: "nan"
+name_ja: "ルカ・ジャパリゼ"
 slug: "luka-japaridze"
-position: "PR"
-height: "181.0"
-weight: "126.0"
-birth_date: "1998.09.06"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "モンペリエ"
-caps: "Georgia"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/luka-japaridze"
 ---
 

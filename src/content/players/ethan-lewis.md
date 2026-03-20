@@ -1,17 +1,17 @@
 ---
-title: "Ethan LEWIS | "
-name_en: "Ethan LEWIS"
-name_ja: ""
+title: "nan | Ethan ・ LEWIS"
+name_en: "nan"
+name_ja: "Ethan ・ LEWIS"
 slug: "ethan-lewis"
-position: "HO"
-height: "182.0"
-weight: "109.0"
-birth_date: "1994.03.28"
-age: 31
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "カーディフ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-lewis"
 ---

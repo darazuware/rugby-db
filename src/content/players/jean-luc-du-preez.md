@@ -1,18 +1,18 @@
 ---
-title: "Jean-Luc DU PREEZ | "
-name_en: "Jean-Luc DU PREEZ"
-name_ja: ""
+title: "nan | ジャン＝リュック-デュ・プリーツ"
+name_en: "nan"
+name_ja: "ジャン＝リュック-デュ・プリーツ"
 slug: "jean-luc-du-preez"
-position: "FL/NO8"
-height: "194.0"
-weight: "114.0"
-birth_date: "1995.08.05"
-age: 30
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ボルドー・ベグル"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/jean-luc-du-preez"
 ---
 

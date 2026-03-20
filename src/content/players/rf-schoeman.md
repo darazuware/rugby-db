@@ -1,17 +1,17 @@
 ---
-title: "RF SCHOEMAN | "
-name_en: "RF SCHOEMAN"
-name_ja: ""
+title: "nan | RF ・ SCHOEMAN"
+name_en: "nan"
+name_ja: "RF ・ SCHOEMAN"
 slug: "rf-schoeman"
-position: "PR"
-height: "188.0"
-weight: "122.0"
-birth_date: "2003.08.14"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/rf-schoeman"
 ---

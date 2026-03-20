@@ -1,17 +1,17 @@
 ---
-title: "Thomas CEYTE | "
-name_en: "Thomas CEYTE"
-name_ja: ""
+title: "nan | トマ・セイト"
+name_en: "nan"
+name_ja: "トマ・セイト"
 slug: "thomas-ceyte"
-position: "LO"
-height: "198.0"
-weight: "120.0"
-birth_date: "1991.02.13"
-age: 35
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "クレルモン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-ceyte"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Fionn GIBBONS | "
-name_en: "Fionn GIBBONS"
-name_ja: ""
+title: "nan | Fionn ・ GIBBONS"
+name_en: "nan"
+name_ja: "Fionn ・ GIBBONS"
 slug: "fionn-gibbons"
-position: "CTB"
-height: "193.0"
-weight: "105.0"
-birth_date: "2002.06.12"
-age: 23
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "マンスター・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/fionn-gibbons"
 ---

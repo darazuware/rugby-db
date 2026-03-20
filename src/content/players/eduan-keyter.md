@@ -1,17 +1,17 @@
 ---
-title: "Eduan KEYTER | "
-name_en: "Eduan KEYTER"
-name_ja: ""
+title: "nan | Eduan ・ KEYTER"
+name_en: "nan"
+name_ja: "Eduan ・ KEYTER"
 slug: "eduan-keyter"
-position: "Winger"
-height: "184.0"
-weight: "101.0"
-birth_date: "1996.06.13"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エミレーツ・ライオンズ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/eduan-keyter"
 ---

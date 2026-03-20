@@ -1,17 +1,17 @@
 ---
-title: "Giampietro RIBALDI | "
-name_en: "Giampietro RIBALDI"
-name_ja: ""
+title: "nan | Giampietro ・ RIBALDI"
+name_en: "nan"
+name_ja: "Giampietro ・ RIBALDI"
 slug: "giampietro-ribaldi"
-position: "HO"
-height: "186.0"
-weight: "110.0"
-birth_date: "1997.03.12"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/giampietro-ribaldi"
 ---

@@ -4,14 +4,14 @@ name_en: "Declan O'LOUGHLIN"
 name_ja: ""
 slug: "declan-o-loughlin"
 position: "Centre"
-height: "0"
-weight: "0"
+height: "28/09/2002"
+weight: "1"
 birth_date: ""
-age: 23
+age: null
 country: ""
 birth_place_scraped: ""
 league: "mlr"
-team: "オールドグローリーDC"
+team: "The Old Glory DC RFC rugby team for 2024/2025"
 caps: "0"
 scraped_url: "https://all.rugby/player/declan-o-loughlin"
 ---

@@ -1,17 +1,17 @@
 ---
-title: "Tom CURRIE | "
-name_en: "Tom CURRIE"
-name_ja: ""
+title: "nan | トム ・ CURRIE"
+name_en: "nan"
+name_ja: "トム ・ CURRIE"
 slug: "tom-currie"
-position: "Back row"
-height: "190.0"
-weight: "106.0"
-birth_date: "2004.."
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-currie"
 ---

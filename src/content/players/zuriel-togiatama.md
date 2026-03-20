@@ -1,17 +1,17 @@
 ---
-title: "Zuriel TOGIATAMA | "
-name_en: "Zuriel TOGIATAMA"
-name_ja: ""
+title: "nan | ズリエル・トギアタマ"
+name_en: "nan"
+name_ja: "ズリエル・トギアタマ"
 slug: "zuriel-togiatama"
-position: "HO"
-height: "183.0"
-weight: "109.0"
-birth_date: "1999.03.02"
-age: 27
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: "フィジアン・ドゥルア"
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/zuriel-togiatama"
 ---

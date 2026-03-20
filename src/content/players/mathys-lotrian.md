@@ -1,17 +1,17 @@
 ---
-title: "Mathys LOTRIAN | "
-name_en: "Mathys LOTRIAN"
-name_ja: ""
+title: "nan | マティス・ロトリアン"
+name_en: "nan"
+name_ja: "マティス・ロトリアン"
 slug: "mathys-lotrian"
-position: "HO"
-height: "177.0"
-weight: "110.0"
-birth_date: "2004.02.18"
-age: 22
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ペルピニャン"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/mathys-lotrian"
 ---

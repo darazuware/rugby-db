@@ -1,18 +1,18 @@
 ---
-title: "Handré POLLARD | "
-name_en: "Handré POLLARD"
-name_ja: ""
+title: "nan | Handr ・ ポラード"
+name_en: "nan"
+name_ja: "Handr ・ ポラード"
 slug: "handre-pollard"
-position: "SO"
-height: "189.0"
-weight: "98.0"
-birth_date: "1994.03.11"
-age: 32
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "South Africa"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/handre-pollard"
 ---
 

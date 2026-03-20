@@ -1,17 +1,17 @@
 ---
-title: "Simon BOURGEOIS | "
-name_en: "Simon BOURGEOIS"
-name_ja: ""
+title: "nan | シモン・ブルジョワ"
+name_en: "nan"
+name_ja: "シモン・ブルジョワ"
 slug: "simon-bourgeois"
-position: "PR"
-height: "189.0"
-weight: "122.0"
-birth_date: "2001.11.30"
-age: 24
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "ヴァンヌ"
+league: ""
+team: ""
 caps: "0"
 scraped_url: "https://all.rugby/player/simon-bourgeois"
 ---

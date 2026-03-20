@@ -1,18 +1,18 @@
 ---
-title: "Giovanni LICATA | "
-name_en: "Giovanni LICATA"
-name_ja: ""
+title: "nan | Giovanni ・ LICATA"
+name_en: "nan"
+name_ja: "Giovanni ・ LICATA"
 slug: "giovanni-licata"
-position: "Back row"
-height: "193.0"
-weight: "111.0"
-birth_date: "1997.02.18"
-age: 29
+position: ""
+height: "0"
+weight: "0"
+birth_date: ""
+age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ゼブレ・パルマ"
-caps: "Italy"
+league: ""
+team: ""
+caps: "0"
 scraped_url: "https://all.rugby/player/giovanni-licata"
 ---
 
