@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/theo-attissogbe"
 ---
 

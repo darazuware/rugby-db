@@ -7,12 +7,14 @@ position: "LO"
 height: "204.0"
 weight: "127.0"
 birth_date: "1995.10.08"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-jolmes"
 ---
 

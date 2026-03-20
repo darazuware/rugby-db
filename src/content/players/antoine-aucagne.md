@@ -7,12 +7,14 @@ position: "SO"
 height: "184.0"
 weight: "80.0"
 birth_date: "2000.04.11"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antoine-aucagne"
 ---
 

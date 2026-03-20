@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "191.0"
 weight: "107.0"
 birth_date: "1997.04.20"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/luke-jacobson"
 ---
 

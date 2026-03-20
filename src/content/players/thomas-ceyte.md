@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1991.02.13"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-ceyte"
 ---
 

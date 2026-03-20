@@ -7,12 +7,14 @@ position: "PR"
 height: "179.0"
 weight: "117.0"
 birth_date: "1996.05.24"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giorgi-melikidze"
 ---
 

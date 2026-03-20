@@ -1,0 +1,22 @@
+---
+title: "Kota Mitake | 三竹 康太"
+name_en: "Kota Mitake"
+name_ja: "三竹 康太"
+slug: "kota-mitake"
+position: "PR"
+height: "175.0"
+weight: "110.0"
+birth_date: "1996.04.28"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "リコーブラックラムズ東京（2025-26）"
+caps: "U23('16)"
+high_school: "大阪桐蔭高校"
+university: "立命館大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

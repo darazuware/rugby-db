@@ -7,12 +7,14 @@ position: "SH"
 height: "187.0"
 weight: "92.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/james-martens"
 ---
 

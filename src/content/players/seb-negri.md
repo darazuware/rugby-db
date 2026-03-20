@@ -1,20 +1,22 @@
 ---
-title: "Seb ・ NEGRI | Seb ・ NEGRI"
-name_en: "Seb ・ NEGRI"
-name_ja: "Seb ・ NEGRI"
+title: "Seb NEGRI | セブ・ネグリ"
+name_en: "Seb NEGRI"
+name_ja: "セブ・ネグリ"
 slug: "seb-negri"
-position: "Back row"
+position: "FL/No8"
 height: "194.0"
 weight: "111.0"
 birth_date: "1994.06.30"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/seb-negri"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2017 - 2026)
+Italy

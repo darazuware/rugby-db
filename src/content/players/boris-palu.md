@@ -7,12 +7,14 @@ position: "LO"
 height: "194.0"
 weight: "113.0"
 birth_date: "1996.02.04"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/boris-palu"
 ---
 

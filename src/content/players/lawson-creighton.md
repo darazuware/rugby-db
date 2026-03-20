@@ -7,12 +7,14 @@ position: "SO"
 height: "185.0"
 weight: "90.0"
 birth_date: "1998.07.21"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lawson-creighton"
 ---
 

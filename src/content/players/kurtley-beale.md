@@ -7,12 +7,14 @@ position: "FB"
 height: "184.0"
 weight: "96.0"
 birth_date: "1989.01.06"
-age: 37
+age: 37.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kurtley-beale"
 ---
 

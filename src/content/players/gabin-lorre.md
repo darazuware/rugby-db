@@ -7,12 +7,14 @@ position: "FB"
 height: "182.0"
 weight: "82.0"
 birth_date: "2001.12.23"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇮🇹 Italy代表 (2 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gabin-lorre"
 ---
 

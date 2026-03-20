@@ -7,12 +7,14 @@ position: "HO"
 height: "182.0"
 weight: "112.0"
 birth_date: "1997.06.17"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/brodie-mcalister"
 ---
 

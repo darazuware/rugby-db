@@ -7,12 +7,14 @@ position: "HO"
 height: "183.0"
 weight: "108.0"
 birth_date: "1998.10.29"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/janick-tarrit"
 ---
 

@@ -7,12 +7,14 @@ position: "WTB"
 height: "188.0"
 weight: "97.0"
 birth_date: "1996.09.25"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/damian-penaud"
 ---
 

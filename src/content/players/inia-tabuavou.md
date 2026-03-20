@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "101.0"
 birth_date: "2002.08.31"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/inia-tabuavou"
 ---
 

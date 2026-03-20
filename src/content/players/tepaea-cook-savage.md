@@ -7,12 +7,14 @@ position: "FB"
 height: "173.0"
 weight: "83.0"
 birth_date: "2001.08.02"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tepaea-cook-savage"
 ---
 

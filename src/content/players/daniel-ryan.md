@@ -1,20 +1,22 @@
 ---
-title: "ダニエル ・ ライアン | ダニエル ・ ライアン"
-name_en: "ダニエル ・ ライアン"
-name_ja: "ダニエル ・ ライアン"
+title: "Daniel RYAN | ダニエル・ライアン"
+name_en: "Daniel RYAN"
+name_ja: "ダニエル・ライアン"
 slug: "daniel-ryan"
-position: "Winger"
-height: "0"
-weight: "0"
+position: "WTB"
+height: "nan"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "🇮🇪 Ireland代表 (31 caps)"
-scraped_url: "https://all.rugby/player/daniel-ryan"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2025 - 2026)
+

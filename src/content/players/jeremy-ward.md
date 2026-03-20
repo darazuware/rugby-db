@@ -7,12 +7,14 @@ position: "CTB"
 height: "187.0"
 weight: "92.0"
 birth_date: "1996.01.10"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇮🇹 Italy代表 (20 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jeremy-ward"
 ---
 

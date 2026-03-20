@@ -1,18 +1,20 @@
 ---
-title: "JJ ・ KOTZ | JJ ・ KOTZ"
-name_en: "JJ ・ KOTZ"
+title: "JJ KOTZÉ | JJ ・ KOTZ"
+name_en: "JJ KOTZÉ"
 name_ja: "JJ ・ KOTZ"
 slug: "jj-kotze"
 position: "HO"
 height: "184.0"
 weight: "111.0"
 birth_date: "2000.11.06"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jj-kotze"
 ---
 

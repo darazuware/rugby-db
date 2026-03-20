@@ -7,12 +7,14 @@ position: "SH"
 height: "177.0"
 weight: "88.0"
 birth_date: "2001.04.27"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nathan-hastie"
 ---
 

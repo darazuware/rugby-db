@@ -1,20 +1,22 @@
 ---
-title: "ロバート ・ BALOUCOUNE | ロバート ・ BALOUCOUNE"
-name_en: "ロバート ・ BALOUCOUNE"
-name_ja: "ロバート ・ BALOUCOUNE"
+title: "Robert BALOUCOUNE | ロバート・バルクーン"
+name_en: "Robert BALOUCOUNE"
+name_ja: "ロバート・バルクーン"
 slug: "robert-baloucoune"
-position: "Winger"
+position: "WTB"
 height: "192.0"
 weight: "104.0"
 birth_date: "1997.08.19"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/robert-baloucoune"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2018 - 2026)
+

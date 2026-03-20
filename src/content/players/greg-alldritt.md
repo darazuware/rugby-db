@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "191.0"
 weight: "114.0"
 birth_date: "1997.03.23"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/greg-alldritt"
 ---
 

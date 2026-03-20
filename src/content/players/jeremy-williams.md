@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "113.0"
 birth_date: "2000.12.02"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (6 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jeremy-williams"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Byron ・ RALSTON | Byron ・ RALSTON"
-name_en: "Byron ・ RALSTON"
-name_ja: "Byron ・ RALSTON"
+title: "Byron RALSTON | バイロン・ラルストン"
+name_en: "Byron RALSTON"
+name_ja: "バイロン・ラルストン"
 slug: "byron-ralston"
-position: "Winger"
+position: "WTB"
 height: "184.0"
 weight: "94.0"
 birth_date: "2000.05.03"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/byron-ralston"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Force (2019 - 2022) -> Connacht Rugby (2022 - 2026)
+

@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "113.0"
 birth_date: "2002.04.30"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/matthieu-uhila"
 ---
 

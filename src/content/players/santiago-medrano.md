@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "118.0"
 birth_date: "1996.05.06"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/santiago-medrano"
 ---
 

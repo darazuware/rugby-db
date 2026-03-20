@@ -7,12 +7,14 @@ position: "PR"
 height: "187.0"
 weight: "123.0"
 birth_date: "1996.02.14"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇹🇴 Tonga代表 (1 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paula-latu"
 ---
 

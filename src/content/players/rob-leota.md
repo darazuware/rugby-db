@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "190.0"
 weight: "110.0"
 birth_date: "1997.03.03"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇦🇺 Australia代表 (17 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rob-leota"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Dafydd ・ HUGHES | Dafydd ・ HUGHES"
-name_en: "Dafydd ・ HUGHES"
-name_ja: "Dafydd ・ HUGHES"
+title: "Dafydd HUGHES | ダフィズ・ヒューズ"
+name_en: "Dafydd HUGHES"
+name_ja: "ダフィズ・ヒューズ"
 slug: "dafydd-hughes"
 position: "HO"
 height: "179.0"
 weight: "105.0"
 birth_date: "1996.01.08"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/dafydd-hughes"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2016 - 2023) -> Jersey Reds (2023 - 2023) -> Cardiff Rugby (2023 - 2023) -> Jersey Reds (2024 - 2024) -> Cardiff Rugby (2024 - 2026)
+

@@ -7,12 +7,14 @@ position: "HO"
 height: "185.0"
 weight: "114.0"
 birth_date: "1998.12.24"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sam-moli"
 ---
 

@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "106.0"
 birth_date: "2000.08.13"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sacha-lotrian"
 ---
 

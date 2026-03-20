@@ -1,20 +1,22 @@
 ---
-title: "Giacomo ・ MILANO | Giacomo ・ MILANO"
-name_en: "Giacomo ・ MILANO"
-name_ja: "Giacomo ・ MILANO"
+title: "Giacomo MILANO | ジャコモ・ミラノ"
+name_en: "Giacomo MILANO"
+name_ja: "ジャコモ・ミラノ"
 slug: "giacomo-milano"
-position: "Back row"
+position: "FL/No8"
 height: "192.0"
 weight: "110.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "0"
-scraped_url: "https://all.rugby/player/giacomo-milano"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Unione Rugby Capitolina (2023 - 2024) -> Zebre Parma (2024 - 2026)
+

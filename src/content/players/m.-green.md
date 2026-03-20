@@ -1,0 +1,22 @@
+---
+title: "M. Green | nan"
+name_en: "M. Green"
+name_ja: "nan"
+slug: "m.-green"
+position: "Scrum-half"
+height: "nan"
+weight: "nan"
+birth_date: "1996-02-13"
+age: 30.0
+country: ""
+birth_place_scraped: ""
+league: "premiership"
+team: "Harlequins"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+Harlequins (2025 - )

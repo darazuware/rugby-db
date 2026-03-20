@@ -7,12 +7,14 @@ position: "SH"
 height: "165.0"
 weight: "75.0"
 birth_date: "1997.08.26"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇯🇵 Japan"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/naoto-saito"
 ---
 

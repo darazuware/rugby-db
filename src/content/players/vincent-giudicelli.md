@@ -7,12 +7,14 @@ position: "HO"
 height: "184.0"
 weight: "104.0"
 birth_date: "1997.06.25"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/vincent-giudicelli"
 ---
 

@@ -1,18 +1,20 @@
 ---
-title: "Mikey ・ JONES | Mikey ・ JONES"
-name_en: "Mikey ・ JONES"
+title: "Mikey JONES | Mikey ・ JONES"
+name_en: "Mikey JONES"
 name_ja: "Mikey ・ JONES"
 slug: "mike-jones"
 position: "PR"
 height: "181.0"
 weight: "110.0"
 birth_date: "2002.07.08"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エディンバラ・ラグビー"
+team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (29 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mike-jones"
 ---
 

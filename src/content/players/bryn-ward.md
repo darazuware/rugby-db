@@ -1,20 +1,22 @@
 ---
-title: "Bryn ・ WARD | Bryn ・ WARD"
-name_en: "Bryn ・ WARD"
-name_ja: "Bryn ・ WARD"
+title: "Bryn WARD | ブリン・ウォード"
+name_en: "Bryn WARD"
+name_ja: "ブリン・ウォード"
 slug: "bryn-ward"
-position: "Back row"
-height: "0"
-weight: "0"
+position: "FL/No8"
+height: "nan"
+weight: "nan"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/bryn-ward"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ballynahinch RFC (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+

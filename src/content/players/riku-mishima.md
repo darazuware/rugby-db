@@ -1,0 +1,22 @@
+---
+title: "Riku Mishima | 三島 琳久"
+name_en: "Riku Mishima"
+name_ja: "三島 琳久"
+slug: "riku-mishima"
+position: "CTB"
+height: "175.0"
+weight: "91.0"
+birth_date: "2000.09.02"
+age: 25.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "三菱重工相模原ダイナボアーズ（2025-26）"
+caps: ""
+high_school: "大阪桐蔭高校"
+university: "近畿大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

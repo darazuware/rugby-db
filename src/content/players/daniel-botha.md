@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "2001.12.16"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/daniel-botha"
 ---
 

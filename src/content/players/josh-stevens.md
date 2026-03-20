@@ -1,20 +1,22 @@
 ---
-title: "ジョシュ ・ STEVENS | ジョシュ ・ STEVENS"
-name_en: "ジョシュ ・ STEVENS"
-name_ja: "ジョシュ ・ STEVENS"
+title: "Josh STEVENS | ジョシュ・スティーヴンス"
+name_en: "Josh STEVENS"
+name_ja: "ジョシュ・スティーヴンス"
 slug: "josh-stevens"
-position: "Back row"
+position: "FL/No8"
 height: "179.0"
 weight: "105.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/josh-stevens"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2023 - 2026)
+

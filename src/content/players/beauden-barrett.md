@@ -7,12 +7,14 @@ position: "SO"
 height: "187.0"
 weight: "93.0"
 birth_date: "1991.05.27"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/beauden-barrett"
 ---
 

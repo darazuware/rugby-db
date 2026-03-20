@@ -1,20 +1,22 @@
 ---
-title: "Bradley ・ MCNAMARA | Bradley ・ MCNAMARA"
-name_en: "Bradley ・ MCNAMARA"
-name_ja: "Bradley ・ MCNAMARA"
+title: "Bradley MCNAMARA | ブラッドリー・マクナマラ"
+name_en: "Bradley MCNAMARA"
+name_ja: "ブラッドリー・マクナマラ"
 slug: "bradley-mcnamara"
 position: "FB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2001.02.22"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/bradley-mcnamara"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Instonians Rugby Club (2024 - 2025) -> Ulster Rugby (2025 - 2025) -> Instonians Rugby Club (2025 - 2025) -> Ulster Rugby (2026 - 2026) -> Instonians Rugby Club (2026 - 2026)
+

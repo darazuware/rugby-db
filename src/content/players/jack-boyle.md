@@ -1,20 +1,22 @@
 ---
-title: "ジャック ・ BOYLE | ジャック ・ BOYLE"
-name_en: "ジャック ・ BOYLE"
-name_ja: "ジャック ・ BOYLE"
+title: "Jack BOYLE | ジャック-ボイル"
+name_en: "Jack BOYLE"
+name_ja: "ジャック-ボイル"
 slug: "jack-boyle"
 position: "PR"
 height: "185.0"
 weight: "113.0"
 birth_date: "2002.03.10"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇮🇪 Ireland代表 (2 caps)"
-scraped_url: "https://all.rugby/player/jack-boyle"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2026)
+

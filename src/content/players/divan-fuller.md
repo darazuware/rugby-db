@@ -1,20 +1,22 @@
 ---
-title: "Divan ・ FULLER | Divan ・ FULLER"
-name_en: "Divan ・ FULLER"
-name_ja: "Divan ・ FULLER"
+title: "Divan FULLER | ディヴァン・フラー"
+name_en: "Divan FULLER"
+name_ja: "ディヴァン・フラー"
 slug: "divan-fuller"
-position: "Back row"
+position: "FL/No8"
 height: "187.0"
 weight: "100.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/divan-fuller"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2025) -> Stormers (2025 - 2026)
+

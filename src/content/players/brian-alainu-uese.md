@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "135.0"
 birth_date: "1994.03.19"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/brian-alainu-uese"
 ---
 

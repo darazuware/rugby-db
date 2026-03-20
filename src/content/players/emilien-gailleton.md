@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "89.0"
 birth_date: "2003.07.13"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/emilien-gailleton"
 ---
 

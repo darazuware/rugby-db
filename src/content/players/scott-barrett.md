@@ -7,12 +7,14 @@ position: "LO"
 height: "197.0"
 weight: "119.0"
 birth_date: "1993.11.20"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/scott-barrett"
 ---
 

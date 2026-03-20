@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "119.0"
 birth_date: "1993.08.04"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dorian-aldegheri"
 ---
 

@@ -1,18 +1,20 @@
 ---
-title: "Gene ・ O'LEARY ・ KAREEM | Gene ・ O'LEARY ・ KAREEM"
-name_en: "Gene ・ O'LEARY ・ KAREEM"
+title: "Gene O'LEARY KAREEM | Gene ・ O'LEARY ・ KAREEM"
+name_en: "Gene O'LEARY KAREEM"
 name_ja: "Gene ・ O'LEARY ・ KAREEM"
 slug: "gene-o-leary-kareem"
 position: "CTB"
 height: "179.0"
 weight: "91.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
+team: "Munster"
 caps: "🇮🇹 Italy代表 (2 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gene-o-leary-kareem"
 ---
 

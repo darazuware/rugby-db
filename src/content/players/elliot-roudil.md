@@ -7,12 +7,14 @@ position: "CTB"
 height: "184.0"
 weight: "97.0"
 birth_date: "1996.10.30"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/elliot-roudil"
 ---
 

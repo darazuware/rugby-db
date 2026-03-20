@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "120.0"
 birth_date: "2001.01.24"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paul-mallez"
 ---
 

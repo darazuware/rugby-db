@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "125.0"
 birth_date: "1998.03.17"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/demba-bamba"
 ---
 

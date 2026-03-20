@@ -1,20 +1,22 @@
 ---
-title: "コナー ・ MCKEE | コナー ・ MCKEE"
-name_en: "コナー ・ MCKEE"
-name_ja: "コナー ・ MCKEE"
+title: "Conor MCKEE | コナー・マッキー"
+name_en: "Conor MCKEE"
+name_ja: "コナー・マッキー"
 slug: "conor-mckee"
 position: "SH"
 height: "183.0"
 weight: "87.0"
 birth_date: "2001.03.20"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/conor-mckee"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2020 - 2026)
+

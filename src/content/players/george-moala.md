@@ -7,12 +7,14 @@ position: "CTB"
 height: "188.0"
 weight: "106.0"
 birth_date: "1990.11.05"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/george-moala"
 ---
 

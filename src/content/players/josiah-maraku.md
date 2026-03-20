@@ -7,12 +7,14 @@ position: "CTB"
 height: "180.0"
 weight: "97.0"
 birth_date: "2000.03.30"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josiah-maraku"
 ---
 

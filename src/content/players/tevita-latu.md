@@ -7,12 +7,14 @@ position: "CTB"
 height: "183.0"
 weight: "108.0"
 birth_date: "1998.12.15"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇦🇺 Australia代表 (15 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tevita-latu"
 ---
 

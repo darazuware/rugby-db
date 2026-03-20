@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lino-julien"
 ---
 

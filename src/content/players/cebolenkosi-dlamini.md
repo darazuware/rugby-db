@@ -1,18 +1,20 @@
 ---
-title: "Cebo ・ DLAMINI | Cebo ・ DLAMINI"
-name_en: "Cebo ・ DLAMINI"
+title: "Cebo DLAMINI | Cebo ・ DLAMINI"
+name_en: "Cebo DLAMINI"
 name_ja: "Cebo ・ DLAMINI"
 slug: "cebolenkosi-dlamini"
 position: "PR"
 height: "176.0"
 weight: "118.0"
 birth_date: "2001.11.29"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/cebolenkosi-dlamini"
 ---
 

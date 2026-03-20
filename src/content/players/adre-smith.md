@@ -1,18 +1,20 @@
 ---
-title: "Adr ・ スミス | Adr ・ スミス"
-name_en: "Adr ・ スミス"
+title: "Adré SMITH | Adr ・ スミス"
+name_en: "Adré SMITH"
 name_ja: "Adr ・ スミス"
 slug: "adre-smith"
 position: "LO"
 height: "200.0"
 weight: "123.0"
 birth_date: "1997.06.04"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
+team: "Stormers"
 caps: "🇳🇿 New Zealand代表 (119 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/adre-smith"
 ---
 

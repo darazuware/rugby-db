@@ -7,12 +7,14 @@ position: "CTB"
 height: "190.0"
 weight: "94.0"
 birth_date: "2003.04.06"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/semi-lagivala"
 ---
 

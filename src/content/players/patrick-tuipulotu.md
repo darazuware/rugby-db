@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "120.0"
 birth_date: "1993.01.23"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/patrick-tuipulotu"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "193.0"
 weight: "109.0"
 birth_date: "1998.01.23"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ibrahim-diallo"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Ewan ・ ROSSER | Ewan ・ ROSSER"
-name_en: "Ewan ・ ROSSER"
-name_ja: "Ewan ・ ROSSER"
+title: "Ewan ROSSER | ユアン・ロッサー"
+name_en: "Ewan ROSSER"
+name_ja: "ユアン・ロッサー"
 slug: "ewan-rosser"
-position: "Winger"
+position: "WTB"
 height: "182.0"
 weight: "88.0"
 birth_date: "2000.12.16"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/ewan-rosser"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2019 - 2026)
+

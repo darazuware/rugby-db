@@ -1,20 +1,22 @@
 ---
-title: "Seb ・ DAVIES | Seb ・ DAVIES"
-name_en: "Seb ・ DAVIES"
-name_ja: "Seb ・ DAVIES"
+title: "Seb DAVIES | セブ・デイヴィス"
+name_en: "Seb DAVIES"
+name_ja: "セブ・デイヴィス"
 slug: "seb-davies"
 position: "LO"
 height: "202.0"
 weight: "119.0"
 birth_date: "1996.05.17"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
-scraped_url: "https://all.rugby/player/seb-davies"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2016 - 2025) -> Dragons RFC (2025 - 2026)
+Wales

@@ -1,20 +1,22 @@
 ---
-title: "Joseff ・ JONES | Joseff ・ JONES"
-name_en: "Joseff ・ JONES"
-name_ja: "Joseff ・ JONES"
+title: "Joseff JONES | ジョセフ・ジョーンズ"
+name_en: "Joseff JONES"
+name_ja: "ジョセフ・ジョーンズ"
 slug: "joseff-jones"
-position: "Winger"
-height: "0"
-weight: "0"
+position: "WTB"
+height: "nan"
+weight: "nan"
 birth_date: "24/07/1995"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/joseff-jones"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2024 - 2026)
+

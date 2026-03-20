@@ -1,20 +1,22 @@
 ---
-title: "タイグ ・ BROPHY | タイグ ・ BROPHY"
-name_en: "タイグ ・ BROPHY"
-name_ja: "タイグ ・ BROPHY"
+title: "Tadhg BROPHY | タイグ・ブロフィー"
+name_en: "Tadhg BROPHY"
+name_ja: "タイグ・ブロフィー"
 slug: "tadhg-brophy"
 position: "SH"
 height: "173.0"
 weight: "73.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/tadhg-brophy"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Naas RFC (2023 - 2024) -> Lansdowne FC (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+

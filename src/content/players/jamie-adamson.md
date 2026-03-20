@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "188.0"
 weight: "95.0"
 birth_date: "1999.11.09"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (59 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jamie-adamson"
 ---
 

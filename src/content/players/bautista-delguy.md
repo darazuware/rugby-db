@@ -7,12 +7,14 @@ position: "WTB"
 height: "182.0"
 weight: "85.0"
 birth_date: "1997.04.22"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/bautista-delguy"
 ---
 

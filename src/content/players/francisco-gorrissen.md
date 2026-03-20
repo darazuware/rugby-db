@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "191.0"
 weight: "108.0"
 birth_date: "1994.08.30"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/francisco-gorrissen"
 ---
 

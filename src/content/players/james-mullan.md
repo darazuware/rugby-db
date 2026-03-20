@@ -7,12 +7,14 @@ position: "HO"
 height: "188.0"
 weight: "107.0"
 birth_date: "2002.11.20"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/james-mullan"
 ---
 

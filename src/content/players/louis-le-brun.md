@@ -7,12 +7,14 @@ position: "SO"
 height: "188.0"
 weight: "100.0"
 birth_date: "2002.02.28"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/louis-le-brun"
 ---
 

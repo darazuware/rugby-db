@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "198.0"
 weight: "112.0"
 birth_date: "1994.05.13"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/arthur-iturria"
 ---
 

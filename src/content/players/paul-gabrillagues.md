@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "119.0"
 birth_date: "1993.06.03"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paul-gabrillagues"
 ---
 

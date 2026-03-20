@@ -7,12 +7,14 @@ position: "SO"
 height: "185.0"
 weight: "110.0"
 birth_date: "1994.08.26"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kemu-valetini"
 ---
 

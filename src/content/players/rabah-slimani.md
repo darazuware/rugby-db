@@ -1,20 +1,22 @@
 ---
-title: "Rabah ・ SLIMANI | Rabah ・ SLIMANI"
-name_en: "Rabah ・ SLIMANI"
-name_ja: "Rabah ・ SLIMANI"
+title: "Rabah SLIMANI | ラバ・スリマニ"
+name_en: "Rabah SLIMANI"
+name_ja: "ラバ・スリマニ"
 slug: "rabah-slimani"
 position: "PR"
 height: "178.0"
 weight: "124.0"
 birth_date: "1989.10.18"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇫🇷 France"
-scraped_url: "https://all.rugby/player/rabah-slimani"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-AAS Sarcelles Rugby (2004 - 2005) -> Stade Français Paris Rugby (2005 - 2017) -> ASM Clermont Auvergne (2017 - 2024) -> Leinster Rugby (2024 - 2026)
+France

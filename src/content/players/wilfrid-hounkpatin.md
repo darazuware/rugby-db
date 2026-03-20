@@ -7,12 +7,14 @@ position: "PR"
 height: "192.0"
 weight: "132.0"
 birth_date: "1991.07.29"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/wilfrid-hounkpatin"
 ---
 

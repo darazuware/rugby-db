@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "189.0"
 weight: "107.0"
 birth_date: "2000.03.14"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/juan-bautista-pedemonte"
 ---
 

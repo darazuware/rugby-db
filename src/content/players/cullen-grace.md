@@ -7,12 +7,14 @@ position: "LO"
 height: "193.0"
 weight: "107.0"
 birth_date: "1999.12.20"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/cullen-grace"
 ---
 

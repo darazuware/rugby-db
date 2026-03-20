@@ -1,20 +1,22 @@
 ---
-title: "Max ・ DEEGAN | Max ・ DEEGAN"
-name_en: "Max ・ DEEGAN"
-name_ja: "Max ・ DEEGAN"
+title: "Max DEEGAN | マックス・ディーガン"
+name_en: "Max DEEGAN"
+name_ja: "マックス・ディーガン"
 slug: "max-deegan"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "110.0"
 birth_date: "1996.10.01"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/max-deegan"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2016 - 2026)
+Ireland

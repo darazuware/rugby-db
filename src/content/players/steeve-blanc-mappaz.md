@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "190.0"
 weight: "103.0"
 birth_date: "1990.07.02"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/steeve-blanc-mappaz"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "187.0"
 weight: "101.0"
 birth_date: "2003.09.30"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/soumaila-camara"
 ---
 

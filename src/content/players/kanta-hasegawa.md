@@ -1,0 +1,22 @@
+---
+title: "KANTA HASEGAWA | 長谷川 寛太"
+name_en: "KANTA HASEGAWA"
+name_ja: "長谷川 寛太"
+slug: "kanta-hasegawa"
+position: "PR"
+height: "179.0"
+weight: "108.0"
+birth_date: "1996.04.23"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "ルリーロ福岡（2025-26）"
+caps: ""
+high_school: "長崎北陽台高校"
+university: "帝京大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+Coca Cola West Red Sparks (2019 - 2021) -> 宗像 (2021 - 2022) -> LR福岡 (2022 - )

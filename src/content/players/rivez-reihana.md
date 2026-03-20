@@ -7,12 +7,14 @@ position: "SO"
 height: "189.0"
 weight: "94.0"
 birth_date: "2000.05.25"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rivez-reihana"
 ---
 

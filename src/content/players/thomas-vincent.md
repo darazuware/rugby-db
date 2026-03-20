@@ -7,12 +7,14 @@ position: "SO"
 height: "185.0"
 weight: "85.0"
 birth_date: "1999.07.21"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-vincent"
 ---
 

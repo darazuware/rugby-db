@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "113.0"
 birth_date: "1993.09.14"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jared-proffit"
 ---
 

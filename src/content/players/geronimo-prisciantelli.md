@@ -7,12 +7,14 @@ position: "SO"
 height: "183.0"
 weight: "87.0"
 birth_date: "1999.08.23"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/geronimo-prisciantelli"
 ---
 

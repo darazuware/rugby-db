@@ -1,20 +1,22 @@
 ---
-title: "Riley ・ NORTON | Riley ・ NORTON"
-name_en: "Riley ・ NORTON"
-name_ja: "Riley ・ NORTON"
+title: "Riley NORTON | ライリー・ノートン"
+name_en: "Riley NORTON"
+name_ja: "ライリー・ノートン"
 slug: "riley-norton"
 position: "LO"
 height: "198.0"
 weight: "104.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/riley-norton"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2024 - 2025) -> Stormers (2025 - 2026)
+

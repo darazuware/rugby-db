@@ -7,12 +7,14 @@ position: "HO"
 height: "183.0"
 weight: "110.0"
 birth_date: "1994.12.30"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/feleti-kaitu-u"
 ---
 

@@ -7,12 +7,14 @@ position: "SO"
 height: "188.0"
 weight: "93.0"
 birth_date: "1996.05.22"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/domingo-miotti"
 ---
 

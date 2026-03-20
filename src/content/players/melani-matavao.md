@@ -7,12 +7,14 @@ position: "SH"
 height: "171.0"
 weight: "80.0"
 birth_date: "1995.11.19"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/melani-matavao"
 ---
 

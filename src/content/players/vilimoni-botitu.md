@@ -7,12 +7,14 @@ position: "CTB"
 height: "183.0"
 weight: "98.0"
 birth_date: "1998.06.15"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "🇫🇯 Fiji代表 (8 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/vilimoni-botitu"
 ---
 

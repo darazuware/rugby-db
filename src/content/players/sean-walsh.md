@@ -1,18 +1,20 @@
 ---
-title: "Se ・ WALSH | Se ・ WALSH"
-name_en: "Se ・ WALSH"
+title: "Seán WALSH | Se ・ WALSH"
+name_en: "Seán WALSH"
 name_ja: "Se ・ WALSH"
 slug: "sean-walsh"
 position: "CTB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sean-walsh"
 ---
 

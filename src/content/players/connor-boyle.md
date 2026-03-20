@@ -1,20 +1,22 @@
 ---
-title: "Connor ・ BOYLE | Connor ・ BOYLE"
-name_en: "Connor ・ BOYLE"
-name_ja: "Connor ・ BOYLE"
+title: "Connor BOYLE | コナー・ボイル"
+name_en: "Connor BOYLE"
+name_ja: "コナー・ボイル"
 slug: "connor-boyle"
-position: "Back row"
+position: "FL/No8"
 height: "183.0"
 weight: "91.0"
 birth_date: "2000.02.19"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/connor-boyle"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2019 - 2020) -> Edimbourg Rugby (2020 - 2026)
+

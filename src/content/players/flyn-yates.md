@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "125.0"
 birth_date: "2000.05.25"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/flyn-yates"
 ---
 

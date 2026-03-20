@@ -1,20 +1,22 @@
 ---
-title: "Nahuel ・ TETAZ ・ CHAPARRO | Nahuel ・ TETAZ ・ CHAPARRO"
-name_en: "Nahuel ・ TETAZ ・ CHAPARRO"
-name_ja: "Nahuel ・ TETAZ ・ CHAPARRO"
+title: "Nahuel TETAZ CHAPARRO | ナウエル・テタス・チャパロ"
+name_en: "Nahuel TETAZ CHAPARRO"
+name_ja: "ナウエル・テタス・チャパロ"
 slug: "nahuel-tetaz-chaparro"
 position: "PR"
 height: "188.0"
 weight: "121.0"
 birth_date: "1989.11.06"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇦🇷 Argentina"
-scraped_url: "https://all.rugby/player/nahuel-tetaz-chaparro"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2013 - 2014) -> Lyon Olympique Universitaire Rugby (2014 - 2015) -> Jaguares (2015 - 2020) -> Bristol Bears (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2026)
+Argentina

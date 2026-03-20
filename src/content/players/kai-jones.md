@@ -1,20 +1,22 @@
 ---
-title: "Kai ・ JONES | Kai ・ JONES"
-name_en: "Kai ・ JONES"
-name_ja: "Kai ・ JONES"
+title: "Kai JONES | カイ・ジョーンズ"
+name_en: "Kai JONES"
+name_ja: "カイ・ジョーンズ"
 slug: "kai-jones"
 position: "LO"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/kai-jones"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+

@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "106.0"
 birth_date: "2003.02.04"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dominic-ropeti"
 ---
 

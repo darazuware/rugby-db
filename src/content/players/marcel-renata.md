@@ -7,12 +7,14 @@ position: "PR"
 height: "187.0"
 weight: "121.0"
 birth_date: "1994.02.24"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/marcel-renata"
 ---
 

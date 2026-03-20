@@ -1,0 +1,22 @@
+---
+title: "Kakeru Okumura | 奥村 翔"
+name_en: "Kakeru Okumura"
+name_ja: "奥村 翔"
+slug: "kakeru-okumura"
+position: "FB"
+height: "180.0"
+weight: "85.0"
+birth_date: "1998.06.10"
+age: 27.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "静岡ブルーレヴズ（2025-26）"
+caps: ""
+high_school: "伏見工業高校"
+university: "帝京大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

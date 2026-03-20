@@ -1,20 +1,22 @@
 ---
-title: "Nick ・ トーマス | Nick ・ トーマス"
-name_en: "Nick ・ トーマス"
-name_ja: "Nick ・ トーマス"
+title: "Nick THOMAS | ニック・トーマス"
+name_en: "Nick THOMAS"
+name_ja: "ニック・トーマス"
 slug: "nick-thomas"
 position: "LO"
 height: "198.0"
 weight: "113.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "🇫🇷 France代表 (80 caps)"
-scraped_url: "https://all.rugby/player/nick-thomas"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2023 - 2026)
+

@@ -1,20 +1,22 @@
 ---
-title: "Craig ・ CASEY | Craig ・ CASEY"
-name_en: "Craig ・ CASEY"
-name_ja: "Craig ・ CASEY"
+title: "Craig CASEY | クレイグ-ケイシー"
+name_en: "Craig CASEY"
+name_ja: "クレイグ-ケイシー"
 slug: "craig-casey"
 position: "SH"
 height: "165.0"
 weight: "76.0"
 birth_date: "1999.04.19"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/craig-casey"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2026)
+Ireland

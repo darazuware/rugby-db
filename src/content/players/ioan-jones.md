@@ -1,20 +1,22 @@
 ---
-title: "Ioan ・ JONES | Ioan ・ JONES"
-name_en: "Ioan ・ JONES"
-name_ja: "Ioan ・ JONES"
+title: "Ioan JONES | イオアン・ジョーンズ"
+name_en: "Ioan JONES"
+name_ja: "イオアン・ジョーンズ"
 slug: "ioan-jones"
 position: "FB"
 height: "181.0"
 weight: "80.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/ioan-jones"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2022 - 2023) -> Hartpury RFC (2023 - 2023) -> Gloucester Rugby (2023 - 2023) -> Hartpury RFC (2024 - 2024) -> Gloucester Rugby (2024 - 2024) -> Hartpury RFC (2024 - 2024) -> Gloucester Rugby (2025 - 2025) -> Hartpury RFC (2025 - 2025) -> Scarlets (2025 - 2026)
+

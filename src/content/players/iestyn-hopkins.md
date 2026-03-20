@@ -1,20 +1,22 @@
 ---
-title: "Iestyn ・ HOPKINS | Iestyn ・ HOPKINS"
-name_en: "Iestyn ・ HOPKINS"
-name_ja: "Iestyn ・ HOPKINS"
+title: "Iestyn HOPKINS | イスティン-ホプキンス"
+name_en: "Iestyn HOPKINS"
+name_ja: "イスティン-ホプキンス"
 slug: "iestyn-hopkins"
 position: "FB"
 height: "175.0"
 weight: "88.0"
 birth_date: "2002.04.04"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/iestyn-hopkins"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ospreys (2021 - 2026)
+

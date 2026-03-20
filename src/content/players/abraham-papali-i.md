@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "194.0"
 weight: "128.0"
 birth_date: "1993.06.20"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/abraham-papali-i"
 ---
 

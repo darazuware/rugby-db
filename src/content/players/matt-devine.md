@@ -1,20 +1,22 @@
 ---
-title: "Matt ・ DEVINE | Matt ・ DEVINE"
-name_en: "Matt ・ DEVINE"
-name_ja: "Matt ・ DEVINE"
+title: "Matt DEVINE | マット・デヴァイン"
+name_en: "Matt DEVINE"
+name_ja: "マット・デヴァイン"
 slug: "matt-devine"
 position: "SH"
 height: "180.0"
 weight: "84.0"
 birth_date: "2002.02.19"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/matt-devine"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2021 - 2026)
+

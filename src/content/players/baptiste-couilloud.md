@@ -7,12 +7,14 @@ position: "SH"
 height: "176.0"
 weight: "83.0"
 birth_date: "1997.07.22"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/baptiste-couilloud"
 ---
 

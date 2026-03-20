@@ -7,12 +7,14 @@ position: "PR"
 height: "194.0"
 weight: "125.0"
 birth_date: "2003.05.30"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇳🇿 New Zealand代表 (7 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/siale-lauaki"
 ---
 

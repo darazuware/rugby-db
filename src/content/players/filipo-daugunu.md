@@ -7,12 +7,14 @@ position: "WTB"
 height: "181.0"
 weight: "101.0"
 birth_date: "1995.03.04"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
+league: "nan"
+team: "Reds"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/filipo-daugunu"
 ---
 

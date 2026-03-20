@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "196.0"
 weight: "120.0"
 birth_date: "1988.05.18"
-age: 37
+age: 37.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sione-kalafamoni"
 ---
 

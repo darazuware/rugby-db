@@ -1,20 +1,22 @@
 ---
-title: "JF ・ ファン ・ HEERDEN | JF ・ ファン ・ HEERDEN"
-name_en: "JF ・ ファン ・ HEERDEN"
-name_ja: "JF ・ ファン ・ HEERDEN"
+title: "JF VAN HEERDEN | JF-ファン・ヘールデン"
+name_en: "JF VAN HEERDEN"
+name_ja: "JF-ファン・ヘールデン"
 slug: "jf-van-heerden"
 position: "LO"
 height: "200.0"
 weight: "122.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "Romania代表 (1 caps)"
-scraped_url: "https://all.rugby/player/jf-van-heerden"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2022 - 2023) -> Bulls (2023 - 2026)
+

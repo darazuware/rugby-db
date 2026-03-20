@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "198.0"
 weight: "100.0"
 birth_date: "2003.01.05"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/esteban-capilla"
 ---
 

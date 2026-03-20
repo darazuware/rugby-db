@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "117.0"
 birth_date: "1995.02.10"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/cyril-cazeaux"
 ---
 

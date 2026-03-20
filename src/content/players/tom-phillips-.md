@@ -1,18 +1,20 @@
 ---
-title: "トム ・ PHILLIPS | トム ・ PHILLIPS"
-name_en: "トム ・ PHILLIPS"
+title: "Tom PHILLIPS | トム ・ PHILLIPS"
+name_en: "Tom PHILLIPS"
 name_ja: "トム ・ PHILLIPS"
 slug: "tom-phillips-"
 position: "PR"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "26/03/1999"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-phillips-"
 ---
 

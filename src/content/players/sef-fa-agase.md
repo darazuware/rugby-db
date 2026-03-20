@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "117.0"
 birth_date: "1991.03.05"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sef-fa-agase"
 ---
 

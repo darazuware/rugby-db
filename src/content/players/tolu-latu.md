@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "117.0"
 birth_date: "1993.02.23"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tolu-latu"
 ---
 

@@ -7,12 +7,14 @@ position: "WTB"
 height: "173.0"
 weight: "80.0"
 birth_date: "1997.08.01"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/arthur-retiere"
 ---
 

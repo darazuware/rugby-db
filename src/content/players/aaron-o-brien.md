@@ -1,18 +1,20 @@
 ---
-title: "アーロン ・ O'BRIEN | アーロン ・ O'BRIEN"
-name_en: "アーロン ・ O'BRIEN"
+title: "Aaron O'BRIEN | アーロン ・ O'BRIEN"
+name_en: "Aaron O'BRIEN"
 name_ja: "アーロン ・ O'BRIEN"
 slug: "aaron-o-brien"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/aaron-o-brien"
 ---
 

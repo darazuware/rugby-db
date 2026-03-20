@@ -1,18 +1,20 @@
 ---
-title: "トム ・ O'TOOLE | トム ・ O'TOOLE"
-name_en: "トム ・ O'TOOLE"
+title: "Tom O'TOOLE | トム ・ O'TOOLE"
+name_en: "Tom O'TOOLE"
 name_ja: "トム ・ O'TOOLE"
 slug: "tom-o-toole"
 position: "PR"
 height: "185.0"
 weight: "123.0"
 birth_date: "1998.09.23"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
+team: "Ulster"
 caps: "🇮🇪 Ireland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-o-toole"
 ---
 

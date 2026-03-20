@@ -7,12 +7,14 @@ position: "SH"
 height: "180.0"
 weight: "83.0"
 birth_date: "2000.11.19"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mikehil-alania"
 ---
 

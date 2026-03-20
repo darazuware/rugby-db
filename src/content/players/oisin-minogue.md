@@ -1,20 +1,22 @@
 ---
-title: "Oisin ・ MINOGUE | Oisin ・ MINOGUE"
-name_en: "Oisin ・ MINOGUE"
-name_ja: "Oisin ・ MINOGUE"
+title: "Oisin MINOGUE | オシーン・ミノーグ"
+name_en: "Oisin MINOGUE"
+name_ja: "オシーン・ミノーグ"
 slug: "oisin-minogue"
-position: "Back row"
+position: "FL/No8"
 height: "184.0"
 weight: "102.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/oisin-minogue"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Shannon RFC (2024 - 2025) -> Munster Rugby (2025 - 2026)
+

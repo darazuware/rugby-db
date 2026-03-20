@@ -7,12 +7,14 @@ position: "HO"
 height: "189.0"
 weight: "105.0"
 birth_date: "2002.12.09"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-martin"
 ---
 

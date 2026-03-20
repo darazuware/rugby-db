@@ -1,20 +1,22 @@
 ---
-title: "Mike ・ HALEY | Mike ・ HALEY"
-name_en: "Mike ・ HALEY"
-name_ja: "Mike ・ HALEY"
+title: "Mike HALEY | マイク・ヘイリー"
+name_en: "Mike HALEY"
+name_ja: "マイク・ヘイリー"
 slug: "mike-haley"
 position: "FB"
 height: "191.0"
 weight: "94.0"
 birth_date: "1994.06.28"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
-scraped_url: "https://all.rugby/player/mike-haley"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sale Sharks (2013 - 2018) -> Munster Rugby (2018 - 2026)
+England

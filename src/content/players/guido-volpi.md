@@ -1,20 +1,22 @@
 ---
-title: "Guido ・ VOLPI | Guido ・ VOLPI"
-name_en: "Guido ・ VOLPI"
-name_ja: "Guido ・ VOLPI"
+title: "Guido VOLPI | グイド・ヴォルピ"
+name_en: "Guido VOLPI"
+name_ja: "グイド・ヴォルピ"
 slug: "guido-volpi"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "112.0"
 birth_date: "1995.08.22"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "0"
-scraped_url: "https://all.rugby/player/guido-volpi"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Old Georgian Club (2016 - 2017) -> Racing Club Narbonnais (2017 - 2018) -> Ospreys (2018 - 2019) -> Doncaster Knights (2019 - 2019) -> Ospreys (2020 - 2020) -> Doncaster Knights (2020 - 2020) -> Ospreys (2020 - 2020) -> Doncaster Knights (2020 - 2020) -> Ospreys (2021 - 2021) -> Doncaster Knights (2021 - 2022) -> Zebre Parma (2022 - 2026)
+

@@ -1,20 +1,22 @@
 ---
-title: "Charlie ・ TECTOR | Charlie ・ TECTOR"
-name_en: "Charlie ・ TECTOR"
-name_ja: "Charlie ・ TECTOR"
+title: "Charlie TECTOR | チャーリー・テクター"
+name_en: "Charlie TECTOR"
+name_ja: "チャーリー・テクター"
 slug: "charlie-tector"
 position: "SO"
 height: "188.0"
 weight: "95.0"
 birth_date: "2002.03.28"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/charlie-tector"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2026)
+

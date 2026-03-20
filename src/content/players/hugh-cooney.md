@@ -1,20 +1,22 @@
 ---
-title: "Hugh ・ COONEY | Hugh ・ COONEY"
-name_en: "Hugh ・ COONEY"
-name_ja: "Hugh ・ COONEY"
+title: "Hugh COONEY | ヒュー・クーニー"
+name_en: "Hugh COONEY"
+name_ja: "ヒュー・クーニー"
 slug: "hugh-cooney"
 position: "CTB"
 height: "182.0"
 weight: "92.0"
 birth_date: "2003.06.26"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "Development players代表 (0 caps)"
-scraped_url: "https://all.rugby/player/hugh-cooney"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2022 - 2026)
+

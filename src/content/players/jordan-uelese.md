@@ -7,12 +7,14 @@ position: "HO"
 height: "189.0"
 weight: "122.0"
 birth_date: "1997.01.24"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jordan-uelese"
 ---
 

@@ -1,0 +1,22 @@
+---
+title: "SYUUTO INOUE | 井上 柊人"
+name_en: "SYUUTO INOUE"
+name_ja: "井上 柊人"
+slug: "syuuto-inoue"
+position: "WTB"
+height: "173.0"
+weight: "80.0"
+birth_date: "1999.11.24"
+age: 26.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "ルリーロ福岡（2025-26）"
+caps: ""
+high_school: "東海大福岡高校"
+university: "福岡工業大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

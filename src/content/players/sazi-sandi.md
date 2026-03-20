@@ -1,20 +1,22 @@
 ---
-title: "Sazi ・ SANDI | Sazi ・ SANDI"
-name_en: "Sazi ・ SANDI"
-name_ja: "Sazi ・ SANDI"
+title: "Sazi SANDI | サジ・サンディ"
+name_en: "Sazi SANDI"
+name_ja: "サジ・サンディ"
 slug: "sazi-sandi"
 position: "PR"
 height: "181.0"
 weight: "124.0"
 birth_date: "1998.07.11"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/sazi-sandi"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2018 - 2019) -> Stormers (2019 - 2026)
+

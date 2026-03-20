@@ -1,18 +1,20 @@
 ---
-title: "Corn ・ WEILBACH | Corn ・ WEILBACH"
-name_en: "Corn ・ WEILBACH"
+title: "Corné WEILBACH | Corn ・ WEILBACH"
+name_en: "Corné WEILBACH"
 name_ja: "Corn ・ WEILBACH"
 slug: "corne-weilbach"
 position: "PR"
 height: "186.0"
 weight: "128.0"
 birth_date: "2002.02.18"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/corne-weilbach"
 ---
 

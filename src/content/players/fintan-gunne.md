@@ -1,20 +1,22 @@
 ---
-title: "Fintan ・ GUNNE | Fintan ・ GUNNE"
-name_en: "Fintan ・ GUNNE"
-name_ja: "Fintan ・ GUNNE"
+title: "Fintan GUNNE | フィンタン・ガン"
+name_en: "Fintan GUNNE"
+name_ja: "フィンタン・ガン"
 slug: "fintan-gunne"
 position: "SH"
 height: "175.0"
 weight: "85.0"
 birth_date: "2003.07.28"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/fintan-gunne"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2022 - 2026)
+

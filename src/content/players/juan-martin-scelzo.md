@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "192.0"
 weight: "110.0"
 birth_date: "2002.02.12"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/juan-martin-scelzo"
 ---
 

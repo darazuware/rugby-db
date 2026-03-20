@@ -7,12 +7,14 @@ position: "WTB"
 height: "192.0"
 weight: "90.0"
 birth_date: "2002.08.28"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (42 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jefferson-joseph"
 ---
 

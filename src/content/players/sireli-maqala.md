@@ -7,12 +7,14 @@ position: "CTB"
 height: "172.0"
 weight: "88.0"
 birth_date: "2000.03.20"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇯 Fiji代表 (4 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sireli-maqala"
 ---
 

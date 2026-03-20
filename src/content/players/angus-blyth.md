@@ -7,12 +7,14 @@ position: "LO"
 height: "204.0"
 weight: "124.0"
 birth_date: "1998.03.04"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/angus-blyth"
 ---
 

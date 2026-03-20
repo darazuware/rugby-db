@@ -1,18 +1,20 @@
 ---
-title: "Ali ・ VERMAAK | Ali ・ VERMAAK"
-name_en: "Ali ・ VERMAAK"
+title: "Ali VERMAAK | Ali ・ VERMAAK"
+name_en: "Ali VERMAAK"
 name_ja: "Ali ・ VERMAAK"
 slug: "alistair-vermaak"
 position: "PR"
 height: "179.0"
 weight: "113.0"
 birth_date: "1986.04.28"
-age: 39
+age: 39.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alistair-vermaak"
 ---
 

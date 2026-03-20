@@ -1,20 +1,22 @@
 ---
-title: "ジェームズ ・ HUME | ジェームズ ・ HUME"
-name_en: "ジェームズ ・ HUME"
-name_ja: "ジェームズ ・ HUME"
+title: "James HUME | ジェームズ-ヒューム"
+name_en: "James HUME"
+name_ja: "ジェームズ-ヒューム"
 slug: "james-hume"
 position: "CTB"
 height: "188.0"
 weight: "98.0"
 birth_date: "1998.09.07"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/james-hume"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2018 - 2026)
+

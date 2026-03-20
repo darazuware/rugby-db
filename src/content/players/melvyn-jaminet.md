@@ -7,12 +7,14 @@ position: "FB"
 height: "180.0"
 weight: "85.0"
 birth_date: "1999.06.30"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/melvyn-jaminet"
 ---
 

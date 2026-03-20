@@ -7,12 +7,14 @@ position: "PR"
 height: "178.0"
 weight: "125.0"
 birth_date: "1999.11.20"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "United-States"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/david-ainu-u"
 ---
 

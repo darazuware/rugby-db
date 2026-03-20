@@ -7,12 +7,14 @@ position: "WTB"
 height: "180.0"
 weight: "93.0"
 birth_date: "1995.12.13"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gabin-villiere"
 ---
 

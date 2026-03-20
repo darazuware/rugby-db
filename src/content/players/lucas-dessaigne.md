@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "102.0"
 birth_date: "1999.02.07"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-dessaigne"
 ---
 

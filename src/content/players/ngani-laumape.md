@@ -7,12 +7,14 @@ position: "CTB"
 height: "171.0"
 weight: "104.0"
 birth_date: "1993.04.22"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ngani-laumape"
 ---
 

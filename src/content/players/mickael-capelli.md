@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "126.0"
 birth_date: "1997.03.18"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mickael-capelli"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Magnus ・ BRADBURY | Magnus ・ BRADBURY"
-name_en: "Magnus ・ BRADBURY"
-name_ja: "Magnus ・ BRADBURY"
+title: "Magnus BRADBURY | マグナス・ブラッドベリー"
+name_en: "Magnus BRADBURY"
+name_ja: "マグナス・ブラッドベリー"
 slug: "magnus-bradbury"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "116.0"
 birth_date: "1995.08.23"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
-scraped_url: "https://all.rugby/player/magnus-bradbury"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2014 - 2022) -> Bristol Bears (2022 - 2024) -> Edimbourg Rugby (2024 - 2026)
+Scotland

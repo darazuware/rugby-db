@@ -7,12 +7,14 @@ position: "SH"
 height: "174.0"
 weight: "75.0"
 birth_date: "1996.09.02"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "Uruguay"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/santiago-arata"
 ---
 

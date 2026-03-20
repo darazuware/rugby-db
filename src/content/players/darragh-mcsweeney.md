@@ -1,20 +1,22 @@
 ---
-title: "ダラ ・ MCSWEENEY | ダラ ・ MCSWEENEY"
-name_en: "ダラ ・ MCSWEENEY"
-name_ja: "ダラ ・ MCSWEENEY"
+title: "Darragh MCSWEENEY | ダラ・マクスウィーニー"
+name_en: "Darragh MCSWEENEY"
+name_ja: "ダラ・マクスウィーニー"
 slug: "darragh-mcsweeney"
 position: "PR"
 height: "191.0"
 weight: "130.0"
 birth_date: "2002.08.19"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/darragh-mcsweeney"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2021 - 2024) -> Cornish Pirates (2024 - 2024) -> Munster Rugby (2025 - 2025) -> Cornish Pirates (2025 - 2025) -> Munster Rugby (2025 - 2026)
+

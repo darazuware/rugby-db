@@ -7,12 +7,14 @@ position: "WTB"
 height: "185.0"
 weight: "89.0"
 birth_date: "2000.09.16"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/arnaud-erbinartegaray"
 ---
 

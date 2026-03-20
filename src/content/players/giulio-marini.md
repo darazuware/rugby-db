@@ -1,20 +1,22 @@
 ---
-title: "Giulio ・ MARINI | Giulio ・ MARINI"
-name_en: "Giulio ・ MARINI"
-name_ja: "Giulio ・ MARINI"
+title: "Giulio MARINI | ジュリオ-マリーニ"
+name_en: "Giulio MARINI"
+name_ja: "ジュリオ-マリーニ"
 slug: "giulio-marini"
-position: "Back row"
+position: "FL/No8"
 height: "195.0"
 weight: "105.0"
 birth_date: "2002.01.23"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "0"
-scraped_url: "https://all.rugby/player/giulio-marini"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2021 - 2024) -> Benetton Rugby Trévise (2024 - 2026)
+

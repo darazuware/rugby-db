@@ -7,12 +7,14 @@ position: "SH"
 height: "173.0"
 weight: "92.0"
 birth_date: "1995.02.08"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇫🇷 France代表 (9 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/charlie-cassang"
 ---
 

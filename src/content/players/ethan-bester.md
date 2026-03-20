@@ -1,20 +1,22 @@
 ---
-title: "Ethan ・ BESTER | Ethan ・ BESTER"
-name_en: "Ethan ・ BESTER"
-name_ja: "Ethan ・ BESTER"
+title: "Ethan BESTER | イーサン・ベスター"
+name_en: "Ethan BESTER"
+name_ja: "イーサン・ベスター"
 slug: "ethan-bester"
 position: "HO"
 height: "187.0"
 weight: "112.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/ethan-bester"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2023 - 2024) -> Sharks (2024 - 2026)
+

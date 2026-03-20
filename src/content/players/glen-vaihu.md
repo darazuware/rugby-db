@@ -7,12 +7,14 @@ position: "WTB"
 height: "183.0"
 weight: "94.0"
 birth_date: "2001.10.08"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/glen-vaihu"
 ---
 

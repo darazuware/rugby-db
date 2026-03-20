@@ -1,20 +1,22 @@
 ---
-title: "ダン ・ DAVIS | ダン ・ DAVIS"
-name_en: "ダン ・ DAVIS"
-name_ja: "ダン ・ DAVIS"
+title: "Dan DAVIS | ダン・デイヴィス"
+name_en: "Dan DAVIS"
+name_ja: "ダン・デイヴィス"
 slug: "dan-davis"
-position: "Back row"
+position: "FL/No8"
 height: "182.0"
 weight: "101.0"
 birth_date: "1998.09.17"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/dan-davis"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2026)
+

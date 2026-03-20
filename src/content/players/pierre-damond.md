@@ -7,12 +7,14 @@ position: "HO"
 height: "181.0"
 weight: "103.0"
 birth_date: "2003.11.27"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pierre-damond"
 ---
 

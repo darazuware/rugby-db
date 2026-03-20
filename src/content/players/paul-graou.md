@@ -7,12 +7,14 @@ position: "SH"
 height: "177.0"
 weight: "90.0"
 birth_date: "1997.07.25"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paul-graou"
 ---
 

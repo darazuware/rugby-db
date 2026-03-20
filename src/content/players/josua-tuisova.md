@@ -7,12 +7,14 @@ position: "CTB"
 height: "180.0"
 weight: "113.0"
 birth_date: "1994.02.04"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josua-tuisova"
 ---
 

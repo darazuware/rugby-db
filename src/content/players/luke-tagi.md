@@ -7,12 +7,14 @@ position: "PR"
 height: "187.0"
 weight: "130.0"
 birth_date: "1997.06.23"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇯 Fiji代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/luke-tagi"
 ---
 

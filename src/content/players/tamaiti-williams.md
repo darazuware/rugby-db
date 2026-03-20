@@ -7,12 +7,14 @@ position: "PR"
 height: "196.0"
 weight: "140.0"
 birth_date: "2000.08.10"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tamaiti-williams"
 ---
 

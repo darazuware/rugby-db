@@ -7,12 +7,14 @@ position: "CTB"
 height: "184.0"
 weight: "98.0"
 birth_date: "1990.07.02"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jeremy-sinzelle"
 ---
 

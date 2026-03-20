@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "97.0"
 birth_date: "2001.01.11"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (1 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/corey-evans"
 ---
 

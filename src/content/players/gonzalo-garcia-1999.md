@@ -1,18 +1,20 @@
 ---
-title: "Gonzalo ・ GARCIA | Gonzalo ・ GARCIA"
-name_en: "Gonzalo ・ GARCIA"
+title: "Gonzalo GARCIA | Gonzalo ・ GARCIA"
+name_en: "Gonzalo GARCIA"
 name_ja: "Gonzalo ・ GARCIA"
 slug: "gonzalo-garcia-1999"
 position: "SH"
 height: "173.0"
 weight: "82.0"
 birth_date: "1999.03.05"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
+team: "Zebre"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gonzalo-garcia-1999"
 ---
 

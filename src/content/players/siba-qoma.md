@@ -1,20 +1,22 @@
 ---
-title: "Siba ・ QOMA | Siba ・ QOMA"
-name_en: "Siba ・ QOMA"
-name_ja: "Siba ・ QOMA"
+title: "Siba QOMA | シバ・コマ"
+name_en: "Siba QOMA"
+name_ja: "シバ・コマ"
 slug: "siba-qoma"
 position: "LO"
 height: "190.0"
 weight: "108.0"
 birth_date: "1997.02.17"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/siba-qoma"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2022 - 2024) -> Lions Rugby (2024 - 2026)
+

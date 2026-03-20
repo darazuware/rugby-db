@@ -1,20 +1,22 @@
 ---
-title: "Hugh ・ GAVIN | Hugh ・ GAVIN"
-name_en: "Hugh ・ GAVIN"
-name_ja: "Hugh ・ GAVIN"
+title: "Hugh GAVIN | ヒュー・ギャヴィン"
+name_en: "Hugh GAVIN"
+name_ja: "ヒュー・ギャヴィン"
 slug: "hugh-gavin"
 position: "CTB"
 height: "192.0"
 weight: "103.0"
 birth_date: "2004.01.10"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/hugh-gavin"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2022 - 2026)
+

@@ -7,12 +7,14 @@ position: "PR"
 height: "193.0"
 weight: "142.0"
 birth_date: "1998.04.09"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/georges-henri-colombe"
 ---
 

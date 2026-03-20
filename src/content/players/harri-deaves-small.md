@@ -1,20 +1,22 @@
 ---
-title: "Harri ・ DEAVES ・ SMALL | Harri ・ DEAVES ・ SMALL"
-name_en: "Harri ・ DEAVES ・ SMALL"
-name_ja: "Harri ・ DEAVES ・ SMALL"
+title: "Harri DEAVES-SMALL | ハリー・ディーブス＝スモール"
+name_en: "Harri DEAVES-SMALL"
+name_ja: "ハリー・ディーブス＝スモール"
 slug: "harri-deaves-small"
-position: "Back row"
+position: "FL/No8"
 height: "182.0"
 weight: "96.0"
 birth_date: "2001.06.13"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/harri-deaves-small"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ospreys (2020 - 2026)
+

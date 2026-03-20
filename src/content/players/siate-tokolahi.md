@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "116.0"
 birth_date: "1992.03.16"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇹🇴 Tonga代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/siate-tokolahi"
 ---
 

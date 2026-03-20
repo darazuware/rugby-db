@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "120.0"
 birth_date: "1998.05.08"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sam-matenga"
 ---
 

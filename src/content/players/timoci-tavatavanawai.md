@@ -7,12 +7,14 @@ position: "CTB"
 height: "187.0"
 weight: "111.0"
 birth_date: "1998.02.14"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
+league: "nan"
+team: "Highlanders"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/timoci-tavatavanawai"
 ---
 

@@ -1,18 +1,20 @@
 ---
-title: "Dylan ・ ジェームズ | Dylan ・ ジェームズ"
-name_en: "Dylan ・ ジェームズ"
+title: "Dylan JAMES | Dylan ・ ジェームズ"
+name_en: "Dylan JAMES"
 name_ja: "Dylan ・ ジェームズ"
 slug: "dylan-james-"
 position: "PR"
 height: "183.0"
 weight: "114.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
+team: "Ospreys"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (46 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dylan-james-"
 ---
 

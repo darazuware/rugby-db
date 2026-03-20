@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "115.0"
 birth_date: "2002.01.22"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lopeti-faifua"
 ---
 

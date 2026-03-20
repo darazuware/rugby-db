@@ -1,20 +1,22 @@
 ---
-title: "Isaac ・ COATES | Isaac ・ COATES"
-name_en: "Isaac ・ COATES"
-name_ja: "Isaac ・ COATES"
+title: "Isaac COATES | アイザック・コーツ"
+name_en: "Isaac COATES"
+name_ja: "アイザック・コーツ"
 slug: "isaac-coates"
 position: "SO"
 height: "175.0"
 weight: "84.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/isaac-coates"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2023 - 2026)
+

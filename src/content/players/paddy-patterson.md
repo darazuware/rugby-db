@@ -1,20 +1,22 @@
 ---
-title: "Paddy ・ PATTERSON | Paddy ・ PATTERSON"
-name_en: "Paddy ・ PATTERSON"
-name_ja: "Paddy ・ PATTERSON"
+title: "Paddy PATTERSON | パディ・パターソン"
+name_en: "Paddy PATTERSON"
+name_ja: "パディ・パターソン"
 slug: "paddy-patterson"
 position: "SH"
 height: "175.0"
 weight: "75.0"
 birth_date: "1998.11.30"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/paddy-patterson"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2020) -> Munster Rugby (2020 - 2020) -> Leinster Rugby (2021 - 2021) -> Munster Rugby (2021 - 2026)
+

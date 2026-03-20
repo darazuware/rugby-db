@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "123.0"
 birth_date: "1997.10.07"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nicolas-corato"
 ---
 

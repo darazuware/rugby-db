@@ -7,12 +7,14 @@ position: "CTB"
 height: "183.0"
 weight: "89.0"
 birth_date: "1996.07.16"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joe-marchant"
 ---
 

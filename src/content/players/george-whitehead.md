@@ -1,20 +1,22 @@
 ---
-title: "George ・ WHITEHEAD | George ・ WHITEHEAD"
-name_en: "George ・ WHITEHEAD"
-name_ja: "George ・ WHITEHEAD"
+title: "George WHITEHEAD | ジョージ・ホワイトヘッド"
+name_en: "George WHITEHEAD"
+name_ja: "ジョージ・ホワイトヘッド"
 slug: "george-whitehead"
 position: "SO"
 height: "184.0"
 weight: "88.0"
 birth_date: "1989.03.17"
-age: 37
+age: 37.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/george-whitehead"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2015 - 2016) -> Stormers (2017 - 2018) -> Griquas (2018 - 2019) -> Central Cheetahs (2019 - 2020) -> Griquas (2020 - 2025) -> Sharks (2025 - 2026)
+

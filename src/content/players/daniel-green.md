@@ -1,20 +1,22 @@
 ---
-title: "ダニエル ・ GREEN | ダニエル ・ GREEN"
-name_en: "ダニエル ・ GREEN"
-name_ja: "ダニエル ・ GREEN"
+title: "Daniel GREEN | ダニエル・グリーン"
+name_en: "Daniel GREEN"
+name_ja: "ダニエル・グリーン"
 slug: "daniel-green"
 position: "FB"
 height: "183.0"
-weight: "0"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/daniel-green"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Queen's University (2024 - 2025) -> Ulster Rugby (2025 - 2026)
+

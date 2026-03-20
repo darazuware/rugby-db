@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "135.0"
 birth_date: "1993.04.23"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/feao-fotuaika"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "196.0"
 weight: "108.0"
 birth_date: "1998.05.11"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/baptiste-heguy"
 ---
 

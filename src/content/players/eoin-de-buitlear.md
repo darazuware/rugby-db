@@ -1,18 +1,20 @@
 ---
-title: "オーウェン ・ デ ・ BUITL ・ AR | オーウェン ・ デ ・ BUITL ・ AR"
-name_en: "オーウェン ・ デ ・ BUITL ・ AR"
+title: "Eoin DE BUITLÉAR | オーウェン ・ デ ・ BUITL ・ AR"
+name_en: "Eoin DE BUITLÉAR"
 name_ja: "オーウェン ・ デ ・ BUITL ・ AR"
 slug: "eoin-de-buitlear"
 position: "HO"
 height: "175.0"
 weight: "104.0"
 birth_date: "2001.11.09"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/eoin-de-buitlear"
 ---
 

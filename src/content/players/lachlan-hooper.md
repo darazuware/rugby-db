@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "195.0"
 weight: "101.0"
 birth_date: "2004.02.19"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lachlan-hooper"
 ---
 

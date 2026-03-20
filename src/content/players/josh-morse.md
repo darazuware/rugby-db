@@ -1,20 +1,22 @@
 ---
-title: "ジョシュ ・ MORSE | ジョシュ ・ MORSE"
-name_en: "ジョシュ ・ MORSE"
-name_ja: "ジョシュ ・ MORSE"
+title: "Josh MORSE | ジョシュ・モース"
+name_en: "Josh MORSE"
+name_ja: "ジョシュ・モース"
 slug: "josh-morse"
 position: "PR"
 height: "180.0"
 weight: "118.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/josh-morse"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2022 - 2026)
+

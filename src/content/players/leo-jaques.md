@@ -7,12 +7,14 @@ position: "WTB"
 height: "192.0"
 weight: "97.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/leo-jaques"
 ---
 

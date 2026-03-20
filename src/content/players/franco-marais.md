@@ -1,20 +1,22 @@
 ---
-title: "フランコ ・ MARAIS | フランコ ・ MARAIS"
-name_en: "フランコ ・ MARAIS"
-name_ja: "フランコ ・ MARAIS"
+title: "Franco MARAIS | フランコ-マレー"
+name_en: "Franco MARAIS"
+name_ja: "フランコ-マレー"
 slug: "franco-marais"
 position: "HO"
 height: "185.0"
 weight: "108.0"
 birth_date: "1992.09.23"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/franco-marais"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sharks (2013 - 2018) -> Gloucester Rugby (2018 - 2020) -> Red Hurricanes Osaka (2020 - 2022) -> Urayasu D-Rocks (2022 - 2024) -> Lions Rugby (2024 - 2026)
+

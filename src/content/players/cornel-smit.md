@@ -1,20 +1,22 @@
 ---
-title: "Cornel ・ SMIT | Cornel ・ SMIT"
-name_en: "Cornel ・ SMIT"
-name_ja: "Cornel ・ SMIT"
+title: "Cornel SMIT | コーネル・スミット"
+name_en: "Cornel SMIT"
+name_ja: "コーネル・スミット"
 slug: "cornel-smit"
 position: "CTB"
 height: "183.0"
 weight: "96.0"
 birth_date: "1997.09.10"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "🇳🇿 New Zealand代表 (88 caps)"
-scraped_url: "https://all.rugby/player/cornel-smit"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2017 - 2019) -> Stormers (2020 - 2023) -> Bulls (2023 - 2023) -> Stormers (2024 - 2024) -> Bulls (2024 - 2025) -> Cardiff Rugby (2025 - 2026)
+

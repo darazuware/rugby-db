@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "186.0"
 weight: "115.0"
 birth_date: "2001.08.09"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alex-masibaka"
 ---
 

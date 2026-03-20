@@ -1,20 +1,22 @@
 ---
-title: "Willem ・ ファン ・ DEN ・ HEVER | Willem ・ ファン ・ DEN ・ HEVER"
-name_en: "Willem ・ ファン ・ DEN ・ HEVER"
-name_ja: "Willem ・ ファン ・ DEN ・ HEVER"
+title: "Willem VAN DEN HEVER | ウィレム-ファン・デン・ヘーヴァー"
+name_en: "Willem VAN DEN HEVER"
+name_ja: "ウィレム-ファン・デン・ヘーヴァー"
 slug: "willem-van-den-hever"
 position: "HO"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "1999.01.25"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/willem-van-den-hever"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Northern Free State Griffons (2023 - 2024) -> Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+

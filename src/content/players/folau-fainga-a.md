@@ -7,12 +7,14 @@ position: "HO"
 height: "178.0"
 weight: "115.0"
 birth_date: "1995.05.05"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/folau-fainga-a"
 ---
 

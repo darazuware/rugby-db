@@ -7,12 +7,14 @@ position: "FB"
 height: "194.0"
 weight: "96.0"
 birth_date: "1997.02.05"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jack-maddocks"
 ---
 

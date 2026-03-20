@@ -7,12 +7,14 @@ position: "WTB"
 height: "184.0"
 weight: "84.0"
 birth_date: "2000.10.22"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gael-drean"
 ---
 

@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "110.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇿🇦 South Africa代表 (106 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joshua-smith"
 ---
 

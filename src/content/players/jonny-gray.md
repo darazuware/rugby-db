@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "122.0"
 birth_date: "1994.03.14"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jonny-gray"
 ---
 

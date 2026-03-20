@@ -1,20 +1,22 @@
 ---
-title: "Manuel ・ RASS | Manuel ・ RASS"
-name_en: "Manuel ・ RASS"
-name_ja: "Manuel ・ RASS"
+title: "Manuel RASS | マヌエル・ラス"
+name_en: "Manuel RASS"
+name_ja: "マヌエル・ラス"
 slug: "manuel-rass"
 position: "CTB"
 height: "174.0"
 weight: "88.0"
 birth_date: "1998.04.19"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/manuel-rass"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2026)
+

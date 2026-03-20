@@ -1,20 +1,22 @@
 ---
-title: "Oliver ・ REID | Oliver ・ REID"
-name_en: "Oliver ・ REID"
-name_ja: "Oliver ・ REID"
+title: "Oliver REID | オリヴァー・リード"
+name_en: "Oliver REID"
+name_ja: "オリヴァー・リード"
 slug: "oliver-reid"
 position: "PR"
 height: "185.0"
 weight: "116.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/oliver-reid"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2024 - 2025) -> Stormers (2025 - 2026)
+

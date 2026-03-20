@@ -1,20 +1,22 @@
 ---
-title: "ロナン ・ FOXE | ロナン ・ FOXE"
-name_en: "ロナン ・ FOXE"
-name_ja: "ロナン ・ FOXE"
+title: "Ronan FOXE | ロナン・フォックス"
+name_en: "Ronan FOXE"
+name_ja: "ロナン・フォックス"
 slug: "ronan-foxe"
 position: "PR"
 height: "188.0"
 weight: "128.0"
 birth_date: "2003.02.13"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/ronan-foxe"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Old Belvedere RC (2022 - 2023) -> Munster Rugby (2023 - 2026)
+

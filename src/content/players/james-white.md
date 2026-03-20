@@ -7,12 +7,14 @@ position: "SO"
 height: "180.0"
 weight: "95.0"
 birth_date: "2003.09.16"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (59 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/james-white"
 ---
 

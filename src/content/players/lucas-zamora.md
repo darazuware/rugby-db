@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇿🇦 South Africa代表 (35 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-zamora"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "192.0"
 weight: "108.0"
 birth_date: "1999.06.21"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sacha-zegueur"
 ---
 

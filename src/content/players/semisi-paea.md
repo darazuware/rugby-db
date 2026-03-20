@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "194.0"
 weight: "113.0"
 birth_date: "1999.04.17"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇹🇴 Tonga代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/semisi-paea"
 ---
 

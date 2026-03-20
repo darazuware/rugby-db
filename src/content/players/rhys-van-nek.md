@@ -7,12 +7,14 @@ position: "PR"
 height: "177.0"
 weight: "108.0"
 birth_date: "1999.07.17"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
-caps: "0"
+league: "nan"
+team: "Brumbies"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rhys-van-nek"
 ---
 

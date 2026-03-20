@@ -1,20 +1,22 @@
 ---
-title: "Keke ・ MORABE | Keke ・ MORABE"
-name_en: "Keke ・ MORABE"
-name_ja: "Keke ・ MORABE"
+title: "Keke MORABE | ケケ・モラベ"
+name_en: "Keke MORABE"
+name_ja: "ケケ・モラベ"
 slug: "keke-morabe"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "118.0"
 birth_date: "2001.04.21"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/keke-morabe"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Northern Free State Griffons (2017 - 2019) -> Western Province (2021 - 2022) -> Stormers (2022 - 2026)
+

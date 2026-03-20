@@ -1,18 +1,20 @@
 ---
-title: "Se ・ F ・ O'BRIEN | Se ・ F ・ O'BRIEN"
-name_en: "Se ・ F ・ O'BRIEN"
+title: "Seán F. O'BRIEN | Se ・ F ・ O'BRIEN"
+name_en: "Seán F. O'BRIEN"
 name_ja: "Se ・ F ・ O'BRIEN"
 slug: "sean-o-brien-2000"
 position: "Back row"
 height: "193.0"
 weight: "105.0"
 birth_date: "2000.07.31"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
+team: "Connacht"
 caps: "🇮🇪 Ireland代表 (37 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sean-o-brien-2000"
 ---
 

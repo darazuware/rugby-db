@@ -7,12 +7,14 @@ position: "WTB"
 height: "184.0"
 weight: "92.0"
 birth_date: "1996.05.09"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
+league: "nan"
+team: "Highlanders"
 caps: "🇮🇪 Ireland代表 (40 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jonah-lowe"
 ---
 

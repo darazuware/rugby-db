@@ -7,12 +7,14 @@ position: "WTB"
 height: "173.0"
 weight: "84.0"
 birth_date: "1999.12.17"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇦🇷 Argentina代表 (11 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mateo-carreras"
 ---
 

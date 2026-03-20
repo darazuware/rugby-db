@@ -1,18 +1,20 @@
 ---
-title: "Shane ・ JENNINGS | Shane ・ JENNINGS"
-name_en: "Shane ・ JENNINGS"
+title: "Shane JENNINGS | Shane ・ JENNINGS"
+name_en: "Shane JENNINGS"
 name_ja: "Shane ・ JENNINGS"
 slug: "shane-jennings-"
 position: "Winger"
 height: "191.0"
 weight: "96.0"
 birth_date: "2001.01.14"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
+team: "Connacht"
 caps: "🇮🇪 Ireland代表 (10 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/shane-jennings-"
 ---
 

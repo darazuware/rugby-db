@@ -1,18 +1,20 @@
 ---
-title: "ベン ・ WHITE | ベン ・ WHITE"
-name_en: "ベン ・ WHITE"
+title: "Ben WHITE | ベン ・ WHITE"
+name_en: "Ben WHITE"
 name_ja: "ベン ・ WHITE"
 slug: "ben-white-"
 position: "PR"
 height: "182.0"
 weight: "110.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エディンバラ・ラグビー"
+team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (24 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ben-white-"
 ---
 

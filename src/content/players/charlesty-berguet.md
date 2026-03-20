@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "115.0"
 birth_date: "2000.01.13"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "Belgium"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/charlesty-berguet"
 ---
 

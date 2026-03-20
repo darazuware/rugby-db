@@ -7,12 +7,14 @@ position: "SO"
 height: "182.0"
 weight: "80.0"
 birth_date: "2000.11.15"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ugo-seunes"
 ---
 

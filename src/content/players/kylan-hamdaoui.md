@@ -7,12 +7,14 @@ position: "FB"
 height: "182.0"
 weight: "91.0"
 birth_date: "1994.04.15"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kylan-hamdaoui"
 ---
 

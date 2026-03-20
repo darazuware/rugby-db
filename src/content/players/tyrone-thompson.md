@@ -7,12 +7,14 @@ position: "HO"
 height: "186.0"
 weight: "111.0"
 birth_date: "2000.05.28"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tyrone-thompson"
 ---
 

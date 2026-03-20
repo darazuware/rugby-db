@@ -7,12 +7,14 @@ position: "CTB"
 height: "181.0"
 weight: "110.0"
 birth_date: "1992.10.07"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jonathan-danty"
 ---
 

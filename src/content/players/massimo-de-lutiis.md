@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "126.0"
 birth_date: "2003.11.18"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/massimo-de-lutiis"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "185.0"
 weight: "102.0"
 birth_date: "1991.12.17"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pete-samu"
 ---
 

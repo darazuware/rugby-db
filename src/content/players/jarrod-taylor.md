@@ -1,20 +1,22 @@
 ---
-title: "Jarrod ・ TAYLOR | Jarrod ・ TAYLOR"
-name_en: "Jarrod ・ TAYLOR"
-name_ja: "Jarrod ・ TAYLOR"
+title: "Jarrod TAYLOR | ジャロッド-テイラー"
+name_en: "Jarrod TAYLOR"
+name_ja: "ジャロッド-テイラー"
 slug: "jarrod-taylor"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "100.0"
 birth_date: "2001.02.15"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jarrod-taylor"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2023) -> Stormers (2023 - 2023) -> Scarlets (2023 - 2023) -> Stormers (2024 - 2024) -> Scarlets (2024 - 2026)
+

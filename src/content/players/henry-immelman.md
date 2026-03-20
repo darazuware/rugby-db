@@ -1,20 +1,22 @@
 ---
-title: "Henry ・ IMMELMAN | Henry ・ IMMELMAN"
-name_en: "Henry ・ IMMELMAN"
-name_ja: "Henry ・ IMMELMAN"
+title: "Henry IMMELMAN | ヘンリー-イメルマン"
+name_en: "Henry IMMELMAN"
+name_ja: "ヘンリー-イメルマン"
 slug: "henry-immelman"
 position: "FB"
 height: "190.0"
 weight: "103.0"
 birth_date: "1995.05.26"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/henry-immelman"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Free State Cheetahs (2015 - 2016) -> Montpellier Hérault Rugby (2016 - 2021) -> Edimbourg Rugby (2021 - 2023) -> Bulls (2023 - 2024) -> Sharks (2024 - 2024) -> Bulls (2025 - 2025) -> Sharks (2025 - 2025) -> Bulls (2025 - 2026)
+

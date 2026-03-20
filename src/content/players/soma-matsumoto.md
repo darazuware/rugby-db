@@ -1,0 +1,22 @@
+---
+title: "Soma Matsumoto | 松本 壮馬"
+name_en: "Soma Matsumoto"
+name_ja: "松本 壮馬"
+slug: "soma-matsumoto"
+position: "CTB"
+height: "172.0"
+weight: "85.0"
+birth_date: "2002.10.20"
+age: 23.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "浦安D-Rocks（2025-26）"
+caps: ""
+high_school: "石見智翠館高校"
+university: "関西学院大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

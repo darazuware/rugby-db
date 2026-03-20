@@ -1,20 +1,22 @@
 ---
-title: "ジョン ・ HODNETT | ジョン ・ HODNETT"
-name_en: "ジョン ・ HODNETT"
-name_ja: "ジョン ・ HODNETT"
+title: "John HODNETT | ジョン・ホドネット"
+name_en: "John HODNETT"
+name_ja: "ジョン・ホドネット"
 slug: "john-hodnett"
-position: "Back row"
+position: "FL/No8"
 height: "185.0"
 weight: "105.0"
 birth_date: "1999.01.10"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "Call-ups代表 (0 caps)"
-scraped_url: "https://all.rugby/player/john-hodnett"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2026)
+

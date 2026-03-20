@@ -1,18 +1,20 @@
 ---
-title: "Andr ・ ESTERHUIZEN | Andr ・ ESTERHUIZEN"
-name_en: "Andr ・ ESTERHUIZEN"
+title: "André ESTERHUIZEN | Andr ・ ESTERHUIZEN"
+name_en: "André ESTERHUIZEN"
 name_ja: "Andr ・ ESTERHUIZEN"
 slug: "andre-esterhuizen"
 position: "CTB"
 height: "193.0"
 weight: "115.0"
 birth_date: "1994.03.30"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
+team: "Sharks"
 caps: "🇿🇦 South Africa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/andre-esterhuizen"
 ---
 

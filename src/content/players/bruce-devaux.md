@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "108.0"
 birth_date: "1996.11.14"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/bruce-devaux"
 ---
 

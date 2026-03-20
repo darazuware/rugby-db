@@ -1,20 +1,22 @@
 ---
-title: "Huw ・ ANDERSON | Huw ・ ANDERSON"
-name_en: "Huw ・ ANDERSON"
-name_ja: "Huw ・ ANDERSON"
+title: "Huw ANDERSON | ヒュー-アンダーソン"
+name_en: "Huw ANDERSON"
+name_ja: "ヒュー-アンダーソン"
 slug: "huw-anderson"
 position: "FB"
 height: "178.0"
 weight: "85.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/huw-anderson"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2022 - 2026)
+

@@ -7,12 +7,14 @@ position: "CTB"
 height: "186.0"
 weight: "102.0"
 birth_date: "1999.09.07"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "Chile"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/inaki-ayarza"
 ---
 

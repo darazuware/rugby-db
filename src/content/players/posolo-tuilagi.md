@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 

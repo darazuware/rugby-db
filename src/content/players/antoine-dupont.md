@@ -7,12 +7,14 @@ position: "SH"
 height: "174.0"
 weight: "86.0"
 birth_date: "1996.11.15"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antoine-dupont"
 ---
 

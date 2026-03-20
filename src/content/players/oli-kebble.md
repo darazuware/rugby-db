@@ -1,20 +1,22 @@
 ---
-title: "Oli ・ KEBBLE | Oli ・ KEBBLE"
-name_en: "Oli ・ KEBBLE"
-name_ja: "Oli ・ KEBBLE"
+title: "Oli KEBBLE | オリ・ケブル"
+name_en: "Oli KEBBLE"
+name_ja: "オリ・ケブル"
 slug: "oli-kebble"
 position: "PR"
 height: "191.0"
 weight: "124.0"
 birth_date: "1992.06.18"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/oli-kebble"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2017) -> Glasgow Warriors (2017 - 2024) -> Oyonnax Rugby (2024 - 2025) -> Stormers (2025 - 2026)
+South Africa

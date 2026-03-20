@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "191.0"
 weight: "125.0"
 birth_date: "1996.06.28"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pio-muarua"
 ---
 

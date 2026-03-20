@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "189.0"
 weight: "106.0"
 birth_date: "2000.04.23"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/terrell-peita"
 ---
 

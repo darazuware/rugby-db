@@ -1,18 +1,20 @@
 ---
-title: "Diarmaid ・ O'CONNELL | Diarmaid ・ O'CONNELL"
-name_en: "Diarmaid ・ O'CONNELL"
+title: "Diarmaid O'CONNELL | Diarmaid ・ O'CONNELL"
+name_en: "Diarmaid O'CONNELL"
 name_ja: "Diarmaid ・ O'CONNELL"
 slug: "diarmaid-o-connell"
 position: "Back row"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/diarmaid-o-connell"
 ---
 

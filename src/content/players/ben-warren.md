@@ -1,20 +1,22 @@
 ---
-title: "ベン ・ WARREN | ベン ・ WARREN"
-name_en: "ベン ・ WARREN"
-name_ja: "ベン ・ WARREN"
+title: "Ben WARREN | ベン・ウォーレン"
+name_en: "Ben WARREN"
+name_ja: "ベン・ウォーレン"
 slug: "ben-warren"
 position: "PR"
 height: "185.0"
 weight: "122.0"
 birth_date: "2000.04.02"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/ben-warren"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2018 - 2021) -> Ospreys (2021 - 2026)
+

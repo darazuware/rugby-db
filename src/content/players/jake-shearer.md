@@ -1,20 +1,22 @@
 ---
-title: "Jake ・ SHEARER | Jake ・ SHEARER"
-name_en: "Jake ・ SHEARER"
-name_ja: "Jake ・ SHEARER"
+title: "Jake SHEARER | ジェイク・シアラー"
+name_en: "Jake SHEARER"
+name_ja: "ジェイク・シアラー"
 slug: "jake-shearer"
 position: "PR"
 height: "185.0"
 weight: "113.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jake-shearer"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cumnock RFC (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+

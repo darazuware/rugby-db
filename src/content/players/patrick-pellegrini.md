@@ -7,12 +7,14 @@ position: "SO"
 height: "170.0"
 weight: "80.0"
 birth_date: "1998.09.28"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/patrick-pellegrini"
 ---
 

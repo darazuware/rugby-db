@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "195.0"
 weight: "110.0"
 birth_date: "1995.12.04"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇯 Fiji代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lekima-tagitagivalu"
 ---
 

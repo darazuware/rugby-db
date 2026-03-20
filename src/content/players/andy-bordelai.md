@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "117.0"
 birth_date: "2000.03.29"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/andy-bordelai"
 ---
 

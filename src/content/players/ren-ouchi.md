@@ -1,0 +1,22 @@
+---
+title: "Ren Ouchi | 大内 錬"
+name_en: "Ren Ouchi"
+name_ja: "大内 錬"
+slug: "ren-ouchi"
+position: "FB"
+height: "183.0"
+weight: "88.0"
+birth_date: "1999.01.22"
+age: 27.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "マツダスカイアクティブズ広島（2025-26）"
+caps: "🇯🇵 セブンズ日本(9)"
+high_school: "佐野日本大学高校"
+university: "東洋大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+SA広島 (2022 - )

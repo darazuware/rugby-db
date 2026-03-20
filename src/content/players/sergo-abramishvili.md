@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "112.0"
 birth_date: "2003.11.20"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sergo-abramishvili"
 ---
 

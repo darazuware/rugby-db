@@ -7,12 +7,14 @@ position: "CTB"
 height: "195.0"
 weight: "102.0"
 birth_date: "2002.09.06"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/george-poolman"
 ---
 

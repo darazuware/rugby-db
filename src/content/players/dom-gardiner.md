@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "105.0"
 birth_date: "2001.07.12"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dom-gardiner"
 ---
 

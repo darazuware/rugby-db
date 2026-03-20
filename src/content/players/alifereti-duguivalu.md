@@ -7,12 +7,14 @@ position: "CTB"
 height: "180.0"
 weight: "85.0"
 birth_date: "1997.07.21"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇯🇵 Japan代表 (26 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alifereti-duguivalu"
 ---
 

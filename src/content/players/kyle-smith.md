@@ -1,20 +1,22 @@
 ---
-title: "Kyle ・ スミス | Kyle ・ スミス"
-name_en: "Kyle ・ スミス"
-name_ja: "Kyle ・ スミス"
+title: "Kyle SMITH | カイル・スミス"
+name_en: "Kyle SMITH"
+name_ja: "カイル・スミス"
 slug: "kyle-smith"
 position: "SO"
 height: "188.0"
 weight: "88.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇿🇦 South Africa代表 (34 caps)"
-scraped_url: "https://all.rugby/player/kyle-smith"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2025) -> Stormers (2025 - 2026)
+

@@ -7,12 +7,14 @@ position: "CTB"
 height: "190.0"
 weight: "100.0"
 birth_date: "1999.08.15"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rayan-rebbadj"
 ---
 

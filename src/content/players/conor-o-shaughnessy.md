@@ -1,18 +1,20 @@
 ---
-title: "コナー ・ O'SHAUGHNESSY | コナー ・ O'SHAUGHNESSY"
-name_en: "コナー ・ O'SHAUGHNESSY"
+title: "Conor O'SHAUGHNESSY | コナー ・ O'SHAUGHNESSY"
+name_en: "Conor O'SHAUGHNESSY"
 name_ja: "コナー ・ O'SHAUGHNESSY"
 slug: "conor-o-shaughnessy"
 position: "SO"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/conor-o-shaughnessy"
 ---
 

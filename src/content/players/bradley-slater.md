@@ -7,12 +7,14 @@ position: "HO"
 height: "186.0"
 weight: "110.0"
 birth_date: "1998.09.23"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/bradley-slater"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "105.0"
 birth_date: "1998.10.21"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jacob-devery"
 ---
 

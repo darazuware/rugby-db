@@ -7,12 +7,14 @@ position: "WTB"
 height: "184.0"
 weight: "98.0"
 birth_date: "1999.07.13"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇳🇿 New Zealand代表 (1 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/emoni-narawa"
 ---
 

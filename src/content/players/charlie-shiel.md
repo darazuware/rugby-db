@@ -1,20 +1,22 @@
 ---
-title: "Charlie ・ SHIEL | Charlie ・ SHIEL"
-name_en: "Charlie ・ SHIEL"
-name_ja: "Charlie ・ SHIEL"
+title: "Charlie SHIEL | チャーリー・シール"
+name_en: "Charlie SHIEL"
+name_ja: "チャーリー・シール"
 slug: "charlie-shiel"
 position: "SH"
 height: "178.0"
 weight: "83.0"
 birth_date: "1997.12.03"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/charlie-shiel"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2017 - 2026)
+

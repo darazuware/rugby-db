@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "115.0"
 birth_date: "2000.07.27"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇳🇿 New Zealand代表 (119 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/angelo-smith"
 ---
 

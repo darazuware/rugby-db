@@ -1,20 +1,22 @@
 ---
-title: "ロス ・ BRAUDE | ロス ・ BRAUDE"
-name_en: "ロス ・ BRAUDE"
-name_ja: "ロス ・ BRAUDE"
+title: "Ross BRAUDE | ロス・ブロード"
+name_en: "Ross BRAUDE"
+name_ja: "ロス・ブロード"
 slug: "ross-braude"
 position: "SH"
 height: "168.0"
 weight: "83.0"
 birth_date: "2000.01.18"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/ross-braude"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2019 - 2020) -> Toronto Arrows (2020 - 2023) -> Pumas (2023 - 2025) -> Sharks (2025 - 2026)
+South Africa

@@ -7,12 +7,14 @@ position: "LO"
 height: "197.0"
 weight: "122.0"
 birth_date: "1997.04.16"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/isaia-walker-leawere"
 ---
 

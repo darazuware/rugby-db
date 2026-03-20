@@ -1,20 +1,22 @@
 ---
-title: "Danny ・ SHEAHAN | Danny ・ SHEAHAN"
-name_en: "Danny ・ SHEAHAN"
-name_ja: "Danny ・ SHEAHAN"
+title: "Danny SHEAHAN | ダニー・シーハン"
+name_en: "Danny SHEAHAN"
+name_ja: "ダニー・シーハン"
 slug: "danny-sheahan"
 position: "HO"
 height: "186.0"
 weight: "105.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/danny-sheahan"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-University College Cork (2022 - 2023) -> Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+

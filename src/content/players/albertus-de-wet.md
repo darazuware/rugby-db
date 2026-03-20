@@ -1,18 +1,20 @@
 ---
-title: "ポール ・ デ ・ WET | ポール ・ デ ・ WET"
-name_en: "ポール ・ デ ・ WET"
+title: "Paul DE WET | ポール ・ デ ・ WET"
+name_en: "Paul DE WET"
 name_ja: "ポール ・ デ ・ WET"
 slug: "albertus-de-wet"
 position: "SH"
 height: "176.0"
 weight: "83.0"
 birth_date: "1996.03.16"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/albertus-de-wet"
 ---
 

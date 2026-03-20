@@ -1,18 +1,20 @@
 ---
-title: "アンドリュー ・ スミス | アンドリュー ・ スミス"
-name_en: "アンドリュー ・ スミス"
+title: "Andrew SMITH | アンドリュー ・ スミス"
+name_en: "Andrew SMITH"
 name_ja: "アンドリュー ・ スミス"
 slug: "andrew-smith-2000"
 position: "Winger"
 height: "183.0"
 weight: "90.0"
 birth_date: "2000.07.21"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
+team: "Munster"
 caps: "🇳🇿 New Zealand代表 (119 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/andrew-smith-2000"
 ---
 

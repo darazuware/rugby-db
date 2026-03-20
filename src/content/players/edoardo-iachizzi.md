@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "196.0"
 weight: "112.0"
 birth_date: "1998.05.26"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇮🇹 Italy代表 (6 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/edoardo-iachizzi"
 ---
 

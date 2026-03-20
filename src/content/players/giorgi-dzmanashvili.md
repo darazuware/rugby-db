@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "122.0"
 birth_date: "2002.06.16"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giorgi-dzmanashvili"
 ---
 

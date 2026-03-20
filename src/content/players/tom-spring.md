@@ -7,12 +7,14 @@ position: "WTB"
 height: "186.0"
 weight: "87.0"
 birth_date: "2002.09.26"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-spring"
 ---
 

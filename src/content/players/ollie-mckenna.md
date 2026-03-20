@@ -1,20 +1,22 @@
 ---
-title: "Ollie ・ MCKENNA | Ollie ・ MCKENNA"
-name_en: "Ollie ・ MCKENNA"
-name_ja: "Ollie ・ MCKENNA"
+title: "Ollie MCKENNA | オリー・マッケンナ"
+name_en: "Ollie MCKENNA"
+name_ja: "オリー・マッケンナ"
 slug: "ollie-mckenna"
 position: "PR"
 height: "182.0"
 weight: "109.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/ollie-mckenna"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Glasgow Hutchesons Aloysians RFC (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+

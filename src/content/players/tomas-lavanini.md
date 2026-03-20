@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "127.0"
 birth_date: "1993.01.22"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
+league: "nan"
+team: "Highlanders"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tomas-lavanini"
 ---
 

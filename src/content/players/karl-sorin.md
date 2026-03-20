@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "135.0"
 birth_date: "2003.08.07"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/karl-sorin"
 ---
 

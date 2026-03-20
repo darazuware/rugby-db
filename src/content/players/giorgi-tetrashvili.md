@@ -7,12 +7,14 @@ position: "PR"
 height: "177.0"
 weight: "115.0"
 birth_date: "1993.08.31"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giorgi-tetrashvili"
 ---
 

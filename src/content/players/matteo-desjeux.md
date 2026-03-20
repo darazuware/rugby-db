@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "120.0"
 birth_date: "2002.01.26"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/matteo-desjeux"
 ---
 

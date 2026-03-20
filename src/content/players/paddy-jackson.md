@@ -7,12 +7,14 @@ position: "SO"
 height: "180.0"
 weight: "89.0"
 birth_date: "1992.01.05"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇮🇪 Ireland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paddy-jackson"
 ---
 

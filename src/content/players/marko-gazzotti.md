@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "Call-ups代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/marko-gazzotti"
 ---
 

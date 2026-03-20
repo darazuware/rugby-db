@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "115.0"
 birth_date: "1996.07.19"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/emerick-setiano"
 ---
 

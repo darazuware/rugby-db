@@ -1,20 +1,22 @@
 ---
-title: "Simone ・ GESI | Simone ・ GESI"
-name_en: "Simone ・ GESI"
-name_ja: "Simone ・ GESI"
+title: "Simone GESI | シモーネ・ジェージ"
+name_en: "Simone GESI"
+name_ja: "シモーネ・ジェージ"
 slug: "simone-gesi"
-position: "Winger"
+position: "WTB"
 height: "183.0"
 weight: "80.0"
 birth_date: "2001.05.23"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "🇮🇹 Italy代表 (2 caps)"
-scraped_url: "https://all.rugby/player/simone-gesi"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Colorno (2020 - 2021) -> Zebre Parma (2021 - 2021) -> Colorno (2022 - 2022) -> Zebre Parma (2022 - 2026)
+

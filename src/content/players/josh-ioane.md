@@ -1,20 +1,22 @@
 ---
-title: "ジョシュ ・ IOANE | ジョシュ ・ IOANE"
-name_en: "ジョシュ ・ IOANE"
-name_ja: "ジョシュ ・ IOANE"
+title: "Josh IOANE | ジョシュ・イオアネ"
+name_en: "Josh IOANE"
+name_ja: "ジョシュ・イオアネ"
 slug: "josh-ioane"
 position: "SO"
 height: "180.0"
 weight: "92.0"
 birth_date: "1995.07.11"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "🇳🇿 New Zealand"
-scraped_url: "https://all.rugby/player/josh-ioane"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Highlanders (2017 - 2019) -> Otago (2019 - 2019) -> Highlanders (2020 - 2020) -> Otago (2020 - 2020) -> Highlanders (2020 - 2020) -> Otago (2020 - 2020) -> Highlanders (2021 - 2021) -> Otago (2021 - 2021) -> Chiefs (2021 - 2021) -> Otago (2021 - 2021) -> Chiefs (2022 - 2022) -> Otago (2022 - 2022) -> Chiefs (2022 - 2022) -> Waikato Mooloos (2022 - 2022) -> Chiefs (2023 - 2023) -> Waikato Mooloos (2023 - 2023) -> Chiefs (2023 - 2024) -> Connacht Rugby (2024 - 2026)
+New Zealand

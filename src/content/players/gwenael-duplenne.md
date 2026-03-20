@@ -7,12 +7,14 @@ position: "FB"
 height: "186.0"
 weight: "87.0"
 birth_date: "1993.08.09"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gwenael-duplenne"
 ---
 

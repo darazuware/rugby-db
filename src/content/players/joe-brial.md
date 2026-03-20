@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "195.0"
 weight: "114.0"
 birth_date: "2002.01.07"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joe-brial"
 ---
 

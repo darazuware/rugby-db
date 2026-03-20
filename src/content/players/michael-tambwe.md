@@ -7,12 +7,14 @@ position: "WTB"
 height: "186.0"
 weight: "94.0"
 birth_date: "1997.05.12"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "Congo"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/michael-tambwe"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Eduan ・ SWART | Eduan ・ SWART"
-name_en: "Eduan ・ SWART"
-name_ja: "Eduan ・ SWART"
+title: "Eduan SWART | エドゥアン・スウォート"
+name_en: "Eduan SWART"
+name_ja: "エドゥアン・スウォート"
 slug: "eduan-swart"
 position: "PR"
 height: "186.0"
 weight: "115.0"
 birth_date: "2000.10.20"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/eduan-swart"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Pumas (2020 - 2023) -> Scarlets (2023 - 2024) -> Pumas (2024 - 2025) -> Sharks (2025 - 2026)
+

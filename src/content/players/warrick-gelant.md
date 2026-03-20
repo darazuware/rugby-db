@@ -1,20 +1,22 @@
 ---
-title: "Warrick ・ GELANT | Warrick ・ GELANT"
-name_en: "Warrick ・ GELANT"
-name_ja: "Warrick ・ GELANT"
+title: "Warrick GELANT | ウォリック・ヘラント"
+name_en: "Warrick GELANT"
+name_ja: "ウォリック・ヘラント"
 slug: "warrick-gelant"
 position: "FB"
 height: "180.0"
 weight: "100.0"
 birth_date: "1995.05.20"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/warrick-gelant"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2020) -> Stormers (2020 - 2022) -> Racing 92 (2022 - 2023) -> Stormers (2023 - 2026)
+South Africa

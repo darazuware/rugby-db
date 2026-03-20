@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "107.0"
 birth_date: "1998.01.19"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alexandre-fischer"
 ---
 

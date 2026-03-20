@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "192.0"
 weight: "106.0"
 birth_date: "1998.07.12"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/hoskins-sotutu"
 ---
 

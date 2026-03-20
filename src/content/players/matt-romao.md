@@ -1,20 +1,22 @@
 ---
-title: "Matt ・ ROMAO | Matt ・ ROMAO"
-name_en: "Matt ・ ROMAO"
-name_ja: "Matt ・ ROMAO"
+title: "Matt ROMAO | マット・ロマオ"
+name_en: "Matt ROMAO"
+name_ja: "マット・ロマオ"
 slug: "matt-romao"
-position: "Back row"
+position: "FL/No8"
 height: "190.0"
 weight: "107.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/matt-romao"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+

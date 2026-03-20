@@ -7,12 +7,14 @@ position: "FB"
 height: "184.0"
 weight: "86.0"
 birth_date: "2003.03.07"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "Belgium"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/matias-remue"
 ---
 

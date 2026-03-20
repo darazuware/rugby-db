@@ -7,12 +7,14 @@ position: "LO"
 height: "194.0"
 weight: "124.0"
 birth_date: "1996.09.24"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giorgi-javakhia"
 ---
 

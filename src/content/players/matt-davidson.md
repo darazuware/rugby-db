@@ -1,20 +1,22 @@
 ---
-title: "Matt ・ DAVIDSON | Matt ・ DAVIDSON"
-name_en: "Matt ・ DAVIDSON"
-name_ja: "Matt ・ DAVIDSON"
+title: "Matt DAVIDSON | マット・デイヴィッドソン"
+name_en: "Matt DAVIDSON"
+name_ja: "マット・デイヴィッドソン"
 slug: "matt-davidson"
 position: "FB"
 height: "190.0"
 weight: "87.0"
 birth_date: "1999.11.06"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/matt-davidson"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Grande-Bretagne 7's (2022 - 2025) -> Edimbourg Rugby (2025 - 2026)
+

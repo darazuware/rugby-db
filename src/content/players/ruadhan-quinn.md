@@ -1,18 +1,20 @@
 ---
-title: "Ruadh ・ QUINN | Ruadh ・ QUINN"
-name_en: "Ruadh ・ QUINN"
+title: "Ruadhán QUINN | Ruadh ・ QUINN"
+name_en: "Ruadhán QUINN"
 name_ja: "Ruadh ・ QUINN"
 slug: "ruadhan-quinn"
 position: "Back row"
 height: "191.0"
 weight: "113.0"
 birth_date: "2003.10.17"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ruadhan-quinn"
 ---
 

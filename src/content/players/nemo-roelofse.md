@@ -7,12 +7,14 @@ position: "PR"
 height: "182.0"
 weight: "120.0"
 birth_date: "1995.06.06"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nemo-roelofse"
 ---
 

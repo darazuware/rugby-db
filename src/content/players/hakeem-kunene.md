@@ -1,20 +1,22 @@
 ---
-title: "Hakeem ・ KUNENE | Hakeem ・ KUNENE"
-name_en: "Hakeem ・ KUNENE"
-name_ja: "Hakeem ・ KUNENE"
+title: "Hakeem KUNENE | ハキーム・クネネ"
+name_en: "Hakeem KUNENE"
+name_ja: "ハキーム・クネネ"
 slug: "hakeem-kunene"
 position: "FB"
 height: "183.0"
 weight: "90.0"
 birth_date: "2003.02.03"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/hakeem-kunene"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)
+

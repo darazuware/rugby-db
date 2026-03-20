@@ -7,12 +7,14 @@ position: "SH"
 height: "167.0"
 weight: "77.0"
 birth_date: "1996.04.22"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇿🇦 South Africa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/herschel-jantjies"
 ---
 

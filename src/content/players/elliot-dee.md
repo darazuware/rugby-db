@@ -1,20 +1,22 @@
 ---
-title: "Elliot ・ DEE | Elliot ・ DEE"
-name_en: "Elliot ・ DEE"
-name_ja: "Elliot ・ DEE"
+title: "Elliot DEE | エリオット-ディー"
+name_en: "Elliot DEE"
+name_ja: "エリオット-ディー"
 slug: "elliot-dee"
 position: "HO"
 height: "186.0"
 weight: "106.0"
 birth_date: "1994.03.07"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
-scraped_url: "https://all.rugby/player/elliot-dee"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2013 - 2026)
+Wales

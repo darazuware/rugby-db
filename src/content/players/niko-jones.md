@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "186.0"
 weight: "103.0"
 birth_date: "2000.07.22"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/niko-jones"
 ---
 

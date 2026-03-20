@@ -7,12 +7,14 @@ position: "SH"
 height: "179.0"
 weight: "77.0"
 birth_date: "1998.09.18"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
+league: "nan"
+team: "Reds"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tate-mcdermott"
 ---
 

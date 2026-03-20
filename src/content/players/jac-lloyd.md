@@ -1,20 +1,22 @@
 ---
-title: "Jac ・ LLOYD | Jac ・ LLOYD"
-name_en: "Jac ・ LLOYD"
-name_ja: "Jac ・ LLOYD"
+title: "Jac LLOYD | ジャック-ロイド"
+name_en: "Jac LLOYD"
+name_ja: "ジャック-ロイド"
 slug: "jac-lloyd"
 position: "SO"
 height: "174.0"
 weight: "81.0"
 birth_date: "2002.09.28"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/jac-lloyd"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2019 - 2022) -> Hartpury RFC (2022 - 2022) -> Sydney University Football Club (2022 - 2022) -> Bristol Bears (2023 - 2023) -> Hartpury RFC (2023 - 2023) -> Sydney University Football Club (2023 - 2023) -> Newport RFC (2023 - 2025) -> Dragons RFC (2025 - 2026)
+

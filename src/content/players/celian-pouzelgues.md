@@ -7,12 +7,14 @@ position: "CTB"
 height: "190.0"
 weight: "93.0"
 birth_date: "2003.09.30"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/celian-pouzelgues"
 ---
 

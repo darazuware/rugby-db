@@ -7,12 +7,14 @@ position: "WTB"
 height: "187.0"
 weight: "98.0"
 birth_date: "1998.05.21"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-tauzin"
 ---
 

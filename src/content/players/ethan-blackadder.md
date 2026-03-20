@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "190.0"
 weight: "111.0"
 birth_date: "1995.03.22"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand代表 (9 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ethan-blackadder"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Flynn ・ LONGSTAFF | Flynn ・ LONGSTAFF"
-name_en: "Flynn ・ LONGSTAFF"
-name_ja: "Flynn ・ LONGSTAFF"
+title: "Flynn LONGSTAFF | フリン・ロングスタッフ"
+name_en: "Flynn LONGSTAFF"
+name_ja: "フリン・ロングスタッフ"
 slug: "flynn-longstaff"
 position: "PR"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/flynn-longstaff"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Queen's University (2024 - 2025) -> Ulster Rugby (2025 - 2026)
+

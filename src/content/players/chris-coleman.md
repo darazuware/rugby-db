@@ -1,20 +1,22 @@
 ---
-title: "クリス ・ COLEMAN | クリス ・ COLEMAN"
-name_en: "クリス ・ COLEMAN"
-name_ja: "クリス ・ COLEMAN"
+title: "Chris COLEMAN | クリス-コールマン"
+name_en: "Chris COLEMAN"
+name_ja: "クリス-コールマン"
 slug: "chris-coleman"
 position: "PR"
 height: "189.0"
 weight: "130.0"
 birth_date: "1998.08.31"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/chris-coleman"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2026)
+

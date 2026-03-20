@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "117.0"
 birth_date: "1998.03.28"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
+league: "nan"
+team: "Brumbies"
 caps: "🇦🇺 Australia代表 (1 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/blake-schoupp"
 ---
 

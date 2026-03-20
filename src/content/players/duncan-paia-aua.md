@@ -7,12 +7,14 @@ position: "CTB"
 height: "183.0"
 weight: "92.0"
 birth_date: "1995.01.20"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/duncan-paia-aua"
 ---
 

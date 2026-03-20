@@ -7,12 +7,14 @@ position: "CTB"
 height: "187.0"
 weight: "94.0"
 birth_date: "1997.07.16"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/braydon-ennor"
 ---
 

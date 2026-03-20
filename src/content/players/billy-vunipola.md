@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "191.0"
 weight: "134.0"
 birth_date: "1992.11.03"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/billy-vunipola"
 ---
 

@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "105.0"
 birth_date: "2003.07.20"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/hugo-auradou"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "ダニエル ・ KASENDE | ダニエル ・ KASENDE"
-name_en: "ダニエル ・ KASENDE"
-name_ja: "ダニエル ・ KASENDE"
+title: "Daniel KASENDE | ダニエル・カセンデ"
+name_en: "Daniel KASENDE"
+name_ja: "ダニエル・カセンデ"
 slug: "daniel-kasende"
 position: "FB"
 height: "187.0"
 weight: "92.0"
 birth_date: "1995.05.09"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/daniel-kasende"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Griquas (2019 - 2021) -> Free State Cheetahs (2021 - 2022) -> Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2023 - 2023) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2026)
+

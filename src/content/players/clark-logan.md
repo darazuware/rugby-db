@@ -1,20 +1,22 @@
 ---
-title: "Clark ・ LOGAN | Clark ・ LOGAN"
-name_en: "Clark ・ LOGAN"
-name_ja: "Clark ・ LOGAN"
+title: "Clark LOGAN | クラーク・ローガン"
+name_en: "Clark LOGAN"
+name_ja: "クラーク・ローガン"
 slug: "clark-logan"
 position: "SH"
 height: "175.0"
 weight: "78.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/clark-logan"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2024 - 2026)
+

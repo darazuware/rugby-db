@@ -1,20 +1,22 @@
 ---
-title: "Siyabonga ・ NTUBENI | Siyabonga ・ NTUBENI"
-name_en: "Siyabonga ・ NTUBENI"
-name_ja: "Siyabonga ・ NTUBENI"
+title: "Siyabonga NTUBENI | シヤボンガ-ントゥベニ"
+name_en: "Siyabonga NTUBENI"
+name_ja: "シヤボンガ-ントゥベニ"
 slug: "siyabonga-ntubeni"
 position: "HO"
 height: "174.0"
 weight: "109.0"
 birth_date: "1991.02.18"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/siyabonga-ntubeni"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2024) -> Sharks (2024 - 2024) -> Stormers (2024 - 2024) -> Sharks (2025 - 2025) -> Stormers (2025 - 2026)
+South Africa

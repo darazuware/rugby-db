@@ -7,12 +7,14 @@ position: "CTB"
 height: "188.0"
 weight: "99.0"
 birth_date: "1996.06.01"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antoine-frisch"
 ---
 

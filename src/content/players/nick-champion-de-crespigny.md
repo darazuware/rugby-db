@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "110.0"
 birth_date: "1996.06.27"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nick-champion-de-crespigny"
 ---
 

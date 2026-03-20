@@ -1,20 +1,22 @@
 ---
-title: "Keagan ・ JOHANNES | Keagan ・ JOHANNES"
-name_en: "Keagan ・ JOHANNES"
-name_ja: "Keagan ・ JOHANNES"
+title: "Keagan JOHANNES | キーガン・ヨハネス"
+name_en: "Keagan JOHANNES"
+name_ja: "キーガン・ヨハネス"
 slug: "keagan-johannes"
 position: "SH"
 height: "178.0"
 weight: "77.0"
 birth_date: "1999.11.27"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/keagan-johannes"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bulls (2019 - 2026)
+

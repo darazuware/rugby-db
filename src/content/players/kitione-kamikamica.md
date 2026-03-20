@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "110.0"
 birth_date: "1996.04.27"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kitione-kamikamica"
 ---
 

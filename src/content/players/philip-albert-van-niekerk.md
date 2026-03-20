@@ -1,18 +1,20 @@
 ---
-title: "PA ・ ファン ・ NIEKERK | PA ・ ファン ・ NIEKERK"
-name_en: "PA ・ ファン ・ NIEKERK"
+title: "PA VAN NIEKERK | PA ・ ファン ・ NIEKERK"
+name_en: "PA VAN NIEKERK"
 name_ja: "PA ・ ファン ・ NIEKERK"
 slug: "philip-albert-van-niekerk"
 position: "CTB"
 height: "182.0"
 weight: "94.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/philip-albert-van-niekerk"
 ---
 

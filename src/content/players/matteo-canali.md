@@ -1,20 +1,22 @@
 ---
-title: "Matteo ・ CANALI | Matteo ・ CANALI"
-name_en: "Matteo ・ CANALI"
-name_ja: "Matteo ・ CANALI"
+title: "Matteo CANALI | マッテオ・カナーリ"
+name_en: "Matteo CANALI"
+name_ja: "マッテオ・カナーリ"
 slug: "matteo-canali"
 position: "LO"
 height: "198.0"
 weight: "123.0"
 birth_date: "1998.09.11"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/matteo-canali"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Rugby Rovigo Delta (2018 - 2020) -> Benetton Rugby Trévise (2020 - 2021) -> Petrarca Rugby (2021 - 2023) -> Zebre Parma (2023 - 2026)
+Italy

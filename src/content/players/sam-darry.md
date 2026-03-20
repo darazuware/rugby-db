@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "110.0"
 birth_date: "2000.07.11"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sam-darry"
 ---
 

@@ -7,12 +7,14 @@ position: "PR"
 height: "190.0"
 weight: "139.0"
 birth_date: "1994.06.25"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇦🇷 Argentina代表 (12 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joel-sclavi"
 ---
 

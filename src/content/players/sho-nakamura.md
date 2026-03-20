@@ -1,0 +1,22 @@
+---
+title: "Sho Nakamura | 中村 翔"
+name_en: "Sho Nakamura"
+name_ja: "中村 翔"
+slug: "sho-nakamura"
+position: "SH"
+height: "176.0"
+weight: "75.0"
+birth_date: "1997.10.07"
+age: 28.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "クリタウォーターガッシュ昭島（2025-26）"
+caps: ""
+high_school: "東福岡高校"
+university: "法政大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

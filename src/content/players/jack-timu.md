@@ -1,0 +1,22 @@
+---
+title: "Jack Timu | ジャック ・ティム"
+name_en: "Jack Timu"
+name_ja: "ジャック ・ティム"
+slug: "jack-timu"
+position: "WTB"
+height: "175.0"
+weight: "89.0"
+birth_date: "2004.04.14"
+age: 21.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "静岡ブルーレヴズ（2025-26）"
+caps: ""
+high_school: "JohnMcGlashanCollege"
+university: "OtagoUniversity"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

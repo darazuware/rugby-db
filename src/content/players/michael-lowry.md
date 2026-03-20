@@ -1,18 +1,20 @@
 ---
-title: "Mike ・ LOWRY | Mike ・ LOWRY"
-name_en: "Mike ・ LOWRY"
+title: "Mike LOWRY | Mike ・ LOWRY"
+name_en: "Mike LOWRY"
 name_ja: "Mike ・ LOWRY"
 slug: "michael-lowry"
 position: "FB"
 height: "171.0"
 weight: "80.0"
 birth_date: "1998.08.20"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
+team: "Ulster"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (15 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/michael-lowry"
 ---
 

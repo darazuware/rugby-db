@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "119.0"
 birth_date: "1997.03.02"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/harry-johnson-holmes"
 ---
 

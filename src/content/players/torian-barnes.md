@@ -4,15 +4,17 @@ name_en: "Torian BARNES"
 name_ja: "トリアン・バーンズ"
 slug: "torian-barnes"
 position: "FL/No8"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2003.10.14"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/torian-barnes"
 ---
 

@@ -7,12 +7,14 @@ position: "SH"
 height: "173.0"
 weight: "82.0"
 birth_date: "1992.03.14"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dan-robson"
 ---
 

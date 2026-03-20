@@ -7,12 +7,14 @@ position: "PR"
 height: "193.0"
 weight: "145.0"
 birth_date: "1998.07.18"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pasilio-tosi"
 ---
 

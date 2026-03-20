@@ -7,12 +7,14 @@ position: "SH"
 height: "173.0"
 weight: "85.0"
 birth_date: "1992.12.14"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-ecochard"
 ---
 

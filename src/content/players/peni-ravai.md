@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "119.0"
 birth_date: "1990.06.16"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/peni-ravai"
 ---
 

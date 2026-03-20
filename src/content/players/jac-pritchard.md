@@ -1,20 +1,22 @@
 ---
-title: "Jac ・ PRITCHARD | Jac ・ PRITCHARD"
-name_en: "Jac ・ PRITCHARD"
-name_ja: "Jac ・ PRITCHARD"
+title: "Jac PRITCHARD | ジャック・プリチャード"
+name_en: "Jac PRITCHARD"
+name_ja: "ジャック・プリチャード"
 slug: "jac-pritchard"
 position: "PR"
 height: "178.0"
 weight: "120.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "Canada代表 (61 caps)"
-scraped_url: "https://all.rugby/player/jac-pritchard"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2024 - 2026)
+

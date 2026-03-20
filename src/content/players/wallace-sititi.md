@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "185.0"
 weight: "113.0"
 birth_date: "2002.09.07"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/wallace-sititi"
 ---
 

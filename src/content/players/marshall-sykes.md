@@ -1,20 +1,22 @@
 ---
-title: "Marshall ・ SYKES | Marshall ・ SYKES"
-name_en: "Marshall ・ SYKES"
-name_ja: "Marshall ・ SYKES"
+title: "Marshall SYKES | マーシャル・サイクス"
+name_en: "Marshall SYKES"
+name_ja: "マーシャル・サイクス"
 slug: "marshall-sykes"
 position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "1999.12.29"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "Call-ups代表 (1 caps)"
-scraped_url: "https://all.rugby/player/marshall-sykes"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2019) -> Edimbourg Rugby (2019 - 2019) -> Glasgow Warriors (2020 - 2020) -> Edimbourg Rugby (2020 - 2026)
+

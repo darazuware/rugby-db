@@ -1,20 +1,22 @@
 ---
-title: "Gavin ・ COOMBES | Gavin ・ COOMBES"
-name_en: "Gavin ・ COOMBES"
-name_ja: "Gavin ・ COOMBES"
+title: "Gavin COOMBES | ギャヴィン-コームズ"
+name_en: "Gavin COOMBES"
+name_ja: "ギャヴィン-コームズ"
 slug: "gavin-coombes"
-position: "Back row"
+position: "FL/No8"
 height: "198.0"
 weight: "110.0"
 birth_date: "1997.12.11"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "Call-ups代表 (2 caps)"
-scraped_url: "https://all.rugby/player/gavin-coombes"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2026)
+

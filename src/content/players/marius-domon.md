@@ -7,12 +7,14 @@ position: "FB"
 height: "183.0"
 weight: "85.0"
 birth_date: "2002.06.13"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/marius-domon"
 ---
 

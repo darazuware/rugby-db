@@ -7,12 +7,14 @@ position: "FB"
 height: "187.0"
 weight: "87.0"
 birth_date: "2002.05.21"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/yohan-orabe"
 ---
 

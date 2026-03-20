@@ -7,12 +7,14 @@ position: "FB"
 height: "171.0"
 weight: "82.0"
 birth_date: "2001.09.26"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alexandre-tchaptchet"
 ---
 

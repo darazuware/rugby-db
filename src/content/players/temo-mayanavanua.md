@@ -7,12 +7,14 @@ position: "LO"
 height: "197.0"
 weight: "120.0"
 birth_date: "1997.11.09"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji代表 (11 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/temo-mayanavanua"
 ---
 

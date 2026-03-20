@@ -7,12 +7,14 @@ position: "LO"
 height: "196.0"
 weight: "116.0"
 birth_date: "1996.12.09"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "Germany"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/eric-marks"
 ---
 

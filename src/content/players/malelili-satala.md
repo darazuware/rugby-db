@@ -1,20 +1,22 @@
 ---
-title: "Malelili ・ SATALA | Malelili ・ SATALA"
-name_en: "Malelili ・ SATALA"
-name_ja: "Malelili ・ SATALA"
+title: "Malelili SATALA | マレリリ・サタラ"
+name_en: "Malelili SATALA"
+name_ja: "マレリリ・サタラ"
 slug: "malelili-satala"
-position: "Winger"
+position: "WTB"
 height: "184.0"
 weight: "90.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/malelili-satala"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2023 - 2024) -> Nottingham Rugby (2024 - 2024) -> Leicester Tigers (2025 - 2025) -> Nottingham Rugby (2025 - 2025) -> Edimbourg Rugby (2025 - 2026)
+

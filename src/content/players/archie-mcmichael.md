@@ -1,20 +1,22 @@
 ---
-title: "Archie ・ MCMICHAEL | Archie ・ MCMICHAEL"
-name_en: "Archie ・ MCMICHAEL"
-name_ja: "Archie ・ MCMICHAEL"
+title: "Archie MCMICHAEL | アーチー・マクマイケル"
+name_en: "Archie MCMICHAEL"
+name_ja: "アーチー・マクマイケル"
 slug: "archie-mcmichael"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "93.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/archie-mcmichael"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Strathallan Rugby Academy (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+

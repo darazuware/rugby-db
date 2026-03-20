@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "113.0"
 birth_date: "1998.09.03"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
+league: "nan"
+team: "Brumbies"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rob-valetini"
 ---
 

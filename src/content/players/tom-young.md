@@ -1,20 +1,22 @@
 ---
-title: "トム ・ YOUNG | トム ・ YOUNG"
-name_en: "トム ・ YOUNG"
-name_ja: "トム ・ YOUNG"
+title: "Tom YOUNG | トム・ヤング"
+name_en: "Tom YOUNG"
+name_ja: "トム・ヤング"
 slug: "tom-young"
-position: "Back row"
+position: "FL/No8"
 height: "181.0"
 weight: "104.0"
 birth_date: "1992.05.18"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
-scraped_url: "https://all.rugby/player/tom-young"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2013 - 2013) -> Cardiff Rugby (2013 - 2013) -> Gloucester Rugby (2014 - 2014) -> Cardiff Rugby (2014 - 2014) -> Wasps (2014 - 2022) -> Cardiff Rugby (2022 - 2025) -> Dragons RFC (2025 - 2026)
+Wales

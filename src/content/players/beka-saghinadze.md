@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "192.0"
 weight: "110.0"
 birth_date: "1998.10.29"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/beka-saghinadze"
 ---
 

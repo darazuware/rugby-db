@@ -1,20 +1,22 @@
 ---
-title: "Jared ・ AFRICA | Jared ・ AFRICA"
-name_en: "Jared ・ AFRICA"
-name_ja: "Jared ・ AFRICA"
+title: "Jared AFRICA | ジャレッド・アフリカ"
+name_en: "Jared AFRICA"
+name_ja: "ジャレッド・アフリカ"
 slug: "jared-africa"
-position: "Winger"
+position: "WTB"
 height: "175.0"
 weight: "84.0"
 birth_date: "2003.03.27"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jared-africa"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2025) -> Stormers (2025 - 2026)
+

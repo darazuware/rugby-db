@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "121.0"
 birth_date: "2002.01.01"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-moukoro"
 ---
 

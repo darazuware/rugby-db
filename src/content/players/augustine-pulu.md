@@ -7,12 +7,14 @@ position: "SH"
 height: "180.0"
 weight: "93.0"
 birth_date: "1990.01.04"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇹🇴 Tonga代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/augustine-pulu"
 ---
 

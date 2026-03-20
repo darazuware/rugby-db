@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "124.0"
 birth_date: "1995.05.08"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tevita-ratuva"
 ---
 

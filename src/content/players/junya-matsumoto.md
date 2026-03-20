@@ -1,0 +1,22 @@
+---
+title: "Junya Matsumoto | 松本 純弥"
+name_en: "Junya Matsumoto"
+name_ja: "松本 純弥"
+slug: "junya-matsumoto"
+position: "WTB"
+height: "171.0"
+weight: "82.0"
+birth_date: "2000.03.17"
+age: 26.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "浦安D-Rocks（2025-26）"
+caps: "🇯🇵 セブンズ日本(17)"
+high_school: "佐賀工業高校"
+university: "明治大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

@@ -7,12 +7,14 @@ position: "LO"
 height: "197.0"
 weight: "114.0"
 birth_date: "1993.12.28"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇦🇺 Australia代表 (54 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-lainaut"
 ---
 

@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "124.0"
 birth_date: "2000.10.17"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "Canada"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tyler-duguid"
 ---
 

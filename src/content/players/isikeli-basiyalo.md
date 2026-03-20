@@ -4,15 +4,17 @@ name_en: "Isikeli BASIYALO"
 name_ja: "イシケリ・バシヤロ"
 slug: "isikeli-basiyalo"
 position: "WTB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/isikeli-basiyalo"
 ---
 

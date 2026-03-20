@@ -7,12 +7,14 @@ position: "SO"
 height: "183.0"
 weight: "94.0"
 birth_date: "1999.03.08"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/isaac-henry"
 ---
 

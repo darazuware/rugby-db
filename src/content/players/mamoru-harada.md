@@ -7,12 +7,14 @@ position: "HO"
 height: "175.0"
 weight: "101.0"
 birth_date: "1999.04.15"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mamoru-harada"
 ---
 

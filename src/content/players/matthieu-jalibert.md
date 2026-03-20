@@ -7,12 +7,14 @@ position: "SO"
 height: "184.0"
 weight: "86.0"
 birth_date: "1998.11.06"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/matthieu-jalibert"
 ---
 

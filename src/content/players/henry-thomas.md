@@ -1,20 +1,22 @@
 ---
-title: "Henry ・ トーマス | Henry ・ トーマス"
-name_en: "Henry ・ トーマス"
-name_ja: "Henry ・ トーマス"
+title: "Henry THOMAS | ヘンリー-トーマス"
+name_en: "Henry THOMAS"
+name_ja: "ヘンリー-トーマス"
 slug: "henry-thomas"
 position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1991.10.30"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
-scraped_url: "https://all.rugby/player/henry-thomas"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sale Sharks (2013 - 2014) -> Bath Rugby (2014 - 2021) -> Montpellier Hérault Rugby (2021 - 2023) -> Castres Olympique (2023 - 2023) -> Montpellier Hérault Rugby (2024 - 2024) -> Castres Olympique (2024 - 2024) -> Scarlets (2024 - 2026)
+England

@@ -1,20 +1,22 @@
 ---
-title: "Glen ・ YOUNG | Glen ・ YOUNG"
-name_en: "Glen ・ YOUNG"
-name_ja: "Glen ・ YOUNG"
+title: "Glen YOUNG | グレン・ヤング"
+name_en: "Glen YOUNG"
+name_ja: "グレン・ヤング"
 slug: "glen-young"
 position: "LO"
 height: "200.0"
 weight: "118.0"
 birth_date: "1994.11.04"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
-scraped_url: "https://all.rugby/player/glen-young"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Newcastle (2016 - 2019) -> Harlequins (2019 - 2021) -> Edimbourg Rugby (2021 - 2026)
+Scotland

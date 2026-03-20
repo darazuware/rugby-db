@@ -1,20 +1,22 @@
 ---
-title: "Kurt ・ Lee ・ アレンゼ | Kurt ・ Lee ・ アレンゼ"
-name_en: "Kurt ・ Lee ・ アレンゼ"
-name_ja: "Kurt ・ Lee ・ アレンゼ"
+title: "Kurt-Lee ARENDSE | カート＝リー・アレンゼ"
+name_en: "Kurt-Lee ARENDSE"
+name_ja: "カート＝リー・アレンゼ"
 slug: "kurt-lee-arendse"
-position: "Winger"
+position: "WTB"
 height: "176.0"
 weight: "82.0"
 birth_date: "1996.06.17"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/kurt-lee-arendse"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bulls (2019 - 2024) -> Mitsubishi Sagamihara Dynaboars (2024 - 2024) -> Bulls (2025 - 2025) -> Mitsubishi Sagamihara Dynaboars (2025 - 2025) -> Bulls (2025 - 2026)
+

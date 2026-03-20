@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "192.0"
 weight: "110.0"
 birth_date: "2000.03.14"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/simon-meka"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "ケーラン ・ CARSON ・ JONES | ケーラン ・ CARSON ・ JONES"
-name_en: "ケーラン ・ CARSON ・ JONES"
-name_ja: "ケーラン ・ CARSON ・ JONES"
+title: "Caelan CARSON-JONES | ケーラン・カーソン＝ジョーンズ"
+name_en: "Caelan CARSON-JONES"
+name_ja: "ケーラン・カーソン＝ジョーンズ"
 slug: "caelan-carson-jones"
 position: "SH"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2001.10.04"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/caelan-carson-jones"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ospreys (2024 - 2026)
+

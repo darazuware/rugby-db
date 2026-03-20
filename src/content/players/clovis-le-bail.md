@@ -7,12 +7,14 @@ position: "SH"
 height: "173.0"
 weight: "74.0"
 birth_date: "1995.11.29"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France代表 (52 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/clovis-le-bail"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "176.0"
 weight: "103.0"
 birth_date: "2000.04.17"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "Chile代表 (5 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/diego-escobar"
 ---
 

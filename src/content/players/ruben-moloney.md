@@ -1,20 +1,22 @@
 ---
-title: "Ruben ・ MOLONEY | Ruben ・ MOLONEY"
-name_en: "Ruben ・ MOLONEY"
-name_ja: "Ruben ・ MOLONEY"
+title: "Ruben MOLONEY | ルーベン・モロニー"
+name_en: "Ruben MOLONEY"
+name_ja: "ルーベン・モロニー"
 slug: "ruben-moloney"
-position: "Winger"
+position: "WTB"
 height: "187.0"
 weight: "92.0"
 birth_date: "2004.01.16"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇼🇸 Samoa代表 (25 caps)"
-scraped_url: "https://all.rugby/player/ruben-moloney"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)
+

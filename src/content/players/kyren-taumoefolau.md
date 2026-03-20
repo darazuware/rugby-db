@@ -7,12 +7,14 @@ position: "WTB"
 height: "187.0"
 weight: "95.0"
 birth_date: "2003.05.08"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kyren-taumoefolau"
 ---
 

@@ -1,0 +1,22 @@
+---
+title: "Kei Sato | 佐藤 慶"
+name_en: "Kei Sato"
+name_ja: "佐藤 慶"
+slug: "kei-sato"
+position: "HO"
+height: "169.0"
+weight: "100.0"
+birth_date: "1997.01.27"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "豊田自動織機シャトルズ愛知（2025-26）"
+caps: "U23('17)"
+high_school: "天理高校"
+university: "天理大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

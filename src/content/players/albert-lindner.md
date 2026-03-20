@@ -1,20 +1,22 @@
 ---
-title: "Albert ・ LINDNER | Albert ・ LINDNER"
-name_en: "Albert ・ LINDNER"
-name_ja: "Albert ・ LINDNER"
+title: "Albert LINDNER | アルバート・リンドナー"
+name_en: "Albert LINDNER"
+name_ja: "アルバート・リンドナー"
 slug: "albert-lindner"
 position: "SH"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/albert-lindner"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2025 - 2026)
+

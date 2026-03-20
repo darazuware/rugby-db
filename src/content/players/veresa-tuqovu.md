@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "195.0"
 weight: "107.0"
 birth_date: "2000.06.12"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/veresa-tuqovu"
 ---
 

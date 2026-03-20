@@ -7,12 +7,14 @@ position: "HO"
 height: "177.0"
 weight: "112.0"
 birth_date: "1997.05.05"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/asafo-aumua"
 ---
 

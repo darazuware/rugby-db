@@ -7,12 +7,14 @@ position: "WTB"
 height: "184.0"
 weight: "100.0"
 birth_date: "2000.01.30"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇯 Fiji代表 (6 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/vinaya-habosi"
 ---
 

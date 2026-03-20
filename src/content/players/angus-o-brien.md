@@ -1,18 +1,20 @@
 ---
-title: "Angus ・ O'BRIEN | Angus ・ O'BRIEN"
-name_en: "Angus ・ O'BRIEN"
+title: "Angus O'BRIEN | Angus ・ O'BRIEN"
+name_en: "Angus O'BRIEN"
 name_ja: "Angus ・ O'BRIEN"
 slug: "angus-o-brien"
 position: "SO"
 height: "180.0"
 weight: "89.0"
 birth_date: "1994.09.17"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/angus-o-brien"
 ---
 

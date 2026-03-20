@@ -1,20 +1,22 @@
 ---
-title: "Jacob ・ BOYD | Jacob ・ BOYD"
-name_en: "Jacob ・ BOYD"
-name_ja: "Jacob ・ BOYD"
+title: "Jacob BOYD | ジェイコブ・ボイド"
+name_en: "Jacob BOYD"
+name_ja: "ジェイコブ・ボイド"
 slug: "jacob-boyd"
 position: "PR"
 height: "186.0"
 weight: "125.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/jacob-boyd"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2023 - 2026)
+

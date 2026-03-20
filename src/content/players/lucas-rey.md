@@ -7,12 +7,14 @@ position: "HO"
 height: "175.0"
 weight: "98.0"
 birth_date: "1997.04.27"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇫🇷 France代表 (14 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-rey"
 ---
 

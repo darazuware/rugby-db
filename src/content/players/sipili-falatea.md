@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "116.0"
 birth_date: "1997.06.06"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sipili-falatea"
 ---
 

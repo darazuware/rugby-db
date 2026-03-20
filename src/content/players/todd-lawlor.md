@@ -1,20 +1,22 @@
 ---
-title: "Todd ・ LAWLOR | Todd ・ LAWLOR"
-name_en: "Todd ・ LAWLOR"
-name_ja: "Todd ・ LAWLOR"
+title: "Todd LAWLOR | トッド・ローラー"
+name_en: "Todd LAWLOR"
+name_ja: "トッド・ローラー"
 slug: "todd-lawlor"
-position: "Winger"
-height: "0"
-weight: "0"
-birth_date: ""
+position: "WTB"
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/todd-lawlor"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Newbridge College (2021 - 2024) -> Llandovery RFC (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+

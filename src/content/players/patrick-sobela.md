@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "105.0"
 birth_date: "1992.08.12"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/patrick-sobela"
 ---
 

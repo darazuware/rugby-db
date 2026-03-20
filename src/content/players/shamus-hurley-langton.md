@@ -1,20 +1,22 @@
 ---
-title: "Shamus ・ HURLEY ・ LANGTON | Shamus ・ HURLEY ・ LANGTON"
-name_en: "Shamus ・ HURLEY ・ LANGTON"
-name_ja: "Shamus ・ HURLEY ・ LANGTON"
+title: "Shamus HURLEY-LANGTON | シェイマス・ハーリー＝ラングトン"
+name_en: "Shamus HURLEY-LANGTON"
+name_ja: "シェイマス・ハーリー＝ラングトン"
 slug: "shamus-hurley-langton"
-position: "Back row"
+position: "FL/No8"
 height: "185.0"
 weight: "108.0"
 birth_date: "2000.04.22"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/shamus-hurley-langton"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2019 - 2022) -> Connacht Rugby (2022 - 2026)
+

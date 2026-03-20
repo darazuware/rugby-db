@@ -7,12 +7,14 @@ position: "SO"
 height: "171.0"
 weight: "81.0"
 birth_date: "2002.01.29"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/louis-foursans-bourdette"
 ---
 

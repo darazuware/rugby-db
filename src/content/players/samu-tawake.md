@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "120.0"
 birth_date: "1996.09.11"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji代表 (2 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/samu-tawake"
 ---
 

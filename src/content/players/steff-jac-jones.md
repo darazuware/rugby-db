@@ -1,20 +1,22 @@
 ---
-title: "Steff ・ Jac ・ JONES | Steff ・ Jac ・ JONES"
-name_en: "Steff ・ Jac ・ JONES"
-name_ja: "Steff ・ Jac ・ JONES"
+title: "Steff Jac JONES | ステフ・ジャック・ジョーンズ"
+name_en: "Steff Jac JONES"
+name_ja: "ステフ・ジャック・ジョーンズ"
 slug: "steff-jac-jones"
 position: "SO"
 height: "175.0"
 weight: "83.0"
-birth_date: "2006.."
-age: 20
+birth_date: "nan"
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "Squad caps代表 (865 caps)"
-scraped_url: "https://all.rugby/player/steff-jac-jones"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2024 - 2026)
+

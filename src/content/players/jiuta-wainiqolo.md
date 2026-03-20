@@ -7,12 +7,14 @@ position: "WTB"
 height: "187.0"
 weight: "97.0"
 birth_date: "1999.03.10"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇫🇯 Fiji代表 (4 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jiuta-wainiqolo"
 ---
 

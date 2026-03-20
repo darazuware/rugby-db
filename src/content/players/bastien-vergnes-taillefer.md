@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "194.0"
 weight: "114.0"
 birth_date: "1997.06.13"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/bastien-vergnes-taillefer"
 ---
 

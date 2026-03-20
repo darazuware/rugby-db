@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "108.0"
 birth_date: "1997.10.11"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dalton-papali-i"
 ---
 

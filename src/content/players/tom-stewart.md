@@ -1,20 +1,22 @@
 ---
-title: "トム ・ STEWART | トム ・ STEWART"
-name_en: "トム ・ STEWART"
-name_ja: "トム ・ STEWART"
+title: "Tom STEWART | トム・スチュアート"
+name_en: "Tom STEWART"
+name_ja: "トム・スチュアート"
 slug: "tom-stewart"
 position: "HO"
 height: "183.0"
 weight: "105.0"
 birth_date: "2001.01.11"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "🇮🇪 Ireland代表 (2 caps)"
-scraped_url: "https://all.rugby/player/tom-stewart"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2019 - 2026)
+

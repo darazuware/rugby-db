@@ -1,20 +1,22 @@
 ---
-title: "Lewis ・ WELLS | Lewis ・ WELLS"
-name_en: "Lewis ・ WELLS"
-name_ja: "Lewis ・ WELLS"
+title: "Lewis WELLS | ルイス・ウェルズ"
+name_en: "Lewis WELLS"
+name_ja: "ルイス・ウェルズ"
 slug: "lewis-wells"
-position: "Winger"
-height: "0"
-weight: "0"
+position: "WTB"
+height: "nan"
+weight: "nan"
 birth_date: "2002.11.20"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lewis-wells"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Linlithgow RFC (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

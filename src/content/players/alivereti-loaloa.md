@@ -7,12 +7,14 @@ position: "CTB"
 height: "182.0"
 weight: "104.0"
 birth_date: "2000.12.10"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alivereti-loaloa"
 ---
 

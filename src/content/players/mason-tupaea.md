@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "188.0"
 birth_date: "2002.10.16"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇹🇴 Tonga代表 (9 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mason-tupaea"
 ---
 

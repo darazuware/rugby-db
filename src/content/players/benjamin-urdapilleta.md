@@ -7,12 +7,14 @@ position: "SO"
 height: "178.0"
 weight: "86.0"
 birth_date: "1986.03.11"
-age: 40
+age: 40.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/benjamin-urdapilleta"
 ---
 

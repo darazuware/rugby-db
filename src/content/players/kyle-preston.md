@@ -7,12 +7,14 @@ position: "SH"
 height: "177.0"
 weight: "79.0"
 birth_date: "1999.09.13"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kyle-preston"
 ---
 

@@ -7,12 +7,14 @@ position: "WTB"
 height: "181.0"
 weight: "102.0"
 birth_date: "1995.06.21"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lester-etien"
 ---
 

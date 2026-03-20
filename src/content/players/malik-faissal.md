@@ -1,20 +1,22 @@
 ---
-title: "Malik ・ FAISSAL | Malik ・ FAISSAL"
-name_en: "Malik ・ FAISSAL"
-name_ja: "Malik ・ FAISSAL"
+title: "Malik FAISSAL | マリック・ファイサル"
+name_en: "Malik FAISSAL"
+name_ja: "マリック・ファイサル"
 slug: "malik-faissal"
-position: "Winger"
+position: "WTB"
 height: "183.0"
 weight: "92.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "0"
-scraped_url: "https://all.rugby/player/malik-faissal"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2024 - 2026)
+

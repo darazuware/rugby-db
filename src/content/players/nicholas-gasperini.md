@@ -1,20 +1,22 @@
 ---
-title: "Nicholas ・ GASPERINI | Nicholas ・ GASPERINI"
-name_en: "Nicholas ・ GASPERINI"
-name_ja: "Nicholas ・ GASPERINI"
+title: "Nicholas GASPERINI | ニコラス・ガスペリーニ"
+name_en: "Nicholas GASPERINI"
+name_ja: "ニコラス・ガスペリーニ"
 slug: "nicholas-gasperini"
 position: "HO"
 height: "185.0"
 weight: "120.0"
 birth_date: "2004.01.09"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "0"
-scraped_url: "https://all.rugby/player/nicholas-gasperini"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2022 - 2023) -> Zebre Parma (2023 - 2024) -> Mogliano Veneto Rugby (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+

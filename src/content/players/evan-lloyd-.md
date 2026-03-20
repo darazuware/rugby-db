@@ -1,18 +1,20 @@
 ---
-title: "Evan ・ LLOYD | Evan ・ LLOYD"
-name_en: "Evan ・ LLOYD"
+title: "Evan LLOYD | Evan ・ LLOYD"
+name_en: "Evan LLOYD"
 name_ja: "Evan ・ LLOYD"
 slug: "evan-lloyd-"
 position: "HO"
 height: "185.0"
 weight: "115.0"
 birth_date: "2001.12.28"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
+team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/evan-lloyd-"
 ---
 

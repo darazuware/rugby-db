@@ -1,20 +1,22 @@
 ---
-title: "Mirco ・ SPAGNOLO | Mirco ・ SPAGNOLO"
-name_en: "Mirco ・ SPAGNOLO"
-name_ja: "Mirco ・ SPAGNOLO"
+title: "Mirco SPAGNOLO | ミルコ・スパニョーロ"
+name_en: "Mirco SPAGNOLO"
+name_ja: "ミルコ・スパニョーロ"
 slug: "mirco-spagnolo"
 position: "PR"
 height: "186.0"
 weight: "110.0"
 birth_date: "2001.01.02"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy代表 (0 caps)"
-scraped_url: "https://all.rugby/player/mirco-spagnolo"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Petrarca Rugby (2022 - 2023) -> Benetton Rugby Trévise (2023 - 2026)
+

@@ -1,20 +1,22 @@
 ---
-title: "ルーク ・ DAVIES | ルーク ・ DAVIES"
-name_en: "ルーク ・ DAVIES"
-name_ja: "ルーク ・ DAVIES"
+title: "Luke DAVIES | ルーク・デイヴィス"
+name_en: "Luke DAVIES"
+name_ja: "ルーク・デイヴィス"
 slug: "luke-davies"
 position: "SH"
 height: "175.0"
 weight: "80.0"
 birth_date: "2002.02.26"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/luke-davies"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2021 - 2022) -> Jersey Reds (2022 - 2023) -> Ospreys (2023 - 2026)
+

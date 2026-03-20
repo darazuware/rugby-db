@@ -1,18 +1,20 @@
 ---
-title: "Giosu ・ ZILOCCHI | Giosu ・ ZILOCCHI"
-name_en: "Giosu ・ ZILOCCHI"
+title: "Giosué ZILOCCHI | Giosu ・ ZILOCCHI"
+name_en: "Giosué ZILOCCHI"
 name_ja: "Giosu ・ ZILOCCHI"
 slug: "giosue-zilocchi"
 position: "PR"
 height: "189.0"
 weight: "115.0"
 birth_date: "1997.01.15"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+team: "Trévise"
 caps: "🇮🇹 Italy"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giosue-zilocchi"
 ---
 

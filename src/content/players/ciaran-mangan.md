@@ -1,18 +1,20 @@
 ---
-title: "Ciar ・ MANGAN | Ciar ・ MANGAN"
-name_en: "Ciar ・ MANGAN"
+title: "Ciarán MANGAN | Ciar ・ MANGAN"
+name_en: "Ciarán MANGAN"
 name_ja: "Ciar ・ MANGAN"
 slug: "ciaran-mangan"
 position: "CTB"
 height: "188.0"
-weight: "0"
+weight: "nan"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ciaran-mangan"
 ---
 

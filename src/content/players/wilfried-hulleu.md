@@ -7,12 +7,14 @@ position: "WTB"
 height: "184.0"
 weight: "97.0"
 birth_date: "2002.06.27"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/wilfried-hulleu"
 ---
 

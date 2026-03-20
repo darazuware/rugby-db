@@ -7,12 +7,14 @@ position: "LO"
 height: "206.0"
 weight: "122.0"
 birth_date: "1991.10.07"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/adam-coleman"
 ---
 

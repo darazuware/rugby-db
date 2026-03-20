@@ -1,20 +1,22 @@
 ---
-title: "Nelson ・ CASARTELLI | Nelson ・ CASARTELLI"
-name_en: "Nelson ・ CASARTELLI"
-name_ja: "Nelson ・ CASARTELLI"
+title: "Nelson CASARTELLI | ネルソン・カサルテッリ"
+name_en: "Nelson CASARTELLI"
+name_ja: "ネルソン・カサルテッリ"
 slug: "nelson-casartelli"
-position: "Back row"
+position: "FL/No8"
 height: "182.0"
 weight: "100.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "0"
-scraped_url: "https://all.rugby/player/nelson-casartelli"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2023 - 2024) -> Paese Rugby (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+

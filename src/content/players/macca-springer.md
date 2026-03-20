@@ -7,12 +7,14 @@ position: "WTB"
 height: "190.0"
 weight: "100.0"
 birth_date: "2003.03.29"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/macca-springer"
 ---
 

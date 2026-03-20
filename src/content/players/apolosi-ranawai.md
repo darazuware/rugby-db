@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "135.0"
 birth_date: "1994.04.16"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/apolosi-ranawai"
 ---
 

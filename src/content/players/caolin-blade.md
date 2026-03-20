@@ -1,20 +1,22 @@
 ---
-title: "Caolin ・ BLADE | Caolin ・ BLADE"
-name_en: "Caolin ・ BLADE"
-name_ja: "Caolin ・ BLADE"
+title: "Caolin BLADE | コーリン・ブレイド"
+name_en: "Caolin BLADE"
+name_ja: "コーリン・ブレイド"
 slug: "caolin-blade"
 position: "SH"
 height: "170.0"
 weight: "81.0"
 birth_date: "1994.04.29"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/caolin-blade"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2013 - 2026)
+Ireland

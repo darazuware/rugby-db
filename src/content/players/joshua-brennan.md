@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "118.0"
 birth_date: "2001.11.28"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇮🇪 Ireland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joshua-brennan"
 ---
 

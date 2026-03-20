@@ -1,0 +1,22 @@
+---
+title: "Kouki Arai | 荒井 康植"
+name_en: "Kouki Arai"
+name_ja: "荒井 康植"
+slug: "kouki-arai"
+position: "SH"
+height: "175.0"
+weight: "80.0"
+birth_date: "1993.05.14"
+age: 32.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "横浜キヤノンイーグルス（2025-26）"
+caps: ""
+high_school: "佐賀工業高校"
+university: "帝京大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

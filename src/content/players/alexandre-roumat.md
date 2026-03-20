@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "198.0"
 weight: "110.0"
 birth_date: "1997.06.27"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alexandre-roumat"
 ---
 

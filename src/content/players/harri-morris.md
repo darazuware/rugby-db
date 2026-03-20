@@ -1,20 +1,22 @@
 ---
-title: "Harri ・ MORRIS | Harri ・ MORRIS"
-name_en: "Harri ・ MORRIS"
-name_ja: "Harri ・ MORRIS"
+title: "Harri MORRIS | ハリー・モリス"
+name_en: "Harri MORRIS"
+name_ja: "ハリー・モリス"
 slug: "harri-morris"
-position: "Back row"
+position: "FL/No8"
 height: "180.0"
 weight: "103.0"
 birth_date: "2001.10.13"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/harri-morris"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2020 - 2020) -> Southern Knights (2020 - 2020) -> Edimbourg Rugby (2021 - 2021) -> Southern Knights (2021 - 2021) -> Edimbourg Rugby (2021 - 2022) -> London Scottish (2022 - 2022) -> Edimbourg Rugby (2022 - 2022) -> London Scottish (2023 - 2023) -> Edimbourg Rugby (2023 - 2023) -> Doncaster Knights (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

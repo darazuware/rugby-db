@@ -1,0 +1,22 @@
+---
+title: "L. Trevett | nan"
+name_en: "L. Trevett"
+name_ja: "nan"
+slug: "l.-trevett"
+position: "Prop"
+height: "nan"
+weight: "nan"
+birth_date: "nan"
+age: null
+country: ""
+birth_place_scraped: ""
+league: "premiership"
+team: "Bristol Bears"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+Bristol Bears (2025 - )

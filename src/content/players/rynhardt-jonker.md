@@ -1,20 +1,22 @@
 ---
-title: "Rynhardt ・ JONKER | Rynhardt ・ JONKER"
-name_en: "Rynhardt ・ JONKER"
-name_ja: "Rynhardt ・ JONKER"
+title: "Rynhardt JONKER | ラインハルト・ヨンカー"
+name_en: "Rynhardt JONKER"
+name_ja: "ラインハルト・ヨンカー"
 slug: "rynhardt-jonker"
 position: "CTB"
 height: "180.0"
 weight: "90.0"
 birth_date: "2000.04.18"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/rynhardt-jonker"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sharks (2020 - 2022) -> Lions Rugby (2022 - 2026)
+

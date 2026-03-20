@@ -1,20 +1,22 @@
 ---
-title: "Lukas ・ KENNY | Lukas ・ KENNY"
-name_en: "Lukas ・ KENNY"
-name_ja: "Lukas ・ KENNY"
+title: "Lukas KENNY | ルカス・ケニー"
+name_en: "Lukas KENNY"
+name_ja: "ルカス・ケニー"
 slug: "lukas-kenny"
-position: "Winger"
+position: "WTB"
 height: "185.0"
 weight: "94.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lukas-kenny"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2023 - 2026)
+

@@ -1,0 +1,22 @@
+---
+title: "Tatsuya Miyazaki | 宮崎 達也"
+name_en: "Tatsuya Miyazaki"
+name_ja: "宮崎 達也"
+slug: "tatsuya-miyazaki"
+position: "HO"
+height: "164.0"
+weight: "95.0"
+birth_date: "1996.04.10"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "東京サントリーサンゴリアス（2025-26）"
+caps: ""
+high_school: "伏見工業高校"
+university: "京都産業大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

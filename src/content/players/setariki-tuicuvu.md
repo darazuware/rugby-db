@@ -7,12 +7,14 @@ position: "CTB"
 height: "179.0"
 weight: "95.0"
 birth_date: "1995.09.07"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/setariki-tuicuvu"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Cathal ・ FORDE | Cathal ・ FORDE"
-name_en: "Cathal ・ FORDE"
-name_ja: "Cathal ・ FORDE"
+title: "Cathal FORDE | カハル・フォード"
+name_en: "Cathal FORDE"
+name_ja: "カハル・フォード"
 slug: "cathal-forde"
 position: "CTB"
 height: "188.0"
 weight: "95.0"
 birth_date: "2001.04.11"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "Development players代表 (0 caps)"
-scraped_url: "https://all.rugby/player/cathal-forde"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2020 - 2026)
+

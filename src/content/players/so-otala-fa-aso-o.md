@@ -1,18 +1,20 @@
 ---
-title: "So'otala ・ FA'ASO'O | So'otala ・ FA'ASO'O"
-name_en: "So'otala ・ FA'ASO'O"
+title: "So'otala FA'ASO'O | So'otala ・ FA'ASO'O"
+name_en: "So'otala FA'ASO'O"
 name_ja: "So'otala ・ FA'ASO'O"
 slug: "so-otala-fa-aso-o"
 position: "Back row"
 height: "196.0"
 weight: "136.0"
 birth_date: "1994.10.02"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+team: "Trévise"
 caps: "🇼🇸 Samoa代表 (1 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/so-otala-fa-aso-o"
 ---
 

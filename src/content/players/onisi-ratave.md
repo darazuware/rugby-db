@@ -1,20 +1,22 @@
 ---
-title: "Onisi ・ RATAVE | Onisi ・ RATAVE"
-name_en: "Onisi ・ RATAVE"
-name_ja: "Onisi ・ RATAVE"
+title: "Onisi RATAVE | オニシ・ラタヴェ"
+name_en: "Onisi RATAVE"
+name_ja: "オニシ・ラタヴェ"
 slug: "onisi-ratave"
-position: "Winger"
+position: "WTB"
 height: "179.0"
 weight: "100.0"
 birth_date: "1992.06.06"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "0"
-scraped_url: "https://all.rugby/player/onisi-ratave"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - 2021) -> Fijian Drua (2021 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+

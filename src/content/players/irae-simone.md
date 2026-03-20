@@ -7,12 +7,14 @@ position: "CTB"
 height: "193.0"
 weight: "105.0"
 birth_date: "1995.07.10"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/irae-simone"
 ---
 

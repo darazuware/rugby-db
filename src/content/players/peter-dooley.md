@@ -1,20 +1,22 @@
 ---
-title: "ピーター ・ DOOLEY | ピーター ・ DOOLEY"
-name_en: "ピーター ・ DOOLEY"
-name_ja: "ピーター ・ DOOLEY"
+title: "Peter DOOLEY | ピーター・ドゥーリー"
+name_en: "Peter DOOLEY"
+name_ja: "ピーター・ドゥーリー"
 slug: "peter-dooley"
 position: "PR"
 height: "183.0"
 weight: "116.0"
 birth_date: "1994.08.04"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/peter-dooley"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2014 - 2022) -> Connacht Rugby (2022 - 2026)
+

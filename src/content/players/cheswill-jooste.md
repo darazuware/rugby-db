@@ -1,20 +1,22 @@
 ---
-title: "Cheswill ・ JOOSTE | Cheswill ・ JOOSTE"
-name_en: "Cheswill ・ JOOSTE"
-name_ja: "Cheswill ・ JOOSTE"
+title: "Cheswill JOOSTE | チェスウィル・ヨーステ"
+name_en: "Cheswill JOOSTE"
+name_ja: "チェスウィル・ヨーステ"
 slug: "cheswill-jooste"
-position: "Winger"
+position: "WTB"
 height: "175.0"
 weight: "75.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/cheswill-jooste"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)
+

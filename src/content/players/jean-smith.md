@@ -1,20 +1,22 @@
 ---
-title: "Jean ・ スミス | Jean ・ スミス"
-name_en: "Jean ・ スミス"
-name_ja: "Jean ・ スミス"
+title: "Jean SMITH | ジャン-スミス"
+name_en: "Jean SMITH"
+name_ja: "ジャン-スミス"
 slug: "jean-smith"
 position: "SO"
 height: "181.0"
 weight: "92.0"
 birth_date: "2003.04.01"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa代表 (106 caps)"
-scraped_url: "https://all.rugby/player/jean-smith"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)
+

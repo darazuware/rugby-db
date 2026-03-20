@@ -7,12 +7,14 @@ position: "SO"
 height: "180.0"
 weight: "88.0"
 birth_date: "1996.04.17"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tristan-tedder"
 ---
 

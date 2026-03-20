@@ -7,12 +7,14 @@ position: "SH"
 height: "176.0"
 weight: "90.0"
 birth_date: "1997.05.15"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jeremy-fernandez"
 ---
 

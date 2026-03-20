@@ -1,20 +1,22 @@
 ---
-title: "Ntuthuko ・ MCHUNU | Ntuthuko ・ MCHUNU"
-name_en: "Ntuthuko ・ MCHUNU"
-name_ja: "Ntuthuko ・ MCHUNU"
+title: "Ntuthuko MCHUNU | ントゥズコ・ムチュヌ"
+name_en: "Ntuthuko MCHUNU"
+name_ja: "ントゥズコ・ムチュヌ"
 slug: "ntuthuko-mchunu"
 position: "PR"
 height: "188.0"
 weight: "123.0"
 birth_date: "1999.04.05"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sharks (2021 - 2025) -> Stormers (2025 - 2026)
+South Africa

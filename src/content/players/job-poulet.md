@@ -7,12 +7,14 @@ position: "CTB"
 height: "180.0"
 weight: "79.0"
 birth_date: "2003.04.30"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/job-poulet"
 ---
 

@@ -7,12 +7,14 @@ position: "CTB"
 height: "186.0"
 weight: "98.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/aki-tuivailala"
 ---
 

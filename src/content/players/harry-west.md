@@ -1,20 +1,22 @@
 ---
-title: "Harry ・ WEST | Harry ・ WEST"
-name_en: "Harry ・ WEST"
-name_ja: "Harry ・ WEST"
+title: "Harry WEST | ハリー・ウェスト"
+name_en: "Harry WEST"
+name_ja: "ハリー・ウェスト"
 slug: "harry-west"
 position: "FB"
 height: "185.0"
 weight: "90.0"
 birth_date: "2003.04.27"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/harry-west"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2022 - 2026)
+

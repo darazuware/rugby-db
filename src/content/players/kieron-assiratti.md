@@ -1,18 +1,20 @@
 ---
-title: "Keiron ・ ASSIRATTI | Keiron ・ ASSIRATTI"
-name_en: "Keiron ・ ASSIRATTI"
+title: "Keiron ASSIRATTI | Keiron ・ ASSIRATTI"
+name_en: "Keiron ASSIRATTI"
 name_ja: "Keiron ・ ASSIRATTI"
 slug: "kieron-assiratti"
 position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1997.06.30"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
+team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kieron-assiratti"
 ---
 

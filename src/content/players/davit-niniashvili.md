@@ -7,12 +7,14 @@ position: "FB"
 height: "185.0"
 weight: "90.0"
 birth_date: "2002.07.14"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "Georgia代表 (23 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/davit-niniashvili"
 ---
 

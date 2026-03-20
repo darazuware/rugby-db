@@ -7,12 +7,14 @@ position: "SH"
 height: "178.0"
 weight: "84.0"
 birth_date: "1997.05.30"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇼🇸 Samoa代表 (7 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ereatara-enari"
 ---
 

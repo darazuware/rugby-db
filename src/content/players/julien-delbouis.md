@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "103.0"
 birth_date: "1999.08.04"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/julien-delbouis"
 ---
 

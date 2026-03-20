@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "123.0"
 birth_date: "1998.06.28"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/abraham-pole"
 ---
 

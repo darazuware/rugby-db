@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "116.0"
 birth_date: "1997.04.29"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thibaud-flament"
 ---
 

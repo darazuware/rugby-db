@@ -7,12 +7,14 @@ position: "FB"
 height: "183.0"
 weight: "90.0"
 birth_date: "1998.10.26"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/simon-peter-toleafoa"
 ---
 

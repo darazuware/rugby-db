@@ -1,20 +1,22 @@
 ---
-title: "ジェームズ ・ MCNABNEY | ジェームズ ・ MCNABNEY"
-name_en: "ジェームズ ・ MCNABNEY"
-name_ja: "ジェームズ ・ MCNABNEY"
+title: "James MCNABNEY | ジェームズ-マクナブニー"
+name_en: "James MCNABNEY"
+name_ja: "ジェームズ-マクナブニー"
 slug: "james-mcnabney"
-position: "Back row"
+position: "FL/No8"
 height: "196.0"
 weight: "113.0"
 birth_date: "2003.02.28"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "Development players代表 (0 caps)"
-scraped_url: "https://all.rugby/player/james-mcnabney"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2021 - 2026)
+

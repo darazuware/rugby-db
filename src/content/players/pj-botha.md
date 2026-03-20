@@ -1,20 +1,22 @@
 ---
-title: "PJ ・ BOTHA | PJ ・ BOTHA"
-name_en: "PJ ・ BOTHA"
-name_ja: "PJ ・ BOTHA"
+title: "PJ BOTHA | PJ・ボータ"
+name_en: "PJ BOTHA"
+name_ja: "PJ・ボータ"
 slug: "pj-botha"
 position: "HO"
 height: "181.0"
 weight: "105.0"
 birth_date: "1998.01.20"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/pj-botha"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2019 - 2026)
+

@@ -7,12 +7,14 @@ position: "PR"
 height: "181.0"
 weight: "127.0"
 birth_date: "1995.08.08"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jermaine-ainsley"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Matt ・ FAGERSON | Matt ・ FAGERSON"
-name_en: "Matt ・ FAGERSON"
-name_ja: "Matt ・ FAGERSON"
+title: "Matt FAGERSON | マット・ファーガソン"
+name_en: "Matt FAGERSON"
+name_ja: "マット・ファーガソン"
 slug: "matt-fagerson"
-position: "Back row"
+position: "FL/No8"
 height: "186.0"
 weight: "110.0"
 birth_date: "1998.07.16"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
-scraped_url: "https://all.rugby/player/matt-fagerson"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2016 - 2026)
+Scotland

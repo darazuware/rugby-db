@@ -1,0 +1,22 @@
+---
+title: "Yusuke Maruo | 丸尾 祐資"
+name_en: "Yusuke Maruo"
+name_ja: "丸尾 祐資"
+slug: "yusuke-maruo"
+position: "SH"
+height: "170.0"
+weight: "75.0"
+birth_date: "2000.10.25"
+age: 25.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "NECグリーンロケッツ東葛（2025-26）"
+caps: ""
+high_school: "報徳学園高校"
+university: "明治大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

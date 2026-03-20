@@ -7,12 +7,14 @@ position: "PR"
 height: "190.0"
 weight: "125.0"
 birth_date: "1998.07.21"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ugo-boniface"
 ---
 

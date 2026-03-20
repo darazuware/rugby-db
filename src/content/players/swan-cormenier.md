@@ -7,12 +7,14 @@ position: "PR"
 height: "178.0"
 weight: "120.0"
 birth_date: "1996.01.18"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/swan-cormenier"
 ---
 

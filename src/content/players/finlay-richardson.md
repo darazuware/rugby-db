@@ -1,18 +1,20 @@
 ---
-title: "Fin ・ RICHARDSON | Fin ・ RICHARDSON"
-name_en: "Fin ・ RICHARDSON"
+title: "Fin RICHARDSON | Fin ・ RICHARDSON"
+name_en: "Fin RICHARDSON"
 name_ja: "Fin ・ RICHARDSON"
 slug: "finlay-richardson"
 position: "PR"
 height: "183.0"
 weight: "124.0"
 birth_date: "1998.09.16"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "0"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/finlay-richardson"
 ---
 

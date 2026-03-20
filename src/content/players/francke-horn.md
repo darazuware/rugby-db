@@ -1,20 +1,22 @@
 ---
-title: "Francke ・ HORN | Francke ・ HORN"
-name_en: "Francke ・ HORN"
-name_ja: "Francke ・ HORN"
+title: "Francke HORN | フランケ-ホーン"
+name_en: "Francke HORN"
+name_ja: "フランケ-ホーン"
 slug: "francke-horn"
-position: "Back row"
+position: "FL/No8"
 height: "190.0"
 weight: "106.0"
 birth_date: "1999.05.24"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/francke-horn"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2019 - 2026)
+

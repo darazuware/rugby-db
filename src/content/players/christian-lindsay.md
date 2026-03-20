@@ -1,20 +1,22 @@
 ---
-title: "Christian ・ LINDSAY | Christian ・ LINDSAY"
-name_en: "Christian ・ LINDSAY"
-name_ja: "Christian ・ LINDSAY"
+title: "Christian LINDSAY | クリスチャン・リンゼイ"
+name_en: "Christian LINDSAY"
+name_ja: "クリスチャン・リンゼイ"
 slug: "christian-lindsay"
 position: "LO"
 height: "200.0"
 weight: "121.0"
 birth_date: "2007.."
-age: 19
+age: 19.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🇫🇷 France代表 (9 caps)"
-scraped_url: "https://all.rugby/player/christian-lindsay"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Loretto High School (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

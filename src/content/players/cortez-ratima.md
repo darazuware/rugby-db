@@ -7,12 +7,14 @@ position: "SH"
 height: "179.0"
 weight: "87.0"
 birth_date: "2001.03.22"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/cortez-ratima"
 ---
 

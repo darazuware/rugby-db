@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "117.0"
 birth_date: "1997.07.05"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/darcy-swain"
 ---
 

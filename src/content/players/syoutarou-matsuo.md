@@ -1,0 +1,22 @@
+---
+title: "SYOUTAROU MATSUO | 松尾 将太郎"
+name_en: "SYOUTAROU MATSUO"
+name_ja: "松尾 将太郎"
+slug: "syoutarou-matsuo"
+position: "SO"
+height: "170.0"
+weight: "82.0"
+birth_date: "1996.10.19"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "ルリーロ福岡（2025-26）"
+caps: "U20('16)"
+high_school: "東福岡高校"
+university: "明治大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

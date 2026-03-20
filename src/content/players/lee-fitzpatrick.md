@@ -1,20 +1,22 @@
 ---
-title: "Lee ・ FITZPATRICK | Lee ・ FITZPATRICK"
-name_en: "Lee ・ FITZPATRICK"
-name_ja: "Lee ・ FITZPATRICK"
+title: "Lee FITZPATRICK | リー・フィッツパトリック"
+name_en: "Lee FITZPATRICK"
+name_ja: "リー・フィッツパトリック"
 slug: "lee-fitzpatrick"
 position: "HO"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2007.."
-age: 19
+age: 19.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lee-fitzpatrick"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Newbridge College (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+

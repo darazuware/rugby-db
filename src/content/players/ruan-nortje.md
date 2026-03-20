@@ -1,18 +1,20 @@
 ---
-title: "Ruan ・ NORTJ | Ruan ・ NORTJ"
-name_en: "Ruan ・ NORTJ"
+title: "Ruan NORTJÉ | Ruan ・ NORTJ"
+name_en: "Ruan NORTJÉ"
 name_ja: "Ruan ・ NORTJ"
 slug: "ruan-nortje"
 position: "LO"
 height: "200.0"
 weight: "113.0"
 birth_date: "1998.07.25"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
+team: "Bulls"
 caps: "🇿🇦 South Africa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ruan-nortje"
 ---
 

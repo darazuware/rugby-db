@@ -1,20 +1,22 @@
 ---
-title: "Jordan ・ HENDRIKSE | Jordan ・ HENDRIKSE"
-name_en: "Jordan ・ HENDRIKSE"
-name_ja: "Jordan ・ HENDRIKSE"
+title: "Jordan HENDRIKSE | ジョーダン・ヘンドリクセ"
+name_en: "Jordan HENDRIKSE"
+name_ja: "ジョーダン・ヘンドリクセ"
 slug: "jordan-hendrikse"
 position: "SO"
 height: "188.0"
 weight: "93.0"
 birth_date: "2001.06.28"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa代表 (13 caps)"
-scraped_url: "https://all.rugby/player/jordan-hendrikse"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Maties Rugby Club (2019 - 2020) -> Lions Rugby (2020 - 2024) -> Sharks (2024 - 2026)
+

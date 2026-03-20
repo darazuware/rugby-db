@@ -1,20 +1,22 @@
 ---
-title: "Harry ・ トーマス | Harry ・ トーマス"
-name_en: "Harry ・ トーマス"
-name_ja: "Harry ・ トーマス"
+title: "Harry THOMAS | ハリー・トーマス"
+name_en: "Harry THOMAS"
+name_ja: "ハリー・トーマス"
 slug: "harry-thomas"
 position: "HO"
 height: "185.0"
 weight: "108.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (4 caps)"
-scraped_url: "https://all.rugby/player/harry-thomas"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2023 - 2026)
+

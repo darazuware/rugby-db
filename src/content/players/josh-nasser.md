@@ -7,12 +7,14 @@ position: "HO"
 height: "189.0"
 weight: "115.0"
 birth_date: "1999.06.23"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josh-nasser"
 ---
 

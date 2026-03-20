@@ -1,20 +1,22 @@
 ---
-title: "Rory ・ MCHAFFIE | Rory ・ MCHAFFIE"
-name_en: "Rory ・ MCHAFFIE"
-name_ja: "Rory ・ MCHAFFIE"
+title: "Rory MCHAFFIE | ロリー・マクハフィー"
+name_en: "Rory MCHAFFIE"
+name_ja: "ロリー・マクハフィー"
 slug: "rory-mchaffie"
 position: "FB"
 height: "185.0"
 weight: "96.0"
 birth_date: "2007.."
-age: 19
+age: 19.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/rory-mchaffie"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Peebles RFC (2023 - 2025) -> Edimbourg Rugby (2025 - 2026)
+

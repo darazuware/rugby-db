@@ -1,20 +1,22 @@
 ---
-title: "Isaac ・ JONES | Isaac ・ JONES"
-name_en: "Isaac ・ JONES"
-name_ja: "Isaac ・ JONES"
+title: "Isaac JONES | アイザック-ジョーンズ"
+name_en: "Isaac JONES"
+name_ja: "アイザック-ジョーンズ"
 slug: "isaac-jones"
 position: "PR"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/isaac-jones"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2024 - 2026)
+

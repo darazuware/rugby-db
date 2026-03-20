@@ -7,12 +7,14 @@ position: "SH"
 height: "175.0"
 weight: "75.0"
 birth_date: "2002.05.14"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nolann-le-garrec"
 ---
 

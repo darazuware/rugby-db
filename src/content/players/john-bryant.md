@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "190.0"
 weight: "100.0"
 birth_date: "2003.02.20"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
+league: "nan"
+team: "Reds"
 caps: "🇮🇪 Ireland代表 (72 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/john-bryant"
 ---
 

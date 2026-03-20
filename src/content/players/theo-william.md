@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "194.0"
 weight: "109.0"
 birth_date: "2000.07.04"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "🇳🇿 New Zealand代表 (3 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/theo-william"
 ---
 

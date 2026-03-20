@@ -1,20 +1,22 @@
 ---
-title: "ポール ・ デ ・ VILLIERS | ポール ・ デ ・ VILLIERS"
-name_en: "ポール ・ デ ・ VILLIERS"
-name_ja: "ポール ・ デ ・ VILLIERS"
+title: "Paul DE VILLIERS | ポール・デ・ヴィリアーズ"
+name_en: "Paul DE VILLIERS"
+name_ja: "ポール・デ・ヴィリアーズ"
 slug: "paul-de-villiers"
-position: "Back row"
+position: "FL/No8"
 height: "181.0"
 weight: "101.0"
 birth_date: "2003.01.13"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "🇫🇷 France代表 (64 caps)"
-scraped_url: "https://all.rugby/player/paul-de-villiers"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2022) -> Stormers (2022 - 2023) -> Western Province (2023 - 2024) -> Stormers (2024 - 2026)
+

@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "119.0"
 birth_date: "2001.08.29"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/daniel-bibi-biziwu"
 ---
 

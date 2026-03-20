@@ -7,12 +7,14 @@ position: "CTB"
 height: "195.0"
 weight: "100.0"
 birth_date: "1994.07.03"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sam-james"
 ---
 

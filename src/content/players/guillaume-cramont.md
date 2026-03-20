@@ -7,12 +7,14 @@ position: "HO"
 height: "182.0"
 weight: "107.0"
 birth_date: "2000.12.29"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/guillaume-cramont"
 ---
 

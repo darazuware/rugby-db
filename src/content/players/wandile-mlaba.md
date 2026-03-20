@@ -1,20 +1,22 @@
 ---
-title: "Wandile ・ MLABA | Wandile ・ MLABA"
-name_en: "Wandile ・ MLABA"
-name_ja: "Wandile ・ MLABA"
+title: "Wandile MLABA | ワンディレ-ムラバ"
+name_en: "Wandile MLABA"
+name_ja: "ワンディレ-ムラバ"
 slug: "wandile-mlaba"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "102.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/wandile-mlaba"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2024 - 2025) -> Stormers (2025 - 2026)
+

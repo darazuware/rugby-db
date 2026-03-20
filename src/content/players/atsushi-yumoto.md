@@ -1,0 +1,22 @@
+---
+title: "Atsushi Yumoto | 湯本 睦"
+name_en: "Atsushi Yumoto"
+name_ja: "湯本 睦"
+slug: "atsushi-yumoto"
+position: "SH"
+height: "165.0"
+weight: "70.0"
+birth_date: "1994.05.02"
+age: 31.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "豊田自動織機シャトルズ愛知（2025-26）"
+caps: "高校('12)"
+high_school: "東海大大阪仰星高校"
+university: "東海大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

@@ -1,20 +1,22 @@
 ---
-title: "Sione ・ TUIPULOTU | Sione ・ TUIPULOTU"
-name_en: "Sione ・ TUIPULOTU"
-name_ja: "Sione ・ TUIPULOTU"
+title: "Sione TUIPULOTU | シオネ・ツイプロトゥ"
+name_en: "Sione TUIPULOTU"
+name_ja: "シオネ・ツイプロトゥ"
 slug: "sione-tuipulotu"
 position: "CTB"
 height: "178.0"
 weight: "104.0"
 birth_date: "1997.02.12"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "🇦🇺 Australia"
-scraped_url: "https://all.rugby/player/sione-tuipulotu"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2019) -> Shizuoka Blue Revs (2019 - 2021) -> Glasgow Warriors (2021 - 2026)
+Australia

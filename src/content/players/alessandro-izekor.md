@@ -1,20 +1,22 @@
 ---
-title: "Alessandro ・ IZEKOR | Alessandro ・ IZEKOR"
-name_en: "Alessandro ・ IZEKOR"
-name_ja: "Alessandro ・ IZEKOR"
+title: "Alessandro IZEKOR | アレッサンドロ・イゼコール"
+name_en: "Alessandro IZEKOR"
+name_ja: "アレッサンドロ・イゼコール"
 slug: "alessandro-izekor"
-position: "Back row"
+position: "FL/No8"
 height: "196.0"
 weight: "110.0"
 birth_date: "2000.03.05"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy代表 (6 caps)"
-scraped_url: "https://all.rugby/player/alessandro-izekor"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Rugby Calvisano (2019 - 2021) -> Benetton Rugby Trévise (2021 - 2021) -> Rugby Calvisano (2021 - 2021) -> Benetton Rugby Trévise (2022 - 2022) -> Rugby Calvisano (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+

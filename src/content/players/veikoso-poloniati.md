@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "130.0"
 birth_date: "1995.08.27"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/veikoso-poloniati"
 ---
 

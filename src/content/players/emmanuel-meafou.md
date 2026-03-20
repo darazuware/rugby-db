@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "142.0"
 birth_date: "1998.07.12"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/emmanuel-meafou"
 ---
 

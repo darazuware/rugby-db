@@ -7,12 +7,14 @@ position: "SO"
 height: "178.0"
 weight: "82.0"
 birth_date: "2003.05.27"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/adam-lennox"
 ---
 

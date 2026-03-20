@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "113.0"
 birth_date: "2001.01.17"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josh-lord"
 ---
 

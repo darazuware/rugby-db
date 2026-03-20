@@ -7,12 +7,14 @@ position: "FB"
 height: "188.0"
 weight: "96.0"
 birth_date: "1998.07.11"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joshua-moorby"
 ---
 

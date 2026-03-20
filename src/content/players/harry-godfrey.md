@@ -7,12 +7,14 @@ position: "SO"
 height: "176.0"
 weight: "88.0"
 birth_date: "2003.01.03"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/harry-godfrey"
 ---
 

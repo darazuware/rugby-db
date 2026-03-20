@@ -4,15 +4,17 @@ name_en: "Titi NOFOAGATOTOA"
 name_ja: "ティティ・ノフォガトトア"
 slug: "titi-nofoagatotoa"
 position: "FL/No8"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "1998.03.07"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/titi-nofoagatotoa"
 ---
 

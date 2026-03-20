@@ -7,12 +7,14 @@ position: "SH"
 height: "182.0"
 weight: "95.0"
 birth_date: "1990.12.03"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/michael-ruru"
 ---
 

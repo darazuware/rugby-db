@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "118.0"
 birth_date: "1998.09.04"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/guram-gogichashvili"
 ---
 

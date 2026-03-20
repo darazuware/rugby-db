@@ -7,12 +7,14 @@ position: "SH"
 height: "181.0"
 weight: "96.0"
 birth_date: "2003.05.23"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/noah-hotham"
 ---
 

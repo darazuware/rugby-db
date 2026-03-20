@@ -1,20 +1,22 @@
 ---
-title: "Ellis ・ MEE | Ellis ・ MEE"
-name_en: "Ellis ・ MEE"
-name_ja: "Ellis ・ MEE"
+title: "Ellis MEE | エリス・ミー"
+name_en: "Ellis MEE"
+name_ja: "エリス・ミー"
 slug: "ellis-mee"
-position: "Winger"
+position: "WTB"
 height: "193.0"
 weight: "92.0"
 birth_date: "2003.10.06"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (0 caps)"
-scraped_url: "https://all.rugby/player/ellis-mee"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Nottingham Rugby (2023 - 2024) -> Scarlets (2024 - 2026)
+

@@ -1,18 +1,20 @@
 ---
-title: "Tavi ・ TUIPULOTU | Tavi ・ TUIPULOTU"
-name_en: "Tavi ・ TUIPULOTU"
+title: "Tavi TUIPULOTU | Tavi ・ TUIPULOTU"
+name_en: "Tavi TUIPULOTU"
 name_ja: "Tavi ・ TUIPULOTU"
 slug: "ottavio-tuipulotu"
 position: "HO"
 height: "181.0"
 weight: "110.0"
 birth_date: "2004.03.07"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "0"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ottavio-tuipulotu"
 ---
 

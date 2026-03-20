@@ -1,20 +1,22 @@
 ---
-title: "Gwilym ・ EVANS | Gwilym ・ EVANS"
-name_en: "Gwilym ・ EVANS"
-name_ja: "Gwilym ・ EVANS"
+title: "Gwilym EVANS | グウィリム・エヴァンス"
+name_en: "Gwilym EVANS"
+name_ja: "グウィリム・エヴァンス"
 slug: "gwilym-evans"
-position: "Back row"
+position: "FL/No8"
 height: "183.0"
 weight: "94.0"
 birth_date: "2003.05.25"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/gwilym-evans"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2022 - 2023) -> Cardiff University RFC (2023 - 2024) -> Aberavon RFC (2024 - 2025) -> Ospreys (2025 - 2026)
+

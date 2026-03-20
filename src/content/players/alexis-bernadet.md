@@ -7,12 +7,14 @@ position: "SH"
 height: "180.0"
 weight: "79.0"
 birth_date: "2001.06.02"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alexis-bernadet"
 ---
 

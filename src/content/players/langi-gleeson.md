@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "110.0"
 birth_date: "2001.07.21"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇦🇺 Australia代表 (4 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/langi-gleeson"
 ---
 

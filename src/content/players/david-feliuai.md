@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "98.0"
 birth_date: "1997.05.16"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
-caps: "0"
+league: "nan"
+team: "Brumbies"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/david-feliuai"
 ---
 

@@ -1,18 +1,20 @@
 ---
-title: "ジョシュ ・ ADAMS | ジョシュ ・ ADAMS"
-name_en: "ジョシュ ・ ADAMS"
+title: "Josh ADAMS | ジョシュ ・ ADAMS"
+name_en: "Josh ADAMS"
 name_ja: "ジョシュ ・ ADAMS"
 slug: "josh--adams-"
 position: "Winger"
 height: "186.0"
 weight: "96.0"
 birth_date: "1995.04.21"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
+team: "Cardiff"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josh--adams-"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "ジャック ・ MURPHY | ジャック ・ MURPHY"
-name_en: "ジャック ・ MURPHY"
-name_ja: "ジャック ・ MURPHY"
+title: "Jack MURPHY | ジャック-マーフィー"
+name_en: "Jack MURPHY"
+name_ja: "ジャック-マーフィー"
 slug: "jack-murphy"
 position: "SO"
 height: "178.0"
 weight: "83.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "🇮🇪 Ireland代表 (29 caps)"
-scraped_url: "https://all.rugby/player/jack-murphy"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Clontarf Rugby (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+

@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "125.0"
 birth_date: "1997.08.28"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/janse-roux"
 ---
 

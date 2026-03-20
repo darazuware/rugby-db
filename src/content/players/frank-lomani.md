@@ -7,12 +7,14 @@ position: "SH"
 height: "180.0"
 weight: "81.0"
 birth_date: "1996.04.18"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/frank-lomani"
 ---
 

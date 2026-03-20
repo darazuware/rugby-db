@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "111.0"
 birth_date: "1991.05.18"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/manu-tuilagi"
 ---
 

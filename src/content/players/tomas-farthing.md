@@ -1,18 +1,20 @@
 ---
-title: "トム ・ FARTHING | トム ・ FARTHING"
-name_en: "トム ・ FARTHING"
+title: "Tomás FARTHING | トム ・ FARTHING"
+name_en: "Tomás FARTHING"
 name_ja: "トム ・ FARTHING"
 slug: "tomas-farthing"
 position: "SH"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tomas-farthing"
 ---
 

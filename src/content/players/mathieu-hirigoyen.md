@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "194.0"
 weight: "103.0"
 birth_date: "1999.01.25"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mathieu-hirigoyen"
 ---
 

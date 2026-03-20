@@ -1,20 +1,22 @@
 ---
-title: "Ceano ・ EVERSON | Ceano ・ EVERSON"
-name_en: "Ceano ・ EVERSON"
-name_ja: "Ceano ・ EVERSON"
+title: "Ceano EVERSON | セアノ・エヴァーソン"
+name_en: "Ceano EVERSON"
+name_ja: "セアノ・エヴァーソン"
 slug: "ceano-everson"
 position: "SH"
 height: "169.0"
 weight: "63.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/ceano-everson"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+

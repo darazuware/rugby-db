@@ -1,20 +1,22 @@
 ---
-title: "Lorcan ・ MCLOUGHLIN | Lorcan ・ MCLOUGHLIN"
-name_en: "Lorcan ・ MCLOUGHLIN"
-name_ja: "Lorcan ・ MCLOUGHLIN"
+title: "Lorcan MCLOUGHLIN | ローカン・マクラフリン"
+name_en: "Lorcan MCLOUGHLIN"
+name_ja: "ローカン・マクラフリン"
 slug: "lorcan-mcloughlin"
-position: "Back row"
+position: "FL/No8"
 height: "190.0"
 weight: "109.0"
 birth_date: "2002.04.03"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lorcan-mcloughlin"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2021 - 2026)
+

@@ -7,12 +7,14 @@ position: "PR"
 height: "182.0"
 weight: "112.0"
 birth_date: "1994.01.02"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "Cameroon"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dany-priso"
 ---
 

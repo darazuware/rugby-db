@@ -7,12 +7,14 @@ position: "PR"
 height: "194.0"
 weight: "127.0"
 birth_date: "1990.03.22"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
+league: "nan"
+team: "Highlanders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/angus-taavao-matau"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "184.0"
 weight: "112.0"
 birth_date: "1997.01.10"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/peato-mauvaka"
 ---
 

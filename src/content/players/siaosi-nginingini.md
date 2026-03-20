@@ -7,12 +7,14 @@ position: "SH"
 height: "183.0"
 weight: "91.0"
 birth_date: "1998.10.17"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/siaosi-nginingini"
 ---
 

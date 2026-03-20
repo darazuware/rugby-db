@@ -1,18 +1,20 @@
 ---
-title: "Se ・ NAUGHTON | Se ・ NAUGHTON"
-name_en: "Se ・ NAUGHTON"
+title: "Seán NAUGHTON | Se ・ NAUGHTON"
+name_en: "Seán NAUGHTON"
 name_ja: "Se ・ NAUGHTON"
 slug: "sean-naughton"
 position: "SO"
 height: "182.0"
 weight: "78.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sean-naughton"
 ---
 

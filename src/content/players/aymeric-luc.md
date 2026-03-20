@@ -7,12 +7,14 @@ position: "FB"
 height: "180.0"
 weight: "81.0"
 birth_date: "1997.10.14"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/aymeric-luc"
 ---
 

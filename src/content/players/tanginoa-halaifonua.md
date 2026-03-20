@@ -7,12 +7,14 @@ position: "LO"
 height: "196.0"
 weight: "115.0"
 birth_date: "1996.09.20"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇹🇴 Tonga代表 (13 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tanginoa-halaifonua"
 ---
 

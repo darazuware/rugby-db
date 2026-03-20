@@ -1,20 +1,22 @@
 ---
-title: "ヘイミッシュ ・ MACARTHUR | ヘイミッシュ ・ MACARTHUR"
-name_en: "ヘイミッシュ ・ MACARTHUR"
-name_ja: "ヘイミッシュ ・ MACARTHUR"
+title: "Hamish MACARTHUR | ヘイミッシュ・マッカーサー"
+name_en: "Hamish MACARTHUR"
+name_ja: "ヘイミッシュ・マッカーサー"
 slug: "hamish-macarthur"
 position: "SH"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/hamish-macarthur"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Merchiston Castle School (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

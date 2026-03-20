@@ -7,12 +7,14 @@ position: "FB"
 height: "183.0"
 weight: "92.0"
 birth_date: "1999.08.20"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/etene-nanai-seturo"
 ---
 

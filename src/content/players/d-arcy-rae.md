@@ -1,18 +1,20 @@
 ---
-title: "D'Arcy ・ RAE | D'Arcy ・ RAE"
-name_en: "D'Arcy ・ RAE"
+title: "D'Arcy RAE | D'Arcy ・ RAE"
+name_en: "D'Arcy RAE"
 name_ja: "D'Arcy ・ RAE"
 slug: "d-arcy-rae"
 position: "PR"
 height: "186.0"
 weight: "125.0"
 birth_date: "1994.12.21"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エディンバラ・ラグビー"
+team: "Edimbourg"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/d-arcy-rae"
 ---
 

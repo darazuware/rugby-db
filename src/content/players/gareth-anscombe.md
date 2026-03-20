@@ -7,12 +7,14 @@ position: "SO"
 height: "184.0"
 weight: "96.0"
 birth_date: "1991.05.10"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gareth-anscombe"
 ---
 

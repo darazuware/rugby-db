@@ -1,20 +1,22 @@
 ---
-title: "Heiko ・ POHLMANN | Heiko ・ POHLMANN"
-name_en: "Heiko ・ POHLMANN"
-name_ja: "Heiko ・ POHLMANN"
+title: "Heiko POHLMANN | ハイコ・ポールマン"
+name_en: "Heiko POHLMANN"
+name_ja: "ハイコ・ポールマン"
 slug: "heiko-pohlmann"
 position: "PR"
 height: "185.0"
 weight: "128.0"
 birth_date: "2002.01.16"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/heiko-pohlmann"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2020 - 2021) -> Golden Lions (2021 - 2024) -> Lions Rugby (2024 - 2026)
+

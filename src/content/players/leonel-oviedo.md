@@ -7,12 +7,14 @@ position: "HO"
 height: "186.0"
 weight: "118.0"
 birth_date: "1998.02.16"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/leonel-oviedo"
 ---
 

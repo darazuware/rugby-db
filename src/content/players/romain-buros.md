@@ -7,12 +7,14 @@ position: "FB"
 height: "187.0"
 weight: "97.0"
 birth_date: "1997.07.31"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/romain-buros"
 ---
 

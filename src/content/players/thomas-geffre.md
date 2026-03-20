@@ -7,12 +7,14 @@ position: "LO"
 height: "204.0"
 weight: "112.0"
 birth_date: "1998.12.24"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-geffre"
 ---
 

@@ -7,12 +7,14 @@ position: "SO"
 height: "178.0"
 weight: "80.0"
 birth_date: "2003.10.29"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/clement-mondinat"
 ---
 

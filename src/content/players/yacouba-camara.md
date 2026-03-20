@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "195.0"
 weight: "112.0"
 birth_date: "1994.06.02"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/yacouba-camara"
 ---
 

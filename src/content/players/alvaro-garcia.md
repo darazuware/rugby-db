@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "120.0"
 birth_date: "2003.08.22"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alvaro-garcia"
 ---
 

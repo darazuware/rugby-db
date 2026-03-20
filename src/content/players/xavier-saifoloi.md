@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "195.0"
 weight: "114.0"
 birth_date: "2003.06.23"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/xavier-saifoloi"
 ---
 

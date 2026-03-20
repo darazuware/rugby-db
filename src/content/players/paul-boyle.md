@@ -1,20 +1,22 @@
 ---
-title: "ポール ・ BOYLE | ポール ・ BOYLE"
-name_en: "ポール ・ BOYLE"
-name_ja: "ポール ・ BOYLE"
+title: "Paul BOYLE | ポール・ボイル"
+name_en: "Paul BOYLE"
+name_ja: "ポール・ボイル"
 slug: "paul-boyle"
-position: "Back row"
+position: "FL/No8"
 height: "189.0"
 weight: "112.0"
 birth_date: "1997.01.14"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/paul-boyle"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2017 - 2026)
+

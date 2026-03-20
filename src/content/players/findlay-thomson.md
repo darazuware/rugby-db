@@ -1,20 +1,22 @@
 ---
-title: "Findlay ・ THOMSON | Findlay ・ THOMSON"
-name_en: "Findlay ・ THOMSON"
-name_ja: "Findlay ・ THOMSON"
+title: "Findlay THOMSON | フィンドレー・トムソン"
+name_en: "Findlay THOMSON"
+name_ja: "フィンドレー・トムソン"
 slug: "findlay-thomson"
 position: "CTB"
 height: "190.0"
 weight: "97.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (2 caps)"
-scraped_url: "https://all.rugby/player/findlay-thomson"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2022 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

@@ -1,20 +1,22 @@
 ---
-title: "Shayne ・ BOLTON | Shayne ・ BOLTON"
-name_en: "Shayne ・ BOLTON"
-name_ja: "Shayne ・ BOLTON"
+title: "Shayne BOLTON | シェーン・ボルトン"
+name_en: "Shayne BOLTON"
+name_ja: "シェーン・ボルトン"
 slug: "shayne-bolton"
-position: "Winger"
+position: "WTB"
 height: "188.0"
 weight: "100.0"
 birth_date: "2000.06.29"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "Call-ups代表 (0 caps)"
-scraped_url: "https://all.rugby/player/shayne-bolton"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-University of the Free State (2020 - 2021) -> Connacht Rugby (2021 - 2026)
+

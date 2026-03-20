@@ -4,15 +4,17 @@ name_en: "Taniela RAKURO"
 name_ja: "タニエラ・ラクロ"
 slug: "taniela-rakuro"
 position: "WTB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2000.05.28"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/taniela-rakuro"
 ---
 

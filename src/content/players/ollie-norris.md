@@ -7,12 +7,14 @@ position: "PR"
 height: "194.0"
 weight: "122.0"
 birth_date: "1999.12.11"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ollie-norris"
 ---
 

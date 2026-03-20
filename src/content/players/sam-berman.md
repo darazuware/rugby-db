@@ -1,20 +1,22 @@
 ---
-title: "サム ・ BERMAN | サム ・ BERMAN"
-name_en: "サム ・ BERMAN"
-name_ja: "サム ・ BERMAN"
+title: "Sam BERMAN | サム・バーマン"
+name_en: "Sam BERMAN"
+name_ja: "サム・バーマン"
 slug: "sam-berman"
 position: "CTB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2004.01.16"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/sam-berman"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dublin University FC (2022 - 2023) -> Terenure College (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+

@@ -1,0 +1,22 @@
+---
+title: "Ren Shinwada | 新和田 錬"
+name_en: "Ren Shinwada"
+name_ja: "新和田 錬"
+slug: "ren-shinwada"
+position: "SH"
+height: "171.0"
+weight: "76.0"
+birth_date: "2000.05.15"
+age: 25.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "クリタウォーターガッシュ昭島（2025-26）"
+caps: "U23('20)"
+high_school: "尾道高校"
+university: "同志社大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

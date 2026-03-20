@@ -7,12 +7,14 @@ position: "CTB"
 height: "181.0"
 weight: "84.0"
 birth_date: "2002.08.03"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (46 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kyle-brown"
 ---
 

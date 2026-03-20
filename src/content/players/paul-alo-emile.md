@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "132.0"
 birth_date: "1991.12.22"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paul-alo-emile"
 ---
 

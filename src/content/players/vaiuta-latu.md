@@ -4,15 +4,17 @@ name_en: "Vaiuta LATU"
 name_ja: "ヴァイウタ・ラトゥ"
 slug: "vaiuta-latu"
 position: "FL/No8"
-height: "0"
+height: "nan"
 weight: "116.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/vaiuta-latu"
 ---
 

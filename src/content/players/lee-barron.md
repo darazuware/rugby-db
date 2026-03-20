@@ -1,20 +1,22 @@
 ---
-title: "Lee ・ BARRON | Lee ・ BARRON"
-name_en: "Lee ・ BARRON"
-name_ja: "Lee ・ BARRON"
+title: "Lee BARRON | リー・バロン"
+name_en: "Lee BARRON"
+name_ja: "リー・バロン"
 slug: "lee-barron"
 position: "HO"
 height: "191.0"
 weight: "109.0"
 birth_date: "2001.02.15"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lee-barron"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2024) -> Munster Rugby (2024 - 2024) -> Leinster Rugby (2025 - 2025) -> Munster Rugby (2025 - 2026)
+

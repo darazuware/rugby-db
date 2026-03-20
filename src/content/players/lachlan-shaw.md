@@ -7,12 +7,14 @@ position: "LO"
 height: "200.0"
 weight: "112.0"
 birth_date: "2003.05.15"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
-caps: "0"
+league: "nan"
+team: "Brumbies"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lachlan-shaw"
 ---
 

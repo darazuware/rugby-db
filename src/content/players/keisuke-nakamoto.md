@@ -1,0 +1,22 @@
+---
+title: "Keisuke Nakamoto | 中本 圭介"
+name_en: "Keisuke Nakamoto"
+name_ja: "中本 圭介"
+slug: "keisuke-nakamoto"
+position: "FB"
+height: "180.0"
+weight: "83.0"
+birth_date: "1992.12.01"
+age: 33.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "マツダスカイアクティブズ広島（2025-26）"
+caps: ""
+high_school: "流通経済大学付属柏高校"
+university: "立命館大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

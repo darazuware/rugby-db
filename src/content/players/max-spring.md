@@ -7,12 +7,14 @@ position: "FB"
 height: "173.0"
 weight: "75.0"
 birth_date: "2001.03.15"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/max-spring"
 ---
 

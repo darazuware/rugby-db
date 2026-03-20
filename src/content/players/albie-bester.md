@@ -1,20 +1,22 @@
 ---
-title: "Albie ・ BESTER | Albie ・ BESTER"
-name_en: "Albie ・ BESTER"
-name_ja: "Albie ・ BESTER"
+title: "Albie BESTER | アルビー・ベスター"
+name_en: "Albie BESTER"
+name_ja: "アルビー・ベスター"
 slug: "albie-bester"
 position: "CTB"
 height: "180.0"
 weight: "93.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/albie-bester"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+

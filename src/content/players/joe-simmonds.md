@@ -7,12 +7,14 @@ position: "SO"
 height: "183.0"
 weight: "91.0"
 birth_date: "1996.12.19"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joe-simmonds"
 ---
 

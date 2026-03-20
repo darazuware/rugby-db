@@ -1,20 +1,22 @@
 ---
-title: "マイケル ・ FOY | マイケル ・ FOY"
-name_en: "マイケル ・ FOY"
-name_ja: "マイケル ・ FOY"
+title: "Michael FOY | マイケル・フォイ"
+name_en: "Michael FOY"
+name_ja: "マイケル・フォイ"
 slug: "michael-foy"
 position: "LO"
 height: "196.0"
 weight: "107.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/michael-foy"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+

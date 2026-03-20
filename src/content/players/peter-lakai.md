@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "186.0"
 weight: "110.0"
 birth_date: "2003.03.04"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/peter-lakai"
 ---
 

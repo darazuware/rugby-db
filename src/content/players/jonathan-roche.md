@@ -1,20 +1,22 @@
 ---
-title: "Jonathan ・ ROCHE | Jonathan ・ ROCHE"
-name_en: "Jonathan ・ ROCHE"
-name_ja: "Jonathan ・ ROCHE"
+title: "Jonathan ROCHE | ジョナサン・ロシュ"
+name_en: "Jonathan ROCHE"
+name_ja: "ジョナサン・ロシュ"
 slug: "jonathan-roche"
 position: "CTB"
 height: "189.0"
 weight: "100.0"
 birth_date: "2003.02.01"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jonathan-roche"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Western Province (2022 - 2024) -> Stormers (2024 - 2026)
+

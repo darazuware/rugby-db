@@ -1,18 +1,20 @@
 ---
-title: "Nicol ・ ROGER ・ FARIAS | Nicol ・ ROGER ・ FARIAS"
-name_en: "Nicol ・ ROGER ・ FARIAS"
+title: "Nicolás ROGER FARIAS | Nicol ・ ROGER ・ FARIAS"
+name_en: "Nicolás ROGER FARIAS"
 name_ja: "Nicol ・ ROGER ・ FARIAS"
 slug: "nicolas-roger-farias"
 position: "SO"
 height: "177.0"
 weight: "82.0"
 birth_date: "2000.01.11"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
+team: "Trévise"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nicolas-roger-farias"
 ---
 

@@ -1,0 +1,22 @@
+---
+title: "Tetsunori Osaki | 大サキ"
+name_en: "Tetsunori Osaki"
+name_ja: "大サキ"
+slug: "tetsunori-osaki"
+position: "LO"
+height: "182.0"
+weight: "97.0"
+birth_date: "1999.04.26"
+age: 26.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "清水建設江東ブルーシャークス（2025-26）"
+caps: ""
+high_school: "国学院久我山高校"
+university: "早稲田大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

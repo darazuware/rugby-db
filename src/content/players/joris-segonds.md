@@ -7,12 +7,14 @@ position: "SO"
 height: "180.0"
 weight: "91.0"
 birth_date: "1997.04.06"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joris-segonds"
 ---
 

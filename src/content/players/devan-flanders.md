@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "193.0"
 weight: "108.0"
 birth_date: "1999.07.20"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/devan-flanders"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Tommaso ・ MENONCELLO | Tommaso ・ MENONCELLO"
-name_en: "Tommaso ・ MENONCELLO"
-name_ja: "Tommaso ・ MENONCELLO"
+title: "Tommaso MENONCELLO | トマソ・メノンチェッロ"
+name_en: "Tommaso MENONCELLO"
+name_ja: "トマソ・メノンチェッロ"
 slug: "tommaso-menoncello"
 position: "CTB"
 height: "187.0"
 weight: "101.0"
 birth_date: "2002.08.20"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/tommaso-menoncello"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2020 - 2026)
+Italy

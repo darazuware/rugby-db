@@ -1,20 +1,22 @@
 ---
-title: "Trevor ・ NYAKANE | Trevor ・ NYAKANE"
-name_en: "Trevor ・ NYAKANE"
-name_ja: "Trevor ・ NYAKANE"
+title: "Trevor NYAKANE | トレヴァー・ニャカニ"
+name_en: "Trevor NYAKANE"
+name_ja: "トレヴァー・ニャカニ"
 slug: "trevor-nyakane"
 position: "PR"
 height: "178.0"
 weight: "122.0"
 birth_date: "1989.05.04"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/trevor-nyakane"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2013 - 2014) -> Bulls (2014 - 2021) -> Racing 92 (2021 - 2024) -> Sharks (2024 - 2026)
+South Africa

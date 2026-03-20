@@ -7,12 +7,14 @@ position: "PR"
 height: "189.0"
 weight: "118.0"
 birth_date: "1996.09.23"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/hamza-kaabeche"
 ---
 

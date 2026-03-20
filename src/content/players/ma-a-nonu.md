@@ -7,12 +7,14 @@ position: "CTB"
 height: "182.0"
 weight: "108.0"
 birth_date: "1982.05.21"
-age: 43
+age: 43.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ma-a-nonu"
 ---
 

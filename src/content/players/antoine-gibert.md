@@ -7,12 +7,14 @@ position: "SO"
 height: "177.0"
 weight: "76.0"
 birth_date: "1997.12.31"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
 caps: "🇫🇷 France代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antoine-gibert"
 ---
 

@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "123.0"
 birth_date: "1998.01.09"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-paulos"
 ---
 

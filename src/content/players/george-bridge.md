@@ -7,12 +7,14 @@ position: "WTB"
 height: "186.0"
 weight: "96.0"
 birth_date: "1995.04.01"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/george-bridge"
 ---
 

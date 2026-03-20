@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "183.0"
 weight: "103.0"
 birth_date: "2000.02.02"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/carlo-tizzano"
 ---
 

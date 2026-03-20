@@ -1,20 +1,22 @@
 ---
-title: "ベン ・ MOXHAM | ベン ・ MOXHAM"
-name_en: "ベン ・ MOXHAM"
-name_ja: "ベン ・ MOXHAM"
+title: "Ben MOXHAM | ベン・モクサム"
+name_en: "Ben MOXHAM"
+name_ja: "ベン・モクサム"
 slug: "ben-moxham"
-position: "Winger"
+position: "WTB"
 height: "191.0"
 weight: "108.0"
 birth_date: "2001.06.09"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/ben-moxham"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2019 - 2026)
+

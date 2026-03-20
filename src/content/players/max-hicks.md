@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "199.0"
 weight: "112.0"
 birth_date: "1999.09.15"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/max-hicks"
 ---
 

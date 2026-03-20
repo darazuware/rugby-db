@@ -1,0 +1,22 @@
+---
+title: "DAISUKE IBA | 射場 大輔"
+name_en: "DAISUKE IBA"
+name_ja: "射場 大輔"
+slug: "daisuke-iba"
+position: "CTB"
+height: "177.0"
+weight: "93.0"
+birth_date: "1997.12.03"
+age: 28.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "レッドハリケーンズ大阪（2025-26）"
+caps: ""
+high_school: "常翔学園高校"
+university: "明治大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

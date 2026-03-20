@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "111.0"
 birth_date: "1998.03.16"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/will-tucker"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "190.0"
 weight: "110.0"
 birth_date: "1995.01.09"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "Germany"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giovanni-habel-kueffner"
 ---
 

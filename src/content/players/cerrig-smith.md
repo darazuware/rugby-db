@@ -1,20 +1,22 @@
 ---
-title: "Cerrig ・ スミス | Cerrig ・ スミス"
-name_en: "Cerrig ・ スミス"
-name_ja: "Cerrig ・ スミス"
+title: "Cerrig SMITH | セリグ・スミス"
+name_en: "Cerrig SMITH"
+name_ja: "セリグ・スミス"
 slug: "cerrig-smith"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "113.0"
 birth_date: "1997.09.10"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "🇳🇿 New Zealand代表 (88 caps)"
-scraped_url: "https://all.rugby/player/cerrig-smith"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2025 - 2026)
+

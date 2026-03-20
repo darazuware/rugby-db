@@ -1,20 +1,22 @@
 ---
-title: "Shay ・ MCCARTHY | Shay ・ MCCARTHY"
-name_en: "Shay ・ MCCARTHY"
-name_ja: "Shay ・ MCCARTHY"
+title: "Shay MCCARTHY | シェイ・マッカーシー"
+name_en: "Shay MCCARTHY"
+name_ja: "シェイ・マッカーシー"
 slug: "shay-mccarthy"
-position: "Winger"
+position: "WTB"
 height: "188.0"
 weight: "95.0"
 birth_date: "2002.11.06"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/shay-mccarthy"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2021 - 2022) -> Young Munster RFC (2022 - 2023) -> Munster Rugby (2023 - 2026)
+

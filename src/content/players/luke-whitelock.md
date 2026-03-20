@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "193.0"
 weight: "116.0"
 birth_date: "1991.01.29"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/luke-whitelock"
 ---
 

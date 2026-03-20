@@ -1,20 +1,22 @@
 ---
-title: "Riccardo ・ FAVRETTO | Riccardo ・ FAVRETTO"
-name_en: "Riccardo ・ FAVRETTO"
-name_ja: "Riccardo ・ FAVRETTO"
+title: "Riccardo FAVRETTO | リッカルド・ファヴレット"
+name_en: "Riccardo FAVRETTO"
+name_ja: "リッカルド・ファヴレット"
 slug: "riccardo-favretto"
 position: "LO"
 height: "200.0"
 weight: "108.0"
 birth_date: "2001.10.18"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/riccardo-favretto"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Mogliano Veneto Rugby (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2026)
+Italy

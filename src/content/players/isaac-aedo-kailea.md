@@ -7,12 +7,14 @@ position: "PR"
 height: "192.0"
 weight: "129.0"
 birth_date: "2000.07.13"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/isaac-aedo-kailea"
 ---
 

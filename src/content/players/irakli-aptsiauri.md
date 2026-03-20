@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "126.0"
 birth_date: "2003.02.23"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "Georgia代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/irakli-aptsiauri"
 ---
 

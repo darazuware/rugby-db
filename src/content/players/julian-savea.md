@@ -7,12 +7,14 @@ position: "CTB"
 height: "192.0"
 weight: "108.0"
 birth_date: "1990.08.07"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/julian-savea"
 ---
 

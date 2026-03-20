@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "103.0"
 birth_date: "1992.01.05"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kurt-eklund"
 ---
 

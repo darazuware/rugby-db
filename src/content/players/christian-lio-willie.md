@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "187.0"
 weight: "109.0"
 birth_date: "1998.08.26"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/christian-lio-willie"
 ---
 

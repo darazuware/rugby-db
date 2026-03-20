@@ -7,12 +7,14 @@ position: "FB"
 height: "186.0"
 weight: "96.0"
 birth_date: "2000.01.08"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/cheikh-tiberghien"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "114.0"
 birth_date: "1993.09.21"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/facundo-isa"
 ---
 

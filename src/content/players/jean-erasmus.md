@@ -1,20 +1,22 @@
 ---
-title: "Jean ・ ERASMUS | Jean ・ ERASMUS"
-name_en: "Jean ・ ERASMUS"
-name_ja: "Jean ・ ERASMUS"
+title: "Jean ERASMUS | ジャン-エラスムス"
+name_en: "Jean ERASMUS"
+name_ja: "ジャン-エラスムス"
 slug: "jean-erasmus"
 position: "PR"
 height: "180.0"
 weight: "105.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jean-erasmus"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)
+

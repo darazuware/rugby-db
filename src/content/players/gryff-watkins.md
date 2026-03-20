@@ -1,20 +1,22 @@
 ---
-title: "Gryff ・ WATKINS | Gryff ・ WATKINS"
-name_en: "Gryff ・ WATKINS"
-name_ja: "Gryff ・ WATKINS"
+title: "Gryff WATKINS | グリフ・ワトキンス"
+name_en: "Gryff WATKINS"
+name_ja: "グリフ・ワトキンス"
 slug: "gryff-watkins"
 position: "CTB"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/gryff-watkins"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+

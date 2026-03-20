@@ -1,0 +1,22 @@
+---
+title: "Kauvaka Kaivelata | カウヴァカ ・カイヴェラタ"
+name_en: "Kauvaka Kaivelata"
+name_ja: "カウヴァカ ・カイヴェラタ"
+slug: "kauvaka-kaivelata"
+position: "PR"
+height: "187.0"
+weight: "124.0"
+birth_date: "2002.07.11"
+age: 23.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "コベルコ神戸スティーラーズ（2025-26）"
+caps: ""
+high_school: "ウェスリーカレッジ"
+university: ""
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+Counties Manukau Steelers (2022 - 2024) -> Chiefs (2022 - 2024) -> Kobelco Kobe Steelers (2024 - )

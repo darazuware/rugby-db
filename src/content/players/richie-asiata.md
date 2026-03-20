@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "120.0"
 birth_date: "1996.05.03"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/richie-asiata"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Joshua ・ KENNY | Joshua ・ KENNY"
-name_en: "Joshua ・ KENNY"
-name_ja: "Joshua ・ KENNY"
+title: "Joshua KENNY | ジョシュア・ケニー"
+name_en: "Joshua KENNY"
+name_ja: "ジョシュア・ケニー"
 slug: "joshua-kenny"
-position: "Winger"
+position: "WTB"
 height: "192.0"
 weight: "100.0"
 birth_date: "2003.08.03"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/joshua-kenny"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2025 - 2026)
+

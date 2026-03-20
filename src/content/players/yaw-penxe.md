@@ -1,20 +1,22 @@
 ---
-title: "Yaw ・ PENXE | Yaw ・ PENXE"
-name_en: "Yaw ・ PENXE"
-name_ja: "Yaw ・ PENXE"
+title: "Yaw PENXE | ヤウ・ペンセ"
+name_en: "Yaw PENXE"
+name_ja: "ヤウ・ペンセ"
 slug: "yaw-penxe"
-position: "Winger"
+position: "WTB"
 height: "183.0"
 weight: "93.0"
 birth_date: "1997.04.03"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/yaw-penxe"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Southern Kings (2016 - 2020) -> Sharks (2020 - 2026)
+

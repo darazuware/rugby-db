@@ -7,12 +7,14 @@ position: "WTB"
 height: "186.0"
 weight: "95.0"
 birth_date: "1997.04.09"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/peniasi-dakuwaqa"
 ---
 

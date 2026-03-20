@@ -7,12 +7,14 @@ position: "LO"
 height: "197.0"
 weight: "114.0"
 birth_date: "1997.08.10"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antonio-shalfoon"
 ---
 

@@ -7,12 +7,14 @@ position: "PR"
 height: "192.0"
 weight: "125.0"
 birth_date: "1990.11.19"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
+league: "nan"
+team: "Reds"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jeffery-toomaga-allen"
 ---
 

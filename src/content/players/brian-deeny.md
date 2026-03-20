@@ -1,20 +1,22 @@
 ---
-title: "Brian ・ DEENY | Brian ・ DEENY"
-name_en: "Brian ・ DEENY"
-name_ja: "Brian ・ DEENY"
+title: "Brian DEENY | ブライアン・ディーニー"
+name_en: "Brian DEENY"
+name_ja: "ブライアン・ディーニー"
 slug: "brian-deeny"
 position: "LO"
 height: "200.0"
 weight: "119.0"
 birth_date: "2000.02.03"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/brian-deeny"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2026)
+

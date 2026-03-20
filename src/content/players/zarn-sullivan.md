@@ -7,12 +7,14 @@ position: "FB"
 height: "193.0"
 weight: "101.0"
 birth_date: "2000.10.07"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/zarn-sullivan"
 ---
 

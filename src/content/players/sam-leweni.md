@@ -1,20 +1,22 @@
 ---
-title: "サム ・ LEWENI | サム ・ LEWENI"
-name_en: "サム ・ LEWENI"
-name_ja: "サム ・ LEWENI"
+title: "Sam LEWENI | サム・レウェニ"
+name_en: "Sam LEWENI"
+name_ja: "サム・レウェニ"
 slug: "sam-leweni"
 position: "CTB"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/sam-leweni"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

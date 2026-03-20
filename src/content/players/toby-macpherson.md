@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "199.0"
 weight: "106.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
-caps: "0"
+league: "nan"
+team: "Brumbies"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/toby-macpherson"
 ---
 

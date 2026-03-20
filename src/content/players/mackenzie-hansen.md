@@ -1,18 +1,20 @@
 ---
-title: "マック ・ HANSEN | マック ・ HANSEN"
-name_en: "マック ・ HANSEN"
+title: "Mack HANSEN | マック ・ HANSEN"
+name_en: "Mack HANSEN"
 name_ja: "マック ・ HANSEN"
 slug: "mackenzie-hansen"
 position: "FB"
 height: "188.0"
 weight: "89.0"
 birth_date: "1998.03.27"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
+team: "Connacht"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mackenzie-hansen"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "173.0"
 weight: "113.0"
 birth_date: "2001.02.08"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ioane-moananu"
 ---
 

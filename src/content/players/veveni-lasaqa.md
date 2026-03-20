@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "186.0"
 weight: "101.0"
 birth_date: "2002.04.06"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/veveni-lasaqa"
 ---
 

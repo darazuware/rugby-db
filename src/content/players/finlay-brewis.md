@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "124.0"
 birth_date: "2000.02.10"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/finlay-brewis"
 ---
 

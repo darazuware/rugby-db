@@ -1,18 +1,20 @@
 ---
-title: "Hanro ・ JACOBS | Hanro ・ JACOBS"
-name_en: "Hanro ・ JACOBS"
+title: "Hanro JACOBS | Hanro ・ JACOBS"
+name_en: "Hanro JACOBS"
 name_ja: "Hanro ・ JACOBS"
 slug: "hanru-jacobs"
 position: "PR"
 height: "185.0"
 weight: "129.0"
 birth_date: "2000.03.14"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/hanru-jacobs"
 ---
 

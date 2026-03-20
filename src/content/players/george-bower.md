@@ -7,12 +7,14 @@ position: "PR"
 height: "186.0"
 weight: "120.0"
 birth_date: "1992.05.28"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/george-bower"
 ---
 

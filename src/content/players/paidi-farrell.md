@@ -1,18 +1,20 @@
 ---
-title: "P ・ FARRELL | P ・ FARRELL"
-name_en: "P ・ FARRELL"
+title: "Páidí FARRELL | P ・ FARRELL"
+name_en: "Páidí FARRELL"
 name_ja: "P ・ FARRELL"
 slug: "paidi-farrell"
 position: "Winger"
 height: "175.0"
 weight: "81.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "0"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/paidi-farrell"
 ---
 

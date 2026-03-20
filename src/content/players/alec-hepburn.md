@@ -1,20 +1,22 @@
 ---
-title: "Alec ・ HEPBURN | Alec ・ HEPBURN"
-name_en: "Alec ・ HEPBURN"
-name_ja: "Alec ・ HEPBURN"
+title: "Alec HEPBURN | アレック・ヘップバーン"
+name_en: "Alec HEPBURN"
+name_ja: "アレック・ヘップバーン"
 slug: "alec-hepburn"
 position: "PR"
 height: "186.0"
 weight: "114.0"
 birth_date: "1993.03.30"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "🇦🇺 Australia"
-scraped_url: "https://all.rugby/player/alec-hepburn"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2014 - 2024) -> Scarlets (2024 - 2026)
+Australia

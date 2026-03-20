@@ -1,20 +1,22 @@
 ---
-title: "Mac ・ RUTHERFORD | Mac ・ RUTHERFORD"
-name_en: "Mac ・ RUTHERFORD"
-name_ja: "Mac ・ RUTHERFORD"
+title: "Mac RUTHERFORD | マック・ラザフォード"
+name_en: "Mac RUTHERFORD"
+name_ja: "マック・ラザフォード"
 slug: "mac-rutherford"
 position: "LO"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "1997.11.06"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/mac-rutherford"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Gala Rugby (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

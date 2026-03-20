@@ -1,20 +1,22 @@
 ---
-title: "Joe ・ ROBERTS | Joe ・ ROBERTS"
-name_en: "Joe ・ ROBERTS"
-name_ja: "Joe ・ ROBERTS"
+title: "Joe ROBERTS | ジョー・ロバーツ"
+name_en: "Joe ROBERTS"
+name_ja: "ジョー・ロバーツ"
 slug: "joe-roberts"
 position: "CTB"
 height: "182.0"
 weight: "96.0"
 birth_date: "2000.05.10"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
-scraped_url: "https://all.rugby/player/joe-roberts"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2018 - 2020) -> Ampthill Rugby (2020 - 2020) -> Scarlets (2020 - 2020) -> Ampthill Rugby (2021 - 2021) -> Scarlets (2021 - 2026)
+Wales

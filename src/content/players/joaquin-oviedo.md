@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "191.0"
 weight: "113.0"
 birth_date: "2001.07.17"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/joaquin-oviedo"
 ---
 

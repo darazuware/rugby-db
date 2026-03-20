@@ -7,12 +7,14 @@ position: "FB"
 height: "187.0"
 weight: "84.0"
 birth_date: "1998.09.09"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇹🇴 Tonga代表 (9 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/willy-havili"
 ---
 

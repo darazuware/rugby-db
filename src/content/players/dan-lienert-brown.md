@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "117.0"
 birth_date: "1993.02.09"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dan-lienert-brown"
 ---
 

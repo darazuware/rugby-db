@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "115.0"
 birth_date: "2004.02.10"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nick-bloomfield"
 ---
 

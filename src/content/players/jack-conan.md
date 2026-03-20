@@ -1,20 +1,22 @@
 ---
-title: "ジャック ・ CONAN | ジャック ・ CONAN"
-name_en: "ジャック ・ CONAN"
-name_ja: "ジャック ・ CONAN"
+title: "Jack CONAN | ジャック-コナン"
+name_en: "Jack CONAN"
+name_ja: "ジャック-コナン"
 slug: "jack-conan"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "111.0"
 birth_date: "1992.07.29"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/jack-conan"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2013 - 2026)
+Ireland

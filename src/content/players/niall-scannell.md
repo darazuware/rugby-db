@@ -1,20 +1,22 @@
 ---
-title: "ナイル ・ SCANNELL | ナイル ・ SCANNELL"
-name_en: "ナイル ・ SCANNELL"
-name_ja: "ナイル ・ SCANNELL"
+title: "Niall SCANNELL | ニアル・スカネル"
+name_en: "Niall SCANNELL"
+name_ja: "ニアル・スカネル"
 slug: "niall-scannell"
 position: "HO"
 height: "185.0"
 weight: "111.0"
 birth_date: "1992.04.08"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/niall-scannell"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2013 - 2026)
+Ireland

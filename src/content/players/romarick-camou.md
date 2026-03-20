@@ -7,12 +7,14 @@ position: "WTB"
 height: "174.0"
 weight: "84.0"
 birth_date: "1996.10.09"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/romarick-camou"
 ---
 

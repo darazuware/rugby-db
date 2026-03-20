@@ -1,20 +1,22 @@
 ---
-title: "Gordon ・ WOOD | Gordon ・ WOOD"
-name_en: "Gordon ・ WOOD"
-name_ja: "Gordon ・ WOOD"
+title: "Gordon WOOD | ゴードン・ウッド"
+name_en: "Gordon WOOD"
+name_ja: "ゴードン・ウッド"
 slug: "gordon-wood"
 position: "CTB"
 height: "182.0"
 weight: "91.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/gordon-wood"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Garryowen FC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+

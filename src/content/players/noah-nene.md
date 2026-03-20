@@ -13,6 +13,8 @@ birth_place_scraped: ""
 league: "top14"
 team: "スタッド・フランセ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/noah-nene"
 ---
 

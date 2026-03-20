@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "133.0"
 birth_date: "1995.05.19"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"
 caps: "Namibia代表 (42 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jerome-rey"
 ---
 

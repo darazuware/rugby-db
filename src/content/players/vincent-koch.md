@@ -1,20 +1,22 @@
 ---
-title: "ヴィンセント ・ コッホ | ヴィンセント ・ コッホ"
-name_en: "ヴィンセント ・ コッホ"
-name_ja: "ヴィンセント ・ コッホ"
+title: "Vincent KOCH | ヴィンセント・コッホ"
+name_en: "Vincent KOCH"
+name_ja: "ヴィンセント・コッホ"
 slug: "vincent-koch"
 position: "PR"
 height: "185.0"
 weight: "118.0"
 birth_date: "1990.03.13"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/vincent-koch"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stormers (2014 - 2016) -> Saracens (2016 - 2022) -> Stade Français Paris Rugby (2022 - 2022) -> Wasps (2022 - 2022) -> Stade Français Paris Rugby (2022 - 2023) -> Wasps (2023 - 2023) -> Stade Français Paris Rugby (2023 - 2023) -> Sharks (2023 - 2026)
+South Africa

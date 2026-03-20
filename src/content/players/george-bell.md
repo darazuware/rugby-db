@@ -7,12 +7,14 @@ position: "HO"
 height: "183.0"
 weight: "107.0"
 birth_date: "2002.01.29"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/george-bell"
 ---
 

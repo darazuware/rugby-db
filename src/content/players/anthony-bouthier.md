@@ -7,12 +7,14 @@ position: "FB"
 height: "182.0"
 weight: "86.0"
 birth_date: "1992.06.19"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/anthony-bouthier"
 ---
 

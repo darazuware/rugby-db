@@ -1,18 +1,20 @@
 ---
-title: "Sacha ・ FEINBERG ・ MNGOMEZULU | Sacha ・ FEINBERG ・ MNGOMEZULU"
-name_en: "Sacha ・ FEINBERG ・ MNGOMEZULU"
+title: "Sacha FEINBERG-MNGOMEZULU | Sacha ・ FEINBERG ・ MNGOMEZULU"
+name_en: "Sacha FEINBERG-MNGOMEZULU"
 name_ja: "Sacha ・ FEINBERG ・ MNGOMEZULU"
 slug: "sacha-mngomezulu"
 position: "SO"
 height: "188.0"
 weight: "92.0"
 birth_date: "2002.02.22"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
+team: "Stormers"
 caps: "🇿🇦 South Africa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sacha-mngomezulu"
 ---
 

@@ -7,12 +7,14 @@ position: "CTB"
 height: "189.0"
 weight: "101.0"
 birth_date: "1992.09.24"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pita-ahki"
 ---
 

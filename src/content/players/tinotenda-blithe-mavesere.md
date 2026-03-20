@@ -1,18 +1,20 @@
 ---
-title: "Tino ・ MAVESERE | Tino ・ MAVESERE"
-name_en: "Tino ・ MAVESERE"
+title: "Tino MAVESERE | Tino ・ MAVESERE"
+name_en: "Tino MAVESERE"
 name_ja: "Tino ・ MAVESERE"
 slug: "tinotenda-blithe-mavesere"
 position: "Back row"
 height: "189.0"
 weight: "105.0"
 birth_date: "1998.10.17"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tinotenda-blithe-mavesere"
 ---
 

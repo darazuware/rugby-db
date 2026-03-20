@@ -7,12 +7,14 @@ position: "PR"
 height: "188.0"
 weight: "120.0"
 birth_date: "1990.08.29"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kieran-brookes"
 ---
 

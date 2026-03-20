@@ -7,12 +7,14 @@ position: "CTB"
 height: "189.0"
 weight: "100.0"
 birth_date: "2002.02.16"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/karl-martin"
 ---
 

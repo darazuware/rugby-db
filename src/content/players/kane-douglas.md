@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "123.0"
 birth_date: "1989.06.01"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kane-douglas"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "JC ・ PRETORIUS | JC ・ PRETORIUS"
-name_en: "JC ・ PRETORIUS"
-name_ja: "JC ・ PRETORIUS"
+title: "JC PRETORIUS | JC-プレトリアス"
+name_en: "JC PRETORIUS"
+name_ja: "JC-プレトリアス"
 slug: "jc-pretorius"
-position: "Back row"
+position: "FL/No8"
 height: "186.0"
 weight: "92.0"
 birth_date: "1998.01.29"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/jc-pretorius"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-AF. SUD 7's (2018 - 2022) -> Lions Rugby (2022 - 2022) -> AF. SUD 7's (2023 - 2023) -> Lions Rugby (2023 - 2026)
+

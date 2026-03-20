@@ -7,12 +7,14 @@ position: "SH"
 height: "186.0"
 weight: "91.0"
 birth_date: "1993.07.06"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jake-gordon"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "180.0"
 weight: "110.0"
 birth_date: "1993.12.28"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/penaia-cakobau"
 ---
 

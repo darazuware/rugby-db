@@ -1,20 +1,22 @@
 ---
-title: "シヤ ・ コリシ | シヤ ・ コリシ"
-name_en: "シヤ ・ コリシ"
-name_ja: "シヤ ・ コリシ"
+title: "Siya KOLISI | シヤ・コリシ"
+name_en: "Siya KOLISI"
+name_ja: "シヤ・コリシ"
 slug: "siya-kolisi"
-position: "Back row"
+position: "FL/No8"
 height: "189.0"
 weight: "104.0"
 birth_date: "1991.06.16"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/siya-kolisi"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2020) -> Sharks (2020 - 2023) -> Racing 92 (2023 - 2024) -> Sharks (2024 - 2024) -> Racing 92 (2025 - 2025) -> Sharks (2025 - 2026)
+South Africa

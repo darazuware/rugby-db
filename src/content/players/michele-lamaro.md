@@ -1,20 +1,22 @@
 ---
-title: "Michele ・ LAMARO | Michele ・ LAMARO"
-name_en: "Michele ・ LAMARO"
-name_ja: "Michele ・ LAMARO"
+title: "Michele LAMARO | ミケーレ・ラマロ"
+name_en: "Michele LAMARO"
+name_ja: "ミケーレ・ラマロ"
 slug: "michele-lamaro"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "103.0"
 birth_date: "1998.06.03"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/michele-lamaro"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2018 - 2026)
+Italy

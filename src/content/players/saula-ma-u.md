@@ -7,12 +7,14 @@ position: "PR"
 height: "194.0"
 weight: "140.0"
 birth_date: "2000.04.29"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/saula-ma-u"
 ---
 

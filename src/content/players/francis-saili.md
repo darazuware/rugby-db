@@ -7,12 +7,14 @@ position: "CTB"
 height: "180.0"
 weight: "100.0"
 birth_date: "1991.02.16"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/francis-saili"
 ---
 

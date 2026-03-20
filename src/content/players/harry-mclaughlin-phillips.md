@@ -7,12 +7,14 @@ position: "SO"
 height: "178.0"
 weight: "89.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/harry-mclaughlin-phillips"
 ---
 

@@ -7,12 +7,14 @@ position: "HO"
 height: "185.0"
 weight: "103.0"
 birth_date: "2001.12.09"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ACTブランビーズ"
-caps: "0"
+league: "nan"
+team: "Brumbies"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/billy-pollard"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Bronson ・ MILLS | Bronson ・ MILLS"
-name_en: "Bronson ・ MILLS"
-name_ja: "Bronson ・ MILLS"
+title: "Bronson MILLS | ブロンソン・ミルズ"
+name_en: "Bronson MILLS"
+name_ja: "ブロンソン・ミルズ"
 slug: "bronson-mills"
 position: "CTB"
 height: "185.0"
 weight: "95.0"
 birth_date: "2003.08.08"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "エミレーツ・ライオンズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/bronson-mills"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)
+

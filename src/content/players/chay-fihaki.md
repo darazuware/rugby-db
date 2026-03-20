@@ -7,12 +7,14 @@ position: "CTB"
 height: "193.0"
 weight: "100.0"
 birth_date: "2001.01.03"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/chay-fihaki"
 ---
 

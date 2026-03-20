@@ -1,20 +1,22 @@
 ---
-title: "Ethan ・ GRAHAM | Ethan ・ GRAHAM"
-name_en: "Ethan ・ GRAHAM"
-name_ja: "Ethan ・ GRAHAM"
+title: "Ethan GRAHAM | イーサン・グラハム"
+name_en: "Ethan GRAHAM"
+name_ja: "イーサン・グラハム"
 slug: "ethan-graham"
-position: "Winger"
+position: "WTB"
 height: "181.0"
 weight: "87.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/ethan-graham"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2023 - 2026)
+

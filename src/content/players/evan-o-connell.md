@@ -1,18 +1,20 @@
 ---
-title: "Evan ・ O'CONNELL | Evan ・ O'CONNELL"
-name_en: "Evan ・ O'CONNELL"
+title: "Evan O'CONNELL | Evan ・ O'CONNELL"
+name_en: "Evan O'CONNELL"
 name_ja: "Evan ・ O'CONNELL"
 slug: "evan-o-connell"
 position: "LO"
 height: "200.0"
 weight: "109.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マンスター・ラグビー"
-caps: "0"
+team: "Munster"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/evan-o-connell"
 ---
 

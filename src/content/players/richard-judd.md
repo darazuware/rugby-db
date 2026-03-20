@@ -7,12 +7,14 @@ position: "SH"
 height: "180.0"
 weight: "88.0"
 birth_date: "1992.05.18"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/richard-judd"
 ---
 

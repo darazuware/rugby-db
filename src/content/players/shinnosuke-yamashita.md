@@ -1,0 +1,22 @@
+---
+title: "Shinnosuke Yamashita | 山下 真之介"
+name_en: "Shinnosuke Yamashita"
+name_ja: "山下 真之介"
+slug: "shinnosuke-yamashita"
+position: "SO"
+height: "174.0"
+weight: "83.0"
+birth_date: "2002.06.06"
+age: 23.0
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "三菱重工相模原ダイナボアーズ（2025-26）"
+caps: ""
+high_school: "流通経済大学柏高校"
+university: "立命館大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

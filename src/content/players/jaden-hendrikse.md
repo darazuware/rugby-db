@@ -1,20 +1,22 @@
 ---
-title: "Jaden ・ HENDRIKSE | Jaden ・ HENDRIKSE"
-name_en: "Jaden ・ HENDRIKSE"
-name_ja: "Jaden ・ HENDRIKSE"
+title: "Jaden HENDRIKSE | ジェイデン-ヘンドリクセ"
+name_en: "Jaden HENDRIKSE"
+name_ja: "ジェイデン-ヘンドリクセ"
 slug: "jaden-hendrikse"
 position: "SH"
 height: "184.0"
 weight: "92.0"
 birth_date: "2000.03.23"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "🇿🇦 South Africa代表 (13 caps)"
-scraped_url: "https://all.rugby/player/jaden-hendrikse"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sharks (2019 - 2026)
+

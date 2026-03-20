@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "120.0"
 birth_date: "1999.06.27"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ewan-johnson"
 ---
 

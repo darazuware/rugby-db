@@ -7,12 +7,14 @@ position: "WTB"
 height: "174.0"
 weight: "80.0"
 birth_date: "2001.02.20"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nelson-epee"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Efan ・ ダニエル | Efan ・ ダニエル"
-name_en: "Efan ・ ダニエル"
-name_ja: "Efan ・ ダニエル"
+title: "Efan DANIEL | エファン・ダニエル"
+name_en: "Efan DANIEL"
+name_ja: "エファン・ダニエル"
 slug: "efan-daniel"
 position: "HO"
 height: "185.0"
 weight: "109.0"
 birth_date: "2002.12.14"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/efan-daniel"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2020 - 2025) -> Ospreys (2025 - 2026)
+

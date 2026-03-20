@@ -7,12 +7,14 @@ position: "PR"
 height: "175.0"
 weight: "108.0"
 birth_date: "1999.11.11"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/giorgi-beria"
 ---
 

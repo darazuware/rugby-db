@@ -4,15 +4,17 @@ name_en: "Vaiolini EKUASI"
 name_ja: "ヴァイオリニ・エクアシ"
 slug: "vaiolini-ekuasi"
 position: "FL/No8"
-height: "0"
+height: "nan"
 weight: "107.0"
 birth_date: "2001.10.11"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/vaiolini-ekuasi"
 ---
 

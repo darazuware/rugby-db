@@ -7,12 +7,14 @@ position: "SH"
 height: "176.0"
 weight: "82.0"
 birth_date: "1995.12.24"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "🇮🇹 Italy代表 (2 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gauthier-doubrere"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Johnny ・ MATTHEWS | Johnny ・ MATTHEWS"
-name_en: "Johnny ・ MATTHEWS"
-name_ja: "Johnny ・ MATTHEWS"
+title: "Johnny MATTHEWS | ジョニー・マシューズ"
+name_en: "Johnny MATTHEWS"
+name_ja: "ジョニー・マシューズ"
 slug: "johnny-matthews"
 position: "HO"
 height: "183.0"
 weight: "110.0"
 birth_date: "1993.07.05"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "グラスゴー・ウォリアーズ"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (1 caps)"
-scraped_url: "https://all.rugby/player/johnny-matthews"
+team: "Glasgow"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2026)
+

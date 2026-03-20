@@ -1,20 +1,22 @@
 ---
-title: "Giovanni ・ LICATA | Giovanni ・ LICATA"
-name_en: "Giovanni ・ LICATA"
-name_ja: "Giovanni ・ LICATA"
+title: "Giovanni LICATA | ジョヴァンニ-リカータ"
+name_en: "Giovanni LICATA"
+name_ja: "ジョヴァンニ-リカータ"
 slug: "giovanni-licata"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "111.0"
 birth_date: "1997.02.18"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ゼブレ・パルマ"
-caps: "🇮🇹 Italy"
-scraped_url: "https://all.rugby/player/giovanni-licata"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2017 - 2026)
+Italy

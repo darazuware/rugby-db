@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "117.0"
 birth_date: "1995.02.17"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
-caps: "0"
+league: "nan"
+team: "Chiefs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/reuben-o-neill"
 ---
 

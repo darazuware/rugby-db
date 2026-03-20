@@ -7,12 +7,14 @@ position: "FB"
 height: "183.0"
 weight: "93.0"
 birth_date: "1992.06.24"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/stuart-hogg"
 ---
 

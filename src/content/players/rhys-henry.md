@@ -1,20 +1,22 @@
 ---
-title: "Rhys ・ HENRY | Rhys ・ HENRY"
-name_en: "Rhys ・ HENRY"
-name_ja: "Rhys ・ HENRY"
+title: "Rhys HENRY | リース・ヘンリー"
+name_en: "Rhys HENRY"
+name_ja: "リース・ヘンリー"
 slug: "rhys-henry"
 position: "PR"
 height: "173.0"
 weight: "114.0"
 birth_date: "1998.09.08"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/rhys-henry"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ospreys (2018 - 2026)
+

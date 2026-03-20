@@ -1,20 +1,22 @@
 ---
-title: "Rob ・ HERRING | Rob ・ HERRING"
-name_en: "Rob ・ HERRING"
-name_ja: "Rob ・ HERRING"
+title: "Rob HERRING | ロブ・ヘリング"
+name_en: "Rob HERRING"
+name_ja: "ロブ・ヘリング"
 slug: "rob-herring"
 position: "HO"
 height: "185.0"
 weight: "106.0"
 birth_date: "1990.04.27"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/rob-herring"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2013 - 2026)
+South Africa

@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "119.0"
 birth_date: "2001.02.01"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/josh-canham"
 ---
 

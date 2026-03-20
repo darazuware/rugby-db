@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "125.0"
 birth_date: "2003.01.07"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
+league: "nan"
+team: "Moana Pasifika"
 caps: "🇫🇷 France代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/malakai-hala"
 ---
 

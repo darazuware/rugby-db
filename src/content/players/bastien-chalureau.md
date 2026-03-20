@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "118.0"
 birth_date: "1992.02.13"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇫🇷 France代表 (6 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/bastien-chalureau"
 ---
 

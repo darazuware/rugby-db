@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "188.0"
 weight: "100.0"
 birth_date: "1997.12.01"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/esteban-abadie"
 ---
 

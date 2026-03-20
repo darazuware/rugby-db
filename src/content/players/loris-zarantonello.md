@@ -7,12 +7,14 @@ position: "HO"
 height: "183.0"
 weight: "102.0"
 birth_date: "2000.11.17"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/loris-zarantonello"
 ---
 

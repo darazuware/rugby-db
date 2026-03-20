@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "115.0"
 birth_date: "1992.11.05"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jordan-lay"
 ---
 

@@ -1,20 +1,22 @@
 ---
-title: "Bryce ・ CALVERT | Bryce ・ CALVERT"
-name_en: "Bryce ・ CALVERT"
-name_ja: "Bryce ・ CALVERT"
+title: "Bryce CALVERT | ブライス・カルヴァート"
+name_en: "Bryce CALVERT"
+name_ja: "ブライス・カルヴァート"
 slug: "bryce-calvert"
 position: "HO"
 height: "180.0"
 weight: "107.0"
 birth_date: "2003.05.09"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/bryce-calvert"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)
+

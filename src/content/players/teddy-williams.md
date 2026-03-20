@@ -1,20 +1,22 @@
 ---
-title: "Teddy ・ ウィリアムズ | Teddy ・ ウィリアムズ"
-name_en: "Teddy ・ ウィリアムズ"
-name_ja: "Teddy ・ ウィリアムズ"
+title: "Teddy WILLIAMS | テディ・ウィリアムズ"
+name_en: "Teddy WILLIAMS"
+name_ja: "テディ・ウィリアムズ"
 slug: "teddy-williams"
-position: "Back row"
+position: "FL/No8"
 height: "200.0"
 weight: "118.0"
 birth_date: "2000.10.18"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
-scraped_url: "https://all.rugby/player/teddy-williams"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2018 - 2026)
+Wales

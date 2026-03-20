@@ -7,12 +7,14 @@ position: "SH"
 height: "177.0"
 weight: "88.0"
 birth_date: "1993.05.12"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ali-price"
 ---
 

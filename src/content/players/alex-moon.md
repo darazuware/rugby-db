@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "127.0"
 birth_date: "1996.09.06"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "バイヨンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alex-moon"
 ---
 

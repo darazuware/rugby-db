@@ -7,12 +7,14 @@ position: "WTB"
 height: "190.0"
 weight: "95.0"
 birth_date: "2003.04.23"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/darby-lancaster"
 ---
 

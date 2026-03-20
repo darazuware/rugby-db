@@ -1,20 +1,22 @@
 ---
-title: "Joe ・ WESTWOOD | Joe ・ WESTWOOD"
-name_en: "Joe ・ WESTWOOD"
-name_ja: "Joe ・ WESTWOOD"
+title: "Joe WESTWOOD | ジョー・ウエストウッド"
+name_en: "Joe WESTWOOD"
+name_ja: "ジョー・ウエストウッド"
 slug: "joe-westwood"
 position: "CTB"
 height: "193.0"
 weight: "106.0"
 birth_date: "2003.07.10"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/joe-westwood"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2020 - 2026)
+

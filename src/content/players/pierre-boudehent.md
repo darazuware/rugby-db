@@ -7,12 +7,14 @@ position: "CTB"
 height: "196.0"
 weight: "107.0"
 birth_date: "1998.02.06"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🇫🇷 France代表 (14 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/pierre-boudehent"
 ---
 

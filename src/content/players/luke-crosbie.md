@@ -1,20 +1,22 @@
 ---
-title: "ルーク ・ CROSBIE | ルーク ・ CROSBIE"
-name_en: "ルーク ・ CROSBIE"
-name_ja: "ルーク ・ CROSBIE"
+title: "Luke CROSBIE | ルーク・クロスビー"
+name_en: "Luke CROSBIE"
+name_ja: "ルーク・クロスビー"
 slug: "luke-crosbie"
-position: "Back row"
+position: "FL/No8"
 height: "196.0"
 weight: "112.0"
 birth_date: "1997.04.22"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
-scraped_url: "https://all.rugby/player/luke-crosbie"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2017 - 2026)
+Scotland

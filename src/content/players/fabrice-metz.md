@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "127.0"
 birth_date: "1991.01.23"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/fabrice-metz"
 ---
 

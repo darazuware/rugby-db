@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "190.0"
 weight: "110.0"
 birth_date: "1996.08.16"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jamie-ritchie"
 ---
 

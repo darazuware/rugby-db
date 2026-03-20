@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "192.0"
 weight: "95.0"
 birth_date: "2001.05.23"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
-caps: "0"
+league: "nan"
+team: "Fijian Drua"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kitione-salawa-jr"
 ---
 

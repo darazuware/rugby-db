@@ -7,12 +7,14 @@ position: "HO"
 height: "183.0"
 weight: "107.0"
 birth_date: "1991.01.03"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
 caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (11 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dave-cherry"
 ---
 

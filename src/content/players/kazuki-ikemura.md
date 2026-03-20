@@ -1,0 +1,22 @@
+---
+title: "Kazuki Ikemura | 池村 冬紀"
+name_en: "Kazuki Ikemura"
+name_ja: "池村 冬紀"
+slug: "kazuki-ikemura"
+position: "CTB"
+height: "178.0"
+weight: "91.0"
+birth_date: "2002.01.11"
+age: 24.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "狭山セコムラガッツ（2025-26）"
+caps: ""
+high_school: "川口高校"
+university: "山梨学院大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

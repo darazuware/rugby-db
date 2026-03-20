@@ -7,12 +7,14 @@ position: "LO"
 height: "204.0"
 weight: "115.0"
 birth_date: "1989.04.19"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rob-simmons"
 ---
 

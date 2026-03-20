@@ -1,20 +1,22 @@
 ---
-title: "ダン ・ デュ ・ PLESSIS | ダン ・ デュ ・ PLESSIS"
-name_en: "ダン ・ デュ ・ PLESSIS"
-name_ja: "ダン ・ デュ ・ PLESSIS"
+title: "Dan DU PLESSIS | ダン・デュ・プレシス"
+name_en: "Dan DU PLESSIS"
+name_ja: "ダン・デュ・プレシス"
 slug: "dan-du-plessis"
 position: "CTB"
 height: "190.0"
 weight: "103.0"
 birth_date: "1994.02.15"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/dan-du-plessis"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Stormers (2015 - 2026)
+

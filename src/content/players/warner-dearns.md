@@ -7,12 +7,14 @@ position: "LO"
 height: "202.0"
 weight: "124.0"
 birth_date: "2002.04.11"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
+league: "nan"
+team: "Hurricanes"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/warner-dearns"
 ---
 

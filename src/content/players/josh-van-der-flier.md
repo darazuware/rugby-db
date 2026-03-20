@@ -1,20 +1,22 @@
 ---
-title: "ジョシュ ・ ファン ・ デル ・ フライヤー | ジョシュ ・ ファン ・ デル ・ フライヤー"
-name_en: "ジョシュ ・ ファン ・ デル ・ フライヤー"
-name_ja: "ジョシュ ・ ファン ・ デル ・ フライヤー"
+title: "Josh VAN DER FLIER | ジョシュ・ファン・デル・フリヤー"
+name_en: "Josh VAN DER FLIER"
+name_ja: "ジョシュ・ファン・デル・フリヤー"
 slug: "josh-van-der-flier"
-position: "Back row"
+position: "FL/No8"
 height: "183.0"
 weight: "105.0"
 birth_date: "1993.04.25"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇮🇪 Ireland"
-scraped_url: "https://all.rugby/player/josh-van-der-flier"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2014 - 2026)
+Ireland

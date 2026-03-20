@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "196.0"
 weight: "112.0"
 birth_date: "2004.01.18"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
-caps: "0"
+league: "nan"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/leafi-talataina"
 ---
 

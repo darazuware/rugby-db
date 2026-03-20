@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "116.0"
 birth_date: "1989.04.18"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "モアナ・パシフィカ"
-caps: "0"
+league: "nan"
+team: "Moana Pasifika"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-savage"
 ---
 

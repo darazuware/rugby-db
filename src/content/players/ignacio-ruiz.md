@@ -7,12 +7,14 @@ position: "HO"
 height: "185.0"
 weight: "109.0"
 birth_date: "2001.01.03"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "🇦🇷 Argentina代表 (6 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ignacio-ruiz"
 ---
 

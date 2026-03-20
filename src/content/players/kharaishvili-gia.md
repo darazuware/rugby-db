@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "120.0"
 birth_date: "1999.02.13"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kharaishvili-gia"
 ---
 

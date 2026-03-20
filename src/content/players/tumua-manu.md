@@ -7,12 +7,14 @@ position: "CTB"
 height: "183.0"
 weight: "97.0"
 birth_date: "1993.04.18"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
 caps: "🇼🇸 Samoa"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tumua-manu"
 ---
 

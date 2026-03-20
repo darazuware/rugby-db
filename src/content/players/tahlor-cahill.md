@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "113.0"
 birth_date: "2003.06.08"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tahlor-cahill"
 ---
 

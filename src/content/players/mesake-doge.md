@@ -7,12 +7,14 @@ position: "PR"
 height: "180.0"
 weight: "122.0"
 birth_date: "1993.04.01"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji代表 (10 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/mesake-doge"
 ---
 

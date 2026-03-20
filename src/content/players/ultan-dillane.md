@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "115.0"
 birth_date: "1993.11.09"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇮🇪 Ireland"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ultan-dillane"
 ---
 

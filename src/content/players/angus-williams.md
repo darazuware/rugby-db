@@ -1,20 +1,22 @@
 ---
-title: "Angus ・ ウィリアムズ | Angus ・ ウィリアムズ"
-name_en: "Angus ・ ウィリアムズ"
-name_ja: "Angus ・ ウィリアムズ"
+title: "Angus WILLIAMS | アンガス・ウィリアムズ"
+name_en: "Angus WILLIAMS"
+name_ja: "アンガス・ウィリアムズ"
 slug: "angus-williams"
 position: "PR"
 height: "180.0"
 weight: "117.0"
 birth_date: "1993.11.11"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🇳🇿 New Zealand代表 (71 caps)"
-scraped_url: "https://all.rugby/player/angus-williams"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Otago (2018 - 2019) -> Edimbourg Rugby (2020 - 2026)
+

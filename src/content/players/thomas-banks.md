@@ -7,12 +7,14 @@ position: "FB"
 height: "186.0"
 weight: "93.0"
 birth_date: "1994.06.18"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/thomas-banks"
 ---
 

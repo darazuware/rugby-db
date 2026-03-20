@@ -7,12 +7,14 @@ position: "PR"
 height: "195.0"
 weight: "125.0"
 birth_date: "1992.04.19"
-age: 33
+age: 33.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
+league: "nan"
+team: "Blues"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ofa-tu-ungafasi"
 ---
 

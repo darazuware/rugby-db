@@ -1,20 +1,22 @@
 ---
-title: "Jan ・ SERFONTEIN | Jan ・ SERFONTEIN"
-name_en: "Jan ・ SERFONTEIN"
-name_ja: "Jan ・ SERFONTEIN"
+title: "Jan SERFONTEIN | ヤン-サーフォンテイン"
+name_en: "Jan SERFONTEIN"
+name_ja: "ヤン-サーフォンテイン"
 slug: "jan-serfontein"
 position: "CTB"
 height: "187.0"
 weight: "97.0"
 birth_date: "1993.04.15"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/jan-serfontein"
+team: "Bulls"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Bulls (2012 - 2017) -> Montpellier Hérault Rugby (2017 - 2025) -> Bulls (2025 - 2026)
+South Africa

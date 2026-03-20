@@ -1,20 +1,22 @@
 ---
-title: "Matty ・ YOUNG | Matty ・ YOUNG"
-name_en: "Matty ・ YOUNG"
-name_ja: "Matty ・ YOUNG"
+title: "Matty YOUNG | マティ・ヤング"
+name_en: "Matty YOUNG"
+name_ja: "マティ・ヤング"
 slug: "matty-young"
 position: "FB"
 height: "183.0"
 weight: "82.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/matty-young"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2023 - 2026)
+

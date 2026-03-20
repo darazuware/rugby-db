@@ -1,20 +1,22 @@
 ---
-title: "Roberto ・ FASTI | Roberto ・ FASTI"
-name_en: "Roberto ・ FASTI"
-name_ja: "Roberto ・ FASTI"
+title: "Roberto FASTI | ロベルト・ファスティ"
+name_en: "Roberto FASTI"
+name_ja: "ロベルト・ファスティ"
 slug: "roberto-fasti"
 position: "SO"
 height: "176.0"
 weight: "83.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "ベネットン・ラグビー・トレヴィーゾ"
-caps: "0"
-scraped_url: "https://all.rugby/player/roberto-fasti"
+league: "nan"
+team: "Trévise"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Rugby Casale (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+

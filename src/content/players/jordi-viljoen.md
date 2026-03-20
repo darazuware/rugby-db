@@ -7,12 +7,14 @@ position: "SH"
 height: "169.0"
 weight: "76.0"
 birth_date: "2003.10.14"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェリントン・ハリケーンズ"
-caps: "0"
+league: "nan"
+team: "Hurricanes"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jordi-viljoen"
 ---
 

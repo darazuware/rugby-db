@@ -1,20 +1,22 @@
 ---
-title: "Freddy ・ DOUGLAS | Freddy ・ DOUGLAS"
-name_en: "Freddy ・ DOUGLAS"
-name_ja: "Freddy ・ DOUGLAS"
+title: "Freddy DOUGLAS | フレディー・ダグラス"
+name_en: "Freddy DOUGLAS"
+name_ja: "フレディー・ダグラス"
 slug: "freddy-douglas"
-position: "Back row"
+position: "FL/No8"
 height: "185.0"
 weight: "95.0"
 birth_date: "2005.."
-age: 21
+age: 21.0
 country: ""
 birth_place_scraped: ""
-league: "urc"
-team: "エディンバラ・ラグビー"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
-scraped_url: "https://all.rugby/player/freddy-douglas"
+league: "nan"
+team: "Edimbourg"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2023 - 2026)
+Scotland

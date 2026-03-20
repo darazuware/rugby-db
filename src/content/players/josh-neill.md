@@ -1,20 +1,22 @@
 ---
-title: "ジョシュ ・ NEILL | ジョシュ ・ NEILL"
-name_en: "ジョシュ ・ NEILL"
-name_ja: "ジョシュ ・ NEILL"
+title: "Josh NEILL | ジョシュ・ニール"
+name_en: "Josh NEILL"
+name_ja: "ジョシュ・ニール"
 slug: "josh-neill"
-position: "Back row"
-height: "0"
-weight: "0"
+position: "FL/No8"
+height: "nan"
+weight: "nan"
 birth_date: "2007.."
-age: 19
+age: 19.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "レンスター・ラグビー"
-caps: "🇿🇦 South Africa"
-scraped_url: "https://all.rugby/player/josh-neill"
+team: "Leinster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Rondebosch Boys’ High School (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+South Africa

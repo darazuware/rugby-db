@@ -7,12 +7,14 @@ position: "CTB"
 height: "190.0"
 weight: "101.0"
 birth_date: "1999.04.30"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇼🇸 Samoa代表 (26 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/dallas-mcleod"
 ---
 

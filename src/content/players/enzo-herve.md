@@ -7,12 +7,14 @@ position: "SO"
 height: "176.0"
 weight: "94.0"
 birth_date: "1998.10.13"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/enzo-herve"
 ---
 

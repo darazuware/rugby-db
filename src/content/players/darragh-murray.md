@@ -1,20 +1,22 @@
 ---
-title: "ダラ ・ MURRAY | ダラ ・ MURRAY"
-name_en: "ダラ ・ MURRAY"
-name_ja: "ダラ ・ MURRAY"
+title: "Darragh MURRAY | ダラ・マレー"
+name_en: "Darragh MURRAY"
+name_ja: "ダラ・マレー"
 slug: "darragh-murray"
 position: "LO"
 height: "200.0"
 weight: "115.0"
 birth_date: "2001.07.04"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "コナート・ラグビー"
-caps: "Call-ups代表 (0 caps)"
-scraped_url: "https://all.rugby/player/darragh-murray"
+team: "Connacht"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2020 - 2026)
+

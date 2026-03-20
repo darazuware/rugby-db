@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "196.0"
 weight: "107.0"
 birth_date: "2002.01.22"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/killian-tixeront"
 ---
 

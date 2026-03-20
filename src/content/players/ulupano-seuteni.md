@@ -7,12 +7,14 @@ position: "CTB"
 height: "185.0"
 weight: "100.0"
 birth_date: "1993.12.09"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/ulupano-seuteni"
 ---
 

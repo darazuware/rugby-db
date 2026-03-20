@@ -7,12 +7,14 @@ position: "LO"
 height: "198.0"
 weight: "118.0"
 birth_date: "2000.01.27"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ワイカト・チーフス"
+league: "nan"
+team: "Chiefs"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tupou-va-ai"
 ---
 

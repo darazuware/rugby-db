@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "112.0"
 birth_date: "1999.05.29"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"
 caps: "🇫🇷 France"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jean-baptiste-gros"
 ---
 

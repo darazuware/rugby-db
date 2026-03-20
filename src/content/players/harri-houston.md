@@ -1,20 +1,22 @@
 ---
-title: "Harri ・ HOUSTON | Harri ・ HOUSTON"
-name_en: "Harri ・ HOUSTON"
-name_ja: "Harri ・ HOUSTON"
+title: "Harri HOUSTON | ハリー-ヒューストン"
+name_en: "Harri HOUSTON"
+name_ja: "ハリー-ヒューストン"
 slug: "harri-houston"
-position: "Winger"
+position: "WTB"
 height: "178.0"
 weight: "82.0"
 birth_date: "2003.11.27"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "オスプリーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/harri-houston"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ospreys (2021 - 2026)
+

@@ -7,12 +7,14 @@ position: "SH"
 height: "173.0"
 weight: "88.0"
 birth_date: "1996.01.02"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Canada代表 (8 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/james-hall-1996"
 ---
 

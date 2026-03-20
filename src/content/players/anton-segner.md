@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "192.0"
 weight: "108.0"
 birth_date: "2001.07.24"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/anton-segner"
 ---
 

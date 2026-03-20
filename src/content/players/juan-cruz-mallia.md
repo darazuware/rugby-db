@@ -7,12 +7,14 @@ position: "FB"
 height: "182.0"
 weight: "92.0"
 birth_date: "1996.09.11"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/juan-cruz-mallia"
 ---
 

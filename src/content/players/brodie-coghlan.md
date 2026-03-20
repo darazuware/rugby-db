@@ -1,20 +1,22 @@
 ---
-title: "Brodie ・ COGHLAN | Brodie ・ COGHLAN"
-name_en: "Brodie ・ COGHLAN"
-name_ja: "Brodie ・ COGHLAN"
+title: "Brodie COGHLAN | ブロディー・コグラン"
+name_en: "Brodie COGHLAN"
+name_ja: "ブロディー・コグラン"
 slug: "brodie-coghlan"
 position: "HO"
 height: "183.0"
 weight: "112.0"
 birth_date: "2000.12.21"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ドラゴンズ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/brodie-coghlan"
+team: "Dragons"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2021 - 2026)
+

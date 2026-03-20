@@ -55,7 +55,9 @@ def deduplicate():
         'リーグ': 'League',
         '代表キャップ数': 'Representative_Caps',
         'Scraped_Url': 'Scraped_Url',
-        'キャリア遍歴': 'キャリア遍歴'
+        'キャリア遍歴': 'キャリア遍歴',
+        '高校': 'High_School',
+        '大学': 'University'
     }
     df = df.rename(columns=column_map)
     print(f"Normalized columns: {df.columns.tolist()}")
@@ -72,8 +74,7 @@ def deduplicate():
 
     # 2. 年齢の再計算
     def update_age(row):
-        # 両方の可能性を考慮 (念のため)
-        b_date = row.get('Birth_Date') or row.get('生年月日')
+        b_date = row.get('Birth_Date')
         age = calculate_age(b_date)
         if age is not None:
             return age
@@ -93,7 +94,7 @@ def deduplicate():
         with_url = df[mask].copy()
         no_url = df[~mask].copy()
 
-        # URL ごとにグループ化し、欠損値が最も少ない行を選択 (最新情報を優先するため keep='last')
+        # URL ごとにグループ化し、欠損値が最も少ない行を選択
         deduped_with_url = with_url.sort_values('nan_count', ascending=False).drop_duplicates(subset=['Scraped_Url'], keep='last')
         
         final_df = pd.concat([deduped_with_url, no_url], ignore_index=True)
@@ -105,7 +106,11 @@ def deduplicate():
     print(f"Deduped row count: {len(final_df)}")
     
     # 保存 (カラム順序を固定)
-    cols_order = ['Player_Name', 'Full_Name', '選手名_カタカナ', 'Position', 'Current_Team', 'League', 'Height', 'Weight', 'Birth_Date', 'Age', 'Representative_Caps', 'Scraped_Url', 'キャリア遍歴']
+    cols_order = [
+        'Player_Name', 'Full_Name', '選手名_カタカナ', 'Position', 'Current_Team', 'League', 
+        'Height', 'Weight', 'Birth_Date', 'Age', 'Representative_Caps', 'Scraped_Url', 
+        'キャリア遍歴', 'High_School', 'University'
+    ]
     existing_cols = [c for c in cols_order if c in final_df.columns]
     final_df = final_df[existing_cols]
 

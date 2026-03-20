@@ -7,12 +7,14 @@ position: "PR"
 height: "187.0"
 weight: "118.0"
 birth_date: "1989.06.13"
-age: 36
+age: 36.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/antoine-tichit"
 ---
 

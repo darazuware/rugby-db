@@ -7,12 +7,14 @@ position: "PR"
 height: "184.0"
 weight: "120.0"
 birth_date: "1991.05.05"
-age: 34
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/will-collier"
 ---
 

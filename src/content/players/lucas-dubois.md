@@ -7,12 +7,14 @@ position: "FB"
 height: "188.0"
 weight: "92.0"
 birth_date: "1998.06.09"
-age: 27
+age: 27.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/lucas-dubois"
 ---
 

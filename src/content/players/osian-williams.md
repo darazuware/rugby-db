@@ -1,20 +1,22 @@
 ---
-title: "Osian ・ ウィリアムズ | Osian ・ ウィリアムズ"
-name_en: "Osian ・ ウィリアムズ"
-name_ja: "Osian ・ ウィリアムズ"
+title: "Osian WILLIAMS | オシアン・ウィリアムズ"
+name_en: "Osian WILLIAMS"
+name_ja: "オシアン・ウィリアムズ"
 slug: "osian-williams"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "106.0"
 birth_date: "2006.."
-age: 20
+age: 20.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
-caps: "0"
-scraped_url: "https://all.rugby/player/osian-williams"
+team: "Scarlets"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+

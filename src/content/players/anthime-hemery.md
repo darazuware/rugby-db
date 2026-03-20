@@ -7,12 +7,14 @@ position: "FL/NO8"
 height: "187.0"
 weight: "111.0"
 birth_date: "2001.01.09"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "クレルモン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/anthime-hemery"
 ---
 

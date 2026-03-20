@@ -7,12 +7,14 @@ position: "SH"
 height: "175.0"
 weight: "76.0"
 birth_date: "1998.01.14"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/gela-aprasidze"
 ---
 

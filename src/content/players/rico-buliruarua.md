@@ -7,12 +7,14 @@ position: "CTB"
 height: "186.0"
 weight: "106.0"
 birth_date: "1997.01.23"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/rico-buliruarua"
 ---
 

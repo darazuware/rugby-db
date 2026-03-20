@@ -7,12 +7,14 @@ position: "WTB"
 height: "191.0"
 weight: "96.0"
 birth_date: "1990.09.24"
-age: 35
+age: 35.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/johnny-mcnicholl"
 ---
 

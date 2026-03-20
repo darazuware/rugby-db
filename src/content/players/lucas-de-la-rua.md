@@ -1,20 +1,22 @@
 ---
-title: "Lucas ・ デ ・ LA ・ RUA | Lucas ・ デ ・ LA ・ RUA"
-name_en: "Lucas ・ デ ・ LA ・ RUA"
-name_ja: "Lucas ・ デ ・ LA ・ RUA"
+title: "Lucas DE LA RUA | ルカス・デ・ラ・ルーア"
+name_en: "Lucas DE LA RUA"
+name_ja: "ルカス・デ・ラ・ルーア"
 slug: "lucas-de-la-rua"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "104.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "カーディフ・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/lucas-de-la-rua"
+team: "Cardiff"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2022 - 2026)
+

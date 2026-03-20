@@ -7,12 +7,14 @@ position: "PR"
 height: "187.0"
 weight: "126.0"
 birth_date: "1995.08.20"
-age: 30
+age: 30.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
 caps: "Georgia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nika-abuladze"
 ---
 

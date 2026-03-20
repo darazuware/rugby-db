@@ -1,18 +1,20 @@
 ---
-title: "Mornay ・ スミス | Mornay ・ スミス"
-name_en: "Mornay ・ スミス"
+title: "Mornay SMITH | Mornay ・ スミス"
+name_en: "Mornay SMITH"
 name_ja: "Mornay ・ スミス"
 slug: "morne-smith"
 position: "PR"
 height: "181.0"
 weight: "119.0"
 birth_date: "1998.01.30"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "ヴォーダコム・ブルズ"
+team: "Bulls"
 caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (39 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/morne-smith"
 ---
 

@@ -7,12 +7,14 @@ position: "LO"
 height: "199.0"
 weight: "115.0"
 birth_date: "1994.03.07"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/matt-philip"
 ---
 

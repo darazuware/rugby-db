@@ -1,20 +1,22 @@
 ---
-title: "Wilhelm ・ デ ・ デクラーク | Wilhelm ・ デ ・ デクラーク"
-name_en: "Wilhelm ・ デ ・ デクラーク"
-name_ja: "Wilhelm ・ デ ・ デクラーク"
+title: "Wilhelm DE KLERK | ヴィルヘルム-デ・クラーク"
+name_en: "Wilhelm DE KLERK"
+name_ja: "ヴィルヘルム-デ・クラーク"
 slug: "wilhelm-de-klerk"
 position: "CTB"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/wilhelm-de-klerk"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-University College Dublin (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+

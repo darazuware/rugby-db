@@ -1,0 +1,22 @@
+---
+title: "Henry WALKER | ヘンリー・ウォーカー"
+name_en: "Henry WALKER"
+name_ja: "ヘンリー・ウォーカー"
+slug: "henry-walker"
+position: "HO"
+height: "187.0"
+weight: "100.0"
+birth_date: "2005.."
+age: 21.0
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

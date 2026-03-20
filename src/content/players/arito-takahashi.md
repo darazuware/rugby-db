@@ -1,0 +1,22 @@
+---
+title: "Arito Takahashi | 高橋 在人"
+name_en: "Arito Takahashi"
+name_ja: "高橋 在人"
+slug: "arito-takahashi"
+position: "FL/No8"
+height: "184.0"
+weight: "104.0"
+birth_date: "1997.01.09"
+age: 29.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "日野レッドドルフィンズ（2025-26）"
+caps: ""
+high_school: "大阪桐蔭高校"
+university: "大阪体育大学"
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

@@ -1,20 +1,22 @@
 ---
-title: "Mfundo ・ NDHLOVU | Mfundo ・ NDHLOVU"
-name_en: "Mfundo ・ NDHLOVU"
-name_ja: "Mfundo ・ NDHLOVU"
+title: "Mfundo NDHLOVU | ムフンド・ンドロヴ"
+name_en: "Mfundo NDHLOVU"
+name_ja: "ムフンド・ンドロヴ"
 slug: "mfundo-ndhlovu"
-position: "Winger"
+position: "WTB"
 height: "178.0"
 weight: "84.0"
 birth_date: "1997.04.05"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "DHLストーマーズ"
-caps: "0"
-scraped_url: "https://all.rugby/player/mfundo-ndhlovu"
+team: "Stormers"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-AF. SUD 7's (2017 - 2025) -> Stormers (2025 - 2026)
+

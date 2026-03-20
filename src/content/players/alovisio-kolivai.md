@@ -7,12 +7,14 @@ position: "PR"
 height: "178.0"
 weight: "115.0"
 birth_date: "2004.02.23"
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/alovisio-kolivai"
 ---
 

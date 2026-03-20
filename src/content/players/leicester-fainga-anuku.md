@@ -7,12 +7,14 @@ position: "WTB"
 height: "189.0"
 weight: "109.0"
 birth_date: "1999.10.11"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇹🇴 Tonga"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/leicester-fainga-anuku"
 ---
 

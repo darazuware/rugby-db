@@ -7,12 +7,14 @@ position: "SO"
 height: "181.0"
 weight: "85.0"
 birth_date: "1997.03.12"
-age: 29
+age: 29.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オークランド・ブルーズ"
-caps: "0"
+league: "nan"
+team: "Blues"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/stephen-perofeta"
 ---
 

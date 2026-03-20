@@ -7,12 +7,14 @@ position: "PR"
 height: "194.0"
 weight: "120.0"
 birth_date: "2000.12.28"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "フィジアン・ドゥルア"
+league: "nan"
+team: "Fijian Drua"
 caps: "🇫🇯 Fiji代表 (0 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/emosi-tuqiri"
 ---
 

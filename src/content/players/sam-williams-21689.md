@@ -1,18 +1,20 @@
 ---
-title: "サム ・ ウィリアムズ | サム ・ ウィリアムズ"
-name_en: "サム ・ ウィリアムズ"
+title: "Sam WILLIAMS | サム ・ ウィリアムズ"
+name_en: "Sam WILLIAMS"
 name_ja: "サム ・ ウィリアムズ"
 slug: "sam-williams-21689"
 position: "LO"
-height: "0"
-weight: "0"
-birth_date: ""
+height: "nan"
+weight: "nan"
+birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "スカーレッツ"
+team: "Scarlets"
 caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (32 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/sam-williams-21689"
 ---
 

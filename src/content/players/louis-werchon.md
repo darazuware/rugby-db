@@ -7,12 +7,14 @@ position: "SH"
 height: "178.0"
 weight: "85.0"
 birth_date: "2002.10.25"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "クイーンズランド・レッズ"
-caps: "0"
+league: "nan"
+team: "Reds"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/louis-werchon"
 ---
 

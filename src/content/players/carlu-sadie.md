@@ -7,12 +7,14 @@ position: "PR"
 height: "182.0"
 weight: "138.0"
 birth_date: "1997.05.07"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ボルドー・ベグル"
 caps: "🇫🇷 France代表 (9 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/carlu-sadie"
 ---
 

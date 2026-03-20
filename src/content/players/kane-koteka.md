@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "182.0"
 weight: "100.0"
 birth_date: "1994.01.08"
-age: 32
+age: 32.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
-caps: "0"
+league: "nan"
+team: "Western Force"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/kane-koteka"
 ---
 

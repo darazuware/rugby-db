@@ -1,0 +1,22 @@
+---
+title: "Sebasstian Sialau | セバスチャン ・シアラウ"
+name_en: "Sebasstian Sialau"
+name_ja: "セバスチャン ・シアラウ"
+slug: "sebasstian-sialau"
+position: "SO"
+height: "180.0"
+weight: "88.0"
+birth_date: "2003.12.20"
+age: 22.0
+country: ""
+birth_place_scraped: ""
+league: "nan"
+team: "中国電力レッドレグリオンズ（2025-26）"
+caps: ""
+high_school: "トゥウンバ文法学校"
+university: ""
+scraped_url: "nan"
+---
+
+## キャリア遍歴
+

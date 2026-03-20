@@ -4,15 +4,17 @@ name_en: "Liam JACK"
 name_ja: "リアム・ジャック"
 slug: "liam-jack"
 position: "LO"
-height: "0"
-weight: "0"
+height: "nan"
+weight: "nan"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
-caps: "0"
+league: "nan"
+team: "Crusaders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/liam-jack"
 ---
 

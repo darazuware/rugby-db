@@ -7,12 +7,14 @@ position: "FB"
 height: "188.0"
 weight: "94.0"
 birth_date: "1998.02.24"
-age: 28
+age: 28.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "カンタベリー・クルセイダーズ"
+league: "nan"
+team: "Crusaders"
 caps: "🇳🇿 New Zealand"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/will-jordan"
 ---
 

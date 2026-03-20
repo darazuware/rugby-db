@@ -7,12 +7,14 @@ position: "SH"
 height: "175.0"
 weight: "79.0"
 birth_date: "1999.09.09"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/leo-coly"
 ---
 

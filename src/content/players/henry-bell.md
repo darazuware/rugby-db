@@ -7,12 +7,14 @@ position: "HO"
 height: "178.0"
 weight: "107.0"
 birth_date: "1999.08.22"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/henry-bell"
 ---
 

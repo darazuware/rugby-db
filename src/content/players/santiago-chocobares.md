@@ -7,12 +7,14 @@ position: "CTB"
 height: "188.0"
 weight: "100.0"
 birth_date: "1999.03.31"
-age: 26
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"
 caps: "🇦🇷 Argentina"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/santiago-chocobares"
 ---
 

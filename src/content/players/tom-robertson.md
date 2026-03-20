@@ -7,12 +7,14 @@ position: "PR"
 height: "181.0"
 weight: "113.0"
 birth_date: "1994.08.28"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "ウェスタン・フォース"
+league: "nan"
+team: "Western Force"
 caps: "🇦🇺 Australia"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/tom-robertson"
 ---
 

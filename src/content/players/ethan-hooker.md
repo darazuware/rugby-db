@@ -1,20 +1,22 @@
 ---
-title: "Ethan ・ HOOKER | Ethan ・ HOOKER"
-name_en: "Ethan ・ HOOKER"
-name_ja: "Ethan ・ HOOKER"
+title: "Ethan HOOKER | イーサン・フッカー"
+name_en: "Ethan HOOKER"
+name_ja: "イーサン・フッカー"
 slug: "ethan-hooker"
-position: "Winger"
+position: "WTB"
 height: "193.0"
 weight: "100.0"
 birth_date: "2003.01.20"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "マイアミ・シャークス"
-caps: "0"
-scraped_url: "https://all.rugby/player/ethan-hooker"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Sharks (2022 - 2026)
+

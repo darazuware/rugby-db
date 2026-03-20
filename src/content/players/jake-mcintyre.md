@@ -7,12 +7,14 @@ position: "SO"
 height: "177.0"
 weight: "88.0"
 birth_date: "1994.04.28"
-age: 31
+age: 31.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jake-mcintyre"
 ---
 

@@ -7,12 +7,14 @@ position: "FL/No8"
 height: "188.0"
 weight: "105.0"
 birth_date: "2001.09.05"
-age: 24
+age: 24.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "オタゴ・ハイランダーズ"
-caps: "0"
+league: "nan"
+team: "Highlanders"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/nikora-broughton"
 ---
 

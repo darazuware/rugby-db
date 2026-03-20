@@ -1,20 +1,22 @@
 ---
-title: "Joe ・ HOPES | Joe ・ HOPES"
-name_en: "Joe ・ HOPES"
-name_ja: "Joe ・ HOPES"
+title: "Joe HOPES | ジョー・ホープス"
+name_en: "Joe HOPES"
+name_ja: "ジョー・ホープス"
 slug: "joe-hopes"
 position: "LO"
 height: "200.0"
 weight: "115.0"
-birth_date: "2004.03.16"
-age: 22
+birth_date: "2004.."
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "urc"
-team: "アルスター・ラグビー"
-caps: "0"
-scraped_url: "https://all.rugby/player/joe-hopes"
+team: "Ulster"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2022 - 2026)
+

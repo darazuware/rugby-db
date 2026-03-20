@@ -7,12 +7,14 @@ position: "WTB"
 height: "187.0"
 weight: "94.0"
 birth_date: "2000.05.18"
-age: 25
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/aaron-grandidier"
 ---
 

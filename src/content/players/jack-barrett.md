@@ -7,12 +7,14 @@ position: "PR"
 height: "185.0"
 weight: "111.0"
 birth_date: "2004.."
-age: 22
+age: 22.0
 country: ""
 birth_place_scraped: ""
-league: ""
-team: "NSWワラタス（ワラターズ）"
+league: "nan"
+team: "Waratahs"
 caps: "🇳🇿 New Zealand代表 (52 caps)"
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/jack-barrett"
 ---
 

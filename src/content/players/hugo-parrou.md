@@ -7,12 +7,14 @@ position: "PR"
 height: "183.0"
 weight: "110.0"
 birth_date: "2003.01.28"
-age: 23
+age: 23.0
 country: ""
 birth_place_scraped: ""
 league: "top14"
 team: "ポー"
-caps: "0"
+caps: ""
+high_school: ""
+university: ""
 scraped_url: "https://all.rugby/player/hugo-parrou"
 ---
 
