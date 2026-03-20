@@ -21,16 +21,20 @@ const isLeagueOne =
 const isJapanese = entry.data.country === "日本";
 const isForeign = entry.data.country && entry.data.country !== "日本";
 
+// 漢字が含まれているか、日本の学校出身かを確認
+const hasKanji = entry.data.name_ja && /[\u4E00-\u9FFF]/.test(entry.data.name_ja);
+const hasJapaneseSchool = (entry.data.high_school || "").includes("高校") || (entry.data.university || "").includes("大学");
+
 // 日本語を優先（メインに表示）するかどうかの判定
-// 日本人選手、または国籍不明でLeague One所属の場合は日本語メイン
-const prefersJapaneseMain = isJapanese || (!isForeign && isLeagueOne);
+// 日本人選手、または国籍不明で日本の学校出身、またはLeague One所属の場合は日本語メイン
+const prefersJapaneseMain = isJapanese || hasKanji || (hasJapaneseSchool && !isForeign) || (!isForeign && isLeagueOne);
 
 const mainName = prefersJapaneseMain
-  ? entry.data.title
-  : entry.data.name_en || entry.data.title;
+  ? (entry.data.name_ja || entry.data.title)
+  : (entry.data.name_en || entry.data.title);
 const subName = prefersJapaneseMain
-  ? entry.data.name_en || entry.data.title
-  : entry.data.title;
+  ? (entry.data.name_en || entry.data.title)
+  : (entry.data.name_ja || entry.data.title);
 const showSub = subName && subName !== mainName;
 
 const FLAG_MAP: Record<string, string> = {

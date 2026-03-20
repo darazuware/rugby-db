@@ -5,6 +5,7 @@ interface Player {
     data: {
         title: string;
         name_en?: string;
+        name_ja?: string;
         position?: string;
         team?: string;
         age?: number | null;
@@ -816,11 +817,15 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                                         const isPJapanese = player.data.country === '日本';
                                         const isPForeign = player.data.country && player.data.country !== '日本';
                                         
-                                        // 日本語を優先（メインに表示）するかどうかの判定
-                                        const prefersPJapaneseMain = isPJapanese || (!isPForeign && isPLeagueOne);
+                                        // 漢字が含まれているか、日本の学校出身かを確認
+                                        const hasKanji = player.data.name_ja && /[\u4E00-\u9FFF]/.test(player.data.name_ja);
+                                        const hasJapaneseSchool = (player.data.high_school || "").includes("高校") || (player.data.university || "").includes("大学");
 
-                                        const pMainName = prefersPJapaneseMain ? player.data.title : (player.data.name_en || player.data.title);
-                                        const pSubName = prefersPJapaneseMain ? (player.data.name_en || player.data.title) : player.data.title;
+                                        // 日本語を優先（メインに表示）するかどうかの判定
+                                        const prefersPJapaneseMain = isPJapanese || hasKanji || (hasJapaneseSchool && !isPForeign) || (!isPForeign && isPLeagueOne);
+
+                                        const pMainName = prefersPJapaneseMain ? (player.data.name_ja || player.data.title) : (player.data.name_en || player.data.title);
+                                        const pSubName = prefersPJapaneseMain ? (player.data.name_en || player.data.title) : (player.data.name_ja || player.data.title);
                                         const showPSub = pSubName && pSubName !== pMainName;
 
                                         return (

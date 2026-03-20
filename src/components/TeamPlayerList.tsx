@@ -300,11 +300,15 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                 const isItemJapanese = player.data.country === '日本';
                                 const isItemForeign = player.data.country && player.data.country !== '日本';
                                 
-                                // 日本語を優先（メインに表示）するかどうかの判定
-                                const prefersItemJapaneseMain = isItemJapanese || (!isItemForeign && isItemLeagueOne);
+                                // 漢字が含まれているか、日本の学校出身かを確認
+                                const hasKanji = player.data.title && /[\u4E00-\u9FFF]/.test(player.data.title);
+                                const hasJapaneseSchool = (player.data.high_school || "").includes("高校") || (player.data.university || "").includes("大学");
 
-                                const itemMainName = prefersItemJapaneseMain ? player.data.title : (player.data.name_en || player.data.title);
-                                const itemSubName = prefersItemJapaneseMain ? (player.data.name_en || player.data.title) : player.data.title;
+                                // 日本語を優先（メインに表示）するかどうかの判定
+                                const prefersItemJapaneseMain = isItemJapanese || hasKanji || (hasJapaneseSchool && !isItemForeign) || (!isItemForeign && isItemLeagueOne);
+
+                                const itemMainName = prefersItemJapaneseMain ? (player.data.title.includes('|') ? player.data.title.split('|')[1].trim() : player.data.title) : (player.data.name_en || player.data.title);
+                                const itemSubName = prefersItemJapaneseMain ? (player.data.name_en || player.data.title) : (player.data.title.includes('|') ? player.data.title.split('|')[1].trim() : player.data.title);
                                 const showItemSub = itemSubName && itemSubName !== itemMainName;
 
                                 return (
