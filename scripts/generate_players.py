@@ -36,7 +36,20 @@ def generate_markdown(row, index):
     birth_date = clean_val(row.get('Birth_Date', '') or row.get('生年月日', ''))
     age = row.get('Age', '')
     nationality = clean_val(row.get('Nationality', '') or row.get('国籍', ''))
-    league = clean_val(row.get('League', '') or row.get('リーグ', ''))
+    league_raw = clean_val(row.get('League', '') or row.get('リーグ', ''))
+    
+    # リーグ名の正規化 (Astro 側の URL/slug 形式に統一)
+    league_map = {
+        'League One': 'league-one',
+        'LeagueOne': 'league-one',
+        'Super Rugby': 'super-rugby',
+        'Top 14': 'top14',
+        'Top14': 'top14',
+        'URC': 'urc',
+        'MLR': 'mlr',
+        'Premiership': 'premiership'
+    }
+    league = league_map.get(league_raw, league_raw.lower().replace(' ', '-'))
     
     # チーム名の正規化 (team_utils を使用)
     from team_utils import get_team_info
@@ -60,6 +73,9 @@ def generate_markdown(row, index):
     # 出身地データ (マージ後の列)
     birthplace = clean_val(row.get('birth_place_scraped', ''))
     
+    if "beauden-barrett" in str(slug).lower() or "beauden" in name_en.lower():
+        print(f"DEBUG [Beauden]: slug={slug}, team={current_team}, league={league}, url={scraped_url}")
+
     if "zander-fagerson" in str(scraped_url).lower():
         print(f"DEBUG [Zander]: slug={slug}, birthplace={birthplace}, team={current_team}, url={scraped_url}")
 

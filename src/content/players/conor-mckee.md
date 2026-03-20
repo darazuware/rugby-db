@@ -7,7 +7,7 @@ position: "SH"
 height: "183.0"
 weight: "87.0"
 birth_date: "2001.03.20"
-age: 24
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "urc"

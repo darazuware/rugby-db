@@ -517,9 +517,9 @@
     "league": "mlr"
   },
   {
-    "team_name": "ヒューストン・セイバーキャッツ",
-    "team_en_name": "Houston SaberCats",
-    "slug": "houston-sabercats",
+    "team_name": "RFCロサンゼルス",
+    "team_en_name": "RFCLA",
+    "slug": "rfcla",
     "league": "mlr"
   },
   {
@@ -529,21 +529,21 @@
     "league": "mlr"
   },
   {
-    "team_name": "RFCロサンゼルス",
-    "team_en_name": "RFCLA",
-    "slug": "rfcla",
-    "league": "mlr"
-  },
-  {
-    "team_name": "シカゴ・ハウンズ",
-    "team_en_name": "Chicago Hounds",
-    "slug": "chicago-hounds",
+    "team_name": "ヒューストン・セイバーキャッツ",
+    "team_en_name": "Houston SaberCats",
+    "slug": "houston-sabercats",
     "league": "mlr"
   },
   {
     "team_name": "シアトル・シーウルブズ",
     "team_en_name": "Seattle Seawolves",
     "slug": "seattle-seawolves",
+    "league": "mlr"
+  },
+  {
+    "team_name": "シカゴ・ハウンズ",
+    "team_en_name": "Chicago Hounds",
+    "slug": "chicago-hounds",
     "league": "mlr"
   }
 ]

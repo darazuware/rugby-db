@@ -3,7 +3,8 @@ import numpy as np
 from datetime import datetime
 import os
 
-CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
+INPUT_CSV_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
+OUTPUT_CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
 BACKUP_PATH = 'data_sources/final_master_data_v27_normalized.csv.bak'
 
 def calculate_age(birth_date_str):
@@ -27,16 +28,17 @@ def calculate_age(birth_date_str):
         return None
 
 def deduplicate():
-    if not os.path.exists(CSV_PATH):
-        print(f"File not found: {CSV_PATH}")
+    if not os.path.exists(INPUT_CSV_PATH):
+        print(f"File not found: {INPUT_CSV_PATH}")
         return
 
-    # Backup
-    import shutil
-    shutil.copy2(CSV_PATH, BACKUP_PATH)
-    print(f"Backup created: {BACKUP_PATH}")
+    # Backup existing output if it exists
+    if os.path.exists(OUTPUT_CSV_PATH):
+        import shutil
+        shutil.copy2(OUTPUT_CSV_PATH, BACKUP_PATH)
+        print(f"Backup created: {BACKUP_PATH}")
 
-    df = pd.read_csv(CSV_PATH)
+    df = pd.read_csv(INPUT_CSV_PATH)
     print(f"Original row count: {len(df)}")
     print(f"Original columns: {df.columns.tolist()}")
 
@@ -75,7 +77,7 @@ def deduplicate():
         no_url = df[~mask].copy()
 
         # URL ごとにグループ化し、欠損値が最も少ない行を選択
-        deduped_with_url = with_url.sort_values('nan_count').drop_duplicates(subset=['Scraped_Url'], keep='first')
+        deduped_with_url = with_url.sort_values('nan_count').drop_duplicates(subset=['Scraped_Url'], keep='last')
         
         # 最終的なマージ
         final_df = pd.concat([deduped_with_url, no_url], ignore_index=True)
@@ -92,8 +94,8 @@ def deduplicate():
     existing_cols = [c for c in cols_order if c in final_df.columns]
     final_df = final_df[existing_cols]
 
-    final_df.to_csv(CSV_PATH, index=False)
-    print(f"Saved to {CSV_PATH}")
+    final_df.to_csv(OUTPUT_CSV_PATH, index=False)
+    print(f"Saved to {OUTPUT_CSV_PATH}")
 
 if __name__ == "__main__":
     deduplicate()
