@@ -30,8 +30,8 @@ const league = team.league;
 // チーム情報のマッピングを取得する共通関数
 const getTeamMapping = (teamName: string) => {
     const leagueMapping = (teamNamesJp as any)[league || ""] || {};
-    // 1. 正式名で直接検索
-    if (leagueMapping[teamName]) return leagueMapping[teamName];
+    // 1. 正式名（English Key）で直接検索
+    if (leagueMapping[teamName]) return { ...leagueMapping[teamName], formalName: teamName };
     // 2. エイリアス、日本語名、または短縮日本語名で全体検索
     for (const formalName in leagueMapping) {
         const data = leagueMapping[formalName];
@@ -45,7 +45,7 @@ const getTeamMapping = (teamName: string) => {
             formalName.includes(teamName) ||
             teamName.includes(formalName)
         ) {
-            return data;
+            return { ...data, formalName };
         }
     }
     return null;
@@ -117,10 +117,17 @@ const teamPlayers = allPlayers
         const tName = normalize(team.team_name);
         const tEnName = normalize(team.team_en_name);
         const tDisplay = normalize(teamNameDisplay);
+        const formalName = mapping ? normalize(mapping.formalName) : "";
+        const aliases = (mapping?.aliases || []).map((a: string) => normalize(a));
 
-        // 2. 正規化後の完全一致 (日本語名、英語名、マッピング表示名)
-        if (pTeam === tName || pTeam === tEnName || pTeam === tDisplay)
-            return true;
+        // 2. 正規化後の完全一致 (日本語名、英語名、正式名、マッピング表示名、エイリアス)
+        if (
+            pTeam === tName || 
+            pTeam === tEnName || 
+            pTeam === tDisplay || 
+            pTeam === formalName ||
+            aliases.includes(pTeam)
+        ) return true;
 
         // 3. 部分一致による補完（特に海外リーグの表記揺れ対応）
         if (tName && (pTeam.includes(tName) || tName.includes(pTeam)))
@@ -132,6 +139,8 @@ const teamPlayers = allPlayers
         )
             return true;
         if (tDisplay && (pTeam.includes(tDisplay) || tDisplay.includes(pTeam)))
+            return true;
+        if (formalName && formalName.length > 5 && (pTeam.includes(formalName) || formalName.includes(pTeam)))
             return true;
 
         return false;
