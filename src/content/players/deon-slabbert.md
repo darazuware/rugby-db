@@ -7,7 +7,7 @@ position: "LO"
 height: "200.0"
 weight: "117.0"
 birth_date: "2000.05.04"
-age: 25.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"

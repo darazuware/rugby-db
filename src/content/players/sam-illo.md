@@ -7,7 +7,7 @@ position: "PR"
 height: "185.0"
 weight: "121.0"
 birth_date: "2001.02.16"
-age: 25.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"

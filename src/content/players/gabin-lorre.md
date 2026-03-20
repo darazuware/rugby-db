@@ -7,7 +7,7 @@ position: "FB"
 height: "182.0"
 weight: "82.0"
 birth_date: "2001.12.23"
-age: 24.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "top14"

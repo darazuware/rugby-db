@@ -7,7 +7,7 @@ position: "SH"
 height: "179.0"
 weight: "86.0"
 birth_date: "1998.12.13"
-age: 27.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

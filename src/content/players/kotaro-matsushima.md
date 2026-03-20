@@ -7,7 +7,7 @@ position: "FB"
 height: "178.0"
 weight: "88.0"
 birth_date: "1993.02.26"
-age: 33.0
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

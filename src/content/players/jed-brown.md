@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "185.0"
 weight: "100.0"
 birth_date: "1991.03.12"
-age: 35.0
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

@@ -7,7 +7,7 @@ position: "CTB"
 height: "180.0"
 weight: "97.0"
 birth_date: "1993.03.14"
-age: 33.0
+age: 32.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

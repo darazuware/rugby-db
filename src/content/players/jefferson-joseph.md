@@ -7,7 +7,7 @@ position: "WTB"
 height: "192.0"
 weight: "90.0"
 birth_date: "2002.08.28"
-age: 23.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "top14"

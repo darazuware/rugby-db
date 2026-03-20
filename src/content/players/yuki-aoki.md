@@ -7,7 +7,7 @@ position: "LO"
 height: "188.0"
 weight: "105.0"
 birth_date: "1992.02.23"
-age: 34.0
+age: 33.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

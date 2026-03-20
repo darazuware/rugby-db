@@ -7,7 +7,7 @@ position: "CTB"
 height: "182.0"
 weight: "102.0"
 birth_date: "2001.05.05"
-age: 24.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

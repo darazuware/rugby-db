@@ -7,7 +7,7 @@ position: "HO"
 height: "183.0"
 weight: "103.0"
 birth_date: "2003.02.24"
-age: 23.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

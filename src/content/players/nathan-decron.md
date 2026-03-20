@@ -7,7 +7,7 @@ position: "CTB"
 height: "184.0"
 weight: "96.0"
 birth_date: "1998.02.17"
-age: 28.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "top14"

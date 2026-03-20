@@ -7,7 +7,7 @@ position: "SH"
 height: "170.0"
 weight: "77.0"
 birth_date: "1991.03.18"
-age: 35.0
+age: 34.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

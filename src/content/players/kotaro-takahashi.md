@@ -7,7 +7,7 @@ position: "PR"
 height: "177.0"
 weight: "106.0"
 birth_date: "2000.02.23"
-age: 26.0
+age: 25.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

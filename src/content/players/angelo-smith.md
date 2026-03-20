@@ -7,7 +7,7 @@ position: "LO"
 height: "199.0"
 weight: "115.0"
 birth_date: "2000.07.27"
-age: 25.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

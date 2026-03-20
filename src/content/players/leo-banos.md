@@ -7,7 +7,7 @@ position: "FL/NO8"
 height: "191.0"
 weight: "106.0"
 birth_date: "2002.08.16"
-age: 23.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "top14"

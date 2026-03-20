@@ -7,7 +7,7 @@ position: "WTB"
 height: "180.0"
 weight: "96.0"
 birth_date: "1993.01.17"
-age: 33.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"

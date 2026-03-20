@@ -7,7 +7,7 @@ position: "WTB"
 height: "185.0"
 weight: "95.0"
 birth_date: "1999.02.22"
-age: 27.0
+age: 26.0
 country: ""
 birth_place_scraped: ""
 league: "league-one"

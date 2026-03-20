@@ -7,7 +7,7 @@ position: "Flanker"
 height: "nan"
 weight: "nan"
 birth_date: "2003-03-18"
-age: 23.0
+age: 22.0
 country: ""
 birth_place_scraped: ""
 league: "premiership"

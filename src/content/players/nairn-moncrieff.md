@@ -7,7 +7,7 @@ position: "WTB"
 height: "178.0"
 weight: "89.0"
 birth_date: "2006.."
-age: 20.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

@@ -7,7 +7,7 @@ position: "FB"
 height: "191.0"
 weight: "100.0"
 birth_date: "1996.02.21"
-age: 30.0
+age: 29.0
 country: ""
 birth_place_scraped: ""
 league: "nan"

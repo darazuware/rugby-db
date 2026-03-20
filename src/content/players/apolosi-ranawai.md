@@ -7,7 +7,7 @@ position: "PR"
 height: "183.0"
 weight: "135.0"
 birth_date: "1994.04.16"
-age: 31.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "nan"

@@ -7,7 +7,7 @@ position: "SO"
 height: "nan"
 weight: "nan"
 birth_date: "2003.12.25"
-age: 22.0
+age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
