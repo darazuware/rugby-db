@@ -1,5 +1,14 @@
 ---
 export const prerender = true;
+import teamsData from "../../../../data/teams.json";
+export async function getStaticPaths() {
+    return (teamsData as any[]).map((team) => ({
+        params: { 
+            league: team.league,
+            slug: team.slug
+        },
+    }));
+}
 import Layout from "../../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import srTeams from "../../../../data/super_rugby_teams.json";
@@ -7,7 +16,6 @@ import t14Teams from "../../../../data/top14_teams_detailed.json";
 import urcTeams from "../../../../data/urc_teams.json";
 import TeamPlayerList from "../../../components/TeamPlayerList";
 import teamNamesJp from "../../../../data/team_names_jp.json";
-import teamsData from "../../../../data/teams.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 

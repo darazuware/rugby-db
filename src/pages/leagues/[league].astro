@@ -1,5 +1,18 @@
 ---
 export const prerender = true;
+export async function getStaticPaths() {
+  const leagues = [
+    "league-one",
+    "super-rugby",
+    "top14",
+    "premiership",
+    "urc",
+    "mlr",
+  ];
+  return leagues.map((league) => ({
+    params: { league },
+  }));
+}
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import PlayerList from "../../components/PlayerList";
