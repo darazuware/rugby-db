@@ -10,8 +10,10 @@ from team_utils import get_team_info, get_team_link
 from player_utils import PlayerDataProcessor
 
 # 設定
-CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
-OUTPUT_DIR = 'src/content/players/'
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CSV_PATH = os.path.join(PROJECT_ROOT, 'data_sources/final_master_data_v27_normalized.csv')
+OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'src/content/players/')
+PUBLIC_DATA_DIR = os.path.join(PROJECT_ROOT, 'public/data')
 
 def generate_markdown(row, index):
     # player_utils の共通ロジックを使用
@@ -52,7 +54,6 @@ def generate_markdown(row, index):
     league = league_map.get(league_raw, league_raw.lower().replace(' ', '-'))
     
     # チーム名の正規化 (team_utils を使用)
-    from team_utils import get_team_info
     raw_team = clean_val(row.get('Current_Team', '') or row.get('所属チーム', ''))
     team_info = get_team_info(raw_team)
     current_team = team_info['jp'] if team_info else raw_team
@@ -73,14 +74,7 @@ def generate_markdown(row, index):
     # 出身地データ (マージ後の列)
     birthplace = clean_val(row.get('birth_place_scraped', ''))
     
-    if "beauden-barrett" in str(slug).lower() or "beauden" in name_en.lower():
-        print(f"DEBUG [Beauden]: slug={slug}, team={current_team}, league={league}, url={scraped_url}")
-
-    if "zander-fagerson" in str(scraped_url).lower():
-        print(f"DEBUG [Zander]: slug={slug}, birthplace={birthplace}, team={current_team}, url={scraped_url}")
-
     # Markdown生成
-    # ... (content strings)
     content = f"""---
 title: "{name_en} | {name_ja}"
 name_en: "{name_en}"
@@ -103,10 +97,30 @@ scraped_url: "{scraped_url}"
 {history}
 """
     
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+        
     file_path = os.path.join(OUTPUT_DIR, f"{slug}.md")
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
-    return slug
+        
+    # フロントエンド用 JSON データの構築
+    return {
+        "slug": slug,
+        "data": {
+            "title": f"{name_en} | {name_ja}",
+            "name_en": name_en,
+            "name_ja": name_ja,
+            "position": position,
+            "height": height,
+            "weight": weight,
+            "age": age_val,
+            "country": nationality,
+            "league": league,
+            "team": current_team,
+            "caps": caps
+        }
+    }
 
 def main():
     if not os.path.exists(OUTPUT_DIR):
@@ -116,6 +130,9 @@ def main():
         shutil.rmtree(OUTPUT_DIR)
         os.makedirs(OUTPUT_DIR)
         
+    if not os.path.exists(PUBLIC_DATA_DIR):
+        os.makedirs(PUBLIC_DATA_DIR)
+        
     print(f"Loading CSV from {CSV_PATH}...")
     df = pd.read_csv(CSV_PATH)
     
@@ -124,27 +141,23 @@ def main():
     nat_map = {}
     
     # スクレイピング済みの出身地データ
-    SCRAPED_CSV = 'data_sources/overseas_birthplaces_scraped.csv'
+    SCRAPED_CSV = os.path.join(PROJECT_ROOT, 'data_sources/overseas_birthplaces_scraped.csv')
     if os.path.exists(SCRAPED_CSV):
         print(f"Loading scraped birthplace data from {SCRAPED_CSV}...")
         scraped_df = pd.read_csv(SCRAPED_CSV)
-        # 正規化
         scraped_df['scraped_url'] = scraped_df['scraped_url'].astype(str).str.strip().str.lower()
-        
-        # 辞書作成
         for _, row_s in scraped_df.iterrows():
             url = row_s['scraped_url']
             if url and url != 'nan':
                 birthplace_map[url] = str(row_s.get('place_of_birth', '')).strip()
                 nat_map[url] = str(row_s.get('scraped_nationality', '')).strip()
-        
         print(f"Loaded {len(birthplace_map)} birthplace mappings.")
 
-    print(f"Generating markdown for {len(df)} players...")
+    print(f"Generating markdown and JSON for {len(df)} players...")
+    players_json_data = []
     count = 0
     for i, row in df.iterrows():
         try:
-            # 各行にマッピングデータを注入
             s_url = str(row.get('Scraped_Url', '')).strip().lower()
             row_dict = row.to_dict()
             if s_url in birthplace_map:
@@ -152,12 +165,18 @@ def main():
                 if nat_map[s_url] and nat_map[s_url].lower() != 'nan':
                      row_dict['Nationality'] = nat_map[s_url]
             
-            generate_markdown(row_dict, i)
+            player_data = generate_markdown(row_dict, i)
+            players_json_data.append(player_data)
             count += 1
         except Exception as e:
             print(f"Error at index {i}: {e}")
             
-    print(f"Successfully generated {count} player pages.")
+    # JSON インデックスを保存
+    json_path = os.path.join(PUBLIC_DATA_DIR, 'players.json')
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(players_json_data, f, ensure_ascii=False, indent=2)
+            
+    print(f"Successfully generated {count} player pages and {json_path}.")
 
 if __name__ == "__main__":
     main()
