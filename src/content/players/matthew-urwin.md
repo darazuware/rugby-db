@@ -7,7 +7,7 @@ position: "SO"
 height: "181.0"
 weight: "83.0"
 birth_date: "2005.."
-age: null
+age: 21
 country: ""
 birth_place_scraped: ""
 league: "urc"

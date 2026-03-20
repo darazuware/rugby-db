@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "196.0"
 weight: "136.0"
 birth_date: "1994.10.02"
-age: null
+age: 31
 country: ""
 birth_place_scraped: ""
 league: "urc"

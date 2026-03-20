@@ -7,7 +7,7 @@ position: "LO"
 height: "195.0"
 weight: "117.0"
 birth_date: "1996.06.05"
-age: null
+age: 29
 country: ""
 birth_place_scraped: ""
 league: "top14"

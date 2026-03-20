@@ -7,7 +7,7 @@ position: "SH"
 height: "173.0"
 weight: "67.0"
 birth_date: "//2006"
-age: null
+age: 20
 country: ""
 birth_place_scraped: ""
 league: "top14"

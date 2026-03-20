@@ -7,7 +7,7 @@ position: "WTB"
 height: "nan"
 weight: "nan"
 birth_date: "2000.05.28"
-age: null
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

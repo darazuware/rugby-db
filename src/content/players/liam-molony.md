@@ -7,7 +7,7 @@ position: "Back row"
 height: "183.0"
 weight: "102.0"
 birth_date: "2003.11.09"
-age: null
+age: 22
 country: ""
 birth_place_scraped: ""
 league: "urc"

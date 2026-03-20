@@ -7,7 +7,7 @@ position: "CTB"
 height: "187.0"
 weight: "97.0"
 birth_date: "2003.05.20"
-age: null
+age: 22
 country: ""
 birth_place_scraped: ""
 league: "urc"

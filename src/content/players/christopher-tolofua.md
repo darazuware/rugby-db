@@ -7,7 +7,7 @@ position: "HO"
 height: "182.0"
 weight: "125.0"
 birth_date: "1993.12.31"
-age: null
+age: 32
 country: ""
 birth_place_scraped: ""
 league: "top14"

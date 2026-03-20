@@ -7,7 +7,7 @@ position: "FB"
 height: "187.0"
 weight: "99.0"
 birth_date: "1999.09.13"
-age: null
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

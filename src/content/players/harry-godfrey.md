@@ -7,7 +7,7 @@ position: "SO"
 height: "176.0"
 weight: "88.0"
 birth_date: "2003.01.03"
-age: null
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

@@ -7,7 +7,7 @@ position: "PR"
 height: "181.0"
 weight: "109.0"
 birth_date: "1996.02.21"
-age: null
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "top14"

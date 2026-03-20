@@ -7,7 +7,7 @@ position: "FB"
 height: "188.0"
 weight: "89.0"
 birth_date: "1998.03.27"
-age: null
+age: 27
 country: ""
 birth_place_scraped: ""
 league: "urc"

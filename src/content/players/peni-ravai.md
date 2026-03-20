@@ -7,7 +7,7 @@ position: "PR"
 height: "185.0"
 weight: "119.0"
 birth_date: "1990.06.16"
-age: null
+age: 35
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

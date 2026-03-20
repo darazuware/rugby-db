@@ -7,7 +7,7 @@ position: "WTB"
 height: "183.0"
 weight: "94.0"
 birth_date: "1995.10.12"
-age: null
+age: 30
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

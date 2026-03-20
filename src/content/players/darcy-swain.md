@@ -7,7 +7,7 @@ position: "LO"
 height: "200.0"
 weight: "117.0"
 birth_date: "1997.07.05"
-age: null
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

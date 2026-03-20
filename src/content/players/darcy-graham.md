@@ -7,7 +7,7 @@ position: "Winger"
 height: "177.0"
 weight: "85.0"
 birth_date: "1997.06.21"
-age: null
+age: 28
 country: ""
 birth_place_scraped: ""
 league: "urc"

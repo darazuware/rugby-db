@@ -7,7 +7,7 @@ position: "CTB"
 height: "186.0"
 weight: "92.0"
 birth_date: "2001.09.22"
-age: null
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

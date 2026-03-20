@@ -7,7 +7,7 @@ position: "PR"
 height: "nan"
 weight: "nan"
 birth_date: "2002.06.08"
-age: null
+age: 23
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

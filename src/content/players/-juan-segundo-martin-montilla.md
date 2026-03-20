@@ -7,7 +7,7 @@ position: "SO"
 height: "nan"
 weight: "nan"
 birth_date: "//2007"
-age: null
+age: 19
 country: ""
 birth_place_scraped: ""
 league: "top14"

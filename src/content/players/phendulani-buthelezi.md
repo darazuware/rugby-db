@@ -7,7 +7,7 @@ position: "Back row"
 height: "188.0"
 weight: "108.0"
 birth_date: "1999.05.30"
-age: null
+age: 26
 country: ""
 birth_place_scraped: ""
 league: "mlr"

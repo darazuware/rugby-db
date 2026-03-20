@@ -7,7 +7,7 @@ position: "HO"
 height: "180.0"
 weight: "107.0"
 birth_date: "2001.01.04"
-age: null
+age: 25
 country: ""
 birth_place_scraped: ""
 league: "urc"

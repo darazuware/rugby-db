@@ -7,7 +7,7 @@ position: "SH"
 height: "177.0"
 weight: "88.0"
 birth_date: "2001.04.27"
-age: null
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

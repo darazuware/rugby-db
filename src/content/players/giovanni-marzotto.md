@@ -7,7 +7,7 @@ position: "Winger"
 height: "193.0"
 weight: "94.0"
 birth_date: "2007.."
-age: null
+age: 19
 country: ""
 birth_place_scraped: ""
 league: "urc"

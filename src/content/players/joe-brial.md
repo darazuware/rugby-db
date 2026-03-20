@@ -7,7 +7,7 @@ position: "FL/No8"
 height: "195.0"
 weight: "114.0"
 birth_date: "2002.01.07"
-age: null
+age: 24
 country: ""
 birth_place_scraped: ""
 league: "super-rugby"

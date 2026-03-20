@@ -3,6 +3,10 @@ import json
 import os
 import shutil
 import re
+from datetime import datetime
+
+# 物理基準日 (2026-03-20)
+REFERENCE_DATE = datetime(2026, 3, 20)
 
 # プロジェクトのルートディレクトリを絶対パスで定義
 PROJECT_ROOT = '/Users/ktamatzmoto/Desktop/rugbypicks'
@@ -10,6 +14,25 @@ CSV_PATH = os.path.join(PROJECT_ROOT, 'data_sources/final_master_data_v27_normal
 TEAM_NAMES_JP_PATH = os.path.join(PROJECT_ROOT, 'data/team_names_jp.json')
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'src/content/players')
 JSON_OUTPUT_PATH = os.path.join(PROJECT_ROOT, 'public/data/players.json')
+
+def calculate_age(birth_date_str):
+    """生年月日（YYYY.MM.DD or YYYY-MM-DD）から年齢を算出"""
+    if not birth_date_str or pd.isna(birth_date_str):
+        return None
+    try:
+        # 形式の正規化（ドットをハイフンに置換）
+        date_str = str(birth_date_str).replace('.', '-').strip()
+        # YYYY-MM-DD
+        birth_date = datetime.strptime(date_str, '%Y-%m-%d')
+        age = REFERENCE_DATE.year - birth_date.year - ((REFERENCE_DATE.month, REFERENCE_DATE.day) < (birth_date.month, birth_date.day))
+        return age
+    except Exception as e:
+        # YYYYのみの場合などのフォールバック
+        match = re.search(r'(\d{4})', str(birth_date_str))
+        if match:
+            year = int(match.group(1))
+            return REFERENCE_DATE.year - year
+    return None
 
 def clean_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name)
@@ -120,17 +143,21 @@ def generate_markdown():
         university = str(row.get('University', '')).strip()
         if university == 'nan': university = ""
 
-        # Ageの数値化（"30 y/o"などの文字列に対応）
+        # Ageの数値化（または生年月日からの動的算出）
         age_clean = None
-        age_val = row.get('Age')
-        if pd.notna(age_val) and str(age_val).lower() != 'nan' and str(age_val).strip() != "":
+        age_csv = row.get('Age')
+        if pd.notna(age_csv) and str(age_csv).lower() != 'nan' and str(age_csv).strip() != "":
             try:
                 # 数字のみを抽出
-                age_match = re.search(r'(\d+)', str(age_val))
+                age_match = re.search(r'(\d+)', str(age_csv))
                 if age_match:
                     age_clean = int(age_match.group(1))
             except:
                 pass
+        
+        # CSVに年齢がない場合、生年月日から算出を試みる
+        if age_clean is None and birth_date and birth_date != 'nan':
+            age_clean = calculate_age(birth_date)
         
         # Markdown出力用の値（数値または null）
         age_for_md = age_clean if age_clean is not None else "null"
