@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル・ジョーダン"
-name_en: "nan"
+title: "Will JORDAN | ウィル・ジョーダン"
+name_en: "Will JORDAN"
 name_ja: "ウィル・ジョーダン"
 slug: "will-jordan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "188.0"
+weight: "94.0"
+birth_date: "1998.02.24"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/will-jordan"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2018 - 2026) -> Tasman Mako (2019 - )

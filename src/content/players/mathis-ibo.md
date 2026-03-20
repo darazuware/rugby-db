@@ -1,20 +1,20 @@
 ---
-title: "nan | マティス・イボ"
-name_en: "nan"
+title: "Mathis IBO | マティス・イボ"
+name_en: "Mathis IBO"
 name_ja: "マティス・イボ"
 slug: "mathis-ibo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "CTB"
+height: "183.0"
+weight: "78.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "United States代表 (5 caps)"
 scraped_url: "https://all.rugby/player/mathis-ibo"
 ---
 
 ## キャリア遍歴
-
+RC Neuilly-sur-Marne (2011 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2019) -> Stade Français Paris Rugby (2019 - )

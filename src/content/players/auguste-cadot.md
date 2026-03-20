@@ -1,20 +1,20 @@
 ---
-title: "nan | オーギュスト・カド"
-name_en: "nan"
+title: "Auguste CADOT | オーギュスト・カド"
+name_en: "Auguste CADOT"
 name_ja: "オーギュスト・カド"
 slug: "auguste-cadot"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "181.0"
+weight: "92.0"
+birth_date: "2001.07.28"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "モンペリエ"
 caps: "0"
 scraped_url: "https://all.rugby/player/auguste-cadot"
 ---
 
 ## キャリア遍歴
-
+Racing Club Chagny (2007 - 2015) -> CS Beaune (2015 - 2019) -> Biarritz Olympique Pays Basque (2019 - 2023) -> Montpellier Hérault Rugby (2023 - )

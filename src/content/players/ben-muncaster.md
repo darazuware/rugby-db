@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン ・ MUNCASTER"
-name_en: "nan"
+title: "ベン ・ MUNCASTER | ベン ・ MUNCASTER"
+name_en: "ベン ・ MUNCASTER"
 name_ja: "ベン ・ MUNCASTER"
 slug: "ben-muncaster"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "190.0"
+weight: "110.0"
+birth_date: "2001.10.14"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/ben-muncaster"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2018 - 2020) -> Edimbourg Rugby (2020 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Kienan ・ HIGGINS"
-name_en: "nan"
+title: "Kienan ・ HIGGINS | Kienan ・ HIGGINS"
+name_en: "Kienan ・ HIGGINS"
 name_ja: "Kienan ・ HIGGINS"
 slug: "kienan-higgins"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "189.0"
+weight: "97.0"
+birth_date: "2000.01.25"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/kienan-higgins"
 ---
 
 ## キャリア遍歴
-
+Hawke's Bay Magpies (2020 - 2025) -> Edimbourg Rugby (2025 - 2026)

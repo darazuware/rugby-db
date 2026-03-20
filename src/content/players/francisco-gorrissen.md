@@ -1,20 +1,20 @@
 ---
-title: "nan | フランシスコ-ゴリセン"
-name_en: "nan"
+title: "Francisco GORRISSEN | フランシスコ-ゴリセン"
+name_en: "Francisco GORRISSEN"
 name_ja: "フランシスコ-ゴリセン"
 slug: "francisco-gorrissen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "191.0"
+weight: "108.0"
+birth_date: "1994.08.30"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ヴァンヌ"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/francisco-gorrissen"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2018 - 2020) -> Jaguares XV (2020 - 2021) -> Belgrano Athletic Club (2020 - 2021) -> Rugby Club Vannes (2021 - )

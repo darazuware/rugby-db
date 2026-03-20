@@ -1,20 +1,20 @@
 ---
-title: "nan | 松土 治樹"
+title: "nan | "
 name_en: "nan"
-name_ja: "松土 治樹"
+name_ja: ""
 slug: "player-4465"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "25/10/1995"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

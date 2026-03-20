@@ -1,20 +1,20 @@
 ---
-title: "nan | トム・スタニフォース"
-name_en: "nan"
+title: "Tom STANIFORTH | トム・スタニフォース"
+name_en: "Tom STANIFORTH"
 name_ja: "トム・スタニフォース"
 slug: "thomas-staniforth"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "124.0"
+birth_date: "1994.08.13"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-staniforth"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2013 - 2017) -> New South Wales Waratahs (2017 - 2020) -> Castres Olympique (2020 - )

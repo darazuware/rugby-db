@@ -1,20 +1,20 @@
 ---
-title: "nan | ティモチ・タヴァタヴァナワイ"
-name_en: "nan"
+title: "Timoci TAVATAVANAWAI | ティモチ・タヴァタヴァナワイ"
+name_en: "Timoci TAVATAVANAWAI"
 name_ja: "ティモチ・タヴァタヴァナワイ"
 slug: "timoci-tavatavanawai"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "111.0"
+birth_date: "1998.02.14"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "オタゴ・ハイランダーズ"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/timoci-tavatavanawai"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2019 - 2025) -> Highlanders (2020 - 2026) -> Moana Pasifika (2021 - )

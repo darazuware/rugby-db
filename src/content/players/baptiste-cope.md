@@ -1,20 +1,20 @@
 ---
-title: "nan | バティスト・コープ"
-name_en: "nan"
+title: "Baptiste COPE | バティスト・コープ"
+name_en: "Baptiste COPE"
 name_ja: "バティスト・コープ"
 slug: "baptiste-cope"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "186.0"
+weight: "102.0"
+birth_date: "2002.02.09"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/baptiste-cope"
 ---
 
 ## キャリア遍歴
-
+Sor Agout XV (2011 - 2020) -> Castres Olympique (2020 - )

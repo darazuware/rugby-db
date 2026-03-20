@@ -1,20 +1,20 @@
 ---
-title: "nan | トム ・ WOOD"
-name_en: "nan"
+title: "トム ・ WOOD | トム ・ WOOD"
+name_en: "トム ・ WOOD"
 name_ja: "トム ・ WOOD"
 slug: "tom-wood-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "188.0"
+weight: "91.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マンスター・ラグビー"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (38 caps)"
 scraped_url: "https://all.rugby/player/tom-wood-"
 ---
 
 ## キャリア遍歴
-
+Garryowen FC (2024 - 2025) -> Munster Rugby (2025 - 2026)

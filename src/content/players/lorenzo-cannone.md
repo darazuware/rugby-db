@@ -1,20 +1,20 @@
 ---
-title: "nan | Lorenzo ・ CANNONE"
-name_en: "nan"
+title: "Lorenzo ・ CANNONE | Lorenzo ・ CANNONE"
+name_en: "Lorenzo ・ CANNONE"
 name_ja: "Lorenzo ・ CANNONE"
 slug: "lorenzo-cannone"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "190.0"
+weight: "106.0"
+birth_date: "2001.01.28"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/lorenzo-cannone"
 ---
 
 ## キャリア遍歴
-
+Petrarca Rugby (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2026)

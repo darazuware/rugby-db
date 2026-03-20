@@ -1,20 +1,20 @@
 ---
-title: "nan | ハーシェル-ヤンキース"
-name_en: "nan"
+title: "Herschel JANTJIES | ハーシェル-ヤンキース"
+name_en: "Herschel JANTJIES"
 name_ja: "ハーシェル-ヤンキース"
 slug: "herschel-jantjies"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "167.0"
+weight: "77.0"
+birth_date: "1996.04.22"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "バイヨンヌ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/herschel-jantjies"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2017 - 2018) -> Stormers (2017 - 2025) -> Aviron Bayonnais (2025 - )

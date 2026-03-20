@@ -1,20 +1,20 @@
 ---
-title: "nan | 澤田 歩武"
+title: "nan | "
 name_en: "nan"
-name_ja: "澤田 歩武"
+name_ja: ""
 slug: "player-4362"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

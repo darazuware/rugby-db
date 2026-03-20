@@ -1,20 +1,20 @@
 ---
-title: "nan | 忽那 鐘太"
+title: "nan | "
 name_en: "nan"
-name_ja: "忽那 鐘太"
+name_ja: ""
 slug: "player-4355"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "30/10/1990"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

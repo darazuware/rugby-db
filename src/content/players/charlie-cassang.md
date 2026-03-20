@@ -1,20 +1,20 @@
 ---
-title: "nan | チャーリー・カサン"
-name_en: "nan"
+title: "Charlie CASSANG | チャーリー・カサン"
+name_en: "Charlie CASSANG"
 name_ja: "チャーリー・カサン"
 slug: "charlie-cassang"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "173.0"
+weight: "92.0"
+birth_date: "1995.02.08"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "リヨン"
+caps: "🇫🇷 France代表 (9 caps)"
 scraped_url: "https://all.rugby/player/charlie-cassang"
 ---
 
 ## キャリア遍歴
-
+Sporting Union Agenais (2012 - 2014) -> ASM Clermont Auvergne (2014 - 2020) -> Aviron Bayonnais (2015 - 2016) -> Oyonnax Rugby (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

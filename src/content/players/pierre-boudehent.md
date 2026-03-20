@@ -1,20 +1,20 @@
 ---
-title: "nan | ピエール・ブデアン"
-name_en: "nan"
+title: "Pierre BOUDEHENT | ピエール・ブデアン"
+name_en: "Pierre BOUDEHENT"
 name_ja: "ピエール・ブデアン"
 slug: "pierre-boudehent"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "196.0"
+weight: "107.0"
+birth_date: "1998.02.06"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ヴァンヌ"
+caps: "🇫🇷 France代表 (14 caps)"
 scraped_url: "https://all.rugby/player/pierre-boudehent"
 ---
 
 ## キャリア遍歴
-
+SCO RC Angers (2009 - 2013) -> Stade Nantais (2013 - 2015) -> Stade Rochelais (2015 - 2023) -> Rugby Club Vannes (2019 - 2026) -> Stade Français Paris Rugby (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・ダルモン"
-name_en: "nan"
+title: "Thomas DARMON | トマ・ダルモン"
+name_en: "Thomas DARMON"
 name_ja: "トマ・ダルモン"
 slug: "thomas-darmon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "181.0"
+weight: "90.0"
+birth_date: "1998.05.12"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "モンペリエ"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-darmon"
 ---
 
 ## キャリア遍歴
-
+Montpellier Hérault Rugby (2004 - )

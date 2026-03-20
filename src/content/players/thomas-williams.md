@@ -1,20 +1,20 @@
 ---
-title: "nan | トーマス ・ ウィリアムズ"
-name_en: "nan"
+title: "トーマス ・ ウィリアムズ | トーマス ・ ウィリアムズ"
+name_en: "トーマス ・ ウィリアムズ"
 name_ja: "トーマス ・ ウィリアムズ"
 slug: "thomas-williams"
-position: ""
+position: "Winger"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1995-01-01"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "スカーレッツ"
+caps: "🇳🇿 New Zealand代表 (3 caps)"
 scraped_url: "https://all.rugby/player/thomas-williams"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

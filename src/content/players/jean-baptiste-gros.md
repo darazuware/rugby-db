@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャン＝バティスト-グロ"
-name_en: "nan"
+title: "Jean-Baptiste GROS | ジャン＝バティスト-グロ"
+name_en: "Jean-Baptiste GROS"
 name_ja: "ジャン＝バティスト-グロ"
 slug: "jean-baptiste-gros"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "112.0"
+birth_date: "1999.05.29"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/jean-baptiste-gros"
 ---
 
 ## キャリア遍歴
-
+US Tarascon (2009 - 2013) -> Provence Rugby (2013 - 2016) -> Rugby Club Toulonnais (2016 - )

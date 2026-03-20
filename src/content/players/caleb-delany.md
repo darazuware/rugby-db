@@ -1,20 +1,20 @@
 ---
-title: "nan | ケイレブ・デラニー"
-name_en: "nan"
+title: "Caleb DELANY | ケイレブ・デラニー"
+name_en: "Caleb DELANY"
 name_ja: "ケイレブ・デラニー"
 slug: "caleb-delany"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "197.0"
+weight: "115.0"
+birth_date: "2000.02.04"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/caleb-delany"
 ---
 
 ## キャリア遍歴
-
+Wellington Lions (2019 - 2025) -> Hurricanes (2021 - )

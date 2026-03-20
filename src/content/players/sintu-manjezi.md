@@ -1,20 +1,20 @@
 ---
-title: "nan | Sintu ・ MANJEZI"
-name_en: "nan"
+title: "Sintu ・ MANJEZI | Sintu ・ MANJEZI"
+name_en: "Sintu ・ MANJEZI"
 name_ja: "Sintu ・ MANJEZI"
 slug: "sintu-manjezi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "118.0"
+birth_date: "1995.04.07"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sintu-manjezi"
 ---
 
 ## キャリア遍歴
-
+Southern Kings (2015 - 2016) -> Central Cheetahs (2018 - 2019) -> Bulls (2019 - 2019) -> Central Cheetahs (2020 - 2020) -> Bulls (2020 - 2022) -> Glasgow Warriors (2022 - 2024) -> Bulls (2024 - 2026)

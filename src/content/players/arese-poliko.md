@@ -1,20 +1,20 @@
 ---
-title: "nan | アレセ・ポリコ"
-name_en: "nan"
+title: "Arese POLIKO | アレセ・ポリコ"
+name_en: "Arese POLIKO"
 name_ja: "アレセ・ポリコ"
 slug: "arese-poliko"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "190.0"
+weight: "115.0"
+birth_date: "2001.01.23"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/arese-poliko"
 ---
 
 ## キャリア遍歴
-
+Southland Stags (2019 - 2022) -> Taranaki Bulls (2022 - 2025) -> Hurricanes (2024 - )

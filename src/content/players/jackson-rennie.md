@@ -1,20 +1,20 @@
 ---
-title: "nan | Jackson ・ RENNIE"
-name_en: "nan"
+title: "Jackson ・ RENNIE | Jackson ・ RENNIE"
+name_en: "Jackson ・ RENNIE"
 name_ja: "Jackson ・ RENNIE"
 slug: "jackson-rennie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "119.0"
+birth_date: "2007.."
+age: 19
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jackson-rennie"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2025 - 2026)

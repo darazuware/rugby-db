@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャック ・ライト"
+title: "nan | "
 name_en: "nan"
-name_ja: "ジャック ・ライト"
+name_ja: ""
 slug: "player-4415"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "29/04/1991"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ブリストル・ベアーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | レキマ・タギタギヴァル"
-name_en: "nan"
+title: "Lekima TAGITAGIVALU | レキマ・タギタギヴァル"
+name_en: "Lekima TAGITAGIVALU"
 name_ja: "レキマ・タギタギヴァル"
 slug: "lekima-tagitagivalu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "195.0"
+weight: "110.0"
+birth_date: "1995.12.04"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇯 Fiji代表 (3 caps)"
 scraped_url: "https://all.rugby/player/lekima-tagitagivalu"
 ---
 
 ## キャリア遍歴
-
+Stade Aurillacois Cantal Auvergne (2013 - 2014) -> Section Paloise Béarn Pyrénées (2015 - 2025) -> Racing 92 (2025 - )

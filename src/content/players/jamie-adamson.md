@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェイミー・アダムソン"
-name_en: "nan"
+title: "Jamie ADAMSON | ジェイミー・アダムソン"
+name_en: "Jamie ADAMSON"
 name_ja: "ジェイミー・アダムソン"
 slug: "jamie-adamson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "188.0"
+weight: "95.0"
+birth_date: "1999.11.09"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "NSWワラタス（ワラターズ）"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (59 caps)"
 scraped_url: "https://all.rugby/player/jamie-adamson"
 ---
 
 ## キャリア遍歴
-
+Angleterre 7's (2019 - 2023) -> Easts Rugby Union Club (2023 - 2024) -> New South Wales Waratahs (2024 - )

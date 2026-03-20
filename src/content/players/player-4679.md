@@ -1,20 +1,20 @@
 ---
-title: "nan | 田村 魁世"
+title: "nan | "
 name_en: "nan"
-name_ja: "田村 魁世"
+name_ja: ""
 slug: "player-4679"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003.07.05"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

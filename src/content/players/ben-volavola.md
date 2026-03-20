@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン・ヴォラボラ"
-name_en: "nan"
+title: "Ben VOLAVOLA | ベン・ヴォラボラ"
+name_en: "Ben VOLAVOLA"
 name_ja: "ベン・ヴォラボラ"
 slug: "ben-volavola"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "191.0"
+weight: "95.0"
+birth_date: "1991.01.13"
+age: 35
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "クイーンズランド・レッズ"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/ben-volavola"
 ---
 
 ## キャリア遍歴
-
+New South Wales Waratahs (2012 - 2014) -> Crusaders (2015 - 2016) -> Melbourne Rebels (2016 - 2017) -> North Harbour (2017 - 2018) -> Union Bordeaux-Bègles (2017 - 2018) -> Racing 92 (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2020 - 2021) -> Sporting Union Agenais (2023 - 2024) -> Leicester Tigers (2024 - 2025) -> Queensland Reds (2025 - )

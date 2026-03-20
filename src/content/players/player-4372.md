@@ -1,20 +1,20 @@
 ---
-title: "nan | ダニエル ・マイアヴァ"
+title: "nan | "
 name_en: "nan"
-name_ja: "ダニエル ・マイアヴァ"
+name_ja: ""
 slug: "player-4372"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "15/11/1997"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ダグ・フィリップソン"
-name_en: "nan"
+title: "Doug PHILIPSON | ダグ・フィリップソン"
+name_en: "Doug PHILIPSON"
 name_ja: "ダグ・フィリップソン"
 slug: "doug-philipson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "171.0"
+weight: "72.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/doug-philipson"
 ---
 
 ## キャリア遍歴
-
+Western Force (2023 - )

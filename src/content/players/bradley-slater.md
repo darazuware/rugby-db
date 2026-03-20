@@ -1,20 +1,20 @@
 ---
-title: "nan | ブラッドリー・スレーター"
-name_en: "nan"
+title: "Bradley SLATER | ブラッドリー・スレーター"
+name_en: "Bradley SLATER"
 name_ja: "ブラッドリー・スレーター"
 slug: "bradley-slater"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "186.0"
+weight: "110.0"
+birth_date: "1998.09.23"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/bradley-slater"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2018 - 2025) -> Taranaki Bulls (2019 - 2025) -> Blues (2025 - )

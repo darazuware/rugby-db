@@ -1,20 +1,20 @@
 ---
-title: "nan | 塚本 奨平"
+title: "nan | "
 name_en: "nan"
-name_ja: "塚本 奨平"
+name_ja: ""
 slug: "player-4506"
-position: ""
+position: "Fullback"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | アドリア・コカギ"
-name_en: "nan"
+title: "Adrea COCAGI | アドリア・コカギ"
+name_en: "Adrea COCAGI"
 name_ja: "アドリア・コカギ"
 slug: "adrea-cocagi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "109.0"
+birth_date: "1994.03.01"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/adrea-cocagi"
 ---
 
 ## キャリア遍歴
-
+Stade Français Paris Rugby (2013 - 2014) -> Stado Tarbes Pyrénées Rugby (2014 - 2016) -> Union Sportive Arlequins Perpignanais (2016 - 2020) -> Castres Olympique (2020 - )

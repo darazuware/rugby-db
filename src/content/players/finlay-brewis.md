@@ -1,20 +1,20 @@
 ---
-title: "nan | フィンレイ-ブリュイス"
-name_en: "nan"
+title: "Finlay BREWIS | フィンレイ-ブリュイス"
+name_en: "Finlay BREWIS"
 name_ja: "フィンレイ-ブリュイス"
 slug: "finlay-brewis"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "124.0"
+birth_date: "2000.02.10"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/finlay-brewis"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2019 - 2025) -> Crusaders (2021 - )

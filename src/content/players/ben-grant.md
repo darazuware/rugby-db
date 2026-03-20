@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン・グラント"
-name_en: "nan"
+title: "Ben GRANT | ベン・グラント"
+name_en: "Ben GRANT"
 name_ja: "ベン・グラント"
 slug: "ben-grant"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "204.0"
+weight: "118.0"
+birth_date: "1998.05.18"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-grant"
 ---
 
 ## キャリア遍歴
-
+Perth Spirit (2016 - 2017) -> Western Force (2018 - 2020) -> Queensland Reds (2020 - 2021) -> San Diego Legion (2021 - 2023) -> North Harbour (2022 - 2024) -> Hurricanes (2023 - 2024) -> New South Wales Waratahs (2024 - )

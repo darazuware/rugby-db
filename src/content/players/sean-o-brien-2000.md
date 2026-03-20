@@ -1,20 +1,20 @@
 ---
-title: "nan | Se ・ F ・ O'BRIEN"
-name_en: "nan"
+title: "Se ・ F ・ O'BRIEN | Se ・ F ・ O'BRIEN"
+name_en: "Se ・ F ・ O'BRIEN"
 name_ja: "Se ・ F ・ O'BRIEN"
 slug: "sean-o-brien-2000"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "105.0"
+birth_date: "2000.07.31"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "コナート・ラグビー"
+caps: "🇮🇪 Ireland代表 (37 caps)"
 scraped_url: "https://all.rugby/player/sean-o-brien-2000"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2020 - 2020) -> LA Giltinis (2020 - 2020) -> Leinster Rugby (2021 - 2021) -> LA Giltinis (2021 - 2021) -> Leinster Rugby (2021 - 2023) -> Connacht Rugby (2023 - 2026)

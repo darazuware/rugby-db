@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャック ・ BROWN"
-name_en: "nan"
+title: "ジャック ・ BROWN | ジャック ・ BROWN"
+name_en: "ジャック ・ BROWN"
 name_ja: "ジャック ・ BROWN"
 slug: "jack-brown"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "188.0"
+weight: "94.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-brown"
 ---
 
 ## キャリア遍歴
-
+Watsonian Rugby Club (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)

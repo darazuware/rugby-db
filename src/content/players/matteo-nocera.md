@@ -1,20 +1,20 @@
 ---
-title: "nan | Matteo ・ NOCERA"
-name_en: "nan"
+title: "Matteo ・ NOCERA | Matteo ・ NOCERA"
+name_en: "Matteo ・ NOCERA"
 name_ja: "Matteo ・ NOCERA"
 slug: "matteo-nocera"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "194.0"
+weight: "130.0"
+birth_date: "1999.01.16"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ゼブレ・パルマ"
+caps: "🇮🇹 Italy代表 (0 caps)"
 scraped_url: "https://all.rugby/player/matteo-nocera"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2018 - 2026)

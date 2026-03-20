@@ -1,20 +1,20 @@
 ---
-title: "nan | コンラッド・トレアフォア"
-name_en: "nan"
+title: "Konrad TOLEAFOA | コンラッド・トレアフォア"
+name_en: "Konrad TOLEAFOA"
 name_ja: "コンラッド・トレアフォア"
 slug: "konrad-toleafoa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "190.0"
+weight: "112.0"
+birth_date: "2003.10.29"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/konrad-toleafoa"
 ---
 
 ## キャリア遍歴
-
+Otago (2024 - 2025) -> Moana Pasifika (2025 - )

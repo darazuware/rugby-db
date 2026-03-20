@@ -1,20 +1,20 @@
 ---
-title: "nan | マチュー・イリゴイエン"
-name_en: "nan"
+title: "Mathieu HIRIGOYEN | マチュー・イリゴイエン"
+name_en: "Mathieu HIRIGOYEN"
 name_ja: "マチュー・イリゴイエン"
 slug: "mathieu-hirigoyen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "194.0"
+weight: "103.0"
+birth_date: "1999.01.25"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/mathieu-hirigoyen"
 ---
 
 ## キャリア遍歴
-
+Anglet Olympique Rugby Club (2011 - 2012) -> Biarritz Olympique Pays Basque (2012 - 2022) -> Stade Français Paris Rugby (2022 - )

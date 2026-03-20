@@ -1,20 +1,20 @@
 ---
-title: "nan | カラニ・トーマス"
-name_en: "nan"
+title: "Kalani THOMAS | カラニ・トーマス"
+name_en: "Kalani THOMAS"
 name_ja: "カラニ・トーマス"
 slug: "kalani-thomas"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "178.0"
+weight: "91.0"
+birth_date: "2002.04.18"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/kalani-thomas"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2019 - 2026) -> Auckland (2022 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョセヴァ・タマニ"
-name_en: "nan"
+title: "Joseva TAMANI | ジョセヴァ・タマニ"
+name_en: "Joseva TAMANI"
 name_ja: "ジョセヴァ・タマニ"
 slug: "joseva-tamani"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "195.0"
+weight: "111.0"
+birth_date: "1997.04.02"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/joseva-tamani"
 ---
 
 ## キャリア遍歴
-
+Hunter Wildfires (2020 - 2021) -> Fijian Drua (2021 - 2026) -> US Colomiers (2023 - 2024) -> Otago (2024 - )

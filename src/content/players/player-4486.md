@@ -1,20 +1,20 @@
 ---
-title: "nan | 宮嵜 隼人"
+title: "nan | "
 name_en: "nan"
-name_ja: "宮嵜 隼人"
+name_ja: ""
 slug: "player-4486"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "01/09/2002"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

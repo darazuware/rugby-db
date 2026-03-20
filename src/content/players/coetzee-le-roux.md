@@ -1,20 +1,20 @@
 ---
-title: "nan | Coetzee ・ ル ・ ルー"
-name_en: "nan"
+title: "Coetzee ・ ル ・ ルー | Coetzee ・ ル ・ ルー"
+name_en: "Coetzee ・ ル ・ ルー"
 name_ja: "Coetzee ・ ル ・ ルー"
 slug: "coetzee-le-roux"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "193.0"
+weight: "112.0"
+birth_date: "2003.01.22"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/coetzee-le-roux"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)

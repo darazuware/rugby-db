@@ -1,20 +1,20 @@
 ---
-title: "nan | Max ・ DEEGAN"
-name_en: "nan"
+title: "Max ・ DEEGAN | Max ・ DEEGAN"
+name_en: "Max ・ DEEGAN"
 name_ja: "Max ・ DEEGAN"
 slug: "max-deegan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "110.0"
+birth_date: "1996.10.01"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/max-deegan"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2016 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Dylan ・ HICKS"
-name_en: "nan"
+title: "Dylan ・ HICKS | Dylan ・ HICKS"
+name_en: "Dylan ・ HICKS"
 name_ja: "Dylan ・ HICKS"
 slug: "dylan-hicks"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "185.0"
+weight: "88.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-hicks"
 ---
 
 ## キャリア遍歴
-
+Coláiste Pobail Bheanntraí (2022 - 2023) -> Munster Rugby (2023 - 2026)

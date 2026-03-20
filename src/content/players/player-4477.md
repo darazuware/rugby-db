@@ -1,20 +1,20 @@
 ---
-title: "nan | 松尾 磨人"
+title: "nan | "
 name_en: "nan"
-name_ja: "松尾 磨人"
+name_ja: ""
 slug: "player-4477"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "10/08/1992"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

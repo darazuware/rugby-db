@@ -1,20 +1,20 @@
 ---
-title: "nan | パット・ペレグリーニ"
-name_en: "nan"
+title: "Pat PELLEGRINI | パット・ペレグリーニ"
+name_en: "Pat PELLEGRINI"
 name_ja: "パット・ペレグリーニ"
 slug: "patrick-pellegrini"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "170.0"
+weight: "80.0"
+birth_date: "1998.09.28"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "モアナ・パシフィカ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/patrick-pellegrini"
 ---
 
 ## キャリア遍歴
-
+West Harbour RFC (2020 - 2021) -> Coventry Rugby (2022 - 2024) -> North Harbour (2024 - 2025) -> Moana Pasifika (2024 - )

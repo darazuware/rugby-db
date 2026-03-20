@@ -1,20 +1,20 @@
 ---
-title: "nan | Bradley ・ DAVIDS"
-name_en: "nan"
+title: "Bradley ・ DAVIDS | Bradley ・ DAVIDS"
+name_en: "Bradley ・ DAVIDS"
 name_ja: "Bradley ・ DAVIDS"
 slug: "bradley-davids"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "176.0"
+weight: "79.0"
+birth_date: "2002.07.30"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/bradley-davids"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2021 - 2022) -> Sharks (2022 - 2026)

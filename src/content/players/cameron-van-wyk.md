@@ -1,20 +1,20 @@
 ---
-title: "nan | Cameron ・ ファン ・ WYK"
-name_en: "nan"
+title: "Cameron ・ ファン ・ WYK | Cameron ・ ファン ・ WYK"
+name_en: "Cameron ・ ファン ・ WYK"
 name_ja: "Cameron ・ ファン ・ WYK"
 slug: "cameron-van-wyk"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "183.0"
+weight: "93.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cameron-van-wyk"
 ---
 
 ## キャリア遍歴
-
+Ayr RFC (2024 - 2025) -> Glasgow Warriors (2025 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | テオ・アティソグベ"
-name_en: "nan"
+title: "Théo ATTISSOGBE | テオ・アティソグベ"
+name_en: "Théo ATTISSOGBE"
 name_ja: "テオ・アティソグベ"
 slug: "theo-attissogbe"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "WTB"
+height: "182.0"
+weight: "84.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ポー"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/theo-attissogbe"
 ---
 
 ## キャリア遍歴
-
+Peyrehorade Sport Rugby Pays d'Orthe (2011 - 2019) -> Stade Montois Rugby Pro (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

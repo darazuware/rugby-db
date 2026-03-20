@@ -1,20 +1,20 @@
 ---
-title: "nan | 長田 将大"
+title: "nan | "
 name_en: "nan"
-name_ja: "長田 将大"
+name_ja: ""
 slug: "player-4732"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "01/11/1990"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ルロイ・カーター"
-name_en: "nan"
+title: "Leroy CARTER | ルロイ・カーター"
+name_en: "Leroy CARTER"
 name_ja: "ルロイ・カーター"
 slug: "leroy-carter"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "176.0"
+weight: "86.0"
+birth_date: "1999.02.24"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/leroy-carter"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2018 - 2025) -> Chiefs (2019 - )

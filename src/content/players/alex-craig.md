@@ -1,20 +1,20 @@
 ---
-title: "nan | Alex ・ CRAIG"
-name_en: "nan"
+title: "Alex ・ CRAIG | Alex ・ CRAIG"
+name_en: "Alex ・ CRAIG"
 name_ja: "Alex ・ CRAIG"
 slug: "alex-craig"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "119.0"
+birth_date: "1997.04.26"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/alex-craig"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - 2025) -> Glasgow Warriors (2025 - 2026)

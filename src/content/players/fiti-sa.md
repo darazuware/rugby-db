@@ -1,20 +1,20 @@
 ---
-title: "nan | フィティ・サ"
-name_en: "nan"
+title: "Fiti SA | フィティ・サ"
+name_en: "Fiti SA"
 name_ja: "フィティ・サ"
 slug: "fiti-sa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "125.0"
+birth_date: "2003.04.04"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇦🇷 Argentina代表 (47 caps)"
 scraped_url: "https://all.rugby/player/fiti-sa"
 ---
 
 ## キャリア遍歴
-
+Taranaki Bulls (2022 - 2025) -> Chiefs (2024 - )

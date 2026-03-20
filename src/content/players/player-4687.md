@@ -1,20 +1,20 @@
 ---
-title: "nan | 茂野 海人"
+title: "nan | "
 name_en: "nan"
-name_ja: "茂野 海人"
+name_ja: ""
 slug: "player-4687"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "レスター・タイガーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (32 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

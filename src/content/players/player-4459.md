@@ -1,20 +1,20 @@
 ---
-title: "nan | 金村 拓耶"
+title: "nan | "
 name_en: "nan"
-name_ja: "金村 拓耶"
+name_ja: ""
 slug: "player-4459"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュリアン・マルシャン"
-name_en: "nan"
+title: "Julien MARCHAND | ジュリアン・マルシャン"
+name_en: "Julien MARCHAND"
 name_ja: "ジュリアン・マルシャン"
 slug: "julien-marchand"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "181.0"
+weight: "110.0"
+birth_date: "1995.05.10"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/julien-marchand"
 ---
 
 ## キャリア遍歴
-
+US Montréjeau Gourdan Polignan XV (2005 - 2010) -> Stade Toulousain (2010 - )

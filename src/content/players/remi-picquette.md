@@ -1,20 +1,20 @@
 ---
-title: "nan | レミ・ピケット"
-name_en: "nan"
+title: "Rémi PICQUETTE | レミ・ピケット"
+name_en: "Rémi PICQUETTE"
 name_ja: "レミ・ピケット"
 slug: "remi-picquette"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "117.0"
+birth_date: "1995.02.23"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/remi-picquette"
 ---
 
 ## キャリア遍歴
-
+Lille Métropole Rugby (2012 - 2014) -> Stade Rochelais (2014 - 2024) -> Rugby Club Vannes (2017 - 2021) -> Section Paloise Béarn Pyrénées (2024 - )

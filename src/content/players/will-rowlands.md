@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル・ローランズ"
-name_en: "nan"
+title: "Will ROWLANDS | ウィル・ローランズ"
+name_en: "Will ROWLANDS"
 name_ja: "ウィル・ローランズ"
 slug: "will-rowlands"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "125.0"
+birth_date: "1991.09.19"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/will-rowlands"
 ---
 
 ## キャリア遍歴
-
+Wasps (2015 - 2021) -> Dragons RFC (2021 - 2023) -> Racing 92 (2023 - )

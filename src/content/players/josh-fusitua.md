@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョシュ・フシトゥア"
-name_en: "nan"
+title: "Josh FUSITU'A | ジョシュ・フシトゥア"
+name_en: "Josh FUSITU'A"
 name_ja: "ジョシュ・フシトゥア"
 slug: "josh-fusitua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "118.0"
+birth_date: "2001.05.01"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-fusitua"
 ---
 
 ## キャリア遍歴
-
+Auckland (2021 - 2025) -> Blues (2021 - )

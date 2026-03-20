@@ -1,20 +1,20 @@
 ---
-title: "nan | セレスティノ・ラヴタウマダ"
-name_en: "nan"
+title: "Selestino RAVUTAUMADA | セレスティノ・ラヴタウマダ"
+name_en: "Selestino RAVUTAUMADA"
 name_ja: "セレスティノ・ラヴタウマダ"
 slug: "selestino-ravutaumada"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "183.0"
+weight: "93.0"
+birth_date: "2000.01.17"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/selestino-ravutaumada"
 ---
 
 ## キャリア遍歴
-
+New Zealand Warriors (2019 - 2020) -> Fijian Drua (2021 - 2025) -> Racing 92 (2025 - )

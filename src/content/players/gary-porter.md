@@ -1,20 +1,20 @@
 ---
-title: "nan | Gary ・ PORTER"
-name_en: "nan"
+title: "Gary ・ PORTER | Gary ・ PORTER"
+name_en: "Gary ・ PORTER"
 name_ja: "Gary ・ PORTER"
 slug: "gary-porter"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "115.0"
+birth_date: "1996.07.22"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gary-porter"
 ---
 
 ## キャリア遍歴
-
+Western Province (2017 - 2018) -> Ealing Trailfinders (2021 - 2022) -> Stormers (2022 - 2026)

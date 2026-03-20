@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョーダン・ジョセフ"
-name_en: "nan"
+title: "Jordan JOSEPH | ジョーダン・ジョセフ"
+name_en: "Jordan JOSEPH"
 name_ja: "ジョーダン・ジョセフ"
 slug: "jordan-joseph"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "190.0"
+weight: "124.0"
+birth_date: "2000.07.31"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/jordan-joseph"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Massy Essonne (2014 - 2018) -> Racing 92 (2018 - 2026) -> Section Paloise Béarn Pyrénées (2021 - )

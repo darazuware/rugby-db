@@ -1,20 +1,20 @@
 ---
-title: "nan | エフライン・エリアス"
-name_en: "nan"
+title: "Efraín ELÍAS | エフライン・エリアス"
+name_en: "Efraín ELÍAS"
 name_ja: "エフライン・エリアス"
 slug: "efrain-elias"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "LO"
+height: "200.0"
+weight: "119.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/efrain-elias"
 ---
 
 ## キャリア遍歴
-
+Jockey Club Cordoba (2022 - 2024) -> Dogos XV (2022 - 2024) -> Stade Toulousain (2024 - )

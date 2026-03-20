@@ -1,20 +1,20 @@
 ---
-title: "nan | Stedman ・ GANS"
-name_en: "nan"
+title: "Stedman ・ GANS | Stedman ・ GANS"
+name_en: "Stedman ・ GANS"
 name_ja: "Stedman ・ GANS"
 slug: "stedman-gans"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "99.0"
+birth_date: "1997.03.19"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/stedman-gans"
 ---
 
 ## キャリア遍歴
-
+Bulls (2019 - 2026)

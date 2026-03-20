@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・セイト"
-name_en: "nan"
+title: "Thomas CEYTE | トマ・セイト"
+name_en: "Thomas CEYTE"
 name_ja: "トマ・セイト"
 slug: "thomas-ceyte"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "120.0"
+birth_date: "1991.02.13"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-ceyte"
 ---
 
 ## キャリア遍歴
-
+RC Aubenas Vals (2004 - 2015) -> Association Sportive Béziers Hérault (2015 - 2016) -> US Dax Rugby Landes (2015 - 2017) -> USON Nevers Rugby (2017 - 2022) -> Aviron Bayonnais (2022 - 2024) -> ASM Clermont Auvergne (2024 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | サンティアゴ・チョコバレス"
-name_en: "nan"
+title: "Santiago CHOCOBARES | サンティアゴ・チョコバレス"
+name_en: "Santiago CHOCOBARES"
 name_ja: "サンティアゴ・チョコバレス"
 slug: "santiago-chocobares"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "100.0"
+birth_date: "1999.03.31"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/santiago-chocobares"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2018 - 2020) -> Stade Toulousain (2020 - )

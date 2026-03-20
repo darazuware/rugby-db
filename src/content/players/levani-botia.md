@@ -1,20 +1,20 @@
 ---
-title: "nan | レヴァニ・ボティア"
-name_en: "nan"
+title: "Levani BOTIA | レヴァニ・ボティア"
+name_en: "Levani BOTIA"
 name_ja: "レヴァニ・ボティア"
 slug: "levani-botia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "182.0"
+weight: "103.0"
+birth_date: "1989.03.14"
+age: 37
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラ・ロシェル"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/levani-botia"
 ---
 
 ## キャリア遍歴
-
+Stade Rochelais (2013 - )

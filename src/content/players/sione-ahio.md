@@ -1,20 +1,20 @@
 ---
-title: "nan | シオネ・アヒオ"
-name_en: "nan"
+title: "Sione AHIO | シオネ・アヒオ"
+name_en: "Sione AHIO"
 name_ja: "シオネ・アヒオ"
 slug: "sione-ahio"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "121.0"
+birth_date: "2001.01.29"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/sione-ahio"
 ---
 
 ## キャリア遍歴
-
+Auckland (2020 - 2024) -> Chiefs (2023 - )

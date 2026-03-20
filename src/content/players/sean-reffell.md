@@ -1,20 +1,20 @@
 ---
-title: "nan | ショーン ・ REFFELL"
-name_en: "nan"
+title: "ショーン ・ REFFELL | ショーン ・ REFFELL"
+name_en: "ショーン ・ REFFELL"
 name_ja: "ショーン ・ REFFELL"
 slug: "sean-reffell"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "180.0"
+weight: "102.0"
+birth_date: "1998.11.04"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-reffell"
 ---
 
 ## キャリア遍歴
-
+Saracens (2017 - 2022) -> Ulster Rugby (2022 - 2026)

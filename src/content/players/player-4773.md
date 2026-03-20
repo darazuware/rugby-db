@@ -1,20 +1,20 @@
 ---
-title: "nan | 竹田 宜純"
+title: "nan | "
 name_en: "nan"
-name_ja: "竹田 宜純"
+name_ja: ""
 slug: "player-4773"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003-07-10"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

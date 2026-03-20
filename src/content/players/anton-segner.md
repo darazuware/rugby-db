@@ -1,20 +1,20 @@
 ---
-title: "nan | アントン-セグナー"
-name_en: "nan"
+title: "Anton SEGNER | アントン-セグナー"
+name_en: "Anton SEGNER"
 name_ja: "アントン-セグナー"
 slug: "anton-segner"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "192.0"
+weight: "108.0"
+birth_date: "2001.07.24"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/anton-segner"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2019 - 2023) -> Blues (2021 - 2026) -> Auckland (2023 - )

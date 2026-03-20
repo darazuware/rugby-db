@@ -1,20 +1,20 @@
 ---
-title: "nan | サム ・ PRENDERGAST"
-name_en: "nan"
+title: "サム ・ PRENDERGAST | サム ・ PRENDERGAST"
+name_en: "サム ・ PRENDERGAST"
 name_ja: "サム ・ PRENDERGAST"
 slug: "sam-prendergast"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "194.0"
+weight: "91.0"
+birth_date: "2003.02.12"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/sam-prendergast"
 ---
 
 ## キャリア遍歴
-
+Lansdowne FC (2021 - 2022) -> Leinster Rugby (2022 - 2026)

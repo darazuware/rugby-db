@@ -1,20 +1,20 @@
 ---
-title: "nan | グレゴワール・アルフイユ"
-name_en: "nan"
+title: "Grégoire ARFEUIL | グレゴワール・アルフイユ"
+name_en: "Grégoire ARFEUIL"
 name_ja: "グレゴワール・アルフイユ"
 slug: "gregoire-arfeuil"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "WTB"
+height: "194.0"
+weight: "89.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/gregoire-arfeuil"
 ---
 
 ## キャリア遍歴
-
+Aurore Rugby Club Vitré (2014 - 2015) -> US Lectoure (2015 - 2021) -> Sporting Union Agenais (2019 - 2020) -> Section Paloise Béarn Pyrénées (2021 - )

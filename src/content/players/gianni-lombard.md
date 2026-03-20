@@ -1,20 +1,20 @@
 ---
-title: "nan | Gianni ・ LOMBARD"
-name_en: "nan"
+title: "Gianni ・ LOMBARD | Gianni ・ LOMBARD"
+name_en: "Gianni ・ LOMBARD"
 name_ja: "Gianni ・ LOMBARD"
 slug: "gianni-lombard"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "178.0"
+weight: "82.0"
+birth_date: "1998.01.22"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gianni-lombard"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2021) -> Red Hurricanes Osaka (2021 - 2022) -> Lions Rugby (2022 - 2026)

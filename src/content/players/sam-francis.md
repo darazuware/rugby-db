@@ -1,20 +1,20 @@
 ---
-title: "nan | サム ・ FRANCIS"
-name_en: "nan"
+title: "サム ・ FRANCIS | サム ・ FRANCIS"
+name_en: "サム ・ FRANCIS"
 name_ja: "サム ・ FRANCIS"
 slug: "sam-francis"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "190.0"
+weight: "100.0"
+birth_date: "2003.03.14"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-francis"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)

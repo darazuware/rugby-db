@@ -1,20 +1,20 @@
 ---
-title: "nan | ダニー-プリゾ"
-name_en: "nan"
+title: "Dany PRISO | ダニー-プリゾ"
+name_en: "Dany PRISO"
 name_ja: "ダニー-プリゾ"
 slug: "dany-priso"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "182.0"
+weight: "112.0"
+birth_date: "1994.01.02"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "Cameroon"
 scraped_url: "https://all.rugby/player/dany-priso"
 ---
 
 ## キャリア遍歴
-
+Ussel (2009 - 2012) -> Union Sportive Athlétique de Limoges (2012 - 2013) -> Stade Français Paris Rugby (2013 - 2016) -> Stade Rochelais (2016 - 2022) -> Rugby Club Toulonnais (2022 - )

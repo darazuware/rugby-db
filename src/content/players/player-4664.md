@@ -1,20 +1,20 @@
 ---
-title: "nan | 鄭 兆毅"
+title: "nan | "
 name_en: "nan"
-name_ja: "鄭 兆毅"
+name_ja: ""
 slug: "player-4664"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "13/01/2000"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

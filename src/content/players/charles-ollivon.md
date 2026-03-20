@@ -1,20 +1,20 @@
 ---
-title: "nan | シャルル-オリヴォン"
-name_en: "nan"
+title: "Charles OLLIVON | シャルル-オリヴォン"
+name_en: "Charles OLLIVON"
 name_ja: "シャルル-オリヴォン"
 slug: "charles-ollivon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "199.0"
+weight: "114.0"
+birth_date: "1993.05.11"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/charles-ollivon"
 ---
 
 ## キャリア遍歴
-
+Saint-Pée UC (2004 - 2009) -> Aviron Bayonnais (2009 - 2015) -> Rugby Club Toulonnais (2015 - )

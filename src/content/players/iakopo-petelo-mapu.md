@@ -1,20 +1,20 @@
 ---
-title: "nan | イアコポ-マプ"
-name_en: "nan"
+title: "Iakopo MAPU | イアコポ-マプ"
+name_en: "Iakopo MAPU"
 name_ja: "イアコポ-マプ"
 slug: "iakopo-petelo-mapu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "183.0"
+weight: "106.0"
+birth_date: "1997.11.04"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇼🇸 Samoa"
 scraped_url: "https://all.rugby/player/iakopo-petelo-mapu"
 ---
 
 ## キャリア遍歴
-
+Kia Toa (2023 - 2024) -> Northampton Saints (2024 - 2025) -> Stade Français Paris Rugby (2025 - )

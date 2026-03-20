@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴ-チェリー"
-name_en: "nan"
+title: "Dave CHERRY | デイヴ-チェリー"
+name_en: "Dave CHERRY"
 name_ja: "デイヴ-チェリー"
 slug: "dave-cherry"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "107.0"
+birth_date: "1991.01.03"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ヴァンヌ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (11 caps)"
 scraped_url: "https://all.rugby/player/dave-cherry"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2018 - 2025) -> Rugby Club Vannes (2025 - )

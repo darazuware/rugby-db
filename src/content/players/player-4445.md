@@ -1,20 +1,20 @@
 ---
-title: "nan | 大和 大祐"
+title: "nan | "
 name_en: "nan"
-name_ja: "大和 大祐"
+name_ja: ""
 slug: "player-4445"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ブリストル・ベアーズ"
+caps: "🇦🇷 Argentina代表 (74 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2025 - )

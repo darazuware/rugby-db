@@ -1,20 +1,20 @@
 ---
-title: "nan | アルチュール-ヴァンサン"
-name_en: "nan"
+title: "Arthur VINCENT | アルチュール-ヴァンサン"
+name_en: "Arthur VINCENT"
 name_ja: "アルチュール-ヴァンサン"
 slug: "arthur-vincent"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "92.0"
+birth_date: "1999.09.30"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "モンペリエ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/arthur-vincent"
 ---
 
 ## キャリア遍歴
-
+RC Mauguio Carnon Pays d'Or (2004 - 2013) -> Montpellier Hérault Rugby (2013 - )

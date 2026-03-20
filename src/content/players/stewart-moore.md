@@ -1,20 +1,20 @@
 ---
-title: "nan | Stewart ・ MOORE"
-name_en: "nan"
+title: "Stewart ・ MOORE | Stewart ・ MOORE"
+name_en: "Stewart ・ MOORE"
 name_ja: "Stewart ・ MOORE"
 slug: "stewart-moore"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "184.0"
+weight: "93.0"
+birth_date: "1999.08.08"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇦🇺 Australia代表 (96 caps)"
 scraped_url: "https://all.rugby/player/stewart-moore"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2019 - 2025) -> Newcastle (2025 - 2025) -> Ulster Rugby (2025 - 2025) -> Newcastle (2026 - 2026) -> Ulster Rugby (2026 - 2026)

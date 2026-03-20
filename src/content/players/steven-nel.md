@@ -1,20 +1,20 @@
 ---
-title: "nan | スティーブン ・ NEL"
-name_en: "nan"
+title: "スティーブン ・ NEL | スティーブン ・ NEL"
+name_en: "スティーブン ・ NEL"
 name_ja: "スティーブン ・ NEL"
 slug: "steven-nel"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "178.0"
+weight: "78.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/steven-nel"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

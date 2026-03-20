@@ -1,20 +1,20 @@
 ---
-title: "nan | ペニアシ・ダクワガ"
-name_en: "nan"
+title: "Peniasi DAKUWAQA | ペニアシ・ダクワガ"
+name_en: "Peniasi DAKUWAQA"
 name_ja: "ペニアシ・ダクワガ"
 slug: "peniasi-dakuwaqa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "186.0"
+weight: "95.0"
+birth_date: "1997.04.09"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/peniasi-dakuwaqa"
 ---
 
 ## キャリア遍歴
-
+Tupapa Maraerenga Panthers (2020 - 2021) -> Club fidjien (2021 - 2022) -> Stade Français Paris Rugby (2022 - )

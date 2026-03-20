@@ -1,20 +1,20 @@
 ---
-title: "nan | アドリアン・ワリオン"
-name_en: "nan"
+title: "Adrien WARION | アドリアン・ワリオン"
+name_en: "Adrien WARION"
 name_ja: "アドリアン・ワリオン"
 slug: "adrien-warion"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "115.0"
+birth_date: "2001.01.07"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/adrien-warion"
 ---
 
 ## キャリア遍歴
-
+RC Bourguésan (2006 - 2007) -> RC Tricastin (2007 - 2012) -> Provence Rugby (2012 - 2021) -> Rugby Club Toulonnais (2020 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

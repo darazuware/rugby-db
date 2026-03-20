@@ -1,20 +1,20 @@
 ---
-title: "nan | コナー ・ O'TIGHEARNAIGH"
-name_en: "nan"
+title: "コナー ・ O'TIGHEARNAIGH | コナー ・ O'TIGHEARNAIGH"
+name_en: "コナー ・ O'TIGHEARNAIGH"
 name_ja: "コナー ・ O'TIGHEARNAIGH"
 slug: "conor-o-tighearnaigh"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "118.0"
+birth_date: "2003.04.02"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "Canada代表 (70 caps)"
 scraped_url: "https://all.rugby/player/conor-o-tighearnaigh"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2026)

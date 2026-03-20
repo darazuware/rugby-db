@@ -1,20 +1,20 @@
 ---
-title: "nan | AJ・ラム"
-name_en: "nan"
+title: "AJ LAM | AJ・ラム"
+name_en: "AJ LAM"
 name_ja: "AJ・ラム"
 slug: "aj-lam"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "192.0"
+weight: "105.0"
+birth_date: "1998.07.29"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/aj-lam"
 ---
 
 ## キャリア遍歴
-
+Auckland (2018 - 2025) -> Blues (2020 - )

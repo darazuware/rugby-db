@@ -1,20 +1,20 @@
 ---
-title: "nan | Connor ・ FAHY"
-name_en: "nan"
+title: "Connor ・ FAHY | Connor ・ FAHY"
+name_en: "Connor ・ FAHY"
 name_ja: "Connor ・ FAHY"
 slug: "connor-fahy"
-position: ""
-height: "0"
+position: "CTB"
+height: "185.0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-fahy"
 ---
 
 ## キャリア遍歴
-
+Clontarf Rugby (2024 - 2025) -> Leinster Rugby (2025 - 2026)

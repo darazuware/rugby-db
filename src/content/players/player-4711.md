@@ -1,20 +1,20 @@
 ---
-title: "nan | 上田 聖"
+title: "nan | "
 name_en: "nan"
-name_ja: "上田 聖"
+name_ja: ""
 slug: "player-4711"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "レスター・タイガーズ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (16 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

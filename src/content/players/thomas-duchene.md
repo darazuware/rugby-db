@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・デュシェーヌ"
-name_en: "nan"
+title: "Thomas DUCHÊNE | トマ・デュシェーヌ"
+name_en: "Thomas DUCHÊNE"
 name_ja: "トマ・デュシェーヌ"
 slug: "thomas-duchene"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "PR"
+height: "180.0"
+weight: "125.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-duchene"
 ---
 
 ## キャリア遍歴
-
+RC Saint-Gènes-Champanelle (2011 - 2018) -> ASM Clermont Auvergne (2018 - 2025) -> Rugby Club Vannes (2025 - )

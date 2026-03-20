@@ -1,20 +1,20 @@
 ---
-title: "nan | ロブ・ヴァレティニ"
-name_en: "nan"
+title: "Rob VALETINI | ロブ・ヴァレティニ"
+name_en: "Rob VALETINI"
 name_ja: "ロブ・ヴァレティニ"
 slug: "rob-valetini"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "193.0"
+weight: "113.0"
+birth_date: "1998.09.03"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ACTブランビーズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/rob-valetini"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2017 - )

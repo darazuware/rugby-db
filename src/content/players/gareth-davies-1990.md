@@ -1,20 +1,20 @@
 ---
-title: "nan | ガレス ・ DAVIES"
-name_en: "nan"
+title: "ガレス ・ DAVIES | ガレス ・ DAVIES"
+name_en: "ガレス ・ DAVIES"
 name_ja: "ガレス ・ DAVIES"
 slug: "gareth-davies-1990"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "178.0"
+weight: "88.0"
+birth_date: "1990.08.18"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "スカーレッツ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/gareth-davies-1990"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2013 - 2026)

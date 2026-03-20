@@ -1,20 +1,20 @@
 ---
-title: "nan | テイト-マクダーモット"
-name_en: "nan"
+title: "Tate MCDERMOTT | テイト-マクダーモット"
+name_en: "Tate MCDERMOTT"
 name_ja: "テイト-マクダーモット"
 slug: "tate-mcdermott"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "179.0"
+weight: "77.0"
+birth_date: "1998.09.18"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "クイーンズランド・レッズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/tate-mcdermott"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2017 - )

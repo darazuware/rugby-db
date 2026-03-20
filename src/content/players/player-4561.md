@@ -1,20 +1,20 @@
 ---
-title: "nan | サム ・ジェフリーズ"
+title: "nan | "
 name_en: "nan"
-name_ja: "サム ・ジェフリーズ"
+name_ja: ""
 slug: "player-4561"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1996-08-21"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "グロスター・ラグビー"
+caps: "Namibia代表 (25 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )

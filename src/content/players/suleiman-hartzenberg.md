@@ -1,20 +1,20 @@
 ---
-title: "nan | Suleiman ・ HARTZENBERG"
-name_en: "nan"
+title: "Suleiman ・ HARTZENBERG | Suleiman ・ HARTZENBERG"
+name_en: "Suleiman ・ HARTZENBERG"
 name_ja: "Suleiman ・ HARTZENBERG"
 slug: "suleiman-hartzenberg"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "97.0"
+birth_date: "2003.05.20"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/suleiman-hartzenberg"
 ---
 
 ## キャリア遍歴
-
+Western Province (2021 - 2022) -> Stormers (2022 - 2026)

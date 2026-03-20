@@ -1,20 +1,20 @@
 ---
-title: "nan | 岡本 慎太郎"
+title: "nan | "
 name_en: "nan"
-name_ja: "岡本 慎太郎"
+name_ja: ""
 slug: "player-4761"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1999.08.08"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
+caps: "🇦🇺 Australia代表 (96 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

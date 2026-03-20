@@ -1,20 +1,20 @@
 ---
-title: "nan | ハッサヌ-コリンガル"
-name_en: "nan"
+title: "Hassane KOLINGAR | ハッサヌ-コリンガル"
+name_en: "Hassane KOLINGAR"
 name_ja: "ハッサヌ-コリンガル"
 slug: "hassane-kolingar"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "116.0"
+birth_date: "1998.03.06"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/hassane-kolingar"
 ---
 
 ## キャリア遍歴
-
+RC Soisy Andilly Margency (2012 - 2013) -> Racing 92 (2013 - 2026) -> Rugby Club Vannes (2018 - )

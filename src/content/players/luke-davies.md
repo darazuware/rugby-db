@@ -1,20 +1,20 @@
 ---
-title: "nan | ルーク ・ DAVIES"
-name_en: "nan"
+title: "ルーク ・ DAVIES | ルーク ・ DAVIES"
+name_en: "ルーク ・ DAVIES"
 name_ja: "ルーク ・ DAVIES"
 slug: "luke-davies"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "80.0"
+birth_date: "2002.02.26"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-davies"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2021 - 2022) -> Jersey Reds (2022 - 2023) -> Ospreys (2023 - 2026)

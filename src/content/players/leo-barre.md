@@ -1,20 +1,20 @@
 ---
-title: "nan | レオ・バレ"
-name_en: "nan"
+title: "Léo BARRÉ | レオ・バレ"
+name_en: "Léo BARRÉ"
 name_ja: "レオ・バレ"
 slug: "leo-barre"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "189.0"
+weight: "89.0"
+birth_date: "2002.08.20"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/leo-barre"
 ---
 
 ## キャリア遍歴
-
+RC Versailles (2009 - 2014) -> Rugby Club Massy Essonne (2014 - 2020) -> Stade Français Paris Rugby (2020 - )

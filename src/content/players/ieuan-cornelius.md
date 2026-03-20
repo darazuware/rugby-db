@@ -1,20 +1,20 @@
 ---
-title: "nan | Ieuan ・ CORNELIUS"
-name_en: "nan"
+title: "Ieuan ・ CORNELIUS | Ieuan ・ CORNELIUS"
+name_en: "Ieuan ・ CORNELIUS"
 name_ja: "Ieuan ・ CORNELIUS"
 slug: "ieuan-cornelius"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "188.0"
+weight: "97.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "オスプリーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/ieuan-cornelius"
 ---
 
 ## キャリア遍歴
-
+nan

@@ -1,20 +1,20 @@
 ---
-title: "nan | Alan ・ SPICER"
-name_en: "nan"
+title: "Alan ・ SPICER | Alan ・ SPICER"
+name_en: "Alan ・ SPICER"
 name_ja: "Alan ・ SPICER"
 slug: "alan-spicer"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "208.0"
+weight: "138.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/alan-spicer"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)

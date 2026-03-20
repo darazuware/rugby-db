@@ -1,20 +1,20 @@
 ---
-title: "nan | エイモン・ドイル"
-name_en: "nan"
+title: "Eamon DOYLE | エイモン・ドイル"
+name_en: "Eamon DOYLE"
 name_ja: "エイモン・ドイル"
 slug: "eamon-doyle"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "112.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/eamon-doyle"
 ---
 
 ## キャリア遍歴
-
+New South Wales Waratahs (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | フリン・イェーツ"
-name_en: "nan"
+title: "Flyn YATES | フリン・イェーツ"
+name_en: "Flyn YATES"
 name_ja: "フリン・イェーツ"
 slug: "flyn-yates"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "125.0"
+birth_date: "2000.05.25"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/flyn-yates"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2020 - 2025) -> Kamaishi Seawaves (2023 - 2024) -> Blues (2025 - )

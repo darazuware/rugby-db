@@ -1,20 +1,20 @@
 ---
-title: "nan | サイモン＝ピーター・トレアフォア"
-name_en: "nan"
+title: "Simon-Peter TOLEAFOA | サイモン＝ピーター・トレアフォア"
+name_en: "Simon-Peter TOLEAFOA"
 name_ja: "サイモン＝ピーター・トレアフォア"
 slug: "simon-peter-toleafoa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "183.0"
+weight: "90.0"
+birth_date: "1998.10.26"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The New England Free Jacks rugby team for 2024/2025"
-caps: "0"
+league: ""
+team: "モアナ・パシフィカ"
+caps: "🇼🇸 Samoa"
 scraped_url: "https://all.rugby/player/simon-peter-toleafoa"
 ---
 
 ## キャリア遍歴
-
+Counties Manukau Steelers (2023 - 2025) -> New England Free Jacks (2024 - 2025) -> Moana Pasifika (2025 - )

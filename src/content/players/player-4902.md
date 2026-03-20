@@ -1,20 +1,20 @@
 ---
-title: "nan | 中尾 隼太"
+title: "nan | "
 name_en: "nan"
-name_ja: "中尾 隼太"
+name_ja: ""
 slug: "player-4902"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "サラセンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Saracens (2025 - )

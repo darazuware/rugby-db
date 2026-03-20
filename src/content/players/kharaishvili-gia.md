@@ -1,20 +1,20 @@
 ---
-title: "nan | ギア・カライシュヴィリ"
-name_en: "nan"
+title: "Gia KHARAISHVILI | ギア・カライシュヴィリ"
+name_en: "Gia KHARAISHVILI"
 name_ja: "ギア・カライシュヴィリ"
 slug: "kharaishvili-gia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "180.0"
+weight: "120.0"
+birth_date: "1999.02.13"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/kharaishvili-gia"
 ---
 
 ## キャリア遍歴
-
+RC Armazi (2017 - 2018) -> Racing 92 (2018 - 2026) -> USON Nevers Rugby (2021 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ガバン-ヴィリエール"
-name_en: "nan"
+title: "Gabin VILLIÈRE | ガバン-ヴィリエール"
+name_en: "Gabin VILLIÈRE"
 name_ja: "ガバン-ヴィリエール"
 slug: "gabin-villiere"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "180.0"
+weight: "93.0"
+birth_date: "1995.12.13"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/gabin-villiere"
 ---
 
 ## キャリア遍歴
-
+RC Vire (2004 - 2013) -> Rouen Normandie Rugby (2013 - 2019) -> Rugby Club Toulonnais (2019 - )

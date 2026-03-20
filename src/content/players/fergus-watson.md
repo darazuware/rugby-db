@@ -1,20 +1,20 @@
 ---
-title: "nan | Fergus ・ WATSON"
-name_en: "nan"
+title: "Fergus ・ WATSON | Fergus ・ WATSON"
+name_en: "Fergus ・ WATSON"
 name_ja: "Fergus ・ WATSON"
 slug: "fergus-watson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "192.0"
+weight: "97.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/fergus-watson"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

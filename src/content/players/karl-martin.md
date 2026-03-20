@@ -1,20 +1,20 @@
 ---
-title: "nan | カール・マーティン"
-name_en: "nan"
+title: "Karl MARTIN | カール・マーティン"
+name_en: "Karl MARTIN"
 name_ja: "カール・マーティン"
 slug: "karl-martin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "189.0"
+weight: "100.0"
+birth_date: "2002.02.16"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "モンペリエ"
 caps: "0"
 scraped_url: "https://all.rugby/player/karl-martin"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2020 - 2021) -> Montpellier Hérault Rugby (2021 - 2026) -> Stade Aurillacois Cantal Auvergne (2024 - )

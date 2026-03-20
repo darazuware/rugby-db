@@ -1,20 +1,20 @@
 ---
-title: "nan | JJ ・ THERON"
-name_en: "nan"
+title: "JJ ・ THERON | JJ ・ THERON"
+name_en: "JJ ・ THERON"
 name_ja: "JJ ・ THERON"
 slug: "jj-theron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "198.0"
+weight: "108.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "Namibia代表 (3 caps)"
 scraped_url: "https://all.rugby/player/jj-theron"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

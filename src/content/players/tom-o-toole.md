@@ -1,20 +1,20 @@
 ---
-title: "nan | トム ・ O'TOOLE"
-name_en: "nan"
+title: "トム ・ O'TOOLE | トム ・ O'TOOLE"
+name_en: "トム ・ O'TOOLE"
 name_ja: "トム ・ O'TOOLE"
 slug: "tom-o-toole"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "123.0"
+birth_date: "1998.09.23"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/tom-o-toole"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2017 - 2026)

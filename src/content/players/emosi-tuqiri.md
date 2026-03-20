@@ -1,20 +1,20 @@
 ---
-title: "nan | エモシ・ツイギリ"
-name_en: "nan"
+title: "Emosi TUQIRI | エモシ・ツイギリ"
+name_en: "Emosi TUQIRI"
 name_ja: "エモシ・ツイギリ"
 slug: "emosi-tuqiri"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "194.0"
+weight: "120.0"
+birth_date: "2000.12.28"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "フィジアン・ドゥルア"
+caps: "🇫🇯 Fiji代表 (0 caps)"
 scraped_url: "https://all.rugby/player/emosi-tuqiri"
 ---
 
 ## キャリア遍歴
-
+GPS Rugby Club (2019 - 2022) -> Fijian Drua (2022 - 2026) -> Counties Manukau Steelers (2024 - )

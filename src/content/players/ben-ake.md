@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン・アケ"
-name_en: "nan"
+title: "Ben AKE | ベン・アケ"
+name_en: "Ben AKE"
 name_ja: "ベン・アケ"
 slug: "ben-ake"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "191.0"
+weight: "104.0"
+birth_date: "2003.02.24"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-ake"
 ---
 
 ## キャリア遍歴
-
+Auckland (2022 - 2023) -> Blues (2023 - )

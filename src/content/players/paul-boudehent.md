@@ -1,20 +1,20 @@
 ---
-title: "nan | ポール・ブデアン"
-name_en: "nan"
+title: "Paul BOUDEHENT | ポール・ブデアン"
+name_en: "Paul BOUDEHENT"
 name_ja: "ポール・ブデアン"
 slug: "paul-boudehent"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "192.0"
+weight: "107.0"
+birth_date: "1999.11.21"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラ・ロシェル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/paul-boudehent"
 ---
 
 ## キャリア遍歴
-
+SCO RC Angers (2010 - 2014) -> Stade Nantais (2014 - 2017) -> Stade Rochelais (2017 - )

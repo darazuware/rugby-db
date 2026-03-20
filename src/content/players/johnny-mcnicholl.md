@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョニー・マクニコル"
-name_en: "nan"
+title: "Johnny MCNICHOLL | ジョニー・マクニコル"
+name_en: "Johnny MCNICHOLL"
 name_ja: "ジョニー・マクニコル"
 slug: "johnny-mcnicholl"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "191.0"
+weight: "96.0"
+birth_date: "1990.09.24"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/johnny-mcnicholl"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2013 - 2026) -> Scarlets (2016 - 2024) -> Canterbury (2023 - )

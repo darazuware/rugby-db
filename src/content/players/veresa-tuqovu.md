@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴェレサ-トゥコヴ・ラモトタブア"
-name_en: "nan"
+title: "Veresa Tuqovu RAMOTOTABUA | ヴェレサ-トゥコヴ・ラモトタブア"
+name_en: "Veresa Tuqovu RAMOTOTABUA"
 name_ja: "ヴェレサ-トゥコヴ・ラモトタブア"
 slug: "veresa-tuqovu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "195.0"
+weight: "107.0"
+birth_date: "2000.06.12"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/veresa-tuqovu"
 ---
 
 ## キャリア遍歴
-
+Stade Français Paris Rugby (2019 - 2023) -> Stade Montois Rugby Pro (2022 - 2024) -> Oyonnax Rugby (2024 - 2025) -> Castres Olympique (2025 - )

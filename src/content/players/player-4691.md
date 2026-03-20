@@ -1,20 +1,20 @@
 ---
-title: "nan | 清水 岳"
+title: "nan | "
 name_en: "nan"
-name_ja: "清水 岳"
+name_ja: ""
 slug: "player-4691"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Dylan ・ MAART"
-name_en: "nan"
+title: "Dylan ・ MAART | Dylan ・ MAART"
+name_en: "Dylan ・ MAART"
 name_ja: "Dylan ・ MAART"
 slug: "dylan-maart"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "185.0"
+weight: "77.0"
+birth_date: "1996.09.03"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-maart"
 ---
 
 ## キャリア遍歴
-
+Griquas (2023 - 2025) -> Stormers (2025 - 2026)

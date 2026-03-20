@@ -1,20 +1,20 @@
 ---
-title: "nan | エモニ-ナラワ"
-name_en: "nan"
+title: "Emoni NARAWA | エモニ-ナラワ"
+name_en: "Emoni NARAWA"
 name_ja: "エモニ-ナラワ"
 slug: "emoni-narawa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "184.0"
+weight: "98.0"
+birth_date: "1999.07.13"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand代表 (1 caps)"
 scraped_url: "https://all.rugby/player/emoni-narawa"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2018 - 2025) -> Blues (2019 - 2021) -> Chiefs (2021 - )

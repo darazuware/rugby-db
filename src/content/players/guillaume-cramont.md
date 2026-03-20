@@ -1,20 +1,20 @@
 ---
-title: "nan | ギヨーム・クラモン"
-name_en: "nan"
+title: "Guillaume CRAMONT | ギヨーム・クラモン"
+name_en: "Guillaume CRAMONT"
 name_ja: "ギヨーム・クラモン"
 slug: "guillaume-cramont"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "182.0"
+weight: "107.0"
+birth_date: "2000.12.29"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/guillaume-cramont"
 ---
 
 ## キャリア遍歴
-
+US Dax Rugby Landes (2006 - 2019) -> Stade Toulousain (2019 - )

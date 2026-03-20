@@ -1,20 +1,20 @@
 ---
-title: "nan | Harri ・ HOUSTON"
-name_en: "nan"
+title: "Harri ・ HOUSTON | Harri ・ HOUSTON"
+name_en: "Harri ・ HOUSTON"
 name_ja: "Harri ・ HOUSTON"
 slug: "harri-houston"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "178.0"
+weight: "82.0"
+birth_date: "2003.11.27"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-houston"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

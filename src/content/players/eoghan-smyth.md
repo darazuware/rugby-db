@@ -1,20 +1,20 @@
 ---
-title: "nan | Eoghan ・ SMYTH"
-name_en: "nan"
+title: "Eoghan ・ SMYTH | Eoghan ・ SMYTH"
+name_en: "Eoghan ・ SMYTH"
 name_ja: "Eoghan ・ SMYTH"
 slug: "eoghan-smyth"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "96.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/eoghan-smyth"
 ---
 
 ## キャリア遍歴
-
+Cork Constitution RFC (2024 - 2025) -> Munster Rugby (2025 - 2026)

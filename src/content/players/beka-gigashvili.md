@@ -1,20 +1,20 @@
 ---
-title: "nan | ベカ・ギガシヴィリ"
-name_en: "nan"
+title: "Beka GIGASHVILI | ベカ・ギガシヴィリ"
+name_en: "Beka GIGASHVILI"
 name_ja: "ベカ・ギガシヴィリ"
 slug: "beka-gigashvili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "179.0"
+weight: "118.0"
+birth_date: "1992.02.17"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "Georgia"
 scraped_url: "https://all.rugby/player/beka-gigashvili"
 ---
 
 ## キャリア遍歴
-
+Stade Olympique Chambéry (2015 - 2017) -> FC Grenoble Rugby (2017 - 2019) -> Rugby Club Toulonnais (2019 - )

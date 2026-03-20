@@ -1,20 +1,20 @@
 ---
-title: "nan | 山下 楽平"
+title: "nan | "
 name_en: "nan"
-name_ja: "山下 楽平"
+name_ja: ""
 slug: "player-4883"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "22/06/2003"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

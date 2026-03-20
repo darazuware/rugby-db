@@ -1,20 +1,20 @@
 ---
-title: "nan | ダーシー-スウェイン"
-name_en: "nan"
+title: "Darcy SWAIN | ダーシー-スウェイン"
+name_en: "Darcy SWAIN"
 name_ja: "ダーシー-スウェイン"
 slug: "darcy-swain"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "117.0"
+birth_date: "1997.07.05"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェスタン・フォース"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/darcy-swain"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2017 - 2024) -> Western Force (2024 - )

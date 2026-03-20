@@ -1,20 +1,20 @@
 ---
-title: "nan | Nikolaj ・ VAROTTO"
-name_en: "nan"
+title: "Nikolaj ・ VAROTTO | Nikolaj ・ VAROTTO"
+name_en: "Nikolaj ・ VAROTTO"
 name_ja: "Nikolaj ・ VAROTTO"
 slug: "nikolaj-varotto"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "170.0"
+weight: "80.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/nikolaj-varotto"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2025 - 2026)

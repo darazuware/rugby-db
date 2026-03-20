@@ -1,20 +1,20 @@
 ---
-title: "nan | Nick ・ TIMONEY"
-name_en: "nan"
+title: "Nick ・ TIMONEY | Nick ・ TIMONEY"
+name_en: "Nick ・ TIMONEY"
 name_ja: "Nick ・ TIMONEY"
 slug: "nick-timoney"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "114.0"
+birth_date: "1995.08.01"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/nick-timoney"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2016 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | トム ・ CLARKSON"
-name_en: "nan"
+title: "トム ・ CLARKSON | トム ・ CLARKSON"
+name_en: "トム ・ CLARKSON"
 name_ja: "トム ・ CLARKSON"
 slug: "tom-clarkson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "118.0"
+birth_date: "2000.02.22"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland代表 (6 caps)"
 scraped_url: "https://all.rugby/player/tom-clarkson"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2018 - 2026)

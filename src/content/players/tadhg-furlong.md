@@ -1,20 +1,20 @@
 ---
-title: "nan | タイグ ・ FURLONG"
-name_en: "nan"
+title: "タイグ ・ FURLONG | タイグ ・ FURLONG"
+name_en: "タイグ ・ FURLONG"
 name_ja: "タイグ ・ FURLONG"
 slug: "tadhg-furlong"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "119.0"
+birth_date: "1992.11.14"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/tadhg-furlong"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2013 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | シモン・ブルジョワ"
-name_en: "nan"
+title: "Simon BOURGEOIS | シモン・ブルジョワ"
+name_en: "Simon BOURGEOIS"
 name_ja: "シモン・ブルジョワ"
 slug: "simon-bourgeois"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "122.0"
+birth_date: "2001.11.30"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/simon-bourgeois"
 ---
 
 ## キャリア遍歴
-
+Section Lexovienne Rugby (2006 - 2017) -> Rugby Club Vannes (2017 - )

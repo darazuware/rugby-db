@@ -1,20 +1,20 @@
 ---
-title: "nan | サム・タワケ"
-name_en: "nan"
+title: "Samu TAWAKE | サム・タワケ"
+name_en: "Samu TAWAKE"
 name_ja: "サム・タワケ"
 slug: "samu-tawake"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "120.0"
+birth_date: "1996.09.11"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "フィジアン・ドゥルア"
+caps: "🇫🇯 Fiji代表 (2 caps)"
 scraped_url: "https://all.rugby/player/samu-tawake"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2017 - 2024) -> Manawatu Turbos (2018 - 2020) -> Rugby United New-York (2020 - 2021) -> Fijian Drua (2021 - )

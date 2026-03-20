@@ -1,20 +1,20 @@
 ---
-title: "nan | 村田 オスカロイド"
+title: "nan | "
 name_en: "nan"
-name_ja: "村田 オスカロイド"
+name_ja: ""
 slug: "player-4714"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "27/11/1995"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

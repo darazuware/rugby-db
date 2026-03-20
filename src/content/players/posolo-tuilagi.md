@@ -1,20 +1,20 @@
 ---
-title: "nan | ポソロ・ツイラギ"
-name_en: "nan"
+title: "Posolo TUILAGI | ポソロ・ツイラギ"
+name_en: "Posolo TUILAGI"
 name_ja: "ポソロ・ツイラギ"
 slug: "posolo-tuilagi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "LO"
+height: "194.0"
+weight: "149.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇼🇸 Samoa"
 scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Arlequins Perpignanais (2010 - )

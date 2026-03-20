@@ -1,20 +1,20 @@
 ---
-title: "nan | Cam ・ WINNETT"
-name_en: "nan"
+title: "Cam ・ WINNETT | Cam ・ WINNETT"
+name_en: "Cam ・ WINNETT"
 name_ja: "Cam ・ WINNETT"
 slug: "cam-winnett"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "180.0"
+weight: "85.0"
+birth_date: "2003.01.07"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "カーディフ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/cam-winnett"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2021 - 2026)

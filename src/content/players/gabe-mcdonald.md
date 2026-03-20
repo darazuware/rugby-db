@@ -1,20 +1,20 @@
 ---
-title: "nan | Gabe ・ MCDONALD"
-name_en: "nan"
+title: "Gabe ・ MCDONALD | Gabe ・ MCDONALD"
+name_en: "Gabe ・ MCDONALD"
 name_ja: "Gabe ・ MCDONALD"
 slug: "gabe-mcdonald"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "190.0"
+weight: "93.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gabe-mcdonald"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2023 - 2026)

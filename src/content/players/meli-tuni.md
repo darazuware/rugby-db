@@ -1,20 +1,20 @@
 ---
-title: "nan | メリ・ツイ"
-name_en: "nan"
+title: "Meli TUNI | メリ・ツイ"
+name_en: "Meli TUNI"
 name_ja: "メリ・ツイ"
 slug: "meli-tuni"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "99.0"
+birth_date: "2000.06.29"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/meli-tuni"
 ---
 
 ## キャリア遍歴
-
+Suva Rugby Union (2020 - 2021) -> Fijian Drua (2021 - )

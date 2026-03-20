@@ -1,20 +1,20 @@
 ---
-title: "nan | ハリー-ゴッドフリー"
-name_en: "nan"
+title: "Harry GODFREY | ハリー-ゴッドフリー"
+name_en: "Harry GODFREY"
 name_ja: "ハリー-ゴッドフリー"
 slug: "harry-godfrey"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "176.0"
+weight: "88.0"
+birth_date: "2003.01.03"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-godfrey"
 ---
 
 ## キャリア遍歴
-
+Hawke's Bay Magpies (2020 - 2025) -> Hurricanes (2022 - )

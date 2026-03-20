@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ ・ LOWE"
-name_en: "nan"
+title: "ジェームズ ・ LOWE | ジェームズ ・ LOWE"
+name_en: "ジェームズ ・ LOWE"
 name_ja: "ジェームズ ・ LOWE"
 slug: "james-lowe"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "188.0"
+weight: "105.0"
+birth_date: "1992.07.08"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/james-lowe"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2013 - 2017) -> Leinster Rugby (2017 - 2026)

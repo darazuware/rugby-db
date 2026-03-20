@@ -1,20 +1,20 @@
 ---
-title: "nan | PA ・ ファン ・ NIEKERK"
-name_en: "nan"
+title: "PA ・ ファン ・ NIEKERK | PA ・ ファン ・ NIEKERK"
+name_en: "PA ・ ファン ・ NIEKERK"
 name_ja: "PA ・ ファン ・ NIEKERK"
 slug: "philip-albert-van-niekerk"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "182.0"
+weight: "94.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/philip-albert-van-niekerk"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2023 - 2025) -> Bulls (2025 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Stafford ・ MCDOWALL"
-name_en: "nan"
+title: "Stafford ・ MCDOWALL | Stafford ・ MCDOWALL"
+name_en: "Stafford ・ MCDOWALL"
 name_ja: "Stafford ・ MCDOWALL"
 slug: "stafford-mcdowall"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "103.0"
+birth_date: "1998.02.24"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/stafford-mcdowall"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2017 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Henry ・ Tasesa ・ VOLKMAN"
-name_en: "nan"
+title: "Henry ・ Tasesa ・ VOLKMAN | Henry ・ Tasesa ・ VOLKMAN"
+name_en: "Henry ・ Tasesa ・ VOLKMAN"
 name_ja: "Henry ・ Tasesa ・ VOLKMAN"
 slug: "henry-tasesa-volkman"
-position: ""
-height: "0"
-weight: "0"
+position: "LO"
+height: "200.0"
+weight: "125.0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-tasesa-volkman"
 ---
 
 ## キャリア遍歴
-
+Canberra Royals (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

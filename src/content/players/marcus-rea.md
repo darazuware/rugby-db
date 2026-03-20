@@ -1,20 +1,20 @@
 ---
-title: "nan | Marcus ・ REA"
-name_en: "nan"
+title: "Marcus ・ REA | Marcus ・ REA"
+name_en: "Marcus ・ REA"
 name_ja: "Marcus ・ REA"
 slug: "marcus-rea"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "189.0"
+weight: "110.0"
+birth_date: "1997.09.08"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "Chile代表 (12 caps)"
 scraped_url: "https://all.rugby/player/marcus-rea"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2018 - 2026)

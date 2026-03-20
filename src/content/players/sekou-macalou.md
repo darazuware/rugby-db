@@ -1,20 +1,20 @@
 ---
-title: "nan | セク・マカドゥ"
-name_en: "nan"
+title: "Sékou MACALOU | セク・マカドゥ"
+name_en: "Sékou MACALOU"
 name_ja: "セク・マカドゥ"
 slug: "sekou-macalou"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "195.0"
+weight: "108.0"
+birth_date: "1995.04.20"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/sekou-macalou"
 ---
 
 ## キャリア遍歴
-
+AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> Stade Français Paris Rugby (2015 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ハムザ・カベシュ"
-name_en: "nan"
+title: "Hamza KAABÈCHE | ハムザ・カベシュ"
+name_en: "Hamza KAABÈCHE"
 name_ja: "ハムザ・カベシュ"
 slug: "hamza-kaabeche"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "118.0"
+birth_date: "1996.09.23"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "リヨン"
 caps: "0"
 scraped_url: "https://all.rugby/player/hamza-kaabeche"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2012 - )

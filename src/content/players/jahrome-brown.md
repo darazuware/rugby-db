@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャローム-ブラウン"
-name_en: "nan"
+title: "Jahrome BROWN | ジャローム-ブラウン"
+name_en: "Jahrome BROWN"
 name_ja: "ジャローム-ブラウン"
 slug: "jahrome-brown"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "189.0"
+weight: "105.0"
+birth_date: "1996.09.29"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/jahrome-brown"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2018 - 2024) -> Waikato Mooloos (2024 - 2025) -> Chiefs (2024 - )

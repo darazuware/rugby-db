@@ -1,20 +1,20 @@
 ---
-title: "nan | Shayne ・ BOLTON"
-name_en: "nan"
+title: "Shayne ・ BOLTON | Shayne ・ BOLTON"
+name_en: "Shayne ・ BOLTON"
 name_ja: "Shayne ・ BOLTON"
 slug: "shayne-bolton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "188.0"
+weight: "100.0"
+birth_date: "2000.06.29"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "コナート・ラグビー"
+caps: "Call-ups代表 (0 caps)"
 scraped_url: "https://all.rugby/player/shayne-bolton"
 ---
 
 ## キャリア遍歴
-
+University of the Free State (2020 - 2021) -> Connacht Rugby (2021 - 2026)

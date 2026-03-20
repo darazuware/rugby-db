@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン・スティーヴンソン"
-name_en: "nan"
+title: "Ben STEVENSON | ベン・スティーヴンソン"
+name_en: "Ben STEVENSON"
 name_ja: "ベン・スティーヴンソン"
 slug: "ben-stevenson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "189.0"
+weight: "99.0"
+birth_date: "1998.07.19"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-stevenson"
 ---
 
 ## キャリア遍歴
-
+Newcastle (2016 - 2025) -> Rugby Club Vannes (2025 - )

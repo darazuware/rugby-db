@@ -1,20 +1,20 @@
 ---
-title: "nan | ロリー・スコット"
-name_en: "nan"
+title: "Rory SCOTT | ロリー・スコット"
+name_en: "Rory SCOTT"
 name_ja: "ロリー・スコット"
 slug: "rory-scott"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "189.0"
+weight: "100.0"
+birth_date: "2000.09.15"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rory-scott"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2019 - )

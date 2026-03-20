@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョシュ ・ STEVENS"
-name_en: "nan"
+title: "ジョシュ ・ STEVENS | ジョシュ ・ STEVENS"
+name_en: "ジョシュ ・ STEVENS"
 name_ja: "ジョシュ ・ STEVENS"
 slug: "josh-stevens"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "179.0"
+weight: "105.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-stevens"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2023 - 2026)

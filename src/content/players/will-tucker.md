@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル・タッカー"
-name_en: "nan"
+title: "Will TUCKER | ウィル・タッカー"
+name_en: "Will TUCKER"
 name_ja: "ウィル・タッカー"
 slug: "will-tucker"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "111.0"
+birth_date: "1998.03.16"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/will-tucker"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2017 - 2019) -> Highlanders (2019 - 2024) -> Otago (2019 - 2025) -> Rugby United New-York (2021 - 2022) -> Hurricanes (2024 - 2025) -> AZ-COM Maruwa Momotaro's (2025 - 2026) -> Crusaders (2025 - )

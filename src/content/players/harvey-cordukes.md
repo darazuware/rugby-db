@@ -1,20 +1,20 @@
 ---
-title: "nan | ハーヴェイ・コーデュークス"
-name_en: "nan"
+title: "Harvey CORDUKES | ハーヴェイ・コーデュークス"
+name_en: "Harvey CORDUKES"
 name_ja: "ハーヴェイ・コーデュークス"
 slug: "harvey-cordukes"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "115.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/harvey-cordukes"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2023 - 2026) -> Provence Rugby (2024 - )

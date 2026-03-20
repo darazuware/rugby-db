@@ -1,20 +1,20 @@
 ---
-title: "nan | Cristiano ・ TIZZANO"
-name_en: "nan"
+title: "Cristiano ・ TIZZANO | Cristiano ・ TIZZANO"
+name_en: "Cristiano ・ TIZZANO"
 name_ja: "Cristiano ・ TIZZANO"
 slug: "cristiano-tizzano"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "174.0"
+weight: "80.0"
+birth_date: "2003.08.07"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cristiano-tizzano"
 ---
 
 ## キャリア遍歴
-
+Mogliano Veneto Rugby (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2025) -> Mogliano Veneto Rugby (2025 - 2025) -> Benetton Rugby Trévise (2026 - 2026) -> Mogliano Veneto Rugby (2026 - 2026)

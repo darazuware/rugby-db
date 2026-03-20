@@ -1,20 +1,20 @@
 ---
-title: "nan | Asad ・ MOOS"
-name_en: "nan"
+title: "Asad ・ MOOS | Asad ・ MOOS"
+name_en: "Asad ・ MOOS"
 name_ja: "Asad ・ MOOS"
 slug: "asad-moos"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "173.0"
+weight: "75.0"
+birth_date: "2004.01.07"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/asad-moos"
 ---
 
 ## キャリア遍歴
-
+Western Province (2023 - 2025) -> Stormers (2025 - 2026)

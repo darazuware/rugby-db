@@ -1,20 +1,20 @@
 ---
-title: "nan | Wes ・ GOOSEN"
-name_en: "nan"
+title: "Wes ・ GOOSEN | Wes ・ GOOSEN"
+name_en: "Wes ・ GOOSEN"
 name_ja: "Wes ・ GOOSEN"
 slug: "wes-goosen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "92.0"
+birth_date: "1995.10.20"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/wes-goosen"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2015 - 2019) -> Wellington Lions (2019 - 2019) -> Hurricanes (2020 - 2020) -> Wellington Lions (2020 - 2020) -> Hurricanes (2020 - 2020) -> Wellington Lions (2020 - 2020) -> Hurricanes (2021 - 2021) -> Wellington Lions (2021 - 2021) -> Hurricanes (2021 - 2022) -> Edimbourg Rugby (2022 - 2026)

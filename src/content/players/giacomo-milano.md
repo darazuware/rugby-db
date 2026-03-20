@@ -1,20 +1,20 @@
 ---
-title: "nan | Giacomo ・ MILANO"
-name_en: "nan"
+title: "Giacomo ・ MILANO | Giacomo ・ MILANO"
+name_en: "Giacomo ・ MILANO"
 name_ja: "Giacomo ・ MILANO"
 slug: "giacomo-milano"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "192.0"
+weight: "110.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/giacomo-milano"
 ---
 
 ## キャリア遍歴
-
+Unione Rugby Capitolina (2023 - 2024) -> Zebre Parma (2024 - 2026)

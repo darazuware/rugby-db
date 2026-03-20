@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴァランタン・ユトー"
-name_en: "nan"
+title: "Valentin HUTTEAU | ヴァランタン・ユトー"
+name_en: "Valentin HUTTEAU"
 name_ja: "ヴァランタン・ユトー"
 slug: "valentin-hutteau"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "SH"
+height: "169.0"
+weight: "75.0"
+birth_date: "//2007"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ボルドー・ベグル"
 caps: "0"
 scraped_url: "https://all.rugby/player/valentin-hutteau"
 ---
 
 ## キャリア遍歴
-
+US Pithiviers (2012 - 2020) -> Rugby Club Massy Essonne (2020 - 2025) -> Union Bordeaux-Bègles (2025 - )

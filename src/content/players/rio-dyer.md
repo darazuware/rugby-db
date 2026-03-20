@@ -1,20 +1,20 @@
 ---
-title: "nan | Rio ・ DYER"
-name_en: "nan"
+title: "Rio ・ DYER | Rio ・ DYER"
+name_en: "Rio ・ DYER"
 name_ja: "Rio ・ DYER"
 slug: "rio-dyer"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "185.0"
+weight: "84.0"
+birth_date: "1999.12.21"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ドラゴンズ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/rio-dyer"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2017 - 2026)

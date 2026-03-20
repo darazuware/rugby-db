@@ -1,20 +1,20 @@
 ---
-title: "nan | エドゥアール＝ジュニア-ジャベア・ニョッケ"
-name_en: "nan"
+title: "Édouard-Junior JABEA NJOCKE | エドゥアール＝ジュニア-ジャベア・ニョッケ"
+name_en: "Édouard-Junior JABEA NJOCKE"
 name_ja: "エドゥアール＝ジュニア-ジャベア・ニョッケ"
 slug: "edouard-junior-jabea-njocke"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "PR"
+height: "180.0"
+weight: "118.0"
+birth_date: "//2006"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/edouard-junior-jabea-njocke"
 ---
 
 ## キャリア遍歴
-
+Sainte-Geneviève Sports Rugby (2012 - 2014) -> Rugby Club Massy Essonne (2016 - 2024) -> Racing 92 (2024 - )

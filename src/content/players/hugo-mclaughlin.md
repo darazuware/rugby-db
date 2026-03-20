@@ -1,20 +1,20 @@
 ---
-title: "nan | ヒューゴ ・ MCLAUGHLIN"
-name_en: "nan"
+title: "ヒューゴ ・ MCLAUGHLIN | ヒューゴ ・ MCLAUGHLIN"
+name_en: "ヒューゴ ・ MCLAUGHLIN"
 name_ja: "ヒューゴ ・ MCLAUGHLIN"
 slug: "hugo-mclaughlin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "181.0"
+weight: "90.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/hugo-mclaughlin"
 ---
 
 ## キャリア遍歴
-
+Lansdowne FC (2023 - 2024) -> Leinster Rugby (2024 - 2026)

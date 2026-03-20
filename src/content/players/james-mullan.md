@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ-マラン"
-name_en: "nan"
+title: "James MULLAN | ジェームズ-マラン"
+name_en: "James MULLAN"
 name_ja: "ジェームズ-マラン"
 slug: "james-mullan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "188.0"
+weight: "107.0"
+birth_date: "2002.11.20"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-mullan"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2022 - 2024) -> Crusaders (2023 - 2024) -> Northland Taniwha (2024 - 2025) -> Blues (2024 - )

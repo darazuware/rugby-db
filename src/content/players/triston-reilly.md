@@ -1,20 +1,20 @@
 ---
-title: "nan | トリスタン・ライリー"
-name_en: "nan"
+title: "Triston REILLY | トリスタン・ライリー"
+name_en: "Triston REILLY"
 name_ja: "トリスタン・ライリー"
 slug: "triston-reilly"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "182.0"
+weight: "95.0"
+birth_date: "1999.01.14"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/triston-reilly"
 ---
 
 ## キャリア遍歴
-
+Sydney (2018 - 2019) -> New South Wales Waratahs (2019 - 2026) -> Wests Tigers (2022 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ブレット-キャメロン"
-name_en: "nan"
+title: "Brett CAMERON | ブレット-キャメロン"
+name_en: "Brett CAMERON"
 name_ja: "ブレット-キャメロン"
 slug: "brett-cameron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "175.0"
+weight: "84.0"
+birth_date: "1996.10.04"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/brett-cameron"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2017 - 2021) -> Canterbury (2019 - 2020) -> Manawatu Turbos (2020 - 2025) -> Kamaishi Seawaves (2021 - 2022) -> Hurricanes (2022 - )

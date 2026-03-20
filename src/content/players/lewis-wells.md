@@ -1,20 +1,20 @@
 ---
-title: "nan | Lewis ・ WELLS"
-name_en: "nan"
+title: "Lewis ・ WELLS | Lewis ・ WELLS"
+name_en: "Lewis ・ WELLS"
 name_ja: "Lewis ・ WELLS"
 slug: "lewis-wells"
-position: ""
+position: "Winger"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2002.11.20"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/lewis-wells"
 ---
 
 ## キャリア遍歴
-
+Linlithgow RFC (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)

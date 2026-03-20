@@ -1,20 +1,20 @@
 ---
-title: "nan | ヨラム・モエファナ"
-name_en: "nan"
+title: "Yoram MOEFANA | ヨラム・モエファナ"
+name_en: "Yoram MOEFANA"
 name_ja: "ヨラム・モエファナ"
 slug: "yoram-moefana"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "95.0"
+birth_date: "2000.07.18"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/yoram-moefana"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Athlétique de Limoges (2012 - 2013) -> US Colomiers (2013 - 2019) -> Union Bordeaux-Bègles (2019 - )

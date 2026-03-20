@@ -1,20 +1,20 @@
 ---
-title: "nan | Ruan ・ VENTER"
-name_en: "nan"
+title: "Ruan ・ VENTER | Ruan ・ VENTER"
+name_en: "Ruan ・ VENTER"
 name_ja: "Ruan ・ VENTER"
 slug: "ruan-venter"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "120.0"
+birth_date: "2002.11.29"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ruan-venter"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2021 - 2026)

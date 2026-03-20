@@ -1,20 +1,20 @@
 ---
-title: "nan | Evan ・ O'CONNELL"
-name_en: "nan"
+title: "Evan ・ O'CONNELL | Evan ・ O'CONNELL"
+name_en: "Evan ・ O'CONNELL"
 name_ja: "Evan ・ O'CONNELL"
 slug: "evan-o-connell"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "109.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/evan-o-connell"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2022 - 2026)

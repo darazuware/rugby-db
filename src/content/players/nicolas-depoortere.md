@@ -1,20 +1,20 @@
 ---
-title: "nan | ニコラ・ドゥポルテール"
-name_en: "nan"
+title: "Nicolas DEPOORTÈRE | ニコラ・ドゥポルテール"
+name_en: "Nicolas DEPOORTÈRE"
 name_ja: "ニコラ・ドゥポルテール"
 slug: "nicolas-depoortere"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "194.0"
+weight: "94.0"
+birth_date: "2003.01.13"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/nicolas-depoortere"
 ---
 
 ## キャリア遍歴
-
+US Izon (2007 - 2016) -> Union Bordeaux-Bègles (2016 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | アリヴェレティ-ラカ"
-name_en: "nan"
+title: "Alivereti RAKA | アリヴェレティ-ラカ"
+name_en: "Alivereti RAKA"
 name_ja: "アリヴェレティ-ラカ"
 slug: "alivereti-raka"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "189.0"
+weight: "105.0"
+birth_date: "1994.12.09"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "クレルモン"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/alivereti-raka"
 ---
 
 ## キャリア遍歴
-
+ASM Clermont Auvergne (2014 - )

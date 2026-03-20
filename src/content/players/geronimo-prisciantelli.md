@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェロニモ-プリシャンテッリ"
-name_en: "nan"
+title: "Geronimo PRISCIANTELLI | ジェロニモ-プリシャンテッリ"
+name_en: "Geronimo PRISCIANTELLI"
 name_ja: "ジェロニモ-プリシャンテッリ"
 slug: "geronimo-prisciantelli"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "183.0"
+weight: "87.0"
+birth_date: "1999.08.23"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/geronimo-prisciantelli"
 ---
 
 ## キャリア遍歴
-
+Club Atlético San Isidro (2018 - 2022) -> Jaguares XV (2021 - 2022) -> Zebre Parma (2022 - 2025) -> Racing 92 (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 人羅 奎太郎"
+title: "nan | "
 name_en: "nan"
-name_ja: "人羅 奎太郎"
+name_ja: ""
 slug: "player-4782"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2001-06-05"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

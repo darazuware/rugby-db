@@ -1,20 +1,20 @@
 ---
-title: "nan | ライアン・ロナーガン"
-name_en: "nan"
+title: "Ryan LONERGAN | ライアン・ロナーガン"
+name_en: "Ryan LONERGAN"
 name_ja: "ライアン・ロナーガン"
 slug: "ryan-lonergan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "184.0"
+weight: "82.0"
+birth_date: "1998.04.06"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ACTブランビーズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/ryan-lonergan"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2016 - )

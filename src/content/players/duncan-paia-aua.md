@@ -1,20 +1,20 @@
 ---
-title: "nan | ダンカン-パイアアウア"
-name_en: "nan"
+title: "Duncan PAIA'AUA | ダンカン-パイアアウア"
+name_en: "Duncan PAIA'AUA"
 name_ja: "ダンカン-パイアアウア"
 slug: "duncan-paia-aua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "92.0"
+birth_date: "1995.01.20"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/duncan-paia-aua"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2014 - 2019) -> Rugby Club Toulonnais (2019 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

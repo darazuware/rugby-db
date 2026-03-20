@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴァンサン・ジュディチェリ"
-name_en: "nan"
+title: "Vincent GIUDICELLI | ヴァンサン・ジュディチェリ"
+name_en: "Vincent GIUDICELLI"
 name_ja: "ヴァンサン・ジュディチェリ"
 slug: "vincent-giudicelli"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "104.0"
+birth_date: "1997.06.25"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "バイヨンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/vincent-giudicelli"
 ---
 
 ## キャリア遍歴
-
+Montpellier Hérault Rugby (2004 - 2023) -> Lyon Olympique Universitaire Rugby (2016 - 2017) -> Aviron Bayonnais (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | コナー ・ ライアン"
-name_en: "nan"
+title: "コナー ・ ライアン | コナー ・ ライアン"
+name_en: "コナー ・ ライアン"
 name_ja: "コナー ・ ライアン"
 slug: "conor-ryan"
-position: ""
+position: "LO"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003.10.04"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/conor-ryan"
 ---
 
 ## キャリア遍歴
-
+University College Cork (2024 - 2025) -> Munster Rugby (2025 - 2026)

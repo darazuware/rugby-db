@@ -1,20 +1,20 @@
 ---
-title: "nan | ダン ・ GEMINE"
-name_en: "nan"
+title: "ダン ・ GEMINE | ダン ・ GEMINE"
+name_en: "ダン ・ GEMINE"
 name_ja: "ダン ・ GEMINE"
 slug: "dan-gemine"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "189.0"
+weight: "107.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-gemine"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2023 - 2025) -> Llandovery RFC (2025 - 2025) -> Scarlets (2025 - 2025) -> Llandovery RFC (2026 - 2026) -> Scarlets (2026 - 2026)

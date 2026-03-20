@@ -1,20 +1,20 @@
 ---
-title: "nan | テビタ ・リー"
+title: "nan | "
 name_en: "nan"
-name_ja: "テビタ ・リー"
+name_ja: ""
 slug: "player-4928"
-position: ""
+position: "Fly-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "サラセンズ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (107 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Saracens (2025 - )

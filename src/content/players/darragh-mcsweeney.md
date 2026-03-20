@@ -1,20 +1,20 @@
 ---
-title: "nan | ダラ ・ MCSWEENEY"
-name_en: "nan"
+title: "ダラ ・ MCSWEENEY | ダラ ・ MCSWEENEY"
+name_en: "ダラ ・ MCSWEENEY"
 name_ja: "ダラ ・ MCSWEENEY"
 slug: "darragh-mcsweeney"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "191.0"
+weight: "130.0"
+birth_date: "2002.08.19"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/darragh-mcsweeney"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2021 - 2024) -> Cornish Pirates (2024 - 2024) -> Munster Rugby (2025 - 2025) -> Cornish Pirates (2025 - 2025) -> Munster Rugby (2025 - 2026)

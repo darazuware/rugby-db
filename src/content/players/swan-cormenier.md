@@ -1,20 +1,20 @@
 ---
-title: "nan | スワン・コルムニエ"
-name_en: "nan"
+title: "Swan CORMENIER | スワン・コルムニエ"
+name_en: "Swan CORMENIER"
 name_ja: "スワン・コルムニエ"
 slug: "swan-cormenier"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "178.0"
+weight: "120.0"
+birth_date: "1996.01.18"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "バイヨンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/swan-cormenier"
 ---
 
 ## キャリア遍歴
-
+CA Brive Corrèze Limousin (2014 - 2017) -> Sporting Club Albigeois (2017 - 2019) -> Aviron Bayonnais (2019 - )

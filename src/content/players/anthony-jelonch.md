@@ -1,20 +1,20 @@
 ---
-title: "nan | アントニー-ジュロンシュ"
-name_en: "nan"
+title: "Anthony JELONCH | アントニー-ジュロンシュ"
+name_en: "Anthony JELONCH"
 name_ja: "アントニー-ジュロンシュ"
 slug: "anthony-jelonch"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "195.0"
+weight: "108.0"
+birth_date: "1996.07.28"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/anthony-jelonch"
 ---
 
 ## キャリア遍歴
-
+Vic-Fezensac (2004 - 2012) -> Rugby Club Auch (2012 - 2014) -> Castres Olympique (2014 - 2021) -> Stade Toulousain (2021 - )

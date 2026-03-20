@@ -1,20 +1,20 @@
 ---
-title: "nan | イーサン・ティア"
-name_en: "nan"
+title: "Ethan TIA | イーサン・ティア"
+name_en: "Ethan TIA"
 name_ja: "イーサン・ティア"
 slug: "ethan-tia"
-position: ""
+position: "HO"
 height: "0"
 weight: "0"
-birth_date: ""
+birth_date: "//2006"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France代表 (3 caps)"
 scraped_url: "https://all.rugby/player/ethan-tia"
 ---
 
 ## キャリア遍歴
-
+Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020) -> Stade Français Paris Rugby (2020 - )

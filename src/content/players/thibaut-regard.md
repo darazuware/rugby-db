@@ -1,20 +1,20 @@
 ---
-title: "nan | ティボー・ルガール"
-name_en: "nan"
+title: "Thibaut REGARD | ティボー・ルガール"
+name_en: "Thibaut REGARD"
 name_ja: "ティボー・ルガール"
 slug: "thibaut-regard"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "95.0"
+birth_date: "1993.08.06"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "リヨン"
 caps: "0"
 scraped_url: "https://all.rugby/player/thibaut-regard"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2011 - )

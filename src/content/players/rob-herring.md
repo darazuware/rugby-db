@@ -1,20 +1,20 @@
 ---
-title: "nan | Rob ・ HERRING"
-name_en: "nan"
+title: "Rob ・ HERRING | Rob ・ HERRING"
+name_en: "Rob ・ HERRING"
 name_ja: "Rob ・ HERRING"
 slug: "rob-herring"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "185.0"
+weight: "106.0"
+birth_date: "1990.04.27"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/rob-herring"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2013 - 2026)

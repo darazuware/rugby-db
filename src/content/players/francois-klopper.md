@@ -1,20 +1,20 @@
 ---
-title: "nan | Fran ・ KLOPPER"
-name_en: "nan"
+title: "Fran ・ KLOPPER | Fran ・ KLOPPER"
+name_en: "Fran ・ KLOPPER"
 name_ja: "Fran ・ KLOPPER"
 slug: "francois-klopper"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "130.0"
+birth_date: "1999.09.07"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/francois-klopper"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2018 - 2019) -> Blue Bulls (2020 - 2022) -> Bulls (2022 - 2026)

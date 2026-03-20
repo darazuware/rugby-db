@@ -1,20 +1,20 @@
 ---
-title: "nan | Oli ・ JAGER"
-name_en: "nan"
+title: "Oli ・ JAGER | Oli ・ JAGER"
+name_en: "Oli ・ JAGER"
 name_ja: "Oli ・ JAGER"
 slug: "oli-jager"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "192.0"
+weight: "127.0"
+birth_date: "1995.07.05"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/oli-jager"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2016 - 2019) -> Canterbury (2019 - 2019) -> Crusaders (2020 - 2020) -> Canterbury (2020 - 2020) -> Crusaders (2020 - 2020) -> Canterbury (2020 - 2020) -> Crusaders (2021 - 2021) -> Canterbury (2021 - 2021) -> Crusaders (2021 - 2021) -> Canterbury (2021 - 2021) -> Crusaders (2022 - 2022) -> Canterbury (2022 - 2022) -> Crusaders (2022 - 2022) -> Canterbury (2022 - 2022) -> Crusaders (2023 - 2023) -> Canterbury (2023 - 2023) -> Munster Rugby (2023 - 2026)

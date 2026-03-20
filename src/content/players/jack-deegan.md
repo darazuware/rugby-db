@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャック ・ DEEGAN"
-name_en: "nan"
+title: "ジャック ・ DEEGAN | ジャック ・ DEEGAN"
+name_en: "ジャック ・ DEEGAN"
 name_ja: "ジャック ・ DEEGAN"
 slug: "jack-deegan"
-position: ""
-height: "0"
+position: "CTB"
+height: "188.0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-deegan"
 ---
 
 ## キャリア遍歴
-
+Cistercian College Roscrea (2022 - 2025) -> Leinster Rugby (2025 - 2026)

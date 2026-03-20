@@ -1,20 +1,20 @@
 ---
-title: "nan | ダン ・ LANCASTER"
-name_en: "nan"
+title: "ダン ・ LANCASTER | ダン ・ LANCASTER"
+name_en: "ダン ・ LANCASTER"
 name_ja: "ダン ・ LANCASTER"
 slug: "dan-lancaster"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "183.0"
+weight: "96.0"
+birth_date: "2001.05.23"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dan-lancaster"
 ---
 
 ## キャリア遍歴
-
+Leeds Tykes (2020 - 2021) -> Leicester Tigers (2021 - 2022) -> Ealing Trailfinders (2022 - 2024) -> Racing 92 (2024 - 2025) -> Glasgow Warriors (2025 - 2026)

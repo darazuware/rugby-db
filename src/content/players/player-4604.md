@@ -1,20 +1,20 @@
 ---
-title: "nan | マイケル ・コリンズ"
+title: "nan | "
 name_en: "nan"
-name_ja: "マイケル ・コリンズ"
+name_ja: ""
 slug: "player-4604"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "21/07/2002"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ハーレクインズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

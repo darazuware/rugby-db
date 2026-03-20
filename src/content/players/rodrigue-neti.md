@@ -1,20 +1,20 @@
 ---
-title: "nan | ロドリグ・ネティ"
-name_en: "nan"
+title: "Rodrigue NETI | ロドリグ・ネティ"
+name_en: "Rodrigue NETI"
 name_ja: "ロドリグ・ネティ"
 slug: "rodrigue-neti"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "124.0"
+birth_date: "1995.04.26"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/rodrigue-neti"
 ---
 
 ## キャリア遍歴
-
+Union Rugby Club Dumbéa (2010 - 2012) -> Stade Toulousain (2012 - )

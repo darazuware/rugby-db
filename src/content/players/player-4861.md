@@ -1,20 +1,20 @@
 ---
-title: "nan | 金丸 勇人"
+title: "nan | "
 name_en: "nan"
-name_ja: "金丸 勇人"
+name_ja: ""
 slug: "player-4861"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

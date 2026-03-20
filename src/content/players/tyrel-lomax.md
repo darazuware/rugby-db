@@ -1,20 +1,20 @@
 ---
-title: "nan | タイレル・ロマックス"
-name_en: "nan"
+title: "Tyrel LOMAX | タイレル・ロマックス"
+name_en: "Tyrel LOMAX"
 name_ja: "タイレル・ロマックス"
 slug: "tyrel-lomax"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "192.0"
+weight: "129.0"
+birth_date: "1996.06.01"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/tyrel-lomax"
 ---
 
 ## キャリア遍歴
-
+Melbourne Rebels (2016 - 2017) -> Highlanders (2017 - 2019) -> Tasman Mako (2019 - 2021) -> Hurricanes (2019 - )

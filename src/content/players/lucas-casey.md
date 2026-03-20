@@ -1,20 +1,20 @@
 ---
-title: "nan | ルカス・ケイシー"
-name_en: "nan"
+title: "Lucas CASEY | ルカス・ケイシー"
+name_en: "Lucas CASEY"
 name_ja: "ルカス・ケイシー"
 slug: "lucas-casey"
-position: ""
+position: "FL/No8"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003.04.30"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-casey"
 ---
 
 ## キャリア遍歴
-
+Otago (2023 - 2025) -> Highlanders (2025 - )

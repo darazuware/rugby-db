@@ -1,20 +1,20 @@
 ---
-title: "nan | テヴィタ・アラティニ"
-name_en: "nan"
+title: "Tevita ALATINI | テヴィタ・アラティニ"
+name_en: "Tevita ALATINI"
 name_ja: "テヴィタ・アラティニ"
 slug: "tevita-alatini"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "125.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tevita-alatini"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2023 - )

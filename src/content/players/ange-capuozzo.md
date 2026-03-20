@@ -1,20 +1,20 @@
 ---
-title: "nan | アンジェ-カプオッツォ"
-name_en: "nan"
+title: "Ange CAPUOZZO | アンジェ-カプオッツォ"
+name_en: "Ange CAPUOZZO"
 name_ja: "アンジェ-カプオッツォ"
 slug: "ange-capuozzo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "178.0"
+weight: "82.0"
+birth_date: "1999.04.30"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/ange-capuozzo"
 ---
 
 ## キャリア遍歴
-
+US Deux Ponts Rugby (2005 - 2010) -> FC Grenoble Rugby (2010 - 2022) -> Stade Toulousain (2022 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | フェレティ-カイトゥウ"
-name_en: "nan"
+title: "Feleti KAITU'U | フェレティ-カイトゥウ"
+name_en: "Feleti KAITU'U"
 name_ja: "フェレティ-カイトゥウ"
 slug: "feleti-kaitu-u"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "110.0"
+birth_date: "1994.12.30"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/feleti-kaitu-u"
 ---
 
 ## キャリア遍歴
-
+Western Force (2019 - 2024) -> Tasman Mako (2022 - 2023) -> Racing 92 (2024 - )

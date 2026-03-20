@@ -1,20 +1,20 @@
 ---
-title: "nan | ペアト・マウヴァカ"
-name_en: "nan"
+title: "Péato MAUVAKA | ペアト・マウヴァカ"
+name_en: "Péato MAUVAKA"
 name_ja: "ペアト・マウヴァカ"
 slug: "peato-mauvaka"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "112.0"
+birth_date: "1997.01.10"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/peato-mauvaka"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2013 - )

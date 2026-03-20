@@ -1,20 +1,20 @@
 ---
-title: "nan | オファ・タウアテヴァル"
-name_en: "nan"
+title: "Ofa TAUATEVALU | オファ・タウアテヴァル"
+name_en: "Ofa TAUATEVALU"
 name_ja: "オファ・タウアテヴァル"
 slug: "ofa-tauatevalu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "112.0"
+birth_date: "2000.10.29"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ofa-tauatevalu"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2020 - 2025) -> Moana Pasifika (2023 - )

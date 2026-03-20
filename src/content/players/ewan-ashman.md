@@ -1,20 +1,20 @@
 ---
-title: "nan | Ewan ・ ASHMAN"
-name_en: "nan"
+title: "Ewan ・ ASHMAN | Ewan ・ ASHMAN"
+name_en: "Ewan ・ ASHMAN"
 name_ja: "Ewan ・ ASHMAN"
 slug: "ewan-ashman"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "188.0"
+weight: "113.0"
+birth_date: "2000.04.03"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "Canada"
 scraped_url: "https://all.rugby/player/ewan-ashman"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2018 - 2021) -> Glasgow Warriors (2021 - 2021) -> Sale Sharks (2022 - 2022) -> Glasgow Warriors (2022 - 2022) -> Sale Sharks (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)

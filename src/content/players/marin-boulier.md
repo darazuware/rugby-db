@@ -1,20 +1,20 @@
 ---
-title: "nan | マラン・ブーリエ"
-name_en: "nan"
+title: "Marin BOULIER | マラン・ブーリエ"
+name_en: "Marin BOULIER"
 name_ja: "マラン・ブーリエ"
 slug: "marin-boulier"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "95.0"
+birth_date: "2003.08.21"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marin-boulier"
 ---
 
 ## キャリア遍歴
-
+Rugby Ouest Cotentin (2008 - 2020) -> Stade Caennais RC (2020 - 2021) -> Rouen Normandie Rugby (2021 - 2025) -> Rugby Club Vannes (2025 - )

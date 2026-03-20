@@ -1,20 +1,20 @@
 ---
-title: "nan | Marnus ・ ファン ・ デル ・ MERWE"
-name_en: "nan"
+title: "Marnus ・ ファン ・ デル ・ MERWE | Marnus ・ ファン ・ デル ・ MERWE"
+name_en: "Marnus ・ ファン ・ デル ・ MERWE"
 name_ja: "Marnus ・ ファン ・ デル ・ MERWE"
 slug: "marnus-van-der-merwe"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "186.0"
+weight: "115.0"
+birth_date: "1997.02.17"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marnus-van-der-merwe"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2018 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2023 - 2023) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2024) -> Scarlets (2024 - 2026)

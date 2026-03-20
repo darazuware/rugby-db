@@ -1,20 +1,20 @@
 ---
-title: "nan | バティスト・プセンティ"
-name_en: "nan"
+title: "Baptiste PESENTI | バティスト・プセンティ"
+name_en: "Baptiste PESENTI"
 name_ja: "バティスト・プセンティ"
 slug: "baptiste-pesenti"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "195.0"
+weight: "122.0"
+birth_date: "1997.07.03"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/baptiste-pesenti"
 ---
 
 ## キャリア遍歴
-
+FC Saint-Claude Rugby (2005 - 2012) -> Montpellier Hérault Rugby (2012 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2021) -> Racing 92 (2021 - 2022) -> Stade Français Paris Rugby (2022 - )

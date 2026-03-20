@@ -1,20 +1,20 @@
 ---
-title: "nan | ダニエル-ブレナン"
-name_en: "nan"
+title: "Daniel BRENNAN | ダニエル-ブレナン"
+name_en: "Daniel BRENNAN"
 name_ja: "ダニエル-ブレナン"
 slug: "daniel-brennan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "192.0"
+weight: "132.0"
+birth_date: "1998.09.23"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/daniel-brennan"
 ---
 
 ## キャリア遍歴
-
+Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - 2018) -> Montpellier Hérault Rugby (2018 - 2021) -> CA Brive Corrèze Limousin (2020 - 2024) -> Rugby Club Toulonnais (2024 - )

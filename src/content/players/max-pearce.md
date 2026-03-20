@@ -1,20 +1,20 @@
 ---
-title: "nan | Max ・ PEARCE"
-name_en: "nan"
+title: "Max ・ PEARCE | Max ・ PEARCE"
+name_en: "Max ・ PEARCE"
 name_ja: "Max ・ PEARCE"
 slug: "max-pearce"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "110.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Bath Rugby rugby team for 2025/2026"
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/max-pearce"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | チェイ-フィハキ"
-name_en: "nan"
+title: "Chay FIHAKI | チェイ-フィハキ"
+name_en: "Chay FIHAKI"
 name_ja: "チェイ-フィハキ"
 slug: "chay-fihaki"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "100.0"
+birth_date: "2001.01.03"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/chay-fihaki"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2019 - 2025) -> Crusaders (2019 - )

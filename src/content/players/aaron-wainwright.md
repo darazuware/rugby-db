@@ -1,20 +1,20 @@
 ---
-title: "nan | アーロン ・ WAINWRIGHT"
-name_en: "nan"
+title: "アーロン ・ WAINWRIGHT | アーロン ・ WAINWRIGHT"
+name_en: "アーロン ・ WAINWRIGHT"
 name_ja: "アーロン ・ WAINWRIGHT"
 slug: "aaron-wainwright"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "110.0"
+birth_date: "1997.09.25"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ドラゴンズ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/aaron-wainwright"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2017 - 2026)

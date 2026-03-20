@@ -1,20 +1,20 @@
 ---
-title: "nan | サイモン・パーカー"
-name_en: "nan"
+title: "Simon PARKER | サイモン・パーカー"
+name_en: "Simon PARKER"
 name_ja: "サイモン・パーカー"
 slug: "simon-parker"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "193.0"
+weight: "109.0"
+birth_date: "2000.05.06"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/simon-parker"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2019 - 2023) -> Chiefs (2019 - 2026) -> Northland Taniwha (2023 - )

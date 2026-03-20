@@ -1,20 +1,20 @@
 ---
-title: "nan | 稲場 巧"
+title: "nan | "
 name_en: "nan"
-name_ja: "稲場 巧"
+name_ja: ""
 slug: "player-4379"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2004-03-29"
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ポール・スラノ"
-name_en: "nan"
+title: "Paul SURANO | ポール・スラノ"
+name_en: "Paul SURANO"
 name_ja: "ポール・スラノ"
 slug: "paul-surano"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "180.0"
+weight: "85.0"
+birth_date: "1998.08.25"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/paul-surano"
 ---
 
 ## キャリア遍歴
-
+Hac Rugby (2005 - 2008) -> RC Port du Havre (2008 - 2016) -> Rouen Normandie Rugby (2016 - 2023) -> Rugby Club Vannes (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ザーン・サリバン"
-name_en: "nan"
+title: "Zarn SULLIVAN | ザーン・サリバン"
+name_en: "Zarn SULLIVAN"
 name_ja: "ザーン・サリバン"
 slug: "zarn-sullivan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "193.0"
+weight: "101.0"
+birth_date: "2000.10.07"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/zarn-sullivan"
 ---
 
 ## キャリア遍歴
-
+Auckland (2019 - 2024) -> Blues (2020 - 2026) -> Hawke's Bay Magpies (2024 - )

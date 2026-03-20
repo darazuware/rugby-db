@@ -1,20 +1,20 @@
 ---
-title: "nan | テディ・トマ"
-name_en: "nan"
+title: "Teddy THOMAS | テディ・トマ"
+name_en: "Teddy THOMAS"
 name_ja: "テディ・トマ"
 slug: "teddy-thomas"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "98.0"
+birth_date: "1993.09.18"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/teddy-thomas"
 ---
 
 ## キャリア遍歴
-
+Biarritz Olympique Pays Basque (2004 - 2014) -> Racing 92 (2014 - 2022) -> Stade Rochelais (2022 - 2025) -> Stade Toulousain (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | エステバン・ゴンザレス"
-name_en: "nan"
+title: "Esteban GONZALEZ | エステバン・ゴンザレス"
+name_en: "Esteban GONZALEZ"
 name_ja: "エステバン・ゴンザレス"
 slug: "esteban-gonzalez"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "SH"
+height: "177.0"
+weight: "80.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "リヨン"
 caps: "0"
 scraped_url: "https://all.rugby/player/esteban-gonzalez"
 ---
 
 ## キャリア遍歴
-
+Association Sportive Béziers Hérault (2012 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | グラム-ゴギチャシュヴィリ"
-name_en: "nan"
+title: "Guram GOGICHASHVILI | グラム-ゴギチャシュヴィリ"
+name_en: "Guram GOGICHASHVILI"
 name_ja: "グラム-ゴギチャシュヴィリ"
 slug: "guram-gogichashvili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "118.0"
+birth_date: "1998.09.04"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "Georgia"
 scraped_url: "https://all.rugby/player/guram-gogichashvili"
 ---
 
 ## キャリア遍歴
-
+RC Locomotive Tbilisi (2017 - 2018) -> Racing 92 (2018 - )

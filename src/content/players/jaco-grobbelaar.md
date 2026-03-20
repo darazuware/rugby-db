@@ -1,20 +1,20 @@
 ---
-title: "nan | Jaco ・ GROBBELAAR"
-name_en: "nan"
+title: "Jaco ・ GROBBELAAR | Jaco ・ GROBBELAAR"
+name_en: "Jaco ・ GROBBELAAR"
 name_ja: "Jaco ・ GROBBELAAR"
 slug: "jaco-grobbelaar"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "198.0"
+weight: "109.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jaco-grobbelaar"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2023 - 2024) -> Bulls (2024 - 2026)

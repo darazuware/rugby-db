@@ -1,20 +1,20 @@
 ---
-title: "nan | ロマン・ンタマック"
-name_en: "nan"
+title: "Romain NTAMACK | ロマン・ンタマック"
+name_en: "Romain NTAMACK"
 name_ja: "ロマン・ンタマック"
 slug: "romain-ntamack"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "186.0"
+weight: "94.0"
+birth_date: "1999.05.01"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/romain-ntamack"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2013 - )

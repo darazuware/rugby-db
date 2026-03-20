@@ -1,20 +1,20 @@
 ---
-title: "nan | ソロモン・アライマロ"
-name_en: "nan"
+title: "Solomon ALAIMALO | ソロモン・アライマロ"
+name_en: "Solomon ALAIMALO"
 name_ja: "ソロモン・アライマロ"
 slug: "solomona-alaimalo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "196.0"
+weight: "100.0"
+birth_date: "1995.12.27"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/solomona-alaimalo"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2016 - 2023) -> Highlanders (2020 - 2022) -> Southland Stags (2020 - 2022) -> Canterbury (2022 - 2023) -> Wests Tigers (2023 - 2024) -> Northland Taniwha (2024 - 2025) -> Moana Pasifika (2024 - )

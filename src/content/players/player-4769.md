@@ -1,20 +1,20 @@
 ---
-title: "nan | 河村 謙尚"
+title: "nan | "
 name_en: "nan"
-name_ja: "河村 謙尚"
+name_ja: ""
 slug: "player-4769"
-position: ""
+position: "Fullback"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1993.11.28"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (92 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

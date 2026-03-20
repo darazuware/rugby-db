@@ -1,20 +1,20 @@
 ---
-title: "nan | Morgan ・ MORSE"
-name_en: "nan"
+title: "Morgan ・ MORSE | Morgan ・ MORSE"
+name_en: "Morgan ・ MORSE"
 name_ja: "Morgan ・ MORSE"
 slug: "morgan-morse"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "185.0"
+weight: "106.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/morgan-morse"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

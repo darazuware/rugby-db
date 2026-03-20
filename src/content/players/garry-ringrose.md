@@ -1,20 +1,20 @@
 ---
-title: "nan | ギャリー ・ RINGROSE"
-name_en: "nan"
+title: "ギャリー ・ RINGROSE | ギャリー ・ RINGROSE"
+name_en: "ギャリー ・ RINGROSE"
 name_ja: "ギャリー ・ RINGROSE"
 slug: "garry-ringrose"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "186.0"
+weight: "92.0"
+birth_date: "1995.01.26"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/garry-ringrose"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2015 - 2026)

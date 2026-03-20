@@ -1,20 +1,20 @@
 ---
-title: "nan | 福山 太陽"
+title: "nan | "
 name_en: "nan"
-name_ja: "福山 太陽"
+name_ja: ""
 slug: "player-4840"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

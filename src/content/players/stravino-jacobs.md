@@ -1,20 +1,20 @@
 ---
-title: "nan | Stravino ・ JACOBS"
-name_en: "nan"
+title: "Stravino ・ JACOBS | Stravino ・ JACOBS"
+name_en: "Stravino ・ JACOBS"
 name_ja: "Stravino ・ JACOBS"
 slug: "stravino-jacobs"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "180.0"
+weight: "103.0"
+birth_date: "2000.02.21"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/stravino-jacobs"
 ---
 
 ## キャリア遍歴
-
+Bulls (2020 - 2026)

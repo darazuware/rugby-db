@@ -1,20 +1,20 @@
 ---
-title: "nan | ホアキン・オビエド"
-name_en: "nan"
+title: "Joaquín OVIEDO | ホアキン・オビエド"
+name_en: "Joaquín OVIEDO"
 name_ja: "ホアキン・オビエド"
 slug: "joaquin-oviedo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "191.0"
+weight: "113.0"
+birth_date: "2001.07.17"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/joaquin-oviedo"
 ---
 
 ## キャリア遍歴
-
+Jaguares XV (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - )

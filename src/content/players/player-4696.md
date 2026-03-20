@@ -1,20 +1,20 @@
 ---
-title: "nan | 西野 拓真"
+title: "nan | "
 name_en: "nan"
-name_ja: "西野 拓真"
+name_ja: ""
 slug: "player-4696"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1997.10.25"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "レスター・タイガーズ"
+caps: "🇹🇴 Tonga代表 (9 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | フィン-ハーリー"
-name_en: "nan"
+title: "Finn HURLEY | フィン-ハーリー"
+name_en: "Finn HURLEY"
 name_ja: "フィン-ハーリー"
 slug: "finn-hurley"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "175.0"
+weight: "75.0"
+birth_date: "2003.06.25"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/finn-hurley"
 ---
 
 ## キャリア遍歴
-
+Otago (2021 - 2025) -> Highlanders (2022 - )

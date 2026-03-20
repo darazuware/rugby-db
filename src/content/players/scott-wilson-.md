@@ -1,20 +1,20 @@
 ---
-title: "nan | スコット ・ WILSON"
-name_en: "nan"
+title: "スコット ・ WILSON | スコット ・ WILSON"
+name_en: "スコット ・ WILSON"
 name_ja: "スコット ・ WILSON"
 slug: "scott-wilson-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "187.0"
+weight: "125.0"
+birth_date: "2002.08.06"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-wilson-"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2021 - 2026)

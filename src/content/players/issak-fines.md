@@ -1,20 +1,20 @@
 ---
-title: "nan | アイザック-ファインズ"
-name_en: "nan"
+title: "Issak FINES | アイザック-ファインズ"
+name_en: "Issak FINES"
 name_ja: "アイザック-ファインズ"
 slug: "issak-fines"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "173.0"
+weight: "82.0"
+birth_date: "1995.10.02"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "フィジアン・ドゥルア"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/issak-fines"
 ---
 
 ## キャリア遍歴
-
+Western Force (2017 - 2025) -> Brumbies (2019 - 2021) -> Fijian Drua (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 郡司 健吾"
+title: "nan | "
 name_en: "nan"
-name_ja: "郡司 健吾"
+name_ja: ""
 slug: "player-4917"
-position: ""
+position: "No. 8"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "サラセンズ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (1 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Saracens (2025 - )

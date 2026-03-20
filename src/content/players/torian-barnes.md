@@ -1,20 +1,20 @@
 ---
-title: "nan | トリアン・バーンズ"
-name_en: "nan"
+title: "Torian BARNES | トリアン・バーンズ"
+name_en: "Torian BARNES"
 name_ja: "トリアン・バーンズ"
 slug: "torian-barnes"
-position: ""
+position: "FL/No8"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003.10.14"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/torian-barnes"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2023 - 2025) -> Blues (2025 - )

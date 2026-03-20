@@ -1,20 +1,20 @@
 ---
-title: "nan | キティオネ-サラワ・ジュニア"
-name_en: "nan"
+title: "Kitione SALAWA JR | キティオネ-サラワ・ジュニア"
+name_en: "Kitione SALAWA JR"
 name_ja: "キティオネ-サラワ・ジュニア"
 slug: "kitione-salawa-jr"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "192.0"
+weight: "95.0"
+birth_date: "2001.05.23"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/kitione-salawa-jr"
 ---
 
 ## キャリア遍歴
-
+FIDJI 7's (2020 - 2021) -> Fijian Drua (2021 - )

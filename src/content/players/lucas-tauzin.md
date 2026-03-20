@@ -1,20 +1,20 @@
 ---
-title: "nan | ルカス・トザン"
-name_en: "nan"
+title: "Lucas TAUZIN | ルカス・トザン"
+name_en: "Lucas TAUZIN"
 name_ja: "ルカス・トザン"
 slug: "lucas-tauzin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "187.0"
+weight: "98.0"
+birth_date: "1998.05.21"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-tauzin"
 ---
 
 ## キャリア遍歴
-
+S A ST Séverin (2004 - 2012) -> Stade Montois Rugby Pro (2012 - 2016) -> Stade Toulousain (2016 - 2024) -> ASM Clermont Auvergne (2024 - )

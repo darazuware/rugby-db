@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド ・ クリエル"
-name_en: "nan"
+title: "デイヴィッド ・ クリエル | デイヴィッド ・ クリエル"
+name_en: "デイヴィッド ・ クリエル"
 name_ja: "デイヴィッド ・ クリエル"
 slug: "david-kriel"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "195.0"
+weight: "102.0"
+birth_date: "1999.02.15"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/david-kriel"
 ---
 
 ## キャリア遍歴
-
+Western Province (2018 - 2019) -> Stormers (2019 - 2019) -> Bulls (2019 - 2019) -> Stormers (2020 - 2020) -> Bulls (2020 - 2026)

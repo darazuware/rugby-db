@@ -1,20 +1,20 @@
 ---
-title: "nan | グラム-パピゼ"
-name_en: "nan"
+title: "Guram PAPIDZE | グラム-パピゼ"
+name_en: "Guram PAPIDZE"
 name_ja: "グラム-パピゼ"
 slug: "guram-papidze"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "127.0"
+birth_date: "1997.06.16"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ポー"
+caps: "Georgia"
 scraped_url: "https://all.rugby/player/guram-papidze"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2016 - 2018) -> USON Nevers Rugby (2018 - 2021) -> Stade Rochelais (2021 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

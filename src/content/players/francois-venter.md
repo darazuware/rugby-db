@@ -1,20 +1,20 @@
 ---
-title: "nan | Francois ・ VENTER"
-name_en: "nan"
+title: "Francois ・ VENTER | Francois ・ VENTER"
+name_en: "Francois ・ VENTER"
 name_ja: "Francois ・ VENTER"
 slug: "francois-venter"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "95.0"
+birth_date: "1991.04.19"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マイアミ・シャークス"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/francois-venter"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2013 - 2018) -> Worcester Warriors (2018 - 2022) -> Sharks (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Sharks (2023 - 2026)

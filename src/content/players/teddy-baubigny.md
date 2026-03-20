@@ -1,20 +1,20 @@
 ---
-title: "nan | テディ・ボビニー"
-name_en: "nan"
+title: "Teddy BAUBIGNY | テディ・ボビニー"
+name_en: "Teddy BAUBIGNY"
 name_ja: "テディ・ボビニー"
 slug: "teddy-baubigny"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "109.0"
+birth_date: "1998.09.02"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/teddy-baubigny"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Pays de Meaux (2012 - 2013) -> Racing 92 (2013 - 2022) -> Rugby Club Toulonnais (2022 - )

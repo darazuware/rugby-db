@@ -1,20 +1,20 @@
 ---
-title: "nan | ツナ・ツイタマ"
-name_en: "nan"
+title: "Tuna TUITAMA | ツナ・ツイタマ"
+name_en: "Tuna TUITAMA"
 name_ja: "ツナ・ツイタマ"
 slug: "tuna-tuitama-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "187.0"
+weight: "95.0"
+birth_date: "2000.02.25"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tuna-tuitama-"
 ---
 
 ## キャリア遍歴
-
+Samoa 7's (2023 - 2024) -> Moana Pasifika (2024 - )

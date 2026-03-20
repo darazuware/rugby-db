@@ -1,20 +1,20 @@
 ---
-title: "nan | 金子 元紀"
+title: "nan | "
 name_en: "nan"
-name_ja: "金子 元紀"
+name_ja: ""
 slug: "player-4332"
-position: ""
+position: "No. 8"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "06/10/1996"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | コーディ-テイラー"
-name_en: "nan"
+title: "Codie TAYLOR | コーディ-テイラー"
+name_en: "Codie TAYLOR"
 name_ja: "コーディ-テイラー"
 slug: "codie-taylor"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "109.0"
+birth_date: "1991.03.31"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/codie-taylor"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2013 - 2026) -> Canterbury (2019 - )

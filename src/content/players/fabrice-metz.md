@@ -1,20 +1,20 @@
 ---
-title: "nan | ファブリス・メッツ"
-name_en: "nan"
+title: "Fabrice METZ | ファブリス・メッツ"
+name_en: "Fabrice METZ"
 name_ja: "ファブリス・メッツ"
 slug: "fabrice-metz"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "127.0"
+birth_date: "1991.01.23"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/fabrice-metz"
 ---
 
 ## キャリア遍歴
-
+Racing 92 (2010 - 2015) -> Oyonnax Rugby (2015 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2024) -> Rugby Club Vannes (2024 - )

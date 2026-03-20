@@ -1,20 +1,20 @@
 ---
-title: "nan | ガレス ・ トーマス"
-name_en: "nan"
+title: "ガレス ・ トーマス | ガレス ・ トーマス"
+name_en: "ガレス ・ トーマス"
 name_ja: "ガレス ・ トーマス"
 slug: "gareth-thomas-1993"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "120.0"
+birth_date: "1993.08.02"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "オスプリーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2014 - 2026)

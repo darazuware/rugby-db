@@ -1,20 +1,20 @@
 ---
-title: "nan | Rodrigo ・ MARTINEZ"
-name_en: "nan"
+title: "Rodrigo ・ MARTINEZ | Rodrigo ・ MARTINEZ"
+name_en: "Rodrigo ・ MARTINEZ"
 name_ja: "Rodrigo ・ MARTINEZ"
 slug: "rodrigo-martinez"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "120.0"
+birth_date: "1998.07.07"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ドラゴンズ・ラグビー"
+caps: "🇫🇷 France代表 (18 caps)"
 scraped_url: "https://all.rugby/player/rodrigo-martinez"
 ---
 
 ## キャリア遍歴
-
+Dogos XV (2019 - 2020) -> Yacare XV (2020 - 2021) -> Wasps (2021 - 2023) -> Dragons RFC (2023 - 2026)

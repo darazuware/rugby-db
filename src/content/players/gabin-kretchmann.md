@@ -1,20 +1,20 @@
 ---
-title: "nan | ガバン・クレッチマン"
-name_en: "nan"
+title: "Gabin KRETCHMANN | ガバン・クレッチマン"
+name_en: "Gabin KRETCHMANN"
 name_ja: "ガバン・クレッチマン"
 slug: "gabin-kretchmann"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "SO"
+height: "183.0"
+weight: "87.0"
+birth_date: "//2006"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇮🇹 Italy代表 (2 caps)"
 scraped_url: "https://all.rugby/player/gabin-kretchmann"
 ---
 
 ## キャリア遍歴
-
+JSI Elne (2011 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - )

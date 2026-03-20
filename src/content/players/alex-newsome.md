@@ -1,20 +1,20 @@
 ---
-title: "nan | アレックス・ニューソム"
-name_en: "nan"
+title: "Alex NEWSOME | アレックス・ニューソム"
+name_en: "Alex NEWSOME"
 name_ja: "アレックス・ニューソム"
 slug: "alex-newsome"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "189.0"
+weight: "95.0"
+birth_date: "1995.01.20"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-newsome"
 ---
 
 ## キャリア遍歴
-
+Western Force (2016 - 2017) -> New South Wales Waratahs (2017 - 2022) -> ASM Clermont Auvergne (2022 - )

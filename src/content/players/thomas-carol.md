@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・カロル"
-name_en: "nan"
+title: "Thomas CAROL | トマ・カロル"
+name_en: "Thomas CAROL"
 name_ja: "トマ・カロル"
 slug: "thomas-carol"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "179.0"
+weight: "85.0"
+birth_date: "2001.01.17"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-carol"
 ---
 
 ## キャリア遍歴
-
+AC Boulogne-Billancourt (2010 - 2012) -> Racing 92 (2012 - 2019) -> Stade Rochelais (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )

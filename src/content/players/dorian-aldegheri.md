@@ -1,20 +1,20 @@
 ---
-title: "nan | ドリアン-アルデゲリ"
-name_en: "nan"
+title: "Dorian ALDEGHERI | ドリアン-アルデゲリ"
+name_en: "Dorian ALDEGHERI"
 name_ja: "ドリアン-アルデゲリ"
 slug: "dorian-aldegheri"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "180.0"
+weight: "119.0"
+birth_date: "1993.08.04"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/dorian-aldegheri"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2004 - )

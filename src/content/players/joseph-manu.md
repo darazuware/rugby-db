@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョーイー・マヌ"
-name_en: "nan"
+title: "Joey MANU | ジョーイー・マヌ"
+name_en: "Joey MANU"
 name_ja: "ジョーイー・マヌ"
 slug: "joseph-manu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "192.0"
+weight: "102.0"
+birth_date: "1996.06.29"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/joseph-manu"
 ---
 
 ## キャリア遍歴
-
+Sydney Roosters (2015 - 2024) -> Toyota Verblitz (2024 - 2025) -> Racing 92 (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ユーゴー・ジェイ"
-name_en: "nan"
+title: "Hugo DJEHI | ユーゴー・ジェイ"
+name_en: "Hugo DJEHI"
 name_ja: "ユーゴー・ジェイ"
 slug: "hugo-djehi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "115.0"
+birth_date: "1998.06.30"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/hugo-djehi"
 ---
 
 ## キャリア遍歴
-
+US Colomiers (2010 - 2024) -> Rugby Club Vannes (2024 - )

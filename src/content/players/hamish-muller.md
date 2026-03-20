@@ -1,9 +1,9 @@
 ---
-title: "nan | ヘイミッシュ・ミューラー"
-name_en: "nan"
+title: "Hamish MULLER | ヘイミッシュ・ミューラー"
+name_en: "Hamish MULLER"
 name_ja: "ヘイミッシュ・ミューラー"
 slug: "hamish-muller"
-position: ""
+position: "LO"
 height: "0"
 weight: "0"
 birth_date: ""
@@ -11,10 +11,10 @@ age: null
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/hamish-muller"
 ---
 
 ## キャリア遍歴
-
+Brothers Rugby Club (2020 - 2025) -> Queensland Reds (2025 - )

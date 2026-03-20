@@ -1,20 +1,20 @@
 ---
-title: "nan | セタリキ・トゥイツヴ"
-name_en: "nan"
+title: "Setariki TUICUVU | セタリキ・トゥイツヴ"
+name_en: "Setariki TUICUVU"
 name_ja: "セタリキ・トゥイツヴ"
 slug: "setariki-tuicuvu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "179.0"
+weight: "95.0"
+birth_date: "1995.09.07"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/setariki-tuicuvu"
 ---
 
 ## キャリア遍歴
-
+ASM Clermont Auvergne (2015 - 2020) -> Aviron Bayonnais (2019 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Rugby Club Toulonnais (2023 - )

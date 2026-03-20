@@ -1,20 +1,20 @@
 ---
-title: "nan | Dom ・ KOSSUTH"
-name_en: "nan"
+title: "Dom ・ KOSSUTH | Dom ・ KOSSUTH"
+name_en: "Dom ・ KOSSUTH"
 name_ja: "Dom ・ KOSSUTH"
 slug: "dom-kossuth"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "107.0"
+birth_date: "2007.."
+age: 19
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dom-kossuth"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2025 - 2026)

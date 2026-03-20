@@ -1,20 +1,20 @@
 ---
-title: "nan | マテオ・デジュー"
-name_en: "nan"
+title: "Mattéo DESJEUX | マテオ・デジュー"
+name_en: "Mattéo DESJEUX"
 name_ja: "マテオ・デジュー"
 slug: "matteo-desjeux"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "120.0"
+birth_date: "2002.01.26"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/matteo-desjeux"
 ---
 
 ## キャリア遍歴
-
+Rugby Club du Pays Muzillacais (2007 - 2014) -> Rugby Club Vannes (2014 - )

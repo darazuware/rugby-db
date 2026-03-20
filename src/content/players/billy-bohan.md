@@ -1,20 +1,20 @@
 ---
-title: "nan | Billy ・ BOHAN"
-name_en: "nan"
+title: "Billy ・ BOHAN | Billy ・ BOHAN"
+name_en: "Billy ・ BOHAN"
 name_ja: "Billy ・ BOHAN"
 slug: "billy-bohan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "191.0"
+weight: "114.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/billy-bohan"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2024 - 2026)

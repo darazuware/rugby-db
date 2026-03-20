@@ -1,20 +1,20 @@
 ---
-title: "nan | フリアン・モントージャ"
-name_en: "nan"
+title: "Julián MONTOYA | フリアン・モントージャ"
+name_en: "Julián MONTOYA"
 name_ja: "フリアン・モントージャ"
 slug: "julian-montoya"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "113.0"
+birth_date: "1993.10.29"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ポー"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/julian-montoya"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2015 - 2020) -> Leicester Tigers (2020 - 2025) -> Section Paloise Béarn Pyrénées (2025 - )

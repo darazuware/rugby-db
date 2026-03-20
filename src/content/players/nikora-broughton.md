@@ -1,20 +1,20 @@
 ---
-title: "nan | ニコラ・ブラウトン"
-name_en: "nan"
+title: "Nikora BROUGHTON | ニコラ・ブラウトン"
+name_en: "Nikora BROUGHTON"
 name_ja: "ニコラ・ブラウトン"
 slug: "nikora-broughton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "188.0"
+weight: "105.0"
+birth_date: "2001.09.05"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/nikora-broughton"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2020 - 2025) -> Highlanders (2022 - )

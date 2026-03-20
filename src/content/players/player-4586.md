@@ -1,20 +1,20 @@
 ---
-title: "nan | 濱田 将暉"
+title: "nan | "
 name_en: "nan"
-name_ja: "濱田 将暉"
+name_ja: ""
 slug: "player-4586"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1999-01-13"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "グロスター・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド-アイヌウ"
-name_en: "nan"
+title: "David AINU'U | デイヴィッド-アイヌウ"
+name_en: "David AINU'U"
 name_ja: "デイヴィッド-アイヌウ"
 slug: "david-ainu-u"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "178.0"
+weight: "125.0"
+birth_date: "1999.11.20"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "United-States"
 scraped_url: "https://all.rugby/player/david-ainu-u"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2017 - )

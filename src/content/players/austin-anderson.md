@@ -1,20 +1,20 @@
 ---
-title: "nan | オースティン・アンダーソン"
-name_en: "nan"
+title: "Austin ANDERSON | オースティン・アンダーソン"
+name_en: "Austin ANDERSON"
 name_ja: "オースティン・アンダーソン"
 slug: "austin-anderson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "186.0"
+weight: "94.0"
+birth_date: "2003.11.18"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/austin-anderson"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2022 - 2025) -> Brumbies (2023 - )

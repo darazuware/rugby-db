@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド-リバンズ"
-name_en: "nan"
+title: "David RIBBANS | デイヴィッド-リバンズ"
+name_en: "David RIBBANS"
 name_ja: "デイヴィッド-リバンズ"
 slug: "david-ribbans"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "121.0"
+birth_date: "1995.08.29"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/david-ribbans"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2016 - 2023) -> Rugby Club Toulonnais (2023 - )

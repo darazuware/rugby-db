@@ -1,20 +1,20 @@
 ---
-title: "nan | Erich ・ CRONJ"
-name_en: "nan"
+title: "Erich ・ CRONJ | Erich ・ CRONJ"
+name_en: "Erich ・ CRONJ"
 name_ja: "Erich ・ CRONJ"
 slug: "erich-cronje"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "184.0"
+weight: "95.0"
+birth_date: "1997.01.01"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/erich-cronje"
 ---
 
 ## キャリア遍歴
-
+Southern Kings (2019 - 2019) -> Pumas (2019 - 2019) -> Southern Kings (2020 - 2020) -> Pumas (2020 - 2021) -> Zebre Parma (2021 - 2023) -> Lions Rugby (2023 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | スコット ・ SCRAFTON"
-name_en: "nan"
+title: "スコット ・ SCRAFTON | スコット ・ SCRAFTON"
+name_en: "スコット ・ SCRAFTON"
 name_ja: "スコット ・ SCRAFTON"
 slug: "scott-scrafton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "120.0"
+birth_date: "1993.04.18"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/scott-scrafton"
 ---
 
 ## キャリア遍歴
-
+Blues (2015 - 2019) -> Hurricanes (2019 - 2019) -> Auckland (2019 - 2019) -> Hurricanes (2020 - 2020) -> Auckland (2020 - 2020) -> Hurricanes (2020 - 2020) -> Auckland (2020 - 2020) -> Hurricanes (2021 - 2021) -> Auckland (2021 - 2021) -> Hurricanes (2021 - 2022) -> Benetton Rugby Trévise (2022 - 2026)

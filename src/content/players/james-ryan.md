@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ ・ ライアン"
-name_en: "nan"
+title: "ジェームズ ・ ライアン | ジェームズ ・ ライアン"
+name_en: "ジェームズ ・ ライアン"
 name_ja: "ジェームズ ・ ライアン"
 slug: "james-ryan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "115.0"
+birth_date: "1996.07.24"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/james-ryan"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2017 - 2026)

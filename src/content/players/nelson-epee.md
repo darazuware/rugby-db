@@ -1,20 +1,20 @@
 ---
-title: "nan | ネルソン・エペ"
-name_en: "nan"
+title: "Nelson ÉPÉE | ネルソン・エペ"
+name_en: "Nelson ÉPÉE"
 name_ja: "ネルソン・エペ"
 slug: "nelson-epee"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "174.0"
+weight: "80.0"
+birth_date: "2001.02.20"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/nelson-epee"
 ---
 
 ## キャリア遍歴
-
+U.A. Saverdun (2008 - 2017) -> Stade Toulousain (2017 - )

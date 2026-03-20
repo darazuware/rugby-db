@@ -1,20 +1,20 @@
 ---
-title: "nan | 堀江 恭佑"
+title: "nan | "
 name_en: "nan"
-name_ja: "堀江 恭佑"
+name_ja: ""
 slug: "player-4814"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2007-XX-XX"
+age: 19
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

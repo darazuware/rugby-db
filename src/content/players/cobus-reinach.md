@@ -1,20 +1,20 @@
 ---
-title: "nan | コーバス ・ レイナック"
-name_en: "nan"
+title: "コーバス ・ レイナック | コーバス ・ レイナック"
+name_en: "コーバス ・ レイナック"
 name_ja: "コーバス ・ レイナック"
 slug: "cobus-reinach"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "85.0"
+birth_date: "1990.02.07"
+age: 36
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "DHLストーマーズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/cobus-reinach"
 ---
 
 ## キャリア遍歴
-
+Sharks (2013 - 2017) -> Northampton Saints (2017 - 2020) -> Montpellier Hérault Rugby (2020 - 2025) -> Stormers (2025 - 2026)

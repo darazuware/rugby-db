@@ -1,20 +1,20 @@
 ---
-title: "nan | アダム・レノックス"
-name_en: "nan"
+title: "Adam LENNOX | アダム・レノックス"
+name_en: "Adam LENNOX"
 name_ja: "アダム・レノックス"
 slug: "adam-lennox"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "178.0"
+weight: "82.0"
+birth_date: "2003.05.27"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/adam-lennox"
 ---
 
 ## キャリア遍歴
-
+Taranaki Bulls (2021 - 2025) -> Highlanders (2024 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 崎野 諒太"
+title: "nan | "
 name_en: "nan"
-name_ja: "崎野 諒太"
+name_ja: ""
 slug: "player-4467"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "07/09/2003"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

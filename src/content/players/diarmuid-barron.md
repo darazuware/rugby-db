@@ -1,20 +1,20 @@
 ---
-title: "nan | Diarmuid ・ BARRON"
-name_en: "nan"
+title: "Diarmuid ・ BARRON | Diarmuid ・ BARRON"
+name_en: "Diarmuid ・ BARRON"
 name_ja: "Diarmuid ・ BARRON"
 slug: "diarmuid-barron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "100.0"
+birth_date: "1998.08.06"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/diarmuid-barron"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2018 - 2026)

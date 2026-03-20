@@ -1,20 +1,20 @@
 ---
-title: "nan | ダーシー ・ GRAHAM"
-name_en: "nan"
+title: "ダーシー ・ GRAHAM | ダーシー ・ GRAHAM"
+name_en: "ダーシー ・ GRAHAM"
 name_ja: "ダーシー ・ GRAHAM"
 slug: "darcy-graham"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "177.0"
+weight: "85.0"
+birth_date: "1997.06.21"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/darcy-graham"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2017 - 2026)

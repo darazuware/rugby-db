@@ -1,20 +1,20 @@
 ---
-title: "nan | アルチュール・マティロン"
-name_en: "nan"
+title: "Arthur MATHIRON | アルチュール・マティロン"
+name_en: "Arthur MATHIRON"
 name_ja: "アルチュール・マティロン"
 slug: "arthur-mathiron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "180.0"
+weight: "95.0"
+birth_date: "2003.05.19"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "リヨン"
 caps: "0"
 scraped_url: "https://all.rugby/player/arthur-mathiron"
 ---
 
 ## キャリア遍歴
-
+Chalon-sur-Saône (2010 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2026) -> USON Nevers Rugby (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 吉川 豪人"
+title: "nan | "
 name_en: "nan"
-name_ja: "吉川 豪人"
+name_ja: ""
 slug: "player-4452"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1993.11.28"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ブリストル・ベアーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (27 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2025 - )

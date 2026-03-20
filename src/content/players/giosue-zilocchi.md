@@ -1,20 +1,20 @@
 ---
-title: "nan | Giosu ・ ZILOCCHI"
-name_en: "nan"
+title: "Giosu ・ ZILOCCHI | Giosu ・ ZILOCCHI"
+name_en: "Giosu ・ ZILOCCHI"
 name_ja: "Giosu ・ ZILOCCHI"
 slug: "giosue-zilocchi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "115.0"
+birth_date: "1997.01.15"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/giosue-zilocchi"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2018 - 2022) -> London Irish (2022 - 2023) -> Benetton Rugby Trévise (2023 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | 東川 寛史"
+title: "nan | "
 name_en: "nan"
-name_ja: "東川 寛史"
+name_ja: ""
 slug: "player-4502"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "エクセター・チーフス"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (0 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

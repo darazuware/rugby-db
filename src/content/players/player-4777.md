@@ -1,20 +1,20 @@
 ---
-title: "nan | 片岡 涼亮"
+title: "nan | "
 name_en: "nan"
-name_ja: "片岡 涼亮"
+name_ja: ""
 slug: "player-4777"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1999-09-21"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

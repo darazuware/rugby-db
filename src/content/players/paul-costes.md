@@ -1,20 +1,20 @@
 ---
-title: "nan | ポール・コスト"
-name_en: "nan"
+title: "Paul COSTES | ポール・コスト"
+name_en: "Paul COSTES"
 name_ja: "ポール・コスト"
 slug: "paul-costes"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "90.0"
+birth_date: "2003.04.04"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/paul-costes"
 ---
 
 ## キャリア遍歴
-
+Toulouse Université Club (2010 - 2015) -> US Colomiers (2015 - 2018) -> Stade Toulousain (2018 - )

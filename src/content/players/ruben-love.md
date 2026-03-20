@@ -1,20 +1,20 @@
 ---
-title: "nan | ルーベン・ラブ"
-name_en: "nan"
+title: "Ruben LOVE | ルーベン・ラブ"
+name_en: "Ruben LOVE"
 name_ja: "ルーベン・ラブ"
 slug: "ruben-love"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "184.0"
+weight: "92.0"
+birth_date: "2001.04.28"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇼🇸 Samoa代表 (25 caps)"
 scraped_url: "https://all.rugby/player/ruben-love"
 ---
 
 ## キャリア遍歴
-
+Wellington Lions (2019 - 2025) -> Hurricanes (2020 - )

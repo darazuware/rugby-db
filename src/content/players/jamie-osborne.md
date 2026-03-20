@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェイミー ・ OSBORNE"
-name_en: "nan"
+title: "ジェイミー ・ OSBORNE | ジェイミー ・ OSBORNE"
+name_en: "ジェイミー ・ OSBORNE"
 name_ja: "ジェイミー ・ OSBORNE"
 slug: "jamie-osborne"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "98.0"
+birth_date: "2001.11.16"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/jamie-osborne"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2020 - 2026)

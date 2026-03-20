@@ -1,20 +1,20 @@
 ---
-title: "nan | ルイ・フルサン＝ブルデット"
-name_en: "nan"
+title: "Louis FOURSANS-BOURDETTE | ルイ・フルサン＝ブルデット"
+name_en: "Louis FOURSANS-BOURDETTE"
 name_ja: "ルイ・フルサン＝ブルデット"
 slug: "louis-foursans-bourdette"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "171.0"
+weight: "81.0"
+birth_date: "2002.01.29"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-foursans-bourdette"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Nîmois (2010 - 2019) -> Montpellier Hérault Rugby (2019 - 2024) -> Stade Français Paris Rugby (2024 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | シンジ・マニャララ"
-name_en: "nan"
+title: "Shingi MANYARARA | シンジ・マニャララ"
+name_en: "Shingi MANYARARA"
 name_ja: "シンジ・マニャララ"
 slug: "shingirai-manyarara"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "185.0"
+weight: "100.0"
+birth_date: "2004.02.24"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/shingirai-manyarara"
 ---
 
 ## キャリア遍歴
-
+Kingswood College (2022 - 2023) -> Racing 92 (2023 - )

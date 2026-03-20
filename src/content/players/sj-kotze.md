@@ -1,20 +1,20 @@
 ---
-title: "nan | SJ ・ KOTZE"
-name_en: "nan"
+title: "SJ ・ KOTZE | SJ ・ KOTZE"
+name_en: "SJ ・ KOTZE"
 name_ja: "SJ ・ KOTZE"
 slug: "sj-kotze"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "186.0"
+weight: "110.0"
+birth_date: "2003.01.02"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sj-kotze"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)

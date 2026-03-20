@@ -1,20 +1,20 @@
 ---
-title: "nan | 田原 慶人"
+title: "nan | "
 name_en: "nan"
-name_ja: "田原 慶人"
+name_ja: ""
 slug: "player-4334"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2004.01.16"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

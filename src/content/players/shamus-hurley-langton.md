@@ -1,20 +1,20 @@
 ---
-title: "nan | Shamus ・ HURLEY ・ LANGTON"
-name_en: "nan"
+title: "Shamus ・ HURLEY ・ LANGTON | Shamus ・ HURLEY ・ LANGTON"
+name_en: "Shamus ・ HURLEY ・ LANGTON"
 name_ja: "Shamus ・ HURLEY ・ LANGTON"
 slug: "shamus-hurley-langton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "185.0"
+weight: "108.0"
+birth_date: "2000.04.22"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/shamus-hurley-langton"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2019 - 2022) -> Connacht Rugby (2022 - 2026)

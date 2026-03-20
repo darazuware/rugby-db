@@ -1,20 +1,20 @@
 ---
-title: "nan | エミリオン・ガイユトン"
-name_en: "nan"
+title: "Émilien GAILLETON | エミリオン・ガイユトン"
+name_en: "Émilien GAILLETON"
 name_ja: "エミリオン・ガイユトン"
 slug: "emilien-gailleton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "89.0"
+birth_date: "2003.07.13"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ポー"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/emilien-gailleton"
 ---
 
 ## キャリア遍歴
-
+Cahors (2008 - 2017) -> Sporting Union Agenais (2017 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

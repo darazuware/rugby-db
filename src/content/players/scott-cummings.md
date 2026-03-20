@@ -1,20 +1,20 @@
 ---
-title: "nan | スコット ・ CUMMINGS"
-name_en: "nan"
+title: "スコット ・ CUMMINGS | スコット ・ CUMMINGS"
+name_en: "スコット ・ CUMMINGS"
 name_ja: "スコット ・ CUMMINGS"
 slug: "scott-cummings"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "117.0"
+birth_date: "1996.12.03"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/scott-cummings"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2015 - 2026)

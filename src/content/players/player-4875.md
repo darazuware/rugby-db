@@ -1,20 +1,20 @@
 ---
-title: "nan | 小ヤナギ"
+title: "nan | "
 name_en: "nan"
-name_ja: "小ヤナギ"
+name_ja: ""
 slug: "player-4875"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "セール・シャークス"
+caps: "Call-ups代表 (2 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

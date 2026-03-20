@@ -1,20 +1,20 @@
 ---
-title: "nan | Fez ・ MBATHA"
-name_en: "nan"
+title: "Fez ・ MBATHA | Fez ・ MBATHA"
+name_en: "Fez ・ MBATHA"
 name_ja: "Fez ・ MBATHA"
 slug: "fezokuhle-mbatha"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "182.0"
+weight: "112.0"
+birth_date: "1999.08.02"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/fezokuhle-mbatha"
 ---
 
 ## キャリア遍歴
-
+Sharks (2018 - 2026)

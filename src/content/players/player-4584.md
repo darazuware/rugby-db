@@ -1,20 +1,20 @@
 ---
-title: "nan | 豊島 翔平"
+title: "nan | "
 name_en: "nan"
-name_ja: "豊島 翔平"
+name_ja: ""
 slug: "player-4584"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "グロスター・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )

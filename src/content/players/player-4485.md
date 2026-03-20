@@ -1,20 +1,20 @@
 ---
-title: "nan | 鷲谷 太希"
+title: "nan | "
 name_en: "nan"
-name_ja: "鷲谷 太希"
+name_ja: ""
 slug: "player-4485"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "30/11/2001"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

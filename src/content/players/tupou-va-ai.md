@@ -1,20 +1,20 @@
 ---
-title: "nan | トゥポウ-ヴァアイ"
-name_en: "nan"
+title: "Tupou VAA'I | トゥポウ-ヴァアイ"
+name_en: "Tupou VAA'I"
 name_ja: "トゥポウ-ヴァアイ"
 slug: "tupou-va-ai"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "118.0"
+birth_date: "2000.01.27"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/tupou-va-ai"
 ---
 
 ## キャリア遍歴
-
+Taranaki Bulls (2018 - 2022) -> Chiefs (2019 - )

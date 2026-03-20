@@ -1,20 +1,20 @@
 ---
-title: "nan | セミシ ・トゥポウ"
+title: "nan | "
 name_en: "nan"
-name_ja: "セミシ ・トゥポウ"
+name_ja: ""
 slug: "player-4672"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1996.05.04"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

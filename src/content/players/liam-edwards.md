@@ -1,20 +1,20 @@
 ---
-title: "nan | リアム ・ EDWARDS"
-name_en: "nan"
+title: "リアム ・ EDWARDS | リアム ・ EDWARDS"
+name_en: "リアム ・ EDWARDS"
 name_ja: "リアム ・ EDWARDS"
 slug: "liam-edwards"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "127.0"
+birth_date: "2003.11.03"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-edwards"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2022 - 2026)

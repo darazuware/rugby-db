@@ -1,20 +1,20 @@
 ---
-title: "nan | Johnny ・ ウィリアムズ"
-name_en: "nan"
+title: "Johnny ・ ウィリアムズ | Johnny ・ ウィリアムズ"
+name_en: "Johnny ・ ウィリアムズ"
 name_ja: "Johnny ・ ウィリアムズ"
 slug: "johnny-williams-1996"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "191.0"
+weight: "105.0"
+birth_date: "1996.10.18"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "スカーレッツ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/johnny-williams-1996"
 ---
 
 ## キャリア遍歴
-
+London Irish (2015 - 2018) -> Newcastle (2018 - 2019) -> Scarlets (2019 - 2019) -> Newcastle (2020 - 2020) -> Scarlets (2020 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Joe ・ MCCARTHY"
-name_en: "nan"
+title: "Joe ・ MCCARTHY | Joe ・ MCCARTHY"
+name_en: "Joe ・ MCCARTHY"
 name_ja: "Joe ・ MCCARTHY"
 slug: "joe-mccarthy"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "119.0"
+birth_date: "2001.03.26"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland代表 (19 caps)"
 scraped_url: "https://all.rugby/player/joe-mccarthy"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2026)

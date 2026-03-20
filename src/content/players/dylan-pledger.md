@@ -1,20 +1,20 @@
 ---
-title: "nan | ディラン・プレッジャー"
-name_en: "nan"
+title: "Dylan PLEDGER | ディラン・プレッジャー"
+name_en: "Dylan PLEDGER"
 name_ja: "ディラン・プレッジャー"
 slug: "dylan-pledger"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "171.0"
+weight: "74.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dylan-pledger"
 ---
 
 ## キャリア遍歴
-
+Otago (2023 - 2025) -> Highlanders (2023 - )

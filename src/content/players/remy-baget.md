@@ -1,20 +1,20 @@
 ---
-title: "nan | レミ・バジェ"
-name_en: "nan"
+title: "Rémy BAGET | レミ・バジェ"
+name_en: "Rémy BAGET"
 name_ja: "レミ・バジェ"
 slug: "remy-baget"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "182.0"
+weight: "89.0"
+birth_date: "1997.07.27"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/remy-baget"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2014 - 2018) -> Aviron Bayonnais (2018 - 2024) -> Castres Olympique (2024 - )

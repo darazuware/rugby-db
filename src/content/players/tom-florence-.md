@@ -1,20 +1,20 @@
 ---
-title: "nan | トム ・ FLORENCE"
-name_en: "nan"
+title: "トム ・ FLORENCE | トム ・ FLORENCE"
+name_en: "トム ・ FLORENCE"
 name_ja: "トム ・ FLORENCE"
 slug: "tom-florence-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "96.0"
+birth_date: "2003.03.19"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-florence-"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2020 - 2026)

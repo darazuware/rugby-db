@@ -1,20 +1,20 @@
 ---
-title: "nan | Sebastian ・ デ ・ デクラーク"
-name_en: "nan"
+title: "Sebastian ・ デ ・ デクラーク | Sebastian ・ デ ・ デクラーク"
+name_en: "Sebastian ・ デ ・ デクラーク"
 name_ja: "Sebastian ・ デ ・ デクラーク"
 slug: "sebastian-de-klerk"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "180.0"
+weight: "91.0"
+birth_date: "2000.04.05"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sebastian-de-klerk"
 ---
 
 ## キャリア遍歴
-
+Pumas (2020 - 2023) -> Bulls (2023 - 2026)

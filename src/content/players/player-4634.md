@@ -1,20 +1,20 @@
 ---
-title: "nan | 岡本 泰斉"
+title: "nan | "
 name_en: "nan"
-name_ja: "岡本 泰斉"
+name_ja: ""
 slug: "player-4634"
-position: ""
+position: "Fly-half"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2002-09-23"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ハーレクインズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

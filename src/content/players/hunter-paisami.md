@@ -1,20 +1,20 @@
 ---
-title: "nan | ハンター-パイサミ"
-name_en: "nan"
+title: "Hunter PAISAMI | ハンター-パイサミ"
+name_en: "Hunter PAISAMI"
 name_ja: "ハンター-パイサミ"
 slug: "hunter-paisami"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "172.0"
+weight: "91.0"
+birth_date: "1998.04.10"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "クイーンズランド・レッズ"
+caps: "🇼🇸 Samoa"
 scraped_url: "https://all.rugby/player/hunter-paisami"
 ---
 
 ## キャリア遍歴
-
+Brisbane City (2018 - 2019) -> Queensland Reds (2019 - )

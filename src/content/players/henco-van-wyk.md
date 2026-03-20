@@ -1,20 +1,20 @@
 ---
-title: "nan | Henco ・ ファン ・ WYK"
-name_en: "nan"
+title: "Henco ・ ファン ・ WYK | Henco ・ ファン ・ WYK"
+name_en: "Henco ・ ファン ・ WYK"
 name_ja: "Henco ・ ファン ・ WYK"
 slug: "henco-van-wyk"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "92.0"
+birth_date: "2001.05.07"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/henco-van-wyk"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2020 - 2021) -> Lions Rugby (2021 - 2026)

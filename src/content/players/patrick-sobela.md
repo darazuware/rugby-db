@@ -1,20 +1,20 @@
 ---
-title: "nan | パトリック・ソベラ"
-name_en: "nan"
+title: "Patrick SOBÉLA | パトリック・ソベラ"
+name_en: "Patrick SOBÉLA"
 name_ja: "パトリック・ソベラ"
 slug: "patrick-sobela"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "188.0"
+weight: "105.0"
+birth_date: "1992.08.12"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/patrick-sobela"
 ---
 
 ## キャリア遍歴
-
+Oyonnax Rugby (2011 - 2018) -> Lyon Olympique Universitaire Rugby (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

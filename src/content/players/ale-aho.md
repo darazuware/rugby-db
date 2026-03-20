@@ -1,20 +1,20 @@
 ---
-title: "nan | アレ・アホ"
-name_en: "nan"
+title: "Ale AHO | アレ・アホ"
+name_en: "Ale AHO"
 name_ja: "アレ・アホ"
 slug: "ale-aho"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "132.0"
+birth_date: "2003.02.15"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ale-aho"
 ---
 
 ## キャリア遍歴
-
+Otago (2023 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Southland Stags (2024 - 2025) -> Moana Pasifika (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | アンドリュー ・デビッドソン"
+title: "nan | "
 name_en: "nan"
-name_ja: "アンドリュー ・デビッドソン"
+name_ja: ""
 slug: "player-4836"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "15/06/1998"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

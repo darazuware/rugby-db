@@ -1,20 +1,20 @@
 ---
-title: "nan | 宮田 悠暉"
+title: "nan | "
 name_en: "nan"
-name_ja: "宮田 悠暉"
+name_ja: ""
 slug: "player-4517"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "エクセター・チーフス"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (70 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

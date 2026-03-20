@@ -1,20 +1,20 @@
 ---
-title: "nan | ファクンド-ボッシュ"
-name_en: "nan"
+title: "Facundo BOSCH | ファクンド-ボッシュ"
+name_en: "Facundo BOSCH"
 name_ja: "ファクンド-ボッシュ"
 slug: "facundo-bosch"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "102.0"
+birth_date: "1991.08.08"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "バイヨンヌ"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/facundo-bosch"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2015 - 2017) -> Sporting Union Agenais (2017 - 2019) -> Stade Rochelais (2019 - 2022) -> Aviron Bayonnais (2022 - )

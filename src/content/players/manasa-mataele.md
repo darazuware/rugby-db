@@ -1,20 +1,20 @@
 ---
-title: "nan | マナサ・マタエレ"
-name_en: "nan"
+title: "Manasa MATAELE | マナサ・マタエレ"
+name_en: "Manasa MATAELE"
 name_ja: "マナサ・マタエレ"
 slug: "manasa-mataele"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "185.0"
+weight: "100.0"
+birth_date: "1996.11.27"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/manasa-mataele"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2016 - 2024) -> Canterbury (2019 - 2025) -> Western Force (2021 - 2023) -> Chiefs (2024 - 2025) -> Fijian Drua (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル・ストダート"
-name_en: "nan"
+title: "Will STODART | ウィル・ストダート"
+name_en: "Will STODART"
 name_ja: "ウィル・ストダート"
 slug: "will-stodart"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "197.0"
+weight: "116.0"
+birth_date: "2003.10.03"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/will-stodart"
 ---
 
 ## キャリア遍歴
-
+Otago (2022 - 2025) -> Highlanders (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ザビエル・ヌミア"
-name_en: "nan"
+title: "Xavier NUMIA | ザビエル・ヌミア"
+name_en: "Xavier NUMIA"
 name_ja: "ザビエル・ヌミア"
 slug: "xavier-numia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "116.0"
+birth_date: "1998.11.29"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/xavier-numia"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2018 - 2026) -> Wellington Lions (2019 - )

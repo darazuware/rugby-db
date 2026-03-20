@@ -1,20 +1,20 @@
 ---
-title: "nan | Jordan ・ DUGGAN"
-name_en: "nan"
+title: "Jordan ・ DUGGAN | Jordan ・ DUGGAN"
+name_en: "Jordan ・ DUGGAN"
 name_ja: "Jordan ・ DUGGAN"
 slug: "jordan-duggan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "114.0"
+birth_date: "1998.01.07"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jordan-duggan"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2019 - 2026)

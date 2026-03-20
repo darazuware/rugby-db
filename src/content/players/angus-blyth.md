@@ -1,20 +1,20 @@
 ---
-title: "nan | アンガス・ブライス"
-name_en: "nan"
+title: "Angus BLYTH | アンガス・ブライス"
+name_en: "Angus BLYTH"
 name_ja: "アンガス・ブライス"
 slug: "angus-blyth"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "204.0"
+weight: "124.0"
+birth_date: "1998.03.04"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "NSWワラタス（ワラターズ）"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/angus-blyth"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2017 - 2025) -> New South Wales Waratahs (2025 - )

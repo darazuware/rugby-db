@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェレミー-ウォード"
-name_en: "nan"
+title: "Jeremy WARD | ジェレミー-ウォード"
+name_en: "Jeremy WARD"
 name_ja: "ジェレミー-ウォード"
 slug: "jeremy-ward"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "92.0"
+birth_date: "1996.01.10"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇮🇹 Italy代表 (20 caps)"
 scraped_url: "https://all.rugby/player/jeremy-ward"
 ---
 
 ## キャリア遍歴
-
+Southern Kings (2015 - 2016) -> Sharks (2016 - 2022) -> Stade Français Paris Rugby (2022 - )

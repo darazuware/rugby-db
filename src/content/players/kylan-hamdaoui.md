@@ -1,20 +1,20 @@
 ---
-title: "nan | キラン・ハムダウィ"
-name_en: "nan"
+title: "Kylan HAMDAOUI | キラン・ハムダウィ"
+name_en: "Kylan HAMDAOUI"
 name_ja: "キラン・ハムダウィ"
 slug: "kylan-hamdaoui"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "182.0"
+weight: "91.0"
+birth_date: "1994.04.15"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/kylan-hamdaoui"
 ---
 
 ## キャリア遍歴
-
+Stade Rochelais (2005 - 2012) -> ASM Clermont Auvergne (2012 - 2026) -> Biarritz Olympique Pays Basque (2014 - 2018) -> Stade Français Paris Rugby (2018 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Michele ・ LAMARO"
-name_en: "nan"
+title: "Michele ・ LAMARO | Michele ・ LAMARO"
+name_en: "Michele ・ LAMARO"
 name_ja: "Michele ・ LAMARO"
 slug: "michele-lamaro"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "103.0"
+birth_date: "1998.06.03"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/michele-lamaro"
 ---
 
 ## キャリア遍歴
-
+Benetton Rugby Trévise (2018 - 2026)

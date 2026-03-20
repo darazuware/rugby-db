@@ -1,20 +1,20 @@
 ---
-title: "nan | クリスチャン・リオ＝ウィリー"
-name_en: "nan"
+title: "Christian LIO-WILLIE | クリスチャン・リオ＝ウィリー"
+name_en: "Christian LIO-WILLIE"
 name_ja: "クリスチャン・リオ＝ウィリー"
 slug: "christian-lio-willie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "187.0"
+weight: "109.0"
+birth_date: "1998.08.26"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/christian-lio-willie"
 ---
 
 ## キャリア遍歴
-
+Otago (2020 - 2025) -> Highlanders (2021 - 2022) -> Crusaders (2022 - )

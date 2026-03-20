@@ -1,20 +1,20 @@
 ---
-title: "nan | ギオルギ-ベリア"
-name_en: "nan"
+title: "Giorgi BERIA | ギオルギ-ベリア"
+name_en: "Giorgi BERIA"
 name_ja: "ギオルギ-ベリア"
 slug: "giorgi-beria"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "175.0"
+weight: "108.0"
+birth_date: "1999.11.11"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/giorgi-beria"
 ---
 
 ## キャリア遍歴
-
+Stade Aurillacois Cantal Auvergne (2010 - 2016) -> ASM Clermont Auvergne (2016 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

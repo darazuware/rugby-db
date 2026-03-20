@@ -1,20 +1,20 @@
 ---
-title: "nan | タンギノア・ハライフォヌア"
-name_en: "nan"
+title: "Tanginoa HALAIFONUA | タンギノア・ハライフォヌア"
+name_en: "Tanginoa HALAIFONUA"
 name_ja: "タンギノア・ハライフォヌア"
 slug: "tanginoa-halaifonua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "115.0"
+birth_date: "1996.09.20"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇹🇴 Tonga代表 (13 caps)"
 scraped_url: "https://all.rugby/player/tanginoa-halaifonua"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2015 - 2020) -> Rugby Club Massy Essonne (2018 - 2019) -> FC Grenoble Rugby (2020 - 2023) -> Stade Français Paris Rugby (2023 - )

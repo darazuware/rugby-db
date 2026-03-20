@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン ・ CARTER"
-name_en: "nan"
+title: "ベン ・ CARTER | ベン ・ CARTER"
+name_en: "ベン ・ CARTER"
 name_ja: "ベン ・ CARTER"
 slug: "ben-carter"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "122.0"
+birth_date: "2001.01.23"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-carter"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2018 - 2026)

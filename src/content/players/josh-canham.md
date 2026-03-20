@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョシュ・キャンハム"
-name_en: "nan"
+title: "Josh CANHAM | ジョシュ・キャンハム"
+name_en: "Josh CANHAM"
 name_ja: "ジョシュ・キャンハム"
 slug: "josh-canham"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "119.0"
+birth_date: "2001.02.01"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-canham"
 ---
 
 ## キャリア遍歴
-
+Brighton Grammar School (2019 - 2020) -> Melbourne Rebels (2020 - 2024) -> Queensland Reds (2024 - )

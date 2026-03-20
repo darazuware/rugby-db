@@ -1,20 +1,20 @@
 ---
-title: "nan | 二重 賢治"
+title: "nan | "
 name_en: "nan"
-name_ja: "二重 賢治"
+name_ja: ""
 slug: "player-4482"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "11/10/1997"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

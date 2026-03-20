@@ -1,20 +1,20 @@
 ---
-title: "nan | Henry ・ MCERLEAN"
-name_en: "nan"
+title: "Henry ・ MCERLEAN | Henry ・ MCERLEAN"
+name_en: "Henry ・ MCERLEAN"
 name_ja: "Henry ・ MCERLEAN"
 slug: "henry-mcerlean"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "183.0"
+weight: "87.0"
+birth_date: "2003.02.13"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-mcerlean"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

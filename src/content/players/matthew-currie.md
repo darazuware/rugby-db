@@ -1,20 +1,20 @@
 ---
-title: "nan | Matt ・ CURRIE"
-name_en: "nan"
+title: "Matt ・ CURRIE | Matt ・ CURRIE"
+name_en: "Matt ・ CURRIE"
 name_ja: "Matt ・ CURRIE"
 slug: "matthew-currie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "191.0"
+weight: "95.0"
+birth_date: "2001.02.22"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/matthew-currie"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2020 - 2026)

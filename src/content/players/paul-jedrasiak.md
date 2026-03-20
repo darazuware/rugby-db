@@ -1,20 +1,20 @@
 ---
-title: "nan | ポール・ジェドラジアク"
-name_en: "nan"
+title: "Paul JEDRASIAK | ポール・ジェドラジアク"
+name_en: "Paul JEDRASIAK"
 name_ja: "ポール・ジェドラジアク"
 slug: "paul-jedrasiak"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "121.0"
+birth_date: "1993.02.06"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/paul-jedrasiak"
 ---
 
 ## キャリア遍歴
-
+Rugby Athlétique Club Castelroussin (2004 - 2008) -> U.S. Tours (2008 - 2010) -> ASM Clermont Auvergne (2010 - 2024) -> Castres Olympique (2024 - )

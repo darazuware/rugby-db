@@ -1,20 +1,20 @@
 ---
-title: "nan | シアオシ・ンギニンギニ"
-name_en: "nan"
+title: "Siaosi NGININGINI | シアオシ・ンギニンギニ"
+name_en: "Siaosi NGININGINI"
 name_ja: "シアオシ・ンギニンギニ"
 slug: "siaosi-nginingini"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "183.0"
+weight: "91.0"
+birth_date: "1998.10.17"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/siaosi-nginingini"
 ---
 
 ## キャリア遍歴
-
+North Harbour (2021 - 2025) -> Moana Pasifika (2023 - )

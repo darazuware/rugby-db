@@ -1,20 +1,20 @@
 ---
-title: "nan | 徳永 優太"
+title: "nan | "
 name_en: "nan"
-name_ja: "徳永 優太"
+name_ja: ""
 slug: "player-4617"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "03/04/2000"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ハーレクインズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ケイレブ-クラーク"
-name_en: "nan"
+title: "Caleb CLARKE | ケイレブ-クラーク"
+name_en: "Caleb CLARKE"
 name_ja: "ケイレブ-クラーク"
 slug: "caleb-clarke"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "189.0"
+weight: "108.0"
+birth_date: "1999.03.29"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/caleb-clarke"
 ---
 
 ## キャリア遍歴
-
+Blues (2017 - 2026) -> Auckland (2019 - )

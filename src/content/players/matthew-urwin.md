@@ -1,20 +1,20 @@
 ---
-title: "nan | マシュー ・ URWIN"
-name_en: "nan"
+title: "マシュー ・ URWIN | マシュー ・ URWIN"
+name_en: "マシュー ・ URWIN"
 name_ja: "マシュー ・ URWIN"
 slug: "matthew-urwin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "181.0"
+weight: "83.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/matthew-urwin"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

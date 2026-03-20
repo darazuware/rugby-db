@@ -1,20 +1,20 @@
 ---
-title: "nan | 石浦 大貴"
+title: "nan | "
 name_en: "nan"
-name_ja: "石浦 大貴"
+name_ja: ""
 slug: "player-4794"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2000-10-27"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

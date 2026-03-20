@@ -1,20 +1,20 @@
 ---
-title: "nan | ティム・ライアン"
-name_en: "nan"
+title: "Tim RYAN | ティム・ライアン"
+name_en: "Tim RYAN"
 name_ja: "ティム・ライアン"
 slug: "tim-ryan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "186.0"
+weight: "88.0"
+birth_date: "2003.10.29"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tim-ryan"
 ---
 
 ## キャリア遍歴
-
+Brothers Rugby Club (2022 - 2023) -> Queensland Reds (2023 - )

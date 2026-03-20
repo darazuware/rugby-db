@@ -1,20 +1,20 @@
 ---
-title: "nan | Luca ・ FRANCESCHETTO"
-name_en: "nan"
+title: "Luca ・ FRANCESCHETTO | Luca ・ FRANCESCHETTO"
+name_en: "Luca ・ FRANCESCHETTO"
 name_ja: "Luca ・ FRANCESCHETTO"
 slug: "luca-franceschetto"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "193.0"
+weight: "127.0"
+birth_date: "1999.06.07"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/luca-franceschetto"
 ---
 
 ## キャリア遍歴
-
+Petrarca Rugby (2019 - 2022) -> Colorno (2022 - 2024) -> Zebre Parma (2024 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | イーサン-デ-グルート"
-name_en: "nan"
+title: "Ethan DE GROOT | イーサン-デ-グルート"
+name_en: "Ethan DE GROOT"
 name_ja: "イーサン-デ-グルート"
 slug: "ethan-de-groot"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "190.0"
+weight: "128.0"
+birth_date: "1998.07.22"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "オタゴ・ハイランダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/ethan-de-groot"
 ---
 
 ## キャリア遍歴
-
+Southland Stags (2018 - 2024) -> Highlanders (2019 - )

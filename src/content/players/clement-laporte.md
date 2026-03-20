@@ -1,20 +1,20 @@
 ---
-title: "nan | クレマン・ラポルト"
-name_en: "nan"
+title: "Clément LAPORTE | クレマン・ラポルト"
+name_en: "Clément LAPORTE"
 name_ja: "クレマン・ラポルト"
 slug: "clement-laporte"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "181.0"
+weight: "87.0"
+birth_date: "1998.01.07"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/clement-laporte"
 ---
 
 ## キャリア遍歴
-
+Parentis Sport Rugby (2006 - 2013) -> Union Bordeaux-Bègles (2013 - 2015) -> Sporting Union Agenais (2015 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

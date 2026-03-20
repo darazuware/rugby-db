@@ -1,20 +1,20 @@
 ---
-title: "nan | サウラ・マウ"
-name_en: "nan"
+title: "Saula MA'U | サウラ・マウ"
+name_en: "Saula MA'U"
 name_ja: "サウラ・マウ"
 slug: "saula-ma-u"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "194.0"
+weight: "140.0"
+birth_date: "2000.04.29"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/saula-ma-u"
 ---
 
 ## キャリア遍歴
-
+Otago (2020 - 2025) -> Highlanders (2021 - )

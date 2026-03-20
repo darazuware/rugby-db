@@ -1,20 +1,20 @@
 ---
-title: "nan | Harry ・ PROVAN"
-name_en: "nan"
+title: "Harry ・ PROVAN | Harry ・ PROVAN"
+name_en: "Harry ・ PROVAN"
 name_ja: "Harry ・ PROVAN"
 slug: "harry-provan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "178.0"
+weight: "96.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-provan"
 ---
 
 ## キャリア遍歴
-
+Birkmyre Rugby (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

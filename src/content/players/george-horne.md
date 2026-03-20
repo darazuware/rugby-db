@@ -1,20 +1,20 @@
 ---
-title: "nan | George ・ HORNE"
-name_en: "nan"
+title: "George ・ HORNE | George ・ HORNE"
+name_en: "George ・ HORNE"
 name_ja: "George ・ HORNE"
 slug: "george-horne"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "174.0"
+weight: "81.0"
+birth_date: "1995.05.12"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/george-horne"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2016 - 2026)

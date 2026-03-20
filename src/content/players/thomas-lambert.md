@@ -1,20 +1,20 @@
 ---
-title: "nan | トム・ランバート"
-name_en: "nan"
+title: "Tom LAMBERT | トム・ランバート"
+name_en: "Tom LAMBERT"
 name_ja: "トム・ランバート"
 slug: "thomas-lambert"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "115.0"
+birth_date: "2000.11.20"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lambert"
 ---
 
 ## キャリア遍歴
-
+Sydney University Football Club (2019 - 2020) -> Glasgow Warriors (2020 - 2022) -> New South Wales Waratahs (2022 - )

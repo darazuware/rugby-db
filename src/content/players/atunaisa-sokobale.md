@@ -1,20 +1,20 @@
 ---
-title: "nan | アツナイサ・ソコバレ"
-name_en: "nan"
+title: "Atunaisa SOKOBALE | アツナイサ・ソコバレ"
+name_en: "Atunaisa SOKOBALE"
 name_ja: "アツナイサ・ソコバレ"
 slug: "atunaisa-sokobale"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "PR"
+height: "189.0"
+weight: "110.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/atunaisa-sokobale"
 ---
 
 ## キャリア遍歴
-
+Castres Olympique (2023 - )

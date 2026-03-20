@@ -1,20 +1,20 @@
 ---
-title: "nan | Macs ・ PAGE"
-name_en: "nan"
+title: "Macs ・ PAGE | Macs ・ PAGE"
+name_en: "Macs ・ PAGE"
 name_ja: "Macs ・ PAGE"
 slug: "macs-page"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "176.0"
+weight: "88.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/macs-page"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2022 - 2026)

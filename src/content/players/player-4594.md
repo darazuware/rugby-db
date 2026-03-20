@@ -1,20 +1,20 @@
 ---
-title: "nan | 山本 浩輝"
+title: "nan | "
 name_en: "nan"
-name_ja: "山本 浩輝"
+name_ja: ""
 slug: "player-4594"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003-03-18"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ハーレクインズ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (11 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

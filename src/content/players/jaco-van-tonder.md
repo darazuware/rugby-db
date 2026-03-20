@@ -1,20 +1,20 @@
 ---
-title: "nan | ヤコ・ファン・トンダー"
-name_en: "nan"
+title: "Jaco VAN TONDER | ヤコ・ファン・トンダー"
+name_en: "Jaco VAN TONDER"
 name_ja: "ヤコ・ファン・トンダー"
 slug: "jaco-van-tonder"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "197.0"
+weight: "118.0"
+birth_date: "1998.03.08"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/jaco-van-tonder"
 ---
 
 ## キャリア遍歴
-
+ASM Clermont Auvergne (2016 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Andr ・ ESTERHUIZEN"
-name_en: "nan"
+title: "Andr ・ ESTERHUIZEN | Andr ・ ESTERHUIZEN"
+name_en: "Andr ・ ESTERHUIZEN"
 name_ja: "Andr ・ ESTERHUIZEN"
 slug: "andre-esterhuizen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "115.0"
+birth_date: "1994.03.30"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マイアミ・シャークス"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/andre-esterhuizen"
 ---
 
 ## キャリア遍歴
-
+Sharks (2013 - 2019) -> Harlequins (2019 - 2019) -> Sharks (2020 - 2020) -> Harlequins (2020 - 2024) -> Sharks (2024 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | 福澤 慎太郎"
+title: "nan | "
 name_en: "nan"
-name_ja: "福澤 慎太郎"
+name_ja: ""
 slug: "player-4699"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

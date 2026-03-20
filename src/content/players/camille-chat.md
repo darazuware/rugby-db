@@ -1,20 +1,20 @@
 ---
-title: "nan | カミーユ-シャ"
-name_en: "nan"
+title: "Camille CHAT | カミーユ-シャ"
+name_en: "Camille CHAT"
 name_ja: "カミーユ-シャ"
 slug: "camille-chat"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "178.0"
+weight: "101.0"
+birth_date: "1995.12.18"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "リヨン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/camille-chat"
 ---
 
 ## キャリア遍歴
-
+Rugby Toucy Puisaye Forterre (2004 - 2006) -> RC Auxerre (2006 - 2013) -> Racing 92 (2013 - 2025) -> Lyon Olympique Universitaire Rugby (2024 - )

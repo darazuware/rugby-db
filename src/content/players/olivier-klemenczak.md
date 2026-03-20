@@ -1,20 +1,20 @@
 ---
-title: "nan | オリヴィエ・クレマンチャック"
-name_en: "nan"
+title: "Olivier KLEMENCZAK | オリヴィエ・クレマンチャック"
+name_en: "Olivier KLEMENCZAK"
 name_ja: "オリヴィエ・クレマンチャック"
 slug: "olivier-klemenczak"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "181.0"
+weight: "90.0"
+birth_date: "1996.06.01"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/olivier-klemenczak"
 ---
 
 ## キャリア遍歴
-
+AS Soustons (2004 - 2011) -> US Dax Rugby Landes (2011 - 2018) -> Racing 92 (2018 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )

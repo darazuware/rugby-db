@@ -1,20 +1,20 @@
 ---
-title: "nan | ロハン・ウィンガム"
-name_en: "nan"
+title: "Rohan WINGHAM | ロハン・ウィンガム"
+name_en: "Rohan WINGHAM"
 name_ja: "ロハン・ウィンガム"
 slug: "rohan-wingham"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "117.0"
+birth_date: "2002.12.04"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rohan-wingham"
 ---
 
 ## キャリア遍歴
-
+Otago (2022 - 2025) -> Highlanders (2023 - )

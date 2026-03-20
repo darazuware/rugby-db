@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン ・ VELLACOTT"
-name_en: "nan"
+title: "ベン ・ VELLACOTT | ベン ・ VELLACOTT"
+name_en: "ベン ・ VELLACOTT"
 name_ja: "ベン ・ VELLACOTT"
 slug: "ben-vellacott"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "167.0"
+weight: "80.0"
+birth_date: "1995.03.28"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/ben-vellacott"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2016 - 2019) -> Wasps (2019 - 2021) -> Edimbourg Rugby (2021 - 2026)

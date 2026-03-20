@@ -1,20 +1,20 @@
 ---
-title: "nan | Joe ・ ROBERTS"
-name_en: "nan"
+title: "Joe ・ ROBERTS | Joe ・ ROBERTS"
+name_en: "Joe ・ ROBERTS"
 name_ja: "Joe ・ ROBERTS"
 slug: "joe-roberts-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "187.0"
+weight: "106.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (70 caps)"
 scraped_url: "https://all.rugby/player/joe-roberts-"
 ---
 
 ## キャリア遍歴
-
+Robert Gordon’s College (2024 - 2025) -> Glasgow Warriors (2025 - 2026)

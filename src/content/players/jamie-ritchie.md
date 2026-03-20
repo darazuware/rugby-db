@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェイミー-リッチー"
-name_en: "nan"
+title: "Jamie RITCHIE | ジェイミー-リッチー"
+name_en: "Jamie RITCHIE"
 name_ja: "ジェイミー-リッチー"
 slug: "jamie-ritchie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "190.0"
+weight: "110.0"
+birth_date: "1996.08.16"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/jamie-ritchie"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2014 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

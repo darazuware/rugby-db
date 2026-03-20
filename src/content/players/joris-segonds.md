@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョリス・セゴンズ"
-name_en: "nan"
+title: "Joris SEGONDS | ジョリス・セゴンズ"
+name_en: "Joris SEGONDS"
 name_ja: "ジョリス・セゴンズ"
 slug: "joris-segonds"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "180.0"
+weight: "91.0"
+birth_date: "1997.04.06"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "バイヨンヌ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/joris-segonds"
 ---
 
 ## キャリア遍歴
-
+SC Decazeville (2003 - 2013) -> Stade Aurillacois Cantal Auvergne (2013 - 2019) -> Stade Français Paris Rugby (2019 - 2024) -> Aviron Bayonnais (2024 - )

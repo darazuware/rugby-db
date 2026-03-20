@@ -1,20 +1,20 @@
 ---
-title: "nan | ガバン・ロール"
-name_en: "nan"
+title: "Gabin LORRE | ガバン・ロール"
+name_en: "Gabin LORRE"
 name_ja: "ガバン・ロール"
 slug: "gabin-lorre"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "182.0"
+weight: "82.0"
+birth_date: "2001.12.23"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "リヨン"
+caps: "🇮🇹 Italy代表 (2 caps)"
 scraped_url: "https://all.rugby/player/gabin-lorre"
 ---
 
 ## キャリア遍歴
-
+RCO Salagou Coeur d'Hérault (2006 - 2013) -> Stade Piscenois (2013 - 2019) -> Montpellier Hérault Rugby (2014 - 2017) -> Association Sportive Béziers Hérault (2019 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

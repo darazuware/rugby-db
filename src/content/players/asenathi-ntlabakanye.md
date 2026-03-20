@@ -1,20 +1,20 @@
 ---
-title: "nan | Asenathi ・ NTLABAKANYE"
-name_en: "nan"
+title: "Asenathi ・ NTLABAKANYE | Asenathi ・ NTLABAKANYE"
+name_en: "Asenathi ・ NTLABAKANYE"
 name_ja: "Asenathi ・ NTLABAKANYE"
 slug: "asenathi-ntlabakanye"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "182.0"
+weight: "153.0"
+birth_date: "1999.04.15"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/asenathi-ntlabakanye"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)

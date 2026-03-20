@@ -1,20 +1,20 @@
 ---
-title: "nan | マティアス・アダ"
-name_en: "nan"
+title: "Matthias HADDAD | マティアス・アダ"
+name_en: "Matthias HADDAD"
 name_ja: "マティアス・アダ"
 slug: "matthias-haddad"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "193.0"
+weight: "99.0"
+birth_date: "2001.03.10"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラ・ロシェル"
 caps: "0"
 scraped_url: "https://all.rugby/player/matthias-haddad"
 ---
 
 ## キャリア遍歴
-
+Stade Rochelais (2007 - 2026) -> Rugby Club du Pays Muzillacais (2009 - 2013) -> Rugby Club Vannes (2013 - )

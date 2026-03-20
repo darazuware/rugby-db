@@ -1,20 +1,20 @@
 ---
-title: "nan | ダン ・ EDWARDS"
-name_en: "nan"
+title: "ダン ・ EDWARDS | ダン ・ EDWARDS"
+name_en: "ダン ・ EDWARDS"
 name_ja: "ダン ・ EDWARDS"
 slug: "dan-edwards"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "178.0"
+weight: "83.0"
+birth_date: "2003.05.07"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "オスプリーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (0 caps)"
 scraped_url: "https://all.rugby/player/dan-edwards"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

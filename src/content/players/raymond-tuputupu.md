@@ -1,20 +1,20 @@
 ---
-title: "nan | レイモンド・ツプツプ"
-name_en: "nan"
+title: "Raymond TUPUTUPU | レイモンド・ツプツプ"
+name_en: "Raymond TUPUTUPU"
 name_ja: "レイモンド・ツプツプ"
 slug: "raymond-tuputupu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "106.0"
+birth_date: "2003.04.11"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/raymond-tuputupu"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2019 - 2025) -> Hurricanes (2020 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Lewis ・ EDWARDS"
-name_en: "nan"
+title: "Lewis ・ EDWARDS | Lewis ・ EDWARDS"
+name_en: "Lewis ・ EDWARDS"
 name_ja: "Lewis ・ EDWARDS"
 slug: "lewis-edwards"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "195.0"
+weight: "100.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lewis-edwards"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2024 - 2026)

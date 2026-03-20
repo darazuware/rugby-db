@@ -1,20 +1,20 @@
 ---
-title: "nan | Gabe ・ ウィリアムズ"
-name_en: "nan"
+title: "Gabe ・ ウィリアムズ | Gabe ・ ウィリアムズ"
+name_en: "Gabe ・ ウィリアムズ"
 name_ja: "Gabe ・ ウィリアムズ"
 slug: "gabe-williams"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "106.0"
+birth_date: "1996.07.22"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "カーディフ・ラグビー"
+caps: "🇼🇸 Samoa代表 (4 caps)"
 scraped_url: "https://all.rugby/player/gabe-williams"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2025 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Ethan ・ COUGHLAN"
-name_en: "nan"
+title: "Ethan ・ COUGHLAN | Ethan ・ COUGHLAN"
+name_en: "Ethan ・ COUGHLAN"
 name_ja: "Ethan ・ COUGHLAN"
 slug: "ethan-coughlan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "81.0"
+birth_date: "2002.04.13"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-coughlan"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2021 - 2026)

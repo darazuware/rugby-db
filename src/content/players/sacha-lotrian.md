@@ -1,20 +1,20 @@
 ---
-title: "nan | サシャ・ロトリアン"
-name_en: "nan"
+title: "Sacha LOTRIAN | サシャ・ロトリアン"
+name_en: "Sacha LOTRIAN"
 name_ja: "サシャ・ロトリアン"
 slug: "sacha-lotrian"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "180.0"
+weight: "106.0"
+birth_date: "2000.08.13"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/sacha-lotrian"
 ---
 
 ## キャリア遍歴
-
+US Millas (2007 - 2009) -> Union Sportive Arlequins Perpignanais (2009 - 2024) -> ASM Clermont Auvergne (2024 - )

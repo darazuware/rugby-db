@@ -1,20 +1,20 @@
 ---
-title: "nan | マルコ ・ ZANON"
-name_en: "nan"
+title: "マルコ ・ ZANON | マルコ ・ ZANON"
+name_en: "マルコ ・ ZANON"
 name_ja: "マルコ ・ ZANON"
 slug: "marco-zanon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "104.0"
+birth_date: "1997.10.03"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ゼブレ・パルマ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/marco-zanon"
 ---
 
 ## キャリア遍歴
-
+Benetton Rugby Trévise (2017 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2021) -> Benetton Rugby Trévise (2022 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2025) -> Zebre Parma (2025 - 2026)

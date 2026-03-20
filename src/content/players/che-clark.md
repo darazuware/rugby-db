@@ -1,20 +1,20 @@
 ---
-title: "nan | チェ・クラーク"
-name_en: "nan"
+title: "Che CLARK | チェ・クラーク"
+name_en: "Che CLARK"
 name_ja: "チェ・クラーク"
 slug: "che-clark"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "194.0"
+weight: "101.0"
+birth_date: "2003.04.22"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇳🇿 New Zealand代表 (18 caps)"
 scraped_url: "https://all.rugby/player/che-clark"
 ---
 
 ## キャリア遍歴
-
+Auckland (2022 - 2025) -> Blues (2024 - )

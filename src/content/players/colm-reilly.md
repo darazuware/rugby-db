@@ -1,20 +1,20 @@
 ---
-title: "nan | Colm ・ REILLY"
-name_en: "nan"
+title: "Colm ・ REILLY | Colm ・ REILLY"
+name_en: "Colm ・ REILLY"
 name_ja: "Colm ・ REILLY"
 slug: "colm-reilly"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "178.0"
+weight: "78.0"
+birth_date: "1999.08.09"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/colm-reilly"
 ---
 
 ## キャリア遍歴
-
+Buccaneers RFC (2019 - 2020) -> Connacht Rugby (2020 - 2026)

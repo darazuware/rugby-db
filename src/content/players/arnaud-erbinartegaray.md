@@ -1,20 +1,20 @@
 ---
-title: "nan | アルノー・エルビナルテガライ"
-name_en: "nan"
+title: "Arnaud ERBINARTEGARAY | アルノー・エルビナルテガライ"
+name_en: "Arnaud ERBINARTEGARAY"
 name_ja: "アルノー・エルビナルテガライ"
 slug: "arnaud-erbinartegaray"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "185.0"
+weight: "89.0"
+birth_date: "2000.09.16"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "バイヨンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/arnaud-erbinartegaray"
 ---
 
 ## キャリア遍歴
-
+Avenir Barcus (2009 - 2019) -> Sport Athlétique Mauléonais (2019 - 2021) -> Aviron Bayonnais (2021 - )

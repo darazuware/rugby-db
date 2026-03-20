@@ -1,20 +1,20 @@
 ---
-title: "nan | アントワーヌ・ジベール"
-name_en: "nan"
+title: "Antoine GIBERT | アントワーヌ・ジベール"
+name_en: "Antoine GIBERT"
 name_ja: "アントワーヌ・ジベール"
 slug: "antoine-gibert"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "177.0"
+weight: "76.0"
+birth_date: "1997.12.31"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇷 France代表 (0 caps)"
 scraped_url: "https://all.rugby/player/antoine-gibert"
 ---
 
 ## キャリア遍歴
-
+AC Boulogne-Billancourt (2004 - 2011) -> Racing 92 (2011 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | パオロ・ガルビシ"
-name_en: "nan"
+title: "Paolo GARBISI | パオロ・ガルビシ"
+name_en: "Paolo GARBISI"
 name_ja: "パオロ・ガルビシ"
 slug: "paolo-garbisi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "184.0"
+weight: "97.0"
+birth_date: "2000.04.26"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/paolo-garbisi"
 ---
 
 ## キャリア遍歴
-
+Mogliano Veneto Rugby (2018 - 2019) -> Petrarca Rugby (2019 - 2020) -> Benetton Rugby Trévise (2019 - 2021) -> Montpellier Hérault Rugby (2021 - 2024) -> Rugby Club Toulonnais (2023 - )

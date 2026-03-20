@@ -1,20 +1,20 @@
 ---
-title: "nan | リッチー・アジアタ"
-name_en: "nan"
+title: "Richie ASIATA | リッチー・アジアタ"
+name_en: "Richie ASIATA"
 name_ja: "リッチー・アジアタ"
 slug: "richie-asiata"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "120.0"
+birth_date: "1996.05.03"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/richie-asiata"
 ---
 
 ## キャリア遍歴
-
+Toronto Arrows (2019 - 2020) -> Queensland Reds (2020 - 2026) -> Northland Taniwha (2023 - 2024) -> Benetton Rugby Trévise (2025 - )

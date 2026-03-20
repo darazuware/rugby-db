@@ -1,20 +1,20 @@
 ---
-title: "nan | Manu ・ TSHITUKA"
-name_en: "nan"
+title: "Manu ・ TSHITUKA | Manu ・ TSHITUKA"
+name_en: "Manu ・ TSHITUKA"
 name_ja: "Manu ・ TSHITUKA"
 slug: "emmanuel-tshituka"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "110.0"
+birth_date: "2000.06.16"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/emmanuel-tshituka"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2020 - 2024) -> Sharks (2024 - 2026)

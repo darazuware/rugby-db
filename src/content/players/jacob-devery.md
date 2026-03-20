@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェイコブ-デヴェリー"
-name_en: "nan"
+title: "Jacob DEVERY | ジェイコブ-デヴェリー"
+name_en: "Jacob DEVERY"
 name_ja: "ジェイコブ-デヴェリー"
 slug: "jacob-devery"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "105.0"
+birth_date: "1998.10.21"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jacob-devery"
 ---
 
 ## キャリア遍歴
-
+Hawke's Bay Magpies (2016 - 2025) -> Hurricanes (2021 - )

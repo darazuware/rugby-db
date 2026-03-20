@@ -1,20 +1,20 @@
 ---
-title: "nan | Osian ・ DARWIN ・ LEWIS"
-name_en: "nan"
+title: "Osian ・ DARWIN ・ LEWIS | Osian ・ DARWIN ・ LEWIS"
+name_en: "Osian ・ DARWIN ・ LEWIS"
 name_ja: "Osian ・ DARWIN ・ LEWIS"
 slug: "osian-darwin-lewis"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "95.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/osian-darwin-lewis"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2024 - 2026)

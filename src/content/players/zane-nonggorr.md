@@ -1,20 +1,20 @@
 ---
-title: "nan | ゼーン・ノンゴール"
-name_en: "nan"
+title: "Zane NONGGORR | ゼーン・ノンゴール"
+name_en: "Zane NONGGORR"
 name_ja: "ゼーン・ノンゴール"
 slug: "zane-nonggorr"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "187.0"
+weight: "130.0"
+birth_date: "2001.03.30"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "クイーンズランド・レッズ"
+caps: "🇦🇺 Australia代表 (3 caps)"
 scraped_url: "https://all.rugby/player/zane-nonggorr"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2019 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Shane ・ JENNINGS"
-name_en: "nan"
+title: "Shane ・ JENNINGS | Shane ・ JENNINGS"
+name_en: "Shane ・ JENNINGS"
 name_ja: "Shane ・ JENNINGS"
 slug: "shane-jennings-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "191.0"
+weight: "96.0"
+birth_date: "2001.01.14"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "コナート・ラグビー"
+caps: "🇮🇪 Ireland代表 (10 caps)"
 scraped_url: "https://all.rugby/player/shane-jennings-"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2020 - 2026)

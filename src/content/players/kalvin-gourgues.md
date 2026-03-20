@@ -1,20 +1,20 @@
 ---
-title: "nan | カルビン・グルグ"
-name_en: "nan"
+title: "Kalvin GOURGUES | カルビン・グルグ"
+name_en: "Kalvin GOURGUES"
 name_ja: "カルビン・グルグ"
 slug: "kalvin-gourgues"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "CTB"
+height: "184.0"
+weight: "97.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/kalvin-gourgues"
 ---
 
 ## キャリア遍歴
-
+Grenade Sports (2010 - 2019) -> Stade Toulousain (2019 - )

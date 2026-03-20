@@ -1,20 +1,20 @@
 ---
-title: "nan | サム・ダリー"
-name_en: "nan"
+title: "Sam DARRY | サム・ダリー"
+name_en: "Sam DARRY"
 name_ja: "サム・ダリー"
 slug: "sam-darry"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "110.0"
+birth_date: "2000.07.11"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-darry"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2019 - 2025) -> Blues (2020 - )

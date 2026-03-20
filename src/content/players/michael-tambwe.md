@@ -1,20 +1,20 @@
 ---
-title: "nan | マドッシュ・タンブウェ"
-name_en: "nan"
+title: "Madosh TAMBWE | マドッシュ・タンブウェ"
+name_en: "Madosh TAMBWE"
 name_ja: "マドッシュ・タンブウェ"
 slug: "michael-tambwe"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "186.0"
+weight: "94.0"
+birth_date: "1997.05.12"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "Congo"
 scraped_url: "https://all.rugby/player/michael-tambwe"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2016 - 2019) -> Golden Lions (2018 - 2019) -> Sharks (2019 - 2020) -> Bulls (2020 - 2022) -> Union Bordeaux-Bègles (2022 - 2026) -> Montpellier Hérault Rugby (2024 - )

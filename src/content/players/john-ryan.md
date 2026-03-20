@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョン ・ ライアン"
-name_en: "nan"
+title: "ジョン ・ ライアン | ジョン ・ ライアン"
+name_en: "ジョン ・ ライアン"
 name_ja: "ジョン ・ ライアン"
 slug: "john-ryan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "121.0"
+birth_date: "1988.08.02"
+age: 37
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/john-ryan"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2012 - 2022) -> Wasps (2022 - 2022) -> Chiefs (2022 - 2022) -> Munster Rugby (2023 - 2023) -> Wasps (2023 - 2023) -> Chiefs (2023 - 2023) -> Munster Rugby (2023 - 2026)

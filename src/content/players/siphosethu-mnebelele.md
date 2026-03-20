@@ -1,20 +1,20 @@
 ---
-title: "nan | Siphosethu ・ MNEBELELE"
-name_en: "nan"
+title: "Siphosethu ・ MNEBELELE | Siphosethu ・ MNEBELELE"
+name_en: "Siphosethu ・ MNEBELELE"
 name_ja: "Siphosethu ・ MNEBELELE"
 slug: "siphosethu-mnebelele"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "111.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/siphosethu-mnebelele"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)

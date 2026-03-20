@@ -1,20 +1,20 @@
 ---
-title: "nan | Elrigh ・ LOUW"
-name_en: "nan"
+title: "Elrigh ・ LOUW | Elrigh ・ LOUW"
+name_en: "Elrigh ・ LOUW"
 name_ja: "Elrigh ・ LOUW"
 slug: "elrigh-louw"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "195.0"
+weight: "112.0"
+birth_date: "1999.09.20"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/elrigh-louw"
 ---
 
 ## キャリア遍歴
-
+Southern Kings (2019 - 2019) -> Bulls (2019 - 2019) -> Southern Kings (2020 - 2020) -> Bulls (2020 - 2026)

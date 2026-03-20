@@ -1,20 +1,20 @@
 ---
-title: "nan | ラクラン・スウィントン"
-name_en: "nan"
+title: "Lachlan SWINTON | ラクラン・スウィントン"
+name_en: "Lachlan SWINTON"
 name_ja: "ラクラン・スウィントン"
 slug: "lachlan-swinton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "195.0"
+weight: "113.0"
+birth_date: "1997.01.16"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/lachlan-swinton"
 ---
 
 ## キャリア遍歴
-
+New South Wales Waratahs (2018 - 2024) -> Union Bordeaux-Bègles (2024 - )

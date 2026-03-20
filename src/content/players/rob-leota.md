@@ -1,20 +1,20 @@
 ---
-title: "nan | ロブ・レオタ"
-name_en: "nan"
+title: "Rob LEOTA | ロブ・レオタ"
+name_en: "Rob LEOTA"
 name_ja: "ロブ・レオタ"
 slug: "rob-leota"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "190.0"
+weight: "110.0"
+birth_date: "1997.03.03"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "バイヨンヌ"
+caps: "🇦🇺 Australia代表 (17 caps)"
 scraped_url: "https://all.rugby/player/rob-leota"
 ---
 
 ## キャリア遍歴
-
+Melbourne Rebels (2015 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Aviron Bayonnais (2025 - )

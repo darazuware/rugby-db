@@ -1,20 +1,20 @@
 ---
-title: "nan | Huw ・ SUTTON"
-name_en: "nan"
+title: "Huw ・ SUTTON | Huw ・ SUTTON"
+name_en: "Huw ・ SUTTON"
 name_ja: "Huw ・ SUTTON"
 slug: "huw-sutton"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "122.0"
+birth_date: "1999.11.17"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/huw-sutton"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2021 - 2026)

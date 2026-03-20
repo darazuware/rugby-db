@@ -1,20 +1,20 @@
 ---
-title: "nan | トム ・ MEDINA"
-name_en: "nan"
+title: "トム ・ MEDINA | トム ・ MEDINA"
+name_en: "トム ・ MEDINA"
 name_ja: "トム ・ MEDINA"
 slug: "tomas-medina"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "176.0"
+weight: "94.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tomas-medina"
 ---
 
 ## キャリア遍歴
-
+Cardenales RC (2023 - 2024) -> Tarucas (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | パスカル・コテ"
-name_en: "nan"
+title: "Pascal COTET | パスカル・コテ"
+name_en: "Pascal COTET"
 name_ja: "パスカル・コテ"
 slug: "pascal-cotet"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "128.0"
+birth_date: "1993.10.12"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "バイヨンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/pascal-cotet"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Arlequins Perpignanais (2013 - 2015) -> Racing Club Narbonnais (2015 - 2022) -> Oyonnax Rugby (2016 - 2017) -> RC Aubenas Vals (2017 - 2018) -> Aviron Bayonnais (2022 - )

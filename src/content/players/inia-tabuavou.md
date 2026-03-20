@@ -1,20 +1,20 @@
 ---
-title: "nan | イニア-タブアボウ"
-name_en: "nan"
+title: "Inia TABUAVOU | イニア-タブアボウ"
+name_en: "Inia TABUAVOU"
 name_ja: "イニア-タブアボウ"
 slug: "inia-tabuavou"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "101.0"
+birth_date: "2002.08.31"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/inia-tabuavou"
 ---
 
 ## キャリア遍歴
-
+Rotorua Boys High School (2019 - 2020) -> Racing 92 (2020 - 2024) -> Fijian Drua (2024 - )

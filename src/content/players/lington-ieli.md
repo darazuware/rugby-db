@@ -1,20 +1,20 @@
 ---
-title: "nan | リンントン・イエリ"
-name_en: "nan"
+title: "Lington IELI | リンントン・イエリ"
+name_en: "Lington IELI"
 name_ja: "リンントン・イエリ"
 slug: "lington-ieli"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "122.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lington-ieli"
 ---
 
 ## キャリア遍歴
-
+Brumbies (2023 - )

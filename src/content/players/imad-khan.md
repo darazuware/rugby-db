@@ -1,20 +1,20 @@
 ---
-title: "nan | Imad ・ KHAN"
-name_en: "nan"
+title: "Imad ・ KHAN | Imad ・ KHAN"
+name_en: "Imad ・ KHAN"
 name_ja: "Imad ・ KHAN"
 slug: "imad-khan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "179.0"
+weight: "84.0"
+birth_date: "2003.12.02"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "DHLストーマーズ"
+caps: "Georgia代表 (48 caps)"
 scraped_url: "https://all.rugby/player/imad-khan"
 ---
 
 ## キャリア遍歴
-
+Western Province (2021 - 2022) -> Stormers (2022 - 2023) -> Western Province (2023 - 2024) -> Stormers (2024 - 2026)

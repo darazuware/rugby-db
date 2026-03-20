@@ -1,20 +1,20 @@
 ---
-title: "nan | Jeremy ・ LOUGHMAN"
-name_en: "nan"
+title: "Jeremy ・ LOUGHMAN | Jeremy ・ LOUGHMAN"
+name_en: "Jeremy ・ LOUGHMAN"
 name_ja: "Jeremy ・ LOUGHMAN"
 slug: "jeremy-loughman"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "120.0"
+birth_date: "1995.07.22"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/jeremy-loughman"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2015 - 2017) -> Munster Rugby (2017 - 2026)

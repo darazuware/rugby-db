@@ -1,20 +1,20 @@
 ---
-title: "nan | ヘロニモ・デ・ラ・フエンテ"
-name_en: "nan"
+title: "Jerónimo DE LA FUENTE | ヘロニモ・デ・ラ・フエンテ"
+name_en: "Jerónimo DE LA FUENTE"
 name_ja: "ヘロニモ・デ・ラ・フエンテ"
 slug: "jeronimo-de-la-fuente"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "184.0"
+weight: "96.0"
+birth_date: "1991.02.24"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/jeronimo-de-la-fuente"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2015 - 2020) -> Union Sportive Arlequins Perpignanais (2020 - )

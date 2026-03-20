@@ -1,20 +1,20 @@
 ---
-title: "nan | 朝倉 一稀"
+title: "nan | "
 name_en: "nan"
-name_ja: "朝倉 一稀"
+name_ja: ""
 slug: "player-4356"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "バース・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

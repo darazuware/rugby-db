@@ -1,20 +1,20 @@
 ---
-title: "nan | Morgan ・ MORRIS"
-name_en: "nan"
+title: "Morgan ・ MORRIS | Morgan ・ MORRIS"
+name_en: "Morgan ・ MORRIS"
 name_ja: "Morgan ・ MORRIS"
 slug: "morgan-morris"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "183.0"
+weight: "110.0"
+birth_date: "1998.08.28"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/morgan-morris"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Harri ・ LEWIS"
-name_en: "nan"
+title: "Harri ・ LEWIS | Harri ・ LEWIS"
+name_en: "Harri ・ LEWIS"
 name_ja: "Harri ・ LEWIS"
 slug: "harri-lewis"
-position: ""
+position: "LO"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/harri-lewis"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2025 - 2026)

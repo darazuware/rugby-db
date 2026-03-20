@@ -1,20 +1,20 @@
 ---
-title: "nan | サンティアゴ・アラタ"
-name_en: "nan"
+title: "Santiago ARATA | サンティアゴ・アラタ"
+name_en: "Santiago ARATA"
 name_ja: "サンティアゴ・アラタ"
 slug: "santiago-arata"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "174.0"
+weight: "75.0"
+birth_date: "1996.09.02"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "Uruguay"
 scraped_url: "https://all.rugby/player/santiago-arata"
 ---
 
 ## キャリア遍歴
-
+Houston Sabercats (2018 - 2019) -> Club Atlético Peñarol (2019 - 2020) -> Castres Olympique (2020 - )

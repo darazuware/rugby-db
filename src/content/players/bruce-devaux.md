@@ -1,20 +1,20 @@
 ---
-title: "nan | ブルース・ドゥヴォー"
-name_en: "nan"
+title: "Bruce DEVAUX | ブルース・ドゥヴォー"
+name_en: "Bruce DEVAUX"
 name_ja: "ブルース・ドゥヴォー"
 slug: "bruce-devaux"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "108.0"
+birth_date: "1996.11.14"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/bruce-devaux"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Toulonnais (2005 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | Phepsi ・ BUTHELEZI"
-name_en: "nan"
+title: "Phepsi ・ BUTHELEZI | Phepsi ・ BUTHELEZI"
+name_en: "Phepsi ・ BUTHELEZI"
 name_ja: "Phepsi ・ BUTHELEZI"
 slug: "phendulani-buthelezi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "108.0"
+birth_date: "1999.05.30"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/phendulani-buthelezi"
 ---
 
 ## キャリア遍歴
-
+Sharks (2018 - 2026)

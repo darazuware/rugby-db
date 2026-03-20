@@ -1,20 +1,20 @@
 ---
-title: "nan | ロックラン ・オズボーン"
+title: "nan | "
 name_en: "nan"
-name_ja: "ロックラン ・オズボーン"
+name_ja: ""
 slug: "player-4621"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ハーレクインズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

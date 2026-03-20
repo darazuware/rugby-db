@@ -1,20 +1,20 @@
 ---
-title: "nan | イーサン-デュモルティエ"
-name_en: "nan"
+title: "Ethan DUMORTIER | イーサン-デュモルティエ"
+name_en: "Ethan DUMORTIER"
 name_ja: "イーサン-デュモルティエ"
 slug: "ethan-dumortier"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "192.0"
+weight: "95.0"
+birth_date: "2000.12.29"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "リヨン"
 caps: "0"
 scraped_url: "https://all.rugby/player/ethan-dumortier"
 ---
 
 ## キャリア遍歴
-
+Saint-Savin (2009 - 2014) -> CS Bourgoin Jallieu Rugby (2014 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - )

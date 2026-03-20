@@ -1,20 +1,20 @@
 ---
-title: "nan | マティアス・レミュ"
-name_en: "nan"
+title: "Matias REMUE | マティアス・レミュ"
+name_en: "Matias REMUE"
 name_ja: "マティアス・レミュ"
 slug: "matias-remue"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "184.0"
+weight: "86.0"
+birth_date: "2003.03.07"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "Belgium"
 scraped_url: "https://all.rugby/player/matias-remue"
 ---
 
 ## キャリア遍歴
-
+Royal Kituro Rugby Club (2013 - 2022) -> Stade Toulousain (2022 - )

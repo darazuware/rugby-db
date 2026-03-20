@@ -1,20 +1,20 @@
 ---
-title: "nan | Marcel ・ THEUNISSEN"
-name_en: "nan"
+title: "Marcel ・ THEUNISSEN | Marcel ・ THEUNISSEN"
+name_en: "Marcel ・ THEUNISSEN"
 name_ja: "Marcel ・ THEUNISSEN"
 slug: "marcel-theunissen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "191.0"
+weight: "103.0"
+birth_date: "1999.06.09"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/marcel-theunissen"
 ---
 
 ## キャリア遍歴
-
+Stormers (2019 - 2026)

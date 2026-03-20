@@ -1,20 +1,20 @@
 ---
-title: "nan | カート・エクランド"
-name_en: "nan"
+title: "Kurt EKLUND | カート・エクランド"
+name_en: "Kurt EKLUND"
 name_ja: "カート・エクランド"
 slug: "kurt-eklund"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "103.0"
+birth_date: "1992.01.05"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/kurt-eklund"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2018 - 2025) -> Blues (2019 - )

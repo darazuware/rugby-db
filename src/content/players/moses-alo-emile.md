@@ -1,20 +1,20 @@
 ---
-title: "nan | モーゼス・アロ＝イーマイル"
-name_en: "nan"
+title: "Moses ALO-EMILE | モーゼス・アロ＝イーマイル"
+name_en: "Moses ALO-EMILE"
 name_ja: "モーゼス・アロ＝イーマイル"
 slug: "moses-alo-emile"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "187.0"
+weight: "130.0"
+birth_date: "2000.01.18"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/moses-alo-emile"
 ---
 
 ## キャリア遍歴
-
+Brisbane State High School (2017 - 2018) -> Stade Français Paris Rugby (2018 - )

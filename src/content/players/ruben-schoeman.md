@@ -1,20 +1,20 @@
 ---
-title: "nan | Ruben ・ SCHOEMAN"
-name_en: "nan"
+title: "Ruben ・ SCHOEMAN | Ruben ・ SCHOEMAN"
+name_en: "Ruben ・ SCHOEMAN"
 name_ja: "Ruben ・ SCHOEMAN"
 slug: "ruben-schoeman"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "124.0"
+birth_date: "1996.03.14"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ruben-schoeman"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)

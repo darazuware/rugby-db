@@ -1,20 +1,20 @@
 ---
-title: "nan | ダルトン-パパリイ"
-name_en: "nan"
+title: "Dalton PAPALI'I | ダルトン-パパリイ"
+name_en: "Dalton PAPALI'I"
 name_ja: "ダルトン-パパリイ"
 slug: "dalton-papali-i"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "193.0"
+weight: "108.0"
+birth_date: "1997.10.11"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/dalton-papali-i"
 ---
 
 ## キャリア遍歴
-
+Blues (2017 - 2026) -> Counties Manukau Steelers (2019 - )

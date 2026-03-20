@@ -1,20 +1,20 @@
 ---
-title: "nan | アンティム・エムリー"
-name_en: "nan"
+title: "Anthime HEMERY | アンティム・エムリー"
+name_en: "Anthime HEMERY"
 name_ja: "アンティム・エムリー"
 slug: "anthime-hemery"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "187.0"
+weight: "111.0"
+birth_date: "2001.01.09"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/anthime-hemery"
 ---
 
 ## キャリア遍歴
-
+Ovale du Gy (2006 - 2016) -> Racing 92 (2016 - 2024) -> ASM Clermont Auvergne (2023 - )

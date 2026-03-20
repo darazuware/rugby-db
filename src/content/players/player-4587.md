@@ -1,20 +1,20 @@
 ---
-title: "nan | 眞野 泰地"
+title: "nan | "
 name_en: "nan"
-name_ja: "眞野 泰地"
+name_ja: ""
 slug: "player-4587"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1996-09-11"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "グロスター・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )

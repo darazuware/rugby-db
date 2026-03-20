@@ -1,20 +1,20 @@
 ---
-title: "nan | ニック・フロスト"
-name_en: "nan"
+title: "Nick FROST | ニック・フロスト"
+name_en: "Nick FROST"
 name_ja: "ニック・フロスト"
 slug: "nick-frost"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "206.0"
+weight: "120.0"
+birth_date: "1999.10.10"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ACTブランビーズ"
+caps: "🇦🇺 Australia代表 (12 caps)"
 scraped_url: "https://all.rugby/player/nick-frost"
 ---
 
 ## キャリア遍歴
-
+Canberra Vikings (2018 - 2019) -> Brumbies (2019 - )

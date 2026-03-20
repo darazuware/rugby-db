@@ -1,20 +1,20 @@
 ---
-title: "nan | ルイ・カルボネル"
-name_en: "nan"
+title: "Louis CARBONEL | ルイ・カルボネル"
+name_en: "Louis CARBONEL"
 name_ja: "ルイ・カルボネル"
 slug: "louis-carbonel"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "180.0"
+weight: "88.0"
+birth_date: "1999.02.04"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/louis-carbonel"
 ---
 
 ## キャリア遍歴
-
+RC Canton Garde-Pradet (2004 - 2005) -> Rugby Club Toulonnais (2005 - 2022) -> Montpellier Hérault Rugby (2022 - 2024) -> Stade Français Paris Rugby (2024 - )

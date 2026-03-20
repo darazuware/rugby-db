@@ -1,20 +1,20 @@
 ---
-title: "nan | Morn ・ BRANDON"
-name_en: "nan"
+title: "Morn ・ BRANDON | Morn ・ BRANDON"
+name_en: "Morn ・ BRANDON"
 name_ja: "Morn ・ BRANDON"
 slug: "morne-brandon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "106.0"
+birth_date: "2000.11.25"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/morne-brandon"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2020 - 2026)

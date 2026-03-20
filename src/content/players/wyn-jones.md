@@ -1,20 +1,20 @@
 ---
-title: "nan | Wyn ・ JONES"
-name_en: "nan"
+title: "Wyn ・ JONES | Wyn ・ JONES"
+name_en: "Wyn ・ JONES"
 name_ja: "Wyn ・ JONES"
 slug: "wyn-jones"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "114.0"
+birth_date: "1992.02.26"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ドラゴンズ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/wyn-jones"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2014 - 2024) -> Harlequins (2024 - 2025) -> Dragons RFC (2025 - 2026)

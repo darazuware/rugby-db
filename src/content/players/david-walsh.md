@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド ・ WALSH"
-name_en: "nan"
+title: "デイヴィッド ・ WALSH | デイヴィッド ・ WALSH"
+name_en: "デイヴィッド ・ WALSH"
 name_ja: "デイヴィッド ・ WALSH"
 slug: "david-walsh"
-position: ""
-height: "0"
+position: "LO"
+height: "198.0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/david-walsh"
 ---
 
 ## キャリア遍歴
-
+Dublin University FC (2024 - 2025) -> Connacht Rugby (2025 - 2026)

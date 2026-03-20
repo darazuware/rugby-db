@@ -1,20 +1,20 @@
 ---
-title: "nan | マチュー・スマイリ"
-name_en: "nan"
+title: "Mathieu SMAÏLI | マチュー・スマイリ"
+name_en: "Mathieu SMAÏLI"
 name_ja: "マチュー・スマイリ"
 slug: "mathieu-smaili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "88.0"
+birth_date: "1999.08.30"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "トゥーロン"
 caps: "0"
 scraped_url: "https://all.rugby/player/mathieu-smaili"
 ---
 
 ## キャリア遍歴
-
+RC Hyères Carqueiranne La Crau (2006 - 2010) -> Rugby Club Toulonnais (2010 - 2026) -> Stade Montois Rugby Pro (2020 - )

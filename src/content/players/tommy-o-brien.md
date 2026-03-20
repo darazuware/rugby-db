@@ -1,20 +1,20 @@
 ---
-title: "nan | Tommy ・ O'BRIEN"
-name_en: "nan"
+title: "Tommy ・ O'BRIEN | Tommy ・ O'BRIEN"
+name_en: "Tommy ・ O'BRIEN"
 name_ja: "Tommy ・ O'BRIEN"
 slug: "tommy-o-brien"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "95.0"
+birth_date: "1998.05.28"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/tommy-o-brien"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2019 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョー・ジョナス"
-name_en: "nan"
+title: "Joe JONAS | ジョー・ジョナス"
+name_en: "Joe JONAS"
 name_ja: "ジョー・ジョナス"
 slug: "joe-jonas"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "180.0"
+weight: "90.0"
+birth_date: "2000.12.31"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-jonas"
 ---
 
 ## キャリア遍歴
-
+Glenwood High School (2019 - 2020) -> Biarritz Olympique Pays Basque (2020 - 2024) -> Stade Français Paris Rugby (2024 - )

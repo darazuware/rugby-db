@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョニー・グレイ"
-name_en: "nan"
+title: "Jonny GRAY | ジョニー・グレイ"
+name_en: "Jonny GRAY"
 name_ja: "ジョニー・グレイ"
 slug: "jonny-gray"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "122.0"
+birth_date: "1994.03.14"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/jonny-gray"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2013 - 2020) -> Exeter Chiefs (2019 - 2024) -> Union Bordeaux-Bègles (2024 - )

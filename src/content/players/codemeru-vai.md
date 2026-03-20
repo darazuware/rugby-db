@@ -1,20 +1,20 @@
 ---
-title: "nan | コーディ・バイ"
-name_en: "nan"
+title: "Cody VAI | コーディ・バイ"
+name_en: "Cody VAI"
 name_ja: "コーディ・バイ"
 slug: "codemeru-vai"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "188.0"
+weight: "86.0"
+birth_date: "2004.02.25"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/codemeru-vai"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2022 - 2024) -> Auckland (2024 - 2025) -> Blues (2025 - )

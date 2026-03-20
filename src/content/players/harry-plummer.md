@@ -1,20 +1,20 @@
 ---
-title: "nan | ハリー-プラマー"
-name_en: "nan"
+title: "Harry PLUMMER | ハリー-プラマー"
+name_en: "Harry PLUMMER"
 name_ja: "ハリー-プラマー"
 slug: "harry-plummer"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "184.0"
+weight: "99.0"
+birth_date: "1998.06.19"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "クレルモン"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/harry-plummer"
 ---
 
 ## キャリア遍歴
-
+Blues (2018 - 2025) -> Auckland (2019 - 2024) -> ASM Clermont Auvergne (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 齊藤 遼太郎"
+title: "nan | "
 name_en: "nan"
-name_ja: "齊藤 遼太郎"
+name_ja: ""
 slug: "player-4862"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2000.03.13"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

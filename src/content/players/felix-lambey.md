@@ -1,20 +1,20 @@
 ---
-title: "nan | フェリックス・ランベイ"
-name_en: "nan"
+title: "Félix LAMBEY | フェリックス・ランベイ"
+name_en: "Félix LAMBEY"
 name_ja: "フェリックス・ランベイ"
 slug: "felix-lambey"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "106.0"
+birth_date: "1994.03.15"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "リヨン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/felix-lambey"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2013 - 2026) -> Association Sportive Béziers Hérault (2015 - )

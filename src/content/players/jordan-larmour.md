@@ -1,20 +1,20 @@
 ---
-title: "nan | Jordan ・ LARMOUR"
-name_en: "nan"
+title: "Jordan ・ LARMOUR | Jordan ・ LARMOUR"
+name_en: "Jordan ・ LARMOUR"
 name_ja: "Jordan ・ LARMOUR"
 slug: "jordan-larmour"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "178.0"
+weight: "91.0"
+birth_date: "1997.06.10"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/jordan-larmour"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2017 - 2026)

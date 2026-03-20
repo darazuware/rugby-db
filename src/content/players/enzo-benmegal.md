@@ -1,20 +1,20 @@
 ---
-title: "nan | エンゾ・ベンメガル"
-name_en: "nan"
+title: "Enzo BENMEGAL | エンゾ・ベンメガル"
+name_en: "Enzo BENMEGAL"
 name_ja: "エンゾ・ベンメガル"
 slug: "enzo-benmegal"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "179.0"
+weight: "81.0"
+birth_date: "2003.10.28"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/enzo-benmegal"
 ---
 
 ## キャリア遍歴
-
+Union Rugby Centre 78 (2011 - 2014) -> Racing 92 (2014 - 2024) -> Rugby Club Vannes (2023 - )

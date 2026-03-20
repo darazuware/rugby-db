@@ -1,20 +1,20 @@
 ---
-title: "nan | ネイサン・ヘスティ"
-name_en: "nan"
+title: "Nathan HASTIE | ネイサン・ヘスティ"
+name_en: "Nathan HASTIE"
 name_ja: "ネイサン・ヘスティ"
 slug: "nathan-hastie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "177.0"
+weight: "88.0"
+birth_date: "2001.04.27"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/nathan-hastie"
 ---
 
 ## キャリア遍歴
-
+Otago (2020 - 2025) -> Highlanders (2021 - 2025) -> Western Force (2025 - )

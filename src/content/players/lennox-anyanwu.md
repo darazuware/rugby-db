@@ -1,20 +1,20 @@
 ---
-title: "nan | レノックス・アニャンウ"
-name_en: "nan"
+title: "Lennox ANYANWU | レノックス・アニャンウ"
+name_en: "Lennox ANYANWU"
 name_ja: "レノックス・アニャンウ"
 slug: "lennox-anyanwu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "182.0"
+weight: "102.0"
+birth_date: "2000.11.29"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "モンペリエ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lennox-anyanwu"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2019 - 2025) -> London Scottish (2022 - 2023) -> Montpellier Hérault Rugby (2025 - )

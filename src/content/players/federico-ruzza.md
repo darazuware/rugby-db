@@ -1,20 +1,20 @@
 ---
-title: "nan | Federico ・ RUZZA"
-name_en: "nan"
+title: "Federico ・ RUZZA | Federico ・ RUZZA"
+name_en: "Federico ・ RUZZA"
 name_ja: "Federico ・ RUZZA"
 slug: "federico-ruzza"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "110.0"
+birth_date: "1994.08.04"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/federico-ruzza"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2014 - 2017) -> Benetton Rugby Trévise (2017 - 2026)

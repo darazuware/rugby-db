@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョリス・ジュラン"
-name_en: "nan"
+title: "Joris JURAND | ジョリス・ジュラン"
+name_en: "Joris JURAND"
 name_ja: "ジョリス・ジュラン"
 slug: "joris-jurand"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "188.0"
+weight: "106.0"
+birth_date: "1995.11.11"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/joris-jurand"
 ---
 
 ## キャリア遍歴
-
+XV Saint-Rémois (2004 - 2006) -> RC Noves-Eyragues (2006 - 2014) -> Rugby Club Châteaurenard (2007 - 2015) -> Provence Rugby (2015 - 2018) -> Montpellier Hérault Rugby (2018 - 2019) -> CA Brive Corrèze Limousin (2018 - 2023) -> ASM Clermont Auvergne (2023 - )

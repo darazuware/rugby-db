@@ -1,20 +1,20 @@
 ---
-title: "nan | ダニエル-ロナ"
-name_en: "nan"
+title: "Daniel RONA | ダニエル-ロナ"
+name_en: "Daniel RONA"
 name_ja: "ダニエル-ロナ"
 slug: "daniel-rona"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "91.0"
+birth_date: "2000.04.10"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/daniel-rona"
 ---
 
 ## キャリア遍歴
-
+Taranaki Bulls (2019 - 2025) -> Chiefs (2022 - )

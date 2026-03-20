@@ -1,20 +1,20 @@
 ---
-title: "nan | フアン・クルス・マリア"
-name_en: "nan"
+title: "Juan Cruz MALLÍA | フアン・クルス・マリア"
+name_en: "Juan Cruz MALLÍA"
 name_ja: "フアン・クルス・マリア"
 slug: "juan-cruz-mallia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "182.0"
+weight: "92.0"
+birth_date: "1996.09.11"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/juan-cruz-mallia"
 ---
 
 ## キャリア遍歴
-
+Jaguares (2017 - 2020) -> Stade Toulousain (2020 - )

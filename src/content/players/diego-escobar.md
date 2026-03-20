@@ -1,20 +1,20 @@
 ---
-title: "nan | ディエゴ-エスコバル"
-name_en: "nan"
+title: "Diego ESCOBAR | ディエゴ-エスコバル"
+name_en: "Diego ESCOBAR"
 name_ja: "ディエゴ-エスコバル"
 slug: "diego-escobar"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "176.0"
+weight: "103.0"
+birth_date: "2000.04.17"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "Chile代表 (5 caps)"
 scraped_url: "https://all.rugby/player/diego-escobar"
 ---
 
 ## キャリア遍歴
-
+Selknam (2021 - 2024) -> Racing 92 (2024 - )

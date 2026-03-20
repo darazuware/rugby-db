@@ -1,20 +1,20 @@
 ---
-title: "nan | Ruan ・ NORTJ"
-name_en: "nan"
+title: "Ruan ・ NORTJ | Ruan ・ NORTJ"
+name_en: "Ruan ・ NORTJ"
 name_ja: "Ruan ・ NORTJ"
 slug: "ruan-nortje"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "113.0"
+birth_date: "1998.07.25"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/ruan-nortje"
 ---
 
 ## キャリア遍歴
-
+Bulls (2017 - 2018) -> Blue Bulls (2018 - 2019) -> Bulls (2019 - 2026)

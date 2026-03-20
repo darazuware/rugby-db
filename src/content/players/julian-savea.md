@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュリアン・サヴェア"
-name_en: "nan"
+title: "Julian SAVEA | ジュリアン・サヴェア"
+name_en: "Julian SAVEA"
 name_ja: "ジュリアン・サヴェア"
 slug: "julian-savea"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "192.0"
+weight: "108.0"
+birth_date: "1990.08.07"
+age: 35
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "モアナ・パシフィカ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/julian-savea"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2010 - 2023) -> Rugby Club Toulonnais (2018 - 2020) -> Wellington Lions (2019 - 2025) -> Moana Pasifika (2023 - )

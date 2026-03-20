@@ -1,20 +1,20 @@
 ---
-title: "nan | サミペニ・フィナウ"
-name_en: "nan"
+title: "Samipeni FINAU | サミペニ・フィナウ"
+name_en: "Samipeni FINAU"
 name_ja: "サミペニ・フィナウ"
 slug: "samipeni-finau"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "196.0"
+weight: "115.0"
+birth_date: "1999.05.10"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇹🇴 Tonga"
 scraped_url: "https://all.rugby/player/samipeni-finau"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2018 - 2025) -> Chiefs (2020 - )

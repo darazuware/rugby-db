@@ -1,20 +1,20 @@
 ---
-title: "nan | ティボー・フラマン"
-name_en: "nan"
+title: "Thibaud FLAMENT | ティボー・フラマン"
+name_en: "Thibaud FLAMENT"
 name_ja: "ティボー・フラマン"
 slug: "thibaud-flament"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "116.0"
+birth_date: "1997.04.29"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/thibaud-flament"
 ---
 
 ## キャリア遍歴
-
+ASUB Rugby Waterloo (2005 - 2015) -> Loughborough University (2015 - 2019) -> Club Newman (2017 - 2018) -> Wasps (2019 - 2020) -> Stade Toulousain (2020 - )

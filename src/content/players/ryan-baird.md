@@ -1,20 +1,20 @@
 ---
-title: "nan | ライアン ・ BAIRD"
-name_en: "nan"
+title: "ライアン ・ BAIRD | ライアン ・ BAIRD"
+name_en: "ライアン ・ BAIRD"
 name_ja: "ライアン ・ BAIRD"
 slug: "ryan-baird"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "113.0"
+birth_date: "1999.07.26"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/ryan-baird"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2018 - 2026)

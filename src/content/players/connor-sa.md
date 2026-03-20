@@ -1,20 +1,20 @@
 ---
-title: "nan | コナー・サ"
-name_en: "nan"
+title: "Connor SA | コナー・サ"
+name_en: "Connor SA"
 name_ja: "コナー・サ"
 slug: "connor-sa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "103.0"
+birth_date: "2002.01.22"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🇫🇷 France代表 (9 caps)"
 scraped_url: "https://all.rugby/player/connor-sa"
 ---
 
 ## キャリア遍歴
-
+Union Bordeaux-Bègles (2015 - 2026) -> US Carcassonne (2022 - )

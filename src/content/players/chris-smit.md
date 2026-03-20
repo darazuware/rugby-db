@@ -1,20 +1,20 @@
 ---
-title: "nan | クリス ・ SMIT"
-name_en: "nan"
+title: "クリス ・ SMIT | クリス ・ SMIT"
+name_en: "クリス ・ SMIT"
 name_ja: "クリス ・ SMIT"
 slug: "chris-smit"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "182.0"
+weight: "93.0"
+birth_date: "1995.08.01"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "🇳🇿 New Zealand代表 (88 caps)"
 scraped_url: "https://all.rugby/player/chris-smit"
 ---
 
 ## キャリア遍歴
-
+Griquas (2018 - 2019) -> Central Cheetahs (2019 - 2020) -> Free State Cheetahs (2020 - 2022) -> Blue Bulls (2022 - 2024) -> Bulls (2024 - 2026)

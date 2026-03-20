@@ -1,20 +1,20 @@
 ---
-title: "nan | スター・エティアン"
-name_en: "nan"
+title: "Lester ÉTIEN | スター・エティアン"
+name_en: "Lester ÉTIEN"
 name_ja: "スター・エティアン"
 slug: "lester-etien"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "181.0"
+weight: "102.0"
+birth_date: "1995.06.21"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/lester-etien"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Massy Essonne (2014 - 2018) -> Stade Français Paris Rugby (2018 - )

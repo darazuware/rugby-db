@@ -1,20 +1,20 @@
 ---
-title: "nan | 平沼 泰成"
+title: "nan | "
 name_en: "nan"
-name_ja: "平沼 泰成"
+name_ja: ""
 slug: "player-4841"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "16/10/2000"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

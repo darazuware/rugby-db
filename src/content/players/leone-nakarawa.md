@@ -1,20 +1,20 @@
 ---
-title: "nan | レオーネ・ナカラワ"
-name_en: "nan"
+title: "Leone NAKARAWA | レオーネ・ナカラワ"
+name_en: "Leone NAKARAWA"
 name_ja: "レオーネ・ナカラワ"
 slug: "leone-nakarawa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "200.0"
+weight: "127.0"
+birth_date: "1988.02.04"
+age: 38
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/leone-nakarawa"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2013 - 2021) -> Racing 92 (2016 - 2020) -> Rugby Club Toulonnais (2021 - 2022) -> Castres Olympique (2022 - )

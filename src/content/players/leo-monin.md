@@ -1,20 +1,20 @@
 ---
-title: "nan | レオ・モナン"
-name_en: "nan"
+title: "Léo MONIN | レオ・モナン"
+name_en: "Léo MONIN"
 name_ja: "レオ・モナン"
 slug: "leo-monin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "188.0"
+weight: "95.0"
+birth_date: "2002.01.25"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/leo-monin"
 ---
 
 ## キャリア遍歴
-
+RC des Vallons de la Tour (2007 - 2017) -> CS Bourgoin Jallieu Rugby (2017 - 2020) -> Stade Français Paris Rugby (2020 - )

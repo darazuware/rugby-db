@@ -1,20 +1,20 @@
 ---
-title: "nan | ベイリン-サリヴァン"
-name_en: "nan"
+title: "Bailyn SULLIVAN | ベイリン-サリヴァン"
+name_en: "Bailyn SULLIVAN"
 name_ja: "ベイリン-サリヴァン"
 slug: "bailyn-sullivan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "103.0"
+birth_date: "1998.09.03"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/bailyn-sullivan"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2017 - 2021) -> Waikato Mooloos (2019 - 2025) -> Hurricanes (2021 - )

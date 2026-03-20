@@ -1,20 +1,20 @@
 ---
-title: "nan | タハ・ケマラ"
-name_en: "nan"
+title: "Taha KEMARA | タハ・ケマラ"
+name_en: "Taha KEMARA"
 name_ja: "タハ・ケマラ"
 slug: "taha-kemara"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "179.0"
+weight: "86.0"
+birth_date: "2003.04.17"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/taha-kemara"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2021 - 2024) -> Crusaders (2022 - )

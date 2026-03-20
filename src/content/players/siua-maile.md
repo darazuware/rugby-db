@@ -1,20 +1,20 @@
 ---
-title: "nan | Siua ・ MAILE"
-name_en: "nan"
+title: "Siua ・ MAILE | Siua ・ MAILE"
+name_en: "Siua ・ MAILE"
 name_ja: "Siua ・ MAILE"
 slug: "siua-maile"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "181.0"
+weight: "113.0"
+birth_date: "1997.02.18"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇹🇴 Tonga"
 scraped_url: "https://all.rugby/player/siua-maile"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2019 - 2021) -> Hurricanes (2021 - 2021) -> Manawatu Turbos (2021 - 2021) -> Hurricanes (2022 - 2022) -> Manawatu Turbos (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)

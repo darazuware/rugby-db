@@ -1,20 +1,20 @@
 ---
-title: "nan | グウェナエル・デュプレンヌ"
-name_en: "nan"
+title: "Gwenaël DUPLENNE | グウェナエル・デュプレンヌ"
+name_en: "Gwenaël DUPLENNE"
 name_ja: "グウェナエル・デュプレンヌ"
 slug: "gwenael-duplenne"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "186.0"
+weight: "87.0"
+birth_date: "1993.08.09"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gwenael-duplenne"
 ---
 
 ## キャリア遍歴
-
+RC Lavallois (2004 - 2006) -> Rugby Club Vannes (2006 - 2026) -> Lyon Olympique Universitaire Rugby (2012 - )

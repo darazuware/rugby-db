@@ -1,20 +1,20 @@
 ---
-title: "nan | コール・フォーブス"
-name_en: "nan"
+title: "Cole FORBES | コール・フォーブス"
+name_en: "Cole FORBES"
 name_ja: "コール・フォーブス"
 slug: "cole-forbes"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "180.0"
+weight: "91.0"
+birth_date: "1999.08.10"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cole-forbes"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2017 - 2025) -> Glasgow Warriors (2020 - 2023) -> Blues (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | マシュー ・ VICTORY"
-name_en: "nan"
+title: "マシュー ・ VICTORY | マシュー ・ VICTORY"
+name_en: "マシュー ・ VICTORY"
 name_ja: "マシュー ・ VICTORY"
 slug: "matthew-victory"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "177.0"
+weight: "100.0"
+birth_date: "2003.05.28"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/matthew-victory"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2023 - 2026)

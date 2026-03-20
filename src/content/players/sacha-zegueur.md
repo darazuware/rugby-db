@@ -1,20 +1,20 @@
 ---
-title: "nan | サシャ・ゼゲール"
-name_en: "nan"
+title: "Sacha ZEGUEUR | サシャ・ゼゲール"
+name_en: "Sacha ZEGUEUR"
 name_ja: "サシャ・ゼゲール"
 slug: "sacha-zegueur"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "192.0"
+weight: "108.0"
+birth_date: "1999.06.21"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sacha-zegueur"
 ---
 
 ## キャリア遍歴
-
+Oyonnax Rugby (2010 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

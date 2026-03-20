@@ -1,20 +1,20 @@
 ---
-title: "nan | 石垣 航平"
+title: "nan | "
 name_en: "nan"
-name_ja: "石垣 航平"
+name_ja: ""
 slug: "player-4715"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1996.11.16"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

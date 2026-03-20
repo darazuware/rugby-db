@@ -1,20 +1,20 @@
 ---
-title: "nan | ドミニク・ロペティ"
-name_en: "nan"
+title: "Dominic ROPETI | ドミニク・ロペティ"
+name_en: "Dominic ROPETI"
 name_ja: "ドミニク・ロペティ"
 slug: "dominic-ropeti"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "193.0"
+weight: "106.0"
+birth_date: "2003.02.04"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dominic-ropeti"
 ---
 
 ## キャリア遍歴
-
+Wellington Lions (2022 - 2025) -> Moana Pasifika (2025 - )

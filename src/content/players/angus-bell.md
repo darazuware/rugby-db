@@ -1,20 +1,20 @@
 ---
-title: "nan | Angus ・ BELL"
-name_en: "nan"
+title: "Angus ・ BELL | Angus ・ BELL"
+name_en: "Angus ・ BELL"
 name_ja: "Angus ・ BELL"
 slug: "angus-bell"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "193.0"
+weight: "130.0"
+birth_date: "2000.10.04"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/angus-bell"
 ---
 
 ## キャリア遍歴
-
+New South Wales Waratahs (2018 - 2025) -> Ulster Rugby (2025 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴェティ ・トゥポウ"
+title: "nan | "
 name_en: "nan"
-name_ja: "ヴェティ ・トゥポウ"
+name_ja: ""
 slug: "player-4424"
-position: ""
+position: "Lock"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1996.11.16"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ブリストル・ベアーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ティボー・モタッシ"
-name_en: "nan"
+title: "Thibaut MOTASSI | ティボー・モタッシ"
+name_en: "Thibaut MOTASSI"
 name_ja: "ティボー・モタッシ"
 slug: "thibaut-motassi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "SH"
+height: "175.0"
+weight: "79.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/thibaut-motassi"
 ---
 
 ## キャリア遍歴
-
+Rueil Athlétic Club Rugby (2013 - 2019) -> Stade Français Paris Rugby (2019 - )

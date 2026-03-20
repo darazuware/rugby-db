@@ -1,20 +1,20 @@
 ---
-title: "nan | Fionn ・ GIBBONS"
-name_en: "nan"
+title: "Fionn ・ GIBBONS | Fionn ・ GIBBONS"
+name_en: "Fionn ・ GIBBONS"
 name_ja: "Fionn ・ GIBBONS"
 slug: "fionn-gibbons"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "105.0"
+birth_date: "2002.06.12"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/fionn-gibbons"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2022) -> Munster Rugby (2022 - 2026)

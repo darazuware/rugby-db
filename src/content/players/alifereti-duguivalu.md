@@ -1,20 +1,20 @@
 ---
-title: "nan | アリヴェレティ・ドゥグイヴァル"
-name_en: "nan"
+title: "Alivereti DUGUIVALU | アリヴェレティ・ドゥグイヴァル"
+name_en: "Alivereti DUGUIVALU"
 name_ja: "アリヴェレティ・ドゥグイヴァル"
 slug: "alifereti-duguivalu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "85.0"
+birth_date: "1997.07.21"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇯🇵 Japan代表 (26 caps)"
 scraped_url: "https://all.rugby/player/alifereti-duguivalu"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Arlequins Perpignanais (2017 - )

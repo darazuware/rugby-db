@@ -1,20 +1,20 @@
 ---
-title: "nan | 森山 迅都"
+title: "nan | "
 name_en: "nan"
-name_ja: "森山 迅都"
+name_ja: ""
 slug: "player-4515"
-position: ""
+position: "Fly-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "エクセター・チーフス"
+caps: "🇯🇵 Japan代表 (10 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

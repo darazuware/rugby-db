@@ -1,20 +1,20 @@
 ---
-title: "nan | 岡 新之助タフォキタウ"
+title: "nan | "
 name_en: "nan"
-name_ja: "岡 新之助タフォキタウ"
+name_ja: ""
 slug: "player-4704"
-position: ""
+position: "Fly-half"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "01/07/1998"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

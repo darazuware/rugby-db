@@ -1,20 +1,20 @@
 ---
-title: "nan | Jurenzo ・ JULIUS"
-name_en: "nan"
+title: "Jurenzo ・ JULIUS | Jurenzo ・ JULIUS"
+name_en: "Jurenzo ・ JULIUS"
 name_ja: "Jurenzo ・ JULIUS"
 slug: "jurenzo-julius"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "178.0"
+weight: "96.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/jurenzo-julius"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)

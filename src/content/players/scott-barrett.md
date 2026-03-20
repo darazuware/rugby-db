@@ -1,20 +1,20 @@
 ---
-title: "nan | スコット・バレット"
-name_en: "nan"
+title: "Scott BARRETT | スコット・バレット"
+name_en: "Scott BARRETT"
 name_ja: "スコット・バレット"
 slug: "scott-barrett"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "197.0"
+weight: "119.0"
+birth_date: "1993.11.20"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/scott-barrett"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2013 - 2026) -> Taranaki Bulls (2020 - )

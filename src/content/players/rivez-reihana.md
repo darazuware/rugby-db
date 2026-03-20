@@ -1,20 +1,20 @@
 ---
-title: "nan | リヴェス・レイハナ"
-name_en: "nan"
+title: "Rivez REIHANA | リヴェス・レイハナ"
+name_en: "Rivez REIHANA"
 name_ja: "リヴェス・レイハナ"
 slug: "rivez-reihana"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "189.0"
+weight: "94.0"
+birth_date: "2000.05.25"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/rivez-reihana"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2018 - 2020) -> Chiefs (2020 - 2023) -> Northland Taniwha (2020 - 2025) -> Crusaders (2023 - )

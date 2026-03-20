@@ -1,20 +1,20 @@
 ---
-title: "nan | Kelly ・ MPEKU"
-name_en: "nan"
+title: "Kelly ・ MPEKU | Kelly ・ MPEKU"
+name_en: "Kelly ・ MPEKU"
 name_ja: "Kelly ・ MPEKU"
 slug: "kelly-mpeku"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "88.0"
+birth_date: "2003.11.28"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/kelly-mpeku"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2023 - 2024) -> Lions Rugby (2024 - 2026)

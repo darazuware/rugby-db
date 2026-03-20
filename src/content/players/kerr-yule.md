@@ -1,20 +1,20 @@
 ---
-title: "nan | Kerr ・ YULE"
-name_en: "nan"
+title: "Kerr ・ YULE | Kerr ・ YULE"
+name_en: "Kerr ・ YULE"
 name_ja: "Kerr ・ YULE"
 slug: "kerr-yule"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "189.0"
+weight: "107.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/kerr-yule"
 ---
 
 ## キャリア遍歴
-
+Glasgow Hawks (2022 - 2023) -> Glasgow Warriors (2023 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | 北原 璃久"
+title: "nan | "
 name_en: "nan"
-name_ja: "北原 璃久"
+name_ja: ""
 slug: "player-4878"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "セール・シャークス"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (3 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

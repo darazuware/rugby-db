@@ -1,20 +1,20 @@
 ---
-title: "nan | ペセリ・ヤト"
-name_en: "nan"
+title: "Peceli YATO | ペセリ・ヤト"
+name_en: "Peceli YATO"
 name_ja: "ペセリ・ヤト"
 slug: "peceli-yato"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "196.0"
+weight: "120.0"
+birth_date: "1993.01.17"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/peceli-yato"
 ---
 
 ## キャリア遍歴
-
+ASM Clermont Auvergne (2012 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

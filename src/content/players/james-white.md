@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ・ホワイト"
-name_en: "nan"
+title: "James WHITE | ジェームズ・ホワイト"
+name_en: "James WHITE"
 name_ja: "ジェームズ・ホワイト"
 slug: "james-white"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "180.0"
+weight: "95.0"
+birth_date: "2003.09.16"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (59 caps)"
 scraped_url: "https://all.rugby/player/james-white"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2023 - 2025) -> Crusaders (2025 - )

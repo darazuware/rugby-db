@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョシュ・バートレット"
-name_en: "nan"
+title: "Josh BARTLETT | ジョシュ・バートレット"
+name_en: "Josh BARTLETT"
 name_ja: "ジョシュ・バートレット"
 slug: "josh-bartlett"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "116.0"
+birth_date: "2002.12.28"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/josh-bartlett"
 ---
 
 ## キャリア遍歴
-
+Bay of Plenty Steamers (2020 - 2025) -> Chiefs (2021 - 2022) -> Western Force (2023 - 2024) -> Highlanders (2024 - )

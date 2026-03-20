@@ -1,20 +1,20 @@
 ---
-title: "nan | Robbie ・ HENSHAW"
-name_en: "nan"
+title: "Robbie ・ HENSHAW | Robbie ・ HENSHAW"
+name_en: "Robbie ・ HENSHAW"
 name_ja: "Robbie ・ HENSHAW"
 slug: "robbie-henshaw"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "191.0"
+weight: "100.0"
+birth_date: "1993.06.12"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/robbie-henshaw"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2013 - 2016) -> Leinster Rugby (2016 - 2026)

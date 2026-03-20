@@ -1,20 +1,20 @@
 ---
-title: "nan | アダム ・ HASTINGS"
-name_en: "nan"
+title: "アダム ・ HASTINGS | アダム ・ HASTINGS"
+name_en: "アダム ・ HASTINGS"
 name_ja: "アダム ・ HASTINGS"
 slug: "adam-hastings"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "189.0"
+weight: "93.0"
+birth_date: "1996.10.05"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/adam-hastings"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2015 - 2017) -> Glasgow Warriors (2017 - 2021) -> Gloucester Rugby (2021 - 2024) -> Glasgow Warriors (2024 - 2026)

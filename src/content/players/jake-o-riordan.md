@@ -1,20 +1,20 @@
 ---
-title: "nan | Jake ・ O'RIORDAN"
-name_en: "nan"
+title: "Jake ・ O'RIORDAN | Jake ・ O'RIORDAN"
+name_en: "Jake ・ O'RIORDAN"
 name_ja: "Jake ・ O'RIORDAN"
 slug: "jake-o-riordan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "170.0"
+weight: "74.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---
 
 ## キャリア遍歴
-
+University of Limerick Bohemian RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)

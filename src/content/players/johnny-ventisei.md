@@ -1,20 +1,20 @@
 ---
-title: "nan | Johnny ・ VENTISEI"
-name_en: "nan"
+title: "Johnny ・ VENTISEI | Johnny ・ VENTISEI"
+name_en: "Johnny ・ VENTISEI"
 name_ja: "Johnny ・ VENTISEI"
 slug: "johnny-ventisei"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "181.0"
+weight: "96.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/johnny-ventisei"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

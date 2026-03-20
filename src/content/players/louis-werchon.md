@@ -1,20 +1,20 @@
 ---
-title: "nan | ルイ・ウェルション"
-name_en: "nan"
+title: "Louis WERCHON | ルイ・ウェルション"
+name_en: "Louis WERCHON"
 name_ja: "ルイ・ウェルション"
 slug: "louis-werchon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "178.0"
+weight: "85.0"
+birth_date: "2002.10.25"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/louis-werchon"
 ---
 
 ## キャリア遍歴
-
+Brothers Rugby Club (2020 - 2022) -> West Brisbane Bulldogs (2022 - 2023) -> Queensland Reds (2022 - 2026) -> Benetton Rugby Trévise (2025 - )

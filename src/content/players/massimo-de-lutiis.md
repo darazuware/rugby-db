@@ -1,20 +1,20 @@
 ---
-title: "nan | マッシモ・デ・ルティイス"
-name_en: "nan"
+title: "Massimo DE LUTIIS | マッシモ・デ・ルティイス"
+name_en: "Massimo DE LUTIIS"
 name_ja: "マッシモ・デ・ルティイス"
 slug: "massimo-de-lutiis"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "126.0"
+birth_date: "2003.11.18"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/massimo-de-lutiis"
 ---
 
 ## キャリア遍歴
-
+Wests Lions (2022 - 2023) -> Queensland Reds (2023 - )

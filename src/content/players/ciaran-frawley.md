@@ -1,20 +1,20 @@
 ---
-title: "nan | Ciar ・ FRAWLEY"
-name_en: "nan"
+title: "Ciar ・ FRAWLEY | Ciar ・ FRAWLEY"
+name_en: "Ciar ・ FRAWLEY"
 name_ja: "Ciar ・ FRAWLEY"
 slug: "ciaran-frawley"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "191.0"
+weight: "98.0"
+birth_date: "1997.12.04"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/ciaran-frawley"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2017 - 2026)

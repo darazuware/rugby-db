@@ -1,20 +1,20 @@
 ---
-title: "nan | バティスト-セラン"
-name_en: "nan"
+title: "Baptiste SERIN | バティスト-セラン"
+name_en: "Baptiste SERIN"
 name_ja: "バティスト-セラン"
 slug: "baptiste-serin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "182.0"
+weight: "83.0"
+birth_date: "1994.06.20"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/baptiste-serin"
 ---
 
 ## キャリア遍歴
-
+Parentis Sport Rugby (2004 - 2009) -> Union Bordeaux-Bègles (2009 - 2019) -> Rugby Club Toulonnais (2019 - )

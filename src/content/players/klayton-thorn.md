@@ -1,20 +1,20 @@
 ---
-title: "nan | クレイトン・ソーン"
-name_en: "nan"
+title: "Klayton THORN | クレイトン・ソーン"
+name_en: "Klayton THORN"
 name_ja: "クレイトン・ソーン"
 slug: "klayton-thorn"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "179.0"
+weight: "83.0"
+birth_date: "2003.06.06"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/klayton-thorn"
 ---
 
 ## キャリア遍歴
-
+Randwick Rugby (2021 - 2022) -> Brumbies (2022 - )

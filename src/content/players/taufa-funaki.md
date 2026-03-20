@@ -1,20 +1,20 @@
 ---
-title: "nan | タウファ・フナキ"
-name_en: "nan"
+title: "Taufa FUNAKI | タウファ・フナキ"
+name_en: "Taufa FUNAKI"
 name_ja: "タウファ・フナキ"
 slug: "taufa-funaki"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "179.0"
+weight: "91.0"
+birth_date: "2000.07.29"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/taufa-funaki"
 ---
 
 ## キャリア遍歴
-
+Auckland (2019 - 2025) -> Blues (2021 - )

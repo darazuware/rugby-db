@@ -1,20 +1,20 @@
 ---
-title: "nan | MCCARTHY"
-name_en: "nan"
+title: "MCCARTHY | MCCARTHY"
+name_en: "MCCARTHY"
 name_ja: "MCCARTHY"
 slug: "eanna-mccarthy"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "112.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/eanna-mccarthy"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2024 - 2026)

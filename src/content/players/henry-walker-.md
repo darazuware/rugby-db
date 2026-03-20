@@ -1,20 +1,20 @@
 ---
-title: "nan | Henry ・ WALKER"
-name_en: "nan"
+title: "Henry ・ WALKER | Henry ・ WALKER"
+name_en: "Henry ・ WALKER"
 name_ja: "Henry ・ WALKER"
 slug: "henry-walker-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "187.0"
+weight: "100.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/henry-walker-"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2023 - 2026)

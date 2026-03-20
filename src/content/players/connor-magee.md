@@ -1,20 +1,20 @@
 ---
-title: "nan | Connor ・ MAGEE"
-name_en: "nan"
+title: "Connor ・ MAGEE | Connor ・ MAGEE"
+name_en: "Connor ・ MAGEE"
 name_ja: "Connor ・ MAGEE"
 slug: "connor-magee"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "185.0"
+weight: "109.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/connor-magee"
 ---
 
 ## キャリア遍歴
-
+Banbridge RFC (2024 - 2025) -> Ulster Rugby (2025 - 2026)

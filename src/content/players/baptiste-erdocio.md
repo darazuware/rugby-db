@@ -1,20 +1,20 @@
 ---
-title: "nan | バティスト・エルドシオ"
-name_en: "nan"
+title: "Baptiste ERDOCIO | バティスト・エルドシオ"
+name_en: "Baptiste ERDOCIO"
 name_ja: "バティスト・エルドシオ"
 slug: "baptiste-erdocio"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "175.0"
+weight: "115.0"
+birth_date: "2000.03.13"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "モンペリエ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/baptiste-erdocio"
 ---
 
 ## キャリア遍歴
-
+Bidart Union Club (2005 - 2014) -> Biarritz Olympique Pays Basque (2014 - 2023) -> Montpellier Hérault Rugby (2023 - )

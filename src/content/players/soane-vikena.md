@@ -1,20 +1,20 @@
 ---
-title: "nan | ソアネ・ヴィケナ"
-name_en: "nan"
+title: "Soane VIKENA | ソアネ・ヴィケナ"
+name_en: "Soane VIKENA"
 name_ja: "ソアネ・ヴィケナ"
 slug: "soane-vikena"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "112.0"
+birth_date: "2001.07.01"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/soane-vikena"
 ---
 
 ## キャリア遍歴
-
+Auckland (2019 - 2025) -> Blues (2020 - 2024) -> Highlanders (2024 - )

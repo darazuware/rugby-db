@@ -1,20 +1,20 @@
 ---
-title: "nan | Nathan ・ MCBETH"
-name_en: "nan"
+title: "Nathan ・ MCBETH | Nathan ・ MCBETH"
+name_en: "Nathan ・ MCBETH"
 name_ja: "Nathan ・ MCBETH"
 slug: "nathan-mcbeth"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "189.0"
+weight: "120.0"
+birth_date: "1998.06.08"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "Call-ups代表 (2 caps)"
 scraped_url: "https://all.rugby/player/nathan-mcbeth"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2020) -> Golden Lions (2020 - 2020) -> Lions Rugby (2021 - 2021) -> Golden Lions (2021 - 2021) -> Glasgow Warriors (2021 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Litelihle ・ BESTER"
-name_en: "nan"
+title: "Litelihle ・ BESTER | Litelihle ・ BESTER"
+name_en: "Litelihle ・ BESTER"
 name_ja: "Litelihle ・ BESTER"
 slug: "litelihle-bester"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "187.0"
+weight: "92.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/litelihle-bester"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)

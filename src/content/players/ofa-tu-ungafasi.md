@@ -1,20 +1,20 @@
 ---
-title: "nan | オファ・トゥンガファシ"
-name_en: "nan"
+title: "Ofa TU'UNGAFASI | オファ・トゥンガファシ"
+name_en: "Ofa TU'UNGAFASI"
 name_ja: "オファ・トゥンガファシ"
 slug: "ofa-tu-ungafasi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "195.0"
+weight: "125.0"
+birth_date: "1992.04.19"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇹🇴 Tonga"
 scraped_url: "https://all.rugby/player/ofa-tu-ungafasi"
 ---
 
 ## キャリア遍歴
-
+Blues (2013 - 2026) -> Auckland (2019 - 2020) -> Northland Taniwha (2021 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | テーン・エドメド"
-name_en: "nan"
+title: "Tane EDMED | テーン・エドメド"
+name_en: "Tane EDMED"
 name_ja: "テーン・エドメド"
 slug: "tane-edmed"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "183.0"
+weight: "92.0"
+birth_date: "2000.08.16"
+age: 25
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ACTブランビーズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/tane-edmed"
 ---
 
 ## キャリア遍歴
-
+Eastwood Rugby Club (2019 - 2020) -> New South Wales Waratahs (2020 - 2025) -> North Harbour (2023 - 2024) -> Brumbies (2025 - )

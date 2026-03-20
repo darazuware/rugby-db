@@ -1,20 +1,20 @@
 ---
-title: "nan | アサフォ-アウムア"
-name_en: "nan"
+title: "Asafo AUMUA | アサフォ-アウムア"
+name_en: "Asafo AUMUA"
 name_ja: "アサフォ-アウムア"
 slug: "asafo-aumua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "177.0"
+weight: "112.0"
+birth_date: "1997.05.05"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/asafo-aumua"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2017 - 2026) -> Wellington Lions (2019 - )

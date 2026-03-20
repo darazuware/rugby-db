@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド ・ ODIASE"
-name_en: "nan"
+title: "デイヴィッド ・ ODIASE | デイヴィッド ・ ODIASE"
+name_en: "デイヴィッド ・ ODIASE"
 name_ja: "デイヴィッド ・ ODIASE"
 slug: "david-odiase"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "190.0"
+weight: "114.0"
+birth_date: "2003.01.19"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ゼブレ・パルマ"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/david-odiase"
 ---
 
 ## キャリア遍歴
-
+Colorno (2021 - 2022) -> Oyonnax Rugby (2022 - 2025) -> Zebre Parma (2025 - 2026)

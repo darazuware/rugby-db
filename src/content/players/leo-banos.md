@@ -1,20 +1,20 @@
 ---
-title: "nan | レオ・バノス"
-name_en: "nan"
+title: "Léo BANOS | レオ・バノス"
+name_en: "Léo BANOS"
 name_ja: "レオ・バノス"
 slug: "leo-banos"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "191.0"
+weight: "106.0"
+birth_date: "2002.08.16"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/leo-banos"
 ---
 
 ## キャリア遍歴
-
+Parentis Sport Rugby (2011 - 2016) -> Stade Montois Rugby Pro (2016 - 2024) -> Stade Toulousain (2023 - )

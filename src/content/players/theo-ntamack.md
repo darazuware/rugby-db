@@ -1,20 +1,20 @@
 ---
-title: "nan | テオ・ンタマック"
-name_en: "nan"
+title: "Théo NTAMACK | テオ・ンタマック"
+name_en: "Théo NTAMACK"
 name_ja: "テオ・ンタマック"
 slug: "theo-ntamack"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "193.0"
+weight: "110.0"
+birth_date: "2002.05.29"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/theo-ntamack"
 ---
 
 ## キャリア遍歴
-
+Stade Toulousain (2014 - )

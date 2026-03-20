@@ -1,20 +1,20 @@
 ---
-title: "nan | 中野 豪"
+title: "nan | "
 name_en: "nan"
-name_ja: "中野 豪"
+name_ja: ""
 slug: "player-4651"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ハーレクインズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

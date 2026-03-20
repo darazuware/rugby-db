@@ -1,20 +1,20 @@
 ---
-title: "nan | Cai ・ EVANS"
-name_en: "nan"
+title: "Cai ・ EVANS | Cai ・ EVANS"
+name_en: "Cai ・ EVANS"
 name_ja: "Cai ・ EVANS"
 slug: "cai-evans"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "185.0"
+weight: "84.0"
+birth_date: "1999.06.23"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ドラゴンズ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/cai-evans"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2023) -> Dragons RFC (2023 - 2026)

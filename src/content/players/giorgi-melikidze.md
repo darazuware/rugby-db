@@ -1,20 +1,20 @@
 ---
-title: "nan | ギオルギ-メリキゼ"
-name_en: "nan"
+title: "Giorgi MELIKIDZE | ギオルギ-メリキゼ"
+name_en: "Giorgi MELIKIDZE"
 name_ja: "ギオルギ-メリキゼ"
 slug: "giorgi-melikidze"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "179.0"
+weight: "117.0"
+birth_date: "1996.05.24"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "Georgia"
 scraped_url: "https://all.rugby/player/giorgi-melikidze"
 ---
 
 ## キャリア遍歴
-
+RC Rustavi Kharebi (2014 - 2015) -> Stade Français Paris Rugby (2015 - )

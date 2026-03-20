@@ -1,20 +1,20 @@
 ---
-title: "nan | Fintan ・ GUNNE"
-name_en: "nan"
+title: "Fintan ・ GUNNE | Fintan ・ GUNNE"
+name_en: "Fintan ・ GUNNE"
 name_ja: "Fintan ・ GUNNE"
 slug: "fintan-gunne"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "85.0"
+birth_date: "2003.07.28"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/fintan-gunne"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

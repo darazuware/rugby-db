@@ -1,20 +1,20 @@
 ---
-title: "nan | リアム・ボウロン"
-name_en: "nan"
+title: "Liam BOWRON | リアム・ボウロン"
+name_en: "Liam BOWRON"
 name_ja: "リアム・ボウロン"
 slug: "liam-bowron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "103.0"
+birth_date: "2003.02.24"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-bowron"
 ---
 
 ## キャリア遍歴
-
+Canberra Royals (2022 - 2023) -> Brumbies (2023 - )

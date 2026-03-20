@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュール・クーロン"
-name_en: "nan"
+title: "Jules COULON | ジュール・クーロン"
+name_en: "Jules COULON"
 name_ja: "ジュール・クーロン"
 slug: "jules-coulon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "189.0"
+weight: "105.0"
+birth_date: "2002.07.04"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "トゥーロン"
 caps: "0"
 scraped_url: "https://all.rugby/player/jules-coulon"
 ---
 
 ## キャリア遍歴
-
+RC Metz (2011 - 2017) -> Rugby Club Toulonnais (2017 - )

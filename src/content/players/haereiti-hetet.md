@@ -1,20 +1,20 @@
 ---
-title: "nan | ハエレティ-ヘテット"
-name_en: "nan"
+title: "Haereiti HETET | ハエレティ-ヘテット"
+name_en: "Haereiti HETET"
 name_ja: "ハエレティ-ヘテット"
 slug: "haereiti-hetet"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "130.0"
+birth_date: "1997.07.10"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "フィジアン・ドゥルア"
 caps: "0"
 scraped_url: "https://all.rugby/player/haereiti-hetet"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2017 - 2019) -> Bay of Plenty Steamers (2019 - 2025) -> Fijian Drua (2021 - )

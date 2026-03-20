@@ -1,20 +1,20 @@
 ---
-title: "nan | シアレ・ラウアキ"
-name_en: "nan"
+title: "Siale LAUAKI | シアレ・ラウアキ"
+name_en: "Siale LAUAKI"
 name_ja: "シアレ・ラウアキ"
 slug: "siale-lauaki"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "194.0"
+weight: "125.0"
+birth_date: "2003.05.30"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇳🇿 New Zealand代表 (7 caps)"
 scraped_url: "https://all.rugby/player/siale-lauaki"
 ---
 
 ## キャリア遍歴
-
+Wellington Lions (2021 - 2025) -> Hurricanes (2023 - )

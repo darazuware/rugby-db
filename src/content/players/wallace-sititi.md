@@ -1,20 +1,20 @@
 ---
-title: "nan | ウォレス・シティティ"
-name_en: "nan"
+title: "Wallace SITITI | ウォレス・シティティ"
+name_en: "Wallace SITITI"
 name_ja: "ウォレス・シティティ"
 slug: "wallace-sititi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "185.0"
+weight: "113.0"
+birth_date: "2002.09.07"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/wallace-sititi"
 ---
 
 ## キャリア遍歴
-
+North Harbour (2021 - 2024) -> Chiefs (2023 - )

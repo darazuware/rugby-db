@@ -1,20 +1,20 @@
 ---
-title: "nan | Lucas ・ デ ・ LA ・ RUA"
-name_en: "nan"
+title: "Lucas ・ デ ・ LA ・ RUA | Lucas ・ デ ・ LA ・ RUA"
+name_en: "Lucas ・ デ ・ LA ・ RUA"
 name_ja: "Lucas ・ デ ・ LA ・ RUA"
 slug: "lucas-de-la-rua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "188.0"
+weight: "104.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-de-la-rua"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2022 - 2026)

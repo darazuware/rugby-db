@@ -1,20 +1,20 @@
 ---
-title: "nan | Gus ・ MCCARTHY"
-name_en: "nan"
+title: "Gus ・ MCCARTHY | Gus ・ MCCARTHY"
+name_en: "Gus ・ MCCARTHY"
 name_ja: "Gus ・ MCCARTHY"
 slug: "gus-mccarthy"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "178.0"
+weight: "107.0"
+birth_date: "2003.07.23"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
-caps: "0"
+league: "urc"
+team: "レンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/gus-mccarthy"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2026)

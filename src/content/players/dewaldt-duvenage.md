@@ -1,20 +1,20 @@
 ---
-title: "nan | Dewaldt ・ DUVENAGE"
-name_en: "nan"
+title: "Dewaldt ・ DUVENAGE | Dewaldt ・ DUVENAGE"
+name_en: "Dewaldt ・ DUVENAGE"
 name_ja: "Dewaldt ・ DUVENAGE"
 slug: "dewaldt-duvenage"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "82.0"
+birth_date: "1988.05.22"
+age: 37
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/dewaldt-duvenage"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Arlequins Perpignanais (2013 - 2016) -> Stormers (2016 - 2018) -> Benetton Rugby Trévise (2018 - 2024) -> Stormers (2024 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | サム・マテンガ"
-name_en: "nan"
+title: "Sam MATENGA | サム・マテンガ"
+name_en: "Sam MATENGA"
 name_ja: "サム・マテンガ"
 slug: "sam-matenga"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "120.0"
+birth_date: "1998.05.08"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-matenga"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2018 - 2025) -> Seattle Seawolves (2021 - 2024) -> Crusaders (2024 - 2025) -> Blues (2025 - )

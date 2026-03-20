@@ -1,20 +1,20 @@
 ---
-title: "nan | Jacob ・ STOCKDALE"
-name_en: "nan"
+title: "Jacob ・ STOCKDALE | Jacob ・ STOCKDALE"
+name_en: "Jacob ・ STOCKDALE"
 name_ja: "Jacob ・ STOCKDALE"
 slug: "jacob-stockdale"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "191.0"
+weight: "104.0"
+birth_date: "1996.04.03"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/jacob-stockdale"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2015 - 2026)

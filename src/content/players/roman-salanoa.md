@@ -1,20 +1,20 @@
 ---
-title: "nan | Roman ・ SALANOA"
-name_en: "nan"
+title: "Roman ・ SALANOA | Roman ・ SALANOA"
+name_en: "Roman ・ SALANOA"
 name_ja: "Roman ・ SALANOA"
 slug: "roman-salanoa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "123.0"
+birth_date: "1997.10.28"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/roman-salanoa"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2019 - 2020) -> Munster Rugby (2020 - 2026)

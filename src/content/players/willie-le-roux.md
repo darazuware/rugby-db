@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィリー ・ ル ・ ルー"
-name_en: "nan"
+title: "ウィリー ・ ル ・ ルー | ウィリー ・ ル ・ ルー"
+name_en: "ウィリー ・ ル ・ ルー"
 name_ja: "ウィリー ・ ル ・ ルー"
 slug: "willie-le-roux"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "184.0"
+weight: "92.0"
+birth_date: "1989.08.18"
+age: 36
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/willie-le-roux"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2013 - 2015) -> Sharks (2015 - 2016) -> Wasps (2016 - 2019) -> Toyota Verblitz (2019 - 2023) -> Bulls (2023 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | Joe ・ JOYCE"
-name_en: "nan"
+title: "Joe ・ JOYCE | Joe ・ JOYCE"
+name_en: "Joe ・ JOYCE"
 name_ja: "Joe ・ JOYCE"
 slug: "joe-joyce"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "119.0"
+birth_date: "1994.02.07"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-joyce"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2016 - 2023) -> Connacht Rugby (2023 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | アダム・バルガス"
-name_en: "nan"
+title: "Adam VARGAS | アダム・バルガス"
+name_en: "Adam VARGAS"
 name_ja: "アダム・バルガス"
 slug: "adam-vargas"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "180.0"
+weight: "80.0"
+birth_date: "2000.08.11"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/adam-vargas"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2005 - 2021) -> Valence Romans Drôme Rugby (2021 - 2025) -> Castres Olympique (2025 - )

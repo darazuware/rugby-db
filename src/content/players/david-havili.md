@@ -1,20 +1,20 @@
 ---
-title: "nan | デイヴィッド-ハビリ"
-name_en: "nan"
+title: "David HAVILI | デイヴィッド-ハビリ"
+name_en: "David HAVILI"
 name_ja: "デイヴィッド-ハビリ"
 slug: "david-havili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "184.0"
+weight: "95.0"
+birth_date: "1994.12.23"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/david-havili"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2014 - 2025) -> Crusaders (2014 - )

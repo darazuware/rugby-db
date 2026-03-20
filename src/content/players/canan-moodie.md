@@ -1,20 +1,20 @@
 ---
-title: "nan | Canan ・ MOODIE"
-name_en: "nan"
+title: "Canan ・ MOODIE | Canan ・ MOODIE"
+name_en: "Canan ・ MOODIE"
 name_ja: "Canan ・ MOODIE"
 slug: "canan-moodie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "191.0"
+weight: "94.0"
+birth_date: "2002.11.05"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ヴォーダコム・ブルズ"
+caps: "Player representation by nation代表 (0 caps)"
 scraped_url: "https://all.rugby/player/canan-moodie"
 ---
 
 ## キャリア遍歴
-
+Bulls (2021 - 2026)

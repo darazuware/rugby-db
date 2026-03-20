@@ -1,20 +1,20 @@
 ---
-title: "nan | Lubabalo ・ DOBELA"
-name_en: "nan"
+title: "Lubabalo ・ DOBELA | Lubabalo ・ DOBELA"
+name_en: "Lubabalo ・ DOBELA"
 name_ja: "Lubabalo ・ DOBELA"
 slug: "lubabalo-dobela"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "175.0"
+weight: "80.0"
+birth_date: "1998.05.02"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エミレーツ・ライオンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---
 
 ## キャリア遍歴
-
+Griquas (2022 - 2024) -> Lions Rugby (2024 - 2026)

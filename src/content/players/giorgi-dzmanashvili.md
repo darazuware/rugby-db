@@ -1,20 +1,20 @@
 ---
-title: "nan | ギオルギ・ズマナシュヴィリ"
-name_en: "nan"
+title: "Giorgi DZMANASHVILI | ギオルギ・ズマナシュヴィリ"
+name_en: "Giorgi DZMANASHVILI"
 name_ja: "ギオルギ・ズマナシュヴィリ"
 slug: "giorgi-dzmanashvili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "122.0"
+birth_date: "2002.06.16"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/giorgi-dzmanashvili"
 ---
 
 ## キャリア遍歴
-
+RC Rustavi Kharebi (2021 - 2022) -> ASM Clermont Auvergne (2022 - 2026) -> Biarritz Olympique Pays Basque (2024 - )

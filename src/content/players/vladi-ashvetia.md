@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴラディ・アシュヴェティア"
-name_en: "nan"
+title: "Vladi ASHVETIA | ヴラディ・アシュヴェティア"
+name_en: "Vladi ASHVETIA"
 name_ja: "ヴラディ・アシュヴェティア"
 slug: "vladi-ashvetia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "CTB"
+height: "185.0"
+weight: "90.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/vladi-ashvetia"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Massy Essonne (2011 - 2023) -> Racing 92 (2023 - )

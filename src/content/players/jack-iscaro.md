@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャック-イスカロ"
-name_en: "nan"
+title: "Jack ISCARO | ジャック-イスカロ"
+name_en: "Jack ISCARO"
 name_ja: "ジャック-イスカロ"
 slug: "jack-iscaro"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "122.0"
+birth_date: "1997.08.04"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Old Glory DC RFC rugby team for 2024/2025"
-caps: "0"
+league: "top14"
+team: "スタッド・フランセ"
+caps: "United-States"
 scraped_url: "https://all.rugby/player/jack-iscaro"
 ---
 
 ## キャリア遍歴
-
+Old Glory DC RFC (2018 - 2025) -> Stade Français Paris Rugby (2025 - )

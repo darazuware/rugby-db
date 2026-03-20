@@ -1,20 +1,20 @@
 ---
-title: "nan | 中村 友哉"
+title: "nan | "
 name_en: "nan"
-name_ja: "中村 友哉"
+name_ja: ""
 slug: "player-4783"
-position: ""
+position: "Prop"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2000-11-24"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

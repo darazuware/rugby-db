@@ -1,20 +1,20 @@
 ---
-title: "nan | ピーター・ラカイ"
-name_en: "nan"
+title: "Peter LAKAI | ピーター・ラカイ"
+name_en: "Peter LAKAI"
 name_ja: "ピーター・ラカイ"
 slug: "peter-lakai"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "186.0"
+weight: "110.0"
+birth_date: "2003.03.04"
+age: 23
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェリントン・ハリケーンズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/peter-lakai"
 ---
 
 ## キャリア遍歴
-
+Wellington Lions (2021 - 2025) -> Hurricanes (2022 - )

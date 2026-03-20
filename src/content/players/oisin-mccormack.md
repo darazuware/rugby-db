@@ -1,20 +1,20 @@
 ---
-title: "nan | Ois ・ MCCORMACK"
-name_en: "nan"
+title: "Ois ・ MCCORMACK | Ois ・ MCCORMACK"
+name_en: "Ois ・ MCCORMACK"
 name_ja: "Ois ・ MCCORMACK"
 slug: "oisin-mccormack"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "183.0"
+weight: "102.0"
+birth_date: "2001.02.21"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/oisin-mccormack"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2020 - 2025) -> Harlequins (2025 - 2025) -> Connacht Rugby (2026 - 2026) -> Harlequins (2026 - 2026)

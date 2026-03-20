@@ -1,20 +1,20 @@
 ---
-title: "nan | フスト・ピカルド"
-name_en: "nan"
+title: "Justo PICCARDO | フスト・ピカルド"
+name_en: "Justo PICCARDO"
 name_ja: "フスト・ピカルド"
 slug: "justo-piccardo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "183.0"
+weight: "112.0"
+birth_date: "2002.03.25"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "モンペリエ"
+caps: "🇦🇷 Argentina"
 scraped_url: "https://all.rugby/player/justo-piccardo"
 ---
 
 ## キャリア遍歴
-
+San Isidro Club (2020 - 2024) -> Pampas XV (2024 - 2025) -> Montpellier Hérault Rugby (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・ラコンブル"
-name_en: "nan"
+title: "Thomas LACOMBRE | トマ・ラコンブル"
+name_en: "Thomas LACOMBRE"
 name_ja: "トマ・ラコンブル"
 slug: "thomas-lacombre"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "HO"
+height: "174.0"
+weight: "107.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-lacombre"
 ---
 
 ## キャリア遍歴
-
+Club Athlétique Pratéen (2011 - 2018) -> Saint-Girons SC Couserans (2018 - 2019) -> Stade Toulousain (2019 - )

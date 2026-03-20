@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョー・エドワーズ"
-name_en: "nan"
+title: "Joe EDWARDS | ジョー・エドワーズ"
+name_en: "Joe EDWARDS"
 name_ja: "ジョー・エドワーズ"
 slug: "joe-edwards"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "194.0"
+weight: "116.0"
+birth_date: "1993.09.21"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/joe-edwards"
 ---
 
 ## キャリア遍歴
-
+Blues (2014 - 2016) -> Auckland (2015 - 2016) -> Union Bordeaux-Bègles (2016 - 2017) -> Provence Rugby (2017 - 2020) -> Rugby Club Vannes (2020 - )

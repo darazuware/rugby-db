@@ -1,20 +1,20 @@
 ---
-title: "nan | テパエア・クック＝サヴェージ"
-name_en: "nan"
+title: "Tepaea COOK-SAVAGE | テパエア・クック＝サヴェージ"
+name_en: "Tepaea COOK-SAVAGE"
 name_ja: "テパエア・クック＝サヴェージ"
 slug: "tepaea-cook-savage"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "173.0"
+weight: "83.0"
+birth_date: "2001.08.02"
+age: 24
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ワイカト・チーフス"
 caps: "0"
 scraped_url: "https://all.rugby/player/tepaea-cook-savage"
 ---
 
 ## キャリア遍歴
-
+Waikato Mooloos (2020 - 2025) -> Chiefs (2025 - )

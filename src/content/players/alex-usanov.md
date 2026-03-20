@@ -1,20 +1,20 @@
 ---
-title: "nan | Alex ・ USANOV"
-name_en: "nan"
+title: "Alex ・ USANOV | Alex ・ USANOV"
+name_en: "Alex ・ USANOV"
 name_ja: "Alex ・ USANOV"
 slug: "alex-usanov"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "182.0"
+weight: "111.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/alex-usanov"
 ---
 
 ## キャリア遍歴
-
+Clontarf Rugby (2023 - 2024) -> Leinster Rugby (2024 - 2026)

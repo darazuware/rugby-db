@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョーダン・ペタイア"
-name_en: "nan"
+title: "Jordan PETAIA | ジョーダン・ペタイア"
+name_en: "Jordan PETAIA"
 name_ja: "ジョーダン・ペタイア"
 slug: "jordan-petaia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "190.0"
+weight: "102.0"
+birth_date: "2000.03.14"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/jordan-petaia"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2017 - 2024) -> Los Angeles Chargers (2024 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

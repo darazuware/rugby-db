@@ -1,20 +1,20 @@
 ---
-title: "nan | フェアオ-フォトゥアイカ"
-name_en: "nan"
+title: "Feao FOTUAIKA | フェアオ-フォトゥアイカ"
+name_en: "Feao FOTUAIKA"
 name_ja: "フェアオ-フォトゥアイカ"
 slug: "feao-fotuaika"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "135.0"
+birth_date: "1993.04.23"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェスタン・フォース"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/feao-fotuaika"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2018 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2025) -> Brumbies (2024 - 2025) -> Western Force (2025 - )

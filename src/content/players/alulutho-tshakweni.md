@@ -1,20 +1,20 @@
 ---
-title: "nan | Alulutho ・ TSHAKWENI"
-name_en: "nan"
+title: "Alulutho ・ TSHAKWENI | Alulutho ・ TSHAKWENI"
+name_en: "Alulutho ・ TSHAKWENI"
 name_ja: "Alulutho ・ TSHAKWENI"
 slug: "alulutho-tshakweni"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "113.0"
+birth_date: "1998.09.26"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/alulutho-tshakweni"
 ---
 
 ## キャリア遍歴
-
+Southern Kings (2018 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2024) -> Bulls (2024 - 2026)

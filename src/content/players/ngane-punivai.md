@@ -1,20 +1,20 @@
 ---
-title: "nan | ンガネ・プニヴァイ"
-name_en: "nan"
+title: "Ngane PUNIVAI | ンガネ・プニヴァイ"
+name_en: "Ngane PUNIVAI"
 name_ja: "ンガネ・プニヴァイ"
 slug: "ngane-punivai"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "191.0"
+weight: "105.0"
+birth_date: "1998.08.30"
+age: 27
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ngane-punivai"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2018 - 2019) -> Highlanders (2019 - 2022) -> Canterbury (2019 - 2025) -> Chiefs (2022 - 2023) -> Hurricanes (2023 - )

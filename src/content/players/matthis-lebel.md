@@ -1,20 +1,20 @@
 ---
-title: "nan | マティス・ルベル"
-name_en: "nan"
+title: "Matthis LEBEL | マティス・ルベル"
+name_en: "Matthis LEBEL"
 name_ja: "マティス・ルベル"
 slug: "matthis-lebel"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "185.0"
+weight: "91.0"
+birth_date: "1999.03.25"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/matthis-lebel"
 ---
 
 ## キャリア遍歴
-
+Lombez Samatan (2004 - 2013) -> Stade Toulousain (2013 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル・コリアー"
-name_en: "nan"
+title: "Will COLLIER | ウィル・コリアー"
+name_en: "Will COLLIER"
 name_ja: "ウィル・コリアー"
 slug: "will-collier"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "120.0"
+birth_date: "1991.05.05"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/will-collier"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2013 - 2024) -> Castres Olympique (2024 - )

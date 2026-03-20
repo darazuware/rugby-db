@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴィンセント ・ コッホ"
-name_en: "nan"
+title: "ヴィンセント ・ コッホ | ヴィンセント ・ コッホ"
+name_en: "ヴィンセント ・ コッホ"
 name_ja: "ヴィンセント ・ コッホ"
 slug: "vincent-koch"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "118.0"
+birth_date: "1990.03.13"
+age: 36
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マイアミ・シャークス"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/vincent-koch"
 ---
 
 ## キャリア遍歴
-
+Stormers (2014 - 2016) -> Saracens (2016 - 2022) -> Stade Français Paris Rugby (2022 - 2022) -> Wasps (2022 - 2022) -> Stade Français Paris Rugby (2022 - 2023) -> Wasps (2023 - 2023) -> Stade Français Paris Rugby (2023 - 2023) -> Sharks (2023 - 2026)

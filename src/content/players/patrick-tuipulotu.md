@@ -1,20 +1,20 @@
 ---
-title: "nan | パトリック・トゥイプロトゥ"
-name_en: "nan"
+title: "Patrick TUIPULOTU | パトリック・トゥイプロトゥ"
+name_en: "Patrick TUIPULOTU"
 name_ja: "パトリック・トゥイプロトゥ"
 slug: "patrick-tuipulotu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "120.0"
+birth_date: "1993.01.23"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/patrick-tuipulotu"
 ---
 
 ## キャリア遍歴
-
+Blues (2013 - 2026) -> Auckland (2019 - 2024) -> Toyota Verblitz (2021 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | 大内 錬"
+title: "nan | "
 name_en: "nan"
-name_ja: "大内 錬"
+name_ja: ""
 slug: "player-4850"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "16/06/1997"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "セール・シャークス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

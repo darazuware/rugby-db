@@ -1,20 +1,20 @@
 ---
-title: "nan | クリスティアン・オジョヴァン"
-name_en: "nan"
+title: "Cristian OJOVAN | クリスティアン・オジョヴァン"
+name_en: "Cristian OJOVAN"
 name_ja: "クリスティアン・オジョヴァン"
 slug: "cristian-ojovan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "120.0"
+birth_date: "1997.01.04"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "クレルモン"
+caps: "Moldova"
 scraped_url: "https://all.rugby/player/cristian-ojovan"
 ---
 
 ## キャリア遍歴
-
+Section Paloise Béarn Pyrénées (2016 - 2017) -> Stade Aurillacois Cantal Auvergne (2017 - 2020) -> ASM Clermont Auvergne (2020 - )

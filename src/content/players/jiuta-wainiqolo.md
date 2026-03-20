@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュタ・ワイニコロ"
-name_en: "nan"
+title: "Jiuta WAINIQOLO | ジュタ・ワイニコロ"
+name_en: "Jiuta WAINIQOLO"
 name_ja: "ジュタ・ワイニコロ"
 slug: "jiuta-wainiqolo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "187.0"
+weight: "97.0"
+birth_date: "1999.03.10"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "リヨン"
+caps: "🇫🇯 Fiji代表 (4 caps)"
 scraped_url: "https://all.rugby/player/jiuta-wainiqolo"
 ---
 
 ## キャリア遍歴
-
+Fijian Drua (2018 - 2019) -> FIDJI 7's (2020 - 2021) -> Rugby Club Toulonnais (2021 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

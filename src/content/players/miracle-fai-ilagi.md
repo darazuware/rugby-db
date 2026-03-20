@@ -1,20 +1,20 @@
 ---
-title: "nan | ミラクル・ファイイラギ"
-name_en: "nan"
+title: "Miracle FAI'ILAGI | ミラクル・ファイイラギ"
+name_en: "Miracle FAI'ILAGI"
 name_ja: "ミラクル・ファイイラギ"
 slug: "miracle-fai-ilagi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "188.0"
+weight: "103.0"
+birth_date: "1999.08.31"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "モアナ・パシフィカ"
+caps: "🇼🇸 Samoa"
 scraped_url: "https://all.rugby/player/miracle-fai-ilagi"
 ---
 
 ## キャリア遍歴
-
+Samoa 7's (2021 - 2022) -> Moana Pasifika (2022 - 2026) -> Hawke's Bay Magpies (2024 - )

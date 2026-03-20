@@ -1,20 +1,20 @@
 ---
-title: "nan | ピエール・コロンナ"
-name_en: "nan"
+title: "Pierre COLONNA | ピエール・コロンナ"
+name_en: "Pierre COLONNA"
 name_ja: "ピエール・コロンナ"
 slug: "pierre-colonna"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "188.0"
+weight: "113.0"
+birth_date: "2001.06.14"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "カストル"
 caps: "0"
 scraped_url: "https://all.rugby/player/pierre-colonna"
 ---
 
 ## キャリア遍歴
-
+Cahors (2012 - 2016) -> Stade Toulousain (2016 - 2017) -> Castres Olympique (2017 - )

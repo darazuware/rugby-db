@@ -1,20 +1,20 @@
 ---
-title: "nan | ルカス・マルティン"
-name_en: "nan"
+title: "Lucas MARTIN | ルカス・マルティン"
+name_en: "Lucas MARTIN"
 name_ja: "ルカス・マルティン"
 slug: "lucas-martin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "189.0"
+weight: "105.0"
+birth_date: "2002.12.09"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "バイヨンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-martin"
 ---
 
 ## キャリア遍歴
-
+Ent Rugby CL Gignac Marignane (2010 - 2014) -> Pennes-Mirabeau Cadeneaux Rugby (2014 - 2017) -> Provence Rugby (2017 - 2024) -> Aviron Bayonnais (2024 - )

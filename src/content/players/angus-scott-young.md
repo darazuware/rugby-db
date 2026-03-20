@@ -1,20 +1,20 @@
 ---
-title: "nan | アンガス-スコット＝ヤング"
-name_en: "nan"
+title: "Angus SCOTT-YOUNG | アンガス-スコット＝ヤング"
+name_en: "Angus SCOTT-YOUNG"
 name_ja: "アンガス-スコット＝ヤング"
 slug: "angus-scott-young"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "194.0"
+weight: "108.0"
+birth_date: "1997.04.23"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Northampton Saints rugby team for 2025/2026"
+league: ""
+team: "NSWワラタス（ワラターズ）"
 caps: "0"
 scraped_url: "https://all.rugby/player/angus-scott-young"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2017 - 2022) -> Bay of Plenty Steamers (2020 - 2021) -> Northampton Saints (2022 - 2026) -> New South Wales Waratahs (2025 - )

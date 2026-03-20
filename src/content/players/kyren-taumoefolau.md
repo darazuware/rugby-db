@@ -1,20 +1,20 @@
 ---
-title: "nan | カイレン・タウモエフォラウ"
-name_en: "nan"
+title: "Kyren TAUMOEFOLAU | カイレン・タウモエフォラウ"
+name_en: "Kyren TAUMOEFOLAU"
 name_ja: "カイレン・タウモエフォラウ"
 slug: "kyren-taumoefolau"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "187.0"
+weight: "95.0"
+birth_date: "2003.05.08"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇹🇴 Tonga"
 scraped_url: "https://all.rugby/player/kyren-taumoefolau"
 ---
 
 ## キャリア遍歴
-
+Moana Pasifika (2022 - 2025) -> Tasman Mako (2023 - 2025) -> Chiefs (2025 - )

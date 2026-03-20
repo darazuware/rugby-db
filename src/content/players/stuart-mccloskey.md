@@ -1,20 +1,20 @@
 ---
-title: "nan | Stuart ・ MCCLOSKEY"
-name_en: "nan"
+title: "Stuart ・ MCCLOSKEY | Stuart ・ MCCLOSKEY"
+name_en: "Stuart ・ MCCLOSKEY"
 name_ja: "Stuart ・ MCCLOSKEY"
 slug: "stuart-mccloskey"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "193.0"
+weight: "112.0"
+birth_date: "1992.08.06"
+age: 33
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "アルスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/stuart-mccloskey"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2013 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | ルカ・ジャパリゼ"
-name_en: "nan"
+title: "Luka JAPARIDZE | ルカ・ジャパリゼ"
+name_en: "Luka JAPARIDZE"
 name_ja: "ルカ・ジャパリゼ"
 slug: "luka-japaridze"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "181.0"
+weight: "126.0"
+birth_date: "1998.09.06"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "モンペリエ"
+caps: "Georgia"
 scraped_url: "https://all.rugby/player/luka-japaridze"
 ---
 
 ## キャリア遍歴
-
+Lelo Saracens Tbilissi (2017 - 2018) -> CA Brive Corrèze Limousin (2018 - 2023) -> Montpellier Hérault Rugby (2023 - )

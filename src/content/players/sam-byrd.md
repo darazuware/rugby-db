@@ -1,20 +1,20 @@
 ---
-title: "nan | サム ・ BYRD"
-name_en: "nan"
+title: "サム ・ BYRD | サム ・ BYRD"
+name_en: "サム ・ BYRD"
 name_ja: "サム ・ BYRD"
 slug: "sam-byrd"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "113.0"
+birth_date: "2006.."
+age: 20
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sam-byrd"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2023 - 2025) -> Edimbourg Rugby (2025 - 2026)

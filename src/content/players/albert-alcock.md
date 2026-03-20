@@ -1,20 +1,20 @@
 ---
-title: "nan | アルバート・アルコック"
-name_en: "nan"
+title: "Albert ALCOCK | アルバート・アルコック"
+name_en: "Albert ALCOCK"
 name_ja: "アルバート・アルコック"
 slug: "albert-alcock"
-position: ""
-height: "0"
+position: "HO"
+height: "175.0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2003.11.18"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/albert-alcock"
 ---
 
 ## キャリア遍歴
-
+West Harbour RFC (2021 - 2024) -> Western Force (2024 - )

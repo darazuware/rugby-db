@@ -1,20 +1,20 @@
 ---
-title: "nan | ダミアン-プノー"
-name_en: "nan"
+title: "Damian PENAUD | ダミアン-プノー"
+name_en: "Damian PENAUD"
 name_ja: "ダミアン-プノー"
 slug: "damian-penaud"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "188.0"
+weight: "97.0"
+birth_date: "1996.09.25"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ボルドー・ベグル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/damian-penaud"
 ---
 
 ## キャリア遍歴
-
+Lyon Olympique Universitaire Rugby (2006 - 2007) -> CA Brive Corrèze Limousin (2007 - 2014) -> Malemort XV (2009 - 2010) -> ASM Clermont Auvergne (2014 - 2023) -> Union Bordeaux-Bègles (2023 - )

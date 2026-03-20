@@ -1,20 +1,20 @@
 ---
-title: "nan | ノア・ホザム"
-name_en: "nan"
+title: "Noah HOTHAM | ノア・ホザム"
+name_en: "Noah HOTHAM"
 name_ja: "ノア・ホザム"
 slug: "noah-hotham"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "181.0"
+weight: "96.0"
+birth_date: "2003.05.23"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/noah-hotham"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2020 - 2024) -> Crusaders (2022 - )

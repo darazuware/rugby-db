@@ -1,20 +1,20 @@
 ---
-title: "nan | マッカ・スプリング"
-name_en: "nan"
+title: "Macca SPRINGER | マッカ・スプリング"
+name_en: "Macca SPRINGER"
 name_ja: "マッカ・スプリング"
 slug: "macca-springer"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "190.0"
+weight: "100.0"
+birth_date: "2003.03.29"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/macca-springer"
 ---
 
 ## キャリア遍歴
-
+Tasman Mako (2020 - 2025) -> Crusaders (2022 - )

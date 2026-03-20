@@ -1,20 +1,20 @@
 ---
-title: "nan | ガエル-フィクー"
-name_en: "nan"
+title: "Gaël FICKOU | ガエル-フィクー"
+name_en: "Gaël FICKOU"
 name_ja: "ガエル-フィクー"
 slug: "gael-fickou"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "190.0"
+weight: "100.0"
+birth_date: "1994.03.26"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラシン92"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/gael-fickou"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Seynoise (2006 - 2009) -> Rugby Club Toulonnais (2009 - 2012) -> Stade Toulousain (2012 - 2018) -> Stade Français Paris Rugby (2018 - 2021) -> Racing 92 (2020 - )

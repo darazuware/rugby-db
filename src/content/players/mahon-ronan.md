@@ -1,20 +1,20 @@
 ---
-title: "nan | Mahon ・ ロナン"
-name_en: "nan"
+title: "Mahon ・ ロナン | Mahon ・ ロナン"
+name_en: "Mahon ・ ロナン"
 name_ja: "Mahon ・ ロナン"
 slug: "mahon-ronan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "195.0"
+weight: "114.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/mahon-ronan"
 ---
 
 ## キャリア遍歴
-
+Old Wesley RFC (2024 - 2025) -> Leinster Rugby (2025 - 2026)

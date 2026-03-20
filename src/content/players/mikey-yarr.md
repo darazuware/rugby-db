@@ -1,20 +1,20 @@
 ---
-title: "nan | Mikey ・ YARR"
-name_en: "nan"
+title: "Mikey ・ YARR | Mikey ・ YARR"
+name_en: "Mikey ・ YARR"
 name_ja: "Mikey ・ YARR"
 slug: "mikey-yarr"
-position: ""
+position: "HO"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/mikey-yarr"
 ---
 
 ## キャリア遍歴
-
+Lansdowne FC (2023 - 2024) -> University College Dublin (2024 - 2025) -> Connacht Rugby (2025 - 2026)

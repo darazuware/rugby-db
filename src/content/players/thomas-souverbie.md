@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・スヴェルビー"
-name_en: "nan"
+title: "Thomas SOUVERBIE | トマ・スヴェルビー"
+name_en: "Thomas SOUVERBIE"
 name_ja: "トマ・スヴェルビー"
 slug: "thomas-souverbie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "SH"
+height: "175.0"
+weight: "80.0"
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-souverbie"
 ---
 
 ## キャリア遍歴
-
+Avenir Bizanos (2009 - 2017) -> Section Paloise Béarn Pyrénées (2017 - )

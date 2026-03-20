@@ -1,20 +1,20 @@
 ---
-title: "nan | 東 将吾"
+title: "nan | "
 name_en: "nan"
-name_ja: "東 将吾"
+name_ja: ""
 slug: "player-4488"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "エクセター・チーフス"
+caps: "🇮🇹 Italy代表 (10 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

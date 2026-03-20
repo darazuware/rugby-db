@@ -1,20 +1,20 @@
 ---
-title: "nan | ステファン・ペロフェタ"
-name_en: "nan"
+title: "Stephen PEROFETA | ステファン・ペロフェタ"
+name_en: "Stephen PEROFETA"
 name_ja: "ステファン・ペロフェタ"
 slug: "stephen-perofeta"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "181.0"
+weight: "85.0"
+birth_date: "1997.03.12"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/stephen-perofeta"
 ---
 
 ## キャリア遍歴
-
+Blues (2016 - 2026) -> Taranaki Bulls (2019 - )

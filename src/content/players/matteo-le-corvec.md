@@ -1,20 +1,20 @@
 ---
-title: "nan | マテオ・ル・コルヴェック"
-name_en: "nan"
+title: "Mattéo LE CORVEC | マテオ・ル・コルヴェック"
+name_en: "Mattéo LE CORVEC"
 name_ja: "マテオ・ル・コルヴェック"
 slug: "matteo-le-corvec"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "192.0"
+weight: "113.0"
+birth_date: "2001.01.04"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/matteo-le-corvec"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Toulonnais (2015 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

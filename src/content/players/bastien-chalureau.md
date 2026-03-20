@@ -1,20 +1,20 @@
 ---
-title: "nan | バスチャン・シャルロー"
-name_en: "nan"
+title: "Bastien CHALUREAU | バスチャン・シャルロー"
+name_en: "Bastien CHALUREAU"
 name_ja: "バスチャン・シャルロー"
 slug: "bastien-chalureau"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "118.0"
+birth_date: "1992.02.13"
+age: 34
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "モンペリエ"
+caps: "🇫🇷 France代表 (6 caps)"
 scraped_url: "https://all.rugby/player/bastien-chalureau"
 ---
 
 ## キャリア遍歴
-
+RC Cantonal Fousseretois (2004 - 2007) -> Union Cazères - Fousseret (2007 - 2009) -> Stade Toulousain (2009 - 2020) -> Union Sportive Arlequins Perpignanais (2014 - 2017) -> USON Nevers Rugby (2017 - 2019) -> Montpellier Hérault Rugby (2019 - )

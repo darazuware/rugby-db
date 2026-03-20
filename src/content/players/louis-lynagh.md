@@ -1,20 +1,20 @@
 ---
-title: "nan | Louis ・ LYNAGH"
-name_en: "nan"
+title: "Louis ・ LYNAGH | Louis ・ LYNAGH"
+name_en: "Louis ・ LYNAGH"
 name_ja: "Louis ・ LYNAGH"
 slug: "louis-lynagh"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "187.0"
+weight: "96.0"
+birth_date: "2000.12.03"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "ベネットン・ラグビー・トレヴィーゾ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/louis-lynagh"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2019 - 2022) -> London Scottish (2022 - 2022) -> Harlequins (2023 - 2023) -> London Scottish (2023 - 2023) -> Harlequins (2023 - 2024) -> Benetton Rugby Trévise (2024 - 2026)

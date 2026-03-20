@@ -1,20 +1,20 @@
 ---
-title: "nan | トマ・ラモス"
-name_en: "nan"
+title: "Thomas RAMOS | トマ・ラモス"
+name_en: "Thomas RAMOS"
 name_ja: "トマ・ラモス"
 slug: "thomas-ramos"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "178.0"
+weight: "87.0"
+birth_date: "1995.07.23"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/thomas-ramos"
 ---
 
 ## キャリア遍歴
-
+SC Mazamet (2004 - 2011) -> Stade Toulousain (2011 - 2026) -> US Colomiers (2016 - )

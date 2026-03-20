@@ -1,20 +1,20 @@
 ---
-title: "nan | トーマス ・ DYER"
-name_en: "nan"
+title: "トーマス ・ DYER | トーマス ・ DYER"
+name_en: "トーマス ・ DYER"
 name_ja: "トーマス ・ DYER"
 slug: "thomas-dyer"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "115.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/thomas-dyer"
 ---
 
 ## キャリア遍歴
-
+Sharks (2023 - 2026)

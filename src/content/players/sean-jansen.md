@@ -1,20 +1,20 @@
 ---
-title: "nan | ショーン ・ JANSEN"
-name_en: "nan"
+title: "ショーン ・ JANSEN | ショーン ・ JANSEN"
+name_en: "ショーン ・ JANSEN"
 name_ja: "ショーン ・ JANSEN"
 slug: "sean-jansen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "191.0"
+weight: "118.0"
+birth_date: "1999.05.10"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/sean-jansen"
 ---
 
 ## キャリア遍歴
-
+Otago (2020 - 2021) -> Leicester Tigers (2021 - 2023) -> Connacht Rugby (2023 - 2026)

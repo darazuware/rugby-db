@@ -1,20 +1,20 @@
 ---
-title: "nan | ルイス・ラドラム"
-name_en: "nan"
+title: "Lewis LUDLAM | ルイス・ラドラム"
+name_en: "Lewis LUDLAM"
 name_ja: "ルイス・ラドラム"
 slug: "lewis-ludlam"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "192.0"
+weight: "111.0"
+birth_date: "1995.12.08"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/lewis-ludlam"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2016 - 2024) -> Rugby Club Toulonnais (2024 - )

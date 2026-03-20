@@ -1,20 +1,20 @@
 ---
-title: "nan | 吉岡 義喜"
+title: "nan | "
 name_en: "nan"
-name_ja: "吉岡 義喜"
+name_ja: ""
 slug: "player-4939"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "サラセンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Saracens (2025 - )

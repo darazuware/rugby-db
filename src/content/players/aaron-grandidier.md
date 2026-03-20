@@ -1,20 +1,20 @@
 ---
-title: "nan | アーロン・グランディディエ"
-name_en: "nan"
+title: "Aaron GRANDIDIER | アーロン・グランディディエ"
+name_en: "Aaron GRANDIDIER"
 name_ja: "アーロン・グランディディエ"
 slug: "aaron-grandidier"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "187.0"
+weight: "94.0"
+birth_date: "2000.05.18"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/aaron-grandidier"
 ---
 
 ## キャリア遍歴
-
+Old Elthamians RFC (2017 - 2019) -> CA Brive Corrèze Limousin (2019 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )

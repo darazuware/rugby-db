@@ -1,20 +1,20 @@
 ---
-title: "nan | Zak ・ BURGER"
-name_en: "nan"
+title: "Zak ・ BURGER | Zak ・ BURGER"
+name_en: "Zak ・ BURGER"
 name_ja: "Zak ・ BURGER"
 slug: "zak-burger"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "174.0"
+weight: "83.0"
+birth_date: "1998.08.20"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/zak-burger"
 ---
 
 ## キャリア遍歴
-
+Griquas (2019 - 2020) -> Bulls (2020 - 2026)

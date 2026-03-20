@@ -1,20 +1,20 @@
 ---
-title: "nan | Alec ・ HEPBURN"
-name_en: "nan"
+title: "Alec ・ HEPBURN | Alec ・ HEPBURN"
+name_en: "Alec ・ HEPBURN"
 name_ja: "Alec ・ HEPBURN"
 slug: "alec-hepburn"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "114.0"
+birth_date: "1993.03.30"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "スカーレッツ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/alec-hepburn"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2014 - 2024) -> Scarlets (2024 - 2026)

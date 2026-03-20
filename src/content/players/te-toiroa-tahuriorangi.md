@@ -1,20 +1,20 @@
 ---
-title: "nan | テ・トイロア・タフリオランギ"
-name_en: "nan"
+title: "Te Toiroa TAHURIORANGI | テ・トイロア・タフリオランギ"
+name_en: "Te Toiroa TAHURIORANGI"
 name_ja: "テ・トイロア・タフリオランギ"
 slug: "te-toiroa-tahuriorangi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "174.0"
+weight: "85.0"
+birth_date: "1995.03.31"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/te-toiroa-tahuriorangi"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2015 - 2017) -> Chiefs (2017 - 2026) -> Bay of Plenty Steamers (2019 - 2024) -> Waikato Mooloos (2020 - 2021) -> Crusaders (2021 - )

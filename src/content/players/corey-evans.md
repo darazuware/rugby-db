@@ -1,20 +1,20 @@
 ---
-title: "nan | コーリー・エヴァンス"
-name_en: "nan"
+title: "Corey EVANS | コーリー・エヴァンス"
+name_en: "Corey EVANS"
 name_ja: "コーリー・エヴァンス"
 slug: "corey-evans"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "97.0"
+birth_date: "2001.01.11"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (1 caps)"
 scraped_url: "https://all.rugby/player/corey-evans"
 ---
 
 ## キャリア遍歴
-
+Auckland (2020 - 2023) -> Blues (2021 - 2026) -> Northland Taniwha (2023 - )

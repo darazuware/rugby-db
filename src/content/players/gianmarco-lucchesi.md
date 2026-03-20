@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャンマルコ-ルッケージ"
-name_en: "nan"
+title: "Gianmarco LUCCHESI | ジャンマルコ-ルッケージ"
+name_en: "Gianmarco LUCCHESI"
 name_ja: "ジャンマルコ-ルッケージ"
 slug: "gianmarco-lucchesi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "184.0"
+weight: "110.0"
+birth_date: "2000.09.10"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇮🇹 Italy"
 scraped_url: "https://all.rugby/player/gianmarco-lucchesi"
 ---
 
 ## キャリア遍歴
-
+Rugby Calvisano (2019 - 2020) -> Benetton Rugby Trévise (2019 - 2024) -> Rugby Club Toulonnais (2024 - )

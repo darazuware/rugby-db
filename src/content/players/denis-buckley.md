@@ -1,20 +1,20 @@
 ---
-title: "nan | Denis ・ BUCKLEY"
-name_en: "nan"
+title: "Denis ・ BUCKLEY | Denis ・ BUCKLEY"
+name_en: "Denis ・ BUCKLEY"
 name_ja: "Denis ・ BUCKLEY"
 slug: "denis-buckley"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "177.0"
+weight: "110.0"
+birth_date: "1990.08.09"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "コナート・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/denis-buckley"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2013 - 2026)

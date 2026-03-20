@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョシュ ・ ADAMS"
-name_en: "nan"
+title: "ジョシュ ・ ADAMS | ジョシュ ・ ADAMS"
+name_en: "ジョシュ ・ ADAMS"
 name_ja: "ジョシュ ・ ADAMS"
 slug: "josh--adams-"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "186.0"
+weight: "96.0"
+birth_date: "1995.04.21"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "カーディフ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales"
 scraped_url: "https://all.rugby/player/josh--adams-"
 ---
 
 ## キャリア遍歴
-
+Worcester Warriors (2016 - 2019) -> Cardiff Rugby (2019 - 2026)

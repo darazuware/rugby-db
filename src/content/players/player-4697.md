@@ -1,20 +1,20 @@
 ---
-title: "nan | 村田 陣悟"
+title: "nan | "
 name_en: "nan"
-name_ja: "村田 陣悟"
+name_ja: ""
 slug: "player-4697"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "レスター・タイガーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2025 - )

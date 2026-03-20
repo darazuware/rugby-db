@@ -1,20 +1,20 @@
 ---
-title: "nan | マーリー・ピアース"
-name_en: "nan"
+title: "Marley PEARCE | マーリー・ピアース"
+name_en: "Marley PEARCE"
 name_ja: "マーリー・ピアース"
 slug: "marley-pearce"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "116.0"
+birth_date: "2003.08.03"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェスタン・フォース"
 caps: "0"
 scraped_url: "https://all.rugby/player/marley-pearce"
 ---
 
 ## キャリア遍歴
-
+Joondalup Brothers RUFC (2021 - 2022) -> Western Force (2022 - )

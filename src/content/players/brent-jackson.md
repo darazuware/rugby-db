@@ -1,20 +1,20 @@
 ---
-title: "nan | Brent ・ JACKSON"
-name_en: "nan"
+title: "Brent ・ JACKSON | Brent ・ JACKSON"
+name_en: "Brent ・ JACKSON"
 name_ja: "Brent ・ JACKSON"
 slug: "brent-jackson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "180.0"
+weight: "84.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/brent-jackson"
 ---
 
 ## キャリア遍歴
-
+King Edward VII School (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

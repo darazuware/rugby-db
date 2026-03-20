@@ -1,20 +1,20 @@
 ---
-title: "nan | トム・サルトゥ"
-name_en: "nan"
+title: "Tom SARTHOU | トム・サルトゥ"
+name_en: "Tom SARTHOU"
 name_ja: "トム・サルトゥ"
 slug: "tom-sarthou"
-position: ""
+position: "HO"
 height: "0"
 weight: "0"
-birth_date: ""
+birth_date: "//2004"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-sarthou"
 ---
 
 ## キャリア遍歴
-
+Amicale Rugby de Marans (2011 - 2016) -> Stade Rochelais (2016 - 2024) -> Rugby Club Vannes (2024 - )

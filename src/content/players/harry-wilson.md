@@ -1,20 +1,20 @@
 ---
-title: "nan | ハリー-ウィルソン"
-name_en: "nan"
+title: "Harry WILSON | ハリー-ウィルソン"
+name_en: "Harry WILSON"
 name_ja: "ハリー-ウィルソン"
 slug: "harry-wilson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "196.0"
+weight: "115.0"
+birth_date: "1999.11.22"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "クイーンズランド・レッズ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/harry-wilson"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2018 - )

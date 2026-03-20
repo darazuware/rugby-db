@@ -1,20 +1,20 @@
 ---
-title: "nan | Ally ・ MILLER"
-name_en: "nan"
+title: "Ally ・ MILLER | Ally ・ MILLER"
+name_en: "Ally ・ MILLER"
 name_ja: "Ally ・ MILLER"
 slug: "ally-miller"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "112.0"
+birth_date: "1996.05.10"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "Call-ups代表 (0 caps)"
 scraped_url: "https://all.rugby/player/ally-miller"
 ---
 
 ## キャリア遍歴
-
+Edimbourg Rugby (2017 - 2021) -> Glasgow Warriors (2021 - 2026)

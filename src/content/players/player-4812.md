@@ -1,20 +1,20 @@
 ---
-title: "nan | 園木 邦弥"
+title: "nan | "
 name_en: "nan"
-name_ja: "園木 邦弥"
+name_ja: ""
 slug: "player-4812"
-position: ""
+position: "Scrum-half"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1993-10-12"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

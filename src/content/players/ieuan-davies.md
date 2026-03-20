@@ -1,20 +1,20 @@
 ---
-title: "nan | Ieuan ・ DAVIES"
-name_en: "nan"
+title: "Ieuan ・ DAVIES | Ieuan ・ DAVIES"
+name_en: "Ieuan ・ DAVIES"
 name_ja: "Ieuan ・ DAVIES"
 slug: "ieuan-davies"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "175.0"
+weight: "80.0"
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Bath Rugby rugby team for 2025/2026"
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/ieuan-davies"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)

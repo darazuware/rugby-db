@@ -1,20 +1,20 @@
 ---
-title: "nan | ベン ・ SALMON"
-name_en: "nan"
+title: "ベン ・ SALMON | ベン ・ SALMON"
+name_en: "ベン ・ SALMON"
 name_ja: "ベン ・ SALMON"
 slug: "ben-salmon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "182.0"
+weight: "83.0"
+birth_date: "2003.11.13"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/ben-salmon"
 ---
 
 ## キャリア遍歴
-
+Stirling County RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)

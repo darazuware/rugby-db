@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョルディ・フォルヒェン"
-name_en: "nan"
+title: "Jordi VILJOEN | ジョルディ・フォルヒェン"
+name_en: "Jordi VILJOEN"
 name_ja: "ジョルディ・フォルヒェン"
 slug: "jordi-viljoen"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "169.0"
+weight: "76.0"
+birth_date: "2003.10.14"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ウェリントン・ハリケーンズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jordi-viljoen"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2022 - 2025) -> Hurricanes (2023 - )

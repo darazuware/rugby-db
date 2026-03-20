@@ -1,20 +1,20 @@
 ---
-title: "nan | ホスキンス-ソトゥトゥ"
-name_en: "nan"
+title: "Hoskins SOTUTU | ホスキンス-ソトゥトゥ"
+name_en: "Hoskins SOTUTU"
 name_ja: "ホスキンス-ソトゥトゥ"
 slug: "hoskins-sotutu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "192.0"
+weight: "106.0"
+birth_date: "1998.07.12"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "オークランド・ブルーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/hoskins-sotutu"
 ---
 
 ## キャリア遍歴
-
+Blues (2018 - 2026) -> Auckland (2019 - 2020) -> Counties Manukau Steelers (2020 - )

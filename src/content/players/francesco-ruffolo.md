@@ -1,20 +1,20 @@
 ---
-title: "nan | Francesco ・ RUFFOLO"
-name_en: "nan"
+title: "Francesco ・ RUFFOLO | Francesco ・ RUFFOLO"
+name_en: "Francesco ・ RUFFOLO"
 name_ja: "Francesco ・ RUFFOLO"
 slug: "francesco-ruffolo"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "198.0"
+weight: "118.0"
+birth_date: "2002.10.31"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ゼブレ・パルマ"
 caps: "0"
 scraped_url: "https://all.rugby/player/francesco-ruffolo"
 ---
 
 ## キャリア遍歴
-
+Colorno (2021 - 2024) -> Zebre Parma (2024 - 2026)

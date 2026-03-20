@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュディカエル・カンコリエ"
-name_en: "nan"
+title: "Judicaël CANCORIET | ジュディカエル・カンコリエ"
+name_en: "Judicaël CANCORIET"
 name_ja: "ジュディカエル・カンコリエ"
 slug: "judicael-cancoriet"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "194.0"
+weight: "116.0"
+birth_date: "1996.04.25"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラ・ロシェル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/judicael-cancoriet"
 ---
 
 ## キャリア遍歴
-
+AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> ASM Clermont Auvergne (2015 - 2023) -> Stade Rochelais (2023 - )

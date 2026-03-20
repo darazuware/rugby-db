@@ -1,20 +1,20 @@
 ---
-title: "nan | アルバロ・ガルシア"
-name_en: "nan"
+title: "Álvaro GARCIA | アルバロ・ガルシア"
+name_en: "Álvaro GARCIA"
 name_ja: "アルバロ・ガルシア"
 slug: "alvaro-garcia"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "120.0"
+birth_date: "2003.08.22"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/alvaro-garcia"
 ---
 
 ## キャリア遍歴
-
+UE Santboiana (2021 - 2023) -> Stade Français Paris Rugby (2023 - )

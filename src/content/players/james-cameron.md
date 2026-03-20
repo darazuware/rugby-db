@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ-キャメロン"
-name_en: "nan"
+title: "James CAMERON | ジェームズ-キャメロン"
+name_en: "James CAMERON"
 name_ja: "ジェームズ-キャメロン"
 slug: "james-cameron"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "93.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Blues rugby team for 2025/2026"
+league: ""
+team: "オークランド・ブルーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-cameron"
 ---
 
 ## キャリア遍歴
-
+Crusaders (2024 - 2025) -> Canterbury (2024 - 2025) -> Blues (2025 - )

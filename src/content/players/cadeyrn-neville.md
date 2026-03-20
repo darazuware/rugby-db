@@ -1,20 +1,20 @@
 ---
-title: "nan | ケデーン・ネヴィル"
-name_en: "nan"
+title: "Cadeyrn NEVILLE | ケデーン・ネヴィル"
+name_en: "Cadeyrn NEVILLE"
 name_ja: "ケデーン・ネヴィル"
 slug: "cadeyrn-neville"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "202.0"
+weight: "120.0"
+birth_date: "1988.11.09"
+age: 37
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "ACTブランビーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cadeyrn-neville"
 ---
 
 ## キャリア遍歴
-
+Melbourne Rebels (2011 - 2015) -> Queensland Reds (2015 - 2017) -> Toyota Industries Shuttles Aichi (2017 - 2020) -> Brumbies (2019 - )

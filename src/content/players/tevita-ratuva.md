@@ -1,20 +1,20 @@
 ---
-title: "nan | テヴィタ・ラトゥヴァ"
-name_en: "nan"
+title: "Tevita RATUVA | テヴィタ・ラトゥヴァ"
+name_en: "Tevita RATUVA"
 name_ja: "テヴィタ・ラトゥヴァ"
 slug: "tevita-ratuva"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "124.0"
+birth_date: "1995.05.08"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "クレルモン"
+caps: "🇫🇯 Fiji"
 scraped_url: "https://all.rugby/player/tevita-ratuva"
 ---
 
 ## キャリア遍歴
-
+Brisbane City (2017 - 2018) -> Union Bordeaux-Bègles (2018 - 2019) -> Scarlets (2019 - 2021) -> CA Brive Corrèze Limousin (2021 - 2025) -> ASM Clermont Auvergne (2025 - )

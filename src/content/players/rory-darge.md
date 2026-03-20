@@ -1,20 +1,20 @@
 ---
-title: "nan | Rory ・ DARGE"
-name_en: "nan"
+title: "Rory ・ DARGE | Rory ・ DARGE"
+name_en: "Rory ・ DARGE"
 name_ja: "Rory ・ DARGE"
 slug: "rory-darge"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "186.0"
+weight: "102.0"
+birth_date: "2000.02.23"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
 scraped_url: "https://all.rugby/player/rory-darge"
 ---
 
 ## キャリア遍歴
-
+Southern Knights (2019 - 2020) -> Edimbourg Rugby (2020 - 2020) -> Glasgow Warriors (2020 - 2020) -> Edimbourg Rugby (2021 - 2021) -> Glasgow Warriors (2021 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | シリル-バイユ"
-name_en: "nan"
+title: "Cyril BAILLE | シリル-バイユ"
+name_en: "Cyril BAILLE"
 name_ja: "シリル-バイユ"
 slug: "cyril-baille"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "182.0"
+weight: "118.0"
+birth_date: "1993.09.15"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/cyril-baille"
 ---
 
 ## キャリア遍歴
-
+Cercle Amical Lannemezanais (2003 - 2009) -> Stade Toulousain (2009 - )

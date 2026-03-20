@@ -1,20 +1,20 @@
 ---
-title: "nan | タマイティ・ウィリアムズ"
-name_en: "nan"
+title: "Tamaiti WILLIAMS | タマイティ・ウィリアムズ"
+name_en: "Tamaiti WILLIAMS"
 name_ja: "タマイティ・ウィリアムズ"
 slug: "tamaiti-williams"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "196.0"
+weight: "140.0"
+birth_date: "2000.08.10"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
-caps: "0"
+league: ""
+team: "カンタベリー・クルセイダーズ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/tamaiti-williams"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2019 - 2022) -> Crusaders (2019 - )

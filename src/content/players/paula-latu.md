@@ -1,20 +1,20 @@
 ---
-title: "nan | パウラ・ラトゥ"
-name_en: "nan"
+title: "Paula LATU | パウラ・ラトゥ"
+name_en: "Paula LATU"
 name_ja: "パウラ・ラトゥ"
 slug: "paula-latu"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "187.0"
+weight: "123.0"
+birth_date: "1996.02.14"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "モアナ・パシフィカ"
+caps: "🇹🇴 Tonga代表 (1 caps)"
 scraped_url: "https://all.rugby/player/paula-latu"
 ---
 
 ## キャリア遍歴
-
+Southland Stags (2020 - 2025) -> Dragons RFC (2024 - 2025) -> Moana Pasifika (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ルーク ・ SCULLY"
-name_en: "nan"
+title: "ルーク ・ SCULLY | ルーク ・ SCULLY"
+name_en: "ルーク ・ SCULLY"
 name_ja: "ルーク ・ SCULLY"
 slug: "luke-scully"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "180.0"
+weight: "86.0"
+birth_date: "2000.02.28"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/luke-scully"
 ---
 
 ## キャリア遍歴
-
+Worcester Warriors (2018 - 2020) -> Cardiff Rugby (2020 - 2020) -> Cornish Pirates (2020 - 2020) -> Cardiff Rugby (2021 - 2021) -> Cornish Pirates (2021 - 2021) -> Cardiff Rugby (2021 - 2022) -> Ospreys (2022 - 2026)

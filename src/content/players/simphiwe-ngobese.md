@@ -1,20 +1,20 @@
 ---
-title: "nan | Simphiwe ・ NGOBESE"
-name_en: "nan"
+title: "Simphiwe ・ NGOBESE | Simphiwe ・ NGOBESE"
+name_en: "Simphiwe ・ NGOBESE"
 name_ja: "Simphiwe ・ NGOBESE"
 slug: "simphiwe-ngobese"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "183.0"
+weight: "119.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マイアミ・シャークス"
 caps: "0"
 scraped_url: "https://all.rugby/player/simphiwe-ngobese"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)

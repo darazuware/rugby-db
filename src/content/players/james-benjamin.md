@@ -1,20 +1,20 @@
 ---
-title: "nan | ジェームズ ・ BENJAMIN"
-name_en: "nan"
+title: "ジェームズ ・ BENJAMIN | ジェームズ ・ BENJAMIN"
+name_en: "ジェームズ ・ BENJAMIN"
 name_ja: "ジェームズ ・ BENJAMIN"
 slug: "james-benjamin"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "183.0"
+weight: "100.0"
+birth_date: "1994.02.21"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/james-benjamin"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2014 - 2021) -> Cornish Pirates (2021 - 2021) -> Dragons RFC (2021 - 2021) -> Cornish Pirates (2022 - 2022) -> Dragons RFC (2022 - 2022) -> Hartpury RFC (2022 - 2022) -> Dragons RFC (2023 - 2023) -> Hartpury RFC (2023 - 2023) -> Dragons RFC (2023 - 2026)

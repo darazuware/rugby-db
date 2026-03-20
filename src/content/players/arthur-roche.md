@@ -1,20 +1,20 @@
 ---
-title: "nan | アルチュール・ロシュ"
-name_en: "nan"
+title: "Arthur ROCHE | アルチュール・ロシュ"
+name_en: "Arthur ROCHE"
 name_ja: "アルチュール・ロシュ"
 slug: "arthur-roche"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "FB"
+height: "185.0"
+weight: "85.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/arthur-roche"
 ---
 
 ## キャリア遍歴
-
+Club Sportif Nuiton (2010 - 2012) -> Trois Ilets Rugby Club (2014 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2023) -> Racing 92 (2023 - )

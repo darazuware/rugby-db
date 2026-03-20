@@ -1,20 +1,20 @@
 ---
-title: "nan | ジャック ・ HOSKINS"
-name_en: "nan"
+title: "ジャック ・ HOSKINS | ジャック ・ HOSKINS"
+name_en: "ジャック ・ HOSKINS"
 name_ja: "ジャック ・ HOSKINS"
 slug: "jack-hoskins"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "185.0"
+weight: "100.0"
+birth_date: "2007.."
+age: 19
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jack-hoskins"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2025 - 2026)

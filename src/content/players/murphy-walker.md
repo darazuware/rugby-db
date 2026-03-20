@@ -1,20 +1,20 @@
 ---
-title: "nan | Murphy ・ WALKER"
-name_en: "nan"
+title: "Murphy ・ WALKER | Murphy ・ WALKER"
+name_en: "Murphy ・ WALKER"
 name_ja: "Murphy ・ WALKER"
 slug: "murphy-walker"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "110.0"
+birth_date: "1999.10.25"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/murphy-walker"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2018 - 2026)

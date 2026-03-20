@@ -1,20 +1,20 @@
 ---
-title: "nan | スタンリー・ソロモン"
-name_en: "nan"
+title: "Stanley SOLOMON | スタンリー・ソロモン"
+name_en: "Stanley SOLOMON"
 name_ja: "スタンリー・ソロモン"
 slug: "stanley-solomon"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "174.0"
+weight: "80.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/stanley-solomon"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2023 - 2025) -> Wellington Lions (2023 - 2025) -> Highlanders (2025 - )

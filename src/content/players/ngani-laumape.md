@@ -1,20 +1,20 @@
 ---
-title: "nan | ンガニ・ラウマペ"
-name_en: "nan"
+title: "Ngani LAUMAPE | ンガニ・ラウマペ"
+name_en: "Ngani LAUMAPE"
 name_ja: "ンガニ・ラウマペ"
 slug: "ngani-laumape"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "171.0"
+weight: "104.0"
+birth_date: "1993.04.22"
+age: 32
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "モアナ・パシフィカ"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/ngani-laumape"
 ---
 
 ## キャリア遍歴
-
+Hurricanes (2015 - 2021) -> Stade Français Paris Rugby (2021 - 2022) -> Kobelco Kobe Steelers (2022 - 2025) -> Manawatu Turbos (2024 - 2025) -> Moana Pasifika (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ヘレマイア-マレー"
-name_en: "nan"
+title: "Heremaia MURRAY | ヘレマイア-マレー"
+name_en: "Heremaia MURRAY"
 name_ja: "ヘレマイア-マレー"
 slug: "heremaia-murray"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "188.0"
+weight: "94.0"
+birth_date: "2000.01.11"
+age: 26
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/heremaia-murray"
 ---
 
 ## キャリア遍歴
-
+Auckland (2020 - 2021) -> Northland Taniwha (2021 - 2024) -> Crusaders (2023 - 2024) -> Queensland Reds (2024 - )

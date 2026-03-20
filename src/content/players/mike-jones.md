@@ -1,20 +1,20 @@
 ---
-title: "nan | Mikey ・ JONES"
-name_en: "nan"
+title: "Mikey ・ JONES | Mikey ・ JONES"
+name_en: "Mikey ・ JONES"
 name_ja: "Mikey ・ JONES"
 slug: "mike-jones"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "181.0"
+weight: "110.0"
+birth_date: "2002.07.08"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "エディンバラ・ラグビー"
+caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales代表 (29 caps)"
 scraped_url: "https://all.rugby/player/mike-jones"
 ---
 
 ## キャリア遍歴
-
+Boroughmuir RFC (2020 - 2021) -> Edimbourg Rugby (2021 - 2022) -> Ampthill Rugby (2022 - 2022) -> Edimbourg Rugby (2023 - 2023) -> Ampthill Rugby (2023 - 2023) -> Edimbourg Rugby (2023 - 2026)

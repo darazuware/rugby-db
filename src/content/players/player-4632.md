@@ -1,20 +1,20 @@
 ---
-title: "nan | ケレビ ジョシュア"
+title: "nan | "
 name_en: "nan"
-name_ja: "ケレビ ジョシュア"
+name_ja: ""
 slug: "player-4632"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2001-11-20"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "ハーレクインズ"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England代表 (0 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2025 - )

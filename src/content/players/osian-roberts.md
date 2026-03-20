@@ -1,20 +1,20 @@
 ---
-title: "nan | Osian ・ ROBERTS"
-name_en: "nan"
+title: "Osian ・ ROBERTS | Osian ・ ROBERTS"
+name_en: "Osian ・ ROBERTS"
 name_ja: "Osian ・ ROBERTS"
 slug: "osian-roberts"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "89.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "カーディフ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/osian-roberts"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Caldy RFC (2025 - 2025) -> Sale Sharks (2026 - 2026) -> Cardiff Rugby (2026 - 2026) -> Caldy RFC (2026 - 2026)

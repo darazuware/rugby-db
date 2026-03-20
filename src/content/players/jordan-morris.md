@@ -1,20 +1,20 @@
 ---
-title: "nan | Jordan ・ MORRIS"
-name_en: "nan"
+title: "Jordan ・ MORRIS | Jordan ・ MORRIS"
+name_en: "Jordan ・ MORRIS"
 name_ja: "Jordan ・ MORRIS"
 slug: "jordan-morris"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "109.0"
+birth_date: "2004.02.22"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/jordan-morris"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2023 - 2026)

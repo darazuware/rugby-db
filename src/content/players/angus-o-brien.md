@@ -1,20 +1,20 @@
 ---
-title: "nan | Angus ・ O'BRIEN"
-name_en: "nan"
+title: "Angus ・ O'BRIEN | Angus ・ O'BRIEN"
+name_en: "Angus ・ O'BRIEN"
 name_ja: "Angus ・ O'BRIEN"
 slug: "angus-o-brien"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "180.0"
+weight: "89.0"
+birth_date: "1994.09.17"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/angus-o-brien"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2014 - 2018) -> Scarlets (2018 - 2022) -> Dragons RFC (2022 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | ダミアン-マッケンジー"
-name_en: "nan"
+title: "Damian MCKENZIE | ダミアン-マッケンジー"
+name_en: "Damian MCKENZIE"
 name_ja: "ダミアン-マッケンジー"
 slug: "damian-mckenzie"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "177.0"
+weight: "81.0"
+birth_date: "1995.04.20"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/damian-mckenzie"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2014 - 2026) -> Waikato Mooloos (2019 - 2022) -> Tokyo Sungoliath (2021 - )

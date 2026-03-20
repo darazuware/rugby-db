@@ -1,20 +1,20 @@
 ---
-title: "nan | 日野 剛志"
+title: "nan | "
 name_en: "nan"
-name_ja: "日野 剛志"
+name_ja: ""
 slug: "player-4409"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "26/04/1999"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ブリストル・ベアーズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2025 - )

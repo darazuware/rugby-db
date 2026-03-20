@@ -1,20 +1,20 @@
 ---
-title: "nan | ガエル・ガルバン"
-name_en: "nan"
+title: "Gael GALVÁN | ガエル・ガルバン"
+name_en: "Gael GALVÁN"
 name_ja: "ガエル・ガルバン"
 slug: "gael-galvan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "PR"
+height: "191.0"
+weight: "150.0"
+birth_date: "//2005"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラ・ロシェル"
 caps: "0"
 scraped_url: "https://all.rugby/player/gael-galvan"
 ---
 
 ## キャリア遍歴
-
+Pampas XV (2023 - 2024) -> Pucará (2023 - 2025) -> Stade Rochelais (2025 - )

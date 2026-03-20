@@ -1,20 +1,20 @@
 ---
-title: "nan | マチュー・バビヨ"
-name_en: "nan"
+title: "Mathieu BABILLOT | マチュー・バビヨ"
+name_en: "Mathieu BABILLOT"
 name_ja: "マチュー・バビヨ"
 slug: "mathieu-babillot"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "190.0"
+weight: "111.0"
+birth_date: "1993.09.09"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "カストル"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/mathieu-babillot"
 ---
 
 ## キャリア遍歴
-
+Castres Olympique (2002 - )

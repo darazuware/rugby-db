@@ -1,20 +1,20 @@
 ---
-title: "nan | Codi ・ PURNELL"
-name_en: "nan"
+title: "Codi ・ PURNELL | Codi ・ PURNELL"
+name_en: "Codi ・ PURNELL"
 name_ja: "Codi ・ PURNELL"
 slug: "codi-purnell"
-position: ""
-height: "0"
-weight: "0"
+position: "PR"
+height: "190.0"
+weight: "140.0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/codi-purnell"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2024 - 2025) -> Dragons RFC (2025 - 2026)

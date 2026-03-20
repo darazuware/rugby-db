@@ -1,20 +1,20 @@
 ---
-title: "nan | マラカイ・ハラ"
-name_en: "nan"
+title: "Malakai HALA | マラカイ・ハラ"
+name_en: "Malakai HALA"
 name_ja: "マラカイ・ハラ"
 slug: "malakai-hala"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "184.0"
+weight: "125.0"
+birth_date: "2003.01.07"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The New England Free Jacks rugby team for 2024/2025"
-caps: "0"
+league: ""
+team: "モアナ・パシフィカ"
+caps: "🇫🇷 France代表 (0 caps)"
 scraped_url: "https://all.rugby/player/malakai-hala"
 ---
 
 ## キャリア遍歴
-
+Manawatu Turbos (2022 - 2025) -> New England Free Jacks (2023 - 2025) -> Moana Pasifika (2025 - )

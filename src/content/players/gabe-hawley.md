@@ -1,20 +1,20 @@
 ---
-title: "nan | Gabe ・ HAWLEY"
-name_en: "nan"
+title: "Gabe ・ HAWLEY | Gabe ・ HAWLEY"
+name_en: "Gabe ・ HAWLEY"
 name_ja: "Gabe ・ HAWLEY"
 slug: "gabe-hawley"
-position: ""
-height: "0"
-weight: "0"
+position: "PR"
+height: "190.0"
+weight: "130.0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "スカーレッツ"
 caps: "0"
 scraped_url: "https://all.rugby/player/gabe-hawley"
 ---
 
 ## キャリア遍歴
-
+Ealing Trailfinders (2023 - 2024) -> Scarlets (2024 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | 北林 佑介"
+title: "nan | "
 name_en: "nan"
-name_ja: "北林 佑介"
+name_ja: ""
 slug: "player-4870"
-position: ""
+position: "Centre"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1993.11.28"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "セール・シャークス"
+caps: "🇿🇦 South Africa代表 (35 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ルカス・ペレスブランク"
-name_en: "nan"
+title: "Lucas PEYRESBLANQUES | ルカス・ペレスブランク"
+name_en: "Lucas PEYRESBLANQUES"
 name_ja: "ルカス・ペレスブランク"
 slug: "lucas-peyresblanques"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "181.0"
+weight: "103.0"
+birth_date: "1998.01.20"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "スタッド・フランセ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lucas-peyresblanques"
 ---
 
 ## キャリア遍歴
-
+Peyrehorade Sport Rugby Pays d'Orthe (2004 - 2013) -> Biarritz Olympique Pays Basque (2013 - 2022) -> Stade Français Paris Rugby (2022 - )

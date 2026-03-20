@@ -1,20 +1,20 @@
 ---
-title: "nan | ラキ・アンダーソン"
-name_en: "nan"
+title: "Lachie ANDERSON | ラキ・アンダーソン"
+name_en: "Lachie ANDERSON"
 name_ja: "ラキ・アンダーソン"
 slug: "lachie-anderson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "188.0"
+weight: "97.0"
+birth_date: "1997.08.27"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lachie-anderson"
 ---
 
 ## キャリア遍歴
-
+Aussie 7's (2019 - 2020) -> Melbourne Rebels (2019 - 2024) -> Queensland Reds (2024 - )

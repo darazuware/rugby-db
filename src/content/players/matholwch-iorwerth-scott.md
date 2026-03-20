@@ -1,20 +1,20 @@
 ---
-title: "nan | Math ・ IORWERTH ・ スコット"
-name_en: "nan"
+title: "Math ・ IORWERTH ・ スコット | Math ・ IORWERTH ・ スコット"
+name_en: "Math ・ IORWERTH ・ スコット"
 name_ja: "Math ・ IORWERTH ・ スコット"
 slug: "matholwch-iorwerth-scott"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "125.0"
+birth_date: "2000.01.05"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "オスプリーズ"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (29 caps)"
 scraped_url: "https://all.rugby/player/matholwch-iorwerth-scott"
 ---
 
 ## キャリア遍歴
-
+Cardiff Met RFC (2022 - 2023) -> Bridgend Ravens (2023 - 2024) -> Ospreys (2024 - 2026)

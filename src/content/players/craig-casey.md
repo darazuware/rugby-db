@@ -1,20 +1,20 @@
 ---
-title: "nan | Craig ・ CASEY"
-name_en: "nan"
+title: "Craig ・ CASEY | Craig ・ CASEY"
+name_en: "Craig ・ CASEY"
 name_ja: "Craig ・ CASEY"
 slug: "craig-casey"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "165.0"
+weight: "76.0"
+birth_date: "1999.04.19"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "マンスター・ラグビー"
+caps: "🇮🇪 Ireland"
 scraped_url: "https://all.rugby/player/craig-casey"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2018 - 2026)

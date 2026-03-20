@@ -1,20 +1,20 @@
 ---
-title: "nan | トム・ライナー"
-name_en: "nan"
+title: "Tom LYNAGH | トム・ライナー"
+name_en: "Tom LYNAGH"
 name_ja: "トム・ライナー"
 slug: "tom-lynagh"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "178.0"
+weight: "83.0"
+birth_date: "2003.04.14"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/tom-lynagh"
 ---
 
 ## キャリア遍歴
-
+Harlequins (2019 - 2021) -> Queensland Reds (2021 - )

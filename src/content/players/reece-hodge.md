@@ -1,20 +1,20 @@
 ---
-title: "nan | リース・ホッジ"
-name_en: "nan"
+title: "Reece HODGE | リース・ホッジ"
+name_en: "Reece HODGE"
 name_ja: "リース・ホッジ"
 slug: "reece-hodge"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "191.0"
+weight: "94.0"
+birth_date: "1994.08.26"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "バイヨンヌ"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/reece-hodge"
 ---
 
 ## キャリア遍歴
-
+Melbourne Rebels (2015 - 2023) -> Aviron Bayonnais (2023 - )

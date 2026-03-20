@@ -1,20 +1,20 @@
 ---
-title: "nan | Kyle ・ STEYN"
-name_en: "nan"
+title: "Kyle ・ STEYN | Kyle ・ STEYN"
+name_en: "Kyle ・ STEYN"
 name_ja: "Kyle ・ STEYN"
 slug: "kyle-steyn"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "102.0"
+birth_date: "1994.01.29"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "グラスゴー・ウォリアーズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/kyle-steyn"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2018 - 2026)

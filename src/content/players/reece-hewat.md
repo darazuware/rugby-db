@@ -1,20 +1,20 @@
 ---
-title: "nan | リース・ヒューワット"
-name_en: "nan"
+title: "Reece HEWAT | リース・ヒューワット"
+name_en: "Reece HEWAT"
 name_ja: "リース・ヒューワット"
 slug: "reece-hewat"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "194.0"
+weight: "110.0"
+birth_date: "1997.09.25"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ポー"
 caps: "0"
 scraped_url: "https://all.rugby/player/reece-hewat"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2016 - 2018) -> Stade Aurillacois Cantal Auvergne (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )

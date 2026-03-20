@@ -1,20 +1,20 @@
 ---
-title: "nan | ジュール・ファーブル"
-name_en: "nan"
+title: "Jules FAVRE | ジュール・ファーブル"
+name_en: "Jules FAVRE"
 name_ja: "ジュール・ファーブル"
 slug: "jules-favre"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "181.0"
+weight: "93.0"
+birth_date: "1999.03.22"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラ・ロシェル"
 caps: "0"
 scraped_url: "https://all.rugby/player/jules-favre"
 ---
 
 ## キャリア遍歴
-
+Stade Rochelais (2017 - )

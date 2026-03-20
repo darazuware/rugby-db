@@ -1,20 +1,20 @@
 ---
-title: "nan | Piers ・ O'CONOR"
-name_en: "nan"
+title: "Piers ・ O'CONOR | Piers ・ O'CONOR"
+name_en: "Piers ・ O'CONOR"
 name_ja: "Piers ・ O'CONOR"
 slug: "piers-o-conor"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "102.0"
+birth_date: "1995.08.28"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "エディンバラ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/piers-o-conor"
 ---
 
 ## キャリア遍歴
-
+Wasps (2016 - 2017) -> Bristol Bears (2018 - 2024) -> Connacht Rugby (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)

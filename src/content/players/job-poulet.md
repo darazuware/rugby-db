@@ -1,20 +1,20 @@
 ---
-title: "nan | ジョブ・プレ"
-name_en: "nan"
+title: "Job POULET | ジョブ・プレ"
+name_en: "Job POULET"
 name_ja: "ジョブ・プレ"
 slug: "job-poulet"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "180.0"
+weight: "79.0"
+birth_date: "2003.04.30"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/job-poulet"
 ---
 
 ## キャリア遍歴
-
+ES Vinassan (2008 - 2016) -> Entente Fleury Salles Coursan xv (2016 - 2018) -> Racing Club Narbonnais (2018 - 2021) -> Racing 92 (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

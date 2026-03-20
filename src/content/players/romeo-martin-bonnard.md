@@ -1,20 +1,20 @@
 ---
-title: "nan | ロメオ・マルタン＝ボナール"
-name_en: "nan"
+title: "Roméo MARTIN-BONNARD | ロメオ・マルタン＝ボナール"
+name_en: "Roméo MARTIN-BONNARD"
 name_ja: "ロメオ・マルタン＝ボナール"
 slug: "romeo-martin-bonnard"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "FL/NO8"
+height: "197.0"
+weight: "110.0"
+birth_date: "//2006"
 age: null
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
+league: "top14"
+team: "トゥールーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/romeo-martin-bonnard"
 ---
 
 ## キャリア遍歴
-
+Ecole de Rugby du Pic Saint-Loup (2012 - 2019) -> US Tyrosse (2021 - 2022) -> Stade Toulousain (2022 - )

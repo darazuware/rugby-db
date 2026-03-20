@@ -1,20 +1,20 @@
 ---
-title: "nan | シオネ・カラマフォニ"
-name_en: "nan"
+title: "Sione KALAMAFONI | シオネ・カラマフォニ"
+name_en: "Sione KALAMAFONI"
 name_ja: "シオネ・カラマフォニ"
 slug: "sione-kalafamoni"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "196.0"
+weight: "120.0"
+birth_date: "1988.05.18"
+age: 37
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ヴァンヌ"
+caps: "🇹🇴 Tonga"
 scraped_url: "https://all.rugby/player/sione-kalafamoni"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2013 - 2017) -> Leicester Tigers (2017 - 2020) -> Scarlets (2019 - 2023) -> Rugby Club Vannes (2023 - )

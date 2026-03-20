@@ -1,20 +1,20 @@
 ---
-title: "nan | ロバート ・ HUNT"
-name_en: "nan"
+title: "ロバート ・ HUNT | ロバート ・ HUNT"
+name_en: "ロバート ・ HUNT"
 name_ja: "ロバート ・ HUNT"
 slug: "robert-hunt"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "185.0"
+weight: "124.0"
+birth_date: "1996.08.16"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/robert-hunt"
 ---
 
 ## キャリア遍歴
-
+Leopards (2016 - 2019) -> Bulls (2021 - 2024) -> Central Cheetahs (2024 - 2025) -> Dragons RFC (2025 - 2026)

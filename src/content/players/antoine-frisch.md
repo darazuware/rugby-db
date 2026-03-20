@@ -1,20 +1,20 @@
 ---
-title: "nan | アントワーヌ-フリッシュ"
-name_en: "nan"
+title: "Antoine FRISCH | アントワーヌ-フリッシュ"
+name_en: "Antoine FRISCH"
 name_ja: "アントワーヌ-フリッシュ"
 slug: "antoine-frisch"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "99.0"
+birth_date: "1996.06.01"
+age: 29
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "トゥーロン"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/antoine-frisch"
 ---
 
 ## キャリア遍歴
-
+Rugby Sud 77 (2004 - 2011) -> Paris Université Club (2011 - 2013) -> Rugby Club Massy Essonne (2013 - 2020) -> Stade Français Paris Rugby (2016 - 2018) -> Stado Tarbes Pyrénées Rugby (2018 - 2019) -> Rouen Normandie Rugby (2020 - 2021) -> Bristol Bears (2021 - 2022) -> Munster Rugby (2022 - 2024) -> Rugby Club Toulonnais (2024 - )

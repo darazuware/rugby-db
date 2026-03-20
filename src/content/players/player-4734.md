@@ -1,20 +1,20 @@
 ---
-title: "nan | 青柳 魁"
+title: "nan | "
 name_en: "nan"
-name_ja: "青柳 魁"
+name_ja: ""
 slug: "player-4734"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "30/03/1993"
+age: 32
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ニューカッスル・ファルコンズ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Newcastle Falcons (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | コーバス ・ ヴィーセ"
-name_en: "nan"
+title: "コーバス ・ ヴィーセ | コーバス ・ ヴィーセ"
+name_en: "コーバス ・ ヴィーセ"
 name_ja: "コーバス ・ ヴィーセ"
 slug: "cobus-wiese"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "199.0"
+weight: "125.0"
+birth_date: "1997.06.02"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/cobus-wiese"
 ---
 
 ## キャリア遍歴
-
+Stormers (2016 - 2019) -> Sale Sharks (2019 - 2019) -> Stormers (2020 - 2020) -> Sale Sharks (2020 - 2024) -> Bulls (2024 - 2026)

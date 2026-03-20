@@ -1,20 +1,20 @@
 ---
-title: "nan | Brian ・ GLEESON"
-name_en: "nan"
+title: "Brian ・ GLEESON | Brian ・ GLEESON"
+name_en: "Brian ・ GLEESON"
 name_ja: "Brian ・ GLEESON"
 slug: "brian-gleeson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "193.0"
+weight: "116.0"
+birth_date: "2004.02.05"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "マンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/brian-gleeson"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2022 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | ヴァイウタ・ラトゥ"
-name_en: "nan"
+title: "Vaiuta LATU | ヴァイウタ・ラトゥ"
+name_en: "Vaiuta LATU"
 name_ja: "ヴァイウタ・ラトゥ"
 slug: "vaiuta-latu"
-position: ""
+position: "FL/No8"
 height: "0"
-weight: "0"
-birth_date: ""
-age: null
+weight: "116.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/vaiuta-latu"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2024 - )

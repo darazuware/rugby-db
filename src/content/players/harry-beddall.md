@@ -1,20 +1,20 @@
 ---
-title: "nan | Harry ・ BEDDALL"
-name_en: "nan"
+title: "Harry ・ BEDDALL | Harry ・ BEDDALL"
+name_en: "Harry ・ BEDDALL"
 name_ja: "Harry ・ BEDDALL"
 slug: "harry-beddall"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Back row"
+height: "178.0"
+weight: "94.0"
+birth_date: "2005.."
+age: 21
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ドラゴンズ・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-beddall"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2022 - 2023) -> Hartpury RFC (2023 - 2023) -> Leicester Tigers (2023 - 2023) -> Hartpury RFC (2024 - 2024) -> Leicester Tigers (2024 - 2024) -> Hartpury RFC (2024 - 2024) -> Leicester Tigers (2025 - 2025) -> Hartpury RFC (2025 - 2025) -> Dragons RFC (2025 - 2026)

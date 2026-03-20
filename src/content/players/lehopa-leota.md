@@ -1,20 +1,20 @@
 ---
-title: "nan | レホパ・レオタ"
-name_en: "nan"
+title: "Lehopa LEOTA | レホパ・レオタ"
+name_en: "Lehopa LEOTA"
 name_ja: "レホパ・レオタ"
 slug: "lehopa-leota"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
+position: "PR"
+height: "175.0"
+weight: "130.0"
+birth_date: "//2006"
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ラシン92"
 caps: "0"
 scraped_url: "https://all.rugby/player/lehopa-leota"
 ---
 
 ## キャリア遍歴
-
+Brothers Rugby Club (2022 - 2024) -> Racing 92 (2024 - )

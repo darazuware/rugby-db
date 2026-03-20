@@ -1,20 +1,20 @@
 ---
-title: "nan | Lewis ・ LLOYD"
-name_en: "nan"
+title: "Lewis ・ LLOYD | Lewis ・ LLOYD"
+name_en: "Lewis ・ LLOYD"
 name_ja: "Lewis ・ LLOYD"
 slug: "lewis-lloyd"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "92.0"
+birth_date: "2003.07.20"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "オスプリーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/lewis-lloyd"
 ---
 
 ## キャリア遍歴
-
+Treorchy RFC (2021 - 2022) -> Ospreys (2022 - 2026)

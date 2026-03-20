@@ -1,20 +1,20 @@
 ---
-title: "nan | 藤井 健太郎"
+title: "nan | "
 name_en: "nan"
-name_ja: "藤井 健太郎"
+name_ja: ""
 slug: "player-4490"
-position: ""
+position: "Hooker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "22/12/1989"
+age: 36
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "エクセター・チーフス"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2025 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | パトリック ・ヴァカタ"
+title: "nan | "
 name_en: "nan"
-name_ja: "パトリック ・ヴァカタ"
+name_ja: ""
 slug: "player-4526"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1999-04-17"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "グロスター・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )

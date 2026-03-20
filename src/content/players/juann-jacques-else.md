@@ -1,20 +1,20 @@
 ---
-title: "nan | Juann ・ ELSE"
-name_en: "nan"
+title: "Juann ・ ELSE | Juann ・ ELSE"
+name_en: "Juann ・ ELSE"
 name_ja: "Juann ・ ELSE"
 slug: "juann-jacques-else"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "182.0"
+weight: "105.0"
+birth_date: "2003.05.22"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "ヴォーダコム・ブルズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/juann-jacques-else"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2021 - 2024) -> Bulls (2024 - 2026)

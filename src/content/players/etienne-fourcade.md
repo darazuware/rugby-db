@@ -1,20 +1,20 @@
 ---
-title: "nan | エティエンヌ・フルカード"
-name_en: "nan"
+title: "Etienne FOURCADE | エティエンヌ・フルカード"
+name_en: "Etienne FOURCADE"
 name_ja: "エティエンヌ・フルカード"
 slug: "etienne-fourcade"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "HO"
+height: "180.0"
+weight: "103.0"
+birth_date: "1997.04.11"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/etienne-fourcade"
 ---
 
 ## キャリア遍歴
-
+CS Lons Jura (2004 - 2009) -> Cercle Sportif Lédonien (2009 - 2015) -> FC Grenoble Rugby (2015 - 2020) -> ASM Clermont Auvergne (2020 - )

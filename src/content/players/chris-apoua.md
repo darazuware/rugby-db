@@ -1,20 +1,20 @@
 ---
-title: "nan | クリス・アポウア"
-name_en: "nan"
+title: "Chris APOUA | クリス・アポウア"
+name_en: "Chris APOUA"
 name_ja: "クリス・アポウア"
 slug: "chris-apoua"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "119.0"
+birth_date: "1992.01.30"
+age: 34
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "モアナ・パシフィカ"
 caps: "0"
 scraped_url: "https://all.rugby/player/chris-apoua"
 ---
 
 ## キャリア遍歴
-
+Northland Taniwha (2015 - 2025) -> Southland Stags (2017 - 2021) -> Moana Pasifika (2021 - )

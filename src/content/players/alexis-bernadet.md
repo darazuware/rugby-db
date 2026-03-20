@@ -1,20 +1,20 @@
 ---
-title: "nan | アレクシス・ベルナデ"
-name_en: "nan"
+title: "Alexis BERNADET | アレクシス・ベルナデ"
+name_en: "Alexis BERNADET"
 name_ja: "アレクシス・ベルナデ"
 slug: "alexis-bernadet"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "180.0"
+weight: "79.0"
+birth_date: "2001.06.02"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "モンペリエ"
 caps: "0"
 scraped_url: "https://all.rugby/player/alexis-bernadet"
 ---
 
 ## キャリア遍歴
-
+Hers Lauragais XV (2006 - 2012) -> Football Club Villefranchois (2012 - 2013) -> Paris Université Club (2013 - 2017) -> Stade Français Paris Rugby (2017 - 2019) -> Avenir Castanéen Rugby XV (2019 - 2021) -> Union Sportive Montalbanaise (2021 - 2024) -> Montpellier Hérault Rugby (2024 - )

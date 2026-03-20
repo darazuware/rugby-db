@@ -1,20 +1,20 @@
 ---
-title: "nan | Joshua ・ KENNY"
-name_en: "nan"
+title: "Joshua ・ KENNY | Joshua ・ KENNY"
+name_en: "Joshua ・ KENNY"
 name_ja: "Joshua ・ KENNY"
 slug: "joshua-kenny"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "Winger"
+height: "192.0"
+weight: "100.0"
+birth_date: "2003.08.03"
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Leinster Rugby rugby team for 2025/2026"
+league: "urc"
+team: "レンスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/joshua-kenny"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2025 - 2026)

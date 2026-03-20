@@ -1,20 +1,20 @@
 ---
-title: "nan | リアム・ジャック"
-name_en: "nan"
+title: "Liam JACK | リアム・ジャック"
+name_en: "Liam JACK"
 name_ja: "リアム・ジャック"
 slug: "liam-jack"
-position: ""
+position: "LO"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "2004.."
+age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Crusaders rugby team for 2025/2026"
+league: ""
+team: "カンタベリー・クルセイダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/liam-jack"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2023 - 2025) -> Crusaders (2023 - )

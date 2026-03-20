@@ -1,20 +1,20 @@
 ---
-title: "nan | ノエ・デッラ・スキアーヴァ"
-name_en: "nan"
+title: "Noé DELLA SCHIAVA | ノエ・デッラ・スキアーヴァ"
+name_en: "Noé DELLA SCHIAVA"
 name_ja: "ノエ・デッラ・スキアーヴァ"
 slug: "noe-della-schiava"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/NO8"
+height: "193.0"
+weight: "95.0"
+birth_date: "2002.02.28"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ペルピニャン"
 caps: "0"
 scraped_url: "https://all.rugby/player/noe-della-schiava"
 ---
 
 ## キャリア遍歴
-
+Rugby Club Nîmois (2009 - 2019) -> Stade Rochelais (2019 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

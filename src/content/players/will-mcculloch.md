@@ -1,20 +1,20 @@
 ---
-title: "nan | ウィル-マカロック"
-name_en: "nan"
+title: "Will MCCULLOCH | ウィル-マカロック"
+name_en: "Will MCCULLOCH"
 name_ja: "ウィル-マカロック"
 slug: "will-mcculloch"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "WTB"
+height: "186.0"
+weight: "88.0"
+birth_date: "2004.01.05"
+age: 22
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "クイーンズランド・レッズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/will-mcculloch"
 ---
 
 ## キャリア遍歴
-
+Queensland Reds (2023 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ピエール＝ルイ・バラッシ"
-name_en: "nan"
+title: "Pierre-Louis BARASSI | ピエール＝ルイ・バラッシ"
+name_en: "Pierre-Louis BARASSI"
 name_ja: "ピエール＝ルイ・バラッシ"
 slug: "pierre-louis-barassi"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "188.0"
+weight: "102.0"
+birth_date: "1998.04.22"
+age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
-team: "The Stade Toulousain rugby team for 2025/2026"
-caps: "0"
+league: "top14"
+team: "トゥールーズ"
+caps: "🇫🇷 France"
 scraped_url: "https://all.rugby/player/pierre-louis-barassi"
 ---
 
 ## キャリア遍歴
-
+Racing Club Narbonnais (2005 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2022) -> Stade Toulousain (2022 - )

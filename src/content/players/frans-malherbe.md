@@ -1,20 +1,20 @@
 ---
-title: "nan | フランス ・ マルハーバ"
-name_en: "nan"
+title: "フランス ・ マルハーバ | フランス ・ マルハーバ"
+name_en: "フランス ・ マルハーバ"
 name_ja: "フランス ・ マルハーバ"
 slug: "frans-malherbe"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "190.0"
+weight: "141.0"
+birth_date: "1991.03.14"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "urc"
+team: "DHLストーマーズ"
+caps: "🇿🇦 South Africa"
 scraped_url: "https://all.rugby/player/frans-malherbe"
 ---
 
 ## キャリア遍歴
-
+Stormers (2011 - 2026)

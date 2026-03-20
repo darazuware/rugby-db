@@ -1,20 +1,20 @@
 ---
-title: "nan | キーラン・ブルックス"
-name_en: "nan"
+title: "Kieran BROOKES | キーラン・ブルックス"
+name_en: "Kieran BROOKES"
 name_ja: "キーラン・ブルックス"
 slug: "kieran-brookes"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "188.0"
+weight: "120.0"
+birth_date: "1990.08.29"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ペルピニャン"
+caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England"
 scraped_url: "https://all.rugby/player/kieran-brookes"
 ---
 
 ## キャリア遍歴
-
+Newcastle (2013 - 2015) -> Northampton Saints (2015 - 2018) -> Wasps (2018 - 2021) -> Rugby Club Toulonnais (2021 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

@@ -1,20 +1,20 @@
 ---
-title: "nan | ルーク・ジェイコブソン"
-name_en: "nan"
+title: "Luke JACOBSON | ルーク・ジェイコブソン"
+name_en: "Luke JACOBSON"
 name_ja: "ルーク・ジェイコブソン"
 slug: "luke-jacobson"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FL/No8"
+height: "191.0"
+weight: "107.0"
+birth_date: "1997.04.20"
+age: 28
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ワイカト・チーフス"
+caps: "🇳🇿 New Zealand"
 scraped_url: "https://all.rugby/player/luke-jacobson"
 ---
 
 ## キャリア遍歴
-
+Chiefs (2017 - 2026) -> Waikato Mooloos (2019 - )

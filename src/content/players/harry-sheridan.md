@@ -1,20 +1,20 @@
 ---
-title: "nan | Harry ・ SHERIDAN"
-name_en: "nan"
+title: "Harry ・ SHERIDAN | Harry ・ SHERIDAN"
+name_en: "Harry ・ SHERIDAN"
 name_ja: "Harry ・ SHERIDAN"
 slug: "harry-sheridan"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "LO"
+height: "196.0"
+weight: "121.0"
+birth_date: "2001.09.21"
+age: 24
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "アルスター・ラグビー"
 caps: "0"
 scraped_url: "https://all.rugby/player/harry-sheridan"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2020 - 2026)

@@ -1,20 +1,20 @@
 ---
-title: "nan | アンドリュー・ニュースタッブ"
-name_en: "nan"
+title: "Andrew KNEWSTUBB | アンドリュー・ニュースタッブ"
+name_en: "Andrew KNEWSTUBB"
 name_ja: "アンドリュー・ニュースタッブ"
 slug: "andrew-knewstubb"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "188.0"
+weight: "88.0"
+birth_date: "1995.09.14"
+age: 30
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
+team: "オタゴ・ハイランダーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/andrew-knewstubb"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2019 - 2025) -> Tasman Mako (2020 - 2021) -> Highlanders (2025 - )

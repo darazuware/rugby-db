@@ -1,20 +1,20 @@
 ---
-title: "nan | Jurie ・ MATTHEE"
-name_en: "nan"
+title: "Jurie ・ MATTHEE | Jurie ・ MATTHEE"
+name_en: "Jurie ・ MATTHEE"
 name_ja: "Jurie ・ MATTHEE"
 slug: "jurie-matthee"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SO"
+height: "191.0"
+weight: "92.0"
+birth_date: "2000.11.04"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "urc"
+team: "DHLストーマーズ"
 caps: "0"
 scraped_url: "https://all.rugby/player/jurie-matthee"
 ---
 
 ## キャリア遍歴
-
+Western Province (2022 - 2023) -> Stormers (2023 - 2026)

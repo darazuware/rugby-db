@@ -1,20 +1,20 @@
 ---
-title: "nan | アリヴェレティ・ロアロア"
-name_en: "nan"
+title: "Alivereti LOALOA | アリヴェレティ・ロアロア"
+name_en: "Alivereti LOALOA"
 name_ja: "アリヴェレティ・ロアロア"
 slug: "alivereti-loaloa"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "CTB"
+height: "182.0"
+weight: "104.0"
+birth_date: "2000.12.10"
+age: 25
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "クレルモン"
 caps: "0"
 scraped_url: "https://all.rugby/player/alivereti-loaloa"
 ---
 
 ## キャリア遍歴
-
+Ratu Kadavulevu School (2018 - 2019) -> USON Nevers Rugby (2019 - 2025) -> ASM Clermont Auvergne (2025 - )

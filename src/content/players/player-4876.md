@@ -1,20 +1,20 @@
 ---
-title: "nan | タイ ・ナッシュ"
+title: "nan | "
 name_en: "nan"
-name_ja: "タイ ・ナッシュ"
+name_ja: ""
 slug: "player-4876"
-position: ""
+position: "Wing"
 height: "0"
 weight: "0"
 birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "premiership"
+team: "セール・シャークス"
+caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland代表 (0 caps)"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2025 - )

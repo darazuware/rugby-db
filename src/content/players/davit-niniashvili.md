@@ -1,20 +1,20 @@
 ---
-title: "nan | ダヴィト-ニニアシヴィリ"
-name_en: "nan"
+title: "Davit NINIASHVILI | ダヴィト-ニニアシヴィリ"
+name_en: "Davit NINIASHVILI"
 name_ja: "ダヴィト-ニニアシヴィリ"
 slug: "davit-niniashvili"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "FB"
+height: "185.0"
+weight: "90.0"
+birth_date: "2002.07.14"
+age: 23
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
-caps: "0"
+league: "top14"
+team: "ラ・ロシェル"
+caps: "Georgia代表 (23 caps)"
 scraped_url: "https://all.rugby/player/davit-niniashvili"
 ---
 
 ## キャリア遍歴
-
+Khvamli Rugby (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2025) -> Stade Rochelais (2025 - )

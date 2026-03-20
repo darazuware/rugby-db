@@ -1,20 +1,20 @@
 ---
-title: "nan | マイケル・ルル"
-name_en: "nan"
+title: "Michael RURU | マイケル・ルル"
+name_en: "Michael RURU"
 name_ja: "マイケル・ルル"
 slug: "michael-ruru"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "SH"
+height: "182.0"
+weight: "95.0"
+birth_date: "1990.12.03"
+age: 35
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "top14"
+team: "ヴァンヌ"
 caps: "0"
 scraped_url: "https://all.rugby/player/michael-ruru"
 ---
 
 ## キャリア遍歴
-
+Western Force (2016 - 2017) -> Melbourne Rebels (2017 - 2019) -> Aviron Bayonnais (2019 - 2023) -> Rugby Club Vannes (2022 - )

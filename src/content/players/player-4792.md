@@ -1,20 +1,20 @@
 ---
-title: "nan | 文 裕徹"
+title: "nan | "
 name_en: "nan"
-name_ja: "文 裕徹"
+name_ja: ""
 slug: "player-4792"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1999-10-26"
+age: 26
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "ノーサンプトン・セインツ"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

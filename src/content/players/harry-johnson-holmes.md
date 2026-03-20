@@ -1,20 +1,20 @@
 ---
-title: "nan | ハリー-ジョンソン＝ホームズ"
-name_en: "nan"
+title: "Harry JOHNSON-HOLMES | ハリー-ジョンソン＝ホームズ"
+name_en: "Harry JOHNSON-HOLMES"
 name_ja: "ハリー-ジョンソン＝ホームズ"
 slug: "harry-johnson-holmes"
-position: ""
-height: "0"
-weight: "0"
-birth_date: ""
-age: null
+position: "PR"
+height: "186.0"
+weight: "119.0"
+birth_date: "1997.03.02"
+age: 29
 country: ""
 birth_place_scraped: ""
 league: ""
-team: ""
-caps: "0"
+team: "ウェスタン・フォース"
+caps: "🇦🇺 Australia"
 scraped_url: "https://all.rugby/player/harry-johnson-holmes"
 ---
 
 ## キャリア遍歴
-
+New South Wales Waratahs (2017 - 2024) -> Western Force (2024 - )

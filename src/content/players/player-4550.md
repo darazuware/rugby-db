@@ -1,20 +1,20 @@
 ---
-title: "nan | 流 大"
+title: "nan | "
 name_en: "nan"
-name_ja: "流 大"
+name_ja: ""
 slug: "player-4550"
-position: ""
+position: "Flanker"
 height: "0"
 weight: "0"
-birth_date: ""
-age: null
+birth_date: "1994-09-11"
+age: 31
 country: ""
 birth_place_scraped: ""
-league: ""
-team: ""
+league: "premiership"
+team: "グロスター・ラグビー"
 caps: "0"
 scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Gloucester Rugby (2025 - )
