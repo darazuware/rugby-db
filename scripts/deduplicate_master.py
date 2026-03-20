@@ -4,6 +4,7 @@ from datetime import datetime
 import os
 
 INPUT_CSV_PATH = 'data_sources/final_master_data_v25_consolidated.csv'
+SOURCE_RESCUE_PATH = 'data_sources/final_master_data_v17_consolidated.csv'
 OUTPUT_CSV_PATH = 'data_sources/final_master_data_v27_normalized.csv'
 BACKUP_PATH = 'data_sources/final_master_data_v27_normalized.csv.bak'
 
@@ -11,14 +12,12 @@ def calculate_age(birth_date_str):
     if not birth_date_str or str(birth_date_str).lower() == 'nan' or birth_date_str == '---' or birth_date_str == '':
         return None
     try:
-        # Expected formats: YYYY.MM.DD or YYYY/MM/DD
         cleaned_date = str(birth_date_str).replace('/', '.').replace('-', '.')
         birth_date = datetime.strptime(cleaned_date, '%Y.%m.%d')
         today = datetime.now()
         age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
         return age
     except Exception as e:
-        # Handle cases like "1996.." or other partial dates
         try:
             year_match = str(birth_date_str)[:4]
             if year_match.isdigit():
@@ -32,15 +31,44 @@ def deduplicate():
         print(f"File not found: {INPUT_CSV_PATH}")
         return
 
-    # Backup existing output if it exists
+    # Backup existing output
     if os.path.exists(OUTPUT_CSV_PATH):
         import shutil
         shutil.copy2(OUTPUT_CSV_PATH, BACKUP_PATH)
         print(f"Backup created: {BACKUP_PATH}")
 
     df = pd.read_csv(INPUT_CSV_PATH)
-    print(f"Original row count: {len(df)}")
+    print(f"Original v25 row count: {len(df)}")
     
+    # === 代表歴の救出プロジェクト (Rescue Caps from v17) ===
+    if os.path.exists(SOURCE_RESCUE_PATH):
+        print(f"Rescuing caps from {SOURCE_RESCUE_PATH}...")
+        v17_df = pd.read_csv(SOURCE_RESCUE_PATH)
+        # URLをキーにする
+        v17_df['Scraped_Url'] = v17_df['Scraped_Url'].astype(str).str.strip().str.lower()
+        
+        # v17の代表歴カラムを特定 (v17は日本語ヘッダー)
+        # 4893名復元時の Beauden Barrett 調査(Step 7366)では Col 17 (0-indexed) = '代表キャップ数'
+        v17_caps_col = '代表キャップ数' if '代表キャップ数' in v17_df.columns else None
+        
+        if v17_caps_col:
+            # マップ作成
+            caps_map = v17_df.set_index('Scraped_Url')[v17_caps_col].to_dict()
+            
+            def rescue_caps(row):
+                url = str(row.get('Scraped_Url', '')).strip().lower()
+                current_caps = str(row.get('代表キャップ数', '')).strip()
+                
+                # もし現在の代表歴が空、0、または nan であれば
+                if current_caps in ['', '0', '0.0', 'nan', 'none']:
+                    rescued = caps_map.get(url)
+                    if rescued and str(rescued).lower() != 'nan' and str(rescued) != '0':
+                        return rescued
+                return row.get('代表キャップ数')
+
+            df['代表キャップ数'] = df.apply(rescue_caps, axis=1)
+            print("Caps rescue completed.")
+
     # カラム名の正規化 (日本語 -> 英語)
     column_map = {
         '英語名': 'Player_Name',
@@ -60,7 +88,6 @@ def deduplicate():
         '大学': 'University'
     }
     df = df.rename(columns=column_map)
-    print(f"Normalized columns: {df.columns.tolist()}")
 
     # 1. Representative_Caps の URL 混入を修正
     def clean_caps(val):
@@ -82,30 +109,23 @@ def deduplicate():
     
     df['Age'] = df.apply(update_age, axis=1)
 
-    # 3. 重複排除 (Scraped_Url をキーにする)
+    # 3. 重複排除
     if 'Scraped_Url' in df.columns:
         df['Scraped_Url'] = df['Scraped_Url'].astype(str).str.strip().str.lower()
         df.loc[df['Scraped_Url'] == 'nan', 'Scraped_Url'] = np.nan
-        
         df['nan_count'] = df.isnull().sum(axis=1)
-        
-        # URL があるものと無いもので分ける
         mask = df['Scraped_Url'].notna()
         with_url = df[mask].copy()
         no_url = df[~mask].copy()
-
-        # URL ごとにグループ化し、欠損値が最も少ない行を選択
-        deduped_with_url = with_url.sort_values('nan_count', ascending=False).drop_duplicates(subset=['Scraped_Url'], keep='last')
-        
+        deduped_with_url = with_url.sort_values('nan_count', ascending=True).drop_duplicates(subset=['Scraped_Url'], keep='first')
         final_df = pd.concat([deduped_with_url, no_url], ignore_index=True)
         final_df = final_df.drop(columns=['nan_count'])
     else:
-        print("ERROR: Scraped_Url column missing!")
         final_df = df
 
-    print(f"Deduped row count: {len(final_df)}")
+    print(f"Final row count: {len(final_df)}")
     
-    # 保存 (カラム順序を固定)
+    # 保存
     cols_order = [
         'Player_Name', 'Full_Name', '選手名_カタカナ', 'Position', 'Current_Team', 'League', 
         'Height', 'Weight', 'Birth_Date', 'Age', 'Representative_Caps', 'Scraped_Url', 
