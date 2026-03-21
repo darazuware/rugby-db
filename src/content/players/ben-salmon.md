@@ -1,7 +1,7 @@
 ---
-title: "Ben SALMON | ベン・サーモン"
+title: "Ben SALMON | ベン ・ SALMON"
 name_en: "Ben SALMON"
-name_ja: "ベン・サーモン"
+name_ja: "ベン ・ SALMON"
 slug: "ben-salmon"
 position: "CTB"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/ben-salmon"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stirling county rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)"
+scraped_url: "https://all.rugby/player/ben-salmon"
 ---
 
 ## キャリア遍歴
-
+Stirling County RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)

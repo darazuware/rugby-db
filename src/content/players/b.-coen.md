@@ -1,11 +1,11 @@
 ---
-title: "B. Coen | "
+title: "B. Coen"
 name_en: "B. Coen"
 name_ja: ""
 slug: "b.-coen"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

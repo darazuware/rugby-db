@@ -1,11 +1,11 @@
 ---
-title: "B. Gordon | "
+title: "B. Gordon"
 name_en: "B. Gordon"
 name_ja: ""
 slug: "b.-gordon"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

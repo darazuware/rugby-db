@@ -1,9 +1,9 @@
 ---
-title: "Tristan DAVIES | Tristan ・ DAVIES"
+title: "Tristan DAVIES | トリスタン・デイヴィス"
 name_en: "Tristan DAVIES"
-name_ja: "Tristan ・ DAVIES"
+name_ja: "トリスタン・デイヴィス"
 slug: "tristan-davies"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "104.0"
 birth_date: "2001.09.30"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/tristan-davies"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/tristan-davies"
+scraped_url: "ospreys (2020 - 2023) -> central cheetahs (2023 - 2023) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2025) -> scarlets (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Ospreys (2020 - 2023) -> Central Cheetahs (2023 - 2023) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2025) -> Scarlets (2025 - 2026)
+

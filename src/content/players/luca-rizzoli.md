@@ -1,7 +1,7 @@
 ---
-title: "Luca RIZZOLI | ルカ・リッツォーリ"
+title: "Luca RIZZOLI | Luca ・ RIZZOLI"
 name_en: "Luca RIZZOLI"
-name_ja: "ルカ・リッツォーリ"
+name_ja: "Luca ・ RIZZOLI"
 slug: "luca-rizzoli"
 position: "PR"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/luca-rizzoli"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "unione rugby capitolina (2021 - 2022) -> zebre parma (2022 - 2026)"
+scraped_url: "https://all.rugby/player/luca-rizzoli"
 ---
 
 ## キャリア遍歴
-
+Unione Rugby Capitolina (2021 - 2022) -> Zebre Parma (2022 - 2026)

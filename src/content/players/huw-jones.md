@@ -1,7 +1,7 @@
 ---
-title: "Huw JONES | ヒュー-ジョーンズ"
+title: "Huw JONES | Huw ・ JONES"
 name_en: "Huw JONES"
-name_ja: "ヒュー-ジョーンズ"
+name_ja: "Huw ・ JONES"
 slug: "huw-jones"
 position: "CTB"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (53)"
+caps: "Scotland (53)"
 high_school: ""
 university: ""
-scraped_url: "stormers (2014 - 2016) -> glasgow warriors (2017 - 2021) -> harlequins (2021 - 2022) -> glasgow warriors (2022 - 2026)"
+scraped_url: "https://all.rugby/player/huw-jones"
 ---
 
 ## キャリア遍歴
-Scotland
+Stormers (2014 - 2016) -> Glasgow Warriors (2017 - 2021) -> Harlequins (2021 - 2022) -> Glasgow Warriors (2022 - 2026)

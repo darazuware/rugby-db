@@ -1,7 +1,7 @@
 ---
-title: "Gianni LOMBARD | ジャンニ-ロンバード"
+title: "Gianni LOMBARD | Gianni ・ LOMBARD"
 name_en: "Gianni LOMBARD"
-name_ja: "ジャンニ-ロンバード"
+name_ja: "Gianni ・ LOMBARD"
 slug: "gianni-lombard"
 position: "SO"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/gianni-lombard"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2018 - 2021) -> red hurricanes osaka (2021 - 2022) -> lions rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/gianni-lombard"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2021) -> Red Hurricanes Osaka (2021 - 2022) -> Lions Rugby (2022 - 2026)

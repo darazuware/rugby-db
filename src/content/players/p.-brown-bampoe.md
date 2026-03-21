@@ -1,11 +1,11 @@
 ---
-title: "P. Brown-Bampoe | "
+title: "P. Brown-Bampoe"
 name_en: "P. Brown-Bampoe"
 name_ja: ""
 slug: "p.-brown-bampoe"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -10,7 +10,7 @@ birth_date: "2000.03.14"
 age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: "https://all.rugby/player/hanru-jacobs"
 high_school: ""

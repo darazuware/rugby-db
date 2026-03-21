@@ -1,11 +1,11 @@
 ---
-title: "E. Kitenge-Fuki | "
+title: "E. Kitenge-Fuki"
 name_en: "E. Kitenge-Fuki"
 name_ja: ""
 slug: "e.-kitenge-fuki"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

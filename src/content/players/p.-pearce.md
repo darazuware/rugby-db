@@ -1,11 +1,11 @@
 ---
-title: "P. Pearce | "
+title: "P. Pearce"
 name_en: "P. Pearce"
 name_ja: ""
 slug: "p.-pearce"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

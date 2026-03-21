@@ -1,7 +1,7 @@
 ---
-title: "Cobus REINACH | コーバス ・ レイナック"
+title: "Cobus REINACH | コブス-ライナッハ"
 name_en: "Cobus REINACH"
-name_ja: "コーバス ・ レイナック"
+name_ja: "コブス-ライナッハ"
 slug: "cobus-reinach"
 position: "SH"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "🇿🇦 South Africa (26)"
+caps: "South Africa (26)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/cobus-reinach"
+scraped_url: "sharks (2013 - 2017) -> northampton saints (2017 - 2020) -> montpellier hérault rugby (2020 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Sharks (2013 - 2017) -> Northampton Saints (2017 - 2020) -> Montpellier Hérault Rugby (2020 - 2025) -> Stormers (2025 - 2026)
+South Africa

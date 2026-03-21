@@ -1,11 +1,11 @@
 ---
-title: "J. Kenningham | "
+title: "J. Kenningham"
 name_en: "J. Kenningham"
 name_ja: ""
 slug: "j.-kenningham"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

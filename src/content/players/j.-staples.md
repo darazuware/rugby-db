@@ -1,11 +1,11 @@
 ---
-title: "J. Staples | "
+title: "J. Staples"
 name_en: "J. Staples"
 name_ja: ""
 slug: "j.-staples"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

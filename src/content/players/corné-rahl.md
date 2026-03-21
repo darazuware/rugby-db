@@ -10,7 +10,7 @@ birth_date: "2002.05.27"
 age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: "https://all.rugby/player/corne-rahl"
 high_school: ""

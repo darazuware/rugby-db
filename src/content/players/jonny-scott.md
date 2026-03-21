@@ -1,7 +1,7 @@
 ---
-title: "Jonny SCOTT | ジョニー・スコット"
+title: "Jonny SCOTT | Jonny ・ スコット"
 name_en: "Jonny SCOTT"
-name_ja: "ジョニー・スコット"
+name_ja: "Jonny ・ スコット"
 slug: "jonny-scott"
 position: "CTB"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/jonny-scott"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "banbridge rfc (2023 - 2024) -> ulster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/jonny-scott"
 ---
 
 ## キャリア遍歴
-
+Banbridge RFC (2023 - 2024) -> Ulster Rugby (2024 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "G. Knowles | "
+title: "G. Knowles"
 name_en: "G. Knowles"
 name_ja: ""
 slug: "g.-knowles"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Danny SOUTHWORTH | Danny ・ SOUTHWORTH"
+title: "Danny SOUTHWORTH | ダニー・サウスワース"
 name_en: "Danny SOUTHWORTH"
-name_ja: "Danny ・ SOUTHWORTH"
+name_ja: "ダニー・サウスワース"
 slug: "danny-southworth"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/danny-southworth"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/danny-southworth"
+scraped_url: "exeter chiefs (2019 - 2022) -> coventry rugby (2022 - 2022) -> exeter chiefs (2022 - 2022) -> coventry rugby (2023 - 2023) -> exeter chiefs (2023 - 2023) -> coventry rugby (2023 - 2023) -> exeter chiefs (2024 - 2024) -> coventry rugby (2024 - 2024) -> cardiff rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2019 - 2022) -> Coventry Rugby (2022 - 2022) -> Exeter Chiefs (2022 - 2022) -> Coventry Rugby (2023 - 2023) -> Exeter Chiefs (2023 - 2023) -> Coventry Rugby (2023 - 2023) -> Exeter Chiefs (2024 - 2024) -> Coventry Rugby (2024 - 2024) -> Cardiff Rugby (2024 - 2026)
+

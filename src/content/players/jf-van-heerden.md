@@ -1,7 +1,7 @@
 ---
-title: "JF VAN HEERDEN | JF-ファン・ヘールデン"
+title: "JF VAN HEERDEN | JF ・ ファン ・ HEERDEN"
 name_en: "JF VAN HEERDEN"
-name_ja: "JF-ファン・ヘールデン"
+name_ja: "JF ・ ファン ・ HEERDEN"
 slug: "jf-van-heerden"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/jf-van-heerden"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2022 - 2023) -> bulls (2023 - 2026)"
+scraped_url: "https://all.rugby/player/jf-van-heerden"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2022 - 2023) -> Bulls (2023 - 2026)

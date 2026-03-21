@@ -1,11 +1,11 @@
 ---
-title: "B. Mata | "
+title: "B. Mata"
 name_en: "B. Mata"
 name_ja: ""
 slug: "b.-mata"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

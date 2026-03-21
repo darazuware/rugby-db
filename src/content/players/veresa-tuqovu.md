@@ -8,7 +8,7 @@ height: "195.0"
 weight: "107.0"
 birth_date: "2000.06.12"
 age: 25
-country: ""
+country: "Fidji"
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"

@@ -1,11 +1,11 @@
 ---
-title: "E. Richards | "
+title: "E. Richards"
 name_en: "E. Richards"
 name_ja: ""
 slug: "e.-richards"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

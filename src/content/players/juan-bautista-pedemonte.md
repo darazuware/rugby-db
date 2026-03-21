@@ -8,7 +8,7 @@ height: "189.0"
 weight: "107.0"
 birth_date: "2000.03.14"
 age: 26
-country: ""
+country: "Argentine"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

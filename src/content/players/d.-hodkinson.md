@@ -1,11 +1,11 @@
 ---
-title: "D. Hodkinson | "
+title: "D. Hodkinson"
 name_en: "D. Hodkinson"
 name_ja: ""
 slug: "d.-hodkinson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "C. Anderson | "
+title: "C. Anderson"
 name_en: "C. Anderson"
 name_ja: ""
 slug: "c.-anderson"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

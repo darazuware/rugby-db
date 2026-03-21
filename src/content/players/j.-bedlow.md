@@ -1,11 +1,11 @@
 ---
-title: "J. Bedlow | "
+title: "J. Bedlow"
 name_en: "J. Bedlow"
 name_ja: ""
 slug: "j.-bedlow"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

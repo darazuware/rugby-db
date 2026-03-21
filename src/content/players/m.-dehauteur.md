@@ -1,11 +1,11 @@
 ---
-title: "M. Dehauteur | "
+title: "M. Dehauteur"
 name_en: "M. Dehauteur"
 name_ja: ""
 slug: "m.-dehauteur"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

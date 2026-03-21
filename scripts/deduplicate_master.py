@@ -23,6 +23,10 @@ def normalize_name(name):
     if not name or pd.isna(name): return ""
     return re.sub(r'[^a-zA-Z]', '', str(name)).lower()
 
+def has_japanese(text):
+    if not text or pd.isna(text): return False
+    return any(ord(c) > 127 for c in str(text))
+
 def get_best_value(row, col_choices):
     """複数の候補カラムから最初に有効な値を持つものを物理取得"""
     for col in col_choices:
@@ -39,6 +43,32 @@ def is_low_quality(caps_str):
     if '(' not in c and not any(char.isdigit() for char in c):
         return True
     return False
+
+def clean_caps(caps_str):
+    if not caps_str: return ""
+    # 絵文字（国旗など、ord > 1000以上の広範囲を想定）を除去
+    return re.sub(r'[\U0001f1e6-\U0001f1ff]', '', str(caps_str)).strip()
+
+def validate_physical_stat(val, type_name='height'):
+    if not val or pd.isna(val): return ""
+    v_str = str(val).strip()
+    # 日付形式 (/) が含まれている場合はNG
+    if '/' in v_str: return ""
+    # 数値以外が含まれている場合は抽出を試みるが、日付っぽければNG
+    v_clean = re.sub(r'[^0-9.]', '', v_str)
+    if not v_clean: return ""
+    try:
+        vf = float(v_clean)
+        if type_name == 'height':
+            # メートル単位 (1.88 m など) の場合は cm に変換
+            if vf < 3.0:
+                vf = vf * 100
+            if vf < 140 or vf > 220: return "" # ラグビー選手として不自然な身長
+        else: # weight
+            if vf < 50 or vf > 160: return "" # 不自然な体重 (1kgなどはNG)
+        return str(vf)
+    except:
+        return ""
 
 def deduplicate():
     if not os.path.exists(INPUT_CSV_PATH):
@@ -61,8 +91,8 @@ def deduplicate():
             team = str(row.get('representative_team', '')).strip()
             count = str(row.get('latest_caps', '0')).strip()
             if name and team and count != '0' and count != 'nan':
-                flag = FLAG_MAP.get(team, '')
-                caps_str = f"{flag} {team} ({int(float(count))})"
+                # 絵文字フラグは含めないように修正
+                caps_str = f"{team} ({int(float(count))})"
                 caps_by_name[name] = caps_str
 
     # 2. 代表歴マッピング作成 (Legacy match)
@@ -94,22 +124,54 @@ def deduplicate():
     # 新しいDataFrame用のリスト
     processed_rows = []
     for _, row in df.iterrows():
+        # MLRチーム名のクリーンアップ ("The ... rugby team for 2024/2025" 等を除去)
+        current_team = get_best_value(row, ['所属チーム', 'Current_Team'])
+        if "rugby team for" in current_team:
+            # "The " を除去し、最初の " rugby team" までを取得
+            current_team = re.sub(r'^The ', '', current_team)
+            current_team = current_team.split(' rugby team')[0].strip()
+
+        # 名前の入れ替え検知 (英語名に日本語が入っていて、選手名がアルファベットの場合)
+        name_en_raw = get_best_value(row, ['英語名', 'Player_Name', 'Full_Name'])
+        name_ja_raw = get_best_value(row, ['選手名', 'Full_Name', '選手名_カタカナ'])
+        
+        if has_japanese(name_en_raw) and not has_japanese(name_ja_raw) and name_ja_raw != "":
+            # 入れ替え
+            name_en = name_ja_raw
+            name_ja = name_en_raw
+        else:
+            name_en = name_en_raw
+            name_ja = name_ja_raw
+
+        # リーグ取得とMLRの除外
+        league = get_best_value(row, ['リーグ', 'League']).strip().lower()
+        if league == 'mlr':
+            continue
+
+        height_raw = get_best_value(row, ['身長', 'Height'])
+        weight_raw = get_best_value(row, ['体重', 'Weight'])
+        birth_date_raw = get_best_value(row, ['生年月日', 'Birth_Date'])
+        
+        recovered_height = height_raw
+        recovered_weight = weight_raw
+
         new_row = {
-            'Player_Name': get_best_value(row, ['英語名', 'Full_Name', 'Player_Name']),
-            'Full_Name': get_best_value(row, ['選手名', 'Full_Name']),
+            'Player_Name': name_en,
+            'Full_Name': name_ja,
             '選手名_カタカナ': get_best_value(row, ['選手名_カタカナ', '選手名']),
             'Position': get_best_value(row, ['ポジション', 'Position']),
-            'Current_Team': get_best_value(row, ['所属チーム', 'Current_Team']),
-            'League': get_best_value(row, ['リーグ', 'League']),
-            'Height': get_best_value(row, ['身長', 'Height']),
-            'Weight': get_best_value(row, ['体重', 'Weight']),
-            'Birth_Date': get_best_value(row, ['生年月日', 'Birth_Date']),
+            'Current_Team': current_team,
+            'League': league,
+            'Height': validate_physical_stat(recovered_height, 'height'),
+            'Weight': validate_physical_stat(recovered_weight, 'weight'),
+            'Birth_Date': birth_date_raw,
             'Age': get_best_value(row, ['年齢', 'Age']),
+            'Nationality': get_best_value(row, ['Nationality', '国籍', 'Country']),
             'Scraped_Url': get_best_value(row, ['Scraped_Url', 'URL']),
             'キャリア遍歴': get_best_value(row, ['キャリア遍歴', 'Full_Career']),
             'High_School': get_best_value(row, ['高校', 'High_School']),
             'University': get_best_value(row, ['大学', 'University']),
-            'Representative_Caps': rescue_caps(row)
+            'Representative_Caps': clean_caps(rescue_caps(row))
         }
         processed_rows.append(new_row)
 
@@ -142,7 +204,7 @@ def deduplicate():
     
     cols_order = [
         'Player_Name', 'Full_Name', '選手名_カタカナ', 'Position', 'Current_Team', 'League', 
-        'Height', 'Weight', 'Birth_Date', 'Age', 'Representative_Caps', 'Scraped_Url', 
+        'Height', 'Weight', 'Birth_Date', 'Age', 'Nationality', 'Representative_Caps', 'Scraped_Url', 
         'キャリア遍歴', 'High_School', 'University'
     ]
     existing_cols = [c for c in cols_order if c in final_df.columns]

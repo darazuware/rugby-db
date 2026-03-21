@@ -1,11 +1,11 @@
 ---
-title: "D. Frost | "
+title: "D. Frost"
 name_en: "D. Frost"
 name_ja: ""
 slug: "d.-frost"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

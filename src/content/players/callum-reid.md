@@ -1,7 +1,7 @@
 ---
-title: "Callum REID | カラム・リード"
+title: "Callum REID | Callum ・ REID"
 name_en: "Callum REID"
-name_ja: "カラム・リード"
+name_ja: "Callum ・ REID"
 slug: "callum-reid"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/callum-reid"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ulster rugby (2019 - 2020) -> munster rugby (2020 - 2020) -> ulster rugby (2021 - 2021) -> munster rugby (2021 - 2021) -> ulster rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/callum-reid"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2019 - 2020) -> Munster Rugby (2020 - 2020) -> Ulster Rugby (2021 - 2021) -> Munster Rugby (2021 - 2021) -> Ulster Rugby (2021 - 2026)

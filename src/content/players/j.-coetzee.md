@@ -1,11 +1,11 @@
 ---
-title: "J. Coetzee | "
+title: "J. Coetzee"
 name_en: "J. Coetzee"
 name_ja: ""
 slug: "j.-coetzee"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

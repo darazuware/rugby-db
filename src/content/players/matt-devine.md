@@ -1,7 +1,7 @@
 ---
-title: "Matt DEVINE | マット・デヴァイン"
+title: "Matt DEVINE | Matt ・ DEVINE"
 name_en: "Matt DEVINE"
-name_ja: "マット・デヴァイン"
+name_ja: "Matt ・ DEVINE"
 slug: "matt-devine"
 position: "SH"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/matt-devine"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "connacht rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/matt-devine"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2021 - 2026)

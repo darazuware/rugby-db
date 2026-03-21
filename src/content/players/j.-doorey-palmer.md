@@ -1,11 +1,11 @@
 ---
-title: "J. Doorey-Palmer | "
+title: "J. Doorey-Palmer"
 name_en: "J. Doorey-Palmer"
 name_ja: ""
 slug: "j.-doorey-palmer"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

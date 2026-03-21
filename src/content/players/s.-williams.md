@@ -1,11 +1,11 @@
 ---
-title: "S. Williams | "
+title: "S. Williams"
 name_en: "S. Williams"
 name_ja: ""
 slug: "s.-williams"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "S. McIntyre | "
+title: "S. McIntyre"
 name_en: "S. McIntyre"
 name_ja: ""
 slug: "s.-mcintyre"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

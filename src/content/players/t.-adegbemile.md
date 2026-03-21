@@ -1,11 +1,11 @@
 ---
-title: "T. Adegbemile | "
+title: "T. Adegbemile"
 name_en: "T. Adegbemile"
 name_ja: ""
 slug: "t.-adegbemile"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

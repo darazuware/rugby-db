@@ -1,11 +1,11 @@
 ---
-title: "O. Streeter | "
+title: "O. Streeter"
 name_en: "O. Streeter"
 name_ja: ""
 slug: "o.-streeter"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

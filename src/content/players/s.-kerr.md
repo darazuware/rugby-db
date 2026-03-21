@@ -1,11 +1,11 @@
 ---
-title: "S. Kerr | "
+title: "S. Kerr"
 name_en: "S. Kerr"
 name_ja: ""
 slug: "s.-kerr"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

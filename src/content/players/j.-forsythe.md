@@ -1,11 +1,11 @@
 ---
-title: "J. Forsythe | "
+title: "J. Forsythe"
 name_en: "J. Forsythe"
 name_ja: ""
 slug: "j.-forsythe"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

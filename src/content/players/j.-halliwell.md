@@ -1,11 +1,11 @@
 ---
-title: "J. Halliwell | "
+title: "J. Halliwell"
 name_en: "J. Halliwell"
 name_ja: ""
 slug: "j.-halliwell"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

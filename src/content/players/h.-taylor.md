@@ -1,11 +1,11 @@
 ---
-title: "H. Taylor | "
+title: "H. Taylor"
 name_en: "H. Taylor"
 name_ja: ""
 slug: "h.-taylor"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

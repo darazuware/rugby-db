@@ -1,11 +1,11 @@
 ---
-title: "W. Wootton | "
+title: "W. Wootton"
 name_en: "W. Wootton"
 name_ja: ""
 slug: "w.-wootton"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

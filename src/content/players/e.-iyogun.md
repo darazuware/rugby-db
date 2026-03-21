@@ -1,11 +1,11 @@
 ---
-title: "E. Iyogun | "
+title: "E. Iyogun"
 name_en: "E. Iyogun"
 name_ja: ""
 slug: "e.-iyogun"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

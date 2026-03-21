@@ -1,9 +1,9 @@
 ---
-title: "Mackenzie MARTIN | マケンジー・マーティン"
+title: "Mackenzie MARTIN | Mackenzie ・ MARTIN"
 name_en: "Mackenzie MARTIN"
-name_ja: "マケンジー・マーティン"
+name_ja: "Mackenzie ・ MARTIN"
 slug: "mackenzie-martin"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "116.0"
 birth_date: "2003.10.26"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/mackenzie-martin"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2021 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/mackenzie-martin"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2021 - 2025) -> Dragons RFC (2025 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "Pedro Delgado | "
+title: "Pedro Delgado"
 name_en: "Pedro Delgado"
 name_ja: ""
 slug: "pedro-delgado"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1997.09.01"
 age: 28
 country: ""

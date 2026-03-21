@@ -8,7 +8,7 @@ height: "197.0"
 weight: "110.0"
 birth_date: "//2006"
 age: 20
-country: ""
+country: "Argentina"
 birth_place_scraped: ""
 league: "top14"
 team: "トゥールーズ"

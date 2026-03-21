@@ -1,11 +1,11 @@
 ---
-title: "O. Bailey | "
+title: "O. Bailey"
 name_en: "O. Bailey"
 name_ja: ""
 slug: "o.-bailey"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

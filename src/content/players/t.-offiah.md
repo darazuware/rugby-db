@@ -1,11 +1,11 @@
 ---
-title: "T. Offiah | "
+title: "T. Offiah"
 name_en: "T. Offiah"
 name_ja: ""
 slug: "t.-offiah"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

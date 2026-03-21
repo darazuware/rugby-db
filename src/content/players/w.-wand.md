@@ -1,11 +1,11 @@
 ---
-title: "W. Wand | "
+title: "W. Wand"
 name_en: "W. Wand"
 name_ja: ""
 slug: "w.-wand"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

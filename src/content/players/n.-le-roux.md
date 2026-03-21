@@ -1,11 +1,11 @@
 ---
-title: "N. le Roux | "
+title: "N. le Roux"
 name_en: "N. le Roux"
 name_ja: ""
 slug: "n.-le-roux"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

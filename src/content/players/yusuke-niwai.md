@@ -11,7 +11,7 @@ age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Yokohama Canon Eagles"
+team: "横浜キヤノンイーグルス（2025-26）"
 caps: "U20('10,'11)、日本代表(10)"
 high_school: "報徳学園高校"
 university: "立命館大学"

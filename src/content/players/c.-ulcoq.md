@@ -1,11 +1,11 @@
 ---
-title: "C. Ulcoq | "
+title: "C. Ulcoq"
 name_en: "C. Ulcoq"
 name_ja: ""
 slug: "c.-ulcoq"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

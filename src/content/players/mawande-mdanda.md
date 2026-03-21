@@ -1,7 +1,7 @@
 ---
-title: "Mawande MDANDA | マワンデ・ムダンダ"
+title: "Mawande MDANDA | Mawande ・ MDANDA"
 name_en: "Mawande MDANDA"
-name_ja: "マワンデ・ムダンダ"
+name_ja: "Mawande ・ MDANDA"
 slug: "mawande-mdanda"
 position: "PR"
 height: "189.0"
@@ -10,13 +10,13 @@ birth_date: "2003.03.09"
 age: 23
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/mawande-mdanda"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2022 - 2023) -> natal sharks (2023 - 2024) -> sharks (2024 - 2026)"
+scraped_url: "https://all.rugby/player/mawande-mdanda"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2022 - 2023) -> Natal Sharks (2023 - 2024) -> Sharks (2024 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "H. Thacker | "
+title: "H. Thacker"
 name_en: "H. Thacker"
 name_ja: ""
 slug: "h.-thacker"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

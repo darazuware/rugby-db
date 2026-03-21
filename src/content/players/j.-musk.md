@@ -1,11 +1,11 @@
 ---
-title: "J. Musk | "
+title: "J. Musk"
 name_en: "J. Musk"
 name_ja: ""
 slug: "j.-musk"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

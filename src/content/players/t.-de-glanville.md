@@ -1,11 +1,11 @@
 ---
-title: "T. de Glanville | "
+title: "T. de Glanville"
 name_en: "T. de Glanville"
 name_ja: ""
 slug: "t.-de-glanville"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

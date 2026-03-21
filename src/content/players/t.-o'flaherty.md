@@ -1,11 +1,11 @@
 ---
-title: "T. O'Flaherty | "
+title: "T. O'Flaherty"
 name_en: "T. O'Flaherty"
 name_ja: ""
 slug: "t.-o'flaherty"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

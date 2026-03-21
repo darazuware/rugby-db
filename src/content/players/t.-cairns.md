@@ -1,11 +1,11 @@
 ---
-title: "T. Cairns | "
+title: "T. Cairns"
 name_en: "T. Cairns"
 name_ja: ""
 slug: "t.-cairns"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

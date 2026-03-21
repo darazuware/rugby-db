@@ -1,11 +1,11 @@
 ---
-title: "T. Lawday | "
+title: "T. Lawday"
 name_en: "T. Lawday"
 name_ja: ""
 slug: "t.-lawday"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

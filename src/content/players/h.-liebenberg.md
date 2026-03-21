@@ -1,11 +1,11 @@
 ---
-title: "H. Liebenberg | "
+title: "H. Liebenberg"
 name_en: "H. Liebenberg"
 name_ja: ""
 slug: "h.-liebenberg"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

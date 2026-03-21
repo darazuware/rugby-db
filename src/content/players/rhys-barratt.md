@@ -1,7 +1,7 @@
 ---
-title: "Rhys BARRATT | リース・バラット"
+title: "Rhys BARRATT | Rhys ・ BARRATT"
 name_en: "Rhys BARRATT"
-name_ja: "リース・バラット"
+name_ja: "Rhys ・ BARRATT"
 slug: "rhys-barratt"
 position: "PR"
 height: "184.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/rhys-barratt"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/rhys-barratt"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2021 - 2026)

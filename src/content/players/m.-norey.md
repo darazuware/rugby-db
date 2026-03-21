@@ -1,11 +1,11 @@
 ---
-title: "M. Norey | "
+title: "M. Norey"
 name_en: "M. Norey"
 name_ja: ""
 slug: "m.-norey"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

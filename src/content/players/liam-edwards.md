@@ -1,7 +1,7 @@
 ---
-title: "Liam EDWARDS | リアム・エドワーズ"
+title: "Liam EDWARDS | リアム ・ EDWARDS"
 name_en: "Liam EDWARDS"
-name_ja: "リアム・エドワーズ"
+name_ja: "リアム ・ EDWARDS"
 slug: "liam-edwards"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/liam-edwards"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2022 - 2026)"
+scraped_url: "https://all.rugby/player/liam-edwards"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2022 - 2026)

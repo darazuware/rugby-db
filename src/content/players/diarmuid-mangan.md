@@ -1,9 +1,9 @@
 ---
-title: "Diarmuid MANGAN | ダーマッド・マンガン"
+title: "Diarmuid MANGAN | Diarmuid ・ MANGAN"
 name_en: "Diarmuid MANGAN"
-name_ja: "ダーマッド・マンガン"
+name_ja: "Diarmuid ・ MANGAN"
 slug: "diarmuid-mangan"
-position: "FL/No8"
+position: "Back row"
 height: "198.0"
 weight: "109.0"
 birth_date: "2003.03.06"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/diarmuid-mangan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "university college dublin (2021 - 2022) -> leinster rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/diarmuid-mangan"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2021 - 2022) -> Leinster Rugby (2022 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Connor EVANS | コナー・エヴァンス"
+title: "Connor EVANS | Connor ・ EVANS"
 name_en: "Connor EVANS"
-name_ja: "コナー・エヴァンス"
+name_ja: "Connor ・ EVANS"
 slug: "connor-evans"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/connor-evans"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2021 - 2026)"
+scraped_url: "https://all.rugby/player/connor-evans"
 ---
 
 ## キャリア遍歴
-
+Stormers (2021 - 2026)

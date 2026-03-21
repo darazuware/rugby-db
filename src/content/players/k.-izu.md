@@ -1,11 +1,11 @@
 ---
-title: "K. Izu | "
+title: "K. Izu"
 name_en: "K. Izu"
 name_ja: ""
 slug: "k.-izu"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

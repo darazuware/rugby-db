@@ -1,11 +1,11 @@
 ---
-title: "J. Woolmore | "
+title: "J. Woolmore"
 name_en: "J. Woolmore"
 name_ja: ""
 slug: "j.-woolmore"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

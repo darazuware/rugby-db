@@ -8,7 +8,7 @@ height: "182.0"
 weight: "93.0"
 birth_date: "2001.03.04"
 age: 25
-country: ""
+country: "Poids"
 birth_place_scraped: ""
 league: "top14"
 team: "リヨン"

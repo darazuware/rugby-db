@@ -1,11 +1,11 @@
 ---
-title: "E. Williams | "
+title: "E. Williams"
 name_en: "E. Williams"
 name_ja: ""
 slug: "e.-williams"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

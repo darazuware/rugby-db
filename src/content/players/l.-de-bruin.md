@@ -1,11 +1,11 @@
 ---
-title: "L. de Bruin | "
+title: "L. de Bruin"
 name_en: "L. de Bruin"
 name_ja: ""
 slug: "l.-de-bruin"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

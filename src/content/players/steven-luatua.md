@@ -1,11 +1,11 @@
 ---
-title: "Steven Luatua | "
+title: "Steven Luatua"
 name_en: "Steven Luatua"
 name_ja: ""
 slug: "steven-luatua"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1991.04.29"
 age: 34
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "K. Cripps | "
+title: "K. Cripps"
 name_en: "K. Cripps"
 name_ja: ""
 slug: "k.-cripps"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

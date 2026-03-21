@@ -11,7 +11,7 @@ age: 26
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Mazda Skyactivs Hiroshima"
+team: "マツダスカイアクティブズ広島（2025-26）"
 caps: ""
 high_school: "京都成章高校"
 university: "京都産業大学"

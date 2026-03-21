@@ -1,11 +1,11 @@
 ---
-title: "P. Brantingham | "
+title: "P. Brantingham"
 name_en: "P. Brantingham"
 name_ja: ""
 slug: "p.-brantingham"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

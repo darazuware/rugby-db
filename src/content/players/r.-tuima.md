@@ -1,11 +1,11 @@
 ---
-title: "R. Tuima | "
+title: "R. Tuima"
 name_en: "R. Tuima"
 name_ja: ""
 slug: "r.-tuima"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

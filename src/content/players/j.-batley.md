@@ -1,11 +1,11 @@
 ---
-title: "J. Batley | "
+title: "J. Batley"
 name_en: "J. Batley"
 name_ja: ""
 slug: "j.-batley"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

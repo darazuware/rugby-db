@@ -1,11 +1,11 @@
 ---
-title: "J. Woodward | "
+title: "J. Woodward"
 name_en: "J. Woodward"
 name_ja: ""
 slug: "j.-woodward"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

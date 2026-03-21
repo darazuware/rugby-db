@@ -1,11 +1,11 @@
 ---
-title: "B. Murphy | "
+title: "B. Murphy"
 name_en: "B. Murphy"
 name_ja: ""
 slug: "b.-murphy"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "J. Bracken | "
+title: "J. Bracken"
 name_en: "J. Bracken"
 name_ja: ""
 slug: "j.-bracken"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

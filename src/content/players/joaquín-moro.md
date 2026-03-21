@@ -1,11 +1,11 @@
 ---
-title: "Joaquín Moro | "
+title: "Joaquín Moro"
 name_en: "Joaquín Moro"
 name_ja: ""
 slug: "joaquín-moro"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2001.01.24"
 age: 25
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Alex GROVES | Alex ・ GROVES"
+title: "Alex GROVES | アレックス・グローヴス"
 name_en: "Alex GROVES"
-name_ja: "Alex ・ GROVES"
+name_ja: "アレックス・グローヴス"
 slug: "alex-groves"
 position: "LO"
 height: "206.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/alex-groves"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/alex-groves"
+scraped_url: "bristol bears (2019 - 2021) -> hartpury rfc (2021 - 2021) -> sale sharks (2021 - 2021) -> bristol bears (2022 - 2022) -> hartpury rfc (2022 - 2022) -> sale sharks (2022 - 2024) -> caldy rfc (2024 - 2024) -> western province (2024 - 2024) -> sale sharks (2025 - 2025) -> caldy rfc (2025 - 2025) -> western province (2025 - 2025) -> scarlets (2025 - 2025) -> stormers (2025 - 2025) -> scarlets (2026 - 2026) -> stormers (2026 - 2026)"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2019 - 2021) -> Hartpury RFC (2021 - 2021) -> Sale Sharks (2021 - 2021) -> Bristol Bears (2022 - 2022) -> Hartpury RFC (2022 - 2022) -> Sale Sharks (2022 - 2024) -> Caldy RFC (2024 - 2024) -> Western Province (2024 - 2024) -> Sale Sharks (2025 - 2025) -> Caldy RFC (2025 - 2025) -> Western Province (2025 - 2025) -> Scarlets (2025 - 2025) -> Stormers (2025 - 2025) -> Scarlets (2026 - 2026) -> Stormers (2026 - 2026)
+

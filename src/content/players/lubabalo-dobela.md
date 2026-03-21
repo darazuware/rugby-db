@@ -1,7 +1,7 @@
 ---
-title: "Lubabalo DOBELA | ルババロ・ドベラ"
+title: "Lubabalo DOBELA | Lubabalo ・ DOBELA"
 name_en: "Lubabalo DOBELA"
-name_ja: "ルババロ・ドベラ"
+name_ja: "Lubabalo ・ DOBELA"
 slug: "lubabalo-dobela"
 position: "SO"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/lubabalo-dobela"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "griquas (2022 - 2024) -> lions rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---
 
 ## キャリア遍歴
-
+Griquas (2022 - 2024) -> Lions Rugby (2024 - 2026)

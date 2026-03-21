@@ -1,11 +1,11 @@
 ---
-title: "O. Usher | "
+title: "O. Usher"
 name_en: "O. Usher"
 name_ja: ""
 slug: "o.-usher"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

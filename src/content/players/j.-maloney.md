@@ -1,11 +1,11 @@
 ---
-title: "J. Maloney | "
+title: "J. Maloney"
 name_en: "J. Maloney"
 name_ja: ""
 slug: "j.-maloney"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

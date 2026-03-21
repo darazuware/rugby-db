@@ -1,7 +1,7 @@
 ---
-title: "Migael PRINSLOO | ミハエル・プリンスルー"
+title: "Migael PRINSLOO | Migael ・ PRINSLOO"
 name_en: "Migael PRINSLOO"
-name_ja: "ミハエル・プリンスルー"
+name_ja: "Migael ・ PRINSLOO"
 slug: "migael-prinsloo"
 position: "SH"
 height: "181.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/migael-prinsloo"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "benetton rugby trévise (2024 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/migael-prinsloo"
 ---
 
 ## キャリア遍歴
-
+Benetton Rugby Trévise (2024 - 2025) -> Zebre Parma (2025 - 2026)

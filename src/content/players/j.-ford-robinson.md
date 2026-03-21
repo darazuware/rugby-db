@@ -1,11 +1,11 @@
 ---
-title: "J. Ford-Robinson | "
+title: "J. Ford-Robinson"
 name_en: "J. Ford-Robinson"
 name_ja: ""
 slug: "j.-ford-robinson"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -11,7 +11,7 @@ age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Kamaishi Seawaves"
+team: "日本製鉄釜石シーウェイブス（2025-26）"
 caps: ""
 high_school: "トンガカレッジ"
 university: "日本文理大学"

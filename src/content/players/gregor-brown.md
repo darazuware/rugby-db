@@ -1,7 +1,7 @@
 ---
-title: "Gregor BROWN | グレガー・ブラウン"
+title: "Gregor BROWN | Gregor ・ BROWN"
 name_en: "Gregor BROWN"
-name_ja: "グレガー・ブラウン"
+name_ja: "Gregor ・ BROWN"
 slug: "gregor-brown"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (4)"
+caps: "Scotland (4)"
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2020 - 2026)"
+scraped_url: "https://all.rugby/player/gregor-brown"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2020 - 2026)

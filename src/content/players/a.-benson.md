@@ -1,11 +1,11 @@
 ---
-title: "A. Benson | "
+title: "A. Benson"
 name_en: "A. Benson"
 name_ja: ""
 slug: "a.-benson"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

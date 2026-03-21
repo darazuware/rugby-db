@@ -1,11 +1,11 @@
 ---
-title: "B. Morrow | "
+title: "B. Morrow"
 name_en: "B. Morrow"
 name_ja: ""
 slug: "b.-morrow"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

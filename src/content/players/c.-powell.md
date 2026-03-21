@@ -1,11 +1,11 @@
 ---
-title: "C. Powell | "
+title: "C. Powell"
 name_en: "C. Powell"
 name_ja: ""
 slug: "c.-powell"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

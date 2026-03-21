@@ -1,9 +1,9 @@
 ---
-title: "Taine BASHAM | Taine ・ BASHAM"
+title: "Taine BASHAM | テイン・バシャム"
 name_en: "Taine BASHAM"
-name_ja: "Taine ・ BASHAM"
+name_ja: "テイン・バシャム"
 slug: "taine-basham"
-position: "Back row"
+position: "FL/No8"
 height: "182.0"
 weight: "100.0"
 birth_date: "1999.11.02"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (16)"
+caps: "Wales (16)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/taine-basham"
+scraped_url: "dragons rfc (2017 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2025) -> Cardiff Rugby (2025 - 2026)
+Wales

@@ -1,11 +1,11 @@
 ---
-title: "T. Litchfield | "
+title: "T. Litchfield"
 name_en: "T. Litchfield"
 name_ja: ""
 slug: "t.-litchfield"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

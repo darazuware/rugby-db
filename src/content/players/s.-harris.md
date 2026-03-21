@@ -1,11 +1,11 @@
 ---
-title: "S. Harris | "
+title: "S. Harris"
 name_en: "S. Harris"
 name_ja: ""
 slug: "s.-harris"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

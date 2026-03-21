@@ -1,11 +1,11 @@
 ---
-title: "E. van Rhyn | "
+title: "E. van Rhyn"
 name_en: "E. van Rhyn"
 name_ja: ""
 slug: "e.-van-rhyn"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,22 +1,22 @@
 ---
-title: "Jack UTTERSON | ジャック・アターソン"
+title: "Jack UTTERSON | ジャック ・ UTTERSON"
 name_en: "Jack UTTERSON"
-name_ja: "ジャック・アターソン"
+name_ja: "ジャック ・ UTTERSON"
 slug: "jack-utterson"
 position: "HO"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2007.."
 age: 19
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/jack-utterson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "kelso rfc (2024 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/jack-utterson"
 ---
 
 ## キャリア遍歴
-
+Kelso RFC (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)

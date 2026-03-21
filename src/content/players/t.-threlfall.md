@@ -1,11 +1,11 @@
 ---
-title: "T. Threlfall | "
+title: "T. Threlfall"
 name_en: "T. Threlfall"
 name_ja: ""
 slug: "t.-threlfall"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

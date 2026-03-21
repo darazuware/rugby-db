@@ -1,11 +1,11 @@
 ---
-title: "J. Pater | "
+title: "J. Pater"
 name_en: "J. Pater"
 name_ja: ""
 slug: "j.-pater"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "Z. Carr | "
+title: "Z. Carr"
 name_en: "Z. Carr"
 name_ja: ""
 slug: "z.-carr"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

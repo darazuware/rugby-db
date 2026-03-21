@@ -1,11 +1,11 @@
 ---
-title: "S. de Chaves | "
+title: "S. de Chaves"
 name_en: "S. de Chaves"
 name_ja: ""
 slug: "s.-de-chaves"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -11,7 +11,7 @@ age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Saitama Panasonic Wild Knights"
+team: "埼玉パナソニックワイルドナイツ（2025-26）"
 caps: ""
 high_school: "ヘイスティングスボーイズ"
 university: "日本文理大学"

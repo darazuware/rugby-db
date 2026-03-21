@@ -1,11 +1,11 @@
 ---
-title: "K. Jenkins | "
+title: "K. Jenkins"
 name_en: "K. Jenkins"
 name_ja: ""
 slug: "k.-jenkins"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

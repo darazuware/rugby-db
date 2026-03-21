@@ -1,7 +1,7 @@
 ---
-title: "James MCCORMICK | ジェームズ-マコーミック"
+title: "James MCCORMICK | ジェームズ ・ MCCORMICK"
 name_en: "James MCCORMICK"
-name_ja: "ジェームズ-マコーミック"
+name_ja: "ジェームズ ・ MCCORMICK"
 slug: "james-mccormick"
 position: "HO"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/james-mccormick"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dalriada school (2019 - 2020) -> ulster rugby (2020 - 2026)"
+scraped_url: "https://all.rugby/player/james-mccormick"
 ---
 
 ## キャリア遍歴
-
+Dalriada School (2019 - 2020) -> Ulster Rugby (2020 - 2026)

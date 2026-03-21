@@ -1,11 +1,11 @@
 ---
-title: "T. Cardall | "
+title: "T. Cardall"
 name_en: "T. Cardall"
 name_ja: ""
 slug: "t.-cardall"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

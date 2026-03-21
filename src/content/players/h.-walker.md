@@ -1,11 +1,11 @@
 ---
-title: "H. Walker | "
+title: "H. Walker"
 name_en: "H. Walker"
 name_ja: ""
 slug: "h.-walker"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

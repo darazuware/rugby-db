@@ -1,11 +1,11 @@
 ---
-title: "T. McElroy | "
+title: "T. McElroy"
 name_en: "T. McElroy"
 name_ja: ""
 slug: "t.-mcelroy"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

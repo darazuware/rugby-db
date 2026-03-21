@@ -1,11 +1,11 @@
 ---
-title: "W. Porter | "
+title: "W. Porter"
 name_en: "W. Porter"
 name_ja: ""
 slug: "w.-porter"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

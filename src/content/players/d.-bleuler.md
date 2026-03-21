@@ -1,11 +1,11 @@
 ---
-title: "D. Bleuler | "
+title: "D. Bleuler"
 name_en: "D. Bleuler"
 name_ja: ""
 slug: "d.-bleuler"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

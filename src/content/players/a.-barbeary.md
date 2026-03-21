@@ -1,11 +1,11 @@
 ---
-title: "A. Barbeary | "
+title: "A. Barbeary"
 name_en: "A. Barbeary"
 name_ja: ""
 slug: "a.-barbeary"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Cormac FOLEY | Cormac ・ FOLEY"
+title: "Cormac FOLEY | コーマック・フォリー"
 name_en: "Cormac FOLEY"
-name_ja: "Cormac ・ FOLEY"
+name_ja: "コーマック・フォリー"
 slug: "cormac-foley"
 position: "SH"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/cormac-foley"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/cormac-foley"
+scraped_url: "leinster rugby (2020 - 2025) -> ospreys (2025 - 2025) -> leinster rugby (2026 - 2026) -> ospreys (2026 - 2026)"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2025) -> Ospreys (2025 - 2025) -> Leinster Rugby (2026 - 2026) -> Ospreys (2026 - 2026)
+

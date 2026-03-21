@@ -1,11 +1,11 @@
 ---
-title: "A. Caqusau | "
+title: "A. Caqusau"
 name_en: "A. Caqusau"
 name_ja: ""
 slug: "a.-caqusau"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

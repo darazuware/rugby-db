@@ -1,7 +1,7 @@
 ---
-title: "Salmaan MOERAT | サルマーン・ムエラット"
+title: "Salmaan MOERAT | Salmaan ・ MOERAT"
 name_en: "Salmaan MOERAT"
-name_ja: "サルマーン・ムエラット"
+name_ja: "Salmaan ・ MOERAT"
 slug: "salmaan-moerat"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/salmaan-moerat"
+caps: "South Africa"
 high_school: ""
 university: ""
-scraped_url: "stormers (2017 - 2026)"
+scraped_url: "https://all.rugby/player/salmaan-moerat"
 ---
 
 ## キャリア遍歴
-South Africa
+Stormers (2017 - 2026)

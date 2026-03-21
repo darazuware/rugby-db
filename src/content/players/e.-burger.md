@@ -1,11 +1,11 @@
 ---
-title: "E. Burger | "
+title: "E. Burger"
 name_en: "E. Burger"
 name_ja: ""
 slug: "e.-burger"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

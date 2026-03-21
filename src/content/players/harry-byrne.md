@@ -1,7 +1,7 @@
 ---
-title: "Harry BYRNE | ハリー-バーン"
+title: "Harry BYRNE | Harry ・ BYRNE"
 name_en: "Harry BYRNE"
-name_ja: "ハリー-バーン"
+name_ja: "Harry ・ BYRNE"
 slug: "harry-byrne"
 position: "SO"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "🇮🇪 Ireland (4)"
+caps: "Ireland (4)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2018 - 2024) -> bristol bears (2024 - 2024) -> leinster rugby (2024 - 2024) -> bristol bears (2024 - 2025) -> leinster rugby (2025 - 2025) -> bristol bears (2025 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/harry-byrne"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2018 - 2024) -> Bristol Bears (2024 - 2024) -> Leinster Rugby (2024 - 2024) -> Bristol Bears (2024 - 2025) -> Leinster Rugby (2025 - 2025) -> Bristol Bears (2025 - 2025) -> Leinster Rugby (2025 - 2026)

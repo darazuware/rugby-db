@@ -1,11 +1,11 @@
 ---
-title: "S. Grahamslaw | "
+title: "S. Grahamslaw"
 name_en: "S. Grahamslaw"
 name_ja: ""
 slug: "s.-grahamslaw"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

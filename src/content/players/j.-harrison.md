@@ -1,11 +1,11 @@
 ---
-title: "J. Harrison | "
+title: "J. Harrison"
 name_en: "J. Harrison"
 name_ja: ""
 slug: "j.-harrison"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

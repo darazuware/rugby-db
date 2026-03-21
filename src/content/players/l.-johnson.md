@@ -1,11 +1,11 @@
 ---
-title: "L. Johnson | "
+title: "L. Johnson"
 name_en: "L. Johnson"
 name_ja: ""
 slug: "l.-johnson"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

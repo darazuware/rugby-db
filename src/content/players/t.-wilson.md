@@ -1,11 +1,11 @@
 ---
-title: "T. Wilson | "
+title: "T. Wilson"
 name_en: "T. Wilson"
 name_ja: ""
 slug: "t.-wilson"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

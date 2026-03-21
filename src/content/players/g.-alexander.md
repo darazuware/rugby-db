@@ -1,11 +1,11 @@
 ---
-title: "G. Alexander | "
+title: "G. Alexander"
 name_en: "G. Alexander"
 name_ja: ""
 slug: "g.-alexander"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

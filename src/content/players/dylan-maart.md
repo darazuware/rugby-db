@@ -1,9 +1,9 @@
 ---
-title: "Dylan MAART | Dylan ・ MAART"
+title: "Dylan MAART | ディラン・マート"
 name_en: "Dylan MAART"
-name_ja: "Dylan ・ MAART"
+name_ja: "ディラン・マート"
 slug: "dylan-maart"
-position: "Winger"
+position: "WTB"
 height: "185.0"
 weight: "77.0"
 birth_date: "1996.09.03"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/dylan-maart"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/dylan-maart"
+scraped_url: "griquas (2023 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Griquas (2023 - 2025) -> Stormers (2025 - 2026)
+

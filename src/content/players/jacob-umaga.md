@@ -1,7 +1,7 @@
 ---
-title: "Jacob UMAGA | ジェイコブ-ウマガ"
+title: "Jacob UMAGA | Jacob ・ UMAGA"
 name_en: "Jacob UMAGA"
-name_ja: "ジェイコブ-ウマガ"
+name_ja: "Jacob ・ UMAGA"
 slug: "jacob-umaga"
 position: "SO"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/jacob-umaga"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "wasps (2017 - 2022) -> benetton rugby trévise (2022 - 2022) -> wasps (2023 - 2023) -> benetton rugby trévise (2023 - 2026)"
+scraped_url: "https://all.rugby/player/jacob-umaga"
 ---
 
 ## キャリア遍歴
-
+Wasps (2017 - 2022) -> Benetton Rugby Trévise (2022 - 2022) -> Wasps (2023 - 2023) -> Benetton Rugby Trévise (2023 - 2026)

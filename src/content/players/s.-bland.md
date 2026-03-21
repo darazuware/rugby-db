@@ -1,11 +1,11 @@
 ---
-title: "S. Bland | "
+title: "S. Bland"
 name_en: "S. Bland"
 name_ja: ""
 slug: "s.-bland"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

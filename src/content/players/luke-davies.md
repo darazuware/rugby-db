@@ -1,7 +1,7 @@
 ---
-title: "Luke DAVIES | ルーク・デイヴィス"
+title: "Luke DAVIES | ルーク ・ DAVIES"
 name_en: "Luke DAVIES"
-name_ja: "ルーク・デイヴィス"
+name_ja: "ルーク ・ DAVIES"
 slug: "luke-davies"
 position: "SH"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/luke-davies"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "scarlets (2021 - 2022) -> jersey reds (2022 - 2023) -> ospreys (2023 - 2026)"
+scraped_url: "https://all.rugby/player/luke-davies"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2021 - 2022) -> Jersey Reds (2022 - 2023) -> Ospreys (2023 - 2026)

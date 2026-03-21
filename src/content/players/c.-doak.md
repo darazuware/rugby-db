@@ -1,11 +1,11 @@
 ---
-title: "C. Doak | "
+title: "C. Doak"
 name_en: "C. Doak"
 name_ja: ""
 slug: "c.-doak"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

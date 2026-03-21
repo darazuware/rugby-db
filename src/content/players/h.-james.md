@@ -1,11 +1,11 @@
 ---
-title: "H. James | "
+title: "H. James"
 name_en: "H. James"
 name_ja: ""
 slug: "h.-james"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

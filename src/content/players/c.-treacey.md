@@ -1,11 +1,11 @@
 ---
-title: "C. Treacey | "
+title: "C. Treacey"
 name_en: "C. Treacey"
 name_ja: ""
 slug: "c.-treacey"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

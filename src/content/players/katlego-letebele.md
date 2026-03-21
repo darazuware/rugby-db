@@ -1,7 +1,7 @@
 ---
-title: "Katlego LETEBELE | カレゴ・レテベレ"
+title: "Katlego LETEBELE | Katlego ・ LETEBELE"
 name_en: "Katlego LETEBELE"
-name_ja: "カレゴ・レテベレ"
+name_ja: "Katlego ・ LETEBELE"
 slug: "katlego-letebele"
 position: "CTB"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/katlego-letebele"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2021 - 2024) -> bulls (2024 - 2026)"
+scraped_url: "https://all.rugby/player/katlego-letebele"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2021 - 2024) -> Bulls (2024 - 2026)

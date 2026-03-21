@@ -1,7 +1,7 @@
 ---
-title: "Heiko POHLMANN | ハイコ・ポールマン"
+title: "Heiko POHLMANN | Heiko ・ POHLMANN"
 name_en: "Heiko POHLMANN"
-name_ja: "ハイコ・ポールマン"
+name_ja: "Heiko ・ POHLMANN"
 slug: "heiko-pohlmann"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/heiko-pohlmann"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2020 - 2021) -> golden lions (2021 - 2024) -> lions rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/heiko-pohlmann"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2020 - 2021) -> Golden Lions (2021 - 2024) -> Lions Rugby (2024 - 2026)

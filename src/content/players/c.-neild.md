@@ -1,11 +1,11 @@
 ---
-title: "C. Neild | "
+title: "C. Neild"
 name_en: "C. Neild"
 name_ja: ""
 slug: "c.-neild"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

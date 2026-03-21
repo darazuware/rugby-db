@@ -1,7 +1,7 @@
 ---
-title: "Oli BURROWS | オリ・バロウズ"
+title: "Oli BURROWS | Oli ・ BURROWS"
 name_en: "Oli BURROWS"
-name_ja: "オリ・バロウズ"
+name_ja: "Oli ・ BURROWS"
 slug: "oli-burrows"
 position: "HO"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/oli-burrows"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "exeter chiefs (2020 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2023 - 2023) -> cornish pirates (2024 - 2024) -> exeter chiefs (2024 - 2024) -> dragons rfc (2024 - 2026)"
+scraped_url: "https://all.rugby/player/oli-burrows"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2020 - 2023) -> Cornish Pirates (2023 - 2023) -> Exeter Chiefs (2023 - 2023) -> Cornish Pirates (2024 - 2024) -> Exeter Chiefs (2024 - 2024) -> Dragons RFC (2024 - 2026)

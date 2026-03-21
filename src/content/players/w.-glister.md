@@ -1,11 +1,11 @@
 ---
-title: "W. Glister | "
+title: "W. Glister"
 name_en: "W. Glister"
 name_ja: ""
 slug: "w.-glister"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

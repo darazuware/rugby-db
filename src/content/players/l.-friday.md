@@ -1,11 +1,11 @@
 ---
-title: "L. Friday | "
+title: "L. Friday"
 name_en: "L. Friday"
 name_ja: ""
 slug: "l.-friday"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

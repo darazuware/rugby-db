@@ -1,11 +1,11 @@
 ---
-title: "J. Clement | "
+title: "J. Clement"
 name_en: "J. Clement"
 name_ja: ""
 slug: "j.-clement"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

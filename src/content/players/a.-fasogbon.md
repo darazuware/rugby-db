@@ -1,11 +1,11 @@
 ---
-title: "A. Fasogbon | "
+title: "A. Fasogbon"
 name_en: "A. Fasogbon"
 name_ja: ""
 slug: "a.-fasogbon"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

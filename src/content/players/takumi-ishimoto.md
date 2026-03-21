@@ -11,7 +11,7 @@ age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Hino Red Dolphins"
+team: "日野レッドドルフィンズ（2025-26）"
 caps: ""
 high_school: "日本体育大学荏原高校"
 university: "東洋大学"

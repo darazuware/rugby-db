@@ -1,11 +1,11 @@
 ---
-title: "A. Boshoff | "
+title: "A. Boshoff"
 name_en: "A. Boshoff"
 name_ja: ""
 slug: "a.-boshoff"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

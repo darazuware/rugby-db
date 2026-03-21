@@ -1,11 +1,11 @@
 ---
-title: "Bachuki Tchumbadze | "
+title: "Bachuki Tchumbadze"
 name_en: "Bachuki Tchumbadze"
 name_ja: ""
 slug: "bachuki-tchumbadze"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2001.11.30"
 age: 24
 country: ""

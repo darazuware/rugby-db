@@ -1,11 +1,11 @@
 ---
-title: "J. Basham | "
+title: "J. Basham"
 name_en: "J. Basham"
 name_ja: ""
 slug: "j.-basham"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "J. Benson | "
+title: "J. Benson"
 name_en: "J. Benson"
 name_ja: ""
 slug: "j.-benson"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

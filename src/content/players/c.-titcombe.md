@@ -1,11 +1,11 @@
 ---
-title: "C. Titcombe | "
+title: "C. Titcombe"
 name_en: "C. Titcombe"
 name_ja: ""
 slug: "c.-titcombe"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

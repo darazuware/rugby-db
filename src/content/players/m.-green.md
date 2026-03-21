@@ -1,11 +1,11 @@
 ---
-title: "M. Green | "
+title: "M. Green"
 name_en: "M. Green"
 name_ja: ""
 slug: "m.-green"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

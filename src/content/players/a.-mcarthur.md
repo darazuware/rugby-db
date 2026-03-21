@@ -1,11 +1,11 @@
 ---
-title: "A. McArthur | "
+title: "A. McArthur"
 name_en: "A. McArthur"
 name_ja: ""
 slug: "a.-mcarthur"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

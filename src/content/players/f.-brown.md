@@ -1,11 +1,11 @@
 ---
-title: "F. Brown | "
+title: "F. Brown"
 name_en: "F. Brown"
 name_ja: ""
 slug: "f.-brown"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

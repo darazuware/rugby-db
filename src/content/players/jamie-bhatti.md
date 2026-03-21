@@ -1,7 +1,7 @@
 ---
-title: "Jamie BHATTI | ジェイミー-バッティ"
+title: "Jamie BHATTI | ジェイミー ・ BHATTI"
 name_en: "Jamie BHATTI"
-name_ja: "ジェイミー-バッティ"
+name_ja: "ジェイミー ・ BHATTI"
 slug: "jamie-bhatti"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (35)"
+caps: "Scotland (35)"
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2016 - 2019) -> edimbourg rugby (2019 - 2020) -> bath rugby (2020 - 2020) -> edimbourg rugby (2021 - 2021) -> bath rugby (2021 - 2021) -> glasgow warriors (2021 - 2026)"
+scraped_url: "https://all.rugby/player/jamie-bhatti"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2016 - 2019) -> Edimbourg Rugby (2019 - 2020) -> Bath Rugby (2020 - 2020) -> Edimbourg Rugby (2021 - 2021) -> Bath Rugby (2021 - 2021) -> Glasgow Warriors (2021 - 2026)

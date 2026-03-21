@@ -1,11 +1,11 @@
 ---
-title: "J. Williams | "
+title: "J. Williams"
 name_en: "J. Williams"
 name_ja: ""
 slug: "j.-williams"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

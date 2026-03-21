@@ -1,11 +1,11 @@
 ---
-title: "J. Benz-Salomon | "
+title: "J. Benz-Salomon"
 name_en: "J. Benz-Salomon"
 name_ja: ""
 slug: "j.-benz-salomon"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

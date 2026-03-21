@@ -1,7 +1,7 @@
 ---
-title: "Billy CORRIGAN | Billy ・ CORRIGAN"
+title: "Billy CORRIGAN | ビリー・コリガン"
 name_en: "Billy CORRIGAN"
-name_ja: "Billy ・ CORRIGAN"
+name_ja: "ビリー・コリガン"
 slug: "billy-corrigan"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/billy-corrigan"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/billy-corrigan"
+scraped_url: "old wesley rfc (2023 - 2025) -> leinster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Old Wesley RFC (2023 - 2025) -> Leinster Rugby (2025 - 2026)
+

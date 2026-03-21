@@ -1,9 +1,9 @@
 ---
-title: "Liam MCCONNELL | リアム・マッコーネル"
+title: "Liam MCCONNELL | リアム ・ MCCONNELL"
 name_en: "Liam MCCONNELL"
-name_ja: "リアム・マッコーネル"
+name_ja: "リアム ・ MCCONNELL"
 slug: "liam-mcconnell"
-position: "FL/No8"
+position: "Back row"
 height: "194.0"
 weight: "106.0"
 birth_date: "2004.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/liam-mcconnell"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "boroughmuir rfc (2021 - 2022) -> edimbourg rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/liam-mcconnell"
 ---
 
 ## キャリア遍歴
-
+Boroughmuir RFC (2021 - 2022) -> Edimbourg Rugby (2022 - 2026)

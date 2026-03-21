@@ -1,11 +1,11 @@
 ---
-title: "J. Elliott | "
+title: "J. Elliott"
 name_en: "J. Elliott"
 name_ja: ""
 slug: "j.-elliott"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

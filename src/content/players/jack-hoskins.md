@@ -1,7 +1,7 @@
 ---
-title: "Jack HOSKINS | ジャック・ホスキンス"
+title: "Jack HOSKINS | ジャック ・ HOSKINS"
 name_en: "Jack HOSKINS"
-name_ja: "ジャック・ホスキンス"
+name_ja: "ジャック ・ HOSKINS"
 slug: "jack-hoskins"
 position: "CTB"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/jack-hoskins"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2025 - 2026)"
+scraped_url: "https://all.rugby/player/jack-hoskins"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2025 - 2026)

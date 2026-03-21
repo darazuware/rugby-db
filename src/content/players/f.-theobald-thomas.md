@@ -1,11 +1,11 @@
 ---
-title: "F. Theobald-Thomas | "
+title: "F. Theobald-Thomas"
 name_en: "F. Theobald-Thomas"
 name_ja: ""
 slug: "f.-theobald-thomas"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

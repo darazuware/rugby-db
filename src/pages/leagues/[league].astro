@@ -7,7 +7,6 @@ export async function getStaticPaths() {
     "top14",
     "premiership",
     "urc",
-    "mlr",
   ];
   return leagues.map((league) => ({
     params: { league },
@@ -25,7 +24,6 @@ const LEAGUE_TITLE_MAP: Record<string, string> = {
   "top14": "TOP 14 選手名鑑",
   "premiership": "PREMIERSHIP 選手名鑑",
   "urc": "URC 選手名鑑",
-  "mlr": "MLR 選手名鑑",
 };
 const title = LEAGUE_TITLE_MAP[league as string] || "ラグビー選手名鑑";
 

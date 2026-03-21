@@ -1,9 +1,9 @@
 ---
-title: "Manuel ZULIANI | マヌエル・ズリアーニ"
+title: "Manuel ZULIANI | Manuel ・ ZULIANI"
 name_en: "Manuel ZULIANI"
-name_ja: "マヌエル・ズリアーニ"
+name_ja: "Manuel ・ ZULIANI"
 slug: "manuel-zuliani"
-position: "FL/No8"
+position: "Back row"
 height: "188.0"
 weight: "111.0"
 birth_date: "2000.04.26"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇮🇹 Italy (28)"
+caps: "Italy (28)"
 high_school: ""
 university: ""
-scraped_url: "rugby calvisano (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> rugby calvisano (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
+scraped_url: "https://all.rugby/player/manuel-zuliani"
 ---
 
 ## キャリア遍歴
-Italy
+Rugby Calvisano (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Rugby Calvisano (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2026)

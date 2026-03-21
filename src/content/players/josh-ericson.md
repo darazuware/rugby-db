@@ -1,22 +1,22 @@
 ---
-title: "Josh ERICSON | ジョシュ・エリクソン"
+title: "Josh ERICSON | ジョシュ ・ ERICSON"
 name_en: "Josh ERICSON"
-name_ja: "ジョシュ・エリクソン"
+name_ja: "ジョシュ ・ ERICSON"
 slug: "josh-ericson"
-position: "FL/No8"
-height: "nan"
-weight: "nan"
+position: "Back row"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/josh-ericson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "old belvedere rc (2024 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/josh-ericson"
 ---
 
 ## キャリア遍歴
-
+Old Belvedere RC (2024 - 2025) -> Leinster Rugby (2025 - 2026)

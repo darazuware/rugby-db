@@ -1,7 +1,7 @@
 ---
-title: "Kienan HIGGINS | キーナン・ヒギンス"
+title: "Kienan HIGGINS | Kienan ・ HIGGINS"
 name_en: "Kienan HIGGINS"
-name_ja: "キーナン・ヒギンス"
+name_ja: "Kienan ・ HIGGINS"
 slug: "kienan-higgins"
 position: "CTB"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/kienan-higgins"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "hawke's bay magpies (2020 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/kienan-higgins"
 ---
 
 ## キャリア遍歴
-
+Hawke's Bay Magpies (2020 - 2025) -> Edimbourg Rugby (2025 - 2026)

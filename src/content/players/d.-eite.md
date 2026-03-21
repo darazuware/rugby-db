@@ -1,11 +1,11 @@
 ---
-title: "D. Eite | "
+title: "D. Eite"
 name_en: "D. Eite"
 name_ja: ""
 slug: "d.-eite"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

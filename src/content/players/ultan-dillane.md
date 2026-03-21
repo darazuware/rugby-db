@@ -8,7 +8,7 @@ height: "198.0"
 weight: "115.0"
 birth_date: "1993.11.09"
 age: 32
-country: ""
+country: "Franco"
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"

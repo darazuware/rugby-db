@@ -1,11 +1,11 @@
 ---
-title: "T. Onasanya | "
+title: "T. Onasanya"
 name_en: "T. Onasanya"
 name_ja: ""
 slug: "t.-onasanya"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

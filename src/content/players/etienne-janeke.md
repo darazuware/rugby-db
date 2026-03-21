@@ -1,7 +1,7 @@
 ---
-title: "Etienne JANEKE | エティエンヌ・イェネケ"
+title: "Etienne JANEKE | Etienne ・ JANEKE"
 name_en: "Etienne JANEKE"
-name_ja: "エティエンヌ・イェネケ"
+name_ja: "Etienne ・ JANEKE"
 slug: "etienne-janeke"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/etienne-janeke"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "pumas (2020 - 2025) -> bulls (2025 - 2026)"
+scraped_url: "https://all.rugby/player/etienne-janeke"
 ---
 
 ## キャリア遍歴
-
+Pumas (2020 - 2025) -> Bulls (2025 - 2026)

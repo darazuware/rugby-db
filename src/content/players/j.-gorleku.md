@@ -1,11 +1,11 @@
 ---
-title: "J. Gorleku | "
+title: "J. Gorleku"
 name_en: "J. Gorleku"
 name_ja: ""
 slug: "j.-gorleku"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Mosese TUIPULOTU | モセセ・ツイプロトゥ"
+title: "Mosese TUIPULOTU | Mosese ・ TUIPULOTU"
 name_en: "Mosese TUIPULOTU"
-name_ja: "モセセ・ツイプロトゥ"
+name_ja: "Mosese ・ TUIPULOTU"
 slug: "mosese-tuipulotu"
 position: "CTB"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/mosese-tuipulotu"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "eastern suburbs rfc (2020 - 2022) -> new south wales waratahs (2022 - 2024) -> edimbourg rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/mosese-tuipulotu"
 ---
 
 ## キャリア遍歴
-
+Eastern Suburbs RFC (2020 - 2022) -> New South Wales Waratahs (2022 - 2024) -> Edimbourg Rugby (2024 - 2026)

@@ -8,7 +8,7 @@ height: "180.0"
 weight: "85.0"
 birth_date: "1998.08.25"
 age: 27
-country: ""
+country: "French"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

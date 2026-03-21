@@ -1,7 +1,7 @@
 ---
-title: "Iori BADHAM | イオリ・バダム"
+title: "Iori BADHAM | Iori ・ BADHAM"
 name_en: "Iori BADHAM"
-name_ja: "イオリ・バダム"
+name_ja: "Iori ・ BADHAM"
 slug: "iori-badham"
 position: "FB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/iori-badham"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "scarlets (2023 - 2026)"
+scraped_url: "https://all.rugby/player/iori-badham"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2023 - 2026)

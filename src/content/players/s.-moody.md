@@ -1,11 +1,11 @@
 ---
-title: "S. Moody | "
+title: "S. Moody"
 name_en: "S. Moody"
 name_ja: ""
 slug: "s.-moody"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

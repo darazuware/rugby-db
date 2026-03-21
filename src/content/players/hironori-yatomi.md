@@ -11,7 +11,7 @@ age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Shizuoka Blue Revs"
+team: "静岡ブルーレヴズ（2025-26）"
 caps: "セブンズ日本(3)"
 high_school: "仙台育英高校"
 university: "帝京大学"

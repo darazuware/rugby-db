@@ -1,7 +1,7 @@
 ---
-title: "Ollie BLYTH-LAFFERTY | オリー・ブライス＝ラファーティ"
+title: "Ollie BLYTH-LAFFERTY | Ollie ・ BLYTH ・ LAFFERTY"
 name_en: "Ollie BLYTH-LAFFERTY"
-name_ja: "オリー・ブライス＝ラファーティ"
+name_ja: "Ollie ・ BLYTH ・ LAFFERTY"
 slug: "ollie-blyth-lafferty"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/ollie-blyth-lafferty"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "boroughmuir rfc (2022 - 2023) -> edimbourg rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/ollie-blyth-lafferty"
 ---
 
 ## キャリア遍歴
-
+Boroughmuir RFC (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "R. Ma'asi-White | "
+title: "R. Ma'asi-White"
 name_en: "R. Ma'asi-White"
 name_ja: ""
 slug: "r.-ma'asi-white"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

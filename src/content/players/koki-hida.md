@@ -11,7 +11,7 @@ age: 25
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Mie Honda Heat"
+team: "三重ホンダヒート（2025-26）"
 caps: ""
 high_school: "中部大春日丘高校"
 university: "筑波大学"

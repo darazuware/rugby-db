@@ -1,11 +1,11 @@
 ---
-title: "E. Clarke | "
+title: "E. Clarke"
 name_en: "E. Clarke"
 name_ja: ""
 slug: "e.-clarke"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

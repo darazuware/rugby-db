@@ -1,11 +1,11 @@
 ---
-title: "E. Caven | "
+title: "E. Caven"
 name_en: "E. Caven"
 name_ja: ""
 slug: "e.-caven"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Malakai FEKITOA | マラカイ・フェキトア"
+title: "Malakai FEKITOA | Malakai ・ FEKITOA"
 name_en: "Malakai FEKITOA"
-name_ja: "マラカイ・フェキトア"
+name_ja: "Malakai ・ FEKITOA"
 slug: "malakai-fekitoa"
 position: "CTB"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇹🇴 Tonga (8)"
+caps: "Tonga (8)"
 high_school: ""
 university: ""
-scraped_url: "highlanders (2013 - 2017) -> rugby club toulonnais (2017 - 2019) -> wasps (2019 - 2022) -> munster rugby (2022 - 2023) -> benetton rugby trévise (2023 - 2026)"
+scraped_url: "https://all.rugby/player/malakai-fekitoa"
 ---
 
 ## キャリア遍歴
-Tonga
+Highlanders (2013 - 2017) -> Rugby Club Toulonnais (2017 - 2019) -> Wasps (2019 - 2022) -> Munster Rugby (2022 - 2023) -> Benetton Rugby Trévise (2023 - 2026)

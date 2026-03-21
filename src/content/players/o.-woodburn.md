@@ -1,11 +1,11 @@
 ---
-title: "O. Woodburn | "
+title: "O. Woodburn"
 name_en: "O. Woodburn"
 name_ja: ""
 slug: "o.-woodburn"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

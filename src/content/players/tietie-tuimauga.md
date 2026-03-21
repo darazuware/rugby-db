@@ -1,11 +1,11 @@
 ---
-title: "Tietie Tuimauga | "
+title: "Tietie Tuimauga"
 name_en: "Tietie Tuimauga"
 name_ja: ""
 slug: "tietie-tuimauga"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1993.08.05"
 age: 32
 country: ""

@@ -1,22 +1,22 @@
 ---
-title: "Luke MURPHY | ルーク・マーフィー"
+title: "Luke MURPHY | ルーク ・ MURPHY"
 name_en: "Luke MURPHY"
-name_ja: "ルーク・マーフィー"
+name_ja: "ルーク ・ MURPHY"
 slug: "luke-murphy"
-position: "FL/No8"
-height: "nan"
-weight: "nan"
+position: "Back row"
+height: ""
+weight: ""
 birth_date: "2005.."
 age: 21
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/luke-murphy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "shannon rfc (2023 - 2024) -> munster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/luke-murphy"
 ---
 
 ## キャリア遍歴
-
+Shannon RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)

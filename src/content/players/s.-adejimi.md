@@ -1,11 +1,11 @@
 ---
-title: "S. Adejimi | "
+title: "S. Adejimi"
 name_en: "S. Adejimi"
 name_ja: ""
 slug: "s.-adejimi"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

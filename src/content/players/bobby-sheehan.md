@@ -1,7 +1,7 @@
 ---
-title: "Bobby SHEEHAN | ボビー・シーハン"
+title: "Bobby SHEEHAN | Bobby ・ SHEEHAN"
 name_en: "Bobby SHEEHAN"
-name_ja: "ボビー・シーハン"
+name_ja: "Bobby ・ SHEEHAN"
 slug: "bobby-sheehan"
 position: "HO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/bobby-sheehan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "university college dublin (2021 - 2025) -> leinster rugby (2025 - 2025) -> lansdowne fc (2025 - 2025) -> leinster rugby (2026 - 2026) -> lansdowne fc (2026 - 2026)"
+scraped_url: "https://all.rugby/player/bobby-sheehan"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2021 - 2025) -> Leinster Rugby (2025 - 2025) -> Lansdowne FC (2025 - 2025) -> Leinster Rugby (2026 - 2026) -> Lansdowne FC (2026 - 2026)

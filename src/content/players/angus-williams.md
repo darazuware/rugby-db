@@ -1,7 +1,7 @@
 ---
-title: "Angus WILLIAMS | Angus ・ ウィリアムズ"
+title: "Angus WILLIAMS | アンガス・ウィリアムズ"
 name_en: "Angus WILLIAMS"
-name_ja: "Angus ・ ウィリアムズ"
+name_ja: "アンガス・ウィリアムズ"
 slug: "angus-williams"
 position: "PR"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: ""
+caps: "https://all.rugby/player/angus-williams"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/angus-williams"
+scraped_url: "otago (2018 - 2019) -> edimbourg rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Otago (2018 - 2019) -> Edimbourg Rugby (2020 - 2026)
+

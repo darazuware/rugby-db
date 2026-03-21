@@ -1,11 +1,11 @@
 ---
-title: "Olly Cracknell | "
+title: "Olly Cracknell"
 name_en: "Olly Cracknell"
 name_ja: ""
 slug: "olly-cracknell"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1994.05.26"
 age: 31
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "N. Allison | "
+title: "N. Allison"
 name_en: "N. Allison"
 name_ja: ""
 slug: "n.-allison"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

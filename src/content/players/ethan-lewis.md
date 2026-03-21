@@ -1,7 +1,7 @@
 ---
-title: "Ethan LEWIS | イーサン・ルイス"
+title: "Ethan LEWIS | Ethan ・ LEWIS"
 name_en: "Ethan LEWIS"
-name_ja: "イーサン・ルイス"
+name_ja: "Ethan ・ LEWIS"
 slug: "ethan-lewis"
 position: "HO"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/ethan-lewis"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2015 - 2020) -> saracens (2020 - 2020) -> cardiff rugby (2021 - 2021) -> saracens (2021 - 2023) -> ospreys (2023 - 2025) -> cardiff rugby (2025 - 2025) -> ospreys (2026 - 2026) -> cardiff rugby (2026 - 2026)"
+scraped_url: "https://all.rugby/player/ethan-lewis"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2015 - 2020) -> Saracens (2020 - 2020) -> Cardiff Rugby (2021 - 2021) -> Saracens (2021 - 2023) -> Ospreys (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Ospreys (2026 - 2026) -> Cardiff Rugby (2026 - 2026)

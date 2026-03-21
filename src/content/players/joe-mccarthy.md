@@ -1,7 +1,7 @@
 ---
-title: "Joe MCCARTHY | ジョー・マッカーシー"
+title: "Joe MCCARTHY | Joe ・ MCCARTHY"
 name_en: "Joe MCCARTHY"
-name_ja: "ジョー・マッカーシー"
+name_ja: "Joe ・ MCCARTHY"
 slug: "joe-mccarthy"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "🇮🇪 Ireland (19)"
+caps: "Ireland (19)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/joe-mccarthy"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2026)

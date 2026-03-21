@@ -1,11 +1,11 @@
 ---
-title: "Matias Moroni | "
+title: "Matias Moroni"
 name_en: "Matias Moroni"
 name_ja: ""
 slug: "matias-moroni"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1991.03.29"
 age: 34
 country: ""

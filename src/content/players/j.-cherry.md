@@ -1,11 +1,11 @@
 ---
-title: "J. Cherry | "
+title: "J. Cherry"
 name_en: "J. Cherry"
 name_ja: ""
 slug: "j.-cherry"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

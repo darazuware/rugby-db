@@ -1,11 +1,11 @@
 ---
-title: "L. Chawatama | "
+title: "L. Chawatama"
 name_en: "L. Chawatama"
 name_ja: ""
 slug: "l.-chawatama"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

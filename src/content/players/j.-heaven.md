@@ -1,11 +1,11 @@
 ---
-title: "J. Heaven | "
+title: "J. Heaven"
 name_en: "J. Heaven"
 name_ja: ""
 slug: "j.-heaven"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

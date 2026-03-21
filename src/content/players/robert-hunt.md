@@ -1,7 +1,7 @@
 ---
-title: "Robert HUNT | ロバート・ハント"
+title: "Robert HUNT | ロバート ・ HUNT"
 name_en: "Robert HUNT"
-name_ja: "ロバート・ハント"
+name_ja: "ロバート ・ HUNT"
 slug: "robert-hunt"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/robert-hunt"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leopards (2016 - 2019) -> bulls (2021 - 2024) -> central cheetahs (2024 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/robert-hunt"
 ---
 
 ## キャリア遍歴
-
+Leopards (2016 - 2019) -> Bulls (2021 - 2024) -> Central Cheetahs (2024 - 2025) -> Dragons RFC (2025 - 2026)

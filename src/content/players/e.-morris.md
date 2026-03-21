@@ -1,11 +1,11 @@
 ---
-title: "E. Morris | "
+title: "E. Morris"
 name_en: "E. Morris"
 name_ja: ""
 slug: "e.-morris"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

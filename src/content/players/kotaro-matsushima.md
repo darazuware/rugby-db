@@ -11,7 +11,7 @@ age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Tokyo Suntory Sungoliath"
+team: "東京サントリーサンゴリアス（2025-26）"
 caps: "高校('09)、日本代表(55)"
 high_school: "桐蔭学園高校"
 university: ""

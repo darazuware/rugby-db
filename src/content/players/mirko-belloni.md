@@ -1,7 +1,7 @@
 ---
-title: "Mirko BELLONI | ミルコ・ベローニ"
+title: "Mirko BELLONI | Mirko ・ BELLONI"
 name_en: "Mirko BELLONI"
-name_ja: "ミルコ・ベローニ"
+name_ja: "Mirko ・ BELLONI"
 slug: "mirko-belloni"
 position: "FB"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/mirko-belloni"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "verona rugby (2022 - 2024) -> rugby rovigo delta (2024 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/mirko-belloni"
 ---
 
 ## キャリア遍歴
-
+Verona Rugby (2022 - 2024) -> Rugby Rovigo Delta (2024 - 2025) -> Zebre Parma (2025 - 2026)

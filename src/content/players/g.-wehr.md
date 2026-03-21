@@ -1,11 +1,11 @@
 ---
-title: "G. Wehr | "
+title: "G. Wehr"
 name_en: "G. Wehr"
 name_ja: ""
 slug: "g.-wehr"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

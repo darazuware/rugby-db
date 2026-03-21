@@ -1,11 +1,11 @@
 ---
-title: "E. Opoku Gyamfi | "
+title: "E. Opoku Gyamfi"
 name_en: "E. Opoku Gyamfi"
 name_ja: ""
 slug: "e.-opoku-gyamfi"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Nathan MCBETH | ネイサン・マクベス"
+title: "Nathan MCBETH | Nathan ・ MCBETH"
 name_en: "Nathan MCBETH"
-name_ja: "ネイサン・マクベス"
+name_ja: "Nathan ・ MCBETH"
 slug: "nathan-mcbeth"
 position: "PR"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2018 - 2020) -> golden lions (2020 - 2020) -> lions rugby (2021 - 2021) -> golden lions (2021 - 2021) -> glasgow warriors (2021 - 2026)"
+scraped_url: "https://all.rugby/player/nathan-mcbeth"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2020) -> Golden Lions (2020 - 2020) -> Lions Rugby (2021 - 2021) -> Golden Lions (2021 - 2021) -> Glasgow Warriors (2021 - 2026)

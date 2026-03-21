@@ -1,11 +1,11 @@
 ---
-title: "T. Raymont | "
+title: "T. Raymont"
 name_en: "T. Raymont"
 name_ja: ""
 slug: "t.-raymont"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "M. Street | "
+title: "M. Street"
 name_en: "M. Street"
 name_ja: ""
 slug: "m.-street"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

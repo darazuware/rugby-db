@@ -5,7 +5,7 @@ name_ja: "Dylan ・ ALFORD"
 slug: "dylan-alford"
 position: "LO"
 height: "198.0"
-weight: "nan"
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

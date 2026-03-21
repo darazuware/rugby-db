@@ -1,7 +1,7 @@
 ---
-title: "Jean KLEYN | ジャン-クライン"
+title: "Jean KLEYN | Jean ・ KLEYN"
 name_en: "Jean KLEYN"
-name_ja: "ジャン-クライン"
+name_ja: "Jean ・ KLEYN"
 slug: "jean-kleyn"
 position: "LO"
 height: "202.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "Squad caps (1369)"
 high_school: ""
 university: ""
-scraped_url: "stormers (2013 - 2016) -> munster rugby (2016 - 2026)"
+scraped_url: "https://all.rugby/player/jean-kleyn"
 ---
 
 ## キャリア遍歴
-South Africa
+Stormers (2013 - 2016) -> Munster Rugby (2016 - 2026)

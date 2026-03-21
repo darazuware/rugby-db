@@ -1,22 +1,22 @@
 ---
-title: "Emmett CALVEY | エメット・カルヴェイ"
+title: "Emmett CALVEY | Emmett ・ CALVEY"
 name_en: "Emmett CALVEY"
-name_ja: "エメット・カルヴェイ"
+name_ja: "Emmett ・ CALVEY"
 slug: "emmett-calvey"
 position: "PR"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2005.."
 age: 21
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/emmett-calvey"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "shannon rfc (2023 - 2025) -> munster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/emmett-calvey"
 ---
 
 ## キャリア遍歴
-
+Shannon RFC (2023 - 2025) -> Munster Rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Rob CARMICHAEL | ロブ・カーマイケル"
+title: "Rob CARMICHAEL | Rob ・ CARMICHAEL"
 name_en: "Rob CARMICHAEL"
-name_ja: "ロブ・カーマイケル"
+name_ja: "Rob ・ CARMICHAEL"
 slug: "rob-carmichael"
 position: "LO"
 height: "210.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/rob-carmichael"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leicester tigers (2022 - 2023) -> edimbourg rugby (2023 - 2023) -> leicester tigers (2024 - 2024) -> edimbourg rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/rob-carmichael"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2022 - 2023) -> Edimbourg Rugby (2023 - 2023) -> Leicester Tigers (2024 - 2024) -> Edimbourg Rugby (2024 - 2026)

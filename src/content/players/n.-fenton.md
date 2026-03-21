@@ -1,11 +1,11 @@
 ---
-title: "N. Fenton | "
+title: "N. Fenton"
 name_en: "N. Fenton"
 name_ja: ""
 slug: "n.-fenton"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

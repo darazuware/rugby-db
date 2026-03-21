@@ -1,11 +1,11 @@
 ---
-title: "AJ MacGinty | "
+title: "AJ MacGinty"
 name_en: "AJ MacGinty"
 name_ja: ""
 slug: "aj-macginty"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1990.02.26"
 age: 36
 country: ""

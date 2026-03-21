@@ -1,11 +1,11 @@
 ---
-title: "F. Harding | "
+title: "F. Harding"
 name_en: "F. Harding"
 name_ja: ""
 slug: "f.-harding"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

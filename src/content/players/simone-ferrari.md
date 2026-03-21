@@ -1,7 +1,7 @@
 ---
-title: "Simone FERRARI | Simone ・ FERRARI"
+title: "Simone FERRARI | シモーネ・フェッラーリ"
 name_en: "Simone FERRARI"
-name_ja: "Simone ・ FERRARI"
+name_ja: "シモーネ・フェッラーリ"
 slug: "simone-ferrari"
 position: "PR"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇮🇹 Italy (60)"
+caps: "Italy (60)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/simone-ferrari"
+scraped_url: "mogliano veneto rugby (2013 - 2014) -> benetton rugby trévise (2015 - 2026)"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2013 - 2014) -> Benetton Rugby Trévise (2015 - 2026)
+Italy

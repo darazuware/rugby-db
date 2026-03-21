@@ -1,11 +1,11 @@
 ---
-title: "R. Palframan | "
+title: "R. Palframan"
 name_en: "R. Palframan"
 name_ja: ""
 slug: "r.-palframan"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "J. Iosefa-Scott | "
+title: "J. Iosefa-Scott"
 name_en: "J. Iosefa-Scott"
 name_ja: ""
 slug: "j.-iosefa-scott"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

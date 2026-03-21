@@ -1,11 +1,11 @@
 ---
-title: "Ollie Thorley | "
+title: "Ollie Thorley"
 name_en: "Ollie Thorley"
 name_ja: ""
 slug: "ollie-thorley"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1996.09.11"
 age: 29
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "O. Davies | "
+title: "O. Davies"
 name_en: "O. Davies"
 name_ja: ""
 slug: "o.-davies"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

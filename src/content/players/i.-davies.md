@@ -1,11 +1,11 @@
 ---
-title: "I. Davies | "
+title: "I. Davies"
 name_en: "I. Davies"
 name_ja: ""
 slug: "i.-davies"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

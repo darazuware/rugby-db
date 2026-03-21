@@ -1,7 +1,7 @@
 ---
-title: "Alulutho TSHAKWENI | Alulutho ・ TSHAKWENI"
+title: "Alulutho TSHAKWENI | アルルート・チャクウェニ"
 name_en: "Alulutho TSHAKWENI"
-name_ja: "Alulutho ・ TSHAKWENI"
+name_ja: "アルルート・チャクウェニ"
 slug: "alulutho-tshakweni"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/alulutho-tshakweni"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/alulutho-tshakweni"
+scraped_url: "southern kings (2018 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2024) -> bulls (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Southern Kings (2018 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2024) -> Bulls (2024 - 2026)
+

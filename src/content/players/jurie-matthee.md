@@ -1,7 +1,7 @@
 ---
-title: "Jurie MATTHEE | ユーリー・マティー"
+title: "Jurie MATTHEE | Jurie ・ MATTHEE"
 name_en: "Jurie MATTHEE"
-name_ja: "ユーリー・マティー"
+name_ja: "Jurie ・ MATTHEE"
 slug: "jurie-matthee"
 position: "SO"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/jurie-matthee"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2022 - 2023) -> stormers (2023 - 2026)"
+scraped_url: "https://all.rugby/player/jurie-matthee"
 ---
 
 ## キャリア遍歴
-
+Western Province (2022 - 2023) -> Stormers (2023 - 2026)

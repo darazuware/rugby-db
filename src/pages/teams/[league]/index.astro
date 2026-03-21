@@ -26,7 +26,6 @@ export async function getStaticPaths() {
         },
         { params: { league: "top14" }, props: { leagueName: "Top 14" } },
         { params: { league: "urc" }, props: { leagueName: "URC" } },
-        { params: { league: "mlr" }, props: { leagueName: "MLR" } },
     ];
 }
 
@@ -135,8 +134,7 @@ const leagueNameMap: Record<string, { en: string; jp: string }> = {
     "league-one": { en: "LEAGUE ONE", jp: "リーグワン" },
     "super-rugby": { en: "SUPER RUGBY", jp: "スーパーラグビー" },
     "top14": { en: "TOP 14", jp: "トップ14" },
-    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" },
-    "mlr": { en: "MLR", jp: "メジャーリーグ・ラグビー" }
+    "urc": { en: "URC", jp: "ユナイテッド・ラグビー・チャンピオンシップ" }
 };
 const currentNames = leagueNameMap[league || ""] || { en: leagueTitle, jp: safeLeagueName };
 

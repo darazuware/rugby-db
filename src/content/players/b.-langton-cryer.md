@@ -1,11 +1,11 @@
 ---
-title: "B. Langton-Cryer | "
+title: "B. Langton-Cryer"
 name_en: "B. Langton-Cryer"
 name_ja: ""
 slug: "b.-langton-cryer"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

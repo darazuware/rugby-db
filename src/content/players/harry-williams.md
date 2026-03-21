@@ -1,11 +1,11 @@
 ---
-title: "Harry Williams | "
+title: "Harry Williams"
 name_en: "Harry Williams"
 name_ja: ""
 slug: "harry-williams"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1991.10.01"
 age: 34
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Ruhan NEL | ルハン・ネル"
+title: "Ruhan NEL | Ruhan ・ NEL"
 name_en: "Ruhan NEL"
-name_ja: "ルハン・ネル"
+name_ja: "Ruhan ・ NEL"
 slug: "ruhan-nel"
 position: "CTB"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/ruhan-nel"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2018 - 2026)"
+scraped_url: "https://all.rugby/player/ruhan-nel"
 ---
 
 ## キャリア遍歴
-
+Stormers (2018 - 2026)

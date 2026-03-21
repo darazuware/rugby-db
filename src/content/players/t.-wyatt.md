@@ -1,11 +1,11 @@
 ---
-title: "T. Wyatt | "
+title: "T. Wyatt"
 name_en: "T. Wyatt"
 name_ja: ""
 slug: "t.-wyatt"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

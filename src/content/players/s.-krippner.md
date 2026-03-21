@@ -1,11 +1,11 @@
 ---
-title: "S. Krippner | "
+title: "S. Krippner"
 name_en: "S. Krippner"
 name_ja: ""
 slug: "s.-krippner"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

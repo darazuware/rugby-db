@@ -1,11 +1,11 @@
 ---
-title: "G. Dufty | "
+title: "G. Dufty"
 name_en: "G. Dufty"
 name_ja: ""
 slug: "g.-dufty"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "G. Kloska | "
+title: "G. Kloska"
 name_en: "G. Kloska"
 name_ja: ""
 slug: "g.-kloska"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

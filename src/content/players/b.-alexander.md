@@ -1,11 +1,11 @@
 ---
-title: "B. Alexander | "
+title: "B. Alexander"
 name_en: "B. Alexander"
 name_ja: ""
 slug: "b.-alexander"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

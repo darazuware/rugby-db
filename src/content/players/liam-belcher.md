@@ -1,7 +1,7 @@
 ---
-title: "Liam BELCHER | リアム・ベルチャー"
+title: "Liam BELCHER | リアム ・ BELCHER"
 name_en: "Liam BELCHER"
-name_ja: "リアム・ベルチャー"
+name_ja: "リアム ・ BELCHER"
 slug: "liam-belcher"
 position: "HO"
 height: "177.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/liam-belcher"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2015 - 2016) -> dragons rfc (2017 - 2018) -> cardiff rugby (2018 - 2026)"
+scraped_url: "https://all.rugby/player/liam-belcher"
 ---
 
 ## キャリア遍歴
-
+Cardiff Rugby (2015 - 2016) -> Dragons RFC (2017 - 2018) -> Cardiff Rugby (2018 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "A. Longstaff | "
+title: "A. Longstaff"
 name_en: "A. Longstaff"
 name_ja: ""
 slug: "a.-longstaff"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "S. Kerrod | "
+title: "S. Kerrod"
 name_en: "S. Kerrod"
 name_ja: ""
 slug: "s.-kerrod"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

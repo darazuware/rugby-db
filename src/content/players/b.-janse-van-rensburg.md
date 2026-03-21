@@ -1,11 +1,11 @@
 ---
-title: "B. Janse van Rensburg | "
+title: "B. Janse van Rensburg"
 name_en: "B. Janse van Rensburg"
 name_ja: ""
 slug: "b.-janse-van-rensburg"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

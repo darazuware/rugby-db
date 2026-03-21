@@ -1,11 +1,11 @@
 ---
-title: "K. Gentry | "
+title: "K. Gentry"
 name_en: "K. Gentry"
 name_ja: ""
 slug: "k.-gentry"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

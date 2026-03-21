@@ -1,11 +1,11 @@
 ---
-title: "C. Munga | "
+title: "C. Munga"
 name_en: "C. Munga"
 name_ja: ""
 slug: "c.-munga"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Josh MCNALLY | ジョシュ・マクナリー"
+title: "Josh MCNALLY | ジョシュ ・ MCNALLY"
 name_en: "Josh MCNALLY"
-name_ja: "ジョシュ・マクナリー"
+name_ja: "ジョシュ ・ MCNALLY"
 slug: "josh-mcnally"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/josh-mcnally"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "london welsh rfc (2014 - 2015) -> london irish (2017 - 2019) -> bath rugby (2019 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/josh-mcnally"
 ---
 
 ## キャリア遍歴
-
+London Welsh RFC (2014 - 2015) -> London Irish (2017 - 2019) -> Bath Rugby (2019 - 2024) -> Cardiff Rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Muhamed HASA | ムハメド・ハサ"
+title: "Muhamed HASA | Muhamed ・ HASA"
 name_en: "Muhamed HASA"
-name_ja: "ムハメド・ハサ"
+name_ja: "Muhamed ・ HASA"
 slug: "muhamed-hasa"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/muhamed-hasa"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "petrarca rugby (2020 - 2022) -> zebre parma (2022 - 2026)"
+scraped_url: "https://all.rugby/player/muhamed-hasa"
 ---
 
 ## キャリア遍歴
-
+Petrarca Rugby (2020 - 2022) -> Zebre Parma (2022 - 2026)

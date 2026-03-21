@@ -1,11 +1,11 @@
 ---
-title: "R. Price | "
+title: "R. Price"
 name_en: "R. Price"
 name_ja: ""
 slug: "r.-price"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

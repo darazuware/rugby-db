@@ -10,7 +10,7 @@ birth_date: "2003.05.05"
 age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: ""
 high_school: ""

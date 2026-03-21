@@ -1,11 +1,11 @@
 ---
-title: "F. McMillan | "
+title: "F. McMillan"
 name_en: "F. McMillan"
 name_ja: ""
 slug: "f.-mcmillan"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

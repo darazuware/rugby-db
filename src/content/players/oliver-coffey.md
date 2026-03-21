@@ -1,7 +1,7 @@
 ---
-title: "Oliver COFFEY | オリヴァー・コフィー"
+title: "Oliver COFFEY | Oliver ・ COFFEY"
 name_en: "Oliver COFFEY"
-name_ja: "オリヴァー・コフィー"
+name_ja: "Oliver ・ COFFEY"
 slug: "oliver-coffey"
 position: "SH"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/oliver-coffey"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blackrock college rfc (2023 - 2024) -> leinster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/oliver-coffey"
 ---
 
 ## キャリア遍歴
-
+Blackrock College RFC (2023 - 2024) -> Leinster Rugby (2024 - 2026)

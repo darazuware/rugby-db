@@ -1,11 +1,11 @@
 ---
-title: "C. Donoghue | "
+title: "C. Donoghue"
 name_en: "C. Donoghue"
 name_ja: ""
 slug: "c.-donoghue"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

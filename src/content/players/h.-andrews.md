@@ -1,11 +1,11 @@
 ---
-title: "H. Andrews | "
+title: "H. Andrews"
 name_en: "H. Andrews"
 name_ja: ""
 slug: "h.-andrews"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

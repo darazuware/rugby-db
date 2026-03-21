@@ -11,7 +11,7 @@ age: 26
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Secom Rugguts"
+team: "狭山セコムラガッツ（2025-26）"
 caps: ""
 high_school: "日川高校"
 university: "日本大学"

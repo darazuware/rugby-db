@@ -1,11 +1,11 @@
 ---
-title: "W. Ramply | "
+title: "W. Ramply"
 name_en: "W. Ramply"
 name_ja: ""
 slug: "w.-ramply"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

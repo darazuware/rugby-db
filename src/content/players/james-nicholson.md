@@ -1,7 +1,7 @@
 ---
-title: "James NICHOLSON | ジェームズ-ニコルソン"
+title: "James NICHOLSON | ジェームズ ・ NICHOLSON"
 name_en: "James NICHOLSON"
-name_ja: "ジェームズ-ニコルソン"
+name_ja: "ジェームズ ・ NICHOLSON"
 slug: "james-nicholson"
 position: "FB"
 height: "192.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/james-nicholson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2022 - 2023) -> connacht rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/james-nicholson"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2022 - 2023) -> Connacht Rugby (2023 - 2026)

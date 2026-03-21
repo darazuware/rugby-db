@@ -1,11 +1,11 @@
 ---
-title: "E. Atuanya | "
+title: "E. Atuanya"
 name_en: "E. Atuanya"
 name_ja: ""
 slug: "e.-atuanya"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

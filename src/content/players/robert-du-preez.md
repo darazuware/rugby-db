@@ -1,11 +1,11 @@
 ---
-title: "Robert du Preez | "
+title: "Robert du Preez"
 name_en: "Robert du Preez"
 name_ja: ""
 slug: "robert-du-preez"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

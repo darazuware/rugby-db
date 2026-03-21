@@ -1,11 +1,11 @@
 ---
-title: "Cadan Murley | "
+title: "Cadan Murley"
 name_en: "Cadan Murley"
 name_ja: ""
 slug: "cadan-murley"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.07.31"
 age: 26
 country: ""

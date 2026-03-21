@@ -1,11 +1,11 @@
 ---
-title: "O. Roberts | "
+title: "O. Roberts"
 name_en: "O. Roberts"
 name_ja: ""
 slug: "o.-roberts"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

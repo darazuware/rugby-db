@@ -1,11 +1,11 @@
 ---
-title: "S. Graham | "
+title: "S. Graham"
 name_en: "S. Graham"
 name_ja: ""
 slug: "s.-graham"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

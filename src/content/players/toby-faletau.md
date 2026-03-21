@@ -1,9 +1,9 @@
 ---
-title: "Toby FALETAU | Toby ・ FALETAU"
+title: "Toby FALETAU | トビー・ファレタウ"
 name_en: "Toby FALETAU"
-name_ja: "Toby ・ FALETAU"
+name_ja: "トビー・ファレタウ"
 slug: "toby-faletau"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "115.0"
 birth_date: "1990.11.12"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "Tonga"
+caps: "https://all.rugby/player/toby-faletau"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/toby-faletau"
+scraped_url: "dragons rfc (2013 - 2016) -> bath rugby (2016 - 2022) -> cardiff rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2013 - 2016) -> Bath Rugby (2016 - 2022) -> Cardiff Rugby (2022 - 2026)
+Tonga

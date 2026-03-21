@@ -1,7 +1,7 @@
 ---
-title: "Callum SHEEDY | Callum ・ SHEEDY"
+title: "Callum SHEEDY | カラム-シーディー"
 name_en: "Callum SHEEDY"
-name_ja: "Callum ・ SHEEDY"
+name_ja: "カラム-シーディー"
 slug: "callum-sheedy"
 position: "SO"
 height: "177.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "Wales"
+caps: "https://all.rugby/player/callum-sheedy"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/callum-sheedy"
+scraped_url: "bristol bears (2018 - 2024) -> cardiff rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2018 - 2024) -> Cardiff Rugby (2024 - 2026)
+Wales

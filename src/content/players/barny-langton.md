@@ -1,7 +1,7 @@
 ---
-title: "Barny LANGTON | Barny ・ LANGTON"
+title: "Barny LANGTON | バーニー・ラングトン"
 name_en: "Barny LANGTON"
-name_ja: "Barny ・ LANGTON"
+name_ja: "バーニー・ラングトン"
 slug: "barny-langton"
 position: "LO"
 height: "195.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: ""
+caps: "https://all.rugby/player/barny-langton"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/barny-langton"
+scraped_url: "cardiff met rfc (2022 - 2023) -> dragons rfc (2023 - 2025) -> harlequins (2025 - 2025) -> dragons rfc (2026 - 2026) -> harlequins (2026 - 2026)"
 ---
 
 ## キャリア遍歴
-Cardiff Met RFC (2022 - 2023) -> Dragons RFC (2023 - 2025) -> Harlequins (2025 - 2025) -> Dragons RFC (2026 - 2026) -> Harlequins (2026 - 2026)
+

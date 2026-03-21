@@ -1,7 +1,7 @@
 ---
-title: "Glen YOUNG | グレン・ヤング"
+title: "Glen YOUNG | Glen ・ YOUNG"
 name_en: "Glen YOUNG"
-name_ja: "グレン・ヤング"
+name_ja: "Glen ・ YOUNG"
 slug: "glen-young"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (3)"
+caps: "Scotland (3)"
 high_school: ""
 university: ""
-scraped_url: "newcastle (2016 - 2019) -> harlequins (2019 - 2021) -> edimbourg rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/glen-young"
 ---
 
 ## キャリア遍歴
-Scotland
+Newcastle (2016 - 2019) -> Harlequins (2019 - 2021) -> Edimbourg Rugby (2021 - 2026)

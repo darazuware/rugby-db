@@ -1,11 +1,11 @@
 ---
-title: "Theo Dan | "
+title: "Theo Dan"
 name_en: "Theo Dan"
 name_ja: ""
 slug: "theo-dan"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2000.12.26"
 age: 25
 country: ""

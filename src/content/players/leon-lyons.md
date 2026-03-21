@@ -1,7 +1,7 @@
 ---
-title: "Leon LYONS | レオン・ライアンズ"
+title: "Leon LYONS | Leon ・ LYONS"
 name_en: "Leon LYONS"
-name_ja: "レオン・ライアンズ"
+name_ja: "Leon ・ LYONS"
 slug: "leon-lyons"
 position: "PR"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/leon-lyons"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2018 - 2019) -> stormers (2019 - 2025) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/leon-lyons"
 ---
 
 ## キャリア遍歴
-
+Western Province (2018 - 2019) -> Stormers (2019 - 2025) -> Lions Rugby (2025 - 2026)

@@ -8,7 +8,7 @@ height: "185.0"
 weight: "109.0"
 birth_date: "1994.03.01"
 age: 32
-country: ""
+country: "Fidjien"
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"

@@ -1,11 +1,11 @@
 ---
-title: "G. Ibitoye | "
+title: "G. Ibitoye"
 name_en: "G. Ibitoye"
 name_ja: ""
 slug: "g.-ibitoye"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

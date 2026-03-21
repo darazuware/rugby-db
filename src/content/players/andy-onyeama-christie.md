@@ -1,11 +1,11 @@
 ---
-title: "Andy Onyeama-Christie | "
+title: "Andy Onyeama-Christie"
 name_en: "Andy Onyeama-Christie"
 name_ja: ""
 slug: "andy-onyeama-christie"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.03.22"
 age: 26
 country: ""

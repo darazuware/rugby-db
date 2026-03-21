@@ -1,7 +1,7 @@
 ---
-title: "Duncan MUNN | Duncan ・ MUNN"
+title: "Duncan MUNN | ダンカン・マン"
 name_en: "Duncan MUNN"
-name_ja: "Duncan ・ MUNN"
+name_ja: "ダンカン・マン"
 slug: "duncan-munn"
 position: "CTB"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/duncan-munn"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/duncan-munn"
+scraped_url: "boroughmuir rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Boroughmuir RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)
+

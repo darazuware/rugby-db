@@ -1,11 +1,11 @@
 ---
-title: "Jamie Hodgson | "
+title: "Jamie Hodgson"
 name_en: "Jamie Hodgson"
 name_ja: ""
 slug: "jamie-hodgson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1998.03.19"
 age: 27
 country: ""

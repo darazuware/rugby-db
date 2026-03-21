@@ -1,11 +1,11 @@
 ---
-title: "Ollie Hassell-Collins | "
+title: "Ollie Hassell-Collins"
 name_en: "Ollie Hassell-Collins"
 name_ja: ""
 slug: "ollie-hassell-collins"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.01.17"
 age: 27
 country: ""

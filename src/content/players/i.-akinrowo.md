@@ -1,11 +1,11 @@
 ---
-title: "I. Akinrowo | "
+title: "I. Akinrowo"
 name_en: "I. Akinrowo"
 name_ja: ""
 slug: "i.-akinrowo"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

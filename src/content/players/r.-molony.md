@@ -1,11 +1,11 @@
 ---
-title: "R. Molony | "
+title: "R. Molony"
 name_en: "R. Molony"
 name_ja: ""
 slug: "r.-molony"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

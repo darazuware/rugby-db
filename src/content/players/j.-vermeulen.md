@@ -1,11 +1,11 @@
 ---
-title: "J. Vermeulen | "
+title: "J. Vermeulen"
 name_en: "J. Vermeulen"
 name_ja: ""
 slug: "j.-vermeulen"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

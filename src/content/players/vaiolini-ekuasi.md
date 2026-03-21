@@ -4,7 +4,7 @@ name_en: "Vaiolini EKUASI"
 name_ja: "ヴァイオリニ・エクアシ"
 slug: "vaiolini-ekuasi"
 position: "FL/No8"
-height: "nan"
+height: ""
 weight: "107.0"
 birth_date: "2001.10.11"
 age: 24

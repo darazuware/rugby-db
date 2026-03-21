@@ -1,11 +1,11 @@
 ---
-title: "S. Stuart | "
+title: "S. Stuart"
 name_en: "S. Stuart"
 name_ja: ""
 slug: "s.-stuart"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

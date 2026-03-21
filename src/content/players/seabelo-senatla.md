@@ -1,9 +1,9 @@
 ---
-title: "Seabelo SENATLA | Seabelo ・ SENATLA"
+title: "Seabelo SENATLA | セアベロ・セナトラ"
 name_en: "Seabelo SENATLA"
-name_ja: "Seabelo ・ SENATLA"
+name_ja: "セアベロ・セナトラ"
 slug: "seabelo-senatla"
-position: "Winger"
+position: "WTB"
 height: "179.0"
 weight: "93.0"
 birth_date: "1993.02.10"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/seabelo-senatla"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/seabelo-senatla"
+scraped_url: "stormers (2013 - 2026)"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2026)
+

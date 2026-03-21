@@ -1,7 +1,7 @@
 ---
-title: "Diego APPOLLIS | Diego ・ APPOLLIS"
+title: "Diego APPOLLIS | ディエゴ-アポリス"
 name_en: "Diego APPOLLIS"
-name_ja: "Diego ・ APPOLLIS"
+name_ja: "ディエゴ-アポリス"
 slug: "diego-appollis"
 position: "CTB"
 height: "178.0"
@@ -10,13 +10,13 @@ birth_date: "2000.08.27"
 age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/diego-appollis"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/diego-appollis"
+scraped_url: "bulls (2019 - 2020) -> pumas (2021 - 2023) -> sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2019 - 2020) -> Pumas (2021 - 2023) -> Sharks (2023 - 2026)
+

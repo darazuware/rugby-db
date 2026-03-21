@@ -1,11 +1,11 @@
 ---
-title: "D. Gwynne | "
+title: "D. Gwynne"
 name_en: "D. Gwynne"
 name_ja: ""
 slug: "d.-gwynne"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

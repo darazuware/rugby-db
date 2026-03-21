@@ -1,7 +1,7 @@
 ---
-title: "Ntuthuko MCHUNU | ントゥズコ・ムチュヌ"
+title: "Ntuthuko MCHUNU | Ntuthuko ・ MCHUNU"
 name_en: "Ntuthuko MCHUNU"
-name_ja: "ントゥズコ・ムチュヌ"
+name_ja: "Ntuthuko ・ MCHUNU"
 slug: "ntuthuko-mchunu"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/ntuthuko-mchunu"
+caps: "South Africa"
 high_school: ""
 university: ""
-scraped_url: "sharks (2021 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
 ---
 
 ## キャリア遍歴
-South Africa
+Sharks (2021 - 2025) -> Stormers (2025 - 2026)

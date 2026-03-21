@@ -1,7 +1,7 @@
 ---
-title: "Henry Tasesa VOLKMAN | ヘンリー・タセサ・ヴォルクマン"
+title: "Henry Tasesa VOLKMAN | Henry ・ Tasesa ・ VOLKMAN"
 name_en: "Henry Tasesa VOLKMAN"
-name_ja: "ヘンリー・タセサ・ヴォルクマン"
+name_ja: "Henry ・ Tasesa ・ VOLKMAN"
 slug: "henry-tasesa-volkman"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/henry-tasesa-volkman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "canberra royals (2024 - 2025) -> benetton rugby trévise (2025 - 2026)"
+scraped_url: "https://all.rugby/player/henry-tasesa-volkman"
 ---
 
 ## キャリア遍歴
-
+Canberra Royals (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

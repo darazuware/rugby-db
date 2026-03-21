@@ -10,7 +10,7 @@ birth_date: "2000.06.16"
 age: 25
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: "https://all.rugby/player/emmanuel-tshituka"
 high_school: ""

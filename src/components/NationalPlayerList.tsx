@@ -7,12 +7,45 @@ interface Player {
   position: string;
   team: string;
   league: string;
-  caps: number;
-  age: number | null;
-  height: number;
-  weight: number;
+  caps: string; // Changed to string for flexibility
+  age: string | null;
+  height: string;
+  weight: string;
   caps_display?: string;
 }
+
+const FLAG_MAP: Record<string, string> = {
+  '日本': '🇯🇵', 'Japan': '🇯🇵',
+  'オーストラリア': '🇦🇺', 'Australia': '🇦🇺',
+  'ニュージーランド': '🇳🇿', 'New Zealand': '🇳🇿',
+  '南アフリカ': '🇿🇦', 'South Africa': '🇿🇦',
+  'フィジー': '🇫🇯', 'Fiji': '🇫🇯',
+  'トンガ': '🇹🇴', 'Tonga': '🇹🇴',
+  'サモア': '🇼🇸', 'Samoa': '🇼🇸',
+  'フランス': '🇫🇷', 'France': '🇫🇷',
+  'イングランド': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'ウェールズ': '🏴󠁧󠁢󠁷󠁬󠁳󠁿', 'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'スコットランド': '🏴󠁧󠁢󠁳󠁣󠁴󠁿', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'アイルランド': '🇮🇪', 'Ireland': '🇮🇪',
+  'イタリア': '🇮🇹', 'Italy': '🇮🇹',
+  'アルゼンチン': '🇦🇷', 'Argentina': '🇦🇷',
+  'アメリカ': '🇺🇸', 'USA': '🇺🇸',
+  'カナダ': '🇨🇦', 'Canada': '🇨🇦',
+  'ジョージア': '🇬🇪', 'Georgia': '🇬🇪',
+  'ウルグアイ': '🇺🇾', 'Uruguay': '🇺🇾',
+  'ポルトガル': '🇵🇹', 'Portugal': '🇵🇹',
+  'ルーマニア': '🇷🇴', 'Romania': '🇷🇴',
+  'ナミビア': '🇳🇦', 'Namibia': '🇳🇦',
+  'チリ': '🇨🇱', 'Chile': '🇨🇱'
+};
+
+const getFlag = (capsStr: string) => {
+  if (!capsStr) return "";
+  for (const [name, flag] of Object.entries(FLAG_MAP)) {
+    if (capsStr.includes(name)) return flag;
+  }
+  return "";
+};
 
 interface Props {
   initialPlayers: Player[];
@@ -56,16 +89,25 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
       );
     }
 
-    result.sort((a, b) => {
+      result.sort((a, b) => {
+      const capsA = parseInt(String(a.caps).match(/\d+/)?.[0] || '0');
+      const capsB = parseInt(String(b.caps).match(/\d+/)?.[0] || '0');
+      const ageA = parseInt(String(a.age).match(/\d+/)?.[0] || '999');
+      const ageB = parseInt(String(b.age).match(/\d+/)?.[0] || '0');
+      const heightA = parseFloat(a.height) || 0;
+      const heightB = parseFloat(b.height) || 0;
+      const weightA = parseFloat(a.weight) || 0;
+      const weightB = parseFloat(b.weight) || 0;
+
       switch (sortBy) {
-        case 'caps_desc': return (b.caps || 0) - (a.caps || 0);
-        case 'caps_asc': return (a.caps || 0) - (b.caps || 0);
-        case 'age_asc': return (a.age || 999) - (b.age || 999);
-        case 'age_desc': return (b.age || 0) - (a.age || 0);
-        case 'height_desc': return (b.height || 0) - (a.height || 0);
-        case 'height_asc': return (a.height || 0) - (b.height || 0);
-        case 'weight_desc': return (b.weight || 0) - (a.weight || 0);
-        case 'weight_asc': return (a.weight || 0) - (b.weight || 0);
+        case 'caps_desc': return capsB - capsA;
+        case 'caps_asc': return capsA - capsB;
+        case 'age_asc': return ageA - ageB;
+        case 'age_desc': return ageB - ageA;
+        case 'height_desc': return heightB - heightA;
+        case 'height_asc': return heightA - heightB;
+        case 'weight_desc': return weightB - weightA;
+        case 'weight_asc': return weightA - weightB;
         default: return 0;
       }
     });
@@ -184,12 +226,13 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
               <div className="flex justify-between items-start mb-4">
                 <div className="space-y-1">
                   <div className="text-[9px] font-black text-yellow-500/80 uppercase tracking-widest italic">{player.position}</div>
-                  <h4 className="text-lg font-black text-foreground group-hover:text-yellow-400 transition-colors leading-tight">
-                    {player.name_ja}
+                  <h4 className="text-lg font-black text-foreground group-hover:text-yellow-400 transition-colors leading-tight flex items-center gap-2">
+                    {getFlag(player.caps) && <span className="text-xl">{getFlag(player.caps)}</span>}
+                    {player.name_ja || player.name_en}
                   </h4>
                   <p className="text-[10px] font-bold text-foreground/40 uppercase italic tracking-tighter">{player.name_en}</p>
                 </div>
-                {player.caps > 0 && (
+                {parseInt(String(player.caps).match(/\d+/)?.[0] || '0') > 0 && (
                   <div className="flex flex-col items-end">
                     <div className="text-[18px] font-black text-yellow-400 italic leading-none">{player.caps}</div>
                     <div className="text-[8px] font-black text-foreground/30 uppercase tracking-tighter">CAPS</div>

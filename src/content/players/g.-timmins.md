@@ -1,11 +1,11 @@
 ---
-title: "G. Timmins | "
+title: "G. Timmins"
 name_en: "G. Timmins"
 name_ja: ""
 slug: "g.-timmins"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

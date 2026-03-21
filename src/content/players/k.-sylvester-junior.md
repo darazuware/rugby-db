@@ -1,11 +1,11 @@
 ---
-title: "K. Sylvester-Junior | "
+title: "K. Sylvester-Junior"
 name_en: "K. Sylvester-Junior"
 name_ja: ""
 slug: "k.-sylvester-junior"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

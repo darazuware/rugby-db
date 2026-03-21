@@ -1,7 +1,7 @@
 ---
-title: "Giulio BERTACCINI | ジュリオ・ベルタチーニ"
+title: "Giulio BERTACCINI | Giulio ・ BERTACCINI"
 name_en: "Giulio BERTACCINI"
-name_ja: "ジュリオ・ベルタチーニ"
+name_ja: "Giulio ・ BERTACCINI"
 slug: "giulio-bertaccini"
 position: "CTB"
 height: "184.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "🇮🇹 Italy (1)"
+caps: "Italy (1)"
 high_school: ""
 university: ""
-scraped_url: "valorugby emilia (2019 - 2024) -> zebre parma (2024 - 2024) -> valorugby emilia (2024 - 2024) -> zebre parma (2025 - 2025) -> valorugby emilia (2025 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/giulio-bertaccini"
 ---
 
 ## キャリア遍歴
-
+Valorugby Emilia (2019 - 2024) -> Zebre Parma (2024 - 2024) -> Valorugby Emilia (2024 - 2024) -> Zebre Parma (2025 - 2025) -> Valorugby Emilia (2025 - 2025) -> Zebre Parma (2025 - 2026)

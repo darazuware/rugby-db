@@ -1,11 +1,11 @@
 ---
-title: "F. Lee-Warner | "
+title: "F. Lee-Warner"
 name_en: "F. Lee-Warner"
 name_ja: ""
 slug: "f.-lee-warner"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

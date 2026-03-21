@@ -1,22 +1,22 @@
 ---
-title: "Tom PEARSON | "
-name_en: "Tom PEARSON"
+title: "Tom Pearson"
+name_en: "Tom Pearson"
 name_ja: ""
 slug: "tom-pearson"
-position: "Back row"
-height: "nan"
-weight: "nan"
-birth_date: "---"
-age: null
+position: "Flanker"
+height: ""
+weight: ""
+birth_date: "1872.05.10"
+age: 153
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Northampton Saints"
-caps: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (1)"
+caps: "England (1)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/tom-pearson"
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Northampton Saints (2025 - )

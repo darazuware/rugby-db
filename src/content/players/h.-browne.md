@@ -1,11 +1,11 @@
 ---
-title: "H. Browne | "
+title: "H. Browne"
 name_en: "H. Browne"
 name_ja: ""
 slug: "h.-browne"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

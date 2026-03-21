@@ -1,11 +1,11 @@
 ---
-title: "W. Becconsall | "
+title: "W. Becconsall"
 name_en: "W. Becconsall"
 name_ja: ""
 slug: "w.-becconsall"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

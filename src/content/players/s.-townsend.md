@@ -1,11 +1,11 @@
 ---
-title: "S. Townsend | "
+title: "S. Townsend"
 name_en: "S. Townsend"
 name_ja: ""
 slug: "s.-townsend"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

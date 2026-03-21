@@ -1,7 +1,7 @@
 ---
-title: "Niall SCANNELL | ニアル・スカネル"
+title: "Niall SCANNELL | ナイル ・ SCANNELL"
 name_en: "Niall SCANNELL"
-name_ja: "ニアル・スカネル"
+name_ja: "ナイル ・ SCANNELL"
 slug: "niall-scannell"
 position: "HO"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "🇮🇪 Ireland (16)"
+caps: "Ireland (16)"
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2013 - 2026)"
+scraped_url: "https://all.rugby/player/niall-scannell"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2013 - 2026)

@@ -11,7 +11,7 @@ age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Urayasu D-Rocks"
+team: "浦安D-Rocks（2025-26）"
 caps: "オーストラリア代表(50)"
 high_school: "ブリスベン州立高校"
 university: "クイーンズランド工科大学"

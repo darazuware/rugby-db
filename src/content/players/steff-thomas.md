@@ -1,7 +1,7 @@
 ---
-title: "Steff THOMAS | Steff ・ トーマス"
+title: "Steff THOMAS | ステフ・トーマス"
 name_en: "Steff THOMAS"
-name_ja: "Steff ・ トーマス"
+name_ja: "ステフ・トーマス"
 slug: "steff-thomas"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: ""
+caps: "https://all.rugby/player/steff-thomas"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/steff-thomas"
+scraped_url: "scarlets (2017 - 2024) -> ospreys (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2024) -> Ospreys (2024 - 2026)
+

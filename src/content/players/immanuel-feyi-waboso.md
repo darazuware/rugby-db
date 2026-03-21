@@ -1,11 +1,11 @@
 ---
-title: "Immanuel Feyi-Waboso | "
+title: "Immanuel Feyi-Waboso"
 name_en: "Immanuel Feyi-Waboso"
 name_ja: ""
 slug: "immanuel-feyi-waboso"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2002.12.20"
 age: 23
 country: ""

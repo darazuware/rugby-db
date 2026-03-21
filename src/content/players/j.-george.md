@@ -1,11 +1,11 @@
 ---
-title: "J. George | "
+title: "J. George"
 name_en: "J. George"
 name_ja: ""
 slug: "j.-george"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

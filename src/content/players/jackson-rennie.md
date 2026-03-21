@@ -1,7 +1,7 @@
 ---
-title: "Jackson RENNIE | ジャクソン・レニー"
+title: "Jackson RENNIE | Jackson ・ RENNIE"
 name_en: "Jackson RENNIE"
-name_ja: "ジャクソン・レニー"
+name_ja: "Jackson ・ RENNIE"
 slug: "jackson-rennie"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/jackson-rennie"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2025 - 2026)"
+scraped_url: "https://all.rugby/player/jackson-rennie"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2025 - 2026)

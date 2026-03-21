@@ -1,11 +1,11 @@
 ---
-title: "R. Parsons | "
+title: "R. Parsons"
 name_en: "R. Parsons"
 name_ja: ""
 slug: "r.-parsons"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

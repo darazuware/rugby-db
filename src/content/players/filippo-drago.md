@@ -1,7 +1,7 @@
 ---
-title: "Filippo DRAGO | フィリッポ-ドラーゴ"
+title: "Filippo DRAGO | Filippo ・ DRAGO"
 name_en: "Filippo DRAGO"
-name_ja: "フィリッポ-ドラーゴ"
+name_ja: "Filippo ・ DRAGO"
 slug: "filippo-drago"
 position: "CTB"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/filippo-drago"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - 2024) -> zebre parma (2024 - 2024) -> benetton rugby trévise (2025 - 2025) -> zebre parma (2025 - 2025) -> benetton rugby trévise (2025 - 2026)"
+scraped_url: "https://all.rugby/player/filippo-drago"
 ---
 
 ## キャリア遍歴
-
+Mogliano Veneto Rugby (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2024) -> Zebre Parma (2024 - 2024) -> Benetton Rugby Trévise (2025 - 2025) -> Zebre Parma (2025 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

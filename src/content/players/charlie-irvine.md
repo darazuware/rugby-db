@@ -1,7 +1,7 @@
 ---
-title: "Charlie IRVINE | Charlie ・ IRVINE"
+title: "Charlie IRVINE | チャーリー・アーヴィン"
 name_en: "Charlie IRVINE"
-name_ja: "Charlie ・ IRVINE"
+name_ja: "チャーリー・アーヴィン"
 slug: "charlie-irvine"
 position: "LO"
 height: "202.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: ""
+caps: "https://all.rugby/player/charlie-irvine"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/charlie-irvine"
+scraped_url: "queen's university (2022 - 2023) -> ulster rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Queen's University (2022 - 2023) -> Ulster Rugby (2023 - 2026)
+

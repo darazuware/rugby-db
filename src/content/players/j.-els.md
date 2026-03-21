@@ -1,11 +1,11 @@
 ---
-title: "J. Els | "
+title: "J. Els"
 name_en: "J. Els"
 name_ja: ""
 slug: "j.-els"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

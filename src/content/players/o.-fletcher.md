@@ -1,11 +1,11 @@
 ---
-title: "O. Fletcher | "
+title: "O. Fletcher"
 name_en: "O. Fletcher"
 name_ja: ""
 slug: "o.-fletcher"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Destiny AMINU | Destiny ・ AMINU"
+title: "Destiny AMINU | デスティニー・アミヌ"
 name_en: "Destiny AMINU"
-name_ja: "Destiny ・ AMINU"
+name_ja: "デスティニー・アミヌ"
 slug: "destiny-aminu"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: ""
+caps: "https://all.rugby/player/destiny-aminu"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/destiny-aminu"
+scraped_url: "mogliano veneto rugby (2021 - 2022) -> benetton rugby trévise (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2021 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+

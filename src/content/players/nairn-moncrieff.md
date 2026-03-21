@@ -1,9 +1,9 @@
 ---
-title: "Nairn MONCRIEFF | ネアン・モンクリーフ"
+title: "Nairn MONCRIEFF | Nairn ・ MONCRIEFF"
 name_en: "Nairn MONCRIEFF"
-name_ja: "ネアン・モンクリーフ"
+name_ja: "Nairn ・ MONCRIEFF"
 slug: "nairn-moncrieff"
-position: "WTB"
+position: "Winger"
 height: "178.0"
 weight: "89.0"
 birth_date: "2006.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/nairn-moncrieff"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "gala rugby (2023 - 2024) -> edimbourg rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/nairn-moncrieff"
 ---
 
 ## キャリア遍歴
-
+Gala Rugby (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)

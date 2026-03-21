@@ -1,11 +1,11 @@
 ---
-title: "K. Verden | "
+title: "K. Verden"
 name_en: "K. Verden"
 name_ja: ""
 slug: "k.-verden"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

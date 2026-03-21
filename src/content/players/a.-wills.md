@@ -1,11 +1,11 @@
 ---
-title: "A. Wills | "
+title: "A. Wills"
 name_en: "A. Wills"
 name_ja: ""
 slug: "a.-wills"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

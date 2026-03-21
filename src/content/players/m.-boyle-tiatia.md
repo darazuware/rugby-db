@@ -1,11 +1,11 @@
 ---
-title: "M. Boyle-Tiatia | "
+title: "M. Boyle-Tiatia"
 name_en: "M. Boyle-Tiatia"
 name_ja: ""
 slug: "m.-boyle-tiatia"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

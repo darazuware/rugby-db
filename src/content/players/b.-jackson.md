@@ -1,11 +1,11 @@
 ---
-title: "B. Jackson | "
+title: "B. Jackson"
 name_en: "B. Jackson"
 name_ja: ""
 slug: "b.-jackson"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

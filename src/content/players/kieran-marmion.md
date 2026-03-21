@@ -1,11 +1,11 @@
 ---
-title: "Kieran Marmion | "
+title: "Kieran Marmion"
 name_en: "Kieran Marmion"
 name_ja: ""
 slug: "kieran-marmion"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1992.02.11"
 age: 34
 country: ""

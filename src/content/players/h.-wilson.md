@@ -1,11 +1,11 @@
 ---
-title: "H. Wilson | "
+title: "H. Wilson"
 name_en: "H. Wilson"
 name_ja: ""
 slug: "h.-wilson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "H. Hyde | "
+title: "H. Hyde"
 name_en: "H. Hyde"
 name_ja: ""
 slug: "h.-hyde"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

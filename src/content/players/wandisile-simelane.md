@@ -1,7 +1,7 @@
 ---
-title: "Wandisile SIMELANE | Wandisile ・ SIMELANE"
+title: "Wandisile SIMELANE | ワンディシレ・シメラーネ"
 name_en: "Wandisile SIMELANE"
-name_ja: "Wandisile ・ SIMELANE"
+name_ja: "ワンディシレ・シメラーネ"
 slug: "wandisile-simelane"
 position: "CTB"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/wandisile-simelane"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/wandisile-simelane"
+scraped_url: "lions rugby (2018 - 2022) -> bulls (2022 - 2023) -> stormers (2023 - 2023) -> bulls (2024 - 2024) -> stormers (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2022) -> Bulls (2022 - 2023) -> Stormers (2023 - 2023) -> Bulls (2024 - 2024) -> Stormers (2024 - 2026)
+

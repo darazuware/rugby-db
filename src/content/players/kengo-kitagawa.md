@@ -11,7 +11,7 @@ age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Kubota Spears Funabashi Tokyo Bay"
+team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
 caps: "U20('11)、U23('13)、日本代表(3)"
 high_school: "東福岡高校"
 university: "同志社大学"

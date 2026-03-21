@@ -1,11 +1,11 @@
 ---
-title: "C. Bell | "
+title: "C. Bell"
 name_en: "C. Bell"
 name_ja: ""
 slug: "c.-bell"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

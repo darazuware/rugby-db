@@ -1,11 +1,11 @@
 ---
-title: "O. Hartley | "
+title: "O. Hartley"
 name_en: "O. Hartley"
 name_ja: ""
 slug: "o.-hartley"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

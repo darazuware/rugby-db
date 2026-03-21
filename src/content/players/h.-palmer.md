@@ -1,11 +1,11 @@
 ---
-title: "H. Palmer | "
+title: "H. Palmer"
 name_en: "H. Palmer"
 name_ja: ""
 slug: "h.-palmer"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

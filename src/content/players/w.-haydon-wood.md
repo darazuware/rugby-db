@@ -1,11 +1,11 @@
 ---
-title: "W. Haydon-Wood | "
+title: "W. Haydon-Wood"
 name_en: "W. Haydon-Wood"
 name_ja: ""
 slug: "w.-haydon-wood"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "R. Hammick | "
+title: "R. Hammick"
 name_en: "R. Hammick"
 name_ja: ""
 slug: "r.-hammick"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

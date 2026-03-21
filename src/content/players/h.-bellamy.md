@@ -1,11 +1,11 @@
 ---
-title: "H. Bellamy | "
+title: "H. Bellamy"
 name_en: "H. Bellamy"
 name_ja: ""
 slug: "h.-bellamy"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "H. Cuckson | "
+title: "H. Cuckson"
 name_en: "H. Cuckson"
 name_ja: ""
 slug: "h.-cuckson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

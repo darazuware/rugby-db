@@ -1,11 +1,11 @@
 ---
-title: "J. Harper | "
+title: "J. Harper"
 name_en: "J. Harper"
 name_ja: ""
 slug: "j.-harper"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

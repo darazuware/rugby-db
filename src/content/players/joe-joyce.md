@@ -1,7 +1,7 @@
 ---
-title: "Joe JOYCE | ジョー・ジョイス"
+title: "Joe JOYCE | Joe ・ JOYCE"
 name_en: "Joe JOYCE"
-name_ja: "ジョー・ジョイス"
+name_ja: "Joe ・ JOYCE"
 slug: "joe-joyce"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/joe-joyce"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bristol bears (2016 - 2023) -> connacht rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/joe-joyce"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2016 - 2023) -> Connacht Rugby (2023 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "O. Thomas | "
+title: "O. Thomas"
 name_en: "O. Thomas"
 name_ja: ""
 slug: "o.-thomas"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

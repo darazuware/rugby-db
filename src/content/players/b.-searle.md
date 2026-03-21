@@ -1,11 +1,11 @@
 ---
-title: "B. Searle | "
+title: "B. Searle"
 name_en: "B. Searle"
 name_ja: ""
 slug: "b.-searle"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

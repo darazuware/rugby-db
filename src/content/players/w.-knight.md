@@ -1,11 +1,11 @@
 ---
-title: "W. Knight | "
+title: "W. Knight"
 name_en: "W. Knight"
 name_ja: ""
 slug: "w.-knight"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

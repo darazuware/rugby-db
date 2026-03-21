@@ -10,7 +10,7 @@ birth_date: "1999.01.06"
 age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: "https://all.rugby/player/cameron-dawson"
 high_school: ""

@@ -1,7 +1,7 @@
 ---
-title: "Seb LOMBARD | Seb ・ LOMBARD"
+title: "Seb LOMBARD | セブ・ロンバード"
 name_en: "Seb LOMBARD"
-name_ja: "Seb ・ LOMBARD"
+name_ja: "セブ・ロンバード"
 slug: "seb-lombard"
 position: "PR"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/seb-lombard"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/seb-lombard"
+scraped_url: "blue bulls (2021 - 2022) -> bulls (2022 - 2024) -> golden lions (2024 - 2024) -> bulls (2025 - 2025) -> golden lions (2025 - 2025) -> lions rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2021 - 2022) -> Bulls (2022 - 2024) -> Golden Lions (2024 - 2024) -> Bulls (2025 - 2025) -> Golden Lions (2025 - 2025) -> Lions Rugby (2025 - 2026)
+

@@ -1,11 +1,11 @@
 ---
-title: "H. Wright | "
+title: "H. Wright"
 name_en: "H. Wright"
 name_ja: ""
 slug: "h.-wright"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

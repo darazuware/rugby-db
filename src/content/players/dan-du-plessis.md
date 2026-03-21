@@ -1,7 +1,7 @@
 ---
-title: "Dan DU PLESSIS | ダン・デュ・プレシス"
+title: "Dan DU PLESSIS | ダン ・ デュ ・ PLESSIS"
 name_en: "Dan DU PLESSIS"
-name_ja: "ダン・デュ・プレシス"
+name_ja: "ダン ・ デュ ・ PLESSIS"
 slug: "dan-du-plessis"
 position: "CTB"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/dan-du-plessis"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2015 - 2026)"
+scraped_url: "https://all.rugby/player/dan-du-plessis"
 ---
 
 ## キャリア遍歴
-
+Stormers (2015 - 2026)

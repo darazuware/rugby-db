@@ -1,7 +1,7 @@
 ---
-title: "Siya MASUKU | シヤ ・ MASUKU"
+title: "Siya MASUKU | シヤ・マスク"
 name_en: "Siya MASUKU"
-name_ja: "シヤ ・ MASUKU"
+name_ja: "シヤ・マスク"
 slug: "siya-masuku"
 position: "SO"
 height: "189.0"
@@ -10,13 +10,13 @@ birth_date: "1996.08.01"
 age: 29
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/siya-masuku"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/siya-masuku"
+scraped_url: "southern kings (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Southern Kings (2019 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Sharks (2023 - 2026)
+

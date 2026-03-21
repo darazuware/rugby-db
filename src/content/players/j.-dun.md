@@ -1,11 +1,11 @@
 ---
-title: "J. Dun | "
+title: "J. Dun"
 name_en: "J. Dun"
 name_ja: ""
 slug: "j.-dun"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

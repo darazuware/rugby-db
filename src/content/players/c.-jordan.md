@@ -1,11 +1,11 @@
 ---
-title: "C. Jordan | "
+title: "C. Jordan"
 name_en: "C. Jordan"
 name_ja: ""
 slug: "c.-jordan"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

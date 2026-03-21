@@ -1,6 +1,6 @@
 ---
-title: "Éanna MCCARTHY | MCCARTHY"
-name_en: "Éanna MCCARTHY"
+title: "MCCARTHY"
+name_en: "MCCARTHY"
 name_ja: "MCCARTHY"
 slug: "eanna-mccarthy"
 position: "Back row"

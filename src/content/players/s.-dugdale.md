@@ -1,11 +1,11 @@
 ---
-title: "S. Dugdale | "
+title: "S. Dugdale"
 name_en: "S. Dugdale"
 name_ja: ""
 slug: "s.-dugdale"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "V. Rapava Ruskin | "
+title: "V. Rapava Ruskin"
 name_en: "V. Rapava Ruskin"
 name_ja: ""
 slug: "v.-rapava-ruskin"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

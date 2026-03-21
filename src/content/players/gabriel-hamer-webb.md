@@ -1,11 +1,11 @@
 ---
-title: "Gabriel Hamer-Webb | "
+title: "Gabriel Hamer-Webb"
 name_en: "Gabriel Hamer-Webb"
 name_ja: ""
 slug: "gabriel-hamer-webb"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2000.11.07"
 age: 25
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "C. Doherty | "
+title: "C. Doherty"
 name_en: "C. Doherty"
 name_ja: ""
 slug: "c.-doherty"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

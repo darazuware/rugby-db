@@ -1,11 +1,11 @@
 ---
-title: "T. Povey | "
+title: "T. Povey"
 name_en: "T. Povey"
 name_ja: ""
 slug: "t.-povey"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "B. Redshaw | "
+title: "B. Redshaw"
 name_en: "B. Redshaw"
 name_ja: ""
 slug: "b.-redshaw"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

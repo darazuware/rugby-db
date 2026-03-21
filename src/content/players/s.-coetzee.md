@@ -1,11 +1,11 @@
 ---
-title: "S. Coetzee | "
+title: "S. Coetzee"
 name_en: "S. Coetzee"
 name_ja: ""
 slug: "s.-coetzee"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

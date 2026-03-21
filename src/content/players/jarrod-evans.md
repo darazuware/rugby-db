@@ -1,11 +1,11 @@
 ---
-title: "Jarrod Evans | "
+title: "Jarrod Evans"
 name_en: "Jarrod Evans"
 name_ja: ""
 slug: "jarrod-evans"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1996.07.25"
 age: 29
 country: ""

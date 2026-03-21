@@ -1,11 +1,11 @@
 ---
-title: "W. Butler | "
+title: "W. Butler"
 name_en: "W. Butler"
 name_ja: ""
 slug: "w.-butler"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -8,7 +8,7 @@ height: "179.0"
 weight: "95.0"
 birth_date: "1995.09.07"
 age: 30
-country: ""
+country: "Fidji"
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"

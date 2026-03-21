@@ -1,7 +1,7 @@
 ---
-title: "Jordan DUGGAN | ジョーダン・ダガン"
+title: "Jordan DUGGAN | Jordan ・ DUGGAN"
 name_en: "Jordan DUGGAN"
-name_ja: "ジョーダン・ダガン"
+name_ja: "Jordan ・ DUGGAN"
 slug: "jordan-duggan"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/jordan-duggan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "connacht rugby (2019 - 2026)"
+scraped_url: "https://all.rugby/player/jordan-duggan"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2019 - 2026)

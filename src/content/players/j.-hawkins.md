@@ -1,11 +1,11 @@
 ---
-title: "J. Hawkins | "
+title: "J. Hawkins"
 name_en: "J. Hawkins"
 name_ja: ""
 slug: "j.-hawkins"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

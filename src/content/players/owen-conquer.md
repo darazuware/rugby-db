@@ -1,9 +1,9 @@
 ---
-title: "Owen CONQUER | オウェイン・コンカー"
+title: "Owen CONQUER | Owen ・ CONQUER"
 name_en: "Owen CONQUER"
-name_ja: "オウェイン・コンカー"
+name_ja: "Owen ・ CONQUER"
 slug: "owen-conquer"
-position: "FL/No8"
+position: "Back row"
 height: "191.0"
 weight: "114.0"
 birth_date: "2004.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/owen-conquer"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ebbw vale rfc (2023 - 2024) -> dragons rfc (2024 - 2026)"
+scraped_url: "https://all.rugby/player/owen-conquer"
 ---
 
 ## キャリア遍歴
-
+Ebbw Vale RFC (2023 - 2024) -> Dragons RFC (2024 - 2026)

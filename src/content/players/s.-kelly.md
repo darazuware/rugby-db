@@ -1,11 +1,11 @@
 ---
-title: "S. Kelly | "
+title: "S. Kelly"
 name_en: "S. Kelly"
 name_ja: ""
 slug: "s.-kelly"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

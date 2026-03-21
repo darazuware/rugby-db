@@ -1,11 +1,11 @@
 ---
-title: "A. Scott-Young | "
+title: "A. Scott-Young"
 name_en: "A. Scott-Young"
 name_ja: ""
 slug: "a.-scott-young"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

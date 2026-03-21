@@ -1,11 +1,11 @@
 ---
-title: "M. Austin | "
+title: "M. Austin"
 name_en: "M. Austin"
 name_ja: ""
 slug: "m.-austin"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

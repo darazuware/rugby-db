@@ -1,7 +1,7 @@
 ---
-title: "Stefan UNGERER | Stefan ・ UNGERER"
+title: "Stefan UNGERER | ステファン・ウンゲラー"
 name_en: "Stefan UNGERER"
-name_ja: "Stefan ・ UNGERER"
+name_ja: "ステファン・ウンゲラー"
 slug: "stefan-ungerer"
 position: "SH"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/stefan-ungerer"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/stefan-ungerer"
+scraped_url: "sharks (2013 - 2016) -> southern kings (2016 - 2020) -> griquas (2020 - 2021) -> stormers (2021 - 2021) -> griquas (2022 - 2022) -> stormers (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Sharks (2013 - 2016) -> Southern Kings (2016 - 2020) -> Griquas (2020 - 2021) -> Stormers (2021 - 2021) -> Griquas (2022 - 2022) -> Stormers (2022 - 2026)
+

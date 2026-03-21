@@ -1,11 +1,11 @@
 ---
-title: "L. Sinclair | "
+title: "L. Sinclair"
 name_en: "L. Sinclair"
 name_ja: ""
 slug: "l.-sinclair"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

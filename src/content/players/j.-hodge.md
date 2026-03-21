@@ -1,11 +1,11 @@
 ---
-title: "J. Hodge | "
+title: "J. Hodge"
 name_en: "J. Hodge"
 name_ja: ""
 slug: "j.-hodge"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

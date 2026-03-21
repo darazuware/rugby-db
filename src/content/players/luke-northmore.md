@@ -1,11 +1,11 @@
 ---
-title: "Luke Northmore | "
+title: "Luke Northmore"
 name_en: "Luke Northmore"
 name_ja: ""
 slug: "luke-northmore"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1997.03.16"
 age: 29
 country: ""

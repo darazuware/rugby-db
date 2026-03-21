@@ -1,7 +1,7 @@
 ---
-title: "Quan HORN | クアン・ホーン"
+title: "Quan HORN | Quan ・ HORN"
 name_en: "Quan HORN"
-name_ja: "クアン・ホーン"
+name_ja: "Quan ・ HORN"
 slug: "quan-horn"
 position: "FB"
 height: "181.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/quan-horn"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2020 - 2026)"
+scraped_url: "https://all.rugby/player/quan-horn"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2020 - 2026)

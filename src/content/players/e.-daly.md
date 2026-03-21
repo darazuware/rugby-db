@@ -1,11 +1,11 @@
 ---
-title: "E. Daly | "
+title: "E. Daly"
 name_en: "E. Daly"
 name_ja: ""
 slug: "e.-daly"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Martin ROGER FARIAS | マルティン・ロゲル・ファリアス"
+title: "Martin ROGER FARIAS | Martin ・ ROGER ・ FARIAS"
 name_en: "Martin ROGER FARIAS"
-name_ja: "マルティン・ロゲル・ファリアス"
+name_ja: "Martin ・ ROGER ・ FARIAS"
 slug: "martin-roger-farias"
 position: "SO"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/martin-roger-farias"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "club atlético san isidro (2020 - 2021) -> rugby viadana 1970 (2023 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/martin-roger-farias"
 ---
 
 ## キャリア遍歴
-
+Club Atlético San Isidro (2020 - 2021) -> Rugby Viadana 1970 (2023 - 2025) -> Zebre Parma (2025 - 2026)

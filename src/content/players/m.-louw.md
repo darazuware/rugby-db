@@ -1,11 +1,11 @@
 ---
-title: "M. Louw | "
+title: "M. Louw"
 name_en: "M. Louw"
 name_ja: ""
 slug: "m.-louw"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

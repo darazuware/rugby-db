@@ -1,11 +1,11 @@
 ---
-title: "C. Hancock | "
+title: "C. Hancock"
 name_en: "C. Hancock"
 name_ja: ""
 slug: "c.-hancock"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Max DOUGLAS | マックス・ダグラス"
+title: "Max DOUGLAS | Max ・ DOUGLAS"
 name_en: "Max DOUGLAS"
-name_ja: "マックス・ダグラス"
+name_ja: "Max ・ DOUGLAS"
 slug: "max-douglas"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/max-douglas"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2021) -> manly marlins (2021 - 2021) -> new south wales waratahs (2022 - 2022) -> manly marlins (2022 - 2022) -> yokohama canon eagles (2022 - 2024) -> scarlets (2024 - 2026)"
+scraped_url: "https://all.rugby/player/max-douglas"
 ---
 
 ## キャリア遍歴
-
+Manly Marlins (2018 - 2019) -> New South Wales Waratahs (2019 - 2021) -> Manly Marlins (2021 - 2021) -> New South Wales Waratahs (2022 - 2022) -> Manly Marlins (2022 - 2022) -> Yokohama Canon Eagles (2022 - 2024) -> Scarlets (2024 - 2026)

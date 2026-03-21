@@ -1,7 +1,7 @@
 ---
-title: "Reinhardt LUDWIG | ラインハルト・ルートヴィヒ"
+title: "Reinhardt LUDWIG | Reinhardt ・ LUDWIG"
 name_en: "Reinhardt LUDWIG"
-name_ja: "ラインハルト・ルートヴィヒ"
+name_ja: "Reinhardt ・ LUDWIG"
 slug: "reinhardt-ludwig"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/reinhardt-ludwig"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2020 - 2021) -> bulls (2021 - 2026)"
+scraped_url: "https://all.rugby/player/reinhardt-ludwig"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2020 - 2021) -> Bulls (2021 - 2026)

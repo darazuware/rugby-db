@@ -1,11 +1,11 @@
 ---
-title: "D. Hanson | "
+title: "D. Hanson"
 name_en: "D. Hanson"
 name_ja: ""
 slug: "d.-hanson"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "W. Rigg | "
+title: "W. Rigg"
 name_en: "W. Rigg"
 name_ja: ""
 slug: "w.-rigg"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

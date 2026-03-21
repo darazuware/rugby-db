@@ -1,11 +1,11 @@
 ---
-title: "J. Davis | "
+title: "J. Davis"
 name_en: "J. Davis"
 name_ja: ""
 slug: "j.-davis"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

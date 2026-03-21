@@ -1,11 +1,11 @@
 ---
-title: "O. Spencer | "
+title: "O. Spencer"
 name_en: "O. Spencer"
 name_ja: ""
 slug: "o.-spencer"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

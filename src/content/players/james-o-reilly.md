@@ -8,7 +8,7 @@ height: "183.0"
 weight: "106.0"
 birth_date: "1994.11.12"
 age: 31
-country: ""
+country: "Zealander"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

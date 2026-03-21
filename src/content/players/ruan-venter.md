@@ -1,7 +1,7 @@
 ---
-title: "Ruan VENTER | ルアン・ヴェンター"
+title: "Ruan VENTER | Ruan ・ VENTER"
 name_en: "Ruan VENTER"
-name_ja: "ルアン・ヴェンター"
+name_ja: "Ruan ・ VENTER"
 slug: "ruan-venter"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/ruan-venter"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/ruan-venter"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2021 - 2026)

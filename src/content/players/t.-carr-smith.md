@@ -1,11 +1,11 @@
 ---
-title: "T. Carr-Smith | "
+title: "T. Carr-Smith"
 name_en: "T. Carr-Smith"
 name_ja: ""
 slug: "t.-carr-smith"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

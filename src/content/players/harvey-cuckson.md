@@ -1,7 +1,7 @@
 ---
-title: "Harvey CUCKSON | ハーヴェイ・カクソン"
+title: "Harvey CUCKSON | Harvey ・ CUCKSON"
 name_en: "Harvey CUCKSON"
-name_ja: "ハーヴェイ・カクソン"
+name_ja: "Harvey ・ CUCKSON"
 slug: "harvey-cuckson"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/harvey-cuckson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "worcester warriors (2021 - 2022) -> bath rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> bath rugby (2023 - 2025) -> worcester warriors (2025 - 2025) -> scarlets (2025 - 2025) -> bath rugby (2026 - 2026) -> worcester warriors (2026 - 2026) -> scarlets (2026 - 2026)"
+scraped_url: "https://all.rugby/player/harvey-cuckson"
 ---
 
 ## キャリア遍歴
-
+Worcester Warriors (2021 - 2022) -> Bath Rugby (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Bath Rugby (2023 - 2025) -> Worcester Warriors (2025 - 2025) -> Scarlets (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Worcester Warriors (2026 - 2026) -> Scarlets (2026 - 2026)

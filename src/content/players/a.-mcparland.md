@@ -1,11 +1,11 @@
 ---
-title: "A. McParland | "
+title: "A. McParland"
 name_en: "A. McParland"
 name_ja: ""
 slug: "a.-mcparland"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

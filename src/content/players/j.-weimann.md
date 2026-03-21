@@ -1,11 +1,11 @@
 ---
-title: "J. Weimann | "
+title: "J. Weimann"
 name_en: "J. Weimann"
 name_ja: ""
 slug: "j.-weimann"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

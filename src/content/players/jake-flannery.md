@@ -1,7 +1,7 @@
 ---
-title: "Jake FLANNERY | ジェイク-フラナリー"
+title: "Jake FLANNERY | Jake ・ FLANNERY"
 name_en: "Jake FLANNERY"
-name_ja: "ジェイク-フラナリー"
+name_ja: "Jake ・ FLANNERY"
 slug: "jake-flannery"
 position: "SO"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/jake-flannery"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2018 - 2022) -> ulster rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/jake-flannery"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2018 - 2022) -> Ulster Rugby (2022 - 2026)

@@ -8,7 +8,7 @@ height: "180.0"
 weight: "120.0"
 birth_date: "1999.02.13"
 age: 27
-country: ""
+country: "Georgia"
 birth_place_scraped: ""
 league: "top14"
 team: "ラシン92"

@@ -1,7 +1,7 @@
 ---
-title: "Blair MURRAY | ブレア ・ MURRAY"
+title: "Blair MURRAY | ブレア-マレー"
 name_en: "Blair MURRAY"
-name_ja: "ブレア ・ MURRAY"
+name_ja: "ブレア-マレー"
 slug: "blair-murray"
 position: "FB"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (3)"
+caps: "Wales (3)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/blair-murray"
+scraped_url: "canterbury (2021 - 2024) -> scarlets (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Canterbury (2021 - 2024) -> Scarlets (2024 - 2026)
+New Zealand

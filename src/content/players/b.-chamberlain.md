@@ -1,11 +1,11 @@
 ---
-title: "B. Chamberlain | "
+title: "B. Chamberlain"
 name_en: "B. Chamberlain"
 name_ja: ""
 slug: "b.-chamberlain"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

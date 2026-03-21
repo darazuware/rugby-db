@@ -1,11 +1,11 @@
 ---
-title: "L. Trevett | "
+title: "L. Trevett"
 name_en: "L. Trevett"
 name_ja: ""
 slug: "l.-trevett"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

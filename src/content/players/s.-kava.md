@@ -1,11 +1,11 @@
 ---
-title: "S. Kava | "
+title: "S. Kava"
 name_en: "S. Kava"
 name_ja: ""
 slug: "s.-kava"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

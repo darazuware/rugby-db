@@ -1,7 +1,7 @@
 ---
-title: "Gabe HAWLEY | ゲイブ・ホーリー"
+title: "Gabe HAWLEY | Gabe ・ HAWLEY"
 name_en: "Gabe HAWLEY"
-name_ja: "ゲイブ・ホーリー"
+name_ja: "Gabe ・ HAWLEY"
 slug: "gabe-hawley"
 position: "PR"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/gabe-hawley"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ealing trailfinders (2023 - 2024) -> scarlets (2024 - 2026)"
+scraped_url: "https://all.rugby/player/gabe-hawley"
 ---
 
 ## キャリア遍歴
-
+Ealing Trailfinders (2023 - 2024) -> Scarlets (2024 - 2026)

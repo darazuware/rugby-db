@@ -1,11 +1,11 @@
 ---
-title: "O. Allan | "
+title: "O. Allan"
 name_en: "O. Allan"
 name_ja: ""
 slug: "o.-allan"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "B. Waghorn | "
+title: "B. Waghorn"
 name_en: "B. Waghorn"
 name_ja: ""
 slug: "b.-waghorn"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

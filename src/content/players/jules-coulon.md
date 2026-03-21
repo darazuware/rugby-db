@@ -8,7 +8,7 @@ height: "189.0"
 weight: "105.0"
 birth_date: "2002.07.04"
 age: 23
-country: ""
+country: "France"
 birth_place_scraped: ""
 league: "top14"
 team: "トゥーロン"

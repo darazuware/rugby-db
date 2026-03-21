@@ -1,11 +1,11 @@
 ---
-title: "J. Gilmore | "
+title: "J. Gilmore"
 name_en: "J. Gilmore"
 name_ja: ""
 slug: "j.-gilmore"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

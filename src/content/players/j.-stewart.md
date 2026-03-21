@@ -1,11 +1,11 @@
 ---
-title: "J. Stewart | "
+title: "J. Stewart"
 name_en: "J. Stewart"
 name_ja: ""
 slug: "j.-stewart"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

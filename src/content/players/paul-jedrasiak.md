@@ -8,7 +8,7 @@ height: "200.0"
 weight: "121.0"
 birth_date: "1993.02.06"
 age: 33
-country: ""
+country: "Français"
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"

@@ -1,7 +1,7 @@
 ---
-title: "Levi DOUGLAS | リーヴァイ・ダグラス"
+title: "Levi DOUGLAS | Levi ・ DOUGLAS"
 name_en: "Levi DOUGLAS"
-name_ja: "リーヴァイ・ダグラス"
+name_ja: "Levi ・ DOUGLAS"
 slug: "levi-douglas"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/levi-douglas"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bath rugby (2015 - 2019) -> wasps (2019 - 2019) -> bath rugby (2020 - 2020) -> wasps (2020 - 2020) -> rugby club toulonnais (2020 - 2020) -> wasps (2021 - 2021) -> rugby club toulonnais (2021 - 2021) -> fc grenoble rugby (2021 - 2023) -> urayasu d-rocks (2023 - 2024) -> biarritz olympique pays basque (2024 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/levi-douglas"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2015 - 2019) -> Wasps (2019 - 2019) -> Bath Rugby (2020 - 2020) -> Wasps (2020 - 2020) -> Rugby Club Toulonnais (2020 - 2020) -> Wasps (2021 - 2021) -> Rugby Club Toulonnais (2021 - 2021) -> FC Grenoble Rugby (2021 - 2023) -> Urayasu D-Rocks (2023 - 2024) -> Biarritz Olympique Pays Basque (2024 - 2025) -> Dragons RFC (2025 - 2026)

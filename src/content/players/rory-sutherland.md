@@ -1,7 +1,7 @@
 ---
-title: "Rory SUTHERLAND | ロリー・サザーランド"
+title: "Rory SUTHERLAND | Rory ・ SUTHERLAND"
 name_en: "Rory SUTHERLAND"
-name_ja: "ロリー・サザーランド"
+name_ja: "Rory ・ SUTHERLAND"
 slug: "rory-sutherland"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (37)"
+caps: "Scotland (37)"
 high_school: ""
 university: ""
-scraped_url: "edimbourg rugby (2014 - 2021) -> worcester warriors (2021 - 2022) -> ulster rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> ulster rugby (2023 - 2023) -> oyonnax rugby (2023 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/rory-sutherland"
 ---
 
 ## キャリア遍歴
-Scotland
+Edimbourg Rugby (2014 - 2021) -> Worcester Warriors (2021 - 2022) -> Ulster Rugby (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Ulster Rugby (2023 - 2023) -> Oyonnax Rugby (2023 - 2024) -> Glasgow Warriors (2024 - 2026)

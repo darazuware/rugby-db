@@ -1,11 +1,11 @@
 ---
-title: "W. Evans | "
+title: "W. Evans"
 name_en: "W. Evans"
 name_ja: ""
 slug: "w.-evans"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

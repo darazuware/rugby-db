@@ -5,7 +5,7 @@ name_ja: "アルバート・アルコック"
 slug: "albert-alcock"
 position: "HO"
 height: "175.0"
-weight: "nan"
+weight: ""
 birth_date: "2003.11.18"
 age: 22
 country: ""

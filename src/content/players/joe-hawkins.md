@@ -1,7 +1,7 @@
 ---
-title: "Joe HAWKINS | ジョー・ホーキンス"
+title: "Joe HAWKINS | Joe ・ HAWKINS"
 name_en: "Joe HAWKINS"
-name_ja: "ジョー・ホーキンス"
+name_ja: "Joe ・ HAWKINS"
 slug: "joe-hawkins"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/joe-hawkins"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2019 - 2023) -> exeter chiefs (2023 - 2025) -> scarlets (2025 - 2026)"
+scraped_url: "https://all.rugby/player/joe-hawkins"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2019 - 2023) -> Exeter Chiefs (2023 - 2025) -> Scarlets (2025 - 2026)

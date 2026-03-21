@@ -1,7 +1,7 @@
 ---
-title: "Ryan BURKE | ライアン・バーク"
+title: "Ryan BURKE | ライアン ・ BURKE"
 name_en: "Ryan BURKE"
-name_ja: "ライアン・バーク"
+name_ja: "ライアン ・ BURKE"
 slug: "ryan-burke"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/ryan-burke"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2023 - 2026)"
+scraped_url: "https://all.rugby/player/ryan-burke"
 ---
 
 ## キャリア遍歴
-
+Glasgow Warriors (2023 - 2026)

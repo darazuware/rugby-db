@@ -1,11 +1,11 @@
 ---
-title: "B. Loader | "
+title: "B. Loader"
 name_en: "B. Loader"
 name_ja: ""
 slug: "b.-loader"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

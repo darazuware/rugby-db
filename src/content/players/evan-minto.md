@@ -1,9 +1,9 @@
 ---
-title: "Evan MINTO | エヴァン・ミント"
+title: "Evan MINTO | Evan ・ MINTO"
 name_en: "Evan MINTO"
-name_ja: "エヴァン・ミント"
+name_ja: "Evan ・ MINTO"
 slug: "evan-minto"
-position: "FL/No8"
+position: "Back row"
 height: "186.0"
 weight: "102.0"
 birth_date: "2006.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/evan-minto"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2024 - 2024) -> hartpury rfc (2024 - 2024) -> dragons rfc (2025 - 2025) -> hartpury rfc (2025 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/evan-minto"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2024 - 2024) -> Hartpury RFC (2024 - 2024) -> Dragons RFC (2025 - 2025) -> Hartpury RFC (2025 - 2025) -> Dragons RFC (2025 - 2026)

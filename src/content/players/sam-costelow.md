@@ -1,7 +1,7 @@
 ---
-title: "Sam COSTELOW | サム・コステロウ"
+title: "Sam COSTELOW | サム ・ COSTELOW"
 name_en: "Sam COSTELOW"
-name_ja: "サム・コステロウ"
+name_ja: "サム ・ COSTELOW"
 slug: "sam-costelow"
 position: "SO"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (8)"
+caps: "Wales (8)"
 high_school: ""
 university: ""
-scraped_url: "leicester tigers (2018 - 2020) -> scarlets (2020 - 2026)"
+scraped_url: "https://all.rugby/player/sam-costelow"
 ---
 
 ## キャリア遍歴
-Wales
+Leicester Tigers (2018 - 2020) -> Scarlets (2020 - 2026)

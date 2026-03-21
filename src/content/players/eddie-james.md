@@ -1,7 +1,7 @@
 ---
-title: "Eddie JAMES | Eddie ・ ジェームズ"
+title: "Eddie JAMES | エディー・ジェームズ"
 name_en: "Eddie JAMES"
-name_ja: "Eddie ・ ジェームズ"
+name_ja: "エディー・ジェームズ"
 slug: "eddie-james"
 position: "CTB"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (3)"
+caps: "Wales (3)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/eddie-james"
+scraped_url: "scarlets (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2020 - 2026)
+

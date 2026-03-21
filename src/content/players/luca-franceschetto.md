@@ -1,7 +1,7 @@
 ---
-title: "Luca FRANCESCHETTO | ルカ・フランチェスケット"
+title: "Luca FRANCESCHETTO | Luca ・ FRANCESCHETTO"
 name_en: "Luca FRANCESCHETTO"
-name_ja: "ルカ・フランチェスケット"
+name_ja: "Luca ・ FRANCESCHETTO"
 slug: "luca-franceschetto"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/luca-franceschetto"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "petrarca rugby (2019 - 2022) -> colorno (2022 - 2024) -> zebre parma (2024 - 2026)"
+scraped_url: "https://all.rugby/player/luca-franceschetto"
 ---
 
 ## キャリア遍歴
-
+Petrarca Rugby (2019 - 2022) -> Colorno (2022 - 2024) -> Zebre Parma (2024 - 2026)

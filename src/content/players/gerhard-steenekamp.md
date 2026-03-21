@@ -1,7 +1,7 @@
 ---
-title: "Gerhard STEENEKAMP | ゲルハルト-ステーネカンプ"
+title: "Gerhard STEENEKAMP | Gerhard ・ STEENEKAMP"
 name_en: "Gerhard STEENEKAMP"
-name_ja: "ゲルハルト-ステーネカンプ"
+name_ja: "Gerhard ・ STEENEKAMP"
 slug: "gerhard-steenekamp"
 position: "PR"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/gerhard-steenekamp"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "tuks rugby club (2018 - 2019) -> bulls (2019 - 2026)"
+scraped_url: "https://all.rugby/player/gerhard-steenekamp"
 ---
 
 ## キャリア遍歴
-
+Tuks Rugby Club (2018 - 2019) -> Bulls (2019 - 2026)

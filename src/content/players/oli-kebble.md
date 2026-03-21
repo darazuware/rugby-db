@@ -1,7 +1,7 @@
 ---
-title: "Oli KEBBLE | オリ・ケブル"
+title: "Oli KEBBLE | Oli ・ KEBBLE"
 name_en: "Oli KEBBLE"
-name_ja: "オリ・ケブル"
+name_ja: "Oli ・ KEBBLE"
 slug: "oli-kebble"
 position: "PR"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/oli-kebble"
+caps: "South Africa"
 high_school: ""
 university: ""
-scraped_url: "stormers (2013 - 2017) -> glasgow warriors (2017 - 2024) -> oyonnax rugby (2024 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/oli-kebble"
 ---
 
 ## キャリア遍歴
-South Africa
+Stormers (2013 - 2017) -> Glasgow Warriors (2017 - 2024) -> Oyonnax Rugby (2024 - 2025) -> Stormers (2025 - 2026)

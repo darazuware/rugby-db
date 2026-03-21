@@ -1,11 +1,11 @@
 ---
-title: "T. Gwilliam | "
+title: "T. Gwilliam"
 name_en: "T. Gwilliam"
 name_ja: ""
 slug: "t.-gwilliam"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

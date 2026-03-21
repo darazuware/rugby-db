@@ -1,11 +1,11 @@
 ---
-title: "W. Trenholm | "
+title: "W. Trenholm"
 name_en: "W. Trenholm"
 name_ja: ""
 slug: "w.-trenholm"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

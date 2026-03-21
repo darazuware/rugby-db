@@ -5,7 +5,7 @@ name_ja: "Ciar ・ MANGAN"
 slug: "ciaran-mangan"
 position: "CTB"
 height: "188.0"
-weight: "nan"
+weight: ""
 birth_date: "2005.."
 age: 21
 country: ""

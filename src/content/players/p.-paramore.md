@@ -1,11 +1,11 @@
 ---
-title: "P. Paramore | "
+title: "P. Paramore"
 name_en: "P. Paramore"
 name_ja: ""
 slug: "p.-paramore"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

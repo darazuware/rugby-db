@@ -1,11 +1,11 @@
 ---
-title: "R. Crowley | "
+title: "R. Crowley"
 name_en: "R. Crowley"
 name_ja: ""
 slug: "r.-crowley"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

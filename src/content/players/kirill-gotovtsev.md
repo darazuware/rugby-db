@@ -1,11 +1,11 @@
 ---
-title: "Kirill Gotovtsev | "
+title: "Kirill Gotovtsev"
 name_en: "Kirill Gotovtsev"
 name_ja: ""
 slug: "kirill-gotovtsev"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1987.07.17"
 age: 38
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "L. Schmid | "
+title: "L. Schmid"
 name_en: "L. Schmid"
 name_ja: ""
 slug: "l.-schmid"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

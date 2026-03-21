@@ -1,7 +1,7 @@
 ---
-title: "Gary PORTER | ゲイリー・ポーター"
+title: "Gary PORTER | Gary ・ PORTER"
 name_en: "Gary PORTER"
-name_ja: "ゲイリー・ポーター"
+name_ja: "Gary ・ PORTER"
 slug: "gary-porter"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/gary-porter"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2017 - 2018) -> ealing trailfinders (2021 - 2022) -> stormers (2022 - 2026)"
+scraped_url: "https://all.rugby/player/gary-porter"
 ---
 
 ## キャリア遍歴
-
+Western Province (2017 - 2018) -> Ealing Trailfinders (2021 - 2022) -> Stormers (2022 - 2026)

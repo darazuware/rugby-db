@@ -1,7 +1,7 @@
 ---
-title: "Ivan NEMER | イヴァン-ネメル"
+title: "Ivan NEMER | Ivan ・ NEMER"
 name_en: "Ivan NEMER"
-name_ja: "イヴァン-ネメル"
+name_ja: "Ivan ・ NEMER"
 slug: "ivan-nemer"
 position: "PR"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇮🇹 Italy (13)"
+caps: "Italy (13)"
 high_school: ""
 university: ""
-scraped_url: "rugby casale (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> rugby casale (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
+scraped_url: "https://all.rugby/player/ivan-nemer"
 ---
 
 ## キャリア遍歴
-Argentina
+Rugby Casale (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Rugby Casale (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2026)

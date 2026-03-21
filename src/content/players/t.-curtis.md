@@ -1,11 +1,11 @@
 ---
-title: "T. Curtis | "
+title: "T. Curtis"
 name_en: "T. Curtis"
 name_ja: ""
 slug: "t.-curtis"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

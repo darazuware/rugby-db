@@ -1,11 +1,11 @@
 ---
-title: "O. Sodeke | "
+title: "O. Sodeke"
 name_en: "O. Sodeke"
 name_ja: ""
 slug: "o.-sodeke"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

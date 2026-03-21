@@ -11,7 +11,7 @@ age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Toshiba Brave Lupus Tokyo"
+team: "東芝ブレイブルーパス東京（2025-26）"
 caps: "NZ代表(3)"
 high_school: "SaintKentigernCollege（セントケンティガンカレッジ）"
 university: ""

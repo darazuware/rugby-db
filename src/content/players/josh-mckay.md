@@ -1,7 +1,7 @@
 ---
-title: "Josh MCKAY | ジョシュ・マッケイ"
+title: "Josh MCKAY | ジョシュ ・ MCKAY"
 name_en: "Josh MCKAY"
-name_ja: "ジョシュ・マッケイ"
+name_ja: "ジョシュ ・ MCKAY"
 slug: "josh-mckay"
 position: "FB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/josh-mckay"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "highlanders (2017 - 2019) -> canterbury (2019 - 2019) -> highlanders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> glasgow warriors (2021 - 2026)"
+scraped_url: "https://all.rugby/player/josh-mckay"
 ---
 
 ## キャリア遍歴
-
+Highlanders (2017 - 2019) -> Canterbury (2019 - 2019) -> Highlanders (2020 - 2020) -> Canterbury (2020 - 2020) -> Crusaders (2020 - 2020) -> Canterbury (2020 - 2020) -> Crusaders (2021 - 2021) -> Canterbury (2021 - 2021) -> Glasgow Warriors (2021 - 2026)

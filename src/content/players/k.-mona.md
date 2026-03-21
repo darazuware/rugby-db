@@ -1,11 +1,11 @@
 ---
-title: "K. Mona | "
+title: "K. Mona"
 name_en: "K. Mona"
 name_ja: ""
 slug: "k.-mona"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

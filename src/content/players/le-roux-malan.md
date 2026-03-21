@@ -1,7 +1,7 @@
 ---
-title: "Le Roux MALAN | ル・ルー・マラン"
+title: "Le Roux MALAN | ル ・ ルー ・ MALAN"
 name_en: "Le Roux MALAN"
-name_ja: "ル・ルー・マラン"
+name_ja: "ル ・ ルー ・ MALAN"
 slug: "le-roux-malan"
 position: "CTB"
 height: "191.0"
@@ -10,13 +10,13 @@ birth_date: "1999.03.31"
 age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: "🇳🇦 Namibia (2)"
+caps: "Namibia (2)"
 high_school: ""
 university: ""
-scraped_url: "natal sharks (2018 - 2019) -> new england free jacks (2021 - 2023) -> hawke's bay magpies (2023 - 2023) -> new england free jacks (2024 - 2024) -> hawke's bay magpies (2024 - 2024) -> new england free jacks (2024 - 2024) -> hawke's bay magpies (2024 - 2024) -> new england free jacks (2025 - 2025) -> hawke's bay magpies (2025 - 2025) -> sharks (2025 - 2026)"
+scraped_url: "https://all.rugby/player/le-roux-malan"
 ---
 
 ## キャリア遍歴
-
+Natal Sharks (2018 - 2019) -> New England Free Jacks (2021 - 2023) -> Hawke's Bay Magpies (2023 - 2023) -> New England Free Jacks (2024 - 2024) -> Hawke's Bay Magpies (2024 - 2024) -> New England Free Jacks (2024 - 2024) -> Hawke's Bay Magpies (2024 - 2024) -> New England Free Jacks (2025 - 2025) -> Hawke's Bay Magpies (2025 - 2025) -> Sharks (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Cormac IZUCHUKWU | Cormac ・ IZUCHUKWU"
+title: "Cormac IZUCHUKWU | コーマック-イズチュク"
 name_en: "Cormac IZUCHUKWU"
-name_ja: "Cormac ・ IZUCHUKWU"
+name_ja: "コーマック-イズチュク"
 slug: "cormac-izuchukwu"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "🇮🇪 Ireland (1)"
+caps: "Ireland (1)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/cormac-izuchukwu"
+scraped_url: "old wesley rfc (2019 - 2020) -> ulster rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Old Wesley RFC (2019 - 2020) -> Ulster Rugby (2020 - 2026)
+

@@ -1,11 +1,11 @@
 ---
-title: "J. Morris | "
+title: "J. Morris"
 name_en: "J. Morris"
 name_ja: ""
 slug: "j.-morris"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

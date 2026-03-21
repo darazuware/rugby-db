@@ -1,11 +1,11 @@
 ---
-title: "L. Green | "
+title: "L. Green"
 name_en: "L. Green"
 name_ja: ""
 slug: "l.-green"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

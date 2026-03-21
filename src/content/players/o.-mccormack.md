@@ -1,11 +1,11 @@
 ---
-title: "O. McCormack | "
+title: "O. McCormack"
 name_en: "O. McCormack"
 name_ja: ""
 slug: "o.-mccormack"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "F. van Wyk | "
+title: "F. van Wyk"
 name_en: "F. van Wyk"
 name_ja: ""
 slug: "f.-van-wyk"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

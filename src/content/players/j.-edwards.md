@@ -1,11 +1,11 @@
 ---
-title: "J. Edwards | "
+title: "J. Edwards"
 name_en: "J. Edwards"
 name_ja: ""
 slug: "j.-edwards"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

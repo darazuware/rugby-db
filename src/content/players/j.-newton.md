@@ -1,11 +1,11 @@
 ---
-title: "J. Newton | "
+title: "J. Newton"
 name_en: "J. Newton"
 name_ja: ""
 slug: "j.-newton"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

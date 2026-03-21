@@ -1,11 +1,11 @@
 ---
-title: "Len Ikitau | "
+title: "Len Ikitau"
 name_en: "Len Ikitau"
 name_ja: ""
 slug: "len-ikitau"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1998.10.01"
 age: 27
 country: ""

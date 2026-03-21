@@ -1,11 +1,11 @@
 ---
-title: "G. McGuigan | "
+title: "G. McGuigan"
 name_en: "G. McGuigan"
 name_ja: ""
 slug: "g.-mcguigan"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

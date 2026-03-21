@@ -1,7 +1,7 @@
 ---
-title: "Colm REILLY | Colm ・ REILLY"
+title: "Colm REILLY | コルム・ライリー"
 name_en: "Colm REILLY"
-name_ja: "Colm ・ REILLY"
+name_ja: "コルム・ライリー"
 slug: "colm-reilly"
 position: "SH"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/colm-reilly"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/colm-reilly"
+scraped_url: "buccaneers rfc (2019 - 2020) -> connacht rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Buccaneers RFC (2019 - 2020) -> Connacht Rugby (2020 - 2026)
+

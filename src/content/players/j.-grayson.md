@@ -1,11 +1,11 @@
 ---
-title: "J. Grayson | "
+title: "J. Grayson"
 name_en: "J. Grayson"
 name_ja: ""
 slug: "j.-grayson"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

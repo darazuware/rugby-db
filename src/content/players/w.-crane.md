@@ -1,11 +1,11 @@
 ---
-title: "W. Crane | "
+title: "W. Crane"
 name_en: "W. Crane"
 name_ja: ""
 slug: "w.-crane"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

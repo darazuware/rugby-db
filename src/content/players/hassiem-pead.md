@@ -1,7 +1,7 @@
 ---
-title: "Hassiem PEAD | ハシェム・ピード"
+title: "Hassiem PEAD | Hassiem ・ PEAD"
 name_en: "Hassiem PEAD"
-name_ja: "ハシェム・ピード"
+name_ja: "Hassiem ・ PEAD"
 slug: "hassiem-pead"
 position: "SH"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/hassiem-pead"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "golden lions (2023 - 2025) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/hassiem-pead"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2023 - 2025) -> Lions Rugby (2025 - 2026)

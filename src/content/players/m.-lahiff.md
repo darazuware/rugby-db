@@ -1,11 +1,11 @@
 ---
-title: "M. Lahiff | "
+title: "M. Lahiff"
 name_en: "M. Lahiff"
 name_ja: ""
 slug: "m.-lahiff"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

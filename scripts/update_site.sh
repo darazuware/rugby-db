@@ -17,18 +17,20 @@ python3 scripts/scrape_premiership_results.py
 # 2. 順位情報の更新 (all.rugby および各公式から最新取得)
 echo "最新の順位情報を取得中..."
 python3 scripts/scrape_standings.py
-python3 scripts/scrape_mlr_standings.py
 
 # 2. 選手情報の Markdown 再生成 (統合スクリプト：全リーグ対応)
 echo "重複排除を実行中..."
 python3 scripts/deduplicate_master.py
 
-echo "全選手情報を生成中 (League One, SR, Top 14, URC, MLR)..."
+echo "全選手情報を生成中 (League One, SR, Top 14, URC)..."
 python3 scripts/generate_players.py
 if [ $? -ne 0 ]; then
     echo "❌ エラー: 選手情報の Markdown 生成に失敗しました。"
     exit 1
 fi
+
+echo "代表チーム情報を生成中..."
+python3 scripts/generate_national_teams.py
 
 # 3. チーム情報の更新 (Slug マッピング等)
 echo "チーム情報を更新中..."

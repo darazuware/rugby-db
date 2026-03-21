@@ -8,7 +8,7 @@ height: "192.0"
 weight: "108.0"
 birth_date: "1989.09.01"
 age: 36
-country: ""
+country: "Fijian"
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"

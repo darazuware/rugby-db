@@ -1,7 +1,7 @@
 ---
-title: "Damian MARKUS | ダミアン・マルクス"
+title: "Damian MARKUS | ダミアン ・ MARKUS"
 name_en: "Damian MARKUS"
-name_ja: "ダミアン・マルクス"
+name_ja: "ダミアン ・ MARKUS"
 slug: "damian-markus"
 position: "CTB"
 height: "167.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/damian-markus"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stellenberg high school (2020 - 2021) -> stade rochelais (2021 - 2022) -> western province (2022 - 2024) -> shizuoka blue revs (2024 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/damian-markus"
 ---
 
 ## キャリア遍歴
-
+Stellenberg High School (2020 - 2021) -> Stade Rochelais (2021 - 2022) -> Western Province (2022 - 2024) -> Shizuoka Blue Revs (2024 - 2025) -> Stormers (2025 - 2026)

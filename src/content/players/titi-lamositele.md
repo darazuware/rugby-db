@@ -1,11 +1,11 @@
 ---
-title: "Titi Lamositele | "
+title: "Titi Lamositele"
 name_en: "Titi Lamositele"
 name_ja: ""
 slug: "titi-lamositele"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1995.02.11"
 age: 31
 country: ""

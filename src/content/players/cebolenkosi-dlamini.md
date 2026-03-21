@@ -10,7 +10,7 @@ birth_date: "2001.11.29"
 age: 24
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: ""
 high_school: ""

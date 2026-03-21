@@ -1,11 +1,11 @@
 ---
-title: "Joseph Dweba | "
+title: "Joseph Dweba"
 name_en: "Joseph Dweba"
 name_ja: ""
 slug: "joseph-dweba"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1995.10.25"
 age: 30
 country: ""

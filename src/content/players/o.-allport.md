@@ -1,11 +1,11 @@
 ---
-title: "O. Allport | "
+title: "O. Allport"
 name_en: "O. Allport"
 name_ja: ""
 slug: "o.-allport"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

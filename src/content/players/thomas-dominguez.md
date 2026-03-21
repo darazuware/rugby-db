@@ -1,7 +1,7 @@
 ---
-title: "Thomas DOMINGUEZ | トーマス ・ DOMINGUEZ"
+title: "Thomas DOMINGUEZ | トマ・ドミンゲス"
 name_en: "Thomas DOMINGUEZ"
-name_ja: "トーマス ・ DOMINGUEZ"
+name_ja: "トマ・ドミンゲス"
 slug: "thomas-dominguez"
 position: "SH"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/thomas-dominguez"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/thomas-dominguez"
+scraped_url: "club atlético san isidro (2018 - 2019) -> valorugby emilia (2021 - 2023) -> zebre parma (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Club Atlético San Isidro (2018 - 2019) -> Valorugby Emilia (2021 - 2023) -> Zebre Parma (2023 - 2026)
+

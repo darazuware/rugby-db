@@ -1,7 +1,7 @@
 ---
-title: "Jack BROWN | ジャック-ブラウン"
+title: "Jack BROWN | ジャック ・ BROWN"
 name_en: "Jack BROWN"
-name_ja: "ジャック-ブラウン"
+name_ja: "ジャック ・ BROWN"
 slug: "jack-brown"
 position: "FB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/jack-brown"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "watsonian rugby club (2022 - 2023) -> edimbourg rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/jack-brown"
 ---
 
 ## キャリア遍歴
-
+Watsonian Rugby Club (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)

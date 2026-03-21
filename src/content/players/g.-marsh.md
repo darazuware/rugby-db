@@ -1,11 +1,11 @@
 ---
-title: "G. Marsh | "
+title: "G. Marsh"
 name_en: "G. Marsh"
 name_ja: ""
 slug: "g.-marsh"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

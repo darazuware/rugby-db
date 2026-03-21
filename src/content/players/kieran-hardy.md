@@ -1,7 +1,7 @@
 ---
-title: "Kieran HARDY | キーラン・ハーディー"
+title: "Kieran HARDY | Kieran ・ HARDY"
 name_en: "Kieran HARDY"
-name_ja: "キーラン・ハーディー"
+name_ja: "Kieran ・ HARDY"
 slug: "kieran-hardy"
 position: "SH"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (18)"
+caps: "Wales (18)"
 high_school: ""
 university: ""
-scraped_url: "scarlets (2014 - 2024) -> ospreys (2024 - 2026)"
+scraped_url: "https://all.rugby/player/kieran-hardy"
 ---
 
 ## キャリア遍歴
-Wales
+Scarlets (2014 - 2024) -> Ospreys (2024 - 2026)

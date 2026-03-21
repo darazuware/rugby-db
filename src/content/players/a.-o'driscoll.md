@@ -1,11 +1,11 @@
 ---
-title: "A. O'Driscoll | "
+title: "A. O'Driscoll"
 name_en: "A. O'Driscoll"
 name_ja: ""
 slug: "a.-o'driscoll"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

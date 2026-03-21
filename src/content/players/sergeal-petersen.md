@@ -1,9 +1,9 @@
 ---
-title: "Sergeal PETERSEN | Sergeal ・ PETERSEN"
+title: "Sergeal PETERSEN | サージール・ピーターセン"
 name_en: "Sergeal PETERSEN"
-name_ja: "Sergeal ・ PETERSEN"
+name_ja: "サージール・ピーターセン"
 slug: "sergeal-petersen"
-position: "Winger"
+position: "WTB"
 height: "173.0"
 weight: "86.0"
 birth_date: "1994.08.01"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/sergeal-petersen"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/sergeal-petersen"
+scraped_url: "central cheetahs (2014 - 2018) -> stormers (2018 - 2022) -> shimizu koto blue sharks (2022 - 2023) -> bulls (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2014 - 2018) -> Stormers (2018 - 2022) -> Shimizu Koto Blue Sharks (2022 - 2023) -> Bulls (2023 - 2026)
+

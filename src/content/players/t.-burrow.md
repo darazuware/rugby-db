@@ -1,11 +1,11 @@
 ---
-title: "T. Burrow | "
+title: "T. Burrow"
 name_en: "T. Burrow"
 name_ja: ""
 slug: "t.-burrow"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

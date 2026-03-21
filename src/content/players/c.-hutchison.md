@@ -1,11 +1,11 @@
 ---
-title: "C. Hutchison | "
+title: "C. Hutchison"
 name_en: "C. Hutchison"
 name_ja: ""
 slug: "c.-hutchison"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

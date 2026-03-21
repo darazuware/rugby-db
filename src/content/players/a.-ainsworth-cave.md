@@ -1,11 +1,11 @@
 ---
-title: "A. Ainsworth-Cave | "
+title: "A. Ainsworth-Cave"
 name_en: "A. Ainsworth-Cave"
 name_ja: ""
 slug: "a.-ainsworth-cave"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

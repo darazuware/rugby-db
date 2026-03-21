@@ -1,11 +1,11 @@
 ---
-title: "S. Scott | "
+title: "S. Scott"
 name_en: "S. Scott"
 name_ja: ""
 slug: "s.-scott"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

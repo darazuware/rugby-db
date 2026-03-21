@@ -1,9 +1,9 @@
 ---
-title: "Iwan STEPHENS | イワン-スティーヴンス"
+title: "Iwan STEPHENS | Iwan ・ STEPHENS"
 name_en: "Iwan STEPHENS"
-name_ja: "イワン-スティーヴンス"
+name_ja: "Iwan ・ STEPHENS"
 slug: "iwan-stephens"
-position: "WTB"
+position: "Winger"
 height: "170.0"
 weight: "83.0"
 birth_date: "2002.03.24"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/iwan-stephens"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leeds rhinos rugby league club (2019 - 2020) -> newcastle (2020 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/iwan-stephens"
 ---
 
 ## キャリア遍歴
-
+Leeds Rhinos Rugby League Club (2019 - 2020) -> Newcastle (2020 - 2024) -> Cardiff Rugby (2024 - 2026)

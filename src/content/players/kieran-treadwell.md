@@ -1,11 +1,11 @@
 ---
-title: "Kieran Treadwell | "
+title: "Kieran Treadwell"
 name_en: "Kieran Treadwell"
 name_ja: ""
 slug: "kieran-treadwell"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1995.11.06"
 age: 30
 country: ""

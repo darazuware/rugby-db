@@ -1,11 +1,11 @@
 ---
-title: "W. Jeanes | "
+title: "W. Jeanes"
 name_en: "W. Jeanes"
 name_ja: ""
 slug: "w.-jeanes"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

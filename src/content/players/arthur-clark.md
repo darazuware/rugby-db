@@ -1,11 +1,11 @@
 ---
-title: "Arthur Clark | "
+title: "Arthur Clark"
 name_en: "Arthur Clark"
 name_ja: ""
 slug: "arthur-clark"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2001.12.19"
 age: 24
 country: ""

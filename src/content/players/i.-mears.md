@@ -1,11 +1,11 @@
 ---
-title: "I. Mears | "
+title: "I. Mears"
 name_en: "I. Mears"
 name_ja: ""
 slug: "i.-mears"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

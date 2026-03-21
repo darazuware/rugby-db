@@ -1,11 +1,11 @@
 ---
-title: "S. Barker | "
+title: "S. Barker"
 name_en: "S. Barker"
 name_ja: ""
 slug: "s.-barker"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

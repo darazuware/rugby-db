@@ -1,7 +1,7 @@
 ---
-title: "John DEVINE | ジョン・デヴァイン"
+title: "John DEVINE | ジョン ・ DEVINE"
 name_en: "John DEVINE"
-name_ja: "ジョン・デヴァイン"
+name_ja: "ジョン ・ DEVINE"
 slug: "john-devine"
 position: "CTB"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/john-devine"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "connacht rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/john-devine"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2022 - 2026)

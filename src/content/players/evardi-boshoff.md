@@ -1,7 +1,7 @@
 ---
-title: "Evardi BOSHOFF | エヴァルディ・ボスホフ"
+title: "Evardi BOSHOFF | Evardi ・ BOSHOFF"
 name_en: "Evardi BOSHOFF"
-name_ja: "エヴァルディ・ボスホフ"
+name_ja: "Evardi ・ BOSHOFF"
 slug: "evardi-boshoff"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/evardi-boshoff"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2026)"
+scraped_url: "https://all.rugby/player/evardi-boshoff"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2026)

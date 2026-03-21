@@ -1,11 +1,11 @@
 ---
-title: "N. Heward | "
+title: "N. Heward"
 name_en: "N. Heward"
 name_ja: ""
 slug: "n.-heward"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

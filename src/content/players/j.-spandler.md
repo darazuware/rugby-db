@@ -1,11 +1,11 @@
 ---
-title: "J. Spandler | "
+title: "J. Spandler"
 name_en: "J. Spandler"
 name_ja: ""
 slug: "j.-spandler"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

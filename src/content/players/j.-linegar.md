@@ -1,11 +1,11 @@
 ---
-title: "J. Linegar | "
+title: "J. Linegar"
 name_en: "J. Linegar"
 name_ja: ""
 slug: "j.-linegar"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

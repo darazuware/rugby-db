@@ -1,11 +1,11 @@
 ---
-title: "W. Roue | "
+title: "W. Roue"
 name_en: "W. Roue"
 name_ja: ""
 slug: "w.-roue"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

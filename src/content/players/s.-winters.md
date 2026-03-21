@@ -1,11 +1,11 @@
 ---
-title: "S. Winters | "
+title: "S. Winters"
 name_en: "S. Winters"
 name_ja: ""
 slug: "s.-winters"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

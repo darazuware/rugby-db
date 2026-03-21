@@ -1,11 +1,11 @@
 ---
-title: "L. Pearson | "
+title: "L. Pearson"
 name_en: "L. Pearson"
 name_ja: ""
 slug: "l.-pearson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Nathan DOAK | ネイサン・ドーク"
+title: "Nathan DOAK | Nathan ・ DOAK"
 name_en: "Nathan DOAK"
-name_ja: "ネイサン・ドーク"
+name_ja: "Nathan ・ DOAK"
 slug: "nathan-doak"
 position: "SH"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/nathan-doak"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "wallace high school (2019 - 2020) -> ulster rugby (2020 - 2026)"
+scraped_url: "https://all.rugby/player/nathan-doak"
 ---
 
 ## キャリア遍歴
-
+Wallace High School (2019 - 2020) -> Ulster Rugby (2020 - 2026)

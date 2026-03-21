@@ -1,11 +1,11 @@
 ---
-title: "F. St John | "
+title: "F. St John"
 name_en: "F. St John"
 name_ja: ""
 slug: "f.-st-john"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

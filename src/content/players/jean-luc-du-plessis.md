@@ -1,7 +1,7 @@
 ---
-title: "Jean-Luc DU PLESSIS | ジャン＝リュック-デュ・プレシス"
+title: "Jean-Luc DU PLESSIS | Jean ・ Luc ・ デュ ・ PLESSIS"
 name_en: "Jean-Luc DU PLESSIS"
-name_ja: "ジャン＝リュック-デュ・プレシス"
+name_ja: "Jean ・ Luc ・ デュ ・ PLESSIS"
 slug: "jean-luc-du-plessis"
 position: "SO"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/jean-luc-du-plessis"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2015 - 2020) -> mie honda heat rfc (2021 - 2022) -> stormers (2022 - 2026)"
+scraped_url: "https://all.rugby/player/jean-luc-du-plessis"
 ---
 
 ## キャリア遍歴
-
+Stormers (2015 - 2020) -> Mie Honda Heat RFC (2021 - 2022) -> Stormers (2022 - 2026)

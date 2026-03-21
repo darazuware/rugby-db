@@ -1,11 +1,11 @@
 ---
-title: "J. Bailey | "
+title: "J. Bailey"
 name_en: "J. Bailey"
 name_ja: ""
 slug: "j.-bailey"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

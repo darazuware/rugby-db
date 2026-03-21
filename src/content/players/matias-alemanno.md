@@ -1,11 +1,11 @@
 ---
-title: "Matias Alemanno | "
+title: "Matias Alemanno"
 name_en: "Matias Alemanno"
 name_ja: ""
 slug: "matias-alemanno"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1991.12.05"
 age: 34
 country: ""

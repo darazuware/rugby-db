@@ -1,11 +1,11 @@
 ---
-title: "L. Kolade | "
+title: "L. Kolade"
 name_en: "L. Kolade"
 name_ja: ""
 slug: "l.-kolade"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

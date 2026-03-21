@@ -1,11 +1,11 @@
 ---
-title: "M. Reid | "
+title: "M. Reid"
 name_en: "M. Reid"
 name_ja: ""
 slug: "m.-reid"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "E. Prowse | "
+title: "E. Prowse"
 name_en: "E. Prowse"
 name_ja: ""
 slug: "e.-prowse"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

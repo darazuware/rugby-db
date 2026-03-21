@@ -1,7 +1,7 @@
 ---
-title: "Stafford MCDOWALL | Stafford ・ MCDOWALL"
+title: "Stafford MCDOWALL | スタッフォード・マクドウォール"
 name_en: "Stafford MCDOWALL"
-name_ja: "Stafford ・ MCDOWALL"
+name_ja: "スタッフォード・マクドウォール"
 slug: "stafford-mcdowall"
 position: "CTB"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (8)"
+caps: "Scotland (8)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/stafford-mcdowall"
+scraped_url: "glasgow warriors (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2017 - 2026)
+Scotland

@@ -1,11 +1,11 @@
 ---
-title: "S. Benitez Cruz | "
+title: "S. Benitez Cruz"
 name_en: "S. Benitez Cruz"
 name_ja: ""
 slug: "s.-benitez-cruz"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

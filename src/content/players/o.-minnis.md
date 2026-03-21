@@ -1,11 +1,11 @@
 ---
-title: "O. Minnis | "
+title: "O. Minnis"
 name_en: "O. Minnis"
 name_ja: ""
 slug: "o.-minnis"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

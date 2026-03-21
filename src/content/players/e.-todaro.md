@@ -1,11 +1,11 @@
 ---
-title: "E. Todaro | "
+title: "E. Todaro"
 name_en: "E. Todaro"
 name_ja: ""
 slug: "e.-todaro"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

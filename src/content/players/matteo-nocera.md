@@ -1,7 +1,7 @@
 ---
-title: "Matteo NOCERA | マッテオ・ノチェーラ"
+title: "Matteo NOCERA | Matteo ・ NOCERA"
 name_en: "Matteo NOCERA"
-name_ja: "マッテオ・ノチェーラ"
+name_ja: "Matteo ・ NOCERA"
 slug: "matteo-nocera"
 position: "PR"
 height: "194.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/matteo-nocera"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "zebre parma (2018 - 2026)"
+scraped_url: "https://all.rugby/player/matteo-nocera"
 ---
 
 ## キャリア遍歴
-
+Zebre Parma (2018 - 2026)

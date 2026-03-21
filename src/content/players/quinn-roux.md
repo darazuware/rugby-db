@@ -1,12 +1,12 @@
 ---
-title: "Quinn ROUX | "
-name_en: "Quinn ROUX"
+title: "Quinn Roux"
+name_en: "Quinn Roux"
 name_ja: ""
 slug: "quinn-roux"
 position: "Lock"
-height: "nan"
-weight: "nan"
-birth_date: "1990-10-30"
+height: ""
+weight: ""
+birth_date: "1990.10.30"
 age: 35
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/quinn-roux"
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

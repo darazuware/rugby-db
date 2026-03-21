@@ -1,7 +1,7 @@
 ---
-title: "Johan MULDER | ヨハン・モルダー"
+title: "Johan MULDER | Johan ・ MULDER"
 name_en: "Johan MULDER"
-name_ja: "ヨハン・モルダー"
+name_ja: "Johan ・ MULDER"
 slug: "johan-mulder"
 position: "SH"
 height: "176.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/johan-mulder"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/johan-mulder"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2023 - 2024) -> Cardiff Rugby (2024 - 2026)

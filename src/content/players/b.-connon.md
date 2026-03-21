@@ -1,11 +1,11 @@
 ---
-title: "B. Connon | "
+title: "B. Connon"
 name_en: "B. Connon"
 name_ja: ""
 slug: "b.-connon"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

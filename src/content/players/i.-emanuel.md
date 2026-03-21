@@ -1,11 +1,11 @@
 ---
-title: "I. Emanuel | "
+title: "I. Emanuel"
 name_en: "I. Emanuel"
 name_ja: ""
 slug: "i.-emanuel"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

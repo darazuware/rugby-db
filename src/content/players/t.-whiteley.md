@@ -1,11 +1,11 @@
 ---
-title: "T. Whiteley | "
+title: "T. Whiteley"
 name_en: "T. Whiteley"
 name_ja: ""
 slug: "t.-whiteley"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

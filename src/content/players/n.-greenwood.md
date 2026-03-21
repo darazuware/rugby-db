@@ -1,11 +1,11 @@
 ---
-title: "N. Greenwood | "
+title: "N. Greenwood"
 name_en: "N. Greenwood"
 name_ja: ""
 slug: "n.-greenwood"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

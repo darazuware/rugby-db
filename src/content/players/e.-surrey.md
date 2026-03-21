@@ -1,11 +1,11 @@
 ---
-title: "E. Surrey | "
+title: "E. Surrey"
 name_en: "E. Surrey"
 name_ja: ""
 slug: "e.-surrey"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

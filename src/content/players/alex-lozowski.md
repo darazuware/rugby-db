@@ -1,11 +1,11 @@
 ---
-title: "Alex Lozowski | "
+title: "Alex Lozowski"
 name_en: "Alex Lozowski"
 name_ja: ""
 slug: "alex-lozowski"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1993.06.30"
 age: 32
 country: ""

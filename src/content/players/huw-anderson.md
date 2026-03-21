@@ -1,7 +1,7 @@
 ---
-title: "Huw ANDERSON | ヒュー-アンダーソン"
+title: "Huw ANDERSON | Huw ・ ANDERSON"
 name_en: "Huw ANDERSON"
-name_ja: "ヒュー-アンダーソン"
+name_ja: "Huw ・ ANDERSON"
 slug: "huw-anderson"
 position: "FB"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/huw-anderson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2022 - 2026)"
+scraped_url: "https://all.rugby/player/huw-anderson"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2022 - 2026)

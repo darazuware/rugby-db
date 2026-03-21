@@ -1,5 +1,5 @@
 ---
-title: "Koji ANTIGRAV | Koji ANTIGRAV"
+title: "Koji ANTIGRAV"
 name_en: "Koji ANTIGRAV"
 name_ja: "Koji ANTIGRAV"
 slug: "koji-antigrav"
@@ -8,7 +8,7 @@ height: "178.0"
 weight: "85.0"
 birth_date: "1995.04.01"
 age: 30
-country: ""
+country: "Japanese"
 birth_place_scraped: ""
 league: "league-one"
 team: "東京サントリーサンゴリアス"

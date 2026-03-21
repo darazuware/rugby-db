@@ -1,7 +1,7 @@
 ---
-title: "Jan-Hendrik WESSELS | ヤン＝ヘンドリック-ヴェッセルズ"
+title: "Jan-Hendrik WESSELS | Jan ・ Hendrik ・ WESSELS"
 name_en: "Jan-Hendrik WESSELS"
-name_ja: "ヤン＝ヘンドリック-ヴェッセルズ"
+name_ja: "Jan ・ Hendrik ・ WESSELS"
 slug: "jan-hendrik-wessels"
 position: "HO"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/jan-hendrik-wessels"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "grey college (2018 - 2019) -> asm clermont auvergne (2019 - 2020) -> bulls (2020 - 2026)"
+scraped_url: "https://all.rugby/player/jan-hendrik-wessels"
 ---
 
 ## キャリア遍歴
-
+Grey College (2018 - 2019) -> ASM Clermont Auvergne (2019 - 2020) -> Bulls (2020 - 2026)

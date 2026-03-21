@@ -1,7 +1,7 @@
 ---
-title: "Sam BYRD | サム・バード"
+title: "Sam BYRD | サム ・ BYRD"
 name_en: "Sam BYRD"
-name_ja: "サム・バード"
+name_ja: "サム ・ BYRD"
 slug: "sam-byrd"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/sam-byrd"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leicester tigers (2023 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/sam-byrd"
 ---
 
 ## キャリア遍歴
-
+Leicester Tigers (2023 - 2025) -> Edimbourg Rugby (2025 - 2026)

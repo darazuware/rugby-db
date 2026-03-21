@@ -1,11 +1,11 @@
 ---
-title: "R. Isgro | "
+title: "R. Isgro"
 name_en: "R. Isgro"
 name_ja: ""
 slug: "r.-isgro"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

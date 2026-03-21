@@ -1,7 +1,7 @@
 ---
-title: "Kyle ROWE | カイル・ロウ"
+title: "Kyle ROWE | Kyle ・ ROWE"
 name_en: "Kyle ROWE"
-name_ja: "カイル・ロウ"
+name_ja: "Kyle ・ ROWE"
 slug: "kyle-rowe"
 position: "FB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (9)"
+caps: "Scotland (9)"
 high_school: ""
 university: ""
-scraped_url: "edimbourg rugby (2020 - 2021) -> london irish (2021 - 2023) -> glasgow warriors (2023 - 2026)"
+scraped_url: "https://all.rugby/player/kyle-rowe"
 ---
 
 ## キャリア遍歴
-Scotland
+Edimbourg Rugby (2020 - 2021) -> London Irish (2021 - 2023) -> Glasgow Warriors (2023 - 2026)

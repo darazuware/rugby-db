@@ -1,11 +1,11 @@
 ---
-title: "O. Scola | "
+title: "O. Scola"
 name_en: "O. Scola"
 name_ja: ""
 slug: "o.-scola"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

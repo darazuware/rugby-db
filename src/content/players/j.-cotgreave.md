@@ -1,11 +1,11 @@
 ---
-title: "J. Cotgreave | "
+title: "J. Cotgreave"
 name_en: "J. Cotgreave"
 name_ja: ""
 slug: "j.-cotgreave"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

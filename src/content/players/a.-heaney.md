@@ -1,11 +1,11 @@
 ---
-title: "A. Heaney | "
+title: "A. Heaney"
 name_en: "A. Heaney"
 name_ja: ""
 slug: "a.-heaney"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

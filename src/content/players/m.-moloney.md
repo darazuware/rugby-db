@@ -1,11 +1,11 @@
 ---
-title: "M. Moloney | "
+title: "M. Moloney"
 name_en: "M. Moloney"
 name_ja: ""
 slug: "m.-moloney"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

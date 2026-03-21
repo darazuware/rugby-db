@@ -8,7 +8,7 @@ height: "186.0"
 weight: "105.0"
 birth_date: "1998.07.24"
 age: 27
-country: ""
+country: "Tongien"
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"

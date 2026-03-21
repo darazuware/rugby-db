@@ -1,11 +1,11 @@
 ---
-title: "Arron Reed | "
+title: "Arron Reed"
 name_en: "Arron Reed"
 name_ja: ""
 slug: "arron-reed"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.07.10"
 age: 26
 country: ""

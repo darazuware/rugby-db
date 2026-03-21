@@ -1,11 +1,11 @@
 ---
-title: "F. Baxter | "
+title: "F. Baxter"
 name_en: "F. Baxter"
 name_ja: ""
 slug: "f.-baxter"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

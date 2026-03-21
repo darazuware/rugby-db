@@ -1,11 +1,11 @@
 ---
-title: "Cameron Henderson | "
+title: "Cameron Henderson"
 name_en: "Cameron Henderson"
 name_ja: ""
 slug: "cameron-henderson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2000.01.13"
 age: 26
 country: ""

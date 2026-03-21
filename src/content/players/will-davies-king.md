@@ -1,7 +1,7 @@
 ---
-title: "Will DAVIES-KING | Will ・ DAVIES ・ KING"
+title: "Will DAVIES-KING | ウィル-デイヴィス＝キング"
 name_en: "Will DAVIES-KING"
-name_ja: "Will ・ DAVIES ・ KING"
+name_ja: "ウィル-デイヴィス＝キング"
 slug: "will-davies-king"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: ""
+caps: "https://all.rugby/player/will-davies-king"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/will-davies-king"
+scraped_url: "cardiff rugby (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2019 - 2025) -> Northampton Saints (2025 - 2025) -> Cardiff Rugby (2026 - 2026) -> Northampton Saints (2026 - 2026)
+Wales

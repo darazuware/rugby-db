@@ -1,11 +1,11 @@
 ---
-title: "L. Gulley | "
+title: "L. Gulley"
 name_en: "L. Gulley"
 name_ja: ""
 slug: "l.-gulley"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

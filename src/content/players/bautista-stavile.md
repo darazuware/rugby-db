@@ -1,9 +1,9 @@
 ---
-title: "Bautista STAVILE | Bautista ・ STAVILE"
+title: "Bautista STAVILE | バウティスタ・スタビレ"
 name_en: "Bautista STAVILE"
-name_ja: "Bautista ・ STAVILE"
+name_ja: "バウティスタ・スタビレ"
 slug: "bautista-stavile"
-position: "Back row"
+position: "FL/No8"
 height: "183.0"
 weight: "100.0"
 birth_date: "1997.02.22"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: ""
+caps: "https://all.rugby/player/bautista-stavile"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/bautista-stavile"
+scraped_url: "selknam (2019 - 2021) -> rugby viadana 1970 (2021 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Selknam (2019 - 2021) -> Rugby Viadana 1970 (2021 - 2022) -> Rugby Rovigo Delta (2022 - 2023) -> Zebre Parma (2023 - 2026)
+

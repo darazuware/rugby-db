@@ -1,7 +1,7 @@
 ---
-title: "Rory MCGUIRE | ロリー・マグワイア"
+title: "Rory MCGUIRE | Rory ・ MCGUIRE"
 name_en: "Rory MCGUIRE"
-name_ja: "ロリー・マグワイア"
+name_ja: "Rory ・ MCGUIRE"
 slug: "rory-mcguire"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/rory-mcguire"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2021 - 2025) -> ulster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/rory-mcguire"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2025) -> Ulster Rugby (2025 - 2026)

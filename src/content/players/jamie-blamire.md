@@ -1,11 +1,11 @@
 ---
-title: "Jamie Blamire | "
+title: "Jamie Blamire"
 name_en: "Jamie Blamire"
 name_ja: ""
 slug: "jamie-blamire"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1997.12.22"
 age: 28
 country: ""

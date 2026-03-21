@@ -1,11 +1,11 @@
 ---
-title: "H. Skinner | "
+title: "H. Skinner"
 name_en: "H. Skinner"
 name_ja: ""
 slug: "h.-skinner"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

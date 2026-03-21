@@ -1,11 +1,11 @@
 ---
-title: "C. Bracken | "
+title: "C. Bracken"
 name_en: "C. Bracken"
 name_ja: ""
 slug: "c.-bracken"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

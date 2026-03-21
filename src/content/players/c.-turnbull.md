@@ -1,11 +1,11 @@
 ---
-title: "C. Turnbull | "
+title: "C. Turnbull"
 name_en: "C. Turnbull"
 name_ja: ""
 slug: "c.-turnbull"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

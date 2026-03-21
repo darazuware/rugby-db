@@ -10,7 +10,7 @@ birth_date: "2005.."
 age: 21
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
 caps: ""
 high_school: ""

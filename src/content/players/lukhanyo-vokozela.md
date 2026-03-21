@@ -1,7 +1,7 @@
 ---
-title: "Lukhanyo VOKOZELA | ルカニョ・ヴォコゼラ"
+title: "Lukhanyo VOKOZELA | ルカニョ ・ VOKOZELA"
 name_en: "Lukhanyo VOKOZELA"
-name_ja: "ルカニョ・ヴォコゼラ"
+name_ja: "ルカニョ ・ VOKOZELA"
 slug: "lukhanyo-vokozela"
 position: "HO"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/lukhanyo-vokozela"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2021 - 2024) -> stormers (2024 - 2026)"
+scraped_url: "https://all.rugby/player/lukhanyo-vokozela"
 ---
 
 ## キャリア遍歴
-
+Western Province (2021 - 2024) -> Stormers (2024 - 2026)

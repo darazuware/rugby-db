@@ -15,6 +15,22 @@ TEAM_NAMES_JP_PATH = os.path.join(PROJECT_ROOT, 'data/team_names_jp.json')
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'src/content/players')
 JSON_OUTPUT_PATH = os.path.join(PROJECT_ROOT, 'public/data/players.json')
 
+def validate_and_clean_stat(val, type_name='height'):
+    if not val or pd.isna(val): return ""
+    v_str = str(val).strip()
+    if '/' in v_str: return ""
+    v_clean = re.sub(r'[^0-9.]', '', v_str)
+    if not v_clean: return ""
+    try:
+        vf = float(v_clean)
+        if type_name == 'height':
+            if vf < 140 or vf > 220: return ""
+        else:
+            if vf < 50 or vf > 160: return ""
+        return str(vf)
+    except:
+        return ""
+
 def calculate_age(birth_date_str):
     """生年月日（YYYY.MM.DD or YYYY-MM-DD）から年齢を算出"""
     if not birth_date_str or pd.isna(birth_date_str):
@@ -80,11 +96,13 @@ def generate_markdown():
     df = pd.read_csv(CSV_PATH)
     players_json = []
     used_slugs = set()
+    missing_nationality = []
 
     for _, row in df.iterrows():
         # 基本情報の抽出
         name_en = str(row.get('Player_Name', '') or row.get('Full_Name', '')).strip()
         name_ja = str(row.get('選手名_カタカナ', '') or row.get('Full_Name', '')).strip()
+        scraped_url = str(row.get('Scraped_Url', '')).strip()
         
         # スラッグの生成（重複対応）
         base_slug = str(row.get('Scraped_Url', ''))
@@ -101,18 +119,17 @@ def generate_markdown():
         while slug in used_slugs:
             counter += 1
             slug = f"{original_slug}-{counter}"
-        used_slugs.add(slug)
+        league_val = str(row.get('League', '')).strip().lower()
+        if league_val == 'mlr':
+            continue
 
         position = str(row.get('Position', '')).strip()
-        height = str(row.get('Height', '')).replace('cm', '').strip()
-        weight = str(row.get('Weight', '')).replace('kg', '').strip()
+        height = validate_and_clean_stat(row.get('Height', ''), 'height')
+        weight = validate_and_clean_stat(row.get('Weight', ''), 'weight')
         birth_date = str(row.get('Birth_Date', '')).strip()
         age_val = row.get('Age')
         if pd.isna(age_val) or str(age_val).lower() == 'nan':
             age_val = "null"
-        
-        nationality = str(row.get('Nationality', '') or row.get('Country', '') or "").strip()
-        birthplace = str(row.get('Birth_Place_Scraped', '')).strip()
         
         # リーグ属性の物理的補完（マッピング優先）
         csv_league = str(row.get('League', '')).strip().lower()
@@ -124,6 +141,18 @@ def generate_markdown():
             final_league = lookup_league
         else:
             final_league = csv_league if csv_league and csv_league != 'nan' else "nan"
+
+        nationality = str(row.get('Nationality', '')).strip()
+        if not nationality or nationality.lower() == 'nan':
+            nationality = ""
+            missing_nationality.append({
+                "name_en": name_en,
+                "name_ja": name_ja,
+                "team": current_team,
+                "league": final_league,
+                "url": scraped_url
+            })
+        birthplace = str(row.get('Birth_Place_Scraped', '')).strip()
             
         # name_jaのクレンジング
         if name_ja.lower() == 'nan':
@@ -163,8 +192,12 @@ def generate_markdown():
         age_for_md = age_clean if age_clean is not None else "null"
 
         # Markdown生成
+        title_str = f"{name_en}"
+        if name_ja and name_ja != name_en:
+            title_str += f" | {name_ja}"
+            
         content = f"""---
-title: "{name_en} | {name_ja}"
+title: "{title_str}"
 name_en: "{name_en}"
 name_ja: "{name_ja}"
 slug: "{slug}"
@@ -216,8 +249,17 @@ scraped_url: "{scraped_url}"
     with open(JSON_OUTPUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(players_json, f, ensure_ascii=False, indent=2)
 
+    # 国籍欠落レポートの出力
+    REPORT_PATH = os.path.join(PROJECT_ROOT, 'data/missing_nationality_report.txt')
+    with open(REPORT_PATH, 'w', encoding='utf-8') as f:
+        f.write("=== Missing Nationality Report ===\n")
+        f.write(f"Total: {len(missing_nationality)}\n\n")
+        for p in missing_nationality:
+            f.write(f"Name: {p['name_en']} ({p['name_ja']}) | Team: {p['team']} ({p['league']}) | URL: {p['url']}\n")
+    
     print(f"Generated {len(df)} player files and {JSON_OUTPUT_PATH}")
     print(f"Verification: {len(used_slugs)} unique slugs used.")
+    print(f"Nationality report generated at {REPORT_PATH}")
 
 if __name__ == "__main__":
     generate_markdown()

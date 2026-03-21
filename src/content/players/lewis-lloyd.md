@@ -1,7 +1,7 @@
 ---
-title: "Lewis LLOYD | ルイス・ロイド"
+title: "Lewis LLOYD | Lewis ・ LLOYD"
 name_en: "Lewis LLOYD"
-name_ja: "ルイス・ロイド"
+name_ja: "Lewis ・ LLOYD"
 slug: "lewis-lloyd"
 position: "HO"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/lewis-lloyd"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "treorchy rfc (2021 - 2022) -> ospreys (2022 - 2026)"
+scraped_url: "https://all.rugby/player/lewis-lloyd"
 ---
 
 ## キャリア遍歴
-
+Treorchy RFC (2021 - 2022) -> Ospreys (2022 - 2026)

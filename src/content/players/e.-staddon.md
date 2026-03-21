@@ -1,11 +1,11 @@
 ---
-title: "E. Staddon | "
+title: "E. Staddon"
 name_en: "E. Staddon"
 name_ja: ""
 slug: "e.-staddon"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

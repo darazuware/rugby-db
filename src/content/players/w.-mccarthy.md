@@ -1,11 +1,11 @@
 ---
-title: "W. McCarthy | "
+title: "W. McCarthy"
 name_en: "W. McCarthy"
 name_ja: ""
 slug: "w.-mccarthy"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

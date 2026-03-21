@@ -1,7 +1,7 @@
 ---
-title: "Rhyno SMITH | ライノ・スミス"
+title: "Rhyno SMITH | Rhyno ・ スミス"
 name_en: "Rhyno SMITH"
-name_ja: "ライノ・スミス"
+name_ja: "Rhyno ・ スミス"
 slug: "rhyno-smith"
 position: "FB"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/rhyno-smith"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "sharks (2015 - 2017) -> central cheetahs (2018 - 2018) -> sharks (2018 - 2018) -> central cheetahs (2019 - 2019) -> sharks (2019 - 2019) -> central cheetahs (2019 - 2021) -> benetton rugby trévise (2021 - 2026)"
+scraped_url: "https://all.rugby/player/rhyno-smith"
 ---
 
 ## キャリア遍歴
-
+Sharks (2015 - 2017) -> Central Cheetahs (2018 - 2018) -> Sharks (2018 - 2018) -> Central Cheetahs (2019 - 2019) -> Sharks (2019 - 2019) -> Central Cheetahs (2019 - 2021) -> Benetton Rugby Trévise (2021 - 2026)

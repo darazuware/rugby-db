@@ -1,9 +1,9 @@
 ---
-title: "Ryan WOODMAN | ライアン・ウッドマン"
+title: "Ryan WOODMAN | ライアン ・ WOODMAN"
 name_en: "Ryan WOODMAN"
-name_ja: "ライアン・ウッドマン"
+name_ja: "ライアン ・ WOODMAN"
 slug: "ryan-woodman"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "107.0"
 birth_date: "2004.02.02"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/ryan-woodman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2020 - 2026)"
+scraped_url: "https://all.rugby/player/ryan-woodman"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2020 - 2026)

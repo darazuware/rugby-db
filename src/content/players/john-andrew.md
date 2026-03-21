@@ -1,7 +1,7 @@
 ---
-title: "John ANDREW | ジョン・アンドリュー"
+title: "John ANDREW | ジョン ・ アンドリュー"
 name_en: "John ANDREW"
-name_ja: "ジョン・アンドリュー"
+name_ja: "ジョン ・ アンドリュー"
 slug: "john-andrew"
 position: "HO"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/john-andrew"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ulster rugby (2014 - 2026)"
+scraped_url: "https://all.rugby/player/john-andrew"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2014 - 2026)

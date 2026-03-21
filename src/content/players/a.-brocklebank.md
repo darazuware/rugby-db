@@ -1,11 +1,11 @@
 ---
-title: "A. Brocklebank | "
+title: "A. Brocklebank"
 name_en: "A. Brocklebank"
 name_ja: ""
 slug: "a.-brocklebank"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "R. Birch | "
+title: "R. Birch"
 name_en: "R. Birch"
 name_ja: ""
 slug: "r.-birch"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

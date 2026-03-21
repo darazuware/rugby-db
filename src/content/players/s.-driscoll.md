@@ -1,11 +1,11 @@
 ---
-title: "S. Driscoll | "
+title: "S. Driscoll"
 name_en: "S. Driscoll"
 name_ja: ""
 slug: "s.-driscoll"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

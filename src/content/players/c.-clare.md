@@ -1,11 +1,11 @@
 ---
-title: "C. Clare | "
+title: "C. Clare"
 name_en: "C. Clare"
 name_ja: ""
 slug: "c.-clare"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "V. Nairau | "
+title: "V. Nairau"
 name_en: "V. Nairau"
 name_ja: ""
 slug: "v.-nairau"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

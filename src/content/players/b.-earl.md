@@ -1,11 +1,11 @@
 ---
-title: "B. Earl | "
+title: "B. Earl"
 name_en: "B. Earl"
 name_ja: ""
 slug: "b.-earl"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

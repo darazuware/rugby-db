@@ -1,7 +1,7 @@
 ---
-title: "Paolo BUONFIGLIO | パオロ・ブオンフィーリオ"
+title: "Paolo BUONFIGLIO | Paolo ・ BUONFIGLIO"
 name_en: "Paolo BUONFIGLIO"
-name_ja: "パオロ・ブオンフィーリオ"
+name_ja: "Paolo ・ BUONFIGLIO"
 slug: "paolo-buonfiglio"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/paolo-buonfiglio"
+caps: "Italy"
 high_school: ""
 university: ""
-scraped_url: "zebre parma (2019 - 2026)"
+scraped_url: "https://all.rugby/player/paolo-buonfiglio"
 ---
 
 ## キャリア遍歴
-Italy
+Zebre Parma (2019 - 2026)

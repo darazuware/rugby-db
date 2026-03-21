@@ -4,7 +4,7 @@ name_en: "Vaiuta LATU"
 name_ja: "ヴァイウタ・ラトゥ"
 slug: "vaiuta-latu"
 position: "FL/No8"
-height: "nan"
+height: ""
 weight: "116.0"
 birth_date: "2005.."
 age: 21

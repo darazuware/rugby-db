@@ -1,7 +1,7 @@
 ---
-title: "Caspar GABRIEL | カスパー・ガブリエル"
+title: "Caspar GABRIEL | Caspar ・ GABRIEL"
 name_en: "Caspar GABRIEL"
-name_ja: "カスパー・ガブリエル"
+name_ja: "Caspar ・ GABRIEL"
 slug: "caspar-gabriel"
 position: "SO"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/caspar-gabriel"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "terenure college (2022 - 2024) -> leinster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/caspar-gabriel"
 ---
 
 ## キャリア遍歴
-
+Terenure College (2022 - 2024) -> Leinster Rugby (2024 - 2026)

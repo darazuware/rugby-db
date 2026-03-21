@@ -1,7 +1,7 @@
 ---
-title: "Franco CARRERA | フランコ・カレラ"
+title: "Franco CARRERA | フランコ ・ CARRERA"
 name_en: "Franco CARRERA"
-name_ja: "フランコ・カレラ"
+name_ja: "フランコ ・ CARRERA"
 slug: "franco-carrera"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/franco-carrera"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "pampas xv (2022 - 2023) -> cobras brasil xv (2023 - 2024) -> pampas xv (2024 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/franco-carrera"
 ---
 
 ## キャリア遍歴
-
+Pampas XV (2022 - 2023) -> Cobras Brasil XV (2023 - 2024) -> Pampas XV (2024 - 2025) -> Zebre Parma (2025 - 2026)

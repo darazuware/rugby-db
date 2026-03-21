@@ -1,11 +1,11 @@
 ---
-title: "J. Thompson | "
+title: "J. Thompson"
 name_en: "J. Thompson"
 name_ja: ""
 slug: "j.-thompson"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -11,7 +11,7 @@ age: 26
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Hanazono Kintetsu Liners"
+team: "花園近鉄ライナーズ（2025-26）"
 caps: "高校('17)、U20('19)、U23('19,'20)"
 high_school: "東福岡高校"
 university: "東海大学"

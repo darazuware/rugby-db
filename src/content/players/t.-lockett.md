@@ -1,11 +1,11 @@
 ---
-title: "T. Lockett | "
+title: "T. Lockett"
 name_en: "T. Lockett"
 name_ja: ""
 slug: "t.-lockett"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

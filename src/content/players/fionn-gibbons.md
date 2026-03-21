@@ -1,7 +1,7 @@
 ---
-title: "Fionn GIBBONS | フィオン・ギボンズ"
+title: "Fionn GIBBONS | Fionn ・ GIBBONS"
 name_en: "Fionn GIBBONS"
-name_ja: "フィオン・ギボンズ"
+name_ja: "Fionn ・ GIBBONS"
 slug: "fionn-gibbons"
 position: "CTB"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/fionn-gibbons"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2021 - 2022) -> munster rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/fionn-gibbons"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2021 - 2022) -> Munster Rugby (2022 - 2026)

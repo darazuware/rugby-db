@@ -1,9 +1,9 @@
 ---
-title: "Sam SKINNER | サム・スキナー"
+title: "Sam SKINNER | サム ・ SKINNER"
 name_en: "Sam SKINNER"
-name_ja: "サム・スキナー"
+name_ja: "サム ・ SKINNER"
 slug: "sam-skinner"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "115.0"
 birth_date: "1995.01.31"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (30)"
+caps: "Scotland (30)"
 high_school: ""
 university: ""
-scraped_url: "exeter chiefs (2014 - 2022) -> edimbourg rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/sam-skinner"
 ---
 
 ## キャリア遍歴
-England
+Exeter Chiefs (2014 - 2022) -> Edimbourg Rugby (2022 - 2026)

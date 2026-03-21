@@ -1,11 +1,11 @@
 ---
-title: "K. Freeman Price | "
+title: "K. Freeman Price"
 name_en: "K. Freeman Price"
 name_ja: ""
 slug: "k.-freeman-price"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

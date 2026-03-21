@@ -1,11 +1,11 @@
 ---
-title: "A. Emens | "
+title: "A. Emens"
 name_en: "A. Emens"
 name_ja: ""
 slug: "a.-emens"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

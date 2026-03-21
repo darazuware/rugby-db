@@ -1,9 +1,9 @@
 ---
-title: "Fine INISI | フィネ-イニシ"
+title: "Fine INISI | Fine ・ INISI"
 name_en: "Fine INISI"
-name_ja: "フィネ-イニシ"
+name_ja: "Fine ・ INISI"
 slug: "fine-inisi"
-position: "WTB"
+position: "Winger"
 height: "187.0"
 weight: "98.0"
 birth_date: "1998.05.19"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "🇹🇴 Tonga (7)"
+caps: "Tonga (7)"
 high_school: ""
 university: ""
-scraped_url: "north harbour (2018 - 2021) -> moana pasifika (2021 - 2021) -> north harbour (2021 - 2021) -> moana pasifika (2022 - 2022) -> north harbour (2022 - 2022) -> moana pasifika (2022 - 2023) -> north harbour (2023 - 2023) -> moana pasifika (2024 - 2024) -> north harbour (2024 - 2024) -> moana pasifika (2024 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/fine-inisi"
 ---
 
 ## キャリア遍歴
-
+North Harbour (2018 - 2021) -> Moana Pasifika (2021 - 2021) -> North Harbour (2021 - 2021) -> Moana Pasifika (2022 - 2022) -> North Harbour (2022 - 2022) -> Moana Pasifika (2022 - 2023) -> North Harbour (2023 - 2023) -> Moana Pasifika (2024 - 2024) -> North Harbour (2024 - 2024) -> Moana Pasifika (2024 - 2025) -> Dragons RFC (2025 - 2026)

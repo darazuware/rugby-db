@@ -1,11 +1,11 @@
 ---
-title: "E. Obatoyinbo | "
+title: "E. Obatoyinbo"
 name_en: "E. Obatoyinbo"
 name_ja: ""
 slug: "e.-obatoyinbo"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

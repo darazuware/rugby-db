@@ -1,7 +1,7 @@
 ---
-title: "Kerr YULE | カー・ユール"
+title: "Kerr YULE | Kerr ・ YULE"
 name_en: "Kerr YULE"
-name_ja: "カー・ユール"
+name_ja: "Kerr ・ YULE"
 slug: "kerr-yule"
 position: "CTB"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/kerr-yule"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "glasgow hawks (2022 - 2023) -> glasgow warriors (2023 - 2026)"
+scraped_url: "https://all.rugby/player/kerr-yule"
 ---
 
 ## キャリア遍歴
-
+Glasgow Hawks (2022 - 2023) -> Glasgow Warriors (2023 - 2026)

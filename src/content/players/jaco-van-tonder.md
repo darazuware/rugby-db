@@ -8,7 +8,7 @@ height: "197.0"
 weight: "118.0"
 birth_date: "1998.03.08"
 age: 28
-country: ""
+country: "African"
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"

@@ -8,7 +8,7 @@ height: "200.0"
 weight: "113.0"
 birth_date: "2002.04.30"
 age: 23
-country: ""
+country: "Voir"
 birth_place_scraped: ""
 league: "top14"
 team: "モンペリエ"

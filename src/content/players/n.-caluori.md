@@ -1,11 +1,11 @@
 ---
-title: "N. Caluori | "
+title: "N. Caluori"
 name_en: "N. Caluori"
 name_ja: ""
 slug: "n.-caluori"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

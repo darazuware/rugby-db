@@ -1,11 +1,11 @@
 ---
-title: "R. Segun | "
+title: "R. Segun"
 name_en: "R. Segun"
 name_ja: ""
 slug: "r.-segun"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

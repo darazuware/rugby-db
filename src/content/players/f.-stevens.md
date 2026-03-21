@@ -1,11 +1,11 @@
 ---
-title: "F. Stevens | "
+title: "F. Stevens"
 name_en: "F. Stevens"
 name_ja: ""
 slug: "f.-stevens"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

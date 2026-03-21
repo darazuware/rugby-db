@@ -1,7 +1,7 @@
 ---
-title: "Sam TALAKAI | サム・タラカイ"
+title: "Sam TALAKAI | サム ・ TALAKAI"
 name_en: "Sam TALAKAI"
-name_ja: "サム・タラカイ"
+name_ja: "サム ・ TALAKAI"
 slug: "sam-talakai"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/sam-talakai"
+caps: "Australia"
 high_school: ""
 university: ""
-scraped_url: "queensland reds (2014 - 2017) -> melbourne rebels (2017 - 2019) -> tokyo sungoliath (2019 - 2022) -> melbourne rebels (2022 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/sam-talakai"
 ---
 
 ## キャリア遍歴
-Australia
+Queensland Reds (2014 - 2017) -> Melbourne Rebels (2017 - 2019) -> Tokyo Sungoliath (2019 - 2022) -> Melbourne Rebels (2022 - 2024) -> Glasgow Warriors (2024 - 2026)

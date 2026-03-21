@@ -1,11 +1,11 @@
 ---
-title: "W. Hobson | "
+title: "W. Hobson"
 name_en: "W. Hobson"
 name_ja: ""
 slug: "w.-hobson"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

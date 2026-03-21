@@ -1,11 +1,11 @@
 ---
-title: "H. Lumley | "
+title: "H. Lumley"
 name_en: "H. Lumley"
 name_ja: ""
 slug: "h.-lumley"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

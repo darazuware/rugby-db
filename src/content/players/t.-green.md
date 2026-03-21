@@ -1,11 +1,11 @@
 ---
-title: "T. Green | "
+title: "T. Green"
 name_en: "T. Green"
 name_ja: ""
 slug: "t.-green"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

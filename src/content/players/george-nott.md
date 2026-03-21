@@ -1,7 +1,7 @@
 ---
-title: "George NOTT | ジョージ-ノット"
+title: "George NOTT | George ・ NOTT"
 name_en: "George NOTT"
-name_ja: "ジョージ-ノット"
+name_ja: "George ・ NOTT"
 slug: "george-nott"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/george-nott"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "sale sharks (2014 - 2019) -> london irish (2019 - 2022) -> dragons rfc (2022 - 2025) -> cardiff rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/george-nott"
 ---
 
 ## キャリア遍歴
-
+Sale Sharks (2014 - 2019) -> London Irish (2019 - 2022) -> Dragons RFC (2022 - 2025) -> Cardiff Rugby (2025 - 2026)

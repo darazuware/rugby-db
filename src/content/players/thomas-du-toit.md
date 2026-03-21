@@ -1,22 +1,22 @@
 ---
-title: "Thomas DU TOIT | "
-name_en: "Thomas DU TOIT"
+title: "Thomas du Toit"
+name_en: "Thomas du Toit"
 name_ja: ""
 slug: "thomas-du-toit"
 position: "Prop"
-height: "nan"
-weight: "nan"
-birth_date: "1995-05-05"
+height: ""
+weight: ""
+birth_date: "1995.05.05"
 age: 30
 country: ""
 birth_place_scraped: ""
 league: "premiership"
 team: "Bath Rugby"
-caps: "🇿🇦 South Africa (10)"
+caps: "South Africa (10)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/thomas-du-toit"
+scraped_url: "nan"
 ---
 
 ## キャリア遍歴
-
+Bath Rugby (2025 - )

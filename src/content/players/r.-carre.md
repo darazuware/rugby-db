@@ -1,11 +1,11 @@
 ---
-title: "R. Carre | "
+title: "R. Carre"
 name_en: "R. Carre"
 name_ja: ""
 slug: "r.-carre"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

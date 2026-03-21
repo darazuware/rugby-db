@@ -8,7 +8,7 @@ height: "180.0"
 weight: "83.0"
 birth_date: "2000.11.19"
 age: 25
-country: ""
+country: "Georgian"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

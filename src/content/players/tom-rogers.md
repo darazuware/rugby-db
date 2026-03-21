@@ -1,9 +1,9 @@
 ---
-title: "Tom ROGERS | トム ・ ROGERS"
+title: "Tom ROGERS | トム・ロジャース"
 name_en: "Tom ROGERS"
-name_ja: "トム ・ ROGERS"
+name_ja: "トム・ロジャース"
 slug: "tom-rogers"
-position: "Winger"
+position: "WTB"
 height: "185.0"
 weight: "87.0"
 birth_date: "1998.12.17"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (5)"
+caps: "Wales (5)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/tom-rogers"
+scraped_url: "scarlets (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2026)
+Wales

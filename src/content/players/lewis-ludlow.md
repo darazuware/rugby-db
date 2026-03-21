@@ -1,11 +1,11 @@
 ---
-title: "Lewis Ludlow | "
+title: "Lewis Ludlow"
 name_en: "Lewis Ludlow"
 name_ja: ""
 slug: "lewis-ludlow"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1994.09.11"
 age: 31
 country: ""

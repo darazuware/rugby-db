@@ -1,11 +1,11 @@
 ---
-title: "R. Grace | "
+title: "R. Grace"
 name_en: "R. Grace"
 name_ja: ""
 slug: "r.-grace"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "Harry Wells | "
+title: "Harry Wells"
 name_en: "Harry Wells"
 name_ja: ""
 slug: "harry-wells"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1993.09.29"
 age: 32
 country: ""

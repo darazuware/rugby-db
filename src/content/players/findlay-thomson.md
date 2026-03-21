@@ -1,7 +1,7 @@
 ---
-title: "Findlay THOMSON | フィンドレー・トムソン"
+title: "Findlay THOMSON | Findlay ・ THOMSON"
 name_en: "Findlay THOMSON"
-name_ja: "フィンドレー・トムソン"
+name_ja: "Findlay ・ THOMSON"
 slug: "findlay-thomson"
 position: "CTB"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/findlay-thomson"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "watsonian rugby club (2022 - 2024) -> edimbourg rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/findlay-thomson"
 ---
 
 ## キャリア遍歴
-
+Watsonian Rugby Club (2022 - 2024) -> Edimbourg Rugby (2024 - 2026)

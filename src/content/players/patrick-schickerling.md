@@ -1,7 +1,7 @@
 ---
-title: "Patrick SCHICKERLING | パトリック・シッカーリング"
+title: "Patrick SCHICKERLING | Patrick ・ SCHICKERLING"
 name_en: "Patrick SCHICKERLING"
-name_ja: "パトリック・シッカーリング"
+name_ja: "Patrick ・ SCHICKERLING"
 slug: "patrick-schickerling"
 position: "PR"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/patrick-schickerling"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "exeter chiefs (2019 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/patrick-schickerling"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2019 - 2024) -> Glasgow Warriors (2024 - 2026)

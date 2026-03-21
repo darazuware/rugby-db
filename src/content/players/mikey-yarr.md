@@ -1,22 +1,22 @@
 ---
-title: "Mikey YARR | マイキー・ヤー"
+title: "Mikey YARR | Mikey ・ YARR"
 name_en: "Mikey YARR"
-name_ja: "マイキー・ヤー"
+name_ja: "Mikey ・ YARR"
 slug: "mikey-yarr"
 position: "HO"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2005.."
 age: 21
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/mikey-yarr"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lansdowne fc (2023 - 2024) -> university college dublin (2024 - 2025) -> connacht rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/mikey-yarr"
 ---
 
 ## キャリア遍歴
-
+Lansdowne FC (2023 - 2024) -> University College Dublin (2024 - 2025) -> Connacht Rugby (2025 - 2026)

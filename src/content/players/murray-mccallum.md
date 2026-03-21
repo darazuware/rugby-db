@@ -1,11 +1,11 @@
 ---
-title: "Murray McCallum | "
+title: "Murray McCallum"
 name_en: "Murray McCallum"
 name_ja: ""
 slug: "murray-mccallum"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1996.03.16"
 age: 30
 country: ""

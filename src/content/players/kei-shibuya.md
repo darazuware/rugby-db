@@ -11,7 +11,7 @@ age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Kurita Water Gush Akishima"
+team: "クリタウォーターガッシュ昭島（2025-26）"
 caps: ""
 high_school: "大東文化大学第一高校"
 university: "大東文化大学"

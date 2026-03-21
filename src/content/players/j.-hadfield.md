@@ -1,11 +1,11 @@
 ---
-title: "J. Hadfield | "
+title: "J. Hadfield"
 name_en: "J. Hadfield"
 name_ja: ""
 slug: "j.-hadfield"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

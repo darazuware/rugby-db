@@ -1,11 +1,11 @@
 ---
-title: "Dan du Preez | "
+title: "Dan du Preez"
 name_en: "Dan du Preez"
 name_ja: ""
 slug: "dan-du-preez"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1995.08.05"
 age: 30
 country: ""

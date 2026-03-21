@@ -1,9 +1,9 @@
 ---
-title: "Ollie DUNCAN | オリー・ダンカン"
+title: "Ollie DUNCAN | Ollie ・ DUNCAN"
 name_en: "Ollie DUNCAN"
-name_ja: "オリー・ダンカン"
+name_ja: "Ollie ・ DUNCAN"
 slug: "ollie-duncan"
-position: "FL/No8"
+position: "Back row"
 height: "191.0"
 weight: "106.0"
 birth_date: "2005.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/ollie-duncan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "edimbourg rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/ollie-duncan"
 ---
 
 ## キャリア遍歴
-Scotland
+Edimbourg Rugby (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Marnus VAN DER MERWE | マルナス・ファン・デル・メルヴァ"
+title: "Marnus VAN DER MERWE | Marnus ・ ファン ・ デル ・ MERWE"
 name_en: "Marnus VAN DER MERWE"
-name_ja: "マルナス・ファン・デル・メルヴァ"
+name_ja: "Marnus ・ ファン ・ デル ・ MERWE"
 slug: "marnus-van-der-merwe"
 position: "HO"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/marnus-van-der-merwe"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "central cheetahs (2018 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2023 - 2023) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2024) -> scarlets (2024 - 2026)"
+scraped_url: "https://all.rugby/player/marnus-van-der-merwe"
 ---
 
 ## キャリア遍歴
-
+Central Cheetahs (2018 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2023 - 2023) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2024) -> Scarlets (2024 - 2026)

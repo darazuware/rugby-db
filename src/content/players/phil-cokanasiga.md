@@ -1,7 +1,7 @@
 ---
-title: "Phil COKANASIGA | フィル・コカナシガ"
+title: "Phil COKANASIGA | Phil ・ COKANASIGA"
 name_en: "Phil COKANASIGA"
-name_ja: "フィル・コカナシガ"
+name_ja: "Phil ・ COKANASIGA"
 slug: "phil-cokanasiga"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/phil-cokanasiga"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "london irish (2016 - 2022) -> leicester tigers (2022 - 2022) -> nottingham rugby (2022 - 2022) -> leicester tigers (2023 - 2023) -> nottingham rugby (2023 - 2023) -> leicester tigers (2023 - 2024) -> ospreys (2024 - 2026)"
+scraped_url: "https://all.rugby/player/phil-cokanasiga"
 ---
 
 ## キャリア遍歴
-
+London Irish (2016 - 2022) -> Leicester Tigers (2022 - 2022) -> Nottingham Rugby (2022 - 2022) -> Leicester Tigers (2023 - 2023) -> Nottingham Rugby (2023 - 2023) -> Leicester Tigers (2023 - 2024) -> Ospreys (2024 - 2026)

@@ -44,43 +44,68 @@ def main():
     processed_count = 0
 
     for i, row in df.iterrows():
-        nationality = str(row.get('Nationality', '')).strip().lower()
-        if not nationality or nationality == 'nan':
-            # 代表キャップ数があればそこから推測 (将来的な拡張用)
+        caps_str = str(row.get('Representative_Caps', '')).strip()
+        if not caps_str or caps_str == 'nan':
             continue
             
-        target_id = country_to_id.get(nationality)
-        # 部分一致も試みる (例: "France代表" -> "france")
-        if not target_id:
+        # 複数の代表歴がある可能性を考慮 (改行やカンマで区切られている場合)
+        # 例: "日本代表(5)\nセブンズ日本(3)"
+        lines = re.split(r'[\n,]', caps_str)
+        
+        target_ids = set()
+        for line in lines:
+            line = line.strip().lower()
+            if not line: continue
+            
+            # 直接一致
+            tid = country_to_id.get(line)
+            if tid:
+                target_ids.add(tid)
+                continue
+                
+            # 部分一致 (例: "日本代表(5)" -> "日本" -> "japan")
+            # 括弧内の数字を除去してクリーンアップ
+            clean_line = re.sub(r'\(.*?\)', '', line).strip()
+            # 絵文字や特殊記号を除去 (Python 3の\wはデフォルトでUnicode文字を含む)
+            clean_line = re.sub(r'[^\w\s]', '', clean_line).strip()
+            
+            # 再度直接一致を確認
+            tid = country_to_id.get(clean_line)
+            if tid:
+                target_ids.add(tid)
+                continue
+                
+            # それでもダメならキーが含まれているか確認
             for key, val in country_to_id.items():
-                if key in nationality:
-                    target_id = val
+                if key in line:
+                    target_ids.add(val)
                     break
         
-        if not target_id: continue
+        if not target_ids: continue
         
-        name_en = str(row.get('Full_Name', ''))
-        scraped_url = str(row.get('Scraped_Url', ''))
-        
-        # 共通スラッグ生成
-        slug = PlayerDataProcessor.generate_player_slug(name_en, i + 1, scraped_url)
-        
-        # マップ用のデータ構造
-        player_entry = {
-            "name_ja": str(row.get('Name_JA', '')),
-            "name_en": name_en,
-            "slug": slug,
-            "position": str(row.get('Position', '')),
-            "team": str(row.get('Current_Team', '')),
-            "league": str(row.get('League', '')),
-            "caps": str(row.get('Representative_Caps', '0')),
-            "age": str(row.get('Age', '')),
-            "height": str(row.get('Height', '')),
-            "weight": str(row.get('Weight', ''))
-        }
-        
-        national_players[target_id].append(player_entry)
-        processed_count += 1
+        for target_id in target_ids:
+            name_en = str(row.get('Player_Name', ''))
+            scraped_url = str(row.get('Scraped_Url', ''))
+            
+            # 共通スラッグ生成
+            slug = PlayerDataProcessor.generate_player_slug(name_en, i + 1, scraped_url)
+            
+            # マップ用のデータ構造
+            player_entry = {
+                "name_ja": str(row.get('Full_Name', '')),
+                "name_en": name_en,
+                "slug": slug,
+                "position": str(row.get('Position', '')),
+                "team": str(row.get('Current_Team', '')),
+                "league": str(row.get('League', '')),
+                "caps": str(row.get('Representative_Caps', '0')),
+                "age": str(row.get('Age', '')),
+                "height": str(row.get('Height', '')),
+                "weight": str(row.get('Weight', ''))
+            }
+            
+            national_players[target_id].append(player_entry)
+            processed_count += 1
 
     # 重複排除とソート (キャップ数順)
     for tid in national_players:

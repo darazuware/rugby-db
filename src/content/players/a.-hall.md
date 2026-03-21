@@ -1,11 +1,11 @@
 ---
-title: "A. Hall | "
+title: "A. Hall"
 name_en: "A. Hall"
 name_ja: ""
 slug: "a.-hall"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

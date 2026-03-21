@@ -1,7 +1,7 @@
 ---
-title: "Seb STEPHEN | Seb ・ STEPHEN"
+title: "Seb STEPHEN | セブ・スティーブン"
 name_en: "Seb STEPHEN"
-name_ja: "Seb ・ STEPHEN"
+name_ja: "セブ・スティーブン"
 slug: "seb-stephen"
 position: "HO"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/seb-stephen"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/seb-stephen"
+scraped_url: "glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2024 - 2026)
+

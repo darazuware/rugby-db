@@ -1,11 +1,11 @@
 ---
-title: "A. van der Flier | "
+title: "A. van der Flier"
 name_en: "A. van der Flier"
 name_ja: ""
 slug: "a.-van-der-flier"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

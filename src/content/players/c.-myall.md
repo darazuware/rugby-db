@@ -1,11 +1,11 @@
 ---
-title: "C. Myall | "
+title: "C. Myall"
 name_en: "C. Myall"
 name_ja: ""
 slug: "c.-myall"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

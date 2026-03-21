@@ -1,11 +1,11 @@
 ---
-title: "C. Cleaves | "
+title: "C. Cleaves"
 name_en: "C. Cleaves"
 name_ja: ""
 slug: "c.-cleaves"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

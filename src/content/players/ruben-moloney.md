@@ -1,9 +1,9 @@
 ---
-title: "Ruben MOLONEY | ルーベン・モロニー"
+title: "Ruben MOLONEY | Ruben ・ MOLONEY"
 name_en: "Ruben MOLONEY"
-name_ja: "ルーベン・モロニー"
+name_ja: "Ruben ・ MOLONEY"
 slug: "ruben-moloney"
-position: "WTB"
+position: "Winger"
 height: "187.0"
 weight: "92.0"
 birth_date: "2004.01.16"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/ruben-moloney"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "university college dublin (2023 - 2024) -> leinster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/ruben-moloney"
 ---
 
 ## キャリア遍歴
-
+University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)

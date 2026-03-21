@@ -1,11 +1,11 @@
 ---
-title: "J. Owen | "
+title: "J. Owen"
 name_en: "J. Owen"
 name_ja: ""
 slug: "j.-owen"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "Ale Loman | "
+title: "Ale Loman"
 name_en: "Ale Loman"
 name_ja: ""
 slug: "ale-loman"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2000.05.15"
 age: 25
 country: ""

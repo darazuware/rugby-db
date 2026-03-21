@@ -1,11 +1,11 @@
 ---
-title: "T. West | "
+title: "T. West"
 name_en: "T. West"
 name_ja: ""
 slug: "t.-west"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

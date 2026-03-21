@@ -1,11 +1,11 @@
 ---
-title: "A. Ridgway | "
+title: "A. Ridgway"
 name_en: "A. Ridgway"
 name_ja: ""
 slug: "a.-ridgway"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

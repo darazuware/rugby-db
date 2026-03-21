@@ -1,11 +1,11 @@
 ---
-title: "I. Jenkins | "
+title: "I. Jenkins"
 name_en: "I. Jenkins"
 name_ja: ""
 slug: "i.-jenkins"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

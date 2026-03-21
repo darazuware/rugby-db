@@ -1,11 +1,11 @@
 ---
-title: "Z. Wimbush | "
+title: "Z. Wimbush"
 name_en: "Z. Wimbush"
 name_ja: ""
 slug: "z.-wimbush"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

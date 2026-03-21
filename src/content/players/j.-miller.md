@@ -1,11 +1,11 @@
 ---
-title: "J. Miller | "
+title: "J. Miller"
 name_en: "J. Miller"
 name_ja: ""
 slug: "j.-miller"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

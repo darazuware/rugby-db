@@ -1,9 +1,9 @@
 ---
-title: "Macenzzie DUNCAN | マケンジー・ダンカン"
+title: "Macenzzie DUNCAN | Macenzzie ・ DUNCAN"
 name_en: "Macenzzie DUNCAN"
-name_ja: "マケンジー・ダンカン"
+name_ja: "Macenzzie ・ DUNCAN"
 slug: "macenzzie-duncan"
-position: "FL/No8"
+position: "Back row"
 height: "183.0"
 weight: "106.0"
 birth_date: "2003.02.25"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/macenzzie-duncan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bristol bears (2021 - 2023) -> hartpury rfc (2023 - 2023) -> bristol bears (2024 - 2024) -> hartpury rfc (2024 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/macenzzie-duncan"
 ---
 
 ## キャリア遍歴
-
+Bristol Bears (2021 - 2023) -> Hartpury RFC (2023 - 2023) -> Bristol Bears (2024 - 2024) -> Hartpury RFC (2024 - 2024) -> Glasgow Warriors (2024 - 2026)

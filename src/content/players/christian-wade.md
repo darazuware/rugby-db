@@ -1,11 +1,11 @@
 ---
-title: "Christian Wade | "
+title: "Christian Wade"
 name_en: "Christian Wade"
 name_ja: ""
 slug: "christian-wade"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1991.05.15"
 age: 34
 country: ""

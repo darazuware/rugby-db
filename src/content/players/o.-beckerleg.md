@@ -1,11 +1,11 @@
 ---
-title: "O. Beckerleg | "
+title: "O. Beckerleg"
 name_en: "O. Beckerleg"
 name_ja: ""
 slug: "o.-beckerleg"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

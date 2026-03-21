@@ -1,7 +1,7 @@
 ---
-title: "Max WILLIAMSON | マックス・ウィリアムソン"
+title: "Max WILLIAMSON | Max ・ WILLIAMSON"
 name_en: "Max WILLIAMSON"
-name_ja: "マックス・ウィリアムソン"
+name_ja: "Max ・ WILLIAMSON"
 slug: "max-williamson"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/max-williamson"
+caps: "Scotland"
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2020 - 2022) -> doncaster knights (2022 - 2022) -> glasgow warriors (2023 - 2023) -> doncaster knights (2023 - 2023) -> glasgow warriors (2023 - 2026)"
+scraped_url: "https://all.rugby/player/max-williamson"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2020 - 2022) -> Doncaster Knights (2022 - 2022) -> Glasgow Warriors (2023 - 2023) -> Doncaster Knights (2023 - 2023) -> Glasgow Warriors (2023 - 2026)

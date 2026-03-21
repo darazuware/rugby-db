@@ -1,11 +1,11 @@
 ---
-title: "C. Ridl | "
+title: "C. Ridl"
 name_en: "C. Ridl"
 name_ja: ""
 slug: "c.-ridl"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

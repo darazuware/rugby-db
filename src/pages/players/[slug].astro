@@ -115,7 +115,7 @@ const getFlag = (country: string, capsStr: string) => {
 ---
 
 <Layout
-  title={`${mainName} (${subName}) | ラグビー選手名鑑 | RUGBY PICKS`}
+  title={`${mainName}${showSub ? ` (${subName})` : ''} | ラグビー選手名鑑 | RUGBY PICKS`}
   description={`${entry.data.team}所属、${entry.data.position}。身長${
     entry.data.height
   }cm、体重${

@@ -1,11 +1,11 @@
 ---
-title: "N. Michelow | "
+title: "N. Michelow"
 name_en: "N. Michelow"
 name_ja: ""
 slug: "n.-michelow"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

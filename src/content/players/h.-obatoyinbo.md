@@ -1,11 +1,11 @@
 ---
-title: "H. Obatoyinbo | "
+title: "H. Obatoyinbo"
 name_en: "H. Obatoyinbo"
 name_ja: ""
 slug: "h.-obatoyinbo"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

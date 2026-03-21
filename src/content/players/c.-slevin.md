@@ -1,11 +1,11 @@
 ---
-title: "C. Slevin | "
+title: "C. Slevin"
 name_en: "C. Slevin"
 name_ja: ""
 slug: "c.-slevin"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

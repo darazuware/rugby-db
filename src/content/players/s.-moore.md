@@ -1,11 +1,11 @@
 ---
-title: "S. Moore | "
+title: "S. Moore"
 name_en: "S. Moore"
 name_ja: ""
 slug: "s.-moore"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

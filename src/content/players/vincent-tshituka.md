@@ -1,22 +1,22 @@
 ---
-title: "Vincent TSHITUKA | ヴィンセント ・ TSHITUKA"
+title: "Vincent TSHITUKA | ヴィンセント・ツィツカ"
 name_en: "Vincent TSHITUKA"
-name_ja: "ヴィンセント ・ TSHITUKA"
+name_ja: "ヴィンセント・ツィツカ"
 slug: "vincent-tshituka"
-position: "Back row"
+position: "FL/No8"
 height: "194.0"
 weight: "110.0"
 birth_date: "1998.09.10"
 age: 27
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/vincent-tshituka"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/vincent-tshituka"
+scraped_url: "lions rugby (2018 - 2022) -> sharks (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2022) -> Sharks (2022 - 2026)
+

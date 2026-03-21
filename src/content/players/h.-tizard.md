@@ -1,11 +1,11 @@
 ---
-title: "H. Tizard | "
+title: "H. Tizard"
 name_en: "H. Tizard"
 name_ja: ""
 slug: "h.-tizard"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

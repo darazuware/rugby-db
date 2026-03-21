@@ -1,7 +1,7 @@
 ---
-title: "Rodrigo MARTINEZ | ロドリゴ・マルティネス"
+title: "Rodrigo MARTINEZ | Rodrigo ・ MARTINEZ"
 name_en: "Rodrigo MARTINEZ"
-name_ja: "ロドリゴ・マルティネス"
+name_ja: "Rodrigo ・ MARTINEZ"
 slug: "rodrigo-martinez"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/rodrigo-martinez"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dogos xv (2019 - 2020) -> yacare xv (2020 - 2021) -> wasps (2021 - 2023) -> dragons rfc (2023 - 2026)"
+scraped_url: "https://all.rugby/player/rodrigo-martinez"
 ---
 
 ## キャリア遍歴
-
+Dogos XV (2019 - 2020) -> Yacare XV (2020 - 2021) -> Wasps (2021 - 2023) -> Dragons RFC (2023 - 2026)

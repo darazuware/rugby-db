@@ -1,11 +1,11 @@
 ---
-title: "T. Williams | "
+title: "T. Williams"
 name_en: "T. Williams"
 name_ja: ""
 slug: "t.-williams"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

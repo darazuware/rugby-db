@@ -1,11 +1,11 @@
 ---
-title: "T. Gordon | "
+title: "T. Gordon"
 name_en: "T. Gordon"
 name_ja: ""
 slug: "t.-gordon"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Roman SALANOA | ロマン・サラノア"
+title: "Roman SALANOA | Roman ・ SALANOA"
 name_en: "Roman SALANOA"
-name_ja: "ロマン・サラノア"
+name_ja: "Roman ・ SALANOA"
 slug: "roman-salanoa"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/roman-salanoa"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2019 - 2020) -> munster rugby (2020 - 2026)"
+scraped_url: "https://all.rugby/player/roman-salanoa"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2019 - 2020) -> Munster Rugby (2020 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "Henry Slade | "
+title: "Henry Slade"
 name_en: "Henry Slade"
 name_ja: ""
 slug: "henry-slade"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1993.03.19"
 age: 32
 country: ""

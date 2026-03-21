@@ -1,11 +1,11 @@
 ---
-title: "K. Hill | "
+title: "K. Hill"
 name_en: "K. Hill"
 name_ja: ""
 slug: "k.-hill"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

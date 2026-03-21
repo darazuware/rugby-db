@@ -1,11 +1,11 @@
 ---
-title: "Raffi Quirke | "
+title: "Raffi Quirke"
 name_en: "Raffi Quirke"
 name_ja: ""
 slug: "raffi-quirke"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2001.08.18"
 age: 24
 country: ""

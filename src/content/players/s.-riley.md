@@ -1,11 +1,11 @@
 ---
-title: "S. Riley | "
+title: "S. Riley"
 name_en: "S. Riley"
 name_ja: ""
 slug: "s.-riley"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "H. Bokenham | "
+title: "H. Bokenham"
 name_en: "H. Bokenham"
 name_ja: ""
 slug: "h.-bokenham"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

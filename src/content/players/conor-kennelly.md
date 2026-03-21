@@ -1,7 +1,7 @@
 ---
-title: "Conor KENNELLY | コナー ・ KENNELLY"
+title: "Conor KENNELLY | コナー・ケネリー"
 name_en: "Conor KENNELLY"
-name_ja: "コナー ・ KENNELLY"
+name_ja: "コナー・ケネリー"
 slug: "conor-kennelly"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/conor-kennelly"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/conor-kennelly"
+scraped_url: "highfield rfc (2024 - 2025) -> munster rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Highfield RFC (2024 - 2025) -> Munster Rugby (2025 - 2026)
+

@@ -1,9 +1,9 @@
 ---
-title: "Marcel THEUNISSEN | マルセル・テュニセン"
+title: "Marcel THEUNISSEN | Marcel ・ THEUNISSEN"
 name_en: "Marcel THEUNISSEN"
-name_ja: "マルセル・テュニセン"
+name_ja: "Marcel ・ THEUNISSEN"
 slug: "marcel-theunissen"
-position: "FL/No8"
+position: "Back row"
 height: "191.0"
 weight: "103.0"
 birth_date: "1999.06.09"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/marcel-theunissen"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2019 - 2026)"
+scraped_url: "https://all.rugby/player/marcel-theunissen"
 ---
 
 ## キャリア遍歴
-
+Stormers (2019 - 2026)

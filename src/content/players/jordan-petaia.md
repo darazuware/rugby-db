@@ -8,7 +8,7 @@ height: "190.0"
 weight: "102.0"
 birth_date: "2000.03.14"
 age: 26
-country: ""
+country: "Australian"
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"

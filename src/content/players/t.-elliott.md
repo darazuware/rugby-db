@@ -1,11 +1,11 @@
 ---
-title: "T. Elliott | "
+title: "T. Elliott"
 name_en: "T. Elliott"
 name_ja: ""
 slug: "t.-elliott"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

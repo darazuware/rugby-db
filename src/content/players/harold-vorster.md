@@ -1,7 +1,7 @@
 ---
-title: "Harold VORSTER | ハロルド-フォースター"
+title: "Harold VORSTER | Harold ・ VORSTER"
 name_en: "Harold VORSTER"
-name_ja: "ハロルド-フォースター"
+name_ja: "Harold ・ VORSTER"
 slug: "harold-vorster"
 position: "CTB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/harold-vorster"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2014 - 2019) -> saitama wild knights (2020 - 2021) -> bulls (2021 - 2026)"
+scraped_url: "https://all.rugby/player/harold-vorster"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2014 - 2019) -> Saitama Wild Knights (2020 - 2021) -> Bulls (2021 - 2026)

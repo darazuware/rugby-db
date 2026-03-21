@@ -1,11 +1,11 @@
 ---
-title: "C. Knight | "
+title: "C. Knight"
 name_en: "C. Knight"
 name_ja: ""
 slug: "c.-knight"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

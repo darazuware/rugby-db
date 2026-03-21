@@ -1,7 +1,7 @@
 ---
-title: "Nahuel TETAZ CHAPARRO | ナウエル・テタス・チャパロ"
+title: "Nahuel TETAZ CHAPARRO | Nahuel ・ TETAZ ・ CHAPARRO"
 name_en: "Nahuel TETAZ CHAPARRO"
-name_ja: "ナウエル・テタス・チャパロ"
+name_ja: "Nahuel ・ TETAZ ・ CHAPARRO"
 slug: "nahuel-tetaz-chaparro"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇦🇷 Argentina (78)"
+caps: "Argentina (78)"
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2013 - 2014) -> lyon olympique universitaire rugby (2014 - 2015) -> jaguares (2015 - 2020) -> bristol bears (2020 - 2021) -> benetton rugby trévise (2021 - 2026)"
+scraped_url: "https://all.rugby/player/nahuel-tetaz-chaparro"
 ---
 
 ## キャリア遍歴
-Argentina
+Dragons RFC (2013 - 2014) -> Lyon Olympique Universitaire Rugby (2014 - 2015) -> Jaguares (2015 - 2020) -> Bristol Bears (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2026)

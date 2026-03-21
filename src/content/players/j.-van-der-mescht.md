@@ -1,11 +1,11 @@
 ---
-title: "J. van der Mescht | "
+title: "J. van der Mescht"
 name_en: "J. van der Mescht"
 name_ja: ""
 slug: "j.-van-der-mescht"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

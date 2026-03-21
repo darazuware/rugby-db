@@ -1,11 +1,11 @@
 ---
-title: "N. David | "
+title: "N. David"
 name_en: "N. David"
 name_ja: ""
 slug: "n.-david"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

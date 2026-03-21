@@ -1,7 +1,7 @@
 ---
-title: "Alex USANOV | Alex ・ USANOV"
+title: "Alex USANOV | アレックス・ウサノフ"
 name_en: "Alex USANOV"
-name_ja: "Alex ・ USANOV"
+name_ja: "アレックス・ウサノフ"
 slug: "alex-usanov"
 position: "PR"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: ""
+caps: "https://all.rugby/player/alex-usanov"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/alex-usanov"
+scraped_url: "clontarf rugby (2023 - 2024) -> leinster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Clontarf Rugby (2023 - 2024) -> Leinster Rugby (2024 - 2026)
+

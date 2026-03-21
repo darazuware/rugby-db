@@ -1,7 +1,7 @@
 ---
-title: "Eli SNYMAN | イーライ-スナイマン"
+title: "Eli SNYMAN | Eli ・ スナイマン"
 name_en: "Eli SNYMAN"
-name_ja: "イーライ-スナイマン"
+name_ja: "Eli ・ スナイマン"
 slug: "eli-snyman"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/eli-snyman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2018 - 2019) -> benetton rugby trévise (2019 - 2021) -> leicester tigers (2021 - 2023) -> benetton rugby trévise (2023 - 2026)"
+scraped_url: "https://all.rugby/player/eli-snyman"
 ---
 
 ## キャリア遍歴
-
+Bulls (2018 - 2019) -> Benetton Rugby Trévise (2019 - 2021) -> Leicester Tigers (2021 - 2023) -> Benetton Rugby Trévise (2023 - 2026)

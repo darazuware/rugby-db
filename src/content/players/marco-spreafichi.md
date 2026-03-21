@@ -1,7 +1,7 @@
 ---
-title: "Marco SPREAFICHI | マルコ・スプレアフィキ"
+title: "Marco SPREAFICHI | マルコ ・ SPREAFICHI"
 name_en: "Marco SPREAFICHI"
-name_ja: "マルコ・スプレアフィキ"
+name_ja: "マルコ ・ SPREAFICHI"
 slug: "marco-spreafichi"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/marco-spreafichi"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "benetton rugby trévise (2025 - 2026)"
+scraped_url: "https://all.rugby/player/marco-spreafichi"
 ---
 
 ## キャリア遍歴
-
+Benetton Rugby Trévise (2025 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "F. Keylock | "
+title: "F. Keylock"
 name_en: "F. Keylock"
 name_ja: ""
 slug: "f.-keylock"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

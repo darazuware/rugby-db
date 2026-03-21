@@ -1,11 +1,11 @@
 ---
-title: "J. Roots | "
+title: "J. Roots"
 name_en: "J. Roots"
 name_ja: ""
 slug: "j.-roots"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

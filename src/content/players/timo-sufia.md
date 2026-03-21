@@ -11,7 +11,7 @@ age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Hanazono Kintetsu Liners"
+team: "花園近鉄ライナーズ（2025-26）"
 caps: "セブンズ日本(14)"
 high_school: "アロフィ・オ・タオア"
 university: "朝日大学"

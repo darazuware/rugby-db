@@ -1,7 +1,7 @@
 ---
-title: "Vernon PAULO | Vernon ・ PAULO"
+title: "Vernon PAULO | ヴァーノン・パウロ"
 name_en: "Vernon PAULO"
-name_ja: "Vernon ・ PAULO"
+name_ja: "ヴァーノン・パウロ"
 slug: "vernon-paulo"
 position: "HO"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/vernon-paulo"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/vernon-paulo"
+scraped_url: "north-west university (2022 - 2022) -> leopards (2022 - 2022) -> north-west university (2023 - 2023) -> leopards (2023 - 2023) -> central cheetahs (2023 - 2025) -> stormers (2025 - 2025) -> central cheetahs (2026 - 2026) -> stormers (2026 - 2026)"
 ---
 
 ## キャリア遍歴
-North-West University (2022 - 2022) -> Leopards (2022 - 2022) -> North-West University (2023 - 2023) -> Leopards (2023 - 2023) -> Central Cheetahs (2023 - 2025) -> Stormers (2025 - 2025) -> Central Cheetahs (2026 - 2026) -> Stormers (2026 - 2026)
+

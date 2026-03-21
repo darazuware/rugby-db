@@ -1,11 +1,11 @@
 ---
-title: "J. Mann | "
+title: "J. Mann"
 name_en: "J. Mann"
 name_ja: ""
 slug: "j.-mann"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

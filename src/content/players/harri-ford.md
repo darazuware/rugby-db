@@ -1,7 +1,7 @@
 ---
-title: "Harri FORD | ハリー・フォード"
+title: "Harri FORD | Harri ・ FORD"
 name_en: "Harri FORD"
-name_ja: "ハリー・フォード"
+name_ja: "Harri ・ FORD"
 slug: "harri-ford"
 position: "SO"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/harri-ford"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "rgc 1404 (2023 - 2024) -> dragons rfc (2024 - 2026)"
+scraped_url: "https://all.rugby/player/harri-ford"
 ---
 
 ## キャリア遍歴
-
+RGC 1404 (2023 - 2024) -> Dragons RFC (2024 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "J. Woods | "
+title: "J. Woods"
 name_en: "J. Woods"
 name_ja: ""
 slug: "j.-woods"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

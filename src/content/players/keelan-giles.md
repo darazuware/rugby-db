@@ -1,9 +1,9 @@
 ---
-title: "Keelan GILES | キーラン・ジャイルズ"
+title: "Keelan GILES | Keelan ・ GILES"
 name_en: "Keelan GILES"
-name_ja: "キーラン・ジャイルズ"
+name_ja: "Keelan ・ GILES"
 slug: "keelan-giles"
-position: "WTB"
+position: "Winger"
 height: "173.0"
 weight: "80.0"
 birth_date: "1998.01.29"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/keelan-giles"
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "ospreys (2016 - 2026)"
+scraped_url: "https://all.rugby/player/keelan-giles"
 ---
 
 ## キャリア遍歴
-Wales
+Ospreys (2016 - 2026)

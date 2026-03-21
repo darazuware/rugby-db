@@ -1,7 +1,7 @@
 ---
-title: "Duncan WEIR | Duncan ・ WEIR"
+title: "Duncan WEIR | ダンカン・ウィアー"
 name_en: "Duncan WEIR"
-name_ja: "Duncan ・ WEIR"
+name_ja: "ダンカン・ウィアー"
 slug: "duncan-weir"
 position: "SO"
 height: "176.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (19)"
+caps: "Scotland (19)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/duncan-weir"
+scraped_url: "glasgow warriors (2013 - 2016) -> edimbourg rugby (2016 - 2018) -> worcester warriors (2018 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2013 - 2016) -> Edimbourg Rugby (2016 - 2018) -> Worcester Warriors (2018 - 2021) -> Glasgow Warriors (2021 - 2026)
+Scotland

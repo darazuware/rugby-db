@@ -1,11 +1,11 @@
 ---
-title: "J. Ramm | "
+title: "J. Ramm"
 name_en: "J. Ramm"
 name_ja: ""
 slug: "j.-ramm"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

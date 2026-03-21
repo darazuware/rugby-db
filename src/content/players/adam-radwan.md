@@ -1,11 +1,11 @@
 ---
-title: "Adam Radwan | "
+title: "Adam Radwan"
 name_en: "Adam Radwan"
 name_ja: ""
 slug: "adam-radwan"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1997.12.30"
 age: 28
 country: ""

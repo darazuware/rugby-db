@@ -1,11 +1,11 @@
 ---
-title: "S. Blake | "
+title: "S. Blake"
 name_en: "S. Blake"
 name_ja: ""
 slug: "s.-blake"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

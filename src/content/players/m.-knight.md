@@ -1,11 +1,11 @@
 ---
-title: "M. Knight | "
+title: "M. Knight"
 name_en: "M. Knight"
 name_ja: ""
 slug: "m.-knight"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

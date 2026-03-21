@@ -1,7 +1,7 @@
 ---
-title: "Steven NEL | スティーブン ・ NEL"
+title: "Steven NEL | スティーヴン・ネル"
 name_en: "Steven NEL"
-name_ja: "スティーブン ・ NEL"
+name_ja: "スティーヴン・ネル"
 slug: "steven-nel"
 position: "SH"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/steven-nel"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/steven-nel"
+scraped_url: "blue bulls (2024 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)
+

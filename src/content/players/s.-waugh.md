@@ -1,11 +1,11 @@
 ---
-title: "S. Waugh | "
+title: "S. Waugh"
 name_en: "S. Waugh"
 name_ja: ""
 slug: "s.-waugh"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Reinhard NOTHNAGEL | ラインハルト・ノートナゲル"
+title: "Reinhard NOTHNAGEL | Reinhard ・ NOTHNAGEL"
 name_en: "Reinhard NOTHNAGEL"
-name_ja: "ラインハルト・ノートナゲル"
+name_ja: "Reinhard ・ NOTHNAGEL"
 slug: "reinhard-nothnagel"
 position: "LO"
 height: "202.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/reinhard-nothnagel"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2018 - 2026)"
+scraped_url: "https://all.rugby/player/reinhard-nothnagel"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2018 - 2026)

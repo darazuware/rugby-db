@@ -1,11 +1,11 @@
 ---
-title: "J. Bellamy | "
+title: "J. Bellamy"
 name_en: "J. Bellamy"
 name_ja: ""
 slug: "j.-bellamy"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

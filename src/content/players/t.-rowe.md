@@ -1,11 +1,11 @@
 ---
-title: "T. Rowe | "
+title: "T. Rowe"
 name_en: "T. Rowe"
 name_ja: ""
 slug: "t.-rowe"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

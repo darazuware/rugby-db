@@ -1,7 +1,7 @@
 ---
-title: "Fineen WYCHERLEY | フィニーン・ウィチャリー"
+title: "Fineen WYCHERLEY | Fineen ・ WYCHERLEY"
 name_en: "Fineen WYCHERLEY"
-name_ja: "フィニーン・ウィチャリー"
+name_ja: "Fineen ・ WYCHERLEY"
 slug: "fineen-wycherley"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/fineen-wycherley"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2016 - 2026)"
+scraped_url: "https://all.rugby/player/fineen-wycherley"
 ---
 
 ## キャリア遍歴
-Ireland
+Munster Rugby (2016 - 2026)

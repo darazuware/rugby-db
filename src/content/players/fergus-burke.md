@@ -1,11 +1,11 @@
 ---
-title: "Fergus Burke | "
+title: "Fergus Burke"
 name_en: "Fergus Burke"
 name_ja: ""
 slug: "fergus-burke"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.09.03"
 age: 26
 country: ""

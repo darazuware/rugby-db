@@ -1,11 +1,11 @@
 ---
-title: "J. Yeandle | "
+title: "J. Yeandle"
 name_en: "J. Yeandle"
 name_ja: ""
 slug: "j.-yeandle"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

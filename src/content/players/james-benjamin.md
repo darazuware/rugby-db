@@ -1,7 +1,7 @@
 ---
-title: "James BENJAMIN | ジェームズ・ベンジャミン"
+title: "James BENJAMIN | ジェームズ ・ BENJAMIN"
 name_en: "James BENJAMIN"
-name_ja: "ジェームズ・ベンジャミン"
+name_ja: "ジェームズ ・ BENJAMIN"
 slug: "james-benjamin"
 position: "HO"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/james-benjamin"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2014 - 2021) -> cornish pirates (2021 - 2021) -> dragons rfc (2021 - 2021) -> cornish pirates (2022 - 2022) -> dragons rfc (2022 - 2022) -> hartpury rfc (2022 - 2022) -> dragons rfc (2023 - 2023) -> hartpury rfc (2023 - 2023) -> dragons rfc (2023 - 2026)"
+scraped_url: "https://all.rugby/player/james-benjamin"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2014 - 2021) -> Cornish Pirates (2021 - 2021) -> Dragons RFC (2021 - 2021) -> Cornish Pirates (2022 - 2022) -> Dragons RFC (2022 - 2022) -> Hartpury RFC (2022 - 2022) -> Dragons RFC (2023 - 2023) -> Hartpury RFC (2023 - 2023) -> Dragons RFC (2023 - 2026)

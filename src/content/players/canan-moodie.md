@@ -1,9 +1,9 @@
 ---
-title: "Canan MOODIE | Canan ・ MOODIE"
+title: "Canan MOODIE | カナン-ムーディ"
 name_en: "Canan MOODIE"
-name_ja: "Canan ・ MOODIE"
+name_ja: "カナン-ムーディ"
 slug: "canan-moodie"
-position: "Winger"
+position: "WTB"
 height: "191.0"
 weight: "94.0"
 birth_date: "2002.11.05"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "🇿🇦 South Africa (8)"
+caps: "South Africa (8)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/canan-moodie"
+scraped_url: "bulls (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2021 - 2026)
+

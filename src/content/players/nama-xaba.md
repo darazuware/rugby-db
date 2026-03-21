@@ -1,9 +1,9 @@
 ---
-title: "Nama XABA | ナマ・ザバ"
+title: "Nama XABA | Nama ・ XABA"
 name_en: "Nama XABA"
-name_ja: "ナマ・ザバ"
+name_ja: "Nama ・ XABA"
 slug: "nama-xaba"
-position: "FL/No8"
+position: "Back row"
 height: "185.0"
 weight: "103.0"
 birth_date: "1997.07.26"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/nama-xaba"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2018 - 2024) -> bulls (2024 - 2026)"
+scraped_url: "https://all.rugby/player/nama-xaba"
 ---
 
 ## キャリア遍歴
-
+Stormers (2018 - 2024) -> Bulls (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Michael FOY | マイケル・フォイ"
+title: "Michael FOY | マイケル ・ FOY"
 name_en: "Michael FOY"
-name_ja: "マイケル・フォイ"
+name_ja: "マイケル ・ FOY"
 slug: "michael-foy"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/michael-foy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cork constitution rfc (2023 - 2024) -> munster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/michael-foy"
 ---
 
 ## キャリア遍歴
-
+Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)

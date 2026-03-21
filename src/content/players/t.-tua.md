@@ -1,11 +1,11 @@
 ---
-title: "T. Tua | "
+title: "T. Tua"
 name_en: "T. Tua"
 name_ja: ""
 slug: "t.-tua"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

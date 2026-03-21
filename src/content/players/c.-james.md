@@ -1,11 +1,11 @@
 ---
-title: "C. James | "
+title: "C. James"
 name_en: "C. James"
 name_ja: ""
 slug: "c.-james"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "B. Hammersley | "
+title: "B. Hammersley"
 name_en: "B. Hammersley"
 name_ja: ""
 slug: "b.-hammersley"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

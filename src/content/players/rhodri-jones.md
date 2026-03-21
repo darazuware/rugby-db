@@ -1,7 +1,7 @@
 ---
-title: "Rhodri JONES | ロドリ・ジョーンズ"
+title: "Rhodri JONES | Rhodri ・ JONES"
 name_en: "Rhodri JONES"
-name_ja: "ロドリ・ジョーンズ"
+name_ja: "Rhodri ・ JONES"
 slug: "rhodri-jones"
 position: "PR"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/rhodri-jones"
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "scarlets (2013 - 2016) -> ospreys (2016 - 2022) -> dragons rfc (2022 - 2026)"
+scraped_url: "https://all.rugby/player/rhodri-jones"
 ---
 
 ## キャリア遍歴
-Wales
+Scarlets (2013 - 2016) -> Ospreys (2016 - 2022) -> Dragons RFC (2022 - 2026)

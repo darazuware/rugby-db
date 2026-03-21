@@ -1,11 +1,11 @@
 ---
-title: "T. Mason | "
+title: "T. Mason"
 name_en: "T. Mason"
 name_ja: ""
 slug: "t.-mason"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

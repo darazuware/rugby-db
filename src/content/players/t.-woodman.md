@@ -1,11 +1,11 @@
 ---
-title: "T. Woodman | "
+title: "T. Woodman"
 name_en: "T. Woodman"
 name_ja: ""
 slug: "t.-woodman"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "L. Chessum | "
+title: "L. Chessum"
 name_en: "L. Chessum"
 name_ja: ""
 slug: "l.-chessum"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

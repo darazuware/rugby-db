@@ -1,9 +1,9 @@
 ---
-title: "Max DEEGAN | マックス・ディーガン"
+title: "Max DEEGAN | Max ・ DEEGAN"
 name_en: "Max DEEGAN"
-name_ja: "マックス・ディーガン"
+name_ja: "Max ・ DEEGAN"
 slug: "max-deegan"
-position: "FL/No8"
+position: "Back row"
 height: "193.0"
 weight: "110.0"
 birth_date: "1996.10.01"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2016 - 2026)"
+scraped_url: "https://all.rugby/player/max-deegan"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2016 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "B. Pasco | "
+title: "B. Pasco"
 name_en: "B. Pasco"
 name_ja: ""
 slug: "b.-pasco"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

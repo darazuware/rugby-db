@@ -1,11 +1,11 @@
 ---
-title: "R. McEachran | "
+title: "R. McEachran"
 name_en: "R. McEachran"
 name_ja: ""
 slug: "r.-mceachran"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

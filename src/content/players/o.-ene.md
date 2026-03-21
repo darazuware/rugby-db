@@ -1,11 +1,11 @@
 ---
-title: "O. Ene | "
+title: "O. Ene"
 name_en: "O. Ene"
 name_ja: ""
 slug: "o.-ene"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

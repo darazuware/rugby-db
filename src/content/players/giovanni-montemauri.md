@@ -1,7 +1,7 @@
 ---
-title: "Giovanni MONTEMAURI | ジョヴァンニ・モンテマウリ"
+title: "Giovanni MONTEMAURI | Giovanni ・ MONTEMAURI"
 name_en: "Giovanni MONTEMAURI"
-name_ja: "ジョヴァンニ・モンテマウリ"
+name_ja: "Giovanni ・ MONTEMAURI"
 slug: "giovanni-montemauri"
 position: "SO"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/giovanni-montemauri"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stade français paris rugby (2019 - 2020) -> lazio (2020 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - 2026)"
+scraped_url: "https://all.rugby/player/giovanni-montemauri"
 ---
 
 ## キャリア遍歴
-
+Stade Français Paris Rugby (2019 - 2020) -> Lazio (2020 - 2022) -> Rugby Rovigo Delta (2022 - 2023) -> Zebre Parma (2023 - 2026)

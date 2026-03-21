@@ -1,11 +1,11 @@
 ---
-title: "F. Renwick | "
+title: "F. Renwick"
 name_en: "F. Renwick"
 name_ja: ""
 slug: "f.-renwick"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

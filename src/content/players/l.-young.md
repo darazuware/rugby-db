@@ -1,11 +1,11 @@
 ---
-title: "L. Young | "
+title: "L. Young"
 name_en: "L. Young"
 name_ja: ""
 slug: "l.-young"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

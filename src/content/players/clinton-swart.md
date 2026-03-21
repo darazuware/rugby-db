@@ -1,7 +1,7 @@
 ---
-title: "Clinton SWART | Clinton ・ SWART"
+title: "Clinton SWART | クリントン・スウォート"
 name_en: "Clinton SWART"
-name_ja: "Clinton ・ SWART"
+name_ja: "クリントン・スウォート"
 slug: "clinton-swart"
 position: "CTB"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: ""
+caps: "https://all.rugby/player/clinton-swart"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/clinton-swart"
+scraped_url: "central cheetahs (2016 - 2018) -> toyota verblitz (2018 - 2019) -> bulls (2019 - 2019) -> toyota verblitz (2020 - 2020) -> bulls (2020 - 2021) -> shizuoka blue revs (2021 - 2023) -> pumas (2023 - 2025) -> stormers (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2016 - 2018) -> Toyota Verblitz (2018 - 2019) -> Bulls (2019 - 2019) -> Toyota Verblitz (2020 - 2020) -> Bulls (2020 - 2021) -> Shizuoka Blue Revs (2021 - 2023) -> Pumas (2023 - 2025) -> Stormers (2025 - 2026)
+

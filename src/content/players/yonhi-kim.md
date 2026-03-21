@@ -11,7 +11,7 @@ age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Red Hurricanes Osaka"
+team: "レッドハリケーンズ大阪（2025-26）"
 caps: "高校('10)"
 high_school: "大阪朝鮮高校"
 university: "法政大学"

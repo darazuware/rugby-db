@@ -8,7 +8,7 @@ height: "198.0"
 weight: "124.0"
 birth_date: "1994.08.13"
 age: 31
-country: ""
+country: "Australien"
 birth_place_scraped: ""
 league: "top14"
 team: "カストル"

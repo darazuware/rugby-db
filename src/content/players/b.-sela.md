@@ -1,11 +1,11 @@
 ---
-title: "B. Sela | "
+title: "B. Sela"
 name_en: "B. Sela"
 name_ja: ""
 slug: "b.-sela"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

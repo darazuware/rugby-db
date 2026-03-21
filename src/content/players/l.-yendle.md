@@ -1,11 +1,11 @@
 ---
-title: "L. Yendle | "
+title: "L. Yendle"
 name_en: "L. Yendle"
 name_ja: ""
 slug: "l.-yendle"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

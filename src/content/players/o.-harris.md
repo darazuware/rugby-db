@@ -1,11 +1,11 @@
 ---
-title: "O. Harris | "
+title: "O. Harris"
 name_en: "O. Harris"
 name_ja: ""
 slug: "o.-harris"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

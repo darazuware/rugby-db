@@ -1,11 +1,11 @@
 ---
-title: "J. Bennett | "
+title: "J. Bennett"
 name_en: "J. Bennett"
 name_ja: ""
 slug: "j.-bennett"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

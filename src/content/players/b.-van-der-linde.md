@@ -1,11 +1,11 @@
 ---
-title: "B. van der Linde | "
+title: "B. van der Linde"
 name_en: "B. van der Linde"
 name_ja: ""
 slug: "b.-van-der-linde"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

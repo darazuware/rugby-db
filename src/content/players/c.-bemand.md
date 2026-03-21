@@ -1,11 +1,11 @@
 ---
-title: "C. Bemand | "
+title: "C. Bemand"
 name_en: "C. Bemand"
 name_ja: ""
 slug: "c.-bemand"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

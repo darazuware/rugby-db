@@ -1,11 +1,11 @@
 ---
-title: "E. Ilione | "
+title: "E. Ilione"
 name_en: "E. Ilione"
 name_ja: ""
 slug: "e.-ilione"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

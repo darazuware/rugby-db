@@ -1,11 +1,11 @@
 ---
-title: "N. Jibulu | "
+title: "N. Jibulu"
 name_en: "N. Jibulu"
 name_ja: ""
 slug: "n.-jibulu"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

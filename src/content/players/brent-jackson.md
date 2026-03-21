@@ -1,7 +1,7 @@
 ---
-title: "Brent JACKSON | Brent ・ JACKSON"
+title: "Brent JACKSON | ブレント・ジャクソン"
 name_en: "Brent JACKSON"
-name_ja: "Brent ・ JACKSON"
+name_ja: "ブレント・ジャクソン"
 slug: "brent-jackson"
 position: "SH"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: ""
+caps: "https://all.rugby/player/brent-jackson"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/brent-jackson"
+scraped_url: "king edward vii school (2023 - 2024) -> glasgow warriors (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-King Edward VII School (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+

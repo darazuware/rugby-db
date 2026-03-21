@@ -1,11 +1,11 @@
 ---
-title: "M. Smith | "
+title: "M. Smith"
 name_en: "M. Smith"
 name_ja: ""
 slug: "m.-smith"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

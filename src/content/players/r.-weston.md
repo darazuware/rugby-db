@@ -1,11 +1,11 @@
 ---
-title: "R. Weston | "
+title: "R. Weston"
 name_en: "R. Weston"
 name_ja: ""
 slug: "r.-weston"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

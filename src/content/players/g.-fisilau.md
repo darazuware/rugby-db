@@ -1,11 +1,11 @@
 ---
-title: "G. Fisilau | "
+title: "G. Fisilau"
 name_en: "G. Fisilau"
 name_ja: ""
 slug: "g.-fisilau"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

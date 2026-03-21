@@ -1,11 +1,11 @@
 ---
-title: "K. Tuipulotu | "
+title: "K. Tuipulotu"
 name_en: "K. Tuipulotu"
 name_ja: ""
 slug: "k.-tuipulotu"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

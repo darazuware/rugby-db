@@ -1,11 +1,11 @@
 ---
-title: "E. Caine | "
+title: "E. Caine"
 name_en: "E. Caine"
 name_ja: ""
 slug: "e.-caine"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

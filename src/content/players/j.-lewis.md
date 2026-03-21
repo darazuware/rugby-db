@@ -1,11 +1,11 @@
 ---
-title: "J. Lewis | "
+title: "J. Lewis"
 name_en: "J. Lewis"
 name_ja: ""
 slug: "j.-lewis"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

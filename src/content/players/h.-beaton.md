@@ -1,11 +1,11 @@
 ---
-title: "H. Beaton | "
+title: "H. Beaton"
 name_en: "H. Beaton"
 name_ja: ""
 slug: "h.-beaton"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

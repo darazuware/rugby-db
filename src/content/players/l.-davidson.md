@@ -1,11 +1,11 @@
 ---
-title: "L. Davidson | "
+title: "L. Davidson"
 name_en: "L. Davidson"
 name_ja: ""
 slug: "l.-davidson"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

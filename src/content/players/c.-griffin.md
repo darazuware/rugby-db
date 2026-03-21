@@ -1,11 +1,11 @@
 ---
-title: "C. Griffin | "
+title: "C. Griffin"
 name_en: "C. Griffin"
 name_ja: ""
 slug: "c.-griffin"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

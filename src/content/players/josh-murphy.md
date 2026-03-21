@@ -1,7 +1,7 @@
 ---
-title: "Josh MURPHY | ジョシュ・マーフィー"
+title: "Josh MURPHY | ジョシュ ・ MURPHY"
 name_en: "Josh MURPHY"
-name_ja: "ジョシュ・マーフィー"
+name_ja: "ジョシュ ・ MURPHY"
 slug: "josh-murphy"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/josh-murphy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2017 - 2022) -> connacht rugby (2022 - 2023) -> sans club (2023 - 2024) -> connacht rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/josh-murphy"
 ---
 
 ## キャリア遍歴
-
+Leinster Rugby (2017 - 2022) -> Connacht Rugby (2022 - 2023) -> sans club (2023 - 2024) -> Connacht Rugby (2024 - 2026)

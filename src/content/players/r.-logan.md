@@ -1,11 +1,11 @@
 ---
-title: "R. Logan | "
+title: "R. Logan"
 name_en: "R. Logan"
 name_ja: ""
 slug: "r.-logan"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

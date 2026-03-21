@@ -16,7 +16,6 @@ const leagues = [
     { id: "top14", name: "TOP 14", label: "TOP 14" },
     { id: "urc", name: "URC", label: "URC" },
     { id: "premiership", name: "プレミアシップ", label: "PREM" },
-    { id: "mlr", name: "MLR", label: "MLR" },
 ];
 
 const getLeagueResults = (league: any) => {
@@ -38,6 +37,12 @@ const getLeagueResults = (league: any) => {
 };
 
 const urlLeague = Astro.url.searchParams.get('league');
+const validLeagues = leagues.map(l => l.id);
+
+if (urlLeague && !validLeagues.includes(urlLeague)) {
+    return Astro.redirect('/404');
+}
+
 let initialLeague = urlLeague || 'league-one-d1';
 if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
 ---
@@ -92,7 +97,6 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                                 league.id === 'super-rugby' ? 'bg-blue-600 text-white' :
                                 league.id === 'top14' ? 'bg-yellow-600 text-black' : 
                                 league.id === 'premiership' ? 'bg-[#FE5000] text-black' :
-                                league.id === 'mlr' ? 'bg-[#002B54] text-white' :
                                 league.id === 'urc' ? 'bg-[#003366] text-white' : 'bg-card text-foreground'
                             }`}>
                                 {league.name.toUpperCase()}
@@ -198,9 +202,9 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                     </div>
                     <div class="pt-5 border-t border-border-dim/30 flex items-center justify-between">
                         <div class="flex flex-1 justify-between gap-2">
-                            {['super-rugby', 'top14', 'premiership', 'urc', 'mlr'].map(id => (
+                            {['super-rugby', 'top14', 'premiership', 'urc'].map(id => (
                                 <button data-league-switch={id} class="flex-1 py-2.5 rounded-xl bg-foreground/5 text-[10px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/20">
-                                    {id === 'premiership' ? 'PREM' : id === 'mlr' ? 'MLR' : id.toUpperCase().slice(0, 3)}
+                                    {id === 'premiership' ? 'PREM' : id.toUpperCase().slice(0, 3)}
                                 </button>
                             ))}
                         </div>
@@ -211,7 +215,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
     </main>
 </Layout>
 
-<script is:inline>
+<script define:vars={{ validLeagues }}>
 (function() {
     let activeLeague = '';
     const leagueColors = {
@@ -222,8 +226,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
         'super-rugby': { label: 'SUPER RUGBY', from: 'bg-blue-900', text: 'text-white' },
         'top14': { label: 'TOP 14', from: 'bg-gray-900', text: 'text-white' },
         'urc': { label: 'URC', from: 'bg-blue-950', text: 'text-white' },
-        'premiership': { label: 'PREMIERSHIP', from: 'bg-[#FE5000]', text: 'text-black' },
-        'mlr': { label: 'MLR', from: 'bg-[#002B54]', text: 'text-white' }
+        'premiership': { label: 'PREMIERSHIP', from: 'bg-[#FE5000]', text: 'text-black' }
     };
 
     function updateFilter(league) {
@@ -267,6 +270,8 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
     });
 
     const p = new URLSearchParams(window.location.search);
-    updateFilter(p.get('league') || 'league-one-d1');
+    const leagueParam = p.get('league');
+    const initialLeague = (leagueParam && validLeagues.includes(leagueParam)) ? leagueParam : 'league-one-d1';
+    updateFilter(initialLeague);
 })();
 </script>

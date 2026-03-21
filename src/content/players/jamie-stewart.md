@@ -1,7 +1,7 @@
 ---
-title: "Jamie STEWART | ジェイミー・スチュワート"
+title: "Jamie STEWART | ジェイミー ・ STEWART"
 name_en: "Jamie STEWART"
-name_ja: "ジェイミー・スチュワート"
+name_ja: "ジェイミー ・ STEWART"
 slug: "jamie-stewart"
 position: "PR"
 height: "194.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/jamie-stewart"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "exeter chiefs (2023 - 2024) -> edimbourg rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/jamie-stewart"
 ---
 
 ## キャリア遍歴
-
+Exeter Chiefs (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)

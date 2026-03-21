@@ -1,9 +1,9 @@
 ---
-title: "Hugo MCLAUGHLIN | ユーゴー-マクラフリン"
+title: "Hugo MCLAUGHLIN | ヒューゴ ・ MCLAUGHLIN"
 name_en: "Hugo MCLAUGHLIN"
-name_ja: "ユーゴー-マクラフリン"
+name_ja: "ヒューゴ ・ MCLAUGHLIN"
 slug: "hugo-mclaughlin"
-position: "WTB"
+position: "Winger"
 height: "181.0"
 weight: "90.0"
 birth_date: "2004.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/hugo-mclaughlin"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lansdowne fc (2023 - 2024) -> leinster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/hugo-mclaughlin"
 ---
 
 ## キャリア遍歴
-
+Lansdowne FC (2023 - 2024) -> Leinster Rugby (2024 - 2026)

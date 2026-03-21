@@ -1,9 +1,9 @@
 ---
-title: "Sam GILBERT | サム・ギルバート"
+title: "Sam GILBERT | サム ・ GILBERT"
 name_en: "Sam GILBERT"
-name_ja: "サム・ギルバート"
+name_ja: "サム ・ GILBERT"
 slug: "sam-gilbert"
-position: "WTB"
+position: "Winger"
 height: "189.0"
 weight: "99.0"
 birth_date: "1999.01.21"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/sam-gilbert"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "canterbury (2018 - 2019) -> highlanders (2019 - 2020) -> otago (2020 - 2020) -> highlanders (2021 - 2021) -> otago (2021 - 2021) -> highlanders (2021 - 2021) -> otago (2021 - 2021) -> highlanders (2022 - 2022) -> otago (2022 - 2022) -> highlanders (2022 - 2022) -> otago (2022 - 2022) -> highlanders (2023 - 2023) -> otago (2023 - 2023) -> highlanders (2023 - 2023) -> otago (2023 - 2023) -> highlanders (2024 - 2024) -> otago (2024 - 2024) -> highlanders (2024 - 2024) -> otago (2024 - 2024) -> highlanders (2025 - 2025) -> otago (2025 - 2025) -> connacht rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/sam-gilbert"
 ---
 
 ## キャリア遍歴
-
+Canterbury (2018 - 2019) -> Highlanders (2019 - 2020) -> Otago (2020 - 2020) -> Highlanders (2021 - 2021) -> Otago (2021 - 2021) -> Highlanders (2021 - 2021) -> Otago (2021 - 2021) -> Highlanders (2022 - 2022) -> Otago (2022 - 2022) -> Highlanders (2022 - 2022) -> Otago (2022 - 2022) -> Highlanders (2023 - 2023) -> Otago (2023 - 2023) -> Highlanders (2023 - 2023) -> Otago (2023 - 2023) -> Highlanders (2024 - 2024) -> Otago (2024 - 2024) -> Highlanders (2024 - 2024) -> Otago (2024 - 2024) -> Highlanders (2025 - 2025) -> Otago (2025 - 2025) -> Connacht Rugby (2025 - 2026)

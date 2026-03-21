@@ -1,7 +1,7 @@
 ---
-title: "Scott CUMMINGS | スコット ・ CUMMINGS"
+title: "Scott CUMMINGS | スコット・カミングス"
 name_en: "Scott CUMMINGS"
-name_ja: "スコット ・ CUMMINGS"
+name_ja: "スコット・カミングス"
 slug: "scott-cummings"
 position: "LO"
 height: "199.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (42)"
+caps: "Scotland (42)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/scott-cummings"
+scraped_url: "glasgow warriors (2015 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2015 - 2026)
+Scotland

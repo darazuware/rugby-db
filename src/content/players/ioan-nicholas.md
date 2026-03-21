@@ -1,7 +1,7 @@
 ---
-title: "Ioan NICHOLAS | イオアン-ニコラス"
+title: "Ioan NICHOLAS | Ioan ・ NICHOLAS"
 name_en: "Ioan NICHOLAS"
-name_ja: "イオアン-ニコラス"
+name_ja: "Ioan ・ NICHOLAS"
 slug: "ioan-nicholas"
 position: "CTB"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/ioan-nicholas"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "scarlets (2015 - 2017) -> benetton rugby trévise (2017 - 2017) -> scarlets (2018 - 2018) -> benetton rugby trévise (2018 - 2018) -> scarlets (2018 - 2026)"
+scraped_url: "https://all.rugby/player/ioan-nicholas"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2015 - 2017) -> Benetton Rugby Trévise (2017 - 2017) -> Scarlets (2018 - 2018) -> Benetton Rugby Trévise (2018 - 2018) -> Scarlets (2018 - 2026)

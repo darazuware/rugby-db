@@ -8,7 +8,7 @@ height: "181.0"
 weight: "108.0"
 birth_date: "2002.07.16"
 age: 23
-country: ""
+country: "French"
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"

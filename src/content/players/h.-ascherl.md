@@ -1,11 +1,11 @@
 ---
-title: "H. Ascherl | "
+title: "H. Ascherl"
 name_en: "H. Ascherl"
 name_ja: ""
 slug: "h.-ascherl"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

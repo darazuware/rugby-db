@@ -1,7 +1,7 @@
 ---
-title: "Federico ZANANDREA | フェデリコ・ザナンドレア"
+title: "Federico ZANANDREA | Federico ・ ZANANDREA"
 name_en: "Federico ZANANDREA"
-name_ja: "フェデリコ・ザナンドレア"
+name_ja: "Federico ・ ZANANDREA"
 slug: "federico-zanandrea"
 position: "CTB"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/federico-zanandrea"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "mogliano veneto rugby (2023 - 2024) -> benetton rugby trévise (2024 - 2024) -> mogliano veneto rugby (2024 - 2024) -> benetton rugby trévise (2025 - 2025) -> mogliano veneto rugby (2025 - 2025) -> benetton rugby trévise (2025 - 2026)"
+scraped_url: "https://all.rugby/player/federico-zanandrea"
 ---
 
 ## キャリア遍歴
-
+Mogliano Veneto Rugby (2023 - 2024) -> Benetton Rugby Trévise (2024 - 2024) -> Mogliano Veneto Rugby (2024 - 2024) -> Benetton Rugby Trévise (2025 - 2025) -> Mogliano Veneto Rugby (2025 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

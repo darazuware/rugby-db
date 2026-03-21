@@ -1,11 +1,11 @@
 ---
-title: "T. Willis | "
+title: "T. Willis"
 name_en: "T. Willis"
 name_ja: ""
 slug: "t.-willis"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

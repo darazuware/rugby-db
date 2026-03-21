@@ -1,11 +1,11 @@
 ---
-title: "Stephan Lewies | "
+title: "Stephan Lewies"
 name_en: "Stephan Lewies"
 name_ja: ""
 slug: "stephan-lewies"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1992.01.27"
 age: 34
 country: ""

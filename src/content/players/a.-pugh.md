@@ -1,11 +1,11 @@
 ---
-title: "A. Pugh | "
+title: "A. Pugh"
 name_en: "A. Pugh"
 name_ja: ""
 slug: "a.-pugh"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

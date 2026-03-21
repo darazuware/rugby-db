@@ -1,7 +1,7 @@
 ---
-title: "Dane BLACKER | Dane ・ BLACKER"
+title: "Dane BLACKER | デイン-ブラッカー"
 name_en: "Dane BLACKER"
-name_ja: "Dane ・ BLACKER"
+name_ja: "デイン-ブラッカー"
 slug: "dane-blacker"
 position: "SH"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: ""
+caps: "https://all.rugby/player/dane-blacker"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/dane-blacker"
+scraped_url: "dragons rfc (2017 - 2017) -> cardiff rugby (2017 - 2017) -> dragons rfc (2018 - 2018) -> cardiff rugby (2018 - 2019) -> scarlets (2019 - 2023) -> dragons rfc (2023 - 2025) -> scarlets (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2017) -> Cardiff Rugby (2017 - 2017) -> Dragons RFC (2018 - 2018) -> Cardiff Rugby (2018 - 2019) -> Scarlets (2019 - 2023) -> Dragons RFC (2023 - 2025) -> Scarlets (2025 - 2026)
+

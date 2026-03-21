@@ -1,7 +1,7 @@
 ---
-title: "Thomas DYER | トーマス ・ DYER"
+title: "Thomas DYER | トーマス・ダイアー"
 name_en: "Thomas DYER"
-name_ja: "トーマス ・ DYER"
+name_ja: "トーマス・ダイアー"
 slug: "thomas-dyer"
 position: "LO"
 height: "196.0"
@@ -10,13 +10,13 @@ birth_date: "2004.."
 age: 22
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: ""
+caps: "https://all.rugby/player/thomas-dyer"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/thomas-dyer"
+scraped_url: "sharks (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Sharks (2023 - 2026)
+

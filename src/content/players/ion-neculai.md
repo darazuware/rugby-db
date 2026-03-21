@@ -1,7 +1,7 @@
 ---
-title: "Ion NECULAI | イアン・ネクライ"
+title: "Ion NECULAI | Ion ・ NECULAI"
 name_en: "Ion NECULAI"
-name_ja: "イアン・ネクライ"
+name_ja: "Ion ・ NECULAI"
 slug: "ion-neculai"
 position: "PR"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/ion-neculai"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "i cavalieri prato (2020 - 2021) -> zebre parma (2021 - 2026)"
+scraped_url: "https://all.rugby/player/ion-neculai"
 ---
 
 ## キャリア遍歴
-
+I Cavalieri Prato (2020 - 2021) -> Zebre Parma (2021 - 2026)

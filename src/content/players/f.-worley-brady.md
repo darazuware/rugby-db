@@ -1,11 +1,11 @@
 ---
-title: "F. Worley-Brady | "
+title: "F. Worley-Brady"
 name_en: "F. Worley-Brady"
 name_ja: ""
 slug: "f.-worley-brady"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

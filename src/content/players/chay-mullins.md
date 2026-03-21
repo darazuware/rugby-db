@@ -1,7 +1,7 @@
 ---
-title: "Chay MULLINS | Chay ・ MULLINS"
+title: "Chay MULLINS | チェイ・マリンズ"
 name_en: "Chay MULLINS"
-name_ja: "Chay ・ MULLINS"
+name_ja: "チェイ・マリンズ"
 slug: "chay-mullins"
 position: "FB"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: ""
+caps: "https://all.rugby/player/chay-mullins"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/chay-mullins"
+scraped_url: "bristol bears (2020 - 2022) -> connacht rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2020 - 2022) -> Connacht Rugby (2022 - 2026)
+

@@ -1,11 +1,11 @@
 ---
-title: "Ethan Roots | "
+title: "Ethan Roots"
 name_en: "Ethan Roots"
 name_ja: ""
 slug: "ethan-roots"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1997.11.10"
 age: 28
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Ruben VAN HEERDEN | ルーベン・ファン・ヘールデン"
+title: "Ruben VAN HEERDEN | Ruben ・ ファン ・ HEERDEN"
 name_en: "Ruben VAN HEERDEN"
-name_ja: "ルーベン・ファン・ヘールデン"
+name_ja: "Ruben ・ ファン ・ HEERDEN"
 slug: "ruben-van-heerden"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/ruben-van-heerden"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2016 - 2018) -> sharks (2018 - 2022) -> exeter chiefs (2022 - 2022) -> stormers (2022 - 2022) -> exeter chiefs (2023 - 2023) -> stormers (2023 - 2026)"
+scraped_url: "https://all.rugby/player/ruben-van-heerden"
 ---
 
 ## キャリア遍歴
-
+Bulls (2016 - 2018) -> Sharks (2018 - 2022) -> Exeter Chiefs (2022 - 2022) -> Stormers (2022 - 2022) -> Exeter Chiefs (2023 - 2023) -> Stormers (2023 - 2026)

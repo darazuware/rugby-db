@@ -1,11 +1,11 @@
 ---
-title: "T. Cowan | "
+title: "T. Cowan"
 name_en: "T. Cowan"
 name_ja: ""
 slug: "t.-cowan"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "S. Worsley | "
+title: "S. Worsley"
 name_en: "S. Worsley"
 name_ja: ""
 slug: "s.-worsley"
 position: "Fly-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

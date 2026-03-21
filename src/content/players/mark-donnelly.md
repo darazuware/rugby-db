@@ -1,7 +1,7 @@
 ---
-title: "Mark DONNELLY | マーク・ドネリー"
+title: "Mark DONNELLY | マーク ・ DONNELLY"
 name_en: "Mark DONNELLY"
-name_ja: "マーク・ドネリー"
+name_ja: "マーク ・ DONNELLY"
 slug: "mark-donnelly"
 position: "PR"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/mark-donnelly"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2020 - 2025) -> ealing trailfinders (2025 - 2025) -> munster rugby (2026 - 2026) -> ealing trailfinders (2026 - 2026)"
+scraped_url: "https://all.rugby/player/mark-donnelly"
 ---
 
 ## キャリア遍歴
-
+Munster Rugby (2020 - 2025) -> Ealing Trailfinders (2025 - 2025) -> Munster Rugby (2026 - 2026) -> Ealing Trailfinders (2026 - 2026)

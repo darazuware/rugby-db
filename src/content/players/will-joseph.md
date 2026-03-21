@@ -1,11 +1,11 @@
 ---
-title: "Will Joseph | "
+title: "Will Joseph"
 name_en: "Will Joseph"
 name_ja: ""
 slug: "will-joseph"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

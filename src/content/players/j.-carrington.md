@@ -1,11 +1,11 @@
 ---
-title: "J. Carrington | "
+title: "J. Carrington"
 name_en: "J. Carrington"
 name_ja: ""
 slug: "j.-carrington"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

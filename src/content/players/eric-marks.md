@@ -8,7 +8,7 @@ height: "196.0"
 weight: "116.0"
 birth_date: "1996.12.09"
 age: 29
-country: ""
+country: "German"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

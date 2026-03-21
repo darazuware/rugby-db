@@ -1,11 +1,11 @@
 ---
-title: "A. Clarey | "
+title: "A. Clarey"
 name_en: "A. Clarey"
 name_ja: ""
 slug: "a.-clarey"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

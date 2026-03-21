@@ -1,11 +1,11 @@
 ---
-title: "S. Spink | "
+title: "S. Spink"
 name_en: "S. Spink"
 name_ja: ""
 slug: "s.-spink"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "O. James | "
+title: "O. James"
 name_en: "O. James"
 name_ja: ""
 slug: "o.-james"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

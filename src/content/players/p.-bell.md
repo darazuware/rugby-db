@@ -1,11 +1,11 @@
 ---
-title: "P. Bell | "
+title: "P. Bell"
 name_en: "P. Bell"
 name_ja: ""
 slug: "p.-bell"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

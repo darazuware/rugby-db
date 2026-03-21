@@ -1,11 +1,11 @@
 ---
-title: "A. Hearle | "
+title: "A. Hearle"
 name_en: "A. Hearle"
 name_ja: ""
 slug: "a.-hearle"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

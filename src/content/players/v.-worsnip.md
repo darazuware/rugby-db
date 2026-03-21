@@ -1,11 +1,11 @@
 ---
-title: "V. Worsnip | "
+title: "V. Worsnip"
 name_en: "V. Worsnip"
 name_ja: ""
 slug: "v.-worsnip"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

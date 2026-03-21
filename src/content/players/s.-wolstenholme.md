@@ -1,11 +1,11 @@
 ---
-title: "S. Wolstenholme | "
+title: "S. Wolstenholme"
 name_en: "S. Wolstenholme"
 name_ja: ""
 slug: "s.-wolstenholme"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

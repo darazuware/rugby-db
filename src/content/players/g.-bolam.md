@@ -1,11 +1,11 @@
 ---
-title: "G. Bolam | "
+title: "G. Bolam"
 name_en: "G. Bolam"
 name_ja: ""
 slug: "g.-bolam"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

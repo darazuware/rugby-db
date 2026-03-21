@@ -1,11 +1,11 @@
 ---
-title: "M. Clark | "
+title: "M. Clark"
 name_en: "M. Clark"
 name_ja: ""
 slug: "m.-clark"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

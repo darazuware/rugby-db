@@ -1,7 +1,7 @@
 ---
-title: "Shilo KLEIN | Shilo ・ KLEIN"
+title: "Shilo KLEIN | シロ・クライン"
 name_en: "Shilo KLEIN"
-name_ja: "Shilo ・ KLEIN"
+name_ja: "シロ・クライン"
 slug: "shilo-klein"
 position: "HO"
 height: "181.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "United-States"
+caps: "https://all.rugby/player/shilo-klein"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/shilo-klein"
+scraped_url: "canterbury (2018 - 2021) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> crusaders (2022 - 2022) -> canterbury (2022 - 2022) -> san diego legion (2022 - 2022) -> north harbour (2022 - 2022) -> san diego legion (2023 - 2023) -> north harbour (2023 - 2024) -> san diego legion (2024 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Canterbury (2018 - 2021) -> Crusaders (2021 - 2021) -> Canterbury (2021 - 2021) -> Crusaders (2022 - 2022) -> Canterbury (2022 - 2022) -> San Diego Legion (2022 - 2022) -> North Harbour (2022 - 2022) -> San Diego Legion (2023 - 2023) -> North Harbour (2023 - 2024) -> San Diego Legion (2024 - 2025) -> Zebre Parma (2025 - 2026)
+United-States

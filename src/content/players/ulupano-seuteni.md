@@ -8,7 +8,7 @@ height: "185.0"
 weight: "100.0"
 birth_date: "1993.12.09"
 age: 32
-country: ""
+country: "Australienne"
 birth_place_scraped: ""
 league: "top14"
 team: "ラ・ロシェル"

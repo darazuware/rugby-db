@@ -1,11 +1,11 @@
 ---
-title: "J. Venter | "
+title: "J. Venter"
 name_en: "J. Venter"
 name_ja: ""
 slug: "j.-venter"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

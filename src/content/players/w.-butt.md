@@ -1,11 +1,11 @@
 ---
-title: "W. Butt | "
+title: "W. Butt"
 name_en: "W. Butt"
 name_ja: ""
 slug: "w.-butt"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

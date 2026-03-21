@@ -1,11 +1,11 @@
 ---
-title: "F. Lockwood | "
+title: "F. Lockwood"
 name_en: "F. Lockwood"
 name_ja: ""
 slug: "f.-lockwood"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

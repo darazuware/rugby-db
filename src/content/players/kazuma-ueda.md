@@ -11,7 +11,7 @@ age: 23
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "Kobelco Kobe Steelers"
+team: "コベルコ神戸スティーラーズ（2025-26）"
 caps: "XV('25)、セブンズ日本(6)、日本代表(2)"
 high_school: "報徳学園高校"
 university: "近畿大学"

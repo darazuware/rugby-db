@@ -1,11 +1,11 @@
 ---
-title: "R. Russell | "
+title: "R. Russell"
 name_en: "R. Russell"
 name_ja: ""
 slug: "r.-russell"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

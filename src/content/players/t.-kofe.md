@@ -1,11 +1,11 @@
 ---
-title: "T. Kofe | "
+title: "T. Kofe"
 name_en: "T. Kofe"
 name_ja: ""
 slug: "t.-kofe"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

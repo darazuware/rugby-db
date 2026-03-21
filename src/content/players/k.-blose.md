@@ -1,11 +1,11 @@
 ---
-title: "K. Blose | "
+title: "K. Blose"
 name_en: "K. Blose"
 name_ja: ""
 slug: "k.-blose"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

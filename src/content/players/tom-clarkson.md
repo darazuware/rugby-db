@@ -1,7 +1,7 @@
 ---
-title: "Tom CLARKSON | トム ・ CLARKSON"
+title: "Tom CLARKSON | トム・クラークソン"
 name_en: "Tom CLARKSON"
-name_ja: "トム ・ CLARKSON"
+name_ja: "トム・クラークソン"
 slug: "tom-clarkson"
 position: "PR"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "🇮🇪 Ireland (6)"
+caps: "Ireland (6)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/tom-clarkson"
+scraped_url: "leinster rugby (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2026)
+Ireland

@@ -1,11 +1,11 @@
 ---
-title: "Max Llewellyn | "
+title: "Max Llewellyn"
 name_en: "Max Llewellyn"
 name_ja: ""
 slug: "max-llewellyn"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1999.01.13"
 age: 27
 country: ""

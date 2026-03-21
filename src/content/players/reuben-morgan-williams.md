@@ -1,7 +1,7 @@
 ---
-title: "Reuben MORGAN-WILLIAMS | ルーベン・モーガン＝ウィリアムズ"
+title: "Reuben MORGAN-WILLIAMS | Reuben ・ MORGAN ・ ウィリアムズ"
 name_en: "Reuben MORGAN-WILLIAMS"
-name_ja: "ルーベン・モーガン＝ウィリアムズ"
+name_ja: "Reuben ・ MORGAN ・ ウィリアムズ"
 slug: "reuben-morgan-williams"
 position: "SH"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/reuben-morgan-williams"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2017 - 2026)"
+scraped_url: "https://all.rugby/player/reuben-morgan-williams"
 ---
 
 ## キャリア遍歴
-
+Ospreys (2017 - 2026)

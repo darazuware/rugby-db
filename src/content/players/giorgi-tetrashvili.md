@@ -8,7 +8,7 @@ height: "177.0"
 weight: "115.0"
 birth_date: "1993.08.31"
 age: 32
-country: ""
+country: "Georgian"
 birth_place_scraped: ""
 league: "top14"
 team: "ペルピニャン"

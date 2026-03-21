@@ -1,11 +1,11 @@
 ---
-title: "P. Hogg | "
+title: "P. Hogg"
 name_en: "P. Hogg"
 name_ja: ""
 slug: "p.-hogg"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

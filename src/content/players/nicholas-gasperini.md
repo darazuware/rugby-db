@@ -1,7 +1,7 @@
 ---
-title: "Nicholas GASPERINI | ニコラス・ガスペリーニ"
+title: "Nicholas GASPERINI | Nicholas ・ GASPERINI"
 name_en: "Nicholas GASPERINI"
-name_ja: "ニコラス・ガスペリーニ"
+name_ja: "Nicholas ・ GASPERINI"
 slug: "nicholas-gasperini"
 position: "HO"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/nicholas-gasperini"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stade français paris rugby (2022 - 2023) -> zebre parma (2023 - 2024) -> mogliano veneto rugby (2024 - 2025) -> benetton rugby trévise (2025 - 2026)"
+scraped_url: "https://all.rugby/player/nicholas-gasperini"
 ---
 
 ## キャリア遍歴
-
+Stade Français Paris Rugby (2022 - 2023) -> Zebre Parma (2023 - 2024) -> Mogliano Veneto Rugby (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)

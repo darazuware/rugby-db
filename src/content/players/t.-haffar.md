@@ -1,11 +1,11 @@
 ---
-title: "T. Haffar | "
+title: "T. Haffar"
 name_en: "T. Haffar"
 name_ja: ""
 slug: "t.-haffar"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

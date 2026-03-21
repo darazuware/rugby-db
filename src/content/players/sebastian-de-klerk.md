@@ -1,9 +1,9 @@
 ---
-title: "Sebastian DE KLERK | Sebastian ・ デ ・ デクラーク"
+title: "Sebastian DE KLERK | セバスチャン・デ・クラーク"
 name_en: "Sebastian DE KLERK"
-name_ja: "Sebastian ・ デ ・ デクラーク"
+name_ja: "セバスチャン・デ・クラーク"
 slug: "sebastian-de-klerk"
-position: "Winger"
+position: "WTB"
 height: "180.0"
 weight: "91.0"
 birth_date: "2000.04.05"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/sebastian-de-klerk"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/sebastian-de-klerk"
+scraped_url: "pumas (2020 - 2023) -> bulls (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Pumas (2020 - 2023) -> Bulls (2023 - 2026)
+

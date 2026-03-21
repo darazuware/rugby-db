@@ -1,7 +1,7 @@
 ---
-title: "Macs PAGE | マックス・ペイジ"
+title: "Macs PAGE | Macs ・ PAGE"
 name_en: "Macs PAGE"
-name_ja: "マックス・ペイジ"
+name_ja: "Macs ・ PAGE"
 slug: "macs-page"
 position: "CTB"
 height: "176.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/macs-page"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "scarlets (2022 - 2026)"
+scraped_url: "https://all.rugby/player/macs-page"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2022 - 2026)

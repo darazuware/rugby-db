@@ -1,9 +1,9 @@
 ---
-title: "Louis LYNAGH | ルイ・ライナー"
+title: "Louis LYNAGH | Louis ・ LYNAGH"
 name_en: "Louis LYNAGH"
-name_ja: "ルイ・ライナー"
+name_ja: "Louis ・ LYNAGH"
 slug: "louis-lynagh"
-position: "WTB"
+position: "Winger"
 height: "187.0"
 weight: "96.0"
 birth_date: "2000.12.03"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/louis-lynagh"
+caps: "Australia"
 high_school: ""
 university: ""
-scraped_url: "harlequins (2019 - 2022) -> london scottish (2022 - 2022) -> harlequins (2023 - 2023) -> london scottish (2023 - 2023) -> harlequins (2023 - 2024) -> benetton rugby trévise (2024 - 2026)"
+scraped_url: "https://all.rugby/player/louis-lynagh"
 ---
 
 ## キャリア遍歴
-Australia
+Harlequins (2019 - 2022) -> London Scottish (2022 - 2022) -> Harlequins (2023 - 2023) -> London Scottish (2023 - 2023) -> Harlequins (2023 - 2024) -> Benetton Rugby Trévise (2024 - 2026)

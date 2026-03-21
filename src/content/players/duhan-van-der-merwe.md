@@ -1,9 +1,9 @@
 ---
-title: "Duhan VAN DER MERWE | Duhan ・ ファン ・ デル ・ MERWE"
+title: "Duhan VAN DER MERWE | ドゥハン-ファン・デル・メルヴァ"
 name_en: "Duhan VAN DER MERWE"
-name_ja: "Duhan ・ ファン ・ デル ・ MERWE"
+name_ja: "ドゥハン-ファン・デル・メルヴァ"
 slug: "duhan-van-der-merwe"
-position: "Winger"
+position: "WTB"
 height: "193.0"
 weight: "106.0"
 birth_date: "1995.06.04"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (44)"
+caps: "Scotland (44)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/duhan-van-der-merwe"
+scraped_url: "bulls (2015 - 2016) -> montpellier hérault rugby (2016 - 2017) -> edimbourg rugby (2017 - 2021) -> worcester warriors (2021 - 2022) -> edimbourg rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2016) -> Montpellier Hérault Rugby (2016 - 2017) -> Edimbourg Rugby (2017 - 2021) -> Worcester Warriors (2021 - 2022) -> Edimbourg Rugby (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Edimbourg Rugby (2023 - 2026)
+South Africa

@@ -1,11 +1,11 @@
 ---
-title: "C. Chapman | "
+title: "C. Chapman"
 name_en: "C. Chapman"
 name_ja: ""
 slug: "c.-chapman"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

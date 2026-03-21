@@ -5,7 +5,7 @@ name_ja: "Callum ・ WOOLLEY"
 slug: "callum-woolley"
 position: "Winger"
 height: "193.0"
-weight: "nan"
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

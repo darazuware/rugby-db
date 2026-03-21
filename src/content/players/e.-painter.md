@@ -1,11 +1,11 @@
 ---
-title: "E. Painter | "
+title: "E. Painter"
 name_en: "E. Painter"
 name_ja: ""
 slug: "e.-painter"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "T. Fricker | "
+title: "T. Fricker"
 name_en: "T. Fricker"
 name_ja: ""
 slug: "t.-fricker"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

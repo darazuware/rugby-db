@@ -1,22 +1,22 @@
 ---
-title: "James MCKILLOP | ジェームズ・マキロップ"
+title: "James MCKILLOP | ジェームズ ・ MCKILLOP"
 name_en: "James MCKILLOP"
-name_ja: "ジェームズ・マキロップ"
+name_ja: "ジェームズ ・ MCKILLOP"
 slug: "james-mckillop"
-position: "FL/No8"
-height: "nan"
-weight: "nan"
+position: "Back row"
+height: ""
+weight: ""
 birth_date: "2004.."
 age: 22
 country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/james-mckillop"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "queen's university (2023 - 2024) -> ulster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/james-mckillop"
 ---
 
 ## キャリア遍歴
-
+Queen's University (2023 - 2024) -> Ulster Rugby (2024 - 2026)

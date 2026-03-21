@@ -1,11 +1,11 @@
 ---
-title: "H. Faiva | "
+title: "H. Faiva"
 name_en: "H. Faiva"
 name_ja: ""
 slug: "h.-faiva"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

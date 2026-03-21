@@ -1,11 +1,11 @@
 ---
-title: "R. Beeckmans | "
+title: "R. Beeckmans"
 name_en: "R. Beeckmans"
 name_ja: ""
 slug: "r.-beeckmans"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

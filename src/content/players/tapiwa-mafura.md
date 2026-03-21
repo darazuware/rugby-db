@@ -1,7 +1,7 @@
 ---
-title: "Tapiwa MAFURA | Tapiwa ・ MAFURA"
+title: "Tapiwa MAFURA | タピワ・マフラ"
 name_en: "Tapiwa MAFURA"
-name_ja: "Tapiwa ・ MAFURA"
+name_ja: "タピワ・マフラ"
 slug: "tapiwa-mafura"
 position: "FB"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: ""
+caps: "https://all.rugby/player/tapiwa-mafura"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/tapiwa-mafura"
+scraped_url: "pumas (2019 - 2022) -> central cheetahs (2022 - 2024) -> lions rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Pumas (2019 - 2022) -> Central Cheetahs (2022 - 2024) -> Lions Rugby (2024 - 2026)
+

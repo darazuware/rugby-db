@@ -1,11 +1,11 @@
 ---
-title: "J. Dickens | "
+title: "J. Dickens"
 name_en: "J. Dickens"
 name_ja: ""
 slug: "j.-dickens"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

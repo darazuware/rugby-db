@@ -1,7 +1,7 @@
 ---
-title: "Siua MAILE | Siua ・ MAILE"
+title: "Siua MAILE | シウア・マイレ"
 name_en: "Siua MAILE"
-name_ja: "Siua ・ MAILE"
+name_ja: "シウア・マイレ"
 slug: "siua-maile"
 position: "HO"
 height: "181.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "🇹🇴 Tonga (15)"
+caps: "Tonga (15)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/siua-maile"
+scraped_url: "manawatu turbos (2019 - 2021) -> hurricanes (2021 - 2021) -> manawatu turbos (2021 - 2021) -> hurricanes (2022 - 2022) -> manawatu turbos (2022 - 2022) -> benetton rugby trévise (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2019 - 2021) -> Hurricanes (2021 - 2021) -> Manawatu Turbos (2021 - 2021) -> Hurricanes (2022 - 2022) -> Manawatu Turbos (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+Tonga

@@ -1,7 +1,7 @@
 ---
-title: "Jeremy LOUGHMAN | ジェレミー-ラフマン"
+title: "Jeremy LOUGHMAN | Jeremy ・ LOUGHMAN"
 name_en: "Jeremy LOUGHMAN"
-name_ja: "ジェレミー-ラフマン"
+name_ja: "Jeremy ・ LOUGHMAN"
 slug: "jeremy-loughman"
 position: "PR"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "Squad caps (1332)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2015 - 2017) -> munster rugby (2017 - 2026)"
+scraped_url: "https://all.rugby/player/jeremy-loughman"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2015 - 2017) -> Munster Rugby (2017 - 2026)

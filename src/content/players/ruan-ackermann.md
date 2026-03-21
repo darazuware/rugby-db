@@ -1,9 +1,9 @@
 ---
-title: "Ruan ACKERMANN | ルアン・アッカーマン"
+title: "Ruan ACKERMANN | Ruan ・ ACKERMANN"
 name_en: "Ruan ACKERMANN"
-name_ja: "ルアン・アッカーマン"
+name_ja: "Ruan ・ ACKERMANN"
 slug: "ruan-ackermann"
-position: "FL/No8"
+position: "Back row"
 height: "194.0"
 weight: "115.0"
 birth_date: "1995.12.29"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/ruan-ackermann"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "lions rugby (2015 - 2017) -> gloucester rugby (2017 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/ruan-ackermann"
 ---
 
 ## キャリア遍歴
-
+Lions Rugby (2015 - 2017) -> Gloucester Rugby (2017 - 2025) -> Stormers (2025 - 2026)

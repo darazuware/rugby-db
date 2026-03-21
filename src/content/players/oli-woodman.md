@@ -1,7 +1,7 @@
 ---
-title: "Oli WOODMAN | オリ・ウッドマン"
+title: "Oli WOODMAN | Oli ・ WOODMAN"
 name_en: "Oli WOODMAN"
-name_ja: "オリ・ウッドマン"
+name_ja: "Oli ・ WOODMAN"
 slug: "oli-woodman"
 position: "FB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/oli-woodman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2023 - 2026)"
+scraped_url: "https://all.rugby/player/oli-woodman"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2023 - 2026)

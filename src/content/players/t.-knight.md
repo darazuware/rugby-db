@@ -1,11 +1,11 @@
 ---
-title: "T. Knight | "
+title: "T. Knight"
 name_en: "T. Knight"
 name_ja: ""
 slug: "t.-knight"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

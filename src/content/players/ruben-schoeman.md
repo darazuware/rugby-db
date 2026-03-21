@@ -1,7 +1,7 @@
 ---
-title: "Ruben SCHOEMAN | ルーベン・スホーマン"
+title: "Ruben SCHOEMAN | Ruben ・ SCHOEMAN"
 name_en: "Ruben SCHOEMAN"
-name_ja: "ルーベン・スホーマン"
+name_ja: "Ruben ・ SCHOEMAN"
 slug: "ruben-schoeman"
 position: "LO"
 height: "199.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/ruben-schoeman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "golden lions (2018 - 2019) -> lions rugby (2019 - 2026)"
+scraped_url: "https://all.rugby/player/ruben-schoeman"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)

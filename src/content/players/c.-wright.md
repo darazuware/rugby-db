@@ -1,11 +1,11 @@
 ---
-title: "C. Wright | "
+title: "C. Wright"
 name_en: "C. Wright"
 name_ja: ""
 slug: "c.-wright"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "B. Bradley | "
+title: "B. Bradley"
 name_en: "B. Bradley"
 name_ja: ""
 slug: "b.-bradley"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

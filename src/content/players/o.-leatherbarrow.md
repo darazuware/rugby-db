@@ -1,11 +1,11 @@
 ---
-title: "O. Leatherbarrow | "
+title: "O. Leatherbarrow"
 name_en: "O. Leatherbarrow"
 name_ja: ""
 slug: "o.-leatherbarrow"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

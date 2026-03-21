@@ -1,11 +1,11 @@
 ---
-title: "J. Carpenter | "
+title: "J. Carpenter"
 name_en: "J. Carpenter"
 name_ja: ""
 slug: "j.-carpenter"
 position: "Fullback"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

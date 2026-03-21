@@ -1,11 +1,11 @@
 ---
-title: "F. Baker | "
+title: "F. Baker"
 name_en: "F. Baker"
 name_ja: ""
 slug: "f.-baker"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

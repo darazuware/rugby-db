@@ -1,11 +1,11 @@
 ---
-title: "J. Cowell | "
+title: "J. Cowell"
 name_en: "J. Cowell"
 name_ja: ""
 slug: "j.-cowell"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

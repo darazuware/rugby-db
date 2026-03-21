@@ -1,7 +1,7 @@
 ---
-title: "Jack MURPHY | ジャック-マーフィー"
+title: "Jack MURPHY | ジャック ・ MURPHY"
 name_en: "Jack MURPHY"
-name_ja: "ジャック-マーフィー"
+name_ja: "ジャック ・ MURPHY"
 slug: "jack-murphy"
 position: "SO"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/jack-murphy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "clontarf rugby (2023 - 2024) -> ulster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/jack-murphy"
 ---
 
 ## キャリア遍歴
-
+Clontarf Rugby (2023 - 2024) -> Ulster Rugby (2024 - 2026)

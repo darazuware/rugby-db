@@ -1,7 +1,7 @@
 ---
-title: "Kyle SMITH | カイル・スミス"
+title: "Kyle SMITH | Kyle ・ スミス"
 name_en: "Kyle SMITH"
-name_ja: "カイル・スミス"
+name_ja: "Kyle ・ スミス"
 slug: "kyle-smith"
 position: "SO"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/kyle-smith"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2023 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/kyle-smith"
 ---
 
 ## キャリア遍歴
-
+Western Province (2023 - 2025) -> Stormers (2025 - 2026)

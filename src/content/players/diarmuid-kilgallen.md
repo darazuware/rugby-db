@@ -1,9 +1,9 @@
 ---
-title: "Diarmuid KILGALLEN | Diarmuid ・ KILGALLEN"
+title: "Diarmuid KILGALLEN | ダーマッド・キルガレン"
 name_en: "Diarmuid KILGALLEN"
-name_ja: "Diarmuid ・ KILGALLEN"
+name_ja: "ダーマッド・キルガレン"
 slug: "diarmuid-kilgallen"
-position: "Winger"
+position: "WTB"
 height: "193.0"
 weight: "96.0"
 birth_date: "2000.03.08"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: ""
+caps: "https://all.rugby/player/diarmuid-kilgallen"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/diarmuid-kilgallen"
+scraped_url: "connacht rugby (2019 - 2024) -> munster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2019 - 2024) -> Munster Rugby (2024 - 2026)
+

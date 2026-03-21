@@ -1,11 +1,11 @@
 ---
-title: "J. Bates | "
+title: "J. Bates"
 name_en: "J. Bates"
 name_ja: ""
 slug: "j.-bates"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

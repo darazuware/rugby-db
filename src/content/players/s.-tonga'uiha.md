@@ -1,11 +1,11 @@
 ---
-title: "S. Tonga'uiha | "
+title: "S. Tonga'uiha"
 name_en: "S. Tonga'uiha"
 name_ja: ""
 slug: "s.-tonga'uiha"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

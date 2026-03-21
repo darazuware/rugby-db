@@ -1,7 +1,7 @@
 ---
-title: "Jerry CAHIR | ジェリー・ケイハー"
+title: "Jerry CAHIR | Jerry ・ CAHIR"
 name_en: "Jerry CAHIR"
-name_ja: "ジェリー・ケイハー"
+name_ja: "Jerry ・ CAHIR"
 slug: "jerry-cahir"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/jerry-cahir"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "old belvedere rc (2021 - 2022) -> dublin university fc (2022 - 2024) -> lansdowne fc (2024 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/jerry-cahir"
 ---
 
 ## キャリア遍歴
-
+Old Belvedere RC (2021 - 2022) -> Dublin University FC (2022 - 2024) -> Lansdowne FC (2024 - 2025) -> Leinster Rugby (2025 - 2026)

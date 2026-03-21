@@ -1,11 +1,11 @@
 ---
-title: "Benjamín Grondona | "
+title: "Benjamín Grondona"
 name_en: "Benjamín Grondona"
 name_ja: ""
 slug: "benjamín-grondona"
 position: "No. 8"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "2003.10.19"
 age: 22
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Dewaldt DUVENAGE | デワルト・デュブナッハ"
+title: "Dewaldt DUVENAGE | Dewaldt ・ DUVENAGE"
 name_en: "Dewaldt DUVENAGE"
-name_ja: "デワルト・デュブナッハ"
+name_ja: "Dewaldt ・ DUVENAGE"
 slug: "dewaldt-duvenage"
 position: "SH"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/dewaldt-duvenage"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "union sportive arlequins perpignanais (2013 - 2016) -> stormers (2016 - 2018) -> benetton rugby trévise (2018 - 2024) -> stormers (2024 - 2026)"
+scraped_url: "https://all.rugby/player/dewaldt-duvenage"
 ---
 
 ## キャリア遍歴
-
+Union Sportive Arlequins Perpignanais (2013 - 2016) -> Stormers (2016 - 2018) -> Benetton Rugby Trévise (2018 - 2024) -> Stormers (2024 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "W. Capon | "
+title: "W. Capon"
 name_en: "W. Capon"
 name_ja: ""
 slug: "w.-capon"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

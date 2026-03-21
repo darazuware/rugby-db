@@ -8,7 +8,7 @@ height: "188.0"
 weight: "110.0"
 birth_date: "1996.04.27"
 age: 29
-country: ""
+country: "Fijian"
 birth_place_scraped: ""
 league: "top14"
 team: "ヴァンヌ"

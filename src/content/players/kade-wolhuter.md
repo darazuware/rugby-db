@@ -1,7 +1,7 @@
 ---
-title: "Kade WOLHUTER | ケイド・ウォルフター"
+title: "Kade WOLHUTER | Kade ・ WOLHUTER"
 name_en: "Kade WOLHUTER"
-name_ja: "ケイド・ウォルフター"
+name_ja: "Kade ・ WOLHUTER"
 slug: "kade-wolhuter"
 position: "SO"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/kade-wolhuter"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "paul roos gymnasium (2018 - 2019) -> montpellier hérault rugby (2019 - 2020) -> stormers (2020 - 2021) -> western province (2021 - 2022) -> stormers (2022 - 2023) -> lions rugby (2023 - 2025) -> bulls (2025 - 2026)"
+scraped_url: "https://all.rugby/player/kade-wolhuter"
 ---
 
 ## キャリア遍歴
-
+Paul Roos Gymnasium (2018 - 2019) -> Montpellier Hérault Rugby (2019 - 2020) -> Stormers (2020 - 2021) -> Western Province (2021 - 2022) -> Stormers (2022 - 2023) -> Lions Rugby (2023 - 2025) -> Bulls (2025 - 2026)

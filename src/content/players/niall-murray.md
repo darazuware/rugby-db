@@ -1,7 +1,7 @@
 ---
-title: "Niall MURRAY | ニアル・マレー"
+title: "Niall MURRAY | ナイル ・ MURRAY"
 name_en: "Niall MURRAY"
-name_ja: "ニアル・マレー"
+name_ja: "ナイル ・ MURRAY"
 slug: "niall-murray"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/niall-murray"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "connacht rugby (2018 - 2026)"
+scraped_url: "https://all.rugby/player/niall-murray"
 ---
 
 ## キャリア遍歴
-
+Connacht Rugby (2018 - 2026)

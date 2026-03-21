@@ -1,11 +1,11 @@
 ---
-title: "J. Innard | "
+title: "J. Innard"
 name_en: "J. Innard"
 name_ja: ""
 slug: "j.-innard"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

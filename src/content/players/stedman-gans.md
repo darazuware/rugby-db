@@ -1,7 +1,7 @@
 ---
-title: "Stedman GANS | Stedman ・ GANS"
+title: "Stedman GANS | ステッドマン・ガンズ"
 name_en: "Stedman GANS"
-name_ja: "Stedman ・ GANS"
+name_ja: "ステッドマン・ガンズ"
 slug: "stedman-gans"
 position: "CTB"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: ""
+caps: "https://all.rugby/player/stedman-gans"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/stedman-gans"
+scraped_url: "bulls (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2019 - 2026)
+

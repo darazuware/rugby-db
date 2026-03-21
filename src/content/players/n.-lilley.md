@@ -1,11 +1,11 @@
 ---
-title: "N. Lilley | "
+title: "N. Lilley"
 name_en: "N. Lilley"
 name_ja: ""
 slug: "n.-lilley"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

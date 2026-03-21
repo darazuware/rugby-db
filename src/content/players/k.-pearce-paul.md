@@ -1,11 +1,11 @@
 ---
-title: "K. Pearce-Paul | "
+title: "K. Pearce-Paul"
 name_en: "K. Pearce-Paul"
 name_ja: ""
 slug: "k.-pearce-paul"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "Eoghan SMYTH | オーウェン・スミス"
+title: "Eoghan SMYTH | Eoghan ・ SMYTH"
 name_en: "Eoghan SMYTH"
-name_ja: "オーウェン・スミス"
+name_ja: "Eoghan ・ SMYTH"
 slug: "eoghan-smyth"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/eoghan-smyth"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cork constitution rfc (2024 - 2025) -> munster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/eoghan-smyth"
 ---
 
 ## キャリア遍歴
-
+Cork Constitution RFC (2024 - 2025) -> Munster Rugby (2025 - 2026)

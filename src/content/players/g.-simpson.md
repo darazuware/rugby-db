@@ -1,11 +1,11 @@
 ---
-title: "G. Simpson | "
+title: "G. Simpson"
 name_en: "G. Simpson"
 name_ja: ""
 slug: "g.-simpson"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

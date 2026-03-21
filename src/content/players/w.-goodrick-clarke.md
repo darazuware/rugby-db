@@ -1,11 +1,11 @@
 ---
-title: "W. Goodrick-Clarke | "
+title: "W. Goodrick-Clarke"
 name_en: "W. Goodrick-Clarke"
 name_ja: ""
 slug: "w.-goodrick-clarke"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

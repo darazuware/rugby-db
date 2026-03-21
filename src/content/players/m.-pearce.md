@@ -1,11 +1,11 @@
 ---
-title: "M. Pearce | "
+title: "M. Pearce"
 name_en: "M. Pearce"
 name_ja: ""
 slug: "m.-pearce"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "J. Gilbert | "
+title: "J. Gilbert"
 name_en: "J. Gilbert"
 name_ja: ""
 slug: "j.-gilbert"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "O. Batson | "
+title: "O. Batson"
 name_en: "O. Batson"
 name_ja: ""
 slug: "o.-batson"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

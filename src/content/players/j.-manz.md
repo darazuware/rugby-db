@@ -1,11 +1,11 @@
 ---
-title: "J. Manz | "
+title: "J. Manz"
 name_en: "J. Manz"
 name_ja: ""
 slug: "j.-manz"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

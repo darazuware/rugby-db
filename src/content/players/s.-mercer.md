@@ -1,11 +1,11 @@
 ---
-title: "S. Mercer | "
+title: "S. Mercer"
 name_en: "S. Mercer"
 name_ja: ""
 slug: "s.-mercer"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "D. John | "
+title: "D. John"
 name_en: "D. John"
 name_ja: ""
 slug: "d.-john"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

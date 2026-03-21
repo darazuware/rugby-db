@@ -1,7 +1,7 @@
 ---
-title: "Rhys HENRY | リース・ヘンリー"
+title: "Rhys HENRY | Rhys ・ HENRY"
 name_en: "Rhys HENRY"
-name_ja: "リース・ヘンリー"
+name_ja: "Rhys ・ HENRY"
 slug: "rhys-henry"
 position: "PR"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/rhys-henry"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2018 - 2026)"
+scraped_url: "https://all.rugby/player/rhys-henry"
 ---
 
 ## キャリア遍歴
-Wales
+Ospreys (2018 - 2026)

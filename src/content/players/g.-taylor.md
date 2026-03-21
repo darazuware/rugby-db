@@ -1,11 +1,11 @@
 ---
-title: "G. Taylor | "
+title: "G. Taylor"
 name_en: "G. Taylor"
 name_ja: ""
 slug: "g.-taylor"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

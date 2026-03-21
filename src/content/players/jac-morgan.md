@@ -1,9 +1,9 @@
 ---
-title: "Jac MORGAN | ジャック-モーガン"
+title: "Jac MORGAN | Jac ・ MORGAN"
 name_en: "Jac MORGAN"
-name_ja: "ジャック-モーガン"
+name_ja: "Jac ・ MORGAN"
 slug: "jac-morgan"
-position: "FL/No8"
+position: "Back row"
 height: "182.0"
 weight: "105.0"
 birth_date: "2000.01.21"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (17)"
+caps: "Wales (17)"
 high_school: ""
 university: ""
-scraped_url: "scarlets (2018 - 2021) -> ospreys (2021 - 2026)"
+scraped_url: "https://all.rugby/player/jac-morgan"
 ---
 
 ## キャリア遍歴
-
+Scarlets (2018 - 2021) -> Ospreys (2021 - 2026)

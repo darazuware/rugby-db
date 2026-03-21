@@ -1,11 +1,11 @@
 ---
-title: "T. Christie | "
+title: "T. Christie"
 name_en: "T. Christie"
 name_ja: ""
 slug: "t.-christie"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

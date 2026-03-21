@@ -1,11 +1,11 @@
 ---
-title: "S. Kirk | "
+title: "S. Kirk"
 name_en: "S. Kirk"
 name_ja: ""
 slug: "s.-kirk"
 position: "Prop"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

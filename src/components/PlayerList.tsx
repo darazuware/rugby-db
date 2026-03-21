@@ -105,8 +105,7 @@ const LEAGUES = [
     { id: 'super-rugby', name: 'SUPER RUGBY' },
     { id: 'top14', name: 'TOP 14' },
     { id: 'urc', name: 'URC' },
-    { id: 'premiership', name: 'PREM' },
-    { id: 'mlr', name: 'MLR' }
+    { id: 'premiership', name: 'PREM' }
 ];
 
 const SCHOOL_SYNONYMS: Record<string, string[]> = {
@@ -244,17 +243,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         decoration: 'decoration-[#FE5000]',
                         hex: '#FE5000'
                     };
-                case 'mlr':
-                    return {
-                        accent: 'bg-[#002B54]',
-                        textAccent: 'text-[#002B54]',
-                        border: 'border-[#002B54]',
-                        focus: 'focus:border-[#002B54]',
-                        shadow: 'shadow-[#002B54]/20',
-                        decoration: 'decoration-[#002B54]',
-                        hex: '#002B54'
-                    };
             }
+
         }
 
         // 外部コンテキスト（leagueContext）がある場合のデフォルトテーマ
@@ -311,17 +301,8 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                         decoration: 'decoration-[#FE5000]',
                         hex: '#FE5000'
                     };
-                case 'mlr':
-                    return {
-                        accent: 'bg-[#002B54]',
-                        textAccent: 'text-[#002B54]',
-                        border: 'border-[#002B54]',
-                        focus: 'focus:border-[#002B54]',
-                        shadow: 'shadow-[#002B54]/20',
-                        decoration: 'decoration-[#002B54]',
-                        hex: '#002B54'
-                    };
             }
+
         }
 
         return {
@@ -543,15 +524,6 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 text: 'text-[#FE5000]',
                 shadow: 'shadow-[#FE5000]/20',
                 focus: 'focus:border-[#FE5000]'
-            };
-        }
-        if (l === 'mlr') {
-            return {
-                accent: 'bg-[#002B54]',
-                border: 'border-[#002B54]',
-                text: 'text-[#002B54]',
-                shadow: 'shadow-[#002B54]/20',
-                focus: 'focus:border-[#002B54]'
             };
         }
         return defaultTheme;

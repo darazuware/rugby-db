@@ -1,7 +1,7 @@
 ---
-title: "Grant STEWART | グラント・スチュワート"
+title: "Grant STEWART | グラント ・ STEWART"
 name_en: "Grant STEWART"
-name_ja: "グラント・スチュワート"
+name_ja: "グラント ・ STEWART"
 slug: "grant-stewart"
 position: "HO"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/grant-stewart"
+caps: "Scotland"
 high_school: ""
 university: ""
-scraped_url: "glasgow warriors (2017 - 2022) -> connacht rugby (2022 - 2023) -> ayr rfc (2023 - 2023) -> glasgow warriors (2023 - 2023) -> ayr rfc (2024 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/grant-stewart"
 ---
 
 ## キャリア遍歴
-Scotland
+Glasgow Warriors (2017 - 2022) -> Connacht Rugby (2022 - 2023) -> Ayr RFC (2023 - 2023) -> Glasgow Warriors (2023 - 2023) -> Ayr RFC (2024 - 2024) -> Glasgow Warriors (2024 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "M. Pepper | "
+title: "M. Pepper"
 name_en: "M. Pepper"
 name_ja: ""
 slug: "m.-pepper"
 position: "Scrum-half"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

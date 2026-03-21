@@ -1,22 +1,22 @@
 ---
-title: "Marnus POTGIETER | マルナス・ポトヒーター"
+title: "Marnus POTGIETER | Marnus ・ POTGIETER"
 name_en: "Marnus POTGIETER"
-name_ja: "マルナス・ポトヒーター"
+name_ja: "Marnus ・ POTGIETER"
 slug: "marnus-potgieter"
-position: "WTB"
+position: "Winger"
 height: "188.0"
 weight: "106.0"
 birth_date: "1999.06.20"
 age: 26
 country: ""
 birth_place_scraped: ""
-league: "mlr"
+league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/marnus-potgieter"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2018 - 2019) -> bulls (2019 - 2021) -> sharks (2021 - 2026)"
+scraped_url: "https://all.rugby/player/marnus-potgieter"
 ---
 
 ## キャリア遍歴
-
+Blue Bulls (2018 - 2019) -> Bulls (2019 - 2021) -> Sharks (2021 - 2026)

@@ -1,11 +1,11 @@
 ---
-title: "T. Baker | "
+title: "T. Baker"
 name_en: "T. Baker"
 name_ja: ""
 slug: "t.-baker"
 position: "Centre"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

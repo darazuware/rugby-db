@@ -1,11 +1,11 @@
 ---
-title: "J. Gonzalez | "
+title: "J. Gonzalez"
 name_en: "J. Gonzalez"
 name_ja: ""
 slug: "j.-gonzalez"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

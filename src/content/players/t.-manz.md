@@ -1,11 +1,11 @@
 ---
-title: "T. Manz | "
+title: "T. Manz"
 name_en: "T. Manz"
 name_ja: ""
 slug: "t.-manz"
 position: "Lock"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

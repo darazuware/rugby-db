@@ -1,11 +1,11 @@
 ---
-title: "R. Lane | "
+title: "R. Lane"
 name_en: "R. Lane"
 name_ja: ""
 slug: "r.-lane"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

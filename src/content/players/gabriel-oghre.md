@@ -1,11 +1,11 @@
 ---
-title: "Gabriel Oghre | "
+title: "Gabriel Oghre"
 name_en: "Gabriel Oghre"
 name_ja: ""
 slug: "gabriel-oghre"
 position: "Hooker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "1998.05.25"
 age: 27
 country: ""

@@ -1,11 +1,11 @@
 ---
-title: "M. Protheroe | "
+title: "M. Protheroe"
 name_en: "M. Protheroe"
 name_ja: ""
 slug: "m.-protheroe"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

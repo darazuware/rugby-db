@@ -1,11 +1,11 @@
 ---
-title: "J. Edwards-Giraud | "
+title: "J. Edwards-Giraud"
 name_en: "J. Edwards-Giraud"
 name_ja: ""
 slug: "j.-edwards-giraud"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

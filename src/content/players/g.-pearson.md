@@ -1,11 +1,11 @@
 ---
-title: "G. Pearson | "
+title: "G. Pearson"
 name_en: "G. Pearson"
 name_ja: ""
 slug: "g.-pearson"
 position: "Wing"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""

@@ -1,7 +1,7 @@
 ---
-title: "RF SCHOEMAN | RF・スホーマン"
+title: "RF SCHOEMAN | RF ・ SCHOEMAN"
 name_en: "RF SCHOEMAN"
-name_ja: "RF・スホーマン"
+name_ja: "RF ・ SCHOEMAN"
 slug: "rf-schoeman"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/rf-schoeman"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "golden lions (2023 - 2024) -> lions rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/rf-schoeman"
 ---
 
 ## キャリア遍歴
-
+Golden Lions (2023 - 2024) -> Lions Rugby (2024 - 2026)

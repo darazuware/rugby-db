@@ -1,11 +1,11 @@
 ---
-title: "R. Capstick | "
+title: "R. Capstick"
 name_en: "R. Capstick"
 name_ja: ""
 slug: "r.-capstick"
 position: "Flanker"
-height: "nan"
-weight: "nan"
+height: ""
+weight: ""
 birth_date: "nan"
 age: null
 country: ""
