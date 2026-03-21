@@ -819,6 +819,19 @@
       },
       {
         "rank": "2",
+        "team_name": "Blues",
+        "display_name": "オークランド・ブルーズ",
+        "flag": "🇳🇿",
+        "slug": "blues",
+        "played": "6",
+        "won": "4",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "70",
+        "points": "20"
+      },
+      {
+        "rank": "3",
         "team_name": "ACT Brumbies",
         "display_name": "ACTブランビーズ",
         "flag": "🇦🇺",
@@ -831,7 +844,7 @@
         "points": "19"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "team_name": "Queensland Reds",
         "display_name": "クイーンズランド・レッズ",
         "flag": "🇦🇺",
@@ -842,19 +855,6 @@
         "lost": "1",
         "diff": "20",
         "points": "18"
-      },
-      {
-        "rank": "4",
-        "team_name": "Blues",
-        "display_name": "オークランド・ブルーズ",
-        "flag": "🇳🇿",
-        "slug": "blues",
-        "played": "5",
-        "won": "3",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "55",
-        "points": "15"
       },
       {
         "rank": "5",
@@ -888,11 +888,11 @@
         "display_name": "NSWワラタス（ワラターズ）",
         "flag": "🇦🇺",
         "slug": "nsw-waratahs",
-        "played": "4",
+        "played": "5",
         "won": "2",
         "drawn": "0",
-        "lost": "2",
-        "diff": "-2",
+        "lost": "3",
+        "diff": "-17",
         "points": "10"
       },
       {
