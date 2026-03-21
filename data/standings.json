@@ -662,6 +662,19 @@
       },
       {
         "rank": "7",
+        "team_name": "Fidelity SecureDrive Lions",
+        "display_name": "Fidelity SecureDrive Lions",
+        "flag": "🇫🇷",
+        "slug": "fidelity-securedrive-lions",
+        "played": "13",
+        "won": "7",
+        "drawn": "1",
+        "lost": "5",
+        "diff": "20",
+        "points": "38"
+      },
+      {
+        "rank": "8",
         "team_name": "Vodacom Bulls",
         "display_name": "ヴォーダコム・ブルズ",
         "flag": "🇿🇦",
@@ -674,7 +687,7 @@
         "points": "35"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "team_name": "Connacht Rugby",
         "display_name": "コナート・ラグビー",
         "flag": "🇮🇪",
@@ -685,19 +698,6 @@
         "lost": "7",
         "diff": "3",
         "points": "35"
-      },
-      {
-        "rank": "9",
-        "team_name": "Fidelity SecureDrive Lions",
-        "display_name": "Fidelity SecureDrive Lions",
-        "flag": "🇫🇷",
-        "slug": "fidelity-securedrive-lions",
-        "played": "12",
-        "won": "6",
-        "drawn": "1",
-        "lost": "5",
-        "diff": "-17",
-        "points": "33"
       },
       {
         "rank": "10",
@@ -731,11 +731,11 @@
         "display_name": "エディンバラ・ラグビー",
         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "slug": "edinburgh-rugby",
-        "played": "12",
+        "played": "13",
         "won": "4",
         "drawn": "0",
-        "lost": "8",
-        "diff": "-15",
+        "lost": "9",
+        "diff": "-52",
         "points": "23"
       },
       {
