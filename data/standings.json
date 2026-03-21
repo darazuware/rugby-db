@@ -858,6 +858,19 @@
       },
       {
         "rank": "5",
+        "team_name": "Crusaders",
+        "display_name": "カンタベリー・クルセイダーズ",
+        "flag": "🇳🇿",
+        "slug": "crusaders",
+        "played": "6",
+        "won": "3",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "6",
+        "points": "14"
+      },
+      {
+        "rank": "6",
         "team_name": "Chiefs",
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
@@ -870,7 +883,7 @@
         "points": "13"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "NSW Waratahs",
         "display_name": "NSWワラタス（ワラターズ）",
         "flag": "🇦🇺",
@@ -881,19 +894,6 @@
         "lost": "2",
         "diff": "-2",
         "points": "10"
-      },
-      {
-        "rank": "7",
-        "team_name": "Crusaders",
-        "display_name": "カンタベリー・クルセイダーズ",
-        "flag": "🇳🇿",
-        "slug": "crusaders",
-        "played": "5",
-        "won": "2",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "-23",
-        "points": "9"
       },
       {
         "rank": "8",
@@ -940,11 +940,11 @@
         "display_name": "モアナ・パシフィカ",
         "flag": "🏝️",
         "slug": "moana-pasifika",
-        "played": "5",
+        "played": "6",
         "won": "1",
         "drawn": "0",
-        "lost": "4",
-        "diff": "-113",
+        "lost": "5",
+        "diff": "-142",
         "points": "4"
       }
     ],
