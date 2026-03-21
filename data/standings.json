@@ -3,6 +3,20 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "埼玉ワイルドナイツ",
+        "display_name": "埼玉パナソニックワイルドナイツ",
+        "flag": "🇯🇵",
+        "slug": "saitama-panasonic-wild-knights",
+        "played": "12",
+        "points": "50",
+        "won": "11",
+        "drawn": "0",
+        "lost": "1",
+        "diff": "209",
+        "division": "D1"
+      },
+      {
+        "rank": "2",
         "team_name": "クボタスピアーズ船橋・東京ベイ",
         "display_name": "クボタスピアーズ船橋・東京ベイ",
         "flag": "🇯🇵",
@@ -16,7 +30,7 @@
         "division": "D1"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "team_name": "コベルコ神戸スティーラーズ",
         "display_name": "コベルコ神戸スティーラーズ",
         "flag": "🇯🇵",
@@ -27,20 +41,6 @@
         "drawn": "0",
         "lost": "2",
         "diff": "207",
-        "division": "D1"
-      },
-      {
-        "rank": "3",
-        "team_name": "埼玉ワイルドナイツ",
-        "display_name": "埼玉パナソニックワイルドナイツ",
-        "flag": "🇯🇵",
-        "slug": "saitama-panasonic-wild-knights",
-        "played": "11",
-        "points": "45",
-        "won": "10",
-        "drawn": "0",
-        "lost": "1",
-        "diff": "185",
         "division": "D1"
       },
       {
@@ -63,12 +63,12 @@
         "display_name": "ブラックラムズ東京",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "11",
+        "played": "12",
         "points": "31",
         "won": "7",
         "drawn": "0",
-        "lost": "4",
-        "diff": "-1",
+        "lost": "5",
+        "diff": "-25",
         "division": "D1"
       },
       {
