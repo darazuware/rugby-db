@@ -11,7 +11,7 @@ age: 32
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "三菱重工相模原ダイナボアーズ（2025-26）"
+team: "Mitsubishi Sagamihara Dynaboars"
 caps: "🇿🇦 South Africa (35)"
 high_school: "デ・フォース・ラマン"
 university: ""

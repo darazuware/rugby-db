@@ -11,7 +11,7 @@ age: 34
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "NECグリーンロケッツ東葛（2025-26）"
+team: "NEC Green Rockets Tokatsu"
 caps: "セブンズ日本(15)"
 high_school: "桂高校"
 university: "山梨学院大学"

@@ -11,7 +11,7 @@ age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "リコーブラックラムズ東京（2025-26）"
+team: "Ricoh Black Rams Tokyo"
 caps: "U20('18)、セブンズ日本(17)"
 high_school: "東福岡高校"
 university: "早稲田大学"

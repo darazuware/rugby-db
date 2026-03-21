@@ -11,7 +11,7 @@ age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "清水建設江東ブルーシャークス（2025-26）"
+team: "Shimizu Koto Blue Sharks"
 caps: ""
 high_school: "慶應義塾高校"
 university: "慶應義塾大学"

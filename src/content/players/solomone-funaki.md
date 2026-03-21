@@ -11,7 +11,7 @@ age: 23
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "コベルコ神戸スティーラーズ（2025-26）"
+team: "Kobelco Kobe Steelers"
 caps: "🇹🇴 Tonga (7)"
 high_school: "目黒学院高校"
 university: "京都産業大学"

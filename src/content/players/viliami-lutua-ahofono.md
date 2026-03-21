@@ -11,7 +11,7 @@ age: 25
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "豊田自動織機シャトルズ愛知（2025-26）"
+team: "Toyota Shuttles Aichi"
 caps: ""
 high_school: "トンガカレッジ"
 university: "摂南大学"

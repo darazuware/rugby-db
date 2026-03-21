@@ -11,7 +11,7 @@ age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "ヤクルトレビンズ戸田（2025-26）"
+team: "Yakult Levins"
 caps: ""
 high_school: "へスティングボーイズ高高校"
 university: "マッセイ大学"

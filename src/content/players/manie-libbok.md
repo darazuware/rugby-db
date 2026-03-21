@@ -11,7 +11,7 @@ age: 28
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "花園近鉄ライナーズ（2025-26）"
+team: "Hanazono Kintetsu Liners"
 caps: "🇿🇦 South Africa (9)"
 high_school: "アウテニカハイスクール"
 university: "TEAカレッジ"

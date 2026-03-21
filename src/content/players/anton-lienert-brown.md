@@ -11,7 +11,7 @@ age: 30
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "コベルコ神戸スティーラーズ（2025-26）"
+team: "Kobelco Kobe Steelers"
 caps: "NZ代表(88)"
 high_school: "ワイカト大学高校"
 university: "クライストチャーチボーイズ高校大学"

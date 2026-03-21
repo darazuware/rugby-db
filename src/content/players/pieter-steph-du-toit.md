@@ -11,7 +11,7 @@ age: 33
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "トヨタヴェルブリッツ（2025-26）"
+team: "Toyota Verblitz"
 caps: "🇿🇦 South Africa (71)"
 high_school: "ホエルスクール・スワ—トランド"
 university: ""

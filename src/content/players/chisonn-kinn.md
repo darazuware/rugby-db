@@ -11,7 +11,7 @@ age: 22
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "ルリーロ福岡（2025-26）"
+team: "Leriro Fukuoka"
 caps: ""
 high_school: "大阪朝鮮高級学校"
 university: "朝鮮大学校"

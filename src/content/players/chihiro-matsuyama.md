@@ -11,7 +11,7 @@ age: 25
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "トヨタヴェルブリッツ（2025-26）"
+team: "Toyota Verblitz"
 caps: "高校('18)"
 high_school: "大阪桐蔭高校"
 university: "帝京大学"

@@ -11,7 +11,7 @@ age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "中国電力レッドレグリオンズ（2025-26）"
+team: "Chugoku Red Regulions"
 caps: ""
 high_school: "ブリズベン州立高校"
 university: ""

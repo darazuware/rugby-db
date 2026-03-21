@@ -11,7 +11,7 @@ age: 24
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "浦安D-Rocks（2025-26）"
+team: "Urayasu D-Rocks"
 caps: ""
 high_school: "常翔学園高校"
 university: "流通経済大学"

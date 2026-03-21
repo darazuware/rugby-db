@@ -11,7 +11,7 @@ age: 29
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "東芝ブレイブルーパス東京（2025-26）"
+team: "Toshiba Brave Lupus Tokyo"
 caps: "U20('15)、U23、セブンズ日本(1)"
 high_school: "鹿児島実業高校"
 university: "早稲田大学"

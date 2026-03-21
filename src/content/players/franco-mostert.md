@@ -11,7 +11,7 @@ age: 35
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "三重ホンダヒート（2025-26）"
+team: "Mie Honda Heat"
 caps: "🇿🇦 South Africa (67)"
 high_school: "ブリッツ高高校"
 university: "プレトリア大学"

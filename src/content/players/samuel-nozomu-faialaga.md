@@ -11,7 +11,7 @@ age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "九州電力キューデンヴォルテクス（2025-26）"
+team: "Kyuden Voltex"
 caps: ""
 high_school: "常翔学園高校"
 university: "同志社大大学"

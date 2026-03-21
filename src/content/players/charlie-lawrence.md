@@ -11,7 +11,7 @@ age: 27
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "三菱重工相模原ダイナボアーズ（2025-26）"
+team: "Mitsubishi Sagamihara Dynaboars"
 caps: "日本代表(9)"
 high_school: "HamiltonBoysHighSchool"
 university: ""

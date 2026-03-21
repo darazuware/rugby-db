@@ -11,7 +11,7 @@ age: 38
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "豊田自動織機シャトルズ愛知（2025-26）"
+team: "Toyota Shuttles Aichi"
 caps: "オーストラリア代表(26)"
 high_school: "ピーターララーセカンダリーカレ"
 university: ""

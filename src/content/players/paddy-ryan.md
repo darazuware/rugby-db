@@ -11,7 +11,7 @@ age: 37
 country: ""
 birth_place_scraped: ""
 league: "league-one"
-team: "リコーブラックラムズ東京（2025-26）"
+team: "Ricoh Black Rams Tokyo"
 caps: "オーストラリア代表(3)"
 high_school: "セントジョセフ・カレッジ"
 university: "シドニー大学"
