@@ -1,38 +1,5 @@
 [
   {
-    "team_name": "クリタウォーターガッシュ昭島",
-    "team_en_name": "クリタウォーターガッシュ昭島（2025-26）",
-    "slug": "kurita-water-gush-akishima",
-    "league": "league-one",
-    "division": "Division 3",
-    "host_area": "東京都昭島市",
-    "legal_entity": "栗田工業株式会社",
-    "official_site": "https://www.kurita-watergush.jp/",
-    "practice_ground": "東京都昭島市拝島町3990-3"
-  },
-  {
-    "team_name": "中国電力レッドレグリオンズ",
-    "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
-    "slug": "chugoku-red-regulions",
-    "league": "league-one",
-    "division": "Division 3",
-    "host_area": "広島県",
-    "legal_entity": "中国電力株式会社",
-    "official_site": "https://rrrfc.red/",
-    "practice_ground": "広島県広島県安芸郡坂町鯛尾2-6"
-  },
-  {
-    "team_name": "埼玉パナソニックワイルドナイツ",
-    "team_en_name": "埼玉パナソニックワイルドナイツ（2025-26）",
-    "slug": "saitama-panasonic-wild-knights",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "埼玉県",
-    "legal_entity": "パナソニック ホールディングス株式会社",
-    "official_site": "https://panasonic.co.jp/sports/wildknights/",
-    "practice_ground": "埼玉県熊谷市上川上"
-  },
-  {
     "team_name": "東京サントリーサンゴリアス",
     "team_en_name": "東京サントリーサンゴリアス（2025-26）",
     "slug": "tokyo-suntory-sungoliath",
@@ -42,204 +9,6 @@
     "legal_entity": "サントリーホールディングス株式会社",
     "official_site": "https://www.suntory.co.jp/culture-sports/sungoliath/",
     "practice_ground": "東京都府中市是政6-22サントリー府中スポーツセンター"
-  },
-  {
-    "team_name": "花園近鉄ライナーズ",
-    "team_en_name": "花園近鉄ライナーズ（2025-26）",
-    "slug": "hanazono-kintetsu-liners",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "東大阪市、大阪府",
-    "legal_entity": "近鉄グループホールディングス株式会社",
-    "official_site": "https://hanazono-liners.jp/",
-    "practice_ground": "大阪府東大阪市松原南1-1-1　東大阪市花園ラグビー場"
-  },
-  {
-    "team_name": "豊田自動織機シャトルズ愛知",
-    "team_en_name": "豊田自動織機シャトルズ愛知（2025-26）",
-    "slug": "toyota-shuttles-aichi",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "愛知県",
-    "legal_entity": "株式会社豊田自動織機",
-    "official_site": "https://shuttles-aichi.com/",
-    "practice_ground": "愛知県刈谷市逢妻町1-59-1"
-  },
-  {
-    "team_name": "東芝ブレイブルーパス東京",
-    "team_en_name": "東芝ブレイブルーパス東京（2025-26）",
-    "slug": "toshiba-brave-lupus-tokyo",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "東京都、府中市、調布市、三鷹市",
-    "legal_entity": "東芝ブレイブルーパス東京株式会社",
-    "official_site": "https://www.bravelupus.com/",
-    "practice_ground": "東京都府中市東芝町１"
-  },
-  {
-    "team_name": "静岡ブルーレヴズ",
-    "team_en_name": "静岡ブルーレヴズ（2025-26）",
-    "slug": "shizuoka-blue-revs",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "静岡県",
-    "legal_entity": "静岡ブルーレヴズ株式会社",
-    "official_site": "https://www.shizuoka-bluerevs.com",
-    "practice_ground": "静岡県磐田市大久保891-106"
-  },
-  {
-    "team_name": "清水建設江東ブルーシャークス",
-    "team_en_name": "清水建設江東ブルーシャークス（2025-26）",
-    "slug": "shimizu-koto-blue-sharks",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "東京都江東区",
-    "legal_entity": "清水建設株式会社",
-    "official_site": "https://blue-sharks.jp/",
-    "practice_ground": "神奈川県横浜市都筑区荏田南町741番地"
-  },
-  {
-    "team_name": "日本製鉄釜石シーウェイブス",
-    "team_en_name": "日本製鉄釜石シーウェイブス（2025-26）",
-    "slug": "kamaishi-seawaves",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "釜石市、岩手県",
-    "legal_entity": "一般社団法人釜石シーウェイブスRFC",
-    "official_site": "https://kamaishi-seawaves.com/",
-    "practice_ground": "岩手県釜石市甲子町10-159-4"
-  },
-  {
-    "team_name": "狭山セコムラガッツ",
-    "team_en_name": "狭山セコムラガッツ（2025-26）",
-    "slug": "secom-rugguts",
-    "league": "league-one",
-    "division": "Division 3",
-    "host_area": "狭山市",
-    "legal_entity": "セコム株式会社ラグビー部",
-    "official_site": "https://www.rugguts.secom.co.jp/",
-    "practice_ground": "埼玉県狭山市柏原富士塚308-1"
-  },
-  {
-    "team_name": "コベルコ神戸スティーラーズ",
-    "team_en_name": "コベルコ神戸スティーラーズ（2025-26）",
-    "slug": "kobelco-kobe-steelers",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "兵庫県、神戸市",
-    "legal_entity": "株式会社神戸製鋼所",
-    "official_site": "https://www.kobesteelers.com/",
-    "practice_ground": "兵庫県神戸市東灘区御影浜町４　神戸製鋼灘浜グラウンド"
-  },
-  {
-    "team_name": "トヨタヴェルブリッツ",
-    "team_en_name": "トヨタヴェルブリッツ（2025-26）",
-    "slug": "toyota-verblitz",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "愛知県、豊田市、名古屋市、みよし市",
-    "legal_entity": "トヨタ自動車株式会社",
-    "official_site": "https://verblitz.toyotatimes-sports.toyota/",
-    "practice_ground": "愛知県豊田市保見町井ノ向57-230トヨタスポーツセンター"
-  },
-  {
-    "team_name": "日野レッドドルフィンズ",
-    "team_en_name": "日野レッドドルフィンズ（2025-26）",
-    "slug": "hino-red-dolphins",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "東京都日野市、八王子市および周辺地域",
-    "legal_entity": "日野自動車株式会社",
-    "official_site": "https://hino-reddolphins.com/",
-    "practice_ground": "東京都日野市新町5丁目18-1"
-  },
-  {
-    "team_name": "ルリーロ福岡",
-    "team_en_name": "ルリーロ福岡（2025-26）",
-    "slug": "leriro-fukuoka",
-    "league": "league-one",
-    "division": "Division 3",
-    "host_area": "福岡県うきは市、朝倉市、久留米市",
-    "legal_entity": "ルリーロ福岡株式会社",
-    "official_site": "https://leriro-fukuoka.com/",
-    "practice_ground": "福岡県うきは市吉井町富永"
-  },
-  {
-    "team_name": "リコーブラックラムズ東京",
-    "team_en_name": "リコーブラックラムズ東京（2025-26）",
-    "slug": "ricoh-black-rams-tokyo",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "東京都、世田谷区",
-    "legal_entity": "株式会社リコー",
-    "official_site": "https://blackrams-tokyo.com/",
-    "practice_ground": "東京都世田谷区宇奈根1−5−1"
-  },
-  {
-    "team_name": "三菱重工相模原ダイナボアーズ",
-    "team_en_name": "三菱重工相模原ダイナボアーズ（2025-26）",
-    "slug": "mitsubishi-sagamihara-dynaboars",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "神奈川県、相模原市",
-    "legal_entity": "三菱重工業株式会社",
-    "official_site": "https://dynaboars.mhi.com/",
-    "practice_ground": "神奈川県相模原市中央区田名3000番地"
-  },
-  {
-    "team_name": "クボタスピアーズ船橋・東京ベイ",
-    "team_en_name": "クボタスピアーズ船橋・東京ベイ（2025-26）",
-    "slug": "kubota-spears-funabashi-tokyo-bay",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "千葉県、船橋市、東京都、江戸川区、市川市、千葉市、成田市",
-    "legal_entity": "株式会社クボタ",
-    "official_site": "http://www.kubota-spears.com/",
-    "practice_ground": "千葉県船橋市栄町2-16-1"
-  },
-  {
-    "team_name": "レッドハリケーンズ大阪",
-    "team_en_name": "レッドハリケーンズ大阪（2025-26）",
-    "slug": "hurricanes",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "大阪府大阪市",
-    "legal_entity": "株式会社ＮＴＴドコモ",
-    "official_site": "https://docomo-rugby.jp/",
-    "practice_ground": "大阪府大阪市住之江区南港北一丁目９−９"
-  },
-  {
-    "team_name": "浦安D-Rocks",
-    "team_en_name": "浦安D-Rocks（2025-26）",
-    "slug": "urayasu-d-rocks",
-    "league": "league-one",
-    "division": "Division 1",
-    "host_area": "千葉県浦安市",
-    "legal_entity": "株式会社NTT Sports X",
-    "official_site": "https://urayasu-d-rocks.com",
-    "practice_ground": "千葉県浦安市高洲８−２−１浦安Dパーク"
-  },
-  {
-    "team_name": "NECグリーンロケッツ東葛",
-    "team_en_name": "NECグリーンロケッツ東葛（2025-26）",
-    "slug": "nec-green-rockets-tokatsu",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
-    "legal_entity": "日本電気株式会社",
-    "official_site": "https://green.necrockets.net/",
-    "practice_ground": "千葉県我孫子市日の出1131"
-  },
-  {
-    "team_name": "九州電力キューデンヴォルテクス",
-    "team_en_name": "九州電力キューデンヴォルテクス（2025-26）",
-    "slug": "kyuden-voltex",
-    "league": "league-one",
-    "division": "Division 2",
-    "host_area": "福岡市",
-    "legal_entity": "九州電力株式会社",
-    "official_site": "https://www.kyudenvoltex.com/",
-    "practice_ground": "福岡県福岡市東区松香台1-10-15"
   },
   {
     "team_name": "横浜キヤノンイーグルス",
@@ -253,15 +22,158 @@
     "practice_ground": "東京都町田市小野路町5290-1"
   },
   {
-    "team_name": "マツダスカイアクティブズ広島",
-    "team_en_name": "マツダスカイアクティブズ広島（2025-26）",
-    "slug": "mazda-skyactivs-hiroshima",
+    "team_name": "豊田自動織機シャトルズ愛知",
+    "team_en_name": "豊田自動織機シャトルズ愛知（2025-26）",
+    "slug": "toyota-shuttles-aichi",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "愛知県",
+    "legal_entity": "株式会社豊田自動織機",
+    "official_site": "https://shuttles-aichi.com/",
+    "practice_ground": "愛知県刈谷市逢妻町1-59-1"
+  },
+  {
+    "team_name": "九州電力キューデンヴォルテクス",
+    "team_en_name": "九州電力キューデンヴォルテクス（2025-26）",
+    "slug": "kyuden-voltex",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "福岡市",
+    "legal_entity": "九州電力株式会社",
+    "official_site": "https://www.kyudenvoltex.com/",
+    "practice_ground": "福岡県福岡市東区松香台1-10-15"
+  },
+  {
+    "team_name": "花園近鉄ライナーズ",
+    "team_en_name": "花園近鉄ライナーズ（2025-26）",
+    "slug": "hanazono-kintetsu-liners",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "東大阪市、大阪府",
+    "legal_entity": "近鉄グループホールディングス株式会社",
+    "official_site": "https://hanazono-liners.jp/",
+    "practice_ground": "大阪府東大阪市松原南1-1-1　東大阪市花園ラグビー場"
+  },
+  {
+    "team_name": "クボタスピアーズ船橋・東京ベイ",
+    "team_en_name": "クボタスピアーズ船橋・東京ベイ（2025-26）",
+    "slug": "kubota-spears-funabashi-tokyo-bay",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "千葉県、船橋市、東京都、江戸川区、市川市、千葉市、成田市",
+    "legal_entity": "株式会社クボタ",
+    "official_site": "http://www.kubota-spears.com/",
+    "practice_ground": "千葉県船橋市栄町2-16-1"
+  },
+  {
+    "team_name": "トヨタヴェルブリッツ",
+    "team_en_name": "トヨタヴェルブリッツ（2025-26）",
+    "slug": "toyota-verblitz",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "愛知県、豊田市、名古屋市、みよし市",
+    "legal_entity": "トヨタ自動車株式会社",
+    "official_site": "https://verblitz.toyotatimes-sports.toyota/",
+    "practice_ground": "愛知県豊田市保見町井ノ向57-230トヨタスポーツセンター"
+  },
+  {
+    "team_name": "埼玉パナソニックワイルドナイツ",
+    "team_en_name": "埼玉パナソニックワイルドナイツ（2025-26）",
+    "slug": "saitama-panasonic-wild-knights",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "埼玉県",
+    "legal_entity": "パナソニック ホールディングス株式会社",
+    "official_site": "https://panasonic.co.jp/sports/wildknights/",
+    "practice_ground": "埼玉県熊谷市上川上"
+  },
+  {
+    "team_name": "リコーブラックラムズ東京",
+    "team_en_name": "リコーブラックラムズ東京（2025-26）",
+    "slug": "ricoh-black-rams-tokyo",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "東京都、世田谷区",
+    "legal_entity": "株式会社リコー",
+    "official_site": "https://blackrams-tokyo.com/",
+    "practice_ground": "東京都世田谷区宇奈根1−5−1"
+  },
+  {
+    "team_name": "狭山セコムラガッツ",
+    "team_en_name": "狭山セコムラガッツ（2025-26）",
+    "slug": "secom-rugguts",
+    "league": "league-one",
+    "division": "Division 3",
+    "host_area": "狭山市",
+    "legal_entity": "セコム株式会社ラグビー部",
+    "official_site": "https://www.rugguts.secom.co.jp/",
+    "practice_ground": "埼玉県狭山市柏原富士塚308-1"
+  },
+  {
+    "team_name": "レッドハリケーンズ大阪",
+    "team_en_name": "レッドハリケーンズ大阪（2025-26）",
+    "slug": "hurricanes",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "大阪府大阪市",
+    "legal_entity": "株式会社ＮＴＴドコモ",
+    "official_site": "https://docomo-rugby.jp/",
+    "practice_ground": "大阪府大阪市住之江区南港北一丁目９−９"
+  },
+  {
+    "team_name": "中国電力レッドレグリオンズ",
+    "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
+    "slug": "chugoku-red-regulions",
     "league": "league-one",
     "division": "Division 3",
     "host_area": "広島県",
-    "legal_entity": "マツダ株式会社",
-    "official_site": "https://www.skyactivs.com/",
+    "legal_entity": "中国電力株式会社",
+    "official_site": "https://rrrfc.red/",
     "practice_ground": "広島県広島県安芸郡坂町鯛尾2-6"
+  },
+  {
+    "team_name": "NECグリーンロケッツ東葛",
+    "team_en_name": "NECグリーンロケッツ東葛（2025-26）",
+    "slug": "nec-green-rockets-tokatsu",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
+    "legal_entity": "日本電気株式会社",
+    "official_site": "https://green.necrockets.net/",
+    "practice_ground": "千葉県我孫子市日の出1131"
+  },
+  {
+    "team_name": "東芝ブレイブルーパス東京",
+    "team_en_name": "東芝ブレイブルーパス東京（2025-26）",
+    "slug": "toshiba-brave-lupus-tokyo",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "東京都、府中市、調布市、三鷹市",
+    "legal_entity": "東芝ブレイブルーパス東京株式会社",
+    "official_site": "https://www.bravelupus.com/",
+    "practice_ground": "東京都府中市東芝町１"
+  },
+  {
+    "team_name": "三菱重工相模原ダイナボアーズ",
+    "team_en_name": "三菱重工相模原ダイナボアーズ（2025-26）",
+    "slug": "mitsubishi-sagamihara-dynaboars",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "神奈川県、相模原市",
+    "legal_entity": "三菱重工業株式会社",
+    "official_site": "https://dynaboars.mhi.com/",
+    "practice_ground": "神奈川県相模原市中央区田名3000番地"
+  },
+  {
+    "team_name": "コベルコ神戸スティーラーズ",
+    "team_en_name": "コベルコ神戸スティーラーズ（2025-26）",
+    "slug": "kobelco-kobe-steelers",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "兵庫県、神戸市",
+    "legal_entity": "株式会社神戸製鋼所",
+    "official_site": "https://www.kobesteelers.com/",
+    "practice_ground": "兵庫県神戸市東灘区御影浜町４　神戸製鋼灘浜グラウンド"
   },
   {
     "team_name": "三重ホンダヒート",
@@ -275,6 +187,61 @@
     "practice_ground": "三重県鈴鹿市住吉町6731-2"
   },
   {
+    "team_name": "ルリーロ福岡",
+    "team_en_name": "ルリーロ福岡（2025-26）",
+    "slug": "leriro-fukuoka",
+    "league": "league-one",
+    "division": "Division 3",
+    "host_area": "福岡県うきは市、朝倉市、久留米市",
+    "legal_entity": "ルリーロ福岡株式会社",
+    "official_site": "https://leriro-fukuoka.com/",
+    "practice_ground": "福岡県うきは市吉井町富永"
+  },
+  {
+    "team_name": "日野レッドドルフィンズ",
+    "team_en_name": "日野レッドドルフィンズ（2025-26）",
+    "slug": "hino-red-dolphins",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "東京都日野市、八王子市および周辺地域",
+    "legal_entity": "日野自動車株式会社",
+    "official_site": "https://hino-reddolphins.com/",
+    "practice_ground": "東京都日野市新町5丁目18-1"
+  },
+  {
+    "team_name": "静岡ブルーレヴズ",
+    "team_en_name": "静岡ブルーレヴズ（2025-26）",
+    "slug": "shizuoka-blue-revs",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "静岡県",
+    "legal_entity": "静岡ブルーレヴズ株式会社",
+    "official_site": "https://www.shizuoka-bluerevs.com",
+    "practice_ground": "静岡県磐田市大久保891-106"
+  },
+  {
+    "team_name": "日本製鉄釜石シーウェイブス",
+    "team_en_name": "日本製鉄釜石シーウェイブス（2025-26）",
+    "slug": "kamaishi-seawaves",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "釜石市、岩手県",
+    "legal_entity": "一般社団法人釜石シーウェイブスRFC",
+    "official_site": "https://kamaishi-seawaves.com/",
+    "practice_ground": "岩手県釜石市甲子町10-159-4"
+  },
+  {
+    "team_name": "清水建設江東ブルーシャークス",
+    "team_en_name": "清水建設江東ブルーシャークス（2025-26）",
+    "slug": "shimizu-koto-blue-sharks",
+    "league": "league-one",
+    "division": "Division 2",
+    "host_area": "東京都江東区",
+    "legal_entity": "清水建設株式会社",
+    "official_site": "https://blue-sharks.jp/",
+    "practice_ground": "神奈川県横浜市都筑区荏田南町741番地"
+  },
+  {
     "team_name": "ヤクルトレビンズ戸田",
     "team_en_name": "ヤクルトレビンズ戸田（2025-26）",
     "slug": "yakult-levins",
@@ -286,39 +253,42 @@
     "practice_ground": "埼玉県戸田市美女木4638-1"
   },
   {
-    "team_name": "オークランド・ブルーズ",
-    "team_en_name": "Blues",
-    "slug": "blues",
-    "league": "super-rugby"
+    "team_name": "クリタウォーターガッシュ昭島",
+    "team_en_name": "クリタウォーターガッシュ昭島（2025-26）",
+    "slug": "kurita-water-gush-akishima",
+    "league": "league-one",
+    "division": "Division 3",
+    "host_area": "東京都昭島市",
+    "legal_entity": "栗田工業株式会社",
+    "official_site": "https://www.kurita-watergush.jp/",
+    "practice_ground": "東京都昭島市拝島町3990-3"
   },
   {
-    "team_name": "クイーンズランド・レッズ",
-    "team_en_name": "Reds",
-    "slug": "queensland-reds",
-    "league": "super-rugby"
+    "team_name": "マツダスカイアクティブズ広島",
+    "team_en_name": "マツダスカイアクティブズ広島（2025-26）",
+    "slug": "mazda-skyactivs-hiroshima",
+    "league": "league-one",
+    "division": "Division 3",
+    "host_area": "広島県",
+    "legal_entity": "マツダ株式会社",
+    "official_site": "https://www.skyactivs.com/",
+    "practice_ground": "広島県広島県安芸郡坂町鯛尾2-6"
   },
   {
-    "team_name": "フィジアン・ドゥルア",
-    "team_en_name": "Fijian Drua",
-    "slug": "fijian-drua",
-    "league": "super-rugby"
+    "team_name": "浦安D-Rocks",
+    "team_en_name": "浦安D-Rocks（2025-26）",
+    "slug": "urayasu-d-rocks",
+    "league": "league-one",
+    "division": "Division 1",
+    "host_area": "千葉県浦安市",
+    "legal_entity": "株式会社NTT Sports X",
+    "official_site": "https://urayasu-d-rocks.com",
+    "practice_ground": "千葉県浦安市高洲８−２−１浦安Dパーク"
   },
   {
-    "team_name": "モアナ・パシフィカ",
-    "team_en_name": "Moana Pasifika",
-    "slug": "moana-pasifika",
-    "league": "super-rugby"
-  },
-  {
-    "team_name": "ウェスタン・フォース",
-    "team_en_name": "Western Force",
-    "slug": "western-force",
-    "league": "super-rugby"
-  },
-  {
-    "team_name": "オタゴ・ハイランダーズ",
-    "team_en_name": "Highlanders",
-    "slug": "highlanders",
+    "team_name": "ウェリントン・ハリケーンズ",
+    "team_en_name": "Hurricanes",
+    "slug": "hurricanes",
     "league": "super-rugby"
   },
   {
@@ -328,9 +298,21 @@
     "league": "super-rugby"
   },
   {
-    "team_name": "ウェリントン・ハリケーンズ",
-    "team_en_name": "Hurricanes",
-    "slug": "hurricanes",
+    "team_name": "ワイカト・チーフス",
+    "team_en_name": "Chiefs",
+    "slug": "chiefs",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "ウェスタン・フォース",
+    "team_en_name": "Western Force",
+    "slug": "western-force",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "モアナ・パシフィカ",
+    "team_en_name": "Moana Pasifika",
+    "slug": "moana-pasifika",
     "league": "super-rugby"
   },
   {
@@ -340,33 +322,39 @@
     "league": "super-rugby"
   },
   {
+    "team_name": "フィジアン・ドゥルア",
+    "team_en_name": "Fijian Drua",
+    "slug": "fijian-drua",
+    "league": "super-rugby"
+  },
+  {
+    "team_name": "クイーンズランド・レッズ",
+    "team_en_name": "Reds",
+    "slug": "queensland-reds",
+    "league": "super-rugby"
+  },
+  {
     "team_name": "NSWワラタス（ワラターズ）",
     "team_en_name": "Waratahs",
     "slug": "nsw-waratahs",
     "league": "super-rugby"
   },
   {
-    "team_name": "ワイカト・チーフス",
-    "team_en_name": "Chiefs",
-    "slug": "chiefs",
+    "team_name": "オークランド・ブルーズ",
+    "team_en_name": "Blues",
+    "slug": "blues",
     "league": "super-rugby"
   },
   {
-    "team_name": "レンスター・ラグビー",
-    "team_en_name": "Leinster",
-    "slug": "leinster-rugby",
-    "league": "urc"
+    "team_name": "オタゴ・ハイランダーズ",
+    "team_en_name": "Highlanders",
+    "slug": "highlanders",
+    "league": "super-rugby"
   },
   {
-    "team_name": "グラスゴー・ウォリアーズ",
-    "team_en_name": "Glasgow",
-    "slug": "glasgow-warriors",
-    "league": "urc"
-  },
-  {
-    "team_name": "DHLストーマーズ",
-    "team_en_name": "Stormers",
-    "slug": "dhl-stormers",
+    "team_name": "カーディフ・ラグビー",
+    "team_en_name": "Cardiff",
+    "slug": "cardiff-rugby",
     "league": "urc"
   },
   {
@@ -376,21 +364,9 @@
     "league": "urc"
   },
   {
-    "team_name": "スカーレッツ",
-    "team_en_name": "Scarlets",
-    "slug": "scarlets",
-    "league": "urc"
-  },
-  {
-    "team_name": "ハリウッドベッツ・シャークス",
-    "team_en_name": "Sharks",
-    "slug": "hollywoodbets-sharks",
-    "league": "urc"
-  },
-  {
-    "team_name": "カーディフ・ラグビー",
-    "team_en_name": "Cardiff",
-    "slug": "cardiff-rugby",
+    "team_name": "グラスゴー・ウォリアーズ",
+    "team_en_name": "Glasgow",
+    "slug": "glasgow-warriors",
     "league": "urc"
   },
   {
@@ -400,39 +376,15 @@
     "league": "urc"
   },
   {
-    "team_name": "ドラゴンズ・ラグビー",
-    "team_en_name": "Dragons",
-    "slug": "dragons-rugby",
+    "team_name": "レンスター・ラグビー",
+    "team_en_name": "Leinster",
+    "slug": "leinster-rugby",
     "league": "urc"
   },
   {
-    "team_name": "ヴォーダコム・ブルズ",
-    "team_en_name": "Bulls",
-    "slug": "vodacom-bulls",
-    "league": "urc"
-  },
-  {
-    "team_name": "マンスター・ラグビー",
-    "team_en_name": "Munster",
-    "slug": "munster-rugby",
-    "league": "urc"
-  },
-  {
-    "team_name": "エミレーツ・ライオンズ",
-    "team_en_name": "Lions",
-    "slug": "emirates-lions",
-    "league": "urc"
-  },
-  {
-    "team_name": "ゼブレ・パルマ",
-    "team_en_name": "Zebre",
-    "slug": "zebre-parma",
-    "league": "urc"
-  },
-  {
-    "team_name": "コナート・ラグビー",
-    "team_en_name": "Connacht",
-    "slug": "connacht-rugby",
+    "team_name": "DHLストーマーズ",
+    "team_en_name": "Stormers",
+    "slug": "dhl-stormers",
     "league": "urc"
   },
   {
@@ -442,75 +394,63 @@
     "league": "urc"
   },
   {
+    "team_name": "ドラゴンズ・ラグビー",
+    "team_en_name": "Dragons",
+    "slug": "dragons-rugby",
+    "league": "urc"
+  },
+  {
+    "team_name": "ハリウッドベッツ・シャークス",
+    "team_en_name": "Sharks",
+    "slug": "hollywoodbets-sharks",
+    "league": "urc"
+  },
+  {
+    "team_name": "ゼブレ・パルマ",
+    "team_en_name": "Zebre",
+    "slug": "zebre-parma",
+    "league": "urc"
+  },
+  {
+    "team_name": "ヴォーダコム・ブルズ",
+    "team_en_name": "Bulls",
+    "slug": "vodacom-bulls",
+    "league": "urc"
+  },
+  {
+    "team_name": "スカーレッツ",
+    "team_en_name": "Scarlets",
+    "slug": "scarlets",
+    "league": "urc"
+  },
+  {
+    "team_name": "マンスター・ラグビー",
+    "team_en_name": "Munster",
+    "slug": "munster-rugby",
+    "league": "urc"
+  },
+  {
     "team_name": "エディンバラ・ラグビー",
     "team_en_name": "Edimbourg",
     "slug": "edinburgh-rugby",
     "league": "urc"
   },
   {
-    "team_name": "スタッド・フランセ",
-    "team_en_name": "スタッド・フランセ",
-    "slug": "paris",
-    "league": "top14"
+    "team_name": "コナート・ラグビー",
+    "team_en_name": "Connacht",
+    "slug": "connacht-rugby",
+    "league": "urc"
   },
   {
-    "team_name": "トゥーロン",
-    "team_en_name": "トゥーロン",
-    "slug": "toulon",
-    "league": "top14"
-  },
-  {
-    "team_name": "ポー",
-    "team_en_name": "ポー",
-    "slug": "pau",
-    "league": "top14"
-  },
-  {
-    "team_name": "ボルドー・ベグル",
-    "team_en_name": "ボルドー・ベグル",
-    "slug": "bordeaux",
-    "league": "top14"
-  },
-  {
-    "team_name": "バイヨンヌ",
-    "team_en_name": "バイヨンヌ",
-    "slug": "bayonne",
-    "league": "top14"
+    "team_name": "エミレーツ・ライオンズ",
+    "team_en_name": "Lions",
+    "slug": "emirates-lions",
+    "league": "urc"
   },
   {
     "team_name": "カストル",
     "team_en_name": "カストル",
     "slug": "castres",
-    "league": "top14"
-  },
-  {
-    "team_name": "ヴァンヌ",
-    "team_en_name": "ヴァンヌ",
-    "slug": "vannes",
-    "league": "top14"
-  },
-  {
-    "team_name": "クレルモン",
-    "team_en_name": "クレルモン",
-    "slug": "clermont",
-    "league": "top14"
-  },
-  {
-    "team_name": "ペルピニャン",
-    "team_en_name": "ペルピニャン",
-    "slug": "perpignan",
-    "league": "top14"
-  },
-  {
-    "team_name": "ラ・ロシェル",
-    "team_en_name": "ラ・ロシェル",
-    "slug": "la-rochelle",
-    "league": "top14"
-  },
-  {
-    "team_name": "トゥールーズ",
-    "team_en_name": "トゥールーズ",
-    "slug": "toulouse",
     "league": "top14"
   },
   {
@@ -520,40 +460,76 @@
     "league": "top14"
   },
   {
-    "team_name": "ラシン92",
-    "team_en_name": "ラシン92",
-    "slug": "racing-92",
-    "league": "top14"
-  },
-  {
     "team_name": "モンペリエ",
     "team_en_name": "モンペリエ",
     "slug": "montpellier",
     "league": "top14"
   },
   {
-    "team_name": "サラセンズ",
-    "team_en_name": "Saracens",
-    "slug": "saracens",
-    "league": "premiership"
+    "team_name": "ペルピニャン",
+    "team_en_name": "ペルピニャン",
+    "slug": "perpignan",
+    "league": "top14"
   },
   {
-    "team_name": "バース・ラグビー",
-    "team_en_name": "Bath Rugby",
-    "slug": "bath-rugby",
-    "league": "premiership"
+    "team_name": "トゥーロン",
+    "team_en_name": "トゥーロン",
+    "slug": "toulon",
+    "league": "top14"
   },
   {
-    "team_name": "ノーサンプトン・セインツ",
-    "team_en_name": "Northampton Saints",
-    "slug": "northampton-saints",
-    "league": "premiership"
+    "team_name": "ラ・ロシェル",
+    "team_en_name": "ラ・ロシェル",
+    "slug": "la-rochelle",
+    "league": "top14"
   },
   {
-    "team_name": "エクセター・チーフス",
-    "team_en_name": "Exeter Chiefs",
-    "slug": "exeter-chiefs",
-    "league": "premiership"
+    "team_name": "ヴァンヌ",
+    "team_en_name": "ヴァンヌ",
+    "slug": "vannes",
+    "league": "top14"
+  },
+  {
+    "team_name": "トゥールーズ",
+    "team_en_name": "トゥールーズ",
+    "slug": "toulouse",
+    "league": "top14"
+  },
+  {
+    "team_name": "ラシン92",
+    "team_en_name": "ラシン92",
+    "slug": "racing-92",
+    "league": "top14"
+  },
+  {
+    "team_name": "スタッド・フランセ",
+    "team_en_name": "スタッド・フランセ",
+    "slug": "paris",
+    "league": "top14"
+  },
+  {
+    "team_name": "ボルドー・ベグル",
+    "team_en_name": "ボルドー・ベグル",
+    "slug": "bordeaux",
+    "league": "top14"
+  },
+  {
+    "team_name": "クレルモン",
+    "team_en_name": "クレルモン",
+    "slug": "clermont",
+    "league": "top14"
+  },
+  {
+    "team_name": "ポー",
+    "team_en_name": "ポー",
+    "slug": "pau",
+    "league": "top14"
+  },
+  {
+    "team_name": "バイヨンヌ",
+    "team_en_name": "バイヨンヌ",
+    "slug": "bayonne",
+    "league": "top14"
   },
   {
     "team_name": "ブリストル・ベアーズ",
@@ -562,15 +538,9 @@
     "league": "premiership"
   },
   {
-    "team_name": "セール・シャークス",
-    "team_en_name": "Sale Sharks",
-    "slug": "sale-sharks",
-    "league": "premiership"
-  },
-  {
-    "team_name": "ニューカッスル・ファルコンズ",
-    "team_en_name": "Newcastle Falcons",
-    "slug": "newcastle-falcons",
+    "team_name": "レスター・タイガーズ",
+    "team_en_name": "Leicester Tigers",
+    "slug": "leicester-tigers",
     "league": "premiership"
   },
   {
@@ -586,9 +556,39 @@
     "league": "premiership"
   },
   {
-    "team_name": "レスター・タイガーズ",
-    "team_en_name": "Leicester Tigers",
-    "slug": "leicester-tigers",
+    "team_name": "ニューカッスル・ファルコンズ",
+    "team_en_name": "Newcastle Falcons",
+    "slug": "newcastle-falcons",
+    "league": "premiership"
+  },
+  {
+    "team_name": "セール・シャークス",
+    "team_en_name": "Sale Sharks",
+    "slug": "sale-sharks",
+    "league": "premiership"
+  },
+  {
+    "team_name": "サラセンズ",
+    "team_en_name": "Saracens",
+    "slug": "saracens",
+    "league": "premiership"
+  },
+  {
+    "team_name": "エクセター・チーフス",
+    "team_en_name": "Exeter Chiefs",
+    "slug": "exeter-chiefs",
+    "league": "premiership"
+  },
+  {
+    "team_name": "ノーサンプトン・セインツ",
+    "team_en_name": "Northampton Saints",
+    "slug": "northampton-saints",
+    "league": "premiership"
+  },
+  {
+    "team_name": "バース・ラグビー",
+    "team_en_name": "Bath Rugby",
+    "slug": "bath-rugby",
     "league": "premiership"
   }
 ]
