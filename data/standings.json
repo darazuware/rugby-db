@@ -1021,6 +1021,19 @@
       },
       {
         "rank": "3",
+        "team_name": "Leicester Tigers",
+        "display_name": "レスター・タイガーズ",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "leicester-tigers",
+        "played": "11",
+        "won": "8",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "77",
+        "points": "41"
+      },
+      {
+        "rank": "4",
         "team_name": "Exeter Chiefs",
         "display_name": "エクセター・チーフス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1033,30 +1046,17 @@
         "points": "40"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "team_name": "Bristol Bears",
         "display_name": "ブリストル・ベアーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bristol-bears",
-        "played": "10",
+        "played": "11",
         "won": "8",
         "drawn": "0",
-        "lost": "2",
-        "diff": "55",
-        "points": "37"
-      },
-      {
-        "rank": "5",
-        "team_name": "Leicester Tigers",
-        "display_name": "レスター・タイガーズ",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "leicester-tigers",
-        "played": "10",
-        "won": "7",
-        "drawn": "0",
         "lost": "3",
-        "diff": "63",
-        "points": "36"
+        "diff": "41",
+        "points": "37"
       },
       {
         "rank": "6",
