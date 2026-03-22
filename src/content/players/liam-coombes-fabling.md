@@ -1,7 +1,7 @@
 ---
-title: "Liam COOMBES-FABLING | リアム クームス=フェイフリンク"
+title: "Liam COOMBES-FABLING"
 name_en: "Liam COOMBES-FABLING"
-name_ja: "リアム クームス=フェイフリンク"
+name_ja: "Liam COOMBES-FABLING"
 slug: "liam-coombes-fabling"
 position: "WTB"
 height: "180.0"

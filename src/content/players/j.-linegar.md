@@ -1,12 +1,12 @@
 ---
 title: "J. Linegar"
 name_en: "J. Linegar"
-name_ja: ""
+name_ja: "J. Linegar"
 slug: "j.-linegar"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

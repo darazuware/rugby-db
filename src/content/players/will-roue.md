@@ -1,12 +1,12 @@
 ---
 title: "Will ROUE"
 name_en: "Will ROUE"
-name_ja: ""
+name_ja: "Will ROUE"
 slug: "will-roue"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

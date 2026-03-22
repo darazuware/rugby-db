@@ -1,12 +1,12 @@
 ---
 title: "T. Gordon"
 name_en: "T. Gordon"
-name_ja: ""
+name_ja: "T. Gordon"
 slug: "t.-gordon"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

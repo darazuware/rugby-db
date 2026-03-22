@@ -1,7 +1,7 @@
 ---
-title: "Guillaume MARTOCQ | キヨーム マルトック"
+title: "Guillaume MARTOCQ"
 name_en: "Guillaume MARTOCQ"
-name_ja: "キヨーム マルトック"
+name_ja: "Guillaume MARTOCQ"
 slug: "guillaume-martocq"
 position: "CTB"
 height: "183.0"

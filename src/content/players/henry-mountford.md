@@ -1,12 +1,12 @@
 ---
 title: "Henry MOUNTFORD"
 name_en: "Henry MOUNTFORD"
-name_ja: ""
+name_ja: "Henry MOUNTFORD"
 slug: "henry-mountford"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

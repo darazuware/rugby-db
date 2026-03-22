@@ -1,12 +1,12 @@
 ---
 title: "E. Caine"
 name_en: "E. Caine"
-name_ja: ""
+name_ja: "E. Caine"
 slug: "e.-caine"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Bautista BERNASCONI | ハウティスタ ヘルナスコーニ"
+title: "Bautista BERNASCONI"
 name_en: "Bautista BERNASCONI"
-name_ja: "ハウティスタ ヘルナスコーニ"
+name_ja: "Bautista BERNASCONI"
 slug: "bautista-bernasconi"
 position: "HO"
 height: "175.0"

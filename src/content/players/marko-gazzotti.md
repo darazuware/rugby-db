@@ -1,7 +1,7 @@
 ---
-title: "Marko GAZZOTTI | マルコ カソッティ"
+title: "Marko GAZZOTTI"
 name_en: "Marko GAZZOTTI"
-name_ja: "マルコ カソッティ"
+name_ja: "Marko GAZZOTTI"
 slug: "marko-gazzotti"
 position: "FL/NO8"
 height: "192.0"

@@ -1,7 +1,7 @@
 ---
-title: "Nathan HASTIE | ネイサン ヘスティ"
+title: "Nathan HASTIE"
 name_en: "Nathan HASTIE"
-name_ja: "ネイサン ヘスティ"
+name_ja: "Nathan HASTIE"
 slug: "nathan-hastie"
 position: "SH"
 height: "177.0"

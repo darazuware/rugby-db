@@ -1,7 +1,7 @@
 ---
-title: "Rob LEOTA | ロフ レオタ"
+title: "Rob LEOTA"
 name_en: "Rob LEOTA"
-name_ja: "ロフ レオタ"
+name_ja: "Rob LEOTA"
 slug: "rob-leota"
 position: "FL/NO8"
 height: "190.0"

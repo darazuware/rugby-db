@@ -1,7 +1,7 @@
 ---
-title: "Paul JEDRASIAK | ホール シェトラシアク"
+title: "Paul JEDRASIAK"
 name_en: "Paul JEDRASIAK"
-name_ja: "ホール シェトラシアク"
+name_ja: "Paul JEDRASIAK"
 slug: "paul-jedrasiak"
 position: "LO"
 height: "200.0"

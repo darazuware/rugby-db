@@ -1,7 +1,7 @@
 ---
-title: "Warner DEARNS | ワーナー ティアンス"
+title: "Warner DEARNS"
 name_en: "Warner DEARNS"
-name_ja: "ワーナー ティアンス"
+name_ja: "Warner DEARNS"
 slug: "warner-dearns"
 position: "LO"
 height: "202.0"

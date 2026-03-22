@@ -1,7 +1,7 @@
 ---
-title: "Bradley SLATER | フラットリー スレーター"
+title: "Bradley SLATER"
 name_en: "Bradley SLATER"
-name_ja: "フラットリー スレーター"
+name_ja: "Bradley SLATER"
 slug: "bradley-slater"
 position: "HO"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Emosi TUQIRI | エモシ ツイキリ"
+title: "Emosi TUQIRI"
 name_en: "Emosi TUQIRI"
-name_ja: "エモシ ツイキリ"
+name_ja: "Emosi TUQIRI"
 slug: "emosi-tuqiri"
 position: "PR"
 height: "194.0"

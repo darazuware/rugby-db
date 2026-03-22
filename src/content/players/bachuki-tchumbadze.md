@@ -1,7 +1,7 @@
 ---
 title: "Bachuki Tchumbadze"
 name_en: "Bachuki Tchumbadze"
-name_ja: ""
+name_ja: "Bachuki Tchumbadze"
 slug: "bachuki-tchumbadze"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Tyler MASON"
 name_en: "Tyler MASON"
-name_ja: ""
+name_ja: "Tyler MASON"
 slug: "tyler-mason"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

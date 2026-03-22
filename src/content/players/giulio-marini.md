@@ -1,7 +1,7 @@
 ---
-title: "Giulio MARINI | シュリオ-マリーニ"
+title: "Giulio MARINI"
 name_en: "Giulio MARINI"
-name_ja: "シュリオ-マリーニ"
+name_ja: "Giulio MARINI"
 slug: "giulio-marini"
 position: "FL/No8"
 height: "195.0"

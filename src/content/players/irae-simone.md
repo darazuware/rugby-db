@@ -1,7 +1,7 @@
 ---
-title: "Irae SIMONE | イラエ-シモーネ"
+title: "Irae SIMONE"
 name_en: "Irae SIMONE"
-name_ja: "イラエ-シモーネ"
+name_ja: "Irae SIMONE"
 slug: "irae-simone"
 position: "CTB"
 height: "193.0"

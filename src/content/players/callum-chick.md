@@ -1,12 +1,12 @@
 ---
 title: "Callum CHICK"
 name_en: "Callum CHICK"
-name_ja: ""
+name_ja: "Callum CHICK"
 slug: "callum-chick"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 29
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Jon ZABALA | ション サハラ"
+title: "Jon ZABALA"
 name_en: "Jon ZABALA"
-name_ja: "ション サハラ"
+name_ja: "Jon ZABALA"
 slug: "jon-zabala"
 position: "PR"
 height: "192.0"

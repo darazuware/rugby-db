@@ -1,12 +1,12 @@
 ---
 title: "Lorenzo FERRARI"
 name_en: "Lorenzo FERRARI"
-name_ja: ""
+name_ja: "Lorenzo FERRARI"
 slug: "lorenzo-ferrari"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

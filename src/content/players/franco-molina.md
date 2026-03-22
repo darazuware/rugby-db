@@ -1,7 +1,7 @@
 ---
-title: "Franco MOLINA | フランコ-モリーナ"
+title: "Franco MOLINA"
 name_en: "Franco MOLINA"
-name_ja: "フランコ-モリーナ"
+name_ja: "Franco MOLINA"
 slug: "franco-molina"
 position: "LO"
 height: "198.0"

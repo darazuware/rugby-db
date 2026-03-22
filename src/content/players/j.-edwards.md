@@ -1,12 +1,12 @@
 ---
 title: "J. Edwards"
 name_en: "J. Edwards"
-name_ja: ""
+name_ja: "J. Edwards"
 slug: "j.-edwards"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

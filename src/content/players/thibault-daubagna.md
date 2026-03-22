@@ -1,7 +1,7 @@
 ---
-title: "Thibault DAUBAGNA | ティホー トーハニャ"
+title: "Thibault DAUBAGNA"
 name_en: "Thibault DAUBAGNA"
-name_ja: "ティホー トーハニャ"
+name_ja: "Thibault DAUBAGNA"
 slug: "thibault-daubagna"
 position: "SH"
 height: "177.0"

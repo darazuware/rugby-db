@@ -1,7 +1,7 @@
 ---
-title: "Filippo DRAGO | フィリッホ-トラーコ"
+title: "Filippo DRAGO"
 name_en: "Filippo DRAGO"
-name_ja: "フィリッホ-トラーコ"
+name_ja: "Filippo DRAGO"
 slug: "filippo-drago"
 position: "CTB"
 height: "186.0"

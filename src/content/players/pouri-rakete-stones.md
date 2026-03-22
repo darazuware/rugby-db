@@ -1,7 +1,7 @@
 ---
-title: "Pouri RAKETE-STONES | ホウリ ラケテ=ストーンス"
+title: "Pouri RAKETE-STONES"
 name_en: "Pouri RAKETE-STONES"
-name_ja: "ホウリ ラケテ=ストーンス"
+name_ja: "Pouri RAKETE-STONES"
 slug: "pouri-rakete-stones"
 position: "PR"
 height: "183.0"

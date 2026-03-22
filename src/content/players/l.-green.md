@@ -1,12 +1,12 @@
 ---
 title: "L. Green"
 name_en: "L. Green"
-name_ja: ""
+name_ja: "L. Green"
 slug: "l.-green"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -6,7 +6,7 @@ slug: "hudson-nevin"
 position: "PR"
 height: "188.0"
 weight: "113.0"
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

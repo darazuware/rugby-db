@@ -1,7 +1,7 @@
 ---
-title: "Ofa TU'UNGAFASI | オファ トゥンカファシ"
+title: "Ofa TU'UNGAFASI"
 name_en: "Ofa TU'UNGAFASI"
-name_ja: "オファ トゥンカファシ"
+name_ja: "Ofa TU'UNGAFASI"
 slug: "ofa-tu-ungafasi"
 position: "PR"
 height: "195.0"

@@ -1,7 +1,7 @@
 ---
-title: "Monty IOANE | モンティ イオアネ"
+title: "Monty IOANE"
 name_en: "Monty IOANE"
-name_ja: "モンティ イオアネ"
+name_ja: "Monty IOANE"
 slug: "monty-ioane"
 position: "WTB"
 height: "180.0"

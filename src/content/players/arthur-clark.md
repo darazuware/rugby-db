@@ -1,7 +1,7 @@
 ---
 title: "Arthur Clark"
 name_en: "Arthur Clark"
-name_ja: ""
+name_ja: "Arthur Clark"
 slug: "arthur-clark"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

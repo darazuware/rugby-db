@@ -1,7 +1,7 @@
 ---
-title: "Seilala LAM | セイララ ラム"
+title: "Seilala LAM"
 name_en: "Seilala LAM"
-name_ja: "セイララ ラム"
+name_ja: "Seilala LAM"
 slug: "seilala-lam"
 position: "HO"
 height: "183.0"

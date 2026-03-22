@@ -1,7 +1,7 @@
 ---
-title: "Triston REILLY | トリスタン ライリー"
+title: "Triston REILLY"
 name_en: "Triston REILLY"
-name_ja: "トリスタン ライリー"
+name_ja: "Triston REILLY"
 slug: "triston-reilly"
 position: "WTB"
 height: "182.0"

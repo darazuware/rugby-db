@@ -1,7 +1,7 @@
 ---
-title: "Kane DOUGLAS | ケイン タクラス"
+title: "Kane DOUGLAS"
 name_en: "Kane DOUGLAS"
-name_ja: "ケイン タクラス"
+name_ja: "Kane DOUGLAS"
 slug: "kane-douglas"
 position: "LO"
 height: "202.0"

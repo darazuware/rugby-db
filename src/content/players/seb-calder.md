@@ -1,7 +1,7 @@
 ---
-title: "Seb CALDER | セフ カルター"
+title: "Seb CALDER"
 name_en: "Seb CALDER"
-name_ja: "セフ カルター"
+name_ja: "Seb CALDER"
 slug: "seb-calder"
 position: "PR"
 height: "184.0"

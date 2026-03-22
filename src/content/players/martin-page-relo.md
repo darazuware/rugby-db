@@ -1,7 +1,7 @@
 ---
-title: "Martin PAGE-RELO | マルタン ハーシュ=ルロ"
+title: "Martin PAGE-RELO"
 name_en: "Martin PAGE-RELO"
-name_ja: "マルタン ハーシュ=ルロ"
+name_ja: "Martin PAGE-RELO"
 slug: "martin-page-relo"
 position: "SH"
 height: "173.0"

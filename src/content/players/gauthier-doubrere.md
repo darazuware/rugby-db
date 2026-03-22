@@ -1,7 +1,7 @@
 ---
-title: "Gauthier DOUBRERE | コーティエ トゥフレール"
+title: "Gauthier DOUBRERE"
 name_en: "Gauthier DOUBRERE"
-name_ja: "コーティエ トゥフレール"
+name_ja: "Gauthier DOUBRERE"
 slug: "gauthier-doubrere"
 position: "SH"
 height: "176.0"

@@ -1,7 +1,7 @@
 ---
-title: "Arno BOTHA | アルノ-ホータ"
+title: "Arno BOTHA"
 name_en: "Arno BOTHA"
-name_ja: "アルノ-ホータ"
+name_ja: "Arno BOTHA"
 slug: "arno-botha"
 position: "FL/NO8"
 height: "190.0"

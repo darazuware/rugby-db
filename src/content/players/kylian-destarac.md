@@ -1,12 +1,12 @@
 ---
 title: "Kylian DESTARAC"
 name_en: "Kylian DESTARAC"
-name_ja: ""
+name_ja: "Kylian DESTARAC"
 slug: "kylian-destarac"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

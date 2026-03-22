@@ -1,7 +1,7 @@
 ---
-title: "Theo CHABOUNI | テオ シャフニ"
+title: "Theo CHABOUNI"
 name_en: "Theo CHABOUNI"
-name_ja: "テオ シャフニ"
+name_ja: "Theo CHABOUNI"
 slug: "theo-chabouni"
 position: "FB"
 height: "182.0"

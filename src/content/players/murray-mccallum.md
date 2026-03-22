@@ -1,7 +1,7 @@
 ---
 title: "Murray McCallum"
 name_en: "Murray McCallum"
-name_ja: ""
+name_ja: "Murray McCallum"
 slug: "murray-mccallum"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

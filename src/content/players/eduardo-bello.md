@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Bello"
 name_en: "Eduardo Bello"
-name_ja: ""
+name_ja: "Eduardo Bello"
 slug: "eduardo-bello"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: "Argentina (14)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

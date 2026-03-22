@@ -1,7 +1,7 @@
 ---
-title: "Jack DEBRECZENI | シャック-テフレチェニ"
+title: "Jack DEBRECZENI"
 name_en: "Jack DEBRECZENI"
-name_ja: "シャック-テフレチェニ"
+name_ja: "Jack DEBRECZENI"
 slug: "jack-debreczeni"
 position: "SO"
 height: "192.0"

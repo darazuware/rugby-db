@@ -1,7 +1,7 @@
 ---
-title: "John BRYANT | ション フライアント"
+title: "John BRYANT"
 name_en: "John BRYANT"
-name_ja: "ション フライアント"
+name_ja: "John BRYANT"
 slug: "john-bryant"
 position: "FL/No8"
 height: "190.0"

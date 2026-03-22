@@ -1,12 +1,12 @@
 ---
 title: "Sam GRAHAM"
 name_en: "Sam GRAHAM"
-name_ja: ""
+name_ja: "Sam GRAHAM"
 slug: "sam-graham"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

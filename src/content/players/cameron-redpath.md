@@ -1,12 +1,12 @@
 ---
 title: "Cameron REDPATH"
 name_en: "Cameron REDPATH"
-name_ja: ""
+name_ja: "Cameron REDPATH"
 slug: "cameron-redpath"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
 title: "Christian Wade"
 name_en: "Christian Wade"
-name_ja: ""
+name_ja: "Christian Wade"
 slug: "christian-wade"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

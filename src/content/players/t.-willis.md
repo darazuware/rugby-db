@@ -1,12 +1,12 @@
 ---
 title: "T. Willis"
 name_en: "T. Willis"
-name_ja: ""
+name_ja: "T. Willis"
 slug: "t.-willis"
 position: "No. 8"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

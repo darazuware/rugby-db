@@ -1,7 +1,7 @@
 ---
 title: "Ross Vintcent"
 name_en: "Ross Vintcent"
-name_ja: ""
+name_ja: "Ross Vintcent"
 slug: "ross-vintcent"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Italy (10)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Scott SCRAFTON | スコット スクラフトン"
+title: "Scott SCRAFTON"
 name_en: "Scott SCRAFTON"
-name_ja: "スコット スクラフトン"
+name_ja: "Scott SCRAFTON"
 slug: "scott-scrafton"
 position: "LO"
 height: "200.0"

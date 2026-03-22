@@ -1,12 +1,12 @@
 ---
 title: "Ross MOLONY"
 name_en: "Ross MOLONY"
-name_ja: ""
+name_ja: "Ross MOLONY"
 slug: "ross-molony"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 31
 country: ""
 birth_place_scraped: ""

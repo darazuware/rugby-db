@@ -1,12 +1,12 @@
 ---
 title: "T. Mason"
 name_en: "T. Mason"
-name_ja: ""
+name_ja: "T. Mason"
 slug: "t.-mason"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

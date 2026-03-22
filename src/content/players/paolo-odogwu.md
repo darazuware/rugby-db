@@ -1,7 +1,7 @@
 ---
-title: "Paolo ODOGWU | ハオロ オトク"
+title: "Paolo ODOGWU"
 name_en: "Paolo ODOGWU"
-name_ja: "ハオロ オトク"
+name_ja: "Paolo ODOGWU"
 slug: "paolo-odogwu"
 position: "WTB"
 height: "175.0"

@@ -1,7 +1,7 @@
 ---
-title: "Laghlan MCWHANNELL | ラクラン マクワネル"
+title: "Laghlan MCWHANNELL"
 name_en: "Laghlan MCWHANNELL"
-name_ja: "ラクラン マクワネル"
+name_ja: "Laghlan MCWHANNELL"
 slug: "laghlan-mcwhannell"
 position: "LO"
 height: "198.0"

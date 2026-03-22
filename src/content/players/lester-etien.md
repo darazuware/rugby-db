@@ -1,7 +1,7 @@
 ---
-title: "Lester ETIEN | スター エティアン"
+title: "Lester ETIEN"
 name_en: "Lester ETIEN"
-name_ja: "スター エティアン"
+name_ja: "Lester ETIEN"
 slug: "lester-etien"
 position: "WTB"
 height: "181.0"

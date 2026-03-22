@@ -1,7 +1,7 @@
 ---
 title: "Charlie Atkinson"
 name_en: "Charlie Atkinson"
-name_ja: ""
+name_ja: "Charlie Atkinson"
 slug: "charlie-atkinson"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

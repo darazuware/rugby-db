@@ -1,7 +1,7 @@
 ---
-title: "Demba BAMBA | テンハ-ハンハ"
+title: "Demba BAMBA"
 name_en: "Demba BAMBA"
-name_ja: "テンハ-ハンハ"
+name_ja: "Demba BAMBA"
 slug: "demba-bamba"
 position: "PR"
 height: "185.0"

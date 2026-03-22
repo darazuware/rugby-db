@@ -1,12 +1,12 @@
 ---
 title: "F. Brown"
 name_en: "F. Brown"
-name_ja: ""
+name_ja: "F. Brown"
 slug: "f.-brown"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Ciaran DONOGHUE"
 name_en: "Ciaran DONOGHUE"
-name_ja: ""
+name_ja: "Ciaran DONOGHUE"
 slug: "ciaran-donoghue"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

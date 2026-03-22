@@ -1,12 +1,12 @@
 ---
 title: "Jack HARRISON"
 name_en: "Jack HARRISON"
-name_ja: ""
+name_ja: "Jack HARRISON"
 slug: "jack-harrison"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

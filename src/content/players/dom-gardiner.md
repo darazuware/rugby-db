@@ -1,7 +1,7 @@
 ---
-title: "Dom GARDINER | トム-カーティナー"
+title: "Dom GARDINER"
 name_en: "Dom GARDINER"
-name_ja: "トム-カーティナー"
+name_ja: "Dom GARDINER"
 slug: "dom-gardiner"
 position: "FL/No8"
 height: "193.0"

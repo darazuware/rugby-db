@@ -1,7 +1,7 @@
 ---
-title: "Ben GRANT | ヘン クラント"
+title: "Ben GRANT"
 name_en: "Ben GRANT"
-name_ja: "ヘン クラント"
+name_ja: "Ben GRANT"
 slug: "ben-grant"
 position: "LO"
 height: "204.0"

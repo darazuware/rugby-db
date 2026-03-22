@@ -1,7 +1,7 @@
 ---
-title: "Trevor KING | トレウァー キンク"
+title: "Trevor KING"
 name_en: "Trevor KING"
-name_ja: "トレウァー キンク"
+name_ja: "Trevor KING"
 slug: "trevor-king"
 position: "PR"
 height: "193.0"

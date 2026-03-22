@@ -1,7 +1,7 @@
 ---
-title: "Quentin WALCKER | カンタン ワルケル"
+title: "Quentin WALCKER"
 name_en: "Quentin WALCKER"
-name_ja: "カンタン ワルケル"
+name_ja: "Quentin WALCKER"
 slug: "quentin-walcker"
 position: "PR"
 height: "181.0"

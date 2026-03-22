@@ -1,12 +1,12 @@
 ---
 title: "N. Greenwood"
 name_en: "N. Greenwood"
-name_ja: ""
+name_ja: "N. Greenwood"
 slug: "n.-greenwood"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

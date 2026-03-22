@@ -1,7 +1,7 @@
 ---
-title: "Maxime LUCU | マキシム リュキュ"
+title: "Maxime LUCU"
 name_en: "Maxime LUCU"
-name_ja: "マキシム リュキュ"
+name_ja: "Maxime LUCU"
 slug: "maxime-lucu"
 position: "SH"
 height: "177.0"

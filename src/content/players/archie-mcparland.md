@@ -1,12 +1,12 @@
 ---
 title: "Archie MCPARLAND"
 name_en: "Archie MCPARLAND"
-name_ja: ""
+name_ja: "Archie MCPARLAND"
 slug: "archie-mcparland"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

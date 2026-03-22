@@ -1,7 +1,7 @@
 ---
-title: "Corey EVANS | コーリー エウァンス"
+title: "Corey EVANS"
 name_en: "Corey EVANS"
-name_ja: "コーリー エウァンス"
+name_ja: "Corey EVANS"
 slug: "corey-evans"
 position: "CTB"
 height: "185.0"

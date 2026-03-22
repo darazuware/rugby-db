@@ -1,7 +1,7 @@
 ---
 title: "Joe Launchbury"
 name_en: "Joe Launchbury"
-name_ja: ""
+name_ja: "Joe Launchbury"
 slug: "joe-launchbury"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "England (61)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Eli SNYMAN | イーライ-スナイマン"
+title: "Eli SNYMAN"
 name_en: "Eli SNYMAN"
-name_ja: "イーライ-スナイマン"
+name_ja: "Eli SNYMAN"
 slug: "eli-snyman"
 position: "LO"
 height: "200.0"

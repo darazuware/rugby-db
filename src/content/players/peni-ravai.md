@@ -1,7 +1,7 @@
 ---
-title: "Peni RAVAI | ヘニ ラウァイ"
+title: "Peni RAVAI"
 name_en: "Peni RAVAI"
-name_ja: "ヘニ ラウァイ"
+name_ja: "Peni RAVAI"
 slug: "peni-ravai"
 position: "PR"
 height: "185.0"

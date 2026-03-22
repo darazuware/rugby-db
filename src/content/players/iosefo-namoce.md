@@ -1,12 +1,12 @@
 ---
-title: "Iosefo NAMOCE | イオセフォ-ナモセ"
+title: "Iosefo NAMOCE"
 name_en: "Iosefo NAMOCE"
-name_ja: "イオセフォ-ナモセ"
+name_ja: "Iosefo NAMOCE"
 slug: "iosefo-namoce"
 position: "CTB"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

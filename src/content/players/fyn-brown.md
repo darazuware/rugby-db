@@ -1,12 +1,12 @@
 ---
 title: "Fyn BROWN"
 name_en: "Fyn BROWN"
-name_ja: ""
+name_ja: "Fyn BROWN"
 slug: "fyn-brown"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Melvyn JAMINET | メルウィン シャミネ"
+title: "Melvyn JAMINET"
 name_en: "Melvyn JAMINET"
-name_ja: "メルウィン シャミネ"
+name_ja: "Melvyn JAMINET"
 slug: "melvyn-jaminet"
 position: "FB"
 height: "180.0"

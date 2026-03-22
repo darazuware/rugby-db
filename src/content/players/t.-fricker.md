@@ -1,12 +1,12 @@
 ---
 title: "T. Fricker"
 name_en: "T. Fricker"
-name_ja: ""
+name_ja: "T. Fricker"
 slug: "t.-fricker"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

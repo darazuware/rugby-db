@@ -1,7 +1,7 @@
 ---
-title: "Nick SCHONERT | ニック ショーナート"
+title: "Nick SCHONERT"
 name_en: "Nick SCHONERT"
-name_ja: "ニック ショーナート"
+name_ja: "Nick SCHONERT"
 slug: "nick-schonert"
 position: "PR"
 height: "189.0"

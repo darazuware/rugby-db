@@ -1,7 +1,7 @@
 ---
-title: "Rob SIMMONS | ロフ シモンス"
+title: "Rob SIMMONS"
 name_en: "Rob SIMMONS"
-name_ja: "ロフ シモンス"
+name_ja: "Rob SIMMONS"
 slug: "rob-simmons"
 position: "LO"
 height: "204.0"

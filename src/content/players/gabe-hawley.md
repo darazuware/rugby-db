@@ -6,7 +6,7 @@ slug: "gabe-hawley"
 position: "PR"
 height: "190.0"
 weight: "130.0"
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

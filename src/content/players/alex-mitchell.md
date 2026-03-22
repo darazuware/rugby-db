@@ -1,12 +1,12 @@
 ---
 title: "Alex MITCHELL"
 name_en: "Alex MITCHELL"
-name_ja: ""
+name_ja: "Alex MITCHELL"
 slug: "alex-mitchell"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

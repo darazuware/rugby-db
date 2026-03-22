@@ -1,7 +1,7 @@
 ---
-title: "Siale LAUAKI | シアレ ラウアキ"
+title: "Siale LAUAKI"
 name_en: "Siale LAUAKI"
-name_ja: "シアレ ラウアキ"
+name_ja: "Siale LAUAKI"
 slug: "siale-lauaki"
 position: "PR"
 height: "194.0"

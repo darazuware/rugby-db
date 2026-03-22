@@ -1,7 +1,7 @@
 ---
-title: "Joe QUERE-KARABA | ショ ケレ=カラハ"
+title: "Joe QUERE-KARABA"
 name_en: "Joe QUERE-KARABA"
-name_ja: "ショ ケレ=カラハ"
+name_ja: "Joe QUERE-KARABA"
 slug: "joe-quere-karaba"
 position: "FL/NO8"
 height: "183.0"

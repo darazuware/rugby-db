@@ -1,7 +1,7 @@
 ---
-title: "Adam LENNOX | アタム レノックス"
+title: "Adam LENNOX"
 name_en: "Adam LENNOX"
-name_ja: "アタム レノックス"
+name_ja: "Adam LENNOX"
 slug: "adam-lennox"
 position: "SO"
 height: "178.0"

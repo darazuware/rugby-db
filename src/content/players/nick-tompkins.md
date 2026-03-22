@@ -1,7 +1,7 @@
 ---
 title: "Nick Tompkins"
 name_en: "Nick Tompkins"
-name_ja: ""
+name_ja: "Nick Tompkins"
 slug: "nick-tompkins"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Wales (38)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

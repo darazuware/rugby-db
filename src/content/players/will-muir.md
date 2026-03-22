@@ -1,12 +1,12 @@
 ---
 title: "Will MUIR"
 name_en: "Will MUIR"
-name_ja: ""
+name_ja: "Will MUIR"
 slug: "will-muir"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 30
 country: ""
 birth_place_scraped: ""

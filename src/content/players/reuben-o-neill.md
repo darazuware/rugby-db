@@ -1,7 +1,7 @@
 ---
-title: "Reuben O'NEILL | ルーヘン オニール"
+title: "Reuben O'NEILL"
 name_en: "Reuben O'NEILL"
-name_ja: "ルーヘン オニール"
+name_ja: "Reuben O'NEILL"
 slug: "reuben-o-neill"
 position: "PR"
 height: "183.0"

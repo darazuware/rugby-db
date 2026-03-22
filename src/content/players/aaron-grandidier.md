@@ -1,7 +1,7 @@
 ---
-title: "Aaron GRANDIDIER | アーロン クランティティエ"
+title: "Aaron GRANDIDIER"
 name_en: "Aaron GRANDIDIER"
-name_ja: "アーロン クランティティエ"
+name_ja: "Aaron GRANDIDIER"
 slug: "aaron-grandidier"
 position: "WTB"
 height: "187.0"

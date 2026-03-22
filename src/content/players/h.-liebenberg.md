@@ -1,12 +1,12 @@
 ---
 title: "H. Liebenberg"
 name_en: "H. Liebenberg"
-name_ja: ""
+name_ja: "H. Liebenberg"
 slug: "h.-liebenberg"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

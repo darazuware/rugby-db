@@ -1,7 +1,7 @@
 ---
-title: "Mathys LOTRIAN | マティス ロトリアン"
+title: "Mathys LOTRIAN"
 name_en: "Mathys LOTRIAN"
-name_ja: "マティス ロトリアン"
+name_ja: "Mathys LOTRIAN"
 slug: "mathys-lotrian"
 position: "HO"
 height: "177.0"

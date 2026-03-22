@@ -1,7 +1,7 @@
 ---
 title: "Freddie Steward"
 name_en: "Freddie Steward"
-name_ja: ""
+name_ja: "Freddie Steward"
 slug: "freddie-steward"
 position: "Fullback"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "England (35)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "H. Ascherl"
 name_en: "H. Ascherl"
-name_ja: ""
+name_ja: "H. Ascherl"
 slug: "h.-ascherl"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

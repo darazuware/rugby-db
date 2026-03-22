@@ -1,12 +1,12 @@
 ---
 title: "E. Opoku Gyamfi"
 name_en: "E. Opoku Gyamfi"
-name_ja: ""
+name_ja: "E. Opoku Gyamfi"
 slug: "e.-opoku-gyamfi"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

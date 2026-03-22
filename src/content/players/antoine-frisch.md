@@ -1,7 +1,7 @@
 ---
-title: "Antoine FRISCH | アントワーヌ-フリッシュ"
+title: "Antoine FRISCH"
 name_en: "Antoine FRISCH"
-name_ja: "アントワーヌ-フリッシュ"
+name_ja: "Antoine FRISCH"
 slug: "antoine-frisch"
 position: "CTB"
 height: "188.0"

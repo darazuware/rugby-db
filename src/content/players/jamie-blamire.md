@@ -1,7 +1,7 @@
 ---
 title: "Jamie Blamire"
 name_en: "Jamie Blamire"
-name_ja: ""
+name_ja: "Jamie Blamire"
 slug: "jamie-blamire"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Call-ups (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

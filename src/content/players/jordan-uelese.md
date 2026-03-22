@@ -1,7 +1,7 @@
 ---
-title: "Jordan UELESE | ショータン ウエレセ"
+title: "Jordan UELESE"
 name_en: "Jordan UELESE"
-name_ja: "ショータン ウエレセ"
+name_ja: "Jordan UELESE"
 slug: "jordan-uelese"
 position: "HO"
 height: "189.0"

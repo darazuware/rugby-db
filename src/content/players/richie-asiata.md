@@ -1,7 +1,7 @@
 ---
-title: "Richie ASIATA | リッチー アシアタ"
+title: "Richie ASIATA"
 name_en: "Richie ASIATA"
-name_ja: "リッチー アシアタ"
+name_ja: "Richie ASIATA"
 slug: "richie-asiata"
 position: "HO"
 height: "180.0"

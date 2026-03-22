@@ -1,7 +1,7 @@
 ---
-title: "Gaetan BARLOT | カエタン-ハルロ"
+title: "Gaetan BARLOT"
 name_en: "Gaetan BARLOT"
-name_ja: "カエタン-ハルロ"
+name_ja: "Gaetan BARLOT"
 slug: "gaetan-barlot"
 position: "HO"
 height: "184.0"

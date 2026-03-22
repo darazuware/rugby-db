@@ -1,12 +1,12 @@
 ---
 title: "S. Worsley"
 name_en: "S. Worsley"
-name_ja: ""
+name_ja: "S. Worsley"
 slug: "s.-worsley"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

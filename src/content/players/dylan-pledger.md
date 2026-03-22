@@ -1,7 +1,7 @@
 ---
-title: "Dylan PLEDGER | ティラン フレッシャー"
+title: "Dylan PLEDGER"
 name_en: "Dylan PLEDGER"
-name_ja: "ティラン フレッシャー"
+name_ja: "Dylan PLEDGER"
 slug: "dylan-pledger"
 position: "SH"
 height: "171.0"

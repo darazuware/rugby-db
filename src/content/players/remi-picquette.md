@@ -1,7 +1,7 @@
 ---
-title: "Remi PICQUETTE | レミ ヒケット"
+title: "Remi PICQUETTE"
 name_en: "Remi PICQUETTE"
-name_ja: "レミ ヒケット"
+name_ja: "Remi PICQUETTE"
 slug: "remi-picquette"
 position: "LO"
 height: "200.0"

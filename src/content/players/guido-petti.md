@@ -1,7 +1,7 @@
 ---
 title: "Guido Petti"
 name_en: "Guido Petti"
-name_ja: ""
+name_ja: "Guido Petti"
 slug: "guido-petti"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "Argentina (75)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

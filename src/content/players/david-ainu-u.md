@@ -1,7 +1,7 @@
 ---
-title: "David AINU'U | テイウィット-アイヌウ"
+title: "David AINU'U"
 name_en: "David AINU'U"
-name_ja: "テイウィット-アイヌウ"
+name_ja: "David AINU'U"
 slug: "david-ainu-u"
 position: "PR"
 height: "178.0"

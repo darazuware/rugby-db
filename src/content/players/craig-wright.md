@@ -1,12 +1,12 @@
 ---
 title: "Craig WRIGHT"
 name_en: "Craig WRIGHT"
-name_ja: ""
+name_ja: "Craig WRIGHT"
 slug: "craig-wright"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

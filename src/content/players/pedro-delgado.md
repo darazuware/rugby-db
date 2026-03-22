@@ -1,7 +1,7 @@
 ---
 title: "Pedro Delgado"
 name_en: "Pedro Delgado"
-name_ja: ""
+name_ja: "Pedro Delgado"
 slug: "pedro-delgado"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

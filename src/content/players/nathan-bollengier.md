@@ -1,7 +1,7 @@
 ---
-title: "Nathan BOLLENGIER | ナタン ホランシェ"
+title: "Nathan BOLLENGIER"
 name_en: "Nathan BOLLENGIER"
-name_ja: "ナタン ホランシェ"
+name_ja: "Nathan BOLLENGIER"
 slug: "nathan-bollengier"
 position: "WTB"
 height: "183.0"

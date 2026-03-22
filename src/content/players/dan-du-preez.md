@@ -1,7 +1,7 @@
 ---
 title: "Dan du Preez"
 name_en: "Dan du Preez"
-name_ja: ""
+name_ja: "Dan du Preez"
 slug: "dan-du-preez"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

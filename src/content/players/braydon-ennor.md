@@ -1,7 +1,7 @@
 ---
-title: "Braydon ENNOR | フレイトン-エナー"
+title: "Braydon ENNOR"
 name_en: "Braydon ENNOR"
-name_ja: "フレイトン-エナー"
+name_ja: "Braydon ENNOR"
 slug: "braydon-ennor"
 position: "CTB"
 height: "187.0"

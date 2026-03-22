@@ -1,7 +1,7 @@
 ---
-title: "Vilive MIRAMIRA | ウィリウェ-ミラミラ"
+title: "Vilive MIRAMIRA"
 name_en: "Vilive MIRAMIRA"
-name_ja: "ウィリウェ-ミラミラ"
+name_ja: "Vilive MIRAMIRA"
 slug: "vilive-miramira"
 position: "FL/No8"
 height: "192.0"

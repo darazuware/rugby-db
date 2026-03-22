@@ -1,12 +1,12 @@
 ---
 title: "Oriol MARSINYAC"
 name_en: "Oriol MARSINYAC"
-name_ja: ""
+name_ja: "Oriol MARSINYAC"
 slug: "oriol-marsinyac"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

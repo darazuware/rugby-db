@@ -1,12 +1,12 @@
 ---
 title: "H. Thacker"
 name_en: "H. Thacker"
-name_ja: ""
+name_ja: "H. Thacker"
 slug: "h.-thacker"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

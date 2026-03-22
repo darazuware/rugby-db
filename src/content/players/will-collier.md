@@ -1,7 +1,7 @@
 ---
-title: "Will COLLIER | ウィル コリアー"
+title: "Will COLLIER"
 name_en: "Will COLLIER"
-name_ja: "ウィル コリアー"
+name_ja: "Will COLLIER"
 slug: "will-collier"
 position: "PR"
 height: "184.0"

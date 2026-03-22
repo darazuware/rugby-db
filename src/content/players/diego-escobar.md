@@ -1,7 +1,7 @@
 ---
-title: "Diego ESCOBAR | ティエコ-エスコハル"
+title: "Diego ESCOBAR"
 name_en: "Diego ESCOBAR"
-name_ja: "ティエコ-エスコハル"
+name_ja: "Diego ESCOBAR"
 slug: "diego-escobar"
 position: "HO"
 height: "176.0"

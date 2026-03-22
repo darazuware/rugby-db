@@ -1,12 +1,12 @@
 ---
 title: "F. Renwick"
 name_en: "F. Renwick"
-name_ja: ""
+name_ja: "F. Renwick"
 slug: "f.-renwick"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Pita AHKI | ヒタ アッキ"
+title: "Pita AHKI"
 name_en: "Pita AHKI"
-name_ja: "ヒタ アッキ"
+name_ja: "Pita AHKI"
 slug: "pita-ahki"
 position: "CTB"
 height: "189.0"

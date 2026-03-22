@@ -1,12 +1,12 @@
 ---
 title: "Jaco COETZEE"
 name_en: "Jaco COETZEE"
-name_ja: ""
+name_ja: "Jaco COETZEE"
 slug: "jaco-coetzee"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 29
 country: ""
 birth_place_scraped: ""

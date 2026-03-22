@@ -1,7 +1,7 @@
 ---
-title: "Jackson GARDEN-BACHOP | シャクソン-カーテン=ハショッフ"
+title: "Jackson GARDEN-BACHOP"
 name_en: "Jackson GARDEN-BACHOP"
-name_ja: "シャクソン-カーテン=ハショッフ"
+name_ja: "Jackson GARDEN-BACHOP"
 slug: "jackson-garden-bachop"
 position: "SO"
 height: "185.0"

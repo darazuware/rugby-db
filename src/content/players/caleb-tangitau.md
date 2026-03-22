@@ -1,7 +1,7 @@
 ---
-title: "Caleb TANGITAU | ケイレフ-タンキタウ"
+title: "Caleb TANGITAU"
 name_en: "Caleb TANGITAU"
-name_ja: "ケイレフ-タンキタウ"
+name_ja: "Caleb TANGITAU"
 slug: "caleb-tangitau"
 position: "WTB"
 height: "188.0"

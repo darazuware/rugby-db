@@ -1,7 +1,7 @@
 ---
 title: "Sammy Arnold"
 name_en: "Sammy Arnold"
-name_ja: ""
+name_ja: "Sammy Arnold"
 slug: "sammy-arnold"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "E. Painter"
 name_en: "E. Painter"
-name_ja: ""
+name_ja: "E. Painter"
 slug: "e.-painter"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

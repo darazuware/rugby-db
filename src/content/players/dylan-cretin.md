@@ -1,7 +1,7 @@
 ---
-title: "Dylan CRETIN | ティラン-クレタン"
+title: "Dylan CRETIN"
 name_en: "Dylan CRETIN"
-name_ja: "ティラン-クレタン"
+name_ja: "Dylan CRETIN"
 slug: "dylan-cretin"
 position: "FL/NO8"
 height: "195.0"

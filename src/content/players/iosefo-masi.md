@@ -1,7 +1,7 @@
 ---
-title: "Iosefo MASI | イオセフォ-マシ"
+title: "Iosefo MASI"
 name_en: "Iosefo MASI"
-name_ja: "イオセフォ-マシ"
+name_ja: "Iosefo MASI"
 slug: "iosefo-masi"
 position: "CTB"
 height: "190.0"

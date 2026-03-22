@@ -1,12 +1,12 @@
 ---
 title: "L. Pearson"
 name_en: "L. Pearson"
-name_ja: ""
+name_ja: "L. Pearson"
 slug: "l.-pearson"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

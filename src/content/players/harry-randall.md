@@ -1,7 +1,7 @@
 ---
 title: "Harry Randall"
 name_en: "Harry Randall"
-name_ja: ""
+name_ja: "Harry Randall"
 slug: "harry-randall"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "England (11)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

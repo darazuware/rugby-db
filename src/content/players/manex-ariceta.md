@@ -1,7 +1,7 @@
 ---
-title: "Manex ARICETA | マネクス アリセタ"
+title: "Manex ARICETA"
 name_en: "Manex ARICETA"
-name_ja: "マネクス アリセタ"
+name_ja: "Manex ARICETA"
 slug: "manex-ariceta"
 position: "FL/NO8"
 height: "194.0"

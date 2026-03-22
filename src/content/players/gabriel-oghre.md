@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Oghre"
 name_en: "Gabriel Oghre"
-name_ja: ""
+name_ja: "Gabriel Oghre"
 slug: "gabriel-oghre"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

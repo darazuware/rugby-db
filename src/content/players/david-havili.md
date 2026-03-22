@@ -1,7 +1,7 @@
 ---
-title: "David HAVILI | テイウィット-ハヒリ"
+title: "David HAVILI"
 name_en: "David HAVILI"
-name_ja: "テイウィット-ハヒリ"
+name_ja: "David HAVILI"
 slug: "david-havili"
 position: "CTB"
 height: "184.0"

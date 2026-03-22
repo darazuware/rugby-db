@@ -1,7 +1,7 @@
 ---
-title: "Jake GORDON | シェイク-コートン"
+title: "Jake GORDON"
 name_en: "Jake GORDON"
-name_ja: "シェイク-コートン"
+name_ja: "Jake GORDON"
 slug: "jake-gordon"
 position: "SH"
 height: "186.0"

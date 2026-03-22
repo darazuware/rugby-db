@@ -1,12 +1,12 @@
 ---
-title: "Titi NOFOAGATOTOA | ティティ ノフォカトトア"
+title: "Titi NOFOAGATOTOA"
 name_en: "Titi NOFOAGATOTOA"
-name_ja: "ティティ ノフォカトトア"
+name_ja: "Titi NOFOAGATOTOA"
 slug: "titi-nofoagatotoa"
 position: "FL/No8"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

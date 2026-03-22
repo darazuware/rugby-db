@@ -1,7 +1,7 @@
 ---
-title: "Mamoru HARADA | ハラタ マモル"
+title: "Mamoru HARADA"
 name_en: "Mamoru HARADA"
-name_ja: "ハラタ マモル"
+name_ja: "Mamoru HARADA"
 slug: "mamoru-harada"
 position: "HO"
 height: "175.0"

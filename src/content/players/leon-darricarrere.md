@@ -1,7 +1,7 @@
 ---
-title: "Leon DARRICARRERE | レオン タリカレール"
+title: "Leon DARRICARRERE"
 name_en: "Leon DARRICARRERE"
-name_ja: "レオン タリカレール"
+name_ja: "Leon DARRICARRERE"
 slug: "leon-darricarrere"
 position: "CTB"
 height: "182.0"

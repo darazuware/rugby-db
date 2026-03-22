@@ -1,12 +1,12 @@
 ---
 title: "Will BUTT"
 name_en: "Will BUTT"
-name_ja: ""
+name_ja: "Will BUTT"
 slug: "will-butt"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

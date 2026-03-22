@@ -1,7 +1,7 @@
 ---
-title: "Christian LINDSAY | クリスチャン リンセイ"
+title: "Christian LINDSAY"
 name_en: "Christian LINDSAY"
-name_ja: "クリスチャン リンセイ"
+name_ja: "Christian LINDSAY"
 slug: "christian-lindsay"
 position: "LO"
 height: "200.0"

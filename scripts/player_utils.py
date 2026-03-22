@@ -9,13 +9,21 @@ class PlayerDataProcessor:
             return None
         try:
             # 様々な形式に対応
-            for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%d/%m/%Y", "%Y年%m月%d日"):
+            birth_date = None
+            for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%Y.%m.%d", "%d/%m/%Y", "%Y年%m月%d日"):
                 try:
                     birth_date = datetime.strptime(birth_date_str, fmt)
                     break
                 except ValueError:
                     continue
-            else:
+            
+            if not birth_date:
+                # 年のみの抽出を試みる (例: //2005, 2005..)
+                year_match = re.search(r'(\d{4})', birth_date_str)
+                if year_match:
+                    year = int(year_match.group(1))
+                    today = datetime.today()
+                    return today.year - year
                 return None
                 
             today = datetime.today()
@@ -91,6 +99,21 @@ class PlayerDataProcessor:
         slug = re.sub(r'[^a-z0-9]+', '-', str(name_en).lower()).strip('-')
         # 重複回避のために ID を付与 (※all.rugby ID がない場合)
         return f"{slug}-{player_id}"
+
+    @staticmethod
+    def get_safe_attr(row, attr_name, default=''):
+        """
+        Pandas の行（Series または辞書）から値を安全に取得する。
+        NaN や 'nan' などの文字列漏れを防ぐ。
+        """
+        try:
+            val = row.get(attr_name)
+            import pandas as pd
+            if pd.isna(val) or str(val).lower() == 'nan' or val is None:
+                return default
+            return str(val).strip()
+        except Exception:
+            return default
 
     @staticmethod
     def format_career_item(year, team):

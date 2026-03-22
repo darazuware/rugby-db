@@ -1,12 +1,12 @@
 ---
 title: "Jack BENNETT"
 name_en: "Jack BENNETT"
-name_ja: ""
+name_ja: "Jack BENNETT"
 slug: "jack-bennett"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

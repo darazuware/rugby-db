@@ -1,12 +1,12 @@
 ---
 title: "Cleopas KUNDIONA"
 name_en: "Cleopas KUNDIONA"
-name_ja: ""
+name_ja: "Cleopas KUNDIONA"
 slug: "cleopas-kundiona"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

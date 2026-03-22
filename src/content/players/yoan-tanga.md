@@ -1,7 +1,7 @@
 ---
-title: "Yoan TANGA | ヨアン タンカ"
+title: "Yoan TANGA"
 name_en: "Yoan TANGA"
-name_ja: "ヨアン タンカ"
+name_ja: "Yoan TANGA"
 slug: "yoan-tanga"
 position: "FL/NO8"
 height: "185.0"

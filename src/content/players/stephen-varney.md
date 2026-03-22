@@ -1,7 +1,7 @@
 ---
 title: "Stephen Varney"
 name_en: "Stephen Varney"
-name_ja: ""
+name_ja: "Stephen Varney"
 slug: "stephen-varney"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Italy (30)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

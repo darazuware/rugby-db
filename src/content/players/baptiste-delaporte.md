@@ -1,7 +1,7 @@
 ---
-title: "Baptiste DELAPORTE | ハティスト トラホルト"
+title: "Baptiste DELAPORTE"
 name_en: "Baptiste DELAPORTE"
-name_ja: "ハティスト トラホルト"
+name_ja: "Baptiste DELAPORTE"
 slug: "baptiste-delaporte"
 position: "FL/NO8"
 height: "190.0"

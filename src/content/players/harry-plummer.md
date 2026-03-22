@@ -1,7 +1,7 @@
 ---
-title: "Harry PLUMMER | ハリー-フラマー"
+title: "Harry PLUMMER"
 name_en: "Harry PLUMMER"
-name_ja: "ハリー-フラマー"
+name_ja: "Harry PLUMMER"
 slug: "harry-plummer"
 position: "SO"
 height: "184.0"

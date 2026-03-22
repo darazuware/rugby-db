@@ -1,12 +1,12 @@
 ---
 title: "F. St John"
 name_en: "F. St John"
-name_ja: ""
+name_ja: "F. St John"
 slug: "f.-st-john"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

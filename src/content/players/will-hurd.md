@@ -1,7 +1,7 @@
 ---
 title: "Will Hurd"
 name_en: "Will Hurd"
-name_ja: ""
+name_ja: "Will Hurd"
 slug: "will-hurd"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Scotland (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

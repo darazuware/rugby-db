@@ -1,7 +1,7 @@
 ---
-title: "Mateo CARRERAS | マテオ カレーラス"
+title: "Mateo CARRERAS"
 name_en: "Mateo CARRERAS"
-name_ja: "マテオ カレーラス"
+name_ja: "Mateo CARRERAS"
 slug: "mateo-carreras"
 position: "WTB"
 height: "173.0"

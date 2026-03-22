@@ -1,7 +1,7 @@
 ---
 title: "Josh Hathaway"
 name_en: "Josh Hathaway"
-name_ja: ""
+name_ja: "Josh Hathaway"
 slug: "josh-hathaway"
 position: "Fullback"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Wales (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

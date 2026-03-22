@@ -1,7 +1,7 @@
 ---
 title: "Ethan Roots"
 name_en: "Ethan Roots"
-name_ja: ""
+name_ja: "Ethan Roots"
 slug: "ethan-roots"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

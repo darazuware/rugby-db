@@ -1,7 +1,7 @@
 ---
-title: "Daniel RONA | タニエル-ロナ"
+title: "Daniel RONA"
 name_en: "Daniel RONA"
-name_ja: "タニエル-ロナ"
+name_ja: "Daniel RONA"
 slug: "daniel-rona"
 position: "CTB"
 height: "187.0"

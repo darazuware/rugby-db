@@ -1,7 +1,7 @@
 ---
-title: "Esteban ABADIE | エステハン-アハティ"
+title: "Esteban ABADIE"
 name_en: "Esteban ABADIE"
-name_ja: "エステハン-アハティ"
+name_ja: "Esteban ABADIE"
 slug: "esteban-abadie"
 position: "FL/NO8"
 height: "188.0"

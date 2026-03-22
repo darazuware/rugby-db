@@ -1,7 +1,7 @@
 ---
-title: "Lucas ANDJISSERAMATCHI | ルカス アンシセラマッチ"
+title: "Lucas ANDJISSERAMATCHI"
 name_en: "Lucas ANDJISSERAMATCHI"
-name_ja: "ルカス アンシセラマッチ"
+name_ja: "Lucas ANDJISSERAMATCHI"
 slug: "lucas-andjisseramatchi"
 position: "FL/NO8"
 height: "187.0"

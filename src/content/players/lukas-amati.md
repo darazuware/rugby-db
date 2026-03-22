@@ -1,12 +1,12 @@
 ---
 title: "Lukas AMATI"
 name_en: "Lukas AMATI"
-name_ja: ""
+name_ja: "Lukas AMATI"
 slug: "lukas-amati"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

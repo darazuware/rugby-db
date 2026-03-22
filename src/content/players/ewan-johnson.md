@@ -1,7 +1,7 @@
 ---
-title: "Ewan JOHNSON | ユアン ションソン"
+title: "Ewan JOHNSON"
 name_en: "Ewan JOHNSON"
-name_ja: "ユアン ションソン"
+name_ja: "Ewan JOHNSON"
 slug: "ewan-johnson"
 position: "LO"
 height: "202.0"

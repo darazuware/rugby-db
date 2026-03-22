@@ -1,12 +1,12 @@
 ---
 title: "Bobby BRENNAN"
 name_en: "Bobby BRENNAN"
-name_ja: ""
+name_ja: "Bobby BRENNAN"
 slug: "bobby-brennan"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

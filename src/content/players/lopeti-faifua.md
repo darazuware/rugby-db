@@ -1,7 +1,7 @@
 ---
-title: "Lopeti FAIFUA | ロヘティ ファイフア"
+title: "Lopeti FAIFUA"
 name_en: "Lopeti FAIFUA"
-name_ja: "ロヘティ ファイフア"
+name_ja: "Lopeti FAIFUA"
 slug: "lopeti-faifua"
 position: "LO"
 height: "198.0"

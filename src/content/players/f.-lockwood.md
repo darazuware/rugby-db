@@ -1,12 +1,12 @@
 ---
 title: "F. Lockwood"
 name_en: "F. Lockwood"
-name_ja: ""
+name_ja: "F. Lockwood"
 slug: "f.-lockwood"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

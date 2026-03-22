@@ -1,7 +1,7 @@
 ---
-title: "Marcel RENATA | マルセル レナタ"
+title: "Marcel RENATA"
 name_en: "Marcel RENATA"
-name_ja: "マルセル レナタ"
+name_ja: "Marcel RENATA"
 slug: "marcel-renata"
 position: "PR"
 height: "187.0"

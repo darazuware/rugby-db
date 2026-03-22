@@ -1,7 +1,7 @@
 ---
 title: "Marco Riccioni"
 name_en: "Marco Riccioni"
-name_ja: ""
+name_ja: "Marco Riccioni"
 slug: "marco-riccioni"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Italy (31)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

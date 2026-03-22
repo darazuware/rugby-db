@@ -1,7 +1,7 @@
 ---
 title: "Tomos Williams"
 name_en: "Tomos Williams"
-name_ja: ""
+name_ja: "Tomos Williams"
 slug: "tomos-williams"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Wales (59)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

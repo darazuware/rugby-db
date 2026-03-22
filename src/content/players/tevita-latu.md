@@ -1,7 +1,7 @@
 ---
-title: "Tevita LATU | テウィタ ラトゥ"
+title: "Tevita LATU"
 name_en: "Tevita LATU"
-name_ja: "テウィタ ラトゥ"
+name_ja: "Tevita LATU"
 slug: "tevita-latu"
 position: "CTB"
 height: "183.0"

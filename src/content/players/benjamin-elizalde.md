@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Elizalde"
 name_en: "Benjamin Elizalde"
-name_ja: ""
+name_ja: "Benjamin Elizalde"
 slug: "benjamin-elizalde"
 position: "Fullback"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

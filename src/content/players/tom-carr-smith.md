@@ -1,12 +1,12 @@
 ---
 title: "Tom CARR-SMITH"
 name_en: "Tom CARR-SMITH"
-name_ja: ""
+name_ja: "Tom CARR-SMITH"
 slug: "tom-carr-smith"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

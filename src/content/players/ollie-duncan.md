@@ -1,7 +1,7 @@
 ---
-title: "Ollie DUNCAN | オリー タンカン"
+title: "Ollie DUNCAN"
 name_en: "Ollie DUNCAN"
-name_ja: "オリー タンカン"
+name_ja: "Ollie DUNCAN"
 slug: "ollie-duncan"
 position: "FL/No8"
 height: "191.0"

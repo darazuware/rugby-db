@@ -1,7 +1,7 @@
 ---
-title: "Motikiai MURRAY | モティキアイ マレー"
+title: "Motikiai MURRAY"
 name_en: "Motikiai MURRAY"
-name_ja: "モティキアイ マレー"
+name_ja: "Motikiai MURRAY"
 slug: "motikiai-murray"
 position: "FL/No8"
 height: "185.0"

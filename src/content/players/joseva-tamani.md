@@ -1,7 +1,7 @@
 ---
-title: "Joseva TAMANI | ショセウァ タマニ"
+title: "Joseva TAMANI"
 name_en: "Joseva TAMANI"
-name_ja: "ショセウァ タマニ"
+name_ja: "Joseva TAMANI"
 slug: "joseva-tamani"
 position: "FL/No8"
 height: "195.0"

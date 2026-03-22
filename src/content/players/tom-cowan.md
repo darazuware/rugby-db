@@ -1,12 +1,12 @@
 ---
 title: "Tom COWAN"
 name_en: "Tom COWAN"
-name_ja: ""
+name_ja: "Tom COWAN"
 slug: "tom-cowan"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

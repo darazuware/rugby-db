@@ -1,7 +1,7 @@
 ---
 title: "Raffi Quirke"
 name_en: "Raffi Quirke"
-name_ja: ""
+name_ja: "Raffi Quirke"
 slug: "raffi-quirke"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

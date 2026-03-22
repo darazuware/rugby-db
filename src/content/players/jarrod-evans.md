@@ -1,7 +1,7 @@
 ---
 title: "Jarrod Evans"
 name_en: "Jarrod Evans"
-name_ja: ""
+name_ja: "Jarrod Evans"
 slug: "jarrod-evans"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "Call-ups (8)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

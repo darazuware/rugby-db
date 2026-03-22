@@ -1,12 +1,12 @@
 ---
 title: "Henry LUMLEY"
 name_en: "Henry LUMLEY"
-name_ja: ""
+name_ja: "Henry LUMLEY"
 slug: "henry-lumley"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

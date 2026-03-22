@@ -1,12 +1,12 @@
 ---
 title: "JJ VAN DER MESCHT"
 name_en: "JJ VAN DER MESCHT"
-name_ja: ""
+name_ja: "JJ VAN DER MESCHT"
 slug: "jj-van-der-mescht"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

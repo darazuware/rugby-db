@@ -1,7 +1,7 @@
 ---
-title: "Francois CROS | フランソワ-クロス"
+title: "Francois CROS"
 name_en: "Francois CROS"
-name_ja: "フランソワ-クロス"
+name_ja: "Francois CROS"
 slug: "francois-cros"
 position: "FL/NO8"
 height: "190.0"

@@ -1,12 +1,12 @@
 ---
 title: "Freddie ST JOHN"
 name_en: "Freddie ST JOHN"
-name_ja: ""
+name_ja: "Freddie ST JOHN"
 slug: "freddie-st-john"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

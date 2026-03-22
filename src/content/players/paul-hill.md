@@ -1,7 +1,7 @@
 ---
-title: "Paul HILL | ホール ヒル"
+title: "Paul HILL"
 name_en: "Paul HILL"
-name_ja: "ホール ヒル"
+name_ja: "Paul HILL"
 slug: "paul-hill"
 position: "PR"
 height: "189.0"

@@ -1,12 +1,12 @@
 ---
 title: "Mohamed MEGHERBI"
 name_en: "Mohamed MEGHERBI"
-name_ja: ""
+name_ja: "Mohamed MEGHERBI"
 slug: "mohamed-megherbi"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

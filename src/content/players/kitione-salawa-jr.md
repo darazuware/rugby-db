@@ -1,7 +1,7 @@
 ---
-title: "Kitione SALAWA JR | キティオネ-サラワ シュニア"
+title: "Kitione SALAWA JR"
 name_en: "Kitione SALAWA JR"
-name_ja: "キティオネ-サラワ シュニア"
+name_ja: "Kitione SALAWA JR"
 slug: "kitione-salawa-jr"
 position: "FL/No8"
 height: "192.0"

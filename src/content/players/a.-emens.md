@@ -1,12 +1,12 @@
 ---
 title: "A. Emens"
 name_en: "A. Emens"
-name_ja: ""
+name_ja: "A. Emens"
 slug: "a.-emens"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

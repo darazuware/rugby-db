@@ -1,7 +1,7 @@
 ---
 title: "Jack van Poortvliet"
 name_en: "Jack van Poortvliet"
-name_ja: ""
+name_ja: "Jack van Poortvliet"
 slug: "jack-van-poortvliet"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "England (16)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Guy PEPPER"
 name_en: "Guy PEPPER"
-name_ja: ""
+name_ja: "Guy PEPPER"
 slug: "guy-pepper"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

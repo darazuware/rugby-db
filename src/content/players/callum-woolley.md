@@ -6,7 +6,7 @@ slug: "callum-woolley"
 position: "Winger"
 height: "193.0"
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

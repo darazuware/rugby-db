@@ -1,7 +1,7 @@
 ---
-title: "Roberto FASTI | ロヘルト ファスティ"
+title: "Roberto FASTI"
 name_en: "Roberto FASTI"
-name_ja: "ロヘルト ファスティ"
+name_ja: "Roberto FASTI"
 slug: "roberto-fasti"
 position: "SO"
 height: "176.0"

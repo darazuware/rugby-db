@@ -1,12 +1,12 @@
 ---
 title: "Charlie EWELS"
 name_en: "Charlie EWELS"
-name_ja: ""
+name_ja: "Charlie EWELS"
 slug: "charlie-ewels"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 30
 country: ""
 birth_place_scraped: ""

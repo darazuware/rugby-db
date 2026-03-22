@@ -1,7 +1,7 @@
 ---
-title: "Piers O'CONOR | ヒアース オコナー"
+title: "Piers O'CONOR"
 name_en: "Piers O'CONOR"
-name_ja: "ヒアース オコナー"
+name_ja: "Piers O'CONOR"
 slug: "piers-o-conor"
 position: "CTB"
 height: "188.0"

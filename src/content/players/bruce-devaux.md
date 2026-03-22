@@ -1,7 +1,7 @@
 ---
-title: "Bruce DEVAUX | フルース トゥウォー"
+title: "Bruce DEVAUX"
 name_en: "Bruce DEVAUX"
-name_ja: "フルース トゥウォー"
+name_ja: "Bruce DEVAUX"
 slug: "bruce-devaux"
 position: "PR"
 height: "183.0"

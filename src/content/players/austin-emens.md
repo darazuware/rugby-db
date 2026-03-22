@@ -1,12 +1,12 @@
 ---
 title: "Austin EMENS"
 name_en: "Austin EMENS"
-name_ja: ""
+name_ja: "Austin EMENS"
 slug: "austin-emens"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

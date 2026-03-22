@@ -1,7 +1,7 @@
 ---
-title: "Edouard-Junior JABEA NJOCKE | エトゥアール=シュニア-シャヘア ニョッケ"
+title: "Edouard-Junior JABEA NJOCKE"
 name_en: "Edouard-Junior JABEA NJOCKE"
-name_ja: "エトゥアール=シュニア-シャヘア ニョッケ"
+name_ja: "Edouard-Junior JABEA NJOCKE"
 slug: "edouard-junior-jabea-njocke"
 position: "PR"
 height: "180.0"

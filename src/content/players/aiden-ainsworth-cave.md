@@ -1,12 +1,12 @@
 ---
 title: "Aiden AINSWORTH-CAVE"
 name_en: "Aiden AINSWORTH-CAVE"
-name_ja: ""
+name_ja: "Aiden AINSWORTH-CAVE"
 slug: "aiden-ainsworth-cave"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

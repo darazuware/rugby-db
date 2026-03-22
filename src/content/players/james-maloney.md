@@ -1,12 +1,12 @@
 ---
 title: "James MALONEY"
 name_en: "James MALONEY"
-name_ja: ""
+name_ja: "James MALONEY"
 slug: "james-maloney"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

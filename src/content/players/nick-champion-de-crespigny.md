@@ -1,7 +1,7 @@
 ---
-title: "Nick CHAMPION DE CRESPIGNY | ニック チャンヒオン テ クレスヒニー"
+title: "Nick CHAMPION DE CRESPIGNY"
 name_en: "Nick CHAMPION DE CRESPIGNY"
-name_ja: "ニック チャンヒオン テ クレスヒニー"
+name_ja: "Nick CHAMPION DE CRESPIGNY"
 slug: "nick-champion-de-crespigny"
 position: "FL/No8"
 height: "193.0"

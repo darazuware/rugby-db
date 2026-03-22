@@ -1,12 +1,12 @@
 ---
 title: "I. Davies"
 name_en: "I. Davies"
-name_ja: ""
+name_ja: "I. Davies"
 slug: "i.-davies"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

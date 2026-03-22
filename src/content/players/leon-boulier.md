@@ -1,7 +1,7 @@
 ---
-title: "Leon BOULIER | レオン フーリエ"
+title: "Leon BOULIER"
 name_en: "Leon BOULIER"
-name_ja: "レオン フーリエ"
+name_ja: "Leon BOULIER"
 slug: "leon-boulier"
 position: "FL/NO8"
 height: "193.0"

@@ -1,12 +1,12 @@
 ---
 title: "Hugo SOUBRE"
 name_en: "Hugo SOUBRE"
-name_ja: ""
+name_ja: "Hugo SOUBRE"
 slug: "hugo-soubre"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

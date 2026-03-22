@@ -1,7 +1,7 @@
 ---
-title: "Alex MOON | アレックス ムーン"
+title: "Alex MOON"
 name_en: "Alex MOON"
-name_ja: "アレックス ムーン"
+name_ja: "Alex MOON"
 slug: "alex-moon"
 position: "LO"
 height: "202.0"

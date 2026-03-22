@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rubiolo"
 name_en: "Pedro Rubiolo"
-name_ja: ""
+name_ja: "Pedro Rubiolo"
 slug: "pedro-rubiolo"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Argentina (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

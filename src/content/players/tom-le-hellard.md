@@ -1,12 +1,12 @@
 ---
 title: "Tom LE HELLARD"
 name_en: "Tom LE HELLARD"
-name_ja: ""
+name_ja: "Tom LE HELLARD"
 slug: "tom-le-hellard"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

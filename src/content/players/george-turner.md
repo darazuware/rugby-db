@@ -1,7 +1,7 @@
 ---
 title: "George Turner"
 name_en: "George Turner"
-name_ja: ""
+name_ja: "George Turner"
 slug: "george-turner"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "Scotland (40)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

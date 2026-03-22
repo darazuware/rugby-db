@@ -6,7 +6,7 @@ slug: "joseff-jones"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

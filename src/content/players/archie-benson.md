@@ -1,12 +1,12 @@
 ---
 title: "Archie BENSON"
 name_en: "Archie BENSON"
-name_ja: ""
+name_ja: "Archie BENSON"
 slug: "archie-benson"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

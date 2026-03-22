@@ -1,12 +1,12 @@
 ---
 title: "C. Doherty"
 name_en: "C. Doherty"
-name_ja: ""
+name_ja: "C. Doherty"
 slug: "c.-doherty"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

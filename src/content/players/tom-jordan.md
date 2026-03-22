@@ -1,7 +1,7 @@
 ---
 title: "Tom Jordan"
 name_en: "Tom Jordan"
-name_ja: ""
+name_ja: "Tom Jordan"
 slug: "tom-jordan"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Scotland (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

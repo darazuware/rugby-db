@@ -1,7 +1,7 @@
 ---
 title: "Tietie Tuimauga"
 name_en: "Tietie Tuimauga"
-name_ja: ""
+name_ja: "Tietie Tuimauga"
 slug: "tietie-tuimauga"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Jean-Charles DUPLEIX"
 name_en: "Jean-Charles DUPLEIX"
-name_ja: ""
+name_ja: "Jean-Charles DUPLEIX"
 slug: "jean-charles-dupleix"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

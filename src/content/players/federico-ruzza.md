@@ -1,7 +1,7 @@
 ---
-title: "Federico RUZZA | フェテリコ-ルッツァ"
+title: "Federico RUZZA"
 name_en: "Federico RUZZA"
-name_ja: "フェテリコ-ルッツァ"
+name_ja: "Federico RUZZA"
 slug: "federico-ruzza"
 position: "LO"
 height: "198.0"

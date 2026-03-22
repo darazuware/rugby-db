@@ -1,7 +1,7 @@
 ---
-title: "Joel MERKLER | ショエル メルクレール"
+title: "Joel MERKLER"
 name_en: "Joel MERKLER"
-name_ja: "ショエル メルクレール"
+name_ja: "Joel MERKLER"
 slug: "joel-merkler"
 position: "PR"
 height: "194.0"

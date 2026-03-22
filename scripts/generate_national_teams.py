@@ -90,18 +90,32 @@ def main():
             # 共通スラッグ生成
             slug = PlayerDataProcessor.generate_player_slug(name_en, i + 1, scraped_url)
             
+            # データの安全な取得
+            name_ja = PlayerDataProcessor.get_safe_attr(row, 'Full_Name')
+            if not name_ja:
+                name_ja = name_en
+
+            # 年齢の取得 (欠落していれば生年月日から算出)
+            age = PlayerDataProcessor.get_safe_attr(row, 'Age')
+            if not age or age == '':
+                dob = PlayerDataProcessor.get_safe_attr(row, 'Birth_Date')
+                if dob:
+                    calculated_age = PlayerDataProcessor.calculate_age(dob)
+                    if calculated_age:
+                        age = f"{calculated_age}.0"
+
             # マップ用のデータ構造
             player_entry = {
-                "name_ja": str(row.get('Full_Name', '')),
+                "name_ja": name_ja,
                 "name_en": name_en,
                 "slug": slug,
-                "position": str(row.get('Position', '')),
-                "team": str(row.get('Current_Team', '')),
-                "league": str(row.get('League', '')),
-                "caps": str(row.get('Representative_Caps', '0')),
-                "age": str(row.get('Age', '')),
-                "height": str(row.get('Height', '')),
-                "weight": str(row.get('Weight', ''))
+                "position": PlayerDataProcessor.get_safe_attr(row, 'Position'),
+                "team": PlayerDataProcessor.get_safe_attr(row, 'Current_Team'),
+                "league": PlayerDataProcessor.get_safe_attr(row, 'League'),
+                "caps": PlayerDataProcessor.get_safe_attr(row, 'Representative_Caps', '0'),
+                "age": age,
+                "height": PlayerDataProcessor.get_safe_attr(row, 'Height'),
+                "weight": PlayerDataProcessor.get_safe_attr(row, 'Weight')
             }
             
             national_players[target_id].append(player_entry)

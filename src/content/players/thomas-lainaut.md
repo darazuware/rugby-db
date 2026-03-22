@@ -1,7 +1,7 @@
 ---
-title: "Thomas LAINAULT | トマ レノー"
+title: "Thomas LAINAULT"
 name_en: "Thomas LAINAULT"
-name_ja: "トマ レノー"
+name_ja: "Thomas LAINAULT"
 slug: "thomas-lainaut"
 position: "LO"
 height: "197.0"

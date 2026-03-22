@@ -1,7 +1,7 @@
 ---
-title: "Josh NASSER | ショシュ ナッサー"
+title: "Josh NASSER"
 name_en: "Josh NASSER"
-name_ja: "ショシュ ナッサー"
+name_ja: "Josh NASSER"
 slug: "josh-nasser"
 position: "HO"
 height: "189.0"

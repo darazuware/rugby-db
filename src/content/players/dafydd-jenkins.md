@@ -1,7 +1,7 @@
 ---
 title: "Dafydd Jenkins"
 name_en: "Dafydd Jenkins"
-name_ja: ""
+name_ja: "Dafydd Jenkins"
 slug: "dafydd-jenkins"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Wales (19)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

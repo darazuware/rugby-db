@@ -1,7 +1,7 @@
 ---
-title: "Malachi WRAMPLING-ALEC | マラカイ ランフリンク=アレック"
+title: "Malachi WRAMPLING-ALEC"
 name_en: "Malachi WRAMPLING-ALEC"
-name_ja: "マラカイ ランフリンク=アレック"
+name_ja: "Malachi WRAMPLING-ALEC"
 slug: "malachi-wrampling-alec"
 position: "FL/No8"
 height: "192.0"

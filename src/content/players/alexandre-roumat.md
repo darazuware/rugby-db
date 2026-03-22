@@ -1,7 +1,7 @@
 ---
-title: "Alexandre ROUMAT | アレクサントル-ルマ"
+title: "Alexandre ROUMAT"
 name_en: "Alexandre ROUMAT"
-name_ja: "アレクサントル-ルマ"
+name_ja: "Alexandre ROUMAT"
 slug: "alexandre-roumat"
 position: "FL/NO8"
 height: "198.0"

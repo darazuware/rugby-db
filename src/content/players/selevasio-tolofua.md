@@ -1,7 +1,7 @@
 ---
-title: "Selevasio TOLOFUA | セレウァシオ トロフア"
+title: "Selevasio TOLOFUA"
 name_en: "Selevasio TOLOFUA"
-name_ja: "セレウァシオ トロフア"
+name_ja: "Selevasio TOLOFUA"
 slug: "selevasio-tolofua"
 position: "FL/NO8"
 height: "186.0"

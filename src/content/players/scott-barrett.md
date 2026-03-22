@@ -1,7 +1,7 @@
 ---
-title: "Scott BARRETT | スコット ハレット"
+title: "Scott BARRETT"
 name_en: "Scott BARRETT"
-name_ja: "スコット ハレット"
+name_ja: "Scott BARRETT"
 slug: "scott-barrett"
 position: "LO"
 height: "197.0"

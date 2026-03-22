@@ -1,7 +1,7 @@
 ---
 title: "Amanaki Mafi"
 name_en: "Amanaki Mafi"
-name_ja: ""
+name_ja: "Amanaki Mafi"
 slug: "amanaki-mafi"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: "Squad caps (1016)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "S. Dugdale"
 name_en: "S. Dugdale"
-name_ja: ""
+name_ja: "S. Dugdale"
 slug: "s.-dugdale"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

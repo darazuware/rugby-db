@@ -1,7 +1,7 @@
 ---
-title: "Jaco VAN TONDER | ヤコ ファン トンター"
+title: "Jaco VAN TONDER"
 name_en: "Jaco VAN TONDER"
-name_ja: "ヤコ ファン トンター"
+name_ja: "Jaco VAN TONDER"
 slug: "jaco-van-tonder"
 position: "FL/NO8"
 height: "197.0"

@@ -1,7 +1,7 @@
 ---
-title: "Gael FICKOU | カエル-フィクー"
+title: "Gael FICKOU"
 name_en: "Gael FICKOU"
-name_ja: "カエル-フィクー"
+name_ja: "Gael FICKOU"
 slug: "gael-fickou"
 position: "CTB"
 height: "190.0"

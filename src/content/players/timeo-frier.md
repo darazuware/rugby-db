@@ -1,7 +1,7 @@
 ---
-title: "Timeo FRIER | ティメオ フリエ"
+title: "Timeo FRIER"
 name_en: "Timeo FRIER"
-name_ja: "ティメオ フリエ"
+name_ja: "Timeo FRIER"
 slug: "timeo-frier"
 position: "CTB"
 height: "188.0"

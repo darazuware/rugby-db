@@ -1,7 +1,7 @@
 ---
-title: "Giacomo NICOTERA | シャコモ-ニコテラ"
+title: "Giacomo NICOTERA"
 name_en: "Giacomo NICOTERA"
-name_ja: "シャコモ-ニコテラ"
+name_ja: "Giacomo NICOTERA"
 slug: "giacomo-nicotera"
 position: "HO"
 height: "183.0"

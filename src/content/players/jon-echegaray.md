@@ -1,7 +1,7 @@
 ---
-title: "Jon ECHEGARAY | ション エチェカライ"
+title: "Jon ECHEGARAY"
 name_en: "Jon ECHEGARAY"
-name_ja: "ション エチェカライ"
+name_ja: "Jon ECHEGARAY"
 slug: "jon-echegaray"
 position: "FB"
 height: "184.0"

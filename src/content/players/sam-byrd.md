@@ -1,7 +1,7 @@
 ---
-title: "Sam BYRD | サム ハート"
+title: "Sam BYRD"
 name_en: "Sam BYRD"
-name_ja: "サム ハート"
+name_ja: "Sam BYRD"
 slug: "sam-byrd"
 position: "LO"
 height: "198.0"

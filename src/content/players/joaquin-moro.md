@@ -1,7 +1,7 @@
 ---
 title: "Joaquin Moro"
 name_en: "Joaquin Moro"
-name_ja: ""
+name_ja: "Joaquin Moro"
 slug: "joaquin-moro"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

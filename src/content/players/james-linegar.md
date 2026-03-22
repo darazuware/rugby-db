@@ -1,12 +1,12 @@
 ---
 title: "James LINEGAR"
 name_en: "James LINEGAR"
-name_ja: ""
+name_ja: "James LINEGAR"
 slug: "james-linegar"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

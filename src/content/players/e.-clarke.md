@@ -1,12 +1,12 @@
 ---
 title: "E. Clarke"
 name_en: "E. Clarke"
-name_ja: ""
+name_ja: "E. Clarke"
 slug: "e.-clarke"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

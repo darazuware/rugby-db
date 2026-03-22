@@ -1,12 +1,12 @@
 ---
 title: "Chris HARRIS"
 name_en: "Chris HARRIS"
-name_ja: ""
+name_ja: "Chris HARRIS"
 slug: "chris-harris"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 35
 country: ""
 birth_place_scraped: ""

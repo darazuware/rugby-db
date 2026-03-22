@@ -6,7 +6,7 @@ slug: "sion-jones"
 position: "FB"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

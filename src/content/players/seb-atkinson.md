@@ -1,7 +1,7 @@
 ---
 title: "Seb Atkinson"
 name_en: "Seb Atkinson"
-name_ja: ""
+name_ja: "Seb Atkinson"
 slug: "seb-atkinson"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

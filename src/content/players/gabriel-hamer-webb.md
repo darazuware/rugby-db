@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Hamer-Webb"
 name_en: "Gabriel Hamer-Webb"
-name_ja: ""
+name_ja: "Gabriel Hamer-Webb"
 slug: "gabriel-hamer-webb"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

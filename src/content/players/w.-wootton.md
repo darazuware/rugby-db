@@ -1,12 +1,12 @@
 ---
 title: "W. Wootton"
 name_en: "W. Wootton"
-name_ja: ""
+name_ja: "W. Wootton"
 slug: "w.-wootton"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

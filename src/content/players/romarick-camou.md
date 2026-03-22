@@ -1,7 +1,7 @@
 ---
-title: "Romaric CAMOU | ロマリック カム"
+title: "Romaric CAMOU"
 name_en: "Romaric CAMOU"
-name_ja: "ロマリック カム"
+name_ja: "Romaric CAMOU"
 slug: "romarick-camou"
 position: "WTB"
 height: "174.0"

@@ -1,7 +1,7 @@
 ---
 title: "AJ MacGinty"
 name_en: "AJ MacGinty"
-name_ja: ""
+name_ja: "AJ MacGinty"
 slug: "aj-macginty"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "United States (24)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

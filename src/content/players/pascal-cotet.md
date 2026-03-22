@@ -1,7 +1,7 @@
 ---
-title: "Pascal COTET | ハスカル コテ"
+title: "Pascal COTET"
 name_en: "Pascal COTET"
-name_ja: "ハスカル コテ"
+name_ja: "Pascal COTET"
 slug: "pascal-cotet"
 position: "PR"
 height: "184.0"

@@ -1,12 +1,12 @@
 ---
 title: "Thomas DU TOIT"
 name_en: "Thomas DU TOIT"
-name_ja: ""
+name_ja: "Thomas DU TOIT"
 slug: "thomas-du-toit"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 30
 country: ""
 birth_place_scraped: ""

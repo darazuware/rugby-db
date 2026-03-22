@@ -1,12 +1,12 @@
 ---
 title: "Rayane BENHERROU"
 name_en: "Rayane BENHERROU"
-name_ja: ""
+name_ja: "Rayane BENHERROU"
 slug: "rayane-benherrou"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

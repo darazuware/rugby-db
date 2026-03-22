@@ -1,7 +1,7 @@
 ---
-title: "Jonny GRAY | ショニー クレイ"
+title: "Jonny GRAY"
 name_en: "Jonny GRAY"
-name_ja: "ショニー クレイ"
+name_ja: "Jonny GRAY"
 slug: "jonny-gray"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lucas TAUZIN | ルカス トサン"
+title: "Lucas TAUZIN"
 name_en: "Lucas TAUZIN"
-name_ja: "ルカス トサン"
+name_ja: "Lucas TAUZIN"
 slug: "lucas-tauzin"
 position: "WTB"
 height: "187.0"

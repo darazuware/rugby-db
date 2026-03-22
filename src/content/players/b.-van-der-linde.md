@@ -1,12 +1,12 @@
 ---
 title: "B. van der Linde"
 name_en: "B. van der Linde"
-name_ja: ""
+name_ja: "B. van der Linde"
 slug: "b.-van-der-linde"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

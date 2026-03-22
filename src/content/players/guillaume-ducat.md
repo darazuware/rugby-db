@@ -1,7 +1,7 @@
 ---
-title: "Guillaume DUCAT | キヨーム テュカ"
+title: "Guillaume DUCAT"
 name_en: "Guillaume DUCAT"
-name_ja: "キヨーム テュカ"
+name_ja: "Guillaume DUCAT"
 slug: "guillaume-ducat"
 position: "LO"
 height: "204.0"

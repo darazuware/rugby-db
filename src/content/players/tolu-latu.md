@@ -1,7 +1,7 @@
 ---
-title: "Tolu LATU | トル ラトゥ"
+title: "Tolu LATU"
 name_en: "Tolu LATU"
-name_ja: "トル ラトゥ"
+name_ja: "Tolu LATU"
 slug: "tolu-latu"
 position: "HO"
 height: "180.0"

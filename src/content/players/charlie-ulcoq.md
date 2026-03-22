@@ -1,12 +1,12 @@
 ---
 title: "Charlie ULCOQ"
 name_en: "Charlie ULCOQ"
-name_ja: ""
+name_ja: "Charlie ULCOQ"
 slug: "charlie-ulcoq"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

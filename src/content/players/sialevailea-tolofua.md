@@ -1,12 +1,12 @@
 ---
 title: "Sialevailea TOLOFUA"
 name_en: "Sialevailea TOLOFUA"
-name_ja: ""
+name_ja: "Sialevailea TOLOFUA"
 slug: "sialevailea-tolofua"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

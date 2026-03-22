@@ -1,12 +1,12 @@
 ---
 title: "W. Trenholm"
 name_en: "W. Trenholm"
-name_ja: ""
+name_ja: "W. Trenholm"
 slug: "w.-trenholm"
 position: "No. 8"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

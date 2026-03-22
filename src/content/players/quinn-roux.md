@@ -1,12 +1,12 @@
 ---
 title: "Quinn ROUX"
 name_en: "Quinn ROUX"
-name_ja: ""
+name_ja: "Quinn ROUX"
 slug: "quinn-roux"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 35
 country: ""
 birth_place_scraped: ""

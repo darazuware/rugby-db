@@ -1,12 +1,12 @@
 ---
 title: "Valentin DELPY"
 name_en: "Valentin DELPY"
-name_ja: ""
+name_ja: "Valentin DELPY"
 slug: "valentin-delpy"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

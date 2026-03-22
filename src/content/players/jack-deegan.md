@@ -6,7 +6,7 @@ slug: "jack-deegan"
 position: "CTB"
 height: "188.0"
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Tupou MA'AFU-AFUNGIA | トゥホウ マアフ=アフンキア"
+title: "Tupou MA'AFU-AFUNGIA"
 name_en: "Tupou MA'AFU-AFUNGIA"
-name_ja: "トゥホウ マアフ=アフンキア"
+name_ja: "Tupou MA'AFU-AFUNGIA"
 slug: "tupou-ma-afu-afungia"
 position: "FL/No8"
 height: "187.0"

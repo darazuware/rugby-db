@@ -1,12 +1,12 @@
 ---
 title: "M. Pepper"
 name_en: "M. Pepper"
-name_ja: ""
+name_ja: "M. Pepper"
 slug: "m.-pepper"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

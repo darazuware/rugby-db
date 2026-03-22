@@ -1,12 +1,12 @@
 ---
 title: "Lomig JOUANNY"
 name_en: "Lomig JOUANNY"
-name_ja: ""
+name_ja: "Lomig JOUANNY"
 slug: "lomig-jouanny"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

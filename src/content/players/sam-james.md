@@ -1,7 +1,7 @@
 ---
-title: "Sam JAMES | サム シェームス"
+title: "Sam JAMES"
 name_en: "Sam JAMES"
-name_ja: "サム シェームス"
+name_ja: "Sam JAMES"
 slug: "sam-james"
 position: "CTB"
 height: "195.0"

@@ -1,7 +1,7 @@
 ---
-title: "Mikheil ALANIA | ミハイル アラニア"
+title: "Mikheil ALANIA"
 name_en: "Mikheil ALANIA"
-name_ja: "ミハイル アラニア"
+name_ja: "Mikheil ALANIA"
 slug: "mikehil-alania"
 position: "SH"
 height: "180.0"

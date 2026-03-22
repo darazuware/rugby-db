@@ -1,12 +1,12 @@
 ---
 title: "Neil LE ROUX"
 name_en: "Neil LE ROUX"
-name_ja: ""
+name_ja: "Neil LE ROUX"
 slug: "neil-le-roux"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

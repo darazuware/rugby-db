@@ -1,7 +1,7 @@
 ---
-title: "Anthony JELONCH | アントニー-シュロンシュ"
+title: "Anthony JELONCH"
 name_en: "Anthony JELONCH"
-name_ja: "アントニー-シュロンシュ"
+name_ja: "Anthony JELONCH"
 slug: "anthony-jelonch"
 position: "FL/NO8"
 height: "195.0"

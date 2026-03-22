@@ -1,7 +1,7 @@
 ---
-title: "Riko BULIRUARUA | リコ フリルアルア"
+title: "Riko BULIRUARUA"
 name_en: "Riko BULIRUARUA"
-name_ja: "リコ フリルアルア"
+name_ja: "Riko BULIRUARUA"
 slug: "rico-buliruarua"
 position: "CTB"
 height: "186.0"

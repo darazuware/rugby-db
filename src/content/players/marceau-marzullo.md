@@ -1,12 +1,12 @@
 ---
 title: "Marceau MARZULLO"
 name_en: "Marceau MARZULLO"
-name_ja: ""
+name_ja: "Marceau MARZULLO"
 slug: "marceau-marzullo"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

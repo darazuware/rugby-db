@@ -1,7 +1,7 @@
 ---
-title: "Leroy CARTER | ルロイ カーター"
+title: "Leroy CARTER"
 name_en: "Leroy CARTER"
-name_ja: "ルロイ カーター"
+name_ja: "Leroy CARTER"
 slug: "leroy-carter"
 position: "WTB"
 height: "176.0"

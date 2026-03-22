@@ -1,7 +1,7 @@
 ---
-title: "Chris APOUA | クリス アホウア"
+title: "Chris APOUA"
 name_en: "Chris APOUA"
-name_ja: "クリス アホウア"
+name_ja: "Chris APOUA"
 slug: "chris-apoua"
 position: "PR"
 height: "186.0"

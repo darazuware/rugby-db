@@ -1,7 +1,7 @@
 ---
-title: "Brett CAMERON | フレット-キャメロン"
+title: "Brett CAMERON"
 name_en: "Brett CAMERON"
-name_ja: "フレット-キャメロン"
+name_ja: "Brett CAMERON"
 slug: "brett-cameron"
 position: "SO"
 height: "175.0"

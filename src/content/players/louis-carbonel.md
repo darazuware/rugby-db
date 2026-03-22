@@ -1,7 +1,7 @@
 ---
-title: "Louis CARBONEL | ルイ カルホネル"
+title: "Louis CARBONEL"
 name_en: "Louis CARBONEL"
-name_ja: "ルイ カルホネル"
+name_ja: "Louis CARBONEL"
 slug: "louis-carbonel"
 position: "SO"
 height: "180.0"

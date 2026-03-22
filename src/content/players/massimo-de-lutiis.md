@@ -1,7 +1,7 @@
 ---
-title: "Massimo DE LUTIIS | マッシモ テ ルティイス"
+title: "Massimo DE LUTIIS"
 name_en: "Massimo DE LUTIIS"
-name_ja: "マッシモ テ ルティイス"
+name_ja: "Massimo DE LUTIIS"
 slug: "massimo-de-lutiis"
 position: "PR"
 height: "188.0"

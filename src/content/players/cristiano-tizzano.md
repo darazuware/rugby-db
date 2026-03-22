@@ -1,7 +1,7 @@
 ---
-title: "Cristiano TIZZANO | クリスティアーノ ティッツァーノ"
+title: "Cristiano TIZZANO"
 name_en: "Cristiano TIZZANO"
-name_ja: "クリスティアーノ ティッツァーノ"
+name_ja: "Cristiano TIZZANO"
 slug: "cristiano-tizzano"
 position: "SH"
 height: "174.0"

@@ -1,7 +1,7 @@
 ---
-title: "Meli TUNI | メリ ツイ"
+title: "Meli TUNI"
 name_en: "Meli TUNI"
-name_ja: "メリ ツイ"
+name_ja: "Meli TUNI"
 slug: "meli-tuni"
 position: "PR"
 height: "184.0"

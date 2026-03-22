@@ -1,12 +1,12 @@
 ---
 title: "Marco MANFREDI"
 name_en: "Marco MANFREDI"
-name_ja: ""
+name_ja: "Marco MANFREDI"
 slug: "marco-manfredi"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

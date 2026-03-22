@@ -1,12 +1,12 @@
 ---
 title: "Connor TREACEY"
 name_en: "Connor TREACEY"
-name_ja: ""
+name_ja: "Connor TREACEY"
 slug: "connor-treacey"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "Hugo IBRES"
 name_en: "Hugo IBRES"
-name_ja: ""
+name_ja: "Hugo IBRES"
 slug: "hugo-ibres"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

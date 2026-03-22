@@ -1,7 +1,7 @@
 ---
 title: "Ollie Hassell-Collins"
 name_en: "Ollie Hassell-Collins"
-name_ja: ""
+name_ja: "Ollie Hassell-Collins"
 slug: "ollie-hassell-collins"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

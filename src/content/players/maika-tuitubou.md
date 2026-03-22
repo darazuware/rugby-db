@@ -1,7 +1,7 @@
 ---
-title: "Maika TUITUBOU | マイカ ツイツホウ"
+title: "Maika TUITUBOU"
 name_en: "Maika TUITUBOU"
-name_ja: "マイカ ツイツホウ"
+name_ja: "Maika TUITUBOU"
 slug: "maika-tuitubou"
 position: "CTB"
 height: "180.0"

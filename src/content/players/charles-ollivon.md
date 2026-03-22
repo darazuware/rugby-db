@@ -1,7 +1,7 @@
 ---
-title: "Charles OLLIVON | シャルル-オリウォン"
+title: "Charles OLLIVON"
 name_en: "Charles OLLIVON"
-name_ja: "シャルル-オリウォン"
+name_ja: "Charles OLLIVON"
 slug: "charles-ollivon"
 position: "FL/NO8"
 height: "199.0"

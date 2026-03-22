@@ -1,7 +1,7 @@
 ---
-title: "Shingi MANYARARA | シンシ マニャララ"
+title: "Shingi MANYARARA"
 name_en: "Shingi MANYARARA"
-name_ja: "シンシ マニャララ"
+name_ja: "Shingi MANYARARA"
 slug: "shingirai-manyarara"
 position: "FL/NO8"
 height: "185.0"

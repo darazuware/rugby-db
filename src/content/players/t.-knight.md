@@ -1,12 +1,12 @@
 ---
 title: "T. Knight"
 name_en: "T. Knight"
-name_ja: ""
+name_ja: "T. Knight"
 slug: "t.-knight"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

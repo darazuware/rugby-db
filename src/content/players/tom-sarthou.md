@@ -1,7 +1,7 @@
 ---
-title: "Tom SARTHOU | トム サルトゥ"
+title: "Tom SARTHOU"
 name_en: "Tom SARTHOU"
-name_ja: "トム サルトゥ"
+name_ja: "Tom SARTHOU"
 slug: "tom-sarthou"
 position: "HO"
 height: ""

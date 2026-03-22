@@ -1,12 +1,12 @@
 ---
 title: "Sam WINTERS"
 name_en: "Sam WINTERS"
-name_ja: ""
+name_ja: "Sam WINTERS"
 slug: "sam-winters"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

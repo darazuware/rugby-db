@@ -1,12 +1,12 @@
 ---
-title: "Henry Tasesa VOLKMAN | ヘンリー タセサ ウォルクマン"
+title: "Henry Tasesa VOLKMAN"
 name_en: "Henry Tasesa VOLKMAN"
-name_ja: "ヘンリー タセサ ウォルクマン"
+name_ja: "Henry Tasesa VOLKMAN"
 slug: "henry-tasesa-volkman"
 position: "LO"
 height: "200.0"
 weight: "125.0"
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
 title: "Matias Alemanno"
 name_en: "Matias Alemanno"
-name_ja: ""
+name_ja: "Matias Alemanno"
 slug: "matias-alemanno"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

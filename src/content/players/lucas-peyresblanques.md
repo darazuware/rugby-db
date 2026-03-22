@@ -1,7 +1,7 @@
 ---
-title: "Lucas PEYRESBLANQUES | ルカス ヘレスフランク"
+title: "Lucas PEYRESBLANQUES"
 name_en: "Lucas PEYRESBLANQUES"
-name_ja: "ルカス ヘレスフランク"
+name_ja: "Lucas PEYRESBLANQUES"
 slug: "lucas-peyresblanques"
 position: "HO"
 height: "181.0"

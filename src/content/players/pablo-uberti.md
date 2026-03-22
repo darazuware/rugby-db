@@ -1,7 +1,7 @@
 ---
-title: "Pablo UBERTI | ハフロ ウヘルティ"
+title: "Pablo UBERTI"
 name_en: "Pablo UBERTI"
-name_ja: "ハフロ ウヘルティ"
+name_ja: "Pablo UBERTI"
 slug: "pablo-uberti"
 position: "CTB"
 height: "185.0"

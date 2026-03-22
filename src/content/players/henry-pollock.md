@@ -1,12 +1,12 @@
 ---
 title: "Henry POLLOCK"
 name_en: "Henry POLLOCK"
-name_ja: ""
+name_ja: "Henry POLLOCK"
 slug: "henry-pollock"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

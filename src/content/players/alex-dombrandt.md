@@ -1,7 +1,7 @@
 ---
 title: "Alex Dombrandt"
 name_en: "Alex Dombrandt"
-name_ja: ""
+name_ja: "Alex Dombrandt"
 slug: "alex-dombrandt"
 position: "No. 8"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "England (20)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

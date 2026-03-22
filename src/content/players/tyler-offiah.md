@@ -1,12 +1,12 @@
 ---
 title: "Tyler OFFIAH"
 name_en: "Tyler OFFIAH"
-name_ja: ""
+name_ja: "Tyler OFFIAH"
 slug: "tyler-offiah"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

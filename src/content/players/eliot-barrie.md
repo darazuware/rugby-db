@@ -1,12 +1,12 @@
 ---
 title: "Eliot BARRIE"
 name_en: "Eliot BARRIE"
-name_ja: ""
+name_ja: "Eliot BARRIE"
 slug: "eliot-barrie"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Ave MAALO | アウェ マーロ"
+title: "Ave MAALO"
 name_en: "Ave MAALO"
-name_ja: "アウェ マーロ"
+name_ja: "Ave MAALO"
 slug: "ave-maalo"
 position: "PR"
 height: "189.0"

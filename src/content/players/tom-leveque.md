@@ -1,7 +1,7 @@
 ---
-title: "Tom LEVEQUE | トム レウェック"
+title: "Tom LEVEQUE"
 name_en: "Tom LEVEQUE"
-name_ja: "トム レウェック"
+name_ja: "Tom LEVEQUE"
 slug: "tom-leveque"
 position: "WTB"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
-title: "Magnus BRADBURY | マクナス フラットヘリー"
+title: "Magnus BRADBURY"
 name_en: "Magnus BRADBURY"
-name_ja: "マクナス フラットヘリー"
+name_ja: "Magnus BRADBURY"
 slug: "magnus-bradbury"
 position: "FL/No8"
 height: "191.0"

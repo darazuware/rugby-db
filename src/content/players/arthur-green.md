@@ -1,12 +1,12 @@
 ---
 title: "Arthur GREEN"
 name_en: "Arthur GREEN"
-name_ja: ""
+name_ja: "Arthur GREEN"
 slug: "arthur-green"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

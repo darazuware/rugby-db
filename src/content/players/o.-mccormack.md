@@ -1,12 +1,12 @@
 ---
 title: "O. McCormack"
 name_en: "O. McCormack"
-name_ja: ""
+name_ja: "O. McCormack"
 slug: "o.-mccormack"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Ed PROWSE"
 name_en: "Ed PROWSE"
-name_ja: ""
+name_ja: "Ed PROWSE"
 slug: "ed-prowse"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

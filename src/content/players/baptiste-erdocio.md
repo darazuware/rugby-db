@@ -1,7 +1,7 @@
 ---
-title: "Baptiste ERDOCIO | ハティスト エルトシオ"
+title: "Baptiste ERDOCIO"
 name_en: "Baptiste ERDOCIO"
-name_ja: "ハティスト エルトシオ"
+name_ja: "Baptiste ERDOCIO"
 slug: "baptiste-erdocio"
 position: "PR"
 height: "175.0"

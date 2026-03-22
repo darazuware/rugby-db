@@ -1,7 +1,7 @@
 ---
 title: "Nicky Smith"
 name_en: "Nicky Smith"
-name_ja: ""
+name_ja: "Nicky Smith"
 slug: "nicky-smith"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Wales (49)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Fletcher NEWELL | フレッチャー-ニューウェル"
+title: "Fletcher NEWELL"
 name_en: "Fletcher NEWELL"
-name_ja: "フレッチャー-ニューウェル"
+name_ja: "Fletcher NEWELL"
 slug: "fletcher-newell"
 position: "PR"
 height: "186.0"

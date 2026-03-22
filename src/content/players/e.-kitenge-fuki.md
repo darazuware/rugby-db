@@ -1,12 +1,12 @@
 ---
 title: "E. Kitenge-Fuki"
 name_en: "E. Kitenge-Fuki"
-name_ja: ""
+name_ja: "E. Kitenge-Fuki"
 slug: "e.-kitenge-fuki"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

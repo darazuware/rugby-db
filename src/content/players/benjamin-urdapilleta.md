@@ -1,7 +1,7 @@
 ---
-title: "Benjamin URDAPILLETA | ヘンシャミン-ウルタヒレッタ"
+title: "Benjamin URDAPILLETA"
 name_en: "Benjamin URDAPILLETA"
-name_ja: "ヘンシャミン-ウルタヒレッタ"
+name_ja: "Benjamin URDAPILLETA"
 slug: "benjamin-urdapilleta"
 position: "SO"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Tanielu TELE'A | タニエル テレア"
+title: "Tanielu TELE'A"
 name_en: "Tanielu TELE'A"
-name_ja: "タニエル テレア"
+name_ja: "Tanielu TELE'A"
 slug: "tanielu-tele-a"
 position: "CTB"
 height: "187.0"

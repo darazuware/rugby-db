@@ -1,12 +1,12 @@
 ---
 title: "Jack LEWIS"
 name_en: "Jack LEWIS"
-name_ja: ""
+name_ja: "Jack LEWIS"
 slug: "jack-lewis"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

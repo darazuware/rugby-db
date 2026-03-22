@@ -1,12 +1,12 @@
 ---
 title: "C. Griffin"
 name_en: "C. Griffin"
-name_ja: ""
+name_ja: "C. Griffin"
 slug: "c.-griffin"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

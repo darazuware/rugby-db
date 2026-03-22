@@ -1,7 +1,7 @@
 ---
 title: "Izaia Perese"
 name_en: "Izaia Perese"
-name_ja: ""
+name_ja: "Izaia Perese"
 slug: "izaia-perese"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Australia (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

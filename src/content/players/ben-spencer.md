@@ -1,12 +1,12 @@
 ---
 title: "Ben SPENCER"
 name_en: "Ben SPENCER"
-name_ja: ""
+name_ja: "Ben SPENCER"
 slug: "ben-spencer"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 33
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "Jack VAS"
 name_en: "Jack VAS"
-name_ja: ""
+name_ja: "Jack VAS"
 slug: "jack-vas"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

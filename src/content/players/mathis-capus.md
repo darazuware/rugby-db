@@ -1,12 +1,12 @@
 ---
 title: "Mathis CAPUS"
 name_en: "Mathis CAPUS"
-name_ja: ""
+name_ja: "Mathis CAPUS"
 slug: "mathis-capus"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

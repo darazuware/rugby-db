@@ -1,12 +1,12 @@
 ---
 title: "B. Sela"
 name_en: "B. Sela"
-name_ja: ""
+name_ja: "B. Sela"
 slug: "b.-sela"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

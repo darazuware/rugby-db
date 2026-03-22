@@ -1,7 +1,7 @@
 ---
 title: "Owen Farrell"
 name_en: "Owen Farrell"
-name_ja: ""
+name_ja: "Owen Farrell"
 slug: "owen-farrell"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "England (107)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

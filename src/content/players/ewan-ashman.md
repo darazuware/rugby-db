@@ -1,7 +1,7 @@
 ---
-title: "Ewan ASHMAN | ユアン-アシュマン"
+title: "Ewan ASHMAN"
 name_en: "Ewan ASHMAN"
-name_ja: "ユアン-アシュマン"
+name_ja: "Ewan ASHMAN"
 slug: "ewan-ashman"
 position: "HO"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Paul GRAOU | ホール クラウ"
+title: "Paul GRAOU"
 name_en: "Paul GRAOU"
-name_ja: "ホール クラウ"
+name_ja: "Paul GRAOU"
 slug: "paul-graou"
 position: "SH"
 height: "177.0"

@@ -1,12 +1,12 @@
 ---
 title: "A. Scott-Young"
 name_en: "A. Scott-Young"
-name_ja: ""
+name_ja: "A. Scott-Young"
 slug: "a.-scott-young"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

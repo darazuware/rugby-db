@@ -1,7 +1,7 @@
 ---
-title: "Herschel JANTJIES | ハーシェル-ヤンキース"
+title: "Herschel JANTJIES"
 name_en: "Herschel JANTJIES"
-name_ja: "ハーシェル-ヤンキース"
+name_ja: "Herschel JANTJIES"
 slug: "herschel-jantjies"
 position: "SH"
 height: "167.0"

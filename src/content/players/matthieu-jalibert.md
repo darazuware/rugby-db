@@ -1,7 +1,7 @@
 ---
-title: "Matthieu JALIBERT | マチュー シャリヘール"
+title: "Matthieu JALIBERT"
 name_en: "Matthieu JALIBERT"
-name_ja: "マチュー シャリヘール"
+name_ja: "Matthieu JALIBERT"
 slug: "matthieu-jalibert"
 position: "SO"
 height: "184.0"

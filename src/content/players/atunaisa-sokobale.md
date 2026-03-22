@@ -1,7 +1,7 @@
 ---
-title: "Atunaisa SOKOBALE | アツナイサ ソコハレ"
+title: "Atunaisa SOKOBALE"
 name_en: "Atunaisa SOKOBALE"
-name_ja: "アツナイサ ソコハレ"
+name_ja: "Atunaisa SOKOBALE"
 slug: "atunaisa-sokobale"
 position: "PR"
 height: "189.0"

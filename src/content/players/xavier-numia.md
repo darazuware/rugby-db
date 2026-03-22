@@ -1,7 +1,7 @@
 ---
-title: "Xavier NUMIA | サヒエル ヌミア"
+title: "Xavier NUMIA"
 name_en: "Xavier NUMIA"
-name_ja: "サヒエル ヌミア"
+name_ja: "Xavier NUMIA"
 slug: "xavier-numia"
 position: "PR"
 height: "189.0"

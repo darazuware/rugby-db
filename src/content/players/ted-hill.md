@@ -1,12 +1,12 @@
 ---
 title: "Ted HILL"
 name_en: "Ted HILL"
-name_ja: ""
+name_ja: "Ted HILL"
 slug: "ted-hill"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

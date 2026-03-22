@@ -1,12 +1,12 @@
 ---
 title: "Thomas ALARY"
 name_en: "Thomas ALARY"
-name_ja: ""
+name_ja: "Thomas ALARY"
 slug: "thomas-alary"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

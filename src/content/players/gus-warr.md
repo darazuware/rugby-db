@@ -1,7 +1,7 @@
 ---
 title: "Gus Warr"
 name_en: "Gus Warr"
-name_ja: ""
+name_ja: "Gus Warr"
 slug: "gus-warr"
 position: "Scrum-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

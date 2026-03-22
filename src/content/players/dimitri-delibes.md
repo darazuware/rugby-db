@@ -1,7 +1,7 @@
 ---
-title: "Dimitri DELIBES | ティミトリ トリーフ"
+title: "Dimitri DELIBES"
 name_en: "Dimitri DELIBES"
-name_ja: "ティミトリ トリーフ"
+name_ja: "Dimitri DELIBES"
 slug: "dimitri-delibes"
 position: "WTB"
 height: "190.0"

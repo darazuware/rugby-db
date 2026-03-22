@@ -1,7 +1,7 @@
 ---
-title: "Ronan LEAHY | ロナン リーヒー"
+title: "Ronan LEAHY"
 name_en: "Ronan LEAHY"
-name_ja: "ロナン リーヒー"
+name_ja: "Ronan LEAHY"
 slug: "ronan-leahy"
 position: "WTB"
 height: "188.0"

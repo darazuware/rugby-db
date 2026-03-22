@@ -1,7 +1,7 @@
 ---
-title: "Diego JURD | ティエコ シャート"
+title: "Diego JURD"
 name_en: "Diego JURD"
-name_ja: "ティエコ シャート"
+name_ja: "Diego JURD"
 slug: "diego-jurd"
 position: "SO"
 height: "184.0"

@@ -1,12 +1,12 @@
 ---
 title: "D. Frost"
 name_en: "D. Frost"
-name_ja: ""
+name_ja: "D. Frost"
 slug: "d.-frost"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

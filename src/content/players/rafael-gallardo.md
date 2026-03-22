@@ -1,12 +1,12 @@
 ---
 title: "Rafael GALLARDO"
 name_en: "Rafael GALLARDO"
-name_ja: ""
+name_ja: "Rafael GALLARDO"
 slug: "rafael-gallardo"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

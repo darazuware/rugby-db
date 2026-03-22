@@ -1,7 +1,7 @@
 ---
-title: "Max SPRING | マックス スフリンク"
+title: "Max SPRING"
 name_en: "Max SPRING"
-name_ja: "マックス スフリンク"
+name_ja: "Max SPRING"
 slug: "max-spring"
 position: "FB"
 height: "173.0"

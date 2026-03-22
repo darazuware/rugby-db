@@ -1,7 +1,7 @@
 ---
 title: "Theo Dan"
 name_en: "Theo Dan"
-name_ja: ""
+name_ja: "Theo Dan"
 slug: "theo-dan"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Squad caps (1476)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

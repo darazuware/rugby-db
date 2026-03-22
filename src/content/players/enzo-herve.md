@@ -1,7 +1,7 @@
 ---
-title: "Enzo HERVE | エンソ エルウェ"
+title: "Enzo HERVE"
 name_en: "Enzo HERVE"
-name_ja: "エンソ エルウェ"
+name_ja: "Enzo HERVE"
 slug: "enzo-herve"
 position: "SO"
 height: "176.0"

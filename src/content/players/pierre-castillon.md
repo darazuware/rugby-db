@@ -1,7 +1,7 @@
 ---
-title: "Pierre CASTILLON | ヒエール カスティヨン"
+title: "Pierre CASTILLON"
 name_en: "Pierre CASTILLON"
-name_ja: "ヒエール カスティヨン"
+name_ja: "Pierre CASTILLON"
 slug: "pierre-castillon"
 position: "PR"
 height: "185.0"

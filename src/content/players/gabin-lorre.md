@@ -1,7 +1,7 @@
 ---
-title: "Gabin LORRE | カハン ロール"
+title: "Gabin LORRE"
 name_en: "Gabin LORRE"
-name_ja: "カハン ロール"
+name_ja: "Gabin LORRE"
 slug: "gabin-lorre"
 position: "FB"
 height: "182.0"

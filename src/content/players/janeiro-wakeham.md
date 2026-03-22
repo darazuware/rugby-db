@@ -1,7 +1,7 @@
 ---
-title: "Janeiro WAKEHAM | シャネイロ-ウェイクハム"
+title: "Janeiro WAKEHAM"
 name_en: "Janeiro WAKEHAM"
-name_ja: "シャネイロ-ウェイクハム"
+name_ja: "Janeiro WAKEHAM"
 slug: "janeiro-wakeham"
 position: "LO"
 height: "208.0"

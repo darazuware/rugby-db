@@ -1,7 +1,7 @@
 ---
-title: "Jamie RITCHIE | シェイミー-リッチー"
+title: "Jamie RITCHIE"
 name_en: "Jamie RITCHIE"
-name_ja: "シェイミー-リッチー"
+name_ja: "Jamie RITCHIE"
 slug: "jamie-ritchie"
 position: "FL/NO8"
 height: "190.0"

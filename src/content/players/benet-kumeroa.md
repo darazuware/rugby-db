@@ -1,7 +1,7 @@
 ---
-title: "Benet KUMEROA | ヘネット クメロア"
+title: "Benet KUMEROA"
 name_en: "Benet KUMEROA"
-name_ja: "ヘネット クメロア"
+name_ja: "Benet KUMEROA"
 slug: "benet-kumeroa"
 position: "PR"
 height: "184.0"

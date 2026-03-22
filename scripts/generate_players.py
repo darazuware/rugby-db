@@ -4,6 +4,7 @@ import os
 import shutil
 import re
 from datetime import datetime
+from player_utils import PlayerDataProcessor
 
 # 物理基準日 (2026-03-20)
 REFERENCE_DATE = datetime(2026, 3, 20)
@@ -99,15 +100,23 @@ def generate_markdown():
     missing_nationality = []
 
     for _, row in df.iterrows():
-        # 基本情報の抽出
-        name_en = str(row.get('Player_Name', '') or row.get('Full_Name', '')).strip()
-        name_ja = str(row.get('選手名_カタカナ', '') or row.get('Full_Name', '')).strip()
-        scraped_url = str(row.get('Scraped_Url', '')).strip()
+        # 基本情報の抽出 (PlayerDataProcessor.get_safe_attr を使用して NaN 漏れを物理排除)
+        name_en = PlayerDataProcessor.get_safe_attr(row, 'Player_Name', default=PlayerDataProcessor.get_safe_attr(row, 'Full_Name'))
+        name_ja = PlayerDataProcessor.get_safe_attr(row, 'Full_Name')
+        if not name_ja:
+            name_ja = PlayerDataProcessor.get_safe_attr(row, '選手名_カタカナ')
+        
+        # 名前がいずれも空の場合の最終防御
+        if not name_en:
+            name_en = "Unknown Player"
+        if not name_ja:
+            name_ja = name_en
+
+        scraped_url = PlayerDataProcessor.get_safe_attr(row, 'Scraped_Url').lower()
         
         # スラッグの生成（重複対応）
-        base_slug = str(row.get('Scraped_Url', ''))
-        if base_slug and 'all.rugby/player/' in base_slug:
-            slug = base_slug.split('/')[-1]
+        if scraped_url and 'all.rugby/player/' in scraped_url:
+            slug = scraped_url.split('/')[-1]
         else:
             slug = name_en.lower().replace(' ', '-')
         
@@ -121,32 +130,28 @@ def generate_markdown():
             slug = f"{original_slug}-{counter}"
         
         used_slugs.add(slug)
-        league_val = str(row.get('League', '')).strip().lower()
+        
+        league_val = PlayerDataProcessor.get_safe_attr(row, 'League').lower()
         if league_val == 'mlr':
             continue
 
-        position = str(row.get('Position', '')).strip()
+        position = PlayerDataProcessor.get_safe_attr(row, 'Position')
         height = validate_and_clean_stat(row.get('Height', ''), 'height')
         weight = validate_and_clean_stat(row.get('Weight', ''), 'weight')
-        birth_date = str(row.get('Birth_Date', '')).strip()
-        age_val = row.get('Age')
-        if pd.isna(age_val) or str(age_val).lower() == 'nan':
-            age_val = "null"
+        birth_date = PlayerDataProcessor.get_safe_attr(row, 'Birth_Date')
         
         # リーグ属性の物理的補完（マッピング優先）
-        csv_league = str(row.get('League', '')).strip().lower()
-        current_team = str(row.get('Current_Team', '')).strip()
+        current_team = PlayerDataProcessor.get_safe_attr(row, 'Current_Team')
         cleaned_team = clean_team_name(current_team)
         
         lookup_league = league_map.get(cleaned_team.lower(), "nan")
         if lookup_league != "nan":
             final_league = lookup_league
         else:
-            final_league = csv_league if csv_league and csv_league != 'nan' else "nan"
+            final_league = league_val if league_val else "nan"
 
-        nationality = str(row.get('Nationality', '')).strip()
-        if not nationality or nationality.lower() == 'nan':
-            nationality = ""
+        nationality = PlayerDataProcessor.get_safe_attr(row, 'Nationality')
+        if not nationality:
             missing_nationality.append({
                 "name_en": name_en,
                 "name_ja": name_ja,
@@ -154,25 +159,15 @@ def generate_markdown():
                 "league": final_league,
                 "url": scraped_url
             })
-        birthplace = str(row.get('Birth_Place_Scraped', '')).strip()
             
-        # name_jaのクレンジング
-        if name_ja.lower() == 'nan':
-            name_ja = ""
-            
-        caps = str(row.get('Representative_Caps', '')).strip()
-        if caps == 'nan' or caps == '0.0' or caps == '0':
+        birthplace = PlayerDataProcessor.get_safe_attr(row, 'Birth_Place_Scraped')
+        caps = PlayerDataProcessor.get_safe_attr(row, 'Representative_Caps')
+        if caps == '0.0' or caps == '0':
             caps = ""
         
-        scraped_url = str(row.get('Scraped_Url', '')).strip()
-        career_history = str(row.get('キャリア遍歴', '')).strip()
-        if career_history == 'nan':
-            career_history = ""
-            
-        high_school = str(row.get('High_School', '')).strip()
-        if high_school == 'nan': high_school = ""
-        university = str(row.get('University', '')).strip()
-        if university == 'nan': university = ""
+        career_history = PlayerDataProcessor.get_safe_attr(row, 'キャリア遍歴')
+        high_school = PlayerDataProcessor.get_safe_attr(row, 'High_School')
+        university = PlayerDataProcessor.get_safe_attr(row, 'University')
 
         # Ageの数値化（または生年月日からの動的算出）
         age_clean = None

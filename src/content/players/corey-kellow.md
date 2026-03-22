@@ -1,7 +1,7 @@
 ---
-title: "Corey KELLOW | コーリー ケロウ"
+title: "Corey KELLOW"
 name_en: "Corey KELLOW"
-name_ja: "コーリー ケロウ"
+name_ja: "Corey KELLOW"
 slug: "corey-kellow"
 position: "FL/No8"
 height: "187.0"

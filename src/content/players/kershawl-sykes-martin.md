@@ -1,7 +1,7 @@
 ---
-title: "Kershawl SYKES-MARTIN | カーショール サイクス=マーティン"
+title: "Kershawl SYKES-MARTIN"
 name_en: "Kershawl SYKES-MARTIN"
-name_ja: "カーショール サイクス=マーティン"
+name_ja: "Kershawl SYKES-MARTIN"
 slug: "kershawl-sykes-martin"
 position: "PR"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
 title: "Alex Lozowski"
 name_en: "Alex Lozowski"
-name_ja: ""
+name_ja: "Alex Lozowski"
 slug: "alex-lozowski"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Call-ups (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

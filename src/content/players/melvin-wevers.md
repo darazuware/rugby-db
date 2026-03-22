@@ -1,12 +1,12 @@
 ---
 title: "Melvin WEVERS"
 name_en: "Melvin WEVERS"
-name_ja: ""
+name_ja: "Melvin WEVERS"
 slug: "melvin-wevers"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

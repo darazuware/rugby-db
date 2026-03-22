@@ -1,7 +1,7 @@
 ---
-title: "Hamish WATSON | ヘイミッシュ-ワトソン"
+title: "Hamish WATSON"
 name_en: "Hamish WATSON"
-name_ja: "ヘイミッシュ-ワトソン"
+name_ja: "Hamish WATSON"
 slug: "hamish-watson"
 position: "FL/No8"
 height: "185.0"

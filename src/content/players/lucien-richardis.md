@@ -1,12 +1,12 @@
 ---
 title: "Lucien RICHARDIS"
 name_en: "Lucien RICHARDIS"
-name_ja: ""
+name_ja: "Lucien RICHARDIS"
 slug: "lucien-richardis"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

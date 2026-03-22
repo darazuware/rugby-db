@@ -1,7 +1,7 @@
 ---
-title: "Andy TIMO | アンティ ティモ"
+title: "Andy TIMO"
 name_en: "Andy TIMO"
-name_ja: "アンティ ティモ"
+name_ja: "Andy TIMO"
 slug: "andy-timo"
 position: "FL/NO8"
 height: "192.0"

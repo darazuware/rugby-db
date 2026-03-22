@@ -6,7 +6,7 @@ slug: "jj-scheepers"
 position: "LO"
 height: "198.0"
 weight: "115.0"
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

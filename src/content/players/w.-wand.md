@@ -1,12 +1,12 @@
 ---
 title: "W. Wand"
 name_en: "W. Wand"
-name_ja: ""
+name_ja: "W. Wand"
 slug: "w.-wand"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

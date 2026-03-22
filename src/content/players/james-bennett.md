@@ -1,12 +1,12 @@
 ---
 title: "James BENNETT"
 name_en: "James BENNETT"
-name_ja: ""
+name_ja: "James BENNETT"
 slug: "james-bennett"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

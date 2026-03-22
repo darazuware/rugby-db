@@ -1,7 +1,7 @@
 ---
-title: "Joris SEGONDS | ショリス セコンス"
+title: "Joris SEGONDS"
 name_en: "Joris SEGONDS"
-name_ja: "ショリス セコンス"
+name_ja: "Joris SEGONDS"
 slug: "joris-segonds"
 position: "SO"
 height: "180.0"

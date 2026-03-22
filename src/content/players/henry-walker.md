@@ -1,12 +1,12 @@
 ---
 title: "Henry WALKER"
 name_en: "Henry WALKER"
-name_ja: ""
+name_ja: "Henry WALKER"
 slug: "henry-walker"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

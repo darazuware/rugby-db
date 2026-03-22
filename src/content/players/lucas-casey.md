@@ -1,7 +1,7 @@
 ---
-title: "Lucas CASEY | ルカス ケイシー"
+title: "Lucas CASEY"
 name_en: "Lucas CASEY"
-name_ja: "ルカス ケイシー"
+name_ja: "Lucas CASEY"
 slug: "lucas-casey"
 position: "FL/No8"
 height: ""

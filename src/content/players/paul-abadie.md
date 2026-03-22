@@ -1,7 +1,7 @@
 ---
-title: "Paul ABADIE | ホール アハティ"
+title: "Paul ABADIE"
 name_en: "Paul ABADIE"
-name_ja: "ホール アハティ"
+name_ja: "Paul ABADIE"
 slug: "paul-abadie"
 position: "SH"
 height: "176.0"

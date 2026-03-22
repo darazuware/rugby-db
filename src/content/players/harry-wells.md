@@ -1,7 +1,7 @@
 ---
 title: "Harry Wells"
 name_en: "Harry Wells"
-name_ja: ""
+name_ja: "Harry Wells"
 slug: "harry-wells"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Victor MONTGAILLARD | ウィクトール-モンカイヤール"
+title: "Victor MONTGAILLARD"
 name_en: "Victor MONTGAILLARD"
-name_ja: "ウィクトール-モンカイヤール"
+name_ja: "Victor MONTGAILLARD"
 slug: "victor-montgaillard"
 position: "HO"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Declan MEREDITH | テクラン メレティス"
+title: "Declan MEREDITH"
 name_en: "Declan MEREDITH"
-name_ja: "テクラン メレティス"
+name_ja: "Declan MEREDITH"
 slug: "declan-meredith"
 position: "SO"
 height: "183.0"

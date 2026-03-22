@@ -1,7 +1,7 @@
 ---
 title: "Harry Williams"
 name_en: "Harry Williams"
-name_ja: ""
+name_ja: "Harry Williams"
 slug: "harry-williams"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

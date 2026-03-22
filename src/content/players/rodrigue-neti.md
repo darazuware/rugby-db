@@ -1,7 +1,7 @@
 ---
-title: "Rodrigue NETI | ロトリク ネティ"
+title: "Rodrigue NETI"
 name_en: "Rodrigue NETI"
-name_ja: "ロトリク ネティ"
+name_ja: "Rodrigue NETI"
 slug: "rodrigue-neti"
 position: "PR"
 height: "185.0"

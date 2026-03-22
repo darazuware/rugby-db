@@ -1,7 +1,7 @@
 ---
 title: "Tom Hooper"
 name_en: "Tom Hooper"
-name_ja: ""
+name_ja: "Tom Hooper"
 slug: "tom-hooper"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Australia (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

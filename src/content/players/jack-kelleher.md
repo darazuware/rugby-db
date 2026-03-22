@@ -1,12 +1,12 @@
 ---
 title: "Jack KELLEHER"
 name_en: "Jack KELLEHER"
-name_ja: ""
+name_ja: "Jack KELLEHER"
 slug: "jack-kelleher"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

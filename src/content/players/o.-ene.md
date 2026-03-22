@@ -1,12 +1,12 @@
 ---
 title: "O. Ene"
 name_en: "O. Ene"
-name_ja: ""
+name_ja: "O. Ene"
 slug: "o.-ene"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

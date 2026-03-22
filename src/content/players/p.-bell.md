@@ -1,12 +1,12 @@
 ---
 title: "P. Bell"
 name_en: "P. Bell"
-name_ja: ""
+name_ja: "P. Bell"
 slug: "p.-bell"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

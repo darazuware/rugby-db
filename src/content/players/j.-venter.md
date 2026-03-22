@@ -1,12 +1,12 @@
 ---
 title: "J. Venter"
 name_en: "J. Venter"
-name_ja: ""
+name_ja: "J. Venter"
 slug: "j.-venter"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

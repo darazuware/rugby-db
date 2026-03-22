@@ -1,7 +1,7 @@
 ---
-title: "Remy BAGET | レミ ハシェ"
+title: "Remy BAGET"
 name_en: "Remy BAGET"
-name_ja: "レミ ハシェ"
+name_ja: "Remy BAGET"
 slug: "remy-baget"
 position: "WTB"
 height: "182.0"

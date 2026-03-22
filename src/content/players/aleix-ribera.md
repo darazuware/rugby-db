@@ -1,12 +1,12 @@
 ---
 title: "Aleix RIBERA"
 name_en: "Aleix RIBERA"
-name_ja: ""
+name_ja: "Aleix RIBERA"
 slug: "aleix-ribera"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

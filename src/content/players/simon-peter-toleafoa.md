@@ -1,7 +1,7 @@
 ---
-title: "Simon-Peter TOLEAFOA | サイモン=ヒーター トレアフォア"
+title: "Simon-Peter TOLEAFOA"
 name_en: "Simon-Peter TOLEAFOA"
-name_ja: "サイモン=ヒーター トレアフォア"
+name_ja: "Simon-Peter TOLEAFOA"
 slug: "simon-peter-toleafoa"
 position: "FB"
 height: "183.0"

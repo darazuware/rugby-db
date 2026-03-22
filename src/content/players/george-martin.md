@@ -1,7 +1,7 @@
 ---
 title: "George Martin"
 name_en: "George Martin"
-name_ja: ""
+name_ja: "George Martin"
 slug: "george-martin"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "England (19)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

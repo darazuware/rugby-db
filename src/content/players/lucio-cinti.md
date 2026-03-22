@@ -1,7 +1,7 @@
 ---
 title: "Lucio Cinti"
 name_en: "Lucio Cinti"
-name_ja: ""
+name_ja: "Lucio Cinti"
 slug: "lucio-cinti"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Argentina (16)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

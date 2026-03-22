@@ -1,7 +1,7 @@
 ---
 title: "Tom Curry"
 name_en: "Tom Curry"
-name_ja: ""
+name_ja: "Tom Curry"
 slug: "tom-curry"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (56)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

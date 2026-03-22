@@ -1,7 +1,7 @@
 ---
 title: "Kieran Treadwell"
 name_en: "Kieran Treadwell"
-name_ja: ""
+name_ja: "Kieran Treadwell"
 slug: "kieran-treadwell"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

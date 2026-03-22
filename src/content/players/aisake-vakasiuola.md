@@ -1,7 +1,7 @@
 ---
-title: "Aisake VAKASIUOLA | アイサケ ハカシウオラ"
+title: "Aisake VAKASIUOLA"
 name_en: "Aisake VAKASIUOLA"
-name_ja: "アイサケ ハカシウオラ"
+name_ja: "Aisake VAKASIUOLA"
 slug: "aisake-vakasiuola"
 position: "LO"
 height: "197.0"

@@ -1,7 +1,7 @@
 ---
-title: "Giorgi MELIKIDZE | キオルキ-メリキセ"
+title: "Giorgi MELIKIDZE"
 name_en: "Giorgi MELIKIDZE"
-name_ja: "キオルキ-メリキセ"
+name_ja: "Giorgi MELIKIDZE"
 slug: "giorgi-melikidze"
 position: "PR"
 height: "179.0"

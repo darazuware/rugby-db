@@ -1,7 +1,7 @@
 ---
-title: "Simi KURUVOLI | シミ クルウォリ"
+title: "Simi KURUVOLI"
 name_en: "Simi KURUVOLI"
-name_ja: "シミ クルウォリ"
+name_ja: "Simi KURUVOLI"
 slug: "simione-kuruvoli"
 position: "SO"
 height: "173.0"

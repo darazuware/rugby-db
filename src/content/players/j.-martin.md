@@ -1,12 +1,12 @@
 ---
 title: "J. Martin"
 name_en: "J. Martin"
-name_ja: ""
+name_ja: "J. Martin"
 slug: "j.-martin"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

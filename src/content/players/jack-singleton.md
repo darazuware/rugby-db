@@ -1,7 +1,7 @@
 ---
 title: "Jack Singleton"
 name_en: "Jack Singleton"
-name_ja: ""
+name_ja: "Jack Singleton"
 slug: "jack-singleton"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "England (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

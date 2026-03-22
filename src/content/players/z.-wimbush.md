@@ -1,12 +1,12 @@
 ---
 title: "Z. Wimbush"
 name_en: "Z. Wimbush"
-name_ja: ""
+name_ja: "Z. Wimbush"
 slug: "z.-wimbush"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

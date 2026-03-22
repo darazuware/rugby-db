@@ -1,7 +1,7 @@
 ---
 title: "Andy Onyeama-Christie"
 name_en: "Andy Onyeama-Christie"
-name_ja: ""
+name_ja: "Andy Onyeama-Christie"
 slug: "andy-onyeama-christie"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

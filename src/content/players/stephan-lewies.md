@@ -1,7 +1,7 @@
 ---
 title: "Stephan Lewies"
 name_en: "Stephan Lewies"
-name_ja: ""
+name_ja: "Stephan Lewies"
 slug: "stephan-lewies"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

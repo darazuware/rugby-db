@@ -1,7 +1,7 @@
 ---
-title: "Hugo GONZALEZ | ユーコー-コンサレス"
+title: "Hugo GONZALEZ"
 name_en: "Hugo GONZALEZ"
-name_ja: "ユーコー-コンサレス"
+name_ja: "Hugo GONZALEZ"
 slug: "hugo-gonzalez"
 position: "PR"
 height: "184.0"

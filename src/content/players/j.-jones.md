@@ -1,12 +1,12 @@
 ---
 title: "J. Jones"
 name_en: "J. Jones"
-name_ja: ""
+name_ja: "J. Jones"
 slug: "j.-jones"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

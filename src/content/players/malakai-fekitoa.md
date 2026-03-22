@@ -1,7 +1,7 @@
 ---
-title: "Malakai FEKITOA | マラカイ フェキトア"
+title: "Malakai FEKITOA"
 name_en: "Malakai FEKITOA"
-name_ja: "マラカイ フェキトア"
+name_ja: "Malakai FEKITOA"
 slug: "malakai-fekitoa"
 position: "CTB"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe EDWARDS | ショー エトワース"
+title: "Joe EDWARDS"
 name_en: "Joe EDWARDS"
-name_ja: "ショー エトワース"
+name_ja: "Joe EDWARDS"
 slug: "joe-edwards"
 position: "FL/NO8"
 height: "194.0"

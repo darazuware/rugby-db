@@ -1,7 +1,7 @@
 ---
-title: "Austin ANDERSON | オースティン アンターソン"
+title: "Austin ANDERSON"
 name_en: "Austin ANDERSON"
-name_ja: "オースティン アンターソン"
+name_ja: "Austin ANDERSON"
 slug: "austin-anderson"
 position: "CTB"
 height: "186.0"

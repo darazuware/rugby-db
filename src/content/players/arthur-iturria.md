@@ -1,7 +1,7 @@
 ---
-title: "Arthur ITURRIA | アルチュール イトゥリア"
+title: "Arthur ITURRIA"
 name_en: "Arthur ITURRIA"
-name_ja: "アルチュール イトゥリア"
+name_ja: "Arthur ITURRIA"
 slug: "arthur-iturria"
 position: "FL/NO8"
 height: "198.0"

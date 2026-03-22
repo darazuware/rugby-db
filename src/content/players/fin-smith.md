@@ -1,12 +1,12 @@
 ---
 title: "Fin SMITH"
 name_en: "Fin SMITH"
-name_ja: ""
+name_ja: "Fin SMITH"
 slug: "fin-smith"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

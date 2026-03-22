@@ -1,7 +1,7 @@
 ---
-title: "Tevita ALATINI | テウィタ アラティニ"
+title: "Tevita ALATINI"
 name_en: "Tevita ALATINI"
-name_ja: "テウィタ アラティニ"
+name_ja: "Tevita ALATINI"
 slug: "tevita-alatini"
 position: "PR"
 height: "189.0"

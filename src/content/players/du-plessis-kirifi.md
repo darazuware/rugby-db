@@ -1,7 +1,7 @@
 ---
-title: "Du'Plessis KIRIFI | テュフレッシー-キリフィ"
+title: "Du'Plessis KIRIFI"
 name_en: "Du'Plessis KIRIFI"
-name_ja: "テュフレッシー-キリフィ"
+name_ja: "Du'Plessis KIRIFI"
 slug: "du-plessis-kirifi"
 position: "FL/No8"
 height: "181.0"

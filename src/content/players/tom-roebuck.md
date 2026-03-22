@@ -1,7 +1,7 @@
 ---
 title: "Tom Roebuck"
 name_en: "Tom Roebuck"
-name_ja: ""
+name_ja: "Tom Roebuck"
 slug: "tom-roebuck"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

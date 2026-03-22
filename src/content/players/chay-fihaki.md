@@ -1,7 +1,7 @@
 ---
-title: "Chay FIHAKI | チェイ-フィハキ"
+title: "Chay FIHAKI"
 name_en: "Chay FIHAKI"
-name_ja: "チェイ-フィハキ"
+name_ja: "Chay FIHAKI"
 slug: "chay-fihaki"
 position: "CTB"
 height: "193.0"

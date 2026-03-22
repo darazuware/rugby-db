@@ -1,7 +1,7 @@
 ---
-title: "Destiny AMINU | テスティニー アミヌ"
+title: "Destiny AMINU"
 name_en: "Destiny AMINU"
-name_ja: "テスティニー アミヌ"
+name_ja: "Destiny AMINU"
 slug: "destiny-aminu"
 position: "PR"
 height: "185.0"

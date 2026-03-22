@@ -1,7 +1,7 @@
 ---
-title: "Connor SA | コナー サ"
+title: "Connor SA"
 name_en: "Connor SA"
-name_ja: "コナー サ"
+name_ja: "Connor SA"
 slug: "connor-sa"
 position: "HO"
 height: "183.0"

@@ -1,12 +1,12 @@
 ---
-title: "Toby BELL | トヒー ヘル"
+title: "Toby BELL"
 name_en: "Toby BELL"
-name_ja: "トヒー ヘル"
+name_ja: "Toby BELL"
 slug: "toby-bell"
 position: "SO"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

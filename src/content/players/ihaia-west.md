@@ -1,7 +1,7 @@
 ---
-title: "Ihaia WEST | イハイア-ウエスト"
+title: "Ihaia WEST"
 name_en: "Ihaia WEST"
-name_ja: "イハイア-ウエスト"
+name_ja: "Ihaia WEST"
 slug: "ihaia-west"
 position: "SO"
 height: "175.0"

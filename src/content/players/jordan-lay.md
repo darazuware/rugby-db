@@ -1,7 +1,7 @@
 ---
-title: "Jordan LAY | ショータン レイ"
+title: "Jordan LAY"
 name_en: "Jordan LAY"
-name_ja: "ショータン レイ"
+name_ja: "Jordan LAY"
 slug: "jordan-lay"
 position: "PR"
 height: "185.0"

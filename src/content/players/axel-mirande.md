@@ -1,12 +1,12 @@
 ---
 title: "Axel MIRANDE"
 name_en: "Axel MIRANDE"
-name_ja: ""
+name_ja: "Axel MIRANDE"
 slug: "axel-mirande"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

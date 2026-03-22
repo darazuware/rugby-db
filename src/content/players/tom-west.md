@@ -1,12 +1,12 @@
 ---
 title: "Tom WEST"
 name_en: "Tom WEST"
-name_ja: ""
+name_ja: "Tom WEST"
 slug: "tom-west"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 30
 country: ""
 birth_place_scraped: ""

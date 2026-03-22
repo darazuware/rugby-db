@@ -1,7 +1,7 @@
 ---
-title: "Lekso KAULASHVILI | レクソ カウラシウィリ"
+title: "Lekso KAULASHVILI"
 name_en: "Lekso KAULASHVILI"
-name_ja: "レクソ カウラシウィリ"
+name_ja: "Lekso KAULASHVILI"
 slug: "lekso-kaulashvili"
 position: "PR"
 height: "187.0"

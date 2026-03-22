@@ -1,12 +1,12 @@
 ---
-title: "Hamish MULLER | ヘイミッシュ ミューラー"
+title: "Hamish MULLER"
 name_en: "Hamish MULLER"
-name_ja: "ヘイミッシュ ミューラー"
+name_ja: "Hamish MULLER"
 slug: "hamish-muller"
 position: "LO"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

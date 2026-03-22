@@ -1,7 +1,7 @@
 ---
-title: "Esteban CAPILLA | エステハン カヒシャ"
+title: "Esteban CAPILLA"
 name_en: "Esteban CAPILLA"
-name_ja: "エステハン カヒシャ"
+name_ja: "Esteban CAPILLA"
 slug: "esteban-capilla"
 position: "FL/NO8"
 height: "198.0"

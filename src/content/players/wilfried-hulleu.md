@@ -1,7 +1,7 @@
 ---
-title: "Wilfried HULLEU | ウィルフリート ユルー"
+title: "Wilfried HULLEU"
 name_en: "Wilfried HULLEU"
-name_ja: "ウィルフリート ユルー"
+name_ja: "Wilfried HULLEU"
 slug: "wilfried-hulleu"
 position: "WTB"
 height: "184.0"

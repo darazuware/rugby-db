@@ -1,7 +1,7 @@
 ---
 title: "Steven Luatua"
 name_en: "Steven Luatua"
-name_ja: ""
+name_ja: "Steven Luatua"
 slug: "steven-luatua"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

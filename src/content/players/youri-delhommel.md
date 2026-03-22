@@ -1,7 +1,7 @@
 ---
-title: "Youri DELHOMMEL | ユーリ-テロンメル"
+title: "Youri DELHOMMEL"
 name_en: "Youri DELHOMMEL"
-name_ja: "ユーリ-テロンメル"
+name_ja: "Youri DELHOMMEL"
 slug: "youri-delhommel"
 position: "HO"
 height: "181.0"

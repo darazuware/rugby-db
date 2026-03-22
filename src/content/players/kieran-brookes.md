@@ -1,7 +1,7 @@
 ---
-title: "Kieran BROOKES | キーラン フルックス"
+title: "Kieran BROOKES"
 name_en: "Kieran BROOKES"
-name_ja: "キーラン フルックス"
+name_ja: "Kieran BROOKES"
 slug: "kieran-brookes"
 position: "PR"
 height: "188.0"

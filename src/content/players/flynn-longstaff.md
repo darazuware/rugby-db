@@ -6,7 +6,7 @@ slug: "flynn-longstaff"
 position: "PR"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

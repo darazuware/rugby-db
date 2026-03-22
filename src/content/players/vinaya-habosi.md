@@ -1,7 +1,7 @@
 ---
-title: "Vinaya HABOSI | ウィナヤ ハホシ"
+title: "Vinaya HABOSI"
 name_en: "Vinaya HABOSI"
-name_ja: "ウィナヤ ハホシ"
+name_ja: "Vinaya HABOSI"
 slug: "vinaya-habosi"
 position: "WTB"
 height: "184.0"

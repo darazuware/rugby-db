@@ -1,12 +1,12 @@
 ---
 title: "G. Marsh"
 name_en: "G. Marsh"
-name_ja: ""
+name_ja: "G. Marsh"
 slug: "g.-marsh"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

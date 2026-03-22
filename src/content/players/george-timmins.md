@@ -1,12 +1,12 @@
 ---
 title: "George TIMMINS"
 name_en: "George TIMMINS"
-name_ja: ""
+name_ja: "George TIMMINS"
 slug: "george-timmins"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

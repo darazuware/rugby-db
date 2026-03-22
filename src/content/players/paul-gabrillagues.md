@@ -1,7 +1,7 @@
 ---
-title: "Paul GABRILLAGUES | ホール カフリヤーク"
+title: "Paul GABRILLAGUES"
 name_en: "Paul GABRILLAGUES"
-name_ja: "ホール カフリヤーク"
+name_ja: "Paul GABRILLAGUES"
 slug: "paul-gabrillagues"
 position: "LO"
 height: "199.0"

@@ -1,7 +1,7 @@
 ---
-title: "Peato MAUVAKA | ヘアト マウウァカ"
+title: "Peato MAUVAKA"
 name_en: "Peato MAUVAKA"
-name_ja: "ヘアト マウウァカ"
+name_ja: "Peato MAUVAKA"
 slug: "peato-mauvaka"
 position: "HO"
 height: "184.0"

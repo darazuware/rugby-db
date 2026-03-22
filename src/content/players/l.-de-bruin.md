@@ -1,12 +1,12 @@
 ---
 title: "L. de Bruin"
 name_en: "L. de Bruin"
-name_ja: ""
+name_ja: "L. de Bruin"
 slug: "l.-de-bruin"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

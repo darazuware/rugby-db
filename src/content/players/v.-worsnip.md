@@ -1,12 +1,12 @@
 ---
 title: "V. Worsnip"
 name_en: "V. Worsnip"
-name_ja: ""
+name_ja: "V. Worsnip"
 slug: "v.-worsnip"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

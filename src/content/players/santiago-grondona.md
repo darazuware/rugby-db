@@ -1,7 +1,7 @@
 ---
 title: "Santiago Grondona"
 name_en: "Santiago Grondona"
-name_ja: ""
+name_ja: "Santiago Grondona"
 slug: "santiago-grondona"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Argentina (15)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Jeffery TOOMAGA-ALLEN | シェフリー-トゥーマカ=アレン"
+title: "Jeffery TOOMAGA-ALLEN"
 name_en: "Jeffery TOOMAGA-ALLEN"
-name_ja: "シェフリー-トゥーマカ=アレン"
+name_ja: "Jeffery TOOMAGA-ALLEN"
 slug: "jeffery-toomaga-allen"
 position: "PR"
 height: "192.0"

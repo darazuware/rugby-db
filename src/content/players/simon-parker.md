@@ -1,7 +1,7 @@
 ---
-title: "Simon PARKER | サイモン ハーカー"
+title: "Simon PARKER"
 name_en: "Simon PARKER"
-name_ja: "サイモン ハーカー"
+name_ja: "Simon PARKER"
 slug: "simon-parker"
 position: "FL/No8"
 height: "193.0"

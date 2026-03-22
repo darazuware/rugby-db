@@ -1,7 +1,7 @@
 ---
-title: "Baptiste SERIN | ハティスト-セラン"
+title: "Baptiste SERIN"
 name_en: "Baptiste SERIN"
-name_ja: "ハティスト-セラン"
+name_ja: "Baptiste SERIN"
 slug: "baptiste-serin"
 position: "SH"
 height: "182.0"

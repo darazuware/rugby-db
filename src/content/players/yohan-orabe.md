@@ -1,7 +1,7 @@
 ---
-title: "Yohan ORABE | ヨアン オラヘ"
+title: "Yohan ORABE"
 name_en: "Yohan ORABE"
-name_ja: "ヨアン オラヘ"
+name_ja: "Yohan ORABE"
 slug: "yohan-orabe"
 position: "FB"
 height: "187.0"

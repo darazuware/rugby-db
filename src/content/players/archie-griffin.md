@@ -1,12 +1,12 @@
 ---
 title: "Archie GRIFFIN"
 name_en: "Archie GRIFFIN"
-name_ja: ""
+name_ja: "Archie GRIFFIN"
 slug: "archie-griffin"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

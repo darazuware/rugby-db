@@ -1,7 +1,7 @@
 ---
-title: "Apolosi RANAWAI | アホロシ ラナワイ"
+title: "Apolosi RANAWAI"
 name_en: "Apolosi RANAWAI"
-name_ja: "アホロシ ラナワイ"
+name_ja: "Apolosi RANAWAI"
 slug: "apolosi-ranawai"
 position: "PR"
 height: "183.0"

@@ -1,7 +1,7 @@
 ---
-title: "Marco SPREAFICHI | マルコ スフレアフィキ"
+title: "Marco SPREAFICHI"
 name_en: "Marco SPREAFICHI"
-name_ja: "マルコ スフレアフィキ"
+name_ja: "Marco SPREAFICHI"
 slug: "marco-spreafichi"
 position: "LO"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lukhan SALAKAIA-LOTO | ルカン サラカイア=ロト"
+title: "Lukhan SALAKAIA-LOTO"
 name_en: "Lukhan SALAKAIA-LOTO"
-name_ja: "ルカン サラカイア=ロト"
+name_ja: "Lukhan SALAKAIA-LOTO"
 slug: "lukhan-lealaiaulolo-tui"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Allan ALAALATOA | アラン-アラアラトア"
+title: "Allan ALAALATOA"
 name_en: "Allan ALAALATOA"
-name_ja: "アラン-アラアラトア"
+name_ja: "Allan ALAALATOA"
 slug: "allan-alaalatoa"
 position: "PR"
 height: "182.0"

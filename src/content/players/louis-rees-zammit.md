@@ -1,7 +1,7 @@
 ---
 title: "Louis Rees-Zammit"
 name_en: "Louis Rees-Zammit"
-name_ja: ""
+name_ja: "Louis Rees-Zammit"
 slug: "louis-rees-zammit"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Wales (27)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

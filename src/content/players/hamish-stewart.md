@@ -1,7 +1,7 @@
 ---
-title: "Hamish STEWART | ヘイミッシュ-スチュワート"
+title: "Hamish STEWART"
 name_en: "Hamish STEWART"
-name_ja: "ヘイミッシュ-スチュワート"
+name_ja: "Hamish STEWART"
 slug: "hamish-stewart"
 position: "CTB"
 height: "183.0"

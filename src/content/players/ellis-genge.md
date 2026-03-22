@@ -1,7 +1,7 @@
 ---
 title: "Ellis Genge"
 name_en: "Ellis Genge"
-name_ja: ""
+name_ja: "Ellis Genge"
 slug: "ellis-genge"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "England (62)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

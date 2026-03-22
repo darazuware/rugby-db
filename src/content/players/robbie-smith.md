@@ -1,12 +1,12 @@
 ---
 title: "Robbie SMITH"
 name_en: "Robbie SMITH"
-name_ja: ""
+name_ja: "Robbie SMITH"
 slug: "robbie-smith"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

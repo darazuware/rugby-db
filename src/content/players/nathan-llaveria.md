@@ -1,12 +1,12 @@
 ---
 title: "Nathan LLAVERIA"
 name_en: "Nathan LLAVERIA"
-name_ja: ""
+name_ja: "Nathan LLAVERIA"
 slug: "nathan-llaveria"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

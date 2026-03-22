@@ -1,12 +1,12 @@
 ---
 title: "Herman MEKENESE"
 name_en: "Herman MEKENESE"
-name_ja: ""
+name_ja: "Herman MEKENESE"
 slug: "herman-mekenese"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "Jasper SPANDLER"
 name_en: "Jasper SPANDLER"
-name_ja: ""
+name_ja: "Jasper SPANDLER"
 slug: "jasper-spandler"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

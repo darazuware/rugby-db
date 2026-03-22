@@ -1,7 +1,7 @@
 ---
-title: "Teddy THOMAS | テティ トマ"
+title: "Teddy THOMAS"
 name_en: "Teddy THOMAS"
-name_ja: "テティ トマ"
+name_ja: "Teddy THOMAS"
 slug: "teddy-thomas"
 position: "CTB"
 height: "185.0"

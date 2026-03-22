@@ -1,12 +1,12 @@
 ---
 title: "N. Michelow"
 name_en: "N. Michelow"
-name_ja: ""
+name_ja: "N. Michelow"
 slug: "n.-michelow"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

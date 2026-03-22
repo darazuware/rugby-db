@@ -1,7 +1,7 @@
 ---
-title: "Reece HODGE | リース ホッシ"
+title: "Reece HODGE"
 name_en: "Reece HODGE"
-name_ja: "リース ホッシ"
+name_ja: "Reece HODGE"
 slug: "reece-hodge"
 position: "CTB"
 height: "191.0"

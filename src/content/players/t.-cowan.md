@@ -1,12 +1,12 @@
 ---
 title: "T. Cowan"
 name_en: "T. Cowan"
-name_ja: ""
+name_ja: "T. Cowan"
 slug: "t.-cowan"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

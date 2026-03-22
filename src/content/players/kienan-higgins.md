@@ -1,7 +1,7 @@
 ---
-title: "Kienan HIGGINS | キーナン ヒキンス"
+title: "Kienan HIGGINS"
 name_en: "Kienan HIGGINS"
-name_ja: "キーナン ヒキンス"
+name_ja: "Kienan HIGGINS"
 slug: "kienan-higgins"
 position: "CTB"
 height: "189.0"

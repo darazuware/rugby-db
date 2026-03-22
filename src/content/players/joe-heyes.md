@@ -1,7 +1,7 @@
 ---
 title: "Joe Heyes"
 name_en: "Joe Heyes"
-name_ja: ""
+name_ja: "Joe Heyes"
 slug: "joe-heyes"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "England (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

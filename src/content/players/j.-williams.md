@@ -1,12 +1,12 @@
 ---
 title: "J. Williams"
 name_en: "J. Williams"
-name_ja: ""
+name_ja: "J. Williams"
 slug: "j.-williams"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

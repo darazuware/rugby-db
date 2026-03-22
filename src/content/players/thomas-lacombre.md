@@ -1,7 +1,7 @@
 ---
-title: "Thomas LACOMBRE | トマ ラコンフル"
+title: "Thomas LACOMBRE"
 name_en: "Thomas LACOMBRE"
-name_ja: "トマ ラコンフル"
+name_ja: "Thomas LACOMBRE"
 slug: "thomas-lacombre"
 position: "HO"
 height: "174.0"

@@ -1,7 +1,7 @@
 ---
-title: "James MARTENS | シェームス マルテンス"
+title: "James MARTENS"
 name_en: "James MARTENS"
-name_ja: "シェームス マルテンス"
+name_ja: "James MARTENS"
 slug: "james-martens"
 position: "SH"
 height: "187.0"

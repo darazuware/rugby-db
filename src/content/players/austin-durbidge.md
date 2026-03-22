@@ -1,7 +1,7 @@
 ---
-title: "Austin DURBIDGE | オースティン-ターヒッシ"
+title: "Austin DURBIDGE"
 name_en: "Austin DURBIDGE"
-name_ja: "オースティン-ターヒッシ"
+name_ja: "Austin DURBIDGE"
 slug: "austin-durbidge"
 position: "FL/No8"
 height: "184.0"

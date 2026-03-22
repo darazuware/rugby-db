@@ -1,7 +1,7 @@
 ---
-title: "Beauden BARRETT | ホーテン-ハレット"
+title: "Beauden BARRETT"
 name_en: "Beauden BARRETT"
-name_ja: "ホーテン-ハレット"
+name_ja: "Beauden BARRETT"
 slug: "beauden-barrett"
 position: "SO"
 height: "187.0"

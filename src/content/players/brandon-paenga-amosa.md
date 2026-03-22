@@ -1,7 +1,7 @@
 ---
-title: "Brandon PAENGA-AMOSA | フラントン-ハエンカ=アモサ"
+title: "Brandon PAENGA-AMOSA"
 name_en: "Brandon PAENGA-AMOSA"
-name_ja: "フラントン-ハエンカ=アモサ"
+name_ja: "Brandon PAENGA-AMOSA"
 slug: "brandon-paenga-amosa"
 position: "HO"
 height: "183.0"

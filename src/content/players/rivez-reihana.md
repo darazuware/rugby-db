@@ -1,7 +1,7 @@
 ---
-title: "Rivez REIHANA | リウェス レイハナ"
+title: "Rivez REIHANA"
 name_en: "Rivez REIHANA"
-name_ja: "リウェス レイハナ"
+name_ja: "Rivez REIHANA"
 slug: "rivez-reihana"
 position: "SO"
 height: "189.0"

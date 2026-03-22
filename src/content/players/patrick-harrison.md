@@ -1,7 +1,7 @@
 ---
-title: "Patrick HARRISON | ハトリック ハリソン"
+title: "Patrick HARRISON"
 name_en: "Patrick HARRISON"
-name_ja: "ハトリック ハリソン"
+name_ja: "Patrick HARRISON"
 slug: "patrick-harrison"
 position: "HO"
 height: "181.0"

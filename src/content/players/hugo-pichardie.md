@@ -1,12 +1,12 @@
 ---
 title: "Hugo PICHARDIE"
 name_en: "Hugo PICHARDIE"
-name_ja: ""
+name_ja: "Hugo PICHARDIE"
 slug: "hugo-pichardie"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

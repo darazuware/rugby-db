@@ -1,7 +1,7 @@
 ---
-title: "Che CLARK | チェ クラーク"
+title: "Che CLARK"
 name_en: "Che CLARK"
-name_ja: "チェ クラーク"
+name_ja: "Che CLARK"
 slug: "che-clark"
 position: "FL/No8"
 height: "194.0"

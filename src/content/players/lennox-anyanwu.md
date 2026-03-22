@@ -1,7 +1,7 @@
 ---
-title: "Lennox ANYANWU | レノックス アニャンウ"
+title: "Lennox ANYANWU"
 name_en: "Lennox ANYANWU"
-name_ja: "レノックス アニャンウ"
+name_ja: "Lennox ANYANWU"
 slug: "lennox-anyanwu"
 position: "CTB"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Ignacio MENDY | イクナシオ-メンティ"
+title: "Ignacio MENDY"
 name_en: "Ignacio MENDY"
-name_ja: "イクナシオ-メンティ"
+name_ja: "Ignacio MENDY"
 slug: "ignacio-mendy"
 position: "WTB"
 height: "187.0"

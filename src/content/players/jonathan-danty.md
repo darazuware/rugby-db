@@ -1,7 +1,7 @@
 ---
-title: "Jonathan DANTY | ショナサン タンティ"
+title: "Jonathan DANTY"
 name_en: "Jonathan DANTY"
-name_ja: "ショナサン タンティ"
+name_ja: "Jonathan DANTY"
 slug: "jonathan-danty"
 position: "CTB"
 height: "181.0"

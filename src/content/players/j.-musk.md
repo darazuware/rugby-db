@@ -1,12 +1,12 @@
 ---
 title: "J. Musk"
 name_en: "J. Musk"
-name_ja: ""
+name_ja: "J. Musk"
 slug: "j.-musk"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Kade BANKS | ケイト ハンクス"
+title: "Kade BANKS"
 name_en: "Kade BANKS"
-name_ja: "ケイト ハンクス"
+name_ja: "Kade BANKS"
 slug: "kade-banks"
 position: "FB"
 height: "183.0"

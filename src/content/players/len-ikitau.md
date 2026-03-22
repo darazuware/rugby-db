@@ -1,7 +1,7 @@
 ---
 title: "Len Ikitau"
 name_en: "Len Ikitau"
-name_ja: ""
+name_ja: "Len Ikitau"
 slug: "len-ikitau"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

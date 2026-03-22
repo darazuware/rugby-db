@@ -1,12 +1,12 @@
 ---
 title: "Ewan RICHARDS"
 name_en: "Ewan RICHARDS"
-name_ja: ""
+name_ja: "Ewan RICHARDS"
 slug: "ewan-richards"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

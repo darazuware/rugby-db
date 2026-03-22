@@ -1,7 +1,7 @@
 ---
-title: "Guram GOGICHASHVILI | クラム-コキチャシュウィリ"
+title: "Guram GOGICHASHVILI"
 name_en: "Guram GOGICHASHVILI"
-name_ja: "クラム-コキチャシュウィリ"
+name_ja: "Guram GOGICHASHVILI"
 slug: "guram-gogichashvili"
 position: "PR"
 height: "183.0"

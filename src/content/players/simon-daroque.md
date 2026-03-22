@@ -1,12 +1,12 @@
 ---
 title: "Simon DAROQUE"
 name_en: "Simon DAROQUE"
-name_ja: ""
+name_ja: "Simon DAROQUE"
 slug: "simon-daroque"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

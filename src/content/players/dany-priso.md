@@ -1,7 +1,7 @@
 ---
-title: "Dany PRISO | タニー-フリソ"
+title: "Dany PRISO"
 name_en: "Dany PRISO"
-name_ja: "タニー-フリソ"
+name_ja: "Dany PRISO"
 slug: "dany-priso"
 position: "PR"
 height: "182.0"

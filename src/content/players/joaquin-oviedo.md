@@ -1,7 +1,7 @@
 ---
-title: "Joaquin OVIEDO | ホアキン オヒエト"
+title: "Joaquin OVIEDO"
 name_en: "Joaquin OVIEDO"
-name_ja: "ホアキン オヒエト"
+name_ja: "Joaquin OVIEDO"
 slug: "joaquin-oviedo"
 position: "FL/NO8"
 height: "191.0"

@@ -1,7 +1,7 @@
 ---
-title: "Corey TOOLE | コーリー-トゥール"
+title: "Corey TOOLE"
 name_en: "Corey TOOLE"
-name_ja: "コーリー-トゥール"
+name_ja: "Corey TOOLE"
 slug: "corey-toole"
 position: "WTB"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Peter LAKAI | ヒーター ラカイ"
+title: "Peter LAKAI"
 name_en: "Peter LAKAI"
-name_ja: "ヒーター ラカイ"
+name_ja: "Peter LAKAI"
 slug: "peter-lakai"
 position: "FL/No8"
 height: "186.0"

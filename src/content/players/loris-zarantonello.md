@@ -1,7 +1,7 @@
 ---
-title: "Loris ZARANTONELLO | ロリス サラントネロ"
+title: "Loris ZARANTONELLO"
 name_en: "Loris ZARANTONELLO"
-name_ja: "ロリス サラントネロ"
+name_ja: "Loris ZARANTONELLO"
 slug: "loris-zarantonello"
 position: "HO"
 height: "183.0"

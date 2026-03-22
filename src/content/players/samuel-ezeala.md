@@ -1,7 +1,7 @@
 ---
-title: "Samuel EZEALA | サミュエル エセアラ"
+title: "Samuel EZEALA"
 name_en: "Samuel EZEALA"
-name_ja: "サミュエル エセアラ"
+name_ja: "Samuel EZEALA"
 slug: "samuel-ezeala"
 position: "WTB"
 height: "187.0"

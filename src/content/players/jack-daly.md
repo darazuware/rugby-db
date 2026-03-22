@@ -1,7 +1,7 @@
 ---
-title: "Jack DALY | シャック-テイリー"
+title: "Jack DALY"
 name_en: "Jack DALY"
-name_ja: "シャック-テイリー"
+name_ja: "Jack DALY"
 slug: "jack-daly"
 position: "FL/No8"
 height: "183.0"

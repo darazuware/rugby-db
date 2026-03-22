@@ -1,7 +1,7 @@
 ---
-title: "Max HICKS | マックス ヒックス"
+title: "Max HICKS"
 name_en: "Max HICKS"
-name_ja: "マックス ヒックス"
+name_ja: "Max HICKS"
 slug: "max-hicks"
 position: "FL/NO8"
 height: "199.0"

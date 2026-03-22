@@ -1,12 +1,12 @@
 ---
 title: "Joe LAFARGE"
 name_en: "Joe LAFARGE"
-name_ja: ""
+name_ja: "Joe LAFARGE"
 slug: "joe-lafarge"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

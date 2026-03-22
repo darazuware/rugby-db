@@ -1,7 +1,7 @@
 ---
 title: "Eroni Mawi"
 name_en: "Eroni Mawi"
-name_ja: ""
+name_ja: "Eroni Mawi"
 slug: "eroni-mawi"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Fiji (25)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

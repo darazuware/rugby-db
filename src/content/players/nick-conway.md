@@ -1,7 +1,7 @@
 ---
-title: "Nick CONWAY | ニック コンウェイ"
+title: "Nick CONWAY"
 name_en: "Nick CONWAY"
-name_ja: "ニック コンウェイ"
+name_ja: "Nick CONWAY"
 slug: "nick-conway"
 position: "WTB"
 height: "186.0"

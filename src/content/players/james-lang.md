@@ -1,7 +1,7 @@
 ---
-title: "James LANG | シェームス-ランク"
+title: "James LANG"
 name_en: "James LANG"
-name_ja: "シェームス-ランク"
+name_ja: "James LANG"
 slug: "james-lang"
 position: "SO"
 height: "183.0"

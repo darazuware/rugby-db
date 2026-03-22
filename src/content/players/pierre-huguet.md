@@ -1,7 +1,7 @@
 ---
-title: "Pierre HUGUET | ヒエール ユケ"
+title: "Pierre HUGUET"
 name_en: "Pierre HUGUET"
-name_ja: "ヒエール ユケ"
+name_ja: "Pierre HUGUET"
 slug: "pierre-huguet"
 position: "FL/NO8"
 height: "194.0"

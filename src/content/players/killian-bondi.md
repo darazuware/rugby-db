@@ -1,12 +1,12 @@
 ---
 title: "Killian BONDI"
 name_en: "Killian BONDI"
-name_ja: ""
+name_ja: "Killian BONDI"
 slug: "killian-bondi"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

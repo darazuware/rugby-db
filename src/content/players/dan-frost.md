@@ -1,12 +1,12 @@
 ---
 title: "Dan FROST"
 name_en: "Dan FROST"
-name_ja: ""
+name_ja: "Dan FROST"
 slug: "dan-frost"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

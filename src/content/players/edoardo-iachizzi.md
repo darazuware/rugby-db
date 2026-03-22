@@ -1,7 +1,7 @@
 ---
-title: "Edoardo IACHIZZI | エトアルト イアキッツィ"
+title: "Edoardo IACHIZZI"
 name_en: "Edoardo IACHIZZI"
-name_ja: "エトアルト イアキッツィ"
+name_ja: "Edoardo IACHIZZI"
 slug: "edoardo-iachizzi"
 position: "FL/NO8"
 height: "196.0"

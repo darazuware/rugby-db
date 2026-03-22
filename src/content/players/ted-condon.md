@@ -1,12 +1,12 @@
 ---
 title: "Ted CONDON"
 name_en: "Ted CONDON"
-name_ja: ""
+name_ja: "Ted CONDON"
 slug: "ted-condon"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

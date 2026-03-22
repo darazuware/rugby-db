@@ -1,12 +1,12 @@
 ---
 title: "Will JEANES"
 name_en: "Will JEANES"
-name_ja: ""
+name_ja: "Will JEANES"
 slug: "will-jeanes"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

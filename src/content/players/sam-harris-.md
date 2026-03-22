@@ -1,12 +1,12 @@
 ---
 title: "Sam HARRIS"
 name_en: "Sam HARRIS"
-name_ja: ""
+name_ja: "Sam HARRIS"
 slug: "sam-harris-"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "J. Iosefa-Scott"
 name_en: "J. Iosefa-Scott"
-name_ja: ""
+name_ja: "J. Iosefa-Scott"
 slug: "j.-iosefa-scott"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Kleo LABARBE | クレオ ラハルフ"
+title: "Kleo LABARBE"
 name_en: "Kleo LABARBE"
-name_ja: "クレオ ラハルフ"
+name_ja: "Kleo LABARBE"
 slug: "kleo-labarbe"
 position: "SH"
 height: "175.0"

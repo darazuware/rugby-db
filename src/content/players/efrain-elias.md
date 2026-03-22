@@ -1,7 +1,7 @@
 ---
-title: "Efrain ELIAS | エフライン エリアス"
+title: "Efrain ELIAS"
 name_en: "Efrain ELIAS"
-name_ja: "エフライン エリアス"
+name_ja: "Efrain ELIAS"
 slug: "efrain-elias"
 position: "LO"
 height: "200.0"

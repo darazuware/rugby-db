@@ -6,7 +6,7 @@ slug: "codi-purnell"
 position: "PR"
 height: "190.0"
 weight: "140.0"
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

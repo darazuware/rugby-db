@@ -1,12 +1,12 @@
 ---
 title: "K. James"
 name_en: "K. James"
-name_ja: ""
+name_ja: "K. James"
 slug: "k.-james"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

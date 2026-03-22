@@ -1,12 +1,12 @@
 ---
-title: "Hamish MACARTHUR | ヘイミッシュ マッカーサー"
+title: "Hamish MACARTHUR"
 name_en: "Hamish MACARTHUR"
-name_ja: "ヘイミッシュ マッカーサー"
+name_ja: "Hamish MACARTHUR"
 slug: "hamish-macarthur"
 position: "SH"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "Ollie SLEIGHTHOLME"
 name_en: "Ollie SLEIGHTHOLME"
-name_ja: ""
+name_ja: "Ollie SLEIGHTHOLME"
 slug: "ollie-sleightholme"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

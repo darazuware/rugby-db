@@ -1,7 +1,7 @@
 ---
-title: "Malakai HALA | マラカイ ハラ"
+title: "Malakai HALA"
 name_en: "Malakai HALA"
-name_ja: "マラカイ ハラ"
+name_ja: "Malakai HALA"
 slug: "malakai-hala"
 position: "PR"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
-title: "Temo MAYANAVANUA | テモ マヤナウァヌア"
+title: "Temo MAYANAVANUA"
 name_en: "Temo MAYANAVANUA"
-name_ja: "テモ マヤナウァヌア"
+name_ja: "Temo MAYANAVANUA"
 slug: "temo-mayanavanua"
 position: "LO"
 height: "197.0"

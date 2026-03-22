@@ -1,7 +1,7 @@
 ---
-title: "Louis LE BRUN | ルイ ル フラン"
+title: "Louis LE BRUN"
 name_en: "Louis LE BRUN"
-name_ja: "ルイ ル フラン"
+name_ja: "Louis LE BRUN"
 slug: "louis-le-brun"
 position: "SO"
 height: "188.0"

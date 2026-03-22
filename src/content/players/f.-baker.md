@@ -1,12 +1,12 @@
 ---
 title: "F. Baker"
 name_en: "F. Baker"
-name_ja: ""
+name_ja: "F. Baker"
 slug: "f.-baker"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

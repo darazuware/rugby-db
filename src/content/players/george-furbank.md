@@ -1,12 +1,12 @@
 ---
 title: "George FURBANK"
 name_en: "George FURBANK"
-name_ja: ""
+name_ja: "George FURBANK"
 slug: "george-furbank"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 29
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Sef FA'AGASE | セフ ファアカセ"
+title: "Sef FA'AGASE"
 name_en: "Sef FA'AGASE"
-name_ja: "セフ ファアカセ"
+name_ja: "Sef FA'AGASE"
 slug: "sef-fa-agase"
 position: "PR"
 height: "185.0"

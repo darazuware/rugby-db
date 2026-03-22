@@ -1,7 +1,7 @@
 ---
-title: "Ruben LOVE | ルーヘン ラフ"
+title: "Ruben LOVE"
 name_en: "Ruben LOVE"
-name_ja: "ルーヘン ラフ"
+name_ja: "Ruben LOVE"
 slug: "ruben-love"
 position: "FB"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
 title: "Bevan Rodd"
 name_en: "Bevan Rodd"
-name_ja: ""
+name_ja: "Bevan Rodd"
 slug: "bevan-rodd"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

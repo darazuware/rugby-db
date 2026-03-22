@@ -1,7 +1,7 @@
 ---
 title: "Boris Wenger"
 name_en: "Boris Wenger"
-name_ja: ""
+name_ja: "Boris Wenger"
 slug: "boris-wenger"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

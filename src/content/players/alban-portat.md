@@ -1,12 +1,12 @@
 ---
 title: "Alban PORTAT"
 name_en: "Alban PORTAT"
-name_ja: ""
+name_ja: "Alban PORTAT"
 slug: "alban-portat"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

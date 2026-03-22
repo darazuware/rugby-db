@@ -1,7 +1,7 @@
 ---
-title: "Josh FUSITU'A | ショシュ フシトゥア"
+title: "Josh FUSITU'A"
 name_en: "Josh FUSITU'A"
-name_ja: "ショシュ フシトゥア"
+name_ja: "Josh FUSITU'A"
 slug: "josh-fusitua"
 position: "PR"
 height: "183.0"

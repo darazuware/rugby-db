@@ -1,7 +1,7 @@
 ---
-title: "Harri MORRIS | ハリー モリス"
+title: "Harri MORRIS"
 name_en: "Harri MORRIS"
-name_ja: "ハリー モリス"
+name_ja: "Harri MORRIS"
 slug: "harri-morris"
 position: "FL/No8"
 height: "180.0"

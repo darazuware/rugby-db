@@ -1,12 +1,12 @@
 ---
 title: "Romeo MOLA"
 name_en: "Romeo MOLA"
-name_ja: ""
+name_ja: "Romeo MOLA"
 slug: "romeo-mola"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

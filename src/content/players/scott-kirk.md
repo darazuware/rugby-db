@@ -1,12 +1,12 @@
 ---
 title: "Scott KIRK"
 name_en: "Scott KIRK"
-name_ja: ""
+name_ja: "Scott KIRK"
 slug: "scott-kirk"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

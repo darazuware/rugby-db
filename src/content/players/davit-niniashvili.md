@@ -1,7 +1,7 @@
 ---
-title: "Davit NINIASHVILI | タウィト-ニニアシウィリ"
+title: "Davit NINIASHVILI"
 name_en: "Davit NINIASHVILI"
-name_ja: "タウィト-ニニアシウィリ"
+name_ja: "Davit NINIASHVILI"
 slug: "davit-niniashvili"
 position: "FB"
 height: "185.0"

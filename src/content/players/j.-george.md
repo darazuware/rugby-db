@@ -1,12 +1,12 @@
 ---
 title: "J. George"
 name_en: "J. George"
-name_ja: ""
+name_ja: "J. George"
 slug: "j.-george"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

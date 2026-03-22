@@ -1,12 +1,12 @@
 ---
 title: "Tom JAMES"
 name_en: "Tom JAMES"
-name_ja: ""
+name_ja: "Tom JAMES"
 slug: "tom-james-"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 32
 country: ""
 birth_place_scraped: ""

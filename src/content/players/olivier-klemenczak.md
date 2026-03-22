@@ -1,7 +1,7 @@
 ---
-title: "Olivier KLEMENCZAK | オリウィエ クレマンチャック"
+title: "Olivier KLEMENCZAK"
 name_en: "Olivier KLEMENCZAK"
-name_ja: "オリウィエ クレマンチャック"
+name_ja: "Olivier KLEMENCZAK"
 slug: "olivier-klemenczak"
 position: "CTB"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Anton SEGNER | アントン-セクナー"
+title: "Anton SEGNER"
 name_en: "Anton SEGNER"
-name_ja: "アントン-セクナー"
+name_ja: "Anton SEGNER"
 slug: "anton-segner"
 position: "FL/No8"
 height: "192.0"

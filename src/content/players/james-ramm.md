@@ -1,12 +1,12 @@
 ---
 title: "James RAMM"
 name_en: "James RAMM"
-name_ja: ""
+name_ja: "James RAMM"
 slug: "james-ramm"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "W. Crane"
 name_en: "W. Crane"
-name_ja: ""
+name_ja: "W. Crane"
 slug: "w.-crane"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
 title: "Joseph Dweba"
 name_en: "Joseph Dweba"
-name_ja: ""
+name_ja: "Joseph Dweba"
 slug: "joseph-dweba"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

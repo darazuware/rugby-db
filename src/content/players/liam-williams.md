@@ -1,7 +1,7 @@
 ---
 title: "Liam Williams"
 name_en: "Liam Williams"
-name_ja: ""
+name_ja: "Liam Williams"
 slug: "liam-williams"
 position: "Fullback"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: "Wales (92)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

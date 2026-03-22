@@ -1,7 +1,7 @@
 ---
 title: "James O'Connor"
 name_en: "James O'Connor"
-name_ja: ""
+name_ja: "James O'Connor"
 slug: "james-o'connor"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Australia (48)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

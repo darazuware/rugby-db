@@ -1,12 +1,12 @@
 ---
 title: "Josh BAYLISS"
 name_en: "Josh BAYLISS"
-name_ja: ""
+name_ja: "Josh BAYLISS"
 slug: "josh-bayliss"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

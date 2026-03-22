@@ -1,7 +1,7 @@
 ---
-title: "Anthony BOUTHIER | アントニー フティエ"
+title: "Anthony BOUTHIER"
 name_en: "Anthony BOUTHIER"
-name_ja: "アントニー フティエ"
+name_ja: "Anthony BOUTHIER"
 slug: "anthony-bouthier"
 position: "FB"
 height: "182.0"

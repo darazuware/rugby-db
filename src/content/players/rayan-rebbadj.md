@@ -1,7 +1,7 @@
 ---
-title: "Rayan REBBADJ | ラヤン レヘル"
+title: "Rayan REBBADJ"
 name_en: "Rayan REBBADJ"
-name_ja: "ラヤン レヘル"
+name_ja: "Rayan REBBADJ"
 slug: "rayan-rebbadj"
 position: "CTB"
 height: "190.0"

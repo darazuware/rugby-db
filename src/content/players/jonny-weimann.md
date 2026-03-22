@@ -1,12 +1,12 @@
 ---
 title: "Jonny WEIMANN"
 name_en: "Jonny WEIMANN"
-name_ja: ""
+name_ja: "Jonny WEIMANN"
 slug: "jonny-weimann"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

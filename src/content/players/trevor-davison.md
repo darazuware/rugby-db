@@ -1,12 +1,12 @@
 ---
 title: "Trevor DAVISON"
 name_en: "Trevor DAVISON"
-name_ja: ""
+name_ja: "Trevor DAVISON"
 slug: "trevor-davison"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 33
 country: ""
 birth_place_scraped: ""

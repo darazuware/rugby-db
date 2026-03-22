@@ -1,7 +1,7 @@
 ---
 title: "Jack Walker"
 name_en: "Jack Walker"
-name_ja: ""
+name_ja: "Jack Walker"
 slug: "jack-walker"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "England (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

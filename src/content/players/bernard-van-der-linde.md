@@ -1,12 +1,12 @@
 ---
 title: "Bernard VAN DER LINDE"
 name_en: "Bernard VAN DER LINDE"
-name_ja: ""
+name_ja: "Bernard VAN DER LINDE"
 slug: "bernard-van-der-linde"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

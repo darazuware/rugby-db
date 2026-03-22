@@ -1,12 +1,12 @@
 ---
 title: "Matt BERGES"
 name_en: "Matt BERGES"
-name_ja: ""
+name_ja: "Matt BERGES"
 slug: "matt-berges"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

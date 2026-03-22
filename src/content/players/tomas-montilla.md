@@ -1,7 +1,7 @@
 ---
-title: "Tomas MONTILLA | トマス モンティーシャ"
+title: "Tomas MONTILLA"
 name_en: "Tomas MONTILLA"
-name_ja: "トマス モンティーシャ"
+name_ja: "Tomas MONTILLA"
 slug: "tomas-montilla"
 position: "HO"
 height: "182.0"

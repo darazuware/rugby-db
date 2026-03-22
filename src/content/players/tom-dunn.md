@@ -1,12 +1,12 @@
 ---
 title: "Tom DUNN"
 name_en: "Tom DUNN"
-name_ja: ""
+name_ja: "Tom DUNN"
 slug: "tom-dunn"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 33
 country: ""
 birth_place_scraped: ""

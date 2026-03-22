@@ -1,12 +1,12 @@
 ---
 title: "A. Barbeary"
 name_en: "A. Barbeary"
-name_ja: ""
+name_ja: "A. Barbeary"
 slug: "a.-barbeary"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

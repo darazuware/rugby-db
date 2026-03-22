@@ -1,7 +1,7 @@
 ---
-title: "Remi SENECA | レミ セネカ"
+title: "Remi SENECA"
 name_en: "Remi SENECA"
-name_ja: "レミ セネカ"
+name_ja: "Remi SENECA"
 slug: "remi-seneca"
 position: "PR"
 height: "185.0"

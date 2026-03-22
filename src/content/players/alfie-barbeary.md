@@ -1,12 +1,12 @@
 ---
 title: "Alfie BARBEARY"
 name_en: "Alfie BARBEARY"
-name_ja: ""
+name_ja: "Alfie BARBEARY"
 slug: "alfie-barbeary"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

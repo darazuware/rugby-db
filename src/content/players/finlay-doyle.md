@@ -1,7 +1,7 @@
 ---
-title: "Finlay DOYLE | フィンレイ トイル"
+title: "Finlay DOYLE"
 name_en: "Finlay DOYLE"
-name_ja: "フィンレイ トイル"
+name_ja: "Finlay DOYLE"
 slug: "finlay-doyle"
 position: "FB"
 height: "191.0"

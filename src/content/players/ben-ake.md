@@ -1,7 +1,7 @@
 ---
-title: "Ben AKE | ヘン アケ"
+title: "Ben AKE"
 name_en: "Ben AKE"
-name_ja: "ヘン アケ"
+name_ja: "Ben AKE"
 slug: "ben-ake"
 position: "PR"
 height: "191.0"

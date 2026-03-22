@@ -1,7 +1,7 @@
 ---
-title: "Gabriel N'GANDEBE | カフリエル-ンカンテヘ"
+title: "Gabriel N'GANDEBE"
 name_en: "Gabriel N'GANDEBE"
-name_ja: "カフリエル-ンカンテヘ"
+name_ja: "Gabriel N'GANDEBE"
 slug: "gabriel-n-gandebe"
 position: "WTB"
 height: "174.0"

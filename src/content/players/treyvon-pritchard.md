@@ -1,12 +1,12 @@
 ---
-title: "Treyvon PRITCHARD | トレイウォン フリチャート"
+title: "Treyvon PRITCHARD"
 name_en: "Treyvon PRITCHARD"
-name_ja: "トレイウォン フリチャート"
+name_ja: "Treyvon PRITCHARD"
 slug: "treyvon-pritchard"
 position: "FB"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

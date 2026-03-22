@@ -1,12 +1,12 @@
 ---
-title: "Angus GROVER | アンカス クローウァー"
+title: "Angus GROVER"
 name_en: "Angus GROVER"
-name_ja: "アンカス クローウァー"
+name_ja: "Angus GROVER"
 slug: "angus-grover"
 position: "SH"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

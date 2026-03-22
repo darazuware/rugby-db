@@ -1,12 +1,12 @@
 ---
 title: "Louis COMPANYO"
 name_en: "Louis COMPANYO"
-name_ja: ""
+name_ja: "Louis COMPANYO"
 slug: "louis-companyo"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

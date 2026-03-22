@@ -1,7 +1,7 @@
 ---
-title: "Cheikh TIBERGHIEN | シェイク ティヘルキアン"
+title: "Cheikh TIBERGHIEN"
 name_en: "Cheikh TIBERGHIEN"
-name_ja: "シェイク ティヘルキアン"
+name_ja: "Cheikh TIBERGHIEN"
 slug: "cheikh-tiberghien"
 position: "FB"
 height: "186.0"

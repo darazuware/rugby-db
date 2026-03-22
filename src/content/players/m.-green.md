@@ -1,12 +1,12 @@
 ---
 title: "M. Green"
 name_en: "M. Green"
-name_ja: ""
+name_ja: "M. Green"
 slug: "m.-green"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

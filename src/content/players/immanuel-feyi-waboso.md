@@ -1,7 +1,7 @@
 ---
 title: "Immanuel Feyi-Waboso"
 name_en: "Immanuel Feyi-Waboso"
-name_ja: ""
+name_ja: "Immanuel Feyi-Waboso"
 slug: "immanuel-feyi-waboso"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

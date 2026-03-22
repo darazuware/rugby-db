@@ -1,12 +1,12 @@
 ---
 title: "Noa TINNIRELLO"
 name_en: "Noa TINNIRELLO"
-name_ja: ""
+name_ja: "Noa TINNIRELLO"
 slug: "noa-tinnirello"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

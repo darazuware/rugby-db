@@ -1,7 +1,7 @@
 ---
 title: "Andrea Zambonin"
 name_en: "Andrea Zambonin"
-name_ja: ""
+name_ja: "Andrea Zambonin"
 slug: "andrea-zambonin"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Italy (3)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

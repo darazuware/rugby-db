@@ -1,7 +1,7 @@
 ---
 title: "Ollie Chessum"
 name_en: "Ollie Chessum"
-name_ja: ""
+name_ja: "Ollie Chessum"
 slug: "ollie-chessum"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "England (23)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

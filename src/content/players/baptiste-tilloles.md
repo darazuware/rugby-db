@@ -1,7 +1,7 @@
 ---
-title: "Baptiste TILLOLES | ハティスト ティヨール"
+title: "Baptiste TILLOLES"
 name_en: "Baptiste TILLOLES"
-name_ja: "ハティスト ティヨール"
+name_ja: "Baptiste TILLOLES"
 slug: "baptiste-tilloles"
 position: "SH"
 height: "178.0"

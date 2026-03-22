@@ -1,12 +1,12 @@
 ---
 title: "Mathis GIL"
 name_en: "Mathis GIL"
-name_ja: ""
+name_ja: "Mathis GIL"
 slug: "mathis-gil"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

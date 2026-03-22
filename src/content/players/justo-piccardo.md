@@ -1,7 +1,7 @@
 ---
-title: "Justo PICCARDO | フスト ヒカルト"
+title: "Justo PICCARDO"
 name_en: "Justo PICCARDO"
-name_ja: "フスト ヒカルト"
+name_ja: "Justo PICCARDO"
 slug: "justo-piccardo"
 position: "CTB"
 height: "183.0"

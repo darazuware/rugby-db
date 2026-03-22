@@ -1,12 +1,12 @@
 ---
 title: "R. Parsons"
 name_en: "R. Parsons"
-name_ja: ""
+name_ja: "R. Parsons"
 slug: "r.-parsons"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

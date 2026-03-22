@@ -1,12 +1,12 @@
 ---
 title: "N. le Roux"
 name_en: "N. le Roux"
-name_ja: ""
+name_ja: "N. le Roux"
 slug: "n.-le-roux"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

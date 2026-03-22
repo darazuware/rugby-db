@@ -1,12 +1,12 @@
 ---
 title: "P. Brantingham"
 name_en: "P. Brantingham"
-name_ja: ""
+name_ja: "P. Brantingham"
 slug: "p.-brantingham"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

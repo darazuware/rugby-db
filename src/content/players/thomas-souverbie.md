@@ -1,7 +1,7 @@
 ---
-title: "Thomas SOUVERBIE | トマ スウェルヒー"
+title: "Thomas SOUVERBIE"
 name_en: "Thomas SOUVERBIE"
-name_ja: "トマ スウェルヒー"
+name_ja: "Thomas SOUVERBIE"
 slug: "thomas-souverbie"
 position: "SH"
 height: "175.0"

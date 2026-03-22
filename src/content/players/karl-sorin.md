@@ -1,7 +1,7 @@
 ---
-title: "Karl SORIN | カール ソラン"
+title: "Karl SORIN"
 name_en: "Karl SORIN"
-name_ja: "カール ソラン"
+name_ja: "Karl SORIN"
 slug: "karl-sorin"
 position: "PR"
 height: "186.0"

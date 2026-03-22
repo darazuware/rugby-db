@@ -1,7 +1,7 @@
 ---
-title: "Xavier RUBENS | サヒエル-ルーヘンス"
+title: "Xavier RUBENS"
 name_en: "Xavier RUBENS"
-name_ja: "サヒエル-ルーヘンス"
+name_ja: "Xavier RUBENS"
 slug: "xavier-rubens"
 position: "CTB"
 height: "186.0"

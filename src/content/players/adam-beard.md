@@ -1,7 +1,7 @@
 ---
-title: "Adam BEARD | アタム ヒアート"
+title: "Adam BEARD"
 name_en: "Adam BEARD"
-name_ja: "アタム ヒアート"
+name_ja: "Adam BEARD"
 slug: "adam-beard"
 position: "LO"
 height: "202.0"

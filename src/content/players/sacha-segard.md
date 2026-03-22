@@ -1,12 +1,12 @@
 ---
 title: "Sacha SEGARD"
 name_en: "Sacha SEGARD"
-name_ja: ""
+name_ja: "Sacha SEGARD"
 slug: "sacha-segard"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

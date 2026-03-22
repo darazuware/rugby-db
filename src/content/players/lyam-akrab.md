@@ -1,7 +1,7 @@
 ---
-title: "Lyam AKRAB | リアム アクラフ"
+title: "Lyam AKRAB"
 name_en: "Lyam AKRAB"
-name_ja: "リアム アクラフ"
+name_ja: "Lyam AKRAB"
 slug: "lyam-akrab"
 position: "HO"
 height: "178.0"

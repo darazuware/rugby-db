@@ -1,12 +1,12 @@
 ---
 title: "A. McArthur"
 name_en: "A. McArthur"
-name_ja: ""
+name_ja: "A. McArthur"
 slug: "a.-mcarthur"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Cameron WOKI | キャメロン-ウォキ"
+title: "Cameron WOKI"
 name_en: "Cameron WOKI"
-name_ja: "キャメロン-ウォキ"
+name_ja: "Cameron WOKI"
 slug: "cameron-woki"
 position: "FL/NO8"
 height: "196.0"

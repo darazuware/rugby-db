@@ -1,7 +1,7 @@
 ---
-title: "Zack HENRY | サック ヘンリー"
+title: "Zack HENRY"
 name_en: "Zack HENRY"
-name_ja: "サック ヘンリー"
+name_ja: "Zack HENRY"
 slug: "zack-henry"
 position: "SO"
 height: "183.0"

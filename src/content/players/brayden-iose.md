@@ -1,7 +1,7 @@
 ---
-title: "Brayden IOSE | フレイテン-イオセ"
+title: "Brayden IOSE"
 name_en: "Brayden IOSE"
-name_ja: "フレイテン-イオセ"
+name_ja: "Brayden IOSE"
 slug: "brayden-iose"
 position: "FL/No8"
 height: "188.0"

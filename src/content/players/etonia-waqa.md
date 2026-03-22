@@ -1,7 +1,7 @@
 ---
-title: "Etonia WAQA | エトニア-ワカ"
+title: "Etonia WAQA"
 name_en: "Etonia WAQA"
-name_ja: "エトニア-ワカ"
+name_ja: "Etonia WAQA"
 slug: "etonia-waqa"
 position: "FL/No8"
 height: "196.0"

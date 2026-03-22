@@ -1,7 +1,7 @@
 ---
-title: "Andrew KNEWSTUBB | アントリュー ニュースタッフ"
+title: "Andrew KNEWSTUBB"
 name_en: "Andrew KNEWSTUBB"
-name_ja: "アントリュー ニュースタッフ"
+name_ja: "Andrew KNEWSTUBB"
 slug: "andrew-knewstubb"
 position: "FB"
 height: "188.0"

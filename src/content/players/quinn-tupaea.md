@@ -1,7 +1,7 @@
 ---
-title: "Quinn TUPAEA | クイン ツハエア"
+title: "Quinn TUPAEA"
 name_en: "Quinn TUPAEA"
-name_ja: "クイン ツハエア"
+name_ja: "Quinn TUPAEA"
 slug: "quinn-tupaea"
 position: "CTB"
 height: "186.0"

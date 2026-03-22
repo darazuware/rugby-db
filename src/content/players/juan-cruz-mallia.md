@@ -1,7 +1,7 @@
 ---
-title: "Juan Cruz MALLIA | フアン クルス マリア"
+title: "Juan Cruz MALLIA"
 name_en: "Juan Cruz MALLIA"
-name_ja: "フアン クルス マリア"
+name_ja: "Juan Cruz MALLIA"
 slug: "juan-cruz-mallia"
 position: "FB"
 height: "182.0"

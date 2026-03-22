@@ -1,7 +1,7 @@
 ---
-title: "Pasilio TOSI | ハシリオ トシ"
+title: "Pasilio TOSI"
 name_en: "Pasilio TOSI"
-name_ja: "ハシリオ トシ"
+name_ja: "Pasilio TOSI"
 slug: "pasilio-tosi"
 position: "PR"
 height: "193.0"

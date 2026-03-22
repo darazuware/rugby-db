@@ -1,7 +1,7 @@
 ---
-title: "Matthis LEBEL | マティス ルヘル"
+title: "Matthis LEBEL"
 name_en: "Matthis LEBEL"
-name_ja: "マティス ルヘル"
+name_ja: "Matthis LEBEL"
 slug: "matthis-lebel"
 position: "WTB"
 height: "185.0"

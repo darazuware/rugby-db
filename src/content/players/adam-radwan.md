@@ -1,7 +1,7 @@
 ---
 title: "Adam Radwan"
 name_en: "Adam Radwan"
-name_ja: ""
+name_ja: "Adam Radwan"
 slug: "adam-radwan"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

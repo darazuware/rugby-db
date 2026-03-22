@@ -1,12 +1,12 @@
 ---
 title: "C. Titcombe"
 name_en: "C. Titcombe"
-name_ja: ""
+name_ja: "C. Titcombe"
 slug: "c.-titcombe"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

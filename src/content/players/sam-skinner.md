@@ -1,7 +1,7 @@
 ---
-title: "Sam SKINNER | サム スキナー"
+title: "Sam SKINNER"
 name_en: "Sam SKINNER"
-name_ja: "サム スキナー"
+name_ja: "Sam SKINNER"
 slug: "sam-skinner"
 position: "FL/No8"
 height: "196.0"

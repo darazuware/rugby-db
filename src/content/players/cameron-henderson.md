@@ -1,7 +1,7 @@
 ---
 title: "Cameron Henderson"
 name_en: "Cameron Henderson"
-name_ja: ""
+name_ja: "Cameron Henderson"
 slug: "cameron-henderson"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

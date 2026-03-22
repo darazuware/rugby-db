@@ -1,12 +1,12 @@
 ---
 title: "K. Sylvester-Junior"
 name_en: "K. Sylvester-Junior"
-name_ja: ""
+name_ja: "K. Sylvester-Junior"
 slug: "k.-sylvester-junior"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

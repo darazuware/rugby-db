@@ -1,7 +1,7 @@
 ---
-title: "Henry WIDDOWSON | ヘンリー ウィトゥソン"
+title: "Henry WIDDOWSON"
 name_en: "Henry WIDDOWSON"
-name_ja: "ヘンリー ウィトゥソン"
+name_ja: "Henry WIDDOWSON"
 slug: "henry-widdowson"
 position: "FB"
 height: "188.0"

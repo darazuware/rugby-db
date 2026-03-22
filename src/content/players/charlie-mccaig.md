@@ -1,7 +1,7 @@
 ---
-title: "Charlie MCCAIG | チャーリー マッケイフ"
+title: "Charlie MCCAIG"
 name_en: "Charlie MCCAIG"
-name_ja: "チャーリー マッケイフ"
+name_ja: "Charlie MCCAIG"
 slug: "charlie-mccaig"
 position: "CTB"
 height: "191.0"

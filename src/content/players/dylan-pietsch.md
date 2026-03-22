@@ -1,7 +1,7 @@
 ---
-title: "Dylan PIETSCH | ティラン-ヒーチ"
+title: "Dylan PIETSCH"
 name_en: "Dylan PIETSCH"
-name_ja: "ティラン-ヒーチ"
+name_ja: "Dylan PIETSCH"
 slug: "dylan-pietsch"
 position: "WTB"
 height: "182.0"

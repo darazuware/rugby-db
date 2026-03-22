@@ -1,7 +1,7 @@
 ---
 title: "Nick Isiekwe"
 name_en: "Nick Isiekwe"
-name_ja: ""
+name_ja: "Nick Isiekwe"
 slug: "nick-isiekwe"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "England (11)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

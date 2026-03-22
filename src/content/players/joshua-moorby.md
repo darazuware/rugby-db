@@ -1,7 +1,7 @@
 ---
-title: "Joshua MOORBY | ショシュア モあヒー"
+title: "Joshua MOORBY"
 name_en: "Joshua MOORBY"
-name_ja: "ショシュア モあヒー"
+name_ja: "Joshua MOORBY"
 slug: "joshua-moorby"
 position: "FB"
 height: "188.0"

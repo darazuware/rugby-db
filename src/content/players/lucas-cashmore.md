@@ -1,7 +1,7 @@
 ---
-title: "Lucas CASHMORE | ルカス キャッシュモア"
+title: "Lucas CASHMORE"
 name_en: "Lucas CASHMORE"
-name_ja: "ルカス キャッシュモア"
+name_ja: "Lucas CASHMORE"
 slug: "lucas-cashmore"
 position: "SO"
 height: "177.0"

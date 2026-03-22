@@ -1,7 +1,7 @@
 ---
-title: "Carlu SADIE | カリュ サティー"
+title: "Carlu SADIE"
 name_en: "Carlu SADIE"
-name_ja: "カリュ サティー"
+name_ja: "Carlu SADIE"
 slug: "carlu-sadie"
 position: "PR"
 height: "182.0"

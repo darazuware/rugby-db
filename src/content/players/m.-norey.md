@@ -1,12 +1,12 @@
 ---
 title: "M. Norey"
 name_en: "M. Norey"
-name_ja: ""
+name_ja: "M. Norey"
 slug: "m.-norey"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Jack TAYLOR | シャック-テイラー"
+title: "Jack TAYLOR"
 name_en: "Jack TAYLOR"
-name_ja: "シャック-テイラー"
+name_ja: "Jack TAYLOR"
 slug: "jack-taylor"
 position: "HO"
 height: "181.0"

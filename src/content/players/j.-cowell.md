@@ -1,12 +1,12 @@
 ---
 title: "J. Cowell"
 name_en: "J. Cowell"
-name_ja: ""
+name_ja: "J. Cowell"
 slug: "j.-cowell"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

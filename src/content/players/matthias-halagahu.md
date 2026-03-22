@@ -1,7 +1,7 @@
 ---
-title: "Matthias HALAGAHU | マティアス ハラカフ"
+title: "Matthias HALAGAHU"
 name_en: "Matthias HALAGAHU"
-name_ja: "マティアス ハラカフ"
+name_ja: "Matthias HALAGAHU"
 slug: "matthias-halagahu"
 position: "LO"
 height: "194.0"

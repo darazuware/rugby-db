@@ -1,12 +1,12 @@
 ---
 title: "R. Crowley"
 name_en: "R. Crowley"
-name_ja: ""
+name_ja: "R. Crowley"
 slug: "r.-crowley"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

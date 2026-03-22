@@ -1,12 +1,12 @@
 ---
 title: "Elliot MILLAR-MILLS"
 name_en: "Elliot MILLAR-MILLS"
-name_ja: ""
+name_ja: "Elliot MILLAR-MILLS"
 slug: "elliot-millar-mills"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 33
 country: ""
 birth_place_scraped: ""

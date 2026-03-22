@@ -1,7 +1,7 @@
 ---
-title: "Dalton PAPALI'I | タルトン-ハハリイ"
+title: "Dalton PAPALI'I"
 name_en: "Dalton PAPALI'I"
-name_ja: "タルトン-ハハリイ"
+name_ja: "Dalton PAPALI'I"
 slug: "dalton-papali-i"
 position: "FL/No8"
 height: "193.0"

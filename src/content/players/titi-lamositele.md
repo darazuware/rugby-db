@@ -1,7 +1,7 @@
 ---
 title: "Titi Lamositele"
 name_en: "Titi Lamositele"
-name_ja: ""
+name_ja: "Titi Lamositele"
 slug: "titi-lamositele"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "United States (28)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

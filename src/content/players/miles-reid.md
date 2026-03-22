@@ -1,12 +1,12 @@
 ---
 title: "Miles REID"
 name_en: "Miles REID"
-name_ja: ""
+name_ja: "Miles REID"
 slug: "miles-reid"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
 title: "Ben Curry"
 name_en: "Ben Curry"
-name_ja: ""
+name_ja: "Ben Curry"
 slug: "ben-curry"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

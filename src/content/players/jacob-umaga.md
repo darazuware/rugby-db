@@ -1,7 +1,7 @@
 ---
-title: "Jacob UMAGA | シェイコフ-ウマカ"
+title: "Jacob UMAGA"
 name_en: "Jacob UMAGA"
-name_ja: "シェイコフ-ウマカ"
+name_ja: "Jacob UMAGA"
 slug: "jacob-umaga"
 position: "SO"
 height: "182.0"

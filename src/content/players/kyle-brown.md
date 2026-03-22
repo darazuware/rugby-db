@@ -1,7 +1,7 @@
 ---
-title: "Kyle BROWN | カイル フラウン"
+title: "Kyle BROWN"
 name_en: "Kyle BROWN"
-name_ja: "カイル フラウン"
+name_ja: "Kyle BROWN"
 slug: "kyle-brown"
 position: "CTB"
 height: "181.0"

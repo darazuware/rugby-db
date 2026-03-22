@@ -1,7 +1,7 @@
 ---
-title: "Brodie MCALISTER | フロティー-マカリスター"
+title: "Brodie MCALISTER"
 name_en: "Brodie MCALISTER"
-name_ja: "フロティー-マカリスター"
+name_ja: "Brodie MCALISTER"
 slug: "brodie-mcalister"
 position: "HO"
 height: "182.0"

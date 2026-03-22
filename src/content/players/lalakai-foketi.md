@@ -1,7 +1,7 @@
 ---
-title: "Lalakai FOKETI | ララカイ フォケティ"
+title: "Lalakai FOKETI"
 name_en: "Lalakai FOKETI"
-name_ja: "ララカイ フォケティ"
+name_ja: "Lalakai FOKETI"
 slug: "lalakai-foketi"
 position: "CTB"
 height: "186.0"

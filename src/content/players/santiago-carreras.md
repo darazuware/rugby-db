@@ -1,12 +1,12 @@
 ---
 title: "Santiago CARRERAS"
 name_en: "Santiago CARRERAS"
-name_ja: ""
+name_ja: "Santiago CARRERAS"
 slug: "santiago-carreras"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

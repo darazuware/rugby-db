@@ -1,7 +1,7 @@
 ---
-title: "Tom DODD | トム トット"
+title: "Tom DODD"
 name_en: "Tom DODD"
-name_ja: "トム トット"
+name_ja: "Tom DODD"
 slug: "tom-dodd"
 position: "FL/No8"
 height: "191.0"

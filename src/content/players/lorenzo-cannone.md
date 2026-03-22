@@ -1,7 +1,7 @@
 ---
-title: "Lorenzo CANNONE | ロレンツォ カノーネ"
+title: "Lorenzo CANNONE"
 name_en: "Lorenzo CANNONE"
-name_ja: "ロレンツォ カノーネ"
+name_ja: "Lorenzo CANNONE"
 slug: "lorenzo-cannone"
 position: "FL/No8"
 height: "190.0"

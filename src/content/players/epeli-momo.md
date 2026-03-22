@@ -1,7 +1,7 @@
 ---
-title: "Epeli MOMO | エヘリ-モモ"
+title: "Epeli MOMO"
 name_en: "Epeli MOMO"
-name_ja: "エヘリ-モモ"
+name_ja: "Epeli MOMO"
 slug: "epeli-momo"
 position: "WTB"
 height: "184.0"

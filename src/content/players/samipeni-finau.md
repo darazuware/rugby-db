@@ -1,7 +1,7 @@
 ---
-title: "Samipeni FINAU | サミヘニ フィナウ"
+title: "Samipeni FINAU"
 name_en: "Samipeni FINAU"
-name_ja: "サミヘニ フィナウ"
+name_ja: "Samipeni FINAU"
 slug: "samipeni-finau"
 position: "FL/No8"
 height: "196.0"

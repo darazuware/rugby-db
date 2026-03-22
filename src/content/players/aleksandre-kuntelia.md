@@ -1,7 +1,7 @@
 ---
-title: "Aleksandre KUNTELIA | アレクサントル クンテリア"
+title: "Aleksandre KUNTELIA"
 name_en: "Aleksandre KUNTELIA"
-name_ja: "アレクサントル クンテリア"
+name_ja: "Aleksandre KUNTELIA"
 slug: "aleksandre-kuntelia"
 position: "PR"
 height: "197.0"

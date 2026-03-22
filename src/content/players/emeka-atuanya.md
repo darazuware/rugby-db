@@ -1,12 +1,12 @@
 ---
 title: "Emeka ATUANYA"
 name_en: "Emeka ATUANYA"
-name_ja: ""
+name_ja: "Emeka ATUANYA"
 slug: "emeka-atuanya"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

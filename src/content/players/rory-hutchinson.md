@@ -1,12 +1,12 @@
 ---
 title: "Rory HUTCHINSON"
 name_en: "Rory HUTCHINSON"
-name_ja: ""
+name_ja: "Rory HUTCHINSON"
 slug: "rory-hutchinson"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 30
 country: ""
 birth_place_scraped: ""

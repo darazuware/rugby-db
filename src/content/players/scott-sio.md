@@ -1,7 +1,7 @@
 ---
 title: "Scott Sio"
 name_en: "Scott Sio"
-name_ja: ""
+name_ja: "Scott Sio"
 slug: "scott-sio"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Australia (59)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Boan VENTER | ホアン フェンター"
+title: "Boan VENTER"
 name_en: "Boan VENTER"
-name_ja: "ホアン フェンター"
+name_ja: "Boan VENTER"
 slug: "boan-venter"
 position: "PR"
 height: "187.0"

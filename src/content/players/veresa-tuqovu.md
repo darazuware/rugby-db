@@ -1,7 +1,7 @@
 ---
-title: "Veresa Tuqovu RAMOTOTABUA | ウェレサ-トゥコウ ラモトタフア"
+title: "Veresa Tuqovu RAMOTOTABUA"
 name_en: "Veresa Tuqovu RAMOTOTABUA"
-name_ja: "ウェレサ-トゥコウ ラモトタフア"
+name_ja: "Veresa Tuqovu RAMOTOTABUA"
 slug: "veresa-tuqovu"
 position: "FL/NO8"
 height: "195.0"

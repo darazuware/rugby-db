@@ -1,7 +1,7 @@
 ---
-title: "Andy MUIRHEAD | アンティ ミュアヘット"
+title: "Andy MUIRHEAD"
 name_en: "Andy MUIRHEAD"
-name_ja: "アンティ ミュアヘット"
+name_ja: "Andy MUIRHEAD"
 slug: "andy-muirhead"
 position: "WTB"
 height: "183.0"

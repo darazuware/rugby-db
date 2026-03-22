@@ -1,7 +1,7 @@
 ---
-title: "Frankie GOLDSBROUGH | フランキー コールスフロー"
+title: "Frankie GOLDSBROUGH"
 name_en: "Frankie GOLDSBROUGH"
-name_ja: "フランキー コールスフロー"
+name_ja: "Frankie GOLDSBROUGH"
 slug: "frankie-goldsbrough"
 position: "CTB"
 height: "187.0"

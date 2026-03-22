@@ -1,7 +1,7 @@
 ---
 title: "Cadan Murley"
 name_en: "Cadan Murley"
-name_ja: ""
+name_ja: "Cadan Murley"
 slug: "cadan-murley"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "Mathias BOUNIOL"
 name_en: "Mathias BOUNIOL"
-name_ja: ""
+name_ja: "Mathias BOUNIOL"
 slug: "mathias-bouniol"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

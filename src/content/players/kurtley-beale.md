@@ -1,7 +1,7 @@
 ---
-title: "Kurtley BEALE | カートリー ヒール"
+title: "Kurtley BEALE"
 name_en: "Kurtley BEALE"
-name_ja: "カートリー ヒール"
+name_ja: "Kurtley BEALE"
 slug: "kurtley-beale"
 position: "FB"
 height: "184.0"

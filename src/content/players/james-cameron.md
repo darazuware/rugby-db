@@ -1,7 +1,7 @@
 ---
-title: "James CAMERON | シェームス-キャメロン"
+title: "James CAMERON"
 name_en: "James CAMERON"
-name_ja: "シェームス-キャメロン"
+name_ja: "James CAMERON"
 slug: "james-cameron"
 position: "CTB"
 height: "188.0"

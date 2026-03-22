@@ -1,7 +1,7 @@
 ---
-title: "Alfred PARISIEN | アルフレット ハリシャン"
+title: "Alfred PARISIEN"
 name_en: "Alfred PARISIEN"
-name_ja: "アルフレット ハリシャン"
+name_ja: "Alfred PARISIEN"
 slug: "alfred-parisien"
 position: "CTB"
 height: "182.0"

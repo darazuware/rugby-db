@@ -1,7 +1,7 @@
 ---
-title: "Asafo AUMUA | アサフォ-アウムア"
+title: "Asafo AUMUA"
 name_en: "Asafo AUMUA"
-name_ja: "アサフォ-アウムア"
+name_ja: "Asafo AUMUA"
 slug: "asafo-aumua"
 position: "HO"
 height: "177.0"

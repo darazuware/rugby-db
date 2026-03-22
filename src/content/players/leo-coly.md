@@ -1,7 +1,7 @@
 ---
-title: "Leo COLY | レオ コリ"
+title: "Leo COLY"
 name_en: "Leo COLY"
-name_ja: "レオ コリ"
+name_ja: "Leo COLY"
 slug: "leo-coly"
 position: "SH"
 height: "175.0"

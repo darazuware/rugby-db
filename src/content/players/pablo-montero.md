@@ -1,12 +1,12 @@
 ---
 title: "Pablo MONTERO"
 name_en: "Pablo MONTERO"
-name_ja: ""
+name_ja: "Pablo MONTERO"
 slug: "pablo-montero"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

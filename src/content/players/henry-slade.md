@@ -1,7 +1,7 @@
 ---
 title: "Henry Slade"
 name_en: "Henry Slade"
-name_ja: ""
+name_ja: "Henry Slade"
 slug: "henry-slade"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Squad caps (784)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

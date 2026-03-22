@@ -1,7 +1,7 @@
 ---
-title: "Tomas LAVANINI | トマス ラウァニーニ"
+title: "Tomas LAVANINI"
 name_en: "Tomas LAVANINI"
-name_ja: "トマス ラウァニーニ"
+name_ja: "Tomas LAVANINI"
 slug: "tomas-lavanini"
 position: "LO"
 height: "200.0"

@@ -1,7 +1,7 @@
 ---
-title: "Glen YOUNG | クレン ヤンク"
+title: "Glen YOUNG"
 name_en: "Glen YOUNG"
-name_ja: "クレン ヤンク"
+name_ja: "Glen YOUNG"
 slug: "glen-young"
 position: "LO"
 height: "200.0"

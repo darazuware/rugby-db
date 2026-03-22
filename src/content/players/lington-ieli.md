@@ -1,7 +1,7 @@
 ---
-title: "Lington IELI | リンントン イエリ"
+title: "Lington IELI"
 name_en: "Lington IELI"
-name_ja: "リンントン イエリ"
+name_ja: "Lington IELI"
 slug: "lington-ieli"
 position: "PR"
 height: "183.0"

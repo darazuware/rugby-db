@@ -1,12 +1,12 @@
 ---
 title: "J. Cherry"
 name_en: "J. Cherry"
-name_ja: ""
+name_ja: "J. Cherry"
 slug: "j.-cherry"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

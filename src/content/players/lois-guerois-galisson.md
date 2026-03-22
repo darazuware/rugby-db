@@ -1,7 +1,7 @@
 ---
-title: "Lois GUEROIS-GALISSON | ロイス ケロワ=カリソン"
+title: "Lois GUEROIS-GALISSON"
 name_en: "Lois GUEROIS-GALISSON"
-name_ja: "ロイス ケロワ=カリソン"
+name_ja: "Lois GUEROIS-GALISSON"
 slug: "lois-guerois-galisson"
 position: "PR"
 height: "192.0"

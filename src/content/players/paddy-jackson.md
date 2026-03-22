@@ -1,7 +1,7 @@
 ---
-title: "Paddy JACKSON | ハティ シャクソン"
+title: "Paddy JACKSON"
 name_en: "Paddy JACKSON"
-name_ja: "ハティ シャクソン"
+name_ja: "Paddy JACKSON"
 slug: "paddy-jackson"
 position: "SO"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "George BLAKE | ショーシ フレイク"
+title: "George BLAKE"
 name_en: "George BLAKE"
-name_ja: "ショーシ フレイク"
+name_ja: "George BLAKE"
 slug: "george-blake"
 position: "PR"
 height: "184.0"

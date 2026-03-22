@@ -1,12 +1,12 @@
 ---
 title: "Jack WOODS"
 name_en: "Jack WOODS"
-name_ja: ""
+name_ja: "Jack WOODS"
 slug: "jack-woods"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

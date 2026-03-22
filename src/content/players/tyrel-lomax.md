@@ -1,7 +1,7 @@
 ---
-title: "Tyrel LOMAX | タイレル ロマックス"
+title: "Tyrel LOMAX"
 name_en: "Tyrel LOMAX"
-name_ja: "タイレル ロマックス"
+name_ja: "Tyrel LOMAX"
 slug: "tyrel-lomax"
 position: "PR"
 height: "192.0"

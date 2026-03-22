@@ -1,7 +1,7 @@
 ---
-title: "Darby LANCASTER | ターヒー-ランカスター"
+title: "Darby LANCASTER"
 name_en: "Darby LANCASTER"
-name_ja: "ターヒー-ランカスター"
+name_ja: "Darby LANCASTER"
 slug: "darby-lancaster"
 position: "WTB"
 height: "190.0"

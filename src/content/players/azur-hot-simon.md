@@ -1,12 +1,12 @@
 ---
 title: "Azur HOT-SIMON"
 name_en: "Azur HOT-SIMON"
-name_ja: ""
+name_ja: "Azur HOT-SIMON"
 slug: "azur-hot-simon"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

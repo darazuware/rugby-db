@@ -1,12 +1,12 @@
 ---
 title: "George HENDY"
 name_en: "George HENDY"
-name_ja: ""
+name_ja: "George HENDY"
 slug: "george-hendy"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

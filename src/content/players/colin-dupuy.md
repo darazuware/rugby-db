@@ -1,7 +1,7 @@
 ---
-title: "Colin DUPUY | コリン テュヒュイ"
+title: "Colin DUPUY"
 name_en: "Colin DUPUY"
-name_ja: "コリン テュヒュイ"
+name_ja: "Colin DUPUY"
 slug: "colin-dupuy"
 position: "SH"
 height: "173.0"

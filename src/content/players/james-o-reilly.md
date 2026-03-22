@@ -1,7 +1,7 @@
 ---
-title: "James O'REILLY | シェームス-オライリー"
+title: "James O'REILLY"
 name_en: "James O'REILLY"
-name_ja: "シェームス-オライリー"
+name_ja: "James O'REILLY"
 slug: "james-o-reilly"
 position: "HO"
 height: "183.0"

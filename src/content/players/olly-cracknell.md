@@ -1,7 +1,7 @@
 ---
 title: "Olly Cracknell"
 name_en: "Olly Cracknell"
-name_ja: ""
+name_ja: "Olly Cracknell"
 slug: "olly-cracknell"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

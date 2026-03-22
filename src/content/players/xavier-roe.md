@@ -1,7 +1,7 @@
 ---
-title: "Xavier ROE | サヒエル ロー"
+title: "Xavier ROE"
 name_en: "Xavier ROE"
-name_ja: "サヒエル ロー"
+name_ja: "Xavier ROE"
 slug: "xavier-roe"
 position: "SH"
 height: "179.0"

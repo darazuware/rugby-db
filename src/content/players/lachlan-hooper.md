@@ -1,7 +1,7 @@
 ---
-title: "Lachlan HOOPER | ラクラン フーハー"
+title: "Lachlan HOOPER"
 name_en: "Lachlan HOOPER"
-name_ja: "ラクラン フーハー"
+name_ja: "Lachlan HOOPER"
 slug: "lachlan-hooper"
 position: "FL/No8"
 height: "195.0"

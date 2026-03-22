@@ -1,7 +1,7 @@
 ---
-title: "Tristyn COOK | トリスタン クック"
+title: "Tristyn COOK"
 name_en: "Tristyn COOK"
-name_ja: "トリスタン クック"
+name_ja: "Tristyn COOK"
 slug: "tristyn-cook"
 position: "LO"
 height: "199.0"

@@ -1,12 +1,12 @@
 ---
 title: "Edoardo TODARO"
 name_en: "Edoardo TODARO"
-name_ja: ""
+name_ja: "Edoardo TODARO"
 slug: "edoardo-todaro"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

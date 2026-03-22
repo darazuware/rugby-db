@@ -1,12 +1,12 @@
 ---
 title: "L. Friday"
 name_en: "L. Friday"
-name_ja: ""
+name_ja: "L. Friday"
 slug: "l.-friday"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Ollie SAPSFORD | オリー サフスフォート"
+title: "Ollie SAPSFORD"
 name_en: "Ollie SAPSFORD"
-name_ja: "オリー サフスフォート"
+name_ja: "Ollie SAPSFORD"
 slug: "ollie-sapsford"
 position: "WTB"
 height: "191.0"

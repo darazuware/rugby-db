@@ -1,12 +1,12 @@
 ---
 title: "Mikey SUMMERFIELD"
 name_en: "Mikey SUMMERFIELD"
-name_ja: ""
+name_ja: "Mikey SUMMERFIELD"
 slug: "mikey-summerfield"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

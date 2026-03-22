@@ -1,12 +1,12 @@
 ---
 title: "R. Palframan"
 name_en: "R. Palframan"
-name_ja: ""
+name_ja: "R. Palframan"
 slug: "r.-palframan"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

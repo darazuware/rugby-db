@@ -1,12 +1,12 @@
 ---
 title: "Jeremy NEMOR"
 name_en: "Jeremy NEMOR"
-name_ja: ""
+name_ja: "Jeremy NEMOR"
 slug: "jeremy-nemor"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

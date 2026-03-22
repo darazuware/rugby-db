@@ -1,7 +1,7 @@
 ---
-title: "Divad PALU | ティウァット ハリュ"
+title: "Divad PALU"
 name_en: "Divad PALU"
-name_ja: "ティウァット ハリュ"
+name_ja: "Divad PALU"
 slug: "divad-palu"
 position: "CTB"
 height: "179.0"

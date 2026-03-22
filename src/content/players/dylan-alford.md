@@ -6,7 +6,7 @@ slug: "dylan-alford"
 position: "LO"
 height: "198.0"
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

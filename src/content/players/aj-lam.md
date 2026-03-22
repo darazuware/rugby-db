@@ -1,7 +1,7 @@
 ---
-title: "AJ LAM | AJ ラム"
+title: "AJ LAM"
 name_en: "AJ LAM"
-name_ja: "AJ ラム"
+name_ja: "AJ LAM"
 slug: "aj-lam"
 position: "CTB"
 height: "192.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sefo KAUTAI | セフォ カウタイ"
+title: "Sefo KAUTAI"
 name_en: "Sefo KAUTAI"
-name_ja: "セフォ カウタイ"
+name_ja: "Sefo KAUTAI"
 slug: "sosefo-kautai"
 position: "PR"
 height: "189.0"

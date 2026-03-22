@@ -1,7 +1,7 @@
 ---
-title: "MCCARTHY"
+title: "MCCARTHY | Eanna MCCARTHY"
 name_en: "MCCARTHY"
-name_ja: "MCCARTHY"
+name_ja: "Eanna MCCARTHY"
 slug: "eanna-mccarthy"
 position: "Back row"
 height: "193.0"

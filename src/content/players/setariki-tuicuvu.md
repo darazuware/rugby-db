@@ -1,7 +1,7 @@
 ---
-title: "Setariki TUICUVU | セタリキ トゥイツウ"
+title: "Setariki TUICUVU"
 name_en: "Setariki TUICUVU"
-name_ja: "セタリキ トゥイツウ"
+name_ja: "Setariki TUICUVU"
 slug: "setariki-tuicuvu"
 position: "CTB"
 height: "179.0"

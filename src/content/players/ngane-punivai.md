@@ -1,7 +1,7 @@
 ---
-title: "Ngane PUNIVAI | ンカネ フニウァイ"
+title: "Ngane PUNIVAI"
 name_en: "Ngane PUNIVAI"
-name_ja: "ンカネ フニウァイ"
+name_ja: "Ngane PUNIVAI"
 slug: "ngane-punivai"
 position: "WTB"
 height: "191.0"

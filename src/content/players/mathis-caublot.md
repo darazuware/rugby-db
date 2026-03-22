@@ -1,12 +1,12 @@
 ---
 title: "Mathis CAUBLOT"
 name_en: "Mathis CAUBLOT"
-name_ja: ""
+name_ja: "Mathis CAUBLOT"
 slug: "mathis-caublot"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

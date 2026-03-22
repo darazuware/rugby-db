@@ -1,7 +1,7 @@
 ---
-title: "Alivereti LOALOA | アリウェレティ ロアロア"
+title: "Alivereti LOALOA"
 name_en: "Alivereti LOALOA"
-name_ja: "アリウェレティ ロアロア"
+name_ja: "Alivereti LOALOA"
 slug: "alivereti-loaloa"
 position: "CTB"
 height: "182.0"

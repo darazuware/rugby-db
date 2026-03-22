@@ -1,7 +1,7 @@
 ---
-title: "Jack GOODHUE | シャック-クットヒュー"
+title: "Jack GOODHUE"
 name_en: "Jack GOODHUE"
-name_ja: "シャック-クットヒュー"
+name_ja: "Jack GOODHUE"
 slug: "jack-goodhue"
 position: "CTB"
 height: "188.0"

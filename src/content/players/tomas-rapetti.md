@@ -1,12 +1,12 @@
 ---
 title: "Tomas RAPETTI"
 name_en: "Tomas RAPETTI"
-name_ja: ""
+name_ja: "Tomas RAPETTI"
 slug: "tomas-rapetti"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

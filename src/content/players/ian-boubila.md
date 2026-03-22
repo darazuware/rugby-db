@@ -1,12 +1,12 @@
 ---
 title: "Ian BOUBILA"
 name_en: "Ian BOUBILA"
-name_ja: ""
+name_ja: "Ian BOUBILA"
 slug: "ian-boubila"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

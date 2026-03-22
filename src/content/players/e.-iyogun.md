@@ -1,12 +1,12 @@
 ---
 title: "E. Iyogun"
 name_en: "E. Iyogun"
-name_ja: ""
+name_ja: "E. Iyogun"
 slug: "e.-iyogun"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

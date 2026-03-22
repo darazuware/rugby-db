@@ -1,12 +1,12 @@
 ---
 title: "Kieran VERDEN"
 name_en: "Kieran VERDEN"
-name_ja: ""
+name_ja: "Kieran VERDEN"
 slug: "kieran-verden"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 27
 country: ""
 birth_place_scraped: ""

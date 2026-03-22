@@ -1,12 +1,12 @@
 ---
 title: "Siep WALTA"
 name_en: "Siep WALTA"
-name_ja: ""
+name_ja: "Siep WALTA"
 slug: "siep-walta"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

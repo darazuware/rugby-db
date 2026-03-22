@@ -1,12 +1,12 @@
 ---
 title: "C. Slevin"
 name_en: "C. Slevin"
-name_ja: ""
+name_ja: "C. Slevin"
 slug: "c.-slevin"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,12 +1,12 @@
 ---
 title: "I. Emanuel"
 name_en: "I. Emanuel"
-name_ja: ""
+name_ja: "I. Emanuel"
 slug: "i.-emanuel"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

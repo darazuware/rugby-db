@@ -1,7 +1,7 @@
 ---
 title: "Max Llewellyn"
 name_en: "Max Llewellyn"
-name_ja: ""
+name_ja: "Max Llewellyn"
 slug: "max-llewellyn"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Call-ups (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

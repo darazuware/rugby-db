@@ -1,7 +1,7 @@
 ---
 title: "Kirill Gotovtsev"
 name_en: "Kirill Gotovtsev"
-name_ja: ""
+name_ja: "Kirill Gotovtsev"
 slug: "kirill-gotovtsev"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Squad caps (1032)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

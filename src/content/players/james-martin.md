@@ -1,12 +1,12 @@
 ---
 title: "James MARTIN"
 name_en: "James MARTIN"
-name_ja: ""
+name_ja: "James MARTIN"
 slug: "james-martin"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "Danilo FISCHETTI"
 name_en: "Danilo FISCHETTI"
-name_ja: ""
+name_ja: "Danilo FISCHETTI"
 slug: "danilo-fischetti"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 28
 country: ""
 birth_place_scraped: ""

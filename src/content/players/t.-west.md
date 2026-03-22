@@ -1,12 +1,12 @@
 ---
 title: "T. West"
 name_en: "T. West"
-name_ja: ""
+name_ja: "T. West"
 slug: "t.-west"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

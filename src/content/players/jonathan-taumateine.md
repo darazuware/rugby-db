@@ -1,7 +1,7 @@
 ---
-title: "Jonathan TAUMATEINE | ショナサン タウマテイネ"
+title: "Jonathan TAUMATEINE"
 name_en: "Jonathan TAUMATEINE"
-name_ja: "ショナサン タウマテイネ"
+name_ja: "Jonathan TAUMATEINE"
 slug: "jonathan-taumateine"
 position: "SH"
 height: "178.0"

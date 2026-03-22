@@ -1,7 +1,7 @@
 ---
-title: "Georges-Henri COLOMBE | ショルシュ=アンリ-コロンフ"
+title: "Georges-Henri COLOMBE"
 name_en: "Georges-Henri COLOMBE"
-name_ja: "ショルシュ=アンリ-コロンフ"
+name_ja: "Georges-Henri COLOMBE"
 slug: "georges-henri-colombe"
 position: "PR"
 height: "193.0"

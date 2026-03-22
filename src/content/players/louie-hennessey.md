@@ -1,12 +1,12 @@
 ---
 title: "Louie HENNESSEY"
 name_en: "Louie HENNESSEY"
-name_ja: ""
+name_ja: "Louie HENNESSEY"
 slug: "louie-hennessey"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

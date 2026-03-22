@@ -1,7 +1,7 @@
 ---
 title: "George Ford"
 name_en: "George Ford"
-name_ja: ""
+name_ja: "George Ford"
 slug: "george-ford"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (98)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

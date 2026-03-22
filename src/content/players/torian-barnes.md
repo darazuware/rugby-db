@@ -1,7 +1,7 @@
 ---
-title: "Torian BARNES | トリアン ハーンス"
+title: "Torian BARNES"
 name_en: "Torian BARNES"
-name_ja: "トリアン ハーンス"
+name_ja: "Torian BARNES"
 slug: "torian-barnes"
 position: "FL/No8"
 height: ""

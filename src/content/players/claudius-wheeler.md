@@ -1,12 +1,12 @@
 ---
 title: "Claudius WHEELER"
 name_en: "Claudius WHEELER"
-name_ja: ""
+name_ja: "Claudius WHEELER"
 slug: "claudius-wheeler"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Gael GALVAN | カエル カルハン"
+title: "Gael GALVAN"
 name_en: "Gael GALVAN"
-name_ja: "カエル カルハン"
+name_ja: "Gael GALVAN"
 slug: "gael-galvan"
 position: "PR"
 height: "191.0"

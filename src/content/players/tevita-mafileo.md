@@ -1,7 +1,7 @@
 ---
-title: "Tevita MAFILEO | テウィタ マフィレオ"
+title: "Tevita MAFILEO"
 name_en: "Tevita MAFILEO"
-name_ja: "テウィタ マフィレオ"
+name_ja: "Tevita MAFILEO"
 slug: "tevita-mafileo"
 position: "PR"
 height: "188.0"

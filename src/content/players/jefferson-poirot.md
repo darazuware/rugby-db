@@ -1,7 +1,7 @@
 ---
-title: "Jefferson POIROT | シェファーソン-ホワロ"
+title: "Jefferson POIROT"
 name_en: "Jefferson POIROT"
-name_ja: "シェファーソン-ホワロ"
+name_ja: "Jefferson POIROT"
 slug: "jefferson-poirot"
 position: "PR"
 height: "181.0"

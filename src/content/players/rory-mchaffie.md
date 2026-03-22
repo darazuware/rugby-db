@@ -1,7 +1,7 @@
 ---
-title: "Rory MCHAFFIE | ロリー マクハフィー"
+title: "Rory MCHAFFIE"
 name_en: "Rory MCHAFFIE"
-name_ja: "ロリー マクハフィー"
+name_ja: "Rory MCHAFFIE"
 slug: "rory-mchaffie"
 position: "FB"
 height: "185.0"

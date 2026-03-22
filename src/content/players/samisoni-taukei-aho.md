@@ -1,7 +1,7 @@
 ---
-title: "Samisoni TAUKEI'AHO | サミソニ タウケイアホ"
+title: "Samisoni TAUKEI'AHO"
 name_en: "Samisoni TAUKEI'AHO"
-name_ja: "サミソニ タウケイアホ"
+name_ja: "Samisoni TAUKEI'AHO"
 slug: "samisoni-taukei-aho"
 position: "HO"
 height: "183.0"

@@ -1,7 +1,7 @@
 ---
 title: "Freddie Thomas"
 name_en: "Freddie Thomas"
-name_ja: ""
+name_ja: "Freddie Thomas"
 slug: "freddie-thomas"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Wales (1)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

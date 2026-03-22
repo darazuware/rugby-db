@@ -1,7 +1,7 @@
 ---
-title: "Harry WILSON | ハリー-ウィルソン"
+title: "Harry WILSON"
 name_en: "Harry WILSON"
-name_ja: "ハリー-ウィルソン"
+name_ja: "Harry WILSON"
 slug: "harry-wilson"
 position: "FL/No8"
 height: "196.0"

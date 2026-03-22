@@ -1,7 +1,7 @@
 ---
-title: "Jock CAMPBELL | ショック キャンヘル"
+title: "Jock CAMPBELL"
 name_en: "Jock CAMPBELL"
-name_ja: "ショック キャンヘル"
+name_ja: "Jock CAMPBELL"
 slug: "jock-campbell"
 position: "FB"
 height: "186.0"

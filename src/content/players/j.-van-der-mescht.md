@@ -1,12 +1,12 @@
 ---
 title: "J. van der Mescht"
 name_en: "J. van der Mescht"
-name_ja: ""
+name_ja: "J. van der Mescht"
 slug: "j.-van-der-mescht"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

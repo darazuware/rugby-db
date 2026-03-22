@@ -1,12 +1,12 @@
 ---
 title: "Martin THIBAUT"
 name_en: "Martin THIBAUT"
-name_ja: ""
+name_ja: "Martin THIBAUT"
 slug: "martin-thibaut"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

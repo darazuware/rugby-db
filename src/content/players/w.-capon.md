@@ -1,12 +1,12 @@
 ---
 title: "W. Capon"
 name_en: "W. Capon"
-name_ja: ""
+name_ja: "W. Capon"
 slug: "w.-capon"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

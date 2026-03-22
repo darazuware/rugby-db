@@ -1,7 +1,7 @@
 ---
-title: "Tom CURRIE | トム カリー"
+title: "Tom CURRIE"
 name_en: "Tom CURRIE"
-name_ja: "トム カリー"
+name_ja: "Tom CURRIE"
 slug: "tom-currie"
 position: "FL/No8"
 height: "190.0"

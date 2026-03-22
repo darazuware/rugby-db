@@ -1,7 +1,7 @@
 ---
 title: "Oscar Beard"
 name_en: "Oscar Beard"
-name_ja: ""
+name_ja: "Oscar Beard"
 slug: "oscar-beard"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

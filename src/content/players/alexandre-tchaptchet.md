@@ -1,7 +1,7 @@
 ---
-title: "Alexandre TCHAPTCHET | アレクサントル チャフチェット"
+title: "Alexandre TCHAPTCHET"
 name_en: "Alexandre TCHAPTCHET"
-name_ja: "アレクサントル チャフチェット"
+name_ja: "Alexandre TCHAPTCHET"
 slug: "alexandre-tchaptchet"
 position: "FB"
 height: "171.0"

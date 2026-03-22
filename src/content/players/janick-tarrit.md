@@ -1,7 +1,7 @@
 ---
-title: "Janick TARRIT | シャニック-タリット"
+title: "Janick TARRIT"
 name_en: "Janick TARRIT"
-name_ja: "シャニック-タリット"
+name_ja: "Janick TARRIT"
 slug: "janick-tarrit"
 position: "HO"
 height: "183.0"

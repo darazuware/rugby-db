@@ -1,7 +1,7 @@
 ---
 title: "Arron Reed"
 name_en: "Arron Reed"
-name_ja: ""
+name_ja: "Arron Reed"
 slug: "arron-reed"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

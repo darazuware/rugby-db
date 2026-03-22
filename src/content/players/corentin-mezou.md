@@ -1,7 +1,7 @@
 ---
-title: "Corentin MEZOU | コランタン メスー"
+title: "Corentin MEZOU"
 name_en: "Corentin MEZOU"
-name_ja: "コランタン メスー"
+name_ja: "Corentin MEZOU"
 slug: "corentin-mezou"
 position: "LO"
 height: "204.0"

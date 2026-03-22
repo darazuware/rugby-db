@@ -1,12 +1,12 @@
 ---
 title: "Luke GREEN"
 name_en: "Luke GREEN"
-name_ja: ""
+name_ja: "Luke GREEN"
 slug: "luke-green"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 24
 country: ""
 birth_place_scraped: ""

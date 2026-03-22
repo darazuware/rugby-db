@@ -1,7 +1,7 @@
 ---
-title: "Ulupano SEUTENI | ウルハノ セウテニ"
+title: "Ulupano SEUTENI"
 name_en: "Ulupano SEUTENI"
-name_ja: "ウルハノ セウテニ"
+name_ja: "Ulupano SEUTENI"
 slug: "ulupano-seuteni"
 position: "CTB"
 height: "185.0"

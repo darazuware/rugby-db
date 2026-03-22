@@ -1,7 +1,7 @@
 ---
-title: "Ignacio RUIZ | イクナシオ-ルイス"
+title: "Ignacio RUIZ"
 name_en: "Ignacio RUIZ"
-name_ja: "イクナシオ-ルイス"
+name_ja: "Ignacio RUIZ"
 slug: "ignacio-ruiz"
 position: "HO"
 height: "185.0"

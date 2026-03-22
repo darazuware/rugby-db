@@ -1,7 +1,7 @@
 ---
-title: "Jean-Baptiste GROS | シャン=ハティスト-クロ"
+title: "Jean-Baptiste GROS"
 name_en: "Jean-Baptiste GROS"
-name_ja: "シャン=ハティスト-クロ"
+name_ja: "Jean-Baptiste GROS"
 slug: "jean-baptiste-gros"
 position: "PR"
 height: "185.0"

@@ -1,12 +1,12 @@
 ---
 title: "I. Mears"
 name_en: "I. Mears"
-name_ja: ""
+name_ja: "I. Mears"
 slug: "i.-mears"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

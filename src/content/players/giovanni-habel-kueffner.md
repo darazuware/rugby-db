@@ -1,7 +1,7 @@
 ---
-title: "Giovanni HABEL-KUEFFNER | ショウァンニ ハヘル=クエフナー"
+title: "Giovanni HABEL-KUEFFNER"
 name_en: "Giovanni HABEL-KUEFFNER"
-name_ja: "ショウァンニ ハヘル=クエフナー"
+name_ja: "Giovanni HABEL-KUEFFNER"
 slug: "giovanni-habel-kueffner"
 position: "FL/NO8"
 height: "190.0"

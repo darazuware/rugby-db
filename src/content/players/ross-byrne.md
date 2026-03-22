@@ -1,7 +1,7 @@
 ---
 title: "Ross Byrne"
 name_en: "Ross Byrne"
-name_ja: ""
+name_ja: "Ross Byrne"
 slug: "ross-byrne"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "Ireland (21)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

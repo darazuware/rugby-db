@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Grondona"
 name_en: "Benjamin Grondona"
-name_ja: ""
+name_ja: "Benjamin Grondona"
 slug: "benjamin-grondona"
 position: "No. 8"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

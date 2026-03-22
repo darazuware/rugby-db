@@ -1,7 +1,7 @@
 ---
 title: "Theo McFarland"
 name_en: "Theo McFarland"
-name_ja: ""
+name_ja: "Theo McFarland"
 slug: "theo-mcfarland"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "Samoa (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

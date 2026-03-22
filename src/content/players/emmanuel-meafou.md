@@ -1,7 +1,7 @@
 ---
-title: "Emmanuel MEAFOU | エマニュエル-メアフー"
+title: "Emmanuel MEAFOU"
 name_en: "Emmanuel MEAFOU"
-name_ja: "エマニュエル-メアフー"
+name_ja: "Emmanuel MEAFOU"
 slug: "emmanuel-meafou"
 position: "LO"
 height: "202.0"

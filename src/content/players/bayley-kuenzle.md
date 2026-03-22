@@ -1,7 +1,7 @@
 ---
-title: "Bayley KUENZLE | ヘイリー-クンツレ"
+title: "Bayley KUENZLE"
 name_en: "Bayley KUENZLE"
-name_ja: "ヘイリー-クンツレ"
+name_ja: "Bayley KUENZLE"
 slug: "bayley-kuenzle"
 position: "CTB"
 height: "186.0"

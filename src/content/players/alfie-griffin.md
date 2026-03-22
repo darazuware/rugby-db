@@ -1,12 +1,12 @@
 ---
 title: "Alfie GRIFFIN"
 name_en: "Alfie GRIFFIN"
-name_ja: ""
+name_ja: "Alfie GRIFFIN"
 slug: "alfie-griffin"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

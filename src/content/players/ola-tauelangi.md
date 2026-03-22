@@ -1,7 +1,7 @@
 ---
-title: "Ola TAUELANGI | オラ タウエランキ"
+title: "Ola TAUELANGI"
 name_en: "Ola TAUELANGI"
-name_ja: "オラ タウエランキ"
+name_ja: "Ola TAUELANGI"
 slug: "ola-tauelangi"
 position: "FL/No8"
 height: "194.0"

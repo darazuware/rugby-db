@@ -1,7 +1,7 @@
 ---
-title: "Theo NTAMACK | テオ ンタマック"
+title: "Theo NTAMACK"
 name_en: "Theo NTAMACK"
-name_ja: "テオ ンタマック"
+name_ja: "Theo NTAMACK"
 slug: "theo-ntamack"
 position: "FL/NO8"
 height: "193.0"

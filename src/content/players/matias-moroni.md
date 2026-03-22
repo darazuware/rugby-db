@@ -1,7 +1,7 @@
 ---
 title: "Matias Moroni"
 name_en: "Matias Moroni"
-name_ja: ""
+name_ja: "Matias Moroni"
 slug: "matias-moroni"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

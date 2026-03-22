@@ -1,7 +1,7 @@
 ---
-title: "Benjamin BERTRAND | ヘンシャミン ヘルトラン"
+title: "Benjamin BERTRAND"
 name_en: "Benjamin BERTRAND"
-name_ja: "ヘンシャミン ヘルトラン"
+name_ja: "Benjamin BERTRAND"
 slug: "benjamin-bertrand"
 position: "PR"
 height: "180.0"

@@ -1,12 +1,12 @@
 ---
 title: "Amena CAQUSAU"
 name_en: "Amena CAQUSAU"
-name_ja: ""
+name_ja: "Amena CAQUSAU"
 slug: "amena-caqusau"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

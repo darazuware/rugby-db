@@ -1,7 +1,7 @@
 ---
-title: "Hoani BOSMORIN | ホアニ-ヒスモラン"
+title: "Hoani BOSMORIN"
 name_en: "Hoani BOSMORIN"
-name_ja: "ホアニ-ヒスモラン"
+name_ja: "Hoani BOSMORIN"
 slug: "hoani-bosmorin"
 position: "WTB"
 height: "184.0"

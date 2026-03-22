@@ -1,7 +1,7 @@
 ---
-title: "Konrad TOLEAFOA | コンラット トレアフォア"
+title: "Konrad TOLEAFOA"
 name_en: "Konrad TOLEAFOA"
-name_ja: "コンラット トレアフォア"
+name_ja: "Konrad TOLEAFOA"
 slug: "konrad-toleafoa"
 position: "FL/No8"
 height: "190.0"

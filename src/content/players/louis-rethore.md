@@ -1,12 +1,12 @@
 ---
 title: "Louis RETHORE"
 name_en: "Louis RETHORE"
-name_ja: ""
+name_ja: "Louis RETHORE"
 slug: "louis-rethore"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

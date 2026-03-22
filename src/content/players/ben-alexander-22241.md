@@ -1,12 +1,12 @@
 ---
 title: "Ben ALEXANDER"
 name_en: "Ben ALEXANDER"
-name_ja: ""
+name_ja: "Ben ALEXANDER"
 slug: "ben-alexander-22241"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

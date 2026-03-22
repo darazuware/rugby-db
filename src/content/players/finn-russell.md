@@ -1,12 +1,12 @@
 ---
 title: "Finn RUSSELL"
 name_en: "Finn RUSSELL"
-name_ja: ""
+name_ja: "Finn RUSSELL"
 slug: "finn-russell"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 33
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Tom LYNAGH | トム ライナー"
+title: "Tom LYNAGH"
 name_en: "Tom LYNAGH"
-name_ja: "トム ライナー"
+name_ja: "Tom LYNAGH"
 slug: "tom-lynagh"
 position: "SO"
 height: "178.0"

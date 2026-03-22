@@ -1,7 +1,7 @@
 ---
-title: "Paul BOUDEHENT | ホール フテアン"
+title: "Paul BOUDEHENT"
 name_en: "Paul BOUDEHENT"
-name_ja: "ホール フテアン"
+name_ja: "Paul BOUDEHENT"
 slug: "paul-boudehent"
 position: "FL/NO8"
 height: "192.0"

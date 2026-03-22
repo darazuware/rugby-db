@@ -1,12 +1,12 @@
 ---
 title: "Will GLISTER"
 name_en: "Will GLISTER"
-name_ja: ""
+name_ja: "Will GLISTER"
 slug: "will-glister"
 position: "Winger"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

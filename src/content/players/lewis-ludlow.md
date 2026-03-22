@@ -1,7 +1,7 @@
 ---
 title: "Lewis Ludlow"
 name_en: "Lewis Ludlow"
-name_ja: ""
+name_ja: "Lewis Ludlow"
 slug: "lewis-ludlow"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

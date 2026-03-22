@@ -1,7 +1,7 @@
 ---
 title: "Nepo Laulala"
 name_en: "Nepo Laulala"
-name_ja: ""
+name_ja: "Nepo Laulala"
 slug: "nepo-laulala"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: "New Zealand (49)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

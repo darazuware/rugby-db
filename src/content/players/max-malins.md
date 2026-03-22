@@ -1,7 +1,7 @@
 ---
 title: "Max Malins"
 name_en: "Max Malins"
-name_ja: ""
+name_ja: "Max Malins"
 slug: "max-malins"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: "England (21)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

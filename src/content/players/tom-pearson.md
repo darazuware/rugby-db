@@ -1,12 +1,12 @@
 ---
 title: "Tom PEARSON"
 name_en: "Tom PEARSON"
-name_ja: ""
+name_ja: "Tom PEARSON"
 slug: "tom-pearson"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

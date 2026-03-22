@@ -1,12 +1,12 @@
 ---
 title: "Ethan STADDON"
 name_en: "Ethan STADDON"
-name_ja: ""
+name_ja: "Ethan STADDON"
 slug: "ethan-staddon"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "S. Mercer"
 name_en: "S. Mercer"
-name_ja: ""
+name_ja: "S. Mercer"
 slug: "s.-mercer"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Philip BASELALA | フィリッフ ハセララ"
+title: "Philip BASELALA"
 name_en: "Philip BASELALA"
-name_ja: "フィリッフ ハセララ"
+name_ja: "Philip BASELALA"
 slug: "philip-baselala"
 position: "SH"
 height: ""

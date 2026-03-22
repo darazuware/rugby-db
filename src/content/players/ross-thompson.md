@@ -1,7 +1,7 @@
 ---
-title: "Ross THOMPSON | ロス トンフソン"
+title: "Ross THOMPSON"
 name_en: "Ross THOMPSON"
-name_ja: "ロス トンフソン"
+name_ja: "Ross THOMPSON"
 slug: "ross-thompson"
 position: "SO"
 height: "183.0"

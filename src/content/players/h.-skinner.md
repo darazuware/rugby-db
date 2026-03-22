@@ -1,12 +1,12 @@
 ---
 title: "H. Skinner"
 name_en: "H. Skinner"
-name_ja: ""
+name_ja: "H. Skinner"
 slug: "h.-skinner"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

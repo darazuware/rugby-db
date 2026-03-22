@@ -1,7 +1,7 @@
 ---
-title: "Taniela RAKURO | タニエラ ラクロ"
+title: "Taniela RAKURO"
 name_en: "Taniela RAKURO"
-name_ja: "タニエラ ラクロ"
+name_ja: "Taniela RAKURO"
 slug: "taniela-rakuro"
 position: "WTB"
 height: ""

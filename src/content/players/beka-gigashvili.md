@@ -1,7 +1,7 @@
 ---
-title: "Beka GIGASHVILI | ヘカ キカシウィリ"
+title: "Beka GIGASHVILI"
 name_en: "Beka GIGASHVILI"
-name_ja: "ヘカ キカシウィリ"
+name_ja: "Beka GIGASHVILI"
 slug: "beka-gigashvili"
 position: "PR"
 height: "179.0"

@@ -1,12 +1,12 @@
 ---
 title: "Maxime GARDELLE"
 name_en: "Maxime GARDELLE"
-name_ja: ""
+name_ja: "Maxime GARDELLE"
 slug: "maxime-gardelle"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Will MCCULLOCH | ウィル-マカロック"
+title: "Will MCCULLOCH"
 name_en: "Will MCCULLOCH"
-name_ja: "ウィル-マカロック"
+name_ja: "Will MCCULLOCH"
 slug: "will-mcculloch"
 position: "WTB"
 height: "186.0"

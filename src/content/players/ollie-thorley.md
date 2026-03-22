@@ -1,7 +1,7 @@
 ---
 title: "Ollie Thorley"
 name_en: "Ollie Thorley"
-name_ja: ""
+name_ja: "Ollie Thorley"
 slug: "ollie-thorley"
 position: "Wing"
 height: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

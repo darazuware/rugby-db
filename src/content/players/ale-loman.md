@@ -1,7 +1,7 @@
 ---
 title: "Ale Loman"
 name_en: "Ale Loman"
-name_ja: ""
+name_ja: "Ale Loman"
 slug: "ale-loman"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

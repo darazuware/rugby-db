@@ -1,7 +1,7 @@
 ---
-title: "Vuate KARAWALEVU | ウアテ-カラワレウ"
+title: "Vuate KARAWALEVU"
 name_en: "Vuate KARAWALEVU"
-name_ja: "ウアテ-カラワレウ"
+name_ja: "Vuate KARAWALEVU"
 slug: "vuate-karawalevu"
 position: "WTB"
 height: "193.0"

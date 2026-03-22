@@ -1,7 +1,7 @@
 ---
-title: "Pio MUARUA | ヒオ ムアルア"
+title: "Pio MUARUA"
 name_en: "Pio MUARUA"
-name_ja: "ヒオ ムアルア"
+name_ja: "Pio MUARUA"
 slug: "pio-muarua"
 position: "FL/NO8"
 height: "191.0"

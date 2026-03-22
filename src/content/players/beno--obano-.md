@@ -1,12 +1,12 @@
 ---
 title: "Beno OBANO"
 name_en: "Beno OBANO"
-name_ja: ""
+name_ja: "Beno OBANO"
 slug: "beno--obano-"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 31
 country: ""
 birth_place_scraped: ""

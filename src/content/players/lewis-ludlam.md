@@ -1,7 +1,7 @@
 ---
-title: "Lewis LUDLAM | ルイス ラトラム"
+title: "Lewis LUDLAM"
 name_en: "Lewis LUDLAM"
-name_ja: "ルイス ラトラム"
+name_ja: "Lewis LUDLAM"
 slug: "lewis-ludlam"
 position: "FL/NO8"
 height: "192.0"

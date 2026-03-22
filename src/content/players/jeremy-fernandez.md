@@ -1,7 +1,7 @@
 ---
-title: "Jeremy FERNANDEZ | シェレミ フェルナンテス"
+title: "Jeremy FERNANDEZ"
 name_en: "Jeremy FERNANDEZ"
-name_ja: "シェレミ フェルナンテス"
+name_ja: "Jeremy FERNANDEZ"
 slug: "jeremy-fernandez"
 position: "SH"
 height: "176.0"

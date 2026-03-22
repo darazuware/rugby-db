@@ -1,7 +1,7 @@
 ---
-title: "Kylan HAMDAOUI | キラン ハムタウィ"
+title: "Kylan HAMDAOUI"
 name_en: "Kylan HAMDAOUI"
-name_ja: "キラン ハムタウィ"
+name_ja: "Kylan HAMDAOUI"
 slug: "kylan-hamdaoui"
 position: "FB"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Josh LORD | ショシュ ロート"
+title: "Josh LORD"
 name_en: "Josh LORD"
-name_ja: "ショシュ ロート"
+name_ja: "Josh LORD"
 slug: "josh-lord"
 position: "LO"
 height: "202.0"

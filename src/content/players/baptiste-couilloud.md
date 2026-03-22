@@ -1,7 +1,7 @@
 ---
-title: "Baptiste COUILLOUD | ハティスト-クイユー"
+title: "Baptiste COUILLOUD"
 name_en: "Baptiste COUILLOUD"
-name_ja: "ハティスト-クイユー"
+name_ja: "Baptiste COUILLOUD"
 slug: "baptiste-couilloud"
 position: "SH"
 height: "176.0"

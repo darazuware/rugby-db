@@ -1,12 +1,12 @@
 ---
 title: "Max OJOMOH"
 name_en: "Max OJOMOH"
-name_ja: ""
+name_ja: "Max OJOMOH"
 slug: "max-ojomoh"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Xavi TAELE | シャウィ タエレ"
+title: "Xavi TAELE"
 name_en: "Xavi TAELE"
-name_ja: "シャウィ タエレ"
+name_ja: "Xavi TAELE"
 slug: "xavi-taele"
 position: "CTB"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Josh TIMU | ショシュ ティム"
+title: "Josh TIMU"
 name_en: "Josh TIMU"
-name_ja: "ショシュ ティム"
+name_ja: "Josh TIMU"
 slug: "josh-timu"
 position: "CTB"
 height: "183.0"

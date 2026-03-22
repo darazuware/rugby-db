@@ -1,12 +1,12 @@
 ---
 title: "Ollie SCOLA"
 name_en: "Ollie SCOLA"
-name_ja: ""
+name_ja: "Ollie SCOLA"
 slug: "ollie-scola"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

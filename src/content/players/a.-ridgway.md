@@ -1,12 +1,12 @@
 ---
 title: "A. Ridgway"
 name_en: "A. Ridgway"
-name_ja: ""
+name_ja: "A. Ridgway"
 slug: "a.-ridgway"
 position: "No. 8"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

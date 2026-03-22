@@ -1,7 +1,7 @@
 ---
-title: "Terrell PEITA | テレル ヘイタ"
+title: "Terrell PEITA"
 name_en: "Terrell PEITA"
-name_ja: "テレル ヘイタ"
+name_ja: "Terrell PEITA"
 slug: "terrell-peita"
 position: "FL/No8"
 height: "189.0"

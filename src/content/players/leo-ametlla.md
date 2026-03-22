@@ -1,7 +1,7 @@
 ---
-title: "Leo AMETLLA | レオ アメトラ"
+title: "Leo AMETLLA"
 name_en: "Leo AMETLLA"
-name_ja: "レオ アメトラ"
+name_ja: "Leo AMETLLA"
 slug: "leo-ametlla"
 position: "PR"
 height: "186.0"

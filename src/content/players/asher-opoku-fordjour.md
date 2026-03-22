@@ -1,7 +1,7 @@
 ---
 title: "Asher Opoku-Fordjour"
 name_en: "Asher Opoku-Fordjour"
-name_ja: ""
+name_ja: "Asher Opoku-Fordjour"
 slug: "asher-opoku-fordjour"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (1)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

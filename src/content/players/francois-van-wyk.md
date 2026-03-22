@@ -1,12 +1,12 @@
 ---
 title: "Francois VAN WYK"
 name_en: "Francois VAN WYK"
-name_ja: ""
+name_ja: "Francois VAN WYK"
 slug: "francois-van-wyk"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 34
 country: ""
 birth_place_scraped: ""

@@ -1,12 +1,12 @@
 ---
 title: "O. Allport"
 name_en: "O. Allport"
-name_ja: ""
+name_ja: "O. Allport"
 slug: "o.-allport"
 position: "Flanker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

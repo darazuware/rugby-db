@@ -1,7 +1,7 @@
 ---
-title: "Kyle PRESTON | カイル フレストン"
+title: "Kyle PRESTON"
 name_en: "Kyle PRESTON"
-name_ja: "カイル フレストン"
+name_ja: "Kyle PRESTON"
 slug: "kyle-preston"
 position: "SH"
 height: "177.0"

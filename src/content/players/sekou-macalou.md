@@ -1,7 +1,7 @@
 ---
-title: "Sekou MACALOU | セク マカトゥ"
+title: "Sekou MACALOU"
 name_en: "Sekou MACALOU"
-name_ja: "セク マカトゥ"
+name_ja: "Sekou MACALOU"
 slug: "sekou-macalou"
 position: "FL/NO8"
 height: "195.0"

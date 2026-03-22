@@ -1,7 +1,7 @@
 ---
 title: "Fergus Burke"
 name_en: "Fergus Burke"
-name_ja: ""
+name_ja: "Fergus Burke"
 slug: "fergus-burke"
 position: "Fly-half"
 height: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

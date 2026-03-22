@@ -1,7 +1,7 @@
 ---
-title: "Tom STANIFORTH | トム スタニフォース"
+title: "Tom STANIFORTH"
 name_en: "Tom STANIFORTH"
-name_ja: "トム スタニフォース"
+name_ja: "Tom STANIFORTH"
 slug: "thomas-staniforth"
 position: "LO"
 height: "198.0"

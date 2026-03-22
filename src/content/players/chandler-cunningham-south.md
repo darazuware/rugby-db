@@ -1,7 +1,7 @@
 ---
 title: "Chandler Cunningham-South"
 name_en: "Chandler Cunningham-South"
-name_ja: ""
+name_ja: "Chandler Cunningham-South"
 slug: "chandler-cunningham-south"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: "England (11)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Clem HALAHOLO | クレム ハラホロ"
+title: "Clem HALAHOLO"
 name_en: "Clem HALAHOLO"
-name_ja: "クレム ハラホロ"
+name_ja: "Clem HALAHOLO"
 slug: "clem-halaholo"
 position: "LO"
 height: "193.0"

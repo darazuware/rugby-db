@@ -1,7 +1,7 @@
 ---
-title: "Pierre POPELIN | ヒエール ホフラン"
+title: "Pierre POPELIN"
 name_en: "Pierre POPELIN"
-name_ja: "ヒエール ホフラン"
+name_ja: "Pierre POPELIN"
 slug: "pierre-popelin"
 position: "SO"
 height: "181.0"

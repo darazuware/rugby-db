@@ -1,7 +1,7 @@
 ---
-title: "Jack BARRETT | シャック-ハレット"
+title: "Jack BARRETT"
 name_en: "Jack BARRETT"
-name_ja: "シャック-ハレット"
+name_ja: "Jack BARRETT"
 slug: "jack-barrett"
 position: "PR"
 height: "185.0"

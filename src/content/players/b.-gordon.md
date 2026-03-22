@@ -1,12 +1,12 @@
 ---
 title: "B. Gordon"
 name_en: "B. Gordon"
-name_ja: ""
+name_ja: "B. Gordon"
 slug: "b.-gordon"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

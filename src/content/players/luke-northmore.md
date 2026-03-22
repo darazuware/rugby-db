@@ -1,7 +1,7 @@
 ---
 title: "Luke Northmore"
 name_en: "Luke Northmore"
-name_ja: ""
+name_ja: "Luke Northmore"
 slug: "luke-northmore"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Ethan DUMORTIER | イーサン-テュモルティエ"
+title: "Ethan DUMORTIER"
 name_en: "Ethan DUMORTIER"
-name_ja: "イーサン-テュモルティエ"
+name_ja: "Ethan DUMORTIER"
 slug: "ethan-dumortier"
 position: "WTB"
 height: "192.0"

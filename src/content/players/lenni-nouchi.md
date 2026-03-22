@@ -1,7 +1,7 @@
 ---
-title: "Lenni NOUCHI | レニ ヌシ"
+title: "Lenni NOUCHI"
 name_en: "Lenni NOUCHI"
-name_ja: "レニ ヌシ"
+name_ja: "Lenni NOUCHI"
 slug: "lenni-nouchi"
 position: "FL/NO8"
 height: "194.0"

@@ -1,12 +1,12 @@
 ---
 title: "Lucas VIGNERES"
 name_en: "Lucas VIGNERES"
-name_ja: ""
+name_ja: "Lucas VIGNERES"
 slug: "lucas-vigneres"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

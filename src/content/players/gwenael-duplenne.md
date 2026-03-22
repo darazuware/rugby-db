@@ -1,7 +1,7 @@
 ---
-title: "Gwenael DUPLENNE | クウェナエル テュフレンヌ"
+title: "Gwenael DUPLENNE"
 name_en: "Gwenael DUPLENNE"
-name_ja: "クウェナエル テュフレンヌ"
+name_ja: "Gwenael DUPLENNE"
 slug: "gwenael-duplenne"
 position: "FB"
 height: "186.0"

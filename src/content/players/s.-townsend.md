@@ -1,12 +1,12 @@
 ---
 title: "S. Townsend"
 name_en: "S. Townsend"
-name_ja: ""
+name_ja: "S. Townsend"
 slug: "s.-townsend"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

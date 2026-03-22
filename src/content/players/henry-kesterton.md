@@ -1,12 +1,12 @@
 ---
-title: "Henry KESTERTON | ヘンリー ケスタートン"
+title: "Henry KESTERTON"
 name_en: "Henry KESTERTON"
-name_ja: "ヘンリー ケスタートン"
+name_ja: "Henry KESTERTON"
 slug: "henry-kesterton"
 position: "CTB"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""

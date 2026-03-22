@@ -1,7 +1,7 @@
 ---
-title: "Swan CORMENIER | スワン コルムニエ"
+title: "Swan CORMENIER"
 name_en: "Swan CORMENIER"
-name_ja: "スワン コルムニエ"
+name_ja: "Swan CORMENIER"
 slug: "swan-cormenier"
 position: "PR"
 height: "178.0"

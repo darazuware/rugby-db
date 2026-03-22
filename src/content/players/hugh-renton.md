@@ -1,7 +1,7 @@
 ---
-title: "Hugh RENTON | ヒュー-レントン"
+title: "Hugh RENTON"
 name_en: "Hugh RENTON"
-name_ja: "ヒュー-レントン"
+name_ja: "Hugh RENTON"
 slug: "hugh-renton"
 position: "FL/No8"
 height: "193.0"

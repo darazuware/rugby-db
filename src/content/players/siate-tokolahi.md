@@ -1,7 +1,7 @@
 ---
-title: "Siate TOKOLAHI | シアテ トコラヒ"
+title: "Siate TOKOLAHI"
 name_en: "Siate TOKOLAHI"
-name_ja: "シアテ トコラヒ"
+name_ja: "Siate TOKOLAHI"
 slug: "siate-tokolahi"
 position: "PR"
 height: "184.0"

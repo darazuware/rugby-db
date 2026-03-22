@@ -1,7 +1,7 @@
 ---
-title: "Thomas LACLAYAT | トマ ラクラヤット"
+title: "Thomas LACLAYAT"
 name_en: "Thomas LACLAYAT"
-name_ja: "トマ ラクラヤット"
+name_ja: "Thomas LACLAYAT"
 slug: "thomas-laclayat"
 position: "PR"
 height: "177.0"

@@ -1,12 +1,12 @@
 ---
 title: "Sonny TONGA'UIHA"
 name_en: "Sonny TONGA'UIHA"
-name_ja: ""
+name_ja: "Sonny TONGA'UIHA"
 slug: "sonny-tonga-uiha"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

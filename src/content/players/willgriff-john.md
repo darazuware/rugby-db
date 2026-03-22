@@ -1,7 +1,7 @@
 ---
 title: "WillGriff John"
 name_en: "WillGriff John"
-name_ja: ""
+name_ja: "WillGriff John"
 slug: "willgriff-john"
 position: "Prop"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "Wales (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

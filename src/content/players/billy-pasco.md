@@ -1,12 +1,12 @@
 ---
 title: "Billy PASCO"
 name_en: "Billy PASCO"
-name_ja: ""
+name_ja: "Billy PASCO"
 slug: "billy-pasco"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 20
 country: ""
 birth_place_scraped: ""

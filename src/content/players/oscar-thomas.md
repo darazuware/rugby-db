@@ -1,12 +1,12 @@
 ---
 title: "Oscar THOMAS"
 name_en: "Oscar THOMAS"
-name_ja: ""
+name_ja: "Oscar THOMAS"
 slug: "oscar-thomas"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

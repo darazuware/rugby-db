@@ -1,7 +1,7 @@
 ---
-title: "Aurelien AZAR | オーレリアン アサール"
+title: "Aurelien AZAR"
 name_en: "Aurelien AZAR"
-name_ja: "オーレリアン アサール"
+name_ja: "Aurelien AZAR"
 slug: "aurelien-azar"
 position: "PR"
 height: "188.0"

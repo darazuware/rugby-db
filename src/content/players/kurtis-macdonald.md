@@ -1,12 +1,12 @@
 ---
 title: "Kurtis MACDONALD"
 name_en: "Kurtis MACDONALD"
-name_ja: ""
+name_ja: "Kurtis MACDONALD"
 slug: "kurtis-macdonald"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

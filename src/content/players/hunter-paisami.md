@@ -1,7 +1,7 @@
 ---
-title: "Hunter PAISAMI | ハンター-ハイサミ"
+title: "Hunter PAISAMI"
 name_en: "Hunter PAISAMI"
-name_ja: "ハンター-ハイサミ"
+name_ja: "Hunter PAISAMI"
 slug: "hunter-paisami"
 position: "CTB"
 height: "172.0"

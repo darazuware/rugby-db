@@ -1,7 +1,7 @@
 ---
-title: "Ofa TAUATEVALU | オファ タウアテウァル"
+title: "Ofa TAUATEVALU"
 name_en: "Ofa TAUATEVALU"
-name_ja: "オファ タウアテウァル"
+name_ja: "Ofa TAUATEVALU"
 slug: "ofa-tauatevalu"
 position: "LO"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
 title: "Solomone Kata"
 name_en: "Solomone Kata"
-name_ja: ""
+name_ja: "Solomone Kata"
 slug: "solomone-kata"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Tonga (9)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

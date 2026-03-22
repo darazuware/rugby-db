@@ -1,12 +1,12 @@
 ---
 title: "Jack LAWRENCE"
 name_en: "Jack LAWRENCE"
-name_ja: ""
+name_ja: "Jack LAWRENCE"
 slug: "jack-lawrence"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 19
 country: ""
 birth_place_scraped: ""

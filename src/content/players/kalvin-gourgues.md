@@ -1,7 +1,7 @@
 ---
-title: "Kalvin GOURGUES | カルヒン クルク"
+title: "Kalvin GOURGUES"
 name_en: "Kalvin GOURGUES"
-name_ja: "カルヒン クルク"
+name_ja: "Kalvin GOURGUES"
 slug: "kalvin-gourgues"
 position: "CTB"
 height: "184.0"

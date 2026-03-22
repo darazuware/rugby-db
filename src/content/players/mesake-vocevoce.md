@@ -1,7 +1,7 @@
 ---
-title: "Mesake VOCEVOCE | メサケ ウォセウォセ"
+title: "Mesake VOCEVOCE"
 name_en: "Mesake VOCEVOCE"
-name_ja: "メサケ ウォセウォセ"
+name_ja: "Mesake VOCEVOCE"
 slug: "mesake-vocevoce"
 position: "LO"
 height: "197.0"

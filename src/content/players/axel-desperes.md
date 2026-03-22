@@ -1,7 +1,7 @@
 ---
-title: "Axel DESPERES | アクセル テスヘレ"
+title: "Axel DESPERES"
 name_en: "Axel DESPERES"
-name_ja: "アクセル テスヘレ"
+name_ja: "Axel DESPERES"
 slug: "axel-desperes"
 position: "SO"
 height: "183.0"

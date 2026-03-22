@@ -1,7 +1,7 @@
 ---
-title: "Patrick SOBELA | ハトリック ソヘラ"
+title: "Patrick SOBELA"
 name_en: "Patrick SOBELA"
-name_ja: "ハトリック ソヘラ"
+name_ja: "Patrick SOBELA"
 slug: "patrick-sobela"
 position: "FL/NO8"
 height: "188.0"

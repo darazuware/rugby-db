@@ -1,7 +1,7 @@
 ---
-title: "Manu TUILAGI | マヌ ツイラキ"
+title: "Manu TUILAGI"
 name_en: "Manu TUILAGI"
-name_ja: "マヌ ツイラキ"
+name_ja: "Manu TUILAGI"
 slug: "manu-tuilagi"
 position: "CTB"
 height: "185.0"

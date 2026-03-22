@@ -1,12 +1,12 @@
 ---
 title: "Chunya MUNGA"
 name_en: "Chunya MUNGA"
-name_ja: ""
+name_ja: "Chunya MUNGA"
 slug: "chunya-munga"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Macca SPRINGER | マッカ スフリンク"
+title: "Macca SPRINGER"
 name_en: "Macca SPRINGER"
-name_ja: "マッカ スフリンク"
+name_ja: "Macca SPRINGER"
 slug: "macca-springer"
 position: "WTB"
 height: "190.0"

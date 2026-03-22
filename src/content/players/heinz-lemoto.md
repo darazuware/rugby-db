@@ -1,12 +1,12 @@
 ---
 title: "Heinz LEMOTO"
 name_en: "Heinz LEMOTO"
-name_ja: ""
+name_ja: "Heinz LEMOTO"
 slug: "heinz-lemoto"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

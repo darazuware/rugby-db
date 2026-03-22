@@ -1,12 +1,12 @@
 ---
 title: "Malachi HAWKES"
 name_en: "Malachi HAWKES"
-name_ja: ""
+name_ja: "Malachi HAWKES"
 slug: "malachi-hawkes"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

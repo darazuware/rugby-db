@@ -1,12 +1,12 @@
 ---
 title: "Anthony BELLEAU"
 name_en: "Anthony BELLEAU"
-name_ja: ""
+name_ja: "Anthony BELLEAU"
 slug: "anthony-belleau"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 29
 country: ""
 birth_place_scraped: ""

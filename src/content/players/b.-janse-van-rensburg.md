@@ -1,12 +1,12 @@
 ---
 title: "B. Janse van Rensburg"
 name_en: "B. Janse van Rensburg"
-name_ja: ""
+name_ja: "B. Janse van Rensburg"
 slug: "b.-janse-van-rensburg"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

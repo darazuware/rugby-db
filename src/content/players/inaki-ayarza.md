@@ -1,7 +1,7 @@
 ---
-title: "Inaki AYARZA | イニャキ-アヤルサ"
+title: "Inaki AYARZA"
 name_en: "Inaki AYARZA"
-name_ja: "イニャキ-アヤルサ"
+name_ja: "Inaki AYARZA"
 slug: "inaki-ayarza"
 position: "CTB"
 height: "186.0"

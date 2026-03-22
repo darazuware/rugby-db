@@ -1,12 +1,12 @@
 ---
 title: "R. Davies"
 name_en: "R. Davies"
-name_ja: ""
+name_ja: "R. Davies"
 slug: "r.-davies"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

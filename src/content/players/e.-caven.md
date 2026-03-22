@@ -1,12 +1,12 @@
 ---
 title: "E. Caven"
 name_en: "E. Caven"
-name_ja: ""
+name_ja: "E. Caven"
 slug: "e.-caven"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Gloucester Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

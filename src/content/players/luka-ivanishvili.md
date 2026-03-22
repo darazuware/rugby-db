@@ -1,7 +1,7 @@
 ---
 title: "Luka Ivanishvili"
 name_en: "Luka Ivanishvili"
-name_ja: ""
+name_ja: "Luka Ivanishvili"
 slug: "luka-ivanishvili"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Georgia (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

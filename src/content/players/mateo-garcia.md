@@ -1,7 +1,7 @@
 ---
-title: "Mateo GARCIA | マテオ カルシア"
+title: "Mateo GARCIA"
 name_en: "Mateo GARCIA"
-name_ja: "マテオ カルシア"
+name_ja: "Mateo GARCIA"
 slug: "mateo-garcia"
 position: "SO"
 height: "174.0"

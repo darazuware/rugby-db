@@ -1,7 +1,7 @@
 ---
-title: "Lucas PAULOS | ルカス ハウロス"
+title: "Lucas PAULOS"
 name_en: "Lucas PAULOS"
-name_ja: "ルカス ハウロス"
+name_ja: "Lucas PAULOS"
 slug: "lucas-paulos"
 position: "LO"
 height: "199.0"

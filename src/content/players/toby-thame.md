@@ -1,12 +1,12 @@
 ---
 title: "Toby THAME"
 name_en: "Toby THAME"
-name_ja: ""
+name_ja: "Toby THAME"
 slug: "toby-thame"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

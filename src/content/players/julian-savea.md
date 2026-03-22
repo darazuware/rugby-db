@@ -1,7 +1,7 @@
 ---
-title: "Julian SAVEA | シュリアン サウェア"
+title: "Julian SAVEA"
 name_en: "Julian SAVEA"
-name_ja: "シュリアン サウェア"
+name_ja: "Julian SAVEA"
 slug: "julian-savea"
 position: "CTB"
 height: "192.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jimmy TUPOU | シミー ツホウ"
+title: "Jimmy TUPOU"
 name_en: "Jimmy TUPOU"
-name_ja: "シミー ツホウ"
+name_ja: "Jimmy TUPOU"
 slug: "jimmy-tupou"
 position: "LO"
 height: "196.0"

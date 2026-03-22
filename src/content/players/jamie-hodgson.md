@@ -1,7 +1,7 @@
 ---
 title: "Jamie Hodgson"
 name_en: "Jamie Hodgson"
-name_ja: ""
+name_ja: "Jamie Hodgson"
 slug: "jamie-hodgson"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Newcastle Falcons"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

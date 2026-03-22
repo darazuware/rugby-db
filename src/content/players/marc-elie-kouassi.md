@@ -1,12 +1,12 @@
 ---
 title: "Marc-Elie KOUASSI"
 name_en: "Marc-Elie KOUASSI"
-name_ja: ""
+name_ja: "Marc-Elie KOUASSI"
 slug: "marc-elie-kouassi"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 18
 country: ""
 birth_place_scraped: ""

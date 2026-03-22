@@ -1,7 +1,7 @@
 ---
-title: "Christopher TOLOFUA | クリストファー-トロフア"
+title: "Christopher TOLOFUA"
 name_en: "Christopher TOLOFUA"
-name_ja: "クリストファー-トロフア"
+name_ja: "Christopher TOLOFUA"
 slug: "christopher-tolofua"
 position: "HO"
 height: "182.0"

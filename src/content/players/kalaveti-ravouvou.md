@@ -1,7 +1,7 @@
 ---
 title: "Kalaveti Ravouvou"
 name_en: "Kalaveti Ravouvou"
-name_ja: ""
+name_ja: "Kalaveti Ravouvou"
 slug: "kalaveti-ravouvou"
 position: "Centre"
 height: ""
@@ -15,7 +15,7 @@ team: "Bristol Bears"
 caps: "Fiji (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

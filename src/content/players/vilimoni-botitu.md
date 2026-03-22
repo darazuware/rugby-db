@@ -1,7 +1,7 @@
 ---
-title: "Vilimoni BOTITU | ウィリモニ ホティトゥ"
+title: "Vilimoni BOTITU"
 name_en: "Vilimoni BOTITU"
-name_ja: "ウィリモニ ホティトゥ"
+name_ja: "Vilimoni BOTITU"
 slug: "vilimoni-botitu"
 position: "CTB"
 height: "183.0"

@@ -1,7 +1,7 @@
 ---
-title: "Louie CHAPMAN | ルイー チャッフマン"
+title: "Louie CHAPMAN"
 name_en: "Louie CHAPMAN"
-name_ja: "ルイー チャッフマン"
+name_ja: "Louie CHAPMAN"
 slug: "louie-chapman"
 position: "SH"
 height: "179.0"

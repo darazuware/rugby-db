@@ -1,12 +1,12 @@
 ---
 title: "Tom LITCHFIELD"
 name_en: "Tom LITCHFIELD"
-name_ja: ""
+name_ja: "Tom LITCHFIELD"
 slug: "tom-litchfield"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

@@ -1,7 +1,7 @@
 ---
-title: "Jack BOWEN | シャック ホーウェン"
+title: "Jack BOWEN"
 name_en: "Jack BOWEN"
-name_ja: "シャック ホーウェン"
+name_ja: "Jack BOWEN"
 slug: "jack-bowen"
 position: "SO"
 height: "178.0"

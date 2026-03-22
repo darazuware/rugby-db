@@ -1,12 +1,12 @@
 ---
 title: "R. Ma'asi-White"
 name_en: "R. Ma'asi-White"
-name_ja: ""
+name_ja: "R. Ma'asi-White"
 slug: "r.-ma'asi-white"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

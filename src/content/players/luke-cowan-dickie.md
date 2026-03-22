@@ -1,7 +1,7 @@
 ---
 title: "Luke Cowan-Dickie"
 name_en: "Luke Cowan-Dickie"
-name_ja: ""
+name_ja: "Luke Cowan-Dickie"
 slug: "luke-cowan-dickie"
 position: "Hooker"
 height: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: "England (44)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

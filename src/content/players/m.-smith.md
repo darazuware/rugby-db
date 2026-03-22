@@ -1,12 +1,12 @@
 ---
 title: "M. Smith"
 name_en: "M. Smith"
-name_ja: ""
+name_ja: "M. Smith"
 slug: "m.-smith"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

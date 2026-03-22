@@ -1,7 +1,7 @@
 ---
-title: "Bailyn SULLIVAN | ヘイリン-サリウァン"
+title: "Bailyn SULLIVAN"
 name_en: "Bailyn SULLIVAN"
-name_ja: "ヘイリン-サリウァン"
+name_ja: "Bailyn SULLIVAN"
 slug: "bailyn-sullivan"
 position: "CTB"
 height: "187.0"

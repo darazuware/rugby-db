@@ -1,12 +1,12 @@
 ---
 title: "Tommy FREEMAN"
 name_en: "Tommy FREEMAN"
-name_ja: ""
+name_ja: "Tommy FREEMAN"
 slug: "tommy-freeman"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 25
 country: ""
 birth_place_scraped: ""

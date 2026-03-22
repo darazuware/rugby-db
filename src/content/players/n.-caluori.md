@@ -1,12 +1,12 @@
 ---
 title: "N. Caluori"
 name_en: "N. Caluori"
-name_ja: ""
+name_ja: "N. Caluori"
 slug: "n.-caluori"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

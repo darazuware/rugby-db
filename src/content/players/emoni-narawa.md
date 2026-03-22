@@ -1,7 +1,7 @@
 ---
-title: "Emoni NARAWA | エモニ-ナラワ"
+title: "Emoni NARAWA"
 name_en: "Emoni NARAWA"
-name_ja: "エモニ-ナラワ"
+name_ja: "Emoni NARAWA"
 slug: "emoni-narawa"
 position: "WTB"
 height: "184.0"

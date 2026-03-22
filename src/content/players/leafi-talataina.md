@@ -1,7 +1,7 @@
 ---
-title: "Leafi TALATAINA | レアフィ タラタイナ"
+title: "Leafi TALATAINA"
 name_en: "Leafi TALATAINA"
-name_ja: "レアフィ タラタイナ"
+name_ja: "Leafi TALATAINA"
 slug: "leafi-talataina"
 position: "FL/No8"
 height: "196.0"

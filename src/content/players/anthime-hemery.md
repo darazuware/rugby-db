@@ -1,7 +1,7 @@
 ---
-title: "Anthime HEMERY | アンティム エムリー"
+title: "Anthime HEMERY"
 name_en: "Anthime HEMERY"
-name_ja: "アンティム エムリー"
+name_ja: "Anthime HEMERY"
 slug: "anthime-hemery"
 position: "FL/NO8"
 height: "187.0"

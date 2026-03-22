@@ -1,12 +1,12 @@
 ---
 title: "Ollie LAWRENCE"
 name_en: "Ollie LAWRENCE"
-name_ja: ""
+name_ja: "Ollie LAWRENCE"
 slug: "ollie-lawrence"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

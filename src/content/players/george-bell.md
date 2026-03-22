@@ -1,7 +1,7 @@
 ---
-title: "George BELL | ショーシ-ヘル"
+title: "George BELL"
 name_en: "George BELL"
-name_ja: "ショーシ-ヘル"
+name_ja: "George BELL"
 slug: "george-bell"
 position: "HO"
 height: "183.0"

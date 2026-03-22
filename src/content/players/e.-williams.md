@@ -1,12 +1,12 @@
 ---
 title: "E. Williams"
 name_en: "E. Williams"
-name_ja: ""
+name_ja: "E. Williams"
 slug: "e.-williams"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Harlequins"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

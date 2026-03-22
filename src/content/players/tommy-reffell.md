@@ -1,7 +1,7 @@
 ---
 title: "Tommy Reffell"
 name_en: "Tommy Reffell"
-name_ja: ""
+name_ja: "Tommy Reffell"
 slug: "tommy-reffell"
 position: "Flanker"
 height: ""
@@ -15,7 +15,7 @@ team: "Leicester Tigers"
 caps: "Wales (23)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

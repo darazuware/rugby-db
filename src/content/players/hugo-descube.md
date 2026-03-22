@@ -1,12 +1,12 @@
 ---
 title: "Hugo DESCUBE"
 name_en: "Hugo DESCUBE"
-name_ja: ""
+name_ja: "Hugo DESCUBE"
 slug: "hugo-descube"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 21
 country: ""
 birth_place_scraped: ""

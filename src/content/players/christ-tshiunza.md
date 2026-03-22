@@ -1,7 +1,7 @@
 ---
 title: "Christ Tshiunza"
 name_en: "Christ Tshiunza"
-name_ja: ""
+name_ja: "Christ Tshiunza"
 slug: "christ-tshiunza"
 position: "Lock"
 height: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: "Wales (15)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

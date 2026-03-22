@@ -1,7 +1,7 @@
 ---
-title: "Jona NAREKI | ショナ ナレキ"
+title: "Jona NAREKI"
 name_en: "Jona NAREKI"
-name_ja: "ショナ ナレキ"
+name_ja: "Jona NAREKI"
 slug: "jona-nareki"
 position: "WTB"
 height: "175.0"

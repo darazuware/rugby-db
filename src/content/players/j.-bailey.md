@@ -1,12 +1,12 @@
 ---
 title: "J. Bailey"
 name_en: "J. Bailey"
-name_ja: ""
+name_ja: "J. Bailey"
 slug: "j.-bailey"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Exeter Chiefs"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

@@ -1,7 +1,7 @@
 ---
-title: "Ioane MOANANU | イオアネ-モアナヌ"
+title: "Ioane MOANANU"
 name_en: "Ioane MOANANU"
-name_ja: "イオアネ-モアナヌ"
+name_ja: "Ioane MOANANU"
 slug: "ioane-moananu"
 position: "HO"
 height: "173.0"

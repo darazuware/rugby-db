@@ -1,7 +1,7 @@
 ---
-title: "Leo MONIN | レオ モナン"
+title: "Leo MONIN"
 name_en: "Leo MONIN"
-name_ja: "レオ モナン"
+name_ja: "Leo MONIN"
 slug: "leo-monin"
 position: "FB"
 height: "188.0"

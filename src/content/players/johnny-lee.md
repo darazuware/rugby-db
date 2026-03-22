@@ -1,12 +1,12 @@
 ---
 title: "Johnny LEE"
 name_en: "Johnny LEE"
-name_ja: ""
+name_ja: "Johnny LEE"
 slug: "johnny-lee"
 position: "Back row"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 22
 country: ""
 birth_place_scraped: ""

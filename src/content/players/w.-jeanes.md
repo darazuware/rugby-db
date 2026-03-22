@@ -1,12 +1,12 @@
 ---
 title: "W. Jeanes"
 name_en: "W. Jeanes"
-name_ja: ""
+name_ja: "W. Jeanes"
 slug: "w.-jeanes"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

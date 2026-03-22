@@ -1,12 +1,12 @@
 ---
 title: "Alex COLES"
 name_en: "Alex COLES"
-name_ja: ""
+name_ja: "Alex COLES"
 slug: "alex-coles"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 26
 country: ""
 birth_place_scraped: ""

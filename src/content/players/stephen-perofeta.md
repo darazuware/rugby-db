@@ -1,7 +1,7 @@
 ---
-title: "Stephen PEROFETA | ステファン ヘロフェタ"
+title: "Stephen PEROFETA"
 name_en: "Stephen PEROFETA"
-name_ja: "ステファン ヘロフェタ"
+name_ja: "Stephen PEROFETA"
 slug: "stephen-perofeta"
 position: "SO"
 height: "181.0"

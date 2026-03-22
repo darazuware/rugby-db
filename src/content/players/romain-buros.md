@@ -1,7 +1,7 @@
 ---
-title: "Romain BUROS | ロマン ヒュロス"
+title: "Romain BUROS"
 name_en: "Romain BUROS"
-name_ja: "ロマン ヒュロス"
+name_ja: "Romain BUROS"
 slug: "romain-buros"
 position: "FB"
 height: "187.0"

@@ -1,12 +1,12 @@
 ---
 title: "E. van Rhyn"
 name_en: "E. van Rhyn"
-name_ja: ""
+name_ja: "E. van Rhyn"
 slug: "e.-van-rhyn"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Sale Sharks"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

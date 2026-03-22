@@ -1,7 +1,7 @@
 ---
-title: "Jean-Luc DU PREEZ | シャン=リュック-テュ フリーツ"
+title: "Jean-Luc DU PREEZ"
 name_en: "Jean-Luc DU PREEZ"
-name_ja: "シャン=リュック-テュ フリーツ"
+name_ja: "Jean-Luc DU PREEZ"
 slug: "jean-luc-du-preez"
 position: "FL/NO8"
 height: "194.0"

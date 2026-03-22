@@ -1,7 +1,7 @@
 ---
-title: "Xan MOUSQUES | シャン ムスケ"
+title: "Xan MOUSQUES"
 name_en: "Xan MOUSQUES"
-name_ja: "シャン ムスケ"
+name_ja: "Xan MOUSQUES"
 slug: "xan-mousques"
 position: "WTB"
 height: "178.0"

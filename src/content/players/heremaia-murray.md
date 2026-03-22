@@ -1,7 +1,7 @@
 ---
-title: "Heremaia MURRAY | ヘレマイア-マレー"
+title: "Heremaia MURRAY"
 name_en: "Heremaia MURRAY"
-name_ja: "ヘレマイア-マレー"
+name_ja: "Heremaia MURRAY"
 slug: "heremaia-murray"
 position: "WTB"
 height: "188.0"

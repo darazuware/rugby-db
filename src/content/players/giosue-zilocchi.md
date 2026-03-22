@@ -1,7 +1,7 @@
 ---
-title: "Giosue ZILOCCHI | ショスエ-シロッキ"
+title: "Giosue ZILOCCHI"
 name_en: "Giosue ZILOCCHI"
-name_ja: "ショスエ-シロッキ"
+name_ja: "Giosue ZILOCCHI"
 slug: "giosue-zilocchi"
 position: "PR"
 height: "189.0"

@@ -1,12 +1,12 @@
 ---
 title: "Henry ARUNDELL"
 name_en: "Henry ARUNDELL"
-name_ja: ""
+name_ja: "Henry ARUNDELL"
 slug: "henry-arundell"
 position: "Fullback"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: 23
 country: ""
 birth_place_scraped: ""

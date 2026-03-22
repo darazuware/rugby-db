@@ -1,12 +1,12 @@
 ---
 title: "B. Morrow"
 name_en: "B. Morrow"
-name_ja: ""
+name_ja: "B. Morrow"
 slug: "b.-morrow"
 position: "Wing"
 height: ""
 weight: ""
-birth_date: "nan"
+birth_date: ""
 age: null
 country: ""
 birth_place_scraped: ""
@@ -15,7 +15,7 @@ team: "Saracens"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: ""
 ---
 
 ## キャリア遍歴

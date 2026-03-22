@@ -1,7 +1,7 @@
 ---
-title: "Ethan BLACKADDER | イーサン-フラックアター"
+title: "Ethan BLACKADDER"
 name_en: "Ethan BLACKADDER"
-name_ja: "イーサン-フラックアター"
+name_ja: "Ethan BLACKADDER"
 slug: "ethan-blackadder"
 position: "FL/No8"
 height: "190.0"
