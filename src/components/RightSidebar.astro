@@ -139,9 +139,18 @@ const popularPlayers = (rankingData as any[]) || [];
 
   {/* アクセスランキング */}
   <div class="bg-card/30 backdrop-blur-xl border border-border-dim/50 rounded-[2rem] p-6 shadow-2xl relative overflow-hidden">
-    <div class="flex items-center gap-3 mb-8">
-      <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
-      <h3 class="font-black italic text-xl tracking-tighter uppercase">アクセスランキング</h3>
+    <div class="flex items-center justify-between mb-8">
+      <div class="flex items-center gap-3">
+        <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
+        <h3 class="font-black italic text-xl tracking-tighter uppercase">アクセスランキング</h3>
+      </div>
+      <div class="flex flex-col items-end">
+        <div class="flex items-center gap-1.5 px-2 py-1 bg-red-500/10 rounded-full border border-red-500/20">
+          <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span>
+          <span class="text-[8px] font-black text-red-500 uppercase tracking-widest">Live</span>
+        </div>
+        <span class="text-[7px] font-bold text-foreground/20 uppercase tracking-widest mt-1">Updated: {new Date().toLocaleDateString()}</span>
+      </div>
     </div>
 
     {popularPlayers.length > 0 ? (
