@@ -52,6 +52,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 			href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap"
 			rel="stylesheet"
 		/>
+		<!-- Google Analytics (GA4) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-3QYR0XFW1Q"></script>
+		<script is:inline>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-3QYR0XFW1Q');
+		</script>
 		<!-- Google AdSense -->
 		<meta name="google-adsense-account" content="ca-pub-7526742711058970" />
 		<script
