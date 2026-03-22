@@ -1,7 +1,7 @@
 ---
-title: "Rory Arnold | ローリー アーノルト"
+title: "Rory Arnold | ローリー アーノルド"
 name_en: "Rory Arnold"
-name_ja: "ローリー アーノルト"
+name_ja: "ローリー アーノルド"
 slug: "rory-arnold"
 position: "LO"
 height: "208.0"

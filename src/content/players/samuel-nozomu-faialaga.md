@@ -1,7 +1,7 @@
 ---
-title: "Samuel Nozomu Faialaga | ファイアラカ 望サムエル"
+title: "Samuel Nozomu Faialaga | ファイアラガ 望サムエル"
 name_en: "Samuel Nozomu Faialaga"
-name_ja: "ファイアラカ 望サムエル"
+name_ja: "ファイアラガ 望サムエル"
 slug: "samuel-nozomu-faialaga"
 position: "PR"
 height: "176.0"

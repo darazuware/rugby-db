@@ -1,7 +1,7 @@
 ---
-title: "Francois KLOPPER | フランソワ クロッハー"
+title: "Francois KLOPPER | フランソワ クロッパー"
 name_en: "Francois KLOPPER"
-name_ja: "フランソワ クロッハー"
+name_ja: "フランソワ クロッパー"
 slug: "francois-klopper"
 position: "PR"
 height: "189.0"

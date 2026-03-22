@@ -1,7 +1,7 @@
 ---
-title: "Paul DE VILLIERS | ホール テ ウィリアース"
+title: "Paul DE VILLIERS | ポール デ ヴィリアーズ"
 name_en: "Paul DE VILLIERS"
-name_ja: "ホール テ ウィリアース"
+name_ja: "ポール デ ヴィリアーズ"
 slug: "paul-de-villiers"
 position: "FL/No8"
 height: "181.0"

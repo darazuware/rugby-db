@@ -1,7 +1,7 @@
 ---
-title: "Mahe Vailanu | マヘ ウァイラヌ"
+title: "Mahe Vailanu | マヘ ヴァイラヌ"
 name_en: "Mahe Vailanu"
-name_ja: "マヘ ウァイラヌ"
+name_ja: "マヘ ヴァイラヌ"
 slug: "mahe-vailanu"
 position: "HO"
 height: "175.0"

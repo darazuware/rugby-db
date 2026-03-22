@@ -1,7 +1,7 @@
 ---
-title: "David HAWKSHAW | テイウィット ホークショー"
+title: "David HAWKSHAW | デイヴィッド ホークショー"
 name_en: "David HAWKSHAW"
-name_ja: "テイウィット ホークショー"
+name_ja: "デイヴィッド ホークショー"
 slug: "david-hawkshaw"
 position: "CTB"
 height: "178.0"

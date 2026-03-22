@@ -1,7 +1,7 @@
 ---
-title: "Fionn GIBBONS | フィオン キホンス"
+title: "Fionn GIBBONS | フィオン ギボンズ"
 name_en: "Fionn GIBBONS"
-name_ja: "フィオン キホンス"
+name_ja: "フィオン ギボンズ"
 slug: "fionn-gibbons"
 position: "CTB"
 height: "193.0"

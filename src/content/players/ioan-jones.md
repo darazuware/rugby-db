@@ -1,7 +1,7 @@
 ---
-title: "Ioan JONES | イオアン ショーンス"
+title: "Ioan JONES | イオアン ジョーンズ"
 name_en: "Ioan JONES"
-name_ja: "イオアン ショーンス"
+name_ja: "イオアン ジョーンズ"
 slug: "ioan-jones"
 position: "FB"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Canan MOODIE | カナン-ムーティ"
+title: "Canan MOODIE | カナン-ムーディ"
 name_en: "Canan MOODIE"
-name_ja: "カナン-ムーティ"
+name_ja: "カナン-ムーディ"
 slug: "canan-moodie"
 position: "WTB"
 height: "191.0"

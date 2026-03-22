@@ -1,7 +1,7 @@
 ---
-title: "Friedle Olivier | フリートル オリウィエー"
+title: "Friedle Olivier | フリードル オリヴィエー"
 name_en: "Friedle Olivier"
-name_ja: "フリートル オリウィエー"
+name_ja: "フリードル オリヴィエー"
 slug: "friedle-olivier"
 position: "FL/No8"
 height: "197.0"

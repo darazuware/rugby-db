@@ -1,7 +1,7 @@
 ---
-title: "Zach PORTHEN | サック ホーセン"
+title: "Zach PORTHEN | ザック ポーセン"
 name_en: "Zach PORTHEN"
-name_ja: "サック ホーセン"
+name_ja: "ザック ポーセン"
 slug: "zachary-porthen"
 position: "PR"
 height: "189.0"

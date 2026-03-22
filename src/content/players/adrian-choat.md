@@ -1,7 +1,7 @@
 ---
-title: "Adrian Choat | エイトリアン チョウト"
+title: "Adrian Choat | エイドリアン チョウト"
 name_en: "Adrian Choat"
-name_ja: "エイトリアン チョウト"
+name_ja: "エイドリアン チョウト"
 slug: "adrian-choat"
 position: "FL/No8"
 height: "190.0"

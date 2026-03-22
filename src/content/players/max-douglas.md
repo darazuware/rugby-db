@@ -1,7 +1,7 @@
 ---
-title: "Max DOUGLAS | マックス タクラス"
+title: "Max DOUGLAS | マックス ダグラス"
 name_en: "Max DOUGLAS"
-name_ja: "マックス タクラス"
+name_ja: "マックス ダグラス"
 slug: "max-douglas"
 position: "LO"
 height: "200.0"

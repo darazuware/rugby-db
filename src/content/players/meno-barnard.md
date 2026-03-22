@@ -1,7 +1,7 @@
 ---
-title: "Meno BARNARD | メノ ハーナート"
+title: "Meno BARNARD | メノ バーナード"
 name_en: "Meno BARNARD"
-name_ja: "メノ ハーナート"
+name_ja: "メノ バーナード"
 slug: "meno-barnard"
 position: "FL/No8"
 height: "193.0"

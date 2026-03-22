@@ -1,7 +1,7 @@
 ---
-title: "Merwe Olivier | メルウェ オリウィエ"
+title: "Merwe Olivier | メルヴェ オリヴィエ"
 name_en: "Merwe Olivier"
-name_ja: "メルウェ オリウィエ"
+name_ja: "メルヴェ オリヴィエ"
 slug: "merwe-olivier"
 position: "LO"
 height: "194.0"

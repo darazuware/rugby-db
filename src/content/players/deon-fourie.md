@@ -1,7 +1,7 @@
 ---
-title: "Deon FOURIE | テオン-フーリー"
+title: "Deon FOURIE | デオン-フーリー"
 name_en: "Deon FOURIE"
-name_ja: "テオン-フーリー"
+name_ja: "デオン-フーリー"
 slug: "deon-fourie"
 position: "FL/No8"
 height: "177.0"

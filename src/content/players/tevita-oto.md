@@ -1,7 +1,7 @@
 ---
-title: "Tevita Oto | テヒタ オト"
+title: "Tevita Oto | テビタ オト"
 name_en: "Tevita Oto"
-name_ja: "テヒタ オト"
+name_ja: "テビタ オト"
 slug: "tevita-oto"
 position: "FL/No8"
 height: "185.0"

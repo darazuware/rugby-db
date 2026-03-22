@@ -1,7 +1,7 @@
 ---
-title: "James FENDER | シェームス-フェンター"
+title: "James FENDER | ジェームズ-フェンダー"
 name_en: "James FENDER"
-name_ja: "シェームス-フェンター"
+name_ja: "ジェームズ-フェンダー"
 slug: "james-fender"
 position: "LO"
 height: "204.0"

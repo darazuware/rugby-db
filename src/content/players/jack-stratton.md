@@ -1,7 +1,7 @@
 ---
-title: "Jack Stratton | シャック ストラトン"
+title: "Jack Stratton | ジャック ストラトン"
 name_en: "Jack Stratton"
-name_ja: "シャック ストラトン"
+name_ja: "ジャック ストラトン"
 slug: "jack-stratton"
 position: "SH"
 height: "185.0"

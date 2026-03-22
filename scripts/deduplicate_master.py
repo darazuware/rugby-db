@@ -15,9 +15,17 @@ BACKUP_PATH = 'data_sources/final_master_data_v27_normalized.csv.bak_before_fix'
 
 def normalize_text(text):
     if not text or pd.isna(text): return ""
-    # Normalize unicode (NFKC) and remove accents
     text = unicodedata.normalize('NFKC', str(text))
-    text = "".join(c for c in unicodedata.normalize('NFD', text) if unicodedata.category(c) != 'Mn')
+    
+    # If the text contains Japanese characters (Hiragana/Katakana), 
+    # skip the NFD-stripping logic to avoid losing voicing marks.
+    if not re.search(r'[\u3040-\u309F\u30A0-\u30FF]', text):
+        # Only apply Mn stripping for non-Japanese text (e.g. Latin accents)
+        new_text = ""
+        for c in unicodedata.normalize('NFD', text):
+            if unicodedata.category(c) != 'Mn':
+                new_text += c
+        text = unicodedata.normalize('NFKC', new_text)
     # Remove special dots and extra spaces
     text = text.replace('・', ' ').replace('·', ' ')
     text = re.sub(r'\s+', ' ', text).strip()

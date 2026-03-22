@@ -1,7 +1,7 @@
 ---
-title: "Dan LANCASTER | タン ランカスター"
+title: "Dan LANCASTER | ダン ランカスター"
 name_en: "Dan LANCASTER"
-name_ja: "タン ランカスター"
+name_ja: "ダン ランカスター"
 slug: "dan-lancaster"
 position: "SO"
 height: "183.0"

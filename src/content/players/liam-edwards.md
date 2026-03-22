@@ -1,7 +1,7 @@
 ---
-title: "Liam EDWARDS | リアム エトワース"
+title: "Liam EDWARDS | リアム エドワーズ"
 name_en: "Liam EDWARDS"
-name_ja: "リアム エトワース"
+name_ja: "リアム エドワーズ"
 slug: "liam-edwards"
 position: "LO"
 height: "200.0"

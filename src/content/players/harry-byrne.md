@@ -1,7 +1,7 @@
 ---
-title: "Harry BYRNE | ハリー-ハーン"
+title: "Harry BYRNE | ハリー-バーン"
 name_en: "Harry BYRNE"
-name_ja: "ハリー-ハーン"
+name_ja: "ハリー-バーン"
 slug: "harry-byrne"
 position: "SO"
 height: "191.0"

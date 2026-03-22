@@ -1,7 +1,7 @@
 ---
-title: "Wynand Grassmann | ワイナント クラスマン"
+title: "Wynand Grassmann | ワイナンド グラスマン"
 name_en: "Wynand Grassmann"
-name_ja: "ワイナント クラスマン"
+name_ja: "ワイナンド グラスマン"
 slug: "wynand-grassmann"
 position: "LO"
 height: "196.0"

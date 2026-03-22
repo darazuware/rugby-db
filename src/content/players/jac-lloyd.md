@@ -1,7 +1,7 @@
 ---
-title: "Jac LLOYD | シャック-ロイト"
+title: "Jac LLOYD | ジャック-ロイド"
 name_en: "Jac LLOYD"
-name_ja: "シャック-ロイト"
+name_ja: "ジャック-ロイド"
 slug: "jac-lloyd"
 position: "SO"
 height: "174.0"

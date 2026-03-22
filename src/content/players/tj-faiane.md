@@ -1,7 +1,7 @@
 ---
-title: "TJ Faiane | ティシェイ ファイアネ"
+title: "TJ Faiane | ティジェイ ファイアネ"
 name_en: "TJ Faiane"
-name_ja: "ティシェイ ファイアネ"
+name_ja: "ティジェイ ファイアネ"
 slug: "tj-faiane"
 position: "CTB"
 height: "180.0"

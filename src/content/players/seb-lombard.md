@@ -1,7 +1,7 @@
 ---
-title: "Seb LOMBARD | セフ ロンハート"
+title: "Seb LOMBARD | セブ ロンバード"
 name_en: "Seb LOMBARD"
-name_ja: "セフ ロンハート"
+name_ja: "セブ ロンバード"
 slug: "seb-lombard"
 position: "PR"
 height: "190.0"

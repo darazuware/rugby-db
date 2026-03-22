@@ -1,7 +1,7 @@
 ---
-title: "Jude Gibbs | シュート キフス"
+title: "Jude Gibbs | ジュード ギブス"
 name_en: "Jude Gibbs"
-name_ja: "シュート キフス"
+name_ja: "ジュード ギブス"
 slug: "jude-gibbs"
 position: "SO"
 height: "178.0"

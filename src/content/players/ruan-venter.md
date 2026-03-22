@@ -1,7 +1,7 @@
 ---
-title: "Ruan VENTER | ルアン ウェンター"
+title: "Ruan VENTER | ルアン ヴェンター"
 name_en: "Ruan VENTER"
-name_ja: "ルアン ウェンター"
+name_ja: "ルアン ヴェンター"
 slug: "ruan-venter"
 position: "LO"
 height: "198.0"

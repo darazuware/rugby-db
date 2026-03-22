@@ -1,7 +1,7 @@
 ---
-title: "Brendon Nell | フレントン ネル"
+title: "Brendon Nell | ブレンドン ネル"
 name_en: "Brendon Nell"
-name_ja: "フレントン ネル"
+name_ja: "ブレンドン ネル"
 slug: "brendon-nell"
 position: "LO"
 height: "196.0"

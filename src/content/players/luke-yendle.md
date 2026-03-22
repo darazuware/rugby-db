@@ -1,7 +1,7 @@
 ---
-title: "Luke YENDLE | ルーク イェントル"
+title: "Luke YENDLE | ルーク イェンドル"
 name_en: "Luke YENDLE"
-name_ja: "ルーク イェントル"
+name_ja: "ルーク イェンドル"
 slug: "luke-yendle"
 position: "PR"
 height: "185.0"

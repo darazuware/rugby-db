@@ -1,7 +1,7 @@
 ---
-title: "Charles Piutau | チャールス ヒウタウ"
+title: "Charles Piutau | チャールズ ピウタウ"
 name_en: "Charles Piutau"
-name_ja: "チャールス ヒウタウ"
+name_ja: "チャールズ ピウタウ"
 slug: "charles-piutau"
 position: "CTB"
 height: "186.0"

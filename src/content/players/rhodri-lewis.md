@@ -1,7 +1,7 @@
 ---
-title: "Rhodri LEWIS | ロトリ ルイス"
+title: "Rhodri LEWIS | ロドリ ルイス"
 name_en: "Rhodri LEWIS"
-name_ja: "ロトリ ルイス"
+name_ja: "ロドリ ルイス"
 slug: "rhodri-lewis"
 position: "SH"
 height: "175.0"

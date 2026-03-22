@@ -1,7 +1,7 @@
 ---
-title: "Ed BYRNE | エト ハーン"
+title: "Ed BYRNE | エド バーン"
 name_en: "Ed BYRNE"
-name_ja: "エト ハーン"
+name_ja: "エド バーン"
 slug: "ed-byrne"
 position: "PR"
 height: "180.0"

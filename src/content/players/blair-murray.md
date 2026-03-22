@@ -1,7 +1,7 @@
 ---
-title: "Blair MURRAY | フレア MURRAY"
+title: "Blair MURRAY | ブレア MURRAY"
 name_en: "Blair MURRAY"
-name_ja: "フレア MURRAY"
+name_ja: "ブレア MURRAY"
 slug: "blair-murray"
 position: "FB"
 height: "173.0"

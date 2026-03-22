@@ -1,7 +1,7 @@
 ---
-title: "Jan-Hendrik WESSELS | ヤン=ヘントリック-ウェッセルス"
+title: "Jan-Hendrik WESSELS | ヤン=ヘンドリック-ヴェッセルズ"
 name_en: "Jan-Hendrik WESSELS"
-name_ja: "ヤン=ヘントリック-ウェッセルス"
+name_ja: "ヤン=ヘンドリック-ヴェッセルズ"
 slug: "jan-hendrik-wessels"
 position: "HO"
 height: "188.0"

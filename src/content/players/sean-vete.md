@@ -1,7 +1,7 @@
 ---
-title: "Sean Vete | ショーン ウェーテー"
+title: "Sean Vete | ショーン ヴェーテー"
 name_en: "Sean Vete"
-name_ja: "ショーン ウェーテー"
+name_ja: "ショーン ヴェーテー"
 slug: "sean-vete"
 position: "PR"
 height: "190.0"

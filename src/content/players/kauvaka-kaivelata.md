@@ -1,7 +1,7 @@
 ---
-title: "Kauvaka Kaivelata | カウウァカ カイウェラタ"
+title: "Kauvaka Kaivelata | カウヴァカ カイヴェラタ"
 name_en: "Kauvaka Kaivelata"
-name_ja: "カウウァカ カイウェラタ"
+name_ja: "カウヴァカ カイヴェラタ"
 slug: "kauvaka-kaivelata"
 position: "PR"
 height: "187.0"

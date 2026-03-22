@@ -1,7 +1,7 @@
 ---
-title: "Asipeli Moala | アシヘリ モアラ"
+title: "Asipeli Moala | アシペリ モアラ"
 name_en: "Asipeli Moala"
-name_ja: "アシヘリ モアラ"
+name_ja: "アシペリ モアラ"
 slug: "asipeli-moala"
 position: "FL/No8"
 height: "186.0"

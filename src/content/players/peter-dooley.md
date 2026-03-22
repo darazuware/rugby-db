@@ -1,7 +1,7 @@
 ---
-title: "Peter DOOLEY | ヒーター トゥーリー"
+title: "Peter DOOLEY | ピーター ドゥーリー"
 name_en: "Peter DOOLEY"
-name_ja: "ヒーター トゥーリー"
+name_ja: "ピーター ドゥーリー"
 slug: "peter-dooley"
 position: "PR"
 height: "183.0"

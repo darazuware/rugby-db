@@ -1,7 +1,7 @@
 ---
-title: "James RATTI | シェームス-ラッティ"
+title: "James RATTI | ジェームズ-ラッティ"
 name_en: "James RATTI"
-name_ja: "シェームス-ラッティ"
+name_ja: "ジェームズ-ラッティ"
 slug: "james-ratti"
 position: "LO"
 height: "196.0"

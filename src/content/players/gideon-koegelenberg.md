@@ -1,7 +1,7 @@
 ---
-title: "Gideon Koegelenberg | キティオン コーヘレンハーク"
+title: "Gideon Koegelenberg | ギディオン コーヘレンバーグ"
 name_en: "Gideon Koegelenberg"
-name_ja: "キティオン コーヘレンハーク"
+name_ja: "ギディオン コーヘレンバーグ"
 slug: "gideon-koegelenberg"
 position: "LO"
 height: "202.0"

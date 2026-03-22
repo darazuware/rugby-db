@@ -1,7 +1,7 @@
 ---
-title: "Jack MURPHY | シャック-マーフィー"
+title: "Jack MURPHY | ジャック-マーフィー"
 name_en: "Jack MURPHY"
-name_ja: "シャック-マーフィー"
+name_ja: "ジャック-マーフィー"
 slug: "jack-murphy"
 position: "SO"
 height: "178.0"

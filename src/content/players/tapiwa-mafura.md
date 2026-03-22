@@ -1,7 +1,7 @@
 ---
-title: "Tapiwa MAFURA | タヒワ マフラ"
+title: "Tapiwa MAFURA | タピワ マフラ"
 name_en: "Tapiwa MAFURA"
-name_ja: "タヒワ マフラ"
+name_ja: "タピワ マフラ"
 slug: "tapiwa-mafura"
 position: "FB"
 height: "175.0"

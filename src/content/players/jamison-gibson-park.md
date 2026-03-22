@@ -1,7 +1,7 @@
 ---
-title: "Jamison GIBSON-PARK | シェイミソン-キフソン=ハーク"
+title: "Jamison GIBSON-PARK | ジェイミソン-ギブソン=パーク"
 name_en: "Jamison GIBSON-PARK"
-name_ja: "シェイミソン-キフソン=ハーク"
+name_ja: "ジェイミソン-ギブソン=パーク"
 slug: "jamison-gibson-park"
 position: "SH"
 height: "175.0"

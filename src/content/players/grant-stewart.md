@@ -1,7 +1,7 @@
 ---
-title: "Grant STEWART | クラント スチュワート"
+title: "Grant STEWART | グラント スチュワート"
 name_en: "Grant STEWART"
-name_ja: "クラント スチュワート"
+name_ja: "グラント スチュワート"
 slug: "grant-stewart"
 position: "HO"
 height: "182.0"

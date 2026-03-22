@@ -1,7 +1,7 @@
 ---
-title: "Jeandre RUDOLPH | シャントレ-ルトルフ"
+title: "Jeandre RUDOLPH | ジャンドレ-ルドルフ"
 name_en: "Jeandre RUDOLPH"
-name_ja: "シャントレ-ルトルフ"
+name_ja: "ジャンドレ-ルドルフ"
 slug: "jeandre-rudolph"
 position: "FL/No8"
 height: "186.0"

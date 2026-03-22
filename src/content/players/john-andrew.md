@@ -1,7 +1,7 @@
 ---
-title: "John ANDREW | ション アントリュー"
+title: "John ANDREW | ジョン アンドリュー"
 name_en: "John ANDREW"
-name_ja: "ション アントリュー"
+name_ja: "ジョン アンドリュー"
 slug: "john-andrew"
 position: "HO"
 height: "180.0"

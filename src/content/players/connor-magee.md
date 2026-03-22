@@ -1,7 +1,7 @@
 ---
-title: "Connor MAGEE | コナー マキー"
+title: "Connor MAGEE | コナー マギー"
 name_en: "Connor MAGEE"
-name_ja: "コナー マキー"
+name_ja: "コナー マギー"
 slug: "connor-magee"
 position: "HO"
 height: "185.0"

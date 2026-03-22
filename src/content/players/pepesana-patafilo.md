@@ -1,7 +1,7 @@
 ---
-title: "Pepesana Patafilo | ヘヘサナ ハタフィロ"
+title: "Pepesana Patafilo | ペペサナ パタフィロ"
 name_en: "Pepesana Patafilo"
-name_ja: "ヘヘサナ ハタフィロ"
+name_ja: "ペペサナ パタフィロ"
 slug: "pepesana-patafilo"
 position: "CTB"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Brodie Retallick | フロティ レタリック"
+title: "Brodie Retallick | ブロディ レタリック"
 name_en: "Brodie Retallick"
-name_ja: "フロティ レタリック"
+name_ja: "ブロディ レタリック"
 slug: "brodie-retallick"
 position: "LO"
 height: "204.0"

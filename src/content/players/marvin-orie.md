@@ -1,7 +1,7 @@
 ---
-title: "Marvin ORIE | マーウィン オリー"
+title: "Marvin ORIE | マーヴィン オリー"
 name_en: "Marvin ORIE"
-name_ja: "マーウィン オリー"
+name_ja: "マーヴィン オリー"
 slug: "marvin-orie"
 position: "LO"
 height: "198.0"

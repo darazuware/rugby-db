@@ -1,7 +1,7 @@
 ---
-title: "Cobus WIESE | コーハス ウィーセ"
+title: "Cobus WIESE | コーバス ヴィーセ"
 name_en: "Cobus WIESE"
-name_ja: "コーハス ウィーセ"
+name_ja: "コーバス ヴィーセ"
 slug: "cobus-wiese"
 position: "LO"
 height: "199.0"

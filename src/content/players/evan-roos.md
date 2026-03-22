@@ -1,7 +1,7 @@
 ---
-title: "Evan ROOS | エウァン-ルース"
+title: "Evan ROOS | エヴァン-ルース"
 name_en: "Evan ROOS"
-name_ja: "エウァン-ルース"
+name_ja: "エヴァン-ルース"
 slug: "evan-roos"
 position: "FL/No8"
 height: "191.0"

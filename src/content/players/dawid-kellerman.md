@@ -1,7 +1,7 @@
 ---
-title: "Dawid Kellerman | ターウィット ケラーマン"
+title: "Dawid Kellerman | ダーウィッド ケラーマン"
 name_en: "Dawid Kellerman"
-name_ja: "ターウィット ケラーマン"
+name_ja: "ダーウィッド ケラーマン"
 slug: "dawid-kellerman"
 position: "CTB"
 height: "185.0"

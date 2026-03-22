@@ -1,7 +1,7 @@
 ---
-title: "Charlie IRVINE | チャーリー アーウィン"
+title: "Charlie IRVINE | チャーリー アーヴィン"
 name_en: "Charlie IRVINE"
-name_ja: "チャーリー アーウィン"
+name_ja: "チャーリー アーヴィン"
 slug: "charlie-irvine"
 position: "LO"
 height: "202.0"

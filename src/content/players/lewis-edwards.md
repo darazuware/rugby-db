@@ -1,7 +1,7 @@
 ---
-title: "Lewis EDWARDS | ルイス エトワース"
+title: "Lewis EDWARDS | ルイス エドワーズ"
 name_en: "Lewis EDWARDS"
-name_ja: "ルイス エトワース"
+name_ja: "ルイス エドワーズ"
 slug: "lewis-edwards"
 position: "CTB"
 height: "195.0"

@@ -1,7 +1,7 @@
 ---
-title: "Reinhard NOTHNAGEL | ラインハルト ノートナケル"
+title: "Reinhard NOTHNAGEL | ラインハルト ノートナゲル"
 name_en: "Reinhard NOTHNAGEL"
-name_ja: "ラインハルト ノートナケル"
+name_ja: "ラインハルト ノートナゲル"
 slug: "reinhard-nothnagel"
 position: "LO"
 height: "202.0"

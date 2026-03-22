@@ -1,7 +1,7 @@
 ---
-title: "Sintu MANJEZI | シントゥ マンシェシ"
+title: "Sintu MANJEZI | シントゥ マンジェジ"
 name_en: "Sintu MANJEZI"
-name_ja: "シントゥ マンシェシ"
+name_ja: "シントゥ マンジェジ"
 slug: "sintu-manjezi"
 position: "LO"
 height: "198.0"

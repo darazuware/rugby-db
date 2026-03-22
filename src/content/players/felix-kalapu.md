@@ -1,7 +1,7 @@
 ---
-title: "Felix Kalapu | フィリックス カラフ"
+title: "Felix Kalapu | フィリックス カラプ"
 name_en: "Felix Kalapu"
-name_ja: "フィリックス カラフ"
+name_ja: "フィリックス カラプ"
 slug: "felix-kalapu"
 position: "LO"
 height: "195.0"

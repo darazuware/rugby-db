@@ -1,7 +1,7 @@
 ---
-title: "Keelan GILES | キーラン シャイルス"
+title: "Keelan GILES | キーラン ジャイルズ"
 name_en: "Keelan GILES"
-name_ja: "キーラン シャイルス"
+name_ja: "キーラン ジャイルズ"
 slug: "keelan-giles"
 position: "WTB"
 height: "173.0"

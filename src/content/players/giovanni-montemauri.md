@@ -1,7 +1,7 @@
 ---
-title: "Giovanni MONTEMAURI | ショウァンニ モンテマウリ"
+title: "Giovanni MONTEMAURI | ジョヴァンニ モンテマウリ"
 name_en: "Giovanni MONTEMAURI"
-name_ja: "ショウァンニ モンテマウリ"
+name_ja: "ジョヴァンニ モンテマウリ"
 slug: "giovanni-montemauri"
 position: "SO"
 height: "189.0"

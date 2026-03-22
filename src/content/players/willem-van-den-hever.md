@@ -1,7 +1,7 @@
 ---
-title: "Willem VAN DEN HEVER | ウィレム-ファン テン ヘーウァー"
+title: "Willem VAN DEN HEVER | ウィレム-ファン デン ヘーヴァー"
 name_en: "Willem VAN DEN HEVER"
-name_ja: "ウィレム-ファン テン ヘーウァー"
+name_ja: "ウィレム-ファン デン ヘーヴァー"
 slug: "willem-van-den-hever"
 position: "HO"
 height: ""

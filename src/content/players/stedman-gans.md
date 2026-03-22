@@ -1,7 +1,7 @@
 ---
-title: "Stedman GANS | ステットマン カンス"
+title: "Stedman GANS | ステッドマン ガンズ"
 name_en: "Stedman GANS"
-name_ja: "ステットマン カンス"
+name_ja: "ステッドマン ガンズ"
 slug: "stedman-gans"
 position: "CTB"
 height: "180.0"

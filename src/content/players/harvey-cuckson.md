@@ -1,7 +1,7 @@
 ---
-title: "Harvey CUCKSON | ハーウェイ カクソン"
+title: "Harvey CUCKSON | ハーヴェイ カクソン"
 name_en: "Harvey CUCKSON"
-name_ja: "ハーウェイ カクソン"
+name_ja: "ハーヴェイ カクソン"
 slug: "harvey-cuckson"
 position: "LO"
 height: "200.0"

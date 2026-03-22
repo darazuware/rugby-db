@@ -1,7 +1,7 @@
 ---
-title: "Teariki Ben-Nicholas | テアレキ ヘンニコラス"
+title: "Teariki Ben-Nicholas | テアレキ ベンニコラス"
 name_en: "Teariki Ben-Nicholas"
-name_ja: "テアレキ ヘンニコラス"
+name_ja: "テアレキ ベンニコラス"
 slug: "teariki-ben-nicholas"
 position: "FL/No8"
 height: "194.0"

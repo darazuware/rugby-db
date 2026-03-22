@@ -1,7 +1,7 @@
 ---
-title: "Shane Gates | シェーン ケイツ"
+title: "Shane Gates | シェーン ゲイツ"
 name_en: "Shane Gates"
-name_ja: "シェーン ケイツ"
+name_ja: "シェーン ゲイツ"
 slug: "shane-gates"
 position: "CTB"
 height: "183.0"

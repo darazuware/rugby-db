@@ -1,7 +1,7 @@
 ---
-title: "Epineri Uluiviti | エヒネリ ウルイウァイティ"
+title: "Epineri Uluiviti | エピネリ ウルイヴァイティ"
 name_en: "Epineri Uluiviti"
-name_ja: "エヒネリ ウルイウァイティ"
+name_ja: "エピネリ ウルイヴァイティ"
 slug: "epineri-uluiviti"
 position: "LO"
 height: "198.0"

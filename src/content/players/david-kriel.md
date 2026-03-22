@@ -1,7 +1,7 @@
 ---
-title: "David KRIEL | テイウィット クリエル"
+title: "David KRIEL | デイヴィッド クリエル"
 name_en: "David KRIEL"
-name_ja: "テイウィット クリエル"
+name_ja: "デイヴィッド クリエル"
 slug: "david-kriel"
 position: "FB"
 height: "195.0"

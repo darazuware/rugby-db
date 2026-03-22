@@ -1,7 +1,7 @@
 ---
-title: "Hacjivah DAYIMANI | ハシウァ-タイマニ"
+title: "Hacjivah DAYIMANI | ハジヴァ-ダイマニ"
 name_en: "Hacjivah DAYIMANI"
-name_ja: "ハシウァ-タイマニ"
+name_ja: "ハジヴァ-ダイマニ"
 slug: "hacjivah-dayimani"
 position: "FL/No8"
 height: "190.0"

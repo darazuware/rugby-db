@@ -1,7 +1,7 @@
 ---
-title: "Kiran McDonald | キラン マクトナルト"
+title: "Kiran McDonald | キラン マクドナルド"
 name_en: "Kiran McDonald"
-name_ja: "キラン マクトナルト"
+name_ja: "キラン マクドナルド"
 slug: "kiran-mcdonald"
 position: "LO"
 height: "202.0"

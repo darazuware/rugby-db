@@ -1,7 +1,7 @@
 ---
-title: "JC PRETORIUS | JC-フレトリアス"
+title: "JC PRETORIUS | JC-プレトリアス"
 name_en: "JC PRETORIUS"
-name_ja: "JC-フレトリアス"
+name_ja: "JC-プレトリアス"
 slug: "jc-pretorius"
 position: "FL/No8"
 height: "186.0"

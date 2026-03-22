@@ -1,7 +1,7 @@
 ---
-title: "Giulio BERTACCINI | シュリオ ヘルタチーニ"
+title: "Giulio BERTACCINI | ジュリオ ベルタチーニ"
 name_en: "Giulio BERTACCINI"
-name_ja: "シュリオ ヘルタチーニ"
+name_ja: "ジュリオ ベルタチーニ"
 slug: "giulio-bertaccini"
 position: "CTB"
 height: "184.0"

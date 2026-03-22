@@ -1,7 +1,7 @@
 ---
-title: "Tinus DE BEER | タイナス テ ヒア"
+title: "Tinus DE BEER | タイナス デ ビア"
 name_en: "Tinus DE BEER"
-name_ja: "タイナス テ ヒア"
+name_ja: "タイナス デ ビア"
 slug: "tinus-de-beer"
 position: "SO"
 height: "176.0"

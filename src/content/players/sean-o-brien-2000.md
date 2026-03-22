@@ -1,7 +1,7 @@
 ---
-title: "Sean F. O'BRIEN | ショーン F オフライエン"
+title: "Sean F. O'BRIEN | ショーン F オブライエン"
 name_en: "Sean F. O'BRIEN"
-name_ja: "ショーン F オフライエン"
+name_ja: "ショーン F オブライエン"
 slug: "sean-o-brien-2000"
 position: "FL/No8"
 height: "193.0"

@@ -1,7 +1,7 @@
 ---
-title: "Nicolaas JANSE VAN RENSBURG | ニコラス ヤンセ ファン レンスハーク"
+title: "Nicolaas JANSE VAN RENSBURG | ニコラス ヤンセ ファン レンズバーグ"
 name_en: "Nicolaas JANSE VAN RENSBURG"
-name_ja: "ニコラス ヤンセ ファン レンスハーク"
+name_ja: "ニコラス ヤンセ ファン レンズバーグ"
 slug: "nicolaas-janse-van-rensburg"
 position: "FL/No8"
 height: "200.0"

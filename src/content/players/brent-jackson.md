@@ -1,7 +1,7 @@
 ---
-title: "Brent JACKSON | フレント シャクソン"
+title: "Brent JACKSON | ブレント ジャクソン"
 name_en: "Brent JACKSON"
-name_ja: "フレント シャクソン"
+name_ja: "ブレント ジャクソン"
 slug: "brent-jackson"
 position: "SH"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Dylan COCKBURN | ティラン-コクハーン"
+title: "Dylan COCKBURN | ディラン-コクバーン"
 name_en: "Dylan COCKBURN"
-name_ja: "ティラン-コクハーン"
+name_ja: "ディラン-コクバーン"
 slug: "dylan-cockburn"
 position: "LO"
 height: "195.0"

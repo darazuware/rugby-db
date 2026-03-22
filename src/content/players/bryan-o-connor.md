@@ -1,7 +1,7 @@
 ---
-title: "Bryan O'CONNOR | フライアン オコナー"
+title: "Bryan O'CONNOR | ブライアン オコナー"
 name_en: "Bryan O'CONNOR"
-name_ja: "フライアン オコナー"
+name_ja: "ブライアン オコナー"
 slug: "bryan-o-connor"
 position: "PR"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lee FITZPATRICK | リー フィッツハトリック"
+title: "Lee FITZPATRICK | リー フィッツパトリック"
 name_en: "Lee FITZPATRICK"
-name_ja: "リー フィッツハトリック"
+name_ja: "リー フィッツパトリック"
 slug: "lee-fitzpatrick"
 position: "HO"
 height: ""

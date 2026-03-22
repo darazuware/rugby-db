@@ -1,7 +1,7 @@
 ---
-title: "Lee BARRON | リー ハロン"
+title: "Lee BARRON | リー バロン"
 name_en: "Lee BARRON"
-name_ja: "リー ハロン"
+name_ja: "リー バロン"
 slug: "lee-barron"
 position: "HO"
 height: "191.0"

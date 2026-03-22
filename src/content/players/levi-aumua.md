@@ -1,7 +1,7 @@
 ---
-title: "Levi Aumua | リーハイ アウムア"
+title: "Levi Aumua | リーバイ アウムア"
 name_en: "Levi Aumua"
-name_ja: "リーハイ アウムア"
+name_ja: "リーバイ アウムア"
 slug: "levi-aumua"
 position: "CTB"
 height: "185.0"

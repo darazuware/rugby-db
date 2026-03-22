@@ -1,7 +1,7 @@
 ---
-title: "John DEVINE | ション テウァイン"
+title: "John DEVINE | ジョン デヴァイン"
 name_en: "John DEVINE"
-name_ja: "ション テウァイン"
+name_ja: "ジョン デヴァイン"
 slug: "john-devine"
 position: "CTB"
 height: "186.0"

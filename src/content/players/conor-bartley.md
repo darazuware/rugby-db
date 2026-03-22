@@ -1,7 +1,7 @@
 ---
-title: "Conor BARTLEY | コナー ハートリー"
+title: "Conor BARTLEY | コナー バートリー"
 name_en: "Conor BARTLEY"
-name_ja: "コナー ハートリー"
+name_ja: "コナー バートリー"
 slug: "conor-bartley"
 position: "PR"
 height: "182.0"

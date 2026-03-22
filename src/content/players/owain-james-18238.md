@@ -1,7 +1,7 @@
 ---
-title: "Owain JAMES | オウェイン シェームス"
+title: "Owain JAMES | オウェイン ジェームズ"
 name_en: "Owain JAMES"
-name_ja: "オウェイン シェームス"
+name_ja: "オウェイン ジェームズ"
 slug: "owain-james-18238"
 position: "PR"
 height: "188.0"

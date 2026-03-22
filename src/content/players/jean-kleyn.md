@@ -1,7 +1,7 @@
 ---
-title: "Jean KLEYN | シャン-クライン"
+title: "Jean KLEYN | ジャン-クライン"
 name_en: "Jean KLEYN"
-name_ja: "シャン-クライン"
+name_ja: "ジャン-クライン"
 slug: "jean-kleyn"
 position: "LO"
 height: "202.0"

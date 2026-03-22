@@ -1,7 +1,7 @@
 ---
-title: "Tevita Tatafu | テヒタ タタフ"
+title: "Tevita Tatafu | テビタ タタフ"
 name_en: "Tevita Tatafu"
-name_ja: "テヒタ タタフ"
+name_ja: "テビタ タタフ"
 slug: "tevita-tatafu"
 position: "FL/No8"
 height: "183.0"

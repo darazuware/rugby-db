@@ -1,7 +1,7 @@
 ---
-title: "Jack OLIVER | シャック オリハー"
+title: "Jack OLIVER | ジャック オリバー"
 name_en: "Jack OLIVER"
-name_ja: "シャック オリハー"
+name_ja: "ジャック オリバー"
 slug: "jack-oliver"
 position: "SH"
 height: "174.0"

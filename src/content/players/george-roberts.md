@@ -1,7 +1,7 @@
 ---
-title: "George ROBERTS | ショーシ ロハーツ"
+title: "George ROBERTS | ジョージ ロバーツ"
 name_en: "George ROBERTS"
-name_ja: "ショーシ ロハーツ"
+name_ja: "ジョージ ロバーツ"
 slug: "george-roberts"
 position: "HO"
 height: "183.0"

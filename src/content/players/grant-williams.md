@@ -1,7 +1,7 @@
 ---
-title: "Grant WILLIAMS | クラント-ウィリアムス"
+title: "Grant WILLIAMS | グラント-ウィリアムズ"
 name_en: "Grant WILLIAMS"
-name_ja: "クラント-ウィリアムス"
+name_ja: "グラント-ウィリアムズ"
 slug: "grant-williams"
 position: "SH"
 height: "174.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jake O'RIORDAN | シェイク オリオータン"
+title: "Jake O'RIORDAN | ジェイク オリオーダン"
 name_en: "Jake O'RIORDAN"
-name_ja: "シェイク オリオータン"
+name_ja: "ジェイク オリオーダン"
 slug: "jake-o-riordan"
 position: "SH"
 height: "170.0"

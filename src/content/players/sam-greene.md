@@ -1,7 +1,7 @@
 ---
-title: "Sam Greene | サム クリーン"
+title: "Sam Greene | サム グリーン"
 name_en: "Sam Greene"
-name_ja: "サム クリーン"
+name_ja: "サム グリーン"
 slug: "sam-greene"
 position: "SO"
 height: "178.0"

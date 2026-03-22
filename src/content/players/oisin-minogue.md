@@ -1,7 +1,7 @@
 ---
-title: "Oisin MINOGUE | オシーン ミノーク"
+title: "Oisin MINOGUE | オシーン ミノーグ"
 name_en: "Oisin MINOGUE"
-name_ja: "オシーン ミノーク"
+name_ja: "オシーン ミノーグ"
 slug: "oisin-minogue"
 position: "FL/No8"
 height: "184.0"

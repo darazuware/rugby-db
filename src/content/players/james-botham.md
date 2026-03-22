@@ -1,7 +1,7 @@
 ---
-title: "James BOTHAM | シェームス-ホーサム"
+title: "James BOTHAM | ジェームズ-ボーサム"
 name_en: "James BOTHAM"
-name_ja: "シェームス-ホーサム"
+name_ja: "ジェームズ-ボーサム"
 slug: "james-botham"
 position: "FL/No8"
 height: "191.0"

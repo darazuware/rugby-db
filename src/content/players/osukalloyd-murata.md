@@ -1,7 +1,7 @@
 ---
-title: "Osukalloyd Murata | 村田 オスカロイト"
+title: "Osukalloyd Murata | 村田 オスカロイド"
 name_en: "Osukalloyd Murata"
-name_ja: "村田 オスカロイト"
+name_ja: "村田 オスカロイド"
 slug: "osukalloyd-murata"
 position: "CTB"
 height: "173.0"

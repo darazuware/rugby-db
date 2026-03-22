@@ -1,7 +1,7 @@
 ---
-title: "Rory SUTHERLAND | ロリー ササーラント"
+title: "Rory SUTHERLAND | ロリー サザーランド"
 name_en: "Rory SUTHERLAND"
-name_ja: "ロリー ササーラント"
+name_ja: "ロリー サザーランド"
 slug: "rory-sutherland"
 position: "PR"
 height: "183.0"

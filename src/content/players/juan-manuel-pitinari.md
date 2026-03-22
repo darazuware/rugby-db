@@ -1,7 +1,7 @@
 ---
-title: "Juan PITINARI | フアン ヒティナリ"
+title: "Juan PITINARI | フアン ピティナリ"
 name_en: "Juan PITINARI"
-name_ja: "フアン ヒティナリ"
+name_ja: "フアン ピティナリ"
 slug: "juan-manuel-pitinari"
 position: "PR"
 height: "187.0"

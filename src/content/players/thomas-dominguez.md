@@ -1,7 +1,7 @@
 ---
-title: "Thomas DOMINGUEZ | トマ トミンケス"
+title: "Thomas DOMINGUEZ | トマ ドミンゲス"
 name_en: "Thomas DOMINGUEZ"
-name_ja: "トマ トミンケス"
+name_ja: "トマ ドミンゲス"
 slug: "thomas-dominguez"
 position: "SH"
 height: "175.0"

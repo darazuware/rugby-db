@@ -1,7 +1,7 @@
 ---
-title: "Seb STEPHEN | セフ スティーフン"
+title: "Seb STEPHEN | セブ スティーブン"
 name_en: "Seb STEPHEN"
-name_ja: "セフ スティーフン"
+name_ja: "セブ スティーブン"
 slug: "seb-stephen"
 position: "HO"
 height: "189.0"

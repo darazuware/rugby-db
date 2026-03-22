@@ -1,7 +1,7 @@
 ---
-title: "Seta Tamanivalu | セタ タマニハル"
+title: "Seta Tamanivalu | セタ タマニバル"
 name_en: "Seta Tamanivalu"
-name_ja: "セタ タマニハル"
+name_ja: "セタ タマニバル"
 slug: "seta-tamanivalu"
 position: "CTB"
 height: "189.0"

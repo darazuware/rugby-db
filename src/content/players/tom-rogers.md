@@ -1,7 +1,7 @@
 ---
-title: "Tom ROGERS | トム ロシャース"
+title: "Tom ROGERS | トム ロジャース"
 name_en: "Tom ROGERS"
-name_ja: "トム ロシャース"
+name_ja: "トム ロジャース"
 slug: "tom-rogers"
 position: "WTB"
 height: "185.0"

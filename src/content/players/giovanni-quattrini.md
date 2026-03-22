@@ -1,7 +1,7 @@
 ---
-title: "Giovanni QUATTRINI | ショウァンニ-クアトリーニ"
+title: "Giovanni QUATTRINI | ジョヴァンニ-クアトリーニ"
 name_en: "Giovanni QUATTRINI"
-name_ja: "ショウァンニ-クアトリーニ"
+name_ja: "ジョヴァンニ-クアトリーニ"
 slug: "giovanni-quattrini"
 position: "HO"
 height: "179.0"

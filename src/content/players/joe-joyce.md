@@ -1,7 +1,7 @@
 ---
-title: "Joe JOYCE | ショー ショイス"
+title: "Joe JOYCE | ジョー ジョイス"
 name_en: "Joe JOYCE"
-name_ja: "ショー ショイス"
+name_ja: "ジョー ジョイス"
 slug: "joe-joyce"
 position: "LO"
 height: "196.0"

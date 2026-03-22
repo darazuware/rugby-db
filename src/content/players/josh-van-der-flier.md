@@ -1,7 +1,7 @@
 ---
-title: "Josh VAN DER FLIER | ショシュ ファン テル フリヤー"
+title: "Josh VAN DER FLIER | ジョシュ ファン デル フリヤー"
 name_en: "Josh VAN DER FLIER"
-name_ja: "ショシュ ファン テル フリヤー"
+name_ja: "ジョシュ ファン デル フリヤー"
 slug: "josh-van-der-flier"
 position: "FL/No8"
 height: "183.0"

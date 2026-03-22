@@ -1,7 +1,7 @@
 ---
-title: "Gareth DAVIES | カレス-テイウィス"
+title: "Gareth DAVIES | ガレス-デイヴィス"
 name_en: "Gareth DAVIES"
-name_ja: "カレス-テイウィス"
+name_ja: "ガレス-デイヴィス"
 slug: "gareth-davies-1990"
 position: "SH"
 height: "178.0"

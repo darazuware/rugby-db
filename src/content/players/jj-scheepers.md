@@ -1,7 +1,7 @@
 ---
-title: "JJ SCHEEPERS | JJ-シェーハース"
+title: "JJ SCHEEPERS | JJ-シェーパーズ"
 name_en: "JJ SCHEEPERS"
-name_ja: "JJ-シェーハース"
+name_ja: "JJ-シェーパーズ"
 slug: "jj-scheepers"
 position: "LO"
 height: "198.0"

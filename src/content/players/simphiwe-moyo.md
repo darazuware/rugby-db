@@ -1,7 +1,7 @@
 ---
-title: "Vusi Simphiwe MOYO | ウシ-シンフウェ モヨ"
+title: "Vusi Simphiwe MOYO | ヴシ-シンプウェ モヨ"
 name_en: "Vusi Simphiwe MOYO"
-name_ja: "ウシ-シンフウェ モヨ"
+name_ja: "ヴシ-シンプウェ モヨ"
 slug: "simphiwe-moyo"
 position: "SO"
 height: "182.0"

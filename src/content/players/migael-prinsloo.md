@@ -1,7 +1,7 @@
 ---
-title: "Migael PRINSLOO | ミハエル フリンスルー"
+title: "Migael PRINSLOO | ミハエル プリンスルー"
 name_en: "Migael PRINSLOO"
-name_ja: "ミハエル フリンスルー"
+name_ja: "ミハエル プリンスルー"
 slug: "migael-prinsloo"
 position: "SH"
 height: "181.0"

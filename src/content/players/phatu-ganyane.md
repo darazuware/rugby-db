@@ -1,7 +1,7 @@
 ---
-title: "Phatu GANYANE | ハツ カニャネ"
+title: "Phatu GANYANE | パツ ガニャネ"
 name_en: "Phatu GANYANE"
-name_ja: "ハツ カニャネ"
+name_ja: "パツ ガニャネ"
 slug: "phatu-ganyane"
 position: "PR"
 height: "185.0"

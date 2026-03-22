@@ -1,7 +1,7 @@
 ---
-title: "James TALAMAI | シェームス タラマイ"
+title: "James TALAMAI | ジェームズ タラマイ"
 name_en: "James TALAMAI"
-name_ja: "シェームス タラマイ"
+name_ja: "ジェームズ タラマイ"
 slug: "james-talamai"
 position: "HO"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "John RYAN | ション ライアン"
+title: "John RYAN | ジョン ライアン"
 name_en: "John RYAN"
-name_ja: "ション ライアン"
+name_ja: "ジョン ライアン"
 slug: "john-ryan"
 position: "PR"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Tom BOWEN | トム ホウエン"
+title: "Tom BOWEN | トム ボウエン"
 name_en: "Tom BOWEN"
-name_ja: "トム ホウエン"
+name_ja: "トム ボウエン"
 slug: "tom-bowen"
 position: "FB"
 height: "170.0"

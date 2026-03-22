@@ -1,7 +1,7 @@
 ---
-title: "Leon LYONS | レオン ライアンス"
+title: "Leon LYONS | レオン ライアンズ"
 name_en: "Leon LYONS"
-name_ja: "レオン ライアンス"
+name_ja: "レオン ライアンズ"
 slug: "leon-lyons"
 position: "PR"
 height: "187.0"

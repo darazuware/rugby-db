@@ -1,7 +1,7 @@
 ---
-title: "Jaden HENDRIKSE | シェイテン-ヘントリクセ"
+title: "Jaden HENDRIKSE | ジェイデン-ヘンドリクセ"
 name_en: "Jaden HENDRIKSE"
-name_ja: "シェイテン-ヘントリクセ"
+name_ja: "ジェイデン-ヘンドリクセ"
 slug: "jaden-hendrikse"
 position: "SH"
 height: "184.0"

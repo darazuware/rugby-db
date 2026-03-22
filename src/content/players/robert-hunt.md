@@ -1,7 +1,7 @@
 ---
-title: "Robert HUNT | ロハート ハント"
+title: "Robert HUNT | ロバート ハント"
 name_en: "Robert HUNT"
-name_ja: "ロハート ハント"
+name_ja: "ロバート ハント"
 slug: "robert-hunt"
 position: "PR"
 height: "185.0"

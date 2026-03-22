@@ -1,7 +1,7 @@
 ---
-title: "Jeremy LOUGHMAN | シェレミー-ラフマン"
+title: "Jeremy LOUGHMAN | ジェレミー-ラフマン"
 name_en: "Jeremy LOUGHMAN"
-name_ja: "シェレミー-ラフマン"
+name_ja: "ジェレミー-ラフマン"
 slug: "jeremy-loughman"
 position: "PR"
 height: "183.0"

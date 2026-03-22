@@ -1,7 +1,7 @@
 ---
-title: "Israel Folau | イスラエル フォラウ"
+title: "Israel Folau | イズラエル フォラウ"
 name_en: "Israel Folau"
-name_ja: "イスラエル フォラウ"
+name_ja: "イズラエル フォラウ"
 slug: "israel-folau"
 position: "FB"
 height: "194.0"

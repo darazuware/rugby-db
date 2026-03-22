@@ -1,7 +1,7 @@
 ---
-title: "James HUMPHREYS | シェームス HUMPHREYS"
+title: "James HUMPHREYS | ジェームズ HUMPHREYS"
 name_en: "James HUMPHREYS"
-name_ja: "シェームス HUMPHREYS"
+name_ja: "ジェームズ HUMPHREYS"
 slug: "james-humphreys"
 position: "SO"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sam Slade | サム スレイト"
+title: "Sam Slade | サム スレイド"
 name_en: "Sam Slade"
-name_ja: "サム スレイト"
+name_ja: "サム スレイド"
 slug: "sam-slade"
 position: "LO"
 height: "197.0"

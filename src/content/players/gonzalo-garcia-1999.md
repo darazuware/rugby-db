@@ -1,7 +1,7 @@
 ---
-title: "Gonzalo GARCIA | コンサロ-カルシア"
+title: "Gonzalo GARCIA | ゴンサロ-ガルシア"
 name_en: "Gonzalo GARCIA"
-name_ja: "コンサロ-カルシア"
+name_ja: "ゴンサロ-ガルシア"
 slug: "gonzalo-garcia-1999"
 position: "SH"
 height: "173.0"

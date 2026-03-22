@@ -1,7 +1,7 @@
 ---
-title: "Aidan Morgan | エイタン モーカン"
+title: "Aidan Morgan | エイダン モーガン"
 name_en: "Aidan Morgan"
-name_ja: "エイタン モーカン"
+name_ja: "エイダン モーガン"
 slug: "aidan-morgan"
 position: "SO"
 height: "172.0"

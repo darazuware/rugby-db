@@ -1,7 +1,7 @@
 ---
-title: "Efan DANIEL | エファン タニエル"
+title: "Efan DANIEL | エファン ダニエル"
 name_en: "Efan DANIEL"
-name_ja: "エファン タニエル"
+name_ja: "エファン ダニエル"
 slug: "efan-daniel"
 position: "HO"
 height: "185.0"

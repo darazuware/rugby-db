@@ -1,7 +1,7 @@
 ---
-title: "Alessandro ORTOMBINA | アレッサントロ オルトンヒナ"
+title: "Alessandro ORTOMBINA | アレッサンドロ オルトンビナ"
 name_en: "Alessandro ORTOMBINA"
-name_ja: "アレッサントロ オルトンヒナ"
+name_ja: "アレッサンドロ オルトンビナ"
 slug: "alessandro-ortombina"
 position: "LO"
 height: "196.0"

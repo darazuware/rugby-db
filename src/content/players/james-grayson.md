@@ -1,7 +1,7 @@
 ---
-title: "JAMES GRAYSON | シェームス クレイソン"
+title: "JAMES GRAYSON | ジェームス グレイソン"
 name_en: "JAMES GRAYSON"
-name_ja: "シェームス クレイソン"
+name_ja: "ジェームス グレイソン"
 slug: "james-grayson"
 position: "SO"
 height: "187.0"

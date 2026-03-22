@@ -1,7 +1,7 @@
 ---
-title: "Rameka Poihipi | ラメカ ホイヒヒ"
+title: "Rameka Poihipi | ラメカ ポイヒピ"
 name_en: "Rameka Poihipi"
-name_ja: "ラメカ ホイヒヒ"
+name_ja: "ラメカ ポイヒピ"
 slug: "rameka-poihipi"
 position: "CTB"
 height: "183.0"

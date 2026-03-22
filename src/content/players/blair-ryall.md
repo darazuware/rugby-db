@@ -1,7 +1,7 @@
 ---
-title: "Blair Ryall | フレア ライアル"
+title: "Blair Ryall | ブレア ライアル"
 name_en: "Blair Ryall"
-name_ja: "フレア ライアル"
+name_ja: "ブレア ライアル"
 slug: "blair-ryall"
 position: "FL/No8"
 height: "194.0"

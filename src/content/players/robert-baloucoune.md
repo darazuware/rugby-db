@@ -1,7 +1,7 @@
 ---
-title: "Robert BALOUCOUNE | ロハート BALOUCOUNE"
+title: "Robert BALOUCOUNE | ロバート BALOUCOUNE"
 name_en: "Robert BALOUCOUNE"
-name_ja: "ロハート BALOUCOUNE"
+name_ja: "ロバート BALOUCOUNE"
 slug: "robert-baloucoune"
 position: "Winger"
 height: "192.0"

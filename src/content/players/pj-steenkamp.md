@@ -1,7 +1,7 @@
 ---
-title: "PJ Steenkamp | PJ スティーンカンフ"
+title: "PJ Steenkamp | PJ スティーンカンプ"
 name_en: "PJ Steenkamp"
-name_ja: "PJ スティーンカンフ"
+name_ja: "PJ スティーンカンプ"
 slug: "pj-steenkamp"
 position: "LO"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
-title: "Harri FORD | ハリー フォート"
+title: "Harri FORD | ハリー フォード"
 name_en: "Harri FORD"
-name_ja: "ハリー フォート"
+name_ja: "ハリー フォード"
 slug: "harri-ford"
 position: "SO"
 height: "180.0"

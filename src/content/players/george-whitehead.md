@@ -1,7 +1,7 @@
 ---
-title: "George WHITEHEAD | ショーシ ホワイトヘット"
+title: "George WHITEHEAD | ジョージ ホワイトヘッド"
 name_en: "George WHITEHEAD"
-name_ja: "ショーシ ホワイトヘット"
+name_ja: "ジョージ ホワイトヘッド"
 slug: "george-whitehead"
 position: "SO"
 height: "184.0"

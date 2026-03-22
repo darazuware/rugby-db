@@ -1,7 +1,7 @@
 ---
-title: "Niall ARMSTRONG | ニアル アームストロンク"
+title: "Niall ARMSTRONG | ニアル アームストロング"
 name_en: "Niall ARMSTRONG"
-name_ja: "ニアル アームストロンク"
+name_ja: "ニアル アームストロング"
 slug: "niall-armstrong"
 position: "SH"
 height: "182.0"

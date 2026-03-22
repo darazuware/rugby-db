@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "sacha-mngomezulu",
+    "name": "Sacha Feinberg-Mngomezulu",
+    "name_jp": "サシャ・ファインバーグ=ムンゴメズル",
+    "team_jp": "ストーマーズ",
+    "rank": 1
+  },
+  {
+    "id": "antoine-dupont",
+    "name": "Antoine Dupont",
+    "name_jp": "アントワーヌ・デュポン",
+    "team_jp": "トゥールーズ",
+    "rank": 2
+  },
+  {
+    "id": "pieter-steph-du-toit",
+    "name": "Pieter-Steph du Toit",
+    "name_jp": "ピーターステフ・デュトイ",
+    "team_jp": "トヨタヴェルブリッツ",
+    "rank": 3
+  },
+  {
+    "id": "malcolm-marx",
+    "name": "Malcolm Marx",
+    "name_jp": "マルコム・マークス",
+    "team_jp": "クボタスピアーズ船橋・東京ベイ",
+    "rank": 4
+  },
+  {
+    "id": "ardie-savea",
+    "name": "Ardie Savea",
+    "name_jp": "アーディ・サヴェア",
+    "team_jp": "コベルコ神戸スティーラーズ",
+    "rank": 5
+  },
+  {
+    "id": "cheslin-kolbe",
+    "name": "Cheslin Kolbe",
+    "name_jp": "チェスリン・コルビ",
+    "team_jp": "東京サントリーサンゴリアス",
+    "rank": 6
+  },
+  {
+    "id": "damian-mckenzie",
+    "name": "Damian McKenzie",
+    "name_jp": "ダミアン・マッケンジー",
+    "team_jp": "チーフス",
+    "rank": 7
+  },
+  {
+    "id": "finn-russell",
+    "name": "Finn Russell",
+    "name_jp": "フィン・ラッセル",
+    "team_jp": "バース",
+    "rank": 8
+  },
+  {
+    "id": "eben-etzebeth",
+    "name": "Eben Etzebeth",
+    "name_jp": "エベン・エツベス",
+    "team_jp": "シャークス",
+    "rank": 9
+  }
+]

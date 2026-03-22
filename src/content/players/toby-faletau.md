@@ -1,7 +1,7 @@
 ---
-title: "Toby FALETAU | トヒー ファレタウ"
+title: "Toby FALETAU | トビー ファレタウ"
 name_en: "Toby FALETAU"
-name_ja: "トヒー ファレタウ"
+name_ja: "トビー ファレタウ"
 slug: "toby-faletau"
 position: "FL/No8"
 height: "188.0"

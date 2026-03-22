@@ -1,7 +1,7 @@
 ---
-title: "Edward Quirk | エトワート カーク"
+title: "Edward Quirk | エドワード カーク"
 name_en: "Edward Quirk"
-name_ja: "エトワート カーク"
+name_ja: "エドワード カーク"
 slug: "edward-quirk"
 position: "FL/No8"
 height: "191.0"

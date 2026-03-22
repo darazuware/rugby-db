@@ -1,7 +1,7 @@
 ---
-title: "Cameron JONES | キャメロン ショーンス"
+title: "Cameron JONES | キャメロン ジョーンズ"
 name_en: "Cameron JONES"
-name_ja: "キャメロン ショーンス"
+name_ja: "キャメロン ジョーンズ"
 slug: "cameron-jones"
 position: "PR"
 height: "193.0"

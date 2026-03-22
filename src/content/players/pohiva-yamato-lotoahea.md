@@ -1,7 +1,7 @@
 ---
-title: "Pohiva Yamato Lotoahea | ロトアヘア ホヒウァ大和"
+title: "Pohiva Yamato Lotoahea | ロトアヘア ポヒヴァ大和"
 name_en: "Pohiva Yamato Lotoahea"
-name_ja: "ロトアヘア ホヒウァ大和"
+name_ja: "ロトアヘア ポヒヴァ大和"
 slug: "pohiva-yamato-lotoahea"
 position: "LO"
 height: "192.0"

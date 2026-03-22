@@ -1,7 +1,7 @@
 ---
-title: "Embrose PAPIER | エンフロス-ハヒエ"
+title: "Embrose PAPIER | エンブロス-パピエ"
 name_en: "Embrose PAPIER"
-name_ja: "エンフロス-ハヒエ"
+name_ja: "エンブロス-パピエ"
 slug: "embrose-papier"
 position: "SH"
 height: "171.0"

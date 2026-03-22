@@ -1,7 +1,7 @@
 ---
-title: "Tevita Ikanivere | テヒタ イカニウェレ"
+title: "Tevita Ikanivere | テビタ イカニヴェレ"
 name_en: "Tevita Ikanivere"
-name_ja: "テヒタ イカニウェレ"
+name_ja: "テビタ イカニヴェレ"
 slug: "tevita-ikanivere"
 position: "HO"
 height: "183.0"

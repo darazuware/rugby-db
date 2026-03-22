@@ -1,7 +1,7 @@
 ---
-title: "Vincent KOCH | ウィンセント コッホ"
+title: "Vincent KOCH | ヴィンセント コッホ"
 name_en: "Vincent KOCH"
-name_ja: "ウィンセント コッホ"
+name_ja: "ヴィンセント コッホ"
 slug: "vincent-koch"
 position: "PR"
 height: "185.0"

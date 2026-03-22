@@ -1,7 +1,7 @@
 ---
-title: "Paidi FARRELL | ハイティ ファレル"
+title: "Paidi FARRELL | パイディ ファレル"
 name_en: "Paidi FARRELL"
-name_ja: "ハイティ ファレル"
+name_ja: "パイディ ファレル"
 slug: "paidi-farrell"
 position: "WTB"
 height: "175.0"

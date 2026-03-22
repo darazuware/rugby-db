@@ -1,7 +1,7 @@
 ---
-title: "James CULHANE | シェームス CULHANE"
+title: "James CULHANE | ジェームズ CULHANE"
 name_en: "James CULHANE"
-name_ja: "シェームス CULHANE"
+name_ja: "ジェームズ CULHANE"
 slug: "james-culhane"
 position: "Back row"
 height: "193.0"

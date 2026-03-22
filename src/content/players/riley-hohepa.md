@@ -1,7 +1,7 @@
 ---
-title: "Riley Hohepa | ライリー ホヘハ"
+title: "Riley Hohepa | ライリー ホヘパ"
 name_en: "Riley Hohepa"
-name_ja: "ライリー ホヘハ"
+name_ja: "ライリー ホヘパ"
 slug: "riley-hohepa"
 position: "SO"
 height: "186.0"

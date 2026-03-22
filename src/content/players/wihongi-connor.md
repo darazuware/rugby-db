@@ -1,7 +1,7 @@
 ---
-title: "Wihongi Connor | コナー ウィホンキ"
+title: "Wihongi Connor | コナー ウィホンギ"
 name_en: "Wihongi Connor"
-name_ja: "コナー ウィホンキ"
+name_ja: "コナー ウィホンギ"
 slug: "wihongi-connor"
 position: "LO"
 height: "200.0"

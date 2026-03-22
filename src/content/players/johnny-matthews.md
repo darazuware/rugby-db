@@ -1,7 +1,7 @@
 ---
-title: "Johnny MATTHEWS | ショニー マシュース"
+title: "Johnny MATTHEWS | ジョニー マシューズ"
 name_en: "Johnny MATTHEWS"
-name_ja: "ショニー マシュース"
+name_ja: "ジョニー マシューズ"
 slug: "johnny-matthews"
 position: "HO"
 height: "183.0"

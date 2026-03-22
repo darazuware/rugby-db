@@ -1,7 +1,7 @@
 ---
-title: "Rabz MAXWANE | ラフス マクスワネ"
+title: "Rabz MAXWANE | ラブズ マクスワネ"
 name_en: "Rabz MAXWANE"
-name_ja: "ラフス マクスワネ"
+name_ja: "ラブズ マクスワネ"
 slug: "sibhale-maxwane"
 position: "WTB"
 height: "181.0"

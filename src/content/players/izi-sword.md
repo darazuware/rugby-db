@@ -1,7 +1,7 @@
 ---
-title: "Izi Sword | イシ— ソート"
+title: "Izi Sword | イジ— ソード"
 name_en: "Izi Sword"
-name_ja: "イシ— ソート"
+name_ja: "イジ— ソード"
 slug: "izi-sword"
 position: "PR"
 height: "190.0"

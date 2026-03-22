@@ -1,7 +1,7 @@
 ---
-title: "Willie Potgieter | ウィリー ホトヒエッター"
+title: "Willie Potgieter | ヴィリー ポトヒエッター"
 name_en: "Willie Potgieter"
-name_ja: "ウィリー ホトヒエッター"
+name_ja: "ヴィリー ポトヒエッター"
 slug: "willie-potgieter"
 position: "FL/No8"
 height: "190.0"

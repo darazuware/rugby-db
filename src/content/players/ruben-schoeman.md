@@ -1,7 +1,7 @@
 ---
-title: "Ruben SCHOEMAN | ルーヘン スホーマン"
+title: "Ruben SCHOEMAN | ルーベン スホーマン"
 name_en: "Ruben SCHOEMAN"
-name_ja: "ルーヘン スホーマン"
+name_ja: "ルーベン スホーマン"
 slug: "ruben-schoeman"
 position: "LO"
 height: "199.0"

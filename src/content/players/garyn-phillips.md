@@ -1,7 +1,7 @@
 ---
-title: "Garyn PHILLIPS | カリン フィリッフス"
+title: "Garyn PHILLIPS | ガリン フィリップス"
 name_en: "Garyn PHILLIPS"
-name_ja: "カリン フィリッフス"
+name_ja: "ガリン フィリップス"
 slug: "garyn-phillips"
 position: "PR"
 height: "184.0"

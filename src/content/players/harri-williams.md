@@ -1,7 +1,7 @@
 ---
-title: "Harri WILLIAMS | ハリー-ウィリアムス"
+title: "Harri WILLIAMS | ハリー-ウィリアムズ"
 name_en: "Harri WILLIAMS"
-name_ja: "ハリー-ウィリアムス"
+name_ja: "ハリー-ウィリアムズ"
 slug: "harri-williams"
 position: "SH"
 height: "173.0"

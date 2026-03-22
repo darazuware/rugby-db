@@ -1,7 +1,7 @@
 ---
-title: "Paddy Ryan | ハティー ライアン"
+title: "Paddy Ryan | パディー ライアン"
 name_en: "Paddy Ryan"
-name_ja: "ハティー ライアン"
+name_ja: "パディー ライアン"
 slug: "paddy-ryan"
 position: "PR"
 height: "190.0"

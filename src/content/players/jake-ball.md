@@ -1,7 +1,7 @@
 ---
-title: "Jake BALL | シェイク-ホール"
+title: "Jake BALL | ジェイク-ボール"
 name_en: "Jake BALL"
-name_ja: "シェイク-ホール"
+name_ja: "ジェイク-ボール"
 slug: "jake-ball"
 position: "LO"
 height: "200.0"

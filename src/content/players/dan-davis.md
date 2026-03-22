@@ -1,7 +1,7 @@
 ---
-title: "Dan DAVIS | タン DAVIS"
+title: "Dan DAVIS | ダン DAVIS"
 name_en: "Dan DAVIS"
-name_ja: "タン DAVIS"
+name_ja: "ダン DAVIS"
 slug: "dan-davis"
 position: "Back row"
 height: "182.0"

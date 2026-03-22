@@ -1,7 +1,7 @@
 ---
-title: "Gianni LOMBARD | シャンニ-ロンハート"
+title: "Gianni LOMBARD | ジャンニ-ロンバード"
 name_en: "Gianni LOMBARD"
-name_ja: "シャンニ-ロンハート"
+name_ja: "ジャンニ-ロンバード"
 slug: "gianni-lombard"
 position: "SO"
 height: "178.0"

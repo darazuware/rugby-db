@@ -1,7 +1,7 @@
 ---
-title: "Giampietro RIBALDI | シャンヒエトロ リハルティ"
+title: "Giampietro RIBALDI | ジャンピエトロ リバルディ"
 name_en: "Giampietro RIBALDI"
-name_ja: "シャンヒエトロ リハルティ"
+name_ja: "ジャンピエトロ リバルディ"
 slug: "giampietro-ribaldi"
 position: "HO"
 height: "186.0"

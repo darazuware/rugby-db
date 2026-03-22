@@ -1,7 +1,7 @@
 ---
-title: "Ben O'CONNOR | ヘン オコナー"
+title: "Ben O'CONNOR | ベン オコナー"
 name_en: "Ben O'CONNOR"
-name_ja: "ヘン オコナー"
+name_ja: "ベン オコナー"
 slug: "ben-o-connor"
 position: "FB"
 height: "188.0"

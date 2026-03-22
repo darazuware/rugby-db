@@ -1,7 +1,7 @@
 ---
-title: "Gordon WOOD | コートン ウット"
+title: "Gordon WOOD | ゴードン ウッド"
 name_en: "Gordon WOOD"
-name_ja: "コートン ウット"
+name_ja: "ゴードン ウッド"
 slug: "gordon-wood"
 position: "CTB"
 height: "182.0"

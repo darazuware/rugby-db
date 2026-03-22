@@ -1,7 +1,7 @@
 ---
-title: "Gene O'LEARY KAREEM | シェーン オライリー カリーム"
+title: "Gene O'LEARY KAREEM | ジェーン オライリー カリーム"
 name_en: "Gene O'LEARY KAREEM"
-name_ja: "シェーン オライリー カリーム"
+name_ja: "ジェーン オライリー カリーム"
 slug: "gene-o-leary-kareem"
 position: "CTB"
 height: "179.0"

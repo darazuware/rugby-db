@@ -1,7 +1,7 @@
 ---
-title: "Richmond Tongatama | リッチモント トンカタマ"
+title: "Richmond Tongatama | リッチモンド トンガタマ"
 name_en: "Richmond Tongatama"
-name_ja: "リッチモント トンカタマ"
+name_ja: "リッチモンド トンガタマ"
 slug: "richmond-tongatama"
 position: "HO"
 height: "188.0"

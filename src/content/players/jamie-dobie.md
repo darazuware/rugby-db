@@ -1,7 +1,7 @@
 ---
-title: "Jamie DOBIE | シェイミー-トヒー"
+title: "Jamie DOBIE | ジェイミー-ドビー"
 name_en: "Jamie DOBIE"
-name_ja: "シェイミー-トヒー"
+name_ja: "ジェイミー-ドビー"
 slug: "jamie-dobie"
 position: "SH"
 height: "175.0"

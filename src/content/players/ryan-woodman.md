@@ -1,7 +1,7 @@
 ---
-title: "Ryan WOODMAN | ライアン ウットマン"
+title: "Ryan WOODMAN | ライアン ウッドマン"
 name_en: "Ryan WOODMAN"
-name_ja: "ライアン ウットマン"
+name_ja: "ライアン ウッドマン"
 slug: "ryan-woodman"
 position: "FL/No8"
 height: "196.0"

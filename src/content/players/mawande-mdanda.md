@@ -1,7 +1,7 @@
 ---
-title: "Mawande MDANDA | マワンテ ムタンタ"
+title: "Mawande MDANDA | マワンデ ムダンダ"
 name_en: "Mawande MDANDA"
-name_ja: "マワンテ ムタンタ"
+name_ja: "マワンデ ムダンダ"
 slug: "mawande-mdanda"
 position: "PR"
 height: "189.0"

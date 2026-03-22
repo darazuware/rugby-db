@@ -1,7 +1,7 @@
 ---
-title: "Albert BATISTA | アルハート ハティスタ"
+title: "Albert BATISTA | アルバート バティスタ"
 name_en: "Albert BATISTA"
-name_ja: "アルハート ハティスタ"
+name_ja: "アルバート バティスタ"
 slug: "albert-batista"
 position: "WTB"
 height: "180.0"

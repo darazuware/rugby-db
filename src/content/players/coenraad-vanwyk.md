@@ -1,7 +1,7 @@
 ---
-title: "Coenraad VanWyk | コンラット ハンワイク"
+title: "Coenraad VanWyk | コンラッド バンワイク"
 name_en: "Coenraad VanWyk"
-name_ja: "コンラット ハンワイク"
+name_ja: "コンラッド バンワイク"
 slug: "coenraad-vanwyk"
 position: "FB"
 height: "184.0"

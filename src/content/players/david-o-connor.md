@@ -1,7 +1,7 @@
 ---
-title: "David O'CONNOR | テイウィット O'CONNOR"
+title: "David O'CONNOR | デイヴィッド O'CONNOR"
 name_en: "David O'CONNOR"
-name_ja: "テイウィット O'CONNOR"
+name_ja: "デイヴィッド O'CONNOR"
 slug: "david-o-connor"
 position: "LO"
 height: "193.0"

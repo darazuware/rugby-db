@@ -1,7 +1,7 @@
 ---
-title: "Tomas FARTHING | トマス ファーシンク"
+title: "Tomas FARTHING | トマス ファーシング"
 name_en: "Tomas FARTHING"
-name_ja: "トマス ファーシンク"
+name_ja: "トマス ファーシング"
 slug: "tomas-farthing"
 position: "SH"
 height: ""

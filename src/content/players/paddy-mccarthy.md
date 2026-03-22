@@ -1,7 +1,7 @@
 ---
-title: "Paddy MCCARTHY | ハティ マッカーシー"
+title: "Paddy MCCARTHY | パディ マッカーシー"
 name_en: "Paddy MCCARTHY"
-name_ja: "ハティ マッカーシー"
+name_ja: "パディ マッカーシー"
 slug: "paddy-mccarthy"
 position: "PR"
 height: "183.0"

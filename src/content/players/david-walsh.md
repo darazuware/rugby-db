@@ -1,7 +1,7 @@
 ---
-title: "David WALSH | テイウィット WALSH"
+title: "David WALSH | デイヴィッド WALSH"
 name_en: "David WALSH"
-name_ja: "テイウィット WALSH"
+name_ja: "デイヴィッド WALSH"
 slug: "david-walsh"
 position: "LO"
 height: "198.0"

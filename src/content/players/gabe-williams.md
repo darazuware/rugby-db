@@ -1,7 +1,7 @@
 ---
-title: "Gabe WILLIAMS | Gabe ウィリアムス"
+title: "Gabe WILLIAMS | Gabe ウィリアムズ"
 name_en: "Gabe WILLIAMS"
-name_ja: "Gabe ウィリアムス"
+name_ja: "Gabe ウィリアムズ"
 slug: "gabe-williams"
 position: "LO"
 height: "198.0"

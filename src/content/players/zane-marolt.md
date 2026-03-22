@@ -1,7 +1,7 @@
 ---
-title: "Zane Marolt | セイン マロルト"
+title: "Zane Marolt | ゼイン マロルト"
 name_en: "Zane Marolt"
-name_ja: "セイン マロルト"
+name_ja: "ゼイン マロルト"
 slug: "zane-marolt"
 position: "LO"
 height: "203.0"

@@ -1,7 +1,7 @@
 ---
-title: "Harold VORSTER | ハロルト-フォースター"
+title: "Harold VORSTER | ハロルド-フォースター"
 name_en: "Harold VORSTER"
-name_ja: "ハロルト-フォースター"
+name_ja: "ハロルド-フォースター"
 slug: "harold-vorster"
 position: "CTB"
 height: "188.0"

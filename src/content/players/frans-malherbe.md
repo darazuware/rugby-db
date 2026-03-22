@@ -1,7 +1,7 @@
 ---
-title: "Frans MALHERBE | フランス-マルハーハ"
+title: "Frans MALHERBE | フランス-マルハーバ"
 name_en: "Frans MALHERBE"
-name_ja: "フランス-マルハーハ"
+name_ja: "フランス-マルハーバ"
 slug: "frans-malherbe"
 position: "PR"
 height: "190.0"

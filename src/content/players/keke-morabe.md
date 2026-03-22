@@ -1,7 +1,7 @@
 ---
-title: "Keke MORABE | ケケ モラヘ"
+title: "Keke MORABE | ケケ モラベ"
 name_en: "Keke MORABE"
-name_ja: "ケケ モラヘ"
+name_ja: "ケケ モラベ"
 slug: "keke-morabe"
 position: "FL/No8"
 height: "188.0"

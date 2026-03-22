@@ -1,7 +1,7 @@
 ---
-title: "Johan MULDER | ヨハン モルター"
+title: "Johan MULDER | ヨハン モルダー"
 name_en: "Johan MULDER"
-name_ja: "ヨハン モルター"
+name_ja: "ヨハン モルダー"
 slug: "johan-mulder"
 position: "SH"
 height: "176.0"

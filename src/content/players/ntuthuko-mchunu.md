@@ -1,7 +1,7 @@
 ---
-title: "Ntuthuko MCHUNU | ントゥスコ ムチュヌ"
+title: "Ntuthuko MCHUNU | ントゥズコ ムチュヌ"
 name_en: "Ntuthuko MCHUNU"
-name_ja: "ントゥスコ ムチュヌ"
+name_ja: "ントゥズコ ムチュヌ"
 slug: "ntuthuko-mchunu"
 position: "PR"
 height: "188.0"

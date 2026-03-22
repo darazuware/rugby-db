@@ -1,7 +1,7 @@
 ---
-title: "Emile VAN HEERDEN | エミール ファン ヘールテン"
+title: "Emile VAN HEERDEN | エミール ファン ヘールデン"
 name_en: "Emile VAN HEERDEN"
-name_ja: "エミール ファン ヘールテン"
+name_ja: "エミール ファン ヘールデン"
 slug: "emile-van-heerden"
 position: "LO"
 height: "200.0"

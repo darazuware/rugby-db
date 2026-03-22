@@ -1,7 +1,7 @@
 ---
-title: "Iori BADHAM | イオリ ハタム"
+title: "Iori BADHAM | イオリ バダム"
 name_en: "Iori BADHAM"
-name_ja: "イオリ ハタム"
+name_ja: "イオリ バダム"
 slug: "iori-badham"
 position: "FB"
 height: "183.0"

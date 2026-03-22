@@ -1,7 +1,7 @@
 ---
-title: "Billy MCBRYDE | ヒリー マクフライト"
+title: "Billy MCBRYDE | ビリー マクブライド"
 name_en: "Billy MCBRYDE"
-name_ja: "ヒリー マクフライト"
+name_ja: "ビリー マクブライド"
 slug: "billy-mcbryde"
 position: "SO"
 height: "177.0"

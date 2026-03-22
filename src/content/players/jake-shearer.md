@@ -1,7 +1,7 @@
 ---
-title: "Jake SHEARER | シェイク シアラー"
+title: "Jake SHEARER | ジェイク シアラー"
 name_en: "Jake SHEARER"
-name_ja: "シェイク シアラー"
+name_ja: "ジェイク シアラー"
 slug: "jake-shearer"
 position: "PR"
 height: "185.0"

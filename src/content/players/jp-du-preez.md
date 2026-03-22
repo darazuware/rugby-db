@@ -1,7 +1,7 @@
 ---
-title: "JP Du Preez | シェーヒー テュフレア"
+title: "JP Du Preez | ジェーピー デュプレア"
 name_en: "JP Du Preez"
-name_ja: "シェーヒー テュフレア"
+name_ja: "ジェーピー デュプレア"
 slug: "jp-du-preez"
 position: "LO"
 height: "210.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sora Roland Alaiasa | アライアサ 空ローラント"
+title: "Sora Roland Alaiasa | アライアサ 空ローランド"
 name_en: "Sora Roland Alaiasa"
-name_ja: "アライアサ 空ローラント"
+name_ja: "アライアサ 空ローランド"
 slug: "sora-roland-alaiasa"
 position: "FB"
 height: "178.0"

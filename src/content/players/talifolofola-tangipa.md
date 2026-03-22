@@ -1,7 +1,7 @@
 ---
-title: "Talifolofola Tangipa | タリフォロフォラ タンキハ"
+title: "Talifolofola Tangipa | タリフォロフォラ タンギパ"
 name_en: "Talifolofola Tangipa"
-name_ja: "タリフォロフォラ タンキハ"
+name_ja: "タリフォロフォラ タンギパ"
 slug: "talifolofola-tangipa"
 position: "FL/No8"
 height: "186.0"

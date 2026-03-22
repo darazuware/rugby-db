@@ -1,7 +1,7 @@
 ---
-title: "Dylan Riley | ティラン ライリー"
+title: "Dylan Riley | ディラン ライリー"
 name_en: "Dylan Riley"
-name_ja: "ティラン ライリー"
+name_ja: "ディラン ライリー"
 slug: "dylan-riley"
 position: "CTB"
 height: "187.0"

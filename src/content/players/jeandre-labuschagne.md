@@ -1,7 +1,7 @@
 ---
-title: "Jeandre Labuschagne | シャントレ ラフスカフニ"
+title: "Jeandre Labuschagne | ジャンドレ ラブスカフニ"
 name_en: "Jeandre Labuschagne"
-name_ja: "シャントレ ラフスカフニ"
+name_ja: "ジャンドレ ラブスカフニ"
 slug: "jeandre-labuschagne"
 position: "LO"
 height: "195.0"

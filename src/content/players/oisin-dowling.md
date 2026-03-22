@@ -1,7 +1,7 @@
 ---
-title: "Oisin DOWLING | オシーン タウリンク"
+title: "Oisin DOWLING | オシーン ダウリング"
 name_en: "Oisin DOWLING"
-name_ja: "オシーン タウリンク"
+name_ja: "オシーン ダウリング"
 slug: "oisin-dowling"
 position: "LO"
 height: "196.0"

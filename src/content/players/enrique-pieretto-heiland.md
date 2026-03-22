@@ -1,7 +1,7 @@
 ---
-title: "Enrique PIERETTO HEILAND | エンリケ ヒエレット エイラント"
+title: "Enrique PIERETTO HEILAND | エンリケ ピエレット エイランド"
 name_en: "Enrique PIERETTO HEILAND"
-name_ja: "エンリケ ヒエレット エイラント"
+name_ja: "エンリケ ピエレット エイランド"
 slug: "enrique-pieretto-heiland"
 position: "PR"
 height: "187.0"

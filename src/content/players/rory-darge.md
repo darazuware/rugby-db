@@ -1,7 +1,7 @@
 ---
-title: "Rory DARGE | ロリー ターシ"
+title: "Rory DARGE | ロリー ダージ"
 name_en: "Rory DARGE"
-name_ja: "ロリー ターシ"
+name_ja: "ロリー ダージ"
 slug: "rory-darge"
 position: "FL/No8"
 height: "186.0"

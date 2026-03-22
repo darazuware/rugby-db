@@ -1,7 +1,7 @@
 ---
-title: "Marco ZANON | マルコ サノン"
+title: "Marco ZANON | マルコ ザノン"
 name_en: "Marco ZANON"
-name_ja: "マルコ サノン"
+name_ja: "マルコ ザノン"
 slug: "marco-zanon"
 position: "CTB"
 height: "188.0"

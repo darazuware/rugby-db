@@ -1,7 +1,7 @@
 ---
-title: "Daymon Leasuasu | テーモン レエスアス"
+title: "Daymon Leasuasu | デーモン レエスアス"
 name_en: "Daymon Leasuasu"
-name_ja: "テーモン レエスアス"
+name_ja: "デーモン レエスアス"
 slug: "daymon-leasuasu"
 position: "LO"
 height: "200.0"

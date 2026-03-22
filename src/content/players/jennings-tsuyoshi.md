@@ -1,7 +1,7 @@
 ---
-title: "Jennings Tsuyoshi | シニンクス ツヨシ"
+title: "Jennings Tsuyoshi | ジニングス ツヨシ"
 name_en: "Jennings Tsuyoshi"
-name_ja: "シニンクス ツヨシ"
+name_ja: "ジニングス ツヨシ"
 slug: "jennings-tsuyoshi"
 position: "WTB"
 height: "176.0"

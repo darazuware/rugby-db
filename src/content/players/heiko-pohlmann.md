@@ -1,7 +1,7 @@
 ---
-title: "Heiko POHLMANN | ハイコ ホールマン"
+title: "Heiko POHLMANN | ハイコ ポールマン"
 name_en: "Heiko POHLMANN"
-name_ja: "ハイコ ホールマン"
+name_ja: "ハイコ ポールマン"
 slug: "heiko-pohlmann"
 position: "PR"
 height: "185.0"

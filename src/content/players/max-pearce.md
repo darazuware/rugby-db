@@ -1,7 +1,7 @@
 ---
-title: "Max PEARCE | マックス ヒアース"
+title: "Max PEARCE | マックス ピアース"
 name_en: "Max PEARCE"
-name_ja: "マックス ヒアース"
+name_ja: "マックス ピアース"
 slug: "max-pearce"
 position: "HO"
 height: "180.0"

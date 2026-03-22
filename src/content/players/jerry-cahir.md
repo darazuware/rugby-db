@@ -1,7 +1,7 @@
 ---
-title: "Jerry CAHIR | シェリー ケイハー"
+title: "Jerry CAHIR | ジェリー ケイハー"
 name_en: "Jerry CAHIR"
-name_ja: "シェリー ケイハー"
+name_ja: "ジェリー ケイハー"
 slug: "jerry-cahir"
 position: "PR"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jamie OSBORNE | シェイミー-オスホーン"
+title: "Jamie OSBORNE | ジェイミー-オズボーン"
 name_en: "Jamie OSBORNE"
-name_ja: "シェイミー-オスホーン"
+name_ja: "ジェイミー-オズボーン"
 slug: "jamie-osborne"
 position: "CTB"
 height: "193.0"

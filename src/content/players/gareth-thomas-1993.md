@@ -1,7 +1,7 @@
 ---
-title: "Gareth THOMAS | カレス-トーマス"
+title: "Gareth THOMAS | ガレス-トーマス"
 name_en: "Gareth THOMAS"
-name_ja: "カレス-トーマス"
+name_ja: "ガレス-トーマス"
 slug: "gareth-thomas-1993"
 position: "PR"
 height: "188.0"

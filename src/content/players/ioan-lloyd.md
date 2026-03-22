@@ -1,7 +1,7 @@
 ---
-title: "Ioan LLOYD | イオアン-ロイト"
+title: "Ioan LLOYD | イオアン-ロイド"
 name_en: "Ioan LLOYD"
-name_ja: "イオアン-ロイト"
+name_ja: "イオアン-ロイド"
 slug: "ioan-lloyd"
 position: "SO"
 height: "179.0"

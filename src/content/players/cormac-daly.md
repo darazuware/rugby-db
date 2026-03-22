@@ -1,7 +1,7 @@
 ---
-title: "Cormac Daly | コルマック タリー"
+title: "Cormac Daly | コルマック ダリー"
 name_en: "Cormac Daly"
-name_ja: "コルマック タリー"
+name_ja: "コルマック ダリー"
 slug: "cormac-daly"
 position: "LO"
 height: "199.0"

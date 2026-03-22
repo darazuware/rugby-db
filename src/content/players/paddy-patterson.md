@@ -1,7 +1,7 @@
 ---
-title: "Paddy PATTERSON | ハティ ハターソン"
+title: "Paddy PATTERSON | パディ パターソン"
 name_en: "Paddy PATTERSON"
-name_ja: "ハティ ハターソン"
+name_ja: "パディ パターソン"
 slug: "paddy-patterson"
 position: "SH"
 height: "175.0"

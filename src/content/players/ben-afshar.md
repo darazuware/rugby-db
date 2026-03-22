@@ -1,7 +1,7 @@
 ---
-title: "Ben AFSHAR | ヘン アフシャー"
+title: "Ben AFSHAR | ベン アフシャー"
 name_en: "Ben AFSHAR"
-name_ja: "ヘン アフシャー"
+name_ja: "ベン アフシャー"
 slug: "ben-afshar"
 position: "SH"
 height: "184.0"

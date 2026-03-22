@@ -1,7 +1,7 @@
 ---
-title: "Ben MUNCASTER | ヘン MUNCASTER"
+title: "Ben MUNCASTER | ベン MUNCASTER"
 name_en: "Ben MUNCASTER"
-name_ja: "ヘン MUNCASTER"
+name_ja: "ベン MUNCASTER"
 slug: "ben-muncaster"
 position: "Back row"
 height: "190.0"

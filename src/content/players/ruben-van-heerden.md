@@ -1,7 +1,7 @@
 ---
-title: "Ruben VAN HEERDEN | ルーヘン ファン ヘールテン"
+title: "Ruben VAN HEERDEN | ルーベン ファン ヘールデン"
 name_en: "Ruben VAN HEERDEN"
-name_ja: "ルーヘン ファン ヘールテン"
+name_ja: "ルーベン ファン ヘールデン"
 slug: "ruben-van-heerden"
 position: "LO"
 height: "200.0"

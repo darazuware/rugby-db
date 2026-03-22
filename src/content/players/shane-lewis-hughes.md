@@ -1,7 +1,7 @@
 ---
-title: "Shane LEWIS-HUGHES | シェーン ルイス=ヒュース"
+title: "Shane LEWIS-HUGHES | シェーン ルイス=ヒューズ"
 name_en: "Shane LEWIS-HUGHES"
-name_ja: "シェーン ルイス=ヒュース"
+name_ja: "シェーン ルイス=ヒューズ"
 slug: "shane-lewis-hughes"
 position: "FL/No8"
 height: "196.0"

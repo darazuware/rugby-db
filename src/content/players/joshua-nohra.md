@@ -1,7 +1,7 @@
 ---
-title: "Joshua Nohra | ショシュア ノーラ"
+title: "Joshua Nohra | ジョシュア ノーラ"
 name_en: "Joshua Nohra"
-name_ja: "ショシュア ノーラ"
+name_ja: "ジョシュア ノーラ"
 slug: "joshua-nohra"
 position: "WTB"
 height: "180.0"

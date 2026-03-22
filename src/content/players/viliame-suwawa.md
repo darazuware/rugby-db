@@ -1,7 +1,7 @@
 ---
-title: "Viliame Suwawa | ウィリアミ スワワ"
+title: "Viliame Suwawa | ヴィリアミ スワワ"
 name_en: "Viliame Suwawa"
-name_ja: "ウィリアミ スワワ"
+name_ja: "ヴィリアミ スワワ"
 slug: "viliame-suwawa"
 position: "CTB"
 height: "184.0"

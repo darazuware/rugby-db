@@ -1,7 +1,7 @@
 ---
-title: "Ben Gunter | ヘン カンター"
+title: "Ben Gunter | ベン ガンター"
 name_en: "Ben Gunter"
-name_ja: "ヘン カンター"
+name_ja: "ベン ガンター"
 slug: "ben-gunter"
 position: "FL/No8"
 height: "195.0"

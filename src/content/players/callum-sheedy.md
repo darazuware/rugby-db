@@ -1,7 +1,7 @@
 ---
-title: "Callum SHEEDY | カラム-シーティー"
+title: "Callum SHEEDY | カラム-シーディー"
 name_en: "Callum SHEEDY"
-name_ja: "カラム-シーティー"
+name_ja: "カラム-シーディー"
 slug: "callum-sheedy"
 position: "SO"
 height: "177.0"

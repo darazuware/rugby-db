@@ -1,7 +1,7 @@
 ---
-title: "Chance Peni | チャンス ヘニ"
+title: "Chance Peni | チャンス ペニ"
 name_en: "Chance Peni"
-name_ja: "チャンス ヘニ"
+name_ja: "チャンス ペニ"
 slug: "chance-peni"
 position: "WTB"
 height: "191.0"

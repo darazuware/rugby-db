@@ -1,7 +1,7 @@
 ---
-title: "Sean JANSEN | ショーン シャンセン"
+title: "Sean JANSEN | ショーン ジャンセン"
 name_en: "Sean JANSEN"
-name_ja: "ショーン シャンセン"
+name_ja: "ショーン ジャンセン"
 slug: "sean-jansen"
 position: "FL/No8"
 height: "191.0"

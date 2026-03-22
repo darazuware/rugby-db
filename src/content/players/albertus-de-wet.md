@@ -1,7 +1,7 @@
 ---
-title: "Paul DE WET | ホール テ ウェット"
+title: "Paul DE WET | ポール デ ヴェット"
 name_en: "Paul DE WET"
-name_ja: "ホール テ ウェット"
+name_ja: "ポール デ ヴェット"
 slug: "albertus-de-wet"
 position: "SH"
 height: "176.0"

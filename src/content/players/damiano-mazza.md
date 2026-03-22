@@ -1,7 +1,7 @@
 ---
-title: "Damiano MAZZA | タミアーノ マッツァ"
+title: "Damiano MAZZA | ダミアーノ マッツァ"
 name_en: "Damiano MAZZA"
-name_ja: "タミアーノ マッツァ"
+name_ja: "ダミアーノ マッツァ"
 slug: "damiano-mazza"
 position: "CTB"
 height: "183.0"

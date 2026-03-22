@@ -1,7 +1,7 @@
 ---
-title: "Osian WILLIAMS | オシアン ウィリアムス"
+title: "Osian WILLIAMS | オシアン ウィリアムズ"
 name_en: "Osian WILLIAMS"
-name_ja: "オシアン ウィリアムス"
+name_ja: "オシアン ウィリアムズ"
 slug: "osian-williams"
 position: "FL/No8"
 height: "191.0"

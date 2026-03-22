@@ -1,7 +1,7 @@
 ---
-title: "Jackson RENNIE | シャクソン レニー"
+title: "Jackson RENNIE | ジャクソン レニー"
 name_en: "Jackson RENNIE"
-name_ja: "シャクソン レニー"
+name_ja: "ジャクソン レニー"
 slug: "jackson-rennie"
 position: "PR"
 height: "188.0"

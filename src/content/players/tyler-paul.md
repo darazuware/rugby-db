@@ -1,7 +1,7 @@
 ---
-title: "Tyler Paul | タイラー ホール"
+title: "Tyler Paul | タイラー ポール"
 name_en: "Tyler Paul"
-name_ja: "タイラー ホール"
+name_ja: "タイラー ポール"
 slug: "tyler-paul"
 position: "LO"
 height: "195.0"

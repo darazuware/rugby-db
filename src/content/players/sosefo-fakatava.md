@@ -1,7 +1,7 @@
 ---
-title: "Sosefo Fakatava | ソセフォ ファカタウァ"
+title: "Sosefo Fakatava | ソセフォ ファカタヴァ"
 name_en: "Sosefo Fakatava"
-name_ja: "ソセフォ ファカタウァ"
+name_ja: "ソセフォ ファカタヴァ"
 slug: "sosefo-fakatava"
 position: "FL/No8"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Kemsley MATHIAS | ケムスリー マティアス"
+title: "Kemsley MATHIAS | ケムズリー マティアス"
 name_en: "Kemsley MATHIAS"
-name_ja: "ケムスリー マティアス"
+name_ja: "ケムズリー マティアス"
 slug: "kemsley-mathias"
 position: "PR"
 height: "185.0"

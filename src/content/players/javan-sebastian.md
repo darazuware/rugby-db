@@ -1,7 +1,7 @@
 ---
-title: "Javan SEBASTIAN | シャウァン-セハスチャン"
+title: "Javan SEBASTIAN | ジャヴァン-セバスチャン"
 name_en: "Javan SEBASTIAN"
-name_ja: "シャウァン-セハスチャン"
+name_ja: "ジャヴァン-セバスチャン"
 slug: "javan-sebastian"
 position: "PR"
 height: "177.0"

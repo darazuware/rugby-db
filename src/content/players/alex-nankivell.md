@@ -1,7 +1,7 @@
 ---
-title: "Alex NANKIVELL | アレックス ナンキウィル"
+title: "Alex NANKIVELL | アレックス ナンキヴィル"
 name_en: "Alex NANKIVELL"
-name_ja: "アレックス ナンキウィル"
+name_ja: "アレックス ナンキヴィル"
 slug: "alex-nankivell"
 position: "CTB"
 height: "188.0"

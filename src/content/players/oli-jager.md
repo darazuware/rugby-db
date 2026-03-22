@@ -1,7 +1,7 @@
 ---
-title: "Oli JAGER | オリ イェーカー"
+title: "Oli JAGER | オリ イェーガー"
 name_en: "Oli JAGER"
-name_ja: "オリ イェーカー"
+name_ja: "オリ イェーガー"
 slug: "oli-jager"
 position: "PR"
 height: "192.0"

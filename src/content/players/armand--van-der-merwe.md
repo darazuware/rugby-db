@@ -1,7 +1,7 @@
 ---
-title: "Akker VAN DER MERWE | アッカー ファン テル メルウァ"
+title: "Akker VAN DER MERWE | アッカー ファン デル メルヴァ"
 name_en: "Akker VAN DER MERWE"
-name_ja: "アッカー ファン テル メルウァ"
+name_ja: "アッカー ファン デル メルヴァ"
 slug: "armand--van-der-merwe"
 position: "HO"
 height: "178.0"

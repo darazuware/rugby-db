@@ -1,7 +1,7 @@
 ---
-title: "George NOTT | ショーシ-ノット"
+title: "George NOTT | ジョージ-ノット"
 name_en: "George NOTT"
-name_ja: "ショーシ-ノット"
+name_ja: "ジョージ-ノット"
 slug: "george-nott"
 position: "LO"
 height: "198.0"

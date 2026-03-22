@@ -1,7 +1,7 @@
 ---
-title: "Kurt-Lee ARENDSE | カート=リー アレンセ"
+title: "Kurt-Lee ARENDSE | カート=リー アレンゼ"
 name_en: "Kurt-Lee ARENDSE"
-name_ja: "カート=リー アレンセ"
+name_ja: "カート=リー アレンゼ"
 slug: "kurt-lee-arendse"
 position: "WTB"
 height: "176.0"

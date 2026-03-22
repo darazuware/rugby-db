@@ -1,7 +1,7 @@
 ---
-title: "Rhodri JONES | ロトリ ショーンス"
+title: "Rhodri JONES | ロドリ ジョーンズ"
 name_en: "Rhodri JONES"
-name_ja: "ロトリ ショーンス"
+name_ja: "ロドリ ジョーンズ"
 slug: "rhodri-jones"
 position: "PR"
 height: "191.0"

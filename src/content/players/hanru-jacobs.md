@@ -1,7 +1,7 @@
 ---
-title: "Hanro JACOBS | ハンロ-シェイコフス"
+title: "Hanro JACOBS | ハンロ-ジェイコブス"
 name_en: "Hanro JACOBS"
-name_ja: "ハンロ-シェイコフス"
+name_ja: "ハンロ-ジェイコブス"
 slug: "hanru-jacobs"
 position: "PR"
 height: "185.0"

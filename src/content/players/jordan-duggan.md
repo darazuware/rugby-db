@@ -1,7 +1,7 @@
 ---
-title: "Jordan DUGGAN | ショータン タカン"
+title: "Jordan DUGGAN | ジョーダン ダガン"
 name_en: "Jordan DUGGAN"
-name_ja: "ショータン タカン"
+name_ja: "ジョーダン ダガン"
 slug: "jordan-duggan"
 position: "PR"
 height: "185.0"

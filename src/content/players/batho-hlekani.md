@@ -1,7 +1,7 @@
 ---
-title: "Batho HLEKANI | ハト レカニ"
+title: "Batho HLEKANI | バト レカニ"
 name_en: "Batho HLEKANI"
-name_ja: "ハト レカニ"
+name_ja: "バト レカニ"
 slug: "batho-hlekani"
 position: "FL/No8"
 height: "193.0"

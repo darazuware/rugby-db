@@ -1,7 +1,7 @@
 ---
-title: "Tom BOTHA | トム ホータ"
+title: "Tom BOTHA | トム ボータ"
 name_en: "Tom BOTHA"
-name_ja: "トム ホータ"
+name_ja: "トム ボータ"
 slug: "tom-botha"
 position: "PR"
 height: "179.0"

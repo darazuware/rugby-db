@@ -1,7 +1,7 @@
 ---
-title: "Brody Macaskill | フロティ マカスケル"
+title: "Brody Macaskill | ブロディ マカスケル"
 name_en: "Brody Macaskill"
-name_ja: "フロティ マカスケル"
+name_ja: "ブロディ マカスケル"
 slug: "brody-macaskill"
 position: "FL/No8"
 height: "190.0"

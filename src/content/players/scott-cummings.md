@@ -1,7 +1,7 @@
 ---
-title: "Scott CUMMINGS | スコット カミンクス"
+title: "Scott CUMMINGS | スコット カミングス"
 name_en: "Scott CUMMINGS"
-name_ja: "スコット カミンクス"
+name_ja: "スコット カミングス"
 slug: "scott-cummings"
 position: "LO"
 height: "199.0"

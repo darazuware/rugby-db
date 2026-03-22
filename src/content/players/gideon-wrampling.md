@@ -1,7 +1,7 @@
 ---
-title: "Gideon Wrampling | キテオン ランフリンク"
+title: "Gideon Wrampling | ギデオン ランプリング"
 name_en: "Gideon Wrampling"
-name_ja: "キテオン ランフリンク"
+name_ja: "ギデオン ランプリング"
 slug: "gideon-wrampling"
 position: "CTB"
 height: "188.0"

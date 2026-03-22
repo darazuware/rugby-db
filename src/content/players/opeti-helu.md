@@ -1,7 +1,7 @@
 ---
-title: "Opeti Helu | オヘティ ヘル"
+title: "Opeti Helu | オペティ ヘル"
 name_en: "Opeti Helu"
-name_ja: "オヘティ ヘル"
+name_ja: "オペティ ヘル"
 slug: "opeti-helu"
 position: "PR"
 height: "190.0"

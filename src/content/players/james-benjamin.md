@@ -1,7 +1,7 @@
 ---
-title: "James BENJAMIN | シェームス ヘンシャミン"
+title: "James BENJAMIN | ジェームズ ベンジャミン"
 name_en: "James BENJAMIN"
-name_ja: "シェームス ヘンシャミン"
+name_ja: "ジェームズ ベンジャミン"
 slug: "james-benjamin"
 position: "HO"
 height: "183.0"

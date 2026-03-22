@@ -1,7 +1,7 @@
 ---
-title: "Tomasi Naibaruwaga | ナイハルワカ トマシ"
+title: "Tomasi Naibaruwaga | ナイバルワガ トマシ"
 name_en: "Tomasi Naibaruwaga"
-name_ja: "ナイハルワカ トマシ"
+name_ja: "ナイバルワガ トマシ"
 slug: "tomasi-naibaruwaga"
 position: "WTB"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Vincent TSHITUKA | ウィンセント ツィツカ"
+title: "Vincent TSHITUKA | ヴィンセント ツィツカ"
 name_en: "Vincent TSHITUKA"
-name_ja: "ウィンセント ツィツカ"
+name_ja: "ヴィンセント ツィツカ"
 slug: "vincent-tshituka"
 position: "FL/No8"
 height: "194.0"

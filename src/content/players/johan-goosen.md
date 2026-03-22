@@ -1,7 +1,7 @@
 ---
-title: "Johan GOOSEN | ヨハン コーセン"
+title: "Johan GOOSEN | ヨハン ゴーセン"
 name_en: "Johan GOOSEN"
-name_ja: "ヨハン コーセン"
+name_ja: "ヨハン ゴーセン"
 slug: "johan-goosen"
 position: "SO"
 height: "184.0"

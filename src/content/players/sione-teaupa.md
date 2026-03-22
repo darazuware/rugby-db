@@ -1,7 +1,7 @@
 ---
-title: "Sione Teaupa | テアウハ シオネ"
+title: "Sione Teaupa | テアウパ シオネ"
 name_en: "Sione Teaupa"
-name_ja: "テアウハ シオネ"
+name_ja: "テアウパ シオネ"
 slug: "sione-teaupa"
 position: "CTB"
 height: "183.0"

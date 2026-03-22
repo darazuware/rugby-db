@@ -8,7 +8,9 @@ def normalize_name(name):
     if not name: return []
     # アクセント記号の除去 (é -> e 等)
     name = unicodedata.normalize('NFD', name)
-    name = "".join([c for c in name if unicodedata.category(c) != 'Mn'])
+    name = unicodedata.normalize('NFKC', str(name))
+    if not re.search(r'[\u3040-\u309F\u30A0-\u30FF]', name):
+        name = "".join([c for c in name if unicodedata.category(c) != 'Mn'])
     # 全大文字化、記号削除、スペースの正規化
     name = name.upper()
     name = re.sub(r'[^A-Z\s]', ' ', name)

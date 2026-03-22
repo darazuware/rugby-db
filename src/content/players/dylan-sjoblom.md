@@ -1,7 +1,7 @@
 ---
-title: "Dylan SJOBLOM | ティラン ショフロム"
+title: "Dylan SJOBLOM | ディラン ショブロム"
 name_en: "Dylan SJOBLOM"
-name_ja: "ティラン ショフロム"
+name_ja: "ディラン ショブロム"
 slug: "dylan-sjoblom"
 position: "LO"
 height: "200.0"

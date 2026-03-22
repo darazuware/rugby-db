@@ -1,7 +1,7 @@
 ---
-title: "Harry BEDDALL | ハリー ヘタル"
+title: "Harry BEDDALL | ハリー ベダル"
 name_en: "Harry BEDDALL"
-name_ja: "ハリー ヘタル"
+name_ja: "ハリー ベダル"
 slug: "harry-beddall"
 position: "FL/No8"
 height: "178.0"

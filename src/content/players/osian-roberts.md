@@ -1,7 +1,7 @@
 ---
-title: "Osian ROBERTS | オシアン ロハーツ"
+title: "Osian ROBERTS | オシアン ロバーツ"
 name_en: "Osian ROBERTS"
-name_ja: "オシアン ロハーツ"
+name_ja: "オシアン ロバーツ"
 slug: "osian-roberts"
 position: "CTB"
 height: "180.0"

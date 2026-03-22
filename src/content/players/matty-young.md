@@ -1,7 +1,7 @@
 ---
-title: "Matty YOUNG | マティ ヤンク"
+title: "Matty YOUNG | マティ ヤング"
 name_en: "Matty YOUNG"
-name_ja: "マティ ヤンク"
+name_ja: "マティ ヤング"
 slug: "matty-young"
 position: "FB"
 height: "183.0"

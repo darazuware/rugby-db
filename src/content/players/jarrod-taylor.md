@@ -1,7 +1,7 @@
 ---
-title: "Jarrod TAYLOR | シャロット-テイラー"
+title: "Jarrod TAYLOR | ジャロッド-テイラー"
 name_en: "Jarrod TAYLOR"
-name_ja: "シャロット-テイラー"
+name_ja: "ジャロッド-テイラー"
 slug: "jarrod-taylor"
 position: "FL/No8"
 height: "188.0"

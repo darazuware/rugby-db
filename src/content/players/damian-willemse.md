@@ -1,7 +1,7 @@
 ---
-title: "Damian WILLEMSE | タミアン-ウィレムセ"
+title: "Damian WILLEMSE | ダミアン-ヴィレムセ"
 name_en: "Damian WILLEMSE"
-name_ja: "タミアン-ウィレムセ"
+name_ja: "ダミアン-ヴィレムセ"
 slug: "damian-willemse"
 position: "SO"
 height: "187.0"

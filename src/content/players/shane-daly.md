@@ -1,7 +1,7 @@
 ---
-title: "Shane DALY | シェーン テイリー"
+title: "Shane DALY | シェーン デイリー"
 name_en: "Shane DALY"
-name_ja: "シェーン テイリー"
+name_ja: "シェーン デイリー"
 slug: "shane-daly"
 position: "CTB"
 height: "191.0"

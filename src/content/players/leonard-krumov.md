@@ -1,7 +1,7 @@
 ---
-title: "Leonard KRUMOV | レオナルト クルモフ"
+title: "Leonard KRUMOV | レオナルド クルモフ"
 name_en: "Leonard KRUMOV"
-name_ja: "レオナルト クルモフ"
+name_ja: "レオナルド クルモフ"
 slug: "leonard-krumov"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Cammy DAWSON | カミー トーソン"
+title: "Cammy DAWSON | カミー ドーソン"
 name_en: "Cammy DAWSON"
-name_ja: "カミー トーソン"
+name_ja: "カミー ドーソン"
 slug: "cameron-dawson"
 position: "PR"
 height: "181.0"

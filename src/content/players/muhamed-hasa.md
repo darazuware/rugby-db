@@ -1,7 +1,7 @@
 ---
-title: "Muhamed HASA | ムハメト ハサ"
+title: "Muhamed HASA | ムハメド ハサ"
 name_en: "Muhamed HASA"
-name_ja: "ムハメト ハサ"
+name_ja: "ムハメド ハサ"
 slug: "muhamed-hasa"
 position: "PR"
 height: "183.0"

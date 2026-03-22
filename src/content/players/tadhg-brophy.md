@@ -1,7 +1,7 @@
 ---
-title: "Tadhg BROPHY | タイク フロフィー"
+title: "Tadhg BROPHY | タイグ ブロフィー"
 name_en: "Tadhg BROPHY"
-name_ja: "タイク フロフィー"
+name_ja: "タイグ ブロフィー"
 slug: "tadhg-brophy"
 position: "SH"
 height: "173.0"

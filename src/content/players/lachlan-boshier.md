@@ -1,7 +1,7 @@
 ---
-title: "Lachlan Boshier | ラクラン ホーシェー"
+title: "Lachlan Boshier | ラクラン ボーシェー"
 name_en: "Lachlan Boshier"
-name_ja: "ラクラン ホーシェー"
+name_ja: "ラクラン ボーシェー"
 slug: "lachlan-boshier"
 position: "FL/No8"
 height: "191.0"

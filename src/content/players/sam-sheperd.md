@@ -1,7 +1,7 @@
 ---
-title: "Sam Sheperd | サム シェハート"
+title: "Sam Sheperd | サム シェパード"
 name_en: "Sam Sheperd"
-name_ja: "サム シェハート"
+name_ja: "サム シェパード"
 slug: "sam-sheperd"
 position: "LO"
 height: "200.0"

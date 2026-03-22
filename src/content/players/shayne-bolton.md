@@ -1,7 +1,7 @@
 ---
-title: "Shayne BOLTON | シェーン ホルトン"
+title: "Shayne BOLTON | シェーン ボルトン"
 name_en: "Shayne BOLTON"
-name_ja: "シェーン ホルトン"
+name_ja: "シェーン ボルトン"
 slug: "shayne-bolton"
 position: "WTB"
 height: "188.0"

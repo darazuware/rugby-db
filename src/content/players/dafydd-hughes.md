@@ -1,7 +1,7 @@
 ---
-title: "Dafydd HUGHES | タフィス ヒュース"
+title: "Dafydd HUGHES | ダフィズ ヒューズ"
 name_en: "Dafydd HUGHES"
-name_ja: "タフィス ヒュース"
+name_ja: "ダフィズ ヒューズ"
 slug: "dafydd-hughes"
 position: "HO"
 height: "179.0"

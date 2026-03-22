@@ -1,7 +1,7 @@
 ---
-title: "Larry Sulunga | ラリー スルンカ"
+title: "Larry Sulunga | ラリー スルンガ"
 name_en: "Larry Sulunga"
-name_ja: "ラリー スルンカ"
+name_ja: "ラリー スルンガ"
 slug: "larry-sulunga"
 position: "WTB"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jack HOSKINS | シャック ホスキンス"
+title: "Jack HOSKINS | ジャック ホスキンス"
 name_en: "Jack HOSKINS"
-name_ja: "シャック ホスキンス"
+name_ja: "ジャック ホスキンス"
 slug: "jack-hoskins"
 position: "CTB"
 height: "185.0"

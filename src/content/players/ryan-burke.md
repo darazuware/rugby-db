@@ -1,7 +1,7 @@
 ---
-title: "Ryan BURKE | ライアン ハーク"
+title: "Ryan BURKE | ライアン バーク"
 name_en: "Ryan BURKE"
-name_ja: "ライアン ハーク"
+name_ja: "ライアン バーク"
 slug: "ryan-burke"
 position: "LO"
 height: "200.0"

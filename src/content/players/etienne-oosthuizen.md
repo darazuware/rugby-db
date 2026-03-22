@@ -1,7 +1,7 @@
 ---
-title: "Etienne OOSTHUIZEN | エティエンヌ オーストハイセン"
+title: "Etienne OOSTHUIZEN | エティエンヌ オーストハイゼン"
 name_en: "Etienne OOSTHUIZEN"
-name_ja: "エティエンヌ オーストハイセン"
+name_ja: "エティエンヌ オーストハイゼン"
 slug: "etienne-oosthuizen"
 position: "LO"
 height: "198.0"

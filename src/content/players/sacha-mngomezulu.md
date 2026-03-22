@@ -1,7 +1,7 @@
 ---
-title: "Sacha FEINBERG-MNGOMEZULU | サシャ ファインハーク=ムンコメスル"
+title: "Sacha FEINBERG-MNGOMEZULU | サシャ ファインバーグ=ムンゴメズル"
 name_en: "Sacha FEINBERG-MNGOMEZULU"
-name_ja: "サシャ ファインハーク=ムンコメスル"
+name_ja: "サシャ ファインバーグ=ムンゴメズル"
 slug: "sacha-mngomezulu"
 position: "SO"
 height: "188.0"

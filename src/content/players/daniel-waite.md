@@ -1,7 +1,7 @@
 ---
-title: "Daniel Waite | タニエル ウェイト"
+title: "Daniel Waite | ダニエル ウェイト"
 name_en: "Daniel Waite"
-name_ja: "タニエル ウェイト"
+name_ja: "ダニエル ウェイト"
 slug: "daniel-waite"
 position: "SO"
 height: "181.0"

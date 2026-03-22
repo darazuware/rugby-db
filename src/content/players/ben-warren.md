@@ -1,7 +1,7 @@
 ---
-title: "Ben WARREN | ヘン ウォーレン"
+title: "Ben WARREN | ベン ウォーレン"
 name_en: "Ben WARREN"
-name_ja: "ヘン ウォーレン"
+name_ja: "ベン ウォーレン"
 slug: "ben-warren"
 position: "PR"
 height: "185.0"

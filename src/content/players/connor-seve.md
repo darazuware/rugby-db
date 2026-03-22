@@ -1,7 +1,7 @@
 ---
-title: "Connor Seve | コナー セウェ"
+title: "Connor Seve | コナー セヴェ"
 name_en: "Connor Seve"
-name_ja: "コナー セウェ"
+name_ja: "コナー セヴェ"
 slug: "connor-seve"
 position: "LO"
 height: "201.0"

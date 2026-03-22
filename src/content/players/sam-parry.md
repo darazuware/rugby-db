@@ -1,7 +1,7 @@
 ---
-title: "Sam PARRY | サム ハリー"
+title: "Sam PARRY | サム パリー"
 name_en: "Sam PARRY"
-name_ja: "サム ハリー"
+name_ja: "サム パリー"
 slug: "sam-parry"
 position: "HO"
 height: "186.0"

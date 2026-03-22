@@ -1,7 +1,7 @@
 ---
-title: "Conraad VAN VUUREN | コンラット ファン ヒューレン"
+title: "Conraad VAN VUUREN | コンラッド ファン ビューレン"
 name_en: "Conraad VAN VUUREN"
-name_ja: "コンラット ファン ヒューレン"
+name_ja: "コンラッド ファン ビューレン"
 slug: "conraad-van-vuuren"
 position: "PR"
 height: "183.0"

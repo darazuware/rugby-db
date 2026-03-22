@@ -1,7 +1,7 @@
 ---
-title: "Kavaia Tagivetaua | カウァイア タキウェタウア"
+title: "Kavaia Tagivetaua | カヴァイア タギヴェタウア"
 name_en: "Kavaia Tagivetaua"
-name_ja: "カウァイア タキウェタウア"
+name_ja: "カヴァイア タギヴェタウア"
 slug: "kavaia-tagivetaua"
 position: "LO"
 height: "194.0"

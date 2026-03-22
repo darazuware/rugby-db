@@ -1,7 +1,7 @@
 ---
-title: "Adam HASTINGS | アタム HASTINGS"
+title: "Adam HASTINGS | アダム HASTINGS"
 name_en: "Adam HASTINGS"
-name_ja: "アタム HASTINGS"
+name_ja: "アダム HASTINGS"
 slug: "adam-hastings"
 position: "SO"
 height: "189.0"

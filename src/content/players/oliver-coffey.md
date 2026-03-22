@@ -1,7 +1,7 @@
 ---
-title: "Oliver COFFEY | オリウァー コフィー"
+title: "Oliver COFFEY | オリヴァー コフィー"
 name_en: "Oliver COFFEY"
-name_ja: "オリウァー コフィー"
+name_ja: "オリヴァー コフィー"
 slug: "oliver-coffey"
 position: "SH"
 height: "183.0"

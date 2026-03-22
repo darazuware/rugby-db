@@ -1,7 +1,7 @@
 ---
-title: "Tristan DAVIES | トリスタン テイウィス"
+title: "Tristan DAVIES | トリスタン デイヴィス"
 name_en: "Tristan DAVIES"
-name_ja: "トリスタン テイウィス"
+name_ja: "トリスタン デイヴィス"
 slug: "tristan-davies"
 position: "FL/No8"
 height: "193.0"

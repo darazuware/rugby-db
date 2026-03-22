@@ -1,7 +1,7 @@
 ---
-title: "Todd LAWLOR | トット ローラー"
+title: "Todd LAWLOR | トッド ローラー"
 name_en: "Todd LAWLOR"
-name_ja: "トット ローラー"
+name_ja: "トッド ローラー"
 slug: "todd-lawlor"
 position: "WTB"
 height: ""

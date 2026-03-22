@@ -1,7 +1,7 @@
 ---
-title: "Jack CARTY | シャック-カーティー"
+title: "Jack CARTY | ジャック-カーティー"
 name_en: "Jack CARTY"
-name_ja: "シャック-カーティー"
+name_ja: "ジャック-カーティー"
 slug: "jack-carty"
 position: "SO"
 height: "183.0"

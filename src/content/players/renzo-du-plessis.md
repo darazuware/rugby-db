@@ -1,7 +1,7 @@
 ---
-title: "Renzo DU PLESSIS | レンソ テュ フレシス"
+title: "Renzo DU PLESSIS | レンゾ デュ プレシス"
 name_en: "Renzo DU PLESSIS"
-name_ja: "レンソ テュ フレシス"
+name_ja: "レンゾ デュ プレシス"
 slug: "renzo-du-plessis"
 position: "FL/No8"
 height: "188.0"

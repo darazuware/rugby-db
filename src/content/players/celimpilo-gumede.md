@@ -1,7 +1,7 @@
 ---
-title: "Mpilo GUMEDE | ムヒロ クメテ"
+title: "Mpilo GUMEDE | ムピロ グメデ"
 name_en: "Mpilo GUMEDE"
-name_ja: "ムヒロ クメテ"
+name_ja: "ムピロ グメデ"
 slug: "celimpilo-gumede"
 position: "FL/No8"
 height: "193.0"

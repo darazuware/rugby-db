@@ -1,7 +1,7 @@
 ---
-title: "Eddie JAMES | Eddie シェームス"
+title: "Eddie JAMES | Eddie ジェームズ"
 name_en: "Eddie JAMES"
-name_ja: "Eddie シェームス"
+name_ja: "Eddie ジェームズ"
 slug: "eddie-james"
 position: "CTB"
 height: "193.0"

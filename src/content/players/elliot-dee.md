@@ -1,7 +1,7 @@
 ---
-title: "Elliot DEE | エリオット-ティー"
+title: "Elliot DEE | エリオット-ディー"
 name_en: "Elliot DEE"
-name_ja: "エリオット-ティー"
+name_ja: "エリオット-ディー"
 slug: "elliot-dee"
 position: "HO"
 height: "186.0"

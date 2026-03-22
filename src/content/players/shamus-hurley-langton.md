@@ -1,7 +1,7 @@
 ---
-title: "Shamus HURLEY-LANGTON | シェイマス ハーリー=ランクトン"
+title: "Shamus HURLEY-LANGTON | シェイマス ハーリー=ラングトン"
 name_en: "Shamus HURLEY-LANGTON"
-name_ja: "シェイマス ハーリー=ランクトン"
+name_ja: "シェイマス ハーリー=ラングトン"
 slug: "shamus-hurley-langton"
 position: "FL/No8"
 height: "185.0"

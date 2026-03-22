@@ -1,7 +1,7 @@
 ---
-title: "Sam BERMAN | サム ハーマン"
+title: "Sam BERMAN | サム バーマン"
 name_en: "Sam BERMAN"
-name_ja: "サム ハーマン"
+name_ja: "サム バーマン"
 slug: "sam-berman"
 position: "CTB"
 height: ""

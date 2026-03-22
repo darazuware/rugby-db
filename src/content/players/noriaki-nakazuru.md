@@ -1,7 +1,7 @@
 ---
-title: "Noriaki Nakazuru | 中つる"
+title: "Noriaki Nakazuru | 中づる"
 name_en: "Noriaki Nakazuru"
-name_ja: "中つる"
+name_ja: "中づる"
 slug: "noriaki-nakazuru"
 position: "CTB"
 height: "181.0"

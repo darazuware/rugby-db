@@ -1,7 +1,7 @@
 ---
-title: "Wandile MLABA | ワンティレ-ムラハ"
+title: "Wandile MLABA | ワンディレ-ムラバ"
 name_en: "Wandile MLABA"
-name_ja: "ワンティレ-ムラハ"
+name_ja: "ワンディレ-ムラバ"
 slug: "wandile-mlaba"
 position: "FL/No8"
 height: "191.0"

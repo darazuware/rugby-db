@@ -1,7 +1,7 @@
 ---
-title: "Ruan DREYER | ルアン トレイヤー"
+title: "Ruan DREYER | ルアン ドレイヤー"
 name_en: "Ruan DREYER"
-name_ja: "ルアン トレイヤー"
+name_ja: "ルアン ドレイヤー"
 slug: "ruan-dreyer"
 position: "PR"
 height: "186.0"

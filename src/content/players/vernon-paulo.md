@@ -1,7 +1,7 @@
 ---
-title: "Vernon PAULO | ウァーノン ハウロ"
+title: "Vernon PAULO | ヴァーノン パウロ"
 name_en: "Vernon PAULO"
-name_ja: "ウァーノン ハウロ"
+name_ja: "ヴァーノン パウロ"
 slug: "vernon-paulo"
 position: "HO"
 height: "178.0"

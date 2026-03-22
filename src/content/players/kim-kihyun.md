@@ -1,7 +1,7 @@
 ---
-title: "Kim Kihyun | キム キヒョン"
+title: "Kim Kihyun | キム ギヒョン"
 name_en: "Kim Kihyun"
-name_ja: "キム キヒョン"
+name_ja: "キム ギヒョン"
 slug: "kim-kihyun"
 position: "FL/No8"
 height: "180.0"

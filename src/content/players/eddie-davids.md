@@ -1,7 +1,7 @@
 ---
-title: "Eddie DAVIDS | エティー-テイウィッス"
+title: "Eddie DAVIDS | エディー-デイヴィッズ"
 name_en: "Eddie DAVIDS"
-name_ja: "エティー-テイウィッス"
+name_ja: "エディー-デイヴィッズ"
 slug: "eddie-davids"
 position: "PR"
 height: "178.0"

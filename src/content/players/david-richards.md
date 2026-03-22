@@ -1,7 +1,7 @@
 ---
-title: "David RICHARDS | テイウィット RICHARDS"
+title: "David RICHARDS | デイヴィッド RICHARDS"
 name_en: "David RICHARDS"
-name_ja: "テイウィット RICHARDS"
+name_ja: "デイヴィッド RICHARDS"
 slug: "david-richards"
 position: "FB"
 height: "182.0"

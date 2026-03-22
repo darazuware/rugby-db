@@ -1,7 +1,7 @@
 ---
-title: "Ardie Savea | アーティ サヘア"
+title: "Ardie Savea | アーディ サベア"
 name_en: "Ardie Savea"
-name_ja: "アーティ サヘア"
+name_ja: "アーディ サベア"
 slug: "ardie-savea"
 position: "FL/No8"
 height: "184.0"

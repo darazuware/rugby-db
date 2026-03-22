@@ -1,7 +1,7 @@
 ---
-title: "Andrew SMITH | アントリュー スミス"
+title: "Andrew SMITH | アンドリュー スミス"
 name_en: "Andrew SMITH"
-name_ja: "アントリュー スミス"
+name_ja: "アンドリュー スミス"
 slug: "andrew-smith-2000"
 position: "WTB"
 height: "183.0"

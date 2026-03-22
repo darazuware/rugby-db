@@ -1,7 +1,7 @@
 ---
-title: "Josh MCNALLY | ショシュ マクナリー"
+title: "Josh MCNALLY | ジョシュ マクナリー"
 name_en: "Josh MCNALLY"
-name_ja: "ショシュ マクナリー"
+name_ja: "ジョシュ マクナリー"
 slug: "josh-mcnally"
 position: "LO"
 height: "200.0"

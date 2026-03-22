@@ -1,7 +1,7 @@
 ---
-title: "Fin RICHARDSON | フィン リチャートソン"
+title: "Fin RICHARDSON | フィン リチャードソン"
 name_en: "Fin RICHARDSON"
-name_ja: "フィン リチャートソン"
+name_ja: "フィン リチャードソン"
 slug: "finlay-richardson"
 position: "PR"
 height: "183.0"

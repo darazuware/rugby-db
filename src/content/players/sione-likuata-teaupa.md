@@ -1,7 +1,7 @@
 ---
-title: "Sione Likuata Teaupa | シオネ リクアタテアウハ"
+title: "Sione Likuata Teaupa | シオネ リクアタテアウパ"
 name_en: "Sione Likuata Teaupa"
-name_ja: "シオネ リクアタテアウハ"
+name_ja: "シオネ リクアタテアウパ"
 slug: "sione-likuata-teaupa"
 position: "CTB"
 height: "180.0"

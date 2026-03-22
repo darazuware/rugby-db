@@ -1,7 +1,7 @@
 ---
-title: "Iwan STEPHENS | イワン-スティーウンス"
+title: "Iwan STEPHENS | イワン-スティーヴンス"
 name_en: "Iwan STEPHENS"
-name_ja: "イワン-スティーウンス"
+name_ja: "イワン-スティーヴンス"
 slug: "iwan-stephens"
 position: "WTB"
 height: "170.0"

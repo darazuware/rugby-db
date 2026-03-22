@@ -1,7 +1,7 @@
 ---
-title: "Janko Swanepoel | ヤンコ スワナホール"
+title: "Janko Swanepoel | ヤンコ スワナポール"
 name_en: "Janko Swanepoel"
-name_ja: "ヤンコ スワナホール"
+name_ja: "ヤンコ スワナポール"
 slug: "janko-swanepoel"
 position: "LO"
 height: "200.0"

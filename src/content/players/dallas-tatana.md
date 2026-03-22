@@ -1,7 +1,7 @@
 ---
-title: "Dallas Tatana | タタナ タラス"
+title: "Dallas Tatana | タタナ ダラス"
 name_en: "Dallas Tatana"
-name_ja: "タタナ タラス"
+name_ja: "タタナ ダラス"
 slug: "dallas-tatana"
 position: "LO"
 height: "189.0"

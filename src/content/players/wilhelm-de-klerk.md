@@ -1,7 +1,7 @@
 ---
-title: "Wilhelm DE KLERK | ウィルヘルム-テ クラーク"
+title: "Wilhelm DE KLERK | ヴィルヘルム-デ クラーク"
 name_en: "Wilhelm DE KLERK"
-name_ja: "ウィルヘルム-テ クラーク"
+name_ja: "ヴィルヘルム-デ クラーク"
 slug: "wilhelm-de-klerk"
 position: "CTB"
 height: ""

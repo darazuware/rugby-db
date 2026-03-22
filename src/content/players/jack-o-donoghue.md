@@ -1,7 +1,7 @@
 ---
-title: "Jack O'DONOGHUE | シャック-オトノヒュー"
+title: "Jack O'DONOGHUE | ジャック-オドノヒュー"
 name_en: "Jack O'DONOGHUE"
-name_ja: "シャック-オトノヒュー"
+name_ja: "ジャック-オドノヒュー"
 slug: "jack-o-donoghue"
 position: "FL/No8"
 height: "191.0"

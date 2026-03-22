@@ -1,7 +1,7 @@
 ---
-title: "Stefan UNGERER | ステファン ウンケラー"
+title: "Stefan UNGERER | ステファン ウンゲラー"
 name_en: "Stefan UNGERER"
-name_ja: "ステファン ウンケラー"
+name_ja: "ステファン ウンゲラー"
 slug: "stefan-ungerer"
 position: "SH"
 height: "183.0"

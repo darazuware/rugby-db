@@ -1,7 +1,7 @@
 ---
-title: "Tatsuhiro Ozaki | 尾サキ"
+title: "Tatsuhiro Ozaki | 尾ザキ"
 name_en: "Tatsuhiro Ozaki"
-name_ja: "尾サキ"
+name_ja: "尾ザキ"
 slug: "tatsuhiro-ozaki"
 position: "FB"
 height: "185.0"

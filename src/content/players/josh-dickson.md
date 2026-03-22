@@ -1,7 +1,7 @@
 ---
-title: "Josh Dickson | ショシュ ティクソン"
+title: "Josh Dickson | ジョシュ ディクソン"
 name_en: "Josh Dickson"
-name_ja: "ショシュ ティクソン"
+name_ja: "ジョシュ ディクソン"
 slug: "josh-dickson"
 position: "LO"
 height: "200.0"

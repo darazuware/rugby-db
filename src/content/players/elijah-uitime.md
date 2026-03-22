@@ -1,7 +1,7 @@
 ---
-title: "Elijah Uitime | エライシャ ウィチメ"
+title: "Elijah Uitime | エライジャ ウィチメ"
 name_en: "Elijah Uitime"
-name_ja: "エライシャ ウィチメ"
+name_ja: "エライジャ ウィチメ"
 slug: "elijah-uitime"
 position: "FL/No8"
 height: "185.0"

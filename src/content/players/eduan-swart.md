@@ -1,7 +1,7 @@
 ---
-title: "Eduan SWART | エトゥアン スウォート"
+title: "Eduan SWART | エドゥアン スウォート"
 name_en: "Eduan SWART"
-name_ja: "エトゥアン スウォート"
+name_ja: "エドゥアン スウォート"
 slug: "eduan-swart"
 position: "PR"
 height: "186.0"

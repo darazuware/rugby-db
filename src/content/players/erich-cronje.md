@@ -1,7 +1,7 @@
 ---
-title: "Erich CRONJE | エリッヒ クロンシェ"
+title: "Erich CRONJE | エリッヒ クロンジェ"
 name_en: "Erich CRONJE"
-name_ja: "エリッヒ クロンシェ"
+name_ja: "エリッヒ クロンジェ"
 slug: "erich-cronje"
 position: "CTB"
 height: "184.0"

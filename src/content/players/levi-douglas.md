@@ -1,7 +1,7 @@
 ---
-title: "Levi DOUGLAS | リーウァイ タクラス"
+title: "Levi DOUGLAS | リーヴァイ ダグラス"
 name_en: "Levi DOUGLAS"
-name_ja: "リーウァイ タクラス"
+name_ja: "リーヴァイ ダグラス"
 slug: "levi-douglas"
 position: "LO"
 height: "196.0"

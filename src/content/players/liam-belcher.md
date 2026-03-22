@@ -1,7 +1,7 @@
 ---
-title: "Liam BELCHER | リアム ヘルチャー"
+title: "Liam BELCHER | リアム ベルチャー"
 name_en: "Liam BELCHER"
-name_ja: "リアム ヘルチャー"
+name_ja: "リアム ベルチャー"
 slug: "liam-belcher"
 position: "HO"
 height: "177.0"

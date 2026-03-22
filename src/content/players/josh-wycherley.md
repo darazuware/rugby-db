@@ -1,7 +1,7 @@
 ---
-title: "Josh WYCHERLEY | ショシュ ウィチャリー"
+title: "Josh WYCHERLEY | ジョシュ ウィチャリー"
 name_en: "Josh WYCHERLEY"
-name_ja: "ショシュ ウィチャリー"
+name_ja: "ジョシュ ウィチャリー"
 slug: "josh-wycherley"
 position: "PR"
 height: "183.0"

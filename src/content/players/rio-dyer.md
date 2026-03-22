@@ -1,7 +1,7 @@
 ---
-title: "Rio DYER | リオ タイアー"
+title: "Rio DYER | リオ ダイアー"
 name_en: "Rio DYER"
-name_ja: "リオ タイアー"
+name_ja: "リオ ダイアー"
 slug: "rio-dyer"
 position: "WTB"
 height: "185.0"

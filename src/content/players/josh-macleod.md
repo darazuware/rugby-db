@@ -1,7 +1,7 @@
 ---
-title: "Josh MACLEOD | ショシュ マクラウト"
+title: "Josh MACLEOD | ジョシュ マクラウド"
 name_en: "Josh MACLEOD"
-name_ja: "ショシュ マクラウト"
+name_ja: "ジョシュ マクラウド"
 slug: "josh-macleod"
 position: "FL/No8"
 height: "189.0"

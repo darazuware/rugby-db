@@ -1,7 +1,7 @@
 ---
-title: "Justin Sangster | シャスティン サンクスター"
+title: "Justin Sangster | ジャスティン サングスター"
 name_en: "Justin Sangster"
-name_ja: "シャスティン サンクスター"
+name_ja: "ジャスティン サングスター"
 slug: "justin-sangster"
 position: "LO"
 height: "198.0"

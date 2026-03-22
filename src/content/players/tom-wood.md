@@ -1,7 +1,7 @@
 ---
-title: "Tom WOOD | トム ウット"
+title: "Tom WOOD | トム ウッド"
 name_en: "Tom WOOD"
-name_ja: "トム ウット"
+name_ja: "トム ウッド"
 slug: "tom-wood"
 position: "SO"
 height: "188.0"

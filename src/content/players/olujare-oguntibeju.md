@@ -1,7 +1,7 @@
 ---
-title: "Olujare OGUNTIBEJU | オルシャレ オクンティヘシュ"
+title: "Olujare OGUNTIBEJU | オルジャレ オグンティベジュ"
 name_en: "Olujare OGUNTIBEJU"
-name_ja: "オルシャレ オクンティヘシュ"
+name_ja: "オルジャレ オグンティベジュ"
 slug: "olujare-oguntibeju"
 position: "LO"
 height: "202.0"

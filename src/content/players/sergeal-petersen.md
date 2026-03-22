@@ -1,7 +1,7 @@
 ---
-title: "Sergeal PETERSEN | サーシール ヒーターセン"
+title: "Sergeal PETERSEN | サージール ピーターセン"
 name_en: "Sergeal PETERSEN"
-name_ja: "サーシール ヒーターセン"
+name_ja: "サージール ピーターセン"
 slug: "sergeal-petersen"
 position: "WTB"
 height: "173.0"

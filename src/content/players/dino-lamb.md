@@ -1,7 +1,7 @@
 ---
-title: "Dino Lamb | ティノ ラム"
+title: "Dino Lamb | ディノ ラム"
 name_en: "Dino Lamb"
-name_ja: "ティノ ラム"
+name_ja: "ディノ ラム"
 slug: "dino-lamb"
 position: "LO"
 height: "198.0"

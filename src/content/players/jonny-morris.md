@@ -1,7 +1,7 @@
 ---
-title: "Jonny MORRIS | ショニー モリス"
+title: "Jonny MORRIS | ジョニー モリス"
 name_en: "Jonny MORRIS"
-name_ja: "ショニー モリス"
+name_ja: "ジョニー モリス"
 slug: "jonny-morris"
 position: "FL/No8"
 height: "192.0"

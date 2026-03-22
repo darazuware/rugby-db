@@ -1,7 +1,7 @@
 ---
-title: "Shannon Frizell | シャノン フリセル"
+title: "Shannon Frizell | シャノン フリゼル"
 name_en: "Shannon Frizell"
-name_ja: "シャノン フリセル"
+name_ja: "シャノン フリゼル"
 slug: "shannon-frizell"
 position: "FL/No8"
 height: "195.0"

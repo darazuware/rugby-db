@@ -1,7 +1,7 @@
 ---
-title: "Manaaki Selby-Rickit | マナアキ セルヒーリキット"
+title: "Manaaki Selby-Rickit | マナアキ セルビーリキット"
 name_en: "Manaaki Selby-Rickit"
-name_ja: "マナアキ セルヒーリキット"
+name_ja: "マナアキ セルビーリキット"
 slug: "manaaki-selby-rickit"
 position: "LO"
 height: "200.0"

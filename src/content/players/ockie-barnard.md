@@ -1,7 +1,7 @@
 ---
-title: "Ockie Barnard | オッキー ハーナート"
+title: "Ockie Barnard | オッキー バーナード"
 name_en: "Ockie Barnard"
-name_ja: "オッキー ハーナート"
+name_ja: "オッキー バーナード"
 slug: "ockie-barnard"
 position: "LO"
 height: "200.0"

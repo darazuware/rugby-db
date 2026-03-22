@@ -1,7 +1,7 @@
 ---
-title: "Bobby POWER | ホヒー ハワー"
+title: "Bobby POWER | ボビー パワー"
 name_en: "Bobby POWER"
-name_ja: "ホヒー ハワー"
+name_ja: "ボビー パワー"
 slug: "bobby-power"
 position: "FL/No8"
 height: "192.0"

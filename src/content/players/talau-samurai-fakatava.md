@@ -1,7 +1,7 @@
 ---
-title: "Talau Samurai Fakatava | ファカタウァ タラウ侍"
+title: "Talau Samurai Fakatava | ファカタヴァ タラウ侍"
 name_en: "Talau Samurai Fakatava"
-name_ja: "ファカタウァ タラウ侍"
+name_ja: "ファカタヴァ タラウ侍"
 slug: "talau-samurai-fakatava"
 position: "LO"
 height: "191.0"

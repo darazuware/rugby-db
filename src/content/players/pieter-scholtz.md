@@ -1,7 +1,7 @@
 ---
-title: "Pieter Scholtz | ヒーター ショルツ"
+title: "Pieter Scholtz | ピーター ショルツ"
 name_en: "Pieter Scholtz"
-name_ja: "ヒーター ショルツ"
+name_ja: "ピーター ショルツ"
 slug: "pieter-scholtz"
 position: "PR"
 height: "187.0"

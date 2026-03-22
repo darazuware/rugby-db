@@ -1,7 +1,7 @@
 ---
-title: "Seta Naivaluwaqa | ナイハルワカ セタ"
+title: "Seta Naivaluwaqa | ナイバルワガ セタ"
 name_en: "Seta Naivaluwaqa"
-name_ja: "ナイハルワカ セタ"
+name_ja: "ナイバルワガ セタ"
 slug: "seta-naivaluwaqa"
 position: "LO"
 height: "187.0"

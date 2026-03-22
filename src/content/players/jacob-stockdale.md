@@ -1,7 +1,7 @@
 ---
-title: "Jacob STOCKDALE | シェイコフ-ストックテイル"
+title: "Jacob STOCKDALE | ジェイコブ-ストックデイル"
 name_en: "Jacob STOCKDALE"
-name_ja: "シェイコフ-ストックテイル"
+name_ja: "ジェイコブ-ストックデイル"
 slug: "jacob-stockdale"
 position: "WTB"
 height: "191.0"

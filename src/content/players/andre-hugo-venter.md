@@ -1,7 +1,7 @@
 ---
-title: "Andre-Hugo VENTER | アントレ=ユーコー フェンター"
+title: "Andre-Hugo VENTER | アンドレ=ユーゴー フェンター"
 name_en: "Andre-Hugo VENTER"
-name_ja: "アントレ=ユーコー フェンター"
+name_ja: "アンドレ=ユーゴー フェンター"
 slug: "andre-hugo-venter"
 position: "HO"
 height: "187.0"

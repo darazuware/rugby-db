@@ -1,7 +1,7 @@
 ---
-title: "Shane JENNINGS | シェーン シェニンクス"
+title: "Shane JENNINGS | シェーン ジェニングス"
 name_en: "Shane JENNINGS"
-name_ja: "シェーン シェニンクス"
+name_ja: "シェーン ジェニングス"
 slug: "shane-jennings"
 position: "WTB"
 height: "191.0"

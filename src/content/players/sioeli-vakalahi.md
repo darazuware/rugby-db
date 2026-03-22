@@ -1,7 +1,7 @@
 ---
-title: "Sioeli Vakalahi | シオエリ ウァカラヒ"
+title: "Sioeli Vakalahi | シオエリ ヴァカラヒ"
 name_en: "Sioeli Vakalahi"
-name_ja: "シオエリ ウァカラヒ"
+name_ja: "シオエリ ヴァカラヒ"
 slug: "sioeli-vakalahi"
 position: "PR"
 height: "178.0"

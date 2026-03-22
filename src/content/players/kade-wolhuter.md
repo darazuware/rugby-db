@@ -1,7 +1,7 @@
 ---
-title: "Kade WOLHUTER | ケイト ウォルフター"
+title: "Kade WOLHUTER | ケイド ウォルフター"
 name_en: "Kade WOLHUTER"
-name_ja: "ケイト ウォルフター"
+name_ja: "ケイド ウォルフター"
 slug: "kade-wolhuter"
 position: "SO"
 height: "182.0"

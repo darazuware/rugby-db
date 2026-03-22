@@ -1,7 +1,7 @@
 ---
-title: "Daniel GREEN | タニエル クリーン"
+title: "Daniel GREEN | ダニエル グリーン"
 name_en: "Daniel GREEN"
-name_ja: "タニエル クリーン"
+name_ja: "ダニエル グリーン"
 slug: "daniel-green"
 position: "FB"
 height: "183.0"

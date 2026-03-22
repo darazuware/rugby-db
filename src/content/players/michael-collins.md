@@ -1,7 +1,7 @@
 ---
-title: "Michael Collins | マイケル コリンス"
+title: "Michael Collins | マイケル コリンズ"
 name_en: "Michael Collins"
-name_ja: "マイケル コリンス"
+name_ja: "マイケル コリンズ"
 slug: "michael-collins"
 position: "UTB"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Paul BOYLE | ホール ホイル"
+title: "Paul BOYLE | ポール ボイル"
 name_en: "Paul BOYLE"
-name_ja: "ホール ホイル"
+name_ja: "ポール ボイル"
 slug: "paul-boyle"
 position: "FL/No8"
 height: "189.0"

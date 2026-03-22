@@ -1,7 +1,7 @@
 ---
-title: "Josh NEILL | ショシュ ニール"
+title: "Josh NEILL | ジョシュ ニール"
 name_en: "Josh NEILL"
-name_ja: "ショシュ ニール"
+name_ja: "ジョシュ ニール"
 slug: "josh-neill"
 position: "FL/No8"
 height: ""

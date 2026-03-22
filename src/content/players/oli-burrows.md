@@ -1,7 +1,7 @@
 ---
-title: "Oli BURROWS | オリ ハロウス"
+title: "Oli BURROWS | オリ バロウズ"
 name_en: "Oli BURROWS"
-name_ja: "オリ ハロウス"
+name_ja: "オリ バロウズ"
 slug: "oli-burrows"
 position: "HO"
 height: "188.0"

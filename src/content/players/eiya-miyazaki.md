@@ -1,7 +1,7 @@
 ---
-title: "Eiya Miyazaki | 宮サキ"
+title: "Eiya Miyazaki | 宮ザキ"
 name_en: "Eiya Miyazaki"
-name_ja: "宮サキ"
+name_ja: "宮ザキ"
 slug: "eiya-miyazaki"
 position: "WTB"
 height: "176.0"

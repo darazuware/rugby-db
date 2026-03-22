@@ -1,7 +1,7 @@
 ---
-title: "Dan HALKON | タン ハルコン"
+title: "Dan HALKON | ダン ハルコン"
 name_en: "Dan HALKON"
-name_ja: "タン ハルコン"
+name_ja: "ダン ハルコン"
 slug: "dan-halkon"
 position: "LO"
 height: "200.0"

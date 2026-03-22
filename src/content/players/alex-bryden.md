@@ -1,7 +1,7 @@
 ---
-title: "Alex BRYDEN | アレックス フライテン"
+title: "Alex BRYDEN | アレックス ブライデン"
 name_en: "Alex BRYDEN"
-name_ja: "アレックス フライテン"
+name_ja: "アレックス ブライデン"
 slug: "alex-bryden"
 position: "CTB"
 height: "193.0"

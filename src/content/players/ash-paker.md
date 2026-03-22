@@ -1,7 +1,7 @@
 ---
-title: "Ash Paker | ハーカー アッシュ"
+title: "Ash Paker | パーカー アッシュ"
 name_en: "Ash Paker"
-name_ja: "ハーカー アッシュ"
+name_ja: "パーカー アッシュ"
 slug: "ash-paker"
 position: "FL/No8"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jaco GROBBELAAR | ヤコ クロフラール"
+title: "Jaco GROBBELAAR | ヤコ グロブラール"
 name_en: "Jaco GROBBELAAR"
-name_ja: "ヤコ クロフラール"
+name_ja: "ヤコ グロブラール"
 slug: "jaco-grobbelaar"
 position: "FL/No8"
 height: "198.0"

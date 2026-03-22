@@ -1,7 +1,7 @@
 ---
-title: "Sam Jeffries | サム シェフリース"
+title: "Sam Jeffries | サム ジェフリーズ"
 name_en: "Sam Jeffries"
-name_ja: "サム シェフリース"
+name_ja: "サム ジェフリーズ"
 slug: "sam-jeffries"
 position: "LO"
 height: "198.0"

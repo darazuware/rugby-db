@@ -1,7 +1,7 @@
 ---
-title: "Joe COWELL | ショー コーウェル"
+title: "Joe COWELL | ジョー コーウェル"
 name_en: "Joe COWELL"
-name_ja: "ショー コーウェル"
+name_ja: "ジョー コーウェル"
 slug: "joe-cowell"
 position: "PR"
 height: "187.0"

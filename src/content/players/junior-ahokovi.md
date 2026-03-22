@@ -1,7 +1,7 @@
 ---
-title: "Junior Ahokovi | シュニア アフォコヒ"
+title: "Junior Ahokovi | ジュニア アフォコビ"
 name_en: "Junior Ahokovi"
-name_ja: "シュニア アフォコヒ"
+name_ja: "ジュニア アフォコビ"
 slug: "junior-ahokovi"
 position: "LO"
 height: "196.0"

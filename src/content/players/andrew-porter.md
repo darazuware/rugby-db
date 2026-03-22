@@ -1,7 +1,7 @@
 ---
-title: "Andrew PORTER | アントリュー PORTER"
+title: "Andrew PORTER | アンドリュー PORTER"
 name_en: "Andrew PORTER"
-name_ja: "アントリュー PORTER"
+name_ja: "アンドリュー PORTER"
 slug: "andrew-porter"
 position: "PR"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Teddy WILLIAMS | Teddy ウィリアムス"
+title: "Teddy WILLIAMS | Teddy ウィリアムズ"
 name_en: "Teddy WILLIAMS"
-name_ja: "Teddy ウィリアムス"
+name_ja: "Teddy ウィリアムズ"
 slug: "teddy-williams"
 position: "Back row"
 height: "200.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sam GILBERT | サム キルハート"
+title: "Sam GILBERT | サム ギルバート"
 name_en: "Sam GILBERT"
-name_ja: "サム キルハート"
+name_ja: "サム ギルバート"
 slug: "sam-gilbert"
 position: "WTB"
 height: "189.0"

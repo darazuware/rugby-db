@@ -1,7 +1,7 @@
 ---
-title: "Will CONNORS | ウィル コナース"
+title: "Will CONNORS | ウィル コナーズ"
 name_en: "Will CONNORS"
-name_ja: "ウィル コナース"
+name_ja: "ウィル コナーズ"
 slug: "will-connors"
 position: "FL/No8"
 height: "196.0"

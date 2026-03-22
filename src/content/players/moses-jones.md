@@ -1,7 +1,7 @@
 ---
-title: "Moses Jones | モーセス ショーンス"
+title: "Moses Jones | モーゼス ジョーンズ"
 name_en: "Moses Jones"
-name_ja: "モーセス ショーンス"
+name_ja: "モーゼス ジョーンズ"
 slug: "moses-jones"
 position: "SO"
 height: "190.0"

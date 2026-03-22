@@ -1,7 +1,7 @@
 ---
-title: "Ross BRAUDE | ロス フロート"
+title: "Ross BRAUDE | ロス ブロード"
 name_en: "Ross BRAUDE"
-name_ja: "ロス フロート"
+name_ja: "ロス ブロード"
 slug: "ross-braude"
 position: "SH"
 height: "168.0"

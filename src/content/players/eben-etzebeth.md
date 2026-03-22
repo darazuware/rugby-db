@@ -1,7 +1,7 @@
 ---
-title: "Eben ETZEBETH | エヘン-エツヘス"
+title: "Eben ETZEBETH | エベン-エツベス"
 name_en: "Eben ETZEBETH"
-name_ja: "エヘン-エツヘス"
+name_ja: "エベン-エツベス"
 slug: "eben-etzebeth"
 position: "LO"
 height: "202.0"

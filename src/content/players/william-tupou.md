@@ -1,7 +1,7 @@
 ---
-title: "William Tupou | ウィリアム トゥホウ"
+title: "William Tupou | ウィリアム トゥポウ"
 name_en: "William Tupou"
-name_ja: "ウィリアム トゥホウ"
+name_ja: "ウィリアム トゥポウ"
 slug: "william-tupou"
 position: "FL/No8"
 height: "188.0"

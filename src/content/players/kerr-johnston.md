@@ -1,7 +1,7 @@
 ---
-title: "Kerr JOHNSTON | カー ションストン"
+title: "Kerr JOHNSTON | カー ジョンストン"
 name_en: "Kerr JOHNSTON"
-name_ja: "カー ションストン"
+name_ja: "カー ジョンストン"
 slug: "kerr-johnston"
 position: "WTB"
 height: "185.0"

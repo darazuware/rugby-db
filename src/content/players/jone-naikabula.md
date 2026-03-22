@@ -1,7 +1,7 @@
 ---
-title: "Jone Naikabula | ショネ ナイカフラ"
+title: "Jone Naikabula | ジョネ ナイカブラ"
 name_en: "Jone Naikabula"
-name_ja: "ショネ ナイカフラ"
+name_ja: "ジョネ ナイカブラ"
 slug: "jone-naikabula"
 position: "WTB"
 height: "177.0"

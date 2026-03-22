@@ -1,7 +1,7 @@
 ---
-title: "Katlego LETEBELE | カレコ レテヘレ"
+title: "Katlego LETEBELE | カレゴ レテベレ"
 name_en: "Katlego LETEBELE"
-name_ja: "カレコ レテヘレ"
+name_ja: "カレゴ レテベレ"
 slug: "katlego-letebele"
 position: "CTB"
 height: "187.0"

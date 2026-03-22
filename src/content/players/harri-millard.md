@@ -1,7 +1,7 @@
 ---
-title: "Harri MILLARD | ハリー-ミラート"
+title: "Harri MILLARD | ハリー-ミラード"
 name_en: "Harri MILLARD"
-name_ja: "ハリー-ミラート"
+name_ja: "ハリー-ミラード"
 slug: "harri-millard"
 position: "CTB"
 height: "183.0"

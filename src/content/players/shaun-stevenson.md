@@ -1,7 +1,7 @@
 ---
-title: "Shaun Stevenson | ショーン スティーフンソン"
+title: "Shaun Stevenson | ショーン スティーブンソン"
 name_en: "Shaun Stevenson"
-name_ja: "ショーン スティーフンソン"
+name_ja: "ショーン スティーブンソン"
 slug: "shaun-stevenson"
 position: "FB"
 height: "190.0"

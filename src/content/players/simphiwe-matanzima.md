@@ -1,7 +1,7 @@
 ---
-title: "Simphiwe MATANZIMA | シンフウェ マタンシマ"
+title: "Simphiwe MATANZIMA | シンプウェ マタンジマ"
 name_en: "Simphiwe MATANZIMA"
-name_ja: "シンフウェ マタンシマ"
+name_ja: "シンプウェ マタンジマ"
 slug: "simphiwe-matanzima"
 position: "PR"
 height: "183.0"

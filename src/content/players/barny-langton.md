@@ -1,7 +1,7 @@
 ---
-title: "Barny LANGTON | ハーニー ランクトン"
+title: "Barny LANGTON | バーニー ラングトン"
 name_en: "Barny LANGTON"
-name_ja: "ハーニー ランクトン"
+name_ja: "バーニー ラングトン"
 slug: "barny-langton"
 position: "LO"
 height: "195.0"

@@ -1,7 +1,7 @@
 ---
-title: "Alex GROVES | アレックス クローウス"
+title: "Alex GROVES | アレックス グローヴス"
 name_en: "Alex GROVES"
-name_ja: "アレックス クローウス"
+name_ja: "アレックス グローヴス"
 slug: "alex-groves"
 position: "LO"
 height: "206.0"

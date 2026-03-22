@@ -1,7 +1,7 @@
 ---
-title: "Will GREATBANKS | ウィル クレートハンクス"
+title: "Will GREATBANKS | ウィル グレートバンクス"
 name_en: "Will GREATBANKS"
-name_ja: "ウィル クレートハンクス"
+name_ja: "ウィル グレートバンクス"
 slug: "william-greatbanks"
 position: "LO"
 height: "198.0"

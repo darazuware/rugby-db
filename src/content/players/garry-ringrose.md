@@ -1,7 +1,7 @@
 ---
-title: "Garry RINGROSE | キャリー-リンクロース"
+title: "Garry RINGROSE | ギャリー-リングローズ"
 name_en: "Garry RINGROSE"
-name_ja: "キャリー-リンクロース"
+name_ja: "ギャリー-リングローズ"
 slug: "garry-ringrose"
 position: "CTB"
 height: "186.0"

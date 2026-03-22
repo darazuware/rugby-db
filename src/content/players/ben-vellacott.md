@@ -1,7 +1,7 @@
 ---
-title: "Ben VELLACOTT | ヘン VELLACOTT"
+title: "Ben VELLACOTT | ベン VELLACOTT"
 name_en: "Ben VELLACOTT"
-name_ja: "ヘン VELLACOTT"
+name_ja: "ベン VELLACOTT"
 slug: "ben-vellacott"
 position: "SH"
 height: "167.0"

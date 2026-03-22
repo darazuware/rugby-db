@@ -1,7 +1,7 @@
 ---
-title: "James RYAN | シェームス ライアン"
+title: "James RYAN | ジェームズ ライアン"
 name_en: "James RYAN"
-name_ja: "シェームス ライアン"
+name_ja: "ジェームズ ライアン"
 slug: "james-ryan"
 position: "LO"
 height: "200.0"

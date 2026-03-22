@@ -1,7 +1,7 @@
 ---
-title: "Viliame Tuidraki | ウィリアメ ツイトラキ"
+title: "Viliame Tuidraki | ヴィリアメ ツイドラキ"
 name_en: "Viliame Tuidraki"
-name_ja: "ウィリアメ ツイトラキ"
+name_ja: "ヴィリアメ ツイドラキ"
 slug: "viliame-tuidraki"
 position: "WTB"
 height: "184.0"

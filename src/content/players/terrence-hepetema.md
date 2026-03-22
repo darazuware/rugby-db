@@ -1,7 +1,7 @@
 ---
-title: "Terrence Hepetema | テレンス へフテマ"
+title: "Terrence Hepetema | テレンス へプテマ"
 name_en: "Terrence Hepetema"
-name_ja: "テレンス へフテマ"
+name_ja: "テレンス へプテマ"
 slug: "terrence-hepetema"
 position: "CTB"
 height: "183.0"

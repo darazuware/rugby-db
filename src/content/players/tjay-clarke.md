@@ -1,7 +1,7 @@
 ---
-title: "Tjay Clarke | ティーシェイ クラーク"
+title: "Tjay Clarke | ティージェイ クラーク"
 name_en: "Tjay Clarke"
-name_ja: "ティーシェイ クラーク"
+name_ja: "ティージェイ クラーク"
 slug: "tjay-clarke"
 position: "WTB"
 height: "181.0"

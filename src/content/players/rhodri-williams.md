@@ -1,7 +1,7 @@
 ---
-title: "Rhodri WILLIAMS | ロトリ ウィリアムス"
+title: "Rhodri WILLIAMS | ロドリ ウィリアムズ"
 name_en: "Rhodri WILLIAMS"
-name_ja: "ロトリ ウィリアムス"
+name_ja: "ロドリ ウィリアムズ"
 slug: "rhodri-williams"
 position: "SH"
 height: "179.0"

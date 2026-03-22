@@ -1,7 +1,7 @@
 ---
-title: "Marnus POTGIETER | マルナス ホトヒーター"
+title: "Marnus POTGIETER | マルナス ポトヒーター"
 name_en: "Marnus POTGIETER"
-name_ja: "マルナス ホトヒーター"
+name_ja: "マルナス ポトヒーター"
 slug: "marnus-potgieter"
 position: "WTB"
 height: "188.0"

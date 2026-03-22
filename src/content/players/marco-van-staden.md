@@ -1,7 +1,7 @@
 ---
-title: "Marco VAN STADEN | マルコ ファン スターテン"
+title: "Marco VAN STADEN | マルコ ファン スターデン"
 name_en: "Marco VAN STADEN"
-name_ja: "マルコ ファン スターテン"
+name_ja: "マルコ ファン スターデン"
 slug: "marco-van-staden"
 position: "Back row"
 height: "184.0"

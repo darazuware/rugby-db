@@ -1,7 +1,7 @@
 ---
-title: "Josh IOANE | ショシュ イオアネ"
+title: "Josh IOANE | ジョシュ イオアネ"
 name_en: "Josh IOANE"
-name_ja: "ショシュ イオアネ"
+name_ja: "ジョシュ イオアネ"
 slug: "josh-ioane"
 position: "SO"
 height: "180.0"

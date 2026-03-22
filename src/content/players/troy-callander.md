@@ -1,7 +1,7 @@
 ---
-title: "Troy Callander | トロイ カレンター"
+title: "Troy Callander | トロイ カレンダー"
 name_en: "Troy Callander"
-name_ja: "トロイ カレンター"
+name_ja: "トロイ カレンダー"
 slug: "troy-callander"
 position: "LO"
 height: "198.0"

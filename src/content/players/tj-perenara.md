@@ -1,7 +1,7 @@
 ---
-title: "TJ Perenara | TJ ヘレナラ"
+title: "TJ Perenara | TJ ペレナラ"
 name_en: "TJ Perenara"
-name_ja: "TJ ヘレナラ"
+name_ja: "TJ ペレナラ"
 slug: "tj-perenara"
 position: "SH"
 height: "181.0"

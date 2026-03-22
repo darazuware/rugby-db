@@ -1,7 +1,7 @@
 ---
-title: "Murray Douglas | マリー タクラス"
+title: "Murray Douglas | マリー ダグラス"
 name_en: "Murray Douglas"
-name_ja: "マリー タクラス"
+name_ja: "マリー ダグラス"
 slug: "murray-douglas"
 position: "LO"
 height: "198.0"

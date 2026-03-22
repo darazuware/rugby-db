@@ -1,7 +1,7 @@
 ---
-title: "Huw ANDERSON | ヒュー-アンターソン"
+title: "Huw ANDERSON | ヒュー-アンダーソン"
 name_en: "Huw ANDERSON"
-name_ja: "ヒュー-アンターソン"
+name_ja: "ヒュー-アンダーソン"
 slug: "huw-anderson"
 position: "FB"
 height: "178.0"

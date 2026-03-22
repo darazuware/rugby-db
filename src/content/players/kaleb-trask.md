@@ -1,7 +1,7 @@
 ---
-title: "Kaleb Trask | ケイレフ トラスク"
+title: "Kaleb Trask | ケイレブ トラスク"
 name_en: "Kaleb Trask"
-name_ja: "ケイレフ トラスク"
+name_ja: "ケイレブ トラスク"
 slug: "kaleb-trask"
 position: "SO"
 height: "180.0"

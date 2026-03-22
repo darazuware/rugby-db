@@ -1,7 +1,7 @@
 ---
-title: "Jac MORGAN | シャック-モーカン"
+title: "Jac MORGAN | ジャック-モーガン"
 name_en: "Jac MORGAN"
-name_ja: "シャック-モーカン"
+name_ja: "ジャック-モーガン"
 slug: "jac-morgan"
 position: "FL/No8"
 height: "182.0"

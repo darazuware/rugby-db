@@ -1,7 +1,7 @@
 ---
-title: "Jed Brown | シェト フラウン"
+title: "Jed Brown | ジェド ブラウン"
 name_en: "Jed Brown"
-name_ja: "シェト フラウン"
+name_ja: "ジェド ブラウン"
 slug: "jed-brown"
 position: "FL/No8"
 height: "185.0"

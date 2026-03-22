@@ -1,7 +1,7 @@
 ---
-title: "James LOWE | シェームス-ロウ"
+title: "James LOWE | ジェームズ-ロウ"
 name_en: "James LOWE"
-name_ja: "シェームス-ロウ"
+name_ja: "ジェームズ-ロウ"
 slug: "james-lowe"
 position: "WTB"
 height: "188.0"

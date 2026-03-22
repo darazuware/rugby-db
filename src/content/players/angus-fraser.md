@@ -1,7 +1,7 @@
 ---
-title: "Angus FRASER | アンカス フレイサー"
+title: "Angus FRASER | アンガス フレイザー"
 name_en: "Angus FRASER"
-name_ja: "アンカス フレイサー"
+name_ja: "アンガス フレイザー"
 slug: "angus-fraser"
 position: "HO"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Reuben MORGAN-WILLIAMS | ルーヘン モーカン=ウィリアムス"
+title: "Reuben MORGAN-WILLIAMS | ルーベン モーガン=ウィリアムズ"
 name_en: "Reuben MORGAN-WILLIAMS"
-name_ja: "ルーヘン モーカン=ウィリアムス"
+name_ja: "ルーベン モーガン=ウィリアムズ"
 slug: "reuben-morgan-williams"
 position: "SH"
 height: "180.0"

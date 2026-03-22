@@ -1,7 +1,7 @@
 ---
-title: "Stravino JACOBS | ストラウィーノ シェイコフス"
+title: "Stravino JACOBS | ストラヴィーノ ジェイコブス"
 name_en: "Stravino JACOBS"
-name_ja: "ストラウィーノ シェイコフス"
+name_ja: "ストラヴィーノ ジェイコブス"
 slug: "stravino-jacobs"
 position: "WTB"
 height: "180.0"

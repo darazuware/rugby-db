@@ -1,7 +1,7 @@
 ---
-title: "Burger Odendaal | ハーカー オーテンタール"
+title: "Burger Odendaal | バーガー オーデンダール"
 name_en: "Burger Odendaal"
-name_ja: "ハーカー オーテンタール"
+name_ja: "バーガー オーデンダール"
 slug: "burger-odendaal"
 position: "CTB"
 height: "187.0"

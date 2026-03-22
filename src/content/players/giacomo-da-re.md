@@ -1,7 +1,7 @@
 ---
-title: "Giacomo DA RE | シャコモ タ レ"
+title: "Giacomo DA RE | ジャコモ ダ レ"
 name_en: "Giacomo DA RE"
-name_ja: "シャコモ タ レ"
+name_ja: "ジャコモ ダ レ"
 slug: "giacomo-da-re"
 position: "SO"
 height: "180.0"

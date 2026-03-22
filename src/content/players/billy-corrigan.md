@@ -1,7 +1,7 @@
 ---
-title: "Billy CORRIGAN | ヒリー コリカン"
+title: "Billy CORRIGAN | ビリー コリガン"
 name_en: "Billy CORRIGAN"
-name_ja: "ヒリー コリカン"
+name_ja: "ビリー コリガン"
 slug: "billy-corrigan"
 position: "LO"
 height: "198.0"

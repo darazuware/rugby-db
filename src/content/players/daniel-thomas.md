@@ -1,7 +1,7 @@
 ---
-title: "Dan THOMAS | タン トーマス"
+title: "Dan THOMAS | ダン トーマス"
 name_en: "Dan THOMAS"
-name_ja: "タン トーマス"
+name_ja: "ダン トーマス"
 slug: "daniel-thomas"
 position: "FL/No8"
 height: "183.0"

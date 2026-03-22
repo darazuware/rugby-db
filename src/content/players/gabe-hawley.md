@@ -1,7 +1,7 @@
 ---
-title: "Gabe HAWLEY | ケイフ ホーリー"
+title: "Gabe HAWLEY | ゲイブ ホーリー"
 name_en: "Gabe HAWLEY"
-name_ja: "ケイフ ホーリー"
+name_ja: "ゲイブ ホーリー"
 slug: "gabe-hawley"
 position: "PR"
 height: "190.0"

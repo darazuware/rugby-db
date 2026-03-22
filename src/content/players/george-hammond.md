@@ -1,7 +1,7 @@
 ---
-title: "George Hammond | ショーシ ハモント"
+title: "George Hammond | ジョージ ハモンド"
 name_en: "George Hammond"
-name_ja: "ショーシ ハモント"
+name_ja: "ジョージ ハモンド"
 slug: "george-hammond"
 position: "LO"
 height: "199.0"

@@ -1,7 +1,7 @@
 ---
-title: "Will DAVIES-KING | ウィル-テイウィス=キンク"
+title: "Will DAVIES-KING | ウィル-デイヴィス=キング"
 name_en: "Will DAVIES-KING"
-name_ja: "ウィル-テイウィス=キンク"
+name_ja: "ウィル-デイヴィス=キング"
 slug: "will-davies-king"
 position: "PR"
 height: "193.0"

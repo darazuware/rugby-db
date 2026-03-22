@@ -1,7 +1,7 @@
 ---
-title: "Bradley MCNAMARA | フラットリー マクナマラ"
+title: "Bradley MCNAMARA | ブラッドリー マクナマラ"
 name_en: "Bradley MCNAMARA"
-name_ja: "フラットリー マクナマラ"
+name_ja: "ブラッドリー マクナマラ"
 slug: "bradley-mcnamara"
 position: "FB"
 height: ""

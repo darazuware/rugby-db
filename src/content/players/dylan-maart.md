@@ -1,7 +1,7 @@
 ---
-title: "Dylan MAART | ティラン マート"
+title: "Dylan MAART | ディラン マート"
 name_en: "Dylan MAART"
-name_ja: "ティラン マート"
+name_ja: "ディラン マート"
 slug: "dylan-maart"
 position: "WTB"
 height: "185.0"

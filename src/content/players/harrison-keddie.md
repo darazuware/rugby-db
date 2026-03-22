@@ -1,7 +1,7 @@
 ---
-title: "Harri KEDDIE | ハリー-ケティー"
+title: "Harri KEDDIE | ハリー-ケディー"
 name_en: "Harri KEDDIE"
-name_ja: "ハリー-ケティー"
+name_ja: "ハリー-ケディー"
 slug: "harrison-keddie"
 position: "FL/No8"
 height: "188.0"

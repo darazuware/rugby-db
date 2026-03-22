@@ -1,7 +1,7 @@
 ---
-title: "Josh ADAMS | ショシュ アタムス"
+title: "Josh ADAMS | ジョシュ アダムス"
 name_en: "Josh ADAMS"
-name_ja: "ショシュ アタムス"
+name_ja: "ジョシュ アダムス"
 slug: "josh-adams"
 position: "WTB"
 height: "186.0"

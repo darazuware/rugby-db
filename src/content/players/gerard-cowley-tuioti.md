@@ -1,7 +1,7 @@
 ---
-title: "Gerard Cowley-tuioti | シェラート カウリートゥイオティ"
+title: "Gerard Cowley-tuioti | ジェラード カウリートゥイオティ"
 name_en: "Gerard Cowley-tuioti"
-name_ja: "シェラート カウリートゥイオティ"
+name_ja: "ジェラード カウリートゥイオティ"
 slug: "gerard-cowley-tuioti"
 position: "LO"
 height: "197.0"

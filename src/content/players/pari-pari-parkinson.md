@@ -1,7 +1,7 @@
 ---
-title: "Pari Pari Parkinson | ハリハリ ハーキンソン"
+title: "Pari Pari Parkinson | パリパリ パーキンソン"
 name_en: "Pari Pari Parkinson"
-name_ja: "ハリハリ ハーキンソン"
+name_ja: "パリパリ パーキンソン"
 slug: "pari-pari-parkinson"
 position: "LO"
 height: "204.0"

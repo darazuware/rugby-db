@@ -1,7 +1,7 @@
 ---
-title: "Malgene Ilaua | マルシーン イラウア"
+title: "Malgene Ilaua | マルジーン イラウア"
 name_en: "Malgene Ilaua"
-name_ja: "マルシーン イラウア"
+name_ja: "マルジーン イラウア"
 slug: "malgene-ilaua"
 position: "FL/No8"
 height: "187.0"

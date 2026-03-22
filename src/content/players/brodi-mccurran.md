@@ -1,7 +1,7 @@
 ---
-title: "Brodi Mccurran | マクカラン フロティ"
+title: "Brodi Mccurran | マクカラン ブロディ"
 name_en: "Brodi Mccurran"
-name_ja: "マクカラン フロティ"
+name_ja: "マクカラン ブロディ"
 slug: "brodi-mccurran"
 position: "FL/No8"
 height: "193.0"

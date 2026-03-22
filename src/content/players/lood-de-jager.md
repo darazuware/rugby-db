@@ -1,7 +1,7 @@
 ---
-title: "Lood de Jager | ルート テヤハー"
+title: "Lood de Jager | ルード デヤハー"
 name_en: "Lood de Jager"
-name_ja: "ルート テヤハー"
+name_ja: "ルード デヤハー"
 slug: "lood-de-jager"
 position: "LO"
 height: "206.0"

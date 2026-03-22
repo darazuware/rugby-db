@@ -1,7 +1,7 @@
 ---
-title: "Taine PLUMTREE | テイン フラムツリー"
+title: "Taine PLUMTREE | テイン プラムツリー"
 name_en: "Taine PLUMTREE"
-name_ja: "テイン フラムツリー"
+name_ja: "テイン プラムツリー"
 slug: "taine-plumtree"
 position: "LO"
 height: "195.0"

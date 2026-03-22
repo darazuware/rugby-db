@@ -1,7 +1,7 @@
 ---
-title: "Jacopo TRULLA | ヤコホ-トゥルッラ"
+title: "Jacopo TRULLA | ヤコポ-トゥルッラ"
 name_en: "Jacopo TRULLA"
-name_ja: "ヤコホ-トゥルッラ"
+name_ja: "ヤコポ-トゥルッラ"
 slug: "jacopo-trulla"
 position: "WTB"
 height: "183.0"

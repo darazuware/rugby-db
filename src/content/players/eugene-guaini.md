@@ -1,7 +1,7 @@
 ---
-title: "Eugene Guaini | クアイニ 優人"
+title: "Eugene Guaini | グアイニ 優人"
 name_en: "Eugene Guaini"
-name_ja: "クアイニ 優人"
+name_ja: "グアイニ 優人"
 slug: "eugene-guaini"
 position: "FL/No8"
 height: "177.0"

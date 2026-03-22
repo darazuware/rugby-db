@@ -1,7 +1,7 @@
 ---
-title: "Kapa Waimana | ワイマナ カハ"
+title: "Kapa Waimana | ワイマナ カパ"
 name_en: "Kapa Waimana"
-name_ja: "ワイマナ カハ"
+name_ja: "ワイマナ カパ"
 slug: "kapa-waimana"
 position: "FL/No8"
 height: "192.0"

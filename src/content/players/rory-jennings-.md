@@ -1,7 +1,7 @@
 ---
-title: "Rory JENNINGS | ロリー シェニンクス"
+title: "Rory JENNINGS | ロリー ジェニングス"
 name_en: "Rory JENNINGS"
-name_ja: "ロリー シェニンクス"
+name_ja: "ロリー ジェニングス"
 slug: "rory-jennings-"
 position: "SO"
 height: "180.0"

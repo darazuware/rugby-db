@@ -1,7 +1,7 @@
 ---
-title: "Josh ERICSON | ショシュ エリクソン"
+title: "Josh ERICSON | ジョシュ エリクソン"
 name_en: "Josh ERICSON"
-name_ja: "ショシュ エリクソン"
+name_ja: "ジョシュ エリクソン"
 slug: "josh-ericson"
 position: "FL/No8"
 height: ""

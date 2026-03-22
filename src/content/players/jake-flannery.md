@@ -1,7 +1,7 @@
 ---
-title: "Jake FLANNERY | シェイク-フラナリー"
+title: "Jake FLANNERY | ジェイク-フラナリー"
 name_en: "Jake FLANNERY"
-name_ja: "シェイク-フラナリー"
+name_ja: "ジェイク-フラナリー"
 slug: "jake-flannery"
 position: "SO"
 height: "183.0"

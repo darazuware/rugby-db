@@ -1,7 +1,7 @@
 ---
-title: "THOMAS Umaga JENSEN | トーマス ウマカ=シェンセン"
+title: "THOMAS Umaga JENSEN | トーマス ウマガ=ジェンセン"
 name_en: "THOMAS Umaga JENSEN"
-name_ja: "トーマス ウマカ=シェンセン"
+name_ja: "トーマス ウマガ=ジェンセン"
 slug: "thomas-umaga-jensen"
 position: "CTB"
 height: "188.0"

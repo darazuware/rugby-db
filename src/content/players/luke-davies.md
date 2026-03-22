@@ -1,7 +1,7 @@
 ---
-title: "Luke DAVIES | ルーク テイウィス"
+title: "Luke DAVIES | ルーク デイヴィス"
 name_en: "Luke DAVIES"
-name_ja: "ルーク テイウィス"
+name_ja: "ルーク デイヴィス"
 slug: "luke-davies"
 position: "SH"
 height: "175.0"

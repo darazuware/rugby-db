@@ -1,7 +1,7 @@
 ---
-title: "Peter Umaga Jensen | ヒーター ウマカ=シェンセン"
+title: "Peter Umaga Jensen | ピーター ウマガ=ジェンセン"
 name_en: "Peter Umaga Jensen"
-name_ja: "ヒーター ウマカ=シェンセン"
+name_ja: "ピーター ウマガ=ジェンセン"
 slug: "peter-umaga-jensen"
 position: "CTB"
 height: "187.0"

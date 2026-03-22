@@ -433,7 +433,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                             {/* [NEW] チーム内注目選手 (Star Players) */}
                             <div class="space-y-6">
                                 <h2 class="text-xl font-black border-l-4 border-yellow-400 pl-4 uppercase tracking-wider">
-                                    Featured Players
+                                    注目選手
                                 </h2>
                                 {popularPlayers.length > 0 ? (
                                     <div class="space-y-3">
@@ -443,7 +443,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                                                     {p.name[0]}
                                                 </div>
                                                 <div class="flex-1 min-w-0">
-                                                    <div class="text-[10px] font-black text-yellow-400/60 uppercase tracking-widest mb-0.5">Star {p.rank}</div>
+                                                    <div class="text-[10px] font-black text-yellow-400/60 uppercase tracking-widest mb-0.5">TOP {p.rank}</div>
                                                     <div class="text-xs font-black text-foreground group-hover:text-yellow-400 transition-colors truncate">{p.name_jp}</div>
                                                 </div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 text-foreground/20 group-hover:text-yellow-400 transition-colors" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>

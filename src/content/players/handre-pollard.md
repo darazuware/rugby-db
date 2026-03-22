@@ -1,7 +1,7 @@
 ---
-title: "Handre POLLARD | ハントレ-ホラート"
+title: "Handre POLLARD | ハンドレ-ポラード"
 name_en: "Handre POLLARD"
-name_ja: "ハントレ-ホラート"
+name_ja: "ハンドレ-ポラード"
 slug: "handre-pollard"
 position: "SO"
 height: "189.0"

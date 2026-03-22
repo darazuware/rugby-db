@@ -1,7 +1,7 @@
 ---
-title: "Khutha MCHUNU | クサ ンチュヌ"
+title: "Khutha MCHUNU | クザ ンチュヌ"
 name_en: "Khutha MCHUNU"
-name_ja: "クサ ンチュヌ"
+name_ja: "クザ ンチュヌ"
 slug: "khutha-mchunu"
 position: "PR"
 height: "183.0"

@@ -1,7 +1,7 @@
 ---
-title: "Andrew Davidson | アントリュー テヒットソン"
+title: "Andrew Davidson | アンドリュー デビッドソン"
 name_en: "Andrew Davidson"
-name_ja: "アントリュー テヒットソン"
+name_ja: "アンドリュー デビッドソン"
 slug: "andrew-davidson"
 position: "LO"
 height: "202.0"

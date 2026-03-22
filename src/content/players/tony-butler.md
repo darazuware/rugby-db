@@ -1,7 +1,7 @@
 ---
-title: "Tony BUTLER | トニー ハトラー"
+title: "Tony BUTLER | トニー バトラー"
 name_en: "Tony BUTLER"
-name_ja: "トニー ハトラー"
+name_ja: "トニー バトラー"
 slug: "tony-butler"
 position: "SO"
 height: "178.0"

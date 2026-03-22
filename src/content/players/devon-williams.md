@@ -1,7 +1,7 @@
 ---
-title: "Devon WILLIAMS | Devon ウィリアムス"
+title: "Devon WILLIAMS | Devon ウィリアムズ"
 name_en: "Devon WILLIAMS"
-name_ja: "Devon ウィリアムス"
+name_ja: "Devon ウィリアムズ"
 slug: "devon-williams"
 position: "FB"
 height: "175.0"

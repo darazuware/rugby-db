@@ -1,7 +1,7 @@
 ---
-title: "JACOB ABEL | シェイコフ アヘル"
+title: "JACOB ABEL | ジェイコブ アベル"
 name_en: "JACOB ABEL"
-name_ja: "シェイコフ アヘル"
+name_ja: "ジェイコブ アベル"
 slug: "jacob-abel"
 position: "SH"
 height: "174.0"

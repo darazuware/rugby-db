@@ -1,7 +1,7 @@
 ---
-title: "Manase Havili | マナセ ハヒリ"
+title: "Manase Havili | マナセ ハビリ"
 name_en: "Manase Havili"
-name_ja: "マナセ ハヒリ"
+name_ja: "マナセ ハビリ"
 slug: "manase-havili"
 position: "CTB"
 height: "175.0"

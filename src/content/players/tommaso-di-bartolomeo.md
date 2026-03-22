@@ -1,7 +1,7 @@
 ---
-title: "Tommaso DI BARTOLOMEO | トマソ ティ ハルトロメオ"
+title: "Tommaso DI BARTOLOMEO | トマソ ディ バルトロメオ"
 name_en: "Tommaso DI BARTOLOMEO"
-name_ja: "トマソ ティ ハルトロメオ"
+name_ja: "トマソ ディ バルトロメオ"
 slug: "tommaso-di-bartolomeo"
 position: "HO"
 height: "180.0"

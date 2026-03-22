@@ -1,7 +1,7 @@
 ---
-title: "Leigh HALFPENNY | リー ハーフヘニー"
+title: "Leigh HALFPENNY | リー ハーフペニー"
 name_en: "Leigh HALFPENNY"
-name_ja: "リー ハーフヘニー"
+name_ja: "リー ハーフペニー"
 slug: "leigh-halfpenny"
 position: "FB"
 height: "178.0"

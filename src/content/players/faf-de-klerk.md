@@ -1,7 +1,7 @@
 ---
-title: "Faf De Klerk | ファフ テクラーク"
+title: "Faf De Klerk | ファフ デクラーク"
 name_en: "Faf De Klerk"
-name_ja: "ファフ テクラーク"
+name_ja: "ファフ デクラーク"
 slug: "faf-de-klerk"
 position: "SH"
 height: "172.0"

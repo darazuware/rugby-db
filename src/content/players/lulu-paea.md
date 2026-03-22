@@ -1,7 +1,7 @@
 ---
-title: "Lulu Paea | ルル ハエア"
+title: "Lulu Paea | ルル パエア"
 name_en: "Lulu Paea"
-name_ja: "ルル ハエア"
+name_ja: "ルル パエア"
 slug: "lulu-paea"
 position: "HO"
 height: "171.0"

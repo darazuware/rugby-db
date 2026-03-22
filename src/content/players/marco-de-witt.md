@@ -1,7 +1,7 @@
 ---
-title: "Marco DE WITT | マルコ テ ウィット"
+title: "Marco DE WITT | マルコ デ ウィット"
 name_en: "Marco DE WITT"
-name_ja: "マルコ テ ウィット"
+name_ja: "マルコ デ ウィット"
 slug: "marco-de-witt"
 position: "FL/No8"
 height: "193.0"

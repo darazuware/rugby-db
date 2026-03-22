@@ -1,7 +1,7 @@
 ---
-title: "Vatiliai Tuidraki | ハティリアイ ツイトラキ"
+title: "Vatiliai Tuidraki | バティリアイ ツイドラキ"
 name_en: "Vatiliai Tuidraki"
-name_ja: "ハティリアイ ツイトラキ"
+name_ja: "バティリアイ ツイドラキ"
 slug: "vatiliai-tuidraki"
 position: "CTB"
 height: "182.0"

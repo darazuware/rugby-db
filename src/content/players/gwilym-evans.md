@@ -1,7 +1,7 @@
 ---
-title: "Gwilym EVANS | クウィリム エウァンス"
+title: "Gwilym EVANS | グウィリム エヴァンス"
 name_en: "Gwilym EVANS"
-name_ja: "クウィリム エウァンス"
+name_ja: "グウィリム エヴァンス"
 slug: "gwilym-evans"
 position: "FL/No8"
 height: "183.0"

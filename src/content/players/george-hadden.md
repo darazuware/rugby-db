@@ -1,7 +1,7 @@
 ---
-title: "George HADDEN | ショーシ ハテン"
+title: "George HADDEN | ジョージ ハデン"
 name_en: "George HADDEN"
-name_ja: "ショーシ ハテン"
+name_ja: "ジョージ ハデン"
 slug: "george-hadden"
 position: "PR"
 height: "185.0"

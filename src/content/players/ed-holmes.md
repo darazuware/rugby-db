@@ -1,7 +1,7 @@
 ---
-title: "Ed Holmes | エト ホームス"
+title: "Ed Holmes | エド ホームズ"
 name_en: "Ed Holmes"
-name_ja: "エト ホームス"
+name_ja: "エド ホームズ"
 slug: "ed-holmes"
 position: "LO"
 height: "198.0"

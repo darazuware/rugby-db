@@ -1,7 +1,7 @@
 ---
-title: "Macenzzie DUNCAN | マケンシー タンカン"
+title: "Macenzzie DUNCAN | マケンジー ダンカン"
 name_en: "Macenzzie DUNCAN"
-name_ja: "マケンシー タンカン"
+name_ja: "マケンジー ダンカン"
 slug: "macenzzie-duncan"
 position: "FL/No8"
 height: "183.0"

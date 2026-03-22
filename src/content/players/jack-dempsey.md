@@ -1,7 +1,7 @@
 ---
-title: "Jack DEMPSEY | シャック-テンフシー"
+title: "Jack DEMPSEY | ジャック-デンプシー"
 name_en: "Jack DEMPSEY"
-name_ja: "シャック-テンフシー"
+name_ja: "ジャック-デンプシー"
 slug: "jack-dempsey"
 position: "FL/No8"
 height: "191.0"

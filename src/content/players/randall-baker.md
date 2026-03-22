@@ -1,7 +1,7 @@
 ---
-title: "Randall Baker | ランタル ヘイカー"
+title: "Randall Baker | ランダル ベイカー"
 name_en: "Randall Baker"
-name_ja: "ランタル ヘイカー"
+name_ja: "ランダル ベイカー"
 slug: "randall-baker"
 position: "FL/No8"
 height: "191.0"

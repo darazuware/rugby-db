@@ -1,7 +1,7 @@
 ---
-title: "Fritz Jahnke-Tavana | フリッツ ヤンケタウァナ"
+title: "Fritz Jahnke-Tavana | フリッツ ヤンケタヴァナ"
 name_en: "Fritz Jahnke-Tavana"
-name_ja: "フリッツ ヤンケタウァナ"
+name_ja: "フリッツ ヤンケタヴァナ"
 slug: "fritz-jahnke-tavana"
 position: "LO"
 height: "201.0"

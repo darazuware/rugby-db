@@ -1,7 +1,7 @@
 ---
-title: "Marika Koroibete | マリカ コロインヘテ"
+title: "Marika Koroibete | マリカ コロインベテ"
 name_en: "Marika Koroibete"
-name_ja: "マリカ コロインヘテ"
+name_ja: "マリカ コロインベテ"
 slug: "marika-koroibete"
 position: "WTB"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jonas Tanaka Dowling | 田中タウリン ショウナス"
+title: "Jonas Tanaka Dowling | 田中ダウリン ジョウナス"
 name_en: "Jonas Tanaka Dowling"
-name_ja: "田中タウリン ショウナス"
+name_ja: "田中ダウリン ジョウナス"
 slug: "jonas-tanaka-dowling"
 position: "HO"
 height: "176.0"

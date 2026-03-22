@@ -1,7 +1,7 @@
 ---
-title: "Diego APPOLLIS | ティエコ-アホリス"
+title: "Diego APPOLLIS | ディエゴ-アポリス"
 name_en: "Diego APPOLLIS"
-name_ja: "ティエコ-アホリス"
+name_ja: "ディエゴ-アポリス"
 slug: "diego-appollis"
 position: "CTB"
 height: "178.0"

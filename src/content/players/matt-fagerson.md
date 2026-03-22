@@ -1,7 +1,7 @@
 ---
-title: "Matt FAGERSON | マット ファーカソン"
+title: "Matt FAGERSON | マット ファーガソン"
 name_en: "Matt FAGERSON"
-name_ja: "マット ファーカソン"
+name_ja: "マット ファーガソン"
 slug: "matt-fagerson"
 position: "FL/No8"
 height: "186.0"

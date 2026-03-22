@@ -1,7 +1,7 @@
 ---
-title: "Fakataha Havili | ファカタハ ハヒリ"
+title: "Fakataha Havili | ファカタハ ハビリ"
 name_en: "Fakataha Havili"
-name_ja: "ファカタハ ハヒリ"
+name_ja: "ファカタハ ハビリ"
 slug: "fakataha-havili"
 position: "CTB"
 height: "178.0"

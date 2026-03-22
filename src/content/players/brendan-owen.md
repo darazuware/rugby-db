@@ -1,7 +1,7 @@
 ---
-title: "Brendan Owen | フレンタン オーウェン"
+title: "Brendan Owen | ブレンダン オーウェン"
 name_en: "Brendan Owen"
-name_ja: "フレンタン オーウェン"
+name_ja: "ブレンダン オーウェン"
 slug: "brendan-owen"
 position: "UTB"
 height: "192.0"

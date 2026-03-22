@@ -1,7 +1,7 @@
 ---
-title: "Sione Lavemai | シオネ ラヘマイ"
+title: "Sione Lavemai | シオネ ラベマイ"
 name_en: "Sione Lavemai"
-name_ja: "シオネ ラヘマイ"
+name_ja: "シオネ ラベマイ"
 slug: "sione-lavemai"
 position: "FL/No8"
 height: "190.0"

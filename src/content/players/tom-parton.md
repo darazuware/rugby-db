@@ -1,7 +1,7 @@
 ---
-title: "Tom Parton | トム ハートン"
+title: "Tom Parton | トム パートン"
 name_en: "Tom Parton"
-name_ja: "トム ハートン"
+name_ja: "トム パートン"
 slug: "tom-parton"
 position: "UTB"
 height: "178.0"

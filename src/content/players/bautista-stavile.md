@@ -1,7 +1,7 @@
 ---
-title: "Bautista STAVILE | ハウティスタ スタヒレ"
+title: "Bautista STAVILE | バウティスタ スタビレ"
 name_en: "Bautista STAVILE"
-name_ja: "ハウティスタ スタヒレ"
+name_ja: "バウティスタ スタビレ"
 slug: "bautista-stavile"
 position: "FL/No8"
 height: "183.0"

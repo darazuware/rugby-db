@@ -1,7 +1,7 @@
 ---
-title: "Ben CARTER | ヘン カーター"
+title: "Ben CARTER | ベン カーター"
 name_en: "Ben CARTER"
-name_ja: "ヘン カーター"
+name_ja: "ベン カーター"
 slug: "ben-carter"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jack AUNGIER | シャック-アンシャー"
+title: "Jack AUNGIER | ジャック-アンジャー"
 name_en: "Jack AUNGIER"
-name_ja: "シャック-アンシャー"
+name_ja: "ジャック-アンジャー"
 slug: "jack-aungier"
 position: "PR"
 height: "188.0"

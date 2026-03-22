@@ -1,7 +1,7 @@
 ---
-title: "Chay MULLINS | チェイ マリンス"
+title: "Chay MULLINS | チェイ マリンズ"
 name_en: "Chay MULLINS"
-name_ja: "チェイ マリンス"
+name_ja: "チェイ マリンズ"
 slug: "chay-mullins"
 position: "FB"
 height: "193.0"

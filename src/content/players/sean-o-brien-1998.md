@@ -1,7 +1,7 @@
 ---
-title: "Sean O'BRIEN | ショーン オフライエン"
+title: "Sean O'BRIEN | ショーン オブライエン"
 name_en: "Sean O'BRIEN"
-name_ja: "ショーン オフライエン"
+name_ja: "ショーン オブライエン"
 slug: "sean-o-brien-1998"
 position: "CTB"
 height: "187.0"

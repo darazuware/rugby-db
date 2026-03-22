@@ -1,7 +1,7 @@
 ---
-title: "Phepsi BUTHELEZI | ヘフシ フテレシ"
+title: "Phepsi BUTHELEZI | ペプシ ブテレジ"
 name_en: "Phepsi BUTHELEZI"
-name_ja: "ヘフシ フテレシ"
+name_ja: "ペプシ ブテレジ"
 slug: "phendulani-buthelezi"
 position: "FL/No8"
 height: "188.0"

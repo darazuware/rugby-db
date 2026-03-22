@@ -1,7 +1,7 @@
 ---
-title: "Wandisile SIMELANE | ワンティシレ シメラーネ"
+title: "Wandisile SIMELANE | ワンディシレ シメラーネ"
 name_en: "Wandisile SIMELANE"
-name_ja: "ワンティシレ シメラーネ"
+name_ja: "ワンディシレ シメラーネ"
 slug: "wandisile-simelane"
 position: "CTB"
 height: "180.0"

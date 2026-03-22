@@ -1,7 +1,7 @@
 ---
-title: "Ajay Faleafaga | エイシェイ ファレアファカ"
+title: "Ajay Faleafaga | エイジェイ ファレアファガ"
 name_en: "Ajay Faleafaga"
-name_ja: "エイシェイ ファレアファカ"
+name_ja: "エイジェイ ファレアファガ"
 slug: "ajay-faleafaga"
 position: "SO"
 height: "170.0"

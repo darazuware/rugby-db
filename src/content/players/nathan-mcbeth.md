@@ -1,7 +1,7 @@
 ---
-title: "Nathan MCBETH | ネイサン マクヘス"
+title: "Nathan MCBETH | ネイサン マクベス"
 name_en: "Nathan MCBETH"
-name_ja: "ネイサン マクヘス"
+name_ja: "ネイサン マクベス"
 slug: "nathan-mcbeth"
 position: "PR"
 height: "189.0"

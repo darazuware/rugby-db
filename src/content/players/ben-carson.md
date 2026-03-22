@@ -1,7 +1,7 @@
 ---
-title: "Ben CARSON | ヘン CARSON"
+title: "Ben CARSON | ベン CARSON"
 name_en: "Ben CARSON"
-name_ja: "ヘン CARSON"
+name_ja: "ベン CARSON"
 slug: "ben-carson"
 position: "CTB"
 height: "183.0"

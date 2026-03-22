@@ -1,7 +1,7 @@
 ---
-title: "Johnny WILLIAMS | ショニー ウィリアムス"
+title: "Johnny WILLIAMS | ジョニー ウィリアムズ"
 name_en: "Johnny WILLIAMS"
-name_ja: "ショニー ウィリアムス"
+name_ja: "ジョニー ウィリアムズ"
 slug: "johnny-williams-1996"
 position: "CTB"
 height: "191.0"

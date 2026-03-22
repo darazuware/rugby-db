@@ -1,7 +1,7 @@
 ---
-title: "Tavi TUIPULOTU | タウィ ツイフロトゥ"
+title: "Tavi TUIPULOTU | タヴィ ツイプロトゥ"
 name_en: "Tavi TUIPULOTU"
-name_ja: "タウィ ツイフロトゥ"
+name_ja: "タヴィ ツイプロトゥ"
 slug: "ottavio-tuipulotu"
 position: "HO"
 height: "181.0"

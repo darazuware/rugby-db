@@ -1,7 +1,7 @@
 ---
-title: "TEVIN FERRIS | テウィン フェリス"
+title: "TEVIN FERRIS | テヴィン フェリス"
 name_en: "TEVIN FERRIS"
-name_ja: "テウィン フェリス"
+name_ja: "テヴィン フェリス"
 slug: "tevin-ferris"
 position: "FL/No8"
 height: "187.0"

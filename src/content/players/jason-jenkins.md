@@ -1,7 +1,7 @@
 ---
-title: "Jason JENKINS | シェイソン-シェンキンス"
+title: "Jason JENKINS | ジェイソン-ジェンキンス"
 name_en: "Jason JENKINS"
-name_ja: "シェイソン-シェンキンス"
+name_ja: "ジェイソン-ジェンキンス"
 slug: "jason-jenkins"
 position: "LO"
 height: "202.0"

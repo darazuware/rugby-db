@@ -1,7 +1,7 @@
 ---
-title: "Jack DEEGAN | シャック ティーカン"
+title: "Jack DEEGAN | ジャック ディーガン"
 name_en: "Jack DEEGAN"
-name_ja: "シャック ティーカン"
+name_ja: "ジャック ディーガン"
 slug: "jack-deegan"
 position: "CTB"
 height: "188.0"

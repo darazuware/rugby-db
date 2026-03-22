@@ -1,7 +1,7 @@
 ---
-title: "Tom YOUNG | トム ヤンク"
+title: "Tom YOUNG | トム ヤング"
 name_en: "Tom YOUNG"
-name_ja: "トム ヤンク"
+name_ja: "トム ヤング"
 slug: "tom-young"
 position: "FL/No8"
 height: "181.0"

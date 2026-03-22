@@ -1,7 +1,7 @@
 ---
-title: "Netani Vakayalia | ネタニ ウァカヤリア"
+title: "Netani Vakayalia | ネタニ ヴァカヤリア"
 name_en: "Netani Vakayalia"
-name_ja: "ネタニ ウァカヤリア"
+name_ja: "ネタニ ヴァカヤリア"
 slug: "netani-vakayalia"
 position: "WTB"
 height: "181.0"

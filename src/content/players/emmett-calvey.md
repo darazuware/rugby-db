@@ -1,7 +1,7 @@
 ---
-title: "Emmett CALVEY | エメット カルウェイ"
+title: "Emmett CALVEY | エメット カルヴェイ"
 name_en: "Emmett CALVEY"
-name_ja: "エメット カルウェイ"
+name_ja: "エメット カルヴェイ"
 slug: "emmett-calvey"
 position: "PR"
 height: ""

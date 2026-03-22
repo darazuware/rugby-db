@@ -1,7 +1,7 @@
 ---
-title: "Codi PURNELL | コティ ハーネル"
+title: "Codi PURNELL | コディ パーネル"
 name_en: "Codi PURNELL"
-name_ja: "コティ ハーネル"
+name_ja: "コディ パーネル"
 slug: "codi-purnell"
 position: "PR"
 height: "190.0"

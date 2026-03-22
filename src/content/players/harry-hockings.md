@@ -1,7 +1,7 @@
 ---
-title: "Harry Hockings | ハリー ホッキンクス"
+title: "Harry Hockings | ハリー ホッキングス"
 name_en: "Harry Hockings"
-name_ja: "ハリー ホッキンクス"
+name_ja: "ハリー ホッキングス"
 slug: "harry-hockings"
 position: "LO"
 height: "206.0"

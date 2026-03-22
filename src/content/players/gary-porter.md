@@ -1,7 +1,7 @@
 ---
-title: "Gary PORTER | ケイリー ホーター"
+title: "Gary PORTER | ゲイリー ポーター"
 name_en: "Gary PORTER"
-name_ja: "ケイリー ホーター"
+name_ja: "ゲイリー ポーター"
 slug: "gary-porter"
 position: "LO"
 height: "200.0"

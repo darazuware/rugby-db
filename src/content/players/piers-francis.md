@@ -1,7 +1,7 @@
 ---
-title: "Piers Francis | ヒアース フランシス"
+title: "Piers Francis | ピアーズ フランシス"
 name_en: "Piers Francis"
-name_ja: "ヒアース フランシス"
+name_ja: "ピアーズ フランシス"
 slug: "piers-francis"
 position: "SO"
 height: "183.0"

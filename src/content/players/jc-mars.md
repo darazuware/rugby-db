@@ -1,7 +1,7 @@
 ---
-title: "JC MARS | JC マース"
+title: "JC MARS | JC マーズ"
 name_en: "JC MARS"
-name_ja: "JC マース"
+name_ja: "JC マーズ"
 slug: "jc-mars"
 position: "FB"
 height: "177.0"

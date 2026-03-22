@@ -1,7 +1,7 @@
 ---
-title: "Mackenzie MARTIN | マケンシー マーティン"
+title: "Mackenzie MARTIN | マケンジー マーティン"
 name_en: "Mackenzie MARTIN"
-name_ja: "マケンシー マーティン"
+name_ja: "マケンジー マーティン"
 slug: "mackenzie-martin"
 position: "FL/No8"
 height: "196.0"

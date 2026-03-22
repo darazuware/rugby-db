@@ -1,7 +1,7 @@
 ---
-title: "Ben SALMON | ヘン SALMON"
+title: "Ben SALMON | ベン SALMON"
 name_en: "Ben SALMON"
-name_ja: "ヘン SALMON"
+name_ja: "ベン SALMON"
 slug: "ben-salmon"
 position: "CTB"
 height: "182.0"

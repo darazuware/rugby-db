@@ -1,7 +1,7 @@
 ---
-title: "Thaakir ABRAHAMS | サーキール アフラハムス"
+title: "Thaakir ABRAHAMS | サーキール アブラハムズ"
 name_en: "Thaakir ABRAHAMS"
-name_ja: "サーキール アフラハムス"
+name_ja: "サーキール アブラハムズ"
 slug: "thaakir-abrahams"
 position: "FB"
 height: "175.0"

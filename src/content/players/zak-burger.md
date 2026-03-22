@@ -1,7 +1,7 @@
 ---
-title: "Zak BURGER | サック ハーカー"
+title: "Zak BURGER | ザック バーガー"
 name_en: "Zak BURGER"
-name_ja: "サック ハーカー"
+name_ja: "ザック バーガー"
 slug: "zak-burger"
 position: "SH"
 height: "174.0"

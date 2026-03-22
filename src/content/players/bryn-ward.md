@@ -1,7 +1,7 @@
 ---
-title: "Bryn WARD | フリン ウォート"
+title: "Bryn WARD | ブリン ウォード"
 name_en: "Bryn WARD"
-name_ja: "フリン ウォート"
+name_ja: "ブリン ウォード"
 slug: "bryn-ward"
 position: "FL/No8"
 height: ""

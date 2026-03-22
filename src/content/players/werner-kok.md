@@ -1,7 +1,7 @@
 ---
-title: "Werner KOK | ウェルナー コク"
+title: "Werner KOK | ヴェルナー コク"
 name_en: "Werner KOK"
-name_ja: "ウェルナー コク"
+name_ja: "ヴェルナー コク"
 slug: "werner-kok"
 position: "WTB"
 height: "180.0"

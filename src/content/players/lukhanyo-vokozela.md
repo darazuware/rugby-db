@@ -1,7 +1,7 @@
 ---
-title: "Lukhanyo VOKOZELA | ルカニョ ウォコセラ"
+title: "Lukhanyo VOKOZELA | ルカニョ ヴォコゼラ"
 name_en: "Lukhanyo VOKOZELA"
-name_ja: "ルカニョ ウォコセラ"
+name_ja: "ルカニョ ヴォコゼラ"
 slug: "lukhanyo-vokozela"
 position: "HO"
 height: "175.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sibabalwe MAHASHE | シハハルウェ マハシェ"
+title: "Sibabalwe MAHASHE | シババルウェ マハシェ"
 name_en: "Sibabalwe MAHASHE"
-name_ja: "シハハルウェ マハシェ"
+name_ja: "シババルウェ マハシェ"
 slug: "sibabalwe-mahashe"
 position: "FL/No8"
 height: "187.0"

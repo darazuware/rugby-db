@@ -1,7 +1,7 @@
 ---
-title: "Josh MURPHY | ショシュ マーフィー"
+title: "Josh MURPHY | ジョシュ マーフィー"
 name_en: "Josh MURPHY"
-name_ja: "ショシュ マーフィー"
+name_ja: "ジョシュ マーフィー"
 slug: "josh-murphy"
 position: "LO"
 height: "198.0"

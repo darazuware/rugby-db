@@ -1,7 +1,7 @@
 ---
-title: "Guido VOLPI | クイト ウォルヒ"
+title: "Guido VOLPI | グイド ヴォルピ"
 name_en: "Guido VOLPI"
-name_ja: "クイト ウォルヒ"
+name_ja: "グイド ヴォルピ"
 slug: "guido-volpi"
 position: "FL/No8"
 height: "193.0"

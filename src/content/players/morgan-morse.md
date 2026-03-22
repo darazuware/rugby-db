@@ -1,7 +1,7 @@
 ---
-title: "Morgan MORSE | モルカン モース"
+title: "Morgan MORSE | モルガン モース"
 name_en: "Morgan MORSE"
-name_ja: "モルカン モース"
+name_ja: "モルガン モース"
 slug: "morgan-morse"
 position: "FL/No8"
 height: "185.0"

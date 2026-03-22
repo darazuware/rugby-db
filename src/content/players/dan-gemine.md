@@ -1,7 +1,7 @@
 ---
-title: "Dan GEMINE | タン シェミーヌ"
+title: "Dan GEMINE | ダン ジェミーヌ"
 name_en: "Dan GEMINE"
-name_ja: "タン シェミーヌ"
+name_ja: "ダン ジェミーヌ"
 slug: "dan-gemine"
 position: "FL/No8"
 height: "189.0"

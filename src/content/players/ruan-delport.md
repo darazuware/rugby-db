@@ -1,7 +1,7 @@
 ---
-title: "Ruan DELPORT | ルアン テルホート"
+title: "Ruan DELPORT | ルアン デルポート"
 name_en: "Ruan DELPORT"
-name_ja: "ルアン テルホート"
+name_ja: "ルアン デルポート"
 slug: "ruan-delport"
 position: "FL/No8"
 height: "200.0"

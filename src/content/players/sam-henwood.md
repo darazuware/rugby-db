@@ -1,7 +1,7 @@
 ---
-title: "Sam Henwood | サム ヘンウット"
+title: "Sam Henwood | サム ヘンウッド"
 name_en: "Sam Henwood"
-name_ja: "サム ヘンウット"
+name_ja: "サム ヘンウッド"
 slug: "sam-henwood"
 position: "FL/No8"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Siba QOMA | シハ コマ"
+title: "Siba QOMA | シバ コマ"
 name_en: "Siba QOMA"
-name_ja: "シハ コマ"
+name_ja: "シバ コマ"
 slug: "siba-qoma"
 position: "LO"
 height: "190.0"

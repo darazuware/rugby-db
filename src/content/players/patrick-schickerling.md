@@ -1,7 +1,7 @@
 ---
-title: "Patrick SCHICKERLING | ハトリック シッカーリンク"
+title: "Patrick SCHICKERLING | パトリック シッカーリング"
 name_en: "Patrick SCHICKERLING"
-name_ja: "ハトリック シッカーリンク"
+name_ja: "パトリック シッカーリング"
 slug: "patrick-schickerling"
 position: "PR"
 height: "182.0"

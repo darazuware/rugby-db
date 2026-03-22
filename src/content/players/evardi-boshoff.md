@@ -1,7 +1,7 @@
 ---
-title: "Evardi BOSHOFF | エウァルティ ホスホフ"
+title: "Evardi BOSHOFF | エヴァルディ ボスホフ"
 name_en: "Evardi BOSHOFF"
-name_ja: "エウァルティ ホスホフ"
+name_ja: "エヴァルディ ボスホフ"
 slug: "evardi-boshoff"
 position: "CTB"
 height: "183.0"

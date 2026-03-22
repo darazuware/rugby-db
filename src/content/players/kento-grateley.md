@@ -1,7 +1,7 @@
 ---
-title: "Kento Grateley | クレイトリー 献人"
+title: "Kento Grateley | グレイトリー 献人"
 name_en: "Kento Grateley"
-name_ja: "クレイトリー 献人"
+name_ja: "グレイトリー 献人"
 slug: "kento-grateley"
 position: "FB"
 height: "183.0"

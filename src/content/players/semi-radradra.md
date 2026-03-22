@@ -1,7 +1,7 @@
 ---
-title: "Semi Radradra | セミ ラトラトラ"
+title: "Semi Radradra | セミ ラドラドラ"
 name_en: "Semi Radradra"
-name_ja: "セミ ラトラトラ"
+name_ja: "セミ ラドラドラ"
 slug: "semi-radradra"
 position: "CTB"
 height: "190.0"

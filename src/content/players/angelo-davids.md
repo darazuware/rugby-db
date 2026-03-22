@@ -1,7 +1,7 @@
 ---
-title: "Angelo DAVIDS | アンシェロ テイウィッス"
+title: "Angelo DAVIDS | アンジェロ デイヴィッズ"
 name_en: "Angelo DAVIDS"
-name_ja: "アンシェロ テイウィッス"
+name_ja: "アンジェロ デイヴィッズ"
 slug: "angelo-davids"
 position: "WTB"
 height: "178.0"

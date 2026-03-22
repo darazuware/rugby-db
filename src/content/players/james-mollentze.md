@@ -1,7 +1,7 @@
 ---
-title: "James Mollentze | シェームス モレンツェ"
+title: "James Mollentze | ジェームズ モレンツェ"
 name_en: "James Mollentze"
-name_ja: "シェームス モレンツェ"
+name_ja: "ジェームズ モレンツェ"
 slug: "james-mollentze"
 position: "CTB"
 height: "181.0"

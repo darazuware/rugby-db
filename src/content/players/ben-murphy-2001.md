@@ -1,7 +1,7 @@
 ---
-title: "Ben MURPHY | ヘン マーフィー"
+title: "Ben MURPHY | ベン マーフィー"
 name_en: "Ben MURPHY"
-name_ja: "ヘン マーフィー"
+name_ja: "ベン マーフィー"
 slug: "ben-murphy-2001"
 position: "SH"
 height: "173.0"

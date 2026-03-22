@@ -1,7 +1,7 @@
 ---
-title: "Michael Stolberg | マイケル ストーハーク"
+title: "Michael Stolberg | マイケル ストーバーグ"
 name_en: "Michael Stolberg"
-name_ja: "マイケル ストーハーク"
+name_ja: "マイケル ストーバーグ"
 slug: "michael-stolberg"
 position: "LO"
 height: "202.0"

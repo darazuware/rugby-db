@@ -1,7 +1,7 @@
 ---
-title: "Keagen Faria | キーカン ファリア"
+title: "Keagen Faria | キーガン ファリア"
 name_en: "Keagen Faria"
-name_ja: "キーカン ファリア"
+name_ja: "キーガン ファリア"
 slug: "keagen-faria"
 position: "WTB"
 height: "185.0"

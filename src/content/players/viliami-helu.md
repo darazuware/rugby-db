@@ -1,7 +1,7 @@
 ---
-title: "Viliami Helu | ウィリアミ ヘル"
+title: "Viliami Helu | ヴィリアミ ヘル"
 name_en: "Viliami Helu"
-name_ja: "ウィリアミ ヘル"
+name_ja: "ヴィリアミ ヘル"
 slug: "viliami-helu"
 position: "FL/No8"
 height: "193.0"

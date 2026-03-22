@@ -1,7 +1,7 @@
 ---
-title: "Viliami Lutua Ahofono | ウィリアミ ルトゥア アホフォノ"
+title: "Viliami Lutua Ahofono | ヴィリアミ ルトゥア アホフォノ"
 name_en: "Viliami Lutua Ahofono"
-name_ja: "ウィリアミ ルトゥア アホフォノ"
+name_ja: "ヴィリアミ ルトゥア アホフォノ"
 slug: "viliami-lutua-ahofono"
 position: "FL/No8"
 height: "186.0"

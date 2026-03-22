@@ -1,7 +1,7 @@
 ---
-title: "Thomas DYER | トーマス タイアー"
+title: "Thomas DYER | トーマス ダイアー"
 name_en: "Thomas DYER"
-name_ja: "トーマス タイアー"
+name_ja: "トーマス ダイアー"
 slug: "thomas-dyer"
 position: "LO"
 height: "196.0"

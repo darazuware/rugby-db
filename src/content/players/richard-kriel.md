@@ -1,7 +1,7 @@
 ---
-title: "Richard KRIEL | リチャート クリエル"
+title: "Richard KRIEL | リチャード クリエル"
 name_en: "Richard KRIEL"
-name_ja: "リチャート クリエル"
+name_ja: "リチャード クリエル"
 slug: "richard-kriel"
 position: "FB"
 height: "194.0"

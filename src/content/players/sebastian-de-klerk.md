@@ -1,7 +1,7 @@
 ---
-title: "Sebastian DE KLERK | セハスチャン テ クラーク"
+title: "Sebastian DE KLERK | セバスチャン デ クラーク"
 name_en: "Sebastian DE KLERK"
-name_ja: "セハスチャン テ クラーク"
+name_ja: "セバスチャン デ クラーク"
 slug: "sebastian-de-klerk"
 position: "WTB"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Nathan DOAK | ネイサン トーク"
+title: "Nathan DOAK | ネイサン ドーク"
 name_en: "Nathan DOAK"
-name_ja: "ネイサン トーク"
+name_ja: "ネイサン ドーク"
 slug: "nathan-doak"
 position: "SH"
 height: "185.0"

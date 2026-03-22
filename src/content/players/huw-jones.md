@@ -1,7 +1,7 @@
 ---
-title: "Huw JONES | ヒュー-ショーンス"
+title: "Huw JONES | ヒュー-ジョーンズ"
 name_en: "Huw JONES"
-name_ja: "ヒュー-ショーンス"
+name_ja: "ヒュー-ジョーンズ"
 slug: "huw-jones"
 position: "CTB"
 height: "186.0"

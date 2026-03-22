@@ -1,7 +1,7 @@
 ---
-title: "Esei Haangana | エセイ ハアンカナ"
+title: "Esei Haangana | エセイ ハアンガナ"
 name_en: "Esei Haangana"
-name_ja: "エセイ ハアンカナ"
+name_ja: "エセイ ハアンガナ"
 slug: "esei-haangana"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lorenzo PANI | ロレンツォ ハーニ"
+title: "Lorenzo PANI | ロレンツォ パーニ"
 name_en: "Lorenzo PANI"
-name_ja: "ロレンツォ ハーニ"
+name_ja: "ロレンツォ パーニ"
 slug: "lorenzo-pani"
 position: "FB"
 height: "193.0"

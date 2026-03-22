@@ -1,7 +1,7 @@
 ---
-title: "Jordan HENDRIKSE | ショータン ヘントリクセ"
+title: "Jordan HENDRIKSE | ジョーダン ヘンドリクセ"
 name_en: "Jordan HENDRIKSE"
-name_ja: "ショータン ヘントリクセ"
+name_ja: "ジョーダン ヘンドリクセ"
 slug: "jordan-hendrikse"
 position: "SO"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Riccardo GENOVESE | リッカルト シェノウェーセ"
+title: "Riccardo GENOVESE | リッカルド ジェノヴェーゼ"
 name_en: "Riccardo GENOVESE"
-name_ja: "リッカルト シェノウェーセ"
+name_ja: "リッカルド ジェノヴェーゼ"
 slug: "riccardo-genovese"
 position: "PR"
 height: "189.0"

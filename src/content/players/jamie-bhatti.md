@@ -1,7 +1,7 @@
 ---
-title: "Jamie BHATTI | シェイミー-ハッティ"
+title: "Jamie BHATTI | ジェイミー-バッティ"
 name_en: "Jamie BHATTI"
-name_ja: "シェイミー-ハッティ"
+name_ja: "ジェイミー-バッティ"
 slug: "jamie-bhatti"
 position: "PR"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Hugo MCLAUGHLIN | ユーコー-マクラフリン"
+title: "Hugo MCLAUGHLIN | ユーゴー-マクラフリン"
 name_en: "Hugo MCLAUGHLIN"
-name_ja: "ユーコー-マクラフリン"
+name_ja: "ユーゴー-マクラフリン"
 slug: "hugo-mclaughlin"
 position: "WTB"
 height: "181.0"

@@ -1,7 +1,7 @@
 ---
-title: "Christie GROBBELAAR | クリスティー クロフラール"
+title: "Christie GROBBELAAR | クリスティー グロブラール"
 name_en: "Christie GROBBELAAR"
-name_ja: "クリスティー クロフラール"
+name_ja: "クリスティー グロブラール"
 slug: "christie-grobbelaar"
 position: "WTB"
 height: "192.0"

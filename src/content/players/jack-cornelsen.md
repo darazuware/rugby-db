@@ -1,7 +1,7 @@
 ---
-title: "Jack Cornelsen | シャック コーネルセン"
+title: "Jack Cornelsen | ジャック コーネルセン"
 name_en: "Jack Cornelsen"
-name_ja: "シャック コーネルセン"
+name_ja: "ジャック コーネルセン"
 slug: "jack-cornelsen"
 position: "LO"
 height: "195.0"

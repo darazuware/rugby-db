@@ -1,7 +1,7 @@
 ---
-title: "Josh MCKAY | ショシュ マッケイ"
+title: "Josh MCKAY | ジョシュ マッケイ"
 name_en: "Josh MCKAY"
-name_ja: "ショシュ マッケイ"
+name_ja: "ジョシュ マッケイ"
 slug: "josh-mckay"
 position: "FB"
 height: "183.0"

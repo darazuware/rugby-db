@@ -1,7 +1,7 @@
 ---
-title: "Cobus REINACH | コーハス レイナック"
+title: "Cobus REINACH | コーバス レイナック"
 name_en: "Cobus REINACH"
-name_ja: "コーハス レイナック"
+name_ja: "コーバス レイナック"
 slug: "cobus-reinach"
 position: "SH"
 height: "175.0"

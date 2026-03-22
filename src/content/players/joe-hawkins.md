@@ -1,7 +1,7 @@
 ---
-title: "Joe HAWKINS | ショー ホーキンス"
+title: "Joe HAWKINS | ジョー ホーキンス"
 name_en: "Joe HAWKINS"
-name_ja: "ショー ホーキンス"
+name_ja: "ジョー ホーキンス"
 slug: "joe-hawkins"
 position: "CTB"
 height: "183.0"

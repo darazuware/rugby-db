@@ -1,7 +1,7 @@
 ---
-title: "Bryn Gatland | フリン カットラント"
+title: "Bryn Gatland | ブリン ガットランド"
 name_en: "Bryn Gatland"
-name_ja: "フリン カットラント"
+name_ja: "ブリン ガットランド"
 slug: "bryn-gatland"
 position: "SO"
 height: "179.0"

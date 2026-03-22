@@ -1,7 +1,7 @@
 ---
-title: "Zach Gallagher | サック キャラハー"
+title: "Zach Gallagher | ザック ギャラハー"
 name_en: "Zach Gallagher"
-name_ja: "サック キャラハー"
+name_ja: "ザック ギャラハー"
 slug: "zach-gallagher"
 position: "LO"
 height: "198.0"

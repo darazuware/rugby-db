@@ -1,7 +1,7 @@
 ---
-title: "Liakimatagi Moli | リアキマタキ モリ"
+title: "Liakimatagi Moli | リアキマタギ モリ"
 name_en: "Liakimatagi Moli"
-name_ja: "リアキマタキ モリ"
+name_ja: "リアキマタギ モリ"
 slug: "liakimatagi-moli"
 position: "LO"
 height: "197.0"

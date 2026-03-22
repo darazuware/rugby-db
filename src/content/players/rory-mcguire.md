@@ -1,7 +1,7 @@
 ---
-title: "Rory MCGUIRE | ロリー マクワイア"
+title: "Rory MCGUIRE | ロリー マグワイア"
 name_en: "Rory MCGUIRE"
-name_ja: "ロリー マクワイア"
+name_ja: "ロリー マグワイア"
 slug: "rory-mcguire"
 position: "PR"
 height: "193.0"

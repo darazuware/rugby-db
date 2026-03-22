@@ -1,7 +1,7 @@
 ---
-title: "Suleiman HARTZENBERG | スレイマン ハーツェンハーク"
+title: "Suleiman HARTZENBERG | スレイマン ハーツェンバーグ"
 name_en: "Suleiman HARTZENBERG"
-name_ja: "スレイマン ハーツェンハーク"
+name_ja: "スレイマン ハーツェンバーグ"
 slug: "suleiman-hartzenberg"
 position: "CTB"
 height: "187.0"

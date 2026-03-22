@@ -1,7 +1,7 @@
 ---
-title: "Ryan JONES | ライアン ショーンス"
+title: "Ryan JONES | ライアン ジョーンズ"
 name_en: "Ryan JONES"
-name_ja: "ライアン ショーンス"
+name_ja: "ライアン ジョーンズ"
 slug: "ryan-jones-2006"
 position: "FL/No8"
 height: "182.0"

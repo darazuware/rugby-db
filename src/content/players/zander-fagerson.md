@@ -1,7 +1,7 @@
 ---
-title: "Zander FAGERSON | サンター FAGERSON"
+title: "Zander FAGERSON | ザンダー FAGERSON"
 name_en: "Zander FAGERSON"
-name_ja: "サンター FAGERSON"
+name_ja: "ザンダー FAGERSON"
 slug: "zander-fagerson"
 position: "PR"
 height: "188.0"

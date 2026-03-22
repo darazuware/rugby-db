@@ -1,7 +1,7 @@
 ---
-title: "Jack WALSH | シャック-ウォルシュ"
+title: "Jack WALSH | ジャック-ウォルシュ"
 name_en: "Jack WALSH"
-name_ja: "シャック-ウォルシュ"
+name_ja: "ジャック-ウォルシュ"
 slug: "jack-walsh"
 position: "SO"
 height: "184.0"

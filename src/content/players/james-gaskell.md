@@ -1,7 +1,7 @@
 ---
-title: "James Gaskell | シェームス カスケル"
+title: "James Gaskell | ジェームズ ガスケル"
 name_en: "James Gaskell"
-name_ja: "シェームス カスケル"
+name_ja: "ジェームズ ガスケル"
 slug: "james-gaskell"
 position: "LO"
 height: "201.0"

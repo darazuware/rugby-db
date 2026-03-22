@@ -1,7 +1,7 @@
 ---
-title: "Vernon MATONGO | ウァーノン マトンク"
+title: "Vernon MATONGO | ヴァーノン マトング"
 name_en: "Vernon MATONGO"
-name_ja: "ウァーノン マトンク"
+name_ja: "ヴァーノン マトング"
 slug: "vernon-matongo"
 position: "PR"
 height: "179.0"

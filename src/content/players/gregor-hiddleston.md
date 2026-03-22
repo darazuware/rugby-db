@@ -1,7 +1,7 @@
 ---
-title: "Gregor HIDDLESTON | クレカー ヒトルストン"
+title: "Gregor HIDDLESTON | グレガー ヒドルストン"
 name_en: "Gregor HIDDLESTON"
-name_ja: "クレカー ヒトルストン"
+name_ja: "グレガー ヒドルストン"
 slug: "gregor-hiddleston"
 position: "HO"
 height: "187.0"

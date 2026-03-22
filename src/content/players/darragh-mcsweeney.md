@@ -1,7 +1,7 @@
 ---
-title: "Darragh MCSWEENEY | タラ マクスウィーニー"
+title: "Darragh MCSWEENEY | ダラ マクスウィーニー"
 name_en: "Darragh MCSWEENEY"
-name_ja: "タラ マクスウィーニー"
+name_ja: "ダラ マクスウィーニー"
 slug: "darragh-mcsweeney"
 position: "PR"
 height: "191.0"

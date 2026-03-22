@@ -1,7 +1,7 @@
 ---
-title: "Gerhard van den Heever | ケラート ファンテンヒーファー"
+title: "Gerhard van den Heever | ゲラード ファンデンヒーファー"
 name_en: "Gerhard van den Heever"
-name_ja: "ケラート ファンテンヒーファー"
+name_ja: "ゲラード ファンデンヒーファー"
 slug: "gerhard-van-den-heever"
 position: "FB"
 height: "192.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe ROBERTS | ショー ロハーツ"
+title: "Joe ROBERTS | ジョー ロバーツ"
 name_en: "Joe ROBERTS"
-name_ja: "ショー ロハーツ"
+name_ja: "ジョー ロバーツ"
 slug: "joe-roberts"
 position: "CTB"
 height: "182.0"

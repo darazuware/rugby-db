@@ -1,7 +1,7 @@
 ---
-title: "Richard Goh Jones | ショーンス リチャート剛"
+title: "Richard Goh Jones | ジョーンズ リチャード剛"
 name_en: "Richard Goh Jones"
-name_ja: "ショーンス リチャート剛"
+name_ja: "ジョーンズ リチャード剛"
 slug: "richard-goh-jones"
 position: "FL/No8"
 height: "177.0"

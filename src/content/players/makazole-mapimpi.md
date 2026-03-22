@@ -1,7 +1,7 @@
 ---
-title: "Makazole MAPIMPI | マカソレ マヒンヒ"
+title: "Makazole MAPIMPI | マカゾレ マピンピ"
 name_en: "Makazole MAPIMPI"
-name_ja: "マカソレ マヒンヒ"
+name_ja: "マカゾレ マピンピ"
 slug: "makazole-mapimpi"
 position: "WTB"
 height: "184.0"

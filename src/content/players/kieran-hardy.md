@@ -1,7 +1,7 @@
 ---
-title: "Kieran HARDY | キーラン ハーティー"
+title: "Kieran HARDY | キーラン ハーディー"
 name_en: "Kieran HARDY"
-name_ja: "キーラン ハーティー"
+name_ja: "キーラン ハーディー"
 slug: "kieran-hardy"
 position: "SH"
 height: "186.0"

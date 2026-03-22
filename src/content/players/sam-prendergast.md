@@ -1,7 +1,7 @@
 ---
-title: "Sam PRENDERGAST | サム フレンターカスト"
+title: "Sam PRENDERGAST | サム プレンダーガスト"
 name_en: "Sam PRENDERGAST"
-name_ja: "サム フレンターカスト"
+name_ja: "サム プレンダーガスト"
 slug: "sam-prendergast"
 position: "SO"
 height: "194.0"

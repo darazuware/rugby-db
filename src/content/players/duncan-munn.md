@@ -1,7 +1,7 @@
 ---
-title: "Duncan MUNN | タンカン マン"
+title: "Duncan MUNN | ダンカン マン"
 name_en: "Duncan MUNN"
-name_ja: "タンカン マン"
+name_ja: "ダンカン マン"
 slug: "duncan-munn"
 position: "CTB"
 height: "191.0"

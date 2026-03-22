@@ -1,7 +1,7 @@
 ---
-title: "Rhys DAVIES | リース テイウィス"
+title: "Rhys DAVIES | リース デイヴィス"
 name_en: "Rhys DAVIES"
-name_ja: "リース テイウィス"
+name_ja: "リース デイヴィス"
 slug: "rhys-davies"
 position: "LO"
 height: "197.0"

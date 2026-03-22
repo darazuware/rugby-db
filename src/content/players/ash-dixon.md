@@ -1,7 +1,7 @@
 ---
-title: "Ash Dixon | アッシュ ティクソン"
+title: "Ash Dixon | アッシュ ディクソン"
 name_en: "Ash Dixon"
-name_ja: "アッシュ ティクソン"
+name_ja: "アッシュ ディクソン"
 slug: "ash-dixon"
 position: "HO"
 height: "179.0"

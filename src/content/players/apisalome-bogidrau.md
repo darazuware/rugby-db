@@ -1,7 +1,7 @@
 ---
-title: "Apisalome Bogidrau | アヒサロメ ホキトラウ"
+title: "Apisalome Bogidrau | アピサロメ ボギドラウ"
 name_en: "Apisalome Bogidrau"
-name_ja: "アヒサロメ ホキトラウ"
+name_ja: "アピサロメ ボギドラウ"
 slug: "apisalome-bogidrau"
 position: "PR"
 height: "190.0"

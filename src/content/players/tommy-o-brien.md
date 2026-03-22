@@ -1,7 +1,7 @@
 ---
-title: "Tommy O'BRIEN | トミー オフライエン"
+title: "Tommy O'BRIEN | トミー オブライエン"
 name_en: "Tommy O'BRIEN"
-name_ja: "トミー オフライエン"
+name_ja: "トミー オブライエン"
 slug: "tommy-o-brien"
 position: "CTB"
 height: "183.0"

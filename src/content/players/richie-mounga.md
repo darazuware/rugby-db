@@ -1,7 +1,7 @@
 ---
-title: "Richie Mounga | リッチー モウンカ"
+title: "Richie Mounga | リッチー モウンガ"
 name_en: "Richie Mounga"
-name_ja: "リッチー モウンカ"
+name_ja: "リッチー モウンガ"
 slug: "richie-mounga"
 position: "SO"
 height: "176.0"

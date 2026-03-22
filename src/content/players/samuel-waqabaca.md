@@ -1,7 +1,7 @@
 ---
-title: "Samuel Waqabaca | サミュエラ ワカウァカ"
+title: "Samuel Waqabaca | サミュエラ ワカヴァカ"
 name_en: "Samuel Waqabaca"
-name_ja: "サミュエラ ワカウァカ"
+name_ja: "サミュエラ ワカヴァカ"
 slug: "samuel-waqabaca"
 position: "PR"
 height: "185.0"

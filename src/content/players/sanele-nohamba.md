@@ -1,7 +1,7 @@
 ---
-title: "SANELE NOHAMBA | サネレ ノハンハ"
+title: "SANELE NOHAMBA | サネレ ノハンバ"
 name_en: "SANELE NOHAMBA"
-name_ja: "サネレ ノハンハ"
+name_ja: "サネレ ノハンバ"
 slug: "sanele-nohamba"
 position: "SH"
 height: "167.0"

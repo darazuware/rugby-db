@@ -1,7 +1,7 @@
 ---
-title: "Jonny SCOTT | ショニー スコット"
+title: "Jonny SCOTT | ジョニー スコット"
 name_en: "Jonny SCOTT"
-name_ja: "ショニー スコット"
+name_ja: "ジョニー スコット"
 slug: "jonny-scott"
 position: "CTB"
 height: "191.0"

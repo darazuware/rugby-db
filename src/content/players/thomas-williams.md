@@ -1,7 +1,7 @@
 ---
-title: "Thomas WILLIAMS | トーマス ウィリアムス"
+title: "Thomas WILLIAMS | トーマス ウィリアムズ"
 name_en: "Thomas WILLIAMS"
-name_ja: "トーマス ウィリアムス"
+name_ja: "トーマス ウィリアムズ"
 slug: "thomas-williams"
 position: "Winger"
 height: ""

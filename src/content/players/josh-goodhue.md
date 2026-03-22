@@ -1,7 +1,7 @@
 ---
-title: "Josh Goodhue | ショシュ クットヒュー"
+title: "Josh Goodhue | ジョシュ グッドヒュー"
 name_en: "Josh Goodhue"
-name_ja: "ショシュ クットヒュー"
+name_ja: "ジョシュ グッドヒュー"
 slug: "josh-goodhue"
 position: "LO"
 height: "199.0"

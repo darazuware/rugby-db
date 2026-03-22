@@ -1,7 +1,7 @@
 ---
-title: "Sazi SANDI | サシ サンティ"
+title: "Sazi SANDI | サジ サンディ"
 name_en: "Sazi SANDI"
-name_ja: "サシ サンティ"
+name_ja: "サジ サンディ"
 slug: "sazi-sandi"
 position: "PR"
 height: "181.0"

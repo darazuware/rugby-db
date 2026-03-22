@@ -1,7 +1,7 @@
 ---
-title: "Ben WILLIAMS | ヘン ウィリアムス"
+title: "Ben WILLIAMS | ベン ウィリアムズ"
 name_en: "Ben WILLIAMS"
-name_ja: "ヘン ウィリアムス"
+name_ja: "ベン ウィリアムズ"
 slug: "ben-williams-14088"
 position: "FL/No8"
 height: "188.0"

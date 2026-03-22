@@ -1,7 +1,7 @@
 ---
-title: "Harry PROVAN | ハリー フロウァン"
+title: "Harry PROVAN | ハリー プロヴァン"
 name_en: "Harry PROVAN"
-name_ja: "ハリー フロウァン"
+name_ja: "ハリー プロヴァン"
 slug: "harry-provan"
 position: "FB"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joshua KENNY | ショシュア ケニー"
+title: "Joshua KENNY | ジョシュア ケニー"
 name_en: "Joshua KENNY"
-name_ja: "ショシュア ケニー"
+name_ja: "ジョシュア ケニー"
 slug: "joshua-kenny"
 position: "WTB"
 height: "192.0"

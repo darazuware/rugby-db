@@ -1,7 +1,7 @@
 ---
-title: "James MCCORMICK | シェームス-マコーミック"
+title: "James MCCORMICK | ジェームズ-マコーミック"
 name_en: "James MCCORMICK"
-name_ja: "シェームス-マコーミック"
+name_ja: "ジェームズ-マコーミック"
 slug: "james-mccormick"
 position: "HO"
 height: "183.0"

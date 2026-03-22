@@ -1,7 +1,7 @@
 ---
-title: "Honeti Taumohaapai | タウモハハイ ホネティ"
+title: "Honeti Taumohaapai | タウモハパイ ホネティ"
 name_en: "Honeti Taumohaapai"
-name_ja: "タウモハハイ ホネティ"
+name_ja: "タウモハパイ ホネティ"
 slug: "honeti-taumohaapai"
 position: "WTB"
 height: "180.0"

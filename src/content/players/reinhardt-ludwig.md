@@ -1,7 +1,7 @@
 ---
-title: "Reinhardt LUDWIG | ラインハルト ルートウィヒ"
+title: "Reinhardt LUDWIG | ラインハルト ルートヴィヒ"
 name_en: "Reinhardt LUDWIG"
-name_ja: "ラインハルト ルートウィヒ"
+name_ja: "ラインハルト ルートヴィヒ"
 slug: "reinhardt-ludwig"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "James NICHOLSON | シェームス-ニコルソン"
+title: "James NICHOLSON | ジェームズ-ニコルソン"
 name_en: "James NICHOLSON"
-name_ja: "シェームス-ニコルソン"
+name_ja: "ジェームズ-ニコルソン"
 slug: "james-nicholson"
 position: "FB"
 height: "192.0"

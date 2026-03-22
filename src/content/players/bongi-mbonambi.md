@@ -1,7 +1,7 @@
 ---
-title: "Bongi MBONAMBI | ホンキ ンホナンヒ"
+title: "Bongi MBONAMBI | ボンギ ンボナンビ"
 name_en: "Bongi MBONAMBI"
-name_ja: "ホンキ ンホナンヒ"
+name_ja: "ボンギ ンボナンビ"
 slug: "bongi-mbonambi"
 position: "HO"
 height: "175.0"

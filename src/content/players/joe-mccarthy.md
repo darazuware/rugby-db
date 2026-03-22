@@ -1,7 +1,7 @@
 ---
-title: "Joe MCCARTHY | ショー マッカーシー"
+title: "Joe MCCARTHY | ジョー マッカーシー"
 name_en: "Joe MCCARTHY"
-name_ja: "ショー マッカーシー"
+name_ja: "ジョー マッカーシー"
 slug: "joe-mccarthy"
 position: "LO"
 height: "198.0"

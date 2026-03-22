@@ -1,7 +1,7 @@
 ---
-title: "Benjamin Nee-Nee | ヘンシャミン ニーニー"
+title: "Benjamin Nee-Nee | ベンジャミン ニーニー"
 name_en: "Benjamin Nee-Nee"
-name_ja: "ヘンシャミン ニーニー"
+name_ja: "ベンジャミン ニーニー"
 slug: "benjamin-nee-nee"
 position: "FL/No8"
 height: "200.0"

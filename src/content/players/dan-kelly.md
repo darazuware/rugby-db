@@ -1,7 +1,7 @@
 ---
-title: "Dan KELLY | タン-ケリー"
+title: "Dan KELLY | ダン-ケリー"
 name_en: "Dan KELLY"
-name_ja: "タン-ケリー"
+name_ja: "ダン-ケリー"
 slug: "dan-kelly"
 position: "CTB"
 height: "185.0"

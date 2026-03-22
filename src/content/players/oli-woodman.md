@@ -1,7 +1,7 @@
 ---
-title: "Oli WOODMAN | オリ ウットマン"
+title: "Oli WOODMAN | オリ ウッドマン"
 name_en: "Oli WOODMAN"
-name_ja: "オリ ウットマン"
+name_ja: "オリ ウッドマン"
 slug: "oli-woodman"
 position: "FB"
 height: "188.0"

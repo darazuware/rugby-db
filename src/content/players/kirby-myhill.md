@@ -1,7 +1,7 @@
 ---
-title: "Kirby MYHILL | カーヒー マイヒル"
+title: "Kirby MYHILL | カービー マイヒル"
 name_en: "Kirby MYHILL"
-name_ja: "カーヒー マイヒル"
+name_ja: "カービー マイヒル"
 slug: "kirby-myhill"
 position: "HO"
 height: "183.0"

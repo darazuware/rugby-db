@@ -1,7 +1,7 @@
 ---
-title: "Nick Phipps | ニック フィッフス"
+title: "Nick Phipps | ニック フィップス"
 name_en: "Nick Phipps"
-name_ja: "ニック フィッフス"
+name_ja: "ニック フィップス"
 slug: "nick-phipps"
 position: "SH"
 height: "180.0"

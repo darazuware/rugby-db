@@ -1,7 +1,7 @@
 ---
-title: "Rabah SLIMANI | ラハ スリマニ"
+title: "Rabah SLIMANI | ラバ スリマニ"
 name_en: "Rabah SLIMANI"
-name_ja: "ラハ スリマニ"
+name_ja: "ラバ スリマニ"
 slug: "rabah-slimani"
 position: "PR"
 height: "178.0"

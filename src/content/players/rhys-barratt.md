@@ -1,7 +1,7 @@
 ---
-title: "Rhys BARRATT | リース ハラット"
+title: "Rhys BARRATT | リース バラット"
 name_en: "Rhys BARRATT"
-name_ja: "リース ハラット"
+name_ja: "リース バラット"
 slug: "rhys-barratt"
 position: "PR"
 height: "184.0"

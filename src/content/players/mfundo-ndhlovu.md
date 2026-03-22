@@ -1,7 +1,7 @@
 ---
-title: "Mfundo NDHLOVU | ムフント ントロウ"
+title: "Mfundo NDHLOVU | ムフンド ンドロヴ"
 name_en: "Mfundo NDHLOVU"
-name_ja: "ムフント ントロウ"
+name_ja: "ムフンド ンドロヴ"
 slug: "mfundo-ndhlovu"
 position: "WTB"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Robbie HENSHAW | ロヒー ヘンショウ"
+title: "Robbie HENSHAW | ロビー ヘンショウ"
 name_en: "Robbie HENSHAW"
-name_ja: "ロヒー ヘンショウ"
+name_ja: "ロビー ヘンショウ"
 slug: "robbie-henshaw"
 position: "CTB"
 height: "191.0"

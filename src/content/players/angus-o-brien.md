@@ -1,7 +1,7 @@
 ---
-title: "Angus O'BRIEN | アンカス オフライエン"
+title: "Angus O'BRIEN | アンガス オブライエン"
 name_en: "Angus O'BRIEN"
-name_ja: "アンカス オフライエン"
+name_ja: "アンガス オブライエン"
 slug: "angus-o-brien"
 position: "SO"
 height: "180.0"

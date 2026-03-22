@@ -1,7 +1,7 @@
 ---
-title: "Gregor BROWN | クレカー フラウン"
+title: "Gregor BROWN | グレガー ブラウン"
 name_en: "Gregor BROWN"
-name_ja: "クレカー フラウン"
+name_ja: "グレガー ブラウン"
 slug: "gregor-brown"
 position: "LO"
 height: "196.0"

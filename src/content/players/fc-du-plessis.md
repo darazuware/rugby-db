@@ -1,7 +1,7 @@
 ---
-title: "FC Du Plessis | FC テュフレッシー"
+title: "FC Du Plessis | FC デュプレッシー"
 name_en: "FC Du Plessis"
-name_ja: "FC テュフレッシー"
+name_ja: "FC デュプレッシー"
 slug: "fc-du-plessis"
 position: "FB"
 height: "186.0"

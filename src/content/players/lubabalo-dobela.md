@@ -1,7 +1,7 @@
 ---
-title: "Lubabalo DOBELA | ルハハロ トヘラ"
+title: "Lubabalo DOBELA | ルババロ ドベラ"
 name_en: "Lubabalo DOBELA"
-name_ja: "ルハハロ トヘラ"
+name_ja: "ルババロ ドベラ"
 slug: "lubabalo-dobela"
 position: "SO"
 height: "175.0"

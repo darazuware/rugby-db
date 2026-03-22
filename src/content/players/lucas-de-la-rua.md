@@ -1,7 +1,7 @@
 ---
-title: "Lucas DE LA RUA | ルカス テ ラ ルーア"
+title: "Lucas DE LA RUA | ルカス デ ラ ルーア"
 name_en: "Lucas DE LA RUA"
-name_ja: "ルカス テ ラ ルーア"
+name_ja: "ルカス デ ラ ルーア"
 slug: "lucas-de-la-rua"
 position: "FL/No8"
 height: "188.0"

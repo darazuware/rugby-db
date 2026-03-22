@@ -1,7 +1,7 @@
 ---
-title: "Patrick McCurran | ハトリック マクカラン"
+title: "Patrick McCurran | パトリック マクカラン"
 name_en: "Patrick McCurran"
-name_ja: "ハトリック マクカラン"
+name_ja: "パトリック マクカラン"
 slug: "patrick-mccurran"
 position: "FL/No8"
 height: "191.0"

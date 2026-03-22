@@ -1,7 +1,7 @@
 ---
-title: "Macs PAGE | マックス ヘイシ"
+title: "Macs PAGE | マックス ペイジ"
 name_en: "Macs PAGE"
-name_ja: "マックス ヘイシ"
+name_ja: "マックス ペイジ"
 slug: "macs-page"
 position: "CTB"
 height: "176.0"

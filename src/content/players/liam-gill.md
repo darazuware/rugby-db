@@ -1,7 +1,7 @@
 ---
-title: "Liam Gill | リアム キル"
+title: "Liam Gill | リアム ギル"
 name_en: "Liam Gill"
-name_ja: "リアム キル"
+name_ja: "リアム ギル"
 slug: "liam-gill"
 position: "FL/No8"
 height: "186.0"

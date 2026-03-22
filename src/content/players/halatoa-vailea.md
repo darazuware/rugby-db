@@ -1,7 +1,7 @@
 ---
-title: "Halatoa Vailea | ハラトア ウァイレア"
+title: "Halatoa Vailea | ハラトア ヴァイレア"
 name_en: "Halatoa Vailea"
-name_ja: "ハラトア ウァイレア"
+name_ja: "ハラトア ヴァイレア"
 slug: "halatoa-vailea"
 position: "FB"
 height: "185.0"

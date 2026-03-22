@@ -1,7 +1,7 @@
 ---
-title: "Yaw PENXE | ヤウ ヘンセ"
+title: "Yaw PENXE | ヤウ ペンセ"
 name_en: "Yaw PENXE"
-name_ja: "ヤウ ヘンセ"
+name_ja: "ヤウ ペンセ"
 slug: "yaw-penxe"
 position: "WTB"
 height: "183.0"

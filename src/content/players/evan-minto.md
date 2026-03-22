@@ -1,7 +1,7 @@
 ---
-title: "Evan MINTO | エウァン ミント"
+title: "Evan MINTO | エヴァン ミント"
 name_en: "Evan MINTO"
-name_ja: "エウァン ミント"
+name_ja: "エヴァン ミント"
 slug: "evan-minto"
 position: "FL/No8"
 height: "186.0"

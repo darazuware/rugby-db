@@ -1,7 +1,7 @@
 ---
-title: "Phil COKANASIGA | フィル コカナシカ"
+title: "Phil COKANASIGA | フィル コカナシガ"
 name_en: "Phil COKANASIGA"
-name_ja: "フィル コカナシカ"
+name_ja: "フィル コカナシガ"
 slug: "phil-cokanasiga"
 position: "CTB"
 height: "183.0"

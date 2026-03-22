@@ -1,7 +1,7 @@
 ---
-title: "Adre SMITH | アトレ スミス"
+title: "Adre SMITH | アドレ スミス"
 name_en: "Adre SMITH"
-name_ja: "アトレ スミス"
+name_ja: "アドレ スミス"
 slug: "adre-smith"
 position: "LO"
 height: "200.0"

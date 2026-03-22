@@ -1,7 +1,7 @@
 ---
-title: "Alec HEPBURN | アレック ヘッフハーン"
+title: "Alec HEPBURN | アレック ヘップバーン"
 name_en: "Alec HEPBURN"
-name_ja: "アレック ヘッフハーン"
+name_ja: "アレック ヘップバーン"
 slug: "alec-hepburn"
 position: "PR"
 height: "186.0"

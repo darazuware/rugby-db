@@ -1,7 +1,7 @@
 ---
-title: "Daniel RYAN | タニエル ライアン"
+title: "Daniel RYAN | ダニエル ライアン"
 name_en: "Daniel RYAN"
-name_ja: "タニエル ライアン"
+name_ja: "ダニエル ライアン"
 slug: "daniel-ryan"
 position: "Winger"
 height: ""

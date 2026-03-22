@@ -1,7 +1,7 @@
 ---
-title: "Josua Kerevi | ケレヒ ショシュア"
+title: "Josua Kerevi | ケレビ ジョシュア"
 name_en: "Josua Kerevi"
-name_ja: "ケレヒ ショシュア"
+name_ja: "ケレビ ジョシュア"
 slug: "josua-kerevi"
 position: "UTB"
 height: "190.0"

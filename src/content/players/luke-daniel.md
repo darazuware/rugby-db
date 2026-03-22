@@ -1,7 +1,7 @@
 ---
-title: "Luke DANIEL | ルーク タニエル"
+title: "Luke DANIEL | ルーク ダニエル"
 name_en: "Luke DANIEL"
-name_ja: "ルーク タニエル"
+name_ja: "ルーク ダニエル"
 slug: "luke-daniel"
 position: "FL/No8"
 height: "186.0"

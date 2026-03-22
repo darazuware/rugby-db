@@ -1,7 +1,7 @@
 ---
-title: "Sion DAVIES | シオン テイウィス"
+title: "Sion DAVIES | シオン デイヴィス"
 name_en: "Sion DAVIES"
-name_ja: "シオン テイウィス"
+name_ja: "シオン デイヴィス"
 slug: "sion-davies"
 position: "SH"
 height: "185.0"

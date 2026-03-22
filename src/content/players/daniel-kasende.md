@@ -1,7 +1,7 @@
 ---
-title: "Daniel KASENDE | タニエル カセンテ"
+title: "Daniel KASENDE | ダニエル カセンデ"
 name_en: "Daniel KASENDE"
-name_ja: "タニエル カセンテ"
+name_ja: "ダニエル カセンデ"
 slug: "daniel-kasende"
 position: "FB"
 height: "187.0"

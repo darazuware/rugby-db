@@ -1,7 +1,7 @@
 ---
-title: "Steven NEL | スティーウン ネル"
+title: "Steven NEL | スティーヴン ネル"
 name_en: "Steven NEL"
-name_ja: "スティーウン ネル"
+name_ja: "スティーヴン ネル"
 slug: "steven-nel"
 position: "SH"
 height: "178.0"

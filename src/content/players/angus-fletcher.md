@@ -1,7 +1,7 @@
 ---
-title: "Angus Fletcher | アンカス フレッチャー"
+title: "Angus Fletcher | アンガス フレッチャー"
 name_en: "Angus Fletcher"
-name_ja: "アンカス フレッチャー"
+name_ja: "アンガス フレッチャー"
 slug: "angus-fletcher"
 position: "FL/No8"
 height: "185.0"

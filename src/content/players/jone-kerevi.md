@@ -1,7 +1,7 @@
 ---
-title: "Jone Kerevi | ショネ ケレヒ"
+title: "Jone Kerevi | ジョネ ケレビ"
 name_en: "Jone Kerevi"
-name_ja: "ショネ ケレヒ"
+name_ja: "ジョネ ケレビ"
 slug: "jone-kerevi"
 position: "HO"
 height: "184.0"
