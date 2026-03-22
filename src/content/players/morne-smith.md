@@ -1,7 +1,7 @@
 ---
-title: "Mornay SMITH | Mornay ・ スミス"
+title: "Mornay SMITH | モルネイ スミス"
 name_en: "Mornay SMITH"
-name_ja: "Mornay ・ スミス"
+name_ja: "モルネイ スミス"
 slug: "morne-smith"
 position: "PR"
 height: "181.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morne-smith"
 ---
 
 ## キャリア遍歴
-Bulls (2017 - 2026)
+bulls (2017 - 2026)

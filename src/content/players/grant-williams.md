@@ -1,7 +1,7 @@
 ---
-title: "Grant WILLIAMS | グラント ・ ウィリアムズ"
+title: "Grant WILLIAMS | クラント-ウィリアムス"
 name_en: "Grant WILLIAMS"
-name_ja: "グラント ・ ウィリアムズ"
+name_ja: "クラント-ウィリアムス"
 slug: "grant-williams"
 position: "SH"
 height: "174.0"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (5)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/grant-williams"
+scraped_url: "sharks (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Sharks (2017 - 2026)
+

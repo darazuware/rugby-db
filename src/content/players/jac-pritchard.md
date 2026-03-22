@@ -1,7 +1,7 @@
 ---
-title: "Jac PRITCHARD | Jac ・ PRITCHARD"
+title: "Jac PRITCHARD"
 name_en: "Jac PRITCHARD"
-name_ja: "Jac ・ PRITCHARD"
+name_ja: "Jac PRITCHARD"
 slug: "jac-pritchard"
 position: "PR"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Paula Mahe | パウラ ・マヘ"
+title: "Paula Mahe | ハウラ マヘ"
 name_en: "Paula Mahe"
-name_ja: "パウラ ・マヘ"
+name_ja: "ハウラ マヘ"
 slug: "paula-mahe"
 position: "CTB"
 height: "184.0"

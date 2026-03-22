@@ -1,7 +1,7 @@
 ---
-title: "Oscar JÉGOU | オスカー・ジェグ"
-name_en: "Oscar JÉGOU"
-name_ja: "オスカー・ジェグ"
+title: "Oscar JEGOU | オスカー シェク"
+name_en: "Oscar JEGOU"
+name_ja: "オスカー シェク"
 slug: "oscar-jegou"
 position: "FL/NO8"
 height: "190.0"

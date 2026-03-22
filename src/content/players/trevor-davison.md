@@ -1,12 +1,12 @@
 ---
-title: "Trevor Davison"
-name_en: "Trevor Davison"
+title: "Trevor DAVISON"
+name_en: "Trevor DAVISON"
 name_ja: ""
 slug: "trevor-davison"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "1992.08.20"
+birth_date: "nan"
 age: 33
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/trevor-davison"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

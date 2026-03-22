@@ -1,7 +1,7 @@
 ---
-title: "Francisco GORRISSEN | フランシスコ-ゴリセン"
+title: "Francisco GORRISSEN | フランシスコ-コリセン"
 name_en: "Francisco GORRISSEN"
-name_ja: "フランシスコ-ゴリセン"
+name_ja: "フランシスコ-コリセン"
 slug: "francisco-gorrissen"
 position: "FL/NO8"
 height: "191.0"

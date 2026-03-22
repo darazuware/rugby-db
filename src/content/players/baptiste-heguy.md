@@ -1,7 +1,7 @@
 ---
-title: "Baptiste HÉGUY | バティスト・エギ"
-name_en: "Baptiste HÉGUY"
-name_ja: "バティスト・エギ"
+title: "Baptiste HEGUY | ハティスト エキ"
+name_en: "Baptiste HEGUY"
+name_ja: "ハティスト エキ"
 slug: "baptiste-heguy"
 position: "FL/NO8"
 height: "196.0"

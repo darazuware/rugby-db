@@ -1,7 +1,7 @@
 ---
-title: "Cerrig SMITH | Cerrig ・ スミス"
+title: "Cerrig SMITH | Cerrig スミス"
 name_en: "Cerrig SMITH"
-name_ja: "Cerrig ・ スミス"
+name_ja: "Cerrig スミス"
 slug: "cerrig-smith"
 position: "Back row"
 height: "188.0"

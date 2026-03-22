@@ -1,7 +1,7 @@
 ---
-title: "Nicholas GASPERINI | Nicholas ・ GASPERINI"
+title: "Nicholas GASPERINI"
 name_en: "Nicholas GASPERINI"
-name_ja: "Nicholas ・ GASPERINI"
+name_ja: "Nicholas GASPERINI"
 slug: "nicholas-gasperini"
 position: "HO"
 height: "185.0"

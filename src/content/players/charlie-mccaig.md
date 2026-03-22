@@ -1,7 +1,7 @@
 ---
-title: "Charlie MCCAIG | チャーリー・マッケイブ"
+title: "Charlie MCCAIG | チャーリー マッケイフ"
 name_en: "Charlie MCCAIG"
-name_ja: "チャーリー・マッケイブ"
+name_ja: "チャーリー マッケイフ"
 slug: "charlie-mccaig"
 position: "CTB"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/charlie-mccaig"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "exeter chiefs (2022 - 2024) -> cornish pirates (2024 - 2024) -> exeter chiefs (2025 - 2025) -> cornish pirates (2025 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/charlie-mccaig"
 ---
 
 ## キャリア遍歴
-
+exeter chiefs (2022 - 2024) -> cornish pirates (2024 - 2024) -> exeter chiefs (2025 - 2025) -> cornish pirates (2025 - 2025) -> edimbourg rugby (2025 - 2026)

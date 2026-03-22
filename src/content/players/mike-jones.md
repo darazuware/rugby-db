@@ -1,7 +1,7 @@
 ---
-title: "Mikey JONES | Mikey ・ JONES"
+title: "Mikey JONES"
 name_en: "Mikey JONES"
-name_ja: "Mikey ・ JONES"
+name_ja: "Mikey JONES"
 slug: "mike-jones"
 position: "PR"
 height: "181.0"

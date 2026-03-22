@@ -1,7 +1,7 @@
 ---
-title: "Ruben SCHOEMAN | Ruben ・ SCHOEMAN"
+title: "Ruben SCHOEMAN | ルーヘン スホーマン"
 name_en: "Ruben SCHOEMAN"
-name_ja: "Ruben ・ SCHOEMAN"
+name_ja: "ルーヘン スホーマン"
 slug: "ruben-schoeman"
 position: "LO"
 height: "199.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruben-schoeman"
 ---
 
 ## キャリア遍歴
-Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)
+golden lions (2018 - 2019) -> lions rugby (2019 - 2026)

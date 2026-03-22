@@ -1,7 +1,7 @@
 ---
-title: "Tom O'TOOLE | トム・オトゥール"
+title: "Tom O'TOOLE | トム オトゥール"
 name_en: "Tom O'TOOLE"
-name_ja: "トム・オトゥール"
+name_ja: "トム オトゥール"
 slug: "tom-o'toole"
 position: "PR"
 height: "185.0"

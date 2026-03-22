@@ -1,7 +1,7 @@
 ---
-title: "Ross THOMPSON | ロス ・ THOMPSON"
+title: "Ross THOMPSON | ロス トンフソン"
 name_en: "Ross THOMPSON"
-name_ja: "ロス ・ THOMPSON"
+name_ja: "ロス トンフソン"
 slug: "ross-thompson"
 position: "SO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Call-ups (3)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ross-thompson"
+scraped_url: "glasgow warriors (2020 - 2024) -> edimbourg rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2020 - 2024) -> Edimbourg Rugby (2024 - 2026)
+

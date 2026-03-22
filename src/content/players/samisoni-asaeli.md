@@ -1,7 +1,7 @@
 ---
-title: "Samisoni Asaeli | サミソニ ・アサエリ"
+title: "Samisoni Asaeli | サミソニ アサエリ"
 name_en: "Samisoni Asaeli"
-name_ja: "サミソニ ・アサエリ"
+name_ja: "サミソニ アサエリ"
 slug: "samisoni-asaeli"
 position: "HO"
 height: "180.0"

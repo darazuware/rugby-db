@@ -1,7 +1,7 @@
 ---
-title: "Darragh MURRAY | ダラ ・ MURRAY"
+title: "Darragh MURRAY | タラ MURRAY"
 name_en: "Darragh MURRAY"
-name_ja: "ダラ ・ MURRAY"
+name_ja: "タラ MURRAY"
 slug: "darragh-murray"
 position: "LO"
 height: "200.0"

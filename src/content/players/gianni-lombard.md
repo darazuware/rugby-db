@@ -1,7 +1,7 @@
 ---
-title: "Gianni LOMBARD | Gianni ・ LOMBARD"
+title: "Gianni LOMBARD | シャンニ-ロンハート"
 name_en: "Gianni LOMBARD"
-name_ja: "Gianni ・ LOMBARD"
+name_ja: "シャンニ-ロンハート"
 slug: "gianni-lombard"
 position: "SO"
 height: "178.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gianni-lombard"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2021) -> Red Hurricanes Osaka (2021 - 2022) -> Lions Rugby (2022 - 2026)
+lions rugby (2018 - 2021) -> red hurricanes osaka (2021 - 2022) -> lions rugby (2022 - 2026)

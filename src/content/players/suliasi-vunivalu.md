@@ -1,7 +1,7 @@
 ---
-title: "Suliasi VUNIVALU | スリアシ・ヴニヴァル"
+title: "Suliasi VUNIVALU | スリアシ ウニウァル"
 name_en: "Suliasi VUNIVALU"
-name_ja: "スリアシ・ヴニヴァル"
+name_ja: "スリアシ ウニウァル"
 slug: "suliasi-vunivalu"
 position: "WTB"
 height: "192.0"

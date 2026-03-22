@@ -1,7 +1,7 @@
 ---
-title: "Lata Tangimana | ラタ ・タンギマナ"
+title: "Lata Tangimana | ラタ タンキマナ"
 name_en: "Lata Tangimana"
-name_ja: "ラタ ・タンギマナ"
+name_ja: "ラタ タンキマナ"
 slug: "lata-tangimana"
 position: "PR"
 height: "183.0"

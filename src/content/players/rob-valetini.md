@@ -1,7 +1,7 @@
 ---
-title: "Rob VALETINI | ロブ・ヴァレティニ"
+title: "Rob VALETINI | ロフ ウァレティニ"
 name_en: "Rob VALETINI"
-name_ja: "ロブ・ヴァレティニ"
+name_ja: "ロフ ウァレティニ"
 slug: "rob-valetini"
 position: "FL/No8"
 height: "193.0"

@@ -1,7 +1,7 @@
 ---
-title: "Rabah SLIMANI | Rabah ・ SLIMANI"
+title: "Rabah SLIMANI | ラハ スリマニ"
 name_en: "Rabah SLIMANI"
-name_ja: "Rabah ・ SLIMANI"
+name_ja: "ラハ スリマニ"
 slug: "rabah-slimani"
 position: "PR"
 height: "178.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "France (57)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/rabah-slimani"
+scraped_url: "aas sarcelles rugby (2004 - 2005) -> stade français paris rugby (2005 - 2017) -> asm clermont auvergne (2017 - 2024) -> leinster rugby (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-AAS Sarcelles Rugby (2004 - 2005) -> Stade Français Paris Rugby (2005 - 2017) -> ASM Clermont Auvergne (2017 - 2024) -> Leinster Rugby (2024 - 2026)
+France

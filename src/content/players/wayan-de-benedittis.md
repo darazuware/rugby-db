@@ -1,7 +1,7 @@
 ---
-title: "Wayan DE BENEDITTIS | ワジャン-デ・ベネディッティス"
+title: "Wayan DE BENEDITTIS | ワシャン-テ ヘネティッティス"
 name_en: "Wayan DE BENEDITTIS"
-name_ja: "ワジャン-デ・ベネディッティス"
+name_ja: "ワシャン-テ ヘネティッティス"
 slug: "wayan-de-benedittis"
 position: "PR"
 height: "185.0"

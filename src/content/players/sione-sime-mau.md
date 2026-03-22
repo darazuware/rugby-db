@@ -1,7 +1,7 @@
 ---
-title: "Sione Sime Mau | シオネ ・シメ・マウ"
+title: "Sione Sime Mau | シオネ シメ マウ"
 name_en: "Sione Sime Mau"
-name_ja: "シオネ ・シメ・マウ"
+name_ja: "シオネ シメ マウ"
 slug: "sione-sime-mau"
 position: "HO"
 height: "180.0"

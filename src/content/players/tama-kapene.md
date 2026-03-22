@@ -1,7 +1,7 @@
 ---
-title: "Tama Kapene | タマ ・カペネ"
+title: "Tama Kapene | タマ カヘネ"
 name_en: "Tama Kapene"
-name_ja: "タマ ・カペネ"
+name_ja: "タマ カヘネ"
 slug: "tama-kapene"
 position: "FL/No8"
 height: "187.0"

@@ -1,9 +1,9 @@
 ---
-title: "Rory DARGE | Rory ・ DARGE"
+title: "Rory DARGE | ロリー ターシ"
 name_en: "Rory DARGE"
-name_ja: "Rory ・ DARGE"
+name_ja: "ロリー ターシ"
 slug: "rory-darge"
-position: "Back row"
+position: "FL/No8"
 height: "186.0"
 weight: "102.0"
 birth_date: "2000.02.23"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Scotland (25)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/rory-darge"
+scraped_url: "southern knights (2019 - 2020) -> edimbourg rugby (2020 - 2020) -> glasgow warriors (2020 - 2020) -> edimbourg rugby (2021 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Southern Knights (2019 - 2020) -> Edimbourg Rugby (2020 - 2020) -> Glasgow Warriors (2020 - 2020) -> Edimbourg Rugby (2021 - 2021) -> Glasgow Warriors (2021 - 2026)
+Scotland

@@ -1,7 +1,7 @@
 ---
-title: "Tony Alofipo | トニー ・アロフィポ"
+title: "Tony Alofipo | トニー アロフィホ"
 name_en: "Tony Alofipo"
-name_ja: "トニー ・アロフィポ"
+name_ja: "トニー アロフィホ"
 slug: "tony-alofipo"
 position: "CTB"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Patrick SCHICKERLING | Patrick ・ SCHICKERLING"
+title: "Patrick SCHICKERLING | ハトリック シッカーリンク"
 name_en: "Patrick SCHICKERLING"
-name_ja: "Patrick ・ SCHICKERLING"
+name_ja: "ハトリック シッカーリンク"
 slug: "patrick-schickerling"
 position: "PR"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/patrick-schickerling"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2019 - 2024) -> Glasgow Warriors (2024 - 2026)
+exeter chiefs (2019 - 2024) -> glasgow warriors (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Reinhardt LUDWIG | Reinhardt ・ LUDWIG"
+title: "Reinhardt LUDWIG | ラインハルト ルートウィヒ"
 name_en: "Reinhardt LUDWIG"
-name_ja: "Reinhardt ・ LUDWIG"
+name_ja: "ラインハルト ルートウィヒ"
 slug: "reinhardt-ludwig"
 position: "LO"
 height: "198.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reinhardt-ludwig"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2020 - 2021) -> Bulls (2021 - 2026)
+blue bulls (2020 - 2021) -> bulls (2021 - 2026)

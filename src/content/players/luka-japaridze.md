@@ -1,7 +1,7 @@
 ---
-title: "Luka JAPARIDZE | ルカ・ジャパリゼ"
+title: "Luka JAPARIDZE | ルカ シャハリセ"
 name_en: "Luka JAPARIDZE"
-name_ja: "ルカ・ジャパリゼ"
+name_ja: "ルカ シャハリセ"
 slug: "luka-japaridze"
 position: "PR"
 height: "181.0"

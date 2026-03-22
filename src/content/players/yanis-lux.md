@@ -1,7 +1,7 @@
 ---
-title: "Yanis LUX | ヤニス・リュクス"
+title: "Yanis LUX | ヤニス リュクス"
 name_en: "Yanis LUX"
-name_ja: "ヤニス・リュクス"
+name_ja: "ヤニス リュクス"
 slug: "yanis-lux"
 position: "PR"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lukhanyo Am | ルカニョ ・アム"
+title: "Lukhanyo Am | ルカニョ アム"
 name_en: "Lukhanyo Am"
-name_ja: "ルカニョ ・アム"
+name_ja: "ルカニョ アム"
 slug: "lukhanyo-am"
 position: "CTB"
 height: "186.0"

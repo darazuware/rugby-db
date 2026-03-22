@@ -1,7 +1,7 @@
 ---
-title: "Gary PORTER | Gary ・ PORTER"
+title: "Gary PORTER | ケイリー ホーター"
 name_en: "Gary PORTER"
-name_ja: "Gary ・ PORTER"
+name_ja: "ケイリー ホーター"
 slug: "gary-porter"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gary-porter"
 ---
 
 ## キャリア遍歴
-Western Province (2017 - 2018) -> Ealing Trailfinders (2021 - 2022) -> Stormers (2022 - 2026)
+western province (2017 - 2018) -> ealing trailfinders (2021 - 2022) -> stormers (2022 - 2026)

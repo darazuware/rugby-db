@@ -1,7 +1,7 @@
 ---
-title: "Tonishio Vaiahu | トニシオ バイフ"
+title: "Tonishio Vaiahu | トニシオ ハイフ"
 name_en: "Tonishio Vaiahu"
-name_ja: "トニシオ バイフ"
+name_ja: "トニシオ ハイフ"
 slug: "tonishio-vaiahu"
 position: "CTB"
 height: "177.0"

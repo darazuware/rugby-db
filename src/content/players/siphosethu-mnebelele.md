@@ -1,7 +1,7 @@
 ---
-title: "Siphosethu MNEBELELE | Siphosethu ・ MNEBELELE"
+title: "Siphosethu MNEBELELE"
 name_en: "Siphosethu MNEBELELE"
-name_ja: "Siphosethu ・ MNEBELELE"
+name_ja: "Siphosethu MNEBELELE"
 slug: "siphosethu-mnebelele"
 position: "HO"
 height: "183.0"

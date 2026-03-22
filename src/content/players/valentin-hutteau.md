@@ -1,7 +1,7 @@
 ---
-title: "Valentin HUTTEAU | ヴァランタン・ユトー"
+title: "Valentin HUTTEAU | ウァランタン ユトー"
 name_en: "Valentin HUTTEAU"
-name_ja: "ヴァランタン・ユトー"
+name_ja: "ウァランタン ユトー"
 slug: "valentin-hutteau"
 position: "SH"
 height: "169.0"

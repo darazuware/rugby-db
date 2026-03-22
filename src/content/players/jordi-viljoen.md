@@ -1,7 +1,7 @@
 ---
-title: "Jordi VILJOEN | ジョルディ・フォルヒェン"
+title: "Jordi VILJOEN | ショルティ フォルヒェン"
 name_en: "Jordi VILJOEN"
-name_ja: "ジョルディ・フォルヒェン"
+name_ja: "ショルティ フォルヒェン"
 slug: "jordi-viljoen"
 position: "SH"
 height: "169.0"

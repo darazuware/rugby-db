@@ -1,7 +1,7 @@
 ---
-title: "Harri LEWIS | Harri ・ LEWIS"
+title: "Harri LEWIS"
 name_en: "Harri LEWIS"
-name_ja: "Harri ・ LEWIS"
+name_ja: "Harri LEWIS"
 slug: "harri-lewis"
 position: "LO"
 height: ""

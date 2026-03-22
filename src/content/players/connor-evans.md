@@ -1,7 +1,7 @@
 ---
-title: "Connor EVANS | Connor ・ EVANS"
+title: "Connor EVANS"
 name_en: "Connor EVANS"
-name_ja: "Connor ・ EVANS"
+name_ja: "Connor EVANS"
 slug: "connor-evans"
 position: "LO"
 height: "196.0"

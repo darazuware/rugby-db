@@ -1,7 +1,7 @@
 ---
-title: "Hayden Cripps | クリップス ヘイデン"
+title: "Hayden Cripps | クリッフス ヘイテン"
 name_en: "Hayden Cripps"
-name_ja: "クリップス ヘイデン"
+name_ja: "クリッフス ヘイテン"
 slug: "hayden-cripps"
 position: "SO"
 height: "177.0"

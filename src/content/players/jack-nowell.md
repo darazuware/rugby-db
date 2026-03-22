@@ -1,7 +1,7 @@
 ---
-title: "Jack NOWELL | ジャック-ノウェル"
+title: "Jack NOWELL | シャック-ノウェル"
 name_en: "Jack NOWELL"
-name_ja: "ジャック-ノウェル"
+name_ja: "シャック-ノウェル"
 slug: "jack-nowell"
 position: "WTB"
 height: "181.0"

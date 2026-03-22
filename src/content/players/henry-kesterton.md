@@ -1,7 +1,7 @@
 ---
-title: "Henry KESTERTON | Henry ・ KESTERTON"
+title: "Henry KESTERTON | ヘンリー ケスタートン"
 name_en: "Henry KESTERTON"
-name_ja: "Henry ・ KESTERTON"
+name_ja: "ヘンリー ケスタートン"
 slug: "henry-kesterton"
 position: "CTB"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-kesterton"
 ---
 
 ## キャリア遍歴
-Heriot's Rugby Club (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)
+heriot's rugby club (2024 - 2025) -> edimbourg rugby (2025 - 2026)

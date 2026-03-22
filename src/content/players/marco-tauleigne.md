@@ -1,7 +1,7 @@
 ---
-title: "Marco TAULEIGNE | マルコ・トレニュ"
+title: "Marco TAULEIGNE | マルコ トレニュ"
 name_en: "Marco TAULEIGNE"
-name_ja: "マルコ・トレニュ"
+name_ja: "マルコ トレニュ"
 slug: "marco-tauleigne"
 position: "FL/NO8"
 height: "191.0"

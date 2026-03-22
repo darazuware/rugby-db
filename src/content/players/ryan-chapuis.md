@@ -1,7 +1,7 @@
 ---
-title: "Ryan CHAPUIS | ライアン・シャピュイ"
+title: "Ryan CHAPUIS | ライアン シャヒュイ"
 name_en: "Ryan CHAPUIS"
-name_ja: "ライアン・シャピュイ"
+name_ja: "ライアン シャヒュイ"
 slug: "ryan-chapuis"
 position: "FL/NO8"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Marshall SYKES | Marshall ・ SYKES"
+title: "Marshall SYKES | マーシャル サイクス"
 name_en: "Marshall SYKES"
-name_ja: "Marshall ・ SYKES"
+name_ja: "マーシャル サイクス"
 slug: "marshall-sykes"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Scotland (1)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/marshall-sykes"
+scraped_url: "glasgow warriors (2019 - 2019) -> edimbourg rugby (2019 - 2019) -> glasgow warriors (2020 - 2020) -> edimbourg rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2019) -> Edimbourg Rugby (2019 - 2019) -> Glasgow Warriors (2020 - 2020) -> Edimbourg Rugby (2020 - 2026)
+

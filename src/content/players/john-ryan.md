@@ -1,7 +1,7 @@
 ---
-title: "John RYAN | ジョン ・ ライアン"
+title: "John RYAN | ション ライアン"
 name_en: "John RYAN"
-name_ja: "ジョン ・ ライアン"
+name_ja: "ション ライアン"
 slug: "john-ryan"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "Ireland (20)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/john-ryan"
+scraped_url: "munster rugby (2012 - 2022) -> wasps (2022 - 2022) -> chiefs (2022 - 2022) -> munster rugby (2023 - 2023) -> wasps (2023 - 2023) -> chiefs (2023 - 2023) -> munster rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2012 - 2022) -> Wasps (2022 - 2022) -> Chiefs (2022 - 2022) -> Munster Rugby (2023 - 2023) -> Wasps (2023 - 2023) -> Chiefs (2023 - 2023) -> Munster Rugby (2023 - 2026)
+Ireland

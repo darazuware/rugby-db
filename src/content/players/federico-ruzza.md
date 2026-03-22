@@ -1,7 +1,7 @@
 ---
-title: "Federico RUZZA | Federico ・ RUZZA"
+title: "Federico RUZZA | フェテリコ-ルッツァ"
 name_en: "Federico RUZZA"
-name_ja: "Federico ・ RUZZA"
+name_ja: "フェテリコ-ルッツァ"
 slug: "federico-ruzza"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (60)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/federico-ruzza"
+scraped_url: "zebre parma (2014 - 2017) -> benetton rugby trévise (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2014 - 2017) -> Benetton Rugby Trévise (2017 - 2026)
+Italy

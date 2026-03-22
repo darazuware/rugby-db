@@ -1,7 +1,7 @@
 ---
-title: "Axel GUILLAUD | アクセル・ギヨー"
+title: "Axel GUILLAUD | アクセル キヨー"
 name_en: "Axel GUILLAUD"
-name_ja: "アクセル・ギヨー"
+name_ja: "アクセル キヨー"
 slug: "axel-guillaud"
 position: "FB"
 height: "190.0"

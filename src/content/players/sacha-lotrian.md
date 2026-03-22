@@ -1,7 +1,7 @@
 ---
-title: "Sacha LOTRIAN | サシャ・ロトリアン"
+title: "Sacha LOTRIAN | サシャ ロトリアン"
 name_en: "Sacha LOTRIAN"
-name_ja: "サシャ・ロトリアン"
+name_ja: "サシャ ロトリアン"
 slug: "sacha-lotrian"
 position: "PR"
 height: "180.0"

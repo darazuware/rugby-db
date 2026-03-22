@@ -1,7 +1,7 @@
 ---
-title: "Huw SUTTON | Huw ・ SUTTON"
+title: "Huw SUTTON"
 name_en: "Huw SUTTON"
-name_ja: "Huw ・ SUTTON"
+name_ja: "Huw SUTTON"
 slug: "huw-sutton"
 position: "LO"
 height: "199.0"

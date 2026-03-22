@@ -1,7 +1,7 @@
 ---
-title: "Hugo DJEHI | ユーゴー・ジェイ"
+title: "Hugo DJEHI | ユーコー シェイ"
 name_en: "Hugo DJEHI"
-name_ja: "ユーゴー・ジェイ"
+name_ja: "ユーコー シェイ"
 slug: "hugo-djehi"
 position: "PR"
 height: "183.0"

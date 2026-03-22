@@ -1,7 +1,7 @@
 ---
-title: "Brad SHIELDS | ブラッド-シールズ"
+title: "Brad SHIELDS | フラット-シールス"
 name_en: "Brad SHIELDS"
-name_ja: "ブラッド-シールズ"
+name_ja: "フラット-シールス"
 slug: "brad-shields"
 position: "FL/No8"
 height: "194.0"

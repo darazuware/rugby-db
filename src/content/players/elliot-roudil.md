@@ -1,7 +1,7 @@
 ---
-title: "Eliott ROUDIL | エリオット・ルディル"
+title: "Eliott ROUDIL | エリオット ルティル"
 name_en: "Eliott ROUDIL"
-name_ja: "エリオット・ルディル"
+name_ja: "エリオット ルティル"
 slug: "elliot-roudil"
 position: "CTB"
 height: "184.0"

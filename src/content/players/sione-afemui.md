@@ -1,7 +1,7 @@
 ---
-title: "Sione Afemui | シオネ ・アフェムイ"
+title: "Sione Afemui | シオネ アフェムイ"
 name_en: "Sione Afemui"
-name_ja: "シオネ ・アフェムイ"
+name_ja: "シオネ アフェムイ"
 slug: "sione-afemui"
 position: "FL/No8"
 height: "187.0"

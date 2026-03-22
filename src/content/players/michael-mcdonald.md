@@ -1,7 +1,7 @@
 ---
-title: "Michael MCDONALD | マイケル・マクドナルド"
+title: "Michael MCDONALD | マイケル マクトナルト"
 name_en: "Michael MCDONALD"
-name_ja: "マイケル・マクドナルド"
+name_ja: "マイケル マクトナルト"
 slug: "michael-mcdonald"
 position: "SH"
 height: "178.0"

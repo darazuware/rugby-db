@@ -1,7 +1,7 @@
 ---
-title: "Will GREATBANKS | Will ・ GREATBANKS"
+title: "Will GREATBANKS | ウィル クレートハンクス"
 name_en: "Will GREATBANKS"
-name_ja: "Will ・ GREATBANKS"
+name_ja: "ウィル クレートハンクス"
 slug: "william-greatbanks"
 position: "LO"
 height: "198.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/william-greatbanks"
 ---
 
 ## キャリア遍歴
-Club Athlétique Ribéracois (2010 - 2018) -> Union Bordeaux-Bègles (2018 - 2018) -> Soyaux-Angoulême XV Charente (2018 - 2018) -> Union Bordeaux-Bègles (2019 - 2019) -> Soyaux-Angoulême XV Charente (2019 - 2024) -> Ospreys (2024 - 2026)
+club athlétique ribéracois (2010 - 2018) -> union bordeaux-bègles (2018 - 2018) -> soyaux-angoulême xv charente (2018 - 2018) -> union bordeaux-bègles (2019 - 2019) -> soyaux-angoulême xv charente (2019 - 2024) -> ospreys (2024 - 2026)

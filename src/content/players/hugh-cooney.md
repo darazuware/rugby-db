@@ -1,7 +1,7 @@
 ---
-title: "Hugh COONEY | Hugh ・ COONEY"
+title: "Hugh COONEY"
 name_en: "Hugh COONEY"
-name_ja: "Hugh ・ COONEY"
+name_ja: "Hugh COONEY"
 slug: "hugh-cooney"
 position: "CTB"
 height: "182.0"

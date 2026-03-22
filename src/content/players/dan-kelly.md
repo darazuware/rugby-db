@@ -1,7 +1,7 @@
 ---
-title: "Dan KELLY | ダン-ケリー"
+title: "Dan KELLY | タン-ケリー"
 name_en: "Dan KELLY"
-name_ja: "ダン-ケリー"
+name_ja: "タン-ケリー"
 slug: "dan-kelly"
 position: "CTB"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/dan-kelly"
-high_school: ""
+caps: ""
+high_school: "England"
 university: ""
-scraped_url: "sale sharks (2017 - 2019) -> loughborough university (2019 - 2019) -> leicester tigers (2019 - 2019) -> loughborough university (2020 - 2020) -> leicester tigers (2020 - 2025) -> munster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/dan-kelly"
 ---
 
 ## キャリア遍歴
-England
+sale sharks (2017 - 2019) -> loughborough university (2019 - 2019) -> leicester tigers (2019 - 2019) -> loughborough university (2020 - 2020) -> leicester tigers (2020 - 2025) -> munster rugby (2025 - 2026)

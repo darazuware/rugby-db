@@ -1,7 +1,7 @@
 ---
-title: "Arthur MATHIRON | アルチュール・マティロン"
+title: "Arthur MATHIRON | アルチュール マティロン"
 name_en: "Arthur MATHIRON"
-name_ja: "アルチュール・マティロン"
+name_ja: "アルチュール マティロン"
 slug: "arthur-mathiron"
 position: "WTB"
 height: "180.0"

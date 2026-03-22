@@ -1,7 +1,7 @@
 ---
-title: "Ryan BAIRD | ライアン ・ BAIRD"
+title: "Ryan BAIRD | ライアン BAIRD"
 name_en: "Ryan BAIRD"
-name_ja: "ライアン ・ BAIRD"
+name_ja: "ライアン BAIRD"
 slug: "ryan-baird"
 position: "LO"
 height: "198.0"

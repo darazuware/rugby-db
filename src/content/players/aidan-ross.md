@@ -1,7 +1,7 @@
 ---
-title: "Aidan ROSS | エイダン・ロス"
+title: "Aidan ROSS | エイタン ロス"
 name_en: "Aidan ROSS"
-name_ja: "エイダン・ロス"
+name_ja: "エイタン ロス"
 slug: "aidan-ross"
 position: "PR"
 height: "189.0"

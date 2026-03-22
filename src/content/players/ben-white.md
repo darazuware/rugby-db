@@ -1,7 +1,7 @@
 ---
-title: "Ben WHITE | ベン-ホワイト"
+title: "Ben WHITE | ヘン-ホワイト"
 name_en: "Ben WHITE"
-name_ja: "ベン-ホワイト"
+name_ja: "ヘン-ホワイト"
 slug: "ben-white"
 position: "SH"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Feinga Fakai | フェインガ ・ファカイ"
+title: "Feinga Fakai | フェインカ ファカイ"
 name_en: "Feinga Fakai"
-name_ja: "フェインガ ・ファカイ"
+name_ja: "フェインカ ファカイ"
 slug: "feinga-fakai"
 position: "PR"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sam PARRY | サム ・ PARRY"
+title: "Sam PARRY | サム ハリー"
 name_en: "Sam PARRY"
-name_ja: "サム ・ PARRY"
+name_ja: "サム ハリー"
 slug: "sam-parry"
 position: "HO"
 height: "186.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: "Wales (7)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/sam-parry"
+scraped_url: "dragons rfc (2013 - 2014) -> ospreys (2014 - 2018) -> bristol bears (2018 - 2018) -> ospreys (2019 - 2019) -> bristol bears (2019 - 2019) -> ospreys (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2013 - 2014) -> Ospreys (2014 - 2018) -> Bristol Bears (2018 - 2018) -> Ospreys (2019 - 2019) -> Bristol Bears (2019 - 2019) -> Ospreys (2019 - 2026)
+Wales

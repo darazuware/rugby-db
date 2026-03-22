@@ -1,7 +1,7 @@
 ---
-title: "Joel SCLAVI | ジョエル・スクラヴィ"
+title: "Joel SCLAVI | ショエル スクラウィ"
 name_en: "Joel SCLAVI"
-name_ja: "ジョエル・スクラヴィ"
+name_ja: "ショエル スクラウィ"
 slug: "joel-sclavi"
 position: "PR"
 height: "190.0"

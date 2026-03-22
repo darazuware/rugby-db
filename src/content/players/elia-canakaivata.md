@@ -1,7 +1,7 @@
 ---
-title: "Elia CANAKAIVATA | エリア-ジャナカイヴァタ"
+title: "Elia CANAKAIVATA | エリア-シャナカイウァタ"
 name_en: "Elia CANAKAIVATA"
-name_ja: "エリア-ジャナカイヴァタ"
+name_ja: "エリア-シャナカイウァタ"
 slug: "elia-canakaivata"
 position: "FL/No8"
 height: "185.0"

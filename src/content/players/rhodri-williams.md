@@ -1,7 +1,7 @@
 ---
-title: "Rhodri WILLIAMS | Rhodri ・ ウィリアムズ"
+title: "Rhodri WILLIAMS | ロトリ ウィリアムス"
 name_en: "Rhodri WILLIAMS"
-name_ja: "Rhodri ・ ウィリアムズ"
+name_ja: "ロトリ ウィリアムス"
 slug: "rhodri-williams"
 position: "SH"
 height: "179.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Wales (5)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/rhodri-williams"
+scraped_url: "scarlets (2013 - 2016) -> bristol bears (2016 - 2017) -> dragons rfc (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2013 - 2016) -> Bristol Bears (2016 - 2017) -> Dragons RFC (2018 - 2026)
+Wales

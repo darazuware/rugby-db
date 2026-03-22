@@ -1,7 +1,7 @@
 ---
-title: "Warrick GELANT | ウォリック・ヘラント"
+title: "Warrick GELANT"
 name_en: "Warrick GELANT"
-name_ja: "ウォリック・ヘラント"
+name_ja: "Warrick GELANT"
 slug: "warrick-gelant"
 position: "FB"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: "South Africa (7)"
 high_school: ""
 university: ""
-scraped_url: "bulls (2015 - 2020) -> stormers (2020 - 2022) -> racing 92 (2022 - 2023) -> stormers (2023 - 2026)"
+scraped_url: "https://all.rugby/player/warrick-gelant"
 ---
 
 ## キャリア遍歴
-South Africa
+Bulls (2015 - 2020) -> Stormers (2020 - 2022) -> Racing 92 (2022 - 2023) -> Stormers (2023 - 2026)

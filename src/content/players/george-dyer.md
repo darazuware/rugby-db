@@ -1,7 +1,7 @@
 ---
-title: "George DYER | ジョージ・ダイヤー"
+title: "George DYER | ショーシ タイヤー"
 name_en: "George DYER"
-name_ja: "ジョージ・ダイヤー"
+name_ja: "ショーシ タイヤー"
 slug: "george-dyer"
 position: "PR"
 height: "188.0"

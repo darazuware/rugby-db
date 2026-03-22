@@ -1,7 +1,7 @@
 ---
-title: "Tom SPRING | トム・スプリング"
+title: "Tom SPRING | トム スフリンク"
 name_en: "Tom SPRING"
-name_ja: "トム・スプリング"
+name_ja: "トム スフリンク"
 slug: "tom-spring"
 position: "WTB"
 height: "186.0"

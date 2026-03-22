@@ -1,12 +1,12 @@
 ---
-title: "Fraser Dingwall"
-name_en: "Fraser Dingwall"
+title: "Fraser DINGWALL"
+name_en: "Fraser DINGWALL"
 name_ja: ""
 slug: "fraser-dingwall"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "1999.04.07"
+birth_date: "nan"
 age: 26
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "England (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/fraser-dingwall"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

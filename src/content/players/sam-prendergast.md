@@ -1,7 +1,7 @@
 ---
-title: "Sam PRENDERGAST | サム ・ PRENDERGAST"
+title: "Sam PRENDERGAST | サム フレンターカスト"
 name_en: "Sam PRENDERGAST"
-name_ja: "サム ・ PRENDERGAST"
+name_ja: "サム フレンターカスト"
 slug: "sam-prendergast"
 position: "SO"
 height: "194.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (8)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/sam-prendergast"
+scraped_url: "lansdowne fc (2021 - 2022) -> leinster rugby (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Lansdowne FC (2021 - 2022) -> Leinster Rugby (2022 - 2026)
+Ireland

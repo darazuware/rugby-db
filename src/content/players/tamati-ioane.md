@@ -1,7 +1,7 @@
 ---
-title: "Tamati Ioane | タマティ ・イオアネ"
+title: "Tamati Ioane | タマティ イオアネ"
 name_en: "Tamati Ioane"
-name_ja: "タマティ ・イオアネ"
+name_ja: "タマティ イオアネ"
 slug: "tamati-ioane"
 position: "FL/No8"
 height: "186.0"

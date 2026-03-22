@@ -1,7 +1,7 @@
 ---
-title: "Dick Wilson | ディック ・ウィルソン"
+title: "Dick Wilson | ティック ウィルソン"
 name_en: "Dick Wilson"
-name_ja: "ディック ・ウィルソン"
+name_ja: "ティック ウィルソン"
 slug: "dick-wilson"
 position: "CTB"
 height: "180.0"

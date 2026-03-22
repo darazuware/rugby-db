@@ -1,7 +1,7 @@
 ---
-title: "Taine KOLOSE | テイン・コロセ"
+title: "Taine KOLOSE | テイン コロセ"
 name_en: "Taine KOLOSE"
-name_ja: "テイン・コロセ"
+name_ja: "テイン コロセ"
 slug: "taine-kolose"
 position: "HO"
 height: "187.0"

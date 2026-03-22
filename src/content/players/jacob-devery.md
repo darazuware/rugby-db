@@ -1,7 +1,7 @@
 ---
-title: "Jacob DEVERY | ジェイコブ-デヴェリー"
+title: "Jacob DEVERY | シェイコフ-テウェリー"
 name_en: "Jacob DEVERY"
-name_ja: "ジェイコブ-デヴェリー"
+name_ja: "シェイコフ-テウェリー"
 slug: "jacob-devery"
 position: "HO"
 height: "180.0"

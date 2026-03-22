@@ -1,7 +1,7 @@
 ---
-title: "Jeremy WARD | ジェレミー-ウォード"
+title: "Jeremy WARD | シェレミー-ウォート"
 name_en: "Jeremy WARD"
-name_ja: "ジェレミー-ウォード"
+name_ja: "シェレミー-ウォート"
 slug: "jeremy-ward"
 position: "CTB"
 height: "187.0"

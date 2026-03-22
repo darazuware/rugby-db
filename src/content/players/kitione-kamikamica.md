@@ -1,7 +1,7 @@
 ---
-title: "Kitione KAMIKAMICA | キティオネ・カミカミザ"
+title: "Kitione KAMIKAMICA | キティオネ カミカミサ"
 name_en: "Kitione KAMIKAMICA"
-name_ja: "キティオネ・カミカミザ"
+name_ja: "キティオネ カミカミサ"
 slug: "kitione-kamikamica"
 position: "FL/NO8"
 height: "188.0"

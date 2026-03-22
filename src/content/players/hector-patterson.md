@@ -1,7 +1,7 @@
 ---
-title: "Hector PATTERSON | Hector ・ PATTERSON"
+title: "Hector PATTERSON"
 name_en: "Hector PATTERSON"
-name_ja: "Hector ・ PATTERSON"
+name_ja: "Hector PATTERSON"
 slug: "hector-patterson"
 position: "SH"
 height: "182.0"

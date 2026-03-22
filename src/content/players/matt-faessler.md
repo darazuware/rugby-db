@@ -1,7 +1,7 @@
 ---
-title: "Matt FAESSLER | マット・フェスラー"
+title: "Matt FAESSLER | マット フェスラー"
 name_en: "Matt FAESSLER"
-name_ja: "マット・フェスラー"
+name_ja: "マット フェスラー"
 slug: "matt-faessler"
 position: "HO"
 height: "183.0"

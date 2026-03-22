@@ -1,9 +1,9 @@
 ---
-title: "Nick TIMONEY | Nick ・ TIMONEY"
+title: "Nick TIMONEY | ニック ティモニー"
 name_en: "Nick TIMONEY"
-name_ja: "Nick ・ TIMONEY"
+name_ja: "ニック ティモニー"
 slug: "nick-timoney"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "114.0"
 birth_date: "1995.08.01"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "Ireland (3)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/nick-timoney"
+scraped_url: "ulster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2016 - 2026)
+Ireland

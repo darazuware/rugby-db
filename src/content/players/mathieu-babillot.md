@@ -1,7 +1,7 @@
 ---
-title: "Mathieu BABILLOT | マチュー・バビヨ"
+title: "Mathieu BABILLOT | マチュー ハヒヨ"
 name_en: "Mathieu BABILLOT"
-name_ja: "マチュー・バビヨ"
+name_ja: "マチュー ハヒヨ"
 slug: "mathieu-babillot"
 position: "FL/NO8"
 height: "190.0"

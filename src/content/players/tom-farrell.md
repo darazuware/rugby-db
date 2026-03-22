@@ -1,7 +1,7 @@
 ---
-title: "Tom FARRELL | トム・ファレル"
+title: "Tom FARRELL | トム ファレル"
 name_en: "Tom FARRELL"
-name_ja: "トム・ファレル"
+name_ja: "トム ファレル"
 slug: "tom-farrell"
 position: "CTB"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/tom-farrell"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
-scraped_url: "connacht rugby (2016 - 2024) -> munster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/tom-farrell"
 ---
 
 ## キャリア遍歴
-Ireland
+connacht rugby (2016 - 2024) -> munster rugby (2024 - 2026)

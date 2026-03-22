@@ -1,7 +1,7 @@
 ---
-title: "Seb DAVIES | セブ・デイヴィス"
+title: "Seb DAVIES"
 name_en: "Seb DAVIES"
-name_ja: "セブ・デイヴィス"
+name_ja: "Seb DAVIES"
 slug: "seb-davies"
 position: "LO"
 height: "202.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Call-ups (16)"
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2016 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/seb-davies"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2016 - 2025) -> Dragons RFC (2025 - 2026)

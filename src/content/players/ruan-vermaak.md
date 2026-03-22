@@ -1,7 +1,7 @@
 ---
-title: "Ruan VERMAAK | Ruan ・ VERMAAK"
+title: "Ruan VERMAAK | ルアン フェルマーク"
 name_en: "Ruan VERMAAK"
-name_ja: "Ruan ・ VERMAAK"
+name_ja: "ルアン フェルマーク"
 slug: "ruan-vermaak"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-vermaak"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2020) -> Red Hurricanes Osaka (2020 - 2022) -> Bulls (2022 - 2026)
+lions rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> bulls (2022 - 2026)

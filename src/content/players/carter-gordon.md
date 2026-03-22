@@ -1,7 +1,7 @@
 ---
-title: "Carter GORDON | カーター-ゴードン"
+title: "Carter GORDON | カーター-コートン"
 name_en: "Carter GORDON"
-name_ja: "カーター-ゴードン"
+name_ja: "カーター-コートン"
 slug: "carter-gordon"
 position: "SO"
 height: "189.0"

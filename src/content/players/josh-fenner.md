@@ -1,7 +1,7 @@
 ---
-title: "Josh Fenner | ジョシュ ・フェナー"
+title: "Josh Fenner | ショシュ フェナー"
 name_en: "Josh Fenner"
-name_ja: "ジョシュ ・フェナー"
+name_ja: "ショシュ フェナー"
 slug: "josh-fenner"
 position: "FL/No8"
 height: "197.0"

@@ -1,7 +1,7 @@
 ---
-title: "James HALL | ジェームズ-ホール"
+title: "James HALL | シェームス-ホール"
 name_en: "James HALL"
-name_ja: "ジェームズ-ホール"
+name_ja: "シェームス-ホール"
 slug: "james-hall-1996"
 position: "SH"
 height: "173.0"

@@ -1,9 +1,9 @@
 ---
-title: "Rio DYER | Rio ・ DYER"
+title: "Rio DYER | リオ タイアー"
 name_en: "Rio DYER"
-name_ja: "Rio ・ DYER"
+name_ja: "リオ タイアー"
 slug: "rio-dyer"
-position: "Winger"
+position: "WTB"
 height: "185.0"
 weight: "84.0"
 birth_date: "1999.12.21"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Wales (14)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/rio-dyer"
+scraped_url: "dragons rfc (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2026)
+Wales

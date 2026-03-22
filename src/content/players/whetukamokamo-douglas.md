@@ -1,7 +1,7 @@
 ---
-title: "Whetukamokamo Douglas | フェトゥカモカモ ・ダグラス"
+title: "Whetukamokamo Douglas | フェトゥカモカモ タクラス"
 name_en: "Whetukamokamo Douglas"
-name_ja: "フェトゥカモカモ ・ダグラス"
+name_ja: "フェトゥカモカモ タクラス"
 slug: "whetukamokamo-douglas"
 position: "FL/No8"
 height: "191.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe ROBERTS | Joe ・ ROBERTS"
+title: "Joe ROBERTS | ショー ロハーツ"
 name_en: "Joe ROBERTS"
-name_ja: "Joe ・ ROBERTS"
+name_ja: "ショー ロハーツ"
 slug: "joe-roberts"
 position: "CTB"
 height: "182.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: "Wales (2)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/joe-roberts"
+scraped_url: "scarlets (2018 - 2020) -> ampthill rugby (2020 - 2020) -> scarlets (2020 - 2020) -> ampthill rugby (2021 - 2021) -> scarlets (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2018 - 2020) -> Ampthill Rugby (2020 - 2020) -> Scarlets (2020 - 2020) -> Ampthill Rugby (2021 - 2021) -> Scarlets (2021 - 2026)
+Wales

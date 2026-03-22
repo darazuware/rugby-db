@@ -1,7 +1,7 @@
 ---
-title: "Andrew OSBORNE | アンドリュー ・ OSBORNE"
+title: "Andrew OSBORNE | アントリュー OSBORNE"
 name_en: "Andrew OSBORNE"
-name_ja: "アンドリュー ・ OSBORNE"
+name_ja: "アントリュー OSBORNE"
 slug: "andrew-osborne"
 position: "Winger"
 height: "188.0"

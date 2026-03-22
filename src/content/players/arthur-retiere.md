@@ -1,7 +1,7 @@
 ---
-title: "Arthur RETIÈRE | アルチュール・ルティエール"
-name_en: "Arthur RETIÈRE"
-name_ja: "アルチュール・ルティエール"
+title: "Arthur RETIERE | アルチュール ルティエール"
+name_en: "Arthur RETIERE"
+name_ja: "アルチュール ルティエール"
 slug: "arthur-retiere"
 position: "WTB"
 height: "173.0"

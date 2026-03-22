@@ -1,7 +1,7 @@
 ---
-title: "Mickaël GUILLARD | ミカエル・ギヤール"
-name_en: "Mickaël GUILLARD"
-name_ja: "ミカエル・ギヤール"
+title: "Mickael GUILLARD | ミカエル キヤール"
+name_en: "Mickael GUILLARD"
+name_ja: "ミカエル キヤール"
 slug: "mickael--guillard"
 position: "LO"
 height: "197.0"

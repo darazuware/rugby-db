@@ -1,7 +1,7 @@
 ---
-title: "Sean McMahon | ショーン ・マクマーン"
+title: "Sean McMahon | ショーン マクマーン"
 name_en: "Sean McMahon"
-name_ja: "ショーン ・マクマーン"
+name_ja: "ショーン マクマーン"
 slug: "sean-mcmahon"
 position: "FL/No8"
 height: "186.0"

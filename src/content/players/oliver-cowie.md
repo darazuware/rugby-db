@@ -1,7 +1,7 @@
 ---
-title: "Oliver COWIE | オリヴァー・コーウィー"
+title: "Oliver COWIE | オリウァー コーウィー"
 name_en: "Oliver COWIE"
-name_ja: "オリヴァー・コーウィー"
+name_ja: "オリウァー コーウィー"
 slug: "oliver-cowie"
 position: "CTB"
 height: "193.0"

@@ -1,7 +1,7 @@
 ---
-title: "Tyler DUGUID | タイラー・デュグッド"
+title: "Tyler DUGUID | タイラー テュクット"
 name_en: "Tyler DUGUID"
-name_ja: "タイラー・デュグッド"
+name_ja: "タイラー テュクット"
 slug: "tyler-duguid"
 position: "LO"
 height: "200.0"

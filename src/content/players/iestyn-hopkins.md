@@ -1,7 +1,7 @@
 ---
-title: "Iestyn HOPKINS | Iestyn ・ HOPKINS"
+title: "Iestyn HOPKINS"
 name_en: "Iestyn HOPKINS"
-name_ja: "Iestyn ・ HOPKINS"
+name_ja: "Iestyn HOPKINS"
 slug: "iestyn-hopkins"
 position: "FB"
 height: "175.0"

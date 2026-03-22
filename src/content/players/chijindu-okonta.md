@@ -1,7 +1,7 @@
 ---
-title: "Chijindu OKONTA | Chijindu ・ OKONTA"
+title: "Chijindu OKONTA"
 name_en: "Chijindu OKONTA"
-name_ja: "Chijindu ・ OKONTA"
+name_ja: "Chijindu OKONTA"
 slug: "chijindu-okonta"
 position: "Winger"
 height: "188.0"

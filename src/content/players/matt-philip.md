@@ -1,7 +1,7 @@
 ---
-title: "Matt PHILIP | マット・フィリップ"
+title: "Matt PHILIP | マット フィリッフ"
 name_en: "Matt PHILIP"
-name_ja: "マット・フィリップ"
+name_ja: "マット フィリッフ"
 slug: "matt-philip"
 position: "LO"
 height: "199.0"

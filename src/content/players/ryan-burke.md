@@ -1,7 +1,7 @@
 ---
-title: "Ryan BURKE | ライアン ・ BURKE"
+title: "Ryan BURKE | ライアン ハーク"
 name_en: "Ryan BURKE"
-name_ja: "ライアン ・ BURKE"
+name_ja: "ライアン ハーク"
 slug: "ryan-burke"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-burke"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2023 - 2026)
+glasgow warriors (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Simeone Schmidt | シミオネ ・シュミット"
+title: "Simeone Schmidt | シミオネ シュミット"
 name_en: "Simeone Schmidt"
-name_ja: "シミオネ ・シュミット"
+name_ja: "シミオネ シュミット"
 slug: "simeone-schmidt"
 position: "LO"
 height: "195.0"

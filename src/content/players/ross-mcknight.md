@@ -1,7 +1,7 @@
 ---
-title: "Ross MCKNIGHT | ロス ・ MCKNIGHT"
+title: "Ross MCKNIGHT | ロス MCKNIGHT"
 name_en: "Ross MCKNIGHT"
-name_ja: "ロス ・ MCKNIGHT"
+name_ja: "ロス MCKNIGHT"
 slug: "ross-mcknight"
 position: "Winger"
 height: "195.0"

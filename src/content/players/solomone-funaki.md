@@ -1,7 +1,7 @@
 ---
-title: "Solomone Funaki | ソロモネ ・フナキ"
+title: "Solomone Funaki | ソロモネ フナキ"
 name_en: "Solomone Funaki"
-name_ja: "ソロモネ ・フナキ"
+name_ja: "ソロモネ フナキ"
 slug: "solomone-funaki"
 position: "FL/No8"
 height: "186.0"

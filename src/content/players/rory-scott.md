@@ -1,7 +1,7 @@
 ---
-title: "Rory SCOTT | ロリー・スコット"
+title: "Rory SCOTT | ロリー スコット"
 name_en: "Rory SCOTT"
-name_ja: "ロリー・スコット"
+name_ja: "ロリー スコット"
 slug: "rory-scott"
 position: "FL/No8"
 height: "189.0"

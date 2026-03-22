@@ -1,7 +1,7 @@
 ---
-title: "Roméo MARTIN-BONNARD | ロメオ・マルタン＝ボナール"
-name_en: "Roméo MARTIN-BONNARD"
-name_ja: "ロメオ・マルタン＝ボナール"
+title: "Romeo MARTIN-BONNARD | ロメオ マルタン=ホナール"
+name_en: "Romeo MARTIN-BONNARD"
+name_ja: "ロメオ マルタン=ホナール"
 slug: "romeo-martin-bonnard"
 position: "FL/NO8"
 height: "197.0"

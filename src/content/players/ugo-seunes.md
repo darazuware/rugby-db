@@ -1,7 +1,7 @@
 ---
-title: "Ugo SEUNES | ウーゴ-セュヌ"
+title: "Ugo SEUNES | ウーコ-セュヌ"
 name_en: "Ugo SEUNES"
-name_ja: "ウーゴ-セュヌ"
+name_ja: "ウーコ-セュヌ"
 slug: "ugo-seunes"
 position: "SO"
 height: "182.0"

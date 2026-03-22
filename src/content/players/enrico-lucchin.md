@@ -1,7 +1,7 @@
 ---
-title: "Enrico LUCCHIN | Enrico ・ LUCCHIN"
+title: "Enrico LUCCHIN"
 name_en: "Enrico LUCCHIN"
-name_ja: "Enrico ・ LUCCHIN"
+name_ja: "Enrico LUCCHIN"
 slug: "enrico-lucchin"
 position: "CTB"
 height: "188.0"

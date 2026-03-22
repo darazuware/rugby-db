@@ -1,12 +1,12 @@
 ---
-title: "Ollie Sleightholme"
-name_en: "Ollie Sleightholme"
+title: "Ollie SLEIGHTHOLME"
+name_en: "Ollie SLEIGHTHOLME"
 name_ja: ""
 slug: "ollie-sleightholme"
-position: "Wing"
+position: "Winger"
 height: ""
 weight: ""
-birth_date: "2000.04.13"
+birth_date: "nan"
 age: 25
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "England (5)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ollie-sleightholme"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

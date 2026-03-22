@@ -1,7 +1,7 @@
 ---
-title: "Marcel THEUNISSEN | Marcel ・ THEUNISSEN"
+title: "Marcel THEUNISSEN"
 name_en: "Marcel THEUNISSEN"
-name_ja: "Marcel ・ THEUNISSEN"
+name_ja: "Marcel THEUNISSEN"
 slug: "marcel-theunissen"
 position: "Back row"
 height: "191.0"

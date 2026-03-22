@@ -1,7 +1,7 @@
 ---
-title: "Johan MULDER | Johan ・ MULDER"
+title: "Johan MULDER | ヨハン モルター"
 name_en: "Johan MULDER"
-name_ja: "Johan ・ MULDER"
+name_ja: "ヨハン モルター"
 slug: "johan-mulder"
 position: "SH"
 height: "176.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/johan-mulder"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2023 - 2024) -> Cardiff Rugby (2024 - 2026)
+lions rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)

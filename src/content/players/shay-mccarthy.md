@@ -1,7 +1,7 @@
 ---
-title: "Shay MCCARTHY | シェイ・マッカーシー"
+title: "Shay MCCARTHY | シェイ マッカーシー"
 name_en: "Shay MCCARTHY"
-name_ja: "シェイ・マッカーシー"
+name_ja: "シェイ マッカーシー"
 slug: "shay-mccarthy"
 position: "WTB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/shay-mccarthy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2021 - 2022) -> young munster rfc (2022 - 2023) -> munster rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/shay-mccarthy"
 ---
 
 ## キャリア遍歴
-
+munster rugby (2021 - 2022) -> young munster rfc (2022 - 2023) -> munster rugby (2023 - 2026)

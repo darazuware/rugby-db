@@ -1,7 +1,7 @@
 ---
-title: "Kienan HIGGINS | Kienan ・ HIGGINS"
+title: "Kienan HIGGINS | キーナン ヒキンス"
 name_en: "Kienan HIGGINS"
-name_ja: "Kienan ・ HIGGINS"
+name_ja: "キーナン ヒキンス"
 slug: "kienan-higgins"
 position: "CTB"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kienan-higgins"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2020 - 2025) -> Edimbourg Rugby (2025 - 2026)
+hawke's bay magpies (2020 - 2025) -> edimbourg rugby (2025 - 2026)

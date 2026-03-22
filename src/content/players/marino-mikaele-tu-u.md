@@ -1,7 +1,7 @@
 ---
-title: "MARINO MIKAELE-TU U | マリノ ・ミカエリトゥウ"
+title: "MARINO MIKAELE-TU U | マリノ ミカエリトゥウ"
 name_en: "MARINO MIKAELE-TU U"
-name_ja: "マリノ ・ミカエリトゥウ"
+name_ja: "マリノ ミカエリトゥウ"
 slug: "marino-mikaele-tu-u"
 position: "FL/No8"
 height: "193.0"

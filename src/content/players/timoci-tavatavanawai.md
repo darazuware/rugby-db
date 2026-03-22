@@ -1,7 +1,7 @@
 ---
-title: "Timoci TAVATAVANAWAI | ティモチ・タヴァタヴァナワイ"
+title: "Timoci TAVATAVANAWAI | ティモチ タウァタウァナワイ"
 name_en: "Timoci TAVATAVANAWAI"
-name_ja: "ティモチ・タヴァタヴァナワイ"
+name_ja: "ティモチ タウァタウァナワイ"
 slug: "timoci-tavatavanawai"
 position: "CTB"
 height: "187.0"

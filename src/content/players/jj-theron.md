@@ -1,7 +1,7 @@
 ---
-title: "JJ THERON | JJ ・ THERON"
+title: "JJ THERON"
 name_en: "JJ THERON"
-name_ja: "JJ ・ THERON"
+name_ja: "JJ THERON"
 slug: "jj-theron"
 position: "Back row"
 height: "198.0"

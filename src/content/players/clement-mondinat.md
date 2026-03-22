@@ -1,7 +1,7 @@
 ---
-title: "Clément MONDINAT | クレマン・モンディナ"
-name_en: "Clément MONDINAT"
-name_ja: "クレマン・モンディナ"
+title: "Clement MONDINAT | クレマン モンティナ"
+name_en: "Clement MONDINAT"
+name_ja: "クレマン モンティナ"
 slug: "clement-mondinat"
 position: "SO"
 height: "178.0"

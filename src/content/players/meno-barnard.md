@@ -1,9 +1,9 @@
 ---
-title: "Mèno BARNARD | M ・ BARNARD"
-name_en: "Mèno BARNARD"
-name_ja: "M ・ BARNARD"
+title: "Meno BARNARD | メノ ハーナート"
+name_en: "Meno BARNARD"
+name_ja: "メノ ハーナート"
 slug: "meno-barnard"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "104.0"
 birth_date: "2003.11.14"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/meno-barnard"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2023 - 2024) -> Sharks (2024 - 2026)
+natal sharks (2023 - 2024) -> sharks (2024 - 2026)

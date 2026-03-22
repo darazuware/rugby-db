@@ -1,7 +1,7 @@
 ---
-title: "Max DEEGAN | Max ・ DEEGAN"
+title: "Max DEEGAN"
 name_en: "Max DEEGAN"
-name_ja: "Max ・ DEEGAN"
+name_ja: "Max DEEGAN"
 slug: "max-deegan"
 position: "Back row"
 height: "193.0"

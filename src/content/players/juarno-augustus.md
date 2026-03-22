@@ -1,7 +1,7 @@
 ---
-title: "Juarno AUGUSTUS | Juarno ・ AUGUSTUS"
+title: "Juarno AUGUSTUS"
 name_en: "Juarno AUGUSTUS"
-name_ja: "Juarno ・ AUGUSTUS"
+name_ja: "Juarno AUGUSTUS"
 slug: "juarno-augustus"
 position: "Back row"
 height: "187.0"

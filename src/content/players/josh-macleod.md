@@ -1,9 +1,9 @@
 ---
-title: "Josh MACLEOD | ジョシュ ・ MACLEOD"
+title: "Josh MACLEOD | ショシュ マクラウト"
 name_en: "Josh MACLEOD"
-name_ja: "ジョシュ ・ MACLEOD"
+name_ja: "ショシュ マクラウト"
 slug: "josh-macleod"
-position: "Back row"
+position: "FL/No8"
 height: "189.0"
 weight: "110.0"
 birth_date: "1996.10.27"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-macleod"
 ---
 
 ## キャリア遍歴
-Scarlets (2016 - 2026)
+scarlets (2016 - 2026)

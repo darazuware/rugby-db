@@ -1,7 +1,7 @@
 ---
-title: "Tyler ARDRON | タイラー・アードロン"
+title: "Tyler ARDRON | タイラー アートロン"
 name_en: "Tyler ARDRON"
-name_ja: "タイラー・アードロン"
+name_ja: "タイラー アートロン"
 slug: "tyler-ardron"
 position: "FL/NO8"
 height: "197.0"

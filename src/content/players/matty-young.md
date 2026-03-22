@@ -1,7 +1,7 @@
 ---
-title: "Matty YOUNG | Matty ・ YOUNG"
+title: "Matty YOUNG | マティ ヤンク"
 name_en: "Matty YOUNG"
-name_ja: "Matty ・ YOUNG"
+name_ja: "マティ ヤンク"
 slug: "matty-young"
 position: "FB"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matty-young"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2023 - 2026)
+cardiff rugby (2023 - 2026)

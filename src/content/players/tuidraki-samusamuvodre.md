@@ -1,7 +1,7 @@
 ---
-title: "Tuidraki SAMUSAMUVODRE | トゥイドラキ・サムサムボドレ"
+title: "Tuidraki SAMUSAMUVODRE | トゥイトラキ サムサムホトレ"
 name_en: "Tuidraki SAMUSAMUVODRE"
-name_ja: "トゥイドラキ・サムサムボドレ"
+name_ja: "トゥイトラキ サムサムホトレ"
 slug: "tuidraki-samusamuvodre"
 position: "CTB"
 height: "180.0"

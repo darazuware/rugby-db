@@ -1,7 +1,7 @@
 ---
-title: "Jack WILLIS | ジャック-ウィリス"
+title: "Jack WILLIS | シャック-ウィリス"
 name_en: "Jack WILLIS"
-name_ja: "ジャック-ウィリス"
+name_ja: "シャック-ウィリス"
 slug: "jack-willis"
 position: "FL/NO8"
 height: "190.0"

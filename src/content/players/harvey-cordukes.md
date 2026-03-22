@@ -1,7 +1,7 @@
 ---
-title: "Harvey CORDUKES | ハーヴェイ・コーデュークス"
+title: "Harvey CORDUKES | ハーウェイ コーテュークス"
 name_en: "Harvey CORDUKES"
-name_ja: "ハーヴェイ・コーデュークス"
+name_ja: "ハーウェイ コーテュークス"
 slug: "harvey-cordukes"
 position: "LO"
 height: "202.0"

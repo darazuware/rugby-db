@@ -1,7 +1,7 @@
 ---
-title: "Ox NCHÉ | オクス ・ NCH"
-name_en: "Ox NCHÉ"
-name_ja: "オクス ・ NCH"
+title: "Ox NCHE | オクス ンチェ"
+name_en: "Ox NCHE"
+name_ja: "オクス ンチェ"
 slug: "ox-nche"
 position: "PR"
 height: "176.0"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (21)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ox-nche"
+scraped_url: "central cheetahs (2015 - 2019) -> sharks (2019 - 2019) -> central cheetahs (2020 - 2020) -> sharks (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2015 - 2019) -> Sharks (2019 - 2019) -> Central Cheetahs (2020 - 2020) -> Sharks (2020 - 2026)
+South Africa

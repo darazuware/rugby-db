@@ -1,7 +1,7 @@
 ---
-title: "Ruan SWART | Ruan ・ SWART"
+title: "Ruan SWART | ルアン スワート"
 name_en: "Ruan SWART"
-name_ja: "Ruan ・ SWART"
+name_ja: "ルアン スワート"
 slug: "ruan-swart"
 position: "PR"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-swart"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2023 - 2025) -> Bulls (2025 - 2026)
+blue bulls (2023 - 2025) -> bulls (2025 - 2026)

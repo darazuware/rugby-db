@@ -1,7 +1,7 @@
 ---
-title: "Jac DAVIES | Jac ・ DAVIES"
+title: "Jac DAVIES"
 name_en: "Jac DAVIES"
-name_ja: "Jac ・ DAVIES"
+name_ja: "Jac DAVIES"
 slug: "jac-davies"
 position: "FB"
 height: "183.0"

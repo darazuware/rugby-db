@@ -1,7 +1,7 @@
 ---
-title: "Harry POTTER | ハリー-ポッター"
+title: "Harry POTTER | ハリー-ホッター"
 name_en: "Harry POTTER"
-name_ja: "ハリー-ポッター"
+name_ja: "ハリー-ホッター"
 slug: "harry-potter"
 position: "WTB"
 height: "186.0"

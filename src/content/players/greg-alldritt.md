@@ -1,7 +1,7 @@
 ---
-title: "Greg ALLDRITT | グレゴリー-アルドリット"
+title: "Greg ALLDRITT | クレコリー-アルトリット"
 name_en: "Greg ALLDRITT"
-name_ja: "グレゴリー-アルドリット"
+name_ja: "クレコリー-アルトリット"
 slug: "greg-alldritt"
 position: "FL/NO8"
 height: "191.0"

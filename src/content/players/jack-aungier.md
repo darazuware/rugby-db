@@ -1,7 +1,7 @@
 ---
-title: "Jack AUNGIER | ジャック ・ AUNGIER"
+title: "Jack AUNGIER | シャック-アンシャー"
 name_en: "Jack AUNGIER"
-name_ja: "ジャック ・ AUNGIER"
+name_ja: "シャック-アンシャー"
 slug: "jack-aungier"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "Ireland"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/jack-aungier"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2017 - 2019) -> Connacht Rugby (2019 - 2019) -> Leinster Rugby (2020 - 2020) -> Connacht Rugby (2020 - 2026)
+leinster rugby (2017 - 2019) -> connacht rugby (2019 - 2019) -> leinster rugby (2020 - 2020) -> connacht rugby (2020 - 2026)

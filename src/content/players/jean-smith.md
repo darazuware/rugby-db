@@ -1,7 +1,7 @@
 ---
-title: "Jean SMITH | Jean ・ スミス"
+title: "Jean SMITH | Jean スミス"
 name_en: "Jean SMITH"
-name_ja: "Jean ・ スミス"
+name_ja: "Jean スミス"
 slug: "jean-smith"
 position: "SO"
 height: "181.0"

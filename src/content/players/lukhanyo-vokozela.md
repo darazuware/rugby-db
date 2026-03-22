@@ -1,7 +1,7 @@
 ---
-title: "Lukhanyo VOKOZELA | ルカニョ ・ VOKOZELA"
+title: "Lukhanyo VOKOZELA | ルカニョ ウォコセラ"
 name_en: "Lukhanyo VOKOZELA"
-name_ja: "ルカニョ ・ VOKOZELA"
+name_ja: "ルカニョ ウォコセラ"
 slug: "lukhanyo-vokozela"
 position: "HO"
 height: "175.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lukhanyo-vokozela"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2024) -> Stormers (2024 - 2026)
+western province (2021 - 2024) -> stormers (2024 - 2026)

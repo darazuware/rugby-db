@@ -1,7 +1,7 @@
 ---
-title: "James HUME | ジェームズ ・ HUME"
+title: "James HUME | シェームス HUME"
 name_en: "James HUME"
-name_ja: "ジェームズ ・ HUME"
+name_ja: "シェームス HUME"
 slug: "james-hume"
 position: "CTB"
 height: "188.0"

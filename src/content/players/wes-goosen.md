@@ -1,7 +1,7 @@
 ---
-title: "Wes GOOSEN | ウェス-ゴーセン"
+title: "Wes GOOSEN | ウェス-コーセン"
 name_en: "Wes GOOSEN"
-name_ja: "ウェス-ゴーセン"
+name_ja: "ウェス-コーセン"
 slug: "wes-goosen"
 position: "CTB"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/wes-goosen"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "hurricanes (2015 - 2019) -> wellington lions (2019 - 2019) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2021 - 2021) -> wellington lions (2021 - 2021) -> hurricanes (2021 - 2022) -> edimbourg rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/wes-goosen"
 ---
 
 ## キャリア遍歴
-
+hurricanes (2015 - 2019) -> wellington lions (2019 - 2019) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2021 - 2021) -> wellington lions (2021 - 2021) -> hurricanes (2021 - 2022) -> edimbourg rugby (2022 - 2026)

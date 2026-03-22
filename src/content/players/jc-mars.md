@@ -1,7 +1,7 @@
 ---
-title: "JC MARS | JC ・ MARS"
+title: "JC MARS | JC マース"
 name_en: "JC MARS"
-name_ja: "JC ・ MARS"
+name_ja: "JC マース"
 slug: "jc-mars"
 position: "FB"
 height: "177.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jc-mars"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2024) -> Stormers (2024 - 2026)
+western province (2023 - 2024) -> stormers (2024 - 2026)

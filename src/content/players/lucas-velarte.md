@@ -1,7 +1,7 @@
 ---
-title: "Lucas VELARTE | ルカス・ヴェラルテ"
+title: "Lucas VELARTE | ルカス ウェラルテ"
 name_en: "Lucas VELARTE"
-name_ja: "ルカス・ヴェラルテ"
+name_ja: "ルカス ウェラルテ"
 slug: "lucas-velarte"
 position: "FL/NO8"
 height: "185.0"

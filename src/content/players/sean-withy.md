@@ -1,7 +1,7 @@
 ---
-title: "Sean WITHY | ショーン・ウィジー"
+title: "Sean WITHY | ショーン ウィシー"
 name_en: "Sean WITHY"
-name_ja: "ショーン・ウィジー"
+name_ja: "ショーン ウィシー"
 slug: "sean-withy"
 position: "FL/No8"
 height: "191.0"

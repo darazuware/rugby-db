@@ -1,7 +1,7 @@
 ---
-title: "Dewaldt DUVENAGE | Dewaldt ・ DUVENAGE"
+title: "Dewaldt DUVENAGE"
 name_en: "Dewaldt DUVENAGE"
-name_ja: "Dewaldt ・ DUVENAGE"
+name_ja: "Dewaldt DUVENAGE"
 slug: "dewaldt-duvenage"
 position: "SH"
 height: "175.0"

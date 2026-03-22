@@ -1,7 +1,7 @@
 ---
-title: "Dafydd HUGHES | ダフィズ・ヒューズ"
+title: "Dafydd HUGHES | タフィス ヒュース"
 name_en: "Dafydd HUGHES"
-name_ja: "ダフィズ・ヒューズ"
+name_ja: "タフィス ヒュース"
 slug: "dafydd-hughes"
 position: "HO"
 height: "179.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/dafydd-hughes"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "scarlets (2016 - 2023) -> jersey reds (2023 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/dafydd-hughes"
 ---
 
 ## キャリア遍歴
-
+scarlets (2016 - 2023) -> jersey reds (2023 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)

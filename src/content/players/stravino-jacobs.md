@@ -1,7 +1,7 @@
 ---
-title: "Stravino JACOBS | ストラヴィーノ・ジェイコブス"
+title: "Stravino JACOBS | ストラウィーノ シェイコフス"
 name_en: "Stravino JACOBS"
-name_ja: "ストラヴィーノ・ジェイコブス"
+name_ja: "ストラウィーノ シェイコフス"
 slug: "stravino-jacobs"
 position: "WTB"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/stravino-jacobs"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2020 - 2026)"
+scraped_url: "https://all.rugby/player/stravino-jacobs"
 ---
 
 ## キャリア遍歴
-
+bulls (2020 - 2026)

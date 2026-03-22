@@ -1,7 +1,7 @@
 ---
-title: "Simon Miller | シモン ・ミラー"
+title: "Simon Miller | シモン ミラー"
 name_en: "Simon Miller"
-name_ja: "シモン ・ミラー"
+name_ja: "シモン ミラー"
 slug: "simon-miller"
 position: "FL/No8"
 height: "198.0"

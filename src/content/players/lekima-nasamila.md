@@ -1,7 +1,7 @@
 ---
-title: "Lekima Nasamila | レキマ ・ナサミラ"
+title: "Lekima Nasamila | レキマ ナサミラ"
 name_en: "Lekima Nasamila"
-name_ja: "レキマ ・ナサミラ"
+name_ja: "レキマ ナサミラ"
 slug: "lekima-nasamila"
 position: "FL/No8"
 height: "190.0"

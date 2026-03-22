@@ -1,7 +1,7 @@
 ---
-title: "Curtis Reid | カーティス ・リード"
+title: "Curtis Reid | カーティス リート"
 name_en: "Curtis Reid"
-name_ja: "カーティス ・リード"
+name_ja: "カーティス リート"
 slug: "curtis-reid"
 position: "CTB"
 height: "188.0"

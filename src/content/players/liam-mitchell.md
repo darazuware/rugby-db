@@ -1,7 +1,7 @@
 ---
-title: "Liam Mitchell | リアム ・ミッチェル"
+title: "Liam Mitchell | リアム ミッチェル"
 name_en: "Liam Mitchell"
-name_ja: "リアム ・ミッチェル"
+name_ja: "リアム ミッチェル"
 slug: "liam-mitchell"
 position: "LO"
 height: "197.0"

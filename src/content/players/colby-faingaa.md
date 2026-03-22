@@ -1,7 +1,7 @@
 ---
-title: "Colby Faingaa | コルビー ・ファインガア"
+title: "Colby Faingaa | コルヒー ファインカア"
 name_en: "Colby Faingaa"
-name_ja: "コルビー ・ファインガア"
+name_ja: "コルヒー ファインカア"
 slug: "colby-faingaa"
 position: "FL/No8"
 height: "185.0"

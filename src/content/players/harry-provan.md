@@ -1,7 +1,7 @@
 ---
-title: "Harry PROVAN | Harry ・ PROVAN"
+title: "Harry PROVAN | ハリー フロウァン"
 name_en: "Harry PROVAN"
-name_ja: "Harry ・ PROVAN"
+name_ja: "ハリー フロウァン"
 slug: "harry-provan"
 position: "FB"
 height: "178.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-provan"
 ---
 
 ## キャリア遍歴
-Birkmyre Rugby (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+birkmyre rugby (2023 - 2024) -> glasgow warriors (2024 - 2026)

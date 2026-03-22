@@ -1,7 +1,7 @@
 ---
-title: "Killian GÉRACI | キリアン・ジェラシ"
-name_en: "Killian GÉRACI"
-name_ja: "キリアン・ジェラシ"
+title: "Killian GERACI | キリアン シェラシ"
+name_en: "Killian GERACI"
+name_ja: "キリアン シェラシ"
 slug: "killian-geraci"
 position: "LO"
 height: "200.0"

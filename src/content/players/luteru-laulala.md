@@ -1,7 +1,7 @@
 ---
-title: "Luteru Laulala | ルテル ・ラウララ"
+title: "Luteru Laulala | ルテル ラウララ"
 name_en: "Luteru Laulala"
-name_ja: "ルテル ・ラウララ"
+name_ja: "ルテル ラウララ"
 slug: "luteru-laulala"
 position: "UTB"
 height: "183.0"

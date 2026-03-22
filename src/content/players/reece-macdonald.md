@@ -1,7 +1,7 @@
 ---
-title: "Reece Macdonald | リース ・マクドナルド"
+title: "Reece Macdonald | リース マクトナルト"
 name_en: "Reece Macdonald"
-name_ja: "リース ・マクドナルド"
+name_ja: "リース マクトナルト"
 slug: "reece-macdonald"
 position: "SO"
 height: "175.0"

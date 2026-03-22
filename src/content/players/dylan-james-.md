@@ -1,7 +1,7 @@
 ---
-title: "Dylan JAMES | Dylan ・ ジェームズ"
+title: "Dylan JAMES | Dylan シェームス"
 name_en: "Dylan JAMES"
-name_ja: "Dylan ・ ジェームズ"
+name_ja: "Dylan シェームス"
 slug: "dylan-james-"
 position: "PR"
 height: "183.0"

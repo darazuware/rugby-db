@@ -1,7 +1,7 @@
 ---
-title: "Jack OSullivan | ジャック ・オーサリバン"
+title: "Jack OSullivan | シャック オーサリハン"
 name_en: "Jack OSullivan"
-name_ja: "ジャック ・オーサリバン"
+name_ja: "シャック オーサリハン"
 slug: "jack-osullivan"
 position: "FL/No8"
 height: "188.0"

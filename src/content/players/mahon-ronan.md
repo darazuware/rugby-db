@@ -1,7 +1,7 @@
 ---
-title: "Mahon RONAN | Mahon ・ ロナン"
+title: "Mahon RONAN | Mahon ロナン"
 name_en: "Mahon RONAN"
-name_ja: "Mahon ・ ロナン"
+name_ja: "Mahon ロナン"
 slug: "mahon-ronan"
 position: "LO"
 height: "195.0"

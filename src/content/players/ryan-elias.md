@@ -1,7 +1,7 @@
 ---
-title: "Ryan ELIAS | ライアン ・ ELIAS"
+title: "Ryan ELIAS | ライアン エリアス"
 name_en: "Ryan ELIAS"
-name_ja: "ライアン ・ ELIAS"
+name_ja: "ライアン エリアス"
 slug: "ryan-elias"
 position: "HO"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: "Wales (38)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ryan-elias"
+scraped_url: "scarlets (2014 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2014 - 2026)
+Wales

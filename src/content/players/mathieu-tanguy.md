@@ -1,7 +1,7 @@
 ---
-title: "Mathieu TANGUY | マチュー・タンギ"
+title: "Mathieu TANGUY | マチュー タンキ"
 name_en: "Mathieu TANGUY"
-name_ja: "マチュー・タンギ"
+name_ja: "マチュー タンキ"
 slug: "mathieu-tanguy"
 position: "LO"
 height: "195.0"

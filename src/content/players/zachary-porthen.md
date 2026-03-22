@@ -1,7 +1,7 @@
 ---
-title: "Zach PORTHEN | Zach ・ PORTHEN"
+title: "Zach PORTHEN | サック ホーセン"
 name_en: "Zach PORTHEN"
-name_ja: "Zach ・ PORTHEN"
+name_ja: "サック ホーセン"
 slug: "zachary-porthen"
 position: "PR"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zachary-porthen"
 ---
 
 ## キャリア遍歴
-Western Province (2022 - 2024) -> Stormers (2024 - 2024) -> Western Province (2025 - 2025) -> Stormers (2025 - 2026)
+western province (2022 - 2024) -> stormers (2024 - 2024) -> western province (2025 - 2025) -> stormers (2025 - 2026)

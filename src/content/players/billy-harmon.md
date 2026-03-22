@@ -1,7 +1,7 @@
 ---
-title: "Billy Harmon | ビリー ・ハーモン"
+title: "Billy Harmon | ヒリー ハーモン"
 name_en: "Billy Harmon"
-name_ja: "ビリー ・ハーモン"
+name_ja: "ヒリー ハーモン"
 slug: "billy-harmon"
 position: "FL/No8"
 height: "187.0"

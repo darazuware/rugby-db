@@ -1,7 +1,7 @@
 ---
-title: "Mahamadou DIABY | マハマドゥ・ディアビ"
+title: "Mahamadou DIABY | マハマトゥ ティアヒ"
 name_en: "Mahamadou DIABY"
-name_ja: "マハマドゥ・ディアビ"
+name_ja: "マハマトゥ ティアヒ"
 slug: "mahamadou-diaby"
 position: "FL/NO8"
 height: "192.0"

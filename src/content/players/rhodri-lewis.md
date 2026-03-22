@@ -1,7 +1,7 @@
 ---
-title: "Rhodri LEWIS | Rhodri ・ LEWIS"
+title: "Rhodri LEWIS | ロトリ ルイス"
 name_en: "Rhodri LEWIS"
-name_ja: "Rhodri ・ LEWIS"
+name_ja: "ロトリ ルイス"
 slug: "rhodri-lewis"
 position: "SH"
 height: "175.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhodri-lewis"
 ---
 
 ## キャリア遍歴
-Ospreys (2021 - 2024) -> Scarlets (2024 - 2026)
+ospreys (2021 - 2024) -> scarlets (2024 - 2026)

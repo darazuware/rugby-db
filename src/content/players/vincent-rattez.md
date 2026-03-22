@@ -1,7 +1,7 @@
 ---
-title: "Vincent RATTEZ | ヴァンサン・ラテ"
+title: "Vincent RATTEZ | ウァンサン ラテ"
 name_en: "Vincent RATTEZ"
-name_ja: "ヴァンサン・ラテ"
+name_ja: "ウァンサン ラテ"
 slug: "vincent-rattez"
 position: "WTB"
 height: "181.0"

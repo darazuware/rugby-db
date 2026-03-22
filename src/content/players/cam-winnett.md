@@ -1,7 +1,7 @@
 ---
-title: "Cam WINNETT | Cam ・ WINNETT"
+title: "Cam WINNETT"
 name_en: "Cam WINNETT"
-name_ja: "Cam ・ WINNETT"
+name_ja: "Cam WINNETT"
 slug: "cam-winnett"
 position: "FB"
 height: "180.0"

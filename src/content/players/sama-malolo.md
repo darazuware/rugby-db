@@ -1,7 +1,7 @@
 ---
-title: "Sama MALOLO | サマ・マロロ"
+title: "Sama MALOLO | サマ マロロ"
 name_en: "Sama MALOLO"
-name_ja: "サマ・マロロ"
+name_ja: "サマ マロロ"
 slug: "sama-malolo"
 position: "HO"
 height: "183.0"

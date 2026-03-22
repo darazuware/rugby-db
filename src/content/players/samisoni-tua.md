@@ -1,7 +1,7 @@
 ---
-title: "Samisoni Tua | サミソニ ・トゥア"
+title: "Samisoni Tua | サミソニ トゥア"
 name_en: "Samisoni Tua"
-name_ja: "サミソニ ・トゥア"
+name_ja: "サミソニ トゥア"
 slug: "samisoni-tua"
 position: "CTB"
 height: "182.0"

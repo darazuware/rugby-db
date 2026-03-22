@@ -1,7 +1,7 @@
 ---
-title: "Leon LYONS | Leon ・ LYONS"
+title: "Leon LYONS | レオン ライアンス"
 name_en: "Leon LYONS"
-name_ja: "Leon ・ LYONS"
+name_ja: "レオン ライアンス"
 slug: "leon-lyons"
 position: "PR"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leon-lyons"
 ---
 
 ## キャリア遍歴
-Western Province (2018 - 2019) -> Stormers (2019 - 2025) -> Lions Rugby (2025 - 2026)
+western province (2018 - 2019) -> stormers (2019 - 2025) -> lions rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Tino MAVESERE | Tino ・ MAVESERE"
+title: "Tino MAVESERE"
 name_en: "Tino MAVESERE"
-name_ja: "Tino ・ MAVESERE"
+name_ja: "Tino MAVESERE"
 slug: "tinotenda-blithe-mavesere"
 position: "Back row"
 height: "189.0"

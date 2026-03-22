@@ -1,7 +1,7 @@
 ---
-title: "Ed BYRNE | エド・バーン"
+title: "Ed BYRNE | エト ハーン"
 name_en: "Ed BYRNE"
-name_ja: "エド・バーン"
+name_ja: "エト ハーン"
 slug: "ed-byrne"
 position: "PR"
 height: "180.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/ed-byrne"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
-scraped_url: "leinster rugby (2013 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/ed-byrne"
 ---
 
 ## キャリア遍歴
-Ireland
+leinster rugby (2013 - 2024) -> cardiff rugby (2024 - 2026)

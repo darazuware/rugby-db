@@ -1,7 +1,7 @@
 ---
-title: "Luke TAGI | ルーク・タギ"
+title: "Luke TAGI | ルーク タキ"
 name_en: "Luke TAGI"
-name_ja: "ルーク・タギ"
+name_ja: "ルーク タキ"
 slug: "luke-tagi"
 position: "PR"
 height: "187.0"

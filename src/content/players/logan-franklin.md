@@ -1,7 +1,7 @@
 ---
-title: "Logan FRANKLIN | Logan ・ FRANKLIN"
+title: "Logan FRANKLIN"
 name_en: "Logan FRANKLIN"
-name_ja: "Logan ・ FRANKLIN"
+name_ja: "Logan FRANKLIN"
 slug: "logan-franklin"
 position: "SH"
 height: "178.0"

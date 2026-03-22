@@ -1,7 +1,7 @@
 ---
-title: "Nicholas McCurran | ニコラス ・マクカラン"
+title: "Nicholas McCurran | ニコラス マクカラン"
 name_en: "Nicholas McCurran"
-name_ja: "ニコラス ・マクカラン"
+name_ja: "ニコラス マクカラン"
 slug: "nicholas-mccurran"
 position: "CTB"
 height: "189.0"

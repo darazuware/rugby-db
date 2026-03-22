@@ -1,7 +1,7 @@
 ---
-title: "Halaholo Tokolahi | ハラホロ ・トコラヒ"
+title: "Halaholo Tokolahi | ハラホロ トコラヒ"
 name_en: "Halaholo Tokolahi"
-name_ja: "ハラホロ ・トコラヒ"
+name_ja: "ハラホロ トコラヒ"
 slug: "halaholo-tokolahi"
 position: "PR"
 height: "178.0"

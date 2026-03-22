@@ -1,7 +1,7 @@
 ---
-title: "Sione KALAMAFONI | シオネ・カラマフォニ"
+title: "Sione KALAMAFONI | シオネ カラマフォニ"
 name_en: "Sione KALAMAFONI"
-name_ja: "シオネ・カラマフォニ"
+name_ja: "シオネ カラマフォニ"
 slug: "sione-kalafamoni"
 position: "FL/NO8"
 height: "196.0"

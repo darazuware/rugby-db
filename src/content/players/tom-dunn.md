@@ -1,12 +1,12 @@
 ---
-title: "Tom Dunn"
-name_en: "Tom Dunn"
+title: "Tom DUNN"
+name_en: "Tom DUNN"
 name_ja: ""
 slug: "tom-dunn"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "1992.11.12"
+birth_date: "nan"
 age: 33
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/tom-dunn"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

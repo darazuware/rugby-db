@@ -1,7 +1,7 @@
 ---
-title: "Ciarán MANGAN | Ciar ・ MANGAN"
-name_en: "Ciarán MANGAN"
-name_ja: "Ciar ・ MANGAN"
+title: "Ciaran MANGAN | キアラン マンカン"
+name_en: "Ciaran MANGAN"
+name_ja: "キアラン マンカン"
 slug: "ciaran-mangan"
 position: "CTB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ciaran-mangan"
 ---
 
 ## キャリア遍歴
-Blackrock College RFC (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+blackrock college rfc (2024 - 2025) -> leinster rugby (2025 - 2026)

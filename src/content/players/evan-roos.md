@@ -1,9 +1,9 @@
 ---
-title: "Evan ROOS | Evan ・ ROOS"
+title: "Evan ROOS | エウァン-ルース"
 name_en: "Evan ROOS"
-name_ja: "Evan ・ ROOS"
+name_ja: "エウァン-ルース"
 slug: "evan-roos"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "109.0"
 birth_date: "2000.01.21"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evan-roos"
 ---
 
 ## キャリア遍歴
-Sharks (2019 - 2020) -> Stormers (2020 - 2026)
+sharks (2019 - 2020) -> stormers (2020 - 2026)

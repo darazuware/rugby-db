@@ -1,7 +1,7 @@
 ---
-title: "IOSEFATU MAREKO | イオセファツ ・マレコ"
+title: "IOSEFATU MAREKO | イオセファツ マレコ"
 name_en: "IOSEFATU MAREKO"
-name_ja: "イオセファツ ・マレコ"
+name_ja: "イオセファツ マレコ"
 slug: "iosefatu-mareko"
 position: "PR"
 height: "189.0"

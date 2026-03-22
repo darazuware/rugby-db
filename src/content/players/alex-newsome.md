@@ -1,7 +1,7 @@
 ---
-title: "Alex NEWSOME | アレックス・ニューソム"
+title: "Alex NEWSOME | アレックス ニューソム"
 name_en: "Alex NEWSOME"
-name_ja: "アレックス・ニューソム"
+name_ja: "アレックス ニューソム"
 slug: "alex-newsome"
 position: "FB"
 height: "189.0"

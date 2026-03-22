@@ -1,7 +1,7 @@
 ---
-title: "Todd LAWLOR | トッド・ローラー"
+title: "Todd LAWLOR | トット ローラー"
 name_en: "Todd LAWLOR"
-name_ja: "トッド・ローラー"
+name_ja: "トット ローラー"
 slug: "todd-lawlor"
 position: "WTB"
 height: ""
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/todd-lawlor"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "newbridge college (2021 - 2024) -> llandovery rfc (2024 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/todd-lawlor"
 ---
 
 ## キャリア遍歴
-
+newbridge college (2021 - 2024) -> llandovery rfc (2024 - 2025) -> leinster rugby (2025 - 2026)

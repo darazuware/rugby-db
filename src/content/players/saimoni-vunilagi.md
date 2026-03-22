@@ -1,7 +1,7 @@
 ---
-title: "Saimoni Vunilagi | サイモニ ・ヴニランギ"
+title: "Saimoni Vunilagi | サイモニ ウニランキ"
 name_en: "Saimoni Vunilagi"
-name_ja: "サイモニ ・ヴニランギ"
+name_ja: "サイモニ ウニランキ"
 slug: "saimoni-vunilagi"
 position: "LO"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
-title: "Samu Kerevi | サム ・ケレビ"
+title: "Samu Kerevi | サム ケレヒ"
 name_en: "Samu Kerevi"
-name_ja: "サム ・ケレビ"
+name_ja: "サム ケレヒ"
 slug: "samu-kerevi"
 position: "CTB"
 height: "186.0"

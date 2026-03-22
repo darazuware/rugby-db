@@ -1,7 +1,7 @@
 ---
-title: "Blake SCHOUPP | ブレイク・ショウプ"
+title: "Blake SCHOUPP | フレイク ショウフ"
 name_en: "Blake SCHOUPP"
-name_ja: "ブレイク・ショウプ"
+name_ja: "フレイク ショウフ"
 slug: "blake-schoupp"
 position: "PR"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joris JURAND | ジョリス・ジュラン"
+title: "Joris JURAND | ショリス シュラン"
 name_en: "Joris JURAND"
-name_ja: "ジョリス・ジュラン"
+name_ja: "ショリス シュラン"
 slug: "joris-jurand"
 position: "WTB"
 height: "188.0"

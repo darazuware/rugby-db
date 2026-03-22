@@ -1,7 +1,7 @@
 ---
-title: "Dylan COCKBURN | ディラン-コクバーン"
+title: "Dylan COCKBURN | ティラン-コクハーン"
 name_en: "Dylan COCKBURN"
-name_ja: "ディラン-コクバーン"
+name_ja: "ティラン-コクハーン"
 slug: "dylan-cockburn"
 position: "LO"
 height: "195.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/dylan-cockburn"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "melrose rfc (2023 - 2025) -> glasgow warriors (2025 - 2026)"
+scraped_url: "https://all.rugby/player/dylan-cockburn"
 ---
 
 ## キャリア遍歴
-
+melrose rfc (2023 - 2025) -> glasgow warriors (2025 - 2026)

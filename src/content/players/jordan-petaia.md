@@ -1,7 +1,7 @@
 ---
-title: "Jordan PETAIA | ジョーダン・ペタイア"
+title: "Jordan PETAIA | ショータン ヘタイア"
 name_en: "Jordan PETAIA"
-name_ja: "ジョーダン・ペタイア"
+name_ja: "ショータン ヘタイア"
 slug: "jordan-petaia"
 position: "WTB"
 height: "190.0"

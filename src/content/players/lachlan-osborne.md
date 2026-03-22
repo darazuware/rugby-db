@@ -1,7 +1,7 @@
 ---
-title: "Lachlan Osborne | ロックラン ・オズボーン"
+title: "Lachlan Osborne | ロックラン オスホーン"
 name_en: "Lachlan Osborne"
-name_ja: "ロックラン ・オズボーン"
+name_ja: "ロックラン オスホーン"
 slug: "lachlan-osborne"
 position: "LO"
 height: "194.0"

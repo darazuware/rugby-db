@@ -1,7 +1,7 @@
 ---
-title: "Ali VERMAAK | Ali ・ VERMAAK"
+title: "Ali VERMAAK"
 name_en: "Ali VERMAAK"
-name_ja: "Ali ・ VERMAAK"
+name_ja: "Ali VERMAAK"
 slug: "alistair-vermaak"
 position: "PR"
 height: "179.0"

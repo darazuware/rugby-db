@@ -1,22 +1,22 @@
 ---
-title: "Kavaia TAGIVETAUA | カヴァイア・タギヴェタウア"
-name_en: "Kavaia TAGIVETAUA"
-name_ja: "カヴァイア・タギヴェタウア"
+title: "Kavaia Tagivetaua | カウァイア タキウェタウア"
+name_en: "Kavaia Tagivetaua"
+name_ja: "カウァイア タキウェタウア"
 slug: "kavaia-tagivetaua"
-position: "HO"
-height: "180.0"
-weight: "113.0"
-birth_date: "2003.06.05"
-age: 22
+position: "LO"
+height: "194.0"
+weight: "112.0"
+birth_date: "1997.08.08"
+age: 28
 country: ""
 birth_place_scraped: ""
-league: "super-rugby"
-team: "Fijian Drua"
+league: "league-one"
+team: "コベルコ神戸スティーラーズ（2025-26）"
 caps: ""
-high_school: ""
-university: ""
-scraped_url: "https://all.rugby/player/kavaia-tagivetaua"
+high_school: "ハミルトンボーイズ"
+university: "白鴎大学"
+scraped_url: "https://league-one.jp/player/485729"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2024 - )
+フィジアン・ドゥルア (2024 - )

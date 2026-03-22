@@ -1,7 +1,7 @@
 ---
-title: "Nemo ROELOFSE | ネモ・ロエロフセ"
+title: "Nemo ROELOFSE | ネモ ロエロフセ"
 name_en: "Nemo ROELOFSE"
-name_ja: "ネモ・ロエロフセ"
+name_ja: "ネモ ロエロフセ"
 slug: "nemo-roelofse"
 position: "PR"
 height: "182.0"

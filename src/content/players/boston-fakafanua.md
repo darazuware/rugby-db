@@ -1,7 +1,7 @@
 ---
-title: "Boston FAKAFANUA | ボストン・ファカファヌア"
+title: "Boston FAKAFANUA | ホストン ファカファヌア"
 name_en: "Boston FAKAFANUA"
-name_ja: "ボストン・ファカファヌア"
+name_ja: "ホストン ファカファヌア"
 slug: "boston-fakafanua"
 position: "CTB"
 height: "181.0"

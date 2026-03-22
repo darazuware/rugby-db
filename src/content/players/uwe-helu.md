@@ -1,7 +1,7 @@
 ---
-title: "Uwe Helu | ヘル ウヴェ"
+title: "Uwe Helu | ヘル ウウェ"
 name_en: "Uwe Helu"
-name_ja: "ヘル ウヴェ"
+name_ja: "ヘル ウウェ"
 slug: "uwe-helu"
 position: "LO"
 height: "193.0"

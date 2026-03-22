@@ -1,7 +1,7 @@
 ---
-title: "Phatu GANYANE | Phatu ・ GANYANE"
+title: "Phatu GANYANE | ハツ カニャネ"
 name_en: "Phatu GANYANE"
-name_ja: "Phatu ・ GANYANE"
+name_ja: "ハツ カニャネ"
 slug: "phatu-ganyane"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/phatu-ganyane"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)
+natal sharks (2022 - 2024) -> sharks (2024 - 2026)

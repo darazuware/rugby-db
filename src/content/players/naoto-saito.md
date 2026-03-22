@@ -1,7 +1,7 @@
 ---
-title: "Naoto SAITO | サイトウ・ナオト"
+title: "Naoto SAITO | サイトウ ナオト"
 name_en: "Naoto SAITO"
-name_ja: "サイトウ・ナオト"
+name_ja: "サイトウ ナオト"
 slug: "naoto-saito"
 position: "SH"
 height: "165.0"

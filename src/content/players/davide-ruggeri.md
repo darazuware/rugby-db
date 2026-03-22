@@ -1,7 +1,7 @@
 ---
-title: "Davide RUGGERI | Davide ・ RUGGERI"
+title: "Davide RUGGERI"
 name_en: "Davide RUGGERI"
-name_ja: "Davide ・ RUGGERI"
+name_ja: "Davide RUGGERI"
 slug: "davide-ruggeri"
 position: "Back row"
 height: "189.0"

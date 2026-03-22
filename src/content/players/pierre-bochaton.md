@@ -1,7 +1,7 @@
 ---
-title: "Pierre BOCHATON | ピエール・ボシャトン"
+title: "Pierre BOCHATON | ヒエール ホシャトン"
 name_en: "Pierre BOCHATON"
-name_ja: "ピエール・ボシャトン"
+name_ja: "ヒエール ホシャトン"
 slug: "pierre-bochaton"
 position: "FL/NO8"
 height: "197.0"

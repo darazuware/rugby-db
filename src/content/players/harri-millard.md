@@ -1,7 +1,7 @@
 ---
-title: "Harri MILLARD | Harri ・ MILLARD"
+title: "Harri MILLARD | ハリー-ミラート"
 name_en: "Harri MILLARD"
-name_ja: "Harri ・ MILLARD"
+name_ja: "ハリー-ミラート"
 slug: "harri-millard"
 position: "CTB"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-millard"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2015 - 2026)
+cardiff rugby (2015 - 2026)

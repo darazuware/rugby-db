@@ -1,7 +1,7 @@
 ---
-title: "Mills SANERIVI | ミルズ・サネリヴィ"
+title: "Mills SANERIVI | ミルス サネリウィ"
 name_en: "Mills SANERIVI"
-name_ja: "ミルズ・サネリヴィ"
+name_ja: "ミルス サネリウィ"
 slug: "mills-sanerivi"
 position: "HO"
 height: "181.0"

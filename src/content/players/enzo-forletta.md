@@ -1,7 +1,7 @@
 ---
-title: "Enzo FORLETTA | エンゾ・フォルレッタ"
+title: "Enzo FORLETTA | エンソ フォルレッタ"
 name_en: "Enzo FORLETTA"
-name_ja: "エンゾ・フォルレッタ"
+name_ja: "エンソ フォルレッタ"
 slug: "enzo-forletta"
 position: "PR"
 height: "175.0"

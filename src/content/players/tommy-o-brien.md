@@ -1,7 +1,7 @@
 ---
-title: "Tommy O'BRIEN | Tommy ・ O'BRIEN"
+title: "Tommy O'BRIEN | トミー オフライエン"
 name_en: "Tommy O'BRIEN"
-name_ja: "Tommy ・ O'BRIEN"
+name_ja: "トミー オフライエン"
 slug: "tommy-o-brien"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "Ireland"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/tommy-o-brien"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2019 - 2026)
+leinster rugby (2019 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Veveni LASAQA | ヴェヴェニ・ラサンガ"
+title: "Veveni LASAQA | ウェウェニ ラサンカ"
 name_en: "Veveni LASAQA"
-name_ja: "ヴェヴェニ・ラサンガ"
+name_ja: "ウェウェニ ラサンカ"
 slug: "veveni-lasaqa"
 position: "FL/No8"
 height: "186.0"

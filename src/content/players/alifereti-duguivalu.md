@@ -1,7 +1,7 @@
 ---
-title: "Alivereti DUGUIVALU | アリヴェレティ・ドゥグイヴァル"
+title: "Alivereti DUGUIVALU | アリウェレティ トゥクイウァル"
 name_en: "Alivereti DUGUIVALU"
-name_ja: "アリヴェレティ・ドゥグイヴァル"
+name_ja: "アリウェレティ トゥクイウァル"
 slug: "alifereti-duguivalu"
 position: "CTB"
 height: "180.0"

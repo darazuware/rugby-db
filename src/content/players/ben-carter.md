@@ -1,7 +1,7 @@
 ---
-title: "Ben CARTER | ベン・カーター"
+title: "Ben CARTER | ヘン カーター"
 name_en: "Ben CARTER"
-name_ja: "ベン・カーター"
+name_ja: "ヘン カーター"
 slug: "ben-carter"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/ben-carter"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2018 - 2026)"
+scraped_url: "https://all.rugby/player/ben-carter"
 ---
 
 ## キャリア遍歴
-
+dragons rfc (2018 - 2026)

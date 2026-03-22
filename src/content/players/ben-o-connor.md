@@ -1,7 +1,7 @@
 ---
-title: "Ben O'CONNOR | ベン ・ O'CONNOR"
+title: "Ben O'CONNOR | ヘン オコナー"
 name_en: "Ben O'CONNOR"
-name_ja: "ベン ・ O'CONNOR"
+name_ja: "ヘン オコナー"
 slug: "ben-o-connor"
 position: "FB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-o-connor"
 ---
 
 ## キャリア遍歴
-Presentation Brothers Cork (2022 - 2023) -> Munster Rugby (2023 - 2026)
+presentation brothers cork (2022 - 2023) -> munster rugby (2023 - 2026)

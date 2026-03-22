@@ -1,7 +1,7 @@
 ---
-title: "Hugo REUS | ユーゴー-リュス"
+title: "Hugo REUS | ユーコー-リュス"
 name_en: "Hugo REUS"
-name_ja: "ユーゴー-リュス"
+name_ja: "ユーコー-リュス"
 slug: "hugo-reus"
 position: "SO"
 height: "184.0"

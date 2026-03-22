@@ -1,7 +1,7 @@
 ---
-title: "Langi GLEESON | ランギ・グリーソン"
+title: "Langi GLEESON | ランキ クリーソン"
 name_en: "Langi GLEESON"
-name_ja: "ランギ・グリーソン"
+name_ja: "ランキ クリーソン"
 slug: "langi-gleeson"
 position: "FL/NO8"
 height: "188.0"

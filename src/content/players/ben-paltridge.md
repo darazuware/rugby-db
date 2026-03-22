@@ -1,7 +1,7 @@
 ---
-title: "Ben Paltridge | ベン ・ポルトリッジ"
+title: "Ben Paltridge | ヘン ホルトリッシ"
 name_en: "Ben Paltridge"
-name_ja: "ベン ・ポルトリッジ"
+name_ja: "ヘン ホルトリッシ"
 slug: "ben-paltridge"
 position: "WTB"
 height: "177.0"

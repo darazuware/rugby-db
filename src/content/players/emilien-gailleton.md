@@ -1,7 +1,7 @@
 ---
-title: "Émilien GAILLETON | エミリオン・ガイユトン"
-name_en: "Émilien GAILLETON"
-name_ja: "エミリオン・ガイユトン"
+title: "Emilien GAILLETON | エミリオン カイユトン"
+name_en: "Emilien GAILLETON"
+name_ja: "エミリオン カイユトン"
 slug: "emilien-gailleton"
 position: "CTB"
 height: "185.0"

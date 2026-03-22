@@ -1,7 +1,7 @@
 ---
-title: "Manie Libbok | マニー ・リボック"
+title: "Manie Libbok | マニー リホック"
 name_en: "Manie Libbok"
-name_ja: "マニー ・リボック"
+name_ja: "マニー リホック"
 slug: "manie-libbok"
 position: "SO"
 height: "184.0"

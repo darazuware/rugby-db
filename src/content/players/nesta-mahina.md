@@ -1,7 +1,7 @@
 ---
-title: "Nesta Mahina | ネスタ ・マヒナ"
+title: "Nesta Mahina | ネスタ マヒナ"
 name_en: "Nesta Mahina"
-name_ja: "ネスタ ・マヒナ"
+name_ja: "ネスタ マヒナ"
 slug: "nesta-mahina"
 position: "PR"
 height: "171.0"

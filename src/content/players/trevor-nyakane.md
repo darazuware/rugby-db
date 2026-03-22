@@ -1,7 +1,7 @@
 ---
-title: "Trevor NYAKANE | トレヴァー・ニャカニ"
+title: "Trevor NYAKANE | トレウァー ニャカニ"
 name_en: "Trevor NYAKANE"
-name_ja: "トレヴァー・ニャカニ"
+name_ja: "トレウァー ニャカニ"
 slug: "trevor-nyakane"
 position: "PR"
 height: "178.0"

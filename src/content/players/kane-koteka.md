@@ -1,7 +1,7 @@
 ---
-title: "Kane KOTEKA | ケイン・コテカ"
+title: "Kane KOTEKA | ケイン コテカ"
 name_en: "Kane KOTEKA"
-name_ja: "ケイン・コテカ"
+name_ja: "ケイン コテカ"
 slug: "kane-koteka"
 position: "FL/No8"
 height: "182.0"

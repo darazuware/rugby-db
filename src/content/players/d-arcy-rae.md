@@ -1,7 +1,7 @@
 ---
-title: "D'Arcy RAE | D'Arcy ・ RAE"
+title: "D'Arcy RAE"
 name_en: "D'Arcy RAE"
-name_ja: "D'Arcy ・ RAE"
+name_ja: "D'Arcy RAE"
 slug: "d-arcy-rae"
 position: "PR"
 height: "186.0"

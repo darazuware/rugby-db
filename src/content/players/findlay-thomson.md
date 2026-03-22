@@ -1,7 +1,7 @@
 ---
-title: "Findlay THOMSON | Findlay ・ THOMSON"
+title: "Findlay THOMSON | フィントレー トムソン"
 name_en: "Findlay THOMSON"
-name_ja: "Findlay ・ THOMSON"
+name_ja: "フィントレー トムソン"
 slug: "findlay-thomson"
 position: "CTB"
 height: "190.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/findlay-thomson"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2022 - 2024) -> Edimbourg Rugby (2024 - 2026)
+watsonian rugby club (2022 - 2024) -> edimbourg rugby (2024 - 2026)

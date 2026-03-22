@@ -1,7 +1,7 @@
 ---
-title: "Gonzalo GARCIA | Gonzalo ・ GARCIA"
+title: "Gonzalo GARCIA | コンサロ-カルシア"
 name_en: "Gonzalo GARCIA"
-name_ja: "Gonzalo ・ GARCIA"
+name_ja: "コンサロ-カルシア"
 slug: "gonzalo-garcia-1999"
 position: "SH"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "Argentina"
-high_school: ""
+caps: ""
+high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/gonzalo-garcia-1999"
 ---
 
 ## キャリア遍歴
-Natacion y Gimnasia (2017 - 2019) -> Dogos XV (2019 - 2020) -> Cafeteros Pro (2020 - 2021) -> Valorugby Emilia (2021 - 2022) -> Zebre Parma (2022 - 2026)
+natacion y gimnasia (2017 - 2019) -> dogos xv (2019 - 2020) -> cafeteros pro (2020 - 2021) -> valorugby emilia (2021 - 2022) -> zebre parma (2022 - 2026)

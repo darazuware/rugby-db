@@ -1,7 +1,7 @@
 ---
-title: "Alan SPICER | Alan ・ SPICER"
+title: "Alan SPICER"
 name_en: "Alan SPICER"
-name_ja: "Alan ・ SPICER"
+name_ja: "Alan SPICER"
 slug: "alan-spicer"
 position: "LO"
 height: "208.0"

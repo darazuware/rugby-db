@@ -1,7 +1,7 @@
 ---
-title: "Marco ZANON | マルコ ・ ZANON"
+title: "Marco ZANON | マルコ サノン"
 name_en: "Marco ZANON"
-name_ja: "マルコ ・ ZANON"
+name_ja: "マルコ サノン"
 slug: "marco-zanon"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: "Italy (17)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/marco-zanon"
+scraped_url: "benetton rugby trévise (2017 - 2021) -> section paloise béarn pyrénées (2021 - 2021) -> benetton rugby trévise (2022 - 2022) -> section paloise béarn pyrénées (2022 - 2022) -> benetton rugby trévise (2022 - 2025) -> zebre parma (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2017 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2021) -> Benetton Rugby Trévise (2022 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2025) -> Zebre Parma (2025 - 2026)
+Italy

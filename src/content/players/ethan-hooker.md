@@ -1,9 +1,9 @@
 ---
-title: "Ethan HOOKER | Ethan ・ HOOKER"
+title: "Ethan HOOKER | イーサン フッカー"
 name_en: "Ethan HOOKER"
-name_ja: "Ethan ・ HOOKER"
+name_ja: "イーサン フッカー"
 slug: "ethan-hooker"
-position: "Winger"
+position: "WTB"
 height: "193.0"
 weight: "100.0"
 birth_date: "2003.01.20"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-hooker"
 ---
 
 ## キャリア遍歴
-Sharks (2022 - 2026)
+sharks (2022 - 2026)

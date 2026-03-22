@@ -1,7 +1,7 @@
 ---
-title: "Jamison GIBSON-PARK | ジェイミソン ・ ギブソン ・ パーク"
+title: "Jamison GIBSON-PARK | シェイミソン-キフソン=ハーク"
 name_en: "Jamison GIBSON-PARK"
-name_ja: "ジェイミソン ・ ギブソン ・ パーク"
+name_ja: "シェイミソン-キフソン=ハーク"
 slug: "jamison-gibson-park"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (43)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jamison-gibson-park"
+scraped_url: "blues (2013 - 2015) -> hurricanes (2015 - 2016) -> leinster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴
-Blues (2013 - 2015) -> Hurricanes (2015 - 2016) -> Leinster Rugby (2016 - 2026)
+New Zealand

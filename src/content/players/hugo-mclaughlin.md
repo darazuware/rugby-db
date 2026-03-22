@@ -1,9 +1,9 @@
 ---
-title: "Hugo MCLAUGHLIN | ヒューゴ ・ MCLAUGHLIN"
+title: "Hugo MCLAUGHLIN | ユーコー-マクラフリン"
 name_en: "Hugo MCLAUGHLIN"
-name_ja: "ヒューゴ ・ MCLAUGHLIN"
+name_ja: "ユーコー-マクラフリン"
 slug: "hugo-mclaughlin"
-position: "Winger"
+position: "WTB"
 height: "181.0"
 weight: "90.0"
 birth_date: "2004.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-mclaughlin"
 ---
 
 ## キャリア遍歴
-Lansdowne FC (2023 - 2024) -> Leinster Rugby (2024 - 2026)
+lansdowne fc (2023 - 2024) -> leinster rugby (2024 - 2026)

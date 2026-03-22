@@ -1,7 +1,7 @@
 ---
-title: "Darcy GRAHAM | ダーシー ・ GRAHAM"
+title: "Darcy GRAHAM | ターシー GRAHAM"
 name_en: "Darcy GRAHAM"
-name_ja: "ダーシー ・ GRAHAM"
+name_ja: "ターシー GRAHAM"
 slug: "darcy-graham"
 position: "Winger"
 height: "177.0"

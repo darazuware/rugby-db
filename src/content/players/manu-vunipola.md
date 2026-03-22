@@ -1,7 +1,7 @@
 ---
-title: "Manu Vunipola | マヌ ・ヴニポラ"
+title: "Manu Vunipola | マヌ ウニホラ"
 name_en: "Manu Vunipola"
-name_ja: "マヌ ・ヴニポラ"
+name_ja: "マヌ ウニホラ"
 slug: "manu-vunipola"
 position: "SO"
 height: "180.0"

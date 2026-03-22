@@ -1,7 +1,7 @@
 ---
-title: "Iori Nozaki | 野ザキ"
+title: "Iori Nozaki | 野サキ"
 name_en: "Iori Nozaki"
-name_ja: "野ザキ"
+name_ja: "野サキ"
 slug: "iori-nozaki"
 position: "PR"
 height: "180.0"

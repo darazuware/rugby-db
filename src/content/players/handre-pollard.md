@@ -1,7 +1,7 @@
 ---
-title: "Handré POLLARD | Handr ・ ポラード"
-name_en: "Handré POLLARD"
-name_ja: "Handr ・ ポラード"
+title: "Handre POLLARD | ハントレ-ホラート"
+name_en: "Handre POLLARD"
+name_ja: "ハントレ-ホラート"
 slug: "handre-pollard"
 position: "SO"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: "South Africa (65)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/handre-pollard"
+scraped_url: "bulls (2013 - 2019) -> montpellier hérault rugby (2019 - 2022) -> leicester tigers (2022 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2013 - 2019) -> Montpellier Hérault Rugby (2019 - 2022) -> Leicester Tigers (2022 - 2025) -> Bulls (2025 - 2026)
+South Africa

@@ -1,7 +1,7 @@
 ---
-title: "Sion DAVIES | シオン・デイヴィス"
+title: "Sion DAVIES | シオン テイウィス"
 name_en: "Sion DAVIES"
-name_ja: "シオン・デイヴィス"
+name_ja: "シオン テイウィス"
 slug: "sion-davies"
 position: "SH"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/sion-davies"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/sion-davies"
 ---
 
 ## キャリア遍歴
-
+cardiff rugby (2024 - 2026)

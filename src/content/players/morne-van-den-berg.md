@@ -1,7 +1,7 @@
 ---
-title: "Morné VAN DEN BERG | Morn ・ ファン ・ DEN ・ BERG"
-name_en: "Morné VAN DEN BERG"
-name_ja: "Morn ・ ファン ・ DEN ・ BERG"
+title: "Morne VAN DEN BERG | Morn ファン DEN BERG"
+name_en: "Morne VAN DEN BERG"
+name_ja: "Morn ファン DEN BERG"
 slug: "morne-van-den-berg"
 position: "SH"
 height: "175.0"

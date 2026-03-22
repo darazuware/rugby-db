@@ -1,7 +1,7 @@
 ---
-title: "Ollie Stonham | オリー ・ストーンハム"
+title: "Ollie Stonham | オリー ストーンハム"
 name_en: "Ollie Stonham"
-name_ja: "オリー ・ストーンハム"
+name_ja: "オリー ストーンハム"
 slug: "ollie-stonham"
 position: "FL/No8"
 height: "193.0"

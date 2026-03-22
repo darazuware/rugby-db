@@ -1,7 +1,7 @@
 ---
-title: "Pierre DAMOND | ピエール・ダモン"
+title: "Pierre DAMOND | ヒエール タモン"
 name_en: "Pierre DAMOND"
-name_ja: "ピエール・ダモン"
+name_ja: "ヒエール タモン"
 slug: "pierre-damond"
 position: "HO"
 height: "181.0"

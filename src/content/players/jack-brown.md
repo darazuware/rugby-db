@@ -1,7 +1,7 @@
 ---
-title: "Jack BROWN | ジャック ・ BROWN"
+title: "Jack BROWN | シャック-フラウン"
 name_en: "Jack BROWN"
-name_ja: "ジャック ・ BROWN"
+name_ja: "シャック-フラウン"
 slug: "jack-brown"
 position: "FB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-brown"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)
+watsonian rugby club (2022 - 2023) -> edimbourg rugby (2023 - 2026)

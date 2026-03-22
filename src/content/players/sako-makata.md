@@ -1,9 +1,9 @@
 ---
-title: "Sako MAKATA | Sako ・ MAKATA"
+title: "Sako MAKATA | サコ マカタ"
 name_en: "Sako MAKATA"
-name_ja: "Sako ・ MAKATA"
+name_ja: "サコ マカタ"
 slug: "sako-makata"
-position: "Winger"
+position: "WTB"
 height: "185.0"
 weight: "103.0"
 birth_date: "1998.09.10"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sako-makata"
 ---
 
 ## キャリア遍歴
-AF. SUD 7's (2018 - 2022) -> Griquas (2022 - 2024) -> Western Province (2024 - 2025) -> Stormers (2025 - 2026)
+af. sud 7's (2018 - 2022) -> griquas (2022 - 2024) -> western province (2024 - 2025) -> stormers (2025 - 2026)

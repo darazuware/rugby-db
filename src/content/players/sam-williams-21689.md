@@ -1,7 +1,7 @@
 ---
-title: "Sam WILLIAMS | サム ・ ウィリアムズ"
+title: "Sam WILLIAMS | サム ウィリアムス"
 name_en: "Sam WILLIAMS"
-name_ja: "サム ・ ウィリアムズ"
+name_ja: "サム ウィリアムス"
 slug: "sam-williams-21689"
 position: "LO"
 height: ""

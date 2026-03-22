@@ -1,7 +1,7 @@
 ---
-title: "Shamus HURLEY-LANGTON | シェイマス・ハーリー＝ラングトン"
+title: "Shamus HURLEY-LANGTON | シェイマス ハーリー=ランクトン"
 name_en: "Shamus HURLEY-LANGTON"
-name_ja: "シェイマス・ハーリー＝ラングトン"
+name_ja: "シェイマス ハーリー=ランクトン"
 slug: "shamus-hurley-langton"
 position: "FL/No8"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/shamus-hurley-langton"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "manawatu turbos (2019 - 2022) -> connacht rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/shamus-hurley-langton"
 ---
 
 ## キャリア遍歴
-
+manawatu turbos (2019 - 2022) -> connacht rugby (2022 - 2026)

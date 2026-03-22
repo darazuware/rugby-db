@@ -1,7 +1,7 @@
 ---
-title: "Hamdahn Tuipulotu | ハムダン ・トゥイプロトゥ"
+title: "Hamdahn Tuipulotu | ハムタン トゥイフロトゥ"
 name_en: "Hamdahn Tuipulotu"
-name_ja: "ハムダン ・トゥイプロトゥ"
+name_ja: "ハムタン トゥイフロトゥ"
 slug: "hamdahn-tuipulotu"
 position: "PR"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "David WALSH | デイヴィッド・ウォルシュ"
+title: "David WALSH | テイウィット WALSH"
 name_en: "David WALSH"
-name_ja: "デイヴィッド・ウォルシュ"
+name_ja: "テイウィット WALSH"
 slug: "david-walsh"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/david-walsh"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dublin university fc (2024 - 2025) -> connacht rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/david-walsh"
 ---
 
 ## キャリア遍歴
-
+Dublin University FC (2024 - 2025) -> Connacht Rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Fetuli PAEA | フェトゥリ-パエア"
+title: "Fetuli PAEA | フェトゥリ-ハエア"
 name_en: "Fetuli PAEA"
-name_ja: "フェトゥリ-パエア"
+name_ja: "フェトゥリ-ハエア"
 slug: "fetuli-paea"
 position: "CTB"
 height: "190.0"

@@ -1,7 +1,7 @@
 ---
-title: "Yoram MOEFANA | ヨラム・モエファナ"
+title: "Yoram MOEFANA | ヨラム モエファナ"
 name_en: "Yoram MOEFANA"
-name_ja: "ヨラム・モエファナ"
+name_ja: "ヨラム モエファナ"
 slug: "yoram-moefana"
 position: "CTB"
 height: "183.0"

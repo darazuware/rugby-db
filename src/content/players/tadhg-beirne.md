@@ -1,7 +1,7 @@
 ---
-title: "Tadhg BEIRNE | タイグ・バーン"
+title: "Tadhg BEIRNE | タイク BEIRNE"
 name_en: "Tadhg BEIRNE"
-name_ja: "タイグ・バーン"
+name_ja: "タイク BEIRNE"
 slug: "tadhg-beirne"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "Ireland (61)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2015 - 2016) -> scarlets (2016 - 2018) -> munster rugby (2018 - 2026)"
+scraped_url: "https://all.rugby/player/tadhg-beirne"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2015 - 2016) -> Scarlets (2016 - 2018) -> Munster Rugby (2018 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Macs PAGE | Macs ・ PAGE"
+title: "Macs PAGE | マックス ヘイシ"
 name_en: "Macs PAGE"
-name_ja: "Macs ・ PAGE"
+name_ja: "マックス ヘイシ"
 slug: "macs-page"
 position: "CTB"
 height: "176.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/macs-page"
 ---
 
 ## キャリア遍歴
-Scarlets (2022 - 2026)
+scarlets (2022 - 2026)

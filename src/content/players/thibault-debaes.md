@@ -1,7 +1,7 @@
 ---
-title: "Thibault DEBAËS | ティボー・ドゥベズ"
-name_en: "Thibault DEBAËS"
-name_ja: "ティボー・ドゥベズ"
+title: "Thibault DEBAES | ティホー トゥヘス"
+name_en: "Thibault DEBAES"
+name_ja: "ティホー トゥヘス"
 slug: "thibault-debaes"
 position: "SO"
 height: "179.0"

@@ -1,7 +1,7 @@
 ---
-title: "Alexis BERNADET | アレクシス・ベルナデ"
+title: "Alexis BERNADET | アレクシス ヘルナテ"
 name_en: "Alexis BERNADET"
-name_ja: "アレクシス・ベルナデ"
+name_ja: "アレクシス ヘルナテ"
 slug: "alexis-bernadet"
 position: "SH"
 height: "180.0"

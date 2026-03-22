@@ -1,7 +1,7 @@
 ---
-title: "Afu Ofeina | アフ ・オフィナ"
+title: "Afu Ofeina | アフ オフィナ"
 name_en: "Afu Ofeina"
-name_ja: "アフ ・オフィナ"
+name_ja: "アフ オフィナ"
 slug: "afu-ofeina"
 position: "FL/No8"
 height: "187.0"

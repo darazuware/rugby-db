@@ -1,7 +1,7 @@
 ---
-title: "Ben DONNELL | ベン・ドネル"
+title: "Ben DONNELL | ヘン トネル"
 name_en: "Ben DONNELL"
-name_ja: "ベン・ドネル"
+name_ja: "ヘン トネル"
 slug: "ben-donnell"
 position: "FL/No8"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/ben-donnell"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "london irish (2017 - 2023) -> gloucester rugby (2023 - 2023) -> cardiff rugby (2023 - 2023) -> gloucester rugby (2024 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/ben-donnell"
 ---
 
 ## キャリア遍歴
-
+london irish (2017 - 2023) -> gloucester rugby (2023 - 2023) -> cardiff rugby (2023 - 2023) -> gloucester rugby (2024 - 2024) -> cardiff rugby (2024 - 2026)

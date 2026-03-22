@@ -1,7 +1,7 @@
 ---
-title: "Vaiuta LATU | ヴァイウタ・ラトゥ"
+title: "Vaiuta LATU | ウァイウタ ラトゥ"
 name_en: "Vaiuta LATU"
-name_ja: "ヴァイウタ・ラトゥ"
+name_ja: "ウァイウタ ラトゥ"
 slug: "vaiuta-latu"
 position: "FL/No8"
 height: ""

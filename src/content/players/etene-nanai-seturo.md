@@ -1,7 +1,7 @@
 ---
-title: "Etene NANAI-SETURO | エテネ-ナナイ＝セツロ"
+title: "Etene NANAI-SETURO | エテネ-ナナイ=セツロ"
 name_en: "Etene NANAI-SETURO"
-name_ja: "エテネ-ナナイ＝セツロ"
+name_ja: "エテネ-ナナイ=セツロ"
 slug: "etene-nanai-seturo"
 position: "FB"
 height: "183.0"

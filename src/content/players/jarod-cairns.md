@@ -1,7 +1,7 @@
 ---
-title: "Jarod CAIRNS | Jarod ・ CAIRNS"
+title: "Jarod CAIRNS"
 name_en: "Jarod CAIRNS"
-name_ja: "Jarod ・ CAIRNS"
+name_ja: "Jarod CAIRNS"
 slug: "jarod-cairns"
 position: "Back row"
 height: "188.0"

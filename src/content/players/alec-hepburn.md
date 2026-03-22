@@ -1,7 +1,7 @@
 ---
-title: "Alec HEPBURN | アレック・ヘップバーン"
+title: "Alec HEPBURN | アレック ヘッフハーン"
 name_en: "Alec HEPBURN"
-name_ja: "アレック・ヘップバーン"
+name_ja: "アレック ヘッフハーン"
 slug: "alec-hepburn"
 position: "PR"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/alec-hepburn"
-high_school: ""
+caps: ""
+high_school: "Australia"
 university: ""
-scraped_url: "exeter chiefs (2014 - 2024) -> scarlets (2024 - 2026)"
+scraped_url: "https://all.rugby/player/alec-hepburn"
 ---
 
 ## キャリア遍歴
-Australia
+exeter chiefs (2014 - 2024) -> scarlets (2024 - 2026)

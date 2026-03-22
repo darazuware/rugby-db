@@ -1,7 +1,7 @@
 ---
-title: "Andro DVALI | アンドロ・ドヴァリ"
+title: "Andro DVALI | アントロ トウァリ"
 name_en: "Andro DVALI"
-name_ja: "アンドロ・ドヴァリ"
+name_ja: "アントロ トウァリ"
 slug: "andro-dvali"
 position: "FL/NO8"
 height: "189.0"

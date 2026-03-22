@@ -1,7 +1,7 @@
 ---
-title: "Taleni Seu | タレニ ・セウ"
+title: "Taleni Seu | タレニ セウ"
 name_en: "Taleni Seu"
-name_ja: "タレニ ・セウ"
+name_ja: "タレニ セウ"
 slug: "taleni-seu"
 position: "FL/No8"
 height: "201.0"

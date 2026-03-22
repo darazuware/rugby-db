@@ -1,7 +1,7 @@
 ---
-title: "Conor BARTLEY | コナー ・ BARTLEY"
+title: "Conor BARTLEY | コナー ハートリー"
 name_en: "Conor BARTLEY"
-name_ja: "コナー ・ BARTLEY"
+name_ja: "コナー ハートリー"
 slug: "conor-bartley"
 position: "PR"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-bartley"
 ---
 
 ## キャリア遍歴
-Young Munster RFC (2021 - 2024) -> Munster Rugby (2024 - 2024) -> Young Munster RFC (2025 - 2025) -> Munster Rugby (2025 - 2026)
+young munster rfc (2021 - 2024) -> munster rugby (2024 - 2024) -> young munster rfc (2025 - 2025) -> munster rugby (2025 - 2026)

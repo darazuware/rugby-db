@@ -1,7 +1,7 @@
 ---
-title: "Troy Hallett | トロイ ・ハレット"
+title: "Troy Hallett | トロイ ハレット"
 name_en: "Troy Hallett"
-name_ja: "トロイ ・ハレット"
+name_ja: "トロイ ハレット"
 slug: "troy-hallett"
 position: "PR"
 height: "183.0"

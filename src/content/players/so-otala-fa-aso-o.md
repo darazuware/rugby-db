@@ -1,7 +1,7 @@
 ---
-title: "So'otala FA'ASO'O | So'otala ・ FA'ASO'O"
+title: "So'otala FA'ASO'O"
 name_en: "So'otala FA'ASO'O"
-name_ja: "So'otala ・ FA'ASO'O"
+name_ja: "So'otala FA'ASO'O"
 slug: "so-otala-fa-aso-o"
 position: "Back row"
 height: "196.0"

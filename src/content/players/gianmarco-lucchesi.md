@@ -1,7 +1,7 @@
 ---
-title: "Gianmarco LUCCHESI | ジャンマルコ-ルッケージ"
+title: "Gianmarco LUCCHESI | シャンマルコ-ルッケーシ"
 name_en: "Gianmarco LUCCHESI"
-name_ja: "ジャンマルコ-ルッケージ"
+name_ja: "シャンマルコ-ルッケーシ"
 slug: "gianmarco-lucchesi"
 position: "HO"
 height: "184.0"

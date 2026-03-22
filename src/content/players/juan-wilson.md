@@ -1,7 +1,7 @@
 ---
-title: "Juan Wilson | ユアン ・ウィルソン"
+title: "Juan Wilson | ユアン ウィルソン"
 name_en: "Juan Wilson"
-name_ja: "ユアン ・ウィルソン"
+name_ja: "ユアン ウィルソン"
 slug: "juan-wilson"
 position: "FL/No8"
 height: "190.0"

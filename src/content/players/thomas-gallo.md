@@ -1,7 +1,7 @@
 ---
-title: "Thomas GALLO | トーマス・ガジョ"
+title: "Thomas GALLO | トーマス GALLO"
 name_en: "Thomas GALLO"
-name_ja: "トーマス・ガジョ"
+name_ja: "トーマス GALLO"
 slug: "thomas-gallo"
 position: "PR"
 height: "177.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Argentina (17)"
 high_school: ""
 university: ""
-scraped_url: "yacare xv (2019 - 2020) -> benetton rugby trévise (2020 - 2026)"
+scraped_url: "https://all.rugby/player/thomas-gallo"
 ---
 
 ## キャリア遍歴
-Argentina
+Yacare XV (2019 - 2020) -> Benetton Rugby Trévise (2020 - 2026)

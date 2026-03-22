@@ -1,7 +1,7 @@
 ---
-title: "Kye OATES | カイ・オーツ"
+title: "Kye OATES | カイ オーツ"
 name_en: "Kye OATES"
-name_ja: "カイ・オーツ"
+name_ja: "カイ オーツ"
 slug: "kye-oates"
 position: "CTB"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Imad KHAN | Imad ・ KHAN"
+title: "Imad KHAN"
 name_en: "Imad KHAN"
-name_ja: "Imad ・ KHAN"
+name_ja: "Imad KHAN"
 slug: "imad-khan"
 position: "SH"
 height: "179.0"

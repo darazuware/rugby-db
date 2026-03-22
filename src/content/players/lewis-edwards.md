@@ -1,7 +1,7 @@
 ---
-title: "Lewis EDWARDS | Lewis ・ EDWARDS"
+title: "Lewis EDWARDS | ルイス エトワース"
 name_en: "Lewis EDWARDS"
-name_ja: "Lewis ・ EDWARDS"
+name_ja: "ルイス エトワース"
 slug: "lewis-edwards"
 position: "CTB"
 height: "195.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lewis-edwards"
 ---
 
 ## キャリア遍歴
-Ospreys (2024 - 2026)
+ospreys (2024 - 2026)

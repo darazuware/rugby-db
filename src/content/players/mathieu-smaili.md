@@ -1,7 +1,7 @@
 ---
-title: "Mathieu SMAÏLI | マチュー・スマイリ"
-name_en: "Mathieu SMAÏLI"
-name_ja: "マチュー・スマイリ"
+title: "Mathieu SMAILI | マチュー スマイリ"
+name_en: "Mathieu SMAILI"
+name_ja: "マチュー スマイリ"
 slug: "mathieu-smaili"
 position: "CTB"
 height: "180.0"

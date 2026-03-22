@@ -1,9 +1,9 @@
 ---
-title: "Osian WILLIAMS | Osian ・ ウィリアムズ"
+title: "Osian WILLIAMS | オシアン ウィリアムス"
 name_en: "Osian WILLIAMS"
-name_ja: "Osian ・ ウィリアムズ"
+name_ja: "オシアン ウィリアムス"
 slug: "osian-williams"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "106.0"
 birth_date: "2006.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/osian-williams"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+scarlets (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Henry Taefu | ヘンリー ・タエフ"
+title: "Henry Taefu | ヘンリー タエフ"
 name_en: "Henry Taefu"
-name_ja: "ヘンリー ・タエフ"
+name_ja: "ヘンリー タエフ"
 slug: "henry-taefu"
 position: "CTB"
 height: "183.0"

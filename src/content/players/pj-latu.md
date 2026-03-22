@@ -1,7 +1,7 @@
 ---
-title: "PJ Latu | PJ ・ラトゥ"
+title: "PJ Latu | PJ ラトゥ"
 name_en: "PJ Latu"
-name_ja: "PJ ・ラトゥ"
+name_ja: "PJ ラトゥ"
 slug: "pj-latu"
 position: "CTB"
 height: "187.0"

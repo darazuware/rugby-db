@@ -1,7 +1,7 @@
 ---
-title: "Siale Otuhouma | シアレ ・オトゥホウマ"
+title: "Siale Otuhouma | シアレ オトゥホウマ"
 name_en: "Siale Otuhouma"
-name_ja: "シアレ ・オトゥホウマ"
+name_ja: "シアレ オトゥホウマ"
 slug: "siale-otuhouma"
 position: "PR"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jake FLANNERY | Jake ・ FLANNERY"
+title: "Jake FLANNERY | シェイク-フラナリー"
 name_en: "Jake FLANNERY"
-name_ja: "Jake ・ FLANNERY"
+name_ja: "シェイク-フラナリー"
 slug: "jake-flannery"
 position: "SO"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-flannery"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2022) -> Ulster Rugby (2022 - 2026)
+munster rugby (2018 - 2022) -> ulster rugby (2022 - 2026)

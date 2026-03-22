@@ -1,7 +1,7 @@
 ---
-title: "Matt DAVIDSON | Matt ・ DAVIDSON"
+title: "Matt DAVIDSON"
 name_en: "Matt DAVIDSON"
-name_ja: "Matt ・ DAVIDSON"
+name_ja: "Matt DAVIDSON"
 slug: "matt-davidson"
 position: "FB"
 height: "190.0"

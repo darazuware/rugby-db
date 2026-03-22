@@ -1,7 +1,7 @@
 ---
-title: "Bailey CUTTS | Bailey ・ CUTTS"
+title: "Bailey CUTTS"
 name_en: "Bailey CUTTS"
-name_ja: "Bailey ・ CUTTS"
+name_ja: "Bailey CUTTS"
 slug: "bailey-cutts"
 position: "CTB"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Rory MCHAFFIE | Rory ・ MCHAFFIE"
+title: "Rory MCHAFFIE | ロリー マクハフィー"
 name_en: "Rory MCHAFFIE"
-name_ja: "Rory ・ MCHAFFIE"
+name_ja: "ロリー マクハフィー"
 slug: "rory-mchaffie"
 position: "FB"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-mchaffie"
 ---
 
 ## キャリア遍歴
-Peebles RFC (2023 - 2025) -> Edimbourg Rugby (2025 - 2026)
+peebles rfc (2023 - 2025) -> edimbourg rugby (2025 - 2026)

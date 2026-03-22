@@ -1,7 +1,7 @@
 ---
-title: "Jahrome BROWN | ジャローム-ブラウン"
+title: "Jahrome BROWN | シャローム-フラウン"
 name_en: "Jahrome BROWN"
-name_ja: "ジャローム-ブラウン"
+name_ja: "シャローム-フラウン"
 slug: "jahrome-brown"
 position: "FL/No8"
 height: "189.0"

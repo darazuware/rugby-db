@@ -1,7 +1,7 @@
 ---
-title: "Vladi ASHVETIA | ヴラディ・アシュヴェティア"
+title: "Vladi ASHVETIA | ウラティ アシュウェティア"
 name_en: "Vladi ASHVETIA"
-name_ja: "ヴラディ・アシュヴェティア"
+name_ja: "ウラティ アシュウェティア"
 slug: "vladi-ashvetia"
 position: "CTB"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Lachlan LONERGAN | ラクラン・ロナーガン"
+title: "Lachlan LONERGAN | ラクラン ロナーカン"
 name_en: "Lachlan LONERGAN"
-name_ja: "ラクラン・ロナーガン"
+name_ja: "ラクラン ロナーカン"
 slug: "lachlan-lonergan"
 position: "HO"
 height: "180.0"

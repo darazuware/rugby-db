@@ -1,7 +1,7 @@
 ---
-title: "Ciarán FRAWLEY | Ciar ・ FRAWLEY"
-name_en: "Ciarán FRAWLEY"
-name_ja: "Ciar ・ FRAWLEY"
+title: "Ciaran FRAWLEY | Ciar FRAWLEY"
+name_en: "Ciaran FRAWLEY"
+name_ja: "Ciar FRAWLEY"
 slug: "ciaran-frawley"
 position: "SO"
 height: "191.0"

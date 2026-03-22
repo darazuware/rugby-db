@@ -1,7 +1,7 @@
 ---
-title: "Louis FOURSANS-BOURDETTE | ルイ・フルサン＝ブルデット"
+title: "Louis FOURSANS-BOURDETTE | ルイ フルサン=フルテット"
 name_en: "Louis FOURSANS-BOURDETTE"
-name_ja: "ルイ・フルサン＝ブルデット"
+name_ja: "ルイ フルサン=フルテット"
 slug: "louis-foursans-bourdette"
 position: "SO"
 height: "171.0"

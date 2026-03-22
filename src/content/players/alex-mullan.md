@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/alex-mullan"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blackrock college rfc (2023 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/alex-mullan"
 ---
 
 ## キャリア遍歴
-
+blackrock college rfc (2023 - 2025) -> leinster rugby (2025 - 2026)

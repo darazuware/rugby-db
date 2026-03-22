@@ -1,7 +1,7 @@
 ---
-title: "Math IORWERTH-SCOTT | Math ・ IORWERTH ・ スコット"
+title: "Math IORWERTH-SCOTT | マス イオルワース=スコット"
 name_en: "Math IORWERTH-SCOTT"
-name_ja: "Math ・ IORWERTH ・ スコット"
+name_ja: "マス イオルワース=スコット"
 slug: "matholwch-iorwerth-scott"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matholwch-iorwerth-scott"
 ---
 
 ## キャリア遍歴
-Cardiff Met RFC (2022 - 2023) -> Bridgend Ravens (2023 - 2024) -> Ospreys (2024 - 2026)
+cardiff met rfc (2022 - 2023) -> bridgend ravens (2023 - 2024) -> ospreys (2024 - 2026)

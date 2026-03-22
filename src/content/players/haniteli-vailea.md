@@ -1,7 +1,7 @@
 ---
-title: "HANITELI VAILEA | ハニテリ ・ヴァイレア"
+title: "HANITELI VAILEA | ハニテリ ウァイレア"
 name_en: "HANITELI VAILEA"
-name_ja: "ハニテリ ・ヴァイレア"
+name_ja: "ハニテリ ウァイレア"
 slug: "haniteli-vailea"
 position: "CTB"
 height: "181.0"

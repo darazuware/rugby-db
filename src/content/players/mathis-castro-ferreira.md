@@ -1,7 +1,7 @@
 ---
-title: "Mathis CASTRO-FERREIRA | マティス・カストロ＝フェレイラ"
+title: "Mathis CASTRO-FERREIRA | マティス カストロ=フェレイラ"
 name_en: "Mathis CASTRO-FERREIRA"
-name_ja: "マティス・カストロ＝フェレイラ"
+name_ja: "マティス カストロ=フェレイラ"
 slug: "mathis-castro-ferreira"
 position: "FL/NO8"
 height: "192.0"

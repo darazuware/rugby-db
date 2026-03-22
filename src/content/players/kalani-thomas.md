@@ -1,7 +1,7 @@
 ---
-title: "Kalani THOMAS | カラニ・トーマス"
+title: "Kalani THOMAS | カラニ トーマス"
 name_en: "Kalani THOMAS"
-name_ja: "カラニ・トーマス"
+name_ja: "カラニ トーマス"
 slug: "kalani-thomas"
 position: "SH"
 height: "178.0"

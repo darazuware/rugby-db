@@ -1,7 +1,7 @@
 ---
-title: "Sébastien BÉZY | セバスチャン・ベジー"
-name_en: "Sébastien BÉZY"
-name_ja: "セバスチャン・ベジー"
+title: "Sebastien BEZY | セハスチャン ヘシー"
+name_en: "Sebastien BEZY"
+name_ja: "セハスチャン ヘシー"
 slug: "sebastien-bezy"
 position: "SH"
 height: "174.0"

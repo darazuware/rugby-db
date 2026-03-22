@@ -1,7 +1,7 @@
 ---
-title: "Sebastian Boshoff | セバスチャン ・ボショフ"
+title: "Sebastian Boshoff | セハスチャン ホショフ"
 name_en: "Sebastian Boshoff"
-name_ja: "セバスチャン ・ボショフ"
+name_ja: "セハスチャン ホショフ"
 slug: "sebastian-boshoff"
 position: "CTB"
 height: "180.0"

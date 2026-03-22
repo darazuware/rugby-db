@@ -1,7 +1,7 @@
 ---
-title: "Marley PEARCE | マーリー・ピアース"
+title: "Marley PEARCE | マーリー ヒアース"
 name_en: "Marley PEARCE"
-name_ja: "マーリー・ピアース"
+name_ja: "マーリー ヒアース"
 slug: "marley-pearce"
 position: "PR"
 height: "186.0"

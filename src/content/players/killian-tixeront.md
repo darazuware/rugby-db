@@ -1,7 +1,7 @@
 ---
-title: "Killian TIXERONT | キリアン・ティクスロン"
+title: "Killian TIXERONT | キリアン ティクスロン"
 name_en: "Killian TIXERONT"
-name_ja: "キリアン・ティクスロン"
+name_ja: "キリアン ティクスロン"
 slug: "killian-tixeront"
 position: "FL/NO8"
 height: "196.0"

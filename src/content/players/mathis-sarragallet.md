@@ -1,7 +1,7 @@
 ---
-title: "Mathis SARRAGALLET | マティス・サラガレ"
+title: "Mathis SARRAGALLET | マティス サラカレ"
 name_en: "Mathis SARRAGALLET"
-name_ja: "マティス・サラガレ"
+name_ja: "マティス サラカレ"
 slug: "mathis-sarragallet"
 position: "HO"
 height: "177.0"

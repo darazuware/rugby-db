@@ -1,7 +1,7 @@
 ---
-title: "Paul MALLEZ | ポール・マレズ"
+title: "Paul MALLEZ | ホール マレス"
 name_en: "Paul MALLEZ"
-name_ja: "ポール・マレズ"
+name_ja: "ホール マレス"
 slug: "paul-mallez"
 position: "PR"
 height: "180.0"

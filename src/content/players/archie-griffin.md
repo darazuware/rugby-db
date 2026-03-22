@@ -1,12 +1,12 @@
 ---
-title: "Archie Griffin"
-name_en: "Archie Griffin"
+title: "Archie GRIFFIN"
+name_en: "Archie GRIFFIN"
 name_ja: ""
 slug: "archie-griffin"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "2001.07.24"
+birth_date: "nan"
 age: 24
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/archie-griffin"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

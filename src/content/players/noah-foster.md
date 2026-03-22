@@ -1,7 +1,7 @@
 ---
-title: "Noah Foster | ノア ・フォスター"
+title: "Noah Foster | ノア フォスター"
 name_en: "Noah Foster"
-name_ja: "ノア ・フォスター"
+name_ja: "ノア フォスター"
 slug: "noah-foster"
 position: "CTB"
 height: "180.0"

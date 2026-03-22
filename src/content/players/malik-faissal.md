@@ -1,7 +1,7 @@
 ---
-title: "Malik FAISSAL | Malik ・ FAISSAL"
+title: "Malik FAISSAL"
 name_en: "Malik FAISSAL"
-name_ja: "Malik ・ FAISSAL"
+name_ja: "Malik FAISSAL"
 slug: "malik-faissal"
 position: "Winger"
 height: "183.0"

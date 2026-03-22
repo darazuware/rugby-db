@@ -1,7 +1,7 @@
 ---
-title: "Chris SMITH | クリス・スミス"
+title: "Chris SMITH | クリス スミス"
 name_en: "Chris SMITH"
-name_ja: "クリス・スミス"
+name_ja: "クリス スミス"
 slug: "chris-smith"
 position: "SO"
 height: "181.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/chris-smith"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2019 - 2024) -> oyonnax rugby (2024 - 2025) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/chris-smith"
 ---
 
 ## キャリア遍歴
-
+bulls (2019 - 2024) -> oyonnax rugby (2024 - 2025) -> lions rugby (2025 - 2026)

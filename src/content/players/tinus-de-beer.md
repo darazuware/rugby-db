@@ -1,7 +1,7 @@
 ---
-title: "Tinus DE BEER | タイナス・デ・ビア"
+title: "Tinus DE BEER | タイナス テ ヒア"
 name_en: "Tinus DE BEER"
-name_ja: "タイナス・デ・ビア"
+name_ja: "タイナス テ ヒア"
 slug: "tinus-de-beer"
 position: "SO"
 height: "176.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/tinus-de-beer"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2016 - 2017) -> griquas (2019 - 2021) -> pumas (2021 - 2023) -> cardiff rugby (2023 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/tinus-de-beer"
 ---
 
 ## キャリア遍歴
-
+bulls (2016 - 2017) -> griquas (2019 - 2021) -> pumas (2021 - 2023) -> cardiff rugby (2023 - 2025) -> dragons rfc (2025 - 2026)

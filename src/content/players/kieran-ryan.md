@@ -1,7 +1,7 @@
 ---
-title: "Kieran RYAN | Kieran ・ ライアン"
+title: "Kieran RYAN | Kieran ライアン"
 name_en: "Kieran RYAN"
-name_ja: "Kieran ・ ライアン"
+name_ja: "Kieran ライアン"
 slug: "kieran-ryan"
 position: "PR"
 height: "183.0"

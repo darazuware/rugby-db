@@ -1,7 +1,7 @@
 ---
-title: "Giovanni QUATTRINI | Giovanni ・ QUATTRINI"
+title: "Giovanni QUATTRINI | ショウァンニ-クアトリーニ"
 name_en: "Giovanni QUATTRINI"
-name_ja: "Giovanni ・ QUATTRINI"
+name_ja: "ショウァンニ-クアトリーニ"
 slug: "giovanni-quattrini"
 position: "HO"
 height: "179.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-quattrini"
 ---
 
 ## キャリア遍歴
-CUS Milano Rugby (2021 - 2022) -> Zebre Parma (2022 - 2026)
+cus milano rugby (2021 - 2022) -> zebre parma (2022 - 2026)

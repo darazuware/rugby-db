@@ -1,7 +1,7 @@
 ---
-title: "Thibaud FLAMENT | ティボー・フラマン"
+title: "Thibaud FLAMENT | ティホー フラマン"
 name_en: "Thibaud FLAMENT"
-name_ja: "ティボー・フラマン"
+name_ja: "ティホー フラマン"
 slug: "thibaud-flament"
 position: "LO"
 height: "202.0"

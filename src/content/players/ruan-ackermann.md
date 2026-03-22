@@ -1,9 +1,9 @@
 ---
-title: "Ruan ACKERMANN | Ruan ・ ACKERMANN"
+title: "Ruan ACKERMANN | ルアン アッカーマン"
 name_en: "Ruan ACKERMANN"
-name_ja: "Ruan ・ ACKERMANN"
+name_ja: "ルアン アッカーマン"
 slug: "ruan-ackermann"
-position: "Back row"
+position: "FL/No8"
 height: "194.0"
 weight: "115.0"
 birth_date: "1995.12.29"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-ackermann"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2015 - 2017) -> Gloucester Rugby (2017 - 2025) -> Stormers (2025 - 2026)
+lions rugby (2015 - 2017) -> gloucester rugby (2017 - 2025) -> stormers (2025 - 2026)

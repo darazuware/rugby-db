@@ -1,7 +1,7 @@
 ---
-title: "Callum MacDonald | カラム ・マクドナルド"
+title: "Callum MacDonald | カラム マクトナルト"
 name_en: "Callum MacDonald"
-name_ja: "カラム ・マクドナルド"
+name_ja: "カラム マクトナルト"
 slug: "callum-macdonald"
 position: "LO"
 height: "204.0"

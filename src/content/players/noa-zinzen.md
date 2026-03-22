@@ -1,7 +1,7 @@
 ---
-title: "Noa ZINZEN | ノア・ジンゼン"
+title: "Noa ZINZEN | ノア シンセン"
 name_en: "Noa ZINZEN"
-name_ja: "ノア・ジンゼン"
+name_ja: "ノア シンセン"
 slug: "noa-zinzen"
 position: "FL/NO8"
 height: "192.0"

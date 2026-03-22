@@ -1,7 +1,7 @@
 ---
-title: "Tiaan Thomaswheeler | ティアン ・トーマスウィーラー"
+title: "Tiaan Thomaswheeler | ティアン トーマスウィーラー"
 name_en: "Tiaan Thomaswheeler"
-name_ja: "ティアン ・トーマスウィーラー"
+name_ja: "ティアン トーマスウィーラー"
 slug: "tiaan-thomaswheeler"
 position: "CTB"
 height: "193.0"

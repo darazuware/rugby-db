@@ -1,7 +1,7 @@
 ---
-title: "Sam Cane | サム ・ケイン"
+title: "Sam Cane | サム ケイン"
 name_en: "Sam Cane"
-name_ja: "サム ・ケイン"
+name_ja: "サム ケイン"
 slug: "sam-cane"
 position: "FL/No8"
 height: "189.0"

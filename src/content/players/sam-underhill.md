@@ -1,12 +1,12 @@
 ---
-title: "Sam Underhill"
-name_en: "Sam Underhill"
+title: "Sam UNDERHILL"
+name_en: "Sam UNDERHILL"
 name_ja: ""
 slug: "sam-underhill"
-position: "Flanker"
+position: "Back row"
 height: ""
 weight: ""
-birth_date: "1996.07.22"
+birth_date: "nan"
 age: 29
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (30)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/sam-underhill"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

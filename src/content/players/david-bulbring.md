@@ -1,7 +1,7 @@
 ---
-title: "David Bulbring | デーヴィッド ・ブルブリング"
+title: "David Bulbring | テーウィット フルフリンク"
 name_en: "David Bulbring"
-name_ja: "デーヴィッド ・ブルブリング"
+name_ja: "テーウィット フルフリンク"
 slug: "david-bulbring"
 position: "LO"
 height: "199.0"

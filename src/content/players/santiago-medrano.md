@@ -1,7 +1,7 @@
 ---
-title: "Santiago MEDRANO | サンティアゴ・メドラーノ"
+title: "Santiago MEDRANO | サンティアコ メトラーノ"
 name_en: "Santiago MEDRANO"
-name_ja: "サンティアゴ・メドラーノ"
+name_ja: "サンティアコ メトラーノ"
 slug: "santiago-medrano"
 position: "PR"
 height: "185.0"

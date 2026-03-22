@@ -1,7 +1,7 @@
 ---
-title: "Ben DONALDSON | ベン-ドナルドソン"
+title: "Ben DONALDSON | ヘン-トナルトソン"
 name_en: "Ben DONALDSON"
-name_ja: "ベン-ドナルドソン"
+name_ja: "ヘン-トナルトソン"
 slug: "ben-donaldson"
 position: "SO"
 height: "183.0"

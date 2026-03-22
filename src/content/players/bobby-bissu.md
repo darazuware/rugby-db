@@ -1,7 +1,7 @@
 ---
-title: "Bobby BISSU | ボビー・ビス"
+title: "Bobby BISSU | ホヒー ヒス"
 name_en: "Bobby BISSU"
-name_ja: "ボビー・ビス"
+name_ja: "ホヒー ヒス"
 slug: "bobby-bissu"
 position: "FL/NO8"
 height: "189.0"

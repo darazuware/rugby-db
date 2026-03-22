@@ -1,7 +1,7 @@
 ---
-title: "Riccardo FAVRETTO | Riccardo ・ FAVRETTO"
+title: "Riccardo FAVRETTO | リッカルト ファウレット"
 name_en: "Riccardo FAVRETTO"
-name_ja: "Riccardo ・ FAVRETTO"
+name_ja: "リッカルト ファウレット"
 slug: "riccardo-favretto"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (4)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/riccardo-favretto"
+scraped_url: "mogliano veneto rugby (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> mogliano veneto rugby (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Mogliano Veneto Rugby (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2026)
+Italy

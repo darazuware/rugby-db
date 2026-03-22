@@ -1,7 +1,7 @@
 ---
-title: "Joe BRIAL | ジョー・ブライアル"
+title: "Joe BRIAL | ショー フライアル"
 name_en: "Joe BRIAL"
-name_ja: "ジョー・ブライアル"
+name_ja: "ショー フライアル"
 slug: "joe-brial"
 position: "FL/No8"
 height: "195.0"

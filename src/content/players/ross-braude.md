@@ -1,7 +1,7 @@
 ---
-title: "Ross BRAUDE | ロス ・ BRAUDE"
+title: "Ross BRAUDE | ロス フロート"
 name_en: "Ross BRAUDE"
-name_ja: "ロス ・ BRAUDE"
+name_ja: "ロス フロート"
 slug: "ross-braude"
 position: "SH"
 height: "168.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/ross-braude"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2019 - 2020) -> Toronto Arrows (2020 - 2023) -> Pumas (2023 - 2025) -> Sharks (2025 - 2026)
+blue bulls (2019 - 2020) -> toronto arrows (2020 - 2023) -> pumas (2023 - 2025) -> sharks (2025 - 2026)

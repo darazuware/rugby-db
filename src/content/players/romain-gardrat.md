@@ -1,7 +1,7 @@
 ---
-title: "Romain GARDRAT | ロマン・ガルド"
+title: "Romain GARDRAT | ロマン カルト"
 name_en: "Romain GARDRAT"
-name_ja: "ロマン・ガルド"
+name_ja: "ロマン カルト"
 slug: "romain-gardrat"
 position: "FL/NO8"
 height: "194.0"

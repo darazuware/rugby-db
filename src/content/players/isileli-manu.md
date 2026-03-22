@@ -1,7 +1,7 @@
 ---
-title: "Isileli Manu | イシレリ ・マヌ"
+title: "Isileli Manu | イシレリ マヌ"
 name_en: "Isileli Manu"
-name_ja: "イシレリ ・マヌ"
+name_ja: "イシレリ マヌ"
 slug: "isileli-manu"
 position: "FL/No8"
 height: "191.0"

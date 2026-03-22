@@ -1,7 +1,7 @@
 ---
-title: "Mack HANSEN | マック・ハンセン"
+title: "Mack HANSEN | マック ハンセン"
 name_en: "Mack HANSEN"
-name_ja: "マック・ハンセン"
+name_ja: "マック ハンセン"
 slug: "mack-hansen"
 position: "FB"
 height: "188.0"

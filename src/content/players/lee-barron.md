@@ -1,7 +1,7 @@
 ---
-title: "Lee BARRON | Lee ・ BARRON"
+title: "Lee BARRON | リー ハロン"
 name_en: "Lee BARRON"
-name_ja: "Lee ・ BARRON"
+name_ja: "リー ハロン"
 slug: "lee-barron"
 position: "HO"
 height: "191.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lee-barron"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2024) -> Munster Rugby (2024 - 2024) -> Leinster Rugby (2025 - 2025) -> Munster Rugby (2025 - 2026)
+leinster rugby (2021 - 2024) -> munster rugby (2024 - 2024) -> leinster rugby (2025 - 2025) -> munster rugby (2025 - 2026)

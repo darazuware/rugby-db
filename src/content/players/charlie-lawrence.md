@@ -1,7 +1,7 @@
 ---
-title: "Charlie Lawrence | チャーリー ・ローレンス"
+title: "Charlie Lawrence | チャーリー ローレンス"
 name_en: "Charlie Lawrence"
-name_ja: "チャーリー ・ローレンス"
+name_ja: "チャーリー ローレンス"
 slug: "charlie-lawrence"
 position: "CTB"
 height: "171.0"

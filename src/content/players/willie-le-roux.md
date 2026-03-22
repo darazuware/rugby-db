@@ -1,7 +1,7 @@
 ---
-title: "Willie LE ROUX | ウィリー・ルルー"
+title: "Willie LE ROUX | ウィリー ル ルー"
 name_en: "Willie LE ROUX"
-name_ja: "ウィリー・ルルー"
+name_ja: "ウィリー ル ルー"
 slug: "willie-le-roux"
 position: "FB"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: "South Africa (87)"
 high_school: ""
 university: ""
-scraped_url: "central cheetahs (2013 - 2015) -> sharks (2015 - 2016) -> wasps (2016 - 2019) -> toyota verblitz (2019 - 2023) -> bulls (2023 - 2026)"
+scraped_url: "https://all.rugby/player/willie-le-roux"
 ---
 
 ## キャリア遍歴
-South Africa
+Central Cheetahs (2013 - 2015) -> Sharks (2015 - 2016) -> Wasps (2016 - 2019) -> Toyota Verblitz (2019 - 2023) -> Bulls (2023 - 2026)

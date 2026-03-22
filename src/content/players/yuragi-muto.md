@@ -1,7 +1,7 @@
 ---
-title: "Yuragi Muto | 武藤 ゆらぎ"
+title: "Yuragi Muto | 武藤 ゆらき"
 name_en: "Yuragi Muto"
-name_ja: "武藤 ゆらぎ"
+name_ja: "武藤 ゆらき"
 slug: "yuragi-muto"
 position: "SO"
 height: "170.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe JOYCE | Joe ・ JOYCE"
+title: "Joe JOYCE | ショー ショイス"
 name_en: "Joe JOYCE"
-name_ja: "Joe ・ JOYCE"
+name_ja: "ショー ショイス"
 slug: "joe-joyce"
 position: "LO"
 height: "196.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-joyce"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2016 - 2023) -> Connacht Rugby (2023 - 2026)
+bristol bears (2016 - 2023) -> connacht rugby (2023 - 2026)

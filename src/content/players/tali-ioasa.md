@@ -1,7 +1,7 @@
 ---
-title: "Tali Ioasa | タリ ・イオアサ"
+title: "Tali Ioasa | タリ イオアサ"
 name_en: "Tali Ioasa"
-name_ja: "タリ ・イオアサ"
+name_ja: "タリ イオアサ"
 slug: "tali-ioasa"
 position: "CTB"
 height: "193.0"

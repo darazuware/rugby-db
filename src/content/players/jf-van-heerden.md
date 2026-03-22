@@ -1,7 +1,7 @@
 ---
-title: "JF VAN HEERDEN | JF ・ ファン ・ HEERDEN"
+title: "JF VAN HEERDEN | JF-ファン ヘールテン"
 name_en: "JF VAN HEERDEN"
-name_ja: "JF ・ ファン ・ HEERDEN"
+name_ja: "JF-ファン ヘールテン"
 slug: "jf-van-heerden"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jf-van-heerden"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2022 - 2023) -> Bulls (2023 - 2026)
+blue bulls (2022 - 2023) -> bulls (2023 - 2026)

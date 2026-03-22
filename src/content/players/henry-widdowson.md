@@ -1,7 +1,7 @@
 ---
-title: "Henry WIDDOWSON | Henry ・ WIDDOWSON"
+title: "Henry WIDDOWSON | ヘンリー ウィトゥソン"
 name_en: "Henry WIDDOWSON"
-name_ja: "Henry ・ WIDDOWSON"
+name_ja: "ヘンリー ウィトゥソン"
 slug: "henry-widdowson"
 position: "FB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-widdowson"
 ---
 
 ## キャリア遍歴
-Merchiston Castle School (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)
+merchiston castle school (2024 - 2025) -> edimbourg rugby (2025 - 2026)

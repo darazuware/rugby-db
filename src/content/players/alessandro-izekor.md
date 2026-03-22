@@ -1,9 +1,9 @@
 ---
-title: "Alessandro IZEKOR | アレッサンドロ・イゼコール"
+title: "Alessandro IZEKOR"
 name_en: "Alessandro IZEKOR"
-name_ja: "アレッサンドロ・イゼコール"
+name_ja: "Alessandro IZEKOR"
 slug: "alessandro-izekor"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "110.0"
 birth_date: "2000.03.05"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (6)"
 high_school: ""
 university: ""
-scraped_url: "rugby calvisano (2019 - 2021) -> benetton rugby trévise (2021 - 2021) -> rugby calvisano (2021 - 2021) -> benetton rugby trévise (2022 - 2022) -> rugby calvisano (2022 - 2022) -> benetton rugby trévise (2022 - 2026)"
+scraped_url: "https://all.rugby/player/alessandro-izekor"
 ---
 
 ## キャリア遍歴
-
+Rugby Calvisano (2019 - 2021) -> Benetton Rugby Trévise (2021 - 2021) -> Rugby Calvisano (2021 - 2021) -> Benetton Rugby Trévise (2022 - 2022) -> Rugby Calvisano (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)

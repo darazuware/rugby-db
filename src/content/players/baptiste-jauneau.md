@@ -1,7 +1,7 @@
 ---
-title: "Baptiste JAUNEAU | バティスト・ジョノー"
+title: "Baptiste JAUNEAU | ハティスト ショノー"
 name_en: "Baptiste JAUNEAU"
-name_ja: "バティスト・ジョノー"
+name_ja: "ハティスト ショノー"
 slug: "baptiste-jauneau"
 position: "SH"
 height: "169.0"

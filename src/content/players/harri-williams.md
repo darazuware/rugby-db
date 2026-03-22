@@ -1,7 +1,7 @@
 ---
-title: "Harri WILLIAMS | Harri ・ ウィリアムズ"
+title: "Harri WILLIAMS | ハリー-ウィリアムス"
 name_en: "Harri WILLIAMS"
-name_ja: "Harri ・ ウィリアムズ"
+name_ja: "ハリー-ウィリアムス"
 slug: "harri-williams"
 position: "SH"
 height: "173.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-williams"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2016 - 2019) -> Scarlets (2019 - 2023) -> Ampthill Rugby (2023 - 2024) -> Tuggeranong Vikings (2024 - 2025) -> Ospreys (2025 - 2026)
+northampton saints (2016 - 2019) -> scarlets (2019 - 2023) -> ampthill rugby (2023 - 2024) -> tuggeranong vikings (2024 - 2025) -> ospreys (2025 - 2026)

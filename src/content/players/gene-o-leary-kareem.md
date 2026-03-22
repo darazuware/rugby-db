@@ -1,7 +1,7 @@
 ---
-title: "Gene O'LEARY KAREEM | Gene ・ O'LEARY ・ KAREEM"
+title: "Gene O'LEARY KAREEM | シェーン オライリー カリーム"
 name_en: "Gene O'LEARY KAREEM"
-name_ja: "Gene ・ O'LEARY ・ KAREEM"
+name_ja: "シェーン オライリー カリーム"
 slug: "gene-o-leary-kareem"
 position: "CTB"
 height: "179.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gene-o-leary-kareem"
 ---
 
 ## キャリア遍歴
-Presentation Brothers Cork (2023 - 2024) -> Munster Rugby (2024 - 2026)
+presentation brothers cork (2023 - 2024) -> munster rugby (2024 - 2026)

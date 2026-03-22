@@ -1,7 +1,7 @@
 ---
-title: "George HADDEN | George ・ HADDEN"
+title: "George HADDEN | ショーシ ハテン"
 name_en: "George HADDEN"
-name_ja: "George ・ HADDEN"
+name_ja: "ショーシ ハテン"
 slug: "george-hadden"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-hadden"
 ---
 
 ## キャリア遍歴
-Gorey RFC (2021 - 2022) -> Clontarf Rugby (2022 - 2023) -> Munster Rugby (2023 - 2026)
+gorey rfc (2021 - 2022) -> clontarf rugby (2022 - 2023) -> munster rugby (2023 - 2026)

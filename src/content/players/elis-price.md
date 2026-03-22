@@ -1,7 +1,7 @@
 ---
-title: "Elis PRICE | Elis ・ PRICE"
+title: "Elis PRICE"
 name_en: "Elis PRICE"
-name_ja: "Elis ・ PRICE"
+name_ja: "Elis PRICE"
 slug: "elis-price"
 position: "CTB"
 height: "193.0"

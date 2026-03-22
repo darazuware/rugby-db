@@ -1,7 +1,7 @@
 ---
-title: "Lubabalo DOBELA | Lubabalo ・ DOBELA"
+title: "Lubabalo DOBELA | ルハハロ トヘラ"
 name_en: "Lubabalo DOBELA"
-name_ja: "Lubabalo ・ DOBELA"
+name_ja: "ルハハロ トヘラ"
 slug: "lubabalo-dobela"
 position: "SO"
 height: "175.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---
 
 ## キャリア遍歴
-Griquas (2022 - 2024) -> Lions Rugby (2024 - 2026)
+griquas (2022 - 2024) -> lions rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Mac RUTHERFORD | Mac ・ RUTHERFORD"
+title: "Mac RUTHERFORD"
 name_en: "Mac RUTHERFORD"
-name_ja: "Mac ・ RUTHERFORD"
+name_ja: "Mac RUTHERFORD"
 slug: "mac-rutherford"
 position: "LO"
 height: ""

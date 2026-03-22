@@ -1,7 +1,7 @@
 ---
-title: "Cornel SMIT | Cornel ・ SMIT"
+title: "Cornel SMIT"
 name_en: "Cornel SMIT"
-name_ja: "Cornel ・ SMIT"
+name_ja: "Cornel SMIT"
 slug: "cornel-smit"
 position: "CTB"
 height: "183.0"

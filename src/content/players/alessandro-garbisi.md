@@ -1,7 +1,7 @@
 ---
-title: "Alessandro GARBISI | Alessandro ・ GARBISI"
+title: "Alessandro GARBISI"
 name_en: "Alessandro GARBISI"
-name_ja: "Alessandro ・ GARBISI"
+name_ja: "Alessandro GARBISI"
 slug: "alessandro-garbisi"
 position: "SH"
 height: "174.0"

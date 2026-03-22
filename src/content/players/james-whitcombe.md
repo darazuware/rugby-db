@@ -1,7 +1,7 @@
 ---
-title: "James WHITCOMBE | ジェームズ ・ WHITCOMBE"
+title: "James WHITCOMBE | シェームス-ウィットコム"
 name_en: "James WHITCOMBE"
-name_ja: "ジェームズ ・ WHITCOMBE"
+name_ja: "シェームス-ウィットコム"
 slug: "james-whitcombe"
 position: "PR"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-whitcombe"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2017 - 2025) -> Edimbourg Rugby (2025 - 2026)
+leicester tigers (2017 - 2025) -> edimbourg rugby (2025 - 2026)

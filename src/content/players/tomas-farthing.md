@@ -1,7 +1,7 @@
 ---
-title: "Tomás FARTHING | トム ・ FARTHING"
-name_en: "Tomás FARTHING"
-name_ja: "トム ・ FARTHING"
+title: "Tomas FARTHING | トマス ファーシンク"
+name_en: "Tomas FARTHING"
+name_ja: "トマス ファーシンク"
 slug: "tomas-farthing"
 position: "SH"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomas-farthing"
 ---
 
 ## キャリア遍歴
-Galway Corinthians RFC (2023 - 2024) -> Connacht Rugby (2024 - 2026)
+galway corinthians rfc (2023 - 2024) -> connacht rugby (2024 - 2026)

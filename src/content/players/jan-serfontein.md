@@ -1,7 +1,7 @@
 ---
-title: "Jan SERFONTEIN | Jan ・ SERFONTEIN"
+title: "Jan SERFONTEIN | ヤン-サーフォンテイン"
 name_en: "Jan SERFONTEIN"
-name_ja: "Jan ・ SERFONTEIN"
+name_ja: "ヤン-サーフォンテイン"
 slug: "jan-serfontein"
 position: "CTB"
 height: "187.0"
@@ -15,8 +15,8 @@ team: "Bulls"
 caps: "South Africa (21)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jan-serfontein"
+scraped_url: "bulls (2012 - 2017) -> montpellier hérault rugby (2017 - 2025) -> bulls (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2012 - 2017) -> Montpellier Hérault Rugby (2017 - 2025) -> Bulls (2025 - 2026)
+South Africa

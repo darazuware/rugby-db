@@ -1,7 +1,7 @@
 ---
-title: "Adam VARGAS | アダム・バルガス"
+title: "Adam VARGAS | アタム ハルカス"
 name_en: "Adam VARGAS"
-name_ja: "アダム・バルガス"
+name_ja: "アタム ハルカス"
 slug: "adam-vargas"
 position: "WTB"
 height: "180.0"

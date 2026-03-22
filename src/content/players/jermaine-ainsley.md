@@ -1,7 +1,7 @@
 ---
-title: "Jermaine AINSLEY | ジャーメイン・エインズリー"
+title: "Jermaine AINSLEY | シャーメイン エインスリー"
 name_en: "Jermaine AINSLEY"
-name_ja: "ジャーメイン・エインズリー"
+name_ja: "シャーメイン エインスリー"
 slug: "jermaine-ainsley"
 position: "PR"
 height: "181.0"

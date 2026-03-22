@@ -1,7 +1,7 @@
 ---
-title: "Aseri Masivou | アセリ ・マシヴォウ"
+title: "Aseri Masivou | アセリ マシウォウ"
 name_en: "Aseri Masivou"
-name_ja: "アセリ ・マシヴォウ"
+name_ja: "アセリ マシウォウ"
 slug: "aseri-masivou"
 position: "FL/No8"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Michael Little | マイケル ・リトル"
+title: "Michael Little | マイケル リトル"
 name_en: "Michael Little"
-name_ja: "マイケル ・リトル"
+name_ja: "マイケル リトル"
 slug: "michael-little"
 position: "CTB"
 height: "180.0"

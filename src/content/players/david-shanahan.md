@@ -1,7 +1,7 @@
 ---
-title: "Dave SHANAHAN | デイヴ ・ SHANAHAN"
+title: "Dave SHANAHAN | テイウ SHANAHAN"
 name_en: "Dave SHANAHAN"
-name_ja: "デイヴ ・ SHANAHAN"
+name_ja: "テイウ SHANAHAN"
 slug: "david-shanahan"
 position: "SH"
 height: "176.0"

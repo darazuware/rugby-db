@@ -1,7 +1,7 @@
 ---
-title: "Roman SALANOA | Roman ・ SALANOA"
+title: "Roman SALANOA | ロマン サラノア"
 name_en: "Roman SALANOA"
-name_ja: "Roman ・ SALANOA"
+name_ja: "ロマン サラノア"
 slug: "roman-salanoa"
 position: "PR"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/roman-salanoa"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2019 - 2020) -> Munster Rugby (2020 - 2026)
+leinster rugby (2019 - 2020) -> munster rugby (2020 - 2026)

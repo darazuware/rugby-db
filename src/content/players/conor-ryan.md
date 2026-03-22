@@ -1,7 +1,7 @@
 ---
-title: "Conor RYAN | コナー ・ ライアン"
+title: "Conor RYAN | コナー ライアン"
 name_en: "Conor RYAN"
-name_ja: "コナー ・ ライアン"
+name_ja: "コナー ライアン"
 slug: "conor-ryan"
 position: "LO"
 height: ""

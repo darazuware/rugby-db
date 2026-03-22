@@ -1,7 +1,7 @@
 ---
-title: "Rory JENNINGS | Rory ・ JENNINGS"
+title: "Rory JENNINGS | ロリー シェニンクス"
 name_en: "Rory JENNINGS"
-name_ja: "Rory ・ JENNINGS"
+name_ja: "ロリー シェニンクス"
 slug: "rory-jennings-"
 position: "SO"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-jennings-"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2014 - 2016) -> Ealing Trailfinders (2016 - 2016) -> Bath Rugby (2016 - 2016) -> Ealing Trailfinders (2017 - 2017) -> Bath Rugby (2017 - 2017) -> Rotherham Titans (2017 - 2018) -> London Scottish (2018 - 2019) -> Coventry Rugby (2019 - 2019) -> Leicester Tigers (2019 - 2019) -> Coventry Rugby (2020 - 2020) -> Leicester Tigers (2020 - 2020) -> ASM Clermont Auvergne (2020 - 2021) -> London Irish (2021 - 2023) -> Newcastle (2023 - 2024) -> Cardiff Rugby (2024 - 2026)
+bath rugby (2014 - 2016) -> ealing trailfinders (2016 - 2016) -> bath rugby (2016 - 2016) -> ealing trailfinders (2017 - 2017) -> bath rugby (2017 - 2017) -> rotherham titans (2017 - 2018) -> london scottish (2018 - 2019) -> coventry rugby (2019 - 2019) -> leicester tigers (2019 - 2019) -> coventry rugby (2020 - 2020) -> leicester tigers (2020 - 2020) -> asm clermont auvergne (2020 - 2021) -> london irish (2021 - 2023) -> newcastle (2023 - 2024) -> cardiff rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "PieterLappiesLabuschagne | ピーター ・ラピース・ラブスカフニ"
+title: "PieterLappiesLabuschagne | ヒーター ラヒース ラフスカフニ"
 name_en: "PieterLappiesLabuschagne"
-name_ja: "ピーター ・ラピース・ラブスカフニ"
+name_ja: "ヒーター ラヒース ラフスカフニ"
 slug: "pieterlappieslabuschagne"
 position: "FL/No8"
 height: "189.0"

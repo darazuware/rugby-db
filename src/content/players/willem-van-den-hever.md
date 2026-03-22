@@ -1,7 +1,7 @@
 ---
-title: "Willem VAN DEN HEVER | ウィレム-ファン・デン・ヘーヴァー"
+title: "Willem VAN DEN HEVER | ウィレム-ファン テン ヘーウァー"
 name_en: "Willem VAN DEN HEVER"
-name_ja: "ウィレム-ファン・デン・ヘーヴァー"
+name_ja: "ウィレム-ファン テン ヘーウァー"
 slug: "willem-van-den-hever"
 position: "HO"
 height: ""
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/willem-van-den-hever"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "northern free state griffons (2023 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)"
+scraped_url: "https://all.rugby/player/willem-van-den-hever"
 ---
 
 ## キャリア遍歴
-
+northern free state griffons (2023 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)

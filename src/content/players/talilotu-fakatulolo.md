@@ -1,7 +1,7 @@
 ---
-title: "Talilotu Fakatulolo | タリロトゥ ・ファカトゥロロ"
+title: "Talilotu Fakatulolo | タリロトゥ ファカトゥロロ"
 name_en: "Talilotu Fakatulolo"
-name_ja: "タリロトゥ ・ファカトゥロロ"
+name_ja: "タリロトゥ ファカトゥロロ"
 slug: "talilotu-fakatulolo"
 position: "CTB"
 height: "184.0"

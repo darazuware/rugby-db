@@ -1,7 +1,7 @@
 ---
-title: "Papaseea Matelau | パパセーア ・マテラウ"
+title: "Papaseea Matelau | ハハセーア マテラウ"
 name_en: "Papaseea Matelau"
-name_ja: "パパセーア ・マテラウ"
+name_ja: "ハハセーア マテラウ"
 slug: "papaseea-matelau"
 position: "FL/No8"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Nika ABULADZE | ニカ・アブラゼ"
+title: "Nika ABULADZE | ニカ アフラセ"
 name_en: "Nika ABULADZE"
-name_ja: "ニカ・アブラゼ"
+name_ja: "ニカ アフラセ"
 slug: "nika-abuladze"
 position: "PR"
 height: "187.0"

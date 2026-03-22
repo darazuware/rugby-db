@@ -1,7 +1,7 @@
 ---
-title: "Lemeki Lomano Lava | レメキ ロマノラヴァ"
+title: "Lemeki Lomano Lava | レメキ ロマノラウァ"
 name_en: "Lemeki Lomano Lava"
-name_ja: "レメキ ロマノラヴァ"
+name_ja: "レメキ ロマノラウァ"
 slug: "lemeki-lomano-lava"
 position: "UTB"
 height: "178.0"

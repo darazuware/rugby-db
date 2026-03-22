@@ -1,7 +1,7 @@
 ---
-title: "Niko JONES | ニコ・ジョーンズ"
+title: "Niko JONES | ニコ ショーンス"
 name_en: "Niko JONES"
-name_ja: "ニコ・ジョーンズ"
+name_ja: "ニコ ショーンス"
 slug: "niko-jones"
 position: "FL/No8"
 height: "186.0"

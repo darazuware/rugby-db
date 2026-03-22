@@ -1,9 +1,9 @@
 ---
-title: "Tom BRIGG | トム・ブリッグ"
+title: "Tom BRIGG | トム BRIGG"
 name_en: "Tom BRIGG"
-name_ja: "トム・ブリッグ"
+name_ja: "トム BRIGG"
 slug: "tom-brigg"
-position: "FL/No8"
+position: "Back row"
 height: "189.0"
 weight: "104.0"
 birth_date: "2004.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/tom-brigg"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ulster rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/tom-brigg"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2023 - 2026)

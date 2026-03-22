@@ -1,7 +1,7 @@
 ---
-title: "Hanro JACOBS | Hanro ・ JACOBS"
+title: "Hanro JACOBS | ハンロ-シェイコフス"
 name_en: "Hanro JACOBS"
-name_ja: "Hanro ・ JACOBS"
+name_ja: "ハンロ-シェイコフス"
 slug: "hanru-jacobs"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hanru-jacobs"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2020 - 2022) -> Sharks (2022 - 2026)
+natal sharks (2020 - 2022) -> sharks (2022 - 2026)

@@ -1,9 +1,9 @@
 ---
-title: "Marco DE WITT | マルコ ・ デ ・ WITT"
+title: "Marco DE WITT | マルコ テ ウィット"
 name_en: "Marco DE WITT"
-name_ja: "マルコ ・ デ ・ WITT"
+name_ja: "マルコ テ ウィット"
 slug: "marco-de-witt"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "101.0"
 birth_date: "2002.01.24"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marco-de-witt"
 ---
 
 ## キャリア遍歴
-Sharks (2023 - 2023) -> Griquas (2023 - 2023) -> Sharks (2024 - 2024) -> Griquas (2024 - 2025) -> Ospreys (2025 - 2026)
+sharks (2023 - 2023) -> griquas (2023 - 2023) -> sharks (2024 - 2024) -> griquas (2024 - 2025) -> ospreys (2025 - 2026)

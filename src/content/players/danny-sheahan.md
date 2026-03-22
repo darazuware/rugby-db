@@ -1,7 +1,7 @@
 ---
-title: "Danny SHEAHAN | Danny ・ SHEAHAN"
+title: "Danny SHEAHAN"
 name_en: "Danny SHEAHAN"
-name_ja: "Danny ・ SHEAHAN"
+name_ja: "Danny SHEAHAN"
 slug: "danny-sheahan"
 position: "HO"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sapoi Viliami | サポイ ・ビリアミ"
+title: "Sapoi Viliami | サホイ ヒリアミ"
 name_en: "Sapoi Viliami"
-name_ja: "サポイ ・ビリアミ"
+name_ja: "サホイ ヒリアミ"
 slug: "sapoi-viliami"
 position: "FL/No8"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Seán NAUGHTON | Se ・ NAUGHTON"
-name_en: "Seán NAUGHTON"
-name_ja: "Se ・ NAUGHTON"
+title: "Sean NAUGHTON | ショーン ノートン"
+name_en: "Sean NAUGHTON"
+name_ja: "ショーン ノートン"
 slug: "sean-naughton"
 position: "SO"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-naughton"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2023 - 2026)
+connacht rugby (2023 - 2026)

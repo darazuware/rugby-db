@@ -1,7 +1,7 @@
 ---
-title: "Michael Allardice | マイケル ・アラダイス"
+title: "Michael Allardice | マイケル アラタイス"
 name_en: "Michael Allardice"
-name_ja: "マイケル ・アラダイス"
+name_ja: "マイケル アラタイス"
 slug: "michael-allardice"
 position: "LO"
 height: "200.0"

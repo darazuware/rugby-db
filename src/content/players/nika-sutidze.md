@@ -1,7 +1,7 @@
 ---
-title: "Nika SUTIDZE | ニカ・スティーゼ"
+title: "Nika SUTIDZE | ニカ スティーセ"
 name_en: "Nika SUTIDZE"
-name_ja: "ニカ・スティーゼ"
+name_ja: "ニカ スティーセ"
 slug: "nika-sutidze"
 position: "HO"
 height: "180.0"

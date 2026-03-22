@@ -1,7 +1,7 @@
 ---
-title: "Frank Lochore | フランク ・ロホー"
+title: "Frank Lochore | フランク ロホー"
 name_en: "Frank Lochore"
-name_ja: "フランク ・ロホー"
+name_ja: "フランク ロホー"
 slug: "frank-lochore"
 position: "LO"
 height: "194.0"

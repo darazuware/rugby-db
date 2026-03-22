@@ -1,7 +1,7 @@
 ---
-title: "Gabin KRETCHMANN | ガバン・クレッチマン"
+title: "Gabin KRETCHMANN | カハン クレッチマン"
 name_en: "Gabin KRETCHMANN"
-name_ja: "ガバン・クレッチマン"
+name_ja: "カハン クレッチマン"
 slug: "gabin-kretchmann"
 position: "SO"
 height: "183.0"

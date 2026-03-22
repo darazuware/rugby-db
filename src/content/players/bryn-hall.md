@@ -1,7 +1,7 @@
 ---
-title: "Bryn Hall | ブリン ・ホール"
+title: "Bryn Hall | フリン ホール"
 name_en: "Bryn Hall"
-name_ja: "ブリン ・ホール"
+name_ja: "フリン ホール"
 slug: "bryn-hall"
 position: "SH"
 height: "183.0"

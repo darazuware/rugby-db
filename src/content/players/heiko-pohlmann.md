@@ -1,7 +1,7 @@
 ---
-title: "Heiko POHLMANN | Heiko ・ POHLMANN"
+title: "Heiko POHLMANN | ハイコ ホールマン"
 name_en: "Heiko POHLMANN"
-name_ja: "Heiko ・ POHLMANN"
+name_ja: "ハイコ ホールマン"
 slug: "heiko-pohlmann"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/heiko-pohlmann"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2020 - 2021) -> Golden Lions (2021 - 2024) -> Lions Rugby (2024 - 2026)
+lions rugby (2020 - 2021) -> golden lions (2021 - 2024) -> lions rugby (2024 - 2026)

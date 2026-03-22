@@ -1,7 +1,7 @@
 ---
-title: "Keiron ASSIRATTI | キーロン・アシラッティ"
+title: "Keiron ASSIRATTI | キーロン アシラッティ"
 name_en: "Keiron ASSIRATTI"
-name_ja: "キーロン・アシラッティ"
+name_ja: "キーロン アシラッティ"
 slug: "keiron-assiratti"
 position: "PR"
 height: "188.0"

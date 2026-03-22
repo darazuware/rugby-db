@@ -1,7 +1,7 @@
 ---
-title: "Nicolás ROGER FARIAS | Nicol ・ ROGER ・ FARIAS"
-name_en: "Nicolás ROGER FARIAS"
-name_ja: "Nicol ・ ROGER ・ FARIAS"
+title: "Nicolas ROGER FARIAS | ニコラス ロケル ファリアス"
+name_en: "Nicolas ROGER FARIAS"
+name_ja: "ニコラス ロケル ファリアス"
 slug: "nicolas-roger-farias"
 position: "SO"
 height: "177.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "Argentina"
-high_school: ""
+caps: ""
+high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/nicolas-roger-farias"
 ---
 
 ## キャリア遍歴
-Cafeteros Pro (2020 - 2021) -> Club Atlético Peñarol (2021 - 2022) -> CUS Torino Rugby (2022 - 2023) -> Selknam (2023 - 2024) -> Tarucas (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+cafeteros pro (2020 - 2021) -> club atlético peñarol (2021 - 2022) -> cus torino rugby (2022 - 2023) -> selknam (2023 - 2024) -> tarucas (2024 - 2025) -> benetton rugby trévise (2025 - 2026)

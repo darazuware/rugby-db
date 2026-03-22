@@ -1,7 +1,7 @@
 ---
-title: "Luke MCGRATH | ルーク ・ MCGRATH"
+title: "Luke MCGRATH | ルーク MCGRATH"
 name_en: "Luke MCGRATH"
-name_ja: "ルーク ・ MCGRATH"
+name_ja: "ルーク MCGRATH"
 slug: "luke-mcgrath"
 position: "SH"
 height: "175.0"

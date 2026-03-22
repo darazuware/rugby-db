@@ -1,7 +1,7 @@
 ---
-title: "Mike LOWRY | Mike ・ LOWRY"
+title: "Mike LOWRY"
 name_en: "Mike LOWRY"
-name_ja: "Mike ・ LOWRY"
+name_ja: "Mike LOWRY"
 slug: "michael-lowry"
 position: "FB"
 height: "171.0"

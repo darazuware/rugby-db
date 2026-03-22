@@ -1,7 +1,7 @@
 ---
-title: "Sam SCARFE | サム ・ SCARFE"
+title: "Sam SCARFE | サム スカーフ"
 name_en: "Sam SCARFE"
-name_ja: "サム ・ SCARFE"
+name_ja: "サム スカーフ"
 slug: "sam-scarfe"
 position: "HO"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-scarfe"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2022 - 2023) -> Gloucester Rugby (2023 - 2023) -> Dragons RFC (2023 - 2023) -> Gloucester Rugby (2024 - 2024) -> Dragons RFC (2024 - 2026)
+dragons rfc (2022 - 2023) -> gloucester rugby (2023 - 2023) -> dragons rfc (2023 - 2023) -> gloucester rugby (2024 - 2024) -> dragons rfc (2024 - 2026)

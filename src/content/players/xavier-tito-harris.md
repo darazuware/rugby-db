@@ -1,7 +1,7 @@
 ---
-title: "Xavier TITO-HARRIS | ザビエル-ティト＝ハリス"
+title: "Xavier TITO-HARRIS | サヒエル-ティト=ハリス"
 name_en: "Xavier TITO-HARRIS"
-name_ja: "ザビエル-ティト＝ハリス"
+name_ja: "サヒエル-ティト=ハリス"
 slug: "xavier-tito-harris"
 position: "FB"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jake BALL | Jake ・ BALL"
+title: "Jake BALL | シェイク-ホール"
 name_en: "Jake BALL"
-name_ja: "Jake ・ BALL"
+name_ja: "シェイク-ホール"
 slug: "jake-ball"
 position: "LO"
 height: "200.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: "Wales (36)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jake-ball"
+scraped_url: "scarlets (2013 - 2021) -> green rockets tokatsu (2021 - 2025) -> scarlets (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2013 - 2021) -> Green Rockets Tokatsu (2021 - 2025) -> Scarlets (2025 - 2026)
+England

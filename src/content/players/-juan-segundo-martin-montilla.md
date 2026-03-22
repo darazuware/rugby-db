@@ -1,7 +1,7 @@
 ---
-title: "Juan MARTÍN MONTILLA | フアン・マルティン・モンティージャ"
-name_en: "Juan MARTÍN MONTILLA"
-name_ja: "フアン・マルティン・モンティージャ"
+title: "Juan MARTIN MONTILLA | フアン マルティン モンティーシャ"
+name_en: "Juan MARTIN MONTILLA"
+name_ja: "フアン マルティン モンティーシャ"
 slug: "-juan-segundo-martin-montilla"
 position: "SO"
 height: ""

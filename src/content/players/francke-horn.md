@@ -1,7 +1,7 @@
 ---
-title: "Francke HORN | Francke ・ HORN"
+title: "Francke HORN"
 name_en: "Francke HORN"
-name_ja: "Francke ・ HORN"
+name_ja: "Francke HORN"
 slug: "francke-horn"
 position: "Back row"
 height: "190.0"

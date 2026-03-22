@@ -1,7 +1,7 @@
 ---
-title: "Michael ALAALATOA | マイケル ・ ALAALATOA"
+title: "Michael ALAALATOA | マイケル アラアラトア"
 name_en: "Michael ALAALATOA"
-name_ja: "マイケル ・ ALAALATOA"
+name_ja: "マイケル アラアラトア"
 slug: "michael-alaalatoa"
 position: "PR"
 height: "191.0"
@@ -15,8 +15,8 @@ team: "Munster"
 caps: "Squad caps (434)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/michael-alaalatoa"
+scraped_url: "new south wales waratahs (2013 - 2014) -> crusaders (2015 - 2019) -> manawatu turbos (2019 - 2019) -> crusaders (2020 - 2020) -> manawatu turbos (2020 - 2020) -> crusaders (2020 - 2021) -> leinster rugby (2021 - 2024) -> asm clermont auvergne (2024 - 2025) -> munster rugby (2025 - 2025) -> asm clermont auvergne (2026 - 2026) -> munster rugby (2026 - 2026)"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2013 - 2014) -> Crusaders (2015 - 2019) -> Manawatu Turbos (2019 - 2019) -> Crusaders (2020 - 2020) -> Manawatu Turbos (2020 - 2020) -> Crusaders (2020 - 2021) -> Leinster Rugby (2021 - 2024) -> ASM Clermont Auvergne (2024 - 2025) -> Munster Rugby (2025 - 2025) -> ASM Clermont Auvergne (2026 - 2026) -> Munster Rugby (2026 - 2026)
+Australia

@@ -1,7 +1,7 @@
 ---
-title: "Josh WYCHERLEY | ジョシュ ・ WYCHERLEY"
+title: "Josh WYCHERLEY | ショシュ ウィチャリー"
 name_en: "Josh WYCHERLEY"
-name_ja: "ジョシュ ・ WYCHERLEY"
+name_ja: "ショシュ ウィチャリー"
 slug: "josh-wycherley"
 position: "PR"
 height: "183.0"
@@ -13,10 +13,10 @@ birth_place_scraped: ""
 league: "urc"
 team: "Munster"
 caps: ""
-high_school: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/josh-wycherley"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2026)
+munster rugby (2018 - 2026)

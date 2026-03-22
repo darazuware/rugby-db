@@ -1,7 +1,7 @@
 ---
-title: "Dylan Nel | ディラン ・ネル"
+title: "Dylan Nel | ティラン ネル"
 name_en: "Dylan Nel"
-name_ja: "ディラン ・ネル"
+name_ja: "ティラン ネル"
 slug: "dylan-nel"
 position: "FL/No8"
 height: "185.0"

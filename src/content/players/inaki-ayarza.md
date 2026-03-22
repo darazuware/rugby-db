@@ -1,6 +1,6 @@
 ---
-title: "Iñaki AYARZA | イニャキ-アヤルサ"
-name_en: "Iñaki AYARZA"
+title: "Inaki AYARZA | イニャキ-アヤルサ"
+name_en: "Inaki AYARZA"
 name_ja: "イニャキ-アヤルサ"
 slug: "inaki-ayarza"
 position: "CTB"

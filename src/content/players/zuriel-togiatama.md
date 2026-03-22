@@ -1,7 +1,7 @@
 ---
-title: "Zuriel TOGIATAMA | ズリエル・トギアタマ"
+title: "Zuriel TOGIATAMA | スリエル トキアタマ"
 name_en: "Zuriel TOGIATAMA"
-name_ja: "ズリエル・トギアタマ"
+name_ja: "スリエル トキアタマ"
 slug: "zuriel-togiatama"
 position: "HO"
 height: "183.0"

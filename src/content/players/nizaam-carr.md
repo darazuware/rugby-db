@@ -1,7 +1,7 @@
 ---
-title: "Nizaam CARR | Nizaam ・ CARR"
+title: "Nizaam CARR"
 name_en: "Nizaam CARR"
-name_ja: "Nizaam ・ CARR"
+name_ja: "Nizaam CARR"
 slug: "nizaam-carr"
 position: "Back row"
 height: "178.0"

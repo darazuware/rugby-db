@@ -1,7 +1,7 @@
 ---
-title: "Inoke Burua | イノケ ・ブルア"
+title: "Inoke Burua | イノケ フルア"
 name_en: "Inoke Burua"
-name_ja: "イノケ ・ブルア"
+name_ja: "イノケ フルア"
 slug: "inoke-burua"
 position: "WTB"
 height: "178.0"

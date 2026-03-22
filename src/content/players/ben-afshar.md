@@ -1,7 +1,7 @@
 ---
-title: "Ben AFSHAR | ベン・アフシャー"
+title: "Ben AFSHAR | ヘン アフシャー"
 name_en: "Ben AFSHAR"
-name_ja: "ベン・アフシャー"
+name_ja: "ヘン アフシャー"
 slug: "ben-afshar"
 position: "SH"
 height: "184.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/ben-afshar"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "southern knights (2021 - 2022) -> glasgow warriors (2022 - 2026)"
+scraped_url: "https://all.rugby/player/ben-afshar"
 ---
 
 ## キャリア遍歴
-
+southern knights (2021 - 2022) -> glasgow warriors (2022 - 2026)

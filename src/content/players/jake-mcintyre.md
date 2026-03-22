@@ -1,7 +1,7 @@
 ---
-title: "Jake MCINTYRE | ジェイク-マッキンタイア"
+title: "Jake MCINTYRE | シェイク-マッキンタイア"
 name_en: "Jake MCINTYRE"
-name_ja: "ジェイク-マッキンタイア"
+name_ja: "シェイク-マッキンタイア"
 slug: "jake-mcintyre"
 position: "SO"
 height: "177.0"

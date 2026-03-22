@@ -1,7 +1,7 @@
 ---
-title: "Josiah MARAKU | ジョサイア・マラク"
+title: "Josiah MARAKU | ショサイア マラク"
 name_en: "Josiah MARAKU"
-name_ja: "ジョサイア・マラク"
+name_ja: "ショサイア マラク"
 slug: "josiah-maraku"
 position: "CTB"
 height: "180.0"

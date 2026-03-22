@@ -1,12 +1,12 @@
 ---
-title: "Josh Kemeny"
-name_en: "Josh Kemeny"
+title: "Josh KEMENY"
+name_en: "Josh KEMENY"
 name_ja: ""
 slug: "josh-kemeny"
-position: "Flanker"
+position: "Back row"
 height: ""
 weight: ""
-birth_date: "1998.11.29"
+birth_date: "nan"
 age: 27
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "Australia (1)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/josh-kemeny"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

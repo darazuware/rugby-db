@@ -1,7 +1,7 @@
 ---
-title: "Vernon MATONGO | ヴァーノン・マトング"
+title: "Vernon MATONGO | ウァーノン マトンク"
 name_en: "Vernon MATONGO"
-name_ja: "ヴァーノン・マトング"
+name_ja: "ウァーノン マトンク"
 slug: "vernon-matongo"
 position: "PR"
 height: "179.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/vernon-matongo"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2022 - 2024) -> stormers (2024 - 2026)"
+scraped_url: "https://all.rugby/player/vernon-matongo"
 ---
 
 ## キャリア遍歴
-
+western province (2022 - 2024) -> stormers (2024 - 2026)

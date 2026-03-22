@@ -1,7 +1,7 @@
 ---
-title: "Matt Vaega | マット ・ヴァエガ"
+title: "Matt Vaega | マット ウァエカ"
 name_en: "Matt Vaega"
-name_ja: "マット ・ヴァエガ"
+name_ja: "マット ウァエカ"
 slug: "matt-vaega"
 position: "CTB"
 height: "179.0"

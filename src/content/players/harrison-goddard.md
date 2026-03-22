@@ -1,7 +1,7 @@
 ---
-title: "Harrison Goddard | ハリソン ・ゴダード"
+title: "Harrison Goddard | ハリソン コタート"
 name_en: "Harrison Goddard"
-name_ja: "ハリソン ・ゴダード"
+name_ja: "ハリソン コタート"
 slug: "harrison-goddard"
 position: "SH"
 height: "183.0"

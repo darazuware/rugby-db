@@ -1,7 +1,7 @@
 ---
-title: "Yaw PENXE | ヤウ・ペンセ"
+title: "Yaw PENXE | ヤウ ヘンセ"
 name_en: "Yaw PENXE"
-name_ja: "ヤウ・ペンセ"
+name_ja: "ヤウ ヘンセ"
 slug: "yaw-penxe"
 position: "WTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/yaw-penxe"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "southern kings (2016 - 2020) -> sharks (2020 - 2026)"
+scraped_url: "https://all.rugby/player/yaw-penxe"
 ---
 
 ## キャリア遍歴
-
+southern kings (2016 - 2020) -> sharks (2020 - 2026)

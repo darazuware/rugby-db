@@ -1,7 +1,7 @@
 ---
-title: "Reinhard NOTHNAGEL | Reinhard ・ NOTHNAGEL"
+title: "Reinhard NOTHNAGEL | ラインハルト ノートナケル"
 name_en: "Reinhard NOTHNAGEL"
-name_ja: "Reinhard ・ NOTHNAGEL"
+name_ja: "ラインハルト ノートナケル"
 slug: "reinhard-nothnagel"
 position: "LO"
 height: "202.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reinhard-nothnagel"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2026)
+lions rugby (2018 - 2026)

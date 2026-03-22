@@ -1,7 +1,7 @@
 ---
-title: "Noah NÉNÉ | ノア・ネネ"
-name_en: "Noah NÉNÉ"
-name_ja: "ノア・ネネ"
+title: "Noah NENE | ノア ネネ"
+name_en: "Noah NENE"
+name_ja: "ノア ネネ"
 slug: "noah-nene"
 position: "CTB"
 height: "192.0"

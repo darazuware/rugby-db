@@ -1,7 +1,7 @@
 ---
-title: "Hugo AURADOU | ユーゴー-オーラドゥ"
+title: "Hugo AURADOU | ユーコー-オーラトゥ"
 name_en: "Hugo AURADOU"
-name_ja: "ユーゴー-オーラドゥ"
+name_ja: "ユーコー-オーラトゥ"
 slug: "hugo-auradou"
 position: "LO"
 height: "200.0"

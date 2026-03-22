@@ -1,7 +1,7 @@
 ---
-title: "Patrick HARRISON | Patrick ・ HARRISON"
+title: "Patrick HARRISON | ハトリック ハリソン"
 name_en: "Patrick HARRISON"
-name_ja: "Patrick ・ HARRISON"
+name_ja: "ハトリック ハリソン"
 slug: "patrick-harrison"
 position: "HO"
 height: "181.0"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Scotland (3)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/patrick-harrison"
+scraped_url: "edimbourg rugby (2020 - 2021) -> wasps (2021 - 2021) -> edimbourg rugby (2022 - 2022) -> wasps (2022 - 2022) -> london irish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london irish (2023 - 2023) -> edimbourg rugby (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2020 - 2021) -> Wasps (2021 - 2021) -> Edimbourg Rugby (2022 - 2022) -> Wasps (2022 - 2022) -> London Irish (2022 - 2022) -> Edimbourg Rugby (2022 - 2022) -> London Irish (2023 - 2023) -> Edimbourg Rugby (2023 - 2026)
+Scotland

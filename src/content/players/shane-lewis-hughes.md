@@ -1,7 +1,7 @@
 ---
-title: "Shane LEWIS-HUGHES | シェーン・ルイス＝ヒューズ"
+title: "Shane LEWIS-HUGHES | シェーン ルイス=ヒュース"
 name_en: "Shane LEWIS-HUGHES"
-name_ja: "シェーン・ルイス＝ヒューズ"
+name_ja: "シェーン ルイス=ヒュース"
 slug: "shane-lewis-hughes"
 position: "FL/No8"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/shane-lewis-hughes"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
-scraped_url: "cardiff rugby (2016 - 2024) -> dragons rfc (2024 - 2026)"
+scraped_url: "https://all.rugby/player/shane-lewis-hughes"
 ---
 
 ## キャリア遍歴
-Wales
+cardiff rugby (2016 - 2024) -> dragons rfc (2024 - 2026)

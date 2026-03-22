@@ -1,7 +1,7 @@
 ---
-title: "Tom AHERN | トム ・ AHERN"
+title: "Tom AHERN | トム アハーン"
 name_en: "Tom AHERN"
-name_ja: "トム ・ AHERN"
+name_ja: "トム アハーン"
 slug: "thomas-ahern"
 position: "LO"
 height: "206.0"
@@ -13,10 +13,10 @@ birth_place_scraped: ""
 league: "urc"
 team: "Munster"
 caps: ""
-high_school: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/thomas-ahern"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2020 - 2026)
+munster rugby (2020 - 2026)

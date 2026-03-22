@@ -1,7 +1,7 @@
 ---
-title: "SJ KOTZE | SJ ・ KOTZE"
+title: "SJ KOTZE"
 name_en: "SJ KOTZE"
-name_ja: "SJ ・ KOTZE"
+name_ja: "SJ KOTZE"
 slug: "sj-kotze"
 position: "HO"
 height: "186.0"

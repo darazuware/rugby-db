@@ -1,7 +1,7 @@
 ---
-title: "Quentin LESPIAUCQ | カンタン・レスピアック"
+title: "Quentin LESPIAUCQ | カンタン レスヒアック"
 name_en: "Quentin LESPIAUCQ"
-name_ja: "カンタン・レスピアック"
+name_ja: "カンタン レスヒアック"
 slug: "quentin-lespiaucq"
 position: "HO"
 height: "180.0"

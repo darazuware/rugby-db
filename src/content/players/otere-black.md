@@ -1,7 +1,7 @@
 ---
-title: "Otere Black | オテレ ・ブラック"
+title: "Otere Black | オテレ フラック"
 name_en: "Otere Black"
-name_ja: "オテレ ・ブラック"
+name_ja: "オテレ フラック"
 slug: "otere-black"
 position: "SO"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Romain BRIATTE | ロマン・ブリアット"
+title: "Romain BRIATTE | ロマン フリアット"
 name_en: "Romain BRIATTE"
-name_ja: "ロマン・ブリアット"
+name_ja: "ロマン フリアット"
 slug: "romain-briatte"
 position: "FL/NO8"
 height: "194.0"

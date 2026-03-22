@@ -1,7 +1,7 @@
 ---
-title: "Nolann LE GARREC | ノラン・ル・ガレック"
+title: "Nolann LE GARREC | ノラン ル カレック"
 name_en: "Nolann LE GARREC"
-name_ja: "ノラン・ル・ガレック"
+name_ja: "ノラン ル カレック"
 slug: "nolann-le-garrec"
 position: "SH"
 height: "175.0"

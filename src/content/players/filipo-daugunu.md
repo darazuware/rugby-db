@@ -1,7 +1,7 @@
 ---
-title: "Filipo DAUGUNU | フィリポ-ダウグヌ"
+title: "Filipo DAUGUNU | フィリホ-タウクヌ"
 name_en: "Filipo DAUGUNU"
-name_ja: "フィリポ-ダウグヌ"
+name_ja: "フィリホ-タウクヌ"
 slug: "filipo-daugunu"
 position: "WTB"
 height: "181.0"

@@ -1,12 +1,12 @@
 ---
-title: "Alex Coles"
-name_en: "Alex Coles"
+title: "Alex COLES"
+name_en: "Alex COLES"
 name_ja: ""
 slug: "alex-coles"
 position: "Lock"
 height: ""
 weight: ""
-birth_date: "1999.09.21"
+birth_date: "nan"
 age: 26
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "England (7)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/alex-coles"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Niccolò CANNONE | Niccol ・ CANNONE"
-name_en: "Niccolò CANNONE"
-name_ja: "Niccol ・ CANNONE"
+title: "Niccolo CANNONE | ニッコロ カノーネ"
+name_en: "Niccolo CANNONE"
+name_ja: "ニッコロ カノーネ"
 slug: "niccolo-cannone"
 position: "LO"
 height: "197.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (48)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/niccolo-cannone"
+scraped_url: "benetton rugby trévise (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2018 - 2026)
+Italy

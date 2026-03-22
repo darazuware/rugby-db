@@ -1,7 +1,7 @@
 ---
-title: "Simeli DAUNIVUCU | シメリ・ダウニヴズ"
+title: "Simeli DAUNIVUCU | シメリ タウニウス"
 name_en: "Simeli DAUNIVUCU"
-name_ja: "シメリ・ダウニヴズ"
+name_ja: "シメリ タウニウス"
 slug: "simeli-daunivucu"
 position: "CTB"
 height: "180.0"

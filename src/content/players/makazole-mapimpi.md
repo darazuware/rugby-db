@@ -1,9 +1,9 @@
 ---
-title: "Makazole MAPIMPI | マカゾレ ・ マピンピ"
+title: "Makazole MAPIMPI | マカソレ マヒンヒ"
 name_en: "Makazole MAPIMPI"
-name_ja: "マカゾレ ・ マピンピ"
+name_ja: "マカソレ マヒンヒ"
 slug: "makazole-mapimpi"
-position: "Winger"
+position: "WTB"
 height: "184.0"
 weight: "92.0"
 birth_date: "1990.07.26"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (39)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/makazole-mapimpi"
+scraped_url: "southern kings (2016 - 2017) -> central cheetahs (2017 - 2017) -> sharks (2017 - 2017) -> central cheetahs (2018 - 2018) -> sharks (2018 - 2020) -> red hurricanes osaka (2020 - 2020) -> sharks (2020 - 2020) -> red hurricanes osaka (2021 - 2021) -> sharks (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Southern Kings (2016 - 2017) -> Central Cheetahs (2017 - 2017) -> Sharks (2017 - 2017) -> Central Cheetahs (2018 - 2018) -> Sharks (2018 - 2020) -> Red Hurricanes Osaka (2020 - 2020) -> Sharks (2020 - 2020) -> Red Hurricanes Osaka (2021 - 2021) -> Sharks (2021 - 2026)
+South Africa

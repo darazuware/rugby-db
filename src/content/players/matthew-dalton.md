@@ -1,7 +1,7 @@
 ---
-title: "Matthew DALTON | マシュー ・ DALTON"
+title: "Matthew DALTON | マシュー DALTON"
 name_en: "Matthew DALTON"
-name_ja: "マシュー ・ DALTON"
+name_ja: "マシュー DALTON"
 slug: "matthew-dalton"
 position: "LO"
 height: "198.0"

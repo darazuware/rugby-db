@@ -1,7 +1,7 @@
 ---
-title: "Akira Ioane | アキラ ・イオアネ"
+title: "Akira Ioane | アキラ イオアネ"
 name_en: "Akira Ioane"
-name_ja: "アキラ ・イオアネ"
+name_ja: "アキラ イオアネ"
 slug: "akira-ioane"
 position: "FL/No8"
 height: "196.0"

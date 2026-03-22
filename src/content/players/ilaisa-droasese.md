@@ -1,7 +1,7 @@
 ---
-title: "Ilaisa DROASESE | イライサ-ドロアセセ"
+title: "Ilaisa DROASESE | イライサ-トロアセセ"
 name_en: "Ilaisa DROASESE"
-name_ja: "イライサ-ドロアセセ"
+name_ja: "イライサ-トロアセセ"
 slug: "ilaisa-droasese"
 position: "FB"
 height: "187.0"

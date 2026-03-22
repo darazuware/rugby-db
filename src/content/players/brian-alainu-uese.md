@@ -1,7 +1,7 @@
 ---
-title: "Brian ALAINU'UESE | ブライアン-アライヌウエセ"
+title: "Brian ALAINU'UESE | フライアン-アライヌウエセ"
 name_en: "Brian ALAINU'UESE"
-name_ja: "ブライアン-アライヌウエセ"
+name_ja: "フライアン-アライヌウエセ"
 slug: "brian-alainu-uese"
 position: "LO"
 height: "202.0"

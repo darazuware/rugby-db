@@ -1,7 +1,7 @@
 ---
-title: "Lehopa LEOTA | レホパ・レオタ"
+title: "Lehopa LEOTA | レホハ レオタ"
 name_en: "Lehopa LEOTA"
-name_ja: "レホパ・レオタ"
+name_ja: "レホハ レオタ"
 slug: "lehopa-leota"
 position: "PR"
 height: "175.0"

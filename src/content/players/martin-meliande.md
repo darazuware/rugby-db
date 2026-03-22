@@ -1,7 +1,7 @@
 ---
-title: "Martin MÉLIANDE | マルタン・メリアンド"
-name_en: "Martin MÉLIANDE"
-name_ja: "マルタン・メリアンド"
+title: "Martin MELIANDE | マルタン メリアント"
+name_en: "Martin MELIANDE"
+name_ja: "マルタン メリアント"
 slug: "martin-meliande"
 position: "FB"
 height: "187.0"

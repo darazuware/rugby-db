@@ -1,7 +1,7 @@
 ---
-title: "Siba QOMA | シバ・コマ"
+title: "Siba QOMA | シハ コマ"
 name_en: "Siba QOMA"
-name_ja: "シバ・コマ"
+name_ja: "シハ コマ"
 slug: "siba-qoma"
 position: "LO"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/siba-qoma"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "central cheetahs (2022 - 2024) -> lions rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/siba-qoma"
 ---
 
 ## キャリア遍歴
-
+central cheetahs (2022 - 2024) -> lions rugby (2024 - 2026)

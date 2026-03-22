@@ -1,7 +1,7 @@
 ---
-title: "Chris SMIT | クリス・スミット"
+title: "Chris SMIT | クリス スミット"
 name_en: "Chris SMIT"
-name_ja: "クリス・スミット"
+name_ja: "クリス スミット"
 slug: "chris-smit"
 position: "CTB"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "https://all.rugby/player/chris-smit"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "griquas (2018 - 2019) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2022) -> blue bulls (2022 - 2024) -> bulls (2024 - 2026)"
+scraped_url: "https://all.rugby/player/chris-smit"
 ---
 
 ## キャリア遍歴
-
+griquas (2018 - 2019) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2022) -> blue bulls (2022 - 2024) -> bulls (2024 - 2026)

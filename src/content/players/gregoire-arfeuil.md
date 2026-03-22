@@ -1,7 +1,7 @@
 ---
-title: "Grégoire ARFEUIL | グレゴワール・アルフイユ"
-name_en: "Grégoire ARFEUIL"
-name_ja: "グレゴワール・アルフイユ"
+title: "Gregoire ARFEUIL | クレコワール アルフイユ"
+name_en: "Gregoire ARFEUIL"
+name_ja: "クレコワール アルフイユ"
 slug: "gregoire-arfeuil"
 position: "WTB"
 height: "194.0"

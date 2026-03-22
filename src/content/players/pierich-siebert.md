@@ -1,7 +1,7 @@
 ---
-title: "Pierich Siebert | ピエリッチ ・シーバート"
+title: "Pierich Siebert | ヒエリッチ シーハート"
 name_en: "Pierich Siebert"
-name_ja: "ピエリッチ ・シーバート"
+name_ja: "ヒエリッチ シーハート"
 slug: "pierich-siebert"
 position: "FL/No8"
 height: "185.0"

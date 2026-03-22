@@ -1,7 +1,7 @@
 ---
-title: "Giorgi JAVAKHIA | ギオルギ・ジャヴァヒア"
+title: "Giorgi JAVAKHIA | キオルキ シャウァヒア"
 name_en: "Giorgi JAVAKHIA"
-name_ja: "ギオルギ・ジャヴァヒア"
+name_ja: "キオルキ シャウァヒア"
 slug: "giorgi-javakhia"
 position: "LO"
 height: "194.0"

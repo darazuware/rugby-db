@@ -1,7 +1,7 @@
 ---
-title: "Dan DU PLESSIS | ダン ・ デュ ・ PLESSIS"
+title: "Dan DU PLESSIS | タン テュ PLESSIS"
 name_en: "Dan DU PLESSIS"
-name_ja: "ダン ・ デュ ・ PLESSIS"
+name_ja: "タン テュ PLESSIS"
 slug: "dan-du-plessis"
 position: "CTB"
 height: "190.0"

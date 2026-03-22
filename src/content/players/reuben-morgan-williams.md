@@ -1,7 +1,7 @@
 ---
-title: "Reuben MORGAN-WILLIAMS | Reuben ・ MORGAN ・ ウィリアムズ"
+title: "Reuben MORGAN-WILLIAMS | ルーヘン モーカン=ウィリアムス"
 name_en: "Reuben MORGAN-WILLIAMS"
-name_ja: "Reuben ・ MORGAN ・ ウィリアムズ"
+name_ja: "ルーヘン モーカン=ウィリアムス"
 slug: "reuben-morgan-williams"
 position: "SH"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reuben-morgan-williams"
 ---
 
 ## キャリア遍歴
-Ospreys (2017 - 2026)
+ospreys (2017 - 2026)

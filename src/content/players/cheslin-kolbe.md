@@ -1,7 +1,7 @@
 ---
-title: "Cheslin Kolbe | チェスリン ・コルビ"
+title: "Cheslin Kolbe | チェスリン コルヒ"
 name_en: "Cheslin Kolbe"
-name_ja: "チェスリン ・コルビ"
+name_ja: "チェスリン コルヒ"
 slug: "cheslin-kolbe"
 position: "WTB"
 height: "172.0"

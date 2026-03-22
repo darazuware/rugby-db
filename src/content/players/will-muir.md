@@ -1,12 +1,12 @@
 ---
-title: "Will Muir"
-name_en: "Will Muir"
+title: "Will MUIR"
+name_en: "Will MUIR"
 name_ja: ""
 slug: "will-muir"
-position: "Wing"
+position: "Winger"
 height: ""
 weight: ""
-birth_date: "1995.10.30"
+birth_date: "nan"
 age: 30
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/will-muir"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "David Van Zeeland | デーヴィッド ・ヴァンジーランド"
+title: "David Van Zeeland | テーウィット ウァンシーラント"
 name_en: "David Van Zeeland"
-name_ja: "デーヴィッド ・ヴァンジーランド"
+name_ja: "テーウィット ウァンシーラント"
 slug: "david-van-zeeland"
 position: "LO"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
-title: "Florian VERHAEGHE | フロリアン-ヴェルアーグ"
+title: "Florian VERHAEGHE | フロリアン-ウェルアーク"
 name_en: "Florian VERHAEGHE"
-name_ja: "フロリアン-ヴェルアーグ"
+name_ja: "フロリアン-ウェルアーク"
 slug: "florian-verhaeghe"
 position: "LO"
 height: "202.0"

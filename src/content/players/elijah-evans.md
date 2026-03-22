@@ -1,7 +1,7 @@
 ---
-title: "Elijah EVANS | Elijah ・ EVANS"
+title: "Elijah EVANS"
 name_en: "Elijah EVANS"
-name_ja: "Elijah ・ EVANS"
+name_ja: "Elijah EVANS"
 slug: "elijah-evans"
 position: "CTB"
 height: "190.0"

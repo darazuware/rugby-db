@@ -1,7 +1,7 @@
 ---
-title: "Ross WOLFENDEN | ロス ・ WOLFENDEN"
+title: "Ross WOLFENDEN | ロス ウルフェンテン"
 name_en: "Ross WOLFENDEN"
-name_ja: "ロス ・ WOLFENDEN"
+name_ja: "ロス ウルフェンテン"
 slug: "ross-wolfenden"
 position: "SO"
 height: "194.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ross-wolfenden"
 ---
 
 ## キャリア遍歴
-Peebles RFC (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+peebles rfc (2023 - 2024) -> edimbourg rugby (2024 - 2026)

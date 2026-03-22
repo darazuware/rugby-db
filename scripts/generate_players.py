@@ -119,6 +119,8 @@ def generate_markdown():
         while slug in used_slugs:
             counter += 1
             slug = f"{original_slug}-{counter}"
+        
+        used_slugs.add(slug)
         league_val = str(row.get('League', '')).strip().lower()
         if league_val == 'mlr':
             continue

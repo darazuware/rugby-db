@@ -1,7 +1,7 @@
 ---
-title: "Pablo Matera | パブロ ・マテーラ"
+title: "Pablo Matera | ハフロ マテーラ"
 name_en: "Pablo Matera"
-name_ja: "パブロ ・マテーラ"
+name_ja: "ハフロ マテーラ"
 slug: "pablo-matera"
 position: "FL/No8"
 height: "190.0"

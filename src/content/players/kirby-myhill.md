@@ -1,7 +1,7 @@
 ---
-title: "Kirby MYHILL | Kirby ・ MYHILL"
+title: "Kirby MYHILL | カーヒー マイヒル"
 name_en: "Kirby MYHILL"
-name_ja: "Kirby ・ MYHILL"
+name_ja: "カーヒー マイヒル"
 slug: "kirby-myhill"
 position: "HO"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kirby-myhill"
 ---
 
 ## キャリア遍歴
-Scarlets (2013 - 2016) -> Cardiff Rugby (2016 - 2023) -> Miami Sharks (2023 - 2025) -> Scarlets (2025 - 2026)
+scarlets (2013 - 2016) -> cardiff rugby (2016 - 2023) -> miami sharks (2023 - 2025) -> scarlets (2025 - 2026)

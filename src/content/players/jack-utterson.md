@@ -1,7 +1,7 @@
 ---
-title: "Jack UTTERSON | ジャック ・ UTTERSON"
+title: "Jack UTTERSON | シャック アターソン"
 name_en: "Jack UTTERSON"
-name_ja: "ジャック ・ UTTERSON"
+name_ja: "シャック アターソン"
 slug: "jack-utterson"
 position: "HO"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-utterson"
 ---
 
 ## キャリア遍歴
-Kelso RFC (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)
+kelso rfc (2024 - 2025) -> edimbourg rugby (2025 - 2026)

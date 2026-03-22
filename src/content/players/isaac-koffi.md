@@ -1,7 +1,7 @@
 ---
-title: "Isaac KOFFI | アイザック・コフィ"
+title: "Isaac KOFFI | アイサック コフィ"
 name_en: "Isaac KOFFI"
-name_ja: "アイザック・コフィ"
+name_ja: "アイサック コフィ"
 slug: "isaac-koffi"
 position: "PR"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Patrick Tafa | パトリック ・タファ"
+title: "Patrick Tafa | ハトリック タファ"
 name_en: "Patrick Tafa"
-name_ja: "パトリック ・タファ"
+name_ja: "ハトリック タファ"
 slug: "patrick-tafa"
 position: "FL/No8"
 height: "195.0"

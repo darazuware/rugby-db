@@ -1,7 +1,7 @@
 ---
-title: "Lucas DUBOIS | ルカス・デュボワ"
+title: "Lucas DUBOIS | ルカス テュホワ"
 name_en: "Lucas DUBOIS"
-name_ja: "ルカス・デュボワ"
+name_ja: "ルカス テュホワ"
 slug: "lucas-dubois"
 position: "FB"
 height: "188.0"

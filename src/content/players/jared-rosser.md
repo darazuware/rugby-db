@@ -1,7 +1,7 @@
 ---
-title: "Jared ROSSER | Jared ・ ROSSER"
+title: "Jared ROSSER"
 name_en: "Jared ROSSER"
-name_ja: "Jared ・ ROSSER"
+name_ja: "Jared ROSSER"
 slug: "jared-rosser"
 position: "Winger"
 height: "183.0"

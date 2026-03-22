@@ -1,7 +1,7 @@
 ---
-title: "Rohan WINGHAM | ロハン・ウィンガム"
+title: "Rohan WINGHAM | ロハン ウィンカム"
 name_en: "Rohan WINGHAM"
-name_ja: "ロハン・ウィンガム"
+name_ja: "ロハン ウィンカム"
 slug: "rohan-wingham"
 position: "PR"
 height: "189.0"

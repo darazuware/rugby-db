@@ -1,7 +1,7 @@
 ---
-title: "Luke REIMER | ルーク・ライマー"
+title: "Luke REIMER | ルーク ライマー"
 name_en: "Luke REIMER"
-name_ja: "ルーク・ライマー"
+name_ja: "ルーク ライマー"
 slug: "luke-reimer"
 position: "FL/No8"
 height: "187.0"

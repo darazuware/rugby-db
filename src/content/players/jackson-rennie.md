@@ -1,7 +1,7 @@
 ---
-title: "Jackson RENNIE | Jackson ・ RENNIE"
+title: "Jackson RENNIE | シャクソン レニー"
 name_en: "Jackson RENNIE"
-name_ja: "Jackson ・ RENNIE"
+name_ja: "シャクソン レニー"
 slug: "jackson-rennie"
 position: "PR"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jackson-rennie"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2025 - 2026)
+glasgow warriors (2025 - 2026)

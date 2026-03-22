@@ -1,7 +1,7 @@
 ---
-title: "Christie GROBBELAAR | クリスティー・グロブラール"
+title: "Christie GROBBELAAR | クリスティー クロフラール"
 name_en: "Christie GROBBELAAR"
-name_ja: "クリスティー・グロブラール"
+name_ja: "クリスティー クロフラール"
 slug: "christie-grobbelaar"
 position: "WTB"
 height: "192.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/christie-grobbelaar"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "af. sud 7's (2020 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)"
+scraped_url: "https://all.rugby/player/christie-grobbelaar"
 ---
 
 ## キャリア遍歴
-
+af. sud 7's (2020 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)

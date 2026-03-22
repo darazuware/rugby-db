@@ -1,7 +1,7 @@
 ---
-title: "Joe DENMAN | Joe ・ DENMAN"
+title: "Joe DENMAN"
 name_en: "Joe DENMAN"
-name_ja: "Joe ・ DENMAN"
+name_ja: "Joe DENMAN"
 slug: "joe-denman"
 position: "Back row"
 height: "183.0"

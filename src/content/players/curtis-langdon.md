@@ -1,12 +1,12 @@
 ---
-title: "Curtis Langdon"
-name_en: "Curtis Langdon"
+title: "Curtis LANGDON"
+name_en: "Curtis LANGDON"
 name_ja: ""
 slug: "curtis-langdon"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "1997.08.03"
+birth_date: "nan"
 age: 28
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/curtis-langdon"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

@@ -1,12 +1,12 @@
 ---
-title: "Danilo Fischetti"
-name_en: "Danilo Fischetti"
+title: "Danilo FISCHETTI"
+name_en: "Danilo FISCHETTI"
 name_ja: ""
 slug: "danilo-fischetti"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "1998.01.26"
+birth_date: "nan"
 age: 28
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "Italy (48)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/danilo-fischetti"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

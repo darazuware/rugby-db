@@ -1,7 +1,7 @@
 ---
-title: "Mickaël CAPELLI | ミカエル・カペリ"
-name_en: "Mickaël CAPELLI"
-name_ja: "ミカエル・カペリ"
+title: "Mickael CAPELLI | ミカエル カヘリ"
+name_en: "Mickael CAPELLI"
+name_ja: "ミカエル カヘリ"
 slug: "mickael-capelli"
 position: "LO"
 height: "198.0"

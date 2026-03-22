@@ -1,7 +1,7 @@
 ---
-title: "Ronan KELLEHER | ロナン ・ KELLEHER"
+title: "Ronan KELLEHER | ロナン KELLEHER"
 name_en: "Ronan KELLEHER"
-name_ja: "ロナン ・ KELLEHER"
+name_ja: "ロナン KELLEHER"
 slug: "ronan-kelleher"
 position: "HO"
 height: "185.0"

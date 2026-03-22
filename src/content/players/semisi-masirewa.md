@@ -1,7 +1,7 @@
 ---
-title: "Semisi Masirewa | セミシ ・マシレワ"
+title: "Semisi Masirewa | セミシ マシレワ"
 name_en: "Semisi Masirewa"
-name_ja: "セミシ ・マシレワ"
+name_ja: "セミシ マシレワ"
 slug: "semisi-masirewa"
 position: "WTB"
 height: "181.0"

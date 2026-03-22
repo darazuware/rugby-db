@@ -1,7 +1,7 @@
 ---
-title: "Juann ELSE | Juann ・ ELSE"
+title: "Juann ELSE"
 name_en: "Juann ELSE"
-name_ja: "Juann ・ ELSE"
+name_ja: "Juann ELSE"
 slug: "juann-jacques-else"
 position: "PR"
 height: "182.0"

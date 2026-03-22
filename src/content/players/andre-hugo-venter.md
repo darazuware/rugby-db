@@ -1,7 +1,7 @@
 ---
-title: "André-Hugo VENTER | Andr ・ ヒューゴ ・ VENTER"
-name_en: "André-Hugo VENTER"
-name_ja: "Andr ・ ヒューゴ ・ VENTER"
+title: "Andre-Hugo VENTER | アントレ=ユーコー フェンター"
+name_en: "Andre-Hugo VENTER"
+name_ja: "アントレ=ユーコー フェンター"
 slug: "andre-hugo-venter"
 position: "HO"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andre-hugo-venter"
 ---
 
 ## キャリア遍歴
-Stormers (2020 - 2026)
+stormers (2020 - 2026)

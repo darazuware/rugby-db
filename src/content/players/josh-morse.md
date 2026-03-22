@@ -1,7 +1,7 @@
 ---
-title: "Josh MORSE | ジョシュ ・ MORSE"
+title: "Josh MORSE | ショシュ MORSE"
 name_en: "Josh MORSE"
-name_ja: "ジョシュ ・ MORSE"
+name_ja: "ショシュ MORSE"
 slug: "josh-morse"
 position: "PR"
 height: "180.0"

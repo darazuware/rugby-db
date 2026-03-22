@@ -1,7 +1,7 @@
 ---
-title: "Hamish MACARTHUR | ヘイミッシュ ・ MACARTHUR"
+title: "Hamish MACARTHUR | ヘイミッシュ マッカーサー"
 name_en: "Hamish MACARTHUR"
-name_ja: "ヘイミッシュ ・ MACARTHUR"
+name_ja: "ヘイミッシュ マッカーサー"
 slug: "hamish-macarthur"
 position: "SH"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hamish-macarthur"
 ---
 
 ## キャリア遍歴
-Merchiston Castle School (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+merchiston castle school (2023 - 2024) -> edimbourg rugby (2024 - 2026)

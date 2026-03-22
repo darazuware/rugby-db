@@ -1,7 +1,7 @@
 ---
-title: "SITALEKITAUFA MAKISI | シタレキタウファ ・マキシ"
+title: "SITALEKITAUFA MAKISI | シタレキタウファ マキシ"
 name_en: "SITALEKITAUFA MAKISI"
-name_ja: "シタレキタウファ ・マキシ"
+name_ja: "シタレキタウファ マキシ"
 slug: "sitalekitaufa-makisi"
 position: "CTB"
 height: "187.0"

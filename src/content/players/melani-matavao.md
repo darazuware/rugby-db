@@ -1,7 +1,7 @@
 ---
-title: "Melani MATAVAO | メラニ・マタヴァオ"
+title: "Melani MATAVAO | メラニ マタウァオ"
 name_en: "Melani MATAVAO"
-name_ja: "メラニ・マタヴァオ"
+name_ja: "メラニ マタウァオ"
 slug: "melani-matavao"
 position: "SH"
 height: "171.0"

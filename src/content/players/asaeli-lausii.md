@@ -1,7 +1,7 @@
 ---
-title: "Asaeli Lausii | アサエリ ・ラウシー"
+title: "Asaeli Lausii | アサエリ ラウシー"
 name_en: "Asaeli Lausii"
-name_ja: "アサエリ ・ラウシー"
+name_ja: "アサエリ ラウシー"
 slug: "asaeli-lausii"
 position: "LO"
 height: "190.0"

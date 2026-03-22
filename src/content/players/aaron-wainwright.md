@@ -1,7 +1,7 @@
 ---
-title: "Aaron WAINWRIGHT | アーロン ・ WAINWRIGHT"
+title: "Aaron WAINWRIGHT | アーロン WAINWRIGHT"
 name_en: "Aaron WAINWRIGHT"
-name_ja: "アーロン ・ WAINWRIGHT"
+name_ja: "アーロン WAINWRIGHT"
 slug: "aaron-wainwright"
 position: "Back row"
 height: "188.0"

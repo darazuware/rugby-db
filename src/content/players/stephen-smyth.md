@@ -1,7 +1,7 @@
 ---
-title: "Stephen SMYTH | ステファン・スミス"
+title: "Stephen SMYTH | ステファン スミス"
 name_en: "Stephen SMYTH"
-name_ja: "ステファン・スミス"
+name_ja: "ステファン スミス"
 slug: "stephen-smyth"
 position: "HO"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/stephen-smyth"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "old wesley rfc (2023 - 2024) -> leinster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/stephen-smyth"
 ---
 
 ## キャリア遍歴
-
+old wesley rfc (2023 - 2024) -> leinster rugby (2024 - 2026)

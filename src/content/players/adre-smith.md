@@ -1,7 +1,7 @@
 ---
-title: "Adré SMITH | Adr ・ スミス"
-name_en: "Adré SMITH"
-name_ja: "Adr ・ スミス"
+title: "Adre SMITH | アトレ スミス"
+name_en: "Adre SMITH"
+name_ja: "アトレ スミス"
 slug: "adre-smith"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adre-smith"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2017 - 2019) -> Griquas (2019 - 2020) -> Stormers (2020 - 2020) -> Griquas (2020 - 2020) -> Stormers (2021 - 2021) -> Griquas (2021 - 2021) -> Stormers (2021 - 2024) -> Toyota Verblitz (2024 - 2024) -> Stormers (2025 - 2025) -> Toyota Verblitz (2025 - 2025) -> Stormers (2025 - 2026)
+blue bulls (2017 - 2019) -> griquas (2019 - 2020) -> stormers (2020 - 2020) -> griquas (2020 - 2020) -> stormers (2021 - 2021) -> griquas (2021 - 2021) -> stormers (2021 - 2024) -> toyota verblitz (2024 - 2024) -> stormers (2025 - 2025) -> toyota verblitz (2025 - 2025) -> stormers (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Tom DODD | トム・ドッド"
+title: "Tom DODD | トム トット"
 name_en: "Tom DODD"
-name_ja: "トム・ドッド"
+name_ja: "トム トット"
 slug: "tom-dodd"
 position: "FL/No8"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/tom-dodd"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "worcester warriors (2017 - 2022) -> coventry rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> coventry rugby (2023 - 2023) -> edimbourg rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/tom-dodd"
 ---
 
 ## キャリア遍歴
-
+worcester warriors (2017 - 2022) -> coventry rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> coventry rugby (2023 - 2023) -> edimbourg rugby (2023 - 2026)

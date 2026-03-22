@@ -1,7 +1,7 @@
 ---
-title: "Keiran WILLIAMS | Keiran ・ ウィリアムズ"
+title: "Keiran WILLIAMS | Keiran ウィリアムス"
 name_en: "Keiran WILLIAMS"
-name_ja: "Keiran ・ ウィリアムズ"
+name_ja: "Keiran ウィリアムス"
 slug: "keiran-williams"
 position: "CTB"
 height: "178.0"

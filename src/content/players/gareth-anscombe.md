@@ -1,7 +1,7 @@
 ---
-title: "Gareth ANSCOMBE | ガレス-アンスコム"
+title: "Gareth ANSCOMBE | カレス-アンスコム"
 name_en: "Gareth ANSCOMBE"
-name_ja: "ガレス-アンスコム"
+name_ja: "カレス-アンスコム"
 slug: "gareth-anscombe"
 position: "SO"
 height: "184.0"

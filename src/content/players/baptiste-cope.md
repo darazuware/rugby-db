@@ -1,7 +1,7 @@
 ---
-title: "Baptiste COPE | バティスト・コープ"
+title: "Baptiste COPE | ハティスト コーフ"
 name_en: "Baptiste COPE"
-name_ja: "バティスト・コープ"
+name_ja: "ハティスト コーフ"
 slug: "baptiste-cope"
 position: "FL/NO8"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Simone GESI | シモーネ・ジェージ"
+title: "Simone GESI | シモーネ シェーシ"
 name_en: "Simone GESI"
-name_ja: "シモーネ・ジェージ"
+name_ja: "シモーネ シェーシ"
 slug: "simone-gesi"
 position: "WTB"
 height: "183.0"

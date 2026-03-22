@@ -1,7 +1,7 @@
 ---
-title: "Evan HILL | Evan ・ HILL"
+title: "Evan HILL"
 name_en: "Evan HILL"
-name_ja: "Evan ・ HILL"
+name_ja: "Evan HILL"
 slug: "evan-hill"
 position: "LO"
 height: "199.0"

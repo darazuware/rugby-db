@@ -1,7 +1,7 @@
 ---
-title: "Matthew VICTORY | マシュー ・ VICTORY"
+title: "Matthew VICTORY | マシュー VICTORY"
 name_en: "Matthew VICTORY"
-name_ja: "マシュー ・ VICTORY"
+name_ja: "マシュー VICTORY"
 slug: "matthew-victory"
 position: "HO"
 height: "177.0"

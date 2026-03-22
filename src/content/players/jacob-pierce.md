@@ -1,7 +1,7 @@
 ---
-title: "Jacob Pierce | ジェイコブ ・ピアス"
+title: "Jacob Pierce | シェイコフ ヒアス"
 name_en: "Jacob Pierce"
-name_ja: "ジェイコブ ・ピアス"
+name_ja: "シェイコフ ヒアス"
 slug: "jacob-pierce"
 position: "LO"
 height: "201.0"

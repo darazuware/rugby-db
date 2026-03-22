@@ -1,7 +1,7 @@
 ---
-title: "Isaiah Mapusua | アイザイア ・マプスア"
+title: "Isaiah Mapusua | アイサイア マフスア"
 name_en: "Isaiah Mapusua"
-name_ja: "アイザイア ・マプスア"
+name_ja: "アイサイア マフスア"
 slug: "isaiah-mapusua"
 position: "FL/No8"
 height: "191.0"

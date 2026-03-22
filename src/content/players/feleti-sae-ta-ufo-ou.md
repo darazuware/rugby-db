@@ -1,7 +1,7 @@
 ---
-title: "Feleti SAE-TA'UFO'OU | フェレティ-サエ＝タウフォオウ"
+title: "Feleti SAE-TA'UFO'OU | フェレティ-サエ=タウフォオウ"
 name_en: "Feleti SAE-TA'UFO'OU"
-name_ja: "フェレティ-サエ＝タウフォオウ"
+name_ja: "フェレティ-サエ=タウフォオウ"
 slug: "feleti-sae-ta-ufo-ou"
 position: "PR"
 height: "190.0"

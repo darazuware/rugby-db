@@ -1,7 +1,7 @@
 ---
-title: "Abraham POLE | エイブラハム・ポール"
+title: "Abraham POLE | エイフラハム ホール"
 name_en: "Abraham POLE"
-name_ja: "エイブラハム・ポール"
+name_ja: "エイフラハム ホール"
 slug: "abraham-pole"
 position: "PR"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Trevor Hosea | トレヴァ ・ホゼア"
+title: "Trevor Hosea | トレウァ ホセア"
 name_en: "Trevor Hosea"
-name_ja: "トレヴァ ・ホゼア"
+name_ja: "トレウァ ホセア"
 slug: "trevor-hosea"
 position: "LO"
 height: "204.0"

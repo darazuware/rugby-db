@@ -1,7 +1,7 @@
 ---
-title: "Tiziano PASQUALI | ティツィアーノ・パスクアーリ"
+title: "Tiziano PASQUALI"
 name_en: "Tiziano PASQUALI"
-name_ja: "ティツィアーノ・パスクアーリ"
+name_ja: "Tiziano PASQUALI"
 slug: "tiziano-pasquali"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (20)"
 high_school: ""
 university: ""
-scraped_url: "leicester tigers (2013 - 2016) -> benetton rugby trévise (2016 - 2026)"
+scraped_url: "https://all.rugby/player/tiziano-pasquali"
 ---
 
 ## キャリア遍歴
-Italy
+Leicester Tigers (2013 - 2016) -> Benetton Rugby Trévise (2016 - 2026)

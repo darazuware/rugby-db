@@ -1,7 +1,7 @@
 ---
-title: "Oliver REID | Oliver ・ REID"
+title: "Oliver REID"
 name_en: "Oliver REID"
-name_ja: "Oliver ・ REID"
+name_ja: "Oliver REID"
 slug: "oliver-reid"
 position: "PR"
 height: "185.0"

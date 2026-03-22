@@ -1,7 +1,7 @@
 ---
-title: "Jone Nabetelevu | ジョネ ・ナベテレヴ"
+title: "Jone Nabetelevu | ショネ ナヘテレウ"
 name_en: "Jone Nabetelevu"
-name_ja: "ジョネ ・ナベテレヴ"
+name_ja: "ショネ ナヘテレウ"
 slug: "jone-nabetelevu"
 position: "WTB"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Bernard Foley | バーナード ・フォーリー"
+title: "Bernard Foley | ハーナート フォーリー"
 name_en: "Bernard Foley"
-name_ja: "バーナード ・フォーリー"
+name_ja: "ハーナート フォーリー"
 slug: "bernard-foley"
 position: "SO"
 height: "182.0"

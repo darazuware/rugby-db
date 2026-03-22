@@ -1,7 +1,7 @@
 ---
-title: "Joe MARCHANT | ジョー・マーチャント"
+title: "Joe MARCHANT | ショー マーチャント"
 name_en: "Joe MARCHANT"
-name_ja: "ジョー・マーチャント"
+name_ja: "ショー マーチャント"
 slug: "joe-marchant"
 position: "CTB"
 height: "183.0"

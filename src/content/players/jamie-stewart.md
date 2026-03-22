@@ -1,7 +1,7 @@
 ---
-title: "Jamie STEWART | ジェイミー ・ STEWART"
+title: "Jamie STEWART | シェイミー スチュワート"
 name_en: "Jamie STEWART"
-name_ja: "ジェイミー ・ STEWART"
+name_ja: "シェイミー スチュワート"
 slug: "jamie-stewart"
 position: "PR"
 height: "194.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jamie-stewart"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+exeter chiefs (2023 - 2024) -> edimbourg rugby (2024 - 2026)

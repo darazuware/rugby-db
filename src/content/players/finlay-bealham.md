@@ -1,7 +1,7 @@
 ---
-title: "Finlay BEALHAM | フィンレイ ・ BEALHAM"
+title: "Finlay BEALHAM | フィンレイ BEALHAM"
 name_en: "Finlay BEALHAM"
-name_ja: "フィンレイ ・ BEALHAM"
+name_ja: "フィンレイ BEALHAM"
 slug: "finlay-bealham"
 position: "PR"
 height: "189.0"

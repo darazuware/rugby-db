@@ -1,7 +1,7 @@
 ---
-title: "Garry RINGROSE | ギャリー ・ RINGROSE"
+title: "Garry RINGROSE | キャリー-リンクロース"
 name_en: "Garry RINGROSE"
-name_ja: "ギャリー ・ RINGROSE"
+name_ja: "キャリー-リンクロース"
 slug: "garry-ringrose"
 position: "CTB"
 height: "186.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (67)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/garry-ringrose"
+scraped_url: "leinster rugby (2015 - 2026)"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2015 - 2026)
+Ireland

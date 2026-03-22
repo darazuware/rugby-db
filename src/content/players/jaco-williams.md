@@ -1,7 +1,7 @@
 ---
-title: "Jaco WILLIAMS | Jaco ・ ウィリアムズ"
+title: "Jaco WILLIAMS | Jaco ウィリアムス"
 name_en: "Jaco WILLIAMS"
-name_ja: "Jaco ・ ウィリアムズ"
+name_ja: "Jaco ウィリアムス"
 slug: "jaco-williams"
 position: "FB"
 height: "175.0"

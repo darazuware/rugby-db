@@ -1,7 +1,7 @@
 ---
-title: "Ben-Jason DIXON | ベン ・ Jason ・ DIXON"
+title: "Ben-Jason DIXON | ヘン Jason DIXON"
 name_en: "Ben-Jason DIXON"
-name_ja: "ベン ・ Jason ・ DIXON"
+name_ja: "ヘン Jason DIXON"
 slug: "ben-jason-dixon"
 position: "LO"
 height: "195.0"

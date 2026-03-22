@@ -1,7 +1,7 @@
 ---
-title: "Migael PRINSLOO | Migael ・ PRINSLOO"
+title: "Migael PRINSLOO | ミハエル フリンスルー"
 name_en: "Migael PRINSLOO"
-name_ja: "Migael ・ PRINSLOO"
+name_ja: "ミハエル フリンスルー"
 slug: "migael-prinsloo"
 position: "SH"
 height: "181.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/migael-prinsloo"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2024 - 2025) -> Zebre Parma (2025 - 2026)
+benetton rugby trévise (2024 - 2025) -> zebre parma (2025 - 2026)

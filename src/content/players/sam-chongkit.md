@@ -1,7 +1,7 @@
 ---
-title: "Sam Chongkit | サム ・チョンキット"
+title: "Sam Chongkit | サム チョンキット"
 name_en: "Sam Chongkit"
-name_ja: "サム ・チョンキット"
+name_ja: "サム チョンキット"
 slug: "sam-chongkit"
 position: "LO"
 height: "198.0"

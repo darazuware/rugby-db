@@ -1,7 +1,7 @@
 ---
-title: "George BRIDGE | ジョージ-ブリッジ"
+title: "George BRIDGE | ショーシ-フリッシ"
 name_en: "George BRIDGE"
-name_ja: "ジョージ-ブリッジ"
+name_ja: "ショーシ-フリッシ"
 slug: "george-bridge"
 position: "WTB"
 height: "186.0"

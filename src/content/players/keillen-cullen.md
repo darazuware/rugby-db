@@ -1,7 +1,7 @@
 ---
-title: "Keillen CULLEN | Keillen ・ CULLEN"
+title: "Keillen CULLEN | ケイレン カレン"
 name_en: "Keillen CULLEN"
-name_ja: "Keillen ・ CULLEN"
+name_ja: "ケイレン カレン"
 slug: "keillen-cullen"
 position: "SO"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/keillen-cullen"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2022 - 2023) -> Hartpury University (2023 - 2024) -> Hartpury RFC (2024 - 2024) -> Hartpury University (2024 - 2024) -> Hartpury RFC (2025 - 2025) -> Hartpury University (2025 - 2025) -> Ospreys (2025 - 2026)
+gloucester rugby (2022 - 2023) -> hartpury university (2023 - 2024) -> hartpury rfc (2024 - 2024) -> hartpury university (2024 - 2024) -> hartpury rfc (2025 - 2025) -> hartpury university (2025 - 2025) -> ospreys (2025 - 2026)

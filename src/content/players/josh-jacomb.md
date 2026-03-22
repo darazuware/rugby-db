@@ -1,7 +1,7 @@
 ---
-title: "Josh JACOMB | ジョシュ・ジェイコム"
+title: "Josh JACOMB | ショシュ シェイコム"
 name_en: "Josh JACOMB"
-name_ja: "ジョシュ・ジェイコム"
+name_ja: "ショシュ シェイコム"
 slug: "josh-jacomb"
 position: "SO"
 height: "179.0"

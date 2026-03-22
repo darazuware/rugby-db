@@ -1,7 +1,7 @@
 ---
-title: "Alexandre BÉCOGNÉE | アレクサンドル・ベコニェ"
-name_en: "Alexandre BÉCOGNÉE"
-name_ja: "アレクサンドル・ベコニェ"
+title: "Alexandre BECOGNEE | アレクサントル ヘコニェ"
+name_en: "Alexandre BECOGNEE"
+name_ja: "アレクサントル ヘコニェ"
 slug: "alexandre-becognee"
 position: "FL/NO8"
 height: "188.0"

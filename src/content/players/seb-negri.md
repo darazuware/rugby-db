@@ -1,7 +1,7 @@
 ---
-title: "Seb NEGRI | セブ・ネグリ"
+title: "Seb NEGRI | セフ ネクリ"
 name_en: "Seb NEGRI"
-name_ja: "セブ・ネグリ"
+name_ja: "セフ ネクリ"
 slug: "seb-negri"
 position: "FL/No8"
 height: "194.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/seb-negri"
-high_school: ""
+caps: ""
+high_school: "Italy"
 university: ""
-scraped_url: "benetton rugby trévise (2017 - 2026)"
+scraped_url: "https://all.rugby/player/seb-negri"
 ---
 
 ## キャリア遍歴
-Italy
+benetton rugby trévise (2017 - 2026)

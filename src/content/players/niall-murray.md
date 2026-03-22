@@ -1,7 +1,7 @@
 ---
-title: "Niall MURRAY | ナイル ・ MURRAY"
+title: "Niall MURRAY | ニアル マレー"
 name_en: "Niall MURRAY"
-name_ja: "ナイル ・ MURRAY"
+name_ja: "ニアル マレー"
 slug: "niall-murray"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niall-murray"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2018 - 2026)
+connacht rugby (2018 - 2026)

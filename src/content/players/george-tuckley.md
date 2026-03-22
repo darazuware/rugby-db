@@ -1,7 +1,7 @@
 ---
-title: "George TUCKLEY | George ・ TUCKLEY"
+title: "George TUCKLEY"
 name_en: "George TUCKLEY"
-name_ja: "George ・ TUCKLEY"
+name_ja: "George TUCKLEY"
 slug: "george-tuckley"
 position: "PR"
 height: "183.0"

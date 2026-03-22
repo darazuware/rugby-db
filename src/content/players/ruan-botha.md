@@ -1,7 +1,7 @@
 ---
-title: "Ruan Botha | ルアン ・ボタ"
+title: "Ruan Botha | ルアン ホタ"
 name_en: "Ruan Botha"
-name_ja: "ルアン ・ボタ"
+name_ja: "ルアン ホタ"
 slug: "ruan-botha"
 position: "LO"
 height: "205.0"

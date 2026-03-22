@@ -1,6 +1,6 @@
 ---
-title: "François CROS | フランソワ-クロス"
-name_en: "François CROS"
+title: "Francois CROS | フランソワ-クロス"
+name_en: "Francois CROS"
 name_ja: "フランソワ-クロス"
 slug: "francois-cros"
 position: "FL/NO8"

@@ -1,7 +1,7 @@
 ---
-title: "Orbyn Leger | オルビン ・レジャー"
+title: "Orbyn Leger | オルヒン レシャー"
 name_en: "Orbyn Leger"
-name_ja: "オルビン ・レジャー"
+name_ja: "オルヒン レシャー"
 slug: "orbyn-leger"
 position: "CTB"
 height: "184.0"

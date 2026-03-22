@@ -1,7 +1,7 @@
 ---
-title: "Alex HARFORD | アレックス-ハーフォード"
+title: "Alex HARFORD | アレックス-ハーフォート"
 name_en: "Alex HARFORD"
-name_ja: "アレックス-ハーフォード"
+name_ja: "アレックス-ハーフォート"
 slug: "alex-harford"
 position: "SO"
 height: "182.0"

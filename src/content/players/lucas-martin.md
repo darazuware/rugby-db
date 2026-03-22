@@ -1,7 +1,7 @@
 ---
-title: "Lucas MARTIN | ルカス・マルティン"
+title: "Lucas MARTIN | ルカス マルティン"
 name_en: "Lucas MARTIN"
-name_ja: "ルカス・マルティン"
+name_ja: "ルカス マルティン"
 slug: "lucas-martin"
 position: "HO"
 height: "189.0"

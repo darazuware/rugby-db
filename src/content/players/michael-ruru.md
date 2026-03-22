@@ -1,7 +1,7 @@
 ---
-title: "Michael RURU | マイケル・ルル"
+title: "Michael RURU | マイケル ルル"
 name_en: "Michael RURU"
-name_ja: "マイケル・ルル"
+name_ja: "マイケル ルル"
 slug: "michael-ruru"
 position: "SH"
 height: "182.0"

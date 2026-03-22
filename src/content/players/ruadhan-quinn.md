@@ -1,9 +1,9 @@
 ---
-title: "Ruadhán QUINN | Ruadh ・ QUINN"
-name_en: "Ruadhán QUINN"
-name_ja: "Ruadh ・ QUINN"
+title: "Ruadhan QUINN | ルアン クイン"
+name_en: "Ruadhan QUINN"
+name_ja: "ルアン クイン"
 slug: "ruadhan-quinn"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "113.0"
 birth_date: "2003.10.17"
@@ -13,10 +13,10 @@ birth_place_scraped: ""
 league: "urc"
 team: "Munster"
 caps: ""
-high_school: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/ruadhan-quinn"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2022 - 2026)
+munster rugby (2022 - 2026)

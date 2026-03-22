@@ -1,7 +1,7 @@
 ---
-title: "Jac PRICE | Jac ・ PRICE"
+title: "Jac PRICE"
 name_en: "Jac PRICE"
-name_ja: "Jac ・ PRICE"
+name_ja: "Jac PRICE"
 slug: "jac-price-2000"
 position: "LO"
 height: "198.0"

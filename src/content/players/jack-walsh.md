@@ -1,7 +1,7 @@
 ---
-title: "Jack WALSH | ジャック ・ WALSH"
+title: "Jack WALSH | シャック-ウォルシュ"
 name_en: "Jack WALSH"
-name_ja: "ジャック ・ WALSH"
+name_ja: "シャック-ウォルシュ"
 slug: "jack-walsh"
 position: "SO"
 height: "184.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-walsh"
 ---
 
 ## キャリア遍歴
-Manly Marlins (2018 - 2019) -> New South Wales Waratahs (2019 - 2019) -> Exeter Chiefs (2019 - 2019) -> New South Wales Waratahs (2020 - 2020) -> Exeter Chiefs (2020 - 2022) -> Ospreys (2022 - 2026)
+manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2019) -> exeter chiefs (2019 - 2019) -> new south wales waratahs (2020 - 2020) -> exeter chiefs (2020 - 2022) -> ospreys (2022 - 2026)

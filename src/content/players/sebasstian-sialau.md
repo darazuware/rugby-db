@@ -1,7 +1,7 @@
 ---
-title: "Sebasstian Sialau | セバスチャン ・シアラウ"
+title: "Sebasstian Sialau | セハスチャン シアラウ"
 name_en: "Sebasstian Sialau"
-name_ja: "セバスチャン ・シアラウ"
+name_ja: "セハスチャン シアラウ"
 slug: "sebasstian-sialau"
 position: "SO"
 height: "180.0"

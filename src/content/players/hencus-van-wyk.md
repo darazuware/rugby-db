@@ -1,7 +1,7 @@
 ---
-title: "Hencus VAN WYK | Hencus ・ ファン ・ WYK"
+title: "Hencus VAN WYK | ヘンカス-ファン ワイク"
 name_en: "Hencus VAN WYK"
-name_ja: "Hencus ・ ファン ・ WYK"
+name_ja: "ヘンカス-ファン ワイク"
 slug: "hencus-van-wyk"
 position: "PR"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hencus-van-wyk"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2016) -> Lions Rugby (2016 - 2017) -> Sunwolves (2017 - 2019) -> Central Cheetahs (2019 - 2019) -> Sunwolves (2020 - 2020) -> Central Cheetahs (2020 - 2020) -> Free State Cheetahs (2020 - 2021) -> San Diego Legion (2021 - 2022) -> Central Cheetahs (2022 - 2025) -> Stormers (2025 - 2026)
+bulls (2015 - 2016) -> lions rugby (2016 - 2017) -> sunwolves (2017 - 2019) -> central cheetahs (2019 - 2019) -> sunwolves (2020 - 2020) -> central cheetahs (2020 - 2020) -> free state cheetahs (2020 - 2021) -> san diego legion (2021 - 2022) -> central cheetahs (2022 - 2025) -> stormers (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Vusi Simphiwe MOYO | Vusi ・ Simphiwe ・ MOYO"
+title: "Vusi Simphiwe MOYO | ウシ-シンフウェ モヨ"
 name_en: "Vusi Simphiwe MOYO"
-name_ja: "Vusi ・ Simphiwe ・ MOYO"
+name_ja: "ウシ-シンフウェ モヨ"
 slug: "simphiwe-moyo"
 position: "SO"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simphiwe-moyo"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+natal sharks (2024 - 2025) -> sharks (2025 - 2026)

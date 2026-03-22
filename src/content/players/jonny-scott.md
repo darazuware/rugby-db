@@ -1,7 +1,7 @@
 ---
-title: "Jonny SCOTT | Jonny ・ スコット"
+title: "Jonny SCOTT | ショニー スコット"
 name_en: "Jonny SCOTT"
-name_ja: "Jonny ・ スコット"
+name_ja: "ショニー スコット"
 slug: "jonny-scott"
 position: "CTB"
 height: "191.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonny-scott"
 ---
 
 ## キャリア遍歴
-Banbridge RFC (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+banbridge rfc (2023 - 2024) -> ulster rugby (2024 - 2026)

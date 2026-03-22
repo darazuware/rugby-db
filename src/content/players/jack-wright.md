@@ -1,7 +1,7 @@
 ---
-title: "Jack Wright | ジャック ・ライト"
+title: "Jack Wright | シャック ライト"
 name_en: "Jack Wright"
-name_ja: "ジャック ・ライト"
+name_ja: "シャック ライト"
 slug: "jack-wright"
 position: "LO"
 height: "202.0"

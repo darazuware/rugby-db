@@ -1,7 +1,7 @@
 ---
-title: "Paul COSTES | ポール・コスト"
+title: "Paul COSTES | ホール コスト"
 name_en: "Paul COSTES"
-name_ja: "ポール・コスト"
+name_ja: "ホール コスト"
 slug: "paul-costes"
 position: "CTB"
 height: "183.0"

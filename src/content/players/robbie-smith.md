@@ -1,12 +1,12 @@
 ---
-title: "Robbie Smith"
-name_en: "Robbie Smith"
+title: "Robbie SMITH"
+name_en: "Robbie SMITH"
 name_ja: ""
 slug: "robbie-smith"
 position: "Hooker"
 height: ""
 weight: ""
-birth_date: "1998.09.26"
+birth_date: "nan"
 age: 27
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/robbie-smith"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

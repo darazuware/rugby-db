@@ -1,7 +1,7 @@
 ---
-title: "Tiaan JACOBS | ティアン・ジェイコブス"
+title: "Tiaan JACOBS | ティアン シェイコフス"
 name_en: "Tiaan JACOBS"
-name_ja: "ティアン・ジェイコブス"
+name_ja: "ティアン シェイコフス"
 slug: "tiaan-jacobs"
 position: "FL/NO8"
 height: "193.0"

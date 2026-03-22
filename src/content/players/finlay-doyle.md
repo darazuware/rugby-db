@@ -1,7 +1,7 @@
 ---
-title: "Finlay DOYLE | フィンレイ ・ DOYLE"
+title: "Finlay DOYLE | フィンレイ トイル"
 name_en: "Finlay DOYLE"
-name_ja: "フィンレイ ・ DOYLE"
+name_ja: "フィンレイ トイル"
 slug: "finlay-doyle"
 position: "FB"
 height: "191.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finlay-doyle"
 ---
 
 ## キャリア遍歴
-Loughborough University (2023 - 2025) -> Edimbourg Rugby (2025 - 2026)
+loughborough university (2023 - 2025) -> edimbourg rugby (2025 - 2026)

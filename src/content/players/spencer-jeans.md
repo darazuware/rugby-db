@@ -1,7 +1,7 @@
 ---
-title: "Spencer Jeans | スペンサー ・ジーンズ"
+title: "Spencer Jeans | スヘンサー シーンス"
 name_en: "Spencer Jeans"
-name_ja: "スペンサー ・ジーンズ"
+name_ja: "スヘンサー シーンス"
 slug: "spencer-jeans"
 position: "SH"
 height: "175.0"

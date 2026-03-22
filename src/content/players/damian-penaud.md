@@ -1,7 +1,7 @@
 ---
-title: "Damian PENAUD | ダミアン-プノー"
+title: "Damian PENAUD | タミアン-フノー"
 name_en: "Damian PENAUD"
-name_ja: "ダミアン-プノー"
+name_ja: "タミアン-フノー"
 slug: "damian-penaud"
 position: "WTB"
 height: "188.0"

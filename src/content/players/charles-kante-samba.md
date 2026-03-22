@@ -1,7 +1,7 @@
 ---
-title: "Charles KANTÉ-SAMBA | シャルル・カンテ＝サンバ"
-name_en: "Charles KANTÉ-SAMBA"
-name_ja: "シャルル・カンテ＝サンバ"
+title: "Charles KANTE-SAMBA | シャルル カンテ=サンハ"
+name_en: "Charles KANTE-SAMBA"
+name_ja: "シャルル カンテ=サンハ"
 slug: "charles-kante-samba"
 position: "LO"
 height: "200.0"

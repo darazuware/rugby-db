@@ -1,7 +1,7 @@
 ---
-title: "Vernon BASON | ヴァーノン・ベイソン"
+title: "Vernon BASON | ウァーノン ヘイソン"
 name_en: "Vernon BASON"
-name_ja: "ヴァーノン・ベイソン"
+name_ja: "ウァーノン ヘイソン"
 slug: "vernon-bason"
 position: "HO"
 height: "180.0"

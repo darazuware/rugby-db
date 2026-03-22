@@ -1,0 +1,22 @@
+---
+title: "Sam HARRIS"
+name_en: "Sam HARRIS"
+name_ja: ""
+slug: "sam-harris-"
+position: "Fullback"
+height: ""
+weight: ""
+birth_date: "nan"
+age: 22
+country: ""
+birth_place_scraped: ""
+league: "premiership"
+team: "Bath Rugby"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/sam-harris-"
+---
+
+## キャリア遍歴
+

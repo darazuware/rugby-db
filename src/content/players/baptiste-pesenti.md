@@ -1,7 +1,7 @@
 ---
-title: "Baptiste PESENTI | バティスト・プセンティ"
+title: "Baptiste PESENTI | ハティスト フセンティ"
 name_en: "Baptiste PESENTI"
-name_ja: "バティスト・プセンティ"
+name_ja: "ハティスト フセンティ"
 slug: "baptiste-pesenti"
 position: "LO"
 height: "195.0"

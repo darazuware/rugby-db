@@ -1,7 +1,7 @@
 ---
-title: "Tevita Tupou | ツポウ テビタ"
+title: "Tevita Tupou | ツホウ テヒタ"
 name_en: "Tevita Tupou"
-name_ja: "ツポウ テビタ"
+name_ja: "ツホウ テヒタ"
 slug: "tevita-tupou"
 position: "FL/No8"
 height: "185.0"

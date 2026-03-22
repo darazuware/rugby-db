@@ -1,7 +1,7 @@
 ---
-title: "Cammy SCOTT | Cammy ・ スコット"
+title: "Cammy SCOTT | カミー スコット"
 name_en: "Cammy SCOTT"
-name_ja: "Cammy ・ スコット"
+name_ja: "カミー スコット"
 slug: "cameron-scott"
 position: "SO"
 height: "181.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-scott"
 ---
 
 ## キャリア遍歴
-Boroughmuir RFC (2020 - 2021) -> Southern Knights (2021 - 2022) -> London Scottish (2022 - 2022) -> Edimbourg Rugby (2022 - 2022) -> London Scottish (2023 - 2023) -> Edimbourg Rugby (2023 - 2026)
+boroughmuir rfc (2020 - 2021) -> southern knights (2021 - 2022) -> london scottish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london scottish (2023 - 2023) -> edimbourg rugby (2023 - 2026)

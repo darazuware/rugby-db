@@ -1,7 +1,7 @@
 ---
-title: "Rusiate Finau | ルシアテ ・フィナウ"
+title: "Rusiate Finau | ルシアテ フィナウ"
 name_en: "Rusiate Finau"
-name_ja: "ルシアテ ・フィナウ"
+name_ja: "ルシアテ フィナウ"
 slug: "rusiate-finau"
 position: "FL/No8"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Rory THORNTON | Rory ・ THORNTON"
+title: "Rory THORNTON | ロリー ソーントン"
 name_en: "Rory THORNTON"
-name_ja: "Rory ・ THORNTON"
+name_ja: "ロリー ソーントン"
 slug: "rory-thornton"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "Wales"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/rory-thornton"
 ---
 
 ## キャリア遍歴
-Ospreys (2014 - 2018) -> Cardiff Rugby (2018 - 2026)
+ospreys (2014 - 2018) -> cardiff rugby (2018 - 2026)

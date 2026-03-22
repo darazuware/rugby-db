@@ -1,12 +1,12 @@
 ---
-title: "Josh Bayliss"
-name_en: "Josh Bayliss"
+title: "Josh BAYLISS"
+name_en: "Josh BAYLISS"
 name_ja: ""
 slug: "josh-bayliss"
-position: "Flanker"
+position: "Back row"
 height: ""
 weight: ""
-birth_date: "1997.09.18"
+birth_date: "nan"
 age: 28
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "Scotland (10)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/josh-bayliss"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Gryff WATKINS | Gryff ・ WATKINS"
+title: "Gryff WATKINS"
 name_en: "Gryff WATKINS"
-name_ja: "Gryff ・ WATKINS"
+name_ja: "Gryff WATKINS"
 slug: "gryff-watkins"
 position: "CTB"
 height: ""

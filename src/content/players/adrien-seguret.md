@@ -1,7 +1,7 @@
 ---
-title: "Adrien SÉGURET | アドリアン・セギュレ"
-name_en: "Adrien SÉGURET"
-name_ja: "アドリアン・セギュレ"
+title: "Adrien SEGURET | アトリアン セキュレ"
+name_en: "Adrien SEGURET"
+name_ja: "アトリアン セキュレ"
 slug: "adrien-seguret"
 position: "CTB"
 height: "183.0"

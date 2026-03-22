@@ -1,7 +1,7 @@
 ---
-title: "Nathan DECRON | ナタン・ドゥクロン"
+title: "Nathan DECRON | ナタン トゥクロン"
 name_en: "Nathan DECRON"
-name_ja: "ナタン・ドゥクロン"
+name_ja: "ナタン トゥクロン"
 slug: "nathan-decron"
 position: "CTB"
 height: "184.0"

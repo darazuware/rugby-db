@@ -1,7 +1,7 @@
 ---
-title: "Ma'a NONU | マア・ノヌ"
+title: "Ma'a NONU | マア ノヌ"
 name_en: "Ma'a NONU"
-name_ja: "マア・ノヌ"
+name_ja: "マア ノヌ"
 slug: "ma-a-nonu"
 position: "CTB"
 height: "182.0"

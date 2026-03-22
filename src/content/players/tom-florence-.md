@@ -1,7 +1,7 @@
 ---
-title: "Tom FLORENCE | トム ・ FLORENCE"
+title: "Tom FLORENCE | トム フローレンス"
 name_en: "Tom FLORENCE"
-name_ja: "トム ・ FLORENCE"
+name_ja: "トム フローレンス"
 slug: "tom-florence-"
 position: "CTB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-florence-"
 ---
 
 ## キャリア遍歴
-Ospreys (2020 - 2026)
+ospreys (2020 - 2026)

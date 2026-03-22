@@ -1,7 +1,7 @@
 ---
-title: "Quinton Mahina | クイントン ・マヒナ"
+title: "Quinton Mahina | クイントン マヒナ"
 name_en: "Quinton Mahina"
-name_ja: "クイントン ・マヒナ"
+name_ja: "クイントン マヒナ"
 slug: "quinton-mahina"
 position: "CTB"
 height: "174.0"

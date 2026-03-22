@@ -1,7 +1,7 @@
 ---
-title: "Penaia CAKOBAU | ペナイア・ザコバウ"
+title: "Penaia CAKOBAU | ヘナイア サコハウ"
 name_en: "Penaia CAKOBAU"
-name_ja: "ペナイア・ザコバウ"
+name_ja: "ヘナイア サコハウ"
 slug: "penaia-cakobau"
 position: "HO"
 height: "180.0"

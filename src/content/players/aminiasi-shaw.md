@@ -1,7 +1,7 @@
 ---
-title: "Aminiasi Shaw | アミニアシ ・ショー"
+title: "Aminiasi Shaw | アミニアシ ショー"
 name_en: "Aminiasi Shaw"
-name_ja: "アミニアシ ・ショー"
+name_ja: "アミニアシ ショー"
 slug: "aminiasi-shaw"
 position: "FL/No8"
 height: "185.0"

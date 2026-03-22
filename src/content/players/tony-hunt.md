@@ -1,7 +1,7 @@
 ---
-title: "Tony Hunt | トニー ・ハント"
+title: "Tony Hunt | トニー ハント"
 name_en: "Tony Hunt"
-name_ja: "トニー ・ハント"
+name_ja: "トニー ハント"
 slug: "tony-hunt"
 position: "FL/No8"
 height: "190.0"

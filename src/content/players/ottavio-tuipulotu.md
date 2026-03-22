@@ -1,12 +1,12 @@
 ---
-title: "Tavi TUIPULOTU | Tavi ・ TUIPULOTU"
+title: "Tavi TUIPULOTU | タウィ ツイフロトゥ"
 name_en: "Tavi TUIPULOTU"
-name_ja: "Tavi ・ TUIPULOTU"
+name_ja: "タウィ ツイフロトゥ"
 slug: "ottavio-tuipulotu"
 position: "HO"
 height: "181.0"
 weight: "110.0"
-birth_date: "2004.03.07"
+birth_date: "2004.."
 age: 22
 country: ""
 birth_place_scraped: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ottavio-tuipulotu"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Glasgow Warriors (2025 - 2026)
+melbourne rebels (2023 - 2024) -> new south wales waratahs (2024 - 2025) -> glasgow warriors (2025 - 2026)

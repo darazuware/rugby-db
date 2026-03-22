@@ -1,7 +1,7 @@
 ---
-title: "Max Hughes | マックス ・ヒューズ"
+title: "Max Hughes | マックス ヒュース"
 name_en: "Max Hughes"
-name_ja: "マックス ・ヒューズ"
+name_ja: "マックス ヒュース"
 slug: "max-hughes"
 position: "SH"
 height: "169.0"

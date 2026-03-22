@@ -1,7 +1,7 @@
 ---
-title: "Courtnall SKOSAN | コートナル・スコサン"
+title: "Courtnall SKOSAN | コートナル スコサン"
 name_en: "Courtnall SKOSAN"
-name_ja: "コートナル・スコサン"
+name_ja: "コートナル スコサン"
 slug: "courtnall-skosan"
 position: "WTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/courtnall-skosan"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
-scraped_url: "lions rugby (2013 - 2021) -> northampton saints (2021 - 2023) -> stormers (2023 - 2026)"
+scraped_url: "https://all.rugby/player/courtnall-skosan"
 ---
 
 ## キャリア遍歴
-South Africa
+lions rugby (2013 - 2021) -> northampton saints (2021 - 2023) -> stormers (2023 - 2026)

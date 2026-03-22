@@ -1,7 +1,7 @@
 ---
-title: "Jérôme REY | ジェローム・レイ"
-name_en: "Jérôme REY"
-name_ja: "ジェローム・レイ"
+title: "Jerome REY | シェローム レイ"
+name_en: "Jerome REY"
+name_ja: "シェローム レイ"
 slug: "jerome-rey"
 position: "PR"
 height: "183.0"

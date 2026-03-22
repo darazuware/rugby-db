@@ -1,7 +1,7 @@
 ---
-title: "Fisipuna Tuiaki | フィシプナ ・トゥイアキ"
+title: "Fisipuna Tuiaki | フィシフナ トゥイアキ"
 name_en: "Fisipuna Tuiaki"
-name_ja: "フィシプナ ・トゥイアキ"
+name_ja: "フィシフナ トゥイアキ"
 slug: "fisipuna-tuiaki"
 position: "CTB"
 height: "188.0"

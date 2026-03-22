@@ -1,7 +1,7 @@
 ---
-title: "AJ Woulf | エイジェイ ・ウルフ"
+title: "AJ Woulf | エイシェイ ウルフ"
 name_en: "AJ Woulf"
-name_ja: "エイジェイ ・ウルフ"
+name_ja: "エイシェイ ウルフ"
 slug: "aj-woulf"
 position: "LO"
 height: "196.0"

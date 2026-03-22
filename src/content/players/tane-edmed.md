@@ -1,7 +1,7 @@
 ---
-title: "Tane EDMED | テーン・エドメド"
+title: "Tane EDMED | テーン エトメト"
 name_en: "Tane EDMED"
-name_ja: "テーン・エドメド"
+name_ja: "テーン エトメト"
 slug: "tane-edmed"
 position: "SO"
 height: "183.0"

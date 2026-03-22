@@ -1,7 +1,7 @@
 ---
-title: "Christian Lealiifano | クリスチャン ・リアリーファノ"
+title: "Christian Lealiifano | クリスチャン リアリーファノ"
 name_en: "Christian Lealiifano"
-name_ja: "クリスチャン ・リアリーファノ"
+name_ja: "クリスチャン リアリーファノ"
 slug: "christian-lealiifano"
 position: "SO"
 height: "179.0"

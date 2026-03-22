@@ -1,7 +1,7 @@
 ---
-title: "Angelo DAVIDS | アンジェロ・デイヴィッズ"
+title: "Angelo DAVIDS | アンシェロ テイウィッス"
 name_en: "Angelo DAVIDS"
-name_ja: "アンジェロ・デイヴィッズ"
+name_ja: "アンシェロ テイウィッス"
 slug: "angelo-davids"
 position: "WTB"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/angelo-davids"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "stormers (2019 - 2020) -> af. sud 7's (2020 - 2020) -> stormers (2021 - 2021) -> af. sud 7's (2021 - 2021) -> stormers (2021 - 2025) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/angelo-davids"
 ---
 
 ## キャリア遍歴
-
+stormers (2019 - 2020) -> af. sud 7's (2020 - 2020) -> stormers (2021 - 2021) -> af. sud 7's (2021 - 2021) -> stormers (2021 - 2025) -> lions rugby (2025 - 2026)

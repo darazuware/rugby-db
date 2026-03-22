@@ -1,7 +1,7 @@
 ---
-title: "Robin TACCOLA | ロバン・タコラ"
+title: "Robin TACCOLA | ロハン タコラ"
 name_en: "Robin TACCOLA"
-name_ja: "ロバン・タコラ"
+name_ja: "ロハン タコラ"
 slug: "robin-taccola"
 position: "CTB"
 height: "186.0"

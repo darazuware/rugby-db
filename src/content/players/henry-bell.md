@@ -1,7 +1,7 @@
 ---
-title: "Henry BELL | ヘンリー-ベル"
+title: "Henry BELL | ヘンリー-ヘル"
 name_en: "Henry BELL"
-name_ja: "ヘンリー-ベル"
+name_ja: "ヘンリー-ヘル"
 slug: "henry-bell"
 position: "HO"
 height: "178.0"

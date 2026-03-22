@@ -1,7 +1,7 @@
 ---
-title: "Noé DELLA SCHIAVA | ノエ・デッラ・スキアーヴァ"
-name_en: "Noé DELLA SCHIAVA"
-name_ja: "ノエ・デッラ・スキアーヴァ"
+title: "Noe DELLA SCHIAVA | ノエ テッラ スキアーウァ"
+name_en: "Noe DELLA SCHIAVA"
+name_ja: "ノエ テッラ スキアーウァ"
 slug: "noe-della-schiava"
 position: "FL/NO8"
 height: "193.0"

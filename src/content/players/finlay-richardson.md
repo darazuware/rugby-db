@@ -1,7 +1,7 @@
 ---
-title: "Fin RICHARDSON | Fin ・ RICHARDSON"
+title: "Fin RICHARDSON | フィン リチャートソン"
 name_en: "Fin RICHARDSON"
-name_ja: "Fin ・ RICHARDSON"
+name_ja: "フィン リチャートソン"
 slug: "finlay-richardson"
 position: "PR"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finlay-richardson"
 ---
 
 ## キャリア遍歴
-Exeter University RFC (2021 - 2022) -> Exeter Chiefs (2022 - 2023) -> Cornish Pirates (2023 - 2023) -> Exeter Chiefs (2024 - 2024) -> Cornish Pirates (2024 - 2024) -> Glasgow Warriors (2024 - 2026)
+exeter university rfc (2021 - 2022) -> exeter chiefs (2022 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2024 - 2024) -> cornish pirates (2024 - 2024) -> glasgow warriors (2024 - 2026)

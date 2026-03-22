@@ -1,7 +1,7 @@
 ---
-title: "Darcy SWAIN | ダーシー-スウェイン"
+title: "Darcy SWAIN | ターシー-スウェイン"
 name_en: "Darcy SWAIN"
-name_ja: "ダーシー-スウェイン"
+name_ja: "ターシー-スウェイン"
 slug: "darcy-swain"
 position: "LO"
 height: "200.0"

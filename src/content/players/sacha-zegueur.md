@@ -1,7 +1,7 @@
 ---
-title: "Sacha ZEGUEUR | サシャ・ゼゲール"
+title: "Sacha ZEGUEUR | サシャ セケール"
 name_en: "Sacha ZEGUEUR"
-name_ja: "サシャ・ゼゲール"
+name_ja: "サシャ セケール"
 slug: "sacha-zegueur"
 position: "FL/NO8"
 height: "192.0"

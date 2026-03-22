@@ -1,7 +1,7 @@
 ---
-title: "Isaac YOUNG | Isaac ・ YOUNG"
+title: "Isaac YOUNG"
 name_en: "Isaac YOUNG"
-name_ja: "Isaac ・ YOUNG"
+name_ja: "Isaac YOUNG"
 slug: "isaac-young"
 position: "HO"
 height: "180.0"

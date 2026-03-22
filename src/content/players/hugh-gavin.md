@@ -1,7 +1,7 @@
 ---
-title: "Hugh GAVIN | Hugh ・ GAVIN"
+title: "Hugh GAVIN"
 name_en: "Hugh GAVIN"
-name_ja: "Hugh ・ GAVIN"
+name_ja: "Hugh GAVIN"
 slug: "hugh-gavin"
 position: "CTB"
 height: "192.0"

@@ -1,7 +1,7 @@
 ---
-title: "Billy BOHAN | Billy ・ BOHAN"
+title: "Billy BOHAN"
 name_en: "Billy BOHAN"
-name_ja: "Billy ・ BOHAN"
+name_ja: "Billy BOHAN"
 slug: "billy-bohan"
 position: "PR"
 height: "191.0"

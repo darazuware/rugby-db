@@ -1,9 +1,9 @@
 ---
-title: "Harri KEDDIE | Harri ・ KEDDIE"
+title: "Harri KEDDIE | ハリー-ケティー"
 name_en: "Harri KEDDIE"
-name_ja: "Harri ・ KEDDIE"
+name_ja: "ハリー-ケティー"
 slug: "harrison-keddie"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "110.0"
 birth_date: "1996.07.10"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harrison-keddie"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2015 - 2026)
+dragons rfc (2015 - 2026)

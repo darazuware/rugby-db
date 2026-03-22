@@ -1,7 +1,7 @@
 ---
-title: "Théo ATTISSOGBE | テオ・アティソグベ"
-name_en: "Théo ATTISSOGBE"
-name_ja: "テオ・アティソグベ"
+title: "Theo ATTISSOGBE | テオ アティソクヘ"
+name_en: "Theo ATTISSOGBE"
+name_ja: "テオ アティソクヘ"
 slug: "theo-attissogbe"
 position: "WTB"
 height: "182.0"

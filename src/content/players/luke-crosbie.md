@@ -1,9 +1,9 @@
 ---
-title: "Luke CROSBIE | ルーク ・ CROSBIE"
+title: "Luke CROSBIE | ルーク クロスヒー"
 name_en: "Luke CROSBIE"
-name_ja: "ルーク ・ CROSBIE"
+name_ja: "ルーク クロスヒー"
 slug: "luke-crosbie"
-position: "Back row"
+position: "FL/No8"
 height: "196.0"
 weight: "112.0"
 birth_date: "1997.04.22"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Scotland (12)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/luke-crosbie"
+scraped_url: "edimbourg rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2017 - 2026)
+Scotland

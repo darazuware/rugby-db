@@ -1,0 +1,22 @@
+---
+title: "Ciaran DONOGHUE"
+name_en: "Ciaran DONOGHUE"
+name_ja: ""
+slug: "ciaran-donoghue"
+position: "Fullback"
+height: ""
+weight: ""
+birth_date: "nan"
+age: 23
+country: ""
+birth_place_scraped: ""
+league: "premiership"
+team: "Bath Rugby"
+caps: ""
+high_school: ""
+university: ""
+scraped_url: "https://all.rugby/player/ciaran-donoghue"
+---
+
+## キャリア遍歴
+

@@ -1,7 +1,7 @@
 ---
-title: "James HENDREN | ジェームズ・ヘンドレン"
+title: "James HENDREN | シェームス ヘントレン"
 name_en: "James HENDREN"
-name_ja: "ジェームズ・ヘンドレン"
+name_ja: "シェームス ヘントレン"
 slug: "james-hendren"
 position: "FB"
 height: "189.0"

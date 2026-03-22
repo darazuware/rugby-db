@@ -1,7 +1,7 @@
 ---
-title: "Embrose PAPIER | Embrose ・ PAPIER"
+title: "Embrose PAPIER | エンフロス-ハヒエ"
 name_en: "Embrose PAPIER"
-name_ja: "Embrose ・ PAPIER"
+name_ja: "エンフロス-ハヒエ"
 slug: "embrose-papier"
 position: "SH"
 height: "171.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/embrose-papier"
 ---
 
 ## キャリア遍歴
-Bulls (2017 - 2019) -> Sale Sharks (2019 - 2019) -> Bulls (2019 - 2019) -> Sale Sharks (2020 - 2020) -> Bulls (2020 - 2026)
+bulls (2017 - 2019) -> sale sharks (2019 - 2019) -> bulls (2019 - 2019) -> sale sharks (2020 - 2020) -> bulls (2020 - 2026)

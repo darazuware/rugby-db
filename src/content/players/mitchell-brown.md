@@ -1,7 +1,7 @@
 ---
-title: "Mitchell Brown | ミッチェル ・ブラウン"
+title: "Mitchell Brown | ミッチェル フラウン"
 name_en: "Mitchell Brown"
-name_ja: "ミッチェル ・ブラウン"
+name_ja: "ミッチェル フラウン"
 slug: "mitchell-brown"
 position: "LO"
 height: "194.0"

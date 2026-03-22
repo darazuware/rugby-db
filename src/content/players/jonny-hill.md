@@ -1,7 +1,7 @@
 ---
-title: "Jonny HILL | ジョニー・ヒル"
+title: "Jonny HILL | ショニー ヒル"
 name_en: "Jonny HILL"
-name_ja: "ジョニー・ヒル"
+name_ja: "ショニー ヒル"
 slug: "jonny-hill"
 position: "LO"
 height: "202.0"

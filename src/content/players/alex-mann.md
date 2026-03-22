@@ -1,7 +1,7 @@
 ---
-title: "Alex MANN | Alex ・ MANN"
+title: "Alex MANN"
 name_en: "Alex MANN"
-name_ja: "Alex ・ MANN"
+name_ja: "Alex MANN"
 slug: "alex-mann"
 position: "Back row"
 height: "191.0"

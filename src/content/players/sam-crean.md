@@ -1,7 +1,7 @@
 ---
-title: "Sam CREAN | サム ・ CREAN"
+title: "Sam CREAN | サム クリーン"
 name_en: "Sam CREAN"
-name_ja: "サム ・ CREAN"
+name_ja: "サム クリーン"
 slug: "sam-crean"
 position: "PR"
 height: "176.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-crean"
 ---
 
 ## キャリア遍歴
-Saracens (2019 - 2022) -> Ampthill Rugby (2022 - 2022) -> Saracens (2023 - 2023) -> Ampthill Rugby (2023 - 2023) -> Saracens (2023 - 2023) -> Ampthill Rugby (2023 - 2023) -> Saracens (2024 - 2024) -> Ampthill Rugby (2024 - 2024) -> Ulster Rugby (2024 - 2024) -> Ampthill Rugby (2024 - 2024) -> Saracens (2024 - 2024) -> Ulster Rugby (2025 - 2025) -> Ampthill Rugby (2025 - 2025) -> Saracens (2025 - 2025) -> Ulster Rugby (2025 - 2026)
+saracens (2019 - 2022) -> ampthill rugby (2022 - 2022) -> saracens (2023 - 2023) -> ampthill rugby (2023 - 2023) -> saracens (2023 - 2023) -> ampthill rugby (2023 - 2023) -> saracens (2024 - 2024) -> ampthill rugby (2024 - 2024) -> ulster rugby (2024 - 2024) -> ampthill rugby (2024 - 2024) -> saracens (2024 - 2024) -> ulster rugby (2025 - 2025) -> ampthill rugby (2025 - 2025) -> saracens (2025 - 2025) -> ulster rugby (2025 - 2026)

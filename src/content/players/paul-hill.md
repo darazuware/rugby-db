@@ -1,7 +1,7 @@
 ---
-title: "Paul HILL | ポール ・ HILL"
+title: "Paul HILL | ホール ヒル"
 name_en: "Paul HILL"
-name_ja: "ポール ・ HILL"
+name_ja: "ホール ヒル"
 slug: "paul-hill"
 position: "PR"
 height: "189.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "England"
-high_school: ""
+caps: ""
+high_school: "England"
 university: ""
 scraped_url: "https://all.rugby/player/paul-hill"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2015 - 2024) -> Edimbourg Rugby (2024 - 2026)
+northampton saints (2015 - 2024) -> edimbourg rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Leonard KRUMOV | Leonard ・ KRUMOV"
+title: "Leonard KRUMOV | レオナルト クルモフ"
 name_en: "Leonard KRUMOV"
-name_ja: "Leonard ・ KRUMOV"
+name_ja: "レオナルト クルモフ"
 slug: "leonard-krumov"
 position: "LO"
 height: "198.0"
@@ -13,10 +13,10 @@ birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
 caps: ""
-high_school: ""
+high_school: "Italy"
 university: ""
 scraped_url: "https://all.rugby/player/leonard-krumov"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2017 - 2026)
+zebre parma (2017 - 2026)

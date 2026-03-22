@@ -1,7 +1,7 @@
 ---
-title: "Nicolas CORATO | ニコラ・コラト"
+title: "Nicolas CORATO | ニコラ コラト"
 name_en: "Nicolas CORATO"
-name_ja: "ニコラ・コラト"
+name_ja: "ニコラ コラト"
 slug: "nicolas-corato"
 position: "PR"
 height: "184.0"

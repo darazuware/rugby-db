@@ -1,7 +1,7 @@
 ---
-title: "Doug PHILIPSON | ダグ・フィリップソン"
+title: "Doug PHILIPSON | タク フィリッフソン"
 name_en: "Doug PHILIPSON"
-name_ja: "ダグ・フィリップソン"
+name_ja: "タク フィリッフソン"
 slug: "doug-philipson"
 position: "SH"
 height: "171.0"

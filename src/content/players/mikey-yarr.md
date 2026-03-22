@@ -1,7 +1,7 @@
 ---
-title: "Mikey YARR | Mikey ・ YARR"
+title: "Mikey YARR"
 name_en: "Mikey YARR"
-name_ja: "Mikey ・ YARR"
+name_ja: "Mikey YARR"
 slug: "mikey-yarr"
 position: "HO"
 height: ""

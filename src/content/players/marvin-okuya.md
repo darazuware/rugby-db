@@ -1,7 +1,7 @@
 ---
-title: "Marvin OKUYA | マーヴィン・オクヤ"
+title: "Marvin OKUYA | マーウィン オクヤ"
 name_en: "Marvin OKUYA"
-name_ja: "マーヴィン・オクヤ"
+name_ja: "マーウィン オクヤ"
 slug: "marvin-okuya"
 position: "FL/NO8"
 height: "190.0"

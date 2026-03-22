@@ -1,7 +1,7 @@
 ---
-title: "Ben STEVENSON | ベン・スティーヴンソン"
+title: "Ben STEVENSON | ヘン スティーウンソン"
 name_en: "Ben STEVENSON"
-name_ja: "ベン・スティーヴンソン"
+name_ja: "ヘン スティーウンソン"
 slug: "ben-stevenson"
 position: "WTB"
 height: "189.0"

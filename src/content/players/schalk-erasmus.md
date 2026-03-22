@@ -1,7 +1,7 @@
 ---
-title: "Schalk Erasmus | スカルク ・エラスマス"
+title: "Schalk Erasmus | スカルク エラスマス"
 name_en: "Schalk Erasmus"
-name_ja: "スカルク ・エラスマス"
+name_ja: "スカルク エラスマス"
 slug: "schalk-erasmus"
 position: "HO"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
-title: "Evan O'CONNELL | Evan ・ O'CONNELL"
+title: "Evan O'CONNELL"
 name_en: "Evan O'CONNELL"
-name_ja: "Evan ・ O'CONNELL"
+name_ja: "Evan O'CONNELL"
 slug: "evan-o-connell"
 position: "LO"
 height: "200.0"

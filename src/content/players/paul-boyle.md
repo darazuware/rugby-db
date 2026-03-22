@@ -1,9 +1,9 @@
 ---
-title: "Paul BOYLE | ポール ・ BOYLE"
+title: "Paul BOYLE | ホール ホイル"
 name_en: "Paul BOYLE"
-name_ja: "ポール ・ BOYLE"
+name_ja: "ホール ホイル"
 slug: "paul-boyle"
-position: "Back row"
+position: "FL/No8"
 height: "189.0"
 weight: "112.0"
 birth_date: "1997.01.14"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-boyle"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2017 - 2026)
+connacht rugby (2017 - 2026)

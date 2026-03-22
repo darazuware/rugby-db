@@ -1,7 +1,7 @@
 ---
-title: "Vince Aso | ヴィンス ・アソ"
+title: "Vince Aso | ウィンス アソ"
 name_en: "Vince Aso"
-name_ja: "ヴィンス ・アソ"
+name_ja: "ウィンス アソ"
 slug: "vince-aso"
 position: "CTB"
 height: "185.0"

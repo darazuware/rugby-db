@@ -1,7 +1,7 @@
 ---
-title: "Lotu Inisi | ロトゥ ・イニシ"
+title: "Lotu Inisi | ロトゥ イニシ"
 name_en: "Lotu Inisi"
-name_ja: "ロトゥ ・イニシ"
+name_ja: "ロトゥ イニシ"
 slug: "lotu-inisi"
 position: "FL/No8"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Fraser Quirk | フレイザー ・クワーク"
+title: "Fraser Quirk | フレイサー クワーク"
 name_en: "Fraser Quirk"
-name_ja: "フレイザー ・クワーク"
+name_ja: "フレイサー クワーク"
 slug: "fraser-quirk"
 position: "CTB"
 height: "187.0"

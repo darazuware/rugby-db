@@ -1,7 +1,7 @@
 ---
-title: "Isikeli BASIYALO | イシケリ・バシヤロ"
+title: "Isikeli BASIYALO | イシケリ ハシヤロ"
 name_en: "Isikeli BASIYALO"
-name_ja: "イシケリ・バシヤロ"
+name_ja: "イシケリ ハシヤロ"
 slug: "isikeli-basiyalo"
 position: "WTB"
 height: ""

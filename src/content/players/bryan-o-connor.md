@@ -1,7 +1,7 @@
 ---
-title: "Bryan O'CONNOR | Bryan ・ O'CONNOR"
+title: "Bryan O'CONNOR | フライアン オコナー"
 name_en: "Bryan O'CONNOR"
-name_ja: "Bryan ・ O'CONNOR"
+name_ja: "フライアン オコナー"
 slug: "bryan-o-connor"
 position: "PR"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bryan-o-connor"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2017 - 2018) -> London Irish (2019 - 2020) -> Gloucester Rugby (2020 - 2023) -> Bedford Blues (2023 - 2024) -> Ulster Rugby (2024 - 2024) -> Bedford Blues (2025 - 2025) -> Ulster Rugby (2025 - 2026)
+munster rugby (2017 - 2018) -> london irish (2019 - 2020) -> gloucester rugby (2020 - 2023) -> bedford blues (2023 - 2024) -> ulster rugby (2024 - 2024) -> bedford blues (2025 - 2025) -> ulster rugby (2025 - 2026)

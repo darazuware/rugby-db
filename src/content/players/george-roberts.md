@@ -1,7 +1,7 @@
 ---
-title: "George ROBERTS | George ・ ROBERTS"
+title: "George ROBERTS | ショーシ ロハーツ"
 name_en: "George ROBERTS"
-name_ja: "George ・ ROBERTS"
+name_ja: "ショーシ ロハーツ"
 slug: "george-roberts"
 position: "HO"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-roberts"
 ---
 
 ## キャリア遍歴
-RGC 1404 (2019 - 2020) -> Doncaster Knights (2020 - 2025) -> Dragons RFC (2025 - 2025) -> Doncaster Knights (2026 - 2026) -> Dragons RFC (2026 - 2026)
+rgc 1404 (2019 - 2020) -> doncaster knights (2020 - 2025) -> dragons rfc (2025 - 2025) -> doncaster knights (2026 - 2026) -> dragons rfc (2026 - 2026)

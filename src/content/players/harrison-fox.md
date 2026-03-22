@@ -1,7 +1,7 @@
 ---
-title: "Harrison Fox | ハリソン ・フォックス"
+title: "Harrison Fox | ハリソン フォックス"
 name_en: "Harrison Fox"
-name_ja: "ハリソン ・フォックス"
+name_ja: "ハリソン フォックス"
 slug: "harrison-fox"
 position: "LO"
 height: "198.0"

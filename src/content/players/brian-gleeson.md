@@ -1,7 +1,7 @@
 ---
-title: "Brian GLEESON | Brian ・ GLEESON"
+title: "Brian GLEESON"
 name_en: "Brian GLEESON"
-name_ja: "Brian ・ GLEESON"
+name_ja: "Brian GLEESON"
 slug: "brian-gleeson"
 position: "Back row"
 height: "193.0"

@@ -1,7 +1,7 @@
 ---
-title: "Henco VAN WYK | Henco ・ ファン ・ WYK"
+title: "Henco VAN WYK | ヘンコ-ファン ワイク"
 name_en: "Henco VAN WYK"
-name_ja: "Henco ・ ファン ・ WYK"
+name_ja: "ヘンコ-ファン ワイク"
 slug: "henco-van-wyk"
 position: "CTB"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henco-van-wyk"
 ---
 
 ## キャリア遍歴
-Golden Lions (2020 - 2021) -> Lions Rugby (2021 - 2026)
+golden lions (2020 - 2021) -> lions rugby (2021 - 2026)

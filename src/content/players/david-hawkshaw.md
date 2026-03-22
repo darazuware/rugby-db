@@ -1,7 +1,7 @@
 ---
-title: "David HAWKSHAW | デイヴィッド・ホークショー"
+title: "David HAWKSHAW | テイウィット ホークショー"
 name_en: "David HAWKSHAW"
-name_ja: "デイヴィッド・ホークショー"
+name_ja: "テイウィット ホークショー"
 slug: "david-hawkshaw"
 position: "CTB"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/david-hawkshaw"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2018 - 2022) -> connacht rugby (2022 - 2026)"
+scraped_url: "https://all.rugby/player/david-hawkshaw"
 ---
 
 ## キャリア遍歴
-
+leinster rugby (2018 - 2022) -> connacht rugby (2022 - 2026)

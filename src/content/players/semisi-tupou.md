@@ -1,7 +1,7 @@
 ---
-title: "Semisi Tupou | セミシ ・トゥポウ"
+title: "Semisi Tupou | セミシ トゥホウ"
 name_en: "Semisi Tupou"
-name_ja: "セミシ ・トゥポウ"
+name_ja: "セミシ トゥホウ"
 slug: "semisi-tupou"
 position: "WTB"
 height: "190.0"

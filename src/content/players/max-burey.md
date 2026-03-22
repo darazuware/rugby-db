@@ -1,7 +1,7 @@
 ---
-title: "Max BUREY | マックス・ビュリー"
+title: "Max BUREY | マックス ヒュリー"
 name_en: "Max BUREY"
-name_ja: "マックス・ビュリー"
+name_ja: "マックス ヒュリー"
 slug: "max-burey"
 position: "SO"
 height: "178.0"

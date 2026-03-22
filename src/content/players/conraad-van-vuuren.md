@@ -1,7 +1,7 @@
 ---
-title: "Conraad VAN VUUREN | コンラッド・ファン・ビューレン"
+title: "Conraad VAN VUUREN | コンラット ファン ヒューレン"
 name_en: "Conraad VAN VUUREN"
-name_ja: "コンラッド・ファン・ビューレン"
+name_ja: "コンラット ファン ヒューレン"
 slug: "conraad-van-vuuren"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/conraad-van-vuuren"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2016 - 2019) -> sunwolves (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> lions rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/conraad-van-vuuren"
 ---
 
 ## キャリア遍歴
-
+bulls (2016 - 2019) -> sunwolves (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> lions rugby (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Ray Tatafu | レイ ・タタフ"
+title: "Ray Tatafu | レイ タタフ"
 name_en: "Ray Tatafu"
-name_ja: "レイ ・タタフ"
+name_ja: "レイ タタフ"
 slug: "ray-tatafu"
 position: "LO"
 height: "195.0"

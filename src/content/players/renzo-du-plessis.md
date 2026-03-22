@@ -1,9 +1,9 @@
 ---
-title: "Renzo DU PLESSIS | Renzo ・ デュ ・ PLESSIS"
+title: "Renzo DU PLESSIS | レンソ テュ フレシス"
 name_en: "Renzo DU PLESSIS"
-name_ja: "Renzo ・ デュ ・ PLESSIS"
+name_ja: "レンソ テュ フレシス"
 slug: "renzo-du-plessis"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "108.0"
 birth_date: "2002.07.12"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/renzo-du-plessis"
 ---
 
 ## キャリア遍歴
-Golden Lions (2022 - 2023) -> Lions Rugby (2023 - 2026)
+golden lions (2022 - 2023) -> lions rugby (2023 - 2026)

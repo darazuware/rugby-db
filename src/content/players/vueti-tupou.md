@@ -1,7 +1,7 @@
 ---
-title: "Vueti Tupou | ヴェティ ・トゥポウ"
+title: "Vueti Tupou | ウェティ トゥホウ"
 name_en: "Vueti Tupou"
-name_ja: "ヴェティ ・トゥポウ"
+name_ja: "ウェティ トゥホウ"
 slug: "vueti-tupou"
 position: "FL/No8"
 height: "190.0"

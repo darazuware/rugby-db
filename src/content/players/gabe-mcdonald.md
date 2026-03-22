@@ -1,7 +1,7 @@
 ---
-title: "Gabe MCDONALD | Gabe ・ MCDONALD"
+title: "Gabe MCDONALD"
 name_en: "Gabe MCDONALD"
-name_ja: "Gabe ・ MCDONALD"
+name_ja: "Gabe MCDONALD"
 slug: "gabe-mcdonald"
 position: "CTB"
 height: "190.0"

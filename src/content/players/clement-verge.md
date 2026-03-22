@@ -1,7 +1,7 @@
 ---
-title: "Clément VERGÉ | クレマン・ヴェルジェ"
-name_en: "Clément VERGÉ"
-name_ja: "クレマン・ヴェルジェ"
+title: "Clement VERGE | クレマン ウェルシェ"
+name_en: "Clement VERGE"
+name_ja: "クレマン ウェルシェ"
 slug: "clement-verge"
 position: "LO"
 height: "200.0"

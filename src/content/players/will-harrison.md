@@ -1,7 +1,7 @@
 ---
-title: "Will Harrison | ウィル ・ハリソン"
+title: "Will Harrison | ウィル ハリソン"
 name_en: "Will Harrison"
-name_ja: "ウィル ・ハリソン"
+name_ja: "ウィル ハリソン"
 slug: "will-harrison"
 position: "SO"
 height: "178.0"

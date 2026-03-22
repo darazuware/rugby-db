@@ -1,7 +1,7 @@
 ---
-title: "Kadin PRITCHARD | ケイディン・プリチャード"
+title: "Kadin PRITCHARD | ケイティン フリチャート"
 name_en: "Kadin PRITCHARD"
-name_ja: "ケイディン・プリチャード"
+name_ja: "ケイティン フリチャート"
 slug: "kadin-pritchard"
 position: "CTB"
 height: "191.0"

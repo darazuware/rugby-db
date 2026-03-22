@@ -1,7 +1,7 @@
 ---
-title: "Josh SMITH | ジョシュ・スミス"
+title: "Josh SMITH | ショシュ スミス"
 name_en: "Josh SMITH"
-name_ja: "ジョシュ・スミス"
+name_ja: "ショシュ スミス"
 slug: "joshua-smith"
 position: "PR"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Huw ANDERSON | Huw ・ ANDERSON"
+title: "Huw ANDERSON | ヒュー-アンターソン"
 name_en: "Huw ANDERSON"
-name_ja: "Huw ・ ANDERSON"
+name_ja: "ヒュー-アンターソン"
 slug: "huw-anderson"
 position: "FB"
 height: "178.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/huw-anderson"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2022 - 2026)
+dragons rfc (2022 - 2026)

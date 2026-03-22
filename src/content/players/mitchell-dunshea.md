@@ -1,7 +1,7 @@
 ---
-title: "Mitch DUNSHEA | ミッチ・ダンシェイ"
+title: "Mitch DUNSHEA | ミッチ タンシェイ"
 name_en: "Mitch DUNSHEA"
-name_ja: "ミッチ・ダンシェイ"
+name_ja: "ミッチ タンシェイ"
 slug: "mitchell-dunshea"
 position: "LO"
 height: "197.0"

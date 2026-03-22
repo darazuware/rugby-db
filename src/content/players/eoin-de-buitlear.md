@@ -1,7 +1,7 @@
 ---
-title: "Eoin DE BUITLÉAR | オーウェン ・ デ ・ BUITL ・ AR"
-name_en: "Eoin DE BUITLÉAR"
-name_ja: "オーウェン ・ デ ・ BUITL ・ AR"
+title: "Eoin DE BUITLEAR | オーウェン テ BUITL AR"
+name_en: "Eoin DE BUITLEAR"
+name_ja: "オーウェン テ BUITL AR"
 slug: "eoin-de-buitlear"
 position: "HO"
 height: "175.0"

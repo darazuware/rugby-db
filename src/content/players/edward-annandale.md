@@ -1,7 +1,7 @@
 ---
-title: "Edward Annandale | エドワード ・アナンデール"
+title: "Edward Annandale | エトワート アナンテール"
 name_en: "Edward Annandale"
-name_ja: "エドワード ・アナンデール"
+name_ja: "エトワート アナンテール"
 slug: "edward-annandale"
 position: "LO"
 height: "200.0"

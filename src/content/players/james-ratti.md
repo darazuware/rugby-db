@@ -1,7 +1,7 @@
 ---
-title: "James RATTI | ジェームズ ・ RATTI"
+title: "James RATTI | シェームス-ラッティ"
 name_en: "James RATTI"
-name_ja: "ジェームズ ・ RATTI"
+name_ja: "シェームス-ラッティ"
 slug: "james-ratti"
 position: "LO"
 height: "196.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "Wales"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/james-ratti"
 ---
 
 ## キャリア遍歴
-Ospreys (2017 - 2019) -> Cardiff Rugby (2019 - 2023) -> Ospreys (2023 - 2026)
+ospreys (2017 - 2019) -> cardiff rugby (2019 - 2023) -> ospreys (2023 - 2026)

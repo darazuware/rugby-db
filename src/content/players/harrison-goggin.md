@@ -1,7 +1,7 @@
 ---
-title: "Harrison Goggin | ハリソン ・ゴギン"
+title: "Harrison Goggin | ハリソン コキン"
 name_en: "Harrison Goggin"
-name_ja: "ハリソン ・ゴギン"
+name_ja: "ハリソン コキン"
 slug: "harrison-goggin"
 position: "LO"
 height: "206.0"

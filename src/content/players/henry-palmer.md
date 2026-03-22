@@ -1,7 +1,7 @@
 ---
-title: "Henry PALMER | ヘンリー・パルマー"
+title: "Henry PALMER | ヘンリー ハルマー"
 name_en: "Henry PALMER"
-name_ja: "ヘンリー・パルマー"
+name_ja: "ヘンリー ハルマー"
 slug: "henry-palmer"
 position: "WTB"
 height: ""

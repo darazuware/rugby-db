@@ -1,7 +1,7 @@
 ---
-title: "Lee FITZPATRICK | Lee ・ FITZPATRICK"
+title: "Lee FITZPATRICK | リー フィッツハトリック"
 name_en: "Lee FITZPATRICK"
-name_ja: "Lee ・ FITZPATRICK"
+name_ja: "リー フィッツハトリック"
 slug: "lee-fitzpatrick"
 position: "HO"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lee-fitzpatrick"
 ---
 
 ## キャリア遍歴
-Newbridge College (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+newbridge college (2024 - 2025) -> leinster rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Joey MANU | ジョーイー・マヌ"
+title: "Joey MANU | ショーイー マヌ"
 name_en: "Joey MANU"
-name_ja: "ジョーイー・マヌ"
+name_ja: "ショーイー マヌ"
 slug: "joseph-manu"
 position: "CTB"
 height: "192.0"

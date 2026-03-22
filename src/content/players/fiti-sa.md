@@ -1,7 +1,7 @@
 ---
-title: "Fiti SA | フィティ・サ"
+title: "Fiti SA | フィティ サ"
 name_en: "Fiti SA"
-name_ja: "フィティ・サ"
+name_ja: "フィティ サ"
 slug: "fiti-sa"
 position: "LO"
 height: "202.0"

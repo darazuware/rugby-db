@@ -1,7 +1,7 @@
 ---
-title: "Mawande MDANDA | Mawande ・ MDANDA"
+title: "Mawande MDANDA | マワンテ ムタンタ"
 name_en: "Mawande MDANDA"
-name_ja: "Mawande ・ MDANDA"
+name_ja: "マワンテ ムタンタ"
 slug: "mawande-mdanda"
 position: "PR"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mawande-mdanda"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2022 - 2023) -> Natal Sharks (2023 - 2024) -> Sharks (2024 - 2026)
+blue bulls (2022 - 2023) -> natal sharks (2023 - 2024) -> sharks (2024 - 2026)

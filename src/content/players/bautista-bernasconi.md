@@ -1,7 +1,7 @@
 ---
-title: "Bautista BERNASCONI | バウティスタ・ベルナスコーニ"
+title: "Bautista BERNASCONI | ハウティスタ ヘルナスコーニ"
 name_en: "Bautista BERNASCONI"
-name_ja: "バウティスタ・ベルナスコーニ"
+name_ja: "ハウティスタ ヘルナスコーニ"
 slug: "bautista-bernasconi"
 position: "HO"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "https://all.rugby/player/bautista-bernasconi"
-high_school: ""
+caps: ""
+high_school: "Argentina"
 university: ""
-scraped_url: "jaguares xv (2020 - 2022) -> benetton rugby trévise (2022 - 2026)"
+scraped_url: "https://all.rugby/player/bautista-bernasconi"
 ---
 
 ## キャリア遍歴
-Argentina
+jaguares xv (2020 - 2022) -> benetton rugby trévise (2022 - 2026)

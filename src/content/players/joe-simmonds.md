@@ -1,7 +1,7 @@
 ---
-title: "Joe SIMMONDS | ジョー・シモンズ"
+title: "Joe SIMMONDS | ショー シモンス"
 name_en: "Joe SIMMONDS"
-name_ja: "ジョー・シモンズ"
+name_ja: "ショー シモンス"
 slug: "joe-simmonds"
 position: "SO"
 height: "183.0"

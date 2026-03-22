@@ -1,7 +1,7 @@
 ---
-title: "RF SCHOEMAN | RF ・ SCHOEMAN"
+title: "RF SCHOEMAN | RF スホーマン"
 name_en: "RF SCHOEMAN"
-name_ja: "RF ・ SCHOEMAN"
+name_ja: "RF スホーマン"
 slug: "rf-schoeman"
 position: "PR"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rf-schoeman"
 ---
 
 ## キャリア遍歴
-Golden Lions (2023 - 2024) -> Lions Rugby (2024 - 2026)
+golden lions (2023 - 2024) -> lions rugby (2024 - 2026)

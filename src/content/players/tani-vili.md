@@ -1,7 +1,7 @@
 ---
-title: "Tani VILI | タニ・ヴィリ"
+title: "Tani VILI | タニ ウィリ"
 name_en: "Tani VILI"
-name_ja: "タニ・ヴィリ"
+name_ja: "タニ ウィリ"
 slug: "tani-vili"
 position: "CTB"
 height: "187.0"

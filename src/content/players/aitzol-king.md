@@ -1,7 +1,7 @@
 ---
-title: "Aitzol KING | Aitzol ・ KING"
+title: "Aitzol KING"
 name_en: "Aitzol KING"
-name_ja: "Aitzol ・ KING"
+name_ja: "Aitzol KING"
 slug: "aitzol-king"
 position: "Winger"
 height: "191.0"

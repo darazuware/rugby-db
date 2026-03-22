@@ -1,7 +1,7 @@
 ---
-title: "Mirco SPAGNOLO | Mirco ・ SPAGNOLO"
+title: "Mirco SPAGNOLO | ミルコ スハニョーロ"
 name_en: "Mirco SPAGNOLO"
-name_ja: "Mirco ・ SPAGNOLO"
+name_ja: "ミルコ スハニョーロ"
 slug: "mirco-spagnolo"
 position: "PR"
 height: "186.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mirco-spagnolo"
 ---
 
 ## キャリア遍歴
-Petrarca Rugby (2022 - 2023) -> Benetton Rugby Trévise (2023 - 2026)
+petrarca rugby (2022 - 2023) -> benetton rugby trévise (2023 - 2026)

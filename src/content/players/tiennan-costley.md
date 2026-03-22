@@ -1,7 +1,7 @@
 ---
-title: "Tiennan Costley | ティエナン ・コストリー"
+title: "Tiennan Costley | ティエナン コストリー"
 name_en: "Tiennan Costley"
-name_ja: "ティエナン ・コストリー"
+name_ja: "ティエナン コストリー"
 slug: "tiennan-costley"
 position: "FL/No8"
 height: "192.0"

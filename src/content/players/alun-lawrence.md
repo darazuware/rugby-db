@@ -1,7 +1,7 @@
 ---
-title: "Alun LAWRENCE | アラン・ローレンス"
+title: "Alun LAWRENCE | アラン ローレンス"
 name_en: "Alun LAWRENCE"
-name_ja: "アラン・ローレンス"
+name_ja: "アラン ローレンス"
 slug: "alun-lawrence"
 position: "FL/No8"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/alun-lawrence"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2017 - 2021) -> jersey reds (2021 - 2021) -> cardiff rugby (2022 - 2022) -> jersey reds (2022 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/alun-lawrence"
 ---
 
 ## キャリア遍歴
-
+cardiff rugby (2017 - 2021) -> jersey reds (2021 - 2021) -> cardiff rugby (2022 - 2022) -> jersey reds (2022 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)

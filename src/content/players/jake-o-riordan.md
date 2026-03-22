@@ -1,7 +1,7 @@
 ---
-title: "Jake O'RIORDAN | Jake ・ O'RIORDAN"
+title: "Jake O'RIORDAN | シェイク オリオータン"
 name_en: "Jake O'RIORDAN"
-name_ja: "Jake ・ O'RIORDAN"
+name_ja: "シェイク オリオータン"
 slug: "jake-o-riordan"
 position: "SH"
 height: "170.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---
 
 ## キャリア遍歴
-University of Limerick Bohemian RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+university of limerick bohemian rfc (2023 - 2024) -> munster rugby (2024 - 2026)

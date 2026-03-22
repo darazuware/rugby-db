@@ -1,7 +1,7 @@
 ---
-title: "Matthew URWIN | マシュー ・ URWIN"
+title: "Matthew URWIN | マシュー URWIN"
 name_en: "Matthew URWIN"
-name_ja: "マシュー ・ URWIN"
+name_ja: "マシュー URWIN"
 slug: "matthew-urwin"
 position: "SO"
 height: "181.0"

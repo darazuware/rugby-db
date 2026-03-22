@@ -1,7 +1,7 @@
 ---
-title: "Alivereti RAKA | アリヴェレティ-ラカ"
+title: "Alivereti RAKA | アリウェレティ-ラカ"
 name_en: "Alivereti RAKA"
-name_ja: "アリヴェレティ-ラカ"
+name_ja: "アリウェレティ-ラカ"
 slug: "alivereti-raka"
 position: "WTB"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Xavier Stowers | ゼイビア ・スタワーズ"
+title: "Xavier Stowers | セイヒア スタワース"
 name_en: "Xavier Stowers"
-name_ja: "ゼイビア ・スタワーズ"
+name_ja: "セイヒア スタワース"
 slug: "xavier-stowers"
 position: "FL/No8"
 height: "196.0"

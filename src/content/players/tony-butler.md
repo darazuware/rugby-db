@@ -1,7 +1,7 @@
 ---
-title: "Tony BUTLER | トニー・バトラー"
+title: "Tony BUTLER | トニー ハトラー"
 name_en: "Tony BUTLER"
-name_ja: "トニー・バトラー"
+name_ja: "トニー ハトラー"
 slug: "tony-butler"
 position: "SO"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/tony-butler"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/tony-butler"
 ---
 
 ## キャリア遍歴
-
+munster rugby (2021 - 2026)

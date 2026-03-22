@@ -1,7 +1,7 @@
 ---
-title: "Paul DE WET | ポール ・ デ ・ WET"
+title: "Paul DE WET | ホール テ ウェット"
 name_en: "Paul DE WET"
-name_ja: "ポール ・ デ ・ WET"
+name_ja: "ホール テ ウェット"
 slug: "albertus-de-wet"
 position: "SH"
 height: "176.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/albertus-de-wet"
 ---
 
 ## キャリア遍歴
-Stormers (2017 - 2025) -> Bulls (2025 - 2026)
+stormers (2017 - 2025) -> bulls (2025 - 2026)

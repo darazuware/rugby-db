@@ -1,7 +1,7 @@
 ---
-title: "Alex CRAIG | アレックス-クレイグ"
+title: "Alex CRAIG"
 name_en: "Alex CRAIG"
-name_ja: "アレックス-クレイグ"
+name_ja: "Alex CRAIG"
 slug: "alex-craig"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Call-ups (2)"
 high_school: ""
 university: ""
-scraped_url: "gloucester rugby (2018 - 2023) -> scarlets (2023 - 2025) -> glasgow warriors (2025 - 2026)"
+scraped_url: "https://all.rugby/player/alex-craig"
 ---
 
 ## キャリア遍歴
-Scotland
+Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - 2025) -> Glasgow Warriors (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Bobby SHEEHAN | Bobby ・ SHEEHAN"
+title: "Bobby SHEEHAN"
 name_en: "Bobby SHEEHAN"
-name_ja: "Bobby ・ SHEEHAN"
+name_ja: "Bobby SHEEHAN"
 slug: "bobby-sheehan"
 position: "HO"
 height: "196.0"

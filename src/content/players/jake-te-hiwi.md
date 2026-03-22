@@ -1,7 +1,7 @@
 ---
-title: "Jake TE HIWI | ジェイク-テ・ヒウィ"
+title: "Jake TE HIWI | シェイク-テ ヒウィ"
 name_en: "Jake TE HIWI"
-name_ja: "ジェイク-テ・ヒウィ"
+name_ja: "シェイク-テ ヒウィ"
 slug: "jake-te-hiwi"
 position: "CTB"
 height: "184.0"

@@ -1,7 +1,7 @@
 ---
-title: "Iori BADHAM | Iori ・ BADHAM"
+title: "Iori BADHAM | イオリ ハタム"
 name_en: "Iori BADHAM"
-name_ja: "Iori ・ BADHAM"
+name_ja: "イオリ ハタム"
 slug: "iori-badham"
 position: "FB"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/iori-badham"
 ---
 
 ## キャリア遍歴
-Scarlets (2023 - 2026)
+scarlets (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Ollie MCKENNA | Ollie ・ MCKENNA"
+title: "Ollie MCKENNA | オリー マッケンナ"
 name_en: "Ollie MCKENNA"
-name_ja: "Ollie ・ MCKENNA"
+name_ja: "オリー マッケンナ"
 slug: "ollie-mckenna"
 position: "PR"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ollie-mckenna"
 ---
 
 ## キャリア遍歴
-Glasgow Hutchesons Aloysians RFC (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+glasgow hutchesons aloysians rfc (2023 - 2024) -> glasgow warriors (2024 - 2026)

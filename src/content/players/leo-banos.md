@@ -1,7 +1,7 @@
 ---
-title: "Léo BANOS | レオ・バノス"
-name_en: "Léo BANOS"
-name_ja: "レオ・バノス"
+title: "Leo BANOS | レオ ハノス"
+name_en: "Leo BANOS"
+name_ja: "レオ ハノス"
 slug: "leo-banos"
 position: "FL/NO8"
 height: "191.0"

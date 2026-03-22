@@ -1,7 +1,7 @@
 ---
-title: "Nick THOMAS | Nick ・ トーマス"
+title: "Nick THOMAS | Nick トーマス"
 name_en: "Nick THOMAS"
-name_ja: "Nick ・ トーマス"
+name_ja: "Nick トーマス"
 slug: "nick-thomas"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Hamish MULLER | ヘイミッシュ・ミューラー"
+title: "Hamish MULLER | ヘイミッシュ ミューラー"
 name_en: "Hamish MULLER"
-name_ja: "ヘイミッシュ・ミューラー"
+name_ja: "ヘイミッシュ ミューラー"
 slug: "hamish-muller"
 position: "LO"
 height: ""

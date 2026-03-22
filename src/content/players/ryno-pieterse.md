@@ -1,7 +1,7 @@
 ---
-title: "Ryno Pieterse | ライノ ・ピータース"
+title: "Ryno Pieterse | ライノ ヒータース"
 name_en: "Ryno Pieterse"
-name_ja: "ライノ ・ピータース"
+name_ja: "ライノ ヒータース"
 slug: "ryno-pieterse"
 position: "LO"
 height: "197.0"

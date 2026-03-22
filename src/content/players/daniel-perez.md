@@ -1,7 +1,7 @@
 ---
-title: "Daniel Perez | ダニエル ・ペレズ"
+title: "Daniel Perez | タニエル ヘレス"
 name_en: "Daniel Perez"
-name_ja: "ダニエル ・ペレズ"
+name_ja: "タニエル ヘレス"
 slug: "daniel-perez"
 position: "PR"
 height: "185.0"

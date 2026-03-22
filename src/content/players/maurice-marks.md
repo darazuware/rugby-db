@@ -1,7 +1,7 @@
 ---
-title: "Maurice Marks | モーリス ・マークス"
+title: "Maurice Marks | モーリス マークス"
 name_en: "Maurice Marks"
-name_ja: "モーリス ・マークス"
+name_ja: "モーリス マークス"
 slug: "maurice-marks"
 position: "WTB"
 height: "180.0"

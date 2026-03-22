@@ -1,7 +1,7 @@
 ---
-title: "Melvyn RATES | メルヴィン・ラテ"
+title: "Melvyn RATES | メルウィン ラテ"
 name_en: "Melvyn RATES"
-name_ja: "メルヴィン・ラテ"
+name_ja: "メルウィン ラテ"
 slug: "melvyn-rates"
 position: "WTB"
 height: "180.0"

@@ -1,7 +1,7 @@
 ---
-title: "Billy Burns | ビリー ・バーンズ"
+title: "Billy Burns | ヒリー ハーンス"
 name_en: "Billy Burns"
-name_ja: "ビリー ・バーンズ"
+name_ja: "ヒリー ハーンス"
 slug: "billy-burns"
 position: "SO"
 height: "183.0"

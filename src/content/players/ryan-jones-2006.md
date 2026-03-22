@@ -1,9 +1,9 @@
 ---
-title: "Ryan JONES | ライアン ・ JONES"
+title: "Ryan JONES | ライアン ショーンス"
 name_en: "Ryan JONES"
-name_ja: "ライアン ・ JONES"
+name_ja: "ライアン ショーンス"
 slug: "ryan-jones-2006"
-position: "Back row"
+position: "FL/No8"
 height: "182.0"
 weight: "93.0"
 birth_date: "2006.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "Wales (53)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ryan-jones-2006"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2024 - 2026)
+dragons rfc (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Craig Millar | クレイグ ・ミラー"
+title: "Craig Millar | クレイク ミラー"
 name_en: "Craig Millar"
-name_ja: "クレイグ ・ミラー"
+name_ja: "クレイク ミラー"
 slug: "craig-millar"
 position: "PR"
 height: "186.0"

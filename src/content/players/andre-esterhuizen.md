@@ -1,7 +1,7 @@
 ---
-title: "André ESTERHUIZEN | Andr ・ ESTERHUIZEN"
-name_en: "André ESTERHUIZEN"
-name_ja: "Andr ・ ESTERHUIZEN"
+title: "Andre ESTERHUIZEN | Andr ESTERHUIZEN"
+name_en: "Andre ESTERHUIZEN"
+name_ja: "Andr ESTERHUIZEN"
 slug: "andre-esterhuizen"
 position: "CTB"
 height: "193.0"

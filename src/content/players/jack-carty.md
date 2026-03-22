@@ -1,7 +1,7 @@
 ---
-title: "Jack CARTY | ジャック ・ CARTY"
+title: "Jack CARTY | シャック-カーティー"
 name_en: "Jack CARTY"
-name_ja: "ジャック ・ CARTY"
+name_ja: "シャック-カーティー"
 slug: "jack-carty"
 position: "SO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: "Ireland (7)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jack-carty"
+scraped_url: "connacht rugby (2013 - 2026)"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2013 - 2026)
+Ireland

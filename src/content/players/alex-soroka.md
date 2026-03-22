@@ -1,7 +1,7 @@
 ---
-title: "Alex SOROKA | Alex ・ SOROKA"
+title: "Alex SOROKA"
 name_en: "Alex SOROKA"
-name_ja: "Alex ・ SOROKA"
+name_ja: "Alex SOROKA"
 slug: "alex-soroka"
 position: "Back row"
 height: "196.0"

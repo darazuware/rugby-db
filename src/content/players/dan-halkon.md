@@ -1,7 +1,7 @@
 ---
-title: "Dan HALKON | ダン・ハルコン"
+title: "Dan HALKON | タン ハルコン"
 name_en: "Dan HALKON"
-name_ja: "ダン・ハルコン"
+name_ja: "タン ハルコン"
 slug: "dan-halkon"
 position: "LO"
 height: "200.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/dan-halkon"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "rgs worcester (2023 - 2024) -> glasgow warriors (2024 - 2026)"
+scraped_url: "https://all.rugby/player/dan-halkon"
 ---
 
 ## キャリア遍歴
-
+rgs worcester (2023 - 2024) -> glasgow warriors (2024 - 2026)

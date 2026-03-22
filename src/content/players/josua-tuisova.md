@@ -1,7 +1,7 @@
 ---
-title: "Josua TUISOVA | ジョシュア・ツイソヴァ"
+title: "Josua TUISOVA | ショシュア ツイソウァ"
 name_en: "Josua TUISOVA"
-name_ja: "ジョシュア・ツイソヴァ"
+name_ja: "ショシュア ツイソウァ"
 slug: "josua-tuisova"
 position: "CTB"
 height: "180.0"

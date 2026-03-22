@@ -1,7 +1,7 @@
 ---
-title: "Billy MCBRYDE | ビリー・マクブライド"
+title: "Billy MCBRYDE | ヒリー マクフライト"
 name_en: "Billy MCBRYDE"
-name_ja: "ビリー・マクブライド"
+name_ja: "ヒリー マクフライト"
 slug: "billy-mcbryde"
 position: "SO"
 height: "177.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/billy-mcbryde"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2015 - 2017) -> scarlets (2017 - 2018) -> rgc 1404 (2018 - 2020) -> doncaster knights (2020 - 2024) -> rgc 1404 (2024 - 2025) -> scarlets (2025 - 2025) -> rgc 1404 (2026 - 2026) -> scarlets (2026 - 2026)"
+scraped_url: "https://all.rugby/player/billy-mcbryde"
 ---
 
 ## キャリア遍歴
-
+ospreys (2015 - 2017) -> scarlets (2017 - 2018) -> rgc 1404 (2018 - 2020) -> doncaster knights (2020 - 2024) -> rgc 1404 (2024 - 2025) -> scarlets (2025 - 2025) -> rgc 1404 (2026 - 2026) -> scarlets (2026 - 2026)

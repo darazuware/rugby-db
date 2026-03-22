@@ -1,7 +1,7 @@
 ---
-title: "Sam ILLO | サム ・ ILLO"
+title: "Sam ILLO | サム イロ"
 name_en: "Sam ILLO"
-name_ja: "サム ・ ILLO"
+name_ja: "サム イロ"
 slug: "sam-illo"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-illo"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2021) -> Connacht Rugby (2021 - 2026)
+leinster rugby (2020 - 2021) -> connacht rugby (2021 - 2026)

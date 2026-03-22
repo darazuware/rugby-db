@@ -1,12 +1,12 @@
 ---
-title: "Will Stuart"
-name_en: "Will Stuart"
+title: "Will STUART"
+name_en: "Will STUART"
 name_ja: ""
 slug: "will-stuart"
 position: "Prop"
 height: ""
 weight: ""
-birth_date: "1996.07.12"
+birth_date: "nan"
 age: 29
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (45)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/will-stuart"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

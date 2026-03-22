@@ -1,7 +1,7 @@
 ---
-title: "Simon MEKA | シモン・メカ"
+title: "Simon MEKA | シモン メカ"
 name_en: "Simon MEKA"
-name_ja: "シモン・メカ"
+name_ja: "シモン メカ"
 slug: "simon-meka"
 position: "FL/NO8"
 height: "192.0"

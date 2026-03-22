@@ -1,7 +1,7 @@
 ---
-title: "Edwill VAN DER MERWE | Edwill ・ ファン ・ デル ・ MERWE"
+title: "Edwill VAN DER MERWE | Edwill ファン テル MERWE"
 name_en: "Edwill VAN DER MERWE"
-name_ja: "Edwill ・ ファン ・ デル ・ MERWE"
+name_ja: "Edwill ファン テル MERWE"
 slug: "edwill-van-der-merwe"
 position: "Winger"
 height: "181.0"

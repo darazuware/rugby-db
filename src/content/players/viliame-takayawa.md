@@ -1,7 +1,7 @@
 ---
-title: "Viliame Takayawa | ヴィリアメ ・タカヤワ"
+title: "Viliame Takayawa | ウィリアメ タカヤワ"
 name_en: "Viliame Takayawa"
-name_ja: "ヴィリアメ ・タカヤワ"
+name_ja: "ウィリアメ タカヤワ"
 slug: "viliame-takayawa"
 position: "CTB"
 height: "184.0"

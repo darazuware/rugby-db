@@ -1,7 +1,7 @@
 ---
-title: "Job POULET | ジョブ・プレ"
+title: "Job POULET | ショフ フレ"
 name_en: "Job POULET"
-name_ja: "ジョブ・プレ"
+name_ja: "ショフ フレ"
 slug: "job-poulet"
 position: "CTB"
 height: "180.0"

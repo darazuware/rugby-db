@@ -1,7 +1,7 @@
 ---
-title: "Atu MANU | アツ・マヌ"
+title: "Atu MANU | アツ マヌ"
 name_en: "Atu MANU"
-name_ja: "アツ・マヌ"
+name_ja: "アツ マヌ"
 slug: "atu-manu"
 position: "CTB"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jamie OSBORNE | ジェイミー ・ OSBORNE"
+title: "Jamie OSBORNE | シェイミー-オスホーン"
 name_en: "Jamie OSBORNE"
-name_ja: "ジェイミー ・ OSBORNE"
+name_ja: "シェイミー-オスホーン"
 slug: "jamie-osborne"
 position: "CTB"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (7)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jamie-osborne"
+scraped_url: "leinster rugby (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2026)
+Ireland

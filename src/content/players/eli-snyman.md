@@ -1,7 +1,7 @@
 ---
-title: "Eli SNYMAN | Eli ・ スナイマン"
+title: "Eli SNYMAN | イーライ-スナイマン"
 name_en: "Eli SNYMAN"
-name_ja: "Eli ・ スナイマン"
+name_ja: "イーライ-スナイマン"
 slug: "eli-snyman"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eli-snyman"
 ---
 
 ## キャリア遍歴
-Bulls (2018 - 2019) -> Benetton Rugby Trévise (2019 - 2021) -> Leicester Tigers (2021 - 2023) -> Benetton Rugby Trévise (2023 - 2026)
+bulls (2018 - 2019) -> benetton rugby trévise (2019 - 2021) -> leicester tigers (2021 - 2023) -> benetton rugby trévise (2023 - 2026)

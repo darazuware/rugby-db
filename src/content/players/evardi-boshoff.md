@@ -1,7 +1,7 @@
 ---
-title: "Evardi BOSHOFF | Evardi ・ BOSHOFF"
+title: "Evardi BOSHOFF | エウァルティ ホスホフ"
 name_en: "Evardi BOSHOFF"
-name_ja: "Evardi ・ BOSHOFF"
+name_ja: "エウァルティ ホスホフ"
 slug: "evardi-boshoff"
 position: "CTB"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evardi-boshoff"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2026)
+central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2026)

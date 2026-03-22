@@ -1,7 +1,7 @@
 ---
-title: "Wyn JONES | ウィン・ジョーンズ"
+title: "Wyn JONES"
 name_en: "Wyn JONES"
-name_ja: "ウィン・ジョーンズ"
+name_ja: "Wyn JONES"
 slug: "wyn-jones"
 position: "PR"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Wales (15)"
 high_school: ""
 university: ""
-scraped_url: "scarlets (2014 - 2024) -> harlequins (2024 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/wyn-jones"
 ---
 
 ## キャリア遍歴
-Wales
+Scarlets (2014 - 2024) -> Harlequins (2024 - 2025) -> Dragons RFC (2025 - 2026)

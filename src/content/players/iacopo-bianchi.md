@@ -1,7 +1,7 @@
 ---
-title: "Iacopo BIANCHI | Iacopo ・ BIANCHI"
+title: "Iacopo BIANCHI"
 name_en: "Iacopo BIANCHI"
-name_ja: "Iacopo ・ BIANCHI"
+name_ja: "Iacopo BIANCHI"
 slug: "iacopo-bianchi"
 position: "Back row"
 height: "188.0"

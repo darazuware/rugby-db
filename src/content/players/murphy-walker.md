@@ -1,7 +1,7 @@
 ---
-title: "Murphy WALKER | Murphy ・ WALKER"
+title: "Murphy WALKER"
 name_en: "Murphy WALKER"
-name_ja: "Murphy ・ WALKER"
+name_ja: "Murphy WALKER"
 slug: "murphy-walker"
 position: "PR"
 height: "185.0"

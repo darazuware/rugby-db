@@ -1,7 +1,7 @@
 ---
-title: "Blake Gibson | ブレイク ・ギブソン"
+title: "Blake Gibson | フレイク キフソン"
 name_en: "Blake Gibson"
-name_ja: "ブレイク ・ギブソン"
+name_ja: "フレイク キフソン"
 slug: "blake-gibson"
 position: "FL/No8"
 height: "186.0"

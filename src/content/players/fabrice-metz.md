@@ -1,7 +1,7 @@
 ---
-title: "Fabrice METZ | ファブリス・メッツ"
+title: "Fabrice METZ | ファフリス メッツ"
 name_en: "Fabrice METZ"
-name_ja: "ファブリス・メッツ"
+name_ja: "ファフリス メッツ"
 slug: "fabrice-metz"
 position: "LO"
 height: "198.0"

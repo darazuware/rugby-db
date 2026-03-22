@@ -1,7 +1,7 @@
 ---
-title: "Wandile MLABA | ワンディレ-ムラバ"
+title: "Wandile MLABA | ワンティレ-ムラハ"
 name_en: "Wandile MLABA"
-name_ja: "ワンディレ-ムラバ"
+name_ja: "ワンティレ-ムラハ"
 slug: "wandile-mlaba"
 position: "FL/No8"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "https://all.rugby/player/wandile-mlaba"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "western province (2024 - 2025) -> stormers (2025 - 2026)"
+scraped_url: "https://all.rugby/player/wandile-mlaba"
 ---
 
 ## キャリア遍歴
-
+western province (2024 - 2025) -> stormers (2025 - 2026)

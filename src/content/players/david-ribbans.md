@@ -1,7 +1,7 @@
 ---
-title: "David RIBBANS | デイヴィッド-リバンズ"
+title: "David RIBBANS | テイウィット-リハンス"
 name_en: "David RIBBANS"
-name_ja: "デイヴィッド-リバンズ"
+name_ja: "テイウィット-リハンス"
 slug: "david-ribbans"
 position: "LO"
 height: "202.0"

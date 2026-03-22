@@ -1,7 +1,7 @@
 ---
-title: "Tim RYAN | ティム・ライアン"
+title: "Tim RYAN | ティム ライアン"
 name_en: "Tim RYAN"
-name_ja: "ティム・ライアン"
+name_ja: "ティム ライアン"
 slug: "tim-ryan"
 position: "WTB"
 height: "186.0"

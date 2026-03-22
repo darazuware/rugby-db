@@ -1,9 +1,9 @@
 ---
-title: "Ignacio MENDY | Ignacio ・ MENDY"
+title: "Ignacio MENDY | イクナシオ-メンティ"
 name_en: "Ignacio MENDY"
-name_ja: "Ignacio ・ MENDY"
+name_ja: "イクナシオ-メンティ"
 slug: "ignacio-mendy"
-position: "Winger"
+position: "WTB"
 height: "187.0"
 weight: "90.0"
 birth_date: "2000.06.29"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Trévise"
-caps: "Argentina"
-high_school: ""
+caps: ""
+high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/ignacio-mendy"
 ---
 
 ## キャリア遍歴
-Jaguares (2018 - 2019) -> Los Tilos (2020 - 2021) -> Jaguares XV (2021 - 2021) -> Los Tilos (2021 - 2021) -> Jaguares XV (2022 - 2022) -> Los Tilos (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+jaguares (2018 - 2019) -> los tilos (2020 - 2021) -> jaguares xv (2021 - 2021) -> los tilos (2021 - 2021) -> jaguares xv (2022 - 2022) -> los tilos (2022 - 2022) -> benetton rugby trévise (2022 - 2026)

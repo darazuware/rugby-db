@@ -1,7 +1,7 @@
 ---
-title: "Finau Tupa | トゥパ フィナウ"
+title: "Finau Tupa | トゥハ フィナウ"
 name_en: "Finau Tupa"
-name_ja: "トゥパ フィナウ"
+name_ja: "トゥハ フィナウ"
 slug: "finau-tupa"
 position: "FL/No8"
 height: "190.0"

@@ -1,7 +1,7 @@
 ---
-title: "James LANG | ジェームズ ・ LANG"
+title: "James LANG | シェームス-ランク"
 name_en: "James LANG"
-name_ja: "ジェームズ ・ LANG"
+name_ja: "シェームス-ランク"
 slug: "james-lang"
 position: "SO"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "England"
-high_school: ""
+caps: ""
+high_school: "England"
 university: ""
 scraped_url: "https://all.rugby/player/james-lang"
 ---
 
 ## キャリア遍歴
-Harlequins (2016 - 2021) -> Edimbourg Rugby (2021 - 2026)
+harlequins (2016 - 2021) -> edimbourg rugby (2021 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Layton HORN | Layton ・ HORN"
+title: "Layton HORN"
 name_en: "Layton HORN"
-name_ja: "Layton ・ HORN"
+name_ja: "Layton HORN"
 slug: "layton-horn"
 position: "SH"
 height: "183.0"

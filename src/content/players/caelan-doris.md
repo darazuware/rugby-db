@@ -1,7 +1,7 @@
 ---
-title: "Caelan DORIS | ケーラン ・ ドリス"
+title: "Caelan DORIS | ケーラン トリス"
 name_en: "Caelan DORIS"
-name_ja: "ケーラン ・ ドリス"
+name_ja: "ケーラン トリス"
 slug: "caelan-doris"
 position: "Back row"
 height: "193.0"

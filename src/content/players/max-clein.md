@@ -1,7 +1,7 @@
 ---
-title: "Max CLEIN | Max ・ CLEIN"
+title: "Max CLEIN"
 name_en: "Max CLEIN"
-name_ja: "Max ・ CLEIN"
+name_ja: "Max CLEIN"
 slug: "max-clein"
 position: "HO"
 height: "183.0"

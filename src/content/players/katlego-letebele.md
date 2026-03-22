@@ -1,7 +1,7 @@
 ---
-title: "Katlego LETEBELE | Katlego ・ LETEBELE"
+title: "Katlego LETEBELE | カレコ レテヘレ"
 name_en: "Katlego LETEBELE"
-name_ja: "Katlego ・ LETEBELE"
+name_ja: "カレコ レテヘレ"
 slug: "katlego-letebele"
 position: "CTB"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/katlego-letebele"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2021 - 2024) -> Bulls (2024 - 2026)
+blue bulls (2021 - 2024) -> bulls (2024 - 2026)

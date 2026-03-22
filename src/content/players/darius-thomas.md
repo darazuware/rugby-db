@@ -1,7 +1,7 @@
 ---
-title: "Darius Thomas | ダリエス ・トマス"
+title: "Darius Thomas | タリエス トマス"
 name_en: "Darius Thomas"
-name_ja: "ダリエス ・トマス"
+name_ja: "タリエス トマス"
 slug: "darius-thomas"
 position: "WTB"
 height: "183.0"

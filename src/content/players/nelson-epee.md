@@ -1,7 +1,7 @@
 ---
-title: "Nelson ÉPÉE | ネルソン・エペ"
-name_en: "Nelson ÉPÉE"
-name_ja: "ネルソン・エペ"
+title: "Nelson EPEE | ネルソン エヘ"
+name_en: "Nelson EPEE"
+name_ja: "ネルソン エヘ"
 slug: "nelson-epee"
 position: "WTB"
 height: "174.0"

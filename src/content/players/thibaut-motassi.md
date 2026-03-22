@@ -1,7 +1,7 @@
 ---
-title: "Thibaut MOTASSI | ティボー・モタッシ"
+title: "Thibaut MOTASSI | ティホー モタッシ"
 name_en: "Thibaut MOTASSI"
-name_ja: "ティボー・モタッシ"
+name_ja: "ティホー モタッシ"
 slug: "thibaut-motassi"
 position: "SH"
 height: "175.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sione AHIO | シオネ・アヒオ"
+title: "Sione AHIO | シオネ アヒオ"
 name_en: "Sione AHIO"
-name_ja: "シオネ・アヒオ"
+name_ja: "シオネ アヒオ"
 slug: "sione-ahio"
 position: "PR"
 height: "185.0"

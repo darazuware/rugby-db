@@ -1,7 +1,7 @@
 ---
-title: "Lewis LLOYD | Lewis ・ LLOYD"
+title: "Lewis LLOYD"
 name_en: "Lewis LLOYD"
-name_ja: "Lewis ・ LLOYD"
+name_ja: "Lewis LLOYD"
 slug: "lewis-lloyd"
 position: "HO"
 height: "180.0"

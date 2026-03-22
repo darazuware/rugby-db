@@ -1,7 +1,7 @@
 ---
-title: "Victor HANNOUN | ヴィクトール・アヌーン"
+title: "Victor HANNOUN | ウィクトール アヌーン"
 name_en: "Victor HANNOUN"
-name_ja: "ヴィクトール・アヌーン"
+name_ja: "ウィクトール アヌーン"
 slug: "victor-hannoun"
 position: "WTB"
 height: "182.0"

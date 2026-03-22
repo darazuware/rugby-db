@@ -1,7 +1,7 @@
 ---
-title: "Zephaniah Tuinona | ゼファニア ・トゥイノナ"
+title: "Zephaniah Tuinona | セファニア トゥイノナ"
 name_en: "Zephaniah Tuinona"
-name_ja: "ゼファニア ・トゥイノナ"
+name_ja: "セファニア トゥイノナ"
 slug: "zephaniah-tuinona"
 position: "LO"
 height: "198.0"

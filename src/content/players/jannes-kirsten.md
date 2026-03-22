@@ -1,9 +1,9 @@
 ---
-title: "Jannes KIRSTEN | Jannes ・ KIRSTEN"
+title: "Jannes KIRSTEN | ヤネス-キルステン"
 name_en: "Jannes KIRSTEN"
-name_ja: "Jannes ・ KIRSTEN"
+name_ja: "ヤネス-キルステン"
 slug: "jannes-kirsten"
-position: "Back row"
+position: "FL/No8"
 height: "197.0"
 weight: "117.0"
 birth_date: "1993.12.01"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jannes-kirsten"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2019) -> Exeter Chiefs (2019 - 2023) -> Bulls (2023 - 2026)
+bulls (2015 - 2019) -> exeter chiefs (2019 - 2023) -> bulls (2023 - 2026)

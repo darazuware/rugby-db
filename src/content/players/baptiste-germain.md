@@ -1,7 +1,7 @@
 ---
-title: "Baptiste GERMAIN | バティスト・ジェルマン"
+title: "Baptiste GERMAIN | ハティスト シェルマン"
 name_en: "Baptiste GERMAIN"
-name_ja: "バティスト・ジェルマン"
+name_ja: "ハティスト シェルマン"
 slug: "baptiste-germain"
 position: "SH"
 height: "174.0"

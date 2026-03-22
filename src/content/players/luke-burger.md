@@ -1,7 +1,7 @@
 ---
-title: "Luke BURGER | ルーク ・ BURGER"
+title: "Luke BURGER | ルーク BURGER"
 name_en: "Luke BURGER"
-name_ja: "ルーク ・ BURGER"
+name_ja: "ルーク BURGER"
 slug: "luke-burger"
 position: "CTB"
 height: "188.0"

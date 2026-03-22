@@ -1,7 +1,7 @@
 ---
-title: "AsaeliAi Valu | ヴァル アサエリ愛"
+title: "AsaeliAi Valu | ウァル アサエリ愛"
 name_en: "AsaeliAi Valu"
-name_ja: "ヴァル アサエリ愛"
+name_ja: "ウァル アサエリ愛"
 slug: "asaeliai-valu"
 position: "PR"
 height: "187.0"

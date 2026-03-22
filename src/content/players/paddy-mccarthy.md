@@ -1,7 +1,7 @@
 ---
-title: "Paddy MCCARTHY | Paddy ・ MCCARTHY"
+title: "Paddy MCCARTHY | ハティ マッカーシー"
 name_en: "Paddy MCCARTHY"
-name_ja: "Paddy ・ MCCARTHY"
+name_ja: "ハティ マッカーシー"
 slug: "paddy-mccarthy"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "Ireland"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/paddy-mccarthy"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2022 - 2026)
+leinster rugby (2022 - 2026)

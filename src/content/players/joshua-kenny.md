@@ -1,9 +1,9 @@
 ---
-title: "Joshua KENNY | Joshua ・ KENNY"
+title: "Joshua KENNY | ショシュア ケニー"
 name_en: "Joshua KENNY"
-name_ja: "Joshua ・ KENNY"
+name_ja: "ショシュア ケニー"
 slug: "joshua-kenny"
-position: "Winger"
+position: "WTB"
 height: "192.0"
 weight: "100.0"
 birth_date: "2003.08.03"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joshua-kenny"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2025 - 2026)
+leinster rugby (2025 - 2026)

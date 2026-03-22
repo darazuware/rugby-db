@@ -1,7 +1,7 @@
 ---
-title: "Ceano EVERSON | Ceano ・ EVERSON"
+title: "Ceano EVERSON"
 name_en: "Ceano EVERSON"
-name_ja: "Ceano ・ EVERSON"
+name_ja: "Ceano EVERSON"
 slug: "ceano-everson"
 position: "SH"
 height: "169.0"

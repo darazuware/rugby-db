@@ -1,7 +1,7 @@
 ---
-title: "Ruan DREYER | Ruan ・ DREYER"
+title: "Ruan DREYER | ルアン トレイヤー"
 name_en: "Ruan DREYER"
-name_ja: "Ruan ・ DREYER"
+name_ja: "ルアン トレイヤー"
 slug: "ruan-dreyer"
 position: "PR"
 height: "186.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/ruan-dreyer"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2013 - 2018) -> Gloucester Rugby (2018 - 2020) -> Lions Rugby (2020 - 2024) -> Sharks (2024 - 2026)
+lions rugby (2013 - 2018) -> gloucester rugby (2018 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - 2026)

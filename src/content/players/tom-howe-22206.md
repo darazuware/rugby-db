@@ -1,7 +1,7 @@
 ---
-title: "Tom HOWE | トム ・ HOWE"
+title: "Tom HOWE | トム ハウ"
 name_en: "Tom HOWE"
-name_ja: "トム ・ HOWE"
+name_ja: "トム ハウ"
 slug: "tom-howe-22206"
 position: "HO"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-howe-22206"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2025 - 2026)
+cardiff rugby (2025 - 2026)

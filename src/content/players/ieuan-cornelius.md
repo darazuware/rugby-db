@@ -1,9 +1,9 @@
 ---
-title: "Ieuan CORNELIUS | イオアン-コーネリアス"
+title: "Ieuan CORNELIUS"
 name_en: "Ieuan CORNELIUS"
-name_ja: "イオアン-コーネリアス"
+name_ja: "Ieuan CORNELIUS"
 slug: "ieuan-cornelius"
-position: "WTB"
+position: "Winger"
 height: "188.0"
 weight: "97.0"
 birth_date: "2005.."
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/ieuan-cornelius"
+caps: "Wales"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ieuan-cornelius"
 ---
 
 ## キャリア遍歴
-Wales
+

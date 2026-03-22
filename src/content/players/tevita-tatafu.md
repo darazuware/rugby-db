@@ -1,22 +1,22 @@
 ---
-title: "Tevita TATAFU | テヴィタ・タタフ"
-name_en: "Tevita TATAFU"
-name_ja: "テヴィタ・タタフ"
+title: "Tevita Tatafu | テヒタ タタフ"
+name_en: "Tevita Tatafu"
+name_ja: "テヒタ タタフ"
 slug: "tevita-tatafu"
-position: "PR"
-height: "185.0"
-weight: "140.0"
-birth_date: "2002.10.13"
-age: 23
+position: "FL/No8"
+height: "183.0"
+weight: "119.0"
+birth_date: "1996.01.02"
+age: 30
 country: ""
 birth_place_scraped: ""
-league: "top14"
-team: "バイヨンヌ"
-caps: "Tonga"
-high_school: ""
-university: ""
-scraped_url: "https://all.rugby/player/tevita-tatafu"
+league: "league-one"
+team: "東京サントリーサンゴリアス（2025-26）"
+caps: "高校('12)、日本代表(20)"
+high_school: "目黒学院高校"
+university: "東海大学"
+scraped_url: "https://league-one.jp/player/484297"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2019 - 2026)
+東京サントリーサンゴリアス (2019 - 2025) -> ユニオン・ボルドー・ベグル (2023 - )

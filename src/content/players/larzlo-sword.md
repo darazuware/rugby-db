@@ -1,7 +1,7 @@
 ---
-title: "Larzlo Sword | ラズロー ・ソード"
+title: "Larzlo Sword | ラスロー ソート"
 name_en: "Larzlo Sword"
-name_ja: "ラズロー ・ソード"
+name_ja: "ラスロー ソート"
 slug: "larzlo-sword"
 position: "CTB"
 height: "193.0"

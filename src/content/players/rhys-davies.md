@@ -1,7 +1,7 @@
 ---
-title: "Rhys DAVIES | Rhys ・ DAVIES"
+title: "Rhys DAVIES | リース テイウィス"
 name_en: "Rhys DAVIES"
-name_ja: "Rhys ・ DAVIES"
+name_ja: "リース テイウィス"
 slug: "rhys-davies"
 position: "LO"
 height: "197.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhys-davies"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2018 - 2020) -> Ospreys (2020 - 2026)
+bath rugby (2018 - 2020) -> ospreys (2020 - 2026)

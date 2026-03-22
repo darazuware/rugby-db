@@ -1,7 +1,7 @@
 ---
-title: "Isaiah Punivai | イザヤ ・プニヴァイ"
+title: "Isaiah Punivai | イサヤ フニウァイ"
 name_en: "Isaiah Punivai"
-name_ja: "イザヤ ・プニヴァイ"
+name_ja: "イサヤ フニウァイ"
 slug: "isaiah-punivai"
 position: "CTB"
 height: "189.0"

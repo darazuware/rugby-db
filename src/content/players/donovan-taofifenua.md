@@ -1,7 +1,7 @@
 ---
-title: "Donovan TAOFIFENUA | ドノヴァン-タオフィフェヌア"
+title: "Donovan TAOFIFENUA | トノウァン-タオフィフェヌア"
 name_en: "Donovan TAOFIFENUA"
-name_ja: "ドノヴァン-タオフィフェヌア"
+name_ja: "トノウァン-タオフィフェヌア"
 slug: "donovan-taofifenua"
 position: "WTB"
 height: "179.0"

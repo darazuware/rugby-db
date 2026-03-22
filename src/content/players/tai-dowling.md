@@ -1,7 +1,7 @@
 ---
-title: "Tai Dowling | ダウリング タイ"
+title: "Tai Dowling | タウリンク タイ"
 name_en: "Tai Dowling"
-name_ja: "ダウリング タイ"
+name_ja: "タウリンク タイ"
 slug: "tai-dowling"
 position: "SO"
 height: "183.0"

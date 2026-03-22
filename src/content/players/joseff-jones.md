@@ -1,7 +1,7 @@
 ---
-title: "Joseff JONES | Joseff ・ JONES"
+title: "Joseff JONES"
 name_en: "Joseff JONES"
-name_ja: "Joseff ・ JONES"
+name_ja: "Joseff JONES"
 slug: "joseff-jones"
 position: "Winger"
 height: ""

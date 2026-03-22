@@ -1,9 +1,9 @@
 ---
-title: "Páidí FARRELL | P ・ FARRELL"
-name_en: "Páidí FARRELL"
-name_ja: "P ・ FARRELL"
+title: "Paidi FARRELL | ハイティ ファレル"
+name_en: "Paidi FARRELL"
+name_ja: "ハイティ ファレル"
 slug: "paidi-farrell"
-position: "Winger"
+position: "WTB"
 height: "175.0"
 weight: "81.0"
 birth_date: "2005.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paidi-farrell"
 ---
 
 ## キャリア遍歴
-Old Wesley RFC (2024 - 2025) -> Leinster Rugby (2025 - 2026)
+old wesley rfc (2024 - 2025) -> leinster rugby (2025 - 2026)

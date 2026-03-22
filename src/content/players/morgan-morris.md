@@ -1,7 +1,7 @@
 ---
-title: "Morgan MORRIS | Morgan ・ MORRIS"
+title: "Morgan MORRIS"
 name_en: "Morgan MORRIS"
-name_ja: "Morgan ・ MORRIS"
+name_ja: "Morgan MORRIS"
 slug: "morgan-morris"
 position: "Back row"
 height: "183.0"

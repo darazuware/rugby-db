@@ -1,7 +1,7 @@
 ---
-title: "Ioan EMANUEL | Ioan ・ EMANUEL"
+title: "Ioan EMANUEL"
 name_en: "Ioan EMANUEL"
-name_ja: "Ioan ・ EMANUEL"
+name_ja: "Ioan EMANUEL"
 slug: "ioan-emanuel"
 position: "PR"
 height: "189.0"

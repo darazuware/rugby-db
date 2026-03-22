@@ -1,7 +1,7 @@
 ---
-title: "Eric O'SULLIVAN | Eric ・ O'SULLIVAN"
+title: "Eric O'SULLIVAN"
 name_en: "Eric O'SULLIVAN"
-name_ja: "Eric ・ O'SULLIVAN"
+name_ja: "Eric O'SULLIVAN"
 slug: "eric-o-sullivan"
 position: "PR"
 height: "186.0"

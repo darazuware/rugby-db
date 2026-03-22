@@ -1,9 +1,9 @@
 ---
-title: "Josh VAN DER FLIER | ジョシュ ・ ファン ・ デル ・ フライヤー"
+title: "Josh VAN DER FLIER | ショシュ ファン テル フリヤー"
 name_en: "Josh VAN DER FLIER"
-name_ja: "ジョシュ ・ ファン ・ デル ・ フライヤー"
+name_ja: "ショシュ ファン テル フリヤー"
 slug: "josh-van-der-flier"
-position: "Back row"
+position: "FL/No8"
 height: "183.0"
 weight: "105.0"
 birth_date: "1993.04.25"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (73)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/josh-van-der-flier"
+scraped_url: "leinster rugby (2014 - 2026)"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2014 - 2026)
+Ireland

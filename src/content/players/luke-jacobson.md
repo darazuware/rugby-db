@@ -1,7 +1,7 @@
 ---
-title: "Luke JACOBSON | ルーク・ジェイコブソン"
+title: "Luke JACOBSON | ルーク シェイコフソン"
 name_en: "Luke JACOBSON"
-name_ja: "ルーク・ジェイコブソン"
+name_ja: "ルーク シェイコフソン"
 slug: "luke-jacobson"
 position: "FL/No8"
 height: "191.0"

@@ -1,7 +1,7 @@
 ---
-title: "Billy VUNIPOLA | ビリー-ヴニポラ"
+title: "Billy VUNIPOLA | ヒリー-ウニホラ"
 name_en: "Billy VUNIPOLA"
-name_ja: "ビリー-ヴニポラ"
+name_ja: "ヒリー-ウニホラ"
 slug: "billy-vunipola"
 position: "FL/NO8"
 height: "191.0"

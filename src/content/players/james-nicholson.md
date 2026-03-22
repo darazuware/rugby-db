@@ -1,7 +1,7 @@
 ---
-title: "James NICHOLSON | ジェームズ ・ NICHOLSON"
+title: "James NICHOLSON | シェームス-ニコルソン"
 name_en: "James NICHOLSON"
-name_ja: "ジェームズ ・ NICHOLSON"
+name_ja: "シェームス-ニコルソン"
 slug: "james-nicholson"
 position: "FB"
 height: "192.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-nicholson"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2022 - 2023) -> Connacht Rugby (2023 - 2026)
+leinster rugby (2022 - 2023) -> connacht rugby (2023 - 2026)

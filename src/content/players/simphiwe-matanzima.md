@@ -1,7 +1,7 @@
 ---
-title: "Simphiwe MATANZIMA | シンプウェ・マタンジマ"
+title: "Simphiwe MATANZIMA | シンフウェ マタンシマ"
 name_en: "Simphiwe MATANZIMA"
-name_ja: "シンプウェ・マタンジマ"
+name_ja: "シンフウェ マタンシマ"
 slug: "simphiwe-matanzima"
 position: "PR"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/simphiwe-matanzima"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bulls (2017 - 2020) -> blue bulls (2020 - 2021) -> bulls (2021 - 2025) -> sharks (2025 - 2026)"
+scraped_url: "https://all.rugby/player/simphiwe-matanzima"
 ---
 
 ## キャリア遍歴
-
+bulls (2017 - 2020) -> blue bulls (2020 - 2021) -> bulls (2021 - 2025) -> sharks (2025 - 2026)

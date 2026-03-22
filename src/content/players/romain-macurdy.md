@@ -1,7 +1,7 @@
 ---
-title: "Romain MACURDY | ロマン・マキュルディ"
+title: "Romain MACURDY | ロマン マキュルティ"
 name_en: "Romain MACURDY"
-name_ja: "ロマン・マキュルディ"
+name_ja: "ロマン マキュルティ"
 slug: "romain-macurdy"
 position: "LO"
 height: "200.0"

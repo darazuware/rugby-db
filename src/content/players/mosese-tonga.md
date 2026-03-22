@@ -1,7 +1,7 @@
 ---
-title: "Mosese Tonga | トンガ モセセ"
+title: "Mosese Tonga | トンカ モセセ"
 name_en: "Mosese Tonga"
-name_ja: "トンガ モセセ"
+name_ja: "トンカ モセセ"
 slug: "mosese-tonga"
 position: "CTB"
 height: "173.0"

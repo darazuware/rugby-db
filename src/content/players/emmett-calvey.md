@@ -1,7 +1,7 @@
 ---
-title: "Emmett CALVEY | Emmett ・ CALVEY"
+title: "Emmett CALVEY | エメット カルウェイ"
 name_en: "Emmett CALVEY"
-name_ja: "Emmett ・ CALVEY"
+name_ja: "エメット カルウェイ"
 slug: "emmett-calvey"
 position: "PR"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emmett-calvey"
 ---
 
 ## キャリア遍歴
-Shannon RFC (2023 - 2025) -> Munster Rugby (2025 - 2026)
+shannon rfc (2023 - 2025) -> munster rugby (2025 - 2026)

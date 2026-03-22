@@ -1,7 +1,7 @@
 ---
-title: "FINAU MAKAVAHA | フィナウ ・マカヴァハ"
+title: "FINAU MAKAVAHA | フィナウ マカウァハ"
 name_en: "FINAU MAKAVAHA"
-name_ja: "フィナウ ・マカヴァハ"
+name_ja: "フィナウ マカウァハ"
 slug: "finau-makavaha"
 position: "FL/No8"
 height: "187.0"

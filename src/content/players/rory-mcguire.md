@@ -1,7 +1,7 @@
 ---
-title: "Rory MCGUIRE | Rory ・ MCGUIRE"
+title: "Rory MCGUIRE | ロリー マクワイア"
 name_en: "Rory MCGUIRE"
-name_ja: "Rory ・ MCGUIRE"
+name_ja: "ロリー マクワイア"
 slug: "rory-mcguire"
 position: "PR"
 height: "193.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-mcguire"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2025) -> Ulster Rugby (2025 - 2026)
+leinster rugby (2021 - 2025) -> ulster rugby (2025 - 2026)

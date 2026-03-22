@@ -1,7 +1,7 @@
 ---
-title: "Ponipate LOGANIMASI | ポニパテ・ロガニマシ"
+title: "Ponipate LOGANIMASI | ホニハテ ロカニマシ"
 name_en: "Ponipate LOGANIMASI"
-name_ja: "ポニパテ・ロガニマシ"
+name_ja: "ホニハテ ロカニマシ"
 slug: "ponipate-loganimasi"
 position: "WTB"
 height: "189.0"

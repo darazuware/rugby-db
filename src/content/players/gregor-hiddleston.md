@@ -1,7 +1,7 @@
 ---
-title: "Gregor HIDDLESTON | Gregor ・ HIDDLESTON"
+title: "Gregor HIDDLESTON | クレカー ヒトルストン"
 name_en: "Gregor HIDDLESTON"
-name_ja: "Gregor ・ HIDDLESTON"
+name_ja: "クレカー ヒトルストン"
 slug: "gregor-hiddleston"
 position: "HO"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gregor-hiddleston"
 ---
 
 ## キャリア遍歴
-Glasgow Hutchesons Aloysians RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)
+glasgow hutchesons aloysians rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)

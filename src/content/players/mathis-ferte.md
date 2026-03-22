@@ -1,7 +1,7 @@
 ---
-title: "Mathis FERTÉ | マティス・フェルテ"
-name_en: "Mathis FERTÉ"
-name_ja: "マティス・フェルテ"
+title: "Mathis FERTE | マティス フェルテ"
+name_en: "Mathis FERTE"
+name_ja: "マティス フェルテ"
 slug: "mathis-ferte"
 position: "FB"
 height: "172.0"

@@ -1,7 +1,7 @@
 ---
-title: "Josh STEVENS | ジョシュ ・ STEVENS"
+title: "Josh STEVENS | ショシュ STEVENS"
 name_en: "Josh STEVENS"
-name_ja: "ジョシュ ・ STEVENS"
+name_ja: "ショシュ STEVENS"
 slug: "josh-stevens"
 position: "Back row"
 height: "179.0"

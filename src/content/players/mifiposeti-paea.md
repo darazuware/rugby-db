@@ -1,7 +1,7 @@
 ---
-title: "MIFIPOSETI PAEA | パエア ミフィポセチ"
+title: "MIFIPOSETI PAEA | ハエア ミフィホセチ"
 name_en: "MIFIPOSETI PAEA"
-name_ja: "パエア ミフィポセチ"
+name_ja: "ハエア ミフィホセチ"
 slug: "mifiposeti-paea"
 position: "CTB"
 height: "180.0"

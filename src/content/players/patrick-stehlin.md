@@ -1,7 +1,7 @@
 ---
-title: "Patrick Stehlin | ステイリン パトリック"
+title: "Patrick Stehlin | ステイリン ハトリック"
 name_en: "Patrick Stehlin"
-name_ja: "ステイリン パトリック"
+name_ja: "ステイリン ハトリック"
 slug: "patrick-stehlin"
 position: "CTB"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Veikoso POLONIATI | ヴェイコソ・ポロニアティ"
+title: "Veikoso POLONIATI | ウェイコソ ホロニアティ"
 name_en: "Veikoso POLONIATI"
-name_ja: "ヴェイコソ・ポロニアティ"
+name_ja: "ウェイコソ ホロニアティ"
 slug: "veikoso-poloniati"
 position: "LO"
 height: "202.0"

@@ -1,7 +1,7 @@
 ---
-title: "Sanaila Waqa | サナイラ ・ワクァ"
+title: "Sanaila Waqa | サナイラ ワクァ"
 name_en: "Sanaila Waqa"
-name_ja: "サナイラ ・ワクァ"
+name_ja: "サナイラ ワクァ"
 slug: "sanaila-waqa"
 position: "LO"
 height: "202.0"

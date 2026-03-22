@@ -1,7 +1,7 @@
 ---
-title: "Juan PITINARI | Juan ・ PITINARI"
+title: "Juan PITINARI | フアン ヒティナリ"
 name_en: "Juan PITINARI"
-name_ja: "Juan ・ PITINARI"
+name_ja: "フアン ヒティナリ"
 slug: "juan-manuel-pitinari"
 position: "PR"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/juan-manuel-pitinari"
 ---
 
 ## キャリア遍歴
-Rugby Noceto (2021 - 2021) -> Zebre Parma (2021 - 2021) -> Rugby Noceto (2022 - 2022) -> Zebre Parma (2022 - 2026)
+rugby noceto (2021 - 2021) -> zebre parma (2021 - 2021) -> rugby noceto (2022 - 2022) -> zebre parma (2022 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Ethan GRAHAM | Ethan ・ GRAHAM"
+title: "Ethan GRAHAM"
 name_en: "Ethan GRAHAM"
-name_ja: "Ethan ・ GRAHAM"
+name_ja: "Ethan GRAHAM"
 slug: "ethan-graham"
 position: "Winger"
 height: "181.0"

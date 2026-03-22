@@ -1,7 +1,7 @@
 ---
-title: "Ion NECULAI | Ion ・ NECULAI"
+title: "Ion NECULAI | イアン ネクライ"
 name_en: "Ion NECULAI"
-name_ja: "Ion ・ NECULAI"
+name_ja: "イアン ネクライ"
 slug: "ion-neculai"
 position: "PR"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ion-neculai"
 ---
 
 ## キャリア遍歴
-I Cavalieri Prato (2020 - 2021) -> Zebre Parma (2021 - 2026)
+i cavalieri prato (2020 - 2021) -> zebre parma (2021 - 2026)

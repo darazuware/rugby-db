@@ -1,7 +1,7 @@
 ---
-title: "Loïc CRÉDOZ | ロイク・クレド"
-name_en: "Loïc CRÉDOZ"
-name_ja: "ロイク・クレド"
+title: "Loic CREDOZ | ロイク クレト"
+name_en: "Loic CREDOZ"
+name_ja: "ロイク クレト"
 slug: "loic-credoz"
 position: "FL/NO8"
 height: "188.0"

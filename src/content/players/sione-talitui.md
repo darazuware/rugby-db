@@ -1,7 +1,7 @@
 ---
-title: "Sione Talitui | シオネ ・タリトゥイ"
+title: "Sione Talitui | シオネ タリトゥイ"
 name_en: "Sione Talitui"
-name_ja: "シオネ ・タリトゥイ"
+name_ja: "シオネ タリトゥイ"
 slug: "sione-talitui"
 position: "FL/No8"
 height: "187.0"

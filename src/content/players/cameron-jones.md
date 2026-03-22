@@ -1,7 +1,7 @@
 ---
-title: "Cameron JONES | キャメロン・ジョーンズ"
+title: "Cameron JONES | キャメロン ショーンス"
 name_en: "Cameron JONES"
-name_ja: "キャメロン・ジョーンズ"
+name_ja: "キャメロン ショーンス"
 slug: "cameron-jones"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "https://all.rugby/player/cameron-jones"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ospreys (2020 - 2023) -> central cheetahs (2023 - 2023) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2024) -> dragons rfc (2024 - 2024) -> ospreys (2024 - 2024) -> dragons rfc (2025 - 2025) -> ospreys (2025 - 2026)"
+scraped_url: "https://all.rugby/player/cameron-jones"
 ---
 
 ## キャリア遍歴
-
+ospreys (2020 - 2023) -> central cheetahs (2023 - 2023) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2024) -> dragons rfc (2024 - 2024) -> ospreys (2024 - 2024) -> dragons rfc (2025 - 2025) -> ospreys (2025 - 2026)

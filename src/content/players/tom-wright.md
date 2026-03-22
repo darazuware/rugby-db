@@ -1,7 +1,7 @@
 ---
-title: "Tom WRIGHT | トム・ライト"
+title: "Tom WRIGHT | トム ライト"
 name_en: "Tom WRIGHT"
-name_ja: "トム・ライト"
+name_ja: "トム ライト"
 slug: "tom-wright"
 position: "WTB"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Gauthier MARAVAT | ゴーティエ-マラヴァ"
+title: "Gauthier MARAVAT | コーティエ-マラウァ"
 name_en: "Gauthier MARAVAT"
-name_ja: "ゴーティエ-マラヴァ"
+name_ja: "コーティエ-マラウァ"
 slug: "gauthier-maravat"
 position: "LO"
 height: "198.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe JONAS | ジョー・ジョナス"
+title: "Joe JONAS | ショー ショナス"
 name_en: "Joe JONAS"
-name_ja: "ジョー・ジョナス"
+name_ja: "ショー ショナス"
 slug: "joe-jonas"
 position: "FB"
 height: "180.0"

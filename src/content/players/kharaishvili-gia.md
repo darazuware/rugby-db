@@ -1,7 +1,7 @@
 ---
-title: "Gia KHARAISHVILI | ギア・カライシュヴィリ"
+title: "Gia KHARAISHVILI | キア カライシュウィリ"
 name_en: "Gia KHARAISHVILI"
-name_ja: "ギア・カライシュヴィリ"
+name_ja: "キア カライシュウィリ"
 slug: "kharaishvili-gia"
 position: "PR"
 height: "180.0"

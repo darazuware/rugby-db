@@ -1,7 +1,7 @@
 ---
-title: "James TALAMAI | ジェームズ ・ TALAMAI"
+title: "James TALAMAI | シェームス タラマイ"
 name_en: "James TALAMAI"
-name_ja: "ジェームズ ・ TALAMAI"
+name_ja: "シェームス タラマイ"
 slug: "james-talamai"
 position: "HO"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-talamai"
 ---
 
 ## キャリア遍歴
-Saracens (2024 - 2025) -> Dragons RFC (2025 - 2026)
+saracens (2024 - 2025) -> dragons rfc (2025 - 2026)

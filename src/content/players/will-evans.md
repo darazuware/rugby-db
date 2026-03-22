@@ -1,7 +1,7 @@
 ---
-title: "Will EVANS | Will ・ EVANS"
+title: "Will EVANS"
 name_en: "Will EVANS"
-name_ja: "Will ・ EVANS"
+name_ja: "Will EVANS"
 slug: "will-evans"
 position: "LO"
 height: "198.0"

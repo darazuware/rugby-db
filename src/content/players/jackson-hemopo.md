@@ -1,7 +1,7 @@
 ---
-title: "Jackson Hemopo | ジャクソン ・ヘモポ"
+title: "Jackson Hemopo | シャクソン ヘモホ"
 name_en: "Jackson Hemopo"
-name_ja: "ジャクソン ・ヘモポ"
+name_ja: "シャクソン ヘモホ"
 slug: "jackson-hemopo"
 position: "FL/No8"
 height: "194.0"

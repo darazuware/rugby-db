@@ -1,7 +1,7 @@
 ---
-title: "Luke DAVIES | ルーク ・ DAVIES"
+title: "Luke DAVIES | ルーク テイウィス"
 name_en: "Luke DAVIES"
-name_ja: "ルーク ・ DAVIES"
+name_ja: "ルーク テイウィス"
 slug: "luke-davies"
 position: "SH"
 height: "175.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-davies"
 ---
 
 ## キャリア遍歴
-Scarlets (2021 - 2022) -> Jersey Reds (2022 - 2023) -> Ospreys (2023 - 2026)
+scarlets (2021 - 2022) -> jersey reds (2022 - 2023) -> ospreys (2023 - 2026)

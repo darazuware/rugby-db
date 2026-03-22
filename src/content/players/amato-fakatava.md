@@ -1,7 +1,7 @@
 ---
-title: "Amato Fakatava | ファカタヴァ アマト"
+title: "Amato Fakatava | ファカタウァ アマト"
 name_en: "Amato Fakatava"
-name_ja: "ファカタヴァ アマト"
+name_ja: "ファカタウァ アマト"
 slug: "amato-fakatava"
 position: "FL/No8"
 height: "195.0"

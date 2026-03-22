@@ -1,7 +1,7 @@
 ---
-title: "Johnny MATTHEWS | Johnny ・ MATTHEWS"
+title: "Johnny MATTHEWS | ショニー マシュース"
 name_en: "Johnny MATTHEWS"
-name_ja: "Johnny ・ MATTHEWS"
+name_ja: "ショニー マシュース"
 slug: "johnny-matthews"
 position: "HO"
 height: "183.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Scotland (1)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/johnny-matthews"
+scraped_url: "glasgow warriors (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2026)
+

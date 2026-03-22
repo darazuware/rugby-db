@@ -1,7 +1,7 @@
 ---
-title: "Régis MONTAGNE | レジ・モンターニュ"
-name_en: "Régis MONTAGNE"
-name_ja: "レジ・モンターニュ"
+title: "Regis MONTAGNE | レシ モンターニュ"
+name_en: "Regis MONTAGNE"
+name_ja: "レシ モンターニュ"
 slug: "regis-montagne"
 position: "PR"
 height: "186.0"

@@ -1,7 +1,7 @@
 ---
-title: "Angus TA'AVAO | アンガス-タアヴァオ"
+title: "Angus TA'AVAO | アンカス-タアウァオ"
 name_en: "Angus TA'AVAO"
-name_ja: "アンガス-タアヴァオ"
+name_ja: "アンカス-タアウァオ"
 slug: "angus-taavao-matau"
 position: "PR"
 height: "194.0"

@@ -1,7 +1,7 @@
 ---
-title: "Patrick TUIFUA | パトリック・ツイフア"
+title: "Patrick TUIFUA | ハトリック ツイフア"
 name_en: "Patrick TUIFUA"
-name_ja: "パトリック・ツイフア"
+name_ja: "ハトリック ツイフア"
 slug: "patrick-tuifua"
 position: "FL/NO8"
 height: "191.0"

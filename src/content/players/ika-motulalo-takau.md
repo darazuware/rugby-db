@@ -1,7 +1,7 @@
 ---
-title: "Ika Motulalo Takau | イカ ・モツラロ・タカウ"
+title: "Ika Motulalo Takau | イカ モツラロ タカウ"
 name_en: "Ika Motulalo Takau"
-name_ja: "イカ ・モツラロ・タカウ"
+name_ja: "イカ モツラロ タカウ"
 slug: "ika-motulalo-takau"
 position: "LO"
 height: "189.0"

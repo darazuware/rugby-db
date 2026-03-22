@@ -1,7 +1,7 @@
 ---
-title: "Ben MURPHY | ベン ・ MURPHY"
+title: "Ben MURPHY | ヘン マーフィー"
 name_en: "Ben MURPHY"
-name_ja: "ベン ・ MURPHY"
+name_ja: "ヘン マーフィー"
 slug: "ben-murphy-2001"
 position: "SH"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "Ireland"
-high_school: ""
+caps: ""
+high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/ben-murphy-2001"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2020) -> Munster Rugby (2020 - 2020) -> Leinster Rugby (2021 - 2021) -> Munster Rugby (2021 - 2021) -> Leinster Rugby (2021 - 2024) -> Connacht Rugby (2024 - 2026)
+leinster rugby (2020 - 2020) -> munster rugby (2020 - 2020) -> leinster rugby (2021 - 2021) -> munster rugby (2021 - 2021) -> leinster rugby (2021 - 2024) -> connacht rugby (2024 - 2026)

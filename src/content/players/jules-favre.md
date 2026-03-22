@@ -1,7 +1,7 @@
 ---
-title: "Jules FAVRE | ジュール・ファーブル"
+title: "Jules FAVRE | シュール ファーフル"
 name_en: "Jules FAVRE"
-name_ja: "ジュール・ファーブル"
+name_ja: "シュール ファーフル"
 slug: "jules-favre"
 position: "CTB"
 height: "181.0"

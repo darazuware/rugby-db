@@ -1,7 +1,7 @@
 ---
-title: "Caolin BLADE | Caolin ・ BLADE"
+title: "Caolin BLADE"
 name_en: "Caolin BLADE"
-name_ja: "Caolin ・ BLADE"
+name_ja: "Caolin BLADE"
 slug: "caolin-blade"
 position: "SH"
 height: "170.0"

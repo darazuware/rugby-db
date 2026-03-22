@@ -1,7 +1,7 @@
 ---
-title: "Cadeyrn NEVILLE | ケデーン・ネヴィル"
+title: "Cadeyrn NEVILLE | ケテーン ネウィル"
 name_en: "Cadeyrn NEVILLE"
-name_ja: "ケデーン・ネヴィル"
+name_ja: "ケテーン ネウィル"
 slug: "cadeyrn-neville"
 position: "LO"
 height: "202.0"

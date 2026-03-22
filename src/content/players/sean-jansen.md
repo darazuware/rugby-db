@@ -1,7 +1,7 @@
 ---
-title: "Sean JANSEN | ショーン・ジャンセン"
+title: "Sean JANSEN | ショーン シャンセン"
 name_en: "Sean JANSEN"
-name_ja: "ショーン・ジャンセン"
+name_ja: "ショーン シャンセン"
 slug: "sean-jansen"
 position: "FL/No8"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/sean-jansen"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "otago (2020 - 2021) -> leicester tigers (2021 - 2023) -> connacht rugby (2023 - 2026)"
+scraped_url: "https://all.rugby/player/sean-jansen"
 ---
 
 ## キャリア遍歴
-
+otago (2020 - 2021) -> leicester tigers (2021 - 2023) -> connacht rugby (2023 - 2026)

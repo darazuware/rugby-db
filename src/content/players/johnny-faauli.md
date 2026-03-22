@@ -1,7 +1,7 @@
 ---
-title: "Johnny Faauli | ジョニー ・ファアウリ"
+title: "Johnny Faauli | ショニー ファアウリ"
 name_en: "Johnny Faauli"
-name_ja: "ジョニー ・ファアウリ"
+name_ja: "ショニー ファアウリ"
 slug: "johnny-faauli"
 position: "CTB"
 height: "183.0"

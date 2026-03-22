@@ -1,7 +1,7 @@
 ---
-title: "Gareth DAVIES | ガレス ・ DAVIES"
+title: "Gareth DAVIES | カレス-テイウィス"
 name_en: "Gareth DAVIES"
-name_ja: "ガレス ・ DAVIES"
+name_ja: "カレス-テイウィス"
 slug: "gareth-davies-1990"
 position: "SH"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "Wales (74)"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/gareth-davies-1990"
 ---
 
 ## キャリア遍歴
-Scarlets (2013 - 2026)
+scarlets (2013 - 2026)

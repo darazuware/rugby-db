@@ -1,12 +1,12 @@
 ---
-title: "Ollie Lawrence"
-name_en: "Ollie Lawrence"
+title: "Ollie LAWRENCE"
+name_en: "Ollie LAWRENCE"
 name_ja: ""
 slug: "ollie-lawrence"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "1999.09.18"
+birth_date: "nan"
 age: 26
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (31)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ollie-lawrence"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Maxim GRANELL | マキシム・グラネル"
+title: "Maxim GRANELL | マキシム クラネル"
 name_en: "Maxim GRANELL"
-name_ja: "マキシム・グラネル"
+name_ja: "マキシム クラネル"
 slug: "maxim-granell"
 position: "WTB"
 height: "182.0"

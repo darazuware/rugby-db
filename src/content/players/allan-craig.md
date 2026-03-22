@@ -1,7 +1,7 @@
 ---
-title: "Allan CRAIG | アラン・クレイグ"
+title: "Allan CRAIG | アラン クレイク"
 name_en: "Allan CRAIG"
-name_ja: "アラン・クレイグ"
+name_ja: "アラン クレイク"
 slug: "allan-craig"
 position: "LO"
 height: "196.0"

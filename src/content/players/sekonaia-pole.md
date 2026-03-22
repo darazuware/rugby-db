@@ -1,7 +1,7 @@
 ---
-title: "Sekonaia Pole | セコナイア ・ポレ"
+title: "Sekonaia Pole | セコナイア ホレ"
 name_en: "Sekonaia Pole"
-name_ja: "セコナイア ・ポレ"
+name_ja: "セコナイア ホレ"
 slug: "sekonaia-pole"
 position: "PR"
 height: "181.0"

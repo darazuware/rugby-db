@@ -1,7 +1,7 @@
 ---
-title: "Sam MOLI | サム・モリ"
+title: "Sam MOLI | サム モリ"
 name_en: "Sam MOLI"
-name_ja: "サム・モリ"
+name_ja: "サム モリ"
 slug: "sam-moli"
 position: "HO"
 height: "185.0"

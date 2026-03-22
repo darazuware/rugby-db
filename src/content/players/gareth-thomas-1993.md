@@ -1,7 +1,7 @@
 ---
-title: "Gareth THOMAS | ガレス ・ トーマス"
+title: "Gareth THOMAS | カレス-トーマス"
 name_en: "Gareth THOMAS"
-name_ja: "ガレス ・ トーマス"
+name_ja: "カレス-トーマス"
 slug: "gareth-thomas-1993"
 position: "PR"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ospreys"
-caps: "Wales (95)"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---
 
 ## キャリア遍歴
-Ospreys (2014 - 2026)
+ospreys (2014 - 2026)

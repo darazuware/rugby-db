@@ -1,7 +1,7 @@
 ---
-title: "Pieter Steph Du Toit | ピーターステフ ・デュトイ"
+title: "Pieter Steph Du Toit | ヒーターステフ テュトイ"
 name_en: "Pieter Steph Du Toit"
-name_ja: "ピーターステフ ・デュトイ"
+name_ja: "ヒーターステフ テュトイ"
 slug: "pieter-steph-du-toit"
 position: "FL/No8"
 height: "200.0"

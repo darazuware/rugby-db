@@ -1,7 +1,7 @@
 ---
-title: "Jose Seru | セル ホゼ"
+title: "Jose Seru | セル ホセ"
 name_en: "Jose Seru"
-name_ja: "セル ホゼ"
+name_ja: "セル ホセ"
 slug: "jose-seru"
 position: "FL/No8"
 height: "197.0"

@@ -1,9 +1,9 @@
 ---
-title: "Marnus POTGIETER | Marnus ・ POTGIETER"
+title: "Marnus POTGIETER | マルナス ホトヒーター"
 name_en: "Marnus POTGIETER"
-name_ja: "Marnus ・ POTGIETER"
+name_ja: "マルナス ホトヒーター"
 slug: "marnus-potgieter"
-position: "Winger"
+position: "WTB"
 height: "188.0"
 weight: "106.0"
 birth_date: "1999.06.20"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marnus-potgieter"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2018 - 2019) -> Bulls (2019 - 2021) -> Sharks (2021 - 2026)
+blue bulls (2018 - 2019) -> bulls (2019 - 2021) -> sharks (2021 - 2026)

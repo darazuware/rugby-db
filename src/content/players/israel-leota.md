@@ -1,7 +1,7 @@
 ---
-title: "Israel LEOTA | イスラエル・レオタ"
+title: "Israel LEOTA | イスラエル レオタ"
 name_en: "Israel LEOTA"
-name_ja: "イスラエル・レオタ"
+name_ja: "イスラエル レオタ"
 slug: "israel-leota"
 position: "WTB"
 height: "190.0"

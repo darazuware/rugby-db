@@ -1,7 +1,7 @@
 ---
-title: "Owen WATKIN | Owen ・ WATKIN"
+title: "Owen WATKIN | オウェイン ワトキン"
 name_en: "Owen WATKIN"
-name_ja: "Owen ・ WATKIN"
+name_ja: "オウェイン ワトキン"
 slug: "owen-watkin"
 position: "CTB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: "Wales (42)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/owen-watkin"
+scraped_url: "ospreys (2015 - 2026)"
 ---
 
 ## キャリア遍歴
-Ospreys (2015 - 2026)
+Wales

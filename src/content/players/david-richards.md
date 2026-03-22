@@ -1,7 +1,7 @@
 ---
-title: "David RICHARDS | デイヴィッド・リチャーズ"
+title: "David RICHARDS | テイウィット RICHARDS"
 name_en: "David RICHARDS"
-name_ja: "デイヴィッド・リチャーズ"
+name_ja: "テイウィット RICHARDS"
 slug: "david-richards"
 position: "FB"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Dragons"
-caps: "https://all.rugby/player/david-richards"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "dragons rfc (2018 - 2024) -> newport rfc (2024 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/david-richards"
 ---
 
 ## キャリア遍歴
-
+Dragons RFC (2018 - 2024) -> Newport RFC (2024 - 2025) -> Dragons RFC (2025 - 2026)

@@ -1,9 +1,9 @@
 ---
-title: "Guido VOLPI | Guido ・ VOLPI"
+title: "Guido VOLPI | クイト ウォルヒ"
 name_en: "Guido VOLPI"
-name_ja: "Guido ・ VOLPI"
+name_ja: "クイト ウォルヒ"
 slug: "guido-volpi"
-position: "Back row"
+position: "FL/No8"
 height: "193.0"
 weight: "112.0"
 birth_date: "1995.08.22"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guido-volpi"
 ---
 
 ## キャリア遍歴
-Old Georgian Club (2016 - 2017) -> Racing Club Narbonnais (2017 - 2018) -> Ospreys (2018 - 2019) -> Doncaster Knights (2019 - 2019) -> Ospreys (2020 - 2020) -> Doncaster Knights (2020 - 2020) -> Ospreys (2020 - 2020) -> Doncaster Knights (2020 - 2020) -> Ospreys (2021 - 2021) -> Doncaster Knights (2021 - 2022) -> Zebre Parma (2022 - 2026)
+old georgian club (2016 - 2017) -> racing club narbonnais (2017 - 2018) -> ospreys (2018 - 2019) -> doncaster knights (2019 - 2019) -> ospreys (2020 - 2020) -> doncaster knights (2020 - 2020) -> ospreys (2020 - 2020) -> doncaster knights (2020 - 2020) -> ospreys (2021 - 2021) -> doncaster knights (2021 - 2022) -> zebre parma (2022 - 2026)

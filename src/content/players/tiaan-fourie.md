@@ -1,7 +1,7 @@
 ---
-title: "Tiaan FOURIE | ティアン・フーリー"
+title: "Tiaan FOURIE | ティアン フーリー"
 name_en: "Tiaan FOURIE"
-name_ja: "ティアン・フーリー"
+name_ja: "ティアン フーリー"
 slug: "tiaan-fourie"
 position: "SH"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Sharks"
-caps: "https://all.rugby/player/tiaan-fourie"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "blue bulls (2020 - 2022) -> natal sharks (2022 - 2023) -> sharks (2023 - 2026)"
+scraped_url: "https://all.rugby/player/tiaan-fourie"
 ---
 
 ## キャリア遍歴
-
+blue bulls (2020 - 2022) -> natal sharks (2022 - 2023) -> sharks (2023 - 2026)

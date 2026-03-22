@@ -1,7 +1,7 @@
 ---
-title: "Rahboni Warren-Vosayaco | ラーボニ ・ウォーレンーボスアヤコ"
+title: "Rahboni Warren-Vosayaco | ラーホニ ウォーレンーホスアヤコ"
 name_en: "Rahboni Warren-Vosayaco"
-name_ja: "ラーボニ ・ウォーレンーボスアヤコ"
+name_ja: "ラーホニ ウォーレンーホスアヤコ"
 slug: "rahboni-warren-vosayaco"
 position: "FL/No8"
 height: "188.0"

@@ -1,7 +1,7 @@
 ---
-title: "Antoine DÉLIANCE | アントワーヌ・デリアンス"
-name_en: "Antoine DÉLIANCE"
-name_ja: "アントワーヌ・デリアンス"
+title: "Antoine DELIANCE | アントワーヌ テリアンス"
+name_en: "Antoine DELIANCE"
+name_ja: "アントワーヌ テリアンス"
 slug: "antoine-deliance"
 position: "FL/NO8"
 height: "192.0"

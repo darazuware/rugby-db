@@ -1,7 +1,7 @@
 ---
-title: "Jimi MAXIMIN | ジミ・マクシミン"
+title: "Jimi MAXIMIN | シミ マクシミン"
 name_en: "Jimi MAXIMIN"
-name_ja: "ジミ・マクシミン"
+name_ja: "シミ マクシミン"
 slug: "jimi-maximin"
 position: "LO"
 height: "204.0"

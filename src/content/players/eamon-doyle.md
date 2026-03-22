@@ -1,7 +1,7 @@
 ---
-title: "Eamon DOYLE | エイモン・ドイル"
+title: "Eamon DOYLE | エイモン トイル"
 name_en: "Eamon DOYLE"
-name_ja: "エイモン・ドイル"
+name_ja: "エイモン トイル"
 slug: "eamon-doyle"
 position: "LO"
 height: "198.0"

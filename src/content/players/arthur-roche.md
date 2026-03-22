@@ -1,7 +1,7 @@
 ---
-title: "Arthur ROCHE | アルチュール・ロシュ"
+title: "Arthur ROCHE | アルチュール ロシュ"
 name_en: "Arthur ROCHE"
-name_ja: "アルチュール・ロシュ"
+name_ja: "アルチュール ロシュ"
 slug: "arthur-roche"
 position: "FB"
 height: "185.0"

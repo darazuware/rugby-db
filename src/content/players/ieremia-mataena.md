@@ -1,7 +1,7 @@
 ---
-title: "Ieremia Mataena | イエレミア ・マタエナ"
+title: "Ieremia Mataena | イエレミア マタエナ"
 name_en: "Ieremia Mataena"
-name_ja: "イエレミア ・マタエナ"
+name_ja: "イエレミア マタエナ"
 slug: "ieremia-mataena"
 position: "PR"
 height: "180.0"

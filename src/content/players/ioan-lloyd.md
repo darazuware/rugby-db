@@ -1,7 +1,7 @@
 ---
-title: "Ioan LLOYD | Ioan ・ LLOYD"
+title: "Ioan LLOYD | イオアン-ロイト"
 name_en: "Ioan LLOYD"
-name_ja: "Ioan ・ LLOYD"
+name_ja: "イオアン-ロイト"
 slug: "ioan-lloyd"
 position: "SO"
 height: "179.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "Wales (2)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ioan-lloyd"
+scraped_url: "bristol bears (2018 - 2023) -> scarlets (2023 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Bristol Bears (2018 - 2023) -> Scarlets (2023 - 2025) -> Cardiff Rugby (2025 - 2026)
+Wales

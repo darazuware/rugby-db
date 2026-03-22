@@ -1,7 +1,7 @@
 ---
-title: "Stephanus Du Toit | ステファーナス ・ドゥトイ"
+title: "Stephanus Du Toit | ステファーナス トゥトイ"
 name_en: "Stephanus Du Toit"
-name_ja: "ステファーナス ・ドゥトイ"
+name_ja: "ステファーナス トゥトイ"
 slug: "stephanus-du-toit"
 position: "UTB"
 height: "185.0"

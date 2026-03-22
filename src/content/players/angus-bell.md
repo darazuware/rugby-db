@@ -1,7 +1,7 @@
 ---
-title: "Angus BELL | アンガス-ベル"
+title: "Angus BELL"
 name_en: "Angus BELL"
-name_ja: "アンガス-ベル"
+name_ja: "Angus BELL"
 slug: "angus-bell"
 position: "PR"
 height: "193.0"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "Australia (24)"
 high_school: ""
 university: ""
-scraped_url: "new south wales waratahs (2018 - 2025) -> ulster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/angus-bell"
 ---
 
 ## キャリア遍歴
-Australia
+New South Wales Waratahs (2018 - 2025) -> Ulster Rugby (2025 - 2026)

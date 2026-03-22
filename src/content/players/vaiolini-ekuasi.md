@@ -1,7 +1,7 @@
 ---
-title: "Vaiolini EKUASI | ヴァイオリニ・エクアシ"
+title: "Vaiolini EKUASI | ウァイオリニ エクアシ"
 name_en: "Vaiolini EKUASI"
-name_ja: "ヴァイオリニ・エクアシ"
+name_ja: "ウァイオリニ エクアシ"
 slug: "vaiolini-ekuasi"
 position: "FL/No8"
 height: ""

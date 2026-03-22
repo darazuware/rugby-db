@@ -1,7 +1,7 @@
 ---
-title: "PJ BOTHA | PJ ・ BOTHA"
+title: "PJ BOTHA | PJ ホータ"
 name_en: "PJ BOTHA"
-name_ja: "PJ ・ BOTHA"
+name_ja: "PJ ホータ"
 slug: "pj-botha"
 position: "HO"
 height: "181.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pj-botha"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2019 - 2026)
+lions rugby (2019 - 2026)

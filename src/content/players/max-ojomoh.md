@@ -1,12 +1,12 @@
 ---
-title: "Max Ojomoh"
-name_en: "Max Ojomoh"
+title: "Max OJOMOH"
+name_en: "Max OJOMOH"
 name_ja: ""
 slug: "max-ojomoh"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "2000.09.14"
+birth_date: "nan"
 age: 25
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/max-ojomoh"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

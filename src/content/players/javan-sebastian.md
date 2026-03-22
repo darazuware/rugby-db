@@ -1,7 +1,7 @@
 ---
-title: "Javan SEBASTIAN | Javan ・ SEBASTIAN"
+title: "Javan SEBASTIAN | シャウァン-セハスチャン"
 name_en: "Javan SEBASTIAN"
-name_ja: "Javan ・ SEBASTIAN"
+name_ja: "シャウァン-セハスチャン"
 slug: "javan-sebastian"
 position: "PR"
 height: "177.0"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "Scotland (6)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/javan-sebastian"
+scraped_url: "scarlets (2017 - 2023) -> edimbourg rugby (2023 - 2025) -> cardiff rugby (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2023) -> Edimbourg Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2026)
+Wales

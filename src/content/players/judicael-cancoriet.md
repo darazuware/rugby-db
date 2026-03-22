@@ -1,7 +1,7 @@
 ---
-title: "Judicaël CANCORIET | ジュディカエル・カンコリエ"
-name_en: "Judicaël CANCORIET"
-name_ja: "ジュディカエル・カンコリエ"
+title: "Judicael CANCORIET | シュティカエル カンコリエ"
+name_en: "Judicael CANCORIET"
+name_ja: "シュティカエル カンコリエ"
 slug: "judicael-cancoriet"
 position: "FL/NO8"
 height: "194.0"

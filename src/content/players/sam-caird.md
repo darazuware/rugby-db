@@ -1,7 +1,7 @@
 ---
-title: "Sam Caird | サム ・ケアード"
+title: "Sam Caird | サム ケアート"
 name_en: "Sam Caird"
-name_ja: "サム ・ケアード"
+name_ja: "サム ケアート"
 slug: "sam-caird"
 position: "LO"
 height: "202.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jannes POTGIETER | Jannes ・ POTGIETER"
+title: "Jannes POTGIETER"
 name_en: "Jannes POTGIETER"
-name_ja: "Jannes ・ POTGIETER"
+name_ja: "Jannes POTGIETER"
 slug: "jannes-potgieter"
 position: "Back row"
 height: "193.0"

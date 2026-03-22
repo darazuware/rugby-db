@@ -1,7 +1,7 @@
 ---
-title: "Evan LLOYD | エヴァン-ロイド"
+title: "Evan LLOYD | エウァン-ロイト"
 name_en: "Evan LLOYD"
-name_ja: "エヴァン-ロイド"
+name_ja: "エウァン-ロイト"
 slug: "evan-lloyd"
 position: "HO"
 height: "185.0"

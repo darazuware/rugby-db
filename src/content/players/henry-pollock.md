@@ -1,12 +1,12 @@
 ---
-title: "Henry Pollock"
-name_en: "Henry Pollock"
+title: "Henry POLLOCK"
+name_en: "Henry POLLOCK"
 name_ja: ""
 slug: "henry-pollock"
-position: "Flanker"
+position: "Back row"
 height: ""
 weight: ""
-birth_date: "2005.01.14"
+birth_date: "nan"
 age: 21
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: ""
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/henry-pollock"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

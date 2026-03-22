@@ -1,7 +1,7 @@
 ---
-title: "Blair KINGHORN | ブレア-キングホーン"
+title: "Blair KINGHORN | フレア-キンクホーン"
 name_en: "Blair KINGHORN"
-name_ja: "ブレア-キングホーン"
+name_ja: "フレア-キンクホーン"
 slug: "blair-kinghorn"
 position: "FB"
 height: "193.0"

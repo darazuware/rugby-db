@@ -1,7 +1,7 @@
 ---
-title: "Paolo BUONFIGLIO | Paolo ・ BUONFIGLIO"
+title: "Paolo BUONFIGLIO"
 name_en: "Paolo BUONFIGLIO"
-name_ja: "Paolo ・ BUONFIGLIO"
+name_ja: "Paolo BUONFIGLIO"
 slug: "paolo-buonfiglio"
 position: "PR"
 height: "183.0"

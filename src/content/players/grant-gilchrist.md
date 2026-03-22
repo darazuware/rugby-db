@@ -1,7 +1,7 @@
 ---
-title: "Grant GILCHRIST | グラント ・ GILCHRIST"
+title: "Grant GILCHRIST | クラント GILCHRIST"
 name_en: "Grant GILCHRIST"
-name_ja: "グラント ・ GILCHRIST"
+name_ja: "クラント GILCHRIST"
 slug: "grant-gilchrist"
 position: "LO"
 height: "198.0"

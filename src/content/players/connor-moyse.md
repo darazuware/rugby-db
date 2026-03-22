@@ -1,7 +1,7 @@
 ---
-title: "Connor MOYSE | Connor ・ MOYSE"
+title: "Connor MOYSE"
 name_en: "Connor MOYSE"
-name_ja: "Connor ・ MOYSE"
+name_ja: "Connor MOYSE"
 slug: "connor-moyse"
 position: "Winger"
 height: "188.0"

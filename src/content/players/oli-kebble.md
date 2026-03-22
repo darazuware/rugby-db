@@ -1,7 +1,7 @@
 ---
-title: "Oli KEBBLE | Oli ・ KEBBLE"
+title: "Oli KEBBLE"
 name_en: "Oli KEBBLE"
-name_ja: "Oli ・ KEBBLE"
+name_ja: "Oli KEBBLE"
 slug: "oli-kebble"
 position: "PR"
 height: "191.0"

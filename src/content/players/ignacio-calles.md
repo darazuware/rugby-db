@@ -1,7 +1,7 @@
 ---
-title: "Ignacio CALLES | イグナシオ-カイェス"
+title: "Ignacio CALLES | イクナシオ-カイェス"
 name_en: "Ignacio CALLES"
-name_ja: "イグナシオ-カイェス"
+name_ja: "イクナシオ-カイェス"
 slug: "ignacio-calles"
 position: "PR"
 height: "187.0"

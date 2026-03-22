@@ -1,7 +1,7 @@
 ---
-title: "Asad MOOS | Asad ・ MOOS"
+title: "Asad MOOS"
 name_en: "Asad MOOS"
-name_ja: "Asad ・ MOOS"
+name_ja: "Asad MOOS"
 slug: "asad-moos"
 position: "SH"
 height: "173.0"

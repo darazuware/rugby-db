@@ -1,9 +1,9 @@
 ---
-title: "Luke MURPHY | ルーク ・ MURPHY"
+title: "Luke MURPHY | ルーク マーフィー"
 name_en: "Luke MURPHY"
-name_ja: "ルーク ・ MURPHY"
+name_ja: "ルーク マーフィー"
 slug: "luke-murphy"
-position: "Back row"
+position: "FL/No8"
 height: ""
 weight: ""
 birth_date: "2005.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-murphy"
 ---
 
 ## キャリア遍歴
-Shannon RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+shannon rfc (2023 - 2024) -> munster rugby (2024 - 2026)

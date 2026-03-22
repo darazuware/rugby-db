@@ -1,7 +1,7 @@
 ---
-title: "Valynce Te Whare | ヴァレンス ・テファレ"
+title: "Valynce Te Whare | ウァレンス テファレ"
 name_en: "Valynce Te Whare"
-name_ja: "ヴァレンス ・テファレ"
+name_ja: "ウァレンス テファレ"
 slug: "valynce-te-whare"
 position: "WTB"
 height: "182.0"

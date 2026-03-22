@@ -1,9 +1,9 @@
 ---
-title: "Ross MORIARTY | ロス ・ MORIARTY"
+title: "Ross MORIARTY | ロス モリアーティ"
 name_en: "Ross MORIARTY"
-name_ja: "ロス ・ MORIARTY"
+name_ja: "ロス モリアーティ"
 slug: "ross-moriarty"
-position: "Back row"
+position: "FL/No8"
 height: "188.0"
 weight: "108.0"
 birth_date: "1994.04.18"
@@ -15,8 +15,8 @@ team: "Ospreys"
 caps: "Wales (34)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ross-moriarty"
+scraped_url: "gloucester rugby (2013 - 2018) -> dragons rfc (2018 - 2022) -> ca brive corrèze limousin (2022 - 2022) -> dragons rfc (2023 - 2023) -> ca brive corrèze limousin (2023 - 2025) -> ospreys (2025 - 2026)"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2013 - 2018) -> Dragons RFC (2018 - 2022) -> CA Brive Corrèze Limousin (2022 - 2022) -> Dragons RFC (2023 - 2023) -> CA Brive Corrèze Limousin (2023 - 2025) -> Ospreys (2025 - 2026)
+England

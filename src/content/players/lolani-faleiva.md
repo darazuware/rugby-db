@@ -1,7 +1,7 @@
 ---
-title: "Lolani FALEIVA | ロラニ・ファレイヴァ"
+title: "Lolani FALEIVA | ロラニ ファレイウァ"
 name_en: "Lolani FALEIVA"
-name_ja: "ロラニ・ファレイヴァ"
+name_ja: "ロラニ ファレイウァ"
 slug: "lolani-faleiva"
 position: "PR"
 height: "193.0"

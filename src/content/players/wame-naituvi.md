@@ -1,7 +1,7 @@
 ---
-title: "Wame NAITUVI | ワメ・ナイトゥヴィ"
+title: "Wame NAITUVI | ワメ ナイトゥウィ"
 name_en: "Wame NAITUVI"
-name_ja: "ワメ・ナイトゥヴィ"
+name_ja: "ワメ ナイトゥウィ"
 slug: "wame-naituvi"
 position: "WTB"
 height: "180.0"

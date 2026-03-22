@@ -1,7 +1,7 @@
 ---
-title: "Denzel SAMOA | デンゼル・サモア"
+title: "Denzel SAMOA | テンセル サモア"
 name_en: "Denzel SAMOA"
-name_ja: "デンゼル・サモア"
+name_ja: "テンセル サモア"
 slug: "denzel-samoa"
 position: "WTB"
 height: "185.0"

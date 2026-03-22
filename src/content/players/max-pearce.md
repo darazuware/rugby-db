@@ -1,7 +1,7 @@
 ---
-title: "Max PEARCE | Max ・ PEARCE"
+title: "Max PEARCE | マックス ヒアース"
 name_en: "Max PEARCE"
-name_ja: "Max ・ PEARCE"
+name_ja: "マックス ヒアース"
 slug: "max-pearce"
 position: "HO"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-pearce"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)
+bath rugby (2023 - 2025) -> cardiff rugby (2025 - 2025) -> bath rugby (2026 - 2026) -> cardiff rugby (2026 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Rikus Pretorius | リカス ・プレトリアス"
+title: "Rikus Pretorius | リカス フレトリアス"
 name_en: "Rikus Pretorius"
-name_ja: "リカス ・プレトリアス"
+name_ja: "リカス フレトリアス"
 slug: "rikus-pretorius"
 position: "CTB"
 height: "193.0"

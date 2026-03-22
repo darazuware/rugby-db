@@ -1,7 +1,7 @@
 ---
-title: "Etienne JANEKE | Etienne ・ JANEKE"
+title: "Etienne JANEKE | エティエンヌ イェネケ"
 name_en: "Etienne JANEKE"
-name_ja: "Etienne ・ JANEKE"
+name_ja: "エティエンヌ イェネケ"
 slug: "etienne-janeke"
 position: "PR"
 height: "193.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/etienne-janeke"
 ---
 
 ## キャリア遍歴
-Pumas (2020 - 2025) -> Bulls (2025 - 2026)
+pumas (2020 - 2025) -> bulls (2025 - 2026)

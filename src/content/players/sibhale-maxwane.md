@@ -1,9 +1,9 @@
 ---
-title: "Rabz MAXWANE | Rabz ・ MAXWANE"
+title: "Rabz MAXWANE | ラフス マクスワネ"
 name_en: "Rabz MAXWANE"
-name_ja: "Rabz ・ MAXWANE"
+name_ja: "ラフス マクスワネ"
 slug: "sibhale-maxwane"
-position: "Winger"
+position: "WTB"
 height: "181.0"
 weight: "90.0"
 birth_date: "1995.08.14"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sibhale-maxwane"
 ---
 
 ## キャリア遍歴
-Bulls (2016 - 2017) -> Central Cheetahs (2017 - 2020) -> Lions Rugby (2020 - 2026)
+bulls (2016 - 2017) -> central cheetahs (2017 - 2020) -> lions rugby (2020 - 2026)

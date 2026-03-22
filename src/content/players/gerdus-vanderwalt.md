@@ -1,7 +1,7 @@
 ---
-title: "Gerdus Vanderwalt | ヘルダス ・ファンデルヴォルト"
+title: "Gerdus Vanderwalt | ヘルタス ファンテルウォルト"
 name_en: "Gerdus Vanderwalt"
-name_ja: "ヘルダス ・ファンデルヴォルト"
+name_ja: "ヘルタス ファンテルウォルト"
 slug: "gerdus-vanderwalt"
 position: "CTB"
 height: "184.0"

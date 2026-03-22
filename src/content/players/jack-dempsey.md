@@ -1,9 +1,9 @@
 ---
-title: "Jack DEMPSEY | ジャック ・ DEMPSEY"
+title: "Jack DEMPSEY | シャック-テンフシー"
 name_en: "Jack DEMPSEY"
-name_ja: "ジャック ・ DEMPSEY"
+name_ja: "シャック-テンフシー"
 slug: "jack-dempsey"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "112.0"
 birth_date: "1994.04.12"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Scotland (22)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jack-dempsey"
+scraped_url: "new south wales waratahs (2014 - 2021) -> glasgow warriors (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2014 - 2021) -> Glasgow Warriors (2021 - 2026)
+Australia

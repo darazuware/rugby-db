@@ -1,7 +1,7 @@
 ---
-title: "Phil COKANASIGA | Phil ・ COKANASIGA"
+title: "Phil COKANASIGA | フィル コカナシカ"
 name_en: "Phil COKANASIGA"
-name_ja: "Phil ・ COKANASIGA"
+name_ja: "フィル コカナシカ"
 slug: "phil-cokanasiga"
 position: "CTB"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/phil-cokanasiga"
 ---
 
 ## キャリア遍歴
-London Irish (2016 - 2022) -> Leicester Tigers (2022 - 2022) -> Nottingham Rugby (2022 - 2022) -> Leicester Tigers (2023 - 2023) -> Nottingham Rugby (2023 - 2023) -> Leicester Tigers (2023 - 2024) -> Ospreys (2024 - 2026)
+london irish (2016 - 2022) -> leicester tigers (2022 - 2022) -> nottingham rugby (2022 - 2022) -> leicester tigers (2023 - 2023) -> nottingham rugby (2023 - 2023) -> leicester tigers (2023 - 2024) -> ospreys (2024 - 2026)

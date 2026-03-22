@@ -1,7 +1,7 @@
 ---
-title: "Xan MOUSQUÈS | ジャン・ムスケ"
-name_en: "Xan MOUSQUÈS"
-name_ja: "ジャン・ムスケ"
+title: "Xan MOUSQUES | シャン ムスケ"
+name_en: "Xan MOUSQUES"
+name_ja: "シャン ムスケ"
 slug: "xan-mousques"
 position: "WTB"
 height: "178.0"

@@ -1,7 +1,7 @@
 ---
-title: "Tom CURRIE | トム・カリー"
+title: "Tom CURRIE | トム カリー"
 name_en: "Tom CURRIE"
-name_ja: "トム・カリー"
+name_ja: "トム カリー"
 slug: "tom-currie"
 position: "FL/No8"
 height: "190.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/tom-currie"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "edimbourg rugby (2023 - 2024) -> doncaster knights (2024 - 2024) -> edimbourg rugby (2025 - 2025) -> doncaster knights (2025 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/tom-currie"
 ---
 
 ## キャリア遍歴
-
+edimbourg rugby (2023 - 2024) -> doncaster knights (2024 - 2024) -> edimbourg rugby (2025 - 2025) -> doncaster knights (2025 - 2025) -> edimbourg rugby (2025 - 2026)

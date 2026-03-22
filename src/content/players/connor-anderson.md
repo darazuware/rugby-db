@@ -1,7 +1,7 @@
 ---
-title: "Connor Anderson | コナー ・アンダーソン"
+title: "Connor Anderson | コナー アンターソン"
 name_en: "Connor Anderson"
-name_ja: "コナー ・アンダーソン"
+name_ja: "コナー アンターソン"
 slug: "connor-anderson"
 position: "FL/No8"
 height: "191.0"

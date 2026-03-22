@@ -1,7 +1,7 @@
 ---
-title: "Harry THOMAS | Harry ・ トーマス"
+title: "Harry THOMAS | Harry トーマス"
 name_en: "Harry THOMAS"
-name_ja: "Harry ・ トーマス"
+name_ja: "Harry トーマス"
 slug: "harry-thomas"
 position: "HO"
 height: "185.0"

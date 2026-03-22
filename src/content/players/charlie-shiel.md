@@ -1,7 +1,7 @@
 ---
-title: "Charlie SHIEL | Charlie ・ SHIEL"
+title: "Charlie SHIEL"
 name_en: "Charlie SHIEL"
-name_ja: "Charlie ・ SHIEL"
+name_ja: "Charlie SHIEL"
 slug: "charlie-shiel"
 position: "SH"
 height: "178.0"

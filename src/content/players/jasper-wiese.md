@@ -1,7 +1,7 @@
 ---
-title: "Jasper Wiese | ヤスパー ・ヴィーセ"
+title: "Jasper Wiese | ヤスハー ウィーセ"
 name_en: "Jasper Wiese"
-name_ja: "ヤスパー ・ヴィーセ"
+name_ja: "ヤスハー ウィーセ"
 slug: "jasper-wiese"
 position: "FL/No8"
 height: "190.0"

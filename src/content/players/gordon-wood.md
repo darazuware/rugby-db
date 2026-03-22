@@ -1,7 +1,7 @@
 ---
-title: "Gordon WOOD | Gordon ・ WOOD"
+title: "Gordon WOOD | コートン ウット"
 name_en: "Gordon WOOD"
-name_ja: "Gordon ・ WOOD"
+name_ja: "コートン ウット"
 slug: "gordon-wood"
 position: "CTB"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gordon-wood"
 ---
 
 ## キャリア遍歴
-Garryowen FC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+garryowen fc (2023 - 2024) -> munster rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Sam LOUSI | サム ・ LOUSI"
+title: "Sam LOUSI | サム ルシ"
 name_en: "Sam LOUSI"
-name_ja: "サム ・ LOUSI"
+name_ja: "サム ルシ"
 slug: "sam-lousi"
 position: "LO"
 height: "198.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: "Tonga (13)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/sam-lousi"
+scraped_url: "new south wales waratahs (2014 - 2016) -> hurricanes (2016 - 2019) -> scarlets (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2014 - 2016) -> Hurricanes (2016 - 2019) -> Scarlets (2019 - 2026)
+New Zealand

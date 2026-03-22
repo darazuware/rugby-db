@@ -1,7 +1,7 @@
 ---
-title: "Charlie Titcombe | チャーリー ・ティトコム"
+title: "Charlie Titcombe | チャーリー ティトコム"
 name_en: "Charlie Titcombe"
-name_ja: "チャーリー ・ティトコム"
+name_ja: "チャーリー ティトコム"
 slug: "charlie-titcombe"
 position: "SO"
 height: "179.0"

@@ -1,7 +1,7 @@
 ---
-title: "Ben THOMAS | ベン ・ トーマス"
+title: "Ben THOMAS | ヘン トーマス"
 name_en: "Ben THOMAS"
-name_ja: "ベン ・ トーマス"
+name_ja: "ヘン トーマス"
 slug: "ben-thomas"
 position: "SO"
 height: "183.0"

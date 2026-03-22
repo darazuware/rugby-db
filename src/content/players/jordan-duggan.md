@@ -1,7 +1,7 @@
 ---
-title: "Jordan DUGGAN | Jordan ・ DUGGAN"
+title: "Jordan DUGGAN | ショータン タカン"
 name_en: "Jordan DUGGAN"
-name_ja: "Jordan ・ DUGGAN"
+name_ja: "ショータン タカン"
 slug: "jordan-duggan"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-duggan"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2019 - 2026)
+connacht rugby (2019 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Kemu VALETINI | ケム・ヴァレティニ"
+title: "Kemu VALETINI | ケム ウァレティニ"
 name_en: "Kemu VALETINI"
-name_ja: "ケム・ヴァレティニ"
+name_ja: "ケム ウァレティニ"
 slug: "kemu-valetini"
 position: "SO"
 height: "185.0"

@@ -1,9 +1,9 @@
 ---
-title: "Morgan MORSE | Morgan ・ MORSE"
+title: "Morgan MORSE | モルカン モース"
 name_en: "Morgan MORSE"
-name_ja: "Morgan ・ MORSE"
+name_ja: "モルカン モース"
 slug: "morgan-morse"
-position: "Back row"
+position: "FL/No8"
 height: "185.0"
 weight: "106.0"
 birth_date: "2005.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morgan-morse"
 ---
 
 ## キャリア遍歴
-Ospreys (2021 - 2026)
+ospreys (2021 - 2026)

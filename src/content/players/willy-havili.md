@@ -1,7 +1,7 @@
 ---
-title: "Willy HAVILI | ウィリー・ハヴィリ"
+title: "Willy HAVILI | ウィリー ハウィリ"
 name_en: "Willy HAVILI"
-name_ja: "ウィリー・ハヴィリ"
+name_ja: "ウィリー ハウィリ"
 slug: "willy-havili"
 position: "FB"
 height: "187.0"

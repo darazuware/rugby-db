@@ -1,7 +1,7 @@
 ---
-title: "Harry MCLAUGHLIN-PHILLIPS | ハリー-マクラフリン＝フィリップス"
+title: "Harry MCLAUGHLIN-PHILLIPS | ハリー-マクラフリン=フィリッフス"
 name_en: "Harry MCLAUGHLIN-PHILLIPS"
-name_ja: "ハリー-マクラフリン＝フィリップス"
+name_ja: "ハリー-マクラフリン=フィリッフス"
 slug: "harry-mclaughlin-phillips"
 position: "SO"
 height: "178.0"

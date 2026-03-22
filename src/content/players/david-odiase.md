@@ -1,9 +1,9 @@
 ---
-title: "David ODIASE | デイヴィッド・オディアセ"
+title: "David ODIASE | テイウィット ODIASE"
 name_en: "David ODIASE"
-name_ja: "デイヴィッド・オディアセ"
+name_ja: "テイウィット ODIASE"
 slug: "david-odiase"
-position: "FL/No8"
+position: "Back row"
 height: "190.0"
 weight: "114.0"
 birth_date: "2003.01.19"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Zebre"
-caps: "https://all.rugby/player/david-odiase"
+caps: "Italy"
 high_school: ""
 university: ""
-scraped_url: "colorno (2021 - 2022) -> oyonnax rugby (2022 - 2025) -> zebre parma (2025 - 2026)"
+scraped_url: "https://all.rugby/player/david-odiase"
 ---
 
 ## キャリア遍歴
-Italy
+Colorno (2021 - 2022) -> Oyonnax Rugby (2022 - 2025) -> Zebre Parma (2025 - 2026)

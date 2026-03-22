@@ -1,7 +1,7 @@
 ---
-title: "Tom Rowe | トム ・ロウ"
+title: "Tom Rowe | トム ロウ"
 name_en: "Tom Rowe"
-name_ja: "トム ・ロウ"
+name_ja: "トム ロウ"
 slug: "tom-rowe"
 position: "LO"
 height: "200.0"

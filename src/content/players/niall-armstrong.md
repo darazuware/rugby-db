@@ -1,7 +1,7 @@
 ---
-title: "Niall ARMSTRONG | ナイル ・ ARMSTRONG"
+title: "Niall ARMSTRONG | ニアル アームストロンク"
 name_en: "Niall ARMSTRONG"
-name_ja: "ナイル ・ ARMSTRONG"
+name_ja: "ニアル アームストロンク"
 slug: "niall-armstrong"
 position: "SH"
 height: "182.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niall-armstrong"
 ---
 
 ## キャリア遍歴
-Exeter University RFC (2021 - 2023) -> Exeter Chiefs (2023 - 2025) -> Dragons RFC (2025 - 2026)
+exeter university rfc (2021 - 2023) -> exeter chiefs (2023 - 2025) -> dragons rfc (2025 - 2026)

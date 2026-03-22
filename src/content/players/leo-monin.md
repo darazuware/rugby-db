@@ -1,7 +1,7 @@
 ---
-title: "Léo MONIN | レオ・モナン"
-name_en: "Léo MONIN"
-name_ja: "レオ・モナン"
+title: "Leo MONIN | レオ モナン"
+name_en: "Leo MONIN"
+name_ja: "レオ モナン"
 slug: "leo-monin"
 position: "FB"
 height: "188.0"

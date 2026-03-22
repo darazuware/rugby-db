@@ -1,7 +1,7 @@
 ---
-title: "Ruben MOLONEY | Ruben ・ MOLONEY"
+title: "Ruben MOLONEY"
 name_en: "Ruben MOLONEY"
-name_ja: "Ruben ・ MOLONEY"
+name_ja: "Ruben MOLONEY"
 slug: "ruben-moloney"
 position: "Winger"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Steeve BLANC-MAPPAZ | スティーヴ・ブラン＝マパズ"
+title: "Steeve BLANC-MAPPAZ | スティーウ フラン=マハス"
 name_en: "Steeve BLANC-MAPPAZ"
-name_ja: "スティーヴ・ブラン＝マパズ"
+name_ja: "スティーウ フラン=マハス"
 slug: "steeve-blanc-mappaz"
 position: "FL/NO8"
 height: "190.0"

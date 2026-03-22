@@ -1,7 +1,7 @@
 ---
-title: "Liekina Kaufusi | リエキナ ・カウフシ"
+title: "Liekina Kaufusi | リエキナ カウフシ"
 name_en: "Liekina Kaufusi"
-name_ja: "リエキナ ・カウフシ"
+name_ja: "リエキナ カウフシ"
 slug: "liekina-kaufusi"
 position: "WTB"
 height: "182.0"

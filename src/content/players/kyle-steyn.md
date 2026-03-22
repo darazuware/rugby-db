@@ -1,7 +1,7 @@
 ---
-title: "Kyle STEYN | Kyle ・ STEYN"
+title: "Kyle STEYN"
 name_en: "Kyle STEYN"
-name_ja: "Kyle ・ STEYN"
+name_ja: "Kyle STEYN"
 slug: "kyle-steyn"
 position: "CTB"
 height: "188.0"

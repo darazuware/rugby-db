@@ -1,7 +1,7 @@
 ---
-title: "Ruben VAN HEERDEN | Ruben ・ ファン ・ HEERDEN"
+title: "Ruben VAN HEERDEN | ルーヘン ファン ヘールテン"
 name_en: "Ruben VAN HEERDEN"
-name_ja: "Ruben ・ ファン ・ HEERDEN"
+name_ja: "ルーヘン ファン ヘールテン"
 slug: "ruben-van-heerden"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruben-van-heerden"
 ---
 
 ## キャリア遍歴
-Bulls (2016 - 2018) -> Sharks (2018 - 2022) -> Exeter Chiefs (2022 - 2022) -> Stormers (2022 - 2022) -> Exeter Chiefs (2023 - 2023) -> Stormers (2023 - 2026)
+bulls (2016 - 2018) -> sharks (2018 - 2022) -> exeter chiefs (2022 - 2022) -> stormers (2022 - 2022) -> exeter chiefs (2023 - 2023) -> stormers (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "AMANAKI LISALA | アマナキ ・リサラ"
+title: "AMANAKI LISALA | アマナキ リサラ"
 name_en: "AMANAKI LISALA"
-name_ja: "アマナキ ・リサラ"
+name_ja: "アマナキ リサラ"
 slug: "amanaki-lisala"
 position: "WTB"
 height: "188.0"

@@ -1,9 +1,9 @@
 ---
-title: "Jeandré RUDOLPH | Jeandr ・ RUDOLPH"
-name_en: "Jeandré RUDOLPH"
-name_ja: "Jeandr ・ RUDOLPH"
+title: "Jeandre RUDOLPH | シャントレ-ルトルフ"
+name_en: "Jeandre RUDOLPH"
+name_ja: "シャントレ-ルトルフ"
 slug: "jeandre-rudolph"
-position: "Back row"
+position: "FL/No8"
 height: "186.0"
 weight: "108.0"
 birth_date: "1994.05.09"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeandre-rudolph"
 ---
 
 ## キャリア遍歴
-Pumas (2018 - 2019) -> Bulls (2019 - 2019) -> Pumas (2020 - 2020) -> Bulls (2020 - 2020) -> Free State Cheetahs (2020 - 2022) -> Central Cheetahs (2022 - 2023) -> Ospreys (2023 - 2023) -> Central Cheetahs (2024 - 2024) -> Ospreys (2024 - 2024) -> Central Cheetahs (2024 - 2025) -> Bulls (2025 - 2026)
+pumas (2018 - 2019) -> bulls (2019 - 2019) -> pumas (2020 - 2020) -> bulls (2020 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2024) -> central cheetahs (2024 - 2025) -> bulls (2025 - 2026)

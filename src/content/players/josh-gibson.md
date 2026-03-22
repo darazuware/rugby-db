@@ -1,7 +1,7 @@
 ---
-title: "Josh GIBSON | ジョシュ ・ ギブソン"
+title: "Josh GIBSON | ショシュ キフソン"
 name_en: "Josh GIBSON"
-name_ja: "ジョシュ ・ ギブソン"
+name_ja: "ショシュ キフソン"
 slug: "josh-gibson"
 position: "Winger"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Giovanni MARZOTTO | Giovanni ・ MARZOTTO"
+title: "Giovanni MARZOTTO"
 name_en: "Giovanni MARZOTTO"
-name_ja: "Giovanni ・ MARZOTTO"
+name_ja: "Giovanni MARZOTTO"
 slug: "giovanni-marzotto"
 position: "Winger"
 height: "193.0"

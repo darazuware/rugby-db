@@ -1,7 +1,7 @@
 ---
-title: "Eric MARKS | エリック・マークス"
+title: "Eric MARKS | エリック マークス"
 name_en: "Eric MARKS"
-name_ja: "エリック・マークス"
+name_ja: "エリック マークス"
 slug: "eric-marks"
 position: "LO"
 height: "196.0"

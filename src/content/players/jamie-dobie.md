@@ -1,7 +1,7 @@
 ---
-title: "Jamie DOBIE | ジェイミー ・ DOBIE"
+title: "Jamie DOBIE | シェイミー-トヒー"
 name_en: "Jamie DOBIE"
-name_ja: "ジェイミー ・ DOBIE"
+name_ja: "シェイミー-トヒー"
 slug: "jamie-dobie"
 position: "SH"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Scotland (9)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jamie-dobie"
+scraped_url: "glasgow warriors (2019 - 2021) -> bay of plenty steamers (2021 - 2021) -> glasgow warriors (2022 - 2022) -> bay of plenty steamers (2022 - 2022) -> glasgow warriors (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2021) -> Bay of Plenty Steamers (2021 - 2021) -> Glasgow Warriors (2022 - 2022) -> Bay of Plenty Steamers (2022 - 2022) -> Glasgow Warriors (2022 - 2026)
+Scotland

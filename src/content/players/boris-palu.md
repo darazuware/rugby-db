@@ -1,7 +1,7 @@
 ---
-title: "Boris PALU | ボリス・パリュ"
+title: "Boris PALU | ホリス ハリュ"
 name_en: "Boris PALU"
-name_ja: "ボリス・パリュ"
+name_ja: "ホリス ハリュ"
 slug: "boris-palu"
 position: "LO"
 height: "194.0"

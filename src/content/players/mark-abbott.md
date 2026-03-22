@@ -1,7 +1,7 @@
 ---
-title: "Mark Abbott | マーク ・アボット"
+title: "Mark Abbott | マーク アホット"
 name_en: "Mark Abbott"
-name_ja: "マーク ・アボット"
+name_ja: "マーク アホット"
 slug: "mark-abbott"
 position: "LO"
 height: "197.0"

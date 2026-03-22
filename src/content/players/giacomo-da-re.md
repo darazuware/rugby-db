@@ -1,7 +1,7 @@
 ---
-title: "Giacomo DA RE | Giacomo ・ DA ・ RE"
+title: "Giacomo DA RE | シャコモ タ レ"
 name_en: "Giacomo DA RE"
-name_ja: "Giacomo ・ DA ・ RE"
+name_ja: "シャコモ タ レ"
 slug: "giacomo-da-re"
 position: "SO"
 height: "180.0"
@@ -15,8 +15,8 @@ team: "Zebre"
 caps: "Squad caps (746)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/giacomo-da-re"
+scraped_url: "mogliano veneto rugby (2017 - 2021) -> benetton rugby trévise (2021 - 2024) -> zebre parma (2024 - 2026)"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2017 - 2021) -> Benetton Rugby Trévise (2021 - 2024) -> Zebre Parma (2024 - 2026)
+

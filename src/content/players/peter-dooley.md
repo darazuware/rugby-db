@@ -1,7 +1,7 @@
 ---
-title: "Peter DOOLEY | ピーター ・ DOOLEY"
+title: "Peter DOOLEY | ヒーター トゥーリー"
 name_en: "Peter DOOLEY"
-name_ja: "ピーター ・ DOOLEY"
+name_ja: "ヒーター トゥーリー"
 slug: "peter-dooley"
 position: "PR"
 height: "183.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peter-dooley"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2014 - 2022) -> Connacht Rugby (2022 - 2026)
+leinster rugby (2014 - 2022) -> connacht rugby (2022 - 2026)

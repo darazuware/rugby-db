@@ -1,7 +1,7 @@
 ---
-title: "Ataata Moeakiola | アタアタ ・モエアキオラ"
+title: "Ataata Moeakiola | アタアタ モエアキオラ"
 name_en: "Ataata Moeakiola"
-name_ja: "アタアタ ・モエアキオラ"
+name_ja: "アタアタ モエアキオラ"
 slug: "ataata-moeakiola"
 position: "WTB"
 height: "185.0"

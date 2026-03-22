@@ -1,7 +1,7 @@
 ---
-title: "Miles AMATOSERO | マイルス・アマートセロ"
+title: "Miles AMATOSERO | マイルス アマートセロ"
 name_en: "Miles AMATOSERO"
-name_ja: "マイルス・アマートセロ"
+name_ja: "マイルス アマートセロ"
 slug: "miles-amatosero"
 position: "LO"
 height: "202.0"

@@ -1,7 +1,7 @@
 ---
-title: "Matis PERCHAUD | マティス・ペルショー"
+title: "Matis PERCHAUD | マティス ヘルショー"
 name_en: "Matis PERCHAUD"
-name_ja: "マティス・ペルショー"
+name_ja: "マティス ヘルショー"
 slug: "matis-perchaud"
 position: "PR"
 height: "187.0"

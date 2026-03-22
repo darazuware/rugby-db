@@ -1,7 +1,7 @@
 ---
-title: "Sam FRANCIS | サム ・ FRANCIS"
+title: "Sam FRANCIS | サム フランシス"
 name_en: "Sam FRANCIS"
-name_ja: "サム ・ FRANCIS"
+name_ja: "サム フランシス"
 slug: "sam-francis"
 position: "SO"
 height: "190.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-francis"
 ---
 
 ## キャリア遍歴
-Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)
+golden lions (2022 - 2024) -> lions rugby (2024 - 2026)

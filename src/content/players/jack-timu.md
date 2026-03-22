@@ -1,7 +1,7 @@
 ---
-title: "Jack Timu | ジャック ・ティム"
+title: "Jack Timu | シャック ティム"
 name_en: "Jack Timu"
-name_ja: "ジャック ・ティム"
+name_ja: "シャック ティム"
 slug: "jack-timu"
 position: "WTB"
 height: "175.0"

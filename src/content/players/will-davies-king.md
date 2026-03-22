@@ -1,7 +1,7 @@
 ---
-title: "Will DAVIES-KING | ウィル-デイヴィス＝キング"
+title: "Will DAVIES-KING | ウィル-テイウィス=キンク"
 name_en: "Will DAVIES-KING"
-name_ja: "ウィル-デイヴィス＝キング"
+name_ja: "ウィル-テイウィス=キンク"
 slug: "will-davies-king"
 position: "PR"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/will-davies-king"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
-scraped_url: "cardiff rugby (2019 - 2026)"
+scraped_url: "https://all.rugby/player/will-davies-king"
 ---
 
 ## キャリア遍歴
-Wales
+cardiff rugby (2019 - 2026)

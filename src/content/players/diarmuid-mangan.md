@@ -1,7 +1,7 @@
 ---
-title: "Diarmuid MANGAN | Diarmuid ・ MANGAN"
+title: "Diarmuid MANGAN"
 name_en: "Diarmuid MANGAN"
-name_ja: "Diarmuid ・ MANGAN"
+name_ja: "Diarmuid MANGAN"
 slug: "diarmuid-mangan"
 position: "Back row"
 height: "198.0"

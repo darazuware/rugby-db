@@ -1,7 +1,7 @@
 ---
-title: "Martin ROGER FARIAS | Martin ・ ROGER ・ FARIAS"
+title: "Martin ROGER FARIAS"
 name_en: "Martin ROGER FARIAS"
-name_ja: "Martin ・ ROGER ・ FARIAS"
+name_ja: "Martin ROGER FARIAS"
 slug: "martin-roger-farias"
 position: "SO"
 height: "186.0"

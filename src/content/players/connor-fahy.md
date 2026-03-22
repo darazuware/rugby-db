@@ -1,7 +1,7 @@
 ---
-title: "Connor FAHY | コナー・フェイヒー"
+title: "Connor FAHY"
 name_en: "Connor FAHY"
-name_ja: "コナー・フェイヒー"
+name_ja: "Connor FAHY"
 slug: "connor-fahy"
 position: "CTB"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/connor-fahy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "clontarf rugby (2024 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/connor-fahy"
 ---
 
 ## キャリア遍歴
-
+Clontarf Rugby (2024 - 2025) -> Leinster Rugby (2025 - 2026)

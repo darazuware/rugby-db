@@ -1,7 +1,7 @@
 ---
-title: "Billy POLLARD | ビリー・ポラード"
+title: "Billy POLLARD | ヒリー ホラート"
 name_en: "Billy POLLARD"
-name_ja: "ビリー・ポラード"
+name_ja: "ヒリー ホラート"
 slug: "billy-pollard"
 position: "HO"
 height: "185.0"

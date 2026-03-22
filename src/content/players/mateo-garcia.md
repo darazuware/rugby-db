@@ -1,7 +1,7 @@
 ---
-title: "Matéo GARCIA | マテオ・ガルシア"
-name_en: "Matéo GARCIA"
-name_ja: "マテオ・ガルシア"
+title: "Mateo GARCIA | マテオ カルシア"
+name_en: "Mateo GARCIA"
+name_ja: "マテオ カルシア"
 slug: "mateo-garcia"
 position: "SO"
 height: "174.0"

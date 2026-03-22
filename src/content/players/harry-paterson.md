@@ -1,7 +1,7 @@
 ---
-title: "Harry PATERSON | Harry ・ PATERSON"
+title: "Harry PATERSON"
 name_en: "Harry PATERSON"
-name_ja: "Harry ・ PATERSON"
+name_ja: "Harry PATERSON"
 slug: "harry-paterson"
 position: "FB"
 height: "191.0"

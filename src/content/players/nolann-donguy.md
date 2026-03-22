@@ -1,7 +1,7 @@
 ---
-title: "Nolann DONGUY | ノラン・ドングイ"
+title: "Nolann DONGUY | ノラン トンクイ"
 name_en: "Nolann DONGUY"
-name_ja: "ノラン・ドングイ"
+name_ja: "ノラン トンクイ"
 slug: "nolann-donguy"
 position: "WTB"
 height: "183.0"

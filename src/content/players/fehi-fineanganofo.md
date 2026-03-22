@@ -1,7 +1,7 @@
 ---
-title: "Fehi FINEANGANOFO | フェヒ-フィネアンガノフォ"
+title: "Fehi FINEANGANOFO | フェヒ-フィネアンカノフォ"
 name_en: "Fehi FINEANGANOFO"
-name_ja: "フェヒ-フィネアンガノフォ"
+name_ja: "フェヒ-フィネアンカノフォ"
 slug: "fehi-fineanganofo"
 position: "CTB"
 height: "186.0"

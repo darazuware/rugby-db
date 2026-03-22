@@ -1,7 +1,7 @@
 ---
-title: "Nama XABA | Nama ・ XABA"
+title: "Nama XABA"
 name_en: "Nama XABA"
-name_ja: "Nama ・ XABA"
+name_ja: "Nama XABA"
 slug: "nama-xaba"
 position: "Back row"
 height: "185.0"

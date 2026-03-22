@@ -1,9 +1,9 @@
 ---
-title: "James BOTHAM | ジェームズ ・ BOTHAM"
+title: "James BOTHAM | シェームス-ホーサム"
 name_en: "James BOTHAM"
-name_ja: "ジェームズ ・ BOTHAM"
+name_ja: "シェームス-ホーサム"
 slug: "james-botham"
-position: "Back row"
+position: "FL/No8"
 height: "191.0"
 weight: "108.0"
 birth_date: "1998.02.22"
@@ -15,8 +15,8 @@ team: "Cardiff"
 caps: "Wales (16)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/james-botham"
+scraped_url: "cardiff rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2017 - 2026)
+Wales

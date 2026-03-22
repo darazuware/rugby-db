@@ -1,7 +1,7 @@
 ---
-title: "Thaakir ABRAHAMS | サーキール・アブラハムズ"
+title: "Thaakir ABRAHAMS | サーキール アフラハムス"
 name_en: "Thaakir ABRAHAMS"
-name_ja: "サーキール・アブラハムズ"
+name_ja: "サーキール アフラハムス"
 slug: "thaakir-abrahams"
 position: "FB"
 height: "175.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/thaakir-abrahams"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "sharks (2019 - 2023) -> lyon olympique universitaire rugby (2023 - 2024) -> munster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/thaakir-abrahams"
 ---
 
 ## キャリア遍歴
-
+sharks (2019 - 2023) -> lyon olympique universitaire rugby (2023 - 2024) -> munster rugby (2024 - 2026)

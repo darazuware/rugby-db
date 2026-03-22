@@ -1,7 +1,7 @@
 ---
-title: "Daniel GREEN | ダニエル・グリーン"
+title: "Daniel GREEN | タニエル クリーン"
 name_en: "Daniel GREEN"
-name_ja: "ダニエル・グリーン"
+name_ja: "タニエル クリーン"
 slug: "daniel-green"
 position: "FB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/daniel-green"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "queen's university (2024 - 2025) -> ulster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/daniel-green"
 ---
 
 ## キャリア遍歴
-
+queen's university (2024 - 2025) -> ulster rugby (2025 - 2026)

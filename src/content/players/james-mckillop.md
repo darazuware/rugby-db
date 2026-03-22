@@ -1,9 +1,9 @@
 ---
-title: "James MCKILLOP | ジェームズ ・ MCKILLOP"
+title: "James MCKILLOP | シェームス マキロッフ"
 name_en: "James MCKILLOP"
-name_ja: "ジェームズ ・ MCKILLOP"
+name_ja: "シェームス マキロッフ"
 slug: "james-mckillop"
-position: "Back row"
+position: "FL/No8"
 height: ""
 weight: ""
 birth_date: "2004.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-mckillop"
 ---
 
 ## キャリア遍歴
-Queen's University (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+queen's university (2023 - 2024) -> ulster rugby (2024 - 2026)

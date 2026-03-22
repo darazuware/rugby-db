@@ -1,7 +1,7 @@
 ---
-title: "Mitchell Hunt | ミッチェル ・ハント"
+title: "Mitchell Hunt | ミッチェル ハント"
 name_en: "Mitchell Hunt"
-name_ja: "ミッチェル ・ハント"
+name_ja: "ミッチェル ハント"
 slug: "mitchell-hunt"
 position: "SO"
 height: "172.0"

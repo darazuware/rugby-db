@@ -1,9 +1,9 @@
 ---
-title: "Dylan RICHARDSON | ディラン-リチャードソン"
+title: "Dylan RICHARDSON"
 name_en: "Dylan RICHARDSON"
-name_ja: "ディラン-リチャードソン"
+name_ja: "Dylan RICHARDSON"
 slug: "dylan-richardson"
-position: "FL/No8"
+position: "Back row"
 height: "185.0"
 weight: "110.0"
 birth_date: "1999.01.15"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Scotland (6)"
 high_school: ""
 university: ""
-scraped_url: "sharks (2018 - 2025) -> edimbourg rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/dylan-richardson"
 ---
 
 ## キャリア遍歴
-South Africa
+Sharks (2018 - 2025) -> Edimbourg Rugby (2025 - 2026)

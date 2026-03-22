@@ -1,7 +1,7 @@
 ---
-title: "Li Tevita | テビタ ・リー"
+title: "Li Tevita | テヒタ リー"
 name_en: "Li Tevita"
-name_ja: "テビタ ・リー"
+name_ja: "テヒタ リー"
 slug: "li-tevita"
 position: "WTB"
 height: "182.0"

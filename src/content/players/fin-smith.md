@@ -1,12 +1,12 @@
 ---
-title: "Fin Smith"
-name_en: "Fin Smith"
+title: "Fin SMITH"
+name_en: "Fin SMITH"
 name_ja: ""
 slug: "fin-smith"
 position: "Fly-half"
 height: ""
 weight: ""
-birth_date: "2002.05.11"
+birth_date: "nan"
 age: 23
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "England (6)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/fin-smith"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Cameron Bailey | キャメロン ・ベイリー"
+title: "Cameron Bailey | キャメロン ヘイリー"
 name_en: "Cameron Bailey"
-name_ja: "キャメロン ・ベイリー"
+name_ja: "キャメロン ヘイリー"
 slug: "cameron-bailey"
 position: "FB"
 height: "191.0"

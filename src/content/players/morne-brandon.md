@@ -1,7 +1,7 @@
 ---
-title: "Morné BRANDON | Morn ・ BRANDON"
-name_en: "Morné BRANDON"
-name_ja: "Morn ・ BRANDON"
+title: "Morne BRANDON | Morn BRANDON"
+name_en: "Morne BRANDON"
+name_ja: "Morn BRANDON"
 slug: "morne-brandon"
 position: "HO"
 height: "184.0"

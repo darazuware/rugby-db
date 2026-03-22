@@ -1,7 +1,7 @@
 ---
-title: "Frans MALHERBE | フランス ・ マルハーバ"
+title: "Frans MALHERBE | フランス-マルハーハ"
 name_en: "Frans MALHERBE"
-name_ja: "フランス ・ マルハーバ"
+name_ja: "フランス-マルハーハ"
 slug: "frans-malherbe"
 position: "PR"
 height: "190.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: "South Africa (63)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/frans-malherbe"
+scraped_url: "stormers (2011 - 2026)"
 ---
 
 ## キャリア遍歴
-Stormers (2011 - 2026)
+South Africa

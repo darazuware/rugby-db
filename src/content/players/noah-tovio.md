@@ -1,7 +1,7 @@
 ---
-title: "Noah Tovio | ノア ・トビオ"
+title: "Noah Tovio | ノア トヒオ"
 name_en: "Noah Tovio"
-name_ja: "ノア ・トビオ"
+name_ja: "ノア トヒオ"
 slug: "noah-tovio"
 position: "FL/No8"
 height: "184.0"

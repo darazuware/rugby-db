@@ -1,7 +1,7 @@
 ---
-title: "Dan EDWARDS | ダン ・ EDWARDS"
+title: "Dan EDWARDS | タン EDWARDS"
 name_en: "Dan EDWARDS"
-name_ja: "ダン ・ EDWARDS"
+name_ja: "タン EDWARDS"
 slug: "dan-edwards"
 position: "SO"
 height: "178.0"

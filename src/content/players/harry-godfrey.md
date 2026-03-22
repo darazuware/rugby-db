@@ -1,7 +1,7 @@
 ---
-title: "Harry GODFREY | ハリー-ゴッドフリー"
+title: "Harry GODFREY | ハリー-コットフリー"
 name_en: "Harry GODFREY"
-name_ja: "ハリー-ゴッドフリー"
+name_ja: "ハリー-コットフリー"
 slug: "harry-godfrey"
 position: "SO"
 height: "176.0"

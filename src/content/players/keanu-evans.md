@@ -1,7 +1,7 @@
 ---
-title: "Keanu EVANS | Keanu ・ EVANS"
+title: "Keanu EVANS"
 name_en: "Keanu EVANS"
-name_ja: "Keanu ・ EVANS"
+name_ja: "Keanu EVANS"
 slug: "keanu-evans"
 position: "Back row"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Taufa Latu | タウファ ・ラトゥ"
+title: "Taufa Latu | タウファ ラトゥ"
 name_en: "Taufa Latu"
-name_ja: "タウファ ・ラトゥ"
+name_ja: "タウファ ラトゥ"
 slug: "taufa-latu"
 position: "PR"
 height: "183.0"

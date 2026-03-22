@@ -1,7 +1,7 @@
 ---
-title: "Hugo PARROU | ユーゴー・パルー"
+title: "Hugo PARROU | ユーコー ハルー"
 name_en: "Hugo PARROU"
-name_ja: "ユーゴー・パルー"
+name_ja: "ユーコー ハルー"
 slug: "hugo-parrou"
 position: "PR"
 height: "183.0"

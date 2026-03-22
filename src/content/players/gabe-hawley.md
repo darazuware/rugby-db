@@ -1,7 +1,7 @@
 ---
-title: "Gabe HAWLEY | Gabe ・ HAWLEY"
+title: "Gabe HAWLEY | ケイフ ホーリー"
 name_en: "Gabe HAWLEY"
-name_ja: "Gabe ・ HAWLEY"
+name_ja: "ケイフ ホーリー"
 slug: "gabe-hawley"
 position: "PR"
 height: "190.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabe-hawley"
 ---
 
 ## キャリア遍歴
-Ealing Trailfinders (2023 - 2024) -> Scarlets (2024 - 2026)
+ealing trailfinders (2023 - 2024) -> scarlets (2024 - 2026)

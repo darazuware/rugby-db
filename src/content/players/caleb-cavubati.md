@@ -1,7 +1,7 @@
 ---
-title: "Caleb Cavubati | ケレブ ・カヴバティ"
+title: "Caleb Cavubati | ケレフ カウハティ"
 name_en: "Caleb Cavubati"
-name_ja: "ケレブ ・カヴバティ"
+name_ja: "ケレフ カウハティ"
 slug: "caleb-cavubati"
 position: "WTB"
 height: "175.0"

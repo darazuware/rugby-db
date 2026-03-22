@@ -1,7 +1,7 @@
 ---
-title: "Julien DELBOUIS | ジュリアン・デルブイス"
+title: "Julien DELBOUIS | シュリアン テルフイス"
 name_en: "Julien DELBOUIS"
-name_ja: "ジュリアン・デルブイス"
+name_ja: "シュリアン テルフイス"
 slug: "julien-delbouis"
 position: "CTB"
 height: "185.0"

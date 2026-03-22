@@ -1,7 +1,7 @@
 ---
-title: "Alex KENDELLEN | Alex ・ KENDELLEN"
+title: "Alex KENDELLEN"
 name_en: "Alex KENDELLEN"
-name_ja: "Alex ・ KENDELLEN"
+name_ja: "Alex KENDELLEN"
 slug: "alex-kendellen"
 position: "Back row"
 height: "188.0"

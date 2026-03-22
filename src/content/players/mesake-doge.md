@@ -1,7 +1,7 @@
 ---
-title: "Mesake DOGE | メサケ・ドゲ"
+title: "Mesake DOGE | メサケ トケ"
 name_en: "Mesake DOGE"
-name_ja: "メサケ・ドゲ"
+name_ja: "メサケ トケ"
 slug: "mesake-doge"
 position: "PR"
 height: "180.0"

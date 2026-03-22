@@ -1,7 +1,7 @@
 ---
-title: "Henry MCERLEAN | Henry ・ MCERLEAN"
+title: "Henry MCERLEAN"
 name_en: "Henry MCERLEAN"
-name_ja: "Henry ・ MCERLEAN"
+name_ja: "Henry MCERLEAN"
 slug: "henry-mcerlean"
 position: "FB"
 height: "183.0"

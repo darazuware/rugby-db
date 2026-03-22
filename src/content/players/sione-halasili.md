@@ -1,7 +1,7 @@
 ---
-title: "Sione Halasili | シオネ ・ハラシリ"
+title: "Sione Halasili | シオネ ハラシリ"
 name_en: "Sione Halasili"
-name_ja: "シオネ ・ハラシリ"
+name_ja: "シオネ ハラシリ"
 slug: "sione-halasili"
 position: "FL/No8"
 height: "180.0"

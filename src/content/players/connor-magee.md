@@ -1,7 +1,7 @@
 ---
-title: "Connor MAGEE | コナー・マギー"
+title: "Connor MAGEE | コナー マキー"
 name_en: "Connor MAGEE"
-name_ja: "コナー・マギー"
+name_ja: "コナー マキー"
 slug: "connor-magee"
 position: "HO"
 height: "185.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/connor-magee"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "banbridge rfc (2024 - 2025) -> ulster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/connor-magee"
 ---
 
 ## キャリア遍歴
-
+banbridge rfc (2024 - 2025) -> ulster rugby (2025 - 2026)

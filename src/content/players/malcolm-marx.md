@@ -1,7 +1,7 @@
 ---
-title: "Malcolm Marx | マルコム ・マークス"
+title: "Malcolm Marx | マルコム マークス"
 name_en: "Malcolm Marx"
-name_ja: "マルコム ・マークス"
+name_ja: "マルコム マークス"
 slug: "malcolm-marx"
 position: "HO"
 height: "189.0"

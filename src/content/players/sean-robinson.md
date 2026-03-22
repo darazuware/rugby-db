@@ -1,7 +1,7 @@
 ---
-title: "Sean Robinson | ショーン ・ロビンソン"
+title: "Sean Robinson | ショーン ロヒンソン"
 name_en: "Sean Robinson"
-name_ja: "ショーン ・ロビンソン"
+name_ja: "ショーン ロヒンソン"
 slug: "sean-robinson"
 position: "LO"
 height: "197.0"

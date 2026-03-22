@@ -1,12 +1,12 @@
 ---
-title: "Ben Spencer"
-name_en: "Ben Spencer"
+title: "Ben SPENCER"
+name_en: "Ben SPENCER"
 name_ja: ""
 slug: "ben-spencer"
 position: "Scrum-half"
 height: ""
 weight: ""
-birth_date: "1992.07.31"
+birth_date: "nan"
 age: 33
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (4)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/ben-spencer"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

@@ -1,7 +1,7 @@
 ---
-title: "Malo Tuitama | マロ ・ツイタマ"
+title: "Malo Tuitama | マロ ツイタマ"
 name_en: "Malo Tuitama"
-name_ja: "マロ ・ツイタマ"
+name_ja: "マロ ツイタマ"
 slug: "malo-tuitama"
 position: "WTB"
 height: "182.0"

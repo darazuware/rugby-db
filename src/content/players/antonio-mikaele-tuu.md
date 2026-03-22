@@ -1,7 +1,7 @@
 ---
-title: "Antonio Mikaele-Tuu | アントニオ ・ミカエリトゥ"
+title: "Antonio Mikaele-Tuu | アントニオ ミカエリトゥ"
 name_en: "Antonio Mikaele-Tuu"
-name_ja: "アントニオ ・ミカエリトゥ"
+name_ja: "アントニオ ミカエリトゥ"
 slug: "antonio-mikaele-tuu"
 position: "CTB"
 height: "185.0"

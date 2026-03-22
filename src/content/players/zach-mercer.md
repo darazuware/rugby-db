@@ -1,7 +1,7 @@
 ---
-title: "Zach MERCER | ザック・マーサー"
+title: "Zach MERCER | サック マーサー"
 name_en: "Zach MERCER"
-name_ja: "ザック・マーサー"
+name_ja: "サック マーサー"
 slug: "zach-mercer"
 position: "FL/NO8"
 height: "191.0"

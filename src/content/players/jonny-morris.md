@@ -1,9 +1,9 @@
 ---
-title: "Jonny MORRIS | Jonny ・ MORRIS"
+title: "Jonny MORRIS | ショニー モリス"
 name_en: "Jonny MORRIS"
-name_ja: "Jonny ・ MORRIS"
+name_ja: "ショニー モリス"
 slug: "jonny-morris"
-position: "Back row"
+position: "FL/No8"
 height: "192.0"
 weight: "108.0"
 birth_date: "2004.01.09"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonny-morris"
 ---
 
 ## キャリア遍歴
-Glasgow Hutchesons Aloysians RFC (2022 - 2023) -> Glasgow Warriors (2023 - 2026)
+glasgow hutchesons aloysians rfc (2022 - 2023) -> glasgow warriors (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Cedate GOMES SA | セダテ・ゴメス・サ"
+title: "Cedate GOMES SA | セタテ コメス サ"
 name_en: "Cedate GOMES SA"
-name_ja: "セダテ・ゴメス・サ"
+name_ja: "セタテ コメス サ"
 slug: "cedate-gomes-sa"
 position: "PR"
 height: "185.0"

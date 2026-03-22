@@ -1,7 +1,7 @@
 ---
-title: "Andrew Makalio | アンドリュー ・マカリオ"
+title: "Andrew Makalio | アントリュー マカリオ"
 name_en: "Andrew Makalio"
-name_ja: "アンドリュー ・マカリオ"
+name_ja: "アントリュー マカリオ"
 slug: "andrew-makalio"
 position: "HO"
 height: "185.0"

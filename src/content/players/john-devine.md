@@ -1,7 +1,7 @@
 ---
-title: "John DEVINE | ジョン ・ DEVINE"
+title: "John DEVINE | ション テウァイン"
 name_en: "John DEVINE"
-name_ja: "ジョン ・ DEVINE"
+name_ja: "ション テウァイン"
 slug: "john-devine"
 position: "CTB"
 height: "186.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/john-devine"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2022 - 2026)
+connacht rugby (2022 - 2026)

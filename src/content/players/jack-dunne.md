@@ -1,7 +1,7 @@
 ---
-title: "Jack Dunne | ジャック ・ダン"
+title: "Jack Dunne | シャック タン"
 name_en: "Jack Dunne"
-name_ja: "ジャック ・ダン"
+name_ja: "シャック タン"
 slug: "jack-dunne"
 position: "LO"
 height: "202.0"

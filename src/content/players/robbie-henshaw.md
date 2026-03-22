@@ -1,7 +1,7 @@
 ---
-title: "Robbie HENSHAW | Robbie ・ HENSHAW"
+title: "Robbie HENSHAW | ロヒー ヘンショウ"
 name_en: "Robbie HENSHAW"
-name_ja: "Robbie ・ HENSHAW"
+name_ja: "ロヒー ヘンショウ"
 slug: "robbie-henshaw"
 position: "CTB"
 height: "191.0"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (82)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/robbie-henshaw"
+scraped_url: "connacht rugby (2013 - 2016) -> leinster rugby (2016 - 2026)"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2013 - 2016) -> Leinster Rugby (2016 - 2026)
+Ireland

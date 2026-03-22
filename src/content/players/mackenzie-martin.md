@@ -1,9 +1,9 @@
 ---
-title: "Mackenzie MARTIN | Mackenzie ・ MARTIN"
+title: "Mackenzie MARTIN | マケンシー マーティン"
 name_en: "Mackenzie MARTIN"
-name_ja: "Mackenzie ・ MARTIN"
+name_ja: "マケンシー マーティン"
 slug: "mackenzie-martin"
-position: "Back row"
+position: "FL/No8"
 height: "196.0"
 weight: "116.0"
 birth_date: "2003.10.26"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mackenzie-martin"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2021 - 2025) -> Dragons RFC (2025 - 2026)
+cardiff rugby (2021 - 2025) -> dragons rfc (2025 - 2026)

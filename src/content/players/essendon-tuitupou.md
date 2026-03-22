@@ -1,7 +1,7 @@
 ---
-title: "Essendon Tuitupou | エッセンドン ・トゥイトゥポウ"
+title: "Essendon Tuitupou | エッセントン トゥイトゥホウ"
 name_en: "Essendon Tuitupou"
-name_ja: "エッセンドン ・トゥイトゥポウ"
+name_ja: "エッセントン トゥイトゥホウ"
 slug: "essendon-tuitupou"
 position: "WTB"
 height: "188.0"

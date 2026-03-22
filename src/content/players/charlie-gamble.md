@@ -1,7 +1,7 @@
 ---
-title: "Charlie GAMBLE | チャーリー・ギャンブル"
+title: "Charlie GAMBLE | チャーリー キャンフル"
 name_en: "Charlie GAMBLE"
-name_ja: "チャーリー・ギャンブル"
+name_ja: "チャーリー キャンフル"
 slug: "charlie-gamble"
 position: "FL/No8"
 height: "185.0"

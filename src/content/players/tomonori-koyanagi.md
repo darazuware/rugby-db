@@ -1,7 +1,7 @@
 ---
-title: "Tomonori Koyanagi | 小ヤナギ"
+title: "Tomonori Koyanagi | 小ヤナキ"
 name_en: "Tomonori Koyanagi"
-name_ja: "小ヤナギ"
+name_ja: "小ヤナキ"
 slug: "tomonori-koyanagi"
 position: "PR"
 height: "177.0"

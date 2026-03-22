@@ -1,7 +1,7 @@
 ---
-title: "James MCNABNEY | ジェームズ ・ MCNABNEY"
+title: "James MCNABNEY | シェームス MCNABNEY"
 name_en: "James MCNABNEY"
-name_ja: "ジェームズ ・ MCNABNEY"
+name_ja: "シェームス MCNABNEY"
 slug: "james-mcnabney"
 position: "Back row"
 height: "196.0"

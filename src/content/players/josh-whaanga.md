@@ -1,7 +1,7 @@
 ---
-title: "Josh WHAANGA | ジョシュ・ファンガ"
+title: "Josh WHAANGA | ショシュ ファンカ"
 name_en: "Josh WHAANGA"
-name_ja: "ジョシュ・ファンガ"
+name_ja: "ショシュ ファンカ"
 slug: "josh-whaanga"
 position: "CTB"
 height: "193.0"

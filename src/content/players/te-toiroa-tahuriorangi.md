@@ -1,7 +1,7 @@
 ---
-title: "Te Toiroa TAHURIORANGI | テ・トイロア・タフリオランギ"
+title: "Te Toiroa TAHURIORANGI | テ トイロア タフリオランキ"
 name_en: "Te Toiroa TAHURIORANGI"
-name_ja: "テ・トイロア・タフリオランギ"
+name_ja: "テ トイロア タフリオランキ"
 slug: "te-toiroa-tahuriorangi"
 position: "SH"
 height: "174.0"

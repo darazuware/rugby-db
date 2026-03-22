@@ -1,7 +1,7 @@
 ---
-title: "Madosh TAMBWE | マドッシュ・タンブウェ"
+title: "Madosh TAMBWE | マトッシュ タンフウェ"
 name_en: "Madosh TAMBWE"
-name_ja: "マドッシュ・タンブウェ"
+name_ja: "マトッシュ タンフウェ"
 slug: "michael-tambwe"
 position: "WTB"
 height: "186.0"

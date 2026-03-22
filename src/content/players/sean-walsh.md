@@ -1,7 +1,7 @@
 ---
-title: "Seán WALSH | Se ・ WALSH"
-name_en: "Seán WALSH"
-name_ja: "Se ・ WALSH"
+title: "Sean WALSH | ショーン ウォルシュ"
+name_en: "Sean WALSH"
+name_ja: "ショーン ウォルシュ"
 slug: "sean-walsh"
 position: "CTB"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-walsh"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2025 - 2026)
+connacht rugby (2025 - 2026)

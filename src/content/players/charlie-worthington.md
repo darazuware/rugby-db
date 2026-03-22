@@ -1,7 +1,7 @@
 ---
-title: "Charlie Worthington | チャーリー ・ワージントン"
+title: "Charlie Worthington | チャーリー ワーシントン"
 name_en: "Charlie Worthington"
-name_ja: "チャーリー ・ワージントン"
+name_ja: "チャーリー ワーシントン"
 slug: "charlie-worthington"
 position: "FB"
 height: "178.0"

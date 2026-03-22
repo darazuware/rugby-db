@@ -1,7 +1,7 @@
 ---
-title: "Théo BÉZIAT | テオ・ベジア"
-name_en: "Théo BÉZIAT"
-name_ja: "テオ・ベジア"
+title: "Theo BEZIAT | テオ ヘシア"
+name_en: "Theo BEZIAT"
+name_ja: "テオ ヘシア"
 slug: "theo-beziat"
 position: "HO"
 height: "180.0"

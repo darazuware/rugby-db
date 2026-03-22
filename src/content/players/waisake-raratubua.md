@@ -1,7 +1,7 @@
 ---
-title: "Waisake Raratubua | ワイサケ ・ララトゥブア"
+title: "Waisake Raratubua | ワイサケ ララトゥフア"
 name_en: "Waisake Raratubua"
-name_ja: "ワイサケ ・ララトゥブア"
+name_ja: "ワイサケ ララトゥフア"
 slug: "waisake-raratubua"
 position: "LO"
 height: "195.0"

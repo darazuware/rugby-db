@@ -1,7 +1,7 @@
 ---
-title: "Dillon LEWIS | ディリオン-ルイス"
+title: "Dillon LEWIS"
 name_en: "Dillon LEWIS"
-name_ja: "ディリオン-ルイス"
+name_ja: "Dillon LEWIS"
 slug: "dillon-lewis"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Wales (51)"
 high_school: ""
 university: ""
-scraped_url: "cardiff rugby (2015 - 2023) -> harlequins (2023 - 2025) -> dragons rfc (2025 - 2026)"
+scraped_url: "https://all.rugby/player/dillon-lewis"
 ---
 
 ## キャリア遍歴
-Wales
+Cardiff Rugby (2015 - 2023) -> Harlequins (2023 - 2025) -> Dragons RFC (2025 - 2026)

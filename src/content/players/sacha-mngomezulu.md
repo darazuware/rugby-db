@@ -1,7 +1,7 @@
 ---
-title: "Sacha FEINBERG-MNGOMEZULU | Sacha ・ FEINBERG ・ MNGOMEZULU"
+title: "Sacha FEINBERG-MNGOMEZULU | サシャ ファインハーク=ムンコメスル"
 name_en: "Sacha FEINBERG-MNGOMEZULU"
-name_ja: "Sacha ・ FEINBERG ・ MNGOMEZULU"
+name_ja: "サシャ ファインハーク=ムンコメスル"
 slug: "sacha-mngomezulu"
 position: "SO"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Stormers"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/sacha-mngomezulu"
 ---
 
 ## キャリア遍歴
-Western Province (2020 - 2021) -> Stormers (2021 - 2021) -> Western Province (2021 - 2021) -> Stormers (2022 - 2022) -> Western Province (2022 - 2022) -> Stormers (2022 - 2026)
+western province (2020 - 2021) -> stormers (2021 - 2021) -> western province (2021 - 2021) -> stormers (2022 - 2022) -> western province (2022 - 2022) -> stormers (2022 - 2026)

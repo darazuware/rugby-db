@@ -1,7 +1,7 @@
 ---
-title: "Tawera KERR-BARLOW | タウェラ・カーバーロー"
+title: "Tawera KERR-BARLOW | タウェラ カーハーロー"
 name_en: "Tawera KERR-BARLOW"
-name_ja: "タウェラ・カーバーロー"
+name_ja: "タウェラ カーハーロー"
 slug: "tawera-kerr-barlow"
 position: "SH"
 height: "187.0"

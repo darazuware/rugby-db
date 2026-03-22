@@ -1,9 +1,9 @@
 ---
-title: "Cian PRENDERGAST | キアン-プレンダーガスト"
+title: "Cian PRENDERGAST | キアン PRENDERGAST"
 name_en: "Cian PRENDERGAST"
-name_ja: "キアン-プレンダーガスト"
+name_ja: "キアン PRENDERGAST"
 slug: "cian-prendergast"
-position: "FL/No8"
+position: "Back row"
 height: "196.0"
 weight: "115.0"
 birth_date: "2000.02.23"
@@ -15,8 +15,8 @@ team: "Connacht"
 caps: "Ireland (4)"
 high_school: ""
 university: ""
-scraped_url: "leinster rugby (2019 - 2020) -> connacht rugby (2020 - 2026)"
+scraped_url: "https://all.rugby/player/cian-prendergast"
 ---
 
 ## キャリア遍歴
-Ireland
+Leinster Rugby (2019 - 2020) -> Connacht Rugby (2020 - 2026)

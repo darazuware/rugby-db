@@ -1,7 +1,7 @@
 ---
-title: "Simon AUGRY | シモン・オグリ"
+title: "Simon AUGRY | シモン オクリ"
 name_en: "Simon AUGRY"
-name_ja: "シモン・オグリ"
+name_ja: "シモン オクリ"
 slug: "simon-augry"
 position: "FL/NO8"
 height: "192.0"

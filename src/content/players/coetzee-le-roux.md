@@ -1,7 +1,7 @@
 ---
-title: "Coetzee LE ROUX | Coetzee ・ ル ・ ルー"
+title: "Coetzee LE ROUX | Coetzee ル ルー"
 name_en: "Coetzee LE ROUX"
-name_ja: "Coetzee ・ ル ・ ルー"
+name_ja: "Coetzee ル ルー"
 slug: "coetzee-le-roux"
 position: "LO"
 height: "193.0"

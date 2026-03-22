@@ -1,7 +1,7 @@
 ---
-title: "Stanley SOLOMON | スタンリー・ソロモン"
+title: "Stanley SOLOMON | スタンリー ソロモン"
 name_en: "Stanley SOLOMON"
-name_ja: "スタンリー・ソロモン"
+name_ja: "スタンリー ソロモン"
 slug: "stanley-solomon"
 position: "WTB"
 height: "174.0"

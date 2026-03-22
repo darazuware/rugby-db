@@ -1,7 +1,7 @@
 ---
-title: "Tom STEWART | トム・スチュアート"
+title: "Tom STEWART | トム スチュアート"
 name_en: "Tom STEWART"
-name_ja: "トム・スチュアート"
+name_ja: "トム スチュアート"
 slug: "tom-stewart"
 position: "HO"
 height: "183.0"

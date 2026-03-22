@@ -1,7 +1,7 @@
 ---
-title: "Lisala Finau | リサラ ・フィナウ"
+title: "Lisala Finau | リサラ フィナウ"
 name_en: "Lisala Finau"
-name_ja: "リサラ ・フィナウ"
+name_ja: "リサラ フィナウ"
 slug: "lisala-finau"
 position: "PR"
 height: "189.0"

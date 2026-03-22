@@ -1,7 +1,7 @@
 ---
-title: "Kelly MPEKU | Kelly ・ MPEKU"
+title: "Kelly MPEKU"
 name_en: "Kelly MPEKU"
-name_ja: "Kelly ・ MPEKU"
+name_ja: "Kelly MPEKU"
 slug: "kelly-mpeku"
 position: "CTB"
 height: "188.0"

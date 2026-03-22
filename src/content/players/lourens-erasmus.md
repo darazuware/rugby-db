@@ -1,7 +1,7 @@
 ---
-title: "Lourens Erasmus | ローレンス ・エラスマス"
+title: "Lourens Erasmus | ローレンス エラスマス"
 name_en: "Lourens Erasmus"
-name_ja: "ローレンス ・エラスマス"
+name_ja: "ローレンス エラスマス"
 slug: "lourens-erasmus"
 position: "LO"
 height: "200.0"

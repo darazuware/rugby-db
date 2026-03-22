@@ -1,7 +1,7 @@
 ---
-title: "Maxime BAUDONNE | マキシム・ボードン"
+title: "Maxime BAUDONNE | マキシム ホートン"
 name_en: "Maxime BAUDONNE"
-name_ja: "マキシム・ボードン"
+name_ja: "マキシム ホートン"
 slug: "maxime-baudonne"
 position: "FL/NO8"
 height: "190.0"

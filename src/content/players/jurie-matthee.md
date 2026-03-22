@@ -1,7 +1,7 @@
 ---
-title: "Jurie MATTHEE | Jurie ・ MATTHEE"
+title: "Jurie MATTHEE | ユーリー マティー"
 name_en: "Jurie MATTHEE"
-name_ja: "Jurie ・ MATTHEE"
+name_ja: "ユーリー マティー"
 slug: "jurie-matthee"
 position: "SO"
 height: "191.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jurie-matthee"
 ---
 
 ## キャリア遍歴
-Western Province (2022 - 2023) -> Stormers (2023 - 2026)
+western province (2022 - 2023) -> stormers (2023 - 2026)

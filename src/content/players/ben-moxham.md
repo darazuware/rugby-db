@@ -1,7 +1,7 @@
 ---
-title: "Ben MOXHAM | ベン ・ MOXHAM"
+title: "Ben MOXHAM | ヘン MOXHAM"
 name_en: "Ben MOXHAM"
-name_ja: "ベン ・ MOXHAM"
+name_ja: "ヘン MOXHAM"
 slug: "ben-moxham"
 position: "Winger"
 height: "191.0"

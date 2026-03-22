@@ -1,7 +1,7 @@
 ---
-title: "Isaac Lucas | アイザック ・ルーカス"
+title: "Isaac Lucas | アイサック ルーカス"
 name_en: "Isaac Lucas"
-name_ja: "アイザック ・ルーカス"
+name_ja: "アイサック ルーカス"
 slug: "isaac-lucas"
 position: "FB"
 height: "179.0"

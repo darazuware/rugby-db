@@ -1,7 +1,7 @@
 ---
-title: "Pat PELLEGRINI | パット・ペレグリーニ"
+title: "Pat PELLEGRINI | ハット ヘレクリーニ"
 name_en: "Pat PELLEGRINI"
-name_ja: "パット・ペレグリーニ"
+name_ja: "ハット ヘレクリーニ"
 slug: "patrick-pellegrini"
 position: "SO"
 height: "170.0"

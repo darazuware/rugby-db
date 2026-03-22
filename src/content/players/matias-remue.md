@@ -1,7 +1,7 @@
 ---
-title: "Matias REMUE | マティアス・レミュ"
+title: "Matias REMUE | マティアス レミュ"
 name_en: "Matias REMUE"
-name_ja: "マティアス・レミュ"
+name_ja: "マティアス レミュ"
 slug: "matias-remue"
 position: "FB"
 height: "184.0"

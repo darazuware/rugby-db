@@ -1,7 +1,7 @@
 ---
-title: "Tom LAMBERT | トム・ランバート"
+title: "Tom LAMBERT | トム ランハート"
 name_en: "Tom LAMBERT"
-name_ja: "トム・ランバート"
+name_ja: "トム ランハート"
 slug: "thomas-lambert"
 position: "PR"
 height: "188.0"

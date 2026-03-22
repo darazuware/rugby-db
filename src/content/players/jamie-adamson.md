@@ -1,7 +1,7 @@
 ---
-title: "Jamie ADAMSON | ジェイミー・アダムソン"
+title: "Jamie ADAMSON | シェイミー アタムソン"
 name_en: "Jamie ADAMSON"
-name_ja: "ジェイミー・アダムソン"
+name_ja: "シェイミー アタムソン"
 slug: "jamie-adamson"
 position: "FL/No8"
 height: "188.0"

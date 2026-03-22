@@ -1,7 +1,7 @@
 ---
-title: "François KLOPPER | Fran ・ KLOPPER"
-name_en: "François KLOPPER"
-name_ja: "Fran ・ KLOPPER"
+title: "Francois KLOPPER | フランソワ クロッハー"
+name_en: "Francois KLOPPER"
+name_ja: "フランソワ クロッハー"
 slug: "francois-klopper"
 position: "PR"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francois-klopper"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2018 - 2019) -> Blue Bulls (2020 - 2022) -> Bulls (2022 - 2026)
+natal sharks (2018 - 2019) -> blue bulls (2020 - 2022) -> bulls (2022 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Matariki Channings | マタリキ ・チャニングス"
+title: "Matariki Channings | マタリキ チャニンクス"
 name_en: "Matariki Channings"
-name_ja: "マタリキ ・チャニングス"
+name_ja: "マタリキ チャニンクス"
 slug: "matariki-channings"
 position: "LO"
 height: "195.0"

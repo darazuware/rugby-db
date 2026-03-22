@@ -1,7 +1,7 @@
 ---
-title: "Darragh MCSWEENEY | ダラ・マクスウィーニー"
+title: "Darragh MCSWEENEY | タラ マクスウィーニー"
 name_en: "Darragh MCSWEENEY"
-name_ja: "ダラ・マクスウィーニー"
+name_ja: "タラ マクスウィーニー"
 slug: "darragh-mcsweeney"
 position: "PR"
 height: "191.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "https://all.rugby/player/darragh-mcsweeney"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "munster rugby (2021 - 2024) -> cornish pirates (2024 - 2024) -> munster rugby (2025 - 2025) -> cornish pirates (2025 - 2025) -> munster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/darragh-mcsweeney"
 ---
 
 ## キャリア遍歴
-
+munster rugby (2021 - 2024) -> cornish pirates (2024 - 2024) -> munster rugby (2025 - 2025) -> cornish pirates (2025 - 2025) -> munster rugby (2025 - 2026)

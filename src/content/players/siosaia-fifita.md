@@ -1,7 +1,7 @@
 ---
-title: "Siosaia Fifita | シオサイア ・フィフィタ"
+title: "Siosaia Fifita | シオサイア フィフィタ"
 name_en: "Siosaia Fifita"
-name_ja: "シオサイア ・フィフィタ"
+name_ja: "シオサイア フィフィタ"
 slug: "siosaia-fifita"
 position: "CTB"
 height: "187.0"

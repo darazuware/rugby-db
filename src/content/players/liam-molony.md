@@ -1,7 +1,7 @@
 ---
-title: "Liam MOLONY | リアム ・ MOLONY"
+title: "Liam MOLONY | リアム MOLONY"
 name_en: "Liam MOLONY"
-name_ja: "リアム ・ MOLONY"
+name_ja: "リアム MOLONY"
 slug: "liam-molony"
 position: "Back row"
 height: "183.0"

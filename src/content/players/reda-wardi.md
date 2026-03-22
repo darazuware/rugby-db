@@ -1,7 +1,7 @@
 ---
-title: "Reda WARDI | レダ・ワルディ"
+title: "Reda WARDI | レタ ワルティ"
 name_en: "Reda WARDI"
-name_ja: "レダ・ワルディ"
+name_ja: "レタ ワルティ"
 slug: "reda-wardi"
 position: "PR"
 height: "185.0"

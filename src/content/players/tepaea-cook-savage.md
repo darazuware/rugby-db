@@ -1,7 +1,7 @@
 ---
-title: "Tepaea COOK-SAVAGE | テパエア・クック＝サヴェージ"
+title: "Tepaea COOK-SAVAGE | テハエア クック=サウェーシ"
 name_en: "Tepaea COOK-SAVAGE"
-name_ja: "テパエア・クック＝サヴェージ"
+name_ja: "テハエア クック=サウェーシ"
 slug: "tepaea-cook-savage"
 position: "FB"
 height: "173.0"

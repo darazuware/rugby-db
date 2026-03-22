@@ -1,7 +1,7 @@
 ---
-title: "Eben ETZEBETH | エベン ・ エツベス"
+title: "Eben ETZEBETH | エヘン-エツヘス"
 name_en: "Eben ETZEBETH"
-name_ja: "エベン ・ エツベス"
+name_ja: "エヘン-エツヘス"
 slug: "eben-etzebeth"
 position: "LO"
 height: "202.0"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (113)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/eben-etzebeth"
+scraped_url: "stormers (2014 - 2019) -> rugby club toulonnais (2019 - 2022) -> sharks (2022 - 2026)"
 ---
 
 ## キャリア遍歴
-Stormers (2014 - 2019) -> Rugby Club Toulonnais (2019 - 2022) -> Sharks (2022 - 2026)
+South Africa

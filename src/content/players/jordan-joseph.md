@@ -1,7 +1,7 @@
 ---
-title: "Jordan JOSEPH | ジョーダン・ジョセフ"
+title: "Jordan JOSEPH | ショータン ショセフ"
 name_en: "Jordan JOSEPH"
-name_ja: "ジョーダン・ジョセフ"
+name_ja: "ショータン ショセフ"
 slug: "jordan-joseph"
 position: "FL/NO8"
 height: "190.0"

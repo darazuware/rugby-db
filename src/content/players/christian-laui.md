@@ -1,7 +1,7 @@
 ---
-title: "Christian Laui | クリスチャン ・ラウイ"
+title: "Christian Laui | クリスチャン ラウイ"
 name_en: "Christian Laui"
-name_ja: "クリスチャン ・ラウイ"
+name_ja: "クリスチャン ラウイ"
 slug: "christian-laui"
 position: "CTB"
 height: "180.0"

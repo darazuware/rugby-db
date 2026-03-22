@@ -1,7 +1,7 @@
 ---
-title: "Nic DOLLY | ニック・ドリー"
+title: "Nic DOLLY | ニック トリー"
 name_en: "Nic DOLLY"
-name_ja: "ニック・ドリー"
+name_ja: "ニック トリー"
 slug: "nic-dolly"
 position: "HO"
 height: "182.0"

@@ -1,9 +1,9 @@
 ---
-title: "Paul DE VILLIERS | ポール ・ デ ・ VILLIERS"
+title: "Paul DE VILLIERS | ホール テ ウィリアース"
 name_en: "Paul DE VILLIERS"
-name_ja: "ポール ・ デ ・ VILLIERS"
+name_ja: "ホール テ ウィリアース"
 slug: "paul-de-villiers"
-position: "Back row"
+position: "FL/No8"
 height: "181.0"
 weight: "101.0"
 birth_date: "2003.01.13"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-de-villiers"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2022) -> Stormers (2022 - 2023) -> Western Province (2023 - 2024) -> Stormers (2024 - 2026)
+western province (2021 - 2022) -> stormers (2022 - 2023) -> western province (2023 - 2024) -> stormers (2024 - 2026)

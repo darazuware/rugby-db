@@ -1,7 +1,7 @@
 ---
-title: "Mac GREALY | マック・グリーリー"
+title: "Mac GREALY | マック クリーリー"
 name_en: "Mac GREALY"
-name_ja: "マック・グリーリー"
+name_ja: "マック クリーリー"
 slug: "mac-grealy"
 position: "WTB"
 height: "180.0"

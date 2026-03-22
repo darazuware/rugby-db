@@ -1,7 +1,7 @@
 ---
-title: "Zane NONGGORR | ゼーン・ノンゴール"
+title: "Zane NONGGORR | セーン ノンコール"
 name_en: "Zane NONGGORR"
-name_ja: "ゼーン・ノンゴール"
+name_ja: "セーン ノンコール"
 slug: "zane-nonggorr"
 position: "PR"
 height: "187.0"

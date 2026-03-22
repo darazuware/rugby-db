@@ -1,7 +1,7 @@
 ---
-title: "Archie SAUNDERS | アーチー・サンダース"
+title: "Archie SAUNDERS | アーチー サンタース"
 name_en: "Archie SAUNDERS"
-name_ja: "アーチー・サンダース"
+name_ja: "アーチー サンタース"
 slug: "archie-saunders"
 position: "WTB"
 height: "192.0"

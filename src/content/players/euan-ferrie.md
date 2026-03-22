@@ -1,7 +1,7 @@
 ---
-title: "Euan FERRIE | Euan ・ FERRIE"
+title: "Euan FERRIE | ユアン フェリー"
 name_en: "Euan FERRIE"
-name_ja: "Euan ・ FERRIE"
+name_ja: "ユアン フェリー"
 slug: "euan-ferrie"
 position: "LO"
 height: "194.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/euan-ferrie"
 ---
 
 ## キャリア遍歴
-Glasgow Hawks (2020 - 2021) -> Boroughmuir RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)
+glasgow hawks (2020 - 2021) -> boroughmuir rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)

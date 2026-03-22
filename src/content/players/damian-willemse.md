@@ -1,7 +1,7 @@
 ---
-title: "Damian WILLEMSE | ダミアン ・ ヴィレムセ"
+title: "Damian WILLEMSE | タミアン-ウィレムセ"
 name_en: "Damian WILLEMSE"
-name_ja: "ダミアン ・ ヴィレムセ"
+name_ja: "タミアン-ウィレムセ"
 slug: "damian-willemse"
 position: "SO"
 height: "187.0"
@@ -15,8 +15,8 @@ team: "Stormers"
 caps: "South Africa (33)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/damian-willemse"
+scraped_url: "stormers (2016 - 2019) -> saracens (2019 - 2019) -> stormers (2019 - 2019) -> saracens (2020 - 2020) -> stormers (2020 - 2026)"
 ---
 
 ## キャリア遍歴
-Stormers (2016 - 2019) -> Saracens (2019 - 2019) -> Stormers (2019 - 2019) -> Saracens (2020 - 2020) -> Stormers (2020 - 2026)
+South Africa

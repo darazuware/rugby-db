@@ -1,9 +1,9 @@
 ---
-title: "Elrigh LOUW | Elrigh ・ LOUW"
+title: "Elrigh LOUW | エルリッヒ-ロウ"
 name_en: "Elrigh LOUW"
-name_ja: "Elrigh ・ LOUW"
+name_ja: "エルリッヒ-ロウ"
 slug: "elrigh-louw"
-position: "Back row"
+position: "FL/No8"
 height: "195.0"
 weight: "112.0"
 birth_date: "1999.09.20"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/elrigh-louw"
 ---
 
 ## キャリア遍歴
-Southern Kings (2019 - 2019) -> Bulls (2019 - 2019) -> Southern Kings (2020 - 2020) -> Bulls (2020 - 2026)
+southern kings (2019 - 2019) -> bulls (2019 - 2019) -> southern kings (2020 - 2020) -> bulls (2020 - 2026)

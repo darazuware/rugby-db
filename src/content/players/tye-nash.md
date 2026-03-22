@@ -1,7 +1,7 @@
 ---
-title: "TYE NASH | タイ ・ナッシュ"
+title: "TYE NASH | タイ ナッシュ"
 name_en: "TYE NASH"
-name_ja: "タイ ・ナッシュ"
+name_ja: "タイ ナッシュ"
 slug: "tye-nash"
 position: "LO"
 height: "196.0"

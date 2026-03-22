@@ -1,7 +1,7 @@
 ---
-title: "Jesse Kriel | ジェシー ・クリエル"
+title: "Jesse Kriel | シェシー クリエル"
 name_en: "Jesse Kriel"
-name_ja: "ジェシー ・クリエル"
+name_ja: "シェシー クリエル"
 slug: "jesse-kriel"
 position: "CTB"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Joe HOPES | Joe ・ HOPES"
+title: "Joe HOPES"
 name_en: "Joe HOPES"
-name_ja: "Joe ・ HOPES"
+name_ja: "Joe HOPES"
 slug: "joe-hopes"
 position: "LO"
 height: "200.0"

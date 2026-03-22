@@ -1,7 +1,7 @@
 ---
-title: "Matthys Basson | マティウス ・バッソン"
+title: "Matthys Basson | マティウス ハッソン"
 name_en: "Matthys Basson"
-name_ja: "マティウス ・バッソン"
+name_ja: "マティウス ハッソン"
 slug: "matthys-basson"
 position: "PR"
 height: "191.0"

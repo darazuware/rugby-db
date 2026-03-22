@@ -1,7 +1,7 @@
 ---
-title: "Swan REBBADJ | スワン・レベル"
+title: "Swan REBBADJ | スワン レヘル"
 name_en: "Swan REBBADJ"
-name_ja: "スワン・レベル"
+name_ja: "スワン レヘル"
 slug: "swan-rebbadj"
 position: "LO"
 height: "202.0"

@@ -1,7 +1,7 @@
 ---
-title: "Steffan EMANUEL | ステファン・エマニュエル"
+title: "Steffan EMANUEL | ステファン エマニュエル"
 name_en: "Steffan EMANUEL"
-name_ja: "ステファン・エマニュエル"
+name_ja: "ステファン エマニュエル"
 slug: "steffan-emanuel"
 position: "CTB"
 height: "183.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/steffan-emanuel"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "bath rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/steffan-emanuel"
 ---
 
 ## キャリア遍歴
-
+bath rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)

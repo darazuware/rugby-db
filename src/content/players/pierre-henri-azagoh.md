@@ -1,7 +1,7 @@
 ---
-title: "Pierre-Henri AZAGOH | ピエール＝アンリ・アザゴ"
+title: "Pierre-Henri AZAGOH | ヒエール=アンリ アサコ"
 name_en: "Pierre-Henri AZAGOH"
-name_ja: "ピエール＝アンリ・アザゴ"
+name_ja: "ヒエール=アンリ アサコ"
 slug: "pierre-henri-azagoh"
 position: "LO"
 height: "198.0"

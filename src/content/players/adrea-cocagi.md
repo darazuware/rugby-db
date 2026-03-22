@@ -1,7 +1,7 @@
 ---
-title: "Adrea COCAGI | アドリア・コカギ"
+title: "Adrea COCAGI | アトリア コカキ"
 name_en: "Adrea COCAGI"
-name_ja: "アドリア・コカギ"
+name_ja: "アトリア コカキ"
 slug: "adrea-cocagi"
 position: "CTB"
 height: "185.0"

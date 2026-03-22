@@ -1,7 +1,7 @@
 ---
-title: "Rémy BAGET | レミ・バジェ"
-name_en: "Rémy BAGET"
-name_ja: "レミ・バジェ"
+title: "Remy BAGET | レミ ハシェ"
+name_en: "Remy BAGET"
+name_ja: "レミ ハシェ"
 slug: "remy-baget"
 position: "WTB"
 height: "182.0"

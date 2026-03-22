@@ -1,7 +1,7 @@
 ---
-title: "Ben VELLACOTT | ベン・ヴェラコット"
+title: "Ben VELLACOTT | ヘン VELLACOTT"
 name_en: "Ben VELLACOTT"
-name_ja: "ベン・ヴェラコット"
+name_ja: "ヘン VELLACOTT"
 slug: "ben-vellacott"
 position: "SH"
 height: "167.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Edimbourg"
-caps: "https://all.rugby/player/ben-vellacott"
+caps: "England"
 high_school: ""
 university: ""
-scraped_url: "gloucester rugby (2016 - 2019) -> wasps (2019 - 2021) -> edimbourg rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/ben-vellacott"
 ---
 
 ## キャリア遍歴
-England
+Gloucester Rugby (2016 - 2019) -> Wasps (2019 - 2021) -> Edimbourg Rugby (2021 - 2026)

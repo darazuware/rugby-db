@@ -1,7 +1,7 @@
 ---
-title: "Dan LIENERT-BROWN | ダン-リエナート＝ブラウン"
+title: "Dan LIENERT-BROWN | タン-リエナート=フラウン"
 name_en: "Dan LIENERT-BROWN"
-name_ja: "ダン-リエナート＝ブラウン"
+name_ja: "タン-リエナート=フラウン"
 slug: "dan-lienert-brown"
 position: "PR"
 height: "184.0"

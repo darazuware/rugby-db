@@ -1,7 +1,7 @@
 ---
-title: "Marcos GALLORINI | Marcos ・ GALLORINI"
+title: "Marcos GALLORINI"
 name_en: "Marcos GALLORINI"
-name_ja: "Marcos ・ GALLORINI"
+name_ja: "Marcos GALLORINI"
 slug: "marcos-gallorini"
 position: "PR"
 height: "190.0"

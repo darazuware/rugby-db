@@ -1,7 +1,7 @@
 ---
-title: "Albert LINDNER | Albert ・ LINDNER"
+title: "Albert LINDNER"
 name_en: "Albert LINDNER"
-name_ja: "Albert ・ LINDNER"
+name_ja: "Albert LINDNER"
 slug: "albert-lindner"
 position: "SH"
 height: ""

@@ -1,7 +1,7 @@
 ---
-title: "Harry WEST | Harry ・ WEST"
+title: "Harry WEST"
 name_en: "Harry WEST"
-name_ja: "Harry ・ WEST"
+name_ja: "Harry WEST"
 slug: "harry-west"
 position: "FB"
 height: "185.0"

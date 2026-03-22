@@ -1,7 +1,7 @@
 ---
-title: "Iain HENDERSON | Iain ・ HENDERSON"
+title: "Iain HENDERSON"
 name_en: "Iain HENDERSON"
-name_ja: "Iain ・ HENDERSON"
+name_ja: "Iain HENDERSON"
 slug: "iain-henderson"
 position: "LO"
 height: "199.0"

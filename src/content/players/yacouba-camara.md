@@ -1,7 +1,7 @@
 ---
-title: "Yacouba CAMARA | ヤクバ・カマラ"
+title: "Yacouba CAMARA | ヤクハ カマラ"
 name_en: "Yacouba CAMARA"
-name_ja: "ヤクバ・カマラ"
+name_ja: "ヤクハ カマラ"
 slug: "yacouba-camara"
 position: "FL/NO8"
 height: "195.0"

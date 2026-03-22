@@ -1,7 +1,7 @@
 ---
-title: "Ethan COUGHLAN | Ethan ・ COUGHLAN"
+title: "Ethan COUGHLAN"
 name_en: "Ethan COUGHLAN"
-name_ja: "Ethan ・ COUGHLAN"
+name_ja: "Ethan COUGHLAN"
 slug: "ethan-coughlan"
 position: "SH"
 height: "175.0"

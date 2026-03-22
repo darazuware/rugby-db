@@ -1,7 +1,7 @@
 ---
-title: "Steven Cummins | スティーブン ・カミンズ"
+title: "Steven Cummins | スティーフン カミンス"
 name_en: "Steven Cummins"
-name_ja: "スティーブン ・カミンズ"
+name_ja: "スティーフン カミンス"
 slug: "steven-cummins"
 position: "LO"
 height: "202.0"

@@ -1,7 +1,7 @@
 ---
-title: "Bastien VERGNES-TAILLEFER | バスチャン・ヴェルニュ＝タイユフェール"
+title: "Bastien VERGNES-TAILLEFER | ハスチャン ウェルニュ=タイユフェール"
 name_en: "Bastien VERGNES-TAILLEFER"
-name_ja: "バスチャン・ヴェルニュ＝タイユフェール"
+name_ja: "ハスチャン ウェルニュ=タイユフェール"
 slug: "bastien-vergnes-taillefer"
 position: "FL/NO8"
 height: "194.0"

@@ -1,7 +1,7 @@
 ---
-title: "Rémi SÉNÉCA | レミ・セネカ"
-name_en: "Rémi SÉNÉCA"
-name_ja: "レミ・セネカ"
+title: "Remi SENECA | レミ セネカ"
+name_en: "Remi SENECA"
+name_ja: "レミ セネカ"
 slug: "remi-seneca"
 position: "PR"
 height: "185.0"

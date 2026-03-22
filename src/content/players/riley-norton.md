@@ -1,7 +1,7 @@
 ---
-title: "Riley NORTON | Riley ・ NORTON"
+title: "Riley NORTON"
 name_en: "Riley NORTON"
-name_ja: "Riley ・ NORTON"
+name_ja: "Riley NORTON"
 slug: "riley-norton"
 position: "LO"
 height: "198.0"

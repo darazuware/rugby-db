@@ -1,7 +1,7 @@
 ---
-title: "Vea Taumoefolau | ヴェア ・タモエフォラウ"
+title: "Vea Taumoefolau | ウェア タモエフォラウ"
 name_en: "Vea Taumoefolau"
-name_ja: "ヴェア ・タモエフォラウ"
+name_ja: "ウェア タモエフォラウ"
 slug: "vea-taumoefolau"
 position: "PR"
 height: "186.0"

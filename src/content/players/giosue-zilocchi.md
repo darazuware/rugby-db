@@ -1,7 +1,7 @@
 ---
-title: "Giosué ZILOCCHI | Giosu ・ ZILOCCHI"
-name_en: "Giosué ZILOCCHI"
-name_ja: "Giosu ・ ZILOCCHI"
+title: "Giosue ZILOCCHI | ショスエ-シロッキ"
+name_en: "Giosue ZILOCCHI"
+name_ja: "ショスエ-シロッキ"
 slug: "giosue-zilocchi"
 position: "PR"
 height: "189.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (22)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/giosue-zilocchi"
+scraped_url: "zebre parma (2018 - 2022) -> london irish (2022 - 2023) -> benetton rugby trévise (2023 - 2026)"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2018 - 2022) -> London Irish (2022 - 2023) -> Benetton Rugby Trévise (2023 - 2026)
+Italy

@@ -1,7 +1,7 @@
 ---
-title: "Rob Thompson | ロブ ・トンプソン"
+title: "Rob Thompson | ロフ トンフソン"
 name_en: "Rob Thompson"
-name_ja: "ロブ ・トンプソン"
+name_ja: "ロフ トンフソン"
 slug: "rob-thompson"
 position: "CTB"
 height: "184.0"

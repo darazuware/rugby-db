@@ -1,7 +1,7 @@
 ---
-title: "Romain NTAMACK | ロマン・ンタマック"
+title: "Romain NTAMACK | ロマン ンタマック"
 name_en: "Romain NTAMACK"
-name_ja: "ロマン・ンタマック"
+name_ja: "ロマン ンタマック"
 slug: "romain-ntamack"
 position: "SO"
 height: "186.0"

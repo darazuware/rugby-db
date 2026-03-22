@@ -1,7 +1,7 @@
 ---
-title: "Jack BOYLE | ジャック ・ BOYLE"
+title: "Jack BOYLE | シャック BOYLE"
 name_en: "Jack BOYLE"
-name_ja: "ジャック ・ BOYLE"
+name_ja: "シャック BOYLE"
 slug: "jack-boyle"
 position: "PR"
 height: "185.0"

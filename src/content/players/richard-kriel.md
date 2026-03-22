@@ -1,7 +1,7 @@
 ---
-title: "Richard KRIEL | リチャード ・ クリエル"
+title: "Richard KRIEL | リチャート クリエル"
 name_en: "Richard KRIEL"
-name_ja: "リチャード ・ クリエル"
+name_ja: "リチャート クリエル"
 slug: "richard-kriel"
 position: "FB"
 height: "194.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/richard-kriel"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2018 - 2019) -> Bulls (2019 - 2020) -> Blue Bulls (2020 - 2021) -> Bulls (2021 - 2022) -> Zebre Parma (2022 - 2023) -> Lions Rugby (2023 - 2026)
+blue bulls (2018 - 2019) -> bulls (2019 - 2020) -> blue bulls (2020 - 2021) -> bulls (2021 - 2022) -> zebre parma (2022 - 2023) -> lions rugby (2023 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Thomas CAROL | トマ・カロル"
+title: "Thomas CAROL | トマ カロル"
 name_en: "Thomas CAROL"
-name_ja: "トマ・カロル"
+name_ja: "トマ カロル"
 slug: "thomas-carol"
 position: "WTB"
 height: "179.0"

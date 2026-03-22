@@ -1,7 +1,7 @@
 ---
-title: "Paolo GARBISI | パオロ・ガルビシ"
+title: "Paolo GARBISI | ハオロ カルヒシ"
 name_en: "Paolo GARBISI"
-name_ja: "パオロ・ガルビシ"
+name_ja: "ハオロ カルヒシ"
 slug: "paolo-garbisi"
 position: "SO"
 height: "184.0"

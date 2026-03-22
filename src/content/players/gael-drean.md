@@ -1,7 +1,7 @@
 ---
-title: "Gaël DRÉAN | ガエル・ドレアン"
-name_en: "Gaël DRÉAN"
-name_ja: "ガエル・ドレアン"
+title: "Gael DREAN | カエル トレアン"
+name_en: "Gael DREAN"
+name_ja: "カエル トレアン"
 slug: "gael-drean"
 position: "WTB"
 height: "184.0"

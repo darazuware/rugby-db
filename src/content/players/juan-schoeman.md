@@ -1,7 +1,7 @@
 ---
-title: "Juan SCHOEMAN | Juan ・ SCHOEMAN"
+title: "Juan SCHOEMAN | フアン スホーマン"
 name_en: "Juan SCHOEMAN"
-name_ja: "Juan ・ SCHOEMAN"
+name_ja: "フアン スホーマン"
 slug: "juan-schoeman"
 position: "PR"
 height: "186.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/juan-schoeman"
 ---
 
 ## キャリア遍歴
-Sharks (2015 - 2019) -> Southern Kings (2019 - 2019) -> Bath Rugby (2019 - 2019) -> Sharks (2020 - 2020) -> Southern Kings (2020 - 2020) -> Bath Rugby (2020 - 2024) -> Lions Rugby (2024 - 2026)
+sharks (2015 - 2019) -> southern kings (2019 - 2019) -> bath rugby (2019 - 2019) -> sharks (2020 - 2020) -> southern kings (2020 - 2020) -> bath rugby (2020 - 2024) -> lions rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Taniela Vea | タニエラ ・ヴェア"
+title: "Taniela Vea | タニエラ ウェア"
 name_en: "Taniela Vea"
-name_ja: "タニエラ ・ヴェア"
+name_ja: "タニエラ ウェア"
 slug: "taniela-vea"
 position: "PR"
 height: "184.0"

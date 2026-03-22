@@ -1,7 +1,7 @@
 ---
-title: "Posolo TUILAGI | ポソロ・ツイラギ"
+title: "Posolo TUILAGI | ホソロ ツイラキ"
 name_en: "Posolo TUILAGI"
-name_ja: "ポソロ・ツイラギ"
+name_ja: "ホソロ ツイラキ"
 slug: "posolo-tuilagi"
 position: "LO"
 height: "194.0"

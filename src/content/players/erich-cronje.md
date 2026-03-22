@@ -1,7 +1,7 @@
 ---
-title: "Erich CRONJÉ | Erich ・ CRONJ"
-name_en: "Erich CRONJÉ"
-name_ja: "Erich ・ CRONJ"
+title: "Erich CRONJE | エリッヒ クロンシェ"
+name_en: "Erich CRONJE"
+name_ja: "エリッヒ クロンシェ"
 slug: "erich-cronje"
 position: "CTB"
 height: "184.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/erich-cronje"
 ---
 
 ## キャリア遍歴
-Southern Kings (2019 - 2019) -> Pumas (2019 - 2019) -> Southern Kings (2020 - 2020) -> Pumas (2020 - 2021) -> Zebre Parma (2021 - 2023) -> Lions Rugby (2023 - 2026)
+southern kings (2019 - 2019) -> pumas (2019 - 2019) -> southern kings (2020 - 2020) -> pumas (2020 - 2021) -> zebre parma (2021 - 2023) -> lions rugby (2023 - 2026)

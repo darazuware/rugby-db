@@ -1,7 +1,7 @@
 ---
-title: "Vincent GIUDICELLI | ヴァンサン・ジュディチェリ"
+title: "Vincent GIUDICELLI | ウァンサン シュティチェリ"
 name_en: "Vincent GIUDICELLI"
-name_ja: "ヴァンサン・ジュディチェリ"
+name_ja: "ウァンサン シュティチェリ"
 slug: "vincent-giudicelli"
 position: "HO"
 height: "184.0"

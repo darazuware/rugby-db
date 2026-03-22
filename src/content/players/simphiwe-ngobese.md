@@ -1,7 +1,7 @@
 ---
-title: "Simphiwe NGOBESE | Simphiwe ・ NGOBESE"
+title: "Simphiwe NGOBESE"
 name_en: "Simphiwe NGOBESE"
-name_ja: "Simphiwe ・ NGOBESE"
+name_ja: "Simphiwe NGOBESE"
 slug: "simphiwe-ngobese"
 position: "PR"
 height: "183.0"

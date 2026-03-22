@@ -1,7 +1,7 @@
 ---
-title: "Ange CAPUOZZO | アンジェ-カプオッツォ"
+title: "Ange CAPUOZZO | アンシェ-カフオッツォ"
 name_en: "Ange CAPUOZZO"
-name_ja: "アンジェ-カプオッツォ"
+name_ja: "アンシェ-カフオッツォ"
 slug: "ange-capuozzo"
 position: "FB"
 height: "178.0"

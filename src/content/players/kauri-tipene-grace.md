@@ -1,7 +1,7 @@
 ---
-title: "Kauri Tipene-Grace | カウリ ・ティペネグレース"
+title: "Kauri Tipene-Grace | カウリ ティヘネクレース"
 name_en: "Kauri Tipene-Grace"
-name_ja: "カウリ ・ティペネグレース"
+name_ja: "カウリ ティヘネクレース"
 slug: "kauri-tipene-grace"
 position: "UTB"
 height: "194.0"

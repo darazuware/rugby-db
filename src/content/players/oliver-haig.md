@@ -1,7 +1,7 @@
 ---
-title: "Oliver HAIG | オリヴァー・ヘイグ"
+title: "Oliver HAIG | オリウァー ヘイク"
 name_en: "Oliver HAIG"
-name_ja: "オリヴァー・ヘイグ"
+name_ja: "オリウァー ヘイク"
 slug: "oliver-haig"
 position: "FL/No8"
 height: "196.0"

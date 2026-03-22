@@ -1,7 +1,7 @@
 ---
-title: "Damian de Allende | ダミアン ・デアレンデ"
+title: "Damian de Allende | タミアン テアレンテ"
 name_en: "Damian de Allende"
-name_ja: "ダミアン ・デアレンデ"
+name_ja: "タミアン テアレンテ"
 slug: "damian-de-allende"
 position: "CTB"
 height: "190.0"

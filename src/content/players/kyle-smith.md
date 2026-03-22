@@ -1,7 +1,7 @@
 ---
-title: "Kyle SMITH | Kyle ・ スミス"
+title: "Kyle SMITH | カイル スミス"
 name_en: "Kyle SMITH"
-name_ja: "Kyle ・ スミス"
+name_ja: "カイル スミス"
 slug: "kyle-smith"
 position: "SO"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kyle-smith"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2025) -> Stormers (2025 - 2026)
+western province (2023 - 2025) -> stormers (2025 - 2026)

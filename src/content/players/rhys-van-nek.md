@@ -1,7 +1,7 @@
 ---
-title: "Rhys VAN NEK | リース・ヴァン・ネック"
+title: "Rhys VAN NEK | リース ウァン ネック"
 name_en: "Rhys VAN NEK"
-name_ja: "リース・ヴァン・ネック"
+name_ja: "リース ウァン ネック"
 slug: "rhys-van-nek"
 position: "PR"
 height: "177.0"

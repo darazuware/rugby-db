@@ -1,9 +1,9 @@
 ---
-title: "Jacob STOCKDALE | Jacob ・ STOCKDALE"
+title: "Jacob STOCKDALE | シェイコフ-ストックテイル"
 name_en: "Jacob STOCKDALE"
-name_ja: "Jacob ・ STOCKDALE"
+name_ja: "シェイコフ-ストックテイル"
 slug: "jacob-stockdale"
-position: "Winger"
+position: "WTB"
 height: "191.0"
 weight: "104.0"
 birth_date: "1996.04.03"
@@ -15,8 +15,8 @@ team: "Ulster"
 caps: "Ireland (37)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jacob-stockdale"
+scraped_url: "ulster rugby (2015 - 2026)"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2015 - 2026)
+Ireland

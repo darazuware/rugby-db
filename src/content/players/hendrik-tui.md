@@ -1,7 +1,7 @@
 ---
-title: "Hendrik Tui | ツイ ヘンドリック"
+title: "Hendrik Tui | ツイ ヘントリック"
 name_en: "Hendrik Tui"
-name_ja: "ツイ ヘンドリック"
+name_ja: "ツイ ヘントリック"
 slug: "hendrik-tui"
 position: "FL/No8"
 height: "188.0"

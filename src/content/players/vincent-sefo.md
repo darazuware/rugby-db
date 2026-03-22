@@ -1,7 +1,7 @@
 ---
-title: "Vincent sefo | ヴィンセント ・セフォ"
+title: "Vincent sefo | ウィンセント セフォ"
 name_en: "Vincent sefo"
-name_ja: "ヴィンセント ・セフォ"
+name_ja: "ウィンセント セフォ"
 slug: "vincent-sefo"
 position: "CTB"
 height: "190.0"

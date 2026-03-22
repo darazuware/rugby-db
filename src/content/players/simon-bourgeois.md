@@ -1,7 +1,7 @@
 ---
-title: "Simon BOURGEOIS | シモン・ブルジョワ"
+title: "Simon BOURGEOIS | シモン フルショワ"
 name_en: "Simon BOURGEOIS"
-name_ja: "シモン・ブルジョワ"
+name_ja: "シモン フルショワ"
 slug: "simon-bourgeois"
 position: "PR"
 height: "189.0"

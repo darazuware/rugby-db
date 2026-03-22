@@ -1,7 +1,7 @@
 ---
-title: "Freddy DOUGLAS | Freddy ・ DOUGLAS"
+title: "Freddy DOUGLAS"
 name_en: "Freddy DOUGLAS"
-name_ja: "Freddy ・ DOUGLAS"
+name_ja: "Freddy DOUGLAS"
 slug: "freddy-douglas"
 position: "Back row"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Siale Mahina | シアレ ・マヒナ"
+title: "Siale Mahina | シアレ マヒナ"
 name_en: "Siale Mahina"
-name_ja: "シアレ ・マヒナ"
+name_ja: "シアレ マヒナ"
 slug: "siale-mahina"
 position: "PR"
 height: "175.0"

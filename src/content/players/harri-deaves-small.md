@@ -1,7 +1,7 @@
 ---
-title: "Harri DEAVES-SMALL | Harri ・ DEAVES ・ SMALL"
+title: "Harri DEAVES-SMALL | Harri DEAVES SMALL"
 name_en: "Harri DEAVES-SMALL"
-name_ja: "Harri ・ DEAVES ・ SMALL"
+name_ja: "Harri DEAVES SMALL"
 slug: "harri-deaves-small"
 position: "Back row"
 height: "182.0"

@@ -1,7 +1,7 @@
 ---
-title: "Daniel Maiava | ダニエル ・マイアヴァ"
+title: "Daniel Maiava | タニエル マイアウァ"
 name_en: "Daniel Maiava"
-name_ja: "ダニエル ・マイアヴァ"
+name_ja: "タニエル マイアウァ"
 slug: "daniel-maiava"
 position: "LO"
 height: "194.0"

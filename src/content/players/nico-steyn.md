@@ -1,7 +1,7 @@
 ---
-title: "Nico STEYN | Nico ・ STEYN"
+title: "Nico STEYN | ニコ ステイン"
 name_en: "Nico STEYN"
-name_ja: "Nico ・ STEYN"
+name_ja: "ニコ ステイン"
 slug: "nico-steyn"
 position: "SH"
 height: "177.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nico-steyn"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2020 - 2022) -> Golden Lions (2022 - 2023) -> Lions Rugby (2023 - 2026)
+lions rugby (2020 - 2022) -> golden lions (2022 - 2023) -> lions rugby (2023 - 2026)

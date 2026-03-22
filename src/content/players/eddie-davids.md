@@ -1,7 +1,7 @@
 ---
-title: "Eddie DAVIDS | エディー-デイヴィッズ"
+title: "Eddie DAVIDS | エティー-テイウィッス"
 name_en: "Eddie DAVIDS"
-name_ja: "エディー-デイヴィッズ"
+name_ja: "エティー-テイウィッス"
 slug: "eddie-davids"
 position: "PR"
 height: "178.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/eddie-davids"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "griquas (2021 - 2025) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/eddie-davids"
 ---
 
 ## キャリア遍歴
-
+griquas (2021 - 2025) -> lions rugby (2025 - 2026)

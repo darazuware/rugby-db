@@ -1,7 +1,7 @@
 ---
-title: "Stuart HOGG | スチュアート・ホッグ"
+title: "Stuart HOGG | スチュアート ホック"
 name_en: "Stuart HOGG"
-name_ja: "スチュアート・ホッグ"
+name_ja: "スチュアート ホック"
 slug: "stuart-hogg"
 position: "FB"
 height: "183.0"

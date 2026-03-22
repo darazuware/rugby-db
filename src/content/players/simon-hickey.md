@@ -1,7 +1,7 @@
 ---
-title: "Simon Hickey | サイモン ・ヒッキー"
+title: "Simon Hickey | サイモン ヒッキー"
 name_en: "Simon Hickey"
-name_ja: "サイモン ・ヒッキー"
+name_ja: "サイモン ヒッキー"
 slug: "simon-hickey"
 position: "SO"
 height: "175.0"

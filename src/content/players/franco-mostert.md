@@ -1,7 +1,7 @@
 ---
-title: "Franco Mostert | フランコ ・モスタート"
+title: "Franco Mostert | フランコ モスタート"
 name_en: "Franco Mostert"
-name_ja: "フランコ ・モスタート"
+name_ja: "フランコ モスタート"
 slug: "franco-mostert"
 position: "LO"
 height: "200.0"

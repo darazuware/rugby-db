@@ -1,7 +1,7 @@
 ---
-title: "Manu Akauora | マヌ ・アカウオラ"
+title: "Manu Akauora | マヌ アカウオラ"
 name_en: "Manu Akauora"
-name_ja: "マヌ ・アカウオラ"
+name_ja: "マヌ アカウオラ"
 slug: "manu-akauora"
 position: "WTB"
 height: "177.0"

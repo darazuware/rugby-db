@@ -1,7 +1,7 @@
 ---
-title: "Joe COWELL | Joe ・ COWELL"
+title: "Joe COWELL | ショー コーウェル"
 name_en: "Joe COWELL"
-name_ja: "Joe ・ COWELL"
+name_ja: "ショー コーウェル"
 slug: "joe-cowell"
 position: "PR"
 height: "187.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-cowell"
 ---
 
 ## キャリア遍歴
-Cardiff Met RFC (2021 - 2021) -> Cardiff Rugby (2021 - 2021) -> Cardiff Met RFC (2022 - 2022) -> Cardiff Rugby (2022 - 2022) -> Cardiff Met RFC (2022 - 2024) -> Cardiff Rugby (2024 - 2025) -> Bedford Blues (2025 - 2025) -> Northampton Saints (2025 - 2025) -> Cardiff Rugby (2026 - 2026) -> Bedford Blues (2026 - 2026) -> Northampton Saints (2026 - 2026)
+cardiff met rfc (2021 - 2021) -> cardiff rugby (2021 - 2021) -> cardiff met rfc (2022 - 2022) -> cardiff rugby (2022 - 2022) -> cardiff met rfc (2022 - 2024) -> cardiff rugby (2024 - 2025) -> bedford blues (2025 - 2025) -> northampton saints (2025 - 2025) -> cardiff rugby (2026 - 2026) -> bedford blues (2026 - 2026) -> northampton saints (2026 - 2026)

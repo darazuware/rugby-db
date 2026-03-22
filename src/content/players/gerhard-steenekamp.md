@@ -1,7 +1,7 @@
 ---
-title: "Gerhard STEENEKAMP | Gerhard ・ STEENEKAMP"
+title: "Gerhard STEENEKAMP"
 name_en: "Gerhard STEENEKAMP"
-name_ja: "Gerhard ・ STEENEKAMP"
+name_ja: "Gerhard STEENEKAMP"
 slug: "gerhard-steenekamp"
 position: "PR"
 height: "191.0"

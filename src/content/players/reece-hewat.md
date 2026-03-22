@@ -1,7 +1,7 @@
 ---
-title: "Reece HEWAT | リース・ヒューワット"
+title: "Reece HEWAT | リース ヒューワット"
 name_en: "Reece HEWAT"
-name_ja: "リース・ヒューワット"
+name_ja: "リース ヒューワット"
 slug: "reece-hewat"
 position: "FL/NO8"
 height: "194.0"

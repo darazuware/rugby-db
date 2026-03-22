@@ -1,7 +1,7 @@
 ---
-title: "Flynn LONGSTAFF | Flynn ・ LONGSTAFF"
+title: "Flynn LONGSTAFF"
 name_en: "Flynn LONGSTAFF"
-name_ja: "Flynn ・ LONGSTAFF"
+name_ja: "Flynn LONGSTAFF"
 slug: "flynn-longstaff"
 position: "PR"
 height: ""

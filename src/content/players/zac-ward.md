@@ -1,9 +1,9 @@
 ---
-title: "Zac WARD | ザック・ウォード"
+title: "Zac WARD"
 name_en: "Zac WARD"
-name_ja: "ザック・ウォード"
+name_ja: "Zac WARD"
 slug: "zac-ward"
-position: "WTB"
+position: "Winger"
 height: "191.0"
 weight: "101.0"
 birth_date: "1998.12.11"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/zac-ward"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ulster rugby (2024 - 2026)"
+scraped_url: "https://all.rugby/player/zac-ward"
 ---
 
 ## キャリア遍歴
-
+Ulster Rugby (2024 - 2026)

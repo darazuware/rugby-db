@@ -1,7 +1,7 @@
 ---
-title: "Tom COTTLE | トム・コトル"
+title: "Tom COTTLE | トム コトル"
 name_en: "Tom COTTLE"
-name_ja: "トム・コトル"
+name_ja: "トム コトル"
 slug: "tom-cottle"
 position: "LO"
 height: "198.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "https://all.rugby/player/tom-cottle"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "rgc 1404 (2024 - 2025) -> cardiff rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/tom-cottle"
 ---
 
 ## キャリア遍歴
-
+rgc 1404 (2024 - 2025) -> cardiff rugby (2025 - 2026)

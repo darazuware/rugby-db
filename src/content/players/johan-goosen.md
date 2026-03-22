@@ -1,7 +1,7 @@
 ---
-title: "Johan GOOSEN | Johan ・ GOOSEN"
+title: "Johan GOOSEN | ヨハン コーセン"
 name_en: "Johan GOOSEN"
-name_ja: "Johan ・ GOOSEN"
+name_ja: "ヨハン コーセン"
 slug: "johan-goosen"
 position: "SO"
 height: "184.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Bulls"
-caps: "South Africa"
-high_school: ""
+caps: ""
+high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/johan-goosen"
 ---
 
 ## キャリア遍歴
-Free State Cheetahs (2011 - 2013) -> Central Cheetahs (2013 - 2013) -> Free State Cheetahs (2014 - 2014) -> Central Cheetahs (2014 - 2014) -> Racing 92 (2014 - 2017) -> Central Cheetahs (2017 - 2017) -> Racing 92 (2018 - 2018) -> Central Cheetahs (2018 - 2018) -> Montpellier Hérault Rugby (2018 - 2021) -> Bulls (2021 - 2026)
+free state cheetahs (2011 - 2013) -> central cheetahs (2013 - 2013) -> free state cheetahs (2014 - 2014) -> central cheetahs (2014 - 2014) -> racing 92 (2014 - 2017) -> central cheetahs (2017 - 2017) -> racing 92 (2018 - 2018) -> central cheetahs (2018 - 2018) -> montpellier hérault rugby (2018 - 2021) -> bulls (2021 - 2026)

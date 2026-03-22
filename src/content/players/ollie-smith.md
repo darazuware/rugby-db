@@ -1,7 +1,7 @@
 ---
-title: "Ollie SMITH | Ollie ・ スミス"
+title: "Ollie SMITH | オリー スミス"
 name_en: "Ollie SMITH"
-name_ja: "Ollie ・ スミス"
+name_ja: "オリー スミス"
 slug: "ollie-smith"
 position: "FB"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Glasgow"
 caps: "Scotland (6)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/ollie-smith"
+scraped_url: "glasgow warriors (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2018 - 2026)
+Scotland

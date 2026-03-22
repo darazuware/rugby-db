@@ -1,7 +1,7 @@
 ---
-title: "Leo JAQUES | レオ・ジャック"
+title: "Leo JAQUES | レオ シャック"
 name_en: "Leo JAQUES"
-name_ja: "レオ・ジャック"
+name_ja: "レオ シャック"
 slug: "leo-jaques"
 position: "WTB"
 height: "192.0"

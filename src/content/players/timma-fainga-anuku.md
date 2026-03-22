@@ -1,7 +1,7 @@
 ---
-title: "Timma Fainga anuku | ティマ ・ファインガヌク"
+title: "Timma Fainga anuku | ティマ ファインカヌク"
 name_en: "Timma Fainga anuku"
-name_ja: "ティマ ・ファインガヌク"
+name_ja: "ティマ ファインカヌク"
 slug: "timma-fainga-anuku"
 position: "PR"
 height: "180.0"

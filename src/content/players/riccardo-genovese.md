@@ -1,7 +1,7 @@
 ---
-title: "Riccardo GENOVESE | Riccardo ・ GENOVESE"
+title: "Riccardo GENOVESE | リッカルト シェノウェーセ"
 name_en: "Riccardo GENOVESE"
-name_ja: "Riccardo ・ GENOVESE"
+name_ja: "リッカルト シェノウェーセ"
 slug: "riccardo-genovese"
 position: "PR"
 height: "189.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/riccardo-genovese"
 ---
 
 ## キャリア遍歴
-CUS Torino Rugby (2021 - 2022) -> Zebre Parma (2022 - 2024) -> Benetton Rugby Trévise (2024 - 2024) -> Rangers Rugby Vicenza (2024 - 2024) -> Benetton Rugby Trévise (2025 - 2025) -> Rangers Rugby Vicenza (2025 - 2025) -> Zebre Parma (2025 - 2025) -> Mogliano Veneto Rugby (2025 - 2025) -> Zebre Parma (2026 - 2026) -> Mogliano Veneto Rugby (2026 - 2026)
+cus torino rugby (2021 - 2022) -> zebre parma (2022 - 2024) -> benetton rugby trévise (2024 - 2024) -> rangers rugby vicenza (2024 - 2024) -> benetton rugby trévise (2025 - 2025) -> rangers rugby vicenza (2025 - 2025) -> zebre parma (2025 - 2025) -> mogliano veneto rugby (2025 - 2025) -> zebre parma (2026 - 2026) -> mogliano veneto rugby (2026 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Jone ROVA | ジョネ・ロヴァ"
+title: "Jone ROVA | ショネ ロウァ"
 name_en: "Jone ROVA"
-name_ja: "ジョネ・ロヴァ"
+name_ja: "ショネ ロウァ"
 slug: "jone-rova"
 position: "CTB"
 height: "185.0"

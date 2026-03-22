@@ -1,7 +1,7 @@
 ---
-title: "Tadhg BROPHY | タイグ・ブロフィー"
+title: "Tadhg BROPHY | タイク フロフィー"
 name_en: "Tadhg BROPHY"
-name_ja: "タイグ・ブロフィー"
+name_ja: "タイク フロフィー"
 slug: "tadhg-brophy"
 position: "SH"
 height: "173.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Leinster"
-caps: "https://all.rugby/player/tadhg-brophy"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "naas rfc (2023 - 2024) -> lansdowne fc (2024 - 2025) -> leinster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/tadhg-brophy"
 ---
 
 ## キャリア遍歴
-
+naas rfc (2023 - 2024) -> lansdowne fc (2024 - 2025) -> leinster rugby (2025 - 2026)

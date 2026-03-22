@@ -1,7 +1,7 @@
 ---
-title: "Tito TUIPULOTU | ティト・ツイプロトゥ"
+title: "Tito TUIPULOTU | ティト ツイフロトゥ"
 name_en: "Tito TUIPULOTU"
-name_ja: "ティト・ツイプロトゥ"
+name_ja: "ティト ツイフロトゥ"
 slug: "tito-tuipulotu"
 position: "PR"
 height: ""

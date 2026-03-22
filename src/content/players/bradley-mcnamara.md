@@ -1,7 +1,7 @@
 ---
-title: "Bradley MCNAMARA | ブラッドリー・マクナマラ"
+title: "Bradley MCNAMARA | フラットリー マクナマラ"
 name_en: "Bradley MCNAMARA"
-name_ja: "ブラッドリー・マクナマラ"
+name_ja: "フラットリー マクナマラ"
 slug: "bradley-mcnamara"
 position: "FB"
 height: ""
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/bradley-mcnamara"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "instonians rugby club (2024 - 2025) -> ulster rugby (2025 - 2025) -> instonians rugby club (2025 - 2025) -> ulster rugby (2026 - 2026) -> instonians rugby club (2026 - 2026)"
+scraped_url: "https://all.rugby/player/bradley-mcnamara"
 ---
 
 ## キャリア遍歴
-
+instonians rugby club (2024 - 2025) -> ulster rugby (2025 - 2025) -> instonians rugby club (2025 - 2025) -> ulster rugby (2026 - 2026) -> instonians rugby club (2026 - 2026)

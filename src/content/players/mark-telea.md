@@ -1,7 +1,7 @@
 ---
-title: "Mark Telea | マーク ・テレア"
+title: "Mark Telea | マーク テレア"
 name_en: "Mark Telea"
-name_ja: "マーク ・テレア"
+name_ja: "マーク テレア"
 slug: "mark-telea"
 position: "WTB"
 height: "186.0"

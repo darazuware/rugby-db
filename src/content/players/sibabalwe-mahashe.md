@@ -1,7 +1,7 @@
 ---
-title: "Sibabalwe MAHASHE | シババルウェ・マハシェ"
+title: "Sibabalwe MAHASHE | シハハルウェ マハシェ"
 name_en: "Sibabalwe MAHASHE"
-name_ja: "シババルウェ・マハシェ"
+name_ja: "シハハルウェ マハシェ"
 slug: "sibabalwe-mahashe"
 position: "FL/No8"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Lions"
-caps: "https://all.rugby/player/sibabalwe-mahashe"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "golden lions (2023 - 2024) -> lions rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/sibabalwe-mahashe"
 ---
 
 ## キャリア遍歴
-
+golden lions (2023 - 2024) -> lions rugby (2025 - 2026)

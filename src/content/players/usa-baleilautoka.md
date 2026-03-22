@@ -1,7 +1,7 @@
 ---
-title: "Usa Baleilautoka | ウサ ・バレイラウトカ"
+title: "Usa Baleilautoka | ウサ ハレイラウトカ"
 name_en: "Usa Baleilautoka"
-name_ja: "ウサ ・バレイラウトカ"
+name_ja: "ウサ ハレイラウトカ"
 slug: "usa-baleilautoka"
 position: "PR"
 height: "177.0"

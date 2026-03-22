@@ -1,7 +1,7 @@
 ---
-title: "Luke SCULLY | ルーク ・ SCULLY"
+title: "Luke SCULLY | ルーク スカリー"
 name_en: "Luke SCULLY"
-name_ja: "ルーク ・ SCULLY"
+name_ja: "ルーク スカリー"
 slug: "luke-scully"
 position: "SO"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-scully"
 ---
 
 ## キャリア遍歴
-Worcester Warriors (2018 - 2020) -> Cardiff Rugby (2020 - 2020) -> Cornish Pirates (2020 - 2020) -> Cardiff Rugby (2021 - 2021) -> Cornish Pirates (2021 - 2021) -> Cardiff Rugby (2021 - 2022) -> Ospreys (2022 - 2026)
+worcester warriors (2018 - 2020) -> cardiff rugby (2020 - 2020) -> cornish pirates (2020 - 2020) -> cardiff rugby (2021 - 2021) -> cornish pirates (2021 - 2021) -> cardiff rugby (2021 - 2022) -> ospreys (2022 - 2026)

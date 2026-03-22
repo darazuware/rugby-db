@@ -1,7 +1,7 @@
 ---
-title: "Chase Tiatia | チェイス ・ティアティア"
+title: "Chase Tiatia | チェイス ティアティア"
 name_en: "Chase Tiatia"
-name_ja: "チェイス ・ティアティア"
+name_ja: "チェイス ティアティア"
 slug: "chase-tiatia"
 position: "FB"
 height: "181.0"

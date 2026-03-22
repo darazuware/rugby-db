@@ -1,7 +1,7 @@
 ---
-title: "Murray Koster | マリー ・コスター"
+title: "Murray Koster | マリー コスター"
 name_en: "Murray Koster"
-name_ja: "マリー ・コスター"
+name_ja: "マリー コスター"
 slug: "murray-koster"
 position: "CTB"
 height: "189.0"

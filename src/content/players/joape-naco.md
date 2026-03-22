@@ -1,7 +1,7 @@
 ---
-title: "Joape Naco | ジョアペ ・ナコ"
+title: "Joape Naco | ショアヘ ナコ"
 name_en: "Joape Naco"
-name_ja: "ジョアペ ・ナコ"
+name_ja: "ショアヘ ナコ"
 slug: "joape-naco"
 position: "CTB"
 height: "181.0"

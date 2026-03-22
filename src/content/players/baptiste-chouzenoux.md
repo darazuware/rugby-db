@@ -1,7 +1,7 @@
 ---
-title: "Baptiste CHOUZENOUX | バティスト・シュゼヌー"
+title: "Baptiste CHOUZENOUX | ハティスト シュセヌー"
 name_en: "Baptiste CHOUZENOUX"
-name_ja: "バティスト・シュゼヌー"
+name_ja: "ハティスト シュセヌー"
 slug: "baptiste-chouzenoux"
 position: "FL/NO8"
 height: "202.0"

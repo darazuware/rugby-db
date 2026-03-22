@@ -1,7 +1,7 @@
 ---
-title: "Piers O'CONOR | Piers ・ O'CONOR"
+title: "Piers O'CONOR | ヒアース オコナー"
 name_en: "Piers O'CONOR"
-name_ja: "Piers ・ O'CONOR"
+name_ja: "ヒアース オコナー"
 slug: "piers-o-conor"
 position: "CTB"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/piers-o-conor"
 ---
 
 ## キャリア遍歴
-Wasps (2016 - 2017) -> Bristol Bears (2018 - 2024) -> Connacht Rugby (2024 - 2025) -> Edimbourg Rugby (2025 - 2026)
+wasps (2016 - 2017) -> bristol bears (2018 - 2024) -> connacht rugby (2024 - 2025) -> edimbourg rugby (2025 - 2026)

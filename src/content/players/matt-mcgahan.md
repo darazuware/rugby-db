@@ -1,7 +1,7 @@
 ---
-title: "Matt McGahan | マット ・マッガーン"
+title: "Matt McGahan | マット マッカーン"
 name_en: "Matt McGahan"
-name_ja: "マット ・マッガーン"
+name_ja: "マット マッカーン"
 slug: "matt-mcgahan"
 position: "SO"
 height: "185.0"

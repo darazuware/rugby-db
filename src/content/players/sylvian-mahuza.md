@@ -1,7 +1,7 @@
 ---
-title: "Sylvian Mahuza | シルビアン ・マフーザ"
+title: "Sylvian Mahuza | シルヒアン マフーサ"
 name_en: "Sylvian Mahuza"
-name_ja: "シルビアン ・マフーザ"
+name_ja: "シルヒアン マフーサ"
 slug: "sylvian-mahuza"
 position: "CTB"
 height: "179.0"

@@ -1,7 +1,7 @@
 ---
-title: "Maritino Nemani | マリティノ ・ネマニ"
+title: "Maritino Nemani | マリティノ ネマニ"
 name_en: "Maritino Nemani"
-name_ja: "マリティノ ・ネマニ"
+name_ja: "マリティノ ネマニ"
 slug: "maritino-nemani"
 position: "CTB"
 height: "181.0"

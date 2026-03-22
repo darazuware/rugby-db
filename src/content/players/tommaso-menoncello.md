@@ -1,7 +1,7 @@
 ---
-title: "Tommaso MENONCELLO | トマソ・メノンチェッロ"
+title: "Tommaso MENONCELLO | トマソ メノンチェッロ"
 name_en: "Tommaso MENONCELLO"
-name_ja: "トマソ・メノンチェッロ"
+name_ja: "トマソ メノンチェッロ"
 slug: "tommaso-menoncello"
 position: "CTB"
 height: "187.0"

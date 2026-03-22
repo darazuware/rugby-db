@@ -1,7 +1,7 @@
 ---
-title: "Will GODDARD | ウィル・ゴダード"
+title: "Will GODDARD | ウィル コタート"
 name_en: "Will GODDARD"
-name_ja: "ウィル・ゴダード"
+name_ja: "ウィル コタート"
 slug: "will-goddard"
 position: "PR"
 height: "183.0"

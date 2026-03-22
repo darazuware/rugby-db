@@ -1,7 +1,7 @@
 ---
-title: "Neil Hansen | ニール ・ハンセン"
+title: "Neil Hansen | ニール ハンセン"
 name_en: "Neil Hansen"
-name_ja: "ニール ・ハンセン"
+name_ja: "ニール ハンセン"
 slug: "neil-hansen"
 position: "LO"
 height: "197.0"

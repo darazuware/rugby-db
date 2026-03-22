@@ -1,7 +1,7 @@
 ---
-title: "Alex MASIBAKA | アレックス・マシバカ"
+title: "Alex MASIBAKA | アレックス マシハカ"
 name_en: "Alex MASIBAKA"
-name_ja: "アレックス・マシバカ"
+name_ja: "アレックス マシハカ"
 slug: "alex-masibaka"
 position: "FL/NO8"
 height: "186.0"

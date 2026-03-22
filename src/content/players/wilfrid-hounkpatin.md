@@ -1,7 +1,7 @@
 ---
-title: "Wilfrid HOUNKPATIN | ウィルフリード・ウンパタン"
+title: "Wilfrid HOUNKPATIN | ウィルフリート ウンハタン"
 name_en: "Wilfrid HOUNKPATIN"
-name_ja: "ウィルフリード・ウンパタン"
+name_ja: "ウィルフリート ウンハタン"
 slug: "wilfrid-hounkpatin"
 position: "PR"
 height: "192.0"

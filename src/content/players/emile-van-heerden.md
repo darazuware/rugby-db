@@ -1,7 +1,7 @@
 ---
-title: "Emile VAN HEERDEN | Emile ・ ファン ・ HEERDEN"
+title: "Emile VAN HEERDEN | エミール ファン ヘールテン"
 name_en: "Emile VAN HEERDEN"
-name_ja: "Emile ・ ファン ・ HEERDEN"
+name_ja: "エミール ファン ヘールテン"
 slug: "emile-van-heerden"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emile-van-heerden"
 ---
 
 ## キャリア遍歴
-Sharks (2019 - 2021) -> Natal Sharks (2021 - 2022) -> Lions Rugby (2022 - 2022) -> Sharks (2022 - 2022) -> Lions Rugby (2023 - 2023) -> Sharks (2023 - 2026)
+sharks (2019 - 2021) -> natal sharks (2021 - 2022) -> lions rugby (2022 - 2022) -> sharks (2022 - 2022) -> lions rugby (2023 - 2023) -> sharks (2023 - 2026)

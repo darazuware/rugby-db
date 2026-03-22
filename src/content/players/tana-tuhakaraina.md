@@ -1,7 +1,7 @@
 ---
-title: "Tana Tuhakaraina | タナ ・トゥハカライナ"
+title: "Tana Tuhakaraina | タナ トゥハカライナ"
 name_en: "Tana Tuhakaraina"
-name_ja: "タナ ・トゥハカライナ"
+name_ja: "タナ トゥハカライナ"
 slug: "tana-tuhakaraina"
 position: "CTB"
 height: "184.0"

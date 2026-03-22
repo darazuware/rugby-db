@@ -1,7 +1,7 @@
 ---
-title: "Geronimo PRISCIANTELLI | ジェロニモ-プリシャンテッリ"
+title: "Geronimo PRISCIANTELLI | シェロニモ-フリシャンテッリ"
 name_en: "Geronimo PRISCIANTELLI"
-name_ja: "ジェロニモ-プリシャンテッリ"
+name_ja: "シェロニモ-フリシャンテッリ"
 slug: "geronimo-prisciantelli"
 position: "SO"
 height: "183.0"

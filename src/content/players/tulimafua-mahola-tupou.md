@@ -1,7 +1,7 @@
 ---
-title: "Tulimafua Mahola Tupou | トゥリマフア ・マホラ・トゥポウ"
+title: "Tulimafua Mahola Tupou | トゥリマフア マホラ トゥホウ"
 name_en: "Tulimafua Mahola Tupou"
-name_ja: "トゥリマフア ・マホラ・トゥポウ"
+name_ja: "トゥリマフア マホラ トゥホウ"
 slug: "tulimafua-mahola-tupou"
 position: "CTB"
 height: "185.0"

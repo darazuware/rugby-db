@@ -1,7 +1,7 @@
 ---
-title: "Leonardo MARIN | Leonardo ・ MARIN"
+title: "Leonardo MARIN | レオナルト マリン"
 name_en: "Leonardo MARIN"
-name_ja: "Leonardo ・ MARIN"
+name_ja: "レオナルト マリン"
 slug: "leonardo-marin"
 position: "SO"
 height: "188.0"
@@ -15,8 +15,8 @@ team: "Trévise"
 caps: "Italy (13)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/leonardo-marin"
+scraped_url: "mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - 2026)"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2026)
+Italy

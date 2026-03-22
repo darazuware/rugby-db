@@ -1,7 +1,7 @@
 ---
-title: "Joseph SUA'ALI'I | ジョセフ・スアアリイ"
+title: "Joseph SUA'ALI'I | ショセフ スアアリイ"
 name_en: "Joseph SUA'ALI'I"
-name_ja: "ジョセフ・スアアリイ"
+name_ja: "ショセフ スアアリイ"
 slug: "joseph-sua-ali-i"
 position: "CTB"
 height: "196.0"

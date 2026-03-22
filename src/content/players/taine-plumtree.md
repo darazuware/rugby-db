@@ -1,7 +1,7 @@
 ---
-title: "Taine PLUMTREE | テイン・プラムツリー"
+title: "Taine PLUMTREE | テイン フラムツリー"
 name_en: "Taine PLUMTREE"
-name_ja: "テイン・プラムツリー"
+name_ja: "テイン フラムツリー"
 slug: "taine-plumtree"
 position: "LO"
 height: "195.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Scarlets"
-caps: "https://all.rugby/player/taine-plumtree"
-high_school: ""
+caps: ""
+high_school: "New Zealand"
 university: ""
-scraped_url: "wellington lions (2019 - 2020) -> blues (2020 - 2020) -> wellington lions (2020 - 2020) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2022 - 2022) -> wellington lions (2022 - 2022) -> blues (2022 - 2023) -> scarlets (2023 - 2026)"
+scraped_url: "https://all.rugby/player/taine-plumtree"
 ---
 
 ## キャリア遍歴
-New Zealand
+wellington lions (2019 - 2020) -> blues (2020 - 2020) -> wellington lions (2020 - 2020) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2022 - 2022) -> wellington lions (2022 - 2022) -> blues (2022 - 2023) -> scarlets (2023 - 2026)

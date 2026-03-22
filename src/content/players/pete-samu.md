@@ -1,7 +1,7 @@
 ---
-title: "Pete SAMU | ピート・サム"
+title: "Pete SAMU | ヒート サム"
 name_en: "Pete SAMU"
-name_ja: "ピート・サム"
+name_ja: "ヒート サム"
 slug: "pete-samu"
 position: "FL/No8"
 height: "185.0"

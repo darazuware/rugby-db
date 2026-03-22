@@ -1,7 +1,7 @@
 ---
-title: "Anton Lienert-Brown | アントン ・レイナートブラウン"
+title: "Anton Lienert-Brown | アントン レイナートフラウン"
 name_en: "Anton Lienert-Brown"
-name_ja: "アントン ・レイナートブラウン"
+name_ja: "アントン レイナートフラウン"
 slug: "anton-lienert-brown"
 position: "CTB"
 height: "185.0"

@@ -1,7 +1,7 @@
 ---
-title: "Scott PENNY | スコット ・ PENNY"
+title: "Scott PENNY | スコット PENNY"
 name_en: "Scott PENNY"
-name_ja: "スコット ・ PENNY"
+name_ja: "スコット PENNY"
 slug: "scott-penny"
 position: "Back row"
 height: "185.0"

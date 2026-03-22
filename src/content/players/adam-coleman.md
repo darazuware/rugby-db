@@ -1,7 +1,7 @@
 ---
-title: "Adam COLEMAN | アダム・コールマン"
+title: "Adam COLEMAN | アタム コールマン"
 name_en: "Adam COLEMAN"
-name_ja: "アダム・コールマン"
+name_ja: "アタム コールマン"
 slug: "adam-coleman"
 position: "LO"
 height: "206.0"

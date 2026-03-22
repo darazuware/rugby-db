@@ -1,7 +1,7 @@
 ---
-title: "James FENDER | ジェームズ ・ FENDER"
+title: "James FENDER | シェームス-フェンター"
 name_en: "James FENDER"
-name_ja: "ジェームズ ・ FENDER"
+name_ja: "シェームス-フェンター"
 slug: "james-fender"
 position: "LO"
 height: "204.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-fender"
 ---
 
 ## キャリア遍歴
-Ospreys (2018 - 2022) -> Cornish Pirates (2022 - 2022) -> Ospreys (2023 - 2023) -> Cornish Pirates (2023 - 2023) -> Ospreys (2023 - 2026)
+ospreys (2018 - 2022) -> cornish pirates (2022 - 2022) -> ospreys (2023 - 2023) -> cornish pirates (2023 - 2023) -> ospreys (2023 - 2026)

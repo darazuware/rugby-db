@@ -1,7 +1,7 @@
 ---
-title: "Solomon ALAIMALO | ソロモン・アライマロ"
+title: "Solomon ALAIMALO | ソロモン アライマロ"
 name_en: "Solomon ALAIMALO"
-name_ja: "ソロモン・アライマロ"
+name_ja: "ソロモン アライマロ"
 slug: "solomona-alaimalo"
 position: "CTB"
 height: "196.0"

@@ -1,7 +1,7 @@
 ---
-title: "Elliott Stooke | エリオット ・ストーク"
+title: "Elliott Stooke | エリオット ストーク"
 name_en: "Elliott Stooke"
-name_ja: "エリオット ・ストーク"
+name_ja: "エリオット ストーク"
 slug: "elliott-stooke"
 position: "LO"
 height: "198.0"

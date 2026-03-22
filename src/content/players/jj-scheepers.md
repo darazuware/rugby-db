@@ -1,7 +1,7 @@
 ---
-title: "JJ SCHEEPERS | JJ ・ SCHEEPERS"
+title: "JJ SCHEEPERS | JJ-シェーハース"
 name_en: "JJ SCHEEPERS"
-name_ja: "JJ ・ SCHEEPERS"
+name_ja: "JJ-シェーハース"
 slug: "jj-scheepers"
 position: "LO"
 height: "198.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jj-scheepers"
 ---
 
 ## キャリア遍歴
-Centurioni Rugby (2022 - 2023) -> OK Financial Group Okman (2023 - 2024) -> Pumas (2024 - 2025) -> Sharks (2025 - 2026)
+centurioni rugby (2022 - 2023) -> ok financial group okman (2023 - 2024) -> pumas (2024 - 2025) -> sharks (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Harry Willard | ハリー ・ウィラード"
+title: "Harry Willard | ハリー ウィラート"
 name_en: "Harry Willard"
-name_ja: "ハリー ・ウィラード"
+name_ja: "ハリー ウィラート"
 slug: "harry-willard"
 position: "FL/No8"
 height: "190.0"

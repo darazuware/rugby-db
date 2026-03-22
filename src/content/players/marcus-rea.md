@@ -1,7 +1,7 @@
 ---
-title: "Marcus REA | Marcus ・ REA"
+title: "Marcus REA"
 name_en: "Marcus REA"
-name_ja: "Marcus ・ REA"
+name_ja: "Marcus REA"
 slug: "marcus-rea"
 position: "Back row"
 height: "189.0"

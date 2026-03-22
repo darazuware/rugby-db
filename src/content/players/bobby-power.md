@@ -1,7 +1,7 @@
 ---
-title: "Bobby POWER | ボビー・パワー"
+title: "Bobby POWER | ホヒー ハワー"
 name_en: "Bobby POWER"
-name_ja: "ボビー・パワー"
+name_ja: "ホヒー ハワー"
 slug: "bobby-power"
 position: "FL/No8"
 height: "192.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/bobby-power"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "galwegians rfc (2024 - 2025) -> connacht rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/bobby-power"
 ---
 
 ## キャリア遍歴
-
+galwegians rfc (2024 - 2025) -> connacht rugby (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Caelan CARSON-JONES | ケーラン ・ CARSON ・ JONES"
+title: "Caelan CARSON-JONES | ケーラン CARSON JONES"
 name_en: "Caelan CARSON-JONES"
-name_ja: "ケーラン ・ CARSON ・ JONES"
+name_ja: "ケーラン CARSON JONES"
 slug: "caelan-carson-jones"
 position: "SH"
 height: ""

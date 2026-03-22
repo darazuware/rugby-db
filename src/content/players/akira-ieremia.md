@@ -1,7 +1,7 @@
 ---
-title: "Akira Ieremia | アキラ ・イエレミア"
+title: "Akira Ieremia | アキラ イエレミア"
 name_en: "Akira Ieremia"
-name_ja: "アキラ ・イエレミア"
+name_ja: "アキラ イエレミア"
 slug: "akira-ieremia"
 position: "LO"
 height: "194.0"

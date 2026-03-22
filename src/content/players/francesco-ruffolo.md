@@ -1,7 +1,7 @@
 ---
-title: "Francesco RUFFOLO | Francesco ・ RUFFOLO"
+title: "Francesco RUFFOLO | フランチェスコ ルッフォロ"
 name_en: "Francesco RUFFOLO"
-name_ja: "Francesco ・ RUFFOLO"
+name_ja: "フランチェスコ ルッフォロ"
 slug: "francesco-ruffolo"
 position: "LO"
 height: "198.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francesco-ruffolo"
 ---
 
 ## キャリア遍歴
-Colorno (2021 - 2024) -> Zebre Parma (2024 - 2026)
+colorno (2021 - 2024) -> zebre parma (2024 - 2026)

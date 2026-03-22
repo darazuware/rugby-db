@@ -1,7 +1,7 @@
 ---
-title: "Nic Souchon | ニック ・スーチョン"
+title: "Nic Souchon | ニック スーチョン"
 name_en: "Nic Souchon"
-name_ja: "ニック ・スーチョン"
+name_ja: "ニック スーチョン"
 slug: "nic-souchon"
 position: "HO"
 height: "180.0"

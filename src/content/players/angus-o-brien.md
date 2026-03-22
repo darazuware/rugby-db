@@ -1,7 +1,7 @@
 ---
-title: "Angus O'BRIEN | Angus ・ O'BRIEN"
+title: "Angus O'BRIEN | アンカス オフライエン"
 name_en: "Angus O'BRIEN"
-name_ja: "Angus ・ O'BRIEN"
+name_ja: "アンカス オフライエン"
 slug: "angus-o-brien"
 position: "SO"
 height: "180.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-o-brien"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2014 - 2018) -> Scarlets (2018 - 2022) -> Dragons RFC (2022 - 2026)
+dragons rfc (2014 - 2018) -> scarlets (2018 - 2022) -> dragons rfc (2022 - 2026)

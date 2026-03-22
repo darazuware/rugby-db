@@ -1,7 +1,7 @@
 ---
-title: "Soane VIKENA | ソアネ・ヴィケナ"
+title: "Soane VIKENA | ソアネ ウィケナ"
 name_en: "Soane VIKENA"
-name_ja: "ソアネ・ヴィケナ"
+name_ja: "ソアネ ウィケナ"
 slug: "soane-vikena"
 position: "HO"
 height: "183.0"

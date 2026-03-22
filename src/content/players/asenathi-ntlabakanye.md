@@ -1,7 +1,7 @@
 ---
-title: "Asenathi NTLABAKANYE | Asenathi ・ NTLABAKANYE"
+title: "Asenathi NTLABAKANYE"
 name_en: "Asenathi NTLABAKANYE"
-name_ja: "Asenathi ・ NTLABAKANYE"
+name_ja: "Asenathi NTLABAKANYE"
 slug: "asenathi-ntlabakanye"
 position: "PR"
 height: "182.0"

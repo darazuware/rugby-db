@@ -1,7 +1,7 @@
 ---
-title: "Hudson NEVIN | Hudson ・ NEVIN"
+title: "Hudson NEVIN"
 name_en: "Hudson NEVIN"
-name_ja: "Hudson ・ NEVIN"
+name_ja: "Hudson NEVIN"
 slug: "hudson-nevin"
 position: "PR"
 height: "188.0"

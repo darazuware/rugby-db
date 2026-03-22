@@ -1,7 +1,7 @@
 ---
-title: "Nathanaël HULLEU | ナタナエル・ユルー"
-name_en: "Nathanaël HULLEU"
-name_ja: "ナタナエル・ユルー"
+title: "Nathanael HULLEU | ナタナエル ユルー"
+name_en: "Nathanael HULLEU"
+name_ja: "ナタナエル ユルー"
 slug: "nathanael-hulleu"
 position: "WTB"
 height: "178.0"

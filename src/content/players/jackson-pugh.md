@@ -1,7 +1,7 @@
 ---
-title: "Jackson Pugh | ジャクソン ・ピュー"
+title: "Jackson Pugh | シャクソン ヒュー"
 name_en: "Jackson Pugh"
-name_ja: "ジャクソン ・ピュー"
+name_ja: "シャクソン ヒュー"
 slug: "jackson-pugh"
 position: "FL/No8"
 height: "197.0"

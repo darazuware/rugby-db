@@ -1,7 +1,7 @@
 ---
-title: "Fabien BRAU-BOIRIE | ファビアン・ブロー＝ボワリ"
+title: "Fabien BRAU-BOIRIE | ファヒアン フロー=ホワリ"
 name_en: "Fabien BRAU-BOIRIE"
-name_ja: "ファビアン・ブロー＝ボワリ"
+name_ja: "ファヒアン フロー=ホワリ"
 slug: "fabien-brau-boirie"
 position: "CTB"
 height: "190.0"

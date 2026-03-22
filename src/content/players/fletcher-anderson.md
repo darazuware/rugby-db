@@ -1,7 +1,7 @@
 ---
-title: "Fletcher ANDERSON | Fletcher ・ ANDERSON"
+title: "Fletcher ANDERSON"
 name_en: "Fletcher ANDERSON"
-name_ja: "Fletcher ・ ANDERSON"
+name_ja: "Fletcher ANDERSON"
 slug: "fletcher-anderson"
 position: "Back row"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Seán O'BRIEN | Se ・ O'BRIEN"
-name_en: "Seán O'BRIEN"
-name_ja: "Se ・ O'BRIEN"
+title: "Sean O'BRIEN | ショーン オフライエン"
+name_en: "Sean O'BRIEN"
+name_ja: "ショーン オフライエン"
 slug: "sean-o-brien-1998"
 position: "CTB"
 height: "187.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Munster"
-caps: "Ireland (37)"
+caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sean-o-brien-1998"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2019 - 2021) -> Exeter Chiefs (2021 - 2023) -> Munster Rugby (2023 - 2026)
+connacht rugby (2019 - 2021) -> exeter chiefs (2021 - 2023) -> munster rugby (2023 - 2026)

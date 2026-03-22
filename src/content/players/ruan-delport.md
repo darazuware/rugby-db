@@ -1,9 +1,9 @@
 ---
-title: "Ruan DELPORT | Ruan ・ DELPORT"
+title: "Ruan DELPORT | ルアン テルホート"
 name_en: "Ruan DELPORT"
-name_ja: "Ruan ・ DELPORT"
+name_ja: "ルアン テルホート"
 slug: "ruan-delport"
-position: "Back row"
+position: "FL/No8"
 height: "200.0"
 weight: "109.0"
 birth_date: "2002.07.03"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-delport"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2021 - 2022) -> Lions Rugby (2022 - 2026)
+blue bulls (2021 - 2022) -> lions rugby (2022 - 2026)

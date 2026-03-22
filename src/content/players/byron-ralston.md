@@ -1,7 +1,7 @@
 ---
-title: "Byron RALSTON | Byron ・ RALSTON"
+title: "Byron RALSTON"
 name_en: "Byron RALSTON"
-name_ja: "Byron ・ RALSTON"
+name_ja: "Byron RALSTON"
 slug: "byron-ralston"
 position: "Winger"
 height: "184.0"

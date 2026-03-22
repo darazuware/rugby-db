@@ -1,7 +1,7 @@
 ---
-title: "Adrien DRAULT | アドリアン・ドロー"
+title: "Adrien DRAULT | アトリアン トロー"
 name_en: "Adrien DRAULT"
-name_ja: "アドリアン・ドロー"
+name_ja: "アトリアン トロー"
 slug: "adrien-drault"
 position: "CTB"
 height: "183.0"

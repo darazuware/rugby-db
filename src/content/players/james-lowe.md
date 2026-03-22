@@ -1,9 +1,9 @@
 ---
-title: "James LOWE | ジェームズ ・ LOWE"
+title: "James LOWE | シェームス-ロウ"
 name_en: "James LOWE"
-name_ja: "ジェームズ ・ LOWE"
+name_ja: "シェームス-ロウ"
 slug: "james-lowe"
-position: "Winger"
+position: "WTB"
 height: "188.0"
 weight: "105.0"
 birth_date: "1992.07.08"
@@ -15,8 +15,8 @@ team: "Leinster"
 caps: "Ireland (40)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/james-lowe"
+scraped_url: "chiefs (2013 - 2017) -> leinster rugby (2017 - 2026)"
 ---
 
 ## キャリア遍歴
-Chiefs (2013 - 2017) -> Leinster Rugby (2017 - 2026)
+New Zealand

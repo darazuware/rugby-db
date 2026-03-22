@@ -1,7 +1,7 @@
 ---
-title: "Thomas BERJON | トマ・ベルジョン"
+title: "Thomas BERJON | トマ ヘルション"
 name_en: "Thomas BERJON"
-name_ja: "トマ・ベルジョン"
+name_ja: "トマ ヘルション"
 slug: "thomas-berjon"
 position: "SH"
 height: "177.0"

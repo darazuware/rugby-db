@@ -1,7 +1,7 @@
 ---
-title: "Juan Bautista PEDEMONTE | フアン・バウティスタ・ペデモンテ"
+title: "Juan Bautista PEDEMONTE | フアン ハウティスタ ヘテモンテ"
 name_en: "Juan Bautista PEDEMONTE"
-name_ja: "フアン・バウティスタ・ペデモンテ"
+name_ja: "フアン ハウティスタ ヘテモンテ"
 slug: "juan-bautista-pedemonte"
 position: "FL/NO8"
 height: "189.0"

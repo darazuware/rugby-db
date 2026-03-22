@@ -1,7 +1,7 @@
 ---
-title: "Siope Tavo | シオペ ・タヴォ"
+title: "Siope Tavo | シオヘ タウォ"
 name_en: "Siope Tavo"
-name_ja: "シオペ ・タヴォ"
+name_ja: "シオヘ タウォ"
 slug: "siope-tavo"
 position: "CTB"
 height: "189.0"

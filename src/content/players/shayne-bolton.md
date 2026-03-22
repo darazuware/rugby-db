@@ -1,7 +1,7 @@
 ---
-title: "Shayne BOLTON | シェーン・ボルトン"
+title: "Shayne BOLTON | シェーン ホルトン"
 name_en: "Shayne BOLTON"
-name_ja: "シェーン・ボルトン"
+name_ja: "シェーン ホルトン"
 slug: "shayne-bolton"
 position: "WTB"
 height: "188.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Connacht"
-caps: "https://all.rugby/player/shayne-bolton"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "university of the free state (2020 - 2021) -> connacht rugby (2021 - 2026)"
+scraped_url: "https://all.rugby/player/shayne-bolton"
 ---
 
 ## キャリア遍歴
-
+university of the free state (2020 - 2021) -> connacht rugby (2021 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Lino JULIEN | リノ・ジュリアン"
+title: "Lino JULIEN | リノ シュリアン"
 name_en: "Lino JULIEN"
-name_ja: "リノ・ジュリアン"
+name_ja: "リノ シュリアン"
 slug: "lino-julien"
 position: "PR"
 height: "186.0"

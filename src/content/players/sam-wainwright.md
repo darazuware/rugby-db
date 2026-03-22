@@ -1,7 +1,7 @@
 ---
-title: "Sam WAINWRIGHT | サム ・ WAINWRIGHT"
+title: "Sam WAINWRIGHT | サム ウェインライト"
 name_en: "Sam WAINWRIGHT"
-name_ja: "サム ・ WAINWRIGHT"
+name_ja: "サム ウェインライト"
 slug: "sam-wainwright"
 position: "PR"
 height: "182.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Cardiff"
-caps: "Wales"
-high_school: ""
+caps: ""
+high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/sam-wainwright"
 ---
 
 ## キャリア遍歴
-RGC 1404 (2018 - 2019) -> Saracens (2019 - 2022) -> Scarlets (2022 - 2022) -> Saracens (2023 - 2023) -> Scarlets (2023 - 2025) -> Cardiff Rugby (2025 - 2026)
+rgc 1404 (2018 - 2019) -> saracens (2019 - 2022) -> scarlets (2022 - 2022) -> saracens (2023 - 2023) -> scarlets (2023 - 2025) -> cardiff rugby (2025 - 2026)

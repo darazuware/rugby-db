@@ -1,7 +1,7 @@
 ---
-title: "Andrew SPARROW | アンドリュー ・ SPARROW"
+title: "Andrew SPARROW | アントリュー SPARROW"
 name_en: "Andrew SPARROW"
-name_ja: "アンドリュー ・ SPARROW"
+name_ja: "アントリュー SPARROW"
 slug: "andrew-sparrow"
 position: "PR"
 height: "192.0"

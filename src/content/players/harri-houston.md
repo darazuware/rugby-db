@@ -1,7 +1,7 @@
 ---
-title: "Harri HOUSTON | Harri ・ HOUSTON"
+title: "Harri HOUSTON"
 name_en: "Harri HOUSTON"
-name_ja: "Harri ・ HOUSTON"
+name_ja: "Harri HOUSTON"
 slug: "harri-houston"
 position: "Winger"
 height: "178.0"

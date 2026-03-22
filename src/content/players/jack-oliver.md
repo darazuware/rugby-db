@@ -1,7 +1,7 @@
 ---
-title: "Jack OLIVER | ジャック ・ OLIVER"
+title: "Jack OLIVER | シャック オリハー"
 name_en: "Jack OLIVER"
-name_ja: "ジャック ・ OLIVER"
+name_ja: "シャック オリハー"
 slug: "jack-oliver"
 position: "SH"
 height: "174.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-oliver"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2021 - 2025) -> Glasgow Warriors (2025 - 2026)
+munster rugby (2021 - 2025) -> glasgow warriors (2025 - 2026)

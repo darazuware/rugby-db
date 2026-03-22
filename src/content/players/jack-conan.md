@@ -1,7 +1,7 @@
 ---
-title: "Jack CONAN | ジャック ・ CONAN"
+title: "Jack CONAN | シャック CONAN"
 name_en: "Jack CONAN"
-name_ja: "ジャック ・ CONAN"
+name_ja: "シャック CONAN"
 slug: "jack-conan"
 position: "Back row"
 height: "193.0"

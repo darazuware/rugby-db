@@ -1,7 +1,7 @@
 ---
-title: "Alex Mafi | アレックス ・マフィ"
+title: "Alex Mafi | アレックス マフィ"
 name_en: "Alex Mafi"
-name_ja: "アレックス ・マフィ"
+name_ja: "アレックス マフィ"
 slug: "alex-mafi"
 position: "HO"
 height: "177.0"

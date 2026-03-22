@@ -1,12 +1,12 @@
 ---
-title: "Joe Cokanasiga"
-name_en: "Joe Cokanasiga"
+title: "Joe COKANASIGA"
+name_en: "Joe COKANASIGA"
 name_ja: ""
 slug: "joe-cokanasiga"
-position: "Wing"
+position: "Winger"
 height: ""
 weight: ""
-birth_date: "1997.11.15"
+birth_date: "nan"
 age: 28
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (8)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/joe-cokanasiga"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

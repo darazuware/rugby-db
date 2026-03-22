@@ -1,7 +1,7 @@
 ---
-title: "Timo Sufia | ティモ ・スフィア"
+title: "Timo Sufia | ティモ スフィア"
 name_en: "Timo Sufia"
-name_ja: "ティモ ・スフィア"
+name_ja: "ティモ スフィア"
 slug: "timo-sufia"
 position: "CTB"
 height: "180.0"

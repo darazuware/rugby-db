@@ -1,7 +1,7 @@
 ---
-title: "Albert ALCOCK | アルバート・アルコック"
+title: "Albert ALCOCK | アルハート アルコック"
 name_en: "Albert ALCOCK"
-name_ja: "アルバート・アルコック"
+name_ja: "アルハート アルコック"
 slug: "albert-alcock"
 position: "HO"
 height: "175.0"

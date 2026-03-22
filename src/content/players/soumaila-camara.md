@@ -1,7 +1,7 @@
 ---
-title: "Soumaila CAMARA | スマイラ・カマラ"
+title: "Soumaila CAMARA | スマイラ カマラ"
 name_en: "Soumaila CAMARA"
-name_ja: "スマイラ・カマラ"
+name_ja: "スマイラ カマラ"
 slug: "soumaila-camara"
 position: "FL/NO8"
 height: "187.0"

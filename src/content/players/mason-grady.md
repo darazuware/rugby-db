@@ -1,7 +1,7 @@
 ---
-title: "Mason GRADY | Mason ・ GRADY"
+title: "Mason GRADY"
 name_en: "Mason GRADY"
-name_ja: "Mason ・ GRADY"
+name_ja: "Mason GRADY"
 slug: "mason-grady"
 position: "CTB"
 height: "196.0"

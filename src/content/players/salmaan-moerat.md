@@ -1,7 +1,7 @@
 ---
-title: "Salmaan MOERAT | Salmaan ・ MOERAT"
+title: "Salmaan MOERAT"
 name_en: "Salmaan MOERAT"
-name_ja: "Salmaan ・ MOERAT"
+name_ja: "Salmaan MOERAT"
 slug: "salmaan-moerat"
 position: "LO"
 height: "200.0"

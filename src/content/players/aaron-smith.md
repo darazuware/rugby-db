@@ -1,7 +1,7 @@
 ---
-title: "Aaron Smith | アーロン ・スミス"
+title: "Aaron Smith | アーロン スミス"
 name_en: "Aaron Smith"
-name_ja: "アーロン ・スミス"
+name_ja: "アーロン スミス"
 slug: "aaron-smith"
 position: "SH"
 height: "171.0"

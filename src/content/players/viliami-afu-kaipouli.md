@@ -1,7 +1,7 @@
 ---
-title: "Viliami Afu Kaipouli | カイポウリ ヴィリアミアフ"
+title: "Viliami Afu Kaipouli | カイホウリ ウィリアミアフ"
 name_en: "Viliami Afu Kaipouli"
-name_ja: "カイポウリ ヴィリアミアフ"
+name_ja: "カイホウリ ウィリアミアフ"
 slug: "viliami-afu-kaipouli"
 position: "FL/No8"
 height: "189.0"

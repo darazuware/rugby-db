@@ -1,7 +1,7 @@
 ---
-title: "Nick Jooste | ニック ・ユースト"
+title: "Nick Jooste | ニック ユースト"
 name_en: "Nick Jooste"
-name_ja: "ニック ・ユースト"
+name_ja: "ニック ユースト"
 slug: "nick-jooste"
 position: "CTB"
 height: "190.0"

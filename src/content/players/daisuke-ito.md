@@ -1,7 +1,7 @@
 ---
-title: "Daisuke Ito | 伊藤 大祐"
+title: "Daisuke Ito | 伊藤 大祐"
 name_en: "Daisuke Ito"
-name_ja: "伊藤 大祐"
+name_ja: "伊藤 大祐"
 slug: "daisuke-ito"
 position: "UTB"
 height: "179.0"

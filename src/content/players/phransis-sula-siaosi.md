@@ -1,7 +1,7 @@
 ---
-title: "Phransis Sula-Siaosi | フランシス ・スラ・シアオシ"
+title: "Phransis Sula-Siaosi | フランシス スラ シアオシ"
 name_en: "Phransis Sula-Siaosi"
-name_ja: "フランシス ・スラ・シアオシ"
+name_ja: "フランシス スラ シアオシ"
 slug: "phransis-sula-siaosi"
 position: "PR"
 height: "173.0"

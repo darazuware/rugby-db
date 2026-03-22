@@ -1,7 +1,7 @@
 ---
-title: "Tomás ALBORNOZ | トマス・アルボルノス"
-name_en: "Tomás ALBORNOZ"
-name_ja: "トマス・アルボルノス"
+title: "Tomas ALBORNOZ | トマス アルホルノス"
+name_en: "Tomas ALBORNOZ"
+name_ja: "トマス アルホルノス"
 slug: "tomas-albornoz"
 position: "SO"
 height: "177.0"

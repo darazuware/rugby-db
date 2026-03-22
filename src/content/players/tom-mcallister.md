@@ -1,7 +1,7 @@
 ---
-title: "Tom MCALLISTER | トム・マカリスター"
+title: "Tom MCALLISTER | トム マカリスター"
 name_en: "Tom MCALLISTER"
-name_ja: "トム・マカリスター"
+name_ja: "トム マカリスター"
 slug: "tom-mcallister"
 position: "PR"
 height: ""
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Ulster"
-caps: "https://all.rugby/player/tom-mcallister"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "ballynahinch rfc (2024 - 2025) -> ulster rugby (2025 - 2026)"
+scraped_url: "https://all.rugby/player/tom-mcallister"
 ---
 
 ## キャリア遍歴
-
+ballynahinch rfc (2024 - 2025) -> ulster rugby (2025 - 2026)

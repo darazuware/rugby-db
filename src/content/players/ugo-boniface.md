@@ -1,7 +1,7 @@
 ---
-title: "Ugo BONIFACE | ウーゴ・ボニファス"
+title: "Ugo BONIFACE | ウーコ ホニファス"
 name_en: "Ugo BONIFACE"
-name_ja: "ウーゴ・ボニファス"
+name_ja: "ウーコ ホニファス"
 slug: "ugo-boniface"
 position: "PR"
 height: "190.0"

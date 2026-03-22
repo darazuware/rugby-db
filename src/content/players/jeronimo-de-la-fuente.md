@@ -1,7 +1,7 @@
 ---
-title: "Jerónimo DE LA FUENTE | ヘロニモ・デ・ラ・フエンテ"
-name_en: "Jerónimo DE LA FUENTE"
-name_ja: "ヘロニモ・デ・ラ・フエンテ"
+title: "Jeronimo DE LA FUENTE | ヘロニモ テ ラ フエンテ"
+name_en: "Jeronimo DE LA FUENTE"
+name_ja: "ヘロニモ テ ラ フエンテ"
 slug: "jeronimo-de-la-fuente"
 position: "CTB"
 height: "184.0"

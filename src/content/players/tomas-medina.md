@@ -1,7 +1,7 @@
 ---
-title: "Tomás MEDINA | トム ・ MEDINA"
-name_en: "Tomás MEDINA"
-name_ja: "トム ・ MEDINA"
+title: "Tomas MEDINA | トマス メティナ"
+name_en: "Tomas MEDINA"
+name_ja: "トマス メティナ"
 slug: "tomas-medina"
 position: "CTB"
 height: "176.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomas-medina"
 ---
 
 ## キャリア遍歴
-Cardenales RC (2023 - 2024) -> Tarucas (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+cardenales rc (2023 - 2024) -> tarucas (2024 - 2025) -> benetton rugby trévise (2025 - 2026)

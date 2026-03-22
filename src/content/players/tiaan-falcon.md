@@ -1,7 +1,7 @@
 ---
-title: "Tiaan Falcon | ティアーン ・ファルコン"
+title: "Tiaan Falcon | ティアーン ファルコン"
 name_en: "Tiaan Falcon"
-name_ja: "ティアーン ・ファルコン"
+name_ja: "ティアーン ファルコン"
 slug: "tiaan-falcon"
 position: "FB"
 height: "181.0"

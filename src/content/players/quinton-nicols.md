@@ -1,7 +1,7 @@
 ---
-title: "Quinton Nicols | クイントン ・ニコラス"
+title: "Quinton Nicols | クイントン ニコラス"
 name_en: "Quinton Nicols"
-name_ja: "クイントン ・ニコラス"
+name_ja: "クイントン ニコラス"
 slug: "quinton-nicols"
 position: "CTB"
 height: "194.0"

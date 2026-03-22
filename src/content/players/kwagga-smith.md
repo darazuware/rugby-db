@@ -1,7 +1,7 @@
 ---
-title: "Kwagga Smith | クワッガ ・スミス"
+title: "Kwagga Smith | クワッカ スミス"
 name_en: "Kwagga Smith"
-name_ja: "クワッガ ・スミス"
+name_ja: "クワッカ スミス"
 slug: "kwagga-smith"
 position: "FL/No8"
 height: "180.0"

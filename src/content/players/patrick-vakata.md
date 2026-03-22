@@ -1,7 +1,7 @@
 ---
-title: "Patrick Vakata | パトリック ・ヴァカタ"
+title: "Patrick Vakata | ハトリック ウァカタ"
 name_en: "Patrick Vakata"
-name_ja: "パトリック ・ヴァカタ"
+name_ja: "ハトリック ウァカタ"
 slug: "patrick-vakata"
 position: "FL/No8"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Owain JAMES | Owain ・ ジェームズ"
+title: "Owain JAMES | オウェイン シェームス"
 name_en: "Owain JAMES"
-name_ja: "Owain ・ ジェームズ"
+name_ja: "オウェイン シェームス"
 slug: "owain-james-18238"
 position: "PR"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/owain-james-18238"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2023 - 2024) -> Dragons RFC (2024 - 2026)
+cardiff rugby (2023 - 2024) -> dragons rfc (2024 - 2026)

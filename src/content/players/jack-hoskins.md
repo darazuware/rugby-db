@@ -1,7 +1,7 @@
 ---
-title: "Jack HOSKINS | ジャック ・ HOSKINS"
+title: "Jack HOSKINS | シャック ホスキンス"
 name_en: "Jack HOSKINS"
-name_ja: "ジャック ・ HOSKINS"
+name_ja: "シャック ホスキンス"
 slug: "jack-hoskins"
 position: "CTB"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-hoskins"
 ---
 
 ## キャリア遍歴
-Ospreys (2025 - 2026)
+ospreys (2025 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Mirko BELLONI | Mirko ・ BELLONI"
+title: "Mirko BELLONI"
 name_en: "Mirko BELLONI"
-name_ja: "Mirko ・ BELLONI"
+name_ja: "Mirko BELLONI"
 slug: "mirko-belloni"
 position: "FB"
 height: "187.0"

@@ -1,7 +1,7 @@
 ---
-title: "Theo CABANGO | Theo ・ CABANGO"
+title: "Theo CABANGO"
 name_en: "Theo CABANGO"
-name_ja: "Theo ・ CABANGO"
+name_ja: "Theo CABANGO"
 slug: "theo-cabango"
 position: "Winger"
 height: "175.0"

@@ -1,7 +1,7 @@
 ---
-title: "Giorgi DZMANASHVILI | ギオルギ・ズマナシュヴィリ"
+title: "Giorgi DZMANASHVILI | キオルキ スマナシュウィリ"
 name_en: "Giorgi DZMANASHVILI"
-name_ja: "ギオルギ・ズマナシュヴィリ"
+name_ja: "キオルキ スマナシュウィリ"
 slug: "giorgi-dzmanashvili"
 position: "PR"
 height: "186.0"

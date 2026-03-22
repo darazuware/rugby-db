@@ -1,12 +1,12 @@
 ---
-title: "Henry Arundell"
-name_en: "Henry Arundell"
+title: "Henry ARUNDELL"
+name_en: "Henry ARUNDELL"
 name_ja: ""
 slug: "henry-arundell"
-position: "Wing"
+position: "Fullback"
 height: ""
 weight: ""
-birth_date: "2002.11.08"
+birth_date: "nan"
 age: 23
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Bath Rugby"
 caps: "England (8)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/henry-arundell"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2025 - )
+

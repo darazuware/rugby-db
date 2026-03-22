@@ -1,7 +1,7 @@
 ---
-title: "Elliot DEE | Elliot ・ DEE"
+title: "Elliot DEE | エリオット-ティー"
 name_en: "Elliot DEE"
-name_ja: "Elliot ・ DEE"
+name_ja: "エリオット-ティー"
 slug: "elliot-dee"
 position: "HO"
 height: "186.0"
@@ -15,8 +15,8 @@ team: "Dragons"
 caps: "Wales (51)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/elliot-dee"
+scraped_url: "dragons rfc (2013 - 2026)"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2013 - 2026)
+Wales

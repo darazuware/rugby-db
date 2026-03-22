@@ -1,7 +1,7 @@
 ---
-title: "Sam BERMAN | サム ・ BERMAN"
+title: "Sam BERMAN | サム ハーマン"
 name_en: "Sam BERMAN"
-name_ja: "サム ・ BERMAN"
+name_ja: "サム ハーマン"
 slug: "sam-berman"
 position: "CTB"
 height: ""
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-berman"
 ---
 
 ## キャリア遍歴
-Dublin University FC (2022 - 2023) -> Terenure College (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+dublin university fc (2022 - 2023) -> terenure college (2023 - 2024) -> ulster rugby (2024 - 2026)

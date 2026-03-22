@@ -1,7 +1,7 @@
 ---
-title: "Liam EDWARDS | リアム ・ EDWARDS"
+title: "Liam EDWARDS | リアム エトワース"
 name_en: "Liam EDWARDS"
-name_ja: "リアム ・ EDWARDS"
+name_ja: "リアム エトワース"
 slug: "liam-edwards"
 position: "LO"
 height: "200.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-edwards"
 ---
 
 ## キャリア遍歴
-Ospreys (2022 - 2026)
+ospreys (2022 - 2026)

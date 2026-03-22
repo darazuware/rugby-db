@@ -1,7 +1,7 @@
 ---
-title: "Sam LEWENI | サム ・ LEWENI"
+title: "Sam LEWENI | サム LEWENI"
 name_en: "Sam LEWENI"
-name_ja: "サム ・ LEWENI"
+name_ja: "サム LEWENI"
 slug: "sam-leweni"
 position: "CTB"
 height: ""

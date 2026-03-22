@@ -1,7 +1,7 @@
 ---
-title: "Kemsley MATHIAS | Kemsley ・ MATHIAS"
+title: "Kemsley MATHIAS | ケムスリー マティアス"
 name_en: "Kemsley MATHIAS"
-name_ja: "Kemsley ・ MATHIAS"
+name_ja: "ケムスリー マティアス"
 slug: "kemsley-mathias"
 position: "PR"
 height: "185.0"
@@ -15,8 +15,8 @@ team: "Scarlets"
 caps: "Wales (5)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/kemsley-mathias"
+scraped_url: "scarlets (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Scarlets (2018 - 2026)
+Wales

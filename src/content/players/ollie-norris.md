@@ -1,7 +1,7 @@
 ---
-title: "Ollie NORRIS | オリー・ノリス"
+title: "Ollie NORRIS | オリー ノリス"
 name_en: "Ollie NORRIS"
-name_ja: "オリー・ノリス"
+name_ja: "オリー ノリス"
 slug: "ollie-norris"
 position: "PR"
 height: "194.0"

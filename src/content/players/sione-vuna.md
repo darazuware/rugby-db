@@ -1,7 +1,7 @@
 ---
-title: "Sione Vuna | シオネ ・ブナ"
+title: "Sione Vuna | シオネ フナ"
 name_en: "Sione Vuna"
-name_ja: "シオネ ・ブナ"
+name_ja: "シオネ フナ"
 slug: "sione-vuna"
 position: "FL/No8"
 height: "192.0"

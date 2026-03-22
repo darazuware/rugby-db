@@ -1,7 +1,7 @@
 ---
-title: "Sam O'CONNOR | サム ・ O'CONNOR"
+title: "Sam O'CONNOR | サム オコナー"
 name_en: "Sam O'CONNOR"
-name_ja: "サム ・ O'CONNOR"
+name_ja: "サム オコナー"
 slug: "sam-o-connor"
 position: "PR"
 height: "185.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-o-connor"
 ---
 
 ## キャリア遍歴
-Scarlets (2021 - 2026)
+scarlets (2021 - 2026)

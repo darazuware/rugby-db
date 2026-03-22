@@ -1,7 +1,7 @@
 ---
-title: "Fionn GIBBONS | Fionn ・ GIBBONS"
+title: "Fionn GIBBONS | フィオン キホンス"
 name_en: "Fionn GIBBONS"
-name_ja: "Fionn ・ GIBBONS"
+name_ja: "フィオン キホンス"
 slug: "fionn-gibbons"
 position: "CTB"
 height: "193.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fionn-gibbons"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2022) -> Munster Rugby (2022 - 2026)
+leinster rugby (2021 - 2022) -> munster rugby (2022 - 2026)

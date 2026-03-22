@@ -1,7 +1,7 @@
 ---
-title: "Jordan HENDRIKSE | Jordan ・ HENDRIKSE"
+title: "Jordan HENDRIKSE | ショータン ヘントリクセ"
 name_en: "Jordan HENDRIKSE"
-name_ja: "Jordan ・ HENDRIKSE"
+name_ja: "ショータン ヘントリクセ"
 slug: "jordan-hendrikse"
 position: "SO"
 height: "188.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-hendrikse"
 ---
 
 ## キャリア遍歴
-Maties Rugby Club (2019 - 2020) -> Lions Rugby (2020 - 2024) -> Sharks (2024 - 2026)
+maties rugby club (2019 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - 2026)

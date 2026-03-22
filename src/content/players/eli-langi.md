@@ -1,7 +1,7 @@
 ---
-title: "Eli LANGI | イーライ・ランギ"
+title: "Eli LANGI | イーライ ランキ"
 name_en: "Eli LANGI"
-name_ja: "イーライ・ランギ"
+name_ja: "イーライ ランキ"
 slug: "eli-langi"
 position: "FL/No8"
 height: "193.0"

@@ -1,7 +1,7 @@
 ---
-title: "Isaac COATES | Isaac ・ COATES"
+title: "Isaac COATES"
 name_en: "Isaac COATES"
-name_ja: "Isaac ・ COATES"
+name_ja: "Isaac COATES"
 slug: "isaac-coates"
 position: "SO"
 height: "175.0"

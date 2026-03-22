@@ -1,7 +1,7 @@
 ---
-title: "Cam ROIGARD | カム-ロイガード"
+title: "Cam ROIGARD | カム-ロイカート"
 name_en: "Cam ROIGARD"
-name_ja: "カム-ロイガード"
+name_ja: "カム-ロイカート"
 slug: "cameron-roigard"
 position: "SH"
 height: "183.0"

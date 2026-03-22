@@ -1,7 +1,7 @@
 ---
-title: "Ieuan DAVIES | Ieuan ・ DAVIES"
+title: "Ieuan DAVIES"
 name_en: "Ieuan DAVIES"
-name_ja: "Ieuan ・ DAVIES"
+name_ja: "Ieuan DAVIES"
 slug: "ieuan-davies"
 position: "SH"
 height: "175.0"

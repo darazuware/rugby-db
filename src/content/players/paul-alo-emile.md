@@ -1,7 +1,7 @@
 ---
-title: "Paul ALO-EMILE | ポール-アロ＝イーマイル"
+title: "Paul ALO-EMILE | ホール-アロ=イーマイル"
 name_en: "Paul ALO-EMILE"
-name_ja: "ポール-アロ＝イーマイル"
+name_ja: "ホール-アロ=イーマイル"
 slug: "paul-alo-emile"
 position: "PR"
 height: "180.0"

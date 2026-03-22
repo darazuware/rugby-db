@@ -1,7 +1,7 @@
 ---
-title: "Folau FAKATAVA | フォラウ-ファカタヴァ"
+title: "Folau FAKATAVA | フォラウ-ファカタウァ"
 name_en: "Folau FAKATAVA"
-name_ja: "フォラウ-ファカタヴァ"
+name_ja: "フォラウ-ファカタウァ"
 slug: "folau-fakatava"
 position: "SH"
 height: "177.0"

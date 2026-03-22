@@ -1,7 +1,7 @@
 ---
-title: "Jack MURPHY | ジャック ・ MURPHY"
+title: "Jack MURPHY | シャック-マーフィー"
 name_en: "Jack MURPHY"
-name_ja: "ジャック ・ MURPHY"
+name_ja: "シャック-マーフィー"
 slug: "jack-murphy"
 position: "SO"
 height: "178.0"
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-murphy"
 ---
 
 ## キャリア遍歴
-Clontarf Rugby (2023 - 2024) -> Ulster Rugby (2024 - 2026)
+clontarf rugby (2023 - 2024) -> ulster rugby (2024 - 2026)

@@ -1,7 +1,7 @@
 ---
-title: "Pierre SCHOEMAN | Pierre ・ SCHOEMAN"
+title: "Pierre SCHOEMAN | ヒエール スホーマン"
 name_en: "Pierre SCHOEMAN"
-name_ja: "Pierre ・ SCHOEMAN"
+name_ja: "ヒエール スホーマン"
 slug: "pierre-schoeman"
 position: "PR"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Edimbourg"
 caps: "Scotland (37)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/pierre-schoeman"
+scraped_url: "bulls (2015 - 2018) -> edimbourg rugby (2018 - 2026)"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2018) -> Edimbourg Rugby (2018 - 2026)
+South Africa

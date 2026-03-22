@@ -1,7 +1,7 @@
 ---
-title: "Timote Tavalea | ティモテ ・タヴァレア"
+title: "Timote Tavalea | ティモテ タウァレア"
 name_en: "Timote Tavalea"
-name_ja: "ティモテ ・タヴァレア"
+name_ja: "ティモテ タウァレア"
 slug: "timote-tavalea"
 position: "FL/No8"
 height: "186.0"

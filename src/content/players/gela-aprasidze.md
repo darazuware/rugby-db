@@ -1,7 +1,7 @@
 ---
-title: "Gela APRASIDZE | ゲラ-アプラスィゼ"
+title: "Gela APRASIDZE | ケラ-アフラスィセ"
 name_en: "Gela APRASIDZE"
-name_ja: "ゲラ-アプラスィゼ"
+name_ja: "ケラ-アフラスィセ"
 slug: "gela-aprasidze"
 position: "SH"
 height: "175.0"

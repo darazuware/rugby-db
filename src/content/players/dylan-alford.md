@@ -1,7 +1,7 @@
 ---
-title: "Dylan ALFORD | Dylan ・ ALFORD"
+title: "Dylan ALFORD"
 name_en: "Dylan ALFORD"
-name_ja: "Dylan ・ ALFORD"
+name_ja: "Dylan ALFORD"
 slug: "dylan-alford"
 position: "LO"
 height: "198.0"

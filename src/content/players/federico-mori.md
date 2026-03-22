@@ -1,7 +1,7 @@
 ---
-title: "Federico MORI | フェデリコ-モーリ"
+title: "Federico MORI | フェテリコ-モーリ"
 name_en: "Federico MORI"
-name_ja: "フェデリコ-モーリ"
+name_ja: "フェテリコ-モーリ"
 slug: "federico-mori"
 position: "CTB"
 height: "188.0"

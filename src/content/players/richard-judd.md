@@ -1,7 +1,7 @@
 ---
-title: "Richard JUDD | リチャード・ジャッド"
+title: "Richard JUDD | リチャート シャット"
 name_en: "Richard JUDD"
-name_ja: "リチャード・ジャッド"
+name_ja: "リチャート シャット"
 slug: "richard-judd"
 position: "SH"
 height: "180.0"

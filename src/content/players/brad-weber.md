@@ -1,7 +1,7 @@
 ---
-title: "Brad WEBER | ブラッド ・ウェバー"
+title: "Brad WEBER | フラット ウェハー"
 name_en: "Brad WEBER"
-name_ja: "ブラッド ・ウェバー"
+name_ja: "フラット ウェハー"
 slug: "brad-weber"
 position: "SH"
 height: "172.0"

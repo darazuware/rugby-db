@@ -1,7 +1,7 @@
 ---
-title: "Josh FLOOK | ジョシュ・フルーク"
+title: "Josh FLOOK | ショシュ フルーク"
 name_en: "Josh FLOOK"
-name_ja: "ジョシュ・フルーク"
+name_ja: "ショシュ フルーク"
 slug: "josh-flook"
 position: "CTB"
 height: "186.0"

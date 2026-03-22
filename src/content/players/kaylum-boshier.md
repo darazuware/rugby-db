@@ -1,7 +1,7 @@
 ---
-title: "Kaylum BOSHIER | ケイラム・ボシア"
+title: "Kaylum BOSHIER | ケイラム ホシア"
 name_en: "Kaylum BOSHIER"
-name_ja: "ケイラム・ボシア"
+name_ja: "ケイラム ホシア"
 slug: "kaylum-boshier"
 position: "FL/No8"
 height: "189.0"

@@ -1,7 +1,7 @@
 ---
-title: "Jimmy O'BRIEN | Jimmy ・ O'BRIEN"
+title: "Jimmy O'BRIEN"
 name_en: "Jimmy O'BRIEN"
-name_ja: "Jimmy ・ O'BRIEN"
+name_ja: "Jimmy O'BRIEN"
 slug: "jimmy-o-brien"
 position: "FB"
 height: "183.0"

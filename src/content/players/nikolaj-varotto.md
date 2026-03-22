@@ -1,7 +1,7 @@
 ---
-title: "Nikolaj VAROTTO | Nikolaj ・ VAROTTO"
+title: "Nikolaj VAROTTO"
 name_en: "Nikolaj VAROTTO"
-name_ja: "Nikolaj ・ VAROTTO"
+name_ja: "Nikolaj VAROTTO"
 slug: "nikolaj-varotto"
 position: "SH"
 height: "170.0"

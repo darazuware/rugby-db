@@ -1,7 +1,7 @@
 ---
-title: "Jaden HENDRIKSE | Jaden ・ HENDRIKSE"
+title: "Jaden HENDRIKSE | シェイテン-ヘントリクセ"
 name_en: "Jaden HENDRIKSE"
-name_ja: "Jaden ・ HENDRIKSE"
+name_ja: "シェイテン-ヘントリクセ"
 slug: "jaden-hendrikse"
 position: "SH"
 height: "184.0"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (13)"
 high_school: ""
 university: ""
-scraped_url: "https://all.rugby/player/jaden-hendrikse"
+scraped_url: "sharks (2019 - 2026)"
 ---
 
 ## キャリア遍歴
-Sharks (2019 - 2026)
+

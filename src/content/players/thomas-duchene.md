@@ -1,7 +1,7 @@
 ---
-title: "Thomas DUCHÊNE | トマ・デュシェーヌ"
-name_en: "Thomas DUCHÊNE"
-name_ja: "トマ・デュシェーヌ"
+title: "Thomas DUCHENE | トマ テュシェーヌ"
+name_en: "Thomas DUCHENE"
+name_ja: "トマ テュシェーヌ"
 slug: "thomas-duchene"
 position: "PR"
 height: "180.0"

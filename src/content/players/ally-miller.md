@@ -1,7 +1,7 @@
 ---
-title: "Ally MILLER | アリー・ミラー"
+title: "Ally MILLER | アリー ミラー"
 name_en: "Ally MILLER"
-name_ja: "アリー・ミラー"
+name_ja: "アリー ミラー"
 slug: "ally-miller"
 position: "FL/No8"
 height: "193.0"
@@ -12,11 +12,11 @@ country: ""
 birth_place_scraped: ""
 league: "urc"
 team: "Glasgow"
-caps: "https://all.rugby/player/ally-miller"
+caps: ""
 high_school: ""
 university: ""
-scraped_url: "edimbourg rugby (2017 - 2021) -> glasgow warriors (2021 - 2026)"
+scraped_url: "https://all.rugby/player/ally-miller"
 ---
 
 ## キャリア遍歴
-
+edimbourg rugby (2017 - 2021) -> glasgow warriors (2021 - 2026)

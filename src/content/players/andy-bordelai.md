@@ -1,7 +1,7 @@
 ---
-title: "Andy BORDELAI | アンディ-ボルドライ"
+title: "Andy BORDELAI | アンティ-ホルトライ"
 name_en: "Andy BORDELAI"
-name_ja: "アンディ-ボルドライ"
+name_ja: "アンティ-ホルトライ"
 slug: "andy-bordelai"
 position: "PR"
 height: "186.0"

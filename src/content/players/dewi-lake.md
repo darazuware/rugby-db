@@ -1,7 +1,7 @@
 ---
-title: "Dewi LAKE | Dewi ・ LAKE"
+title: "Dewi LAKE"
 name_en: "Dewi LAKE"
-name_ja: "Dewi ・ LAKE"
+name_ja: "Dewi LAKE"
 slug: "dewi-lake"
 position: "HO"
 height: "185.0"

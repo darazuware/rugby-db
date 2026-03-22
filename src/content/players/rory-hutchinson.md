@@ -1,12 +1,12 @@
 ---
-title: "Rory Hutchinson"
-name_en: "Rory Hutchinson"
+title: "Rory HUTCHINSON"
+name_en: "Rory HUTCHINSON"
 name_ja: ""
 slug: "rory-hutchinson"
 position: "Centre"
 height: ""
 weight: ""
-birth_date: "1996.01.29"
+birth_date: "nan"
 age: 30
 country: ""
 birth_place_scraped: ""
@@ -15,8 +15,8 @@ team: "Northampton Saints"
 caps: "Scotland (8)"
 high_school: ""
 university: ""
-scraped_url: "nan"
+scraped_url: "https://all.rugby/player/rory-hutchinson"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2025 - )
+

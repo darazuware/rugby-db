@@ -1,7 +1,7 @@
 ---
-title: "Léo CARBONNEAU | レオ・カルボノー"
-name_en: "Léo CARBONNEAU"
-name_ja: "レオ・カルボノー"
+title: "Leo CARBONNEAU | レオ カルホノー"
+name_en: "Leo CARBONNEAU"
+name_ja: "レオ カルホノー"
 slug: "leo-carbonneau"
 position: "SH"
 height: "171.0"

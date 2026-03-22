@@ -1,7 +1,7 @@
 ---
-title: "Bongi MBONAMBI | ボンギ-ンボナンビ"
+title: "Bongi MBONAMBI | ホンキ ンホナンヒ"
 name_en: "Bongi MBONAMBI"
-name_ja: "ボンギ-ンボナンビ"
+name_ja: "ホンキ ンホナンヒ"
 slug: "bongi-mbonambi"
 position: "HO"
 height: "175.0"
@@ -15,8 +15,8 @@ team: "Sharks"
 caps: "South Africa (62)"
 high_school: ""
 university: ""
-scraped_url: "bulls (2013 - 2014) -> stormers (2014 - 2021) -> sharks (2021 - 2026)"
+scraped_url: "https://all.rugby/player/bongi-mbonambi"
 ---
 
 ## キャリア遍歴
-South Africa
+Bulls (2013 - 2014) -> Stormers (2014 - 2021) -> Sharks (2021 - 2026)

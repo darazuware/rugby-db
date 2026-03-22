@@ -1,9 +1,9 @@
 ---
-title: "Jaco GROBBELAAR | Jaco ・ GROBBELAAR"
+title: "Jaco GROBBELAAR | ヤコ クロフラール"
 name_en: "Jaco GROBBELAAR"
-name_ja: "Jaco ・ GROBBELAAR"
+name_ja: "ヤコ クロフラール"
 slug: "jaco-grobbelaar"
-position: "Back row"
+position: "FL/No8"
 height: "198.0"
 weight: "109.0"
 birth_date: "2005.."
@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jaco-grobbelaar"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2023 - 2024) -> Bulls (2024 - 2026)
+blue bulls (2023 - 2024) -> bulls (2024 - 2026)
