@@ -4386,6 +4386,56 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11433-clermont-montpellier"
+    },
+    {
+      "round": 19,
+      "date": "2026-03-21",
+      "home": "ラシン92",
+      "away": "カストル",
+      "score": "52 - 21",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11434-racing-92-castres"
+    },
+    {
+      "round": 19,
+      "date": "2026-03-21",
+      "home": "トゥーロン",
+      "away": "スタッド・フランセ",
+      "score": "27 - 46",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11435-toulon-paris"
+    },
+    {
+      "round": 19,
+      "date": "2026-03-21",
+      "home": "モントーバン",
+      "away": "バイヨンヌ",
+      "score": "26 - 60",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11438-montauban-bayonne"
+    },
+    {
+      "round": 19,
+      "date": "2026-03-21",
+      "home": "ペルピニャン",
+      "away": "リヨン",
+      "score": "28 - 32",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11439-perpignan-lyon"
+    },
+    {
+      "round": 19,
+      "date": "2026-03-21",
+      "home": "ラ・ロシェル",
+      "away": "ポー",
+      "score": "20 - 6",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j19/11436-la-rochelle-pau"
     }
   ],
   "urc": [
@@ -5394,7 +5444,7 @@
       "date": "2026-03-21",
       "home": "ハリウッドベッツ・シャークス",
       "away": "マンスター・ラグビー",
-      "score": "VS",
+      "score": "45-0",
       "home_flag": "🇿🇦",
       "away_flag": "🇮🇪",
       "detail_url": "https://www.unitedrugby.com/match-centre/202501/287955"
@@ -5404,7 +5454,7 @@
       "date": "2026-03-21",
       "home": "ベネットン・ラグビー・トレヴィーゾ",
       "away": "オスプリーズ",
-      "score": "VS",
+      "score": "31-19",
       "home_flag": "🇮🇹",
       "away_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
       "detail_url": "https://www.unitedrugby.com/match-centre/202501/287956"
@@ -5414,7 +5464,7 @@
       "date": "2026-03-21",
       "home": "グラスゴー・ウォリアーズ",
       "away": "レンスター・ラグビー",
-      "score": "VS",
+      "score": "38-17",
       "home_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "away_flag": "🇮🇪",
       "detail_url": "https://www.unitedrugby.com/match-centre/202501/287957"

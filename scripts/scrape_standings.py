@@ -31,47 +31,86 @@ def get_team_info(league, name):
     slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
     return name, default_flag, slug
 
+import subprocess
+
 def scrape_top14_standings():
     url = "https://top14.lnr.fr/classement"
-    print(f"Scraping Top 14 standings from {url}...")
+    print(f"Scraping Top 14 standings from {url} (using curl for robustness)...")
+    
+    # SSR版を確実に取得するため Google Bot UA を使用
+    ua = "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # requests だと文字コードや動的コンテンツの扱いでデータが空になるケースがあるため、curlを使用
+        cmd = ['curl', '-s', '-L', '-A', ua, url]
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8', errors='replace')
+        
+        if result.returncode != 0:
+            print(f"Curl error: {result.stderr}")
+            return []
+            
+        content = result.stdout
+        soup = BeautifulSoup(content, 'html.parser')
         
         standings = []
-        # 固定ブロック（チーム名）とスクロールブロック（スタッツ）を取得
+        # 固定ブロック（順位・ロゴ）とスクロールブロック（統計）を取得
         fixed_rows = soup.select('.ranking__fixed-block .table-line--ranking-fixed')
-        scroll_rows = soup.select('.ranking__scroll-block .table-line--ranking-scrollable')
+        scroll_rows = soup.select('.ranking__scrollable-cells .table-line--ranking-scrollable')
         
-        for i, (fixed_row, stats_line) in enumerate(zip(fixed_rows, scroll_rows)):
-            # 順位
-            rank_el = fixed_row.select_one('.ranking-item__rank')
-            rank = re.sub(r'\D', '', rank_el.get_text(strip=True)) if rank_el else str(i+1)
+        if not fixed_rows:
+            # フォールバック
+            fixed_rows = soup.find_all('div', class_=re.compile(r'table-line--ranking-fixed'))
+            scroll_rows = soup.find_all('div', class_=re.compile(r'table-line--ranking-scrollable'))
+
+        print(f"Found {len(fixed_rows)} fixed rows and {len(scroll_rows)} scroll rows.")
+
+        for i in range(min(len(fixed_rows), len(scroll_rows))):
+            fixed_row = fixed_rows[i]
+            scroll_row = scroll_rows[i]
+
+            # 順位: 数字のみを抽出
+            rank_el = fixed_row.find(class_=re.compile(r'rank'))
+            if rank_el:
+                # 非常に頑健な方法でテキストを抽出（タグを除去して空白を詰める）
+                rank_text = re.sub(r'<[^>]+>', '', str(rank_el))
+                rank = re.sub(r'\D', '', rank_text)
+            else:
+                rank = str(i+1)
+            if not rank: rank = str(i+1)
+
+            # チーム名: 画像の alt 属性を最優先（最も正確）
+            img_el = fixed_row.find('img', alt=True)
+            raw_name = img_el['alt'].strip() if img_el else ""
             
-            # チーム名
-            name_el = fixed_row.select_one('.club-line__name')
-            if not name_el:
-                # scroll_rows の中の a タグを試行
-                name_el = stats_line.select_one('a.base-link')
+            if not raw_name:
+                name_link = scroll_row.find('a', class_=re.compile(r'base-link'))
+                if name_link:
+                    name_text = re.sub(r'<[^>]+>', '', str(name_link))
+                    raw_name = name_text.strip()
             
-            if not name_el:
-                continue
+            if not raw_name:
+                raw_name = f"Team {rank}"
+
+            # 統計データ: 数値のみを抽出
+            stat_wrappers = scroll_row.find_all('div', class_=re.compile(r'table-line__cell-wrapper--small'))
+            
+            if len(stat_wrappers) >= 9:
+                stats = []
+                for sw in stat_wrappers:
+                    # タグを除去して空白を詰める（TemplateString対策）
+                    clean_val = re.sub(r'<[^>]+>', '', str(sw))
+                    val = re.sub(r'\s+', '', clean_val).strip()
+                    stats.append(val)
                 
-            raw_name = name_el.get_text(strip=True)
-            
-            # 統計セルを手動追跡（クラス名が同じためインデックスで判断）
-            stats_cells = stats_line.select('.table-line__cell-wrapper--small')
-            if len(stats_cells) < 9:
-                continue
-            
-            # インデックス予測：0: Points, 1: Played, 2: Won, 3: Drawn, 4: Lost, 8: Diff
-            points = stats_cells[0].get_text(strip=True)
-            played = stats_cells[1].get_text(strip=True)
-            won = stats_cells[2].get_text(strip=True)
-            drawn = stats_cells[3].get_text(strip=True)
-            lost = stats_cells[4].get_text(strip=True)
-            diff = stats_cells[8].get_text(strip=True)
+                # インデックス: 0: Pts, 1: J, 2: V, 3: N, 4: D, 8: Diff
+                points = stats[0]
+                played = stats[1]
+                won = stats[2]
+                drawn = stats[3]
+                lost = stats[4]
+                diff = stats[8]
+            else:
+                points = played = won = drawn = lost = diff = ""
 
             jp_name, flag, slug = get_team_info('top14', raw_name)
             
@@ -81,6 +120,10 @@ def scrape_top14_standings():
             })
             
         print(f"Scraped {len(standings)} Top 14 teams.")
+        if standings:
+            s = standings[0]
+            print(f"Top 14 Sample: Rank {s['rank']} {s['team_name']} ({s['points']} pts, Diff:{s['diff']})")
+        
         return standings
     except Exception as e:
         print(f"Error scraping Top 14: {e}")
