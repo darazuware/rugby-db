@@ -371,9 +371,14 @@ const teamStanding = leagueStandings.find((s: any) =>
                                     >
                                         ホームグラウンド
                                     </dt>
-                                    <dd class="text-lg font-bold text-foreground">
-                                        {team.practice_ground || "---"}
+                                    <dd class="text-lg font-black text-foreground leading-tight">
+                                        {team.home_ground || "---"}
                                     </dd>
+                                    {team.home_ground_address && (
+                                        <dd class="text-[11px] text-foreground/60 mt-1 leading-relaxed">
+                                            {team.home_ground_address}
+                                        </dd>
+                                    )}
                                 </div>
                                 <div>
                                     <dt
