@@ -199,6 +199,20 @@
       },
       {
         "rank": "3",
+        "team_name": "グリーンロケッツ東葛",
+        "display_name": "グリーンロケッツ東葛",
+        "flag": "🇯🇵",
+        "slug": "",
+        "played": "8",
+        "points": "24",
+        "won": "5",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "68",
+        "division": "D2"
+      },
+      {
+        "rank": "4",
         "team_name": "清水建設江東ブルーシャークス",
         "display_name": "清水建設江東ブルーシャークス",
         "flag": "🇯🇵",
@@ -209,20 +223,6 @@
         "drawn": "0",
         "lost": "3",
         "diff": "-17",
-        "division": "D2"
-      },
-      {
-        "rank": "4",
-        "team_name": "グリーンロケッツ東葛",
-        "display_name": "グリーンロケッツ東葛",
-        "flag": "🇯🇵",
-        "slug": "",
-        "played": "7",
-        "points": "19",
-        "won": "4",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "28",
         "division": "D2"
       },
       {
@@ -245,12 +245,12 @@
         "display_name": "日本製鉄釜石シーウェイブス",
         "flag": "🇯🇵",
         "slug": "kamaishi-seawaves",
-        "played": "7",
+        "played": "8",
         "points": "16",
         "won": "3",
         "drawn": "0",
-        "lost": "4",
-        "diff": "11",
+        "lost": "5",
+        "diff": "-29",
         "division": "D2"
       },
       {
@@ -329,12 +329,12 @@
         "display_name": "ルリーロ福岡",
         "flag": "🇯🇵",
         "slug": "leriro-fukuoka",
-        "played": "8",
-        "points": "14",
+        "played": "9",
+        "points": "15",
         "won": "3",
         "drawn": "1",
-        "lost": "4",
-        "diff": "-88",
+        "lost": "5",
+        "diff": "-94",
         "division": "D3"
       },
       {
@@ -357,12 +357,12 @@
         "display_name": "中国電力レッドレグリオンズ",
         "flag": "🇯🇵",
         "slug": "chugoku-red-regulions",
-        "played": "8",
-        "points": "7",
-        "won": "1",
+        "played": "9",
+        "points": "11",
+        "won": "2",
         "drawn": "1",
         "lost": "6",
-        "diff": "-117",
+        "diff": "-111",
         "division": "D3"
       }
     ],
