@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/connor-moyse"
 ---
 
 ## キャリア遍歴
-Ospreys (2025 - 2026)
+Ospreys (2025 - )

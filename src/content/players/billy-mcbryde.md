@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/billy-mcbryde"
 ---
 
 ## キャリア遍歴
-ospreys (2015 - 2017) -> scarlets (2017 - 2018) -> rgc 1404 (2018 - 2020) -> doncaster knights (2020 - 2024) -> rgc 1404 (2024 - 2025) -> scarlets (2025 - 2025) -> rgc 1404 (2026 - 2026) -> scarlets (2026 - 2026)
+ospreys (2015 - 2017) -> scarlets (2017 - 2018) -> rgc 1404 (2018 - 2020) -> doncaster knights (2020 - 2024) -> rgc 1404 (2024 - ) -> scarlets (2025 - )

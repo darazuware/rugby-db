@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mirco-spagnolo"
 ---
 
 ## キャリア遍歴
-petrarca rugby (2022 - 2023) -> benetton rugby trévise (2023 - 2026)
+petrarca rugby (2022 - 2023) -> benetton rugby trévise (2023 - )

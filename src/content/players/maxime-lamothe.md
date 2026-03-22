@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-lamothe"
 ---
 
 ## キャリア遍歴
-Pessac (2009 - 2012) -> Union Bordeaux-Bègles (2012 - 2019) -> Aviron Bayonnais (2019 - 2020) -> Union Bordeaux-Bègles (2020 - 2026)
+Pessac (2009 - 2012) -> Union Bordeaux-Bègles (2012 - ) -> Aviron Bayonnais (2019 - 2020)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-purvis"
 ---
 
 ## キャリア遍歴
-Stirling County RFC (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+Stirling County RFC (2023 - 2024) -> Glasgow Warriors (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/victor-montgaillard"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2015 - 2026)
+Union Sportive Arlequins Perpignanais (2015 - )

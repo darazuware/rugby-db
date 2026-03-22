@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-keenan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2016 - 2026)
+Leinster Rugby (2016 - )

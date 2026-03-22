@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/callum-reid"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2019 - 2020) -> Munster Rugby (2020 - 2020) -> Ulster Rugby (2021 - 2021) -> Munster Rugby (2021 - 2021) -> Ulster Rugby (2021 - 2026)
+Ulster Rugby (2019 - ) -> Munster Rugby (2020 - 2021)

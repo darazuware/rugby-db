@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vladi-ashvetia"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2011 - 2023) -> Racing 92 (2023 - 2026)
+Rugby Club Massy Essonne (2011 - 2023) -> Racing 92 (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483723"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2014 - 2018) -> Munakata Sanix Blues (2018 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Kyushu Kyuden Voltex (2023 - )
+Hanazono Kintetsu Liners (2014 - 2018) -> Munakata Sanix Blues (2018 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Kyushu Kyuden Voltex (2023)

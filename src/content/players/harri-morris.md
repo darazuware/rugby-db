@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-morris"
 ---
 
 ## キャリア遍歴
-edimbourg rugby (2020 - 2020) -> southern knights (2020 - 2020) -> edimbourg rugby (2021 - 2021) -> southern knights (2021 - 2021) -> edimbourg rugby (2021 - 2022) -> london scottish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london scottish (2023 - 2023) -> edimbourg rugby (2023 - 2023) -> doncaster knights (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+edimbourg rugby (2020 - ) -> southern knights (2020 - 2021) -> london scottish (2022 - 2023) -> doncaster knights (2023 - 2024)

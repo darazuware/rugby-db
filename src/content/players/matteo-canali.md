@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matteo-canali"
 ---
 
 ## キャリア遍歴
-rugby rovigo delta (2018 - 2020) -> benetton rugby trévise (2020 - 2021) -> petrarca rugby (2021 - 2023) -> zebre parma (2023 - 2026)
+rugby rovigo delta (2018 - 2020) -> benetton rugby trévise (2020 - 2021) -> petrarca rugby (2021 - 2023) -> zebre parma (2023 - )

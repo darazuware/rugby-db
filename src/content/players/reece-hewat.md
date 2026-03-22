@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reece-hewat"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2016 - 2018) -> Stade Aurillacois Cantal Auvergne (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)
+Queensland Reds (2016 - 2018) -> Stade Aurillacois Cantal Auvergne (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )

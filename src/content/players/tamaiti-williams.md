@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tamaiti-williams"
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2022) -> Crusaders (2019 - )
+Canterbury (2019 - 2022) -> Crusaders (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/justo-piccardo"
 ---
 
 ## キャリア遍歴
-San Isidro Club (2020 - 2024) -> Pampas XV (2024 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)
+San Isidro Club (2020 - 2024) -> Pampas XV (2024 - ) -> Montpellier Hérault Rugby (2025 - )

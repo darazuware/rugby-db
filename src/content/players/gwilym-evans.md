@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gwilym-evans"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2022 - 2023) -> cardiff university rfc (2023 - 2024) -> aberavon rfc (2024 - 2025) -> ospreys (2025 - 2026)
+cardiff rugby (2022 - 2023) -> cardiff university rfc (2023 - 2024) -> aberavon rfc (2024 - ) -> ospreys (2025 - )

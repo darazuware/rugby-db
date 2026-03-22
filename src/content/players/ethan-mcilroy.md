@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-mcilroy"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2019 - 2026)
+Ulster Rugby (2019 - )

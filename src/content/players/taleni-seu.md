@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484439"
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2019) -> 豊田自動織機シャトルズ愛知 (2019 - 2023) -> New South Wales Waratahs (2023 - )
+Chiefs (2016 - 2019) -> 豊田自動織機シャトルズ愛知 (2019 - 2023) -> New South Wales Waratahs (2023)

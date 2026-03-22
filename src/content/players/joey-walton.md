@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joey-walton"
 ---
 
 ## キャリア遍歴
-New South Wales Country Eagles (2018 - 2019) -> New South Wales Waratahs (2019 - 2026) -> Bay of Plenty Steamers (2021 - )
+New South Wales Country Eagles (2018 - 2019) -> New South Wales Waratahs (2019 - ) -> Bay of Plenty Steamers (2021)

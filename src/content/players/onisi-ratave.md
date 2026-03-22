@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/onisi-ratave"
 ---
 
 ## キャリア遍歴
-bay of plenty steamers (2020 - 2021) -> fijian drua (2021 - 2022) -> benetton rugby trévise (2022 - 2026)
+bay of plenty steamers (2020 - 2021) -> fijian drua (2021 - 2022) -> benetton rugby trévise (2022 - )

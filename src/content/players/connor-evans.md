@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/connor-evans"
 ---
 
 ## キャリア遍歴
-Stormers (2021 - 2026)
+Stormers (2021 - )

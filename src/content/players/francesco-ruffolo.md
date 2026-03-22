@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francesco-ruffolo"
 ---
 
 ## キャリア遍歴
-colorno (2021 - 2024) -> zebre parma (2024 - 2026)
+colorno (2021 - 2024) -> zebre parma (2024 - )

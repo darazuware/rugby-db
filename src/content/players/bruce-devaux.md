@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bruce-devaux"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2005 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)
+Rugby Club Toulonnais (2005 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

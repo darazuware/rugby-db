@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lekso-kaulashvili"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2013 - 2018) -> Union Bordeaux-Bègles (2018 - 2024) -> Section Paloise Béarn Pyrénées (2024 - 2026)
+Stade Rochelais (2013 - 2018) -> Union Bordeaux-Bègles (2018 - 2024) -> Section Paloise Béarn Pyrénées (2024 - )

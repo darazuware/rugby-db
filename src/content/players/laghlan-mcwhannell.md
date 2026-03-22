@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/laghlan-mcwhannell"
 ---
 
 ## キャリア遍歴
-Chiefs (2018 - 2023) -> Waikato Mooloos (2020 - 2025) -> Blues (2023 - )
+Chiefs (2018 - 2023) -> Waikato Mooloos (2020 - ) -> Blues (2023)

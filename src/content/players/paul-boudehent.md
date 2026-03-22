@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-boudehent"
 ---
 
 ## キャリア遍歴
-SCO RC Angers (2010 - 2014) -> Stade Nantais (2014 - 2017) -> Stade Rochelais (2017 - 2026)
+SCO RC Angers (2010 - 2014) -> Stade Nantais (2014 - 2017) -> Stade Rochelais (2017 - )

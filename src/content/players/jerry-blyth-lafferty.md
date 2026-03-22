@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jerry-blyth-lafferty"
 ---
 
 ## キャリア遍歴
-Boroughmuir RFC (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)
+Boroughmuir RFC (2022 - 2023) -> Edimbourg Rugby (2023 - )

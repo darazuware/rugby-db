@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/melani-matavao"
 ---
 
 ## キャリア遍歴
-Moana Pasifika (2023 - )
+Moana Pasifika (2023)

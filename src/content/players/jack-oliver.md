@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-oliver"
 ---
 
 ## キャリア遍歴
-munster rugby (2021 - 2025) -> glasgow warriors (2025 - 2026)
+munster rugby (2021 - ) -> glasgow warriors (2025 - )

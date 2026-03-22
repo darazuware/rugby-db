@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-collier"
 ---
 
 ## キャリア遍歴
-Harlequins (2013 - 2024) -> Castres Olympique (2024 - 2026)
+Harlequins (2013 - 2024) -> Castres Olympique (2024 - )

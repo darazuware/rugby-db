@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-bochaton"
 ---
 
 ## キャリア遍歴
-Rugby Trévoux Châtillon (2010 - 2014) -> Union Sportive Bressane Pays de l'Ain (2014 - 2021) -> Union Bordeaux-Bègles (2021 - 2026)
+Rugby Trévoux Châtillon (2010 - 2014) -> Union Sportive Bressane Pays de l'Ain (2014 - 2021) -> Union Bordeaux-Bègles (2021 - )

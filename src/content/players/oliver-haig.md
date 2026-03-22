@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oliver-haig"
 ---
 
 ## キャリア遍歴
-Otago (2021 - 2025) -> Highlanders (2022 - )
+Otago (2021 - ) -> Highlanders (2022)

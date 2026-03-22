@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jacob-umaga"
 ---
 
 ## キャリア遍歴
-wasps (2017 - 2022) -> benetton rugby trévise (2022 - 2022) -> wasps (2023 - 2023) -> benetton rugby trévise (2023 - 2026)
+wasps (2017 - 2023) -> benetton rugby trévise (2022 - )

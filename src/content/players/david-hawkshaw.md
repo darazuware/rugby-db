@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-hawkshaw"
 ---
 
 ## キャリア遍歴
-leinster rugby (2018 - 2022) -> connacht rugby (2022 - 2026)
+leinster rugby (2018 - 2022) -> connacht rugby (2022 - )

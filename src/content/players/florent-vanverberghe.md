@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/florent-vanverberghe"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2006 - 2020) -> Castres Olympique (2020 - 2026)
+Rugby Club Toulonnais (2006 - 2020) -> Castres Olympique (2020 - )

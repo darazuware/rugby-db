@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oliver-cowie"
 ---
 
 ## キャリア遍歴
-Club du Golfe (2013 - 2020) -> Rugby Club Toulonnais (2020 - 2026)
+Club du Golfe (2013 - 2020) -> Rugby Club Toulonnais (2020 - )

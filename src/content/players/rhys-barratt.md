@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhys-barratt"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2021 - 2026)
+cardiff rugby (2021 - )

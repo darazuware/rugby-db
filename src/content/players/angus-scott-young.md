@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-scott-young"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2017 - 2022) -> Bay of Plenty Steamers (2020 - 2021) -> Northampton Saints (2022 - 2026) -> New South Wales Waratahs (2025 - )
+Queensland Reds (2017 - 2022) -> Bay of Plenty Steamers (2020 - 2021) -> Northampton Saints (2022 - ) -> New South Wales Waratahs (2025 - )

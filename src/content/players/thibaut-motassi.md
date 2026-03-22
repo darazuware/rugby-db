@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibaut-motassi"
 ---
 
 ## キャリア遍歴
-Rueil Athlétic Club Rugby (2013 - 2019) -> Stade Français Paris Rugby (2019 - 2026)
+Rueil Athlétic Club Rugby (2013 - 2019) -> Stade Français Paris Rugby (2019 - )

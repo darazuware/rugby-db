@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dre-pakeho"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2022 - )
+Queensland Reds (2022)

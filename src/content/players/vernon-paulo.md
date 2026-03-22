@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vernon-paulo"
 ---
 
 ## キャリア遍歴
-north-west university (2022 - 2022) -> leopards (2022 - 2022) -> north-west university (2023 - 2023) -> leopards (2023 - 2023) -> central cheetahs (2023 - 2025) -> stormers (2025 - 2025) -> central cheetahs (2026 - 2026) -> stormers (2026 - 2026)
+north-west university (2022 - 2023) -> leopards (2022 - 2023) -> central cheetahs (2023 - ) -> stormers (2025 - )

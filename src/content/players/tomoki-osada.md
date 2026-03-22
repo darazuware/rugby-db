@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484045"
 ---
 
 ## キャリア遍歴
-埼玉WK (2022 - )
+埼玉WK (2022)

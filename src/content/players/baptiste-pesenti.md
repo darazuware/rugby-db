@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-pesenti"
 ---
 
 ## キャリア遍歴
-FC Saint-Claude Rugby (2005 - 2012) -> Montpellier Hérault Rugby (2012 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2021) -> Racing 92 (2021 - 2022) -> Stade Français Paris Rugby (2022 - 2026)
+FC Saint-Claude Rugby (2005 - 2012) -> Montpellier Hérault Rugby (2012 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2021) -> Racing 92 (2021 - 2022) -> Stade Français Paris Rugby (2022 - )

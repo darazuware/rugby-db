@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kyle-sinckler"
 ---
 
 ## キャリア遍歴
-Harlequins (2013 - 2019) -> Bristol Bears (2019 - 2019) -> Harlequins (2020 - 2020) -> Bristol Bears (2020 - 2024) -> Rugby Club Toulonnais (2024 - 2026)
+Harlequins (2013 - 2020) -> Bristol Bears (2019 - 2024) -> Rugby Club Toulonnais (2024 - )

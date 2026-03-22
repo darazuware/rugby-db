@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tevita-alatini"
 ---
 
 ## キャリア遍歴
-Brumbies (2023 - )
+Brumbies (2023)

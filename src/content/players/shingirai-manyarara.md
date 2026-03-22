@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shingirai-manyarara"
 ---
 
 ## キャリア遍歴
-Kingswood College (2022 - 2023) -> Racing 92 (2023 - 2026)
+Kingswood College (2022 - 2023) -> Racing 92 (2023 - )

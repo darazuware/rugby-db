@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-beria"
 ---
 
 ## キャリア遍歴
-Stade Aurillacois Cantal Auvergne (2010 - 2016) -> ASM Clermont Auvergne (2016 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)
+Stade Aurillacois Cantal Auvergne (2010 - 2016) -> ASM Clermont Auvergne (2016 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

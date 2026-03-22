@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jacob-boyd"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2023 - 2026)
+Ulster Rugby (2023 - )

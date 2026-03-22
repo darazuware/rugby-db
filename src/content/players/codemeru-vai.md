@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/codemeru-vai"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2022 - 2024) -> Auckland (2024 - 2025) -> Blues (2025 - )
+Bay of Plenty Steamers (2022 - 2024) -> Auckland (2024 - ) -> Blues (2025 - )

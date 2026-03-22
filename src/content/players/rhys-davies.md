@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhys-davies"
 ---
 
 ## キャリア遍歴
-bath rugby (2018 - 2020) -> ospreys (2020 - 2026)
+bath rugby (2018 - 2020) -> ospreys (2020 - )

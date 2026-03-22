@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484260"
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2021 - 2022) -> レッズ (2022 - 2024) -> 中国電力レッドレギュリオンズ (2024 - )
+West Brisbane Bulldogs (2021 - 2022) -> レッズ (2022 - 2024) -> 中国電力レッドレギュリオンズ (2024)

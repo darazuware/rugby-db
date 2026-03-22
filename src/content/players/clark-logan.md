@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/clark-logan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2024 - 2026)
+Ulster Rugby (2024 - )

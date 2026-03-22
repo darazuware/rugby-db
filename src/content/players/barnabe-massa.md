@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/barnabe-massa"
 ---
 
 ## キャリア遍歴
-US Véore XV (2010 - 2018) -> Valence Romans Drôme Rugby (2018 - 2020) -> FC Grenoble Rugby (2020 - 2024) -> ASM Clermont Auvergne (2024 - 2026)
+US Véore XV (2010 - 2018) -> Valence Romans Drôme Rugby (2018 - 2020) -> FC Grenoble Rugby (2020 - 2024) -> ASM Clermont Auvergne (2024 - )

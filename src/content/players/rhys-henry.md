@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhys-henry"
 ---
 
 ## キャリア遍歴
-ospreys (2018 - 2026)
+ospreys (2018 - )

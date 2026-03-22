@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/devon-williams"
 ---
 
 ## キャリア遍歴
-Western Province (2012 - 2013) -> Stormers (2013 - 2013) -> Western Province (2013 - 2013) -> Stormers (2014 - 2014) -> Western Province (2014 - 2015) -> Pumas (2015 - 2023) -> Bulls (2023 - 2026)
+Western Province (2012 - 2015) -> Stormers (2013 - 2014) -> Pumas (2015 - 2023) -> Bulls (2023 - )

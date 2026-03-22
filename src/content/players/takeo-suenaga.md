@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483762"
 ---
 
 ## キャリア遍歴
-S東京ベイ (2017 - )
+S東京ベイ (2017)

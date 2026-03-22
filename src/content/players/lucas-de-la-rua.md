@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-de-la-rua"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2022 - 2026)
+cardiff rugby (2022 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484748"
 ---
 
 ## キャリア遍歴
-Shimizu Koto Blue Sharks (2016 - 2019) -> クボタスピアーズ (2019 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021 - )
+Shimizu Koto Blue Sharks (2016 - 2019) -> クボタスピアーズ (2019 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021)

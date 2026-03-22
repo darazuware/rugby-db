@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pascal-cotet"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2013 - 2015) -> Racing Club Narbonnais (2015 - 2016) -> Oyonnax Rugby (2016 - 2017) -> RC Aubenas Vals (2017 - 2018) -> Racing Club Narbonnais (2018 - 2022) -> Aviron Bayonnais (2022 - 2026)
+Union Sportive Arlequins Perpignanais (2013 - 2015) -> Racing Club Narbonnais (2015 - 2016) -> Oyonnax Rugby (2016 - 2017) -> RC Aubenas Vals (2017 - 2018) -> Racing Club Narbonnais (2018 - 2022) -> Aviron Bayonnais (2022 - )

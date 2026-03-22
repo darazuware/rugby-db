@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fionn-gibbons"
 ---
 
 ## キャリア遍歴
-leinster rugby (2021 - 2022) -> munster rugby (2022 - 2026)
+leinster rugby (2021 - 2022) -> munster rugby (2022 - )

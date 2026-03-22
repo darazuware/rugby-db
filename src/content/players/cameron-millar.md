@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-millar"
 ---
 
 ## キャリア遍歴
-Otago (2020 - 2025) -> Highlanders (2022 - )
+Otago (2020 - ) -> Highlanders (2022)

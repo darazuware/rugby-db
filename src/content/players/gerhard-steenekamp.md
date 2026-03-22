@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gerhard-steenekamp"
 ---
 
 ## キャリア遍歴
-Tuks Rugby Club (2018 - 2019) -> Bulls (2019 - 2026)
+Tuks Rugby Club (2018 - 2019) -> Bulls (2019 - )

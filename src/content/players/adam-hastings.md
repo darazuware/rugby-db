@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adam-hastings"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2015 - 2017) -> Glasgow Warriors (2017 - 2021) -> Gloucester Rugby (2021 - 2024) -> Glasgow Warriors (2024 - 2026)
+Bath Rugby (2015 - 2017) -> Glasgow Warriors (2017 - 2021) -> Gloucester Rugby (2021 - 2024) -> Glasgow Warriors (2024 - )

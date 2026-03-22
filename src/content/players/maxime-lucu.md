@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-lucu"
 ---
 
 ## キャリア遍歴
-Saint-Pée UC (2004 - 2010) -> Saint Jean-de-Luz Olympique Rugby (2010 - 2011) -> Biarritz Olympique Pays Basque (2011 - 2019) -> Union Bordeaux-Bègles (2019 - 2026)
+Saint-Pée UC (2004 - 2010) -> Saint Jean-de-Luz Olympique Rugby (2010 - 2011) -> Biarritz Olympique Pays Basque (2011 - 2019) -> Union Bordeaux-Bègles (2019 - )

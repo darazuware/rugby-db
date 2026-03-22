@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nikolaj-varotto"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2025 - 2026)
+Zebre Parma (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-wycherley"
 ---
 
 ## キャリア遍歴
-munster rugby (2018 - 2026)
+munster rugby (2018 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-o-shaughnessy"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2025 - 2026)
+Connacht Rugby (2025 - )

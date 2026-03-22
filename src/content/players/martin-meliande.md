@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/martin-meliande"
 ---
 
 ## キャリア遍歴
-US Orthez Rugby (2008 - 2015) -> Section Paloise Béarn Pyrénées (2015 - 2016) -> US Orthez Rugby (2016 - 2020) -> Biarritz Olympique Pays Basque (2020 - 2021) -> Union Sportive Bressane Pays de l'Ain (2021 - 2022) -> Racing 92 (2022 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2026)
+US Orthez Rugby (2008 - 2020) -> Section Paloise Béarn Pyrénées (2015 - 2016) -> Biarritz Olympique Pays Basque (2020 - 2021) -> Union Sportive Bressane Pays de l'Ain (2021 - 2022) -> Racing 92 (2022 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

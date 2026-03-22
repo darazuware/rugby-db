@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jean-luc-du-preez"
 ---
 
 ## キャリア遍歴
-Sharks (2015 - 2018) -> Sale Sharks (2018 - 2018) -> Sharks (2018 - 2018) -> Sale Sharks (2019 - 2019) -> Sharks (2019 - 2019) -> Sale Sharks (2019 - 2025) -> Union Bordeaux-Bègles (2025 - 2026)
+Sharks (2015 - 2019) -> Sale Sharks (2018 - ) -> Union Bordeaux-Bègles (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alessandro-fusco"
 ---
 
 ## キャリア遍歴
-Fiamme Oro Roma (2019 - 2020) -> Zebre Parma (2020 - 2026)
+Fiamme Oro Roma (2019 - 2020) -> Zebre Parma (2020 - )

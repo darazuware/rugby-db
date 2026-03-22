@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/richie-asiata"
 ---
 
 ## キャリア遍歴
-Toronto Arrows (2019 - 2020) -> Queensland Reds (2020 - 2026) -> Northland Taniwha (2023 - 2024) -> Benetton Rugby Trévise (2025 - )
+Toronto Arrows (2019 - 2020) -> Queensland Reds (2020 - ) -> Northland Taniwha (2023 - 2024) -> Benetton Rugby Trévise (2025 - )

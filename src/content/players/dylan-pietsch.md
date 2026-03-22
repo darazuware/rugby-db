@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-pietsch"
 ---
 
 ## キャリア遍歴
-Randwick Rugby (2016 - 2020) -> Aussie 7's (2020 - 2021) -> New South Wales Waratahs (2021 - 2024) -> Western Force (2024 - )
+Randwick Rugby (2016 - 2020) -> Aussie 7's (2020 - 2021) -> New South Wales Waratahs (2021 - 2024) -> Western Force (2024)

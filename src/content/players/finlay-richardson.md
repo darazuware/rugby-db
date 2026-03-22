@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finlay-richardson"
 ---
 
 ## キャリア遍歴
-exeter university rfc (2021 - 2022) -> exeter chiefs (2022 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2024 - 2024) -> cornish pirates (2024 - 2024) -> glasgow warriors (2024 - 2026)
+exeter university rfc (2021 - 2022) -> exeter chiefs (2022 - 2024) -> cornish pirates (2023 - 2024) -> glasgow warriors (2024 - )

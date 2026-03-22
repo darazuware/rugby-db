@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jarrah-mcleod"
 ---
 
 ## キャリア遍歴
-Brumbies (2023 - 2026) -> Canberra Royals (2024 - )
+Brumbies (2023 - ) -> Canberra Royals (2024)

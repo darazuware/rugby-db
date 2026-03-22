@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-farrell"
 ---
 
 ## キャリア遍歴
-connacht rugby (2016 - 2024) -> munster rugby (2024 - 2026)
+connacht rugby (2016 - 2024) -> munster rugby (2024 - )

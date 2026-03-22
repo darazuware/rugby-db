@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aphelele-fassi"
 ---
 
 ## キャリア遍歴
-Sharks (2018 - 2026)
+Sharks (2018 - )

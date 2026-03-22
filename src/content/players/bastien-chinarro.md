@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bastien-chinarro"
 ---
 
 ## キャリア遍歴
-Union Athlétique Gaillacoise (2008 - 2009) -> Entente de la Têt (2014 - 2015) -> Union Sportive Arlequins Perpignanais (2019 - 2026)
+Union Athlétique Gaillacoise (2008 - 2009) -> Entente de la Têt (2014 - 2015) -> Union Sportive Arlequins Perpignanais (2019 - )

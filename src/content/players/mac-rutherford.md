@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mac-rutherford"
 ---
 
 ## キャリア遍歴
-Gala Rugby (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+Gala Rugby (2023 - 2024) -> Edimbourg Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-ake"
 ---
 
 ## キャリア遍歴
-Auckland (2022 - 2023) -> Blues (2023 - )
+Auckland (2022 - 2023) -> Blues (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-o-brien"
 ---
 
 ## キャリア遍歴
-dragons rfc (2014 - 2018) -> scarlets (2018 - 2022) -> dragons rfc (2022 - 2026)
+dragons rfc (2014 - 2018) -> scarlets (2018 - 2022) -> dragons rfc (2022 - )

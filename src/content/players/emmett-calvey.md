@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emmett-calvey"
 ---
 
 ## キャリア遍歴
-shannon rfc (2023 - 2025) -> munster rugby (2025 - 2026)
+shannon rfc (2023 - ) -> munster rugby (2025 - )

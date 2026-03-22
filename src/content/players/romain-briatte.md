@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romain-briatte"
 ---
 
 ## キャリア遍歴
-RC Riom (2004 - 2006) -> ASM Clermont Auvergne (2006 - 2014) -> Stade Aurillacois Cantal Auvergne (2014 - 2018) -> Sporting Union Agenais (2018 - 2021) -> Stade Français Paris Rugby (2021 - 2026)
+RC Riom (2004 - 2006) -> ASM Clermont Auvergne (2006 - 2014) -> Stade Aurillacois Cantal Auvergne (2014 - 2018) -> Sporting Union Agenais (2018 - 2021) -> Stade Français Paris Rugby (2021 - )

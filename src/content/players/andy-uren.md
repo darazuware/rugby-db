@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andy-uren"
 ---
 
 ## キャリア遍歴
-bristol bears (2016 - 2023) -> benetton rugby trévise (2023 - 2026)
+bristol bears (2016 - 2023) -> benetton rugby trévise (2023 - )

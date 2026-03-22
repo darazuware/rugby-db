@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483507"
 ---
 
 ## キャリア遍歴
-ワラターズ (2013 - 2019) -> Dragons Catalans (2019 - 2020) -> 浦安D-Rocks (2021 - )
+ワラターズ (2013 - 2019) -> Dragons Catalans (2019 - 2020) -> 浦安D-Rocks (2021)

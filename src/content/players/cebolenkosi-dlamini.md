@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cebolenkosi-dlamini"
 ---
 
 ## キャリア遍歴
-Griquas (2022 - 2025) -> Dragons RFC (2025 - 2025) -> Sharks (2025 - 2025) -> Dragons RFC (2026 - 2026) -> Sharks (2026 - 2026)
+Griquas (2022 - ) -> Dragons RFC (2025 - ) -> Sharks (2025 - )

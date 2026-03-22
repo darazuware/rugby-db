@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peter-dooley"
 ---
 
 ## キャリア遍歴
-leinster rugby (2014 - 2022) -> connacht rugby (2022 - 2026)
+leinster rugby (2014 - 2022) -> connacht rugby (2022 - )

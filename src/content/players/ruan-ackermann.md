@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-ackermann"
 ---
 
 ## キャリア遍歴
-lions rugby (2015 - 2017) -> gloucester rugby (2017 - 2025) -> stormers (2025 - 2026)
+lions rugby (2015 - 2017) -> gloucester rugby (2017 - ) -> stormers (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lopeti-faifua"
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2020 - 2021) -> Queensland Reds (2021 - 2023) -> Western Force (2023 - 2026) -> Tasman Mako (2024 - )
+West Brisbane Bulldogs (2020 - 2021) -> Queensland Reds (2021 - 2023) -> Western Force (2023 - ) -> Tasman Mako (2024)

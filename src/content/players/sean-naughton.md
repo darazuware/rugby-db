@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-naughton"
 ---
 
 ## キャリア遍歴
-connacht rugby (2023 - 2026)
+connacht rugby (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-chouzenoux"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2009 - 2017) -> Racing 92 (2017 - 2024) -> Aviron Bayonnais (2024 - 2026)
+Aviron Bayonnais (2009 - 2017) -> Racing 92 (2017 - 2024) -> Aviron Bayonnais (2024 - )

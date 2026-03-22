@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-soroka"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2026)
+Leinster Rugby (2020 - )

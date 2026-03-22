@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-berdeu"
 ---
 
 ## キャリア遍歴
-Rugby Olympique de Grasse (2004 - 2015) -> Rugby Club Toulonnais (2015 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2018) -> Sporting Union Agenais (2018 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2026)
+Rugby Olympique de Grasse (2004 - 2015) -> Rugby Club Toulonnais (2015 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2018) -> Sporting Union Agenais (2018 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - )

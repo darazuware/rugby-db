@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-neill"
 ---
 
 ## キャリア遍歴
-rondebosch boys’ high school (2024 - 2025) -> leinster rugby (2025 - 2026)
+rondebosch boys’ high school (2024 - ) -> leinster rugby (2025 - )

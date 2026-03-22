@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lehopa-leota"
 ---
 
 ## キャリア遍歴
-Brothers Rugby Club (2022 - 2024) -> Racing 92 (2024 - 2026)
+Brothers Rugby Club (2022 - 2024) -> Racing 92 (2024 - )

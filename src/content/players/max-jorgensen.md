@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-jorgensen"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2021 - )
+New South Wales Waratahs (2021)

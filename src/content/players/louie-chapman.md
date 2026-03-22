@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louie-chapman"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2019 - 2024) -> Crusaders (2022 - 2026) -> Canterbury (2024 - )
+Tasman Mako (2019 - 2024) -> Crusaders (2022 - ) -> Canterbury (2024)

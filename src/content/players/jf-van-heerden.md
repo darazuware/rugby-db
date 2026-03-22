@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jf-van-heerden"
 ---
 
 ## キャリア遍歴
-blue bulls (2022 - 2023) -> bulls (2023 - 2026)
+blue bulls (2022 - 2023) -> bulls (2023 - )

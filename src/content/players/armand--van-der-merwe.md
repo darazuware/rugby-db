@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/armand--van-der-merwe"
 ---
 
 ## キャリア遍歴
-lions rugby (2013 - 2015) -> racing 92 (2015 - 2015) -> lions rugby (2015 - 2015) -> racing 92 (2016 - 2016) -> lions rugby (2016 - 2017) -> sharks (2017 - 2019) -> sale sharks (2019 - 2023) -> bulls (2023 - 2026)
+lions rugby (2013 - 2017) -> racing 92 (2015 - 2016) -> sharks (2017 - 2019) -> sale sharks (2019 - 2023) -> bulls (2023 - )

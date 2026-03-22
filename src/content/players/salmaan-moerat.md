@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/salmaan-moerat"
 ---
 
 ## キャリア遍歴
-Stormers (2017 - 2026)
+Stormers (2017 - )

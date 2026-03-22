@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fletcher-newell"
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2024) -> Crusaders (2019 - )
+Canterbury (2019 - 2024) -> Crusaders (2019)

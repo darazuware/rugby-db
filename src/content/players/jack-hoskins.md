@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-hoskins"
 ---
 
 ## キャリア遍歴
-ospreys (2025 - 2026)
+ospreys (2025 - )

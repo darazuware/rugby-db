@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/quinn-tupaea"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2018 - 2024) -> Chiefs (2019 - )
+Waikato Mooloos (2018 - 2024) -> Chiefs (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-o-riordan"
 ---
 
 ## キャリア遍歴
-university of limerick bohemian rfc (2023 - 2024) -> munster rugby (2024 - 2026)
+university of limerick bohemian rfc (2023 - 2024) -> munster rugby (2024 - )

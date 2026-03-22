@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/johan-mulder"
 ---
 
 ## キャリア遍歴
-lions rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)
+lions rugby (2023 - 2024) -> cardiff rugby (2024 - )

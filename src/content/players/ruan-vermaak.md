@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-vermaak"
 ---
 
 ## キャリア遍歴
-lions rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> bulls (2022 - 2026)
+lions rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> bulls (2022 - )

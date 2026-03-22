@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484660"
 ---
 
 ## キャリア遍歴
-Kurita Water Gush Akishima (2015 - 2020) -> 三菱重工相模原ダイナボアーズ (2020 - 2025) -> ホンダヒート (2025 - )
+Kurita Water Gush Akishima (2015 - 2020) -> 三菱重工相模原ダイナボアーズ (2020 - ) -> ホンダヒート (2025 - )

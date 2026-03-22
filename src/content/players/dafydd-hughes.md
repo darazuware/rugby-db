@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dafydd-hughes"
 ---
 
 ## キャリア遍歴
-scarlets (2016 - 2023) -> jersey reds (2023 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)
+scarlets (2016 - 2023) -> jersey reds (2023 - 2024) -> cardiff rugby (2023 - )

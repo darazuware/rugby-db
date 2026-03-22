@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jean-luc-du-plessis"
 ---
 
 ## キャリア遍歴
-Stormers (2015 - 2020) -> Mie Honda Heat RFC (2021 - 2022) -> Stormers (2022 - 2026)
+Stormers (2015 - 2020) -> Mie Honda Heat RFC (2021 - 2022) -> Stormers (2022 - )

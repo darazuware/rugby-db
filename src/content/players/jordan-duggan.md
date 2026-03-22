@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-duggan"
 ---
 
 ## キャリア遍歴
-connacht rugby (2019 - 2026)
+connacht rugby (2019 - )

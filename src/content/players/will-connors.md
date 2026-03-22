@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-connors"
 ---
 
 ## キャリア遍歴
-leinster rugby (2017 - 2026)
+leinster rugby (2017 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joshua-brennan"
 ---
 
 ## キャリア遍歴
-Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - 2026)
+Toulouse Lalande Aucamville (2008 - 2012) -> Stade Toulousain (2012 - )

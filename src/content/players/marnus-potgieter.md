@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marnus-potgieter"
 ---
 
 ## キャリア遍歴
-blue bulls (2018 - 2019) -> bulls (2019 - 2021) -> sharks (2021 - 2026)
+blue bulls (2018 - 2019) -> bulls (2019 - 2021) -> sharks (2021 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marley-pearce"
 ---
 
 ## キャリア遍歴
-Joondalup Brothers RUFC (2021 - 2022) -> Western Force (2022 - )
+Joondalup Brothers RUFC (2021 - 2022) -> Western Force (2022)

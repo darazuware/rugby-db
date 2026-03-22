@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nikora-broughton"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - 2025) -> Highlanders (2022 - )
+Bay of Plenty Steamers (2020 - ) -> Highlanders (2022)

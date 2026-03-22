@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bastien-vergnes-taillefer"
 ---
 
 ## キャリア遍歴
-Roques Olympique Club (2004 - 2005) -> Sport Athlétique Auterivain XV (2007 - 2012) -> US Colomiers (2012 - 2021) -> Union Bordeaux-Bègles (2021 - 2026)
+Roques Olympique Club (2004 - 2005) -> Sport Athlétique Auterivain XV (2007 - 2012) -> US Colomiers (2012 - 2021) -> Union Bordeaux-Bègles (2021 - )

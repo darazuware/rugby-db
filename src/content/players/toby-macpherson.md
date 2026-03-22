@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/toby-macpherson"
 ---
 
 ## キャリア遍歴
-Uni-Norths Owls (2022 - 2023) -> Brumbies (2023 - 2026) -> Toyota Verblitz (2024 - )
+Uni-Norths Owls (2022 - 2023) -> Brumbies (2023 - ) -> Toyota Verblitz (2024)

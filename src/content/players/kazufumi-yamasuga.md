@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484833"
 ---
 
 ## キャリア遍歴
-Kurita Water Gush Akishima (2020 - 2021) -> Yokohama Canon Eagles (2021 - )
+Kurita Water Gush Akishima (2020 - 2021) -> Yokohama Canon Eagles (2021)

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484901"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2022 - 2022) -> BlackRams Tokyo (2023 - )
+Kyushu Kyuden Voltex (2022) -> BlackRams Tokyo (2023)

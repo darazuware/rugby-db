@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/remy-baget"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2014 - 2018) -> Aviron Bayonnais (2018 - 2024) -> Castres Olympique (2024 - 2026)
+Stade Toulousain (2014 - 2018) -> Aviron Bayonnais (2018 - 2024) -> Castres Olympique (2024 - )

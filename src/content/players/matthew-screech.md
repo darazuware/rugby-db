@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthew-screech"
 ---
 
 ## キャリア遍歴
-dragons rfc (2013 - 2021) -> cardiff rugby (2021 - 2022) -> dragons rfc (2022 - 2022) -> cardiff rugby (2023 - 2023) -> dragons rfc (2023 - 2026)
+dragons rfc (2013 - ) -> cardiff rugby (2021 - 2023)

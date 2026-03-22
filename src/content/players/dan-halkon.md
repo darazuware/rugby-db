@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-halkon"
 ---
 
 ## キャリア遍歴
-rgs worcester (2023 - 2024) -> glasgow warriors (2024 - 2026)
+rgs worcester (2023 - 2024) -> glasgow warriors (2024 - )

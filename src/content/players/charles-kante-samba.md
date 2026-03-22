@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charles-kante-samba"
 ---
 
 ## キャリア遍歴
-Niort RC (2011 - 2021) -> Stade Rochelais (2021 - 2026)
+Niort RC (2011 - 2021) -> Stade Rochelais (2021 - )

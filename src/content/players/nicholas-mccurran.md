@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484453"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> Toyota Verblitz (2024 - )
+東芝ブレイブルーパス東京 (2021 - 2024) -> Toyota Verblitz (2024)

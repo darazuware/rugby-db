@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-venter"
 ---
 
 ## キャリア遍歴
-lions rugby (2021 - 2026)
+lions rugby (2021 - )

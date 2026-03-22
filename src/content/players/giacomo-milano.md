@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giacomo-milano"
 ---
 
 ## キャリア遍歴
-Unione Rugby Capitolina (2023 - 2024) -> Zebre Parma (2024 - 2026)
+Unione Rugby Capitolina (2023 - 2024) -> Zebre Parma (2024 - )

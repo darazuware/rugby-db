@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/asenathi-ntlabakanye"
 ---
 
 ## キャリア遍歴
-Golden Lions (2018 - 2019) -> Lions Rugby (2019 - 2026)
+Golden Lions (2018 - 2019) -> Lions Rugby (2019 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sazi-sandi"
 ---
 
 ## キャリア遍歴
-western province (2018 - 2019) -> stormers (2019 - 2026)
+western province (2018 - 2019) -> stormers (2019 - )

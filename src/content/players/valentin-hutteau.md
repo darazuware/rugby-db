@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/valentin-hutteau"
 ---
 
 ## キャリア遍歴
-US Pithiviers (2012 - 2020) -> Rugby Club Massy Essonne (2020 - 2025) -> Union Bordeaux-Bègles (2025 - 2026)
+US Pithiviers (2012 - 2020) -> Rugby Club Massy Essonne (2020 - ) -> Union Bordeaux-Bègles (2025 - )

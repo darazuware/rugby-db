@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lewis-ludlam"
 ---
 
 ## キャリア遍歴
-Northampton Saints (2016 - 2024) -> Rugby Club Toulonnais (2024 - 2026)
+Northampton Saints (2016 - 2024) -> Rugby Club Toulonnais (2024 - )

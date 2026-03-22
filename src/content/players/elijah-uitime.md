@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484922"
 ---
 
 ## キャリア遍歴
-Gpassioners (2024 - 2025) -> ルリーロ福岡 (2025 - )
+Gpassioners (2024 - ) -> ルリーロ福岡 (2025 - )

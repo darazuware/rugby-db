@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tane-edmed"
 ---
 
 ## キャリア遍歴
-Eastwood Rugby Club (2019 - 2020) -> New South Wales Waratahs (2020 - 2025) -> North Harbour (2023 - 2024) -> Brumbies (2025 - )
+Eastwood Rugby Club (2019 - 2020) -> New South Wales Waratahs (2020 - ) -> North Harbour (2023 - 2024) -> Brumbies (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reuben-morgan-williams"
 ---
 
 ## キャリア遍歴
-ospreys (2017 - 2026)
+ospreys (2017 - )

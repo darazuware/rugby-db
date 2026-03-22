@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/katlego-letebele"
 ---
 
 ## キャリア遍歴
-blue bulls (2021 - 2024) -> bulls (2024 - 2026)
+blue bulls (2021 - 2024) -> bulls (2024 - )

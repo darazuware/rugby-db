@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-lynagh"
 ---
 
 ## キャリア遍歴
-harlequins (2019 - 2022) -> london scottish (2022 - 2022) -> harlequins (2023 - 2023) -> london scottish (2023 - 2023) -> harlequins (2023 - 2024) -> benetton rugby trévise (2024 - 2026)
+harlequins (2019 - 2024) -> london scottish (2022 - 2023) -> benetton rugby trévise (2024 - )

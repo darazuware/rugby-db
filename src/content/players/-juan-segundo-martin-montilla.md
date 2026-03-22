@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/-juan-segundo-martin-montilla"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2023 - 2026)
+ASM Clermont Auvergne (2023 - )

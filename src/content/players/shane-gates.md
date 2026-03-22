@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483509"
 ---
 
 ## キャリア遍歴
-Southern Kings (2015 - 2016) -> 浦安D-Rocks (2016 - 2026) -> サンウルブズ (2018 - )
+Southern Kings (2015 - 2016) -> 浦安D-Rocks (2016 - ) -> サンウルブズ (2018)

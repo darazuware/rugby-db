@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aki-tuivailala"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - 2025) -> Chiefs (2023 - 2024) -> Crusaders (2024 - )
+Waikato Mooloos (2022 - ) -> Chiefs (2023 - 2024) -> Crusaders (2024)

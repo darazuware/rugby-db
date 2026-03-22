@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evan-roos"
 ---
 
 ## キャリア遍歴
-sharks (2019 - 2020) -> stormers (2020 - 2026)
+sharks (2019 - 2020) -> stormers (2020 - )

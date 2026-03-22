@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/greg-alldritt"
 ---
 
 ## キャリア遍歴
-SA Condom Rugby (2004 - 2008) -> Rugby Club Auch (2008 - 2017) -> Stade Rochelais (2017 - 2026)
+SA Condom Rugby (2004 - 2008) -> Rugby Club Auch (2008 - 2017) -> Stade Rochelais (2017 - )

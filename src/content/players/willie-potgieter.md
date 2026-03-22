@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483970"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2022 - 2022) -> Kobelco Kobe Steelers (2022 - )
+Blue Bulls (2022) -> Kobelco Kobe Steelers (2022)

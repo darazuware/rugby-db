@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484960"
 ---
 
 ## キャリア遍歴
-ルリーロ福岡 (2024 - )
+ルリーロ福岡 (2024)

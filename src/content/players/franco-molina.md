@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/franco-molina"
 ---
 
 ## キャリア遍歴
-Jaguares (2018 - 2019) -> Dogos XV (2019 - 2024) -> Jaguares XV (2020 - 2021) -> Selknam (2021 - 2022) -> Exeter Chiefs (2024 - 2025) -> Western Force (2025 - )
+Jaguares (2018 - 2019) -> Dogos XV (2019 - 2024) -> Jaguares XV (2020 - 2021) -> Selknam (2021 - 2022) -> Exeter Chiefs (2024 - ) -> Western Force (2025 - )

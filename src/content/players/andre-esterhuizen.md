@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andre-esterhuizen"
 ---
 
 ## キャリア遍歴
-Sharks (2013 - 2019) -> Harlequins (2019 - 2019) -> Sharks (2020 - 2020) -> Harlequins (2020 - 2024) -> Sharks (2024 - 2026)
+Sharks (2013 - 2020) -> Harlequins (2019 - 2024) -> Sharks (2024 - )

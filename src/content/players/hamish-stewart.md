@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hamish-stewart"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2016 - 2022) -> Western Force (2022 - )
+Queensland Reds (2016 - 2022) -> Western Force (2022)

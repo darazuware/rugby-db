@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-hooker"
 ---
 
 ## キャリア遍歴
-sharks (2022 - 2026)
+sharks (2022 - )

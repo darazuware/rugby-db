@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louw-nel"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2024) -> Stormers (2024 - 2026)
+Western Province (2021 - 2024) -> Stormers (2024 - )

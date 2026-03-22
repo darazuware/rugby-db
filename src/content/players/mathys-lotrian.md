@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathys-lotrian"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2009 - 2026)
+Union Sportive Arlequins Perpignanais (2009 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/osian-roberts"
 ---
 
 ## キャリア遍歴
-sale sharks (2023 - 2025) -> cardiff rugby (2025 - 2025) -> caldy rfc (2025 - 2025) -> sale sharks (2026 - 2026) -> cardiff rugby (2026 - 2026) -> caldy rfc (2026 - 2026)
+sale sharks (2023 - ) -> cardiff rugby (2025 - ) -> caldy rfc (2025 - )

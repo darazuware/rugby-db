@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cobus-wiese"
 ---
 
 ## キャリア遍歴
-Stormers (2016 - 2019) -> Sale Sharks (2019 - 2019) -> Stormers (2020 - 2020) -> Sale Sharks (2020 - 2024) -> Bulls (2024 - 2026)
+Stormers (2016 - 2020) -> Sale Sharks (2019 - 2024) -> Bulls (2024 - )

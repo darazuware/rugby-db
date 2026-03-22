@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eddie-james"
 ---
 
 ## キャリア遍歴
-Scarlets (2020 - 2026)
+Scarlets (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/patrick-schickerling"
 ---
 
 ## キャリア遍歴
-exeter chiefs (2019 - 2024) -> glasgow warriors (2024 - 2026)
+exeter chiefs (2019 - 2024) -> glasgow warriors (2024 - )

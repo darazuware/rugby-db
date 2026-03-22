@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arese-poliko"
 ---
 
 ## キャリア遍歴
-Southland Stags (2019 - 2022) -> Taranaki Bulls (2022 - 2025) -> Hurricanes (2024 - )
+Southland Stags (2019 - 2022) -> Taranaki Bulls (2022 - ) -> Hurricanes (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-mccormick"
 ---
 
 ## キャリア遍歴
-dalriada school (2019 - 2020) -> ulster rugby (2020 - 2026)
+dalriada school (2019 - 2020) -> ulster rugby (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-spring"
 ---
 
 ## キャリア遍歴
-US Nafarroa (2007 - 2016) -> Aviron Bayonnais (2016 - 2019) -> Racing 92 (2019 - 2026)
+US Nafarroa (2007 - 2016) -> Aviron Bayonnais (2016 - 2019) -> Racing 92 (2019 - )

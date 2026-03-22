@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ronan-foxe"
 ---
 
 ## キャリア遍歴
-old belvedere rc (2022 - 2023) -> munster rugby (2023 - 2026)
+old belvedere rc (2022 - 2023) -> munster rugby (2023 - )

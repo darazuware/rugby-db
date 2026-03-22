@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-jonas"
 ---
 
 ## キャリア遍歴
-Glenwood High School (2019 - 2020) -> Biarritz Olympique Pays Basque (2020 - 2024) -> Stade Français Paris Rugby (2024 - 2026)
+Glenwood High School (2019 - 2020) -> Biarritz Olympique Pays Basque (2020 - 2024) -> Stade Français Paris Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vilimoni-botitu"
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2019 - 2020) -> Castres Olympique (2020 - 2026)
+FIDJI 7's (2019 - 2020) -> Castres Olympique (2020 - )

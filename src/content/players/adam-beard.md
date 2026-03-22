@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adam-beard"
 ---
 
 ## キャリア遍歴
-Ospreys (2015 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)
+Ospreys (2015 - ) -> Montpellier Hérault Rugby (2025 - )

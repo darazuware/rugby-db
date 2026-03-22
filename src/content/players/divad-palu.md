@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/divad-palu"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2021 - 2024) -> Western Force (2024 - )
+Melbourne Rebels (2021 - 2024) -> Western Force (2024)

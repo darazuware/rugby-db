@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gianni-lombard"
 ---
 
 ## キャリア遍歴
-lions rugby (2018 - 2021) -> red hurricanes osaka (2021 - 2022) -> lions rugby (2022 - 2026)
+lions rugby (2018 - ) -> red hurricanes osaka (2021 - 2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-wright"
 ---
 
 ## キャリア遍歴
-Brumbies (2018 - )
+Brumbies (2018)

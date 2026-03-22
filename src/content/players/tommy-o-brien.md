@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tommy-o-brien"
 ---
 
 ## キャリア遍歴
-leinster rugby (2019 - 2026)
+leinster rugby (2019 - )

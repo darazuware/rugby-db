@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484907"
 ---
 
 ## キャリア遍歴
-BlackRams Tokyo (2024 - )
+BlackRams Tokyo (2024)

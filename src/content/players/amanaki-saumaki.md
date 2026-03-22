@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484813"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2016 - 2022) -> Kobelco Kobe Steelers (2022 - 2025) -> Yokohama Canon Eagles (2025 - )
+横浜キヤノンイーグルス (2016 - 2022) -> Kobelco Kobe Steelers (2022 - ) -> Yokohama Canon Eagles (2025 - )

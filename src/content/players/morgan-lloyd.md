@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morgan-lloyd"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2021 - 2022) -> Hartpury RFC (2022 - 2022) -> Dragons RFC (2023 - 2023) -> Hartpury RFC (2023 - 2023) -> Dragons RFC (2023 - 2026)
+Dragons RFC (2021 - ) -> Hartpury RFC (2022 - 2023)

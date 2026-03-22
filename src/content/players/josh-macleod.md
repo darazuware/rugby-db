@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-macleod"
 ---
 
 ## キャリア遍歴
-scarlets (2016 - 2026)
+scarlets (2016 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rodrigue-neti"
 ---
 
 ## キャリア遍歴
-Union Rugby Club Dumbéa (2010 - 2012) -> Stade Toulousain (2012 - 2026)
+Union Rugby Club Dumbéa (2010 - 2012) -> Stade Toulousain (2012 - )

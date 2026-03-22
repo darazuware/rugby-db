@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-odiase"
 ---
 
 ## キャリア遍歴
-Colorno (2021 - 2022) -> Oyonnax Rugby (2022 - 2025) -> Zebre Parma (2025 - 2026)
+Colorno (2021 - 2022) -> Oyonnax Rugby (2022 - ) -> Zebre Parma (2025 - )

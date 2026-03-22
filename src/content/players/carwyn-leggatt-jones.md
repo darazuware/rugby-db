@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/carwyn-leggatt-jones"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+Scarlets (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lubabalo-dobela"
 ---
 
 ## キャリア遍歴
-griquas (2022 - 2024) -> lions rugby (2024 - 2026)
+griquas (2022 - 2024) -> lions rugby (2024 - )

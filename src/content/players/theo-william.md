@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-william"
 ---
 
 ## キャリア遍歴
-CS Bourgoin Jallieu Rugby (2009 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - 2021) -> Union Sportive Bressane Pays de l'Ain (2021 - 2021) -> Lyon Olympique Universitaire Rugby (2022 - 2022) -> Union Sportive Bressane Pays de l'Ain (2022 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)
+CS Bourgoin Jallieu Rugby (2009 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - ) -> Union Sportive Bressane Pays de l'Ain (2021 - 2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jan-hendrik-wessels"
 ---
 
 ## キャリア遍歴
-grey college (2018 - 2019) -> asm clermont auvergne (2019 - 2020) -> bulls (2020 - 2026)
+grey college (2018 - 2019) -> asm clermont auvergne (2019 - 2020) -> bulls (2020 - )

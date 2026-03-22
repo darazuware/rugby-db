@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guido-volpi"
 ---
 
 ## キャリア遍歴
-old georgian club (2016 - 2017) -> racing club narbonnais (2017 - 2018) -> ospreys (2018 - 2019) -> doncaster knights (2019 - 2019) -> ospreys (2020 - 2020) -> doncaster knights (2020 - 2020) -> ospreys (2020 - 2020) -> doncaster knights (2020 - 2020) -> ospreys (2021 - 2021) -> doncaster knights (2021 - 2022) -> zebre parma (2022 - 2026)
+old georgian club (2016 - 2017) -> racing club narbonnais (2017 - 2018) -> ospreys (2018 - 2021) -> doncaster knights (2019 - 2022) -> zebre parma (2022 - )

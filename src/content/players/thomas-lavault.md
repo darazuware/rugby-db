@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-lavault"
 ---
 
 ## キャリア遍歴
-US Thouars (2011 - 2016) -> Stade Rochelais (2016 - 2026)
+US Thouars (2011 - 2016) -> Stade Rochelais (2016 - )

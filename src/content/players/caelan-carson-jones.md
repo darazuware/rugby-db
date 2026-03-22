@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/caelan-carson-jones"
 ---
 
 ## キャリア遍歴
-Ospreys (2024 - 2026)
+Ospreys (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wes-goosen"
 ---
 
 ## キャリア遍歴
-hurricanes (2015 - 2019) -> wellington lions (2019 - 2019) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2020 - 2020) -> wellington lions (2020 - 2020) -> hurricanes (2021 - 2021) -> wellington lions (2021 - 2021) -> hurricanes (2021 - 2022) -> edimbourg rugby (2022 - 2026)
+hurricanes (2015 - 2022) -> wellington lions (2019 - 2021) -> edimbourg rugby (2022 - )

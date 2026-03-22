@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-burke"
 ---
 
 ## キャリア遍歴
-glasgow warriors (2023 - 2026)
+glasgow warriors (2023 - )

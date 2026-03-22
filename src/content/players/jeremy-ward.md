@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeremy-ward"
 ---
 
 ## キャリア遍歴
-Southern Kings (2015 - 2016) -> Sharks (2016 - 2022) -> Stade Français Paris Rugby (2022 - 2026)
+Southern Kings (2015 - 2016) -> Sharks (2016 - 2022) -> Stade Français Paris Rugby (2022 - )

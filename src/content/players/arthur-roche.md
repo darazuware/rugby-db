@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arthur-roche"
 ---
 
 ## キャリア遍歴
-Club Sportif Nuiton (2010 - 2012) -> Trois Ilets Rugby Club (2014 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2023) -> Racing 92 (2023 - 2026)
+Club Sportif Nuiton (2010 - 2012) -> Trois Ilets Rugby Club (2014 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2023) -> Racing 92 (2023 - )

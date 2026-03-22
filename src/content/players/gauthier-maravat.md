@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gauthier-maravat"
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2015 - 2022) -> Castres Olympique (2022 - 2026)
+Sporting Union Agenais (2015 - 2022) -> Castres Olympique (2022 - )

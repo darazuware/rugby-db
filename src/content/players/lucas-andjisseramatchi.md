@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-andjisseramatchi"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2024) -> Stade Rochelais (2024 - 2026)
+Rugby Club Massy Essonne (2014 - 2024) -> Stade Rochelais (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vernon-matongo"
 ---
 
 ## キャリア遍歴
-western province (2022 - 2024) -> stormers (2024 - 2026)
+western province (2022 - 2024) -> stormers (2024 - )

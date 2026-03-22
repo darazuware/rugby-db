@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-ecochard"
 ---
 
 ## キャリア遍歴
-Racing Club Narbonnais (2008 - 2009) -> Union Sportive Arlequins Perpignanais (2009 - 2026)
+Racing Club Narbonnais (2008 - 2009) -> Union Sportive Arlequins Perpignanais (2009 - )

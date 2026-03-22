@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/celimpilo-gumede"
 ---
 
 ## キャリア遍歴
-sharks (2019 - 2023) -> bulls (2023 - 2026)
+sharks (2019 - 2023) -> bulls (2023 - )

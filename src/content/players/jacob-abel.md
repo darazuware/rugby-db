@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484628"
 ---
 
 ## キャリア遍歴
-ウェスタン・フォース (2019 - 2020) -> Gordon Rugby Football Club (2020 - 2022) -> マツダスカイアクティブズ広島 (2022 - )
+ウェスタン・フォース (2019 - 2020) -> Gordon Rugby Football Club (2020 - 2022) -> マツダスカイアクティブズ広島 (2022)

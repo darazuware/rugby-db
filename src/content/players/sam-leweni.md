@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-leweni"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2023 - 2024) -> Edimbourg Rugby (2024 - 2026)
+Watsonian Rugby Club (2023 - 2024) -> Edimbourg Rugby (2024 - )

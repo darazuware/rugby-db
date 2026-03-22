@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-daly"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2017 - 2025) -> Western Force (2024 - )
+Munster Rugby (2017 - ) -> Western Force (2024)

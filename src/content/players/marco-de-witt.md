@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marco-de-witt"
 ---
 
 ## キャリア遍歴
-sharks (2023 - 2023) -> griquas (2023 - 2023) -> sharks (2024 - 2024) -> griquas (2024 - 2025) -> ospreys (2025 - 2026)
+sharks (2023 - 2024) -> griquas (2023 - ) -> ospreys (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-woodman"
 ---
 
 ## キャリア遍歴
-dragons rfc (2020 - 2026)
+dragons rfc (2020 - )

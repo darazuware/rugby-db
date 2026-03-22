@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlie-savala"
 ---
 
 ## キャリア遍歴
-Sydney Roosters (2019 - 2020) -> Edimbourg Rugby (2020 - 2023) -> Northampton Saints (2023 - 2023) -> Edimbourg Rugby (2024 - 2024) -> Northampton Saints (2024 - 2025) -> Glasgow Warriors (2025 - 2026)
+Sydney Roosters (2019 - 2020) -> Edimbourg Rugby (2020 - 2024) -> Northampton Saints (2023 - ) -> Glasgow Warriors (2025 - )

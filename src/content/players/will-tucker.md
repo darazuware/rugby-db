@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-tucker"
 ---
 
 ## キャリア遍歴
-Canterbury (2017 - 2019) -> Highlanders (2019 - 2024) -> Otago (2019 - 2025) -> Rugby United New-York (2021 - 2022) -> Hurricanes (2024 - 2025) -> AZ-COM Maruwa Momotaro's (2025 - 2026) -> Crusaders (2025 - )
+Canterbury (2017 - 2019) -> Highlanders (2019 - 2024) -> Otago (2019 - ) -> Rugby United New-York (2021 - 2022) -> Hurricanes (2024 - ) -> AZ-COM Maruwa Momotaro's (2025 - ) -> Crusaders (2025 - )

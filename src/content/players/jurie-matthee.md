@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jurie-matthee"
 ---
 
 ## キャリア遍歴
-western province (2022 - 2023) -> stormers (2023 - 2026)
+western province (2022 - 2023) -> stormers (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484515"
 ---
 
 ## キャリア遍歴
-日野RD (2019 - 2023) -> Kamaishi Seawaves (2023 - )
+日野RD (2019 - 2023) -> Kamaishi Seawaves (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/taha-kemara"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2021 - 2024) -> Crusaders (2022 - )
+Waikato Mooloos (2021 - 2024) -> Crusaders (2022)

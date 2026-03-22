@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-morgan"
 ---
 
 ## キャリア遍歴
-Ospreys (2018 - 2026)
+Ospreys (2018 - )

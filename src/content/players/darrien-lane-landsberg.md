@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/darrien-lane-landsberg"
 ---
 
 ## キャリア遍歴
-Golden Lions (2017 - 2019) -> Pumas (2019 - 2022) -> Lions Rugby (2022 - 2026)
+Golden Lions (2017 - 2019) -> Pumas (2019 - 2022) -> Lions Rugby (2022 - )

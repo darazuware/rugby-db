@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-warren"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2018 - 2021) -> ospreys (2021 - 2026)
+cardiff rugby (2018 - 2021) -> ospreys (2021 - )

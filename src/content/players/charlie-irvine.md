@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlie-irvine"
 ---
 
 ## キャリア遍歴
-queen's university (2022 - 2023) -> ulster rugby (2023 - 2026)
+queen's university (2022 - 2023) -> ulster rugby (2023 - )

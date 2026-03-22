@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/renzo-du-plessis"
 ---
 
 ## キャリア遍歴
-golden lions (2022 - 2023) -> lions rugby (2023 - 2026)
+golden lions (2022 - 2023) -> lions rugby (2023 - )

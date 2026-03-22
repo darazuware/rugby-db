@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-le-brun"
 ---
 
 ## キャリア遍歴
-RC Hyères Carqueiranne La Crau (2007 - 2015) -> Rugby Club Toulonnais (2015 - 2020) -> Castres Olympique (2020 - 2026)
+RC Hyères Carqueiranne La Crau (2007 - 2015) -> Rugby Club Toulonnais (2015 - 2020) -> Castres Olympique (2020 - )

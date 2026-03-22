@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-murphy"
 ---
 
 ## キャリア遍歴
-shannon rfc (2023 - 2024) -> munster rugby (2024 - 2026)
+shannon rfc (2023 - 2024) -> munster rugby (2024 - )

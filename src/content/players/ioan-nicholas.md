@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ioan-nicholas"
 ---
 
 ## キャリア遍歴
-scarlets (2015 - 2017) -> benetton rugby trévise (2017 - 2017) -> scarlets (2018 - 2018) -> benetton rugby trévise (2018 - 2018) -> scarlets (2018 - 2026)
+scarlets (2015 - ) -> benetton rugby trévise (2017 - 2018)

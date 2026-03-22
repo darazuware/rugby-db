@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/keke-morabe"
 ---
 
 ## キャリア遍歴
-northern free state griffons (2017 - 2019) -> western province (2021 - 2022) -> stormers (2022 - 2026)
+northern free state griffons (2017 - 2019) -> western province (2021 - 2022) -> stormers (2022 - )

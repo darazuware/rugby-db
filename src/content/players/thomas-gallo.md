@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-gallo"
 ---
 
 ## キャリア遍歴
-Yacare XV (2019 - 2020) -> Benetton Rugby Trévise (2020 - 2026)
+Yacare XV (2019 - 2020) -> Benetton Rugby Trévise (2020 - )

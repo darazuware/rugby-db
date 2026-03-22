@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/anthony-bouthier"
 ---
 
 ## キャリア遍歴
-RC Pouillon (2004 - 2011) -> US Dax Rugby Landes (2011 - 2014) -> Rugby Club Vannes (2014 - 2019) -> Montpellier Hérault Rugby (2019 - 2025) -> Rugby Club Vannes (2025 - 2026)
+RC Pouillon (2004 - 2011) -> US Dax Rugby Landes (2011 - 2014) -> Rugby Club Vannes (2014 - 2019) -> Montpellier Hérault Rugby (2019 - ) -> Rugby Club Vannes (2025 - )

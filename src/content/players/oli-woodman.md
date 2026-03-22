@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oli-woodman"
 ---
 
 ## キャリア遍歴
-dragons rfc (2023 - 2026)
+dragons rfc (2023 - )

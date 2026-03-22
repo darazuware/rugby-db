@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-graou"
 ---
 
 ## キャリア遍歴
-Rugby Club Auch (2004 - 2017) -> Union Sportive Montalbanaise (2017 - 2021) -> Sporting Union Agenais (2021 - 2022) -> Stade Toulousain (2022 - 2026)
+Rugby Club Auch (2004 - 2017) -> Union Sportive Montalbanaise (2017 - 2021) -> Sporting Union Agenais (2021 - 2022) -> Stade Toulousain (2022 - )

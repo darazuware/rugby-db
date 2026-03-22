@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/juan-bautista-pedemonte"
 ---
 
 ## キャリア遍歴
-Santiago Lawn Tennis Club (2018 - 2019) -> Jaguares (2019 - 2020) -> Jaguares XV (2021 - 2022) -> Rugby Club Vannes (2022 - 2026)
+Santiago Lawn Tennis Club (2018 - 2019) -> Jaguares (2019 - 2020) -> Jaguares XV (2021 - 2022) -> Rugby Club Vannes (2022 - )

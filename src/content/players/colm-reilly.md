@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/colm-reilly"
 ---
 
 ## キャリア遍歴
-buccaneers rfc (2019 - 2020) -> connacht rugby (2020 - 2026)
+buccaneers rfc (2019 - 2020) -> connacht rugby (2020 - )

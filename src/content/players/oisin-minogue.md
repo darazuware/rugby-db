@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oisin-minogue"
 ---
 
 ## キャリア遍歴
-shannon rfc (2024 - 2025) -> munster rugby (2025 - 2026)
+shannon rfc (2024 - ) -> munster rugby (2025 - )

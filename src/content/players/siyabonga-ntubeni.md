@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siyabonga-ntubeni"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2024) -> Sharks (2024 - 2024) -> Stormers (2024 - 2024) -> Sharks (2025 - 2025) -> Stormers (2025 - 2026)
+Stormers (2013 - ) -> Sharks (2024 - )

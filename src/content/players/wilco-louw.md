@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wilco-louw"
 ---
 
 ## キャリア遍歴
-stormers (2014 - 2019) -> rugby club toulonnais (2019 - 2019) -> harlequins (2019 - 2019) -> stormers (2020 - 2020) -> rugby club toulonnais (2020 - 2020) -> harlequins (2020 - 2023) -> bulls (2023 - 2026)
+stormers (2014 - 2020) -> rugby club toulonnais (2019 - 2020) -> harlequins (2019 - 2023) -> bulls (2023 - )

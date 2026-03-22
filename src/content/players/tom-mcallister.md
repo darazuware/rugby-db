@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-mcallister"
 ---
 
 ## キャリア遍歴
-ballynahinch rfc (2024 - 2025) -> ulster rugby (2025 - 2026)
+ballynahinch rfc (2024 - ) -> ulster rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/scott-whitlock"
 ---
 
 ## キャリア遍歴
-aberavon rfc (2023 - 2024) -> ospreys (2024 - 2026)
+aberavon rfc (2023 - 2024) -> ospreys (2024 - )

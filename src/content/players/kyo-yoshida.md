@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484752"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2018 - 2023) -> サンウルブズ (2020 - 2020) -> Mitsubishi Sagamihara Dynaboars (2023 - )
+トヨタヴェルブリッツ (2018 - 2023) -> サンウルブズ (2020) -> Mitsubishi Sagamihara Dynaboars (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/miles-amatosero"
 ---
 
 ## キャリア遍歴
-club inconnu (2019 - 2020) -> ASM Clermont Auvergne (2020 - 2024) -> New South Wales Waratahs (2023 - )
+club inconnu (2019 - 2020) -> ASM Clermont Auvergne (2020 - 2024) -> New South Wales Waratahs (2023)

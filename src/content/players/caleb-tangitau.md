@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/caleb-tangitau"
 ---
 
 ## キャリア遍歴
-All Blacks 7's (2021 - 2022) -> Blues (2022 - 2024) -> Auckland (2022 - 2025) -> Highlanders (2024 - )
+All Blacks 7's (2021 - 2022) -> Blues (2022 - 2024) -> Auckland (2022 - ) -> Highlanders (2024)

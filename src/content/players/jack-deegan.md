@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-deegan"
 ---
 
 ## キャリア遍歴
-cistercian college roscrea (2022 - 2025) -> leinster rugby (2025 - 2026)
+cistercian college roscrea (2022 - ) -> leinster rugby (2025 - )

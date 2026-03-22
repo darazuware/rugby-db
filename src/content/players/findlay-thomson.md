@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/findlay-thomson"
 ---
 
 ## キャリア遍歴
-watsonian rugby club (2022 - 2024) -> edimbourg rugby (2024 - 2026)
+watsonian rugby club (2022 - 2024) -> edimbourg rugby (2024 - )

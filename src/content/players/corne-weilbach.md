@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corne-weilbach"
 ---
 
 ## キャリア遍歴
-Western Province (2021 - 2022) -> Blue Bulls (2022 - 2023) -> Western Province (2023 - 2024) -> Stormers (2024 - 2026)
+Western Province (2021 - 2024) -> Blue Bulls (2022 - 2023) -> Stormers (2024 - )

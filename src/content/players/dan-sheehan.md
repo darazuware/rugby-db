@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-sheehan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2019 - 2026)
+Leinster Rugby (2019 - )

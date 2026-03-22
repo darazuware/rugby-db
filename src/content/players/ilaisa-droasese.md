@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ilaisa-droasese"
 ---
 
 ## キャリア遍歴
-Brisbane City (2019 - 2020) -> Queensland Reds (2020 - 2022) -> Fijian Drua (2021 - )
+Brisbane City (2019 - 2020) -> Queensland Reds (2020 - 2022) -> Fijian Drua (2021)

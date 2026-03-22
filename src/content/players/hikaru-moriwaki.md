@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483972"
 ---
 
 ## キャリア遍歴
-Kobelco Kobe Steelers (2024 - )
+Kobelco Kobe Steelers (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-dodd"
 ---
 
 ## キャリア遍歴
-worcester warriors (2017 - 2022) -> coventry rugby (2022 - 2022) -> worcester warriors (2023 - 2023) -> coventry rugby (2023 - 2023) -> edimbourg rugby (2023 - 2026)
+worcester warriors (2017 - 2023) -> coventry rugby (2022 - 2023) -> edimbourg rugby (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484337"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2015 - )
+Tokyo Sungoliath (2015)

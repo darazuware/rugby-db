@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kitione-salawa-jr"
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2020 - 2021) -> Fijian Drua (2021 - )
+FIDJI 7's (2020 - 2021) -> Fijian Drua (2021)

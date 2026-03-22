@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-mcconnell"
 ---
 
 ## キャリア遍歴
-boroughmuir rfc (2021 - 2022) -> edimbourg rugby (2022 - 2026)
+boroughmuir rfc (2021 - 2022) -> edimbourg rugby (2022 - )

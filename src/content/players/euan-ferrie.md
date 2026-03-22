@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/euan-ferrie"
 ---
 
 ## キャリア遍歴
-glasgow hawks (2020 - 2021) -> boroughmuir rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)
+glasgow hawks (2020 - 2021) -> boroughmuir rfc (2021 - 2022) -> glasgow warriors (2022 - )

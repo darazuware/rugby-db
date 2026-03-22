@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stephen-perofeta"
 ---
 
 ## キャリア遍歴
-Blues (2016 - 2026) -> Taranaki Bulls (2019 - )
+Blues (2016 - ) -> Taranaki Bulls (2019)

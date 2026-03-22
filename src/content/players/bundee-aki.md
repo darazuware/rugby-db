@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bundee-aki"
 ---
 
 ## キャリア遍歴
-Chiefs (2013 - 2014) -> Connacht Rugby (2014 - 2026)
+Chiefs (2013 - 2014) -> Connacht Rugby (2014 - )

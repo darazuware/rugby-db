@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sione-ahio"
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2024) -> Chiefs (2023 - )
+Auckland (2020 - 2024) -> Chiefs (2023)

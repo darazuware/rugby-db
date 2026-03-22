@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-flynn"
 ---
 
 ## キャリア遍歴
-Galway Corinthians RFC (2023 - 2024) -> Connacht Rugby (2024 - 2026)
+Galway Corinthians RFC (2023 - 2024) -> Connacht Rugby (2024 - )

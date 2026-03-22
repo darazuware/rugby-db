@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-de-groot"
 ---
 
 ## キャリア遍歴
-Southland Stags (2018 - 2024) -> Highlanders (2019 - )
+Southland Stags (2018 - 2024) -> Highlanders (2019)

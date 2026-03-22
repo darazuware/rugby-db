@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oli-burrows"
 ---
 
 ## キャリア遍歴
-exeter chiefs (2020 - 2023) -> cornish pirates (2023 - 2023) -> exeter chiefs (2023 - 2023) -> cornish pirates (2024 - 2024) -> exeter chiefs (2024 - 2024) -> dragons rfc (2024 - 2026)
+exeter chiefs (2020 - 2024) -> cornish pirates (2023 - 2024) -> dragons rfc (2024 - )

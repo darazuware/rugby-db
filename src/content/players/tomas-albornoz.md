@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomas-albornoz"
 ---
 
 ## キャリア遍歴
-Tucumán Rugby Club (2015 - 2019) -> Jaguares (2019 - 2020) -> Jaguares XV (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2025) -> Rugby Club Toulonnais (2025 - 2025) -> Benetton Rugby Trévise (2026 - 2026) -> Rugby Club Toulonnais (2026 - 2026)
+Tucumán Rugby Club (2015 - 2019) -> Jaguares (2019 - 2020) -> Jaguares XV (2020 - 2021) -> Benetton Rugby Trévise (2021 - ) -> Rugby Club Toulonnais (2025 - )

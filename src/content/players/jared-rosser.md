@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jared-rosser"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2026)
+Dragons RFC (2017 - )

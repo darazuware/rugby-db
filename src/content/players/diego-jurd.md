@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/diego-jurd"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2011 - 2026)
+Stade Rochelais (2011 - )

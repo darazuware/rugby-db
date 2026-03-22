@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/edouard-junior-jabea-njocke"
 ---
 
 ## キャリア遍歴
-Sainte-Geneviève Sports Rugby (2012 - 2014) -> Rugby Club Massy Essonne (2016 - 2024) -> Racing 92 (2024 - 2026)
+Sainte-Geneviève Sports Rugby (2012 - 2014) -> Rugby Club Massy Essonne (2016 - 2024) -> Racing 92 (2024 - )

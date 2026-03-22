@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corey-toole"
 ---
 
 ## キャリア遍歴
-Aussie 7's (2021 - 2022) -> Brumbies (2022 - )
+Aussie 7's (2021 - 2022) -> Brumbies (2022)

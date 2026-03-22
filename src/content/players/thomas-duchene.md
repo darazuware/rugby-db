@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-duchene"
 ---
 
 ## キャリア遍歴
-RC Saint-Gènes-Champanelle (2011 - 2018) -> ASM Clermont Auvergne (2018 - 2025) -> Rugby Club Vannes (2025 - 2026)
+RC Saint-Gènes-Champanelle (2011 - 2018) -> ASM Clermont Auvergne (2018 - ) -> Rugby Club Vannes (2025 - )

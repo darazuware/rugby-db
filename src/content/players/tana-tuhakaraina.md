@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483489"
 ---
 
 ## キャリア遍歴
-ワイカト (2021 - 2023) -> 浦安D-Rocks (2024 - )
+ワイカト (2021 - 2023) -> 浦安D-Rocks (2024)

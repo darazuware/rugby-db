@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/steven-nel"
 ---
 
 ## キャリア遍歴
-blue bulls (2024 - 2025) -> bulls (2025 - 2026)
+blue bulls (2024 - ) -> bulls (2025 - )

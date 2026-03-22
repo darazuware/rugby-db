@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-jedrasiak"
 ---
 
 ## キャリア遍歴
-Rugby Athlétique Club Castelroussin (2004 - 2008) -> U.S. Tours (2008 - 2010) -> ASM Clermont Auvergne (2010 - 2024) -> Castres Olympique (2024 - 2026)
+Rugby Athlétique Club Castelroussin (2004 - 2008) -> U.S. Tours (2008 - 2010) -> ASM Clermont Auvergne (2010 - 2024) -> Castres Olympique (2024 - )

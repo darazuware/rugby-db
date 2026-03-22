@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathis-castro-ferreira"
 ---
 
 ## キャリア遍歴
-SO Maubourguet (2008 - 2018) -> Stade Toulousain (2018 - 2026)
+SO Maubourguet (2008 - 2018) -> Stade Toulousain (2018 - )

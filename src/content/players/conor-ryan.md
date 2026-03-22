@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-ryan"
 ---
 
 ## キャリア遍歴
-University College Cork (2024 - 2025) -> Munster Rugby (2025 - 2026)
+University College Cork (2024 - ) -> Munster Rugby (2025 - )

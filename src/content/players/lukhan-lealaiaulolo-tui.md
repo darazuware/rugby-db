@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lukhan-lealaiaulolo-tui"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2015 - 2026) -> Northampton Saints (2022 - 2023) -> Melbourne Rebels (2023 - )
+Queensland Reds (2015 - ) -> Northampton Saints (2022 - 2023) -> Melbourne Rebels (2023)

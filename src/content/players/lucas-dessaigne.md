@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-dessaigne"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2014 - 2026)
+ASM Clermont Auvergne (2014 - )

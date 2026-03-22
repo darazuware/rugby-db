@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arthur-iturria"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2011 - 2012) -> ASM Clermont Auvergne (2012 - 2023) -> Aviron Bayonnais (2023 - 2026)
+Aviron Bayonnais (2011 - 2012) -> ASM Clermont Auvergne (2012 - 2023) -> Aviron Bayonnais (2023 - )

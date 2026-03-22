@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/osian-williams"
 ---
 
 ## キャリア遍歴
-scarlets (2025 - 2026)
+scarlets (2025 - )

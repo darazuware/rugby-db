@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/glen-vaihu"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2019 - 2024) -> AZ-COM Maruwa Momotaro's (2024 - 2025) -> Moana Pasifika (2025 - )
+Melbourne Rebels (2019 - 2024) -> AZ-COM Maruwa Momotaro's (2024 - ) -> Moana Pasifika (2025 - )

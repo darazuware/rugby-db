@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-walsh"
 ---
 
 ## キャリア遍歴
-manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2019) -> exeter chiefs (2019 - 2019) -> new south wales waratahs (2020 - 2020) -> exeter chiefs (2020 - 2022) -> ospreys (2022 - 2026)
+manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2020) -> exeter chiefs (2019 - 2022) -> ospreys (2022 - )

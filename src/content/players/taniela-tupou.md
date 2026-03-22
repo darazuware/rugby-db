@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/taniela-tupou"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2015 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Racing 92 (2025 - 2026)
+Queensland Reds (2015 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - ) -> Racing 92 (2025 - )

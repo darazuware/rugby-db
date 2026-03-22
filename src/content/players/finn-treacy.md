@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finn-treacy"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2023 - 2026)
+Connacht Rugby (2023 - )

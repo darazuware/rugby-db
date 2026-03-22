@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-o-connor"
 ---
 
 ## キャリア遍歴
-presentation brothers cork (2022 - 2023) -> munster rugby (2023 - 2026)
+presentation brothers cork (2022 - 2023) -> munster rugby (2023 - )

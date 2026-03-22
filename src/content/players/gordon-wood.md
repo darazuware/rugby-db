@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gordon-wood"
 ---
 
 ## キャリア遍歴
-garryowen fc (2023 - 2024) -> munster rugby (2024 - 2026)
+garryowen fc (2023 - 2024) -> munster rugby (2024 - )

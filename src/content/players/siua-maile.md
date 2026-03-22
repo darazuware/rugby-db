@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siua-maile"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2019 - 2021) -> Hurricanes (2021 - 2021) -> Manawatu Turbos (2021 - 2021) -> Hurricanes (2022 - 2022) -> Manawatu Turbos (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+Manawatu Turbos (2019 - 2022) -> Hurricanes (2021 - 2022) -> Benetton Rugby Trévise (2022 - )

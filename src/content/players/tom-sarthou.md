@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-sarthou"
 ---
 
 ## キャリア遍歴
-Amicale Rugby de Marans (2011 - 2016) -> Stade Rochelais (2016 - 2024) -> Rugby Club Vannes (2024 - 2026)
+Amicale Rugby de Marans (2011 - 2016) -> Stade Rochelais (2016 - 2024) -> Rugby Club Vannes (2024 - )

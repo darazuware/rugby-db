@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paolo-buonfiglio"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2019 - 2026)
+Zebre Parma (2019 - )

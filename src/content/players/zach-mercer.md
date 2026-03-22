@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zach-mercer"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2016 - 2021) -> Montpellier Hérault Rugby (2021 - 2023) -> Gloucester Rugby (2023 - 2025) -> Rugby Club Toulonnais (2025 - 2026)
+Bath Rugby (2016 - 2021) -> Montpellier Hérault Rugby (2021 - 2023) -> Gloucester Rugby (2023 - ) -> Rugby Club Toulonnais (2025 - )

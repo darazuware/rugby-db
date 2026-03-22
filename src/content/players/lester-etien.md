@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lester-etien"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2018) -> Stade Français Paris Rugby (2018 - 2026)
+Rugby Club Massy Essonne (2014 - 2018) -> Stade Français Paris Rugby (2018 - )

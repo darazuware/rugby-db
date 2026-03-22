@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordie-barrett"
 ---
 
 ## キャリア遍歴
-Hurricanes (2016 - 2026) -> Taranaki Bulls (2019 - 2020) -> Leinster Rugby (2024 - )
+Hurricanes (2016 - ) -> Taranaki Bulls (2019 - 2020) -> Leinster Rugby (2024)

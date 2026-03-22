@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484758"
 ---
 
 ## キャリア遍歴
-Queanbeyan Whites (2020 - 2025) -> ワラターズ (2022 - 2023) -> ヤクルトレビンズ戸田 (2025 - )
+Queanbeyan Whites (2020 - ) -> ワラターズ (2022 - 2023) -> ヤクルトレビンズ戸田 (2025 - )

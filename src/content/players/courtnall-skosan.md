@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/courtnall-skosan"
 ---
 
 ## キャリア遍歴
-lions rugby (2013 - 2021) -> northampton saints (2021 - 2023) -> stormers (2023 - 2026)
+lions rugby (2013 - 2021) -> northampton saints (2021 - 2023) -> stormers (2023 - )

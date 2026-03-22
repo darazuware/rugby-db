@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/boan-venter"
 ---
 
 ## キャリア遍歴
-central cheetahs (2018 - 2020) -> edimbourg rugby (2020 - 2026)
+central cheetahs (2018 - 2020) -> edimbourg rugby (2020 - )

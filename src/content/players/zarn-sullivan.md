@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zarn-sullivan"
 ---
 
 ## キャリア遍歴
-Auckland (2019 - 2024) -> Blues (2020 - 2026) -> Hawke's Bay Magpies (2024 - )
+Auckland (2019 - 2024) -> Blues (2020 - ) -> Hawke's Bay Magpies (2024)

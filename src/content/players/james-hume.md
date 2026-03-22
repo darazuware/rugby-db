@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-hume"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2018 - 2026)
+Ulster Rugby (2018 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cormac-izuchukwu"
 ---
 
 ## キャリア遍歴
-Old Wesley RFC (2019 - 2020) -> Ulster Rugby (2020 - 2026)
+Old Wesley RFC (2019 - 2020) -> Ulster Rugby (2020 - )

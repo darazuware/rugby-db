@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bronson-mills"
 ---
 
 ## キャリア遍歴
-Golden Lions (2022 - 2024) -> Lions Rugby (2024 - 2026)
+Golden Lions (2022 - 2024) -> Lions Rugby (2024 - )

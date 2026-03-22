@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/michael-milne"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2024) -> Munster Rugby (2024 - 2024) -> Leinster Rugby (2025 - 2025) -> Munster Rugby (2025 - 2026)
+Leinster Rugby (2018 - ) -> Munster Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sergeal-petersen"
 ---
 
 ## キャリア遍歴
-central cheetahs (2014 - 2018) -> stormers (2018 - 2022) -> shimizu koto blue sharks (2022 - 2023) -> bulls (2023 - 2026)
+central cheetahs (2014 - 2018) -> stormers (2018 - 2022) -> shimizu koto blue sharks (2022 - 2023) -> bulls (2023 - )

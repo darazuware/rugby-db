@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bradley-slater"
 ---
 
 ## キャリア遍歴
-Chiefs (2018 - 2025) -> Taranaki Bulls (2019 - 2025) -> Blues (2025 - )
+Chiefs (2018 - ) -> Taranaki Bulls (2019 - ) -> Blues (2025 - )

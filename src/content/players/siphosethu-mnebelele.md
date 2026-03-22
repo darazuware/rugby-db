@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siphosethu-mnebelele"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2024 - 2025) -> Bulls (2025 - 2026)
+Blue Bulls (2024 - ) -> Bulls (2025 - )

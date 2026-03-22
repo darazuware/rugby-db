@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/diego-appollis"
 ---
 
 ## キャリア遍歴
-bulls (2019 - 2020) -> pumas (2021 - 2023) -> sharks (2023 - 2026)
+bulls (2019 - 2020) -> pumas (2021 - 2023) -> sharks (2023 - )

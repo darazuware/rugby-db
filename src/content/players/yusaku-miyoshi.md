@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484836"
 ---
 
 ## キャリア遍歴
-Yokohama Canon Eagles (2021 - )
+Yokohama Canon Eagles (2021)

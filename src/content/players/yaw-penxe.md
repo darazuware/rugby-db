@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yaw-penxe"
 ---
 
 ## キャリア遍歴
-southern kings (2016 - 2020) -> sharks (2020 - 2026)
+southern kings (2016 - 2020) -> sharks (2020 - )

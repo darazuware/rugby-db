@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-baird"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2026)
+Leinster Rugby (2018 - )

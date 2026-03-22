@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-swart"
 ---
 
 ## キャリア遍歴
-blue bulls (2023 - 2025) -> bulls (2025 - 2026)
+blue bulls (2023 - ) -> bulls (2025 - )

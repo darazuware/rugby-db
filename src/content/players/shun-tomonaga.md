@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484592"
 ---
 
 ## キャリア遍歴
-日野RD (2019 - )
+日野RD (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-williams"
 ---
 
 ## キャリア遍歴
-northampton saints (2016 - 2019) -> scarlets (2019 - 2023) -> ampthill rugby (2023 - 2024) -> tuggeranong vikings (2024 - 2025) -> ospreys (2025 - 2026)
+northampton saints (2016 - 2019) -> scarlets (2019 - 2023) -> ampthill rugby (2023 - 2024) -> tuggeranong vikings (2024 - ) -> ospreys (2025 - )

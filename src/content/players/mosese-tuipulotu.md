@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mosese-tuipulotu"
 ---
 
 ## キャリア遍歴
-eastern suburbs rfc (2020 - 2022) -> new south wales waratahs (2022 - 2024) -> edimbourg rugby (2024 - 2026)
+eastern suburbs rfc (2020 - 2022) -> new south wales waratahs (2022 - 2024) -> edimbourg rugby (2024 - )

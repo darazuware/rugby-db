@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jefferson-poirot"
 ---
 
 ## キャリア遍歴
-US Lalinde (2004 - 2008) -> CA Brive Corrèze Limousin (2008 - 2012) -> Union Bordeaux-Bègles (2012 - 2026)
+US Lalinde (2004 - 2008) -> CA Brive Corrèze Limousin (2008 - 2012) -> Union Bordeaux-Bègles (2012 - )

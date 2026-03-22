@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484908"
 ---
 
 ## キャリア遍歴
-BlackRams Tokyo (2024 - 2024) -> Hawke's Bay Magpies (2025 - )
+BlackRams Tokyo (2024) -> Hawke's Bay Magpies (2025 - )

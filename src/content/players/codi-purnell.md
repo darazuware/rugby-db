@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/codi-purnell"
 ---
 
 ## キャリア遍歴
-bath rugby (2024 - 2025) -> dragons rfc (2025 - 2026)
+bath rugby (2024 - ) -> dragons rfc (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-mullan"
 ---
 
 ## キャリア遍歴
-blackrock college rfc (2023 - 2025) -> leinster rugby (2025 - 2026)
+blackrock college rfc (2023 - ) -> leinster rugby (2025 - )

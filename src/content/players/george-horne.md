@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-horne"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2016 - 2026)
+Glasgow Warriors (2016 - )

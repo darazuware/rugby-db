@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kalani-thomas"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2019 - 2026) -> Auckland (2022 - )
+Queensland Reds (2019 - ) -> Auckland (2022)

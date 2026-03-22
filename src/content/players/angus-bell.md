@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-bell"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2025) -> Ulster Rugby (2025 - 2026)
+New South Wales Waratahs (2018 - ) -> Ulster Rugby (2025 - )

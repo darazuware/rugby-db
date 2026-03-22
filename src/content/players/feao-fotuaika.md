@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/feao-fotuaika"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2018 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2025) -> Brumbies (2024 - 2025) -> Western Force (2025 - )
+Queensland Reds (2018 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - ) -> Brumbies (2024 - ) -> Western Force (2025 - )

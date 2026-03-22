@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ngani-laumape"
 ---
 
 ## キャリア遍歴
-Hurricanes (2015 - 2021) -> Stade Français Paris Rugby (2021 - 2022) -> Kobelco Kobe Steelers (2022 - 2025) -> Manawatu Turbos (2024 - 2025) -> Moana Pasifika (2025 - )
+Hurricanes (2015 - 2021) -> Stade Français Paris Rugby (2021 - 2022) -> Kobelco Kobe Steelers (2022 - ) -> Manawatu Turbos (2024 - ) -> Moana Pasifika (2025 - )

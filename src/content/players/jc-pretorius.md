@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jc-pretorius"
 ---
 
 ## キャリア遍歴
-af. sud 7's (2018 - 2022) -> lions rugby (2022 - 2022) -> af. sud 7's (2023 - 2023) -> lions rugby (2023 - 2026)
+af. sud 7's (2018 - 2023) -> lions rugby (2022 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tadhg-beirne"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2015 - 2016) -> Scarlets (2016 - 2018) -> Munster Rugby (2018 - 2026)
+Leinster Rugby (2015 - 2016) -> Scarlets (2016 - 2018) -> Munster Rugby (2018 - )

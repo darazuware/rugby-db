@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rodrigo-martinez"
 ---
 
 ## キャリア遍歴
-dogos xv (2019 - 2020) -> yacare xv (2020 - 2021) -> wasps (2021 - 2023) -> dragons rfc (2023 - 2026)
+dogos xv (2019 - 2020) -> yacare xv (2020 - 2021) -> wasps (2021 - 2023) -> dragons rfc (2023 - )

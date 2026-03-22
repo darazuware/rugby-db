@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/scott-barrett"
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2026) -> Taranaki Bulls (2020 - )
+Crusaders (2013 - ) -> Taranaki Bulls (2020)

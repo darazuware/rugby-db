@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-carbonneau"
 ---
 
 ## キャリア遍歴
-Avenir Bizanos (2009 - 2013) -> CA Brive Corrèze Limousin (2013 - 2025) -> Racing 92 (2025 - 2026)
+Avenir Bizanos (2009 - 2013) -> CA Brive Corrèze Limousin (2013 - ) -> Racing 92 (2025 - )

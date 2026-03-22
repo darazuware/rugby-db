@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-nowell"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2013 - 2023) -> Stade Rochelais (2023 - 2026)
+Exeter Chiefs (2013 - 2023) -> Stade Rochelais (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483788"
 ---
 
 ## キャリア遍歴
-ウェスタン・フォース (2023 - 2024) -> Wests Scarborough Rugby Union (2024 - 2025) -> クリタウォーターガッシュ昭島 (2025 - )
+ウェスタン・フォース (2023 - 2024) -> Wests Scarborough Rugby Union (2024 - ) -> クリタウォーターガッシュ昭島 (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rob-carmichael"
 ---
 
 ## キャリア遍歴
-leicester tigers (2022 - 2023) -> edimbourg rugby (2023 - 2023) -> leicester tigers (2024 - 2024) -> edimbourg rugby (2024 - 2026)
+leicester tigers (2022 - 2024) -> edimbourg rugby (2023 - )

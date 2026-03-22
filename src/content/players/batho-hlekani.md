@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/batho-hlekani"
 ---
 
 ## キャリア遍歴
-natal sharks (2023 - 2024) -> sharks (2024 - 2025) -> lions rugby (2025 - 2025) -> sharks (2026 - 2026) -> lions rugby (2026 - 2026)
+natal sharks (2023 - 2024) -> sharks (2024 - ) -> lions rugby (2025 - )

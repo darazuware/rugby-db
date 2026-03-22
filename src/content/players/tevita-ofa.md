@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tevita-ofa"
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2021 - 2025) -> Moana Pasifika (2024 - )
+Counties Manukau Steelers (2021 - ) -> Moana Pasifika (2024)

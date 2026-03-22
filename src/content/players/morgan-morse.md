@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morgan-morse"
 ---
 
 ## キャリア遍歴
-ospreys (2021 - 2026)
+ospreys (2021 - )

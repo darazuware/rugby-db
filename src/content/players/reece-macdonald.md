@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483530"
 ---
 
 ## キャリア遍歴
-New England Free Jacks (2022 - 2024) -> マナワツ (2023 - 2024) -> RFC Los Angeles (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )
+New England Free Jacks (2022 - 2024) -> マナワツ (2023 - 2024) -> RFC Los Angeles (2024 - ) -> NECグリーンロケッツ東葛 (2025 - )

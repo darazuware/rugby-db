@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/robert-hunt"
 ---
 
 ## キャリア遍歴
-leopards (2016 - 2019) -> bulls (2021 - 2024) -> central cheetahs (2024 - 2025) -> dragons rfc (2025 - 2026)
+leopards (2016 - 2019) -> bulls (2021 - 2024) -> central cheetahs (2024 - ) -> dragons rfc (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaac-aedo-kailea"
 ---
 
 ## キャリア遍歴
-Université du Queensland (2019 - 2020) -> Melbourne Rebels (2020 - 2024) -> New South Wales Waratahs (2024 - )
+Université du Queensland (2019 - 2020) -> Melbourne Rebels (2020 - 2024) -> New South Wales Waratahs (2024)

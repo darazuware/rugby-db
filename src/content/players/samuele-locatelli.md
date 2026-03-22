@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/samuele-locatelli"
 ---
 
 ## キャリア遍歴
-rugby viadana 1970 (2021 - 2024) -> zebre parma (2024 - 2024) -> rugby viadana 1970 (2024 - 2024) -> zebre parma (2025 - 2025) -> rugby viadana 1970 (2025 - 2025) -> zebre parma (2025 - 2026)
+rugby viadana 1970 (2021 - ) -> zebre parma (2024 - )

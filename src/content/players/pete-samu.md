@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pete-samu"
 ---
 
 ## キャリア遍歴
-Crusaders (2015 - 2018) -> Brumbies (2018 - 2023) -> Union Bordeaux-Bègles (2023 - 2025) -> New South Wales Waratahs (2025 - )
+Crusaders (2015 - 2018) -> Brumbies (2018 - 2023) -> Union Bordeaux-Bègles (2023 - ) -> New South Wales Waratahs (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nick-frost"
 ---
 
 ## キャリア遍歴
-Canberra Vikings (2018 - 2019) -> Brumbies (2019 - )
+Canberra Vikings (2018 - 2019) -> Brumbies (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yestyn-cook"
 ---
 
 ## キャリア遍歴
-scarlets (2024 - 2026)
+scarlets (2024 - )

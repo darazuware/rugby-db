@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alfred-parisien"
 ---
 
 ## キャリア遍歴
-CA Périgueux Dordogne (2006 - 2016) -> Sporting Union Agenais (2016 - 2018) -> Lyon Olympique Universitaire Rugby (2018 - 2026)
+CA Périgueux Dordogne (2006 - 2016) -> Sporting Union Agenais (2016 - 2018) -> Lyon Olympique Universitaire Rugby (2018 - )

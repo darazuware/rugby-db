@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-ahern"
 ---
 
 ## キャリア遍歴
-munster rugby (2020 - 2026)
+munster rugby (2020 - )

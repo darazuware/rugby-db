@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cristian-ojovan"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (2016 - 2017) -> Stade Aurillacois Cantal Auvergne (2017 - 2020) -> ASM Clermont Auvergne (2020 - 2026)
+Section Paloise Béarn Pyrénées (2016 - 2017) -> Stade Aurillacois Cantal Auvergne (2017 - 2020) -> ASM Clermont Auvergne (2020 - )

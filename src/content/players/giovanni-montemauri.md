@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-montemauri"
 ---
 
 ## キャリア遍歴
-stade français paris rugby (2019 - 2020) -> lazio (2020 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - 2026)
+stade français paris rugby (2019 - 2020) -> lazio (2020 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - )

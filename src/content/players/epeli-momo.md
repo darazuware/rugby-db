@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/epeli-momo"
 ---
 
 ## キャリア遍歴
-Club fidjien (2019 - 2020) -> Union Sportive Montalbanaise (2020 - 2023) -> Fijian Drua (2023 - )
+Club fidjien (2019 - 2020) -> Union Sportive Montalbanaise (2020 - 2023) -> Fijian Drua (2023)

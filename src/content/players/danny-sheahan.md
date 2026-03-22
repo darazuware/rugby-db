@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/danny-sheahan"
 ---
 
 ## キャリア遍歴
-University College Cork (2022 - 2023) -> Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+University College Cork (2022 - 2023) -> Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - )

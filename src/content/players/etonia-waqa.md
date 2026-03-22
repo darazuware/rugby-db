@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/etonia-waqa"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2021 - 2023) -> Fijian Drua (2022 - )
+Bay of Plenty Steamers (2021 - 2023) -> Fijian Drua (2022)

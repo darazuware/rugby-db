@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/albertus-de-wet"
 ---
 
 ## キャリア遍歴
-stormers (2017 - 2025) -> bulls (2025 - 2026)
+stormers (2017 - ) -> bulls (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rob-valetini"
 ---
 
 ## キャリア遍歴
-Brumbies (2017 - )
+Brumbies (2017)

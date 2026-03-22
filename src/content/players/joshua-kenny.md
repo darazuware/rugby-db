@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joshua-kenny"
 ---
 
 ## キャリア遍歴
-leinster rugby (2025 - 2026)
+leinster rugby (2025 - )

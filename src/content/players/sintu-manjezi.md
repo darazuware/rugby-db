@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sintu-manjezi"
 ---
 
 ## キャリア遍歴
-southern kings (2015 - 2016) -> central cheetahs (2018 - 2019) -> bulls (2019 - 2019) -> central cheetahs (2020 - 2020) -> bulls (2020 - 2022) -> glasgow warriors (2022 - 2024) -> bulls (2024 - 2026)
+southern kings (2015 - 2016) -> central cheetahs (2018 - 2020) -> bulls (2019 - 2022) -> glasgow warriors (2022 - 2024) -> bulls (2024 - )

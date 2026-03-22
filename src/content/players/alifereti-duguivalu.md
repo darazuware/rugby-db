@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alifereti-duguivalu"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2017 - 2026)
+Union Sportive Arlequins Perpignanais (2017 - )

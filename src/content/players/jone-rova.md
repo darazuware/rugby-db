@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jone-rova"
 ---
 
 ## キャリア遍歴
-Canterbury (2021 - 2025) -> Crusaders (2023 - 2024) -> Hurricanes (2024 - )
+Canterbury (2021 - ) -> Crusaders (2023 - 2024) -> Hurricanes (2024)

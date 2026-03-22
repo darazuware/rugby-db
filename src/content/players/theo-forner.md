@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-forner"
 ---
 
 ## キャリア遍歴
-Espira-de-l'Agly, Baixas et Peyrestortes (2006 - 2017) -> JO Prades Conflent Canigou (2017 - 2018) -> US Thuirnoise (2018 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - 2026)
+Baixas et Peyrestortes (2006 - 2017) -> JO Prades Conflent Canigou (2017 - 2018) -> US Thuirnoise (2018 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - )

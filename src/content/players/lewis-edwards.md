@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lewis-edwards"
 ---
 
 ## キャリア遍歴
-ospreys (2024 - 2026)
+ospreys (2024 - )

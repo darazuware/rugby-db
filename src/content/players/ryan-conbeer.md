@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-conbeer"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2024) -> Ospreys (2024 - 2026)
+Scarlets (2017 - 2024) -> Ospreys (2024 - )

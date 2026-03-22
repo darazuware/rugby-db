@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/janick-tarrit"
 ---
 
 ## キャリア遍歴
-Belleville RC (2004 - 2013) -> U.S. Tours (2013 - 2014) -> Belleville RC (2014 - 2016) -> USON Nevers Rugby (2016 - 2022) -> Racing 92 (2022 - 2026)
+Belleville RC (2004 - 2016) -> U.S. Tours (2013 - 2014) -> USON Nevers Rugby (2016 - 2022) -> Racing 92 (2022 - )

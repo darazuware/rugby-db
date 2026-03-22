@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/esteban-abadie"
 ---
 
 ## キャリア遍歴
-Racing 92 (2009 - 2019) -> CA Brive Corrèze Limousin (2019 - 2023) -> Rugby Club Toulonnais (2023 - 2026)
+Racing 92 (2009 - 2019) -> CA Brive Corrèze Limousin (2019 - 2023) -> Rugby Club Toulonnais (2023 - )

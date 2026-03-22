@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cyril-baille"
 ---
 
 ## キャリア遍歴
-Cercle Amical Lannemezanais (2003 - 2009) -> Stade Toulousain (2009 - 2026)
+Cercle Amical Lannemezanais (2003 - 2009) -> Stade Toulousain (2009 - )

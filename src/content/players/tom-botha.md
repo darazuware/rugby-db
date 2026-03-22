@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-botha"
 ---
 
 ## キャリア遍歴
-southern kings (2015 - 2016) -> central cheetahs (2016 - 2018) -> ospreys (2018 - 2026)
+southern kings (2015 - 2016) -> central cheetahs (2016 - 2018) -> ospreys (2018 - )

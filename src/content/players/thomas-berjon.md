@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-berjon"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2010 - 2026)
+Stade Rochelais (2010 - )

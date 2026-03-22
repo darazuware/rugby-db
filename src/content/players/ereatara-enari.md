@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ereatara-enari"
 ---
 
 ## キャリア遍歴
-Canterbury (2016 - 2020) -> Crusaders (2016 - 2021) -> Hawke's Bay Magpies (2020 - 2025) -> Moana Pasifika (2021 - 2024) -> Hurricanes (2024 - )
+Canterbury (2016 - 2020) -> Crusaders (2016 - 2021) -> Hawke's Bay Magpies (2020 - ) -> Moana Pasifika (2021 - 2024) -> Hurricanes (2024)

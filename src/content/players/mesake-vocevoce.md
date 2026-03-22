@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mesake-vocevoce"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2023 - )
+Fijian Drua (2023)

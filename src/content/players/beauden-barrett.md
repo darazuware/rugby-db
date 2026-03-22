@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/beauden-barrett"
 ---
 
 ## キャリア遍歴
-Hurricanes (2013 - 2019) -> Taranaki Bulls (2019 - 2020) -> Blues (2019 - 2026) -> Tokyo Sungoliath (2020 - 2021) -> Toyota Verblitz (2023 - )
+Hurricanes (2013 - 2019) -> Taranaki Bulls (2019 - 2020) -> Blues (2019 - ) -> Tokyo Sungoliath (2020 - 2021) -> Toyota Verblitz (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-grover"
 ---
 
 ## キャリア遍歴
-Saint Ignatius' College Riverview (2024 - 2025) -> New South Wales Waratahs (2025 - )
+Saint Ignatius' College Riverview (2024 - ) -> New South Wales Waratahs (2025 - )

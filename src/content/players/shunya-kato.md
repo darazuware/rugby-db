@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484912"
 ---
 
 ## キャリア遍歴
-Christchurch Football Club (2024 - 2025) -> ルリーロ福岡 (2025 - )
+Christchurch Football Club (2024 - ) -> ルリーロ福岡 (2025 - )

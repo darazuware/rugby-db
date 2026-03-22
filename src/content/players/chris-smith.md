@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/chris-smith"
 ---
 
 ## キャリア遍歴
-bulls (2019 - 2024) -> oyonnax rugby (2024 - 2025) -> lions rugby (2025 - 2026)
+bulls (2019 - 2024) -> oyonnax rugby (2024 - ) -> lions rugby (2025 - )

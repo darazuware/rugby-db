@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tyrel-lomax"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2016 - 2017) -> Highlanders (2017 - 2019) -> Tasman Mako (2019 - 2021) -> Hurricanes (2019 - )
+Melbourne Rebels (2016 - 2017) -> Highlanders (2017 - 2019) -> Tasman Mako (2019 - 2021) -> Hurricanes (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tapiwa-mafura"
 ---
 
 ## キャリア遍歴
-pumas (2019 - 2022) -> central cheetahs (2022 - 2024) -> lions rugby (2024 - 2026)
+pumas (2019 - 2022) -> central cheetahs (2022 - 2024) -> lions rugby (2024 - )

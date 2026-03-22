@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484832"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2018 - 2021) -> Yokohama Canon Eagles (2021 - )
+Tokyo Sungoliath (2018 - 2021) -> Yokohama Canon Eagles (2021)

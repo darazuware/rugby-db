@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-mcalpine"
 ---
 
 ## キャリア遍歴
-watsonian rugby club (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+watsonian rugby club (2023 - 2024) -> edimbourg rugby (2024 - )

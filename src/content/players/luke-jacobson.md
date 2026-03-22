@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-jacobson"
 ---
 
 ## キャリア遍歴
-Chiefs (2017 - 2026) -> Waikato Mooloos (2019 - )
+Chiefs (2017 - ) -> Waikato Mooloos (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/caleb-clarke"
 ---
 
 ## キャリア遍歴
-Blues (2017 - 2026) -> Auckland (2019 - )
+Blues (2017 - ) -> Auckland (2019)

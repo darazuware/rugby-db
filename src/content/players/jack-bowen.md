@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-bowen"
 ---
 
 ## キャリア遍歴
-Eastern Suburbs RFC (2021 - 2022) -> New South Wales Waratahs (2022 - )
+Eastern Suburbs RFC (2021 - 2022) -> New South Wales Waratahs (2022)

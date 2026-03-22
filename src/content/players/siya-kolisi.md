@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siya-kolisi"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2020) -> Sharks (2020 - 2023) -> Racing 92 (2023 - 2024) -> Sharks (2024 - 2024) -> Racing 92 (2025 - 2025) -> Sharks (2025 - 2026)
+Stormers (2013 - 2020) -> Sharks (2020 - ) -> Racing 92 (2023 - )

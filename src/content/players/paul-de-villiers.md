@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-de-villiers"
 ---
 
 ## キャリア遍歴
-western province (2021 - 2022) -> stormers (2022 - 2023) -> western province (2023 - 2024) -> stormers (2024 - 2026)
+western province (2021 - 2024) -> stormers (2022 - )

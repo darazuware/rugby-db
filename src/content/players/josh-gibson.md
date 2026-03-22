@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-gibson"
 ---
 
 ## キャリア遍歴
-Banbridge RFC (2024 - 2025) -> Ulster Rugby (2025 - 2026)
+Banbridge RFC (2024 - ) -> Ulster Rugby (2025 - )

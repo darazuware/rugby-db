@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/connor-boyle"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2019 - 2020) -> Edimbourg Rugby (2020 - 2026)
+Watsonian Rugby Club (2019 - 2020) -> Edimbourg Rugby (2020 - )

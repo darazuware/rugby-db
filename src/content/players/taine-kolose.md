@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/taine-kolose"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2022 - 2025) -> Chiefs (2025 - )
+Bay of Plenty Steamers (2022 - ) -> Chiefs (2025 - )

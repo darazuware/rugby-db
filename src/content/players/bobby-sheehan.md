@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bobby-sheehan"
 ---
 
 ## キャリア遍歴
-University College Dublin (2021 - 2025) -> Leinster Rugby (2025 - 2025) -> Lansdowne FC (2025 - 2025) -> Leinster Rugby (2026 - 2026) -> Lansdowne FC (2026 - 2026)
+University College Dublin (2021 - ) -> Leinster Rugby (2025 - ) -> Lansdowne FC (2025 - )

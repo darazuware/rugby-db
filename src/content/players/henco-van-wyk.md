@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henco-van-wyk"
 ---
 
 ## キャリア遍歴
-golden lions (2020 - 2021) -> lions rugby (2021 - 2026)
+golden lions (2020 - 2021) -> lions rugby (2021 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sebastian-de-klerk"
 ---
 
 ## キャリア遍歴
-pumas (2020 - 2023) -> bulls (2023 - 2026)
+pumas (2020 - 2023) -> bulls (2023 - )

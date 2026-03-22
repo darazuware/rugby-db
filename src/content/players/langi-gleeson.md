@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/langi-gleeson"
 ---
 
 ## キャリア遍歴
-Manly Marlins (2020 - 2021) -> New South Wales Waratahs (2021 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)
+Manly Marlins (2020 - 2021) -> New South Wales Waratahs (2021 - ) -> Montpellier Hérault Rugby (2025 - )

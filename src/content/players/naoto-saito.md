@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/naoto-saito"
 ---
 
 ## キャリア遍歴
-Waseda University (2018 - 2019) -> Sunwolves (2019 - 2020) -> Tokyo Sungoliath (2020 - 2024) -> Stade Toulousain (2024 - 2026)
+Waseda University (2018 - 2019) -> Sunwolves (2019 - 2020) -> Tokyo Sungoliath (2020 - 2024) -> Stade Toulousain (2024 - )

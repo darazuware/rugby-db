@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/veikoso-poloniati"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2020 - 2022) -> Moana Pasifika (2021 - 2026) -> Racing 92 (2022 - 2024) -> Aviron Bayonnais (2024 - )
+Manawatu Turbos (2020 - 2022) -> Moana Pasifika (2021 - ) -> Racing 92 (2022 - 2024) -> Aviron Bayonnais (2024)

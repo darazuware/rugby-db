@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/duhan-van-der-merwe"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2016) -> Montpellier Hérault Rugby (2016 - 2017) -> Edimbourg Rugby (2017 - 2021) -> Worcester Warriors (2021 - 2022) -> Edimbourg Rugby (2022 - 2022) -> Worcester Warriors (2023 - 2023) -> Edimbourg Rugby (2023 - 2026)
+Bulls (2015 - 2016) -> Montpellier Hérault Rugby (2016 - 2017) -> Edimbourg Rugby (2017 - ) -> Worcester Warriors (2021 - 2023)

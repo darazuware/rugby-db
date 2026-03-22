@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/atunaisa-sokobale"
 ---
 
 ## キャリア遍歴
-Castres Olympique (2023 - 2026)
+Castres Olympique (2023 - )

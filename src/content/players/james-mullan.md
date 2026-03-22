@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-mullan"
 ---
 
 ## キャリア遍歴
-Canterbury (2022 - 2024) -> Crusaders (2023 - 2024) -> Northland Taniwha (2024 - 2025) -> Blues (2024 - )
+Canterbury (2022 - 2024) -> Crusaders (2023 - 2024) -> Northland Taniwha (2024 - ) -> Blues (2024)

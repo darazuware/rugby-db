@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lewis-wells"
 ---
 
 ## キャリア遍歴
-linlithgow rfc (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+linlithgow rfc (2023 - 2024) -> edimbourg rugby (2024 - )

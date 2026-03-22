@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/warner-dearns"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2021 - 2025) -> Hurricanes (2025 - )
+Toshiba Brave Lupus Tokyo (2021 - ) -> Hurricanes (2025 - )

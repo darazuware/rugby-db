@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hassiem-pead"
 ---
 
 ## キャリア遍歴
-golden lions (2023 - 2025) -> lions rugby (2025 - 2026)
+golden lions (2023 - ) -> lions rugby (2025 - )

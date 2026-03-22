@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-melikidze"
 ---
 
 ## キャリア遍歴
-RC Rustavi Kharebi (2014 - 2015) -> Stade Français Paris Rugby (2015 - 2026)
+RC Rustavi Kharebi (2014 - 2015) -> Stade Français Paris Rugby (2015 - )

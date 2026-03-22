@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stravino-jacobs"
 ---
 
 ## キャリア遍歴
-bulls (2020 - 2026)
+bulls (2020 - )

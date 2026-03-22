@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-muncaster"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2018 - 2020) -> Edimbourg Rugby (2020 - 2026)
+Leicester Tigers (2018 - 2020) -> Edimbourg Rugby (2020 - )

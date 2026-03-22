@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-nicholson"
 ---
 
 ## キャリア遍歴
-leinster rugby (2022 - 2023) -> connacht rugby (2023 - 2026)
+leinster rugby (2022 - 2023) -> connacht rugby (2023 - )

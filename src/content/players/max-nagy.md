@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-nagy"
 ---
 
 ## キャリア遍歴
-Swansea RFC (2019 - 2020) -> Ospreys (2020 - 2020) -> Swansea RFC (2020 - 2020) -> Ospreys (2021 - 2021) -> Swansea RFC (2021 - 2021) -> Ospreys (2021 - 2026)
+Swansea RFC (2019 - 2021) -> Ospreys (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kade-banks"
 ---
 
 ## キャリア遍歴
-North Harbour (2019 - 2025) -> Blues (2023 - 2026) -> Hurricanes (2024 - )
+North Harbour (2019 - ) -> Blues (2023 - ) -> Hurricanes (2024)

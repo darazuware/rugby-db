@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ollie-blyth-lafferty"
 ---
 
 ## キャリア遍歴
-boroughmuir rfc (2022 - 2023) -> edimbourg rugby (2023 - 2026)
+boroughmuir rfc (2022 - 2023) -> edimbourg rugby (2023 - )

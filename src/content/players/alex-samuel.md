@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-samuel"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2020 - 2026)
+Glasgow Warriors (2020 - )

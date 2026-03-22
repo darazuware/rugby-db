@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/elrigh-louw"
 ---
 
 ## キャリア遍歴
-southern kings (2019 - 2019) -> bulls (2019 - 2019) -> southern kings (2020 - 2020) -> bulls (2020 - 2026)
+southern kings (2019 - 2020) -> bulls (2019 - )

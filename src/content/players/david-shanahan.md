@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-shanahan"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2013 - 2026)
+Ulster Rugby (2013 - )

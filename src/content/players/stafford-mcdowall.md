@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stafford-mcdowall"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2017 - 2026)
+Glasgow Warriors (2017 - )

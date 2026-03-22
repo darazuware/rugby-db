@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-darry"
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2025) -> Blues (2020 - )
+Canterbury (2019 - ) -> Blues (2020)

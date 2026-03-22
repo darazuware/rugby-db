@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485006"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2021 - )
+NTTドコモレッドハリケーンズ大阪 (2021)

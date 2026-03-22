@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sione-vailanu"
 ---
 
 ## キャリア遍歴
-Saracens (2017 - 2019) -> Wasps (2019 - 2021) -> Worcester Warriors (2021 - 2022) -> Glasgow Warriors (2022 - 2026)
+Saracens (2017 - 2019) -> Wasps (2019 - 2021) -> Worcester Warriors (2021 - 2022) -> Glasgow Warriors (2022 - )

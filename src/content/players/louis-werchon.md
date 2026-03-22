@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-werchon"
 ---
 
 ## キャリア遍歴
-Brothers Rugby Club (2020 - 2022) -> West Brisbane Bulldogs (2022 - 2023) -> Queensland Reds (2022 - 2026) -> Benetton Rugby Trévise (2025 - )
+Brothers Rugby Club (2020 - 2022) -> West Brisbane Bulldogs (2022 - 2023) -> Queensland Reds (2022 - ) -> Benetton Rugby Trévise (2025 - )

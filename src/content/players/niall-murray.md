@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niall-murray"
 ---
 
 ## キャリア遍歴
-connacht rugby (2018 - 2026)
+connacht rugby (2018 - )

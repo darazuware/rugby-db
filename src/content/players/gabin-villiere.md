@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabin-villiere"
 ---
 
 ## キャリア遍歴
-RC Vire (2004 - 2013) -> Rouen Normandie Rugby (2013 - 2019) -> Rugby Club Toulonnais (2019 - 2026)
+RC Vire (2004 - 2013) -> Rouen Normandie Rugby (2013 - 2019) -> Rugby Club Toulonnais (2019 - )

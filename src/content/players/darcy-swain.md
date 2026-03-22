@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/darcy-swain"
 ---
 
 ## キャリア遍歴
-Brumbies (2017 - 2024) -> Western Force (2024 - )
+Brumbies (2017 - 2024) -> Western Force (2024)

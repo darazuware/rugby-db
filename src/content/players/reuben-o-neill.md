@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reuben-o-neill"
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2014 - 2025) -> Chiefs (2018 - 2026) -> Crusaders (2022 - )
+Taranaki Bulls (2014 - ) -> Chiefs (2018 - ) -> Crusaders (2022)

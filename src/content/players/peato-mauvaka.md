@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peato-mauvaka"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2013 - 2026)
+Stade Toulousain (2013 - )

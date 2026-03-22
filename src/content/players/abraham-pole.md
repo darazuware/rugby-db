@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/abraham-pole"
 ---
 
 ## キャリア遍歴
-Otago (2020 - 2025) -> Crusaders (2021 - 2022) -> Moana Pasifika (2021 - )
+Otago (2020 - ) -> Crusaders (2021 - 2022) -> Moana Pasifika (2021)

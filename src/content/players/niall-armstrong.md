@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niall-armstrong"
 ---
 
 ## キャリア遍歴
-exeter university rfc (2021 - 2023) -> exeter chiefs (2023 - 2025) -> dragons rfc (2025 - 2026)
+exeter university rfc (2021 - 2023) -> exeter chiefs (2023 - ) -> dragons rfc (2025 - )

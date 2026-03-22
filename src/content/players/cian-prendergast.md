@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cian-prendergast"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2019 - 2020) -> Connacht Rugby (2020 - 2026)
+Leinster Rugby (2019 - 2020) -> Connacht Rugby (2020 - )

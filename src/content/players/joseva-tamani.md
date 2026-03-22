@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joseva-tamani"
 ---
 
 ## キャリア遍歴
-Hunter Wildfires (2020 - 2021) -> Fijian Drua (2021 - 2026) -> US Colomiers (2023 - 2024) -> Otago (2024 - )
+Hunter Wildfires (2020 - 2021) -> Fijian Drua (2021 - ) -> US Colomiers (2023 - 2024) -> Otago (2024)

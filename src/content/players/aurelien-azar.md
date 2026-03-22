@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aurelien-azar"
 ---
 
 ## キャリア遍歴
-US Montmélian (2004 - 2014) -> FC Grenoble Rugby (2014 - 2016) -> Stade Olympique Chambéry (2016 - 2019) -> US Carcassonne (2019 - 2022) -> Castres Olympique (2022 - 2026)
+US Montmélian (2004 - 2014) -> FC Grenoble Rugby (2014 - 2016) -> Stade Olympique Chambéry (2016 - 2019) -> US Carcassonne (2019 - 2022) -> Castres Olympique (2022 - )

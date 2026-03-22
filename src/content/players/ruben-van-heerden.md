@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruben-van-heerden"
 ---
 
 ## キャリア遍歴
-bulls (2016 - 2018) -> sharks (2018 - 2022) -> exeter chiefs (2022 - 2022) -> stormers (2022 - 2022) -> exeter chiefs (2023 - 2023) -> stormers (2023 - 2026)
+bulls (2016 - 2018) -> sharks (2018 - 2022) -> exeter chiefs (2022 - 2023) -> stormers (2022 - )

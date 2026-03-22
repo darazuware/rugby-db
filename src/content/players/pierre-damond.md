@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-damond"
 ---
 
 ## キャリア遍歴
-Club du Golfe (2012 - 2015) -> Rugby Club Toulonnais (2015 - 2026)
+Club du Golfe (2012 - 2015) -> Rugby Club Toulonnais (2015 - )

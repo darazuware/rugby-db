@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484712"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2023 - )
+三重ホンダヒート (2023)

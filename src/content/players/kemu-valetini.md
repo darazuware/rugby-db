@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kemu-valetini"
 ---
 
 ## キャリア遍歴
-Melbourne Rising (2018 - 2019) -> Valladolid Rugby Asociación Club (2019 - 2020) -> Manly Marlins (2021 - 2022) -> Fijian Drua (2022 - )
+Melbourne Rising (2018 - 2019) -> Valladolid Rugby Asociación Club (2019 - 2020) -> Manly Marlins (2021 - 2022) -> Fijian Drua (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-millard"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2015 - 2026)
+cardiff rugby (2015 - )

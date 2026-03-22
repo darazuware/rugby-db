@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andrew-sparrow"
 ---
 
 ## キャリア遍歴
-University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - 2026)
+University College Dublin (2023 - 2024) -> Leinster Rugby (2024 - )

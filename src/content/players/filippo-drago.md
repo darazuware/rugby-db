@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/filippo-drago"
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - 2024) -> zebre parma (2024 - 2024) -> benetton rugby trévise (2025 - 2025) -> zebre parma (2025 - 2025) -> benetton rugby trévise (2025 - 2026)
+mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - ) -> zebre parma (2024 - )

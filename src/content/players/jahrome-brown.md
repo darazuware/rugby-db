@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jahrome-brown"
 ---
 
 ## キャリア遍歴
-Brumbies (2018 - 2024) -> Waikato Mooloos (2024 - 2025) -> Chiefs (2024 - )
+Brumbies (2018 - 2024) -> Waikato Mooloos (2024 - ) -> Chiefs (2024)

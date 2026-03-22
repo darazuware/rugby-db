@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483479"
 ---
 
 ## キャリア遍歴
-福岡工業大学 (2021 - 2024) -> 浦安D-Rocks (2024 - )
+福岡工業大学 (2021 - 2024) -> 浦安D-Rocks (2024)

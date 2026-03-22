@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-monin"
 ---
 
 ## キャリア遍歴
-RC des Vallons de la Tour (2007 - 2017) -> CS Bourgoin Jallieu Rugby (2017 - 2020) -> Stade Français Paris Rugby (2020 - 2026)
+RC des Vallons de la Tour (2007 - 2017) -> CS Bourgoin Jallieu Rugby (2017 - 2020) -> Stade Français Paris Rugby (2020 - )

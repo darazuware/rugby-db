@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pouri-rakete-stones"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2017 - 2025) -> Hurricanes (2019 - )
+Hawke's Bay Magpies (2017 - ) -> Hurricanes (2019)

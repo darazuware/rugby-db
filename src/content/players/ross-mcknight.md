@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ross-mcknight"
 ---
 
 ## キャリア遍歴
-Stirling County RFC (2020 - 2021) -> Glasgow Warriors (2021 - 2023) -> Stirling Wolves (2023 - 2024) -> Stirling County RFC (2024 - 2024) -> Edimbourg Rugby (2024 - 2024) -> Stirling County RFC (2025 - 2025) -> Edimbourg Rugby (2025 - 2026)
+Stirling County RFC (2020 - 2021) -> Glasgow Warriors (2021 - 2023) -> Stirling Wolves (2023 - 2024) -> Stirling County RFC (2024 - ) -> Edimbourg Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483685"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2018 - 2022) -> Yokohama Canon Eagles (2022 - 2024) -> Kyushu Kyuden Voltex (2024 - )
+浦安D-Rocks (2018 - 2022) -> Yokohama Canon Eagles (2022 - 2024) -> Kyushu Kyuden Voltex (2024)

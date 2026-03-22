@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jason-jenkins"
 ---
 
 ## キャリア遍歴
-bulls (2015 - 2019) -> toyota verblitz (2019 - 2019) -> bulls (2019 - 2019) -> toyota verblitz (2020 - 2020) -> bulls (2020 - 2020) -> toyota verblitz (2020 - 2021) -> munster rugby (2021 - 2022) -> leinster rugby (2022 - 2024) -> sharks (2024 - 2026)
+bulls (2015 - 2020) -> toyota verblitz (2019 - 2021) -> munster rugby (2021 - 2022) -> leinster rugby (2022 - 2024) -> sharks (2024 - )

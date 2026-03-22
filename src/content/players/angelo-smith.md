@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angelo-smith"
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Fijian Drua (2025 - )
+West Brisbane Bulldogs (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> New South Wales Waratahs (2024 - ) -> Fijian Drua (2025 - )

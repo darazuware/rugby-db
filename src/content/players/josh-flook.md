@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-flook"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2019 - 2026) -> Benetton Rugby Trévise (2025 - )
+Queensland Reds (2019 - ) -> Benetton Rugby Trévise (2025 - )

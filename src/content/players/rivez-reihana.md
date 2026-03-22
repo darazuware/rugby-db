@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rivez-reihana"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2018 - 2020) -> Chiefs (2020 - 2023) -> Northland Taniwha (2020 - 2025) -> Crusaders (2023 - )
+Waikato Mooloos (2018 - 2020) -> Chiefs (2020 - 2023) -> Northland Taniwha (2020 - ) -> Crusaders (2023)

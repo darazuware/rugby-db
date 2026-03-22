@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-dominguez"
 ---
 
 ## キャリア遍歴
-club atlético san isidro (2018 - 2019) -> valorugby emilia (2021 - 2023) -> zebre parma (2023 - 2026)
+club atlético san isidro (2018 - 2019) -> valorugby emilia (2021 - 2023) -> zebre parma (2023 - )

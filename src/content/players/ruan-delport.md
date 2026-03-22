@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-delport"
 ---
 
 ## キャリア遍歴
-blue bulls (2021 - 2022) -> lions rugby (2022 - 2026)
+blue bulls (2021 - 2022) -> lions rugby (2022 - )

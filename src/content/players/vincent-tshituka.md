@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vincent-tshituka"
 ---
 
 ## キャリア遍歴
-lions rugby (2018 - 2022) -> sharks (2022 - 2026)
+lions rugby (2018 - 2022) -> sharks (2022 - )

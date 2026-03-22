@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-culhane"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - 2026)
+Leinster Rugby (2021 - )

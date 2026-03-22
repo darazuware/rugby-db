@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jd-schickerling"
 ---
 
 ## キャリア遍歴
-Stormers (2015 - 2021) -> Kobelco Kobe Steelers (2021 - 2023) -> Kubota Spears Funabashi Tokyo-Bay (2023 - 2024) -> Stormers (2024 - 2026)
+Stormers (2015 - 2021) -> Kobelco Kobe Steelers (2021 - 2023) -> Kubota Spears Funabashi Tokyo-Bay (2023 - 2024) -> Stormers (2024 - )

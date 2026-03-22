@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/embrose-papier"
 ---
 
 ## キャリア遍歴
-bulls (2017 - 2019) -> sale sharks (2019 - 2019) -> bulls (2019 - 2019) -> sale sharks (2020 - 2020) -> bulls (2020 - 2026)
+bulls (2017 - ) -> sale sharks (2019 - 2020)

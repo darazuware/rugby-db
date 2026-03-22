@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corey-evans"
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2023) -> Blues (2021 - 2026) -> Northland Taniwha (2023 - )
+Auckland (2020 - 2023) -> Blues (2021 - ) -> Northland Taniwha (2023)

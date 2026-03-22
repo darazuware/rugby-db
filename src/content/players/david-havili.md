@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-havili"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2014 - 2025) -> Crusaders (2014 - )
+Tasman Mako (2014 - ) -> Crusaders (2014)

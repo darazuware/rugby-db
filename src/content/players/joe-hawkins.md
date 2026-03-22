@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-hawkins"
 ---
 
 ## キャリア遍歴
-ospreys (2019 - 2023) -> exeter chiefs (2023 - 2025) -> scarlets (2025 - 2026)
+ospreys (2019 - 2023) -> exeter chiefs (2023 - ) -> scarlets (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlie-mccaig"
 ---
 
 ## キャリア遍歴
-exeter chiefs (2022 - 2024) -> cornish pirates (2024 - 2024) -> exeter chiefs (2025 - 2025) -> cornish pirates (2025 - 2025) -> edimbourg rugby (2025 - 2026)
+exeter chiefs (2022 - ) -> cornish pirates (2024 - ) -> edimbourg rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ellis-mee"
 ---
 
 ## キャリア遍歴
-nottingham rugby (2023 - 2024) -> scarlets (2024 - 2026)
+nottingham rugby (2023 - 2024) -> scarlets (2024 - )

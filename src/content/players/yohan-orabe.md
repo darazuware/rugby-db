@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yohan-orabe"
 ---
 
 ## キャリア遍歴
-Sport Athlétique Mauléonais (2007 - 2022) -> Aviron Bayonnais (2022 - 2026)
+Sport Athlétique Mauléonais (2007 - 2022) -> Aviron Bayonnais (2022 - )

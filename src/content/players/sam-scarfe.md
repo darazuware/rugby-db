@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-scarfe"
 ---
 
 ## キャリア遍歴
-dragons rfc (2022 - 2023) -> gloucester rugby (2023 - 2023) -> dragons rfc (2023 - 2023) -> gloucester rugby (2024 - 2024) -> dragons rfc (2024 - 2026)
+dragons rfc (2022 - ) -> gloucester rugby (2023 - 2024)

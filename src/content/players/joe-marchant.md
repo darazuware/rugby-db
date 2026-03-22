@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-marchant"
 ---
 
 ## キャリア遍歴
-Harlequins (2014 - 2019) -> Blues (2019 - 2019) -> Harlequins (2019 - 2019) -> Blues (2020 - 2020) -> Harlequins (2020 - 2023) -> Stade Français Paris Rugby (2023 - 2026)
+Harlequins (2014 - 2023) -> Blues (2019 - 2020) -> Stade Français Paris Rugby (2023 - )

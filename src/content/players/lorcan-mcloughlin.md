@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lorcan-mcloughlin"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2021 - 2026)
+Ulster Rugby (2021 - )

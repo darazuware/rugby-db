@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eduan-keyter"
 ---
 
 ## キャリア遍歴
-Griquas (2018 - 2021) -> Natal Sharks (2021 - 2022) -> Sharks (2022 - 2025) -> Lions Rugby (2025 - 2026)
+Griquas (2018 - 2021) -> Natal Sharks (2021 - 2022) -> Sharks (2022 - ) -> Lions Rugby (2025 - )

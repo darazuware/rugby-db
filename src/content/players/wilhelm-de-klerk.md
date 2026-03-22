@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wilhelm-de-klerk"
 ---
 
 ## キャリア遍歴
-university college dublin (2023 - 2024) -> ulster rugby (2024 - 2026)
+university college dublin (2023 - 2024) -> ulster rugby (2024 - )

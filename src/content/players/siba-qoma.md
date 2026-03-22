@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siba-qoma"
 ---
 
 ## キャリア遍歴
-central cheetahs (2022 - 2024) -> lions rugby (2024 - 2026)
+central cheetahs (2022 - 2024) -> lions rugby (2024 - )

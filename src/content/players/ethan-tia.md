@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-tia"
 ---
 
 ## キャリア遍歴
-Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020) -> Stade Français Paris Rugby (2020 - 2026)
+Maison-Laffitte Saint-Germain Poissy Rugby (2014 - 2020) -> Stade Français Paris Rugby (2020 - )

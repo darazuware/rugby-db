@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lukhanyo-vokozela"
 ---
 
 ## キャリア遍歴
-western province (2021 - 2024) -> stormers (2024 - 2026)
+western province (2021 - 2024) -> stormers (2024 - )

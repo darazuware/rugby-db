@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/penaia-cakobau"
 ---
 
 ## キャリア遍歴
-North Harbour (2023 - 2025) -> Fijian Drua (2025 - )
+North Harbour (2023 - ) -> Fijian Drua (2025 - )

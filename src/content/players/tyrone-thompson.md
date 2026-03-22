@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tyrone-thompson"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2019 - 2021) -> Hawke's Bay Magpies (2021 - 2024) -> Chiefs (2021 - 2026) -> Newcastle Knights (2024 - )
+Wellington Lions (2019 - 2021) -> Hawke's Bay Magpies (2021 - 2024) -> Chiefs (2021 - ) -> Newcastle Knights (2024)

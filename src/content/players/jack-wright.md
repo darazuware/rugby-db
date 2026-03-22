@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484190"
 ---
 
 ## キャリア遍歴
-Tuggeranong Vikings (2019 - 2022) -> ブランビーズ (2022 - 2023) -> 静岡ブルーレヴズ (2023 - )
+Tuggeranong Vikings (2019 - 2022) -> ブランビーズ (2022 - 2023) -> 静岡ブルーレヴズ (2023)

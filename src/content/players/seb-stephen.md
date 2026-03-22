@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/seb-stephen"
 ---
 
 ## キャリア遍歴
-glasgow warriors (2024 - 2026)
+glasgow warriors (2024 - )

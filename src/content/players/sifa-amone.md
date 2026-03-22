@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sifa-amone"
 ---
 
 ## キャリア遍歴
-Associates Rugby Union Football Club (2021 - 2022) -> Western Force (2022 - 2024) -> New South Wales Waratahs (2024 - )
+Associates Rugby Union Football Club (2021 - 2022) -> Western Force (2022 - 2024) -> New South Wales Waratahs (2024)

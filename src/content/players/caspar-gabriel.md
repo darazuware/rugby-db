@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/caspar-gabriel"
 ---
 
 ## キャリア遍歴
-Terenure College (2022 - 2024) -> Leinster Rugby (2024 - 2026)
+Terenure College (2022 - 2024) -> Leinster Rugby (2024 - )

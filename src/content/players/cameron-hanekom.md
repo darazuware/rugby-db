@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-hanekom"
 ---
 
 ## キャリア遍歴
-blue bulls (2021 - 2022) -> bulls (2022 - 2026)
+blue bulls (2021 - 2022) -> bulls (2022 - )

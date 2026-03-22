@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/naitoa-ah-kuoi"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2018 - 2020) -> Chiefs (2019 - 2026) -> Bay of Plenty Steamers (2021 - )
+Wellington Lions (2018 - 2020) -> Chiefs (2019 - ) -> Bay of Plenty Steamers (2021)

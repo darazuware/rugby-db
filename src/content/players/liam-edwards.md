@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-edwards"
 ---
 
 ## キャリア遍歴
-ospreys (2022 - 2026)
+ospreys (2022 - )

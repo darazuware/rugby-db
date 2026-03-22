@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rynhardt-jonker"
 ---
 
 ## キャリア遍歴
-sharks (2020 - 2022) -> lions rugby (2022 - 2026)
+sharks (2020 - 2022) -> lions rugby (2022 - )

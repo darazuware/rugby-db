@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matt-davidson"
 ---
 
 ## キャリア遍歴
-Grande-Bretagne 7's (2022 - 2025) -> Edimbourg Rugby (2025 - 2026)
+Grande-Bretagne 7's (2022 - ) -> Edimbourg Rugby (2025 - )

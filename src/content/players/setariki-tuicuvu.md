@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/setariki-tuicuvu"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2015 - 2019) -> Aviron Bayonnais (2019 - 2019) -> ASM Clermont Auvergne (2020 - 2020) -> Aviron Bayonnais (2020 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Rugby Club Toulonnais (2023 - 2026)
+ASM Clermont Auvergne (2015 - 2020) -> Aviron Bayonnais (2019 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Rugby Club Toulonnais (2023 - )

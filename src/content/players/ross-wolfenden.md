@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ross-wolfenden"
 ---
 
 ## キャリア遍歴
-peebles rfc (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+peebles rfc (2023 - 2024) -> edimbourg rugby (2024 - )

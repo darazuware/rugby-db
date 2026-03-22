@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alistair-vermaak"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2026)
+Stormers (2013 - )

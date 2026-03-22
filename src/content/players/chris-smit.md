@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/chris-smit"
 ---
 
 ## キャリア遍歴
-griquas (2018 - 2019) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2022) -> blue bulls (2022 - 2024) -> bulls (2024 - 2026)
+griquas (2018 - 2019) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2022) -> blue bulls (2022 - 2024) -> bulls (2024 - )

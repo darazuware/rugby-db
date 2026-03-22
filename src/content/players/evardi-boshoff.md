@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evardi-boshoff"
 ---
 
 ## キャリア遍歴
-central cheetahs (2022 - 2023) -> ospreys (2023 - 2023) -> central cheetahs (2024 - 2024) -> ospreys (2024 - 2026)
+central cheetahs (2022 - 2024) -> ospreys (2023 - )

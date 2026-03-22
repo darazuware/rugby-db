@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alexandre-becognee"
 ---
 
 ## キャリア遍歴
-Union Bordeaux-Bègles (2013 - 2014) -> Stade Montois Rugby Pro (2014 - 2020) -> Montpellier Hérault Rugby (2020 - 2026)
+Union Bordeaux-Bègles (2013 - 2014) -> Stade Montois Rugby Pro (2014 - 2020) -> Montpellier Hérault Rugby (2020 - )

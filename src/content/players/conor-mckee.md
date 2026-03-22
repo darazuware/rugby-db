@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-mckee"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2020 - 2026)
+Ulster Rugby (2020 - )

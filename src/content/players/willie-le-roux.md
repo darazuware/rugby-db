@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/willie-le-roux"
 ---
 
 ## キャリア遍歴
-Central Cheetahs (2013 - 2015) -> Sharks (2015 - 2016) -> Wasps (2016 - 2019) -> Toyota Verblitz (2019 - 2023) -> Bulls (2023 - 2026)
+Central Cheetahs (2013 - 2015) -> Sharks (2015 - 2016) -> Wasps (2016 - 2019) -> Toyota Verblitz (2019 - 2023) -> Bulls (2023 - )

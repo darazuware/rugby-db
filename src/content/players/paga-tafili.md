@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paga-tafili"
 ---
 
 ## キャリア遍歴
-RC du Mont-Dore (2009 - 2011) -> Malemort XV (2011 - 2013) -> SC Tulle (2013 - 2016) -> Rugby Club Vannes (2016 - 2026)
+RC du Mont-Dore (2009 - 2011) -> Malemort XV (2011 - 2013) -> SC Tulle (2013 - 2016) -> Rugby Club Vannes (2016 - )

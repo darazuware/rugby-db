@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/allan-alaalatoa"
 ---
 
 ## キャリア遍歴
-Brumbies (2013 - )
+Brumbies (2013)

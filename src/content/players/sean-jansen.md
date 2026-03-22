@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-jansen"
 ---
 
 ## キャリア遍歴
-otago (2020 - 2021) -> leicester tigers (2021 - 2023) -> connacht rugby (2023 - 2026)
+otago (2020 - 2021) -> leicester tigers (2021 - 2023) -> connacht rugby (2023 - )

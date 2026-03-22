@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-licata"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2017 - 2026)
+Zebre Parma (2017 - )

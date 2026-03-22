@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-potter"
 ---
 
 ## キャリア遍歴
-Melbourne Rising (2018 - 2019) -> Melbourne Rebels (2019 - 2020) -> Leicester Tigers (2019 - 2023) -> Western Force (2023 - 2025) -> New South Wales Waratahs (2025 - )
+Melbourne Rising (2018 - 2019) -> Melbourne Rebels (2019 - 2020) -> Leicester Tigers (2019 - 2023) -> Western Force (2023 - ) -> New South Wales Waratahs (2025 - )

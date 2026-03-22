@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/benjamin-bertrand"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2009 - 2023) -> Blagnac (2023 - 2023) -> Stade Toulousain (2023 - 2023) -> Blagnac (2024 - 2024) -> Stade Toulousain (2024 - 2026)
+Stade Toulousain (2009 - ) -> Blagnac (2023 - 2024)

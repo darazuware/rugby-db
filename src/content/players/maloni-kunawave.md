@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maloni-kunawave"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2023 - 2025) -> Crusaders (2024 - )
+Tasman Mako (2023 - ) -> Crusaders (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kharaishvili-gia"
 ---
 
 ## キャリア遍歴
-RC Armazi (2017 - 2018) -> Racing 92 (2018 - 2021) -> USON Nevers Rugby (2021 - 2021) -> Racing 92 (2022 - 2022) -> USON Nevers Rugby (2022 - 2022) -> Racing 92 (2022 - 2026)
+RC Armazi (2017 - 2018) -> Racing 92 (2018 - ) -> USON Nevers Rugby (2021 - 2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-cretin"
 ---
 
 ## キャリア遍歴
-RC Annemasse (2004 - 2012) -> Lyon Olympique Universitaire Rugby (2012 - 2026)
+RC Annemasse (2004 - 2012) -> Lyon Olympique Universitaire Rugby (2012 - )

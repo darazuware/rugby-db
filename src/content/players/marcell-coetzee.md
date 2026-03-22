@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marcell-coetzee"
 ---
 
 ## キャリア遍歴
-sharks (2013 - 2016) -> ulster rugby (2016 - 2020) -> bulls (2020 - 2020) -> ulster rugby (2021 - 2021) -> bulls (2021 - 2022) -> kobelco kobe steelers (2022 - 2022) -> bulls (2023 - 2023) -> kobelco kobe steelers (2023 - 2023) -> bulls (2023 - 2026)
+sharks (2013 - 2016) -> ulster rugby (2016 - 2021) -> bulls (2020 - ) -> kobelco kobe steelers (2022 - 2023)

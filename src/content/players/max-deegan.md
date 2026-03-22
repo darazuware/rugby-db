@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-deegan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2016 - 2026)
+Leinster Rugby (2016 - )

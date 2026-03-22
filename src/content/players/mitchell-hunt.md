@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484486"
 ---
 
 ## キャリア遍歴
-Auckland (2015 - 2015) -> Crusaders (2016 - 2019) -> Tasman Mako (2016 - 2023) -> Highlanders (2020 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Kamaishi Seawaves (2024 - )
+Auckland (2015) -> Crusaders (2016 - 2019) -> Tasman Mako (2016 - 2023) -> Highlanders (2020 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Kamaishi Seawaves (2024)

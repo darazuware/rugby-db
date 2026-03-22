@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bayley-kuenzle"
 ---
 
 ## キャリア遍歴
-Brumbies (2018 - 2021) -> Western Force (2021 - )
+Brumbies (2018 - 2021) -> Western Force (2021)

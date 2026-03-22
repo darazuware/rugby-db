@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jimmy-o-brien"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - 2026)
+Leinster Rugby (2018 - )

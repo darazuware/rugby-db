@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-vincent"
 ---
 
 ## キャリア遍歴
-US Monflanquin (2012 - 2015) -> Sporting Union Agenais (2015 - 2020) -> Stade Aurillacois Cantal Auvergne (2020 - 2021) -> Sporting Union Agenais (2021 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+US Monflanquin (2012 - 2015) -> Sporting Union Agenais (2015 - 2024) -> Stade Aurillacois Cantal Auvergne (2020 - 2021) -> Montpellier Hérault Rugby (2024 - )

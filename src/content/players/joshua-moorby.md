@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joshua-moorby"
 ---
 
 ## キャリア遍歴
-Southland Stags (2018 - 2021) -> Northland Taniwha (2021 - 2023) -> Hurricanes (2021 - 2026) -> Waikato Mooloos (2023 - 2025) -> Montpellier Hérault Rugby (2024 - )
+Southland Stags (2018 - 2021) -> Northland Taniwha (2021 - 2023) -> Hurricanes (2021 - ) -> Waikato Mooloos (2023 - ) -> Montpellier Hérault Rugby (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joel-merkler"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2017 - 2026)
+Stade Toulousain (2017 - )

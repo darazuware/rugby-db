@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mesake-doge"
 ---
 
 ## キャリア遍歴
-SCM Rugby Timișoara (2017 - 2019) -> CA Brive Corrèze Limousin (2019 - 2021) -> Dragons RFC (2021 - 2022) -> Fijian Drua (2022 - )
+SCM Rugby Timișoara (2017 - 2019) -> CA Brive Corrèze Limousin (2019 - 2021) -> Dragons RFC (2021 - 2022) -> Fijian Drua (2022)

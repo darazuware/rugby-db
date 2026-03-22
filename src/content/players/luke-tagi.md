@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-tagi"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2018 - 2019) -> Stade Français Paris Rugby (2019 - 2021) -> Provence Rugby (2021 - 2023) -> Aviron Bayonnais (2023 - 2026)
+Fijian Drua (2018 - 2019) -> Stade Français Paris Rugby (2019 - 2021) -> Provence Rugby (2021 - 2023) -> Aviron Bayonnais (2023 - )

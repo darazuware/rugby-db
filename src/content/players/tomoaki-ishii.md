@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484738"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2018 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021 - )
+Hanazono Kintetsu Liners (2018 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021)

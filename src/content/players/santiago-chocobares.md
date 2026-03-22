@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/santiago-chocobares"
 ---
 
 ## キャリア遍歴
-Jaguares (2018 - 2020) -> Stade Toulousain (2020 - 2026)
+Jaguares (2018 - 2020) -> Stade Toulousain (2020 - )

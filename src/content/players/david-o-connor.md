@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-o-connor"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2019 - 2022) -> Ealing Trailfinders (2022 - 2024) -> Connacht Rugby (2024 - 2026)
+Ulster Rugby (2019 - 2022) -> Ealing Trailfinders (2022 - 2024) -> Connacht Rugby (2024 - )

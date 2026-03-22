@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-jaques"
 ---
 
 ## キャリア遍歴
-Eastern Suburbs RFC (2024 - 2025) -> New South Wales Waratahs (2025 - )
+Eastern Suburbs RFC (2024 - ) -> New South Wales Waratahs (2025 - )

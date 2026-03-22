@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/byron-ralston"
 ---
 
 ## キャリア遍歴
-Western Force (2019 - 2022) -> Connacht Rugby (2022 - 2026)
+Western Force (2019 - 2022) -> Connacht Rugby (2022 - )

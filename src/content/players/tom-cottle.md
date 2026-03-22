@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-cottle"
 ---
 
 ## キャリア遍歴
-rgc 1404 (2024 - 2025) -> cardiff rugby (2025 - 2026)
+rgc 1404 (2024 - ) -> cardiff rugby (2025 - )

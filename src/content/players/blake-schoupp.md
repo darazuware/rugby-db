@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/blake-schoupp"
 ---
 
 ## キャリア遍歴
-Southern Districts (2018 - 2022) -> Brumbies (2022 - )
+Southern Districts (2018 - 2022) -> Brumbies (2022)

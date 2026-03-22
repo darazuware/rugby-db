@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-kendellen"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2020 - 2026)
+Munster Rugby (2020 - )

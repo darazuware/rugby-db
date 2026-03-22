@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484697"
 ---
 
 ## キャリア遍歴
-Mie Honda Heat RFC (2019 - )
+Mie Honda Heat RFC (2019)

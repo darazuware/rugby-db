@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yanis-basse"
 ---
 
 ## キャリア遍歴
-Évreux AC Rugby (2013 - 2020) -> Racing 92 (2020 - 2026)
+Évreux AC Rugby (2013 - 2020) -> Racing 92 (2020 - )

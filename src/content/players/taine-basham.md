@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/taine-basham"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2025) -> Cardiff Rugby (2025 - 2026)
+Dragons RFC (2017 - ) -> Cardiff Rugby (2025 - )

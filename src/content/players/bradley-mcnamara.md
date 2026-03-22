@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bradley-mcnamara"
 ---
 
 ## キャリア遍歴
-instonians rugby club (2024 - 2025) -> ulster rugby (2025 - 2025) -> instonians rugby club (2025 - 2025) -> ulster rugby (2026 - 2026) -> instonians rugby club (2026 - 2026)
+instonians rugby club (2024 - ) -> ulster rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-jason-dixon"
 ---
 
 ## キャリア遍歴
-Western Province (2018 - 2019) -> Stormers (2019 - 2026)
+Western Province (2018 - 2019) -> Stormers (2019 - )

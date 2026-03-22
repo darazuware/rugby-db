@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leafi-talataina"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2021 - 2022) -> Endeavour Hills RUFC (2022 - 2023) -> Sydney University Football Club (2023 - 2024) -> New South Wales Waratahs (2024 - )
+Melbourne Rebels (2021 - 2022) -> Endeavour Hills RUFC (2022 - 2023) -> Sydney University Football Club (2023 - 2024) -> New South Wales Waratahs (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-williams-14088"
 ---
 
 ## キャリア遍歴
-aberavon rfc (2021 - 2022) -> scarlets (2022 - 2026)
+aberavon rfc (2021 - 2022) -> scarlets (2022 - )

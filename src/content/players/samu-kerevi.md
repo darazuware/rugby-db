@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483519"
 ---
 
 ## キャリア遍歴
-Brisbane City (2014 - 2017) -> Queensland Reds (2014 - 2019) -> 東京サントリーサンゴリアス (2019 - 2023) -> Urayasu D-Rocks (2023 - )
+Brisbane City (2014 - 2017) -> Queensland Reds (2014 - 2019) -> 東京サントリーサンゴリアス (2019 - 2023) -> Urayasu D-Rocks (2023)

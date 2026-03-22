@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-djehi"
 ---
 
 ## キャリア遍歴
-US Colomiers (2010 - 2024) -> Rugby Club Vannes (2024 - 2026)
+US Colomiers (2010 - 2024) -> Rugby Club Vannes (2024 - )

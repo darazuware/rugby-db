@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/barny-langton"
 ---
 
 ## キャリア遍歴
-cardiff met rfc (2022 - 2023) -> dragons rfc (2023 - 2025) -> harlequins (2025 - 2025) -> dragons rfc (2026 - 2026) -> harlequins (2026 - 2026)
+cardiff met rfc (2022 - 2023) -> dragons rfc (2023 - ) -> harlequins (2025 - )

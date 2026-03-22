@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/temo-mayanavanua"
 ---
 
 ## キャリア遍歴
-Northland Taniwha (2017 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2023) -> Northampton Saints (2023 - 2025) -> Fijian Drua (2025 - )
+Northland Taniwha (2017 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2023) -> Northampton Saints (2023 - ) -> Fijian Drua (2025 - )

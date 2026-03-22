@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/motikiai-murray"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2022 - )
+Fijian Drua (2022)

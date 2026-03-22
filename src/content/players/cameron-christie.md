@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-christie"
 ---
 
 ## キャリア遍歴
-North Harbour (2022 - 2025) -> Blues (2023 - )
+North Harbour (2022 - ) -> Blues (2023)

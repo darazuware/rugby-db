@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-millet"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2014 - 2018) -> Oyonnax Rugby (2018 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2026)
+Stade Français Paris Rugby (2014 - 2018) -> Oyonnax Rugby (2018 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

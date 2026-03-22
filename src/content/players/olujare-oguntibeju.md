@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/olujare-oguntibeju"
 ---
 
 ## キャリア遍歴
-ealing trailfinders (2020 - 2023) -> stirling county rfc (2023 - 2024) -> glasgow warriors (2024 - 2026)
+ealing trailfinders (2020 - 2023) -> stirling county rfc (2023 - 2024) -> glasgow warriors (2024 - )

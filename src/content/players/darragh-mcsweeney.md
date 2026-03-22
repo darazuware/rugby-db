@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/darragh-mcsweeney"
 ---
 
 ## キャリア遍歴
-munster rugby (2021 - 2024) -> cornish pirates (2024 - 2024) -> munster rugby (2025 - 2025) -> cornish pirates (2025 - 2025) -> munster rugby (2025 - 2026)
+munster rugby (2021 - ) -> cornish pirates (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nicolas-depoortere"
 ---
 
 ## キャリア遍歴
-US Izon (2007 - 2016) -> Union Bordeaux-Bègles (2016 - 2026)
+US Izon (2007 - 2016) -> Union Bordeaux-Bègles (2016 - )

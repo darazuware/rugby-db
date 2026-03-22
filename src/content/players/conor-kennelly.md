@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conor-kennelly"
 ---
 
 ## キャリア遍歴
-highfield rfc (2024 - 2025) -> munster rugby (2025 - 2026)
+highfield rfc (2024 - ) -> munster rugby (2025 - )

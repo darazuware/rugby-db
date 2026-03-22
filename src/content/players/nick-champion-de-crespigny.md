@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nick-champion-de-crespigny"
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2016 - 2021) -> New South Wales Country Eagles (2017 - 2019) -> Castres Olympique (2021 - 2024) -> Western Force (2024 - )
+Sydney University Football Club (2016 - 2021) -> New South Wales Country Eagles (2017 - 2019) -> Castres Olympique (2021 - 2024) -> Western Force (2024)

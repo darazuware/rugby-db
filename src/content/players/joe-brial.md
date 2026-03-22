@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-brial"
 ---
 
 ## キャリア遍歴
-Canterbury (2021 - 2023) -> Queensland Reds (2023 - )
+Canterbury (2021 - 2023) -> Queensland Reds (2023)

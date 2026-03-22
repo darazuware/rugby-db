@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/michael-tambwe"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2016 - 2018) -> Golden Lions (2018 - 2018) -> Lions Rugby (2019 - 2019) -> Golden Lions (2019 - 2019) -> Sharks (2019 - 2020) -> Bulls (2020 - 2022) -> Union Bordeaux-Bègles (2022 - 2024) -> Montpellier Hérault Rugby (2024 - 2025) -> Union Bordeaux-Bègles (2025 - 2025) -> Montpellier Hérault Rugby (2026 - 2026) -> Union Bordeaux-Bègles (2026 - 2026)
+Lions Rugby (2016 - 2019) -> Golden Lions (2018 - 2019) -> Sharks (2019 - 2020) -> Bulls (2020 - 2022) -> Union Bordeaux-Bègles (2022 - ) -> Montpellier Hérault Rugby (2024 - )

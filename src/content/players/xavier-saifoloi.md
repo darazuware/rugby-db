@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/xavier-saifoloi"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - 2025) -> Crusaders (2024 - )
+Waikato Mooloos (2022 - ) -> Crusaders (2024)

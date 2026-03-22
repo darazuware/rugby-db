@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484180"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2017 - )
+静岡ブルーレヴズ (2017)

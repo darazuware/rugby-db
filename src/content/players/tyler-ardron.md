@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tyler-ardron"
 ---
 
 ## キャリア遍歴
-Ospreys (2013 - 2017) -> Chiefs (2017 - 2020) -> Castres Olympique (2020 - 2026)
+Ospreys (2013 - 2017) -> Chiefs (2017 - 2020) -> Castres Olympique (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-maddocks"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2019) -> New South Wales Waratahs (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)
+Melbourne Rebels (2015 - 2019) -> New South Wales Waratahs (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )

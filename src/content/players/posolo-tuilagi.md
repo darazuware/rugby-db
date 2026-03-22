@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/posolo-tuilagi"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2010 - 2026)
+Union Sportive Arlequins Perpignanais (2010 - )

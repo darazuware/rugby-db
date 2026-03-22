@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-blyth"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2017 - 2025) -> New South Wales Waratahs (2025 - )
+Queensland Reds (2017 - ) -> New South Wales Waratahs (2025 - )

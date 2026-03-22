@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/clement-laporte"
 ---
 
 ## キャリア遍歴
-Parentis Sport Rugby (2006 - 2013) -> Union Bordeaux-Bègles (2013 - 2015) -> Sporting Union Agenais (2015 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2026)
+Parentis Sport Rugby (2006 - 2013) -> Union Bordeaux-Bègles (2013 - 2015) -> Sporting Union Agenais (2015 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

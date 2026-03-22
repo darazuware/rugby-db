@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simon-peter-toleafoa"
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2023 - 2025) -> New England Free Jacks (2024 - 2025) -> Moana Pasifika (2025 - )
+Counties Manukau Steelers (2023 - ) -> New England Free Jacks (2024 - ) -> Moana Pasifika (2025 - )

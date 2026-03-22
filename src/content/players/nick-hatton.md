@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nick-hatton"
 ---
 
 ## キャリア遍歴
-natal sharks (2021 - 2023) -> sharks (2023 - 2026)
+natal sharks (2021 - 2023) -> sharks (2023 - )

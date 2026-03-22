@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andre-hugo-venter"
 ---
 
 ## キャリア遍歴
-stormers (2020 - 2026)
+stormers (2020 - )

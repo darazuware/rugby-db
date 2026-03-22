@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/austin-durbidge"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2023 - 2026) -> Sydney University Football Club (2024 - )
+New South Wales Waratahs (2023 - ) -> Sydney University Football Club (2024)

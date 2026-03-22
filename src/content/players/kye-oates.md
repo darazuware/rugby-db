@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kye-oates"
 ---
 
 ## キャリア遍歴
-Canberra Royals (2024 - 2025) -> Brumbies (2025 - )
+Canberra Royals (2024 - ) -> Brumbies (2025 - )

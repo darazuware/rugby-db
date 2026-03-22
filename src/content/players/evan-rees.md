@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evan-rees"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2025 - 2026)
+Cardiff Rugby (2025 - )

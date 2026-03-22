@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nicholas-gasperini"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2022 - 2023) -> Zebre Parma (2023 - 2024) -> Mogliano Veneto Rugby (2024 - 2025) -> Benetton Rugby Trévise (2025 - 2026)
+Stade Français Paris Rugby (2022 - 2023) -> Zebre Parma (2023 - 2024) -> Mogliano Veneto Rugby (2024 - ) -> Benetton Rugby Trévise (2025 - )

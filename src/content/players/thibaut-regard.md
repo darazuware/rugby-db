@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibaut-regard"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2011 - 2026)
+Lyon Olympique Universitaire Rugby (2011 - )

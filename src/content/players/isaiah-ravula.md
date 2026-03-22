@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaiah-ravula"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2022 - 2024) -> Fijian Drua (2023 - )
+Manawatu Turbos (2022 - 2024) -> Fijian Drua (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zander-fagerson"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2014 - 2026)
+Glasgow Warriors (2014 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shay-mccarthy"
 ---
 
 ## キャリア遍歴
-munster rugby (2021 - 2022) -> young munster rfc (2022 - 2023) -> munster rugby (2023 - 2026)
+munster rugby (2021 - ) -> young munster rfc (2022 - 2023)

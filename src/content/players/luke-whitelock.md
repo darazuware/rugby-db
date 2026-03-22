@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-whitelock"
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2015) -> Highlanders (2015 - 2019) -> Section Paloise Béarn Pyrénées (2019 - 2026)
+Crusaders (2013 - 2015) -> Highlanders (2015 - 2019) -> Section Paloise Béarn Pyrénées (2019 - )

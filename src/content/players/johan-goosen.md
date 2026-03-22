@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/johan-goosen"
 ---
 
 ## キャリア遍歴
-free state cheetahs (2011 - 2013) -> central cheetahs (2013 - 2013) -> free state cheetahs (2014 - 2014) -> central cheetahs (2014 - 2014) -> racing 92 (2014 - 2017) -> central cheetahs (2017 - 2017) -> racing 92 (2018 - 2018) -> central cheetahs (2018 - 2018) -> montpellier hérault rugby (2018 - 2021) -> bulls (2021 - 2026)
+free state cheetahs (2011 - 2014) -> central cheetahs (2013 - 2014) -> racing 92 (2014 - 2018) -> central cheetahs (2017 - 2018) -> montpellier hérault rugby (2018 - 2021) -> bulls (2021 - )

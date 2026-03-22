@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/macs-page"
 ---
 
 ## キャリア遍歴
-scarlets (2022 - 2026)
+scarlets (2022 - )

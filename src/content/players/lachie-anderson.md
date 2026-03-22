@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lachie-anderson"
 ---
 
 ## キャリア遍歴
-Aussie 7's (2019 - 2020) -> Melbourne Rebels (2019 - 2024) -> Queensland Reds (2024 - )
+Aussie 7's (2019 - 2020) -> Melbourne Rebels (2019 - 2024) -> Queensland Reds (2024)

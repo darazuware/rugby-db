@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/diarmuid-mangan"
 ---
 
 ## キャリア遍歴
-University College Dublin (2021 - 2022) -> Leinster Rugby (2022 - 2026)
+University College Dublin (2021 - 2022) -> Leinster Rugby (2022 - )

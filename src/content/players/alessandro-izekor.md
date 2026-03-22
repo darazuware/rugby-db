@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alessandro-izekor"
 ---
 
 ## キャリア遍歴
-Rugby Calvisano (2019 - 2021) -> Benetton Rugby Trévise (2021 - 2021) -> Rugby Calvisano (2021 - 2021) -> Benetton Rugby Trévise (2022 - 2022) -> Rugby Calvisano (2022 - 2022) -> Benetton Rugby Trévise (2022 - 2026)
+Rugby Calvisano (2019 - 2022) -> Benetton Rugby Trévise (2021 - )

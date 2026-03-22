@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/teddy-williams"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2018 - 2026)
+Cardiff Rugby (2018 - )

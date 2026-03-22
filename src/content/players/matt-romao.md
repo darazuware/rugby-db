@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matt-romao"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - 2025) -> Sharks (2025 - 2026)
+Natal Sharks (2024 - ) -> Sharks (2025 - )

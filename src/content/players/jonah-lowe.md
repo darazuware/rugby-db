@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonah-lowe"
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - 2020) -> Hawke's Bay Magpies (2019 - 2025) -> Chiefs (2020 - 2022) -> Highlanders (2022 - )
+Hurricanes (2017 - 2020) -> Hawke's Bay Magpies (2019 - ) -> Chiefs (2020 - 2022) -> Highlanders (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paddy-mccarthy"
 ---
 
 ## キャリア遍歴
-leinster rugby (2022 - 2026)
+leinster rugby (2022 - )

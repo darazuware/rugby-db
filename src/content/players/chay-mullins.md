@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/chay-mullins"
 ---
 
 ## キャリア遍歴
-bristol bears (2020 - 2022) -> connacht rugby (2022 - 2026)
+bristol bears (2020 - 2022) -> connacht rugby (2022 - )

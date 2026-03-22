@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/heiko-pohlmann"
 ---
 
 ## キャリア遍歴
-lions rugby (2020 - 2021) -> golden lions (2021 - 2024) -> lions rugby (2024 - 2026)
+lions rugby (2020 - 2021) -> golden lions (2021 - 2024) -> lions rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaac-hutchinson"
 ---
 
 ## キャリア遍歴
-Canterbury (2022 - 2025) -> Crusaders (2023 - 2024) -> Chiefs (2025 - )
+Canterbury (2022 - ) -> Crusaders (2023 - 2024) -> Chiefs (2025 - )

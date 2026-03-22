@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-carter"
 ---
 
 ## キャリア遍歴
-dragons rfc (2018 - 2026)
+dragons rfc (2018 - )

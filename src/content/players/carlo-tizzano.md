@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/carlo-tizzano"
 ---
 
 ## キャリア遍歴
-Western Force (2018 - 2026) -> New South Wales Waratahs (2019 - 2022) -> Ealing Trailfinders (2022 - )
+Western Force (2018 - ) -> New South Wales Waratahs (2019 - 2022) -> Ealing Trailfinders (2022)

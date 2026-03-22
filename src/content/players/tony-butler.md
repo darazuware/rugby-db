@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tony-butler"
 ---
 
 ## キャリア遍歴
-munster rugby (2021 - 2026)
+munster rugby (2021 - )

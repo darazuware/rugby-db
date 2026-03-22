@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jayden-sa"
 ---
 
 ## キャリア遍歴
-Crusaders (2023 - 2024) -> Taranaki Bulls (2023 - 2025) -> Chiefs (2024 - )
+Crusaders (2023 - 2024) -> Taranaki Bulls (2023 - ) -> Chiefs (2024)

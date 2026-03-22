@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-boyle"
 ---
 
 ## キャリア遍歴
-connacht rugby (2017 - 2026)
+connacht rugby (2017 - )

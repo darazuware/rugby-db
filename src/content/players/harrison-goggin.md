@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484446"
 ---
 
 ## キャリア遍歴
-North Brisbane Rugby Club (2024 - 2025) -> トヨタヴェルブリッツ (2025 - )
+North Brisbane Rugby Club (2024 - ) -> トヨタヴェルブリッツ (2025 - )

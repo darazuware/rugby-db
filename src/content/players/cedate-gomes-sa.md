@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cedate-gomes-sa"
 ---
 
 ## キャリア遍歴
-Saint-Nazaire Rugby (2007 - 2011) -> Racing 92 (2011 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2026)
+Saint-Nazaire Rugby (2007 - 2011) -> Racing 92 (2011 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

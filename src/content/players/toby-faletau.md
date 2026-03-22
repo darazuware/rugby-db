@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/toby-faletau"
 ---
 
 ## キャリア遍歴
-dragons rfc (2013 - 2016) -> bath rugby (2016 - 2022) -> cardiff rugby (2022 - 2026)
+dragons rfc (2013 - 2016) -> bath rugby (2016 - 2022) -> cardiff rugby (2022 - )

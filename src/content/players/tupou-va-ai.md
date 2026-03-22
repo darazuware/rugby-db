@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tupou-va-ai"
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2018 - 2022) -> Chiefs (2019 - )
+Taranaki Bulls (2018 - 2022) -> Chiefs (2019)

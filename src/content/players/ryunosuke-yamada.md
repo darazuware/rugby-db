@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484508"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2014 - 2019) -> Kamaishi Seawaves (2019 - )
+Green Rockets Tokatsu (2014 - 2019) -> Kamaishi Seawaves (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ultan-dillane"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2014 - 2022) -> Stade Rochelais (2022 - 2026)
+Connacht Rugby (2014 - 2022) -> Stade Rochelais (2022 - )

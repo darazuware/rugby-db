@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tupou-ma-afu-afungia"
 ---
 
 ## キャリア遍歴
-San Diego Legion (2022 - 2024) -> NOLA Gold (2024 - 2025) -> Moana Pasifika (2025 - )
+San Diego Legion (2022 - 2024) -> NOLA Gold (2024 - ) -> Moana Pasifika (2025 - )

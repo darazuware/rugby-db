@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mawande-mdanda"
 ---
 
 ## キャリア遍歴
-blue bulls (2022 - 2023) -> natal sharks (2023 - 2024) -> sharks (2024 - 2026)
+blue bulls (2022 - 2023) -> natal sharks (2023 - 2024) -> sharks (2024 - )

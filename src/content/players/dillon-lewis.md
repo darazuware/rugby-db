@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dillon-lewis"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2015 - 2023) -> Harlequins (2023 - 2025) -> Dragons RFC (2025 - 2026)
+Cardiff Rugby (2015 - 2023) -> Harlequins (2023 - ) -> Dragons RFC (2025 - )

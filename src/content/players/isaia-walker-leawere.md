@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaia-walker-leawere"
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - 2026) -> Hawke's Bay Magpies (2019 - 2025) -> North Harbour (2024 - )
+Hurricanes (2017 - ) -> Hawke's Bay Magpies (2019 - ) -> North Harbour (2024)

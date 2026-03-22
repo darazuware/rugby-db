@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finlay-christie"
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2017) -> Hurricanes (2017 - 2019) -> Tasman Mako (2019 - 2024) -> Blues (2019 - )
+Chiefs (2016 - 2017) -> Hurricanes (2017 - 2019) -> Tasman Mako (2019 - 2024) -> Blues (2019)

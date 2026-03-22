@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mesulame-dolokoto"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2021) -> Fijian Drua (2021 - )
+Glasgow Warriors (2019 - 2021) -> Fijian Drua (2021)

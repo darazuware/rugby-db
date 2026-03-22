@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leo-coly"
 ---
 
 ## キャリア遍歴
-Biscarrosse Olympique Rugby (2012 - 2016) -> Stade Montois Rugby Pro (2016 - 2022) -> Montpellier Hérault Rugby (2022 - 2026)
+Biscarrosse Olympique Rugby (2012 - 2016) -> Stade Montois Rugby Pro (2016 - 2022) -> Montpellier Hérault Rugby (2022 - )

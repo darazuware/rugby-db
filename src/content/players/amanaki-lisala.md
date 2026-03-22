@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485137"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2022 - 2023) -> LR福岡 (2023 - )
+Red Hurricanes Osaka (2022 - 2023) -> LR福岡 (2023)

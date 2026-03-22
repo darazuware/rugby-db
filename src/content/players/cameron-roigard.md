@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-roigard"
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2019 - 2025) -> Hurricanes (2020 - )
+Counties Manukau Steelers (2019 - ) -> Hurricanes (2020)

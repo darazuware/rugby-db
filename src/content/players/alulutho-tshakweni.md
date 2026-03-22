@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alulutho-tshakweni"
 ---
 
 ## キャリア遍歴
-southern kings (2018 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2024) -> bulls (2024 - 2026)
+southern kings (2018 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2024) -> bulls (2024 - )

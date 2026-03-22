@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/noa-zinzen"
 ---
 
 ## キャリア遍歴
-CA Bédarieux Grand Orb (2008 - 2013) -> Rives d'Orb (2013 - 2015) -> Association Sportive Béziers Hérault (2015 - 2020) -> Racing 92 (2020 - 2026)
+CA Bédarieux Grand Orb (2008 - 2013) -> Rives d'Orb (2013 - 2015) -> Association Sportive Béziers Hérault (2015 - 2020) -> Racing 92 (2020 - )

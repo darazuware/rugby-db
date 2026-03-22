@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibaud-flament"
 ---
 
 ## キャリア遍歴
-ASUB Rugby Waterloo (2005 - 2015) -> Loughborough University (2015 - 2017) -> Club Newman (2017 - 2018) -> Loughborough University (2018 - 2019) -> Wasps (2019 - 2020) -> Stade Toulousain (2020 - 2026)
+ASUB Rugby Waterloo (2005 - 2015) -> Loughborough University (2015 - 2019) -> Club Newman (2017 - 2018) -> Wasps (2019 - 2020) -> Stade Toulousain (2020 - )

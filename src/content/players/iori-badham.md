@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/iori-badham"
 ---
 
 ## キャリア遍歴
-scarlets (2023 - 2026)
+scarlets (2023 - )

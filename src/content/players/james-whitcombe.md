@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-whitcombe"
 ---
 
 ## キャリア遍歴
-leicester tigers (2017 - 2025) -> edimbourg rugby (2025 - 2026)
+leicester tigers (2017 - ) -> edimbourg rugby (2025 - )

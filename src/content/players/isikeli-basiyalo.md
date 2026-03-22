@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isikeli-basiyalo"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2024 - )
+Fijian Drua (2024)

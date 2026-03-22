@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guram-gogichashvili"
 ---
 
 ## キャリア遍歴
-RC Locomotive Tbilisi (2017 - 2018) -> Racing 92 (2018 - 2026)
+RC Locomotive Tbilisi (2017 - 2018) -> Racing 92 (2018 - )

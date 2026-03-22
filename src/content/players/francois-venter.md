@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francois-venter"
 ---
 
 ## キャリア遍歴
-central cheetahs (2013 - 2018) -> worcester warriors (2018 - 2022) -> sharks (2022 - 2022) -> worcester warriors (2023 - 2023) -> sharks (2023 - 2026)
+central cheetahs (2013 - 2018) -> worcester warriors (2018 - 2023) -> sharks (2022 - )

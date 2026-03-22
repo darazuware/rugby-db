@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/seb-davies"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2016 - 2025) -> Dragons RFC (2025 - 2026)
+Cardiff Rugby (2016 - ) -> Dragons RFC (2025 - )

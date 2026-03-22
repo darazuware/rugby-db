@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/enrico-lucchin"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2019 - 2026)
+Zebre Parma (2019 - )

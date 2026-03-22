@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/iacopo-bianchi"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2018 - 2026)
+Zebre Parma (2018 - )

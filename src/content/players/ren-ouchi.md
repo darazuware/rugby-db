@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484630"
 ---
 
 ## キャリア遍歴
-SA広島 (2022 - )
+SA広島 (2022)

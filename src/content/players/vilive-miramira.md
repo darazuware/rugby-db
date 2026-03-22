@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vilive-miramira"
 ---
 
 ## キャリア遍歴
-Nadi Jets  Rugby (2020 - 2021) -> Fijian Drua (2021 - )
+Nadi Jets  Rugby (2020 - 2021) -> Fijian Drua (2021)

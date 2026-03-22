@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-godfrey"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2020 - 2025) -> Hurricanes (2022 - )
+Hawke's Bay Magpies (2020 - ) -> Hurricanes (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ignacio-calles"
 ---
 
 ## キャリア遍歴
-Liceo Naval (2015 - 2016) -> Section Paloise Béarn Pyrénées (2016 - 2025) -> Aviron Bayonnais (2025 - 2026)
+Liceo Naval (2015 - 2016) -> Section Paloise Béarn Pyrénées (2016 - ) -> Aviron Bayonnais (2025 - )

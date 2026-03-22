@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mohammed-houas"
 ---
 
 ## キャリア遍歴
-Montpellier Hérault Rugby (2008 - 2023) -> Biarritz Olympique Pays Basque (2023 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+Montpellier Hérault Rugby (2008 - ) -> Biarritz Olympique Pays Basque (2023 - 2024)

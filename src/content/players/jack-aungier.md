@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-aungier"
 ---
 
 ## キャリア遍歴
-leinster rugby (2017 - 2019) -> connacht rugby (2019 - 2019) -> leinster rugby (2020 - 2020) -> connacht rugby (2020 - 2026)
+leinster rugby (2017 - 2020) -> connacht rugby (2019 - )

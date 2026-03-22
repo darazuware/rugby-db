@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484607"
 ---
 
 ## キャリア遍歴
-日野RD (2024 - )
+日野RD (2024)

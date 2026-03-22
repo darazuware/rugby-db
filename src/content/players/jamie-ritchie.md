@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jamie-ritchie"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2014 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2026)
+Edimbourg Rugby (2014 - ) -> Union Sportive Arlequins Perpignanais (2025 - )

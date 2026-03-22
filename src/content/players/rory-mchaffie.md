@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-mchaffie"
 ---
 
 ## キャリア遍歴
-peebles rfc (2023 - 2025) -> edimbourg rugby (2025 - 2026)
+peebles rfc (2023 - ) -> edimbourg rugby (2025 - )

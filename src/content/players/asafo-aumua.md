@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/asafo-aumua"
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - 2026) -> Wellington Lions (2019 - )
+Hurricanes (2017 - ) -> Wellington Lions (2019)

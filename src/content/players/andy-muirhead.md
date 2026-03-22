@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andy-muirhead"
 ---
 
 ## キャリア遍歴
-Brumbies (2016 - )
+Brumbies (2016)

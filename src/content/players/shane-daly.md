@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shane-daly"
 ---
 
 ## キャリア遍歴
-munster rugby (2017 - 2026)
+munster rugby (2017 - )

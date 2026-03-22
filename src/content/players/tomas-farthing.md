@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomas-farthing"
 ---
 
 ## キャリア遍歴
-galway corinthians rfc (2023 - 2024) -> connacht rugby (2024 - 2026)
+galway corinthians rfc (2023 - 2024) -> connacht rugby (2024 - )

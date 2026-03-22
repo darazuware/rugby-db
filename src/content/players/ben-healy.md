@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-healy"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2019 - 2023) -> Edimbourg Rugby (2023 - 2026)
+Munster Rugby (2019 - 2023) -> Edimbourg Rugby (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/etienne-janeke"
 ---
 
 ## キャリア遍歴
-pumas (2020 - 2025) -> bulls (2025 - 2026)
+pumas (2020 - ) -> bulls (2025 - )

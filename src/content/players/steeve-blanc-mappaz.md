@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/steeve-blanc-mappaz"
 ---
 
 ## キャリア遍歴
-Stade Olympique Chambéry (2009 - 2017) -> Rugby Club Vannes (2017 - 2018) -> FC Grenoble Rugby (2018 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2025) -> Rugby Club Vannes (2025 - 2025) -> Lyon Olympique Universitaire Rugby (2026 - 2026) -> Rugby Club Vannes (2026 - 2026)
+Stade Olympique Chambéry (2009 - 2017) -> Rugby Club Vannes (2017 - 2018) -> FC Grenoble Rugby (2018 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - ) -> Rugby Club Vannes (2025 - )

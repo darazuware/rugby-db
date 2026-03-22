@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simon-parker"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2019 - 2023) -> Chiefs (2019 - 2026) -> Northland Taniwha (2023 - )
+Waikato Mooloos (2019 - 2023) -> Chiefs (2019 - ) -> Northland Taniwha (2023)

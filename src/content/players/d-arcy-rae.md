@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/d-arcy-rae"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2014 - 2014) -> Glasgow Warriors (2014 - 2014) -> Benetton Rugby Trévise (2015 - 2015) -> Glasgow Warriors (2015 - 2021) -> Bath Rugby (2021 - 2023) -> Montpellier Hérault Rugby (2023 - 2023) -> Edimbourg Rugby (2023 - 2023) -> Montpellier Hérault Rugby (2024 - 2024) -> Edimbourg Rugby (2024 - 2026)
+Benetton Rugby Trévise (2014 - 2015) -> Glasgow Warriors (2014 - 2021) -> Bath Rugby (2021 - 2023) -> Montpellier Hérault Rugby (2023 - 2024) -> Edimbourg Rugby (2023 - )

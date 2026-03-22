@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/xavier-rubens"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2023 - )
+Queensland Reds (2023)

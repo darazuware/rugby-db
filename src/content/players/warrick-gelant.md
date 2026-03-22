@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/warrick-gelant"
 ---
 
 ## キャリア遍歴
-Bulls (2015 - 2020) -> Stormers (2020 - 2022) -> Racing 92 (2022 - 2023) -> Stormers (2023 - 2026)
+Bulls (2015 - 2020) -> Stormers (2020 - ) -> Racing 92 (2022 - 2023)

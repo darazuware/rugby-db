@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alvaro-garcia"
 ---
 
 ## キャリア遍歴
-UE Santboiana (2021 - 2023) -> Stade Français Paris Rugby (2023 - 2026)
+UE Santboiana (2021 - 2023) -> Stade Français Paris Rugby (2023 - )

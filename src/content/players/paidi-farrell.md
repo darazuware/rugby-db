@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paidi-farrell"
 ---
 
 ## キャリア遍歴
-old wesley rfc (2024 - 2025) -> leinster rugby (2025 - 2026)
+old wesley rfc (2024 - ) -> leinster rugby (2025 - )

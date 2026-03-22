@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/victor-hannoun"
 ---
 
 ## キャリア遍歴
-Anglet Olympique Rugby Club (2013 - 2018) -> Aviron Bayonnais (2018 - 2026)
+Anglet Olympique Rugby Club (2013 - 2018) -> Aviron Bayonnais (2018 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/youri-delhommel"
 ---
 
 ## キャリア遍歴
-US Ris-Orangis Rugby (2004 - 2010) -> Rugby Club Massy Essonne (2010 - 2018) -> Montpellier Hérault Rugby (2018 - 2018) -> Rugby Club Massy Essonne (2019 - 2019) -> Montpellier Hérault Rugby (2019 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)
+US Ris-Orangis Rugby (2004 - 2010) -> Rugby Club Massy Essonne (2010 - 2019) -> Montpellier Hérault Rugby (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - )

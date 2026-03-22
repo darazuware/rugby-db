@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andrew-knewstubb"
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2025) -> Tasman Mako (2020 - 2021) -> Highlanders (2025 - )
+Canterbury (2019 - ) -> Tasman Mako (2020 - 2021) -> Highlanders (2025 - )

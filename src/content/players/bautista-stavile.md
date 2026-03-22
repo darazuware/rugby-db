@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bautista-stavile"
 ---
 
 ## キャリア遍歴
-selknam (2019 - 2021) -> rugby viadana 1970 (2021 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - 2026)
+selknam (2019 - 2021) -> rugby viadana 1970 (2021 - 2022) -> rugby rovigo delta (2022 - 2023) -> zebre parma (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sosefo-kautai"
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2019) -> Waikato Mooloos (2018 - 2025) -> Brumbies (2020 - 2024) -> Highlanders (2024 - )
+Chiefs (2016 - 2019) -> Waikato Mooloos (2018 - ) -> Brumbies (2020 - 2024) -> Highlanders (2024)

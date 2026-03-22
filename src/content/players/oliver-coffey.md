@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oliver-coffey"
 ---
 
 ## キャリア遍歴
-blackrock college rfc (2023 - 2024) -> leinster rugby (2024 - 2026)
+blackrock college rfc (2023 - 2024) -> leinster rugby (2024 - )

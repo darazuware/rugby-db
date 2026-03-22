@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leonard-krumov"
 ---
 
 ## キャリア遍歴
-zebre parma (2017 - 2026)
+zebre parma (2017 - )

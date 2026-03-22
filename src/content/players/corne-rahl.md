@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corne-rahl"
 ---
 
 ## キャリア遍歴
-natal sharks (2021 - 2022) -> sharks (2022 - 2026)
+natal sharks (2021 - 2022) -> sharks (2022 - )

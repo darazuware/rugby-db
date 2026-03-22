@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-edogbo"
 ---
 
 ## キャリア遍歴
-University College Cork (2023 - 2024) -> Munster Rugby (2024 - 2026)
+University College Cork (2023 - 2024) -> Munster Rugby (2024 - )

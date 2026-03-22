@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/edwill-van-der-merwe"
 ---
 
 ## キャリア遍歴
-Stormers (2018 - 2021) -> Lions Rugby (2021 - 2021) -> Stormers (2022 - 2022) -> Lions Rugby (2022 - 2025) -> Sharks (2025 - 2026)
+Stormers (2018 - 2022) -> Lions Rugby (2021 - ) -> Sharks (2025 - )

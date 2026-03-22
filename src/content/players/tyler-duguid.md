@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tyler-duguid"
 ---
 
 ## キャリア遍歴
-Edmonton Rugby Union (2018 - 2019) -> Racing Club Narbonnais (2019 - 2020) -> Montpellier Hérault Rugby (2020 - 2026)
+Edmonton Rugby Union (2018 - 2019) -> Racing Club Narbonnais (2019 - 2020) -> Montpellier Hérault Rugby (2020 - )

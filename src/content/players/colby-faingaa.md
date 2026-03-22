@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483692"
 ---
 
 ## キャリア遍歴
-Brumbies (2010 - 2013) -> レベルズ (2014 - 2018) -> メルボルン・ライジング (2015 - 2016) -> Connacht Rugby (2018 - 2020) -> リヨンOU (2020 - 2022) -> Kyushu Kyuden Voltex (2022 - )
+Brumbies (2010 - 2013) -> レベルズ (2014 - 2018) -> メルボルン・ライジング (2015 - 2016) -> Connacht Rugby (2018 - 2020) -> リヨンOU (2020 - 2022) -> Kyushu Kyuden Voltex (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rf-schoeman"
 ---
 
 ## キャリア遍歴
-golden lions (2023 - 2024) -> lions rugby (2024 - 2026)
+golden lions (2023 - 2024) -> lions rugby (2024 - )

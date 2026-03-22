@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gianmarco-lucchesi"
 ---
 
 ## キャリア遍歴
-Rugby Calvisano (2019 - 2019) -> Benetton Rugby Trévise (2019 - 2019) -> Rugby Calvisano (2020 - 2020) -> Benetton Rugby Trévise (2020 - 2024) -> Rugby Club Toulonnais (2024 - 2026)
+Rugby Calvisano (2019 - 2020) -> Benetton Rugby Trévise (2019 - 2024) -> Rugby Club Toulonnais (2024 - )

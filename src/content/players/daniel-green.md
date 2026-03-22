@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/daniel-green"
 ---
 
 ## キャリア遍歴
-queen's university (2024 - 2025) -> ulster rugby (2025 - 2026)
+queen's university (2024 - ) -> ulster rugby (2025 - )

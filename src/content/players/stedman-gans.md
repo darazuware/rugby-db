@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stedman-gans"
 ---
 
 ## キャリア遍歴
-bulls (2019 - 2026)
+bulls (2019 - )

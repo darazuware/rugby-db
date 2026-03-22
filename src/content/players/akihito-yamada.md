@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483693"
 ---
 
 ## キャリア遍歴
-Mie Honda Heat RFC (2008 - 2010) -> パナソニック ワイルドナイツ (2010 - 2019) -> フォース (2015 - 2015) -> サンウルブズ (2016 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2019) -> 浦安D-Rocks (2019 - 2022) -> シアトル・シーウルブズ (2021 - 2021) -> Kyushu Kyuden Voltex (2022 - )
+Mie Honda Heat RFC (2008 - 2010) -> パナソニック ワイルドナイツ (2010 - 2019) -> フォース (2015) -> サンウルブズ (2016 - 2019) -> Lyon Olympique Universitaire Rugby (2019) -> 浦安D-Rocks (2019 - 2022) -> シアトル・シーウルブズ (2021) -> Kyushu Kyuden Voltex (2022)

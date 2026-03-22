@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cai-evans"
 ---
 
 ## キャリア遍歴
-Ospreys (2017 - 2023) -> Dragons RFC (2023 - 2026)
+Ospreys (2017 - 2023) -> Dragons RFC (2023 - )

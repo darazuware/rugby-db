@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-dzmanashvili"
 ---
 
 ## キャリア遍歴
-RC Rustavi Kharebi (2021 - 2022) -> ASM Clermont Auvergne (2022 - 2024) -> Biarritz Olympique Pays Basque (2024 - 2025) -> ASM Clermont Auvergne (2025 - 2026)
+RC Rustavi Kharebi (2021 - 2022) -> ASM Clermont Auvergne (2022 - ) -> Biarritz Olympique Pays Basque (2024 - )

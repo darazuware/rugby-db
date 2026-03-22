@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeronimo-de-la-fuente"
 ---
 
 ## キャリア遍歴
-Jaguares (2015 - 2020) -> Union Sportive Arlequins Perpignanais (2020 - 2026)
+Jaguares (2015 - 2020) -> Union Sportive Arlequins Perpignanais (2020 - )

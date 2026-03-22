@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/billy-pollard"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2019) -> Brumbies (2019 - 2026) -> Stade Rochelais (2023 - )
+New South Wales Waratahs (2018 - 2019) -> Brumbies (2019 - ) -> Stade Rochelais (2023)

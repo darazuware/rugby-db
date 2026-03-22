@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/albert-batista"
 ---
 
 ## キャリア遍歴
-colorno (2020 - 2025) -> zebre parma (2025 - 2026)
+colorno (2020 - ) -> zebre parma (2025 - )

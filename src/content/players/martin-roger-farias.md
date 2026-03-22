@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/martin-roger-farias"
 ---
 
 ## キャリア遍歴
-Club Atlético San Isidro (2020 - 2021) -> Rugby Viadana 1970 (2023 - 2025) -> Zebre Parma (2025 - 2026)
+Club Atlético San Isidro (2020 - 2021) -> Rugby Viadana 1970 (2023 - ) -> Zebre Parma (2025 - )

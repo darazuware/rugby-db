@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/efan-daniel"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2020 - 2025) -> ospreys (2025 - 2026)
+cardiff rugby (2020 - ) -> ospreys (2025 - )

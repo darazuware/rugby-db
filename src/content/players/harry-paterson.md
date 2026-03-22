@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-paterson"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2020 - 2026)
+Edimbourg Rugby (2020 - )

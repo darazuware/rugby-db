@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/muhamed-hasa"
 ---
 
 ## キャリア遍歴
-petrarca rugby (2020 - 2022) -> zebre parma (2022 - 2026)
+petrarca rugby (2020 - 2022) -> zebre parma (2022 - )

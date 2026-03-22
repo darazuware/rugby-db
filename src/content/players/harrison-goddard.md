@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484200"
 ---
 
 ## キャリア遍歴
-メルボルン・レベルズ (2016 - 2019) -> Randwick Rugby (2018 - 2019) -> Gordon Rugby Football Club (2019 - 2022) -> LA Giltinis (2020 - 2022) -> ワラターズ (2022 - 2023) -> ブランビーズ (2023 - 2025) -> 清水建設江東ブルーシャークス (2025 - )
+メルボルン・レベルズ (2016 - 2019) -> Randwick Rugby (2018 - 2019) -> Gordon Rugby Football Club (2019 - 2022) -> LA Giltinis (2020 - 2022) -> ワラターズ (2022 - 2023) -> ブランビーズ (2023 - ) -> 清水建設江東ブルーシャークス (2025 - )

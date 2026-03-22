@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/flynn-longstaff"
 ---
 
 ## キャリア遍歴
-Queen's University (2024 - 2025) -> Ulster Rugby (2025 - 2026)
+Queen's University (2024 - ) -> Ulster Rugby (2025 - )

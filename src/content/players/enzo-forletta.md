@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/enzo-forletta"
 ---
 
 ## キャリア遍歴
-Étoile Sportive Catalane (2009 - 2011) -> Union Sportive Arlequins Perpignanais (2011 - 2020) -> Montpellier Hérault Rugby (2020 - 2026)
+Étoile Sportive Catalane (2009 - 2011) -> Union Sportive Arlequins Perpignanais (2011 - 2020) -> Montpellier Hérault Rugby (2020 - )

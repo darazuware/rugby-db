@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/federico-zanandrea"
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2023 - 2024) -> benetton rugby trévise (2024 - 2024) -> mogliano veneto rugby (2024 - 2024) -> benetton rugby trévise (2025 - 2025) -> mogliano veneto rugby (2025 - 2025) -> benetton rugby trévise (2025 - 2026)
+mogliano veneto rugby (2023 - ) -> benetton rugby trévise (2024 - )

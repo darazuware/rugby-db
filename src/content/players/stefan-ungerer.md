@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stefan-ungerer"
 ---
 
 ## キャリア遍歴
-sharks (2013 - 2016) -> southern kings (2016 - 2020) -> griquas (2020 - 2021) -> stormers (2021 - 2021) -> griquas (2022 - 2022) -> stormers (2022 - 2026)
+sharks (2013 - 2016) -> southern kings (2016 - 2020) -> griquas (2020 - 2022) -> stormers (2021 - )

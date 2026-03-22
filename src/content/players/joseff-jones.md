@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joseff-jones"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2024 - 2026)
+Cardiff Rugby (2024 - )

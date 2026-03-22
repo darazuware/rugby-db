@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-hadden"
 ---
 
 ## キャリア遍歴
-gorey rfc (2021 - 2022) -> clontarf rugby (2022 - 2023) -> munster rugby (2023 - 2026)
+gorey rfc (2021 - 2022) -> clontarf rugby (2022 - 2023) -> munster rugby (2023 - )

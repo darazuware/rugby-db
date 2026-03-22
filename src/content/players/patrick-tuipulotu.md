@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/patrick-tuipulotu"
 ---
 
 ## キャリア遍歴
-Blues (2013 - 2026) -> Auckland (2019 - 2024) -> Toyota Verblitz (2021 - )
+Blues (2013 - ) -> Auckland (2019 - 2024) -> Toyota Verblitz (2021)

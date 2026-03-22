@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/callum-sheedy"
 ---
 
 ## キャリア遍歴
-bristol bears (2018 - 2024) -> cardiff rugby (2024 - 2026)
+bristol bears (2018 - 2024) -> cardiff rugby (2024 - )

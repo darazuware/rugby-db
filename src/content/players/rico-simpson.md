@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rico-simpson"
 ---
 
 ## キャリア遍歴
-Auckland (2023 - 2025) -> Blues (2023 - )
+Auckland (2023 - ) -> Blues (2023)

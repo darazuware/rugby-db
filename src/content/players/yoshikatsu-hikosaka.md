@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484468"
 ---
 
 ## キャリア遍歴
-Toyota Verblitz (2013 - )
+Toyota Verblitz (2013)

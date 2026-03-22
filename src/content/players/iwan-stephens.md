@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/iwan-stephens"
 ---
 
 ## キャリア遍歴
-leeds rhinos rugby league club (2019 - 2020) -> newcastle (2020 - 2024) -> cardiff rugby (2024 - 2026)
+leeds rhinos rugby league club (2019 - 2020) -> newcastle (2020 - 2024) -> cardiff rugby (2024 - )

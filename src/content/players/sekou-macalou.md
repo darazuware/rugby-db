@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sekou-macalou"
 ---
 
 ## キャリア遍歴
-AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> Stade Français Paris Rugby (2015 - 2026)
+AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> Stade Français Paris Rugby (2015 - )

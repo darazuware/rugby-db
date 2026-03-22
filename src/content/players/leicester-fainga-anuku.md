@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leicester-fainga-anuku"
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2026) -> Tasman Mako (2019 - 2025) -> Rugby Club Toulonnais (2023 - )
+Crusaders (2018 - ) -> Tasman Mako (2019 - ) -> Rugby Club Toulonnais (2023)

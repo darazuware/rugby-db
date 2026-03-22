@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-goddard"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2023 - 2026) -> Eastwood Rugby Club (2024 - )
+New South Wales Waratahs (2023 - ) -> Eastwood Rugby Club (2024)

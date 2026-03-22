@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-mclaughlin-phillips"
 ---
 
 ## キャリア遍歴
-Souths Rugby (2022 - 2023) -> Queensland Reds (2023 - )
+Souths Rugby (2022 - 2023) -> Queensland Reds (2023)

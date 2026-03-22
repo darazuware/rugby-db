@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hector-patterson"
 ---
 
 ## キャリア遍歴
-Watsonian Rugby Club (2022 - 2023) -> Edimbourg Rugby (2023 - 2026)
+Watsonian Rugby Club (2022 - 2023) -> Edimbourg Rugby (2023 - )

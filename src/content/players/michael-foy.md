@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/michael-foy"
 ---
 
 ## キャリア遍歴
-Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - 2026)
+Cork Constitution RFC (2023 - 2024) -> Munster Rugby (2024 - )

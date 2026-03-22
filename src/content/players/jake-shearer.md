@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-shearer"
 ---
 
 ## キャリア遍歴
-cumnock rfc (2023 - 2024) -> glasgow warriors (2024 - 2026)
+cumnock rfc (2023 - 2024) -> glasgow warriors (2024 - )

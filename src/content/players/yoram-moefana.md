@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/yoram-moefana"
 ---
 
 ## キャリア遍歴
-Union Sportive Athlétique de Limoges (2012 - 2013) -> US Colomiers (2013 - 2019) -> Union Bordeaux-Bègles (2019 - 2026)
+Union Sportive Athlétique de Limoges (2012 - 2013) -> US Colomiers (2013 - 2019) -> Union Bordeaux-Bègles (2019 - )

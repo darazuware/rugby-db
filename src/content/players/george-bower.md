@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-bower"
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2026) -> Otago (2019 - )
+Crusaders (2018 - ) -> Otago (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cyril-cazeaux"
 ---
 
 ## キャリア遍歴
-US Dax Rugby Landes (2014 - 2015) -> Union Bordeaux-Bègles (2015 - 2026)
+US Dax Rugby Landes (2014 - 2015) -> Union Bordeaux-Bègles (2015 - )

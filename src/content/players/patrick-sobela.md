@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/patrick-sobela"
 ---
 
 ## キャリア遍歴
-Oyonnax Rugby (2011 - 2018) -> Lyon Olympique Universitaire Rugby (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)
+Oyonnax Rugby (2011 - 2018) -> Lyon Olympique Universitaire Rugby (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

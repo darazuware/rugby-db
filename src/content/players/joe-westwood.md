@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-westwood"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2020 - 2026)
+Dragons RFC (2020 - )

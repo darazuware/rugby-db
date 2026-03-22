@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dany-priso"
 ---
 
 ## キャリア遍歴
-Ussel (2009 - 2012) -> Union Sportive Athlétique de Limoges (2012 - 2013) -> Stade Français Paris Rugby (2013 - 2016) -> Stade Rochelais (2016 - 2022) -> Rugby Club Toulonnais (2022 - 2026)
+Ussel (2009 - 2012) -> Union Sportive Athlétique de Limoges (2012 - 2013) -> Stade Français Paris Rugby (2013 - 2016) -> Stade Rochelais (2016 - 2022) -> Rugby Club Toulonnais (2022 - )

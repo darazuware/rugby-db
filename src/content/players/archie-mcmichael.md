@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/archie-mcmichael"
 ---
 
 ## キャリア遍歴
-Strathallan Rugby Academy (2023 - 2024) -> Glasgow Warriors (2024 - 2026)
+Strathallan Rugby Academy (2023 - 2024) -> Glasgow Warriors (2024 - )

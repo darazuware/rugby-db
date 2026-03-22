@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-crean"
 ---
 
 ## キャリア遍歴
-saracens (2019 - 2022) -> ampthill rugby (2022 - 2022) -> saracens (2023 - 2023) -> ampthill rugby (2023 - 2023) -> saracens (2023 - 2023) -> ampthill rugby (2023 - 2023) -> saracens (2024 - 2024) -> ampthill rugby (2024 - 2024) -> ulster rugby (2024 - 2024) -> ampthill rugby (2024 - 2024) -> saracens (2024 - 2024) -> ulster rugby (2025 - 2025) -> ampthill rugby (2025 - 2025) -> saracens (2025 - 2025) -> ulster rugby (2025 - 2026)
+saracens (2019 - ) -> ampthill rugby (2022 - ) -> ulster rugby (2024 - )

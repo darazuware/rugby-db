@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-slipper"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2013 - 2018) -> Brumbies (2018 - )
+Queensland Reds (2013 - 2018) -> Brumbies (2018)

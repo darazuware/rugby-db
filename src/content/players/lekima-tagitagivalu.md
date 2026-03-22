@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lekima-tagitagivalu"
 ---
 
 ## キャリア遍歴
-Stade Aurillacois Cantal Auvergne (2013 - 2014) -> Section Paloise Béarn Pyrénées (2015 - 2025) -> Racing 92 (2025 - 2026)
+Stade Aurillacois Cantal Auvergne (2013 - 2014) -> Section Paloise Béarn Pyrénées (2015 - ) -> Racing 92 (2025 - )

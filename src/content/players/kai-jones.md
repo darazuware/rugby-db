@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kai-jones"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+Scarlets (2025 - )

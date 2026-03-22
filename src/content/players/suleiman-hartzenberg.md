@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/suleiman-hartzenberg"
 ---
 
 ## キャリア遍歴
-western province (2021 - 2022) -> stormers (2022 - 2026)
+western province (2021 - 2022) -> stormers (2022 - )

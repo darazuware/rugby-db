@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlie-shiel"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2017 - 2026)
+Edimbourg Rugby (2017 - )

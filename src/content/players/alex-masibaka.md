@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-masibaka"
 ---
 
 ## キャリア遍歴
-Western Force (2021 - 2022) -> Montpellier Hérault Rugby (2022 - 2023) -> Soyaux-Angoulême XV Charente (2023 - 2025) -> Montpellier Hérault Rugby (2025 - 2026)
+Western Force (2021 - 2022) -> Montpellier Hérault Rugby (2022 - 2023) -> Soyaux-Angoulême XV Charente (2023 - ) -> Montpellier Hérault Rugby (2025 - )

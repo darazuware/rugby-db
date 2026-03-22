@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-larmour"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2017 - 2026)
+Leinster Rugby (2017 - )

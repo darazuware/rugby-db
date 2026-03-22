@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/philip-albert-van-niekerk"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2023 - 2025) -> Bulls (2025 - 2026)
+Blue Bulls (2023 - ) -> Bulls (2025 - )

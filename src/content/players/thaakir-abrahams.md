@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thaakir-abrahams"
 ---
 
 ## キャリア遍歴
-sharks (2019 - 2023) -> lyon olympique universitaire rugby (2023 - 2024) -> munster rugby (2024 - 2026)
+sharks (2019 - 2023) -> lyon olympique universitaire rugby (2023 - 2024) -> munster rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483694"
 ---
 
 ## キャリア遍歴
-Munakata Sanix Blues (2021 - 2022) -> Kyushu Kyuden Voltex (2022 - )
+Munakata Sanix Blues (2021 - 2022) -> Kyushu Kyuden Voltex (2022)

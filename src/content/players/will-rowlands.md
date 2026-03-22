@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-rowlands"
 ---
 
 ## キャリア遍歴
-Wasps (2015 - 2021) -> Dragons RFC (2021 - 2023) -> Racing 92 (2023 - 2026)
+Wasps (2015 - 2021) -> Dragons RFC (2021 - 2023) -> Racing 92 (2023 - )

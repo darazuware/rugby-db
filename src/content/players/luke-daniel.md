@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luke-daniel"
 ---
 
 ## キャリア遍歴
-dragons rfc (2025 - 2026)
+dragons rfc (2025 - )

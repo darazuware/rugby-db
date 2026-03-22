@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483695"
 ---
 
 ## キャリア遍歴
-コカ・コーラウエストレッドスパークス (2013 - 2014) -> Coca Cola West Red Sparks (2014 - 2021) -> Munakata Sanix Blues (2021 - 2022) -> Kyushu Kyuden Voltex (2022 - )
+コカ・コーラウエストレッドスパークス (2013 - 2014) -> Coca Cola West Red Sparks (2014 - 2021) -> Munakata Sanix Blues (2021 - 2022) -> Kyushu Kyuden Voltex (2022)

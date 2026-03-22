@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/setareki-turagacoke"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2023 - 2026)
+Stade Français Paris Rugby (2023 - )

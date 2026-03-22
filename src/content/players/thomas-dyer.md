@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thomas-dyer"
 ---
 
 ## キャリア遍歴
-sharks (2023 - 2026)
+sharks (2023 - )

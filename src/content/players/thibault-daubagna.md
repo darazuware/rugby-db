@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibault-daubagna"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (1999 - 2026)
+Section Paloise Béarn Pyrénées (1999 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siale-lauaki"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2021 - 2025) -> Hurricanes (2023 - )
+Wellington Lions (2021 - ) -> Hurricanes (2023)

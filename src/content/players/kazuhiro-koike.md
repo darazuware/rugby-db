@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484686"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2015 - 2024) -> Mie Honda Heat RFC (2024 - )
+リコーブラックラムズ東京 (2015 - 2024) -> Mie Honda Heat RFC (2024)

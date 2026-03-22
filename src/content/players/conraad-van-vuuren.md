@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/conraad-van-vuuren"
 ---
 
 ## キャリア遍歴
-bulls (2016 - 2019) -> sunwolves (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> lions rugby (2023 - 2026)
+bulls (2016 - 2019) -> sunwolves (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> lions rugby (2023 - )

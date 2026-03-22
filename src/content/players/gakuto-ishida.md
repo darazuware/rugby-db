@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483518"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021 - 2023) -> 浦安D-Rocks (2023 - )
+NECグリーンロケッツ東葛 (2021 - 2023) -> 浦安D-Rocks (2023)

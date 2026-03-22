@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joseph-sua-ali-i"
 ---
 
 ## キャリア遍歴
-Sydney Roosters (2020 - 2024) -> New South Wales Waratahs (2024 - )
+Sydney Roosters (2020 - 2024) -> New South Wales Waratahs (2024)

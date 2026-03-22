@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emosi-tuqiri"
 ---
 
 ## キャリア遍歴
-GPS Rugby Club (2019 - 2022) -> Fijian Drua (2022 - 2026) -> Counties Manukau Steelers (2024 - )
+GPS Rugby Club (2019 - 2022) -> Fijian Drua (2022 - ) -> Counties Manukau Steelers (2024)

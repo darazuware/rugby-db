@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-maart"
 ---
 
 ## キャリア遍歴
-griquas (2023 - 2025) -> stormers (2025 - 2026)
+griquas (2023 - ) -> stormers (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/titi-nofoagatotoa"
 ---
 
 ## キャリア遍歴
-Western Force (2023 - )
+Western Force (2023)

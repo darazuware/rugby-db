@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/julian-savea"
 ---
 
 ## キャリア遍歴
-Hurricanes (2010 - 2023) -> Rugby Club Toulonnais (2018 - 2020) -> Wellington Lions (2019 - 2025) -> Moana Pasifika (2023 - )
+Hurricanes (2010 - 2023) -> Rugby Club Toulonnais (2018 - 2020) -> Wellington Lions (2019 - ) -> Moana Pasifika (2023)

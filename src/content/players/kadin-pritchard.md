@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kadin-pritchard"
 ---
 
 ## キャリア遍歴
-Brumbies (2023 - )
+Brumbies (2023)

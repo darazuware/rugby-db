@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/clovis-le-bail"
 ---
 
 ## キャリア遍歴
-Stade Nantais (2004 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2023) -> Racing 92 (2023 - 2025) -> Rugby Club Toulonnais (2025 - 2026)
+Stade Nantais (2004 - 2014) -> Section Paloise Béarn Pyrénées (2014 - 2023) -> Racing 92 (2023 - ) -> Rugby Club Toulonnais (2025 - )

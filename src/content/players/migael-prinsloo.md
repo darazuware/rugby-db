@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/migael-prinsloo"
 ---
 
 ## キャリア遍歴
-benetton rugby trévise (2024 - 2025) -> zebre parma (2025 - 2026)
+benetton rugby trévise (2024 - ) -> zebre parma (2025 - )

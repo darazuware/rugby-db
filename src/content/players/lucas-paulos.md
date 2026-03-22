@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-paulos"
 ---
 
 ## キャリア遍歴
-Stade Montois Rugby Pro (2014 - 2017) -> Olivos RC (2017 - 2018) -> Jaguares (2018 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Aviron Bayonnais (2023 - 2026)
+Stade Montois Rugby Pro (2014 - 2017) -> Olivos RC (2017 - 2018) -> Jaguares (2018 - 2020) -> CA Brive Corrèze Limousin (2020 - 2023) -> Aviron Bayonnais (2023 - )

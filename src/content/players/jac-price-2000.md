@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jac-price-2000"
 ---
 
 ## キャリア遍歴
-Scarlets (2018 - 2026)
+Scarlets (2018 - )

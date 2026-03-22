@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/corey-domachowski"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2015 - 2026)
+Cardiff Rugby (2015 - )

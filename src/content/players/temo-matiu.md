@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/temo-matiu"
 ---
 
 ## キャリア遍歴
-Pennes-Mirabeau Cadeneaux Rugby (2007 - 2008) -> Biarritz Olympique Pays Basque (2011 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)
+Pennes-Mirabeau Cadeneaux Rugby (2007 - 2008) -> Biarritz Olympique Pays Basque (2011 - 2024) -> Union Bordeaux-Bègles (2024 - )

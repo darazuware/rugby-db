@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jannes-kirsten"
 ---
 
 ## キャリア遍歴
-bulls (2015 - 2019) -> exeter chiefs (2019 - 2023) -> bulls (2023 - 2026)
+bulls (2015 - 2019) -> exeter chiefs (2019 - 2023) -> bulls (2023 - )

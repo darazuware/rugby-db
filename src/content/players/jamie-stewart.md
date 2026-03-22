@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jamie-stewart"
 ---
 
 ## キャリア遍歴
-exeter chiefs (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+exeter chiefs (2023 - 2024) -> edimbourg rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/huw-anderson"
 ---
 
 ## キャリア遍歴
-dragons rfc (2022 - 2026)
+dragons rfc (2022 - )

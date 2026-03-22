@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tadhg-brophy"
 ---
 
 ## キャリア遍歴
-naas rfc (2023 - 2024) -> lansdowne fc (2024 - 2025) -> leinster rugby (2025 - 2026)
+naas rfc (2023 - 2024) -> lansdowne fc (2024 - ) -> leinster rugby (2025 - )

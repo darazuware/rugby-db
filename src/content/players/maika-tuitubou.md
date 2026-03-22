@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maika-tuitubou"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2024 - )
+Fijian Drua (2024)

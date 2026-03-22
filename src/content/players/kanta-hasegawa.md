@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484971"
 ---
 
 ## キャリア遍歴
-Coca Cola West Red Sparks (2019 - 2021) -> 宗像 (2021 - 2022) -> LR福岡 (2022 - )
+Coca Cola West Red Sparks (2019 - 2021) -> 宗像 (2021 - 2022) -> LR福岡 (2022)

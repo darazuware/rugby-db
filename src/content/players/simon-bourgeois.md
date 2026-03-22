@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simon-bourgeois"
 ---
 
 ## キャリア遍歴
-Section Lexovienne Rugby (2006 - 2017) -> Rugby Club Vannes (2017 - 2026)
+Section Lexovienne Rugby (2006 - 2017) -> Rugby Club Vannes (2017 - )

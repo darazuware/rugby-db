@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthew-urwin"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2023 - 2026)
+Glasgow Warriors (2023 - )

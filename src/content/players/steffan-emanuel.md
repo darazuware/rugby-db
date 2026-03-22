@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/steffan-emanuel"
 ---
 
 ## キャリア遍歴
-bath rugby (2023 - 2024) -> cardiff rugby (2024 - 2026)
+bath rugby (2023 - 2024) -> cardiff rugby (2024 - )

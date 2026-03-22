@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/craig-casey"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2018 - 2026)
+Munster Rugby (2018 - )

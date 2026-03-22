@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-illo"
 ---
 
 ## キャリア遍歴
-leinster rugby (2020 - 2021) -> connacht rugby (2021 - 2026)
+leinster rugby (2020 - 2021) -> connacht rugby (2021 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-talakai"
 ---
 
 ## キャリア遍歴
-queensland reds (2014 - 2017) -> melbourne rebels (2017 - 2019) -> tokyo sungoliath (2019 - 2022) -> melbourne rebels (2022 - 2024) -> glasgow warriors (2024 - 2026)
+queensland reds (2014 - 2017) -> melbourne rebels (2017 - 2019) -> tokyo sungoliath (2019 - 2022) -> melbourne rebels (2022 - 2024) -> glasgow warriors (2024 - )

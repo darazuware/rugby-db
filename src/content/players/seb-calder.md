@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/seb-calder"
 ---
 
 ## キャリア遍歴
-Canterbury (2021 - 2025) -> Crusaders (2021 - )
+Canterbury (2021 - ) -> Crusaders (2021)

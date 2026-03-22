@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guillaume-marchand"
 ---
 
 ## キャリア遍歴
-Stade Toulousain (2013 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2026)
+Stade Toulousain (2013 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - )

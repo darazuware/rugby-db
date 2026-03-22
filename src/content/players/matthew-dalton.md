@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matthew-dalton"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2017 - 2019) -> Utah Warriors (2020 - 2021) -> Newcastle (2021 - 2023) -> Soyaux-Angoulême XV Charente (2023 - 2024) -> Ulster Rugby (2024 - 2024) -> Soyaux-Angoulême XV Charente (2025 - 2025) -> Ulster Rugby (2025 - 2026)
+Ulster Rugby (2017 - 2019) -> Utah Warriors (2020 - 2021) -> Newcastle (2021 - 2023) -> Soyaux-Angoulême XV Charente (2023 - ) -> Ulster Rugby (2024 - )

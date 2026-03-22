@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-byrd"
 ---
 
 ## キャリア遍歴
-leicester tigers (2023 - 2025) -> edimbourg rugby (2025 - 2026)
+leicester tigers (2023 - ) -> edimbourg rugby (2025 - )

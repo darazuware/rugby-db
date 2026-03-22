@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oisin-dowling"
 ---
 
 ## キャリア遍歴
-leinster rugby (2018 - 2020) -> connacht rugby (2020 - 2026)
+leinster rugby (2018 - 2020) -> connacht rugby (2020 - )

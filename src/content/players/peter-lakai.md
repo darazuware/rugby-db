@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peter-lakai"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2021 - 2025) -> Hurricanes (2022 - )
+Wellington Lions (2021 - ) -> Hurricanes (2022)

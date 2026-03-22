@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/etienne-falgoux"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2012 - 2026)
+ASM Clermont Auvergne (2012 - )

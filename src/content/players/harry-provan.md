@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-provan"
 ---
 
 ## キャリア遍歴
-birkmyre rugby (2023 - 2024) -> glasgow warriors (2024 - 2026)
+birkmyre rugby (2023 - 2024) -> glasgow warriors (2024 - )

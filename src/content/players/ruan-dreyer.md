@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-dreyer"
 ---
 
 ## キャリア遍歴
-lions rugby (2013 - 2018) -> gloucester rugby (2018 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - 2026)
+lions rugby (2013 - 2018) -> gloucester rugby (2018 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - )

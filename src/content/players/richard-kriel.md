@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/richard-kriel"
 ---
 
 ## キャリア遍歴
-blue bulls (2018 - 2019) -> bulls (2019 - 2020) -> blue bulls (2020 - 2021) -> bulls (2021 - 2022) -> zebre parma (2022 - 2023) -> lions rugby (2023 - 2026)
+blue bulls (2018 - 2021) -> bulls (2019 - 2022) -> zebre parma (2022 - 2023) -> lions rugby (2023 - )

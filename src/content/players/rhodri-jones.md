@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhodri-jones"
 ---
 
 ## キャリア遍歴
-scarlets (2013 - 2016) -> ospreys (2016 - 2022) -> dragons rfc (2022 - 2026)
+scarlets (2013 - 2016) -> ospreys (2016 - 2022) -> dragons rfc (2022 - )

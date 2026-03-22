@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/semisi-tupou-ta-eiloa"
 ---
 
 ## キャリア遍歴
-Southland Stags (2022 - 2025) -> Moana Pasifika (2024 - )
+Southland Stags (2022 - ) -> Moana Pasifika (2024)

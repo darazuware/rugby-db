@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-palmer"
 ---
 
 ## キャリア遍歴
-Western Force (2024 - )
+Western Force (2024)

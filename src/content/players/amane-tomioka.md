@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485024"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2024 - )
+Red Hurricanes Osaka (2024)

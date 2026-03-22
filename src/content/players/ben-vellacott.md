@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-vellacott"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2016 - 2019) -> Wasps (2019 - 2021) -> Edimbourg Rugby (2021 - 2026)
+Gloucester Rugby (2016 - 2019) -> Wasps (2019 - 2021) -> Edimbourg Rugby (2021 - )

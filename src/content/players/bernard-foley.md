@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483761"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2011 - 2019) -> シドニー・スターズ (2014 - 2014) -> BlackRams Tokyo (2015 - 2016) -> NSWカウンティ (2016 - 2016) -> S東京ベイ (2020 - )
+New South Wales Waratahs (2011 - 2019) -> シドニー・スターズ (2014) -> BlackRams Tokyo (2015 - 2016) -> NSWカウンティ (2016) -> S東京ベイ (2020)

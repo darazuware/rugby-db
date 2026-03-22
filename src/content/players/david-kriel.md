@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-kriel"
 ---
 
 ## キャリア遍歴
-Western Province (2018 - 2019) -> Stormers (2019 - 2019) -> Bulls (2019 - 2019) -> Stormers (2020 - 2020) -> Bulls (2020 - 2026)
+Western Province (2018 - 2019) -> Stormers (2019 - 2020) -> Bulls (2019 - )

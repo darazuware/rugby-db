@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484893"
 ---
 
 ## キャリア遍歴
-BlackRams Tokyo (2012 - )
+BlackRams Tokyo (2012)

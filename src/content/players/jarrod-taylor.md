@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jarrod-taylor"
 ---
 
 ## キャリア遍歴
-western province (2021 - 2023) -> stormers (2023 - 2023) -> scarlets (2023 - 2023) -> stormers (2024 - 2024) -> scarlets (2024 - 2026)
+western province (2021 - 2023) -> stormers (2023 - 2024) -> scarlets (2023 - )

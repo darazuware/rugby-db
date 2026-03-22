@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-o-donoghue"
 ---
 
 ## キャリア遍歴
-munster rugby (2014 - 2026)
+munster rugby (2014 - )

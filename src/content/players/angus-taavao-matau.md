@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-taavao-matau"
 ---
 
 ## キャリア遍歴
-Blues (2013 - 2025) -> New South Wales Waratahs (2015 - 2017) -> Chiefs (2017 - 2023) -> Auckland (2019 - 2025) -> Highlanders (2025 - )
+Blues (2013 - ) -> New South Wales Waratahs (2015 - 2017) -> Chiefs (2017 - 2023) -> Auckland (2019 - ) -> Highlanders (2025 - )

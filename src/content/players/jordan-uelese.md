@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-uelese"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2016 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+Melbourne Rebels (2016 - 2024) -> Montpellier Hérault Rugby (2024 - )

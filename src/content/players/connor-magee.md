@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/connor-magee"
 ---
 
 ## キャリア遍歴
-banbridge rfc (2024 - 2025) -> ulster rugby (2025 - 2026)
+banbridge rfc (2024 - ) -> ulster rugby (2025 - )

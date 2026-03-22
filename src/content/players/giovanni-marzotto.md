@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-marzotto"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2025 - 2026)
+Benetton Rugby Trévise (2025 - )

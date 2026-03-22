@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-murphy"
 ---
 
 ## キャリア遍歴
-clontarf rugby (2023 - 2024) -> ulster rugby (2024 - 2026)
+clontarf rugby (2023 - 2024) -> ulster rugby (2024 - )

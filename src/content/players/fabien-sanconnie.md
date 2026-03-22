@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fabien-sanconnie"
 ---
 
 ## キャリア遍歴
-CA Brive Corrèze Limousin (2010 - 2018) -> Racing 92 (2018 - 2026)
+CA Brive Corrèze Limousin (2010 - 2018) -> Racing 92 (2018 - )

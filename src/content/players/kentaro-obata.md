@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484914"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2019 - 2025) -> LeRIRO Fukuoka (2025 - )
+コベルコ神戸スティーラーズ (2019 - ) -> LeRIRO Fukuoka (2025 - )

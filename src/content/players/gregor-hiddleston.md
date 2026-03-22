@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gregor-hiddleston"
 ---
 
 ## キャリア遍歴
-glasgow hutchesons aloysians rfc (2021 - 2022) -> glasgow warriors (2022 - 2026)
+glasgow hutchesons aloysians rfc (2021 - 2022) -> glasgow warriors (2022 - )

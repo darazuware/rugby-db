@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484384"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2024 - )
+Toshiba Brave Lupus Tokyo (2024)

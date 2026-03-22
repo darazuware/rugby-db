@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485372"
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2024 - 2025) -> 日野レッドドルフィンズ (2025 - )
+West Brisbane Bulldogs (2024 - ) -> 日野レッドドルフィンズ (2025 - )

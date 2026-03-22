@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-plummer"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2021 - 2025) -> Hurricanes (2022 - 2026) -> Highlanders (2023 - )
+Wellington Lions (2021 - ) -> Hurricanes (2022 - ) -> Highlanders (2023)

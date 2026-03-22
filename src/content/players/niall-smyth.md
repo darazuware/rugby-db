@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niall-smyth"
 ---
 
 ## キャリア遍歴
-Blackrock College RFC (2023 - 2024) -> Leinster Rugby (2024 - 2026)
+Blackrock College RFC (2023 - 2024) -> Leinster Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/grant-gilchrist"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2013 - 2026)
+Edimbourg Rugby (2013 - )

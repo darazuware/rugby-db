@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/codie-taylor"
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2026) -> Canterbury (2019 - )
+Crusaders (2013 - ) -> Canterbury (2019)

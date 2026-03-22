@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aled-davies"
 ---
 
 ## キャリア遍歴
-Scarlets (2013 - 2018) -> Ospreys (2018 - 2019) -> Saracens (2019 - 2019) -> Ospreys (2020 - 2020) -> Saracens (2020 - 2024) -> Cardiff Rugby (2024 - 2026)
+Scarlets (2013 - 2018) -> Ospreys (2018 - 2020) -> Saracens (2019 - 2024) -> Cardiff Rugby (2024 - )

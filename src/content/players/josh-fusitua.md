@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-fusitua"
 ---
 
 ## キャリア遍歴
-Auckland (2021 - 2025) -> Blues (2021 - )
+Auckland (2021 - ) -> Blues (2021)

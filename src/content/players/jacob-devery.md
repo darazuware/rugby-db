@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jacob-devery"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2016 - 2025) -> Hurricanes (2021 - )
+Hawke's Bay Magpies (2016 - ) -> Hurricanes (2021)

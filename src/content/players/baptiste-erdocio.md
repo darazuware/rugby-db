@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-erdocio"
 ---
 
 ## キャリア遍歴
-Bidart Union Club (2005 - 2014) -> Biarritz Olympique Pays Basque (2014 - 2023) -> Montpellier Hérault Rugby (2023 - 2026)
+Bidart Union Club (2005 - 2014) -> Biarritz Olympique Pays Basque (2014 - 2023) -> Montpellier Hérault Rugby (2023 - )

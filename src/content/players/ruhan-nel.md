@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruhan-nel"
 ---
 
 ## キャリア遍歴
-Stormers (2018 - 2026)
+Stormers (2018 - )

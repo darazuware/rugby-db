@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483552"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2023 - )
+NECグリーンロケッツ東葛 (2023)

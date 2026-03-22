@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kurtley-beale"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2013 - 2023) -> Wasps (2016 - 2018) -> Racing 92 (2020 - 2022) -> Western Force (2023 - )
+New South Wales Waratahs (2013 - 2023) -> Wasps (2016 - 2018) -> Racing 92 (2020 - 2022) -> Western Force (2023)

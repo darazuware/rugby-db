@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oli-jager"
 ---
 
 ## キャリア遍歴
-crusaders (2016 - 2019) -> canterbury (2019 - 2019) -> crusaders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2020 - 2020) -> canterbury (2020 - 2020) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> crusaders (2022 - 2022) -> canterbury (2022 - 2022) -> crusaders (2022 - 2022) -> canterbury (2022 - 2022) -> crusaders (2023 - 2023) -> canterbury (2023 - 2023) -> munster rugby (2023 - 2026)
+crusaders (2016 - 2023) -> canterbury (2019 - 2023) -> munster rugby (2023 - )

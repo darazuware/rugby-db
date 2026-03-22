@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matty-young"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2023 - 2026)
+cardiff rugby (2023 - )

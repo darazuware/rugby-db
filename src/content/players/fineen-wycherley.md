@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fineen-wycherley"
 ---
 
 ## キャリア遍歴
-munster rugby (2016 - 2026)
+munster rugby (2016 - )

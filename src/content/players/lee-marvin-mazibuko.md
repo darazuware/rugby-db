@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lee-marvin-mazibuko"
 ---
 
 ## キャリア遍歴
-Stormers (2018 - 2019) -> Rugby Viadana 1970 (2019 - 2020) -> Western Province (2020 - 2021) -> Stormers (2021 - 2024) -> Racing 92 (2024 - 2024) -> Natal Sharks (2024 - 2024) -> Racing 92 (2025 - 2025) -> Natal Sharks (2025 - 2025) -> Sharks (2025 - 2026)
+Stormers (2018 - 2019) -> Rugby Viadana 1970 (2019 - 2020) -> Western Province (2020 - 2021) -> Stormers (2021 - 2024) -> Racing 92 (2024 - ) -> Natal Sharks (2024 - ) -> Sharks (2025 - )

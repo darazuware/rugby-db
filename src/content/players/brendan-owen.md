@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484820"
 ---
 
 ## キャリア遍歴
-ジャージー・レッズ (2019 - 2023) -> バース・ラグビー (2023 - 2024) -> Yokohama Canon Eagles (2024 - )
+ジャージー・レッズ (2019 - 2023) -> バース・ラグビー (2023 - 2024) -> Yokohama Canon Eagles (2024)

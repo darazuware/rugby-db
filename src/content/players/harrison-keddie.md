@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harrison-keddie"
 ---
 
 ## キャリア遍歴
-dragons rfc (2015 - 2026)
+dragons rfc (2015 - )

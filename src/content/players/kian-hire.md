@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kian-hire"
 ---
 
 ## キャリア遍歴
-Swansea RFC (2022 - 2023) -> Ospreys (2023 - 2026)
+Swansea RFC (2022 - 2023) -> Ospreys (2023 - )

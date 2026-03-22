@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-du-plessis"
 ---
 
 ## キャリア遍歴
-Stormers (2015 - 2026)
+Stormers (2015 - )

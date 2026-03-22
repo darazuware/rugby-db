@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-allen"
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2020) -> Crusaders (2020 - 2020) -> Canterbury (2020 - 2020) -> Crusaders (2021 - 2021) -> Canterbury (2021 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)
+Canterbury (2019 - 2022) -> Crusaders (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2022 - )

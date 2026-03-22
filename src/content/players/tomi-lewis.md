@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomi-lewis"
 ---
 
 ## キャリア遍歴
-scarlets (2017 - 2019) -> ampthill rugby (2019 - 2020) -> scarlets (2020 - 2022) -> jersey reds (2022 - 2023) -> scarlets (2023 - 2026)
+scarlets (2017 - ) -> ampthill rugby (2019 - 2020) -> jersey reds (2022 - 2023)

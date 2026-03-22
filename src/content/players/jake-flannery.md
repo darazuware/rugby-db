@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-flannery"
 ---
 
 ## キャリア遍歴
-munster rugby (2018 - 2022) -> ulster rugby (2022 - 2026)
+munster rugby (2018 - 2022) -> ulster rugby (2022 - )

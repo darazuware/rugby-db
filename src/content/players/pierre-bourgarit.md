@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pierre-bourgarit"
 ---
 
 ## キャリア遍歴
-ES Gimont Rugby (2008 - 2015) -> Rugby Club Auch (2015 - 2017) -> Stade Rochelais (2017 - 2026)
+ES Gimont Rugby (2008 - 2015) -> Rugby Club Auch (2015 - 2017) -> Stade Rochelais (2017 - )

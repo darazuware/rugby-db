@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484113"
 ---
 
 ## キャリア遍歴
-セコム (2018 - 2022) -> 日本 (2019 - 2020) -> Mitsubishi Sagamihara Dynaboars (2022 - 2024) -> 狭山RG (2024 - )
+セコム (2018 - 2022) -> 日本 (2019 - 2020) -> Mitsubishi Sagamihara Dynaboars (2022 - 2024) -> 狭山RG (2024)

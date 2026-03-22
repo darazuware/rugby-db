@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-berman"
 ---
 
 ## キャリア遍歴
-dublin university fc (2022 - 2023) -> terenure college (2023 - 2024) -> ulster rugby (2024 - 2026)
+dublin university fc (2022 - 2023) -> terenure college (2023 - 2024) -> ulster rugby (2024 - )

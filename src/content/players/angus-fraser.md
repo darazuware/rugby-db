@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/angus-fraser"
 ---
 
 ## キャリア遍歴
-glasgow warriors (2021 - 2026)
+glasgow warriors (2021 - )

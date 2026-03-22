@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485371"
 ---
 
 ## キャリア遍歴
-Houston Sabercats (2021 - 2023) -> 東京ガスラグビー部 (2024 - 2025) -> 日野レッドドルフィンズ (2025 - )
+Houston Sabercats (2021 - 2023) -> 東京ガスラグビー部 (2024 - ) -> 日野レッドドルフィンズ (2025 - )

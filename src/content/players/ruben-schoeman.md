@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruben-schoeman"
 ---
 
 ## キャリア遍歴
-golden lions (2018 - 2019) -> lions rugby (2019 - 2026)
+golden lions (2018 - 2019) -> lions rugby (2019 - )

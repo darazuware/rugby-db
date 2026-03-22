@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mike-haley"
 ---
 
 ## キャリア遍歴
-sale sharks (2013 - 2018) -> munster rugby (2018 - 2026)
+sale sharks (2013 - 2018) -> munster rugby (2018 - )

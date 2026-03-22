@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evan-o-connell"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2022 - 2026)
+Munster Rugby (2022 - )

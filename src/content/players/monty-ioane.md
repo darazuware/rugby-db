@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/monty-ioane"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2013 - 2015) -> Bay of Plenty Steamers (2015 - 2017) -> Benetton Rugby Trévise (2017 - 2022) -> Melbourne Rebels (2022 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - 2026)
+Stade Français Paris Rugby (2013 - 2015) -> Bay of Plenty Steamers (2015 - 2017) -> Benetton Rugby Trévise (2017 - 2022) -> Melbourne Rebels (2022 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - )

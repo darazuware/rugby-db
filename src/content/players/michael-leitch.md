@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484358"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2011 - 2011) -> Chiefs (2013 - 2017) -> サンウルブズ (2018 - )
+Toshiba Brave Lupus Tokyo (2011) -> Chiefs (2013 - 2017) -> サンウルブズ (2018)

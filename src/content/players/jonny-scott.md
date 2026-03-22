@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonny-scott"
 ---
 
 ## キャリア遍歴
-banbridge rfc (2023 - 2024) -> ulster rugby (2024 - 2026)
+banbridge rfc (2023 - 2024) -> ulster rugby (2024 - )

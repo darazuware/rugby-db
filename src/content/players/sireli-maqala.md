@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sireli-maqala"
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2020 - 2021) -> Aviron Bayonnais (2021 - 2026)
+FIDJI 7's (2020 - 2021) -> Aviron Bayonnais (2021 - )

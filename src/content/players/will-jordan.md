@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-jordan"
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2026) -> Tasman Mako (2019 - )
+Crusaders (2018 - ) -> Tasman Mako (2019)

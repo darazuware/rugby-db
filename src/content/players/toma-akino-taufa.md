@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/toma-akino-taufa"
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2014 - 2020) -> Montpellier Hérault Rugby (2020 - 2020) -> Aviron Bayonnais (2020 - 2020) -> Montpellier Hérault Rugby (2021 - 2021) -> Aviron Bayonnais (2021 - 2021) -> FC Grenoble Rugby (2021 - 2023) -> Stado Tarbes Pyrénées Rugby (2023 - 2023) -> Union Bordeaux-Bègles (2023 - 2023) -> Stado Tarbes Pyrénées Rugby (2024 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)
+Aviron Bayonnais (2014 - 2021) -> Montpellier Hérault Rugby (2020 - 2021) -> FC Grenoble Rugby (2021 - 2023) -> Stado Tarbes Pyrénées Rugby (2023 - 2024) -> Union Bordeaux-Bègles (2023 - )

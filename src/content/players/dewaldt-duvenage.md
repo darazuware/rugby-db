@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dewaldt-duvenage"
 ---
 
 ## キャリア遍歴
-Union Sportive Arlequins Perpignanais (2013 - 2016) -> Stormers (2016 - 2018) -> Benetton Rugby Trévise (2018 - 2024) -> Stormers (2024 - 2026)
+Union Sportive Arlequins Perpignanais (2013 - 2016) -> Stormers (2016 - 2018) -> Benetton Rugby Trévise (2018 - 2024) -> Stormers (2024 - )

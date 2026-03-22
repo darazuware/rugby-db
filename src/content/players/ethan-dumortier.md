@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ethan-dumortier"
 ---
 
 ## キャリア遍歴
-Saint-Savin (2009 - 2014) -> CS Bourgoin Jallieu Rugby (2014 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - 2026)
+Saint-Savin (2009 - 2014) -> CS Bourgoin Jallieu Rugby (2014 - 2017) -> Lyon Olympique Universitaire Rugby (2017 - )

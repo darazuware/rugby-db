@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-benjamin"
 ---
 
 ## キャリア遍歴
-dragons rfc (2014 - 2021) -> cornish pirates (2021 - 2021) -> dragons rfc (2021 - 2021) -> cornish pirates (2022 - 2022) -> dragons rfc (2022 - 2022) -> hartpury rfc (2022 - 2022) -> dragons rfc (2023 - 2023) -> hartpury rfc (2023 - 2023) -> dragons rfc (2023 - 2026)
+dragons rfc (2014 - ) -> cornish pirates (2021 - 2022) -> hartpury rfc (2022 - 2023)

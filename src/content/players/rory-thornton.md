@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-thornton"
 ---
 
 ## キャリア遍歴
-ospreys (2014 - 2018) -> cardiff rugby (2018 - 2026)
+ospreys (2014 - 2018) -> cardiff rugby (2018 - )

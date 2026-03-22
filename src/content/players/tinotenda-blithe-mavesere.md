@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tinotenda-blithe-mavesere"
 ---
 
 ## キャリア遍歴
-University of Western Cap (2020 - 2021) -> Sharks (2022 - 2026)
+University of Western Cap (2020 - 2021) -> Sharks (2022 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/blair-murray"
 ---
 
 ## キャリア遍歴
-Canterbury (2021 - 2024) -> Scarlets (2024 - 2026)
+Canterbury (2021 - 2024) -> Scarlets (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-carson"
 ---
 
 ## キャリア遍歴
-Wallace High School (2019 - 2020) -> Ulster Rugby (2020 - 2026)
+Wallace High School (2019 - 2020) -> Ulster Rugby (2020 - )

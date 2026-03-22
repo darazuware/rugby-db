@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zane-nonggorr"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2019 - )
+Queensland Reds (2019)

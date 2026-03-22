@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483540"
 ---
 
 ## キャリア遍歴
-Souths Rugby (2021 - 2024) -> レッズ (2022 - 2023) -> Hong Kong Football Club (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )
+Souths Rugby (2021 - 2024) -> レッズ (2022 - 2023) -> Hong Kong Football Club (2024 - ) -> NECグリーンロケッツ東葛 (2025 - )

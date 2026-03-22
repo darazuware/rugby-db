@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christian-lio-willie"
 ---
 
 ## キャリア遍歴
-Otago (2020 - 2025) -> Highlanders (2021 - 2022) -> Crusaders (2022 - )
+Otago (2020 - ) -> Highlanders (2021 - 2022) -> Crusaders (2022)

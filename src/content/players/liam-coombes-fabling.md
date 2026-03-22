@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-coombes-fabling"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2019 - 2025) -> Highlanders (2021 - 2022) -> Chiefs (2022 - )
+Waikato Mooloos (2019 - ) -> Highlanders (2021 - 2022) -> Chiefs (2022)

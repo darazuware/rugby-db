@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lee-barron"
 ---
 
 ## キャリア遍歴
-leinster rugby (2021 - 2024) -> munster rugby (2024 - 2024) -> leinster rugby (2025 - 2025) -> munster rugby (2025 - 2026)
+leinster rugby (2021 - ) -> munster rugby (2024 - )

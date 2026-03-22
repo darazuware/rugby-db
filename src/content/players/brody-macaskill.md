@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483520"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2023 - )
+浦安D-Rocks (2023)

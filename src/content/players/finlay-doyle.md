@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/finlay-doyle"
 ---
 
 ## キャリア遍歴
-loughborough university (2023 - 2025) -> edimbourg rugby (2025 - 2026)
+loughborough university (2023 - ) -> edimbourg rugby (2025 - )

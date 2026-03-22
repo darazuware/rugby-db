@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/charlie-cale"
 ---
 
 ## キャリア遍歴
-Eastwood Rugby Club (2020 - 2021) -> Uni-Norths Owls (2021 - 2022) -> Brumbies (2022 - )
+Eastwood Rugby Club (2020 - 2021) -> Uni-Norths Owls (2021 - 2022) -> Brumbies (2022)

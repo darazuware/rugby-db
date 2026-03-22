@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484685"
 ---
 
 ## キャリア遍歴
-Coca Cola West Red Sparks (2018 - 2021) -> トヨタヴェルブリッツ (2021 - 2024) -> Mie Honda Heat RFC (2024 - )
+Coca Cola West Red Sparks (2018 - 2021) -> トヨタヴェルブリッツ (2021 - 2024) -> Mie Honda Heat RFC (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kienan-higgins"
 ---
 
 ## キャリア遍歴
-hawke's bay magpies (2020 - 2025) -> edimbourg rugby (2025 - 2026)
+hawke's bay magpies (2020 - ) -> edimbourg rugby (2025 - )

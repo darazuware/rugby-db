@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-smith-10493"
 ---
 
 ## キャリア遍歴
-brisbane city (2018 - 2019) -> queensland reds (2019 - 2025) -> ospreys (2025 - 2026)
+brisbane city (2018 - 2019) -> queensland reds (2019 - ) -> ospreys (2025 - )

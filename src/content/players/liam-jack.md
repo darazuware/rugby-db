@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-jack"
 ---
 
 ## キャリア遍歴
-Canterbury (2023 - 2025) -> Crusaders (2023 - )
+Canterbury (2023 - ) -> Crusaders (2023)

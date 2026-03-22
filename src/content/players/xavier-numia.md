@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/xavier-numia"
 ---
 
 ## キャリア遍歴
-Hurricanes (2018 - 2026) -> Wellington Lions (2019 - )
+Hurricanes (2018 - ) -> Wellington Lions (2019)

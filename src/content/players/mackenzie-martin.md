@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mackenzie-martin"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2021 - 2025) -> dragons rfc (2025 - 2026)
+cardiff rugby (2021 - ) -> dragons rfc (2025 - )

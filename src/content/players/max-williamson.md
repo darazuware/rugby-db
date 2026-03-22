@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-williamson"
 ---
 
 ## キャリア遍歴
-glasgow warriors (2020 - 2022) -> doncaster knights (2022 - 2022) -> glasgow warriors (2023 - 2023) -> doncaster knights (2023 - 2023) -> glasgow warriors (2023 - 2026)
+glasgow warriors (2020 - ) -> doncaster knights (2022 - 2023)

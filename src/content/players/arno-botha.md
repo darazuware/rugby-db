@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arno-botha"
 ---
 
 ## キャリア遍歴
-Bulls (2014 - 2017) -> London Irish (2017 - 2018) -> Munster Rugby (2018 - 2019) -> Bulls (2019 - 2019) -> Munster Rugby (2020 - 2020) -> Bulls (2020 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)
+Bulls (2014 - 2017) -> London Irish (2017 - 2018) -> Munster Rugby (2018 - 2020) -> Bulls (2019 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )

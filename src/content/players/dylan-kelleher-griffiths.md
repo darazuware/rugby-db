@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-kelleher-griffiths"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2022 - 2026)
+Dragons RFC (2022 - )

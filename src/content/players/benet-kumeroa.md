@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/benet-kumeroa"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - 2025) -> Chiefs (2025 - )
+Bay of Plenty Steamers (2020 - ) -> Chiefs (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ross-braude"
 ---
 
 ## キャリア遍歴
-blue bulls (2019 - 2020) -> toronto arrows (2020 - 2023) -> pumas (2023 - 2025) -> sharks (2025 - 2026)
+blue bulls (2019 - 2020) -> toronto arrows (2020 - 2023) -> pumas (2023 - ) -> sharks (2025 - )

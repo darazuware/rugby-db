@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/frankie-goldsbrough"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2022 - )
+Queensland Reds (2022)

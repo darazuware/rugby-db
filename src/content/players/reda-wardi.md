@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reda-wardi"
 ---
 
 ## キャリア遍歴
-Montpellier Hérault Rugby (2007 - 2015) -> Association Sportive Béziers Hérault (2015 - 2019) -> Stade Rochelais (2019 - 2026)
+Montpellier Hérault Rugby (2007 - 2015) -> Association Sportive Béziers Hérault (2015 - 2019) -> Stade Rochelais (2019 - )

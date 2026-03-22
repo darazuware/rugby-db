@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484081"
 ---
 
 ## キャリア遍歴
-Auckland (2018 - 2018) -> Bristol Bears (2019 - 2020) -> Blues (2021 - 2025) -> 狭山セコムラガッツ (2025 - )
+Auckland (2018) -> Bristol Bears (2019 - 2020) -> Blues (2021 - ) -> 狭山セコムラガッツ (2025 - )

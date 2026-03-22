@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bautista-bernasconi"
 ---
 
 ## キャリア遍歴
-jaguares xv (2020 - 2022) -> benetton rugby trévise (2022 - 2026)
+jaguares xv (2020 - 2022) -> benetton rugby trévise (2022 - )

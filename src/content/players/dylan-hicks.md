@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-hicks"
 ---
 
 ## キャリア遍歴
-Coláiste Pobail Bheanntraí (2022 - 2023) -> Munster Rugby (2023 - 2026)
+Coláiste Pobail Bheanntraí (2022 - 2023) -> Munster Rugby (2023 - )

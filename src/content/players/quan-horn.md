@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/quan-horn"
 ---
 
 ## キャリア遍歴
-lions rugby (2020 - 2026)
+lions rugby (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wyn-jones"
 ---
 
 ## キャリア遍歴
-Scarlets (2014 - 2024) -> Harlequins (2024 - 2025) -> Dragons RFC (2025 - 2026)
+Scarlets (2014 - 2024) -> Harlequins (2024 - ) -> Dragons RFC (2025 - )

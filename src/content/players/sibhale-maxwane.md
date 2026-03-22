@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sibhale-maxwane"
 ---
 
 ## キャリア遍歴
-bulls (2016 - 2017) -> central cheetahs (2017 - 2020) -> lions rugby (2020 - 2026)
+bulls (2016 - 2017) -> central cheetahs (2017 - 2020) -> lions rugby (2020 - )

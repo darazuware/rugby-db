@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/elijah-evans"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2023 - 2026)
+Cardiff Rugby (2023 - )

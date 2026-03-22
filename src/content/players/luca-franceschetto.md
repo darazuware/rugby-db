@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luca-franceschetto"
 ---
 
 ## キャリア遍歴
-petrarca rugby (2019 - 2022) -> colorno (2022 - 2024) -> zebre parma (2024 - 2026)
+petrarca rugby (2019 - 2022) -> colorno (2022 - 2024) -> zebre parma (2024 - )

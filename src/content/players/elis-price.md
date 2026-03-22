@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/elis-price"
 ---
 
 ## キャリア遍歴
-Scarlets (2023 - 2026)
+Scarlets (2023 - )

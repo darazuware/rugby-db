@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reinhard-nothnagel"
 ---
 
 ## キャリア遍歴
-lions rugby (2018 - 2026)
+lions rugby (2018 - )

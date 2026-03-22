@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-o-connor"
 ---
 
 ## キャリア遍歴
-bath rugby (2018 - 2019) -> scarlets (2019 - 2026)
+bath rugby (2018 - 2019) -> scarlets (2019 - )

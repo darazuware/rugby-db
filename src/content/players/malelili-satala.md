@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/malelili-satala"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2023 - 2024) -> Nottingham Rugby (2024 - 2024) -> Leicester Tigers (2025 - 2025) -> Nottingham Rugby (2025 - 2025) -> Edimbourg Rugby (2025 - 2026)
+Leicester Tigers (2023 - ) -> Nottingham Rugby (2024 - ) -> Edimbourg Rugby (2025 - )

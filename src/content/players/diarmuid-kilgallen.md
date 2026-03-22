@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/diarmuid-kilgallen"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2019 - 2024) -> Munster Rugby (2024 - 2026)
+Connacht Rugby (2019 - 2024) -> Munster Rugby (2024 - )

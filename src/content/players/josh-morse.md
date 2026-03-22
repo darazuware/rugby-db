@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-morse"
 ---
 
 ## キャリア遍歴
-Scarlets (2022 - 2026)
+Scarlets (2022 - )

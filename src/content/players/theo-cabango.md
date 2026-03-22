@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-cabango"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2019 - 2026)
+Cardiff Rugby (2019 - )

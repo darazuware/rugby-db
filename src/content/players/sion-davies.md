@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sion-davies"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2024 - 2026)
+cardiff rugby (2024 - )

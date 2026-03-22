@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stuart-hogg"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2013 - 2019) -> Exeter Chiefs (2019 - 2023) -> sans club (2023 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+Glasgow Warriors (2013 - 2019) -> Exeter Chiefs (2019 - 2023) -> sans club (2023 - 2024) -> Montpellier Hérault Rugby (2024 - )

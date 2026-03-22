@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christian-lindsay"
 ---
 
 ## キャリア遍歴
-loretto high school (2023 - 2024) -> edimbourg rugby (2024 - 2026)
+loretto high school (2023 - 2024) -> edimbourg rugby (2024 - )

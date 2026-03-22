@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cathal-forde"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2020 - 2026)
+Connacht Rugby (2020 - )

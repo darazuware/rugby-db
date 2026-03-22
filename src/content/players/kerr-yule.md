@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kerr-yule"
 ---
 
 ## キャリア遍歴
-glasgow hawks (2022 - 2023) -> glasgow warriors (2023 - 2026)
+glasgow hawks (2022 - 2023) -> glasgow warriors (2023 - )

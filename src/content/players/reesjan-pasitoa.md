@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reesjan-pasitoa"
 ---
 
 ## キャリア遍歴
-Nudgee College (2018 - 2019) -> Brumbies (2019 - 2021) -> Western Force (2021 - 2025) -> Northland Taniwha (2024 - 2025) -> Highlanders (2025 - )
+Nudgee College (2018 - 2019) -> Brumbies (2019 - 2021) -> Western Force (2021 - ) -> Northland Taniwha (2024 - ) -> Highlanders (2025 - )

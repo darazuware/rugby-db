@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/axel-desperes"
 ---
 
 ## キャリア遍歴
-Nord Béarn XV (2009 - 2018) -> Section Paloise Béarn Pyrénées (2018 - 2026)
+Nord Béarn XV (2009 - 2018) -> Section Paloise Béarn Pyrénées (2018 - )

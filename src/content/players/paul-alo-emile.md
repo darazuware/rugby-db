@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paul-alo-emile"
 ---
 
 ## キャリア遍歴
-Western Force (2010 - 2011) -> Melbourne Rebels (2011 - 2015) -> Stade Français Paris Rugby (2015 - 2026)
+Western Force (2010 - 2011) -> Melbourne Rebels (2011 - 2015) -> Stade Français Paris Rugby (2015 - )

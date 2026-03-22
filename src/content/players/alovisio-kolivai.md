@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alovisio-kolivai"
 ---
 
 ## キャリア遍歴
-Rugby Club Vannes (2010 - 2024) -> Stade Nantais (2024 - 2024) -> Rugby Club Vannes (2025 - 2025) -> Stade Nantais (2025 - 2025) -> Rugby Club Vannes (2025 - 2025) -> Stade Nantais (2026 - 2026) -> Rugby Club Vannes (2026 - 2026)
+Rugby Club Vannes (2010 - ) -> Stade Nantais (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484216"
 ---
 
 ## キャリア遍歴
-Toyota Industries Shuttles Aichi (2016 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Shimizu Koto Blue Sharks (2024 - )
+Toyota Industries Shuttles Aichi (2016 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Shimizu Koto Blue Sharks (2024)

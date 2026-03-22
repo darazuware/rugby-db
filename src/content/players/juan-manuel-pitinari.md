@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/juan-manuel-pitinari"
 ---
 
 ## キャリア遍歴
-rugby noceto (2021 - 2021) -> zebre parma (2021 - 2021) -> rugby noceto (2022 - 2022) -> zebre parma (2022 - 2026)
+rugby noceto (2021 - 2022) -> zebre parma (2021 - )

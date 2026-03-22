@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cornel-smit"
 ---
 
 ## キャリア遍歴
-Western Province (2017 - 2019) -> Stormers (2020 - 2023) -> Bulls (2023 - 2023) -> Stormers (2024 - 2024) -> Bulls (2024 - 2025) -> Cardiff Rugby (2025 - 2026)
+Western Province (2017 - 2019) -> Stormers (2020 - 2024) -> Bulls (2023 - ) -> Cardiff Rugby (2025 - )

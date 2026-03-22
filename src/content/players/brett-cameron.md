@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/brett-cameron"
 ---
 
 ## キャリア遍歴
-Crusaders (2017 - 2021) -> Canterbury (2019 - 2020) -> Manawatu Turbos (2020 - 2025) -> Kamaishi Seawaves (2021 - 2022) -> Hurricanes (2022 - )
+Crusaders (2017 - 2021) -> Canterbury (2019 - 2020) -> Manawatu Turbos (2020 - ) -> Kamaishi Seawaves (2021 - 2022) -> Hurricanes (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ofa-tauatevalu"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2020 - 2025) -> Moana Pasifika (2023 - )
+Manawatu Turbos (2020 - ) -> Moana Pasifika (2023)

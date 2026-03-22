@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marvin-okuya"
 ---
 
 ## キャリア遍歴
-CSM Gennevilliers Rugby (2015 - 2017) -> Rugby Club Massy Essonne (2017 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2026)
+CSM Gennevilliers Rugby (2015 - 2017) -> Rugby Club Massy Essonne (2017 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - )

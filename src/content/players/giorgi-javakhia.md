@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-javakhia"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2015 - 2018) -> Stade Aurillacois Cantal Auvergne (2018 - 2023) -> FC Grenoble Rugby (2023 - 2025) -> Rugby Club Toulonnais (2025 - 2025) -> FC Grenoble Rugby (2026 - 2026) -> Rugby Club Toulonnais (2026 - 2026)
+Lyon Olympique Universitaire Rugby (2015 - 2018) -> Stade Aurillacois Cantal Auvergne (2018 - 2023) -> FC Grenoble Rugby (2023 - ) -> Rugby Club Toulonnais (2025 - )

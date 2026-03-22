@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josiah-maraku"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2018 - 2021) -> Racing Club Narbonnais (2021 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - 2026)
+Manawatu Turbos (2018 - 2021) -> Racing Club Narbonnais (2021 - 2022) -> Lyon Olympique Universitaire Rugby (2022 - )

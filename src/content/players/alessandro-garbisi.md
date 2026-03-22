@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alessandro-garbisi"
 ---
 
 ## キャリア遍歴
-Mogliano Veneto Rugby (2020 - 2021) -> Benetton Rugby Trévise (2021 - 2026)
+Mogliano Veneto Rugby (2020 - 2021) -> Benetton Rugby Trévise (2021 - )

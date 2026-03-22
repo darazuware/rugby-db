@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gareth-davies-1990"
 ---
 
 ## キャリア遍歴
-scarlets (2013 - 2026)
+scarlets (2013 - )

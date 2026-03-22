@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484807"
 ---
 
 ## キャリア遍歴
-日野RD (2022 - 2023) -> Tokyo Sungoliath (2023 - 2025) -> Yokohama Canon Eagles (2025 - )
+日野RD (2022 - 2023) -> Tokyo Sungoliath (2023 - ) -> Yokohama Canon Eagles (2025 - )

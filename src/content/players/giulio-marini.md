@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giulio-marini"
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2021 - 2024) -> benetton rugby trévise (2024 - 2026)
+mogliano veneto rugby (2021 - 2024) -> benetton rugby trévise (2024 - )

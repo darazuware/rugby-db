@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/toby-bell"
 ---
 
 ## キャリア遍歴
-Canterbury (2023 - 2025) -> Crusaders (2025 - )
+Canterbury (2023 - ) -> Crusaders (2025 - )

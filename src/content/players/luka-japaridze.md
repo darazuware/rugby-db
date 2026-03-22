@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luka-japaridze"
 ---
 
 ## キャリア遍歴
-Lelo Saracens Tbilissi (2017 - 2018) -> CA Brive Corrèze Limousin (2018 - 2023) -> Montpellier Hérault Rugby (2023 - 2026)
+Lelo Saracens Tbilissi (2017 - 2018) -> CA Brive Corrèze Limousin (2018 - 2023) -> Montpellier Hérault Rugby (2023 - )

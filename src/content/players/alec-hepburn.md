@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alec-hepburn"
 ---
 
 ## キャリア遍歴
-exeter chiefs (2014 - 2024) -> scarlets (2024 - 2026)
+exeter chiefs (2014 - 2024) -> scarlets (2024 - )

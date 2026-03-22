@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhyno-smith"
 ---
 
 ## キャリア遍歴
-sharks (2015 - 2017) -> central cheetahs (2018 - 2018) -> sharks (2018 - 2018) -> central cheetahs (2019 - 2019) -> sharks (2019 - 2019) -> central cheetahs (2019 - 2021) -> benetton rugby trévise (2021 - 2026)
+sharks (2015 - 2019) -> central cheetahs (2018 - 2021) -> benetton rugby trévise (2021 - )

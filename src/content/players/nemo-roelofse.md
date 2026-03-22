@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nemo-roelofse"
 ---
 
 ## キャリア遍歴
-Eagles SWD (2014 - 2016) -> Sporting Club Albigeois (2016 - 2016) -> Eagles SWD (2017 - 2017) -> Sporting Club Albigeois (2017 - 2017) -> USON Nevers Rugby (2017 - 2021) -> Stade Français Paris Rugby (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)
+Eagles SWD (2014 - 2017) -> Sporting Club Albigeois (2016 - 2017) -> USON Nevers Rugby (2017 - 2021) -> Stade Français Paris Rugby (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

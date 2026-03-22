@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bryn-ward"
 ---
 
 ## キャリア遍歴
-ballynahinch rfc (2023 - 2024) -> ulster rugby (2024 - 2026)
+ballynahinch rfc (2023 - 2024) -> ulster rugby (2024 - )

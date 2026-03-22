@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-alford"
 ---
 
 ## キャリア遍歴
-Scarlets (2024 - 2026)
+Scarlets (2024 - )

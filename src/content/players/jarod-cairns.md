@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jarod-cairns"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2021 - 2026)
+Lions Rugby (2021 - )

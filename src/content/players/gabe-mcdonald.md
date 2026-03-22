@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabe-mcdonald"
 ---
 
 ## キャリア遍歴
-Scarlets (2023 - 2026)
+Scarlets (2023 - )

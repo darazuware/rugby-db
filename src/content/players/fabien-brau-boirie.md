@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fabien-brau-boirie"
 ---
 
 ## キャリア遍歴
-Entente Sportive des Coteaux de l'Arrêt (2010 - 2018) -> Stado Tarbes Pyrénées Rugby (2018 - 2023) -> Section Paloise Béarn Pyrénées (2023 - 2026)
+Entente Sportive des Coteaux de l'Arrêt (2010 - 2018) -> Stado Tarbes Pyrénées Rugby (2018 - 2023) -> Section Paloise Béarn Pyrénées (2023 - )

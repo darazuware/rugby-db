@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/quentin-walcker"
 ---
 
 ## キャリア遍歴
-Salanque Côte Radieuse (2004 - 2006) -> Rugby Olympique Agathois (2007 - 2009) -> Union Sportive Arlequins Perpignanais (2009 - 2021) -> Castres Olympique (2021 - 2026)
+Salanque Côte Radieuse (2004 - 2006) -> Rugby Olympique Agathois (2007 - 2009) -> Union Sportive Arlequins Perpignanais (2009 - 2021) -> Castres Olympique (2021 - )

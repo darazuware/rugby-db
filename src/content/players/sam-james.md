@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-james"
 ---
 
 ## キャリア遍歴
-Sale Sharks (2015 - 2024) -> Racing 92 (2024 - 2026)
+Sale Sharks (2015 - 2024) -> Racing 92 (2024 - )

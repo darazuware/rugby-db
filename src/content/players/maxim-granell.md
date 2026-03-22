@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxim-granell"
 ---
 
 ## キャリア遍歴
-Entente de la Têt (2010 - 2015) -> Union Sportive Arlequins Perpignanais (2015 - 2026)
+Entente de la Têt (2010 - 2015) -> Union Sportive Arlequins Perpignanais (2015 - )

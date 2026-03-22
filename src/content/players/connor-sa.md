@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/connor-sa"
 ---
 
 ## キャリア遍歴
-Union Bordeaux-Bègles (2015 - 2022) -> US Carcassonne (2022 - 2022) -> Union Bordeaux-Bègles (2023 - 2023) -> US Carcassonne (2023 - 2023) -> Union Bordeaux-Bègles (2023 - 2026)
+Union Bordeaux-Bègles (2015 - ) -> US Carcassonne (2022 - 2023)

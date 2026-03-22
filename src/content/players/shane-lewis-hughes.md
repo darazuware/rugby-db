@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shane-lewis-hughes"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2016 - 2024) -> dragons rfc (2024 - 2026)
+cardiff rugby (2016 - 2024) -> dragons rfc (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romeo-martin-bonnard"
 ---
 
 ## キャリア遍歴
-Ecole de Rugby du Pic Saint-Loup (2012 - 2019) -> US Tyrosse (2021 - 2022) -> Stade Toulousain (2022 - 2026)
+Ecole de Rugby du Pic Saint-Loup (2012 - 2019) -> US Tyrosse (2021 - 2022) -> Stade Toulousain (2022 - )

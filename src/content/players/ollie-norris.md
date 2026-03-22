@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ollie-norris"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2018 - 2025) -> Chiefs (2019 - )
+Waikato Mooloos (2018 - ) -> Chiefs (2019)

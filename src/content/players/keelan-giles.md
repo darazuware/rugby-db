@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/keelan-giles"
 ---
 
 ## キャリア遍歴
-ospreys (2016 - 2026)
+ospreys (2016 - )

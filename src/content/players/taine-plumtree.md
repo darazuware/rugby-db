@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/taine-plumtree"
 ---
 
 ## キャリア遍歴
-wellington lions (2019 - 2020) -> blues (2020 - 2020) -> wellington lions (2020 - 2020) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2021 - 2021) -> wellington lions (2021 - 2021) -> blues (2022 - 2022) -> wellington lions (2022 - 2022) -> blues (2022 - 2023) -> scarlets (2023 - 2026)
+wellington lions (2019 - 2022) -> blues (2020 - 2023) -> scarlets (2023 - )

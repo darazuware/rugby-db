@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-davies-king"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2019 - 2026)
+cardiff rugby (2019 - )

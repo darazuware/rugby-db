@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/deon-slabbert"
 ---
 
 ## キャリア遍歴
-Eagles SWD (2020 - 2021) -> Pumas (2021 - 2023) -> Bulls (2023 - 2024) -> Sharks (2024 - 2024) -> Bulls (2025 - 2025) -> Sharks (2025 - 2026)
+Eagles SWD (2020 - 2021) -> Pumas (2021 - 2023) -> Bulls (2023 - ) -> Sharks (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484911"
 ---
 
 ## キャリア遍歴
-Université du Queensland (2024 - 2025) -> ルリーロ福岡 (2025 - )
+Université du Queensland (2024 - ) -> ルリーロ福岡 (2025 - )

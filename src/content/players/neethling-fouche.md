@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/neethling-fouche"
 ---
 
 ## キャリア遍歴
-Stormers (2017 - 2019) -> Central Cheetahs (2019 - 2020) -> Stormers (2020 - 2026)
+Stormers (2017 - ) -> Central Cheetahs (2019 - 2020)

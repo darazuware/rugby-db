@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/johan-grobbelaar"
 ---
 
 ## キャリア遍歴
-Bulls (2017 - 2026)
+Bulls (2017 - )

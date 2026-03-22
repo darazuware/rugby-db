@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/paddy-jackson"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2013 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - 2019) -> London Irish (2019 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - 2026)
+Ulster Rugby (2013 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - 2019) -> London Irish (2019 - 2023) -> Lyon Olympique Universitaire Rugby (2023 - )

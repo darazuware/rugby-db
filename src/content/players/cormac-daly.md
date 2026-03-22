@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484823"
 ---
 
 ## キャリア遍歴
-コナート (2018 - 2021) -> Rugby United New-York (2019 - 2020) -> Randwick Rugby (2022 - 2023) -> レッズ (2023 - 2024) -> 横浜キヤノンイーグルス (2024 - )
+コナート (2018 - 2021) -> Rugby United New-York (2019 - 2020) -> Randwick Rugby (2022 - 2023) -> レッズ (2023 - 2024) -> 横浜キヤノンイーグルス (2024)

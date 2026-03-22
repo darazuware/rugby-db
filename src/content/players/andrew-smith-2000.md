@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andrew-smith-2000"
 ---
 
 ## キャリア遍歴
-leinster rugby (2020 - 2022) -> connacht rugby (2023 - 2024) -> munster rugby (2024 - 2024) -> connacht rugby (2025 - 2025) -> munster rugby (2025 - 2026)
+leinster rugby (2020 - 2022) -> connacht rugby (2023 - ) -> munster rugby (2024 - )

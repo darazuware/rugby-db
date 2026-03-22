@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nelson-epee"
 ---
 
 ## キャリア遍歴
-U.A. Saverdun (2008 - 2017) -> Stade Toulousain (2017 - 2026)
+U.A. Saverdun (2008 - 2017) -> Stade Toulousain (2017 - )

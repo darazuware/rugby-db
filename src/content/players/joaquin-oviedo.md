@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joaquin-oviedo"
 ---
 
 ## キャリア遍歴
-Jaguares XV (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - 2026)
+Jaguares XV (2020 - 2021) -> Union Sportive Arlequins Perpignanais (2021 - )

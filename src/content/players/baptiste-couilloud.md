@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/baptiste-couilloud"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2004 - 2026)
+Lyon Olympique Universitaire Rugby (2004 - )

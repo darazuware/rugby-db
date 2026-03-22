@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathieu-babillot"
 ---
 
 ## キャリア遍歴
-Castres Olympique (2002 - 2026)
+Castres Olympique (2002 - )

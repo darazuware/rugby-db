@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/declan-meredith"
 ---
 
 ## キャリア遍歴
-Wests Lions (2021 - 2022) -> Brumbies (2022 - )
+Wests Lions (2021 - 2022) -> Brumbies (2022)

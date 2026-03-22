@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/juan-schoeman"
 ---
 
 ## キャリア遍歴
-sharks (2015 - 2019) -> southern kings (2019 - 2019) -> bath rugby (2019 - 2019) -> sharks (2020 - 2020) -> southern kings (2020 - 2020) -> bath rugby (2020 - 2024) -> lions rugby (2024 - 2026)
+sharks (2015 - 2020) -> southern kings (2019 - 2020) -> bath rugby (2019 - 2024) -> lions rugby (2024 - )

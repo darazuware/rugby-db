@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-afshar"
 ---
 
 ## キャリア遍歴
-southern knights (2021 - 2022) -> glasgow warriors (2022 - 2026)
+southern knights (2021 - 2022) -> glasgow warriors (2022 - )

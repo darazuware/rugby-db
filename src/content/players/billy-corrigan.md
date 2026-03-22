@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/billy-corrigan"
 ---
 
 ## キャリア遍歴
-old wesley rfc (2023 - 2025) -> leinster rugby (2025 - 2026)
+old wesley rfc (2023 - ) -> leinster rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathis-ibo"
 ---
 
 ## キャリア遍歴
-RC Neuilly-sur-Marne (2011 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2019) -> Stade Français Paris Rugby (2019 - 2026)
+RC Neuilly-sur-Marne (2011 - 2018) -> RC Champs-sur-Marne Val Maubuée (2018 - 2019) -> Stade Français Paris Rugby (2019 - )

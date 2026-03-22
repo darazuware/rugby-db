@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shilo-klein"
 ---
 
 ## キャリア遍歴
-canterbury (2018 - 2021) -> crusaders (2021 - 2021) -> canterbury (2021 - 2021) -> crusaders (2022 - 2022) -> canterbury (2022 - 2022) -> san diego legion (2022 - 2022) -> north harbour (2022 - 2022) -> san diego legion (2023 - 2023) -> north harbour (2023 - 2024) -> san diego legion (2024 - 2025) -> zebre parma (2025 - 2026)
+canterbury (2018 - 2022) -> crusaders (2021 - 2022) -> san diego legion (2022 - ) -> north harbour (2022 - 2024) -> zebre parma (2025 - )

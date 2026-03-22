@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matt-faessler"
 ---
 
 ## キャリア遍歴
-Queensland Country (2018 - 2019) -> Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020 - )
+Queensland Country (2018 - 2019) -> Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020)

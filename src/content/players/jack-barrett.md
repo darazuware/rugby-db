@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-barrett"
 ---
 
 ## キャリア遍歴
-Randwick Rugby (2022 - 2023) -> New South Wales Waratahs (2023 - )
+Randwick Rugby (2022 - 2023) -> New South Wales Waratahs (2023)

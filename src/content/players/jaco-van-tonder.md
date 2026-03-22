@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jaco-van-tonder"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2016 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)
+ASM Clermont Auvergne (2016 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

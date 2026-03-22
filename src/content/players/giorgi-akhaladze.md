@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giorgi-akhaladze"
 ---
 
 ## キャリア遍歴
-RC Aia Kutaisi (2017 - 2018) -> Rugby Club Massy Essonne (2018 - 2021) -> Association Sportive Béziers Hérault (2021 - 2024) -> ASM Clermont Auvergne (2024 - 2026)
+RC Aia Kutaisi (2017 - 2018) -> Rugby Club Massy Essonne (2018 - 2021) -> Association Sportive Béziers Hérault (2021 - 2024) -> ASM Clermont Auvergne (2024 - )

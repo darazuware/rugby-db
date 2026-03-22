@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhodri-lewis"
 ---
 
 ## キャリア遍歴
-ospreys (2021 - 2024) -> scarlets (2024 - 2026)
+ospreys (2021 - 2024) -> scarlets (2024 - )

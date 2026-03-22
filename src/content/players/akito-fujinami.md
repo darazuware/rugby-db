@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484424"
 ---
 
 ## キャリア遍歴
-Honda (2018 - 2021) -> Toyota Industries Shuttles Aichi (2021 - )
+Honda (2018 - 2021) -> Toyota Industries Shuttles Aichi (2021)

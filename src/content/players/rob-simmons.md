@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rob-simmons"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2013 - 2017) -> New South Wales Waratahs (2017 - 2020) -> London Irish (2020 - 2023) -> ASM Clermont Auvergne (2023 - 2026)
+Queensland Reds (2013 - 2017) -> New South Wales Waratahs (2017 - 2020) -> London Irish (2020 - 2023) -> ASM Clermont Auvergne (2023 - )

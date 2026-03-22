@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/stephen-smyth"
 ---
 
 ## キャリア遍歴
-old wesley rfc (2023 - 2024) -> leinster rugby (2024 - 2026)
+old wesley rfc (2023 - 2024) -> leinster rugby (2024 - )

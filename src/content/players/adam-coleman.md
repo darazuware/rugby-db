@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adam-coleman"
 ---
 
 ## キャリア遍歴
-Western Force (2013 - 2017) -> Melbourne Rebels (2017 - 2019) -> London Irish (2019 - 2023) -> Union Bordeaux-Bègles (2023 - 2026)
+Western Force (2013 - 2017) -> Melbourne Rebels (2017 - 2019) -> London Irish (2019 - 2023) -> Union Bordeaux-Bègles (2023 - )

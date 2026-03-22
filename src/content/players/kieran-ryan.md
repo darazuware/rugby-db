@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kieran-ryan"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2021 - 2026)
+Munster Rugby (2021 - )

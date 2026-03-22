@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emoni-narawa"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2018 - 2025) -> Blues (2019 - 2021) -> Chiefs (2021 - )
+Bay of Plenty Steamers (2018 - ) -> Blues (2019 - 2021) -> Chiefs (2021)

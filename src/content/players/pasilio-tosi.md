@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pasilio-tosi"
 ---
 
 ## キャリア遍歴
-Southland Stags (2019 - 2020) -> Bay of Plenty Steamers (2020 - 2025) -> Hurricanes (2021 - )
+Southland Stags (2019 - 2020) -> Bay of Plenty Steamers (2020 - ) -> Hurricanes (2021)

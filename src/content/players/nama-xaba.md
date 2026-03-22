@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nama-xaba"
 ---
 
 ## キャリア遍歴
-Stormers (2018 - 2024) -> Bulls (2024 - 2026)
+Stormers (2018 - 2024) -> Bulls (2024 - )

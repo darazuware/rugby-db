@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eli-langi"
 ---
 
 ## キャリア遍歴
-Brumbies (2024 - )
+Brumbies (2024)

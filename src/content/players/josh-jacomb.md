@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-jacomb"
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2020 - 2025) -> Chiefs (2023 - )
+Taranaki Bulls (2020 - ) -> Chiefs (2023)

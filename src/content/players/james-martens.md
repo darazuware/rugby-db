@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-martens"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2024 - )
+Queensland Reds (2024)

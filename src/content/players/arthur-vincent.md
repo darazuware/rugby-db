@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/arthur-vincent"
 ---
 
 ## キャリア遍歴
-RC Mauguio Carnon Pays d'Or (2004 - 2013) -> Montpellier Hérault Rugby (2013 - 2026)
+RC Mauguio Carnon Pays d'Or (2004 - 2013) -> Montpellier Hérault Rugby (2013 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morne-smith"
 ---
 
 ## キャリア遍歴
-bulls (2017 - 2026)
+bulls (2017 - )

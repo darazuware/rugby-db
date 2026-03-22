@@ -116,6 +116,93 @@ class PlayerDataProcessor:
             return default
 
     @staticmethod
+    def consolidate_career_history(career_str):
+        """
+        キャリア遍歴の文字列を解析し、同じチームの期間が連続・重複している場合は統合する。
+        例: WP (2020-2021) -> Stormers (2021-2021) -> WP (2021-2021)
+        => WP (2020-2021), Stormers (2021-2021)
+        """
+        if not career_str or str(career_str).lower() == 'nan':
+            return ""
+        
+        # アイテムに分割 (-> または , で区切られていると想定)
+        items = re.split(r'\s*(?:->|,)\s*', career_str)
+        career_data = []
+        
+        for item in items:
+            # "Team Name (Start - End)" または "Team Name (Year)" を抽出
+            match = re.match(r'(.*?)\s*\(\s*(\d{4})\s*(?:-\s*(\d{4}|))?\s*\)', item)
+            if match:
+                team = match.group(1).strip()
+                start = int(match.group(2))
+                end = match.group(3)
+                if not end:
+                    end = start
+                else:
+                    try:
+                        end = int(end)
+                    except ValueError:
+                        end = 9999 # 現在進行形など
+                
+                career_data.append({"team": team, "start": start, "end": end})
+            else:
+                # 形式が合わない場合はそのまま保持を試みるが、パースできないものは無視するか検討
+                pass
+
+        if not career_data:
+            return career_str # パース失敗時は元の文字列を返す
+        
+        # チームごとにグループ化
+        from collections import defaultdict
+        team_ranges = defaultdict(list)
+        for d in career_data:
+            team_ranges[d['team']].append([d['start'], d['end']])
+        
+        merged_career = []
+        for team, ranges in team_ranges.items():
+            # 範囲をマージ
+            ranges.sort()
+            merged = []
+            if not ranges: continue
+            
+            curr_start, curr_end = ranges[0]
+            for next_start, next_end in ranges[1:]:
+                # 連続または重複している場合 (翌年までを連続とみなすか？ GEMINI.md は「連続または重複」)
+                # ラグビーのシーズン性を考慮し、1年以内の空きは連続とみなすロジックもありだが、
+                # まずは重複・隣接のみ。
+                if next_start <= curr_end + 1:
+                    curr_end = max(curr_end, next_end)
+                else:
+                    merged.append((curr_start, curr_end))
+                    curr_start, curr_end = next_start, next_end
+            merged.append((curr_start, curr_end))
+            
+            for m_start, m_end in merged:
+                merged_career.append({"team": team, "start": m_start, "end": m_end})
+        
+        # 開始年順にソート
+        merged_career.sort(key=lambda x: x['start'])
+        
+        # 文字列に変換
+        result_items = []
+        for d in merged_career:
+            team_name = d['team']
+            # capitalize if it's not and requested in general? 
+            # (GEMINI.md says just use team name, but usually title case is better)
+            
+            # 現在進行形の表示 (9999 or 最新の所属)
+            if d['end'] >= 2025: # 2025年以降なら現在進行形として扱う (物理基準日参照)
+                year_str = f"{d['start']} - "
+            elif d['start'] == d['end']:
+                year_str = f"{d['start']}"
+            else:
+                year_str = f"{d['start']} - {d['end']}"
+            
+            result_items.append(f"{team_name} ({year_str})")
+        
+        return " -> ".join(result_items)
+
+    @staticmethod
     def format_career_item(year, team):
         """キャリア遍歴の整形ルール (GEMINI.md 参照)"""
         # ルール: 低い順から新しい順、同一チームは統合など

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/anton-segner"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2019 - 2023) -> Blues (2021 - 2026) -> Auckland (2023 - )
+Tasman Mako (2019 - 2023) -> Blues (2021 - ) -> Auckland (2023)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/boris-palu"
 ---
 
 ## キャリア遍歴
-Maison-Laffitte Saint-Germain Poissy Rugby (2008 - 2010) -> Racing 92 (2010 - 2025) -> Union Bordeaux-Bègles (2025 - 2026)
+Maison-Laffitte Saint-Germain Poissy Rugby (2008 - 2010) -> Racing 92 (2010 - ) -> Union Bordeaux-Bègles (2025 - )

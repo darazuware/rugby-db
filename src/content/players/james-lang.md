@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-lang"
 ---
 
 ## キャリア遍歴
-harlequins (2016 - 2021) -> edimbourg rugby (2021 - 2026)
+harlequins (2016 - 2021) -> edimbourg rugby (2021 - )

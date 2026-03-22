@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ponipate-loganimasi"
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2023 - 2024) -> Fijian Drua (2024 - )
+FIDJI 7's (2023 - 2024) -> Fijian Drua (2024)

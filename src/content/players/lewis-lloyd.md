@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lewis-lloyd"
 ---
 
 ## キャリア遍歴
-Treorchy RFC (2021 - 2022) -> Ospreys (2022 - 2026)
+Treorchy RFC (2021 - 2022) -> Ospreys (2022 - )

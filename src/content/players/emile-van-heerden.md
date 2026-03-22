@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/emile-van-heerden"
 ---
 
 ## キャリア遍歴
-sharks (2019 - 2021) -> natal sharks (2021 - 2022) -> lions rugby (2022 - 2022) -> sharks (2022 - 2022) -> lions rugby (2023 - 2023) -> sharks (2023 - 2026)
+sharks (2019 - ) -> natal sharks (2021 - 2022) -> lions rugby (2022 - 2023)

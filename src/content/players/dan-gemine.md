@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-gemine"
 ---
 
 ## キャリア遍歴
-ospreys (2023 - 2025) -> llandovery rfc (2025 - 2025) -> scarlets (2025 - 2025) -> llandovery rfc (2026 - 2026) -> scarlets (2026 - 2026)
+ospreys (2023 - ) -> llandovery rfc (2025 - ) -> scarlets (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/veveni-lasaqa"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - 2025) -> Hurricanes (2023 - 2024) -> Highlanders (2024 - )
+Bay of Plenty Steamers (2020 - ) -> Hurricanes (2023 - 2024) -> Highlanders (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/beka-shvangiradze"
 ---
 
 ## キャリア遍歴
-RC Aia Kutaisi (2019 - 2020) -> Stade Aurillacois Cantal Auvergne (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - 2026)
+RC Aia Kutaisi (2019 - 2020) -> Stade Aurillacois Cantal Auvergne (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mickael--guillard"
 ---
 
 ## キャリア遍歴
-RC Maurepas-Élancourt (2006 - 2009) -> Union Rugby Centre 78 (2009 - 2017) -> Rugby Club Massy Essonne (2017 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - 2026)
+RC Maurepas-Élancourt (2006 - 2009) -> Union Rugby Centre 78 (2009 - 2017) -> Rugby Club Massy Essonne (2017 - 2020) -> Lyon Olympique Universitaire Rugby (2020 - )

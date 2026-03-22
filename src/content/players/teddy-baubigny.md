@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/teddy-baubigny"
 ---
 
 ## キャリア遍歴
-Rugby Club Pays de Meaux (2012 - 2013) -> Racing 92 (2013 - 2022) -> Rugby Club Toulonnais (2022 - 2026)
+Rugby Club Pays de Meaux (2012 - 2013) -> Racing 92 (2013 - 2022) -> Rugby Club Toulonnais (2022 - )

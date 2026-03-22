@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483490"
 ---
 
 ## キャリア遍歴
-Canterbury (2014 - 2014) -> Counties Manukau Steelers (2016 - 2021) -> Chiefs (2018 - 2018) -> Urayasu D-Rocks (2018 - 2019) -> 豊田自動織機シャトルズ愛知 (2021 - 2022) -> Yokohama Canon Eagles (2022 - 2024) -> 浦安D (2024 - )
+Canterbury (2014) -> Counties Manukau Steelers (2016 - 2021) -> Chiefs (2018) -> Urayasu D-Rocks (2018 - 2019) -> 豊田自動織機シャトルズ愛知 (2021 - 2022) -> Yokohama Canon Eagles (2022 - 2024) -> 浦安D (2024)

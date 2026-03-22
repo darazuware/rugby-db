@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ryan-jones-2006"
 ---
 
 ## キャリア遍歴
-dragons rfc (2024 - 2026)
+dragons rfc (2024 - )

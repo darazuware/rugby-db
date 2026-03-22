@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/brad-shields"
 ---
 
 ## キャリア遍歴
-Hurricanes (2013 - 2026) -> Wasps (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2022 - 2023) -> Wellington Lions (2022 - )
+Hurricanes (2013 - ) -> Wasps (2018 - 2023) -> Union Sportive Arlequins Perpignanais (2022 - 2023) -> Wellington Lions (2022)

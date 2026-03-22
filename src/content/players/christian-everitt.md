@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christian-everitt"
 ---
 
 ## キャリア遍歴
-Sharks (2023 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)
+Sharks (2023 - 2024) -> Union Bordeaux-Bègles (2024 - )

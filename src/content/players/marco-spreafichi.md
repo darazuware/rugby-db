@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marco-spreafichi"
 ---
 
 ## キャリア遍歴
-benetton rugby trévise (2025 - 2026)
+benetton rugby trévise (2025 - )

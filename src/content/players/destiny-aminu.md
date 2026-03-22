@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/destiny-aminu"
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2021 - 2022) -> benetton rugby trévise (2022 - 2026)
+mogliano veneto rugby (2021 - 2022) -> benetton rugby trévise (2022 - )

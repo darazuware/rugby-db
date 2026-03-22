@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483748"
 ---
 
 ## キャリア遍歴
-ウェスタン・プロヴィンス (2019 - 2022) -> Stormers (2020 - 2022) -> Kubota Spears Funabashi Tokyo-Bay (2022 - )
+ウェスタン・プロヴィンス (2019 - 2022) -> Stormers (2020 - 2022) -> Kubota Spears Funabashi Tokyo-Bay (2022)

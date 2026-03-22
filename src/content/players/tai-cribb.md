@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tai-cribb"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - 2024) -> Chiefs (2023 - 2024) -> Auckland (2024 - 2025) -> Highlanders (2024 - )
+Waikato Mooloos (2022 - 2024) -> Chiefs (2023 - 2024) -> Auckland (2024 - ) -> Highlanders (2024)

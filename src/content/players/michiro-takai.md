@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483709"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2012 - )
+Kyushu Kyuden Voltex (2012)

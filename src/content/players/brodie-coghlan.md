@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/brodie-coghlan"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2021 - 2026)
+Dragons RFC (2021 - )

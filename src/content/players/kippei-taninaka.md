@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485509"
 ---
 
 ## キャリア遍歴
-Toyota Verblitz (2023 - )
+Toyota Verblitz (2023)

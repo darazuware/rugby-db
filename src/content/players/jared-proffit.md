@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jared-proffit"
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2015 - 2025) -> Hurricanes (2021 - 2022) -> Chiefs (2022 - )
+Taranaki Bulls (2015 - ) -> Hurricanes (2021 - 2022) -> Chiefs (2022)

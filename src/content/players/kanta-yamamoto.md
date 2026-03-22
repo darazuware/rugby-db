@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485001"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2019 - )
+Red Hurricanes Osaka (2019)

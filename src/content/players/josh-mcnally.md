@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-mcnally"
 ---
 
 ## キャリア遍歴
-london welsh rfc (2014 - 2015) -> london irish (2017 - 2019) -> bath rugby (2019 - 2024) -> cardiff rugby (2024 - 2026)
+london welsh rfc (2014 - 2015) -> london irish (2017 - 2019) -> bath rugby (2019 - 2024) -> cardiff rugby (2024 - )

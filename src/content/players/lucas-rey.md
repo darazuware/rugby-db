@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lucas-rey"
 ---
 
 ## キャリア遍歴
-Section Paloise Béarn Pyrénées (2004 - 2026)
+Section Paloise Béarn Pyrénées (2004 - )

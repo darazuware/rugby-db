@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-savage"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2013 - 2019) -> Tokyo Sungoliath (2019 - 2023) -> Moana Pasifika (2023 - 2026) -> North Harbour (2024 - )
+Gloucester Rugby (2013 - 2019) -> Tokyo Sungoliath (2019 - 2023) -> Moana Pasifika (2023 - ) -> North Harbour (2024)

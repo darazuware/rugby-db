@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francois-klopper"
 ---
 
 ## キャリア遍歴
-natal sharks (2018 - 2019) -> blue bulls (2020 - 2022) -> bulls (2022 - 2026)
+natal sharks (2018 - 2019) -> blue bulls (2020 - 2022) -> bulls (2022 - )

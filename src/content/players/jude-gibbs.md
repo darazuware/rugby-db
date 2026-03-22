@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483680"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2025 - 2025) -> 九州電力キューデンヴォルテクス (2025 - )
+Queensland Reds (2025 - ) -> 九州電力キューデンヴォルテクス (2025 - )

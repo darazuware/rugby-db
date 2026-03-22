@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kirby-myhill"
 ---
 
 ## キャリア遍歴
-scarlets (2013 - 2016) -> cardiff rugby (2016 - 2023) -> miami sharks (2023 - 2025) -> scarlets (2025 - 2026)
+scarlets (2013 - 2016) -> cardiff rugby (2016 - 2023) -> miami sharks (2023 - ) -> scarlets (2025 - )

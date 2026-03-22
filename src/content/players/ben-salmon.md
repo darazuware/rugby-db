@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-salmon"
 ---
 
 ## キャリア遍歴
-Stirling County RFC (2021 - 2022) -> Glasgow Warriors (2022 - 2026)
+Stirling County RFC (2021 - 2022) -> Glasgow Warriors (2022 - )

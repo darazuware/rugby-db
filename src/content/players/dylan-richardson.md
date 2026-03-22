@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-richardson"
 ---
 
 ## キャリア遍歴
-Sharks (2018 - 2025) -> Edimbourg Rugby (2025 - 2026)
+Sharks (2018 - ) -> Edimbourg Rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shayne-bolton"
 ---
 
 ## キャリア遍歴
-university of the free state (2020 - 2021) -> connacht rugby (2021 - 2026)
+university of the free state (2020 - 2021) -> connacht rugby (2021 - )

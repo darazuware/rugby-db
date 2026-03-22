@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/suliasi-vunivalu"
 ---
 
 ## キャリア遍歴
-Melbourne Storm (2015 - 2020) -> Queensland Reds (2020 - 2024) -> Stade Rochelais (2024 - 2026)
+Melbourne Storm (2015 - 2020) -> Queensland Reds (2020 - 2024) -> Stade Rochelais (2024 - )

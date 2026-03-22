@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/max-douglas"
 ---
 
 ## キャリア遍歴
-manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2021) -> manly marlins (2021 - 2021) -> new south wales waratahs (2022 - 2022) -> manly marlins (2022 - 2022) -> yokohama canon eagles (2022 - 2024) -> scarlets (2024 - 2026)
+manly marlins (2018 - 2019) -> new south wales waratahs (2019 - 2022) -> manly marlins (2021 - 2022) -> yokohama canon eagles (2022 - 2024) -> scarlets (2024 - )

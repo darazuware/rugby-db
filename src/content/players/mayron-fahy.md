@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mayron-fahy"
 ---
 
 ## キャリア遍歴
-RC Salanque XV (2013 - 2022) -> Union Sportive Arlequins Perpignanais (2022 - 2026)
+RC Salanque XV (2013 - 2022) -> Union Sportive Arlequins Perpignanais (2022 - )

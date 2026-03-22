@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zuriel-togiatama"
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2019 - 2025) -> Fijian Drua (2021 - )
+Counties Manukau Steelers (2019 - ) -> Fijian Drua (2021)

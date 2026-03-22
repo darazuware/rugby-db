@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cameron-scott"
 ---
 
 ## キャリア遍歴
-boroughmuir rfc (2020 - 2021) -> southern knights (2021 - 2022) -> london scottish (2022 - 2022) -> edimbourg rugby (2022 - 2022) -> london scottish (2023 - 2023) -> edimbourg rugby (2023 - 2026)
+boroughmuir rfc (2020 - 2021) -> southern knights (2021 - 2022) -> london scottish (2022 - 2023) -> edimbourg rugby (2022 - )

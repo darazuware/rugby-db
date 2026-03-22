@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/judicael-cancoriet"
 ---
 
 ## キャリア遍歴
-AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> ASM Clermont Auvergne (2015 - 2023) -> Stade Rochelais (2023 - 2026)
+AAS Sarcelles Rugby (2005 - 2011) -> Rugby Club Massy Essonne (2011 - 2015) -> ASM Clermont Auvergne (2015 - 2023) -> Stade Rochelais (2023 - )

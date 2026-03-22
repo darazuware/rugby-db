@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rhys-van-nek"
 ---
 
 ## キャリア遍歴
-Easts Rugby Union Club (2019 - 2020) -> Melbourne Rebels (2020 - 2022) -> Brumbies (2022 - )
+Easts Rugby Union Club (2019 - 2020) -> Melbourne Rebels (2020 - 2022) -> Brumbies (2022)

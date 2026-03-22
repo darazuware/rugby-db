@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peniasi-dakuwaqa"
 ---
 
 ## キャリア遍歴
-Tupapa Maraerenga Panthers (2020 - 2021) -> Club fidjien (2021 - 2022) -> Stade Français Paris Rugby (2022 - 2026)
+Tupapa Maraerenga Panthers (2020 - 2021) -> Club fidjien (2021 - 2022) -> Stade Français Paris Rugby (2022 - )

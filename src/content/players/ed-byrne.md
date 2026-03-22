@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ed-byrne"
 ---
 
 ## キャリア遍歴
-leinster rugby (2013 - 2024) -> cardiff rugby (2024 - 2026)
+leinster rugby (2013 - 2024) -> cardiff rugby (2024 - )

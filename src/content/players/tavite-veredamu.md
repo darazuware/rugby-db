@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tavite-veredamu"
 ---
 
 ## キャリア遍歴
-Rugby Club Nîmois (2010 - 2018) -> France 7 (2018 - 2020) -> ASM Clermont Auvergne (2020 - 2020) -> France 7 (2020 - 2020) -> ASM Clermont Auvergne (2021 - 2021) -> France 7 (2021 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2026)
+Rugby Club Nîmois (2010 - 2018) -> France 7 (2018 - 2021) -> ASM Clermont Auvergne (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - )

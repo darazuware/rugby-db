@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-reffell"
 ---
 
 ## キャリア遍歴
-saracens (2017 - 2022) -> ulster rugby (2022 - 2026)
+saracens (2017 - 2022) -> ulster rugby (2022 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/todd-lawlor"
 ---
 
 ## キャリア遍歴
-newbridge college (2021 - 2024) -> llandovery rfc (2024 - 2025) -> leinster rugby (2025 - 2026)
+newbridge college (2021 - 2024) -> llandovery rfc (2024 - ) -> leinster rugby (2025 - )

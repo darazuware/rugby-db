@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-davis"
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2026)
+Scarlets (2017 - )

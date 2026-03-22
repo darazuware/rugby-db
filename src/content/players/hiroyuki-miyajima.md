@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483563"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2015 - )
+Green Rockets Tokatsu (2015)

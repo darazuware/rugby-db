@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484949"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2017 - 2022) -> Mie Honda Heat RFC (2022 - 2024) -> L福岡 (2024 - )
+コベルコ神戸スティーラーズ (2017 - 2022) -> Mie Honda Heat RFC (2022 - 2024) -> L福岡 (2024)

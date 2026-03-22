@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/diego-escobar"
 ---
 
 ## キャリア遍歴
-Selknam (2021 - 2024) -> Racing 92 (2024 - 2026)
+Selknam (2021 - 2024) -> Racing 92 (2024 - )

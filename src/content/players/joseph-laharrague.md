@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joseph-laharrague"
 ---
 
 ## キャリア遍歴
-RC Montauban (2013 - 2015) -> Sporting Club Nègrepelisse (2015 - 2016) -> Stado Tarbes Pyrénées Rugby (2016 - 2023) -> Union Bordeaux-Bègles (2023 - 2026)
+RC Montauban (2013 - 2015) -> Sporting Club Nègrepelisse (2015 - 2016) -> Stado Tarbes Pyrénées Rugby (2016 - 2023) -> Union Bordeaux-Bègles (2023 - )

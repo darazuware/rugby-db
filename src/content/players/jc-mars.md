@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jc-mars"
 ---
 
 ## キャリア遍歴
-western province (2023 - 2024) -> stormers (2024 - 2026)
+western province (2023 - 2024) -> stormers (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/georges-henri-colombe"
 ---
 
 ## キャリア遍歴
-Racing Nanterre Rugby (2008 - 2011) -> Racing 92 (2011 - 2017) -> USON Nevers Rugby (2017 - 2017) -> Racing 92 (2018 - 2018) -> USON Nevers Rugby (2018 - 2018) -> Racing 92 (2018 - 2022) -> Stade Rochelais (2022 - 2025) -> Stade Toulousain (2025 - 2026)
+Racing Nanterre Rugby (2008 - 2011) -> Racing 92 (2011 - 2022) -> USON Nevers Rugby (2017 - 2018) -> Stade Rochelais (2022 - ) -> Stade Toulousain (2025 - )

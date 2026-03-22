@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/zak-burger"
 ---
 
 ## キャリア遍歴
-griquas (2019 - 2020) -> bulls (2020 - 2026)
+griquas (2019 - 2020) -> bulls (2020 - )

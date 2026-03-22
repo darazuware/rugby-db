@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-pledger"
 ---
 
 ## キャリア遍歴
-Otago (2023 - 2025) -> Highlanders (2023 - )
+Otago (2023 - ) -> Highlanders (2023)

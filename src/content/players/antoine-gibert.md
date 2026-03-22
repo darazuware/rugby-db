@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/antoine-gibert"
 ---
 
 ## キャリア遍歴
-AC Boulogne-Billancourt (2004 - 2011) -> Racing 92 (2011 - 2026)
+AC Boulogne-Billancourt (2004 - 2011) -> Racing 92 (2011 - )

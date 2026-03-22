@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mako-vunipola"
 ---
 
 ## キャリア遍歴
-Saracens (2012 - 2024) -> Rugby Club Vannes (2024 - 2026)
+Saracens (2012 - 2024) -> Rugby Club Vannes (2024 - )

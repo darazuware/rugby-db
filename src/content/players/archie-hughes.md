@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/archie-hughes"
 ---
 
 ## キャリア遍歴
-Scarlets (2021 - 2026)
+Scarlets (2021 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-williams-21689"
 ---
 
 ## キャリア遍歴
-Scarlets (2025 - 2026)
+Scarlets (2025 - )

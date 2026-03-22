@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/romarick-camou"
 ---
 
 ## キャリア遍歴
-Stade Rochelais (2011 - 2019) -> USON Nevers Rugby (2019 - 2022) -> Rugby Club Vannes (2022 - 2026)
+Stade Rochelais (2011 - 2019) -> USON Nevers Rugby (2019 - 2022) -> Rugby Club Vannes (2022 - )

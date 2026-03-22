@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485710"
 ---
 
 ## キャリア遍歴
-メルボルン・レベルズ (2014 - 2021) -> スカーレッツ (2017 - 2026) -> Section Paloise Béarn Pyrénées (2020 - 2024) -> ドラゴンズ (2024 - 2026) -> 浦安D-Rocks (2025 - )
+メルボルン・レベルズ (2014 - 2021) -> スカーレッツ (2017 - ) -> Section Paloise Béarn Pyrénées (2020 - 2024) -> ドラゴンズ (2024 - ) -> 浦安D-Rocks (2025 - )

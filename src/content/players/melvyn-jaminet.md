@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/melvyn-jaminet"
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2005 - 2015) -> RC Vallée du Gapeau (2015 - 2016) -> RC Hyères Carqueiranne La Crau (2016 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - 2022) -> Stade Toulousain (2022 - 2023) -> Rugby Club Toulonnais (2023 - 2023) -> Stade Toulousain (2024 - 2024) -> Rugby Club Toulonnais (2024 - 2026)
+Rugby Club Toulonnais (2005 - 2015) -> RC Vallée du Gapeau (2015 - 2016) -> RC Hyères Carqueiranne La Crau (2016 - 2018) -> Union Sportive Arlequins Perpignanais (2018 - 2022) -> Stade Toulousain (2022 - 2024) -> Rugby Club Toulonnais (2023 - )

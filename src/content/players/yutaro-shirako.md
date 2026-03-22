@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484238"
 ---
 
 ## キャリア遍歴
-Shimizu Koto Blue Sharks (2015 - )
+Shimizu Koto Blue Sharks (2015)

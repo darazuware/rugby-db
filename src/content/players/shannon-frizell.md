@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484383"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2016 - 2023) -> Highlanders (2018 - 2023) -> Toshiba Brave Lupus Tokyo (2023 - )
+Tasman Mako (2016 - 2023) -> Highlanders (2018 - 2023) -> Toshiba Brave Lupus Tokyo (2023)

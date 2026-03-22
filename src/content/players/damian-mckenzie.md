@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/damian-mckenzie"
 ---
 
 ## キャリア遍歴
-Chiefs (2014 - 2026) -> Waikato Mooloos (2019 - 2022) -> Tokyo Sungoliath (2021 - )
+Chiefs (2014 - ) -> Waikato Mooloos (2019 - 2022) -> Tokyo Sungoliath (2021)

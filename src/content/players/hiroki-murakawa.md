@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483686"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2015 - 2024) -> Kyushu Kyuden Voltex (2024 - )
+豊田自動織機シャトルズ愛知 (2015 - 2024) -> Kyushu Kyuden Voltex (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hamish-muller"
 ---
 
 ## キャリア遍歴
-Brothers Rugby Club (2020 - 2025) -> Queensland Reds (2025 - )
+Brothers Rugby Club (2020 - ) -> Queensland Reds (2025 - )

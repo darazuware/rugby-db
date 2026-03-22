@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-utterson"
 ---
 
 ## キャリア遍歴
-kelso rfc (2024 - 2025) -> edimbourg rugby (2025 - 2026)
+kelso rfc (2024 - ) -> edimbourg rugby (2025 - )

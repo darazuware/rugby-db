@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sipili-falatea"
 ---
 
 ## キャリア遍歴
-US Colomiers (2015 - 2017) -> ASM Clermont Auvergne (2017 - 2022) -> Union Bordeaux-Bègles (2022 - 2026)
+US Colomiers (2015 - 2017) -> ASM Clermont Auvergne (2017 - 2022) -> Union Bordeaux-Bègles (2022 - )

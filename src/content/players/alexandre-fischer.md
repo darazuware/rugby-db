@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alexandre-fischer"
 ---
 
 ## キャリア遍歴
-US Issoire (2011 - 2013) -> ASM Clermont Auvergne (2013 - 2025) -> Aviron Bayonnais (2025 - 2026)
+US Issoire (2011 - 2013) -> ASM Clermont Auvergne (2013 - ) -> Aviron Bayonnais (2025 - )

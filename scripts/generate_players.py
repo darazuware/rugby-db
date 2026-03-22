@@ -165,7 +165,8 @@ def generate_markdown():
         if caps == '0.0' or caps == '0':
             caps = ""
         
-        career_history = PlayerDataProcessor.get_safe_attr(row, 'キャリア遍歴')
+        career_history_raw = PlayerDataProcessor.get_safe_attr(row, 'キャリア遍歴')
+        career_history = PlayerDataProcessor.consolidate_career_history(career_history_raw)
         high_school = PlayerDataProcessor.get_safe_attr(row, 'High_School')
         university = PlayerDataProcessor.get_safe_attr(row, 'University')
 

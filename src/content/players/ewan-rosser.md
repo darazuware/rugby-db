@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ewan-rosser"
 ---
 
 ## キャリア遍歴
-dragons rfc (2019 - 2026)
+dragons rfc (2019 - )

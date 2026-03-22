@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alun-lawrence"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2017 - 2021) -> jersey reds (2021 - 2021) -> cardiff rugby (2022 - 2022) -> jersey reds (2022 - 2023) -> cardiff rugby (2023 - 2023) -> jersey reds (2024 - 2024) -> cardiff rugby (2024 - 2026)
+cardiff rugby (2017 - ) -> jersey reds (2021 - 2024)

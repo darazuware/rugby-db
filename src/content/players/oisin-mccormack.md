@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oisin-mccormack"
 ---
 
 ## キャリア遍歴
-connacht rugby (2020 - 2025) -> harlequins (2025 - 2025) -> connacht rugby (2026 - 2026) -> harlequins (2026 - 2026)
+connacht rugby (2020 - ) -> harlequins (2025 - )

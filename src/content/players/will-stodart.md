@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/will-stodart"
 ---
 
 ## キャリア遍歴
-Otago (2022 - 2025) -> Highlanders (2023 - )
+Otago (2022 - ) -> Highlanders (2023)

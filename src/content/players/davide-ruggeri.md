@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/davide-ruggeri"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2018 - 2019) -> Rugby Rovigo Delta (2019 - 2020) -> Benetton Rugby Trévise (2020 - 2021) -> Rugby Rovigo Delta (2021 - 2022) -> Zebre Parma (2022 - 2026)
+Zebre Parma (2018 - 2019) -> Rugby Rovigo Delta (2019 - 2022) -> Benetton Rugby Trévise (2020 - 2021) -> Zebre Parma (2022 - )

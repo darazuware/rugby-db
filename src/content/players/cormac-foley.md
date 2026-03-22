@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cormac-foley"
 ---
 
 ## キャリア遍歴
-leinster rugby (2020 - 2025) -> ospreys (2025 - 2025) -> leinster rugby (2026 - 2026) -> ospreys (2026 - 2026)
+leinster rugby (2020 - ) -> ospreys (2025 - )

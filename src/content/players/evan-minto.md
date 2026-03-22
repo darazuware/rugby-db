@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/evan-minto"
 ---
 
 ## キャリア遍歴
-dragons rfc (2024 - 2024) -> hartpury rfc (2024 - 2024) -> dragons rfc (2025 - 2025) -> hartpury rfc (2025 - 2025) -> dragons rfc (2025 - 2026)
+dragons rfc (2024 - ) -> hartpury rfc (2024 - )

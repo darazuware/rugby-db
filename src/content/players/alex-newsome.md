@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-newsome"
 ---
 
 ## キャリア遍歴
-Western Force (2016 - 2017) -> New South Wales Waratahs (2017 - 2022) -> ASM Clermont Auvergne (2022 - 2026)
+Western Force (2016 - 2017) -> New South Wales Waratahs (2017 - 2022) -> ASM Clermont Auvergne (2022 - )

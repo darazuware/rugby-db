@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siate-tokolahi"
 ---
 
 ## キャリア遍歴
-Chiefs (2014 - 2016) -> Highlanders (2016 - 2019) -> Southland Stags (2019 - 2019) -> Highlanders (2020 - 2020) -> Southland Stags (2020 - 2020) -> Highlanders (2020 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)
+Chiefs (2014 - 2016) -> Highlanders (2016 - 2021) -> Southland Stags (2019 - 2020) -> Section Paloise Béarn Pyrénées (2021 - )

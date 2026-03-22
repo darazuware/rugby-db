@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/danny-southworth"
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2019 - 2022) -> Coventry Rugby (2022 - 2022) -> Exeter Chiefs (2022 - 2022) -> Coventry Rugby (2023 - 2023) -> Exeter Chiefs (2023 - 2023) -> Coventry Rugby (2023 - 2023) -> Exeter Chiefs (2024 - 2024) -> Coventry Rugby (2024 - 2024) -> Cardiff Rugby (2024 - 2026)
+Exeter Chiefs (2019 - 2024) -> Coventry Rugby (2022 - 2024) -> Cardiff Rugby (2024 - )

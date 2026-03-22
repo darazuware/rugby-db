@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lyam-akrab"
 ---
 
 ## キャリア遍歴
-Cercle sportif Grésivaudan Belledonne (2011 - 2020) -> Montpellier Hérault Rugby (2020 - 2026)
+Cercle sportif Grésivaudan Belledonne (2011 - 2020) -> Montpellier Hérault Rugby (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tiziano-pasquali"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2013 - 2016) -> Benetton Rugby Trévise (2016 - 2026)
+Leicester Tigers (2013 - 2016) -> Benetton Rugby Trévise (2016 - )

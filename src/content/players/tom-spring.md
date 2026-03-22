@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-spring"
 ---
 
 ## キャリア遍歴
-US Nafarroa (2008 - 2021) -> Aviron Bayonnais (2021 - 2026)
+US Nafarroa (2008 - 2021) -> Aviron Bayonnais (2021 - )

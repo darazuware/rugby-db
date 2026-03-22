@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wame-naituvi"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2016 - 2017) -> Stade Montois Rugby Pro (2017 - 2023) -> Racing 92 (2023 - 2026)
+ASM Clermont Auvergne (2016 - 2017) -> Stade Montois Rugby Pro (2017 - 2023) -> Racing 92 (2023 - )

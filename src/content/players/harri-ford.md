@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-ford"
 ---
 
 ## キャリア遍歴
-rgc 1404 (2023 - 2024) -> dragons rfc (2024 - 2026)
+rgc 1404 (2023 - 2024) -> dragons rfc (2024 - )

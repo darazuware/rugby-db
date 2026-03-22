@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-francis"
 ---
 
 ## キャリア遍歴
-golden lions (2022 - 2024) -> lions rugby (2024 - 2026)
+golden lions (2022 - 2024) -> lions rugby (2024 - )

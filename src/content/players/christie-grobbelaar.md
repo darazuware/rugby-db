@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/christie-grobbelaar"
 ---
 
 ## キャリア遍歴
-af. sud 7's (2020 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - 2026)
+af. sud 7's (2020 - 2024) -> natal sharks (2024 - ) -> sharks (2025 - )

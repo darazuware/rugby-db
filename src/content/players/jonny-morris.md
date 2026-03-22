@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jonny-morris"
 ---
 
 ## キャリア遍歴
-glasgow hutchesons aloysians rfc (2022 - 2023) -> glasgow warriors (2023 - 2026)
+glasgow hutchesons aloysians rfc (2022 - 2023) -> glasgow warriors (2023 - )

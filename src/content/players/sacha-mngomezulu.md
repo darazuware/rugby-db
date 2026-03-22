@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sacha-mngomezulu"
 ---
 
 ## キャリア遍歴
-western province (2020 - 2021) -> stormers (2021 - 2021) -> western province (2021 - 2021) -> stormers (2022 - 2022) -> western province (2022 - 2022) -> stormers (2022 - 2026)
+western province (2020 - 2022) -> stormers (2021 - )

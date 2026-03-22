@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruadhan-quinn"
 ---
 
 ## キャリア遍歴
-munster rugby (2022 - 2026)
+munster rugby (2022 - )

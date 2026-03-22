@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/shamus-hurley-langton"
 ---
 
 ## キャリア遍歴
-manawatu turbos (2019 - 2022) -> connacht rugby (2022 - 2026)
+manawatu turbos (2019 - 2022) -> connacht rugby (2022 - )

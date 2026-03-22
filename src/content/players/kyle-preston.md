@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kyle-preston"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2022 - 2025) -> Crusaders (2024 - )
+Wellington Lions (2022 - ) -> Crusaders (2024)

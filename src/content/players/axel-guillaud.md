@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/axel-guillaud"
 ---
 
 ## キャリア遍歴
-CS Bourgoin Jallieu Rugby (2011 - 2024) -> ASM Clermont Auvergne (2024 - 2026)
+CS Bourgoin Jallieu Rugby (2011 - 2024) -> ASM Clermont Auvergne (2024 - )

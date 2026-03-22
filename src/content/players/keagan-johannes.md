@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/keagan-johannes"
 ---
 
 ## キャリア遍歴
-Bulls (2019 - 2026)
+Bulls (2019 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morne-van-den-berg"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2018 - 2026)
+Lions Rugby (2018 - )

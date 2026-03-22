@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-tasesa-volkman"
 ---
 
 ## キャリア遍歴
-canberra royals (2024 - 2025) -> benetton rugby trévise (2025 - 2026)
+canberra royals (2024 - ) -> benetton rugby trévise (2025 - )

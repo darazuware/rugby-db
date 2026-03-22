@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484357"
 ---
 
 ## キャリア遍歴
-Chiefs (2015 - 2016) -> Crusaders (2017 - 2018) -> ボルドー (2018 - 2020) -> Toshiba Brave Lupus Tokyo (2021 - )
+Chiefs (2015 - 2016) -> Crusaders (2017 - 2018) -> ボルドー (2018 - 2020) -> Toshiba Brave Lupus Tokyo (2021)

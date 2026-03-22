@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mahamadou-diaby"
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2010 - 2012) -> Racing 92 (2012 - 2013) -> Oyonnax Rugby (2013 - 2014) -> FC Grenoble Rugby (2014 - 2017) -> Union Bordeaux-Bègles (2017 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2026)
+Stade Français Paris Rugby (2010 - 2012) -> Racing 92 (2012 - 2013) -> Oyonnax Rugby (2013 - 2014) -> FC Grenoble Rugby (2014 - 2017) -> Union Bordeaux-Bègles (2017 - ) -> Union Sportive Arlequins Perpignanais (2025 - )

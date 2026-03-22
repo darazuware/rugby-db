@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/austin-anderson"
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - 2025) -> Brumbies (2023 - )
+Waikato Mooloos (2022 - ) -> Brumbies (2023)

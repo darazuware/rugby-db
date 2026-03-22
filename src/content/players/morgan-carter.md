@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morgan-carter"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2025 - 2026)
+Dragons RFC (2025 - )

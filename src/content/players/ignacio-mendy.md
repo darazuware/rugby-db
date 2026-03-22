@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ignacio-mendy"
 ---
 
 ## キャリア遍歴
-jaguares (2018 - 2019) -> los tilos (2020 - 2021) -> jaguares xv (2021 - 2021) -> los tilos (2021 - 2021) -> jaguares xv (2022 - 2022) -> los tilos (2022 - 2022) -> benetton rugby trévise (2022 - 2026)
+jaguares (2018 - 2019) -> los tilos (2020 - 2022) -> jaguares xv (2021 - 2022) -> benetton rugby trévise (2022 - )

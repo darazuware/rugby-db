@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dalton-papali-i"
 ---
 
 ## キャリア遍歴
-Blues (2017 - 2026) -> Counties Manukau Steelers (2019 - )
+Blues (2017 - ) -> Counties Manukau Steelers (2019)

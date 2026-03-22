@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/george-roberts"
 ---
 
 ## キャリア遍歴
-rgc 1404 (2019 - 2020) -> doncaster knights (2020 - 2025) -> dragons rfc (2025 - 2025) -> doncaster knights (2026 - 2026) -> dragons rfc (2026 - 2026)
+rgc 1404 (2019 - 2020) -> doncaster knights (2020 - ) -> dragons rfc (2025 - )

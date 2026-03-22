@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/archer-holz"
 ---
 
 ## キャリア遍歴
-eastern suburbs rfc (2019 - 2020) -> brumbies (2020 - 2021) -> new south wales waratahs (2021 - 2023) -> stade rochelais (2023 - 2023) -> new south wales waratahs (2023 - 2023) -> stade rochelais (2024 - 2024) -> new south wales waratahs (2024 - 2024) -> scarlets (2024 - 2026)
+eastern suburbs rfc (2019 - 2020) -> brumbies (2020 - 2021) -> new south wales waratahs (2021 - 2024) -> stade rochelais (2023 - 2024) -> scarlets (2024 - )

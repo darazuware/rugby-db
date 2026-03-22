@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/kyle-smith"
 ---
 
 ## キャリア遍歴
-western province (2023 - 2025) -> stormers (2025 - 2026)
+western province (2023 - ) -> stormers (2025 - )

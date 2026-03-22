@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mael-moustin"
 ---
 
 ## キャリア遍歴
-Rugby Club du Diamant Martinique (2009 - 2012) -> Saint-Jo Ovalie (2012 - 2013) -> Sporting Union Agenais (2016 - 2021) -> Union Bordeaux-Bègles (2021 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+Rugby Club du Diamant Martinique (2009 - 2012) -> Saint-Jo Ovalie (2012 - 2013) -> Sporting Union Agenais (2016 - 2021) -> Union Bordeaux-Bègles (2021 - 2024) -> Montpellier Hérault Rugby (2024 - )

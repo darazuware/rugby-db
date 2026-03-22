@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/clement-verge"
 ---
 
 ## キャリア遍歴
-Saint-Girons SC Couserans (2007 - 2018) -> Stade Toulousain (2018 - 2026)
+Saint-Girons SC Couserans (2007 - 2018) -> Stade Toulousain (2018 - )

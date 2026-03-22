@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sevu-reece"
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2026) -> Tasman Mako (2019 - 2022) -> Southland Stags (2024 - )
+Crusaders (2018 - ) -> Tasman Mako (2019 - 2022) -> Southland Stags (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/simphiwe-matanzima"
 ---
 
 ## キャリア遍歴
-bulls (2017 - 2020) -> blue bulls (2020 - 2021) -> bulls (2021 - 2025) -> sharks (2025 - 2026)
+bulls (2017 - ) -> blue bulls (2020 - 2021) -> sharks (2025 - )

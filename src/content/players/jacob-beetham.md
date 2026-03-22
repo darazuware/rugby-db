@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jacob-beetham"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2019 - 2026)
+Cardiff Rugby (2019 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lachlan-shaw"
 ---
 
 ## キャリア遍歴
-Université du Queensland (2021 - 2022) -> Brumbies (2022 - 2026) -> Manawatu Turbos (2023 - )
+Université du Queensland (2021 - 2022) -> Brumbies (2022 - ) -> Manawatu Turbos (2023)

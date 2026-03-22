@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/johnny-mcnicholl"
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2026) -> Scarlets (2016 - 2024) -> Canterbury (2023 - )
+Crusaders (2013 - ) -> Scarlets (2016 - 2024) -> Canterbury (2023)

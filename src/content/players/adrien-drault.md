@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adrien-drault"
 ---
 
 ## キャリア遍歴
-AS Cénac Latresne (2013 - 2017) -> Rugby Club de la Pimpine (2017 - 2020) -> Union Bordeaux-Bègles (2020 - 2026)
+AS Cénac Latresne (2013 - 2017) -> Rugby Club de la Pimpine (2017 - 2020) -> Union Bordeaux-Bègles (2020 - )

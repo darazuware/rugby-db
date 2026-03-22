@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484239"
 ---
 
 ## キャリア遍歴
-Shimizu Koto Blue Sharks (2021 - )
+Shimizu Koto Blue Sharks (2021)

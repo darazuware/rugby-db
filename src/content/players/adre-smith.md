@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/adre-smith"
 ---
 
 ## キャリア遍歴
-blue bulls (2017 - 2019) -> griquas (2019 - 2020) -> stormers (2020 - 2020) -> griquas (2020 - 2020) -> stormers (2021 - 2021) -> griquas (2021 - 2021) -> stormers (2021 - 2024) -> toyota verblitz (2024 - 2024) -> stormers (2025 - 2025) -> toyota verblitz (2025 - 2025) -> stormers (2025 - 2026)
+blue bulls (2017 - 2019) -> griquas (2019 - 2021) -> stormers (2020 - ) -> toyota verblitz (2024 - )

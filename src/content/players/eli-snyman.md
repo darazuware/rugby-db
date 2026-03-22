@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eli-snyman"
 ---
 
 ## キャリア遍歴
-bulls (2018 - 2019) -> benetton rugby trévise (2019 - 2021) -> leicester tigers (2021 - 2023) -> benetton rugby trévise (2023 - 2026)
+bulls (2018 - 2019) -> benetton rugby trévise (2019 - 2021) -> leicester tigers (2021 - 2023) -> benetton rugby trévise (2023 - )

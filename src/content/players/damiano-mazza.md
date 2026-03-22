@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/damiano-mazza"
 ---
 
 ## キャリア遍歴
-rugby calvisano (2018 - 2022) -> zebre parma (2022 - 2026)
+rugby calvisano (2018 - 2022) -> zebre parma (2022 - )

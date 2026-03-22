@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fraser-mcreight"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2018 - )
+Queensland Reds (2018)

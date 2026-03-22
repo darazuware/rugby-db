@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nika-abuladze"
 ---
 
 ## キャリア遍歴
-RC Kochebi (2020 - 2021) -> Black Lion (2021 - 2022) -> Exeter Chiefs (2022 - 2022) -> Black Lion (2023 - 2023) -> Exeter Chiefs (2023 - 2024) -> Montpellier Hérault Rugby (2024 - 2026)
+RC Kochebi (2020 - 2021) -> Black Lion (2021 - 2023) -> Exeter Chiefs (2022 - 2024) -> Montpellier Hérault Rugby (2024 - )

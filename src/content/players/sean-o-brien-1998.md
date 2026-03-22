@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-o-brien-1998"
 ---
 
 ## キャリア遍歴
-connacht rugby (2019 - 2021) -> exeter chiefs (2021 - 2023) -> munster rugby (2023 - 2026)
+connacht rugby (2019 - 2021) -> exeter chiefs (2021 - 2023) -> munster rugby (2023 - )

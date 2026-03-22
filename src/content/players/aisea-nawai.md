@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aisea-nawai"
 ---
 
 ## キャリア遍歴
-Fijian Drua (2023 - )
+Fijian Drua (2023)

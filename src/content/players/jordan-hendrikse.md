@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-hendrikse"
 ---
 
 ## キャリア遍歴
-maties rugby club (2019 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - 2026)
+maties rugby club (2019 - 2020) -> lions rugby (2020 - 2024) -> sharks (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/facundo-bosch"
 ---
 
 ## キャリア遍歴
-Jaguares (2015 - 2017) -> Sporting Union Agenais (2017 - 2019) -> Stade Rochelais (2019 - 2022) -> Aviron Bayonnais (2022 - 2026)
+Jaguares (2015 - 2017) -> Sporting Union Agenais (2017 - 2019) -> Stade Rochelais (2019 - 2022) -> Aviron Bayonnais (2022 - )

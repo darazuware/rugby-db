@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wallace-sititi"
 ---
 
 ## キャリア遍歴
-North Harbour (2021 - 2024) -> Chiefs (2023 - )
+North Harbour (2021 - 2024) -> Chiefs (2023)

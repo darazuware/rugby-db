@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/philip-baselala"
 ---
 
 ## キャリア遍歴
-Suva Grammar School (2021 - 2022) -> Fijian Drua (2022 - )
+Suva Grammar School (2021 - 2022) -> Fijian Drua (2022)

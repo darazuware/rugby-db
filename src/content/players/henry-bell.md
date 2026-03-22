@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-bell"
 ---
 
 ## キャリア遍歴
-Otago (2019 - 2025) -> Utah Warriors (2022 - 2023) -> Highlanders (2023 - )
+Otago (2019 - ) -> Utah Warriors (2022 - 2023) -> Highlanders (2023)

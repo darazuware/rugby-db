@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/david-richards"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2018 - 2024) -> Newport RFC (2024 - 2025) -> Dragons RFC (2025 - 2026)
+Dragons RFC (2018 - ) -> Newport RFC (2024 - )

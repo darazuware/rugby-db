@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-howe-22206"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2025 - 2026)
+cardiff rugby (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeffery-toomaga-allen"
 ---
 
 ## キャリア遍歴
-Hurricanes (2013 - 2019) -> Wasps (2019 - 2022) -> Ulster Rugby (2022 - 2023) -> Queensland Reds (2023 - )
+Hurricanes (2013 - 2019) -> Wasps (2019 - 2022) -> Ulster Rugby (2022 - 2023) -> Queensland Reds (2023)

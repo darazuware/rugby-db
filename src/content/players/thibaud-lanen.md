@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/thibaud-lanen"
 ---
 
 ## キャリア遍歴
-RC Mende Lozère (2004 - 2013) -> ASM Clermont Auvergne (2013 - 2026)
+RC Mende Lozère (2004 - 2013) -> ASM Clermont Auvergne (2013 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-conan"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2013 - 2026)
+Leinster Rugby (2013 - )

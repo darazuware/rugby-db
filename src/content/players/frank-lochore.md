@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483527"
 ---
 
 ## キャリア遍歴
-ホークスベイ (2021 - 2025) -> Utah Warriors (2023 - 2025) -> NECグリーンロケッツ東葛 (2025 - )
+ホークスベイ (2021 - ) -> Utah Warriors (2023 - ) -> NECグリーンロケッツ東葛 (2025 - )

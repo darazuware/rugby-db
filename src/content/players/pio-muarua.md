@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pio-muarua"
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2015 - 2018) -> Soyaux-Angoulême XV Charente (2018 - 2019) -> Rugby Club Vannes (2019 - 2020) -> Stade Montois Rugby Pro (2020 - 2020) -> Rugby Club Vannes (2021 - 2021) -> Stade Montois Rugby Pro (2021 - 2021) -> FC Grenoble Rugby (2021 - 2025) -> ASM Clermont Auvergne (2025 - 2026)
+Sporting Union Agenais (2015 - 2018) -> Soyaux-Angoulême XV Charente (2018 - 2019) -> Rugby Club Vannes (2019 - 2021) -> Stade Montois Rugby Pro (2020 - 2021) -> FC Grenoble Rugby (2021 - ) -> ASM Clermont Auvergne (2025 - )

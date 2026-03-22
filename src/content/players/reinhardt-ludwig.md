@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/reinhardt-ludwig"
 ---
 
 ## キャリア遍歴
-blue bulls (2020 - 2021) -> bulls (2021 - 2026)
+blue bulls (2020 - 2021) -> bulls (2021 - )

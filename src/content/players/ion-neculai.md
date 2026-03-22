@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ion-neculai"
 ---
 
 ## キャリア遍歴
-i cavalieri prato (2020 - 2021) -> zebre parma (2021 - 2026)
+i cavalieri prato (2020 - 2021) -> zebre parma (2021 - )

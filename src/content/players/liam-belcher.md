@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/liam-belcher"
 ---
 
 ## キャリア遍歴
-cardiff rugby (2015 - 2016) -> dragons rfc (2017 - 2018) -> cardiff rugby (2018 - 2026)
+cardiff rugby (2015 - 2016) -> dragons rfc (2017 - 2018) -> cardiff rugby (2018 - )

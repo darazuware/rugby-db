@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mark-donnelly"
 ---
 
 ## キャリア遍歴
-Munster Rugby (2020 - 2025) -> Ealing Trailfinders (2025 - 2025) -> Munster Rugby (2026 - 2026) -> Ealing Trailfinders (2026 - 2026)
+Munster Rugby (2020 - ) -> Ealing Trailfinders (2025 - )

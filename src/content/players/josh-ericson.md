@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-ericson"
 ---
 
 ## キャリア遍歴
-old belvedere rc (2024 - 2025) -> leinster rugby (2025 - 2026)
+old belvedere rc (2024 - ) -> leinster rugby (2025 - )

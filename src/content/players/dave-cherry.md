@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dave-cherry"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2018 - 2025) -> Rugby Club Vannes (2025 - 2026)
+Edimbourg Rugby (2018 - ) -> Rugby Club Vannes (2025 - )

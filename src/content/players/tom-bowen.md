@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-bowen"
 ---
 
 ## キャリア遍歴
-clifton rugby (2022 - 2024) -> cardiff rugby (2024 - 2026)
+clifton rugby (2022 - 2024) -> cardiff rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/guillaume-cramont"
 ---
 
 ## キャリア遍歴
-US Dax Rugby Landes (2006 - 2019) -> Stade Toulousain (2019 - 2026)
+US Dax Rugby Landes (2006 - 2019) -> Stade Toulousain (2019 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ieuan-davies"
 ---
 
 ## キャリア遍歴
-Bath Rugby (2023 - 2025) -> Cardiff Rugby (2025 - 2025) -> Bath Rugby (2026 - 2026) -> Cardiff Rugby (2026 - 2026)
+Bath Rugby (2023 - ) -> Cardiff Rugby (2025 - )

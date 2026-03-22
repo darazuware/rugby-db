@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugh-renton"
 ---
 
 ## キャリア遍歴
-Hurricanes (2016 - 2017) -> Tasman Mako (2019 - 2023) -> Highlanders (2020 - 2026) -> Hawke's Bay Magpies (2023 - )
+Hurricanes (2016 - 2017) -> Tasman Mako (2019 - 2023) -> Highlanders (2020 - ) -> Hawke's Bay Magpies (2023)

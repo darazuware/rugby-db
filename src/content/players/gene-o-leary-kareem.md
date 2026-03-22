@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gene-o-leary-kareem"
 ---
 
 ## キャリア遍歴
-presentation brothers cork (2023 - 2024) -> munster rugby (2024 - 2026)
+presentation brothers cork (2023 - 2024) -> munster rugby (2024 - )

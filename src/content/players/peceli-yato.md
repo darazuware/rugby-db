@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/peceli-yato"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2012 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - 2026)
+ASM Clermont Auvergne (2012 - ) -> Union Sportive Arlequins Perpignanais (2025 - )

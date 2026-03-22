@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/duncan-weir"
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2013 - 2016) -> Edimbourg Rugby (2016 - 2018) -> Worcester Warriors (2018 - 2021) -> Glasgow Warriors (2021 - 2026)
+Glasgow Warriors (2013 - 2016) -> Edimbourg Rugby (2016 - 2018) -> Worcester Warriors (2018 - 2021) -> Glasgow Warriors (2021 - )

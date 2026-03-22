@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lachlan-swinton"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2024) -> Union Bordeaux-Bègles (2024 - 2026)
+New South Wales Waratahs (2018 - 2024) -> Union Bordeaux-Bègles (2024 - )

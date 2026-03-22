@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/matt-devine"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2021 - 2026)
+Connacht Rugby (2021 - )

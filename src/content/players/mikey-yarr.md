@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mikey-yarr"
 ---
 
 ## キャリア遍歴
-Lansdowne FC (2023 - 2024) -> University College Dublin (2024 - 2025) -> Connacht Rugby (2025 - 2026)
+Lansdowne FC (2023 - 2024) -> University College Dublin (2024 - ) -> Connacht Rugby (2025 - )

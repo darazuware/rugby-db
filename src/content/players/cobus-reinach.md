@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/cobus-reinach"
 ---
 
 ## キャリア遍歴
-Sharks (2013 - 2017) -> Northampton Saints (2017 - 2020) -> Montpellier Hérault Rugby (2020 - 2025) -> Stormers (2025 - 2026)
+Sharks (2013 - 2017) -> Northampton Saints (2017 - 2020) -> Montpellier Hérault Rugby (2020 - ) -> Stormers (2025 - )

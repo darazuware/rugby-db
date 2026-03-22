@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dylan-cockburn"
 ---
 
 ## キャリア遍歴
-melrose rfc (2023 - 2025) -> glasgow warriors (2025 - 2026)
+melrose rfc (2023 - ) -> glasgow warriors (2025 - )

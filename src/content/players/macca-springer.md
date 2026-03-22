@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/macca-springer"
 ---
 
 ## キャリア遍歴
-Tasman Mako (2020 - 2025) -> Crusaders (2022 - )
+Tasman Mako (2020 - ) -> Crusaders (2022)

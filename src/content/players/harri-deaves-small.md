@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harri-deaves-small"
 ---
 
 ## キャリア遍歴
-Ospreys (2020 - 2026)
+Ospreys (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nathan-doak"
 ---
 
 ## キャリア遍歴
-wallace high school (2019 - 2020) -> ulster rugby (2020 - 2026)
+wallace high school (2019 - 2020) -> ulster rugby (2020 - )

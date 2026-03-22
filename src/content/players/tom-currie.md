@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-currie"
 ---
 
 ## キャリア遍歴
-edimbourg rugby (2023 - 2024) -> doncaster knights (2024 - 2024) -> edimbourg rugby (2025 - 2025) -> doncaster knights (2025 - 2025) -> edimbourg rugby (2025 - 2026)
+edimbourg rugby (2023 - ) -> doncaster knights (2024 - )

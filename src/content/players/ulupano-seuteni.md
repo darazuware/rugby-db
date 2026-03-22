@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ulupano-seuteni"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2012 - 2014) -> Rugby Club Toulonnais (2014 - 2016) -> Oyonnax Rugby (2016 - 2018) -> Union Bordeaux-Bègles (2018 - 2022) -> Stade Rochelais (2022 - 2026)
+Queensland Reds (2012 - 2014) -> Rugby Club Toulonnais (2014 - 2016) -> Oyonnax Rugby (2016 - 2018) -> Union Bordeaux-Bègles (2018 - 2022) -> Stade Rochelais (2022 - )

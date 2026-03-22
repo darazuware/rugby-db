@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jordan-joseph"
 ---
 
 ## キャリア遍歴
-Rugby Club Massy Essonne (2014 - 2018) -> Racing 92 (2018 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2021) -> Racing 92 (2022 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2023) -> Racing 92 (2023 - 2026)
+Rugby Club Massy Essonne (2014 - 2018) -> Racing 92 (2018 - ) -> Section Paloise Béarn Pyrénées (2021 - 2023)

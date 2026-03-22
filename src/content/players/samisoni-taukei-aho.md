@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/samisoni-taukei-aho"
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2026) -> Waikato Mooloos (2019 - )
+Chiefs (2016 - ) -> Waikato Mooloos (2019)

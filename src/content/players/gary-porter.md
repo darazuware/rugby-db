@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gary-porter"
 ---
 
 ## キャリア遍歴
-western province (2017 - 2018) -> ealing trailfinders (2021 - 2022) -> stormers (2022 - 2026)
+western province (2017 - 2018) -> ealing trailfinders (2021 - 2022) -> stormers (2022 - )

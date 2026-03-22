@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-west"
 ---
 
 ## キャリア遍歴
-Connacht Rugby (2022 - 2026)
+Connacht Rugby (2022 - )

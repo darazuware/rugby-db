@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tommaso-di-bartolomeo"
 ---
 
 ## キャリア遍歴
-petrarca rugby (2020 - 2021) -> zebre parma (2021 - 2021) -> petrarca rugby (2022 - 2022) -> zebre parma (2022 - 2022) -> petrarca rugby (2022 - 2023) -> zebre parma (2023 - 2026)
+petrarca rugby (2020 - 2023) -> zebre parma (2021 - )

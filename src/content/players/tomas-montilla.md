@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tomas-montilla"
 ---
 
 ## キャリア遍歴
-rugby viadana 1970 (2022 - 2023) -> petrarca rugby (2023 - 2025) -> benetton rugby trévise (2025 - 2026)
+rugby viadana 1970 (2022 - 2023) -> petrarca rugby (2023 - ) -> benetton rugby trévise (2025 - )

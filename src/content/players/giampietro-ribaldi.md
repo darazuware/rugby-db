@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giampietro-ribaldi"
 ---
 
 ## キャリア遍歴
-rugby viadana 1970 (2017 - 2020) -> zebre parma (2020 - 2020) -> rugby viadana 1970 (2021 - 2021) -> zebre parma (2021 - 2021) -> rugby viadana 1970 (2021 - 2021) -> zebre parma (2022 - 2022) -> rugby viadana 1970 (2022 - 2022) -> zebre parma (2022 - 2026)
+rugby viadana 1970 (2017 - 2022) -> zebre parma (2020 - )

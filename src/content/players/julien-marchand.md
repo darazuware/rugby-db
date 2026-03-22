@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/julien-marchand"
 ---
 
 ## キャリア遍歴
-US Montréjeau Gourdan Polignan XV (2005 - 2010) -> Stade Toulousain (2010 - 2026)
+US Montréjeau Gourdan Polignan XV (2005 - 2010) -> Stade Toulousain (2010 - )

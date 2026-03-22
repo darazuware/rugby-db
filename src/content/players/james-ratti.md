@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-ratti"
 ---
 
 ## キャリア遍歴
-ospreys (2017 - 2019) -> cardiff rugby (2019 - 2023) -> ospreys (2023 - 2026)
+ospreys (2017 - 2019) -> cardiff rugby (2019 - 2023) -> ospreys (2023 - )

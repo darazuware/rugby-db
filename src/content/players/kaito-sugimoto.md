@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484196"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2024 - )
+静岡ブルーレヴズ (2024)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dominic-ropeti"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2022 - 2025) -> Moana Pasifika (2025 - )
+Wellington Lions (2022 - ) -> Moana Pasifika (2025 - )

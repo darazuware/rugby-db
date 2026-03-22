@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/aneurin-owen"
 ---
 
 ## キャリア遍歴
-Dragons RFC (2018 - 2026)
+Dragons RFC (2018 - )

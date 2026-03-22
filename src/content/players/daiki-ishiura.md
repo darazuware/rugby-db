@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484573"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2024 - )
+Hanazono Kintetsu Liners (2024)

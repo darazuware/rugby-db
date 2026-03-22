@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/james-talamai"
 ---
 
 ## キャリア遍歴
-saracens (2024 - 2025) -> dragons rfc (2025 - 2026)
+saracens (2024 - ) -> dragons rfc (2025 - )

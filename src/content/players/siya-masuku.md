@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/siya-masuku"
 ---
 
 ## キャリア遍歴
-southern kings (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> sharks (2023 - 2026)
+southern kings (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2023) -> sharks (2023 - )

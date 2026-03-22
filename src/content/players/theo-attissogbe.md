@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/theo-attissogbe"
 ---
 
 ## キャリア遍歴
-Peyrehorade Sport Rugby Pays d'Orthe (2011 - 2019) -> Stade Montois Rugby Pro (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - 2026)
+Peyrehorade Sport Rugby Pays d'Orthe (2011 - 2019) -> Stade Montois Rugby Pro (2019 - 2022) -> Section Paloise Béarn Pyrénées (2022 - )

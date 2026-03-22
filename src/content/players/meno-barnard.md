@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/meno-barnard"
 ---
 
 ## キャリア遍歴
-natal sharks (2023 - 2024) -> sharks (2024 - 2026)
+natal sharks (2023 - 2024) -> sharks (2024 - )

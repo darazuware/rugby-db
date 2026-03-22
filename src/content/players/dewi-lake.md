@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dewi-lake"
 ---
 
 ## キャリア遍歴
-Ospreys (2017 - 2026)
+Ospreys (2017 - )

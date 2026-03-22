@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jeremy-williams"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2022) -> Western Force (2022 - )
+New South Wales Waratahs (2018 - 2022) -> Western Force (2022)

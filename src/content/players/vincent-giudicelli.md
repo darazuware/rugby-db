@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/vincent-giudicelli"
 ---
 
 ## キャリア遍歴
-Montpellier Hérault Rugby (2004 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2017) -> Montpellier Hérault Rugby (2017 - 2023) -> Aviron Bayonnais (2023 - 2026)
+Montpellier Hérault Rugby (2004 - 2023) -> Lyon Olympique Universitaire Rugby (2016 - 2017) -> Aviron Bayonnais (2023 - )

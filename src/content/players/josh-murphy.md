@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/josh-murphy"
 ---
 
 ## キャリア遍歴
-leinster rugby (2017 - 2022) -> connacht rugby (2022 - 2023) -> sans club (2023 - 2024) -> connacht rugby (2024 - 2026)
+leinster rugby (2017 - 2022) -> connacht rugby (2022 - ) -> sans club (2023 - 2024)

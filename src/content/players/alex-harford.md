@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-harford"
 ---
 
 ## キャリア遍歴
-Canterbury (2020 - 2023) -> Auckland (2023 - 2025) -> Western Force (2024 - )
+Canterbury (2020 - 2023) -> Auckland (2023 - ) -> Western Force (2024)

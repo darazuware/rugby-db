@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/malik-faissal"
 ---
 
 ## キャリア遍歴
-Zebre Parma (2024 - 2026)
+Zebre Parma (2024 - )

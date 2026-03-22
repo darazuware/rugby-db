@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/john-bryant"
 ---
 
 ## キャリア遍歴
-Souths Rugby (2022 - 2023) -> Queensland Reds (2023 - 2026) -> Benetton Rugby Trévise (2025 - )
+Souths Rugby (2022 - 2023) -> Queensland Reds (2023 - ) -> Benetton Rugby Trévise (2025 - )

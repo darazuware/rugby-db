@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-thomas"
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2017 - 2026)
+Cardiff Rugby (2017 - )

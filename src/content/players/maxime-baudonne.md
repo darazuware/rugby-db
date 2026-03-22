@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/maxime-baudonne"
 ---
 
 ## キャリア遍歴
-RC Courbevoie (2009 - 2013) -> Racing 92 (2013 - 2026)
+RC Courbevoie (2009 - 2013) -> Racing 92 (2013 - )

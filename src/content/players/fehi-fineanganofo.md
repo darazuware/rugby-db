@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/fehi-fineanganofo"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2022 - 2025) -> Hurricanes (2024 - )
+Bay of Plenty Steamers (2022 - ) -> Hurricanes (2024)

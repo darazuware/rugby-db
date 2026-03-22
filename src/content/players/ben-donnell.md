@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-donnell"
 ---
 
 ## キャリア遍歴
-london irish (2017 - 2023) -> gloucester rugby (2023 - 2023) -> cardiff rugby (2023 - 2023) -> gloucester rugby (2024 - 2024) -> cardiff rugby (2024 - 2026)
+london irish (2017 - 2023) -> gloucester rugby (2023 - 2024) -> cardiff rugby (2023 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/michele-lamaro"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2018 - 2026)
+Benetton Rugby Trévise (2018 - )

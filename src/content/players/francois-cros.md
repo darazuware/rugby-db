@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francois-cros"
 ---
 
 ## キャリア遍歴
-Seilh Aussonne Fenouillet XV (2004 - 2009) -> Stade Toulousain (2009 - 2026)
+Seilh Aussonne Fenouillet XV (2004 - 2009) -> Stade Toulousain (2009 - )

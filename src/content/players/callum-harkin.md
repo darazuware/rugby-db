@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/callum-harkin"
 ---
 
 ## キャリア遍歴
-Wellington Lions (2023 - 2025) -> Hurricanes (2024 - )
+Wellington Lions (2023 - ) -> Hurricanes (2024)

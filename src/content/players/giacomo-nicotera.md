@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giacomo-nicotera"
 ---
 
 ## キャリア遍歴
-Benetton Rugby Trévise (2020 - 2024) -> Stade Français Paris Rugby (2024 - 2026)
+Benetton Rugby Trévise (2020 - 2024) -> Stade Français Paris Rugby (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/flyn-yates"
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2020 - 2025) -> Kamaishi Seawaves (2023 - 2024) -> Blues (2025 - )
+Manawatu Turbos (2020 - ) -> Kamaishi Seawaves (2023 - 2024) -> Blues (2025 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484316"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2022 - )
+Tokyo Sungoliath (2022)

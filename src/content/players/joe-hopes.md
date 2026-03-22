@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/joe-hopes"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2022 - 2026)
+Ulster Rugby (2022 - )

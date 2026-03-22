@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/lenni-nouchi"
 ---
 
 ## キャリア遍歴
-Association Sportive Béziers Hérault (2009 - 2011) -> Servian-Boujan Rugby (2011 - 2014) -> Association Sportive Béziers Hérault (2014 - 2021) -> Montpellier Hérault Rugby (2021 - 2026)
+Association Sportive Béziers Hérault (2009 - 2011) -> Servian-Boujan Rugby (2011 - 2014) -> Association Sportive Béziers Hérault (2014 - 2021) -> Montpellier Hérault Rugby (2021 - )

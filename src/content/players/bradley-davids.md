@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bradley-davids"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2021 - 2022) -> Sharks (2022 - 2026)
+Natal Sharks (2021 - 2022) -> Sharks (2022 - )

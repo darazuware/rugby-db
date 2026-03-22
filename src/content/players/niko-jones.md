@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/niko-jones"
 ---
 
 ## キャリア遍歴
-Auckland (2019 - 2024) -> Moana Pasifika (2021 - 2026) -> Old Glory DC RFC (2022 - )
+Auckland (2019 - 2024) -> Moana Pasifika (2021 - ) -> Old Glory DC RFC (2022)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sibabalwe-mahashe"
 ---
 
 ## キャリア遍歴
-golden lions (2023 - 2024) -> lions rugby (2025 - 2026)
+golden lions (2023 - 2024) -> lions rugby (2025 - )

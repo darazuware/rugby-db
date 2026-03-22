@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-lienert-brown"
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2014) -> Highlanders (2014 - 2026) -> Canterbury (2019 - )
+Crusaders (2013 - 2014) -> Highlanders (2014 - ) -> Canterbury (2019)

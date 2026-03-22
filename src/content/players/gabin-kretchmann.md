@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabin-kretchmann"
 ---
 
 ## キャリア遍歴
-JSI Elne (2011 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - 2026)
+JSI Elne (2011 - 2019) -> Union Sportive Arlequins Perpignanais (2019 - )

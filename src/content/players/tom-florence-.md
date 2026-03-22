@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/tom-florence-"
 ---
 
 ## キャリア遍歴
-ospreys (2020 - 2026)
+ospreys (2020 - )

@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483554"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2019 - )
+Green Rockets Tokatsu (2019)

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/luca-rizzoli"
 ---
 
 ## キャリア遍歴
-Unione Rugby Capitolina (2021 - 2022) -> Zebre Parma (2022 - 2026)
+Unione Rugby Capitolina (2021 - 2022) -> Zebre Parma (2022 - )

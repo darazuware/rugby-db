@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ally-miller"
 ---
 
 ## キャリア遍歴
-edimbourg rugby (2017 - 2021) -> glasgow warriors (2021 - 2026)
+edimbourg rugby (2017 - 2021) -> glasgow warriors (2021 - )

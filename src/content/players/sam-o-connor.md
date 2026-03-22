@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sam-o-connor"
 ---
 
 ## キャリア遍歴
-scarlets (2021 - 2026)
+scarlets (2021 - )

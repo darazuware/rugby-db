@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/louis-carbonel"
 ---
 
 ## キャリア遍歴
-RC Canton Garde-Pradet (2004 - 2005) -> Rugby Club Toulonnais (2005 - 2022) -> Montpellier Hérault Rugby (2022 - 2024) -> Stade Français Paris Rugby (2024 - 2026)
+RC Canton Garde-Pradet (2004 - 2005) -> Rugby Club Toulonnais (2005 - 2022) -> Montpellier Hérault Rugby (2022 - 2024) -> Stade Français Paris Rugby (2024 - )

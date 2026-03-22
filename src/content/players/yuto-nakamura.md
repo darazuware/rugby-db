@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484639"
 ---
 
 ## キャリア遍歴
-SA広島 (2020 - )
+SA広島 (2020)

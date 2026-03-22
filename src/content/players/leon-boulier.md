@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/leon-boulier"
 ---
 
 ## キャリア遍歴
-Rugby Ouest Cotentin (2015 - 2017) -> Rugby Club Vannes (2017 - 2026)
+Rugby Ouest Cotentin (2015 - 2017) -> Rugby Club Vannes (2017 - )

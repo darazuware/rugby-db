@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/wandisile-simelane"
 ---
 
 ## キャリア遍歴
-lions rugby (2018 - 2022) -> bulls (2022 - 2023) -> stormers (2023 - 2023) -> bulls (2024 - 2024) -> stormers (2024 - 2026)
+lions rugby (2018 - 2022) -> bulls (2022 - 2024) -> stormers (2023 - )

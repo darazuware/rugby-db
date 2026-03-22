@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/pj-botha"
 ---
 
 ## キャリア遍歴
-lions rugby (2019 - 2026)
+lions rugby (2019 - )

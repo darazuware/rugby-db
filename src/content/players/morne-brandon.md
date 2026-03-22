@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/morne-brandon"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2020 - 2026)
+Lions Rugby (2020 - )

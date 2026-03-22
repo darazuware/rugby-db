@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hassane-kolingar"
 ---
 
 ## キャリア遍歴
-RC Soisy Andilly Margency (2012 - 2013) -> Racing 92 (2013 - 2018) -> Rugby Club Vannes (2018 - 2018) -> Racing 92 (2019 - 2019) -> Rugby Club Vannes (2019 - 2019) -> Racing 92 (2019 - 2026)
+RC Soisy Andilly Margency (2012 - 2013) -> Racing 92 (2013 - ) -> Rugby Club Vannes (2018 - 2019)

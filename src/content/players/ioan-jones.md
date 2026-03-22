@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ioan-jones"
 ---
 
 ## キャリア遍歴
-gloucester rugby (2022 - 2023) -> hartpury rfc (2023 - 2023) -> gloucester rugby (2023 - 2023) -> hartpury rfc (2024 - 2024) -> gloucester rugby (2024 - 2024) -> hartpury rfc (2024 - 2024) -> gloucester rugby (2025 - 2025) -> hartpury rfc (2025 - 2025) -> scarlets (2025 - 2026)
+gloucester rugby (2022 - ) -> hartpury rfc (2023 - ) -> scarlets (2025 - )

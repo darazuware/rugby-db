@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bongi-mbonambi"
 ---
 
 ## キャリア遍歴
-Bulls (2013 - 2014) -> Stormers (2014 - 2021) -> Sharks (2021 - 2026)
+Bulls (2013 - 2014) -> Stormers (2014 - 2021) -> Sharks (2021 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alexandre-kaddouri"
 ---
 
 ## キャリア遍歴
-Saint-Jean d'Angély (2009 - 2012) -> S.A Rochefort Rugby (2012 - 2013) -> Stade Rochelais (2013 - 2026)
+Saint-Jean d'Angély (2009 - 2012) -> S.A Rochefort Rugby (2012 - 2013) -> Stade Rochelais (2013 - )

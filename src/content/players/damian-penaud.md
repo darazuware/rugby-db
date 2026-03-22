@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/damian-penaud"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2006 - 2007) -> CA Brive Corrèze Limousin (2007 - 2008) -> Malemort XV (2009 - 2010) -> CA Brive Corrèze Limousin (2010 - 2014) -> ASM Clermont Auvergne (2014 - 2023) -> Union Bordeaux-Bègles (2023 - 2026)
+Lyon Olympique Universitaire Rugby (2006 - 2007) -> CA Brive Corrèze Limousin (2007 - 2008) -> Malemort XV (2009 - 2010) -> CA Brive Corrèze Limousin (2010 - 2014) -> ASM Clermont Auvergne (2014 - 2023) -> Union Bordeaux-Bègles (2023 - )

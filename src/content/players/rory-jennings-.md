@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-jennings-"
 ---
 
 ## キャリア遍歴
-bath rugby (2014 - 2016) -> ealing trailfinders (2016 - 2016) -> bath rugby (2016 - 2016) -> ealing trailfinders (2017 - 2017) -> bath rugby (2017 - 2017) -> rotherham titans (2017 - 2018) -> london scottish (2018 - 2019) -> coventry rugby (2019 - 2019) -> leicester tigers (2019 - 2019) -> coventry rugby (2020 - 2020) -> leicester tigers (2020 - 2020) -> asm clermont auvergne (2020 - 2021) -> london irish (2021 - 2023) -> newcastle (2023 - 2024) -> cardiff rugby (2024 - 2026)
+bath rugby (2014 - 2017) -> ealing trailfinders (2016 - 2017) -> rotherham titans (2017 - 2018) -> london scottish (2018 - 2019) -> coventry rugby (2019 - 2020) -> leicester tigers (2019 - 2020) -> asm clermont auvergne (2020 - 2021) -> london irish (2021 - 2023) -> newcastle (2023 - 2024) -> cardiff rugby (2024 - )

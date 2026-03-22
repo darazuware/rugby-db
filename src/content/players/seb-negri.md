@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/seb-negri"
 ---
 
 ## キャリア遍歴
-benetton rugby trévise (2017 - 2026)
+benetton rugby trévise (2017 - )

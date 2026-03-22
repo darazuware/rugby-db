@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/irae-simone"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2016 - 2018) -> Brumbies (2018 - 2022) -> ASM Clermont Auvergne (2022 - 2026)
+New South Wales Waratahs (2016 - 2018) -> Brumbies (2018 - 2022) -> ASM Clermont Auvergne (2022 - )

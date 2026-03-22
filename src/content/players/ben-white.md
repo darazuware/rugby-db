@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-white"
 ---
 
 ## キャリア遍歴
-Leicester Tigers (2015 - 2021) -> London Irish (2021 - 2023) -> Rugby Club Toulonnais (2023 - 2026)
+Leicester Tigers (2015 - 2021) -> London Irish (2021 - 2023) -> Rugby Club Toulonnais (2023 - )

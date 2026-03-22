@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/bobby-power"
 ---
 
 ## キャリア遍歴
-galwegians rfc (2024 - 2025) -> connacht rugby (2025 - 2026)
+galwegians rfc (2024 - ) -> connacht rugby (2025 - )

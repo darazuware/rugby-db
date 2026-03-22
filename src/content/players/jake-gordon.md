@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jake-gordon"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2016 - )
+New South Wales Waratahs (2016)

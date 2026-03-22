@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/484298"
 ---
 
 ## キャリア遍歴
-ハレクインズ (2018 - 2025) -> Leeds Tykes (2019 - 2020) -> London Scottish (2022 - 2025) -> 東京サントリーサンゴリアス (2025 - )
+ハレクインズ (2018 - ) -> Leeds Tykes (2019 - 2020) -> London Scottish (2022 - ) -> 東京サントリーサンゴリアス (2025 - )

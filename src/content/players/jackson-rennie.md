@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jackson-rennie"
 ---
 
 ## キャリア遍歴
-glasgow warriors (2025 - 2026)
+glasgow warriors (2025 - )

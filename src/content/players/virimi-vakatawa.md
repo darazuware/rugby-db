@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/virimi-vakatawa"
 ---
 
 ## キャリア遍歴
-Racing 92 (2013 - 2023) -> France 7 (2014 - 2017) -> sans club (2022 - 2025) -> Bristol Bears (2023 - 2024) -> Fijian Drua (2025 - )
+Racing 92 (2013 - 2023) -> France 7 (2014 - 2017) -> sans club (2022 - ) -> Bristol Bears (2023 - 2024) -> Fijian Drua (2025 - )

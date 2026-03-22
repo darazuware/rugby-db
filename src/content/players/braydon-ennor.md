@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/braydon-ennor"
 ---
 
 ## キャリア遍歴
-Crusaders (2017 - 2026) -> Canterbury (2020 - )
+Crusaders (2017 - ) -> Canterbury (2020)

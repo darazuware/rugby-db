@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/franco-marais"
 ---
 
 ## キャリア遍歴
-sharks (2013 - 2018) -> gloucester rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> urayasu d-rocks (2022 - 2024) -> lions rugby (2024 - 2026)
+sharks (2013 - 2018) -> gloucester rugby (2018 - 2020) -> red hurricanes osaka (2020 - 2022) -> urayasu d-rocks (2022 - 2024) -> lions rugby (2024 - )

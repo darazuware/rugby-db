@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nika-sutidze"
 ---
 
 ## キャリア遍歴
-Lelo Saracens Tbilissi (2021 - 2021) -> Stade Rochelais (2021 - 2021) -> Lelo Saracens Tbilissi (2022 - 2022) -> Stade Rochelais (2022 - 2026)
+Lelo Saracens Tbilissi (2021 - 2022) -> Stade Rochelais (2021 - )

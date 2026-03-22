@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/giovanni-quattrini"
 ---
 
 ## キャリア遍歴
-cus milano rugby (2021 - 2022) -> zebre parma (2022 - 2026)
+cus milano rugby (2021 - 2022) -> zebre parma (2022 - )

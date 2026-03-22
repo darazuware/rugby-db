@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-craig"
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - 2025) -> Glasgow Warriors (2025 - 2026)
+Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - ) -> Glasgow Warriors (2025 - )

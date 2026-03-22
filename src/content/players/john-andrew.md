@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/john-andrew"
 ---
 
 ## キャリア遍歴
-Ulster Rugby (2014 - 2026)
+Ulster Rugby (2014 - )

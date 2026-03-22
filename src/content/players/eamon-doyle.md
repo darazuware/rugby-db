@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/eamon-doyle"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2023 - )
+New South Wales Waratahs (2023)

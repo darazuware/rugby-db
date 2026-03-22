@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/harry-johnson-holmes"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2017 - 2024) -> Western Force (2024 - )
+New South Wales Waratahs (2017 - 2024) -> Western Force (2024)

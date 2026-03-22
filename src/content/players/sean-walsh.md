@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sean-walsh"
 ---
 
 ## キャリア遍歴
-connacht rugby (2025 - 2026)
+connacht rugby (2025 - )

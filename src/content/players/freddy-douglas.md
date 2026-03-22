@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/freddy-douglas"
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2023 - 2026)
+Edimbourg Rugby (2023 - )

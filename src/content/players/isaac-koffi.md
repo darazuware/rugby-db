@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaac-koffi"
 ---
 
 ## キャリア遍歴
-COM Bagneux (2015 - 2018) -> Stade Français Paris Rugby (2018 - 2026)
+COM Bagneux (2015 - 2018) -> Stade Français Paris Rugby (2018 - )

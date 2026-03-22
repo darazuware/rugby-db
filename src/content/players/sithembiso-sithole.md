@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sithembiso-sithole"
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2014) -> Southern Kings (2015 - 2016) -> Lions Rugby (2016 - 2023) -> Stormers (2023 - 2025) -> Bulls (2025 - 2026)
+Stormers (2013 - 2014) -> Southern Kings (2015 - 2016) -> Lions Rugby (2016 - 2023) -> Stormers (2023 - ) -> Bulls (2025 - )

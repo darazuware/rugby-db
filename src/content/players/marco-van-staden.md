@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marco-van-staden"
 ---
 
 ## キャリア遍歴
-Bulls (2017 - 2021) -> Leicester Tigers (2021 - 2022) -> Bulls (2022 - 2026)
+Bulls (2017 - ) -> Leicester Tigers (2021 - 2022)

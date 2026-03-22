@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/agustin-moyano"
 ---
 
 ## キャリア遍歴
-Cordoba Athletic Club (2022 - 2023) -> Dogos XV (2023 - 2025) -> Western Force (2025 - )
+Cordoba Athletic Club (2022 - 2023) -> Dogos XV (2023 - ) -> Western Force (2025 - )

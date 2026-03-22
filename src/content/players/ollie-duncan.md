@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ollie-duncan"
 ---
 
 ## キャリア遍歴
-edimbourg rugby (2023 - 2026)
+edimbourg rugby (2023 - )

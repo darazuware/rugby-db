@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/dan-edwards"
 ---
 
 ## キャリア遍歴
-Ospreys (2021 - 2026)
+Ospreys (2021 - )

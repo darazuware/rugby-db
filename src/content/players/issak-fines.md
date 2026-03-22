@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/issak-fines"
 ---
 
 ## キャリア遍歴
-Western Force (2017 - 2025) -> Brumbies (2019 - 2021) -> Fijian Drua (2025 - )
+Western Force (2017 - ) -> Brumbies (2019 - 2021) -> Fijian Drua (2025 - )

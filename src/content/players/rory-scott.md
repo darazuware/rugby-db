@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/rory-scott"
 ---
 
 ## キャリア遍歴
-Brumbies (2019 - )
+Brumbies (2019)

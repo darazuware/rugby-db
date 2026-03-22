@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/nick-lynagh"
 ---
 
 ## キャリア遍歴
-Harlequins (2025 - 2026) -> Queensland Reds (2025 - )
+Harlequins (2025 - ) -> Queensland Reds (2025 - )

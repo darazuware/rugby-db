@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabin-lorre"
 ---
 
 ## キャリア遍歴
-RCO Salagou Coeur d'Hérault (2006 - 2013) -> Stade Piscenois (2013 - 2014) -> Montpellier Hérault Rugby (2014 - 2017) -> Stade Piscenois (2017 - 2019) -> Association Sportive Béziers Hérault (2019 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - 2026)
+RCO Salagou Coeur d'Hérault (2006 - 2013) -> Stade Piscenois (2013 - 2014) -> Montpellier Hérault Rugby (2014 - 2017) -> Stade Piscenois (2017 - 2019) -> Association Sportive Béziers Hérault (2019 - ) -> Lyon Olympique Universitaire Rugby (2025 - )

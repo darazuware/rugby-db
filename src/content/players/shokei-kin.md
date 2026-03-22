@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483511"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2014 - 2026) -> サンウルブズ (2015 - )
+浦安D-Rocks (2014 - ) -> サンウルブズ (2015)

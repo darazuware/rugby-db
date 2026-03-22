@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/francke-horn"
 ---
 
 ## キャリア遍歴
-Lions Rugby (2019 - 2026)
+Lions Rugby (2019 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/brandon-paenga-amosa"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2017 - 2021) -> Montpellier Hérault Rugby (2021 - 2024) -> Western Force (2024 - )
+Queensland Reds (2017 - 2021) -> Montpellier Hérault Rugby (2021 - 2024) -> Western Force (2024)

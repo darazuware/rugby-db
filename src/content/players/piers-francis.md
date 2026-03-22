@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/483823"
 ---
 
 ## キャリア遍歴
-Auckland (2011 - 2011) -> Waikato Mooloos (2012 - 2012) -> Edinburgh Rugby (2012 - 2014) -> ドンカスター (2014 - 2015) -> マヌカウ (2015 - 2016) -> Blues (2016 - 2017) -> ノーサンプトン (2017 - 2022) -> Bath Rugby (2022 - 2023) -> WG昭島 (2023 - )
+Auckland (2011) -> Waikato Mooloos (2012) -> Edinburgh Rugby (2012 - 2014) -> ドンカスター (2014 - 2015) -> マヌカウ (2015 - 2016) -> Blues (2016 - 2017) -> ノーサンプトン (2017 - 2022) -> Bath Rugby (2022 - 2023) -> WG昭島 (2023)

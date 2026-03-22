@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485015"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2018 - 2022) -> Urayasu D-Rocks (2022 - 2023) -> Red Hurricanes Osaka (2023 - )
+浦安D-Rocks (2018 - 2022) -> Urayasu D-Rocks (2022 - 2023) -> Red Hurricanes Osaka (2023)

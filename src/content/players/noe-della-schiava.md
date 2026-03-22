@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/noe-della-schiava"
 ---
 
 ## キャリア遍歴
-Rugby Club Nîmois (2009 - 2019) -> Stade Rochelais (2019 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)
+Rugby Club Nîmois (2009 - 2019) -> Stade Rochelais (2019 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

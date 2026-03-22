@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jared-africa"
 ---
 
 ## キャリア遍歴
-Western Province (2023 - 2025) -> Stormers (2025 - 2026)
+Western Province (2023 - ) -> Stormers (2025 - )

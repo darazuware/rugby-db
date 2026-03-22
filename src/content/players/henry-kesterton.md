@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/henry-kesterton"
 ---
 
 ## キャリア遍歴
-heriot's rugby club (2024 - 2025) -> edimbourg rugby (2025 - 2026)
+heriot's rugby club (2024 - ) -> edimbourg rugby (2025 - )

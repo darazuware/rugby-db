@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/alex-bryden"
 ---
 
 ## キャリア遍歴
-dumfries saints (2023 - 2024) -> glasgow warriors (2024 - 2026)
+dumfries saints (2023 - 2024) -> glasgow warriors (2024 - )

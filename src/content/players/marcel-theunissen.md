@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/marcel-theunissen"
 ---
 
 ## キャリア遍歴
-Stormers (2019 - 2026)
+Stormers (2019 - )

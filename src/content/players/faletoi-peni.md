@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/faletoi-peni"
 ---
 
 ## キャリア遍歴
-Southland Stags (2023 - 2025) -> New England Free Jacks (2024 - 2025) -> Moana Pasifika (2025 - )
+Southland Stags (2023 - ) -> New England Free Jacks (2024 - ) -> Moana Pasifika (2025 - )

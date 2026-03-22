@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sako-makata"
 ---
 
 ## キャリア遍歴
-af. sud 7's (2018 - 2022) -> griquas (2022 - 2024) -> western province (2024 - 2025) -> stormers (2025 - 2026)
+af. sud 7's (2018 - 2022) -> griquas (2022 - 2024) -> western province (2024 - ) -> stormers (2025 - )

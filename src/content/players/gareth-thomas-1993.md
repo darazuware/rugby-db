@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gareth-thomas-1993"
 ---
 
 ## キャリア遍歴
-ospreys (2014 - 2026)
+ospreys (2014 - )

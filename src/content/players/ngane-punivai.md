@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ngane-punivai"
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2019) -> Highlanders (2019 - 2022) -> Canterbury (2019 - 2025) -> Chiefs (2022 - 2023) -> Hurricanes (2023 - )
+Crusaders (2018 - 2019) -> Highlanders (2019 - 2022) -> Canterbury (2019 - ) -> Chiefs (2022 - 2023) -> Hurricanes (2023)

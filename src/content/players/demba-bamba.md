@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/demba-bamba"
 ---
 
 ## キャリア遍歴
-Saint-Denis Union Sports Rugby (2012 - 2014) -> CA Brive Corrèze Limousin (2014 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2024) -> Racing 92 (2024 - 2026)
+Saint-Denis Union Sports Rugby (2012 - 2014) -> CA Brive Corrèze Limousin (2014 - 2019) -> Lyon Olympique Universitaire Rugby (2019 - 2024) -> Racing 92 (2024 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/andrew-osborne"
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2022 - 2026)
+Leinster Rugby (2022 - )

@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/isaac-henry"
 ---
 
 ## キャリア遍歴
-Brisbane City (2018 - 2019) -> West Brisbane Bulldogs (2019 - 2020) -> Queensland Reds (2020 - )
+Brisbane City (2018 - 2019) -> West Brisbane Bulldogs (2019 - 2020) -> Queensland Reds (2020)

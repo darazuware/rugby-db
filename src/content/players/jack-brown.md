@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jack-brown"
 ---
 
 ## キャリア遍歴
-watsonian rugby club (2022 - 2023) -> edimbourg rugby (2023 - 2026)
+watsonian rugby club (2022 - 2023) -> edimbourg rugby (2023 - )

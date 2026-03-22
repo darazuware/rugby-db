@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/felix-lambey"
 ---
 
 ## キャリア遍歴
-Lyon Olympique Universitaire Rugby (2013 - 2015) -> Association Sportive Béziers Hérault (2015 - 2016) -> Lyon Olympique Universitaire Rugby (2016 - 2026)
+Lyon Olympique Universitaire Rugby (2013 - ) -> Association Sportive Béziers Hérault (2015 - 2016)

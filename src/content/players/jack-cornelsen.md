@@ -19,4 +19,4 @@ scraped_url: "https://league-one.jp/player/485708"
 ---
 
 ## キャリア遍歴
-Queensland Country (2014 - 2016) -> 埼玉パナソニックワイルドナイツ (2018 - )
+Queensland Country (2014 - 2016) -> 埼玉パナソニックワイルドナイツ (2018)

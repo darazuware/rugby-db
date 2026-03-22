@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/hugo-mclaughlin"
 ---
 
 ## キャリア遍歴
-lansdowne fc (2023 - 2024) -> leinster rugby (2024 - 2026)
+lansdowne fc (2023 - 2024) -> leinster rugby (2024 - )

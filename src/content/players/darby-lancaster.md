@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/darby-lancaster"
 ---
 
 ## キャリア遍歴
-Aussie 7's (2021 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Western Force (2025 - )
+Aussie 7's (2021 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - ) -> Western Force (2025 - )

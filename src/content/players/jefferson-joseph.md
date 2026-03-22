@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/jefferson-joseph"
 ---
 
 ## キャリア遍歴
-AOCC Duras XV (2010 - 2013) -> RC Bazeillais (2014 - 2015) -> CA Lormont HG (2015 - 2017) -> Sporting Union Agenais (2017 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - 2026)
+AOCC Duras XV (2010 - 2013) -> RC Bazeillais (2014 - 2015) -> CA Lormont HG (2015 - 2017) -> Sporting Union Agenais (2017 - 2024) -> Union Sportive Arlequins Perpignanais (2024 - )

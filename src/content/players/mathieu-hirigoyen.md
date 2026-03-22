@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/mathieu-hirigoyen"
 ---
 
 ## キャリア遍歴
-Anglet Olympique Rugby Club (2011 - 2012) -> Biarritz Olympique Pays Basque (2012 - 2022) -> Stade Français Paris Rugby (2022 - 2026)
+Anglet Olympique Rugby Club (2011 - 2012) -> Biarritz Olympique Pays Basque (2012 - 2022) -> Stade Français Paris Rugby (2022 - )

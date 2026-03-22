@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ruan-nortje"
 ---
 
 ## キャリア遍歴
-bulls (2017 - 2018) -> blue bulls (2018 - 2019) -> bulls (2019 - 2026)
+bulls (2017 - ) -> blue bulls (2018 - 2019)

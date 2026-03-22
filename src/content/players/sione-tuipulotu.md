@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/sione-tuipulotu"
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2019) -> Shizuoka Blue Revs (2019 - 2021) -> Glasgow Warriors (2021 - 2026)
+Melbourne Rebels (2015 - 2019) -> Shizuoka Blue Revs (2019 - 2021) -> Glasgow Warriors (2021 - )

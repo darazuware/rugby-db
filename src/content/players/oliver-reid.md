@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/oliver-reid"
 ---
 
 ## キャリア遍歴
-Western Province (2024 - 2025) -> Stormers (2025 - 2026)
+Western Province (2024 - ) -> Stormers (2025 - )

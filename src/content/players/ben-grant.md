@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ben-grant"
 ---
 
 ## キャリア遍歴
-Perth Spirit (2016 - 2017) -> Western Force (2018 - 2020) -> Queensland Reds (2020 - 2021) -> San Diego Legion (2021 - 2023) -> North Harbour (2022 - 2024) -> Hurricanes (2023 - 2024) -> New South Wales Waratahs (2024 - )
+Perth Spirit (2016 - 2017) -> Western Force (2018 - 2020) -> Queensland Reds (2020 - 2021) -> San Diego Legion (2021 - 2023) -> North Harbour (2022 - 2024) -> Hurricanes (2023 - 2024) -> New South Wales Waratahs (2024)

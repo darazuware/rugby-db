@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gabe-hawley"
 ---
 
 ## キャリア遍歴
-ealing trailfinders (2023 - 2024) -> scarlets (2024 - 2026)
+ealing trailfinders (2023 - 2024) -> scarlets (2024 - )

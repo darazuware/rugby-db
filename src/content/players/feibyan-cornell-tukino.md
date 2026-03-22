@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/feibyan-cornell-tukino"
 ---
 
 ## キャリア遍歴
-US Romans-Péage (2011 - 2015) -> CS Annonay (2015 - 2018) -> FC Grenoble Rugby (2018 - 2021) -> Castres Olympique (2021 - 2026)
+US Romans-Péage (2011 - 2015) -> CS Annonay (2015 - 2018) -> FC Grenoble Rugby (2018 - 2021) -> Castres Olympique (2021 - )

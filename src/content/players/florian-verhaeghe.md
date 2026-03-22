@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/florian-verhaeghe"
 ---
 
 ## キャリア遍歴
-Union Sportive Montalbanaise (2007 - 2014) -> Stade Toulousain (2014 - 2020) -> Montpellier Hérault Rugby (2020 - 2026)
+Union Sportive Montalbanaise (2007 - 2014) -> Stade Toulousain (2014 - 2020) -> Montpellier Hérault Rugby (2020 - )

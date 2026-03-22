@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/coetzee-le-roux"
 ---
 
 ## キャリア遍歴
-Natal Sharks (2022 - 2024) -> Sharks (2024 - 2026)
+Natal Sharks (2022 - 2024) -> Sharks (2024 - )

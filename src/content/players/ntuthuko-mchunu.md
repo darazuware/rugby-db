@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
 ---
 
 ## キャリア遍歴
-sharks (2021 - 2025) -> stormers (2025 - 2026)
+sharks (2021 - ) -> stormers (2025 - )

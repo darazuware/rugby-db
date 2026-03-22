@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/gregoire-arfeuil"
 ---
 
 ## キャリア遍歴
-Aurore Rugby Club Vitré (2014 - 2015) -> US Lectoure (2015 - 2019) -> Sporting Union Agenais (2019 - 2020) -> US Lectoure (2020 - 2021) -> Section Paloise Béarn Pyrénées (2021 - 2026)
+Aurore Rugby Club Vitré (2014 - 2015) -> US Lectoure (2015 - 2021) -> Sporting Union Agenais (2019 - 2020) -> Section Paloise Béarn Pyrénées (2021 - )

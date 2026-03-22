@@ -19,4 +19,4 @@ scraped_url: "https://all.rugby/player/owen-conquer"
 ---
 
 ## キャリア遍歴
-ebbw vale rfc (2023 - 2024) -> dragons rfc (2024 - 2026)
+ebbw vale rfc (2023 - 2024) -> dragons rfc (2024 - )
