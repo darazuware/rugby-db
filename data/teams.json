@@ -4,156 +4,24 @@
     "team_en_name": "東京サントリーサンゴリアス（2025-26）",
     "slug": "tokyo-suntory-sungoliath",
     "league": "league-one",
-    "home_ground": "サントリー府中スポーツセンター",
-    "home_ground_address": "東京都府中市是政6-22",
+    "home_ground": "味の素スタジアム",
+    "home_ground_address": "東京都調布市西町376-3",
     "division": "Division 1",
     "host_area": "東京都、港区、府中市、調布市、三鷹市",
     "legal_entity": "サントリーホールディングス株式会社",
     "official_site": "https://www.suntory.co.jp/culture-sports/sungoliath/"
   },
   {
-    "team_name": "埼玉パナソニックワイルドナイツ",
-    "team_en_name": "埼玉パナソニックワイルドナイツ（2025-26）",
-    "slug": "saitama-panasonic-wild-knights",
-    "league": "league-one",
-    "home_ground": "埼玉県熊谷市上川上",
-    "home_ground_address": "",
-    "division": "Division 1",
-    "host_area": "埼玉県",
-    "legal_entity": "パナソニック ホールディングス株式会社",
-    "official_site": "https://panasonic.co.jp/sports/wildknights/"
-  },
-  {
-    "team_name": "豊田自動織機シャトルズ愛知",
-    "team_en_name": "豊田自動織機シャトルズ愛知（2025-26）",
-    "slug": "toyota-shuttles-aichi",
-    "league": "league-one",
-    "home_ground": "愛知県刈谷市逢妻町1-59-1",
-    "home_ground_address": "",
-    "division": "Division 2",
-    "host_area": "愛知県",
-    "legal_entity": "株式会社豊田自動織機",
-    "official_site": "https://shuttles-aichi.com/"
-  },
-  {
-    "team_name": "トヨタヴェルブリッツ",
-    "team_en_name": "トヨタヴェルブリッツ（2025-26）",
-    "slug": "toyota-verblitz",
-    "league": "league-one",
-    "home_ground": "愛知県豊田市保見町井ノ向57-230トヨタスポーツセンター",
-    "home_ground_address": "",
-    "division": "Division 1",
-    "host_area": "愛知県、豊田市、名古屋市、みよし市",
-    "legal_entity": "トヨタ自動車株式会社",
-    "official_site": "https://verblitz.toyotatimes-sports.toyota/"
-  },
-  {
-    "team_name": "日野レッドドルフィンズ",
-    "team_en_name": "日野レッドドルフィンズ（2025-26）",
-    "slug": "hino-red-dolphins",
-    "league": "league-one",
-    "home_ground": "東京都日野市新町5丁目18-1",
-    "home_ground_address": "",
-    "division": "Division 2",
-    "host_area": "東京都日野市、八王子市および周辺地域",
-    "legal_entity": "日野自動車株式会社",
-    "official_site": "https://hino-reddolphins.com/"
-  },
-  {
-    "team_name": "クボタスピアーズ船橋・東京ベイ",
-    "team_en_name": "クボタスピアーズ船橋・東京ベイ（2025-26）",
-    "slug": "kubota-spears-funabashi-tokyo-bay",
-    "league": "league-one",
-    "home_ground": "千葉県船橋市栄町2-16-1",
-    "home_ground_address": "",
-    "division": "Division 1",
-    "host_area": "千葉県、船橋市、東京都、江戸川区、市川市、千葉市、成田市",
-    "legal_entity": "株式会社クボタ",
-    "official_site": "http://www.kubota-spears.com/"
-  },
-  {
-    "team_name": "九州電力キューデンヴォルテクス",
-    "team_en_name": "九州電力キューデンヴォルテクス（2025-26）",
-    "slug": "kyuden-voltex",
-    "league": "league-one",
-    "home_ground": "福岡市東区松香台1-10-15",
-    "home_ground_address": "福岡県",
-    "division": "Division 2",
-    "host_area": "福岡市",
-    "legal_entity": "九州電力株式会社",
-    "official_site": "https://www.kyudenvoltex.com/"
-  },
-  {
     "team_name": "花園近鉄ライナーズ",
     "team_en_name": "花園近鉄ライナーズ（2025-26）",
     "slug": "hanazono-kintetsu-liners",
     "league": "league-one",
-    "home_ground": "ラグビー場",
-    "home_ground_address": "大阪府東大阪市松原南1-1-1　東大阪市花園",
+    "home_ground": "東大阪市花園ラグビー場",
+    "home_ground_address": "大阪府東大阪市松原南1-1-1",
     "division": "Division 2",
     "host_area": "東大阪市、大阪府",
     "legal_entity": "近鉄グループホールディングス株式会社",
     "official_site": "https://hanazono-liners.jp/"
-  },
-  {
-    "team_name": "横浜キヤノンイーグルス",
-    "team_en_name": "横浜キヤノンイーグルス（2025-26）",
-    "slug": "yokohama-canon-eagles",
-    "league": "league-one",
-    "home_ground": "東京都町田市小野路町5290-1",
-    "home_ground_address": "",
-    "division": "Division 1",
-    "host_area": "神奈川県横浜市",
-    "legal_entity": "キヤノン株式会社",
-    "official_site": "https://www.canon-eagles.jp/"
-  },
-  {
-    "team_name": "NECグリーンロケッツ東葛",
-    "team_en_name": "NECグリーンロケッツ東葛（2025-26）",
-    "slug": "nec-green-rockets-tokatsu",
-    "league": "league-one",
-    "home_ground": "千葉県我孫子市日の出1131",
-    "home_ground_address": "",
-    "division": "Division 2",
-    "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
-    "legal_entity": "日本電気株式会社",
-    "official_site": "https://green.necrockets.net/"
-  },
-  {
-    "team_name": "狭山セコムラガッツ",
-    "team_en_name": "狭山セコムラガッツ（2025-26）",
-    "slug": "secom-rugguts",
-    "league": "league-one",
-    "home_ground": "埼玉県狭山市柏原富士塚308-1",
-    "home_ground_address": "",
-    "division": "Division 3",
-    "host_area": "狭山市",
-    "legal_entity": "セコム株式会社ラグビー部",
-    "official_site": "https://www.rugguts.secom.co.jp/"
-  },
-  {
-    "team_name": "レッドハリケーンズ大阪",
-    "team_en_name": "レッドハリケーンズ大阪（2025-26）",
-    "slug": "hurricanes",
-    "league": "league-one",
-    "home_ground": "大阪府大阪市住之江区南港北一丁目９−９",
-    "home_ground_address": "",
-    "division": "Division 2",
-    "host_area": "大阪府大阪市",
-    "legal_entity": "株式会社ＮＴＴドコモ",
-    "official_site": "https://docomo-rugby.jp/"
-  },
-  {
-    "team_name": "中国電力レッドレグリオンズ",
-    "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
-    "slug": "chugoku-red-regulions",
-    "league": "league-one",
-    "home_ground": "広島県広島県安芸郡坂町鯛尾2-6",
-    "home_ground_address": "",
-    "division": "Division 3",
-    "host_area": "広島県",
-    "legal_entity": "中国電力株式会社",
-    "official_site": "https://rrrfc.red/"
   },
   {
     "team_name": "東芝ブレイブルーパス東京",
@@ -168,12 +36,144 @@
     "official_site": "https://www.bravelupus.com/"
   },
   {
+    "team_name": "豊田自動織機シャトルズ愛知",
+    "team_en_name": "豊田自動織機シャトルズ愛知（2025-26）",
+    "slug": "toyota-shuttles-aichi",
+    "league": "league-one",
+    "home_ground": "ウェーブスタジアム刈谷",
+    "home_ground_address": "愛知県刈谷市築地町荒田1番地",
+    "division": "Division 2",
+    "host_area": "愛知県",
+    "legal_entity": "株式会社豊田自動織機",
+    "official_site": "https://shuttles-aichi.com/"
+  },
+  {
+    "team_name": "トヨタヴェルブリッツ",
+    "team_en_name": "トヨタヴェルブリッツ（2025-26）",
+    "slug": "toyota-verblitz",
+    "league": "league-one",
+    "home_ground": "豊田スタジアム",
+    "home_ground_address": "愛知県豊田市千石町７丁目２",
+    "division": "Division 1",
+    "host_area": "愛知県、豊田市、名古屋市、みよし市",
+    "legal_entity": "トヨタ自動車株式会社",
+    "official_site": "https://verblitz.toyotatimes-sports.toyota/"
+  },
+  {
+    "team_name": "日野レッドドルフィンズ",
+    "team_en_name": "日野レッドドルフィンズ（2025-26）",
+    "slug": "hino-red-dolphins",
+    "league": "league-one",
+    "home_ground": "AGFフィールド",
+    "home_ground_address": "東京都調布市西町２９０",
+    "division": "Division 2",
+    "host_area": "東京都日野市、八王子市および周辺地域",
+    "legal_entity": "日野自動車株式会社",
+    "official_site": "https://hino-reddolphins.com/"
+  },
+  {
+    "team_name": "クボタスピアーズ船橋・東京ベイ",
+    "team_en_name": "クボタスピアーズ船橋・東京ベイ（2025-26）",
+    "slug": "kubota-spears-funabashi-tokyo-bay",
+    "league": "league-one",
+    "home_ground": "スピアーズえどりくフィールド",
+    "home_ground_address": "東京都江戸川区清新町２丁目１−１",
+    "division": "Division 1",
+    "host_area": "千葉県、船橋市、東京都、江戸川区、市川市、千葉市、成田市",
+    "legal_entity": "株式会社クボタ",
+    "official_site": "http://www.kubota-spears.com/"
+  },
+  {
+    "team_name": "九州電力キューデンヴォルテクス",
+    "team_en_name": "九州電力キューデンヴォルテクス（2025-26）",
+    "slug": "kyuden-voltex",
+    "league": "league-one",
+    "home_ground": "ベスト電器スタジアム",
+    "home_ground_address": "福岡県福岡市博多区東平尾公園２丁目１−１",
+    "division": "Division 2",
+    "host_area": "福岡市",
+    "legal_entity": "九州電力株式会社",
+    "official_site": "https://www.kyudenvoltex.com/"
+  },
+  {
+    "team_name": "横浜キヤノンイーグルス",
+    "team_en_name": "横浜キヤノンイーグルス（2025-26）",
+    "slug": "yokohama-canon-eagles",
+    "league": "league-one",
+    "home_ground": "ニッパツ三ツ沢球技場",
+    "home_ground_address": "神奈川県横浜市神奈川区三ツ沢西町3-1",
+    "division": "Division 1",
+    "host_area": "神奈川県横浜市",
+    "legal_entity": "キヤノン株式会社",
+    "official_site": "https://www.canon-eagles.jp/"
+  },
+  {
+    "team_name": "埼玉パナソニックワイルドナイツ",
+    "team_en_name": "埼玉パナソニックワイルドナイツ（2025-26）",
+    "slug": "saitama-panasonic-wild-knights",
+    "league": "league-one",
+    "home_ground": "熊谷スポーツ文化公園ラグビー場",
+    "home_ground_address": "埼玉県熊谷市上川上８１０",
+    "division": "Division 1",
+    "host_area": "埼玉県",
+    "legal_entity": "パナソニック ホールディングス株式会社",
+    "official_site": "https://panasonic.co.jp/sports/wildknights/"
+  },
+  {
+    "team_name": "NECグリーンロケッツ東葛",
+    "team_en_name": "NECグリーンロケッツ東葛（2025-26）",
+    "slug": "nec-green-rockets-tokatsu",
+    "league": "league-one",
+    "home_ground": "柏の葉公園総合競技場",
+    "home_ground_address": "千葉県柏市柏の葉４−１",
+    "division": "Division 2",
+    "host_area": "千葉県我孫子市、柏市、松戸市、流山市、野田市、鎌ケ谷市、白井市、印西市",
+    "legal_entity": "日本電気株式会社",
+    "official_site": "https://green.necrockets.net/"
+  },
+  {
+    "team_name": "狭山セコムラガッツ",
+    "team_en_name": "狭山セコムラガッツ（2025-26）",
+    "slug": "secom-rugguts",
+    "league": "league-one",
+    "home_ground": "セコムラグビーフィールド",
+    "home_ground_address": "埼玉県狭山市柏原３１３",
+    "division": "Division 3",
+    "host_area": "狭山市",
+    "legal_entity": "セコム株式会社ラグビー部",
+    "official_site": "https://www.rugguts.secom.co.jp/"
+  },
+  {
+    "team_name": "レッドハリケーンズ大阪",
+    "team_en_name": "レッドハリケーンズ大阪（2025-26）",
+    "slug": "hurricanes",
+    "league": "league-one",
+    "home_ground": "ヨドコウ桜スタジアム",
+    "home_ground_address": "大阪府大阪市東住吉区長居公園１−１",
+    "division": "Division 2",
+    "host_area": "大阪府大阪市",
+    "legal_entity": "株式会社ＮＴＴドコモ",
+    "official_site": "https://docomo-rugby.jp/"
+  },
+  {
+    "team_name": "中国電力レッドレグリオンズ",
+    "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
+    "slug": "chugoku-red-regulions",
+    "league": "league-one",
+    "home_ground": "Balcom BMW Rugby Stadium",
+    "home_ground_address": "広島県広島市西区観音新町2-11-124",
+    "division": "Division 3",
+    "host_area": "広島県",
+    "legal_entity": "中国電力株式会社",
+    "official_site": "https://rrrfc.red/"
+  },
+  {
     "team_name": "コベルコ神戸スティーラーズ",
     "team_en_name": "コベルコ神戸スティーラーズ（2025-26）",
     "slug": "kobelco-kobe-steelers",
     "league": "league-one",
-    "home_ground": "兵庫県神戸市東灘区御影浜町４　神戸製鋼灘浜グラウンド",
-    "home_ground_address": "",
+    "home_ground": "神戸総合運動公園ユニバー記念競技場",
+    "home_ground_address": "兵庫県神戸市須磨区緑台",
     "division": "Division 1",
     "host_area": "兵庫県、神戸市",
     "legal_entity": "株式会社神戸製鋼所",
@@ -184,8 +184,8 @@
     "team_en_name": "三菱重工相模原ダイナボアーズ（2025-26）",
     "slug": "mitsubishi-sagamihara-dynaboars",
     "league": "league-one",
-    "home_ground": "神奈川県相模原市中央区田名3000番地",
-    "home_ground_address": "",
+    "home_ground": "相模原ギオンスタジアム",
+    "home_ground_address": "神奈川県相模原市南区下溝４１６９",
     "division": "Division 1",
     "host_area": "神奈川県、相模原市",
     "legal_entity": "三菱重工業株式会社",
@@ -196,8 +196,8 @@
     "team_en_name": "リコーブラックラムズ東京（2025-26）",
     "slug": "ricoh-black-rams-tokyo",
     "league": "league-one",
-    "home_ground": "東京都世田谷区宇奈根1−5−1",
-    "home_ground_address": "",
+    "home_ground": "駒沢オリンピック公園総合運動場陸上競技場",
+    "home_ground_address": "東京都世田谷区駒沢公園１−１",
     "division": "Division 1",
     "host_area": "東京都、世田谷区",
     "legal_entity": "株式会社リコー",
@@ -208,8 +208,8 @@
     "team_en_name": "三重ホンダヒート（2025-26）",
     "slug": "mie-honda-heat",
     "league": "league-one",
-    "home_ground": "三重県鈴鹿市住吉町6731-2",
-    "home_ground_address": "",
+    "home_ground": "三重交通G スポーツの杜 鈴鹿",
+    "home_ground_address": "三重県鈴鹿市御薗町１６６９",
     "division": "Division 1",
     "host_area": "三重県",
     "legal_entity": "本田技研工業株式会社",
@@ -220,20 +220,32 @@
     "team_en_name": "ルリーロ福岡（2025-26）",
     "slug": "leriro-fukuoka",
     "league": "league-one",
-    "home_ground": "福岡県うきは市吉井町富永",
-    "home_ground_address": "",
+    "home_ground": "久留米総合スポーツセンター陸上競技場",
+    "home_ground_address": "福岡県久留米市東櫛原町１７３",
     "division": "Division 3",
     "host_area": "福岡県うきは市、朝倉市、久留米市",
     "legal_entity": "ルリーロ福岡株式会社",
     "official_site": "https://leriro-fukuoka.com/"
   },
   {
+    "team_name": "日本製鉄釜石シーウェイブス",
+    "team_en_name": "日本製鉄釜石シーウェイブス（2025-26）",
+    "slug": "kamaishi-seawaves",
+    "league": "league-one",
+    "home_ground": "釜石鵜住居復興スタジアム",
+    "home_ground_address": "岩手県釜石市鵜住居町第１８地割５−１",
+    "division": "Division 2",
+    "host_area": "釜石市、岩手県",
+    "legal_entity": "一般社団法人釜石シーウェイブスRFC",
+    "official_site": "https://kamaishi-seawaves.com/"
+  },
+  {
     "team_name": "静岡ブルーレヴズ",
     "team_en_name": "静岡ブルーレヴズ（2025-26）",
     "slug": "shizuoka-blue-revs",
     "league": "league-one",
-    "home_ground": "静岡県磐田市大久保891-106",
-    "home_ground_address": "",
+    "home_ground": "ヤマハスタジアム",
+    "home_ground_address": "静岡県ヤマハスタジアム（磐田）",
     "division": "Division 1",
     "host_area": "静岡県",
     "legal_entity": "静岡ブルーレヴズ株式会社",
@@ -244,32 +256,20 @@
     "team_en_name": "浦安D-Rocks（2025-26）",
     "slug": "urayasu-d-rocks",
     "league": "league-one",
-    "home_ground": "Dパーク",
-    "home_ground_address": "千葉県浦安市高洲８−２−１浦安",
+    "home_ground": "駒沢オリンピック公園総合運動場陸上競技場",
+    "home_ground_address": "東京都世田谷区駒沢公園１−１",
     "division": "Division 1",
     "host_area": "千葉県浦安市",
     "legal_entity": "株式会社NTT Sports X",
     "official_site": "https://urayasu-d-rocks.com"
   },
   {
-    "team_name": "日本製鉄釜石シーウェイブス",
-    "team_en_name": "日本製鉄釜石シーウェイブス（2025-26）",
-    "slug": "kamaishi-seawaves",
-    "league": "league-one",
-    "home_ground": "岩手県釜石市甲子町10-159-4",
-    "home_ground_address": "",
-    "division": "Division 2",
-    "host_area": "釜石市、岩手県",
-    "legal_entity": "一般社団法人釜石シーウェイブスRFC",
-    "official_site": "https://kamaishi-seawaves.com/"
-  },
-  {
     "team_name": "清水建設江東ブルーシャークス",
     "team_en_name": "清水建設江東ブルーシャークス（2025-26）",
     "slug": "shimizu-koto-blue-sharks",
     "league": "league-one",
-    "home_ground": "神奈川県横浜市都筑区荏田南町741番地",
-    "home_ground_address": "",
+    "home_ground": "江東区夢の島競技場",
+    "home_ground_address": "東京都江東区夢の島１−１−２",
     "division": "Division 2",
     "host_area": "東京都江東区",
     "legal_entity": "清水建設株式会社",
@@ -280,8 +280,8 @@
     "team_en_name": "ヤクルトレビンズ戸田（2025-26）",
     "slug": "yakult-levins",
     "league": "league-one",
-    "home_ground": "埼玉県戸田市美女木4638-1",
-    "home_ground_address": "",
+    "home_ground": "ヤクルト戸田グラウンド",
+    "home_ground_address": "埼玉県戸田市美女木4638-1",
     "division": "Division 3",
     "host_area": "埼玉県戸田市",
     "legal_entity": "株式会社ヤクルト本社",
@@ -292,8 +292,8 @@
     "team_en_name": "クリタウォーターガッシュ昭島（2025-26）",
     "slug": "kurita-water-gush-akishima",
     "league": "league-one",
-    "home_ground": "東京都昭島市拝島町3990-3",
-    "home_ground_address": "",
+    "home_ground": "昭島市陸上競技場",
+    "home_ground_address": "東京都昭島市東町5-11-43",
     "division": "Division 3",
     "host_area": "東京都昭島市",
     "legal_entity": "栗田工業株式会社",
@@ -304,52 +304,12 @@
     "team_en_name": "マツダスカイアクティブズ広島（2025-26）",
     "slug": "mazda-skyactivs-hiroshima",
     "league": "league-one",
-    "home_ground": "広島県広島県安芸郡坂町鯛尾2-6",
-    "home_ground_address": "",
+    "home_ground": "Balcom BMW Stadium",
+    "home_ground_address": "広島県広島市西区観音新町2-11-124",
     "division": "Division 3",
     "host_area": "広島県",
     "legal_entity": "マツダ株式会社",
     "official_site": "https://www.skyactivs.com/"
-  },
-  {
-    "team_name": "オークランド・ブルーズ",
-    "team_en_name": "Blues",
-    "slug": "blues",
-    "league": "super-rugby",
-    "home_ground": "Eden Park",
-    "home_ground_address": "42 Reimers Ave, Kingsland, Auckland 1024, New Zealand"
-  },
-  {
-    "team_name": "NSWワラタス（ワラターズ）",
-    "team_en_name": "Waratahs",
-    "slug": "nsw-waratahs",
-    "league": "super-rugby",
-    "home_ground": "Allianz Stadium",
-    "home_ground_address": "Driver Ave, Moore Park NSW 2021, Australia"
-  },
-  {
-    "team_name": "ワイカト・チーフス",
-    "team_en_name": "Chiefs",
-    "slug": "chiefs",
-    "league": "super-rugby",
-    "home_ground": "FMG Stadium Waikato",
-    "home_ground_address": "128 Seddon Road, Frankton, Hamilton 3204, New Zealand"
-  },
-  {
-    "team_name": "オタゴ・ハイランダーズ",
-    "team_en_name": "Highlanders",
-    "slug": "highlanders",
-    "league": "super-rugby",
-    "home_ground": "Forsyth Barr Stadium",
-    "home_ground_address": "130 Anzac Avenue, Dunedin North, Dunedin 9016, New Zealand"
-  },
-  {
-    "team_name": "クイーンズランド・レッズ",
-    "team_en_name": "Reds",
-    "slug": "queensland-reds",
-    "league": "super-rugby",
-    "home_ground": "Suncorp Stadium",
-    "home_ground_address": "40 Castlemaine St, Milton QLD 4064, Australia"
   },
   {
     "team_name": "フィジアン・ドゥルア",
@@ -360,28 +320,12 @@
     "home_ground_address": "Nanuku St, Suva, Fiji"
   },
   {
-    "team_name": "カンタベリー・クルセイダーズ",
-    "team_en_name": "Crusaders",
-    "slug": "crusaders",
+    "team_name": "ワイカト・チーフス",
+    "team_en_name": "Chiefs",
+    "slug": "chiefs",
     "league": "super-rugby",
-    "home_ground": "Apollo Projects Stadium",
-    "home_ground_address": "95 Jack Hinton Drive, Addington, Christchurch 8024, New Zealand"
-  },
-  {
-    "team_name": "ウェスタン・フォース",
-    "team_en_name": "Western Force",
-    "slug": "western-force",
-    "league": "super-rugby",
-    "home_ground": "HBF Park",
-    "home_ground_address": "310 Pier St, Perth WA 6000, Australia"
-  },
-  {
-    "team_name": "モアナ・パシフィカ",
-    "team_en_name": "Moana Pasifika",
-    "slug": "moana-pasifika",
-    "league": "super-rugby",
-    "home_ground": "Mt Smart Stadium",
-    "home_ground_address": "2 Beasley Ave, Penrose, Auckland 1061, New Zealand"
+    "home_ground": "FMG Stadium Waikato",
+    "home_ground_address": "128 Seddon Road, Frankton, Hamilton 3204, New Zealand"
   },
   {
     "team_name": "ウェリントン・ハリケーンズ",
@@ -392,6 +336,22 @@
     "home_ground_address": "105 Waterloo Quay, Pipitea, Wellington 6140, New Zealand"
   },
   {
+    "team_name": "クイーンズランド・レッズ",
+    "team_en_name": "Reds",
+    "slug": "queensland-reds",
+    "league": "super-rugby",
+    "home_ground": "Suncorp Stadium",
+    "home_ground_address": "40 Castlemaine St, Milton QLD 4064, Australia"
+  },
+  {
+    "team_name": "カンタベリー・クルセイダーズ",
+    "team_en_name": "Crusaders",
+    "slug": "crusaders",
+    "league": "super-rugby",
+    "home_ground": "Apollo Projects Stadium",
+    "home_ground_address": "95 Jack Hinton Drive, Addington, Christchurch 8024, New Zealand"
+  },
+  {
     "team_name": "ACTブランビーズ",
     "team_en_name": "Brumbies",
     "slug": "act-brumbies",
@@ -400,36 +360,44 @@
     "home_ground_address": "Battye St, Bruce ACT 2617, Australia"
   },
   {
-    "team_name": "ベネットン・ラグビー・トレヴィーゾ",
-    "team_en_name": "Trévise",
-    "slug": "benetton-rugby-trevise",
-    "league": "urc",
-    "home_ground": "",
-    "home_ground_address": ""
+    "team_name": "ウェスタン・フォース",
+    "team_en_name": "Western Force",
+    "slug": "western-force",
+    "league": "super-rugby",
+    "home_ground": "HBF Park",
+    "home_ground_address": "310 Pier St, Perth WA 6000, Australia"
   },
   {
-    "team_name": "コナート・ラグビー",
-    "team_en_name": "Connacht",
-    "slug": "connacht-rugby",
-    "league": "urc",
-    "home_ground": "Dexcom Stadium",
-    "home_ground_address": "College Rd, Galway, Ireland"
+    "team_name": "NSWワラタス（ワラターズ）",
+    "team_en_name": "Waratahs",
+    "slug": "nsw-waratahs",
+    "league": "super-rugby",
+    "home_ground": "Allianz Stadium",
+    "home_ground_address": "Driver Ave, Moore Park NSW 2021, Australia"
   },
   {
-    "team_name": "スカーレッツ",
-    "team_en_name": "Scarlets",
-    "slug": "scarlets",
-    "league": "urc",
-    "home_ground": "Parc y Scarlets",
-    "home_ground_address": "Pemberton, Llanelli SA14 9UZ, UK"
+    "team_name": "オークランド・ブルーズ",
+    "team_en_name": "Blues",
+    "slug": "blues",
+    "league": "super-rugby",
+    "home_ground": "Eden Park",
+    "home_ground_address": "42 Reimers Ave, Kingsland, Auckland 1024, New Zealand"
   },
   {
-    "team_name": "ゼブレ・パルマ",
-    "team_en_name": "Zebre",
-    "slug": "zebre-parma",
-    "league": "urc",
-    "home_ground": "Stadio Sergio Lanfranchi",
-    "home_ground_address": "Viale Sergio Lanfranchi, 1, 43122 Parma, Italy"
+    "team_name": "オタゴ・ハイランダーズ",
+    "team_en_name": "Highlanders",
+    "slug": "highlanders",
+    "league": "super-rugby",
+    "home_ground": "Forsyth Barr Stadium",
+    "home_ground_address": "130 Anzac Avenue, Dunedin North, Dunedin 9016, New Zealand"
+  },
+  {
+    "team_name": "モアナ・パシフィカ",
+    "team_en_name": "Moana Pasifika",
+    "slug": "moana-pasifika",
+    "league": "super-rugby",
+    "home_ground": "Mt Smart Stadium",
+    "home_ground_address": "2 Beasley Ave, Penrose, Auckland 1061, New Zealand"
   },
   {
     "team_name": "エディンバラ・ラグビー",
@@ -440,14 +408,6 @@
     "home_ground_address": "Roseburn St, Edinburgh EH12 5PJ, UK"
   },
   {
-    "team_name": "レンスター・ラグビー",
-    "team_en_name": "Leinster",
-    "slug": "leinster-rugby",
-    "league": "urc",
-    "home_ground": "RDS Arena",
-    "home_ground_address": "Merrion Road, Ballsbridge, Dublin 4, Ireland"
-  },
-  {
     "team_name": "マンスター・ラグビー",
     "team_en_name": "Munster",
     "slug": "munster-rugby",
@@ -456,12 +416,44 @@
     "home_ground_address": "Cratloe Rd, Ballynanty Beg, Limerick, Ireland"
   },
   {
-    "team_name": "グラスゴー・ウォリアーズ",
-    "team_en_name": "Glasgow",
-    "slug": "glasgow-warriors",
+    "team_name": "オスプリーズ",
+    "team_en_name": "Ospreys",
+    "slug": "ospreys",
     "league": "urc",
-    "home_ground": "Scotstoun Stadium",
-    "home_ground_address": "72-112 Danes Drive, Glasgow G14 9HD, UK"
+    "home_ground": "Swansea.com Stadium",
+    "home_ground_address": "Landore, Swansea SA1 2FA, UK"
+  },
+  {
+    "team_name": "レンスター・ラグビー",
+    "team_en_name": "Leinster",
+    "slug": "leinster-rugby",
+    "league": "urc",
+    "home_ground": "RDS Arena",
+    "home_ground_address": "Merrion Road, Ballsbridge, Dublin 4, Ireland"
+  },
+  {
+    "team_name": "ドラゴンズ・ラグビー",
+    "team_en_name": "Dragons",
+    "slug": "dragons-rugby",
+    "league": "urc",
+    "home_ground": "Rodney Parade",
+    "home_ground_address": "Rodney Rd, Newport NP19 0UU, UK"
+  },
+  {
+    "team_name": "ベネットン・ラグビー・トレヴィーゾ",
+    "team_en_name": "Trévise",
+    "slug": "benetton-rugby-trevise",
+    "league": "urc",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "ゼブレ・パルマ",
+    "team_en_name": "Zebre",
+    "slug": "zebre-parma",
+    "league": "urc",
+    "home_ground": "Stadio Sergio Lanfranchi",
+    "home_ground_address": "Viale Sergio Lanfranchi, 1, 43122 Parma, Italy"
   },
   {
     "team_name": "カーディフ・ラグビー",
@@ -472,12 +464,12 @@
     "home_ground_address": "Westgate St, Cardiff CF10 1JA, UK"
   },
   {
-    "team_name": "ドラゴンズ・ラグビー",
-    "team_en_name": "Dragons",
-    "slug": "dragons-rugby",
+    "team_name": "コナート・ラグビー",
+    "team_en_name": "Connacht",
+    "slug": "connacht-rugby",
     "league": "urc",
-    "home_ground": "Rodney Parade",
-    "home_ground_address": "Rodney Rd, Newport NP19 0UU, UK"
+    "home_ground": "Dexcom Stadium",
+    "home_ground_address": "College Rd, Galway, Ireland"
   },
   {
     "team_name": "ヴォーダコム・ブルズ",
@@ -496,20 +488,28 @@
     "home_ground_address": "134 Ravenhill Rd, Belfast BT6 0DG, UK"
   },
   {
+    "team_name": "グラスゴー・ウォリアーズ",
+    "team_en_name": "Glasgow",
+    "slug": "glasgow-warriors",
+    "league": "urc",
+    "home_ground": "Scotstoun Stadium",
+    "home_ground_address": "72-112 Danes Drive, Glasgow G14 9HD, UK"
+  },
+  {
+    "team_name": "スカーレッツ",
+    "team_en_name": "Scarlets",
+    "slug": "scarlets",
+    "league": "urc",
+    "home_ground": "Parc y Scarlets",
+    "home_ground_address": "Pemberton, Llanelli SA14 9UZ, UK"
+  },
+  {
     "team_name": "ハリウッドベッツ・シャークス",
     "team_en_name": "Sharks",
     "slug": "hollywoodbets-sharks",
     "league": "urc",
     "home_ground": "Kings Park Stadium",
     "home_ground_address": "1 Jacko Jackson Dr, Stamford Hill, Durban, 4025, South Africa"
-  },
-  {
-    "team_name": "オスプリーズ",
-    "team_en_name": "Ospreys",
-    "slug": "ospreys",
-    "league": "urc",
-    "home_ground": "Swansea.com Stadium",
-    "home_ground_address": "Landore, Swansea SA1 2FA, UK"
   },
   {
     "team_name": "DHLストーマーズ",
@@ -528,12 +528,12 @@
     "home_ground_address": "47 Siemert Road, Doornfontein, Johannesburg, 2028, South Africa"
   },
   {
-    "team_name": "リヨン",
-    "team_en_name": "リヨン",
-    "slug": "lyon",
+    "team_name": "ペルピニャン",
+    "team_en_name": "ペルピニャン",
+    "slug": "perpignan",
     "league": "top14",
-    "home_ground": "Stade de Gerland",
-    "home_ground_address": "Stade de Gerland, Lyon, France"
+    "home_ground": "Stade Aimé-Giral",
+    "home_ground_address": "Stade Aimé-Giral, Perpignan, France"
   },
   {
     "team_name": "モンペリエ",
@@ -544,20 +544,12 @@
     "home_ground_address": "GGL Stadium, Montpellier, France"
   },
   {
-    "team_name": "トゥーロン",
-    "team_en_name": "トゥーロン",
-    "slug": "toulon",
+    "team_name": "ヴァンヌ",
+    "team_en_name": "ヴァンヌ",
+    "slug": "vannes",
     "league": "top14",
-    "home_ground": "Stade Mayol",
-    "home_ground_address": "Quai Joseph Lafontan, 83000 Toulon, France"
-  },
-  {
-    "team_name": "ペルピニャン",
-    "team_en_name": "ペルピニャン",
-    "slug": "perpignan",
-    "league": "top14",
-    "home_ground": "Stade Aimé-Giral",
-    "home_ground_address": "Stade Aimé-Giral, Perpignan, France"
+    "home_ground": "Stade de la Rabine",
+    "home_ground_address": "Stade de la Rabine, Vannes, France"
   },
   {
     "team_name": "ラ・ロシェル",
@@ -568,14 +560,6 @@
     "home_ground_address": "27 avenue du Maréchal Juin, 17000 La Rochelle, France"
   },
   {
-    "team_name": "カストル",
-    "team_en_name": "カストル",
-    "slug": "castres",
-    "league": "top14",
-    "home_ground": "Stade Pierre-Fabre",
-    "home_ground_address": "Stade Pierre-Fabre, Castres, France"
-  },
-  {
     "team_name": "ラシン92",
     "team_en_name": "ラシン92",
     "slug": "racing-92",
@@ -584,12 +568,12 @@
     "home_ground_address": "99 Jardins de l'Arche, 92000 Nanterre, France"
   },
   {
-    "team_name": "ヴァンヌ",
-    "team_en_name": "ヴァンヌ",
-    "slug": "vannes",
+    "team_name": "トゥーロン",
+    "team_en_name": "トゥーロン",
+    "slug": "toulon",
     "league": "top14",
-    "home_ground": "Stade de la Rabine",
-    "home_ground_address": "Stade de la Rabine, Vannes, France"
+    "home_ground": "Stade Mayol",
+    "home_ground_address": "Quai Joseph Lafontan, 83000 Toulon, France"
   },
   {
     "team_name": "スタッド・フランセ",
@@ -600,20 +584,28 @@
     "home_ground_address": "20-40 Avenue du Général Sarrail, 75016 Paris, France"
   },
   {
+    "team_name": "リヨン",
+    "team_en_name": "リヨン",
+    "slug": "lyon",
+    "league": "top14",
+    "home_ground": "Stade de Gerland",
+    "home_ground_address": "Stade de Gerland, Lyon, France"
+  },
+  {
+    "team_name": "カストル",
+    "team_en_name": "カストル",
+    "slug": "castres",
+    "league": "top14",
+    "home_ground": "Stade Pierre-Fabre",
+    "home_ground_address": "Stade Pierre-Fabre, Castres, France"
+  },
+  {
     "team_name": "トゥールーズ",
     "team_en_name": "トゥールーズ",
     "slug": "toulouse",
     "league": "top14",
     "home_ground": "Stade Ernest-Wallon",
     "home_ground_address": "114 Rue des Troènes, 31200 Toulouse, France"
-  },
-  {
-    "team_name": "クレルモン",
-    "team_en_name": "クレルモン",
-    "slug": "clermont",
-    "league": "top14",
-    "home_ground": "Stade Marcel-Michelin",
-    "home_ground_address": "35 Rue du Clos Four, 63100 Clermont-Ferrand, France"
   },
   {
     "team_name": "バイヨンヌ",
@@ -624,12 +616,12 @@
     "home_ground_address": "Stade Jean-Dauger, Bayonne, France"
   },
   {
-    "team_name": "ポー",
-    "team_en_name": "ポー",
-    "slug": "pau",
+    "team_name": "クレルモン",
+    "team_en_name": "クレルモン",
+    "slug": "clermont",
     "league": "top14",
-    "home_ground": "Stade du Hameau",
-    "home_ground_address": "Stade du Hameau, Pau, France"
+    "home_ground": "Stade Marcel-Michelin",
+    "home_ground_address": "35 Rue du Clos Four, 63100 Clermont-Ferrand, France"
   },
   {
     "team_name": "ボルドー・ベグル",
@@ -640,36 +632,20 @@
     "home_ground_address": "Place Johnston, 33000 Bordeaux, France"
   },
   {
+    "team_name": "ポー",
+    "team_en_name": "ポー",
+    "slug": "pau",
+    "league": "top14",
+    "home_ground": "Stade du Hameau",
+    "home_ground_address": "Stade du Hameau, Pau, France"
+  },
+  {
     "team_name": "サラセンズ",
     "team_en_name": "Saracens",
     "slug": "saracens",
     "league": "premiership",
     "home_ground": "StoneX Stadium",
     "home_ground_address": "Greenlands Lane, Hendon, London NW4 1RL, UK"
-  },
-  {
-    "team_name": "ニューカッスル・ファルコンズ",
-    "team_en_name": "Newcastle Falcons",
-    "slug": "newcastle-falcons",
-    "league": "premiership",
-    "home_ground": "Kingston Park",
-    "home_ground_address": "Brunton Rd, Kenton Bank Foot, Newcastle upon Tyne NE13 8AF, UK"
-  },
-  {
-    "team_name": "グロスター・ラグビー",
-    "team_en_name": "Gloucester Rugby",
-    "slug": "gloucester-rugby",
-    "league": "premiership",
-    "home_ground": "Kingsholm",
-    "home_ground_address": "Kingsholm Rd, Kingsholm, Gloucester GL1 3AX, UK"
-  },
-  {
-    "team_name": "エクセター・チーフス",
-    "team_en_name": "Exeter Chiefs",
-    "slug": "exeter-chiefs",
-    "league": "premiership",
-    "home_ground": "Sandy Park",
-    "home_ground_address": "Sandy Park Way, Exeter EX2 7NN, UK"
   },
   {
     "team_name": "ブリストル・ベアーズ",
@@ -688,12 +664,12 @@
     "home_ground_address": "1 Stadium Way, Eccles, Manchester M30 7EY, UK"
   },
   {
-    "team_name": "ハーレクインズ",
-    "team_en_name": "Harlequins",
-    "slug": "harlequins",
+    "team_name": "グロスター・ラグビー",
+    "team_en_name": "Gloucester Rugby",
+    "slug": "gloucester-rugby",
     "league": "premiership",
-    "home_ground": "Twickenham Stoop",
-    "home_ground_address": "Langhorn Dr, Twickenham TW2 7SX, UK"
+    "home_ground": "Kingsholm",
+    "home_ground_address": "Kingsholm Rd, Kingsholm, Gloucester GL1 3AX, UK"
   },
   {
     "team_name": "レスター・タイガーズ",
@@ -704,12 +680,28 @@
     "home_ground_address": "Aylestone Rd, Leicester LE2 7TR, UK"
   },
   {
-    "team_name": "ノーサンプトン・セインツ",
-    "team_en_name": "Northampton Saints",
-    "slug": "northampton-saints",
+    "team_name": "ハーレクインズ",
+    "team_en_name": "Harlequins",
+    "slug": "harlequins",
     "league": "premiership",
-    "home_ground": "Franklin's Gardens",
-    "home_ground_address": "Weedon Road, St James, Northampton NN5 5BG, UK"
+    "home_ground": "Twickenham Stoop",
+    "home_ground_address": "Langhorn Dr, Twickenham TW2 7SX, UK"
+  },
+  {
+    "team_name": "ニューカッスル・ファルコンズ",
+    "team_en_name": "Newcastle Falcons",
+    "slug": "newcastle-falcons",
+    "league": "premiership",
+    "home_ground": "Kingston Park",
+    "home_ground_address": "Brunton Rd, Kenton Bank Foot, Newcastle upon Tyne NE13 8AF, UK"
+  },
+  {
+    "team_name": "エクセター・チーフス",
+    "team_en_name": "Exeter Chiefs",
+    "slug": "exeter-chiefs",
+    "league": "premiership",
+    "home_ground": "Sandy Park",
+    "home_ground_address": "Sandy Park Way, Exeter EX2 7NN, UK"
   },
   {
     "team_name": "バース・ラグビー",
@@ -718,5 +710,13 @@
     "league": "premiership",
     "home_ground": "Recreation Ground",
     "home_ground_address": "Spring Gardens, Bath BA2 4DS, UK"
+  },
+  {
+    "team_name": "ノーサンプトン・セインツ",
+    "team_en_name": "Northampton Saints",
+    "slug": "northampton-saints",
+    "league": "premiership",
+    "home_ground": "Franklin's Gardens",
+    "home_ground_address": "Weedon Road, St James, Northampton NN5 5BG, UK"
   }
 ]
