@@ -13,7 +13,18 @@ TEAM_NAMES_JP_PATH = 'data/team_names_jp.json'
 def normalize_text(text):
     if not text or pd.isna(text): return ""
     text = unicodedata.normalize('NFKC', str(text))
-    text = "".join(c for c in unicodedata.normalize('NFD', text) if unicodedata.category(c) != 'Mn')
+    # NFD normalization followed by Mn category stripping removes accents,
+    # but it ALSO removes Japanese dakuten/handakuten. 
+    # We should only strip Mn if the character is not part of the Japanese range.
+    new_text = ""
+    for c in unicodedata.normalize('NFD', text):
+        if unicodedata.category(c) != 'Mn':
+            new_text += c
+        else:
+            # If it's a combining mark, check if it's the Japanese voicing marks (U+3099, U+309A)
+            if c in ['\u3099', '\u309A']:
+                new_text += c
+    text = unicodedata.normalize('NFKC', new_text)
     text = text.replace('・', ' ').replace('·', ' ')
     text = re.sub(r'\s+', ' ', text).strip()
     return text

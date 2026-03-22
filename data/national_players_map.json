@@ -3,7 +3,7 @@
     {
       "name_ja": "田村 優",
       "name_en": "Yu Tamura",
-      "slug": "yu-tamura-194",
+      "slug": "yu-tamura-199",
       "position": "SO",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -13,21 +13,9 @@
       "weight": "92.0"
     },
     {
-      "name_ja": "山下 裕史",
-      "name_en": "Hiroshi Yamashita",
-      "slug": "hiroshi-yamashita-57",
-      "position": "PR",
-      "team": "コベルコ神戸スティーラーズ（2025-26）",
-      "league": "league-one",
-      "caps": "日本代表(51)",
-      "age": "40.0",
-      "height": "183.0",
-      "weight": "120.0"
-    },
-    {
       "name_ja": "日和佐 篤",
       "name_en": "Atsushi Hiwasa",
-      "slug": "atsushi-hiwasa-68",
+      "slug": "atsushi-hiwasa-56",
       "position": "SH",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -35,6 +23,18 @@
       "age": "38.0",
       "height": "166.0",
       "weight": "68.0"
+    },
+    {
+      "name_ja": "山下 裕史",
+      "name_en": "Hiroshi Yamashita",
+      "slug": "hiroshi-yamashita-69",
+      "position": "PR",
+      "team": "コベルコ神戸スティーラーズ（2025-26）",
+      "league": "league-one",
+      "caps": "日本代表(51)",
+      "age": "40.0",
+      "height": "183.0",
+      "weight": "120.0"
     },
     {
       "name_ja": "ツイ ヘントリック",
@@ -51,7 +51,7 @@
     {
       "name_ja": "ティラン ライリー",
       "name_en": "Dylan Riley",
-      "slug": "dylan-riley-422",
+      "slug": "dylan-riley-518",
       "position": "CTB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -63,7 +63,7 @@
     {
       "name_ja": "流 大",
       "name_en": "Yutaka Nagare",
-      "slug": "yutaka-nagare-104",
+      "slug": "yutaka-nagare-98",
       "position": "SH",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -75,7 +75,7 @@
     {
       "name_ja": "野口 宜裕",
       "name_en": "Yoshihiro Noguchi",
-      "slug": "yoshihiro-noguchi-171",
+      "slug": "yoshihiro-noguchi-166",
       "position": "WTB",
       "team": "狭山セコムラガッツ（2025-26）",
       "league": "league-one",
@@ -87,7 +87,7 @@
     {
       "name_ja": "ウァル アサエリ愛",
       "name_en": "AsaeliAi Valu",
-      "slug": "asaeliai-valu-287",
+      "slug": "asaeliai-valu-19",
       "position": "PR",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -99,7 +99,7 @@
     {
       "name_ja": "シャック コーネルセン",
       "name_en": "Jack Cornelsen",
-      "slug": "jack-cornelsen-90",
+      "slug": "jack-cornelsen-79",
       "position": "LO",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -123,7 +123,7 @@
     {
       "name_ja": "古畑 翔",
       "name_en": "Sho Furuhata",
-      "slug": "sho-furuhata-21",
+      "slug": "sho-furuhata-32",
       "position": "PR",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -159,7 +159,7 @@
     {
       "name_ja": "奥井 章仁",
       "name_en": "Akito Okui",
-      "slug": "akito-okui-65",
+      "slug": "akito-okui-61",
       "position": "FL/No8",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -171,7 +171,7 @@
     {
       "name_ja": "植田 和磨",
       "name_en": "Kazuma Ueda",
-      "slug": "kazuma-ueda-93",
+      "slug": "kazuma-ueda-99",
       "position": "WTB",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -183,7 +183,7 @@
     {
       "name_ja": "高本 とむ",
       "name_en": "Tomu Takamoto",
-      "slug": "tomu-takamoto-174",
+      "slug": "tomu-takamoto-169",
       "position": "WTB",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -193,21 +193,9 @@
       "weight": "92.0"
     },
     {
-      "name_ja": "福田 健太",
-      "name_en": "Kenta Fukuda",
-      "slug": "kenta-fukuda-196",
-      "position": "SH",
-      "team": "東京サントリーサンゴリアス（2025-26）",
-      "league": "league-one",
-      "caps": "XV('25)、日本代表(8)",
-      "age": "29.0",
-      "height": "173.0",
-      "weight": "80.0"
-    },
-    {
       "name_ja": "廣瀬 雄也",
       "name_en": "Yuya Hirose",
-      "slug": "yuya-hirose-216",
+      "slug": "yuya-hirose-205",
       "position": "CTB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -217,9 +205,21 @@
       "weight": "94.0"
     },
     {
+      "name_ja": "福田 健太",
+      "name_en": "Kenta Fukuda",
+      "slug": "kenta-fukuda-220",
+      "position": "SH",
+      "team": "東京サントリーサンゴリアス（2025-26）",
+      "league": "league-one",
+      "caps": "XV('25)、日本代表(8)",
+      "age": "29.0",
+      "height": "173.0",
+      "weight": "80.0"
+    },
+    {
       "name_ja": "木村 星南",
       "name_en": "Sena Kimura",
-      "slug": "sena-kimura-239",
+      "slug": "sena-kimura-250",
       "position": "PR",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -243,7 +243,7 @@
     {
       "name_ja": "サウマキ アマナキ",
       "name_en": "Amanaki Saumaki",
-      "slug": "amanaki-saumaki-773",
+      "slug": "amanaki-saumaki-763",
       "position": "FL/No8",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -253,9 +253,21 @@
       "weight": "110.0"
     },
     {
+      "name_ja": "佐藤 健次",
+      "name_en": "Kenji Sato",
+      "slug": "kenji-sato-15",
+      "position": "HO",
+      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
+      "league": "league-one",
+      "caps": "XV('24,'25)、日本代表(9)",
+      "age": "23.0",
+      "height": "177.0",
+      "weight": "105.0"
+    },
+    {
       "name_ja": "吉澤 太一",
       "name_en": "TAICHI YOSHIZAWA",
-      "slug": "taichi-yoshizawa-66",
+      "slug": "taichi-yoshizawa-71",
       "position": "FB",
       "team": "レッドハリケーンズ大阪（2025-26）",
       "league": "league-one",
@@ -267,7 +279,7 @@
     {
       "name_ja": "石田 大河",
       "name_en": "Taiga Ishida",
-      "slug": "taiga-ishida-199",
+      "slug": "taiga-ishida-258",
       "position": "FB",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -277,21 +289,9 @@
       "weight": "83.0"
     },
     {
-      "name_ja": "佐藤 健次",
-      "name_en": "Kenji Sato",
-      "slug": "kenji-sato-290",
-      "position": "HO",
-      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
-      "league": "league-one",
-      "caps": "XV('24,'25)、日本代表(9)",
-      "age": "23.0",
-      "height": "177.0",
-      "weight": "105.0"
-    },
-    {
       "name_ja": "木津 悠輔",
       "name_en": "Yusuke Kizu",
-      "slug": "yusuke-kizu-16",
+      "slug": "yusuke-kizu-11",
       "position": "PR",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -303,7 +303,7 @@
     {
       "name_ja": "飯野 晃司",
       "name_en": "Koji Iino",
-      "slug": "koji-iino-32",
+      "slug": "koji-iino-27",
       "position": "FL/No8",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -349,21 +349,9 @@
       "weight": "95.0"
     },
     {
-      "name_ja": "坂手 淳史",
-      "name_en": "Atsushi Sakate",
-      "slug": "atsushi-sakate-60",
-      "position": "HO",
-      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
-      "league": "league-one",
-      "caps": "U23('13)、日本代表(47)",
-      "age": "32.0",
-      "height": "180.0",
-      "weight": "104.0"
-    },
-    {
       "name_ja": "池田 悠希",
       "name_en": "Yuki Ikeda",
-      "slug": "yuki-ikeda-70",
+      "slug": "yuki-ikeda-59",
       "position": "CTB",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -373,9 +361,21 @@
       "weight": "98.0"
     },
     {
+      "name_ja": "坂手 淳史",
+      "name_en": "Atsushi Sakate",
+      "slug": "atsushi-sakate-64",
+      "position": "HO",
+      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
+      "league": "league-one",
+      "caps": "U23('13)、日本代表(47)",
+      "age": "32.0",
+      "height": "180.0",
+      "weight": "104.0"
+    },
+    {
       "name_ja": "小川 高廣",
       "name_en": "Takahiro Ogawa",
-      "slug": "takahiro-ogawa-92",
+      "slug": "takahiro-ogawa-78",
       "position": "SH",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -387,7 +387,7 @@
     {
       "name_ja": "山沢 拓也",
       "name_en": "Takuya Yamasawa",
-      "slug": "takuya-yamasawa-119",
+      "slug": "takuya-yamasawa-120",
       "position": "SO",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -399,7 +399,7 @@
     {
       "name_ja": "竹山 晃暉",
       "name_en": "Koki Takeyama",
-      "slug": "koki-takeyama-137",
+      "slug": "koki-takeyama-135",
       "position": "WTB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -447,7 +447,7 @@
     {
       "name_ja": "松岡 賢太",
       "name_en": "Kenta Matsuoka",
-      "slug": "kenta-matsuoka-156",
+      "slug": "kenta-matsuoka-155",
       "position": "HO",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -457,21 +457,9 @@
       "weight": "101.0"
     },
     {
-      "name_ja": "堀江 恭佑",
-      "name_en": "Kyosuke Horie",
-      "slug": "kyosuke-horie-204",
-      "position": "FL/No8",
-      "team": "日野レッドドルフィンズ（2025-26）",
-      "league": "league-one",
-      "caps": "U23('13)、セブンズ日本(2)、日本代表(3)",
-      "age": "35.0",
-      "height": "184.0",
-      "weight": "107.0"
-    },
-    {
       "name_ja": "知念 雄",
       "name_en": "Yu Chinen",
-      "slug": "yu-chinen-211",
+      "slug": "yu-chinen-207",
       "position": "PR",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -481,21 +469,33 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "石田 吉平",
-      "name_en": "Kippei Ishida",
-      "slug": "kippei-ishida-9",
-      "position": "WTB",
-      "team": "横浜キヤノンイーグルス（2025-26）",
+      "name_ja": "堀江 恭佑",
+      "name_en": "Kyosuke Horie",
+      "slug": "kyosuke-horie-209",
+      "position": "FL/No8",
+      "team": "日野レッドドルフィンズ（2025-26）",
       "league": "league-one",
-      "caps": "セブンズ日本(20)、日本代表(9)",
-      "age": "25.0",
-      "height": "167.0",
-      "weight": "74.0"
+      "caps": "U23('13)、セブンズ日本(2)、日本代表(3)",
+      "age": "35.0",
+      "height": "184.0",
+      "weight": "107.0"
+    },
+    {
+      "name_ja": "稲垣 啓太",
+      "name_en": "Keita Inagaki",
+      "slug": "keita-inagaki-2",
+      "position": "PR",
+      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
+      "league": "league-one",
+      "caps": "U20('08)、日本代表(53)",
+      "age": "35.0",
+      "height": "186.0",
+      "weight": "116.0"
     },
     {
       "name_ja": "高井 迪郎",
       "name_en": "Michiro Takai",
-      "slug": "michiro-takai-13",
+      "slug": "michiro-takai-7",
       "position": "FL/No8",
       "team": "九州電力キューデンヴォルテクス（2025-26）",
       "league": "league-one",
@@ -505,21 +505,21 @@
       "weight": "99.0"
     },
     {
-      "name_ja": "古川 聖人",
-      "name_en": "Masato Furukawa",
-      "slug": "masato-furukawa-20",
-      "position": "FL/No8",
+      "name_ja": "石田 吉平",
+      "name_en": "Kippei Ishida",
+      "slug": "kippei-ishida-17",
+      "position": "WTB",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
-      "caps": "U20,U23('16)、XV('25)、日本代表(3)",
-      "age": "29.0",
-      "height": "179.0",
-      "weight": "94.0"
+      "caps": "セブンズ日本(20)、日本代表(9)",
+      "age": "25.0",
+      "height": "167.0",
+      "weight": "74.0"
     },
     {
       "name_ja": "三浦 昌悟",
       "name_en": "Shogo Miura",
-      "slug": "shogo-miura-25",
+      "slug": "shogo-miura-20",
       "position": "PR",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -527,6 +527,18 @@
       "age": "30.0",
       "height": "180.0",
       "weight": "115.0"
+    },
+    {
+      "name_ja": "古川 聖人",
+      "name_en": "Masato Furukawa",
+      "slug": "masato-furukawa-31",
+      "position": "FL/No8",
+      "team": "横浜キヤノンイーグルス（2025-26）",
+      "league": "league-one",
+      "caps": "U20,U23('16)、XV('25)、日本代表(3)",
+      "age": "29.0",
+      "height": "179.0",
+      "weight": "94.0"
     },
     {
       "name_ja": "祝原 涼介",
@@ -541,30 +553,6 @@
       "weight": "115.0"
     },
     {
-      "name_ja": "庭井 祐輔",
-      "name_en": "Yusuke Niwai",
-      "slug": "yusuke-niwai-75",
-      "position": "HO",
-      "team": "横浜キヤノンイーグルス（2025-26）",
-      "league": "league-one",
-      "caps": "U20('10,'11)、日本代表(10)",
-      "age": "34.0",
-      "height": "174.0",
-      "weight": "95.0"
-    },
-    {
-      "name_ja": "桑山 聖生",
-      "name_en": "Toshiki Kuwayama",
-      "slug": "toshiki-kuwayama-82",
-      "position": "FB",
-      "team": "東芝ブレイブルーパス東京（2025-26）",
-      "league": "league-one",
-      "caps": "U20('15)、U23、セブンズ日本(1)",
-      "age": "29.0",
-      "height": "184.0",
-      "weight": "95.0"
-    },
-    {
       "name_ja": "安井 龍太",
       "name_en": "Ryuta Yasui",
       "slug": "ryuta-yasui-83",
@@ -575,6 +563,42 @@
       "age": "36.0",
       "height": "187.0",
       "weight": "105.0"
+    },
+    {
+      "name_ja": "桑山 聖生",
+      "name_en": "Toshiki Kuwayama",
+      "slug": "toshiki-kuwayama-108",
+      "position": "FB",
+      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "league": "league-one",
+      "caps": "U20('15)、U23、セブンズ日本(1)",
+      "age": "29.0",
+      "height": "184.0",
+      "weight": "95.0"
+    },
+    {
+      "name_ja": "三上 正貴",
+      "name_en": "Masataka Mikami",
+      "slug": "masataka-mikami-110",
+      "position": "PR",
+      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "league": "league-one",
+      "caps": "U20('07)、日本代表(35)",
+      "age": "37.0",
+      "height": "178.0",
+      "weight": "111.0"
+    },
+    {
+      "name_ja": "江見 翔太",
+      "name_en": "Shota Emi",
+      "slug": "shota-emi-112",
+      "position": "WTB",
+      "team": "東京サントリーサンゴリアス（2025-26）",
+      "league": "league-one",
+      "caps": "U20('11)、セブンズ日本(2)",
+      "age": "34.0",
+      "height": "183.0",
+      "weight": "95.0"
     },
     {
       "name_ja": "福士 萌起",
@@ -589,18 +613,6 @@
       "weight": "90.0"
     },
     {
-      "name_ja": "古賀 由教",
-      "name_en": "Yoshiyuki Koga",
-      "slug": "yoshiyuki-koga-120",
-      "position": "WTB",
-      "team": "リコーブラックラムズ東京（2025-26）",
-      "league": "league-one",
-      "caps": "U20('18)、セブンズ日本(17)",
-      "age": "27.0",
-      "height": "176.0",
-      "weight": "82.0"
-    },
-    {
       "name_ja": "中村 亮土",
       "name_en": "Ryoto Nakamura",
       "slug": "ryoto-nakamura-121",
@@ -613,21 +625,21 @@
       "weight": "92.0"
     },
     {
-      "name_ja": "江見 翔太",
-      "name_en": "Shota Emi",
-      "slug": "shota-emi-127",
+      "name_ja": "古賀 由教",
+      "name_en": "Yoshiyuki Koga",
+      "slug": "yoshiyuki-koga-127",
       "position": "WTB",
-      "team": "東京サントリーサンゴリアス（2025-26）",
+      "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
-      "caps": "U20('11)、セブンズ日本(2)",
-      "age": "34.0",
-      "height": "183.0",
-      "weight": "95.0"
+      "caps": "U20('18)、セブンズ日本(17)",
+      "age": "27.0",
+      "height": "176.0",
+      "weight": "82.0"
     },
     {
       "name_ja": "山村 知也",
       "name_en": "Tomoya Yamamura",
-      "slug": "tomoya-yamamura-131",
+      "slug": "tomoya-yamamura-130",
       "position": "WTB",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -637,21 +649,21 @@
       "weight": "82.0"
     },
     {
-      "name_ja": "三上 正貴",
-      "name_en": "Masataka Mikami",
-      "slug": "masataka-mikami-135",
-      "position": "PR",
-      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "name_ja": "庭井 祐輔",
+      "name_en": "Yusuke Niwai",
+      "slug": "yusuke-niwai-142",
+      "position": "HO",
+      "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
-      "caps": "U20('07)、日本代表(35)",
-      "age": "37.0",
-      "height": "178.0",
-      "weight": "111.0"
+      "caps": "U20('10,'11)、日本代表(10)",
+      "age": "34.0",
+      "height": "174.0",
+      "weight": "95.0"
     },
     {
       "name_ja": "山中 亮平",
       "name_en": "Ryohei Yamanaka",
-      "slug": "ryohei-yamanaka-176",
+      "slug": "ryohei-yamanaka-171",
       "position": "FB",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -675,7 +687,7 @@
     {
       "name_ja": "小林 賢太",
       "name_en": "Kenta Kobayashi",
-      "slug": "kenta-kobayashi-192",
+      "slug": "kenta-kobayashi-198",
       "position": "PR",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -687,7 +699,7 @@
     {
       "name_ja": "為房 慶次朗",
       "name_en": "Keijiro Tamefusa",
-      "slug": "keijiro-tamefusa-213",
+      "slug": "keijiro-tamefusa-211",
       "position": "PR",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -695,18 +707,6 @@
       "age": "24.0",
       "height": "180.0",
       "weight": "108.0"
-    },
-    {
-      "name_ja": "安田 卓平",
-      "name_en": "Takuhei Yasuda",
-      "slug": "takuhei-yasuda-220",
-      "position": "FB",
-      "team": "浦安D-Rocks（2025-26）",
-      "league": "league-one",
-      "caps": "U20('16)、U23('16,'17)、日本代表(2)",
-      "age": "29.0",
-      "height": "177.0",
-      "weight": "80.0"
     },
     {
       "name_ja": "前田 土芽",
@@ -721,33 +721,9 @@
       "weight": "90.0"
     },
     {
-      "name_ja": "下川 甲嗣",
-      "name_en": "Kanji Shimokawa",
-      "slug": "kanji-shimokawa-240",
-      "position": "FL/No8",
-      "team": "東京サントリーサンゴリアス（2025-26）",
-      "league": "league-one",
-      "caps": "U20,U23('18)、XV('25)、日本代表(23)",
-      "age": "27.0",
-      "height": "188.0",
-      "weight": "105.0"
-    },
-    {
-      "name_ja": "高野 蓮",
-      "name_en": "Ren Takano",
-      "slug": "ren-takano-245",
-      "position": "WTB",
-      "team": "花園近鉄ライナーズ（2025-26）",
-      "league": "league-one",
-      "caps": "U20('16)、セブンズ日本(1)",
-      "age": "29.0",
-      "height": "175.0",
-      "weight": "83.0"
-    },
-    {
       "name_ja": "北川 賢吾",
       "name_en": "Kengo Kitagawa",
-      "slug": "kengo-kitagawa-252",
+      "slug": "kengo-kitagawa-239",
       "position": "PR",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -757,9 +733,33 @@
       "weight": "106.0"
     },
     {
+      "name_ja": "高野 蓮",
+      "name_en": "Ren Takano",
+      "slug": "ren-takano-243",
+      "position": "WTB",
+      "team": "花園近鉄ライナーズ（2025-26）",
+      "league": "league-one",
+      "caps": "U20('16)、セブンズ日本(1)",
+      "age": "29.0",
+      "height": "175.0",
+      "weight": "83.0"
+    },
+    {
+      "name_ja": "下川 甲嗣",
+      "name_en": "Kanji Shimokawa",
+      "slug": "kanji-shimokawa-245",
+      "position": "FL/No8",
+      "team": "東京サントリーサンゴリアス（2025-26）",
+      "league": "league-one",
+      "caps": "U20,U23('18)、XV('25)、日本代表(23)",
+      "age": "27.0",
+      "height": "188.0",
+      "weight": "105.0"
+    },
+    {
       "name_ja": "木田 晴斗",
       "name_en": "Haruto Kida",
-      "slug": "haruto-kida-254",
+      "slug": "haruto-kida-248",
       "position": "WTB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -793,9 +793,21 @@
       "weight": "76.0"
     },
     {
+      "name_ja": "安田 卓平",
+      "name_en": "Takuhei Yasuda",
+      "slug": "takuhei-yasuda-267",
+      "position": "FB",
+      "team": "浦安D-Rocks（2025-26）",
+      "league": "league-one",
+      "caps": "U20('16)、U23('16,'17)、日本代表(2)",
+      "age": "29.0",
+      "height": "177.0",
+      "weight": "80.0"
+    },
+    {
       "name_ja": "立川 理道",
       "name_en": "Harumichi Tatekawa",
-      "slug": "harumichi-tatekawa-273",
+      "slug": "harumichi-tatekawa-272",
       "position": "CTB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -807,7 +819,7 @@
     {
       "name_ja": "梶村 祐介",
       "name_en": "Yusuke Kajimura",
-      "slug": "yusuke-kajimura-284",
+      "slug": "yusuke-kajimura-286",
       "position": "CTB",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -815,18 +827,6 @@
       "age": "30.0",
       "height": "181.0",
       "weight": "95.0"
-    },
-    {
-      "name_ja": "稲垣 啓太",
-      "name_en": "Keita Inagaki",
-      "slug": "keita-inagaki-285",
-      "position": "PR",
-      "team": "埼玉パナソニックワイルドナイツ（2025-26）",
-      "league": "league-one",
-      "caps": "U20('08)、日本代表(53)",
-      "age": "35.0",
-      "height": "186.0",
-      "weight": "116.0"
     },
     {
       "name_ja": "レメキ ロマノラウァ",
@@ -843,7 +843,7 @@
     {
       "name_ja": "ヘル ウウェ",
       "name_en": "Uwe Helu",
-      "slug": "uwe-helu-96",
+      "slug": "uwe-helu-186",
       "position": "LO",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -855,7 +855,7 @@
     {
       "name_ja": "中野 将宏",
       "name_en": "Masahiro Nakano",
-      "slug": "masahiro-nakano-33",
+      "slug": "masahiro-nakano-28",
       "position": "WTB",
       "team": "中国電力レッドレグリオンズ（2025-26）",
       "league": "league-one",
@@ -891,7 +891,7 @@
     {
       "name_ja": "山田 響",
       "name_en": "Yamada Hibiki",
-      "slug": "yamada-hibiki-279",
+      "slug": "yamada-hibiki-285",
       "position": "UTB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -915,7 +915,7 @@
     {
       "name_ja": "長田 智希",
       "name_en": "Tomoki Osada",
-      "slug": "tomoki-osada-26",
+      "slug": "tomoki-osada-21",
       "position": "CTB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -927,7 +927,7 @@
     {
       "name_ja": "クレイク ミラー",
       "name_en": "Craig Millar",
-      "slug": "craig-millar-100",
+      "slug": "craig-millar-96",
       "position": "PR",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -939,7 +939,7 @@
     {
       "name_ja": "山本 凱",
       "name_en": "Kai Yamamoto",
-      "slug": "kai-yamamoto-209",
+      "slug": "kai-yamamoto-214",
       "position": "FL/No8",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -951,7 +951,7 @@
     {
       "name_ja": "紙森 陽太",
       "name_en": "Yota Kamimori",
-      "slug": "yota-kamimori-248",
+      "slug": "yota-kamimori-252",
       "position": "PR",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -975,7 +975,7 @@
     {
       "name_ja": "ヘン カンター",
       "name_en": "Ben Gunter",
-      "slug": "ben-gunter-328",
+      "slug": "ben-gunter-337",
       "position": "FL/No8",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -987,7 +987,7 @@
     {
       "name_ja": "福井 翔大",
       "name_en": "Shota Fukui",
-      "slug": "shota-fukui-535",
+      "slug": "shota-fukui-525",
       "position": "FL/No8",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -999,7 +999,7 @@
     {
       "name_ja": "李 承信",
       "name_en": "Seungsin Lee",
-      "slug": "seungsin-lee-959",
+      "slug": "seungsin-lee-954",
       "position": "UTB",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1011,7 +1011,7 @@
     {
       "name_ja": "豊島 翔平",
       "name_en": "Shohei Toyoshima",
-      "slug": "shohei-toyoshima-79",
+      "slug": "shohei-toyoshima-103",
       "position": "FB",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -1035,7 +1035,7 @@
     {
       "name_ja": "シオサイア フィフィタ",
       "name_en": "Siosaia Fifita",
-      "slug": "siosaia-fifita-275",
+      "slug": "siosaia-fifita-271",
       "position": "CTB",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1047,7 +1047,7 @@
     {
       "name_ja": "後藤 輝也",
       "name_en": "Teruya Goto",
-      "slug": "teruya-goto-99",
+      "slug": "teruya-goto-219",
       "position": "WTB",
       "team": "NECグリーンロケッツ東葛（2025-26）",
       "league": "league-one",
@@ -1071,7 +1071,7 @@
     {
       "name_ja": "ティモ スフィア",
       "name_en": "Timo Sufia",
-      "slug": "timo-sufia-19",
+      "slug": "timo-sufia-13",
       "position": "CTB",
       "team": "花園近鉄ライナーズ（2025-26）",
       "league": "league-one",
@@ -1083,7 +1083,7 @@
     {
       "name_ja": "大石 力也",
       "name_en": "Rikiya Oishi",
-      "slug": "rikiya-oishi-229",
+      "slug": "rikiya-oishi-228",
       "position": "FL/No8",
       "team": "ヤクルトレビンズ戸田（2025-26）",
       "league": "league-one",
@@ -1095,7 +1095,7 @@
     {
       "name_ja": "アタアタ モエアキオラ",
       "name_en": "Ataata Moeakiola",
-      "slug": "ataata-moeakiola-80",
+      "slug": "ataata-moeakiola-105",
       "position": "WTB",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1107,7 +1107,7 @@
     {
       "name_ja": "中嶋 大希",
       "name_en": "Daiki Nakajima",
-      "slug": "daiki-nakajima-134",
+      "slug": "daiki-nakajima-131",
       "position": "SH",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1119,7 +1119,7 @@
     {
       "name_ja": "堀越 康介",
       "name_en": "Kosuke Horikoshi",
-      "slug": "kosuke-horikoshi-12",
+      "slug": "kosuke-horikoshi-6",
       "position": "HO",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -1131,7 +1131,7 @@
     {
       "name_ja": "具 智元",
       "name_en": "Jiwon Gu",
-      "slug": "jiwon-gu-39",
+      "slug": "jiwon-gu-46",
       "position": "PR",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1155,7 +1155,7 @@
     {
       "name_ja": "小山 大輝",
       "name_en": "Taiki Koyama",
-      "slug": "taiki-koyama-112",
+      "slug": "taiki-koyama-119",
       "position": "SH",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -1167,7 +1167,7 @@
     {
       "name_ja": "野口 竜司",
       "name_en": "Ryuji Noguchi",
-      "slug": "ryuji-noguchi-141",
+      "slug": "ryuji-noguchi-143",
       "position": "FB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -1191,7 +1191,7 @@
     {
       "name_ja": "テヒタ タタフ",
       "name_en": "Tevita Tatafu",
-      "slug": "tevita-tatafu-191",
+      "slug": "tevita-tatafu-197",
       "position": "FL/No8",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -1203,7 +1203,7 @@
     {
       "name_ja": "朝長 駿",
       "name_en": "Shun Tomonaga",
-      "slug": "shun-tomonaga-205",
+      "slug": "shun-tomonaga-203",
       "position": "FL/No8",
       "team": "日野レッドドルフィンズ（2025-26）",
       "league": "league-one",
@@ -1227,7 +1227,7 @@
     {
       "name_ja": "松井 千士",
       "name_en": "Chihito Matsui",
-      "slug": "chihito-matsui-244",
+      "slug": "chihito-matsui-246",
       "position": "WTB",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -1239,7 +1239,7 @@
     {
       "name_ja": "ウィリアム トゥホウ",
       "name_en": "William Tupou",
-      "slug": "william-tupou-1155",
+      "slug": "william-tupou-1157",
       "position": "FL/No8",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1251,7 +1251,7 @@
     {
       "name_ja": "石井 勇輝",
       "name_en": "Yuki Ishii",
-      "slug": "yuki-ishii-29",
+      "slug": "yuki-ishii-24",
       "position": "WTB",
       "team": "レッドハリケーンズ大阪（2025-26）",
       "league": "league-one",
@@ -1263,7 +1263,7 @@
     {
       "name_ja": "ケレヒ ショシュア",
       "name_en": "Josua Kerevi",
-      "slug": "josua-kerevi-140",
+      "slug": "josua-kerevi-137",
       "position": "UTB",
       "team": "豊田自動織機シャトルズ愛知（2025-26）",
       "league": "league-one",
@@ -1287,7 +1287,7 @@
     {
       "name_ja": "谷中 樹平",
       "name_en": "Kippei Taninaka",
-      "slug": "kippei-taninaka-187",
+      "slug": "kippei-taninaka-192",
       "position": "SH",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1299,7 +1299,7 @@
     {
       "name_ja": "エヒネリ ウルイウァイティ",
       "name_en": "Epineri Uluiviti",
-      "slug": "epineri-uluiviti-1094",
+      "slug": "epineri-uluiviti-1101",
       "position": "LO",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -1333,21 +1333,9 @@
       "weight": "98.0"
     },
     {
-      "name_ja": "北出 卓也",
-      "name_en": "Takuya Kitade",
-      "slug": "takuya-kitade-76",
-      "position": "HO",
-      "team": "コベルコ神戸スティーラーズ（2025-26）",
-      "league": "league-one",
-      "caps": "高校('10)、日本代表(1)",
-      "age": "33.0",
-      "height": "180.0",
-      "weight": "100.0"
-    },
-    {
       "name_ja": "渡邉 隆之",
       "name_en": "Takayuki Watanabe",
-      "slug": "takayuki-watanabe-77",
+      "slug": "takayuki-watanabe-76",
       "position": "PR",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1357,9 +1345,21 @@
       "weight": "117.0"
     },
     {
+      "name_ja": "北出 卓也",
+      "name_en": "Takuya Kitade",
+      "slug": "takuya-kitade-77",
+      "position": "HO",
+      "team": "コベルコ神戸スティーラーズ（2025-26）",
+      "league": "league-one",
+      "caps": "高校('10)、日本代表(1)",
+      "age": "33.0",
+      "height": "180.0",
+      "weight": "100.0"
+    },
+    {
       "name_ja": "サナイラ ワクァ",
       "name_en": "Sanaila Waqa",
-      "slug": "sanaila-waqa-1085",
+      "slug": "sanaila-waqa-1080",
       "position": "LO",
       "team": "花園近鉄ライナーズ（2025-26）",
       "league": "league-one",
@@ -1381,21 +1381,9 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "金 正奎",
-      "name_en": "Shokei Kin",
-      "slug": "shokei-kin-277",
-      "position": "HO",
-      "team": "浦安D-Rocks（2025-26）",
-      "league": "league-one",
-      "caps": "高校('09)、'10、U20('11)、U23('16)、セブンズ日本(1)、日本代表(7)",
-      "age": "34.0",
-      "height": "177.0",
-      "weight": "95.0"
-    },
-    {
       "name_ja": "大内 錬",
       "name_en": "Ren Ouchi",
-      "slug": "ren-ouchi-280",
+      "slug": "ren-ouchi-276",
       "position": "FB",
       "team": "マツダスカイアクティブズ広島（2025-26）",
       "league": "league-one",
@@ -1405,9 +1393,21 @@
       "weight": "88.0"
     },
     {
+      "name_ja": "金 正奎",
+      "name_en": "Shokei Kin",
+      "slug": "shokei-kin-289",
+      "position": "HO",
+      "team": "浦安D-Rocks（2025-26）",
+      "league": "league-one",
+      "caps": "高校('09)、'10、U20('11)、U23('16)、セブンズ日本(1)、日本代表(7)",
+      "age": "34.0",
+      "height": "177.0",
+      "weight": "95.0"
+    },
+    {
       "name_ja": "マロ ツイタマ",
       "name_en": "Malo Tuitama",
-      "slug": "malo-tuitama-361",
+      "slug": "malo-tuitama-368",
       "position": "WTB",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -1419,7 +1419,7 @@
     {
       "name_ja": "松島 幸太朗",
       "name_en": "Kotaro Matsushima",
-      "slug": "kotaro-matsushima-447",
+      "slug": "kotaro-matsushima-434",
       "position": "FB",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -1431,7 +1431,7 @@
     {
       "name_ja": "チャーリー ローレンス",
       "name_en": "Charlie Lawrence",
-      "slug": "charlie-lawrence-1181",
+      "slug": "charlie-lawrence-1200",
       "position": "CTB",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -1443,7 +1443,7 @@
     {
       "name_ja": "松橋 周平",
       "name_en": "Shuhei Matsuhashi",
-      "slug": "shuhei-matsuhashi-258",
+      "slug": "shuhei-matsuhashi-270",
       "position": "FL/No8",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -1455,7 +1455,7 @@
     {
       "name_ja": "岡部 崇人",
       "name_en": "Takato Okabe",
-      "slug": "takato-okabe-286",
+      "slug": "takato-okabe-290",
       "position": "PR",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -1477,21 +1477,9 @@
       "weight": "80.0"
     },
     {
-      "name_ja": "マルシーン イラウア",
-      "name_en": "Malgene Ilaua",
-      "slug": "malgene-ilaua-200",
-      "position": "FL/No8",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": "日本代表(7)",
-      "age": "32.0",
-      "height": "187.0",
-      "weight": "109.0"
-    },
-    {
       "name_ja": "中野 剛通",
       "name_en": "Takemichi Nakano",
-      "slug": "takemichi-nakano-219",
+      "slug": "takemichi-nakano-188",
       "position": "FB",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1501,9 +1489,21 @@
       "weight": "96.0"
     },
     {
+      "name_ja": "マルシーン イラウア",
+      "name_en": "Malgene Ilaua",
+      "slug": "malgene-ilaua-190",
+      "position": "FL/No8",
+      "team": "静岡ブルーレヴズ（2025-26）",
+      "league": "league-one",
+      "caps": "日本代表(7)",
+      "age": "32.0",
+      "height": "187.0",
+      "weight": "109.0"
+    },
+    {
       "name_ja": "ニコラス マクカラン",
       "name_en": "Nicholas McCurran",
-      "slug": "nicholas-mccurran-267",
+      "slug": "nicholas-mccurran-278",
       "position": "CTB",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1515,7 +1515,7 @@
     {
       "name_ja": "セミシ マシレワ",
       "name_en": "Semisi Masirewa",
-      "slug": "semisi-masirewa-929",
+      "slug": "semisi-masirewa-931",
       "position": "WTB",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -1537,21 +1537,9 @@
       "weight": "124.0"
     },
     {
-      "name_ja": "荻田 直弥",
-      "name_en": "Naoya Ogita",
-      "slug": "naoya-ogita-147",
-      "position": "WTB",
-      "team": "NECグリーンロケッツ東葛（2025-26）",
-      "league": "league-one",
-      "caps": "セブンズ日本(6)",
-      "age": "23.0",
-      "height": "187.0",
-      "weight": "91.0"
-    },
-    {
       "name_ja": "茂原 隆由",
       "name_en": "Takayoshi Mohara",
-      "slug": "takayoshi-mohara-163",
+      "slug": "takayoshi-mohara-156",
       "position": "PR",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -1573,9 +1561,21 @@
       "weight": "107.0"
     },
     {
+      "name_ja": "荻田 直弥",
+      "name_en": "Naoya Ogita",
+      "slug": "naoya-ogita-268",
+      "position": "WTB",
+      "team": "NECグリーンロケッツ東葛（2025-26）",
+      "league": "league-one",
+      "caps": "セブンズ日本(6)",
+      "age": "23.0",
+      "height": "187.0",
+      "weight": "91.0"
+    },
+    {
       "name_ja": "サム クリーン",
       "name_en": "Sam Greene",
-      "slug": "sam-greene-438",
+      "slug": "sam-greene-435",
       "position": "SO",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -1587,7 +1587,7 @@
     {
       "name_ja": "ワイサケ ララトゥフア",
       "name_en": "Waisake Raratubua",
-      "slug": "waisake-raratubua-62",
+      "slug": "waisake-raratubua-67",
       "position": "LO",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -1595,18 +1595,6 @@
       "age": "27.0",
       "height": "195.0",
       "weight": "120.0"
-    },
-    {
-      "name_ja": "大戸 裕矢",
-      "name_en": "Yuya Odo",
-      "slug": "yuya-odo-81",
-      "position": "LO",
-      "team": "静岡ブルーレヴズ（2025-26）",
-      "league": "league-one",
-      "caps": "日本代表(5)",
-      "age": "35.0",
-      "height": "187.0",
-      "weight": "100.0"
     },
     {
       "name_ja": "森川 由起乙",
@@ -1621,9 +1609,21 @@
       "weight": "113.0"
     },
     {
+      "name_ja": "リーチ マイケル",
+      "name_en": "Michael Leitch",
+      "slug": "michael-leitch-94",
+      "position": "FL/No8",
+      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "league": "league-one",
+      "caps": "セブンズ日本(5)、日本代表(92)",
+      "age": "37.0",
+      "height": "189.0",
+      "weight": "113.0"
+    },
+    {
       "name_ja": "日野 剛志",
       "name_en": "Takeshi Hino",
-      "slug": "takeshi-hino-102",
+      "slug": "takeshi-hino-97",
       "position": "HO",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -1633,16 +1633,16 @@
       "weight": "95.0"
     },
     {
-      "name_ja": "リーチ マイケル",
-      "name_en": "Michael Leitch",
-      "slug": "michael-leitch-107",
-      "position": "FL/No8",
-      "team": "東芝ブレイブルーパス東京（2025-26）",
+      "name_ja": "大戸 裕矢",
+      "name_en": "Yuya Odo",
+      "slug": "yuya-odo-106",
+      "position": "LO",
+      "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
-      "caps": "セブンズ日本(5)、日本代表(92)",
-      "age": "37.0",
-      "height": "189.0",
-      "weight": "113.0"
+      "caps": "日本代表(5)",
+      "age": "35.0",
+      "height": "187.0",
+      "weight": "100.0"
     },
     {
       "name_ja": "ショネ ナイカフラ",
@@ -1659,7 +1659,7 @@
     {
       "name_ja": "アイサイア マフスア",
       "name_en": "Isaiah Mapusua",
-      "slug": "isaiah-mapusua-170",
+      "slug": "isaiah-mapusua-181",
       "position": "FL/No8",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -1671,7 +1671,7 @@
     {
       "name_ja": "ケラート ファンテンヒーファー",
       "name_en": "Gerhard van den Heever",
-      "slug": "gerhard-van-den-heever-201",
+      "slug": "gerhard-van-den-heever-189",
       "position": "FB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -1683,7 +1683,7 @@
     {
       "name_ja": "加島 DJ",
       "name_en": "DJ Kashima",
-      "slug": "dj-kashima-58",
+      "slug": "dj-kashima-63",
       "position": "WTB",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -1695,7 +1695,7 @@
     {
       "name_ja": "荒牧 佑輔",
       "name_en": "Yusuke Aramaki",
-      "slug": "yusuke-aramaki-67",
+      "slug": "yusuke-aramaki-65",
       "position": "FB",
       "team": "ルリーロ福岡（2025-26）",
       "league": "league-one",
@@ -1719,7 +1719,7 @@
     {
       "name_ja": "タイラー ホール",
       "name_en": "Tyler Paul",
-      "slug": "tyler-paul-132",
+      "slug": "tyler-paul-138",
       "position": "LO",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -1731,7 +1731,7 @@
     {
       "name_ja": "植村 陽彦",
       "name_en": "Haruhiko Uemura",
-      "slug": "haruhiko-uemura-189",
+      "slug": "haruhiko-uemura-195",
       "position": "FB",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -1765,18 +1765,6 @@
       "weight": "95.0"
     },
     {
-      "name_ja": "石垣 航平",
-      "name_en": "Kohei Ishigaki",
-      "slug": "kohei-ishigaki-78",
-      "position": "FL/No8",
-      "team": "日本製鉄釜石シーウェイブス（2025-26）",
-      "league": "league-one",
-      "caps": "セブンズ日本(3)",
-      "age": "32.0",
-      "height": "183.0",
-      "weight": "110.0"
-    },
-    {
       "name_ja": "ハエア ミフィホセチ",
       "name_en": "MIFIPOSETI PAEA",
       "slug": "mifiposeti-paea-86",
@@ -1789,9 +1777,21 @@
       "weight": "109.0"
     },
     {
+      "name_ja": "石垣 航平",
+      "name_en": "Kohei Ishigaki",
+      "slug": "kohei-ishigaki-101",
+      "position": "FL/No8",
+      "team": "日本製鉄釜石シーウェイブス（2025-26）",
+      "league": "league-one",
+      "caps": "セブンズ日本(3)",
+      "age": "32.0",
+      "height": "183.0",
+      "weight": "110.0"
+    },
+    {
       "name_ja": "アセリ マシウォウ",
       "name_en": "Aseri Masivou",
-      "slug": "aseri-masivou-139",
+      "slug": "aseri-masivou-141",
       "position": "FL/No8",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -1803,7 +1803,7 @@
     {
       "name_ja": "矢富 洋則",
       "name_en": "Hironori Yatomi",
-      "slug": "hironori-yatomi-188",
+      "slug": "hironori-yatomi-194",
       "position": "WTB",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -1815,7 +1815,7 @@
     {
       "name_ja": "ファカタウァ アマト",
       "name_en": "Amato Fakatava",
-      "slug": "amato-fakatava-282",
+      "slug": "amato-fakatava-288",
       "position": "FL/No8",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -1839,7 +1839,7 @@
     {
       "name_ja": "ショニー ファアウリ",
       "name_en": "Johnny Faauli",
-      "slug": "johnny-faauli-727",
+      "slug": "johnny-faauli-722",
       "position": "CTB",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -1849,21 +1849,9 @@
       "weight": "100.0"
     },
     {
-      "name_ja": "安江 祥光",
-      "name_en": "Yasue Yoshimitsu",
-      "slug": "yasue-yoshimitsu-7",
-      "position": "HO",
-      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
-      "league": "league-one",
-      "caps": "日本代表(2)",
-      "age": "41.0",
-      "height": "176.0",
-      "weight": "109.0"
-    },
-    {
       "name_ja": "川崎 清純",
       "name_en": "Seijun Kawasaki",
-      "slug": "seijun-kawasaki-27",
+      "slug": "seijun-kawasaki-22",
       "position": "WTB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -1875,7 +1863,7 @@
     {
       "name_ja": "宮坂 航生",
       "name_en": "koki Miyasaka",
-      "slug": "koki-miyasaka-59",
+      "slug": "koki-miyasaka-57",
       "position": "SH",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -1887,7 +1875,7 @@
     {
       "name_ja": "山口 泰輝",
       "name_en": "Taiki Yamaguchi",
-      "slug": "taiki-yamaguchi-69",
+      "slug": "taiki-yamaguchi-58",
       "position": "FB",
       "team": "レッドハリケーンズ大阪（2025-26）",
       "league": "league-one",
@@ -1897,28 +1885,28 @@
       "weight": "90.0"
     },
     {
-      "name_ja": "山下 楽平",
-      "name_en": "Rakuhei Yamashita",
-      "slug": "rakuhei-yamashita-98",
-      "position": "FB",
-      "team": "三重ホンダヒート（2025-26）",
+      "name_ja": "安江 祥光",
+      "name_en": "Yasue Yoshimitsu",
+      "slug": "yasue-yoshimitsu-145",
+      "position": "HO",
+      "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
-      "caps": "セブンズ日本(2)",
-      "age": "34.0",
-      "height": "175.0",
-      "weight": "85.0"
+      "caps": "日本代表(2)",
+      "age": "41.0",
+      "height": "176.0",
+      "weight": "109.0"
     },
     {
-      "name_ja": "フィシフナ トゥイアキ",
-      "name_en": "Fisipuna Tuiaki",
-      "slug": "fisipuna-tuiaki-155",
-      "position": "CTB",
-      "team": "狭山セコムラガッツ（2025-26）",
+      "name_ja": "高橋 汰地",
+      "name_en": "Taichi Takahashi",
+      "slug": "taichi-takahashi-147",
+      "position": "WTB",
+      "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
-      "caps": "セブンズ日本(2)",
-      "age": "31.0",
-      "height": "188.0",
-      "weight": "108.0"
+      "caps": "日本代表(2)",
+      "age": "29.0",
+      "height": "180.0",
+      "weight": "91.0"
     },
     {
       "name_ja": "中村 悠人",
@@ -1935,7 +1923,7 @@
     {
       "name_ja": "森 太志",
       "name_en": "Futoshi Mori",
-      "slug": "futoshi-mori-164",
+      "slug": "futoshi-mori-163",
       "position": "HO",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -1945,9 +1933,21 @@
       "weight": "103.0"
     },
     {
+      "name_ja": "フィシフナ トゥイアキ",
+      "name_en": "Fisipuna Tuiaki",
+      "slug": "fisipuna-tuiaki-164",
+      "position": "CTB",
+      "team": "狭山セコムラガッツ（2025-26）",
+      "league": "league-one",
+      "caps": "セブンズ日本(2)",
+      "age": "31.0",
+      "height": "188.0",
+      "weight": "108.0"
+    },
+    {
       "name_ja": "須藤 元樹",
       "name_en": "Genki Sudou",
-      "slug": "genki-sudou-175",
+      "slug": "genki-sudou-170",
       "position": "PR",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -1957,21 +1957,21 @@
       "weight": "110.0"
     },
     {
-      "name_ja": "高橋 汰地",
-      "name_en": "Taichi Takahashi",
-      "slug": "taichi-takahashi-197",
-      "position": "WTB",
-      "team": "トヨタヴェルブリッツ（2025-26）",
+      "name_ja": "山下 楽平",
+      "name_en": "Rakuhei Yamashita",
+      "slug": "rakuhei-yamashita-201",
+      "position": "FB",
+      "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
-      "caps": "日本代表(2)",
-      "age": "29.0",
-      "height": "180.0",
-      "weight": "91.0"
+      "caps": "セブンズ日本(2)",
+      "age": "34.0",
+      "height": "175.0",
+      "weight": "85.0"
     },
     {
       "name_ja": "土橋 郁矢",
       "name_en": "Fumiya Dobashi",
-      "slug": "fumiya-dobashi-212",
+      "slug": "fumiya-dobashi-217",
       "position": "SO",
       "team": "レッドハリケーンズ大阪（2025-26）",
       "league": "league-one",
@@ -1981,33 +1981,9 @@
       "weight": "85.0"
     },
     {
-      "name_ja": "ハリー ホッキンクス",
-      "name_en": "Harry Hockings",
-      "slug": "harry-hockings-246",
-      "position": "LO",
-      "team": "東京サントリーサンゴリアス（2025-26）",
-      "league": "league-one",
-      "caps": "日本代表(2)",
-      "age": "27.0",
-      "height": "206.0",
-      "weight": "118.0"
-    },
-    {
-      "name_ja": "園中 良寛",
-      "name_en": "Yoshihiro Sononaka",
-      "slug": "yoshihiro-sononaka-253",
-      "position": "LO",
-      "team": "九州電力キューデンヴォルテクス（2025-26）",
-      "league": "league-one",
-      "caps": "セブンズ日本(2)",
-      "age": "34.0",
-      "height": "190.0",
-      "weight": "103.0"
-    },
-    {
       "name_ja": "中尾 隼太",
       "name_en": "Hayata Nakao",
-      "slug": "hayata-nakao-256",
+      "slug": "hayata-nakao-221",
       "position": "SO",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -2017,9 +1993,33 @@
       "weight": "87.0"
     },
     {
+      "name_ja": "園中 良寛",
+      "name_en": "Yoshihiro Sononaka",
+      "slug": "yoshihiro-sononaka-247",
+      "position": "LO",
+      "team": "九州電力キューデンヴォルテクス（2025-26）",
+      "league": "league-one",
+      "caps": "セブンズ日本(2)",
+      "age": "34.0",
+      "height": "190.0",
+      "weight": "103.0"
+    },
+    {
+      "name_ja": "ハリー ホッキンクス",
+      "name_en": "Harry Hockings",
+      "slug": "harry-hockings-249",
+      "position": "LO",
+      "team": "東京サントリーサンゴリアス（2025-26）",
+      "league": "league-one",
+      "caps": "日本代表(2)",
+      "age": "27.0",
+      "height": "206.0",
+      "weight": "118.0"
+    },
+    {
       "name_ja": "ハラトア ウァイレア",
       "name_en": "Halatoa Vailea",
-      "slug": "halatoa-vailea-271",
+      "slug": "halatoa-vailea-284",
       "position": "FB",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -2031,7 +2031,7 @@
     {
       "name_ja": "オヘティ ヘル",
       "name_en": "Opeti Helu",
-      "slug": "opeti-helu-633",
+      "slug": "opeti-helu-660",
       "position": "PR",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -2043,7 +2043,7 @@
     {
       "name_ja": "ラリー スルンカ",
       "name_en": "Larry Sulunga",
-      "slug": "larry-sulunga-689",
+      "slug": "larry-sulunga-676",
       "position": "WTB",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -2055,7 +2055,7 @@
     {
       "name_ja": "濱野 隼大",
       "name_en": "Junta Hamano",
-      "slug": "junta-hamano-1128",
+      "slug": "junta-hamano-920",
       "position": "WTB",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -2067,7 +2067,7 @@
     {
       "name_ja": "ショネ ナヘテレウ",
       "name_en": "Jone Nabetelevu",
-      "slug": "jone-nabetelevu-129",
+      "slug": "jone-nabetelevu-136",
       "position": "WTB",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -2091,7 +2091,7 @@
     {
       "name_ja": "床田 聖悟",
       "name_en": "Shogo Tokota",
-      "slug": "shogo-tokota-208",
+      "slug": "shogo-tokota-213",
       "position": "CTB",
       "team": "日野レッドドルフィンズ（2025-26）",
       "league": "league-one",
@@ -2151,7 +2151,7 @@
     {
       "name_ja": "藤井 健太郎",
       "name_en": "Kentarou Fujii",
-      "slug": "kentarou-fujii-272",
+      "slug": "kentarou-fujii-273",
       "position": "WTB",
       "team": "中国電力レッドレグリオンズ（2025-26）",
       "league": "league-one",
@@ -2165,7 +2165,7 @@
     {
       "name_ja": "アーロン スミス",
       "name_en": "Aaron Smith",
-      "slug": "aaron-smith-1168",
+      "slug": "aaron-smith-1166",
       "position": "SH",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -2189,7 +2189,7 @@
     {
       "name_ja": "フロティ レタリック",
       "name_en": "Brodie Retallick",
-      "slug": "brodie-retallick-1122",
+      "slug": "brodie-retallick-921",
       "position": "LO",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -2201,7 +2201,7 @@
     {
       "name_ja": "アーティ サヘア",
       "name_en": "Ardie Savea",
-      "slug": "ardie-savea-720",
+      "slug": "ardie-savea-727",
       "position": "FL/No8",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -2213,7 +2213,7 @@
     {
       "name_ja": "サム ケイン",
       "name_en": "Sam Cane",
-      "slug": "sam-cane-587",
+      "slug": "sam-cane-591",
       "position": "FL/No8",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -2237,7 +2237,7 @@
     {
       "name_ja": "TJ ヘレナラ",
       "name_en": "TJ Perenara",
-      "slug": "tj-perenara-842",
+      "slug": "tj-perenara-833",
       "position": "SH",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -2249,7 +2249,7 @@
     {
       "name_ja": "アントン レイナートフラウン",
       "name_en": "Anton Lienert-Brown",
-      "slug": "anton-lienert-brown-181",
+      "slug": "anton-lienert-brown-176",
       "position": "CTB",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -2273,7 +2273,7 @@
     {
       "name_ja": "リーコ イオアネ",
       "name_en": "Rieko IOANE",
-      "slug": "rieko-ioane-2160",
+      "slug": "rieko-ioane-1940",
       "position": "CTB",
       "team": "Leinster",
       "league": "urc",
@@ -2333,7 +2333,7 @@
     {
       "name_ja": "Nepo Laulala",
       "name_en": "Nepo Laulala",
-      "slug": "nepo-laulala-1307",
+      "slug": "nepo-laulala-1317",
       "position": "Prop",
       "team": "Gloucester Rugby",
       "league": "premiership",
@@ -2369,7 +2369,7 @@
     {
       "name_ja": "シャノン フリセル",
       "name_en": "Shannon Frizell",
-      "slug": "shannon-frizell-1056",
+      "slug": "shannon-frizell-1051",
       "position": "FL/No8",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -2401,6 +2401,18 @@
       "age": "28.0",
       "height": "193.0",
       "weight": "108.0"
+    },
+    {
+      "name_ja": "David HAVILI",
+      "name_en": "David HAVILI",
+      "slug": "david-havili",
+      "position": "CTB",
+      "team": "Crusaders",
+      "league": "super-rugby",
+      "caps": "New Zealand (25)",
+      "age": "31.0",
+      "height": "184.0",
+      "weight": "95.0"
     },
     {
       "name_ja": "Samisoni TAUKEI'AHO",
@@ -2439,18 +2451,6 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "David HAVILI",
-      "name_en": "David HAVILI",
-      "slug": "david-havili",
-      "position": "CTB",
-      "team": "Crusaders",
-      "league": "super-rugby",
-      "caps": "New Zealand (25)",
-      "age": "31.0",
-      "height": "184.0",
-      "weight": "95.0"
-    },
-    {
       "name_ja": "Tupou VAA'I",
       "name_en": "Tupou VAA'I",
       "slug": "tupou-va-ai",
@@ -2465,7 +2465,7 @@
     {
       "name_ja": "アキラ イオアネ",
       "name_en": "Akira Ioane",
-      "slug": "akira-ioane-478",
+      "slug": "akira-ioane-480",
       "position": "FL/No8",
       "team": "花園近鉄ライナーズ（2025-26）",
       "league": "league-one",
@@ -2477,7 +2477,7 @@
     {
       "name_ja": "マーク テレア",
       "name_en": "Mark Telea",
-      "slug": "mark-telea-1047",
+      "slug": "mark-telea-1042",
       "position": "WTB",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -2489,7 +2489,7 @@
     {
       "name_ja": "フラット ウェハー",
       "name_en": "Brad WEBER",
-      "slug": "brad-weber-228",
+      "slug": "brad-weber-237",
       "position": "SH",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -2513,7 +2513,7 @@
     {
       "name_ja": "チャールス ヒウタウ",
       "name_en": "Charles Piutau",
-      "slug": "charles-piutau-459",
+      "slug": "charles-piutau-449",
       "position": "CTB",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -2547,18 +2547,6 @@
       "weight": "83.0"
     },
     {
-      "name_ja": "Luke JACOBSON",
-      "name_en": "Luke JACOBSON",
-      "slug": "luke-jacobson",
-      "position": "FL/No8",
-      "team": "Chiefs",
-      "league": "super-rugby",
-      "caps": "New Zealand (15)",
-      "age": "28.0",
-      "height": "191.0",
-      "weight": "107.0"
-    },
-    {
       "name_ja": "Tawera KERR-BARLOW",
       "name_en": "Tawera KERR-BARLOW",
       "slug": "tawera-kerr-barlow",
@@ -2569,6 +2557,18 @@
       "age": "35.0",
       "height": "187.0",
       "weight": "92.0"
+    },
+    {
+      "name_ja": "Luke JACOBSON",
+      "name_en": "Luke JACOBSON",
+      "slug": "luke-jacobson",
+      "position": "FL/No8",
+      "team": "Chiefs",
+      "league": "super-rugby",
+      "caps": "New Zealand (15)",
+      "age": "28.0",
+      "height": "191.0",
+      "weight": "107.0"
     },
     {
       "name_ja": "Jack GOODHUE",
@@ -2595,18 +2595,6 @@
       "weight": "111.0"
     },
     {
-      "name_ja": "Fletcher NEWELL",
-      "name_en": "Fletcher NEWELL",
-      "slug": "fletcher-newell",
-      "position": "PR",
-      "team": "Crusaders",
-      "league": "super-rugby",
-      "caps": "New Zealand (8)",
-      "age": "26.0",
-      "height": "186.0",
-      "weight": "119.0"
-    },
-    {
       "name_ja": "Angus TA'AVAO",
       "name_en": "Angus TA'AVAO",
       "slug": "angus-taavao-matau",
@@ -2619,9 +2607,21 @@
       "weight": "127.0"
     },
     {
+      "name_ja": "Fletcher NEWELL",
+      "name_en": "Fletcher NEWELL",
+      "slug": "fletcher-newell",
+      "position": "PR",
+      "team": "Crusaders",
+      "league": "super-rugby",
+      "caps": "New Zealand (8)",
+      "age": "26.0",
+      "height": "186.0",
+      "weight": "119.0"
+    },
+    {
       "name_ja": "シャクソン ヘモホ",
       "name_en": "Jackson Hemopo",
-      "slug": "jackson-hemopo-466",
+      "slug": "jackson-hemopo-516",
       "position": "FL/No8",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -2645,7 +2645,7 @@
     {
       "name_ja": "セタ タマニハル",
       "name_en": "Seta Tamanivalu",
-      "slug": "seta-tamanivalu-493",
+      "slug": "seta-tamanivalu-483",
       "position": "CTB",
       "team": "東芝ブレイブルーパス東京（2025-26）",
       "league": "league-one",
@@ -2653,6 +2653,18 @@
       "age": "34.0",
       "height": "189.0",
       "weight": "104.0"
+    },
+    {
+      "name_ja": "Tamaiti WILLIAMS",
+      "name_en": "Tamaiti WILLIAMS",
+      "slug": "tamaiti-williams",
+      "position": "PR",
+      "team": "Crusaders",
+      "league": "super-rugby",
+      "caps": "New Zealand (3)",
+      "age": "25.0",
+      "height": "196.0",
+      "weight": "140.0"
     },
     {
       "name_ja": "Sevu REECE",
@@ -2679,18 +2691,6 @@
       "weight": "109.0"
     },
     {
-      "name_ja": "Tamaiti WILLIAMS",
-      "name_en": "Tamaiti WILLIAMS",
-      "slug": "tamaiti-williams",
-      "position": "PR",
-      "team": "Crusaders",
-      "league": "super-rugby",
-      "caps": "New Zealand (3)",
-      "age": "25.0",
-      "height": "196.0",
-      "weight": "140.0"
-    },
-    {
       "name_ja": "Cam ROIGARD",
       "name_en": "Cam ROIGARD",
       "slug": "cameron-roigard",
@@ -2715,18 +2715,6 @@
       "weight": "92.0"
     },
     {
-      "name_ja": "Jermaine AINSLEY",
-      "name_en": "Jermaine AINSLEY",
-      "slug": "jermaine-ainsley",
-      "position": "PR",
-      "team": "リヨン",
-      "league": "top14",
-      "caps": "New Zealand",
-      "age": "30.0",
-      "height": "181.0",
-      "weight": "127.0"
-    },
-    {
       "name_ja": "Abraham PAPALI'I",
       "name_en": "Abraham PAPALI'I",
       "slug": "abraham-papali-i",
@@ -2739,88 +2727,40 @@
       "weight": "128.0"
     },
     {
-      "name_ja": "Cortez RATIMA",
-      "name_en": "Cortez RATIMA",
-      "slug": "cortez-ratima",
-      "position": "SH",
-      "team": "Chiefs",
-      "league": "super-rugby",
-      "caps": "New Zealand",
-      "age": "25.0",
-      "height": "179.0",
-      "weight": "87.0"
-    },
-    {
-      "name_ja": "Cullen GRACE",
-      "name_en": "Cullen GRACE",
-      "slug": "cullen-grace",
-      "position": "LO",
-      "team": "Crusaders",
-      "league": "super-rugby",
-      "caps": "New Zealand",
-      "age": "26.0",
-      "height": "193.0",
-      "weight": "107.0"
-    },
-    {
-      "name_ja": "Brad SHIELDS",
-      "name_en": "Brad SHIELDS",
-      "slug": "brad-shields",
-      "position": "FL/No8",
-      "team": "Hurricanes",
-      "league": "super-rugby",
-      "caps": "New Zealand",
-      "age": "34.0",
-      "height": "194.0",
-      "weight": "113.0"
-    },
-    {
-      "name_ja": "Simon PARKER",
-      "name_en": "Simon PARKER",
-      "slug": "simon-parker",
-      "position": "FL/No8",
-      "team": "Chiefs",
-      "league": "super-rugby",
-      "caps": "New Zealand",
-      "age": "25.0",
-      "height": "193.0",
-      "weight": "109.0"
-    },
-    {
-      "name_ja": "Billy PROCTOR",
-      "name_en": "Billy PROCTOR",
-      "slug": "billy-proctor",
-      "position": "CTB",
-      "team": "Hurricanes",
-      "league": "super-rugby",
-      "caps": "New Zealand",
-      "age": "26.0",
-      "height": "187.0",
-      "weight": "98.0"
-    },
-    {
-      "name_ja": "Luke WHITELOCK",
-      "name_en": "Luke WHITELOCK",
-      "slug": "luke-whitelock",
-      "position": "FL/NO8",
-      "team": "ポー",
+      "name_ja": "Jermaine AINSLEY",
+      "name_en": "Jermaine AINSLEY",
+      "slug": "jermaine-ainsley",
+      "position": "PR",
+      "team": "リヨン",
       "league": "top14",
       "caps": "New Zealand",
-      "age": "35.0",
-      "height": "193.0",
-      "weight": "116.0"
+      "age": "30.0",
+      "height": "181.0",
+      "weight": "127.0"
     },
     {
-      "name_ja": "Hoskins SOTUTU",
-      "name_en": "Hoskins SOTUTU",
-      "slug": "hoskins-sotutu",
-      "position": "FL/No8",
-      "team": "Blues",
+      "name_ja": "Asafo AUMUA",
+      "name_en": "Asafo AUMUA",
+      "slug": "asafo-aumua",
+      "position": "HO",
+      "team": "Hurricanes",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "27.0",
-      "height": "192.0",
-      "weight": "106.0"
+      "age": "28.0",
+      "height": "177.0",
+      "weight": "112.0"
+    },
+    {
+      "name_ja": "Aidan ROSS",
+      "name_en": "Aidan ROSS",
+      "slug": "aidan-ross",
+      "position": "PR",
+      "team": "Reds",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "30.0",
+      "height": "189.0",
+      "weight": "118.0"
     },
     {
       "name_ja": "Wallace SITITI",
@@ -2835,40 +2775,28 @@
       "weight": "113.0"
     },
     {
-      "name_ja": "Harry PLUMMER",
-      "name_en": "Harry PLUMMER",
-      "slug": "harry-plummer",
-      "position": "SO",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "New Zealand",
-      "age": "27.0",
-      "height": "184.0",
-      "weight": "99.0"
-    },
-    {
-      "name_ja": "Irae SIMONE",
-      "name_en": "Irae SIMONE",
-      "slug": "irae-simone",
-      "position": "CTB",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "New Zealand",
-      "age": "30.0",
-      "height": "193.0",
-      "weight": "105.0"
-    },
-    {
-      "name_ja": "Jeffery TOOMAGA-ALLEN",
-      "name_en": "Jeffery TOOMAGA-ALLEN",
-      "slug": "jeffery-toomaga-allen",
-      "position": "PR",
-      "team": "Reds",
+      "name_ja": "Niko JONES",
+      "name_en": "Niko JONES",
+      "slug": "niko-jones",
+      "position": "FL/No8",
+      "team": "Moana Pasifika",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "35.0",
-      "height": "192.0",
-      "weight": "125.0"
+      "age": "25.0",
+      "height": "186.0",
+      "weight": "103.0"
+    },
+    {
+      "name_ja": "Simon PARKER",
+      "name_en": "Simon PARKER",
+      "slug": "simon-parker",
+      "position": "FL/No8",
+      "team": "Chiefs",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "25.0",
+      "height": "193.0",
+      "weight": "109.0"
     },
     {
       "name_ja": "Braydon ENNOR",
@@ -2883,16 +2811,28 @@
       "weight": "94.0"
     },
     {
-      "name_ja": "Niko JONES",
-      "name_en": "Niko JONES",
-      "slug": "niko-jones",
+      "name_ja": "Brad SHIELDS",
+      "name_en": "Brad SHIELDS",
+      "slug": "brad-shields",
       "position": "FL/No8",
-      "team": "Moana Pasifika",
+      "team": "Hurricanes",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "34.0",
+      "height": "194.0",
+      "weight": "113.0"
+    },
+    {
+      "name_ja": "Cortez RATIMA",
+      "name_en": "Cortez RATIMA",
+      "slug": "cortez-ratima",
+      "position": "SH",
+      "team": "Chiefs",
       "league": "super-rugby",
       "caps": "New Zealand",
       "age": "25.0",
-      "height": "186.0",
-      "weight": "103.0"
+      "height": "179.0",
+      "weight": "87.0"
     },
     {
       "name_ja": "Du'Plessis KIRIFI",
@@ -2907,16 +2847,16 @@
       "weight": "103.0"
     },
     {
-      "name_ja": "Johnny MCNICHOLL",
-      "name_en": "Johnny MCNICHOLL",
-      "slug": "johnny-mcnicholl",
-      "position": "WTB",
-      "team": "Crusaders",
+      "name_ja": "Brandon PAENGA-AMOSA",
+      "name_en": "Brandon PAENGA-AMOSA",
+      "slug": "brandon-paenga-amosa",
+      "position": "HO",
+      "team": "Western Force",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "35.0",
-      "height": "191.0",
-      "weight": "96.0"
+      "age": "30.0",
+      "height": "183.0",
+      "weight": "117.0"
     },
     {
       "name_ja": "Veikoso POLONIATI",
@@ -2931,6 +2871,18 @@
       "weight": "130.0"
     },
     {
+      "name_ja": "Brett CAMERON",
+      "name_en": "Brett CAMERON",
+      "slug": "brett-cameron",
+      "position": "SO",
+      "team": "Hurricanes",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "29.0",
+      "height": "175.0",
+      "weight": "84.0"
+    },
+    {
       "name_ja": "Te Toiroa TAHURIORANGI",
       "name_en": "Te Toiroa TAHURIORANGI",
       "slug": "te-toiroa-tahuriorangi",
@@ -2941,6 +2893,18 @@
       "age": "30.0",
       "height": "174.0",
       "weight": "85.0"
+    },
+    {
+      "name_ja": "Cullen GRACE",
+      "name_en": "Cullen GRACE",
+      "slug": "cullen-grace",
+      "position": "LO",
+      "team": "Crusaders",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "26.0",
+      "height": "193.0",
+      "weight": "107.0"
     },
     {
       "name_ja": "Christian LIO-WILLIE",
@@ -2955,28 +2919,40 @@
       "weight": "109.0"
     },
     {
-      "name_ja": "Brett CAMERON",
-      "name_en": "Brett CAMERON",
-      "slug": "brett-cameron",
-      "position": "SO",
-      "team": "Hurricanes",
+      "name_ja": "Johnny MCNICHOLL",
+      "name_en": "Johnny MCNICHOLL",
+      "slug": "johnny-mcnicholl",
+      "position": "WTB",
+      "team": "Crusaders",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "29.0",
-      "height": "175.0",
-      "weight": "84.0"
+      "age": "35.0",
+      "height": "191.0",
+      "weight": "96.0"
     },
     {
-      "name_ja": "Asafo AUMUA",
-      "name_en": "Asafo AUMUA",
-      "slug": "asafo-aumua",
-      "position": "HO",
+      "name_ja": "Billy PROCTOR",
+      "name_en": "Billy PROCTOR",
+      "slug": "billy-proctor",
+      "position": "CTB",
       "team": "Hurricanes",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "28.0",
-      "height": "177.0",
-      "weight": "112.0"
+      "age": "26.0",
+      "height": "187.0",
+      "weight": "98.0"
+    },
+    {
+      "name_ja": "Pasilio TOSI",
+      "name_en": "Pasilio TOSI",
+      "slug": "pasilio-tosi",
+      "position": "PR",
+      "team": "Hurricanes",
+      "league": "super-rugby",
+      "caps": "New Zealand",
+      "age": "27.0",
+      "height": "193.0",
+      "weight": "145.0"
     },
     {
       "name_ja": "Peter LAKAI",
@@ -3003,47 +2979,71 @@
       "weight": "104.0"
     },
     {
-      "name_ja": "Brandon PAENGA-AMOSA",
-      "name_en": "Brandon PAENGA-AMOSA",
-      "slug": "brandon-paenga-amosa",
-      "position": "HO",
-      "team": "Western Force",
-      "league": "super-rugby",
+      "name_ja": "Harry PLUMMER",
+      "name_en": "Harry PLUMMER",
+      "slug": "harry-plummer",
+      "position": "SO",
+      "team": "クレルモン",
+      "league": "top14",
       "caps": "New Zealand",
-      "age": "30.0",
-      "height": "183.0",
-      "weight": "117.0"
+      "age": "27.0",
+      "height": "184.0",
+      "weight": "99.0"
     },
     {
-      "name_ja": "Pasilio TOSI",
-      "name_en": "Pasilio TOSI",
-      "slug": "pasilio-tosi",
-      "position": "PR",
-      "team": "Hurricanes",
+      "name_ja": "Hoskins SOTUTU",
+      "name_en": "Hoskins SOTUTU",
+      "slug": "hoskins-sotutu",
+      "position": "FL/No8",
+      "team": "Blues",
       "league": "super-rugby",
       "caps": "New Zealand",
       "age": "27.0",
-      "height": "193.0",
-      "weight": "145.0"
+      "height": "192.0",
+      "weight": "106.0"
     },
     {
-      "name_ja": "Aidan ROSS",
-      "name_en": "Aidan ROSS",
-      "slug": "aidan-ross",
+      "name_ja": "Irae SIMONE",
+      "name_en": "Irae SIMONE",
+      "slug": "irae-simone",
+      "position": "CTB",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "New Zealand",
+      "age": "30.0",
+      "height": "193.0",
+      "weight": "105.0"
+    },
+    {
+      "name_ja": "Jeffery TOOMAGA-ALLEN",
+      "name_en": "Jeffery TOOMAGA-ALLEN",
+      "slug": "jeffery-toomaga-allen",
       "position": "PR",
       "team": "Reds",
       "league": "super-rugby",
       "caps": "New Zealand",
-      "age": "30.0",
-      "height": "189.0",
-      "weight": "118.0"
+      "age": "35.0",
+      "height": "192.0",
+      "weight": "125.0"
+    },
+    {
+      "name_ja": "Luke WHITELOCK",
+      "name_en": "Luke WHITELOCK",
+      "slug": "luke-whitelock",
+      "position": "FL/NO8",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "New Zealand",
+      "age": "35.0",
+      "height": "193.0",
+      "weight": "116.0"
     }
   ],
   "south-africa": [
     {
       "name_ja": "エヘン-エツヘス",
       "name_en": "Eben ETZEBETH",
-      "slug": "eben-etzebeth-2216",
+      "slug": "eben-etzebeth-1602",
       "position": "LO",
       "team": "Sharks",
       "league": "urc",
@@ -3091,7 +3091,7 @@
     {
       "name_ja": "ヒーターステフ テュトイ",
       "name_en": "Pieter Steph Du Toit",
-      "slug": "pieter-steph-du-toit-474",
+      "slug": "pieter-steph-du-toit-464",
       "position": "FL/No8",
       "team": "トヨタヴェルブリッツ（2025-26）",
       "league": "league-one",
@@ -3103,7 +3103,7 @@
     {
       "name_ja": "フランコ モスタート",
       "name_en": "Franco Mostert",
-      "slug": "franco-mostert-251",
+      "slug": "franco-mostert-254",
       "position": "LO",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -3115,7 +3115,7 @@
     {
       "name_ja": "ハントレ-ホラート",
       "name_en": "Handre POLLARD",
-      "slug": "handre-pollard-1884",
+      "slug": "handre-pollard-1834",
       "position": "SO",
       "team": "Bulls",
       "league": "urc",
@@ -3127,7 +3127,7 @@
     {
       "name_ja": "マルコム マークス",
       "name_en": "Malcolm Marx",
-      "slug": "malcolm-marx-515",
+      "slug": "malcolm-marx-505",
       "position": "HO",
       "team": "クボタスピアーズ船橋・東京ベイ（2025-26）",
       "league": "league-one",
@@ -3139,7 +3139,7 @@
     {
       "name_ja": "フランス-マルハーハ",
       "name_en": "Frans MALHERBE",
-      "slug": "frans-malherbe-2068",
+      "slug": "frans-malherbe-1688",
       "position": "PR",
       "team": "Stormers",
       "league": "urc",
@@ -3151,7 +3151,7 @@
     {
       "name_ja": "シェシー クリエル",
       "name_en": "Jesse Kriel",
-      "slug": "jesse-kriel-180",
+      "slug": "jesse-kriel-175",
       "position": "CTB",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -3159,6 +3159,18 @@
       "age": "32.0",
       "height": "185.0",
       "weight": "95.0"
+    },
+    {
+      "name_ja": "トレウァー ニャカニ",
+      "name_en": "Trevor NYAKANE",
+      "slug": "trevor-nyakane-1992",
+      "position": "PR",
+      "team": "Sharks",
+      "league": "urc",
+      "caps": "South Africa (62)",
+      "age": "36.0",
+      "height": "178.0",
+      "weight": "122.0"
     },
     {
       "name_ja": "ホンキ ンホナンヒ",
@@ -3173,21 +3185,9 @@
       "weight": "118.0"
     },
     {
-      "name_ja": "トレウァー ニャカニ",
-      "name_en": "Trevor NYAKANE",
-      "slug": "trevor-nyakane-2062",
-      "position": "PR",
-      "team": "Sharks",
-      "league": "urc",
-      "caps": "South Africa (62)",
-      "age": "36.0",
-      "height": "178.0",
-      "weight": "122.0"
-    },
-    {
       "name_ja": "ファフ テクラーク",
       "name_en": "Faf De Klerk",
-      "slug": "faf-de-klerk-856",
+      "slug": "faf-de-klerk-858",
       "position": "SH",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -3199,7 +3199,7 @@
     {
       "name_ja": "ウィンセント コッホ",
       "name_en": "Vincent KOCH",
-      "slug": "vincent-koch-2267",
+      "slug": "vincent-koch-1630",
       "position": "PR",
       "team": "Sharks",
       "league": "urc",
@@ -3223,7 +3223,7 @@
     {
       "name_ja": "マカソレ マヒンヒ",
       "name_en": "Makazole MAPIMPI",
-      "slug": "makazole-mapimpi-1644",
+      "slug": "makazole-mapimpi-2059",
       "position": "WTB",
       "team": "Sharks",
       "league": "urc",
@@ -3235,7 +3235,7 @@
     {
       "name_ja": "ルカニョ アム",
       "name_en": "Lukhanyo Am",
-      "slug": "lukhanyo-am-608",
+      "slug": "lukhanyo-am-622",
       "position": "CTB",
       "team": "三菱重工相模原ダイナボアーズ（2025-26）",
       "league": "league-one",
@@ -3247,7 +3247,7 @@
     {
       "name_ja": "クワッカ スミス",
       "name_en": "Kwagga Smith",
-      "slug": "kwagga-smith-455",
+      "slug": "kwagga-smith-446",
       "position": "FL/No8",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -3259,7 +3259,7 @@
     {
       "name_ja": "タミアン-ウィレムセ",
       "name_en": "Damian WILLEMSE",
-      "slug": "damian-willemse-2210",
+      "slug": "damian-willemse-1703",
       "position": "SO",
       "team": "Stormers",
       "league": "urc",
@@ -3271,7 +3271,7 @@
     {
       "name_ja": "RG スナイマン",
       "name_en": "RG SNYMAN",
-      "slug": "rg-snyman-2190",
+      "slug": "rg-snyman-1899",
       "position": "LO",
       "team": "Leinster",
       "league": "urc",
@@ -3307,7 +3307,7 @@
     {
       "name_ja": "ヤスハー ウィーセ",
       "name_en": "Jasper Wiese",
-      "slug": "jasper-wiese-97",
+      "slug": "jasper-wiese-200",
       "position": "FL/No8",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -3317,21 +3317,9 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "ヤン-サーフォンテイン",
-      "name_en": "Jan SERFONTEIN",
-      "slug": "jan-serfontein-1614",
-      "position": "CTB",
-      "team": "Bulls",
-      "league": "urc",
-      "caps": "South Africa (21)",
-      "age": "32.0",
-      "height": "187.0",
-      "weight": "97.0"
-    },
-    {
       "name_ja": "オクス ンチェ",
       "name_en": "Ox NCHE",
-      "slug": "ox-nche-1762",
+      "slug": "ox-nche-1923",
       "position": "PR",
       "team": "Sharks",
       "league": "urc",
@@ -3341,28 +3329,16 @@
       "weight": "123.0"
     },
     {
-      "name_ja": "マーウィン オリー",
-      "name_en": "Marvin ORIE",
-      "slug": "marvin-orie-1702",
-      "position": "LO",
-      "team": "Sharks",
-      "league": "urc",
-      "caps": "South Africa (14)",
-      "age": "33.0",
-      "height": "198.0",
-      "weight": "118.0"
-    },
-    {
-      "name_ja": "マルコ ファン スターテン",
-      "name_en": "Marco VAN STADEN",
-      "slug": "marco-van-staden",
-      "position": "Back row",
+      "name_ja": "ヤン-サーフォンテイン",
+      "name_en": "Jan SERFONTEIN",
+      "slug": "jan-serfontein-2025",
+      "position": "CTB",
       "team": "Bulls",
       "league": "urc",
-      "caps": "South Africa (14)",
-      "age": "30.0",
-      "height": "184.0",
-      "weight": "112.0"
+      "caps": "South Africa (21)",
+      "age": "32.0",
+      "height": "187.0",
+      "weight": "97.0"
     },
     {
       "name_ja": "Andr ESTERHUIZEN",
@@ -3377,9 +3353,33 @@
       "weight": "115.0"
     },
     {
+      "name_ja": "マルコ ファン スターテン",
+      "name_en": "Marco VAN STADEN",
+      "slug": "marco-van-staden",
+      "position": "Back row",
+      "team": "Bulls",
+      "league": "urc",
+      "caps": "South Africa (14)",
+      "age": "30.0",
+      "height": "184.0",
+      "weight": "112.0"
+    },
+    {
+      "name_ja": "マーウィン オリー",
+      "name_en": "Marvin ORIE",
+      "slug": "marvin-orie-1997",
+      "position": "LO",
+      "team": "Sharks",
+      "league": "urc",
+      "caps": "South Africa (14)",
+      "age": "33.0",
+      "height": "198.0",
+      "weight": "118.0"
+    },
+    {
       "name_ja": "シェイテン-ヘントリクセ",
       "name_en": "Jaden HENDRIKSE",
-      "slug": "jaden-hendrikse-3226",
+      "slug": "jaden-hendrikse-2337",
       "position": "SH",
       "team": "Sharks",
       "league": "urc",
@@ -3387,6 +3387,18 @@
       "age": "25.0",
       "height": "184.0",
       "weight": "92.0"
+    },
+    {
+      "name_ja": "カート=リー アレンセ",
+      "name_en": "Kurt-Lee ARENDSE",
+      "slug": "kurt-lee-arendse-3164",
+      "position": "WTB",
+      "team": "Bulls",
+      "league": "urc",
+      "caps": "South Africa (10)",
+      "age": "29.0",
+      "height": "176.0",
+      "weight": "82.0"
     },
     {
       "name_ja": "Thomas DU TOIT",
@@ -3401,21 +3413,9 @@
       "weight": ""
     },
     {
-      "name_ja": "カート=リー アレンセ",
-      "name_en": "Kurt-Lee ARENDSE",
-      "slug": "kurt-lee-arendse-3034",
-      "position": "WTB",
-      "team": "Bulls",
-      "league": "urc",
-      "caps": "South Africa (10)",
-      "age": "29.0",
-      "height": "176.0",
-      "weight": "82.0"
-    },
-    {
       "name_ja": "マニー リホック",
       "name_en": "Manie Libbok",
-      "slug": "manie-libbok-17",
+      "slug": "manie-libbok-9",
       "position": "SO",
       "team": "花園近鉄ライナーズ（2025-26）",
       "league": "league-one",
@@ -3427,7 +3427,7 @@
     {
       "name_ja": "カナン-ムーティ",
       "name_en": "Canan MOODIE",
-      "slug": "canan-moodie-3409",
+      "slug": "canan-moodie-3248",
       "position": "WTB",
       "team": "Bulls",
       "league": "urc",
@@ -3451,7 +3451,7 @@
     {
       "name_ja": "テオン-フーリー",
       "name_en": "Deon FOURIE",
-      "slug": "deon-fourie-2572",
+      "slug": "deon-fourie-2705",
       "position": "FL/No8",
       "team": "Stormers",
       "league": "urc",
@@ -3463,7 +3463,7 @@
     {
       "name_ja": "クラント-ウィリアムス",
       "name_en": "Grant WILLIAMS",
-      "slug": "grant-williams-3336",
+      "slug": "grant-williams-3274",
       "position": "SH",
       "team": "Sharks",
       "league": "urc",
@@ -3471,18 +3471,6 @@
       "age": "29.0",
       "height": "174.0",
       "weight": "80.0"
-    },
-    {
-      "name_ja": "Dillyn LEYDS",
-      "name_en": "Dillyn LEYDS",
-      "slug": "dillyn-leyds",
-      "position": "WTB",
-      "team": "ラ・ロシェル",
-      "league": "top14",
-      "caps": "South Africa",
-      "age": "33.0",
-      "height": "183.0",
-      "weight": "88.0"
     },
     {
       "name_ja": "Jaco VAN TONDER",
@@ -3497,28 +3485,16 @@
       "weight": "118.0"
     },
     {
-      "name_ja": "Salmaan MOERAT",
-      "name_en": "Salmaan MOERAT",
-      "slug": "salmaan-moerat",
-      "position": "LO",
-      "team": "Stormers",
-      "league": "urc",
-      "caps": "South Africa",
-      "age": "28.0",
-      "height": "200.0",
-      "weight": "122.0"
-    },
-    {
-      "name_ja": "Rohan JANSE VAN RENSBURG",
-      "name_en": "Rohan JANSE VAN RENSBURG",
-      "slug": "rohan-janse-van-rensburg",
-      "position": "CTB",
-      "team": "ボルドー・ベグル",
+      "name_ja": "Dillyn LEYDS",
+      "name_en": "Dillyn LEYDS",
+      "slug": "dillyn-leyds",
+      "position": "WTB",
+      "team": "ラ・ロシェル",
       "league": "top14",
       "caps": "South Africa",
-      "age": "31.0",
-      "height": "185.0",
-      "weight": "109.0"
+      "age": "33.0",
+      "height": "183.0",
+      "weight": "88.0"
     },
     {
       "name_ja": "Siyabonga NTUBENI",
@@ -3533,6 +3509,18 @@
       "weight": "109.0"
     },
     {
+      "name_ja": "Oli KEBBLE",
+      "name_en": "Oli KEBBLE",
+      "slug": "oli-kebble",
+      "position": "PR",
+      "team": "Stormers",
+      "league": "urc",
+      "caps": "South Africa",
+      "age": "33.0",
+      "height": "191.0",
+      "weight": "124.0"
+    },
+    {
       "name_ja": "Nizaam CARR",
       "name_en": "Nizaam CARR",
       "slug": "nizaam-carr",
@@ -3545,6 +3533,30 @@
       "weight": "106.0"
     },
     {
+      "name_ja": "Rohan JANSE VAN RENSBURG",
+      "name_en": "Rohan JANSE VAN RENSBURG",
+      "slug": "rohan-janse-van-rensburg",
+      "position": "CTB",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "South Africa",
+      "age": "31.0",
+      "height": "185.0",
+      "weight": "109.0"
+    },
+    {
+      "name_ja": "Salmaan MOERAT",
+      "name_en": "Salmaan MOERAT",
+      "slug": "salmaan-moerat",
+      "position": "LO",
+      "team": "Stormers",
+      "league": "urc",
+      "caps": "South Africa",
+      "age": "28.0",
+      "height": "200.0",
+      "weight": "122.0"
+    },
+    {
       "name_ja": "Jean-Luc DU PREEZ",
       "name_en": "Jean-Luc DU PREEZ",
       "slug": "jean-luc-du-preez",
@@ -3555,18 +3567,6 @@
       "age": "30.0",
       "height": "194.0",
       "weight": "114.0"
-    },
-    {
-      "name_ja": "Oli KEBBLE",
-      "name_en": "Oli KEBBLE",
-      "slug": "oli-kebble",
-      "position": "PR",
-      "team": "Stormers",
-      "league": "urc",
-      "caps": "South Africa",
-      "age": "33.0",
-      "height": "191.0",
-      "weight": "124.0"
     }
   ],
   "france": [
@@ -3585,7 +3585,7 @@
     {
       "name_ja": "ラハ スリマニ",
       "name_en": "Rabah SLIMANI",
-      "slug": "rabah-slimani-1985",
+      "slug": "rabah-slimani-1951",
       "position": "PR",
       "team": "Leinster",
       "league": "urc",
@@ -3703,18 +3703,6 @@
       "weight": "87.0"
     },
     {
-      "name_ja": "Francois CROS",
-      "name_en": "Francois CROS",
-      "slug": "francois-cros",
-      "position": "FL/NO8",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France (34)",
-      "age": "31.0",
-      "height": "190.0",
-      "weight": "111.0"
-    },
-    {
       "name_ja": "Matthieu JALIBERT",
       "name_en": "Matthieu JALIBERT",
       "slug": "matthieu-jalibert",
@@ -3725,6 +3713,18 @@
       "age": "27.0",
       "height": "184.0",
       "weight": "86.0"
+    },
+    {
+      "name_ja": "Francois CROS",
+      "name_en": "Francois CROS",
+      "slug": "francois-cros",
+      "position": "FL/NO8",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France (34)",
+      "age": "31.0",
+      "height": "190.0",
+      "weight": "111.0"
     },
     {
       "name_ja": "Jean-Baptiste GROS",
@@ -4087,6 +4087,18 @@
       "weight": "118.0"
     },
     {
+      "name_ja": "Demba BAMBA",
+      "name_en": "Demba BAMBA",
+      "slug": "demba-bamba",
+      "position": "PR",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": "France (6)",
+      "age": "28.0",
+      "height": "185.0",
+      "weight": "125.0"
+    },
+    {
       "name_ja": "Emilien GAILLETON",
       "name_en": "Emilien GAILLETON",
       "slug": "emilien-gailleton",
@@ -4109,18 +4121,6 @@
       "age": "23.0",
       "height": "189.0",
       "weight": "89.0"
-    },
-    {
-      "name_ja": "Demba BAMBA",
-      "name_en": "Demba BAMBA",
-      "slug": "demba-bamba",
-      "position": "PR",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": "France (6)",
-      "age": "28.0",
-      "height": "185.0",
-      "weight": "125.0"
     },
     {
       "name_ja": "Matthis LEBEL",
@@ -4159,18 +4159,6 @@
       "weight": "86.0"
     },
     {
-      "name_ja": "Emerick SETIANO",
-      "name_en": "Emerick SETIANO",
-      "slug": "emerick-setiano",
-      "position": "PR",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": "France (3)",
-      "age": "29.0",
-      "height": "183.0",
-      "weight": "115.0"
-    },
-    {
       "name_ja": "Pierre-Louis BARASSI",
       "name_en": "Pierre-Louis BARASSI",
       "slug": "pierre-louis-barassi",
@@ -4183,16 +4171,16 @@
       "weight": "102.0"
     },
     {
-      "name_ja": "Antoine FRISCH",
-      "name_en": "Antoine FRISCH",
-      "slug": "antoine-frisch",
-      "position": "CTB",
-      "team": "トゥーロン",
+      "name_ja": "Emerick SETIANO",
+      "name_en": "Emerick SETIANO",
+      "slug": "emerick-setiano",
+      "position": "PR",
+      "team": "バイヨンヌ",
       "league": "top14",
-      "caps": "France (2)",
+      "caps": "France (3)",
       "age": "29.0",
-      "height": "188.0",
-      "weight": "99.0"
+      "height": "183.0",
+      "weight": "115.0"
     },
     {
       "name_ja": "Vincent RATTEZ",
@@ -4207,16 +4195,16 @@
       "weight": "89.0"
     },
     {
-      "name_ja": "Alivereti RAKA",
-      "name_en": "Alivereti RAKA",
-      "slug": "alivereti-raka",
-      "position": "WTB",
-      "team": "クレルモン",
+      "name_ja": "Antoine FRISCH",
+      "name_en": "Antoine FRISCH",
+      "slug": "antoine-frisch",
+      "position": "CTB",
+      "team": "トゥーロン",
       "league": "top14",
       "caps": "France (2)",
-      "age": "31.0",
-      "height": "189.0",
-      "weight": "105.0"
+      "age": "29.0",
+      "height": "188.0",
+      "weight": "99.0"
     },
     {
       "name_ja": "Nicolas DEPOORTERE",
@@ -4231,16 +4219,16 @@
       "weight": "94.0"
     },
     {
-      "name_ja": "Esteban ABADIE",
-      "name_en": "Esteban ABADIE",
-      "slug": "esteban-abadie",
-      "position": "FL/NO8",
-      "team": "トゥーロン",
+      "name_ja": "Alivereti RAKA",
+      "name_en": "Alivereti RAKA",
+      "slug": "alivereti-raka",
+      "position": "WTB",
+      "team": "クレルモン",
       "league": "top14",
-      "caps": "France (1)",
-      "age": "28.0",
-      "height": "188.0",
-      "weight": "100.0"
+      "caps": "France (2)",
+      "age": "31.0",
+      "height": "189.0",
+      "weight": "105.0"
     },
     {
       "name_ja": "Oscar JEGOU",
@@ -4253,6 +4241,30 @@
       "age": "22.0",
       "height": "190.0",
       "weight": "90.0"
+    },
+    {
+      "name_ja": "Esteban ABADIE",
+      "name_en": "Esteban ABADIE",
+      "slug": "esteban-abadie",
+      "position": "FL/NO8",
+      "team": "トゥーロン",
+      "league": "top14",
+      "caps": "France (1)",
+      "age": "28.0",
+      "height": "188.0",
+      "weight": "100.0"
+    },
+    {
+      "name_ja": "Thomas LACLAYAT",
+      "name_en": "Thomas LACLAYAT",
+      "slug": "thomas-laclayat",
+      "position": "PR",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "France (1)",
+      "age": "28.0",
+      "height": "177.0",
+      "weight": "125.0"
     },
     {
       "name_ja": "Marko GAZZOTTI",
@@ -4279,52 +4291,16 @@
       "weight": "105.0"
     },
     {
-      "name_ja": "Thomas LACLAYAT",
-      "name_en": "Thomas LACLAYAT",
-      "slug": "thomas-laclayat",
-      "position": "PR",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "France (1)",
-      "age": "28.0",
-      "height": "177.0",
-      "weight": "125.0"
-    },
-    {
-      "name_ja": "Jordan JOSEPH",
-      "name_en": "Jordan JOSEPH",
-      "slug": "jordan-joseph",
+      "name_ja": "Mathieu BABILLOT",
+      "name_en": "Mathieu BABILLOT",
+      "slug": "mathieu-babillot",
       "position": "FL/NO8",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": "France",
-      "age": "25.0",
-      "height": "190.0",
-      "weight": "124.0"
-    },
-    {
-      "name_ja": "Mohamed HAOUAS",
-      "name_en": "Mohamed HAOUAS",
-      "slug": "mohammed-houas",
-      "position": "PR",
-      "team": "モンペリエ",
+      "team": "カストル",
       "league": "top14",
       "caps": "France",
       "age": "32.0",
-      "height": "185.0",
-      "weight": "127.0"
-    },
-    {
-      "name_ja": "Anthony BOUTHIER",
-      "name_en": "Anthony BOUTHIER",
-      "slug": "anthony-bouthier",
-      "position": "FB",
-      "team": "ヴァンヌ",
-      "league": "top14",
-      "caps": "France",
-      "age": "33.0",
-      "height": "182.0",
-      "weight": "86.0"
+      "height": "190.0",
+      "weight": "111.0"
     },
     {
       "name_ja": "Leo BERDEU",
@@ -4339,64 +4315,16 @@
       "weight": "99.0"
     },
     {
-      "name_ja": "Judicael CANCORIET",
-      "name_en": "Judicael CANCORIET",
-      "slug": "judicael-cancoriet",
-      "position": "FL/NO8",
-      "team": "ラ・ロシェル",
-      "league": "top14",
-      "caps": "France",
-      "age": "29.0",
-      "height": "194.0",
-      "weight": "116.0"
-    },
-    {
-      "name_ja": "Swan REBBADJ",
-      "name_en": "Swan REBBADJ",
-      "slug": "swan-rebbadj",
+      "name_ja": "Matthias HALAGAHU",
+      "name_en": "Matthias HALAGAHU",
+      "slug": "matthias-halagahu",
       "position": "LO",
       "team": "トゥーロン",
       "league": "top14",
       "caps": "France",
-      "age": "31.0",
-      "height": "202.0",
-      "weight": "121.0"
-    },
-    {
-      "name_ja": "Giorgi BERIA",
-      "name_en": "Giorgi BERIA",
-      "slug": "giorgi-beria",
-      "position": "PR",
-      "team": "ペルピニャン",
-      "league": "top14",
-      "caps": "France",
-      "age": "26.0",
-      "height": "175.0",
-      "weight": "108.0"
-    },
-    {
-      "name_ja": "Enzo FORLETTA",
-      "name_en": "Enzo FORLETTA",
-      "slug": "enzo-forletta",
-      "position": "PR",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": "France",
-      "age": "31.0",
-      "height": "175.0",
-      "weight": "118.0"
-    },
-    {
-      "name_ja": "Mathieu BABILLOT",
-      "name_en": "Mathieu BABILLOT",
-      "slug": "mathieu-babillot",
-      "position": "FL/NO8",
-      "team": "カストル",
-      "league": "top14",
-      "caps": "France",
-      "age": "32.0",
-      "height": "190.0",
-      "weight": "111.0"
+      "age": "24.0",
+      "height": "194.0",
+      "weight": "117.0"
     },
     {
       "name_ja": "Teddy BAUBIGNY",
@@ -4411,16 +4339,16 @@
       "weight": "109.0"
     },
     {
-      "name_ja": "Matthias HALAGAHU",
-      "name_en": "Matthias HALAGAHU",
-      "slug": "matthias-halagahu",
+      "name_ja": "Swan REBBADJ",
+      "name_en": "Swan REBBADJ",
+      "slug": "swan-rebbadj",
       "position": "LO",
       "team": "トゥーロン",
       "league": "top14",
       "caps": "France",
-      "age": "24.0",
-      "height": "194.0",
-      "weight": "117.0"
+      "age": "31.0",
+      "height": "202.0",
+      "weight": "121.0"
     },
     {
       "name_ja": "Marco TAULEIGNE",
@@ -4435,16 +4363,16 @@
       "weight": "118.0"
     },
     {
-      "name_ja": "Killian GERACI",
-      "name_en": "Killian GERACI",
-      "slug": "killian-geraci",
-      "position": "LO",
-      "team": "リヨン",
+      "name_ja": "Giorgi BERIA",
+      "name_en": "Giorgi BERIA",
+      "slug": "giorgi-beria",
+      "position": "PR",
+      "team": "ペルピニャン",
       "league": "top14",
       "caps": "France",
       "age": "26.0",
-      "height": "200.0",
-      "weight": "118.0"
+      "height": "175.0",
+      "weight": "108.0"
     },
     {
       "name_ja": "Paul JEDRASIAK",
@@ -4459,16 +4387,28 @@
       "weight": "121.0"
     },
     {
-      "name_ja": "Geoffrey PALIS",
-      "name_en": "Geoffrey PALIS",
-      "slug": "geoffrey-palis",
-      "position": "WTB",
-      "team": "カストル",
+      "name_ja": "Killian GERACI",
+      "name_en": "Killian GERACI",
+      "slug": "killian-geraci",
+      "position": "LO",
+      "team": "リヨン",
       "league": "top14",
       "caps": "France",
-      "age": "34.0",
-      "height": "189.0",
-      "weight": "96.0"
+      "age": "26.0",
+      "height": "200.0",
+      "weight": "118.0"
+    },
+    {
+      "name_ja": "Enzo FORLETTA",
+      "name_en": "Enzo FORLETTA",
+      "slug": "enzo-forletta",
+      "position": "PR",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": "France",
+      "age": "31.0",
+      "height": "175.0",
+      "weight": "118.0"
     },
     {
       "name_ja": "Baptiste ERDOCIO",
@@ -4483,28 +4423,16 @@
       "weight": "115.0"
     },
     {
-      "name_ja": "Felix LAMBEY",
-      "name_en": "Felix LAMBEY",
-      "slug": "felix-lambey",
-      "position": "LO",
-      "team": "リヨン",
-      "league": "top14",
-      "caps": "France",
-      "age": "32.0",
-      "height": "196.0",
-      "weight": "106.0"
-    },
-    {
-      "name_ja": "Lenni NOUCHI",
-      "name_en": "Lenni NOUCHI",
-      "slug": "lenni-nouchi",
-      "position": "FL/NO8",
+      "name_ja": "Mohamed HAOUAS",
+      "name_en": "Mohamed HAOUAS",
+      "slug": "mohammed-houas",
+      "position": "PR",
       "team": "モンペリエ",
       "league": "top14",
       "caps": "France",
-      "age": "22.0",
-      "height": "194.0",
-      "weight": "108.0"
+      "age": "32.0",
+      "height": "185.0",
+      "weight": "127.0"
     },
     {
       "name_ja": "Loris ZARANTONELLO",
@@ -4531,208 +4459,100 @@
       "weight": "105.0"
     },
     {
-      "name_ja": "Selevasio TOLOFUA",
-      "name_en": "Selevasio TOLOFUA",
-      "slug": "selevasio-tolofua",
+      "name_ja": "Jordan JOSEPH",
+      "name_en": "Jordan JOSEPH",
+      "slug": "jordan-joseph",
       "position": "FL/NO8",
-      "team": "クレルモン",
+      "team": "ラシン92",
       "league": "top14",
       "caps": "France",
-      "age": "28.0",
-      "height": "186.0",
-      "weight": "116.0"
+      "age": "25.0",
+      "height": "190.0",
+      "weight": "124.0"
     },
     {
-      "name_ja": "Romain BRIATTE",
-      "name_en": "Romain BRIATTE",
-      "slug": "romain-briatte",
-      "position": "FL/NO8",
-      "team": "スタッド・フランセ",
+      "name_ja": "Anthony BOUTHIER",
+      "name_en": "Anthony BOUTHIER",
+      "slug": "anthony-bouthier",
+      "position": "FB",
+      "team": "ヴァンヌ",
       "league": "top14",
       "caps": "France",
       "age": "33.0",
-      "height": "194.0",
-      "weight": "107.0"
+      "height": "182.0",
+      "weight": "86.0"
     },
     {
-      "name_ja": "Pierre BOCHATON",
-      "name_en": "Pierre BOCHATON",
-      "slug": "pierre-bochaton",
-      "position": "FL/NO8",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "24.0",
-      "height": "197.0",
-      "weight": "103.0"
-    },
-    {
-      "name_ja": "Bastien VERGNES-TAILLEFER",
-      "name_en": "Bastien VERGNES-TAILLEFER",
-      "slug": "bastien-vergnes-taillefer",
-      "position": "FL/NO8",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "194.0",
-      "weight": "114.0"
-    },
-    {
-      "name_ja": "Gabriel N'GANDEBE",
-      "name_en": "Gabriel N'GANDEBE",
-      "slug": "gabriel-n-gandebe",
-      "position": "WTB",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "174.0",
-      "weight": "77.0"
-    },
-    {
-      "name_ja": "Alexandre FISCHER",
-      "name_en": "Alexandre FISCHER",
-      "slug": "alexandre-fischer",
-      "position": "FL/NO8",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "188.0",
-      "weight": "107.0"
-    },
-    {
-      "name_ja": "Tom SPRING",
-      "name_en": "Tom SPRING",
-      "slug": "tom-spring",
-      "position": "WTB",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": "France",
-      "age": "23.0",
-      "height": "186.0",
-      "weight": "87.0"
-    },
-    {
-      "name_ja": "Lino JULIEN",
-      "name_en": "Lino JULIEN",
-      "slug": "lino-julien",
-      "position": "PR",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": "France",
-      "age": "22.0",
-      "height": "186.0",
-      "weight": "111.0"
-    },
-    {
-      "name_ja": "Kalvin GOURGUES",
-      "name_en": "Kalvin GOURGUES",
-      "slug": "kalvin-gourgues",
-      "position": "CTB",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "21.0",
-      "height": "184.0",
-      "weight": "97.0"
-    },
-    {
-      "name_ja": "Jimi MAXIMIN",
-      "name_en": "Jimi MAXIMIN",
-      "slug": "jimi-maximin",
-      "position": "LO",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "France",
-      "age": "26.0",
-      "height": "204.0",
-      "weight": "133.0"
-    },
-    {
-      "name_ja": "Fabien SANCONNIE",
-      "name_en": "Fabien SANCONNIE",
-      "slug": "fabien-sanconnie",
-      "position": "FL/NO8",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": "France",
-      "age": "31.0",
-      "height": "195.0",
-      "weight": "114.0"
-    },
-    {
-      "name_ja": "Teddy THOMAS",
-      "name_en": "Teddy THOMAS",
-      "slug": "teddy-thomas",
-      "position": "CTB",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "32.0",
-      "height": "185.0",
-      "weight": "98.0"
-    },
-    {
-      "name_ja": "Louis CARBONEL",
-      "name_en": "Louis CARBONEL",
-      "slug": "louis-carbonel",
-      "position": "SO",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": "France",
-      "age": "27.0",
-      "height": "180.0",
-      "weight": "88.0"
-    },
-    {
-      "name_ja": "Arthur RETIERE",
-      "name_en": "Arthur RETIERE",
-      "slug": "arthur-retiere",
-      "position": "WTB",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "173.0",
-      "weight": "80.0"
-    },
-    {
-      "name_ja": "Greg ALLDRITT",
-      "name_en": "Greg ALLDRITT",
-      "slug": "greg-alldritt",
+      "name_ja": "Judicael CANCORIET",
+      "name_en": "Judicael CANCORIET",
+      "slug": "judicael-cancoriet",
       "position": "FL/NO8",
       "team": "ラ・ロシェル",
       "league": "top14",
       "caps": "France",
-      "age": "28.0",
-      "height": "191.0",
-      "weight": "114.0"
-    },
-    {
-      "name_ja": "Regis MONTAGNE",
-      "name_en": "Regis MONTAGNE",
-      "slug": "regis-montagne",
-      "position": "PR",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "France",
-      "age": "25.0",
-      "height": "186.0",
-      "weight": "133.0"
-    },
-    {
-      "name_ja": "Boris PALU",
-      "name_en": "Boris PALU",
-      "slug": "boris-palu",
-      "position": "LO",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "30.0",
+      "age": "29.0",
       "height": "194.0",
-      "weight": "113.0"
+      "weight": "116.0"
+    },
+    {
+      "name_ja": "Lenni NOUCHI",
+      "name_en": "Lenni NOUCHI",
+      "slug": "lenni-nouchi",
+      "position": "FL/NO8",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": "France",
+      "age": "22.0",
+      "height": "194.0",
+      "weight": "108.0"
+    },
+    {
+      "name_ja": "Geoffrey PALIS",
+      "name_en": "Geoffrey PALIS",
+      "slug": "geoffrey-palis",
+      "position": "WTB",
+      "team": "カストル",
+      "league": "top14",
+      "caps": "France",
+      "age": "34.0",
+      "height": "189.0",
+      "weight": "96.0"
+    },
+    {
+      "name_ja": "Felix LAMBEY",
+      "name_en": "Felix LAMBEY",
+      "slug": "felix-lambey",
+      "position": "LO",
+      "team": "リヨン",
+      "league": "top14",
+      "caps": "France",
+      "age": "32.0",
+      "height": "196.0",
+      "weight": "106.0"
+    },
+    {
+      "name_ja": "Peato MAUVAKA",
+      "name_en": "Peato MAUVAKA",
+      "slug": "peato-mauvaka",
+      "position": "HO",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "29.0",
+      "height": "184.0",
+      "weight": "112.0"
+    },
+    {
+      "name_ja": "Theo ATTISSOGBE",
+      "name_en": "Theo ATTISSOGBE",
+      "slug": "theo-attissogbe",
+      "position": "WTB",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "France",
+      "age": "22.0",
+      "height": "182.0",
+      "weight": "84.0"
     },
     {
       "name_ja": "Sebastien BEZY",
@@ -4747,6 +4567,330 @@
       "weight": "78.0"
     },
     {
+      "name_ja": "Guillaume CRAMONT",
+      "name_en": "Guillaume CRAMONT",
+      "slug": "guillaume-cramont",
+      "position": "HO",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "25.0",
+      "height": "182.0",
+      "weight": "107.0"
+    },
+    {
+      "name_ja": "Arthur RETIERE",
+      "name_en": "Arthur RETIERE",
+      "slug": "arthur-retiere",
+      "position": "WTB",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "173.0",
+      "weight": "80.0"
+    },
+    {
+      "name_ja": "Thibault DAUBAGNA",
+      "name_en": "Thibault DAUBAGNA",
+      "slug": "thibault-daubagna",
+      "position": "SH",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "France",
+      "age": "31.0",
+      "height": "177.0",
+      "weight": "83.0"
+    },
+    {
+      "name_ja": "Boris PALU",
+      "name_en": "Boris PALU",
+      "slug": "boris-palu",
+      "position": "LO",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "30.0",
+      "height": "194.0",
+      "weight": "113.0"
+    },
+    {
+      "name_ja": "Paul MALLEZ",
+      "name_en": "Paul MALLEZ",
+      "slug": "paul-mallez",
+      "position": "PR",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "25.0",
+      "height": "180.0",
+      "weight": "120.0"
+    },
+    {
+      "name_ja": "Sekou MACALOU",
+      "name_en": "Sekou MACALOU",
+      "slug": "sekou-macalou",
+      "position": "FL/NO8",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "France",
+      "age": "30.0",
+      "height": "195.0",
+      "weight": "108.0"
+    },
+    {
+      "name_ja": "Selevasio TOLOFUA",
+      "name_en": "Selevasio TOLOFUA",
+      "slug": "selevasio-tolofua",
+      "position": "FL/NO8",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "186.0",
+      "weight": "116.0"
+    },
+    {
+      "name_ja": "Teddy THOMAS",
+      "name_en": "Teddy THOMAS",
+      "slug": "teddy-thomas",
+      "position": "CTB",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "32.0",
+      "height": "185.0",
+      "weight": "98.0"
+    },
+    {
+      "name_ja": "Bastien VERGNES-TAILLEFER",
+      "name_en": "Bastien VERGNES-TAILLEFER",
+      "slug": "bastien-vergnes-taillefer",
+      "position": "FL/NO8",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "194.0",
+      "weight": "114.0"
+    },
+    {
+      "name_ja": "Alexandre FISCHER",
+      "name_en": "Alexandre FISCHER",
+      "slug": "alexandre-fischer",
+      "position": "FL/NO8",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "188.0",
+      "weight": "107.0"
+    },
+    {
+      "name_ja": "Baptiste PESENTI",
+      "name_en": "Baptiste PESENTI",
+      "slug": "baptiste-pesenti",
+      "position": "LO",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "195.0",
+      "weight": "122.0"
+    },
+    {
+      "name_ja": "Baptiste JAUNEAU",
+      "name_en": "Baptiste JAUNEAU",
+      "slug": "baptiste-jauneau",
+      "position": "SH",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "France",
+      "age": "22.0",
+      "height": "169.0",
+      "weight": "82.0"
+    },
+    {
+      "name_ja": "Cyril CAZEAUX",
+      "name_en": "Cyril CAZEAUX",
+      "slug": "cyril-cazeaux",
+      "position": "LO",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "31.0",
+      "height": "198.0",
+      "weight": "117.0"
+    },
+    {
+      "name_ja": "Fabien SANCONNIE",
+      "name_en": "Fabien SANCONNIE",
+      "slug": "fabien-sanconnie",
+      "position": "FL/NO8",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": "France",
+      "age": "31.0",
+      "height": "195.0",
+      "weight": "114.0"
+    },
+    {
+      "name_ja": "Joris SEGONDS",
+      "name_en": "Joris SEGONDS",
+      "slug": "joris-segonds",
+      "position": "SO",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "180.0",
+      "weight": "91.0"
+    },
+    {
+      "name_ja": "Gabriel N'GANDEBE",
+      "name_en": "Gabriel N'GANDEBE",
+      "slug": "gabriel-n-gandebe",
+      "position": "WTB",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "174.0",
+      "weight": "77.0"
+    },
+    {
+      "name_ja": "Killian TIXERONT",
+      "name_en": "Killian TIXERONT",
+      "slug": "killian-tixeront",
+      "position": "FL/NO8",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "France",
+      "age": "24.0",
+      "height": "196.0",
+      "weight": "107.0"
+    },
+    {
+      "name_ja": "Louis CARBONEL",
+      "name_en": "Louis CARBONEL",
+      "slug": "louis-carbonel",
+      "position": "SO",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "France",
+      "age": "27.0",
+      "height": "180.0",
+      "weight": "88.0"
+    },
+    {
+      "name_ja": "Lino JULIEN",
+      "name_en": "Lino JULIEN",
+      "slug": "lino-julien",
+      "position": "PR",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": "France",
+      "age": "22.0",
+      "height": "186.0",
+      "weight": "111.0"
+    },
+    {
+      "name_ja": "Etienne FALGOUX",
+      "name_en": "Etienne FALGOUX",
+      "slug": "etienne-falgoux",
+      "position": "PR",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "France",
+      "age": "33.0",
+      "height": "183.0",
+      "weight": "112.0"
+    },
+    {
+      "name_ja": "Rodrigue NETI",
+      "name_en": "Rodrigue NETI",
+      "slug": "rodrigue-neti",
+      "position": "PR",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "30.0",
+      "height": "185.0",
+      "weight": "124.0"
+    },
+    {
+      "name_ja": "Greg ALLDRITT",
+      "name_en": "Greg ALLDRITT",
+      "slug": "greg-alldritt",
+      "position": "FL/NO8",
+      "team": "ラ・ロシェル",
+      "league": "top14",
+      "caps": "France",
+      "age": "28.0",
+      "height": "191.0",
+      "weight": "114.0"
+    },
+    {
+      "name_ja": "Noah NENE",
+      "name_en": "Noah NENE",
+      "slug": "noah-nene",
+      "position": "CTB",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "France",
+      "age": "22.0",
+      "height": "192.0",
+      "weight": "108.0"
+    },
+    {
+      "name_ja": "Tom SPRING",
+      "name_en": "Tom SPRING",
+      "slug": "tom-spring",
+      "position": "WTB",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": "France",
+      "age": "23.0",
+      "height": "186.0",
+      "weight": "87.0"
+    },
+    {
+      "name_ja": "Pierre BOCHATON",
+      "name_en": "Pierre BOCHATON",
+      "slug": "pierre-bochaton",
+      "position": "FL/NO8",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "24.0",
+      "height": "197.0",
+      "weight": "103.0"
+    },
+    {
+      "name_ja": "Romain BRIATTE",
+      "name_en": "Romain BRIATTE",
+      "slug": "romain-briatte",
+      "position": "FL/NO8",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "France",
+      "age": "33.0",
+      "height": "194.0",
+      "weight": "107.0"
+    },
+    {
+      "name_ja": "Regis MONTAGNE",
+      "name_en": "Regis MONTAGNE",
+      "slug": "regis-montagne",
+      "position": "PR",
+      "team": "クレルモン",
+      "league": "top14",
+      "caps": "France",
+      "age": "25.0",
+      "height": "186.0",
+      "weight": "133.0"
+    },
+    {
       "name_ja": "Romain BUROS",
       "name_en": "Romain BUROS",
       "slug": "romain-buros",
@@ -4756,6 +4900,42 @@
       "caps": "France",
       "age": "28.0",
       "height": "187.0",
+      "weight": "97.0"
+    },
+    {
+      "name_ja": "Maxime LAMOTHE",
+      "name_en": "Maxime LAMOTHE",
+      "slug": "maxime-lamothe",
+      "position": "HO",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "France",
+      "age": "27.0",
+      "height": "184.0",
+      "weight": "109.0"
+    },
+    {
+      "name_ja": "Fabien BRAU-BOIRIE",
+      "name_en": "Fabien BRAU-BOIRIE",
+      "slug": "fabien-brau-boirie",
+      "position": "CTB",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "France",
+      "age": "21.0",
+      "height": "190.0",
+      "weight": "98.0"
+    },
+    {
+      "name_ja": "Kalvin GOURGUES",
+      "name_en": "Kalvin GOURGUES",
+      "slug": "kalvin-gourgues",
+      "position": "CTB",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "France",
+      "age": "21.0",
+      "height": "184.0",
       "weight": "97.0"
     },
     {
@@ -4771,160 +4951,16 @@
       "weight": "116.0"
     },
     {
-      "name_ja": "Paul MALLEZ",
-      "name_en": "Paul MALLEZ",
-      "slug": "paul-mallez",
-      "position": "PR",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "25.0",
-      "height": "180.0",
-      "weight": "120.0"
-    },
-    {
-      "name_ja": "Cyril CAZEAUX",
-      "name_en": "Cyril CAZEAUX",
-      "slug": "cyril-cazeaux",
+      "name_ja": "Jimi MAXIMIN",
+      "name_en": "Jimi MAXIMIN",
+      "slug": "jimi-maximin",
       "position": "LO",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "31.0",
-      "height": "198.0",
-      "weight": "117.0"
-    },
-    {
-      "name_ja": "Fabien BRAU-BOIRIE",
-      "name_en": "Fabien BRAU-BOIRIE",
-      "slug": "fabien-brau-boirie",
-      "position": "CTB",
       "team": "ポー",
       "league": "top14",
       "caps": "France",
-      "age": "21.0",
-      "height": "190.0",
-      "weight": "98.0"
-    },
-    {
-      "name_ja": "Rodrigue NETI",
-      "name_en": "Rodrigue NETI",
-      "slug": "rodrigue-neti",
-      "position": "PR",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "30.0",
-      "height": "185.0",
-      "weight": "124.0"
-    },
-    {
-      "name_ja": "Peato MAUVAKA",
-      "name_en": "Peato MAUVAKA",
-      "slug": "peato-mauvaka",
-      "position": "HO",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "29.0",
-      "height": "184.0",
-      "weight": "112.0"
-    },
-    {
-      "name_ja": "Joris SEGONDS",
-      "name_en": "Joris SEGONDS",
-      "slug": "joris-segonds",
-      "position": "SO",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "180.0",
-      "weight": "91.0"
-    },
-    {
-      "name_ja": "Baptiste PESENTI",
-      "name_en": "Baptiste PESENTI",
-      "slug": "baptiste-pesenti",
-      "position": "LO",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": "France",
-      "age": "28.0",
-      "height": "195.0",
-      "weight": "122.0"
-    },
-    {
-      "name_ja": "Theo ATTISSOGBE",
-      "name_en": "Theo ATTISSOGBE",
-      "slug": "theo-attissogbe",
-      "position": "WTB",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "France",
-      "age": "22.0",
-      "height": "182.0",
-      "weight": "84.0"
-    },
-    {
-      "name_ja": "Killian TIXERONT",
-      "name_en": "Killian TIXERONT",
-      "slug": "killian-tixeront",
-      "position": "FL/NO8",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "France",
-      "age": "24.0",
-      "height": "196.0",
-      "weight": "107.0"
-    },
-    {
-      "name_ja": "Sekou MACALOU",
-      "name_en": "Sekou MACALOU",
-      "slug": "sekou-macalou",
-      "position": "FL/NO8",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": "France",
-      "age": "30.0",
-      "height": "195.0",
-      "weight": "108.0"
-    },
-    {
-      "name_ja": "Maxime LAMOTHE",
-      "name_en": "Maxime LAMOTHE",
-      "slug": "maxime-lamothe",
-      "position": "HO",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "France",
-      "age": "27.0",
-      "height": "184.0",
-      "weight": "109.0"
-    },
-    {
-      "name_ja": "Noah NENE",
-      "name_en": "Noah NENE",
-      "slug": "noah-nene",
-      "position": "CTB",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": "France",
-      "age": "22.0",
-      "height": "192.0",
-      "weight": "108.0"
-    },
-    {
-      "name_ja": "Guillaume CRAMONT",
-      "name_en": "Guillaume CRAMONT",
-      "slug": "guillaume-cramont",
-      "position": "HO",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "France",
-      "age": "25.0",
-      "height": "182.0",
-      "weight": "107.0"
+      "age": "26.0",
+      "height": "204.0",
+      "weight": "133.0"
     },
     {
       "name_ja": "Lester ETIEN",
@@ -4937,42 +4973,6 @@
       "age": "30.0",
       "height": "181.0",
       "weight": "102.0"
-    },
-    {
-      "name_ja": "Baptiste JAUNEAU",
-      "name_en": "Baptiste JAUNEAU",
-      "slug": "baptiste-jauneau",
-      "position": "SH",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "France",
-      "age": "22.0",
-      "height": "169.0",
-      "weight": "82.0"
-    },
-    {
-      "name_ja": "Etienne FALGOUX",
-      "name_en": "Etienne FALGOUX",
-      "slug": "etienne-falgoux",
-      "position": "PR",
-      "team": "クレルモン",
-      "league": "top14",
-      "caps": "France",
-      "age": "33.0",
-      "height": "183.0",
-      "weight": "112.0"
-    },
-    {
-      "name_ja": "Thibault DAUBAGNA",
-      "name_en": "Thibault DAUBAGNA",
-      "slug": "thibault-daubagna",
-      "position": "SH",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "France",
-      "age": "31.0",
-      "height": "177.0",
-      "weight": "83.0"
     }
   ],
   "ireland": [
@@ -4991,7 +4991,7 @@
     {
       "name_ja": "ロヒー ヘンショウ",
       "name_en": "Robbie HENSHAW",
-      "slug": "robbie-henshaw-1641",
+      "slug": "robbie-henshaw-2032",
       "position": "CTB",
       "team": "Leinster",
       "league": "urc",
@@ -5015,7 +5015,7 @@
     {
       "name_ja": "ショシュ ファン テル フリヤー",
       "name_en": "Josh VAN DER FLIER",
-      "slug": "josh-van-der-flier-1589",
+      "slug": "josh-van-der-flier-1912",
       "position": "FL/No8",
       "team": "Leinster",
       "league": "urc",
@@ -5039,7 +5039,7 @@
     {
       "name_ja": "キャリー-リンクロース",
       "name_en": "Garry RINGROSE",
-      "slug": "garry-ringrose-1886",
+      "slug": "garry-ringrose-2012",
       "position": "CTB",
       "team": "Leinster",
       "league": "urc",
@@ -5073,6 +5073,18 @@
       "weight": "114.0"
     },
     {
+      "name_ja": "ケーラン トリス",
+      "name_en": "Caelan DORIS",
+      "slug": "caelan-doris",
+      "position": "Back row",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland (51)",
+      "age": "27.0",
+      "height": "193.0",
+      "weight": "106.0"
+    },
+    {
       "name_ja": "シャック CONAN",
       "name_en": "Jack CONAN",
       "slug": "jack-conan",
@@ -5097,18 +5109,6 @@
       "weight": "123.0"
     },
     {
-      "name_ja": "ケーラン トリス",
-      "name_en": "Caelan DORIS",
-      "slug": "caelan-doris",
-      "position": "Back row",
-      "team": "Leinster",
-      "league": "urc",
-      "caps": "Ireland (51)",
-      "age": "27.0",
-      "height": "193.0",
-      "weight": "106.0"
-    },
-    {
       "name_ja": "ヒューコ KEENAN",
       "name_en": "Hugo KEENAN",
       "slug": "hugo-keenan",
@@ -5123,7 +5123,7 @@
     {
       "name_ja": "シェイミソン-キフソン=ハーク",
       "name_en": "Jamison GIBSON-PARK",
-      "slug": "jamison-gibson-park-1879",
+      "slug": "jamison-gibson-park-1939",
       "position": "SH",
       "team": "Leinster",
       "league": "urc",
@@ -5147,7 +5147,7 @@
     {
       "name_ja": "シェームス-ロウ",
       "name_en": "James LOWE",
-      "slug": "james-lowe-1639",
+      "slug": "james-lowe-1988",
       "position": "WTB",
       "team": "Leinster",
       "league": "urc",
@@ -5159,7 +5159,7 @@
     {
       "name_ja": "シェイコフ-ストックテイル",
       "name_en": "Jacob STOCKDALE",
-      "slug": "jacob-stockdale-2091",
+      "slug": "jacob-stockdale-1671",
       "position": "WTB",
       "team": "Ulster",
       "league": "urc",
@@ -5167,18 +5167,6 @@
       "age": "29.0",
       "height": "191.0",
       "weight": "104.0"
-    },
-    {
-      "name_ja": "Jordan LARMOUR",
-      "name_en": "Jordan LARMOUR",
-      "slug": "jordan-larmour",
-      "position": "Winger",
-      "team": "Leinster",
-      "league": "urc",
-      "caps": "Ireland (32)",
-      "age": "28.0",
-      "height": "178.0",
-      "weight": "91.0"
     },
     {
       "name_ja": "タン SHEEHAN",
@@ -5193,9 +5181,21 @@
       "weight": "110.0"
     },
     {
+      "name_ja": "Jordan LARMOUR",
+      "name_en": "Jordan LARMOUR",
+      "slug": "jordan-larmour",
+      "position": "Winger",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland (32)",
+      "age": "28.0",
+      "height": "178.0",
+      "weight": "91.0"
+    },
+    {
       "name_ja": "マック ハンセン",
       "name_en": "Mack HANSEN",
-      "slug": "mack-hansen-1738",
+      "slug": "mack-hansen-2024",
       "position": "FB",
       "team": "Connacht",
       "league": "urc",
@@ -5231,7 +5231,7 @@
     {
       "name_ja": "Ross Byrne",
       "name_en": "Ross Byrne",
-      "slug": "ross-byrne-1381",
+      "slug": "ross-byrne-1371",
       "position": "Fly-half",
       "team": "Gloucester Rugby",
       "league": "premiership",
@@ -5243,7 +5243,7 @@
     {
       "name_ja": "ション ライアン",
       "name_en": "John RYAN",
-      "slug": "john-ryan-1665",
+      "slug": "john-ryan-1814",
       "position": "PR",
       "team": "Munster",
       "league": "urc",
@@ -5267,7 +5267,7 @@
     {
       "name_ja": "ショー マッカーシー",
       "name_en": "Joe MCCARTHY",
-      "slug": "joe-mccarthy-2509",
+      "slug": "joe-mccarthy-2653",
       "position": "LO",
       "team": "Leinster",
       "league": "urc",
@@ -5291,7 +5291,7 @@
     {
       "name_ja": "ニアル スカネル",
       "name_en": "Niall SCANNELL",
-      "slug": "niall-scannell-2005",
+      "slug": "niall-scannell-1855",
       "position": "HO",
       "team": "Munster",
       "league": "urc",
@@ -5299,18 +5299,6 @@
       "age": "33.0",
       "height": "185.0",
       "weight": "111.0"
-    },
-    {
-      "name_ja": "ルーク MCGRATH",
-      "name_en": "Luke MCGRATH",
-      "slug": "luke-mcgrath",
-      "position": "SH",
-      "team": "Leinster",
-      "league": "urc",
-      "caps": "Ireland (14)",
-      "age": "33.0",
-      "height": "175.0",
-      "weight": "84.0"
     },
     {
       "name_ja": "Craig CASEY",
@@ -5325,9 +5313,21 @@
       "weight": "76.0"
     },
     {
+      "name_ja": "ルーク MCGRATH",
+      "name_en": "Luke MCGRATH",
+      "slug": "luke-mcgrath",
+      "position": "SH",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland (14)",
+      "age": "33.0",
+      "height": "175.0",
+      "weight": "84.0"
+    },
+    {
       "name_ja": "トム オトゥール",
       "name_en": "Tom O'TOOLE",
-      "slug": "tom-o-toole-2508",
+      "slug": "tom-o-toole-2637",
       "position": "PR",
       "team": "Ulster",
       "league": "urc",
@@ -5363,7 +5363,7 @@
     {
       "name_ja": "シェーン シェニンクス",
       "name_en": "Shane JENNINGS",
-      "slug": "shane-jennings-2538",
+      "slug": "shane-jennings-2539",
       "position": "WTB",
       "team": "Connacht",
       "league": "urc",
@@ -5371,6 +5371,18 @@
       "age": "25.0",
       "height": "191.0",
       "weight": "96.0"
+    },
+    {
+      "name_ja": "サム フレンターカスト",
+      "name_en": "Sam PRENDERGAST",
+      "slug": "sam-prendergast-1582",
+      "position": "SO",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland (8)",
+      "age": "23.0",
+      "height": "194.0",
+      "weight": "91.0"
     },
     {
       "name_ja": "Ciar FRAWLEY",
@@ -5397,33 +5409,9 @@
       "weight": "90.0"
     },
     {
-      "name_ja": "サム フレンターカスト",
-      "name_en": "Sam PRENDERGAST",
-      "slug": "sam-prendergast-2000",
-      "position": "SO",
-      "team": "Leinster",
-      "league": "urc",
-      "caps": "Ireland (8)",
-      "age": "23.0",
-      "height": "194.0",
-      "weight": "91.0"
-    },
-    {
-      "name_ja": "シャック-カーティー",
-      "name_en": "Jack CARTY",
-      "slug": "jack-carty-1619",
-      "position": "SO",
-      "team": "Connacht",
-      "league": "urc",
-      "caps": "Ireland (7)",
-      "age": "33.0",
-      "height": "183.0",
-      "weight": "92.0"
-    },
-    {
       "name_ja": "シェイミー-オスホーン",
       "name_en": "Jamie OSBORNE",
-      "slug": "jamie-osborne-2011",
+      "slug": "jamie-osborne-1597",
       "position": "CTB",
       "team": "Leinster",
       "league": "urc",
@@ -5431,6 +5419,18 @@
       "age": "24.0",
       "height": "193.0",
       "weight": "98.0"
+    },
+    {
+      "name_ja": "シャック-カーティー",
+      "name_en": "Jack CARTY",
+      "slug": "jack-carty-2031",
+      "position": "SO",
+      "team": "Connacht",
+      "league": "urc",
+      "caps": "Ireland (7)",
+      "age": "33.0",
+      "height": "183.0",
+      "weight": "92.0"
     },
     {
       "name_ja": "トム CLARKSON",
@@ -5443,6 +5443,18 @@
       "age": "26.0",
       "height": "185.0",
       "weight": "118.0"
+    },
+    {
+      "name_ja": "ハリー-ハーン",
+      "name_en": "Harry BYRNE",
+      "slug": "harry-byrne-1586",
+      "position": "SO",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland (4)",
+      "age": "26.0",
+      "height": "191.0",
+      "weight": "95.0"
     },
     {
       "name_ja": "キアン PRENDERGAST",
@@ -5469,16 +5481,16 @@
       "weight": "107.0"
     },
     {
-      "name_ja": "ハリー-ハーン",
-      "name_en": "Harry BYRNE",
-      "slug": "harry-byrne-2194",
-      "position": "SO",
-      "team": "Leinster",
+      "name_ja": "ニック ティモニー",
+      "name_en": "Nick TIMONEY",
+      "slug": "nick-timoney-1634",
+      "position": "FL/No8",
+      "team": "Ulster",
       "league": "urc",
-      "caps": "Ireland (4)",
-      "age": "26.0",
-      "height": "191.0",
-      "weight": "95.0"
+      "caps": "Ireland (3)",
+      "age": "30.0",
+      "height": "188.0",
+      "weight": "114.0"
     },
     {
       "name_ja": "Caolin BLADE",
@@ -5491,18 +5503,6 @@
       "age": "31.0",
       "height": "170.0",
       "weight": "81.0"
-    },
-    {
-      "name_ja": "ニック ティモニー",
-      "name_en": "Nick TIMONEY",
-      "slug": "nick-timoney-2107",
-      "position": "FL/No8",
-      "team": "Ulster",
-      "league": "urc",
-      "caps": "Ireland (3)",
-      "age": "30.0",
-      "height": "188.0",
-      "weight": "114.0"
     },
     {
       "name_ja": "シャック BOYLE",
@@ -5519,7 +5519,7 @@
     {
       "name_ja": "トム スチュアート",
       "name_en": "Tom STEWART",
-      "slug": "tom-stewart-2510",
+      "slug": "tom-stewart-2604",
       "position": "HO",
       "team": "Ulster",
       "league": "urc",
@@ -5565,6 +5565,18 @@
       "weight": "132.0"
     },
     {
+      "name_ja": "ロナン KELLEHER",
+      "name_en": "Ronan KELLEHER",
+      "slug": "ronan-kelleher",
+      "position": "HO",
+      "team": "Leinster",
+      "league": "urc",
+      "caps": "Ireland",
+      "age": "28.0",
+      "height": "185.0",
+      "weight": "108.0"
+    },
+    {
       "name_ja": "テイウ HEFFERNAN",
       "name_en": "Dave HEFFERNAN",
       "slug": "david-heffernan",
@@ -5575,6 +5587,18 @@
       "age": "35.0",
       "height": "187.0",
       "weight": "111.0"
+    },
+    {
+      "name_ja": "Edwin EDOGBO",
+      "name_en": "Edwin EDOGBO",
+      "slug": "edwin-edogbo",
+      "position": "LO",
+      "team": "Munster",
+      "league": "urc",
+      "caps": "Ireland",
+      "age": "23.0",
+      "height": "196.0",
+      "weight": "127.0"
     },
     {
       "name_ja": "Joshua BRENNAN",
@@ -5599,37 +5623,13 @@
       "age": "28.0",
       "height": "192.0",
       "weight": "104.0"
-    },
-    {
-      "name_ja": "ロナン KELLEHER",
-      "name_en": "Ronan KELLEHER",
-      "slug": "ronan-kelleher",
-      "position": "HO",
-      "team": "Leinster",
-      "league": "urc",
-      "caps": "Ireland",
-      "age": "28.0",
-      "height": "185.0",
-      "weight": "108.0"
-    },
-    {
-      "name_ja": "Edwin EDOGBO",
-      "name_en": "Edwin EDOGBO",
-      "slug": "edwin-edogbo",
-      "position": "LO",
-      "team": "Munster",
-      "league": "urc",
-      "caps": "Ireland",
-      "age": "23.0",
-      "height": "196.0",
-      "weight": "127.0"
     }
   ],
   "england": [
     {
       "name_ja": "Owen Farrell",
       "name_en": "Owen Farrell",
-      "slug": "owen-farrell-1378",
+      "slug": "owen-farrell-1368",
       "position": "Fly-half",
       "team": "Saracens",
       "league": "premiership",
@@ -5641,7 +5641,7 @@
     {
       "name_ja": "George Ford",
       "name_en": "George Ford",
-      "slug": "george-ford-1332",
+      "slug": "george-ford-1296",
       "position": "Fly-half",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -5677,7 +5677,7 @@
     {
       "name_ja": "Ellis Genge",
       "name_en": "Ellis Genge",
-      "slug": "ellis-genge-1323",
+      "slug": "ellis-genge-1311",
       "position": "Prop",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -5689,7 +5689,7 @@
     {
       "name_ja": "Joe Launchbury",
       "name_en": "Joe Launchbury",
-      "slug": "joe-launchbury-1304",
+      "slug": "joe-launchbury-1330",
       "position": "Lock",
       "team": "Harlequins",
       "league": "premiership",
@@ -5701,7 +5701,7 @@
     {
       "name_ja": "Tom Curry",
       "name_en": "Tom Curry",
-      "slug": "tom-curry-1363",
+      "slug": "tom-curry-1377",
       "position": "Flanker",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -5749,7 +5749,7 @@
     {
       "name_ja": "Luke Cowan-Dickie",
       "name_en": "Luke Cowan-Dickie",
-      "slug": "luke-cowan-dickie-1326",
+      "slug": "luke-cowan-dickie-1336",
       "position": "Hooker",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -5761,7 +5761,7 @@
     {
       "name_ja": "トム ウット",
       "name_en": "Tom WOOD",
-      "slug": "tom-wood-3185",
+      "slug": "tom-wood-2462",
       "position": "SO",
       "team": "Munster",
       "league": "urc",
@@ -5773,7 +5773,7 @@
     {
       "name_ja": "Freddie Steward",
       "name_en": "Freddie Steward",
-      "slug": "freddie-steward-1329",
+      "slug": "freddie-steward-1312",
       "position": "Fullback",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -5821,7 +5821,7 @@
     {
       "name_ja": "Ollie Chessum",
       "name_en": "Ollie Chessum",
-      "slug": "ollie-chessum-1377",
+      "slug": "ollie-chessum-1367",
       "position": "Lock",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -5833,7 +5833,7 @@
     {
       "name_ja": "Max Malins",
       "name_en": "Max Malins",
-      "slug": "max-malins-1331",
+      "slug": "max-malins-1295",
       "position": "Wing",
       "team": "Saracens",
       "league": "premiership",
@@ -5857,7 +5857,7 @@
     {
       "name_ja": "Alex Dombrandt",
       "name_en": "Alex Dombrandt",
-      "slug": "alex-dombrandt-1336",
+      "slug": "alex-dombrandt-1301",
       "position": "No. 8",
       "team": "Harlequins",
       "league": "premiership",
@@ -5869,7 +5869,7 @@
     {
       "name_ja": "George Martin",
       "name_en": "George Martin",
-      "slug": "george-martin-1334",
+      "slug": "george-martin-1298",
       "position": "Lock",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -5905,7 +5905,7 @@
     {
       "name_ja": "Jack van Poortvliet",
       "name_en": "Jack van Poortvliet",
-      "slug": "jack-van-poortvliet-1313",
+      "slug": "jack-van-poortvliet-1326",
       "position": "Scrum-half",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -5951,21 +5951,9 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "Harry Randall",
-      "name_en": "Harry Randall",
-      "slug": "harry-randall-1309",
-      "position": "Scrum-half",
-      "team": "Bristol Bears",
-      "league": "premiership",
-      "caps": "England (11)",
-      "age": "28.0",
-      "height": "",
-      "weight": ""
-    },
-    {
       "name_ja": "Chandler Cunningham-South",
       "name_en": "Chandler Cunningham-South",
-      "slug": "chandler-cunningham-south-1330",
+      "slug": "chandler-cunningham-south-1293",
       "position": "Flanker",
       "team": "Harlequins",
       "league": "premiership",
@@ -5977,7 +5965,7 @@
     {
       "name_ja": "Nick Isiekwe",
       "name_en": "Nick Isiekwe",
-      "slug": "nick-isiekwe-1333",
+      "slug": "nick-isiekwe-1297",
       "position": "Lock",
       "team": "Saracens",
       "league": "premiership",
@@ -5987,9 +5975,21 @@
       "weight": ""
     },
     {
+      "name_ja": "Harry Randall",
+      "name_en": "Harry Randall",
+      "slug": "harry-randall-1321",
+      "position": "Scrum-half",
+      "team": "Bristol Bears",
+      "league": "premiership",
+      "caps": "England (11)",
+      "age": "28.0",
+      "height": "",
+      "weight": ""
+    },
+    {
       "name_ja": "ヒアース フランシス",
       "name_en": "Piers Francis",
-      "slug": "piers-francis-144",
+      "slug": "piers-francis-139",
       "position": "SO",
       "team": "クリタウォーターガッシュ昭島（2025-26）",
       "league": "league-one",
@@ -6035,26 +6035,26 @@
       "weight": ""
     },
     {
-      "name_ja": "Joe Heyes",
-      "name_en": "Joe Heyes",
-      "slug": "joe-heyes-1298",
-      "position": "Prop",
-      "team": "Leicester Tigers",
-      "league": "premiership",
-      "caps": "England (7)",
-      "age": "26.0",
-      "height": "",
-      "weight": ""
-    },
-    {
       "name_ja": "Bevan Rodd",
       "name_en": "Bevan Rodd",
-      "slug": "bevan-rodd-1317",
+      "slug": "bevan-rodd-1307",
       "position": "Prop",
       "team": "Sale Sharks",
       "league": "premiership",
       "caps": "England (7)",
       "age": "25.0",
+      "height": "",
+      "weight": ""
+    },
+    {
+      "name_ja": "Joe Heyes",
+      "name_en": "Joe Heyes",
+      "slug": "joe-heyes-1329",
+      "position": "Prop",
+      "team": "Leicester Tigers",
+      "league": "premiership",
+      "caps": "England (7)",
+      "age": "26.0",
       "height": "",
       "weight": ""
     },
@@ -6073,7 +6073,7 @@
     {
       "name_ja": "Ben Curry",
       "name_en": "Ben Curry",
-      "slug": "ben-curry-1295",
+      "slug": "ben-curry-1306",
       "position": "Flanker",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -6121,7 +6121,7 @@
     {
       "name_ja": "Jack Walker",
       "name_en": "Jack Walker",
-      "slug": "jack-walker-1299",
+      "slug": "jack-walker-1325",
       "position": "Hooker",
       "team": "Harlequins",
       "league": "premiership",
@@ -6145,7 +6145,7 @@
     {
       "name_ja": "Tom Roebuck",
       "name_en": "Tom Roebuck",
-      "slug": "tom-roebuck-1372",
+      "slug": "tom-roebuck-1382",
       "position": "Wing",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -6169,24 +6169,12 @@
     {
       "name_ja": "Jack Singleton",
       "name_en": "Jack Singleton",
-      "slug": "jack-singleton-1312",
+      "slug": "jack-singleton-1324",
       "position": "Hooker",
       "team": "Gloucester Rugby",
       "league": "premiership",
       "caps": "England (2)",
       "age": "29.0",
-      "height": "",
-      "weight": ""
-    },
-    {
-      "name_ja": "Ted HILL",
-      "name_en": "Ted HILL",
-      "slug": "ted-hill",
-      "position": "Back row",
-      "team": "Bath Rugby",
-      "league": "premiership",
-      "caps": "England (2)",
-      "age": "26 y/o",
       "height": "",
       "weight": ""
     },
@@ -6203,9 +6191,21 @@
       "weight": ""
     },
     {
+      "name_ja": "Ted HILL",
+      "name_en": "Ted HILL",
+      "slug": "ted-hill",
+      "position": "Back row",
+      "team": "Bath Rugby",
+      "league": "premiership",
+      "caps": "England (2)",
+      "age": "26 y/o",
+      "height": "",
+      "weight": ""
+    },
+    {
       "name_ja": "Asher Opoku-Fordjour",
       "name_en": "Asher Opoku-Fordjour",
-      "slug": "asher-opoku-fordjour-1325",
+      "slug": "asher-opoku-fordjour-1304",
       "position": "Prop",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -6225,18 +6225,6 @@
       "age": "26 y/o",
       "height": "",
       "weight": ""
-    },
-    {
-      "name_ja": "Zach MERCER",
-      "name_en": "Zach MERCER",
-      "slug": "zach-mercer",
-      "position": "FL/NO8",
-      "team": "トゥーロン",
-      "league": "top14",
-      "caps": "England",
-      "age": "28.0",
-      "height": "191.0",
-      "weight": "111.0"
     },
     {
       "name_ja": "Sam SIMMONDS",
@@ -6261,6 +6249,18 @@
       "age": "34.0",
       "height": "184.0",
       "weight": "120.0"
+    },
+    {
+      "name_ja": "Zach MERCER",
+      "name_en": "Zach MERCER",
+      "slug": "zach-mercer",
+      "position": "FL/NO8",
+      "team": "トゥーロン",
+      "league": "top14",
+      "caps": "England",
+      "age": "28.0",
+      "height": "191.0",
+      "weight": "111.0"
     },
     {
       "name_ja": "ヘン VELLACOTT",
@@ -6351,7 +6351,7 @@
     {
       "name_ja": "イスラエル フォラウ",
       "name_en": "Israel Folau",
-      "slug": "israel-folau-1190",
+      "slug": "israel-folau-1185",
       "position": "FB",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -6363,7 +6363,7 @@
     {
       "name_ja": "ニック フィッフス",
       "name_en": "Nick Phipps",
-      "slug": "nick-phipps-22",
+      "slug": "nick-phipps-33",
       "position": "SH",
       "team": "NECグリーンロケッツ東葛（2025-26）",
       "league": "league-one",
@@ -6375,7 +6375,7 @@
     {
       "name_ja": "マリカ コロインヘテ",
       "name_en": "Marika Koroibete",
-      "slug": "marika-koroibete-311",
+      "slug": "marika-koroibete-313",
       "position": "WTB",
       "team": "埼玉パナソニックワイルドナイツ（2025-26）",
       "league": "league-one",
@@ -6387,7 +6387,7 @@
     {
       "name_ja": "Scott Sio",
       "name_en": "Scott Sio",
-      "slug": "scott-sio-1366",
+      "slug": "scott-sio-1376",
       "position": "Prop",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -6399,7 +6399,7 @@
     {
       "name_ja": "サム ケレヒ",
       "name_en": "Samu Kerevi",
-      "slug": "samu-kerevi-166",
+      "slug": "samu-kerevi-177",
       "position": "CTB",
       "team": "浦安D-Rocks（2025-26）",
       "league": "league-one",
@@ -6423,7 +6423,7 @@
     {
       "name_ja": "James O'Connor",
       "name_en": "James O'Connor",
-      "slug": "james-o-connor-1314",
+      "slug": "james-o-connor-1327",
       "position": "Fly-half",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -6471,7 +6471,7 @@
     {
       "name_ja": "ローリー アーノルト",
       "name_en": "Rory Arnold",
-      "slug": "rory-arnold-807",
+      "slug": "rory-arnold-809",
       "position": "LO",
       "team": "NECグリーンロケッツ東葛（2025-26）",
       "league": "league-one",
@@ -6519,7 +6519,7 @@
     {
       "name_ja": "ショーン マクマーン",
       "name_en": "Sean McMahon",
-      "slug": "sean-mcmahon-497",
+      "slug": "sean-mcmahon-487",
       "position": "FL/No8",
       "team": "東京サントリーサンゴリアス（2025-26）",
       "league": "league-one",
@@ -6531,7 +6531,7 @@
     {
       "name_ja": "クリスチャン リアリーファノ",
       "name_en": "Christian Lealiifano",
-      "slug": "christian-lealiifano-943",
+      "slug": "christian-lealiifano-934",
       "position": "SO",
       "team": "豊田自動織機シャトルズ愛知（2025-26）",
       "league": "league-one",
@@ -6627,7 +6627,7 @@
     {
       "name_ja": "リアム キル",
       "name_en": "Liam Gill",
-      "slug": "liam-gill-753",
+      "slug": "liam-gill-755",
       "position": "FL/No8",
       "team": "リコーブラックラムズ東京（2025-26）",
       "league": "league-one",
@@ -6699,7 +6699,7 @@
     {
       "name_ja": "Izaia Perese",
       "name_en": "Izaia Perese",
-      "slug": "izaia-perese-1310",
+      "slug": "izaia-perese-1322",
       "position": "Centre",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -6723,7 +6723,7 @@
     {
       "name_ja": "Tom Hooper",
       "name_en": "Tom Hooper",
-      "slug": "tom-hooper-1371",
+      "slug": "tom-hooper-1362",
       "position": "Flanker",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -6769,18 +6769,6 @@
       "weight": "102.0"
     },
     {
-      "name_ja": "Ben DONALDSON",
-      "name_en": "Ben DONALDSON",
-      "slug": "ben-donaldson",
-      "position": "SO",
-      "team": "Western Force",
-      "league": "super-rugby",
-      "caps": "Australia (3)",
-      "age": "26.0",
-      "height": "183.0",
-      "weight": "87.0"
-    },
-    {
       "name_ja": "Zane NONGGORR",
       "name_en": "Zane NONGGORR",
       "slug": "zane-nonggorr",
@@ -6791,6 +6779,18 @@
       "age": "24.0",
       "height": "187.0",
       "weight": "130.0"
+    },
+    {
+      "name_ja": "Ben DONALDSON",
+      "name_en": "Ben DONALDSON",
+      "slug": "ben-donaldson",
+      "position": "SO",
+      "team": "Western Force",
+      "league": "super-rugby",
+      "caps": "Australia (3)",
+      "age": "26.0",
+      "height": "183.0",
+      "weight": "87.0"
     },
     {
       "name_ja": "Matt FAESSLER",
@@ -6829,18 +6829,6 @@
       "weight": ""
     },
     {
-      "name_ja": "Tom BANKS",
-      "name_en": "Tom BANKS",
-      "slug": "thomas-banks",
-      "position": "FB",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": "Australia",
-      "age": "31.0",
-      "height": "186.0",
-      "weight": "93.0"
-    },
-    {
       "name_ja": "Ulupano SEUTENI",
       "name_en": "Ulupano SEUTENI",
       "slug": "ulupano-seuteni",
@@ -6853,64 +6841,16 @@
       "weight": "100.0"
     },
     {
-      "name_ja": "Corey TOOLE",
-      "name_en": "Corey TOOLE",
-      "slug": "corey-toole",
-      "position": "WTB",
-      "team": "Brumbies",
-      "league": "super-rugby",
+      "name_ja": "Tom BANKS",
+      "name_en": "Tom BANKS",
+      "slug": "thomas-banks",
+      "position": "FB",
+      "team": "モンペリエ",
+      "league": "top14",
       "caps": "Australia",
-      "age": "26.0",
-      "height": "178.0",
-      "weight": "85.0"
-    },
-    {
-      "name_ja": "Ollie NORRIS",
-      "name_en": "Ollie NORRIS",
-      "slug": "ollie-norris",
-      "position": "PR",
-      "team": "Chiefs",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "26.0",
-      "height": "194.0",
-      "weight": "122.0"
-    },
-    {
-      "name_ja": "Isaac AEDO KAILEA",
-      "name_en": "Isaac AEDO KAILEA",
-      "slug": "isaac-aedo-kailea",
-      "position": "PR",
-      "team": "Waratahs",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "25.0",
-      "height": "192.0",
-      "weight": "129.0"
-    },
-    {
-      "name_ja": "Issak FINES",
-      "name_en": "Issak FINES",
-      "slug": "issak-fines",
-      "position": "SH",
-      "team": "Fijian Drua",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "30.0",
-      "height": "173.0",
-      "weight": "82.0"
-    },
-    {
-      "name_ja": "Ryan LONERGAN",
-      "name_en": "Ryan LONERGAN",
-      "slug": "ryan-lonergan",
-      "position": "SH",
-      "team": "Brumbies",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "27.0",
-      "height": "184.0",
-      "weight": "82.0"
+      "age": "31.0",
+      "height": "186.0",
+      "weight": "93.0"
     },
     {
       "name_ja": "Angus BLYTH",
@@ -6925,100 +6865,16 @@
       "weight": "124.0"
     },
     {
-      "name_ja": "Jake GORDON",
-      "name_en": "Jake GORDON",
-      "slug": "jake-gordon",
-      "position": "SH",
-      "team": "Waratahs",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "32.0",
-      "height": "186.0",
-      "weight": "91.0"
-    },
-    {
-      "name_ja": "Joseph SUA'ALI'I",
-      "name_en": "Joseph SUA'ALI'I",
-      "slug": "joseph-sua-ali-i",
-      "position": "CTB",
-      "team": "Waratahs",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "22.0",
-      "height": "196.0",
-      "weight": "98.0"
-    },
-    {
-      "name_ja": "Pete SAMU",
-      "name_en": "Pete SAMU",
-      "slug": "pete-samu",
-      "position": "FL/No8",
-      "team": "Waratahs",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "34.0",
-      "height": "185.0",
-      "weight": "102.0"
-    },
-    {
-      "name_ja": "Pat PELLEGRINI",
-      "name_en": "Pat PELLEGRINI",
-      "slug": "patrick-pellegrini",
+      "name_ja": "Tane EDMED",
+      "name_en": "Tane EDMED",
+      "slug": "tane-edmed",
       "position": "SO",
-      "team": "Moana Pasifika",
+      "team": "Brumbies",
       "league": "super-rugby",
       "caps": "Australia",
-      "age": "27.0",
-      "height": "170.0",
-      "weight": "80.0"
-    },
-    {
-      "name_ja": "Jack MADDOCKS",
-      "name_en": "Jack MADDOCKS",
-      "slug": "jack-maddocks",
-      "position": "FB",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "Australia",
-      "age": "29.0",
-      "height": "194.0",
-      "weight": "96.0"
-    },
-    {
-      "name_ja": "Tom ROBERTSON",
-      "name_en": "Tom ROBERTSON",
-      "slug": "tom-robertson",
-      "position": "PR",
-      "team": "Western Force",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "31.0",
-      "height": "181.0",
-      "weight": "113.0"
-    },
-    {
-      "name_ja": "Darcy SWAIN",
-      "name_en": "Darcy SWAIN",
-      "slug": "darcy-swain",
-      "position": "LO",
-      "team": "Western Force",
-      "league": "super-rugby",
-      "caps": "Australia",
-      "age": "28.0",
-      "height": "200.0",
-      "weight": "117.0"
-    },
-    {
-      "name_ja": "Alex MASIBAKA",
-      "name_en": "Alex MASIBAKA",
-      "slug": "alex-masibaka",
-      "position": "FL/NO8",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": "Australia",
-      "age": "24.0",
-      "height": "186.0",
-      "weight": "115.0"
+      "age": "25.0",
+      "height": "183.0",
+      "weight": "92.0"
     },
     {
       "name_ja": "Tom WRIGHT",
@@ -7033,27 +6889,39 @@
       "weight": "100.0"
     },
     {
-      "name_ja": "Lachlan SWINTON",
-      "name_en": "Lachlan SWINTON",
-      "slug": "lachlan-swinton",
-      "position": "FL/NO8",
-      "team": "ボルドー・ベグル",
-      "league": "top14",
-      "caps": "Australia",
-      "age": "29.0",
-      "height": "195.0",
-      "weight": "113.0"
-    },
-    {
-      "name_ja": "Harry WILSON",
-      "name_en": "Harry WILSON",
-      "slug": "harry-wilson",
-      "position": "FL/No8",
-      "team": "Reds",
+      "name_ja": "Nic DOLLY",
+      "name_en": "Nic DOLLY",
+      "slug": "nic-dolly",
+      "position": "HO",
+      "team": "Western Force",
       "league": "super-rugby",
       "caps": "Australia",
       "age": "26.0",
-      "height": "196.0",
+      "height": "182.0",
+      "weight": "103.0"
+    },
+    {
+      "name_ja": "Tom ROBERTSON",
+      "name_en": "Tom ROBERTSON",
+      "slug": "tom-robertson",
+      "position": "PR",
+      "team": "Western Force",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "31.0",
+      "height": "181.0",
+      "weight": "113.0"
+    },
+    {
+      "name_ja": "Alex MASIBAKA",
+      "name_en": "Alex MASIBAKA",
+      "slug": "alex-masibaka",
+      "position": "FL/NO8",
+      "team": "モンペリエ",
+      "league": "top14",
+      "caps": "Australia",
+      "age": "24.0",
+      "height": "186.0",
       "weight": "115.0"
     },
     {
@@ -7069,16 +6937,148 @@
       "weight": "103.0"
     },
     {
-      "name_ja": "Nic DOLLY",
-      "name_en": "Nic DOLLY",
-      "slug": "nic-dolly",
-      "position": "HO",
-      "team": "Western Force",
+      "name_ja": "Corey TOOLE",
+      "name_en": "Corey TOOLE",
+      "slug": "corey-toole",
+      "position": "WTB",
+      "team": "Brumbies",
       "league": "super-rugby",
       "caps": "Australia",
       "age": "26.0",
-      "height": "182.0",
-      "weight": "103.0"
+      "height": "178.0",
+      "weight": "85.0"
+    },
+    {
+      "name_ja": "Lachlan SWINTON",
+      "name_en": "Lachlan SWINTON",
+      "slug": "lachlan-swinton",
+      "position": "FL/NO8",
+      "team": "ボルドー・ベグル",
+      "league": "top14",
+      "caps": "Australia",
+      "age": "29.0",
+      "height": "195.0",
+      "weight": "113.0"
+    },
+    {
+      "name_ja": "Jack MADDOCKS",
+      "name_en": "Jack MADDOCKS",
+      "slug": "jack-maddocks",
+      "position": "FB",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "Australia",
+      "age": "29.0",
+      "height": "194.0",
+      "weight": "96.0"
+    },
+    {
+      "name_ja": "Darcy SWAIN",
+      "name_en": "Darcy SWAIN",
+      "slug": "darcy-swain",
+      "position": "LO",
+      "team": "Western Force",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "28.0",
+      "height": "200.0",
+      "weight": "117.0"
+    },
+    {
+      "name_ja": "Isaac AEDO KAILEA",
+      "name_en": "Isaac AEDO KAILEA",
+      "slug": "isaac-aedo-kailea",
+      "position": "PR",
+      "team": "Waratahs",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "25.0",
+      "height": "192.0",
+      "weight": "129.0"
+    },
+    {
+      "name_ja": "Pete SAMU",
+      "name_en": "Pete SAMU",
+      "slug": "pete-samu",
+      "position": "FL/No8",
+      "team": "Waratahs",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "34.0",
+      "height": "185.0",
+      "weight": "102.0"
+    },
+    {
+      "name_ja": "Ollie NORRIS",
+      "name_en": "Ollie NORRIS",
+      "slug": "ollie-norris",
+      "position": "PR",
+      "team": "Chiefs",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "26.0",
+      "height": "194.0",
+      "weight": "122.0"
+    },
+    {
+      "name_ja": "Ryan LONERGAN",
+      "name_en": "Ryan LONERGAN",
+      "slug": "ryan-lonergan",
+      "position": "SH",
+      "team": "Brumbies",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "27.0",
+      "height": "184.0",
+      "weight": "82.0"
+    },
+    {
+      "name_ja": "Pat PELLEGRINI",
+      "name_en": "Pat PELLEGRINI",
+      "slug": "patrick-pellegrini",
+      "position": "SO",
+      "team": "Moana Pasifika",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "27.0",
+      "height": "170.0",
+      "weight": "80.0"
+    },
+    {
+      "name_ja": "Harry WILSON",
+      "name_en": "Harry WILSON",
+      "slug": "harry-wilson",
+      "position": "FL/No8",
+      "team": "Reds",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "26.0",
+      "height": "196.0",
+      "weight": "115.0"
+    },
+    {
+      "name_ja": "Jake GORDON",
+      "name_en": "Jake GORDON",
+      "slug": "jake-gordon",
+      "position": "SH",
+      "team": "Waratahs",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "32.0",
+      "height": "186.0",
+      "weight": "91.0"
+    },
+    {
+      "name_ja": "Issak FINES",
+      "name_en": "Issak FINES",
+      "slug": "issak-fines",
+      "position": "SH",
+      "team": "Fijian Drua",
+      "league": "super-rugby",
+      "caps": "Australia",
+      "age": "30.0",
+      "height": "173.0",
+      "weight": "82.0"
     },
     {
       "name_ja": "Harry JOHNSON-HOLMES",
@@ -7093,16 +7093,16 @@
       "weight": "119.0"
     },
     {
-      "name_ja": "Tane EDMED",
-      "name_en": "Tane EDMED",
-      "slug": "tane-edmed",
-      "position": "SO",
-      "team": "Brumbies",
+      "name_ja": "Joseph SUA'ALI'I",
+      "name_en": "Joseph SUA'ALI'I",
+      "slug": "joseph-sua-ali-i",
+      "position": "CTB",
+      "team": "Waratahs",
       "league": "super-rugby",
       "caps": "Australia",
-      "age": "25.0",
-      "height": "183.0",
-      "weight": "92.0"
+      "age": "22.0",
+      "height": "196.0",
+      "weight": "98.0"
     }
   ],
   "scotland": [
@@ -7181,7 +7181,7 @@
     {
       "name_ja": "Hamish WATSON",
       "name_en": "Hamish WATSON",
-      "slug": "hamish-watson-1668",
+      "slug": "hamish-watson-2017",
       "position": "FL/No8",
       "team": "Edimbourg",
       "league": "urc",
@@ -7217,7 +7217,7 @@
     {
       "name_ja": "ヒュー-ショーンス",
       "name_en": "Huw JONES",
-      "slug": "huw-jones-2073",
+      "slug": "huw-jones-1887",
       "position": "CTB",
       "team": "Glasgow",
       "league": "urc",
@@ -7229,7 +7229,7 @@
     {
       "name_ja": "マット ファーカソン",
       "name_en": "Matt FAGERSON",
-      "slug": "matt-fagerson-2119",
+      "slug": "matt-fagerson-1897",
       "position": "FL/No8",
       "team": "Glasgow",
       "league": "urc",
@@ -7263,6 +7263,18 @@
       "weight": ""
     },
     {
+      "name_ja": "スコット カミンクス",
+      "name_en": "Scott CUMMINGS",
+      "slug": "scott-cummings-2028",
+      "position": "LO",
+      "team": "Glasgow",
+      "league": "urc",
+      "caps": "Scotland (42)",
+      "age": "29.0",
+      "height": "199.0",
+      "weight": "117.0"
+    },
+    {
       "name_ja": "ターシー GRAHAM",
       "name_en": "Darcy GRAHAM",
       "slug": "darcy-graham",
@@ -7275,21 +7287,9 @@
       "weight": "85.0"
     },
     {
-      "name_ja": "スコット カミンクス",
-      "name_en": "Scott CUMMINGS",
-      "slug": "scott-cummings-1723",
-      "position": "LO",
-      "team": "Glasgow",
-      "league": "urc",
-      "caps": "Scotland (42)",
-      "age": "29.0",
-      "height": "199.0",
-      "weight": "117.0"
-    },
-    {
       "name_ja": "George Turner",
       "name_en": "George Turner",
-      "slug": "george-turner-1305",
+      "slug": "george-turner-1314",
       "position": "Hooker",
       "team": "Harlequins",
       "league": "premiership",
@@ -7301,7 +7301,7 @@
     {
       "name_ja": "Pierre SCHOEMAN",
       "name_en": "Pierre SCHOEMAN",
-      "slug": "pierre-schoeman-2084",
+      "slug": "pierre-schoeman-1931",
       "position": "PR",
       "team": "Edimbourg",
       "league": "urc",
@@ -7313,7 +7313,7 @@
     {
       "name_ja": "ロリー ササーラント",
       "name_en": "Rory SUTHERLAND",
-      "slug": "rory-sutherland-2259",
+      "slug": "rory-sutherland-2163",
       "position": "PR",
       "team": "Glasgow",
       "league": "urc",
@@ -7325,7 +7325,7 @@
     {
       "name_ja": "シェイミー-ハッティ",
       "name_en": "Jamie BHATTI",
-      "slug": "jamie-bhatti-1675",
+      "slug": "jamie-bhatti-1847",
       "position": "PR",
       "team": "Glasgow",
       "league": "urc",
@@ -7349,7 +7349,7 @@
     {
       "name_ja": "Sam SKINNER",
       "name_en": "Sam SKINNER",
-      "slug": "sam-skinner-1734",
+      "slug": "sam-skinner-2038",
       "position": "FL/No8",
       "team": "Edimbourg",
       "league": "urc",
@@ -7373,7 +7373,7 @@
     {
       "name_ja": "ロリー ターシ",
       "name_en": "Rory DARGE",
-      "slug": "rory-darge-1623",
+      "slug": "rory-darge-1972",
       "position": "FL/No8",
       "team": "Glasgow",
       "league": "urc",
@@ -7397,7 +7397,7 @@
     {
       "name_ja": "Ewan ASHMAN",
       "name_en": "Ewan ASHMAN",
-      "slug": "ewan-ashman-2070",
+      "slug": "ewan-ashman-1608",
       "position": "HO",
       "team": "Edimbourg",
       "league": "urc",
@@ -7409,7 +7409,7 @@
     {
       "name_ja": "シャック-テンフシー",
       "name_en": "Jack DEMPSEY",
-      "slug": "jack-dempsey-2094",
+      "slug": "jack-dempsey-1875",
       "position": "FL/No8",
       "team": "Glasgow",
       "league": "urc",
@@ -7445,7 +7445,7 @@
     {
       "name_ja": "Luke CROSBIE",
       "name_en": "Luke CROSBIE",
-      "slug": "luke-crosbie-1593",
+      "slug": "luke-crosbie-1965",
       "position": "FL/No8",
       "team": "Edimbourg",
       "league": "urc",
@@ -7481,7 +7481,7 @@
     {
       "name_ja": "シェイミー-トヒー",
       "name_en": "Jamie DOBIE",
-      "slug": "jamie-dobie-1712",
+      "slug": "jamie-dobie-1948",
       "position": "SH",
       "team": "Glasgow",
       "league": "urc",
@@ -7493,7 +7493,7 @@
     {
       "name_ja": "カイル ロウ",
       "name_en": "Kyle ROWE",
-      "slug": "kyle-rowe-1869",
+      "slug": "kyle-rowe-2037",
       "position": "FB",
       "team": "Glasgow",
       "league": "urc",
@@ -7515,18 +7515,6 @@
       "weight": ""
     },
     {
-      "name_ja": "Magnus BRADBURY",
-      "name_en": "Magnus BRADBURY",
-      "slug": "magnus-bradbury-1739",
-      "position": "FL/No8",
-      "team": "Edimbourg",
-      "league": "urc",
-      "caps": "Scotland (8)",
-      "age": "30.0",
-      "height": "191.0",
-      "weight": "116.0"
-    },
-    {
       "name_ja": "Stafford MCDOWALL",
       "name_en": "Stafford MCDOWALL",
       "slug": "stafford-mcdowall",
@@ -7537,6 +7525,18 @@
       "age": "28.0",
       "height": "193.0",
       "weight": "103.0"
+    },
+    {
+      "name_ja": "Magnus BRADBURY",
+      "name_en": "Magnus BRADBURY",
+      "slug": "magnus-bradbury-2002",
+      "position": "FL/No8",
+      "team": "Edimbourg",
+      "league": "urc",
+      "caps": "Scotland (8)",
+      "age": "30.0",
+      "height": "191.0",
+      "weight": "116.0"
     },
     {
       "name_ja": "Rory HUTCHINSON",
@@ -7551,6 +7551,30 @@
       "weight": ""
     },
     {
+      "name_ja": "シャウァン-セハスチャン",
+      "name_en": "Javan SEBASTIAN",
+      "slug": "javan-sebastian-1616",
+      "position": "PR",
+      "team": "Cardiff",
+      "league": "urc",
+      "caps": "Scotland (6)",
+      "age": "31.0",
+      "height": "177.0",
+      "weight": "125.0"
+    },
+    {
+      "name_ja": "オリー スミス",
+      "name_en": "Ollie SMITH",
+      "slug": "ollie-smith-1949",
+      "position": "FB",
+      "team": "Glasgow",
+      "league": "urc",
+      "caps": "Scotland (6)",
+      "age": "25.0",
+      "height": "188.0",
+      "weight": "98.0"
+    },
+    {
       "name_ja": "Dylan RICHARDSON",
       "name_en": "Dylan RICHARDSON",
       "slug": "dylan-richardson",
@@ -7563,33 +7587,9 @@
       "weight": "110.0"
     },
     {
-      "name_ja": "オリー スミス",
-      "name_en": "Ollie SMITH",
-      "slug": "ollie-smith-1729",
-      "position": "FB",
-      "team": "Glasgow",
-      "league": "urc",
-      "caps": "Scotland (6)",
-      "age": "25.0",
-      "height": "188.0",
-      "weight": "98.0"
-    },
-    {
-      "name_ja": "シャウァン-セハスチャン",
-      "name_en": "Javan SEBASTIAN",
-      "slug": "javan-sebastian-2127",
-      "position": "PR",
-      "team": "Cardiff",
-      "league": "urc",
-      "caps": "Scotland (6)",
-      "age": "31.0",
-      "height": "177.0",
-      "weight": "125.0"
-    },
-    {
       "name_ja": "Will Hurd",
       "name_en": "Will Hurd",
-      "slug": "will-hurd-1376",
+      "slug": "will-hurd-1366",
       "position": "Prop",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -7601,7 +7601,7 @@
     {
       "name_ja": "Matt CURRIE",
       "name_en": "Matt CURRIE",
-      "slug": "matt-currie-2155",
+      "slug": "matt-currie-1815",
       "position": "CTB",
       "team": "Edimbourg",
       "league": "urc",
@@ -7613,7 +7613,7 @@
     {
       "name_ja": "クレカー フラウン",
       "name_en": "Gregor BROWN",
-      "slug": "gregor-brown-2183",
+      "slug": "gregor-brown-1968",
       "position": "LO",
       "team": "Glasgow",
       "league": "urc",
@@ -7625,7 +7625,7 @@
     {
       "name_ja": "Tom Jordan",
       "name_en": "Tom Jordan",
-      "slug": "tom-jordan-1367",
+      "slug": "tom-jordan-1381",
       "position": "Centre",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -7635,21 +7635,9 @@
       "weight": ""
     },
     {
-      "name_ja": "Glen YOUNG",
-      "name_en": "Glen YOUNG",
-      "slug": "glen-young-1646",
-      "position": "LO",
-      "team": "Edimbourg",
-      "league": "urc",
-      "caps": "Scotland (3)",
-      "age": "31.0",
-      "height": "200.0",
-      "weight": "118.0"
-    },
-    {
       "name_ja": "Patrick HARRISON",
       "name_en": "Patrick HARRISON",
-      "slug": "patrick-harrison-2116",
+      "slug": "patrick-harrison-1816",
       "position": "HO",
       "team": "Edimbourg",
       "league": "urc",
@@ -7657,6 +7645,18 @@
       "age": "23.0",
       "height": "181.0",
       "weight": "111.0"
+    },
+    {
+      "name_ja": "Glen YOUNG",
+      "name_en": "Glen YOUNG",
+      "slug": "glen-young-1989",
+      "position": "LO",
+      "team": "Edimbourg",
+      "league": "urc",
+      "caps": "Scotland (3)",
+      "age": "31.0",
+      "height": "200.0",
+      "weight": "118.0"
     },
     {
       "name_ja": "D'Arcy RAE",
@@ -7673,7 +7673,7 @@
     {
       "name_ja": "ショニー マシュース",
       "name_en": "Johnny MATTHEWS",
-      "slug": "johnny-matthews-2992",
+      "slug": "johnny-matthews-3172",
       "position": "HO",
       "team": "Glasgow",
       "league": "urc",
@@ -7685,7 +7685,7 @@
     {
       "name_ja": "Marshall SYKES",
       "name_en": "Marshall SYKES",
-      "slug": "marshall-sykes-3020",
+      "slug": "marshall-sykes-3173",
       "position": "LO",
       "team": "Edimbourg",
       "league": "urc",
@@ -7695,16 +7695,16 @@
       "weight": "121.0"
     },
     {
-      "name_ja": "Ewan JOHNSON",
-      "name_en": "Ewan JOHNSON",
-      "slug": "ewan-johnson",
+      "name_ja": "Alex SAMUEL",
+      "name_en": "Alex SAMUEL",
+      "slug": "alex-samuel",
       "position": "LO",
-      "team": "バイヨンヌ",
-      "league": "top14",
+      "team": "Glasgow",
+      "league": "urc",
       "caps": "Scotland",
-      "age": "26.0",
-      "height": "202.0",
-      "weight": "120.0"
+      "age": "23.0",
+      "height": "206.0",
+      "weight": "124.0"
     },
     {
       "name_ja": "Freddy DOUGLAS",
@@ -7719,23 +7719,23 @@
       "weight": "95.0"
     },
     {
-      "name_ja": "Alex SAMUEL",
-      "name_en": "Alex SAMUEL",
-      "slug": "alex-samuel",
+      "name_ja": "Ewan JOHNSON",
+      "name_en": "Ewan JOHNSON",
+      "slug": "ewan-johnson",
       "position": "LO",
-      "team": "Glasgow",
-      "league": "urc",
+      "team": "バイヨンヌ",
+      "league": "top14",
       "caps": "Scotland",
-      "age": "23.0",
-      "height": "206.0",
-      "weight": "124.0"
+      "age": "26.0",
+      "height": "202.0",
+      "weight": "120.0"
     }
   ],
   "wales": [
     {
       "name_ja": "リー ハーフヘニー",
       "name_en": "Leigh HALFPENNY",
-      "slug": "leigh-halfpenny-1601",
+      "slug": "leigh-halfpenny-1946",
       "position": "FB",
       "team": "Cardiff",
       "league": "urc",
@@ -7747,7 +7747,7 @@
     {
       "name_ja": "Liam Williams",
       "name_en": "Liam Williams",
-      "slug": "liam-williams-1303",
+      "slug": "liam-williams-1334",
       "position": "Fullback",
       "team": "Newcastle Falcons",
       "league": "premiership",
@@ -7759,7 +7759,7 @@
     {
       "name_ja": "Tomos Williams",
       "name_en": "Tomos Williams",
-      "slug": "tomos-williams-1374",
+      "slug": "tomos-williams-1364",
       "position": "Scrum-half",
       "team": "Gloucester Rugby",
       "league": "premiership",
@@ -7771,7 +7771,7 @@
     {
       "name_ja": "ショシュ アタムス",
       "name_en": "Josh ADAMS",
-      "slug": "josh-adams-1627",
+      "slug": "josh-adams-1753",
       "position": "WTB",
       "team": "Cardiff",
       "league": "urc",
@@ -7807,7 +7807,7 @@
     {
       "name_ja": "エリオット-ティー",
       "name_en": "Elliot DEE",
-      "slug": "elliot-dee-1654",
+      "slug": "elliot-dee-1843",
       "position": "HO",
       "team": "Dragons",
       "league": "urc",
@@ -7831,7 +7831,7 @@
     {
       "name_ja": "Nicky Smith",
       "name_en": "Nicky Smith",
-      "slug": "nicky-smith-1375",
+      "slug": "nicky-smith-1365",
       "position": "Prop",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -7843,7 +7843,7 @@
     {
       "name_ja": "オウェイン ワトキン",
       "name_en": "Owen WATKIN",
-      "slug": "owen-watkin-1622",
+      "slug": "owen-watkin-1981",
       "position": "CTB",
       "team": "Ospreys",
       "league": "urc",
@@ -7867,7 +7867,7 @@
     {
       "name_ja": "ライアン エリアス",
       "name_en": "Ryan ELIAS",
-      "slug": "ryan-elias-1667",
+      "slug": "ryan-elias-1821",
       "position": "HO",
       "team": "Scarlets",
       "league": "urc",
@@ -7875,6 +7875,18 @@
       "age": "31.0",
       "height": "188.0",
       "weight": "115.0"
+    },
+    {
+      "name_ja": "シェイク-ホール",
+      "name_en": "Jake BALL",
+      "slug": "jake-ball-1621",
+      "position": "LO",
+      "team": "Scarlets",
+      "league": "urc",
+      "caps": "Wales (36)",
+      "age": "34.0",
+      "height": "200.0",
+      "weight": "121.0"
     },
     {
       "name_ja": "Will ROWLANDS",
@@ -7887,18 +7899,6 @@
       "age": "34.0",
       "height": "202.0",
       "weight": "125.0"
-    },
-    {
-      "name_ja": "シェイク-ホール",
-      "name_en": "Jake BALL",
-      "slug": "jake-ball-2286",
-      "position": "LO",
-      "team": "Scarlets",
-      "league": "urc",
-      "caps": "Wales (36)",
-      "age": "34.0",
-      "height": "200.0",
-      "weight": "121.0"
     },
     {
       "name_ja": "Gareth ANSCOMBE",
@@ -7915,7 +7915,7 @@
     {
       "name_ja": "ロス モリアーティ",
       "name_en": "Ross MORIARTY",
-      "slug": "ross-moriarty-1596",
+      "slug": "ross-moriarty-1947",
       "position": "FL/No8",
       "team": "Ospreys",
       "league": "urc",
@@ -7927,7 +7927,7 @@
     {
       "name_ja": "Louis Rees-Zammit",
       "name_en": "Louis Rees-Zammit",
-      "slug": "louis-rees-zammit-1293",
+      "slug": "louis-rees-zammit-1320",
       "position": "Wing",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -7939,7 +7939,7 @@
     {
       "name_ja": "Tommy Reffell",
       "name_en": "Tommy Reffell",
-      "slug": "tommy-reffell-1369",
+      "slug": "tommy-reffell-1383",
       "position": "Flanker",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -7951,7 +7951,7 @@
     {
       "name_ja": "Dafydd Jenkins",
       "name_en": "Dafydd Jenkins",
-      "slug": "dafydd-jenkins-1322",
+      "slug": "dafydd-jenkins-1309",
       "position": "Lock",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -7975,7 +7975,7 @@
     {
       "name_ja": "キーラン ハーティー",
       "name_en": "Kieran HARDY",
-      "slug": "kieran-hardy-1927",
+      "slug": "kieran-hardy-2036",
       "position": "SH",
       "team": "Ospreys",
       "league": "urc",
@@ -7997,18 +7997,6 @@
       "weight": "105.0"
     },
     {
-      "name_ja": "シェームス-ホーサム",
-      "name_en": "James BOTHAM",
-      "slug": "james-botham-1585",
-      "position": "FL/No8",
-      "team": "Cardiff",
-      "league": "urc",
-      "caps": "Wales (16)",
-      "age": "28.0",
-      "height": "191.0",
-      "weight": "108.0"
-    },
-    {
       "name_ja": "Taine BASHAM",
       "name_en": "Taine BASHAM",
       "slug": "taine-basham",
@@ -8021,9 +8009,21 @@
       "weight": "100.0"
     },
     {
+      "name_ja": "シェームス-ホーサム",
+      "name_en": "James BOTHAM",
+      "slug": "james-botham-1990",
+      "position": "FL/No8",
+      "team": "Cardiff",
+      "league": "urc",
+      "caps": "Wales (16)",
+      "age": "28.0",
+      "height": "191.0",
+      "weight": "108.0"
+    },
+    {
       "name_ja": "Christ Tshiunza",
       "name_en": "Christ Tshiunza",
-      "slug": "christ-tshiunza-1324",
+      "slug": "christ-tshiunza-1308",
       "position": "Lock",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -8047,7 +8047,7 @@
     {
       "name_ja": "リオ タイアー",
       "name_en": "Rio DYER",
-      "slug": "rio-dyer-1671",
+      "slug": "rio-dyer-1835",
       "position": "WTB",
       "team": "Dragons",
       "league": "urc",
@@ -8059,7 +8059,7 @@
     {
       "name_ja": "キーロン アシラッティ",
       "name_en": "Keiron ASSIRATTI",
-      "slug": "keiron-assiratti-2268",
+      "slug": "keiron-assiratti-1905",
       "position": "PR",
       "team": "Cardiff",
       "league": "urc",
@@ -8083,7 +8083,7 @@
     {
       "name_ja": "サム コステロウ",
       "name_en": "Sam COSTELOW",
-      "slug": "sam-costelow-1736",
+      "slug": "sam-costelow-2117",
       "position": "SO",
       "team": "Scarlets",
       "league": "urc",
@@ -8091,18 +8091,6 @@
       "age": "25.0",
       "height": "175.0",
       "weight": "84.0"
-    },
-    {
-      "name_ja": "サム ハリー",
-      "name_en": "Sam PARRY",
-      "slug": "sam-parry-1576",
-      "position": "HO",
-      "team": "Ospreys",
-      "league": "urc",
-      "caps": "Wales (7)",
-      "age": "34.0",
-      "height": "186.0",
-      "weight": "114.0"
     },
     {
       "name_ja": "ヘン トーマス",
@@ -8115,6 +8103,18 @@
       "age": "27.0",
       "height": "183.0",
       "weight": "93.0"
+    },
+    {
+      "name_ja": "サム ハリー",
+      "name_en": "Sam PARRY",
+      "slug": "sam-parry-2027",
+      "position": "HO",
+      "team": "Ospreys",
+      "league": "urc",
+      "caps": "Wales (7)",
+      "age": "34.0",
+      "height": "186.0",
+      "weight": "114.0"
     },
     {
       "name_ja": "Corey DOMACHOWSKI",
@@ -8141,21 +8141,9 @@
       "weight": "117.0"
     },
     {
-      "name_ja": "エウァン-ロイト",
-      "name_en": "Evan LLOYD",
-      "slug": "evan-lloyd-1681",
-      "position": "HO",
-      "team": "Cardiff",
-      "league": "urc",
-      "caps": "Wales (5)",
-      "age": "24.0",
-      "height": "185.0",
-      "weight": "115.0"
-    },
-    {
       "name_ja": "トム ロシャース",
       "name_en": "Tom ROGERS",
-      "slug": "tom-rogers-2085",
+      "slug": "tom-rogers-1615",
       "position": "WTB",
       "team": "Scarlets",
       "league": "urc",
@@ -8165,21 +8153,9 @@
       "weight": "87.0"
     },
     {
-      "name_ja": "ケムスリー マティアス",
-      "name_en": "Kemsley MATHIAS",
-      "slug": "kemsley-mathias-2159",
-      "position": "PR",
-      "team": "Scarlets",
-      "league": "urc",
-      "caps": "Wales (5)",
-      "age": "26.0",
-      "height": "185.0",
-      "weight": "121.0"
-    },
-    {
       "name_ja": "ロトリ ウィリアムス",
       "name_en": "Rhodri WILLIAMS",
-      "slug": "rhodri-williams-2206",
+      "slug": "rhodri-williams-1622",
       "position": "SH",
       "team": "Dragons",
       "league": "urc",
@@ -8189,9 +8165,33 @@
       "weight": "81.0"
     },
     {
+      "name_ja": "ケムスリー マティアス",
+      "name_en": "Kemsley MATHIAS",
+      "slug": "kemsley-mathias-1819",
+      "position": "PR",
+      "team": "Scarlets",
+      "league": "urc",
+      "caps": "Wales (5)",
+      "age": "26.0",
+      "height": "185.0",
+      "weight": "121.0"
+    },
+    {
+      "name_ja": "エウァン-ロイト",
+      "name_en": "Evan LLOYD",
+      "slug": "evan-lloyd-1916",
+      "position": "HO",
+      "team": "Cardiff",
+      "league": "urc",
+      "caps": "Wales (5)",
+      "age": "24.0",
+      "height": "185.0",
+      "weight": "115.0"
+    },
+    {
       "name_ja": "ヘンリー-トーマス",
       "name_en": "Henry THOMAS",
-      "slug": "henry-thomas-2273",
+      "slug": "henry-thomas-1620",
       "position": "PR",
       "team": "Scarlets",
       "league": "urc",
@@ -8227,7 +8227,7 @@
     {
       "name_ja": "Josh Hathaway",
       "name_en": "Josh Hathaway",
-      "slug": "josh-hathaway-1296",
+      "slug": "josh-hathaway-1331",
       "position": "Fullback",
       "team": "Gloucester Rugby",
       "league": "premiership",
@@ -8239,7 +8239,7 @@
     {
       "name_ja": "WillGriff John",
       "name_en": "WillGriff John",
-      "slug": "willgriff-john-1373",
+      "slug": "willgriff-john-1363",
       "position": "Prop",
       "team": "Sale Sharks",
       "league": "premiership",
@@ -8249,21 +8249,9 @@
       "weight": ""
     },
     {
-      "name_ja": "イオアン-ロイト",
-      "name_en": "Ioan LLOYD",
-      "slug": "ioan-lloyd-1870",
-      "position": "SO",
-      "team": "Cardiff",
-      "league": "urc",
-      "caps": "Wales (2)",
-      "age": "24.0",
-      "height": "179.0",
-      "weight": "86.0"
-    },
-    {
       "name_ja": "ショー ロハーツ",
       "name_en": "Joe ROBERTS",
-      "slug": "joe-roberts-1941",
+      "slug": "joe-roberts-1613",
       "position": "CTB",
       "team": "Scarlets",
       "league": "urc",
@@ -8285,9 +8273,21 @@
       "weight": "118.0"
     },
     {
+      "name_ja": "イオアン-ロイト",
+      "name_en": "Ioan LLOYD",
+      "slug": "ioan-lloyd-2055",
+      "position": "SO",
+      "team": "Cardiff",
+      "league": "urc",
+      "caps": "Wales (2)",
+      "age": "24.0",
+      "height": "179.0",
+      "weight": "86.0"
+    },
+    {
       "name_ja": "Freddie Thomas",
       "name_en": "Freddie Thomas",
-      "slug": "freddie-thomas-1327",
+      "slug": "freddie-thomas-1313",
       "position": "Flanker",
       "team": "Gloucester Rugby",
       "league": "premiership",
@@ -8309,18 +8309,6 @@
       "weight": "84.0"
     },
     {
-      "name_ja": "Cam WINNETT",
-      "name_en": "Cam WINNETT",
-      "slug": "cam-winnett",
-      "position": "FB",
-      "team": "Cardiff",
-      "league": "urc",
-      "caps": "Wales",
-      "age": "23.0",
-      "height": "180.0",
-      "weight": "85.0"
-    },
-    {
       "name_ja": "Alex MANN",
       "name_en": "Alex MANN",
       "slug": "alex-mann",
@@ -8331,6 +8319,18 @@
       "age": "24.0",
       "height": "191.0",
       "weight": "98.0"
+    },
+    {
+      "name_ja": "Cam WINNETT",
+      "name_en": "Cam WINNETT",
+      "slug": "cam-winnett",
+      "position": "FB",
+      "team": "Cardiff",
+      "league": "urc",
+      "caps": "Wales",
+      "age": "23.0",
+      "height": "180.0",
+      "weight": "85.0"
     },
     {
       "name_ja": "ルーク MORGAN",
@@ -8361,7 +8361,7 @@
     {
       "name_ja": "ハフロ マテーラ",
       "name_en": "Pablo Matera",
-      "slug": "pablo-matera-921",
+      "slug": "pablo-matera-943",
       "position": "FL/No8",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -8397,7 +8397,7 @@
     {
       "name_ja": "Nahuel TETAZ CHAPARRO",
       "name_en": "Nahuel TETAZ CHAPARRO",
-      "slug": "nahuel-tetaz-chaparro-1880",
+      "slug": "nahuel-tetaz-chaparro-2081",
       "position": "PR",
       "team": "Trévise",
       "league": "urc",
@@ -8421,7 +8421,7 @@
     {
       "name_ja": "Guido Petti",
       "name_en": "Guido Petti",
-      "slug": "guido-petti-1328",
+      "slug": "guido-petti-1338",
       "position": "Flanker",
       "team": "Harlequins",
       "league": "premiership",
@@ -8493,7 +8493,7 @@
     {
       "name_ja": "Lucio Cinti",
       "name_en": "Lucio Cinti",
-      "slug": "lucio-cinti-1302",
+      "slug": "lucio-cinti-1337",
       "position": "Centre",
       "team": "Saracens",
       "league": "premiership",
@@ -8505,7 +8505,7 @@
     {
       "name_ja": "Santiago Grondona",
       "name_en": "Santiago Grondona",
-      "slug": "santiago-grondona-1383",
+      "slug": "santiago-grondona-1373",
       "position": "Flanker",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -8529,7 +8529,7 @@
     {
       "name_ja": "Eduardo Bello",
       "name_en": "Eduardo Bello",
-      "slug": "eduardo-bello-1300",
+      "slug": "eduardo-bello-1310",
       "position": "Prop",
       "team": "Newcastle Falcons",
       "league": "premiership",
@@ -8575,18 +8575,6 @@
       "weight": "123.0"
     },
     {
-      "name_ja": "Mateo CARRERAS",
-      "name_en": "Mateo CARRERAS",
-      "slug": "mateo-carreras",
-      "position": "WTB",
-      "team": "バイヨンヌ",
-      "league": "top14",
-      "caps": "Argentina (11)",
-      "age": "26.0",
-      "height": "173.0",
-      "weight": "84.0"
-    },
-    {
       "name_ja": "Bautista DELGUY",
       "name_en": "Bautista DELGUY",
       "slug": "bautista-delguy",
@@ -8597,6 +8585,18 @@
       "age": "28.0",
       "height": "182.0",
       "weight": "85.0"
+    },
+    {
+      "name_ja": "Mateo CARRERAS",
+      "name_en": "Mateo CARRERAS",
+      "slug": "mateo-carreras",
+      "position": "WTB",
+      "team": "バイヨンヌ",
+      "league": "top14",
+      "caps": "Argentina (11)",
+      "age": "26.0",
+      "height": "173.0",
+      "weight": "84.0"
     },
     {
       "name_ja": "Ignacio RUIZ",
@@ -8613,7 +8613,7 @@
     {
       "name_ja": "Pedro Rubiolo",
       "name_en": "Pedro Rubiolo",
-      "slug": "pedro-rubiolo-1379",
+      "slug": "pedro-rubiolo-1369",
       "position": "Lock",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -8635,18 +8635,6 @@
       "weight": "113.0"
     },
     {
-      "name_ja": "Domingo MIOTTI",
-      "name_en": "Domingo MIOTTI",
-      "slug": "domingo-miotti",
-      "position": "SO",
-      "team": "モンペリエ",
-      "league": "top14",
-      "caps": "Argentina",
-      "age": "29.0",
-      "height": "188.0",
-      "weight": "93.0"
-    },
-    {
       "name_ja": "Francisco GORRISSEN",
       "name_en": "Francisco GORRISSEN",
       "slug": "francisco-gorrissen",
@@ -8657,6 +8645,18 @@
       "age": "31.0",
       "height": "191.0",
       "weight": "108.0"
+    },
+    {
+      "name_ja": "Benjamin URDAPILLETA",
+      "name_en": "Benjamin URDAPILLETA",
+      "slug": "benjamin-urdapilleta",
+      "position": "SO",
+      "team": "ペルピニャン",
+      "league": "top14",
+      "caps": "Argentina",
+      "age": "40.0",
+      "height": "178.0",
+      "weight": "86.0"
     },
     {
       "name_ja": "Tomas ALBORNOZ",
@@ -8671,16 +8671,16 @@
       "weight": "82.0"
     },
     {
-      "name_ja": "Benjamin URDAPILLETA",
-      "name_en": "Benjamin URDAPILLETA",
-      "slug": "benjamin-urdapilleta",
+      "name_ja": "Domingo MIOTTI",
+      "name_en": "Domingo MIOTTI",
+      "slug": "domingo-miotti",
       "position": "SO",
-      "team": "ペルピニャン",
+      "team": "モンペリエ",
       "league": "top14",
       "caps": "Argentina",
-      "age": "40.0",
-      "height": "178.0",
-      "weight": "86.0"
+      "age": "29.0",
+      "height": "188.0",
+      "weight": "93.0"
     },
     {
       "name_ja": "Facundo BOSCH",
@@ -8771,7 +8771,7 @@
     {
       "name_ja": "Eroni Mawi",
       "name_en": "Eroni Mawi",
-      "slug": "eroni-mawi-1316",
+      "slug": "eroni-mawi-1305",
       "position": "Prop",
       "team": "Saracens",
       "league": "premiership",
@@ -8819,7 +8819,7 @@
     {
       "name_ja": "セミ ラトラトラ",
       "name_en": "Semi Radradra",
-      "slug": "semi-radradra-387",
+      "slug": "semi-radradra-384",
       "position": "CTB",
       "team": "静岡ブルーレヴズ（2025-26）",
       "league": "league-one",
@@ -8867,7 +8867,7 @@
     {
       "name_ja": "テヒタ イカニウェレ",
       "name_en": "Tevita Ikanivere",
-      "slug": "tevita-ikanivere-1149",
+      "slug": "tevita-ikanivere-898",
       "position": "HO",
       "team": "三重ホンダヒート（2025-26）",
       "league": "league-one",
@@ -8903,7 +8903,7 @@
     {
       "name_ja": "Kalaveti Ravouvou",
       "name_en": "Kalaveti Ravouvou",
-      "slug": "kalaveti-ravouvou-1297",
+      "slug": "kalaveti-ravouvou-1333",
       "position": "Centre",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -8985,18 +8985,6 @@
       "weight": "124.0"
     },
     {
-      "name_ja": "Lekima TAGITAGIVALU",
-      "name_en": "Lekima TAGITAGIVALU",
-      "slug": "lekima-tagitagivalu",
-      "position": "FL/NO8",
-      "team": "ラシン92",
-      "league": "top14",
-      "caps": "Fiji (3)",
-      "age": "30.0",
-      "height": "195.0",
-      "weight": "110.0"
-    },
-    {
       "name_ja": "Zuriel TOGIATAMA",
       "name_en": "Zuriel TOGIATAMA",
       "slug": "zuriel-togiatama",
@@ -9007,6 +8995,18 @@
       "age": "27.0",
       "height": "183.0",
       "weight": "109.0"
+    },
+    {
+      "name_ja": "Lekima TAGITAGIVALU",
+      "name_en": "Lekima TAGITAGIVALU",
+      "slug": "lekima-tagitagivalu",
+      "position": "FL/NO8",
+      "team": "ラシン92",
+      "league": "top14",
+      "caps": "Fiji (3)",
+      "age": "30.0",
+      "height": "195.0",
+      "weight": "110.0"
     },
     {
       "name_ja": "Iosefo MASI",
@@ -9033,18 +9033,6 @@
       "weight": "120.0"
     },
     {
-      "name_ja": "Setariki TUICUVU",
-      "name_en": "Setariki TUICUVU",
-      "slug": "setariki-tuicuvu",
-      "position": "CTB",
-      "team": "トゥーロン",
-      "league": "top14",
-      "caps": "Fiji",
-      "age": "30.0",
-      "height": "179.0",
-      "weight": "95.0"
-    },
-    {
       "name_ja": "Adrea COCAGI",
       "name_en": "Adrea COCAGI",
       "slug": "adrea-cocagi",
@@ -9055,6 +9043,18 @@
       "age": "32.0",
       "height": "185.0",
       "weight": "109.0"
+    },
+    {
+      "name_ja": "Setariki TUICUVU",
+      "name_en": "Setariki TUICUVU",
+      "slug": "setariki-tuicuvu",
+      "position": "CTB",
+      "team": "トゥーロン",
+      "league": "top14",
+      "caps": "Fiji",
+      "age": "30.0",
+      "height": "179.0",
+      "weight": "95.0"
     },
     {
       "name_ja": "Tavite VEREDAMU",
@@ -9069,6 +9069,30 @@
       "weight": "108.0"
     },
     {
+      "name_ja": "Setareki TURAGACOKE",
+      "name_en": "Setareki TURAGACOKE",
+      "slug": "setareki-turagacoke",
+      "position": "LO",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "Fiji",
+      "age": "20.0",
+      "height": "200.0",
+      "weight": "117.0"
+    },
+    {
+      "name_ja": "Timoci TAVATAVANAWAI",
+      "name_en": "Timoci TAVATAVANAWAI",
+      "slug": "timoci-tavatavanawai",
+      "position": "CTB",
+      "team": "Highlanders",
+      "league": "super-rugby",
+      "caps": "Fiji",
+      "age": "28.0",
+      "height": "187.0",
+      "weight": "111.0"
+    },
+    {
       "name_ja": "Mesulame DOLOKOTO",
       "name_en": "Mesulame DOLOKOTO",
       "slug": "mesulame-dolokoto",
@@ -9079,18 +9103,6 @@
       "age": "31.0",
       "height": "177.0",
       "weight": "115.0"
-    },
-    {
-      "name_ja": "Filipo DAUGUNU",
-      "name_en": "Filipo DAUGUNU",
-      "slug": "filipo-daugunu",
-      "position": "WTB",
-      "team": "Reds",
-      "league": "super-rugby",
-      "caps": "Fiji",
-      "age": "31.0",
-      "height": "181.0",
-      "weight": "101.0"
     },
     {
       "name_ja": "Nathan HUGHES",
@@ -9105,16 +9117,16 @@
       "weight": "126.0"
     },
     {
-      "name_ja": "Setareki TURAGACOKE",
-      "name_en": "Setareki TURAGACOKE",
-      "slug": "setareki-turagacoke",
-      "position": "LO",
-      "team": "スタッド・フランセ",
-      "league": "top14",
+      "name_ja": "Filipo DAUGUNU",
+      "name_en": "Filipo DAUGUNU",
+      "slug": "filipo-daugunu",
+      "position": "WTB",
+      "team": "Reds",
+      "league": "super-rugby",
       "caps": "Fiji",
-      "age": "20.0",
-      "height": "200.0",
-      "weight": "117.0"
+      "age": "31.0",
+      "height": "181.0",
+      "weight": "101.0"
     },
     {
       "name_ja": "Pita-Gus SOWAKULA",
@@ -9127,18 +9139,6 @@
       "age": "31.0",
       "height": "195.0",
       "weight": "117.0"
-    },
-    {
-      "name_ja": "Timoci TAVATAVANAWAI",
-      "name_en": "Timoci TAVATAVANAWAI",
-      "slug": "timoci-tavatavanawai",
-      "position": "CTB",
-      "team": "Highlanders",
-      "league": "super-rugby",
-      "caps": "Fiji",
-      "age": "28.0",
-      "height": "187.0",
-      "weight": "111.0"
     }
   ],
   "italy": [
@@ -9157,7 +9157,7 @@
     {
       "name_ja": "Federico RUZZA",
       "name_en": "Federico RUZZA",
-      "slug": "federico-ruzza-1659",
+      "slug": "federico-ruzza-1863",
       "position": "LO",
       "team": "Trévise",
       "league": "urc",
@@ -9169,7 +9169,7 @@
     {
       "name_ja": "Simone FERRARI",
       "name_en": "Simone FERRARI",
-      "slug": "simone-ferrari-2049",
+      "slug": "simone-ferrari-2047",
       "position": "PR",
       "team": "Trévise",
       "league": "urc",
@@ -9181,7 +9181,7 @@
     {
       "name_ja": "Niccolo CANNONE",
       "name_en": "Niccolo CANNONE",
-      "slug": "niccolo-cannone-1592",
+      "slug": "niccolo-cannone-1944",
       "position": "LO",
       "team": "Trévise",
       "league": "urc",
@@ -9205,7 +9205,7 @@
     {
       "name_ja": "ルカ モリシ",
       "name_en": "Luca MORISI",
-      "slug": "luca-morisi-1624",
+      "slug": "luca-morisi-2062",
       "position": "CTB",
       "team": "Zebre",
       "league": "urc",
@@ -9263,6 +9263,18 @@
       "weight": "95.0"
     },
     {
+      "name_ja": "Marco Riccioni",
+      "name_en": "Marco Riccioni",
+      "slug": "marco-riccioni-1318",
+      "position": "Prop",
+      "team": "Saracens",
+      "league": "premiership",
+      "caps": "Italy (31)",
+      "age": "28.0",
+      "height": "",
+      "weight": ""
+    },
+    {
       "name_ja": "Pietro CECCARELLI",
       "name_en": "Pietro CECCARELLI",
       "slug": "pietro-ceccarelli",
@@ -9275,21 +9287,9 @@
       "weight": "128.0"
     },
     {
-      "name_ja": "Marco Riccioni",
-      "name_en": "Marco Riccioni",
-      "slug": "marco-riccioni-1308",
-      "position": "Prop",
-      "team": "Saracens",
-      "league": "premiership",
-      "caps": "Italy (31)",
-      "age": "28.0",
-      "height": "",
-      "weight": ""
-    },
-    {
       "name_ja": "Stephen Varney",
       "name_en": "Stephen Varney",
-      "slug": "stephen-varney-1362",
+      "slug": "stephen-varney-1375",
       "position": "Scrum-half",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -9313,7 +9313,7 @@
     {
       "name_ja": "Manuel ZULIANI",
       "name_en": "Manuel ZULIANI",
-      "slug": "manuel-zuliani-1728",
+      "slug": "manuel-zuliani-1985",
       "position": "FL/No8",
       "team": "Trévise",
       "league": "urc",
@@ -9321,30 +9321,6 @@
       "age": "25.0",
       "height": "188.0",
       "weight": "111.0"
-    },
-    {
-      "name_ja": "Tommaso MENONCELLO",
-      "name_en": "Tommaso MENONCELLO",
-      "slug": "tommaso-menoncello-1666",
-      "position": "CTB",
-      "team": "Trévise",
-      "league": "urc",
-      "caps": "Italy (24)",
-      "age": "23.0",
-      "height": "187.0",
-      "weight": "101.0"
-    },
-    {
-      "name_ja": "Lorenzo CANNONE",
-      "name_en": "Lorenzo CANNONE",
-      "slug": "lorenzo-cannone-1878",
-      "position": "FL/No8",
-      "team": "Trévise",
-      "league": "urc",
-      "caps": "Italy (24)",
-      "age": "25.0",
-      "height": "190.0",
-      "weight": "106.0"
     },
     {
       "name_ja": "Ange CAPUOZZO",
@@ -9359,9 +9335,33 @@
       "weight": "82.0"
     },
     {
+      "name_ja": "Tommaso MENONCELLO",
+      "name_en": "Tommaso MENONCELLO",
+      "slug": "tommaso-menoncello-1900",
+      "position": "CTB",
+      "team": "Trévise",
+      "league": "urc",
+      "caps": "Italy (24)",
+      "age": "23.0",
+      "height": "187.0",
+      "weight": "101.0"
+    },
+    {
+      "name_ja": "Lorenzo CANNONE",
+      "name_en": "Lorenzo CANNONE",
+      "slug": "lorenzo-cannone-2071",
+      "position": "FL/No8",
+      "team": "Trévise",
+      "league": "urc",
+      "caps": "Italy (24)",
+      "age": "25.0",
+      "height": "190.0",
+      "weight": "106.0"
+    },
+    {
       "name_ja": "Giosue ZILOCCHI",
       "name_en": "Giosue ZILOCCHI",
-      "slug": "giosue-zilocchi-2013",
+      "slug": "giosue-zilocchi-1650",
       "position": "PR",
       "team": "Trévise",
       "league": "urc",
@@ -9397,7 +9397,7 @@
     {
       "name_ja": "マルコ サノン",
       "name_en": "Marco ZANON",
-      "slug": "marco-zanon-1692",
+      "slug": "marco-zanon-1975",
       "position": "CTB",
       "team": "Zebre",
       "league": "urc",
@@ -9443,6 +9443,30 @@
       "weight": "77.0"
     },
     {
+      "name_ja": "Ivan NEMER",
+      "name_en": "Ivan NEMER",
+      "slug": "ivan-nemer-1987",
+      "position": "PR",
+      "team": "Trévise",
+      "league": "urc",
+      "caps": "Italy (13)",
+      "age": "27.0",
+      "height": "180.0",
+      "weight": "117.0"
+    },
+    {
+      "name_ja": "Leonardo MARIN",
+      "name_en": "Leonardo MARIN",
+      "slug": "leonardo-marin-2046",
+      "position": "SO",
+      "team": "Trévise",
+      "league": "urc",
+      "caps": "Italy (13)",
+      "age": "24.0",
+      "height": "188.0",
+      "weight": "88.0"
+    },
+    {
       "name_ja": "Federico MORI",
       "name_en": "Federico MORI",
       "slug": "federico-mori",
@@ -9455,33 +9479,9 @@
       "weight": "108.0"
     },
     {
-      "name_ja": "Ivan NEMER",
-      "name_en": "Ivan NEMER",
-      "slug": "ivan-nemer-1892",
-      "position": "PR",
-      "team": "Trévise",
-      "league": "urc",
-      "caps": "Italy (13)",
-      "age": "27.0",
-      "height": "180.0",
-      "weight": "117.0"
-    },
-    {
-      "name_ja": "Leonardo MARIN",
-      "name_en": "Leonardo MARIN",
-      "slug": "leonardo-marin-2050",
-      "position": "SO",
-      "team": "Trévise",
-      "league": "urc",
-      "caps": "Italy (13)",
-      "age": "24.0",
-      "height": "188.0",
-      "weight": "88.0"
-    },
-    {
       "name_ja": "ヤコホ-トゥルッラ",
       "name_en": "Jacopo TRULLA",
-      "slug": "jacopo-trulla-1872",
+      "slug": "jacopo-trulla-1986",
       "position": "WTB",
       "team": "Zebre",
       "league": "urc",
@@ -9493,7 +9493,7 @@
     {
       "name_ja": "ティノ ラム",
       "name_en": "Dino Lamb",
-      "slug": "dino-lamb-1003",
+      "slug": "dino-lamb-1029",
       "position": "LO",
       "team": "横浜キヤノンイーグルス（2025-26）",
       "league": "league-one",
@@ -9505,7 +9505,7 @@
     {
       "name_ja": "Ross Vintcent",
       "name_en": "Ross Vintcent",
-      "slug": "ross-vintcent-1382",
+      "slug": "ross-vintcent-1372",
       "position": "Flanker",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -9541,7 +9541,7 @@
     {
       "name_ja": "ロレンツォ ハーニ",
       "name_en": "Lorenzo PANI",
-      "slug": "lorenzo-pani-3183",
+      "slug": "lorenzo-pani-2324",
       "position": "FB",
       "team": "Zebre",
       "league": "urc",
@@ -9553,7 +9553,7 @@
     {
       "name_ja": "Riccardo FAVRETTO",
       "name_en": "Riccardo FAVRETTO",
-      "slug": "riccardo-favretto-1581",
+      "slug": "riccardo-favretto-1841",
       "position": "LO",
       "team": "Trévise",
       "league": "urc",
@@ -9565,7 +9565,7 @@
     {
       "name_ja": "Andrea Zambonin",
       "name_en": "Andrea Zambonin",
-      "slug": "andrea-zambonin-1318",
+      "slug": "andrea-zambonin-1303",
       "position": "Lock",
       "team": "Exeter Chiefs",
       "league": "premiership",
@@ -9577,7 +9577,7 @@
     {
       "name_ja": "Paolo ODOGWU",
       "name_en": "Paolo ODOGWU",
-      "slug": "paolo-odogwu-1710",
+      "slug": "paolo-odogwu-2079",
       "position": "WTB",
       "team": "Trévise",
       "league": "urc",
@@ -9601,7 +9601,7 @@
     {
       "name_ja": "Matt GALLAGHER",
       "name_en": "Matt GALLAGHER",
-      "slug": "matt-gallagher-2924",
+      "slug": "matt-gallagher-2443",
       "position": "FB",
       "team": "Trévise",
       "league": "urc",
@@ -9613,7 +9613,7 @@
     {
       "name_ja": "シモーネ シェーシ",
       "name_en": "Simone GESI",
-      "slug": "simone-gesi-3142",
+      "slug": "simone-gesi-2507",
       "position": "WTB",
       "team": "Zebre",
       "league": "urc",
@@ -9625,7 +9625,7 @@
     {
       "name_ja": "シュリオ ヘルタチーニ",
       "name_en": "Giulio BERTACCINI",
-      "slug": "giulio-bertaccini-2725",
+      "slug": "giulio-bertaccini-2498",
       "position": "CTB",
       "team": "Zebre",
       "league": "urc",
@@ -9647,16 +9647,16 @@
       "weight": "114.0"
     },
     {
-      "name_ja": "Enrico LUCCHIN",
-      "name_en": "Enrico LUCCHIN",
-      "slug": "enrico-lucchin",
-      "position": "CTB",
+      "name_ja": "Paolo BUONFIGLIO",
+      "name_en": "Paolo BUONFIGLIO",
+      "slug": "paolo-buonfiglio",
+      "position": "PR",
       "team": "Zebre",
       "league": "urc",
       "caps": "Italy",
-      "age": "30.0",
-      "height": "188.0",
-      "weight": "103.0"
+      "age": "31.0",
+      "height": "183.0",
+      "weight": "114.0"
     },
     {
       "name_ja": "Giovanni LICATA",
@@ -9671,16 +9671,16 @@
       "weight": "111.0"
     },
     {
-      "name_ja": "Paolo BUONFIGLIO",
-      "name_en": "Paolo BUONFIGLIO",
-      "slug": "paolo-buonfiglio",
-      "position": "PR",
+      "name_ja": "Enrico LUCCHIN",
+      "name_en": "Enrico LUCCHIN",
+      "slug": "enrico-lucchin",
+      "position": "CTB",
       "team": "Zebre",
       "league": "urc",
       "caps": "Italy",
-      "age": "31.0",
-      "height": "183.0",
-      "weight": "114.0"
+      "age": "30.0",
+      "height": "188.0",
+      "weight": "103.0"
     }
   ],
   "georgia": [
@@ -9807,7 +9807,7 @@
     {
       "name_ja": "Luka Ivanishvili",
       "name_en": "Luka Ivanishvili",
-      "slug": "luka-ivanishvili-1301",
+      "slug": "luka-ivanishvili-1335",
       "position": "Flanker",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -9815,6 +9815,18 @@
       "age": "24.0",
       "height": "",
       "weight": ""
+    },
+    {
+      "name_ja": "Beka SAGINADZE",
+      "name_en": "Beka SAGINADZE",
+      "slug": "beka-saghinadze",
+      "position": "FL/NO8",
+      "team": "リヨン",
+      "league": "top14",
+      "caps": "Georgia",
+      "age": "27.0",
+      "height": "192.0",
+      "weight": "110.0"
     },
     {
       "name_ja": "Giorgi JAVAKHIA",
@@ -9839,18 +9851,6 @@
       "age": "32.0",
       "height": "177.0",
       "weight": "115.0"
-    },
-    {
-      "name_ja": "Beka SAGINADZE",
-      "name_en": "Beka SAGINADZE",
-      "slug": "beka-saghinadze",
-      "position": "FL/NO8",
-      "team": "リヨン",
-      "league": "top14",
-      "caps": "Georgia",
-      "age": "27.0",
-      "height": "192.0",
-      "weight": "110.0"
     },
     {
       "name_ja": "Sergo ABRAMISHVILI",
@@ -9941,7 +9941,7 @@
     {
       "name_ja": "Theo McFarland",
       "name_en": "Theo McFarland",
-      "slug": "theo-mcfarland-1365",
+      "slug": "theo-mcfarland-1379",
       "position": "Flanker",
       "team": "Saracens",
       "league": "premiership",
@@ -9977,7 +9977,7 @@
     {
       "name_ja": "タレニ セウ",
       "name_en": "Taleni Seu",
-      "slug": "taleni-seu-1083",
+      "slug": "taleni-seu-1078",
       "position": "FL/No8",
       "team": "豊田自動織機シャトルズ愛知（2025-26）",
       "league": "league-one",
@@ -10013,7 +10013,7 @@
     {
       "name_ja": "サム スレイト",
       "name_en": "Sam Slade",
-      "slug": "sam-slade-28",
+      "slug": "sam-slade-23",
       "position": "LO",
       "team": "狭山セコムラガッツ（2025-26）",
       "league": "league-one",
@@ -10025,7 +10025,7 @@
     {
       "name_ja": "ヘンリー タエフ",
       "name_en": "Henry Taefu",
-      "slug": "henry-taefu-1009",
+      "slug": "henry-taefu-1089",
       "position": "CTB",
       "team": "レッドハリケーンズ大阪（2025-26）",
       "league": "league-one",
@@ -10095,18 +10095,6 @@
       "weight": "90.0"
     },
     {
-      "name_ja": "Hunter PAISAMI",
-      "name_en": "Hunter PAISAMI",
-      "slug": "hunter-paisami",
-      "position": "CTB",
-      "team": "Reds",
-      "league": "super-rugby",
-      "caps": "Samoa",
-      "age": "27.0",
-      "height": "172.0",
-      "weight": "91.0"
-    },
-    {
       "name_ja": "Iakopo MAPU",
       "name_en": "Iakopo MAPU",
       "slug": "iakopo-petelo-mapu",
@@ -10117,6 +10105,18 @@
       "age": "28.0",
       "height": "183.0",
       "weight": "106.0"
+    },
+    {
+      "name_ja": "Hunter PAISAMI",
+      "name_en": "Hunter PAISAMI",
+      "slug": "hunter-paisami",
+      "position": "CTB",
+      "team": "Reds",
+      "league": "super-rugby",
+      "caps": "Samoa",
+      "age": "27.0",
+      "height": "172.0",
+      "weight": "91.0"
     }
   ],
   "tonga": [
@@ -10169,6 +10169,18 @@
       "weight": "113.0"
     },
     {
+      "name_ja": "Tanginoa HALAIFONUA",
+      "name_en": "Tanginoa HALAIFONUA",
+      "slug": "tanginoa-halaifonua",
+      "position": "LO",
+      "team": "スタッド・フランセ",
+      "league": "top14",
+      "caps": "Tonga (13)",
+      "age": "29.0",
+      "height": "196.0",
+      "weight": "115.0"
+    },
+    {
       "name_ja": "Sam MOLI",
       "name_en": "Sam MOLI",
       "slug": "sam-moli",
@@ -10183,7 +10195,7 @@
     {
       "name_ja": "サム ルシ",
       "name_en": "Sam LOUSI",
-      "slug": "sam-lousi-2189",
+      "slug": "sam-lousi-2019",
       "position": "LO",
       "team": "Scarlets",
       "league": "urc",
@@ -10191,18 +10203,6 @@
       "age": "34.0",
       "height": "198.0",
       "weight": "121.0"
-    },
-    {
-      "name_ja": "Tanginoa HALAIFONUA",
-      "name_en": "Tanginoa HALAIFONUA",
-      "slug": "tanginoa-halaifonua",
-      "position": "LO",
-      "team": "スタッド・フランセ",
-      "league": "top14",
-      "caps": "Tonga (13)",
-      "age": "29.0",
-      "height": "196.0",
-      "weight": "115.0"
     },
     {
       "name_ja": "Sione VAILANU",
@@ -10219,7 +10219,7 @@
     {
       "name_ja": "Solomone Kata",
       "name_en": "Solomone Kata",
-      "slug": "solomone-kata-1364",
+      "slug": "solomone-kata-1374",
       "position": "Centre",
       "team": "Leicester Tigers",
       "league": "premiership",
@@ -10231,7 +10231,7 @@
     {
       "name_ja": "Malakai FEKITOA",
       "name_en": "Malakai FEKITOA",
-      "slug": "malakai-fekitoa-1693",
+      "slug": "malakai-fekitoa-1914",
       "position": "CTB",
       "team": "Trévise",
       "league": "urc",
@@ -10243,7 +10243,7 @@
     {
       "name_ja": "ソロモネ フナキ",
       "name_en": "Solomone Funaki",
-      "slug": "solomone-funaki-145",
+      "slug": "solomone-funaki-92",
       "position": "FL/No8",
       "team": "コベルコ神戸スティーラーズ（2025-26）",
       "league": "league-one",
@@ -10255,7 +10255,7 @@
     {
       "name_ja": "フィネ-イニシ",
       "name_en": "Fine INISI",
-      "slug": "fine-inisi-3254",
+      "slug": "fine-inisi-3259",
       "position": "WTB",
       "team": "Dragons",
       "league": "urc",
@@ -10313,6 +10313,18 @@
       "weight": "101.0"
     },
     {
+      "name_ja": "Siate TOKOLAHI",
+      "name_en": "Siate TOKOLAHI",
+      "slug": "siate-tokolahi",
+      "position": "PR",
+      "team": "ポー",
+      "league": "top14",
+      "caps": "Tonga (3)",
+      "age": "34.0",
+      "height": "184.0",
+      "weight": "116.0"
+    },
+    {
       "name_ja": "Augustine PULU",
       "name_en": "Augustine PULU",
       "slug": "augustine-pulu",
@@ -10337,21 +10349,9 @@
       "weight": "113.0"
     },
     {
-      "name_ja": "Siate TOKOLAHI",
-      "name_en": "Siate TOKOLAHI",
-      "slug": "siate-tokolahi",
-      "position": "PR",
-      "team": "ポー",
-      "league": "top14",
-      "caps": "Tonga (3)",
-      "age": "34.0",
-      "height": "184.0",
-      "weight": "116.0"
-    },
-    {
       "name_ja": "フェトゥリ-ハエア",
       "name_en": "Fetuli PAEA",
-      "slug": "fetuli-paea-2079",
+      "slug": "fetuli-paea-1636",
       "position": "CTB",
       "team": "Dragons",
       "league": "urc",
@@ -10371,18 +10371,6 @@
       "age": "30.0",
       "height": "187.0",
       "weight": "123.0"
-    },
-    {
-      "name_ja": "Samipeni FINAU",
-      "name_en": "Samipeni FINAU",
-      "slug": "samipeni-finau",
-      "position": "FL/No8",
-      "team": "Chiefs",
-      "league": "super-rugby",
-      "caps": "Tonga",
-      "age": "26.0",
-      "height": "196.0",
-      "weight": "115.0"
     },
     {
       "name_ja": "Toma'Akino TAUFA",
@@ -10407,13 +10395,25 @@
       "age": "26.0",
       "height": "187.0",
       "weight": "105.0"
+    },
+    {
+      "name_ja": "Samipeni FINAU",
+      "name_en": "Samipeni FINAU",
+      "slug": "samipeni-finau",
+      "position": "FL/No8",
+      "team": "Chiefs",
+      "league": "super-rugby",
+      "caps": "Tonga",
+      "age": "26.0",
+      "height": "196.0",
+      "weight": "115.0"
     }
   ],
   "namibia": [
     {
       "name_ja": "ル ルー マラン",
       "name_en": "Le Roux MALAN",
-      "slug": "le-roux-malan-2379",
+      "slug": "le-roux-malan-2755",
       "position": "CTB",
       "team": "Sharks",
       "league": "urc",
@@ -10427,7 +10427,7 @@
     {
       "name_ja": "Titi Lamositele",
       "name_en": "Titi Lamositele",
-      "slug": "titi-lamositele-1370",
+      "slug": "titi-lamositele-1380",
       "position": "Prop",
       "team": "Harlequins",
       "league": "premiership",
@@ -10439,7 +10439,7 @@
     {
       "name_ja": "AJ MacGinty",
       "name_en": "AJ MacGinty",
-      "slug": "aj-macginty-1335",
+      "slug": "aj-macginty-1300",
       "position": "Fly-half",
       "team": "Bristol Bears",
       "league": "premiership",
@@ -10554,18 +10554,6 @@
       "weight": "132.0"
     },
     {
-      "name_ja": "Joel MERKLER",
-      "name_en": "Joel MERKLER",
-      "slug": "joel-merkler",
-      "position": "PR",
-      "team": "トゥールーズ",
-      "league": "top14",
-      "caps": "Spain",
-      "age": "24.0",
-      "height": "194.0",
-      "weight": "135.0"
-    },
-    {
       "name_ja": "Hugo GONZALEZ",
       "name_en": "Hugo GONZALEZ",
       "slug": "hugo-gonzalez",
@@ -10576,6 +10564,18 @@
       "age": "21.0",
       "height": "184.0",
       "weight": "119.0"
+    },
+    {
+      "name_ja": "Joel MERKLER",
+      "name_en": "Joel MERKLER",
+      "slug": "joel-merkler",
+      "position": "PR",
+      "team": "トゥールーズ",
+      "league": "top14",
+      "caps": "Spain",
+      "age": "24.0",
+      "height": "194.0",
+      "weight": "135.0"
     }
   ],
   "hong-kong": [],
