@@ -11,7 +11,7 @@ from google.analytics.data_v1beta.types import (
 )
 
 # GA4 プロパティ ID
-PROPERTY_ID = os.getenv('GA4_PROPERTY_ID', 'YOUR_PROPERTY_ID')
+PROPERTY_ID = os.getenv('GA4_PROPERTY_ID', '517948838')
 # サービスアカウントキーのパス (Google Cloud Console で生成)
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'config/ga4-key.json'
 
