@@ -168,6 +168,24 @@ def generate_markdown():
         career_history_raw = PlayerDataProcessor.get_safe_attr(row, 'キャリア遍歴')
         career_history = PlayerDataProcessor.consolidate_career_history(career_history_raw)
         high_school = PlayerDataProcessor.get_safe_attr(row, 'High_School')
+        
+        # 高校名の統合・表示変換（旧称↔現称の併記ルール）
+        HIGH_SCHOOL_DISPLAY_MAP = {
+            '伏見工業高校': '伏見工業高校（現：京都工学院高校）',
+            '京都工学院高校': '京都工学院高校（旧：伏見工業高校）',
+            '東海大仰星高校': '東海大仰星高校（現：東海大大阪仰星高校）',
+            '東海大大阪仰星高校': '東海大大阪仰星高校（旧：東海大仰星高校）',
+        }
+        # 集計用の統合名（同一校として扱うためのキー）
+        HIGH_SCHOOL_UNIFIED_MAP = {
+            '京都工学院高校': '伏見工業高校/京都工学院高校',
+            '伏見工業高校': '伏見工業高校/京都工学院高校',
+            '東海大大阪仰星高校': '東海大仰星高校/東海大大阪仰星高校',
+            '東海大仰星高校': '東海大仰星高校/東海大大阪仰星高校',
+        }
+        high_school_display = HIGH_SCHOOL_DISPLAY_MAP.get(high_school, high_school)
+        high_school_unified = HIGH_SCHOOL_UNIFIED_MAP.get(high_school, high_school)
+        
         university = PlayerDataProcessor.get_safe_attr(row, 'University')
         l1_caps = PlayerDataProcessor.get_safe_attr(row, 'League_One_Caps')
 
@@ -210,7 +228,7 @@ birth_place_scraped: "{birthplace}"
 league: "{final_league}"
 team: "{current_team}"
 caps: "{caps}"
-high_school: "{high_school}"
+high_school: "{high_school_display}"
 university: "{university}"
 scraped_url: "{scraped_url}"
 league_one_caps: "{l1_caps}"
@@ -239,7 +257,7 @@ league_one_caps: "{l1_caps}"
                 "league": final_league,
                 "team": current_team,
                 "caps": caps,
-                "high_school": high_school,
+                "high_school": high_school_display,
                 "university": university
             }
         })
