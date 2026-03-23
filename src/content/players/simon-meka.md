@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simon-meka"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US Canton d'Alban (2011 - 2016) -> Castres Olympique (2016 - 2022) -> US Carcassonne (2022 - 2023) -> Sporting Club Albigeois (2023 - ) -> Castres Olympique (2024 - )
+US Canton d'Alban (2011 - 2016) -> Castres Olympique (2016 - 2022) -> US Carcassonne (2022 - 2023) -> Sporting Club Albigeois (2023 - 2025) -> Castres Olympique (2024 - )

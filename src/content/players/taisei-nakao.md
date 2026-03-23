@@ -16,7 +16,8 @@ caps: ""
 high_school: "大分舞鶴高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/483811"
+league_one_caps: "52"
 ---
 
 ## キャリア遍歴
-クリタウォーターガッシュ昭島 (2021)
+クリタウォーターガッシュ昭島 (2021 - )

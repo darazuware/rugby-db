@@ -16,7 +16,8 @@ caps: "日本代表(9)"
 high_school: "リアホナ"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483966"
+league_one_caps: "41"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021)
+コベルコ神戸スティーラーズ (2021 - )

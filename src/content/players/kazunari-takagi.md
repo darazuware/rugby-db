@@ -16,7 +16,8 @@ caps: ""
 high_school: "慶應義塾高校"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/484840"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-Yokohama Canon Eagles (2020)
+Yokohama Canon Eagles (2020 - )

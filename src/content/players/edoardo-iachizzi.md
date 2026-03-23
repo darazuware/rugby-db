@@ -16,7 +16,8 @@ caps: "Italy (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/edoardo-iachizzi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Lazio (2015 - 2016) -> Union Sportive Arlequins Perpignanais (2016 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Benetton Rugby Trévise (2023 - ) -> Rugby Club Vannes (2025 - )
+Lazio (2015 - 2016) -> Union Sportive Arlequins Perpignanais (2016 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Benetton Rugby Trévise (2023 - 2025) -> Rugby Club Vannes (2025 - )

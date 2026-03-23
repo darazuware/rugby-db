@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ciaran-mangan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-blackrock college rfc (2024 - ) -> leinster rugby (2025 - )
+blackrock college rfc (2024 - 2025) -> leinster rugby (2025 - )

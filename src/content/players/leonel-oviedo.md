@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/leonel-oviedo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Jaguares XV (2018 - 2019) -> Dogos XV (2019 - ) -> Cordoba Athletic Club (2020 - 2021) -> Céret Sportif (2021 - 2022) -> RC Hyères Carqueiranne La Crau (2022 - 2023) -> Provence Rugby (2022 - 2023) -> Club Atlético Peñarol (2023 - 2024) -> Western Force (2025 - )
+Jaguares XV (2018 - 2019) -> Dogos XV (2019 - 2025) -> Cordoba Athletic Club (2020 - 2021) -> Céret Sportif (2021 - 2022) -> RC Hyères Carqueiranne La Crau (2022 - 2023) -> Provence Rugby (2022 - 2023) -> Club Atlético Peñarol (2023 - 2024) -> Western Force (2025 - )

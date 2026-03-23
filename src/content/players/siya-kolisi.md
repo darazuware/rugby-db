@@ -16,7 +16,8 @@ caps: "South Africa (77)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/siya-kolisi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2020) -> Sharks (2020 - ) -> Racing 92 (2023 - )
+Stormers (2013 - 2020) -> Sharks (2020 - ) -> Racing 92 (2023 - 2025)

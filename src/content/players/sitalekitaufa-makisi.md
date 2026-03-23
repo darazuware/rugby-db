@@ -16,6 +16,7 @@ caps: ""
 high_school: "トンガカレッジ"
 university: "花園大学"
 scraped_url: "https://league-one.jp/player/484915"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

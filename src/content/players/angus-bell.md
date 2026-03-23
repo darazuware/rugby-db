@@ -16,7 +16,8 @@ caps: "Australia (24)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/angus-bell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - ) -> Ulster Rugby (2025 - )
+New South Wales Waratahs (2018 - 2025) -> Ulster Rugby (2025 - )

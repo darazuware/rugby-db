@@ -16,7 +16,8 @@ caps: ""
 high_school: "日本航空石川高校"
 university: "東洋大学"
 scraped_url: "https://league-one.jp/player/484030"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2024)
+埼玉パナソニックワイルドナイツ (2024 - )

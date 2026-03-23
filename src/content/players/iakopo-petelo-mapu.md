@@ -16,7 +16,8 @@ caps: "Samoa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/iakopo-petelo-mapu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Kia Toa (2023 - 2024) -> Northampton Saints (2024 - ) -> Stade Français Paris Rugby (2025 - )
+Kia Toa (2023 - 2024) -> Northampton Saints (2024 - 2025) -> Stade Français Paris Rugby (2025 - )

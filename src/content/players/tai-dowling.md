@@ -16,7 +16,8 @@ caps: ""
 high_school: "Emmanuel"
 university: "college"
 scraped_url: "https://league-one.jp/player/485367"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2024)
+三菱重工相模原ダイナボアーズ (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "東京高校"
 university: "東洋大学"
 scraped_url: "https://league-one.jp/player/484600"
+league_one_caps: "24"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2021 - 2022) -> 日野レッドドルフィンズ (2023)
+静岡ブルーレヴズ (2021 - 2022) -> 日野レッドドルフィンズ (2023 - )

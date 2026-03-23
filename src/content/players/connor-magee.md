@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/connor-magee"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-banbridge rfc (2024 - ) -> ulster rugby (2025 - )
+banbridge rfc (2024 - 2025) -> ulster rugby (2025 - )

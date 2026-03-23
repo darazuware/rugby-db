@@ -16,6 +16,7 @@ caps: "Argentina (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/santiago-chocobares"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

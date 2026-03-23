@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/klayton-thorn"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Randwick Rugby (2021 - 2022) -> Brumbies (2022)
+Randwick Rugby (2021 - 2022) -> Brumbies (2022 - )

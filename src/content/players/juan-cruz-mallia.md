@@ -16,6 +16,7 @@ caps: "Argentina (26)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/juan-cruz-mallia"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/geronimo-prisciantelli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Club Atlético San Isidro (2018 - 2022) -> Jaguares XV (2021 - 2022) -> Zebre Parma (2022 - ) -> Racing 92 (2025 - )
+Club Atlético San Isidro (2018 - 2022) -> Jaguares XV (2021 - 2022) -> Zebre Parma (2022 - 2025) -> Racing 92 (2025 - )

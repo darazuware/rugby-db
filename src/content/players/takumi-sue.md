@@ -16,7 +16,8 @@ caps: "U20,U23('17)"
 high_school: "長崎北陽台高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484430"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2021)
+豊田自動織機シャトルズ愛知 (2021 - )

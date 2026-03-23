@@ -16,7 +16,8 @@ caps: "U20,U23('16)、13 高校、日本代表(4)"
 high_school: "海星高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484947"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2021 - 2022) -> NECグリーンロケッツ東葛 (2022 - 2024) -> ルリーロ福岡 (2024)
+浦安D-Rocks (2021 - 2022) -> NECグリーンロケッツ東葛 (2022 - 2024) -> ルリーロ福岡 (2024 - )

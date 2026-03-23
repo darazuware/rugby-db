@@ -16,7 +16,8 @@ caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/filipo-daugunu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2017 - ) -> Melbourne Rebels (2023)
+Queensland Reds (2017 - ) -> Melbourne Rebels (2023 - )

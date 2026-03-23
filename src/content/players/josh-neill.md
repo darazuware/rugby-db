@@ -16,7 +16,8 @@ caps: ""
 high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/josh-neill"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-rondebosch boys’ high school (2024 - ) -> leinster rugby (2025 - )
+rondebosch boys’ high school (2024 - 2025) -> leinster rugby (2025 - )

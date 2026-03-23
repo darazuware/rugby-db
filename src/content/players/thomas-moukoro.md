@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thomas-moukoro"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Racing 92 (2015 - 2024) -> Rugby Club Vannes (2023 - ) -> Lyon Olympique Universitaire Rugby (2025 - )
+Racing 92 (2015 - 2024) -> Rugby Club Vannes (2023 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

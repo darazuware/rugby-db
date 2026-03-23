@@ -16,7 +16,8 @@ caps: ""
 high_school: "アオレレ"
 university: ""
 scraped_url: "https://league-one.jp/player/484456"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2019 - 2022) -> トヨタヴェルブリッツ (2022)
+清水建設江東ブルーシャークス (2019 - 2022) -> トヨタヴェルブリッツ (2022 - )

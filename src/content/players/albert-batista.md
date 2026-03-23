@@ -16,7 +16,8 @@ caps: ""
 high_school: "Dominican Republic"
 university: ""
 scraped_url: "https://all.rugby/player/albert-batista"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-colorno (2020 - ) -> zebre parma (2025 - )
+colorno (2020 - 2025) -> zebre parma (2025 - )

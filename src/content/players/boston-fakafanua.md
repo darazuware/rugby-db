@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/boston-fakafanua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2023)
+Western Force (2023 - )

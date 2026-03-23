@@ -16,7 +16,8 @@ caps: "New Zealand (53)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ofa-tu-ungafasi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2013 - ) -> Auckland (2019 - 2020) -> Northland Taniwha (2021)
+Blues (2013 - ) -> Auckland (2019 - 2020) -> Northland Taniwha (2021 - )

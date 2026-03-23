@@ -16,7 +16,8 @@ caps: "日本代表(10)"
 high_school: "札幌山の手高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483965"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2023)
+コベルコ神戸スティーラーズ (2023 - )

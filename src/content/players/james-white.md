@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-white"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2023 - ) -> Crusaders (2025 - )
+Canterbury (2023 - 2025) -> Crusaders (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "RangioraHighSchool"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484797"
+league_one_caps: "17"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> ヤクルトレビンズ戸田 (2024)
+NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> ヤクルトレビンズ戸田 (2024 - )

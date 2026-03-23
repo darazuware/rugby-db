@@ -16,6 +16,7 @@ caps: "Ireland (2)"
 high_school: ""
 university: ""
 scraped_url: "ulster rugby (2019 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

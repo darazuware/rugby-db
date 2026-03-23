@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/euan-mcvie"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-edinburgh accies (2022 - 2023) -> edimbourg rugby (2023 - ) -> doncaster knights (2024 - )
+edinburgh accies (2022 - 2023) -> edimbourg rugby (2023 - ) -> doncaster knights (2024 - 2025)

@@ -16,7 +16,8 @@ caps: "Australia (29)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matt-philip"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2015 - 2017) -> Melbourne Rebels (2017 - 2023) -> Section Paloise Béarn Pyrénées (2020 - 2021) -> Yokohama Canon Eagles (2023 - ) -> New South Wales Waratahs (2025 - )
+Western Force (2015 - 2017) -> Melbourne Rebels (2017 - 2023) -> Section Paloise Béarn Pyrénées (2020 - 2021) -> Yokohama Canon Eagles (2023 - 2025) -> New South Wales Waratahs (2025 - )

@@ -16,6 +16,7 @@ caps: "France (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/antoine-frisch"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

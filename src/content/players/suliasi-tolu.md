@@ -16,7 +16,8 @@ caps: ""
 high_school: "SuvaGrammarSchool"
 university: "埼玉工業大学"
 scraped_url: "https://league-one.jp/player/483549"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2022 - 2023) -> NECグリーンロケッツ東葛 (2024)
+埼玉パナソニックワイルドナイツ (2022 - 2023) -> NECグリーンロケッツ東葛 (2024 - )

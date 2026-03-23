@@ -16,6 +16,7 @@ caps: "Scotland (34)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-horne"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

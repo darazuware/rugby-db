@@ -16,7 +16,8 @@ caps: "U20('08)、セブンズ日本(1)"
 high_school: "大分舞鶴高校"
 university: "日本体育大学"
 scraped_url: "https://league-one.jp/player/483709"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2012)
+Kyushu Kyuden Voltex (2012 - )

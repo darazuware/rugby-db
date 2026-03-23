@@ -16,7 +16,8 @@ caps: ""
 high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/tom-young"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-gloucester rugby (2013 - 2014) -> cardiff rugby (2013 - 2014) -> wasps (2014 - 2022) -> cardiff rugby (2022 - ) -> dragons rfc (2025 - )
+gloucester rugby (2013 - 2014) -> cardiff rugby (2013 - 2014) -> wasps (2014 - 2022) -> cardiff rugby (2022 - 2025) -> dragons rfc (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "天理高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484869"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2023)
+リコーブラックラムズ東京 (2023 - )

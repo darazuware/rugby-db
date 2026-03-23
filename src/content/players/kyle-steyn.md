@@ -16,6 +16,7 @@ caps: "Scotland (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kyle-steyn"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

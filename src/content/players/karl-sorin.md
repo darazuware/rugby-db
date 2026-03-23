@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/karl-sorin"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Olympique Choletais (2015 - 2018) -> Stade Rochelais (2018 - ) -> Soyaux-Angoulême XV Charente (2024 - )
+Rugby Olympique Choletais (2015 - 2018) -> Stade Rochelais (2018 - ) -> Soyaux-Angoulême XV Charente (2024 - 2025)

@@ -16,6 +16,7 @@ caps: "Scotland (19)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/duncan-weir"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

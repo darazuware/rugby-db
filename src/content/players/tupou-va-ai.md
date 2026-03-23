@@ -16,7 +16,8 @@ caps: "New Zealand (22)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tupou-va-ai"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2018 - 2022) -> Chiefs (2019)
+Taranaki Bulls (2018 - 2022) -> Chiefs (2019 - )

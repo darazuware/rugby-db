@@ -16,7 +16,8 @@ caps: "New Zealand (25)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-jordan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - ) -> Tasman Mako (2019)
+Crusaders (2018 - ) -> Tasman Mako (2019 - )

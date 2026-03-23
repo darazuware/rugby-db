@@ -16,7 +16,8 @@ caps: ""
 high_school: "ステレンバーグ"
 university: ""
 scraped_url: "https://league-one.jp/player/484682"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-ブルズ (2020 - 2024) -> 三重ホンダヒート (2024)
+ブルズ (2020 - 2024) -> 三重ホンダヒート (2024 - )

@@ -16,6 +16,7 @@ caps: "Germany"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/eric-marks"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

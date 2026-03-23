@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-harris"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2023) -> Western Force (2023)
+New South Wales Waratahs (2018 - 2023) -> Western Force (2023 - )

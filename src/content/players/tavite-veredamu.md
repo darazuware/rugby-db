@@ -16,6 +16,7 @@ caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tavite-veredamu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

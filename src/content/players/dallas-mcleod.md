@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dallas-mcleod"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2018 - ) -> Crusaders (2019)
+Canterbury (2018 - 2025) -> Crusaders (2019 - )

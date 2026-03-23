@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/stanley-solomon"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2023 - ) -> Wellington Lions (2023 - ) -> Highlanders (2025 - )
+Hurricanes (2023 - 2025) -> Wellington Lions (2023 - 2025) -> Highlanders (2025 - )

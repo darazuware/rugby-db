@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/loic-varennes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

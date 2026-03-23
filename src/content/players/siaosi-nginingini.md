@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/siaosi-nginingini"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-North Harbour (2021 - ) -> Moana Pasifika (2023)
+North Harbour (2021 - 2025) -> Moana Pasifika (2023 - )

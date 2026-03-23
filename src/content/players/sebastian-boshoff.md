@@ -16,6 +16,7 @@ caps: ""
 high_school: "パールボーイズハイスクール"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/484405"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

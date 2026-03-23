@@ -16,6 +16,7 @@ caps: ""
 high_school: "ケルストンボーイズ"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/488119"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/willy-havili"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2017 - ) -> Moana Pasifika (2021)
+Tasman Mako (2017 - 2025) -> Moana Pasifika (2021 - )

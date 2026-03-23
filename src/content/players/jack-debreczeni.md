@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-debreczeni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2013 - 2018) -> Chiefs (2018 - 2019) -> Northland Taniwha (2018 - 2019) -> Hino Red Dolphins (2019 - 2022) -> Canterbury (2020 - 2021) -> West Harbour RFC (2021 - 2022) -> Brumbies (2022 - ) -> New South Wales Waratahs (2025 - )
+Melbourne Rebels (2013 - 2018) -> Chiefs (2018 - 2019) -> Northland Taniwha (2018 - 2019) -> Hino Red Dolphins (2019 - 2022) -> Canterbury (2020 - 2021) -> West Harbour RFC (2021 - 2022) -> Brumbies (2022 - 2025) -> New South Wales Waratahs (2025 - )

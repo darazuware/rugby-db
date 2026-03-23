@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kaylum-boshier"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2018 - ) -> Chiefs (2020)
+Taranaki Bulls (2018 - 2025) -> Chiefs (2020 - )

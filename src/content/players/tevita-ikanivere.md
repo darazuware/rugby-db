@@ -16,7 +16,8 @@ caps: "Fiji (8)"
 high_school: "ホーリー・トリニティ・アングリカン・スクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484668"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-Suva Rugby Union (2020 - 2021) -> フィジアン・ドゥルア (2021 - ) -> 三重ホンダヒート (2025 - )
+Suva Rugby Union (2020 - 2021) -> フィジアン・ドゥルア (2021 - 2025) -> 三重ホンダヒート (2025 - )

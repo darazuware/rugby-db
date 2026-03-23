@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐野日大高校"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/484932"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2022 - 2023) -> ルリーロ福岡 (2024)
+NTTドコモレッドハリケーンズ大阪 (2022 - 2023) -> ルリーロ福岡 (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "オークランドグラマースクール"
 university: ""
 scraped_url: "https://league-one.jp/player/485718"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-ブルーズ (2024 - ) -> クリタウォーターガッシュ昭島 (2025 - )
+ブルーズ (2024 - 2025) -> クリタウォーターガッシュ昭島 (2025 - )

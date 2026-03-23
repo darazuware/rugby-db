@@ -16,7 +16,8 @@ caps: ""
 high_school: "PaulRoosGymnasium"
 university: "Stellenbosch"
 scraped_url: "https://league-one.jp/player/484231"
+league_one_caps: "51"
 ---
 
 ## キャリア遍歴
-ウェスタン・プロヴィンス (2009) -> グリクアズ (2010) -> ピューマズ (2011 - 2014) -> Lions Rugby (2014) -> フリーステイトXV (2015) -> フリーステイト・チーターズ (2015) -> Central Cheetahs (2015) -> グリフォンズ (2015 - 2016) -> Toshiba Brave Lupus Tokyo (2016 - 2020) -> Shimizu Koto Blue Sharks (2020)
+ウェスタン・プロヴィンス (2009) -> グリクアズ (2010) -> ピューマズ (2011 - 2014) -> Lions Rugby (2014) -> フリーステイトXV (2015) -> フリーステイト・チーターズ (2015) -> Central Cheetahs (2015) -> グリフォンズ (2015 - 2016) -> Toshiba Brave Lupus Tokyo (2016 - 2020) -> Shimizu Koto Blue Sharks (2020 - )

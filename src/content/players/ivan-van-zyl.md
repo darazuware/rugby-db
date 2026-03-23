@@ -16,6 +16,7 @@ caps: ""
 high_school: "タウランガ・ボーイズ・カレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/483725"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

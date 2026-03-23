@@ -16,7 +16,8 @@ caps: ""
 high_school: "ウェストビルボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/484073"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-シャークス (2019 - 2023) -> 埼玉パナソニックワイルドナイツ (2023)
+シャークス (2019 - 2023) -> 埼玉パナソニックワイルドナイツ (2023 - )

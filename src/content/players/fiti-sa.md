@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fiti-sa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2022 - ) -> Chiefs (2024)
+Taranaki Bulls (2022 - 2025) -> Chiefs (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "FaserCoastAnglican"
 university: "立正大学"
 scraped_url: "https://league-one.jp/player/484656"
+league_one_caps: "35"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2021 - 2022) -> マツダスカイアクティブズ広島 (2023)
+清水建設江東ブルーシャークス (2021 - 2022) -> マツダスカイアクティブズ広島 (2023 - )

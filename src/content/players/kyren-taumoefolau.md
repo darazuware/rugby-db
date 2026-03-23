@@ -16,7 +16,8 @@ caps: "Tonga (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kyren-taumoefolau"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Moana Pasifika (2022 - ) -> Tasman Mako (2023 - ) -> Chiefs (2025 - )
+Moana Pasifika (2022 - 2025) -> Tasman Mako (2023 - 2025) -> Chiefs (2025 - )

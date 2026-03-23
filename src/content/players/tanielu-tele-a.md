@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tanielu-tele-a"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2018 - 2023) -> Auckland (2019 - ) -> Counties Manukau Steelers (2020 - 2021) -> Highlanders (2023)
+Blues (2018 - 2023) -> Auckland (2019 - 2025) -> Counties Manukau Steelers (2020 - 2021) -> Highlanders (2023 - )

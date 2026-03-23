@@ -16,7 +16,8 @@ caps: ""
 high_school: "福岡工業高校"
 university: "福岡大学"
 scraped_url: "https://league-one.jp/player/483731"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2024)
+九州電力キューデンヴォルテクス (2024 - )

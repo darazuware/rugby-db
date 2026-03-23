@@ -16,6 +16,7 @@ caps: "France (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/antoine-hastoy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

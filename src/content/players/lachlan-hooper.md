@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lachlan-hooper"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canberra Vikings (2022 - 2023) -> Brumbies (2023 - ) -> Northland Taniwha (2024 - ) -> New South Wales Waratahs (2025 - )
+Canberra Vikings (2022 - 2023) -> Brumbies (2023 - 2025) -> Northland Taniwha (2024 - 2025) -> New South Wales Waratahs (2025 - )

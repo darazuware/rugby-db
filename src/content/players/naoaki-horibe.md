@@ -16,7 +16,8 @@ caps: "U20('16,'17)、U23('17,'19)"
 high_school: "筑紫高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/483778"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-S東京ベイ (2020)
+S東京ベイ (2020 - )

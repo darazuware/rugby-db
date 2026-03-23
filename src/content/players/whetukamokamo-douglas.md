@@ -16,6 +16,7 @@ caps: ""
 high_school: "ギズボーン"
 university: "ワイカト大学"
 scraped_url: "https://league-one.jp/player/484093"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴

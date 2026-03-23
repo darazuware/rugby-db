@@ -16,7 +16,8 @@ caps: "U20('19)"
 high_school: "東海大仰星高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483948"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021 - ) -> マナワツ (2023)
+コベルコ神戸スティーラーズ (2021 - ) -> マナワツ (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-allen"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2022 - 2023) -> Hurricanes (2023 - ) -> Auckland (2024)
+Hawke's Bay Magpies (2022 - 2023) -> Hurricanes (2023 - ) -> Auckland (2024 - )

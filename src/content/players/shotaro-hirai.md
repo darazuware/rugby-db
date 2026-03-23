@@ -16,6 +16,7 @@ caps: ""
 high_school: "長崎南山高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483514"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴

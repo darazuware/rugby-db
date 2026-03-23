@@ -16,6 +16,7 @@ caps: "Georgia (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/giorgi-melikidze"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

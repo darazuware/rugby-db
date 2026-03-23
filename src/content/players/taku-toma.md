@@ -16,7 +16,8 @@ caps: "U20,U23('16)"
 high_school: "コザ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483554"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2019)
+Green Rockets Tokatsu (2019 - )

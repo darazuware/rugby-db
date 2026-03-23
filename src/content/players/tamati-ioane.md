@@ -16,7 +16,8 @@ caps: ""
 high_school: "DeLaSalleCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/483475"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-Gungahlin Eagles (2020 - 2021) -> メルボルン・レベルズ (2021 - 2023) -> 東京サントリーサンゴリアス (2023 - ) -> 浦安D-Rocks (2025 - )
+Gungahlin Eagles (2020 - 2021) -> メルボルン・レベルズ (2021 - 2023) -> 東京サントリーサンゴリアス (2023 - 2025) -> 浦安D-Rocks (2025 - )

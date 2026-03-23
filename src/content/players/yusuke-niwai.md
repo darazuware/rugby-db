@@ -16,7 +16,8 @@ caps: "U20('10,'11)、日本代表(10)"
 high_school: "報徳学園高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484844"
+league_one_caps: "61"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2014 - ) -> サンウルブズ (2016)
+横浜キヤノンイーグルス (2014 - ) -> サンウルブズ (2016 - )

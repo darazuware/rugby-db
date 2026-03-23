@@ -16,7 +16,8 @@ caps: ""
 high_school: "秋田中央高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484179"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2021)
+静岡ブルーレヴズ (2021 - )

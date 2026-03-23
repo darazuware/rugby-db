@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-martens"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2024)
+Queensland Reds (2024 - )

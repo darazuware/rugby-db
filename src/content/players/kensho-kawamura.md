@@ -16,7 +16,8 @@ caps: ""
 high_school: "常翔学園高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484548"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2022)
+Hanazono Kintetsu Liners (2022 - )

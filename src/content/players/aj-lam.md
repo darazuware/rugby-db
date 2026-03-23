@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aj-lam"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2018 - ) -> Blues (2020)
+Auckland (2018 - 2025) -> Blues (2020 - )

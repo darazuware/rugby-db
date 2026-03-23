@@ -16,7 +16,8 @@ caps: ""
 high_school: "専修大学松戸高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484652"
+league_one_caps: "48"
 ---
 
 ## キャリア遍歴
-マツダスカイアクティブズ広島 (2021)
+マツダスカイアクティブズ広島 (2021 - )

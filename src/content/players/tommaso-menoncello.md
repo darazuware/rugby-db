@@ -16,6 +16,7 @@ caps: "Italy (24)"
 high_school: ""
 university: ""
 scraped_url: "benetton rugby trévise (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

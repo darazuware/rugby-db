@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mirko-belloni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Verona Rugby (2022 - 2024) -> Rugby Rovigo Delta (2024 - ) -> Zebre Parma (2025 - )
+Verona Rugby (2022 - 2024) -> Rugby Rovigo Delta (2024 - 2025) -> Zebre Parma (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/keillen-cullen"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-gloucester rugby (2022 - 2023) -> hartpury university (2023 - ) -> hartpury rfc (2024 - ) -> ospreys (2025 - )
+gloucester rugby (2022 - 2023) -> hartpury university (2023 - 2025) -> hartpury rfc (2024 - 2025) -> ospreys (2025 - )

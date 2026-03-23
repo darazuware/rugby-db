@@ -16,6 +16,7 @@ caps: ""
 high_school: "Presentation"
 university: "Brothers"
 scraped_url: "https://league-one.jp/player/485133"
+league_one_caps: "20"
 ---
 
 ## キャリア遍歴

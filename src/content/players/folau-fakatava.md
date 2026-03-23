@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/folau-fakatava"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Highlanders (2018 - ) -> Hawke's Bay Magpies (2019)
+Highlanders (2018 - ) -> Hawke's Bay Magpies (2019 - )

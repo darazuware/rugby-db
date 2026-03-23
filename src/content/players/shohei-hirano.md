@@ -16,7 +16,8 @@ caps: "U23('13)"
 high_school: "東福岡高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484529"
+league_one_caps: "24"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2021 - ) -> 花園近鉄ライナーズ (2025 - )
+埼玉パナソニックワイルドナイツ (2021 - 2025) -> 花園近鉄ライナーズ (2025 - )

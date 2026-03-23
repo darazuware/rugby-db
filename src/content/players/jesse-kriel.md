@@ -16,7 +16,8 @@ caps: "South Africa (62)"
 high_school: "MaritzburgCollege"
 university: "UniversityofPretoria"
 scraped_url: "https://league-one.jp/player/484842"
+league_one_caps: "64"
 ---
 
 ## キャリア遍歴
-ブルズ (2013 - 2019) -> 横浜キヤノンイーグルス (2019)
+ブルズ (2013 - 2019) -> 横浜キヤノンイーグルス (2019 - )

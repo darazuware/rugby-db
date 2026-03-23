@@ -16,7 +16,8 @@ caps: "セブンズ日本(5)、日本代表(17)"
 high_school: "ケルストンボーイズ"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484356"
+league_one_caps: "52"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2018)
+東芝ブレイブルーパス東京 (2018 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tomas-medina"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cardenales rc (2023 - 2024) -> tarucas (2024 - ) -> benetton rugby trévise (2025 - )
+cardenales rc (2023 - 2024) -> tarucas (2024 - 2025) -> benetton rugby trévise (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ottavio-tuipulotu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-melbourne rebels (2023 - 2024) -> new south wales waratahs (2024 - ) -> glasgow warriors (2025 - )
+melbourne rebels (2023 - 2024) -> new south wales waratahs (2024 - 2025) -> glasgow warriors (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cole-forbes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2017 - ) -> Glasgow Warriors (2020 - 2023) -> Blues (2023)
+Bay of Plenty Steamers (2017 - 2025) -> Glasgow Warriors (2020 - 2023) -> Blues (2023 - )

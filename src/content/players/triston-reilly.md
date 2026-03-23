@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/triston-reilly"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney (2018 - 2019) -> New South Wales Waratahs (2019 - ) -> Wests Tigers (2022)
+Sydney (2018 - 2019) -> New South Wales Waratahs (2019 - ) -> Wests Tigers (2022 - )

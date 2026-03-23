@@ -16,7 +16,8 @@ caps: "New Zealand (79)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/codie-taylor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - ) -> Canterbury (2019)
+Crusaders (2013 - ) -> Canterbury (2019 - )

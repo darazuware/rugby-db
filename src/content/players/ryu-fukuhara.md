@@ -16,7 +16,8 @@ caps: ""
 high_school: "コザ"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/484851"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2023)
+横浜キヤノンイーグルス (2023 - )

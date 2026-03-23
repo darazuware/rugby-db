@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/veresa-tuqovu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stade Français Paris Rugby (2019 - 2023) -> Stade Montois Rugby Pro (2022 - 2024) -> Oyonnax Rugby (2024 - ) -> Castres Olympique (2025 - )
+Stade Français Paris Rugby (2019 - 2023) -> Stade Montois Rugby Pro (2022 - 2024) -> Oyonnax Rugby (2024 - 2025) -> Castres Olympique (2025 - )

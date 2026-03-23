@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sid-harvey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Aussie 7's (2024 - ) -> New South Wales Waratahs (2025 - )
+Aussie 7's (2024 - 2025) -> New South Wales Waratahs (2025 - )

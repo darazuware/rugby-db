@@ -16,7 +16,8 @@ caps: "高校('18)"
 high_school: "札幌山の手高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484736"
+league_one_caps: "20"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2023)
+三菱重工相模原ダイナボアーズ (2023 - )

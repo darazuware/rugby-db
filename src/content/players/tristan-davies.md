@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tristan-davies"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ospreys (2020 - ) -> central cheetahs (2023 - 2024) -> scarlets (2025 - )
+ospreys (2020 - 2025) -> central cheetahs (2023 - 2024) -> scarlets (2025 - )

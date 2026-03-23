@@ -16,7 +16,8 @@ caps: ""
 high_school: "St Patrick's College"
 university: "WesternSydney"
 scraped_url: "https://league-one.jp/player/484037"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2021 - 2024) -> 埼玉パナソニックワイルドナイツ (2024)
+花園近鉄ライナーズ (2021 - 2024) -> 埼玉パナソニックワイルドナイツ (2024 - )

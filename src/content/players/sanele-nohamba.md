@@ -16,7 +16,8 @@ caps: ""
 high_school: "DurbanHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484149"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-シャークス (2018 - 2022) -> ライオンズ (2022 - ) -> 静岡ブルーレヴズ (2024)
+シャークス (2018 - 2022) -> ライオンズ (2022 - 2025) -> 静岡ブルーレヴズ (2024 - )

@@ -16,7 +16,8 @@ caps: "Italy (10)"
 high_school: "クランリースクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484810"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ハレクインズ (2017 - ) -> 横浜キヤノンイーグルス (2025 - )
+ハレクインズ (2017 - 2025) -> 横浜キヤノンイーグルス (2025 - )

@@ -16,7 +16,8 @@ caps: "日本代表(8)"
 high_school: "上宮高校"
 university: "関西学院大学"
 scraped_url: "https://league-one.jp/player/484847"
+league_one_caps: "77"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2019)
+横浜キヤノンイーグルス (2019 - )

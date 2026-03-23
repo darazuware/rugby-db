@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐賀工業高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483560"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2016)
+Green Rockets Tokatsu (2016 - )

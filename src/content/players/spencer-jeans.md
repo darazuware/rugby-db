@@ -16,7 +16,8 @@ caps: ""
 high_school: "TheSouthPortSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/483728"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴
-レッズ (2021 - 2023) -> 九州電力キューデンヴォルテクス (2023)
+レッズ (2021 - 2023) -> 九州電力キューデンヴォルテクス (2023 - )

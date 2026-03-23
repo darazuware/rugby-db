@@ -16,7 +16,8 @@ caps: "U20('16)、U23('16,'17)、日本代表(2)"
 high_school: "同志社高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/483506"
+league_one_caps: "64"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2021)
+浦安D-Rocks (2021 - )

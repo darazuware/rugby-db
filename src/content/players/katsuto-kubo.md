@@ -16,7 +16,8 @@ caps: "U20,U23('18)"
 high_school: "國學院栃木高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484835"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2022)
+横浜キヤノンイーグルス (2022 - )

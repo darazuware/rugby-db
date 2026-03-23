@@ -16,7 +16,8 @@ caps: ""
 high_school: "京都成章高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484333"
+league_one_caps: "35"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021)
+東京サントリーサンゴリアス (2021 - )

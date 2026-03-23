@@ -16,7 +16,8 @@ caps: ""
 high_school: "國學院栃木高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483568"
+league_one_caps: "53"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2021 - 2022) -> NECグリーンロケッツ東葛 (2022)
+三重ホンダヒート (2021 - 2022) -> NECグリーンロケッツ東葛 (2022 - )

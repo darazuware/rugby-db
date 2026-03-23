@@ -16,7 +16,8 @@ caps: ""
 high_school: "ブリスベンステートハイスクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484806"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2022 - ) -> 横浜キヤノンイーグルス (2025 - )
+花園近鉄ライナーズ (2022 - 2025) -> 横浜キヤノンイーグルス (2025 - )

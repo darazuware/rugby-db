@@ -16,7 +16,8 @@ caps: "South Africa (34)"
 high_school: "HTSミッデルバーグ"
 university: ""
 scraped_url: "https://league-one.jp/player/484177"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴
-ライオンズ (2014 - 2019) -> 静岡ブルーレヴズ (2019)
+ライオンズ (2014 - 2019) -> 静岡ブルーレヴズ (2019 - )

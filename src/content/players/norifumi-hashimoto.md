@@ -16,7 +16,8 @@ caps: ""
 high_school: "熊本西高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483485"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2021 - 2024) -> 浦安D-Rocks (2024)
+日野レッドドルフィンズ (2021 - 2024) -> 浦安D-Rocks (2024 - )

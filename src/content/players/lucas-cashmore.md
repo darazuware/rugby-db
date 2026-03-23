@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lucas-cashmore"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - ) -> Blues (2023 - 2024) -> Hurricanes (2024)
+Bay of Plenty Steamers (2020 - 2025) -> Blues (2023 - 2024) -> Hurricanes (2024 - )

@@ -16,7 +16,8 @@ caps: "Scotland (66)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ali-price"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2014 - 2024) -> Edimbourg Rugby (2023 - ) -> Montpellier Hérault Rugby (2025 - )
+Glasgow Warriors (2014 - 2024) -> Edimbourg Rugby (2023 - 2025) -> Montpellier Hérault Rugby (2025 - )

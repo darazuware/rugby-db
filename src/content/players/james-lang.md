@@ -16,6 +16,7 @@ caps: ""
 high_school: "England"
 university: ""
 scraped_url: "https://all.rugby/player/james-lang"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

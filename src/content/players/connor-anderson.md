@@ -16,7 +16,8 @@ caps: ""
 high_school: "ブリズベン州立高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484260"
+league_one_caps: "12"
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2021 - 2022) -> レッズ (2022 - 2024) -> 中国電力レッドレギュリオンズ (2024)
+West Brisbane Bulldogs (2021 - 2022) -> レッズ (2022 - 2024) -> 中国電力レッドレギュリオンズ (2024 - )

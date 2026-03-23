@@ -16,7 +16,8 @@ caps: "セブンズ日本(11)"
 high_school: "ナタンブア"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484410"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2021)
+豊田自動織機シャトルズ愛知 (2021 - )

@@ -16,6 +16,7 @@ caps: "Wales"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-mann"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

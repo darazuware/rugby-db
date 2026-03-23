@@ -16,7 +16,8 @@ caps: "日本代表(5)"
 high_school: "ラトゥ・サーララ・スクナメモリアルスクール"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483968"
+league_one_caps: "48"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2023)
+コベルコ神戸スティーラーズ (2023 - )

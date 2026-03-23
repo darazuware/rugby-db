@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/willem-van-den-hever"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-northern free state griffons (2023 - 2024) -> natal sharks (2024 - ) -> sharks (2025 - )
+northern free state griffons (2023 - 2024) -> natal sharks (2024 - 2025) -> sharks (2025 - )

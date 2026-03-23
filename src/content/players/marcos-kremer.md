@@ -16,6 +16,7 @@ caps: "Argentina (57)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/marcos-kremer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

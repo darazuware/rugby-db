@@ -16,6 +16,7 @@ caps: ""
 high_school: "ウェバリーカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484409"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "日本航空石川高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484113"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-セコム (2018 - 2022) -> 日本 (2019 - 2020) -> Mitsubishi Sagamihara Dynaboars (2022 - 2024) -> 狭山RG (2024)
+セコム (2018 - 2022) -> 日本 (2019 - 2020) -> Mitsubishi Sagamihara Dynaboars (2022 - 2024) -> 狭山RG (2024 - )

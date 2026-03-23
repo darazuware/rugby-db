@@ -16,6 +16,7 @@ caps: ""
 high_school: "ボタニーダウンズ・セカンダリーカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484507"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴

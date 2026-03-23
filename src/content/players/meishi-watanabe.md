@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐賀工業高校"
 university: "法政大学"
 scraped_url: "https://league-one.jp/player/484766"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-ヤクルトレビンズ戸田 (2024)
+ヤクルトレビンズ戸田 (2024 - )

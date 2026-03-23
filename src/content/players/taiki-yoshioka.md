@@ -16,7 +16,8 @@ caps: ""
 high_school: "日向高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484704"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2021)
+三重ホンダヒート (2021 - )

@@ -16,7 +16,8 @@ caps: "XV('25)、日本代表(1)"
 high_school: "大阪桐蔭高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484058"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2023)
+埼玉パナソニックワイルドナイツ (2023 - )

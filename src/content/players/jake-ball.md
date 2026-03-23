@@ -16,6 +16,7 @@ caps: "Wales (36)"
 high_school: ""
 university: ""
 scraped_url: "scarlets (2013 - 2021) -> green rockets tokatsu (2021 - 2025) -> scarlets (2025 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

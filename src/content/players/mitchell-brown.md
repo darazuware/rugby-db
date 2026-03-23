@@ -16,7 +16,8 @@ caps: ""
 high_school: "NewPlymouthBoysHighschool"
 university: ""
 scraped_url: "https://league-one.jp/player/484539"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-チーフス (2015 - 2022) -> タラナキ (2019 - 2022) -> 横浜キヤノンイーグルス (2022 - 2024) -> 花園近鉄ライナーズ (2024)
+チーフス (2015 - 2022) -> タラナキ (2019 - 2022) -> 横浜キヤノンイーグルス (2022 - 2024) -> 花園近鉄ライナーズ (2024 - )

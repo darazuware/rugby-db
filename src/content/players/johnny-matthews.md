@@ -16,6 +16,7 @@ caps: "Scotland (1)"
 high_school: ""
 university: ""
 scraped_url: "glasgow warriors (2019 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

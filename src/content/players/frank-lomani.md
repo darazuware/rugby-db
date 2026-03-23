@@ -16,7 +16,8 @@ caps: "Fiji (26)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/frank-lomani"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Fijian Drua (2018 - ) -> Melbourne Rebels (2019 - 2021) -> Northampton Saints (2021)
+Fijian Drua (2018 - ) -> Melbourne Rebels (2019 - 2021) -> Northampton Saints (2021 - )

@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "国学院栃木高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484194"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2024)
+静岡ブルーレヴズ (2024 - )

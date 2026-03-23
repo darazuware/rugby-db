@@ -16,6 +16,7 @@ caps: "Wales (42)"
 high_school: ""
 university: ""
 scraped_url: "ospreys (2015 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

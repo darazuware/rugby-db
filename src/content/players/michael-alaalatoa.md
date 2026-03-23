@@ -16,6 +16,7 @@ caps: "Squad caps (434)"
 high_school: ""
 university: ""
 scraped_url: "new south wales waratahs (2013 - 2014) -> crusaders (2015 - 2019) -> manawatu turbos (2019 - 2019) -> crusaders (2020 - 2020) -> manawatu turbos (2020 - 2020) -> crusaders (2020 - 2021) -> leinster rugby (2021 - 2024) -> asm clermont auvergne (2024 - 2025) -> munster rugby (2025 - 2025) -> asm clermont auvergne (2026 - 2026) -> munster rugby (2026 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/ben-murphy-2001"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leinster rugby (2020 - 2024) -> munster rugby (2020 - 2021) -> connacht rugby (2024 - )
+munster rugby (2020 - 2021) -> leinster rugby (2020 - 2024) -> connacht rugby (2024 - )

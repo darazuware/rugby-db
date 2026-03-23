@@ -16,7 +16,8 @@ caps: "England"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-simmonds"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Exeter Chiefs (2014 - 2023) -> Montpellier Hérault Rugby (2023 - ) -> Lyon Olympique Universitaire Rugby (2025 - )
+Exeter Chiefs (2014 - 2023) -> Montpellier Hérault Rugby (2023 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

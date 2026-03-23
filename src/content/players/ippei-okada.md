@@ -16,7 +16,8 @@ caps: "U23('14)"
 high_school: "常翔学園高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/483770"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2022)
+クボタスピアーズ船橋・東京ベイ (2022 - )

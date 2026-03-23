@@ -16,7 +16,8 @@ caps: ""
 high_school: "セント・ピーターズ・ケンブリッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484483"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-Dinamo Bucarest (2022 - 2024) -> Marlborough RFC (2024 - ) -> 日本製鉄釜石シーウェイブス (2025 - )
+Dinamo Bucarest (2022 - 2024) -> Marlborough RFC (2024 - 2025) -> 日本製鉄釜石シーウェイブス (2025 - )

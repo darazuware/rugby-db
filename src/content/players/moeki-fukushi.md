@@ -16,7 +16,8 @@ caps: "U20('19)、セブンズ日本(28)"
 high_school: "佐賀工業高校"
 university: "関東学院大学"
 scraped_url: "https://league-one.jp/player/484580"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2024)
+日野レッドドルフィンズ (2024 - )

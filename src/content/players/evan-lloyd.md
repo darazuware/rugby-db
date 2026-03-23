@@ -16,6 +16,7 @@ caps: "Wales (5)"
 high_school: ""
 university: ""
 scraped_url: "cardiff rugby (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

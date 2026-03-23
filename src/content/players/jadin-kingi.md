@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jadin-kingi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-counties manukau steelers (2021 - 2024) -> mogliano veneto rugby (2023 - ) -> benetton rugby trévise (2024 - )
+counties manukau steelers (2021 - 2024) -> mogliano veneto rugby (2023 - 2025) -> benetton rugby trévise (2024 - )

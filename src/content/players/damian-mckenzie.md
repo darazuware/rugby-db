@@ -16,7 +16,8 @@ caps: "New Zealand (42)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/damian-mckenzie"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2014 - ) -> Waikato Mooloos (2019 - 2022) -> Tokyo Sungoliath (2021)
+Chiefs (2014 - ) -> Waikato Mooloos (2019 - 2022) -> Tokyo Sungoliath (2021 - )

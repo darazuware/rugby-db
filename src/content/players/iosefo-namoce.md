@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/iosefo-namoce"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Gungahlin Eagles (2024 - ) -> Fijian Drua (2025 - )
+Gungahlin Eagles (2024 - 2025) -> Fijian Drua (2025 - )

@@ -16,6 +16,7 @@ caps: "Georgia (48)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gela-aprasidze"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

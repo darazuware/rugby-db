@@ -16,7 +16,8 @@ caps: "セブンズ日本(4)"
 high_school: "小倉高校"
 university: "関東学院大学"
 scraped_url: "https://league-one.jp/player/484913"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2021 - ) -> ルリーロ福岡 (2025 - )
+九州電力キューデンヴォルテクス (2021 - 2025) -> ルリーロ福岡 (2025 - )

@@ -16,7 +16,8 @@ caps: "日本代表(5)"
 high_school: "京都成章高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484337"
+league_one_caps: "62"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2015)
+Tokyo Sungoliath (2015 - )

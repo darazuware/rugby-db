@@ -16,7 +16,8 @@ caps: ""
 high_school: "流通経済大学付属柏高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484556"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2020)
+Hanazono Kintetsu Liners (2020 - )

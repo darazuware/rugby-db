@@ -16,6 +16,7 @@ caps: "Italy (60)"
 high_school: ""
 university: ""
 scraped_url: "zebre parma (2014 - 2017) -> benetton rugby trévise (2017 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

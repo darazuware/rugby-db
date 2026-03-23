@@ -16,7 +16,8 @@ caps: ""
 high_school: "トゥポウカレッジ"
 university: "花園大学"
 scraped_url: "https://league-one.jp/player/483529"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2014 - ) -> NECグリーンロケッツ東葛 (2025 - )
+リコーブラックラムズ東京 (2014 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

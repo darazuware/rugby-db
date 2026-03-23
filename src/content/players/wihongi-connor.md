@@ -16,7 +16,8 @@ caps: ""
 high_school: "Auckland Grammar School"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/484707"
+league_one_caps: "13"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2023)
+三重ホンダヒート (2023 - )

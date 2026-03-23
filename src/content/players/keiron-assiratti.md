@@ -16,6 +16,7 @@ caps: "Wales (10)"
 high_school: ""
 university: ""
 scraped_url: "cardiff rugby (2016 - 2019) -> bristol bears (2019 - 2019) -> cardiff rugby (2020 - 2020) -> bristol bears (2020 - 2020) -> cardiff rugby (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

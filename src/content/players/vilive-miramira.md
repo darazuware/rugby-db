@@ -16,7 +16,8 @@ caps: "Squad caps (374)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vilive-miramira"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Nadi Jets  Rugby (2020 - 2021) -> Fijian Drua (2021)
+Nadi Jets  Rugby (2020 - 2021) -> Fijian Drua (2021 - )

@@ -16,7 +16,8 @@ caps: "New Zealand (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tawera-kerr-barlow"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2010 - 2017) -> Stade Rochelais (2017 - ) -> Stade Français Paris Rugby (2025 - )
+Chiefs (2010 - 2017) -> Stade Rochelais (2017 - 2025) -> Stade Français Paris Rugby (2025 - )

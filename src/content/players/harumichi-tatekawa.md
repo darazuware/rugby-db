@@ -16,7 +16,8 @@ caps: "U20('07,'08)、日本代表(62)"
 high_school: "天理高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/483775"
+league_one_caps: "64"
 ---
 
 ## キャリア遍歴
-S東京ベイ (2012) -> Brumbies (2014) -> サンウルブズ (2016 - 2019) -> Otago (2019)
+S東京ベイ (2012) -> Brumbies (2014) -> サンウルブズ (2016 - 2019) -> Otago (2019 - )

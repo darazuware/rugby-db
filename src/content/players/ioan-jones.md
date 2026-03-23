@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ioan-jones"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-gloucester rugby (2022 - ) -> hartpury rfc (2023 - ) -> scarlets (2025 - )
+gloucester rugby (2022 - 2025) -> hartpury rfc (2023 - 2025) -> scarlets (2025 - )

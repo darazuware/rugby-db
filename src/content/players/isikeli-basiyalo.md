@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/isikeli-basiyalo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Fijian Drua (2024)
+Fijian Drua (2024 - )

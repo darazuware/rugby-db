@@ -16,6 +16,7 @@ caps: "セブンズ日本(1)"
 high_school: "伏見工業高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484266"
+league_one_caps: "48"
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "England (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ollie-sleightholme"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

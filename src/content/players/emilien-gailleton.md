@@ -16,6 +16,7 @@ caps: "France (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/emilien-gailleton"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

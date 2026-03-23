@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tristyn-cook"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-North Harbour (2023 - ) -> Blues (2023)
+North Harbour (2023 - 2025) -> Blues (2023 - )

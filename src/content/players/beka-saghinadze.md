@@ -16,6 +16,7 @@ caps: "Georgia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/beka-saghinadze"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

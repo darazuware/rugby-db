@@ -16,6 +16,7 @@ caps: ""
 high_school: "AnglicanChurchGrammarSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484344"
+league_one_caps: "63"
 ---
 
 ## キャリア遍歴

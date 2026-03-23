@@ -16,7 +16,8 @@ caps: ""
 high_school: "MassillonHighschool"
 university: ""
 scraped_url: "https://league-one.jp/player/483546"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2019 - 2023) -> オークランド (2022 - 2024) -> NECグリーンロケッツ東葛 (2024)
+ASM Clermont Auvergne (2019 - 2023) -> オークランド (2022 - 2024) -> NECグリーンロケッツ東葛 (2024 - )

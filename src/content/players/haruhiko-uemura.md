@@ -16,7 +16,8 @@ caps: "セブンズ日本(4)"
 high_school: "茗渓学園高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484687"
+league_one_caps: "21"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2023)
+三重ホンダヒート (2023 - )

@@ -16,6 +16,7 @@ caps: "U20('16)"
 high_school: "東福岡高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484951"
+league_one_caps: "24"
 ---
 
 ## キャリア遍歴

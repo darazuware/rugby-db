@@ -16,6 +16,7 @@ caps: "South Africa (65)"
 high_school: ""
 university: ""
 scraped_url: "bulls (2013 - 2019) -> montpellier hérault rugby (2019 - 2022) -> leicester tigers (2022 - 2025) -> bulls (2025 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

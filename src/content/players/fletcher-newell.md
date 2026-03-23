@@ -16,7 +16,8 @@ caps: "New Zealand (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fletcher-newell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2024) -> Crusaders (2019)
+Canterbury (2019 - 2024) -> Crusaders (2019 - )

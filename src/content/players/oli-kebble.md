@@ -16,7 +16,8 @@ caps: "South Africa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/oli-kebble"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stormers (2013 - 2017) -> Glasgow Warriors (2017 - 2024) -> Oyonnax Rugby (2024 - ) -> Stormers (2025 - )
+Stormers (2013 - 2017) -> Glasgow Warriors (2017 - 2024) -> Oyonnax Rugby (2024 - 2025) -> Stormers (2025 - )

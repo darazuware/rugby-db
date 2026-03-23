@@ -16,6 +16,7 @@ caps: ""
 high_school: "Scotland"
 university: ""
 scraped_url: "https://all.rugby/player/max-williamson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

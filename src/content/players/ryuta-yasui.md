@@ -16,7 +16,8 @@ caps: "U20('08)、セブンズ日本(3)、日本代表(2)"
 high_school: "東海大仰星高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484839"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2021)
+横浜キヤノンイーグルス (2021 - )

@@ -16,7 +16,8 @@ caps: "日本代表(2)"
 high_school: "ニューイントンカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/483755"
+league_one_caps: "71"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2021)
+クボタスピアーズ船橋・東京ベイ (2021 - )

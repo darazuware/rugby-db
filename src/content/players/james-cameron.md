@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-cameron"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2024 - ) -> Canterbury (2024 - ) -> Blues (2025 - )
+Crusaders (2024 - 2025) -> Canterbury (2024 - 2025) -> Blues (2025 - )

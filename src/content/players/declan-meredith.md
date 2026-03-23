@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/declan-meredith"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Wests Lions (2021 - 2022) -> Brumbies (2022)
+Wests Lions (2021 - 2022) -> Brumbies (2022 - )

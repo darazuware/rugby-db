@@ -16,7 +16,8 @@ caps: "高校('12)、U20('14)、日本代表(2)"
 high_school: "筑紫高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484180"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2017)
+静岡ブルーレヴズ (2017 - )

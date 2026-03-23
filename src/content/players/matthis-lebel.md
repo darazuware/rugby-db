@@ -16,6 +16,7 @@ caps: "France (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matthis-lebel"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

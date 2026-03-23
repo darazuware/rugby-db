@@ -16,6 +16,7 @@ caps: "Squad caps (1037)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-healy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

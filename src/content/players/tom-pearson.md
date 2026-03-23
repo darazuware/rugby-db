@@ -16,6 +16,7 @@ caps: "England (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-pearson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

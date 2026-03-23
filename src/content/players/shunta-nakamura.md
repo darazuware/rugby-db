@@ -16,7 +16,8 @@ caps: ""
 high_school: "桐蔭学園高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484850"
+league_one_caps: "75"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021 - 2023) -> 横浜キヤノンイーグルス (2023)
+東京サントリーサンゴリアス (2021 - 2023) -> 横浜キヤノンイーグルス (2023 - )

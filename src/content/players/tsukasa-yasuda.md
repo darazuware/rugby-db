@@ -16,7 +16,8 @@ caps: ""
 high_school: "常翔学園高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484998"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2021)
+Red Hurricanes Osaka (2021 - )

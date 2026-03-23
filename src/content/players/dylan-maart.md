@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dylan-maart"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-griquas (2023 - ) -> stormers (2025 - )
+griquas (2023 - 2025) -> stormers (2025 - )

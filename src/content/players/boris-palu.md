@@ -16,7 +16,8 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/boris-palu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Maison-Laffitte Saint-Germain Poissy Rugby (2008 - 2010) -> Racing 92 (2010 - ) -> Union Bordeaux-Bègles (2025 - )
+Maison-Laffitte Saint-Germain Poissy Rugby (2008 - 2010) -> Racing 92 (2010 - 2025) -> Union Bordeaux-Bègles (2025 - )

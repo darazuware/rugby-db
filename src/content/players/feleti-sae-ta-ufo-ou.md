@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/feleti-sae-ta-ufo-ou"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2022 - ) -> Moana Pasifika (2024)
+Manawatu Turbos (2022 - 2025) -> Moana Pasifika (2024 - )

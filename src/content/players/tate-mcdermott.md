@@ -16,7 +16,8 @@ caps: "Australia (26)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tate-mcdermott"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2017)
+Queensland Reds (2017 - )

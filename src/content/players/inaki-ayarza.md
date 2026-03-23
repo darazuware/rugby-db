@@ -16,6 +16,7 @@ caps: "Chile (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/inaki-ayarza"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

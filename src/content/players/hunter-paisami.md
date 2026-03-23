@@ -16,7 +16,8 @@ caps: "Samoa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hunter-paisami"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brisbane City (2018 - 2019) -> Queensland Reds (2019)
+Brisbane City (2018 - 2019) -> Queensland Reds (2019 - )

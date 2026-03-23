@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/xavier-tito-harris"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2022 - ) -> Blues (2023 - 2024) -> Highlanders (2025 - )
+Auckland (2022 - 2025) -> Blues (2023 - 2024) -> Highlanders (2025 - )

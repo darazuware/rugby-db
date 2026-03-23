@@ -16,6 +16,7 @@ caps: "Wales (2)"
 high_school: ""
 university: ""
 scraped_url: "scarlets (2018 - 2020) -> ampthill rugby (2020 - 2020) -> scarlets (2020 - 2020) -> ampthill rugby (2021 - 2021) -> scarlets (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

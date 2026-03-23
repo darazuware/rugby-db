@@ -16,7 +16,8 @@ caps: "U20('15)、日本代表(7)"
 high_school: "報徳学園高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484832"
+league_one_caps: "64"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2018 - 2021) -> Yokohama Canon Eagles (2021)
+Tokyo Sungoliath (2018 - 2021) -> Yokohama Canon Eagles (2021 - )

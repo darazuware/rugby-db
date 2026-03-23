@@ -16,6 +16,7 @@ caps: "England (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-willis"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

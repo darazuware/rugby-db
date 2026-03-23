@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/liam-bowron"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canberra Royals (2022 - 2023) -> Brumbies (2023)
+Canberra Royals (2022 - 2023) -> Brumbies (2023 - )

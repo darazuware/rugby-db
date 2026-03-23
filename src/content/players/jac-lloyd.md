@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jac-lloyd"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bristol bears (2019 - 2023) -> hartpury rfc (2022 - 2023) -> sydney university football club (2022 - 2023) -> newport rfc (2023 - ) -> dragons rfc (2025 - )
+bristol bears (2019 - 2023) -> hartpury rfc (2022 - 2023) -> sydney university football club (2022 - 2023) -> newport rfc (2023 - 2025) -> dragons rfc (2025 - )

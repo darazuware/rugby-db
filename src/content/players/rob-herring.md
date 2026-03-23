@@ -16,6 +16,7 @@ caps: "Ireland (43)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rob-herring"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

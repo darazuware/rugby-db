@@ -16,7 +16,8 @@ caps: "XV('25)、日本代表(3)"
 high_school: "大阪産業大学附属高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484355"
+league_one_caps: "59"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2022)
+東芝ブレイブルーパス東京 (2022 - )

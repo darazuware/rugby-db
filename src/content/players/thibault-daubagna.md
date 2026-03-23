@@ -16,6 +16,7 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thibault-daubagna"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

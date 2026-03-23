@@ -16,7 +16,8 @@ caps: ""
 high_school: "ハミルトンボーイズ"
 university: "白鴎大学"
 scraped_url: "https://league-one.jp/player/485729"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-フィジアン・ドゥルア (2024)
+フィジアン・ドゥルア (2024 - )

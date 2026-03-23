@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ola-tauelangi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Gordon Rugby Football Club (2019 - 2023) -> Auckland (2023 - ) -> Moana Pasifika (2023)
+Gordon Rugby Football Club (2019 - 2023) -> Auckland (2023 - 2025) -> Moana Pasifika (2023 - )

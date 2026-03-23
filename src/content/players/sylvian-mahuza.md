@@ -16,7 +16,8 @@ caps: ""
 high_school: "OuteniquaHighSchool"
 university: "ノースウェスト大学"
 scraped_url: "https://league-one.jp/player/484192"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-ライオンズ (2015 - 2019) -> 浦安D-Rocks (2019 - 2023) -> 静岡ブルーレヴズ (2023)
+ライオンズ (2015 - 2019) -> 浦安D-Rocks (2019 - 2023) -> 静岡ブルーレヴズ (2023 - )

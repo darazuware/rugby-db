@@ -16,7 +16,8 @@ caps: ""
 high_school: "関西学院高校"
 university: "関西学院大学"
 scraped_url: "https://league-one.jp/player/483955"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2022)
+コベルコ神戸スティーラーズ (2022 - )

@@ -16,6 +16,7 @@ caps: "Squad caps (1120)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/santiago-carreras"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

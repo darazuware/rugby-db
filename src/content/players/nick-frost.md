@@ -16,7 +16,8 @@ caps: "Australia (12)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nick-frost"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canberra Vikings (2018 - 2019) -> Brumbies (2019)
+Canberra Vikings (2018 - 2019) -> Brumbies (2019 - )

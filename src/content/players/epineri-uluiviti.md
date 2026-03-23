@@ -16,7 +16,8 @@ caps: "日本代表(11)"
 high_school: "RatuKadavulevuSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484741"
+league_one_caps: "57"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2018)
+三菱重工相模原ダイナボアーズ (2018 - )

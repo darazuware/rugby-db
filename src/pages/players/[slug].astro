@@ -371,21 +371,24 @@ const getFlag = (country: string, capsStr: string) => {
                   {isLeagueOne ? "TEST CAPS (LEAGUE ONE)" : "TEST CAPS"}
                 </span>
               </div>
-              <span class="font-black text-foreground text-lg tracking-tighter flex items-center gap-2">
-                {getFlag(entry.data.country || "", entry.data.caps || "") && (
-                  <span class="text-2xl leading-none">{getFlag(entry.data.country || "", entry.data.caps || "")}</span>
+              <div class="flex flex-col items-end">
+                {entry.data.caps ? (
+                  <span class="font-black text-foreground text-lg tracking-tighter flex items-center gap-2">
+                    {getFlag(entry.data.country || "", entry.data.caps || "") && (
+                      <span class="text-2xl leading-none">{getFlag(entry.data.country || "", entry.data.caps || "")}</span>
+                    )}
+                    {entry.data.caps}
+                  </span>
+                ) : null}
+                {isLeagueOne && entry.data.league_one_caps && (
+                  <span class={`font-black tracking-tighter ${entry.data.caps ? 'text-xs text-foreground/40 mt-1' : 'text-lg text-foreground'}`}>
+                    L1出場: {entry.data.league_one_caps} <span class="text-[10px]">試合</span>
+                  </span>
                 )}
-                <span>
-                  {entry.data.caps || "0"}
-                  {
-                    isLeagueOne && (
-                      <span class="text-xs text-foreground/40 mx-1 ml-2">
-                        ({entry.data.league_one_caps || "0"})
-                      </span>
-                    )
-                  }
-                </span>
-              </span>
+                {!entry.data.caps && (!isLeagueOne || !entry.data.league_one_caps) && (
+                  <span class="font-black text-foreground/20 text-lg tracking-tighter">---</span>
+                )}
+              </div>
             </div>
           </div>
         </div>

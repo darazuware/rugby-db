@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rory-mchaffie"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-peebles rfc (2023 - ) -> edimbourg rugby (2025 - )
+peebles rfc (2023 - 2025) -> edimbourg rugby (2025 - )

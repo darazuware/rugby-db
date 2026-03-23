@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/taniela-rakuro"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Nadroga (2021 - 2022) -> Fijian Drua (2022 - ) -> Taranaki Bulls (2024)
+Nadroga (2021 - 2022) -> Fijian Drua (2022 - ) -> Taranaki Bulls (2024 - )

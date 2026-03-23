@@ -16,6 +16,7 @@ caps: "Scotland (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/stafford-mcdowall"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

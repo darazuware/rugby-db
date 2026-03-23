@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/stephen-perofeta"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2016 - ) -> Taranaki Bulls (2019)
+Blues (2016 - ) -> Taranaki Bulls (2019 - )

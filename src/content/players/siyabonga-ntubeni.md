@@ -16,7 +16,8 @@ caps: "South Africa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/siyabonga-ntubeni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stormers (2013 - ) -> Sharks (2024 - )
+Stormers (2013 - ) -> Sharks (2024 - 2025)

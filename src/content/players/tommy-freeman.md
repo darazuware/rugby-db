@@ -16,6 +16,7 @@ caps: "England (16)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tommy-freeman"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Fiji (19)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josua-tuisova"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

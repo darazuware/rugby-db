@@ -16,7 +16,8 @@ caps: "New Zealand (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sevu-reece"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - ) -> Tasman Mako (2019 - 2022) -> Southland Stags (2024)
+Crusaders (2018 - ) -> Tasman Mako (2019 - 2022) -> Southland Stags (2024 - )

@@ -16,7 +16,8 @@ caps: "U20('11)、セブンズ日本(2)"
 high_school: "学習院高等科高校"
 university: "学習院大学"
 scraped_url: "https://league-one.jp/player/484325"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2015 - ) -> サンウルブズ (2016)
+東京サントリーサンゴリアス (2015 - ) -> サンウルブズ (2016 - )

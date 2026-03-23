@@ -16,7 +16,8 @@ caps: "U23('20)"
 high_school: "東海大福岡高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484165"
+league_one_caps: "39"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2022)
+静岡ブルーレヴズ (2022 - )

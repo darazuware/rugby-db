@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/soane-vikena"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2019 - ) -> Blues (2020 - 2024) -> Highlanders (2024)
+Auckland (2019 - 2025) -> Blues (2020 - 2024) -> Highlanders (2024 - )

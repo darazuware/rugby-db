@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-o-donovan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2023 - 2024) -> Canterbury (2024 - ) -> Munster Rugby (2025 - )
+Crusaders (2023 - 2024) -> Canterbury (2024 - 2025) -> Munster Rugby (2025 - )

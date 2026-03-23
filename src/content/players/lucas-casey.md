@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lucas-casey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2023 - ) -> Highlanders (2025 - )
+Otago (2023 - 2025) -> Highlanders (2025 - )

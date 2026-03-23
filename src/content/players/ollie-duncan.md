@@ -16,6 +16,7 @@ caps: ""
 high_school: "Scotland"
 university: ""
 scraped_url: "https://all.rugby/player/ollie-duncan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

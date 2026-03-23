@@ -16,6 +16,7 @@ caps: "Tonga"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/toma-akino-taufa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

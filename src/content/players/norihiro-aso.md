@@ -16,7 +16,8 @@ caps: ""
 high_school: "桐蔭学園高校"
 university: "立教大学"
 scraped_url: "https://league-one.jp/player/485499"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-LeRIRO Fukuoka (2022 - 2023) -> リコーブラックラムズ東京 (2023 - ) -> 日野レッドドルフィンズ (2025 - )
+LeRIRO Fukuoka (2022 - 2023) -> リコーブラックラムズ東京 (2023 - 2025) -> 日野レッドドルフィンズ (2025 - )

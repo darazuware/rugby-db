@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/philip-albert-van-niekerk"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blue Bulls (2023 - ) -> Bulls (2025 - )
+Blue Bulls (2023 - 2025) -> Bulls (2025 - )

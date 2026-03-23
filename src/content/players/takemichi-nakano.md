@@ -16,7 +16,8 @@ caps: "セブンズ日本(7)"
 high_school: "天理高校"
 university: "日本体育大学"
 scraped_url: "https://league-one.jp/player/485514"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2022)
+トヨタヴェルブリッツ (2022 - )

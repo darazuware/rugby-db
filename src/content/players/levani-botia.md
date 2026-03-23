@@ -16,6 +16,7 @@ caps: "Fiji (24)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/levani-botia"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

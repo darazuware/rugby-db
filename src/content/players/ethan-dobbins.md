@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ethan-dobbins"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-West Brisbane Bulldogs (2021 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024)
+West Brisbane Bulldogs (2021 - 2023) -> Melbourne Rebels (2023 - 2024) -> New South Wales Waratahs (2024 - )

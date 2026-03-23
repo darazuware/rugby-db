@@ -16,7 +16,8 @@ caps: "Argentina"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/benjamin-urdapilleta"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Harlequins (2010 - 2012) -> Oyonnax Rugby (2012 - 2015) -> Castres Olympique (2015 - 2023) -> ASM Clermont Auvergne (2023 - ) -> Club Universitario de Buenos Aires (2024 - ) -> Union Sportive Arlequins Perpignanais (2025 - )
+Harlequins (2010 - 2012) -> Oyonnax Rugby (2012 - 2015) -> Castres Olympique (2015 - 2023) -> ASM Clermont Auvergne (2023 - 2025) -> Club Universitario de Buenos Aires (2024 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

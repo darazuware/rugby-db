@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/codi-purnell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bath rugby (2024 - ) -> dragons rfc (2025 - )
+bath rugby (2024 - 2025) -> dragons rfc (2025 - )

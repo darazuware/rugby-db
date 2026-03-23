@@ -16,6 +16,7 @@ caps: "Spain"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joel-merkler"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

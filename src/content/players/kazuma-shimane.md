@@ -16,7 +16,8 @@ caps: "U23('19)"
 high_school: "天理高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484059"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2022)
+埼玉パナソニックワイルドナイツ (2022 - )

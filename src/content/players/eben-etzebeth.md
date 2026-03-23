@@ -16,6 +16,7 @@ caps: "South Africa (113)"
 high_school: ""
 university: ""
 scraped_url: "stormers (2014 - 2019) -> rugby club toulonnais (2019 - 2022) -> sharks (2022 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

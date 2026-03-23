@@ -16,6 +16,7 @@ caps: "Italy (36)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/monty-ioane"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "ニュープリマス・ボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/484092"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴
-タラナキ (2016 - 2022) -> Rouen Normandie Rugby (2021 - 2022) -> 狭山セコムラガッツ (2024)
+タラナキ (2016 - 2022) -> Rouen Normandie Rugby (2021 - 2022) -> 狭山セコムラガッツ (2024 - )

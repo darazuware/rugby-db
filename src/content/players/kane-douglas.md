@@ -16,6 +16,7 @@ caps: "Australia (16)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kane-douglas"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

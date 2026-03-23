@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dan-lancaster"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leeds tykes (2020 - 2021) -> leicester tigers (2021 - 2022) -> ealing trailfinders (2022 - 2024) -> racing 92 (2024 - ) -> glasgow warriors (2025 - )
+leeds tykes (2020 - 2021) -> leicester tigers (2021 - 2022) -> ealing trailfinders (2022 - 2024) -> racing 92 (2024 - 2025) -> glasgow warriors (2025 - )

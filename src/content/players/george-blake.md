@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-blake"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bond University (2020 - 2021) -> Queensland Reds (2021 - ) -> Manawatu Turbos (2023)
+Bond University (2020 - 2021) -> Queensland Reds (2021 - ) -> Manawatu Turbos (2023 - )

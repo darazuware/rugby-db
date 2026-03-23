@@ -16,7 +16,8 @@ caps: "Tonga (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/augustine-pulu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2013 - 2015) -> Blues (2016 - 2019) -> Hino Red Dolphins (2019 - ) -> Moana Pasifika (2025 - )
+Chiefs (2013 - 2015) -> Blues (2016 - 2019) -> Hino Red Dolphins (2019 - 2025) -> Moana Pasifika (2025 - )

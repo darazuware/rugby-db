@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jerry-blyth-lafferty"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "IonaCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/484343"
+league_one_caps: "13"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2021 - 2022) -> 東京サントリーサンゴリアス (2022 - ) -> 東芝ブレイブルーパス東京 (2025 - )
+浦安D-Rocks (2021 - 2022) -> 東京サントリーサンゴリアス (2022 - 2025) -> 東芝ブレイブルーパス東京 (2025 - )

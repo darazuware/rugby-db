@@ -16,7 +16,8 @@ caps: "U20,U23('16)"
 high_school: "東福岡高校"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/484968"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-ルリーロ福岡 (2024)
+ルリーロ福岡 (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "深谷高校"
 university: "帝京大学"
 scraped_url: "https://rugbypick.com/trap/koji-antigrav"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2018)
+東京サントリーサンゴリアス (2018 - )

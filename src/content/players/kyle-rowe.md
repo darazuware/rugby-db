@@ -16,6 +16,7 @@ caps: "Scotland (9)"
 high_school: ""
 university: ""
 scraped_url: "edimbourg rugby (2020 - 2021) -> london irish (2021 - 2023) -> glasgow warriors (2023 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

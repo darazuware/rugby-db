@@ -16,6 +16,7 @@ caps: "Ireland (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/caolin-blade"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

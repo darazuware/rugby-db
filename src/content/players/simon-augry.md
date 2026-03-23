@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simon-augry"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC Nieuil l'Espoir (2005 - 2013) -> Stade Poitevin (2013 - 2016) -> Sporting Club Albigeois (2016 - 2017) -> Union Sportive Montalbanaise (2017 - 2022) -> Biarritz Olympique Pays Basque (2022 - ) -> Rugby Club Vannes (2024 - )
+RC Nieuil l'Espoir (2005 - 2013) -> Stade Poitevin (2013 - 2016) -> Sporting Club Albigeois (2016 - 2017) -> Union Sportive Montalbanaise (2017 - 2022) -> Biarritz Olympique Pays Basque (2022 - 2025) -> Rugby Club Vannes (2024 - )

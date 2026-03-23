@@ -16,7 +16,8 @@ caps: ""
 high_school: "東福岡高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484745"
+league_one_caps: "68"
 ---
 
 ## キャリア遍歴
-Toyota Verblitz (2016 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021)
+Toyota Verblitz (2016 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/chris-smith"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bulls (2019 - 2024) -> oyonnax rugby (2024 - ) -> lions rugby (2025 - )
+bulls (2019 - 2024) -> oyonnax rugby (2024 - 2025) -> lions rugby (2025 - )

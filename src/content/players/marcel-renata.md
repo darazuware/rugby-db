@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/marcel-renata"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - 2018) -> Blues (2018 - ) -> Auckland (2019 - 2024) -> Northland Taniwha (2024)
+Hurricanes (2017 - 2018) -> Blues (2018 - ) -> Auckland (2019 - 2024) -> Northland Taniwha (2024 - )

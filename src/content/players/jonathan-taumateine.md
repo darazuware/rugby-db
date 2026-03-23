@@ -16,7 +16,8 @@ caps: "Samoa (11)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jonathan-taumateine"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2019) -> Hurricanes (2019 - 2021) -> Counties Manukau Steelers (2019 - ) -> Moana Pasifika (2021)
+Chiefs (2016 - 2019) -> Hurricanes (2019 - 2021) -> Counties Manukau Steelers (2019 - 2025) -> Moana Pasifika (2021 - )

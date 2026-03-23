@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tk-howden"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2019 - ) -> Hurricanes (2021 - 2024) -> Highlanders (2024)
+Manawatu Turbos (2019 - 2025) -> Hurricanes (2021 - 2024) -> Highlanders (2024 - )

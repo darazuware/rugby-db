@@ -16,7 +16,8 @@ caps: "Tonga (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/pita-ahki"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2011 - ) -> North Harbour (2015 - 2016) -> Hurricanes (2016 - 2017) -> Connacht Rugby (2017 - 2018) -> Stade Toulousain (2018)
+Blues (2011 - ) -> North Harbour (2015 - 2016) -> Hurricanes (2016 - 2017) -> Connacht Rugby (2017 - 2018) -> Stade Toulousain (2018 - )

@@ -16,7 +16,8 @@ caps: "セブンズ日本(5)、日本代表(92)"
 high_school: "札幌山の手高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484358"
+league_one_caps: "67"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2011) -> Chiefs (2013 - 2017) -> サンウルブズ (2018)
+Toshiba Brave Lupus Tokyo (2011) -> Chiefs (2013 - 2017) -> サンウルブズ (2018 - )

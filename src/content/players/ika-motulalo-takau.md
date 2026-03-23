@@ -16,7 +16,8 @@ caps: ""
 high_school: "トゥポウカレッジ"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484204"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2023 - ) -> 清水建設江東ブルーシャークス (2025 - )
+NECグリーンロケッツ東葛 (2023 - 2025) -> 清水建設江東ブルーシャークス (2025 - )

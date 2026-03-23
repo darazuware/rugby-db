@@ -16,7 +16,8 @@ caps: ""
 high_school: "SandbachSchool"
 university: "Setantacollege"
 scraped_url: "https://league-one.jp/player/484417"
+league_one_caps: "35"
 ---
 
 ## キャリア遍歴
-Sale Sharks (2013 - 2014) -> ワスプス (2014 - 2022) -> 豊田自動織機シャトルズ愛知 (2022)
+Sale Sharks (2013 - 2014) -> ワスプス (2014 - 2022) -> 豊田自動織機シャトルズ愛知 (2022 - )

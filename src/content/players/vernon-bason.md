@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vernon-bason"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2022 - ) -> Hurricanes (2023)
+Manawatu Turbos (2022 - 2025) -> Hurricanes (2023 - )

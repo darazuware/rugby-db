@@ -16,7 +16,8 @@ caps: ""
 high_school: "鶴来高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484489"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021 - 2024) -> 日本製鉄釜石シーウェイブス (2024)
+NECグリーンロケッツ東葛 (2021 - 2024) -> 日本製鉄釜石シーウェイブス (2024 - )

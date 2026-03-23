@@ -16,7 +16,8 @@ caps: ""
 high_school: "KelstonBoysHighSchool"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/484216"
+league_one_caps: "24"
 ---
 
 ## キャリア遍歴
-Toyota Industries Shuttles Aichi (2016 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Shimizu Koto Blue Sharks (2024)
+Toyota Industries Shuttles Aichi (2016 - 2021) -> コベルコ神戸スティーラーズ (2021 - 2023) -> Mie Honda Heat RFC (2023 - 2024) -> Shimizu Koto Blue Sharks (2024 - )

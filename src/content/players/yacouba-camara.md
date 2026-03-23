@@ -16,6 +16,7 @@ caps: "France (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/yacouba-camara"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

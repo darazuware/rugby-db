@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/clem-halaholo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2023 - 2024) -> New South Wales Waratahs (2024)
+Sydney University Football Club (2023 - 2024) -> New South Wales Waratahs (2024 - )

@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "盛岡工高校"
 university: "関東学院大大学"
 scraped_url: "https://league-one.jp/player/484044"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2024)
+埼玉パナソニックワイルドナイツ (2024 - )

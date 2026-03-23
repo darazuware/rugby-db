@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jimmy-tupou"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - 2016) -> Blues (2016 - 2019) -> Urayasu D-Rocks (2019 - 2023) -> Counties Manukau Steelers (2022 - ) -> Chiefs (2023 - ) -> Moana Pasifika (2025 - )
+Crusaders (2013 - 2016) -> Blues (2016 - 2019) -> Urayasu D-Rocks (2019 - 2023) -> Counties Manukau Steelers (2022 - 2025) -> Chiefs (2023 - 2025) -> Moana Pasifika (2025 - )

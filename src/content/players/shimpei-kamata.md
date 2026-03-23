@@ -16,6 +16,7 @@ caps: "U20('17)"
 high_school: "東福岡高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/483714"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴

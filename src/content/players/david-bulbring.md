@@ -16,7 +16,8 @@ caps: ""
 high_school: "AlexanderRoadHighSchool（アレクサンダーロード高校）"
 university: "Universityofjohannesburg（ヨハ"
 scraped_url: "https://league-one.jp/player/483756"
+league_one_caps: "69"
 ---
 
 ## キャリア遍歴
-スカーレッツ (2015 - 2019) -> クボタスピアーズ船橋・東京ベイ (2021)
+スカーレッツ (2015 - 2019) -> クボタスピアーズ船橋・東京ベイ (2021 - )

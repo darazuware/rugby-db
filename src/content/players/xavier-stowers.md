@@ -16,7 +16,8 @@ caps: ""
 high_school: "IpswichGrammarSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484074"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2023)
+埼玉パナソニックワイルドナイツ (2023 - )

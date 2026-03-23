@@ -16,7 +16,8 @@ caps: ""
 high_school: "ブリスベン"
 university: ""
 scraped_url: "https://league-one.jp/player/483486"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-日野RD (2021 - 2024) -> 浦安D (2024)
+日野RD (2021 - 2024) -> 浦安D (2024 - )

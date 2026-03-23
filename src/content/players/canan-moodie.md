@@ -16,6 +16,7 @@ caps: "South Africa (8)"
 high_school: ""
 university: ""
 scraped_url: "bulls (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

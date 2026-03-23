@@ -16,7 +16,8 @@ caps: ""
 high_school: "筑紫高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484821"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-JR九州 (2017 - 2018) -> BIG BLUES (2018 - 2019) -> 豊田自動織機シャトルズ愛知 (2019 - 2024) -> Yokohama Canon Eagles (2024)
+JR九州 (2017 - 2018) -> BIG BLUES (2018 - 2019) -> 豊田自動織機シャトルズ愛知 (2019 - 2024) -> Yokohama Canon Eagles (2024 - )

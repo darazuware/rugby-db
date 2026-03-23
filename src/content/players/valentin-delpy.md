@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/valentin-delpy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

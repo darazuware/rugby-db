@@ -16,6 +16,7 @@ caps: "Uruguay (45)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/santiago-arata"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

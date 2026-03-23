@@ -16,6 +16,7 @@ caps: "France (29)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jefferson-poirot"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

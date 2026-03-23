@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/wallace-sititi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-North Harbour (2021 - 2024) -> Chiefs (2023)
+North Harbour (2021 - 2024) -> Chiefs (2023 - )

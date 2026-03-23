@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "東福岡高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/485912"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2024)
+東京サントリーサンゴリアス (2024 - )

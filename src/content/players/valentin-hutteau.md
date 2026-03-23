@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/valentin-hutteau"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US Pithiviers (2012 - 2020) -> Rugby Club Massy Essonne (2020 - ) -> Union Bordeaux-Bègles (2025 - )
+US Pithiviers (2012 - 2020) -> Rugby Club Massy Essonne (2020 - 2025) -> Union Bordeaux-Bègles (2025 - )

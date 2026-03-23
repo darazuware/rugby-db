@@ -16,7 +16,8 @@ caps: ""
 high_school: "ウェーバリー"
 university: ""
 scraped_url: "https://league-one.jp/player/483726"
+league_one_caps: "17"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2023)
+九州電力キューデンヴォルテクス (2023 - )

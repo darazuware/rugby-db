@@ -16,7 +16,8 @@ caps: "日本代表(6)"
 high_school: "大分舞鶴高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484188"
+league_one_caps: "56"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2016 - 2017) -> 静岡ブルーレヴズ (2017)
+サンウルブズ (2016 - 2017) -> 静岡ブルーレヴズ (2017 - )

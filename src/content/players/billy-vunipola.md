@@ -16,6 +16,7 @@ caps: "England (70)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/billy-vunipola"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

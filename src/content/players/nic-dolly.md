@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nic-dolly"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sale Sharks (2017 - 2020) -> Coventry Rugby (2020 - 2021) -> Leicester Tigers (2020 - 2024) -> Western Force (2024)
+Sale Sharks (2017 - 2020) -> Coventry Rugby (2020 - 2021) -> Leicester Tigers (2020 - 2024) -> Western Force (2024 - )

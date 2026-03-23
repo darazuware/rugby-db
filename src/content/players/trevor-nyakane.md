@@ -16,6 +16,7 @@ caps: "South Africa (62)"
 high_school: ""
 university: ""
 scraped_url: "central cheetahs (2013 - 2014) -> bulls (2014 - 2021) -> racing 92 (2021 - 2024) -> sharks (2024 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

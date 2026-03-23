@@ -16,7 +16,8 @@ caps: "Fiji (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/iosefo-masi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-North Queensland Cowboys (2021 - 2022) -> Fijian Drua (2022 - ) -> Lyon Olympique Universitaire Rugby (2025 - )
+North Queensland Cowboys (2021 - 2022) -> Fijian Drua (2022 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

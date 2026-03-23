@@ -16,7 +16,8 @@ caps: "セブンズ日本(3)"
 high_school: "ケルストンボーイズ"
 university: "拓殖大学"
 scraped_url: "https://league-one.jp/player/484665"
+league_one_caps: "63"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021 - ) -> 三重ホンダヒート (2025 - )
+NECグリーンロケッツ東葛 (2021 - 2025) -> 三重ホンダヒート (2025 - )

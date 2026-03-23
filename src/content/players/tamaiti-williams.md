@@ -16,7 +16,8 @@ caps: "New Zealand (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tamaiti-williams"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - 2022) -> Crusaders (2019)
+Canterbury (2019 - 2022) -> Crusaders (2019 - )

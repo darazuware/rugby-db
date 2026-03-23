@@ -16,7 +16,8 @@ caps: ""
 high_school: "ウェイヴァリー"
 university: ""
 scraped_url: "https://league-one.jp/player/485498"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2024)
+トヨタヴェルブリッツ (2024 - )

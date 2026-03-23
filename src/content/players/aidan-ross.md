@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aidan-ross"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - ) -> Bay of Plenty Steamers (2019 - 2024) -> Queensland Reds (2025 - )
+Chiefs (2016 - 2025) -> Bay of Plenty Steamers (2019 - 2024) -> Queensland Reds (2025 - )

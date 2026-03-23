@@ -16,6 +16,7 @@ caps: "Fiji (9)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/luke-tagi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

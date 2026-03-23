@@ -16,6 +16,7 @@ caps: "Ireland (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ciaran-frawley"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "東福岡高校"
 university: "青山学院大学"
 scraped_url: "https://league-one.jp/player/484601"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-宗像サニックスブルース (2021 - 2022) -> 日野レッドドルフィンズ (2023)
+宗像サニックスブルース (2021 - 2022) -> 日野レッドドルフィンズ (2023 - )

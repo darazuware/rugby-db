@@ -16,6 +16,7 @@ caps: "France (85)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gael-fickou"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

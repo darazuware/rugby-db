@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rory-mcguire"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leinster rugby (2021 - ) -> ulster rugby (2025 - )
+leinster rugby (2021 - 2025) -> ulster rugby (2025 - )

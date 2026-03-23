@@ -16,7 +16,8 @@ caps: "高校('17,'18)、U23('20)、日本代表(29)"
 high_school: "大阪朝鮮高級学校"
 university: ""
 scraped_url: "https://league-one.jp/player/483953"
+league_one_caps: "72"
 ---
 
 ## キャリア遍歴
-Kobelco Kobe Steelers (2020)
+Kobelco Kobe Steelers (2020 - )

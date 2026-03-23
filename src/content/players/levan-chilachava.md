@@ -16,6 +16,7 @@ caps: "Georgia (49)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/levan-chilachava"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

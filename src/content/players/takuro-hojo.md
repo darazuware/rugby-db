@@ -16,7 +16,8 @@ caps: ""
 high_school: "天理高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484712"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2023)
+三重ホンダヒート (2023 - )

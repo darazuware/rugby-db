@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "御所実業高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484907"
+league_one_caps: "17"
 ---
 
 ## キャリア遍歴
-BlackRams Tokyo (2024)
+BlackRams Tokyo (2024 - )

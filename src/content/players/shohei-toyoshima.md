@@ -16,7 +16,8 @@ caps: "セブンズ日本(16)"
 high_school: "東海大相模高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484361"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

@@ -16,6 +16,7 @@ caps: "Scotland (3)"
 high_school: ""
 university: ""
 scraped_url: "newcastle (2016 - 2019) -> harlequins (2019 - 2021) -> edimbourg rugby (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

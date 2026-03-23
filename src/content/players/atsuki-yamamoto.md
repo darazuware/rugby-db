@@ -16,7 +16,8 @@ caps: ""
 high_school: "常翔学園高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484340"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2023)
+東京サントリーサンゴリアス (2023 - )

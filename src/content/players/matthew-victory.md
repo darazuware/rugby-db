@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matthew-victory"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

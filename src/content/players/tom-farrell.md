@@ -16,6 +16,7 @@ caps: ""
 high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/tom-farrell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

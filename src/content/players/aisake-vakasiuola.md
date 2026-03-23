@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aisake-vakasiuola"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2023 - ) -> Chiefs (2024)
+Bay of Plenty Steamers (2023 - 2025) -> Chiefs (2024 - )

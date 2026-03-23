@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-nott"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-sale sharks (2014 - 2019) -> london irish (2019 - 2022) -> dragons rfc (2022 - ) -> cardiff rugby (2025 - )
+sale sharks (2014 - 2019) -> london irish (2019 - 2022) -> dragons rfc (2022 - 2025) -> cardiff rugby (2025 - )

@@ -16,6 +16,7 @@ caps: "Georgia (36)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/beka-gigashvili"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

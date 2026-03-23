@@ -16,7 +16,8 @@ caps: ""
 high_school: "目黒学院高校"
 university: "東洋大学"
 scraped_url: "https://league-one.jp/player/483539"
+league_one_caps: "28"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2023 - ) -> NECグリーンロケッツ東葛 (2025 - )
+日野レッドドルフィンズ (2023 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

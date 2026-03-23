@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/zarn-sullivan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2019 - 2024) -> Blues (2020 - ) -> Hawke's Bay Magpies (2024)
+Auckland (2019 - 2024) -> Blues (2020 - ) -> Hawke's Bay Magpies (2024 - )

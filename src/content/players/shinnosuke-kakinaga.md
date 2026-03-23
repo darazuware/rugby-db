@@ -16,7 +16,8 @@ caps: "日本代表(12)"
 high_school: "東福岡高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484336"
+league_one_caps: "46"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2015 - 2016) -> 東京サントリーサンゴリアス (2017)
+サンウルブズ (2015 - 2016) -> 東京サントリーサンゴリアス (2017 - )

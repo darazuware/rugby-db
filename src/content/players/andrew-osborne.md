@@ -16,6 +16,7 @@ caps: "United States (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/andrew-osborne"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

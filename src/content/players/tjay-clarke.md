@@ -16,7 +16,8 @@ caps: ""
 high_school: "St Patrick's College"
 university: ""
 scraped_url: "https://league-one.jp/player/484341"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-ウェリントン (2022 - ) -> ハリケーンズ (2024 - ) -> 東芝ブレイブルーパス東京 (2025 - )
+ウェリントン (2022 - 2025) -> ハリケーンズ (2024 - 2025) -> 東芝ブレイブルーパス東京 (2025 - )

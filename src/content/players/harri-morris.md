@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harri-morris"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-edimbourg rugby (2020 - ) -> southern knights (2020 - 2021) -> london scottish (2022 - 2023) -> doncaster knights (2023 - 2024)
+southern knights (2020 - 2021) -> edimbourg rugby (2020 - ) -> london scottish (2022 - 2023) -> doncaster knights (2023 - 2024)

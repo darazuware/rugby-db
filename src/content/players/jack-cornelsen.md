@@ -16,7 +16,8 @@ caps: "日本代表(29)"
 high_school: "ブリスベングラマースクール"
 university: "University"
 scraped_url: "https://league-one.jp/player/485708"
+league_one_caps: "78"
 ---
 
 ## キャリア遍歴
-Queensland Country (2014 - 2016) -> 埼玉パナソニックワイルドナイツ (2018)
+Queensland Country (2014 - 2016) -> 埼玉パナソニックワイルドナイツ (2018 - )

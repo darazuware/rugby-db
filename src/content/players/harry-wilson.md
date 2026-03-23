@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harry-wilson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2018)
+Queensland Reds (2018 - )

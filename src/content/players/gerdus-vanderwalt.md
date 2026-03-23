@@ -16,6 +16,7 @@ caps: ""
 high_school: "モニュメント"
 university: "ヨハネスブルグ大学"
 scraped_url: "https://league-one.jp/player/484502"
+league_one_caps: "35"
 ---
 
 ## キャリア遍歴

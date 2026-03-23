@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sef-fa-agase"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2013 - ) -> Highlanders (2018 - 2019) -> Wellington Lions (2018 - 2019) -> Yokohama Canon Eagles (2019 - 2020) -> Otago (2019 - 2021) -> New England Free Jacks (2020 - 2021) -> Melbourne Rebels (2021 - 2022) -> Western Force (2025 - )
+Queensland Reds (2013 - 2025) -> Highlanders (2018 - 2019) -> Wellington Lions (2018 - 2019) -> Yokohama Canon Eagles (2019 - 2020) -> Otago (2019 - 2021) -> New England Free Jacks (2020 - 2021) -> Melbourne Rebels (2021 - 2022) -> Western Force (2025 - )

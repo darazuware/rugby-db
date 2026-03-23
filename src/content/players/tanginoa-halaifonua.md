@@ -16,6 +16,7 @@ caps: "Tonga (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tanginoa-halaifonua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

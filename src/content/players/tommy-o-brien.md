@@ -16,6 +16,7 @@ caps: ""
 high_school: "Ireland"
 university: ""
 scraped_url: "https://all.rugby/player/tommy-o-brien"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Georgia (40)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/beka-gorgadze"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kyle-smith"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-western province (2023 - ) -> stormers (2025 - )
+western province (2023 - 2025) -> stormers (2025 - )

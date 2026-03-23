@@ -16,7 +16,8 @@ caps: ""
 high_school: "パールボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/483928"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-ゴールデン・ライオンズ (2024 - ) -> コベルコ神戸スティーラーズ (2025 - )
+ゴールデン・ライオンズ (2024 - 2025) -> コベルコ神戸スティーラーズ (2025 - )

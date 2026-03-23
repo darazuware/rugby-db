@@ -202,9 +202,9 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                     </div>
                     <div class="pt-5 border-t border-border-dim/30 flex items-center justify-between">
                         <div class="flex flex-1 justify-between gap-2">
-                            {['super-rugby', 'top14', 'premiership', 'urc'].map(id => (
+                            {['league-one', 'super-rugby', 'top14', 'premiership', 'urc'].map(id => (
                                 <button data-league-switch={id} class="flex-1 py-2.5 rounded-xl bg-foreground/5 text-[10px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/20">
-                                    {id === 'premiership' ? 'PREM' : id.toUpperCase().slice(0, 3)}
+                                    {id === 'league-one' ? 'L1' : (id === 'premiership' ? 'PREM' : id.toUpperCase().slice(0, 3))}
                                 </button>
                             ))}
                         </div>
@@ -215,7 +215,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
     </main>
 </Layout>
 
-<script define:vars={{ validLeagues }}>
+<script define:vars={{ validLeagues, leagues }}>
 (function() {
     let activeLeague = '';
     const leagueColors = {
@@ -234,6 +234,13 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
         const normalized = league.toLowerCase();
         activeLeague = normalized;
         
+        // 外部の leagues オブジェクトを使用して日本語名を検索
+        const currentLeagueData = leagues.find(l => l.id === normalized || (normalized === 'league-one' && l.id === 'league-one'));
+        const nameEl = document.getElementById('mobile-current-league-name');
+        if (nameEl && currentLeagueData) {
+            nameEl.textContent = currentLeagueData.name;
+        }
+
         const sections = document.querySelectorAll('.league-section');
         sections.forEach(section => {
             const sid = section.getAttribute('data-league').toLowerCase();
@@ -249,6 +256,19 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                 group.disabled = gid !== normalized && !(normalized === 'league-one' && gid.includes('league-one'));
             });
         }
+
+        // モバイルナビゲーターのボタン強調
+        document.querySelectorAll('[data-league-switch]').forEach(btn => {
+            const bid = btn.getAttribute('data-league-switch').toLowerCase();
+            const isActive = bid === normalized || (normalized.startsWith('league-one') && bid === 'league-one');
+            if (isActive) {
+                btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-400');
+                btn.classList.remove('text-foreground/30', 'border-border-dim/20');
+            } else {
+                btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-400');
+                btn.classList.add('text-foreground/30', 'border-border-dim/20');
+            }
+        });
     }
 
     document.addEventListener('click', (e) => {

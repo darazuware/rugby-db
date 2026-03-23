@@ -16,6 +16,7 @@ caps: ""
 high_school: "フレッシュウォーター"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484492"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴

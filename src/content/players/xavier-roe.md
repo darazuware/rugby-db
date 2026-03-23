@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/xavier-roe"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2017 - 2019) -> Waikato Mooloos (2019 - ) -> Chiefs (2020)
+Taranaki Bulls (2017 - 2019) -> Waikato Mooloos (2019 - 2025) -> Chiefs (2020 - )

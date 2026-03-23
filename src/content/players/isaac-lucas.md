@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントジョセフカレッジグレゴリーテラス"
 university: ""
 scraped_url: "https://league-one.jp/player/484884"
+league_one_caps: "63"
 ---
 
 ## キャリア遍歴
-レッズ (2018 - 2020) -> リコーブラックラムズ東京 (2020)
+レッズ (2018 - 2020) -> リコーブラックラムズ東京 (2020 - )

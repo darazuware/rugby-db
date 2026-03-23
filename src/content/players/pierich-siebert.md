@@ -16,7 +16,8 @@ caps: ""
 high_school: "パール・ジムナジアム"
 university: "立正大学"
 scraped_url: "https://league-one.jp/player/484307"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2024)
+東京サントリーサンゴリアス (2024 - )

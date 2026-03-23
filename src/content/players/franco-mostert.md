@@ -16,7 +16,8 @@ caps: "South Africa (67)"
 high_school: "ブリッツ高高校"
 university: "プレトリア大学"
 scraped_url: "https://league-one.jp/player/484701"
+league_one_caps: "69"
 ---
 
 ## キャリア遍歴
-ライオンズ (2013 - 2018) -> グロスター (2018 - 2020) -> 三重ホンダヒート (2020)
+ライオンズ (2013 - 2018) -> グロスター (2018 - 2020) -> 三重ホンダヒート (2020 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kurt-eklund"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2018 - ) -> Blues (2019)
+Bay of Plenty Steamers (2018 - 2025) -> Blues (2019 - )

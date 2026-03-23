@@ -16,7 +16,8 @@ caps: ""
 high_school: "日本航空石川高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/483752"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2019 - 2020) -> クボタスピアーズ船橋・東京ベイ (2022)
+サンウルブズ (2019 - 2020) -> クボタスピアーズ船橋・東京ベイ (2022 - )

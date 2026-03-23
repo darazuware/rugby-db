@@ -16,7 +16,8 @@ caps: "日本代表(11)"
 high_school: "ウエストレイクボーイズ"
 university: "IPU環太平洋大学"
 scraped_url: "https://league-one.jp/player/483942"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2022)
+コベルコ神戸スティーラーズ (2022 - )

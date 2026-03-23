@@ -16,7 +16,8 @@ caps: "オーストラリア代表(50)"
 high_school: "ブリスベン州立高校"
 university: "クイーンズランド工科大学"
 scraped_url: "https://league-one.jp/player/483519"
+league_one_caps: "51"
 ---
 
 ## キャリア遍歴
-Brisbane City (2014 - 2017) -> Queensland Reds (2014 - 2019) -> 東京サントリーサンゴリアス (2019 - 2023) -> Urayasu D-Rocks (2023)
+Brisbane City (2014 - 2017) -> Queensland Reds (2014 - 2019) -> 東京サントリーサンゴリアス (2019 - 2023) -> Urayasu D-Rocks (2023 - )

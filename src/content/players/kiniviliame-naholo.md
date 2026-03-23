@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kiniviliame-naholo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2018 - 2024) -> Chiefs (2019 - 2020) -> Crusaders (2021 - 2022) -> Hurricanes (2022)
+Taranaki Bulls (2018 - 2024) -> Chiefs (2019 - 2020) -> Crusaders (2021 - 2022) -> Hurricanes (2022 - )

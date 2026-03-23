@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/karl-martin"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2020 - 2021) -> Montpellier Hérault Rugby (2021 - ) -> Stade Aurillacois Cantal Auvergne (2024 - )
+Leinster Rugby (2020 - 2021) -> Montpellier Hérault Rugby (2021 - ) -> Stade Aurillacois Cantal Auvergne (2024 - 2025)

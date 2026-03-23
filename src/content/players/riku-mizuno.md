@@ -16,7 +16,8 @@ caps: ""
 high_school: "東京高校"
 university: "中央大学"
 scraped_url: "https://league-one.jp/player/484101"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-狭山セコムラガッツ (2024)
+狭山セコムラガッツ (2024 - )

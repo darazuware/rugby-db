@@ -16,7 +16,8 @@ caps: ""
 high_school: "都島工業高校"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/484254"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2021 - 2023) -> sans club (2024 - ) -> 中国電力レッドレギュリオンズ (2025 - )
+日野レッドドルフィンズ (2021 - 2023) -> sans club (2024 - 2025) -> 中国電力レッドレギュリオンズ (2025 - )

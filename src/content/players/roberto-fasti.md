@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/roberto-fasti"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-rugby casale (2024 - ) -> benetton rugby trévise (2025 - )
+rugby casale (2024 - 2025) -> benetton rugby trévise (2025 - )

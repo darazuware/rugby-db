@@ -16,7 +16,8 @@ caps: ""
 high_school: "パジュア"
 university: ""
 scraped_url: "https://league-one.jp/player/484879"
+league_one_caps: "21"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

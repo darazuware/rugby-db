@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/michael-milne"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2018 - ) -> Munster Rugby (2024 - )
+Leinster Rugby (2018 - 2025) -> Munster Rugby (2024 - )

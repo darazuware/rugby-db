@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/benet-kumeroa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - ) -> Chiefs (2025 - )
+Bay of Plenty Steamers (2020 - 2025) -> Chiefs (2025 - )

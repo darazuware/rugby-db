@@ -16,6 +16,7 @@ caps: "Italy (24)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ange-capuozzo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

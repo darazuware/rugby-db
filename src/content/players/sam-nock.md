@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-nock"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2015 - ) -> Northland Taniwha (2019)
+Blues (2015 - ) -> Northland Taniwha (2019 - )

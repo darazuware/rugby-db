@@ -16,7 +16,8 @@ caps: "New Zealand (18)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/caleb-clarke"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2017 - ) -> Auckland (2019)
+Blues (2017 - ) -> Auckland (2019 - )

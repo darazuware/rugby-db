@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "東海大福岡高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484639"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-SA広島 (2020)
+SA広島 (2020 - )

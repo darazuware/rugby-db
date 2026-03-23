@@ -16,7 +16,8 @@ caps: "日本代表(38)"
 high_school: "TheSouthportSchool（サウスポート高校）"
 university: ""
 scraped_url: "https://league-one.jp/player/484057"
+league_one_caps: "65"
 ---
 
 ## キャリア遍歴
-ブリスベン・シティ (2017 - 2018) -> 埼玉パナソニックワイルドナイツ (2019)
+ブリスベン・シティ (2017 - 2018) -> 埼玉パナソニックワイルドナイツ (2019 - )

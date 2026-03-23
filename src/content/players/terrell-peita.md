@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/terrell-peita"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2019 - 2023) -> New England Free Jacks (2021 - 2022) -> Manawatu Turbos (2022 - 2023) -> Northland Taniwha (2023 - ) -> Blues (2025 - )
+Auckland (2019 - 2023) -> New England Free Jacks (2021 - 2022) -> Manawatu Turbos (2022 - 2023) -> Northland Taniwha (2023 - 2025) -> Blues (2025 - )

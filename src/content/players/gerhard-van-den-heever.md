@@ -16,7 +16,8 @@ caps: "日本代表(5)"
 high_school: "AfrikaansBoys'HighSchool（アフリカ—ンスボーイズ高校）"
 university: "UniversityofPretoria（プレトリ"
 scraped_url: "https://league-one.jp/player/483759"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴
-マンスター (2013 - 2016) -> サンウルブズ (2017 - 2019) -> クボタスピアーズ船橋・東京ベイ (2019)
+マンスター (2013 - 2016) -> サンウルブズ (2017 - 2019) -> クボタスピアーズ船橋・東京ベイ (2019 - )

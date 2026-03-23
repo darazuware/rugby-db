@@ -16,6 +16,7 @@ caps: "South Africa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dillyn-leyds"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

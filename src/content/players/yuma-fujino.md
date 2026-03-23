@@ -16,7 +16,8 @@ caps: "U20,U23('15)"
 high_school: "報徳学園高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484987"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> NTTドコモレッドハリケーンズ大阪 (2024)
+東芝ブレイブルーパス東京 (2021 - 2024) -> NTTドコモレッドハリケーンズ大阪 (2024 - )

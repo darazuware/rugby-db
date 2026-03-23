@@ -16,7 +16,8 @@ caps: ""
 high_school: "ハミルトンボーイズ高高校"
 university: "オタゴ大大学"
 scraped_url: "https://league-one.jp/player/485478"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-ワイカト (2021 - ) -> ヤクルトレビンズ戸田 (2025 - )
+ワイカト (2021 - 2025) -> ヤクルトレビンズ戸田 (2025 - )

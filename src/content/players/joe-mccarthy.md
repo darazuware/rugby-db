@@ -16,6 +16,7 @@ caps: "Ireland (19)"
 high_school: ""
 university: ""
 scraped_url: "leinster rugby (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

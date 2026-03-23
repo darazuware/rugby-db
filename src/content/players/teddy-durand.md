@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/teddy-durand"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC Launaguet (2011 - 2013) -> Stade Toulousain (2013 - 2018) -> Oyonnax Rugby (2018 - ) -> Castres Olympique (2025 - )
+RC Launaguet (2011 - 2013) -> Stade Toulousain (2013 - 2018) -> Oyonnax Rugby (2018 - 2025) -> Castres Olympique (2025 - )

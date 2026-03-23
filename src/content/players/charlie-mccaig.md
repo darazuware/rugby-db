@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/charlie-mccaig"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-exeter chiefs (2022 - ) -> cornish pirates (2024 - ) -> edimbourg rugby (2025 - )
+exeter chiefs (2022 - 2025) -> cornish pirates (2024 - 2025) -> edimbourg rugby (2025 - )

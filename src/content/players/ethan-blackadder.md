@@ -16,7 +16,8 @@ caps: "New Zealand (9)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ethan-blackadder"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2017 - ) -> Tasman Mako (2022)
+Crusaders (2017 - ) -> Tasman Mako (2022 - )

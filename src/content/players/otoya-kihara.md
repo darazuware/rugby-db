@@ -16,7 +16,8 @@ caps: "高校('17)"
 high_school: "東福岡高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484901"
+league_one_caps: "12"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2022) -> BlackRams Tokyo (2023)
+Kyushu Kyuden Voltex (2022) -> BlackRams Tokyo (2023 - )

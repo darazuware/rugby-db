@@ -16,6 +16,7 @@ caps: "Italy (2)"
 high_school: ""
 university: ""
 scraped_url: "colorno (2020 - 2021) -> zebre parma (2021 - 2021) -> colorno (2022 - 2022) -> zebre parma (2022 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

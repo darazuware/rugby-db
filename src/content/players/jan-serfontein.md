@@ -16,6 +16,7 @@ caps: "South Africa (21)"
 high_school: ""
 university: ""
 scraped_url: "bulls (2012 - 2017) -> montpellier hérault rugby (2017 - 2025) -> bulls (2025 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

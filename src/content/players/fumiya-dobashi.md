@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "黒沢尻工業高校"
 university: "東洋大学"
 scraped_url: "https://league-one.jp/player/484989"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2023)
+NTTドコモレッドハリケーンズ大阪 (2023 - )

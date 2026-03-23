@@ -16,7 +16,8 @@ caps: ""
 high_school: "関西大学北陽高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/485129"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2024)
+NECグリーンロケッツ東葛 (2024 - )

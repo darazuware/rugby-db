@@ -16,6 +16,7 @@ caps: "England (63)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kyle-sinckler"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

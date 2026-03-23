@@ -16,7 +16,8 @@ caps: ""
 high_school: "トンガカレッジ"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484400"
+league_one_caps: "28"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2022 - ) -> 豊田自動織機シャトルズ愛知 (2025 - )
+NECグリーンロケッツ東葛 (2022 - 2025) -> 豊田自動織機シャトルズ愛知 (2025 - )

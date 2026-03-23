@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/henry-robertson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Country Eagles (2018 - 2019) -> New South Wales Waratahs (2019 - 2022) -> Sydney University Football Club (2020 - 2021) -> Western Force (2022)
+New South Wales Country Eagles (2018 - 2019) -> New South Wales Waratahs (2019 - 2022) -> Sydney University Football Club (2020 - 2021) -> Western Force (2022 - )

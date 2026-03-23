@@ -16,6 +16,7 @@ caps: "South Africa (46)"
 high_school: ""
 university: ""
 scraped_url: "stormers (2014 - 2016) -> saracens (2016 - 2022) -> stade français paris rugby (2022 - 2022) -> wasps (2022 - 2022) -> stade français paris rugby (2022 - 2023) -> wasps (2023 - 2023) -> stade français paris rugby (2023 - 2023) -> sharks (2023 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

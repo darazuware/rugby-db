@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josh-bartlett"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - ) -> Chiefs (2021 - 2022) -> Western Force (2023 - 2024) -> Highlanders (2024)
+Bay of Plenty Steamers (2020 - 2025) -> Chiefs (2021 - 2022) -> Western Force (2023 - 2024) -> Highlanders (2024 - )

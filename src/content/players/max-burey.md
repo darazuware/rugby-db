@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/max-burey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Northern Suburbs RFC (2020 - 2022) -> Aussie 7's (2021 - 2023) -> Western Force (2022)
+Northern Suburbs RFC (2020 - 2022) -> Aussie 7's (2021 - 2023) -> Western Force (2022 - )

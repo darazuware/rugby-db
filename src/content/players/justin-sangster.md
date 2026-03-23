@@ -16,7 +16,8 @@ caps: ""
 high_school: "アキナスカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484155"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2021 - 2024) -> Hurricanes (2022 - 2024) -> 静岡ブルーレヴズ (2024)
+Bay of Plenty Steamers (2021 - 2024) -> Hurricanes (2022 - 2024) -> 静岡ブルーレヴズ (2024 - )

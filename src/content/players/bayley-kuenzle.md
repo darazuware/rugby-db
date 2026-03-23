@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/bayley-kuenzle"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2018 - 2021) -> Western Force (2021)
+Brumbies (2018 - 2021) -> Western Force (2021 - )

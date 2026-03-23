@@ -16,6 +16,7 @@ caps: "Samoa (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/brian-alainu-uese"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

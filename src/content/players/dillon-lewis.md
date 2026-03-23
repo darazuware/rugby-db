@@ -16,7 +16,8 @@ caps: "Wales (51)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dillon-lewis"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2015 - 2023) -> Harlequins (2023 - ) -> Dragons RFC (2025 - )
+Cardiff Rugby (2015 - 2023) -> Harlequins (2023 - 2025) -> Dragons RFC (2025 - )

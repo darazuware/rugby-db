@@ -16,7 +16,8 @@ caps: ""
 high_school: "Chancellor State College"
 university: ""
 scraped_url: "https://league-one.jp/player/484585"
+league_one_caps: "26"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2023)
+日野レッドドルフィンズ (2023 - )

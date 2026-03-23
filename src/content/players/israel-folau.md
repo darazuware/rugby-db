@@ -16,7 +16,8 @@ caps: "オーストラリア代表(73)"
 high_school: "マースデン州立高校"
 university: ""
 scraped_url: "https://league-one.jp/player/483507"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-ワラターズ (2013 - 2019) -> Dragons Catalans (2019 - 2020) -> 浦安D-Rocks (2021)
+ワラターズ (2013 - 2019) -> Dragons Catalans (2019 - 2020) -> 浦安D-Rocks (2021 - )

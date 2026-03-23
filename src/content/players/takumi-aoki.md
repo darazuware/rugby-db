@@ -16,7 +16,8 @@ caps: ""
 high_school: "御所実業高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484872"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2023)
+リコーブラックラムズ東京 (2023 - )

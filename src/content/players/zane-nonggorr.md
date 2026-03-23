@@ -16,7 +16,8 @@ caps: "Australia (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/zane-nonggorr"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2019)
+Queensland Reds (2019 - )

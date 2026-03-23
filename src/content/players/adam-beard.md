@@ -16,7 +16,8 @@ caps: "Wales (51)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/adam-beard"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Ospreys (2015 - ) -> Montpellier Hérault Rugby (2025 - )
+Ospreys (2015 - 2025) -> Montpellier Hérault Rugby (2025 - )

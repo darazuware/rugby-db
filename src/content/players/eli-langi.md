@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/eli-langi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2024)
+Brumbies (2024 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: "グレイ高校"
 university: "UniversityoftheFreeState（フリ"
 scraped_url: "https://league-one.jp/player/483763"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴

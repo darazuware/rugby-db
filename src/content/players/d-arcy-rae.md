@@ -16,6 +16,7 @@ caps: "Scotland (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/d-arcy-rae"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

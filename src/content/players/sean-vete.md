@@ -16,7 +16,8 @@ caps: ""
 high_school: "WestlakeBoysHighSchool"
 university: "IPU・環太平洋大学"
 scraped_url: "https://league-one.jp/player/484198"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2023)
+静岡ブルーレヴズ (2023 - )

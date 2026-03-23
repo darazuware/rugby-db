@@ -16,7 +16,8 @@ caps: ""
 high_school: "リンカーン"
 university: ""
 scraped_url: "https://league-one.jp/player/485506"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-サウスランド (2021 - 2024) -> トヨタヴェルブリッツ (2024)
+サウスランド (2021 - 2024) -> トヨタヴェルブリッツ (2024 - )

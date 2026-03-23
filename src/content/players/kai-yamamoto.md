@@ -16,7 +16,8 @@ caps: "高校('17)、U20('18,'19)、U23('19)、日本代表(1)"
 high_school: "慶應義塾高校"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/484317"
+league_one_caps: "42"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021)
+東京サントリーサンゴリアス (2021 - )

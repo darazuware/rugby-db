@@ -16,7 +16,8 @@ caps: ""
 high_school: "滋賀学園高校"
 university: "金沢学院大学"
 scraped_url: "https://league-one.jp/player/484973"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-ルリーロ福岡 (2024)
+ルリーロ福岡 (2024 - )

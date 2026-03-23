@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kane-koteka"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2014 - ) -> Kamaishi Seawaves (2018 - 2020) -> sans club (2023)
+Western Force (2014 - ) -> Kamaishi Seawaves (2018 - 2020) -> sans club (2023 - )

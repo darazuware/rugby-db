@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lolani-faleiva"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2020 - ) -> Toronto Arrows (2021 - 2023) -> Moana Pasifika (2025 - )
+Hawke's Bay Magpies (2020 - 2025) -> Toronto Arrows (2021 - 2023) -> Moana Pasifika (2025 - )

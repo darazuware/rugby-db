@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/corey-kellow"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2020 - ) -> Crusaders (2021)
+Canterbury (2020 - 2025) -> Crusaders (2021 - )

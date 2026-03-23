@@ -16,6 +16,7 @@ caps: "France (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sipili-falatea"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

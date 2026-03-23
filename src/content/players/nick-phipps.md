@@ -16,7 +16,8 @@ caps: "オーストラリア代表(72)"
 high_school: "The"
 university: "Kings"
 scraped_url: "https://league-one.jp/player/483569"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴
-ワラターズ (2013 - 2019) -> ロンドン・アイリッシュ (2019 - 2022) -> NECグリーンロケッツ東葛 (2022)
+ワラターズ (2013 - 2019) -> ロンドン・アイリッシュ (2019 - 2022) -> NECグリーンロケッツ東葛 (2022 - )

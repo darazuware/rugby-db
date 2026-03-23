@@ -16,6 +16,7 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mohammed-houas"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

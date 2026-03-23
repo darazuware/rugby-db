@@ -16,7 +16,8 @@ caps: ""
 high_school: "岐阜工業高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484437"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2023)
+豊田自動織機シャトルズ愛知 (2023 - )

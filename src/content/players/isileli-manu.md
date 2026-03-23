@@ -16,6 +16,7 @@ caps: ""
 high_school: "ディルワース"
 university: ""
 scraped_url: "https://league-one.jp/player/484408"
+league_one_caps: "42"
 ---
 
 ## キャリア遍歴

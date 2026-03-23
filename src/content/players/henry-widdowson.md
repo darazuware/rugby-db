@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/henry-widdowson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-merchiston castle school (2024 - ) -> edimbourg rugby (2025 - )
+merchiston castle school (2024 - 2025) -> edimbourg rugby (2025 - )

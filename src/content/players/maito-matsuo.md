@@ -16,7 +16,8 @@ caps: ""
 high_school: "TheSouthportSchool"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484253"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2024)
+清水建設江東ブルーシャークス (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tevita-alatini"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2023)
+Brumbies (2023 - )

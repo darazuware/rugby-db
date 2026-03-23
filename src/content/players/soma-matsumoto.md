@@ -16,6 +16,7 @@ caps: ""
 high_school: "石見智翠館高校"
 university: "関西学院大学"
 scraped_url: "https://league-one.jp/player/483481"
+league_one_caps: "13"
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "京都工学院高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483972"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-Kobelco Kobe Steelers (2024)
+Kobelco Kobe Steelers (2024 - )

@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thomas-banks"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2014 - 2016) -> Brumbies (2016 - 2022) -> Mie Honda Heat RFC (2022 - ) -> Montpellier Hérault Rugby (2025 - )
+Queensland Reds (2014 - 2016) -> Brumbies (2016 - 2022) -> Mie Honda Heat RFC (2022 - 2025) -> Montpellier Hérault Rugby (2025 - )

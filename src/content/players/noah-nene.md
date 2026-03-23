@@ -16,7 +16,8 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/noah-nene"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC Val de Bièvre (2013 - 2021) -> Stade Français Paris Rugby (2021 - ) -> US Dax Rugby Landes (2024 - )
+RC Val de Bièvre (2013 - 2021) -> Stade Français Paris Rugby (2021 - ) -> US Dax Rugby Landes (2024 - 2025)

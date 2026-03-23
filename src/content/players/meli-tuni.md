@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/meli-tuni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Suva Rugby Union (2020 - 2021) -> Fijian Drua (2021)
+Suva Rugby Union (2020 - 2021) -> Fijian Drua (2021 - )

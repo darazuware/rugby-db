@@ -16,6 +16,7 @@ caps: "Scotland (12)"
 high_school: ""
 university: ""
 scraped_url: "edimbourg rugby (2017 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

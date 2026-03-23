@@ -16,7 +16,8 @@ caps: "Samoa (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/miracle-fai-ilagi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Samoa 7's (2021 - 2022) -> Moana Pasifika (2022 - ) -> Hawke's Bay Magpies (2024)
+Samoa 7's (2021 - 2022) -> Moana Pasifika (2022 - ) -> Hawke's Bay Magpies (2024 - )

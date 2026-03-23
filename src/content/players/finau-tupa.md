@@ -16,7 +16,8 @@ caps: ""
 high_school: "LiahonaHighSchool（リアホナ高校）"
 university: ""
 scraped_url: "https://league-one.jp/player/483772"
+league_one_caps: "58"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2021)
+クボタスピアーズ船橋・東京ベイ (2021 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-talamai"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-saracens (2024 - ) -> dragons rfc (2025 - )
+saracens (2024 - 2025) -> dragons rfc (2025 - )

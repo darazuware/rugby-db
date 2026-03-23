@@ -16,6 +16,7 @@ caps: "South Africa (5)"
 high_school: ""
 university: ""
 scraped_url: "sharks (2017 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

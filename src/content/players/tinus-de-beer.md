@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tinus-de-beer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bulls (2016 - 2017) -> griquas (2019 - 2021) -> pumas (2021 - 2023) -> cardiff rugby (2023 - ) -> dragons rfc (2025 - )
+bulls (2016 - 2017) -> griquas (2019 - 2021) -> pumas (2021 - 2023) -> cardiff rugby (2023 - 2025) -> dragons rfc (2025 - )

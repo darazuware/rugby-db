@@ -16,6 +16,7 @@ caps: "Ireland (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/craig-casey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

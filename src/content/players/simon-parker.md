@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simon-parker"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2019 - 2023) -> Chiefs (2019 - ) -> Northland Taniwha (2023)
+Waikato Mooloos (2019 - 2023) -> Chiefs (2019 - ) -> Northland Taniwha (2023 - )

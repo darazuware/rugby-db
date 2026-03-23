@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪桐蔭高校"
 university: "大阪体育大学"
 scraped_url: "https://league-one.jp/player/485374"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2024)
+日野レッドドルフィンズ (2024 - )

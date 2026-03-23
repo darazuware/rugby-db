@@ -16,6 +16,7 @@ caps: ""
 high_school: "StPaul'sCollegiateSchoolinHamilton"
 university: ""
 scraped_url: "https://league-one.jp/player/484156"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴

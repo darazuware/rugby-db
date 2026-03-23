@@ -16,7 +16,8 @@ caps: "Georgia (23)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/davit-niniashvili"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Khvamli Rugby (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - ) -> Stade Rochelais (2025 - )
+Khvamli Rugby (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2021 - 2025) -> Stade Rochelais (2025 - )

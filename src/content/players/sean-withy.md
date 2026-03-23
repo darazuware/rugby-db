@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sean-withy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2019 - 2023) -> Highlanders (2020 - ) -> Southland Stags (2023)
+Otago (2019 - 2023) -> Highlanders (2020 - ) -> Southland Stags (2023 - )

@@ -16,6 +16,7 @@ caps: "Australia (11)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/folau-fainga-a"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

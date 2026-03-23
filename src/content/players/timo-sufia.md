@@ -16,7 +16,8 @@ caps: "セブンズ日本(14)"
 high_school: "アロフィ・オ・タオア"
 university: "朝日大学"
 scraped_url: "https://league-one.jp/player/484535"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2024)
+花園近鉄ライナーズ (2024 - )

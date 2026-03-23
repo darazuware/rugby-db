@@ -16,6 +16,7 @@ caps: "Ireland (72)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-ryan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: "Fiji (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jiuta-wainiqolo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Fijian Drua (2018 - 2019) -> FIDJI 7's (2020 - 2021) -> Rugby Club Toulonnais (2021 - ) -> Lyon Olympique Universitaire Rugby (2025 - )
+Fijian Drua (2018 - 2019) -> FIDJI 7's (2020 - 2021) -> Rugby Club Toulonnais (2021 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

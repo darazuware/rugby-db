@@ -16,7 +16,8 @@ caps: ""
 high_school: "Brisbane State HighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484159"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2024)
+静岡ブルーレヴズ (2024 - )

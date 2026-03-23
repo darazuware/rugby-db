@@ -16,7 +16,8 @@ caps: "U20,U23('16)"
 high_school: "東福岡高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/485010"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2019)
+Red Hurricanes Osaka (2019 - )

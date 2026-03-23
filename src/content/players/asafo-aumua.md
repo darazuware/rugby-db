@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/asafo-aumua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - ) -> Wellington Lions (2019)
+Hurricanes (2017 - ) -> Wellington Lions (2019 - )

@@ -16,7 +16,8 @@ caps: "NZ代表(3)"
 high_school: "SaintKentigernCollege（セントケンティガンカレッジ）"
 university: ""
 scraped_url: "https://league-one.jp/player/484357"
+league_one_caps: "66"
 ---
 
 ## キャリア遍歴
-Chiefs (2015 - 2016) -> Crusaders (2017 - 2018) -> ボルドー (2018 - 2020) -> Toshiba Brave Lupus Tokyo (2021)
+Chiefs (2015 - 2016) -> Crusaders (2017 - 2018) -> ボルドー (2018 - 2020) -> Toshiba Brave Lupus Tokyo (2021 - )

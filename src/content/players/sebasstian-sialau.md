@@ -16,6 +16,7 @@ caps: ""
 high_school: "トゥウンバ文法学校"
 university: ""
 scraped_url: "https://league-one.jp/player/484259"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴

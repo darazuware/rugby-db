@@ -16,6 +16,7 @@ caps: "Australia (29)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-skelton"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

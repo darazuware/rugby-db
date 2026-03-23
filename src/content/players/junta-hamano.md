@@ -16,7 +16,8 @@ caps: "日本代表(2)"
 high_school: "ロトルアボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/483951"
+league_one_caps: "21"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021 - ) -> マナワツ (2024)
+コベルコ神戸スティーラーズ (2021 - ) -> マナワツ (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/xan-mousques"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US Nafarroa (2012 - 2022) -> Aviron Bayonnais (2022 - ) -> Union Bordeaux-Bègles (2025 - )
+US Nafarroa (2012 - 2022) -> Aviron Bayonnais (2022 - 2025) -> Union Bordeaux-Bègles (2025 - )

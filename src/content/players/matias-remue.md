@@ -16,6 +16,7 @@ caps: "Belgium"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matias-remue"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

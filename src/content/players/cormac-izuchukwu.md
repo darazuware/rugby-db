@@ -16,6 +16,7 @@ caps: "Ireland (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cormac-izuchukwu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

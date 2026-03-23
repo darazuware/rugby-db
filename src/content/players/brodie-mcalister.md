@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/brodie-mcalister"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - 2024) -> Canterbury (2019 - ) -> Chiefs (2024)
+Crusaders (2018 - 2024) -> Canterbury (2019 - 2025) -> Chiefs (2024 - )

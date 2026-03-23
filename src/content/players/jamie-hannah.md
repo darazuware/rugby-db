@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jamie-hannah"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2022 - ) -> Canterbury (2023)
+Crusaders (2022 - ) -> Canterbury (2023 - )

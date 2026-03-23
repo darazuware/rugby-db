@@ -16,7 +16,8 @@ caps: "高校('17)、U20,U23('19)、日本代表(26)"
 high_school: "東海大仰星高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484045"
+league_one_caps: "57"
 ---
 
 ## キャリア遍歴
-埼玉WK (2022)
+埼玉WK (2022 - )

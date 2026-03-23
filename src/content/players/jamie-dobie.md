@@ -16,6 +16,7 @@ caps: "Scotland (9)"
 high_school: ""
 university: ""
 scraped_url: "glasgow warriors (2019 - 2021) -> bay of plenty steamers (2021 - 2021) -> glasgow warriors (2022 - 2022) -> bay of plenty steamers (2022 - 2022) -> glasgow warriors (2022 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

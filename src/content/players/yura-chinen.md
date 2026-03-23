@@ -16,7 +16,8 @@ caps: ""
 high_school: "常翔学園高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484979"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2024)
+NTTドコモレッドハリケーンズ大阪 (2024 - )

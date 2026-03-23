@@ -16,7 +16,8 @@ caps: ""
 high_school: "摂津高校"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484384"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2024)
+Toshiba Brave Lupus Tokyo (2024 - )

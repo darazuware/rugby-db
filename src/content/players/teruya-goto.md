@@ -16,7 +16,8 @@ caps: "セブンズ日本(15)"
 high_school: "桂高校"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/483562"
+league_one_caps: "39"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2014 - ) -> サンウルブズ (2016)
+NECグリーンロケッツ東葛 (2014 - ) -> サンウルブズ (2016 - )

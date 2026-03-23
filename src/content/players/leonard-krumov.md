@@ -16,6 +16,7 @@ caps: ""
 high_school: "Italy"
 university: ""
 scraped_url: "https://all.rugby/player/leonard-krumov"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

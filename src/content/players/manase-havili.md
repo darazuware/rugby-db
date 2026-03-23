@@ -16,7 +16,8 @@ caps: ""
 high_school: "高知中央高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/485709"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2024 - ) -> ルリーロ福岡 (2025 - )
+三重ホンダヒート (2024 - 2025) -> ルリーロ福岡 (2025 - )

@@ -16,7 +16,8 @@ caps: "Scotland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ewan-johnson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Plouzané (2012 - 2017) -> Racing 92 (2017 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Oyonnax Rugby (2023 - ) -> Aviron Bayonnais (2025 - )
+Plouzané (2012 - 2017) -> Racing 92 (2017 - 2020) -> Rugby Club Vannes (2020 - 2023) -> Oyonnax Rugby (2023 - 2025) -> Aviron Bayonnais (2025 - )

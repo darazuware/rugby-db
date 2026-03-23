@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mackenzie-martin"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cardiff rugby (2021 - ) -> dragons rfc (2025 - )
+cardiff rugby (2021 - 2025) -> dragons rfc (2025 - )

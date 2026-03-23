@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/luke-scully"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-worcester warriors (2018 - 2020) -> cardiff rugby (2020 - 2022) -> cornish pirates (2020 - 2021) -> ospreys (2022 - )
+worcester warriors (2018 - 2020) -> cornish pirates (2020 - 2021) -> cardiff rugby (2020 - 2022) -> ospreys (2022 - )

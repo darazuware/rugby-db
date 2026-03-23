@@ -16,6 +16,7 @@ caps: "Wales (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/teddy-williams"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "桐蔭学園高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484236"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2021)
+清水建設江東ブルーシャークス (2021 - )

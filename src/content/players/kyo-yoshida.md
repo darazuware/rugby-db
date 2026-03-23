@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "大阪桐蔭高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484752"
+league_one_caps: "66"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2018 - 2023) -> サンウルブズ (2020) -> Mitsubishi Sagamihara Dynaboars (2023)
+トヨタヴェルブリッツ (2018 - 2023) -> サンウルブズ (2020) -> Mitsubishi Sagamihara Dynaboars (2023 - )

@@ -16,7 +16,8 @@ caps: "日本代表(2)"
 high_school: "仙台育英学園高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484374"
+league_one_caps: "13"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2015 - 2016) -> 東芝ブレイブルーパス東京 (2021)
+サンウルブズ (2015 - 2016) -> 東芝ブレイブルーパス東京 (2021 - )

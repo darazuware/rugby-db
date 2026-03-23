@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/khutha-mchunu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-sharks (2018 - 2023) -> central cheetahs (2019 - 2020) -> bulls (2023 - ) -> mitsubishi sagamihara dynaboars (2024 - )
+sharks (2018 - 2023) -> central cheetahs (2019 - 2020) -> bulls (2023 - ) -> mitsubishi sagamihara dynaboars (2024 - 2025)

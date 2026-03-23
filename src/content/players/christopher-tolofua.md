@@ -16,6 +16,7 @@ caps: "France (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/christopher-tolofua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

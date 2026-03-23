@@ -16,7 +16,8 @@ caps: "Australia (33)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/allan-alaalatoa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2013)
+Brumbies (2013 - )

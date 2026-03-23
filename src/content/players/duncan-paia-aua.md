@@ -16,7 +16,8 @@ caps: "Samoa (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/duncan-paia-aua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2014 - 2019) -> Rugby Club Toulonnais (2019 - ) -> Union Sportive Arlequins Perpignanais (2025 - )
+Queensland Reds (2014 - 2019) -> Rugby Club Toulonnais (2019 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

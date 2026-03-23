@@ -16,7 +16,8 @@ caps: ""
 high_school: "ランギオラ"
 university: "カンタベリー大学"
 scraped_url: "https://league-one.jp/player/484487"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-タスマン (2022 - 2023) -> 日本製鉄釜石シーウェイブス (2024)
+タスマン (2022 - 2023) -> 日本製鉄釜石シーウェイブス (2024 - )

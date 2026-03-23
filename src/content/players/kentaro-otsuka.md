@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐賀工業高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/485016"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2021 - 2023) -> NTTドコモレッドハリケーンズ大阪 (2023)
+クボタスピアーズ船橋・東京ベイ (2021 - 2023) -> NTTドコモレッドハリケーンズ大阪 (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thomas-lambert"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2019 - 2020) -> Glasgow Warriors (2020 - 2022) -> New South Wales Waratahs (2022)
+Sydney University Football Club (2019 - 2020) -> Glasgow Warriors (2020 - 2022) -> New South Wales Waratahs (2022 - )

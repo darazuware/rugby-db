@@ -16,7 +16,8 @@ caps: ""
 high_school: "AtAndrew’sCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/484201"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-サウス・カンタベリー (2016 - 2021) -> Canterbury (2021) -> 日本製鉄釜石シーウェイブス (2021 - ) -> 清水建設江東ブルーシャークス (2025 - )
+サウス・カンタベリー (2016 - 2021) -> Canterbury (2021) -> 日本製鉄釜石シーウェイブス (2021 - 2025) -> 清水建設江東ブルーシャークス (2025 - )

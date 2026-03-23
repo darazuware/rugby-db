@@ -16,7 +16,8 @@ caps: "U23('13)、日本代表(10)"
 high_school: "深谷高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484064"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴
-埼玉WK (2016) -> サンウルブズ (2019)
+埼玉WK (2016) -> サンウルブズ (2019 - )

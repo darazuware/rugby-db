@@ -16,7 +16,8 @@ caps: ""
 high_school: "MaritzburgCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/484816"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-シャークス (2020 - ) -> 横浜キヤノンイーグルス (2024)
+シャークス (2020 - 2025) -> 横浜キヤノンイーグルス (2024 - )

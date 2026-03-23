@@ -16,7 +16,8 @@ caps: ""
 high_school: "熊野高校"
 university: "日本体育大学"
 scraped_url: "https://league-one.jp/player/483757"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2022)
+クボタスピアーズ船橋・東京ベイ (2022 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dane-blacker"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - 2018) -> Cardiff Rugby (2017 - 2019) -> Scarlets (2019 - 2023) -> Dragons RFC (2023 - ) -> Scarlets (2025 - )
+Dragons RFC (2017 - 2018) -> Cardiff Rugby (2017 - 2019) -> Scarlets (2019 - 2023) -> Dragons RFC (2023 - 2025) -> Scarlets (2025 - )

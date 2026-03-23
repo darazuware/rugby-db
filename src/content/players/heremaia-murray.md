@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/heremaia-murray"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2021) -> Northland Taniwha (2021 - 2024) -> Crusaders (2023 - 2024) -> Queensland Reds (2024)
+Auckland (2020 - 2021) -> Northland Taniwha (2021 - 2024) -> Crusaders (2023 - 2024) -> Queensland Reds (2024 - )

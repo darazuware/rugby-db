@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/levi-douglas"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bath rugby (2015 - 2020) -> wasps (2019 - 2021) -> rugby club toulonnais (2020 - 2021) -> fc grenoble rugby (2021 - 2023) -> urayasu d-rocks (2023 - 2024) -> biarritz olympique pays basque (2024 - ) -> dragons rfc (2025 - )
+bath rugby (2015 - 2020) -> wasps (2019 - 2021) -> rugby club toulonnais (2020 - 2021) -> fc grenoble rugby (2021 - 2023) -> urayasu d-rocks (2023 - 2024) -> biarritz olympique pays basque (2024 - 2025) -> dragons rfc (2025 - )

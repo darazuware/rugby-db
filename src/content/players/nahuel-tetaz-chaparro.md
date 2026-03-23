@@ -16,6 +16,7 @@ caps: "Argentina (78)"
 high_school: ""
 university: ""
 scraped_url: "dragons rfc (2013 - 2014) -> lyon olympique universitaire rugby (2014 - 2015) -> jaguares (2015 - 2020) -> bristol bears (2020 - 2021) -> benetton rugby trévise (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

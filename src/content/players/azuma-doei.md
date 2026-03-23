@@ -16,7 +16,8 @@ caps: ""
 high_school: "光泉高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484710"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-宗像サニックスブルース (2021 - 2022) -> 三重ホンダヒート (2024)
+宗像サニックスブルース (2021 - 2022) -> 三重ホンダヒート (2024 - )

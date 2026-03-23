@@ -16,7 +16,8 @@ caps: ""
 high_school: "マタマタカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/483489"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-ワイカト (2021 - 2023) -> 浦安D-Rocks (2024)
+ワイカト (2021 - 2023) -> 浦安D-Rocks (2024 - )

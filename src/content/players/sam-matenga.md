@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-matenga"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2018 - ) -> Seattle Seawolves (2021 - 2024) -> Crusaders (2024 - ) -> Blues (2025 - )
+Tasman Mako (2018 - 2025) -> Seattle Seawolves (2021 - 2024) -> Crusaders (2024 - 2025) -> Blues (2025 - )

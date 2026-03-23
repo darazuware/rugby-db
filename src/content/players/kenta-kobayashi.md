@@ -16,7 +16,8 @@ caps: "U20('19)、U23('20)、XV('25)、日本代表(9)"
 high_school: "東福岡高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/485715"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2022)
+東京サントリーサンゴリアス (2022 - )

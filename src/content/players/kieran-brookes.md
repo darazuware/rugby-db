@@ -16,6 +16,7 @@ caps: "England (12)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kieran-brookes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

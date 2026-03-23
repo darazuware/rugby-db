@@ -16,6 +16,7 @@ caps: "Italy (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alessandro-izekor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

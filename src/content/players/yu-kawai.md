@@ -16,7 +16,8 @@ caps: ""
 high_school: "日本航空高校石川"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/485077"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-ブラザーズRC (2023 - ) -> ホンダヒート (2025 - )
+ブラザーズRC (2023 - 2025) -> ホンダヒート (2025 - )

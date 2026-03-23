@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joseph-manu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney Roosters (2015 - 2024) -> Toyota Verblitz (2024 - ) -> Racing 92 (2025 - )
+Sydney Roosters (2015 - 2024) -> Toyota Verblitz (2024 - 2025) -> Racing 92 (2025 - )

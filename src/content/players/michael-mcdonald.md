@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/michael-mcdonald"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney (2018 - 2019) -> New South Wales Waratahs (2019 - ) -> Western Force (2020 - 2022) -> Ulster Rugby (2022 - ) -> Connacht Rugby (2023)
+Sydney (2018 - 2019) -> New South Wales Waratahs (2019 - ) -> Western Force (2020 - 2022) -> Ulster Rugby (2022 - 2025) -> Connacht Rugby (2023 - )

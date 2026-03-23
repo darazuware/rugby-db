@@ -16,7 +16,8 @@ caps: "U20('07)、日本代表(35)"
 high_school: "青森工業高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484377"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2011 - ) -> サンウルブズ (2015)
+東芝ブレイブルーパス東京 (2011 - ) -> サンウルブズ (2015 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alessandro-ortombina"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-valorugby emilia (2021 - 2023) -> union sportive arlequins perpignanais (2023 - ) -> zebre parma (2025 - )
+valorugby emilia (2021 - 2023) -> union sportive arlequins perpignanais (2023 - 2025) -> zebre parma (2025 - )

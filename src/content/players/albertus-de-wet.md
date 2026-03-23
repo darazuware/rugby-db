@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/albertus-de-wet"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-stormers (2017 - ) -> bulls (2025 - )
+stormers (2017 - 2025) -> bulls (2025 - )

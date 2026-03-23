@@ -16,7 +16,8 @@ caps: ""
 high_school: "中部大春日丘高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484506"
+league_one_caps: "52"
 ---
 
 ## キャリア遍歴
-日本製鉄釜石シーウェイブス (2021)
+日本製鉄釜石シーウェイブス (2021 - )

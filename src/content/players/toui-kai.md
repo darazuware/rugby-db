@@ -16,7 +16,8 @@ caps: "高校('18)"
 high_school: "石見智翠館高校"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/483746"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2023)
+クボタスピアーズ船橋・東京ベイ (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "新田高校"
 university: "立正大学"
 scraped_url: "https://league-one.jp/player/484114"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-宗像サニックスブルース (2021 - 2022) -> 狭山セコムラガッツ (2024)
+宗像サニックスブルース (2021 - 2022) -> 狭山セコムラガッツ (2024 - )

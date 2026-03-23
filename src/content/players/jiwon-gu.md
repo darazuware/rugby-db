@@ -16,6 +16,7 @@ caps: "高校('12)、日本代表(29)"
 high_school: "日本文理大学附属高校"
 university: "拓殖大学"
 scraped_url: "https://league-one.jp/player/483964"
+league_one_caps: "44"
 ---
 
 ## キャリア遍歴

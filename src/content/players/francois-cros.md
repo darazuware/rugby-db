@@ -16,6 +16,7 @@ caps: "France (34)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/francois-cros"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

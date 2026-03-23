@@ -16,7 +16,8 @@ caps: "France (27)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-woki"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-AC Bobigny 93 (2008 - 2012) -> Rugby Club Massy Essonne (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2022) -> Racing 92 (2022 - ) -> Union Bordeaux-Bègles (2025 - )
+AC Bobigny 93 (2008 - 2012) -> Rugby Club Massy Essonne (2012 - 2017) -> Union Bordeaux-Bègles (2017 - 2022) -> Racing 92 (2022 - 2025) -> Union Bordeaux-Bègles (2025 - )

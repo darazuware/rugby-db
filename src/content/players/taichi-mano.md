@@ -16,7 +16,8 @@ caps: "U20('16,'17)、U23('17,'18)"
 high_school: "東海大大阪仰星高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484364"
+league_one_caps: "39"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

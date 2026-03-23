@@ -16,7 +16,8 @@ caps: ""
 high_school: "目黒学院高校"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/484828"
+league_one_caps: "53"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2021)
+横浜キヤノンイーグルス (2021 - )

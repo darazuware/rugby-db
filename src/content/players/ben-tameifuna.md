@@ -16,6 +16,7 @@ caps: "Tonga (29)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-tameifuna"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

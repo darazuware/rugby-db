@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/malachi-wrampling-alec"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - ) -> Chiefs (2024 - ) -> Blues (2025 - )
+Waikato Mooloos (2022 - 2025) -> Chiefs (2024 - 2025) -> Blues (2025 - )

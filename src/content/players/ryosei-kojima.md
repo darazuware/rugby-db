@@ -16,7 +16,8 @@ caps: ""
 high_school: "秋田工業高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484995"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2023)
+NTTドコモレッドハリケーンズ大阪 (2023 - )

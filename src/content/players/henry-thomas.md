@@ -16,6 +16,7 @@ caps: "Wales (4)"
 high_school: ""
 university: ""
 scraped_url: "sale sharks (2013 - 2014) -> bath rugby (2014 - 2021) -> montpellier hérault rugby (2021 - 2023) -> castres olympique (2023 - 2023) -> montpellier hérault rugby (2024 - 2024) -> castres olympique (2024 - 2024) -> scarlets (2024 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ioane-moananu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2021 - ) -> Crusaders (2022 - ) -> New South Wales Waratahs (2025 - )
+Counties Manukau Steelers (2021 - 2025) -> Crusaders (2022 - 2025) -> New South Wales Waratahs (2025 - )

@@ -16,6 +16,7 @@ caps: "Ireland (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-boyle"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

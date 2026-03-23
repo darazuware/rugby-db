@@ -16,7 +16,8 @@ caps: "U23('17)、日本代表(2)"
 high_school: "東海大仰星高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484880"
+league_one_caps: "58"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

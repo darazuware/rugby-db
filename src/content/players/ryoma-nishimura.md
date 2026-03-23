@@ -16,7 +16,8 @@ caps: ""
 high_school: "高鍋高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484685"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴
-Coca Cola West Red Sparks (2018 - 2021) -> トヨタヴェルブリッツ (2021 - 2024) -> Mie Honda Heat RFC (2024)
+Coca Cola West Red Sparks (2018 - 2021) -> トヨタヴェルブリッツ (2021 - 2024) -> Mie Honda Heat RFC (2024 - )

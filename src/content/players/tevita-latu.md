@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tevita-latu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southland Stags (2019 - 2023) -> Northland Taniwha (2023 - 2024) -> Canterbury (2024 - ) -> Moana Pasifika (2025 - )
+Southland Stags (2019 - 2023) -> Northland Taniwha (2023 - 2024) -> Canterbury (2024 - 2025) -> Moana Pasifika (2025 - )

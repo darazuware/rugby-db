@@ -16,7 +16,8 @@ caps: ""
 high_school: "本郷高校"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/485017"
+league_one_caps: "41"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021 - 2023) -> NTTドコモレッドハリケーンズ大阪 (2023)
+NECグリーンロケッツ東葛 (2021 - 2023) -> NTTドコモレッドハリケーンズ大阪 (2023 - )

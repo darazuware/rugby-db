@@ -16,6 +16,7 @@ caps: "Wales (52)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aaron-wainwright"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

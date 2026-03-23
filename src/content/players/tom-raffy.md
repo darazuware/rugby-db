@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-raffy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Saint-Céré (2009 - 2018) -> CA Brive Corrèze Limousin (2018 - ) -> ASM Clermont Auvergne (2025 - )
+Saint-Céré (2009 - 2018) -> CA Brive Corrèze Limousin (2018 - 2025) -> ASM Clermont Auvergne (2025 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: "ロトルアボーイズハイスクール"
 university: "花園大学"
 scraped_url: "https://league-one.jp/player/484663"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴

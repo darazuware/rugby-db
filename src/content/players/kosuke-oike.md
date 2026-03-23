@@ -16,7 +16,8 @@ caps: ""
 high_school: "日向高校"
 university: "関西大学"
 scraped_url: "https://league-one.jp/player/483727"
+league_one_caps: "39"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2016 - 2019) -> Munakata Sanix Blues (2019 - 2020) -> コベルコ神戸スティーラーズ (2020 - 2022) -> Toyota Industries Shuttles Aichi (2022 - 2023) -> Kyushu Kyuden Voltex (2023)
+Hanazono Kintetsu Liners (2016 - 2019) -> Munakata Sanix Blues (2019 - 2020) -> コベルコ神戸スティーラーズ (2020 - 2022) -> Toyota Industries Shuttles Aichi (2022 - 2023) -> Kyushu Kyuden Voltex (2023 - )

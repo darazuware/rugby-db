@@ -16,7 +16,8 @@ caps: ""
 high_school: "鹿児島工業高校"
 university: "福岡工業大学"
 scraped_url: "https://league-one.jp/player/484929"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-福岡工業大学 (2024 - ) -> ルリーロ福岡 (2025 - )
+福岡工業大学 (2024 - 2025) -> ルリーロ福岡 (2025 - )

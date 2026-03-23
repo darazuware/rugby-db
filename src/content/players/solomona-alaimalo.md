@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/solomona-alaimalo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - 2023) -> Highlanders (2020 - 2022) -> Southland Stags (2020 - 2022) -> Canterbury (2022 - 2023) -> Wests Tigers (2023 - 2024) -> Northland Taniwha (2024 - ) -> Moana Pasifika (2024)
+Chiefs (2016 - 2023) -> Highlanders (2020 - 2022) -> Southland Stags (2020 - 2022) -> Canterbury (2022 - 2023) -> Wests Tigers (2023 - 2024) -> Northland Taniwha (2024 - 2025) -> Moana Pasifika (2024 - )

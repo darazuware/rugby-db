@@ -16,6 +16,7 @@ caps: "NZ代表(56)"
 high_school: "RiccartonHighSchool"
 university: "St.Andrew'sCollege"
 scraped_url: "https://league-one.jp/player/484382"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴

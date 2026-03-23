@@ -16,6 +16,7 @@ caps: "England (54)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mako-vunipola"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

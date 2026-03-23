@@ -16,6 +16,7 @@ caps: "France (52)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cyril-baille"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

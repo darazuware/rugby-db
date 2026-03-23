@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/raymond-tuputupu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2019 - ) -> Hurricanes (2020)
+Manawatu Turbos (2019 - 2025) -> Hurricanes (2020 - )

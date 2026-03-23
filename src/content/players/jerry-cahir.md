@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jerry-cahir"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-old belvedere rc (2021 - 2022) -> dublin university fc (2022 - 2024) -> lansdowne fc (2024 - ) -> leinster rugby (2025 - )
+old belvedere rc (2021 - 2022) -> dublin university fc (2022 - 2024) -> lansdowne fc (2024 - 2025) -> leinster rugby (2025 - )

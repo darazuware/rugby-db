@@ -16,7 +16,8 @@ caps: ""
 high_school: "光泉カトリック高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484588"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2022)
+日野レッドドルフィンズ (2022 - )

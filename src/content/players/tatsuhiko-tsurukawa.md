@@ -16,7 +16,8 @@ caps: "U23('19)"
 high_school: "桐蔭学園中等教育学校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484705"
+league_one_caps: "70"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2021)
+三重ホンダヒート (2021 - )

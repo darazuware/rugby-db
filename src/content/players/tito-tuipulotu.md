@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tito-tuipulotu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2022 - 2024) -> Moana Pasifika (2024)
+Auckland (2022 - 2024) -> Moana Pasifika (2024 - )

@@ -16,7 +16,8 @@ caps: "高校('13)"
 high_school: "桐蔭学園高校"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/483512"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2023)
+浦安D-Rocks (2023 - )

@@ -16,6 +16,7 @@ caps: "Scotland (74)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/grant-gilchrist"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

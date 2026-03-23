@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ruan-ackermann"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-lions rugby (2015 - 2017) -> gloucester rugby (2017 - ) -> stormers (2025 - )
+lions rugby (2015 - 2017) -> gloucester rugby (2017 - 2025) -> stormers (2025 - )

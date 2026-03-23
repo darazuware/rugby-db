@@ -16,6 +16,7 @@ caps: "France (36)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/maxime-machenaud"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

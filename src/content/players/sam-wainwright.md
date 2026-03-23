@@ -16,7 +16,8 @@ caps: ""
 high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/sam-wainwright"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-rgc 1404 (2018 - 2019) -> saracens (2019 - 2023) -> scarlets (2022 - ) -> cardiff rugby (2025 - )
+rgc 1404 (2018 - 2019) -> saracens (2019 - 2023) -> scarlets (2022 - 2025) -> cardiff rugby (2025 - )

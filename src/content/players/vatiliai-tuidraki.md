@@ -16,7 +16,8 @@ caps: ""
 high_school: "ワントゥリーヒル"
 university: ""
 scraped_url: "https://league-one.jp/player/485517"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2021)
+トヨタヴェルブリッツ (2021 - )

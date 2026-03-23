@@ -16,6 +16,7 @@ caps: "Ireland (65)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/bundee-aki"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/david-walsh"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Dublin University FC (2024 - ) -> Connacht Rugby (2025 - )
+Dublin University FC (2024 - 2025) -> Connacht Rugby (2025 - )

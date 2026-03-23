@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-lynagh"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Harlequins (2019 - 2021) -> Queensland Reds (2021)
+Harlequins (2019 - 2021) -> Queensland Reds (2021 - )

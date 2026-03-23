@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "生田高校"
 university: "成蹊大学"
 scraped_url: "https://league-one.jp/player/484738"
+league_one_caps: "53"
 ---
 
 ## キャリア遍歴
-Hanazono Kintetsu Liners (2018 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021)
+Hanazono Kintetsu Liners (2018 - 2021) -> Mitsubishi Sagamihara Dynaboars (2021 - )

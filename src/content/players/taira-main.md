@@ -16,7 +16,8 @@ caps: "高校('18)、XV('25)、日本代表(1)"
 high_school: "御所実業高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484885"
+league_one_caps: "44"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

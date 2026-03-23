@@ -16,6 +16,7 @@ caps: "England (53)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/manu-tuilagi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

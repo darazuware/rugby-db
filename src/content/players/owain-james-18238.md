@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/owain-james-18238"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

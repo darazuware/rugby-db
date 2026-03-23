@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/taine-kolose"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2022 - ) -> Chiefs (2025 - )
+Bay of Plenty Steamers (2022 - 2025) -> Chiefs (2025 - )

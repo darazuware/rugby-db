@@ -16,6 +16,7 @@ caps: "Squad caps (835)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paul-boudehent"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mfundo-ndhlovu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-af. sud 7's (2017 - ) -> stormers (2025 - )
+af. sud 7's (2017 - 2025) -> stormers (2025 - )

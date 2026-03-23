@@ -16,6 +16,7 @@ caps: "Tonga (8)"
 high_school: ""
 university: ""
 scraped_url: "highlanders (2013 - 2017) -> rugby club toulonnais (2017 - 2019) -> wasps (2019 - 2022) -> munster rugby (2022 - 2023) -> benetton rugby trévise (2023 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "XV('24,'25)、日本代表(9)"
 high_school: "桐蔭学園高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484033"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: ""
 high_school: "へスティングボーイズ高高校"
 university: "マッセイ大学"
 scraped_url: "https://league-one.jp/player/484770"
+league_one_caps: "42"
 ---
 
 ## キャリア遍歴

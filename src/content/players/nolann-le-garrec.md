@@ -16,7 +16,8 @@ caps: "France (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nolann-le-garrec"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Club Vannes (2009 - 2017) -> Racing 92 (2017 - ) -> Stade Rochelais (2025 - )
+Rugby Club Vannes (2009 - 2017) -> Racing 92 (2017 - 2025) -> Stade Rochelais (2025 - )

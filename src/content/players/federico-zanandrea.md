@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/federico-zanandrea"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2023 - ) -> benetton rugby trévise (2024 - )
+mogliano veneto rugby (2023 - 2025) -> benetton rugby trévise (2024 - )

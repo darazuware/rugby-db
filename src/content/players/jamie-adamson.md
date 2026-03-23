@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jamie-adamson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Angleterre 7's (2019 - 2023) -> Easts Rugby Union Club (2023 - 2024) -> New South Wales Waratahs (2024)
+Angleterre 7's (2019 - 2023) -> Easts Rugby Union Club (2023 - 2024) -> New South Wales Waratahs (2024 - )

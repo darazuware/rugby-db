@@ -16,7 +16,8 @@ caps: "France (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gaetan-barlot"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2006 - 2014) -> US Colomiers (2015 - 2020) -> Castres Olympique (2020 - ) -> Union Bordeaux-Bègles (2025 - )
+ASM Clermont Auvergne (2006 - 2014) -> US Colomiers (2015 - 2020) -> Castres Olympique (2020 - 2025) -> Union Bordeaux-Bègles (2025 - )

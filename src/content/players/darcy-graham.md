@@ -16,6 +16,7 @@ caps: "Scotland (42)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/darcy-graham"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

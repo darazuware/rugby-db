@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/israel-leota"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brisbane Broncos (2024 - ) -> Moana Pasifika (2025 - )
+Brisbane Broncos (2024 - 2025) -> Moana Pasifika (2025 - )

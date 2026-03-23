@@ -16,7 +16,8 @@ caps: ""
 high_school: "大泉高校"
 university: "立教大学"
 scraped_url: "https://league-one.jp/player/484508"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-Green Rockets Tokatsu (2014 - 2019) -> Kamaishi Seawaves (2019)
+Green Rockets Tokatsu (2014 - 2019) -> Kamaishi Seawaves (2019 - )

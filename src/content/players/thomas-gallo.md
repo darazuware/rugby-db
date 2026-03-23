@@ -16,6 +16,7 @@ caps: "Argentina (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thomas-gallo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

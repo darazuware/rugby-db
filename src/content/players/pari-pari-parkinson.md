@@ -16,7 +16,8 @@ caps: ""
 high_school: "SaintKentigernCollage"
 university: ""
 scraped_url: "https://league-one.jp/player/483550"
+league_one_caps: "17"
 ---
 
 ## キャリア遍歴
-ハイランダーズ (2017 - 2024) -> タスマン (2020 - 2023) -> sans club (2021 - 2022) -> NECグリーンロケッツ東葛 (2024)
+ハイランダーズ (2017 - 2024) -> タスマン (2020 - 2023) -> sans club (2021 - 2022) -> NECグリーンロケッツ東葛 (2024 - )

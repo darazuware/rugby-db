@@ -16,7 +16,8 @@ caps: "U23('17)"
 high_school: "東福岡高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483959"
+league_one_caps: "49"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021)
+コベルコ神戸スティーラーズ (2021 - )

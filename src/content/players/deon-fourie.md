@@ -16,6 +16,7 @@ caps: "South Africa (7)"
 high_school: ""
 university: ""
 scraped_url: "stormers (2008 - 2014) -> lyon olympique universitaire rugby (2014 - 2019) -> fc grenoble rugby (2019 - 2021) -> stormers (2021 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

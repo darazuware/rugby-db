@@ -16,7 +16,8 @@ caps: "U23('13)、セブンズ日本(1)、日本代表(6)"
 high_school: "石見智翠館高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484371"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴
-Toshiba Brave Lupus Tokyo (2015)
+Toshiba Brave Lupus Tokyo (2015 - )

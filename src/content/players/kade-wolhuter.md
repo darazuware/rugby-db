@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kade-wolhuter"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-paul roos gymnasium (2018 - 2019) -> montpellier hérault rugby (2019 - 2020) -> stormers (2020 - 2023) -> western province (2021 - 2022) -> lions rugby (2023 - ) -> bulls (2025 - )
+paul roos gymnasium (2018 - 2019) -> montpellier hérault rugby (2019 - 2020) -> stormers (2020 - 2023) -> western province (2021 - 2022) -> lions rugby (2023 - 2025) -> bulls (2025 - )

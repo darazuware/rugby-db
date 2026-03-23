@@ -16,6 +16,7 @@ caps: ""
 high_school: "New Zealand"
 university: ""
 scraped_url: "https://all.rugby/player/taine-plumtree"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

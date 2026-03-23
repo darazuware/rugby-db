@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/etene-nanai-seturo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2018 - ) -> Counties Manukau Steelers (2019)
+Chiefs (2018 - ) -> Counties Manukau Steelers (2019 - )

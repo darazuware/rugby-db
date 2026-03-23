@@ -16,7 +16,8 @@ caps: "セブンズ日本(14)"
 high_school: "岡谷工業高校"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/484777"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021 - 2022) -> ヤクルトレビンズ戸田 (2024)
+NECグリーンロケッツ東葛 (2021 - 2022) -> ヤクルトレビンズ戸田 (2024 - )

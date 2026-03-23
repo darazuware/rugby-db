@@ -16,6 +16,7 @@ caps: "Call-ups (30)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/charlie-ewels"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

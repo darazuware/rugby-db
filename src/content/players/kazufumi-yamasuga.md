@@ -16,7 +16,8 @@ caps: "U20('17)"
 high_school: "東京高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484833"
+league_one_caps: "44"
 ---
 
 ## キャリア遍歴
-Kurita Water Gush Akishima (2020 - 2021) -> Yokohama Canon Eagles (2021)
+Kurita Water Gush Akishima (2020 - 2021) -> Yokohama Canon Eagles (2021 - )

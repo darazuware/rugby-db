@@ -16,7 +16,8 @@ caps: "U20('19)、U23('19,'20)、日本代表(2)"
 high_school: "関西大倉高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/483750"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2021)
+クボタスピアーズ船橋・東京ベイ (2021 - )

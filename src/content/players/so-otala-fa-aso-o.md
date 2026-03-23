@@ -16,7 +16,8 @@ caps: "Samoa (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/so-otala-fa-aso-o"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2015 - 2016) -> Racing 92 (2016 - 2018) -> CA Brive Corrèze Limousin (2018 - 2022) -> London Irish (2022 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - ) -> Benetton Rugby Trévise (2025 - )
+Counties Manukau Steelers (2015 - 2016) -> Racing 92 (2016 - 2018) -> CA Brive Corrèze Limousin (2018 - 2022) -> London Irish (2022 - 2023) -> Union Sportive Arlequins Perpignanais (2023 - 2025) -> Benetton Rugby Trévise (2025 - )

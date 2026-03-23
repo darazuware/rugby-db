@@ -16,7 +16,8 @@ caps: "Australia (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/carter-gordon"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Country (2018 - 2019) -> Queensland Reds (2019 - ) -> Melbourne Rebels (2020 - 2024) -> Gold Coast Titans (2024)
+Queensland Country (2018 - 2019) -> Queensland Reds (2019 - ) -> Melbourne Rebels (2020 - 2024) -> Gold Coast Titans (2024 - )

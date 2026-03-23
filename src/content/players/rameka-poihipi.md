@@ -16,7 +16,8 @@ caps: ""
 high_school: "HamiltonBoys'HighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484858"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-カンタベリー (2018 - 2024) -> チーフス (2020 - ) -> リコーブラックラムズ東京 (2025 - )
+カンタベリー (2018 - 2024) -> チーフス (2020 - 2025) -> リコーブラックラムズ東京 (2025 - )

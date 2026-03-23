@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rory-scott"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2019)
+Brumbies (2019 - )

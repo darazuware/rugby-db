@@ -16,7 +16,8 @@ caps: "U20('17)、U23('17,'18)"
 high_school: "國學院栃木高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484889"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

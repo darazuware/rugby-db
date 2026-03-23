@@ -16,7 +16,8 @@ caps: "高校('17)、U20('17,'18,'19)、U23('19)、日本代表(3)"
 high_school: "東福岡高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484052"
+league_one_caps: "51"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2018)
+埼玉パナソニックワイルドナイツ (2018 - )

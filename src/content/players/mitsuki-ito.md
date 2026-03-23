@@ -16,6 +16,7 @@ caps: ""
 high_school: "桐蔭学園高校"
 university: "立教大学"
 scraped_url: "https://league-one.jp/player/484768"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

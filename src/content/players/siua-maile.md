@@ -16,6 +16,7 @@ caps: "Tonga (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/siua-maile"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

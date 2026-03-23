@@ -16,7 +16,8 @@ caps: ""
 high_school: "KelstonBoysHighSchool"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484830"
+league_one_caps: "59"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2021)
+横浜キヤノンイーグルス (2021 - )

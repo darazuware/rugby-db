@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aitzol-king"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Leinster Rugby (2021 - ) -> Ulster Rugby (2025 - )
+Leinster Rugby (2021 - 2025) -> Ulster Rugby (2025 - )

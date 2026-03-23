@@ -16,6 +16,7 @@ caps: ""
 high_school: "ティマルボーイズ"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484891"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴

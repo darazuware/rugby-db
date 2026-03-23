@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/chris-apoua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Northland Taniwha (2015 - ) -> Southland Stags (2017 - 2021) -> Moana Pasifika (2021)
+Northland Taniwha (2015 - 2025) -> Southland Stags (2017 - 2021) -> Moana Pasifika (2021 - )

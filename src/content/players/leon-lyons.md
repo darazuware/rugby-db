@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/leon-lyons"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-western province (2018 - 2019) -> stormers (2019 - ) -> lions rugby (2025 - )
+western province (2018 - 2019) -> stormers (2019 - 2025) -> lions rugby (2025 - )

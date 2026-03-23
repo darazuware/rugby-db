@@ -16,7 +16,8 @@ caps: ""
 high_school: "目黒学院高校"
 university: "福岡工業大学"
 scraped_url: "https://league-one.jp/player/483479"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-福岡工業大学 (2021 - 2024) -> 浦安D-Rocks (2024)
+福岡工業大学 (2021 - 2024) -> 浦安D-Rocks (2024 - )

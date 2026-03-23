@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josh-timu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2016 - ) -> Sunwolves (2018 - 2019) -> Highlanders (2021 - 2024) -> Hurricanes (2025 - )
+Otago (2016 - 2025) -> Sunwolves (2018 - 2019) -> Highlanders (2021 - 2024) -> Hurricanes (2025 - )

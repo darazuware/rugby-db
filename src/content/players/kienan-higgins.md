@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kienan-higgins"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-hawke's bay magpies (2020 - ) -> edimbourg rugby (2025 - )
+hawke's bay magpies (2020 - 2025) -> edimbourg rugby (2025 - )

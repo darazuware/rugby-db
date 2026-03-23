@@ -16,6 +16,7 @@ caps: "Italy (31)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/pietro-ceccarelli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

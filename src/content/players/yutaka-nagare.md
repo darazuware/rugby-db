@@ -16,7 +16,8 @@ caps: "日本代表(36)"
 high_school: "荒尾高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484327"
+league_one_caps: "70"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2017 - 2019) -> 東京サントリーサンゴリアス (2018)
+サンウルブズ (2017 - 2019) -> 東京サントリーサンゴリアス (2018 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/phiko-sobahle"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - ) -> Sharks (2025 - )
+Natal Sharks (2024 - 2025) -> Sharks (2025 - )

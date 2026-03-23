@@ -16,7 +16,8 @@ caps: ""
 high_school: "BeechenCliffSchool"
 university: "HartpuryCollege"
 scraped_url: "https://league-one.jp/player/484203"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-グロスター (2013 - 2018) -> アルスター (2018 - 2024) -> マンスター (2024 - ) -> 清水建設江東ブルーシャークス (2025 - )
+グロスター (2013 - 2018) -> アルスター (2018 - 2024) -> マンスター (2024 - 2025) -> 清水建設江東ブルーシャークス (2025 - )

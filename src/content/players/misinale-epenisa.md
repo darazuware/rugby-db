@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/misinale-epenisa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2023 - ) -> Western Force (2025 - )
+Manawatu Turbos (2023 - 2025) -> Western Force (2025 - )

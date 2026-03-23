@@ -16,7 +16,8 @@ caps: ""
 high_school: "西陵高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484693"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2022)
+三重ホンダヒート (2022 - )

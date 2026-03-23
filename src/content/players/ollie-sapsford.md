@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ollie-sapsford"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2018 - 2023) -> Brumbies (2021)
+Hawke's Bay Magpies (2018 - 2023) -> Brumbies (2021 - )

@@ -16,6 +16,7 @@ caps: "South Africa (87)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/willie-le-roux"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

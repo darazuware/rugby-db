@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-whitcombe"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leicester tigers (2017 - ) -> edimbourg rugby (2025 - )
+leicester tigers (2017 - 2025) -> edimbourg rugby (2025 - )

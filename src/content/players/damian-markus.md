@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/damian-markus"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stellenberg High School (2020 - 2021) -> Stade Rochelais (2021 - 2022) -> Western Province (2022 - 2024) -> Shizuoka Blue Revs (2024 - ) -> Stormers (2025 - )
+Stellenberg High School (2020 - 2021) -> Stade Rochelais (2021 - 2022) -> Western Province (2022 - 2024) -> Shizuoka Blue Revs (2024 - 2025) -> Stormers (2025 - )

@@ -16,7 +16,8 @@ caps: "New Zealand (26)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dalton-papali-i"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2017 - ) -> Counties Manukau Steelers (2019)
+Blues (2017 - ) -> Counties Manukau Steelers (2019 - )

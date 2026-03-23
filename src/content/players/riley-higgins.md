@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/riley-higgins"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Wellington Lions (2021 - 2024) -> Hurricanes (2021)
+Wellington Lions (2021 - 2024) -> Hurricanes (2021 - )

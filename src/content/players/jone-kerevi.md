@@ -16,7 +16,8 @@ caps: ""
 high_school: "天理大学高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484448"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2024 - ) -> トヨタヴェルブリッツ (2025 - )
+豊田自動織機シャトルズ愛知 (2024 - 2025) -> トヨタヴェルブリッツ (2025 - )

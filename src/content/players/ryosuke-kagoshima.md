@@ -16,7 +16,8 @@ caps: ""
 high_school: "輝翔館中等教育高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483718"
+league_one_caps: "13"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2021)
+九州電力キューデンヴォルテクス (2021 - )

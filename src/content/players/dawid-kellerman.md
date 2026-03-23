@@ -12,11 +12,12 @@ country: ""
 birth_place_scraped: ""
 league: "league-one"
 team: "三重ホンダヒート（2025-26）"
-caps: ""
+caps: "SA U19"
 high_school: "PaarlGimnasium"
 university: ""
 scraped_url: "https://league-one.jp/player/484695"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-ブルズ (2019 - 2021) -> 三重ホンダヒート (2021)
+ブルズ (2019 - 2021) -> 三重ホンダヒート (2021 - )

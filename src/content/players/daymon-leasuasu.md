@@ -16,7 +16,8 @@ caps: ""
 high_school: "AorereCollege"
 university: "オークランド大学"
 scraped_url: "https://league-one.jp/player/483798"
+league_one_caps: "28"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2019 - 2022) -> WG昭島 (2022)
+リコーブラックラムズ東京 (2019 - 2022) -> WG昭島 (2022 - )

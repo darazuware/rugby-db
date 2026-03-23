@@ -16,7 +16,8 @@ caps: ""
 high_school: "ケルストンボーイズ"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484678"
+league_one_caps: "53"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2021 - 2024) -> 三重ホンダヒート (2024)
+豊田自動織機シャトルズ愛知 (2021 - 2024) -> 三重ホンダヒート (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "名護高校"
 university: "朝日大学"
 scraped_url: "https://league-one.jp/player/483720"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2021)
+九州電力キューデンヴォルテクス (2021 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: "ブリスベンステート"
 university: "アイオナ大学"
 scraped_url: "https://league-one.jp/player/484287"
+league_one_caps: "42"
 ---
 
 ## キャリア遍歴

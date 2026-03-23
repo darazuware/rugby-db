@@ -16,7 +16,8 @@ caps: ""
 high_school: "目黒学院高校"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/483500"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2023)
+浦安D-Rocks (2023 - )

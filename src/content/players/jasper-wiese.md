@@ -16,7 +16,8 @@ caps: "South Africa (23)"
 high_school: "ウェルスクールアッピントン"
 university: "テクノロジー中央大学"
 scraped_url: "https://league-one.jp/player/483487"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-チーターズ (2017 - 2020) -> レスター・タイガース (2020 - 2024) -> 浦安D-Rocks (2024)
+チーターズ (2017 - 2020) -> レスター・タイガース (2020 - 2024) -> 浦安D-Rocks (2024 - )

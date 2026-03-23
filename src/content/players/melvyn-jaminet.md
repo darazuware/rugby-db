@@ -16,6 +16,7 @@ caps: "France (19)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/melvyn-jaminet"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

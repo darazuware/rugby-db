@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dylan-sjoblom"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-griquas (2022 - ) -> stormers (2023 - 2024) -> lions rugby (2025 - )
+griquas (2022 - 2025) -> stormers (2023 - 2024) -> lions rugby (2025 - )

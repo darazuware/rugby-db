@@ -16,7 +16,8 @@ caps: "Argentina (47)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/facundo-isa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Club Toulonnais (2013 - 2014) -> Pampas XV (2014 - 2015) -> Jaguares (2015 - 2017) -> Lyon Olympique Universitaire Rugby (2016 - 2017) -> Rugby Club Toulonnais (2017 - ) -> Section Paloise Béarn Pyrénées (2025 - )
+Rugby Club Toulonnais (2013 - 2014) -> Pampas XV (2014 - 2015) -> Jaguares (2015 - 2017) -> Lyon Olympique Universitaire Rugby (2016 - 2017) -> Rugby Club Toulonnais (2017 - 2025) -> Section Paloise Béarn Pyrénées (2025 - )

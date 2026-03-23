@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/kyle-brown"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2022 - ) -> Utah Warriors (2024 - ) -> Chiefs (2025 - )
+Manawatu Turbos (2022 - 2025) -> Utah Warriors (2024 - 2025) -> Chiefs (2025 - )

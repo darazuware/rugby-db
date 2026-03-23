@@ -16,7 +16,8 @@ caps: ""
 high_school: "日川高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484903"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2023) -> リコーブラックラムズ東京 (2023)
+東芝ブレイブルーパス東京 (2021 - 2023) -> リコーブラックラムズ東京 (2023 - )

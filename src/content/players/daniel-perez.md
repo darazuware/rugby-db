@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントピーターズ"
 university: "白鴎大学"
 scraped_url: "https://league-one.jp/player/484043"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2021)
+埼玉パナソニックワイルドナイツ (2021 - )

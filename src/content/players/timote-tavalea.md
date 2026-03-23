@@ -16,7 +16,8 @@ caps: ""
 high_school: "JohnPaulCollage"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/483533"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2022 - ) -> NECグリーンロケッツ東葛 (2025 - )
+三菱重工相模原ダイナボアーズ (2022 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

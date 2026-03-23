@@ -16,7 +16,8 @@ caps: ""
 high_school: "千種高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/483553"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021)
+NECグリーンロケッツ東葛 (2021 - )

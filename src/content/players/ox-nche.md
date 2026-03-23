@@ -16,6 +16,7 @@ caps: "South Africa (21)"
 high_school: ""
 university: ""
 scraped_url: "central cheetahs (2015 - 2019) -> sharks (2019 - 2019) -> central cheetahs (2020 - 2020) -> sharks (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

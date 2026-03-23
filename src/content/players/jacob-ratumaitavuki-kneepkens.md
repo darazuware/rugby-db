@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jacob-ratumaitavuki-kneepkens"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2019 - ) -> Blues (2020 - 2023) -> Highlanders (2023)
+Taranaki Bulls (2019 - 2025) -> Blues (2020 - 2023) -> Highlanders (2023 - )

@@ -16,7 +16,8 @@ caps: "Australia (16)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lukhan-lealaiaulolo-tui"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2015 - ) -> Northampton Saints (2022 - 2023) -> Melbourne Rebels (2023)
+Queensland Reds (2015 - ) -> Northampton Saints (2022 - 2023) -> Melbourne Rebels (2023 - )

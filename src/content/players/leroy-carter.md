@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/leroy-carter"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2018 - ) -> Chiefs (2019)
+Bay of Plenty Steamers (2018 - 2025) -> Chiefs (2019 - )

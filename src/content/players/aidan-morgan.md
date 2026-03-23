@@ -16,7 +16,8 @@ caps: ""
 high_school: "キングスカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484449"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-ウェリントン・ライオンズ (2020 - 2024) -> Hurricanes (2022 - 2024) -> Ulster Rugby (2024 - ) -> トヨタヴェルブリッツ (2025 - )
+ウェリントン・ライオンズ (2020 - 2024) -> Hurricanes (2022 - 2024) -> Ulster Rugby (2024 - 2025) -> トヨタヴェルブリッツ (2025 - )

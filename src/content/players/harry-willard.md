@@ -16,6 +16,7 @@ caps: ""
 high_school: "ウッドハウス・グローブ・スクール"
 university: "ダラム大学"
 scraped_url: "https://league-one.jp/player/488107"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

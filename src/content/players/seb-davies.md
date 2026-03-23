@@ -16,7 +16,8 @@ caps: "Call-ups (16)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/seb-davies"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Cardiff Rugby (2016 - ) -> Dragons RFC (2025 - )
+Cardiff Rugby (2016 - 2025) -> Dragons RFC (2025 - )

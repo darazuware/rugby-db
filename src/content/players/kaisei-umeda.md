@@ -16,7 +16,8 @@ caps: ""
 high_school: "秋田工業高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483484"
+league_one_caps: "12"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2024)
+浦安D-Rocks (2024 - )

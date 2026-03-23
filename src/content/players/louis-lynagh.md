@@ -16,6 +16,7 @@ caps: ""
 high_school: "Australia"
 university: ""
 scraped_url: "https://all.rugby/player/louis-lynagh"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

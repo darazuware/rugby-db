@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nelson-casartelli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-benetton rugby trévise (2023 - ) -> paese rugby (2024 - )
+benetton rugby trévise (2023 - ) -> paese rugby (2024 - 2025)

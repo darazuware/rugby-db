@@ -16,6 +16,7 @@ caps: "England (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fin-smith"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

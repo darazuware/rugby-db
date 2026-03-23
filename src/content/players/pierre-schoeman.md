@@ -16,6 +16,7 @@ caps: "Scotland (37)"
 high_school: ""
 university: ""
 scraped_url: "bulls (2015 - 2018) -> edimbourg rugby (2018 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

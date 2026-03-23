@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-bower"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2018 - ) -> Otago (2019)
+Crusaders (2018 - ) -> Otago (2019 - )

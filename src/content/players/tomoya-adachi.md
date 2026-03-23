@@ -16,6 +16,7 @@ caps: ""
 high_school: "クリフトンカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484856"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

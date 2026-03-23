@@ -16,6 +16,7 @@ caps: "Italy (12)"
 high_school: ""
 university: ""
 scraped_url: "rugby calvisano (2019 - 2019) -> zebre parma (2019 - 2019) -> rugby calvisano (2020 - 2020) -> zebre parma (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

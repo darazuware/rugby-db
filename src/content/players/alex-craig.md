@@ -16,7 +16,8 @@ caps: "Call-ups (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-craig"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - ) -> Glasgow Warriors (2025 - )
+Gloucester Rugby (2018 - 2023) -> Scarlets (2023 - 2025) -> Glasgow Warriors (2025 - )

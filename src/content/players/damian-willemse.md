@@ -16,6 +16,7 @@ caps: "South Africa (33)"
 high_school: ""
 university: ""
 scraped_url: "stormers (2016 - 2019) -> saracens (2019 - 2019) -> stormers (2019 - 2019) -> saracens (2020 - 2020) -> stormers (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

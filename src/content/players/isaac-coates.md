@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/isaac-coates"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

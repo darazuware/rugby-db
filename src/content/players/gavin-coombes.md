@@ -16,6 +16,7 @@ caps: "Call-ups (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gavin-coombes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

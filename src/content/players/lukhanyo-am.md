@@ -16,6 +16,7 @@ caps: "South Africa (35)"
 high_school: "デ・フォース・ラマン"
 university: ""
 scraped_url: "https://league-one.jp/player/483290"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴

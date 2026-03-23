@@ -16,7 +16,8 @@ caps: "セブンズ日本(24)"
 high_school: "正智深谷高校"
 university: "立正大学"
 scraped_url: "https://league-one.jp/player/484996"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2021)
+NTTドコモレッドハリケーンズ大阪 (2021 - )

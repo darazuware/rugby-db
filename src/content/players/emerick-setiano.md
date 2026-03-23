@@ -16,7 +16,8 @@ caps: "France (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/emerick-setiano"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-SCO RC Angers (2002 - 2011) -> Pôle Espoirs de Tours (2011 - 2014) -> Rugby Club Toulonnais (2014 - ) -> Aviron Bayonnais (2025 - )
+SCO RC Angers (2002 - 2011) -> Pôle Espoirs de Tours (2011 - 2014) -> Rugby Club Toulonnais (2014 - 2025) -> Aviron Bayonnais (2025 - )

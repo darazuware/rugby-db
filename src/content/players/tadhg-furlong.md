@@ -16,6 +16,7 @@ caps: "Squad caps (1066)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tadhg-furlong"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

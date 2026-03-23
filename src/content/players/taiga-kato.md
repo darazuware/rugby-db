@@ -16,7 +16,8 @@ caps: ""
 high_school: "WestlakeBoysHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484157"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2024)
+静岡ブルーレヴズ (2024 - )

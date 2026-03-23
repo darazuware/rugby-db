@@ -16,7 +16,8 @@ caps: "France (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thomas-laclayat"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC Haute Bresse (2012 - 2014) -> Oyonnax Rugby (2013 - 2023) -> Racing 92 (2023 - ) -> Section Paloise Béarn Pyrénées (2025 - )
+RC Haute Bresse (2012 - 2014) -> Oyonnax Rugby (2013 - 2023) -> Racing 92 (2023 - 2025) -> Section Paloise Béarn Pyrénées (2025 - )

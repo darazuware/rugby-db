@@ -16,7 +16,8 @@ caps: "高校('18)、U20('19)"
 high_school: "石見智翠館高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483494"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2023)
+浦安D-Rocks (2023 - )

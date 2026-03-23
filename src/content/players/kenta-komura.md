@@ -16,7 +16,8 @@ caps: ""
 high_school: "ハミルトンボーイズ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484984"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2022)
+Red Hurricanes Osaka (2022 - )

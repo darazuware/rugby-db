@@ -16,7 +16,8 @@ caps: "Tonga (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-moli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2016 - ) -> Moana Pasifika (2021)
+Tasman Mako (2016 - 2025) -> Moana Pasifika (2021 - )

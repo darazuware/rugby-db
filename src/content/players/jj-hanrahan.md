@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jj-hanrahan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-munster rugby (2013 - 2015) -> northampton saints (2015 - 2017) -> munster rugby (2017 - 2021) -> asm clermont auvergne (2021 - 2022) -> dragons rfc (2022 - 2023) -> connacht rugby (2023 - ) -> munster rugby (2025 - )
+munster rugby (2013 - 2015) -> northampton saints (2015 - 2017) -> munster rugby (2017 - 2021) -> asm clermont auvergne (2021 - 2022) -> dragons rfc (2022 - 2023) -> connacht rugby (2023 - 2025) -> munster rugby (2025 - )

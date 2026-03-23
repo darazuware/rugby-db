@@ -16,7 +16,8 @@ caps: "U20('18)、U23('18,'19,'20)、日本代表(19)"
 high_school: "日本航空高校石川"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/485500"
+league_one_caps: "80"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2020)
+クボタスピアーズ船橋・東京ベイ (2020 - )

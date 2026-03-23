@@ -16,6 +16,7 @@ caps: "South Africa (63)"
 high_school: ""
 university: ""
 scraped_url: "stormers (2011 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

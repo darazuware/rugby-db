@@ -16,7 +16,8 @@ caps: "高校('17)、U20('19)、U23('20)"
 high_school: "東海大仰星高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484316"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-Tokyo Sungoliath (2022)
+Tokyo Sungoliath (2022 - )

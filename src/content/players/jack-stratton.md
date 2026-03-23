@@ -16,7 +16,8 @@ caps: ""
 high_school: "FeildingHighSchool"
 university: "LincolnUniversity"
 scraped_url: "https://league-one.jp/player/484753"
+league_one_caps: "43"
 ---
 
 ## キャリア遍歴
-クルセイダーズ (2017 - 2018) -> ワイカト (2018 - 2019) -> 東芝ブレイブルーパス東京 (2019 - 2023) -> 三菱重工相模原ダイナボアーズ (2023)
+クルセイダーズ (2017 - 2018) -> ワイカト (2018 - 2019) -> 東芝ブレイブルーパス東京 (2019 - 2023) -> 三菱重工相模原ダイナボアーズ (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐賀工業高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483707"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2016)
+Kyushu Kyuden Voltex (2016 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/evan-minto"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-dragons rfc (2024 - ) -> hartpury rfc (2024 - )
+hartpury rfc (2024 - 2025) -> dragons rfc (2024 - )

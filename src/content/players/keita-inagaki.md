@@ -16,7 +16,8 @@ caps: "U20('08)、日本代表(53)"
 high_school: "新潟工業高校"
 university: "関東学院大学"
 scraped_url: "https://league-one.jp/player/484071"
+league_one_caps: "58"
 ---
 
 ## キャリア遍歴
-埼玉WK (2013) -> レベルズ (2015) -> サンウルブズ (2016)
+埼玉WK (2013) -> レベルズ (2015) -> サンウルブズ (2016 - )

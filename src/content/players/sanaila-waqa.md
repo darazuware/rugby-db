@@ -16,7 +16,8 @@ caps: "日本代表(10)"
 high_school: "ヘイスティングスボーイズ高高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484568"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2017 - 2020) -> 花園近鉄ライナーズ (2020)
+NECグリーンロケッツ東葛 (2017 - 2020) -> 花園近鉄ライナーズ (2020 - )

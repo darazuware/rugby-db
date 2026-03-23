@@ -16,7 +16,8 @@ caps: "セブンズ日本(18)"
 high_school: "石見智翠館高校"
 university: "九州共立大学"
 scraped_url: "https://league-one.jp/player/484280"
+league_one_caps: "42"
 ---
 
 ## キャリア遍歴
-中国電力レッドレギュリオンズ (2021)
+中国電力レッドレギュリオンズ (2021 - )

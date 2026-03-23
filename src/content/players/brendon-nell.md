@@ -16,7 +16,8 @@ caps: ""
 high_school: "Werda"
 university: "Highschool"
 scraped_url: "https://league-one.jp/player/485131"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2024)
+NECグリーンロケッツ東葛 (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nick-bloomfield"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Easts Rugby Union Club (2021 - 2023) -> Queensland Reds (2023)
+Easts Rugby Union Club (2021 - 2023) -> Queensland Reds (2023 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/gonzalo-garcia-1999"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

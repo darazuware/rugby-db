@@ -16,6 +16,7 @@ caps: "Ireland (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/stuart-mccloskey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

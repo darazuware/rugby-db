@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/bailyn-sullivan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2017 - 2021) -> Waikato Mooloos (2019 - ) -> Hurricanes (2021)
+Chiefs (2017 - 2021) -> Waikato Mooloos (2019 - 2025) -> Hurricanes (2021 - )

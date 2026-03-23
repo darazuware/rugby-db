@@ -16,7 +16,8 @@ caps: ""
 high_school: "アフリカーンスボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/483970"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-Blue Bulls (2022) -> Kobelco Kobe Steelers (2022)
+Blue Bulls (2022) -> Kobelco Kobe Steelers (2022 - )

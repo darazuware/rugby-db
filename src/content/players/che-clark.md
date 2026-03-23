@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/che-clark"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2022 - ) -> Blues (2024)
+Auckland (2022 - 2025) -> Blues (2024 - )

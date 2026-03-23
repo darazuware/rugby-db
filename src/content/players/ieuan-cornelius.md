@@ -16,6 +16,7 @@ caps: "Wales"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ieuan-cornelius"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

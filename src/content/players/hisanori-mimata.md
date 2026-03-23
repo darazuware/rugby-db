@@ -16,7 +16,8 @@ caps: ""
 high_school: "佐賀工業高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484954"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-宗像サニックスブルース (2021 - 2022) -> ルリーロ福岡 (2024)
+宗像サニックスブルース (2021 - 2022) -> ルリーロ福岡 (2024 - )

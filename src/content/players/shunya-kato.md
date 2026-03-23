@@ -16,7 +16,8 @@ caps: ""
 high_school: "正平高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484912"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-Christchurch Football Club (2024 - ) -> ルリーロ福岡 (2025 - )
+Christchurch Football Club (2024 - 2025) -> ルリーロ福岡 (2025 - )

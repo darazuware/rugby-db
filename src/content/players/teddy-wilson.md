@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/teddy-wilson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Eastern Suburbs RFC (2020 - 2021) -> New South Wales Waratahs (2021)
+Eastern Suburbs RFC (2020 - 2021) -> New South Wales Waratahs (2021 - )

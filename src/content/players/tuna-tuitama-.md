@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tuna-tuitama-"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Samoa 7's (2023 - 2024) -> Moana Pasifika (2024)
+Samoa 7's (2023 - 2024) -> Moana Pasifika (2024 - )

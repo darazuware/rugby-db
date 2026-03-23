@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alivereti-loaloa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Ratu Kadavulevu School (2018 - 2019) -> USON Nevers Rugby (2019 - ) -> ASM Clermont Auvergne (2025 - )
+Ratu Kadavulevu School (2018 - 2019) -> USON Nevers Rugby (2019 - 2025) -> ASM Clermont Auvergne (2025 - )

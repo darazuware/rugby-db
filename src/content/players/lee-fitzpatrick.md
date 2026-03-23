@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lee-fitzpatrick"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-newbridge college (2024 - ) -> leinster rugby (2025 - )
+newbridge college (2024 - 2025) -> leinster rugby (2025 - )

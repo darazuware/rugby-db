@@ -16,7 +16,8 @@ caps: ""
 high_school: "スヴァグラマー"
 university: "拓殖大学"
 scraped_url: "https://league-one.jp/player/484438"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2023)
+豊田自動織機シャトルズ愛知 (2023 - )

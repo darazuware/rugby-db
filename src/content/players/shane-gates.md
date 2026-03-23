@@ -16,7 +16,8 @@ caps: "日本代表(4)"
 high_school: "ミューアカレッジボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/483509"
+league_one_caps: "58"
 ---
 
 ## キャリア遍歴
-Southern Kings (2015 - 2016) -> 浦安D-Rocks (2016 - ) -> サンウルブズ (2018)
+Southern Kings (2015 - 2016) -> 浦安D-Rocks (2016 - ) -> サンウルブズ (2018 - )

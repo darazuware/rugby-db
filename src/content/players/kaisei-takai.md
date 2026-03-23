@@ -16,7 +16,8 @@ caps: ""
 high_school: "御所実業高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484518"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-日本製鉄釜石シーウェイブス (2023)
+日本製鉄釜石シーウェイブス (2023 - )

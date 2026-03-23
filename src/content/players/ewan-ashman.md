@@ -16,6 +16,7 @@ caps: "Scotland (22)"
 high_school: ""
 university: ""
 scraped_url: "sale sharks (2018 - 2021) -> glasgow warriors (2021 - 2021) -> sale sharks (2022 - 2022) -> glasgow warriors (2022 - 2022) -> sale sharks (2022 - 2023) -> edimbourg rugby (2023 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

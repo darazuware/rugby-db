@@ -16,7 +16,8 @@ caps: "高校('09)、'10、U20('11)、U23('16)、セブンズ日本(1)、日本�
 high_school: "常翔啓光学園高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/483511"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2014 - ) -> サンウルブズ (2015)
+浦安D-Rocks (2014 - ) -> サンウルブズ (2015 - )

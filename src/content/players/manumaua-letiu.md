@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/manumaua-letiu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2023 - ) -> Canterbury (2024)
+Crusaders (2023 - ) -> Canterbury (2024 - )

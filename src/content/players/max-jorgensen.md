@@ -16,7 +16,8 @@ caps: "Squad caps (668)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/max-jorgensen"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2021)
+New South Wales Waratahs (2021 - )

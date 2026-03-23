@@ -16,7 +16,8 @@ caps: "Australia (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rob-leota"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2015 - 2024) -> New South Wales Waratahs (2024 - ) -> Aviron Bayonnais (2025 - )
+Melbourne Rebels (2015 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Aviron Bayonnais (2025 - )

@@ -16,6 +16,7 @@ caps: "Scotland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-samuel"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/billy-corrigan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-old wesley rfc (2023 - ) -> leinster rugby (2025 - )
+old wesley rfc (2023 - 2025) -> leinster rugby (2025 - )

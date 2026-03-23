@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/torian-barnes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2023 - ) -> Blues (2025 - )
+Canterbury (2023 - 2025) -> Blues (2025 - )

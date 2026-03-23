@@ -16,7 +16,8 @@ caps: "U20,U23('18)、XV('25)"
 high_school: "東海大仰星高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484883"
+league_one_caps: "40"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2019 - 2020) -> リコーブラックラムズ東京 (2021)
+サンウルブズ (2019 - 2020) -> リコーブラックラムズ東京 (2021 - )

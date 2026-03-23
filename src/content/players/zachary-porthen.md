@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/zachary-porthen"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-western province (2022 - ) -> stormers (2024 - )
+western province (2022 - 2025) -> stormers (2024 - )

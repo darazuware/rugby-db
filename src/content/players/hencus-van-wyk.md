@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hencus-van-wyk"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bulls (2015 - 2016) -> lions rugby (2016 - 2017) -> sunwolves (2017 - 2020) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2021) -> san diego legion (2021 - 2022) -> central cheetahs (2022 - ) -> stormers (2025 - )
+bulls (2015 - 2016) -> lions rugby (2016 - 2017) -> sunwolves (2017 - 2020) -> central cheetahs (2019 - 2020) -> free state cheetahs (2020 - 2021) -> san diego legion (2021 - 2022) -> central cheetahs (2022 - 2025) -> stormers (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "TruroCollege"
 university: "Plymouth"
 scraped_url: "https://league-one.jp/player/484217"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-エクセター・チーフス (2017 - 2018) -> ブリストル・ベアーズ (2018 - 2024) -> 清水建設江東ブルーシャークス (2024)
+エクセター・チーフス (2017 - 2018) -> ブリストル・ベアーズ (2018 - 2024) -> 清水建設江東ブルーシャークス (2024 - )

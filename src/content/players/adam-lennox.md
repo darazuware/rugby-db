@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/adam-lennox"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2021 - ) -> Highlanders (2024)
+Taranaki Bulls (2021 - 2025) -> Highlanders (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "流通経済大学附属柏高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484193"
+league_one_caps: "21"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2023)
+静岡ブルーレヴズ (2023 - )

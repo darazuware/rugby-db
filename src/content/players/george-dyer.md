@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-dyer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2019 - ) -> Chiefs (2021)
+Waikato Mooloos (2019 - 2025) -> Chiefs (2021 - )

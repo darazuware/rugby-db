@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-van-wyk"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ayr rfc (2024 - ) -> glasgow warriors (2025 - )
+ayr rfc (2024 - 2025) -> glasgow warriors (2025 - )

@@ -16,6 +16,7 @@ caps: "France (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/louis-bielle-biarrey"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

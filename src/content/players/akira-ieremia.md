@@ -16,7 +16,8 @@ caps: ""
 high_school: "SaintPatrick’sCollegeSilve"
 university: ""
 scraped_url: "https://league-one.jp/player/483737"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-ウェリントン (2022 - ) -> クボタスピアーズ船橋・東京ベイ (2024)
+ウェリントン (2022 - 2025) -> クボタスピアーズ船橋・東京ベイ (2024 - )

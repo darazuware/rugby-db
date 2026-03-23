@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hoskins-sotutu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2018 - ) -> Auckland (2019 - 2020) -> Counties Manukau Steelers (2020)
+Blues (2018 - ) -> Auckland (2019 - 2020) -> Counties Manukau Steelers (2020 - )

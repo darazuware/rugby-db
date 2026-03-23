@@ -16,7 +16,8 @@ caps: ""
 high_school: "國學院栃木高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484286"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-中国電力レッドレギュリオンズ (2021)
+中国電力レッドレギュリオンズ (2021 - )

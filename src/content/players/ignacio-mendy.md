@@ -16,6 +16,7 @@ caps: ""
 high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/ignacio-mendy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

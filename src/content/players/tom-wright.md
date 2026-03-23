@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-wright"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2018)
+Brumbies (2018 - )

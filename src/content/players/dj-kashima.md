@@ -16,7 +16,8 @@ caps: "セブンズ日本(4)"
 high_school: "湘南工科大附属高校"
 university: "山梨学院大学"
 scraped_url: "https://league-one.jp/player/484734"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2024)
+三菱重工相模原ダイナボアーズ (2024 - )

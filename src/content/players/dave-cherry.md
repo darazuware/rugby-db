@@ -16,7 +16,8 @@ caps: "Scotland (11)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dave-cherry"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Edimbourg Rugby (2018 - ) -> Rugby Club Vannes (2025 - )
+Edimbourg Rugby (2018 - 2025) -> Rugby Club Vannes (2025 - )

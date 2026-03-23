@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/louka-guilhot"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Valence Romans Drôme Rugby (2011 - 2021) -> ASM Clermont Auvergne (2021 - ) -> Castres Olympique (2025 - )
+Valence Romans Drôme Rugby (2011 - 2021) -> ASM Clermont Auvergne (2021 - 2025) -> Castres Olympique (2025 - )

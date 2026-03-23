@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paul-abadie"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sporting Union Agenais (2001 - 2021) -> CA Brive Corrèze Limousin (2021 - 2023) -> Union Bordeaux-Bègles (2023 - ) -> Stade Français Paris Rugby (2024 - )
+Sporting Union Agenais (2001 - 2021) -> CA Brive Corrèze Limousin (2021 - 2023) -> Union Bordeaux-Bègles (2023 - 2025) -> Stade Français Paris Rugby (2024 - )

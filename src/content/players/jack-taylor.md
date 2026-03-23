@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-taylor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southland Stags (2021 - ) -> Highlanders (2022)
+Southland Stags (2021 - 2025) -> Highlanders (2022 - )

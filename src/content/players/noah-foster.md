@@ -16,7 +16,8 @@ caps: ""
 high_school: "MountAlbertGrammarSchool"
 university: "AucklandUniversity"
 scraped_url: "https://league-one.jp/player/484214"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-タスマン (2021 - 2022) -> サウスランド (2022 - 2023) -> 清水建設江東ブルーシャークス (2024)
+タスマン (2021 - 2022) -> サウスランド (2022 - 2023) -> 清水建設江東ブルーシャークス (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-cottle"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-rgc 1404 (2024 - ) -> cardiff rugby (2025 - )
+rgc 1404 (2024 - 2025) -> cardiff rugby (2025 - )

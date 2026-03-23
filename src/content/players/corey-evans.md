@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/corey-evans"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2023) -> Blues (2021 - ) -> Northland Taniwha (2023)
+Auckland (2020 - 2023) -> Blues (2021 - ) -> Northland Taniwha (2023 - )

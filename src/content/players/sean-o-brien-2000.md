@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sean-o-brien-2000"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leinster rugby (2020 - 2023) -> la giltinis (2020 - 2021) -> connacht rugby (2023 - )
+la giltinis (2020 - 2021) -> leinster rugby (2020 - 2023) -> connacht rugby (2023 - )

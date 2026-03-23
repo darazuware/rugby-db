@@ -16,6 +16,7 @@ caps: "England"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-collier"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

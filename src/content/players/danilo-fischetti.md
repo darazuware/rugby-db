@@ -16,6 +16,7 @@ caps: "Italy (48)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/danilo-fischetti"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

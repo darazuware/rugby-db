@@ -16,7 +16,8 @@ caps: "日本代表(7)"
 high_school: "ハミルトンボーイズ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484453"
+league_one_caps: "62"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - 2024) -> Toyota Verblitz (2024)
+東芝ブレイブルーパス東京 (2021 - 2024) -> Toyota Verblitz (2024 - )

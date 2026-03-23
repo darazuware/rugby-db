@@ -16,6 +16,7 @@ caps: "セブンズ日本(3)"
 high_school: "セントケンティガンカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484675"
+league_one_caps: "27"
 ---
 
 ## キャリア遍歴

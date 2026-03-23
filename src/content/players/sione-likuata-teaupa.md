@@ -16,7 +16,8 @@ caps: ""
 high_school: "トゥポウカレッジ"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483687"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2023)
+九州電力キューデンヴォルテクス (2023 - )

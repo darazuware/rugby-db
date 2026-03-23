@@ -16,7 +16,8 @@ caps: ""
 high_school: "報徳学園高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484846"
+league_one_caps: "22"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2022)
+横浜キヤノンイーグルス (2022 - )

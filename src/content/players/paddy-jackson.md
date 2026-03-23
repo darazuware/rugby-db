@@ -16,6 +16,7 @@ caps: "Ireland (12)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paddy-jackson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

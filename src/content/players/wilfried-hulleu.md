@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/wilfried-hulleu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC le Môle (2007 - 2016) -> FC Grenoble Rugby (2016 - ) -> Racing 92 (2025 - )
+RC le Môle (2007 - 2016) -> FC Grenoble Rugby (2016 - 2025) -> Racing 92 (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/piers-o-conor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-wasps (2016 - 2017) -> bristol bears (2018 - 2024) -> connacht rugby (2024 - ) -> edimbourg rugby (2025 - )
+wasps (2016 - 2017) -> bristol bears (2018 - 2024) -> connacht rugby (2024 - 2025) -> edimbourg rugby (2025 - )

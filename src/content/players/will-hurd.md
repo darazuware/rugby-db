@@ -16,6 +16,7 @@ caps: "Scotland (4)"
 high_school: ""
 university: ""
 scraped_url: ""
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

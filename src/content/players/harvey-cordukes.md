@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harvey-cordukes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2023 - ) -> Provence Rugby (2024)
+Brumbies (2023 - ) -> Provence Rugby (2024 - )

@@ -16,6 +16,7 @@ caps: "England (33)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-nowell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

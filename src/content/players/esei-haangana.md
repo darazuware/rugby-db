@@ -16,6 +16,7 @@ caps: ""
 high_school: "セントポールズカトリックカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484053"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴

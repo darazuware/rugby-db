@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/asad-moos"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Province (2023 - ) -> Stormers (2025 - )
+Western Province (2023 - 2025) -> Stormers (2025 - )

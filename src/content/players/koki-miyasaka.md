@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "中部大春日丘高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484713"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2024)
+三重ホンダヒート (2024 - )

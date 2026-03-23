@@ -16,6 +16,7 @@ caps: ""
 high_school: "崇徳高校"
 university: "成蹊大学"
 scraped_url: "https://league-one.jp/player/493176"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

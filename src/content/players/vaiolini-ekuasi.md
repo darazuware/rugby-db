@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vaiolini-ekuasi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2024) -> Blues (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> Western Force (2024)
+Auckland (2020 - 2024) -> Blues (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> Western Force (2024 - )

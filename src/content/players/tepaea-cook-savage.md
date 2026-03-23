@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tepaea-cook-savage"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2020 - ) -> Chiefs (2025 - )
+Waikato Mooloos (2020 - 2025) -> Chiefs (2025 - )

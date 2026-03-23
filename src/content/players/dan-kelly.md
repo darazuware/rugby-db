@@ -16,7 +16,8 @@ caps: ""
 high_school: "England"
 university: ""
 scraped_url: "https://all.rugby/player/dan-kelly"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-sale sharks (2017 - 2019) -> loughborough university (2019 - 2020) -> leicester tigers (2019 - ) -> munster rugby (2025 - )
+sale sharks (2017 - 2019) -> loughborough university (2019 - 2020) -> leicester tigers (2019 - 2025) -> munster rugby (2025 - )

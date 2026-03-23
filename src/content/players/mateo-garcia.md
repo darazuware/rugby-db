@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mateo-garcia"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Aviron Bayonnais (2016 - 2020) -> Union Bordeaux-Bègles (2020 - ) -> Rugby Club Toulonnais (2025 - )
+Aviron Bayonnais (2016 - 2020) -> Union Bordeaux-Bègles (2020 - 2025) -> Rugby Club Toulonnais (2025 - )

@@ -16,7 +16,8 @@ caps: "New Zealand (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ethan-de-groot"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southland Stags (2018 - 2024) -> Highlanders (2019)
+Southland Stags (2018 - 2024) -> Highlanders (2019 - )

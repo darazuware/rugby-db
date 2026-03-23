@@ -16,7 +16,8 @@ caps: ""
 high_school: "常総学院高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/485387"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-日野自動車レッドドルフィンズ (2017)
+日野自動車レッドドルフィンズ (2017 - )

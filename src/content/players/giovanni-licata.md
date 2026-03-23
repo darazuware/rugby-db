@@ -16,6 +16,7 @@ caps: "Italy"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/giovanni-licata"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paidi-farrell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-old wesley rfc (2024 - ) -> leinster rugby (2025 - )
+old wesley rfc (2024 - 2025) -> leinster rugby (2025 - )

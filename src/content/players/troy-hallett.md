@@ -16,7 +16,8 @@ caps: ""
 high_school: "リンカン・ハイ・スクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484479"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-秋田ノーザンブレッツ (2024 - ) -> 日本製鉄釜石シーウェイブス (2025 - )
+秋田ノーザンブレッツ (2024 - 2025) -> 日本製鉄釜石シーウェイブス (2025 - )

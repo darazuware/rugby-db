@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/efan-daniel"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cardiff rugby (2020 - ) -> ospreys (2025 - )
+cardiff rugby (2020 - 2025) -> ospreys (2025 - )

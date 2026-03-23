@@ -16,6 +16,7 @@ caps: "Ireland (27)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ryan-baird"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

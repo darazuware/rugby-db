@@ -16,6 +16,7 @@ caps: "France (9)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cedate-gomes-sa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

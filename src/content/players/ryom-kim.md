@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪朝鮮高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483501"
+league_one_caps: "57"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> 浦安D-Rocks (2022)
+NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> 浦安D-Rocks (2022 - )

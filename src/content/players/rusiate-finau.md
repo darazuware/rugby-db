@@ -16,6 +16,7 @@ caps: ""
 high_school: "マッセー"
 university: "朝日大学"
 scraped_url: "https://league-one.jp/player/483478"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Italy (82)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tommy-allan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "アングリカンチャーチグラマースクール"
 university: "拓殖大学"
 scraped_url: "https://league-one.jp/player/483782"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2024)
+クボタスピアーズ船橋・東京ベイ (2024 - )

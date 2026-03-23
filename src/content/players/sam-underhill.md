@@ -16,6 +16,7 @@ caps: "England (30)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-underhill"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

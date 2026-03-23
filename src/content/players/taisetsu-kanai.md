@@ -16,7 +16,8 @@ caps: "U20,U23('15)、U20,U23('16)"
 high_school: "深谷高校"
 university: "法政大学"
 scraped_url: "https://league-one.jp/player/483559"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021)
+NECグリーンロケッツ東葛 (2021 - )

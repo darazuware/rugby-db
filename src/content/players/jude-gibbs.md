@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントジョセフ・カレッジ"
 university: "UniversityofTechnologySydney"
 scraped_url: "https://league-one.jp/player/483680"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-Queensland Reds (2025 - ) -> 九州電力キューデンヴォルテクス (2025 - )
+Queensland Reds (2025) -> 九州電力キューデンヴォルテクス (2025 - )

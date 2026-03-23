@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joe-cowell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cardiff met rfc (2021 - 2024) -> cardiff rugby (2021 - 2022) -> cardiff rugby (2024 - ) -> bedford blues (2025 - ) -> northampton saints (2025 - )
+cardiff rugby (2021 - 2022) -> cardiff met rfc (2021 - 2024) -> cardiff rugby (2024 - ) -> bedford blues (2025 - ) -> northampton saints (2025 - )

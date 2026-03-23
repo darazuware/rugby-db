@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/seb-lombard"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-blue bulls (2021 - 2022) -> bulls (2022 - ) -> golden lions (2024 - ) -> lions rugby (2025 - )
+blue bulls (2021 - 2022) -> bulls (2022 - 2025) -> golden lions (2024 - 2025) -> lions rugby (2025 - )

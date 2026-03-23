@@ -16,6 +16,7 @@ caps: "Australia (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josh-kemeny"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

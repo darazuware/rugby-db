@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/elia-canakaivata"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2021 - 2022) -> Fijian Drua (2022)
+FIDJI 7's (2021 - 2022) -> Fijian Drua (2022 - )

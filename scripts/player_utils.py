@@ -105,13 +105,19 @@ class PlayerDataProcessor:
         """
         Pandas の行（Series または辞書）から値を安全に取得する。
         NaN や 'nan' などの文字列漏れを防ぐ。
+        数値型で .0 で終わる場合は整数として扱う。
         """
         try:
             val = row.get(attr_name)
             import pandas as pd
             if pd.isna(val) or str(val).lower() == 'nan' or val is None:
                 return default
-            return str(val).strip()
+            
+            # 数値型または数値文字列の末尾 .0 を削除
+            val_str = str(val).strip()
+            if val_str.endswith('.0'):
+                return val_str[:-2]
+            return val_str
         except Exception:
             return default
 
@@ -130,19 +136,30 @@ class PlayerDataProcessor:
         career_data = []
         
         for item in items:
-            # "Team Name (Start - End)" または "Team Name (Year)" を抽出
+            # "Team Name (Start - End)" または "Team Name (Year - )" または "Team Name (Year)" を抽出
+            # ハイフンがあるかないかで現在進行形かどうかを判断するため、ハイフン部分をキャプチャ対象に含める検討も。
+            # 現状は match.group(3) が None か "" かで判断。
             match = re.match(r'(.*?)\s*\(\s*(\d{4})\s*(?:-\s*(\d{4}|))?\s*\)', item)
             if match:
                 team = match.group(1).strip()
                 start = int(match.group(2))
-                end = match.group(3)
-                if not end:
-                    end = start
-                else:
+                end_match = match.group(3)
+                
+                # 全体の文字列にハイフンが含まれているか確認 (正規表現の不完全さを補完)
+                # match.group(0) は item 全体 (括弧部分含む)
+                has_hyphen = '-' in match.group(0)
+                
+                if end_match:
                     try:
-                        end = int(end)
+                        end = int(end_match)
                     except ValueError:
-                        end = 9999 # 現在進行形など
+                        end = 9999
+                elif has_hyphen:
+                    # ハイフンがあるが end_match が空（またはパース不可）なら現在進行
+                    end = 9999
+                else:
+                    # ハイフンがない場合は単発年
+                    end = start
                 
                 career_data.append({"team": team, "start": start, "end": end})
             else:
@@ -180,18 +197,17 @@ class PlayerDataProcessor:
             for m_start, m_end in merged:
                 merged_career.append({"team": team, "start": m_start, "end": m_end})
         
-        # 開始年順にソート
-        merged_career.sort(key=lambda x: x['start'])
+        # 開始年順にソート (開始年が同じ場合は、終了年が新しい方を後、または 9999 を優先)
+        merged_career.sort(key=lambda x: (x['start'], x['end']))
         
         # 文字列に変換
         result_items = []
         for d in merged_career:
             team_name = d['team']
-            # capitalize if it's not and requested in general? 
-            # (GEMINI.md says just use team name, but usually title case is better)
             
             # 現在進行形の表示 (9999 or 最新の所属)
-            if d['end'] >= 2025: # 2025年以降なら現在進行形として扱う (物理基準日参照)
+            # 基準日(2026年)以降、または 9999 の場合を「現在進行」とする
+            if d['end'] >= 2026 or d['end'] == 9999: 
                 year_str = f"{d['start']} - "
             elif d['start'] == d['end']:
                 year_str = f"{d['start']}"
@@ -199,6 +215,10 @@ class PlayerDataProcessor:
                 year_str = f"{d['start']} - {d['end']}"
             
             result_items.append(f"{team_name} ({year_str})")
+        
+        # もし最後のアイテムが現在所属チーム(Astro frontmatterのteam)と一致し、
+        # まだハイフンが付いていない場合は、整合性を保つためにハイフンを付与する検討が必要。
+        # ただし、この関数は抽象的な整形のみを行うため、基本は end=9999 に依存する。
         
         return " -> ".join(result_items)
 

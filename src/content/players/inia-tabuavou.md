@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/inia-tabuavou"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rotorua Boys High School (2019 - 2020) -> Racing 92 (2020 - 2024) -> Fijian Drua (2024)
+Rotorua Boys High School (2019 - 2020) -> Racing 92 (2020 - 2024) -> Fijian Drua (2024 - )

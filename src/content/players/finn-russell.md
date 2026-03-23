@@ -16,6 +16,7 @@ caps: "Scotland (82)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/finn-russell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

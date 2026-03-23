@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jj-scheepers"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-centurioni rugby (2022 - 2023) -> ok financial group okman (2023 - 2024) -> pumas (2024 - ) -> sharks (2025 - )
+centurioni rugby (2022 - 2023) -> ok financial group okman (2023 - 2024) -> pumas (2024 - 2025) -> sharks (2025 - )

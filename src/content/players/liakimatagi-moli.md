@@ -16,6 +16,7 @@ caps: ""
 high_school: "St Paul’s College"
 university: ""
 scraped_url: "https://league-one.jp/player/484829"
+league_one_caps: "60"
 ---
 
 ## キャリア遍歴

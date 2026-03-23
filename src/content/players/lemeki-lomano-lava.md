@@ -16,6 +16,7 @@ caps: "日本代表(20)"
 high_school: "リストンカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484673"
+league_one_caps: "59"
 ---
 
 ## キャリア遍歴

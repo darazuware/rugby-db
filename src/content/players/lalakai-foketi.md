@@ -16,7 +16,8 @@ caps: "Australia (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lalakai-foketi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2013 - 2014) -> Aviron Bayonnais (2014 - 2015) -> Bay of Plenty Steamers (2015 - 2016) -> New South Wales Waratahs (2017 - ) -> Chiefs (2025 - )
+Melbourne Rebels (2013 - 2014) -> Aviron Bayonnais (2014 - 2015) -> Bay of Plenty Steamers (2015 - 2016) -> New South Wales Waratahs (2017 - 2025) -> Chiefs (2025 - )

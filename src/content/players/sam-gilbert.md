@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sam-gilbert"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-canterbury (2018 - 2019) -> highlanders (2019 - ) -> otago (2020 - ) -> connacht rugby (2025 - )
+canterbury (2018 - 2019) -> highlanders (2019 - 2025) -> otago (2020 - 2025) -> connacht rugby (2025 - )

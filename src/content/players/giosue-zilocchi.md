@@ -16,6 +16,7 @@ caps: "Italy (22)"
 high_school: ""
 university: ""
 scraped_url: "zebre parma (2018 - 2022) -> london irish (2022 - 2023) -> benetton rugby trévise (2023 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

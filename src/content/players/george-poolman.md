@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-poolman"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2021 - 2022) -> Western Force (2022 - ) -> New South Wales Waratahs (2025 - )
+Sydney University Football Club (2021 - 2022) -> Western Force (2022 - 2025) -> New South Wales Waratahs (2025 - )

@@ -16,7 +16,8 @@ caps: "日本代表(70)"
 high_school: "國學院栃木高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484843"
+league_one_caps: "73"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2015 - 2019) -> 横浜キヤノンイーグルス (2021)
+サンウルブズ (2015 - 2019) -> 横浜キヤノンイーグルス (2021 - )

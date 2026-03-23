@@ -16,7 +16,8 @@ caps: "Australia (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/matt-faessler"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Country (2018 - 2019) -> Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020)
+Queensland Country (2018 - 2019) -> Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020 - )

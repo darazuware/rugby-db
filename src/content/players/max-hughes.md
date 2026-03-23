@@ -16,7 +16,8 @@ caps: ""
 high_school: "クライストチャーチボーイズ"
 university: "カンタベリー大学"
 scraped_url: "https://league-one.jp/player/484306"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-Sydenham Rugby Club (2023 - 2024) -> 東京サントリーサンゴリアス (2024)
+Sydenham Rugby Club (2023 - 2024) -> 東京サントリーサンゴリアス (2024 - )

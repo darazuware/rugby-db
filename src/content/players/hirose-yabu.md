@@ -16,7 +16,8 @@ caps: ""
 high_school: "名護高校"
 university: ""
 scraped_url: "https://league-one.jp/player/483532"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-沖縄やんばるラグビーフットボールクラブ (2024 - ) -> NECグリーンロケッツ東葛 (2025 - )
+沖縄やんばるラグビーフットボールクラブ (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/saula-ma-u"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2020 - ) -> Highlanders (2021)
+Otago (2020 - 2025) -> Highlanders (2021 - )

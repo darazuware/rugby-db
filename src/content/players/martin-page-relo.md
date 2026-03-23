@@ -16,7 +16,8 @@ caps: "Italy (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/martin-page-relo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US L'Isle Jourdain (2010 - 2012) -> Stade Toulousain (2012 - 2023) -> US Carcassonne (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2023 - ) -> Union Bordeaux-Bègles (2025 - )
+US L'Isle Jourdain (2010 - 2012) -> Stade Toulousain (2012 - 2023) -> US Carcassonne (2020 - 2021) -> Lyon Olympique Universitaire Rugby (2023 - 2025) -> Union Bordeaux-Bègles (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/darragh-mcsweeney"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-munster rugby (2021 - ) -> cornish pirates (2024 - )
+munster rugby (2021 - ) -> cornish pirates (2024 - 2025)

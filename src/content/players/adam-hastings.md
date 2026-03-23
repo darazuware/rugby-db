@@ -16,6 +16,7 @@ caps: "Scotland (27)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/adam-hastings"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

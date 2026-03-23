@@ -16,6 +16,7 @@ caps: "Ireland (16)"
 high_school: ""
 university: ""
 scraped_url: "munster rugby (2013 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

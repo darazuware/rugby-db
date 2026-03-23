@@ -16,6 +16,7 @@ caps: ""
 high_school: "日本航空高校石川"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484303"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴

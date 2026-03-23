@@ -16,7 +16,8 @@ caps: "セブンズ日本(11)"
 high_school: "御所実業高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/485509"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-Toyota Verblitz (2023)
+Toyota Verblitz (2023 - )

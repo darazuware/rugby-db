@@ -16,6 +16,7 @@ caps: "France (40)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/julien-marchand"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

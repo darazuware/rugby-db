@@ -16,7 +16,8 @@ caps: "Tonga (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/semisi-paea"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2020 - ) -> New England Free Jacks (2022 - 2023) -> Moana Pasifika (2023)
+Bay of Plenty Steamers (2020 - 2025) -> New England Free Jacks (2022 - 2023) -> Moana Pasifika (2023 - )

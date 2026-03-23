@@ -16,7 +16,8 @@ caps: "Wales (16)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/taine-basham"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Dragons RFC (2017 - ) -> Cardiff Rugby (2025 - )
+Dragons RFC (2017 - 2025) -> Cardiff Rugby (2025 - )

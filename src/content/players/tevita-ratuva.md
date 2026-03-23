@@ -16,7 +16,8 @@ caps: "Fiji (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tevita-ratuva"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brisbane City (2017 - 2018) -> Union Bordeaux-Bègles (2018 - 2019) -> Scarlets (2019 - 2021) -> CA Brive Corrèze Limousin (2021 - ) -> ASM Clermont Auvergne (2025 - )
+Brisbane City (2017 - 2018) -> Union Bordeaux-Bègles (2018 - 2019) -> Scarlets (2019 - 2021) -> CA Brive Corrèze Limousin (2021 - 2025) -> ASM Clermont Auvergne (2025 - )

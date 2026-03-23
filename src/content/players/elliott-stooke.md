@@ -16,6 +16,7 @@ caps: ""
 high_school: "Hartpurycollege"
 university: ""
 scraped_url: "https://league-one.jp/player/484986"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴

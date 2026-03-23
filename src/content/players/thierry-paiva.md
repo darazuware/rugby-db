@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/thierry-paiva"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Union Bordeaux-Bègles (2013 - 2022) -> US Carcassonne (2016 - 2017) -> Stade Rochelais (2022 - ) -> Stade Français Paris Rugby (2025 - )
+Union Bordeaux-Bègles (2013 - 2022) -> US Carcassonne (2016 - 2017) -> Stade Rochelais (2022 - 2025) -> Stade Français Paris Rugby (2025 - )

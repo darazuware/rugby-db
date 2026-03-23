@@ -16,7 +16,8 @@ caps: "U23('17)、日本代表(1)"
 high_school: "三好高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484331"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021)
+東京サントリーサンゴリアス (2021 - )

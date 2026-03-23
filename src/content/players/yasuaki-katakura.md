@@ -16,7 +16,8 @@ caps: "U23('19)"
 high_school: "明治大学付属中野高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484330"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021)
+東京サントリーサンゴリアス (2021 - )

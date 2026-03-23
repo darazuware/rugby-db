@@ -16,7 +16,8 @@ caps: "Fiji (15)"
 high_school: "ホーリークロスカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484146"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-Parramatta Eels (2015 - 2017) -> トゥーロン (2017 - 2018) -> Union Bordeaux-Bègles (2018 - 2020) -> ブリストル・ベアーズ (2019 - 2023) -> リヨン (2023 - ) -> 静岡ブルーレヴズ (2025 - )
+Parramatta Eels (2015 - 2017) -> トゥーロン (2017 - 2018) -> Union Bordeaux-Bègles (2018 - 2020) -> ブリストル・ベアーズ (2019 - 2023) -> リヨン (2023 - 2025) -> 静岡ブルーレヴズ (2025 - )

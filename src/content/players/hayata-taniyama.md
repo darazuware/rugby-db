@@ -16,7 +16,8 @@ caps: ""
 high_school: "福岡高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484078"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2024)
+埼玉パナソニックワイルドナイツ (2024 - )

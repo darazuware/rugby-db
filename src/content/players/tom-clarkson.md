@@ -16,6 +16,7 @@ caps: "Ireland (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-clarkson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

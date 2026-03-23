@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harri-deaves-small"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

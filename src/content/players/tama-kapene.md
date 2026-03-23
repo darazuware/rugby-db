@@ -16,7 +16,8 @@ caps: ""
 high_school: "スコッツ"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484422"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2022)
+豊田自動織機シャトルズ愛知 (2022 - )

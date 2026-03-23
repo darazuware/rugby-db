@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simphiwe-moyo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-natal sharks (2024 - ) -> sharks (2025 - )
+natal sharks (2024 - 2025) -> sharks (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/konrad-toleafoa"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2024 - ) -> Moana Pasifika (2025 - )
+Otago (2024 - 2025) -> Moana Pasifika (2025 - )

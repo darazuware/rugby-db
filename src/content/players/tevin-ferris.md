@@ -16,7 +16,8 @@ caps: ""
 high_school: "マンジュラバプティストカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484634"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴
-ウェスタン・フォース (2019 - 2020) -> Manly Marlins (2020 - 2021) -> マツダスカイアクティブズ広島 (2021)
+ウェスタン・フォース (2019 - 2020) -> Manly Marlins (2020 - 2021) -> マツダスカイアクティブズ広島 (2021 - )

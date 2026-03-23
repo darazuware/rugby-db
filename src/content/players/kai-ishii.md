@@ -16,7 +16,8 @@ caps: ""
 high_school: "保善高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483508"
+league_one_caps: "46"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2017 - 2018) -> 浦安D-Rocks (2018)
+サンウルブズ (2017 - 2018) -> 浦安D-Rocks (2018 - )

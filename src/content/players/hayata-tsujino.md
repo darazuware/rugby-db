@@ -16,7 +16,8 @@ caps: ""
 high_school: "京都成章高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/483932"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-マナワツ (2024 - ) -> コベルコ神戸スティーラーズ (2024)
+マナワツ (2024 - 2025) -> コベルコ神戸スティーラーズ (2024 - )

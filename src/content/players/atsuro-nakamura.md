@@ -16,7 +16,8 @@ caps: ""
 high_school: "熊本西高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484967"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2023 - 2024) -> ルリーロ福岡 (2024)
+三菱重工相模原ダイナボアーズ (2023 - 2024) -> ルリーロ福岡 (2024 - )

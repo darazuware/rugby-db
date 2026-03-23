@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lalomilo-lalomilo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Bay of Plenty Steamers (2017 - ) -> Chiefs (2022 - 2023) -> Moana Pasifika (2023)
+Bay of Plenty Steamers (2017 - 2025) -> Chiefs (2022 - 2023) -> Moana Pasifika (2023 - )

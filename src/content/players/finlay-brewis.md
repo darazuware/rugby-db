@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/finlay-brewis"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2019 - ) -> Crusaders (2021)
+Canterbury (2019 - 2025) -> Crusaders (2021 - )

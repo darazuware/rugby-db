@@ -16,7 +16,8 @@ caps: "XV('25)"
 high_school: "大阪産業大学附属高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484375"
+league_one_caps: "72"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

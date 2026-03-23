@@ -16,7 +16,8 @@ caps: ""
 high_school: "伏見工業高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484914"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2019 - ) -> LeRIRO Fukuoka (2025 - )
+コベルコ神戸スティーラーズ (2019 - 2025) -> LeRIRO Fukuoka (2025 - )

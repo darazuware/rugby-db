@@ -16,7 +16,8 @@ caps: ""
 high_school: "セント"
 university: "グレゴリー大学"
 scraped_url: "https://league-one.jp/player/484909"
+league_one_caps: "22"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2023)
+リコーブラックラムズ東京 (2023 - )

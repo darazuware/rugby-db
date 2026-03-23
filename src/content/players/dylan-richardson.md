@@ -16,7 +16,8 @@ caps: "Scotland (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dylan-richardson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sharks (2018 - ) -> Edimbourg Rugby (2025 - )
+Sharks (2018 - 2025) -> Edimbourg Rugby (2025 - )

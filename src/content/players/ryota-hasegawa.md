@@ -16,7 +16,8 @@ caps: ""
 high_school: "日本航空高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484067"
+league_one_caps: "39"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2018 - 2019) -> 埼玉パナソニックワイルドナイツ (2019)
+サンウルブズ (2018 - 2019) -> 埼玉パナソニックワイルドナイツ (2019 - )

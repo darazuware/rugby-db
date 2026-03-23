@@ -16,6 +16,7 @@ caps: "France (19)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dorian-aldegheri"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

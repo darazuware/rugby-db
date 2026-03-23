@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-scott"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

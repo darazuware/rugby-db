@@ -16,6 +16,7 @@ caps: "Georgia (39)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/guram-gogichashvili"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

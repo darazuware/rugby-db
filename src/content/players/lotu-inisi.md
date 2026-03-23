@@ -16,7 +16,8 @@ caps: ""
 high_school: "WestlakeboysHighschool"
 university: ""
 scraped_url: "https://league-one.jp/player/484976"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-ノース・ハーバー (2018 - 2024) -> モアナ・パシフィカ (2021 - ) -> NTTドコモレッドハリケーンズ大阪 (2025 - )
+ノース・ハーバー (2018 - 2024) -> モアナ・パシフィカ (2021 - 2025) -> NTTドコモレッドハリケーンズ大阪 (2025 - )

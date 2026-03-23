@@ -16,7 +16,8 @@ caps: "日本代表(7)"
 high_school: "ケルストンボーイズ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484176"
+league_one_caps: "59"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2016 - 2017) -> 静岡ブルーレヴズ (2021)
+サンウルブズ (2016 - 2017) -> 静岡ブルーレヴズ (2021 - )

@@ -16,6 +16,7 @@ caps: "Scotland (55)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/blair-kinghorn"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

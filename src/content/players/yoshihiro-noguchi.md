@@ -16,7 +16,8 @@ caps: "セブンズ日本(36)"
 high_school: "早稲田摂陵高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484110"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-狭山セコムラガッツ (2024)
+狭山セコムラガッツ (2024 - )

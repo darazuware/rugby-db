@@ -16,7 +16,8 @@ caps: "XV('25)、日本代表(24)"
 high_school: "宮崎工業高校"
 university: "九州共立大学"
 scraped_url: "https://league-one.jp/player/485712"
+league_one_caps: "69"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2020 - ) -> 東京サントリーサンゴリアス (2025 - )
+浦安D-Rocks (2020 - 2025) -> 東京サントリーサンゴリアス (2025 - )

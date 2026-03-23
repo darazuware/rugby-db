@@ -16,7 +16,8 @@ caps: "Fiji (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/peceli-yato"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ASM Clermont Auvergne (2012 - ) -> Union Sportive Arlequins Perpignanais (2025 - )
+ASM Clermont Auvergne (2012 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

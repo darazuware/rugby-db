@@ -16,7 +16,8 @@ caps: "U20('18)、セブンズ日本(17)"
 high_school: "東福岡高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/484882"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

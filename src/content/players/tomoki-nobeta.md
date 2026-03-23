@@ -16,7 +16,8 @@ caps: ""
 high_school: "金光藤蔭高校"
 university: "大阪産業大学"
 scraped_url: "https://league-one.jp/player/484972"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴
-日本製鉄釜石シーウェイブス (2021 - 2022) -> ルリーロ福岡 (2024)
+日本製鉄釜石シーウェイブス (2021 - 2022) -> ルリーロ福岡 (2024 - )

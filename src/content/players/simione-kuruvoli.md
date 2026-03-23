@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simione-kuruvoli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tailevu Rugby Union (2020 - 2021) -> Fijian Drua (2021)
+Tailevu Rugby Union (2020 - 2021) -> Fijian Drua (2021 - )

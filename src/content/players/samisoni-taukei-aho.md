@@ -16,7 +16,8 @@ caps: "New Zealand (25)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/samisoni-taukei-aho"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2016 - ) -> Waikato Mooloos (2019)
+Chiefs (2016 - ) -> Waikato Mooloos (2019 - )

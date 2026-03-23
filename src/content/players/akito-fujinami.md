@@ -16,7 +16,8 @@ caps: ""
 high_school: "伏見工業高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484424"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴
-Honda (2018 - 2021) -> Toyota Industries Shuttles Aichi (2021)
+Honda (2018 - 2021) -> Toyota Industries Shuttles Aichi (2021 - )

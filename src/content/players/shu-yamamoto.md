@@ -16,7 +16,8 @@ caps: "高校('17)、U20('19)、XV('25)"
 high_school: "京都成章高校"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/484878"
+league_one_caps: "17"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021)
+リコーブラックラムズ東京 (2021 - )

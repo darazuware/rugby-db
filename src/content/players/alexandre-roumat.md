@@ -16,6 +16,7 @@ caps: "Call-ups (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alexandre-roumat"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

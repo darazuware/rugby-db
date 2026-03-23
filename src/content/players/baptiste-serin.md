@@ -16,6 +16,7 @@ caps: "France (30)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/baptiste-serin"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

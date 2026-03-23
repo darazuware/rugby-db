@@ -16,7 +16,8 @@ caps: "U20,U23('15)"
 high_school: "東福岡高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484785"
+league_one_caps: "22"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2018 - 2022) -> L戸田 (2022)
+横浜キヤノンイーグルス (2018 - 2022) -> L戸田 (2022 - )

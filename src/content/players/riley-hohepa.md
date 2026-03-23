@@ -16,7 +16,8 @@ caps: ""
 high_school: "PukekoheHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/483531"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-カウンティーズ・マヌカウ (2019 - ) -> ハリケーンズ (2022 - ) -> クルセイダーズ (2023 - 2024) -> NECグリーンロケッツ東葛 (2025 - )
+カウンティーズ・マヌカウ (2019 - 2025) -> ハリケーンズ (2022 - 2025) -> クルセイダーズ (2023 - 2024) -> NECグリーンロケッツ東葛 (2025 - )

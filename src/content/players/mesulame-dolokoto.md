@@ -16,7 +16,8 @@ caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mesulame-dolokoto"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Glasgow Warriors (2019 - 2021) -> Fijian Drua (2021)
+Glasgow Warriors (2019 - 2021) -> Fijian Drua (2021 - )

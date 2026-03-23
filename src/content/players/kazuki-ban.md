@@ -16,7 +16,8 @@ caps: ""
 high_school: "明治大学付属中野八王子高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484661"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2022 - ) -> 三重ホンダヒート (2025 - )
+浦安D-Rocks (2022 - 2025) -> 三重ホンダヒート (2025 - )

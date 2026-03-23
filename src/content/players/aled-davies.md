@@ -16,6 +16,7 @@ caps: "Wales (19)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/aled-davies"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

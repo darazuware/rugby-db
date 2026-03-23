@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪学院大学高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484227"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2021 - ) -> 静岡ブルーレヴズ (2022)
+清水建設江東ブルーシャークス (2021 - ) -> 静岡ブルーレヴズ (2022 - )

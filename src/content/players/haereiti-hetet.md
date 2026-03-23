@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/haereiti-hetet"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2017 - 2019) -> Bay of Plenty Steamers (2019 - ) -> Fijian Drua (2021)
+Waikato Mooloos (2017 - 2019) -> Bay of Plenty Steamers (2019 - 2025) -> Fijian Drua (2021 - )

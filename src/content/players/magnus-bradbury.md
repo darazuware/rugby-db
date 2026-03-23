@@ -16,6 +16,7 @@ caps: "Scotland (8)"
 high_school: ""
 university: ""
 scraped_url: "edimbourg rugby (2014 - 2022) -> bristol bears (2022 - 2024) -> edimbourg rugby (2024 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

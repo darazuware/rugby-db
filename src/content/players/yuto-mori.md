@@ -16,7 +16,8 @@ caps: "U20,U23('18)、XV('25)"
 high_school: "東福岡高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484814"
+league_one_caps: "49"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021 - ) -> 横浜キヤノンイーグルス (2025 - )
+東芝ブレイブルーパス東京 (2021 - 2025) -> 横浜キヤノンイーグルス (2025 - )

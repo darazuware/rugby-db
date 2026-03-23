@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/braydon-ennor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2017 - ) -> Canterbury (2020)
+Crusaders (2017 - ) -> Canterbury (2020 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/elliot-roudil"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stade Nantais (2004 - 2013) -> Stade Rochelais (2013 - 2020) -> Section Paloise Béarn Pyrénées (2020 - ) -> Rugby Club Vannes (2025 - )
+Stade Nantais (2004 - 2013) -> Stade Rochelais (2013 - 2020) -> Section Paloise Béarn Pyrénées (2020 - 2025) -> Rugby Club Vannes (2025 - )

@@ -16,7 +16,8 @@ caps: "U20,U23('17)"
 high_school: "日川高校"
 university: "中央大学"
 scraped_url: "https://league-one.jp/player/484289"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-中国電力レッドレギュリオンズ (2021)
+中国電力レッドレギュリオンズ (2021 - )

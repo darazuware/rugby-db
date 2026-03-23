@@ -16,6 +16,7 @@ caps: "Italy (1)"
 high_school: ""
 university: ""
 scraped_url: "valorugby emilia (2019 - 2024) -> zebre parma (2024 - 2024) -> valorugby emilia (2024 - 2024) -> zebre parma (2025 - 2025) -> valorugby emilia (2025 - 2025) -> zebre parma (2025 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

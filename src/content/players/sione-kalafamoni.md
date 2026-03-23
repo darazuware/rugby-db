@@ -16,6 +16,7 @@ caps: "Tonga (33)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sione-kalafamoni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

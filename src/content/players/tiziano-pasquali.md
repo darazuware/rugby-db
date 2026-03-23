@@ -16,6 +16,7 @@ caps: "Italy (20)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tiziano-pasquali"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: "U23('17)、日本代表(6)"
 high_school: "由布高校"
 university: "天理高校"
 scraped_url: "https://league-one.jp/player/484470"
+league_one_caps: "44"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2018)
+トヨタヴェルブリッツ (2018 - )

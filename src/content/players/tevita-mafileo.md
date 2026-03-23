@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tevita-mafileo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2018 - 2019) -> Bay of Plenty Steamers (2019 - ) -> Hurricanes (2019 - ) -> North Harbour (2022)
+Chiefs (2018 - 2019) -> Bay of Plenty Steamers (2019 - 2025) -> Hurricanes (2019 - ) -> North Harbour (2022 - )

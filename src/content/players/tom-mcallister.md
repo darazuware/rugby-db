@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-mcallister"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ballynahinch rfc (2024 - ) -> ulster rugby (2025 - )
+ballynahinch rfc (2024 - 2025) -> ulster rugby (2025 - )

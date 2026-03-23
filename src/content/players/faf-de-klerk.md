@@ -16,7 +16,8 @@ caps: "South Africa (49)"
 high_school: "HoerskoolWaterkloof"
 university: ""
 scraped_url: "https://league-one.jp/player/484824"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-ピューマズ (2012 - 2015) -> Lions Rugby (2014 - 2017) -> Golden Lions (2016) -> ゴールデン・ライオンズXV (2017) -> セール・シャークス (2017 - 2022) -> 横浜キヤノンイーグルス (2022)
+ピューマズ (2012 - 2015) -> Lions Rugby (2014 - 2017) -> Golden Lions (2016) -> ゴールデン・ライオンズXV (2017) -> セール・シャークス (2017 - 2022) -> 横浜キヤノンイーグルス (2022 - )

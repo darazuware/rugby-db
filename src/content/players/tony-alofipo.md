@@ -16,7 +16,8 @@ caps: ""
 high_school: "Erindake"
 university: "College"
 scraped_url: "https://league-one.jp/player/484575"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-東京サントリーサンゴリアス (2021 - ) -> 日野レッドドルフィンズ (2025 - )
+東京サントリーサンゴリアス (2021 - 2025) -> 日野レッドドルフィンズ (2025 - )

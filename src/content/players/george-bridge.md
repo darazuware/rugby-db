@@ -16,7 +16,8 @@ caps: "New Zealand (5)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-bridge"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2016 - 2022) -> Canterbury (2019 - 2022) -> Montpellier Hérault Rugby (2022 - ) -> Western Force (2025 - )
+Crusaders (2016 - 2022) -> Canterbury (2019 - 2022) -> Montpellier Hérault Rugby (2022 - 2025) -> Western Force (2025 - )

@@ -16,6 +16,7 @@ caps: "Australia (28)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-alexander-22241"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

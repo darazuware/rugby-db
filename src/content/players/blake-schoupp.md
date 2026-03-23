@@ -16,7 +16,8 @@ caps: "Australia (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/blake-schoupp"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southern Districts (2018 - 2022) -> Brumbies (2022)
+Southern Districts (2018 - 2022) -> Brumbies (2022 - )

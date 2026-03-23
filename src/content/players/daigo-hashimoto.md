@@ -16,7 +16,8 @@ caps: "U23('16)、日本代表(3)"
 high_school: "深谷高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484373"
+league_one_caps: "70"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2016)
+東芝ブレイブルーパス東京 (2016 - )

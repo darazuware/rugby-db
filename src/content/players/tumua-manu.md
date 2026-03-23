@@ -16,6 +16,7 @@ caps: "Samoa (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tumua-manu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

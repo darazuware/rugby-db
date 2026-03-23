@@ -16,7 +16,8 @@ caps: ""
 high_school: "報徳学園高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484546"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2022)
+花園近鉄ライナーズ (2022 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mitchell-dunshea"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2016 - 2023) -> Canterbury (2019 - 2023) -> Southland Stags (2023 - ) -> Highlanders (2023)
+Crusaders (2016 - 2023) -> Canterbury (2019 - 2023) -> Southland Stags (2023 - 2025) -> Highlanders (2023 - )

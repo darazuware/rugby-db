@@ -16,7 +16,8 @@ caps: ""
 high_school: "TimaruSouthSchool"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484866"
+league_one_caps: "26"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2024)
+リコーブラックラムズ東京 (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "トンガカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/485137"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-Red Hurricanes Osaka (2022 - 2023) -> LR福岡 (2023)
+Red Hurricanes Osaka (2022 - 2023) -> LR福岡 (2023 - )

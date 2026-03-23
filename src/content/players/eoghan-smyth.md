@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/eoghan-smyth"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cork constitution rfc (2024 - ) -> munster rugby (2025 - )
+cork constitution rfc (2024 - 2025) -> munster rugby (2025 - )

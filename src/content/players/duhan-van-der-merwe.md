@@ -16,6 +16,7 @@ caps: "Scotland (44)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/duhan-van-der-merwe"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

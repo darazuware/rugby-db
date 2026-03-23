@@ -16,6 +16,7 @@ caps: "England (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fraser-dingwall"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

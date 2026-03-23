@@ -16,6 +16,7 @@ caps: ""
 high_school: "大分舞鶴高校"
 university: "青山学院大学"
 scraped_url: "https://league-one.jp/player/484983"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴

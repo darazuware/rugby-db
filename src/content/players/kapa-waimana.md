@@ -16,6 +16,7 @@ caps: ""
 high_school: "マウントアルバートグラマースクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484708"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Italy (13)"
 high_school: ""
 university: ""
 scraped_url: "rugby casale (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> rugby casale (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: ""
 high_school: "Llangawtg"
 university: "NeathPortTalbotGroups"
 scraped_url: "https://league-one.jp/player/484411"
+league_one_caps: "22"
 ---
 
 ## キャリア遍歴

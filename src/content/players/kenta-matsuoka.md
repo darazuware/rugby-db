@@ -16,7 +16,8 @@ caps: "U23('20)、日本代表(4)"
 high_school: "京都成章高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483962"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021)
+コベルコ神戸スティーラーズ (2021 - )

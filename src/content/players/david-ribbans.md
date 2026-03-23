@@ -16,6 +16,7 @@ caps: "England (8)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/david-ribbans"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

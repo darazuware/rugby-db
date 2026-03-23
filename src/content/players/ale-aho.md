@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ale-aho"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2023 - 2024) -> New South Wales Waratahs (2024 - ) -> Southland Stags (2024 - ) -> Moana Pasifika (2025 - )
+Otago (2023 - 2024) -> New South Wales Waratahs (2024 - 2025) -> Southland Stags (2024 - 2025) -> Moana Pasifika (2025 - )

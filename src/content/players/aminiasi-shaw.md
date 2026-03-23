@@ -16,6 +16,7 @@ caps: ""
 high_school: "マリストブラザーズ高高校"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484818"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴

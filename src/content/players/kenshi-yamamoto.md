@@ -16,7 +16,8 @@ caps: ""
 high_school: "姫路工業高校"
 university: "大阪体育大学"
 scraped_url: "https://league-one.jp/player/483758"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴
-S東京ベイ (2020)
+S東京ベイ (2020 - )

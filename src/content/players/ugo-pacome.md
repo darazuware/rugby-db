@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ugo-pacome"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US Colomiers (2010 - ) -> Stade Rochelais (2025 - )
+US Colomiers (2010 - 2025) -> Stade Rochelais (2025 - )

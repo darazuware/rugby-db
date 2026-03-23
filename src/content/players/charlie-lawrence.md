@@ -16,7 +16,8 @@ caps: "日本代表(9)"
 high_school: "HamiltonBoysHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484728"
+league_one_caps: "57"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2021 - 2024) -> 三菱重工相模原ダイナボアーズ (2024)
+トヨタヴェルブリッツ (2021 - 2024) -> 三菱重工相模原ダイナボアーズ (2024 - )

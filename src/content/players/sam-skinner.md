@@ -16,6 +16,7 @@ caps: "Scotland (30)"
 high_school: ""
 university: ""
 scraped_url: "exeter chiefs (2014 - 2022) -> edimbourg rugby (2022 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

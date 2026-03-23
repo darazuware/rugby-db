@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/wandile-mlaba"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-western province (2024 - ) -> stormers (2025 - )
+western province (2024 - 2025) -> stormers (2025 - )

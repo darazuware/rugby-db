@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/bryan-o-connor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-munster rugby (2017 - 2018) -> london irish (2019 - 2020) -> gloucester rugby (2020 - 2023) -> bedford blues (2023 - ) -> ulster rugby (2024 - )
+munster rugby (2017 - 2018) -> london irish (2019 - 2020) -> gloucester rugby (2020 - 2023) -> bedford blues (2023 - 2025) -> ulster rugby (2024 - )

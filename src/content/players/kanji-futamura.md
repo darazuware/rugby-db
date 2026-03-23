@@ -16,7 +16,8 @@ caps: "高校('18)、U23('20)"
 high_school: "京都成章高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483743"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2023)
+クボタスピアーズ船橋・東京ベイ (2023 - )

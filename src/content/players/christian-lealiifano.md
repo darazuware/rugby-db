@@ -16,6 +16,7 @@ caps: "オーストラリア代表(26)"
 high_school: "ピーターララーセカンダリーカレ"
 university: ""
 scraped_url: "https://league-one.jp/player/486434"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: ""
 high_school: "浪速高校"
 university: "近畿大学"
 scraped_url: "https://league-one.jp/player/484207"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴

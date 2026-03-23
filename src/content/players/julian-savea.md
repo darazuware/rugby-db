@@ -16,7 +16,8 @@ caps: "New Zealand (35)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/julian-savea"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2010 - 2023) -> Rugby Club Toulonnais (2018 - 2020) -> Wellington Lions (2019 - ) -> Moana Pasifika (2023)
+Hurricanes (2010 - 2023) -> Rugby Club Toulonnais (2018 - 2020) -> Wellington Lions (2019 - 2025) -> Moana Pasifika (2023 - )

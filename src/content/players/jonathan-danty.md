@@ -16,6 +16,7 @@ caps: "France (26)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jonathan-danty"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

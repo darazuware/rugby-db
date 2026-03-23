@@ -16,7 +16,8 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/selevasio-tolofua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Olympique Marcquois Rugby (2004 - 2007) -> Stade Toulousain (2007 - 2023) -> Rugby Club Toulonnais (2023 - ) -> ASM Clermont Auvergne (2025 - )
+Olympique Marcquois Rugby (2004 - 2007) -> Stade Toulousain (2007 - 2023) -> Rugby Club Toulonnais (2023 - 2025) -> ASM Clermont Auvergne (2025 - )

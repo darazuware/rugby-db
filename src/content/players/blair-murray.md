@@ -16,6 +16,7 @@ caps: "Wales (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/blair-murray"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

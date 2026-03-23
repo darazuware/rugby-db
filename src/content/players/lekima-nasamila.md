@@ -16,7 +16,8 @@ caps: ""
 high_school: "Leleanmemorialschool"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484852"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2023)
+横浜キヤノンイーグルス (2023 - )

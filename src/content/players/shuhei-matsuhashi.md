@@ -16,7 +16,8 @@ caps: "日本代表(8)"
 high_school: "船橋高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484900"
+league_one_caps: "53"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2016 - 2019) -> リコーブラックラムズ東京 (2019)
+サンウルブズ (2016 - 2019) -> リコーブラックラムズ東京 (2019 - )

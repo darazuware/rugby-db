@@ -16,7 +16,8 @@ caps: "XV('25)、日本代表(5)"
 high_school: "トゥポウカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484813"
+league_one_caps: "66"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2016 - 2022) -> Kobelco Kobe Steelers (2022 - ) -> Yokohama Canon Eagles (2025 - )
+横浜キヤノンイーグルス (2016 - 2022) -> Kobelco Kobe Steelers (2022 - 2025) -> Yokohama Canon Eagles (2025 - )

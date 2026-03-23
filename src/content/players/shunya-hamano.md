@@ -16,7 +16,8 @@ caps: ""
 high_school: "秋田工業高校"
 university: "法政大学"
 scraped_url: "https://league-one.jp/player/483537"
+league_one_caps: "12"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2021 - 2023) -> 浦安D-Rocks (2023 - ) -> NECグリーンロケッツ東葛 (2025 - )
+日野レッドドルフィンズ (2021 - 2023) -> 浦安D-Rocks (2023 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

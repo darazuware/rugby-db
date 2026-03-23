@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/patrick-pellegrini"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-West Harbour RFC (2020 - 2021) -> Coventry Rugby (2022 - 2024) -> North Harbour (2024 - ) -> Moana Pasifika (2024)
+West Harbour RFC (2020 - 2021) -> Coventry Rugby (2022 - 2024) -> North Harbour (2024 - 2025) -> Moana Pasifika (2024 - )

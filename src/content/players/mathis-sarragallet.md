@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mathis-sarragallet"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-SO Voiron (2007 - 2015) -> FC Grenoble Rugby (2015 - ) -> Lyon Olympique Universitaire Rugby (2025 - )
+SO Voiron (2007 - 2015) -> FC Grenoble Rugby (2015 - 2025) -> Lyon Olympique Universitaire Rugby (2025 - )

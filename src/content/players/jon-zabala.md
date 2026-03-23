@@ -16,6 +16,7 @@ caps: "Spain"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jon-zabala"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

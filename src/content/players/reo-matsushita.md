@@ -16,7 +16,8 @@ caps: ""
 high_school: "関東学院大学六浦高校"
 university: "早稲田大学"
 scraped_url: "https://league-one.jp/player/483742"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-S東京ベイ (2023)
+S東京ベイ (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "東海大仰星高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/483522"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-Urayasu D-Rocks (2025 - ) -> ブラザーズRC (2025 - )
+Urayasu D-Rocks (2025) -> ブラザーズRC (2025 - )

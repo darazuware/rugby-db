@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-robertson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2015 - 2020) -> Western Force (2020 - ) -> Oxford University (2023)
+New South Wales Waratahs (2015 - 2020) -> Western Force (2020 - ) -> Oxford University (2023 - )

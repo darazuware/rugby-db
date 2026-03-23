@@ -16,7 +16,8 @@ caps: "高校('18)、XV('25)、日本代表(6)"
 high_school: "大阪桐蔭高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/483786"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2023)
+クボタスピアーズ船橋・東京ベイ (2023 - )

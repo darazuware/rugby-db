@@ -16,7 +16,8 @@ caps: "Italy (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/federico-mori"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Zebre Parma (2019 - 2021) -> Rugby Calvisano (2019 - 2020) -> Union Bordeaux-Bègles (2021 - 2023) -> Aviron Bayonnais (2023 - )
+Rugby Calvisano (2019 - 2020) -> Zebre Parma (2019 - 2021) -> Union Bordeaux-Bègles (2021 - 2023) -> Aviron Bayonnais (2023 - )

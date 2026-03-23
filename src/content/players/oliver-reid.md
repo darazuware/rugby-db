@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/oliver-reid"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Province (2024 - ) -> Stormers (2025 - )
+Western Province (2024 - 2025) -> Stormers (2025 - )

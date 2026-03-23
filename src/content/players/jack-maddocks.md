@@ -16,6 +16,7 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-maddocks"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

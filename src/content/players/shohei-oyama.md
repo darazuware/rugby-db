@@ -16,7 +16,8 @@ caps: "U20,U23('18)、XV('25)"
 high_school: "慶應義塾高校"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/484876"
+league_one_caps: "33"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2021 - 2022) -> リコーブラックラムズ東京 (2023)
+三重ホンダヒート (2021 - 2022) -> リコーブラックラムズ東京 (2023 - )

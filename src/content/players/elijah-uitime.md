@@ -16,7 +16,8 @@ caps: ""
 high_school: "タワカレッジ"
 university: "オークランド大学"
 scraped_url: "https://league-one.jp/player/484922"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-Gpassioners (2024 - ) -> ルリーロ福岡 (2025 - )
+Gpassioners (2024 - 2025) -> ルリーロ福岡 (2025 - )

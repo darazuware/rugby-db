@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simphiwe-ngobese"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Natal Sharks (2024 - ) -> Sharks (2025 - )
+Natal Sharks (2024 - 2025) -> Sharks (2025 - )

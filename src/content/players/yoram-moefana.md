@@ -16,6 +16,7 @@ caps: "France (31)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/yoram-moefana"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

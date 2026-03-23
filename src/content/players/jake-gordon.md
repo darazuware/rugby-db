@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jake-gordon"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2016)
+New South Wales Waratahs (2016 - )

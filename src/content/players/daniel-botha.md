@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/daniel-botha"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2020 - 2022) -> New South Wales Waratahs (2022)
+Sydney University Football Club (2020 - 2022) -> New South Wales Waratahs (2022 - )

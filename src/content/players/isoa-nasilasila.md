@@ -16,7 +16,8 @@ caps: "Fiji (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/isoa-nasilasila"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southern Districts (2019 - 2021) -> North Harbour (2021 - 2022) -> Fijian Drua (2021)
+Southern Districts (2019 - 2021) -> North Harbour (2021 - 2022) -> Fijian Drua (2021 - )

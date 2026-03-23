@@ -16,7 +16,8 @@ caps: "Argentina"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/justo-piccardo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-San Isidro Club (2020 - 2024) -> Pampas XV (2024 - ) -> Montpellier Hérault Rugby (2025 - )
+San Isidro Club (2020 - 2024) -> Pampas XV (2024 - 2025) -> Montpellier Hérault Rugby (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ruben-love"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Wellington Lions (2019 - ) -> Hurricanes (2020)
+Wellington Lions (2019 - 2025) -> Hurricanes (2020 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: "Wales"
 university: ""
 scraped_url: "https://all.rugby/player/rhys-barratt"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

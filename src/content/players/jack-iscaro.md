@@ -16,7 +16,8 @@ caps: "United-States"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-iscaro"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Old Glory DC RFC (2018 - ) -> Stade Français Paris Rugby (2025 - )
+Old Glory DC RFC (2018 - 2025) -> Stade Français Paris Rugby (2025 - )

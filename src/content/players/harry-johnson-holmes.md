@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harry-johnson-holmes"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2017 - 2024) -> Western Force (2024)
+New South Wales Waratahs (2017 - 2024) -> Western Force (2024 - )

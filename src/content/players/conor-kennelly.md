@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/conor-kennelly"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-highfield rfc (2024 - ) -> munster rugby (2025 - )
+highfield rfc (2024 - 2025) -> munster rugby (2025 - )

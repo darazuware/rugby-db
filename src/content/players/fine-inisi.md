@@ -16,6 +16,7 @@ caps: "Tonga (7)"
 high_school: ""
 university: ""
 scraped_url: "north harbour (2018 - 2021) -> moana pasifika (2021 - 2021) -> north harbour (2021 - 2021) -> moana pasifika (2022 - 2022) -> north harbour (2022 - 2022) -> moana pasifika (2022 - 2023) -> north harbour (2023 - 2023) -> moana pasifika (2024 - 2024) -> north harbour (2024 - 2024) -> moana pasifika (2024 - 2025) -> dragons rfc (2025 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

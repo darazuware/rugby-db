@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/toby-macpherson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Uni-Norths Owls (2022 - 2023) -> Brumbies (2023 - ) -> Toyota Verblitz (2024)
+Uni-Norths Owls (2022 - 2023) -> Brumbies (2023 - ) -> Toyota Verblitz (2024 - )

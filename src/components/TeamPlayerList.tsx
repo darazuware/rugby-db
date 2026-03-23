@@ -340,13 +340,13 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                 return null;
                             })()}
 
-                            {/* 代表歴 */}
-                            {player.data.caps && (
+                            {/* 代表歴 / リーグワンキャップ */}
+                            {(player.data.caps || (player.data.league_one_caps && (player.data.league === 'league-one' || player.data.league === 'leagueone'))) && (
                                 <div className="inline-block px-3 py-1.5 bg-yellow-50 text-yellow-700 text-xs font-black rounded-md border border-yellow-100 italic">
                                     <span className="mr-1.5 not-italic text-base">
-                                        {FLAG_MAP[player.data.country || ''] || (player.data.caps.includes('日本') ? '🇯🇵' : '')}
+                                        {FLAG_MAP[player.data.country || ''] || (player.data.caps?.includes('日本') ? '🇯🇵' : '')}
                                     </span>
-                                    {player.data.caps}
+                                    {player.data.caps ? player.data.caps : `L1: ${player.data.league_one_caps} caps`}
                                 </div>
                             )}
 

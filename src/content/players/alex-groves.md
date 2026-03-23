@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-groves"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bristol bears (2019 - 2022) -> hartpury rfc (2021 - 2022) -> sale sharks (2021 - ) -> caldy rfc (2024 - ) -> western province (2024 - ) -> scarlets (2025 - ) -> stormers (2025 - )
+bristol bears (2019 - 2022) -> hartpury rfc (2021 - 2022) -> sale sharks (2021 - 2025) -> caldy rfc (2024 - 2025) -> western province (2024 - 2025) -> scarlets (2025 - ) -> stormers (2025 - )

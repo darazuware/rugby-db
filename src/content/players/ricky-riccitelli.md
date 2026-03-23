@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ricky-riccitelli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2015 - 2021) -> Taranaki Bulls (2019 - 2024) -> Blues (2021 - ) -> Montpellier Hérault Rugby (2025 - )
+Hurricanes (2015 - 2021) -> Taranaki Bulls (2019 - 2024) -> Blues (2021 - 2025) -> Montpellier Hérault Rugby (2025 - )

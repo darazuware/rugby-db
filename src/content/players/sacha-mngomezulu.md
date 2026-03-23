@@ -16,6 +16,7 @@ caps: ""
 high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/sacha-mngomezulu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

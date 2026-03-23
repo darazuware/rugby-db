@@ -16,7 +16,8 @@ caps: ""
 high_school: "ウェスリーカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/483937"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2022 - 2024) -> Chiefs (2022 - 2024) -> Kobelco Kobe Steelers (2024)
+Counties Manukau Steelers (2022 - 2024) -> Chiefs (2022 - 2024) -> Kobelco Kobe Steelers (2024 - )

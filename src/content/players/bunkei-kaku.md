@@ -16,7 +16,8 @@ caps: ""
 high_school: "長栄高校"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484187"
+league_one_caps: "22"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2019 - 2020) -> 静岡ブルーレヴズ (2021)
+サンウルブズ (2019 - 2020) -> 静岡ブルーレヴズ (2021 - )

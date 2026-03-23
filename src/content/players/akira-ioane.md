@@ -16,7 +16,8 @@ caps: "NZ代表(21)"
 high_school: "Auckland Grammar School"
 university: ""
 scraped_url: "https://league-one.jp/player/484538"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-ブルーズ (2014 - 2024) -> オークランド (2019 - 2024) -> 花園近鉄ライナーズ (2024)
+ブルーズ (2014 - 2024) -> オークランド (2019 - 2024) -> 花園近鉄ライナーズ (2024 - )

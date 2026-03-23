@@ -16,7 +16,8 @@ caps: ""
 high_school: "御所実業高校"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/484239"
+league_one_caps: "27"
 ---
 
 ## キャリア遍歴
-Shimizu Koto Blue Sharks (2021)
+Shimizu Koto Blue Sharks (2021 - )

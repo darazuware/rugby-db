@@ -16,6 +16,7 @@ caps: "NZ代表(18)"
 high_school: "Napier Boys highschool"
 university: "University of Otago"
 scraped_url: "https://league-one.jp/player/486457"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴

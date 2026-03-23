@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "加治木高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/483710"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-Kyushu Kyuden Voltex (2013)
+Kyushu Kyuden Voltex (2013 - )

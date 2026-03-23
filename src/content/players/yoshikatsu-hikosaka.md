@@ -16,7 +16,8 @@ caps: "U20('11)"
 high_school: "中部大春日丘高校"
 university: "筑波大学"
 scraped_url: "https://league-one.jp/player/484468"
+league_one_caps: "65"
 ---
 
 ## キャリア遍歴
-Toyota Verblitz (2013)
+Toyota Verblitz (2013 - )

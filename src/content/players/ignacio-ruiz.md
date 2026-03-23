@@ -16,6 +16,7 @@ caps: "Argentina (6)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ignacio-ruiz"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

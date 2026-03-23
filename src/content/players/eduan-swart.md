@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/eduan-swart"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-pumas (2020 - ) -> scarlets (2023 - 2024) -> sharks (2025 - )
+pumas (2020 - 2025) -> scarlets (2023 - 2024) -> sharks (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cadeyrn-neville"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2011 - 2015) -> Queensland Reds (2015 - 2017) -> Toyota Industries Shuttles Aichi (2017 - 2020) -> Brumbies (2019)
+Melbourne Rebels (2011 - 2015) -> Queensland Reds (2015 - 2017) -> Toyota Industries Shuttles Aichi (2017 - 2020) -> Brumbies (2019 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/semi-lagivala"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stade Montois Rugby Pro (2022 - ) -> Stade Rochelais (2025 - )
+Stade Montois Rugby Pro (2022 - 2025) -> Stade Rochelais (2025 - )

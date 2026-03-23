@@ -16,7 +16,8 @@ caps: ""
 high_school: "トゥポウカレッジ"
 university: "埼玉工業大学"
 scraped_url: "https://league-one.jp/player/484893"
+league_one_caps: "28"
 ---
 
 ## キャリア遍歴
-BlackRams Tokyo (2012)
+BlackRams Tokyo (2012 - )

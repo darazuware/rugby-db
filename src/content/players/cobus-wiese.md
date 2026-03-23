@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cobus-wiese"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

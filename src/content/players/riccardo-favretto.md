@@ -16,6 +16,7 @@ caps: "Italy (4)"
 high_school: ""
 university: ""
 scraped_url: "mogliano veneto rugby (2019 - 2019) -> benetton rugby trévise (2019 - 2019) -> mogliano veneto rugby (2020 - 2020) -> benetton rugby trévise (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

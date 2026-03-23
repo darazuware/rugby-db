@@ -16,6 +16,7 @@ caps: ""
 high_school: "Tonga"
 university: ""
 scraped_url: "https://all.rugby/player/toby-faletau"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

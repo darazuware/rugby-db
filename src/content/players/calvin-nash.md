@@ -16,6 +16,7 @@ caps: "Ireland (10)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/calvin-nash"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

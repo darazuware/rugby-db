@@ -16,6 +16,7 @@ caps: "Australia (18)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jordan-uelese"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

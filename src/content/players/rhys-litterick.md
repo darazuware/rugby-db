@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rhys-litterick"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-worthing rfc (2021 - 2022) -> harlequins (2021 - 2023) -> london scottish (2022 - 2023) -> cardiff rugby (2023 - ) -> edimbourg rugby (2025 - )
+worthing rfc (2021 - 2022) -> harlequins (2021 - 2023) -> london scottish (2022 - 2023) -> cardiff rugby (2023 - 2025) -> edimbourg rugby (2025 - )

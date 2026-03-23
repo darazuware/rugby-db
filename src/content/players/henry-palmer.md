@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/henry-palmer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2024)
+Western Force (2024 - )

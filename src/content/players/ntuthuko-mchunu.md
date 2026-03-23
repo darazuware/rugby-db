@@ -16,7 +16,8 @@ caps: ""
 high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/ntuthuko-mchunu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-sharks (2021 - ) -> stormers (2025 - )
+sharks (2021 - 2025) -> stormers (2025 - )

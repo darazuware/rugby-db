@@ -16,6 +16,7 @@ caps: "Argentina (11)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mateo-carreras"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

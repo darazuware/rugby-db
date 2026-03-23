@@ -16,7 +16,8 @@ caps: "New Zealand (27)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tyrel-lomax"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2016 - 2017) -> Highlanders (2017 - 2019) -> Tasman Mako (2019 - 2021) -> Hurricanes (2019)
+Melbourne Rebels (2016 - 2017) -> Highlanders (2017 - 2019) -> Tasman Mako (2019 - 2021) -> Hurricanes (2019 - )

@@ -16,7 +16,8 @@ caps: "Wales (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/wyn-jones"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Scarlets (2014 - 2024) -> Harlequins (2024 - ) -> Dragons RFC (2025 - )
+Scarlets (2014 - 2024) -> Harlequins (2024 - 2025) -> Dragons RFC (2025 - )

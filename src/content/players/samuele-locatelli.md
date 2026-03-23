@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/samuele-locatelli"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-rugby viadana 1970 (2021 - ) -> zebre parma (2024 - )
+rugby viadana 1970 (2021 - 2025) -> zebre parma (2024 - )

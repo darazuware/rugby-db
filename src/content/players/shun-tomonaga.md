@@ -16,7 +16,8 @@ caps: "セブンズ日本(12)"
 high_school: "長崎北陽台高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484592"
+league_one_caps: "26"
 ---
 
 ## キャリア遍歴
-日野RD (2019)
+日野RD (2019 - )

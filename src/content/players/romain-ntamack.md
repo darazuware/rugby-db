@@ -16,6 +16,7 @@ caps: "France (37)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/romain-ntamack"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

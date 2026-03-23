@@ -16,6 +16,7 @@ caps: "Ireland (24)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jack-crowley"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

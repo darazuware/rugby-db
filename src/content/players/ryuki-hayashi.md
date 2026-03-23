@@ -16,7 +16,8 @@ caps: ""
 high_school: "日本大学高校"
 university: "日本大学"
 scraped_url: "https://league-one.jp/player/484759"
+league_one_caps: "10"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2023 - ) -> ヤクルトレビンズ戸田 (2025 - )
+東芝ブレイブルーパス東京 (2023 - 2025) -> ヤクルトレビンズ戸田 (2025 - )

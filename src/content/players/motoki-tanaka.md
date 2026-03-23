@@ -16,7 +16,8 @@ caps: ""
 high_school: "オタゴボーイズハイスクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484378"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2021 - 2023) -> 東芝ブレイブルーパス東京 (2023)
+日野レッドドルフィンズ (2021 - 2023) -> 東芝ブレイブルーパス東京 (2023 - )

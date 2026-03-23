@@ -16,6 +16,7 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/abraham-papali-i"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

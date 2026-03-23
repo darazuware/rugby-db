@@ -16,6 +16,7 @@ caps: "Ireland (75)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/andrew-porter"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

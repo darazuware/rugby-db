@@ -16,6 +16,7 @@ caps: "Argentina"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/facundo-bosch"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

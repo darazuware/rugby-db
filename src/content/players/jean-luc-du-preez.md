@@ -16,7 +16,8 @@ caps: "South Africa"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jean-luc-du-preez"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sharks (2015 - 2019) -> Sale Sharks (2018 - ) -> Union Bordeaux-Bègles (2025 - )
+Sharks (2015 - 2019) -> Sale Sharks (2018 - 2025) -> Union Bordeaux-Bègles (2025 - )

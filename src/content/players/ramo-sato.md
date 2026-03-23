@@ -16,7 +16,8 @@ caps: ""
 high_school: "つるぎ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484649"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴
-マツダスカイアクティブズ広島 (2021)
+マツダスカイアクティブズ広島 (2021 - )

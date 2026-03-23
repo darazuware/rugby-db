@@ -16,7 +16,8 @@ caps: ""
 high_school: "ランギトトカレッジ"
 university: "オークランド大学"
 scraped_url: "https://league-one.jp/player/484716"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-East Coast Bays RFC (2024 - ) -> 三菱重工相模原ダイナボアーズ (2025 - )
+East Coast Bays RFC (2024 - 2025) -> 三菱重工相模原ダイナボアーズ (2025 - )

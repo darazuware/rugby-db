@@ -16,7 +16,8 @@ caps: ""
 high_school: "流通経済大学附属柏高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484743"
+league_one_caps: "27"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2021)
+三菱重工相模原ダイナボアーズ (2021 - )

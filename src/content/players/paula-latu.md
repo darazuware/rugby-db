@@ -16,7 +16,8 @@ caps: "Tonga (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paula-latu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Southland Stags (2020 - ) -> Dragons RFC (2024 - ) -> Moana Pasifika (2025 - )
+Southland Stags (2020 - 2025) -> Dragons RFC (2024 - 2025) -> Moana Pasifika (2025 - )

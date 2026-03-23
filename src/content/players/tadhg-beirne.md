@@ -16,6 +16,7 @@ caps: "Ireland (61)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tadhg-beirne"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

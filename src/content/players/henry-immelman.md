@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/henry-immelman"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-free state cheetahs (2015 - 2016) -> montpellier hérault rugby (2016 - 2021) -> edimbourg rugby (2021 - 2023) -> bulls (2023 - ) -> sharks (2024 - )
+free state cheetahs (2015 - 2016) -> montpellier hérault rugby (2016 - 2021) -> edimbourg rugby (2021 - 2023) -> bulls (2023 - ) -> sharks (2024 - 2025)

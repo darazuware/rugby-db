@@ -16,7 +16,8 @@ caps: ""
 high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/nicolas-roger-farias"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cafeteros pro (2020 - 2021) -> club atlético peñarol (2021 - 2022) -> cus torino rugby (2022 - 2023) -> selknam (2023 - 2024) -> tarucas (2024 - ) -> benetton rugby trévise (2025 - )
+cafeteros pro (2020 - 2021) -> club atlético peñarol (2021 - 2022) -> cus torino rugby (2022 - 2023) -> selknam (2023 - 2024) -> tarucas (2024 - 2025) -> benetton rugby trévise (2025 - )

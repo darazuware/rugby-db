@@ -16,7 +16,8 @@ caps: ""
 high_school: "ロトルアボーイズハイスクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484667"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2021 - ) -> 三重ホンダヒート (2025 - )
+コベルコ神戸スティーラーズ (2021 - 2025) -> 三重ホンダヒート (2025 - )

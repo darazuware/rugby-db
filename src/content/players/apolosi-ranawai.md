@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/apolosi-ranawai"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Northern Suburbs RFC (2024 - ) -> New South Wales Waratahs (2025 - )
+Northern Suburbs RFC (2024 - 2025) -> New South Wales Waratahs (2025 - )

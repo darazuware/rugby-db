@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mills-sanerivi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Taranaki Bulls (2020 - 2023) -> New England Free Jacks (2021 - 2023) -> Chiefs (2023 - 2024) -> Auckland (2023 - ) -> Moana Pasifika (2024)
+Taranaki Bulls (2020 - 2023) -> New England Free Jacks (2021 - 2023) -> Chiefs (2023 - 2024) -> Auckland (2023 - 2025) -> Moana Pasifika (2024 - )

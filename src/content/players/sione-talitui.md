@@ -16,6 +16,7 @@ caps: ""
 high_school: "Auckland Grammar School"
 university: ""
 scraped_url: "https://league-one.jp/player/485527"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴

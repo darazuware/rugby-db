@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/macca-springer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2020 - ) -> Crusaders (2022)
+Tasman Mako (2020 - 2025) -> Crusaders (2022 - )

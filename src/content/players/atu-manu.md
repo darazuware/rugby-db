@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/atu-manu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Viadana 1970 (2017 - 2018) -> Stade Français Paris Rugby (2018 - 2022) -> Rugby Club Massy Essonne (2018 - 2019) -> US Carcassonne (2019 - 2020) -> FC Grenoble Rugby (2021 - 2024) -> USON Nevers Rugby (2024 - ) -> Castres Olympique (2025 - )
+Rugby Viadana 1970 (2017 - 2018) -> Rugby Club Massy Essonne (2018 - 2019) -> Stade Français Paris Rugby (2018 - 2022) -> US Carcassonne (2019 - 2020) -> FC Grenoble Rugby (2021 - 2024) -> USON Nevers Rugby (2024 - ) -> Castres Olympique (2025 - )

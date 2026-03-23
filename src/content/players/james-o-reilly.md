@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-o-reilly"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2016 - 2024) -> Wellington Lions (2018 - ) -> Rugby Club Vannes (2025 - )
+Hurricanes (2016 - 2024) -> Wellington Lions (2018 - 2025) -> Rugby Club Vannes (2025 - )

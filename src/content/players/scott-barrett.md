@@ -16,7 +16,8 @@ caps: "New Zealand (62)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/scott-barrett"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Crusaders (2013 - ) -> Taranaki Bulls (2020)
+Crusaders (2013 - ) -> Taranaki Bulls (2020 - )

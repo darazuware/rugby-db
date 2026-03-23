@@ -16,7 +16,8 @@ caps: "Australia (35)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rob-valetini"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2017)
+Brumbies (2017 - )

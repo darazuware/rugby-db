@@ -16,7 +16,8 @@ caps: "France"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paul-mallez"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-RC Pont-à-Mousson (2008 - 2018) -> ABCD XV (2018 - 2019) -> Stade Toulousain (2019 - ) -> Provence Rugby (2023 - )
+RC Pont-à-Mousson (2008 - 2018) -> ABCD XV (2018 - 2019) -> Stade Toulousain (2019 - ) -> Provence Rugby (2023 - 2025)

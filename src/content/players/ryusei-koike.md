@@ -16,7 +16,8 @@ caps: "U20('19)、U23('19,'20)"
 high_school: "東京高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484458"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2022)
+トヨタヴェルブリッツ (2022 - )

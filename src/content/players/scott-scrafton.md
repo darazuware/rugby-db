@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/scott-scrafton"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-blues (2015 - 2019) -> hurricanes (2019 - 2022) -> auckland (2019 - 2021) -> benetton rugby trévise (2022 - )
+blues (2015 - 2019) -> auckland (2019 - 2021) -> hurricanes (2019 - 2022) -> benetton rugby trévise (2022 - )

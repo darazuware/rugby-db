@@ -16,6 +16,7 @@ caps: "Italy (17)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gianmarco-lucchesi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

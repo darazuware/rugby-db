@@ -16,7 +16,8 @@ caps: "U20('16)、セブンズ日本(1)"
 high_school: "東福岡高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484554"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2022)
+花園近鉄ライナーズ (2022 - )

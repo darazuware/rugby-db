@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tuidraki-samusamuvodre"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Naitasiri Highlanders Rugby (2019 - 2020) -> New England Free Jacks (2020 - 2021) -> Fijian Drua (2021)
+Naitasiri Highlanders Rugby (2019 - 2020) -> New England Free Jacks (2020 - 2021) -> Fijian Drua (2021 - )

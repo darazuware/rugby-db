@@ -16,7 +16,8 @@ caps: ""
 high_school: "クライストチャーチボーイス"
 university: ""
 scraped_url: "https://league-one.jp/player/483929"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴
-Hawke's Bay Magpies (2008 - 2021) -> Auckland (2010 - 2011) -> Hurricanes (2013 - 2014) -> Highlanders (2015 - 2021) -> Saitama Wild Knights (2018 - 2019) -> Green Rockets Tokatsu (2022 - ) -> コベルコ神戸スティーラーズ (2025 - )
+Hawke's Bay Magpies (2008 - 2021) -> Auckland (2010 - 2011) -> Hurricanes (2013 - 2014) -> Highlanders (2015 - 2021) -> Saitama Wild Knights (2018 - 2019) -> Green Rockets Tokatsu (2022 - 2025) -> コベルコ神戸スティーラーズ (2025 - )

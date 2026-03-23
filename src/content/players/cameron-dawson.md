@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-dawson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-free state cheetahs (2018 - 2019) -> southern kings (2019 - 2020) -> central cheetahs (2023 - ) -> free state cheetahs (2024 - ) -> sharks (2025 - )
+free state cheetahs (2018 - 2019) -> southern kings (2019 - 2020) -> central cheetahs (2023 - ) -> free state cheetahs (2024 - 2025) -> sharks (2025 - )

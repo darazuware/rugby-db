@@ -16,7 +16,8 @@ caps: ""
 high_school: "常翔学園高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484218"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2023)
+清水建設江東ブルーシャークス (2023 - )

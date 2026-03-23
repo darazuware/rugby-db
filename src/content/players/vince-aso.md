@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントピーターズ"
 university: "ビクトリア大学"
 scraped_url: "https://league-one.jp/player/484048"
+league_one_caps: "59"
 ---
 
 ## キャリア遍歴
-Auckland (2013 - 2017) -> Hurricanes (2016 - 2021) -> Wellington Lions (2019 - 2021) -> 埼玉WK (2021)
+Auckland (2013 - 2017) -> Hurricanes (2016 - 2021) -> Wellington Lions (2019 - 2021) -> 埼玉WK (2021 - )

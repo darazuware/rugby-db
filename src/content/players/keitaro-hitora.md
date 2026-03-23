@@ -16,7 +16,8 @@ caps: ""
 high_school: "東海大仰星高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484561"
+league_one_caps: "41"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2021)
+花園近鉄ライナーズ (2021 - )

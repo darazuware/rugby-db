@@ -16,7 +16,8 @@ caps: ""
 high_school: "保善高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484719"
+league_one_caps: "54"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2020 - ) -> 三菱重工相模原ダイナボアーズ (2025 - )
+NECグリーンロケッツ東葛 (2020 - 2025) -> 三菱重工相模原ダイナボアーズ (2025 - )

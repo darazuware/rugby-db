@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪桐蔭高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484618"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-マツダスカイアクティブズ広島 (2024)
+マツダスカイアクティブズ広島 (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/xavier-saifoloi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2022 - ) -> Crusaders (2024)
+Waikato Mooloos (2022 - 2025) -> Crusaders (2024 - )

@@ -16,6 +16,7 @@ caps: "XV('25)"
 high_school: "大阪朝鮮高級学校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484860"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴

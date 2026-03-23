@@ -16,7 +16,8 @@ caps: "セブンズ日本(2)"
 high_school: "トゥポウカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484674"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> 浦安D-Rocks (2022 - 2024) -> 三重ホンダヒート (2024)
+NTTドコモレッドハリケーンズ大阪 (2021 - 2022) -> 浦安D-Rocks (2022 - 2024) -> 三重ホンダヒート (2024 - )

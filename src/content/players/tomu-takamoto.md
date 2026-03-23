@@ -16,7 +16,8 @@ caps: "XV('25)、セブンズ日本(2)"
 high_school: "東福岡高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484906"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2024)
+リコーブラックラムズ東京 (2024 - )

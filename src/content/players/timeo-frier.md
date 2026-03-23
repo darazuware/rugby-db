@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/timeo-frier"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-CS Bourgoin Jallieu Rugby (2012 - ) -> ASM Clermont Auvergne (2025 - )
+CS Bourgoin Jallieu Rugby (2012 - 2025) -> ASM Clermont Auvergne (2025 - )

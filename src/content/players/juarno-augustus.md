@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/juarno-augustus"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Stormers (2016 - 2021) -> Northampton Saints (2021 - ) -> Ulster Rugby (2025 - )
+Stormers (2016 - 2021) -> Northampton Saints (2021 - 2025) -> Ulster Rugby (2025 - )

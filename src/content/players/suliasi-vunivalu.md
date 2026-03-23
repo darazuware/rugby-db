@@ -16,6 +16,7 @@ caps: "Australia (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/suliasi-vunivalu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

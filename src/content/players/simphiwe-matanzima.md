@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/simphiwe-matanzima"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bulls (2017 - ) -> blue bulls (2020 - 2021) -> sharks (2025 - )
+bulls (2017 - 2025) -> blue bulls (2020 - 2021) -> sharks (2025 - )

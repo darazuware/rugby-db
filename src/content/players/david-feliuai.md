@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/david-feliuai"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-CSM Baia Mare (2019 - 2021) -> Sunnybank Rugby (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> Brumbies (2024)
+CSM Baia Mare (2019 - 2021) -> Sunnybank Rugby (2021 - 2022) -> Melbourne Rebels (2022 - 2024) -> Brumbies (2024 - )

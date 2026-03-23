@@ -16,6 +16,7 @@ caps: ""
 high_school: "New Zealand"
 university: ""
 scraped_url: "https://all.rugby/player/josh-ioane"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

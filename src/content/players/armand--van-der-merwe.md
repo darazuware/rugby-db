@@ -16,6 +16,7 @@ caps: ""
 high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/armand--van-der-merwe"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

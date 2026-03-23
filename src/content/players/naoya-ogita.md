@@ -16,6 +16,7 @@ caps: "セブンズ日本(6)"
 high_school: "学習院高等科高校"
 university: "学習院大学"
 scraped_url: "https://league-one.jp/player/483542"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

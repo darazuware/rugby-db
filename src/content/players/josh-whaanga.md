@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josh-whaanga"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2022 - ) -> Highlanders (2023)
+Otago (2022 - 2025) -> Highlanders (2023 - )

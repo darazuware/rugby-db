@@ -16,7 +16,8 @@ caps: ""
 high_school: "オタゴボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/484095"
+league_one_caps: "24"
 ---
 
 ## キャリア遍歴
-狭山セコムラガッツ (2024)
+狭山セコムラガッツ (2024 - )

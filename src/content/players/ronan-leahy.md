@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ronan-leahy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Sydney University Football Club (2022 - 2023) -> Western Force (2023)
+Sydney University Football Club (2022 - 2023) -> Western Force (2023 - )

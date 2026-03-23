@@ -16,7 +16,8 @@ caps: "U20('17)、XV('25)"
 high_school: "札幌山の手高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/485501"
+league_one_caps: "62"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

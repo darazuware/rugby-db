@@ -16,7 +16,8 @@ caps: ""
 high_school: "KelstonBoysHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484212"
+league_one_caps: "19"
 ---
 
 ## キャリア遍歴
-ブルーズ (2022 - 2023) -> 清水建設江東ブルーシャークス (2024)
+ブルーズ (2022 - 2023) -> 清水建設江東ブルーシャークス (2024 - )

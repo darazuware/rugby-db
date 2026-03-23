@@ -16,7 +16,8 @@ caps: "日本代表(16)"
 high_school: "江の川高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484465"
+league_one_caps: "51"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2015 - 2019) -> トヨタヴェルブリッツ (2019)
+サンウルブズ (2015 - 2019) -> トヨタヴェルブリッツ (2019 - )

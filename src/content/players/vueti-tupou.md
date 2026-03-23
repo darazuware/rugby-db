@@ -16,7 +16,8 @@ caps: ""
 high_school: "LeleanMemorialSchool"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484199"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2023)
+静岡ブルーレヴズ (2023 - )

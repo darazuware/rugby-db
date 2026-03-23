@@ -16,7 +16,8 @@ caps: ""
 high_school: "國學院大學久我山高校"
 university: "オタゴ大学"
 scraped_url: "https://league-one.jp/player/484659"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2021 - 2023) -> Hamilton Old Boys (2023 - 2024) -> AZ-COM丸和マモタローズ (2024 - ) -> 三重ホンダヒート (2025 - )
+日野レッドドルフィンズ (2021 - 2023) -> Hamilton Old Boys (2023 - 2024) -> AZ-COM丸和マモタローズ (2024 - 2025) -> 三重ホンダヒート (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/massimo-de-lutiis"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Wests Lions (2022 - 2023) -> Queensland Reds (2023)
+Wests Lions (2022 - 2023) -> Queensland Reds (2023 - )

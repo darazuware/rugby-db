@@ -16,6 +16,7 @@ caps: "England (21)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/lewis-ludlam"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

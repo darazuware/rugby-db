@@ -16,6 +16,7 @@ caps: "South Africa (62)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/bongi-mbonambi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

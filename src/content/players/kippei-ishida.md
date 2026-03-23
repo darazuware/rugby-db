@@ -16,7 +16,8 @@ caps: "セブンズ日本(20)、日本代表(9)"
 high_school: "常翔学園高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484853"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2024)
+横浜キヤノンイーグルス (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hassiem-pead"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-golden lions (2023 - ) -> lions rugby (2025 - )
+golden lions (2023 - 2025) -> lions rugby (2025 - )

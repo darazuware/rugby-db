@@ -16,6 +16,7 @@ caps: "Squad caps (407)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/adam-coleman"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

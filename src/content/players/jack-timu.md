@@ -16,7 +16,8 @@ caps: ""
 high_school: "JohnMcGlashanCollege"
 university: "OtagoUniversity"
 scraped_url: "https://league-one.jp/player/484158"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2024)
+静岡ブルーレヴズ (2024 - )

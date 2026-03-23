@@ -16,7 +16,8 @@ caps: "高校('18)、U20('19)"
 high_school: "報徳学園高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/483944"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2024)
+コベルコ神戸スティーラーズ (2024 - )

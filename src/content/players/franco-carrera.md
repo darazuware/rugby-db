@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/franco-carrera"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-pampas xv (2022 - ) -> cobras brasil xv (2023 - 2024) -> zebre parma (2025 - )
+pampas xv (2022 - 2025) -> cobras brasil xv (2023 - 2024) -> zebre parma (2025 - )

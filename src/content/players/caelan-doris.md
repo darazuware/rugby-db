@@ -16,6 +16,7 @@ caps: "Ireland (51)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/caelan-doris"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

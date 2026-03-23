@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/angelo-davids"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-stormers (2019 - ) -> af. sud 7's (2020 - 2021) -> lions rugby (2025 - )
+stormers (2019 - 2025) -> af. sud 7's (2020 - 2021) -> lions rugby (2025 - )

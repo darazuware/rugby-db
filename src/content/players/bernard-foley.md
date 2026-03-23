@@ -16,7 +16,8 @@ caps: "オーストラリア代表(76)"
 high_school: "Redfield College"
 university: "UniversityofSydney（シドニー大"
 scraped_url: "https://league-one.jp/player/483761"
+league_one_caps: "65"
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2011 - 2019) -> シドニー・スターズ (2014) -> BlackRams Tokyo (2015 - 2016) -> NSWカウンティ (2016) -> S東京ベイ (2020)
+New South Wales Waratahs (2011 - 2019) -> シドニー・スターズ (2014) -> BlackRams Tokyo (2015 - 2016) -> NSWカウンティ (2016) -> S東京ベイ (2020 - )

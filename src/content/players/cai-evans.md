@@ -16,6 +16,7 @@ caps: "Wales (1)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cai-evans"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

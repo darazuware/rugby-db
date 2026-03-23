@@ -16,6 +16,7 @@ caps: ""
 high_school: "DeLaSalleCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/483474"
+league_one_caps: "5"
 ---
 
 ## キャリア遍歴

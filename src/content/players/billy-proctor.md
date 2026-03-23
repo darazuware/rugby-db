@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/billy-proctor"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2018 - ) -> Wellington Lions (2019)
+Hurricanes (2018 - ) -> Wellington Lions (2019 - )

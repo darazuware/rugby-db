@@ -16,7 +16,8 @@ caps: ""
 high_school: "修猷館高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484953"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-横浜キヤノンイーグルス (2021 - 2022) -> ルリーロ福岡 (2024)
+横浜キヤノンイーグルス (2021 - 2022) -> ルリーロ福岡 (2024 - )

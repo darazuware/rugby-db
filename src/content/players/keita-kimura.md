@@ -16,7 +16,8 @@ caps: ""
 high_school: "筑紫台高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/483538"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-ルリーロ福岡 (2024 - ) -> NECグリーンロケッツ東葛 (2025 - )
+ルリーロ福岡 (2024 - 2025) -> NECグリーンロケッツ東葛 (2025 - )

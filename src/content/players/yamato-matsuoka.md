@@ -16,7 +16,8 @@ caps: ""
 high_school: "甲南高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484426"
+league_one_caps: "30"
 ---
 
 ## キャリア遍歴
-豊田自動織機シャトルズ愛知 (2021)
+豊田自動織機シャトルズ愛知 (2021 - )

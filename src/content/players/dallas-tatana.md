@@ -16,7 +16,8 @@ caps: ""
 high_school: "札幌山の手高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484494"
+league_one_caps: "37"
 ---
 
 ## キャリア遍歴
-Kamaishi Seawaves (2015 - 2019) -> 宗像サニックスブルース (2019 - 2022) -> 日本製鉄釜石シーウェイブス (2022)
+Kamaishi Seawaves (2015 - 2019) -> 宗像サニックスブルース (2019 - 2022) -> 日本製鉄釜石シーウェイブス (2022 - )

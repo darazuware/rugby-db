@@ -16,6 +16,7 @@ caps: "Italy (42)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/paolo-garbisi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

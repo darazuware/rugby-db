@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tim-ryan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brothers Rugby Club (2022 - 2023) -> Queensland Reds (2023)
+Brothers Rugby Club (2022 - 2023) -> Queensland Reds (2023 - )

@@ -16,6 +16,7 @@ caps: "England (18)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-mitchell"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

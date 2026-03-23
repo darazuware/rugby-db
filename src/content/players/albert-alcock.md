@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/albert-alcock"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-West Harbour RFC (2021 - 2024) -> Western Force (2024)
+West Harbour RFC (2021 - 2024) -> Western Force (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "明治大学附属八王子高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484757"
+league_one_caps: "12"
 ---
 
 ## キャリア遍歴
-三菱重工相模原ダイナボアーズ (2024)
+三菱重工相模原ダイナボアーズ (2024 - )

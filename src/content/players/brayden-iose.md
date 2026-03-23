@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/brayden-iose"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Manawatu Turbos (2016 - ) -> Hurricanes (2020)
+Manawatu Turbos (2016 - 2025) -> Hurricanes (2020 - )

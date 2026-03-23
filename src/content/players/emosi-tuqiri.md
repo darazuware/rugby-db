@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/emosi-tuqiri"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-GPS Rugby Club (2019 - 2022) -> Fijian Drua (2022 - ) -> Counties Manukau Steelers (2024)
+GPS Rugby Club (2019 - 2022) -> Fijian Drua (2022 - ) -> Counties Manukau Steelers (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "Otago boys highschool"
 university: "Wesleycollege"
 scraped_url: "https://league-one.jp/player/483516"
+league_one_caps: "35"
 ---
 
 ## キャリア遍歴
-オタゴ (2014 - 2019) -> ハイランダーズ (2016 - 2017) -> 浦安D-Rocks (2019)
+オタゴ (2014 - 2019) -> ハイランダーズ (2016 - 2017) -> 浦安D-Rocks (2019 - )

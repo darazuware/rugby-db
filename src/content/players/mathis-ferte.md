@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mathis-ferte"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-US Luzechoise (2008 - 2014) -> Cahors (2014 - 2018) -> CA Brive Corrèze Limousin (2018 - ) -> Rugby Club Toulonnais (2025 - )
+US Luzechoise (2008 - 2014) -> Cahors (2014 - 2018) -> CA Brive Corrèze Limousin (2018 - 2025) -> Rugby Club Toulonnais (2025 - )

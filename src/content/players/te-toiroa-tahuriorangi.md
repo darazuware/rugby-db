@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/te-toiroa-tahuriorangi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2015 - 2017) -> Chiefs (2017 - ) -> Bay of Plenty Steamers (2019 - 2024) -> Waikato Mooloos (2020 - 2021) -> Crusaders (2021)
+Hurricanes (2015 - 2017) -> Chiefs (2017 - ) -> Bay of Plenty Steamers (2019 - 2024) -> Waikato Mooloos (2020 - 2021) -> Crusaders (2021 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "トゥポウカレッジ"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483771"
+league_one_caps: "48"
 ---
 
 ## キャリア遍歴
-サンウルブズ (2017 - 2019) -> クボタスピアーズ船橋・東京ベイ (2019)
+サンウルブズ (2017 - 2019) -> クボタスピアーズ船橋・東京ベイ (2019 - )

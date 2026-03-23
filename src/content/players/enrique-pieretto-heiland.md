@@ -16,7 +16,8 @@ caps: ""
 high_school: "Argentina"
 university: ""
 scraped_url: "https://all.rugby/player/enrique-pieretto-heiland"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-jaguares (2015 - 2019) -> exeter chiefs (2019 - 2020) -> glasgow warriors (2019 - 2024) -> new south wales waratahs (2023 - 2024) -> provence rugby (2024 - ) -> zebre parma (2025 - )
+jaguares (2015 - 2019) -> exeter chiefs (2019 - 2020) -> glasgow warriors (2019 - 2024) -> new south wales waratahs (2023 - 2024) -> provence rugby (2024 - 2025) -> zebre parma (2025 - )

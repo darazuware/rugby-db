@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪朝鮮高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484464"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2021)
+トヨタヴェルブリッツ (2021 - )

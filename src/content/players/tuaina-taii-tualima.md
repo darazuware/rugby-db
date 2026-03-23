@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tuaina-taii-tualima"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brisbane City (2018 - 2019) -> Queensland Reds (2019 - 2022) -> Melbourne Rebels (2022 - 2024) -> Auckland (2023 - 2024) -> Brumbies (2024)
+Brisbane City (2018 - 2019) -> Queensland Reds (2019 - 2022) -> Melbourne Rebels (2022 - 2024) -> Auckland (2023 - 2024) -> Brumbies (2024 - )

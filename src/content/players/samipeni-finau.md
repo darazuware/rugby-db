@@ -16,7 +16,8 @@ caps: "Tonga"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/samipeni-finau"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2018 - ) -> Chiefs (2020)
+Waikato Mooloos (2018 - 2025) -> Chiefs (2020 - )

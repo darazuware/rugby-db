@@ -16,6 +16,7 @@ caps: "Ireland (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gus-mccarthy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

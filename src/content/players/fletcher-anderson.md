@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fletcher-anderson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2021 - ) -> Crusaders (2022 - ) -> Scarlets (2025 - )
+Tasman Mako (2021 - 2025) -> Crusaders (2022 - 2025) -> Scarlets (2025 - )

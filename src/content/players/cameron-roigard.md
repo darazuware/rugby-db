@@ -16,7 +16,8 @@ caps: "New Zealand (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-roigard"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Counties Manukau Steelers (2019 - ) -> Hurricanes (2020)
+Counties Manukau Steelers (2019 - 2025) -> Hurricanes (2020 - )

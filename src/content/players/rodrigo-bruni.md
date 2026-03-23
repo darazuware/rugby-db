@@ -16,6 +16,7 @@ caps: "Argentina (21)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/rodrigo-bruni"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

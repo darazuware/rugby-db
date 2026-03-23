@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ollie-norris"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Waikato Mooloos (2018 - ) -> Chiefs (2019)
+Waikato Mooloos (2018 - 2025) -> Chiefs (2019 - )

@@ -16,7 +16,8 @@ caps: "日本代表(9)"
 high_school: "スコッツ"
 university: ""
 scraped_url: "https://league-one.jp/player/484170"
+league_one_caps: "63"
 ---
 
 ## キャリア遍歴
-ウェリントン (2015 - 2018) -> 静岡ブルーレヴズ (2019)
+ウェリントン (2015 - 2018) -> 静岡ブルーレヴズ (2019 - )

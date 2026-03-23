@@ -16,6 +16,7 @@ caps: "Ireland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/david-heffernan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

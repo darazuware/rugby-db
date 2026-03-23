@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sione-ahio"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2020 - 2024) -> Chiefs (2023)
+Auckland (2020 - 2024) -> Chiefs (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "AranmoreCatholicCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/484658"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-ウェスタン・フォース (2020 - 2024) -> オークランド (2021 - 2022) -> マツダスカイアクティブズ広島 (2023)
+ウェスタン・フォース (2020 - 2024) -> オークランド (2021 - 2022) -> マツダスカイアクティブズ広島 (2023 - )

@@ -16,6 +16,7 @@ caps: "Ireland (10)"
 high_school: ""
 university: ""
 scraped_url: "connacht rugby (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: ""
 high_school: "セントバーナード"
 university: "ビクトリア大学"
 scraped_url: "https://league-one.jp/player/484104"
+league_one_caps: "34"
 ---
 
 ## キャリア遍歴

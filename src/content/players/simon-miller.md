@@ -16,7 +16,8 @@ caps: ""
 high_school: "St.AlbansCollege"
 university: ""
 scraped_url: "https://league-one.jp/player/485057"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-ウェスタン・プロヴィンス (2021) -> Stormers (2021 - 2023) -> Natal Sharks (2023 - 2024) -> Shizuoka Blue Revs (2024)
+ウェスタン・プロヴィンス (2021) -> Stormers (2021 - 2023) -> Natal Sharks (2023 - 2024) -> Shizuoka Blue Revs (2024 - )

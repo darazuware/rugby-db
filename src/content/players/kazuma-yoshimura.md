@@ -16,7 +16,8 @@ caps: ""
 high_school: "流通経済大学柏高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484606"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2024)
+日野レッドドルフィンズ (2024 - )

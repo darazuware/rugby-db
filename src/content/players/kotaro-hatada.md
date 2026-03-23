@@ -16,7 +16,8 @@ caps: ""
 high_school: "筑紫丘高校"
 university: "鹿児島大学"
 scraped_url: "https://league-one.jp/player/484581"
+league_one_caps: "20"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2023)
+日野レッドドルフィンズ (2023 - )

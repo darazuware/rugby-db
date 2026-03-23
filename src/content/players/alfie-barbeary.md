@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alfie-barbeary"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

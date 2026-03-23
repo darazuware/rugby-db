@@ -16,6 +16,7 @@ caps: "Wales (9)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dewi-lake"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

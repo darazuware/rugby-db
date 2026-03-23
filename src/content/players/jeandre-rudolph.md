@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jeandre-rudolph"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-pumas (2018 - 2020) -> bulls (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - ) -> ospreys (2023 - 2024) -> bulls (2025 - )
+pumas (2018 - 2020) -> bulls (2019 - 2020) -> free state cheetahs (2020 - 2022) -> central cheetahs (2022 - 2025) -> ospreys (2023 - 2024) -> bulls (2025 - )

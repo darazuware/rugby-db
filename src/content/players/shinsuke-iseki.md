@@ -16,7 +16,8 @@ caps: "U20('15)、U23('15,'17)"
 high_school: "天理高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/483949"
+league_one_caps: "23"
 ---
 
 ## キャリア遍歴
-Kobelco Kobe Steelers (2018)
+Kobelco Kobe Steelers (2018 - )

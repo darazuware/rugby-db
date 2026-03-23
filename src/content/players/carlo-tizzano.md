@@ -16,7 +16,8 @@ caps: "Australia"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/carlo-tizzano"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2018 - ) -> New South Wales Waratahs (2019 - 2022) -> Ealing Trailfinders (2022)
+Western Force (2018 - ) -> New South Wales Waratahs (2019 - 2022) -> Ealing Trailfinders (2022 - )

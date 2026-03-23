@@ -16,6 +16,7 @@ caps: "Wales (18)"
 high_school: ""
 university: ""
 scraped_url: "scarlets (2014 - 2024) -> ospreys (2024 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

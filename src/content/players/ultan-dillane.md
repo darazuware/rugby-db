@@ -16,6 +16,7 @@ caps: "Ireland"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ultan-dillane"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

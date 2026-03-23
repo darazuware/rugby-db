@@ -16,7 +16,8 @@ caps: ""
 high_school: "ラトゥナヴラカレッジ"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/485513"
+league_one_caps: "47"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2021)
+トヨタヴェルブリッツ (2021 - )

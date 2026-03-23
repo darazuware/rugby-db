@@ -16,7 +16,8 @@ caps: "セブンズ日本(17)"
 high_school: "佐賀工業高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483503"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-浦安D-Rocks (2024)
+浦安D-Rocks (2024 - )

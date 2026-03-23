@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/marin-boulier"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Ouest Cotentin (2008 - 2020) -> Stade Caennais RC (2020 - 2021) -> Rouen Normandie Rugby (2021 - ) -> Rugby Club Vannes (2025 - )
+Rugby Ouest Cotentin (2008 - 2020) -> Stade Caennais RC (2020 - 2021) -> Rouen Normandie Rugby (2021 - 2025) -> Rugby Club Vannes (2025 - )

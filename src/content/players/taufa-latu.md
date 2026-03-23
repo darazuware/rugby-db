@@ -16,7 +16,8 @@ caps: ""
 high_school: "白鴎大学高校"
 university: ""
 scraped_url: "https://league-one.jp/player/485505"
+league_one_caps: "50"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2022 - ) -> トヨタヴェルブリッツ (2025 - )
+東芝ブレイブルーパス東京 (2022 - 2025) -> トヨタヴェルブリッツ (2025 - )

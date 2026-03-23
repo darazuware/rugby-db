@@ -16,6 +16,7 @@ caps: "Wales (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-thomas"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

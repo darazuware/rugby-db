@@ -16,7 +16,8 @@ caps: "U23('16)"
 high_school: "大阪桐蔭高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/484863"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2021 - ) -> リコーブラックラムズ東京 (2025 - )
+花園近鉄ライナーズ (2021 - 2025) -> リコーブラックラムズ東京 (2025 - )

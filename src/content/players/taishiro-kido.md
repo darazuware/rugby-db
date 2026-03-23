@@ -16,6 +16,7 @@ caps: "XV('25)、Test Matchs(1CAP"
 high_school: "常翔学園高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484346"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴

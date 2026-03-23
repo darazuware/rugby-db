@@ -16,7 +16,8 @@ caps: "日本代表(5)"
 high_school: "キングスカレッジ"
 university: "慶應義塾大学"
 scraped_url: "https://league-one.jp/player/485508"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2022)
+トヨタヴェルブリッツ (2022 - )

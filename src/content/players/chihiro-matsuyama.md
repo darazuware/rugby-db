@@ -16,7 +16,8 @@ caps: "高校('18)"
 high_school: "大阪桐蔭高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/485511"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2023)
+トヨタヴェルブリッツ (2023 - )

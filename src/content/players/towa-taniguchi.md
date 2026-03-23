@@ -16,7 +16,8 @@ caps: "U23('20)"
 high_school: "関西大学北陽高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484583"
+league_one_caps: "32"
 ---
 
 ## キャリア遍歴
-日野レッドドルフィンズ (2023)
+日野レッドドルフィンズ (2023 - )

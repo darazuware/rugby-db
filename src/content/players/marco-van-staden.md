@@ -16,6 +16,7 @@ caps: "South Africa (14)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/marco-van-staden"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

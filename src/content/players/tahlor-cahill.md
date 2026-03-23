@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tahlor-cahill"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2022 - ) -> Crusaders (2023)
+Canterbury (2022 - 2025) -> Crusaders (2023 - )

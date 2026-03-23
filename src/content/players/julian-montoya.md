@@ -16,7 +16,8 @@ caps: "Argentina (89)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/julian-montoya"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Jaguares (2015 - 2020) -> Leicester Tigers (2020 - ) -> Section Paloise Béarn Pyrénées (2025 - )
+Jaguares (2015 - 2020) -> Leicester Tigers (2020 - 2025) -> Section Paloise Béarn Pyrénées (2025 - )

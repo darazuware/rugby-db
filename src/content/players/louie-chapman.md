@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/louie-chapman"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2019 - 2024) -> Crusaders (2022 - ) -> Canterbury (2024)
+Tasman Mako (2019 - 2024) -> Crusaders (2022 - ) -> Canterbury (2024 - )

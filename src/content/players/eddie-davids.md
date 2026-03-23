@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/eddie-davids"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-griquas (2021 - ) -> lions rugby (2025 - )
+griquas (2021 - 2025) -> lions rugby (2025 - )

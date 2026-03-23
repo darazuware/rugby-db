@@ -16,6 +16,7 @@ caps: "South Africa (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/warrick-gelant"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

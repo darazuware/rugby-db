@@ -16,7 +16,8 @@ caps: ""
 high_school: "長崎南山高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483696"
+league_one_caps: "41"
 ---
 
 ## キャリア遍歴
-九州電力キューデンヴォルテクス (2022)
+九州電力キューデンヴォルテクス (2022 - )

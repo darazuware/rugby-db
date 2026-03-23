@@ -16,7 +16,8 @@ caps: "高校('12)、セブンズ日本(3)、日本代表(7)"
 high_school: "芦別高校"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484063"
+league_one_caps: "73"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2017)
+埼玉パナソニックワイルドナイツ (2017 - )

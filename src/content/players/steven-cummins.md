@@ -16,6 +16,7 @@ caps: ""
 high_school: "ヒルズ"
 university: "スポーツ高校大学"
 scraped_url: "https://league-one.jp/player/485710"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mesake-vocevoce"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Fijian Drua (2023)
+Fijian Drua (2023 - )

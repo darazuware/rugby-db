@@ -16,7 +16,8 @@ caps: "U20('17,'18)"
 high_school: "深谷高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/484051"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2021)
+埼玉パナソニックワイルドナイツ (2021 - )

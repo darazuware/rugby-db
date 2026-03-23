@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/conor-bartley"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-young munster rfc (2021 - ) -> munster rugby (2024 - )
+young munster rfc (2021 - 2025) -> munster rugby (2024 - )

@@ -16,7 +16,8 @@ caps: "New Zealand (15)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/luke-jacobson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Chiefs (2017 - ) -> Waikato Mooloos (2019)
+Chiefs (2017 - ) -> Waikato Mooloos (2019 - )

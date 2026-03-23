@@ -16,7 +16,8 @@ caps: ""
 high_school: "汎愛高校"
 university: "摂南大学"
 scraped_url: "https://league-one.jp/player/484372"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dylan-cockburn"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-melrose rfc (2023 - ) -> glasgow warriors (2025 - )
+melrose rfc (2023 - 2025) -> glasgow warriors (2025 - )

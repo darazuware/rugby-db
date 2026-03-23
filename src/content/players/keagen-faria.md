@@ -16,7 +16,8 @@ caps: ""
 high_school: "St.John’sCollage"
 university: ""
 scraped_url: "https://league-one.jp/player/483547"
+league_one_caps: "43"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2021 - 2024) -> NECグリーンロケッツ東葛 (2024)
+静岡ブルーレヴズ (2021 - 2024) -> NECグリーンロケッツ東葛 (2024 - )

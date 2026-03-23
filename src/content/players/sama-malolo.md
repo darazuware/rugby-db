@@ -16,7 +16,8 @@ caps: "Samoa (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/sama-malolo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2017 - 2018) -> Southern Districts (2018 - 2022) -> Utah Warriors (2019 - 2021) -> San Diego Legion (2022 - 2023) -> Moana Pasifika (2023 - ) -> Auckland (2023 - 2024) -> Union Sportive Arlequins Perpignanais (2025 - )
+Melbourne Rebels (2017 - 2018) -> Southern Districts (2018 - 2022) -> Utah Warriors (2019 - 2021) -> San Diego Legion (2022 - 2023) -> Auckland (2023 - 2024) -> Moana Pasifika (2023 - 2025) -> Union Sportive Arlequins Perpignanais (2025 - )

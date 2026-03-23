@@ -16,6 +16,7 @@ caps: ""
 high_school: "ネルソンカレッジ"
 university: "オタゴ大学"
 scraped_url: "https://league-one.jp/player/483927"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Ireland (46)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hugo-keenan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/james-hendren"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Randwick Rugby (2021 - 2024) -> New South Wales Waratahs (2024)
+Randwick Rugby (2021 - 2024) -> New South Wales Waratahs (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "ブリスベン高高校"
 university: ""
 scraped_url: "https://league-one.jp/player/484771"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-ヤクルトレビンズ戸田 (2023)
+ヤクルトレビンズ戸田 (2023 - )

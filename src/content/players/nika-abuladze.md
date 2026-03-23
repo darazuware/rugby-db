@@ -16,6 +16,7 @@ caps: "Georgia (12)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/nika-abuladze"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

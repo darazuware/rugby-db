@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/patrick-tuifua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Jeunesse Sports et Loisirs De Normandie (2013 - 2020) -> Hawke's Bay Magpies (2022 - ) -> Rugby Club Toulonnais (2025 - )
+Jeunesse Sports et Loisirs De Normandie (2013 - 2020) -> Hawke's Bay Magpies (2022 - 2025) -> Rugby Club Toulonnais (2025 - )

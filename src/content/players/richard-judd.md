@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/richard-judd"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2017 - 2019) -> Bay of Plenty Steamers (2018 - 2019) -> Tokyo Sungoliath (2019 - 2021) -> Wellington Lions (2020 - 2022) -> Hurricanes (2021 - 2024) -> Bay of Plenty Steamers (2022 - ) -> San Diego Legion (2022 - ) -> Rugby Club Vannes (2025 - )
+Hurricanes (2017 - 2019) -> Bay of Plenty Steamers (2018 - 2019) -> Tokyo Sungoliath (2019 - 2021) -> Wellington Lions (2020 - 2022) -> Hurricanes (2021 - 2024) -> Bay of Plenty Steamers (2022 - 2025) -> San Diego Legion (2022 - 2025) -> Rugby Club Vannes (2025 - )

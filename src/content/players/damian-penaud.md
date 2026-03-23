@@ -16,6 +16,7 @@ caps: "France (53)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/damian-penaud"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

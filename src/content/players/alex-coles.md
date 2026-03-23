@@ -16,6 +16,7 @@ caps: "England (7)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/alex-coles"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

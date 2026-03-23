@@ -16,7 +16,8 @@ caps: ""
 high_school: "SwamiVivekanadaCallege"
 university: ""
 scraped_url: "https://league-one.jp/player/483741"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴
-クボタスピアーズ船橋・東京ベイ (2024)
+クボタスピアーズ船橋・東京ベイ (2024 - )

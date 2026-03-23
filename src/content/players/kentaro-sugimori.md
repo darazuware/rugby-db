@@ -16,7 +16,8 @@ caps: ""
 high_school: "流通経済大柏高校"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/483807"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴
-クリタウォーターガッシュ昭島 (2021)
+クリタウォーターガッシュ昭島 (2021 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/george-whitehead"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-central cheetahs (2015 - 2016) -> stormers (2017 - 2018) -> griquas (2018 - ) -> central cheetahs (2019 - 2020) -> sharks (2025 - )
+central cheetahs (2015 - 2016) -> stormers (2017 - 2018) -> griquas (2018 - 2025) -> central cheetahs (2019 - 2020) -> sharks (2025 - )

@@ -16,6 +16,7 @@ caps: "Wales (36)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/will-rowlands"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

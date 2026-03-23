@@ -16,6 +16,7 @@ caps: "Italy (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/marco-manfredi"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

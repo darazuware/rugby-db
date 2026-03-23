@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/isikeli-rabitu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Suva Grammar School (2022 - 2023) -> Fijian Drua (2023)
+Suva Grammar School (2022 - 2023) -> Fijian Drua (2023 - )

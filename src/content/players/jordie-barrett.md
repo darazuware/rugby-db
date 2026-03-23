@@ -16,7 +16,8 @@ caps: "New Zealand (52)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jordie-barrett"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Hurricanes (2016 - ) -> Taranaki Bulls (2019 - 2020) -> Leinster Rugby (2024)
+Hurricanes (2016 - ) -> Taranaki Bulls (2019 - 2020) -> Leinster Rugby (2024 - )

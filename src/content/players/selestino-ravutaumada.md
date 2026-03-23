@@ -16,7 +16,8 @@ caps: "Fiji (4)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/selestino-ravutaumada"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New Zealand Warriors (2019 - 2020) -> Fijian Drua (2021 - ) -> Racing 92 (2025 - )
+New Zealand Warriors (2019 - 2020) -> Fijian Drua (2021 - 2025) -> Racing 92 (2025 - )

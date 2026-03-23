@@ -16,7 +16,8 @@ caps: "高校('17)、U20,U23('19)"
 high_school: "桐蔭学園高校"
 university: "同志社大学"
 scraped_url: "https://league-one.jp/player/484457"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴
-サウスランド (2022 - 2023) -> トヨタヴェルブリッツ (2024)
+サウスランド (2022 - 2023) -> トヨタヴェルブリッツ (2024 - )

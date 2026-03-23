@@ -16,7 +16,8 @@ caps: ""
 high_school: "石見智翠館高校"
 university: "東海大学"
 scraped_url: "https://league-one.jp/player/484467"
+league_one_caps: "48"
 ---
 
 ## キャリア遍歴
-トヨタヴェルブリッツ (2019)
+トヨタヴェルブリッツ (2019 - )

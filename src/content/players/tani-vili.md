@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tani-vili"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Saint-Céré (2005 - 2007) -> CA Brive Corrèze Limousin (2007 - 2008) -> Malemort XV (2010 - 2013) -> CA Brive Corrèze Limousin (2013 - 2017) -> ASM Clermont Auvergne (2017 - 2022) -> Union Bordeaux-Bègles (2022 - 2024) -> Rugby Club Vannes (2024 - ) -> Stade Français Paris Rugby (2025 - )
+Saint-Céré (2005 - 2007) -> CA Brive Corrèze Limousin (2007 - 2008) -> Malemort XV (2010 - 2013) -> CA Brive Corrèze Limousin (2013 - 2017) -> ASM Clermont Auvergne (2017 - 2022) -> Union Bordeaux-Bègles (2022 - 2024) -> Rugby Club Vannes (2024 - 2025) -> Stade Français Paris Rugby (2025 - )

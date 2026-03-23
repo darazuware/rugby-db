@@ -16,7 +16,8 @@ caps: ""
 high_school: "国学院久我山高校"
 university: "ワイカト大学"
 scraped_url: "https://league-one.jp/player/484515"
+league_one_caps: "16"
 ---
 
 ## キャリア遍歴
-日野RD (2019 - 2023) -> Kamaishi Seawaves (2023)
+日野RD (2019 - 2023) -> Kamaishi Seawaves (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "桐蔭学園高校"
 university: "青山学院大学"
 scraped_url: "https://league-one.jp/player/483790"
+league_one_caps: "6"
 ---
 
 ## キャリア遍歴
-クリタウォーターガッシュ昭島 (2024)
+クリタウォーターガッシュ昭島 (2024 - )

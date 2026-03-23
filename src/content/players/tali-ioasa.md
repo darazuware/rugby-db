@@ -16,7 +16,8 @@ caps: ""
 high_school: "ヘイスティングスボーイズ"
 university: ""
 scraped_url: "https://league-one.jp/player/483938"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-コベルコ神戸スティーラーズ (2024)
+コベルコ神戸スティーラーズ (2024 - )

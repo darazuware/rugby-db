@@ -16,7 +16,8 @@ caps: "日本代表(6)"
 high_school: "高崎工業高校"
 university: "中央大学"
 scraped_url: "https://league-one.jp/player/484168"
+league_one_caps: "46"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2022)
+静岡ブルーレヴズ (2022 - )

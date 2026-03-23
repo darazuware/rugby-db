@@ -16,7 +16,8 @@ caps: ""
 high_school: "PaarlGimnasiumHighSchool"
 university: "流通経済大学"
 scraped_url: "https://league-one.jp/player/484391"
+league_one_caps: "1"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2023)
+東芝ブレイブルーパス東京 (2023 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/filippo-drago"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - ) -> zebre parma (2024 - )
+mogliano veneto rugby (2020 - 2021) -> benetton rugby trévise (2021 - ) -> zebre parma (2024 - 2025)

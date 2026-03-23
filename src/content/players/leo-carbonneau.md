@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/leo-carbonneau"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Avenir Bizanos (2009 - 2013) -> CA Brive Corrèze Limousin (2013 - ) -> Racing 92 (2025 - )
+Avenir Bizanos (2009 - 2013) -> CA Brive Corrèze Limousin (2013 - 2025) -> Racing 92 (2025 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: "KelstonBoysHighSchool"
 university: "立正大学"
 scraped_url: "https://league-one.jp/player/484230"
+league_one_caps: "11"
 ---
 
 ## キャリア遍歴
-清水建設江東ブルーシャークス (2022)
+清水建設江東ブルーシャークス (2022 - )

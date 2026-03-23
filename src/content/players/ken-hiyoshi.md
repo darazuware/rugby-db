@@ -16,7 +16,8 @@ caps: ""
 high_school: "大阪産業大学附属高校"
 university: "京都産業大学"
 scraped_url: "https://league-one.jp/player/484349"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2024)
+東芝ブレイブルーパス東京 (2024 - )

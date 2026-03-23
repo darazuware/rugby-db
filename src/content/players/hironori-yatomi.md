@@ -16,7 +16,8 @@ caps: "セブンズ日本(3)"
 high_school: "仙台育英高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484171"
+league_one_caps: "18"
 ---
 
 ## キャリア遍歴
-静岡ブルーレヴズ (2021)
+静岡ブルーレヴズ (2021 - )

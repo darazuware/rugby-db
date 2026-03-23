@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/taufa-funaki"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Auckland (2019 - ) -> Blues (2021)
+Auckland (2019 - 2025) -> Blues (2021 - )

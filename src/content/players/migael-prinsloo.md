@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/migael-prinsloo"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-benetton rugby trévise (2024 - ) -> zebre parma (2025 - )
+benetton rugby trévise (2024 - 2025) -> zebre parma (2025 - )

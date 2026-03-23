@@ -16,7 +16,8 @@ caps: "Fiji"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/timoci-tavatavanawai"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Tasman Mako (2019 - ) -> Highlanders (2020 - ) -> Moana Pasifika (2021)
+Tasman Mako (2019 - 2025) -> Highlanders (2020 - ) -> Moana Pasifika (2021 - )

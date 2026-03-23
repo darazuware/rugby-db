@@ -16,7 +16,8 @@ caps: ""
 high_school: "長崎南山高校"
 university: "専修大学"
 scraped_url: "https://league-one.jp/player/484367"
+league_one_caps: "29"
 ---
 
 ## キャリア遍歴
-東芝ブレイブルーパス東京 (2021)
+東芝ブレイブルーパス東京 (2021 - )

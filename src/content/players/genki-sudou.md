@@ -16,6 +16,7 @@ caps: "日本代表(2)"
 high_school: "国学院久我山高校"
 university: "明治大学"
 scraped_url: "https://league-one.jp/player/483476"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴

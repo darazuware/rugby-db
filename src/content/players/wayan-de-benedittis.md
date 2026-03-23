@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/wayan-de-benedittis"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-FC Grenoble Rugby (2006 - 2019) -> Castres Olympique (2019 - ) -> Lyon Olympique Universitaire Rugby (2024 - ) -> Rugby Club Vannes (2025 - )
+FC Grenoble Rugby (2006 - 2019) -> Castres Olympique (2019 - 2025) -> Lyon Olympique Universitaire Rugby (2024 - 2025) -> Rugby Club Vannes (2025 - )

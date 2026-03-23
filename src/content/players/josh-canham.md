@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/josh-canham"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brighton Grammar School (2019 - 2020) -> Melbourne Rebels (2020 - 2024) -> Queensland Reds (2024)
+Brighton Grammar School (2019 - 2020) -> Melbourne Rebels (2020 - 2024) -> Queensland Reds (2024 - )

@@ -16,6 +16,7 @@ caps: "Congo"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/michael-tambwe"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,6 +16,7 @@ caps: "Italy"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/enrico-lucchin"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

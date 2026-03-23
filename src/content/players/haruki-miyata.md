@@ -16,7 +16,8 @@ caps: ""
 high_school: "広島工業高校"
 university: "天理大学"
 scraped_url: "https://league-one.jp/player/484293"
+league_one_caps: "25"
 ---
 
 ## キャリア遍歴
-中国電力レッドレギュリオンズ (2023)
+中国電力レッドレギュリオンズ (2023 - )

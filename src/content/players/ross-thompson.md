@@ -16,6 +16,7 @@ caps: "Call-ups (3)"
 high_school: ""
 university: ""
 scraped_url: "glasgow warriors (2020 - 2024) -> edimbourg rugby (2024 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

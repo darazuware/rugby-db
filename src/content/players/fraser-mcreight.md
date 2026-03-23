@@ -16,7 +16,8 @@ caps: "Australia (13)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/fraser-mcreight"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Queensland Reds (2018)
+Queensland Reds (2018 - )

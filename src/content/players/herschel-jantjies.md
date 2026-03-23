@@ -16,7 +16,8 @@ caps: "Squad caps (1054)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/herschel-jantjies"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Scarlets (2017 - 2018) -> Stormers (2017 - ) -> Aviron Bayonnais (2025 - )
+Scarlets (2017 - 2018) -> Stormers (2017 - 2025) -> Aviron Bayonnais (2025 - )

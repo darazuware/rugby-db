@@ -16,6 +16,7 @@ caps: ""
 high_school: "SaltLakeHighSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/483787"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴

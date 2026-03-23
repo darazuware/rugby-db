@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jermaine-ainsley"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Western Force (2015 - 2017) -> Melbourne Rebels (2017 - 2020) -> Highlanders (2020 - 2024) -> Otago (2020 - 2023) -> Lyon Olympique Universitaire Rugby (2024 - )
+Western Force (2015 - 2017) -> Melbourne Rebels (2017 - 2020) -> Otago (2020 - 2023) -> Highlanders (2020 - 2024) -> Lyon Olympique Universitaire Rugby (2024 - )

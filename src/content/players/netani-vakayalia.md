@@ -16,7 +16,8 @@ caps: "セブンズ日本(3)"
 high_school: "LeleanMemorialSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/484342"
+league_one_caps: "44"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2021 - ) -> 東芝ブレイブルーパス東京 (2025 - )
+リコーブラックラムズ東京 (2021 - 2025) -> 東芝ブレイブルーパス東京 (2025 - )

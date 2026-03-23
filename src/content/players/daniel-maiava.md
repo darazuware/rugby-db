@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントジョセフズナジーカレッジ"
 university: ""
 scraped_url: "https://league-one.jp/player/484147"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-メルボルン・レベルズ (2021 - 2024) -> サウスランド (2023 - 2024) -> Hunter Wildfires (2024 - ) -> 静岡ブルーレヴズ (2025 - )
+メルボルン・レベルズ (2021 - 2024) -> サウスランド (2023 - 2024) -> Hunter Wildfires (2024 - 2025) -> 静岡ブルーレヴズ (2025 - )

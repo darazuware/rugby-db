@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/treyvon-pritchard"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Anglican Church Grammar School (2024 - ) -> Queensland Reds (2025 - )
+Anglican Church Grammar School (2024 - 2025) -> Queensland Reds (2025 - )

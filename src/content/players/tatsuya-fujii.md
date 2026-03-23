@@ -16,7 +16,8 @@ caps: "高校('22)"
 high_school: "東海大福岡高校"
 university: "ジョンマクガラシャン大大学"
 scraped_url: "https://league-one.jp/player/483558"
+league_one_caps: "31"
 ---
 
 ## キャリア遍歴
-NECグリーンロケッツ東葛 (2021)
+NECグリーンロケッツ東葛 (2021 - )

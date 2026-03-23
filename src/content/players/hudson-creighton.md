@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/hudson-creighton"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020 - 2021) -> Brumbies (2021 - ) -> Otago (2023)
+Brothers Rugby Club (2019 - 2020) -> Queensland Reds (2020 - 2021) -> Brumbies (2021 - ) -> Otago (2023 - )

@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harry-plummer"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Blues (2018 - ) -> Auckland (2019 - 2024) -> ASM Clermont Auvergne (2025 - )
+Blues (2018 - 2025) -> Auckland (2019 - 2024) -> ASM Clermont Auvergne (2025 - )

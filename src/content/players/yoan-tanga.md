@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/yoan-tanga"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

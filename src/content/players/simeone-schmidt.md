@@ -16,7 +16,8 @@ caps: ""
 high_school: "セントルグナティウスカレッジ"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484533"
+league_one_caps: "4"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2024)
+花園近鉄ライナーズ (2024 - )

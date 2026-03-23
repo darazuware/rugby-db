@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/cameron-jones"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-ospreys (2020 - ) -> central cheetahs (2023 - 2024) -> dragons rfc (2024 - )
+ospreys (2020 - ) -> central cheetahs (2023 - 2024) -> dragons rfc (2024 - 2025)

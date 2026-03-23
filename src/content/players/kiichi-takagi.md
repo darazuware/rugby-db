@@ -16,7 +16,8 @@ caps: ""
 high_school: "金光桐蔭高校"
 university: "法政大学"
 scraped_url: "https://league-one.jp/player/484607"
+league_one_caps: "3"
 ---
 
 ## キャリア遍歴
-日野RD (2024)
+日野RD (2024 - )

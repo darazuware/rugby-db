@@ -16,7 +16,8 @@ caps: ""
 high_school: "HoerskoolNoordheuwel"
 university: "東洋大学"
 scraped_url: "https://league-one.jp/player/484028"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-埼玉パナソニックワイルドナイツ (2024)
+埼玉パナソニックワイルドナイツ (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-stevenson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Newcastle (2016 - ) -> Rugby Club Vannes (2025 - )
+Newcastle (2016 - 2025) -> Rugby Club Vannes (2025 - )

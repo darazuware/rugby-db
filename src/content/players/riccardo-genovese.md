@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/riccardo-genovese"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-cus torino rugby (2021 - 2022) -> zebre parma (2022 - ) -> benetton rugby trévise (2024 - ) -> rangers rugby vicenza (2024 - ) -> mogliano veneto rugby (2025 - )
+cus torino rugby (2021 - 2022) -> zebre parma (2022 - ) -> benetton rugby trévise (2024 - 2025) -> rangers rugby vicenza (2024 - 2025) -> mogliano veneto rugby (2025 - )

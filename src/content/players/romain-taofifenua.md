@@ -16,6 +16,7 @@ caps: "France (44)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/romain-taofifenua"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/harry-beddall"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-leicester tigers (2022 - ) -> hartpury rfc (2023 - ) -> dragons rfc (2025 - )
+leicester tigers (2022 - 2025) -> hartpury rfc (2023 - 2025) -> dragons rfc (2025 - )

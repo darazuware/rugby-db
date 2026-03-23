@@ -16,7 +16,8 @@ caps: "Fiji (2)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/samu-tawake"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Canterbury (2017 - 2024) -> Manawatu Turbos (2018 - 2020) -> Rugby United New-York (2020 - 2021) -> Fijian Drua (2021)
+Canterbury (2017 - 2024) -> Manawatu Turbos (2018 - 2020) -> Rugby United New-York (2020 - 2021) -> Fijian Drua (2021 - )

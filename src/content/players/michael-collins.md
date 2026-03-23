@@ -16,6 +16,7 @@ caps: ""
 high_school: "オタゴボーイズハイスクール"
 university: "オタゴ大学"
 scraped_url: "https://league-one.jp/player/484381"
+league_one_caps: "36"
 ---
 
 ## キャリア遍歴

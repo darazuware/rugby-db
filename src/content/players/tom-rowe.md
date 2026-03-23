@@ -16,7 +16,8 @@ caps: ""
 high_school: "Otago boys highschool"
 university: "Otagouniversity"
 scraped_url: "https://league-one.jp/player/484249"
+league_one_caps: "45"
 ---
 
 ## キャリア遍歴
-オタゴ (2015 - 2018) -> サンウルブズ (2018 - 2020) -> 九州電力キューデンヴォルテクス (2019 - 2023) -> 清水建設江東ブルーシャークス (2023)
+オタゴ (2015 - 2018) -> サンウルブズ (2018 - 2020) -> 九州電力キューデンヴォルテクス (2019 - 2023) -> 清水建設江東ブルーシャークス (2023 - )

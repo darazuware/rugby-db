@@ -16,7 +16,8 @@ caps: ""
 high_school: "鳴尾高校"
 university: "立命館大学"
 scraped_url: "https://league-one.jp/player/485021"
+league_one_caps: "2"
 ---
 
 ## キャリア遍歴
-NTTドコモレッドハリケーンズ大阪 (2024)
+NTTドコモレッドハリケーンズ大阪 (2024 - )

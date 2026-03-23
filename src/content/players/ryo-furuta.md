@@ -16,7 +16,8 @@ caps: ""
 high_school: "京都成章高校"
 university: "帝京大学"
 scraped_url: "https://league-one.jp/player/484700"
+league_one_caps: "52"
 ---
 
 ## キャリア遍歴
-Mie Honda Heat RFC (2018)
+Mie Honda Heat RFC (2018 - )

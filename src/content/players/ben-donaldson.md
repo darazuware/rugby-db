@@ -16,7 +16,8 @@ caps: "Australia (3)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/ben-donaldson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-New South Wales Waratahs (2018 - 2023) -> Western Force (2023)
+New South Wales Waratahs (2018 - 2023) -> Western Force (2023 - )

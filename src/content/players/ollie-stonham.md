@@ -16,6 +16,7 @@ caps: ""
 high_school: "FalstedSchool"
 university: ""
 scraped_url: "https://league-one.jp/player/483738"
+league_one_caps: "0"
 ---
 
 ## キャリア遍歴

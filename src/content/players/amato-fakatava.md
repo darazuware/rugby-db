@@ -16,7 +16,8 @@ caps: "Japan (3)"
 high_school: "ティマルボーイズ"
 university: "大東文化大学"
 scraped_url: "https://league-one.jp/player/484892"
+league_one_caps: "55"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2019)
+リコーブラックラムズ東京 (2019 - )

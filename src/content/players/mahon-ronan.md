@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/mahon-ronan"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Old Wesley RFC (2024 - ) -> Leinster Rugby (2025 - )
+Old Wesley RFC (2024 - 2025) -> Leinster Rugby (2025 - )

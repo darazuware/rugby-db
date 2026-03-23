@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/dan-nelson"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Brumbies (2023 - ) -> Canberra Royals (2024)
+Brumbies (2023 - ) -> Canberra Royals (2024 - )

@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/connor-fahy"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Clontarf Rugby (2024 - ) -> Leinster Rugby (2025 - )
+Clontarf Rugby (2024 - 2025) -> Leinster Rugby (2025 - )

@@ -16,6 +16,7 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/tom-howe-22206"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

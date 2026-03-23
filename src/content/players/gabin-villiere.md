@@ -16,6 +16,7 @@ caps: "France (18)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/gabin-villiere"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

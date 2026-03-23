@@ -16,6 +16,7 @@ caps: ""
 high_school: "マウントアルバートグラマースクール"
 university: "リンカーン大学"
 scraped_url: "https://league-one.jp/player/484875"
+league_one_caps: "38"
 ---
 
 ## キャリア遍歴

@@ -16,7 +16,8 @@ caps: ""
 high_school: "コーパスクリスティ"
 university: ""
 scraped_url: "https://league-one.jp/player/484615"
+league_one_caps: "49"
 ---
 
 ## キャリア遍歴
-三重ホンダヒート (2021 - 2024) -> マツダスカイアクティブズ広島 (2024)
+三重ホンダヒート (2021 - 2024) -> マツダスカイアクティブズ広島 (2024 - )

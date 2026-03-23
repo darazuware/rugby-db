@@ -16,7 +16,8 @@ caps: ""
 high_school: "明和県央高校"
 university: "法政大学"
 scraped_url: "https://league-one.jp/player/484686"
+league_one_caps: "15"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2015 - 2024) -> Mie Honda Heat RFC (2024)
+リコーブラックラムズ東京 (2015 - 2024) -> Mie Honda Heat RFC (2024 - )

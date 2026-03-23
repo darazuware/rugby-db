@@ -16,7 +16,8 @@ caps: ""
 high_school: "トンガカレッジ"
 university: "日本文理大学"
 scraped_url: "https://league-one.jp/player/484550"
+league_one_caps: "47"
 ---
 
 ## キャリア遍歴
-花園近鉄ライナーズ (2021)
+花園近鉄ライナーズ (2021 - )

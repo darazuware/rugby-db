@@ -16,7 +16,8 @@ caps: ""
 high_school: "Dr."
 university: "Johan"
 scraped_url: "https://league-one.jp/player/485069"
+league_one_caps: "9"
 ---
 
 ## キャリア遍歴
-Valke (2012 - 2020) -> Enisey-STM (2020 - 2022) -> チーターズ (2022 - ) -> 三菱重工相模原ダイナボアーズ (2024)
+Valke (2012 - 2020) -> Enisey-STM (2020 - 2022) -> チーターズ (2022 - 2025) -> 三菱重工相模原ダイナボアーズ (2024 - )

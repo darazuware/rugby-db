@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jackson-garden-bachop"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Melbourne Rebels (2016 - 2017) -> Hurricanes (2017 - 2022) -> Wellington Lions (2019 - ) -> Hanazono Kintetsu Liners (2022 - 2023) -> CA Brive Corrèze Limousin (2023 - 2024) -> Moana Pasifika (2024)
+Melbourne Rebels (2016 - 2017) -> Hurricanes (2017 - 2022) -> Wellington Lions (2019 - 2025) -> Hanazono Kintetsu Liners (2022 - 2023) -> CA Brive Corrèze Limousin (2023 - 2024) -> Moana Pasifika (2024 - )

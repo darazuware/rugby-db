@@ -16,7 +16,8 @@ caps: "France (22)"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/camille-chat"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Rugby Toucy Puisaye Forterre (2004 - 2006) -> RC Auxerre (2006 - 2013) -> Racing 92 (2013 - ) -> Lyon Olympique Universitaire Rugby (2024 - )
+Rugby Toucy Puisaye Forterre (2004 - 2006) -> RC Auxerre (2006 - 2013) -> Racing 92 (2013 - 2025) -> Lyon Olympique Universitaire Rugby (2024 - )

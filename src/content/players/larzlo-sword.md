@@ -16,7 +16,8 @@ caps: ""
 high_school: "アングリカン・チャーチ・グラマー・スクール"
 university: ""
 scraped_url: "https://league-one.jp/player/484902"
+league_one_caps: "7"
 ---
 
 ## キャリア遍歴
-リコーブラックラムズ東京 (2024)
+リコーブラックラムズ東京 (2024 - )

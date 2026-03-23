@@ -16,6 +16,7 @@ caps: "Italy (60)"
 high_school: ""
 university: ""
 scraped_url: "mogliano veneto rugby (2013 - 2014) -> benetton rugby trévise (2015 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

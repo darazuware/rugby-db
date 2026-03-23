@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/joji-nasova-"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-FIDJI 7's (2023 - ) -> Fijian Drua (2025 - )
+FIDJI 7's (2023 - 2025) -> Fijian Drua (2025 - )

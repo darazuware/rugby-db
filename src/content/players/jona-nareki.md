@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/jona-nareki"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2018 - ) -> Highlanders (2019)
+Otago (2018 - 2025) -> Highlanders (2019 - )

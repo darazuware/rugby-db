@@ -16,7 +16,8 @@ caps: ""
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/vuate-karawalevu"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-North Sydney Bears (2021 - 2022) -> Sydney Roosters (2021 - 2022) -> West Harbour RFC (2022 - 2023) -> New South Wales Waratahs (2023 - 2024) -> Fijian Drua (2024 - ) -> Castres Olympique (2025 - )
+North Sydney Bears (2021 - 2022) -> Sydney Roosters (2021 - 2022) -> West Harbour RFC (2022 - 2023) -> New South Wales Waratahs (2023 - 2024) -> Fijian Drua (2024 - 2025) -> Castres Olympique (2025 - )

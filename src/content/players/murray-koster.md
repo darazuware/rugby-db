@@ -16,7 +16,8 @@ caps: ""
 high_school: "ST"
 university: "Andrews"
 scraped_url: "https://league-one.jp/player/485376"
+league_one_caps: "14"
 ---
 
 ## キャリア遍歴
-シャークス (2019 - 2024) -> 日野レッドドルフィンズ (2024)
+シャークス (2019 - 2024) -> 日野レッドドルフィンズ (2024 - )

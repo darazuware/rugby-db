@@ -16,6 +16,7 @@ caps: "Wales (8)"
 high_school: ""
 university: ""
 scraped_url: "leicester tigers (2018 - 2020) -> scarlets (2020 - 2026)"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴

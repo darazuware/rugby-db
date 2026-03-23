@@ -16,7 +16,8 @@ caps: ""
 high_school: "South Africa"
 university: ""
 scraped_url: "https://all.rugby/player/nicolaas-janse-van-rensburg"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-bulls (2013 - 2016) -> montpellier hérault rugby (2016 - ) -> bulls (2025 - )
+bulls (2013 - 2016) -> montpellier hérault rugby (2016 - 2025) -> bulls (2025 - )

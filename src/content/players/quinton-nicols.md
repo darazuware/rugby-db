@@ -16,6 +16,7 @@ caps: ""
 high_school: "マウントアルバートグラマーカレ"
 university: ""
 scraped_url: "https://league-one.jp/player/485717"
+league_one_caps: "8"
 ---
 
 ## キャリア遍歴

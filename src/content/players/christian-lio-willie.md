@@ -16,7 +16,8 @@ caps: "New Zealand"
 high_school: ""
 university: ""
 scraped_url: "https://all.rugby/player/christian-lio-willie"
+league_one_caps: ""
 ---
 
 ## キャリア遍歴
-Otago (2020 - ) -> Highlanders (2021 - 2022) -> Crusaders (2022)
+Otago (2020 - 2025) -> Highlanders (2021 - 2022) -> Crusaders (2022 - )
