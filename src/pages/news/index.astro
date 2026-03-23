@@ -28,7 +28,7 @@ const formatDate = (date: Date) => {
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
       {
-        news.map((item: CollectionEntry<"news">) => (
+        news.map((item) => (
           <a
             href={`/news/${item.slug}/`}
             class="group bg-card rounded-2xl border border-border-dim p-6 hover:border-yellow-400 transition-all hover:shadow-xl flex flex-col h-full"

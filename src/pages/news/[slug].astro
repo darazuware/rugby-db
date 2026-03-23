@@ -3,6 +3,8 @@ import Layout from "../../layouts/Layout.astro";
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const news = await getCollection("news");
   return news.map((entry: CollectionEntry<"news">) => ({
