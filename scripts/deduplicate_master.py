@@ -125,7 +125,8 @@ def deduplicate():
             'Scraped_Url': scraped_url,
             'キャリア遍歴': row.get('キャリア遍歴'),
             'High_School': row.get('High_School'),
-            'University': row.get('University')
+            'University': row.get('University'),
+            'League_One_Caps': row.get('League_One_Caps', '')
         }
         processed_rows.append(new_row)
 

@@ -169,6 +169,7 @@ def generate_markdown():
         career_history = PlayerDataProcessor.consolidate_career_history(career_history_raw)
         high_school = PlayerDataProcessor.get_safe_attr(row, 'High_School')
         university = PlayerDataProcessor.get_safe_attr(row, 'University')
+        l1_caps = PlayerDataProcessor.get_safe_attr(row, 'League_One_Caps')
 
         # Ageの数値化（または生年月日からの動的算出）
         age_clean = None
@@ -212,6 +213,7 @@ caps: "{caps}"
 high_school: "{high_school}"
 university: "{university}"
 scraped_url: "{scraped_url}"
+league_one_caps: "{l1_caps}"
 ---
 
 ## キャリア遍歴
