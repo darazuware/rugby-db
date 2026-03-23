@@ -112,6 +112,48 @@ const getFlag = (country: string, capsStr: string) => {
   }
   return "";
 };
+
+const generateBio = (data: any, name: string) => {
+  const parts = [];
+  const teamName = data.team || "";
+  const leagueName = data.league?.toUpperCase() || "";
+  const position = data.position || "選手";
+  
+  parts.push(`${name}選手は、${leagueName ? `${leagueName}の` : ""}${teamName ? `${teamName}に所属する` : ""}${position}です。`);
+  
+  if (data.height && data.weight) {
+    parts.push(`身長${data.height}cm、体重${data.weight}kgの体格を活かしたプレーが持ち味です。`);
+  } else if (data.height) {
+    parts.push(`身長${data.height}cmの体格を活かしたプレーが特徴です。`);
+  }
+  
+  if (data.age) {
+    parts.push(`現在${data.age}歳（${data.birth_date && data.birth_date !== '---' ? data.birth_date : ''}）です。`);
+  }
+  
+  if (data.birth_place_scraped && data.birth_place_scraped !== '---') {
+    parts.push(`${data.birth_place_scraped}出身。`);
+  }
+  
+  const education = [];
+  if (data.high_school && data.high_school !== '---') education.push(`${data.high_school}`);
+  if (data.university && data.university !== '---') education.push(`${data.university}`);
+  if (education.length > 0) {
+    parts.push(`${education.join("、")}の出身です。`);
+  }
+
+  if (data.caps && data.caps !== "0" && data.caps !== "なし" && data.caps !== '---') {
+    parts.push(`代表キャリアでは${data.caps}を記録しており、国際経験も豊富です。`);
+  }
+  
+  if (data.league_one_caps && data.league_one_caps !== "0" && data.league_one_caps !== '---') {
+    parts.push(`リーグワン通算では${data.league_one_caps}試合に出場しています。`);
+  }
+
+  return parts.join(" ");
+};
+
+const playerBio = generateBio(entry.data, mainName);
 ---
 
 <Layout
@@ -393,8 +435,19 @@ const getFlag = (country: string, capsStr: string) => {
           </div>
         </div>
 
+        {/* プロフィール紹介文（AdSense SEO対策） */}
+        <div class="mb-12 bg-yellow-400/5 p-8 rounded-2xl border-l-4 border-yellow-400">
+          <h2 class="text-xl font-black mb-4 flex items-center gap-2">
+            <span class="text-yellow-400">PROFILE</span>
+            <span>選手紹介</span>
+          </h2>
+          <p class="text-foreground/80 leading-relaxed font-medium">
+            {playerBio}
+          </p>
+        </div>
+
         {/* アフィリエイトセクション */}
-        <div class="mb-12 px-8">
+        <div class="mb-12">
           <AffiliateBanner league={entry.data.league} />
         </div>
 

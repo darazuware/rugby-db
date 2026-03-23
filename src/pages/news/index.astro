@@ -1,0 +1,59 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+const news = (await getCollection("news")).sort(
+  (a: CollectionEntry<"news">, b: CollectionEntry<"news">) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const formatDate = (date: Date) => {
+  return date.toLocaleDateString("ja-JP", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  });
+};
+---
+
+<Layout title="ニュース & コラム | RUGBY PICKS">
+  <main class="py-12">
+    <header class="mb-12 border-b border-border-dim pb-8">
+      <h1 class="text-4xl font-black text-foreground italic tracking-tighter mb-4">
+        NEWS <span class="text-yellow-400">&</span> COLUMN
+      </h1>
+      <p class="text-foreground/60 font-medium">
+        RUGBY PICKSがお届けする最新情報と、独自視点のラグビーコラム。
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {
+        news.map((item) => (
+          <a
+            href={`/news/${item.slug}/`}
+            class="group bg-card rounded-2xl border border-border-dim p-6 hover:border-yellow-400 transition-all hover:shadow-xl flex flex-col h-full"
+          >
+            <div class="flex items-center gap-3 mb-4">
+              <span class="bg-yellow-400 text-black text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest">
+                {item.data.category || "NEWS"}
+              </span>
+              <time class="text-xs text-foreground/40 font-bold font-mono">
+                {formatDate(item.data.pubDate)}
+              </time>
+            </div>
+            <h2 class="text-xl font-black text-foreground group-hover:text-yellow-400 transition-colors mb-3 leading-tight">
+              {item.data.title}
+            </h2>
+            <p class="text-sm text-foreground/60 line-clamp-3 mb-6">
+              {item.data.description}
+            </p>
+            <div class="mt-auto flex items-center justify-between text-xs font-bold uppercase tracking-widest text-foreground/20 group-hover:text-yellow-400/50 transition-colors">
+              <span>Read More</span>
+              <span>→</span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </main>
+</Layout>

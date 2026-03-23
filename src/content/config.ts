@@ -32,6 +32,20 @@ const players = defineCollection({
     }),
 });
 
+const news = defineCollection({
+    type: 'content',
+    schema: z.object({
+        title: z.string(),
+        description: z.string().optional(),
+        pubDate: z.date(),
+        updatedDate: z.date().optional(),
+        heroImage: z.string().optional(),
+        category: z.string().optional(),
+        tags: z.array(z.string()).optional(),
+    }),
+});
+
 export const collections = {
     'players': players,
+    'news': news,
 };

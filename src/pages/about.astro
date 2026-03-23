@@ -1,0 +1,109 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="RUGBY PICKSについて | 日本最大級のラグビー選手名鑑データベース">
+    <main class="bg-background min-h-screen pt-20 pb-20">
+        <div class="container mx-auto px-4 max-w-4xl font-sans leading-relaxed text-foreground/80">
+            <header class="mb-12 border-b border-border-dim pb-8 text-center sm:text-left">
+                <h1 class="text-4xl md:text-5xl font-black text-foreground italic tracking-tighter mb-4">
+                    ABOUT <span class="text-yellow-400">RUGBY PICKS</span>
+                </h1>
+                <p class="text-sm md:text-base text-foreground/60 font-medium tracking-wide">
+                    世界中のラグビー情報を、もっと身近に、もっと速く。
+                </p>
+            </header>
+
+            <section class="space-y-16">
+                <!-- Mission -->
+                <div>
+                    <h2 class="text-2xl font-bold text-foreground mb-6 flex items-center gap-3">
+                        <span class="w-1.5 h-8 bg-yellow-400"></span>
+                        私たちのミッション
+                    </h2>
+                    <p class="mb-4">
+                        RUGBY PICKS（ラグビーピックス）は、世界中のラグビーファンが、いつでもどこでも瞬時に選手データにアクセスできる環境を提供するために誕生しました。
+                    </p>
+                    <p>
+                        ラグビーは多種多様なポジション、複雑なルール、そしてドラマチックな移籍市場を持つスポーツです。私たちは、単なるニュースサイトではなく、一貫性のある「究極のデータベース」として、ファンの皆様の観戦体験をより豊かにすることを目指しています。
+                    </p>
+                </div>
+
+                <!-- Expertise -->
+                <div>
+                    <h2 class="text-2xl font-bold text-foreground mb-6 flex items-center gap-3">
+                        <span class="w-1.5 h-8 bg-yellow-400"></span>
+                        専門性と信頼性（EEATへの取り組み）
+                    </h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div class="bg-card p-6 rounded-xl border border-border-dim">
+                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">Source of Truth</h3>
+                            <p class="text-sm">
+                                当サイトのデータは、League One, Super Rugby, Top 14, URCといった各公式リーグの公式サイト、および各チームの公式リリースを一次情報ソース（Source of Truth）としています。独自アルゴリズムにより、常に最新の情報を反映させるシステムを構築しています。
+                            </p>
+                        </div>
+                        <div class="bg-card p-6 rounded-xl border border-border-dim">
+                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">Rugby Enthusiast</h3>
+                            <p class="text-sm">
+                                運営チームは、ラグビーというスポーツの普及を切に願う熱狂的なファンと、エンジニアリングのスペシャリストで構成されています。単なるデータの羅列ではなく、ファンの視点で「何が知りたいか」を常に追求し、UI/UXの改善を自律的に行っています。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Features -->
+                <div>
+                    <h2 class="text-2xl font-bold text-foreground mb-6 flex items-center gap-3">
+                        <span class="w-1.5 h-8 bg-yellow-400"></span>
+                        RUGBY PICKSの特徴
+                    </h2>
+                    <ul class="space-y-4">
+                        <li class="flex items-start gap-3">
+                            <span class="text-yellow-400 mt-1">✓</span>
+                            <div>
+                                <strong class="text-foreground">爆速の検索体験</strong>
+                                <p class="text-sm mt-1">数千人の選手データから、年齢、身長、体重、ポジションなどで瞬時にフィルタリングが可能です。</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="text-yellow-400 mt-1">✓</span>
+                            <div>
+                                <strong class="text-foreground">世界4大リーグを完全網羅</strong>
+                                <p class="text-sm mt-1">日本のLeague One、フランスのTop 14、南半球のSuper Rugby、欧州・南アのURCを横断的に検索できます。</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="text-yellow-400 mt-1">✓</span>
+                            <div>
+                                <strong class="text-foreground">詳細なキャリア履歴</strong>
+                                <p class="text-sm mt-1">選手の所属チームの変遷をリンク付きで表示。過去から現在までの選手の軌跡を一目で追うことができます。</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Future -->
+                <div class="bg-yellow-400/5 p-8 border-l-4 border-yellow-400 rounded-r-xl">
+                    <p class="text-foreground font-bold italic text-lg mb-2">
+                        "Empowering the Global Rugby Community."
+                    </p>
+                    <p class="text-sm">
+                        私たちは、テクノロジーの力でラグビーの価値を最大化し、世界中のファンがより深く繋がれるプラットフォームへと進化を続けます。
+                    </p>
+                </div>
+
+                <div class="pt-8 border-t border-border-dim text-center">
+                    <p class="text-sm text-foreground/40 italic">
+                        RUGBY PICKS 運営事務局
+                    </p>
+                </div>
+            </section>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main {
+        background: radial-gradient(circle at 50% 0%, var(--background) 0%, var(--card) 100%);
+    }
+</style>

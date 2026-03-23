@@ -105,10 +105,14 @@ def sync_main():
     print(f"ID: {last_user_msg_id} | Author: {author} | Content: {content}")
     
     if content:
-        # 指示内容を引用して復唱
-        echo_message = f"以下の指示を正しく受信しました：\n\n>>> {content}\n\nこれより解析・実行を開始します。"
-        notify_discord("指示内容の確認（復唱）", echo_message, 0x00ff00)
-        print("Webhook通知（復唱）を送信しました。")
+        # 指示内容を引用して復唱（設定が有効な場合のみ）
+        notify_echo = os.getenv("DISCORD_NOTIFY_ECHO", "false").lower() in ("true", "1", "on")
+        if notify_echo:
+            echo_message = f"以下の指示を正しく受信しました：\n\n>>> {content}\n\nこれより解析・実行を開始します。"
+            notify_discord("指示内容の確認（復唱）", echo_message, 0x00ff00)
+            print("Webhook通知（復唱）を送信しました。")
+        else:
+            print("指示受信（復唱通知は無効です）")
     
     # 状態ファイルは「呼び出した全メッセージの最後」に更新
     # これにより、この実行中に送られた自分のWebhook等も次回スキップされる
