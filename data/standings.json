@@ -401,11 +401,11 @@
         "display_name": "トゥールーズ",
         "flag": "🇫🇷",
         "slug": "toulouse",
-        "played": "18",
+        "played": "19",
         "won": "14",
         "drawn": "0",
-        "lost": "4",
-        "diff": "+365",
+        "lost": "5",
+        "diff": "+341",
         "points": "67"
       },
       {
@@ -436,6 +436,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Union Bordeaux-Bègles",
+        "display_name": "ボルドー・ベグル",
+        "flag": "🇫🇷",
+        "slug": "bordeaux",
+        "played": "19",
+        "won": "11",
+        "drawn": "0",
+        "lost": "8",
+        "diff": "+132",
+        "points": "55"
+      },
+      {
+        "rank": "5",
         "team_name": "Stade Français Paris",
         "display_name": "スタッド・フランセ",
         "flag": "🇫🇷",
@@ -448,7 +461,7 @@
         "points": "54"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "ASM Clermont",
         "display_name": "クレルモン",
         "flag": "🇫🇷",
@@ -459,19 +472,6 @@
         "lost": "8",
         "diff": "+126",
         "points": "52"
-      },
-      {
-        "rank": "6",
-        "team_name": "Union Bordeaux-Bègles",
-        "display_name": "ボルドー・ベグル",
-        "flag": "🇫🇷",
-        "slug": "bordeaux",
-        "played": "18",
-        "won": "10",
-        "drawn": "0",
-        "lost": "8",
-        "diff": "+108",
-        "points": "50"
       },
       {
         "rank": "7",
