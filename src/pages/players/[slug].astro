@@ -1,23 +1,24 @@
 ---
 export const prerender = true;
-export async function getStaticPaths() {
-  const players = await getCollection("players");
-  return players.map((entry) => ({
-    params: { slug: entry.slug },
-  }));
-}
 import Layout from "../../layouts/Layout.astro";
-import { getCollection } from "astro:content";
+import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import { getTeamSlug } from "../../utils/team_utils";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import JSONLD from "../../components/JSONLD.astro";
 import AdSenseUnit from "../../components/AdSenseUnit.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
-import { getEntry } from "astro:content";
+export async function getStaticPaths() {
+  const players = await getCollection("players");
+  return players.map((entry: CollectionEntry<"players">) => ({
+    params: { slug: entry.slug },
+  }));
+}
 
 const { slug } = Astro.params;
-const entry = await getEntry("players", slug as string);
+if (!slug) return Astro.redirect("/404");
+
+const entry = await getEntry("players", slug);
 
 if (!entry) {
   return Astro.redirect("/404");
@@ -113,7 +114,7 @@ const getFlag = (country: string, capsStr: string) => {
   return "";
 };
 
-const generateBio = (data: any, name: string) => {
+const generateBio = (data: CollectionEntry<"players">["data"], name: string) => {
   const parts = [];
   const teamName = data.team || "";
   const leagueName = data.league?.toUpperCase() || "";
