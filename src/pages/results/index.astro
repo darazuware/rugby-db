@@ -191,11 +191,21 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                             <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="m6 9 6 6 6-6"/></svg>
                         </div>
                     </div>
-                    <div class="pt-5 border-t border-border-dim/30 flex items-center justify-between">
+                    <div class="pt-5 border-t border-border-dim/30 flex flex-col gap-3">
+                        <!-- Main Leagues Row -->
                         <div class="flex flex-1 justify-between gap-2">
                             {['league-one', 'super-rugby', 'top14', 'premiership', 'urc'].map(id => (
-                                <button data-league-switch={id} class="flex-1 py-2.5 rounded-xl bg-foreground/5 text-[10px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/20">
+                                <button data-league-switch={id} class="flex-1 py-2.5 rounded-xl bg-foreground/5 text-[10px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/20 transition-all">
                                     {id === 'league-one' ? 'L1' : (id === 'premiership' ? 'PREM' : id.toUpperCase().slice(0, 3))}
+                                </button>
+                            ))}
+                        </div>
+                        <!-- League One Divisions Row (Visible when L1 is active) -->
+                        <div id="mobile-division-switcher" class="flex justify-between gap-2 pt-2 border-t border-border-dim/10 hidden">
+                            <span class="text-[8px] font-black text-foreground/20 uppercase italic self-center mr-1">Div:</span>
+                            {['league-one-d1', 'league-one-d2', 'league-one-d3'].map(id => (
+                                <button data-league-switch={id} class="flex-1 py-1.5 rounded-lg bg-foreground/5 text-[9px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/10 transition-all">
+                                    {id.split('-').pop().toUpperCase()}
                                 </button>
                             ))}
                         </div>
@@ -268,16 +278,40 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
             });
         }
 
+        // モバイルディビジョン切替ボタンの表示制御
+        const divSwitcher = document.getElementById('mobile-division-switcher');
+        if (divSwitcher) {
+            const isL1Related = normalized.startsWith('league-one');
+            if (isL1Related) {
+                divSwitcher.classList.remove('hidden');
+            } else {
+                divSwitcher.classList.add('hidden');
+            }
+        }
+
         // モバイルナビゲーターのボタン強調
         document.querySelectorAll('[data-league-switch]').forEach(btn => {
             const bid = btn.getAttribute('data-league-switch').toLowerCase();
-            const isActive = bid === normalized || (normalized.startsWith('league-one') && bid === 'league-one');
+            
+            // 階層構造に対応したアクティブ判定
+            let isActive = false;
+            if (bid === 'league-one') {
+                isActive = normalized.startsWith('league-one');
+            } else {
+                isActive = bid === normalized;
+            }
+
             if (isActive) {
                 btn.classList.add('bg-yellow-400', 'text-black', 'border-yellow-400');
-                btn.classList.remove('text-foreground/30', 'border-border-dim/20');
+                btn.classList.remove('text-foreground/30', 'border-border-dim/20', 'border-border-dim/10');
             } else {
                 btn.classList.remove('bg-yellow-400', 'text-black', 'border-yellow-400');
-                btn.classList.add('text-foreground/30', 'border-border-dim/20');
+                btn.classList.add('text-foreground/30');
+                if (bid.includes('-d')) {
+                    btn.classList.add('border-border-dim/10');
+                } else {
+                    btn.classList.add('border-border-dim/20');
+                }
             }
         });
     }
