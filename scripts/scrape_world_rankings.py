@@ -49,9 +49,16 @@ COUNTRY_MAP = {
     "Nigeria": "ナイジェリア",
     "Colombia": "コロンビア",
     "Kazakhstan": "カザフスタン",
+    "Sri Lanka": "スリランカ",
+    "Philippines": "フィリピン",
+    "Malaysia": "マレーシア",
+    "South Korea": "韓国",
+    "China": "中国",
+    "Cook Islands": "クック諸島",
+    "Papua New Guinea": "パプアニューギニア",
 }
 
-# 旗マッピング (Japanese -> Emoji)
+# 旗マッピング (Japanese/English -> Emoji)
 FLAG_MAP = {
     '日本': '🇯🇵',
     'オーストラリア': '🇦🇺',
@@ -99,13 +106,21 @@ FLAG_MAP = {
     'ナイジェリア': '🇳🇬',
     'コロンビア': '🇨🇴',
     'カザフスタン': '🇰🇿',
+    'スリランカ': '🇱🇰',
+    'フィリピン': '🇵🇭',
+    'マレーシア': '🇲🇾',
+    'クック諸島': '🇨🇰',
+    'パプアニューギニア': '🇵🇬',
 }
 
 def fetch_rankings(category):
-    # category: 'mna' or 'wna'
-    url = f"https://api.world.rugby/v1/rankings/{category}?language=en"
+    # category: 'mru' for mens, 'wru' for womens
+    url = f"https://api.wr-rims-prod.pulselive.com/rugby/v3/rankings/{category}?language=en"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
         
@@ -118,14 +133,17 @@ def fetch_rankings(category):
             en_name = team.get("name")
             jp_name = COUNTRY_MAP.get(en_name, en_name)
             
+            # 旗の取得 (マッピングにない場合は国コードから推測を試みるが、基本は空にする)
+            flag = FLAG_MAP.get(jp_name, FLAG_MAP.get(en_name, ""))
+            
             rankings.append({
-                "rank": entry.get("rank"),
-                "previousRank": entry.get("previousRank"),
-                "points": entry.get("points"),
+                "rank": entry.get("pos"),
+                "previousRank": entry.get("previousPos"),
+                "points": entry.get("pts"),
                 "team_en": en_name,
                 "team_jp": jp_name,
                 "abbreviation": team.get("abbreviation"),
-                "flag": FLAG_MAP.get(jp_name, "")
+                "flag": flag
             })
             
         return effective_date, rankings
@@ -136,8 +154,8 @@ def fetch_rankings(category):
 def main():
     print("Fetching World Rugby Rankings...")
     
-    m_date, m_rankings = fetch_rankings("mna")
-    w_date, w_rankings = fetch_rankings("wna")
+    m_date, m_rankings = fetch_rankings("mru")
+    w_date, w_rankings = fetch_rankings("wru")
     
     if not m_rankings and not w_rankings:
         print("Failed to fetch any rankings.")
