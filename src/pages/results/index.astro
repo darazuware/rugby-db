@@ -186,15 +186,6 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                     <div class="relative mb-6">
                         <select id="mobile-round-select" class="w-full bg-foreground/5 border border-border-dim/30 rounded-2xl p-4 text-xs font-black appearance-none focus:border-yellow-400 transition-all uppercase tracking-widest">
                             <option value="" disabled selected>Select Round</option>
-                            {leagues.filter(l => !l.isParent).map(l => (
-                                <optgroup label={l.name} data-league-group={l.id} class="hidden">
-                                    {getLeagueResults(l).map((g: any) => (
-                                        <option value={`#${l.id}-round-${g.round}`}>
-                                            {l.id.startsWith('league-one') ? `第${g.round}節` : `ROUND ${g.round}`}
-                                        </option>
-                                    ))}
-                                </optgroup>
-                            ))}
                         </select>
                         <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-foreground/20">
                             <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="m6 9 6 6 6-6"/></svg>
@@ -248,12 +239,32 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
             section.style.display = isMatch ? 'block' : 'none';
         });
 
+        // モバイル用プルダウン：選択中リーグのラウンドのみを動的生成
         const mobileSelect = document.getElementById('mobile-round-select');
         if (mobileSelect) {
-            mobileSelect.querySelectorAll('optgroup').forEach(group => {
-                const gid = group.getAttribute('data-league-group').toLowerCase();
-                group.classList.toggle('hidden', gid !== normalized && !(normalized === 'league-one' && gid.includes('league-one')));
-                group.disabled = gid !== normalized && !(normalized === 'league-one' && gid.includes('league-one'));
+            // 既存のoptionをクリア（最初のplaceholderは残す）
+            while (mobileSelect.options.length > 1) {
+                mobileSelect.remove(1);
+            }
+            mobileSelect.selectedIndex = 0;
+            
+            // 選択中リーグに属するセクションからラウンド情報を取得
+            const visibleSections = document.querySelectorAll('.league-section');
+            visibleSections.forEach(section => {
+                const sid = section.getAttribute('data-league').toLowerCase();
+                const isMatch = normalized === 'all' || sid === normalized || (normalized === 'league-one' && sid.includes('league-one'));
+                if (!isMatch) return;
+                
+                const isL1 = sid.includes('league-one');
+                section.querySelectorAll('.round-group').forEach(roundGroup => {
+                    const roundId = roundGroup.id;
+                    const roundNum = roundId.split('-round-').pop();
+                    const label = isL1 ? `第${roundNum}節` : `ROUND ${roundNum}`;
+                    const opt = document.createElement('option');
+                    opt.value = '#' + roundId;
+                    opt.textContent = label;
+                    mobileSelect.appendChild(opt);
+                });
             });
         }
 
