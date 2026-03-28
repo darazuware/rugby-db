@@ -823,12 +823,12 @@
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
         "slug": "blues",
-        "played": "6",
-        "won": "4",
+        "played": "7",
+        "won": "5",
         "drawn": "0",
         "lost": "2",
-        "diff": "70",
-        "points": "20"
+        "diff": "95",
+        "points": "25"
       },
       {
         "rank": "3",
@@ -858,6 +858,19 @@
       },
       {
         "rank": "5",
+        "team_name": "Chiefs",
+        "display_name": "ワイカト・チーフス",
+        "flag": "🇳🇿",
+        "slug": "chiefs",
+        "played": "6",
+        "won": "4",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "31",
+        "points": "17"
+      },
+      {
+        "rank": "6",
         "team_name": "Crusaders",
         "display_name": "カンタベリー・クルセイダーズ",
         "flag": "🇳🇿",
@@ -870,7 +883,7 @@
         "points": "14"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "NSW Waratahs",
         "display_name": "NSWワラタス（ワラターズ）",
         "flag": "🇦🇺",
@@ -883,7 +896,7 @@
         "points": "14"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "Highlanders",
         "display_name": "オタゴ・ハイランダーズ",
         "flag": "🇳🇿",
@@ -896,29 +909,16 @@
         "points": "14"
       },
       {
-        "rank": "8",
-        "team_name": "Chiefs",
-        "display_name": "ワイカト・チーフス",
-        "flag": "🇳🇿",
-        "slug": "chiefs",
-        "played": "5",
-        "won": "3",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "21",
-        "points": "13"
-      },
-      {
         "rank": "9",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
         "slug": "fijian-drua",
-        "played": "5",
+        "played": "6",
         "won": "2",
         "drawn": "0",
-        "lost": "3",
-        "diff": "-32",
+        "lost": "4",
+        "diff": "-57",
         "points": "8"
       },
       {
@@ -927,11 +927,11 @@
         "display_name": "ウェスタン・フォース",
         "flag": "🇦🇺",
         "slug": "western-force",
-        "played": "5",
+        "played": "6",
         "won": "1",
         "drawn": "0",
-        "lost": "4",
-        "diff": "-42",
+        "lost": "5",
+        "diff": "-52",
         "points": "4"
       },
       {
