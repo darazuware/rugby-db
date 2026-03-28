@@ -401,12 +401,12 @@
         "display_name": "トゥールーズ",
         "flag": "🇫🇷",
         "slug": "toulouse",
-        "played": "19",
-        "won": "14",
+        "played": "20",
+        "won": "15",
         "drawn": "0",
         "lost": "5",
-        "diff": "+341",
-        "points": "67"
+        "diff": "+359",
+        "points": "71"
       },
       {
         "rank": "2",
@@ -414,11 +414,11 @@
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
         "slug": "montpellier",
-        "played": "19",
+        "played": "20",
         "won": "11",
         "drawn": "1",
-        "lost": "7",
-        "diff": "+174",
+        "lost": "8",
+        "diff": "+156",
         "points": "57"
       },
       {
@@ -623,6 +623,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Fidelity SecureDrive Lions",
+        "display_name": "Fidelity SecureDrive Lions",
+        "flag": "🇫🇷",
+        "slug": "fidelity-securedrive-lions",
+        "played": "14",
+        "won": "8",
+        "drawn": "1",
+        "lost": "5",
+        "diff": "36",
+        "points": "43"
+      },
+      {
+        "rank": "5",
         "team_name": "Ulster Rugby",
         "display_name": "アルスター・ラグビー",
         "flag": "🇮🇪",
@@ -635,7 +648,7 @@
         "points": "42"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "Cardiff Rugby",
         "display_name": "カーディフ・ラグビー",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -648,7 +661,7 @@
         "points": "41"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "Munster Rugby",
         "display_name": "マンスター・ラグビー",
         "flag": "🇮🇪",
@@ -661,7 +674,7 @@
         "points": "41"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "Vodacom Bulls",
         "display_name": "ヴォーダコム・ブルズ",
         "flag": "🇿🇦",
@@ -674,30 +687,17 @@
         "points": "40"
       },
       {
-        "rank": "8",
-        "team_name": "Fidelity SecureDrive Lions",
-        "display_name": "Fidelity SecureDrive Lions",
-        "flag": "🇫🇷",
-        "slug": "fidelity-securedrive-lions",
-        "played": "13",
-        "won": "7",
-        "drawn": "1",
-        "lost": "5",
-        "diff": "20",
-        "points": "38"
-      },
-      {
         "rank": "9",
         "team_name": "Connacht Rugby",
         "display_name": "コナート・ラグビー",
         "flag": "🇮🇪",
         "slug": "connacht-rugby",
-        "played": "13",
-        "won": "6",
+        "played": "14",
+        "won": "7",
         "drawn": "0",
         "lost": "7",
-        "diff": "3",
-        "points": "35"
+        "diff": "10",
+        "points": "39"
       },
       {
         "rank": "10",
@@ -718,12 +718,12 @@
         "display_name": "オスプリーズ",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
         "slug": "ospreys",
-        "played": "13",
+        "played": "14",
         "won": "5",
         "drawn": "2",
-        "lost": "6",
-        "diff": "-25",
-        "points": "29"
+        "lost": "7",
+        "diff": "-32",
+        "points": "30"
       },
       {
         "rank": "12",
@@ -770,12 +770,12 @@
         "display_name": "Dragons RFC",
         "flag": "🇫🇷",
         "slug": "dragons-rfc",
-        "played": "13",
+        "played": "14",
         "won": "2",
         "drawn": "3",
-        "lost": "8",
-        "diff": "-67",
-        "points": "20"
+        "lost": "9",
+        "diff": "-83",
+        "points": "21"
       },
       {
         "rank": "16",
