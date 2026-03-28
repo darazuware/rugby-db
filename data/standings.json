@@ -653,15 +653,28 @@
         "display_name": "マンスター・ラグビー",
         "flag": "🇮🇪",
         "slug": "munster-rugby",
-        "played": "13",
+        "played": "14",
         "won": "8",
         "drawn": "0",
-        "lost": "5",
-        "diff": "-22",
-        "points": "39"
+        "lost": "6",
+        "diff": "-25",
+        "points": "41"
       },
       {
         "rank": "7",
+        "team_name": "Vodacom Bulls",
+        "display_name": "ヴォーダコム・ブルズ",
+        "flag": "🇿🇦",
+        "slug": "vodacom-bulls",
+        "played": "14",
+        "won": "8",
+        "drawn": "0",
+        "lost": "6",
+        "diff": "57",
+        "points": "40"
+      },
+      {
+        "rank": "8",
         "team_name": "Fidelity SecureDrive Lions",
         "display_name": "Fidelity SecureDrive Lions",
         "flag": "🇫🇷",
@@ -672,19 +685,6 @@
         "lost": "5",
         "diff": "20",
         "points": "38"
-      },
-      {
-        "rank": "8",
-        "team_name": "Vodacom Bulls",
-        "display_name": "ヴォーダコム・ブルズ",
-        "flag": "🇿🇦",
-        "slug": "vodacom-bulls",
-        "played": "13",
-        "won": "7",
-        "drawn": "0",
-        "lost": "6",
-        "diff": "54",
-        "points": "35"
       },
       {
         "rank": "9",
@@ -1021,6 +1021,19 @@
       },
       {
         "rank": "3",
+        "team_name": "Leicester Tigers",
+        "display_name": "レスター・タイガーズ",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "leicester-tigers",
+        "played": "12",
+        "won": "9",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "96",
+        "points": "46"
+      },
+      {
+        "rank": "4",
         "team_name": "Exeter Chiefs",
         "display_name": "エクセター・チーフス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1031,19 +1044,6 @@
         "lost": "3",
         "diff": "129",
         "points": "45"
-      },
-      {
-        "rank": "4",
-        "team_name": "Leicester Tigers",
-        "display_name": "レスター・タイガーズ",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "leicester-tigers",
-        "played": "11",
-        "won": "8",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "77",
-        "points": "41"
       },
       {
         "rank": "5",
@@ -1090,11 +1090,11 @@
         "display_name": "グロスター・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "gloucester-rugby",
-        "played": "11",
+        "played": "12",
         "won": "2",
         "drawn": "0",
-        "lost": "9",
-        "diff": "-114",
+        "lost": "10",
+        "diff": "-133",
         "points": "16"
       },
       {
