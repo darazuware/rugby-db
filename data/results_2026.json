@@ -842,7 +842,7 @@
       "round": 13,
       "home": "ブラックラムズ東京",
       "away": "三菱重工相模原ダイナボアーズ",
-      "score": "VS",
+      "score": "26-0",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29331"
@@ -853,7 +853,7 @@
       "round": 13,
       "home": "浦安D-Rocks",
       "away": "三重ホンダヒート",
-      "score": "VS",
+      "score": "17-26",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29332"
@@ -2173,7 +2173,7 @@
       "round": 10,
       "home": "狭山セコムラガッツ",
       "away": "中国電力レッドレグリオンズ",
-      "score": "VS",
+      "score": "43-7",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29448"
@@ -4456,6 +4456,56 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11445-toulouse-montpellier"
+    },
+    {
+      "round": 20,
+      "date": "2026-03-28",
+      "home": "カストル",
+      "away": "モントーバン",
+      "score": "49 - 17",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11441-castres-montauban"
+    },
+    {
+      "round": 20,
+      "date": "2026-03-28",
+      "home": "リヨン",
+      "away": "ボルドー・ベグル",
+      "score": "17 - 21",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11442-lyon-bordeaux-begles"
+    },
+    {
+      "round": 20,
+      "date": "2026-03-28",
+      "home": "ポー",
+      "away": "ラシン92",
+      "score": "27 - 17",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11443-pau-racing-92"
+    },
+    {
+      "round": 20,
+      "date": "2026-03-28",
+      "home": "ペルピニャン",
+      "away": "トゥーロン",
+      "score": "36 - 20",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11446-perpignan-toulon"
+    },
+    {
+      "round": 20,
+      "date": "2026-03-28",
+      "home": "バイヨンヌ",
+      "away": "ラ・ロシェル",
+      "score": "26 - 15",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j20/11440-bayonne-la-rochelle"
     }
   ],
   "urc": [
