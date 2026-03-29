@@ -1,0 +1,27 @@
+---
+title: "Reo Matsushita | 松下 怜央"
+name_en: "Reo Matsushita"
+name_ja: "松下 怜央"
+slug: "reo-matsushita"
+position: "UTB"
+height: "183.0"
+weight: "93.0"
+birth_date: "2001.01.31"
+age: 25
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "クボタスピアーズ船橋・東京ベイ（2025-26）"
+caps: ""
+high_school: "関東学院大学六浦高校"
+university: "早稲田大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/483742"
+league_one_caps: "7"
+career_history_json: '[{"year": 2023, "teams": ["S東京ベイ"]}, {"year": 2024, "teams": ["S東京ベイ"]}, {"year": 2025, "teams": ["S東京ベイ"]}, {"year": 2026, "teams": ["S東京ベイ"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+S東京ベイ (2023 - )

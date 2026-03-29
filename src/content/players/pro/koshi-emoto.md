@@ -1,0 +1,27 @@
+---
+title: "Koshi Emoto | 江本 洸志"
+name_en: "Koshi Emoto"
+name_ja: "江本 洸志"
+slug: "koshi-emoto"
+position: "FB"
+height: "173.0"
+weight: "78.0"
+birth_date: "2000.01.12"
+age: 26
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "クリタウォーターガッシュ昭島（2025-26）"
+caps: ""
+high_school: "日本航空高校石川"
+university: "天理大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/483799"
+league_one_caps: "21"
+career_history_json: '[{"year": 2022, "teams": ["クリタウォーターガッシュ昭島"]}, {"year": 2023, "teams": ["クリタウォーターガッシュ昭島"]}, {"year": 2024, "teams": ["クリタウォーターガッシュ昭島"]}, {"year": 2025, "teams": ["クリタウォーターガッシュ昭島"]}, {"year": 2026, "teams": ["クリタウォーターガッシュ昭島"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+クリタウォーターガッシュ昭島 (2022 - )

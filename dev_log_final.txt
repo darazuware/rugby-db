@@ -1,0 +1,122 @@
+
+> shaggy-spiral@0.0.1 dev
+> astro dev
+
+03:21:32 [types] Generated 0ms
+03:21:34 [content] Syncing content
+03:21:34 [WARN] [glob-loader] Duplicate id "amanaki-lisala" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/amanaki-lisala.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "atsuro-nakamura" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/atsuro-nakamura.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "atsushi-mizofuchi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/atsushi-mizofuchi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "chisonn-kinn" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/chisonn-kinn.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "connor-anderson" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/connor-anderson.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "daichi-nagayama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/daichi-nagayama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "daigo-uehata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/daigo-uehata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "daisuke-fujikura" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/daisuke-fujikura.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "daisuke-hijii" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/daisuke-hijii.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "daishirou-inoue" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/daishirou-inoue.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "doga-maeda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/doga-maeda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "edward-quirk" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/edward-quirk.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "elijah-uitime" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/elijah-uitime.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "fakataha-havili" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/fakataha-havili.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "finau-makavaha" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/finau-makavaha.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "fumiya-saito" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/fumiya-saito.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "haru-tomoda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/haru-tomoda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "haruki-miyata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/haruki-miyata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "haruto-makiyama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/haruto-makiyama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hashizou-yoshida" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hashizou-yoshida.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hayato-fukumoto" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hayato-fukumoto.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hayato-miyazaki" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hayato-miyazaki.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hayato-moriyama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hayato-moriyama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hibiki-nakazawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hibiki-nakazawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hirofumi-higashikawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hirofumi-higashikawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "hisanori-mimata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/hisanori-mimata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "iosefatu-mareko" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/iosefatu-mareko.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "issei-shige" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/issei-shige.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kaen-hirano" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kaen-hirano.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kaito-shige" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kaito-shige.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kanta-hasegawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kanta-hasegawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kazuki-yasui" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kazuki-yasui.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "keisuke-maeda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/keisuke-maeda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "keita-terada" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/keita-terada.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kenji-nigara" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kenji-nigara.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kennta-kitayama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kennta-kitayama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kennta-ueda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kennta-ueda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kennto-yamamoto" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kennto-yamamoto.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kentaro-iwanaga" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kentaro-iwanaga.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kentaro-nagatomi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kentaro-nagatomi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kentaro-obata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kentaro-obata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kentarou-fujii" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kentarou-fujii.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kento-miyata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kento-miyata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kohei-matsunaga" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kohei-matsunaga.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kojiro-arito" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kojiro-arito.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "kota-moriyama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/kota-moriyama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "koutarou-ohashi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/koutarou-ohashi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "koyo-mitsunaga" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/koyo-mitsunaga.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "makoto-torikai" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/makoto-torikai.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "manase-havili" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/manase-havili.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masaaki-morita" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masaaki-morita.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masahiro-eriguchi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masahiro-eriguchi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masafumi-tanabe" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masafumi-tanabe.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masahiro-nakano" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masahiro-nakano.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masahito-tonomoto" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masahito-tonomoto.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "masakazu-yatsumonji" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/masakazu-yatsumonji.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "noriyuki-kureyama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/noriyuki-kureyama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rafi-kurokawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rafi-kurokawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rei-shibata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rei-shibata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rihito-katou" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rihito-katou.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "riki-yamaguchi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/riki-yamaguchi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "riku-iwai" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/riku-iwai.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rintaro-kawasima" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rintaro-kawasima.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rintarou-noda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rintarou-noda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "rinto-kagawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/rinto-kagawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "ryousei-kohara" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/ryousei-kohara.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "ryuuju-murata" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/ryuuju-murata.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "sebasstian-sialau" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/sebasstian-sialau.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "seiya-kitajima" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/seiya-kitajima.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shinnya-hirayama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shinnya-hirayama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shintaro-matsuda" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shintaro-matsuda.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "sho-morita" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/sho-morita.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shohei-tsukamoto" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shohei-tsukamoto.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shoon-kataoka" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shoon-kataoka.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shun-terawaki" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shun-terawaki.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "shunya-kato" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/shunya-kato.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "sitalekitaufa-makisi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/sitalekitaufa-makisi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "syougo-azuma" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/syougo-azuma.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "syoutarou-matsuo" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/syoutarou-matsuo.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "syuuta-takami" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/syuuta-takami.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "syuuto-inoue" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/syuuto-inoue.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "taiga-mihara" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/taiga-mihara.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "taiki-washiya" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/taiki-washiya.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "taiyou-minami" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/taiyou-minami.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "taiyou-kubo" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/taiyou-kubo.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "takehiro-kimura" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/takehiro-kimura.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "takuto-kajiwara" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/takuto-kajiwara.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "taro-nishikawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/taro-nishikawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tarou-ide" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tarou-ide.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tatsuya-kuzumi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tatsuya-kuzumi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tatto-katsuta" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tatto-katsuta.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tomoki-nobeta" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tomoki-nobeta.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tomonari-aoki" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tomonari-aoki.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "toshiyuki-ohki" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/toshiyuki-ohki.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tsubasa-arai" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tsubasa-arai.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "tsuyoshi-hasegawa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/tsuyoshi-hasegawa.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "wataru-furuya" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/wataru-furuya.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yoshiaki-takeuchi" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yoshiaki-takeuchi.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yoshiteru-hino" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yoshiteru-hino.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yoshitsumi-shimora" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yoshitsumi-shimora.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuki-asai" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuki-asai.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yusuke-aramaki" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yusuke-aramaki.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yusyo-narita" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yusyo-narita.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuta-nishihama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuta-nishihama.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuto-matsuoka" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuto-matsuoka.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuuki-kouno" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuuki-kouno.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuuki-mitamura" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuuki-mitamura.md. Later items with the same id will overwrite earlier ones.
+03:21:34 [WARN] [glob-loader] Duplicate id "yuuki-uchiyama" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/pro/yuuki-uchiyama.md. Later items with the same id will overwrite earlier ones.
+03:21:35 [content] Synced content
+
+ astro  v5.18.1 ready in 7729 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+
+03:21:40 watching for file changes...

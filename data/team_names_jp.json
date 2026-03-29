@@ -676,5 +676,259 @@
                 "Newcastle Red Bulls"
             ]
         }
+    },
+    "top-west-a": {
+        "中部電力": {
+            "jp": "中部電力",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "Daigas Struggers": {
+            "jp": "Daigas Struggers",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["大阪ガス"]
+        },
+        "大阪府警察": {
+            "jp": "大阪府警察",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "島津製作所 Breakers": {
+            "jp": "島津製作所 Breakers",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["島津製作所"]
+        },
+        "JR西日本レイラーズ": {
+            "jp": "JR西日本レイラーズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["JR西日本"]
+        }
+    },
+    "top-kyushu": {
+        "安川電機": {
+            "jp": "安川電機",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "三菱重工長崎": {
+            "jp": "三菱重工長崎",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "FFGブルーカスケーズ": {
+            "jp": "FFGブルーカスケーズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["福岡銀行"]
+        },
+        "JR九州サンダース": {
+            "jp": "JR九州サンダース",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["JR九州"]
+        },
+        "鹿児島銀行": {
+            "jp": "鹿児島銀行",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        }
+    },
+    "top-east-a": {
+        "AZ-COM丸和MOMOTARO'S": {
+            "jp": "AZ-COM丸和MOMOTARO'S",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["AZ-COM丸和", "MOMOTARO'S", "丸和"]
+        },
+        "横河武蔵野アトラスターズ": {
+            "jp": "横河武蔵野アトラスターズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["横河武蔵野"]
+        },
+        "東京ガス": {
+            "jp": "東京ガス",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "秋田ノーザンブレッツRFC": {
+            "jp": "秋田ノーザンブレッツRFC",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["秋田NB"]
+        }
+    },
+    "top-east-b": {
+        "クリーンファイターズ山梨": {
+            "jp": "クリーンファイターズ山梨",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "明治安田生命ホーリーズ": {
+            "jp": "明治安田生命ホーリーズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["明治安田生命"]
+        },
+        "ライオンファングス": {
+            "jp": "ライオンファングス",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["ライオン"]
+        },
+        "日立製作所Sun Nexus": {
+            "jp": "日立製作所Sun Nexus",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["日立製作所"]
+        },
+        "富士フイルムBIグリーンエルクス": {
+            "jp": "富士フイルムBIグリーンエルクス",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["富士フイルム"]
+        }
+    },
+    "top-east-c": {
+        "ワセダクラブ": {
+            "jp": "ワセダクラブ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "船橋市消防局": {
+            "jp": "船橋市消防局",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "サントリーフーズ": {
+            "jp": "サントリーフーズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "大塚刷毛": {
+            "jp": "大塚刷毛",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "習志野自衛隊": {
+            "jp": "習志野自衛隊",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "警視庁ラグビー部": {
+            "jp": "警視庁ラグビー部",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["警視庁"]
+        }
+    },
+    "top-west-b": {
+        "リコージャパンBLACK AEGIS": {
+            "jp": "リコージャパンBLACK AEGIS",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["リコージャパン"]
+        },
+        "三菱自動車倉敷キングフィッシャーズ": {
+            "jp": "三菱自動車倉敷キングフィッシャーズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["三菱自動車倉敷"]
+        },
+        "三菱自動車京都レッドエボリューションズ": {
+            "jp": "三菱自動車京都レッドエボリューションズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["三菱自動車京都"]
+        },
+        "きんでんトライデントブリッツ": {
+            "jp": "きんでんトライデントブリッツ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["きんでん"]
+        },
+        "MUFGレッドブルズ": {
+            "jp": "MUFGレッドブルズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["MUFG"]
+        },
+        "三菱電機メルコダイヤモンズ": {
+            "jp": "三菱電機メルコダイヤモンズ",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["三菱電機"]
+        },
+        "JR東海": {
+            "jp": "JR東海",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "大阪教員団": {
+            "jp": "大阪教員団",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        }
+    },
+    "top-west-c": {
+        "日本新薬OWLSTARS": {
+            "jp": "日本新薬OWLSTARS",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["日本新薬"]
+        },
+        "K-POWERS": {
+            "jp": "K-POWERS",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "守口市門真市消防組合": {
+            "jp": "守口市門真市消防組合",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["守口門真消防"]
+        },
+        "大阪市消防局": {
+            "jp": "大阪市消防局",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "川崎重工": {
+            "jp": "川崎重工",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": []
+        },
+        "KOMATSU Yellow Bulls": {
+            "jp": "KOMATSU Yellow Bulls",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["KOMATSU"]
+        },
+        "Higashi-Osaka-United": {
+            "jp": "Higashi-Osaka-United",
+            "country": "日本",
+            "flag": "🇯🇵",
+            "aliases": ["東大阪ユナイテッド"]
+        }
     }
 }

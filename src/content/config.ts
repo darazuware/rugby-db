@@ -20,6 +20,8 @@ const players = defineCollection({
         scraped_url: z.string().optional(),
         high_school: z.string().optional(),
         university: z.string().optional(),
+        junior_high_school: z.string().optional(),
+        rugby_school: z.string().optional(),
         league_one_caps: z.string().optional(),
         category: z.string().optional(),
         division: z.string().optional(),
@@ -29,6 +31,7 @@ const players = defineCollection({
         matches: z.number().optional(),
         starts: z.number().optional(),
         minutes: z.number().optional(),
+        career_history_json: z.string().optional(),
     }),
 });
 

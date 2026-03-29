@@ -1,0 +1,17 @@
+
+> shaggy-spiral@0.0.1 dev
+> astro dev
+
+03:11:30 [types] Generated 0ms
+03:11:32 [content] Syncing content
+03:11:38 [content] Synced content
+03:11:38 [vite] Port 4321 is in use, trying another one...
+03:11:38 [vite] Port 4322 is in use, trying another one...
+03:11:38 [vite] Port 4323 is in use, trying another one...
+
+ astro  v5.18.1 ready in 8235 ms
+
+┃ Local    http://localhost:4324/
+┃ Network  use --host to expose
+
+03:11:38 watching for file changes...

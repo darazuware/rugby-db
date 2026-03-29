@@ -1,0 +1,27 @@
+---
+title: "Nesta Mahina | ネスタ マヒナ"
+name_en: "Nesta Mahina"
+name_ja: "ネスタ マヒナ"
+slug: "nesta-mahina"
+position: "PR"
+height: "171.0"
+weight: "113.0"
+birth_date: "2000.10.28"
+age: 25
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "横浜キヤノンイーグルス（2025-26）"
+caps: ""
+high_school: "ブリスベンステートハイスクール"
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/484806"
+league_one_caps: "6"
+career_history_json: '[{"year": 2022, "teams": ["花園近鉄ライナーズ"]}, {"year": 2023, "teams": ["花園近鉄ライナーズ"]}, {"year": 2024, "teams": ["花園近鉄ライナーズ"]}, {"year": 2025, "teams": ["横浜キヤノンイーグルス", "花園近鉄ライナーズ"]}, {"year": 2026, "teams": ["横浜キヤノンイーグルス"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+花園近鉄ライナーズ (2022 - 2025) -> 横浜キヤノンイーグルス (2025 - )

@@ -1,0 +1,27 @@
+---
+title: "Taisei Konishi | 小西 泰聖"
+name_en: "Taisei Konishi"
+name_ja: "小西 泰聖"
+slug: "taisei-konishi"
+position: "SH"
+height: "166.0"
+weight: "72.0"
+birth_date: "2000.09.01"
+age: 25
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "浦安D-Rocks（2025-26）"
+caps: "高校('18)"
+high_school: "桐蔭学園高校"
+university: "早稲田大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/483493"
+league_one_caps: "25"
+career_history_json: '[{"year": 2022, "teams": ["浦安D-Rocks"]}, {"year": 2023, "teams": ["浦安D-Rocks"]}, {"year": 2024, "teams": ["浦安D-Rocks"]}, {"year": 2025, "teams": ["浦安D-Rocks"]}, {"year": 2026, "teams": ["浦安D-Rocks"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+浦安D-Rocks (2022 - )

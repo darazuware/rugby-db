@@ -1,0 +1,27 @@
+---
+title: "Shu Yamamoto | 山本 秀"
+name_en: "Shu Yamamoto"
+name_ja: "山本 秀"
+slug: "shu-yamamoto"
+position: "LO"
+height: "190.0"
+weight: "108.0"
+birth_date: "1999.06.01"
+age: 26
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "リコーブラックラムズ東京（2025-26）"
+caps: "高校('17)、U20('19)、XV('25)"
+high_school: "京都成章高校"
+university: "近畿大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/484878"
+league_one_caps: "17"
+career_history_json: '[{"year": 2021, "teams": ["リコーブラックラムズ東京"]}, {"year": 2022, "teams": ["リコーブラックラムズ東京"]}, {"year": 2023, "teams": ["リコーブラックラムズ東京"]}, {"year": 2024, "teams": ["リコーブラックラムズ東京"]}, {"year": 2025, "teams": ["リコーブラックラムズ東京"]}, {"year": 2026, "teams": ["リコーブラックラムズ東京"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+リコーブラックラムズ東京 (2021 - )

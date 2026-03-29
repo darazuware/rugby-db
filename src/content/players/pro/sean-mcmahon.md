@@ -1,0 +1,27 @@
+---
+title: "Sean McMahon | ショーン マクマーン"
+name_en: "Sean McMahon"
+name_ja: "ショーン マクマーン"
+slug: "sean-mcmahon"
+position: "FL/No8"
+height: "186.0"
+weight: "99.0"
+birth_date: "1994.06.18"
+age: 31
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "東京サントリーサンゴリアス（2025-26）"
+caps: "オーストラリア代表(27)"
+high_school: "セントジョセフ・ナッジー"
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/484308"
+league_one_caps: "30"
+career_history_json: '[{"year": 2013, "teams": ["メルボルン・レベルズ"]}, {"year": 2014, "teams": ["メルボルン・レベルズ"]}, {"year": 2015, "teams": ["メルボルン・レベルズ"]}, {"year": 2016, "teams": ["メルボルン・レベルズ"]}, {"year": 2017, "teams": ["メルボルン・レベルズ"]}, {"year": 2018, "teams": []}, {"year": 2019, "teams": []}, {"year": 2020, "teams": []}, {"year": 2021, "teams": ["東京サントリーサンゴリアス"]}, {"year": 2022, "teams": ["東京サントリーサンゴリアス"]}, {"year": 2023, "teams": ["東京サントリーサンゴリアス"]}, {"year": 2024, "teams": ["東京サントリーサンゴリアス"]}, {"year": 2025, "teams": ["東京サントリーサンゴリアス"]}, {"year": 2026, "teams": ["東京サントリーサンゴリアス"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+メルボルン・レベルズ (2013 - 2017) -> 東京サントリーサンゴリアス (2021 - )

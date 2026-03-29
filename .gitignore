@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # Vercel
 .vercel/
+
+# AntiCrow ローカルデータ
+.anticrow/

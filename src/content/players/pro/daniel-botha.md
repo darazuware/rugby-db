@@ -1,0 +1,27 @@
+---
+title: "Daniel BOTHA"
+name_en: "Daniel BOTHA"
+name_ja: "Daniel BOTHA"
+slug: "daniel-botha"
+position: "PR"
+height: "188.0"
+weight: "120.0"
+birth_date: "2001.12.16"
+age: 24
+country: ""
+birth_place_scraped: ""
+league: "super-rugby"
+team: "Waratahs"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/daniel-botha"
+league_one_caps: ""
+career_history_json: '[{"year": 2020, "teams": ["Sydney University Football Club"]}, {"year": 2021, "teams": ["Sydney University Football Club"]}, {"year": 2022, "teams": ["Sydney University Football Club"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+Sydney University Football Club (2020 - 2022) -> New South Wales Waratahs (2022 - )

@@ -1,0 +1,27 @@
+---
+title: "Naohiro Kotaki | 小瀧 尚弘"
+name_en: "Naohiro Kotaki"
+name_ja: "小瀧 尚弘"
+slug: "naohiro-kotaki"
+position: "LO"
+height: "194.0"
+weight: "111.0"
+birth_date: "1992.06.13"
+age: 33
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "コベルコ神戸スティーラーズ（2025-26）"
+caps: "高校('10)、U23('16)、日本代表(11)"
+high_school: "鹿児島実業高校"
+university: "帝京大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/483961"
+league_one_caps: "35"
+career_history_json: '[{"year": 2015, "teams": ["サンウルブズ"]}, {"year": 2016, "teams": ["サンウルブズ"]}, {"year": 2017, "teams": ["サンウルブズ", "東芝ブレイブルーパス東京"]}, {"year": 2018, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2019, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2020, "teams": ["東芝ブレイブルーパス東京"]}, {"year": 2021, "teams": ["コベルコ神戸スティーラーズ", "東芝ブレイブルーパス東京"]}, {"year": 2022, "teams": ["コベルコ神戸スティーラーズ"]}, {"year": 2023, "teams": ["コベルコ神戸スティーラーズ"]}, {"year": 2024, "teams": ["コベルコ神戸スティーラーズ"]}, {"year": 2025, "teams": ["コベルコ神戸スティーラーズ"]}, {"year": 2026, "teams": ["コベルコ神戸スティーラーズ"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+サンウルブズ (2015 - 2017) -> 東芝ブレイブルーパス東京 (2017 - 2021) -> コベルコ神戸スティーラーズ (2021 - )

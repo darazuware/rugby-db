@@ -1,0 +1,27 @@
+---
+title: "SJ KOTZE"
+name_en: "SJ KOTZE"
+name_ja: "SJ KOTZE"
+slug: "sj-kotze"
+position: "HO"
+height: "186.0"
+weight: "110.0"
+birth_date: "2003.01.02"
+age: 23
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Lions"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/sj-kotze"
+league_one_caps: ""
+career_history_json: '[{"year": 2022, "teams": ["Golden Lions"]}, {"year": 2023, "teams": ["Golden Lions"]}, {"year": 2024, "teams": ["Golden Lions", "Lions Rugby"]}, {"year": 2025, "teams": ["Lions Rugby"]}, {"year": 2026, "teams": ["Lions Rugby"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+Golden Lions (2022 - 2024) -> Lions Rugby (2024 - )

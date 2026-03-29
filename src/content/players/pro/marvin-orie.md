@@ -1,0 +1,27 @@
+---
+title: "Marvin ORIE | マーヴィン オリー"
+name_en: "Marvin ORIE"
+name_ja: "マーヴィン オリー"
+slug: "marvin-orie"
+position: "LO"
+height: "198.0"
+weight: "118.0"
+birth_date: "1993.02.15"
+age: 33
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Sharks"
+caps: "South Africa (14)"
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "bulls (2013 - 2016) -> lions rugby (2016 - 2019) -> ospreys (2019 - 2019) -> lions rugby (2019 - 2019) -> ospreys (2020 - 2020) -> lions rugby (2020 - 2020) -> stormers (2020 - 2023) -> union sportive arlequins perpignanais (2023 - 2024) -> blue bulls (2024 - 2024) -> union sportive arlequins perpignanais (2025 - 2025) -> blue bulls (2025 - 2025) -> sharks (2025 - 2026)"
+league_one_caps: ""
+career_history_json: '[]'
+category: "pro"
+---
+
+## キャリア遍歴
+South Africa

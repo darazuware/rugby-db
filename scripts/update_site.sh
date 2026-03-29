@@ -17,6 +17,9 @@ python3 scripts/scrape_premiership_results.py
 echo "リーグワン選手のキャップ数を更新中..."
 python3 scripts/scrape_leagueone_caps.py
 
+echo "高校・大学の選手情報を取得中..."
+python3 scripts/scrape_jrfu_schools.py
+
 # 2. 順位情報の更新 (all.rugby および各公式から最新取得)
 echo "最新の順位情報を取得中..."
 python3 scripts/scrape_standings.py

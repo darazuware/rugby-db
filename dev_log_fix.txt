@@ -1,0 +1,96 @@
+
+> shaggy-spiral@0.0.1 dev
+> astro dev
+
+03:08:50 [types] Generated 0ms
+03:08:54 [content] Syncing content
+03:08:54 [WARN] [glob-loader] Duplicate id "player-035126ba" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-035126ba.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-0ac011ce" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-0ac011ce.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-09c49dfa" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-09c49dfa.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-0e75e5d2" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-0e75e5d2.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-0de5c8a5" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-0de5c8a5.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-11e7c4fe" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-11e7c4fe.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-13144774" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-13144774.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-135b64c2" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-135b64c2.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-1622d10b" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-1622d10b.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-0ff0f2d0" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-0ff0f2d0.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-2102ceb5" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-2102ceb5.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-21650a7f" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-21650a7f.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-2d95a6ad" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-2d95a6ad.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-23c626af" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-23c626af.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-2e095e1a" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-2e095e1a.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-174e1951" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-174e1951.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-300037cb" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-300037cb.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-18c59bf0" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-18c59bf0.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-45255934" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-45255934.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-1dda3402" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-1dda3402.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-45431dae" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-45431dae.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-4a4d83b8" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-4a4d83b8.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-4a6a7719" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-4a6a7719.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-4e704766" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-4e704766.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-5031e2b4" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-5031e2b4.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-48b22cb3" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-48b22cb3.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-521ba8b8" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-521ba8b8.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-587794b2" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-587794b2.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-5085907f" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-5085907f.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-5eed3a5c" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-5eed3a5c.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-61b10a6d" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-61b10a6d.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-5f60b7f2" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-5f60b7f2.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-6d2875e1" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-6d2875e1.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-67c83677" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-67c83677.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-728de328" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-728de328.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-7761e103" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-7761e103.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-7385ea1c" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-7385ea1c.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-81cac557" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-81cac557.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-85ad92bf" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-85ad92bf.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-863c0360" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-863c0360.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-8aafb830" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-8aafb830.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-901775dd" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-901775dd.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-95c42d44" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-95c42d44.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-91f3970b" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-91f3970b.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-9643d68d" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-9643d68d.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-9928ee83" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-9928ee83.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-9a6ce348" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-9a6ce348.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-979f53f6" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-979f53f6.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-9d1d99bc" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-9d1d99bc.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-a063e184" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-a063e184.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-a4a7888d" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-a4a7888d.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-a523ee61" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-a523ee61.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-a26e04eb" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-a26e04eb.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-b0b95f79" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-b0b95f79.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-b3e2ae3e" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-b3e2ae3e.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-a9e77221" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-a9e77221.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-b7115290" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-b7115290.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-c251ee61" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-c251ee61.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-c6b9c2f7" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-c6b9c2f7.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-c9dc65d1" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-c9dc65d1.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-cba32dfd" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-cba32dfd.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-ce3dbf72" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-ce3dbf72.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-cf712e44" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-cf712e44.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-d2d6f2ee" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-d2d6f2ee.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-d79e4843" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-d79e4843.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-dac83aec" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-dac83aec.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-dfb70471" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-dfb70471.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-e3a68bb2" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-e3a68bb2.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-e18f526a" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-e18f526a.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-e46ecef5" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-e46ecef5.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-f2882afb" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-f2882afb.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-f0be304a" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-f0be304a.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-f2f7ccc9" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-f2f7ccc9.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-f5be55dc" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-f5be55dc.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-fce61387" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-fce61387.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-fec5b6ff" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-fec5b6ff.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-f5c4e7c6" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-f5c4e7c6.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "player-ff269fba" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-east/player-ff269fba.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "平野-佑馬" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-west-a/平野-佑馬.md. Later items with the same id will overwrite earlier ones.
+03:08:54 [WARN] [glob-loader] Duplicate id "田中-大喜" found in /Users/ktamatzmoto/Desktop/rugbypicks/src/content/players/top-west-a/田中-大喜.md. Later items with the same id will overwrite earlier ones.
+03:08:56 [content] Synced content
+03:08:56 [vite] Port 4321 is in use, trying another one...
+03:08:56 [vite] Port 4322 is in use, trying another one...
+
+ astro  v5.18.1 ready in 6498 ms
+
+┃ Local    http://localhost:4323/
+┃ Network  use --host to expose
+
+03:08:56 watching for file changes...

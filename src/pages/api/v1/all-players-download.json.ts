@@ -18,8 +18,13 @@ export const GET: APIRoute = async () => {
     const data = allPlayers.map(p => {
       const normalizedTeamName = p.data.team?.trim() || "";
       const division = (normalizedTeamName ? teamToDivision[normalizedTeamName] : "") || p.data.division || "";
+      
+      // スラグをフラットに変換（ディレクトリ名を除去）
+      const parts = p.slug.split('/');
+      const flatSlug = parts[parts.length - 1];
+
       return {
-        slug: p.slug,
+        slug: flatSlug,
         data: {
           ...p.data,
           division: division

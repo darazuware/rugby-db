@@ -1,0 +1,27 @@
+---
+title: "Kavaia Tagivetaua | カヴァイア タギヴェタウア"
+name_en: "Kavaia Tagivetaua"
+name_ja: "カヴァイア タギヴェタウア"
+slug: "kavaia-tagivetaua"
+position: "LO"
+height: "194.0"
+weight: "112.0"
+birth_date: "1997.08.08"
+age: 28
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "コベルコ神戸スティーラーズ（2025-26）"
+caps: ""
+high_school: "ハミルトンボーイズ"
+university: "白鴎大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/485729"
+league_one_caps: "33"
+career_history_json: '[{"year": 2024, "teams": ["フィジアン・ドゥルア"]}, {"year": 2025, "teams": ["フィジアン・ドゥルア"]}, {"year": 2026, "teams": ["フィジアン・ドゥルア"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+フィジアン・ドゥルア (2024 - )

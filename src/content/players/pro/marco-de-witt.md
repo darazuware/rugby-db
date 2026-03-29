@@ -1,0 +1,27 @@
+---
+title: "Marco DE WITT | マルコ デ ウィット"
+name_en: "Marco DE WITT"
+name_ja: "マルコ デ ウィット"
+slug: "marco-de-witt"
+position: "FL/No8"
+height: "193.0"
+weight: "101.0"
+birth_date: "2002.01.24"
+age: 24
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Ospreys"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/marco-de-witt"
+league_one_caps: ""
+career_history_json: '[{"year": 2023, "teams": ["griquas", "sharks"]}, {"year": 2024, "teams": ["griquas", "sharks"]}, {"year": 2025, "teams": ["griquas", "ospreys"]}, {"year": 2026, "teams": ["ospreys"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+sharks (2023 - 2024) -> griquas (2023 - 2025) -> ospreys (2025 - )

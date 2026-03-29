@@ -1,0 +1,27 @@
+---
+title: "Taisei Fukuda | 福田 大晟"
+name_en: "Taisei Fukuda"
+name_ja: "福田 大晟"
+slug: "taisei-fukuda"
+position: "FL/No8"
+height: "173.0"
+weight: "95.0"
+birth_date: "2002.10.29"
+age: 23
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "静岡ブルーレヴズ（2025-26）"
+caps: ""
+high_school: "中部大春日丘高校"
+university: "明治大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/484153"
+league_one_caps: "0"
+career_history_json: '[{"year": 2024, "teams": ["静岡ブルーレヴズ"]}, {"year": 2025, "teams": ["静岡ブルーレヴズ"]}, {"year": 2026, "teams": ["静岡ブルーレヴズ"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+静岡ブルーレヴズ (2024 - )

@@ -20,6 +20,8 @@ interface Player {
         league?: string;
         high_school?: string;
         university?: string;
+        junior_high_school?: string;
+        rugby_school?: string;
         tries?: number;
         matches?: number;
         starts?: number;
@@ -105,7 +107,16 @@ const LEAGUES = [
     { id: 'super-rugby', name: 'SUPER RUGBY' },
     { id: 'top14', name: 'TOP 14' },
     { id: 'urc', name: 'URC' },
-    { id: 'premiership', name: 'PREM' }
+    { id: 'premiership', name: 'PREM' },
+    { id: 'high-school', name: 'HIGH SCHOOL' },
+    { id: 'university', name: 'UNIVERSITY' },
+    { id: 'top-east-a', name: 'TOP EAST A' },
+    { id: 'top-east-b', name: 'TOP EAST B' },
+    { id: 'top-east-c', name: 'TOP EAST C' },
+    { id: 'top-west-a', name: 'TOP WEST A' },
+    { id: 'top-west-b', name: 'TOP WEST B' },
+    { id: 'top-west-c', name: 'TOP WEST C' },
+    { id: 'top-kyushu', name: 'TOP KYUSHU' }
 ];
 
 const SCHOOL_SYNONYMS: Record<string, string[]> = {
@@ -369,7 +380,9 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             const synonyms = SCHOOL_SYNONYMS[search] || [searchLower];
             const matchSchool = synonyms.some(s => 
                 (p.data.high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
-                (p.data.university?.toLowerCase() ?? '').includes(s.toLowerCase())
+                (p.data.university?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
+                (p.data.junior_high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
+                (p.data.rugby_school?.toLowerCase() ?? '').includes(s.toLowerCase())
             );
 
             const matchSearch =
@@ -526,6 +539,69 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 focus: 'focus:border-[#FE5000]'
             };
         }
+        if (l === 'highschool') {
+            return {
+                accent: 'bg-yellow-400',
+                border: 'border-yellow-400',
+                text: 'text-yellow-400',
+                shadow: 'shadow-yellow-200',
+                focus: 'focus:border-yellow-400'
+            };
+        }
+        if (l === 'university') {
+            return {
+                accent: 'bg-emerald-500',
+                border: 'border-emerald-500',
+                text: 'text-emerald-500',
+                shadow: 'shadow-emerald-200',
+                focus: 'focus:border-emerald-500'
+            };
+        }
+        if (l === 'topeasta') {
+            return {
+                accent: 'bg-[#1e1b4b]', // 濃紺
+                border: 'border-[#1e1b4b]',
+                text: 'text-[#1e1b4b]',
+                shadow: 'shadow-[#1e1b4b]/20',
+                focus: 'focus:border-[#1e1b4b]'
+            };
+        }
+        if (l === 'topeastb') {
+            return {
+                accent: 'bg-[#064e3b]', // 深緑
+                border: 'border-[#064e3b]',
+                text: 'text-[#064e3b]',
+                shadow: 'shadow-[#064e3b]/20',
+                focus: 'focus:border-[#064e3b]'
+            };
+        }
+        if (l === 'topeastc') {
+            return {
+                accent: 'bg-[#7c2d12]', // 橙
+                border: 'border-[#7c2d12]',
+                text: 'text-[#7c2d12]',
+                shadow: 'shadow-[#7c2d12]/20',
+                focus: 'focus:border-[#7c2d12]'
+            };
+        }
+        if (l === 'top-kyushu') {
+            return {
+                accent: 'bg-[#800000]', // ワインレッド
+                border: 'border-[#800000]',
+                text: 'text-[#800000]',
+                shadow: 'shadow-[#800000]/20',
+                focus: 'focus:border-[#800000]'
+            };
+        }
+        if (l?.startsWith('top-west')) {
+            return {
+                accent: 'bg-[#00AFCC]', // ターコイズブルー
+                border: 'border-[#00AFCC]',
+                text: 'text-[#00AFCC]',
+                shadow: 'shadow-[#00AFCC]/20',
+                focus: 'focus:border-[#00AFCC]'
+            };
+        }
         return defaultTheme;
     };
 
@@ -545,7 +621,11 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
                 {!leagueContext && (
                     <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
                         <h1 className="text-4xl font-black text-foreground tracking-tighter italic">
-                            RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">選手名鑑</span>
+                            RUGBY<span className={theme.textAccent}>PICKS</span> <span className="not-italic">
+                                {selectedLeagues.length === 1 && selectedLeagues[0] === 'high-school' ? '高校ラグビー名鑑' :
+                                 selectedLeagues.length === 1 && selectedLeagues[0] === 'university' ? '大学ラグビー名鑑' :
+                                 '選手名鑑'}
+                            </span>
                         </h1>
                     </div>
                 )}

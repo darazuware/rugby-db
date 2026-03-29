@@ -1,0 +1,27 @@
+---
+title: "Tadatsugu Kanayama | 金山 忠次"
+name_en: "Tadatsugu Kanayama"
+name_ja: "金山 忠次"
+slug: "tadatsugu-kanayama"
+position: "PR"
+height: "179.0"
+weight: "110.0"
+birth_date: "2000.09.08"
+age: 25
+country: ""
+birth_place_scraped: ""
+league: "league-one"
+team: "マツダスカイアクティブズ広島（2025-26）"
+caps: ""
+high_school: "天理高校"
+university: "天理大学"
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://league-one.jp/player/484627"
+league_one_caps: "28"
+career_history_json: '[{"year": 2023, "teams": ["マツダスカイアクティブズ広島"]}, {"year": 2024, "teams": ["マツダスカイアクティブズ広島"]}, {"year": 2025, "teams": ["マツダスカイアクティブズ広島"]}, {"year": 2026, "teams": ["マツダスカイアクティブズ広島"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+マツダスカイアクティブズ広島 (2023 - )

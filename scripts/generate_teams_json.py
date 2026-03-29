@@ -127,12 +127,49 @@ def main():
         "ゼブレ・パルマ": ("Stadio Sergio Lanfranchi", "Viale Sergio Lanfranchi, 1, 43122 Parma, Italy")
     }
 
-    if os.path.exists(MASTER_CSV):
-        with open(MASTER_CSV, mode='r', encoding='utf-8-sig') as f:
+    # PROJECT_ROOTの定義 (スクリプトの親ディレクトリをルートとする)
+    PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+    # リーグごとのチーム辞書
+    leagues_teams = {
+        'league-one': {},
+        'super-rugby': {},
+        'urc': {},
+        'top14': {},
+        'premiership': {},
+        'high-school': {},
+        'university': {},
+        'top-east-a': {},
+        'top-east-b': {},
+        'top-east-c': {},
+        'top-kyushu': {},
+        'top-west-a': {}
+    }
+
+    # 各CSVからチームを抽出
+    csv_configs = [
+        ('data_sources/final_master_data_v27_normalized.csv', None), # Pro は個別判定
+        ('data_sources/high_school_players.csv', 'high-school'),
+        ('data_sources/university_players.csv', 'university'),
+        ('data_sources/top_east_players.csv', None), # League カラムから取得
+        ('data_sources/top_kyushu_players.csv', 'top-kyushu'),
+        ('data_sources/top_west_players.csv', 'top-west-a')
+    ]
+
+    for csv_rel_path, default_league in csv_configs:
+        csv_path = os.path.join(PROJECT_ROOT, csv_rel_path)
+        if not os.path.exists(csv_path): continue
+        
+        print(f"Extracting teams from {csv_path}...")
+        with open(csv_path, mode='r', encoding='utf-8-sig') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                league = str(row.get('League', '')).strip().lower()
-                if league == 'leagueone': league = 'league-one'
+                if default_league:
+                    league = default_league
+                else:
+                    league = str(row.get('League', '')).strip().lower()
+                    if league == 'leagueone': league = 'league-one'
+                
                 if league not in leagues_teams: continue
                 
                 t_name = row.get('Current_Team')
@@ -143,9 +180,7 @@ def main():
                     jp_name = info.get('jp', t_name) if info else t_name
                     en_name = info.get('name_en', t_name) if info else t_name
                     
-                    # スラッグ決定
                     slug = info['slug'] if info else slugify(en_name)
-                    # 手動マッピング優先
                     if league == 'top14' and jp_name in top14_slug_map:
                         slug = top14_slug_map[jp_name]
                     elif league == 'premiership' and jp_name in prem_slug_map:

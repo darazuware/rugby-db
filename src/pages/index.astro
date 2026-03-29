@@ -97,6 +97,24 @@ const leagueStandings = [
 		accentColor: "bg-[#FE5000]",
 		teams: mapStandings("premiership"),
 	},
+	{
+		id: "high-school",
+		name: "HIGH SCHOOL",
+		name_jp: "高校ラグビー",
+		fullName: "National High School Rugby",
+		title: "High School Rugby",
+		accentColor: "bg-yellow-400",
+		teams: [],
+	},
+	{
+		id: "university",
+		name: "UNIVERSITY",
+		name_jp: "大学ラグビー",
+		fullName: "National University Rugby",
+		title: "University Rugby",
+		accentColor: "bg-emerald-500",
+		teams: [],
+	},
 ];
 ---
 
@@ -131,28 +149,31 @@ const leagueStandings = [
         </div>
     </section>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-16">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
         {leagueStandings.map(league => (
-            <div class="group p-6 bg-card backdrop-blur-sm border border-border-dim rounded-2xl hover:border-yellow-400/50 transition-all text-left">
+            <div class={`group p-6 bg-card backdrop-blur-sm border-2 ${league.id === 'high-school' || league.id === 'university' ? 'border-yellow-400/20' : 'border-border-dim'} rounded-[2.5rem] hover:border-yellow-400 transition-all text-left relative overflow-hidden`}>
+                <div class="absolute top-0 right-0 p-6 opacity-[0.03] pointer-events-none">
+                    <span class="text-6xl font-black italic tracking-tighter uppercase">{league.name.split(' ')[0]}</span>
+                </div>
+                
                 <div class="flex items-center gap-3 mb-4">
-                    <div class={`w-1 h-6 ${league.accentColor} rounded-full`}></div>
-                    <h3 class="text-xs font-black text-foreground uppercase tracking-widest italic flex items-center gap-2">
+                    <div class={`w-1.5 h-6 ${league.accentColor} rounded-full`}></div>
+                    <h3 class="text-[10px] font-black text-foreground/40 uppercase tracking-widest italic flex items-center gap-2">
 									<span>{league.name}</span>
-									<span class="text-[10px] text-foreground/40 not-italic">{league.name_jp}</span>
+									<span class="not-italic opacity-50">{league.name_jp}</span>
 								</h3>
                 </div>
-                <h3 class="text-xl font-black font-display text-foreground tracking-tighter italic mb-6 flex items-baseline gap-2">
-                    {league.name}
-                    <span class="text-[10px] not-italic text-foreground/30 font-bold uppercase tracking-widest">{league.fullName}</span>
+                <h3 class="text-2xl font-black font-display text-foreground tracking-tighter italic mb-8 leading-tight">
+                    {league.name_jp}
                 </h3>
-                <div class="grid grid-cols-2 gap-2">
-                    <a href={`/teams/${league.id === 'league-one' ? 'league-one' : league.id}`} 
-                       class="py-3 bg-yellow-400 text-black text-center font-black text-[10px] rounded-xl hover:bg-white transition-all shadow-lg uppercase tracking-widest">
-                        PLAYERS
+                <div class="grid grid-cols-2 gap-3">
+                    <a href={league.id === 'high-school' || league.id === 'university' ? `/players?league=${league.id}` : `/teams/${league.id === 'league-one' ? 'league-one' : league.id}`} 
+                       class="py-4 bg-yellow-400 text-black text-center font-black text-[11px] rounded-2xl hover:bg-white transition-all shadow-xl shadow-yellow-400/10 uppercase tracking-widest">
+                        PLAYER LIST
                     </a>
-                    <a href={`/results?league=${league.id}`}
-                       class="py-3 bg-foreground/5 text-foreground/40 text-center font-black text-[10px] rounded-xl hover:bg-foreground hover:text-background transition-all border border-border-dim uppercase tracking-widest">
-                        RESULTS
+                    <a href={league.id === 'high-school' || league.id === 'university' ? "/results/highschool" : `/results?league=${league.id}`}
+                       class="py-4 bg-foreground/5 text-foreground/60 text-center font-black text-[11px] rounded-2xl hover:bg-foreground hover:text-background transition-all border border-border-dim uppercase tracking-widest whitespace-nowrap overflow-hidden text-ellipsis">
+                        {league.id === 'high-school' || league.id === 'university' ? 'MATCHES' : 'RESULTS'}
                     </a>
                 </div>
             </div>

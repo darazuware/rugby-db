@@ -194,7 +194,7 @@
   {
     "team_name": "ルリーロ福岡",
     "team_en_name": "ルリーロ福岡（2025-26）",
-    "slug": "leriro-fukuoka",
+    "slug": "2025-26",
     "league": "league-one",
     "home_ground": "久留米総合スポーツセンター陸上競技場",
     "home_ground_address": "福岡県久留米市東櫛原町１７３",
@@ -266,7 +266,7 @@
   {
     "team_name": "中国電力レッドレグリオンズ",
     "team_en_name": "中国電力レッドレグリオンズ（2025-26）",
-    "slug": "chugoku-red-regulions",
+    "slug": "2025-26",
     "league": "league-one",
     "home_ground": "Balcom BMW Rugby Stadium",
     "home_ground_address": "広島県広島市西区観音新町2-11-124",
@@ -718,5 +718,101 @@
     "league": "premiership",
     "home_ground": "Franklin's Gardens",
     "home_ground_address": "Weedon Road, St James, Northampton NN5 5BG, UK"
+  },
+  {
+    "team_name": "石見智翠館高等学校",
+    "team_en_name": "石見智翠館高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "東海大学付属大阪仰星高等学校",
+    "team_en_name": "東海大学付属大阪仰星高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "茗溪学園高等学校",
+    "team_en_name": "茗溪学園高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "大分東明高等学校",
+    "team_en_name": "大分東明高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "秋田県立秋田工業高等学校",
+    "team_en_name": "秋田県立秋田工業高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "桐蔭学園高等学校",
+    "team_en_name": "桐蔭学園高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "松山聖陵高等学校",
+    "team_en_name": "松山聖陵高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "大阪桐蔭高等学校",
+    "team_en_name": "大阪桐蔭高等学校",
+    "slug": "",
+    "league": "high-school",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "明治大学",
+    "team_en_name": "明治大学",
+    "slug": "",
+    "league": "university",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "早稲田大学",
+    "team_en_name": "早稲田大学",
+    "slug": "",
+    "league": "university",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "京都産業大学",
+    "team_en_name": "京都産業大学",
+    "slug": "",
+    "league": "university",
+    "home_ground": "",
+    "home_ground_address": ""
+  },
+  {
+    "team_name": "帝京大学",
+    "team_en_name": "帝京大学",
+    "slug": "",
+    "league": "university",
+    "home_ground": "",
+    "home_ground_address": ""
   }
 ]

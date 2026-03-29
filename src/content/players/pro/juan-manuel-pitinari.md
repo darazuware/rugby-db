@@ -1,0 +1,27 @@
+---
+title: "Juan PITINARI | フアン ピティナリ"
+name_en: "Juan PITINARI"
+name_ja: "フアン ピティナリ"
+slug: "juan-manuel-pitinari"
+position: "PR"
+height: "187.0"
+weight: "118.0"
+birth_date: "1995.01.18"
+age: 31
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Zebre"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/juan-manuel-pitinari"
+league_one_caps: ""
+career_history_json: '[{"year": 2021, "teams": ["rugby noceto", "zebre parma"]}, {"year": 2022, "teams": ["rugby noceto", "zebre parma"]}, {"year": 2023, "teams": ["zebre parma"]}, {"year": 2024, "teams": ["zebre parma"]}, {"year": 2025, "teams": ["zebre parma"]}, {"year": 2026, "teams": ["zebre parma"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+rugby noceto (2021 - 2022) -> zebre parma (2021 - )

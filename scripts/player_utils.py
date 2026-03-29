@@ -107,12 +107,42 @@ class PlayerDataProcessor:
         NaN や 'nan' などの文字列漏れを防ぐ。
         数値型で .0 で終わる場合は整数として扱う。
         """
-        try:
-            val = row.get(attr_name)
-            import pandas as pd
-            if pd.isna(val) or str(val).lower() == 'nan' or val is None:
-                return default
+        # アトリビュート名の名寄せマッピング
+        mapping = {
+            'Full_Name': ['name_ja', 'Full_Name', '選手名_カタカナ'],
+            'Player_Name': ['name_en', 'Player_Name'],
+            'Height': ['height', 'Height'],
+            'Weight': ['weight', 'Weight'],
+            'Position': ['position', 'Position'],
+            'Birth_Date': ['birth_date', 'Birth_Date'],
+            'Nationality': ['country', 'Nationality'],
+            'Current_Team': ['team', 'Current_Team'],
+            'Scraped_Url': ['scraped_url', 'Scraped_Url'],
+            'High_School': ['high_school', 'High_School'],
+            'University': ['university', 'University'],
+            'Junior_High_School': ['junior_high_school', 'Junior_High_School'],
+            'Rugby_School': ['rugby_school', 'Rugby_School'],
+            'Representative_Caps': ['caps', 'Representative_Caps'],
+            'League_One_Caps': ['league_one_caps', 'League_One_Caps'],
+        }
+
+        # マッピングから候補を取得
+        candidates = mapping.get(attr_name, [attr_name])
+        
+        val = None
+        for cand in candidates:
+            if cand in row:
+                val = row.get(cand)
+                import pandas as pd
+                if not (pd.isna(val) or str(val).lower() == 'nan' or val is None):
+                    break
+                else:
+                    val = None
+        
+        if val is None:
+            return default
             
+        try:
             # 数値型または数値文字列の末尾 .0 を削除
             val_str = str(val).strip()
             if val_str.endswith('.0'):
@@ -221,6 +251,87 @@ class PlayerDataProcessor:
         # ただし、この関数は抽象的な整形のみを行うため、基本は end=9999 に依存する。
         
         return " -> ".join(result_items)
+
+    @staticmethod
+    def get_yearly_career(career_str, player_country=""):
+        """
+        キャリア遍歴の文字列を解析し、年ごとの所属チームリストを生成する。
+        代表チーム（国名が入っているもの）は除外する。
+        """
+        if not career_str or str(career_str).lower() == 'nan':
+            return []
+        
+        # 代表チームとみなすキーワード。player_country も動的に追加
+        representative_keywords = {"Japan", "New Zealand", "South Africa", "Australia", "France", "England", "Wales", "Scotland", "Ireland", "Italy", "Fiji", "Samoa", "Tonga", "Argentina", "Georgia", "Uruguay", "USA", "Canada", "Namibia", "Chile", "Portugal", "Romania", "Namibia", "representative", "national", "代表", "XV", "All Blacks", "Springboks", "Wallabies", "Pumas", "Flying Fijians", "Manu Samoa", "Ikale Tahi"}
+        if player_country:
+            representative_keywords.add(player_country)
+
+        # アイテムに分割
+        items = re.split(r'\s*(?:->|,)\s*', career_str)
+        career_data = []
+        
+        for item in items:
+            # チーム名 (開始年 - 終了年) または (開始年 - ) または (開始年)
+            # より寛容な正規表現に変更
+            match = re.search(r'([^(]+)\s*\(\s*(\d{4})\s*(?:[-\s]*(\d{4}|))?\s*\)', item)
+            if match:
+                team = match.group(1).strip()
+                
+                # 代表チームかどうかの判定 (単語境界を考慮)
+                is_rep = False
+                team_lower = team.lower()
+                for kw in representative_keywords:
+                    kw_lower = kw.lower()
+                    # 国名などの短いキーワードは単語として存在するか確認
+                    pattern = r'\b' + re.escape(kw_lower) + r'\b'
+                    if re.search(pattern, team_lower):
+                        is_rep = True
+                        break
+                if is_rep: continue
+
+                start = int(match.group(2))
+                end_match = match.group(3)
+                
+                has_hyphen = '-' in match.group(0)
+                
+                if end_match:
+                    try:
+                        end = int(end_match)
+                    except ValueError:
+                        end = 2026 # 現在進行を 2026 とする
+                elif has_hyphen:
+                    end = 2026
+                else:
+                    end = start
+                
+                career_data.append({"team": team, "start": start, "end": end})
+
+        if not career_data:
+            return []
+        
+        # 年ごとのマップを作成 {year: set([team1, team2])}
+        yearly_map = {}
+        min_year = 9999
+        max_year = 0
+        
+        for d in career_data:
+            for y in range(d['start'], d['end'] + 1):
+                if y > 2026: continue # 未来は除外
+                if y not in yearly_map:
+                    yearly_map[y] = set()
+                yearly_map[y].add(d['team'])
+                min_year = min(min_year, y)
+                max_year = max(max_year, y)
+        
+        if not yearly_map: return []
+
+        # 最小年から最大年（または現在）までのリストを作成
+        result = []
+        for y in range(min_year, max_year + 1):
+            teams = sorted(list(yearly_map.get(y, [])))
+            result.append({"year": y, "teams": teams})
+            
+        return result
 
     @staticmethod
     def format_career_item(year, team):

@@ -1,0 +1,27 @@
+---
+title: "Manu TSHITUKA | マヌ ツィツカ"
+name_en: "Manu TSHITUKA"
+name_ja: "マヌ ツィツカ"
+slug: "emmanuel-tshituka"
+position: "FL/No8"
+height: "193.0"
+weight: "110.0"
+birth_date: "2000.06.16"
+age: 25
+country: ""
+birth_place_scraped: ""
+league: "urc"
+team: "Sharks"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/emmanuel-tshituka"
+league_one_caps: ""
+career_history_json: '[{"year": 2020, "teams": ["lions rugby"]}, {"year": 2021, "teams": ["lions rugby"]}, {"year": 2022, "teams": ["lions rugby"]}, {"year": 2023, "teams": ["lions rugby"]}, {"year": 2024, "teams": ["lions rugby", "sharks"]}, {"year": 2025, "teams": ["sharks"]}, {"year": 2026, "teams": ["sharks"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+lions rugby (2020 - 2024) -> sharks (2024 - )

@@ -1,0 +1,27 @@
+---
+title: "Juan MARTIN MONTILLA"
+name_en: "Juan MARTIN MONTILLA"
+name_ja: "Juan MARTIN MONTILLA"
+slug: "-juan-segundo-martin-montilla"
+position: "SO"
+height: ""
+weight: ""
+birth_date: "//2007"
+age: 19
+country: ""
+birth_place_scraped: ""
+league: "top14"
+team: "クレルモン"
+caps: ""
+high_school: ""
+university: ""
+junior_high_school: ""
+rugby_school: ""
+scraped_url: "https://all.rugby/player/-juan-segundo-martin-montilla"
+league_one_caps: ""
+career_history_json: '[{"year": 2023, "teams": ["ASM Clermont Auvergne"]}, {"year": 2024, "teams": ["ASM Clermont Auvergne"]}, {"year": 2025, "teams": ["ASM Clermont Auvergne"]}, {"year": 2026, "teams": ["ASM Clermont Auvergne"]}]'
+category: "pro"
+---
+
+## キャリア遍歴
+ASM Clermont Auvergne (2023 - )

@@ -1,0 +1,91 @@
+
+> shaggy-spiral@0.0.1 dev
+> astro dev --port 4321
+
+09:44:12 [types] Generated 0ms
+09:44:14 [content] Syncing content
+09:44:15 [content] Synced content
+
+ astro  v5.18.1 ready in 2629 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+
+09:44:15 watching for file changes...
+09:44:41 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/index.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:44:41 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/index.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:44:41 [200] HEAD / 605ms
+09:44:51 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:44:51 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:44:52 [200] HEAD /players 805ms
+09:45:11 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:11 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players.astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:11 [200] /players 53ms
+09:45:12 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/api/v1/all-players-download.json.ts'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:12 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/api/v1/all-players-download.json.ts'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:12 [200] /api/v1/all-players-download.json 76ms
+09:45:23 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:23 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:23 [200] /players/日髙亮平 40ms
+09:45:29 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:29 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:29 [200] /players/player-5f60b7f2 39ms
+09:45:37 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:37 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:37 [200] /players/player-2d95a6ad 32ms
+09:45:47 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:47 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:45:47 [200] /players/player-c251ee61 34ms
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [ERROR] Missing parameter: slug
+  Stack trace:
+    at /Users/ktamatzmoto/Desktop/rugbypicks/node_modules/astro/dist/core/routing/manifest/generator.js:17:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [WARN] [router] getStaticPaths() returned an invalid path param: "slug". `undefined` expected for an optional param, but got empty string.
+09:45:50 [ERROR] Missing parameter: slug
+  Stack trace:
+    at /Users/ktamatzmoto/Desktop/rugbypicks/node_modules/astro/dist/core/routing/manifest/generator.js:17:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+09:46:04 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:04 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:04 [200] /players/player-f5c4e7c6 33ms
+09:46:16 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:16 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:16 [200] /players/player-b3e2ae3e 31ms
+09:46:47 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:47 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:46:47 [200] /players/player-f0be304a 31ms
+09:47:06 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:47:06 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:47:06 [200] /players/player-0e75e5d2 32ms
+09:47:27 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:47:27 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:47:28 [200] /players/player-a26e04eb 32ms
+09:48:15 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:48:15 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:48:15 [200] /players/村田-雄志 29ms
+09:49:06 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:49:06 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/players/[...slug].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+09:49:07 [200] /players/完山-汰成 29ms
