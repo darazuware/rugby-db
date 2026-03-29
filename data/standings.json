@@ -1012,12 +1012,12 @@
         "display_name": "バース・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bath-rugby",
-        "played": "11",
-        "won": "9",
+        "played": "12",
+        "won": "10",
         "drawn": "0",
         "lost": "2",
-        "diff": "153",
-        "points": "46"
+        "diff": "158",
+        "points": "51"
       },
       {
         "rank": "3",
@@ -1077,12 +1077,12 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "11",
+        "played": "12",
         "won": "3",
         "drawn": "0",
-        "lost": "8",
-        "diff": "-24",
-        "points": "20"
+        "lost": "9",
+        "diff": "-29",
+        "points": "22"
       },
       {
         "rank": "8",
