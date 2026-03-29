@@ -405,7 +405,7 @@
         "won": "15",
         "drawn": "0",
         "lost": "5",
-        "diff": "+359",
+        "diff": "+357",
         "points": "71"
       },
       {
@@ -423,6 +423,19 @@
       },
       {
         "rank": "3",
+        "team_name": "Stade Français Paris",
+        "display_name": "スタッド・フランセ",
+        "flag": "🇫🇷",
+        "slug": "paris",
+        "played": "20",
+        "won": "11",
+        "drawn": "1",
+        "lost": "8",
+        "diff": "+128",
+        "points": "59"
+      },
+      {
+        "rank": "4",
         "team_name": "Union Bordeaux-Bègles",
         "display_name": "ボルドー・ベグル",
         "flag": "🇫🇷",
@@ -435,7 +448,7 @@
         "points": "59"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "team_name": "Montpellier Hérault Rugby",
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
@@ -444,21 +457,8 @@
         "won": "11",
         "drawn": "1",
         "lost": "8",
-        "diff": "+156",
+        "diff": "+158",
         "points": "57"
-      },
-      {
-        "rank": "5",
-        "team_name": "Stade Français Paris",
-        "display_name": "スタッド・フランセ",
-        "flag": "🇫🇷",
-        "slug": "paris",
-        "played": "19",
-        "won": "10",
-        "drawn": "1",
-        "lost": "8",
-        "diff": "+84",
-        "points": "54"
       },
       {
         "rank": "6",
@@ -466,11 +466,11 @@
         "display_name": "クレルモン",
         "flag": "🇫🇷",
         "slug": "clermont",
-        "played": "19",
+        "played": "20",
         "won": "11",
         "drawn": "0",
-        "lost": "8",
-        "diff": "+126",
+        "lost": "9",
+        "diff": "+82",
         "points": "52"
       },
       {
