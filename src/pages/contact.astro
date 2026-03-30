@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+const submitted = Astro.url.searchParams.get("success") === "true";
 ---
 
 <Layout title="お問い合わせ | RUGBY PICKS">
@@ -16,10 +17,23 @@ import Layout from "../layouts/Layout.astro";
                 </p>
             </header>
 
+            {submitted ? (
+                <div class="bg-card/50 backdrop-blur-md border border-yellow-400/30 rounded-3xl p-12 shadow-2xl text-center">
+                    <div class="text-yellow-400 text-5xl mb-6">✓</div>
+                    <h2 class="text-2xl font-black text-foreground mb-4">送信完了しました</h2>
+                    <p class="text-foreground/60 mb-8">お問い合わせいただきありがとうございます。<br />通常3営業日以内にご返信差し上げます。</p>
+                    <a href="/" class="inline-block bg-yellow-400 text-black font-black px-8 py-3 rounded-xl uppercase tracking-widest hover:bg-yellow-500 transition-colors">
+                        トップに戻る
+                    </a>
+                </div>
+            ) : (
             <div
                 class="bg-card/50 backdrop-blur-md border border-border-dim rounded-3xl p-8 md:p-12 shadow-2xl"
             >
-                <form action="#" method="POST" class="space-y-6">
+                {/* Formspree: https://formspree.io で無料アカウント作成後、YOUR_FORMSPREE_ID を実際のフォームIDに置き換えてください */}
+                <form action="https://formspree.io/f/xnjodoga" method="POST" class="space-y-6">
+                    <input type="hidden" name="_subject" value="RUGBY PICKS お問い合わせ" />
+                    <input type="hidden" name="_next" value="https://rugbypick.com/contact?success=true" />
                     <div>
                         <label
                             for="name"
@@ -99,13 +113,16 @@ import Layout from "../layouts/Layout.astro";
                     </div>
                 </form>
             </div>
+            )}
 
+            {!submitted && (
             <div class="mt-12 text-center text-foreground/30 text-xs">
                 <p>※通常、3営業日以内に返信を差し上げます。</p>
                 <p class="mt-1">
                     ※収集した個人情報は、お問い合わせへの回答目的以外には使用いたしません。
                 </p>
             </div>
+            )}
         </div>
     </main>
 </Layout>

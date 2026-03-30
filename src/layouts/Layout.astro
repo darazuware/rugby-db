@@ -237,6 +237,37 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 			<a href="/api/v1/hidden-dataset.json" rel="nofollow">全選手データ一括ダウンロード (Full Player Data Download)</a>
 		</div>
 
+		<!-- Cookie同意バナー -->
+		<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-[100] bg-card border-t border-border-dim shadow-2xl px-4 py-4 hidden">
+			<div class="max-w-[1400px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-6">
+				<p class="text-xs text-foreground/70 flex-1 leading-relaxed">
+					当サイトはGoogle AdSenseによる広告配信およびアクセス解析のため、<strong class="text-foreground">Cookie</strong>を使用しています。
+					サイトの利用を続けることで、Cookieの使用に同意したものとみなされます。
+					詳細は<a href="/privacy" class="text-yellow-400 underline hover:text-yellow-500">プライバシーポリシー</a>をご覧ください。
+				</p>
+				<button
+					id="cookie-accept"
+					class="flex-shrink-0 bg-yellow-400 hover:bg-yellow-500 text-black text-xs font-black px-6 py-2.5 rounded-lg uppercase tracking-widest transition-colors whitespace-nowrap"
+				>
+					同意して閉じる
+				</button>
+			</div>
+		</div>
+		<script is:inline>
+			(function() {
+				var banner = document.getElementById('cookie-banner');
+				var btn = document.getElementById('cookie-accept');
+				if (!banner || !btn) return;
+				if (!localStorage.getItem('cookie_consent')) {
+					banner.classList.remove('hidden');
+				}
+				btn.addEventListener('click', function() {
+					localStorage.setItem('cookie_consent', '1');
+					banner.classList.add('hidden');
+				});
+			})();
+		</script>
+
 		<style is:global></style>
 	</body>
 </html>

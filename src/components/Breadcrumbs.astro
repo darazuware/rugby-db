@@ -7,7 +7,30 @@ interface Props {
 }
 
 const { items } = Astro.props;
+
+const siteUrl = "https://rugbypick.com";
+
+const breadcrumbList = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "HOME",
+      "item": siteUrl + "/"
+    },
+    ...items.map((item, index) => ({
+      "@type": "ListItem",
+      "position": index + 2,
+      "name": item.label,
+      ...(item.href ? { "item": siteUrl + item.href } : {})
+    }))
+  ]
+};
 ---
+
+<script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbList)} />
 
 <nav aria-label="Breadcrumb" class="mb-4">
   <ol class="flex flex-wrap list-none p-0 text-sm font-bold text-gray-500">
