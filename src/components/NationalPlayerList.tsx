@@ -82,11 +82,16 @@ const NationalPlayerList: React.FC<Props> = ({ initialPlayers, teamColor, textCo
 
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase();
-      result = result.filter(p => 
-        p.name_ja.toLowerCase().includes(q) || 
-        p.name_en.toLowerCase().includes(q) || 
-        p.team.toLowerCase().includes(q)
-      );
+      const qNoSpace = q.replace(/\s+/g, '');
+      result = result.filter(p => {
+        const nameJa = p.name_ja.toLowerCase();
+        const nameEn = p.name_en.toLowerCase();
+        return nameJa.includes(q) ||
+          nameJa.replace(/\s+/g, '').includes(qNoSpace) ||
+          nameEn.includes(q) ||
+          nameEn.replace(/\s+/g, '').includes(qNoSpace) ||
+          p.team.toLowerCase().includes(q);
+      });
     }
 
       result.sort((a, b) => {

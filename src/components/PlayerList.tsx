@@ -375,18 +375,21 @@ const PlayerList: React.FC<Props> = ({ initialPlayers, leagueContext }) => {
             }
 
             const searchLower = search.toLowerCase();
-            
+            const searchNoSpace = searchLower.replace(/\s+/g, '');
+
             // 学校名の同一性チェック
             const synonyms = SCHOOL_SYNONYMS[search] || [searchLower];
-            const matchSchool = synonyms.some(s => 
+            const matchSchool = synonyms.some(s =>
                 (p.data.high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
                 (p.data.university?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
                 (p.data.junior_high_school?.toLowerCase() ?? '').includes(s.toLowerCase()) ||
                 (p.data.rugby_school?.toLowerCase() ?? '').includes(s.toLowerCase())
             );
 
+            const titleLower = p.data.title.toLowerCase();
             const matchSearch =
-                p.data.title.toLowerCase().includes(searchLower) ||
+                titleLower.includes(searchLower) ||
+                titleLower.replace(/\s+/g, '').includes(searchNoSpace) ||
                 (p.data.team?.toLowerCase() ?? '').includes(searchLower) ||
                 (p.data.position?.toLowerCase() ?? '').includes(searchLower) ||
                 matchSchool ||

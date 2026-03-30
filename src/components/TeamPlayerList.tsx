@@ -92,9 +92,14 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
         // 1. フィルタリング
         let result = players.filter((p) => {
             const searchLower = searchTerm.toLowerCase();
-            const matchSearch = searchTerm === '' || 
-                p.data.title.toLowerCase().includes(searchLower) ||
-                (p.data.name_en?.toLowerCase() || '').includes(searchLower) ||
+            const searchNoSpace = searchLower.replace(/\s+/g, '');
+            const titleLower = p.data.title.toLowerCase();
+            const nameEnLower = (p.data.name_en?.toLowerCase() || '');
+            const matchSearch = searchTerm === '' ||
+                titleLower.includes(searchLower) ||
+                titleLower.replace(/\s+/g, '').includes(searchNoSpace) ||
+                nameEnLower.includes(searchLower) ||
+                nameEnLower.replace(/\s+/g, '').includes(searchNoSpace) ||
                 (p.data.position?.toLowerCase() || '').includes(searchLower) ||
                 (p.data.high_school?.toLowerCase() || '').includes(searchLower) ||
                 (p.data.university?.toLowerCase() || '').includes(searchLower);
