@@ -2,12 +2,14 @@
 export const prerender = true;
 import teamsData from "../../../../data/teams.json";
 export async function getStaticPaths() {
-    return (teamsData as any[]).map((team) => ({
-        params: { 
-            league: team.league,
-            slug: team.slug
-        },
-    }));
+    return (teamsData as any[])
+        .filter((team) => team.slug && team.slug !== '')
+        .map((team) => ({
+            params: {
+                league: team.league,
+                slug: team.slug
+            },
+        }));
 }
 import Layout from "../../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
