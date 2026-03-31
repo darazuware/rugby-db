@@ -42,6 +42,60 @@
     }
 }
 
+/* 記事本文のスタイル */
+.prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+}
+.prose th {
+    background-color: #1f2937;
+    color: #f9fafb;
+    font-weight: 700;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border: 1px solid #374151;
+}
+.prose td {
+    padding: 0.65rem 1rem;
+    border: 1px solid #e5e7eb;
+    vertical-align: top;
+}
+.prose tr:nth-child(even) td {
+    background-color: #f9fafb;
+}
+.prose tr:hover td {
+    background-color: #fefce8;
+}
+:root.dark .prose th {
+    background-color: #374151;
+    border-color: #4b5563;
+}
+:root.dark .prose td {
+    border-color: #374151;
+}
+:root.dark .prose tr:nth-child(even) td {
+    background-color: #1f2937;
+}
+:root.dark .prose tr:hover td {
+    background-color: #292524;
+}
+.prose p {
+    line-height: 1.85;
+    margin-bottom: 1.25rem;
+}
+.prose h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #facc15;
+}
+.prose h3 {
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+}
+
 /* チーム改称情報のツールチップアイコン */
 .team-info-icon {
     position: relative;
