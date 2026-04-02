@@ -29,23 +29,23 @@ import Layout from "../layouts/Layout.astro";
                     </p>
                 </div>
 
-                <!-- Expertise -->
+                <!-- Why -->
                 <div>
                     <h2 class="text-2xl font-bold text-foreground mb-6 flex items-center gap-3">
                         <span class="w-1.5 h-8 bg-yellow-400"></span>
-                        専門性と信頼性（EEATへの取り組み）
+                        なぜ作ったか
                     </h2>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div class="bg-card p-6 rounded-xl border border-border-dim">
-                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">Source of Truth</h3>
+                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">データの一次情報</h3>
                             <p class="text-sm">
-                                当サイトのデータは、League One, Super Rugby, Top 14, URCといった各公式リーグの公式サイト、および各チームの公式リリースを一次情報ソース（Source of Truth）としています。独自アルゴリズムにより、常に最新の情報を反映させるシステムを構築しています。
+                                League One・Super Rugby・Top 14・URCの各公式サイトおよびチーム公式リリースを一次ソースとしています。「あの選手いまどこにいるんだっけ」をすぐ引けるサイトが欲しくて、自分で作りました。
                             </p>
                         </div>
                         <div class="bg-card p-6 rounded-xl border border-border-dim">
-                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">Rugby Enthusiast</h3>
+                            <h3 class="font-black text-yellow-400 mb-3 uppercase tracking-tighter italic text-lg">ラグビーファンが作った</h3>
                             <p class="text-sm">
-                                運営チームは、ラグビーというスポーツの普及を切に願う熱狂的なファンと、エンジニアリングのスペシャリストで構成されています。単なるデータの羅列ではなく、ファンの視点で「何が知りたいか」を常に追求し、UI/UXの改善を自律的に行っています。
+                                私自身がラグビーファンです。既存のサイトに「もっとこうなってほしい」という不満が積み重なって、自分で作ることにしました。ファン目線で必要なものだけを、できるだけ速く表示することを優先しています。
                             </p>
                         </div>
                     </div>
@@ -106,11 +106,11 @@ import Layout from "../layouts/Layout.astro";
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
                                 <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">運営者</dt>
-                                <dd class="text-foreground">RUGBY PICKS 運営事務局</dd>
+                                <dd class="text-foreground">（名前を後で記入）</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
                                 <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">所在地</dt>
-                                <dd class="text-foreground">日本</dd>
+                                <dd class="text-foreground">京都府</dd>
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
                                 <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">サイトURL</dt>
@@ -124,15 +124,20 @@ import Layout from "../layouts/Layout.astro";
                             </div>
                             <div class="flex flex-col sm:flex-row px-6 py-4 gap-1">
                                 <dt class="text-sm font-bold text-foreground/40 uppercase tracking-widest sm:w-40 flex-shrink-0">収益化</dt>
-                                <dd class="text-foreground text-sm">Google AdSense による広告収益、およびAmazon・楽天アフィリエイトプログラムによる紹介料</dd>
+                                <dd class="text-foreground text-sm">Amazon・楽天アフィリエイトプログラムによる紹介料、および広告配信</dd>
                             </div>
                         </dl>
                     </div>
                 </div>
 
-                <div class="pt-8 border-t border-border-dim text-center">
+                <div class="pt-8 border-t border-border-dim text-center space-y-2">
                     <p class="text-sm text-foreground/40 italic">
-                        RUGBY PICKS 運営事務局
+                        RUGBY PICKS
+                    </p>
+                    <p class="text-sm">
+                        <a href="/privacy" class="text-yellow-400 hover:text-yellow-500 underline transition-colors">プライバシーポリシー</a>
+                        　｜
+                        <a href="/contact" class="text-yellow-400 hover:text-yellow-500 underline transition-colors">お問い合わせ</a>
                     </p>
                 </div>
             </section>
