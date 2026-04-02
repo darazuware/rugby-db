@@ -12,6 +12,7 @@ build/
 dist/
 .claude/
 .vercel/
+.astro/
 .vscode/
 .DS_Store
 .env
