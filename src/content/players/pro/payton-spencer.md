@@ -5,7 +5,7 @@ name_ja: "Payton SPENCER"
 slug: "payton-spencer"
 position: "FB"
 height: ""
-weight: "90.0"
+weight: "90"
 birth_date: "2004.."
 age: 22
 country: ""

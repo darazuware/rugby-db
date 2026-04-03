@@ -5,7 +5,7 @@ name_ja: "Vaiuta LATU"
 slug: "vaiuta-latu"
 position: "FL/No8"
 height: ""
-weight: "116.0"
+weight: "116"
 birth_date: "2005.."
 age: 21
 country: ""

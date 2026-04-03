@@ -4,7 +4,7 @@ name_en: "Albert ALCOCK"
 name_ja: "Albert ALCOCK"
 slug: "albert-alcock"
 position: "HO"
-height: "175.0"
+height: "175"
 weight: ""
 birth_date: "2003.11.18"
 age: 22

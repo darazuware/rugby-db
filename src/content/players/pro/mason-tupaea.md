@@ -4,7 +4,7 @@ name_en: "Mason TUPAEA"
 name_ja: "Mason TUPAEA"
 slug: "mason-tupaea"
 position: "PR"
-height: "188.0"
+height: "188"
 weight: ""
 birth_date: "2002.10.16"
 age: 23

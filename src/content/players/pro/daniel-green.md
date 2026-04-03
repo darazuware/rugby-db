@@ -4,7 +4,7 @@ name_en: "Daniel GREEN"
 name_ja: "ダニエル グリーン"
 slug: "daniel-green"
 position: "FB"
-height: "183.0"
+height: "183"
 weight: ""
 birth_date: "2006.."
 age: 20

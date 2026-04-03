@@ -4,7 +4,7 @@ name_en: "Connor FAHY"
 name_ja: "Connor FAHY"
 slug: "connor-fahy"
 position: "CTB"
-height: "185.0"
+height: "185"
 weight: ""
 birth_date: "2005.."
 age: 21

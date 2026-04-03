@@ -4,7 +4,7 @@ name_en: "David WALSH"
 name_ja: "デイヴィッド WALSH"
 slug: "david-walsh"
 position: "LO"
-height: "198.0"
+height: "198"
 weight: ""
 birth_date: "2005.."
 age: 21

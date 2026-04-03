@@ -4,7 +4,7 @@ name_en: "Jack DEEGAN"
 name_ja: "ジャック ディーガン"
 slug: "jack-deegan"
 position: "CTB"
-height: "188.0"
+height: "188"
 weight: ""
 birth_date: ""
 age: null
