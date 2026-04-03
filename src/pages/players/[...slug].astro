@@ -1,5 +1,4 @@
 ---
-export const prerender = true;
 import Layout from "../../layouts/Layout.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 import { getTeamSlug } from "../../utils/team_utils";
@@ -8,20 +7,14 @@ import JSONLD from "../../components/JSONLD.astro";
 import AdSenseUnit from "../../components/AdSenseUnit.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
-export async function getStaticPaths() {
-  const players = await getCollection("players");
-  return players.map((entry: CollectionEntry<"players">) => {
-    // スラグの末尾（ファイル名部分）のみをURLパラメータとして使用
-    const parts = entry.slug.split('/');
-    const flatSlug = parts[parts.length - 1];
-    return {
-      params: { slug: flatSlug },
-      props: { entry },
-    };
-  });
-}
+const { slug } = Astro.params;
+if (!slug) return Astro.redirect("/404");
 
-const { entry } = Astro.props;
+const players = await getCollection("players");
+const entry = players.find((p: CollectionEntry<"players">) => {
+  const parts = p.slug.split('/');
+  return parts[parts.length - 1] === slug;
+});
 if (!entry) return Astro.redirect("/404");
 const { Content } = await entry.render();
 const isLeagueOne =
