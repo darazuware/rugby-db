@@ -148,14 +148,17 @@ def main():
 
     # 2. Top 14 の全節をループ
     new_top14_results = []
+    consecutive_failures = 0
     for r in range(1, 27): # 通常26節
         round_matches = scrape_round(r)
         if round_matches:
             new_top14_results.extend(round_matches)
+            consecutive_failures = 0
         else:
-            # 1節も取れなかったら、その節以降はまだ日程がない可能性があるが、
-            # Top 14は日程が出ていることが多いので続ける
-            pass
+            consecutive_failures += 1
+            if consecutive_failures >= 3:
+                print(f"3節連続で取得失敗。ネットワーク障害の可能性があるため処理を中断します。")
+                break
         time.sleep(1) # マナー
     
     # 取得できたデータがあれば更新

@@ -42,6 +42,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/*.json
+          git add -f data/*.json
           git commit -m "Automated data update: $(date +'%Y-%m-%d %H:%M JST')" || exit 0
           git push
