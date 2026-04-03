@@ -18,6 +18,7 @@ export default defineConfig({
     },
   }),
   vite: {
+    // @ts-ignore - @tailwindcss/vite plugin type is compatible at runtime
     plugins: [tailwindcss()]
   }
 });

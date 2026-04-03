@@ -205,7 +205,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                             <span class="text-[8px] font-black text-foreground/20 uppercase italic self-center mr-1">Div:</span>
                             {['league-one-d1', 'league-one-d2', 'league-one-d3'].map(id => (
                                 <button data-league-switch={id} class="flex-1 py-1.5 rounded-lg bg-foreground/5 text-[9px] font-black text-foreground/30 uppercase tracking-widest border border-border-dim/10 transition-all">
-                                    {id.split('-').pop().toUpperCase()}
+                                    {(id.split('-').pop() ?? '').toUpperCase()}
                                 </button>
                             ))}
                         </div>
