@@ -3,7 +3,6 @@ node_modules/
 .next/
 document/
 scrapped/
-data/
 data_sources/
 .anticrow/
 *.log
