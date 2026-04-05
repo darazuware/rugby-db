@@ -1,0 +1,37 @@
+# --- 最優先で除外すべき巨大項目 ---
+node_modules/
+**/node_modules/
+.venvsource/
+.astro/
+.vercel/
+_anticrow/
+
+# --- Python 関連の一時ファイル ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 巨大なログと一時データ ---
+*.log
+**/*.log
+dev_log.txt
+*.txt.bak
+*.txt.bak_*
+nohup.out
+
+# --- 画像・バックアップ（既存分） ---
+images/
+backups/
+.claude/
+*.zip
+
+# --- 各種データベース・ビルド成果物 ---
+*.sqlite
+*.db
+.next/
+dist/
+build/
+
+# --- システム・Git ---
+.git/
+.DS_Store
