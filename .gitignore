@@ -5,6 +5,10 @@ document/
 scrapped/
 data_sources/
 .anticrow/
+_anticrow/
+.astro/
+backups/
+images/
 *.log
 dev_log*.txt
 build/
