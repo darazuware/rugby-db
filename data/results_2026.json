@@ -864,7 +864,7 @@
       "round": 14,
       "home": "三重ホンダヒート",
       "away": "東京サントリーサンゴリアス",
-      "score": "VS",
+      "score": "24-17",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29336"
@@ -875,7 +875,7 @@
       "round": 14,
       "home": "三菱重工相模原ダイナボアーズ",
       "away": "静岡ブルーレヴズ",
-      "score": "VS",
+      "score": "41-45",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29333"
@@ -886,7 +886,7 @@
       "round": 14,
       "home": "埼玉パナソニックワイルドナイツ",
       "away": "横浜キヤノンイーグルス",
-      "score": "VS",
+      "score": "42-15",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29334"
@@ -897,7 +897,7 @@
       "round": 14,
       "home": "トヨタヴェルブリッツ",
       "away": "クボタスピアーズ船橋・東京ベイ",
-      "score": "VS",
+      "score": "24-7",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29335"
@@ -1634,7 +1634,7 @@
       "round": 10,
       "home": "グリーンロケッツ東葛",
       "away": "九州電力キューデンヴォルテクス",
-      "score": "VS",
+      "score": "21-22",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29400"
@@ -1645,7 +1645,7 @@
       "round": 10,
       "home": "日本製鉄釜石シーウェイブス",
       "away": "豊田自動織機シャトルズ愛知",
-      "score": "VS",
+      "score": "27-52",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29402"
@@ -1656,7 +1656,7 @@
       "round": 10,
       "home": "花園近鉄ライナーズ",
       "away": "レッドハリケーンズ大阪",
-      "score": "VS",
+      "score": "36-31",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29399"
@@ -1667,7 +1667,7 @@
       "round": 10,
       "home": "清水建設江東ブルーシャークス",
       "away": "日野レッドドルフィンズ",
-      "score": "VS",
+      "score": "36-20",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29401"
@@ -2184,7 +2184,7 @@
       "round": 11,
       "home": "スカイアクティブズ広島",
       "away": "中国電力レッドレグリオンズ",
-      "score": "VS",
+      "score": "49-7",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29449"
@@ -2700,7 +2700,7 @@
       "date": "2026-04-03",
       "home": "カンタベリー・クルセイダーズ",
       "away": "フィジアン・ドゥルア",
-      "score": "VS",
+      "score": "69-26",
       "home_flag": "🇳🇿",
       "away_flag": "🇫🇯",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949243"
@@ -2710,7 +2710,7 @@
       "date": "2026-04-04",
       "home": "ワイカト・チーフス",
       "away": "NSWワラタス（ワラターズ）",
-      "score": "VS",
+      "score": "42-14",
       "home_flag": "🇳🇿",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949244"
@@ -2720,7 +2720,7 @@
       "date": "2026-04-04",
       "home": "クイーンズランド・レッズ",
       "away": "ウェスタン・フォース",
-      "score": "VS",
+      "score": "19-42",
       "home_flag": "🇦🇺",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949245"
