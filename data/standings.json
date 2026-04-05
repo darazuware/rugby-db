@@ -17,6 +17,20 @@
       },
       {
         "rank": "2",
+        "team_name": "コベルコ神戸スティーラーズ",
+        "display_name": "コベルコ神戸スティーラーズ",
+        "flag": "🇯🇵",
+        "slug": "kobelco-kobe-steelers",
+        "played": "14",
+        "points": "57",
+        "won": "12",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "249",
+        "division": "D1"
+      },
+      {
+        "rank": "3",
         "team_name": "クボタスピアーズ船橋・東京ベイ",
         "display_name": "クボタスピアーズ船橋・東京ベイ",
         "flag": "🇯🇵",
@@ -27,20 +41,6 @@
         "drawn": "0",
         "lost": "3",
         "diff": "275",
-        "division": "D1"
-      },
-      {
-        "rank": "3",
-        "team_name": "コベルコ神戸スティーラーズ",
-        "display_name": "コベルコ神戸スティーラーズ",
-        "flag": "🇯🇵",
-        "slug": "kobelco-kobe-steelers",
-        "played": "13",
-        "points": "52",
-        "won": "11",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "228",
         "division": "D1"
       },
       {
@@ -63,16 +63,30 @@
         "display_name": "ブラックラムズ東京",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "13",
+        "played": "14",
         "points": "36",
         "won": "8",
         "drawn": "0",
-        "lost": "5",
-        "diff": "1",
+        "lost": "6",
+        "diff": "-20",
         "division": "D1"
       },
       {
         "rank": "6",
+        "team_name": "東芝ブレイブルーパス東京",
+        "display_name": "東芝ブレイブルーパス東京",
+        "flag": "🇯🇵",
+        "slug": "toshiba-brave-lupus-tokyo",
+        "played": "14",
+        "points": "30",
+        "won": "6",
+        "drawn": "0",
+        "lost": "8",
+        "diff": "-106",
+        "division": "D1"
+      },
+      {
+        "rank": "7",
         "team_name": "トヨタヴェルブリッツ",
         "display_name": "トヨタヴェルブリッツ",
         "flag": "🇯🇵",
@@ -86,7 +100,7 @@
         "division": "D1"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "三重ホンダヒート",
         "display_name": "三重ホンダヒート",
         "flag": "🇯🇵",
@@ -97,20 +111,6 @@
         "drawn": "0",
         "lost": "8",
         "diff": "-66",
-        "division": "D1"
-      },
-      {
-        "rank": "8",
-        "team_name": "東芝ブレイブルーパス東京",
-        "display_name": "東芝ブレイブルーパス東京",
-        "flag": "🇯🇵",
-        "slug": "toshiba-brave-lupus-tokyo",
-        "played": "13",
-        "points": "26",
-        "won": "5",
-        "drawn": "0",
-        "lost": "8",
-        "diff": "-122",
         "division": "D1"
       },
       {
@@ -161,12 +161,12 @@
         "display_name": "浦安D-Rocks",
         "flag": "🇯🇵",
         "slug": "urayasu-d-rocks",
-        "played": "13",
+        "played": "14",
         "points": "12",
         "won": "3",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-243",
+        "lost": "11",
+        "diff": "-259",
         "division": "D1"
       },
       {
@@ -301,12 +301,12 @@
         "display_name": "狭山セコムラガッツ",
         "flag": "🇯🇵",
         "slug": "secom-rugguts",
-        "played": "10",
-        "points": "41",
-        "won": "8",
+        "played": "11",
+        "points": "46",
+        "won": "9",
         "drawn": "0",
         "lost": "2",
-        "diff": "296",
+        "diff": "343",
         "division": "D3"
       },
       {
@@ -315,12 +315,12 @@
         "display_name": "クリタウォーターガッシュ昭島",
         "flag": "🇯🇵",
         "slug": "kurita-water-gush-akishima",
-        "played": "10",
-        "points": "17",
-        "won": "3",
+        "played": "11",
+        "points": "22",
+        "won": "4",
         "drawn": "0",
         "lost": "7",
-        "diff": "-96",
+        "diff": "-86",
         "division": "D3"
       },
       {
@@ -329,12 +329,12 @@
         "display_name": "ルリーロ福岡",
         "flag": "🇯🇵",
         "slug": "leriro-fukuoka",
-        "played": "10",
+        "played": "11",
         "points": "15",
         "won": "3",
         "drawn": "1",
-        "lost": "6",
-        "diff": "-107",
+        "lost": "7",
+        "diff": "-117",
         "division": "D3"
       },
       {
@@ -343,12 +343,12 @@
         "display_name": "ヤクルトレビンズ戸田",
         "flag": "🇯🇵",
         "slug": "yakult-levins",
-        "played": "10",
+        "played": "11",
         "points": "14",
         "won": "3",
         "drawn": "0",
-        "lost": "7",
-        "diff": "-181",
+        "lost": "8",
+        "diff": "-228",
         "division": "D3"
       },
       {
