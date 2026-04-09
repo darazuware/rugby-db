@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 
 interface Player {
     slug: string;
@@ -81,6 +81,34 @@ interface Props {
 }
 
 const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
+    const [cartSlugs, setCartSlugs] = useState<Set<string>>(() => {
+        try {
+            const cart: {slug: string}[] = JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
+            return new Set(cart.map(p => p.slug));
+        } catch { return new Set(); }
+    });
+
+    const addToCart = useCallback((e: React.MouseEvent, player: Player) => {
+        e.preventDefault();
+        e.stopPropagation();
+        try {
+            const cart: {slug: string; name: string; name_en?: string; position?: string; team?: string; country?: string}[] =
+                JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
+            if (!cart.some(p => p.slug === player.slug)) {
+                cart.push({
+                    slug: player.slug,
+                    name: player.data.title,
+                    name_en: player.data.name_en,
+                    position: player.data.position,
+                    team: player.data.team,
+                    country: player.data.country,
+                });
+                localStorage.setItem('rugby_draft_cart', JSON.stringify(cart));
+            }
+            setCartSlugs(prev => new Set([...prev, player.slug]));
+        } catch {}
+    }, []);
+
     const [sortKey, setSortKey] = useState<string>('position');
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
     const [searchTerm, setSearchTerm] = useState('');
@@ -371,6 +399,16 @@ const TeamPlayerList: React.FC<Props> = ({ players, isLeagueOne = false }) => {
                                 <span className="text-[15px] leading-none">{player.data.height}<span className="text-[10px] text-foreground/40 font-bold mx-0.5">cm</span> / {player.data.weight}<span className="text-[10px] text-foreground/40 font-bold ml-0.5">kg</span></span>
                             </div>
                         </div>
+                        <button
+                            onClick={e => addToCart(e, player)}
+                            className={`mt-3 w-full py-2 text-[11px] font-black rounded-xl transition-all border ${
+                                cartSlugs.has(player.slug)
+                                    ? 'bg-yellow-400/20 border-yellow-400 text-yellow-600'
+                                    : 'bg-foreground/5 border-border-dim text-foreground/40 hover:bg-yellow-400/10 hover:border-yellow-400/50 hover:text-foreground/70'
+                            }`}
+                        >
+                            {cartSlugs.has(player.slug) ? '★ カート追加済み' : '☆ ドリームチームに追加'}
+                        </button>
                     </a>
                 ))
                 ) : (

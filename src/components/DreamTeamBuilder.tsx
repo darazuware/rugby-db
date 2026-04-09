@@ -100,6 +100,10 @@ interface Props {
 export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
   const [slots, setSlots] = useState<Record<number, Player>>(() => {
     if (initialEncoded) return decodeTeam(initialEncoded, players);
+    try {
+      const saved = localStorage.getItem('rugby_dream_team');
+      if (saved) return decodeTeam(saved, players);
+    } catch {}
     return {};
   });
   const [activeSlot, setActiveSlot] = useState<number | null>(null);
@@ -107,6 +111,22 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
   const [posFilter, setPosFilter] = useState('');
   const [copied, setCopied] = useState(false);
   const [teamName, setTeamName] = useState('最強のラグビー15');
+  const [cartPlayers, setCartPlayers] = useState<Player[]>([]);
+  const [modalTab, setModalTab] = useState<'search' | 'cart'>('search');
+
+  // 自動保存
+  useEffect(() => {
+    try { localStorage.setItem('rugby_dream_team', encodeTeam(slots)); } catch {}
+  }, [slots]);
+
+  // カート読み込み
+  useEffect(() => {
+    try {
+      const cartData: {slug: string}[] = JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
+      const playerMap = new Map(players.map(p => [p.slug, p]));
+      setCartPlayers(cartData.map(item => playerMap.get(item.slug)).filter(Boolean) as Player[]);
+    } catch {}
+  }, [players]);
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
@@ -117,7 +137,7 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
         (p.team?.toLowerCase().includes(q) ?? false);
       const matchPos = !posFilter || (p.position?.toUpperCase() === posFilter.toUpperCase());
       return matchSearch && matchPos;
-    }).slice(0, 50);
+    }).slice(0, 200);
   }, [players, search, posFilter]);
 
   const getShareUrl = useCallback(() => {
@@ -250,7 +270,7 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
           {copied ? 'コピー完了 ✓' : 'リンクをコピー'}
         </button>
         <button
-          onClick={() => setSlots({})}
+          onClick={() => { setSlots({}); try { localStorage.removeItem('rugby_dream_team'); } catch {} }}
           className="flex items-center gap-2 px-6 py-3 bg-foreground/10 text-foreground/60 font-black text-sm rounded-xl hover:bg-foreground/20 transition-all border border-border-dim"
         >
           リセット
@@ -260,59 +280,121 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
       {/* Modal */}
       {activeSlot !== null && (
         <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4">
-          <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" onClick={() => { setActiveSlot(null); setSearch(''); setPosFilter(''); }} />
+          <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" onClick={() => { setActiveSlot(null); setSearch(''); setPosFilter(''); setModalTab('search'); }} />
           <div className="relative bg-card w-full sm:max-w-lg max-h-[85vh] sm:max-h-[70vh] rounded-t-3xl sm:rounded-3xl flex flex-col overflow-hidden border border-border-dim shadow-2xl">
-            <div className="p-4 border-b border-border-dim flex items-center gap-3">
-              <div className="flex-1">
-                <p className="text-[10px] font-black uppercase tracking-widest text-foreground/40 mb-1">
+            {/* Header */}
+            <div className="p-4 border-b border-border-dim">
+              <div className="flex items-center gap-3 mb-3">
+                <p className="text-[10px] font-black uppercase tracking-widest text-foreground/40 flex-1">
                   {POSITIONS.find(p => p.index === activeSlot)?.label} を選択
                 </p>
-                <input
-                  autoFocus
-                  value={search}
-                  onChange={e => setSearch(e.target.value)}
-                  placeholder="選手名・チームで検索..."
-                  className="w-full bg-transparent text-foreground font-bold text-base focus:outline-none placeholder:text-foreground/30"
-                />
+                <button onClick={() => { setActiveSlot(null); setSearch(''); setPosFilter(''); setModalTab('search'); }} className="text-foreground/40 hover:text-foreground text-xl font-bold w-8 h-8 flex items-center justify-center">×</button>
               </div>
-              <select
-                value={posFilter}
-                onChange={e => setPosFilter(e.target.value)}
-                className="bg-foreground/10 text-foreground text-xs font-black rounded-lg px-3 py-2 border border-border-dim focus:outline-none"
-              >
-                <option value="">全ポジ</option>
-                {['PR', 'HO', 'LO', 'FL', 'No8', 'SH', 'SO', 'CTB', 'WTB', 'FB'].map(p => (
-                  <option key={p} value={p}>{p}</option>
-                ))}
-              </select>
-              <button onClick={() => { setActiveSlot(null); setSearch(''); setPosFilter(''); }} className="text-foreground/40 hover:text-foreground text-xl font-bold w-8 h-8 flex items-center justify-center">×</button>
-            </div>
-            <div className="overflow-y-auto flex-1">
-              {filtered.length === 0 ? (
-                <p className="text-center text-foreground/30 py-12 font-bold">選手が見つかりません</p>
-              ) : (
-                filtered.map(player => (
-                  <button
-                    key={player.slug}
-                    onClick={() => handleSelectPlayer(player)}
-                    className="w-full flex items-center gap-3 px-4 py-3 hover:bg-yellow-400/10 text-left border-b border-border-dim/40 transition-colors group"
+              {/* タブ */}
+              <div className="flex gap-2 mb-3">
+                <button
+                  onClick={() => setModalTab('search')}
+                  className={`flex-1 py-2 text-xs font-black rounded-lg transition-all ${modalTab === 'search' ? 'bg-yellow-400 text-black' : 'bg-foreground/10 text-foreground/50 hover:bg-foreground/20'}`}
+                >
+                  検索
+                </button>
+                <button
+                  onClick={() => setModalTab('cart')}
+                  className={`flex-1 py-2 text-xs font-black rounded-lg transition-all relative ${modalTab === 'cart' ? 'bg-yellow-400 text-black' : 'bg-foreground/10 text-foreground/50 hover:bg-foreground/20'}`}
+                >
+                  カート {cartPlayers.length > 0 && <span className={`ml-1 px-1.5 py-0.5 rounded-full text-[10px] ${modalTab === 'cart' ? 'bg-black/20 text-black' : 'bg-yellow-400 text-black'}`}>{cartPlayers.length}</span>}
+                </button>
+              </div>
+              {/* 検索タブのみ検索バー表示 */}
+              {modalTab === 'search' && (
+                <div className="flex items-center gap-2">
+                  <input
+                    autoFocus
+                    value={search}
+                    onChange={e => setSearch(e.target.value)}
+                    placeholder="選手名・チームで検索..."
+                    className="flex-1 bg-transparent text-foreground font-bold text-base focus:outline-none placeholder:text-foreground/30"
+                  />
+                  <select
+                    value={posFilter}
+                    onChange={e => setPosFilter(e.target.value)}
+                    className="bg-foreground/10 text-foreground text-xs font-black rounded-lg px-3 py-2 border border-border-dim focus:outline-none"
                   >
-                    <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
-                      {player.position || '—'}
-                    </span>
-                    <div className="flex-1 min-w-0">
-                      <p className="font-black text-sm text-foreground truncate">
-                        {FLAG_MAP[player.country || ''] || ''} {player.name}
-                      </p>
-                      {player.name_en && player.name_en !== player.name && (
-                        <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
+                    <option value="">全ポジ</option>
+                    {['PR', 'HO', 'LO', 'FL', 'No8', 'SH', 'SO', 'CTB', 'WTB', 'FB'].map(p => (
+                      <option key={p} value={p}>{p}</option>
+                    ))}
+                  </select>
+                </div>
+              )}
+            </div>
+            {/* リスト */}
+            <div className="overflow-y-auto flex-1">
+              {modalTab === 'cart' ? (
+                cartPlayers.length === 0 ? (
+                  <div className="text-center py-12">
+                    <p className="text-foreground/30 font-bold text-sm mb-2">カートは空です</p>
+                    <p className="text-foreground/20 text-xs">選手名鑑・チーム別メンバー表から<br/>「カートに追加」ボタンで選手を追加できます</p>
+                  </div>
+                ) : (
+                  <>
+                    {cartPlayers.map(player => (
+                      <button
+                        key={player.slug}
+                        onClick={() => handleSelectPlayer(player)}
+                        className="w-full flex items-center gap-3 px-4 py-3 hover:bg-yellow-400/10 text-left border-b border-border-dim/40 transition-colors group"
+                      >
+                        <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
+                          {player.position || '—'}
+                        </span>
+                        <div className="flex-1 min-w-0">
+                          <p className="font-black text-sm text-foreground truncate">
+                            {FLAG_MAP[player.country || ''] || ''} {player.name}
+                          </p>
+                          {player.name_en && player.name_en !== player.name && (
+                            <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
+                          )}
+                        </div>
+                        {player.team && (
+                          <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
+                        )}
+                      </button>
+                    ))}
+                    <button
+                      onClick={() => { try { localStorage.removeItem('rugby_draft_cart'); } catch {} setCartPlayers([]); }}
+                      className="w-full py-3 text-xs text-foreground/30 font-black hover:text-red-400 transition-colors"
+                    >
+                      カートをクリア
+                    </button>
+                  </>
+                )
+              ) : (
+                filtered.length === 0 ? (
+                  <p className="text-center text-foreground/30 py-12 font-bold">選手が見つかりません</p>
+                ) : (
+                  filtered.map(player => (
+                    <button
+                      key={player.slug}
+                      onClick={() => handleSelectPlayer(player)}
+                      className="w-full flex items-center gap-3 px-4 py-3 hover:bg-yellow-400/10 text-left border-b border-border-dim/40 transition-colors group"
+                    >
+                      <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
+                        {player.position || '—'}
+                      </span>
+                      <div className="flex-1 min-w-0">
+                        <p className="font-black text-sm text-foreground truncate">
+                          {FLAG_MAP[player.country || ''] || ''} {player.name}
+                        </p>
+                        {player.name_en && player.name_en !== player.name && (
+                          <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
+                        )}
+                      </div>
+                      {player.team && (
+                        <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
                       )}
-                    </div>
-                    {player.team && (
-                      <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
-                    )}
-                  </button>
-                ))
+                    </button>
+                  ))
+                )
               )}
             </div>
           </div>
