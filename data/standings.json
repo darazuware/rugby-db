@@ -858,29 +858,29 @@
       },
       {
         "rank": "5",
-        "team_name": "Crusaders",
-        "display_name": "カンタベリー・クルセイダーズ",
-        "flag": "🇳🇿",
-        "slug": "crusaders",
-        "played": "7",
-        "won": "4",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "49",
-        "points": "19"
-      },
-      {
-        "rank": "6",
         "team_name": "Queensland Reds",
         "display_name": "クイーンズランド・レッズ",
         "flag": "🇦🇺",
         "slug": "queensland-reds",
-        "played": "7",
-        "won": "4",
+        "played": "8",
+        "won": "5",
         "drawn": "0",
         "lost": "3",
-        "diff": "-41",
-        "points": "18"
+        "diff": "-36",
+        "points": "22"
+      },
+      {
+        "rank": "6",
+        "team_name": "Crusaders",
+        "display_name": "カンタベリー・クルセイダーズ",
+        "flag": "🇳🇿",
+        "slug": "crusaders",
+        "played": "8",
+        "won": "4",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "44",
+        "points": "20"
       },
       {
         "rank": "7",
