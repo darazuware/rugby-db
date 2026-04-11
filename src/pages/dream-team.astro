@@ -1,19 +1,7 @@
 ---
 export const prerender = false;
 import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
 import DreamTeamBuilder from "../components/DreamTeamBuilder";
-
-const allPlayers = await getCollection("players");
-
-const players = allPlayers.map(p => ({
-  slug: p.slug.split('/').pop() ?? p.slug,
-  name: p.data.name_ja || p.data.title,
-  name_en: p.data.name_en,
-  position: p.data.position,
-  team: p.data.team,
-  country: p.data.country,
-}));
 
 const teamParam = Astro.url.searchParams.get("team") || undefined;
 const isShared = !!teamParam;
@@ -41,7 +29,6 @@ const description = isShared
 
   <DreamTeamBuilder
     client:load
-    players={players}
     initialEncoded={teamParam}
   />
 </Layout>

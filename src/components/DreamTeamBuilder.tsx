@@ -93,53 +93,84 @@ function decodeTeam(encoded: string, players: Player[]): Record<number, Player> 
 }
 
 interface Props {
-  players: Player[];
   initialEncoded?: string;
 }
 
-export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
-  const [slots, setSlots] = useState<Record<number, Player>>(() => {
-    if (initialEncoded) return decodeTeam(initialEncoded, players);
-    try {
-      const saved = localStorage.getItem('rugby_dream_team');
-      if (saved) return decodeTeam(saved, players);
-    } catch {}
-    return {};
-  });
+export default function DreamTeamBuilder({ initialEncoded }: Props) {
+  const [allPlayers, setAllPlayers] = useState<Player[]>([]);
+  const [dataLoaded, setDataLoaded] = useState(false);
+  const [slots, setSlots] = useState<Record<number, Player>>({});
   const [activeSlot, setActiveSlot] = useState<number | null>(null);
   const [search, setSearch] = useState('');
+  const [debouncedSearch, setDebouncedSearch] = useState('');
   const [posFilter, setPosFilter] = useState('');
   const [copied, setCopied] = useState(false);
   const [teamName, setTeamName] = useState('最強のラグビー15');
   const [cartPlayers, setCartPlayers] = useState<Player[]>([]);
   const [modalTab, setModalTab] = useState<'search' | 'cart'>('search');
 
+  // 全選手データをAPIからfetch（1回のみ）
+  useEffect(() => {
+    fetch('/api/v1/all-players-download.json')
+      .then(r => r.json())
+      .then((data: { slug: string; data: { title?: string; name_ja?: string; name_en?: string; position?: string; team?: string; country?: string } }[]) => {
+        const mapped: Player[] = data.map(p => ({
+          slug: p.slug,
+          name: p.data.name_ja || p.data.title || '',
+          name_en: p.data.name_en,
+          position: p.data.position,
+          team: p.data.team,
+          country: p.data.country,
+        }));
+        setAllPlayers(mapped);
+
+        // スロット初期化（URLパラメータ優先、次にlocalStorage）
+        if (initialEncoded) {
+          setSlots(decodeTeam(initialEncoded, mapped));
+        } else {
+          try {
+            const saved = localStorage.getItem('rugby_dream_team');
+            if (saved) setSlots(decodeTeam(saved, mapped));
+          } catch {}
+        }
+
+        // カート読み込み
+        try {
+          const cartData: {slug: string}[] = JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
+          const playerMap = new Map(mapped.map(p => [p.slug, p]));
+          setCartPlayers(cartData.map(item => playerMap.get(item.slug)).filter(Boolean) as Player[]);
+        } catch {}
+
+        setDataLoaded(true);
+      })
+      .catch(() => setDataLoaded(true));
+  }, []);
+
   // 自動保存
   useEffect(() => {
-    try { localStorage.setItem('rugby_dream_team', encodeTeam(slots)); } catch {}
-  }, [slots]);
+    if (dataLoaded) {
+      try { localStorage.setItem('rugby_dream_team', encodeTeam(slots)); } catch {}
+    }
+  }, [slots, dataLoaded]);
 
-  // カート読み込み
+  // 検索デバウンス（300ms）
   useEffect(() => {
-    try {
-      const cartData: {slug: string}[] = JSON.parse(localStorage.getItem('rugby_draft_cart') || '[]');
-      const playerMap = new Map(players.map(p => [p.slug, p]));
-      setCartPlayers(cartData.map(item => playerMap.get(item.slug)).filter(Boolean) as Player[]);
-    } catch {}
-  }, [players]);
-
+    const t = setTimeout(() => setDebouncedSearch(search), 300);
+    return () => clearTimeout(t);
+  }, [search]);
 
   const filtered = useMemo(() => {
-    const q = search.toLowerCase();
-    return players.filter(p => {
+    if (debouncedSearch.length < 2 && !posFilter) return [];
+    const q = debouncedSearch.toLowerCase();
+    return allPlayers.filter(p => {
       const matchSearch = !q ||
         p.name.toLowerCase().includes(q) ||
         (p.name_en?.toLowerCase().includes(q) ?? false) ||
         (p.team?.toLowerCase().includes(q) ?? false);
       const matchPos = !posFilter || (p.position || '').split(/[/／・\s]+/).some(pos => pos.trim().toUpperCase() === posFilter.toUpperCase());
       return matchSearch && matchPos;
-    }).slice(0, 200);
-  }, [players, search, posFilter]);
+    }).slice(0, 30);
+  }, [allPlayers, debouncedSearch, posFilter]);
 
   const getShareUrl = useCallback(() => {
     const encoded = encodeTeam(slots);
@@ -313,8 +344,9 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
                     autoFocus
                     value={search}
                     onChange={e => setSearch(e.target.value)}
-                    placeholder="選手名・チームで検索..."
-                    className="flex-1 bg-transparent text-foreground font-bold text-base focus:outline-none placeholder:text-foreground/30"
+                    placeholder={dataLoaded ? `選手名・チームを2文字以上入力 (${allPlayers.length.toLocaleString()}人)` : 'データ読み込み中...'}
+                    disabled={!dataLoaded}
+                    className="flex-1 bg-transparent text-foreground font-bold text-base focus:outline-none placeholder:text-foreground/30 disabled:opacity-50"
                   />
                   <select
                     value={posFilter}
@@ -371,9 +403,22 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
                 )
               ) : (
                 filtered.length === 0 ? (
-                  <p className="text-center text-foreground/30 py-12 font-bold">選手が見つかりません</p>
+                  <div className="text-center py-12">
+                    {!dataLoaded ? (
+                      <p className="text-foreground/30 font-bold text-sm">選手データを読み込み中...</p>
+                    ) : debouncedSearch.length < 2 && !posFilter ? (
+                      <>
+                        <p className="text-foreground/30 font-bold text-sm mb-1">2文字以上入力して検索</p>
+                        <p className="text-foreground/20 text-xs">{allPlayers.length.toLocaleString()}人から検索できます</p>
+                      </>
+                    ) : (
+                      <p className="text-foreground/30 font-bold text-sm">選手が見つかりません</p>
+                    )}
+                  </div>
                 ) : (
-                  filtered.map(player => (
+                  <>
+                  <p className="text-[10px] text-foreground/30 font-black px-4 py-2 border-b border-border-dim/40">{filtered.length}件表示{filtered.length === 30 ? '（上位30件）' : ''}</p>
+                  {filtered.map(player => (
                     <button
                       key={player.slug}
                       onClick={() => handleSelectPlayer(player)}
@@ -394,7 +439,8 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
                         <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
                       )}
                     </button>
-                  ))
+                  ))}
+                  </>
                 )
               )}
             </div>
