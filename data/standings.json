@@ -175,12 +175,12 @@
         "display_name": "花園近鉄ライナーズ",
         "flag": "🇯🇵",
         "slug": "hanazono-kintetsu-liners",
-        "played": "10",
-        "points": "39",
-        "won": "9",
+        "played": "11",
+        "points": "44",
+        "won": "10",
         "drawn": "0",
         "lost": "1",
-        "diff": "115",
+        "diff": "156",
         "division": "D2"
       },
       {
@@ -189,12 +189,12 @@
         "display_name": "豊田自動織機シャトルズ愛知",
         "flag": "🇯🇵",
         "slug": "toyota-shuttles-aichi",
-        "played": "10",
-        "points": "39",
-        "won": "8",
+        "played": "11",
+        "points": "44",
+        "won": "9",
         "drawn": "0",
         "lost": "2",
-        "diff": "246",
+        "diff": "274",
         "division": "D2"
       },
       {
@@ -217,12 +217,12 @@
         "display_name": "グリーンロケッツ東葛",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "10",
+        "played": "11",
         "points": "26",
         "won": "5",
         "drawn": "0",
-        "lost": "5",
-        "diff": "62",
+        "lost": "6",
+        "diff": "34",
         "division": "D2"
       },
       {
@@ -273,12 +273,12 @@
         "display_name": "日野レッドドルフィンズ",
         "flag": "🇯🇵",
         "slug": "hino-red-dolphins",
-        "played": "10",
+        "played": "11",
         "points": "2",
         "won": "0",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-218",
+        "lost": "11",
+        "diff": "-259",
         "division": "D2"
       },
       {
@@ -287,12 +287,12 @@
         "display_name": "スカイアクティブズ広島",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "11",
-        "points": "52",
-        "won": "11",
+        "played": "12",
+        "points": "57",
+        "won": "12",
         "drawn": "0",
         "lost": "0",
-        "diff": "291",
+        "diff": "310",
         "division": "D3"
       },
       {
@@ -329,12 +329,12 @@
         "display_name": "ルリーロ福岡",
         "flag": "🇯🇵",
         "slug": "leriro-fukuoka",
-        "played": "11",
-        "points": "15",
-        "won": "3",
+        "played": "12",
+        "points": "19",
+        "won": "4",
         "drawn": "1",
         "lost": "7",
-        "diff": "-117",
+        "diff": "-105",
         "division": "D3"
       },
       {
@@ -343,12 +343,12 @@
         "display_name": "ヤクルトレビンズ戸田",
         "flag": "🇯🇵",
         "slug": "yakult-levins",
-        "played": "11",
+        "played": "12",
         "points": "14",
         "won": "3",
         "drawn": "0",
-        "lost": "8",
-        "diff": "-228",
+        "lost": "9",
+        "diff": "-247",
         "division": "D3"
       },
       {
@@ -357,12 +357,12 @@
         "display_name": "中国電力レッドレグリオンズ",
         "flag": "🇯🇵",
         "slug": "chugoku-red-regulions",
-        "played": "11",
+        "played": "12",
         "points": "11",
         "won": "2",
         "drawn": "1",
-        "lost": "8",
-        "diff": "-203",
+        "lost": "9",
+        "diff": "-215",
         "division": "D3"
       }
     ],
@@ -806,6 +806,19 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "Chiefs",
+        "display_name": "ワイカト・チーフス",
+        "flag": "🇳🇿",
+        "slug": "chiefs",
+        "played": "8",
+        "won": "6",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "104",
+        "points": "27"
+      },
+      {
+        "rank": "2",
         "team_name": "Hurricanes",
         "display_name": "ウェリントン・ハリケーンズ",
         "flag": "🇳🇿",
@@ -818,7 +831,7 @@
         "points": "25"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
@@ -831,30 +844,17 @@
         "points": "25"
       },
       {
-        "rank": "3",
-        "team_name": "Chiefs",
-        "display_name": "ワイカト・チーフス",
-        "flag": "🇳🇿",
-        "slug": "chiefs",
-        "played": "7",
-        "won": "5",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "59",
-        "points": "22"
-      },
-      {
         "rank": "4",
         "team_name": "ACT Brumbies",
         "display_name": "ACTブランビーズ",
         "flag": "🇦🇺",
         "slug": "act-brumbies",
-        "played": "7",
-        "won": "4",
+        "played": "8",
+        "won": "5",
         "drawn": "0",
         "lost": "3",
-        "diff": "50",
-        "points": "20"
+        "diff": "54",
+        "points": "24"
       },
       {
         "rank": "5",
@@ -884,6 +884,19 @@
       },
       {
         "rank": "7",
+        "team_name": "Highlanders",
+        "display_name": "オタゴ・ハイランダーズ",
+        "flag": "🇳🇿",
+        "slug": "highlanders",
+        "played": "8",
+        "won": "3",
+        "drawn": "0",
+        "lost": "5",
+        "diff": "-48",
+        "points": "15"
+      },
+      {
+        "rank": "8",
         "team_name": "NSW Waratahs",
         "display_name": "NSWワラタス（ワラターズ）",
         "flag": "🇦🇺",
@@ -893,19 +906,6 @@
         "drawn": "0",
         "lost": "4",
         "diff": "-43",
-        "points": "14"
-      },
-      {
-        "rank": "8",
-        "team_name": "Highlanders",
-        "display_name": "オタゴ・ハイランダーズ",
-        "flag": "🇳🇿",
-        "slug": "highlanders",
-        "played": "7",
-        "won": "3",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "-44",
         "points": "14"
       },
       {
@@ -940,11 +940,11 @@
         "display_name": "モアナ・パシフィカ",
         "flag": "🏝️",
         "slug": "moana-pasifika",
-        "played": "7",
+        "played": "8",
         "won": "1",
         "drawn": "0",
-        "lost": "6",
-        "diff": "-162",
+        "lost": "7",
+        "diff": "-207",
         "points": "4"
       }
     ],
