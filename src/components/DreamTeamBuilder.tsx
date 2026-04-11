@@ -128,7 +128,6 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
     } catch {}
   }, [players]);
 
-  const usedSlugs = useMemo(() => new Set(Object.values(slots).map(p => p.slug)), [slots]);
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
@@ -163,15 +162,7 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
 
   const handleSelectPlayer = useCallback((player: Player) => {
     if (activeSlot === null) return;
-    setSlots(prev => {
-      const next = { ...prev };
-      // 既存スロットから同じ選手を削除
-      Object.entries(next).forEach(([k, v]) => {
-        if (v.slug === player.slug) delete next[Number(k)];
-      });
-      next[activeSlot] = player;
-      return next;
-    });
+    setSlots(prev => ({ ...prev, [activeSlot]: player }));
     setActiveSlot(null);
     setSearch('');
     setPosFilter('');
@@ -348,54 +339,11 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
                   </div>
                 ) : (
                   <>
-                    {cartPlayers.map(player => {
-                      const alreadyUsed = usedSlugs.has(player.slug) && slots[activeSlot]?.slug !== player.slug;
-                      return (
-                        <button
-                          key={player.slug}
-                          onClick={() => !alreadyUsed && handleSelectPlayer(player)}
-                          disabled={alreadyUsed}
-                          className={`w-full flex items-center gap-3 px-4 py-3 text-left border-b border-border-dim/40 transition-colors group ${alreadyUsed ? 'opacity-30 cursor-not-allowed' : 'hover:bg-yellow-400/10'}`}
-                        >
-                          <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
-                            {player.position || '—'}
-                          </span>
-                          <div className="flex-1 min-w-0">
-                            <p className="font-black text-sm text-foreground truncate">
-                              {FLAG_MAP[player.country || ''] || ''} {player.name}
-                            </p>
-                            {player.name_en && player.name_en !== player.name && (
-                              <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
-                            )}
-                          </div>
-                          {alreadyUsed ? (
-                            <span className="text-[10px] text-foreground/30 font-bold">選択済</span>
-                          ) : player.team ? (
-                            <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
-                          ) : null}
-                        </button>
-                      );
-                    })}
-                    <button
-                      onClick={() => { try { localStorage.removeItem('rugby_draft_cart'); } catch {} setCartPlayers([]); }}
-                      className="w-full py-3 text-xs text-foreground/30 font-black hover:text-red-400 transition-colors"
-                    >
-                      カートをクリア
-                    </button>
-                  </>
-                )
-              ) : (
-                filtered.length === 0 ? (
-                  <p className="text-center text-foreground/30 py-12 font-bold">選手が見つかりません</p>
-                ) : (
-                  filtered.map(player => {
-                    const alreadyUsed = usedSlugs.has(player.slug) && slots[activeSlot]?.slug !== player.slug;
-                    return (
+                    {cartPlayers.map(player => (
                       <button
                         key={player.slug}
-                        onClick={() => !alreadyUsed && handleSelectPlayer(player)}
-                        disabled={alreadyUsed}
-                        className={`w-full flex items-center gap-3 px-4 py-3 text-left border-b border-border-dim/40 transition-colors group ${alreadyUsed ? 'opacity-30 cursor-not-allowed' : 'hover:bg-yellow-400/10'}`}
+                        onClick={() => handleSelectPlayer(player)}
+                        className="w-full flex items-center gap-3 px-4 py-3 hover:bg-yellow-400/10 text-left border-b border-border-dim/40 transition-colors group"
                       >
                         <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
                           {player.position || '—'}
@@ -408,14 +356,45 @@ export default function DreamTeamBuilder({ players, initialEncoded }: Props) {
                             <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
                           )}
                         </div>
-                        {alreadyUsed ? (
-                          <span className="text-[10px] text-foreground/30 font-bold">選択済</span>
-                        ) : player.team ? (
+                        {player.team && (
                           <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
-                        ) : null}
+                        )}
                       </button>
-                    );
-                  })
+                    ))}
+                    <button
+                      onClick={() => { try { localStorage.removeItem('rugby_draft_cart'); } catch {} setCartPlayers([]); }}
+                      className="w-full py-3 text-xs text-foreground/30 font-black hover:text-red-400 transition-colors"
+                    >
+                      カートをクリア
+                    </button>
+                  </>
+                )
+              ) : (
+                filtered.length === 0 ? (
+                  <p className="text-center text-foreground/30 py-12 font-bold">選手が見つかりません</p>
+                ) : (
+                  filtered.map(player => (
+                    <button
+                      key={player.slug}
+                      onClick={() => handleSelectPlayer(player)}
+                      className="w-full flex items-center gap-3 px-4 py-3 hover:bg-yellow-400/10 text-left border-b border-border-dim/40 transition-colors group"
+                    >
+                      <span className="text-[10px] font-black text-foreground/30 w-10 text-center bg-foreground/5 rounded-lg py-1 group-hover:bg-yellow-400/20">
+                        {player.position || '—'}
+                      </span>
+                      <div className="flex-1 min-w-0">
+                        <p className="font-black text-sm text-foreground truncate">
+                          {FLAG_MAP[player.country || ''] || ''} {player.name}
+                        </p>
+                        {player.name_en && player.name_en !== player.name && (
+                          <p className="text-[10px] text-foreground/40 truncate">{player.name_en}</p>
+                        )}
+                      </div>
+                      {player.team && (
+                        <span className="text-[10px] text-foreground/30 font-bold truncate max-w-[100px]">{player.team}</span>
+                      )}
+                    </button>
+                  ))
                 )
               )}
             </div>
