@@ -601,11 +601,11 @@
         "display_name": "DHLストーマーズ",
         "flag": "🇿🇦",
         "slug": "dhl-stormers",
-        "played": "14",
+        "played": "15",
         "won": "11",
         "drawn": "0",
-        "lost": "3",
-        "diff": "139",
+        "lost": "4",
+        "diff": "130",
         "points": "51"
       },
       {
@@ -649,6 +649,19 @@
       },
       {
         "rank": "6",
+        "team_name": "Connacht Rugby",
+        "display_name": "コナート・ラグビー",
+        "flag": "🇮🇪",
+        "slug": "connacht-rugby",
+        "played": "15",
+        "won": "8",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "19",
+        "points": "44"
+      },
+      {
+        "rank": "7",
         "team_name": "Fidelity SecureDrive Lions",
         "display_name": "Fidelity SecureDrive Lions",
         "flag": "🇫🇷",
@@ -661,7 +674,7 @@
         "points": "43"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "Cardiff Rugby",
         "display_name": "カーディフ・ラグビー",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -674,7 +687,7 @@
         "points": "41"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "team_name": "Munster Rugby",
         "display_name": "マンスター・ラグビー",
         "flag": "🇮🇪",
@@ -685,19 +698,6 @@
         "lost": "6",
         "diff": "-25",
         "points": "41"
-      },
-      {
-        "rank": "9",
-        "team_name": "Connacht Rugby",
-        "display_name": "コナート・ラグビー",
-        "flag": "🇮🇪",
-        "slug": "connacht-rugby",
-        "played": "14",
-        "won": "7",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "10",
-        "points": "39"
       },
       {
         "rank": "10",
@@ -875,12 +875,12 @@
         "display_name": "カンタベリー・クルセイダーズ",
         "flag": "🇳🇿",
         "slug": "crusaders",
-        "played": "8",
+        "played": "9",
         "won": "4",
         "drawn": "0",
-        "lost": "4",
-        "diff": "44",
-        "points": "20"
+        "lost": "5",
+        "diff": "39",
+        "points": "21"
       },
       {
         "rank": "7",
@@ -927,12 +927,12 @@
         "display_name": "ウェスタン・フォース",
         "flag": "🇦🇺",
         "slug": "western-force",
-        "played": "8",
-        "won": "2",
+        "played": "9",
+        "won": "3",
         "drawn": "0",
         "lost": "6",
-        "diff": "-31",
-        "points": "10"
+        "diff": "-26",
+        "points": "14"
       },
       {
         "rank": "11",
