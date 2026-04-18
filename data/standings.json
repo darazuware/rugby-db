@@ -440,11 +440,11 @@
         "display_name": "ボルドー・ベグル",
         "flag": "🇫🇷",
         "slug": "bordeaux",
-        "played": "20",
+        "played": "21",
         "won": "12",
         "drawn": "0",
-        "lost": "8",
-        "diff": "+136",
+        "lost": "9",
+        "diff": "+106",
         "points": "59"
       },
       {
@@ -475,6 +475,19 @@
       },
       {
         "rank": "7",
+        "team_name": "Stade Rochelais",
+        "display_name": "ラ・ロシェル",
+        "flag": "🇫🇷",
+        "slug": "la-rochelle",
+        "played": "21",
+        "won": "10",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "+97",
+        "points": "50"
+      },
+      {
+        "rank": "8",
         "team_name": "Racing 92",
         "display_name": "ラシン92",
         "flag": "🇫🇷",
@@ -487,7 +500,7 @@
         "points": "50"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "team_name": "Castres Olympique",
         "display_name": "カストル",
         "flag": "🇫🇷",
@@ -498,19 +511,6 @@
         "lost": "10",
         "diff": "-69",
         "points": "47"
-      },
-      {
-        "rank": "9",
-        "team_name": "Stade Rochelais",
-        "display_name": "ラ・ロシェル",
-        "flag": "🇫🇷",
-        "slug": "la-rochelle",
-        "played": "20",
-        "won": "9",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "+67",
-        "points": "45"
       },
       {
         "rank": "10",
@@ -588,11 +588,11 @@
         "display_name": "グラスゴー・ウォリアーズ",
         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "slug": "glasgow-warriors",
-        "played": "14",
+        "played": "15",
         "won": "11",
         "drawn": "0",
-        "lost": "3",
-        "diff": "192",
+        "lost": "4",
+        "diff": "150",
         "points": "55"
       },
       {
@@ -623,6 +623,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Fidelity SecureDrive Lions",
+        "display_name": "Fidelity SecureDrive Lions",
+        "flag": "🇫🇷",
+        "slug": "fidelity-securedrive-lions",
+        "played": "15",
+        "won": "9",
+        "drawn": "1",
+        "lost": "5",
+        "diff": "78",
+        "points": "48"
+      },
+      {
+        "rank": "5",
         "team_name": "Ulster Rugby",
         "display_name": "アルスター・ラグビー",
         "flag": "🇮🇪",
@@ -635,7 +648,7 @@
         "points": "47"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "Vodacom Bulls",
         "display_name": "ヴォーダコム・ブルズ",
         "flag": "🇿🇦",
@@ -648,7 +661,7 @@
         "points": "45"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "Connacht Rugby",
         "display_name": "コナート・ラグビー",
         "flag": "🇮🇪",
@@ -659,19 +672,6 @@
         "lost": "7",
         "diff": "19",
         "points": "44"
-      },
-      {
-        "rank": "7",
-        "team_name": "Fidelity SecureDrive Lions",
-        "display_name": "Fidelity SecureDrive Lions",
-        "flag": "🇫🇷",
-        "slug": "fidelity-securedrive-lions",
-        "played": "14",
-        "won": "8",
-        "drawn": "1",
-        "lost": "5",
-        "diff": "36",
-        "points": "43"
       },
       {
         "rank": "8",
@@ -1025,12 +1025,12 @@
         "display_name": "レスター・タイガーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "leicester-tigers",
-        "played": "12",
-        "won": "9",
+        "played": "13",
+        "won": "10",
         "drawn": "0",
         "lost": "3",
-        "diff": "96",
-        "points": "46"
+        "diff": "155",
+        "points": "51"
       },
       {
         "rank": "4",
@@ -1116,11 +1116,11 @@
         "display_name": "ニューカッスル・ファルコンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "newcastle-falcons",
-        "played": "12",
+        "played": "13",
         "won": "1",
         "drawn": "0",
-        "lost": "11",
-        "diff": "-297",
+        "lost": "12",
+        "diff": "-356",
         "points": "7"
       }
     ],
