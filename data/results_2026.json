@@ -930,7 +930,7 @@
       "round": 15,
       "home": "三重ホンダヒート",
       "away": "ブラックラムズ東京",
-      "score": "VS",
+      "score": "5-49",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29339"
@@ -941,7 +941,7 @@
       "round": 15,
       "home": "横浜キヤノンイーグルス",
       "away": "浦安D-Rocks",
-      "score": "VS",
+      "score": "33-15",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29341"
@@ -952,7 +952,7 @@
       "round": 15,
       "home": "東京サントリーサンゴリアス",
       "away": "クボタスピアーズ船橋・東京ベイ",
-      "score": "VS",
+      "score": "22-27",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29343"
@@ -963,7 +963,7 @@
       "round": 15,
       "home": "静岡ブルーレヴズ",
       "away": "埼玉パナソニックワイルドナイツ",
-      "score": "VS",
+      "score": "21-21",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29340"
@@ -974,7 +974,7 @@
       "round": 15,
       "home": "トヨタヴェルブリッツ",
       "away": "コベルコ神戸スティーラーズ",
-      "score": "VS",
+      "score": "17-26",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29342"
@@ -985,7 +985,7 @@
       "round": 15,
       "home": "三菱重工相模原ダイナボアーズ",
       "away": "東芝ブレイブルーパス東京",
-      "score": "VS",
+      "score": "7-28",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29344"
@@ -2780,7 +2780,7 @@
       "date": "2026-04-17",
       "home": "オークランド・ブルーズ",
       "away": "オタゴ・ハイランダーズ",
-      "score": "VS",
+      "score": "47-40",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949251"
@@ -2790,7 +2790,7 @@
       "date": "2026-04-17",
       "home": "NSWワラタス（ワラターズ）",
       "away": "モアナ・パシフィカ",
-      "score": "VS",
+      "score": "29-14",
       "home_flag": "🇦🇺",
       "away_flag": "🏝️",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949252"
