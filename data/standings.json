@@ -849,12 +849,12 @@
         "display_name": "ACTブランビーズ",
         "flag": "🇦🇺",
         "slug": "act-brumbies",
-        "played": "8",
+        "played": "9",
         "won": "5",
         "drawn": "0",
-        "lost": "3",
-        "diff": "54",
-        "points": "24"
+        "lost": "4",
+        "diff": "49",
+        "points": "25"
       },
       {
         "rank": "5",
@@ -897,6 +897,19 @@
       },
       {
         "rank": "8",
+        "team_name": "Fijian Drua",
+        "display_name": "フィジアン・ドゥルア",
+        "flag": "🇫🇯",
+        "slug": "fijian-drua",
+        "played": "9",
+        "won": "4",
+        "drawn": "0",
+        "lost": "5",
+        "diff": "-93",
+        "points": "16"
+      },
+      {
+        "rank": "9",
         "team_name": "Highlanders",
         "display_name": "オタゴ・ハイランダーズ",
         "flag": "🇳🇿",
@@ -907,19 +920,6 @@
         "lost": "6",
         "diff": "-55",
         "points": "16"
-      },
-      {
-        "rank": "9",
-        "team_name": "Fijian Drua",
-        "display_name": "フィジアン・ドゥルア",
-        "flag": "🇫🇯",
-        "slug": "fijian-drua",
-        "played": "8",
-        "won": "3",
-        "drawn": "0",
-        "lost": "5",
-        "diff": "-98",
-        "points": "12"
       },
       {
         "rank": "10",
