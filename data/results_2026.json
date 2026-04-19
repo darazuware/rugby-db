@@ -4526,6 +4526,56 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11452-la-rochelle-bordeaux-begles"
+    },
+    {
+      "round": 21,
+      "date": "2026-04-18",
+      "home": "クレルモン",
+      "away": "リヨン",
+      "score": "41 - 23",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11447-clermont-lyon"
+    },
+    {
+      "round": 21,
+      "date": "2026-04-18",
+      "home": "バイヨンヌ",
+      "away": "ポー",
+      "score": "22 - 54",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11448-bayonne-pau"
+    },
+    {
+      "round": 21,
+      "date": "2026-04-18",
+      "home": "モンペリエ",
+      "away": "ペルピニャン",
+      "score": "42 - 31",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11450-montpellier-perpignan"
+    },
+    {
+      "round": 21,
+      "date": "2026-04-18",
+      "home": "モントーバン",
+      "away": "トゥーロン",
+      "score": "22 - 47",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11453-montauban-toulon"
+    },
+    {
+      "round": 21,
+      "date": "2026-04-18",
+      "home": "カストル",
+      "away": "トゥールーズ",
+      "score": "25 - 42",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j21/11449-castres-toulouse"
     }
   ],
   "urc": [
