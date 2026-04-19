@@ -16,6 +16,9 @@ export default defineConfig({
     webAnalytics: {
       enabled: true,
     },
+    isr: {
+      bypassToken: process.env.REVALIDATE_SECRET,
+    },
   }),
   vite: {
     plugins: [tailwindcss()]
