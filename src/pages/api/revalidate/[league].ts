@@ -65,19 +65,17 @@ export const POST: APIRoute = async ({ params, request }) => {
     );
   }
 
-  const teamParam = teamId ? `&teamId=${encodeURIComponent(teamId)}` : "";
-  const purgeUrl  = `https://api.vercel.com/v1/projects/${projectId}/cache-tags${teamParam}`;
+  const teamParam = teamId ? `?teamId=${encodeURIComponent(teamId)}` : "";
+  const purgeUrl  = `https://api.vercel.com/v1/data-cache/purge-tags${teamParam}`;
 
   try {
-    // Vercel tag-based cache purge — pages tagged with the league ID are invalidated.
-    // Tags are set via `Cache-Tag` response headers in the corresponding Astro pages.
     const purgeResp = await fetch(purgeUrl, {
       method: "DELETE",
       headers: {
         Authorization:  `Bearer ${token}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ tags: [`standings-${league}`, "standings"] }),
+      body: JSON.stringify({ projectId, tags: [`standings-${league}`, "standings"] }),
     });
 
     if (!purgeResp.ok) {
