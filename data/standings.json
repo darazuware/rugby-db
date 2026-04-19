@@ -440,11 +440,11 @@
         "display_name": "スタッド・フランセ",
         "flag": "🇫🇷",
         "slug": "paris",
-        "played": "20",
+        "played": "21",
         "won": "11",
         "drawn": "1",
-        "lost": "8",
-        "diff": "+128",
+        "lost": "9",
+        "diff": "+101",
         "points": "59"
       },
       {
@@ -475,6 +475,19 @@
       },
       {
         "rank": "7",
+        "team_name": "Racing 92",
+        "display_name": "ラシン92",
+        "flag": "🇫🇷",
+        "slug": "racing-92",
+        "played": "21",
+        "won": "12",
+        "drawn": "1",
+        "lost": "8",
+        "diff": "+4",
+        "points": "55"
+      },
+      {
+        "rank": "8",
         "team_name": "Stade Rochelais",
         "display_name": "ラ・ロシェル",
         "flag": "🇫🇷",
@@ -487,7 +500,7 @@
         "points": "50"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "team_name": "RC Toulon",
         "display_name": "RC Toulon",
         "flag": "🇫🇷",
@@ -497,19 +510,6 @@
         "drawn": "1",
         "lost": "10",
         "diff": "-81",
-        "points": "50"
-      },
-      {
-        "rank": "9",
-        "team_name": "Racing 92",
-        "display_name": "ラシン92",
-        "flag": "🇫🇷",
-        "slug": "racing-92",
-        "played": "20",
-        "won": "11",
-        "drawn": "1",
-        "lost": "8",
-        "diff": "-23",
         "points": "50"
       },
       {
