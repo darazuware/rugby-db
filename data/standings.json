@@ -1064,12 +1064,12 @@
         "display_name": "サラセンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "saracens",
-        "played": "12",
-        "won": "5",
+        "played": "13",
+        "won": "6",
         "drawn": "0",
         "lost": "7",
-        "diff": "84",
-        "points": "33"
+        "diff": "150",
+        "points": "38"
       },
       {
         "rank": "7",
@@ -1077,11 +1077,11 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "12",
+        "played": "13",
         "won": "3",
         "drawn": "0",
-        "lost": "9",
-        "diff": "-29",
+        "lost": "10",
+        "diff": "-95",
         "points": "22"
       },
       {
