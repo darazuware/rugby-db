@@ -229,9 +229,81 @@ const popularPlayers = squadPlayers
         team_jp: teamNameDisplay,
         rank: index + 1
     }));
+
+// 代表経験者（全員）
+const isDiv3 = team.division === "Division 3";
+
+const hasNationalCap = (caps: string) => {
+    // 国代表 or 州代表のみ: "代表(\d+)" or "Country (N)" パターン
+    return /代表\(\d+\)/.test(caps) || /[A-Za-z ]+\s*\(\d+\)/.test(caps);
+};
+
+const internationalPlayers = isLeagueOne ? squadPlayers
+    .filter(p => {
+        const caps = String(p.data.caps || "").trim();
+        if (!caps) return false;
+        return isDiv3 ? true : hasNationalCap(caps);
+    })
+    .sort((a, b) => getCapCount(b.data.caps || "") - getCapCount(a.data.caps || ""))
+    .map(p => ({
+        id: p.slug || p.id,
+        name_jp: p.data.title,
+        caps: p.data.caps,
+        position: p.data.position || "",
+    })) : [];
+// チーム紹介記事の取得
+const teamArticles = await getCollection('teams');
+// id は "super-rugby/moana-pasifika.md" 形式
+const teamArticle = teamArticles.find(
+    (a: any) => a.id === `${league}/${slug}.md` && !a.data.draft
+);
+const { Content: TeamArticleContent } = teamArticle ? await teamArticle.render() : { Content: null };
+
+// 記事本文に登場する選手名を検出（クライアントサイドリンク挿入用）
+type PlayerLink = { name: string; slug: string };
+const articleMentions: PlayerLink[] = [];
+if (teamArticle?.body) {
+    const body = teamArticle.body;
+    const seen = new Set<string>();
+    for (const p of allPlayers) {
+        const pSlug: string = p.slug || (p as any).id;
+        if (seen.has(pSlug)) continue;
+        // 日本語名（スペース除去・中点バリアント）
+        if (p.data.name_ja) {
+            const noSpace = String(p.data.name_ja).replace(/[\s　]/g, '');
+            const dotVariant = String(p.data.name_ja).trim().replace(/[\s　]/g, '・');
+            if (noSpace.length >= 2 && (body.includes(noSpace) || body.includes(dotVariant))) {
+                articleMentions.push({ name: body.includes(noSpace) ? noSpace : dotVariant, slug: pSlug });
+                seen.add(pSlug);
+                continue;
+            }
+        }
+        // 英語名
+        const en = p.data.name_en ? String(p.data.name_en).trim() : '';
+        if (en.includes(' ') && body.includes(en)) {
+            articleMentions.push({ name: en, slug: pSlug });
+            seen.add(pSlug);
+            continue;
+        }
+        // エイリアス
+        if (p.data.aliases) {
+            for (const alias of p.data.aliases) {
+                if (alias && body.includes(alias)) {
+                    articleMentions.push({ name: alias, slug: pSlug });
+                    seen.add(pSlug);
+                    break;
+                }
+            }
+        }
+    }
+    // 長い名前を先に処理（部分一致による二重置換を防ぐ）
+    articleMentions.sort((a, b) => b.name.length - a.name.length);
+}
+
 // 順位データの取得
 import standingsData from "../../../../data/standings.json";
-const leagueStandings = (standingsData as any)[league || ""]?.standings || [];
+import { getLeagueStandings, type LeagueId } from "../../../lib/safeStandings";
+const leagueStandings = getLeagueStandings(standingsData, (league || "") as LeagueId);
 const teamStanding = leagueStandings.find((s: any) => 
     s.display_name === teamNameDisplay || 
     s.team_name === team.team_name || 
@@ -243,6 +315,10 @@ const teamStanding = leagueStandings.find((s: any) =>
     title={`${isLeagueOne ? teamNameDisplay : teamEnName} (${
         isLeagueOne ? teamEnName : teamNameDisplay
     }) | チーム詳細 | RUGBY PICKS`}
+    description={isLeagueOne
+        ? `${teamNameDisplay}（${teamEnName}）の選手・成績・歴史を徹底解説。${team.home_ground ? team.home_ground + 'を本拠地とする' : ''}${team.host_area ? team.host_area + 'の' : ''}リーグワン${team.division === 'Division 1' ? 'Div.1' : team.division === 'Division 2' ? 'Div.2' : 'Div.3'}クラブの全情報。`
+        : `${teamEnName} (${teamNameDisplay}) の選手・成績・最新情報。RUGBY PICKS で世界のラグビーチームを探索。`
+    }
 >
     <main class="bg-background min-h-screen py-8 md:py-12 px-0 sm:px-4 text-foreground relative overflow-hidden w-full">
         {/* 背景の装飾的なぼかし要素 */}
@@ -264,6 +340,18 @@ const teamStanding = leagueStandings.find((s: any) =>
                     <a href="#results" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
                         <span class="w-1.5 h-1.5 rounded-full bg-yellow-400 group-hover:scale-125 transition-transform"></span>
                         RESULTS
+                    </a>
+                )}
+                {TeamArticleContent && (
+                    <a href="#about" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
+                        <span class="w-1.5 h-1.5 rounded-full bg-purple-400 group-hover:scale-125 transition-transform"></span>
+                        ABOUT
+                    </a>
+                )}
+                {internationalPlayers.length > 0 && (
+                    <a href="#internationals" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
+                        <span class="w-1.5 h-1.5 rounded-full bg-red-500 group-hover:scale-125 transition-transform"></span>
+                        INTL
                     </a>
                 )}
                 <a href="#players" class="px-4 py-2 hover:bg-white/10 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest flex items-center gap-2 group">
@@ -466,6 +554,98 @@ const teamStanding = leagueStandings.find((s: any) =>
                         </div>
                     </div>
                 </div>
+
+                {/* 代表経験者セクション (リーグワンのみ) */}
+                {internationalPlayers.length > 0 && (
+                    <section class="mb-16 scroll-mt-32 px-10 pb-2" id="internationals">
+                        <div class="flex items-center gap-4 mb-8">
+                            <div class="flex items-center gap-3">
+                                <div class="w-1.5 h-8 bg-red-500 rounded-full"></div>
+                                <h2 class="text-2xl font-black text-foreground uppercase tracking-tight italic">
+                                    代表経験選手
+                                </h2>
+                            </div>
+                            <div class="flex-grow h-px bg-linear-to-r from-border-dim to-transparent"></div>
+                            <span class="px-3 py-1 bg-card border border-border-dim rounded-lg text-[10px] font-black text-foreground/40 uppercase tracking-widest">
+                                {internationalPlayers.length} 名
+                            </span>
+                        </div>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                            {internationalPlayers.map(p => (
+                                <a href={`/players/${p.id}`} class="flex items-center gap-4 p-4 rounded-2xl bg-background border border-border-dim hover:border-red-500/50 transition-all group">
+                                    <div class="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center text-foreground/20 font-black italic border border-border-dim group-hover:border-red-500/30 transition-colors shrink-0">
+                                        {p.name_jp ? p.name_jp[0] : "?"}
+                                    </div>
+                                    <div class="flex-1 min-w-0">
+                                        <div class="text-xs font-black text-foreground group-hover:text-red-400 transition-colors truncate">{p.name_jp}</div>
+                                        {p.position && <div class="text-[9px] text-foreground/40 font-bold uppercase tracking-widest">{p.position}</div>}
+                                        <div class="text-[9px] text-red-400/70 font-black mt-0.5">{p.caps}</div>
+                                    </div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 text-foreground/20 group-hover:text-red-400 transition-colors shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                                </a>
+                            ))}
+                        </div>
+                    </section>
+                )}
+
+                {/* チーム紹介記事 */}
+                {TeamArticleContent && (
+                    <section class="mb-16 scroll-mt-32 px-10 pb-10" id="about">
+                        <div class="flex items-center gap-4 mb-8">
+                            <div class="flex items-center gap-3">
+                                <div class="w-1.5 h-8 bg-purple-400 rounded-full"></div>
+                                <h2 class="text-2xl font-black text-foreground uppercase tracking-tight italic">
+                                    About
+                                </h2>
+                            </div>
+                            <div class="flex-grow h-px bg-linear-to-r from-border-dim to-transparent"></div>
+                        </div>
+                        <div id="about-content" class="prose prose-invert prose-sm max-w-none
+                            prose-headings:font-black prose-headings:tracking-tight prose-headings:text-foreground
+                            prose-h2:text-xl prose-h2:border-l-4 prose-h2:border-yellow-400 prose-h2:pl-3 prose-h2:mt-10 prose-h2:mb-4
+                            prose-p:text-foreground/70 prose-p:leading-relaxed
+                            prose-strong:text-foreground prose-strong:font-black
+                            prose-table:w-full prose-table:text-sm
+                            prose-th:text-left prose-th:text-foreground/40 prose-th:font-black prose-th:text-[10px] prose-th:uppercase prose-th:tracking-widest prose-th:pb-2
+                            prose-td:text-foreground/80 prose-td:py-2 prose-td:border-b prose-td:border-border-dim/30
+                            prose-li:text-foreground/70 prose-li:marker:text-yellow-400
+                            prose-a:text-yellow-400 prose-a:no-underline hover:prose-a:underline">
+                            <TeamArticleContent />
+                        </div>
+                        {articleMentions.length > 0 && (
+                            <script define:vars={{ articleMentions }}>
+                            (function() {
+                                const container = document.getElementById('about-content');
+                                if (!container) return;
+                                // 長い名前から順にテキストノードを置換
+                                const players = articleMentions.slice().sort((a, b) => b.name.length - a.name.length);
+                                function walk(node) {
+                                    if (node.nodeType === 3) { // TEXT_NODE
+                                        let text = node.textContent;
+                                        let changed = false;
+                                        for (const { name, slug } of players) {
+                                            if (text.includes(name)) {
+                                                text = text.split(name).join(`\x00${slug}\x01${name}\x02`);
+                                                changed = true;
+                                            }
+                                        }
+                                        if (changed) {
+                                            const span = document.createElement('span');
+                                            span.innerHTML = text
+                                                .replace(/\x00([^\x01]+)\x01([^\x02]+)\x02/g,
+                                                    (_, s, n) => `<a href="/players/${s}" class="text-yellow-400 hover:underline font-bold">${n}</a>`);
+                                            node.replaceWith(span);
+                                        }
+                                    } else if (node.nodeType === 1 && node.tagName !== 'A' && node.tagName !== 'SCRIPT') {
+                                        Array.from(node.childNodes).forEach(walk);
+                                    }
+                                }
+                                walk(container);
+                            })();
+                            </script>
+                        )}
+                    </section>
+                )}
 
                 {/* [NEW] 直近の試合結果 */}
                 {matchResults.length > 0 && (
