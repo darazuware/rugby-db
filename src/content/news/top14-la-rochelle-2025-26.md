@@ -54,7 +54,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "ラ・ロシェル"]
 | Matthias HADDAD | マティアス・アダッド | バックロー |
 | Oscar JÉGOU | オスカール・ジェグー | バックロー |
 | Paul BOUDEHENT | ポール・ブドアン | バックロー |
-| Nolann LE GARREC | ノラン・ル・ガレック | スクラムハーフ |
 | Thomas BERJON | トマ・ベルジョン | スクラムハーフ |
 | Diego JURD | ディエゴ・ジュール | フライハーフ |
 | Ihaia WEST | イアイア・ウェスト | フライハーフ |
@@ -68,7 +67,6 @@ tags: ["Top14", "チーム紹介", "2025-26", "ラ・ロシェル"]
 | Jack NOWELL | ジャック・ノウェル | ウィング |
 | Nathan BOLLENGIER | ナタン・ボランジェ | ウィング |
 | Suliasi VUNIVALU | スリアシ・ヴニヴァル | ウィング |
-| Davit NINIASHVILI | ダヴィト・ニニアシュヴィリ | フルバック |
 | Ugo PACOME | ユゴ・パコム | フルバック |
 
 ---
