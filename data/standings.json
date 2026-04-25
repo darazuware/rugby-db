@@ -584,29 +584,29 @@
     "standings": [
       {
         "rank": "1",
-        "team_name": "Glasgow Warriors",
-        "display_name": "グラスゴー・ウォリアーズ",
-        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-        "slug": "glasgow-warriors",
-        "played": "15",
-        "won": "11",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "150",
-        "points": "55"
-      },
-      {
-        "rank": "2",
         "team_name": "DHL Stormers",
         "display_name": "DHLストーマーズ",
         "flag": "🇿🇦",
         "slug": "dhl-stormers",
-        "played": "15",
-        "won": "11",
+        "played": "16",
+        "won": "12",
         "drawn": "0",
         "lost": "4",
-        "diff": "130",
-        "points": "51"
+        "diff": "166",
+        "points": "56"
+      },
+      {
+        "rank": "2",
+        "team_name": "Glasgow Warriors",
+        "display_name": "グラスゴー・ウォリアーズ",
+        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "slug": "glasgow-warriors",
+        "played": "16",
+        "won": "11",
+        "drawn": "0",
+        "lost": "5",
+        "diff": "114",
+        "points": "55"
       },
       {
         "rank": "3",
