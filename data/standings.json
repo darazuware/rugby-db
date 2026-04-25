@@ -414,15 +414,28 @@
         "display_name": "ポー",
         "flag": "🇫🇷",
         "slug": "pau",
-        "played": "21",
+        "played": "22",
         "won": "14",
         "drawn": "0",
-        "lost": "7",
-        "diff": "+109",
-        "points": "64"
+        "lost": "8",
+        "diff": "+107",
+        "points": "65"
       },
       {
         "rank": "3",
+        "team_name": "Stade Français Paris",
+        "display_name": "スタッド・フランセ",
+        "flag": "🇫🇷",
+        "slug": "paris",
+        "played": "22",
+        "won": "12",
+        "drawn": "1",
+        "lost": "9",
+        "diff": "+103",
+        "points": "63"
+      },
+      {
+        "rank": "4",
         "team_name": "Montpellier Hérault Rugby",
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
@@ -433,19 +446,6 @@
         "lost": "8",
         "diff": "+169",
         "points": "61"
-      },
-      {
-        "rank": "4",
-        "team_name": "Stade Français Paris",
-        "display_name": "スタッド・フランセ",
-        "flag": "🇫🇷",
-        "slug": "paris",
-        "played": "21",
-        "won": "11",
-        "drawn": "1",
-        "lost": "9",
-        "diff": "+101",
-        "points": "59"
       },
       {
         "rank": "5",
@@ -1025,12 +1025,12 @@
         "display_name": "レスター・タイガーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "leicester-tigers",
-        "played": "13",
+        "played": "14",
         "won": "10",
         "drawn": "0",
-        "lost": "3",
-        "diff": "155",
-        "points": "51"
+        "lost": "4",
+        "diff": "151",
+        "points": "52"
       },
       {
         "rank": "4",
@@ -1064,12 +1064,12 @@
         "display_name": "サラセンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "saracens",
-        "played": "13",
-        "won": "6",
+        "played": "14",
+        "won": "7",
         "drawn": "0",
         "lost": "7",
-        "diff": "150",
-        "points": "38"
+        "diff": "154",
+        "points": "42"
       },
       {
         "rank": "7",
@@ -1077,15 +1077,28 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "13",
-        "won": "3",
+        "played": "14",
+        "won": "4",
         "drawn": "0",
         "lost": "10",
-        "diff": "-95",
-        "points": "22"
+        "diff": "-76",
+        "points": "27"
       },
       {
         "rank": "8",
+        "team_name": "Harlequins",
+        "display_name": "ハーレクインズ",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "harlequins",
+        "played": "14",
+        "won": "3",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "-210",
+        "points": "16"
+      },
+      {
+        "rank": "9",
         "team_name": "Gloucester Rugby",
         "display_name": "グロスター・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1096,19 +1109,6 @@
         "lost": "11",
         "diff": "-174",
         "points": "16"
-      },
-      {
-        "rank": "9",
-        "team_name": "Harlequins",
-        "display_name": "ハーレクインズ",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "harlequins",
-        "played": "13",
-        "won": "3",
-        "drawn": "0",
-        "lost": "10",
-        "diff": "-191",
-        "points": "15"
       },
       {
         "rank": "10",
