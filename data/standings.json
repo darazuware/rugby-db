@@ -401,12 +401,12 @@
         "display_name": "トゥールーズ",
         "flag": "🇫🇷",
         "slug": "toulouse",
-        "played": "21",
+        "played": "22",
         "won": "16",
         "drawn": "0",
-        "lost": "5",
-        "diff": "+374",
-        "points": "76"
+        "lost": "6",
+        "diff": "+371",
+        "points": "77"
       },
       {
         "rank": "2",
@@ -449,6 +449,19 @@
       },
       {
         "rank": "5",
+        "team_name": "ASM Clermont",
+        "display_name": "クレルモン",
+        "flag": "🇫🇷",
+        "slug": "clermont",
+        "played": "22",
+        "won": "13",
+        "drawn": "0",
+        "lost": "9",
+        "diff": "+103",
+        "points": "61"
+      },
+      {
+        "rank": "6",
         "team_name": "Union Bordeaux-Bègles",
         "display_name": "ボルドー・ベグル",
         "flag": "🇫🇷",
@@ -461,7 +474,7 @@
         "points": "60"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "Racing 92",
         "display_name": "ラシン92",
         "flag": "🇫🇷",
@@ -472,19 +485,6 @@
         "lost": "8",
         "diff": "+53",
         "points": "60"
-      },
-      {
-        "rank": "7",
-        "team_name": "ASM Clermont",
-        "display_name": "クレルモン",
-        "flag": "🇫🇷",
-        "slug": "clermont",
-        "played": "21",
-        "won": "12",
-        "drawn": "0",
-        "lost": "9",
-        "diff": "+100",
-        "points": "57"
       },
       {
         "rank": "8",
@@ -1034,6 +1034,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Exeter Chiefs",
+        "display_name": "エクセター・チーフス",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "chiefs",
+        "played": "14",
+        "won": "8",
+        "drawn": "1",
+        "lost": "5",
+        "diff": "119",
+        "points": "49"
+      },
+      {
+        "rank": "5",
         "team_name": "Bristol Bears",
         "display_name": "ブリストル・ベアーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1044,19 +1057,6 @@
         "lost": "4",
         "diff": "111",
         "points": "48"
-      },
-      {
-        "rank": "5",
-        "team_name": "Exeter Chiefs",
-        "display_name": "エクセター・チーフス",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "chiefs",
-        "played": "13",
-        "won": "8",
-        "drawn": "1",
-        "lost": "4",
-        "diff": "122",
-        "points": "47"
       },
       {
         "rank": "6",
@@ -1086,6 +1086,19 @@
       },
       {
         "rank": "8",
+        "team_name": "Gloucester Rugby",
+        "display_name": "グロスター・ラグビー",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "gloucester-rugby",
+        "played": "14",
+        "won": "3",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "-171",
+        "points": "21"
+      },
+      {
+        "rank": "9",
         "team_name": "Harlequins",
         "display_name": "ハーレクインズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1095,19 +1108,6 @@
         "drawn": "0",
         "lost": "11",
         "diff": "-210",
-        "points": "16"
-      },
-      {
-        "rank": "9",
-        "team_name": "Gloucester Rugby",
-        "display_name": "グロスター・ラグビー",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "gloucester-rugby",
-        "played": "13",
-        "won": "2",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "-174",
         "points": "16"
       },
       {
