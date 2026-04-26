@@ -49,12 +49,12 @@
         "display_name": "ブラックラムズ東京",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "15",
+        "played": "16",
         "points": "41",
         "won": "9",
         "drawn": "0",
-        "lost": "6",
-        "diff": "24",
+        "lost": "7",
+        "diff": "12",
         "division": "D1"
       },
       {
@@ -87,6 +87,20 @@
       },
       {
         "rank": "7",
+        "team_name": "トヨタヴェルブリッツ",
+        "display_name": "トヨタヴェルブリッツ",
+        "flag": "🇯🇵",
+        "slug": "toyota-verblitz",
+        "played": "16",
+        "points": "33",
+        "won": "7",
+        "drawn": "0",
+        "lost": "9",
+        "diff": "-16",
+        "division": "D1"
+      },
+      {
+        "rank": "8",
         "team_name": "静岡ブルーレヴズ",
         "display_name": "静岡ブルーレヴズ",
         "flag": "🇯🇵",
@@ -97,20 +111,6 @@
         "drawn": "0",
         "lost": "10",
         "diff": "-59",
-        "division": "D1"
-      },
-      {
-        "rank": "8",
-        "team_name": "トヨタヴェルブリッツ",
-        "display_name": "トヨタヴェルブリッツ",
-        "flag": "🇯🇵",
-        "slug": "toyota-verblitz",
-        "played": "15",
-        "points": "29",
-        "won": "6",
-        "drawn": "0",
-        "lost": "9",
-        "diff": "-28",
         "division": "D1"
       },
       {
