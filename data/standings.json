@@ -287,12 +287,12 @@
         "display_name": "スカイアクティブズ広島",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "12",
-        "points": "57",
-        "won": "12",
+        "played": "13",
+        "points": "62",
+        "won": "13",
         "drawn": "0",
         "lost": "0",
-        "diff": "310",
+        "diff": "345",
         "division": "D3"
       },
       {
@@ -329,12 +329,12 @@
         "display_name": "ルリーロ福岡",
         "flag": "🇯🇵",
         "slug": "leriro-fukuoka",
-        "played": "12",
+        "played": "13",
         "points": "19",
         "won": "4",
         "drawn": "1",
-        "lost": "7",
-        "diff": "-105",
+        "lost": "8",
+        "diff": "-140",
         "division": "D3"
       },
       {
@@ -806,6 +806,19 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "Chiefs",
+        "display_name": "ワイカト・チーフス",
+        "flag": "🇳🇿",
+        "slug": "chiefs",
+        "played": "10",
+        "won": "8",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "129",
+        "points": "36"
+      },
+      {
+        "rank": "2",
         "team_name": "Hurricanes",
         "display_name": "ウェリントン・ハリケーンズ",
         "flag": "🇳🇿",
@@ -818,7 +831,7 @@
         "points": "36"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
@@ -829,19 +842,6 @@
         "lost": "3",
         "diff": "82",
         "points": "33"
-      },
-      {
-        "rank": "3",
-        "team_name": "Chiefs",
-        "display_name": "ワイカト・チーフス",
-        "flag": "🇳🇿",
-        "slug": "chiefs",
-        "played": "9",
-        "won": "7",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "109",
-        "points": "31"
       },
       {
         "rank": "4",
@@ -914,11 +914,11 @@
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
         "slug": "fijian-drua",
-        "played": "9",
+        "played": "10",
         "won": "4",
         "drawn": "0",
-        "lost": "5",
-        "diff": "-93",
+        "lost": "6",
+        "diff": "-113",
         "points": "16"
       },
       {
