@@ -2261,7 +2261,7 @@
       "round": 13,
       "home": "ヤクルトレビンズ戸田",
       "away": "クリタウォーターガッシュ昭島",
-      "score": "VS",
+      "score": "17-38",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29456"
@@ -2272,7 +2272,7 @@
       "round": 13,
       "home": "ルリーロ福岡",
       "away": "スカイアクティブズ広島",
-      "score": "VS",
+      "score": "5-42",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29457"
@@ -2860,7 +2860,7 @@
       "date": "2026-04-26",
       "home": "オタゴ・ハイランダーズ",
       "away": "モアナ・パシフィカ",
-      "score": "VS",
+      "score": "27-17",
       "home_flag": "🇳🇿",
       "away_flag": "🏝️",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949259"
@@ -4596,6 +4596,56 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11456-paris-pau"
+    },
+    {
+      "round": 22,
+      "date": "2026-04-25",
+      "home": "リヨン",
+      "away": "カストル",
+      "score": "26 - 21",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11454-lyon-castres"
+    },
+    {
+      "round": 22,
+      "date": "2026-04-25",
+      "home": "トゥーロン",
+      "away": "バイヨンヌ",
+      "score": "52 - 26",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11455-toulon-bayonne"
+    },
+    {
+      "round": 22,
+      "date": "2026-04-25",
+      "home": "モントーバン",
+      "away": "ラシン92",
+      "score": "10 - 59",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11459-montauban-racing-92"
+    },
+    {
+      "round": 22,
+      "date": "2026-04-25",
+      "home": "ペルピニャン",
+      "away": "ラ・ロシェル",
+      "score": "29 - 31",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11460-perpignan-la-rochelle"
+    },
+    {
+      "round": 22,
+      "date": "2026-04-25",
+      "home": "ボルドー・ベグル",
+      "away": "モンペリエ",
+      "score": "21 - 23",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11458-bordeaux-begles-montpellier"
     }
   ],
   "urc": [
