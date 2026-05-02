@@ -845,6 +845,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Queensland Reds",
+        "display_name": "クイーンズランド・レッズ",
+        "flag": "🇦🇺",
+        "slug": "queensland-reds",
+        "played": "10",
+        "won": "6",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "-30",
+        "points": "27"
+      },
+      {
+        "rank": "5",
         "team_name": "Crusaders",
         "display_name": "カンタベリー・クルセイダーズ",
         "flag": "🇳🇿",
@@ -857,30 +870,17 @@
         "points": "27"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "ACT Brumbies",
         "display_name": "ACTブランビーズ",
         "flag": "🇦🇺",
         "slug": "act-brumbies",
-        "played": "10",
+        "played": "11",
         "won": "5",
         "drawn": "0",
-        "lost": "5",
-        "diff": "16",
+        "lost": "6",
+        "diff": "7",
         "points": "25"
-      },
-      {
-        "rank": "6",
-        "team_name": "Queensland Reds",
-        "display_name": "クイーンズランド・レッズ",
-        "flag": "🇦🇺",
-        "slug": "queensland-reds",
-        "played": "9",
-        "won": "5",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "-39",
-        "points": "23"
       },
       {
         "rank": "7",
