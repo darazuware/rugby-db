@@ -819,6 +819,19 @@
       },
       {
         "rank": "2",
+        "team_name": "Blues",
+        "display_name": "オークランド・ブルーズ",
+        "flag": "🇳🇿",
+        "slug": "blues",
+        "played": "11",
+        "won": "8",
+        "drawn": "0",
+        "lost": "3",
+        "diff": "108",
+        "points": "38"
+      },
+      {
+        "rank": "3",
         "team_name": "Chiefs",
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
@@ -829,19 +842,6 @@
         "lost": "2",
         "diff": "129",
         "points": "36"
-      },
-      {
-        "rank": "3",
-        "team_name": "Blues",
-        "display_name": "オークランド・ブルーズ",
-        "flag": "🇳🇿",
-        "slug": "blues",
-        "played": "10",
-        "won": "7",
-        "drawn": "0",
-        "lost": "3",
-        "diff": "82",
-        "points": "33"
       },
       {
         "rank": "4",
@@ -940,11 +940,11 @@
         "display_name": "モアナ・パシフィカ",
         "flag": "🏝️",
         "slug": "moana-pasifika",
-        "played": "10",
+        "played": "11",
         "won": "1",
         "drawn": "0",
-        "lost": "9",
-        "diff": "-232",
+        "lost": "10",
+        "diff": "-258",
         "points": "4"
       }
     ],
