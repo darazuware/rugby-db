@@ -115,6 +115,20 @@
       },
       {
         "rank": "9",
+        "team_name": "横浜キヤノンイーグルス",
+        "display_name": "横浜キヤノンイーグルス",
+        "flag": "🇯🇵",
+        "slug": "yokohama-canon-eagles",
+        "played": "17",
+        "points": "30",
+        "won": "6",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "-116",
+        "division": "D1"
+      },
+      {
+        "rank": "10",
         "team_name": "三重ホンダヒート",
         "display_name": "三重ホンダヒート",
         "flag": "🇯🇵",
@@ -128,31 +142,17 @@
         "division": "D1"
       },
       {
-        "rank": "10",
-        "team_name": "横浜キヤノンイーグルス",
-        "display_name": "横浜キヤノンイーグルス",
-        "flag": "🇯🇵",
-        "slug": "yokohama-canon-eagles",
-        "played": "16",
-        "points": "26",
-        "won": "5",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "-125",
-        "division": "D1"
-      },
-      {
         "rank": "11",
         "team_name": "三菱重工相模原ダイナボアーズ",
         "display_name": "三菱重工相模原ダイナボアーズ",
         "flag": "🇯🇵",
         "slug": "mitsubishi-sagamihara-dynaboars",
-        "played": "16",
+        "played": "17",
         "points": "19",
         "won": "4",
         "drawn": "0",
-        "lost": "12",
-        "diff": "-195",
+        "lost": "13",
+        "diff": "-204",
         "division": "D1"
       },
       {
