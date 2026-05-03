@@ -35,12 +35,12 @@
         "display_name": "クボタスピアーズ船橋・東京ベイ",
         "flag": "🇯🇵",
         "slug": "kubota-spears-funabashi-tokyo-bay",
-        "played": "16",
-        "points": "64",
-        "won": "13",
+        "played": "17",
+        "points": "69",
+        "won": "14",
         "drawn": "0",
         "lost": "3",
-        "diff": "313",
+        "diff": "357",
         "division": "D1"
       },
       {
@@ -63,12 +63,12 @@
         "display_name": "ブラックラムズ東京",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "16",
+        "played": "17",
         "points": "41",
         "won": "9",
         "drawn": "0",
-        "lost": "7",
-        "diff": "12",
+        "lost": "8",
+        "diff": "-32",
         "division": "D1"
       },
       {
