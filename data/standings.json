@@ -858,6 +858,19 @@
       },
       {
         "rank": "5",
+        "team_name": "ACT Brumbies",
+        "display_name": "ACTブランビーズ",
+        "flag": "🇦🇺",
+        "slug": "act-brumbies",
+        "played": "12",
+        "won": "6",
+        "drawn": "0",
+        "lost": "6",
+        "diff": "24",
+        "points": "29"
+      },
+      {
+        "rank": "6",
         "team_name": "Queensland Reds",
         "display_name": "クイーンズランド・レッズ",
         "flag": "🇦🇺",
@@ -868,19 +881,6 @@
         "lost": "5",
         "diff": "-40",
         "points": "27"
-      },
-      {
-        "rank": "6",
-        "team_name": "ACT Brumbies",
-        "display_name": "ACTブランビーズ",
-        "flag": "🇦🇺",
-        "slug": "act-brumbies",
-        "played": "11",
-        "won": "5",
-        "drawn": "0",
-        "lost": "6",
-        "diff": "7",
-        "points": "25"
       },
       {
         "rank": "7",
@@ -927,11 +927,11 @@
         "display_name": "ウェスタン・フォース",
         "flag": "🇦🇺",
         "slug": "western-force",
-        "played": "10",
+        "played": "11",
         "won": "4",
         "drawn": "0",
-        "lost": "6",
-        "diff": "-23",
+        "lost": "7",
+        "diff": "-40",
         "points": "18"
       },
       {
