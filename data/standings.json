@@ -3,6 +3,20 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "埼玉ワイルドナイツ",
+        "display_name": "埼玉パナソニックワイルドナイツ",
+        "flag": "🇯🇵",
+        "slug": "saitama-panasonic-wild-knights",
+        "played": "18",
+        "points": "74",
+        "won": "16",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "328",
+        "division": "D1"
+      },
+      {
+        "rank": "2",
         "team_name": "コベルコ神戸スティーラーズ",
         "display_name": "コベルコ神戸スティーラーズ",
         "flag": "🇯🇵",
@@ -13,20 +27,6 @@
         "drawn": "0",
         "lost": "2",
         "diff": "289",
-        "division": "D1"
-      },
-      {
-        "rank": "2",
-        "team_name": "埼玉ワイルドナイツ",
-        "display_name": "埼玉パナソニックワイルドナイツ",
-        "flag": "🇯🇵",
-        "slug": "saitama-panasonic-wild-knights",
-        "played": "17",
-        "points": "69",
-        "won": "15",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "283",
         "division": "D1"
       },
       {
@@ -77,16 +77,30 @@
         "display_name": "東芝ブレイブルーパス東京",
         "flag": "🇯🇵",
         "slug": "toshiba-brave-lupus-tokyo",
-        "played": "17",
+        "played": "18",
         "points": "39",
         "won": "8",
         "drawn": "0",
-        "lost": "9",
-        "diff": "-105",
+        "lost": "10",
+        "diff": "-150",
         "division": "D1"
       },
       {
         "rank": "7",
+        "team_name": "静岡ブルーレヴズ",
+        "display_name": "静岡ブルーレヴズ",
+        "flag": "🇯🇵",
+        "slug": "shizuoka-blue-revs",
+        "played": "18",
+        "points": "36",
+        "won": "7",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "-38",
+        "division": "D1"
+      },
+      {
+        "rank": "8",
         "team_name": "トヨタヴェルブリッツ",
         "display_name": "トヨタヴェルブリッツ",
         "flag": "🇯🇵",
@@ -100,31 +114,17 @@
         "division": "D1"
       },
       {
-        "rank": "8",
-        "team_name": "静岡ブルーレヴズ",
-        "display_name": "静岡ブルーレヴズ",
-        "flag": "🇯🇵",
-        "slug": "shizuoka-blue-revs",
-        "played": "17",
-        "points": "31",
-        "won": "6",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "-65",
-        "division": "D1"
-      },
-      {
         "rank": "9",
         "team_name": "横浜キヤノンイーグルス",
         "display_name": "横浜キヤノンイーグルス",
         "flag": "🇯🇵",
         "slug": "yokohama-canon-eagles",
-        "played": "17",
+        "played": "18",
         "points": "30",
         "won": "6",
         "drawn": "0",
-        "lost": "11",
-        "diff": "-116",
+        "lost": "12",
+        "diff": "-143",
         "division": "D1"
       },
       {
