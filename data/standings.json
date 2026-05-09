@@ -185,6 +185,20 @@
       },
       {
         "rank": "2",
+        "team_name": "清水建設江東ブルーシャークス",
+        "display_name": "清水建設江東ブルーシャークス",
+        "flag": "🇯🇵",
+        "slug": "shimizu-koto-blue-sharks",
+        "played": "14",
+        "points": "45",
+        "won": "10",
+        "drawn": "0",
+        "lost": "4",
+        "diff": "40",
+        "division": "D2"
+      },
+      {
+        "rank": "3",
         "team_name": "花園近鉄ライナーズ",
         "display_name": "花園近鉄ライナーズ",
         "flag": "🇯🇵",
@@ -195,20 +209,6 @@
         "drawn": "0",
         "lost": "3",
         "diff": "136",
-        "division": "D2"
-      },
-      {
-        "rank": "3",
-        "team_name": "清水建設江東ブルーシャークス",
-        "display_name": "清水建設江東ブルーシャークス",
-        "flag": "🇯🇵",
-        "slug": "shimizu-koto-blue-sharks",
-        "played": "13",
-        "points": "40",
-        "won": "9",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "19",
         "division": "D2"
       },
       {
@@ -227,6 +227,20 @@
       },
       {
         "rank": "5",
+        "team_name": "九州電力キューデンヴォルテクス",
+        "display_name": "九州電力キューデンヴォルテクス",
+        "flag": "🇯🇵",
+        "slug": "kyuden-voltex",
+        "played": "14",
+        "points": "31",
+        "won": "7",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-32",
+        "division": "D2"
+      },
+      {
+        "rank": "6",
         "team_name": "レッドハリケーンズ大阪",
         "display_name": "レッドハリケーンズ大阪",
         "flag": "🇯🇵",
@@ -240,31 +254,17 @@
         "division": "D2"
       },
       {
-        "rank": "6",
-        "team_name": "九州電力キューデンヴォルテクス",
-        "display_name": "九州電力キューデンヴォルテクス",
-        "flag": "🇯🇵",
-        "slug": "kyuden-voltex",
-        "played": "13",
-        "points": "27",
-        "won": "6",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "-38",
-        "division": "D2"
-      },
-      {
         "rank": "7",
         "team_name": "日本製鉄釜石シーウェイブス",
         "display_name": "日本製鉄釜石シーウェイブス",
         "flag": "🇯🇵",
         "slug": "kamaishi-seawaves",
-        "played": "13",
+        "played": "14",
         "points": "16",
         "won": "3",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-120",
+        "lost": "11",
+        "diff": "-141",
         "division": "D2"
       },
       {
@@ -273,12 +273,12 @@
         "display_name": "日野レッドドルフィンズ",
         "flag": "🇯🇵",
         "slug": "hino-red-dolphins",
-        "played": "13",
-        "points": "6",
+        "played": "14",
+        "points": "7",
         "won": "1",
         "drawn": "0",
-        "lost": "12",
-        "diff": "-279",
+        "lost": "13",
+        "diff": "-285",
         "division": "D2"
       },
       {
@@ -287,12 +287,12 @@
         "display_name": "スカイアクティブズ広島",
         "flag": "🇯🇵",
         "slug": "",
-        "played": "14",
+        "played": "15",
         "points": "67",
         "won": "14",
         "drawn": "0",
-        "lost": "0",
-        "diff": "376",
+        "lost": "1",
+        "diff": "308",
         "division": "D3"
       },
       {
@@ -301,12 +301,12 @@
         "display_name": "狭山セコムラガッツ",
         "flag": "🇯🇵",
         "slug": "secom-rugguts",
-        "played": "14",
-        "points": "58",
-        "won": "11",
+        "played": "15",
+        "points": "63",
+        "won": "12",
         "drawn": "1",
         "lost": "2",
-        "diff": "398",
+        "diff": "466",
         "division": "D3"
       },
       {
@@ -584,29 +584,29 @@
     "standings": [
       {
         "rank": "1",
-        "team_name": "DHL Stormers",
-        "display_name": "DHLストーマーズ",
-        "flag": "🇿🇦",
-        "slug": "dhl-stormers",
-        "played": "16",
-        "won": "12",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "166",
-        "points": "56"
-      },
-      {
-        "rank": "2",
         "team_name": "Glasgow Warriors",
         "display_name": "グラスゴー・ウォリアーズ",
         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "slug": "glasgow-warriors",
-        "played": "16",
-        "won": "11",
+        "played": "17",
+        "won": "12",
         "drawn": "0",
         "lost": "5",
-        "diff": "114",
-        "points": "55"
+        "diff": "137",
+        "points": "60"
+      },
+      {
+        "rank": "2",
+        "team_name": "DHL Stormers",
+        "display_name": "DHLストーマーズ",
+        "flag": "🇿🇦",
+        "slug": "dhl-stormers",
+        "played": "17",
+        "won": "12",
+        "drawn": "1",
+        "lost": "4",
+        "diff": "166",
+        "points": "59"
       },
       {
         "rank": "3",
@@ -653,15 +653,28 @@
         "display_name": "カーディフ・ラグビー",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
         "slug": "cardiff-rugby",
-        "played": "16",
+        "played": "17",
         "won": "10",
         "drawn": "0",
-        "lost": "6",
-        "diff": "-2",
+        "lost": "7",
+        "diff": "-25",
         "points": "50"
       },
       {
         "rank": "7",
+        "team_name": "Ulster Rugby",
+        "display_name": "アルスター・ラグビー",
+        "flag": "🇮🇪",
+        "slug": "ulster-rugby",
+        "played": "17",
+        "won": "9",
+        "drawn": "1",
+        "lost": "7",
+        "diff": "78",
+        "points": "50"
+      },
+      {
+        "rank": "8",
         "team_name": "Vodacom Bulls",
         "display_name": "ヴォーダコム・ブルズ",
         "flag": "🇿🇦",
@@ -672,19 +685,6 @@
         "lost": "6",
         "diff": "99",
         "points": "49"
-      },
-      {
-        "rank": "8",
-        "team_name": "Ulster Rugby",
-        "display_name": "アルスター・ラグビー",
-        "flag": "🇮🇪",
-        "slug": "ulster-rugby",
-        "played": "16",
-        "won": "9",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "78",
-        "points": "47"
       },
       {
         "rank": "9",
@@ -806,6 +806,19 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "Chiefs",
+        "display_name": "ワイカト・チーフス",
+        "flag": "🇳🇿",
+        "slug": "chiefs",
+        "played": "11",
+        "won": "9",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "139",
+        "points": "40"
+      },
+      {
+        "rank": "2",
         "team_name": "Hurricanes",
         "display_name": "ウェリントン・ハリケーンズ",
         "flag": "🇳🇿",
@@ -818,55 +831,42 @@
         "points": "40"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
         "slug": "blues",
-        "played": "11",
+        "played": "12",
         "won": "8",
         "drawn": "0",
-        "lost": "3",
-        "diff": "108",
+        "lost": "4",
+        "diff": "92",
         "points": "38"
       },
       {
-        "rank": "3",
-        "team_name": "Chiefs",
-        "display_name": "ワイカト・チーフス",
-        "flag": "🇳🇿",
-        "slug": "chiefs",
-        "played": "10",
-        "won": "8",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "129",
-        "points": "36"
-      },
-      {
         "rank": "4",
-        "team_name": "Queensland Reds",
-        "display_name": "クイーンズランド・レッズ",
-        "flag": "🇦🇺",
-        "slug": "queensland-reds",
-        "played": "10",
-        "won": "6",
-        "drawn": "0",
-        "lost": "4",
-        "diff": "-30",
-        "points": "27"
-      },
-      {
-        "rank": "5",
         "team_name": "Crusaders",
         "display_name": "カンタベリー・クルセイダーズ",
         "flag": "🇳🇿",
         "slug": "crusaders",
-        "played": "11",
-        "won": "5",
+        "played": "12",
+        "won": "6",
         "drawn": "0",
         "lost": "6",
-        "diff": "47",
+        "diff": "63",
+        "points": "32"
+      },
+      {
+        "rank": "5",
+        "team_name": "Queensland Reds",
+        "display_name": "クイーンズランド・レッズ",
+        "flag": "🇦🇺",
+        "slug": "queensland-reds",
+        "played": "11",
+        "won": "6",
+        "drawn": "0",
+        "lost": "5",
+        "diff": "-40",
         "points": "27"
       },
       {
@@ -884,6 +884,32 @@
       },
       {
         "rank": "7",
+        "team_name": "Highlanders",
+        "display_name": "オタゴ・ハイランダーズ",
+        "flag": "🇳🇿",
+        "slug": "highlanders",
+        "played": "12",
+        "won": "5",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-50",
+        "points": "24"
+      },
+      {
+        "rank": "8",
+        "team_name": "NSW Waratahs",
+        "display_name": "NSWワラタス（ワラターズ）",
+        "flag": "🇦🇺",
+        "slug": "nsw-waratahs",
+        "played": "11",
+        "won": "4",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-51",
+        "points": "21"
+      },
+      {
+        "rank": "9",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
@@ -893,32 +919,6 @@
         "drawn": "0",
         "lost": "6",
         "diff": "-103",
-        "points": "20"
-      },
-      {
-        "rank": "8",
-        "team_name": "NSW Waratahs",
-        "display_name": "NSWワラタス（ワラターズ）",
-        "flag": "🇦🇺",
-        "slug": "nsw-waratahs",
-        "played": "10",
-        "won": "4",
-        "drawn": "0",
-        "lost": "6",
-        "diff": "-46",
-        "points": "20"
-      },
-      {
-        "rank": "9",
-        "team_name": "Highlanders",
-        "display_name": "オタゴ・ハイランダーズ",
-        "flag": "🇳🇿",
-        "slug": "highlanders",
-        "played": "11",
-        "won": "4",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "-55",
         "points": "20"
       },
       {
@@ -1077,12 +1077,12 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "14",
+        "played": "15",
         "won": "4",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-76",
-        "points": "27"
+        "lost": "11",
+        "diff": "-82",
+        "points": "28"
       },
       {
         "rank": "8",
@@ -1090,12 +1090,12 @@
         "display_name": "グロスター・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "gloucester-rugby",
-        "played": "14",
-        "won": "3",
+        "played": "15",
+        "won": "4",
         "drawn": "0",
         "lost": "11",
-        "diff": "-171",
-        "points": "21"
+        "diff": "-165",
+        "points": "25"
       },
       {
         "rank": "9",
