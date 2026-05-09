@@ -2950,7 +2950,7 @@
       "date": "2026-05-09",
       "home": "オタゴ・ハイランダーズ",
       "away": "NSWワラタス（ワラターズ）",
-      "score": "31-26",
+      "score": "0-0",
       "home_flag": "🇳🇿",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949268"
@@ -4656,6 +4656,16 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j22/11457-toulouse-clermont"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "ポー",
+      "away": "カストル",
+      "score": "27 - 15",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11466-pau-castres"
     }
   ],
   "urc": [
