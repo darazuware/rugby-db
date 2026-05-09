@@ -101,20 +101,34 @@
       },
       {
         "rank": "8",
-        "team_name": "トヨタヴェルブリッツ",
-        "display_name": "トヨタヴェルブリッツ",
+        "team_name": "三重ホンダヒート",
+        "display_name": "三重ホンダヒート",
         "flag": "🇯🇵",
-        "slug": "toyota-verblitz",
-        "played": "17",
-        "points": "33",
+        "slug": "mie-honda-heat",
+        "played": "18",
+        "points": "34",
         "won": "7",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-32",
+        "lost": "11",
+        "diff": "-136",
         "division": "D1"
       },
       {
         "rank": "9",
+        "team_name": "トヨタヴェルブリッツ",
+        "display_name": "トヨタヴェルブリッツ",
+        "flag": "🇯🇵",
+        "slug": "toyota-verblitz",
+        "played": "18",
+        "points": "33",
+        "won": "7",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "-44",
+        "division": "D1"
+      },
+      {
+        "rank": "10",
         "team_name": "横浜キヤノンイーグルス",
         "display_name": "横浜キヤノンイーグルス",
         "flag": "🇯🇵",
@@ -125,20 +139,6 @@
         "drawn": "0",
         "lost": "12",
         "diff": "-143",
-        "division": "D1"
-      },
-      {
-        "rank": "10",
-        "team_name": "三重ホンダヒート",
-        "display_name": "三重ホンダヒート",
-        "flag": "🇯🇵",
-        "slug": "mie-honda-heat",
-        "played": "17",
-        "points": "30",
-        "won": "6",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "-148",
         "division": "D1"
       },
       {
@@ -806,6 +806,19 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "Hurricanes",
+        "display_name": "ウェリントン・ハリケーンズ",
+        "flag": "🇳🇿",
+        "slug": "hurricanes",
+        "played": "11",
+        "won": "9",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "257",
+        "points": "45"
+      },
+      {
+        "rank": "2",
         "team_name": "Chiefs",
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
@@ -815,19 +828,6 @@
         "drawn": "0",
         "lost": "2",
         "diff": "139",
-        "points": "40"
-      },
-      {
-        "rank": "2",
-        "team_name": "Hurricanes",
-        "display_name": "ウェリントン・ハリケーンズ",
-        "flag": "🇳🇿",
-        "slug": "hurricanes",
-        "played": "10",
-        "won": "8",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "224",
         "points": "40"
       },
       {
@@ -940,11 +940,11 @@
         "display_name": "モアナ・パシフィカ",
         "flag": "🏝️",
         "slug": "moana-pasifika",
-        "played": "11",
+        "played": "12",
         "won": "1",
         "drawn": "0",
-        "lost": "10",
-        "diff": "-258",
+        "lost": "11",
+        "diff": "-291",
         "points": "4"
       }
     ],
