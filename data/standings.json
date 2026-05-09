@@ -705,12 +705,12 @@
         "display_name": "ハリウッドベッツ・シャークス",
         "flag": "🇿🇦",
         "slug": "hollywoodbets-sharks",
-        "played": "16",
-        "won": "6",
+        "played": "17",
+        "won": "7",
         "drawn": "1",
         "lost": "9",
-        "diff": "-35",
-        "points": "36"
+        "diff": "4",
+        "points": "41"
       },
       {
         "rank": "11",
@@ -744,11 +744,11 @@
         "display_name": "Benetton Rugby",
         "flag": "🇫🇷",
         "slug": "benetton-rugby",
-        "played": "16",
+        "played": "17",
         "won": "6",
         "drawn": "2",
-        "lost": "8",
-        "diff": "-101",
+        "lost": "9",
+        "diff": "-140",
         "points": "33"
       },
       {
@@ -884,6 +884,32 @@
       },
       {
         "rank": "7",
+        "team_name": "Highlanders",
+        "display_name": "オタゴ・ハイランダーズ",
+        "flag": "🇳🇿",
+        "slug": "highlanders",
+        "played": "12",
+        "won": "5",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-50",
+        "points": "24"
+      },
+      {
+        "rank": "8",
+        "team_name": "NSW Waratahs",
+        "display_name": "NSWワラタス（ワラターズ）",
+        "flag": "🇦🇺",
+        "slug": "nsw-waratahs",
+        "played": "11",
+        "won": "4",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-51",
+        "points": "21"
+      },
+      {
+        "rank": "9",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
@@ -893,32 +919,6 @@
         "drawn": "0",
         "lost": "6",
         "diff": "-103",
-        "points": "20"
-      },
-      {
-        "rank": "8",
-        "team_name": "NSW Waratahs",
-        "display_name": "NSWワラタス（ワラターズ）",
-        "flag": "🇦🇺",
-        "slug": "nsw-waratahs",
-        "played": "10",
-        "won": "4",
-        "drawn": "0",
-        "lost": "6",
-        "diff": "-46",
-        "points": "20"
-      },
-      {
-        "rank": "9",
-        "team_name": "Highlanders",
-        "display_name": "オタゴ・ハイランダーズ",
-        "flag": "🇳🇿",
-        "slug": "highlanders",
-        "played": "11",
-        "won": "4",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "-55",
         "points": "20"
       },
       {
@@ -999,11 +999,11 @@
         "display_name": "ノーサンプトン・セインツ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "northampton-saints",
-        "played": "14",
+        "played": "15",
         "won": "12",
         "drawn": "1",
-        "lost": "1",
-        "diff": "123",
+        "lost": "2",
+        "diff": "99",
         "points": "62"
       },
       {
@@ -1025,12 +1025,12 @@
         "display_name": "レスター・タイガーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "leicester-tigers",
-        "played": "14",
-        "won": "10",
+        "played": "15",
+        "won": "11",
         "drawn": "0",
         "lost": "4",
-        "diff": "151",
-        "points": "52"
+        "diff": "175",
+        "points": "57"
       },
       {
         "rank": "4",
