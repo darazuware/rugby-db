@@ -1161,7 +1161,7 @@
       "round": 18,
       "home": "クボタスピアーズ船橋・東京ベイ",
       "away": "コベルコ神戸スティーラーズ",
-      "score": "VS",
+      "score": "14-3",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29360"
@@ -1172,7 +1172,7 @@
       "round": 18,
       "home": "東京サントリーサンゴリアス",
       "away": "ブラックラムズ東京",
-      "score": "VS",
+      "score": "19-3",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29361"
@@ -1183,7 +1183,7 @@
       "round": 18,
       "home": "三菱重工相模原ダイナボアーズ",
       "away": "浦安D-Rocks",
-      "score": "VS",
+      "score": "5-10",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29362"
@@ -1832,7 +1832,7 @@
       "round": 14,
       "home": "花園近鉄ライナーズ",
       "away": "豊田自動織機シャトルズ愛知",
-      "score": "VS",
+      "score": "27-34",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29415"
@@ -2327,7 +2327,7 @@
       "round": 15,
       "home": "中国電力レッドレグリオンズ",
       "away": "クリタウォーターガッシュ昭島",
-      "score": "VS",
+      "score": "40-45",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29462"
@@ -2338,7 +2338,7 @@
       "round": 15,
       "home": "ルリーロ福岡",
       "away": "ヤクルトレビンズ戸田",
-      "score": "VS",
+      "score": "29-25",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29463"
@@ -4666,6 +4666,56 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11466-pau-castres"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "クレルモン",
+      "away": "ペルピニャン",
+      "score": "45 - 14",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11461-clermont-perpignan"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "バイヨンヌ",
+      "away": "ボルドー・ベグル",
+      "score": "38 - 40",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11462-bayonne-bordeaux-begles"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "モンペリエ",
+      "away": "モントーバン",
+      "score": "59 - 7",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11463-montpellier-montauban"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "スタッド・フランセ",
+      "away": "リヨン",
+      "score": "59 - 17",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11467-paris-lyon"
+    },
+    {
+      "round": 23,
+      "date": "2026-05-09",
+      "home": "トゥーロン",
+      "away": "トゥールーズ",
+      "score": "27 - 51",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j23/11465-toulon-toulouse"
     }
   ],
   "urc": [
