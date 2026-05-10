@@ -1103,12 +1103,12 @@
         "display_name": "ハーレクインズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "harlequins",
-        "played": "14",
-        "won": "3",
+        "played": "15",
+        "won": "4",
         "drawn": "0",
         "lost": "11",
-        "diff": "-210",
-        "points": "16"
+        "diff": "-151",
+        "points": "21"
       },
       {
         "rank": "10",
@@ -1116,11 +1116,11 @@
         "display_name": "ニューカッスル・ファルコンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "newcastle-falcons",
-        "played": "14",
+        "played": "15",
         "won": "1",
         "drawn": "0",
-        "lost": "13",
-        "diff": "-389",
+        "lost": "14",
+        "diff": "-448",
         "points": "7"
       }
     ],
