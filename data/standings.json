@@ -479,15 +479,28 @@
         "display_name": "ラシン92",
         "flag": "🇫🇷",
         "slug": "racing-92",
-        "played": "22",
+        "played": "23",
         "won": "13",
         "drawn": "1",
-        "lost": "8",
-        "diff": "+53",
-        "points": "60"
+        "lost": "9",
+        "diff": "+51",
+        "points": "61"
       },
       {
         "rank": "8",
+        "team_name": "Stade Rochelais",
+        "display_name": "ラ・ロシェル",
+        "flag": "🇫🇷",
+        "slug": "la-rochelle",
+        "played": "23",
+        "won": "12",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "+101",
+        "points": "58"
+      },
+      {
+        "rank": "9",
         "team_name": "RC Toulon",
         "display_name": "RC Toulon",
         "flag": "🇫🇷",
@@ -498,19 +511,6 @@
         "lost": "11",
         "diff": "-79",
         "points": "55"
-      },
-      {
-        "rank": "9",
-        "team_name": "Stade Rochelais",
-        "display_name": "ラ・ロシェル",
-        "flag": "🇫🇷",
-        "slug": "la-rochelle",
-        "played": "22",
-        "won": "11",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "+99",
-        "points": "54"
       },
       {
         "rank": "10",
@@ -1012,11 +1012,11 @@
         "display_name": "バース・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bath-rugby",
-        "played": "14",
+        "played": "15",
         "won": "11",
         "drawn": "0",
-        "lost": "3",
-        "diff": "188",
+        "lost": "4",
+        "diff": "165",
         "points": "58"
       },
       {
@@ -1034,6 +1034,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Exeter Chiefs",
+        "display_name": "エクセター・チーフス",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "chiefs",
+        "played": "15",
+        "won": "9",
+        "drawn": "1",
+        "lost": "5",
+        "diff": "142",
+        "points": "54"
+      },
+      {
+        "rank": "5",
         "team_name": "Bristol Bears",
         "display_name": "ブリストル・ベアーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1043,19 +1056,6 @@
         "drawn": "0",
         "lost": "5",
         "diff": "96",
-        "points": "49"
-      },
-      {
-        "rank": "5",
-        "team_name": "Exeter Chiefs",
-        "display_name": "エクセター・チーフス",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "chiefs",
-        "played": "14",
-        "won": "8",
-        "drawn": "1",
-        "lost": "5",
-        "diff": "119",
         "points": "49"
       },
       {
