@@ -987,12 +987,12 @@
         "display_name": "クイーンズランド・レッズ",
         "flag": "🇦🇺",
         "slug": "queensland-reds",
-        "played": "11",
+        "played": "12",
         "won": "6",
         "drawn": "0",
-        "lost": "5",
-        "diff": "-40",
-        "points": "27"
+        "lost": "6",
+        "diff": "-45",
+        "points": "28"
       },
       {
         "rank": "7",
@@ -1022,6 +1022,19 @@
       },
       {
         "rank": "9",
+        "team_name": "Western Force",
+        "display_name": "ウェスタン・フォース",
+        "flag": "🇦🇺",
+        "slug": "western-force",
+        "played": "12",
+        "won": "5",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-35",
+        "points": "22"
+      },
+      {
+        "rank": "10",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
@@ -1032,19 +1045,6 @@
         "lost": "7",
         "diff": "-118",
         "points": "20"
-      },
-      {
-        "rank": "10",
-        "team_name": "Western Force",
-        "display_name": "ウェスタン・フォース",
-        "flag": "🇦🇺",
-        "slug": "western-force",
-        "played": "11",
-        "won": "4",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "-40",
-        "points": "18"
       },
       {
         "rank": "11",
