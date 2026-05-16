@@ -918,6 +918,19 @@
     "standings": [
       {
         "rank": "1",
+        "team_name": "Hurricanes",
+        "display_name": "ウェリントン・ハリケーンズ",
+        "flag": "🇳🇿",
+        "slug": "hurricanes",
+        "played": "12",
+        "won": "10",
+        "drawn": "0",
+        "lost": "2",
+        "diff": "280",
+        "points": "50"
+      },
+      {
+        "rank": "2",
         "team_name": "Chiefs",
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
@@ -930,29 +943,16 @@
         "points": "45"
       },
       {
-        "rank": "2",
-        "team_name": "Hurricanes",
-        "display_name": "ウェリントン・ハリケーンズ",
-        "flag": "🇳🇿",
-        "slug": "hurricanes",
-        "played": "11",
-        "won": "9",
-        "drawn": "0",
-        "lost": "2",
-        "diff": "257",
-        "points": "45"
-      },
-      {
         "rank": "3",
         "team_name": "Blues",
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
         "slug": "blues",
-        "played": "12",
+        "played": "13",
         "won": "8",
         "drawn": "0",
-        "lost": "4",
-        "diff": "92",
+        "lost": "5",
+        "diff": "69",
         "points": "38"
       },
       {
