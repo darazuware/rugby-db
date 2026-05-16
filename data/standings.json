@@ -522,6 +522,19 @@
       },
       {
         "rank": "2",
+        "team_name": "Section Paloise",
+        "display_name": "ポー",
+        "flag": "🇫🇷",
+        "slug": "pau",
+        "played": "24",
+        "won": "16",
+        "drawn": "0",
+        "lost": "8",
+        "diff": "+124",
+        "points": "73"
+      },
+      {
+        "rank": "3",
         "team_name": "Montpellier Hérault Rugby",
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
@@ -532,19 +545,6 @@
         "lost": "8",
         "diff": "+223",
         "points": "70"
-      },
-      {
-        "rank": "3",
-        "team_name": "Section Paloise",
-        "display_name": "ポー",
-        "flag": "🇫🇷",
-        "slug": "pau",
-        "played": "23",
-        "won": "15",
-        "drawn": "0",
-        "lost": "8",
-        "diff": "+119",
-        "points": "69"
       },
       {
         "rank": "4",
@@ -565,12 +565,12 @@
         "display_name": "クレルモン",
         "flag": "🇫🇷",
         "slug": "clermont",
-        "played": "23",
+        "played": "24",
         "won": "14",
         "drawn": "0",
-        "lost": "9",
-        "diff": "+134",
-        "points": "66"
+        "lost": "10",
+        "diff": "+129",
+        "points": "67"
       },
       {
         "rank": "6",
@@ -817,12 +817,12 @@
         "display_name": "ハリウッドベッツ・シャークス",
         "flag": "🇿🇦",
         "slug": "hollywoodbets-sharks",
-        "played": "17",
-        "won": "7",
+        "played": "18",
+        "won": "8",
         "drawn": "1",
         "lost": "9",
-        "diff": "4",
-        "points": "41"
+        "diff": "39",
+        "points": "46"
       },
       {
         "rank": "11",
@@ -895,11 +895,11 @@
         "display_name": "ゼブレ・パルマ",
         "flag": "🇮🇹",
         "slug": "zebre-parma",
-        "played": "17",
+        "played": "18",
         "won": "2",
         "drawn": "0",
-        "lost": "15",
-        "diff": "-240",
+        "lost": "16",
+        "diff": "-275",
         "points": "15"
       }
     ],
