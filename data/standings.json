@@ -722,6 +722,19 @@
       },
       {
         "rank": "3",
+        "team_name": "Vodacom Bulls",
+        "display_name": "ヴォーダコム・ブルズ",
+        "flag": "🇿🇦",
+        "slug": "vodacom-bulls",
+        "played": "18",
+        "won": "12",
+        "drawn": "0",
+        "lost": "6",
+        "diff": "160",
+        "points": "59"
+      },
+      {
+        "rank": "4",
         "team_name": "Leinster Rugby",
         "display_name": "レンスター・ラグビー",
         "flag": "🇮🇪",
@@ -734,7 +747,7 @@
         "points": "58"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "team_name": "Cardiff Rugby",
         "display_name": "カーディフ・ラグビー",
         "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -745,19 +758,6 @@
         "lost": "7",
         "diff": "-19",
         "points": "55"
-      },
-      {
-        "rank": "5",
-        "team_name": "Vodacom Bulls",
-        "display_name": "ヴォーダコム・ブルズ",
-        "flag": "🇿🇦",
-        "slug": "vodacom-bulls",
-        "played": "17",
-        "won": "11",
-        "drawn": "0",
-        "lost": "6",
-        "diff": "134",
-        "points": "54"
       },
       {
         "rank": "6",
@@ -856,11 +856,11 @@
         "display_name": "Benetton Rugby",
         "flag": "🇫🇷",
         "slug": "benetton-rugby",
-        "played": "17",
+        "played": "18",
         "won": "6",
         "drawn": "2",
-        "lost": "9",
-        "diff": "-140",
+        "lost": "10",
+        "diff": "-166",
         "points": "33"
       },
       {
@@ -1124,12 +1124,12 @@
         "display_name": "バース・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bath-rugby",
-        "played": "15",
-        "won": "11",
+        "played": "16",
+        "won": "12",
         "drawn": "0",
         "lost": "4",
-        "diff": "165",
-        "points": "58"
+        "diff": "222",
+        "points": "63"
       },
       {
         "rank": "3",
@@ -1228,11 +1228,11 @@
         "display_name": "ニューカッスル・ファルコンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "newcastle-falcons",
-        "played": "15",
+        "played": "16",
         "won": "1",
         "drawn": "0",
-        "lost": "14",
-        "diff": "-448",
+        "lost": "15",
+        "diff": "-505",
         "points": "7"
       }
     ],
