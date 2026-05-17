@@ -513,11 +513,11 @@
         "display_name": "トゥールーズ",
         "flag": "🇫🇷",
         "slug": "toulouse",
-        "played": "23",
+        "played": "24",
         "won": "17",
         "drawn": "0",
-        "lost": "6",
-        "diff": "+395",
+        "lost": "7",
+        "diff": "+367",
         "points": "82"
       },
       {
@@ -604,12 +604,12 @@
         "display_name": "ラ・ロシェル",
         "flag": "🇫🇷",
         "slug": "la-rochelle",
-        "played": "23",
-        "won": "12",
+        "played": "24",
+        "won": "13",
         "drawn": "0",
         "lost": "11",
-        "diff": "+101",
-        "points": "58"
+        "diff": "+129",
+        "points": "63"
       },
       {
         "rank": "9",
