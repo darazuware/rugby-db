@@ -1137,12 +1137,12 @@
         "display_name": "レスター・タイガーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "leicester-tigers",
-        "played": "15",
-        "won": "11",
+        "played": "16",
+        "won": "12",
         "drawn": "0",
         "lost": "4",
-        "diff": "175",
-        "points": "57"
+        "diff": "189",
+        "points": "62"
       },
       {
         "rank": "4",
@@ -1189,12 +1189,12 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "15",
+        "played": "16",
         "won": "4",
         "drawn": "0",
-        "lost": "11",
-        "diff": "-82",
-        "points": "28"
+        "lost": "12",
+        "diff": "-96",
+        "points": "29"
       },
       {
         "rank": "8",
