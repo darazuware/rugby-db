@@ -1009,6 +1009,19 @@
       },
       {
         "rank": "8",
+        "team_name": "Western Force",
+        "display_name": "ウェスタン・フォース",
+        "flag": "🇦🇺",
+        "slug": "western-force",
+        "played": "13",
+        "won": "6",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "-31",
+        "points": "26"
+      },
+      {
+        "rank": "9",
         "team_name": "Highlanders",
         "display_name": "オタゴ・ハイランダーズ",
         "flag": "🇳🇿",
@@ -1021,30 +1034,17 @@
         "points": "24"
       },
       {
-        "rank": "9",
-        "team_name": "Western Force",
-        "display_name": "ウェスタン・フォース",
-        "flag": "🇦🇺",
-        "slug": "western-force",
-        "played": "12",
-        "won": "5",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "-35",
-        "points": "22"
-      },
-      {
         "rank": "10",
         "team_name": "Fijian Drua",
         "display_name": "フィジアン・ドゥルア",
         "flag": "🇫🇯",
         "slug": "fijian-drua",
-        "played": "12",
+        "played": "13",
         "won": "5",
         "drawn": "0",
-        "lost": "7",
-        "diff": "-118",
-        "points": "20"
+        "lost": "8",
+        "diff": "-122",
+        "points": "21"
       },
       {
         "rank": "11",
