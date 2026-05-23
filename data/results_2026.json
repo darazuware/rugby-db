@@ -1194,7 +1194,7 @@
       "round": 18,
       "home": "東京サントリーサンゴリアス",
       "away": "ブラックラムズ東京",
-      "score": "VS",
+      "score": "40-35",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29555"
@@ -3020,7 +3020,7 @@
       "date": "2026-05-22",
       "home": "カンタベリー・クルセイダーズ",
       "away": "ワイカト・チーフス",
-      "score": "VS",
+      "score": "36-32",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949275"
@@ -3030,7 +3030,7 @@
       "date": "2026-05-22",
       "home": "NSWワラタス（ワラターズ）",
       "away": "ACTブランビーズ",
-      "score": "VS",
+      "score": "14-21",
       "home_flag": "🇦🇺",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949276"
@@ -3040,7 +3040,7 @@
       "date": "2026-05-23",
       "home": "モアナ・パシフィカ",
       "away": "クイーンズランド・レッズ",
-      "score": "VS",
+      "score": "31-33",
       "home_flag": "🏝️",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949277"
@@ -3114,6 +3114,26 @@
       "home_flag": "🇦🇺",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949284"
+    },
+    {
+      "round": 17,
+      "date": "2026-06-05",
+      "home": "ウェリントン・ハリケーンズ",
+      "away": "TBC",
+      "score": "VS",
+      "home_flag": "🇳🇿",
+      "away_flag": "🇳🇿",
+      "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949285"
+    },
+    {
+      "round": 17,
+      "date": "2026-06-06",
+      "home": "ワイカト・チーフス",
+      "away": "TBC",
+      "score": "VS",
+      "home_flag": "🇳🇿",
+      "away_flag": "🇳🇿",
+      "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949286"
     }
   ],
   "top14": [
