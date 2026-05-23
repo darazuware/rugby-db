@@ -922,12 +922,12 @@
         "display_name": "ウェリントン・ハリケーンズ",
         "flag": "🇳🇿",
         "slug": "hurricanes",
-        "played": "12",
-        "won": "10",
+        "played": "13",
+        "won": "11",
         "drawn": "0",
         "lost": "2",
-        "diff": "280",
-        "points": "50"
+        "diff": "297",
+        "points": "55"
       },
       {
         "rank": "2",
@@ -1013,11 +1013,11 @@
         "display_name": "オタゴ・ハイランダーズ",
         "flag": "🇳🇿",
         "slug": "highlanders",
-        "played": "13",
+        "played": "14",
         "won": "5",
         "drawn": "0",
-        "lost": "8",
-        "diff": "-80",
+        "lost": "9",
+        "diff": "-97",
         "points": "24"
       },
       {
