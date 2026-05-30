@@ -3100,7 +3100,7 @@
       "date": "2026-05-30",
       "home": "ワイカト・チーフス",
       "away": "オークランド・ブルーズ",
-      "score": "VS",
+      "score": "59-34",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949283"
@@ -3110,7 +3110,7 @@
       "date": "2026-05-30",
       "home": "ウェスタン・フォース",
       "away": "NSWワラタス（ワラターズ）",
-      "score": "VS",
+      "score": "12-20",
       "home_flag": "🇦🇺",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949284"
@@ -3119,20 +3119,30 @@
       "round": 17,
       "date": "2026-06-05",
       "home": "ウェリントン・ハリケーンズ",
-      "away": "TBC",
+      "away": "ACTブランビーズ",
       "score": "VS",
       "home_flag": "🇳🇿",
-      "away_flag": "🇳🇿",
+      "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949285"
     },
     {
       "round": 17,
       "date": "2026-06-06",
-      "home": "ワイカト・チーフス",
-      "away": "TBC",
+      "home": "カンタベリー・クルセイダーズ",
+      "away": "オークランド・ブルーズ",
       "score": "VS",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
+      "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949287"
+    },
+    {
+      "round": 17,
+      "date": "2026-06-06",
+      "home": "ワイカト・チーフス",
+      "away": "クイーンズランド・レッズ",
+      "score": "VS",
+      "home_flag": "🇳🇿",
+      "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949286"
     }
   ],

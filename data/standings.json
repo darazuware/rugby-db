@@ -935,12 +935,12 @@
         "display_name": "ワイカト・チーフス",
         "flag": "🇳🇿",
         "slug": "chiefs",
-        "played": "13",
-        "won": "10",
+        "played": "14",
+        "won": "11",
         "drawn": "0",
         "lost": "3",
-        "diff": "165",
-        "points": "46"
+        "diff": "190",
+        "points": "51"
       },
       {
         "rank": "3",
@@ -961,11 +961,11 @@
         "display_name": "オークランド・ブルーズ",
         "flag": "🇳🇿",
         "slug": "blues",
-        "played": "13",
+        "played": "14",
         "won": "8",
         "drawn": "0",
-        "lost": "5",
-        "diff": "69",
+        "lost": "6",
+        "diff": "44",
         "points": "38"
       },
       {
