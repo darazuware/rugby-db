@@ -1111,12 +1111,12 @@
         "display_name": "ノーサンプトン・セインツ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "northampton-saints",
-        "played": "16",
-        "won": "13",
+        "played": "17",
+        "won": "14",
         "drawn": "1",
         "lost": "2",
-        "diff": "160",
-        "points": "67"
+        "diff": "164",
+        "points": "72"
       },
       {
         "rank": "2",
@@ -1198,6 +1198,19 @@
       },
       {
         "rank": "8",
+        "team_name": "Gloucester Rugby",
+        "display_name": "グロスター・ラグビー",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "gloucester-rugby",
+        "played": "17",
+        "won": "4",
+        "drawn": "0",
+        "lost": "13",
+        "diff": "-185",
+        "points": "27"
+      },
+      {
+        "rank": "9",
         "team_name": "Harlequins",
         "display_name": "ハーレクインズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1208,19 +1221,6 @@
         "lost": "12",
         "diff": "-148",
         "points": "26"
-      },
-      {
-        "rank": "9",
-        "team_name": "Gloucester Rugby",
-        "display_name": "グロスター・ラグビー",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "gloucester-rugby",
-        "played": "16",
-        "won": "4",
-        "drawn": "0",
-        "lost": "12",
-        "diff": "-181",
-        "points": "25"
       },
       {
         "rank": "10",
