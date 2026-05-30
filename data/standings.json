@@ -996,29 +996,29 @@
       },
       {
         "rank": "7",
-        "team_name": "NSW Waratahs",
-        "display_name": "NSWワラタス（ワラターズ）",
-        "flag": "🇦🇺",
-        "slug": "nsw-waratahs",
-        "played": "13",
-        "won": "5",
-        "drawn": "0",
-        "lost": "8",
-        "diff": "-43",
-        "points": "27"
-      },
-      {
-        "rank": "8",
         "team_name": "Western Force",
         "display_name": "ウェスタン・フォース",
         "flag": "🇦🇺",
         "slug": "western-force",
-        "played": "13",
-        "won": "6",
+        "played": "14",
+        "won": "7",
         "drawn": "0",
         "lost": "7",
-        "diff": "-31",
-        "points": "26"
+        "diff": "-25",
+        "points": "30"
+      },
+      {
+        "rank": "8",
+        "team_name": "NSW Waratahs",
+        "display_name": "NSWワラタス（ワラターズ）",
+        "flag": "🇦🇺",
+        "slug": "nsw-waratahs",
+        "played": "14",
+        "won": "5",
+        "drawn": "0",
+        "lost": "9",
+        "diff": "-49",
+        "points": "28"
       },
       {
         "rank": "9",
