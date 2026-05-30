@@ -4826,6 +4826,46 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j24/11472-la-rochelle-toulouse"
+    },
+    {
+      "round": 25,
+      "date": "2026-05-30",
+      "home": "スタッド・フランセ",
+      "away": "バイヨンヌ",
+      "score": "38 - 21",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11478-paris-bayonne"
+    },
+    {
+      "round": 25,
+      "date": "2026-05-30",
+      "home": "トゥールーズ",
+      "away": "リヨン",
+      "score": "39 - 31",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11479-toulouse-lyon"
+    },
+    {
+      "round": 25,
+      "date": "2026-05-30",
+      "home": "モントーバン",
+      "away": "ラ・ロシェル",
+      "score": "15 - 71",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11480-montauban-la-rochelle"
+    },
+    {
+      "round": 25,
+      "date": "2026-05-30",
+      "home": "ペルピニャン",
+      "away": "カストル",
+      "score": "29 - 27",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11481-perpignan-castres"
     }
   ],
   "urc": [

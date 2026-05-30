@@ -513,15 +513,28 @@
         "display_name": "トゥールーズ",
         "flag": "🇫🇷",
         "slug": "toulouse",
-        "played": "24",
-        "won": "17",
+        "played": "25",
+        "won": "18",
         "drawn": "0",
         "lost": "7",
-        "diff": "+367",
-        "points": "82"
+        "diff": "+375",
+        "points": "86"
       },
       {
         "rank": "2",
+        "team_name": "Stade Français Paris",
+        "display_name": "スタッド・フランセ",
+        "flag": "🇫🇷",
+        "slug": "paris",
+        "played": "25",
+        "won": "15",
+        "drawn": "1",
+        "lost": "9",
+        "diff": "+210",
+        "points": "78"
+      },
+      {
+        "rank": "3",
         "team_name": "Montpellier Hérault Rugby",
         "display_name": "モンペリエ",
         "flag": "🇫🇷",
@@ -534,7 +547,7 @@
         "points": "74"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "team_name": "Section Paloise",
         "display_name": "ポー",
         "flag": "🇫🇷",
@@ -547,20 +560,20 @@
         "points": "73"
       },
       {
-        "rank": "4",
-        "team_name": "Stade Français Paris",
-        "display_name": "スタッド・フランセ",
+        "rank": "5",
+        "team_name": "Stade Rochelais",
+        "display_name": "ラ・ロシェル",
         "flag": "🇫🇷",
-        "slug": "paris",
-        "played": "24",
+        "slug": "la-rochelle",
+        "played": "25",
         "won": "14",
-        "drawn": "1",
-        "lost": "9",
-        "diff": "+193",
-        "points": "73"
+        "drawn": "0",
+        "lost": "11",
+        "diff": "+185",
+        "points": "68"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "Union Bordeaux-Bègles",
         "display_name": "ボルドー・ベグル",
         "flag": "🇫🇷",
@@ -573,7 +586,7 @@
         "points": "68"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "ASM Clermont",
         "display_name": "クレルモン",
         "flag": "🇫🇷",
@@ -586,7 +599,7 @@
         "points": "67"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "Racing 92",
         "display_name": "ラシン92",
         "flag": "🇫🇷",
@@ -597,19 +610,6 @@
         "lost": "9",
         "diff": "+66",
         "points": "65"
-      },
-      {
-        "rank": "8",
-        "team_name": "Stade Rochelais",
-        "display_name": "ラ・ロシェル",
-        "flag": "🇫🇷",
-        "slug": "la-rochelle",
-        "played": "24",
-        "won": "13",
-        "drawn": "0",
-        "lost": "11",
-        "diff": "+129",
-        "points": "63"
       },
       {
         "rank": "9",
@@ -630,11 +630,11 @@
         "display_name": "リヨン",
         "flag": "🇫🇷",
         "slug": "lyon-ou",
-        "played": "24",
+        "played": "25",
         "won": "11",
         "drawn": "1",
-        "lost": "12",
-        "diff": "-29",
+        "lost": "13",
+        "diff": "-37",
         "points": "52"
       },
       {
@@ -643,12 +643,12 @@
         "display_name": "カストル",
         "flag": "🇫🇷",
         "slug": "castres-olympique",
-        "played": "24",
+        "played": "25",
         "won": "10",
         "drawn": "0",
-        "lost": "14",
-        "diff": "-106",
-        "points": "49"
+        "lost": "15",
+        "diff": "-108",
+        "points": "50"
       },
       {
         "rank": "12",
@@ -656,11 +656,11 @@
         "display_name": "バイヨンヌ",
         "flag": "🇫🇷",
         "slug": "aviron-bayonnais",
-        "played": "24",
+        "played": "25",
         "won": "10",
         "drawn": "0",
-        "lost": "14",
-        "diff": "-150",
+        "lost": "15",
+        "diff": "-167",
         "points": "46"
       },
       {
@@ -669,12 +669,12 @@
         "display_name": "ペルピニャン",
         "flag": "🇫🇷",
         "slug": "usa-perpignan",
-        "played": "24",
-        "won": "5",
+        "played": "25",
+        "won": "6",
         "drawn": "0",
         "lost": "19",
-        "diff": "-204",
-        "points": "25"
+        "diff": "-202",
+        "points": "29"
       },
       {
         "rank": "14",
@@ -682,11 +682,11 @@
         "display_name": "モントーバン",
         "flag": "🇫🇷",
         "slug": "us-montauban",
-        "played": "24",
+        "played": "25",
         "won": "1",
         "drawn": "1",
-        "lost": "22",
-        "diff": "-762",
+        "lost": "23",
+        "diff": "-818",
         "points": "7"
       }
     ],
@@ -1146,6 +1146,19 @@
       },
       {
         "rank": "4",
+        "team_name": "Saracens",
+        "display_name": "サラセンズ",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "saracens",
+        "played": "17",
+        "won": "10",
+        "drawn": "0",
+        "lost": "7",
+        "diff": "199",
+        "points": "57"
+      },
+      {
+        "rank": "5",
         "team_name": "Exeter Chiefs",
         "display_name": "エクセター・チーフス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1158,7 +1171,7 @@
         "points": "55"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "team_name": "Bristol Bears",
         "display_name": "ブリストル・ベアーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1169,19 +1182,6 @@
         "lost": "6",
         "diff": "37",
         "points": "54"
-      },
-      {
-        "rank": "6",
-        "team_name": "Saracens",
-        "display_name": "サラセンズ",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "saracens",
-        "played": "16",
-        "won": "9",
-        "drawn": "0",
-        "lost": "7",
-        "diff": "185",
-        "points": "52"
       },
       {
         "rank": "7",
@@ -1202,11 +1202,11 @@
         "display_name": "ハーレクインズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "harlequins",
-        "played": "16",
+        "played": "17",
         "won": "5",
         "drawn": "0",
-        "lost": "11",
-        "diff": "-134",
+        "lost": "12",
+        "diff": "-148",
         "points": "26"
       },
       {
