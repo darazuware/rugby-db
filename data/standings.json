@@ -561,6 +561,19 @@
       },
       {
         "rank": "5",
+        "team_name": "Union Bordeaux-Bègles",
+        "display_name": "ボルドー・ベグル",
+        "flag": "🇫🇷",
+        "slug": "bordeaux",
+        "played": "25",
+        "won": "14",
+        "drawn": "0",
+        "lost": "11",
+        "diff": "+106",
+        "points": "69"
+      },
+      {
+        "rank": "6",
         "team_name": "Stade Rochelais",
         "display_name": "ラ・ロシェル",
         "flag": "🇫🇷",
@@ -570,19 +583,6 @@
         "drawn": "0",
         "lost": "11",
         "diff": "+185",
-        "points": "68"
-      },
-      {
-        "rank": "6",
-        "team_name": "Union Bordeaux-Bègles",
-        "display_name": "ボルドー・ベグル",
-        "flag": "🇫🇷",
-        "slug": "bordeaux",
-        "played": "24",
-        "won": "14",
-        "drawn": "0",
-        "lost": "10",
-        "diff": "+111",
         "points": "68"
       },
       {
@@ -617,12 +617,12 @@
         "display_name": "RC Toulon",
         "flag": "🇫🇷",
         "slug": "rc-toulon",
-        "played": "24",
-        "won": "11",
+        "played": "25",
+        "won": "12",
         "drawn": "1",
         "lost": "12",
-        "diff": "-94",
-        "points": "55"
+        "diff": "-89",
+        "points": "59"
       },
       {
         "rank": "10",
@@ -1137,15 +1137,28 @@
         "display_name": "レスター・タイガーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "leicester-tigers",
-        "played": "16",
+        "played": "17",
         "won": "12",
         "drawn": "0",
-        "lost": "4",
-        "diff": "189",
+        "lost": "5",
+        "diff": "180",
         "points": "62"
       },
       {
         "rank": "4",
+        "team_name": "Exeter Chiefs",
+        "display_name": "エクセター・チーフス",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "chiefs",
+        "played": "17",
+        "won": "10",
+        "drawn": "1",
+        "lost": "6",
+        "diff": "134",
+        "points": "60"
+      },
+      {
+        "rank": "5",
         "team_name": "Saracens",
         "display_name": "サラセンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1156,19 +1169,6 @@
         "lost": "7",
         "diff": "199",
         "points": "57"
-      },
-      {
-        "rank": "5",
-        "team_name": "Exeter Chiefs",
-        "display_name": "エクセター・チーフス",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "chiefs",
-        "played": "16",
-        "won": "9",
-        "drawn": "1",
-        "lost": "6",
-        "diff": "125",
-        "points": "55"
       },
       {
         "rank": "6",
