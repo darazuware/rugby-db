@@ -46,6 +46,28 @@
     },
     {
       "division": "D1",
+      "date": "2026-06-06",
+      "round": 0,
+      "home": "埼玉パナソニックワイルドナイツ",
+      "away": "東京サントリーサンゴリアス",
+      "score": "VS",
+      "home_flag": "🇯🇵",
+      "away_flag": "🇯🇵",
+      "detail_url": "https://league-one.jp/match/29559"
+    },
+    {
+      "division": "D1",
+      "date": "2026-06-07",
+      "round": 0,
+      "home": "コベルコ神戸スティーラーズ",
+      "away": "クボタスピアーズ船橋・東京ベイ",
+      "score": "VS",
+      "home_flag": "🇯🇵",
+      "away_flag": "🇯🇵",
+      "detail_url": "https://league-one.jp/match/29560"
+    },
+    {
+      "division": "D1",
       "date": "2025-12-13",
       "round": 1,
       "home": "ブラックラムズ東京",
