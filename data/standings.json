@@ -561,6 +561,19 @@
       },
       {
         "rank": "5",
+        "team_name": "Racing 92",
+        "display_name": "ラシン92",
+        "flag": "🇫🇷",
+        "slug": "racing-92",
+        "played": "25",
+        "won": "15",
+        "drawn": "1",
+        "lost": "9",
+        "diff": "+94",
+        "points": "70"
+      },
+      {
+        "rank": "6",
         "team_name": "Union Bordeaux-Bègles",
         "display_name": "ボルドー・ベグル",
         "flag": "🇫🇷",
@@ -573,7 +586,7 @@
         "points": "69"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "team_name": "Stade Rochelais",
         "display_name": "ラ・ロシェル",
         "flag": "🇫🇷",
@@ -586,30 +599,17 @@
         "points": "68"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "team_name": "ASM Clermont",
         "display_name": "クレルモン",
         "flag": "🇫🇷",
         "slug": "clermont",
-        "played": "24",
+        "played": "25",
         "won": "14",
         "drawn": "0",
-        "lost": "10",
-        "diff": "+129",
+        "lost": "11",
+        "diff": "+101",
         "points": "67"
-      },
-      {
-        "rank": "8",
-        "team_name": "Racing 92",
-        "display_name": "ラシン92",
-        "flag": "🇫🇷",
-        "slug": "racing-92",
-        "played": "24",
-        "won": "14",
-        "drawn": "1",
-        "lost": "9",
-        "diff": "+66",
-        "points": "65"
       },
       {
         "rank": "9",
