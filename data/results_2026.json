@@ -39,7 +39,7 @@
       "round": 0,
       "home": "埼玉パナソニックワイルドナイツ",
       "away": "クボタスピアーズ船橋・東京ベイ",
-      "score": "VS",
+      "score": "24-26",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29558"
@@ -4866,6 +4866,16 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11481-perpignan-castres"
+    },
+    {
+      "round": 25,
+      "date": "2026-05-30",
+      "home": "モンペリエ",
+      "away": "ポー",
+      "score": "26 - 18",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11476-montpellier-pau"
     }
   ],
   "urc": [

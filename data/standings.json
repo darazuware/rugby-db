@@ -522,6 +522,19 @@
       },
       {
         "rank": "2",
+        "team_name": "Montpellier Hérault Rugby",
+        "display_name": "モンペリエ",
+        "flag": "🇫🇷",
+        "slug": "montpellier",
+        "played": "25",
+        "won": "16",
+        "drawn": "1",
+        "lost": "8",
+        "diff": "+234",
+        "points": "78"
+      },
+      {
+        "rank": "3",
         "team_name": "Stade Français Paris",
         "display_name": "スタッド・フランセ",
         "flag": "🇫🇷",
@@ -534,29 +547,16 @@
         "points": "78"
       },
       {
-        "rank": "3",
-        "team_name": "Montpellier Hérault Rugby",
-        "display_name": "モンペリエ",
-        "flag": "🇫🇷",
-        "slug": "montpellier",
-        "played": "24",
-        "won": "15",
-        "drawn": "1",
-        "lost": "8",
-        "diff": "+226",
-        "points": "74"
-      },
-      {
         "rank": "4",
         "team_name": "Section Paloise",
         "display_name": "ポー",
         "flag": "🇫🇷",
         "slug": "pau",
-        "played": "24",
+        "played": "25",
         "won": "16",
         "drawn": "0",
-        "lost": "8",
-        "diff": "+124",
+        "lost": "9",
+        "diff": "+116",
         "points": "73"
       },
       {
@@ -1189,12 +1189,12 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "16",
+        "played": "17",
         "won": "4",
         "drawn": "0",
-        "lost": "12",
-        "diff": "-96",
-        "points": "29"
+        "lost": "13",
+        "diff": "-99",
+        "points": "31"
       },
       {
         "rank": "8",
@@ -1228,12 +1228,12 @@
         "display_name": "ニューカッスル・ファルコンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "newcastle-falcons",
-        "played": "16",
-        "won": "1",
+        "played": "17",
+        "won": "2",
         "drawn": "0",
         "lost": "15",
-        "diff": "-505",
-        "points": "7"
+        "diff": "-502",
+        "points": "12"
       }
     ],
     "results": []
