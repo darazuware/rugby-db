@@ -1111,12 +1111,12 @@
         "display_name": "ノーサンプトン・セインツ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "northampton-saints",
-        "played": "17",
+        "played": "18",
         "won": "14",
         "drawn": "1",
-        "lost": "2",
-        "diff": "164",
-        "points": "72"
+        "lost": "3",
+        "diff": "157",
+        "points": "74"
       },
       {
         "rank": "2",
@@ -1124,38 +1124,38 @@
         "display_name": "バース・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bath-rugby",
-        "played": "17",
-        "won": "12",
+        "played": "18",
+        "won": "13",
         "drawn": "0",
         "lost": "5",
-        "diff": "220",
-        "points": "64"
+        "diff": "222",
+        "points": "69"
       },
       {
         "rank": "3",
-        "team_name": "Leicester Tigers",
-        "display_name": "レスター・タイガーズ",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "slug": "leicester-tigers",
-        "played": "17",
-        "won": "12",
-        "drawn": "0",
-        "lost": "5",
-        "diff": "180",
-        "points": "62"
-      },
-      {
-        "rank": "4",
         "team_name": "Exeter Chiefs",
         "display_name": "エクセター・チーフス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "chiefs",
-        "played": "17",
-        "won": "10",
+        "played": "18",
+        "won": "11",
         "drawn": "1",
         "lost": "6",
-        "diff": "134",
-        "points": "60"
+        "diff": "154",
+        "points": "65"
+      },
+      {
+        "rank": "4",
+        "team_name": "Leicester Tigers",
+        "display_name": "レスター・タイガーズ",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "slug": "leicester-tigers",
+        "played": "18",
+        "won": "12",
+        "drawn": "0",
+        "lost": "6",
+        "diff": "178",
+        "points": "63"
       },
       {
         "rank": "5",
@@ -1163,11 +1163,11 @@
         "display_name": "サラセンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "saracens",
-        "played": "17",
+        "played": "18",
         "won": "10",
         "drawn": "0",
-        "lost": "7",
-        "diff": "199",
+        "lost": "8",
+        "diff": "179",
         "points": "57"
       },
       {
@@ -1176,11 +1176,11 @@
         "display_name": "ブリストル・ベアーズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "bristol-bears",
-        "played": "17",
+        "played": "18",
         "won": "11",
         "drawn": "0",
-        "lost": "6",
-        "diff": "37",
+        "lost": "7",
+        "diff": "16",
         "points": "54"
       },
       {
@@ -1189,12 +1189,12 @@
         "display_name": "セール・シャークス",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "sale-sharks",
-        "played": "17",
-        "won": "4",
+        "played": "18",
+        "won": "5",
         "drawn": "0",
         "lost": "13",
-        "diff": "-99",
-        "points": "31"
+        "diff": "-78",
+        "points": "36"
       },
       {
         "rank": "8",
@@ -1202,12 +1202,12 @@
         "display_name": "グロスター・ラグビー",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "gloucester-rugby",
-        "played": "17",
-        "won": "4",
+        "played": "18",
+        "won": "5",
         "drawn": "0",
         "lost": "13",
-        "diff": "-185",
-        "points": "27"
+        "diff": "-152",
+        "points": "32"
       },
       {
         "rank": "9",
@@ -1215,12 +1215,12 @@
         "display_name": "ハーレクインズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "harlequins",
-        "played": "17",
-        "won": "5",
+        "played": "18",
+        "won": "6",
         "drawn": "0",
         "lost": "12",
-        "diff": "-148",
-        "points": "26"
+        "diff": "-141",
+        "points": "31"
       },
       {
         "rank": "10",
@@ -1228,11 +1228,11 @@
         "display_name": "ニューカッスル・ファルコンズ",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "slug": "newcastle-falcons",
-        "played": "17",
+        "played": "18",
         "won": "2",
         "drawn": "0",
-        "lost": "15",
-        "diff": "-502",
+        "lost": "16",
+        "diff": "-535",
         "points": "12"
       }
     ],
