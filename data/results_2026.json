@@ -3162,7 +3162,7 @@
       "date": "2026-06-06",
       "home": "ワイカト・チーフス",
       "away": "クイーンズランド・レッズ",
-      "score": "VS",
+      "score": "46-24",
       "home_flag": "🇳🇿",
       "away_flag": "🇦🇺",
       "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949286"
@@ -3170,8 +3170,18 @@
     {
       "round": 18,
       "date": "2026-06-12",
+      "home": "ワイカト・チーフス",
+      "away": "カンタベリー・クルセイダーズ",
+      "score": "VS",
+      "home_flag": "🇳🇿",
+      "away_flag": "🇳🇿",
+      "detail_url": "https://super.rugby/superrugby/match-centre/?competition=205&season=2026&match=949289"
+    },
+    {
+      "round": 18,
+      "date": "2026-06-13",
       "home": "ウェリントン・ハリケーンズ",
-      "away": "TBC",
+      "away": "オークランド・ブルーズ",
       "score": "VS",
       "home_flag": "🇳🇿",
       "away_flag": "🇳🇿",
