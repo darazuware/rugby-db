@@ -61,7 +61,7 @@
       "round": 0,
       "home": "コベルコ神戸スティーラーズ",
       "away": "クボタスピアーズ船橋・東京ベイ",
-      "score": "VS",
+      "score": "13-13",
       "home_flag": "🇯🇵",
       "away_flag": "🇯🇵",
       "detail_url": "https://league-one.jp/match/29560"
@@ -4938,6 +4938,76 @@
       "home_flag": "🇫🇷",
       "away_flag": "🇫🇷",
       "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j25/11475-clermont-racing-92"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "バイヨンヌ",
+      "away": "ペルピニャン",
+      "score": "52 - 7",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11482-bayonne-perpignan"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "カストル",
+      "away": "トゥーロン",
+      "score": "38 - 21",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11483-castres-toulon"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "リヨン",
+      "away": "モンペリエ",
+      "score": "25 - 28",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11484-lyon-montpellier"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "ラシン92",
+      "away": "トゥールーズ",
+      "score": "31 - 20",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11485-racing-92-toulouse"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "ポー",
+      "away": "モントーバン",
+      "score": "71 - 35",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11486-pau-montauban"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "ラ・ロシェル",
+      "away": "スタッド・フランセ",
+      "score": "27 - 22",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11487-la-rochelle-paris"
+    },
+    {
+      "round": 26,
+      "date": "2026-06-06",
+      "home": "ボルドー・ベグル",
+      "away": "クレルモン",
+      "score": "31 - 34",
+      "home_flag": "🇫🇷",
+      "away_flag": "🇫🇷",
+      "detail_url": "https://top14.lnr.fr/feuille-de-match/2025-2026/j26/11488-bordeaux-begles-clermont"
     }
   ],
   "urc": [
