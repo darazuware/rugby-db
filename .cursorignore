@@ -5,6 +5,13 @@ node_modules/
 .astro/
 .vercel/
 _anticrow/
+.claude/
+**/ .claude/
+
+# --- データフォルダ (2,400+ files) ---
+content/
+data/
+data_sources/
 
 # --- Python 関連の一時ファイル ---
 __pycache__/
@@ -14,15 +21,14 @@ __pycache__/
 # --- 巨大なログと一時データ ---
 *.log
 **/*.log
-dev_log.txt
+dev_log*.txt
 *.txt.bak
 *.txt.bak_*
 nohup.out
 
-# --- 画像・バックアップ（既存分） ---
+# --- 画像・バックアップ ---
 images/
 backups/
-.claude/
 *.zip
 
 # --- 各種データベース・ビルド成果物 ---
@@ -35,3 +41,6 @@ build/
 # --- システム・Git ---
 .git/
 .DS_Store
+.vscode/
+.env
+.ipynb_checkpoints/

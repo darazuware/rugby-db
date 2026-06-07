@@ -39,11 +39,9 @@ import resultsData from "../../../data/results_2026.json";
 import standingsData from "../../../data/standings.json";
 import StandingsTable from "../../components/StandingsTable";
 import LeagueMatchResults from "../../components/LeagueMatchResults";
+import { getLeagueStandings, type LeagueId } from "../../lib/safeStandings";
 
-const leagueStandingsRaw = (standingsData as any)[targetLeague];
-const leagueStandings = leagueStandingsRaw && 'standings' in leagueStandingsRaw 
-  ? leagueStandingsRaw.standings 
-  : (Array.isArray(leagueStandingsRaw) ? leagueStandingsRaw : []);
+const leagueStandings = getLeagueStandings(standingsData, targetLeague as LeagueId);
 
 const leagueResultsAll = (resultsData as any)[targetLeague] || [];
 // 重複排除

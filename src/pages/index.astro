@@ -4,6 +4,7 @@ import Layout from "../layouts/Layout.astro";
 import AffiliateBanner from "../components/AffiliateBanner.astro";
 import StandingsWidget from "../components/StandingsWidget";
 import standingsData from "../../data/standings.json";
+import { getLeagueStandings, type LeagueId } from "../lib/safeStandings";
 import teamsData from "../../data/teams.json";
 import teamNamesJp from "../../data/team_names_jp.json";
 
@@ -32,7 +33,7 @@ const getTeamMapping = (leagueId: string, teamName: string) => {
 };
 
 const mapStandings = (leagueId: string) => {
-    const raw = (standingsData as any)[leagueId]?.standings || [];
+    const raw = getLeagueStandings(standingsData, leagueId as LeagueId);
     const leagueTeams = (teamsData as any[]).filter(t => t.league === (leagueId === 'league-one' ? 'league-one' : leagueId));
     
     return raw.slice(0, 4).map((s: any) => {
@@ -119,7 +120,7 @@ const leagueStandings = [
 ---
 
 <Layout
-	title="RUGBY PICKS | 世界のラグビーを日本語で爆速検索・名鑑データベース"
+	title="RUGBY PICKS | 世界のラグビーを日本語で高速検索・名鑑データベース"
 >
     {/* ヒーローセクション - サイドバーの横でも見栄えが良いように調整 */}
     <section class="relative overflow-hidden mb-16 rounded-[2.5rem] bg-card/30 border border-border-dim/50 p-8 md:p-16">

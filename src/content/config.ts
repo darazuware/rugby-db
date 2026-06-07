@@ -32,6 +32,7 @@ const players = defineCollection({
         starts: z.number().optional(),
         minutes: z.number().optional(),
         career_history_json: z.string().optional(),
+        aliases: z.array(z.string()).optional(),
     }),
 });
 
@@ -48,7 +49,18 @@ const news = defineCollection({
     }),
 });
 
+const teams = defineCollection({
+    type: 'content',
+    schema: z.object({
+        title: z.string(),
+        league: z.string(),
+        updatedDate: z.date().optional(),
+        draft: z.boolean().optional().default(false),
+    }),
+});
+
 export const collections = {
     'players': players,
     'news': news,
+    'teams': teams,
 };

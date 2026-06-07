@@ -3,6 +3,7 @@ export const prerender = true;
 import Layout from "../../layouts/Layout.astro";
 import StandingsTable from "../../components/StandingsTable";
 import standingsData from "../../../data/standings.json";
+import { getLeagueStandings, type LeagueId } from "../../lib/safeStandings";
 
 const leagueData = [
     {
@@ -11,7 +12,7 @@ const leagueData = [
         title_jp: "ジャパンラグビー リーグワン",
         color: "bg-[#E60012]",
         accent: "text-[#E60012]",
-        standings: (standingsData["league-one"] as any)?.standings || []
+        standings: getLeagueStandings(standingsData, "league-one")
     },
     {
         id: "super-rugby",
@@ -19,7 +20,7 @@ const leagueData = [
         title_jp: "スーパーラグビー・パシフィック",
         color: "bg-[#0055A4]",
         accent: "text-[#0055A4]",
-        standings: (standingsData["super-rugby"] as any)?.standings || []
+        standings: getLeagueStandings(standingsData, "super-rugby")
     },
     {
         id: "top14",
@@ -27,7 +28,7 @@ const leagueData = [
         title_jp: "トップ14",
         color: "bg-[#C5A059]",
         accent: "text-[#C5A059]",
-        standings: (standingsData["top14"] as any)?.standings || []
+        standings: getLeagueStandings(standingsData, "top14")
     },
     {
         id: "urc",
@@ -35,7 +36,7 @@ const leagueData = [
         title_jp: "ユナイテッド・ラグビー・チャンピオンシップ",
         color: "bg-[#003366]",
         accent: "text-[#003366]",
-        standings: (standingsData["urc"] as any)?.standings || []
+        standings: getLeagueStandings(standingsData, "urc")
     },
     {
         id: "premiership",
@@ -43,7 +44,7 @@ const leagueData = [
         title_jp: "プレミアシップ",
         color: "bg-[#FE5000]",
         accent: "text-[#FE5000]",
-        standings: (standingsData["premiership"] as any)?.standings || []
+        standings: getLeagueStandings(standingsData, "premiership")
     }
 ];
 ---

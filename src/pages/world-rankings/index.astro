@@ -1,7 +1,10 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import WorldRankingsComponent from "../../components/WorldRankings";
-import rankingsData from "../../../data/world_rankings.json";
+import { getWorldRankings } from "../../lib/worldRankings";
+
+// BFF経由でデータ取得。失敗時はキャッシュJSONにフォールバック。
+const rankingsData = await getWorldRankings();
 ---
 
 <Layout 

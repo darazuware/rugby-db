@@ -53,28 +53,30 @@ const StandingsWidget: React.FC<Props> = ({ leagueStandings }) => {
                                 <a
                                     key={team.slug || team.display_name}
                                     href={`/teams/${league.id}/${team.slug}`}
-                                    className="flex items-center justify-between p-4 rounded-3xl bg-foreground/[0.04] border border-border-dim/50 hover:bg-foreground/[0.08] hover:border-border-dim transition-all group/item shadow-sm relative z-10"
+                                    className="standings-row flex items-center justify-between p-4 rounded-3xl bg-foreground/[0.04] border border-border-dim/50 hover:bg-foreground/[0.08] hover:border-border-dim transition-all group/item shadow-sm relative z-10"
                                 >
                                     <div className="flex items-center gap-4">
                                         <span className={`w-8 h-8 flex items-center justify-center rounded-xl font-black text-sm ${idx === 0 ? 'bg-yellow-400 text-black shadow-lg shadow-yellow-400/20' : 'bg-background text-foreground/40'
                                             }`}>
                                             {idx + 1}
                                         </span>
-                                        <div className="flex flex-col">
-                                            <div className="flex items-center gap-2 mb-1">
+                                        <div className="flex flex-col gap-1">
+                                            <div className="flex items-center gap-2">
                                                 <span className="text-xl leading-none">{team.flag || '🇯🇵'}</span>
-                                                <span className="text-base font-black text-foreground tracking-tight leading-tight">
+                                                <span className="team-name text-base font-black text-foreground tracking-tight leading-tight">
                                                     {team.display_name}
                                                 </span>
                                             </div>
-                                            <span className="text-[10px] font-black text-foreground/40 uppercase tracking-widest">
-                                                {league.fullName.split(' ')[0]} CLUB
+                                            <span className="league-category text-[10px] font-black text-foreground/40 uppercase tracking-widest">
+                                                {league.fullName.split(' ')[0]}{' '}CLUB
                                             </span>
                                         </div>
                                     </div>
-                                    <div className="text-right ml-4">
-                                        <span className="block text-[10px] font-black text-foreground/40 uppercase leading-none mb-1">PTS</span>
-                                        <span className="text-2xl font-black text-foreground italic tracking-tighter tabular-nums leading-none">
+                                    <div className="points-wrapper text-right ml-4 flex flex-col items-end gap-1">
+                                        <span className="points-label block text-[10px] font-black text-foreground/40 uppercase leading-none">
+                                            PTS
+                                        </span>
+                                        <span className="points-value text-2xl font-black text-foreground italic tracking-tighter tabular-nums leading-none">
                                             {team.points && team.points !== '0' ? team.points : '-'}
                                         </span>
                                     </div>

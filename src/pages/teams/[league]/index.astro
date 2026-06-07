@@ -8,6 +8,7 @@ import AffiliateBanner from "../../../components/AffiliateBanner.astro";
 import { getCollection } from "astro:content";
 import teamsData from "../../../../data/teams.json";
 import standingsData from "../../../../data/standings.json";
+import { getLeagueStandings, type LeagueId } from "../../../lib/safeStandings";
 import resultsData from "../../../../data/results_2026.json";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
@@ -72,11 +73,10 @@ const filteredTeams = (teamsData as any[])
     });
 
 // 当該リーグの順位データと試合結果を取得
-const leagueData = (standingsData as any)[league as keyof typeof standingsData];
 const isTop14 = league === "top14";
 const isURC = league === "urc";
 
-const rawStandings = leagueData?.standings || [];
+const rawStandings = getLeagueStandings(standingsData, league as LeagueId);
 const fullResults = (resultsData as any)[league || ""] || [];
 const allResults = fullResults.map((r: any) => ({
     ...r,

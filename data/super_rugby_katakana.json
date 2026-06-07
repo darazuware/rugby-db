@@ -1,0 +1,3998 @@
+[
+  {
+    "name_en": "James SLIPPER",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ジェームズ・スリッパー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Blake SCHOUPP",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ブレイク・スコップ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Allan ALAALATOA",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "アラン・アラアラトア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nick FROST",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ニック・フロスト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rob VALETINI",
+    "position": "FL/No8",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ロブ・バレティーニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ryan LONERGAN",
+    "position": "SH",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ライアン・ロナーガン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tane EDMED",
+    "position": "SO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "タネ・エドメッド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Corey TOOLE",
+    "position": "WTB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "コーリー・トゥール",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom WRIGHT",
+    "position": "WTB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "トム・ライト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lington IELI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "リントン・イエリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rhys VAN NEK",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "リース・ファン・ネック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tevita ALATINI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "テビタ・アラティーニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Liam BOWRON",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "リアム・ボウロン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Billy POLLARD",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ビリー・ポラード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lachlan LONERGAN",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ラクラン・ロナーガン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lachie SHAW",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ラキー・ショー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cadeyrn NEVILLE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ケイダーン・ネビル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tuaina Taii TUALIMA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "トゥアイナ・タイ・トゥアリマ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harvey CORDUKES",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ハーヴェイ・コーデューク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rory SCOTT",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ロリー・スコット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Eli LANGI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "エリ・ランギ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Luke REIMER",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ルーク・ライマー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Toby MACPHERSON",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "トビー・マクファーソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Charlie CALE",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "チャーリー・ケール",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Klayton THORN",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "クレイトン・ソーン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dan NELSON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ダン・ネルソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Declan MEREDITH",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "デクラン・メレディス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Austin ANDERSON",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "オースティン・アンダーソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kadin PRITCHARD",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ケイディン・プリチャード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kye OATES",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "カイ・オーツ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jarrah MCLEOD",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ジャラ・マクラウド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hudson CREIGHTON",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "ハドソン・クレイトン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "David FELIUAI",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "デイビッド・フェリウアイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Andy MUIRHEAD",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "アンディ・ミューアヘッド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ollie SAPSFORD",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "act-brumbies",
+    "name_ja": "オリー・サプスフォード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jordan LAY",
+    "position": "PR",
+    "country": "S",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ジョーダン・レイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ofa TU'UNGAFASI",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "オファ・トゥウンガファシ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Patrick TUIPULOTU",
+    "position": "LO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "パトリック・トゥイプロトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hoskins SOTUTU",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ホスキンス・ソトゥトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dalton PAPALI'I",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ダルトン・パパリイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Finlay CHRISTIE",
+    "position": "SH",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "フィンレー・クリスティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Beauden BARRETT",
+    "position": "SO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ボーデン・バレット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Pita AHKI",
+    "position": "CTB",
+    "country": "T",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ピタ・アーキ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Caleb CLARKE",
+    "position": "WTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ケイレブ・クラーク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Marcel RENATA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "マーセル・レナタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh FUSITU'A",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ジョシュ・フシトゥア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ben AKE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ベン・エイク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sam MATENGA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "サム・マテンガ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mason TUPAEA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "メイソン・トゥパエア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Flyn YATES",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "フリン・イェーツ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Bradley SLATER",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ブラッドリー・スレーター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kurt EKLUND",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "カート・エクルンド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "James MULLAN",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ジェームズ・マラン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sam DARRY",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "サム・ダリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh BEEHRE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ジョシュ・ビーア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Laghlan MCWHANNELL",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ラクラン・マクウォーネル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tristyn COOK",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "トリスティン・クック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Malachi WRAMPLING-ALEC",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "マラカイ・ランプリング・アレック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cam CHRISTIE",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "カム・クリスティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Che CLARK",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "チェ・クラーク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Terrell PEITA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "テレル・ペイタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Torian BARNES",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "トリアン・バーンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Anton SEGNER",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "アントン・セグナー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Taufa FUNAKI",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "タウファ・フナキ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sam NOCK",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "サム・ノック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rico SIMPSON",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "リコ・シンプソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Stephen PEROFETA",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "スティーブン・ペロフェタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Corey EVANS",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "コーリー・エバンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "James CAMERON",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ジェームズ・キャメロン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavi TAELE",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "グザビ・タエレ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "AJ LAM",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "AJ・ラム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cody VAI",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "コーディ・ヴァイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kade BANKS",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ケイド・バンクス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cole FORBES",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "コール・フォーブス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Zarn SULLIVAN",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ザーン・サリバン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Payton SPENCER",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "blues",
+    "name_ja": "ペイトン・スペンサー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ollie NORRIS",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "オリー・ノリス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Samisoni TAUKEI'AHO",
+    "position": "HO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "サミソニ・タウケイアホ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tupou VAA'I",
+    "position": "LO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "トゥポウ・ヴァアイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Simon PARKER",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "サイモン・パーカー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Samipeni FINAU",
+    "position": "FL/No8",
+    "country": "T",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "サミペニ・フィナウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Luke JACOBSON",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ルーク・ジェイコブソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Wallace SITITI",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ウォレス・シティティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cortez RATIMA",
+    "position": "SH",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "コルテス・ラティマ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Te Toiroa TAHURIORANGI",
+    "position": "SH",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "テ・トイロア・タフリオランギ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Damian MCKENZIE",
+    "position": "SO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "デイミアン・マッケンジー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lalakai FOKETI",
+    "position": "CTB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ララカイ・フォケティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Emoni NARAWA",
+    "position": "WTB",
+    "country": "S",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "エモニ・ナラワ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kyren TAUMOEFOLAU",
+    "position": "WTB",
+    "country": "T",
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "カイレン・タウモエフォラウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Reuben O'NEILL",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ルーベン・オニール",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Benet KUMEROA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ベネット・クメロア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jared PROFFIT",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジャレッド・プロフィット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George DYER",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジョージ・ダイアー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sione AHIO",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "シオネ・アヒオ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tyrone THOMPSON",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "タイロン・トンプソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Brodie MCALISTER",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ブロディ・マカリスター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Taine KOLOSE",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "タイン・コロセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Naitoa AH KUOI",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ナイトア・アクオイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Fiti SA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "フィティ・サ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh LORD",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジョシュ・ロード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jayden SA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジェイデン・サ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Aisake VAKASIUOLA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "アイサケ・ヴァカシウオラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kaylum BOSHIER",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ケイラム・ボシアー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jahrome BROWN",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジャローム・ブラウン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavier ROE",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "グザビエ・ロー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh JACOMB",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ジョシュ・ジェイコム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kyle BROWN",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "カイル・ブラウン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Quinn TUPAEA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "クイン・トゥパエア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Daniel RONA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ダニエル・ロナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Liam COOMBES-FABLING",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "リアム・クームズ・フェイブリング",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Leroy CARTER",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "ルロイ・カーター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tepaea COOK-SAVAGE",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "テパエア・クック・サベージ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Etene NANAI-SETURO",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "エテネ・ナナイ・セトゥロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isaac HUTCHINSON",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "chiefs",
+    "name_ja": "アイザック・ハッチンソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Fletcher NEWELL",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "フレッチャー・ニュエル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tamaiti WILLIAMS",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "タマイティ・ウィリアムズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Codie TAYLOR",
+    "position": "HO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "コーディ・テイラー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cullen GRACE",
+    "position": "LO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "カレン・グレース",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Scott BARRETT",
+    "position": "LO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "スコット・バレット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Christian LIO-WILLIE",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "クリスチャン・リオ・ウィリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ethan BLACKADDER",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "イーサン・ブラックアダー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "David HAVILI",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "デイビッド・ハビリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Braydon ENNOR",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ブレイドン・エナー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Johnny MCNICHOLL",
+    "position": "WTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジョニー・マクニコル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sevu REECE",
+    "position": "WTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "セブ・リース",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Leicester FAINGA'ANUKU",
+    "position": "WTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "レスター・ファインガアヌク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will JORDAN",
+    "position": "FB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ウィル・ジョーダン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kershawl SYKES-MARTIN",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "カーショル・サイクス・マーティン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Finlay BREWIS",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "フィンレー・ブリューイス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Seb CALDER",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "セブ・コールダー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George BOWER",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジョージ・バウアー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Manumaua LETIU",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "マヌマウア・レティウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George BELL",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジョージ・ベル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jamie HANNAH",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジェイミー・ハンナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will TUCKER",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ウィル・タッカー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Liam JACK",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "リアム・ジャック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Antonio SHALFOON",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "アントニオ・シャルフーン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tahlor CAHILL",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "テイラー・キャヒル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dom GARDINER",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ドム・ガーディナー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Corey KELLOW",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "コーリー・ケロウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavier SAIFOLOI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "グザビエ・サイフォロイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Louie CHAPMAN",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ルイ・チャップマン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kyle PRESTON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "カイル・プレストン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Noah HOTHAM",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ノア・ホサム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rivez REIHANA",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "リベス・レイハナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Taha KEMARA",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "タハ・ケマラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "James WHITE",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジェームズ・ホワイト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Toby BELL",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "トビー・ベル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Aki TUIVAILALA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "アキ・トゥイヴァイララ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dallas MCLEOD",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ダラス・マクラウド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Chay FIHAKI",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "チェイ・フィハキ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Maloni KUNAWAVE",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "マロニ・クナウェーブ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Macca SPRINGER",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "マッカ・スプリンガー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kurtis MACDONALD",
+    "position": "Centre",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "カーティス・マクドナルド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cooper GRANT",
+    "position": "Fly-half",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "クーパー・グラント",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Johnny LEE",
+    "position": "Back row",
+    "country": null,
+    "caps": null,
+    "team_slug": "crusaders",
+    "name_ja": "ジョニー・リー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Peni RAVAI",
+    "position": "PR",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ペニ・ラバイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mesake DOGE",
+    "position": "PR",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "メサケ・ドゲ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Samu TAWAKE",
+    "position": "PR",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "サム・タワケ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mesulame DOLOKOTO",
+    "position": "HO",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "メスラメ・ドロコト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Zuriel TOGIATAMA",
+    "position": "HO",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ズリエル・トギアタマ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isoa NASILASILA",
+    "position": "LO",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イソア・ナシラシラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Temo MAYANAVANUA",
+    "position": "LO",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "テモ・マヤナヴァヌア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Vilive MIRAMIRA",
+    "position": "FL/No8",
+    "country": "S",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ビリヴェ・ミラミラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Frank LOMANI",
+    "position": "SH",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "フランク・ロマニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Issak FINES",
+    "position": "SH",
+    "country": "A",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イサク・ファインズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Virimi VAKATAWA",
+    "position": "CTB",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ビリミ・バカタワ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ilaisa DROASESE",
+    "position": "FB",
+    "country": "F",
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イライサ・ドロアセセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Meli TUNI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "メリ・トゥニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Haereiti HETET",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ハエレイティ・ヘテト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Emosi TUQIRI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "エモシ・トゥキリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Penaia CAKOBAU",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ペナイア・カコバウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mesake VOCEVOCE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "メサケ・ヴォセヴォセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Angelo SMITH",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "アンジェロ・スミス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Janeiro WAKEHAM",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ジャネイロ・ウェイクハム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Motikiai MURRAY",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "モティキアイ・マレー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kitione SALAWA JR",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "キティオネ・サラワ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Etonia WAQA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "エトニア・ワカ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Elia CANAKAIVATA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "エリア・カナカイバタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isoa TUWAI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イソア・トゥワイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joseva TAMANI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ジョセバ・タマニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Philip BASELALA",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "フィリップ・バセララ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Simi KURUVOLI",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "シミ・クルヴォリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kemu VALETINI",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ケム・バレティーニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isaiah ARMSTRONG-RAVULA",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イザイア・アームストロング・ラヴラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isikeli RABITU",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イシケリ・ラビトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Maika TUITUBOU",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "マイカ・トゥイトゥボウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Inia TABUAVOU",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イニア・タブアヴォウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tuidraki SAMUSAMUVODRE",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "トゥイドラキ・サムサムヴォドレ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joji NASOVA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ジョジ・ナソバ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Iosefo NAMOCE",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イオセフォ・ナモセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Taniela RAKURO",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "タニエラ・ラクロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isikeli BASIYALO",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "イシケリ・バシヤロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Manasa MATAELE",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "マナサ・マタエレ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ponipate LOGANIMASI",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "ポニパテ・ロガニマシ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Aisea NAWAI",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "アイセア・ナワイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Epeli MOMO",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "fijian-drua",
+    "name_ja": "エペリ・モモ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ethan DE GROOT",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "イーサン・デ・フロート",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Angus TA'AVAO",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "アンガス・タアバオ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tomas LAVANINI",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "トマス・ラバニーニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Timoci TAVATAVANAWAI",
+    "position": "CTB",
+    "country": "F",
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ティモシ・タバタバナワイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sefo KAUTAI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "セフォ・カウタイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Rohan WINGHAM",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ロハン・ウィンガム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Saula MA'U",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "サウラ・マウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dan LIENERT-BROWN",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ダン・リーナート・ブラウン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh BARTLETT",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジョシュ・バートレット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jack TAYLOR",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジャック・テイラー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Soane VIKENA",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ソアネ・ビケナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Henry BELL",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ヘンリー・ベル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mitch DUNSHEA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ミッチ・ダンシア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tai CRIBB",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "タイ・クリブ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will STODART",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ウィル・ストダート",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nikora BROUGHTON",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ニコラ・ブロートン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "TK HOWDEN",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "TK・ハウデン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sean WITHY",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ショーン・ウィジー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Oliver HAIG",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "オリバー・ヘイグ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lucas CASEY",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ルーカス・ケイシー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hugh RENTON",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ヒュー・レントン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Veveni LASAQA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ヴェヴェニ・ラサカ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dylan PLEDGER",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ディラン・プレジャー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Folau FAKATAVA",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "フォラウ・ファカタバ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Reesjan PASITOA",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "リースヤン・パシトア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cameron MILLAR",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "キャメロン・ミラー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Adam LENNOX",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "アダム・レノックス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Taine ROBINSON",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "タイン・ロビンソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh WHAANGA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジョシュ・ファンガ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tanielu TELE'A",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "タニエル・テレア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jake TE HIWI",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジェイク・テ・ヒウィ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jacob RATUMAITAVUKI-KNEEPKENS",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジェイコブ・ラトゥマイタブキ・ネプキンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Caleb TANGITAU",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ケイレブ・タンギタウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jonah LOWE",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジョナ・ロウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Stanley SOLOMON",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "スタンリー・ソロモン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jona NAREKI",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "ジョナ・ナレキ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Andrew KNEWSTUBB",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "アンドリュー・ニュースタブ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Finn HURLEY",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "フィン・ハーレー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavier TITO-HARRIS",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "highlanders",
+    "name_ja": "グザビエ・ティト・ハリス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tyrel LOMAX",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "タイレル・ロマックス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Pasilio TOSI",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "パシリオ・トシ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Asafo AUMUA",
+    "position": "HO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "アサフォ・アウムア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Warner DEARNS",
+    "position": "LO",
+    "country": "J",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ウォーナー・ディアンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Du'Plessis KIRIFI",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "デュプレシス・キリフィ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Brad SHIELDS",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ブラッド・シールズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Peter LAKAI",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ピーター・ラカイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ere ENARI",
+    "position": "SH",
+    "country": "S",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "エレ・エナリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Cam ROIGARD",
+    "position": "SH",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "カム・ロワガード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Brett CAMERON",
+    "position": "SO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ブレット・キャメロン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Billy PROCTOR",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ビリー・プロクター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jordie BARRETT",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ジョーディ・バレット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Siale LAUAKI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "シアレ・ラウアキ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tevita MAFILEO",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "テビタ・マフィレオ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavier NUMIA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "グザビエ・ヌミア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Pouri RAKETE-STONES",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "プーリ・ラケテ・ストーンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Vernon BASON",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ヴァーノン・ベイソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jacob DEVERY",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ジェイコブ・デブリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Raymond TUPUTUPU",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "レイモンド・トゥプトゥプ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom ALLEN",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "トム・アレン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hugo PLUMMER",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ヒューゴ・プラマー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Caleb DELANY",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ケイレブ・デレーニー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isaia WALKER-LEAWERE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "イサイア・ウォーカー・レアウェレ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Devan FLANDERS",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "デバン・フランダーズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Arese POLIKO",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "アレセ・ポリコ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Brayden IOSE",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ブレイデン・イオセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Matolu PETAIA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "マトル・ペタイア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jordi VILJOEN",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ヨルディ・ビルヨーン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lucas CASHMORE",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ルーカス・キャッシュモア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Callum HARKIN",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "カラム・ハーキン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harry GODFREY",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ハリー・ゴッドフリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Fehi FINEANGANOFO",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "フェヒ・フィネアンガノフォ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh TIMU",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ジョシュ・ティム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Bailyn SULLIVAN",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ベイリン・サリバン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Riley HIGGINS",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ライリー・ヒギンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jone ROVA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ジョネ・ロバ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kini NAHOLO",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "キニ・ナホロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ngane PUNIVAI",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ンガネ・プニバイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ruben LOVE",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ルーベン・ラブ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joshua MOORBY",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "hurricanes",
+    "name_ja": "ジョシュア・ムービー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Paula LATU",
+    "position": "PR",
+    "country": "T",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "パウラ・ラトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sam MOLI",
+    "position": "HO",
+    "country": "T",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "サム・モリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Veikoso POLONIATI",
+    "position": "LO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ヴェイコソ・ポロニアティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Miracle FAI'ILAGI",
+    "position": "FL/No8",
+    "country": "S",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ミラクル・ファイラギ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Semisi PAEA",
+    "position": "FL/No8",
+    "country": "T",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "セミシ・パエア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Niko JONES",
+    "position": "FL/No8",
+    "country": "N",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ニコ・ジョーンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tupou MA'AFU-AFUNGIA",
+    "position": "FL/No8",
+    "country": "T",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "トゥポウ・マアフ・アフンギア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Augustine PULU",
+    "position": "SH",
+    "country": "T",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "オーガスティン・プル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Melani MATAVAO",
+    "position": "SH",
+    "country": "S",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "メラニ・マタバオ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jonathan TAUMATEINE",
+    "position": "SH",
+    "country": "S",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ジョナサン・タウマテイン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Pat PELLEGRINI",
+    "position": "SO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "パット・ペレグリーニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Julian SAVEA",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ジュリアン・サベア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ngani LAUMAPE",
+    "position": "CTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ンガニ・ラウマペ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Simon-Peter TOLEAFOA",
+    "position": "FB",
+    "country": "S",
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "サイモン・ピーター・トレアフォア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lolani FALEIVA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ロラニ・ファレイバ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Abraham POLE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "アブラハム・ポール",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Malakai HALA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "マラカイ・ハラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Feleti SAE-TA'UFO'OU",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "フェレティ・サエタウフォオウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Chris APOUA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "クリス・アポウア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tito TUIPULOTU",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ティト・トゥイプロトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mamoru HARADA",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "原田衛",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mills SANERIVI",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ミルズ・サネリビ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Allan CRAIG",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "アラン・クレイグ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ofa TAUATEVALU",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "オファ・タウアテバル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom SAVAGE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "トム・サベージ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jimmy TUPOU",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ジミー・トゥポウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ale AHO",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "アレ・アホ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sam TUITUPOU",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "サム・トゥイトゥポウ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dominic ROPETI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ドミニク・ロペティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ola TAUELANGI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "オラ・タウエランギ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Semisi TUPOU TA'EILOA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "セミシ・トゥポウ・タエイロア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Konrad TOLEAFOA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "コンラッド・トレアフォア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Siaosi NGININGINI",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "シアオシ・ンギニンギニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jackson GARDEN-BACHOP",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ジャクソン・ガーデン・バショップ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tevita LATU",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "テビタ・ラトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Solomon ALAIMALO",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ソロモン・アライマロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lalomilo LALOMILO",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ラロミロ・ラロミロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Faletoi PENI",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ファレトイ・ペニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tevita OFA",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "テビタ・オファ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Israel LEOTA",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "イスラエル・レオタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tuna TUITAMA",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "トゥナ・トゥイタマ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Denzel SAMOA",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "デンゼル・サモア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Glen VAIHU",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "グレン・バイフ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Willy HAVILI",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "moana-pasifika",
+    "name_ja": "ウィリー・ハビリ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isaac AEDO KAILEA",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アイザック・アエド・カイレア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Folau FAINGA'A",
+    "position": "HO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "フォラウ・ファインガア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Angus BLYTH",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アンガス・ブライス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Matt PHILIP",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "マット・フィリップ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Pete SAMU",
+    "position": "FL/No8",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ピート・サム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jake GORDON",
+    "position": "SH",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジェイク・ゴードン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joseph SUA'ALI'I",
+    "position": "CTB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジョセフ・スアアリイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Andrew KELLAWAY",
+    "position": "WTB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アンドリュー・ケラウェイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Max JORGENSEN",
+    "position": "FB",
+    "country": "S",
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "マックス・ヨーゲンセン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will GODDARD",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ウィル・ゴダード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Daniel BOTHA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ダニエル・ボサ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jack BARRETT",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジャック・バレット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom LAMBERT",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "トム・ランバート",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sifa AMONE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "シファ・アモネ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Apolosi RANAWAI",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アポロシ・ラナワイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ioane MOANANU",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "イオアネ・モアナヌ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ethan DOBBINS",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "イーサン・ドビンズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Miles AMATOSERO",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "マイルズ・アマトセロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Eamon DOYLE",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "エアモン・ドイル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Clem HALAHOLO",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "クレム・ハラホロ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ben GRANT",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ベン・グラント",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lachlan HOOPER",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ラクラン・フーパー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Austin DURBIDGE",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "オースティン・ダービッジ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jamie ADAMSON",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジェイミー・アダムソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Leafi TALATAINA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "レアフィ・タラタイナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Angus SCOTT-YOUNG",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アンガス・スコット・ヤング",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Charlie GAMBLE",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "チャーリー・ギャンブル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Michael MCDONALD",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "マイケル・マクドナルド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Teddy WILSON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "テディ・ウィルソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Angus GROVER",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アンガス・グローバー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lawson CREIGHTON",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ローソン・クレイトン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jack BOWEN",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジャック・ボウエン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jack DEBRECZENI",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジャック・デブレゼニ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joey WALTON",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジョーイ・ウォルトン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George POOLMAN",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジョージ・プールマン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Leo JAQUES",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "レオ・ジャックス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Triston REILLY",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "トリストン・ライリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harry POTTER",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ハリー・ポッター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Archie SAUNDERS",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "アーチー・サンダーズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sid HARVEY",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "シッド・ハーヴェイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "James HENDREN",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "nsw-waratahs",
+    "name_ja": "ジェームズ・ヘンドレン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jeffery TOOMAGA-ALLEN",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジェフリー・トゥマガ・アレン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Aidan ROSS",
+    "position": "PR",
+    "country": "N",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "エイダン・ロス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Zane NONGGORR",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ゼイン・ノングガー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Matt FAESSLER",
+    "position": "HO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "マット・フェスラー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lukhan SALAKAIA-LOTO",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ルカン・サラカイア・ロト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Fraser MCREIGHT",
+    "position": "FL/No8",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "フレイザー・マクライト",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harry WILSON",
+    "position": "FL/No8",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ハリー・ウィルソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tate MCDERMOTT",
+    "position": "SH",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "テイト・マクダーモット",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Carter GORDON",
+    "position": "SO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "カーター・ゴードン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ben VOLAVOLA",
+    "position": "SO",
+    "country": "F",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ベン・ヴォラヴォラ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hunter PAISAMI",
+    "position": "CTB",
+    "country": "S",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ハンター・パイサミ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Filipo DAUGUNU",
+    "position": "WTB",
+    "country": "F",
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "フィリポ・ダウグヌ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Trevor KING",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "トレバー・キング",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George BLAKE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョージ・ブレイク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nick BLOOMFIELD",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ニック・ブルームフィールド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Massimo DE LUTIIS",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "マッシモ・デ・ルティス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh NASSER",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョシュ・ナッサー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Richie ASIATA",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "リッチー・アシアタ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh CANHAM",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョシュ・キャナム",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hamish MULLER",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ハミッシュ・ミュラー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "John BRYANT",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョン・ブライアント",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Seru URU",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "セル・ウル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Vaiuta LATU",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ヴァイウタ・ラトゥ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Joe BRIAL",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョー・ブリアル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "James MARTENS",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジェームズ・マーテンス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Louis WERCHON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ルイ・ウェルション",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kalani THOMAS",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "カラニ・トーマス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom LYNAGH",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "トム・リナー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harry MCLAUGHLIN-PHILLIPS",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ハリー・マクラフリン・フィリップス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Finn MACKAY",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "フィン・マッカイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Isaac HENRY",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "アイザック・ヘンリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Frankie GOLDSBROUGH",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "フランキー・ゴールズブロー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh FLOOK",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョシュ・フルーク",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Xavier RUBENS",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "グザビエ・ルーベンス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dre PAKEHO",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ドレ・パケホ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will MCCULLOCH",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ウィル・マカロック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Heremaia MURRAY",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ヘレマイア・マレー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nick CONWAY",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ニック・コンウェイ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lachie ANDERSON",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ラキー・アンダーソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tim RYAN",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ティム・ライアン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nic LYNAGH",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ニック・リナー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jock CAMPBELL",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "ジョック・キャンベル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Treyvon PRITCHARD",
+    "position": "FB",
+    "country": null,
+    "caps": null,
+    "team_slug": "queensland-reds",
+    "name_ja": "トレイボン・プリチャード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Feao FOTUAIKA",
+    "position": "PR",
+    "country": "T",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "フェアオ・フォトゥアイカ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Tom ROBERTSON",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "トム・ロバートソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Harry JOHNSON-HOLMES",
+    "position": "PR",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ハリー・ジョンソン・ホームズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nic DOLLY",
+    "position": "HO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ニック・ドリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Brandon PAENGA-AMOSA",
+    "position": "HO",
+    "country": "N",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ブランドン・ペンガ・アモサ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Darcy SWAIN",
+    "position": "LO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ダーシー・スウェイン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Carlo TIZZANO",
+    "position": "FL/No8",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "カルロ・ティッツァーノ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ben DONALDSON",
+    "position": "SO",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ベン・ドナルドソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "George BRIDGE",
+    "position": "WTB",
+    "country": "N",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ジョージ・ブリッジ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kurtley BEALE",
+    "position": "FB",
+    "country": "A",
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "カートリー・ビール",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Josh SMITH",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ジョシュ・スミス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Marley PEARCE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "マーリー・ピアース",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Misinale EPENISA",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ミシナレ・エペニサ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Sef FA'AGASE",
+    "position": "PR",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "セフ・ファアガセ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Albert ALCOCK",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "アルバート・アルコック",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Leonel OVIEDO",
+    "position": "HO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "レオネル・オビエド",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Lopeti FAIFUA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ロペティ・ファイフア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jeremy WILLIAMS",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ジェレミー・ウィリアムズ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Franco MOLINA",
+    "position": "LO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "フランコ・モリーナ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Vaiolini EKUASI",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ヴァイオリニ・エクアシ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nick CHAMPION DE CRESPIGNY",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ニック・シャンピオン・ド・クレスピニー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Jack DALY",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ジャック・デイリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Kane KOTEKA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ケイン・コテカ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Will HARRIS",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ウィル・ハリス",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Titi NOFOAGATOTOA",
+    "position": "FL/No8",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ティティ・ノフォアガトトア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Nathan HASTIE",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ネイサン・ヘイスティ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Doug PHILIPSON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ダグ・フィリプソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Henry ROBERTSON",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ヘンリー・ロバートソン",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Agustin MOYANO",
+    "position": "SH",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "アグスティン・モヤノ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Max BUREY",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "マックス・ビューリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Alex HARFORD",
+    "position": "SO",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "アレックス・ハーフォード",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Bayley KUENZLE",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ベイリー・クエンズル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Hamish STEWART",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ハミッシュ・スチュワート",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Boston FAKAFANUA",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ボストン・ファカファヌア",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Divad PALU",
+    "position": "CTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ディバッド・パル",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Dylan PIETSCH",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ディラン・ピーチ",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Ronan LEAHY",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ロナン・レイヒー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Mac GREALY",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "マック・グレイリー",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Darby LANCASTER",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ダービー・ランカスター",
+    "katakana_status": "mapped"
+  },
+  {
+    "name_en": "Henry PALMER",
+    "position": "WTB",
+    "country": null,
+    "caps": null,
+    "team_slug": "western-force",
+    "name_ja": "ヘンリー・パーマー",
+    "katakana_status": "mapped"
+  }
+]

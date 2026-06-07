@@ -1,0 +1,16 @@
+scripts/
+data_sources/
+data/unified_player_database_final.json
+data/allrugby_player_stats.json
+data/missing_nationality_report.txt
+data/top14_players_enriched.json
+data/urc_rounds_debug.json
+data/top14_scraping_results.json
+data/player_redirects.htaccess
+data/live_player_data.json
+.github/
+dev_log*.txt
+_anticrow
+dispatch_issue.py
+dispatch-issue.sh
+gemini.md

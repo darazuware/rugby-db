@@ -9,14 +9,16 @@ interface Props {
 	sidebarType?: "default" | "results";
 	activeLeague?: string;
 	activeRound?: number | "all";
+	lastmod?: string; // ISO 8601 date string, e.g. "2026-04-19"
 }
 
 const {
 	title,
-	description = "RUGBY PICKS（ラグビーピックス）は、世界中のラグビー選手情報を爆速で検索できる日本最大級の名鑑データベースです。リーグワン、TOP 14、SUPER RUGBY、URCの全選手を網羅。年齢・身長・体重等でのソートも可能。",
+	description = "RUGBY PICKS（ラグビーピックス）は、世界中のラグビー選手情報をリアルタイム検索できる日本最大級の名鑑データベースです。リーグワン、TOP 14、SUPER RUGBY、URCの全選手を網羅。年齢・身長・体重等でのソートも可能。",
 	sidebarType = "default",
 	activeLeague,
-	activeRound
+	activeRound,
+	lastmod,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -32,6 +34,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 		<title>{title}</title>
 		<meta name="description" content={description} />
 		<link rel="canonical" href={canonicalURL} />
+		{lastmod && <meta property="article:modified_time" content={lastmod} />}
 
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website" />
@@ -153,12 +156,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 						class="text-foreground hover:text-yellow-400 transition-colors border-b-2 border-transparent hover:border-yellow-400 pb-0.5 whitespace-nowrap flex-shrink-0"
 						>ニュース</a
 					>
-					<a
-						href="/dream-team"
-						class="text-yellow-400 hover:text-yellow-300 transition-colors border-b-2 border-yellow-400 hover:border-yellow-300 pb-0.5 whitespace-nowrap flex-shrink-0"
-						>ドリームチーム作成</a
-					>
-					<div class="hidden xs:block flex-shrink-0 ml-1">
+										<div class="hidden xs:block flex-shrink-0 ml-1">
 						<ThemeToggle client:load />
 					</div>
 				</div>

@@ -1,0 +1,59 @@
+name: Scrape & Deploy
+
+on:
+  schedule:
+    # JST: 14:30, 16:30, 18:30, 20:30, 22:30, 00:30 on Sat/Sun
+    - cron: '30 5,7,9,11,13,15 * * 6,0'
+    # JST: 06:00, 12:00, 18:00 on Mon-Fri
+    - cron: '0 21,3,9 * * 0-4'
+    # 月曜 00:00 UTC: 週末試合を確実に反映
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  scrape-validate-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Scrape Match Results
+        run: |
+          python3 scripts/scrape_leagueone_results.py || true
+          python3 scripts/scrape_sr_results.py || true
+          python3 scripts/scrape_top14_results.py || true
+
+      - name: Scrape Standings
+        run: python3 scripts/scrape_standings.py
+
+      - name: Validate Standings JSON
+        run: node scripts/validate_standings.mjs --warn
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.json
+          git commit -m "chore: auto-update data $(date +'%Y-%m-%d %H:%M JST')" || exit 0
+          git push

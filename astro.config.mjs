@@ -11,7 +11,15 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: "https://rugbypick.com",
   output: 'server',
-  integrations: [react(), sitemap()],
+  integrations: [
+    react(),
+    sitemap({
+      changefreq: 'daily',
+      priority: 0.7,
+      lastmod: new Date(),
+      filter: (page) => !page.includes('/api/'),
+    }),
+  ],
   adapter: vercel({
     webAnalytics: {
       enabled: true,
