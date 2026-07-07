@@ -25,3 +25,4 @@ node_modules/
 node_modules/
 .vercel
 .github_token
+__pycache__/
