@@ -56,9 +56,13 @@ data/
     { "team": "NEC Green Rockets", "from": 2017, "to": 2020, "source_url": "..." }
   ],
   "season_stats": { "season": "2025-26", "matches": 5, "tries": 0, "points": 0 },
-  "education": { "high_school": "國學院久我山高校", "university": "明治大学" },
+  "education": [
+    { "school_id": null, "name_raw": "明治大学", "type": "univ", "grad_year": null, "source_url": "...", "scraped_at": "..." }
+  ],
   "instagram": null,
-  "is_featured": false
+  "is_featured": false,
+  "is_minor": false,
+  "merged_from": []
 }
 ```
 
@@ -69,6 +73,14 @@ data/
 - **caps / career は取得できたソースの値のみ**。all.rugby の career_path、league-one.jp の代表歴欄以外から作らない。
 - 数値は数値型（既存データは "186" のような文字列が混在。変換すること）。
 - 日付は `YYYY-MM-DD`。パースできない場合は null。
+- **education は配列**（10のユース設計と同一形式。P1移行時点では出身校名を `name_raw` に入れ `school_id: null`。school_id は P5-1 の schools.json 構築時に正規化して埋める）。`type` は `hs`|`univ`。テンプレ生成(04)は type で高校/大学を判定する。
+- **is_minor**: 高校生など未成年レコードは true。true のときサイト生成側でフィールド制限を強制（10）。リーグワン/代表の成人選手は false。
+
+## 人物同一性（同一選手の重複防止）★P1から必須
+- 日本代表選手はほぼ全員リーグワン所属のため、`league-one-*.json`（`lo_` ID）と `national.json`（`ar_` ID）に**同一人物が別IDで入る**。放置すると /players/[slug] が同一選手ページを2枚生成する（03のdup_personはリーグ内チェックのため検出しない）。
+- **canonical_id 方式**: 別ソースの同一人物を検出したら、片方（原則リーグ所属の `lo_` 側）を canonical とし、もう片方の `id` を canonical の `merged_from[]` に追加、重複レコード自体は master から除外する。
+- 自動突合は候補提示まで（キー = `name_en` 正規化 + `birthdate` 一致、birthdate欠損時は `name_ja`+チーム）。**確定は `data/manual/player_merges.json`**（`{"ar_12345": "lo_483678"}` = 重複ID→canonical）に人が記録。pipeline は突合候補を `_meta/merge_candidates.json` に出力するのみ。
+- national.json はスコッド事実（キャップ等）を保持するため、選手の代表情報（caps/national squad）は canonical レコードにマージして反映する。
 
 ## Team スキーマ
 ```json
@@ -83,9 +95,11 @@ data/
   "founded": null,
   "colors": { "primary": "#123456" },
   "official_url": "...",
+  "roster_mode": "full",
   "roster_ids": ["lo_483678", "..."]
 }
 ```
+`roster_mode`: `full`（全スコッド収集）| `partial`（00でチーム＋一部選手のみと定義した urc/premiership/nrl 等）。partial は 03 の roster_sym 検証を免除。
 
 ## Match スキーマ
 ```json
@@ -110,5 +124,11 @@ data/
 ```
 
 ## 既存データからの移行
-- `data/unified_player_database_final.json`（6018件）が最良の出発点。これを新スキーマに変換して初期 master を作る（09のタスクP1-4）。
+- `data/unified_player_database_final.json`（6018件）が最良の出発点。これを新スキーマに変換して初期 master を作る（09のタスクP1-4）。内訳: all.rugby由来 4040 / league_one 1375 / top_14 603。
 - 変換で値が欠ける・矛盾する場合は null にして `data/master/_meta/migration_report.md` に件数を記録。**補完しない。**
+- **旧slug→新slugの記録は P1-4 の責務**: 移行時に旧レコードの slug と新 slug の対応を `data/master/_meta/redirects.json`（`{"old-slug": "new-slug"}`）へ書き出す。`_meta/` は pipeline 配下なので移行スクリプトが書いてよい。P2-4 はこれを読むだけ。
+- **レガシーカテゴリの行き先**: 既存 `src/content/players/` は pro / top-east / top-kyushu / top-west-a〜c / university / high-school に分かれる。移行時のリーグ判定:
+  - `source` が league_one/top_14/all.rugby のものは新リーグキーへ。
+  - top-east/kyushu/west 系（旧トップリーグ地域、約514件）は現行リーグに実体が無い。**master には入れず** `data/legacy/` 据え置き、該当URLは redirects.json で `/players/`（一覧）へ集約するか 410 とする（P2-4で決定、SEO実害の小さい方）。ダミーで新リーグに割り当てない。
+  - high-school / university の**個別ページ（計7件）は 10 のポリシー（高校生の個別ページ禁止）に反するため master 化しない**。学校ページ移行(P5)まで redirects で退避。
+- national の試合日程は例外的に `matches/national_{year}.json`（`{league}_{season}` 命名の例外。season がリーグ戦と異なり暦年管理のため）。

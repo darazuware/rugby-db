@@ -16,7 +16,9 @@
 | `/news/...` | 既存 content/news + 05の自動生成ニュース | |
 
 - `src/lib/master.ts` を新設: master JSON の読み込み・リーグ結合・slug索引を一元化。各ページはこれ経由でのみデータ取得。
-- 旧URL（既存 `src/content/players/` のslug）→ 新slug のリダイレクトを `_meta/redirects.json` から vercel.json の redirects に生成するスクリプトを作る（SEO維持。最大1000件超なら Astro 側で410/リダイレクトページ生成に切替）。
+  - **人物重複のマージを master.ts で吸収**: `player_merges.json` を読み、`merged_from` に含まれる id / merges で解決済みの重複 id は getStaticPaths から除外し、canonical レコードに代表情報を統合してから1ページだけ生成する。これをやらないと日本代表選手が lo_ と ar_ で2ページできる（01の人物同一性）。
+- 旧URL → 新slug のリダイレクト。**旧slugは約4,953件で vercel.json redirects の上限(1024)を大きく超えるため、Astro 側を主方式にする**: `_meta/redirects.json` を読み、旧slugのルートで301を返す動的ルート（or `getStaticPaths` で旧slugページを生成し `Astro.redirect`）を作る。vercel.json には使わない。
+  - 注意: 新slugは id接尾（`-lo483678`）が付き旧slugと必ず変わる。全URLが変わるため redirects.json の網羅性が SEO維持の生命線。移行(P1-4)で1件も取りこぼさないこと。
 
 ## 選手ページの本文（テンプレ生成文）
 自由記述禁止。以下のテンプレに JSON 値を埋める関数を `src/lib/playerText.ts` に実装。値が null の文は**丸ごと出さない**。
@@ -26,7 +28,7 @@
 {birthdate}生まれ{age}歳、{height_cm}cm・{weight_kg}kg。
 [caps有] {caps.team}代表キャップ{caps.count}。
 [league_caps有] リーグワン通算{league_caps}キャップ。
-[education有] {university}出身。
+[education有] {education で type=="univ" の name}出身。 ※education は配列(01)。type=="univ" の要素を選ぶ。is_minor=true の選手は 10 のポリシーでこの文自体を出さない。
 [career有] これまで{career各チーム名の列挙}でプレー。
 [season_stats有] {season}シーズンは{matches}試合出場、{tries}トライ。
 ```

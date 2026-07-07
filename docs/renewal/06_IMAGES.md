@@ -5,7 +5,7 @@
 - 表示は次の優先順: ① Instagram公式埋め込み → ② AIイラスト → ③ イニシャル入りプレースホルダーSVG
 
 ## ① Instagram埋め込み（is_featured 選手のみ）
-- `data/manual/instagram_accounts.json`: `{"player_id": "instagram_username"}` を人間が登録（AIがWeb検索でアカウントを推定して登録することは**禁止**。別人アカウント掲載は事故になるため、候補リスト提示までにとどめる）
+- `data/manual/instagram_accounts.json`: `{"player_id": {"username": "...", "post_url": "..."}}` を人間が登録（AIがWeb検索でアカウントを推定して登録することは**禁止**。別人アカウント掲載は事故になるため、候補リスト提示までにとどめる）
 - 表示は Instagram 公式の埋め込み（blockquote + embed.js）。プロフィールではなく本人の代表的な投稿URLを1件登録する形式にする（`{"player_id": {"username": "...", "post_url": "..."}}`）
 - 埋め込みスクリプトは選手ページでのみ遅延読み込み（パフォーマンス対策）
 
@@ -21,5 +21,5 @@
 - 名前イニシャル＋チームカラーのSVGを `src/components/PlayerAvatar.astro` で動的生成。追加アセット不要。全選手のデフォルト。
 
 ## 完了条件
-- PlayerAvatar が ③→②→① の順にフォールバックする（ファイル/登録の存在で自動判定）
+- PlayerAvatar が ①Instagram→②イラスト→③プレースホルダー の優先順で判定し、上位が無ければ下位へフォールバックする（ファイル/登録の存在で自動判定）
 - featured選手1名でInstagram埋め込みが表示されるサンプルを確認

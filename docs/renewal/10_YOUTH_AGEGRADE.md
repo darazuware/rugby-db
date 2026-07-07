@@ -42,6 +42,7 @@
 - 削除依頼はメールフォーム経由で即時対応（04のフッターに窓口明記）。
 
 ## データ設計（01の拡張）
+> **01との整合（済）**: education 配列・is_minor は 01 のPlayerスキーマに既にベースラインとして採用済み。P1移行時点で `name_raw`＋`school_id:null` で入り、school_id は本フェーズ(P5-1)で埋める。よって P5 で選手スキーマの破壊的変更は発生しない。team_id=null（学校/代表のみ所属）は 03 の条件付き必須で許可済み。
 - `data/master/players/` に追加:
   - `sevens-national.json`（男女。`squad: "sevens_m" | "sevens_w"`）
   - `age-grade.json`（`squad: "u17"|"u18"|"u19"|"u20"|"u23"`）

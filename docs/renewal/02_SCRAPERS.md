@@ -63,5 +63,5 @@ python3 -m pipeline.run --league top14
 
 ## 完了条件（このフェーズのDone）
 - `python3 -m pipeline.run --all --dry-run` がエラーなく完走し、各リーグの取得件数が表示される
-- リーグワンD1-D3合計で選手4000件以上、Top14で500件以上、Super Rugbyで400件以上取得できる
+- リーグワン全D合計で選手1200件以上、Top14で500件以上、Super Rugbyで400件以上取得できる
 - master の全レコードが pydantic 検証を通る
