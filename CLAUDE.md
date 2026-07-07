@@ -18,3 +18,8 @@
 - ファイル読み込みは必要最小限の範囲のみ
 - 検索は1回で完結させる
 - 並列実行できるツールは必ず並列で呼ぶ
+
+## 大幅刷新（2026-07）
+- 実装前に docs/renewal/00_MASTER_PLAN.md と docs/renewal/09_TASKS.md の担当タスクを読む
+- data/master/ は pipeline/ 以外から書き換え禁止
+- 選手・チーム・試合の事実をAIの知識で書かない（docs/renewal/03_VALIDATION.md）
