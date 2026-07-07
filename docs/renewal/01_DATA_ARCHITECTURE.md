@@ -25,6 +25,11 @@ data/
     kana_overrides.json    # 外国人名カタカナ表記の確定表
     instagram_accounts.json
     team_names_jp.json     # 既存 data/team_names_jp.json を移動
+    player_merges.json     # 同一人物の確定マージ（重複ID→canonical。03/04で使用）
+    caps_corrections.json  # キャップ誤記の手動訂正（03の caps_monotonic 免除）
+    venue_areas.json       # 会場→エリア（07・P4-2で作成）
+    school_aliases.json    # 学校名の表記ゆれ吸収（P5-1で作成）
+    hs_target_schools.json # 高校収集対象校リスト（P5-6で作成）
   legacy/                  # 既存の data/*.json を全部ここへ退避（08参照）
 ```
 
