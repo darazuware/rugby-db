@@ -33,7 +33,7 @@ jobs:
           node-version: '20'
 
       - name: Install Python dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pydantic
 
       - name: Install Node dependencies
         run: npm ci
