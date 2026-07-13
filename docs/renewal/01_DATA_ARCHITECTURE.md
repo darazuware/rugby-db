@@ -30,6 +30,7 @@ data/
     venue_areas.json       # 会場→エリア（07・P4-2で作成）
     school_aliases.json    # 学校名の表記ゆれ吸収（P5-1で作成）
     hs_target_schools.json # 高校収集対象校リスト（P5-6で作成）
+    rwc2027.json           # RWC2027大会情報（日程/プール/会場。出典付き、/rwc2027 ページのSSOT）
   legacy/                  # 既存の data/*.json を全部ここへ退避（08参照）
 ```
 

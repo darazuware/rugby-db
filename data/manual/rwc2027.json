@@ -1,0 +1,48 @@
+{
+  "source_url": "https://en.wikipedia.org/wiki/2027_Men%27s_Rugby_World_Cup",
+  "source_url_secondary": "https://www.rugbyworldcup.com/2027/en/pools",
+  "scraped_at": "2026-07-13",
+  "tournament": {
+    "name_ja": "ラグビーワールドカップ2027 オーストラリア大会",
+    "name_en": "Rugby World Cup 2027",
+    "host_country_ja": "オーストラリア",
+    "start_date": "2027-10-01",
+    "end_date": "2027-11-13",
+    "teams": 24,
+    "matches": 52,
+    "format_ja": "24チームが4チームずつ6プールに分かれ、各プール上位2チームと3位のうち成績上位4チームが決勝トーナメント（ラウンド16）へ進出",
+    "opening_match_ja": "オーストラリア vs 香港（10月1日・パーススタジアム）",
+    "final_ja": "決勝は11月13日・スタジアム・オーストラリア（シドニー）"
+  },
+  "pools": {
+    "A": ["ニュージーランド", "オーストラリア", "香港", "チリ"],
+    "B": ["南アフリカ", "イタリア", "ジョージア", "ルーマニア"],
+    "C": ["アルゼンチン", "フィジー", "スペイン", "カナダ"],
+    "D": ["アイルランド", "スコットランド", "ウルグアイ", "ポルトガル"],
+    "E": ["フランス", "日本", "アメリカ", "サモア"],
+    "F": ["イングランド", "ウェールズ", "トンガ", "ジンバブエ"]
+  },
+  "japan_pool": "E",
+  "japan_matches": [
+    { "date": "2027-10-03", "opponent_ja": "サモア", "venue_ja": "ニューカッスル・スタジアム", "city_ja": "ニューカッスル" },
+    { "date": "2027-10-09", "opponent_ja": "フランス", "venue_ja": "ブリスベン・スタジアム", "city_ja": "ブリスベン" },
+    { "date": "2027-10-15", "opponent_ja": "アメリカ", "venue_ja": "アデレード・オーバル", "city_ja": "アデレード" }
+  ],
+  "knockout": [
+    { "round_ja": "ラウンド16", "dates_ja": "10月23日〜24日" },
+    { "round_ja": "準々決勝", "dates_ja": "10月30日〜31日" },
+    { "round_ja": "準決勝", "dates_ja": "11月5日〜6日" },
+    { "round_ja": "3位決定戦", "dates_ja": "11月12日" },
+    { "round_ja": "決勝", "dates_ja": "11月13日" }
+  ],
+  "venues": [
+    { "city_ja": "シドニー", "stadium_ja": "スタジアム・オーストラリア", "capacity": 82000 },
+    { "city_ja": "シドニー", "stadium_ja": "シドニー・フットボール・スタジアム", "capacity": 42500 },
+    { "city_ja": "パース", "stadium_ja": "パース・スタジアム", "capacity": 65000 },
+    { "city_ja": "アデレード", "stadium_ja": "アデレード・オーバル", "capacity": 53500 },
+    { "city_ja": "メルボルン", "stadium_ja": "ドックランズ・スタジアム", "capacity": 53000 },
+    { "city_ja": "ブリスベン", "stadium_ja": "ブリスベン・スタジアム", "capacity": 52500 },
+    { "city_ja": "ニューカッスル", "stadium_ja": "ニューカッスル・スタジアム", "capacity": 33000 },
+    { "city_ja": "タウンズビル", "stadium_ja": "ノース・クイーンズランド・スタジアム", "capacity": 25455 }
+  ]
+}
