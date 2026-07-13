@@ -13,10 +13,15 @@ import argparse
 import sys
 
 from pipeline import io
+from pipeline.scrape import league_one
 from pipeline.validate import checks
 
 # league key → (scrape+transform を行う callable)。P1-3 以降で埋める。
-SCRAPERS: dict[str, object] = {}
+SCRAPERS: dict[str, object] = {
+    "league-one-d1": lambda: league_one.collect("d1"),
+    "league-one-d2": lambda: league_one.collect("d2"),
+    "league-one-d3": lambda: league_one.collect("d3"),
+}
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",
     "top14", "super-rugby", "national",
@@ -77,10 +82,19 @@ def run_leagues(leagues: list[str], *, dry_run: bool) -> int:
         print("--dry-run: master は書き込まない")
         return 0
 
+    teams_by_league: dict[str, list[dict]] = {}
+    for t in teams:
+        teams_by_league.setdefault(t["league"], []).append(t)
     for league, players in players_by_league.items():
         io.write_records(io.players_path(league), players)
-        io.update_last_run(league, counts={"players": len(players)},
-                           warnings=[w for w in check.warnings if league in w])
+        io.write_records(io.teams_path(league), teams_by_league.get(league, []))
+        io.update_last_run(
+            league,
+            counts={"players": len(players), "teams": len(teams_by_league.get(league, []))},
+            warnings=[w for w in check.warnings + all_warnings if league in w],
+        )
+    for st in standings:
+        io.write_json(io.standings_path(st["league"], st["season"]), st)
     print("master 更新完了")
     return 0
 
