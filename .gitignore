@@ -29,3 +29,6 @@ __pycache__/
 __pycache__/
 .env
 .github_token
+__pycache__/
+*.pyc
+.pytest_cache/
