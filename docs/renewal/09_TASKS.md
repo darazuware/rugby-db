@@ -14,7 +14,7 @@
 - [x] **P1-3** `scrape/league_one.py` + `transform/normalize.py`（リーグワンD1-D3）。既存 `scripts/scrapers/league_one_scraper.py` を移植改修。完了条件: `--league league-one-d1 --dry-run` で選手・チーム・順位が取得され検証を通る。参照: 02
 - [x] **P1-4** 既存 `data/unified_player_database_final.json` → 新スキーマ移行スクリプト `pipeline/migrate_legacy.py`。完了条件: master 初期化、migration_report.md 出力、null化した件数の報告、**`_meta/redirects.json`（旧slug→新slug）出力**、**旧トップリーグ地域カテゴリ(top-east/kyushu/west)と high-school/university 個別ページは master 化せず redirects 退避リストに記録**、education を配列形式で移行（school_id=null, name_raw）。参照: 01
 - [ ] **P1-4b** 人物同一性突合 `pipeline/merge_persons.py`: `lo_`×`ar_national` 等の同一人物候補を `_meta/merge_candidates.json` に出力（自動確定しない）。`data/manual/player_merges.json` を読み canonical へ統合。cross_person チェック(03)と連動。完了条件: 代表選手の重複候補が列挙され、merges 適用後に重複が0になる。参照: 01, 03
-- [ ] **P1-5** `scrape/all_rugby.py`（Top14）。完了条件: Top14チーム14・選手500+が検証を通る。参照: 02
+- [x] **P1-5** `scrape/all_rugby.py`（Top14）。完了条件: Top14チーム14・選手500+が検証を通る。参照: 02
 - [ ] **P1-6** all_rugby.py を Super Rugby Pacific に拡張。tournament key を実ページで確認しコメントに記録。参照: 02
 - [ ] **P1-7** 代表（national.json）: all.rugby の日本代表＋直近対戦国スコッド + `scrape/jrfu.py`（日程）。参照: 02
 - [ ] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
