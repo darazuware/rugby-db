@@ -23,3 +23,4 @@
 - 実装前に docs/renewal/00_MASTER_PLAN.md と docs/renewal/09_TASKS.md の担当タスクを読む
 - data/master/ は pipeline/ 以外から書き換え禁止
 - 選手・チーム・試合の事実をAIの知識で書かない（docs/renewal/03_VALIDATION.md）
+- scripts/archive/legacy/ と data/legacy/ は読み取り参照のみ
