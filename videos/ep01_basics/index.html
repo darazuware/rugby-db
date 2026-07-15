@@ -1,0 +1,674 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Hiragino Sans"; src: local("Hiragino Sans"); }
+      @font-face { font-family: "Hiragino Kaku Gothic ProN"; src: local("Hiragino Kaku Gothic ProN"); }
+      @font-face { font-family: "Avenir Next Condensed"; src: local("Avenir Next Condensed"); }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: #07281a; }
+      body { font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", sans-serif; }
+      .abs { position: absolute; }
+      .num { font-family: "Avenir Next Condensed", "Helvetica Neue", "Hiragino Sans", sans-serif; font-weight: 700; }
+      .bigtext { color: #fff; font-weight: 800; text-align: center; text-shadow: 0 6px 30px rgba(0,0,0,.55); }
+      .eyebrow { display: inline-block; padding: 10px 38px; border-radius: 999px; font-size: 34px; font-weight: 800;
+        letter-spacing: .18em; background: #f4d35e; color: #0b3d1f; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+      .qhead { color: #fff; font-weight: 800; font-size: 78px; text-align: center; text-shadow: 0 6px 30px rgba(0,0,0,.55); }
+      .qbar { width: 220px; height: 10px; border-radius: 6px; background: #f4d35e; margin: 18px auto 0; }
+      .badge { display: inline-block; padding: 18px 56px; border-radius: 999px; font-size: 46px; font-weight: 800; letter-spacing: .08em; }
+      .halfbar { height: 140px; display: flex; align-items: center; justify-content: center;
+        font-size: 58px; font-weight: 800; color: #fff; border-radius: 22px;
+        box-shadow: 0 16px 50px rgba(0,0,0,.45); }
+      .lineclip { overflow: hidden; }
+      .brandchip { padding: 10px 30px; border-radius: 999px; background: rgba(7,40,26,.55);
+        border: 2px solid rgba(244,211,94,.7); color: #f4d35e; font-size: 28px; font-weight: 800; letter-spacing: .12em; }
+      .confetti { position: absolute; width: 22px; height: 34px; border-radius: 4px; }
+
+      /* --- S5 scoring chips --- */
+      .scard { position: absolute; width: 430px; height: 170px; border-radius: 22px; overflow: hidden;
+        background: linear-gradient(180deg, #ffffff 0%, #f3f1ea 100%); box-shadow: 0 18px 50px rgba(0,0,0,.45);
+        display: flex; align-items: center; }
+      .scard-bar { width: 16px; height: 100%; flex: none; }
+      .scard-body { flex: 1; padding: 0 6px 0 20px; text-align: left; }
+      .scard-name { font-size: 32px; font-weight: 800; color: #1b2a22; letter-spacing: -.01em; white-space: nowrap; }
+      .scard-desc { font-size: 20px; font-weight: 700; color: #6b675e; line-height: 1.4; margin-top: 8px; }
+      .scard-pts { font-size: 62px; font-weight: 800; padding-right: 20px; white-space: nowrap; }
+      .scard-pts small { font-size: 28px; }
+      .tag { display: inline-block; background: rgba(7,40,26,.78); border: 2px solid rgba(244,211,94,.8);
+        color: #fff; font-size: 28px; font-weight: 800; padding: 7px 22px; border-radius: 999px; }
+      /* --- S7 next-episode chips --- */
+      .nextchip { padding: 16px 0; width: 300px; flex: none; text-align: center; border-radius: 18px;
+        background: rgba(255,255,255,.12); border: 2px solid rgba(255,255,255,.4);
+        color: #fff; font-size: 38px; font-weight: 800; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="94.3" data-width="1920" data-height="1080">
+
+      <!-- ===== Track 0: stadium background (full duration) ===== -->
+      <div id="field" class="clip abs" data-start="0" data-duration="94.3" data-track-index="0" style="width:1920px;height:1080px">
+        <div id="field-in" class="abs" style="left:-96px;top:-54px;width:2112px;height:1188px">
+          <svg width="2112" height="1188" viewBox="0 0 2112 1188">
+            <defs>
+              <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0" stop-color="#1e7f40"/><stop offset=".55" stop-color="#126330"/><stop offset="1" stop-color="#0a4322"/>
+              </linearGradient>
+              <radialGradient id="glow" cx=".5" cy=".18" r=".9">
+                <stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/>
+              </radialGradient>
+            </defs>
+            <rect width="2112" height="1188" fill="url(#grass)"/>
+            <g opacity=".09" fill="#fff">
+              <rect y="0" width="2112" height="132"/><rect y="264" width="2112" height="132"/>
+              <rect y="528" width="2112" height="132"/><rect y="792" width="2112" height="132"/>
+              <rect y="1056" width="2112" height="132"/>
+            </g>
+            <g stroke="#ffffff" stroke-width="4" opacity=".14" fill="none">
+              <line x1="1056" y1="0" x2="1056" y2="1188"/>
+              <line x1="420" y1="0" x2="420" y2="1188" stroke-dasharray="30 26"/>
+              <line x1="1692" y1="0" x2="1692" y2="1188" stroke-dasharray="30 26"/>
+            </g>
+            <rect width="2112" height="1188" fill="url(#glow)"/>
+          </svg>
+        </div>
+        <!-- floodlight beams -->
+        <div id="beam-l" class="abs" style="left:-500px;top:-700px;width:900px;height:2200px;transform:rotate(32deg);
+          background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,240,.09) 50%,rgba(255,255,255,0) 100%)"></div>
+        <div id="beam-r" class="abs" style="right:-500px;top:-700px;width:900px;height:2200px;transform:rotate(-32deg);
+          background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,240,.09) 50%,rgba(255,255,255,0) 100%)"></div>
+        <!-- vignette -->
+        <div class="abs" style="inset:0;background:radial-gradient(ellipse at 50% 42%,rgba(0,0,0,0) 46%,rgba(0,0,0,.5) 100%)"></div>
+      </div>
+
+      <!-- Track 4: persistent brand chip during body scenes -->
+      <div id="chip" class="clip abs" data-start="9.3" data-duration="73" data-track-index="4" style="right:44px;bottom:38px">
+        <div class="brandchip">RUGBY PICKS</div>
+      </div>
+
+      <!-- ===== S1 title 0–9.3 ===== -->
+      <div id="s1" class="clip abs" data-start="0" data-duration="9.3" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s1-in" class="abs" style="inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column">
+          <svg id="s1-ball" width="190" height="120" viewBox="0 0 190 120" style="margin-bottom:34px">
+            <ellipse cx="95" cy="60" rx="88" ry="52" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="5"/>
+            <ellipse cx="95" cy="60" rx="88" ry="52" fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="8 130" opacity=".7"/>
+            <line x1="60" y1="60" x2="130" y2="60" stroke="#fff" stroke-width="6"/>
+            <line x1="74" y1="48" x2="74" y2="72" stroke="#fff" stroke-width="6"/>
+            <line x1="95" y1="48" x2="95" y2="72" stroke="#fff" stroke-width="6"/>
+            <line x1="116" y1="48" x2="116" y2="72" stroke="#fff" stroke-width="6"/>
+          </svg>
+          <div id="s1-badge" class="eyebrow">ラグビー超入門 ①</div>
+          <div class="lineclip" style="margin-top:40px"><div id="s1-l1" class="bigtext" style="font-size:110px;line-height:1.3">ラグビーってどんなスポーツ？</div></div>
+          <div class="lineclip"><div id="s1-l2" class="bigtext" style="font-size:130px;line-height:1.35;color:#f4d35e">数字でまるわかり</div></div>
+          <div id="s1-bar" class="qbar" style="width:340px;margin-top:30px"></div>
+          <div id="s1-sub" class="bigtext" style="margin-top:34px;font-size:40px;opacity:.9">まずは、ざっくり全体像から</div>
+        </div>
+      </div>
+
+      <!-- ===== S2 ground 9.3–21.3 ===== -->
+      <div id="s2" class="clip abs" data-start="9.3" data-duration="12" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s2-in" class="abs" style="inset:0">
+          <div id="s2-head" class="abs" style="left:0;right:0;top:64px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q1. ひろさ</div>
+            <div class="qhead" style="margin-top:16px">グラウンドの広さは？</div>
+            <div id="s2-bar" class="qbar"></div>
+          </div>
+          <svg id="s2-field" class="abs" style="left:220px;top:320px" width="1400" height="520" viewBox="0 0 1400 520">
+            <defs><linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#37a35c"/><stop offset="1" stop-color="#1e7f40"/>
+            </linearGradient></defs>
+            <!-- outer boundary = dead-ball line / touch-in-goal -->
+            <rect x="0" y="0" width="1400" height="520" rx="10" fill="url(#pitch)" stroke="#fff" stroke-width="6"/>
+            <!-- in-goal areas -->
+            <rect x="0" y="0" width="110" height="520" fill="#f4d35e" opacity=".28"/>
+            <rect x="1290" y="0" width="110" height="520" fill="#f4d35e" opacity=".28"/>
+            <text transform="rotate(90 55 260)" x="55" y="272" font-size="34" font-weight="800" fill="#fff" text-anchor="middle" opacity=".95">インゴール</text>
+            <text transform="rotate(90 1345 260)" x="1345" y="272" font-size="34" font-weight="800" fill="#fff" text-anchor="middle" opacity=".95">インゴール</text>
+            <!-- try (goal) lines -->
+            <line x1="110" y1="0" x2="110" y2="520" stroke="#fff" stroke-width="9"/>
+            <line x1="1290" y1="0" x2="1290" y2="520" stroke="#fff" stroke-width="9"/>
+            <!-- 22m lines (solid) -->
+            <line x1="370" y1="0" x2="370" y2="520" stroke="#fff" stroke-width="4"/>
+            <line x1="1030" y1="0" x2="1030" y2="520" stroke="#fff" stroke-width="4"/>
+            <text x="370" y="36" font-size="26" font-weight="700" fill="#fff" text-anchor="middle" opacity=".85">22m</text>
+            <text x="1030" y="36" font-size="26" font-weight="700" fill="#fff" text-anchor="middle" opacity=".85">22m</text>
+            <!-- 10m lines (dashed) -->
+            <line x1="582" y1="0" x2="582" y2="520" stroke="#fff" stroke-width="4" stroke-dasharray="22 18"/>
+            <line x1="818" y1="0" x2="818" y2="520" stroke="#fff" stroke-width="4" stroke-dasharray="22 18"/>
+            <!-- halfway line -->
+            <line x1="700" y1="0" x2="700" y2="520" stroke="#fff" stroke-width="6"/>
+            <!-- 5m broken lines along touchlines -->
+            <line x1="130" y1="42" x2="1270" y2="42" stroke="#fff" stroke-width="3" stroke-dasharray="14 20" opacity=".55"/>
+            <line x1="130" y1="478" x2="1270" y2="478" stroke="#fff" stroke-width="3" stroke-dasharray="14 20" opacity=".55"/>
+            <!-- goal posts stand on the try line (top view H) -->
+            <g stroke="#f4d35e" stroke-width="10" opacity=".95">
+              <line x1="110" y1="200" x2="110" y2="320"/><line x1="86" y1="200" x2="134" y2="200"/><line x1="86" y1="320" x2="134" y2="320"/>
+              <line x1="1290" y1="200" x2="1290" y2="320"/><line x1="1266" y1="200" x2="1314" y2="200"/><line x1="1266" y1="320" x2="1314" y2="320"/>
+            </g>
+            <g id="s2-arrow">
+              <line x1="130" y1="440" x2="1270" y2="440" stroke="#f4d35e" stroke-width="12"/>
+              <polygon points="118,440 170,414 170,466" fill="#f4d35e"/>
+              <polygon points="1282,440 1230,414 1230,466" fill="#f4d35e"/>
+            </g>
+            <g id="s2-arrow2">
+              <line x1="1200" y1="34" x2="1200" y2="486" stroke="#f4d35e" stroke-width="11"/>
+              <polygon points="1200,22 1176,70 1224,70" fill="#f4d35e"/>
+              <polygon points="1200,498 1176,450 1224,450" fill="#f4d35e"/>
+            </g>
+          </svg>
+          <div id="s2-label" class="bigtext abs num" style="font-size:170px;left:0;right:0;top:420px;color:#f4d35e">
+            <span style="font-size:90px;font-family:'Hiragino Sans',sans-serif">縦 </span><span id="s2-numv">100</span><span style="font-size:100px">m</span>
+          </div>
+          <div id="s2-label2" class="bigtext abs num" style="font-size:68px;left:1300px;top:846px;width:320px;color:#f4d35e;text-align:left">
+            <span style="font-size:44px;font-family:'Hiragino Sans',sans-serif">横 </span><span id="s2-numh">70</span><span style="font-size:44px">m</span>
+          </div>
+          <div id="s2-tryline" class="abs" style="left:150px;top:852px">
+            <span style="display:inline-block;background:rgba(7,40,26,.7);border:2px solid rgba(255,255,255,.6);color:#fff;
+              font-size:32px;font-weight:800;padding:8px 26px;border-radius:999px">↖ トライライン（この先がインゴール）</span>
+          </div>
+          <div id="s2-sub" class="abs" style="left:0;right:0;top:928px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:50px;font-weight:800;
+              padding:16px 56px;border-radius:999px;box-shadow:0 16px 50px rgba(0,0,0,.4)">⚽ サッカーコートとほぼ同じ！</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S3 players 21.3–31.1 ===== -->
+      <div id="s3" class="clip abs" data-start="21.3" data-duration="9.8" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s3-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:64px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q2. にんずう</div>
+            <div class="qhead" style="margin-top:16px">何人でやるの？</div>
+            <div id="s3-bar" class="qbar"></div>
+          </div>
+          <div id="s3-red-label" class="bigtext abs num" style="font-size:120px;left:180px;top:270px;width:560px;color:#ffd7dc">
+            <span id="s3-redn">15</span><span style="font-size:64px;font-family:'Hiragino Sans',sans-serif">人</span></div>
+          <div id="s3-blue-label" class="bigtext abs num" style="font-size:120px;left:1180px;top:270px;width:560px;color:#cfe7ff">
+            <span id="s3-bluen">15</span><span style="font-size:64px;font-family:'Hiragino Sans',sans-serif">人</span></div>
+          <div id="s3-vs" class="abs" style="left:860px;top:540px;width:200px;height:200px">
+            <div class="abs" style="inset:0;border-radius:50%;background:#f4d35e;box-shadow:0 20px 60px rgba(0,0,0,.5)"></div>
+            <div id="s3-vs-ring" class="abs" style="inset:-18px;border-radius:50%;border:8px solid #f4d35e;opacity:.8"></div>
+            <div class="abs bigtext" style="inset:0;display:flex;align-items:center;justify-content:center;font-size:84px;color:#0b3d1f;text-shadow:none">VS</div>
+          </div>
+          <div id="s3-total" class="abs" style="left:0;right:0;top:880px;text-align:center">
+            <span class="bigtext" style="font-size:80px">合計 <span class="num" style="color:#f4d35e;font-size:110px">30</span><span style="color:#f4d35e">人</span> が同時にぶつかり合う！</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S4 time 31.1–41.9 ===== -->
+      <div id="s4" class="clip abs" data-start="31.1" data-duration="10.8" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s4-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:64px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q3. じかん</div>
+            <div class="qhead" style="margin-top:16px">試合は何分？</div>
+            <div id="s4-bar" class="qbar"></div>
+          </div>
+          <!-- clock -->
+          <svg id="s4-clock" class="abs" style="left:885px;top:312px" width="150" height="150" viewBox="0 0 150 150">
+            <circle cx="75" cy="75" r="66" fill="#fff" stroke="#0b3d1f" stroke-width="10"/>
+            <g stroke="#0b3d1f" stroke-width="6"><line x1="75" y1="20" x2="75" y2="34"/><line x1="75" y1="116" x2="75" y2="130"/>
+              <line x1="20" y1="75" x2="34" y2="75"/><line x1="116" y1="75" x2="130" y2="75"/></g>
+            <g id="s4-hand" style="transform-origin:75px 75px"><line x1="75" y1="75" x2="75" y2="30" stroke="#d62839" stroke-width="9" stroke-linecap="round"/></g>
+            <circle cx="75" cy="75" r="9" fill="#0b3d1f"/>
+          </svg>
+          <div class="abs" style="left:260px;top:500px;width:660px;height:140px">
+            <div id="s4-h1" class="halfbar" style="width:660px;background:linear-gradient(180deg,#e0384a,#b31f30)">前半 40分</div>
+          </div>
+          <div class="abs" style="left:1000px;top:500px;width:660px;height:140px">
+            <div id="s4-h2" class="halfbar" style="width:660px;background:linear-gradient(180deg,#2b83cf,#155a99)">後半 40分</div>
+          </div>
+          <div id="s4-ht" class="abs" style="left:0;right:0;top:672px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.18);border:2px solid rgba(255,255,255,.5);color:#fff;
+              font-size:34px;font-weight:800;padding:8px 34px;border-radius:999px">間に ハーフタイム</span>
+          </div>
+          <div id="s4-total" class="bigtext abs" style="font-size:100px;left:0;right:0;top:790px">
+            合計 <span class="num" style="color:#f4d35e;font-size:180px"><span id="s4-tn">80</span></span><span style="color:#f4d35e">分</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S5 scoring on the pitch 41.9–74.1 ===== -->
+      <div id="s5" class="clip abs" data-start="41.9" data-duration="32.2" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s5-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:44px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q4. とくてん</div>
+            <div class="qhead" style="margin-top:14px">点の取り方は <span style="color:#f4d35e">4つ</span></div>
+            <div id="s5-bar" class="qbar"></div>
+          </div>
+
+          <!-- pitch stage (same graphic as Q1, action goes right) -->
+          <svg id="s5-field" class="abs" style="left:300px;top:236px" width="1320" height="490" viewBox="0 0 1400 520">
+            <defs>
+              <linearGradient id="pitch5" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0" stop-color="#37a35c"/><stop offset="1" stop-color="#1e7f40"/>
+              </linearGradient>
+            </defs>
+            <rect x="0" y="0" width="1400" height="520" rx="10" fill="url(#pitch5)" stroke="#fff" stroke-width="6"/>
+            <rect x="0" y="0" width="110" height="520" fill="#f4d35e" opacity=".28"/>
+            <rect id="s5-ingoal" x="1290" y="0" width="110" height="520" fill="#f4d35e" opacity=".28"/>
+            <text transform="rotate(90 1345 260)" x="1345" y="272" font-size="34" font-weight="800" fill="#fff" text-anchor="middle" opacity=".95">インゴール</text>
+            <line x1="110" y1="0" x2="110" y2="520" stroke="#fff" stroke-width="9"/>
+            <line x1="1290" y1="0" x2="1290" y2="520" stroke="#fff" stroke-width="9"/>
+            <line x1="370" y1="0" x2="370" y2="520" stroke="#fff" stroke-width="4"/>
+            <line x1="1030" y1="0" x2="1030" y2="520" stroke="#fff" stroke-width="4"/>
+            <text x="1030" y="36" font-size="26" font-weight="700" fill="#fff" text-anchor="middle" opacity=".85">22m</text>
+            <line x1="582" y1="0" x2="582" y2="520" stroke="#fff" stroke-width="4" stroke-dasharray="22 18"/>
+            <line x1="818" y1="0" x2="818" y2="520" stroke="#fff" stroke-width="4" stroke-dasharray="22 18"/>
+            <line x1="700" y1="0" x2="700" y2="520" stroke="#fff" stroke-width="6"/>
+            <line x1="130" y1="42" x2="1270" y2="42" stroke="#fff" stroke-width="3" stroke-dasharray="14 20" opacity=".55"/>
+            <line x1="130" y1="478" x2="1270" y2="478" stroke="#fff" stroke-width="3" stroke-dasharray="14 20" opacity=".55"/>
+            <g stroke="#f4d35e" stroke-width="10" opacity=".95">
+              <line x1="110" y1="200" x2="110" y2="320"/><line x1="86" y1="200" x2="134" y2="200"/><line x1="86" y1="320" x2="134" y2="320"/>
+              <line x1="1290" y1="200" x2="1290" y2="320"/><line x1="1266" y1="200" x2="1314" y2="200"/><line x1="1266" y1="320" x2="1314" y2="320"/>
+            </g>
+            <rect x="1128" y="336" width="164" height="36" rx="18" fill="#07281a" opacity=".82"/>
+            <text x="1210" y="362" font-size="24" font-weight="700" fill="#f4d35e" text-anchor="middle">ゴールポスト</text>
+
+            <!-- (1) TRY -->
+            <g id="s5-g-try" opacity="0">
+              <path d="M620 372 L1345 268" stroke="#d62839" stroke-width="9" stroke-dasharray="20 14" fill="none" opacity=".95"/>
+              <g id="s5-try-spark" stroke="#a81525" stroke-width="7" stroke-linecap="round">
+                <line x1="1310" y1="232" x2="1296" y2="214"/><line x1="1380" y1="232" x2="1394" y2="214"/>
+                <line x1="1312" y1="304" x2="1298" y2="322"/><line x1="1378" y1="304" x2="1392" y2="322"/>
+              </g>
+              <g id="s5-ball-try">
+                <ellipse cx="620" cy="372" rx="21" ry="14" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                <line x1="607" y1="372" x2="633" y2="372" stroke="#fff" stroke-width="4"/>
+              </g>
+            </g>
+
+            <!-- (2) CONVERSION -->
+            <g id="s5-g-con" opacity="0">
+              <path id="s5-con-path" d="M940 264 L1288 261" stroke="#1d6fb8" stroke-width="9" stroke-dasharray="20 14" fill="none"/>
+              <polygon points="940,286 926,300 954,300" fill="#1d6fb8"/>
+              <g id="s5-ball-con">
+                <ellipse cx="940" cy="264" rx="20" ry="13" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                <line x1="928" y1="264" x2="952" y2="264" stroke="#fff" stroke-width="4"/>
+              </g>
+            </g>
+
+            <!-- (3) PENALTY GOAL -->
+            <g id="s5-g-pg" opacity="0">
+              <path id="s5-pg-path" d="M860 152 L1288 254" stroke="#e07a1f" stroke-width="9" stroke-dasharray="20 14" fill="none"/>
+              <g id="s5-pg-mark">
+                <circle cx="860" cy="152" r="30" fill="#e07a1f" stroke="#fff" stroke-width="4"/>
+                <text x="860" y="163" font-size="30" font-weight="800" fill="#fff" text-anchor="middle">!</text>
+              </g>
+              <g id="s5-ball-pg">
+                <ellipse cx="860" cy="152" rx="20" ry="13" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                <line x1="848" y1="152" x2="872" y2="152" stroke="#fff" stroke-width="4"/>
+              </g>
+            </g>
+
+            <!-- (4) DROP GOAL -->
+            <g id="s5-g-dg" opacity="0">
+              <path id="s5-dg-path" d="M820 404 L1288 268" stroke="#8b7fd4" stroke-width="9" stroke-dasharray="20 14" fill="none"/>
+              <g id="s5-dg-bounce">
+                <ellipse cx="820" cy="404" rx="34" ry="12" fill="none" stroke="#fff" stroke-width="5" opacity=".9"/>
+                <path d="M786 404 Q 806 372 826 400" stroke="#fff" stroke-width="4" fill="none" stroke-dasharray="8 6"/>
+              </g>
+              <g id="s5-ball-dg">
+                <ellipse cx="820" cy="404" rx="20" ry="13" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                <line x1="808" y1="404" x2="832" y2="404" stroke="#fff" stroke-width="4"/>
+              </g>
+            </g>
+          </svg>
+
+          <!-- on-pitch tags -->
+          <div id="s5-try-tag" class="abs" style="left:1642px;top:464px"><span class="tag" style="background:#d62839;border-color:#fff">← トライ！</span></div>
+          <div id="s5-hint" class="abs" style="left:300px;top:196px"><span class="tag" style="font-size:24px;padding:5px 18px">↓ 攻める向き（右のインゴールが目標）</span></div>
+
+          <!-- goal front-view inset (kicks) -->
+          <div id="s5-inset" class="abs" style="left:334px;top:300px;width:430px;height:398px;border-radius:24px;
+            background:rgba(7,32,22,.9);border:3px solid rgba(244,211,94,.75);box-shadow:0 24px 70px rgba(0,0,0,.55);overflow:hidden">
+            <div style="height:52px;display:flex;align-items:center;justify-content:center;background:rgba(244,211,94,.16);
+              color:#f4d35e;font-size:26px;font-weight:800;letter-spacing:.08em">ゴールを正面から</div>
+            <svg class="abs" style="left:0;top:52px" width="430" height="346" viewBox="0 0 430 346">
+              <rect id="s5-ins-zone" x="128" y="24" width="174" height="112" fill="#f4d35e" opacity=".3" stroke="#c9a72e" stroke-width="3" stroke-dasharray="10 8"/>
+              <text x="215" y="58" font-size="24" font-weight="800" fill="#fff9dd" text-anchor="middle" opacity=".95">ここを通す</text>
+              <line x1="128" y1="330" x2="128" y2="24" stroke="#e8e4d8" stroke-width="11" stroke-linecap="round"/>
+              <line x1="302" y1="330" x2="302" y2="24" stroke="#e8e4d8" stroke-width="11" stroke-linecap="round"/>
+              <line x1="122" y1="136" x2="308" y2="136" stroke="#e8e4d8" stroke-width="10"/>
+              <text x="366" y="130" font-size="22" font-weight="800" fill="#f4d35e" text-anchor="middle">バー</text>
+              <line x1="20" y1="330" x2="410" y2="330" stroke="#ffffff" stroke-width="4" opacity=".5"/>
+              <g id="s5-ins-ball">
+                <ellipse cx="215" cy="300" rx="20" ry="13" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                <line x1="203" y1="300" x2="227" y2="300" stroke="#fff" stroke-width="4"/>
+              </g>
+            </svg>
+            <div id="s5-ins-ok" class="abs" style="left:0;right:0;top:262px;text-align:center">
+              <span style="display:inline-block;background:#f4d35e;color:#0b3d1f;font-size:34px;font-weight:800;
+                padding:8px 30px;border-radius:999px">成功！</span>
+            </div>
+          </div>
+
+          <!-- four scoring chips (all four listed = 網羅) -->
+          <div id="s5-c1" class="scard" style="left:46px;top:790px">
+            <div class="scard-bar" style="background:#d62839"></div>
+            <div class="scard-body">
+              <div class="scard-name">トライ</div>
+              <div class="scard-desc">インゴールの地面に<br/>ボールをつける</div>
+            </div>
+            <div class="scard-pts num" style="color:#a81525">5<small>点</small></div>
+          </div>
+          <div id="s5-c2" class="scard" style="left:512px;top:790px">
+            <div class="scard-bar" style="background:#1d6fb8"></div>
+            <div class="scard-body">
+              <div class="scard-name">コンバージョン</div>
+              <div class="scard-desc">トライのあとのキックを<br/>ポールの間・バーの上へ</div>
+            </div>
+            <div class="scard-pts num" style="color:#124e85">+2<small>点</small></div>
+          </div>
+          <div id="s5-c3" class="scard" style="left:978px;top:790px">
+            <div class="scard-bar" style="background:#e07a1f"></div>
+            <div class="scard-body">
+              <div class="scard-name">ペナルティゴール</div>
+              <div class="scard-desc">相手の反則からの<br/>キックを決める</div>
+            </div>
+            <div class="scard-pts num" style="color:#a85408">3<small>点</small></div>
+          </div>
+          <div id="s5-c4" class="scard" style="left:1444px;top:790px">
+            <div class="scard-bar" style="background:#5e548e"></div>
+            <div class="scard-body">
+              <div class="scard-name">ドロップゴール</div>
+              <div class="scard-desc">プレー中にワンバウンド<br/>させて蹴る</div>
+            </div>
+            <div class="scard-pts num" style="color:#453e6b">3<small>点</small></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S6 winner 74.1–82.3 ===== -->
+      <div id="s6" class="clip abs" data-start="74.1" data-duration="8.2" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s6-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:64px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q5. しょうはい</div>
+            <div class="qhead" style="margin-top:16px">勝ち負けは？</div>
+            <div id="s6-bar" class="qbar"></div>
+          </div>
+          <div id="s6-board" class="abs" style="left:360px;top:330px;width:1200px;height:430px;background:#101418;border-radius:36px;
+            box-shadow:0 30px 90px rgba(0,0,0,.6);border:3px solid #2a3138;overflow:hidden">
+            <div style="height:74px;display:flex;align-items:center;justify-content:center;background:#1a2026;
+              color:#9fb0be;font-size:32px;font-weight:800;letter-spacing:.35em">FULL TIME</div>
+            <div style="display:flex;justify-content:space-around;align-items:center;height:356px">
+              <div style="position:relative;text-align:center;width:420px">
+                <div id="s6-glow" class="abs" style="left:50%;top:50%;width:460px;height:340px;transform:translate(-50%,-50%);
+                  background:radial-gradient(ellipse,rgba(244,211,94,.32) 0%,rgba(244,211,94,0) 70%)"></div>
+                <div style="position:relative;font-size:46px;color:#ff5b6c;font-weight:800;letter-spacing:.2em">RED</div>
+                <div id="s6-a" class="num" style="position:relative;font-size:190px;color:#fff;line-height:1">26</div>
+              </div>
+              <div class="num" style="font-size:110px;color:#57616b">–</div>
+              <div style="text-align:center;width:420px">
+                <div style="font-size:46px;color:#4ea8de;font-weight:800;letter-spacing:.2em">BLUE</div>
+                <div id="s6-b" class="num" style="font-size:190px;color:#fff;line-height:1">19</div>
+              </div>
+            </div>
+          </div>
+          <svg id="s6-crown" class="abs" style="left:570px;top:242px" width="120" height="90" viewBox="0 0 120 90">
+            <path d="M10 78 L6 26 L36 48 L60 12 L84 48 L114 26 L110 78 Z" fill="#f4d35e" stroke="#c9a72e" stroke-width="4"/>
+            <circle cx="6" cy="22" r="7" fill="#f4d35e"/><circle cx="60" cy="9" r="7" fill="#f4d35e"/><circle cx="114" cy="22" r="7" fill="#f4d35e"/>
+          </svg>
+          <div id="s6-win" class="bigtext abs" style="font-size:72px;left:0;right:0;top:846px">80分で点が多いほうが
+            <span style="display:inline-block;background:#f4d35e;color:#0b3d1f;padding:6px 34px;border-radius:20px;
+              transform:rotate(-3deg);text-shadow:none;box-shadow:0 14px 40px rgba(0,0,0,.45)" id="s6-stamp">勝ち！</span></div>
+        </div>
+      </div>
+
+      <!-- ===== S7 outro 82.3–94.3 ===== -->
+      <div id="s7" class="clip abs" data-start="82.3" data-duration="12" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s7-in" class="abs" style="inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column">
+          <div class="lineclip"><div id="s7-l1" class="bigtext" style="font-size:86px;line-height:1.4">ここまで分かれば</div></div>
+          <div class="lineclip"><div id="s7-l2" class="bigtext" style="font-size:100px;line-height:1.4">ラグビーは<span style="color:#f4d35e">もう楽しめる！</span></div></div>
+
+          <div id="s7-next" style="margin-top:56px;text-align:center">
+            <div class="eyebrow" style="font-size:30px;padding:9px 32px">次の動画から ひとつずつ、くわしく</div>
+            <div style="display:flex;gap:24px;margin-top:30px">
+              <div class="nextchip nx">反則</div>
+              <div class="nextchip nx">セットプレー</div>
+              <div class="nextchip nx">ポジション</div>
+              <div class="nextchip nx">キック</div>
+            </div>
+          </div>
+
+          <div id="s7-logo" style="position:relative;overflow:hidden;margin-top:56px;background:#fff;box-shadow:0 20px 60px rgba(0,0,0,.5)" class="badge">
+            <span style="position:relative;z-index:1;color:#0b3d1f;font-size:54px">RUGBY PICKS</span>
+            <div id="s7-shine" class="abs" style="left:-160px;top:-20px;width:110px;height:140px;transform:skewX(-20deg);
+              background:linear-gradient(90deg,rgba(255,255,255,0),rgba(255,255,255,.85),rgba(255,255,255,0))"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== Track 5: scene-wipe overlay ===== -->
+      <div id="wipes" class="clip abs" data-start="0" data-duration="94.3" data-track-index="5" style="width:1920px;height:1080px;pointer-events:none">
+        <div id="wipe-a" class="abs" style="left:0;top:-120px;width:560px;height:1320px;transform:translateX(-760px) skewX(-14deg);background:#f4d35e"></div>
+        <div id="wipe-b" class="abs" style="left:0;top:-120px;width:300px;height:1320px;transform:translateX(-760px) skewX(-14deg);background:#0b3d1f"></div>
+      </div>
+    </div>
+
+    <script>
+      // Deterministic DOM build (no randomness) — before timeline so selectors resolve
+      (function () {
+        // S3: 15 jersey icons per team
+        const s3in = document.getElementById("s3-in");
+        const jersey = (fill, stroke) =>
+          '<svg width="104" height="104" viewBox="0 0 120 120">' +
+          '<path d="M38 14 L60 24 L82 14 L108 30 L96 56 L84 48 L84 104 L36 104 L36 48 L24 56 L12 30 Z" ' +
+          'fill="' + fill + '" stroke="' + stroke + '" stroke-width="5"/>' +
+          '<path d="M46 16 Q60 30 74 16" fill="none" stroke="#fff" stroke-width="6"/></svg>';
+        const mk = (cls, fill, stroke, ox) => {
+          for (let i = 0; i < 15; i++) {
+            const d = document.createElement("div");
+            d.className = "abs " + cls;
+            d.style.width = "104px"; d.style.height = "104px";
+            const row = Math.floor(i / 5), col = i % 5;
+            d.style.left = ox + col * 100 + (row % 2) * 26 + "px";
+            d.style.top = 430 + row * 128 + "px";
+            d.innerHTML = jersey(fill, stroke);
+            s3in.appendChild(d);
+          }
+        };
+        mk("red",  "#d62839", "#8f1523", 160);
+        mk("blue", "#1d6fb8", "#0f4a80", 1264);
+
+        // S6: 36 confetti pieces, positions from index math
+        const s6in = document.getElementById("s6-in");
+        const colors = ["#f4d35e", "#d62839", "#4ea8de", "#ffffff"];
+        for (let i = 0; i < 36; i++) {
+          const c = document.createElement("div");
+          c.className = "confetti cf";
+          c.style.left = ((i * 331) % 1840 + 40) + "px";
+          c.style.top = "-60px";
+          c.style.background = colors[i % 4];
+          c.style.transform = "rotate(" + (i * 47 % 360) + "deg)";
+          s6in.appendChild(c);
+        }
+      })();
+
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      const cfEls = gsap.utils.toArray(".cf");
+      const TOTAL = 94.3;
+
+      // ---- ambient: slow field drift + beam sway (full duration, finite) ----
+      tl.fromTo("#field-in", { scale: 1, x: 0 }, { scale: 1.05, x: -30, duration: TOTAL, ease: "none" }, 0);
+      tl.fromTo("#beam-l", { opacity: 0.5 }, { opacity: 1, duration: TOTAL / 2, yoyo: true, repeat: 1, ease: "sine.inOut" }, 0);
+      tl.fromTo("#beam-r", { opacity: 1 }, { opacity: 0.5, duration: TOTAL / 2, yoyo: true, repeat: 1, ease: "sine.inOut" }, 0);
+      tl.from("#chip", { opacity: 0, duration: 0.6 }, 9.7);
+
+      // ---- scene wipes at boundaries ----
+      const wipeAt = (t, first) => {
+        tl.fromTo("#wipe-a", { x: -760, skewX: -14 }, { x: 2680, skewX: -14, duration: 0.55, ease: "power2.inOut", immediateRender: first }, t - 0.28);
+        tl.fromTo("#wipe-b", { x: -1160, skewX: -14 }, { x: 2280, skewX: -14, duration: 0.55, ease: "power2.inOut", immediateRender: first }, t - 0.24);
+      };
+      [9.3, 21.3, 31.1, 41.9, 74.1, 82.3].forEach((t, i) => wipeAt(t, i === 0));
+
+      // ---- S1 (narration e1 @0.4) ----
+      tl.from("#s1-ball", { y: -420, rotation: -260, opacity: 0, duration: 0.9, ease: "bounce.out" }, 0.15);
+      tl.from("#s1-badge", { opacity: 0, y: -50, duration: 0.5, ease: "back.out(1.7)" }, 0.75);
+      tl.from("#s1-l1", { yPercent: 115, duration: 0.65, ease: "power3.out" }, 1.15);
+      tl.from("#s1-l2", { yPercent: 115, duration: 0.65, ease: "power3.out" }, 1.4);
+      tl.from("#s1-bar", { scaleX: 0, duration: 0.5, ease: "power2.out" }, 1.9);
+      tl.from("#s1-sub", { opacity: 0, y: 30, duration: 0.5, ease: "power2.out" }, 2.7);
+      tl.fromTo("#s1-in", { scale: 1 }, { scale: 1.03, duration: 6.0, ease: "none" }, 2.6);
+      tl.to("#s1-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 8.95);
+
+      // ---- S2 (e2 @9.7 : 縦横 11.86 / サッカー 16.87) ----
+      tl.from("#s2-head", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 9.5);
+      tl.from("#s2-bar", { scaleX: 0, duration: 0.4 }, 9.8);
+      tl.from("#s2-field", { opacity: 0, scale: 0.85, y: 40, duration: 0.65, ease: "power3.out" }, 9.75);
+      tl.from("#s2-tryline", { opacity: 0, x: -50, duration: 0.5, ease: "power3.out" }, 11.9);
+      tl.from("#s2-arrow", { scaleX: 0, transformOrigin: "50% 50%", duration: 0.8, ease: "power2.inOut" }, 12.3);
+      tl.from("#s2-label", { opacity: 0, scale: 0.4, duration: 0.55, ease: "back.out(2)" }, 12.5);
+      tl.fromTo("#s2-numv", { innerText: 0 }, { innerText: 100, duration: 1.0, snap: { innerText: 1 } }, 12.6);
+      tl.from("#s2-arrow2", { scaleY: 0, transformOrigin: "50% 50%", duration: 0.6, ease: "power2.inOut" }, 14.3);
+      tl.from("#s2-label2", { opacity: 0, scale: 0.4, duration: 0.5, ease: "back.out(2)" }, 14.6);
+      tl.fromTo("#s2-numh", { innerText: 0 }, { innerText: 70, duration: 0.7, snap: { innerText: 1 } }, 14.65);
+      tl.from("#s2-sub", { opacity: 0, y: 60, duration: 0.55, ease: "back.out(1.6)" }, 16.9);
+      tl.to("#s2-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 20.95);
+
+      // ---- S3 (e3 @21.7 : 15人 21.8 / 30人 25.05) ----
+      tl.from("#s3-in .qhead, #s3-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 21.5);
+      tl.from("#s3-bar", { scaleX: 0, duration: 0.4 }, 21.8);
+      tl.from("#s3-in .red",  { opacity: 0, scale: 0, y: 60, rotation: -14, stagger: 0.045, duration: 0.45, ease: "back.out(1.8)" }, 21.85);
+      tl.from("#s3-red-label",  { opacity: 0, y: 40, duration: 0.5, ease: "power3.out" }, 22.5);
+      tl.fromTo("#s3-redn", { innerText: 0 }, { innerText: 15, duration: 0.8, snap: { innerText: 1 } }, 22.5);
+      tl.from("#s3-in .blue", { opacity: 0, scale: 0, y: 60, rotation: 14,  stagger: 0.045, duration: 0.45, ease: "back.out(1.8)" }, 23.0);
+      tl.from("#s3-blue-label", { opacity: 0, y: 40, duration: 0.5, ease: "power3.out" }, 23.6);
+      tl.fromTo("#s3-bluen", { innerText: 0 }, { innerText: 15, duration: 0.8, snap: { innerText: 1 } }, 23.6);
+      tl.from("#s3-vs", { opacity: 0, scale: 3.2, duration: 0.45, ease: "power3.in" }, 24.6);
+      tl.fromTo("#s3-vs-ring", { scale: 1, opacity: 0.9 }, { scale: 1.7, opacity: 0, duration: 0.7, ease: "power2.out" }, 25.05);
+      tl.from("#s3-total", { opacity: 0, y: 60, duration: 0.55, ease: "power3.out" }, 25.1);
+      tl.to("#s3-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 30.75);
+
+      // ---- S4 (e4 @31.5 : 前後半 31.6 / ハーフタイム・合計 36.56) ----
+      tl.from("#s4-in .qhead, #s4-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 31.3);
+      tl.from("#s4-bar", { scaleX: 0, duration: 0.4 }, 31.6);
+      tl.from("#s4-clock", { opacity: 0, scale: 0.4, duration: 0.5, ease: "back.out(1.8)" }, 31.6);
+      tl.fromTo("#s4-hand", { rotation: 0, svgOrigin: "75 75" }, { rotation: 720, svgOrigin: "75 75", duration: 7.2, ease: "power1.inOut" }, 31.9);
+      tl.from("#s4-h1", { scaleX: 0, transformOrigin: "0 50%", duration: 0.7, ease: "power3.out" }, 32.4);
+      tl.from("#s4-h2", { scaleX: 0, transformOrigin: "0 50%", duration: 0.7, ease: "power3.out" }, 33.8);
+      tl.from("#s4-ht", { opacity: 0, duration: 0.45 }, 36.6);
+      tl.from("#s4-total", { opacity: 0, scale: 0.5, duration: 0.55, ease: "back.out(1.8)" }, 38.6);
+      tl.fromTo("#s4-tn", { innerText: 0 }, { innerText: 80, duration: 0.9, snap: { innerText: 1 } }, 38.65);
+      tl.to("#s4-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 41.55);
+
+      // ---- S5 (e5 @42.3) : すべてグラウンド上で見せる ----
+      // sentence marks (abs): 4つ=42.4 / トライ=44.8 / try解説=47.0 / コンバージョン=50.5
+      //                       kick解説=53.0 / PG=58.6 / PG解説=61.4 / DG=65.2 / DG解説=68.0
+      tl.from("#s5-in .qhead, #s5-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 42.4);
+      tl.from("#s5-bar", { scaleX: 0, duration: 0.4 }, 42.7);
+      tl.from("#s5-field", { opacity: 0, scale: 0.92, y: 30, duration: 0.6, ease: "power3.out" }, 42.6);
+      // scene-entry states (clip is hidden before 41.9, so these only matter inside the window)
+      tl.set("#s5-try-spark", { opacity: 0, scale: 0.4, transformOrigin: "1345px 268px" }, 42.0);
+      tl.set("#s5-try-tag", { opacity: 0, scale: 0.5 }, 42.0);
+      tl.set("#s5-inset", { opacity: 0, scale: 0.9 }, 42.0);
+      tl.set("#s5-ins-ok", { opacity: 0, scale: 0.5 }, 42.0);
+      tl.fromTo("#s5-hint", { opacity: 0 }, { opacity: 1, duration: 0.4 }, 43.2);
+      tl.fromTo("#s5-hint", { opacity: 1 }, { opacity: 0, duration: 0.4, immediateRender: false }, 46.6);
+
+      // chips: dim → lit on their beat
+      const CHIP = ["#s5-c1", "#s5-c2", "#s5-c3", "#s5-c4"];
+      CHIP.forEach((c) => {
+        tl.fromTo(c, { opacity: 0, y: 90 }, { opacity: 0.5, y: 0, duration: 0.5, ease: "power3.out" }, 42.8);
+      });
+      const lightChip = (c, t) => {
+        tl.fromTo(c, { opacity: 0.5, scale: 1 }, { opacity: 1, scale: 1.04, duration: 0.35, ease: "power2.out", immediateRender: false }, t);
+        tl.to(c, { scale: 1, duration: 0.35, ease: "power2.inOut" }, t + 0.35);
+      };
+      const popPts = (c, t) => {
+        tl.fromTo(c + " .scard-pts", { scale: 1 }, { scale: 1.35, duration: 0.22, yoyo: true, repeat: 1, ease: "power2.out", immediateRender: false }, t);
+      };
+
+      // (1) TRY
+      lightChip("#s5-c1", 44.8);
+      tl.fromTo("#s5-g-try", { opacity: 0 }, { opacity: 1, duration: 0.3, immediateRender: false }, 46.9);
+      tl.fromTo("#s5-ball-try", { x: 0, y: 0 }, { x: 725, y: -104, duration: 2.0, ease: "power1.inOut", immediateRender: false }, 47.0);
+      tl.fromTo("#s5-ingoal", { opacity: 0.28 }, { opacity: 0.85, duration: 0.25, yoyo: true, repeat: 3, ease: "sine.inOut", immediateRender: false }, 49.0);
+      tl.fromTo("#s5-try-spark", { opacity: 0, scale: 0.4 }, { opacity: 1, scale: 1, duration: 0.35, ease: "back.out(2)", immediateRender: false }, 49.0);
+      tl.fromTo("#s5-try-tag", { opacity: 0, scale: 0.5 }, { opacity: 1, scale: 1, duration: 0.35, ease: "back.out(2)", immediateRender: false }, 49.1);
+      popPts("#s5-c1", 49.6);
+
+      // (2) CONVERSION
+      lightChip("#s5-c2", 50.5);
+      tl.to("#s5-g-try", { opacity: 0.4, duration: 0.4 }, 50.6);
+      tl.to("#s5-try-tag", { opacity: 0.3, duration: 0.4 }, 50.6);
+      tl.fromTo("#s5-inset", { opacity: 0, scale: 0.9 }, { opacity: 1, scale: 1, duration: 0.5, ease: "back.out(1.5)", immediateRender: false }, 50.9);
+      tl.fromTo("#s5-g-con", { opacity: 0 }, { opacity: 1, duration: 0.3, immediateRender: false }, 53.1);
+      tl.fromTo("#s5-ball-con", { x: 0, y: 0 }, { x: 348, y: -3, duration: 1.2, ease: "power2.out", immediateRender: false }, 54.8);
+      const insKick = (t) => {
+        tl.fromTo("#s5-ins-ball", { y: 0 }, { y: -190, duration: 1.0, ease: "power2.out", immediateRender: false }, t);
+        tl.fromTo("#s5-ins-zone", { opacity: 0.3 }, { opacity: 0.95, duration: 0.22, yoyo: true, repeat: 1, immediateRender: false }, t + 1.0);
+        tl.fromTo("#s5-ins-ok", { opacity: 0, scale: 0.5 }, { opacity: 1, scale: 1, duration: 0.3, ease: "back.out(2)", immediateRender: false }, t + 1.1);
+        tl.to("#s5-ins-ok", { opacity: 0, duration: 0.3 }, t + 3.0);
+      };
+      insKick(55.2);
+      popPts("#s5-c2", 58.0);
+
+      // (3) PENALTY GOAL
+      lightChip("#s5-c3", 58.6);
+      tl.to("#s5-g-con", { opacity: 0.4, duration: 0.4 }, 58.7);
+      tl.fromTo("#s5-g-pg", { opacity: 0 }, { opacity: 1, duration: 0.3, immediateRender: false }, 61.5);
+      tl.fromTo("#s5-pg-mark", { scale: 0.3, transformOrigin: "860px 152px" }, { scale: 1, duration: 0.4, ease: "back.out(2.2)", immediateRender: false }, 61.5);
+      tl.fromTo("#s5-ball-pg", { x: 0, y: 0 }, { x: 428, y: 102, duration: 1.2, ease: "power2.out", immediateRender: false }, 63.0);
+      insKick(63.4);
+      popPts("#s5-c3", 64.7);
+
+      // (4) DROP GOAL
+      lightChip("#s5-c4", 65.2);
+      tl.to("#s5-g-pg", { opacity: 0.4, duration: 0.4 }, 65.3);
+      tl.fromTo("#s5-g-dg", { opacity: 0 }, { opacity: 1, duration: 0.3, immediateRender: false }, 68.1);
+      tl.fromTo("#s5-dg-bounce", { scale: 0.3, opacity: 0, transformOrigin: "820px 404px" }, { scale: 1, opacity: 1, duration: 0.4, ease: "back.out(2.2)", immediateRender: false }, 68.9);
+      tl.fromTo("#s5-ball-dg", { x: 0, y: 0 }, { x: 468, y: -136, duration: 1.2, ease: "power2.out", immediateRender: false }, 69.8);
+      insKick(70.2);
+      popPts("#s5-c4", 71.9);
+
+      // recap: everything lit at once
+      tl.to(["#s5-g-try", "#s5-g-con", "#s5-g-pg", "#s5-try-tag"], { opacity: 1, duration: 0.5 }, 72.4);
+      tl.to(CHIP, { opacity: 1, duration: 0.5 }, 72.4);
+      tl.to("#s5-inset", { opacity: 0, duration: 0.5 }, 72.4);
+      tl.to("#s5-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 73.75);
+
+      // ---- S6 (e6 @74.5 : 勝ち 74.6 / シンプル 79.72) ----
+      tl.from("#s6-in .qhead, #s6-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 74.3);
+      tl.from("#s6-bar", { scaleX: 0, duration: 0.4 }, 74.6);
+      tl.from("#s6-board", { opacity: 0, y: 80, scale: 0.9, duration: 0.6, ease: "power3.out" }, 74.55);
+      tl.fromTo("#s6-a", { innerText: 0 }, { innerText: 26, duration: 1.3, snap: { innerText: 1 } }, 75.1);
+      tl.fromTo("#s6-b", { innerText: 0 }, { innerText: 19, duration: 1.3, snap: { innerText: 1 } }, 75.1);
+      tl.from("#s6-glow", { opacity: 0, duration: 0.5 }, 77.5);
+      tl.from("#s6-crown", { opacity: 0, y: -160, rotation: -18, duration: 0.55, ease: "bounce.out" }, 77.55);
+      tl.from("#s6-win", { opacity: 0, y: 60, duration: 0.5, ease: "power3.out" }, 77.6);
+      tl.from("#s6-stamp", { scale: 2.6, opacity: 0, rotation: 8, duration: 0.4, ease: "power3.in" }, 77.9);
+      // confetti burst (deterministic per-index timing)
+      cfEls.forEach((el, i) => {
+        tl.fromTo(el,
+          { y: 0, opacity: 0, rotation: (i * 47) % 360 },
+          { y: 1180 + (i % 5) * 40, x: ((i % 7) - 3) * 60, rotation: (i * 47) % 360 + 240 + (i % 3) * 120,
+            opacity: 1, duration: 2.1 + (i % 6) * 0.12, ease: "power1.in" },
+          78.1 + (i % 9) * 0.07);
+      });
+      tl.to("#s6-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 81.95);
+
+      // ---- S7 (e7 @82.7 : 楽しめます 82.8 / 次の動画から 87.34) ----
+      tl.from("#s7-l1", { yPercent: 115, duration: 0.6, ease: "power3.out" }, 82.9);
+      tl.from("#s7-l2", { yPercent: 115, duration: 0.6, ease: "power3.out" }, 83.2);
+      tl.from("#s7-next .eyebrow", { opacity: 0, y: 30, duration: 0.5, ease: "back.out(1.6)" }, 87.4);
+      tl.from("#s7-next .nx", { opacity: 0, y: 40, scale: 0.8, stagger: 0.22, duration: 0.45, ease: "back.out(1.8)" }, 87.8);
+      tl.from("#s7-logo", { opacity: 0, scale: 0.6, y: 40, duration: 0.55, ease: "back.out(1.7)" }, 90.8);
+      tl.fromTo("#s7-shine", { x: 0 }, { x: 620, duration: 0.7, ease: "power2.inOut" }, 91.6);
+      tl.fromTo("#s7-in", { scale: 1 }, { scale: 1.03, duration: 4.0, ease: "none" }, 90.3);
+
+      // hard kills at clip boundaries (seek-safe)
+      tl.set("#s1-in", { opacity: 0 }, 9.3);
+      tl.set("#s2-in", { opacity: 0 }, 21.3);
+      tl.set("#s3-in", { opacity: 0 }, 31.1);
+      tl.set("#s4-in", { opacity: 0 }, 41.9);
+      tl.set("#s5-in", { opacity: 0 }, 74.1);
+      tl.set("#s6-in", { opacity: 0 }, 82.3);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

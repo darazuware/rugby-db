@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Hiragino Sans"; src: local("Hiragino Sans"); }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: #0b3d1f; }
+      body { font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", sans-serif; }
+      .abs { position: absolute; }
+      .center { left: 0; right: 0; top: 0; bottom: 0; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+      .bigtext { color: #fff; font-weight: 800; text-align: center; text-shadow: 0 6px 30px rgba(0,0,0,.5); }
+      .badge { display: inline-block; padding: 18px 56px; border-radius: 999px; font-size: 46px; font-weight: 800; letter-spacing: .08em; }
+      .card { background: rgba(255,255,255,.97); border-radius: 32px; padding: 40px 60px;
+        box-shadow: 0 24px 80px rgba(0,0,0,.45); font-weight: 800; text-align: center; }
+      .bubble { background: #d8f3c5; border-radius: 40px; padding: 36px 54px; font-size: 58px; font-weight: 800;
+        color: #1b4020; box-shadow: 0 20px 60px rgba(0,0,0,.4); position: absolute; line-height: 1.4; }
+      .bubble::after { content: ""; position: absolute; left: -34px; bottom: 44px; border: 24px solid transparent;
+        border-right-color: #d8f3c5; }
+      .zunda { position: absolute; }
+      .credit { position: absolute; right: 36px; bottom: 24px; color: rgba(255,255,255,.75);
+        font-size: 30px; font-weight: 600; }
+      .qbadge { background: #f4d35e; color: #0b3d1f; }
+      .step { height: 130px; display: flex; align-items: center; justify-content: center; font-size: 50px;
+        font-weight: 800; color: #fff; border-radius: 22px; box-shadow: 0 14px 44px rgba(0,0,0,.4); }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="68.5" data-width="1920" data-height="1080">
+
+      <!-- Field background -->
+      <div id="field" class="clip abs" data-start="0" data-duration="68.5" data-track-index="0" style="width:1920px;height:1080px">
+        <svg width="1920" height="1080" viewBox="0 0 1920 1080">
+          <defs><linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#1c7a3d"/><stop offset="1" stop-color="#0e5228"/>
+          </linearGradient></defs>
+          <rect width="1920" height="1080" fill="url(#grass)"/>
+          <g opacity=".14" fill="#fff">
+            <rect y="0" width="1920" height="120"/><rect y="240" width="1920" height="120"/>
+            <rect y="480" width="1920" height="120"/><rect y="720" width="1920" height="120"/>
+            <rect y="960" width="1920" height="120"/>
+          </g>
+        </svg>
+        <div class="credit">VOICEVOX:ずんだもん</div>
+      </div>
+
+      <!-- S1 title 0–11.0 -->
+      <div id="s1" class="clip abs center" data-start="0" data-duration="11.0" data-track-index="1">
+        <div id="s1-badge" class="badge qbadge">ラグビー超入門 ②</div>
+        <div id="s1-title" class="bigtext" style="font-size:112px;margin-top:44px;line-height:1.3">素朴なギモン編<br><span style="color:#f4d35e">ずんだもんが聞いてみた</span></div>
+        <svg id="s1-zunda" class="zunda" style="left:1450px;top:660px" width="260" height="260" viewBox="0 0 260 260">
+          <circle cx="130" cy="140" r="100" fill="#8fce5a" stroke="#fff" stroke-width="8"/>
+          <ellipse cx="70" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(-24 70 46)"/>
+          <ellipse cx="190" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(24 190 46)"/>
+          <circle cx="98" cy="130" r="13" fill="#1b4020"/><circle cx="162" cy="130" r="13" fill="#1b4020"/>
+          <path d="M105 172 Q130 194 155 172" stroke="#1b4020" stroke-width="9" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+
+      <!-- S2 Q1 subs 11.0–24.1 -->
+      <div id="s2" class="clip abs" data-start="11.0" data-duration="13.1" data-track-index="1" style="width:1920px;height:1080px">
+        <div class="badge qbadge abs" style="left:80px;top:70px">ギモン ①</div>
+        <svg id="s2-zunda" class="zunda" style="left:90px;top:700px" width="240" height="240" viewBox="0 0 260 260">
+          <circle cx="130" cy="140" r="100" fill="#8fce5a" stroke="#fff" stroke-width="8"/>
+          <ellipse cx="70" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(-24 70 46)"/>
+          <ellipse cx="190" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(24 190 46)"/>
+          <circle cx="98" cy="130" r="13" fill="#1b4020"/><circle cx="162" cy="130" r="13" fill="#1b4020"/>
+          <path d="M105 172 Q130 194 155 172" stroke="#1b4020" stroke-width="9" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div id="s2-q" class="bubble" style="left:380px;top:720px">補欠は何人まで登録できるのだ？</div>
+        <div id="s2-a" class="card abs" style="left:460px;top:200px;width:1000px">
+          <div style="font-size:56px;color:#333">リザーブは <span style="color:#d62839;font-size:84px">8人</span> まで</div>
+        </div>
+        <div id="s2-a2" class="card abs" style="left:360px;top:430px;width:1200px;background:#111">
+          <div style="font-size:64px;color:#fff">先発15人 ＋ リザーブ8人</div>
+          <div style="font-size:88px;color:#f4d35e;margin-top:18px">＝ 1試合 23人 登録</div>
+        </div>
+      </div>
+
+      <!-- S3 Q2 substitution return 24.1–41.0 -->
+      <div id="s3" class="clip abs" data-start="24.1" data-duration="16.9" data-track-index="1" style="width:1920px;height:1080px">
+        <div class="badge qbadge abs" style="left:80px;top:70px">ギモン ②</div>
+        <svg id="s3-zunda" class="zunda" style="left:90px;top:700px" width="240" height="240" viewBox="0 0 260 260">
+          <circle cx="130" cy="140" r="100" fill="#8fce5a" stroke="#fff" stroke-width="8"/>
+          <ellipse cx="70" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(-24 70 46)"/>
+          <ellipse cx="190" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(24 190 46)"/>
+          <circle cx="98" cy="130" r="13" fill="#1b4020"/><circle cx="162" cy="130" r="13" fill="#1b4020"/>
+          <path d="M105 172 Q130 194 155 172" stroke="#1b4020" stroke-width="9" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div id="s3-q" class="bubble" style="left:380px;top:720px">交代した選手は、もう一回出られるのだ？</div>
+        <div id="s3-a" class="card abs" style="left:460px;top:190px;width:1000px">
+          <div style="font-size:76px;color:#d62839">原則、もどれない！</div>
+        </div>
+        <div id="s3-a2" class="card abs" style="left:360px;top:420px;width:1200px;background:#111">
+          <div style="font-size:48px;color:#8fce5a">例外：一時交代なら戻れる</div>
+          <div style="font-size:56px;color:#fff;margin-top:18px;line-height:1.5">出血したとき／<br>脳振とうの検査（HIA）のとき</div>
+        </div>
+      </div>
+
+      <!-- S4 Q3 sudden death 41.0–61.6 -->
+      <div id="s4" class="clip abs" data-start="41.0" data-duration="20.6" data-track-index="1" style="width:1920px;height:1080px">
+        <div class="badge qbadge abs" style="left:80px;top:70px">ギモン ③</div>
+        <svg id="s4-zunda" class="zunda" style="left:90px;top:700px" width="240" height="240" viewBox="0 0 260 260">
+          <circle cx="130" cy="140" r="100" fill="#8fce5a" stroke="#fff" stroke-width="8"/>
+          <ellipse cx="70" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(-24 70 46)"/>
+          <ellipse cx="190" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(24 190 46)"/>
+          <circle cx="98" cy="130" r="13" fill="#1b4020"/><circle cx="162" cy="130" r="13" fill="#1b4020"/>
+          <path d="M105 172 Q130 194 155 172" stroke="#1b4020" stroke-width="9" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div id="s4-q" class="bubble" style="left:380px;top:720px">同点で終わったら、サドンデスはあるのだ？</div>
+        <div id="s4-a" class="card abs" style="left:510px;top:160px;width:900px">
+          <div style="font-size:54px;color:#333">リーグ戦は <span style="color:#1d6fb8">引き分けあり</span></div>
+        </div>
+        <div id="s4-t" class="bigtext abs" style="font-size:48px;left:400px;top:370px;width:1120px">W杯 決勝トーナメントは…</div>
+        <div id="s4-st1" class="step abs" style="left:400px;top:450px;width:1120px;background:#1d6fb8">① 延長戦（10分×2）</div>
+        <div id="s4-st2" class="step abs" style="left:400px;top:610px;width:1120px;background:#e07a1f">② サドンデス延長（先に取ったら勝ち）</div>
+        <div id="s4-st3" class="step abs" style="left:400px;top:770px;width:1120px;background:#d62839">③ キック合戦で決着</div>
+      </div>
+
+      <!-- S5 outro 61.6–68.5 -->
+      <div id="s5" class="clip abs center" data-start="61.6" data-duration="6.9" data-track-index="1">
+        <div id="s5-title" class="bigtext" style="font-size:96px;line-height:1.4">気になるギモンは<br><span style="color:#f4d35e">コメントで教えてね</span></div>
+        <div id="s5-logo" class="badge" style="background:#fff;color:#0b3d1f;margin-top:56px;font-size:52px">RUGBY PICKS</div>
+        <svg id="s5-zunda" class="zunda" style="left:1430px;top:680px" width="260" height="260" viewBox="0 0 260 260">
+          <circle cx="130" cy="140" r="100" fill="#8fce5a" stroke="#fff" stroke-width="8"/>
+          <ellipse cx="70" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(-24 70 46)"/>
+          <ellipse cx="190" cy="46" rx="30" ry="52" fill="#8fce5a" stroke="#fff" stroke-width="7" transform="rotate(24 190 46)"/>
+          <circle cx="98" cy="130" r="13" fill="#1b4020"/><circle cx="162" cy="130" r="13" fill="#1b4020"/>
+          <path d="M105 172 Q130 194 155 172" stroke="#1b4020" stroke-width="9" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // S1: n1 @0.5, z1 @9.3
+      tl.from("#s1-badge", { opacity: 0, y: -60, duration: 0.6, ease: "back.out(1.7)" }, 0.3);
+      tl.from("#s1-title", { opacity: 0, scale: 0.85, duration: 0.7, ease: "back.out(1.4)" }, 0.9);
+      tl.from("#s1-zunda", { opacity: 0, scale: 0, duration: 0.6, ease: "back.out(2)" }, 9.2);
+
+      // S2: z2 @11.4, n2 @14.8
+      tl.from("#s2-zunda", { opacity: 0, x: -200, duration: 0.5, ease: "power3.out" }, 11.1);
+      tl.from("#s2-q", { opacity: 0, scale: 0.6, transformOrigin: "0% 100%", duration: 0.5, ease: "back.out(1.6)" }, 11.4);
+      tl.from("#s2-a", { opacity: 0, y: -80, duration: 0.6, ease: "power3.out" }, 15.0);
+      tl.to("#s2-q", { opacity: 0, y: 40, duration: 0.4 }, 18.1);
+      tl.from("#s2-a2", { opacity: 0, y: 80, duration: 0.6, ease: "power3.out" }, 18.6);
+
+      // S3: z3 @24.5, n3 @29.0
+      tl.from("#s3-zunda", { opacity: 0, x: -200, duration: 0.5, ease: "power3.out" }, 24.2);
+      tl.from("#s3-q", { opacity: 0, scale: 0.6, transformOrigin: "0% 100%", duration: 0.5, ease: "back.out(1.6)" }, 24.5);
+      tl.from("#s3-a", { opacity: 0, y: -80, duration: 0.6, ease: "power3.out" }, 29.4);
+      tl.to("#s3-q", { opacity: 0, y: 40, duration: 0.4 }, 33.1);
+      tl.from("#s3-a2", { opacity: 0, y: 80, duration: 0.6, ease: "power3.out" }, 33.6);
+
+      // S4: z4 @41.4, n4 @45.3
+      tl.from("#s4-zunda", { opacity: 0, x: -200, duration: 0.5, ease: "power3.out" }, 41.1);
+      tl.from("#s4-q", { opacity: 0, scale: 0.6, transformOrigin: "0% 100%", duration: 0.5, ease: "back.out(1.6)" }, 41.4);
+      tl.from("#s4-a", { opacity: 0, y: -80, duration: 0.6, ease: "power3.out" }, 45.6);
+      tl.to("#s4-q", { opacity: 0, y: 40, duration: 0.4 }, 48.4);
+      tl.from("#s4-t", { opacity: 0, duration: 0.5 }, 48.6);
+      tl.from("#s4-st1", { opacity: 0, x: -300, duration: 0.6, ease: "power3.out" }, 49.4);
+      tl.from("#s4-st2", { opacity: 0, x: -300, duration: 0.6, ease: "power3.out" }, 52.6);
+      tl.from("#s4-st3", { opacity: 0, x: -300, duration: 0.6, ease: "power3.out" }, 56.6);
+
+      // S5: n5 @62.0, z5 @66.4
+      tl.from("#s5-title", { opacity: 0, y: 60, duration: 0.7, ease: "power3.out" }, 61.9);
+      tl.from("#s5-logo", { opacity: 0, scale: 0.6, duration: 0.6, ease: "back.out(1.7)" }, 63.0);
+      tl.from("#s5-zunda", { opacity: 0, scale: 0, duration: 0.5, ease: "back.out(2)" }, 66.3);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
