@@ -1,0 +1,528 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Hiragino Sans"; src: local("Hiragino Sans"); }
+      @font-face { font-family: "Hiragino Kaku Gothic ProN"; src: local("Hiragino Kaku Gothic ProN"); }
+      @font-face { font-family: "Avenir Next Condensed"; src: local("Avenir Next Condensed"); }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: #07281a; }
+      body { font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", sans-serif; }
+      .abs { position: absolute; }
+      .num { font-family: "Avenir Next Condensed", "Helvetica Neue", "Hiragino Sans", sans-serif; font-weight: 700; }
+      .bigtext { color: #fff; font-weight: 800; text-align: center; text-shadow: 0 6px 30px rgba(0,0,0,.55); }
+      .eyebrow { display: inline-block; padding: 10px 38px; border-radius: 999px; font-size: 34px; font-weight: 800;
+        letter-spacing: .18em; background: #f4d35e; color: #0b3d1f; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+      .qhead { color: #fff; font-weight: 800; font-size: 74px; text-align: center; text-shadow: 0 6px 30px rgba(0,0,0,.55); }
+      .qbar { width: 220px; height: 10px; border-radius: 6px; background: #f4d35e; margin: 18px auto 0; }
+      .badge { display: inline-block; padding: 18px 56px; border-radius: 999px; font-size: 46px; font-weight: 800; letter-spacing: .08em; }
+      .lineclip { overflow: hidden; }
+      .brandchip { padding: 10px 30px; border-radius: 999px; background: rgba(7,40,26,.55);
+        border: 2px solid rgba(244,211,94,.7); color: #f4d35e; font-size: 28px; font-weight: 800; letter-spacing: .12em; }
+      .tag { display: inline-block; background: rgba(7,40,26,.82); border: 2px solid rgba(244,211,94,.8);
+        color: #fff; font-size: 30px; font-weight: 800; padding: 8px 24px; border-radius: 999px; }
+      .fcard { width: 560px; height: 420px; border-radius: 26px; overflow: hidden; background: linear-gradient(180deg,#ffffff,#f2f0e9);
+        box-shadow: 0 20px 60px rgba(0,0,0,.45); display: flex; flex-direction: column; align-items: center; }
+      .fcard-head { width: 100%; height: 66px; display: flex; align-items: center; justify-content: center;
+        font-size: 34px; font-weight: 800; color: #fff; letter-spacing: .06em; }
+      .fcard-body { flex: 1; display: flex; align-items: center; justify-content: center; }
+      .fcard-foot { width: 100%; padding: 0 22px 24px; font-size: 30px; font-weight: 800; color: #1b2a22; text-align: center; line-height: 1.4; }
+      .nextchip { padding: 16px 0; width: 360px; flex: none; text-align: center; border-radius: 18px;
+        background: rgba(255,255,255,.12); border: 2px solid rgba(255,255,255,.4);
+        color: #fff; font-size: 36px; font-weight: 800; }
+      .roleplate { width: 420px; border-radius: 24px; padding: 22px 0 26px; text-align: center;
+        box-shadow: 0 18px 54px rgba(0,0,0,.45); }
+      .roleplate .no { font-size: 74px; font-weight: 800; color: #fff; line-height: 1; }
+      .roleplate .nm { font-size: 40px; font-weight: 800; color: #fff; margin-top: 10px; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="142.2" data-width="1920" data-height="1080">
+
+      <!-- ===== Track 0: stadium background ===== -->
+      <div id="field" class="clip abs" data-start="0" data-duration="142.2" data-track-index="0" style="width:1920px;height:1080px">
+        <div id="field-in" class="abs" style="left:-96px;top:-54px;width:2112px;height:1188px">
+          <svg width="2112" height="1188" viewBox="0 0 2112 1188">
+            <defs>
+              <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0" stop-color="#1e7f40"/><stop offset=".55" stop-color="#126330"/><stop offset="1" stop-color="#0a4322"/>
+              </linearGradient>
+              <radialGradient id="glow" cx=".5" cy=".18" r=".9">
+                <stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/>
+              </radialGradient>
+            </defs>
+            <rect width="2112" height="1188" fill="url(#grass)"/>
+            <g opacity=".09" fill="#fff">
+              <rect y="0" width="2112" height="132"/><rect y="264" width="2112" height="132"/>
+              <rect y="528" width="2112" height="132"/><rect y="792" width="2112" height="132"/>
+              <rect y="1056" width="2112" height="132"/>
+            </g>
+            <g stroke="#ffffff" stroke-width="4" opacity=".14" fill="none">
+              <line x1="1056" y1="0" x2="1056" y2="1188"/>
+              <line x1="420" y1="0" x2="420" y2="1188" stroke-dasharray="30 26"/>
+              <line x1="1692" y1="0" x2="1692" y2="1188" stroke-dasharray="30 26"/>
+            </g>
+            <rect width="2112" height="1188" fill="url(#glow)"/>
+          </svg>
+        </div>
+        <div id="beam-l" class="abs" style="left:-500px;top:-700px;width:900px;height:2200px;transform:rotate(32deg);
+          background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,240,.09) 50%,rgba(255,255,255,0) 100%)"></div>
+        <div id="beam-r" class="abs" style="right:-500px;top:-700px;width:900px;height:2200px;transform:rotate(-32deg);
+          background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,240,.09) 50%,rgba(255,255,255,0) 100%)"></div>
+        <div class="abs" style="inset:0;background:radial-gradient(ellipse at 50% 42%,rgba(0,0,0,0) 46%,rgba(0,0,0,.5) 100%)"></div>
+      </div>
+
+      <!-- Track 4: brand chip -->
+      <div id="chip" class="clip abs" data-start="15.5" data-duration="111.8" data-track-index="4" style="right:44px;bottom:38px">
+        <div class="brandchip">RUGBY PICKS</div>
+      </div>
+
+      <!-- ===== S1 title 0–15.5 ===== -->
+      <div id="s1" class="clip abs" data-start="0" data-duration="15.5" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s1-in" class="abs" style="inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column">
+          <div id="s1-nums" style="display:flex;gap:30px;align-items:center;margin-bottom:30px">
+            <div id="s1-n1" class="num bigtext" style="font-size:150px;color:#f4d35e">1</div>
+            <div id="s1-amp" class="bigtext" style="font-size:70px">＆</div>
+            <div id="s1-n3" class="num bigtext" style="font-size:150px;color:#f4d35e">3</div>
+          </div>
+          <div id="s1-badge" class="eyebrow">ラグビー超入門 ポジション編 ②</div>
+          <div class="lineclip" style="margin-top:36px"><div id="s1-l1" class="bigtext" style="font-size:104px;line-height:1.3">プロップってどんな人？</div></div>
+          <div class="lineclip"><div id="s1-l2" class="bigtext" style="font-size:118px;line-height:1.35;color:#f4d35e">1番と3番のちがい</div></div>
+          <div id="s1-bar" class="qbar" style="width:340px;margin-top:30px"></div>
+          <div id="s1-sub" class="bigtext" style="margin-top:34px;font-size:40px;opacity:.9">同じ名前なのに、仕事がちがう</div>
+        </div>
+      </div>
+
+      <!-- ===== S2 front row 15.5–28.5 ===== -->
+      <div id="s2" class="clip abs" data-start="15.5" data-duration="13" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s2-in" class="abs" style="inset:0">
+          <div id="s2-head" class="abs" style="left:0;right:0;top:64px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q1. どこに立つ？</div>
+            <div class="qhead" style="margin-top:16px">スクラムの いちばん前</div>
+            <div id="s2-bar" class="qbar"></div>
+          </div>
+          <div id="s2-p1" class="roleplate abs" style="left:170px;top:400px;background:linear-gradient(180deg,#e0384a,#b31f30)">
+            <div class="no num">1</div><div class="nm">プロップ</div>
+            <div style="font-size:26px;font-weight:800;color:#ffd7dc;margin-top:8px">左サイド</div>
+          </div>
+          <div id="s2-p2" class="roleplate abs" style="left:750px;top:400px;background:linear-gradient(180deg,#f4d35e,#c9a72e)">
+            <div class="no num" style="color:#0b3d1f">2</div><div class="nm" style="color:#0b3d1f">フッカー</div>
+            <div style="font-size:26px;font-weight:800;color:#3d3a1f;margin-top:8px">真ん中</div>
+          </div>
+          <div id="s2-p3" class="roleplate abs" style="left:1330px;top:400px;background:linear-gradient(180deg,#e0384a,#b31f30)">
+            <div class="no num">3</div><div class="nm">プロップ</div>
+            <div style="font-size:26px;font-weight:800;color:#ffd7dc;margin-top:8px">右サイド</div>
+          </div>
+          <!-- squeeze arrows -->
+          <svg id="s2-arrows" class="abs" style="left:590px;top:492px" width="740" height="90" viewBox="0 0 740 90">
+            <g fill="#f4d35e">
+              <line x1="10" y1="45" x2="120" y2="45" stroke="#f4d35e" stroke-width="10"/>
+              <polygon points="160,45 112,20 112,70"/>
+              <line x1="730" y1="45" x2="620" y2="45" stroke="#f4d35e" stroke-width="10"/>
+              <polygon points="580,45 628,20 628,70"/>
+            </g>
+          </svg>
+          <div id="s2-bracket" class="abs" style="left:170px;top:700px;width:1580px;text-align:center">
+            <svg width="1580" height="60" viewBox="0 0 1580 60">
+              <path d="M10 10 L10 40 L790 40 L790 56 L790 40 L1570 40 L1570 10" fill="none" stroke="#f4d35e" stroke-width="6"/>
+            </svg>
+            <div style="margin-top:6px"><span class="tag" style="font-size:38px">この3人 ＝ フロントロー</span></div>
+          </div>
+          <div id="s2-sub" class="abs" style="left:0;right:0;top:900px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:46px;font-weight:800;
+              padding:14px 48px;border-radius:999px;box-shadow:0 16px 50px rgba(0,0,0,.4)">2番を、1番と3番が左右からはさむ</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S3 scrum face 28.5–91.7 (e3/e4/e5/e6) ===== -->
+      <div id="s3" class="clip abs" data-start="28.5" data-duration="63.2" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s3-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:40px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q2. 組むと何が起きる？</div>
+            <div id="s3-title" class="qhead" style="margin-top:14px">6つの頭が <span style="color:#f4d35e">交互にかみ合う</span></div>
+            <div id="s3-bar" class="qbar"></div>
+          </div>
+          <!-- legend -->
+          <div id="s3-legend" class="abs" style="left:0;right:0;top:262px;text-align:center">
+            <span style="display:inline-block;background:#d62839;color:#fff;font-size:26px;font-weight:800;padding:6px 22px;border-radius:999px">赤チーム</span>
+            <span style="display:inline-block;background:#2b83cf;color:#fff;font-size:26px;font-weight:800;padding:6px 22px;border-radius:999px;margin-left:14px">青チーム</span>
+            <span style="display:inline-block;color:#fff;font-size:26px;font-weight:800;margin-left:18px;opacity:.85">正面から見た、頭のかみ合わせ</span>
+          </div>
+
+          <svg id="s3-face" class="abs" style="left:260px;top:330px" width="1400" height="420" viewBox="0 0 1400 420">
+            <!-- ground line -->
+            <line x1="40" y1="368" x2="1360" y2="368" stroke="#ffffff" stroke-width="5" opacity=".5"/>
+            <!-- heads: red1 | blue3 | red2 | blue2 | red3 | blue1 -->
+            <g id="hd-r1">
+              <rect x="228" y="242" width="144" height="126" rx="24" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <circle cx="300" cy="196" r="62" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <text x="300" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">1</text>
+            </g>
+            <g id="hd-b3">
+              <rect x="388" y="242" width="144" height="126" rx="24" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <circle cx="460" cy="196" r="62" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <text x="460" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">3</text>
+            </g>
+            <g id="hd-r2">
+              <rect x="548" y="242" width="144" height="126" rx="24" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <circle cx="620" cy="196" r="62" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <text x="620" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">2</text>
+            </g>
+            <g id="hd-b2">
+              <rect x="708" y="242" width="144" height="126" rx="24" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <circle cx="780" cy="196" r="62" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <text x="780" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">2</text>
+            </g>
+            <g id="hd-r3">
+              <rect x="868" y="242" width="144" height="126" rx="24" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <circle cx="940" cy="196" r="62" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+              <text x="940" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">3</text>
+            </g>
+            <g id="hd-b1">
+              <rect x="1028" y="242" width="144" height="126" rx="24" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <circle cx="1100" cy="196" r="62" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+              <text x="1100" y="216" font-size="54" font-weight="800" fill="#fff" text-anchor="middle" font-family="Avenir Next Condensed, sans-serif">1</text>
+            </g>
+
+            <!-- open-side marker for red 1 (left edge) -->
+            <g id="s3-open" opacity="0">
+              <path d="M196 196 L96 196" stroke="#f4d35e" stroke-width="9" stroke-dasharray="16 12"/>
+              <circle cx="150" cy="196" r="52" fill="none" stroke="#f4d35e" stroke-width="8" stroke-dasharray="14 12"/>
+            </g>
+            <!-- pressure arrows for red 3 (both sides) -->
+            <g id="s3-press" opacity="0" fill="#f4d35e">
+              <line x1="806" y1="120" x2="866" y2="160" stroke="#f4d35e" stroke-width="11"/>
+              <polygon points="898,182 848,176 872,140"/>
+              <line x1="1074" y1="120" x2="1014" y2="160" stroke="#f4d35e" stroke-width="11"/>
+              <polygon points="982,182 1032,176 1008,140"/>
+            </g>
+            <!-- spotlight rings -->
+            <circle id="s3-ring1" cx="300" cy="196" r="86" fill="none" stroke="#f4d35e" stroke-width="8" opacity="0"/>
+            <circle id="s3-ring3" cx="940" cy="196" r="86" fill="none" stroke="#f4d35e" stroke-width="8" opacity="0"/>
+          </svg>
+
+          <!-- captions under the face -->
+          <div id="s3-cap-order" class="abs" style="left:0;right:0;top:790px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:44px;font-weight:800;
+              padding:12px 44px;border-radius:999px;box-shadow:0 16px 50px rgba(0,0,0,.4)">赤 → 青 → 赤 → 青 … 交互に組み合う</span>
+          </div>
+          <div id="s3-cap-loose" class="abs" style="left:0;right:0;top:790px;text-align:center">
+            <div><span class="tag" style="font-size:44px;background:#b31f30;border-color:#fff">1番 ＝ ルースヘッド（ゆるい頭）</span></div>
+            <div style="margin-top:16px"><span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:38px;font-weight:800;
+              padding:10px 36px;border-radius:999px">頭の外側に相手がいない ＝ 片側だけ</span></div>
+          </div>
+          <div id="s3-cap-tight" class="abs" style="left:0;right:0;top:790px;text-align:center">
+            <div><span class="tag" style="font-size:44px;background:#b31f30;border-color:#fff">3番 ＝ タイトヘッド（きつい頭）</span></div>
+            <div style="margin-top:16px"><span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:38px;font-weight:800;
+              padding:10px 36px;border-radius:999px">相手2人のあいだに頭を差し込む ＝ 両側から</span></div>
+          </div>
+          <!-- compare panel (e6) -->
+          <div id="s3-compare" class="abs" style="left:360px;top:742px;width:1200px;height:220px;border-radius:26px;
+            background:rgba(7,32,22,.92);border:3px solid rgba(244,211,94,.6);box-shadow:0 22px 66px rgba(0,0,0,.5);
+            display:flex;align-items:center;justify-content:space-around">
+            <div style="text-align:center">
+              <div class="bigtext" style="font-size:40px">1番 ルースヘッド</div>
+              <div class="bigtext num" style="font-size:76px;color:#f4d35e;margin-top:6px">片側から</div>
+            </div>
+            <div class="bigtext" style="font-size:56px;opacity:.6">VS</div>
+            <div style="text-align:center">
+              <div class="bigtext" style="font-size:40px">3番 タイトヘッド</div>
+              <div class="bigtext num" style="font-size:76px;color:#f4d35e;margin-top:6px">両側から</div>
+            </div>
+          </div>
+          <div id="s3-cap-heavy" class="abs" style="left:0;right:0;top:980px;text-align:center">
+            <span style="display:inline-block;background:#f4d35e;color:#0b3d1f;font-size:40px;font-weight:800;
+              padding:8px 40px;border-radius:999px">だから3番は、重くて押しに強い選手が多い</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S4 other roles 91.7–108.0 ===== -->
+      <div id="s4" class="clip abs" data-start="91.7" data-duration="16.3" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s4-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:60px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q3. スクラム以外は？</div>
+            <div class="qhead" style="margin-top:16px">持ち上げる、守る</div>
+            <div id="s4-bar" class="qbar"></div>
+          </div>
+          <div id="s4-c1" class="fcard abs" style="left:250px;top:330px">
+            <div class="fcard-head" style="background:#b31f30">① ラインアウトのリフター</div>
+            <div class="fcard-body">
+              <svg width="420" height="240" viewBox="0 0 420 240">
+                <line x1="30" y1="222" x2="390" y2="222" stroke="#c9c5bb" stroke-width="4"/>
+                <g fill="#d62839" stroke="#8f1523" stroke-width="5">
+                  <circle cx="140" cy="180" r="30"/><circle cx="280" cy="180" r="30"/>
+                </g>
+                <g id="s4-lift">
+                  <circle cx="210" cy="96" r="32" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+                  <ellipse cx="210" cy="42" rx="26" ry="17" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                  <line x1="196" y1="42" x2="224" y2="42" stroke="#fff" stroke-width="4"/>
+                </g>
+                <g stroke="#f4d35e" stroke-width="8" stroke-linecap="round">
+                  <line x1="164" y1="152" x2="190" y2="118"/><line x1="256" y1="152" x2="230" y2="118"/>
+                </g>
+              </svg>
+            </div>
+            <div class="fcard-foot">味方を空中まで持ち上げて<br/>ボールを取らせる</div>
+          </div>
+          <div id="s4-c2" class="fcard abs" style="left:1110px;top:330px">
+            <div class="fcard-head" style="background:#b31f30">② 密集でボールを守る</div>
+            <div class="fcard-body">
+              <svg width="420" height="240" viewBox="0 0 420 240">
+                <ellipse cx="210" cy="214" rx="160" ry="22" fill="#0b3d1f" opacity=".18"/>
+                <g id="s4-guard">
+                  <circle cx="140" cy="130" r="40" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+                  <circle cx="212" cy="108" r="40" fill="#d62839" stroke="#8f1523" stroke-width="5"/>
+                  <circle cx="284" cy="130" r="40" fill="#2b83cf" stroke="#0f4a80" stroke-width="5"/>
+                </g>
+                <g id="s4-guardball">
+                  <ellipse cx="176" cy="192" rx="28" ry="18" fill="#8a4b2d" stroke="#5d2f1a" stroke-width="4"/>
+                  <line x1="158" y1="192" x2="194" y2="192" stroke="#fff" stroke-width="4"/>
+                </g>
+                <g id="s4-shield" stroke="#f4d35e" stroke-width="7" fill="none">
+                  <path d="M120 224 Q176 236 232 224"/>
+                </g>
+              </svg>
+            </div>
+            <div class="fcard-foot">体を入れて、味方のボールを<br/>相手から守る</div>
+          </div>
+          <div id="s4-sub" class="abs" style="left:0;right:0;top:840px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:48px;font-weight:800;
+              padding:14px 50px;border-radius:999px;box-shadow:0 16px 50px rgba(0,0,0,.4)">80分ずっと、力を使い続けるポジション</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S5 specialist 108.0–127.3 ===== -->
+      <div id="s5" class="clip abs" data-start="108" data-duration="19.3" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s5-in" class="abs" style="inset:0">
+          <div class="abs" style="left:0;right:0;top:56px;text-align:center">
+            <div class="eyebrow" style="font-size:28px;padding:8px 30px">Q4. なぜ専門職？</div>
+            <div class="qhead" style="margin-top:16px">代わりが <span style="color:#f4d35e">きかない</span></div>
+            <div id="s5-bar" class="qbar"></div>
+          </div>
+          <div id="s5-warn" class="abs" style="left:200px;top:310px;width:700px;height:420px;border-radius:26px;
+            background:linear-gradient(180deg,#ffffff,#f2f0e9);box-shadow:0 20px 60px rgba(0,0,0,.45);
+            display:flex;flex-direction:column;align-items:center;padding-top:34px">
+            <svg width="220" height="180" viewBox="0 0 220 180">
+              <path d="M110 16 L206 164 L14 164 Z" fill="#f4d35e" stroke="#c9a72e" stroke-width="6" stroke-linejoin="round"/>
+              <rect x="99" y="66" width="22" height="56" rx="11" fill="#0b3d1f"/>
+              <circle cx="110" cy="140" r="13" fill="#0b3d1f"/>
+            </svg>
+            <div style="font-size:44px;font-weight:800;color:#1b2a22;margin-top:14px">組み方をまちがえると</div>
+            <div style="font-size:38px;font-weight:800;color:#b31f30;margin-top:10px">首や背中に、大きなケガ</div>
+            <div style="font-size:28px;font-weight:700;color:#6b675e;margin-top:14px;text-align:center;line-height:1.5">
+              だれでもできる仕事ではない<br/>＝ 専門の訓練を積んだ選手だけ
+            </div>
+          </div>
+          <!-- 23 squad strip -->
+          <div id="s5-squad" class="abs" style="left:980px;top:310px;width:740px;height:420px;border-radius:26px;
+            background:rgba(7,32,22,.92);border:3px solid rgba(244,211,94,.6);box-shadow:0 22px 66px rgba(0,0,0,.5);padding:26px 0 0">
+            <div class="bigtext" style="font-size:38px">メンバー <span class="num" style="color:#f4d35e;font-size:48px">23</span>人には</div>
+            <div id="s5-grid" style="margin:22px auto 0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;width:600px"></div>
+            <div id="s5-note" style="margin-top:22px;text-align:center">
+              <span style="display:inline-block;background:#f4d35e;color:#0b3d1f;font-size:32px;font-weight:800;
+                padding:8px 26px;border-radius:999px">必ず フロントローの交代要員が入る</span>
+            </div>
+          </div>
+          <div id="s5-sub" class="abs" style="left:0;right:0;top:800px;text-align:center">
+            <span style="display:inline-block;background:rgba(255,255,255,.96);color:#0b3d1f;font-size:46px;font-weight:800;
+              padding:14px 48px;border-radius:999px;box-shadow:0 16px 50px rgba(0,0,0,.4)">プロップがいなくなると、スクラムが組めなくなる</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== S6 outro 127.3–142.2 ===== -->
+      <div id="s6" class="clip abs" data-start="127.3" data-duration="14.9" data-track-index="1" style="width:1920px;height:1080px">
+        <div id="s6-in" class="abs" style="inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column">
+          <div id="s6-recap" style="display:flex;gap:60px;align-items:center">
+            <div id="s6-r1" style="text-align:center">
+              <div class="num bigtext" style="font-size:120px;color:#ffe98f">1</div>
+              <div class="bigtext" style="font-size:48px">ルースヘッド</div>
+              <div class="bigtext" style="font-size:30px;opacity:.85;margin-top:8px">外側があく</div>
+            </div>
+            <div class="bigtext" style="font-size:56px;opacity:.55">／</div>
+            <div id="s6-r3" style="text-align:center">
+              <div class="num bigtext" style="font-size:120px;color:#ffe98f">3</div>
+              <div class="bigtext" style="font-size:48px">タイトヘッド</div>
+              <div class="bigtext" style="font-size:30px;opacity:.85;margin-top:8px">両側からはさまれる</div>
+            </div>
+          </div>
+          <div class="lineclip" style="margin-top:36px"><div id="s6-l2" class="bigtext" style="font-size:66px;line-height:1.4">同じプロップでも、<span style="color:#f4d35e">頭の入れ方がちがう</span></div></div>
+
+          <div id="s6-next" style="margin-top:46px;text-align:center">
+            <div class="eyebrow" style="font-size:30px;padding:9px 32px">次は、そのあいだにいる選手</div>
+            <div style="display:flex;gap:24px;margin-top:26px;justify-content:center">
+              <div class="nextchip nx" style="background:rgba(244,211,94,.22);border-color:#f4d35e">フッカー<br/><span style="font-size:26px;opacity:.85">2番</span></div>
+              <div class="nextchip nx">ロック<br/><span style="font-size:26px;opacity:.85">4番・5番</span></div>
+            </div>
+          </div>
+
+          <div id="s6-logo" style="position:relative;overflow:hidden;margin-top:46px;background:#fff;box-shadow:0 20px 60px rgba(0,0,0,.5)" class="badge">
+            <span style="position:relative;z-index:1;color:#0b3d1f;font-size:54px">RUGBY PICKS</span>
+            <div id="s6-shine" class="abs" style="left:-160px;top:-20px;width:110px;height:140px;transform:skewX(-20deg);
+              background:linear-gradient(90deg,rgba(255,255,255,0),rgba(255,255,255,.85),rgba(255,255,255,0))"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== Track 5: wipes ===== -->
+      <div id="wipes" class="clip abs" data-start="0" data-duration="142.2" data-track-index="5" style="width:1920px;height:1080px;pointer-events:none">
+        <div id="wipe-a" class="abs" style="left:0;top:-120px;width:560px;height:1320px;transform:translateX(-760px) skewX(-14deg);background:#f4d35e"></div>
+        <div id="wipe-b" class="abs" style="left:0;top:-120px;width:300px;height:1320px;transform:translateX(-760px) skewX(-14deg);background:#0b3d1f"></div>
+      </div>
+    </div>
+
+    <script>
+      // Deterministic DOM build
+      (function () {
+        const jersey = (fill, stroke, size) =>
+          '<svg width="' + size + '" height="' + size + '" viewBox="0 0 120 120">' +
+          '<path d="M38 14 L60 24 L82 14 L108 30 L96 56 L84 48 L84 104 L36 104 L36 48 L24 56 L12 30 Z" ' +
+          'fill="' + fill + '" stroke="' + stroke + '" stroke-width="5"/>' +
+          '<path d="M46 16 Q60 30 74 16" fill="none" stroke="#fff" stroke-width="6"/></svg>';
+        const host = document.getElementById("s5-grid");
+        // 23 shirts; the 3 front-row cover players are highlighted (index 15,16,17 = first reserves)
+        for (let i = 0; i < 23; i++) {
+          const d = document.createElement("div");
+          const front = i >= 20;
+          d.className = "sq" + (front ? " sqfront" : "");
+          d.style.width = "64px"; d.style.height = "64px";
+          d.innerHTML = front ? jersey("#f4d35e", "#c9a72e", 64) : jersey("#4b5a52", "#37423c", 64);
+          host.appendChild(d);
+        }
+      })();
+
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      const TOTAL = 142.2;
+
+      // ---- ambient ----
+      tl.fromTo("#field-in", { scale: 1, x: 0 }, { scale: 1.05, x: -30, duration: TOTAL, ease: "none" }, 0);
+      tl.fromTo("#beam-l", { opacity: 0.5 }, { opacity: 1, duration: TOTAL / 2, yoyo: true, repeat: 1, ease: "sine.inOut" }, 0);
+      tl.fromTo("#beam-r", { opacity: 1 }, { opacity: 0.5, duration: TOTAL / 2, yoyo: true, repeat: 1, ease: "sine.inOut" }, 0);
+      tl.from("#chip", { opacity: 0, duration: 0.6 }, 15.9);
+
+      // ---- wipes ----
+      const wipeAt = (t, first) => {
+        tl.fromTo("#wipe-a", { x: -760, skewX: -14 }, { x: 2680, skewX: -14, duration: 0.55, ease: "power2.inOut", immediateRender: first }, t - 0.28);
+        tl.fromTo("#wipe-b", { x: -1160, skewX: -14 }, { x: 2280, skewX: -14, duration: 0.55, ease: "power2.inOut", immediateRender: first }, t - 0.24);
+      };
+      [15.5, 28.5, 91.7, 108.0, 127.3].forEach((t, i) => wipeAt(t, i === 0));
+
+      // ---- S1 (e1 @0.4) ----
+      tl.from("#s1-n1", { opacity: 0, x: -160, rotation: -20, duration: 0.6, ease: "back.out(1.6)" }, 0.2);
+      tl.from("#s1-n3", { opacity: 0, x: 160, rotation: 20, duration: 0.6, ease: "back.out(1.6)" }, 0.4);
+      tl.from("#s1-amp", { opacity: 0, scale: 0.4, duration: 0.4, ease: "back.out(2)" }, 0.8);
+      tl.from("#s1-badge", { opacity: 0, y: -50, duration: 0.5, ease: "back.out(1.7)" }, 1.0);
+      tl.from("#s1-l1", { yPercent: 115, duration: 0.65, ease: "power3.out" }, 1.4);
+      tl.from("#s1-l2", { yPercent: 115, duration: 0.65, ease: "power3.out" }, 1.65);
+      tl.from("#s1-bar", { scaleX: 0, duration: 0.5, ease: "power2.out" }, 2.1);
+      tl.from("#s1-sub", { opacity: 0, y: 30, duration: 0.5, ease: "power2.out" }, 8.4);
+      tl.fromTo("#s1-in", { scale: 1 }, { scale: 1.03, duration: 11.0, ease: "none" }, 3.6);
+      tl.to("#s1-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 15.15);
+
+      // ---- S2 (e2 @15.9 : 立つ位置 16.0 / 両サイド 19.6 / はさむ 23.6) ----
+      tl.from("#s2-head", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 15.7);
+      tl.from("#s2-bar", { scaleX: 0, duration: 0.4 }, 16.0);
+      tl.from("#s2-p2", { opacity: 0, y: 60, scale: 0.9, duration: 0.5, ease: "back.out(1.6)" }, 16.2);
+      tl.from("#s2-p1", { opacity: 0, x: -120, duration: 0.55, ease: "power3.out" }, 19.6);
+      tl.from("#s2-p3", { opacity: 0, x: 120, duration: 0.55, ease: "power3.out" }, 19.8);
+      tl.from("#s2-bracket", { opacity: 0, y: 40, duration: 0.5, ease: "power3.out" }, 21.0);
+      tl.fromTo("#s2-arrows", { opacity: 0 }, { opacity: 1, duration: 0.4, immediateRender: false }, 23.6);
+      tl.fromTo("#s2-p2", { scale: 1 }, { scale: 0.94, duration: 0.35, yoyo: true, repeat: 1, ease: "power2.inOut", immediateRender: false }, 24.0);
+      tl.from("#s2-sub", { opacity: 0, y: 60, duration: 0.55, ease: "back.out(1.6)" }, 24.2);
+      tl.to("#s2-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 28.15);
+
+      // ---- S3 (e3 @28.9 / e4 @42.1 / e5 @57.7 / e6 @74.9) ----
+      const HEADS = ["#hd-r1", "#hd-b3", "#hd-r2", "#hd-b2", "#hd-r3", "#hd-b1"];
+      tl.from("#s3-in .qhead, #s3-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 28.7);
+      tl.from("#s3-bar", { scaleX: 0, duration: 0.4 }, 29.0);
+      tl.from("#s3-legend", { opacity: 0, y: -20, duration: 0.4 }, 29.2);
+      // entry states for later beats (clip hidden before 28.5)
+      tl.set(["#s3-cap-loose", "#s3-cap-tight", "#s3-compare", "#s3-cap-heavy"], { opacity: 0 }, 28.6);
+      // beat 1: heads interlock, alternating
+      tl.from(HEADS, { opacity: 0, y: 70, scale: 0.7, stagger: 0.5, duration: 0.5, ease: "back.out(1.7)" }, 33.2);
+      tl.from("#s3-cap-order", { opacity: 0, y: 50, duration: 0.5, ease: "back.out(1.6)" }, 37.4);
+      tl.fromTo(HEADS, { x: 0 }, { x: (i) => (i % 2 === 0 ? 8 : -8), duration: 0.5, yoyo: true, repeat: 1, ease: "sine.inOut", immediateRender: false }, 38.6);
+
+      // beat 2 (e4 @42.1): loosehead spotlight
+      tl.to("#s3-cap-order", { opacity: 0, y: -30, duration: 0.4 }, 42.1);
+      tl.to(["#hd-b3", "#hd-r2", "#hd-b2", "#hd-r3", "#hd-b1"], { opacity: 0.32, duration: 0.5 }, 42.3);
+      tl.fromTo("#s3-ring1", { opacity: 0, scale: 1.8, transformOrigin: "300px 196px" }, { opacity: 1, scale: 1, duration: 0.5, ease: "power3.out", immediateRender: false }, 42.4);
+      tl.fromTo("#s3-cap-loose", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.5, ease: "back.out(1.6)", immediateRender: false }, 42.6);
+      tl.fromTo("#s3-open", { opacity: 0, x: 40 }, { opacity: 1, x: 0, duration: 0.6, ease: "power3.out", immediateRender: false }, 46.8);
+      tl.fromTo("#s3-open", { scale: 1, transformOrigin: "150px 196px" }, { scale: 1.12, duration: 0.5, yoyo: true, repeat: 3, ease: "sine.inOut", immediateRender: false }, 51.0);
+
+      // beat 3 (e5 @57.7): tighthead spotlight
+      tl.to("#s3-cap-loose", { opacity: 0, y: -30, duration: 0.4 }, 57.7);
+      tl.to("#s3-open", { opacity: 0, duration: 0.4 }, 57.7);
+      tl.to("#s3-ring1", { opacity: 0, duration: 0.4 }, 57.7);
+      tl.to("#hd-r1", { opacity: 0.32, duration: 0.5 }, 57.9);
+      tl.to(["#hd-b2", "#hd-r3", "#hd-b1"], { opacity: 1, duration: 0.5 }, 57.9);
+      tl.fromTo("#s3-ring3", { opacity: 0, scale: 1.8, transformOrigin: "940px 196px" }, { opacity: 1, scale: 1, duration: 0.5, ease: "power3.out", immediateRender: false }, 58.0);
+      tl.fromTo("#s3-cap-tight", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.5, ease: "back.out(1.6)", immediateRender: false }, 58.2);
+      tl.fromTo("#s3-press", { opacity: 0 }, { opacity: 1, duration: 0.5, immediateRender: false }, 62.4);
+      tl.fromTo("#s3-press", { scale: 1, transformOrigin: "940px 150px" }, { scale: 0.92, duration: 0.55, yoyo: true, repeat: 5, ease: "sine.inOut", immediateRender: false }, 68.0);
+
+      // beat 4 (e6 @74.9): compare
+      tl.to("#s3-cap-tight", { opacity: 0, y: -30, duration: 0.4 }, 74.9);
+      tl.to("#s3-press", { opacity: 0, duration: 0.4 }, 74.9);
+      tl.to("#s3-ring3", { opacity: 0, duration: 0.4 }, 74.9);
+      tl.to(HEADS, { opacity: 1, duration: 0.5 }, 75.1);
+      tl.to("#s3-face", { y: -46, scale: 0.86, transformOrigin: "50% 0%", duration: 0.6, ease: "power2.inOut" }, 75.1);
+      tl.fromTo("#s3-compare", { opacity: 0, y: 60 }, { opacity: 1, y: 0, duration: 0.55, ease: "power3.out", immediateRender: false }, 75.4);
+      tl.fromTo("#s3-ring1", { opacity: 0 }, { opacity: 1, duration: 0.4, immediateRender: false }, 76.0);
+      tl.fromTo("#s3-ring3", { opacity: 0 }, { opacity: 1, duration: 0.4, immediateRender: false }, 78.0);
+      tl.fromTo("#s3-cap-heavy", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.5, ease: "back.out(1.6)", immediateRender: false }, 84.2);
+      tl.to("#s3-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 91.35);
+
+      // ---- S4 (e7 @92.1 : リフター 92.2 / 密集 97.2 / ずっと力 102.2) ----
+      tl.from("#s4-in .qhead, #s4-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 91.9);
+      tl.from("#s4-bar", { scaleX: 0, duration: 0.4 }, 92.2);
+      tl.from("#s4-c1", { opacity: 0, y: 80, scale: 0.9, duration: 0.55, ease: "power3.out" }, 92.3);
+      tl.fromTo("#s4-lift", { y: 60 }, { y: 0, duration: 0.9, ease: "power2.out", immediateRender: false }, 93.6);
+      tl.fromTo("#s4-lift", { y: 0 }, { y: -14, duration: 0.6, yoyo: true, repeat: 1, ease: "sine.inOut", immediateRender: false }, 94.8);
+      tl.from("#s4-c2", { opacity: 0, y: 80, scale: 0.9, duration: 0.55, ease: "power3.out" }, 97.2);
+      tl.fromTo("#s4-guard", { scale: 1, transformOrigin: "212px 130px" }, { scale: 1.05, duration: 0.5, yoyo: true, repeat: 3, ease: "sine.inOut", immediateRender: false }, 98.4);
+      tl.fromTo("#s4-shield", { opacity: 0, scaleY: 0, transformOrigin: "50% 100%" }, { opacity: 1, scaleY: 1, duration: 0.5, ease: "back.out(1.6)", immediateRender: false }, 99.6);
+      tl.from("#s4-sub", { opacity: 0, y: 60, duration: 0.55, ease: "back.out(1.6)" }, 102.2);
+      tl.to("#s4-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 107.65);
+
+      // ---- S5 (e8 @108.4 : 専門職 108.5 / ケガ 111.4 / 代わりがきかない 118.2 / 23人 121.0) ----
+      tl.from("#s5-in .qhead, #s5-in .eyebrow", { opacity: 0, y: -40, duration: 0.5, ease: "power3.out" }, 108.2);
+      tl.from("#s5-bar", { scaleX: 0, duration: 0.4 }, 108.5);
+      tl.from("#s5-warn", { opacity: 0, y: 70, scale: 0.92, duration: 0.55, ease: "power3.out" }, 111.4);
+      tl.fromTo("#s5-warn svg", { rotation: 0, transformOrigin: "50% 50%" }, { rotation: -4, duration: 0.28, yoyo: true, repeat: 3, ease: "sine.inOut", immediateRender: false }, 112.4);
+      tl.from("#s5-sub", { opacity: 0, y: 50, duration: 0.5, ease: "power3.out" }, 118.2);
+      tl.from("#s5-squad", { opacity: 0, y: 70, duration: 0.55, ease: "power3.out" }, 121.0);
+      tl.from("#s5-grid > div", { opacity: 0, scale: 0, stagger: 0.03, duration: 0.35, ease: "back.out(1.8)" }, 121.4);
+      tl.fromTo("#s5-grid .sqfront", { scale: 1 }, { scale: 1.25, duration: 0.3, yoyo: true, repeat: 3, stagger: 0.08, ease: "power2.out", immediateRender: false }, 123.4);
+      tl.from("#s5-note", { opacity: 0, y: 30, duration: 0.45, ease: "back.out(1.6)" }, 123.6);
+      tl.to("#s5-in", { opacity: 0, y: -50, duration: 0.35, ease: "power2.in" }, 126.95);
+
+      // ---- S6 outro (e9 @127.7 : 1番 127.8 / 3番 130.4 / ちがう 133.4 / 次は 137.8) ----
+      tl.from("#s6-r1", { opacity: 0, x: -80, duration: 0.55, ease: "back.out(1.5)" }, 127.8);
+      tl.from("#s6-r3", { opacity: 0, x: 80, duration: 0.55, ease: "back.out(1.5)" }, 130.4);
+      tl.from("#s6-l2", { yPercent: 115, duration: 0.6, ease: "power3.out" }, 133.4);
+      tl.from("#s6-next .eyebrow", { opacity: 0, y: 30, duration: 0.5, ease: "back.out(1.6)" }, 137.8);
+      tl.from("#s6-next .nx", { opacity: 0, y: 40, scale: 0.8, stagger: 0.25, duration: 0.45, ease: "back.out(1.8)" }, 138.2);
+      tl.from("#s6-logo", { opacity: 0, scale: 0.6, y: 40, duration: 0.55, ease: "back.out(1.7)" }, 139.4);
+      tl.fromTo("#s6-shine", { x: 0 }, { x: 620, duration: 0.7, ease: "power2.inOut" }, 140.2);
+      tl.fromTo("#s6-in", { scale: 1 }, { scale: 1.03, duration: 5.0, ease: "none" }, 137.0);
+
+      // hard kills at clip boundaries (seek-safe)
+      tl.set("#s1-in", { opacity: 0 }, 15.5);
+      tl.set("#s2-in", { opacity: 0 }, 28.5);
+      tl.set("#s3-in", { opacity: 0 }, 91.7);
+      tl.set("#s4-in", { opacity: 0 }, 108.0);
+      tl.set("#s5-in", { opacity: 0 }, 127.3);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
