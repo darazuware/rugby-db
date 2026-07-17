@@ -12,6 +12,9 @@
 公開関数:
     collect(tournament) -> {"players","teams","matches","standings","warnings"}
       tournament は "top14" / "super-rugby-pacific"。run.py の SCRAPERS から呼ぶ。
+    collect_national() -> 同形式（P1-7）。日本代表＋pipeline.scrape.jrfu が返す
+      直近対戦国のみのスコッドを対象とし、テストキャップ enrich は常時行う
+      （対象人数が少ないため ALL_RUGBY_ENRICH フラグに依存しない）。
 """
 from __future__ import annotations
 
@@ -239,6 +242,64 @@ def _enrich(raw: dict) -> None:
         raw["career"] = bio["career"]
 
 
+def parse_player_caps(html: str, country_display: str) -> Optional[int]:
+    """選手個別ページの通算成績表（class="JOverall"）末尾の「TEAM」集計セクションから、
+    対象代表チームの通算試合数（テストキャップ相当）を抽出する（P1-7 enrich 用）。
+
+    このセクションは所属クラブ・代表チームごとの全期間合計試合数の一覧で、
+    国名の行に一致すればその Matches 列を採用する。見つからない場合は None
+    （原則3: 不明は null）。
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find("table", class_="JOverall")
+    if table is None:
+        return None
+    trs = table.find_all("tr")
+    start = None
+    for i, tr in enumerate(trs):
+        cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
+        if len(cells) >= 2 and cells[1] == "TEAM":
+            start = i + 1
+            break
+    if start is None:
+        return None
+    target = country_display.strip().lower()
+    for tr in trs[start:]:
+        cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
+        if len(cells) < 3:
+            break  # 空行でセクション終端
+        if cells[1].strip().lower() == target:
+            try:
+                return int(cells[2])
+            except ValueError:
+                return None
+    return None
+
+
+def _enrich_national(raw: dict, country_display: str) -> None:
+    """national squad 用 enrich: nationality/career/代表通算試合数を1回のfetchで補完。
+
+    club squad の collect() と異なり ALL_RUGBY_ENRICH フラグに関わらず常に行う
+    （対象人数が国単位で高々数十人と少なく、02が明示するテストキャップ取得に必要）。
+    """
+    html = _get(f"{BASE}/player/{raw['slug']}")
+    time.sleep(_SLEEP)
+    if html is None:
+        return
+    bio = parse_player_bio(html)
+    if bio["nationality"]:
+        raw["nationality"] = bio["nationality"]
+    if bio["career"]:
+        raw["career"] = bio["career"]
+    caps_count = parse_player_caps(html, country_display)
+    if caps_count is not None:
+        raw["caps"] = {
+            "team": country_display,
+            "count": caps_count,
+            "source_url": f"{BASE}/player/{raw['slug']}",
+        }
+
+
 def collect(tournament: str) -> dict:
     """tournament = 'top14' 等。players/teams/standings（transform 済み）を返す。"""
     cfg = TOURNAMENTS[tournament]
@@ -309,5 +370,62 @@ def collect(tournament: str) -> dict:
         "teams": teams_out,
         "matches": [],
         "standings": standings_out,
+        "warnings": warnings,
+    }
+
+
+def collect_national() -> dict:
+    """代表（national.json、02: 日本代表＋直近1年で日本と対戦する国のみ）を収集する。
+
+    対戦国は pipeline.scrape.jrfu.collect_matches() が JRFU公式日程から導出する
+    opponent_slugs を使う（全世界の代表を取らない）。squad一覧は club team と同じ
+    /club/{slug}/squad を使うが、team_id には Team レコードを作らず（"national" は
+    schemas.TEAM_LEAGUES に含まれないためチーム所属必須ではない）国のslugをそのまま
+    設定し、players 側での国別グルーピングと Match の home/away_team_id 参照に使う。
+    """
+    from pipeline.scrape import jrfu  # 循環import回避のためlocal import
+
+    warnings: list[str] = []
+    sched = jrfu.collect_matches()
+    matches = sched.get("matches", [])
+    warnings.extend(sched.get("warnings", []))
+
+    slugs: list[str] = ["japan"]
+    for s in sched.get("opponent_slugs", []):
+        if s not in slugs:
+            slugs.append(s)
+    if _MAX_TEAMS:
+        slugs = slugs[:_MAX_TEAMS]
+
+    players_out: list[dict] = []
+    seen_players: set[str] = set()
+
+    for slug in slugs:
+        shtml = _get(f"{BASE}/club/{slug}/squad")
+        time.sleep(_SLEEP)
+        if shtml is None:
+            warnings.append(f"national: club/{slug}/squad 取得失敗、スキップ")
+            continue
+        squad = parse_squad(shtml)
+        if _MAX_PLAYERS:
+            squad = squad[:_MAX_PLAYERS]
+        country_display = slug.replace("-", " ").title()
+
+        for raw in squad:
+            if raw["slug"] in seen_players:
+                continue
+            seen_players.add(raw["slug"])
+            _enrich_national(raw, country_display)
+            player, pw = normalize.player_allrugby(raw, league="national", team_id=slug)
+            warnings.extend(pw)
+            if player is None:
+                continue
+            players_out.append(player)
+
+    return {
+        "players": players_out,
+        "teams": [],
+        "matches": matches,
+        "standings": [],
         "warnings": warnings,
     }

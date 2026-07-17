@@ -11,7 +11,7 @@ from typing import Optional
 
 from pydantic import ValidationError
 
-from pipeline.schemas import Player, Team, Standing
+from pipeline.schemas import Match, Player, Team, Standing
 
 JST = timezone(timedelta(hours=9))
 
@@ -131,6 +131,7 @@ def player_allrugby(raw: dict, *, league: str, team_id: str) -> tuple[Optional[d
         "weight_kg": _weight_kg(raw.get("weight_raw")),
         "nationality": raw.get("nationality", []),
         "career": career,
+        "caps": raw.get("caps"),
     }
     try:
         model, w = Player.parse(data)
@@ -238,4 +239,56 @@ def standing(rows_raw: list[dict], *, league: str, season: str) -> tuple[Optiona
         model = Standing.model_validate(data)
     except ValidationError as exc:
         return None, warnings + [f"{league} standings: 検証失敗 {exc.error_count()} 件"]
+    return model.model_dump(by_alias=True), warnings
+
+
+def match_jrfu(g: dict, *, home_slug: str, away_slug: str, game_id) -> tuple[Optional[dict], list[str]]:
+    """JRFU（rugby-japan.jp）game.php の1試合分 dict → Match dict（02: 日本代表日程）。
+
+    g は https://www.rugby-japan.jp/v1.0/game.php?game_id={id} の game_list[0]。
+    venue は正規化せず venue_raw のみに原文を保持する（02）。
+    """
+    warnings: list[str] = []
+    start_epoch = g.get("start_time_plan") or g.get("start_time") or g.get("game_date")
+    if not start_epoch:
+        return None, [f"jrfu_{game_id}: 開催日時が取得できないためスキップ"]
+    try:
+        kickoff_dt = datetime.fromtimestamp(int(start_epoch), tz=timezone.utc)
+    except (ValueError, OSError, TypeError):
+        return None, [f"jrfu_{game_id}: 開催日時のパース失敗のためスキップ"]
+
+    status_code = g.get("game_status")
+    if status_code == 2:
+        status = "finished"
+        home_score = _to_int(g.get("home_team_points"))
+        away_score = _to_int(g.get("away_team_points"))
+    else:
+        if status_code not in (0, 2):
+            warnings.append(f"jrfu_{game_id}: 未知の game_status={status_code!r} のため scheduled 扱い")
+        status = "scheduled"
+        home_score = None
+        away_score = None
+
+    venue_raw = (g.get("stadium") or {}).get("name") or None
+
+    data = {
+        "id": f"jrfu_{game_id}",
+        "league": "national",
+        "season": str(kickoff_dt.year),
+        "round": None,
+        "kickoff_utc": kickoff_dt.isoformat(timespec="seconds"),
+        "home_team_id": home_slug,
+        "away_team_id": away_slug,
+        "home_score": home_score,
+        "away_score": away_score,
+        "status": status,
+        "venue": None,
+        "venue_raw": venue_raw,
+        "source_url": f"https://www.rugby-japan.jp/match/{game_id}",
+        "scraped_at": _now(),
+    }
+    try:
+        model = Match.model_validate(data)
+    except ValidationError as exc:
+        return None, warnings + [f"jrfu_{game_id}: Match 検証失敗 {exc.error_count()} 件のためスキップ"]
     return model.model_dump(by_alias=True), warnings

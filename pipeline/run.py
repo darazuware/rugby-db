@@ -23,6 +23,7 @@ SCRAPERS: dict[str, object] = {
     "league-one-d3": lambda: league_one.collect("d3"),
     "top14": lambda: all_rugby.collect("top14"),
     "super-rugby": lambda: all_rugby.collect("super-rugby-pacific"),
+    "national": lambda: all_rugby.collect_national(),
 }
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",
@@ -81,6 +82,8 @@ def run_leagues(leagues: list[str], *, dry_run: bool) -> int:
     if dry_run:
         for league, players in players_by_league.items():
             print(f"{league}: 選手 {len(players)} 件")
+        if matches:
+            print(f"matches: {len(matches)} 件")
         print("--dry-run: master は書き込まない")
         return 0
 
@@ -97,6 +100,11 @@ def run_leagues(leagues: list[str], *, dry_run: bool) -> int:
         )
     for st in standings:
         io.write_json(io.standings_path(st["league"], st["season"]), st)
+    matches_by_key: dict[tuple[str, str], list[dict]] = {}
+    for m in matches:
+        matches_by_key.setdefault((m["league"], m["season"]), []).append(m)
+    for (league, season), ms in matches_by_key.items():
+        io.write_records(io.matches_path(league, season), ms)
     print("master 更新完了")
     return 0
 

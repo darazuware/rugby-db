@@ -24,7 +24,10 @@ NO_TEAM_LEAGUES = {"national", "sevens-national", "age-grade", "university", "hi
 LEAGUE_KEYS = TEAM_LEAGUES | NO_TEAM_LEAGUES
 
 # source_url 許可ドメイン（03）。Phase4/5 での追加はここに1行足す
-ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp"}
+# rugby-japan.jp: P1-7で追加。02は「JRFU（jrfu.jp）」と表記するが jrfu.jp は
+# 名前解決不可（実在しない）。日本代表公式サイトの実ドメインは www.rugby-japan.jp
+# （2026-07-18 に実ページで確認）のため、正データ取得元としてこちらを許可する。
+ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp"}
 
 HEIGHT_RANGE = (150, 230)
 WEIGHT_RANGE = (60, 170)

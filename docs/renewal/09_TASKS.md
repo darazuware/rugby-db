@@ -16,7 +16,7 @@
 - [ ] **P1-4b** 人物同一性突合 `pipeline/merge_persons.py`: `lo_`×`ar_national` 等の同一人物候補を `_meta/merge_candidates.json` に出力（自動確定しない）。`data/manual/player_merges.json` を読み canonical へ統合。cross_person チェック(03)と連動。完了条件: 代表選手の重複候補が列挙され、merges 適用後に重複が0になる。参照: 01, 03
 - [x] **P1-5** `scrape/all_rugby.py`（Top14）。完了条件: Top14チーム14・選手500+が検証を通る。参照: 02
 - [x] **P1-6** all_rugby.py を Super Rugby Pacific に拡張。tournament key を実ページで確認しコメントに記録。参照: 02
-- [ ] **P1-7** 代表（national.json）: all.rugby の日本代表＋直近対戦国スコッド + `scrape/jrfu.py`（日程）。参照: 02
+- [x] **P1-7** 代表（national.json）: all.rugby の日本代表＋直近対戦国スコッド + `scrape/jrfu.py`（日程）。参照: 02
 - [ ] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
 
 ## Phase 2 — サイト刷新
