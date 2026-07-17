@@ -20,7 +20,7 @@
 - [x] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
 
 ## Phase 2 — サイト刷新
-- [ ] **P2-1** `src/lib/master.ts` + `positions.ts` + `playerText.ts`（テンプレ文）。テスト: null項目の文が出ないこと。参照: 04
+- [x] **P2-1** `src/lib/master.ts` + `positions.ts` + `playerText.ts`（テンプレ文）。テスト: null項目の文が出ないこと。参照: 04
 - [ ] **P2-2** `/players/[slug]` を master 駆動に差替 + PlayerAvatar（③プレースホルダーのみ先行実装）。**master.ts で player_merges を適用し重複人物を1ページに統合**。完了条件: build成功、ページ数≒master件数（重複除外後）、抜き取り10件一致、代表選手が2ページになっていない。参照: 04, 06
 - [ ] **P2-3** teams / leagues / standings / results / national-teams を master 駆動に差替。参照: 04
 - [ ] **P2-4** 旧URL→新URLリダイレクト（**Astro側を主方式**。vercel.json redirects 上限1024超のため使わない）。P1-4 が出した `_meta/redirects.json` を読む。旧地域カテゴリ/個別高校大学ページは一覧へ集約 or 410。完了条件: サンプル20件が301、退避リストのURLが404にならない。参照: 04
