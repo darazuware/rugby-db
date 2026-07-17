@@ -15,7 +15,7 @@
 - [x] **P1-4** 既存 `data/unified_player_database_final.json` → 新スキーマ移行スクリプト `pipeline/migrate_legacy.py`。完了条件: master 初期化、migration_report.md 出力、null化した件数の報告、**`_meta/redirects.json`（旧slug→新slug）出力**、**旧トップリーグ地域カテゴリ(top-east/kyushu/west)と high-school/university 個別ページは master 化せず redirects 退避リストに記録**、education を配列形式で移行（school_id=null, name_raw）。参照: 01
 - [ ] **P1-4b** 人物同一性突合 `pipeline/merge_persons.py`: `lo_`×`ar_national` 等の同一人物候補を `_meta/merge_candidates.json` に出力（自動確定しない）。`data/manual/player_merges.json` を読み canonical へ統合。cross_person チェック(03)と連動。完了条件: 代表選手の重複候補が列挙され、merges 適用後に重複が0になる。参照: 01, 03
 - [x] **P1-5** `scrape/all_rugby.py`（Top14）。完了条件: Top14チーム14・選手500+が検証を通る。参照: 02
-- [ ] **P1-6** all_rugby.py を Super Rugby Pacific に拡張。tournament key を実ページで確認しコメントに記録。参照: 02
+- [x] **P1-6** all_rugby.py を Super Rugby Pacific に拡張。tournament key を実ページで確認しコメントに記録。参照: 02
 - [ ] **P1-7** 代表（national.json）: all.rugby の日本代表＋直近対戦国スコッド + `scrape/jrfu.py`（日程）。参照: 02
 - [ ] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
 
@@ -25,7 +25,7 @@
 - [ ] **P2-3** teams / leagues / standings / results / national-teams を master 駆動に差替。参照: 04
 - [ ] **P2-4** 旧URL→新URLリダイレクト（**Astro側を主方式**。vercel.json redirects 上限1024超のため使わない）。P1-4 が出した `_meta/redirects.json` を読む。旧地域カテゴリ/個別高校大学ページは一覧へ集約 or 410。完了条件: サンプル20件が301、退避リストのURLが404にならない。参照: 04
 - [ ] **P2-5** 既存記事の事実監査（03の手順）。完了条件: audit_result.md + 矛盾記事の draft 化。参照: 03
-- [ ] **P2-6** kanaバッチ: 未設定外国人の一覧生成 → カタカナ変換して `kana_overrides.json` へ（このタスクのみLLMによる変換を許可、03の手順厳守）。参照: 03
+- [x] **P2-6** kanaバッチ: 未設定外国人の一覧生成 → カタカナ変換して `kana_overrides.json` へ（このタスクのみLLMによる変換を許可、03の手順厳守）。参照: 03
 
 ## Phase 3 — 自動化
 - [ ] **P3-1** `pipeline/news_gen.py`（差分→テンプレ記事）+ テスト（fixture差分から期待md生成）。参照: 05
