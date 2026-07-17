@@ -13,6 +13,7 @@ import argparse
 import sys
 
 from pipeline import io
+from pipeline.diffs import detect as diffs_detect
 from pipeline.scrape import all_rugby, league_one
 from pipeline.validate import checks
 
@@ -79,6 +80,30 @@ def run_leagues(leagues: list[str], *, dry_run: bool) -> int:
         print(f"検証失敗 {len(check.errors)} 件。master は更新しない。", file=sys.stderr)
         return 1
 
+    # 4. diffs.detect（02）: 前回masterとの差分 → _meta/diff/{date}_{league}.json
+    #    pending_departures（05: 2回連続確認）も併せて更新する。
+    matches_by_key: dict[tuple[str, str], list[dict]] = {}
+    for m in matches:
+        matches_by_key.setdefault((m["league"], m["season"]), []).append(m)
+    prev_matches: list[dict] = []
+    for key in matches_by_key:
+        prev_matches.extend(io.read_records(io.matches_path(*key)))
+
+    pending = io.read_pending_departures()
+    diffs_by_league, pending = diffs_detect.run_all(
+        players_by_league, prev_by_league, pending,
+        matches=matches, prev_matches=prev_matches,
+    )
+    for league, diff in diffs_by_league.items():
+        io.write_diff_report(league, diff)
+        n = (len(diff["signings"]) + len(diff["transfers"]) + len(diff["departures"])
+             + len(diff["first_caps"]) + len(diff["caps_updates"]))
+        if n:
+            print(f"[diff] {league}: signings={len(diff['signings'])} "
+                  f"transfers={len(diff['transfers'])} departures={len(diff['departures'])} "
+                  f"first_caps={len(diff['first_caps'])} caps_updates={len(diff['caps_updates'])}")
+    io.write_pending_departures(pending)
+
     if dry_run:
         for league, players in players_by_league.items():
             print(f"{league}: 選手 {len(players)} 件")
@@ -100,9 +125,6 @@ def run_leagues(leagues: list[str], *, dry_run: bool) -> int:
         )
     for st in standings:
         io.write_json(io.standings_path(st["league"], st["season"]), st)
-    matches_by_key: dict[tuple[str, str], list[dict]] = {}
-    for m in matches:
-        matches_by_key.setdefault((m["league"], m["season"]), []).append(m)
     for (league, season), ms in matches_by_key.items():
         io.write_records(io.matches_path(league, season), ms)
     print("master 更新完了")

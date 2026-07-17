@@ -17,7 +17,7 @@
 - [x] **P1-5** `scrape/all_rugby.py`（Top14）。完了条件: Top14チーム14・選手500+が検証を通る。参照: 02
 - [x] **P1-6** all_rugby.py を Super Rugby Pacific に拡張。tournament key を実ページで確認しコメントに記録。参照: 02
 - [x] **P1-7** 代表（national.json）: all.rugby の日本代表＋直近対戦国スコッド + `scrape/jrfu.py`（日程）。参照: 02
-- [ ] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
+- [x] **P1-8** `diffs/detect.py`（移籍・キャップ差分、pending_departures の2回確認ロジック含む）+ テスト。参照: 02, 05
 
 ## Phase 2 — サイト刷新
 - [ ] **P2-1** `src/lib/master.ts` + `positions.ts` + `playerText.ts`（テンプレ文）。テスト: null項目の文が出ないこと。参照: 04

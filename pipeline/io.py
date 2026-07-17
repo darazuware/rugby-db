@@ -74,3 +74,12 @@ def write_diff_report(league: str, diff: dict) -> Path:
     path = META_DIR / "diff" / f"{date}_{league}.json"
     write_json(path, diff)
     return path
+
+
+def read_pending_departures() -> dict:
+    """P1-8: league -> {player_id: entry} の退団保留リスト（05: 2回連続確認ロジック）。"""
+    return read_json(META_DIR / "pending_departures.json", default={})
+
+
+def write_pending_departures(data: dict) -> None:
+    write_json(META_DIR / "pending_departures.json", data)
