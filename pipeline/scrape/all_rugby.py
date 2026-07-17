@@ -11,7 +11,7 @@
 
 公開関数:
     collect(tournament) -> {"players","teams","matches","standings","warnings"}
-      tournament は "top14"（P1-6 で super-rugby を追加）。run.py の SCRAPERS から呼ぶ。
+      tournament は "top14" / "super-rugby-pacific"。run.py の SCRAPERS から呼ぶ。
 """
 from __future__ import annotations
 
@@ -37,9 +37,14 @@ _TIMEOUT = 15
 _RETRIES = 2
 
 # トーナメント設定。key は all.rugby の URL キー（実ページで確認済み）。
-# Super Rugby は P1-6 で追加（key は実ページで要確認、02）。
+# Super Rugby: 2026-07-18 に実ページで確認。/tournament/super-rugby/table は
+# 過去シーズン（2020）に固定された古いページで現行データではない。
+# /tournament/super-rugby-pacific/table が現行 2026 シーズン表（title に "2026" を確認、
+# club 11件: blues/brumbies/chiefs/crusaders/fijian-drua/highlanders/hurricanes/
+# moana-pasifika/reds/waratahs/western-force）なのでこちらを採用する。
 TOURNAMENTS = {
     "top14": {"key": "top-14", "league": "top14"},
+    "super-rugby-pacific": {"key": "super-rugby-pacific", "league": "super-rugby"},
 }
 
 # クラブ slug → 日本語表記（data/legacy/top14_teams.json 由来の事実、migrate_legacy と一致）。
@@ -56,6 +61,9 @@ NAME_JA = {
     "dax": "ダクス", "carcassonne": "カルカソンヌ", "montauban": "モントーバン",
     "valence-romans": "ヴァランス・ロマン", "soyaux-angouleme": "スワイヨ・アングレーム",
 }
+# Super Rugby Pacific のクラブは、確認済みの和文表記の出典（data/legacy 含む）が
+# 無いため意図的に未登録（原則3: 不明は null）。team_allrugby が英語名/slugへ
+# フォールバックする。
 
 # スモークテスト用の上限（本番未設定）。ALL_RUGBY_MAX_TEAMS / _MAX_PLAYERS。
 _MAX_TEAMS = int(os.environ.get("ALL_RUGBY_MAX_TEAMS", "0")) or None

@@ -22,6 +22,7 @@ SCRAPERS: dict[str, object] = {
     "league-one-d2": lambda: league_one.collect("d2"),
     "league-one-d3": lambda: league_one.collect("d3"),
     "top14": lambda: all_rugby.collect("top14"),
+    "super-rugby": lambda: all_rugby.collect("super-rugby-pacific"),
 }
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",

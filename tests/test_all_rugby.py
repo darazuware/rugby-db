@@ -1,4 +1,5 @@
-"""P1-5: all.rugby スクレイパー（Top14）のパース + transform をオフラインHTMLで検証。"""
+"""P1-5/P1-6: all.rugby スクレイパー（Top14 / Super Rugby Pacific）の
+パース + transform をオフラインHTMLで検証。"""
 import pathlib
 
 from pipeline.scrape import all_rugby
@@ -66,6 +67,21 @@ def test_parse_player_bio_enrich():
     assert "Stade Toulousain" in teams
     tou = next(c for c in bio["career"] if c["team"] == "Stade Toulousain")
     assert tou["from"] == "2017" and tou["to"] == "2026"
+
+
+def test_super_rugby_tournament_registered():
+    # P1-6: super-rugby-pacific が実ページ確認済みキーで TOURNAMENTS に登録され、
+    # league は run.py の SCRAPERS / ALL_LEAGUES と一致する "super-rugby"。
+    cfg = all_rugby.TOURNAMENTS["super-rugby-pacific"]
+    assert cfg["key"] == "super-rugby-pacific"
+    assert cfg["league"] == "super-rugby"
+
+
+def test_super_rugby_registered_in_run_scrapers():
+    from pipeline import run
+
+    assert "super-rugby" in run.SCRAPERS
+    assert "super-rugby" in run.ALL_LEAGUES
 
 
 def test_enriched_career_validates():
