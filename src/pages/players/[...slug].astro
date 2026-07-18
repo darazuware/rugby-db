@@ -15,6 +15,7 @@ import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import PlayerAvatar from "../../components/PlayerAvatar.astro";
 import { getTeamSlug } from "../../utils/team_utils";
 import {
+  canHaveIndividualPlayerPage,
   getAllPlayers,
   getTeamById,
   teamDisplayName,
@@ -26,7 +27,9 @@ import { positionJa } from "../../lib/positions";
 
 export async function getStaticPaths() {
   const players = await getAllPlayers();
-  return players.map((player) => ({
+  // 10のポリシー: 高校生（league="highschool"）の個別ページは生成しない。
+  // 学校ページ（P5-4）内の一覧行のみで表示する。
+  return players.filter(canHaveIndividualPlayerPage).map((player) => ({
     params: { slug: player.slug },
     props: { player },
   }));
@@ -218,6 +221,7 @@ const metaDesc = [
               size={96}
               class="rounded-2xl shadow-xl shrink-0"
               playerId={player.id}
+              isMinor={player.is_minor}
             />
             <div>
               <h1 class="text-4xl md:text-5xl font-black mb-2">{mainName}</h1>

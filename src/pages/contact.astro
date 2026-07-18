@@ -15,6 +15,12 @@ const submitted = Astro.url.searchParams.get("success") === "true";
                 <p class="text-foreground/40 font-bold">
                     当サイトに関するお問い合わせ、ご意見、情報の修正依頼などはこちらから。
                 </p>
+                <p class="text-foreground/40 text-sm mt-4">
+                    未成年選手（高校生・U代表等）の掲載情報の削除をご希望の場合は、件名で「未成年選手の情報削除依頼」を選択してご連絡ください。他のお問い合わせより優先して速やかに対応します。詳細は<a
+                        href="/privacy#minors"
+                        class="text-yellow-400 underline">プライバシーポリシー</a
+                    >をご覧ください。
+                </p>
             </header>
 
             {submitted ? (
@@ -79,6 +85,9 @@ const submitted = Astro.url.searchParams.get("success") === "true";
                         >
                             <option value="general">サイト全般について</option>
                             <option value="bug">情報の誤り・不正規の報告</option
+                            >
+                            <option value="minor_deletion"
+                                >未成年選手の情報削除依頼</option
                             >
                             <option value="business"
                                 >広告・ビジネスのお問い合わせ</option

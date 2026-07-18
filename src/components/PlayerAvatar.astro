@@ -8,6 +8,10 @@
  * 上位が無ければ下位へ自動フォールバックする（ファイル/登録の存在で判定）。
  *
  * playerId を渡さない呼び出しは③のみで動作する（後方互換）。
+ *
+ * isMinor=true（10のポリシー: 未成年は写真・AIイラスト掲載禁止）の場合は
+ * ①②の判定自体を行わず、常に③のイニシャルプレースホルダーへ強制フォールバックする。
+ * これは呼び出し側（各ページ）の実装ミスに依存しないコード側の強制。
  */
 import { existsSync } from "node:fs";
 import { join } from "node:path";
@@ -22,17 +26,26 @@ interface Props {
   class?: string;
   /** master の player.id。① Instagram登録 / ② イラスト配置の判定に使う。省略時は③のみ。 */
   playerId?: string | null;
+  /** true の場合、①②を無視し常に③（イニシャルプレースホルダー）を表示する（10のポリシー）。 */
+  isMinor?: boolean;
 }
 
-const { name, color = null, size = 128, class: className = "", playerId = null } = Astro.props;
+const {
+  name,
+  color = null,
+  size = 128,
+  class: className = "",
+  playerId = null,
+  isMinor = false,
+} = Astro.props;
 
 type InstagramAccount = { username: string; post_url: string };
 const accounts = instagramAccounts as Record<string, InstagramAccount>;
 const instagramEntry: InstagramAccount | null =
-  playerId != null ? (accounts[playerId] ?? null) : null;
+  !isMinor && playerId != null ? (accounts[playerId] ?? null) : null;
 
 const illustrationPath =
-  playerId != null
+  !isMinor && playerId != null
     ? join(process.cwd(), "public", "illustrations", `${playerId}.webp`)
     : null;
 const hasIllustration = illustrationPath != null && existsSync(illustrationPath);

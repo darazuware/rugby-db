@@ -1,5 +1,12 @@
 import { describe, expect, it } from "vitest";
-import { applyPlayerMerges, getAllPlayers, getAllTeams, type Player } from "../master";
+import {
+  applyPlayerMerges,
+  canHaveIndividualPlayerPage,
+  getAllPlayers,
+  getAllTeams,
+  sanitizeMinorPlayer,
+  type Player,
+} from "../master";
 
 function makePlayer(overrides: Partial<Player> = {}): Player {
   return {
@@ -75,6 +82,58 @@ describe("applyPlayerMerges", () => {
     const dup = makePlayer({ id: "ar_1" });
     const result = applyPlayerMerges([dup], { ar_1: "missing_canonical" });
     expect(result.map((p) => p.id)).toEqual(["ar_1"]); // 除外されない
+  });
+});
+
+describe("sanitizeMinorPlayer（10のポリシー: 未成年の禁止フィールド強制null化）", () => {
+  it("is_minor=false はそのまま返す", () => {
+    const player = makePlayer({
+      is_minor: false,
+      birthdate: "2008-04-01",
+      height_cm: 175,
+      weight_kg: 80,
+      instagram: "someone",
+      image_url: "https://example.com/a.jpg",
+    });
+    expect(sanitizeMinorPlayer(player)).toBe(player);
+  });
+
+  it("is_minor=true は禁止フィールドを null 化する", () => {
+    const player = makePlayer({
+      is_minor: true,
+      birthdate: "2008-04-01",
+      height_cm: 175,
+      weight_kg: 80,
+      instagram: "someone",
+      image_url: "https://example.com/a.jpg",
+    });
+    const result = sanitizeMinorPlayer(player);
+    expect(result.birthdate).toBeNull();
+    expect(result.height_cm).toBeNull();
+    expect(result.weight_kg).toBeNull();
+    expect(result.instagram).toBeNull();
+    expect(result.image_url).toBeNull();
+    // 掲載可のフィールドは維持される
+    expect(result.name_ja).toBe(player.name_ja);
+    expect(result.position).toBe(player.position);
+  });
+
+  it("元のオブジェクトを変更しない（イミュータブル）", () => {
+    const player = makePlayer({ is_minor: true, birthdate: "2008-04-01" });
+    sanitizeMinorPlayer(player);
+    expect(player.birthdate).toBe("2008-04-01");
+  });
+});
+
+describe("canHaveIndividualPlayerPage（10のポリシー: 高校生は個別ページを作らない）", () => {
+  it("league=highschool は false", () => {
+    expect(canHaveIndividualPlayerPage(makePlayer({ league: "highschool" }))).toBe(false);
+  });
+
+  it("league=highschool 以外（大学・age-grade等）は true", () => {
+    expect(canHaveIndividualPlayerPage(makePlayer({ league: "university" }))).toBe(true);
+    expect(canHaveIndividualPlayerPage(makePlayer({ league: "age-grade" }))).toBe(true);
+    expect(canHaveIndividualPlayerPage(makePlayer({ league: "league-one-d1" }))).toBe(true);
   });
 });
 

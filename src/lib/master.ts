@@ -241,13 +241,54 @@ export function applyPlayerMerges(players: Player[], merges: PlayerMerges): Play
   return players.filter((p) => !dupIds.has(p.id));
 }
 
+// ---------------------------------------------------------------------------
+// 未成年ポリシー（10_YOUTH_AGEGRADE.md「未成年の個人情報ポリシー（絶対）」）
+//
+// is_minor=true の選手は、テンプレート側の実装ミスに依存せず、この読み込み層で
+// 禁止フィールドを強制的に null 化する。ページ・コンポーネント・APIエンドポイントは
+// すべて getAllPlayers() 系の関数を経由するため、ここで一度塞げば全経路に効く。
+//
+// 掲載禁止（10）: 生年月日（学年のみ可）・身長体重・SNSアカウント・写真/AIイラスト。
+// 写真/AIイラストは PlayerAvatar.astro 側で isMinor を見て強制フォールバックする
+// （instagram_accounts.json / illustrations/ はこのデータ層の外にあるため、image_url /
+//  instagram を null 化するだけでは塞げない）。
+// ---------------------------------------------------------------------------
+
+const MINOR_FORBIDDEN_FIELDS = [
+  "birthdate",
+  "height_cm",
+  "weight_kg",
+  "instagram",
+  "image_url",
+] as const;
+
+/** is_minor=true の選手から禁止フィールドを null 化した新しいオブジェクトを返す（純関数）。 */
+export function sanitizeMinorPlayer(player: Player): Player {
+  if (!player.is_minor) return player;
+  const sanitized = { ...player };
+  for (const field of MINOR_FORBIDDEN_FIELDS) {
+    (sanitized as Record<string, unknown>)[field] = null;
+  }
+  return sanitized;
+}
+
+/**
+ * 選手個別ページ（/players/{slug}）を生成してよいか（10「高校生の個別ページは作らない」）。
+ * league="highschool" は学校ページ内の一覧行のみで表示し、個別ページは生成しない。
+ * 大学進学・U代表/セブンズ代表選出（education の追加や squad/league の変化）により
+ * league が highschool 以外になった時点で個別ページ対象になる。
+ */
+export function canHaveIndividualPlayerPage(player: Player): boolean {
+  return player.league !== "highschool";
+}
+
 async function loadAllPlayersRaw(): Promise<Player[]> {
   const lists = await Promise.all(
     LEAGUE_KEYS.map((league) =>
       readJsonSafe<Player[]>(join(PLAYERS_DIR, `${league}.json`), []),
     ),
   );
-  return lists.flat();
+  return lists.flat().map(sanitizeMinorPlayer);
 }
 
 /** 全リーグの選手を結合し、人物重複マージを適用したリストを返す（キャッシュ済み）。 */
