@@ -37,7 +37,7 @@ export const StandingEntrySchema = z.object({
   points:       CoercedInt,
   try_bonus:    CoercedOptionalInt,
   losing_bonus: CoercedOptionalInt,
-  division:     z.string().optional(),
+  division:     z.string().nullable().optional(),
 });
 
 export type StandingEntry = z.infer<typeof StandingEntrySchema>;

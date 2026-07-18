@@ -20,6 +20,7 @@ import TeamPlayerList from "../../../components/TeamPlayerList";
 import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import { findMasterTeamBySlug, getTeamRosterLegacyShape } from "../../../lib/masterAdapters";
 
 const { league: leagueParam, slug } = Astro.params;
 const team: any = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
@@ -99,65 +100,87 @@ const isLeagueOne = league === "league-one";
 // const team = Astro.props.team || teamsData.find((t: any) => t.slug === paramSlug);
 
 // 所属選手の取得
-const allPlayers = await getCollection("players");
-const teamPlayers = allPlayers
-    .filter((p: any) => {
-        const normalize = (s: any) =>
-            String(s || "")
-                .normalize("NFC")
-                .trim();
-        const pLeague = normalize(p.data.league);
-        const tLeague = normalize(league);
+// master (SSOT) にチームが存在する場合は roster_ids ベースの厳密な突合を使う（04/P2-3）。
+// 表記揺れによる文字列部分一致（誤爆しうる）は master 未対応チームのみのフォールバックとする。
+// 対応リーグは masterAdapters.ts の LEGACY_LEAGUE_MASTER_KEYS 参照（現時点: league-one のみ）。
+const masterTeam = await findMasterTeamBySlug(league, slug || "");
 
-        // 1. リーグ一致を確認 (プレイヤー側のリーグタグが空の場合は例外的に許可)
-        if (pLeague !== "" && pLeague !== tLeague) return false;
+let allPlayers: any[] = [];
+let uniqueTeamPlayers: any[];
+let squadPlayers: any[];
 
-        const pTeamRaw = p.data.team;
-        if (!pTeamRaw) return false;
+if (masterTeam) {
+    const roster = await getTeamRosterLegacyShape(masterTeam);
+    uniqueTeamPlayers = Array.from(new Map(roster.map((p) => [p.slug, p])).values());
+    squadPlayers = uniqueTeamPlayers;
+} else {
+    allPlayers = await getCollection("players");
+    const teamPlayers = allPlayers
+        .filter((p: any) => {
+            const normalize = (s: any) =>
+                String(s || "")
+                    .normalize("NFC")
+                    .trim();
+            const pLeague = normalize(p.data.league);
+            const tLeague = normalize(league);
 
-        const pTeam = normalize(pTeamRaw);
-        const tName = normalize(team.team_name);
-        const tEnName = normalize(team.team_en_name);
-        const tDisplay = normalize(teamNameDisplay);
-        const formalName = mapping ? normalize(mapping.formalName) : "";
-        const aliases = (mapping?.aliases || []).map((a: string) => normalize(a));
+            // 1. リーグ一致を確認 (プレイヤー側のリーグタグが空の場合は例外的に許可)
+            if (pLeague !== "" && pLeague !== tLeague) return false;
 
-        // 2. 正規化後の完全一致 (日本語名、英語名、正式名、マッピング表示名、エイリアス)
-        if (
-            pTeam === tName || 
-            pTeam === tEnName || 
-            pTeam === tDisplay || 
-            pTeam === formalName ||
-            aliases.includes(pTeam)
-        ) return true;
+            const pTeamRaw = p.data.team;
+            if (!pTeamRaw) return false;
 
-        // 3. 部分一致による補完（特に海外リーグの表記揺れ対応）
-        if (tName && (pTeam.includes(tName) || tName.includes(pTeam)))
-            return true;
-        if (
-            tEnName &&
-            tEnName.length > 5 &&
-            (pTeam.includes(tEnName) || tEnName.includes(pTeam))
-        )
-            return true;
-        if (tDisplay && (pTeam.includes(tDisplay) || tDisplay.includes(pTeam)))
-            return true;
-        if (formalName && formalName.length > 5 && (pTeam.includes(formalName) || formalName.includes(pTeam)))
-            return true;
+            const pTeam = normalize(pTeamRaw);
+            const tName = normalize(team.team_name);
+            const tEnName = normalize(team.team_en_name);
+            const tDisplay = normalize(teamNameDisplay);
+            const formalName = mapping ? normalize(mapping.formalName) : "";
+            const aliases = (mapping?.aliases || []).map((a: string) => normalize(a));
 
-        return false;
-    })
-    .map((p: any) => ({
-        slug: p.slug,
-        data: p.data,
-    }));
+            // 2. 正規化後の完全一致 (日本語名、英語名、正式名、マッピング表示名、エイリアス)
+            if (
+                pTeam === tName ||
+                pTeam === tEnName ||
+                pTeam === tDisplay ||
+                pTeam === formalName ||
+                aliases.includes(pTeam)
+            ) return true;
 
-// スラッグによる重複排除 (データソースの問題による重複表示をフロントエンドで防止)
-const uniqueTeamPlayers = Array.from(
-    new Map(teamPlayers.map((p: any) => [p.slug, p])).values()
-);
-// 所属選手の取得
-// ... (既存の players 取得)
+            // 3. 部分一致による補完（特に海外リーグの表記揺れ対応）
+            if (tName && (pTeam.includes(tName) || tName.includes(pTeam)))
+                return true;
+            if (
+                tEnName &&
+                tEnName.length > 5 &&
+                (pTeam.includes(tEnName) || tEnName.includes(pTeam))
+            )
+                return true;
+            if (tDisplay && (pTeam.includes(tDisplay) || tDisplay.includes(pTeam)))
+                return true;
+            if (formalName && formalName.length > 5 && (pTeam.includes(formalName) || formalName.includes(pTeam)))
+                return true;
+
+            return false;
+        })
+        .map((p: any) => ({
+            slug: p.slug,
+            data: p.data,
+        }));
+
+    // スラッグによる重複排除 (データソースの問題による重複表示をフロントエンドで防止)
+    uniqueTeamPlayers = Array.from(
+        new Map(teamPlayers.map((p: any) => [p.slug, p])).values()
+    );
+
+    // 当該チームの注目選手 (キャップ数順) 用データ（master 未対応チームのみ）
+    squadPlayers = allPlayers.filter((p: any) => {
+        const pTeam = p.data.team || "";
+        return pTeam.includes(team.team_name) ||
+               pTeam.includes(teamNameDisplay) ||
+               (mapping?.formalName && pTeam.includes(mapping.formalName));
+    });
+}
+const teamPlayers = uniqueTeamPlayers;
 
 // 共通の戦績データ取得
 import resultsData from "../../../../data/results_2026.json";
@@ -203,15 +226,8 @@ const getTeamResults = () => {
 
 const matchResults = getTeamResults();
 
-// 当該チームの注目選手 (キャップ数順)
-const squadPlayers = allPlayers.filter(p => {
-    const pTeam = p.data.team || "";
-    // 柔軟な一致チェック
-    return pTeam.includes(team.team_name) || 
-           pTeam.includes(teamNameDisplay) ||
-           (mapping?.formalName && pTeam.includes(mapping.formalName));
-});
-
+// 当該チームの注目選手 (キャップ数順) — squadPlayers は上の if/else で解決済み
+// (master 対応チームは roster_ids ベース、未対応チームは従来の文字列一致)
 const getCapCount = (capStr: string) => {
     if (!capStr) return 0;
     const match = capStr.match(/\((\d+)\)/);

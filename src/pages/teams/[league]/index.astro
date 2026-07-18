@@ -14,6 +14,7 @@ import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import { groupByRound } from "../../../utils/result_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import { getMasterPlayersLegacyShape } from "../../../lib/masterAdapters";
 
 export async function getStaticPaths() {
     return [
@@ -103,29 +104,37 @@ const standings = rawStandings.map((s: any) => {
 });
 
 // 全選手データの取得と補完
-// 全選手データの取得と補完
-const allPlayersRaw = await getCollection("players");
-const teamToDivision: Record<string, string> = {};
-(teamsData as any[]).forEach((t: any) => {
-    if (t.team_name && t.division) {
-        teamToDivision[t.team_name] = t.division;
-    }
-});
+// master (SSOT) 対応済みリーグ（04/P2-3時点: league-one のみ。masterAdapters.ts 参照）は
+// master 駆動、それ以外は既存の content collection を使う（見た目・挙動は維持）。
+const masterPlayers = await getMasterPlayersLegacyShape(league || "");
+let initialPlayers: { slug: string; data: Record<string, unknown> }[];
 
-// Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
-const initialPlayers = allPlayersRaw.map((p: any) => {
-    const division =
-        (p.data.team ? teamToDivision[p.data.team] : "") ||
-        p.data.division ||
-        "";
-    return {
-        slug: p.slug,
-        data: {
-            ...p.data,
-            division: division,
-        },
-    };
-});
+if (masterPlayers.length > 0) {
+    initialPlayers = masterPlayers;
+} else {
+    const allPlayersRaw = await getCollection("players");
+    const teamToDivision: Record<string, string> = {};
+    (teamsData as any[]).forEach((t: any) => {
+        if (t.team_name && t.division) {
+            teamToDivision[t.team_name] = t.division;
+        }
+    });
+
+    // Reactコンポーネントに渡すためにシリアライズ可能なデータにクレンジング
+    initialPlayers = allPlayersRaw.map((p: any) => {
+        const division =
+            (p.data.team ? teamToDivision[p.data.team] : "") ||
+            p.data.division ||
+            "";
+        return {
+            slug: p.slug,
+            data: {
+                ...p.data,
+                division: division,
+            },
+        };
+    });
+}
 
 // ページタイトル用の装飾
 const safeLeagueName = leagueName || league || "";
