@@ -26,7 +26,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "saltlakehighschool",
         "name_raw": "SaltLakeHighSchool",
         "type": "hs",
         "grad_year": null,
@@ -68,7 +68,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "アランモアカトリックカレッジ",
         "name_raw": "アランモアカトリックカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -110,7 +110,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大学附属柏高校",
         "name_raw": "流通経済大学附属柏高校",
         "type": "hs",
         "grad_year": null,
@@ -118,7 +118,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -160,7 +160,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -168,7 +168,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "青山学院大学",
         "name_raw": "青山学院大学",
         "type": "univ",
         "grad_year": null,
@@ -210,7 +210,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "九州学院高校",
         "name_raw": "九州学院高校",
         "type": "hs",
         "grad_year": null,
@@ -218,7 +218,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡大学",
         "name_raw": "福岡大学",
         "type": "univ",
         "grad_year": null,
@@ -260,7 +260,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西学院高等部",
         "name_raw": "関西学院高等部",
         "type": "hs",
         "grad_year": null,
@@ -268,7 +268,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -310,7 +310,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "名古屋西高校",
         "name_raw": "名古屋西高校",
         "type": "hs",
         "grad_year": null,
@@ -318,7 +318,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中京大学",
         "name_raw": "中京大学",
         "type": "univ",
         "grad_year": null,
@@ -360,7 +360,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大分舞鶴高校",
         "name_raw": "大分舞鶴高校",
         "type": "hs",
         "grad_year": null,
@@ -368,7 +368,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -410,7 +410,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大学付属柏高校",
         "name_raw": "流通経済大学付属柏高校",
         "type": "hs",
         "grad_year": null,
@@ -418,7 +418,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -460,7 +460,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尾道高校",
         "name_raw": "尾道高校",
         "type": "hs",
         "grad_year": null,
@@ -468,7 +468,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -510,7 +510,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "静岡聖光学院高校",
         "name_raw": "静岡聖光学院高校",
         "type": "hs",
         "grad_year": null,
@@ -518,7 +518,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -560,7 +560,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "aorerecollege",
         "name_raw": "AorereCollege",
         "type": "hs",
         "grad_year": null,
@@ -568,7 +568,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "オークランド大学",
         "name_raw": "オークランド大学",
         "type": "univ",
         "grad_year": null,
@@ -610,7 +610,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本航空高校石川",
         "name_raw": "日本航空高校石川",
         "type": "hs",
         "grad_year": null,
@@ -618,7 +618,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -660,7 +660,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "深谷高校",
         "name_raw": "深谷高校",
         "type": "hs",
         "grad_year": null,
@@ -668,7 +668,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -710,7 +710,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -718,7 +718,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -760,7 +760,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "トンガカレッジ",
         "name_raw": "トンガカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -768,7 +768,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -810,7 +810,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -818,7 +818,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関東学院大学",
         "name_raw": "関東学院大学",
         "type": "univ",
         "grad_year": null,
@@ -860,7 +860,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎南山高校",
         "name_raw": "長崎南山高校",
         "type": "hs",
         "grad_year": null,
@@ -868,7 +868,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -910,7 +910,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属甲府高校",
         "name_raw": "東海大学付属甲府高校",
         "type": "hs",
         "grad_year": null,
@@ -918,7 +918,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -960,7 +960,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属相模高校",
         "name_raw": "東海大学付属相模高校",
         "type": "hs",
         "grad_year": null,
@@ -968,7 +968,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -1010,7 +1010,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大柏高校",
         "name_raw": "流通経済大柏高校",
         "type": "hs",
         "grad_year": null,
@@ -1018,7 +1018,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -1060,7 +1060,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -1068,7 +1068,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -1110,7 +1110,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "陸上自衛隊少年工科学校",
         "name_raw": "陸上自衛隊少年工科学校",
         "type": "hs",
         "grad_year": null,
@@ -1118,7 +1118,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関東学院大学",
         "name_raw": "関東学院大学",
         "type": "univ",
         "grad_year": null,
@@ -1160,7 +1160,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -1168,7 +1168,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -1210,7 +1210,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大分舞鶴高校",
         "name_raw": "大分舞鶴高校",
         "type": "hs",
         "grad_year": null,
@@ -1218,7 +1218,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -1260,7 +1260,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -1268,7 +1268,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -1310,7 +1310,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属甲府高校",
         "name_raw": "東海大学付属甲府高校",
         "type": "hs",
         "grad_year": null,
@@ -1318,7 +1318,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "愛知学院大学",
         "name_raw": "愛知学院大学",
         "type": "univ",
         "grad_year": null,
@@ -1360,7 +1360,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属相模高校",
         "name_raw": "東海大学付属相模高校",
         "type": "hs",
         "grad_year": null,
@@ -1368,7 +1368,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -1410,7 +1410,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -1418,7 +1418,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -1460,7 +1460,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "正智深谷高校",
         "name_raw": "正智深谷高校",
         "type": "hs",
         "grad_year": null,
@@ -1468,7 +1468,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -1510,7 +1510,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -1518,7 +1518,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -1560,7 +1560,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大東文化大学第一高校",
         "name_raw": "大東文化大学第一高校",
         "type": "hs",
         "grad_year": null,
@@ -1568,7 +1568,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -1610,7 +1610,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "新潟工業高校",
         "name_raw": "新潟工業高校",
         "type": "hs",
         "grad_year": null,
@@ -1618,7 +1618,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -1660,7 +1660,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日川高校",
         "name_raw": "日川高校",
         "type": "hs",
         "grad_year": null,
@@ -1668,7 +1668,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -1710,7 +1710,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西高校",
         "name_raw": "関西高校",
         "type": "hs",
         "grad_year": null,
@@ -1718,7 +1718,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -1760,7 +1760,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "kingscollege",
         "name_raw": "Kingscollege",
         "type": "hs",
         "grad_year": null,
@@ -1768,7 +1768,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "ビクトリア大学",
         "name_raw": "ビクトリア大学",
         "type": "univ",
         "grad_year": null,
@@ -1810,7 +1810,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "saintgeorge-schurchofenglandschool",
         "name_raw": "SaintGeorge’sChurchofEnglandSchool",
         "type": "hs",
         "grad_year": null,
@@ -1818,7 +1818,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "ケントカレッジ",
         "name_raw": "ケントカレッジ",
         "type": "univ",
         "grad_year": null,
@@ -1860,7 +1860,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西大学北陽高校",
         "name_raw": "関西大学北陽高校",
         "type": "hs",
         "grad_year": null,
@@ -1868,7 +1868,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西大学",
         "name_raw": "関西大学",
         "type": "univ",
         "grad_year": null,
@@ -1910,7 +1910,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高鍋高校",
         "name_raw": "高鍋高校",
         "type": "hs",
         "grad_year": null,
@@ -1918,7 +1918,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡大学",
         "name_raw": "福岡大学",
         "type": "univ",
         "grad_year": null,
@@ -1960,7 +1960,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -1968,7 +1968,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -2010,7 +2010,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -2018,7 +2018,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西大学",
         "name_raw": "関西大学",
         "type": "univ",
         "grad_year": null,
@@ -2060,7 +2060,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "幕張総合高校",
         "name_raw": "幕張総合高校",
         "type": "hs",
         "grad_year": null,
@@ -2068,7 +2068,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -2110,7 +2110,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -2118,7 +2118,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -2160,7 +2160,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "リストンカレッジ",
         "name_raw": "リストンカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -2168,7 +2168,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "リストン大学",
         "name_raw": "リストン大学",
         "type": "univ",
         "grad_year": null,
@@ -2210,7 +2210,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "マウントアルバートグラマースクール",
         "name_raw": "マウントアルバートグラマースクール",
         "type": "hs",
         "grad_year": null,
@@ -2218,7 +2218,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "オークランド大学",
         "name_raw": "オークランド大学",
         "type": "univ",
         "grad_year": null,
@@ -2260,7 +2260,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ホエスコール-ハ-スフォンテイン",
         "name_raw": "ホエスコール・ハ—スフォンテイン",
         "type": "hs",
         "grad_year": null,
@@ -2268,7 +2268,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "ヨハナスブルク大学",
         "name_raw": "ヨハナスブルク大学",
         "type": "univ",
         "grad_year": null,
@@ -2310,7 +2310,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "秋田工業高校",
         "name_raw": "秋田工業高校",
         "type": "hs",
         "grad_year": null,
@@ -2318,7 +2318,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -2360,7 +2360,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ロングベイカレッジ",
         "name_raw": "ロングベイカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -2368,7 +2368,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "マッセー大学",
         "name_raw": "マッセー大学",
         "type": "univ",
         "grad_year": null,
@@ -2410,7 +2410,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大相模高校",
         "name_raw": "東海大相模高校",
         "type": "hs",
         "grad_year": null,
@@ -2418,7 +2418,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -2460,7 +2460,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -2468,7 +2468,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -2510,7 +2510,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大相模高校",
         "name_raw": "東海大相模高校",
         "type": "hs",
         "grad_year": null,
@@ -2518,7 +2518,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -2560,7 +2560,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本航空石川高校",
         "name_raw": "日本航空石川高校",
         "type": "hs",
         "grad_year": null,
@@ -2568,7 +2568,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -2610,7 +2610,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尾道高校",
         "name_raw": "尾道高校",
         "type": "hs",
         "grad_year": null,
@@ -2618,7 +2618,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -2660,7 +2660,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "stパトリックカレッジ-シルバーストリーム",
         "name_raw": "Stパトリックカレッジ・シルバーストリーム",
         "type": "hs",
         "grad_year": null,
@@ -2702,7 +2702,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ニュープリマス-ボーイズ",
         "name_raw": "ニュープリマス・ボーイズ",
         "type": "hs",
         "grad_year": null,
@@ -2744,7 +2744,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ギズボーン",
         "name_raw": "ギズボーン",
         "type": "hs",
         "grad_year": null,
@@ -2752,7 +2752,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "ワイカト大学",
         "name_raw": "ワイカト大学",
         "type": "univ",
         "grad_year": null,
@@ -2794,7 +2794,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "セントケンティガン",
         "name_raw": "セントケンティガン",
         "type": "hs",
         "grad_year": null,
@@ -2836,7 +2836,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "オタゴボーイズ",
         "name_raw": "オタゴボーイズ",
         "type": "hs",
         "grad_year": null,
@@ -2878,7 +2878,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "川口高校",
         "name_raw": "川口高校",
         "type": "hs",
         "grad_year": null,
@@ -2886,7 +2886,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "山梨学院大学",
         "name_raw": "山梨学院大学",
         "type": "univ",
         "grad_year": null,
@@ -2928,7 +2928,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "川口高校",
         "name_raw": "川口高校",
         "type": "hs",
         "grad_year": null,
@@ -2936,7 +2936,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -2978,7 +2978,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尾道高校",
         "name_raw": "尾道高校",
         "type": "hs",
         "grad_year": null,
@@ -2986,7 +2986,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -3028,7 +3028,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -3036,7 +3036,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -3078,7 +3078,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院栃木高校",
         "name_raw": "國學院栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -3086,7 +3086,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -3128,7 +3128,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東京高校",
         "name_raw": "東京高校",
         "type": "hs",
         "grad_year": null,
@@ -3136,7 +3136,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -3178,7 +3178,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "専修大学松戸高校",
         "name_raw": "専修大学松戸高校",
         "type": "hs",
         "grad_year": null,
@@ -3186,7 +3186,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -3228,7 +3228,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日川高校",
         "name_raw": "日川高校",
         "type": "hs",
         "grad_year": null,
@@ -3236,7 +3236,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -3278,7 +3278,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "セントバーナード",
         "name_raw": "セントバーナード",
         "type": "hs",
         "grad_year": null,
@@ -3286,7 +3286,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "ビクトリア大学",
         "name_raw": "ビクトリア大学",
         "type": "univ",
         "grad_year": null,
@@ -3328,7 +3328,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桂高校",
         "name_raw": "桂高校",
         "type": "hs",
         "grad_year": null,
@@ -3336,7 +3336,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -3378,7 +3378,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日大藤沢高校",
         "name_raw": "日大藤沢高校",
         "type": "hs",
         "grad_year": null,
@@ -3386,7 +3386,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -3428,7 +3428,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "筑紫高校",
         "name_raw": "筑紫高校",
         "type": "hs",
         "grad_year": null,
@@ -3436,7 +3436,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -3478,7 +3478,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院栃木高校",
         "name_raw": "國學院栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -3486,7 +3486,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -3528,7 +3528,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院久我山高校",
         "name_raw": "國學院久我山高校",
         "type": "hs",
         "grad_year": null,
@@ -3536,7 +3536,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "青山学院大学",
         "name_raw": "青山学院大学",
         "type": "univ",
         "grad_year": null,
@@ -3578,7 +3578,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "早稲田摂陵高校",
         "name_raw": "早稲田摂陵高校",
         "type": "hs",
         "grad_year": null,
@@ -3586,7 +3586,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -3628,7 +3628,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -3636,7 +3636,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -3678,7 +3678,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本航空石川高校",
         "name_raw": "日本航空石川高校",
         "type": "hs",
         "grad_year": null,
@@ -3686,7 +3686,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -3728,7 +3728,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "新田高校",
         "name_raw": "新田高校",
         "type": "hs",
         "grad_year": null,
@@ -3736,7 +3736,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -3778,7 +3778,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "和歌山工業高校",
         "name_raw": "和歌山工業高校",
         "type": "hs",
         "grad_year": null,
@@ -3786,7 +3786,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -3828,7 +3828,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "延岡星雲高校",
         "name_raw": "延岡星雲高校",
         "type": "hs",
         "grad_year": null,
@@ -3836,7 +3836,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -3878,7 +3878,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島工業高校",
         "name_raw": "鹿児島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -3886,7 +3886,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -3928,7 +3928,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都工学院高校",
         "name_raw": "京都工学院高校",
         "type": "hs",
         "grad_year": null,
@@ -3936,7 +3936,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -3978,7 +3978,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -3986,7 +3986,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -4028,7 +4028,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -4036,7 +4036,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -4078,7 +4078,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -4086,7 +4086,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -4128,7 +4128,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "平塚学園高校",
         "name_raw": "平塚学園高校",
         "type": "hs",
         "grad_year": null,
@@ -4136,7 +4136,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "国士舘大学",
         "name_raw": "国士舘大学",
         "type": "univ",
         "grad_year": null,
@@ -4178,7 +4178,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "新潟工業高校",
         "name_raw": "新潟工業高校",
         "type": "hs",
         "grad_year": null,
@@ -4186,7 +4186,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "拓殖大学",
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -4228,7 +4228,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東京高校",
         "name_raw": "東京高校",
         "type": "hs",
         "grad_year": null,
@@ -4236,7 +4236,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -4278,7 +4278,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "秋田工業高校",
         "name_raw": "秋田工業高校",
         "type": "hs",
         "grad_year": null,
@@ -4286,7 +4286,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -4328,7 +4328,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -4336,7 +4336,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "拓殖大学",
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -4378,7 +4378,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -4386,7 +4386,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -4428,7 +4428,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "専修大学付属高校",
         "name_raw": "専修大学付属高校",
         "type": "hs",
         "grad_year": null,
@@ -4436,7 +4436,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -4478,7 +4478,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "報徳学園高校",
         "name_raw": "報徳学園高校",
         "type": "hs",
         "grad_year": null,
@@ -4486,7 +4486,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -4528,7 +4528,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東京高校",
         "name_raw": "東京高校",
         "type": "hs",
         "grad_year": null,
@@ -4536,7 +4536,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -4578,7 +4578,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -4586,7 +4586,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -4628,7 +4628,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐野日大高校",
         "name_raw": "佐野日大高校",
         "type": "hs",
         "grad_year": null,
@@ -4636,7 +4636,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -4678,7 +4678,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大相模高校",
         "name_raw": "東海大相模高校",
         "type": "hs",
         "grad_year": null,
@@ -4686,7 +4686,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -4728,7 +4728,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本大学高校",
         "name_raw": "日本大学高校",
         "type": "hs",
         "grad_year": null,
@@ -4736,7 +4736,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -4778,7 +4778,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "昌平高校",
         "name_raw": "昌平高校",
         "type": "hs",
         "grad_year": null,
@@ -4786,7 +4786,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "國學院大大学",
         "name_raw": "國學院大大学",
         "type": "univ",
         "grad_year": null,
@@ -4828,7 +4828,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ロトルア-ボーイズ",
         "name_raw": "ロトルア・ボーイズ",
         "type": "hs",
         "grad_year": null,
@@ -4836,7 +4836,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -4878,7 +4878,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "都島工業高校",
         "name_raw": "都島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -4886,7 +4886,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -4928,7 +4928,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "報徳学園高校",
         "name_raw": "報徳学園高校",
         "type": "hs",
         "grad_year": null,
@@ -4936,7 +4936,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -4978,7 +4978,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大大阪仰星高校",
         "name_raw": "東海大大阪仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -4986,7 +4986,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -5028,7 +5028,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "西陵高校",
         "name_raw": "西陵高校",
         "type": "hs",
         "grad_year": null,
@@ -5036,7 +5036,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -5078,7 +5078,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -5086,7 +5086,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -5128,7 +5128,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "トゥウンバ文法学校",
         "name_raw": "トゥウンバ文法学校",
         "type": "hs",
         "grad_year": null,
@@ -5170,7 +5170,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ブリズベン州立高校",
         "name_raw": "ブリズベン州立高校",
         "type": "hs",
         "grad_year": null,
@@ -5212,7 +5212,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -5220,7 +5220,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -5262,7 +5262,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "報徳学園高校",
         "name_raw": "報徳学園高校",
         "type": "hs",
         "grad_year": null,
@@ -5270,7 +5270,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -5312,7 +5312,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -5320,7 +5320,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -5362,7 +5362,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "芦屋学園高校",
         "name_raw": "芦屋学園高校",
         "type": "hs",
         "grad_year": null,
@@ -5370,7 +5370,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "摂南大学",
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -5412,7 +5412,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -5420,7 +5420,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -5462,7 +5462,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "伏見工業高校",
         "name_raw": "伏見工業高校",
         "type": "hs",
         "grad_year": null,
@@ -5470,7 +5470,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -5512,7 +5512,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -5520,7 +5520,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡工業大学",
         "name_raw": "福岡工業大学",
         "type": "univ",
         "grad_year": null,
@@ -5562,7 +5562,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東京高校",
         "name_raw": "東京高校",
         "type": "hs",
         "grad_year": null,
@@ -5570,7 +5570,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -5612,7 +5612,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "徳島城北高校",
         "name_raw": "徳島城北高校",
         "type": "hs",
         "grad_year": null,
@@ -5620,7 +5620,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -5662,7 +5662,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎北陽台高校",
         "name_raw": "長崎北陽台高校",
         "type": "hs",
         "grad_year": null,
@@ -5670,7 +5670,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -5712,7 +5712,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東山高校",
         "name_raw": "東山高校",
         "type": "hs",
         "grad_year": null,
@@ -5720,7 +5720,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "摂南大学",
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -5762,7 +5762,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "御所実業高校",
         "name_raw": "御所実業高校",
         "type": "hs",
         "grad_year": null,
@@ -5770,7 +5770,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -5812,7 +5812,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島玉龍高校",
         "name_raw": "鹿児島玉龍高校",
         "type": "hs",
         "grad_year": null,
@@ -5820,7 +5820,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "朝日大学",
         "name_raw": "朝日大学",
         "type": "univ",
         "grad_year": null,
@@ -5862,7 +5862,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桂高校",
         "name_raw": "桂高校",
         "type": "hs",
         "grad_year": null,
@@ -5870,7 +5870,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -5912,7 +5912,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "広島工業高校",
         "name_raw": "広島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -5920,7 +5920,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -5962,7 +5962,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "明和高校",
         "name_raw": "明和高校",
         "type": "hs",
         "grad_year": null,
@@ -5970,7 +5970,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -6012,7 +6012,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎南山高校",
         "name_raw": "長崎南山高校",
         "type": "hs",
         "grad_year": null,
@@ -6020,7 +6020,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -6062,7 +6062,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -6070,7 +6070,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -6112,7 +6112,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -6120,7 +6120,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -6162,7 +6162,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -6170,7 +6170,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -6212,7 +6212,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -6220,7 +6220,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大大学",
         "name_raw": "関西学院大大学",
         "type": "univ",
         "grad_year": null,
@@ -6262,7 +6262,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -6270,7 +6270,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -6312,7 +6312,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -6320,7 +6320,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -6362,7 +6362,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -6370,7 +6370,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -6412,7 +6412,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎南山高校",
         "name_raw": "長崎南山高校",
         "type": "hs",
         "grad_year": null,
@@ -6420,7 +6420,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡工業大学",
         "name_raw": "福岡工業大学",
         "type": "univ",
         "grad_year": null,
@@ -6462,7 +6462,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院栃木高校",
         "name_raw": "國學院栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -6470,7 +6470,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -6512,7 +6512,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ブリスベンステート",
         "name_raw": "ブリスベンステート",
         "type": "hs",
         "grad_year": null,
@@ -6520,7 +6520,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "アイオナ大学",
         "name_raw": "アイオナ大学",
         "type": "univ",
         "grad_year": null,
@@ -6562,7 +6562,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎南山高校",
         "name_raw": "長崎南山高校",
         "type": "hs",
         "grad_year": null,
@@ -6570,7 +6570,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -6612,7 +6612,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日川高校",
         "name_raw": "日川高校",
         "type": "hs",
         "grad_year": null,
@@ -6620,7 +6620,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -6662,7 +6662,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西学院高校",
         "name_raw": "関西学院高校",
         "type": "hs",
         "grad_year": null,
@@ -6670,7 +6670,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -6712,7 +6712,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都工学院高校",
         "name_raw": "京都工学院高校",
         "type": "hs",
         "grad_year": null,
@@ -6720,7 +6720,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "摂南大学",
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -6762,7 +6762,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -6770,7 +6770,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -6812,7 +6812,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "広島工業高校",
         "name_raw": "広島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -6820,7 +6820,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -6862,7 +6862,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尾道高校",
         "name_raw": "尾道高校",
         "type": "hs",
         "grad_year": null,
@@ -6870,7 +6870,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -6912,7 +6912,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -6920,7 +6920,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -6962,7 +6962,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "明和県央高校",
         "name_raw": "明和県央高校",
         "type": "hs",
         "grad_year": null,
@@ -6970,7 +6970,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -7012,7 +7012,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "新田高校",
         "name_raw": "新田高校",
         "type": "hs",
         "grad_year": null,
@@ -7020,7 +7020,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "朝日大学",
         "name_raw": "朝日大学",
         "type": "univ",
         "grad_year": null,
@@ -7062,7 +7062,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -7070,7 +7070,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -7112,7 +7112,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -7120,7 +7120,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -7162,7 +7162,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "コーパスクリスティ",
         "name_raw": "コーパスクリスティ",
         "type": "hs",
         "grad_year": null,
@@ -7204,7 +7204,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ケルビンサイドアカデミー",
         "name_raw": "ケルビンサイドアカデミー",
         "type": "hs",
         "grad_year": null,
@@ -7246,7 +7246,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ハミルトンボーイズ",
         "name_raw": "ハミルトンボーイズ",
         "type": "hs",
         "grad_year": null,
@@ -7288,7 +7288,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -7296,7 +7296,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -7338,7 +7338,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都工学院高校",
         "name_raw": "京都工学院高校",
         "type": "hs",
         "grad_year": null,
@@ -7346,7 +7346,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -7388,7 +7388,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "滋賀学園高校",
         "name_raw": "滋賀学園高校",
         "type": "hs",
         "grad_year": null,
@@ -7396,7 +7396,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -7438,7 +7438,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "中部大学春日丘高校",
         "name_raw": "中部大学春日丘高校",
         "type": "hs",
         "grad_year": null,
@@ -7446,7 +7446,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -7488,7 +7488,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "若狭東高校",
         "name_raw": "若狭東高校",
         "type": "hs",
         "grad_year": null,
@@ -7496,7 +7496,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -7538,7 +7538,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "筑紫高校",
         "name_raw": "筑紫高校",
         "type": "hs",
         "grad_year": null,
@@ -7546,7 +7546,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -7588,7 +7588,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "土佐塾高校",
         "name_raw": "土佐塾高校",
         "type": "hs",
         "grad_year": null,
@@ -7596,7 +7596,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -7638,7 +7638,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "立命館慶祥高校",
         "name_raw": "立命館慶祥高校",
         "type": "hs",
         "grad_year": null,
@@ -7646,7 +7646,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -7688,7 +7688,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西学院高等学部",
         "name_raw": "関西学院高等学部",
         "type": "hs",
         "grad_year": null,
@@ -7696,7 +7696,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -7738,7 +7738,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -7746,7 +7746,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -7788,7 +7788,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "セイントエドマンズカレッジ",
         "name_raw": "セイントエドマンズカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -7830,7 +7830,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -7838,7 +7838,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -7880,7 +7880,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐野日本大学高校",
         "name_raw": "佐野日本大学高校",
         "type": "hs",
         "grad_year": null,
@@ -7888,7 +7888,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -7930,7 +7930,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尼崎高校",
         "name_raw": "尼崎高校",
         "type": "hs",
         "grad_year": null,
@@ -7938,7 +7938,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -7980,7 +7980,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -7988,7 +7988,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -8030,7 +8030,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -8038,7 +8038,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -8080,7 +8080,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "マンジュラバプティストカレッジ",
         "name_raw": "マンジュラバプティストカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -8122,7 +8122,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -8130,7 +8130,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -8172,7 +8172,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -8180,7 +8180,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -8222,7 +8222,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大学付属柏高校",
         "name_raw": "流通経済大学付属柏高校",
         "type": "hs",
         "grad_year": null,
@@ -8230,7 +8230,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -8272,7 +8272,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -8280,7 +8280,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -8322,7 +8322,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属福岡高校",
         "name_raw": "東海大学付属福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -8330,7 +8330,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -8372,7 +8372,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "摂津高校",
         "name_raw": "摂津高校",
         "type": "hs",
         "grad_year": null,
@@ -8380,7 +8380,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -8422,7 +8422,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校ii部",
         "name_raw": "天理高校Ⅱ部",
         "type": "hs",
         "grad_year": null,
@@ -8430,7 +8430,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -8472,7 +8472,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -8480,7 +8480,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -8522,7 +8522,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -8530,7 +8530,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -8572,7 +8572,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -8580,7 +8580,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -8622,7 +8622,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "名南工業高校",
         "name_raw": "名南工業高校",
         "type": "hs",
         "grad_year": null,
@@ -8630,7 +8630,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "愛知工業大学",
         "name_raw": "愛知工業大学",
         "type": "univ",
         "grad_year": null,
@@ -8672,7 +8672,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "関東学院六浦高校",
         "name_raw": "関東学院六浦高校",
         "type": "hs",
         "grad_year": null,
@@ -8680,7 +8680,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関東学院大学",
         "name_raw": "関東学院大学",
         "type": "univ",
         "grad_year": null,
@@ -8722,7 +8722,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "尾道高校",
         "name_raw": "尾道高校",
         "type": "hs",
         "grad_year": null,
@@ -8730,7 +8730,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -8772,7 +8772,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "立命館宇治高校",
         "name_raw": "立命館宇治高校",
         "type": "hs",
         "grad_year": null,
@@ -8780,7 +8780,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -8822,7 +8822,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "つるぎ",
         "name_raw": "つるぎ",
         "type": "hs",
         "grad_year": null,
@@ -8830,7 +8830,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -8872,7 +8872,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -8880,7 +8880,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -8922,7 +8922,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本文理大学附属高校",
         "name_raw": "日本文理大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -8930,7 +8930,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本文理大学",
         "name_raw": "日本文理大学",
         "type": "univ",
         "grad_year": null,
@@ -8972,7 +8972,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "専修大学松戸高校",
         "name_raw": "専修大学松戸高校",
         "type": "hs",
         "grad_year": null,
@@ -8980,7 +8980,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -9022,7 +9022,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高鍋高校",
         "name_raw": "高鍋高校",
         "type": "hs",
         "grad_year": null,
@@ -9030,7 +9030,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "朝日大学",
         "name_raw": "朝日大学",
         "type": "univ",
         "grad_year": null,
@@ -9072,7 +9072,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "広島工業高校",
         "name_raw": "広島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -9080,7 +9080,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -9122,7 +9122,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "報徳学園高校",
         "name_raw": "報徳学園高校",
         "type": "hs",
         "grad_year": null,
@@ -9130,7 +9130,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -9172,7 +9172,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "fasercoastanglican",
         "name_raw": "FaserCoastAnglican",
         "type": "hs",
         "grad_year": null,
@@ -9180,7 +9180,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -9222,7 +9222,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "aranmorecatholiccollege",
         "name_raw": "AranmoreCatholicCollege",
         "type": "hs",
         "grad_year": null,
@@ -9264,7 +9264,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "セントエドマンズカレッジ",
         "name_raw": "セントエドマンズカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -9306,7 +9306,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本大学高校",
         "name_raw": "日本大学高校",
         "type": "hs",
         "grad_year": null,
@@ -9314,7 +9314,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -9356,7 +9356,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ラトゥカンダブレブスクール",
         "name_raw": "ラトゥカンダブレブスクール",
         "type": "hs",
         "grad_year": null,
@@ -9364,7 +9364,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -9406,7 +9406,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大学付属柏高校",
         "name_raw": "流通経済大学付属柏高校",
         "type": "hs",
         "grad_year": null,
@@ -9414,7 +9414,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -9456,7 +9456,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -9464,7 +9464,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -9506,7 +9506,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "甲府工業高校",
         "name_raw": "甲府工業高校",
         "type": "hs",
         "grad_year": null,
@@ -9514,7 +9514,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -9556,7 +9556,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -9564,7 +9564,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "龍谷大学",
         "name_raw": "龍谷大学",
         "type": "univ",
         "grad_year": null,
@@ -9606,7 +9606,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島実業高校",
         "name_raw": "鹿児島実業高校",
         "type": "hs",
         "grad_year": null,
@@ -9614,7 +9614,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -9656,7 +9656,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -9664,7 +9664,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -9706,7 +9706,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大分舞鶴高校",
         "name_raw": "大分舞鶴高校",
         "type": "hs",
         "grad_year": null,
@@ -9714,7 +9714,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -9756,7 +9756,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -9764,7 +9764,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立教大学",
         "name_raw": "立教大学",
         "type": "univ",
         "grad_year": null,
@@ -9806,7 +9806,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院大學栃木高校",
         "name_raw": "國學院大學栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -9814,7 +9814,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -9856,7 +9856,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "へスティングボーイズ高高校",
         "name_raw": "へスティングボーイズ高高校",
         "type": "hs",
         "grad_year": null,
@@ -9864,7 +9864,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "マッセイ大学",
         "name_raw": "マッセイ大学",
         "type": "univ",
         "grad_year": null,
@@ -9906,7 +9906,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ブリスベン高高校",
         "name_raw": "ブリスベン高高校",
         "type": "hs",
         "grad_year": null,
@@ -9948,7 +9948,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高鍋高校",
         "name_raw": "高鍋高校",
         "type": "hs",
         "grad_year": null,
@@ -9956,7 +9956,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -9998,7 +9998,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "昌平高校",
         "name_raw": "昌平高校",
         "type": "hs",
         "grad_year": null,
@@ -10006,7 +10006,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -10048,7 +10048,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "明大中野高校",
         "name_raw": "明大中野高校",
         "type": "hs",
         "grad_year": null,
@@ -10056,7 +10056,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -10098,7 +10098,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "御所実業高校",
         "name_raw": "御所実業高校",
         "type": "hs",
         "grad_year": null,
@@ -10106,7 +10106,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中京大学",
         "name_raw": "中京大学",
         "type": "univ",
         "grad_year": null,
@@ -10148,7 +10148,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都外大西高校",
         "name_raw": "京都外大西高校",
         "type": "hs",
         "grad_year": null,
@@ -10156,7 +10156,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "龍谷大学",
         "name_raw": "龍谷大学",
         "type": "univ",
         "grad_year": null,
@@ -10198,7 +10198,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "岡谷工業高校",
         "name_raw": "岡谷工業高校",
         "type": "hs",
         "grad_year": null,
@@ -10206,7 +10206,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "山梨学院大学",
         "name_raw": "山梨学院大学",
         "type": "univ",
         "grad_year": null,
@@ -10248,7 +10248,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "目黒学院高校",
         "name_raw": "目黒学院高校",
         "type": "hs",
         "grad_year": null,
@@ -10256,7 +10256,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -10298,7 +10298,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日川高校",
         "name_raw": "日川高校",
         "type": "hs",
         "grad_year": null,
@@ -10306,7 +10306,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -10348,7 +10348,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "黒沢尻高校",
         "name_raw": "黒沢尻高校",
         "type": "hs",
         "grad_year": null,
@@ -10356,7 +10356,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "法政大学",
         "name_raw": "法政大学",
         "type": "univ",
         "grad_year": null,
@@ -10398,7 +10398,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎北陽台高校",
         "name_raw": "長崎北陽台高校",
         "type": "hs",
         "grad_year": null,
@@ -10406,7 +10406,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -10448,7 +10448,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院大學栃木高校",
         "name_raw": "國學院大學栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -10456,7 +10456,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -10498,7 +10498,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -10506,7 +10506,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大阪産業大学",
         "name_raw": "大阪産業大学",
         "type": "univ",
         "grad_year": null,
@@ -10548,7 +10548,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -10556,7 +10556,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -10598,7 +10598,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -10606,7 +10606,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -10648,7 +10648,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -10656,7 +10656,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -10698,7 +10698,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎北陽台高校",
         "name_raw": "長崎北陽台高校",
         "type": "hs",
         "grad_year": null,
@@ -10706,7 +10706,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -10748,7 +10748,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "明和県央高校",
         "name_raw": "明和県央高校",
         "type": "hs",
         "grad_year": null,
@@ -10756,7 +10756,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -10798,7 +10798,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -10806,7 +10806,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "名城大学",
         "name_raw": "名城大学",
         "type": "univ",
         "grad_year": null,
@@ -10848,7 +10848,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "清教学園高校",
         "name_raw": "清教学園高校",
         "type": "hs",
         "grad_year": null,
@@ -10856,7 +10856,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -10898,7 +10898,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪桐蔭高校",
         "name_raw": "大阪桐蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -10906,7 +10906,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大阪体育大学",
         "name_raw": "大阪体育大学",
         "type": "univ",
         "grad_year": null,
@@ -10948,7 +10948,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "国学院栃木高校",
         "name_raw": "国学院栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -10956,7 +10956,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -10998,7 +10998,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -11006,7 +11006,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -11048,7 +11048,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鶴来高校",
         "name_raw": "鶴来高校",
         "type": "hs",
         "grad_year": null,
@@ -11056,7 +11056,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -11098,7 +11098,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島実業高校",
         "name_raw": "鹿児島実業高校",
         "type": "hs",
         "grad_year": null,
@@ -11106,7 +11106,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -11148,7 +11148,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "rangiorahighschool",
         "name_raw": "RangioraHighSchool",
         "type": "hs",
         "grad_year": null,
@@ -11156,7 +11156,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -11198,7 +11198,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎南山高校",
         "name_raw": "長崎南山高校",
         "type": "hs",
         "grad_year": null,
@@ -11206,7 +11206,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中京大学",
         "name_raw": "中京大学",
         "type": "univ",
         "grad_year": null,
@@ -11248,7 +11248,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "国学院久我山高校",
         "name_raw": "国学院久我山高校",
         "type": "hs",
         "grad_year": null,
@@ -11256,7 +11256,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -11298,7 +11298,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -11306,7 +11306,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -11348,7 +11348,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "桐蔭学園高校",
         "name_raw": "桐蔭学園高校",
         "type": "hs",
         "grad_year": null,
@@ -11356,7 +11356,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中央大学",
         "name_raw": "中央大学",
         "type": "univ",
         "grad_year": null,
@@ -11398,7 +11398,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "御所実業高校",
         "name_raw": "御所実業高校",
         "type": "hs",
         "grad_year": null,
@@ -11406,7 +11406,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "山梨学院大学",
         "name_raw": "山梨学院大学",
         "type": "univ",
         "grad_year": null,
@@ -11448,7 +11448,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "立教新座高校",
         "name_raw": "立教新座高校",
         "type": "hs",
         "grad_year": null,
@@ -11456,7 +11456,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立教大学",
         "name_raw": "立教大学",
         "type": "univ",
         "grad_year": null,
@@ -11498,7 +11498,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔啓光学園高校",
         "name_raw": "常翔啓光学園高校",
         "type": "hs",
         "grad_year": null,
@@ -11506,7 +11506,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -11548,7 +11548,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "浦和高校",
         "name_raw": "浦和高校",
         "type": "hs",
         "grad_year": null,
@@ -11556,7 +11556,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -11598,7 +11598,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "上宮太子高校",
         "name_raw": "上宮太子高校",
         "type": "hs",
         "grad_year": null,
@@ -11606,7 +11606,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -11648,7 +11648,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "正平高校",
         "name_raw": "正平高校",
         "type": "hs",
         "grad_year": null,
@@ -11656,7 +11656,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東海大学",
         "name_raw": "東海大学",
         "type": "univ",
         "grad_year": null,
@@ -11698,7 +11698,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "小倉高校",
         "name_raw": "小倉高校",
         "type": "hs",
         "grad_year": null,
@@ -11706,7 +11706,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関東学院大学",
         "name_raw": "関東学院大学",
         "type": "univ",
         "grad_year": null,
@@ -11748,7 +11748,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "伏見工業高校",
         "name_raw": "伏見工業高校",
         "type": "hs",
         "grad_year": null,
@@ -11756,7 +11756,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -11798,7 +11798,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "tongacollegeatele",
         "name_raw": "TongaCollegeAtele",
         "type": "hs",
         "grad_year": null,
@@ -11806,7 +11806,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "花園大学",
         "name_raw": "花園大学",
         "type": "univ",
         "grad_year": null,
@@ -11848,7 +11848,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ブリスベンステイトハイスクール",
         "name_raw": "ブリスベンステイトハイスクール",
         "type": "hs",
         "grad_year": null,
@@ -11890,7 +11890,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島工業高校",
         "name_raw": "鹿児島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -11898,7 +11898,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -11940,7 +11940,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "朝明高校",
         "name_raw": "朝明高校",
         "type": "hs",
         "grad_year": null,
@@ -11948,7 +11948,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -11990,7 +11990,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大分東明高校",
         "name_raw": "大分東明高校",
         "type": "hs",
         "grad_year": null,
@@ -11998,7 +11998,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -12040,7 +12040,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常総学院高校",
         "name_raw": "常総学院高校",
         "type": "hs",
         "grad_year": null,
@@ -12048,7 +12048,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東北福祉大学",
         "name_raw": "東北福祉大学",
         "type": "univ",
         "grad_year": null,
@@ -12090,7 +12090,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -12098,7 +12098,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "摂南大学",
         "name_raw": "摂南大学",
         "type": "univ",
         "grad_year": null,
@@ -12140,7 +12140,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "タワカレッジ",
         "name_raw": "タワカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -12148,7 +12148,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "オークランド大学",
         "name_raw": "オークランド大学",
         "type": "univ",
         "grad_year": null,
@@ -12190,7 +12190,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "國學院栃木高校",
         "name_raw": "國學院栃木高校",
         "type": "hs",
         "grad_year": null,
@@ -12198,7 +12198,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大東文化大学",
         "name_raw": "大東文化大学",
         "type": "univ",
         "grad_year": null,
@@ -12240,7 +12240,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高知中高校",
         "name_raw": "高知中高校",
         "type": "hs",
         "grad_year": null,
@@ -12248,7 +12248,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -12290,7 +12290,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "御所実業高校",
         "name_raw": "御所実業高校",
         "type": "hs",
         "grad_year": null,
@@ -12298,7 +12298,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -12340,7 +12340,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "坂出第一高校",
         "name_raw": "坂出第一高校",
         "type": "hs",
         "grad_year": null,
@@ -12348,7 +12348,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "名古屋学院大学",
         "name_raw": "名古屋学院大学",
         "type": "univ",
         "grad_year": null,
@@ -12390,7 +12390,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "栄徳高校",
         "name_raw": "栄徳高校",
         "type": "hs",
         "grad_year": null,
@@ -12398,7 +12398,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "名古屋学院大学",
         "name_raw": "名古屋学院大学",
         "type": "univ",
         "grad_year": null,
@@ -12440,7 +12440,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "九州国際大学附属高校",
         "name_raw": "九州国際大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -12448,7 +12448,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -12490,7 +12490,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "鹿児島工業高校",
         "name_raw": "鹿児島工業高校",
         "type": "hs",
         "grad_year": null,
@@ -12498,7 +12498,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡工業大学",
         "name_raw": "福岡工業大学",
         "type": "univ",
         "grad_year": null,
@@ -12540,7 +12540,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "平塚工科高校",
         "name_raw": "平塚工科高校",
         "type": "hs",
         "grad_year": null,
@@ -12548,7 +12548,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "白鴎大学",
         "name_raw": "白鴎大学",
         "type": "univ",
         "grad_year": null,
@@ -12590,7 +12590,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪朝鮮高級学校",
         "name_raw": "大阪朝鮮高級学校",
         "type": "hs",
         "grad_year": null,
@@ -12598,7 +12598,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "朝鮮大学校",
         "name_raw": "朝鮮大学校",
         "type": "univ",
         "grad_year": null,
@@ -12640,7 +12640,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐野日大高校",
         "name_raw": "佐野日大高校",
         "type": "hs",
         "grad_year": null,
@@ -12648,7 +12648,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -12690,7 +12690,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "上野丘高校",
         "name_raw": "上野丘高校",
         "type": "hs",
         "grad_year": null,
@@ -12698,7 +12698,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -12740,7 +12740,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "日本航空石川高校",
         "name_raw": "日本航空石川高校",
         "type": "hs",
         "grad_year": null,
@@ -12748,7 +12748,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -12790,7 +12790,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高鍋高校",
         "name_raw": "高鍋高校",
         "type": "hs",
         "grad_year": null,
@@ -12798,7 +12798,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -12840,7 +12840,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東京農業大学第二高校",
         "name_raw": "東京農業大学第二高校",
         "type": "hs",
         "grad_year": null,
@@ -12848,7 +12848,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -12890,7 +12890,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大柏高校",
         "name_raw": "流通経済大柏高校",
         "type": "hs",
         "grad_year": null,
@@ -12898,7 +12898,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -12940,7 +12940,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "rangitotocollege",
         "name_raw": "RangitotoCollege",
         "type": "hs",
         "grad_year": null,
@@ -12982,7 +12982,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -13024,7 +13024,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "筑紫丘高校",
         "name_raw": "筑紫丘高校",
         "type": "hs",
         "grad_year": null,
@@ -13032,7 +13032,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -13074,7 +13074,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "流通経済大学付属柏高校",
         "name_raw": "流通経済大学付属柏高校",
         "type": "hs",
         "grad_year": null,
@@ -13082,7 +13082,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -13124,7 +13124,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大大阪仰星高校",
         "name_raw": "東海大大阪仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -13132,7 +13132,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -13174,7 +13174,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "筑陽学園高校",
         "name_raw": "筑陽学園高校",
         "type": "hs",
         "grad_year": null,
@@ -13182,7 +13182,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -13224,7 +13224,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "北稜高校",
         "name_raw": "北稜高校",
         "type": "hs",
         "grad_year": null,
@@ -13232,7 +13232,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西外国語大学",
         "name_raw": "関西外国語大学",
         "type": "univ",
         "grad_year": null,
@@ -13274,7 +13274,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学附属福岡高校",
         "name_raw": "東海大学附属福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -13282,7 +13282,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡工業大学",
         "name_raw": "福岡工業大学",
         "type": "univ",
         "grad_year": null,
@@ -13324,7 +13324,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -13332,7 +13332,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡大学",
         "name_raw": "福岡大学",
         "type": "univ",
         "grad_year": null,
@@ -13374,7 +13374,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "海星高校",
         "name_raw": "海星高校",
         "type": "hs",
         "grad_year": null,
@@ -13382,7 +13382,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -13424,7 +13424,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大学付属熊本星翔高校",
         "name_raw": "東海大学付属熊本星翔高校",
         "type": "hs",
         "grad_year": null,
@@ -13466,7 +13466,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "常翔学園高校",
         "name_raw": "常翔学園高校",
         "type": "hs",
         "grad_year": null,
@@ -13474,7 +13474,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -13516,7 +13516,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東海大仰星高校",
         "name_raw": "東海大仰星高校",
         "type": "hs",
         "grad_year": null,
@@ -13524,7 +13524,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "関西学院大学",
         "name_raw": "関西学院大学",
         "type": "univ",
         "grad_year": null,
@@ -13566,7 +13566,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -13574,7 +13574,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -13616,7 +13616,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "九州国際大学附属高校",
         "name_raw": "九州国際大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -13624,7 +13624,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "九州共立大学",
         "name_raw": "九州共立大学",
         "type": "univ",
         "grad_year": null,
@@ -13666,7 +13666,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "修猷館高校",
         "name_raw": "修猷館高校",
         "type": "hs",
         "grad_year": null,
@@ -13674,7 +13674,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "同志社大学",
         "name_raw": "同志社大学",
         "type": "univ",
         "grad_year": null,
@@ -13716,7 +13716,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -13724,7 +13724,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "明治大学",
         "name_raw": "明治大学",
         "type": "univ",
         "grad_year": null,
@@ -13766,7 +13766,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -13774,7 +13774,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立正大学",
         "name_raw": "立正大学",
         "type": "univ",
         "grad_year": null,
@@ -13816,7 +13816,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎北陽台高校",
         "name_raw": "長崎北陽台高校",
         "type": "hs",
         "grad_year": null,
@@ -13824,7 +13824,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -13866,7 +13866,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -13874,7 +13874,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -13916,7 +13916,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -13924,7 +13924,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -13966,7 +13966,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "京都成章高校",
         "name_raw": "京都成章高校",
         "type": "hs",
         "grad_year": null,
@@ -13974,7 +13974,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "立命館大学",
         "name_raw": "立命館大学",
         "type": "univ",
         "grad_year": null,
@@ -14016,7 +14016,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "浮羽究真館高校",
         "name_raw": "浮羽究真館高校",
         "type": "hs",
         "grad_year": null,
@@ -14024,7 +14024,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "福岡大学",
         "name_raw": "福岡大学",
         "type": "univ",
         "grad_year": null,
@@ -14066,7 +14066,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "leulumoegafoucollege",
         "name_raw": "LeulumoegaFoucollege",
         "type": "hs",
         "grad_year": null,
@@ -14074,7 +14074,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "日本大学",
         "name_raw": "日本大学",
         "type": "univ",
         "grad_year": null,
@@ -14116,7 +14116,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "伏見工業高校",
         "name_raw": "伏見工業高校",
         "type": "hs",
         "grad_year": null,
@@ -14124,7 +14124,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -14166,7 +14166,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "栄徳高校",
         "name_raw": "栄徳高校",
         "type": "hs",
         "grad_year": null,
@@ -14174,7 +14174,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "中部大学",
         "name_raw": "中部大学",
         "type": "univ",
         "grad_year": null,
@@ -14216,7 +14216,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "千葉経済大学附属高校",
         "name_raw": "千葉経済大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -14224,7 +14224,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -14266,7 +14266,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "北越高校",
         "name_raw": "北越高校",
         "type": "hs",
         "grad_year": null,
@@ -14274,7 +14274,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -14316,7 +14316,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪産業大学附属高校",
         "name_raw": "大阪産業大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -14324,7 +14324,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -14366,7 +14366,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "熊本西高校",
         "name_raw": "熊本西高校",
         "type": "hs",
         "grad_year": null,
@@ -14374,7 +14374,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "流通経済大学",
         "name_raw": "流通経済大学",
         "type": "univ",
         "grad_year": null,
@@ -14416,7 +14416,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -14424,7 +14424,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -14466,7 +14466,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "石見智翠館高校",
         "name_raw": "石見智翠館高校",
         "type": "hs",
         "grad_year": null,
@@ -14474,7 +14474,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -14516,7 +14516,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "近畿大学附属高校",
         "name_raw": "近畿大学附属高校",
         "type": "hs",
         "grad_year": null,
@@ -14524,7 +14524,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "近畿大学",
         "name_raw": "近畿大学",
         "type": "univ",
         "grad_year": null,
@@ -14566,7 +14566,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "長崎北陽台高校",
         "name_raw": "長崎北陽台高校",
         "type": "hs",
         "grad_year": null,
@@ -14574,7 +14574,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -14616,7 +14616,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "金光藤蔭高校",
         "name_raw": "金光藤蔭高校",
         "type": "hs",
         "grad_year": null,
@@ -14624,7 +14624,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大阪産業大学",
         "name_raw": "大阪産業大学",
         "type": "univ",
         "grad_year": null,
@@ -14666,7 +14666,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "滋賀学園高校",
         "name_raw": "滋賀学園高校",
         "type": "hs",
         "grad_year": null,
@@ -14674,7 +14674,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "金沢学院大学",
         "name_raw": "金沢学院大学",
         "type": "univ",
         "grad_year": null,
@@ -14716,7 +14716,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "報徳学園高校",
         "name_raw": "報徳学園高校",
         "type": "hs",
         "grad_year": null,
@@ -14724,7 +14724,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "拓殖大学",
         "name_raw": "拓殖大学",
         "type": "univ",
         "grad_year": null,
@@ -14766,7 +14766,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "tongacollegeatele",
         "name_raw": "TongaCollegeAtele",
         "type": "hs",
         "grad_year": null,
@@ -14808,7 +14808,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "トンガカレッジ",
         "name_raw": "トンガカレッジ",
         "type": "hs",
         "grad_year": null,
@@ -14816,7 +14816,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "花園大学",
         "name_raw": "花園大学",
         "type": "univ",
         "grad_year": null,
@@ -14858,7 +14858,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "ハミルトンボーイズ高高校",
         "name_raw": "ハミルトンボーイズ高高校",
         "type": "hs",
         "grad_year": null,
@@ -14866,7 +14866,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "オタゴ大大学",
         "name_raw": "オタゴ大大学",
         "type": "univ",
         "grad_year": null,
@@ -14908,7 +14908,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "高知中央高校",
         "name_raw": "高知中央高校",
         "type": "hs",
         "grad_year": null,
@@ -14916,7 +14916,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "天理大学",
         "name_raw": "天理大学",
         "type": "univ",
         "grad_year": null,
@@ -14958,7 +14958,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪日新高校",
         "name_raw": "大阪日新高校",
         "type": "hs",
         "grad_year": null,
@@ -14966,7 +14966,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "大阪体育大学",
         "name_raw": "大阪体育大学",
         "type": "univ",
         "grad_year": null,
@@ -15008,7 +15008,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "マウントアルバートグラマーカレ",
         "name_raw": "マウントアルバートグラマーカレ",
         "type": "hs",
         "grad_year": null,
@@ -15050,7 +15050,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "オークランドグラマースクール",
         "name_raw": "オークランドグラマースクール",
         "type": "hs",
         "grad_year": null,
@@ -15092,7 +15092,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "monte",
         "name_raw": "Monte",
         "type": "hs",
         "grad_year": null,
@@ -15100,7 +15100,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "vista",
         "name_raw": "Vista",
         "type": "univ",
         "grad_year": null,
@@ -15142,7 +15142,7 @@
     },
     "education": [
       {
-        "school_id": null,
+        "school_id": "セントトーマスオブカンタベリー",
         "name_raw": "セントトーマスオブカンタベリー",
         "type": "hs",
         "grad_year": null,
@@ -15150,7 +15150,7 @@
         "scraped_at": null
       },
       {
-        "school_id": null,
+        "school_id": "朝日大学",
         "name_raw": "朝日大学",
         "type": "univ",
         "grad_year": null,

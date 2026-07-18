@@ -133,6 +133,27 @@ class Education(_StrictModel):
         return _validate_source_url(v) if v else None
 
 
+class School(_StrictModel):
+    """10_YOUTH_AGEGRADE.md: data/master/schools/schools.json の1レコード。
+
+    pref/name_kana はソースに無い限り null（00原則3）。P5-1移行時点では既存 name_raw を
+    正規化しただけの id/name のみ埋まる。P5-5/P5-6の公式名簿スクレイパーが pref・
+    source_url・scraped_at を実データで埋める。
+    """
+    id: str = Field(min_length=1)
+    name: str = Field(min_length=1)
+    name_kana: Optional[str] = None
+    type: Literal["hs", "univ"]
+    pref: Optional[str] = None
+    source_url: Optional[str] = None
+    scraped_at: Optional[str] = None
+
+    @field_validator("source_url")
+    @classmethod
+    def _url(cls, v: Optional[str]) -> Optional[str]:
+        return _validate_source_url(v) if v else None
+
+
 class Player(_StrictModel):
     id: str = Field(min_length=1)
     source: str

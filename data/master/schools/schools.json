@@ -1,0 +1,4025 @@
+[
+  {
+    "id": "andrews",
+    "name": "Andrews",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "aorerecollege",
+    "name": "AorereCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "aranmorecatholiccollege",
+    "name": "AranmoreCatholicCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "atandrew-scollege",
+    "name": "AtAndrew’sCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "auckland",
+    "name": "Auckland",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "aucklandgrammar",
+    "name": "Aucklandgrammar",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "aucklandgrammarschool",
+    "name": "AucklandGrammarSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "aucklanduniversity",
+    "name": "AucklandUniversity",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "beechencliffschool",
+    "name": "BeechenCliffSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "brisbane",
+    "name": "Brisbane",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "brothers",
+    "name": "Brothers",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "chancellor-state-college",
+    "name": "Chancellor State College",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "clifoncollage",
+    "name": "ClifonCollage",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "college",
+    "name": "College",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "dr-e-g-janesen-high-school",
+    "name": "Dr E.G.Janesen High school",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "erindake",
+    "name": "Erindake",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "fasercoastanglican",
+    "name": "FaserCoastAnglican",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "grammar",
+    "name": "Grammar",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "griffithuniversity",
+    "name": "GriffithUniversity",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "hale-high-school-southern-queensland",
+    "name": "Hale High School Southern Queensland",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "hamiltonboyshighschol",
+    "name": "HamiltonBoysHighschol",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "hartpurycollege",
+    "name": "HartpuryCollege",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "hartpurycollege-2",
+    "name": "Hartpurycollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "highschool",
+    "name": "Highschool",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "johnpaulcollage",
+    "name": "JohnPaulCollage",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "kelstonboyshighschool",
+    "name": "KelstonBoysHighSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "kings",
+    "name": "Kings",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "kings-2",
+    "name": "Kings",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "kingscollege",
+    "name": "Kingscollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "leulumoegafoucollege",
+    "name": "LeulumoegaFoucollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "llangawtg",
+    "name": "Llangawtg",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "madibaz",
+    "name": "Madibaz",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "manacollege",
+    "name": "ManaCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "massey",
+    "name": "Massey",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "massillonhighschool",
+    "name": "MassillonHighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "monte",
+    "name": "Monte",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "mountalbertgrammarschool",
+    "name": "MountAlbertGrammarSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "muruwillumbahhighschool",
+    "name": "Muruwillumbahhighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "napierboyshighschool",
+    "name": "NapierBoyshighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "neathporttalbotgroups",
+    "name": "NeathPortTalbotGroups",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "newplymouthboyshighschool",
+    "name": "NewPlymouthBoysHighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "oakhillcollege",
+    "name": "OakhillCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "otago-polytechnic",
+    "name": "Otago polytechnic",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "otagoboyshighschool",
+    "name": "Otagoboyshighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "otagouniversity",
+    "name": "Otagouniversity",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "paulroosgymnasium",
+    "name": "PaulRoosGymnasium",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "plymouth",
+    "name": "Plymouth",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "presentation",
+    "name": "Presentation",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "pukekohehighschool",
+    "name": "PukekoheHighSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "rangiorahighschool",
+    "name": "RangioraHighSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "rangitotocollege",
+    "name": "RangitotoCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "sacredheartcollege",
+    "name": "SacredHeartCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "saintgeorge-schurchofenglandschool",
+    "name": "SaintGeorge’sChurchofEnglandSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "saintkentigerncollage",
+    "name": "SaintKentigernCollage",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "saltlakehighschool",
+    "name": "SaltLakeHighSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "sandbachschool",
+    "name": "SandbachSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "setantacollege",
+    "name": "Setantacollege",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "st",
+    "name": "ST",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "st-john-scollage",
+    "name": "St.John’sCollage",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "st-joseph-snudgeecollege",
+    "name": "St.Joseph'sNudgeeCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "state",
+    "name": "State",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "stellenbosch",
+    "name": "Stellenbosch",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "stパトリックカレッジ-シルバーストリーム",
+    "name": "Stパトリックカレッジ・シルバーストリーム",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "suvagrammarschool",
+    "name": "SuvaGrammarSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "tauharacollage",
+    "name": "TauharaCollage",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "teautecollage-hastingboyshighschool",
+    "name": "TeAuteCollage/HastingBoysHighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "teaカレッジ",
+    "name": "TEAカレッジ",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "the",
+    "name": "The",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "thesouthportschool",
+    "name": "TheSouthPortSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "thesouthportschool-2",
+    "name": "TheSouthportSchool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "tongacollegeatele",
+    "name": "TongaCollegeAtele",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "toowoomba-grammar-school",
+    "name": "Toowoomba grammar school",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "trurocollege",
+    "name": "TruroCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "tupoucollege",
+    "name": "TupouCollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "universityoftechnologysydney",
+    "name": "UniversityofTechnologySydney",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "vista",
+    "name": "Vista",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "wellingtoncollege",
+    "name": "Wellingtoncollege",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "werda",
+    "name": "Werda",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "westlakeboyshighschool",
+    "name": "WestlakeboysHighschool",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "つるぎ",
+    "name": "つるぎ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "へスティングボーイズ高高校",
+    "name": "へスティングボーイズ高高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アイオナ大学",
+    "name": "アイオナ大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アウテニカハイスクール",
+    "name": "アウテニカハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アウテニクア",
+    "name": "アウテニクア",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アランモアカソリックカレッジ",
+    "name": "アランモアカソリックカレッジ",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アランモアカトリックカレッジ",
+    "name": "アランモアカトリックカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "アロフィ-オ-タオア",
+    "name": "アロフィ・オ・タオア",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ウェバリーカレッジ",
+    "name": "ウェバリーカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ウェーバリー",
+    "name": "ウェーバリー",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ウエリントンカレッジ",
+    "name": "ウエリントンカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "エンデバースポーツ",
+    "name": "エンデバースポーツ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オタゴボーイズ",
+    "name": "オタゴボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オタゴ大大学",
+    "name": "オタゴ大大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オタゴ大学",
+    "name": "オタゴ大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オネフンガ",
+    "name": "オネフンガ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オネフンガハイスクール",
+    "name": "オネフンガハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オークランドグラマースクール",
+    "name": "オークランドグラマースクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オークランド大学",
+    "name": "オークランド大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "オークランド工科大学",
+    "name": "オークランド工科大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "カンタベリー大学",
+    "name": "カンタベリー大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "キャンベラグラマースクール",
+    "name": "キャンベラグラマースクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "キャンベラ大学",
+    "name": "キャンベラ大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "キングスカレッジ",
+    "name": "キングスカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "キングススクールウースター",
+    "name": "キングススクールウースター",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "キングス大学",
+    "name": "キングス大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ギズボーン",
+    "name": "ギズボーン",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ケルストンボーイズ",
+    "name": "ケルストンボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ケルビンサイドアカデミー",
+    "name": "ケルビンサイドアカデミー",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ケントカレッジ",
+    "name": "ケントカレッジ",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "コザ",
+    "name": "コザ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "コーパスクリスティ",
+    "name": "コーパスクリスティ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "サウスランドボーイズ",
+    "name": "サウスランドボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ジョンマクガラシャン大大学",
+    "name": "ジョンマクガラシャン大大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "スコッツ",
+    "name": "スコッツ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "スコッツカレッジ",
+    "name": "スコッツカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "スヴァグラマー",
+    "name": "スヴァグラマー",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セイントエドマンズカレッジ",
+    "name": "セイントエドマンズカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セント-エドマンズ-カレッジ",
+    "name": "セント・エドマンズ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セント-エドワーズ-カレッジ",
+    "name": "セント・エドワーズ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セント-トーマス-オブ-カンタベリー-カレッジ",
+    "name": "セント・トーマス・オブ・カンタベリー・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セント-ピーターズ-ケンブリッジ",
+    "name": "セント・ピーターズ・ケンブリッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セント-マイケルズ-カレッジ",
+    "name": "セント・マイケルズ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントエドマンズカレッジ",
+    "name": "セントエドマンズカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントケンティガン",
+    "name": "セントケンティガン",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントジョセフ-カレッジ",
+    "name": "セントジョセフ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントトーマスオブカンタベリー",
+    "name": "セントトーマスオブカンタベリー",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントバーナード",
+    "name": "セントバーナード",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントピーターズカレッジ",
+    "name": "セントピーターズカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "セントルグナティウスカレッジ",
+    "name": "セントルグナティウスカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ソウル大学附属高校",
+    "name": "ソウル大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "タウランガボーイズカレッジ",
+    "name": "タウランガボーイズカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "タワカレッジ",
+    "name": "タワカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ダラム大学",
+    "name": "ダラム大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ディルワース",
+    "name": "ディルワース",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トゥウンバ文法学校",
+    "name": "トゥウンバ文法学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トゥポウカレッジ",
+    "name": "トゥポウカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トリニティ-カレッジ",
+    "name": "トリニティ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トリニティ-カレッジ-ダブリン",
+    "name": "トリニティ・カレッジ・ダブリン",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トンガ-カレッジ",
+    "name": "トンガ・カレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "トンガカレッジ",
+    "name": "トンガカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ナタンブア",
+    "name": "ナタンブア",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ニュープリマス-ボーイズ",
+    "name": "ニュープリマス・ボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ニュープリマスボーイズ",
+    "name": "ニュープリマスボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ネルソン",
+    "name": "ネルソン",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ハミルトンボーイズ",
+    "name": "ハミルトンボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ハミルトンボーイズ高高校",
+    "name": "ハミルトンボーイズ高高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "バーンサイドハイスクール",
+    "name": "バーンサイドハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "パールボーイズハイスクール",
+    "name": "パールボーイズハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ビクトリア大学",
+    "name": "ビクトリア大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ピーターララーセカンダリーカレ",
+    "name": "ピーターララーセカンダリーカレ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "フリーステート大学",
+    "name": "フリーステート大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "フレッシュウォーター",
+    "name": "フレッシュウォーター",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ブリスベンステイトハイスクール",
+    "name": "ブリスベンステイトハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ブリスベンステート",
+    "name": "ブリスベンステート",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ブリスベンステートハイスクール",
+    "name": "ブリスベンステートハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ブリスベン高高校",
+    "name": "ブリスベン高高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ブリズベン州立高校",
+    "name": "ブリズベン州立高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "プレトリア大学",
+    "name": "プレトリア大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ヘイスティングスボーイズ高高校",
+    "name": "ヘイスティングスボーイズ高高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ホエスコール-ハ-スフォンテイン",
+    "name": "ホエスコール・ハ—スフォンテイン",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ホエルスクール-ガルスフォンテン",
+    "name": "ホエルスクール・ガルスフォンテン",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ボクレアアカデミー",
+    "name": "ボクレアアカデミー",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ボタニーダウンズ-セカンダリーカレッジ",
+    "name": "ボタニーダウンズ・セカンダリーカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マウントアルバートグラマーカレ",
+    "name": "マウントアルバートグラマーカレ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マウントアルバートグラマースクール",
+    "name": "マウントアルバートグラマースクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マッセイ大学",
+    "name": "マッセイ大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マッセー大学",
+    "name": "マッセー大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マンジュラバプティストカレッジ",
+    "name": "マンジュラバプティストカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "マーサリン-カレッジ-ランドウィック",
+    "name": "マーサリン・カレッジ・ランドウィック",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "モニュメント",
+    "name": "モニュメント",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "モニュメントハイスクール",
+    "name": "モニュメントハイスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ヨハナスブルク大学",
+    "name": "ヨハナスブルク大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ヨハネスブルグ大学",
+    "name": "ヨハネスブルグ大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ラトゥカンダブレブスクール",
+    "name": "ラトゥカンダブレブスクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ランギオラ",
+    "name": "ランギオラ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "リストンカレッジ",
+    "name": "リストンカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "リストン大学",
+    "name": "リストン大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "リンカン-ハイ-スクール",
+    "name": "リンカン・ハイ・スクール",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ロトルア-ボーイズ",
+    "name": "ロトルア・ボーイズ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ロングベイカレッジ",
+    "name": "ロングベイカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ワイカト大学",
+    "name": "ワイカト大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "ワイヌイオマタハイスクール-スコッツカレッジ",
+    "name": "ワイヌイオマタハイスクール-スコッツカレッジ",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "上宮太子高校",
+    "name": "上宮太子高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "上野丘高校",
+    "name": "上野丘高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "中京大学",
+    "name": "中京大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "中央大学",
+    "name": "中央大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "中部大学",
+    "name": "中部大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "中部大学春日丘高校",
+    "name": "中部大学春日丘高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "九州共立大学",
+    "name": "九州共立大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "九州国際大学附属高校",
+    "name": "九州国際大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "九州学院高校",
+    "name": "九州学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都外大西高校",
+    "name": "京都外大西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都学園高校",
+    "name": "京都学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都工学院高校",
+    "name": "京都工学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都成章高校",
+    "name": "京都成章高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都産業大学",
+    "name": "京都産業大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "仙台育英学園高校",
+    "name": "仙台育英学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "仙台育英高校",
+    "name": "仙台育英高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "伏見工業高校",
+    "name": "伏見工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "佐賀工業高校",
+    "name": "佐賀工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "佐野日大高校",
+    "name": "佐野日大高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "佐野日本大学高校",
+    "name": "佐野日本大学高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "修猷館高校",
+    "name": "修猷館高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "光泉カトリック高校",
+    "name": "光泉カトリック高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "光泉高校",
+    "name": "光泉高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "八幡工業高校",
+    "name": "八幡工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "八戸学院大学",
+    "name": "八戸学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "函館ラ-サール高校",
+    "name": "函館ラ・サール高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "函館工業高校",
+    "name": "函館工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "加治木高校",
+    "name": "加治木高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "北海道遠軽高校",
+    "name": "北海道遠軽高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "北稜高校",
+    "name": "北稜高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "北越高校",
+    "name": "北越高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "千種高校",
+    "name": "千種高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "千葉経済大学附属高校",
+    "name": "千葉経済大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "同志社大大学",
+    "name": "同志社大大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "同志社大学",
+    "name": "同志社大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名南工業高校",
+    "name": "名南工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名古屋学院大学",
+    "name": "名古屋学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名古屋西高校",
+    "name": "名古屋西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名城大学",
+    "name": "名城大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名護高校",
+    "name": "名護高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "和歌山工業高校",
+    "name": "和歌山工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "啓光学園高校",
+    "name": "啓光学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "国士舘大学",
+    "name": "国士舘大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "国学院久我山高校",
+    "name": "国学院久我山高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "国学院栃木",
+    "name": "国学院栃木",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "国学院栃木高校",
+    "name": "国学院栃木高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "国立高校",
+    "name": "国立高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院久我山高校",
+    "name": "國學院久我山高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院大大学",
+    "name": "國學院大大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院大学",
+    "name": "國學院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院大學久我山高校",
+    "name": "國學院大學久我山高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院大學栃木高校",
+    "name": "國學院大學栃木高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院栃木高校",
+    "name": "國學院栃木高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "土佐塾高校",
+    "name": "土佐塾高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "坂出第一高校",
+    "name": "坂出第一高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "城南大学",
+    "name": "城南大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "埼玉工業大学",
+    "name": "埼玉工業大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "報徳学園高校",
+    "name": "報徳学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大分東明高校",
+    "name": "大分東明高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大分舞鶴高校",
+    "name": "大分舞鶴高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大分雄城台高校",
+    "name": "大分雄城台高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大東文化大学",
+    "name": "大東文化大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大東文化大学第一高校",
+    "name": "大東文化大学第一高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大泉高校",
+    "name": "大泉高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪体育大学",
+    "name": "大阪体育大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪学院大学高校",
+    "name": "大阪学院大学高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪日新高校",
+    "name": "大阪日新高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪朝鮮高校",
+    "name": "大阪朝鮮高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪朝鮮高級学校",
+    "name": "大阪朝鮮高級学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪桐蔭高校",
+    "name": "大阪桐蔭高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪産業大学",
+    "name": "大阪産業大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪産業大学付属高校",
+    "name": "大阪産業大学付属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪産業大学附属高校",
+    "name": "大阪産業大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "天理大学",
+    "name": "天理大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "天理高校",
+    "name": "天理高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "天理高校ii部",
+    "name": "天理高校II部",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "学習院大学",
+    "name": "学習院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "学習院高等科高校",
+    "name": "学習院高等科高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "宮古高校",
+    "name": "宮古高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "宮崎西高校",
+    "name": "宮崎西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "専修大学",
+    "name": "専修大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "専修大学付属高校",
+    "name": "専修大学付属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "専修大学松戸高校",
+    "name": "専修大学松戸高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "小倉高校",
+    "name": "小倉高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "尼崎高校",
+    "name": "尼崎高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "尾道高校",
+    "name": "尾道高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "山形中央高校",
+    "name": "山形中央高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "山梨学院大学",
+    "name": "山梨学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "岐阜工業岐高校",
+    "name": "岐阜工業岐高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "岐阜工業高校",
+    "name": "岐阜工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "岡谷工業高校",
+    "name": "岡谷工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "崇徳高校",
+    "name": "崇徳高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "川口高校",
+    "name": "川口高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "帝京大学",
+    "name": "帝京大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "常総学院高校",
+    "name": "常総学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "常翔啓光学園高校",
+    "name": "常翔啓光学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "常翔学園高校",
+    "name": "常翔学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "幕張総合高校",
+    "name": "幕張総合高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "平塚学園高校",
+    "name": "平塚学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "平塚工科高校",
+    "name": "平塚工科高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "広島工業高校",
+    "name": "広島工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "延岡星雲高校",
+    "name": "延岡星雲高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "御所実業高校",
+    "name": "御所実業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "徳島城北高校",
+    "name": "徳島城北高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "愛知学院大学",
+    "name": "愛知学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "愛知工業大学",
+    "name": "愛知工業大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "慶應義塾大学",
+    "name": "慶應義塾大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "慶應義塾高校",
+    "name": "慶應義塾高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "成蹊大学",
+    "name": "成蹊大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "拓殖大学",
+    "name": "拓殖大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "摂南大学",
+    "name": "摂南大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "摂津高校",
+    "name": "摂津高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "新潟工業高校",
+    "name": "新潟工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "新田高校",
+    "name": "新田高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日体大柏高校",
+    "name": "日体大柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日向高校",
+    "name": "日向高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日大荏原高校",
+    "name": "日大荏原高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日大藤沢高校",
+    "name": "日大藤沢高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日川高校",
+    "name": "日川高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日新高校",
+    "name": "日新高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本体育大学",
+    "name": "日本体育大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本体育大学荏原高校",
+    "name": "日本体育大学荏原高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本大学",
+    "name": "日本大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本大学高校",
+    "name": "日本大学高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本文理大学",
+    "name": "日本文理大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本文理大学附属高校",
+    "name": "日本文理大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本航空石川高校",
+    "name": "日本航空石川高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本航空高校石川",
+    "name": "日本航空高校石川",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "早稲田大学",
+    "name": "早稲田大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "早稲田摂陵高校",
+    "name": "早稲田摂陵高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "昌平高校",
+    "name": "昌平高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明和県央高校",
+    "name": "明和県央高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明和高校",
+    "name": "明和高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明善高校",
+    "name": "明善高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明大中野高校",
+    "name": "明大中野高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明治大学",
+    "name": "明治大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "春日丘高校",
+    "name": "春日丘高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "昭和高校",
+    "name": "昭和高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "朝日大学",
+    "name": "朝日大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "朝明高校",
+    "name": "朝明高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "朝鮮大学校",
+    "name": "朝鮮大学校",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "本郷高校",
+    "name": "本郷高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "札幌山の手高校",
+    "name": "札幌山の手高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東京学芸大学",
+    "name": "東京学芸大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東京農業大学第二高校",
+    "name": "東京農業大学第二高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東京高校",
+    "name": "東京高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東北福祉大学",
+    "name": "東北福祉大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東山高校",
+    "name": "東山高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東洋大学",
+    "name": "東洋大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大付属福岡高校",
+    "name": "東海大付属福岡高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大仰星高校",
+    "name": "東海大仰星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大大阪仰星高校",
+    "name": "東海大大阪仰星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学",
+    "name": "東海大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属仰星高校",
+    "name": "東海大学付属仰星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属大阪仰星高校",
+    "name": "東海大学付属大阪仰星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属熊本星翔高校",
+    "name": "東海大学付属熊本星翔高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属甲府高校",
+    "name": "東海大学付属甲府高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属相模高校",
+    "name": "東海大学付属相模高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属福岡高校",
+    "name": "東海大学付属福岡高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学大阪仰星高校",
+    "name": "東海大学大阪仰星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学附属福岡高校",
+    "name": "東海大学附属福岡高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大相模原高校",
+    "name": "東海大相模原高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大相模高校",
+    "name": "東海大相模高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東福岡高校",
+    "name": "東福岡高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東筑高校",
+    "name": "東筑高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "栄徳高校",
+    "name": "栄徳高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "桂高校",
+    "name": "桂高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "桐生第一高校",
+    "name": "桐生第一高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "桐蔭学園高校",
+    "name": "桐蔭学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "正平高校",
+    "name": "正平高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "正智深谷高校",
+    "name": "正智深谷高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "法政大学",
+    "name": "法政大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流経大柏高高校",
+    "name": "流経大柏高高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大学",
+    "name": "流通経済大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大学付属柏高校",
+    "name": "流通経済大学付属柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大学柏高校",
+    "name": "流通経済大学柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大学附属柏高校",
+    "name": "流通経済大学附属柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大柏高校",
+    "name": "流通経済大柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "浦和高校",
+    "name": "浦和高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "浪速高校",
+    "name": "浪速高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "浮羽究真館高校",
+    "name": "浮羽究真館高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "海星高校",
+    "name": "海星高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "深谷高校",
+    "name": "深谷高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "清教学園高校",
+    "name": "清教学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "清真学園高校",
+    "name": "清真学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "滋賀学園高校",
+    "name": "滋賀学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "熊本西高校",
+    "name": "熊本西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "環太平洋大学",
+    "name": "環太平洋大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "甲南高校",
+    "name": "甲南高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "甲府工業高校",
+    "name": "甲府工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "白鴎大学",
+    "name": "白鴎大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "目黒学院高校",
+    "name": "目黒学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "石見智翠館高校",
+    "name": "石見智翠館高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "磐城高校",
+    "name": "磐城高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡大学",
+    "name": "福岡大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡工業大学",
+    "name": "福岡工業大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡工業高校",
+    "name": "福岡工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡高校",
+    "name": "福岡高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "秋田工業高校",
+    "name": "秋田工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立命館大学",
+    "name": "立命館大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立命館宇治高校",
+    "name": "立命館宇治高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立命館慶祥高校",
+    "name": "立命館慶祥高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立命館高校",
+    "name": "立命館高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立教大学",
+    "name": "立教大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立教新座高校",
+    "name": "立教新座高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "立正大学",
+    "name": "立正大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "竹園高校",
+    "name": "竹園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "筑波大学",
+    "name": "筑波大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "筑紫丘高校",
+    "name": "筑紫丘高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "筑紫台高校",
+    "name": "筑紫台高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "筑紫高校",
+    "name": "筑紫高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "筑陽学園高校",
+    "name": "筑陽学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "美幌高校",
+    "name": "美幌高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "聖光学院高校",
+    "name": "聖光学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "芦屋学園高校",
+    "name": "芦屋学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "花園大学",
+    "name": "花園大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "若狭東高校",
+    "name": "若狭東高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "茗溪学園高校",
+    "name": "茗溪学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "荒尾高校",
+    "name": "荒尾高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "萩商工業高校",
+    "name": "萩商工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "西陵商業高校",
+    "name": "西陵商業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "西陵高校",
+    "name": "西陵高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "輝翔館中等教育高校",
+    "name": "輝翔館中等教育高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "近大付属高校",
+    "name": "近大付属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "近畿大学",
+    "name": "近畿大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "近畿大学附属高校",
+    "name": "近畿大学附属高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "都島工業高校",
+    "name": "都島工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "金光桐蔭高校",
+    "name": "金光桐蔭高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "金光藤蔭高校",
+    "name": "金光藤蔭高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "金沢学院大学",
+    "name": "金沢学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "金足農業高校",
+    "name": "金足農業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "長崎北陽台高校",
+    "name": "長崎北陽台高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "長崎南山高校",
+    "name": "長崎南山高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "開志国際高校",
+    "name": "開志国際高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関商高校",
+    "name": "関商高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関東学院六浦高校",
+    "name": "関東学院六浦高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関東学院大学",
+    "name": "関東学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西外国語大学",
+    "name": "関西外国語大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西大学",
+    "name": "関西大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西大学北陽高校",
+    "name": "関西大学北陽高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院",
+    "name": "関西学院",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院大大学",
+    "name": "関西学院大大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院大学",
+    "name": "関西学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院高校",
+    "name": "関西学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院高等学部",
+    "name": "関西学院高等学部",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西学院高等部",
+    "name": "関西学院高等部",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関西高校",
+    "name": "関西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "陸上自衛隊少年工科学校",
+    "name": "陸上自衛隊少年工科学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "青山学院大学",
+    "name": "青山学院大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "青森山田高校",
+    "name": "青森山田高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "静岡聖光学院高校",
+    "name": "静岡聖光学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "飯田高校",
+    "name": "飯田高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "香椎工業高校",
+    "name": "香椎工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "高知中央高校",
+    "name": "高知中央高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "高知中高校",
+    "name": "高知中高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "高鍋高校",
+    "name": "高鍋高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鳴尾高校",
+    "name": "鳴尾高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鶴来高校",
+    "name": "鶴来高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鹿児島大学",
+    "name": "鹿児島大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鹿児島実業高校",
+    "name": "鹿児島実業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鹿児島工業高校",
+    "name": "鹿児島工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "鹿児島玉龍高校",
+    "name": "鹿児島玉龍高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "黒沢尻工業高校",
+    "name": "黒沢尻工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "黒沢尻高校",
+    "name": "黒沢尻高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "龍谷大学",
+    "name": "龍谷大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  }
+]

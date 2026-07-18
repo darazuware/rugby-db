@@ -24,6 +24,10 @@ def teams_path(league: str) -> Path:
     return MASTER_DIR / "teams" / f"{league}.json"
 
 
+def schools_path() -> Path:
+    return MASTER_DIR / "schools" / "schools.json"
+
+
 def matches_path(league: str, season: str) -> Path:
     return MASTER_DIR / "matches" / f"{league}_{season}.json"
 
