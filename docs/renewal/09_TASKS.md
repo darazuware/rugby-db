@@ -36,7 +36,7 @@
 - [x] **P4-1** `affiliates.ts` + PR表記コンポーネント + 視聴ボタン（DAZN/スカパー、URLはプレースホルダー）。参照: 07
 - [ ] **P4-2** venue_areas.json + 宿泊導線。参照: 07
 - [ ] **P4-3** 視聴ガイド記事×3（draft、ユーザーレビュー待ちで止める）。参照: 07
-- [ ] **P4-4** Instagram埋め込み + イラストフォールバック（PlayerAvatar完成形）+ illustrations_todo 生成。参照: 06
+- [x] **P4-4** Instagram埋め込み + イラストフォールバック（PlayerAvatar完成形）+ illustrations_todo 生成。参照: 06
 - [ ] **P4-5** RWC2027特集ページ（開催都市ガイド、宿泊・航空券導線はプレースホルダー）。参照: 07
 - [ ] **P4-6** （任意）URC/Premiership: チームページ+日本人・スター選手のみ。**着手前にユーザーに要否確認。** 参照: 00
 

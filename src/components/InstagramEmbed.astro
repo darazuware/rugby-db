@@ -1,0 +1,68 @@
+---
+/**
+ * InstagramEmbed.astro
+ * Instagram公式埋め込み（06 ①）。data/manual/instagram_accounts.json に人間が登録した
+ * 選手のみ表示する。埋め込み対象は本人の代表的な投稿1件（プロフィールではない）。
+ *
+ * 埋め込みスクリプト（embed.js）は IntersectionObserver でビューポートに入るまで
+ * 読み込まない（06「選手ページでのみ遅延読み込み」＝パフォーマンス対策）。
+ */
+interface Props {
+  postUrl: string;
+  username: string;
+  class?: string;
+}
+
+const { postUrl, username, class: className = "" } = Astro.props;
+---
+
+<div class={`instagram-embed-wrap ${className}`} data-instagram-embed>
+  <blockquote
+    class="instagram-media"
+    data-instgrm-permalink={postUrl}
+    data-instgrm-version="14"
+    style="background:#FFF; border:0; border-radius:12px; box-shadow:none; margin:0; max-width:540px; min-width:280px; width:100%;"
+  >
+    <a href={postUrl} target="_blank" rel="noopener noreferrer">
+      {`@${username} のInstagram投稿を見る`}
+    </a>
+  </blockquote>
+</div>
+
+<script is:inline>
+  (function () {
+    function loadEmbedScript() {
+      if (document.querySelector('script[data-instagram-embed-js]')) {
+        if (window.instgrm) window.instgrm.Embeds.process();
+        return;
+      }
+      const s = document.createElement("script");
+      s.src = "https://www.instagram.com/embed.js";
+      s.async = true;
+      s.setAttribute("data-instagram-embed-js", "1");
+      document.body.appendChild(s);
+    }
+
+    const wraps = document.querySelectorAll("[data-instagram-embed]");
+    if (!wraps.length) return;
+
+    if (!("IntersectionObserver" in window)) {
+      loadEmbedScript();
+      return;
+    }
+
+    const io = new IntersectionObserver(
+      (entries, observer) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            loadEmbedScript();
+            observer.disconnect();
+            break;
+          }
+        }
+      },
+      { rootMargin: "200px" },
+    );
+    wraps.forEach((el) => io.observe(el));
+  })();
+</script>

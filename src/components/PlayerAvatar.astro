@@ -1,20 +1,41 @@
 ---
 /**
  * PlayerAvatar.astro
- * 選手アバター（06）。表示優先順: ① Instagram → ② AIイラスト → ③ プレースホルダーSVG。
+ * 選手アバター（06、P4-4で完成形）。表示優先順:
+ *   ① data/manual/instagram_accounts.json に登録がある → Instagram公式埋め込み
+ *   ② public/illustrations/{playerId}.webp が存在する → AIイラスト
+ *   ③ どちらも無い → イニシャル＋チームカラーのプレースホルダーSVG（追加アセット不要）
+ * 上位が無ければ下位へ自動フォールバックする（ファイル/登録の存在で判定）。
  *
- * P2-2 では ③ プレースホルダーのみ実装（イニシャル＋チームカラーのSVGを動的生成、
- * 追加アセット不要）。① Instagram 埋め込みと ② イラストフォールバックは P4-4 で追加する。
+ * playerId を渡さない呼び出しは③のみで動作する（後方互換）。
  */
+import { existsSync } from "node:fs";
+import { join } from "node:path";
+import InstagramEmbed from "./InstagramEmbed.astro";
+import instagramAccounts from "../../data/manual/instagram_accounts.json";
+
 interface Props {
   name: string | null;
   /** チームカラー（hex）。無ければ名前ハッシュから決定的に色を選ぶ。 */
   color?: string | null;
   size?: number;
   class?: string;
+  /** master の player.id。① Instagram登録 / ② イラスト配置の判定に使う。省略時は③のみ。 */
+  playerId?: string | null;
 }
 
-const { name, color = null, size = 128, class: className = "" } = Astro.props;
+const { name, color = null, size = 128, class: className = "", playerId = null } = Astro.props;
+
+type InstagramAccount = { username: string; post_url: string };
+const accounts = instagramAccounts as Record<string, InstagramAccount>;
+const instagramEntry: InstagramAccount | null =
+  playerId != null ? (accounts[playerId] ?? null) : null;
+
+const illustrationPath =
+  playerId != null
+    ? join(process.cwd(), "public", "illustrations", `${playerId}.webp`)
+    : null;
+const hasIllustration = illustrationPath != null && existsSync(illustrationPath);
 
 /** 表示イニシャル: ラテン名は各語頭、日本語等は先頭1〜2文字。 */
 function initials(n: string | null): string {
@@ -59,23 +80,42 @@ const hex = color && /^#?[0-9a-fA-F]{6}$/.test(color)
 const label = initials(name);
 ---
 
-<svg
-  viewBox="0 0 100 100"
-  width={size}
-  height={size}
-  class={className}
-  role="img"
-  aria-label={name ?? "選手"}
-  xmlns="http://www.w3.org/2000/svg"
->
-  <rect width="100" height="100" rx="18" fill={hex}></rect>
-  <text
-    x="50"
-    y="50"
-    dy="0.35em"
-    text-anchor="middle"
-    font-size="38"
-    font-weight="800"
-    fill="#ffffff"
-    font-family="system-ui, -apple-system, sans-serif">{label}</text>
-</svg>
+{
+  instagramEntry ? (
+    <InstagramEmbed
+      postUrl={instagramEntry.post_url}
+      username={instagramEntry.username}
+      class={className}
+    />
+  ) : hasIllustration ? (
+    <img
+      src={`/illustrations/${playerId}.webp`}
+      width={size}
+      height={size}
+      alt={name ?? "選手"}
+      class={className}
+      style="object-fit: cover;"
+    />
+  ) : (
+    <svg
+      viewBox="0 0 100 100"
+      width={size}
+      height={size}
+      class={className}
+      role="img"
+      aria-label={name ?? "選手"}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="100" height="100" rx="18" fill={hex}></rect>
+      <text
+        x="50"
+        y="50"
+        dy="0.35em"
+        text-anchor="middle"
+        font-size="38"
+        font-weight="800"
+        fill="#ffffff"
+        font-family="system-ui, -apple-system, sans-serif">{label}</text>
+    </svg>
+  )
+}
