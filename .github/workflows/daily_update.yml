@@ -1,0 +1,92 @@
+name: Daily Update
+
+# 05_AUTOMATION.md 準拠。scrape_and_deploy.yml / update_data.yml を統合・置き換え。
+on:
+  schedule:
+    # 06:00 JST 毎日 = 21:00 UTC 前日: フル更新（players/teams/matches/standings 全件）
+    - cron: '0 21 * * *'
+    # 23:30 JST 毎日 = 14:30 UTC: 軽量更新（試合日の結果反映漏れ対策、matches/standings のみ）
+    - cron: '30 14 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '実行モード'
+        required: false
+        default: full
+        type: choice
+        options:
+          - full
+          - light
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine run mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "30 14 * * *" ]; then
+            echo "mode=light" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 検証失敗（exit != 0）の場合、pipefail によりこのステップ自体が失敗し、
+      # 以降の commit/push・成功通知ステップは実行されない（GitHub Actions のデフォルト条件）。
+      - name: Run pipeline (full)
+        if: steps.mode.outputs.mode == 'full'
+        run: python3 -m pipeline.run --all 2>&1 | tee pipeline_run.log
+
+      - name: "Run pipeline (light: matches/standings)"
+        if: steps.mode.outputs.mode == 'light'
+        run: python3 -m pipeline.run --all --only matches,standings 2>&1 | tee pipeline_run.log
+
+      - name: Generate news articles
+        run: python3 -m pipeline.news_gen 2>&1 | tee pipeline_news.log
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/master src/content/news
+          git diff --cached --name-only -- src/content/news > news_changed.txt || true
+          if git diff --cached --quiet; then
+            echo "変更なし。コミットしない。"
+          else
+            git commit -m "chore: daily_update $(date +'%Y-%m-%d %H:%M JST') (${{ steps.mode.outputs.mode }})"
+            git push
+          fi
+
+      - name: Notify success
+        if: success()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python3 -m pipeline.notify --status success \
+            --title "daily_update 成功 (${{ steps.mode.outputs.mode }})" \
+            --log pipeline_run.log --log pipeline_news.log \
+            --news-list news_changed.txt
+
+      - name: Notify failure
+        if: failure()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python3 -m pipeline.notify --status failure \
+            --title "daily_update 失敗 (${{ steps.mode.outputs.mode }})" \
+            --log pipeline_run.log --log pipeline_news.log
