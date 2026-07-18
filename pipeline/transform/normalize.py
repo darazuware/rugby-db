@@ -426,6 +426,72 @@ def player_university(raw: dict, *, team_name: str, division: str,
     return model.model_dump(by_alias=True), w
 
 
+def _hs_grad_year(grade: Optional[int], scraped_at: str) -> Optional[int]:
+    """現在の高校の学年(grade, 1-3)から卒業年(西暦)を機械的に算出する（P5-6）。
+
+    _univ_grad_year と同じ暦計算（高校は3年制: 卒業年 = 年度 + 4 - g）。
+    「学年」自体がソース記載の事実であり、AIによる補完ではない。
+    """
+    if grade is None:
+        return None
+    try:
+        dt = datetime.fromisoformat(scraped_at)
+    except ValueError:
+        return None
+    ay = dt.year if dt.month >= 4 else dt.year - 1
+    return ay + 4 - grade
+
+
+def player_highschool(raw: dict, *, school_name: str,
+                      source_url: str) -> tuple[Optional[dict], list[str]]:
+    """高校ラグビー部公式サイトの部員名簿1件 raw dict -> Player dict（P5-6）。
+
+    raw は pipeline.scrape.highschool._extract_records()（または LLM フォールバック）
+    の1レコード: {kanji, kana, grade(1-3|None), position}。
+
+    未成年ポリシー（10、絶対）: is_minor=True を必ず設定。収集・保持するのは
+    氏名・かな・学年（education.grad_year に変換）・ポジションのみ。生年月日・
+    身長体重・出身中学・SNS・写真はソースに記載があっても一切保持しない
+    （P5-2 のサイト側強制に加え、収集段階でも最小化する）。
+    team_id は付与しない（highschool は NO_TEAM_LEAGUES。所属校は education の
+    type="hs" エントリで表現し、school_id は migrate_schools.py が別途解決する）。
+    """
+    kanji = raw.get("kanji")
+    if not kanji:
+        return None, ["highschool: 氏名(漢字)欠落のためスキップ"]
+    school_slug = _slugify_ja(school_name)
+    name_slug = _slugify_ja(kanji)
+    pid = f"hs_{school_slug}__{name_slug}"
+    slug = f"hs-{school_slug}-{name_slug}"
+
+    now = _now()
+    education = [{
+        "name_raw": school_name, "type": "hs",
+        "grad_year": _hs_grad_year(raw.get("grade"), now),
+        "source_url": source_url, "scraped_at": now,
+    }]
+    data = {
+        "id": pid,
+        "source": "highschool-club-site",
+        "source_url": source_url,
+        "scraped_at": now,
+        "name_ja": kanji,
+        "name_kana": raw.get("kana") or None,
+        "slug": slug,
+        "position": raw.get("position"),
+        "team_id": None,
+        "league": "highschool",
+        "nationality": [],
+        "education": education,
+        "is_minor": True,  # 高校生は原則全員未成年扱い（10）
+    }
+    try:
+        model, w = Player.parse(data)
+    except ValidationError as exc:
+        return None, [f"{pid}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
+    return model.model_dump(by_alias=True), w
+
+
 def match_jrfu(g: dict, *, home_slug: str, away_slug: str, game_id) -> tuple[Optional[dict], list[str]]:
     """JRFU（rugby-japan.jp）game.php の1試合分 dict → Match dict（02: 日本代表日程）。
 

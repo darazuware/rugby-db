@@ -54,6 +54,19 @@ ALLOWED_DOMAINS |= {
     "otemongakuinrfc.com", "osu-rugby.jp",
 }
 
+# P5-6: 高校ラグビー部員名簿（10_YOUTH_AGEGRADE.md 高校スコープ）。
+# 収集対象校は data/manual/hs_target_schools.json（第105回花園出場校×激戦区18都道府県、
+# 出典URL同ファイル）で人手管理。以下は公式部員名簿の静的取得が実ページで確認できた
+# 6校分のドメイン（2026-07-19 確認。high-s.keiorugby.com は既存 keiorugby.com が
+# サブドメインとしてカバーするため追加不要）。
+ALLOWED_DOMAINS |= {
+    "ryukeirugby.com",        # 流通経済大学付属柏 ラグビー部公式
+    "goseihsrugbyteam.com",   # 御所実業 ラグビー部公式
+    "bukatsunavi.com",        # 目黒学院（学校公式の部活ページ基盤）
+    "nagoyarugby.d2.r-cms.jp",  # 名古屋 ラグビー部公式
+    "kgh-rugby.r-cms.jp",     # 関西学院高等部 ラグビー部公式
+}
+
 HEIGHT_RANGE = (150, 230)
 # P5-3: 下限60は男子プロ基準で、女子セブンズ代表の実測値(56kg等、JRFU公式公表)を
 # 誤って null 化していたため 45 に拡大（実データに合わせた妥当性範囲の修正）。

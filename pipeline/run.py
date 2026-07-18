@@ -26,7 +26,7 @@ import sys
 
 from pipeline import io
 from pipeline.diffs import detect as diffs_detect
-from pipeline.scrape import all_rugby, jrfu, league_one, university
+from pipeline.scrape import all_rugby, highschool, jrfu, league_one, university
 from pipeline.validate import checks
 
 # league key → (scrape+transform を行う callable)。P1-3 以降で埋める。
@@ -40,11 +40,12 @@ SCRAPERS: dict[str, object] = {
     "sevens-national": lambda: jrfu.collect_sevens(),
     "age-grade": lambda: jrfu.collect_age_grade(),
     "university": university.collect_all,
+    "highschool": highschool.collect_all,
 }
 ALL_LEAGUES = [
     "league-one-d1", "league-one-d2", "league-one-d3",
     "top14", "super-rugby", "national",
-    "sevens-national", "age-grade", "university",
+    "sevens-national", "age-grade", "university", "highschool",
 ]
 
 

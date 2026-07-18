@@ -1,0 +1,2339 @@
+{
+  "league": "highschool",
+  "signings": [
+    {
+      "id": "hs_名古屋高等学校__中瀨一樹",
+      "name_en": null,
+      "name_ja": "中瀨 一樹",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__五十嵐佑太",
+      "name_en": null,
+      "name_ja": "五十嵐 佑太",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__井上咲太郎",
+      "name_en": null,
+      "name_ja": "井上 咲太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__井上竜之介",
+      "name_en": null,
+      "name_ja": "井上 竜之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__伊藤大雅",
+      "name_en": null,
+      "name_ja": "伊藤 大雅",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__保田大智",
+      "name_en": null,
+      "name_ja": "保田 大智",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__北折凛太郎",
+      "name_en": null,
+      "name_ja": "北折 凛太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__大下拓人",
+      "name_en": null,
+      "name_ja": "大下 拓人",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__大川泰志",
+      "name_en": null,
+      "name_ja": "大川 泰志",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__大澤一晶",
+      "name_en": null,
+      "name_ja": "大澤 一晶",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__大鋸一貴",
+      "name_en": null,
+      "name_ja": "大鋸 一貴",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__大隈大介",
+      "name_en": null,
+      "name_ja": "大隈 大介",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__安東彪冴",
+      "name_en": null,
+      "name_ja": "安東 彪冴",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__安田悠",
+      "name_en": null,
+      "name_ja": "安田 悠",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__安藤結哉",
+      "name_en": null,
+      "name_ja": "安藤 結哉",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__宮原啓太",
+      "name_en": null,
+      "name_ja": "宮原 啓太",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__富塚耕太",
+      "name_en": null,
+      "name_ja": "富塚 耕太",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__小林聖悟",
+      "name_en": null,
+      "name_ja": "小林 聖悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__山北剛大",
+      "name_en": null,
+      "name_ja": "山北 剛大",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__山根奏大",
+      "name_en": null,
+      "name_ja": "山根 奏大",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__平松佑一朗",
+      "name_en": null,
+      "name_ja": "平松 佑一朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__春名奏汰",
+      "name_en": null,
+      "name_ja": "春名 奏汰",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__服部謙成",
+      "name_en": null,
+      "name_ja": "服部 謙成",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__本郷将之",
+      "name_en": null,
+      "name_ja": "本郷 将之",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__村瀬裕俊",
+      "name_en": null,
+      "name_ja": "村瀬 裕俊",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__松野秀悟",
+      "name_en": null,
+      "name_ja": "松野 秀悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__森本伊吹",
+      "name_en": null,
+      "name_ja": "森本 伊吹",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__森本昊希",
+      "name_en": null,
+      "name_ja": "森本 昊希",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__水谷旬",
+      "name_en": null,
+      "name_ja": "水谷 旬",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__水谷謙吾",
+      "name_en": null,
+      "name_ja": "水谷 謙吾",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__江口朔太郎",
+      "name_en": null,
+      "name_ja": "江口 朔太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__瀧愛統",
+      "name_en": null,
+      "name_ja": "瀧 愛統",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__田中颯次郎",
+      "name_en": null,
+      "name_ja": "田中 颯次郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__田邊紘晟",
+      "name_en": null,
+      "name_ja": "田邊 紘晟",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__矢内知廣",
+      "name_en": null,
+      "name_ja": "矢内 知廣",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__石井太基",
+      "name_en": null,
+      "name_ja": "石井 太基",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__神谷水月",
+      "name_en": null,
+      "name_ja": "神谷 水月",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__荒川拓澄",
+      "name_en": null,
+      "name_ja": "荒川 拓澄",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__藤田峻輔",
+      "name_en": null,
+      "name_ja": "藤田 峻輔",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__藤田恭哉",
+      "name_en": null,
+      "name_ja": "藤田 恭哉",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__西山麟",
+      "name_en": null,
+      "name_ja": "西山 麟",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__西川悠翔",
+      "name_en": null,
+      "name_ja": "西川 悠翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__角岡潤都",
+      "name_en": null,
+      "name_ja": "角岡 潤都",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__諸岡拓弥",
+      "name_en": null,
+      "name_ja": "諸岡 拓弥",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__遠藤友軌翔",
+      "name_en": null,
+      "name_ja": "遠藤 友軌翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__那須野大智",
+      "name_en": null,
+      "name_ja": "那須野 大智",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__野村宗巧",
+      "name_en": null,
+      "name_ja": "野村 宗巧",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__鈴木康之介",
+      "name_en": null,
+      "name_ja": "鈴木 康之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__鈴木拓朗",
+      "name_en": null,
+      "name_ja": "鈴木 拓朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__鈴木晴太",
+      "name_en": null,
+      "name_ja": "鈴木 晴太",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__鎌倉司",
+      "name_en": null,
+      "name_ja": "鎌倉 司",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__長瀬光輝",
+      "name_en": null,
+      "name_ja": "長瀬 光輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__間宮諒",
+      "name_en": null,
+      "name_ja": "間宮 諒",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__須原瑛大",
+      "name_en": null,
+      "name_ja": "須原 瑛大",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__饗場弘輝",
+      "name_en": null,
+      "name_ja": "饗場 弘輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__高木蒼太",
+      "name_en": null,
+      "name_ja": "高木 蒼太",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__髙木貫大朗",
+      "name_en": null,
+      "name_ja": "髙木 貫大朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_名古屋高等学校__鬼頭快空",
+      "name_en": null,
+      "name_ja": "鬼頭 快空",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__一身隼翔",
+      "name_en": null,
+      "name_ja": "一身 隼翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__三原慶太",
+      "name_en": null,
+      "name_ja": "三原 慶太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__三村晃風",
+      "name_en": null,
+      "name_ja": "三村 晃風",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__三村泰輝",
+      "name_en": null,
+      "name_ja": "三村 泰輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__上杉威富",
+      "name_en": null,
+      "name_ja": "上杉 威富",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__上板陸人",
+      "name_en": null,
+      "name_ja": "上板 陸人",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__中俣慧太",
+      "name_en": null,
+      "name_ja": "中俣 慧太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__中山太翔",
+      "name_en": null,
+      "name_ja": "中山 太翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__中村玲央",
+      "name_en": null,
+      "name_ja": "中村 玲央",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__丹野陸希",
+      "name_en": null,
+      "name_ja": "丹野 陸希",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__丹頂陽人",
+      "name_en": null,
+      "name_ja": "丹頂 陽人",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__五鬼上琉唯",
+      "name_en": null,
+      "name_ja": "五鬼上 琉唯",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__仲宗根幸樹",
+      "name_en": null,
+      "name_ja": "仲宗根 幸樹",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__伊藤孝太郎",
+      "name_en": null,
+      "name_ja": "伊藤 孝太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__佐藤洸太",
+      "name_en": null,
+      "name_ja": "佐藤 洸太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__依田太郎",
+      "name_en": null,
+      "name_ja": "依田 太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__八木鉄之心",
+      "name_en": null,
+      "name_ja": "八木 鉄之心",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__前田義翔",
+      "name_en": null,
+      "name_ja": "前田 義翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__加藤仁",
+      "name_en": null,
+      "name_ja": "加藤 仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__加藤聖貴",
+      "name_en": null,
+      "name_ja": "加藤 聖貴",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__吉田陽翔",
+      "name_en": null,
+      "name_ja": "吉田 陽翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__國松尭拓",
+      "name_en": null,
+      "name_ja": "國松 尭拓",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__土谷朋暉",
+      "name_en": null,
+      "name_ja": "土谷 朋暉",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__堀井陸矢",
+      "name_en": null,
+      "name_ja": "堀井 陸矢",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__大内律生",
+      "name_en": null,
+      "name_ja": "大内 律生",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__奈須獅道",
+      "name_en": null,
+      "name_ja": "奈須 獅道",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__奥吟太朗",
+      "name_en": null,
+      "name_ja": "奥 吟太朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__安東旺晟",
+      "name_en": null,
+      "name_ja": "安東 旺晟",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__安龍眞",
+      "name_en": null,
+      "name_ja": "安 龍眞",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__宗像メサケ翼",
+      "name_en": null,
+      "name_ja": "宗像 メサケ翼",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__宮本晴",
+      "name_en": null,
+      "name_ja": "宮本 晴",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__宮本獅悠",
+      "name_en": null,
+      "name_ja": "宮本 獅悠",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__寺本虎正",
+      "name_en": null,
+      "name_ja": "寺本 虎正",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__小山生起",
+      "name_en": null,
+      "name_ja": "小山 生起",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__小林桜士",
+      "name_en": null,
+      "name_ja": "小林 桜士",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__小林龍征",
+      "name_en": null,
+      "name_ja": "小林 龍征",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__小池洸誠",
+      "name_en": null,
+      "name_ja": "小池 洸誠",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__尾崎吏凰",
+      "name_en": null,
+      "name_ja": "尾崎 吏凰",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__山下晃",
+      "name_en": null,
+      "name_ja": "山下 晃",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__山下陵",
+      "name_en": null,
+      "name_ja": "山下 陵",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__山中睦絆",
+      "name_en": null,
+      "name_ja": "山中 睦絆",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__岡田凰真",
+      "name_en": null,
+      "name_ja": "岡田 凰真",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__岩井丈太朗",
+      "name_en": null,
+      "name_ja": "岩井 丈太朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__峯川尊臣",
+      "name_en": null,
+      "name_ja": "峯川 尊臣",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__川上嵩太",
+      "name_en": null,
+      "name_ja": "川上 嵩太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__川口桜太",
+      "name_en": null,
+      "name_ja": "川口 桜太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__川崎友羅",
+      "name_en": null,
+      "name_ja": "川崎 友羅",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__川崎敬太",
+      "name_en": null,
+      "name_ja": "川崎 敬太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__川田法親",
+      "name_en": null,
+      "name_ja": "川田 法親",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__平井虎千代",
+      "name_en": null,
+      "name_ja": "平井 虎千代",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__床次健輔",
+      "name_en": null,
+      "name_ja": "床次 健輔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__徳田璃飛",
+      "name_en": null,
+      "name_ja": "徳田 璃飛",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__押野凛太朗",
+      "name_en": null,
+      "name_ja": "押野 凛太朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__斉藤左近",
+      "name_en": null,
+      "name_ja": "斉藤 左近",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__斎藤想和",
+      "name_en": null,
+      "name_ja": "斎藤 想和",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__新井琉希",
+      "name_en": null,
+      "name_ja": "新井 琉希",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__本間氷冴",
+      "name_en": null,
+      "name_ja": "本間 氷冴",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__村山琉",
+      "name_en": null,
+      "name_ja": "村山 琉",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__松並天望",
+      "name_en": null,
+      "name_ja": "松並 天望",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__松原蒼輔",
+      "name_en": null,
+      "name_ja": "松原 蒼輔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__松田勝之新",
+      "name_en": null,
+      "name_ja": "松田 勝之新",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__林田葵生",
+      "name_en": null,
+      "name_ja": "林田 葵生",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__柳瀬拓磨",
+      "name_en": null,
+      "name_ja": "柳瀬 拓磨",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__柴田圭吾",
+      "name_en": null,
+      "name_ja": "柴田 圭吾",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__梅田陽功",
+      "name_en": null,
+      "name_ja": "梅田 陽功",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__森安美道",
+      "name_en": null,
+      "name_ja": "森安 美道",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__森山仁",
+      "name_en": null,
+      "name_ja": "森山 仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__森永宗史朗",
+      "name_en": null,
+      "name_ja": "森永 宗史朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__橋本大輝",
+      "name_en": null,
+      "name_ja": "橋本 大輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__櫻井大治",
+      "name_en": null,
+      "name_ja": "櫻井 大治",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__比嘉志道",
+      "name_en": null,
+      "name_ja": "比嘉 志道",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__沼田海翔",
+      "name_en": null,
+      "name_ja": "沼田 海翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__泉歩太",
+      "name_en": null,
+      "name_ja": "泉 歩太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__田中玲司郎",
+      "name_en": null,
+      "name_ja": "田中 玲司郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__田村虎士朗",
+      "name_en": null,
+      "name_ja": "田村 虎士朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__甲斐慶大",
+      "name_en": null,
+      "name_ja": "甲斐 慶大",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__登根陸斗",
+      "name_en": null,
+      "name_ja": "登根 陸斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__益留慧",
+      "name_en": null,
+      "name_ja": "益留 慧",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__石上絆名",
+      "name_en": null,
+      "name_ja": "石上 絆名",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__福井涼太郎",
+      "name_en": null,
+      "name_ja": "福井 涼太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__福井琉生",
+      "name_en": null,
+      "name_ja": "福井 琉生",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__福田碧",
+      "name_en": null,
+      "name_ja": "福田 碧",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__粟津明日空",
+      "name_en": null,
+      "name_ja": "粟津 明日空",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__草苅飛羽",
+      "name_en": null,
+      "name_ja": "草苅 飛羽",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__藤井蓮",
+      "name_en": null,
+      "name_ja": "藤井 蓮",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__西修平",
+      "name_en": null,
+      "name_ja": "西 修平",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__谷口寛九朗",
+      "name_en": null,
+      "name_ja": "谷口 寛九朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__近藤利披杜",
+      "name_en": null,
+      "name_ja": "近藤 利披杜",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__遊上賢志朗",
+      "name_en": null,
+      "name_ja": "遊上 賢志朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__重見栄心",
+      "name_en": null,
+      "name_ja": "重見 栄心",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__金勇太",
+      "name_en": null,
+      "name_ja": "金 勇太",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__鈴江翔",
+      "name_en": null,
+      "name_ja": "鈴江 翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__鎌田嶺王",
+      "name_en": null,
+      "name_ja": "鎌田 嶺王",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__開田壱咲",
+      "name_en": null,
+      "name_ja": "開田 壱咲",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__香川瑠壱",
+      "name_en": null,
+      "name_ja": "香川 瑠壱",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__馬川寛大",
+      "name_en": null,
+      "name_ja": "馬川 寛大",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__高田幸佑",
+      "name_en": null,
+      "name_ja": "高田 幸佑",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__髙居慧徳",
+      "name_en": null,
+      "name_ja": "髙居 慧徳",
+      "team_id": null
+    },
+    {
+      "id": "hs_御所実業高校__黒川慶大郎",
+      "name_en": null,
+      "name_ja": "黒川 慶大郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__中嶋祥一朗",
+      "name_en": null,
+      "name_ja": "中嶋 祥一朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__中村優志",
+      "name_en": null,
+      "name_ja": "中村 優志",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__中村謙太",
+      "name_en": null,
+      "name_ja": "中村 謙太",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__二村蓮",
+      "name_en": null,
+      "name_ja": "二村 蓮",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__伊東凱",
+      "name_en": null,
+      "name_ja": "伊東 凱",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__余語大健",
+      "name_en": null,
+      "name_ja": "余語 大健",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__加藤悠人",
+      "name_en": null,
+      "name_ja": "加藤 悠人",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__北蓮輝",
+      "name_en": null,
+      "name_ja": "北 蓮輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__堀内陽太",
+      "name_en": null,
+      "name_ja": "堀内 陽太",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__寺澤陽",
+      "name_en": null,
+      "name_ja": "寺澤 陽",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__小川耕右",
+      "name_en": null,
+      "name_ja": "小川 耕右",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__山口暖仁",
+      "name_en": null,
+      "name_ja": "山口 暖仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__山本琉聖",
+      "name_en": null,
+      "name_ja": "山本 琉聖",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__山本航瑛",
+      "name_en": null,
+      "name_ja": "山本 航瑛",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__成宮一将",
+      "name_en": null,
+      "name_ja": "成宮 一将",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__早野一慶",
+      "name_en": null,
+      "name_ja": "早野 一慶",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__服部廉",
+      "name_en": null,
+      "name_ja": "服部 廉",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__木谷元",
+      "name_en": null,
+      "name_ja": "木谷 元",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__松月莉仁",
+      "name_en": null,
+      "name_ja": "松月 莉仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__柏原千尋",
+      "name_en": null,
+      "name_ja": "柏原 千尋",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__栗林瑛一",
+      "name_en": null,
+      "name_ja": "栗林 瑛一",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__森悠樹",
+      "name_en": null,
+      "name_ja": "森 悠樹",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__森絆斗",
+      "name_en": null,
+      "name_ja": "森 絆斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__橋本康太郎",
+      "name_en": null,
+      "name_ja": "橋本 康太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__橋本響介",
+      "name_en": null,
+      "name_ja": "橋本 響介",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__武井惟大",
+      "name_en": null,
+      "name_ja": "武井 惟大",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__水上新太",
+      "name_en": null,
+      "name_ja": "水上 新太",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__河田泰文",
+      "name_en": null,
+      "name_ja": "河田 泰文",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__渋谷龍之介",
+      "name_en": null,
+      "name_ja": "渋谷 龍之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__渡邊堅仁",
+      "name_en": null,
+      "name_ja": "渡邊 堅仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__猪口翔",
+      "name_en": null,
+      "name_ja": "猪口 翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__石谷勇太",
+      "name_en": null,
+      "name_ja": "石谷 勇太",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__立山恵春",
+      "name_en": null,
+      "name_ja": "立山 恵春",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__荒山遼介",
+      "name_en": null,
+      "name_ja": "荒山 遼介",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__道垣内脩司",
+      "name_en": null,
+      "name_ja": "道垣内 脩司",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__鈴木煌太郎",
+      "name_en": null,
+      "name_ja": "鈴木 煌太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__鈴木隼",
+      "name_en": null,
+      "name_ja": "鈴木 隼",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__長峯佑典",
+      "name_en": null,
+      "name_ja": "長峯 佑典",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__飯田涼介",
+      "name_en": null,
+      "name_ja": "飯田 涼介",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__飯田直土",
+      "name_en": null,
+      "name_ja": "飯田 直土",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__髙瀬佑太",
+      "name_en": null,
+      "name_ja": "髙瀬 佑太",
+      "team_id": null
+    },
+    {
+      "id": "hs_慶應義塾志木高校__鳴海蒼人",
+      "name_en": null,
+      "name_ja": "鳴海 蒼人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__ナモア-フェレティリキ",
+      "name_en": null,
+      "name_ja": "ナモア・フェレティリキ",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__フォラウ隼人",
+      "name_en": null,
+      "name_ja": "フォラウ 隼人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__二木心大",
+      "name_en": null,
+      "name_ja": "二木 心大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__今井龍之介",
+      "name_en": null,
+      "name_ja": "今井 龍之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__佐藤晴太",
+      "name_en": null,
+      "name_ja": "佐藤 晴太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__佐藤涼真",
+      "name_en": null,
+      "name_ja": "佐藤 涼真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__信太時頼",
+      "name_en": null,
+      "name_ja": "信太 時頼",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__内山然",
+      "name_en": null,
+      "name_ja": "内山 然",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__加古蓮太郎",
+      "name_en": null,
+      "name_ja": "加古 蓮太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__南谷迪",
+      "name_en": null,
+      "name_ja": "南谷 迪",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__土屋幸大",
+      "name_en": null,
+      "name_ja": "土屋 幸大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__大河原一颯",
+      "name_en": null,
+      "name_ja": "大河原 一颯",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__大門歩瑠",
+      "name_en": null,
+      "name_ja": "大門 歩瑠",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__太田龍頌",
+      "name_en": null,
+      "name_ja": "太田 龍頌",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__安田隆人",
+      "name_en": null,
+      "name_ja": "安田 隆人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__小川聡真",
+      "name_en": null,
+      "name_ja": "小川 聡真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山中悠史",
+      "name_en": null,
+      "name_ja": "山中 悠史",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山口金太郎",
+      "name_en": null,
+      "name_ja": "山口 金太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山根陸",
+      "name_en": null,
+      "name_ja": "山根 陸",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__山田優之心",
+      "name_en": null,
+      "name_ja": "山田 優之心",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__岡田聖悟",
+      "name_en": null,
+      "name_ja": "岡田 聖悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__川邊宙輝",
+      "name_en": null,
+      "name_ja": "川邊 宙輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__平安玲侍",
+      "name_en": null,
+      "name_ja": "平安 玲侍",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__成家康介",
+      "name_en": null,
+      "name_ja": "成家 康介",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__早坂透真",
+      "name_en": null,
+      "name_ja": "早坂 透真",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__松本和人",
+      "name_en": null,
+      "name_ja": "松本 和人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__松本大生",
+      "name_en": null,
+      "name_ja": "松本 大生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__梅沢龍斗",
+      "name_en": null,
+      "name_ja": "梅沢 龍斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__橋本漱太朗",
+      "name_en": null,
+      "name_ja": "橋本 漱太朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__櫻井大和",
+      "name_en": null,
+      "name_ja": "櫻井 大和",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__池田双治郎",
+      "name_en": null,
+      "name_ja": "池田 双治郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__池谷大輝",
+      "name_en": null,
+      "name_ja": "池谷 大輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__津嘉山虎生",
+      "name_en": null,
+      "name_ja": "津嘉山 虎生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__津路大耀",
+      "name_en": null,
+      "name_ja": "津路 大耀",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__浅井渉平",
+      "name_en": null,
+      "name_ja": "浅井 渉平",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__渡辺翔",
+      "name_en": null,
+      "name_ja": "渡辺 翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__田坂律統",
+      "name_en": null,
+      "name_ja": "田坂 律統",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__甲斐翔大",
+      "name_en": null,
+      "name_ja": "甲斐 翔大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__石村ビシャル",
+      "name_en": null,
+      "name_ja": "石村 ビシャル",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__石毛葵",
+      "name_en": null,
+      "name_ja": "石毛 葵",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__石渡大嬉",
+      "name_en": null,
+      "name_ja": "石渡 大嬉",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__磯崎斗偉",
+      "name_en": null,
+      "name_ja": "磯崎 斗偉",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__福山太陽",
+      "name_en": null,
+      "name_ja": "福山 太陽",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__福永喬士",
+      "name_en": null,
+      "name_ja": "福永 喬士",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__笠村晃太郎",
+      "name_en": null,
+      "name_ja": "笠村 晃太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__細金隆太",
+      "name_en": null,
+      "name_ja": "細金 隆太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__羽鳥友統",
+      "name_en": null,
+      "name_ja": "羽鳥 友統",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__芦康介",
+      "name_en": null,
+      "name_ja": "芦 康介",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__荒井幹太",
+      "name_en": null,
+      "name_ja": "荒井 幹太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__荻原干城",
+      "name_en": null,
+      "name_ja": "荻原 干城",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__藤倉悠輝",
+      "name_en": null,
+      "name_ja": "藤倉 悠輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__藤田到",
+      "name_en": null,
+      "name_ja": "藤田 到",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__西山凱渡",
+      "name_en": null,
+      "name_ja": "西山 凱渡",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__近澤響生",
+      "name_en": null,
+      "name_ja": "近澤 響生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__重弘寛太",
+      "name_en": null,
+      "name_ja": "重弘 寛太",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__野口瑛汰",
+      "name_en": null,
+      "name_ja": "野口 瑛汰",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__鈴木岳門",
+      "name_en": null,
+      "name_ja": "鈴木 岳門",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__鈴木秀弥",
+      "name_en": null,
+      "name_ja": "鈴木 秀弥",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__長谷川煌詞",
+      "name_en": null,
+      "name_ja": "長谷川 煌詞",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__長野快音",
+      "name_en": null,
+      "name_ja": "長野 快音",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__阿部虎生",
+      "name_en": null,
+      "name_ja": "阿部 虎生",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__飛鳥真大",
+      "name_en": null,
+      "name_ja": "飛鳥 真大",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__高木聖",
+      "name_en": null,
+      "name_ja": "高木 聖",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__高柳大聖",
+      "name_en": null,
+      "name_ja": "高柳 大聖",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__髙梨太吾",
+      "name_en": null,
+      "name_ja": "髙梨 太吾",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__鷲野翔人",
+      "name_en": null,
+      "name_ja": "鷲野 翔人",
+      "team_id": null
+    },
+    {
+      "id": "hs_流通経済大学付属柏高校__齋田悠大",
+      "name_en": null,
+      "name_ja": "齋田 悠大",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__上野來音",
+      "name_en": null,
+      "name_ja": "上野 來音",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__中村支優",
+      "name_en": null,
+      "name_ja": "中村 支優",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__中村晴路郎",
+      "name_en": null,
+      "name_ja": "中村 晴路郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__中村泰志",
+      "name_en": null,
+      "name_ja": "中村 泰志",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__久永一太",
+      "name_en": null,
+      "name_ja": "久永 一太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__井上理稀",
+      "name_en": null,
+      "name_ja": "井上 理稀",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__今野怜幸",
+      "name_en": null,
+      "name_ja": "今野 怜幸",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__伊藤琉真",
+      "name_en": null,
+      "name_ja": "伊藤 琉真",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__佐々木武",
+      "name_en": null,
+      "name_ja": "佐々木 武",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__佐藤衣",
+      "name_en": null,
+      "name_ja": "佐藤 衣",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__加藤拓杜",
+      "name_en": null,
+      "name_ja": "加藤 拓杜",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__北山昇磨",
+      "name_en": null,
+      "name_ja": "北山 昇磨",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__及川陽",
+      "name_en": null,
+      "name_ja": "及川 陽",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__古山蒼涼",
+      "name_en": null,
+      "name_ja": "古山 蒼涼",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__吉本浩太",
+      "name_en": null,
+      "name_ja": "吉本 浩太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__吉田浩章",
+      "name_en": null,
+      "name_ja": "吉田 浩章",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__向中野聡",
+      "name_en": null,
+      "name_ja": "向中野 聡",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__吹田然",
+      "name_en": null,
+      "name_ja": "吹田 然",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__在原誠和",
+      "name_en": null,
+      "name_ja": "在原 誠和",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__塩見将生",
+      "name_en": null,
+      "name_ja": "塩見 将生",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__大塚滉介",
+      "name_en": null,
+      "name_ja": "大塚 滉介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__宮原健人",
+      "name_en": null,
+      "name_ja": "宮原 健人",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__富田奏多",
+      "name_en": null,
+      "name_ja": "富田 奏多",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__小堀優愛",
+      "name_en": null,
+      "name_ja": "小堀 優愛",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__小川颯太",
+      "name_en": null,
+      "name_ja": "小川 颯太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__小松昂平",
+      "name_en": null,
+      "name_ja": "小松 昂平",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__小野寺琉之介",
+      "name_en": null,
+      "name_ja": "小野寺 琉之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__山西皓太",
+      "name_en": null,
+      "name_ja": "山西 皓太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__岩井謙悟",
+      "name_en": null,
+      "name_ja": "岩井 謙悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__岩間温喜",
+      "name_en": null,
+      "name_ja": "岩間 温喜",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__島崎大義",
+      "name_en": null,
+      "name_ja": "島崎 大義",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__幡野暖大",
+      "name_en": null,
+      "name_ja": "幡野 暖大",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__庭田駿介",
+      "name_en": null,
+      "name_ja": "庭田 駿介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__徳田蓮斗",
+      "name_en": null,
+      "name_ja": "徳田 蓮斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__成田耀蓮",
+      "name_en": null,
+      "name_ja": "成田 耀蓮",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__挟間望",
+      "name_en": null,
+      "name_ja": "挟間 望",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__日高響士郎",
+      "name_en": null,
+      "name_ja": "日高 響士郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__村田葵",
+      "name_en": null,
+      "name_ja": "村田 葵",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松下佳介",
+      "name_en": null,
+      "name_ja": "松下 佳介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松下煌生",
+      "name_en": null,
+      "name_ja": "松下 煌生",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松井皇貴",
+      "name_en": null,
+      "name_ja": "松井 皇貴",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松元虎",
+      "name_en": null,
+      "name_ja": "松元 虎",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松浦大耀",
+      "name_en": null,
+      "name_ja": "松浦 大耀",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__松浦快育",
+      "name_en": null,
+      "name_ja": "松浦 快育",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__林田寛太",
+      "name_en": null,
+      "name_ja": "林田 寛太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__柏木郁人",
+      "name_en": null,
+      "name_ja": "柏木 郁人",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__根本瑛斗",
+      "name_en": null,
+      "name_ja": "根本 瑛斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__楠根天真",
+      "name_en": null,
+      "name_ja": "楠根 天真",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__橋本涼",
+      "name_en": null,
+      "name_ja": "橋本 涼",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__櫻井楽央",
+      "name_en": null,
+      "name_ja": "櫻井 楽央",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__武山湊音",
+      "name_en": null,
+      "name_ja": "武山 湊音",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__武村凌征",
+      "name_en": null,
+      "name_ja": "武村 凌征",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__武田遼一",
+      "name_en": null,
+      "name_ja": "武田 遼一",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__池田衛",
+      "name_en": null,
+      "name_ja": "池田 衛",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__浦野元気",
+      "name_en": null,
+      "name_ja": "浦野 元気",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__清水都礼",
+      "name_en": null,
+      "name_ja": "清水 都礼",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__渡邉晃太",
+      "name_en": null,
+      "name_ja": "渡邉 晃太",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__渥美瑠海",
+      "name_en": null,
+      "name_ja": "渥美 瑠海",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__澤田峻",
+      "name_en": null,
+      "name_ja": "澤田 峻",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__瀬戸健之介",
+      "name_en": null,
+      "name_ja": "瀬戸 健之介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__瀬戸康太郎",
+      "name_en": null,
+      "name_ja": "瀬戸 康太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__猪狩拓海",
+      "name_en": null,
+      "name_ja": "猪狩 拓海",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__白石頼都",
+      "name_en": null,
+      "name_ja": "白石 頼都",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__石井悠介",
+      "name_en": null,
+      "name_ja": "石井 悠介",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__石原虎太朗",
+      "name_en": null,
+      "name_ja": "石原 虎太朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__笹川駿",
+      "name_en": null,
+      "name_ja": "笹川 駿",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__築地陽永",
+      "name_en": null,
+      "name_ja": "築地 陽永",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__篠塚蓮太郎",
+      "name_en": null,
+      "name_ja": "篠塚 蓮太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__草柳多門",
+      "name_en": null,
+      "name_ja": "草柳 多門",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__菅原脩央",
+      "name_en": null,
+      "name_ja": "菅原 脩央",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__藤井淳平",
+      "name_en": null,
+      "name_ja": "藤井 淳平",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__酒井剛",
+      "name_en": null,
+      "name_ja": "酒井 剛",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__野村祐翔",
+      "name_en": null,
+      "name_ja": "野村 祐翔",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__鈴木健琉",
+      "name_en": null,
+      "name_ja": "鈴木 健琉",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__鈴木悠仁",
+      "name_en": null,
+      "name_ja": "鈴木 悠仁",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__門上羚慈",
+      "name_en": null,
+      "name_ja": "門上 羚慈",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__阿部琉空",
+      "name_en": null,
+      "name_ja": "阿部 琉空",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__須川大輝",
+      "name_en": null,
+      "name_ja": "須川 大輝",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__飯島蒼大",
+      "name_en": null,
+      "name_ja": "飯島 蒼大",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__高橋碧芭",
+      "name_en": null,
+      "name_ja": "高橋 碧芭",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__高橋考",
+      "name_en": null,
+      "name_ja": "高橋 考",
+      "team_id": null
+    },
+    {
+      "id": "hs_目黒学院高校__高野遥久",
+      "name_en": null,
+      "name_ja": "高野 遥久",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__三野亮祐",
+      "name_en": null,
+      "name_ja": "三野 亮祐",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__中世良平",
+      "name_en": null,
+      "name_ja": "中世 良平",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__中土井獅王",
+      "name_en": null,
+      "name_ja": "中土井 獅王",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__中山昂大",
+      "name_en": null,
+      "name_ja": "中山 昂大",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__中西桂生",
+      "name_en": null,
+      "name_ja": "中西 桂生",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__丸目大悟",
+      "name_en": null,
+      "name_ja": "丸目 大悟",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__内村碧",
+      "name_en": null,
+      "name_ja": "内村 碧",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__吉田格",
+      "name_en": null,
+      "name_ja": "吉田 格",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__多喜悠起",
+      "name_en": null,
+      "name_ja": "多喜 悠起",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__大嶋隆太郎",
+      "name_en": null,
+      "name_ja": "大嶋 隆太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__大西慶",
+      "name_en": null,
+      "name_ja": "大西 慶",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__奈須友希",
+      "name_en": null,
+      "name_ja": "奈須 友希",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__安田悠人",
+      "name_en": null,
+      "name_ja": "安田 悠人",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__宮嵜梓温",
+      "name_en": null,
+      "name_ja": "宮嵜 梓温",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__尾崎佑乃輔",
+      "name_en": null,
+      "name_ja": "尾崎 佑乃輔",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__山田暉",
+      "name_en": null,
+      "name_ja": "山田 暉",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__岩元厚樹",
+      "name_en": null,
+      "name_ja": "岩元 厚樹",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__平生亜優",
+      "name_en": null,
+      "name_ja": "平生 亜優",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__廣田悠人",
+      "name_en": null,
+      "name_ja": "廣田 悠人",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__弓田健吾",
+      "name_en": null,
+      "name_ja": "弓田 健吾",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__徳永伊吹",
+      "name_en": null,
+      "name_ja": "徳永 伊吹",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__新川温橙",
+      "name_en": null,
+      "name_ja": "新川 温橙",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__有本理玖",
+      "name_en": null,
+      "name_ja": "有本 理玖",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__松下東磨",
+      "name_en": null,
+      "name_ja": "松下 東磨",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__林銀志朗",
+      "name_en": null,
+      "name_ja": "林 銀志朗",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__森下巧一",
+      "name_en": null,
+      "name_ja": "森下 巧一",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__泉翔太",
+      "name_en": null,
+      "name_ja": "泉 翔太",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__浅野陽月",
+      "name_en": null,
+      "name_ja": "浅野 陽月",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__濵田啓太",
+      "name_en": null,
+      "name_ja": "濵田 啓太",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__田中智也",
+      "name_en": null,
+      "name_ja": "田中 智也",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__田井中啓吾",
+      "name_en": null,
+      "name_ja": "田井中 啓吾",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__石橋幸信",
+      "name_en": null,
+      "name_ja": "石橋 幸信",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__笠井誠斗",
+      "name_en": null,
+      "name_ja": "笠井 誠斗",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__西殿蒼太郎",
+      "name_en": null,
+      "name_ja": "西殿 蒼太郎",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__速水翔大",
+      "name_en": null,
+      "name_ja": "速水 翔大",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__鈴木大裕",
+      "name_en": null,
+      "name_ja": "鈴木 大裕",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__長谷川遼",
+      "name_en": null,
+      "name_ja": "長谷川 遼",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__門奈侑成",
+      "name_en": null,
+      "name_ja": "門奈 侑成",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__関戸蒼介",
+      "name_en": null,
+      "name_ja": "関戸 蒼介",
+      "team_id": null
+    },
+    {
+      "id": "hs_関西学院高等部__鴨田直也",
+      "name_en": null,
+      "name_ja": "鴨田 直也",
+      "team_id": null
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [],
+  "newly_finished_rounds": []
+}
