@@ -53,3 +53,22 @@ export function getWatchProviders(leagueId?: string | null): WatchProvider[] {
 
 // PR表記の共通文言（景表法ステマ規制対応）
 export const PR_NOTICE_TEXT = "本ページにはプロモーションが含まれます";
+
+export interface AccommodationProvider {
+    id: string;
+    name: string;
+    /** ASP経由の宿泊予約導線URL。本番URLはユーザーが貼るまでプレースホルダーのまま。 */
+    url: string;
+}
+
+// 宿泊予約サービス定義（P4-2、参照: docs/renewal/07_AFFILIATE.md）
+// エリア指定は data/manual/venue_areas.json を引いて呼び出し側が付与する（URL自体は固定プレースホルダー）。
+export const ACCOMMODATION_PROVIDERS: Record<string, AccommodationProvider> = {
+    rakutentravel: { id: "rakutentravel", name: "楽天トラベル", url: "#TODO_ASP_URL" },
+    jalan: { id: "jalan", name: "じゃらん", url: "#TODO_ASP_URL" },
+};
+
+/** 全宿泊予約サービスを返す（リーグ非依存、会場エリアが判明した試合/チームページでのみ表示する） */
+export function getAccommodationProviders(): AccommodationProvider[] {
+    return Object.values(ACCOMMODATION_PROVIDERS);
+}

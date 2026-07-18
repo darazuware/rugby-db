@@ -21,6 +21,9 @@ import teamNamesJp from "../../../../data/team_names_jp.json";
 import { getTeamSlug } from "../../../utils/team_utils";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import { findMasterTeamBySlug, getTeamRosterLegacyShape } from "../../../lib/masterAdapters";
+import AccommodationButton from "../../../components/AccommodationButton.astro";
+import PRNotice from "../../../components/PRNotice.astro";
+import { getVenueArea } from "../../../lib/venueAreas";
 
 const { league: leagueParam, slug } = Astro.params;
 const team: any = teamsData.find((t: any) => t.league === leagueParam && t.slug === slug);
@@ -457,6 +460,7 @@ const teamStanding = leagueStandings.find((s: any) =>
                 </div>
 
                 <div class="p-10" id="info">
+                    {getVenueArea(team.home_ground) && <PRNotice />}
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
                         <div class="space-y-8">
                             <h2
@@ -497,6 +501,11 @@ const teamStanding = leagueStandings.find((s: any) =>
                                     {team.home_ground_address && (
                                         <dd class="text-[11px] text-foreground/60 mt-1 leading-relaxed">
                                             {team.home_ground_address}
+                                        </dd>
+                                    )}
+                                    {getVenueArea(team.home_ground) && (
+                                        <dd class="mt-3">
+                                            <AccommodationButton venue={team.home_ground} compact />
                                         </dd>
                                     )}
                                 </div>

@@ -1,0 +1,46 @@
+---
+// 「会場周辺のホテルを探す」宿泊導線ボタン（P4-2）。
+// venue（会場名）→ エリア対応表（data/manual/venue_areas.json）を引いて楽天トラベル/じゃらんへのリンクを出す。
+// エリアが判明しない会場（海外・未定）では何も表示しない。
+// 設置対象: チーム/代表戦・リーグワン試合ページ（参照: docs/renewal/07_AFFILIATE.md）
+import { getAccommodationProviders, AFFILIATE_LINK_ATTRS } from "../lib/affiliates";
+import { getVenueArea } from "../lib/venueAreas";
+
+interface Props {
+    /** 会場名。teams.json の home_ground / 試合データの venue・venue_raw を渡す */
+    venue?: string | null;
+    /** 1件のみ表示するコンパクト表示（試合カード内など） */
+    compact?: boolean;
+    class?: string;
+}
+
+const { venue, compact = false, class: className = "" } = Astro.props;
+const venueArea = getVenueArea(venue);
+const providers = compact ? getAccommodationProviders().slice(0, 1) : getAccommodationProviders();
+---
+
+{
+    venueArea && providers.length > 0 && (
+        <div class={`flex flex-wrap items-center gap-2 ${className}`}>
+            {!compact && (
+                <span class="text-[10px] font-bold text-foreground/40 uppercase tracking-widest">
+                    {venueArea.area}周辺のホテル:
+                </span>
+            )}
+            {providers.map((p) => (
+                <a
+                    href={p.url}
+                    rel={AFFILIATE_LINK_ATTRS.rel}
+                    target={AFFILIATE_LINK_ATTRS.target}
+                    class={
+                        compact
+                            ? "inline-flex items-center gap-1 px-2.5 py-1 bg-foreground/10 text-foreground text-[9px] font-black rounded-lg hover:bg-foreground/20 transition-colors uppercase tracking-wide whitespace-nowrap"
+                            : "inline-flex items-center gap-2 px-6 py-3 bg-foreground/10 text-foreground hover:bg-foreground/20 transition-all rounded-xl font-black text-[10px] uppercase tracking-widest border border-border-dim/50"
+                    }
+                >
+                    {compact ? `${p.name}で探す` : `${venueArea.area}周辺のホテルを探す（${p.name}）`}
+                </a>
+            ))}
+        </div>
+    )
+}
