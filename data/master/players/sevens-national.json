@@ -30,7 +30,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐野日本大学高校",
         "name_raw": "佐野日本大学高校",
         "type": "hs",
         "grad_year": null,
@@ -38,7 +38,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "東洋大学",
         "name_raw": "東洋大学",
         "type": "univ",
         "grad_year": null,
@@ -84,7 +84,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "学習院高等科",
         "name_raw": "学習院高等科",
         "type": "hs",
         "grad_year": null,
@@ -92,7 +92,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "学習院大学",
         "name_raw": "学習院大学",
         "type": "univ",
         "grad_year": null,
@@ -138,7 +138,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "茗溪学園高校",
         "name_raw": "茗溪学園高校",
         "type": "hs",
         "grad_year": null,
@@ -146,7 +146,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "筑波大学",
         "name_raw": "筑波大学",
         "type": "univ",
         "grad_year": null,
@@ -192,7 +192,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "ナシヌー高校",
         "name_raw": "ナシヌー高校",
         "type": "hs",
         "grad_year": null,
@@ -200,7 +200,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "エレスメア大学",
         "name_raw": "エレスメア大学",
         "type": "univ",
         "grad_year": null,
@@ -246,7 +246,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "大阪府立摂津高校",
         "name_raw": "大阪府立摂津高校",
         "type": "hs",
         "grad_year": null,
@@ -254,7 +254,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -300,7 +300,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "宮崎県立日向高校",
         "name_raw": "宮崎県立日向高校",
         "type": "hs",
         "grad_year": null,
@@ -308,7 +308,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -354,7 +354,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "佐賀工業高校",
         "name_raw": "佐賀工業高校",
         "type": "hs",
         "grad_year": null,
@@ -362,7 +362,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,
@@ -408,7 +408,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -416,7 +416,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "早稲田大学",
         "name_raw": "早稲田大学",
         "type": "univ",
         "grad_year": null,
@@ -462,7 +462,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "関西大学北陽高校",
         "name_raw": "関西大学北陽高校",
         "type": "hs",
         "grad_year": null,
@@ -470,7 +470,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "京都産業大学",
         "name_raw": "京都産業大学",
         "type": "univ",
         "grad_year": null,
@@ -516,7 +516,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "天理高校",
         "name_raw": "天理高校",
         "type": "hs",
         "grad_year": null,
@@ -524,7 +524,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "日本体育大学",
         "name_raw": "日本体育大学",
         "type": "univ",
         "grad_year": null,
@@ -570,7 +570,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "中部大学春日丘高等学校",
         "name_raw": "中部大学春日丘高等学校",
         "type": "hs",
         "grad_year": null,
@@ -578,7 +578,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "専修大学",
         "name_raw": "専修大学",
         "type": "univ",
         "grad_year": null,
@@ -617,7 +617,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "朝鮮大学校",
         "name_raw": "朝鮮大学校",
         "type": "univ",
         "grad_year": null,
@@ -625,7 +625,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "朝鮮大学校",
         "name_raw": "朝鮮大学校",
         "type": "univ",
         "grad_year": null,
@@ -671,7 +671,7 @@
     "season_stats": null,
     "education": [
       {
-        "school_id": null,
+        "school_id": "東福岡高校",
         "name_raw": "東福岡高校",
         "type": "hs",
         "grad_year": null,
@@ -679,7 +679,7 @@
         "scraped_at": "2026-07-18T20:07:26+09:00"
       },
       {
-        "school_id": null,
+        "school_id": "帝京大学",
         "name_raw": "帝京大学",
         "type": "univ",
         "grad_year": null,

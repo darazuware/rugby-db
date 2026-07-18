@@ -1,13 +1,14 @@
 # 学校データ移行レポート（P5-1）
 
-生成: 2026-07-18T15:45:00+09:00
+生成: 2026-07-18T22:15:18+09:00
 
-- schools.json 総数: 447
-- 今回新規追加した学校: 447
-- school_id を付与した education entry 数: 1360
+- schools.json 総数: 527
+- 今回新規追加した学校: 80
+- school_id を付与した education entry 数: 1008
 
 ## 更新した players/*.json
 
-- league-one-d2.json: 新規学校 316 件
-- league-one-d3.json: 新規学校 131 件
+- age-grade.json: 新規学校 22 件
+- sevens-national.json: 新規学校 5 件
+- university.json: 新規学校 53 件
 

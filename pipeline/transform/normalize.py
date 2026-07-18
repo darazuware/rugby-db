@@ -25,6 +25,17 @@ def _slugify(text: str) -> str:
     return s
 
 
+def _slugify_ja(text: str) -> str:
+    """日本語を含む文字列のkebab化（_slugifyはASCII専用でkanji/kanaを全て捨てるため別関数）。
+
+    pipeline.migrate_schools.slugify_school と同じ方針（ローマ字化しない。
+    01/10: 日本語名をAIが翻訳・補完しない）。id生成専用でschools.jsonには書かない。
+    """
+    s = re.sub(r"\s+", "", text or "")
+    s = re.sub(r"[^\w]+", "-", s, flags=re.UNICODE).strip("-")
+    return s or "x"
+
+
 def player(raw: dict, *, league: str, team_id: Optional[str]) -> tuple[Optional[dict], list[str]]:
     """league-one.jp の生選手 dict → Player dict。"""
     warnings: list[str] = []
@@ -320,6 +331,98 @@ def player_jrfu_squad(raw: dict, *, league: str) -> tuple[Optional[dict], list[s
         model, w = Player.parse(data)
     except ValidationError as exc:
         return None, [f"jrfu_{squad}_{did}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
+    return model.model_dump(by_alias=True), w
+
+
+def _univ_grad_year(grade: Optional[int], scraped_at: str) -> Optional[int]:
+    """現在の学年(grade, 1-4)から卒業年(西暦)を機械的に算出する（P5-5）。
+
+    日本の4年制大学は4月入学・3月卒業なので、年度(4月始まり)を ay とすると
+    grade=g の学生は ay年度にg回生 → 卒業年度末=ay + (5-g) 年の3月。
+    ay は scraped_at の月が4月以降ならその年、1-3月なら前年。
+    生年月日と違い「学年」自体がソース記載の事実であり、ここでの変換は
+    その事実からの機械的な暦計算（_jrfu_is_minorの年齢計算と同種）であって
+    AIによる補完ではない。
+    """
+    if grade is None:
+        return None
+    try:
+        dt = datetime.fromisoformat(scraped_at)
+    except ValueError:
+        return None
+    ay = dt.year if dt.month >= 4 else dt.year - 1
+    return ay + 5 - grade
+
+
+def _univ_hs_grad_year(grade: Optional[int], scraped_at: str) -> Optional[int]:
+    """現在の大学の学年から、出身高校の卒業年(=大学入学年)を機械的に算出する。"""
+    if grade is None:
+        return None
+    try:
+        dt = datetime.fromisoformat(scraped_at)
+    except ValueError:
+        return None
+    ay = dt.year if dt.month >= 4 else dt.year - 1
+    return ay - grade + 1
+
+
+def player_university(raw: dict, *, team_name: str, division: str,
+                      source_url: str) -> tuple[Optional[dict], list[str]]:
+    """大学ラグビー部公式サイトの部員名簿1件 raw dict -> Player dict（P5-5）。
+
+    raw は pipeline.scrape.university._extract_records()（または LLM フォールバック）
+    の1レコード: {kanji, kana, grade(1-4|None), position, school_raw, height_cm, weight_kg}。
+    team_id は付与しない（university は NO_TEAM_LEAGUES。所属大学は education の
+    type="univ" エントリで表現し、school_id は migrate_schools.py が別途解決する）。
+    生年月日・SNS・写真は一切収集しない（10: 学生ポリシー）。身長体重は名簿ページに
+    公式記載があった場合のみ、スキーマの妥当性範囲外なら通常通りnull化される。
+    """
+    kanji = raw.get("kanji")
+    if not kanji:
+        return None, ["university: 氏名(漢字)欠落のためスキップ"]
+    kana = raw.get("kana") or ""
+    team_slug = _slugify_ja(team_name)
+    name_slug = _slugify_ja(kanji)
+    pid = f"univ_{team_slug}__{name_slug}"
+    slug = f"univ-{team_slug}-{name_slug}"
+
+    now = _now()
+    grade = raw.get("grade")
+    education = [{
+        "name_raw": team_name, "type": "univ",
+        "grad_year": _univ_grad_year(grade, now),
+        "source_url": source_url, "scraped_at": now,
+    }]
+    school_raw = raw.get("school_raw")
+    if school_raw:
+        education.append({
+            "name_raw": school_raw, "type": "hs",
+            "grad_year": _univ_hs_grad_year(grade, now),
+            "source_url": source_url, "scraped_at": now,
+        })
+
+    data = {
+        "id": pid,
+        "source": "university-club-site",
+        "source_url": source_url,
+        "scraped_at": now,
+        "name_ja": kanji,
+        "name_kana": kana or None,
+        "slug": slug,
+        "position": raw.get("position"),
+        "team_id": None,
+        "league": "university",
+        "height_cm": raw.get("height_cm"),
+        "weight_kg": raw.get("weight_kg"),
+        "nationality": [],
+        "education": education,
+        "squad": division,
+        "is_minor": False,  # 大学生は成人（10）
+    }
+    try:
+        model, w = Player.parse(data)
+    except ValidationError as exc:
+        return None, [f"{pid}: Player 検証失敗 {exc.error_count()} 件のためスキップ"]
     return model.model_dump(by_alias=True), w
 
 

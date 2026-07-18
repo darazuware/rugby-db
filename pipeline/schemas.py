@@ -29,6 +29,31 @@ LEAGUE_KEYS = TEAM_LEAGUES | NO_TEAM_LEAGUES
 # （2026-07-18 に実ページで確認）のため、正データ取得元としてこちらを許可する。
 ALLOWED_DOMAINS = {"league-one.jp", "all.rugby", "jrfu.jp", "rugby-japan.jp"}
 
+# P5-5: 大学ラグビー部員名簿（10_YOUTH_AGEGRADE.md 大学スコープ）。
+# 関東大学対抗戦A/B・関東大学リーグ戦1部/2部・関西大学A/Bリーグ、各校ラグビー部
+# 公式サイトのドメイン（pipeline/scrape/university.py の DIVISIONS に実URLを記録、
+# 2026-07-18 に実ページで到達性を確認）。連盟サイト自体は名簿を持たないため
+# 各校公式サイトが正データ源になる（02）。一部（中央大学 curfcsc.jp、拓殖大学
+# takushoku-rugby.com、白鷗大学 hakuoh-rugby.com、追手門学院大学
+# otemongakuinrfc.com）は同日時点で名前解決不可だったが、将来復旧する可能性を
+# 考慮しドメイン自体は登録しておく（実データ取得時は university.py 側の
+# warning・0件скипで扱う）。
+ALLOWED_DOMAINS |= {
+    "wasedarugby.com", "teikyo-sports.jp", "meijirugby.jp", "keiorugby.com",
+    "aogaku-rugby.com", "tsa.tsukuba.ac.jp", "rikkyo-rugby.com", "nssurfc.jp",
+    "seikeiruggerclub.com", "mgurfc.com", "musashi-rugby.net", "turfc.com",
+    "sophia-rugby.com", "seijorugby.com", "hurfc.jp", "gakushuin-rugby.com",
+    "daito-rfc.com", "toyorugby.com", "seagales.com", "rku-rugby.jp",
+    "hosei-rugby.org", "ris.ac.jp", "nurfc.net", "kgu-rugby.net",
+    "curfcsc.jp", "senshurugby.com", "ygu.ac.jp", "takushoku-rugby.com",
+    "hakuoh-rugby.com", "kokugakuinrugby.com", "krurfc.d2.r-cms.jp",
+    "ritsumeirugby.com", "cc.kyoto-su.ac.jp", "setsunan-rugby.com",
+    "rugby.tenri-u.net", "kandairugby.com", "doshisha-rugby.com",
+    "kindai-rugby.jp", "kgrfc.net", "ouhs.jp", "kiurfc.com", "konan-rugby.com",
+    "ouerugby.o-oku.jp", "ryukoku-univ-rugby.com", "oiu-rugby.com",
+    "otemongakuinrfc.com", "osu-rugby.jp",
+}
+
 HEIGHT_RANGE = (150, 230)
 # P5-3: 下限60は男子プロ基準で、女子セブンズ代表の実測値(56kg等、JRFU公式公表)を
 # 誤って null 化していたため 45 に拡大（実データに合わせた妥当性範囲の修正）。
@@ -179,7 +204,8 @@ class Player(_StrictModel):
     education: list[Education] = Field(default_factory=list)
     instagram: Optional[str] = None
     image_url: Optional[str] = None  # 参考保持のみ、表示禁止（02/06）
-    squad: Optional[str] = None  # P5: sevens_m/sevens_w/u17..u23
+    squad: Optional[str] = None  # P5: sevens_m/sevens_w/u17..u23、P5-5: 大学の所属区分
+    # （kanto_taikosen_a/b, kanto_league_1/2, kansai_a/b）
     is_featured: bool = False
     is_minor: bool = False
     merged_from: list[str] = Field(default_factory=list)

@@ -1,0 +1,306 @@
+{
+  "league": "university",
+  "signings": [
+    {
+      "id": "univ_京都大学__上杉悠太",
+      "name_en": null,
+      "name_ja": "上杉 悠太",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__北川英史",
+      "name_en": null,
+      "name_ja": "北川 英史",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__坪井勇揮",
+      "name_en": null,
+      "name_ja": "坪井 勇揮",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__小向拓未",
+      "name_en": null,
+      "name_ja": "小向 拓未",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__小玉秋太朗",
+      "name_en": null,
+      "name_ja": "小玉 秋太朗",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__木村優哉",
+      "name_en": null,
+      "name_ja": "木村 優哉",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__桂翔馬",
+      "name_en": null,
+      "name_ja": "桂 翔馬",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__石塚昊",
+      "name_en": null,
+      "name_ja": "石塚 昊",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__福原新大",
+      "name_en": null,
+      "name_ja": "福原 新大",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__芝田宗汰",
+      "name_en": null,
+      "name_ja": "芝田 宗汰",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__越智拓海",
+      "name_en": null,
+      "name_ja": "越智 拓海",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__鈴木誠大",
+      "name_en": null,
+      "name_ja": "鈴木 誠大",
+      "team_id": null
+    },
+    {
+      "id": "univ_早稲田大学__天田莉子",
+      "name_en": null,
+      "name_ja": "天田 莉子",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__今井禅",
+      "name_en": null,
+      "name_ja": "今井 禅",
+      "team_id": null
+    },
+    {
+      "id": "univ_東京大学__中村智貴",
+      "name_en": null,
+      "name_ja": "中村 智貴",
+      "team_id": null
+    },
+    {
+      "id": "univ_東京大学__伊藤佑樹",
+      "name_en": null,
+      "name_ja": "伊藤 佑樹",
+      "team_id": null
+    },
+    {
+      "id": "univ_東京大学__橘希奈",
+      "name_en": null,
+      "name_ja": "橘 希奈",
+      "team_id": null
+    },
+    {
+      "id": "univ_東京大学__須貝ののか",
+      "name_en": null,
+      "name_ja": "須貝 ののか",
+      "team_id": null
+    },
+    {
+      "id": "univ_武蔵大学__久保田美波",
+      "name_en": null,
+      "name_ja": "久保田　美波",
+      "team_id": null
+    }
+  ],
+  "transfers": [],
+  "departures": [],
+  "first_caps": [],
+  "caps_updates": [],
+  "pending_departures": [
+    {
+      "id": "univ_上智大学__伊藤脩喬",
+      "name_en": null,
+      "name_ja": "伊藤 脩喬",
+      "team_id": null
+    },
+    {
+      "id": "univ_上智大学__大野悠宇",
+      "name_en": null,
+      "name_ja": "大野 悠宇",
+      "team_id": null
+    },
+    {
+      "id": "univ_上智大学__杉江慶和",
+      "name_en": null,
+      "name_ja": "杉江 慶和",
+      "team_id": null
+    },
+    {
+      "id": "univ_上智大学__竹田翔斗",
+      "name_en": null,
+      "name_ja": "竹田 翔斗",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__佐々木光二朗",
+      "name_en": null,
+      "name_ja": "佐々木 光二朗",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__佐野僚",
+      "name_en": null,
+      "name_ja": "佐野 僚",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__堤優斗",
+      "name_en": null,
+      "name_ja": "堤 優斗",
+      "team_id": null
+    },
+    {
+      "id": "univ_京都大学__大鶴健",
+      "name_en": null,
+      "name_ja": "大鶴 健",
+      "team_id": null
+    },
+    {
+      "id": "univ_慶應義塾大学__慶應志木派遣学生コーチ",
+      "name_en": null,
+      "name_ja": "慶應志木 派遣学生コーチ",
+      "team_id": null
+    },
+    {
+      "id": "univ_日本体育大学__谷亜諭",
+      "name_en": null,
+      "name_ja": "谷 亜諭",
+      "team_id": null
+    },
+    {
+      "id": "univ_明治学院大学__今尾真",
+      "name_en": null,
+      "name_ja": "今尾 真",
+      "team_id": null
+    },
+    {
+      "id": "univ_武蔵大学__川田明宏",
+      "name_en": null,
+      "name_ja": "川田　明宏",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__中野瑠人",
+      "name_en": null,
+      "name_ja": "中野　瑠人",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__加茂好誠",
+      "name_en": null,
+      "name_ja": "加茂　好誠",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__古田大悟",
+      "name_en": null,
+      "name_ja": "古田　大悟",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__吉田大悟",
+      "name_en": null,
+      "name_ja": "吉田　大悟",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__堀江佳太",
+      "name_en": null,
+      "name_ja": "堀江　佳太",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__岩切亮磨",
+      "name_en": null,
+      "name_ja": "岩切　亮磨",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__岩切亮麿",
+      "name_en": null,
+      "name_ja": "岩切　亮麿",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__張田正",
+      "name_en": null,
+      "name_ja": "張田　正",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__戸田沙耶",
+      "name_en": null,
+      "name_ja": "戸田　沙耶",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__森勇基",
+      "name_en": null,
+      "name_ja": "森　勇基",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__知念純平",
+      "name_en": null,
+      "name_ja": "知念　純平",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__福冨春来",
+      "name_en": null,
+      "name_ja": "福冨　春来",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__福富春来",
+      "name_en": null,
+      "name_ja": "福富　春来",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__秋山仁",
+      "name_en": null,
+      "name_ja": "秋山　仁",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__鈴井晴大",
+      "name_en": null,
+      "name_ja": "鈴井　晴大",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__鎌田橙弥",
+      "name_en": null,
+      "name_ja": "鎌田　橙弥",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__阿波律風",
+      "name_en": null,
+      "name_ja": "阿波　律風",
+      "team_id": null
+    },
+    {
+      "id": "univ_龍谷大学__馬場陽平",
+      "name_en": null,
+      "name_ja": "馬場　陽平",
+      "team_id": null
+    }
+  ],
+  "newly_finished_rounds": []
+}

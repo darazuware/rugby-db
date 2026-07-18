@@ -810,6 +810,15 @@
     "scraped_at": null
   },
   {
+    "id": "エレスメア大学",
+    "name": "エレスメア大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "エンデバースポーツ",
     "name": "エンデバースポーツ",
     "name_kana": null,
@@ -1260,6 +1269,15 @@
     "scraped_at": null
   },
   {
+    "id": "ナシヌー高校",
+    "name": "ナシヌー高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "ナタンブア",
     "name": "ナタンブア",
     "name_kana": null,
@@ -1647,6 +1665,15 @@
     "scraped_at": null
   },
   {
+    "id": "上智大学",
+    "name": "上智大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "上野丘高校",
     "name": "上野丘高校",
     "name_kana": null,
@@ -1692,6 +1719,15 @@
     "scraped_at": null
   },
   {
+    "id": "中部大学春日丘高等学校",
+    "name": "中部大学春日丘高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "九州共立大学",
     "name": "九州共立大学",
     "name_kana": null,
@@ -1728,6 +1764,15 @@
     "scraped_at": null
   },
   {
+    "id": "京都大学",
+    "name": "京都大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "京都学園高校",
     "name": "京都学園高校",
     "name_kana": null,
@@ -1746,8 +1791,35 @@
     "scraped_at": null
   },
   {
+    "id": "京都市立京都工学院高校",
+    "name": "京都市立京都工学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都市立京都工学院高等学校",
+    "name": "京都市立京都工学院高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "京都成章高校",
     "name": "京都成章高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "京都成章高等学校",
+    "name": "京都成章高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -1766,6 +1838,15 @@
   {
     "id": "仙台育英学園高校",
     "name": "仙台育英学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "仙台育英学園高等学校",
+    "name": "仙台育英学園高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -1800,6 +1881,15 @@
     "scraped_at": null
   },
   {
+    "id": "佐賀県立佐賀工業高等学校",
+    "name": "佐賀県立佐賀工業高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "佐野日大高校",
     "name": "佐野日大高校",
     "name_kana": null,
@@ -1811,6 +1901,15 @@
   {
     "id": "佐野日本大学高校",
     "name": "佐野日本大学高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "保善高等学校",
+    "name": "保善高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -1926,6 +2025,24 @@
     "scraped_at": null
   },
   {
+    "id": "千葉県立千葉高等学校",
+    "name": "千葉県立千葉高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "千葉県立幕張総合高等学校",
+    "name": "千葉県立幕張総合高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "千葉経済大学附属高校",
     "name": "千葉経済大学附属高校",
     "name_kana": null,
@@ -1973,6 +2090,15 @@
   {
     "id": "名古屋西高校",
     "name": "名古屋西高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "名古屋高等学校",
+    "name": "名古屋高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2097,6 +2223,15 @@
     "scraped_at": null
   },
   {
+    "id": "國學院大學久我山高等学校",
+    "name": "國學院大學久我山高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "國學院大學栃木高校",
     "name": "國學院大學栃木高校",
     "name_kana": null,
@@ -2106,8 +2241,26 @@
     "scraped_at": null
   },
   {
+    "id": "國學院大學栃木高等学校",
+    "name": "國學院大學栃木高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "國學院栃木高校",
     "name": "國學院栃木高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "國學院高等学校",
+    "name": "國學院高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2153,6 +2306,15 @@
   {
     "id": "報徳学園高校",
     "name": "報徳学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "報徳学園高等学校",
+    "name": "報徳学園高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2232,6 +2394,24 @@
     "scraped_at": null
   },
   {
+    "id": "大阪府立摂津高校",
+    "name": "大阪府立摂津高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪府立桜塚高等学校",
+    "name": "大阪府立桜塚高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "大阪日新高校",
     "name": "大阪日新高校",
     "name_kana": null,
@@ -2261,6 +2441,15 @@
   {
     "id": "大阪桐蔭高校",
     "name": "大阪桐蔭高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "大阪桐蔭高等学校",
+    "name": "大阪桐蔭高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2322,10 +2511,46 @@
     "scraped_at": null
   },
   {
+    "id": "天理高等学校",
+    "name": "天理高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "奈良県立御所実業高等学校",
+    "name": "奈良県立御所実業高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "女子学院中学校-高等学校",
+    "name": "女子学院中学校・高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "学習院大学",
     "name": "学習院大学",
     "name_kana": null,
     "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "学習院高等科",
+    "name": "学習院高等科",
+    "name_kana": null,
+    "type": "hs",
     "pref": null,
     "source_url": null,
     "scraped_at": null
@@ -2342,6 +2567,33 @@
   {
     "id": "宮古高校",
     "name": "宮古高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "宮城県佐沼高等学校",
+    "name": "宮城県佐沼高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "宮崎県立日向高校",
+    "name": "宮崎県立日向高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "宮崎県立高鍋高等学校",
+    "name": "宮崎県立高鍋高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2412,6 +2664,15 @@
     "scraped_at": null
   },
   {
+    "id": "山口県立大津緑洋高等学校",
+    "name": "山口県立大津緑洋高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "山形中央高校",
     "name": "山形中央高校",
     "name_kana": null,
@@ -2457,6 +2718,15 @@
     "scraped_at": null
   },
   {
+    "id": "島本高校",
+    "name": "島本高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "崇徳高校",
     "name": "崇徳高校",
     "name_kana": null,
@@ -2466,8 +2736,26 @@
     "scraped_at": null
   },
   {
+    "id": "崇徳高等学校",
+    "name": "崇徳高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "川口高校",
     "name": "川口高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "川越東高等学校",
+    "name": "川越東高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2504,6 +2792,15 @@
   {
     "id": "常翔学園高校",
     "name": "常翔学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "常翔学園高等学校",
+    "name": "常翔学園高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2592,6 +2889,24 @@
     "scraped_at": null
   },
   {
+    "id": "愛知高校",
+    "name": "愛知高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "愛知高等学校",
+    "name": "愛知高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "慶應義塾大学",
     "name": "慶應義塾大学",
     "name_kana": null,
@@ -2610,10 +2925,37 @@
     "scraped_at": null
   },
   {
+    "id": "成城学園高等学校",
+    "name": "成城学園高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "成田高等学校",
+    "name": "成田高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "成蹊大学",
     "name": "成蹊大学",
     "name_kana": null,
     "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "成蹊高等学校",
+    "name": "成蹊高等学校",
+    "name_kana": null,
+    "type": "hs",
     "pref": null,
     "source_url": null,
     "scraped_at": null
@@ -2727,6 +3069,15 @@
     "scraped_at": null
   },
   {
+    "id": "日本体育大学柏高等学校",
+    "name": "日本体育大学柏高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "日本体育大学荏原高校",
     "name": "日本体育大学荏原高校",
     "name_kana": null,
@@ -2747,6 +3098,15 @@
   {
     "id": "日本大学高校",
     "name": "日本大学高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "日本大学高等学校",
+    "name": "日本大学高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2781,6 +3141,15 @@
     "scraped_at": null
   },
   {
+    "id": "日本航空石川高等学校",
+    "name": "日本航空石川高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "日本航空高校石川",
     "name": "日本航空高校石川",
     "name_kana": null,
@@ -2799,6 +3168,15 @@
     "scraped_at": null
   },
   {
+    "id": "早稲田大阪高校",
+    "name": "早稲田大阪高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "早稲田摂陵高校",
     "name": "早稲田摂陵高校",
     "name_kana": null,
@@ -2808,8 +3186,26 @@
     "scraped_at": null
   },
   {
+    "id": "早稲田摂陵高等学校",
+    "name": "早稲田摂陵高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "昌平高校",
     "name": "昌平高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "昌平高等学校",
+    "name": "昌平高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -2855,6 +3251,15 @@
   {
     "id": "明治大学",
     "name": "明治大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "明治学院大学",
+    "name": "明治学院大学",
     "name_kana": null,
     "type": "univ",
     "pref": null,
@@ -2916,10 +3321,28 @@
     "scraped_at": null
   },
   {
+    "id": "本郷高等学校",
+    "name": "本郷高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "札幌山の手高校",
     "name": "札幌山の手高校",
     "name_kana": null,
     "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東京大学",
+    "name": "東京大学",
+    "name_kana": null,
+    "type": "univ",
     "pref": null,
     "source_url": null,
     "scraped_at": null
@@ -2936,6 +3359,15 @@
   {
     "id": "東京農業大学第二高校",
     "name": "東京農業大学第二高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東京都立江戸川高等学校",
+    "name": "東京都立江戸川高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3033,6 +3465,15 @@
     "scraped_at": null
   },
   {
+    "id": "東海大学付属大阪仰星高等学校",
+    "name": "東海大学付属大阪仰星高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "東海大学付属熊本星翔高校",
     "name": "東海大学付属熊本星翔高校",
     "name_kana": null,
@@ -3051,8 +3492,26 @@
     "scraped_at": null
   },
   {
+    "id": "東海大学付属相模中学校-相模高等学校",
+    "name": "東海大学付属相模中学校・相模高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "東海大学付属相模高校",
     "name": "東海大学付属相模高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "東海大学付属相模高等学校",
+    "name": "東海大学付属相模高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3114,6 +3573,15 @@
     "scraped_at": null
   },
   {
+    "id": "東福岡高等学校",
+    "name": "東福岡高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "東筑高校",
     "name": "東筑高校",
     "name_kana": null,
@@ -3141,6 +3609,15 @@
     "scraped_at": null
   },
   {
+    "id": "桐朋高等学校",
+    "name": "桐朋高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "桐生第一高校",
     "name": "桐生第一高校",
     "name_kana": null,
@@ -3152,6 +3629,15 @@
   {
     "id": "桐蔭学園高校",
     "name": "桐蔭学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "桐蔭学園高等学校",
+    "name": "桐蔭学園高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3177,10 +3663,37 @@
     "scraped_at": null
   },
   {
+    "id": "武蔵大学",
+    "name": "武蔵大学",
+    "name_kana": null,
+    "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "沖縄県立名護高等学校",
+    "name": "沖縄県立名護高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "法政大学",
     "name": "法政大学",
     "name_kana": null,
     "type": "univ",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "洛北高校",
+    "name": "洛北高校",
+    "name_kana": null,
+    "type": "hs",
     "pref": null,
     "source_url": null,
     "scraped_at": null
@@ -3213,8 +3726,26 @@
     "scraped_at": null
   },
   {
+    "id": "流通経済大学付属柏高等学校",
+    "name": "流通経済大学付属柏高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "流通経済大学柏高校",
     "name": "流通経済大学柏高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "流通経済大学柏高等学校",
+    "name": "流通経済大学柏高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3366,6 +3897,15 @@
     "scraped_at": null
   },
   {
+    "id": "目黒学院高等学校",
+    "name": "目黒学院高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "石見智翠館高校",
     "name": "石見智翠館高校",
     "name_kana": null,
@@ -3375,8 +3915,26 @@
     "scraped_at": null
   },
   {
+    "id": "石見智翠館高等学校",
+    "name": "石見智翠館高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "磐城高校",
     "name": "磐城高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "神奈川県立追浜高等学校",
+    "name": "神奈川県立追浜高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3404,6 +3962,42 @@
   {
     "id": "福岡工業高校",
     "name": "福岡工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡県立城南高等学校",
+    "name": "福岡県立城南高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡県立小倉高等学校",
+    "name": "福岡県立小倉高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡県立福岡高等学校",
+    "name": "福岡県立福岡高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "福岡県立筑紫高等学校",
+    "name": "福岡県立筑紫高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3564,6 +4158,15 @@
     "scraped_at": null
   },
   {
+    "id": "興国高校",
+    "name": "興国高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "芦屋学園高校",
     "name": "芦屋学園高校",
     "name_kana": null,
@@ -3593,6 +4196,24 @@
   {
     "id": "茗溪学園高校",
     "name": "茗溪学園高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "茗溪学園高等学校",
+    "name": "茗溪学園高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "茨城県立水戸第一高等学校",
+    "name": "茨城県立水戸第一高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3672,6 +4293,15 @@
     "scraped_at": null
   },
   {
+    "id": "遺愛女子中学高等学校",
+    "name": "遺愛女子中学高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "都島工業高校",
     "name": "都島工業高校",
     "name_kana": null,
@@ -3735,8 +4365,26 @@
     "scraped_at": null
   },
   {
+    "id": "長崎県立長崎北陽台高等学校",
+    "name": "長崎県立長崎北陽台高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "開志国際高校",
     "name": "開志国際高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "開志国際高等学校",
+    "name": "開志国際高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3753,8 +4401,26 @@
     "scraped_at": null
   },
   {
+    "id": "関東学院六浦中学校-高等学校",
+    "name": "関東学院六浦中学校・高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "関東学院六浦高校",
     "name": "関東学院六浦高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "関東学院六浦高等学校",
+    "name": "関東学院六浦高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3879,6 +4545,15 @@
     "scraped_at": null
   },
   {
+    "id": "青山学院高等部",
+    "name": "青山学院高等部",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "青森山田高校",
     "name": "青森山田高校",
     "name_kana": null,
@@ -3888,8 +4563,35 @@
     "scraped_at": null
   },
   {
+    "id": "静岡県立磐田南高等学校",
+    "name": "静岡県立磐田南高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "静岡聖光学院中高等学校",
+    "name": "静岡聖光学院中高等学校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
     "id": "静岡聖光学院高校",
     "name": "静岡聖光学院高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "静岡聖光学院高等学校",
+    "name": "静岡聖光学院高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3908,6 +4610,15 @@
   {
     "id": "香椎工業高校",
     "name": "香椎工業高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "駒場東邦中高等学校",
+    "name": "駒場東邦中高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
@@ -3989,6 +4700,15 @@
   {
     "id": "鹿児島玉龍高校",
     "name": "鹿児島玉龍高校",
+    "name_kana": null,
+    "type": "hs",
+    "pref": null,
+    "source_url": null,
+    "scraped_at": null
+  },
+  {
+    "id": "麗澤中学校-高等学校",
+    "name": "麗澤中学校・高等学校",
     "name_kana": null,
     "type": "hs",
     "pref": null,
