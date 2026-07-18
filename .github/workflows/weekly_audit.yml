@@ -1,0 +1,76 @@
+name: Weekly Audit
+
+# 05_AUTOMATION.md 準拠。kana未設定リスト・null率レポート・リンク切れチェックを行い、
+# Markdownレポートを Actions artifact として保存する。
+#
+# Issue起票の方針（00 原則5「判断に迷ったら最も保守的」）:
+#   監査に findings（kana未設定 or リンク切れ疑い）がある週のみ GitHub Issue を起票する。
+#   毎週 findings が無くても機械的に Issue を積み上げると、実際に対応が必要な回が
+#   埋もれてノイズになるため。実行結果は findings の有無にかかわらず毎回 Discord に通知する。
+on:
+  schedule:
+    # 07:00 JST 毎週月曜 = 22:00 UTC 日曜（daily_update 06:00 JSTの後に実行）
+    - cron: '0 22 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run audit
+        id: audit
+        run: |
+          python3 -m pipeline.audit --out audit_report.md 2>&1 | tee audit_run.log
+          if grep -q '\[audit\] has_findings=true' audit_run.log; then
+            echo "has_findings=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_findings=false" >> "$GITHUB_OUTPUT"
+          fi
+          kana=$(grep -oP '(?<=kana未設定合計: )\d+' audit_run.log || echo "?")
+          broken=$(grep -oP '(?<=リンク切れ疑い: )\d+' audit_run.log || echo "?")
+          echo "kana_count=$kana" >> "$GITHUB_OUTPUT"
+          echo "broken_count=$broken" >> "$GITHUB_OUTPUT"
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-audit-report-${{ github.run_id }}
+          path: audit_report.md
+          retention-days: 90
+
+      - name: Create issue if findings
+        if: steps.audit.outputs.has_findings == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # weekly-audit ラベルが無いと gh issue create が失敗するため、無ければ作成する（--force で既存時も安全に上書き）
+          gh label create "weekly-audit" --color "5319e7" --description "週次監査(weekly_audit.yml)による自動起票" --force
+          gh issue create \
+            --title "週次監査 $(date +'%Y-%m-%d'): kana未設定 ${{ steps.audit.outputs.kana_count }}件 / リンク切れ疑い ${{ steps.audit.outputs.broken_count }}件" \
+            --body-file audit_report.md \
+            --label "weekly-audit"
+
+      - name: Notify Discord
+        if: always()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python3 -m pipeline.notify --status success \
+            --title "weekly_audit 完了" \
+            --detail "kana未設定: ${{ steps.audit.outputs.kana_count }}件" \
+            --detail "リンク切れ疑い: ${{ steps.audit.outputs.broken_count }}件" \
+            --detail "Issue起票: ${{ steps.audit.outputs.has_findings }}"

@@ -30,7 +30,7 @@
 ## Phase 3 — 自動化
 - [x] **P3-1** `pipeline/news_gen.py`（差分→テンプレ記事）+ テスト（fixture差分から期待md生成）。参照: 05
 - [x] **P3-2** `daily_update.yml` + `pipeline/notify.py`（Discord）。旧workflow削除。完了条件: workflow_dispatch で一気通貫成功。参照: 05
-- [ ] **P3-3** `weekly_audit.yml` + レポート/Issue起票。参照: 05
+- [x] **P3-3** `weekly_audit.yml` + レポート/Issue起票。参照: 05
 
 ## Phase 4 — 収益化・画像・拡張
 - [ ] **P4-1** `affiliates.ts` + PR表記コンポーネント + 視聴ボタン（DAZN/スカパー、URLはプレースホルダー）。参照: 07
