@@ -46,6 +46,7 @@ const news = defineCollection({
         heroImage: z.string().optional(),
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
+        draft: z.boolean().optional().default(false),
     }),
 });
 

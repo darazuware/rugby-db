@@ -2,7 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 
-const news = (await getCollection("news")).sort(
+const news = (await getCollection("news", (entry: CollectionEntry<"news">) => !entry.data.draft)).sort(
   (a: CollectionEntry<"news">, b: CollectionEntry<"news">) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 

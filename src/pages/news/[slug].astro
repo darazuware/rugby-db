@@ -6,7 +6,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 export const prerender = true;
 
 export async function getStaticPaths() {
-  const news = await getCollection("news");
+  const news = await getCollection("news", (entry: CollectionEntry<"news">) => !entry.data.draft);
   return news.map((entry: CollectionEntry<"news">) => ({
     params: { slug: entry.slug },
   }));
@@ -17,7 +17,7 @@ if (!slug) return Astro.redirect("/404");
 
 const entry = await getEntry("news", slug);
 
-if (!entry) {
+if (!entry || entry.data.draft) {
   return Astro.redirect("/404");
 }
 

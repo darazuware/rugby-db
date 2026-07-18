@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "【チーム紹介】ラシン92：パリ近郊の近未来クラブ。世界最大級のラグビー専用アリーナ"
 league: "top14"
 updatedDate: 2026-04-22
