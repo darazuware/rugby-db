@@ -28,7 +28,7 @@
 - [x] **P2-6** kanaバッチ: 未設定外国人の一覧生成 → カタカナ変換して `kana_overrides.json` へ（このタスクのみLLMによる変換を許可、03の手順厳守）。参照: 03
 
 ## Phase 3 — 自動化
-- [ ] **P3-1** `pipeline/news_gen.py`（差分→テンプレ記事）+ テスト（fixture差分から期待md生成）。参照: 05
+- [x] **P3-1** `pipeline/news_gen.py`（差分→テンプレ記事）+ テスト（fixture差分から期待md生成）。参照: 05
 - [ ] **P3-2** `daily_update.yml` + `pipeline/notify.py`（Discord）。旧workflow削除。完了条件: workflow_dispatch で一気通貫成功。参照: 05
 - [ ] **P3-3** `weekly_audit.yml` + レポート/Issue起票。参照: 05
 
