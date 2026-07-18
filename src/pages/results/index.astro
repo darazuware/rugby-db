@@ -6,6 +6,8 @@ import teamNamesJp from "../../../data/team_names_jp.json";
 import teamsData from "../../../data/teams.json";
 
 import { getTeamLink, normalizeTeam, groupByRound } from "../../utils/result_utils";
+import PRNotice from "../../components/PRNotice.astro";
+import WatchButton from "../../components/WatchButton.astro";
 
 const leagues = [
     { id: "league-one", name: "リーグワン", label: "リーグワン", isParent: true },
@@ -60,6 +62,7 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
             <p class="text-foreground/40 font-bold text-sm">
                 2025-26シーズンの全試合結果。常に最新の試合を最上部に表示。
             </p>
+            <PRNotice />
         </header>
 
         <div class="flex flex-col gap-4 mb-12" id="filter-wrapper">
@@ -155,6 +158,9 @@ if (initialLeague === 'league-one') initialLeague = 'league-one-d1';
                                                             {result.away_link ? <a href={result.away_link} class="text-[10px] md:text-xl font-black text-foreground hover:text-yellow-400 truncate">{result.away}</a> : <span class="text-[10px] md:text-xl font-black text-foreground truncate">{result.away}</span>}
                                                         </div>
                                                     </div>
+                                                </div>
+                                                <div class="mt-3 flex justify-end">
+                                                    <WatchButton leagueId={league.id} compact />
                                                 </div>
                                             </div>
                                         ))}

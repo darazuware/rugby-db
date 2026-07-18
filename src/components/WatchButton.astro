@@ -1,0 +1,39 @@
+---
+// 「この試合を見る」視聴ボタン。
+// リーグ→視聴サービス対応表（src/lib/affiliates.ts）を引いてリンクを出す。
+// 設置対象: チーム/リーグ/試合系ページのみ（参照: docs/renewal/07_AFFILIATE.md）
+import { getWatchProviders, AFFILIATE_LINK_ATTRS } from "../lib/affiliates";
+
+interface Props {
+    leagueId?: string | null;
+    /** 1件のみ表示するコンパクト表示（試合カード内など） */
+    compact?: boolean;
+    class?: string;
+}
+
+const { leagueId, compact = false, class: className = "" } = Astro.props;
+const providers = compact
+    ? getWatchProviders(leagueId).slice(0, 1)
+    : getWatchProviders(leagueId);
+---
+
+{
+    providers.length > 0 && (
+        <div class={`flex flex-wrap items-center gap-2 ${className}`}>
+            {providers.map((p) => (
+                <a
+                    href={p.url}
+                    rel={AFFILIATE_LINK_ATTRS.rel}
+                    target={AFFILIATE_LINK_ATTRS.target}
+                    class={
+                        compact
+                            ? "inline-flex items-center gap-1 px-2.5 py-1 bg-yellow-400 text-black text-[9px] font-black rounded-lg hover:bg-yellow-300 transition-colors uppercase tracking-wide whitespace-nowrap"
+                            : "inline-flex items-center gap-2 px-6 py-3 bg-yellow-400 text-black hover:bg-white transition-all rounded-xl font-black text-[10px] uppercase tracking-widest shadow-xl shadow-yellow-400/10"
+                    }
+                >
+                    {compact ? `${p.name}で見る` : `この試合を見る（${p.name}）`}
+                </a>
+            ))}
+        </div>
+    )
+}

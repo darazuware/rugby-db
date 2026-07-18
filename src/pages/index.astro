@@ -2,6 +2,7 @@
 export const prerender = true;
 import Layout from "../layouts/Layout.astro";
 import AffiliateBanner from "../components/AffiliateBanner.astro";
+import PRNotice from "../components/PRNotice.astro";
 import StandingsWidget from "../components/StandingsWidget";
 import standingsData from "../../data/standings.json";
 import { getLeagueStandings, type LeagueId } from "../lib/safeStandings";
@@ -186,6 +187,7 @@ const leagueStandings = [
     </section>
 
     <section class="mb-12">
+        <PRNotice />
         <AffiliateBanner />
     </section>
 </Layout>

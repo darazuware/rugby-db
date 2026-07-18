@@ -2,6 +2,8 @@
 export const prerender = true;
 import Layout from "../../layouts/Layout.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import PRNotice from "../../components/PRNotice.astro";
+import WatchButton from "../../components/WatchButton.astro";
 
 const leagues = [
     {
@@ -101,6 +103,7 @@ const leagues = [
             >
                 世界各国の主要ラグビーリーグを網羅。各リーグの所属チーム、順位、選手情報をチェックできます。
             </p>
+            <PRNotice />
         </header>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -143,6 +146,9 @@ const leagues = [
                                     >
                                         戦績をみる
                                     </a>
+                                </div>
+                                <div class="mt-4">
+                                    <WatchButton leagueId={league.id} compact />
                                 </div>
                             </div>
 

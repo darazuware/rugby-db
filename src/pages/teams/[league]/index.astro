@@ -5,6 +5,8 @@ import StandingsTable from "../../../components/StandingsTable";
 import TeamList from "../../../components/TeamList";
 import PlayerList from "../../../components/PlayerList";
 import AffiliateBanner from "../../../components/AffiliateBanner.astro";
+import PRNotice from "../../../components/PRNotice.astro";
+import WatchButton from "../../../components/WatchButton.astro";
 import { getCollection } from "astro:content";
 import teamsData from "../../../../data/teams.json";
 import standingsData from "../../../../data/standings.json";
@@ -195,6 +197,11 @@ const roundsForSidebar = groupedForSidebar.map(g => ({
                         !isURC && "と所属チーム・ロースター情報"
                     }
                 </p>
+
+                <div class="flex flex-wrap items-center gap-4 mt-4">
+                    <PRNotice />
+                    <WatchButton leagueId={league} />
+                </div>
 
                 {/* モバイル用ジャンプボタン - スクロール追従 */}
                 {

@@ -33,7 +33,7 @@
 - [x] **P3-3** `weekly_audit.yml` + レポート/Issue起票。参照: 05
 
 ## Phase 4 — 収益化・画像・拡張
-- [ ] **P4-1** `affiliates.ts` + PR表記コンポーネント + 視聴ボタン（DAZN/スカパー、URLはプレースホルダー）。参照: 07
+- [x] **P4-1** `affiliates.ts` + PR表記コンポーネント + 視聴ボタン（DAZN/スカパー、URLはプレースホルダー）。参照: 07
 - [ ] **P4-2** venue_areas.json + 宿泊導線。参照: 07
 - [ ] **P4-3** 視聴ガイド記事×3（draft、ユーザーレビュー待ちで止める）。参照: 07
 - [ ] **P4-4** Instagram埋め込み + イラストフォールバック（PlayerAvatar完成形）+ illustrations_todo 生成。参照: 06

@@ -1,4 +1,6 @@
 ---
+import { getWatchProviders, AFFILIATE_LINK_ATTRS } from "../lib/affiliates";
+
 interface Props {
     league?: string;
     type?: "horizontal" | "card";
@@ -17,40 +19,44 @@ interface BannerInfo {
 }
 
 const getBannerInfo = (leagueId?: string): BannerInfo => {
+    const providers = getWatchProviders(leagueId ?? "league-one");
+    const primary = providers[0] ?? { name: "配信サービス", url: "#TODO_ASP_URL" };
+    const providerLabel = providers.map((p) => p.name).join(" / ") || primary.name;
+
     switch (leagueId) {
         case "super-rugby":
             return {
                 title: "SUPER RUGBY PACIFIC",
-                subtitle: "WOWOW 独占生中継",
+                subtitle: `${providerLabel} 独占生中継`,
                 description:
                     "世界最高峰の戦いを、日本で唯一の独占放送・配信で楽しむ。",
-                buttonText: "WOWOW で今すぐ視聴する",
-                url: "https://www.wowow.co.jp/sports/rugby/", // 本番のアフィリエイトリンクに書き換え可能
+                buttonText: `${providerLabel} で今すぐ視聴する`,
+                url: primary.url,
                 color: "from-[#0055A4] to-black",
-                provider: "WOWOW",
+                provider: providerLabel,
             };
         case "top14":
             return {
                 title: "TOP 14 FRANCE",
-                subtitle: "DAZN で視聴可能",
+                subtitle: `${providerLabel} で視聴可能`,
                 description:
                     "スター選手が集結するフランス・トップ14を、いつでもどこでも視聴。",
-                buttonText: "DAZN で今すぐ視聴する",
-                url: "https://www.dazn.com/", // 本番のアフィリエイトリンクに書き換え可能
+                buttonText: `${providerLabel} で今すぐ視聴する`,
+                url: primary.url,
                 color: "from-[#C5A059] to-black",
-                provider: "DAZN",
+                provider: providerLabel,
             };
         case "league-one":
         default:
             return {
                 title: "JAPAN RUGBY LEAGUE ONE",
-                subtitle: "J SPORTS / DAZN で放送・配信",
+                subtitle: `${providerLabel} で放送・配信`,
                 description:
                     "熱狂の国内リーグ全試合をチェック。マルチアングルや見逃し配信も。",
                 buttonText: "視聴方法をチェックする",
-                url: "https://www.jsports.co.jp/rugby/league-one/", // 本番のアフィリエイトリンクに書き換え可能
+                url: primary.url,
                 color: "from-[#E60012] to-black",
-                provider: "J SPORTS / DAZN",
+                provider: providerLabel,
             };
     }
 };
@@ -104,9 +110,9 @@ const banner = getBannerInfo(league);
         }
 
         <div class="flex flex-wrap items-center gap-6">
-            <a href="https://t.afi-b.com/visit.php?a=W11162V-y4169550&p=P8942398"
-               target="_blank"
-               rel="noopener noreferrer"
+            <a href={banner.url}
+               target={AFFILIATE_LINK_ATTRS.target}
+               rel={AFFILIATE_LINK_ATTRS.rel}
                class="inline-flex items-center gap-3 px-10 py-5 bg-white text-gray-950 rounded-2xl font-black text-lg hover:bg-yellow-400 hover:text-black hover:scale-105 active:scale-95 transition-all shadow-xl shadow-white/10 group/btn">
                 無料で視聴する
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 group-hover:translate-x-1 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
